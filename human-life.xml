@@ -3,9 +3,18 @@
   <title>human-life</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml</id>
-  <updated>2026-10-28T17:19:00+00:00</updated>
+  <updated>2026-10-28T17:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</logo>
+  <entry>
+    <title>Marissa Mayer and Other Tech Executives Face Criticism Over AI Parenting and Social Tools</title>
+    <link href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/::v240</id>
+    <published>2026-10-28T17:35:00+00:00</published>
+    <updated>2026-10-28T17:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F55%2F78%2Fc8%2F5578c8b4d8c1fb3883838733ed586231.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/">techcrunch.com</a></small></p><hr/><p>Recent statements by prominent tech figures, including former Yahoo CEO Marissa Mayer and OpenAI CEO Sam Altman, regarding the use of artificial intelligence for parenting tasks and social connection have sparked widespread public backlash. Critics argue that these examples highlight a growing cultural disconnect between Silicon Valley leadership and the general public, where personal milestones and emotional relationships are viewed through the lens of efficiency and automation.</p><p>While tech executives defend their prototypes and visions as tests of emerging capabilities, public polling indicates deep skepticism regarding AI's impact on human relationships. Half of U.S. adults surveyed believe that artificial intelligence will diminish people's ability to form meaningful connections, contrasting sharply with industry leaders who envision AI filling significant gaps in human social and emotional needs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F55%2F78%2Fc8%2F5578c8b4d8c1fb3883838733ed586231.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 20:59 UTC | #25710</small>]]></content>
+  </entry>
   <entry>
     <title>Valve Addresses Rising Trend of AI Game Cloning on Steam</title>
     <link href="https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem" rel="alternate" />
@@ -103,14 +112,5 @@
     <updated>2026-10-23T02:51:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA20qrWO.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D71&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50204095">hacker news</a></small></p><hr/><p>OpenAI terminated three safety researchers following an internal investigation that accused them of mishandling sensitive company information and leaking internal model designs to external AI safety researcher Ryan Greenblatt. The company's suspicions centered partly on the use of disappearing Signal chats to communicate confidential details regarding artificial intelligence developments.</p><p>The dismissals have drawn intense scrutiny within the artificial intelligence community, highlighting ongoing tensions between internal safety advocates and corporate confidentiality protocols. The fired researchers and their supporters have warned that such actions could create a chilling effect on safety research and transparent discourse surrounding advanced AI systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA20qrWO.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D71&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Oct 2026, 11:37 UTC | #25199</small>]]></content>
-  </entry>
-  <entry>
-    <title>MusicTech Editor Criticizes Influx of Low-Effort AI Audio Plugins</title>
-    <link href="https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/" rel="alternate" />
-    <id>https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/::v240</id>
-    <published>2026-10-21T10:05:00+00:00</published>
-    <updated>2026-10-21T10:05:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fvibecoded-ai-plugin-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/">musictech.com</a></small></p><hr/><p>MusicTech commissioning editor Sam Willings has criticized the recent surge of low-effort, AI-generated "vibecoded" audio plugins submitted to the publication's inbox. Willings argues that many of these tools are closed-source, overpriced, and offer little originality compared to the thousands of existing software options.</p><p>The piece highlights growing concerns regarding security and data privacy risks associated with applications built hastily using generative AI tools. While acknowledging that established brands successfully incorporate AI-assisted features, the commentary contrasts rushed software with genuine innovations from independent developers like Baby Audio, Mixland, and Cherry Audio.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fvibecoded-ai-plugin-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Oct 2026, 17:06 UTC | #24993</small>]]></content>
   </entry>
 </feed>

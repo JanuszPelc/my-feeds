@@ -10,6 +10,12 @@
 
 *How the tech business is changing, from chipmaking and data centers to jobs.*
 
+<h2>X Introduces Animated Pointing Hand Nudge to Promote Posts</h2>
+<a name="story-25684"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.stockcake.com%2Fpublic%2Fb%2F8%2Ff%2Fb8f586f7-a8d5-4a46-bce2-6f968a1d1cac_large%2Fpressing-promo-button-stockcake.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>X has rolled out a new in-app prompt for users composing posts, featuring an animated arm that reaches across the screen to highlight the platform's paid promote feature. The visual nudge appears to target X Premium subscribers and verified accounts.</p><p>Reactions from users encountering the feature have been largely critical, with many describing the intrusive screen takeover as jarring and unexpected. The feature allows users to pay to extend the reach of their posts to audiences based on location, interests, and demographics.</p>
+<p><small>Links: <a href="https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts">theverge.com</a></small></p>
+<br clear="all" />
+
 <h2>Meta Commercial Terms Allow UK and EU Users to Object to AI Training Data Scraping</h2>
 <a name="story-25698"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fukeu.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta's updated commercial terms for business accounts allow the company to scrape content from connected websites and domains for product development and AI training. Although Meta subsequently removed explicit training language and limited stated uses following widespread backlash, legal experts warn that the broad scraping provisions remain largely intact.</p><p>Users located in the United Kingdom and the European Union can utilize regional privacy frameworks like the GDPR and the EU AI Act to formally object to their information being used for Meta AI. While these objection forms are accessible via Instagram and Facebook privacy settings for accounts tied to those regions, users outside the UK and EU currently lack these opt-out mechanisms.</p>
@@ -60,12 +66,6 @@
 <a name="story-25649"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F7%252F9%252F7%252F9%252F13369797-2-eng-GB%252Fedfaab771b24-photo_SXM2026102300008613.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fujifilm is increasing its production capacity for magnetic tape fivefold to accommodate surging data storage demand driven by artificial intelligence. The expansion marks the company's largest investment in the storage medium in approximately twenty years.</p><p>Magnetic tape remains widely used by data center operators, financial institutions, and research organizations for secure, offline data backup. The medium offers significant energy efficiency and long-term durability advantages as global data volumes continue to expand rapidly.</p>
 <p><small>Links: <a href="https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades">asia.nikkei.com</a></small></p>
-<br clear="all" />
-
-<h2>HP and Asus Shift Some PC Production Back to China Amid AI-Driven Cost Hikes</h2>
-<a name="story-25647"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FhfiY8n1RTE4geniS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Major personal computer manufacturers including HP, Asus, and Acer are shifting portions of their hardware production from Southeast Asian nations like Thailand and Vietnam back to China. The strategic adjustment is driven by surging component costs and financial pressures linked to the artificial intelligence boom.</p><p>The production pivot also involves partnering with new contract manufacturers as companies seek to optimize supply chain efficiency and manage expenses. Meanwhile, industry competitors like Dell are evaluating similar manufacturing adjustments in response to the changing economic landscape.</p>
-<p><small>Links: <a href="https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes">asia.nikkei.com</a></small></p>
 <br clear="all" />
 
 ---

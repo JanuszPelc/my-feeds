@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-28T17:15:00+00:00</updated>
+  <updated>2026-10-28T17:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>X Introduces Animated Pointing Hand Nudge to Promote Posts</title>
+    <link href="https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts" rel="alternate" />
+    <id>https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts::v240</id>
+    <published>2026-10-28T17:34:00+00:00</published>
+    <updated>2026-10-28T17:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.stockcake.com%2Fpublic%2Fb%2F8%2Ff%2Fb8f586f7-a8d5-4a46-bce2-6f968a1d1cac_large%2Fpressing-promo-button-stockcake.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts">theverge.com</a></small></p><hr/><p>X has rolled out a new in-app prompt for users composing posts, featuring an animated arm that reaches across the screen to highlight the platform's paid promote feature. The visual nudge appears to target X Premium subscribers and verified accounts.</p><p>Reactions from users encountering the feature have been largely critical, with many describing the intrusive screen takeover as jarring and unexpected. The feature allows users to pay to extend the reach of their posts to audiences based on location, interests, and demographics.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.stockcake.com%2Fpublic%2Fb%2F8%2Ff%2Fb8f586f7-a8d5-4a46-bce2-6f968a1d1cac_large%2Fpressing-promo-button-stockcake.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 20:59 UTC | #25684</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Commercial Terms Allow UK and EU Users to Object to AI Training Data Scraping</title>
     <link href="https://www.404media.co/meta-ai-training-uk-eu/" rel="alternate" />
