@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Daniel Lemire Details Billion-Query-Per-Second Lookup Tables in C++</title>
+    <link href="https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/" rel="alternate" />
+    <id>https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/::v240</id>
+    <published>2026-10-28T13:51:00+00:00</published>
+    <updated>2026-10-28T13:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flemire.me%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fperfect-hash-http-headers.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/">lemire.me</a> | <a href="https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c">discussion</a> | <a href="https://news.ycombinator.com/item?id=50271088">hacker news</a></small></p><hr/><p>Daniel Lemire and Francisco Geiman Thiesen have released a C++23 library that implements compile-time perfect hashing to map static strings to values at speeds exceeding one billion lookups per second. By generating a collision-free hash function during compilation, the approach eliminates runtime collision resolution and hashing overhead.</p><p>The technique relies on association tables and key lengths to compute slot indices with minimal bitwise operations, while utilizing 16-byte vector registers and zero-padding to accelerate string comparisons. Benchmarks demonstrate that the method completes lookups in roughly five CPU cycles, significantly outperforming traditional containers like std::unordered_map as well as the GNU gperf tool.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flemire.me%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fperfect-hash-http-headers.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 18:42 UTC | #25731</small>]]></content>
+  </entry>
+  <entry>
     <title>Haskell-Like Type Class Resolution Implemented in Pure Java</title>
     <link href="https://garciat.com/posts/java-type-classes/" rel="alternate" />
     <id>https://garciat.com/posts/java-type-classes/::v240</id>

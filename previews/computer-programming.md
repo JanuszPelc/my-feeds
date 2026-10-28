@@ -10,6 +10,12 @@
 
 *The craft of building software, from new languages to old machines.*
 
+<h2>Daniel Lemire Details Billion-Query-Per-Second Lookup Tables in C++</h2>
+<a name="story-25731"><img src="https://wsrv.nl/?url=https%3A%2F%2Flemire.me%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fperfect-hash-http-headers.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Daniel Lemire and Francisco Geiman Thiesen have released a C++23 library that implements compile-time perfect hashing to map static strings to values at speeds exceeding one billion lookups per second. By generating a collision-free hash function during compilation, the approach eliminates runtime collision resolution and hashing overhead.</p><p>The technique relies on association tables and key lengths to compute slot indices with minimal bitwise operations, while utilizing 16-byte vector registers and zero-padding to accelerate string comparisons. Benchmarks demonstrate that the method completes lookups in roughly five CPU cycles, significantly outperforming traditional containers like std::unordered_map as well as the GNU gperf tool.</p>
+<p><small>Links: <a href="https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/">lemire.me</a> | <a href="https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c">discussion</a> | <a href="https://news.ycombinator.com/item?id=50271088">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Haskell-Like Type Class Resolution Implemented in Pure Java</h2>
 <a name="story-25714"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage3.slideserve.com%2F5573386%2Ftype-classes-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A software engineering blog post explores how Java's existing type system can support Haskell-style type class instance resolution entirely in plain Java without language modifications. By combining runtime reflection, generic type metadata, and a compact type unification engine, the approach automatically resolves both first-order and higher-kinded type classes while supporting overlapping instances and nested generic types.</p><p>Although presented as an experimental exploration rather than a production library, the project demonstrates the surprising amount of structure Java preserves at runtime for advanced type-level programming. A complete reference implementation is publicly available via GitHub and a GitHub Gist for developers examining metaprogramming techniques in Java.</p>
@@ -60,12 +66,6 @@
 <a name="story-25620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F5e0f1144930a8bc8aace526c%2F67c85a8aae0ba12a07892870_ziglang.org-08b804c7ddbdabc8b4bd3a878589399c-2025-03-05.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Anna Liberty shares her experiences and evaluations after returning to the Zig programming language for four months, contrasting it with her previous preferred language, Rust. During this period, she built several small projects—including a smallnet library named snurl—and attended a local Zig Day meetup in Seattle featuring language creator Andrew Kelley.</p><p>Liberty highlights several features she appreciates in Zig, such as explicit allocators, compile-time metaprogramming, the build system, minimal dependency culture, and fast incremental compilation. Conversely, she notes ongoing challenges including ecosystem instability, sparse documentation, limited lifetime support in the compiler, and the lack of compile-time allocators.</p>
 <p><small>Links: <a href="https://gracefulliberty.com/articles/four-months-of-zig/">gracefulliberty.com</a> | <a href="https://lobste.rs/s/qr59sa/four_months_zig">discussion</a> | <a href="https://news.ycombinator.com/item?id=50265128">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Hylke Bons to Design GNOME-Style Emoji Set for Pidgin Live on Twitch</h2>
-<a name="story-25619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplanetpeanut.studio%2Fassets%2Fimg%2Fposts%2Fpidgin-emoji-twitch.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Designer Hylke Bons has announced plans to create a complete base set of 1,447 GNOME-style emojis for the open-source chat client Pidgin exclusively during live streams on Twitch. Bons, who previously designed the emoticon set for Pidgin version 2 and helped redesign its user interface, intends to complete the work over the coming months.</p><p>The project accompanies ongoing development progress on Pidgin 3, which is moving toward an initial release following a major rewrite. Bons is using a public Figma design file to track progress and is supporting the effort through Twitch subscriptions and project sponsorships.</p>
-<p><small>Links: <a href="https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch">planetpeanut.studio</a> | <a href="https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live">discussion</a></small></p>
 <br clear="all" />
 
 ---

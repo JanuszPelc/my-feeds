@@ -3,9 +3,17 @@
   <title>human-life</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml</id>
-  <updated>2026-10-27T23:37:00+00:00</updated>
+  <updated>2026-10-28T13:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</logo>
+  <entry>
+    <title>OpenAI Engineer Abdulrahman Alfozan Indicted for Bugging Headquarters Conference Room</title>
+    <link href="https://www.sfchronicle.com/bayarea/article/open-ai-engineer-indicted-for-bugging-headquarters-22497813.php" rel="alternate" />
+    <id>https://www.sfchronicle.com/bayarea/article/open-ai-engineer-indicted-for-bugging-headquarters-22497813.php::v240</id>
+    <published>2026-10-28T13:50:00+00:00</published>
+    <updated>2026-10-28T13:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sfchronicle.com/bayarea/article/open-ai-engineer-indicted-for-bugging-headquarters-22497813.php">sfchronicle.com</a> | <a href="https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai">source</a> | <a href="https://news.ycombinator.com/item?id=50078937">hacker news</a></small></p><hr/><p>A federal grand jury has indicted 35-year-old OpenAI engineer Abdulrahman Alfozan with felony interception of oral communications after prosecutors alleged he installed an encrypted audio recording device in an executive conference room at the company's San Francisco headquarters.</p><p>The device was discovered behind a television during a security sweep and was reportedly used to capture confidential discussions regarding business plans, research, and government partnerships between late September and early October. Alfozan, who was arrested in October and remains in custody, faces up to five years in prison and a $250,000 fine if convicted.</p><hr/><small>28 Oct 2026, 18:42 UTC | #25674</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Reports Early Progress Using Claude for Drug Development</title>
     <link href="https://www.anthropic.com/research/early-progress-drug-development" rel="alternate" />
@@ -102,14 +110,5 @@
     <published>2026-10-16T21:38:00+00:00</published>
     <updated>2026-10-16T21:38:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://maevyn.codes/decoherence">maevyn.codes</a> | <a href="https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out">discussion</a> | <a href="https://news.ycombinator.com/item?id=50121310">hacker news</a></small></p><hr/><p>Decoherence is the accumulation of locally valid but mutually incompatible or redundant models within a system, which increases the cost of modification. The proliferation of AI-generated content is accelerating this phenomenon, causing system noise and complexity to grow exponentially.</p><p>This process may preclude a "runaway intelligence explosion" by hindering the ability of AI to improve within highly fragmented environments. However, it risks a "Decoherence Collapse," where the complexity of a system becomes combinatorial and eventually outpaces the ability of humans or autonomous agents to navigate or maintain it.</p><hr/><small>17 Oct 2026, 04:53 UTC | #24560</small>]]></content>
-  </entry>
-  <entry>
-    <title>Current Affairs Prohibits AI-Generated Text and Art</title>
-    <link href="https://www.currentaffairs.org/news/why-were-banning-ai" rel="alternate" />
-    <id>https://www.currentaffairs.org/news/why-were-banning-ai::v239</id>
-    <published>2026-10-16T12:06:00+00:00</published>
-    <updated>2026-10-16T12:06:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechjacksolutions.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAI-Acceptable-Use-Case-Policy-Infographic.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.currentaffairs.org/news/why-were-banning-ai">currentaffairs.org</a> | <a href="https://news.ycombinator.com/item?id=50108131">hacker news</a></small></p><hr/><p>Current Affairs magazine has implemented a strict anti-AI policy as part of a recent union contract, prohibiting the publication of AI-generated text and the use of AI-generated illustrations. The decision aims to ensure all content is produced by human writers and artists, directly challenging the industry trend of using generative AI to produce low-cost, automated content.</p><p>The editorial argues that media corporations are increasingly adopting generative AI to reduce labor costs, which threatens both the quality of journalism and the livelihoods of creative professionals. By committing to a "handmade" publication model, the magazine intends to resist the "slopification" of media and prioritize authentic human expression over profit-driven automation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechjacksolutions.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAI-Acceptable-Use-Case-Policy-Infographic.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Oct 2026, 17:36 UTC | #24526</small>]]></content>
   </entry>
 </feed>
