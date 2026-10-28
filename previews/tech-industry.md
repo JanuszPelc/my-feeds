@@ -2,6 +2,12 @@
 
 <h1><img src="../images/tech-industry.png" width="36" align="absmiddle" /> tech-industry</h1>
 
+<h2>HP and Asus Shift Some PC Production Back to China Amid AI-Driven Cost Hikes</h2>
+<a name="story-25647"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FhfiY8n1RTE4geniS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Major personal computer manufacturers including HP, Asus, and Acer are shifting portions of their hardware production from Southeast Asian nations like Thailand and Vietnam back to China. The strategic adjustment is driven by surging component costs and financial pressures linked to the artificial intelligence boom.</p><p>The production pivot also involves partnering with new contract manufacturers as companies seek to optimize supply chain efficiency and manage expenses. Meanwhile, industry competitors like Dell are evaluating similar manufacturing adjustments in response to the changing economic landscape.</p>
+<p><small>Links: <a href="https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes">asia.nikkei.com</a></small></p>
+<br clear="all" />
+
 <h2>Onsemi in Talks to Acquire Startup Ferric for Close to $1 Billion</h2>
 <a name="story-25643"><img src="https://wsrv.nl/?url=https%3A%2F%2Feepower.com%2Fuploads%2Farticles%2Fonsemi-renesas-and-analog-devices-all-announce-and-finalize-acquisitions-fig1.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Semiconductor component maker Onsemi is in advanced discussions to acquire Ferric, a 16-year-old chip startup, for approximately $1 billion. The potential transaction highlights growing industry demand for specialized power management technology capable of supporting the intense energy requirements of artificial intelligence chips.</p><p>Ferric specializes in integrated voltage regulators and previously secured a $32.1 million Series C funding round in December 2024. The acquisition talks arrive as semiconductor firms increasingly target advanced power delivery solutions to address efficiency and thermal challenges in high-performance computing data centers.</p>
@@ -84,12 +90,6 @@
 <a name="story-25517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2FPhoto_illustration_in_India_01_Dec_2023_23335625348020.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Proton has announced "re-interviews" for employees regarding their use of artificial intelligence, a process that may determine continued employment. Internal emails obtained by 404 Media indicate the assessments will inform talent reviews and could result in changes to roles, responsibilities, or employment status.</p><p>The initiative follows CEO Andy Yen's push to integrate AI into company products, such as the Lumo chatbot. The interviews, scheduled for November 4–11, will be conducted by leaders from outside the employees' immediate reporting lines to identify staff capable of translating AI capabilities into improved product execution and new workflows.</p>
 <p><small>Links: <a href="https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50251062">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Instagram Tests 90-Minute Horizontal Videos for Creators and Podcasters</h2>
-<a name="story-25477"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.influencermarketinghub.com%2Fimaginary%2Fconvert%3Ftype%3Dwebp%26url%3Dhttps%3A%2F%2Finfluencermarketinghub.com%2Fwp-content%2Fuploads%2F2021%2F03%2FInstagram-Video-Length-Best-Practices.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Instagram is launching a test allowing select U.S. creators to upload horizontal videos of up to 90 minutes. Titled "Features," the product is designed for podcasters, comedians, and long-form creators, enabling viewers to transition seamlessly from short promotional Reels directly into full-length videos.</p><p>The test expands on earlier trials in Brazil and aims to help Instagram compete with platforms like YouTube for consumer viewing hours. The long-form content will be recommended via the Explore page and integrated into Instagram's TV app, which is expanding to Apple TV following previous rollouts on Samsung, Fire TV, and Google TV hardware.</p>
-<p><small>Links: <a href="https://www.hollywoodreporter.com/business/digital/instagram-tests-90-minute-videos-podcasters-creators-1236739929/">hollywoodreporter.com</a></small></p>
 <br clear="all" />
 
 To subscribe to the tech-industry feed, copy this link into your RSS reader:
