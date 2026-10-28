@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>NXP Semiconductors Shares Decline on Lowered Revenue Forecast</h2>
+<a name="story-25628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.slideteam.net%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F560x315%2Fi%2Fm%2Fimpact_on_quarterly_sales_revenue_sales_enablement_strategy_to_boost_productivity_and_drive_sa_ss_slide01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>NXP Semiconductors issued a fourth-quarter revenue forecast that missed analyst expectations, causing its shares to fall in late trading. The chipmaker expects fourth-quarter revenue to grow approximately 15% to $3.85 billion, which is below the average analyst estimate of $3.87 billion.</p><p>The guidance has raised concerns that the recovery in demand for automotive and industrial chips may be slowing. This follows NXP's third-quarter report, which recorded revenue of $3.8 billion, a 19% increase year-over-year.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast">bloomberg.com</a> | <a href="https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-third-quarter-2026-results">source</a></small></p>
+<br clear="all" />
+
 <h2>Robinhood Reports Q3 Revenue Growth Amid Declining Crypto Revenue</h2>
 <a name="story-25617"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FHOOD-RESULTS%2Fmopaoonokpa%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Robinhood Markets reported third-quarter revenue of $1.42 billion, a 12% year-over-year increase that met analyst expectations. Quarterly profit fell 14% to $476 million, as a 55% decline in cryptocurrency-related revenue to $120 million weighed on the company's results.</p><p>The slump in crypto trading activity offset revenue gains in other sectors, impacting overall profitability. Following the earnings announcement, Robinhood's stock price fell more than 5% in after-hours trading.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2Fconcentrated-capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>California-based startups have secured more than three-fourths of all U.S. venture funding in 2026, pulling in an unprecedented $385 billion across seed- through growth-stage rounds. This figure exceeds the total amount raised by all U.S. startups in any prior single year on record, driven largely by massive megarounds for artificial intelligence pioneers based in San Francisco.</p><p>Major financing rounds for companies like OpenAI and Anthropic account for more than half of the statewide total, while other substantial contributions come from mature firms such as Waymo and Databricks as well as newer ventures like Prometheus and Safe Superintelligence. Additionally, early- and seed-stage California companies have captured nearly $62 billion, representing about 57% of all U.S. early-stage funding this year.</p>
 <p><small>Links: <a href="https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/">news.crunchbase.com</a></small></p>
-<br clear="all" />
-
-<h2>Suzhou Dongshan Precision Manufacturing Raises $1.3 Billion in Hong Kong IPO</h2>
-<a name="story-25433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.digitimes.com%2Fnewsshow%2F20250702pd244_files%2F1_b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Suzhou Dongshan Precision Manufacturing Co., a printed circuit board manufacturer, raised approximately HK$9.9 billion ($1.3 billion) in Hong Kong through its initial public offering. The share sale was priced at roughly HK$86.80, marking the city's largest stock market listing in nearly two months.</p><p>The final offer price represented a 35% discount relative to the company's closing price on the Shenzhen stock exchange amid volatile investor sentiment surrounding technology and artificial intelligence suppliers. The offering drew cautious demand as the company navigated broader market fluctuations.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---

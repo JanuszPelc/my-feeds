@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-27T22:26:00+00:00</updated>
+  <updated>2026-10-27T23:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>NXP Semiconductors Shares Decline on Lowered Revenue Forecast</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast::v240</id>
+    <published>2026-10-27T23:40:00+00:00</published>
+    <updated>2026-10-27T23:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.slideteam.net%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F560x315%2Fi%2Fm%2Fimpact_on_quarterly_sales_revenue_sales_enablement_strategy_to_boost_productivity_and_drive_sa_ss_slide01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast">bloomberg.com</a> | <a href="https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-third-quarter-2026-results">source</a></small></p><hr/><p>NXP Semiconductors issued a fourth-quarter revenue forecast that missed analyst expectations, causing its shares to fall in late trading. The chipmaker expects fourth-quarter revenue to grow approximately 15% to $3.85 billion, which is below the average analyst estimate of $3.87 billion.</p><p>The guidance has raised concerns that the recovery in demand for automotive and industrial chips may be slowing. This follows NXP's third-quarter report, which recorded revenue of $3.8 billion, a 19% increase year-over-year.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.slideteam.net%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F560x315%2Fi%2Fm%2Fimpact_on_quarterly_sales_revenue_sales_enablement_strategy_to_boost_productivity_and_drive_sa_ss_slide01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 05:42 UTC | #25628</small>]]></content>
+  </entry>
   <entry>
     <title>Robinhood Reports Q3 Revenue Growth Amid Declining Crypto Revenue</title>
     <link href="https://www.reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27/" rel="alternate" />
