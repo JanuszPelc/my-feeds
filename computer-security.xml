@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Gareth Heyes Details Bypasses for Popular SVG Sanitizers</title>
+    <link href="https://portswigger.net/research/scalable-vector-grief" rel="alternate" />
+    <id>https://portswigger.net/research/scalable-vector-grief::v240</id>
+    <published>2026-10-28T13:44:00+00:00</published>
+    <updated>2026-10-28T13:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.nintechnet.com%2Fwp-content%2Fuploads%2F2020%2F05%2Felementor-svg-xss-protection-bypass.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://portswigger.net/research/scalable-vector-grief">portswigger.net</a> | <a href="https://lobste.rs/s/vekgyd/scalable_vector_grief">discussion</a></small></p><hr/><p>PortSwigger researcher Gareth Heyes has published findings detailing bypasses for six out of eight popular SVG sanitizers. The research demonstrates various exploitation vectors, including namespace confusion, animate tags, self-contained XSLT stylesheets, and response headers capable of executing JavaScript in Firefox even when the response body contains harmless XML.</p><p>Additional findings reveal that Safari can import image formats such as GIFs as SVG files to execute JavaScript through a use element, successfully bypassing multiple libraries. While sanitizers like DOMPurify and darylldoyle/svg-sanitizer resisted the tested techniques, the vulnerabilities illustrate the persistent difficulties involved in safely handling complex vector graphics formats.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.nintechnet.com%2Fwp-content%2Fuploads%2F2020%2F05%2Felementor-svg-xss-protection-bypass.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:59 UTC | #25726</small>]]></content>
+  </entry>
+  <entry>
     <title>Critical Code-Execution Vulnerability Discovered in TianoCore EDK II UEFI Firmware</title>
     <link href="https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/" rel="alternate" />
     <id>https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/::v240</id>
