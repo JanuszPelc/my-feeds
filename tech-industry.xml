@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-28T01:48:00+00:00</updated>
+  <updated>2026-10-28T01:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>OpenAI Plans to Buy Google AI Chips for Model Optimization</title>
+    <link href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips" rel="alternate" />
+    <id>https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips::v240</id>
+    <published>2026-10-28T01:49:00+00:00</published>
+    <updated>2026-10-28T01:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic2.pisapapeles.net%2Fuploads%2F2025%2F07%2FTPU-GOOGLE-OPEN-AI.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips">theinformation.com</a></small></p><hr/><p>OpenAI plans to purchase Tensor Processing Units from Google to support its artificial intelligence infrastructure, marking a strategic shift for a prominent Nvidia customer. The hardware diversification effort is designed to reduce reliance on existing chip suppliers and expand the company's computing options.</p><p>Evidence of the infrastructure expansion surfaced through a corporate job listing seeking a software engineer to lead the optimization of OpenAI's frontier models on Google's hardware. By adapting its systems for alternative architectures, the company aims to manage the massive compute demands required to run its advanced AI models.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic2.pisapapeles.net%2Fuploads%2F2025%2F07%2FTPU-GOOGLE-OPEN-AI.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 07:26 UTC | #25637</small>]]></content>
+  </entry>
   <entry>
     <title>Felix Rieseberg Discusses the Obsolescence of Coding Interviews and Career Advice for Junior Engineers</title>
     <link href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/" rel="alternate" />
