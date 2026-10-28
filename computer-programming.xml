@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T23:43:00+00:00</updated>
+  <updated>2026-10-28T01:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ahmad Elalfy Discusses HTML Customizable Select Elements</title>
+    <link href="https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html" rel="alternate" />
+    <id>https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html::v240</id>
+    <published>2026-10-28T01:47:00+00:00</published>
+    <updated>2026-10-28T01:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugbear.com%2Fdimg%2Ffdab25022aca70d90bf62855e13b072b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html">alfy.blog</a> | <a href="https://lobste.rs/s/3mnrlw/select_should_tell_you_something">discussion</a></small></p><hr/><p>Ahmad Elalfy explores the capabilities of the CSS appearance: base-select property, which allows developers to transform standard HTML select elements by embedding visual previews, timestamps, structured columns, and badges directly into options.</p><p>The article illustrates five practical use cases for enhanced dropdown menus—ranging from font selectors to time zone pickers—while detailing how media queries can maintain native operating system pickers on touch devices for optimal accessibility and mobile usability.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugbear.com%2Fdimg%2Ffdab25022aca70d90bf62855e13b072b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 07:03 UTC | #25659</small>]]></content>
+  </entry>
   <entry>
     <title>Call Graph Analyzer Released for Rust Panic Detection</title>
     <link href="https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/" rel="alternate" />

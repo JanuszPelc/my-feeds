@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>SK Hynix Reports Record Third-Quarter Profit and Revenue Driven by AI Demand</h2>
+<a name="story-25636"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSK%2BHYNIX-RESULTS%2Fbyprnblwzpe%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SK Hynix reported record third-quarter 2026 financial results, posting revenue of 104.6155 trillion won (approximately $78.8 billion) and an operating profit of 83.3338 trillion won (approximately $62.76 billion). Both figures significantly surpassed analyst expectations, driven by surging global demand for high-bandwidth memory chips used in artificial intelligence applications.</p><p>The company's quarterly sales surpassed 100 trillion won for the first time, with operating profit surging over sixfold compared to the previous year. SK Hynix also announced that shipments and revenue for its upcoming HBM4 chips are expected to outpace HBM3E products, backed by long-term agreements covering more than half of its production capacity for 2027 and 2028.</p>
+<p><small>Links: <a href="https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html">cnbc.com</a> | <a href="https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html">source</a></small></p>
+<br clear="all" />
+
 <h2>AI Data Center Demand Drives US Grid Innovation</h2>
 <a name="story-25630"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Fveir%2Facv0RpGXnQHGZI9U_VEIRSTAR.jpeg%3Fauto%3Dformat%2Ccompress%26rect%3D0%2C371%2C3840%2C2560%26w%3D3840%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rising energy demand from AI is straining the US electrical grid, causing concerns over costs and stability. However, industry leaders argue that this pressure is acting as a catalyst for grid modernization and the adoption of new technologies.</p><p>Companies like Weavegrid are developing software for load orchestration to manage renewable energy and new loads, while Veir is developing superconducting cables that transfer energy more efficiently with a significantly smaller physical footprint than traditional lines.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25447"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHKEgMS9acAAsgwa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta is planning to raise $95 billion to finance its expanding artificial intelligence infrastructure, highlighted by a $35 billion underwritten equity offering backed by major chipmakers including Nvidia, AMD, and Broadcom. The company also intends to raise an additional $60 billion through an "at the market" program to support its broad AI ambitions.</p><p>The large-scale capital raise comes as Meta significantly increases its spending on AI data centers and models, with its capital expenditure forecast rising toward $145 billion. This new stock strategy follows similar massive equity moves by other major technology companies aiming to secure long-term funding amid soaring infrastructure costs.</p>
 <p><small>Links: <a href="https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555">ft.com</a></small></p>
-<br clear="all" />
-
-<h2>Venkatesh Rao Publishes Essay on Cognitive Mercantilism and AI Panic</h2>
-<a name="story-25441"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%210-U5%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fcafd3438-ef0d-41c0-83cf-bcc7e1c995be_1536x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In his essay "Cognitive Mercantilism," Venkatesh Rao argues that current societal anxieties around artificial intelligence structurally resemble the mercantilist worldview that preceded modern capitalism. He contends that contemporary critics treat intelligence as a scarce, fixed resource to be hoarded by elites, much like early modern economists viewed land and bullion.</p><p>Drawing parallels to Joyce Appleby’s history of capitalism, Rao suggests that abundant AI will shift the economic paradigm from cognitive production to consumption. Just as historical agricultural advances allowed populations to become consumers rather than solely manual laborers, AI-driven abundance could spark a "cognitive industrious revolution" where ordinary individuals leverage vast intelligence for new ambitions and projects.</p>
-<p><small>Links: <a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism">contraptions.venkateshrao.com</a> | <a href="https://news.ycombinator.com/item?id=50239027">hacker news</a></small></p>
 <br clear="all" />
 
 ---

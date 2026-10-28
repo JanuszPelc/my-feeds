@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-27T22:56:00+00:00</updated>
+  <updated>2026-10-28T01:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>SK Hynix Reports Record Third-Quarter Profit and Revenue Driven by AI Demand</title>
+    <link href="https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html::v240</id>
+    <published>2026-10-28T01:44:00+00:00</published>
+    <updated>2026-10-28T01:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSK%2BHYNIX-RESULTS%2Fbyprnblwzpe%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html">cnbc.com</a> | <a href="https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html">source</a></small></p><hr/><p>SK Hynix reported record third-quarter 2026 financial results, posting revenue of 104.6155 trillion won (approximately $78.8 billion) and an operating profit of 83.3338 trillion won (approximately $62.76 billion). Both figures significantly surpassed analyst expectations, driven by surging global demand for high-bandwidth memory chips used in artificial intelligence applications.</p><p>The company's quarterly sales surpassed 100 trillion won for the first time, with operating profit surging over sixfold compared to the previous year. SK Hynix also announced that shipments and revenue for its upcoming HBM4 chips are expected to outpace HBM3E products, backed by long-term agreements covering more than half of its production capacity for 2027 and 2028.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSK%2BHYNIX-RESULTS%2Fbyprnblwzpe%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 07:01 UTC | #25636</small>]]></content>
+  </entry>
   <entry>
     <title>AI Data Center Demand Drives US Grid Innovation</title>
     <link href="https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/" rel="alternate" />

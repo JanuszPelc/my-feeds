@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Ahmad Elalfy Discusses HTML Customizable Select Elements</h2>
+<a name="story-25659"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugbear.com%2Fdimg%2Ffdab25022aca70d90bf62855e13b072b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ahmad Elalfy explores the capabilities of the CSS appearance: base-select property, which allows developers to transform standard HTML select elements by embedding visual previews, timestamps, structured columns, and badges directly into options.</p><p>The article illustrates five practical use cases for enhanced dropdown menus—ranging from font selectors to time zone pickers—while detailing how media queries can maintain native operating system pickers on touch devices for optimal accessibility and mobile usability.</p>
+<p><small>Links: <a href="https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html">alfy.blog</a> | <a href="https://lobste.rs/s/3mnrlw/select_should_tell_you_something">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Call Graph Analyzer Released for Rust Panic Detection</h2>
 <a name="story-25655"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdoc.castsoftware.com%2Finterface%2Fanalysis-config%2Ftransactions%2Ftransactions%2Fcall-graph%2Fcall_graph.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developed by the Open Device Partnership and Microsoft, the Call Graph Analyzer (CGA) extracts callgraphs from monomorphized Mid-level Intermediate Representation (MIR) to identify potential panic paths in Rust binaries. This MIR-based approach allows the tool to detect panics originating within dependencies and the standard library, providing more comprehensive coverage than HIR-based or linker-based methods.</p><p>CGA operates as a rustc-driver, meaning it requires a specific nightly version of the Rust compiler and must be installed directly from its source repository rather than crates.io. The tool is specifically designed to assist developers of embedded and mission-critical systems in minimizing unrecoverable error conditions and reasoning about panic paths.</p>
@@ -91,10 +97,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <p>Software engineer Jan van den Berg reevaluates Frederick P. Brooks Jr.'s classic 1975 principle, Brooks's Law, to determine whether adding AI agents to a development project bypasses traditional scaling limits. While generative AI tools and LLMs eliminate human onboarding bottlenecks and coffee breaks, foundational software constraints persist.</p><p>Sequential tasks and the inherent limitations of dependency management remain unchanged, while overhead shifts from human coordination to agent orchestration. Deploying multiple autonomous agents without precise requirements and structured oversight only leads to conflicting code edits, proving that adding AI capacity to a flawed project accelerates failure.</p>
 <p><small>Links: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">j11g.com</a> | <a href="https://news.ycombinator.com/item?id=50255298">hacker news</a></small></p>
 <br clear="all" />
-
-<h2>Microsoft Details Type Server Protocol Specification for Python Analysis</h2>
-<p>Microsoft has published the specification for the Type Server Protocol (TSP), a JSON-RPC protocol designed to handle Python analysis data and workspace type-analysis state. The protocol extends Language Server Protocol conventions, providing standardized mechanisms for version negotiation, snapshot management, import resolution, and fine-grained type queries.</p><p>The protocol features a connection model supporting an optional multi-connection mode for concurrent read-only tasks over IPC channels, alongside strict snapshot-bound type results and position conventions. Version history tracks incremental updates to request types and transport negotiation, establishing a structured interface for integrating type checkers into development environments.</p>
-<p><small>Links: <a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md">github.com</a> | <a href="https://news.ycombinator.com/item?id=50248371">hacker news</a></small></p>
 
 ---
 

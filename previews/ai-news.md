@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Survival LLM Offline Emergency Assistant Released</h2>
+<a name="story-25658"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.brangus.io%2Fsurvival-llm%2Fscreenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Survival LLM is a free, open-source desktop application that pairs a local AI model with an offline reference library, allowing users to query emergency guidance, medical manuals, and Wikipedia articles without an internet connection. Operating entirely on the user's computer to ensure privacy, the app automatically selects an appropriately sized AI model based on available hardware memory and cites exact source passages for every generated response.</p><p>The system includes extensive reference materials ranging from FEMA and CDC guidelines to survival manuals, repair guides, and medical encyclopedias, requiring initial setup while online to download the necessary data and engine components. Users can also supplement the local database with personal files like PDFs and notes, and the software supports configurable reasoning tokens and local memory tracking for customized offline assistance.</p>
+<p><small>Links: <a href="https://www.brangus.io/survival-llm">brangus.io</a> | <a href="https://news.ycombinator.com/item?id=50264853">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Amazon Deprecates Most Nova Models to Focus on Frontier Research</h2>
 <a name="story-25642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai-rockstars.com%2Fwp-content%2Fuploads%2F2024%2F12%2FAmazon-Nova.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is deprecating most of its Nova AI models, including text, video, and image-generation tools, as part of a strategic overhaul. The company is redirecting labor and computing resources toward a "frontier-model effort" led by Pieter Abbeel to focus on robotics and automation.</p><p>This reorganization follows the closure of an 80-person AI research office in San Francisco. Existing Nova models will enter a "keep the lights on" state, receiving minimal support while the company shifts focus toward higher-priority automation goals.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25415"><img src="https://wsrv.nl/?url=https%3A%2F%2Fminimaxir.com%2F2026%2F10%2Fcheap-llms%2Fcostpertask.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI and Anthropic have significantly reduced their large language model API prices by up to 80 percent between June and September 2026. Through a series of competitive tit-for-tat model releases and mid-cycle adjustments, both companies lowered input, output, and cache read costs across model tiers without sacrificing output quality.</p><p>These aggressive price cuts are largely driven by intense market competition from open-weight models and alternative inference providers offering low-cost substitutes via platforms like OpenRouter. Despite shrinking revenue per token, developers continue scaling usage as models improve, challenging assumptions that token prices will inevitably rise as a loss-leading strategy.</p>
 <p><small>Links: <a href="https://minimaxir.com/2026/10/cheap-llms/">minimaxir.com</a> | <a href="https://news.ycombinator.com/item?id=50236102">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Dr Magnus Lynch Tests 10-Year-Old CNN Against Frontier LLMs in Skin Cancer Diagnosis</h2>
-<a name="story-25400"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd2gaqzonlm544h.cloudfront.net%2Fskin-ai%2Fsamples%2FISIC_7403025.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Consultant dermatologist Dr Magnus Lynch evaluated two frontier large language models, GPT-6 Astra and Claude Fable 5.1, against a 10-year-old fine-tuned convolutional neural network (Inception v3) using 200 biopsy-proven skin lesions. The older CNN achieved a 62 percent correct diagnosis rate, outperforming both frontier LLMs, which each scored 42 percent.</p><p>The test utilized randomized clinical and dermoscopic images from the public MILK10k dataset, spanning both malignant conditions and benign growths. While the CNN demonstrated superior accuracy, particularly in identifying harmless lesions, the author notes that the tested network represents a basic baseline rather than the regulated, state-of-the-art specialized systems used in clinical practice.</p>
-<p><small>Links: <a href="https://lynchlab.net/llm-skin-cancer">lynchlab.net</a> | <a href="https://news.ycombinator.com/item?id=50233779">hacker news</a></small></p>
 <br clear="all" />
 
 ---
