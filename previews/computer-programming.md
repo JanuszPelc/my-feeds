@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Lobsters NYC Meetup Scheduled at Walker&#x27;s</h2>
+<a name="story-25666"><img src="https://wsrv.nl/?url=https%3A%2F%2Fquartzmountain.org%2Fimages%2Fresources%2Fattend-a-tech-event-at-the-new-york-tech-meetup_20230516020502.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Members of the Lobsters technology discussion community are gathering in New York City for an informal meetup. Attendees are meeting at Walker's near the Canal Street subway station starting at 5:30 p.m.</p><p>The event follows a previous online coordination thread that also drew interest from array programming language enthusiasts. Organizers noted that participants can arrive flexibly, with updates posted to the discussion thread if the group moves.</p>
+<p><small>Links: <a href="https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5">lobste.rs</a> | <a href="https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Ahmad Elalfy Discusses HTML Customizable Select Elements</h2>
 <a name="story-25659"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugbear.com%2Fdimg%2Ffdab25022aca70d90bf62855e13b072b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ahmad Elalfy explores the capabilities of the CSS appearance: base-select property, which allows developers to transform standard HTML select elements by embedding visual previews, timestamps, structured columns, and badges directly into options.</p><p>The article illustrates five practical use cases for enhanced dropdown menus—ranging from font selectors to time zone pickers—while detailing how media queries can maintain native operating system pickers on touch devices for optimal accessibility and mobile usability.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25575"><img src="https://wsrv.nl/?url=https%3A%2F%2Foioannou.com%2Fimg%2Fai-working-more%2Fcontributions-per-month.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Full-stack engineer and tech executive Orestis Ioannou analyzes his GitHub contribution history to examine how adopting parallel AI coding agents significantly increased his workload rather than reducing it. Despite transitioning to leadership roles with less direct coding responsibility, utilizing multiple agents concurrently allowed him to pursue vastly more projects, returning his output to peak engineering levels.</p><p>The analysis highlights that low-cost implementation drives continuous cycles of intense coding bursts, context-switching fatigue, and burnout, while elevating baseline activity during quieter periods. Ioannou notes that while AI makes turning ideas into reality easier, human cognitive capacity for managing parallel workflows has not scaled at the same rate.</p>
 <p><small>Links: <a href="https://oioannou.com/blog/ai-promised-less-work/">oioannou.com</a> | <a href="https://news.ycombinator.com/item?id=50257325">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Jan van den Berg Examines The Mythical Man-Month in the Age of AI</h2>
-<a name="story-25559"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsrc.n-ix.com%2Fuploads%2F2026%2F01%2F27%2F00141a6a-cf11-4727-b96d-89044facef3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Software engineer Jan van den Berg reevaluates Frederick P. Brooks Jr.'s classic 1975 principle, Brooks's Law, to determine whether adding AI agents to a development project bypasses traditional scaling limits. While generative AI tools and LLMs eliminate human onboarding bottlenecks and coffee breaks, foundational software constraints persist.</p><p>Sequential tasks and the inherent limitations of dependency management remain unchanged, while overhead shifts from human coordination to agent orchestration. Deploying multiple autonomous agents without precise requirements and structured oversight only leads to conflicting code edits, proving that adding AI capacity to a flawed project accelerates failure.</p>
-<p><small>Links: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">j11g.com</a> | <a href="https://news.ycombinator.com/item?id=50255298">hacker news</a></small></p>
 <br clear="all" />
 
 ---

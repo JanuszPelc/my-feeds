@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Onsemi in Talks to Acquire Startup Ferric for Close to $1 Billion</h2>
+<a name="story-25643"><img src="https://wsrv.nl/?url=https%3A%2F%2Feepower.com%2Fuploads%2Farticles%2Fonsemi-renesas-and-analog-devices-all-announce-and-finalize-acquisitions-fig1.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Semiconductor component maker Onsemi is in advanced discussions to acquire Ferric, a 16-year-old chip startup, for approximately $1 billion. The potential transaction highlights growing industry demand for specialized power management technology capable of supporting the intense energy requirements of artificial intelligence chips.</p><p>Ferric specializes in integrated voltage regulators and previously secured a $32.1 million Series C funding round in December 2024. The acquisition talks arrive as semiconductor firms increasingly target advanced power delivery solutions to address efficiency and thermal challenges in high-performance computing data centers.</p>
+<p><small>Links: <a href="https://www.theinformation.com/articles/chipmaker-onsemi-talks-buy-startup-1-billion">theinformation.com</a></small></p>
+<br clear="all" />
+
 <h2>SK Hynix Announces $75 Billion Shareholder Return Plan Alongside Record Third-Quarter Profit</h2>
 <a name="story-25641"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FQVbYkBkLSFx5by3n.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>South Korean memory-chip manufacturer SK Hynix reported a blockbuster third-quarter net profit increase driven by ongoing artificial intelligence infrastructure demand, prompting the company to announce a massive shareholder return package totaling approximately $75 billion for the year. The capital allocation plan comprises substantial cash dividends alongside extensive share repurchases and cancellations.</p><p>The initiative builds upon previous aggressive return programs as major chipmakers face heightened investor pressure to distribute excess cash reserves. The record financial performance highlights the sustained boom in advanced memory technologies like high-bandwidth memory chips.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25477"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.influencermarketinghub.com%2Fimaginary%2Fconvert%3Ftype%3Dwebp%26url%3Dhttps%3A%2F%2Finfluencermarketinghub.com%2Fwp-content%2Fuploads%2F2021%2F03%2FInstagram-Video-Length-Best-Practices.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Instagram is launching a test allowing select U.S. creators to upload horizontal videos of up to 90 minutes. Titled "Features," the product is designed for podcasters, comedians, and long-form creators, enabling viewers to transition seamlessly from short promotional Reels directly into full-length videos.</p><p>The test expands on earlier trials in Brazil and aims to help Instagram compete with platforms like YouTube for consumer viewing hours. The long-form content will be recommended via the Explore page and integrated into Instagram's TV app, which is expanding to Apple TV following previous rollouts on Samsung, Fire TV, and Google TV hardware.</p>
 <p><small>Links: <a href="https://www.hollywoodreporter.com/business/digital/instagram-tests-90-minute-videos-podcasters-creators-1236739929/">hollywoodreporter.com</a></small></p>
-<br clear="all" />
-
-<h2>SpaceX Agrees to $40 Billion Chip Financing Deal With Apollo</h2>
-<a name="story-25470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thetradingreport.com%2Fwp-content%2Fuploads%2F2026%2F10%2F40937b51-99eb-4083-abe3-97dfcccffef3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SpaceX has entered into a roughly $40 billion equipment-finance lease with Apollo Global Management Inc. to fund purchases of Nvidia graphics processing units and related hardware for its artificial intelligence initiatives. The transaction represents a major financing arrangement to support large-scale AI infrastructure development.</p><p>The deal is structured to close before the end of 2026, providing the capital necessary for SpaceX to acquire advanced processors as it expands its technological capabilities. The agreement highlights the growing capital intensity of artificial intelligence deployment among major aerospace and technology companies.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/spacex-agrees-to-40-billion-chip-financing-deal-with-apollo">bloomberg.com</a> | <a href="https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx">source</a></small></p>
 <br clear="all" />
 
 ---

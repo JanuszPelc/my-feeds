@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-28T01:47:00+00:00</updated>
+  <updated>2026-10-28T04:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Lobsters NYC Meetup Scheduled at Walker's</title>
+    <link href="https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5" rel="alternate" />
+    <id>https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5::v240</id>
+    <published>2026-10-28T04:02:00+00:00</published>
+    <updated>2026-10-28T04:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fquartzmountain.org%2Fimages%2Fresources%2Fattend-a-tech-event-at-the-new-york-tech-meetup_20230516020502.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5">lobste.rs</a> | <a href="https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5">discussion</a></small></p><hr/><p>Members of the Lobsters technology discussion community are gathering in New York City for an informal meetup. Attendees are meeting at Walker's near the Canal Street subway station starting at 5:30 p.m.</p><p>The event follows a previous online coordination thread that also drew interest from array programming language enthusiasts. Organizers noted that participants can arrive flexibly, with updates posted to the discussion thread if the group moves.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fquartzmountain.org%2Fimages%2Fresources%2Fattend-a-tech-event-at-the-new-york-tech-meetup_20230516020502.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 10:19 UTC | #25666</small>]]></content>
+  </entry>
   <entry>
     <title>Ahmad Elalfy Discusses HTML Customizable Select Elements</title>
     <link href="https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html" rel="alternate" />
