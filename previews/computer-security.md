@@ -1,15 +1,15 @@
 <p><a href="top-stories.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/top--stories-29313d?style=flat-square" /><img src="https://img.shields.io/badge/top--stories-dfe6ed?style=flat-square" height="28" alt="top-stories" /></picture></a> <a href="ai-news.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ai--news-29313d?style=flat-square" /><img src="https://img.shields.io/badge/ai--news-dfe6ed?style=flat-square" height="28" alt="ai-news" /></picture></a> <a href="computer-programming.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--programming-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--programming-dfe6ed?style=flat-square" height="28" alt="computer-programming" /></picture></a> <a name="computer-security"><picture><img src="https://img.shields.io/badge/computer--security-c3553a?style=flat-square" height="28" alt="computer-security" /></picture></a> <a href="human-knowledge.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--knowledge-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--knowledge-dfe6ed?style=flat-square" height="28" alt="human-knowledge" /></picture></a> <a href="human-life.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--life-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--life-dfe6ed?style=flat-square" height="28" alt="human-life" /></picture></a> <a href="music-production.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/music--production-29313d?style=flat-square" /><img src="https://img.shields.io/badge/music--production-dfe6ed?style=flat-square" height="28" alt="music-production" /></picture></a> <a href="tech-consumer.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--consumer-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--consumer-dfe6ed?style=flat-square" height="28" alt="tech-consumer" /></picture></a> <a href="tech-finance.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--finance-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--finance-dfe6ed?style=flat-square" height="28" alt="tech-finance" /></picture></a> <a href="tech-industry.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--industry-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--industry-dfe6ed?style=flat-square" height="28" alt="tech-industry" /></picture></a> <a href="tech-policy.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--policy-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--policy-dfe6ed?style=flat-square" height="28" alt="tech-policy" /></picture></a></p>
 
-<h1><img src="../images/computer-security.png" width="36" align="absmiddle" /> computer-security</h1>
-
-*The vulnerabilities, attacks, and outages that threaten the systems we rely on.*
-
 > [!NOTE]
-> To subscribe to the computer-security feed, copy this link into your RSS reader:
+> Subscribe to the computer-security feed by copying this link into your RSS reader:
 >
 > ```
 > https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 > ```
+
+<h1><img src="../images/computer-security.png" width="36" align="absmiddle" /> computer-security</h1>
+
+*The vulnerabilities, attacks, and outages that threaten the systems we rely on.*
 
 <h2>Critical Code-Execution Vulnerability Discovered in TianoCore EDK II UEFI Firmware</h2>
 <a name="story-25702"><img src="https://wsrv.nl/?url=https%3A%2F%2Feclypsium.com%2Fwp-content%2Fuploads%2Fhydrophobia-screen-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>

@@ -1,15 +1,15 @@
 <p><a name="top-stories"><picture><img src="https://img.shields.io/badge/top--stories-cc408f?style=flat-square" height="28" alt="top-stories" /></picture></a> <a href="ai-news.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ai--news-29313d?style=flat-square" /><img src="https://img.shields.io/badge/ai--news-dfe6ed?style=flat-square" height="28" alt="ai-news" /></picture></a> <a href="computer-programming.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--programming-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--programming-dfe6ed?style=flat-square" height="28" alt="computer-programming" /></picture></a> <a href="computer-security.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--security-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--security-dfe6ed?style=flat-square" height="28" alt="computer-security" /></picture></a> <a href="human-knowledge.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--knowledge-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--knowledge-dfe6ed?style=flat-square" height="28" alt="human-knowledge" /></picture></a> <a href="human-life.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--life-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--life-dfe6ed?style=flat-square" height="28" alt="human-life" /></picture></a> <a href="music-production.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/music--production-29313d?style=flat-square" /><img src="https://img.shields.io/badge/music--production-dfe6ed?style=flat-square" height="28" alt="music-production" /></picture></a> <a href="tech-consumer.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--consumer-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--consumer-dfe6ed?style=flat-square" height="28" alt="tech-consumer" /></picture></a> <a href="tech-finance.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--finance-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--finance-dfe6ed?style=flat-square" height="28" alt="tech-finance" /></picture></a> <a href="tech-industry.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--industry-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--industry-dfe6ed?style=flat-square" height="28" alt="tech-industry" /></picture></a> <a href="tech-policy.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--policy-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--policy-dfe6ed?style=flat-square" height="28" alt="tech-policy" /></picture></a></p>
 
-<h1><img src="../images/top-stories.png" width="36" align="absmiddle" /> top-stories</h1>
-
-*A low-volume selection of stories from all the other feeds.*
-
 > [!NOTE]
-> To subscribe to the top-stories feed, copy this link into your RSS reader:
+> Subscribe to the top-stories feed by copying this link into your RSS reader:
 >
 > ```
 > https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 > ```
+
+<h1><img src="../images/top-stories.png" width="36" align="absmiddle" /> top-stories</h1>
+
+*A low-volume selection of stories from all the other feeds.*
 
 <h2>DreamAgainUSA Launches Interactive Wealth Inequality Graph</h2>
 <a name="story-25713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
@@ -41,6 +41,12 @@
 <p><small>Links: <a href="https://ghostty.org/docs/install/release-notes/1-4-0">ghostty.org</a> | <a href="https://news.ycombinator.com/item?id=50261998">hacker news</a></small></p>
 <br clear="all" />
 
+<h2>David Harvey Discusses Recently Proposed Sub-O(n log n) Integer Multiplication Algorithm</h2>
+<a name="story-25157"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1427678%2Finteger-multiplication-mit-notes-and-wikipedia1-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mathematician David Harvey has published a commentary examining a recently proposed integer multiplication algorithm that claims a complexity of o(n log n) bit operations. The analysis offers perspective on the new complexity claim and its relation to established theoretical limits in computational mathematics.</p><p>The discussion follows earlier milestones in the field, including Harvey and Joris van der Hoeven's 2019 algorithm achieving O(n log n) bit operations, which confirmed a long-standing conjecture by Schönhage and Strassen. The newly proposed approach pushes past that established boundary into sub-O(n log n) territory, prompting careful scrutiny of its methods and assumptions.</p>
+<p><small>Links: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">web.maths.unsw.edu.au</a> | <a href="https://news.ycombinator.com/item?id=50190455">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Google DeepMind Announces Genie 4 Interactive World Model</h2>
 <a name="story-25602"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.huggingnews.com%2Fstory-media%2F2115114238943568324%2Fd9VX08ehiAo74R1M-medium.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google DeepMind has announced Genie 4, a foundational world model designed to produce real-time, interactive 3D environments featuring enhanced photorealism and native audio generation. Built using capabilities from the Gemini family, the model allows users to steer and modify simulations on the fly using natural language text prompts while maintaining physical and contextual coherence.</p><p>Genie 4 integrates Gemini 3.8 Flash to reason through complex, multi-step tasks and track progress during live rendering. The model is currently rolling out as a research preview for trusted testers, with upcoming availability for Google AI Ultra subscribers and Gemini API early access partners.</p>
@@ -63,12 +69,6 @@
 <a name="story-25575"><img src="https://wsrv.nl/?url=https%3A%2F%2Foioannou.com%2Fimg%2Fai-working-more%2Fcontributions-per-month.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Full-stack engineer and tech executive Orestis Ioannou analyzes his GitHub contribution history to examine how adopting parallel AI coding agents significantly increased his workload rather than reducing it. Despite transitioning to leadership roles with less direct coding responsibility, utilizing multiple agents concurrently allowed him to pursue vastly more projects, returning his output to peak engineering levels.</p><p>The analysis highlights that low-cost implementation drives continuous cycles of intense coding bursts, context-switching fatigue, and burnout, while elevating baseline activity during quieter periods. Ioannou notes that while AI makes turning ideas into reality easier, human cognitive capacity for managing parallel workflows has not scaled at the same rate.</p>
 <p><small>Links: <a href="https://oioannou.com/blog/ai-promised-less-work/">oioannou.com</a> | <a href="https://news.ycombinator.com/item?id=50257325">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Open3DLab Reports Roblox Scraper Downloaded 145 GB of Community 3D Models</h2>
-<a name="story-25570"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.free3d.com%2Fimg%2F2015%2F06%2F2206023501305873745%2Fkpjijuti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In mid-October 2026, a web crawler identified with Roblox research downloaded 145.5 GB of 3D models across 712 projects from Open3DLab and its sister sites, SFMLab and SmutBase. The scraping script ignored robots.txt instructions, terms of service, and non-commercial creator licenses while gathering data for what operators suspect is 3D foundation model training.</p><p>The downloads included significant volumes of explicit adult content from SmutBase and SFMLab, raising concerns about safety filters and data hygiene for generative AI tools used on platforms with minor users. Open3DLab stated that Roblox failed to respond to multiple inquiries regarding the automated collection, underscoring ongoing tensions over unauthorized web scraping by major technology companies.</p>
-<p><small>Links: <a href="https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/">open3dlab.com</a> | <a href="https://news.ycombinator.com/item?id=50256985">hacker news</a></small></p>
 <br clear="all" />
 
 ---

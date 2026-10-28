@@ -1,15 +1,15 @@
 <p><a href="top-stories.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/top--stories-29313d?style=flat-square" /><img src="https://img.shields.io/badge/top--stories-dfe6ed?style=flat-square" height="28" alt="top-stories" /></picture></a> <a href="ai-news.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ai--news-29313d?style=flat-square" /><img src="https://img.shields.io/badge/ai--news-dfe6ed?style=flat-square" height="28" alt="ai-news" /></picture></a> <a href="computer-programming.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--programming-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--programming-dfe6ed?style=flat-square" height="28" alt="computer-programming" /></picture></a> <a href="computer-security.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--security-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--security-dfe6ed?style=flat-square" height="28" alt="computer-security" /></picture></a> <a href="human-knowledge.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--knowledge-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--knowledge-dfe6ed?style=flat-square" height="28" alt="human-knowledge" /></picture></a> <a href="human-life.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--life-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--life-dfe6ed?style=flat-square" height="28" alt="human-life" /></picture></a> <a href="music-production.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/music--production-29313d?style=flat-square" /><img src="https://img.shields.io/badge/music--production-dfe6ed?style=flat-square" height="28" alt="music-production" /></picture></a> <a href="tech-consumer.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--consumer-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--consumer-dfe6ed?style=flat-square" height="28" alt="tech-consumer" /></picture></a> <a href="tech-finance.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--finance-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--finance-dfe6ed?style=flat-square" height="28" alt="tech-finance" /></picture></a> <a name="tech-industry"><picture><img src="https://img.shields.io/badge/tech--industry-5070db?style=flat-square" height="28" alt="tech-industry" /></picture></a> <a href="tech-policy.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--policy-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--policy-dfe6ed?style=flat-square" height="28" alt="tech-policy" /></picture></a></p>
 
-<h1><img src="../images/tech-industry.png" width="36" align="absmiddle" /> tech-industry</h1>
-
-*How the tech business is changing, from chipmaking and data centers to jobs.*
-
 > [!NOTE]
-> To subscribe to the tech-industry feed, copy this link into your RSS reader:
+> Subscribe to the tech-industry feed by copying this link into your RSS reader:
 >
 > ```
 > https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 > ```
+
+<h1><img src="../images/tech-industry.png" width="36" align="absmiddle" /> tech-industry</h1>
+
+*How the tech business is changing, from chipmaking and data centers to jobs.*
 
 <h2>Malaysian Customs Seizes $12.1 Million in Advanced AI Chips at Kuala Lumpur Airport</h2>
 <a name="story-25668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd341l694dl30ad.cloudfront.net%2Fimages%2Fap%2F2026%2F10%2F28%2F6ae1855124c7bd42e89dd7b9%2Foriginal%2F1fba4231-219e-42c5-af4e-c7312bcf910d-1793164625349.jpg%3Fwidth%3D1440%26format%3Dwebp%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
