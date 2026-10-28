@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-28T01:44:00+00:00</updated>
+  <updated>2026-10-28T01:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Felix Rieseberg Discusses the Obsolescence of Coding Interviews and Career Advice for Junior Engineers</title>
+    <link href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/" rel="alternate" />
+    <id>https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/::v240</id>
+    <published>2026-10-28T01:48:00+00:00</published>
+    <updated>2026-10-28T01:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D10AQFEAag77I1JkA%2Fimage-shrink_800%2FB4DZpeGuhZGwAg-%2F0%2F1762515413669%3Fe%3D2147483647%26v%3Dbeta%26t%3DRvk2lKwgjnx2TYSgq6kSITRnhcXIV_9mfxarxu8h2Ss&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/">felixrieseberg.com</a> | <a href="https://news.ycombinator.com/item?id=50266719">hacker news</a></small></p><hr/><p>Felix Rieseberg, a hiring manager at Anthropic, has stopped using traditional coding interviews because AI tools like Claude now outperform human candidates on standard coding challenges. He argues that this technological shift diminishes the traditional advantages of accumulated framework knowledge and tenure, creating new opportunities for engineers without established social capital or status.</p><p>The essay advises junior engineers to prioritize business value over backlog maintenance, bypass slow organizational processes by building working prototypes over a weekend, and leverage their fresh perspectives to challenge assumed technical impossibilities. Rieseberg notes that rapid AI execution enables newcomers to pitch and ship impactful ideas much faster than previously possible.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D10AQFEAag77I1JkA%2Fimage-shrink_800%2FB4DZpeGuhZGwAg-%2F0%2F1762515413669%3Fe%3D2147483647%26v%3Dbeta%26t%3DRvk2lKwgjnx2TYSgq6kSITRnhcXIV_9mfxarxu8h2Ss&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 07:14 UTC | #25635</small>]]></content>
+  </entry>
   <entry>
     <title>SK Hynix Reports Record Third-Quarter Profit and Revenue Driven by AI Demand</title>
     <link href="https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html" rel="alternate" />
