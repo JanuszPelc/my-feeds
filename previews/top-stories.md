@@ -2,6 +2,8 @@
 
 <h1><img src="../images/top-stories.png" width="36" align="absmiddle" /> top-stories</h1>
 
+A low-volume selection of stories from all the other feeds.
+
 <h2>ICE and HSI Conduct Sweeping Surveillance Operation Targeting Left-Wing Groups</h2>
 <a name="story-25693"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxnews.com%2Ffoxnews.com%2Fcontent%2Fuploads%2F2026%2F02%2F1200%2F675%2Fmn-ice-plates-database-homeland-security-investigations.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Court documents from a federal conspiracy prosecution in Minnesota reveal that Immigration and Customs Enforcement (ICE) and Homeland Security Investigations (HSI) have conducted a sweeping domestic surveillance operation targeting left-wing activists, labor unions, and community response networks. Initiated under National Security Presidential Memorandum 7 and funded through programs like Operation Keyhole, the multi-agency campaign utilized undercover agents, drones, and invasive digital tools typically reserved for counterterrorism and international crime.</p><p>Defense attorneys and former law enforcement officials compare the directive to the FBI’s historic COINTELPRO operations, noting the vast scale of data collection involving intercepted encrypted chats, financial records, and commercial data brokers. The filings indicate that the surveillance extended far beyond Minnesota to activists and conferences in cities across the United States as part of a broader federal crackdown on opponents of the administration's immigration policies.</p>
@@ -64,7 +66,7 @@
 
 ---
 
-This is a low-volume selection of stories from all the other feeds. To subscribe to the top-stories feed, copy this link into your RSS reader:
+To subscribe to the top-stories feed, copy this link into your RSS reader:
 
 ```
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
