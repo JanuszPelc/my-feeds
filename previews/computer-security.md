@@ -10,6 +10,10 @@
 
 *The vulnerabilities, attacks, and outages that threaten the systems we rely on.*
 
+<h2>Daishin Securities, Mirae Asset, and Bithumb Hit by Cyberattacks in South Korea</h2>
+<p>South Korean financial institutions Daishin Securities, Mirae Asset Global Investments, and cryptocurrency exchange Bithumb have experienced a fresh wave of data breaches and cybersecurity incidents. Daishin disclosed that the personal information of 38,490 customers was compromised, while Mirae and Bithumb reported unauthorized access to internal systems as authorities investigate the scale of the breaches.</p><p>The incidents follow a prior series of attacks targeting 16 South Korean financial entities amid concerns over growing regional cyber risks. In response to the latest security failures, South Korean financial regulators and the presidential office have convened emergency meetings to heighten oversight and conduct inspections across private sector IT systems.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/">techcrunch.com</a></small></p>
+
 <h2>Nullpt.rs Analysis Uncovers Anti-LLM Obfuscation in Servicepipe Fingerprinting Script</h2>
 <a name="story-25745"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2Fstrings-fig3_kybw.max-900x900.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An investigation into web browser fingerprinting scripts uncovered an anomaly originating from Russian traffic control firm Servicepipe, which included hidden references to bioweapons, illicit drugs, and system jailbreak prompts.</p><p>Further inspection revealed that the alarming variable names and encoded Unicode strings do not perform malicious operations; rather, they serve as anti-LLM obfuscation tactics designed to trigger model safety filters and block automated code analysis.</p>
@@ -62,12 +66,6 @@
 <a name="story-25672"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fw77i7m8x%2Fproduction%2F443c58c9022b9153b23254a585b6c8440025f3d6-1536x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tailscale is investigating multiple security vulnerabilities affecting Tailscale SSH, primarily involving privilege escalation where an authorized user could potentially gain elevated local privileges. The company's engineering and security teams, aided by external specialists, have developed fixes for most of the identified issues and are targeting a patched client release.</p><p>While the initial assessment does not recommend disabling Tailscale SSH entirely, Tailscale advises customers to review access policies and optionally disable SSH forwarding by setting TS_SSH_DISABLE_FORWARDING=1 to mitigate several serious risks. Following the release of the patches, the company plans to publish a detailed security advisory and technical blog post outlining the vulnerabilities and remediation steps.</p>
 <p><small>Links: <a href="https://tailscale.com/ssh-investigation-update">tailscale.com</a> | <a href="https://news.ycombinator.com/item?id=50264857">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>US FCC Approves Amazon Leo&#x27;s $11.5 Billion Acquisition of Globalstar</h2>
-<a name="story-25644"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2115140658721660928%2Fimg%2F48fj_ApaGqFR8kmb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Federal Communications Commission approved Amazon Leo's $11.5 billion acquisition of Globalstar. The transaction grants Amazon access to Globalstar's 24 satellites and internationally harmonized mobile-satellite service spectrum.</p><p>Regulators stated that the approval will expand direct-to-device competition, strengthen emergency communications, and improve service in unserved and underserved areas. The acquisition is intended to support the expansion of Amazon's satellite communications network and connectivity services.</p>
-<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/">reuters.com</a> | <a href="https://www.fcc.gov/document/fcc-approves-amazon-leos-acquisition-globalstar">source</a> | <a href="https://news.ycombinator.com/item?id=50272145">hacker news</a></small></p>
 <br clear="all" />
 
 ---

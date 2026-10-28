@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Daishin Securities, Mirae Asset, and Bithumb Hit by Cyberattacks in South Korea</title>
+    <link href="https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/::v240</id>
+    <published>2026-10-28T17:32:00+00:00</published>
+    <updated>2026-10-28T17:32:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/">techcrunch.com</a></small></p><hr/><p>South Korean financial institutions Daishin Securities, Mirae Asset Global Investments, and cryptocurrency exchange Bithumb have experienced a fresh wave of data breaches and cybersecurity incidents. Daishin disclosed that the personal information of 38,490 customers was compromised, while Mirae and Bithumb reported unauthorized access to internal systems as authorities investigate the scale of the breaches.</p><p>The incidents follow a prior series of attacks targeting 16 South Korean financial entities amid concerns over growing regional cyber risks. In response to the latest security failures, South Korean financial regulators and the presidential office have convened emergency meetings to heighten oversight and conduct inspections across private sector IT systems.</p><hr/><small>28 Oct 2026, 20:47 UTC | #25708</small>]]></content>
+  </entry>
+  <entry>
     <title>Nullpt.rs Analysis Uncovers Anti-LLM Obfuscation in Servicepipe Fingerprinting Script</title>
     <link href="https://nullpt.rs/fingerprinting-bioweapons" rel="alternate" />
     <id>https://nullpt.rs/fingerprinting-bioweapons::v240</id>
