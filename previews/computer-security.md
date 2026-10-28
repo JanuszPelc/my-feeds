@@ -55,7 +55,7 @@
 <h2>US FCC Approves Amazon Leo&#x27;s $11.5 Billion Acquisition of Globalstar</h2>
 <a name="story-25644"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2115140658721660928%2Fimg%2F48fj_ApaGqFR8kmb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Federal Communications Commission approved Amazon Leo's $11.5 billion acquisition of Globalstar. The transaction grants Amazon access to Globalstar's 24 satellites and internationally harmonized mobile-satellite service spectrum.</p><p>Regulators stated that the approval will expand direct-to-device competition, strengthen emergency communications, and improve service in unserved and underserved areas. The acquisition is intended to support the expansion of Amazon's satellite communications network and connectivity services.</p>
-<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/">reuters.com</a> | <a href="https://www.fcc.gov/document/fcc-approves-amazon-leos-acquisition-globalstar">source</a></small></p>
+<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/">reuters.com</a> | <a href="https://www.fcc.gov/document/fcc-approves-amazon-leos-acquisition-globalstar">source</a> | <a href="https://news.ycombinator.com/item?id=50272145">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Netmeister Discusses Unsustainable Pressures on Cybersecurity Defense Teams</h2>
