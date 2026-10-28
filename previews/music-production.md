@@ -10,6 +10,12 @@
 
 *New tools for making music and the business around it.*
 
+<h2>Vochlea Offers Native Instruments Empire Breaks Promotion</h2>
+<a name="story-25694"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_775981-MLB50867138396_072022-O.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Vochlea has announced a promotional offer featuring Native Instruments Empire Breaks for users of its voice-to-MIDI production tools.</p><p>The collaboration provides music producers with additional virtual instrument content alongside vocal-driven workflow solutions.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/28/vochlea-empire-breaks/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/28/vochlea-empire-breaks/#respond">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Karoryfer Samples Releases Four Fifths Bowed String Library</h2>
 <a name="story-25680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffour_fifths_sq_500.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Karoryfer Samples has released Four Fifths, a bowed string sample library designed for Plogue sforzando that focuses on aggressive, folky rhythmic playing and sampled double-stops. The library includes recordings of a double bass, a basy three-string folk bass, a cello, and a fiddle, utilizing consistent keyswitches and microphone setups across all instruments.</p><p>The collection features over 5,000 WAV samples totaling more than 900 megabytes, incorporating multiple round robins, dynamic layers, bow attack controls, and a layering patch. It requires Plogue sforzando version 1.981 or newer and is available at an introductory price of $19 until November 28, 2026, before rising to $39.</p>
@@ -62,12 +68,6 @@
 <a name="story-25598"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fproaudiodeclipper.1793111332.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MyAudioFactory has released version 1.13.0 of ProAudioDeclipper, its real-time audio restoration plugin designed to repair clipped and saturated audio.</p><p>The update introduces full accessibility support with complete keyboard navigation and parameter control, resolves multi-processor over-booking performance issues, and includes general user interface refinements for improved usability.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/myaudiofactory-updates-proaudiodeclipper-to-v1-13-0-69460?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69460">kvraudio.com</a> | <a href="https://www.myaudiofactory.com/proaudiodeclipper.html">source</a></small></p>
-<br clear="all" />
-
-<h2>VGTrumpet Releases VG Windscape Audiovisual Instrument</h2>
-<a name="story-25599"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmain-02-web.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>VGTrumpet has released VG Windscape, an audiovisual plugin and standalone application that generates real-time visuals alongside audio performances. Designed primarily for wind and breath controllers as well as MIDI keyboards, the software uses player input such as breath pressure and notes to drive an accompanying browser-based visual display.</p><p>Built on the VG Wind Ensemble engine, the instrument features thirteen pad and texture sound sets, a dedicated Pad/Scape mode, and individual layers equipped with delay, reverb, and freeze effects. The visual component runs in Google Chrome alongside the main DAW plugin or standalone app, allowing users to record performances directly to video files or output them to a secondary monitor or projector for live stage use.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/vgtrumpet-releases-vg-windscape-audiovisual-instrument---vst-au-standalone-app-69453?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69453">kvraudio.com</a> | <a href="https://vgtrumpet.com/windscape/">source</a></small></p>
 <br clear="all" />
 
 ---
