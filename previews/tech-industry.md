@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta&#x27;s $25 Billion Share Sale Ends Five Times Oversubscribed</h2>
+<a name="story-25614"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheutterperspective.com%2Fwp-content%2Fuploads%2F2025%2F10%2F1761845534_1200x-1-1068x601.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta Platforms Inc.'s upsized $25 billion share sale was five times oversubscribed, according to people familiar with the matter. The company aims to raise a total of $98 billion to fund extensive spending on artificial intelligence.</p><p>The 15 largest investors in the sale accounted for approximately 70% of the shares. This capital is intended to support Meta's significant investments in AI infrastructure and research.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/meta-s-25-billion-stock-sale-ended-five-times-oversubscribed">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>Imperial College London Spinout Machenta Raises $40 Million Seed Round</h2>
 <a name="story-25580"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fautonomous-robot-precisely-planting-seeds-orderly-rows-smart-agriculture_38013-74796.jpg%3Fw%3D1060&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>London-based robotics startup Machenta has raised $40 million in a seed funding round to develop an artificial intelligence model designed to teach robots new physical tasks from a single demonstration. Founded by researchers from Imperial College London, the company aims to enable rapid robot learning without relying on the extensive real-world data collection methods used by competitors.</p><p>The emerging startup is entering a competitive market for adaptable robot intelligence, focusing on virtual-world training methodologies to build its robot foundation models. The substantial seed investment highlights growing investor interest in alternative approaches to scaling robotic capabilities and accelerating task acquisition.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25436"><img src="https://wsrv.nl/?url=https%3A%2F%2Fedgemarkets-transferred.s3-ap-southeast-1.amazonaws.com%2Fstyles%2Farticle_detail_v2%2Fs3%2F20261026_baidu_auto_20261026181334_Bloomberg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Volkswagen AG and Xpeng Inc. have received regulatory approval to test autonomous driving systems on public roads in China. Volkswagen's China unit is trialing Level 3 technology in Hefei ahead of a planned deployment next year, while Xpeng has gained authorization to run Level 4 robotaxi trial operations in Guangzhou.</p><p>The approvals mark a significant step forward as Chinese authorities resume broader self-driving rollouts following safety reviews. Xpeng is partnering with Volkswagen to supply its second-generation VLA 2.0 intelligent driving system, making Volkswagen the first global automaker to license the technology in the Chinese market.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/china-boosts-self-driving-push-with-vw-xpeng-technology-trials">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Microsoft Offers Voluntary Buyouts to Roughly a Quarter of Its Workforce</h2>
-<a name="story-25496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA21CIFk.img%3Fw%3D1280%26h%3D720%26m%3D4%26q%3D39&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft is offering voluntary exit buyouts to approximately 60,000 employees, or roughly a quarter of its global workforce, spanning eligible staff at the vice president level and below across the United States, Canada, India, and the United Kingdom. Participating divisions include gaming, Windows, Copilot, human resources, and finance, with deadlines for acceptance set for early December.</p><p>The initiative builds on earlier workforce reduction efforts and a voluntary retirement program introduced earlier in the year as the company seeks to control headcount and adapt team structures. While Microsoft continues heavy capital expenditures toward artificial intelligence infrastructure, executives emphasize that the current exit offers are designed to manage workforce transitions rather than replace staff directly with AI systems.</p>
-<p><small>Links: <a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/">seattletimes.com</a> | <a href="https://news.ycombinator.com/item?id=50245524">hacker news</a></small></p>
 <br clear="all" />
 
 ---
