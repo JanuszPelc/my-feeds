@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>General Motors to Move Stock Listing from NYSE to Nasdaq on November 17</h2>
+<a name="story-25603"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.tipranks.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fimage-852.png%3Futm_source%3Dnasdaq.com%26utm_medium%3Dreferral&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>General Motors will transfer its common stock listing from the New York Stock Exchange to Nasdaq on November 17, 2026. The move supports the company's strategic shift toward artificial intelligence and autonomous vehicle development.</p><p>This transition is part of an initiative led by Sterling Anderson to use AI to accelerate GM's development cycles and manufacturing. The automaker will continue to trade under the 'GM' ticker symbol on the new exchange.</p>
+<p><small>Links: <a href="https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270">ft.com</a> | <a href="https://www.prnewswire.com/news-releases/gm-announces-transfer-of-stock-exchange-listing-to-nasdaq-302920230.html">source</a></small></p>
+<br clear="all" />
+
 <h2>Avante Raises $30M to Expand AI Platform for Corporate Benefits</h2>
 <a name="story-25596"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frohandsouza.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Avante, a Seattle-based startup, has secured $30 million in Series A funding led by Frist Cressey Ventures to expand its AI platform for corporate benefits teams. The platform uses AI agents to automate tasks such as comparing vendor contracts, reviewing plan documents for errors, and assisting employees with coverage inquiries.</p><p>The company has raised a total of $40 million to date and currently serves more than 70 customers, including Samsung Semiconductor and News Corp. Avante plans to use the new capital to support international expansion and further develop its "Ava Agents" technology.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A 2023 private credit loan of $2.3 billion led by Blackstone Inc. to CoreWeave Inc. established a model for financing artificial intelligence infrastructure using graphics processing units as collateral. This strategy has catalyzed a rapidly expanding chip-backed debt market projected to approach $1 trillion.</p><p>The initial financing arrangement has reshaped modern corporate credit by demonstrating how specialized tech assets can secure massive debt facilities. As lenders and borrowers continue to scale these GPU-backed facilities, the trend is introducing new risk profiles and transforming how capital is deployed across the tech sector.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Baba Secures $40 Million Series A Funding for AI Medicare Platform</h2>
-<a name="story-25352"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnirmitee.io%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fres.cloudinary.com%2Fdahyfknrf%2Fimage%2Fupload%2Fv1778752386%2Fai_care_coordination_provider_transitions_54700998a2_550d8894c7.webp%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Applied artificial intelligence company Baba has raised $40 million in a Series A funding round led by FirstMark Capital, with participation from CVS Health Ventures and Valtruis. The financing will support the company's efforts to modernize and scale care coordination and navigation for Medicare and Medicaid beneficiaries.</p><p>Founded in 2025, Baba connects government-sponsored healthcare patients with dedicated care teams and has been selected by the U.S. Centers for Medicare and Medicaid Services for the 10-year ACCESS model. The company plans to use the capital to expand health plan partnerships, advance applied AI research for complex care, and accelerate value-based risk-sharing arrangements.</p>
-<p><small>Links: <a href="https://www.fiercehealthcare.com/finance/baba-nabs-40m-series-backed-firstmark-capital-and-cvs-health-ventures-medicare-ai-care">fiercehealthcare.com</a> | <a href="https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html">source</a></small></p>
 <br clear="all" />
 
 ---
