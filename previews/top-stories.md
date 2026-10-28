@@ -16,6 +16,12 @@
 <p><small>Links: <a href="https://www.apple.com/macbook-pro/proled-xdr-display/">apple.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/">source</a> | <a href="https://news.ycombinator.com/item?id=50276940">hacker news</a></small></p>
 <br clear="all" />
 
+<h2>Start Doing Graph Theory Free Introductory Textbook Released</h2>
+<a name="story-25719"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Start Doing Graph Theory is a free introductory textbook designed to teach graph theory through puzzles, theorem-proving, and practical problem-solving. Written by Mikhail Lavrov, the comprehensive resource is available under a Creative Commons license for online reading or PDF download.</p><p>The text combines mathematical rigor with an accessible approach to help students learn foundational concepts. The author has also established a formal version history to track updates and revisions made to the material over time.</p>
+<p><small>Links: <a href="https://vertex.degree/">vertex.degree</a> | <a href="https://lobste.rs/s/46sc07/start_doing_graph_theory">discussion</a> | <a href="https://news.ycombinator.com/item?id=50208960">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>DreamAgainUSA Launches Interactive Wealth Inequality Graph</h2>
 <a name="story-25713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DreamAgainUSA has launched an interactive online visualization illustrating United States wealth inequality to scale. Based on data from the 2023 Survey of Consumer Finances and Federal Reserve financial accounts, the project maps household wealth percentiles using the visual metaphor of stacked $100 bills.</p><p>The platform enables users to scroll through the economic spectrum from the poorest households carrying debt to the top 0.01 percent. It provides downloadable printable versions and documentation of its methodology to facilitate public education and discussion regarding national wealth disparity.</p>
@@ -44,12 +50,6 @@
 <a name="story-25605"><img src="https://wsrv.nl/?url=https%3A%2F%2Fregmedia.co.uk%2F2025%2F01%2F07%2Fghostty-101.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ghostty 1.4.0 is a major update to the cross-platform terminal emulator that introduces a fully compliant Kitty graphics implementation supporting animation and relative placements, making it the first terminal outside of Kitty to achieve this. The release incorporates large-scale performance optimizations, memory reductions via scrollback compression, and a new EGL-based rendering pipeline for GTK.</p><p>Additional updates include expanded SSH integration, implementation of the Kitty clipboard protocol, split-pane dragging for GTK, and several security vulnerability patches. Performance enhancements yield higher end-to-end I/O throughput, faster text parsing, reduced CPU resource usage, and lower GPU resource consumption for hidden tabs.</p>
 <p><small>Links: <a href="https://ghostty.org/docs/install/release-notes/1-4-0">ghostty.org</a> | <a href="https://news.ycombinator.com/item?id=50261998">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>David Harvey Discusses Recently Proposed Sub-O(n log n) Integer Multiplication Algorithm</h2>
-<a name="story-25157"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1427678%2Finteger-multiplication-mit-notes-and-wikipedia1-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mathematician David Harvey has published a commentary examining a recently proposed integer multiplication algorithm that claims a complexity of o(n log n) bit operations. The analysis offers perspective on the new complexity claim and its relation to established theoretical limits in computational mathematics.</p><p>The discussion follows earlier milestones in the field, including Harvey and Joris van der Hoeven's 2019 algorithm achieving O(n log n) bit operations, which confirmed a long-standing conjecture by Schönhage and Strassen. The newly proposed approach pushes past that established boundary into sub-O(n log n) territory, prompting careful scrutiny of its methods and assumptions.</p>
-<p><small>Links: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">web.maths.unsw.edu.au</a> | <a href="https://news.ycombinator.com/item?id=50190455">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Google DeepMind Announces Genie 4 Interactive World Model</h2>

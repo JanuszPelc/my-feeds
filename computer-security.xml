@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Nullpt.rs Analysis Uncovers Anti-LLM Obfuscation in Servicepipe Fingerprinting Script</title>
+    <link href="https://nullpt.rs/fingerprinting-bioweapons" rel="alternate" />
+    <id>https://nullpt.rs/fingerprinting-bioweapons::v240</id>
+    <published>2026-10-28T17:29:00+00:00</published>
+    <updated>2026-10-28T17:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2Fstrings-fig3_kybw.max-900x900.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nullpt.rs/fingerprinting-bioweapons">nullpt.rs</a> | <a href="https://news.ycombinator.com/item?id=50276998">hacker news</a></small></p><hr/><p>An investigation into web browser fingerprinting scripts uncovered an anomaly originating from Russian traffic control firm Servicepipe, which included hidden references to bioweapons, illicit drugs, and system jailbreak prompts.</p><p>Further inspection revealed that the alarming variable names and encoded Unicode strings do not perform malicious operations; rather, they serve as anti-LLM obfuscation tactics designed to trigger model safety filters and block automated code analysis.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2Fstrings-fig3_kybw.max-900x900.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 20:33 UTC | #25745</small>]]></content>
+  </entry>
+  <entry>
     <title>Google Previews Multi-Party Compute Security System for Digital Assets</title>
     <link href="https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow" rel="alternate" />
     <id>https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow::v240</id>

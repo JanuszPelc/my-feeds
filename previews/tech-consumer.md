@@ -10,6 +10,12 @@
 
 *The games, gadgets, shows, and books people spend their time on.*
 
+<h2>Amazon Kindle Paperwhite and Colorsoft (2026) Signature Editions Reviewed</h2>
+<a name="story-25686"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.awanderingscribbler.com%2Fwp-content%2Fuploads%2F2025%2F07%2FStouchi-Remote-Page-Turner-for-Kindle-768x955.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The 2026 Signature Editions of the Amazon Kindle Paperwhite and Kindle Colorsoft introduce an aluminum-backed frame, premium color options, and pogo pins designed to support new proprietary accessories like the Kindle Page Turn Cover. This cover brings back physical page-turn buttons as an optional add-on for users who prefer tactile controls over touchscreen navigation.</p><p>While the page-turn accessory integrates seamlessly, it increases the total cost of an already expensive device, bringing the price point into competition with alternatives that include built-in buttons and styluses. Additionally, the new aluminum frames add weight to the e-readers and limit the availability of fun colors exclusively to the more expensive Signature tiers.</p>
+<p><small>Links: <a href="https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/">wired.com</a></small></p>
+<br clear="all" />
+
 <h2>Samsung Unveils Galaxy Buds On Clip-On Earbuds</h2>
 <a name="story-25688"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage-cdn.hypb.st%2Fhttps%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2Fsamsung-unveils-galaxy-buds-on-clip-style-open-ear-buds-2.jpg%3Fq%3D90%26w%3D800%26cbr%3D1%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics has announced the Galaxy Buds On, its first pair of open-fit, C-shaped cuff earbuds priced at $229. Designed to compete in the growing open-ear audio market against offerings from companies like Sony and Bose, the earbuds are scheduled to ship starting November 6.</p><p>Developed using an AI-driven computational design process based on millions of ear-data points, the Galaxy Buds On feature a TwinBoost speaker system for enhanced bass and support hands-free access to AI assistants such as Gemini Live. The device offers up to 9.5 hours of battery life and marks Samsung's entry into the clip-on earphone segment.</p>
@@ -62,12 +68,6 @@
 <a name="story-25566"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FG67qHGlWoAA7Gcd.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has announced the new 14-inch MacBook Pro powered by the M6 chip, featuring a 12-core CPU and 12-core GPU designed to enhance performance and on-device artificial intelligence workloads. The new laptop delivers up to 30 percent faster graphics and 25 percent faster AI processing compared to the previous M5 generation, alongside unified memory configurations starting at 16GB.</p><p>The device includes Wi-Fi 7 and Bluetooth 6 support, a Liquid Retina XDR display with an optional nano-texture finish, and a battery life rated for up to 24 hours. Starting at $1,999, pre-orders begin on October 28 with retail availability scheduled for November 6, running macOS 27.</p>
 <p><small>Links: <a href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50258521">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Nightdive Studios CEO Stephen Kick Praises Atari Acquisition Strategy</h2>
-<a name="story-25585"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltbb02dd1f1e1e9228%2F6adfba719336c1eca2c79d4e%2Fss_743f0c3b5fde90c37cd2416aa714503a851e34a0.1920x1080.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nightdive Studios CEO Stephen Kick has praised Atari's acquisition strategy, asserting that the company avoids common industry pitfalls by allowing acquired studios to maintain their core identities and business models. Speaking at PAX West 2026, Kick noted that Atari manages operational burdens like payroll and taxes while leaving development teams free to focus on classic game remasters.</p><p>Contrasting Atari's approach with historical publisher missteps—such as Electronic Arts' handling of studios like BioWare—Kick argued that forcing acquired developers to pivot toward fleeting trends frequently leads to studio closures. He added that Nightdive's remastering efforts thrive under a model where classic titles coexist naturally with modern games that draw inspiration from them.</p>
-<p><small>Links: <a href="https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions">gamedeveloper.com</a></small></p>
 <br clear="all" />
 
 ---

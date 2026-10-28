@@ -10,6 +10,12 @@
 
 *The vulnerabilities, attacks, and outages that threaten the systems we rely on.*
 
+<h2>Nullpt.rs Analysis Uncovers Anti-LLM Obfuscation in Servicepipe Fingerprinting Script</h2>
+<a name="story-25745"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2Fstrings-fig3_kybw.max-900x900.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An investigation into web browser fingerprinting scripts uncovered an anomaly originating from Russian traffic control firm Servicepipe, which included hidden references to bioweapons, illicit drugs, and system jailbreak prompts.</p><p>Further inspection revealed that the alarming variable names and encoded Unicode strings do not perform malicious operations; rather, they serve as anti-LLM obfuscation tactics designed to trigger model safety filters and block automated code analysis.</p>
+<p><small>Links: <a href="https://nullpt.rs/fingerprinting-bioweapons">nullpt.rs</a> | <a href="https://news.ycombinator.com/item?id=50276998">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Google Previews Multi-Party Compute Security System for Digital Assets</h2>
 <a name="story-25687"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F2_MPC_Tech_blog_diagrams-01.max-1200x1200.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced a private preview of Google Multi-Party Compute (MPC), a security system designed to help financial institutions safeguard and transfer cryptocurrencies and tokenized assets. The technology splits private keys into separate fragments distributed across independent environments and enforces institutional transaction policies before signing, preventing a single compromised machine from exposing assets.</p><p>Scheduled for commercial availability in early 2027, the service is currently being tested by major financial institutions and is already utilized by Alphabet to secure its digital assets on Ethereum and Solana. The offering aims to mitigate mounting private-key compromises—which account for a significant share of crypto hack losses—while incorporating architecture designed to support future post-quantum cryptography upgrades.</p>
@@ -62,12 +68,6 @@
 <a name="story-25644"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2115140658721660928%2Fimg%2F48fj_ApaGqFR8kmb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Federal Communications Commission approved Amazon Leo's $11.5 billion acquisition of Globalstar. The transaction grants Amazon access to Globalstar's 24 satellites and internationally harmonized mobile-satellite service spectrum.</p><p>Regulators stated that the approval will expand direct-to-device competition, strengthen emergency communications, and improve service in unserved and underserved areas. The acquisition is intended to support the expansion of Amazon's satellite communications network and connectivity services.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/">reuters.com</a> | <a href="https://www.fcc.gov/document/fcc-approves-amazon-leos-acquisition-globalstar">source</a> | <a href="https://news.ycombinator.com/item?id=50272145">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Netmeister Discusses Unsustainable Pressures on Cybersecurity Defense Teams</h2>
-<a name="story-25660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techwyse.com%2Fwp-content%2Fuploads%2F2026%2F04%2FUntitled-design-5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cybersecurity commentator Jan Schaumann argues that current vulnerability management practices are facing an unsustainable deluge of zero-days, broken disclosures, and AI-generated security reports that function as a distributed denial-of-service attack on defenders. With multiple severe vulnerabilities hitting simultaneously, organizations lack the staffing, tooling, and time required to assess attack surfaces and deploy fixes effectively.</p><p>The piece highlights recent high-profile incidents—including virtualization escapes, TLS trust issues, and widespread parser flaws—to illustrate that developing a patch is rarely the primary bottleneck. Instead, defenders are overwhelmed by context switching, sensationalized marketing hype, and low-quality automated reports, leaving limiting blast radius and assuming compromise as the primary viable strategies.</p>
-<p><small>Links: <a href="https://www.netmeister.org/blog/defense-ddos.html">netmeister.org</a> | <a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable">discussion</a> | <a href="https://news.ycombinator.com/item?id=50266602">hacker news</a></small></p>
 <br clear="all" />
 
 ---
