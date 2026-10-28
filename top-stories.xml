@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
   <entry>
+    <title>DreamAgainUSA Launches Interactive Wealth Inequality Graph</title>
+    <link href="https://dreamagainusa.org/" rel="alternate" />
+    <id>https://dreamagainusa.org/::v240</id>
+    <published>2026-10-28T13:01:00+00:00</published>
+    <updated>2026-10-28T13:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dreamagainusa.org/">dreamagainusa.org</a> | <a href="https://news.ycombinator.com/item?id=50270764">hacker news</a></small></p><hr/><p>DreamAgainUSA has launched an interactive online visualization illustrating United States wealth inequality to scale. Based on data from the 2023 Survey of Consumer Finances and Federal Reserve financial accounts, the project maps household wealth percentiles using the visual metaphor of stacked $100 bills.</p><p>The platform enables users to scroll through the economic spectrum from the poorest households carrying debt to the top 0.01 percent. It provides downloadable printable versions and documentation of its methodology to facilitate public education and discussion regarding national wealth disparity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:18 UTC | #25713</small>]]></content>
+  </entry>
+  <entry>
     <title>ICE and HSI Conduct Sweeping Surveillance Operation Targeting Left-Wing Groups</title>
     <link href="https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/" rel="alternate" />
     <id>https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/::v240</id>
@@ -41,15 +50,6 @@
     <updated>2026-10-27T16:52:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fregmedia.co.uk%2F2025%2F01%2F07%2Fghostty-101.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://ghostty.org/docs/install/release-notes/1-4-0">ghostty.org</a> | <a href="https://news.ycombinator.com/item?id=50261998">hacker news</a></small></p><hr/><p>Ghostty 1.4.0 is a major update to the cross-platform terminal emulator that introduces a fully compliant Kitty graphics implementation supporting animation and relative placements, making it the first terminal outside of Kitty to achieve this. The release incorporates large-scale performance optimizations, memory reductions via scrollback compression, and a new EGL-based rendering pipeline for GTK.</p><p>Additional updates include expanded SSH integration, implementation of the Kitty clipboard protocol, split-pane dragging for GTK, and several security vulnerability patches. Performance enhancements yield higher end-to-end I/O throughput, faster text parsing, reduced CPU resource usage, and lower GPU resource consumption for hidden tabs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fregmedia.co.uk%2F2025%2F01%2F07%2Fghostty-101.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 19:16 UTC | #25605</small>]]></content>
-  </entry>
-  <entry>
-    <title>David Harvey Discusses Recently Proposed Sub-O(n log n) Integer Multiplication Algorithm</title>
-    <link href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf" rel="alternate" />
-    <id>https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf::v240</id>
-    <published>2026-10-27T16:12:00+00:00</published>
-    <updated>2026-10-27T16:12:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1427678%2Finteger-multiplication-mit-notes-and-wikipedia1-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">web.maths.unsw.edu.au</a> | <a href="https://news.ycombinator.com/item?id=50190455">hacker news</a></small></p><hr/><p>Mathematician David Harvey has published a commentary examining a recently proposed integer multiplication algorithm that claims a complexity of o(n log n) bit operations. The analysis offers perspective on the new complexity claim and its relation to established theoretical limits in computational mathematics.</p><p>The discussion follows earlier milestones in the field, including Harvey and Joris van der Hoeven's 2019 algorithm achieving O(n log n) bit operations, which confirmed a long-standing conjecture by Schönhage and Strassen. The newly proposed approach pushes past that established boundary into sub-O(n log n) territory, prompting careful scrutiny of its methods and assumptions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1427678%2Finteger-multiplication-mit-notes-and-wikipedia1-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 19:13 UTC | #25157</small>]]></content>
   </entry>
   <entry>
     <title>Google DeepMind Announces Genie 4 Interactive World Model</title>

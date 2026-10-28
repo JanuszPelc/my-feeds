@@ -3,9 +3,27 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-28T12:52:00+00:00</updated>
+  <updated>2026-10-28T13:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>DreamAgainUSA Launches Interactive Wealth Inequality Graph</title>
+    <link href="https://dreamagainusa.org/" rel="alternate" />
+    <id>https://dreamagainusa.org/::v240</id>
+    <published>2026-10-28T13:01:00+00:00</published>
+    <updated>2026-10-28T13:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dreamagainusa.org/">dreamagainusa.org</a> | <a href="https://news.ycombinator.com/item?id=50270764">hacker news</a></small></p><hr/><p>DreamAgainUSA has launched an interactive online visualization illustrating United States wealth inequality to scale. Based on data from the 2023 Survey of Consumer Finances and Federal Reserve financial accounts, the project maps household wealth percentiles using the visual metaphor of stacked $100 bills.</p><p>The platform enables users to scroll through the economic spectrum from the poorest households carrying debt to the top 0.01 percent. It provides downloadable printable versions and documentation of its methodology to facilitate public education and discussion regarding national wealth disparity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:18 UTC | #25713</small>]]></content>
+  </entry>
+  <entry>
+    <title>Fire Salamanders Found to Exhibit Biofluorescence Under Ultraviolet Light</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261027063707.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261027063707.htm::v240</id>
+    <published>2026-10-28T13:00:00+00:00</published>
+    <updated>2026-10-28T13:00:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.newscientist.com%2Fwp-content%2Fuploads%2F2026%2F06%2F03120209%2FSEI_299355853.jpg%3Fw%3D840&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063707.htm">sciencedaily.com</a> | <a href="https://royalsocietypublishing.org/rsos/article/13/5/251991/481938/Glandular-biofluorescence-in-fire-salamanders">source</a></small></p><hr/><p>Researchers have discovered that fire salamanders, one of Europe's most extensively studied amphibians, exhibit biofluorescence under ultraviolet light. The cyan and green glow is most pronounced on the animals' yellow body markings and within their skin gland secretions, which can remain fluorescent for over 24 hours after being released.</p><p>While the exact biological function of the glow remains under investigation, scientists hypothesize it could aid in nocturnal communication, mate recognition, or predator deterrence by enhancing their aposematic warning coloration. The phenomenon relies on an unidentified chemical compound within the skin and blood components, highlighting how advanced imaging continues to reveal hidden traits in familiar species.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.newscientist.com%2Fwp-content%2Fuploads%2F2026%2F06%2F03120209%2FSEI_299355853.jpg%3Fw%3D840&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:15 UTC | #25683</small>]]></content>
+  </entry>
   <entry>
     <title>Polish Academy of Sciences Researchers Analyze Artemis I Radiation Data Using Lithium Fluoride Detectors</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261027063659.htm" rel="alternate" />

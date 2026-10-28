@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Haskell-Like Type Class Resolution Implemented in Pure Java</title>
+    <link href="https://garciat.com/posts/java-type-classes/" rel="alternate" />
+    <id>https://garciat.com/posts/java-type-classes/::v240</id>
+    <published>2026-10-28T13:02:00+00:00</published>
+    <updated>2026-10-28T13:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage3.slideserve.com%2F5573386%2Ftype-classes-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://garciat.com/posts/java-type-classes/">garciat.com</a> | <a href="https://lobste.rs/s/beiiil/full_haskell_like_type_class_resolution">discussion</a></small></p><hr/><p>A software engineering blog post explores how Java's existing type system can support Haskell-style type class instance resolution entirely in plain Java without language modifications. By combining runtime reflection, generic type metadata, and a compact type unification engine, the approach automatically resolves both first-order and higher-kinded type classes while supporting overlapping instances and nested generic types.</p><p>Although presented as an experimental exploration rather than a production library, the project demonstrates the surprising amount of structure Java preserves at runtime for advanced type-level programming. A complete reference implementation is publicly available via GitHub and a GitHub Gist for developers examining metaprogramming techniques in Java.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage3.slideserve.com%2F5573386%2Ftype-classes-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:20 UTC | #25714</small>]]></content>
+  </entry>
+  <entry>
     <title>AlpineBSD Operating System Combines NetBSD Kernel with Alpine Linux-Inspired Userspace</title>
     <link href="https://wiki.alpinebsd.org/" rel="alternate" />
     <id>https://wiki.alpinebsd.org/::v240</id>
@@ -623,23 +632,5 @@
     <updated>2026-10-23T20:48:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstudy.com%2Fcimages%2Fmultimages%2F16%2F0g4tvzn.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html">blog.habets.se</a> | <a href="https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine">discussion</a></small></p><hr/><p>A technical blog post examines misconceptions surrounding undefined behavior (UB) in C and C++ programming, demonstrating how modern compilers like GCC and Clang handle faulty code during optimization. Using concrete examples involving `std::unreachable()` and null pointer dereferences, the analysis shows that UB can result in unpredictable execution paths, such as uncalled functions running or unexpected memory modifications rather than a simple segmentation fault.</p><p>Because compilers treat undefined behavior as an impossibility rather than an error condition, optimization passes can drastically alter program logic in counterintuitive ways. The assembly output examples illustrate that developers cannot rely on intuition or legacy assumptions about how runtime environments handle erroneous code, underscoring why UB remains a persistent hazard in systems programming.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstudy.com%2Fcimages%2Fmultimages%2F16%2F0g4tvzn.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Oct 2026, 00:05 UTC | #25277</small>]]></content>
-  </entry>
-  <entry>
-    <title>Guide to Setting Up and Managing systemd-nspawn Containers</title>
-    <link href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/" rel="alternate" />
-    <id>https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/::v240</id>
-    <published>2026-10-23T17:13:00+00:00</published>
-    <updated>2026-10-23T17:13:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.insecure.ws%2Fassets%2Fimg%2Fposts%2Fsystemd_nspawn%2Fns3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/">quantum5.ca</a> | <a href="https://lobste.rs/s/yusomz/whirlwind_tour_systemd_nspawn">discussion</a> | <a href="https://news.ycombinator.com/item?id=50214983">hacker news</a></small></p><hr/><p>This technical guide details how to set up and manage lightweight Linux namespace containers using systemd-nspawn. Operating similarly to a virtual machine with a writable root filesystem, systemd-nspawn provides a streamlined alternative to Docker for running isolated services and sharing host hardware resources like GPUs.</p><p>The walkthrough covers creating root filesystems for various distributions using tools like debootstrap for Debian, dnf for Fedora, and a specialized fork for Alpine Linux. It also explains how to boot containers with UID and GID mapping, configure them for persistent execution, and manage them using machinectl.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.insecure.ws%2Fassets%2Fimg%2Fposts%2Fsystemd_nspawn%2Fns3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Oct 2026, 22:38 UTC | #25274</small>]]></content>
-  </entry>
-  <entry>
-    <title>Copy-on-Write Memory Duplication Using memfd_create and mmap</title>
-    <link href="https://sebsite.pw/w/20260728-cow.html" rel="alternate" />
-    <id>https://sebsite.pw/w/20260728-cow.html::v240</id>
-    <published>2026-10-23T16:40:00+00:00</published>
-    <updated>2026-10-23T16:40:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvectree.fsn1.your-objectstorage.com%2Fog%2Fc%2Fmemory-mapping-and-posix-shm-vs-memfdcreate-in-linux.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://sebsite.pw/w/20260728-cow.html">sebsite.pw</a> | <a href="https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical">discussion</a></small></p><hr/><p>A systems programming technique combining memfd_create and mmap with MAP_PRIVATE enables efficient memory duplication through copy-on-write semantics without requiring immediate physical allocation for the entire duplicated region. By populating a memory-backed file descriptor to serve as a template, subsequent private mappings share the underlying physical pages until specific modifications occur.</p><p>This approach ensures that only mutated pages consume additional physical memory, significantly reducing overhead when duplicating large data structures. The method offers a low-level workaround for sharing initial template data across virtual memory mappings while deferring memory allocation until write operations take place.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvectree.fsn1.your-objectstorage.com%2Fog%2Fc%2Fmemory-mapping-and-posix-shm-vs-memfdcreate-in-linux.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Oct 2026, 21:34 UTC | #25271</small>]]></content>
   </entry>
 </feed>
