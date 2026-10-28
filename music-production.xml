@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-28T08:27:00+00:00</updated>
+  <updated>2026-10-28T11:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Mastering The Mix BASSROOM Low-End Equalizer Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/28/mastering-the-mix-bassroom-free/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/28/mastering-the-mix-bassroom-free/::v240</id>
+    <published>2026-10-28T11:08:00+00:00</published>
+    <updated>2026-10-28T11:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.masteringthemix.com%2Fcdn%2Fshop%2Ffiles%2FBR_3.png%3Fv%3D1691761824%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/28/mastering-the-mix-bassroom-free/">bedroomproducersblog.com</a> | <a href="https://www.masteringthemix.com/products/bassroom">source</a> | <a href="https://bedroomproducersblog.com/2026/10/28/mastering-the-mix-bassroom-free/#comments">discussion</a></small></p><hr/><p>Mastering The Mix BASSROOM is a mix and mastering equalizer plugin designed to help producers shape and balance the low-end frequencies of their tracks. It features genre-specific target curves and an intuitive interface to assist users in achieving professional low-end translation across various playback systems.</p><p>The plugin provides advanced multi-band EQ functionality tailored specifically for frequencies between 0 and 320 Hz. Producers and audio engineers utilize BASSROOM to streamline their low-end processing workflows and resolve common mixing challenges in untreated acoustic environments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.masteringthemix.com%2Fcdn%2Fshop%2Ffiles%2FBR_3.png%3Fv%3D1691761824%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 15:04 UTC | #25662</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cockos Releases Reaper 7.83 with Open-Source Instrument Ports</title>
+    <link href="https://bedroomproducersblog.com/2026/10/28/reaper-now-has-instruments-reaper-7-83-includes-ports-of-various-open-source-instruments/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/28/reaper-now-has-instruments-reaper-7-83-includes-ports-of-various-open-source-instruments/::v240</id>
+    <published>2026-10-28T11:07:00+00:00</published>
+    <updated>2026-10-28T11:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhelp.pluginboutique.com%2Fhc%2Farticle_attachments%2F6232711449108%2FPlugin_Boutique_External_Instrument_Routing_Guide_Reaper_5_02.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/28/reaper-now-has-instruments-reaper-7-83-includes-ports-of-various-open-source-instruments/">bedroomproducersblog.com</a> | <a href="https://forum.cockos.com/showthread.php?t=312182">source</a> | <a href="https://bedroomproducersblog.com/2026/10/28/reaper-now-has-instruments-reaper-7-83-includes-ports-of-various-open-source-instruments/#respond">discussion</a></small></p><hr/><p>Cockos has released Reaper 7.83, a digital audio workstation update that introduces 39 new instruments and effects ported into the native JSFX format. Created by community developer chmaha, these additions bring built-in open-source instruments and processors directly to the software without requiring external plugins.</p><p>Historically recognized for its extensive effects library rather than native instruments, Reaper expands its stock offerings with emulations and tools such as chorus processors, channel strips, and synth modules. The update is available now for all existing users through the official Cockos channels.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.pluginboutique.com%2Fhc%2Farticle_attachments%2F6232711449108%2FPlugin_Boutique_External_Instrument_Routing_Guide_Reaper_5_02.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 15:01 UTC | #25663</small>]]></content>
+  </entry>
   <entry>
     <title>Autodafe Releases Mega Drum Machines V2 Plugin</title>
     <link href="https://www.kvraudio.com/news/autodafe-releases-mega-drum-machines-v2-free-au-and-vst3-69376?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69376" rel="alternate" />

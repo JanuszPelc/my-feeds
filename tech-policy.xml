@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-28T06:26:00+00:00</updated>
+  <updated>2026-10-28T12:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>ICE and HSI Conduct Sweeping Surveillance Operation Targeting Left-Wing Groups</title>
+    <link href="https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/" rel="alternate" />
+    <id>https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/::v240</id>
+    <published>2026-10-28T12:50:00+00:00</published>
+    <updated>2026-10-28T12:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxnews.com%2Ffoxnews.com%2Fcontent%2Fuploads%2F2026%2F02%2F1200%2F675%2Fmn-ice-plates-database-homeland-security-investigations.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50272749">hacker news</a></small></p><hr/><p>Court documents from a federal conspiracy prosecution in Minnesota reveal that Immigration and Customs Enforcement (ICE) and Homeland Security Investigations (HSI) have conducted a sweeping domestic surveillance operation targeting left-wing activists, labor unions, and community response networks. Initiated under National Security Presidential Memorandum 7 and funded through programs like Operation Keyhole, the multi-agency campaign utilized undercover agents, drones, and invasive digital tools typically reserved for counterterrorism and international crime.</p><p>Defense attorneys and former law enforcement officials compare the directive to the FBI’s historic COINTELPRO operations, noting the vast scale of data collection involving intercepted encrypted chats, financial records, and commercial data brokers. The filings indicate that the surveillance extended far beyond Minnesota to activists and conferences in cities across the United States as part of a broader federal crackdown on opponents of the administration's immigration policies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxnews.com%2Ffoxnews.com%2Fcontent%2Fuploads%2F2026%2F02%2F1200%2F675%2Fmn-ice-plates-database-homeland-security-investigations.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 15:07 UTC | #25693</small>]]></content>
+  </entry>
   <entry>
     <title>CFTC Sues Utah to Protect Federal Oversight of Kalshi Prediction Markets</title>
     <link href="https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there" rel="alternate" />
