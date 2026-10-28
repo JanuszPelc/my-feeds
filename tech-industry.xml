@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-28T13:05:00+00:00</updated>
+  <updated>2026-10-28T13:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Slough Becomes Europe's Largest Data Center Hub</title>
+    <link href="https://www.ft.com/content/d92ede23-75c3-4549-bec2-7fa4be979786" rel="alternate" />
+    <id>https://www.ft.com/content/d92ede23-75c3-4549-bec2-7fa4be979786::v240</id>
+    <published>2026-10-28T13:48:00+00:00</published>
+    <updated>2026-10-28T13:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F1920%2Fcpsprodpb%2F0d2b%2Flive%2F35154910-143e-11ef-b0d8-137e1a51c92d.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/d92ede23-75c3-4549-bec2-7fa4be979786">ft.com</a></small></p><hr/><p>Slough, a town situated on the border of west London, has evolved into Europe's largest data center hub, hosting more than 40 facilities predominantly concentrated on the Slough Trading Estate. The cluster's rapid expansion has been driven by strategic proximity to London, robust fiber connectivity along the M4 corridor, and established power infrastructure.</p><p>As the heavy concentration of monolithic facilities continues to grow, local council officials and residents are pressing operators to provide greater community benefits. The intense development has also prompted scrutiny regarding environmental impacts, including emerging research indicating that the dense collection of facilities contributes to a local heat island effect.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F1920%2Fcpsprodpb%2F0d2b%2Flive%2F35154910-143e-11ef-b0d8-137e1a51c92d.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 18:27 UTC | #25671</small>]]></content>
+  </entry>
   <entry>
     <title>Malaysian Customs Seizes $12.1 Million in Advanced AI Chips at Kuala Lumpur Airport</title>
     <link href="https://www.reuters.com/world/china/ai-chips-worth-121-million-seized-malaysia-airport-customs-authority-says-2026-10-28/" rel="alternate" />

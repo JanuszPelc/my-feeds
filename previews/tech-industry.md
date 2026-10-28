@@ -10,6 +10,12 @@
 
 *How the tech business is changing, from chipmaking and data centers to jobs.*
 
+<h2>Slough Becomes Europe&#x27;s Largest Data Center Hub</h2>
+<a name="story-25671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F1920%2Fcpsprodpb%2F0d2b%2Flive%2F35154910-143e-11ef-b0d8-137e1a51c92d.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Slough, a town situated on the border of west London, has evolved into Europe's largest data center hub, hosting more than 40 facilities predominantly concentrated on the Slough Trading Estate. The cluster's rapid expansion has been driven by strategic proximity to London, robust fiber connectivity along the M4 corridor, and established power infrastructure.</p><p>As the heavy concentration of monolithic facilities continues to grow, local council officials and residents are pressing operators to provide greater community benefits. The intense development has also prompted scrutiny regarding environmental impacts, including emerging research indicating that the dense collection of facilities contributes to a local heat island effect.</p>
+<p><small>Links: <a href="https://www.ft.com/content/d92ede23-75c3-4549-bec2-7fa4be979786">ft.com</a></small></p>
+<br clear="all" />
+
 <h2>Malaysian Customs Seizes $12.1 Million in Advanced AI Chips at Kuala Lumpur Airport</h2>
 <a name="story-25668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd341l694dl30ad.cloudfront.net%2Fimages%2Fap%2F2026%2F10%2F28%2F6ae1855124c7bd42e89dd7b9%2Foriginal%2F1fba4231-219e-42c5-af4e-c7312bcf910d-1793164625349.jpg%3Fwidth%3D1440%26format%3Dwebp%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Malaysian customs authorities seized 30 server units containing advanced artificial intelligence chips valued at approximately 49.5 million ringgit ($12.11 million) at Kuala Lumpur International Airport. The shipment, intercepted earlier this month, was falsely declared as electronic components to bypass trade regulations and export controls.</p><p>Investigators suspect the seizure is tied to a regional smuggling syndicate that previously attempted a similar operation in June involving 72 server units valued at roughly $12.9 million. Malaysia implemented export controls on high-performance, U.S.-origin AI chips in 2025, transforming the specialized semiconductor hardware into high-value contraband.</p>
@@ -60,12 +66,6 @@
 <a name="story-25641"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FQVbYkBkLSFx5by3n.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>South Korean memory-chip manufacturer SK Hynix reported a blockbuster third-quarter net profit increase driven by ongoing artificial intelligence infrastructure demand, prompting the company to announce a massive shareholder return package totaling approximately $75 billion for the year. The capital allocation plan comprises substantial cash dividends alongside extensive share repurchases and cancellations.</p><p>The initiative builds upon previous aggressive return programs as major chipmakers face heightened investor pressure to distribute excess cash reserves. The record financial performance highlights the sustained boom in advanced memory technologies like high-bandwidth memory chips.</p>
 <p><small>Links: <a href="https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7">wsj.com</a> | <a href="https://news.skhynix.com/en/q3-2026-business-results/">source</a></small></p>
-<br clear="all" />
-
-<h2>OpenAI Plans to Buy Google AI Chips for Model Optimization</h2>
-<a name="story-25637"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic2.pisapapeles.net%2Fuploads%2F2025%2F07%2FTPU-GOOGLE-OPEN-AI.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI plans to purchase Tensor Processing Units from Google to support its artificial intelligence infrastructure, marking a strategic shift for a prominent Nvidia customer. The hardware diversification effort is designed to reduce reliance on existing chip suppliers and expand the company's computing options.</p><p>Evidence of the infrastructure expansion surfaced through a corporate job listing seeking a software engineer to lead the optimization of OpenAI's frontier models on Google's hardware. By adapting its systems for alternative architectures, the company aims to manage the massive compute demands required to run its advanced AI models.</p>
-<p><small>Links: <a href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips">theinformation.com</a></small></p>
 <br clear="all" />
 
 ---

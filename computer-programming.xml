@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-28T14:44:00+00:00</updated>
+  <updated>2026-10-28T18:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -20,9 +20,9 @@
     <link href="https://wiki.alpinebsd.org/" rel="alternate" />
     <id>https://wiki.alpinebsd.org/::v240</id>
     <published>2026-10-28T10:35:00+00:00</published>
-    <updated>2026-10-28T10:35:00+00:00</updated>
+    <updated>2026-10-28T18:30:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fpuffs%2Frump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://wiki.alpinebsd.org/">wiki.alpinebsd.org</a> | <a href="https://lobste.rs/s/yxuvie/alpinebsd">discussion</a></small></p><hr/><p>AlpineBSD is a work-in-progress operating system that pairs the NetBSD kernel, libc, and essential platform-specific tools with a userspace inspired by Alpine Linux. The project aims to minimize the inclusion of AI-generated software, excluding large language model output entirely from its base system and main package repository.</p><p>While it utilizes the apk-tools package manager and BusyBox like Alpine Linux, AlpineBSD features a slightly more GNU-oriented userspace and currently relies on the s6 init system, with plans to add OpenRC support. Because it is built on the NetBSD kernel, the operating system currently lacks an official installer and has limited hardware support compared to Linux distributions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fpuffs%2Frump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 14:15 UTC | #25677</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://wiki.alpinebsd.org/">wiki.alpinebsd.org</a> | <a href="https://lobste.rs/s/yxuvie/alpinebsd">discussion</a> | <a href="https://news.ycombinator.com/item?id=50274251">hacker news</a></small></p><hr/><p>AlpineBSD is a work-in-progress operating system that pairs the NetBSD kernel, libc, and essential platform-specific tools with a userspace inspired by Alpine Linux. The project aims to minimize the inclusion of AI-generated software, excluding large language model output entirely from its base system and main package repository.</p><p>While it utilizes the apk-tools package manager and BusyBox like Alpine Linux, AlpineBSD features a slightly more GNU-oriented userspace and currently relies on the s6 init system, with plans to add OpenRC support. Because it is built on the NetBSD kernel, the operating system currently lacks an official installer and has limited hardware support compared to Linux distributions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fpuffs%2Frump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 14:15 UTC | #25677</small>]]></content>
   </entry>
   <entry>
     <title>Lexifina Proposes Git-Style Version Control for US Code</title>
