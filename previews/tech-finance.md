@@ -2,6 +2,8 @@
 
 <h1><img src="../images/tech-finance.png" width="36" align="absmiddle" /> tech-finance</h1>
 
+*Where the money in tech goes, from funding rounds and deals to earnings.*
+
 <h2>Jio Platforms Shares Soar 21% on Trading Debut After Record IPO</h2>
 <a name="story-25650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhyIweAj-_BjCycUlavu5QzLWcxmMIVkAu73h59DO1sGfLtyybSRj3pVB4QFIgQ7kjMkEX_EDQ6wvaUbKflnBi7dGkysOitttaFPLWIlEkHkIjGG504uToXokYtlzFEkn1ePmR06EMBl6gaKwrc6PfQJ31P0L0GTEyworAQioJjQNdgi4YO-f5JP7j595c%2Fs16000%2F511549.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jio Platforms shares surged 21.4% on their trading debut following the company's 302 billion rupee ($3.2 billion) initial public offering, India's largest-ever public issue. The offering was subscribed more than 22 times overall, driven heavily by institutional demand after opening on October 21.</p><p>Reliance Industries retains a majority stake of over 66% in Jio Platforms, alongside significant holdings by Meta Platforms and Google. Following the listing, brokerage Nomura initiated coverage with a buy rating and a target price of 1,340 rupees, citing a largely completed capital expenditure cycle and expected improvements in free cash flow.</p>

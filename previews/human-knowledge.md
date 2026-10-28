@@ -2,6 +2,8 @@
 
 <h1><img src="../images/human-knowledge.png" width="36" align="absmiddle" /> human-knowledge</h1>
 
+*What researchers are finding out in science, math, and engineering.*
+
 <h2>Polish Academy of Sciences Researchers Analyze Artemis I Radiation Data Using Lithium Fluoride Detectors</h2>
 <a name="story-25681"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spacevoyaging.com%2Fwp-content%2Fuploads%2F2024%2F09%2FArtemisImannequins.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at the Institute of Nuclear Physics of the Polish Academy of Sciences have analyzed data collected by experimental lithium fluoride detectors aboard NASA’s uncrewed Artemis I mission. The compact detectors, placed inside human-shaped mannequins during the 2022 lunar flight, recorded cosmic radiation exposure and particle tracks using fluorescence microscopy without requiring chemical etching.</p><p>The findings indicate that radiation doses near the Moon are distributed more uniformly through the body than in low Earth orbit, where trapped protons from Earth's Van Allen belts create uneven exposure patterns. While total radiation levels near the Moon are higher due to galactic cosmic rays, the researchers observed that the overall increase is smaller than typically assumed.</p>

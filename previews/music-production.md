@@ -2,6 +2,8 @@
 
 <h1><img src="../images/music-production.png" width="36" align="absmiddle" /> music-production</h1>
 
+*New tools for making music and the business around it.*
+
 <h2>Codwaves Releases Quance Resonance Suppressor Plugin</h2>
 <a name="story-25697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fquanceui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Codwaves has released Quance, a real-time resonance suppression plugin for Windows and macOS available in VST3, AU, and AAX formats. Utilizing dynamic spectral processing, the plugin detects harsh frequency peaks and reduces them while incorporating dedicated tone and transient protection systems to preserve harmonics and vocal formants.</p><p>Quance includes features such as an intelligent learn function for automatic focus point placement, six source modes, up to eight focus points, and five quality settings ranging from zero-latency live monitoring to high-resolution mixing and mastering modes. The plugin is available at an introductory price of $49.99 until November 30, 2026, alongside a 7-day trial on the developer's website.</p>

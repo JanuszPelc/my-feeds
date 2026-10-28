@@ -2,6 +2,8 @@
 
 <h1><img src="../images/computer-programming.png" width="36" align="absmiddle" /> computer-programming</h1>
 
+*The craft of building software, from new languages to old machines.*
+
 <h2>AlpineBSD Operating System Combines NetBSD Kernel with Alpine Linux-Inspired Userspace</h2>
 <a name="story-25677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fpuffs%2Frump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AlpineBSD is a work-in-progress operating system that pairs the NetBSD kernel, libc, and essential platform-specific tools with a userspace inspired by Alpine Linux. The project aims to minimize the inclusion of AI-generated software, excluding large language model output entirely from its base system and main package repository.</p><p>While it utilizes the apk-tools package manager and BusyBox like Alpine Linux, AlpineBSD features a slightly more GNU-oriented userspace and currently relies on the s6 init system, with plans to add OpenRC support. Because it is built on the NetBSD kernel, the operating system currently lacks an official installer and has limited hardware support compared to Linux distributions.</p>

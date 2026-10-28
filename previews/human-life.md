@@ -2,6 +2,8 @@
 
 <h1><img src="../images/human-life.png" width="36" align="absmiddle" /> human-life</h1>
 
+*What shapes our health, minds, creativity, and everyday lives.*
+
 <h2>Anthropic Reports Early Progress Using Claude for Drug Development</h2>
 <a name="story-25624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhealthcarediscovery.ai%2Fwp-content%2Fuploads%2F2026%2F04%2Fhealthcare-discovery-anthropic-coefficient-bio-acquisition-drug-discovery-ai-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has engaged in research partnerships with six organizations—BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines, and The Column Group—to apply Claude to various stages of drug development. Additionally, the company acquired Mithril Medicine, a startup developing treatments for rare muscular dystrophy, to advance its own drug discovery programs.</p><p>These initiatives focus on optimizing molecular design, antibody generation, manufacturing documentation, and clinical trial planning. Early results include a reduction in human review time for regulatory documentation and the successful generation of thousands of antibody designs. Anthropic plans to extend this work into clinical trials and scale its life sciences research tools.</p>

@@ -2,6 +2,8 @@
 
 <h1><img src="../images/tech-industry.png" width="36" align="absmiddle" /> tech-industry</h1>
 
+*How the tech business is changing, from chipmaking and data centers to jobs.*
+
 <h2>Building a Better California Raises Over $333 Million to Defeat Proposition 40 Wealth Tax</h2>
 <a name="story-25656"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F26%2Fbusiness%2F00biz-billionaire-tax%2F00biz-billionaire-tax-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Silicon Valley billionaires and their advisers have organized weekly strategy calls and raised more than $333 million through the nonprofit Building a Better California to defeat Proposition 40. If approved by voters, the ballot measure would impose a one-time 5 percent wealth tax on California billionaires.</p><p>The opposition campaign ranks among the best-funded political efforts in state history, backed by roughly 80 prominent tech donors including Google co-founder Sergey Brin, former Google chief executive Eric Schmidt, and Stripe chief executive Patrick Collison. Opponents view the wealth tax as an existential threat that could establish a precedent for similar levies nationwide.</p>

@@ -2,6 +2,8 @@
 
 <h1><img src="../images/computer-security.png" width="36" align="absmiddle" /> computer-security</h1>
 
+*The vulnerabilities, attacks, and outages that threaten the systems we rely on.*
+
 <h2>Critical Code-Execution Vulnerability Discovered in TianoCore EDK II UEFI Firmware</h2>
 <a name="story-25702"><img src="https://wsrv.nl/?url=https%3A%2F%2Feclypsium.com%2Fwp-content%2Fuploads%2Fhydrophobia-screen-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A critical memory-corruption vulnerability, tracked as CVE-2026-97631, affects the TianoCore EDK II open-source codebase widely used by hardware vendors to create UEFI boot firmware for servers. Discovered by security researchers and prematurely exposed through a public code repository pull request, the 9.5-severity flaw resides in the PXE Base Code driver's handling of ICMP error messages.</p><p>An attacker with low-level local network access can exploit the vulnerability during a network boot sequence to execute malicious code in ring 0 before operating system defenses and Secure Boot initialize. Because EDK2 reference code is utilized extensively across the server ecosystem, affected organizations must coordinate with firmware vendors to apply patches and temporarily disable unused network boot capabilities to mitigate potential compromise.</p>

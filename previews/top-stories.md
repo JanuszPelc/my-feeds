@@ -2,7 +2,7 @@
 
 <h1><img src="../images/top-stories.png" width="36" align="absmiddle" /> top-stories</h1>
 
-A low-volume selection of stories from all the other feeds.
+*A low-volume selection of stories from all the other feeds.*
 
 <h2>ICE and HSI Conduct Sweeping Surveillance Operation Targeting Left-Wing Groups</h2>
 <a name="story-25693"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxnews.com%2Ffoxnews.com%2Fcontent%2Fuploads%2F2026%2F02%2F1200%2F675%2Fmn-ice-plates-database-homeland-security-investigations.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>

@@ -7,6 +7,7 @@ subscribing.
 
 Add any feed to your reader by copying its link:
 
+<!-- feeds -->
 - [ai-news](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml): new AI models and agents, the tools to run them, and the products built on them
 - [computer-programming](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml): the craft of building software, from new languages to old machines
 - [computer-security](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml): the vulnerabilities, attacks, and outages that threaten the systems we rely on
@@ -17,6 +18,7 @@ Add any feed to your reader by copying its link:
 - [tech-finance](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml): where the money in tech goes, from funding rounds and deals to earnings
 - [tech-industry](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml): how the tech business is changing, from chipmaking and data centers to jobs
 - [tech-policy](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml): how tech and power shape each other, from laws and courts to surveillance and war
+<!-- /feeds -->
 
 Or get all of them at once by downloading [feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/feeds.opml)
 and importing it into your reader.
