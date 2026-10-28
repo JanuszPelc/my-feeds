@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Hackers Target US Federal Election Commission System, Forcing Offline Filing System</title>
+    <link href="https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/" rel="alternate" />
+    <id>https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/::v240</id>
+    <published>2026-10-28T13:46:00+00:00</published>
+    <updated>2026-10-28T13:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.thenews.com.pk%2Fassets%2Fuploads%2F2026-10-28%2F1421550_053048_updates.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50265147">hacker news</a></small></p><hr/><p>A suspected hacking attempt forced the US Federal Election Commission to temporarily take its electronic filing system offline late Monday, blocking political groups from submitting mandatory campaign finance disclosures. The disruption occurred just a week before the upcoming midterm elections, affecting how political committees report financial transactions but not vote casting.</p><p>According to an internal email seen by Reuters, a bad actor targeted the agency's systems, prompting IT staff to shut down public-facing services while working to restore operations. The FEC does not run elections itself, but serves as the federal watchdog overseeing campaign finance transparency and reporting compliance during critical spending windows.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thenews.com.pk%2Fassets%2Fuploads%2F2026-10-28%2F1421550_053048_updates.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 18:12 UTC | #25670</small>]]></content>
+  </entry>
+  <entry>
     <title>Gareth Heyes Details Bypasses for Popular SVG Sanitizers</title>
     <link href="https://portswigger.net/research/scalable-vector-grief" rel="alternate" />
     <id>https://portswigger.net/research/scalable-vector-grief::v240</id>
