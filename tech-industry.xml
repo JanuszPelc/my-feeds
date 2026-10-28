@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-28T01:49:00+00:00</updated>
+  <updated>2026-10-28T03:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>SK Hynix Announces $75 Billion Shareholder Return Plan Alongside Record Third-Quarter Profit</title>
+    <link href="https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7" rel="alternate" />
+    <id>https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7::v240</id>
+    <published>2026-10-28T03:59:00+00:00</published>
+    <updated>2026-10-28T03:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FQVbYkBkLSFx5by3n.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7">wsj.com</a> | <a href="https://news.skhynix.com/en/q3-2026-business-results/">source</a></small></p><hr/><p>South Korean memory-chip manufacturer SK Hynix reported a blockbuster third-quarter net profit increase driven by ongoing artificial intelligence infrastructure demand, prompting the company to announce a massive shareholder return package totaling approximately $75 billion for the year. The capital allocation plan comprises substantial cash dividends alongside extensive share repurchases and cancellations.</p><p>The initiative builds upon previous aggressive return programs as major chipmakers face heightened investor pressure to distribute excess cash reserves. The record financial performance highlights the sustained boom in advanced memory technologies like high-bandwidth memory chips.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FQVbYkBkLSFx5by3n.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 09:34 UTC | #25641</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Plans to Buy Google AI Chips for Model Optimization</title>
     <link href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips" rel="alternate" />
