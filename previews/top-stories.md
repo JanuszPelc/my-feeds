@@ -4,6 +4,13 @@
 
 *A low-volume selection of stories from all the other feeds.*
 
+> [!NOTE]
+> To subscribe to the top-stories feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
+> ```
+
 <h2>DreamAgainUSA Launches Interactive Wealth Inequality Graph</h2>
 <a name="story-25713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DreamAgainUSA has launched an interactive online visualization illustrating United States wealth inequality to scale. Based on data from the 2023 Survey of Consumer Finances and Federal Reserve financial accounts, the project maps household wealth percentiles using the visual metaphor of stacked $100 bills.</p><p>The platform enables users to scroll through the economic spectrum from the poorest households carrying debt to the top 0.01 percent. It provides downloadable printable versions and documentation of its methodology to facilitate public education and discussion regarding national wealth disparity.</p>
@@ -63,13 +70,6 @@
 <p>In mid-October 2026, a web crawler identified with Roblox research downloaded 145.5 GB of 3D models across 712 projects from Open3DLab and its sister sites, SFMLab and SmutBase. The scraping script ignored robots.txt instructions, terms of service, and non-commercial creator licenses while gathering data for what operators suspect is 3D foundation model training.</p><p>The downloads included significant volumes of explicit adult content from SmutBase and SFMLab, raising concerns about safety filters and data hygiene for generative AI tools used on platforms with minor users. Open3DLab stated that Roblox failed to respond to multiple inquiries regarding the automated collection, underscoring ongoing tensions over unauthorized web scraping by major technology companies.</p>
 <p><small>Links: <a href="https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/">open3dlab.com</a> | <a href="https://news.ycombinator.com/item?id=50256985">hacker news</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the top-stories feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
-> ```
 
 ---
 

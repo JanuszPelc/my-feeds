@@ -4,6 +4,13 @@
 
 *New AI models and agents, the tools to run them, and the products built on them.*
 
+> [!NOTE]
+> To subscribe to the ai-news feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
+> ```
+
 <h2>Anthropic Study Finds Experts Frequently Defer to AI Agents in Judgment Calls</h2>
 <a name="story-25667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.anthropic.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fwww-cdn.anthropic.com%252Fimages%252F4zrzovbb%252Fwebsite%252Fea6b9bd3ca8b59f150d912a3855fc1beaf9e7792-1920x926.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic researchers conducted a randomized controlled trial involving 50 professional analysts performing a causal inference task using Claude Code to examine whether human experts maintain independent judgment when working with AI agents. By secretly introducing a randomized preference into each agent's instructions across four analytical decisions, the study measured how often experts adopted the agent's preferred option.</p><p>The results showed that analysts followed their agents' leans 86% of the time, frequently repeating the agents' arguments in post-task surveys while believing their final recommendations were entirely their own. Although analysts using AI completed tasks faster and made fewer methodological errors than those working without it, the findings highlight potential risks of unintentional human deference to hidden or arbitrary AI preferences in critical fields like safety research.</p>
@@ -61,13 +68,6 @@
 <p>OpenAI adapted agentic coding tools originally built for software engineers to create dots, an always-on personal AI assistant designed to operate persistently in the background across desktop and mobile applications. Available to Pro-tier subscribers, the assistant utilizes calendar, email, and computer integrations to anticipate user needs and flag schedule conflicts.</p><p>While the assistant features proactive research capabilities to automate background workflows, it raises ongoing questions regarding data privacy, user controls, and third-party integrations like payment processors. OpenAI executives note that balancing conservative privacy defaults with automated functionality remains a central product challenge as the company scales agentic AI tools.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/">techcrunch.com</a> | <a href="https://openai.com/index/introducing-dots/">source</a> | <a href="https://news.ycombinator.com/item?id=49896604">hacker news</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the ai-news feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
-> ```
 
 ---
 

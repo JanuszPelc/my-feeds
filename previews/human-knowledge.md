@@ -4,6 +4,13 @@
 
 *What researchers are finding out in science, math, and engineering.*
 
+> [!NOTE]
+> To subscribe to the human-knowledge feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
+> ```
+
 <h2>Start Doing Graph Theory Free Introductory Textbook Released</h2>
 <a name="story-25719"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Start Doing Graph Theory is a free introductory textbook designed to teach graph theory through puzzles, theorem-proving, and practical problem-solving. Written by Mikhail Lavrov, the comprehensive resource is available under a Creative Commons license for online reading or PDF download.</p><p>The text combines mathematical rigor with an accessible approach to help students learn foundational concepts. The author has also established a formal version history to track updates and revisions made to the material over time.</p>
@@ -63,13 +70,6 @@
 <p>Engineers at the University of California San Diego have demonstrated a method for controlling magnetism using shaped laser light, overcoming previous thickness and polarization barriers in optical switching. By shrinking and reshaping ultrafast laser beams, the researchers successfully induced deterministic magnetic switching in a nine-layer cobalt and platinum structure without needing specific light polarization.</p><p>While traditional magnetic memory relies on external fields that limit writing speed and consume high energy, optical switching could theoretically achieve speeds over 1,000 times greater. However, significant engineering challenges remain before the specialized ultrafast lasers used in the experiments can be integrated into practical computer hardware.</p>
 <p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261025073046.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41467-026-77572-3.pdf">source</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the human-knowledge feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
-> ```
 
 ---
 

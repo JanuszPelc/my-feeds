@@ -4,6 +4,13 @@
 
 *How tech and power shape each other, from laws and courts to surveillance and war.*
 
+> [!NOTE]
+> To subscribe to the tech-policy feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
+> ```
+
 <h2>ICE and HSI Conduct Sweeping Surveillance Operation Targeting Left-Wing Groups</h2>
 <a name="story-25693"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxnews.com%2Ffoxnews.com%2Fcontent%2Fuploads%2F2026%2F02%2F1200%2F675%2Fmn-ice-plates-database-homeland-security-investigations.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Court documents from a federal conspiracy prosecution in Minnesota reveal that Immigration and Customs Enforcement (ICE) and Homeland Security Investigations (HSI) have conducted a sweeping domestic surveillance operation targeting left-wing activists, labor unions, and community response networks. Initiated under National Security Presidential Memorandum 7 and funded through programs like Operation Keyhole, the multi-agency campaign utilized undercover agents, drones, and invasive digital tools typically reserved for counterterrorism and international crime.</p><p>Defense attorneys and former law enforcement officials compare the directive to the FBI’s historic COINTELPRO operations, noting the vast scale of data collection involving intercepted encrypted chats, financial records, and commercial data brokers. The filings indicate that the surveillance extended far beyond Minnesota to activists and conferences in cities across the United States as part of a broader federal crackdown on opponents of the administration's immigration policies.</p>
@@ -63,13 +70,6 @@
 <p>US senators Ron Wyden and Adam Schiff have accused the Trump administration of illegally withholding a secret Foreign Intelligence Surveillance Court ruling from Congress. The March ruling reportedly objected to search filters that allow intelligence analysts to access Americans' communications without a warrant under Section 702 of the Foreign Intelligence Surveillance Act.</p><p>The administration's statutory deadline to release the opinion passed in September while intelligence officials push lawmakers to reauthorize the surveillance program before the end of the year. Civil liberties groups and key legislators are demanding transparency regarding the court's findings before any debate on renewing the authority, which currently continues under interim court authorization after lapsing in June.</p>
 <p><small>Links: <a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50259604">hacker news</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the tech-policy feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
-> ```
 
 ---
 

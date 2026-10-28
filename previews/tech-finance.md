@@ -4,6 +4,13 @@
 
 *Where the money in tech goes, from funding rounds and deals to earnings.*
 
+> [!NOTE]
+> To subscribe to the tech-finance feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
+> ```
+
 <h2>Jio Platforms Shares Soar 21% on Trading Debut After Record IPO</h2>
 <a name="story-25650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhyIweAj-_BjCycUlavu5QzLWcxmMIVkAu73h59DO1sGfLtyybSRj3pVB4QFIgQ7kjMkEX_EDQ6wvaUbKflnBi7dGkysOitttaFPLWIlEkHkIjGG504uToXokYtlzFEkn1ePmR06EMBl6gaKwrc6PfQJ31P0L0GTEyworAQioJjQNdgi4YO-f5JP7j595c%2Fs16000%2F511549.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jio Platforms shares surged 21.4% on their trading debut following the company's 302 billion rupee ($3.2 billion) initial public offering, India's largest-ever public issue. The offering was subscribed more than 22 times overall, driven heavily by institutional demand after opening on October 21.</p><p>Reliance Industries retains a majority stake of over 66% in Jio Platforms, alongside significant holdings by Meta Platforms and Google. Following the listing, brokerage Nomura initiated coverage with a buy rating and a target price of 1,340 rupees, citing a largely completed capital expenditure cycle and expected improvements in free cash flow.</p>
@@ -63,13 +70,6 @@
 <p>Hyphenate Inc., a startup developing reinforcement-learning-driven artificial intelligence agents to automate corporate finance operations, has secured $45 million in a Series A funding round led by Nexus Venture Partners. The latest round brings the two-year-old company's total funding to $54 million.</p><p>Founded by former Microsoft colleagues Ramnandan Krishnamurthy and Ajay Krishna Amudan, the company builds autonomous finance agents designed to handle accounting, treasury, and other complex workflows without requiring manual prompts or rigid rule sets from scratch. The fresh capital will be used to accelerate the development and expansion of its AI-driven finance platform.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance">bloomberg.com</a> | <a href="https://emergent.sh/news/hyphenate-raises-45m-ai-agents-finance">source</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the tech-finance feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
-> ```
 
 ---
 

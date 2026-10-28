@@ -4,6 +4,13 @@
 
 *The games, gadgets, shows, and books people spend their time on.*
 
+> [!NOTE]
+> To subscribe to the tech-consumer feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
+> ```
+
 <h2>Rockstar Games Workers to Vote on Unionization Ahead of GTA VI Release</h2>
 <a name="story-25611"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt859507d51581f713%2F6ae0fbc4f6e3e04aa497e290%2Fgtaviluciaweightsfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rockstar Games employees will vote on formal union recognition with the Independent Worker's Union of Great Britain (IWGB) between November 12 and November 26, 2026. The vote is scheduled to occur shortly before the November 19 release of Grand Theft Auto VI.</p><p>This vote is independent of an ongoing tribunal regarding the 2025 dismissal of over 30 employees, an action the IWGB has characterized as union busting. Rockstar head of publishing Jennifer Koble has stated that the company will respect the outcome of the vote.</p>
@@ -63,13 +70,6 @@
 <p>Apple has released iOS 27.2 and iPadOS 27.2, expanding Siri AI support to French, Japanese, Korean, Portuguese, and Spanish. The update also introduces Apple TV profiles, new branding for Apple Music, and AI-driven suggestions in Messages that facilitate quick actions in apps like Calendar and Reminders.</p><p>Additional features include SynthID watermarking in Photos to identify AI-generated or modified content, expanded Shared Albums, and FaceTime support for third-party sign language interpreters. The software is available for all compatible devices, including the iPhone Duo and the new OLED iPad mini.</p>
 <p><small>Links: <a href="https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/">macrumors.com</a> | <a href="https://www.apple.com/nz/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/">source</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the tech-consumer feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
-> ```
 
 ---
 

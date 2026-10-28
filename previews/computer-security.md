@@ -4,6 +4,13 @@
 
 *The vulnerabilities, attacks, and outages that threaten the systems we rely on.*
 
+> [!NOTE]
+> To subscribe to the computer-security feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
+> ```
+
 <h2>Critical Code-Execution Vulnerability Discovered in TianoCore EDK II UEFI Firmware</h2>
 <a name="story-25702"><img src="https://wsrv.nl/?url=https%3A%2F%2Feclypsium.com%2Fwp-content%2Fuploads%2Fhydrophobia-screen-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A critical memory-corruption vulnerability, tracked as CVE-2026-97631, affects the TianoCore EDK II open-source codebase widely used by hardware vendors to create UEFI boot firmware for servers. Discovered by security researchers and prematurely exposed through a public code repository pull request, the 9.5-severity flaw resides in the PXE Base Code driver's handling of ICMP error messages.</p><p>An attacker with low-level local network access can exploit the vulnerability during a network boot sequence to execute malicious code in ring 0 before operating system defenses and Secure Boot initialize. Because EDK2 reference code is utilized extensively across the server ecosystem, affected organizations must coordinate with firmware vendors to apply patches and temporarily disable unused network boot capabilities to mitigate potential compromise.</p>
@@ -63,13 +70,6 @@
 <p>Researchers at TrendAI, a unit of cybersecurity firm Trend Micro, discovered that Israeli ad tech company Discover-Tech extensively targeted users of SpaceX's Starlink satellite internet service across more than 100 countries. According to sources familiar with the matter, the heavy digital ad exposure was likely intended to geolocate or surveil the satellite network's users.</p><p>The findings build on broader investigations into how digital advertising networks can be exploited to track targets and facilitate device hacking operations. Discover-Tech has previously faced scrutiny from security researchers over related operations utilizing sprawling networks of online ads.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50259050">hacker news</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the computer-security feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
-> ```
 
 ---
 

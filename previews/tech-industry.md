@@ -4,6 +4,13 @@
 
 *How the tech business is changing, from chipmaking and data centers to jobs.*
 
+> [!NOTE]
+> To subscribe to the tech-industry feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
+> ```
+
 <h2>Malaysian Customs Seizes $12.1 Million in Advanced AI Chips at Kuala Lumpur Airport</h2>
 <a name="story-25668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd341l694dl30ad.cloudfront.net%2Fimages%2Fap%2F2026%2F10%2F28%2F6ae1855124c7bd42e89dd7b9%2Foriginal%2F1fba4231-219e-42c5-af4e-c7312bcf910d-1793164625349.jpg%3Fwidth%3D1440%26format%3Dwebp%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Malaysian customs authorities seized 30 server units containing advanced artificial intelligence chips valued at approximately 49.5 million ringgit ($12.11 million) at Kuala Lumpur International Airport. The shipment, intercepted earlier this month, was falsely declared as electronic components to bypass trade regulations and export controls.</p><p>Investigators suspect the seizure is tied to a regional smuggling syndicate that previously attempted a similar operation in June involving 72 server units valued at roughly $12.9 million. Malaysia implemented export controls on high-performance, U.S.-origin AI chips in 2025, transforming the specialized semiconductor hardware into high-value contraband.</p>
@@ -61,13 +68,6 @@
 <p>OpenAI plans to purchase Tensor Processing Units from Google to support its artificial intelligence infrastructure, marking a strategic shift for a prominent Nvidia customer. The hardware diversification effort is designed to reduce reliance on existing chip suppliers and expand the company's computing options.</p><p>Evidence of the infrastructure expansion surfaced through a corporate job listing seeking a software engineer to lead the optimization of OpenAI's frontier models on Google's hardware. By adapting its systems for alternative architectures, the company aims to manage the massive compute demands required to run its advanced AI models.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips">theinformation.com</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the tech-industry feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
-> ```
 
 ---
 

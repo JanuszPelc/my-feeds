@@ -4,6 +4,13 @@
 
 *New tools for making music and the business around it.*
 
+> [!NOTE]
+> To subscribe to the music-production feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
+> ```
+
 <h2>Codwaves Releases Quance Resonance Suppressor Plugin</h2>
 <a name="story-25697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fquanceui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Codwaves has released Quance, a real-time resonance suppression plugin for Windows and macOS available in VST3, AU, and AAX formats. Utilizing dynamic spectral processing, the plugin detects harsh frequency peaks and reduces them while incorporating dedicated tone and transient protection systems to preserve harmonics and vocal formants.</p><p>Quance includes features such as an intelligent learn function for automatic focus point placement, six source modes, up to eight focus points, and five quality settings ranging from zero-latency live monitoring to high-resolution mixing and mastering modes. The plugin is available at an introductory price of $49.99 until November 30, 2026, alongside a 7-day trial on the developer's website.</p>
@@ -63,13 +70,6 @@
 <p>Strezov Sampling has released String Contours: Solo Cello Sul Tasto, a free virtual instrument for Native Instruments' Kontakt Player. Built on the developer's contextual sampling concept, the library captures delicate bow textures and pre-shaped dynamic performances designed to minimize manual expression mapping.</p><p>The instrument includes tempo synchronization and organic phrasing tailored for film scoring and ambient production. It is fully compatible with the free version of Kontakt Player, providing producers with access to professional orchestral sampling without requiring the full commercial software.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/strezov-sampling-solo-cello/">bedroomproducersblog.com</a> | <a href="https://www.strezov-sampling.com/products/view/string-contours-solo-cello-sul-tasto">source</a> | <a href="https://bedroomproducersblog.com/2026/10/27/strezov-sampling-solo-cello/#respond">discussion</a></small></p>
 <br clear="all" />
-
-> [!NOTE]
-> To subscribe to the music-production feed, copy this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
-> ```
 
 ---
 
