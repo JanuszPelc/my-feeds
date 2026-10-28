@@ -2,12 +2,6 @@
 
 <h1><img src="../images/human-knowledge.png" width="36" align="absmiddle" /> human-knowledge</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
-```
-
 <h2>Transposable Elements Linked to Rapid Diversification of Ants</h2>
 <a name="story-25645"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmdpi-res.com%2Fijms%2Fijms-23-04755%2Farticle_deploy%2Fhtml%2Fimages%2Fijms-23-04755-g001.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Transposable elements, or "jumping genes," likely fueled the evolutionary diversification of ants following the mass extinction 66 million years ago. Surges in the activity of these mobile DNA segments coincided with the expansion of major ant lineages during the early Paleogene, facilitating the high species richness seen in modern ant families.</p><p>Genomic comparisons of 163 ant species show that lineages with more jumping genes tend to be more species-rich. These genetic elements also appear to have contributed to the expansion of gene families responsible for odorant receptors, enhancing the chemical communication systems essential to ant social behavior.</p>
@@ -95,6 +89,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <p>Manifold3D has released a 1:1 scale Minecraft map covering the entire 41,285-square-kilometer land area of Switzerland, generated from open geospatial data provided by the federal agency swisstopo. Each block represents one meter, accurately replicating the country's topography, glaciers, lakes, and mountain peaks such as the Matterhorn using Minecraft Java Edition with the Cubic Chunks mod.</p><p>Available in early access, the full 24-gigabyte world requires a high-performance computer with at least 16 gigabytes of RAM and is priced at 15 Swiss francs for residents of Switzerland, while a free regional download featuring the Jungfrau-Aletsch UNESCO World Heritage site is provided for hardware testing. The map utilizes swisstopo vector and raster datasets for domestic terrain and infrastructure, supplemented by Copernicus elevation data for areas beyond national borders.</p>
 <p><small>Links: <a href="https://blocks.manifold3d.ch/">blocks.manifold3d.ch</a> | <a href="https://news.ycombinator.com/item?id=50240922">hacker news</a></small></p>
 <br clear="all" />
+
+To subscribe to the human-knowledge feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
+```
 
 ---
 

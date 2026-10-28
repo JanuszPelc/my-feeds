@@ -2,12 +2,6 @@
 
 <h1><img src="../images/computer-programming.png" width="36" align="absmiddle" /> computer-programming</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
-```
-
 <h2>Lobsters NYC Meetup Scheduled at Walker&#x27;s</h2>
 <a name="story-25666"><img src="https://wsrv.nl/?url=https%3A%2F%2Fquartzmountain.org%2Fimages%2Fresources%2Fattend-a-tech-event-at-the-new-york-tech-meetup_20230516020502.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Members of the Lobsters technology discussion community are gathering in New York City for an informal meetup. Attendees are meeting at Walker's near the Canal Street subway station starting at 5:30 p.m.</p><p>The event follows a previous online coordination thread that also drew interest from array programming language enthusiasts. Organizers noted that participants can arrive flexibly, with updates posted to the discussion thread if the group moves.</p>
@@ -97,6 +91,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <p>Full-stack engineer and tech executive Orestis Ioannou analyzes his GitHub contribution history to examine how adopting parallel AI coding agents significantly increased his workload rather than reducing it. Despite transitioning to leadership roles with less direct coding responsibility, utilizing multiple agents concurrently allowed him to pursue vastly more projects, returning his output to peak engineering levels.</p><p>The analysis highlights that low-cost implementation drives continuous cycles of intense coding bursts, context-switching fatigue, and burnout, while elevating baseline activity during quieter periods. Ioannou notes that while AI makes turning ideas into reality easier, human cognitive capacity for managing parallel workflows has not scaled at the same rate.</p>
 <p><small>Links: <a href="https://oioannou.com/blog/ai-promised-less-work/">oioannou.com</a> | <a href="https://news.ycombinator.com/item?id=50257325">hacker news</a></small></p>
 <br clear="all" />
+
+To subscribe to the computer-programming feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
+```
 
 ---
 

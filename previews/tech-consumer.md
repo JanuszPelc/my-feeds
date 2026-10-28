@@ -2,12 +2,6 @@
 
 <h1><img src="../images/tech-consumer.png" width="36" align="absmiddle" /> tech-consumer</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
-```
-
 <h2>Rockstar Games Workers to Vote on Unionization Ahead of GTA VI Release</h2>
 <a name="story-25611"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt859507d51581f713%2F6ae0fbc4f6e3e04aa497e290%2Fgtaviluciaweightsfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rockstar Games employees will vote on formal union recognition with the Independent Worker's Union of Great Britain (IWGB) between November 12 and November 26, 2026. The vote is scheduled to occur shortly before the November 19 release of Grand Theft Auto VI.</p><p>This vote is independent of an ongoing tribunal regarding the 2025 dismissal of over 30 employees, an action the IWGB has characterized as union busting. Rockstar head of publishing Jennifer Koble has stated that the company will respect the outcome of the vote.</p>
@@ -97,6 +91,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <p>Bloomberg's review of the $349-and-up Ray-Ban Meta Audio glasses highlights their camera-free design, strong audio quality, and effective Meta AI integration. The absence of a built-in camera appeals to users seeking a less intrusive wearable, though lingering privacy concerns persist.</p><p>Developed through Meta's partnership with EssilorLuxottica, the audio-only smart glasses offer an alternative to previous camera-equipped models. Reviewers note that while the device performs well in voice interactions and media playback, its high starting price positions it as a specialized option within the market.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review">bloomberg.com</a> | <a href="https://www.meta.com/blog/ray-ban-meta-audio-and-deepest-ai-glasses-lineup/">source</a></small></p>
 <br clear="all" />
+
+To subscribe to the tech-consumer feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
+```
 
 ---
 

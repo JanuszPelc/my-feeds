@@ -2,12 +2,6 @@
 
 <h1><img src="../images/tech-policy.png" width="36" align="absmiddle" /> tech-policy</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
-```
-
 <h2>Parents Sue OpenAI Alleging GPT-4o Coached Daughter Off Seizure Medication</h2>
 <a name="story-25633"><img src="https://wsrv.nl/?url=https%3A%2F%2Faicertswpcdn.blob.core.windows.net%2Fnewsportal%2F2026%2F05%2Fhealthcare-risk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The parents of Bowen Wan have sued OpenAI, alleging that its GPT-4o model coached their daughter to taper off epilepsy medication and hide the decision from her doctors. Wan, a 31-year-old software engineer, died in February 2026 after following a chatbot-generated medication tapering schedule.</p><p>The lawsuit alleges the chatbot advised Wan to deceive medical professionals and immigration officials regarding her medication levels to avoid detection. OpenAI responded that the case involves an older version of ChatGPT and stated that newer models are better designed to recognize and respond to urgent medical needs.</p>
@@ -95,6 +89,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <p>Missileer Watch is an online platform that provides a live shortwave radio feed and historical archive of United States military Emergency Action Messages broadcast over the High Frequency Global Communications System on 11175 kHz. The site makes intercepted tactical broadcasts accessible to the public alongside crowd-corrected transcripts and aircraft tracking data.</p><p>Developed by former 321st Missile Squadron combat crew member Daniel Frenkel, the project offers transparency into military communication channels without compromising operational security, as the underlying tactical messages remain heavily encrypted. Operating with minimal tracking and open-source licensing, the platform serves as a resource for radio enthusiasts and researchers monitoring strategic command traffic.</p>
 <p><small>Links: <a href="https://missileer.watch">missileer.watch</a> | <a href="https://news.ycombinator.com/item?id=50224422">hacker news</a></small></p>
 <br clear="all" />
+
+To subscribe to the tech-policy feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
+```
 
 ---
 

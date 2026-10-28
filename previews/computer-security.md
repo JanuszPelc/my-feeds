@@ -2,11 +2,11 @@
 
 <h1><img src="../images/computer-security.png" width="36" align="absmiddle" /> computer-security</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
-```
+<h2>US FCC Approves Amazon Leo&#x27;s $11.5 Billion Acquisition of Globalstar</h2>
+<a name="story-25644"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2115140658721660928%2Fimg%2F48fj_ApaGqFR8kmb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The U.S. Federal Communications Commission approved Amazon Leo's $11.5 billion acquisition of Globalstar. The transaction grants Amazon access to Globalstar's 24 satellites and internationally harmonized mobile-satellite service spectrum.</p><p>Regulators stated that the approval will expand direct-to-device competition, strengthen emergency communications, and improve service in unserved and underserved areas. The acquisition is intended to support the expansion of Amazon's satellite communications network and connectivity services.</p>
+<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/">reuters.com</a> | <a href="https://www.fcc.gov/document/fcc-approves-amazon-leos-acquisition-globalstar">source</a></small></p>
+<br clear="all" />
 
 <h2>Netmeister Discusses Unsustainable Pressures on Cybersecurity Defense Teams</h2>
 <a name="story-25660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techwyse.com%2Fwp-content%2Fuploads%2F2026%2F04%2FUntitled-design-5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
@@ -92,11 +92,11 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <p><small>Links: <a href="https://datatracker.ietf.org/doc/draft-jms-mole-protocols/">datatracker.ietf.org</a> | <a href="https://lobste.rs/s/xj200h/mole_protocols">discussion</a></small></p>
 <br clear="all" />
 
-<h2>Apple Details Automatic Blocking of Compromised eMudhra Certificates</h2>
-<a name="story-25437"><img src="https://wsrv.nl/?url=https%3A%2F%2Fministryofcyberaffairs.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fstorage.googleapis.com%2Fcybersentry-news-images%2Farticles%2Fresearch%2F1792605858915-aihero.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has begun automatically blocking twelve compromised intermediate Certification Authority certificates issued by eMudhra across Safari, Mail, and system networking frameworks. The security measures follow the compromise of private keys across eight eMudhra intermediate CAs, which left them vulnerable to unauthorized TLS certificate generation and potential impersonation attacks.</p><p>While standard Apple applications handle the block automatically via background updates, command-line tools on macOS like curl and git that check against the system's /etc/ssl/cert.pem file may still accept the certificates until a future software update is released. Apple has provided manual Terminal commands for system administrators and developers who need to immediately remove the affected root certificates from their local configuration files.</p>
-<p><small>Links: <a href="https://support.apple.com/en-us/149555">support.apple.com</a> | <a href="https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate">discussion</a></small></p>
-<br clear="all" />
+To subscribe to the computer-security feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
+```
 
 ---
 

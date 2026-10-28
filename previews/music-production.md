@@ -2,12 +2,6 @@
 
 <h1><img src="../images/music-production.png" width="36" align="absmiddle" /> music-production</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
-```
-
 <h2>Kazrog Releases Vac Rac TSL Tube Optical Compressor Plugin</h2>
 <a name="story-25627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvacrac_mainui_gray.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kazrog's Vac Rac TSL is a plugin emulation of the Inward Connections Vac Rac tube optical compressor/limiter, developed alongside designer Steve Firlotte. The software models four hardware configurations: the TSL-5, TSL-4, TSL-3, and the transformerless TLM-1.</p><p>The plugin features adjustable THD for tube saturation, sidechain filters, and Analog Entropy for modeling channel-to-channel component tolerance. It is compatible with macOS, Windows, and Linux in VST2, VST3, AAX, AU, and LV2 formats.</p>
@@ -97,6 +91,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <p>AcusMagic has released Figura, an audio effect and standalone application that translates incoming audio signals into real-time cymatic figures. Utilizing modal simulation rather than simple beat-reactive animation, the software drives the eigenmodes of virtual plates and membranes using up to 32 partials of the sound source, forming Chladni patterns, liquid waves, and Lissajous curves.</p><p>Available in Studio and Live editions for macOS and Windows, Figura supports VST3, CLAP, AU, and AAX formats alongside standalone operation. The Live version features a dedicated projection window for external monitors, and the software allows users to export still images up to 4096 pixels and MP4 video recordings up to 4K resolution.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/acusmagic-releases-figura-a-real-time-cymatics-visualizer-plugin-69444?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69444">kvraudio.com</a> | <a href="https://acusmagic.com/figura">source</a></small></p>
 <br clear="all" />
+
+To subscribe to the music-production feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
+```
 
 ---
 

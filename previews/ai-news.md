@@ -2,12 +2,6 @@
 
 <h1><img src="../images/ai-news.png" width="36" align="absmiddle" /> ai-news</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
-```
-
 <h2>Survival LLM Offline Emergency Assistant Released</h2>
 <a name="story-25658"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.brangus.io%2Fsurvival-llm%2Fscreenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Survival LLM is a free, open-source desktop application that pairs a local AI model with an offline reference library, allowing users to query emergency guidance, medical manuals, and Wikipedia articles without an internet connection. Operating entirely on the user's computer to ensure privacy, the app automatically selects an appropriately sized AI model based on available hardware memory and cites exact source passages for every generated response.</p><p>The system includes extensive reference materials ranging from FEMA and CDC guidelines to survival manuals, repair guides, and medical encyclopedias, requiring initial setup while online to download the necessary data and engine components. Users can also supplement the local database with personal files like PDFs and notes, and the software supports configurable reasoning tokens and local memory tracking for customized offline assistance.</p>
@@ -95,6 +89,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <p>OpenAI and Anthropic have significantly reduced their large language model API prices by up to 80 percent between June and September 2026. Through a series of competitive tit-for-tat model releases and mid-cycle adjustments, both companies lowered input, output, and cache read costs across model tiers without sacrificing output quality.</p><p>These aggressive price cuts are largely driven by intense market competition from open-weight models and alternative inference providers offering low-cost substitutes via platforms like OpenRouter. Despite shrinking revenue per token, developers continue scaling usage as models improve, challenging assumptions that token prices will inevitably rise as a loss-leading strategy.</p>
 <p><small>Links: <a href="https://minimaxir.com/2026/10/cheap-llms/">minimaxir.com</a> | <a href="https://news.ycombinator.com/item?id=50236102">hacker news</a></small></p>
 <br clear="all" />
+
+To subscribe to the ai-news feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
+```
 
 ---
 

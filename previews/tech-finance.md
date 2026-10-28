@@ -2,12 +2,6 @@
 
 <h1><img src="../images/tech-finance.png" width="36" align="absmiddle" /> tech-finance</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
-```
-
 <h2>Infisical Raises $40 Million Series B at $600 Million Valuation</h2>
 <a name="story-25632"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Finfisical-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Infisical, a cybersecurity infrastructure company, has raised $40 million in Series B funding led by Elad Gil at a $600 million valuation. The platform provides secret management and privileged access controls, enabling enterprises to grant AI agents secure access to critical systems and private credentials.</p><p>The funding will support Infisical's expansion as more organizations adopt autonomous AI agents. The company currently serves over 1,300 customers, including major enterprises such as Airbus and Volkswagen, and the funding round included participation from Gradient and Y Combinator.</p>
@@ -97,6 +91,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <p>Bedrock Robotics Inc. has secured a $600 million Series C funding round, bringing its post-money valuation to $4.1 billion. The startup develops driverless excavators and other autonomous construction machinery designed for job sites.</p><p>The financing round was co-led by CapitalG and Emergence Capital. Bedrock plans to use the capital to scale its autonomous construction equipment across sites throughout the United States.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/10/26/3388197/0/en/bedrock-robotics-raises-600-million-series-c-to-scale-autonomous-construction-equipment-across-u-s-sites.html">source</a></small></p>
 <br clear="all" />
+
+To subscribe to the tech-finance feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
+```
 
 ---
 

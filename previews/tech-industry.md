@@ -2,12 +2,6 @@
 
 <h1><img src="../images/tech-industry.png" width="36" align="absmiddle" /> tech-industry</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
-```
-
 <h2>Onsemi in Talks to Acquire Startup Ferric for Close to $1 Billion</h2>
 <a name="story-25643"><img src="https://wsrv.nl/?url=https%3A%2F%2Feepower.com%2Fuploads%2Farticles%2Fonsemi-renesas-and-analog-devices-all-announce-and-finalize-acquisitions-fig1.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Semiconductor component maker Onsemi is in advanced discussions to acquire Ferric, a 16-year-old chip startup, for approximately $1 billion. The potential transaction highlights growing industry demand for specialized power management technology capable of supporting the intense energy requirements of artificial intelligence chips.</p><p>Ferric specializes in integrated voltage regulators and previously secured a $32.1 million Series C funding round in December 2024. The acquisition talks arrive as semiconductor firms increasingly target advanced power delivery solutions to address efficiency and thermal challenges in high-performance computing data centers.</p>
@@ -97,6 +91,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <p>Instagram is launching a test allowing select U.S. creators to upload horizontal videos of up to 90 minutes. Titled "Features," the product is designed for podcasters, comedians, and long-form creators, enabling viewers to transition seamlessly from short promotional Reels directly into full-length videos.</p><p>The test expands on earlier trials in Brazil and aims to help Instagram compete with platforms like YouTube for consumer viewing hours. The long-form content will be recommended via the Explore page and integrated into Instagram's TV app, which is expanding to Apple TV following previous rollouts on Samsung, Fire TV, and Google TV hardware.</p>
 <p><small>Links: <a href="https://www.hollywoodreporter.com/business/digital/instagram-tests-90-minute-videos-podcasters-creators-1236739929/">hollywoodreporter.com</a></small></p>
 <br clear="all" />
+
+To subscribe to the tech-industry feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
+```
 
 ---
 

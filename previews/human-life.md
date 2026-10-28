@@ -2,12 +2,6 @@
 
 <h1><img src="../images/human-life.png" width="36" align="absmiddle" /> human-life</h1>
 
-To subscribe, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml
-```
-
 <h2>Anthropic Reports Early Progress Using Claude for Drug Development</h2>
 <a name="story-25624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhealthcarediscovery.ai%2Fwp-content%2Fuploads%2F2026%2F04%2Fhealthcare-discovery-anthropic-coefficient-bio-acquisition-drug-discovery-ai-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has engaged in research partnerships with six organizations—BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines, and The Column Group—to apply Claude to various stages of drug development. Additionally, the company acquired Mithril Medicine, a startup developing treatments for rare muscular dystrophy, to advance its own drug discovery programs.</p><p>These initiatives focus on optimizing molecular design, antibody generation, manufacturing documentation, and clinical trial planning. Early results include a reduction in human review time for regulatory documentation and the successful generation of thousands of antibody designs. Anthropic plans to extend this work into clinical trials and scale its life sciences research tools.</p>
@@ -91,6 +85,12 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml
 <h2>OpenAI Warns Staff Against Espionage and Insider Threats</h2>
 <p>OpenAI executives have cautioned staff against potential espionage, including "honey pots" and insider threats. This follows the FBI's arrest of an employee for allegedly planting a sophisticated recording device in an executive conference room. In response, the company has mandated stricter operational security measures.</p><p>The company reportedly utilized its own AI models to assist in the technical investigation and analysis of forensic data. The incident highlights growing concerns within the artificial intelligence industry regarding the protection of frontier models and proprietary technologies from targeted surveillance.</p>
 <p><small>Links: <a href="https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink">wsj.com</a></small></p>
+
+To subscribe to the human-life feed, copy this link into your RSS reader:
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml
+```
 
 ---
 
