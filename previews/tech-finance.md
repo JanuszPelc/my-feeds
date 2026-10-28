@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Avante Raises $30M to Expand AI Platform for Corporate Benefits</h2>
+<a name="story-25596"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frohandsouza.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Avante, a Seattle-based startup, has secured $30 million in Series A funding led by Frist Cressey Ventures to expand its AI platform for corporate benefits teams. The platform uses AI agents to automate tasks such as comparing vendor contracts, reviewing plan documents for errors, and assisting employees with coverage inquiries.</p><p>The company has raised a total of $40 million to date and currently serves more than 70 customers, including Samsung Semiconductor and News Corp. Avante plans to use the new capital to support international expansion and further develop its "Ava Agents" technology.</p>
+<p><small>Links: <a href="https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/">geekwire.com</a> | <a href="https://www.businesswire.com/news/home/20261026144838/en/Avante-Raises-%2430M-to-Expand-Its-AI-Platform-for-Global-Benefits-Teams">source</a></small></p>
+<br clear="all" />
+
 <h2>Disruptive Closes $10 Billion Fund for AI and Defense Startups</h2>
 <a name="story-25574"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.usfunds.com%2Fapp%2Fuploads%2F2026%2F04%2FCOMM-global-funding-04102026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dallas-based investment firm Disruptive has closed a $10 billion flagship fund dedicated to backing artificial intelligence, defense, and software startups. The capital raise doubles the 15-year-old firm's assets under management and marks a strategic shift from single-deal special purpose vehicles to a discretionary fund structure.</p><p>Under the new fund, Disruptive plans to invest in approximately 10 later-stage companies, deploying about $1 billion into each. The firm's historical portfolio includes prominent tech ventures such as chipmaker Groq and open-source AI model developer Reflection AI.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25352"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnirmitee.io%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fres.cloudinary.com%2Fdahyfknrf%2Fimage%2Fupload%2Fv1778752386%2Fai_care_coordination_provider_transitions_54700998a2_550d8894c7.webp%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Applied artificial intelligence company Baba has raised $40 million in a Series A funding round led by FirstMark Capital, with participation from CVS Health Ventures and Valtruis. The financing will support the company's efforts to modernize and scale care coordination and navigation for Medicare and Medicaid beneficiaries.</p><p>Founded in 2025, Baba connects government-sponsored healthcare patients with dedicated care teams and has been selected by the U.S. Centers for Medicare and Medicaid Services for the 10-year ACCESS model. The company plans to use the capital to expand health plan partnerships, advance applied AI research for complex care, and accelerate value-based risk-sharing arrangements.</p>
 <p><small>Links: <a href="https://www.fiercehealthcare.com/finance/baba-nabs-40m-series-backed-firstmark-capital-and-cvs-health-ventures-medicare-ai-care">fiercehealthcare.com</a> | <a href="https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html">source</a></small></p>
-<br clear="all" />
-
-<h2>CapitalOS Raises $21.9 Million in Series A Funding</h2>
-<a name="story-25353"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wallstreetmojo.com%2Fwp-content%2Fuploads%2F2023%2F08%2FSeries-A-Funding.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CapitalOS has raised $21.9 million in a Series A funding round led by LGVP. The company provides a money orchestration and financial infrastructure layer that enables vertical software and B2B platforms to offer cards, bill payment, spend management, and wallet tools to small and medium-sized business customers.</p><p>Additional participants in the funding round included WEX Venture Capital, Group11, Great North Ventures, and Night Capital, alongside existing investors. CapitalOS plans to use the capital to scale its infrastructure and expand its embedded financial product suite for B2B platforms.</p>
-<p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/10/21/capitalos-21-million-spend-management">axios.com</a> | <a href="https://capitalos.com/news/capitalos-raises-21m-series-a-funding">source</a></small></p>
 <br clear="all" />
 
 ---

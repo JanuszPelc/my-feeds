@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-27T18:52:00+00:00</updated>
+  <updated>2026-10-27T18:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Matt Hall Named Atari EVP of Mobile</title>
+    <link href="https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile" rel="alternate" />
+    <id>https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile::v240</id>
+    <published>2026-10-27T18:58:00+00:00</published>
+    <updated>2026-10-27T18:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltda48dff3e66f9c09%2F673f584dfde1970d3e5da79b%2FCrossy_Road_Insert.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile">gamedeveloper.com</a> | <a href="https://www.gamespress.com/ATARI-NAMES-CROSSY-ROAD-CREATOR-MATT-HALL-EVP-OF-MOBILE">source</a></small></p><hr/><p>Matt Hall, co-founder of Hipster Whale and creator of Crossy Road, has been appointed Executive Vice-President of Mobile expansion initiatives at Atari.</p><p>The appointment follows Atari's acquisitions of Hipster Whale and Early Morning Studios. Hall will oversee cross-platform compatibility across engines, manage mobile partnerships, and build infrastructure for Atari's mobile game expansions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltda48dff3e66f9c09%2F673f584dfde1970d3e5da79b%2FCrossy_Road_Insert.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 00:04 UTC | #25604</small>]]></content>
+  </entry>
   <entry>
     <title>Epic Games Updating EULA to Permit AI Training on Unreal Engine and MetaHuman Outputs</title>
     <link href="https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-27T17:09:00+00:00</updated>
+  <updated>2026-10-27T18:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Avante Raises $30M to Expand AI Platform for Corporate Benefits</title>
+    <link href="https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/::v240</id>
+    <published>2026-10-27T18:57:00+00:00</published>
+    <updated>2026-10-27T18:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frohandsouza.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/">geekwire.com</a> | <a href="https://www.businesswire.com/news/home/20261026144838/en/Avante-Raises-%2430M-to-Expand-Its-AI-Platform-for-Global-Benefits-Teams">source</a></small></p><hr/><p>Avante, a Seattle-based startup, has secured $30 million in Series A funding led by Frist Cressey Ventures to expand its AI platform for corporate benefits teams. The platform uses AI agents to automate tasks such as comparing vendor contracts, reviewing plan documents for errors, and assisting employees with coverage inquiries.</p><p>The company has raised a total of $40 million to date and currently serves more than 70 customers, including Samsung Semiconductor and News Corp. Avante plans to use the new capital to support international expansion and further develop its "Ava Agents" technology.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frohandsouza.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 00:03 UTC | #25596</small>]]></content>
+  </entry>
   <entry>
     <title>Disruptive Closes $10 Billion Fund for AI and Defense Startups</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups" rel="alternate" />
