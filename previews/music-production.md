@@ -10,6 +10,12 @@
 
 *New tools for making music and the business around it.*
 
+<h2>Notewerks Releases StepStrum v1.2 with Variable Pattern Lengths and Expanded Timing Controls</h2>
+<a name="story-25704"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flite_full_25.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Notewerks has released version 1.2 of StepStrum, its real-time MIDI strumming and performance sequencer plugin designed to convert keyboard chords into tempo-synced strums and rhythmic patterns. The update introduces variable pattern lengths ranging from 4 to 16 steps in the Pro edition, alongside per-pattern time divisions and extended timing options.</p><p>New additions in version 1.2 include longer 1/2, 1/1, and 2/1 time divisions for slower musical phrases and textures, as well as a bank-wide rate multiplier to adjust playback speed across all slots proportionally. The update is free for existing users, with StepStrum available in a free Lite version and a Pro version priced at $39.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/notewerks-updates-stepstrum-to-v1-2-with-flexible-pattern-lengths-and-expanded-timing-controls-69446?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69446">kvraudio.com</a> | <a href="https://www.notewerks.com/stepstrum">source</a></small></p>
+<br clear="all" />
+
 <h2>Tom Wolfe Releases Rest Ambient Soundbank for Omnisphere 3</h2>
 <a name="story-25696"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-release-header.1792503692.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sound designer Tom Wolfe has released Rest, a new soundbank for the Spectrasonics Omnisphere 3 virtual instrument. Aimed at ambient music producers and media composers, the library includes 50 presets focused on soft pads and luminous textures.</p><p>Rest is offered in Standard and Binaural editions, the latter featuring binaurally enhanced versions of each preset created using Wolfe's standard. A special introductory price is available until November 10, 2026, alongside a free taster pack containing five presets.</p>
@@ -62,12 +68,6 @@
 <a name="story-25595"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FADAM-Audio-H715-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ADAM Audio has introduced its flagship H715 Reference open-back headphones, designed for professional mixing and mastering environments. The headphones feature custom 40mm titanium-plated PEN dynamic drivers with a patent-pending ventilation system, and come bundled with Sonnox Headphone Utility calibration software and the ListenHub virtual monitoring application.</p><p>Priced at £569.99 / $824.99 / €669.99 with shipping expected in December 2026, the model includes a modular design with replaceable cables, earpads, and headband padding. A dedicated Hi-Fi mode can also be engaged via a recessed switch inside the earcup to support balanced amplifier connections for home listening.</p>
 <p><small>Links: <a href="https://musictech.com/news/gear/adam-audio-h715-reference-headphones/">musictech.com</a> | <a href="https://www.adam-audio.com/en/headphones/h715-reference/">source</a></small></p>
-<br clear="all" />
-
-<h2>Art DSP Releases Canvas 2.0 3D Visual Mixing Plugin</h2>
-<a name="story-25590"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCanvas-2-her%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Art DSP has released Canvas 2.0, a visual mixing plugin for macOS and Windows that allows producers to position audio tracks as movable objects within a virtual three-dimensional room. The software maps stereo positioning left-to-right, frequency content vertically, and volume along the forward-backward axis, letting users adjust their mix directly inside the 3D environment rather than relying strictly on standard mixer controls.</p><p>The plugin includes spectral sidechaining, a built-in EQ editor, integrated reverb control, and one-click mixing templates to process entire tracks. Canvas 2.0 is available now for $79 or through a rent-to-own plan, with plugin formats supporting VST3, AAX, and AU.</p>
-<p><small>Links: <a href="https://musictech.com/news/gear/art-dsp-canvas-2/">musictech.com</a> | <a href="https://www.artdsp.net/canvas">source</a></small></p>
 <br clear="all" />
 
 ---
