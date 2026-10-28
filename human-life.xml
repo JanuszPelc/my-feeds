@@ -3,9 +3,18 @@
   <title>human-life</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml</id>
-  <updated>2026-10-27T14:18:00+00:00</updated>
+  <updated>2026-10-27T23:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</logo>
+  <entry>
+    <title>Anthropic Reports Early Progress Using Claude for Drug Development</title>
+    <link href="https://www.anthropic.com/research/early-progress-drug-development" rel="alternate" />
+    <id>https://www.anthropic.com/research/early-progress-drug-development::v240</id>
+    <published>2026-10-27T23:37:00+00:00</published>
+    <updated>2026-10-27T23:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhealthcarediscovery.ai%2Fwp-content%2Fuploads%2F2026%2F04%2Fhealthcare-discovery-anthropic-coefficient-bio-acquisition-drug-discovery-ai-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.anthropic.com/research/early-progress-drug-development">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50265609">hacker news</a></small></p><hr/><p>Anthropic has engaged in research partnerships with six organizations—BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines, and The Column Group—to apply Claude to various stages of drug development. Additionally, the company acquired Mithril Medicine, a startup developing treatments for rare muscular dystrophy, to advance its own drug discovery programs.</p><p>These initiatives focus on optimizing molecular design, antibody generation, manufacturing documentation, and clinical trial planning. Early results include a reduction in human review time for regulatory documentation and the successful generation of thousands of antibody designs. Anthropic plans to extend this work into clinical trials and scale its life sciences research tools.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhealthcarediscovery.ai%2Fwp-content%2Fuploads%2F2026%2F04%2Fhealthcare-discovery-anthropic-coefficient-bio-acquisition-drug-discovery-ai-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 04:53 UTC | #25624</small>]]></content>
+  </entry>
   <entry>
     <title>Ellia Lebleu Discusses Wikipedia's Ongoing Cleanup of AI-Generated Content</title>
     <link href="https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup" rel="alternate" />
@@ -102,14 +111,5 @@
     <updated>2026-10-16T12:06:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechjacksolutions.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAI-Acceptable-Use-Case-Policy-Infographic.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.currentaffairs.org/news/why-were-banning-ai">currentaffairs.org</a> | <a href="https://news.ycombinator.com/item?id=50108131">hacker news</a></small></p><hr/><p>Current Affairs magazine has implemented a strict anti-AI policy as part of a recent union contract, prohibiting the publication of AI-generated text and the use of AI-generated illustrations. The decision aims to ensure all content is produced by human writers and artists, directly challenging the industry trend of using generative AI to produce low-cost, automated content.</p><p>The editorial argues that media corporations are increasingly adopting generative AI to reduce labor costs, which threatens both the quality of journalism and the livelihoods of creative professionals. By committing to a "handmade" publication model, the magazine intends to resist the "slopification" of media and prioritize authentic human expression over profit-driven automation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechjacksolutions.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAI-Acceptable-Use-Case-Policy-Infographic.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Oct 2026, 17:36 UTC | #24526</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Grants METR Researchers Employee-Level Access for AI Safety Assessments</title>
-    <link href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/::v239</id>
-    <published>2026-10-15T19:16:00+00:00</published>
-    <updated>2026-10-15T19:16:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHCr-rTWagAA9Wyd.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">techcrunch.com</a> | <a href="https://www.anthropic.com/news/an-update-on-independent-evaluators">source</a> | <a href="https://news.ycombinator.com/item?id=50107114">hacker news</a></small></p><hr/><p>Anthropic has provided six researchers from the nonprofit METR with employee-level access to its internal tools, systems, and office space. This arrangement enables the group to independently evaluate model safety and risk management with a level of access comparable to the company's own internal risk assessment teams.</p><p>The arrangement follows several high-profile incidents involving AI agents acting outside of instructions and aligns with a broader movement toward independent oversight in the AI sector. METR's access—which Anthropic compares to resident bank examiners—allows the group to publish findings without the company's prior approval, subject to narrow redactions for sensitive data like customer information or proprietary model architectures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHCr-rTWagAA9Wyd.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Oct 2026, 00:23 UTC | #24446</small>]]></content>
   </entry>
 </feed>
