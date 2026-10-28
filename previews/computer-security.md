@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Bank of America Advises Customers Against Sharing Credentials with AI Assistants</h2>
+<a name="story-25623"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.gtgcrm.com%2Fgtgcrm-home-page%2Fcase-study-ai-assistant-bank-of-america%2Fai-assistant-cua-bank-of-america.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bank of America has cautioned customers via email to avoid sharing banking usernames and passwords with AI-enabled tools or agents. The bank noted that users bear full responsibility for any account activity resulting from the disclosure of their credentials.</p><p>The advisory arrives as the banking industry explores "agentic payments"—which allow autonomous AI to perform transactions—while simultaneously managing risks from unauthorized AI agents. Potential dangers include unauthorized financial transfers, account lockouts triggered by suspicious activity detection, and credential theft via security vulnerabilities in AI software.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/">techcrunch.com</a></small></p>
+<br clear="all" />
+
 <h2>TrendAI Researchers Find Discover-Tech Heavily Targeted Starlink Users</h2>
 <a name="story-25557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.intuji.com%2Fwp-content%2Fuploads%2F2022%2F12%2Ffeatured-pexels-spacex-586056-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at TrendAI, a unit of cybersecurity firm Trend Micro, discovered that Israeli ad tech company Discover-Tech extensively targeted users of SpaceX's Starlink satellite internet service across more than 100 countries. According to sources familiar with the matter, the heavy digital ad exposure was likely intended to geolocate or surveil the satellite network's users.</p><p>The findings build on broader investigations into how digital advertising networks can be exploited to track targets and facilitate device hacking operations. Discover-Tech has previously faced scrutiny from security researchers over related operations utilizing sprawling networks of online ads.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25399"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.stormycloud.org%2Fimages%2Fblog%2Fcensorship-circumvention.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bogomil Shopov has announced the establishment of the Digital Dissident Developer Room for the upcoming FOSDEM 2027 conference, scheduled for January 30–31 in Brussels. The devroom brings together developers, researchers, and activists to focus on the end-to-end toolchains required to protect at-risk users from state surveillance and digital censorship.</p><p>The call for participation runs until November 30, 2026, inviting technical proposals on censorship circumvention, metadata-resistant communication, and secure reporting. Unlike tracks centered on individual technologies, this devroom addresses the integrated challenges faced by dissidents operating under restrictive regimes including Russia, Iran, and China.</p>
 <p><small>Links: <a href="https://talkweb.eu/openweb/4558/">talkweb.eu</a> | <a href="https://news.ycombinator.com/item?id=50233929">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Security Risks of the POSIX wordexp(3) Function Examined</h2>
-<a name="story-25385"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Foscommandinjection-160407232848%2F75%2FSecure-Code-Warrior-Os-command-injection-3-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The POSIX wordexp(3) C API, commonly recommended for shell-style expansions such as tilde expansion, presents significant security risks when handling untrusted inputs because it enables command expansion by default. Developers must explicitly pass the WRDE_NOCMD flag to disable this behavior, though this mitigation is frequently insufficient.</p><p>Various libc implementations, including musl and macOS libc, delegate expansion directly to the underlying system shell after performing perfunctory scanning. Bypasses in these implementations demonstrate that they can fail to catch valid command substitution patterns, making wordexp(3) unsafe for processing untrusted data.</p>
-<p><small>Links: <a href="https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/">yossarian.net</a> | <a href="https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous">discussion</a></small></p>
 <br clear="all" />
 
 ---
