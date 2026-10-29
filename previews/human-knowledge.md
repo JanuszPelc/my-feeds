@@ -10,6 +10,12 @@
 
 *What researchers are finding out about the world, life, health, and the mind.*
 
+<h2>SETI Institute Researchers Detail Seven Stages of Meteor Atmospheric Entry</h2>
+<a name="story-25770"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceacademy.net.au%2Fwatch%2Fdebris%2Fmetvelm.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers from the SETI Institute and NASA Ames Research Center have identified a seven-stage process describing how space rocks enter Earth's atmosphere and survive as meteorites. By examining records of 75 meteorite falls, the team determined that melting and physical fragmentation play a far greater role in mass loss and deceleration than previously assumed.</p><p>The study, published in Meteoritics &amp; Planetary Science, outlines how incoming bodies transition from initial glowing shock waves and stable melting phases to rapid pressure-driven fracturing and final disintegration. These findings improve predictive models for atmospheric airbursts caused by larger, potentially hazardous asteroids.</p>
+<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063710.htm">sciencedaily.com</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.70203">source</a></small></p>
+<br clear="all" />
+
 <h2>Start Doing Graph Theory Free Introductory Textbook Released</h2>
 <a name="story-25719"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Start Doing Graph Theory is a free introductory textbook designed to teach graph theory through puzzles, theorem-proving, and practical problem-solving. Written by Mikhail Lavrov, the comprehensive resource is available under a Creative Commons license for online reading or PDF download.</p><p>The text combines mathematical rigor with an accessible approach to help students learn foundational concepts. The author has also established a formal version history to track updates and revisions made to the material over time.</p>
@@ -62,12 +68,6 @@
 <a name="story-25550"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspacetoday.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2FJAMESWEBBTOI_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Observations using the James Webb Space Telescope indicate that the ultra-hot rocky exoplanet TOI-561 b is surrounded by a substantial atmosphere containing reflective silicate clouds. Researchers monitored the planet over 37 hours and found that it reflects approximately 75 percent of incoming starlight while redistributing heat toward its nightside.</p><p>The findings challenge current theories suggesting that heavily irradiated lava planets should have lost their atmospheres billions of years ago. Scientists are investigating whether the atmosphere is continuously replenished by gases escaping from a global magma ocean, with future observations aimed at determining its exact chemical composition.</p>
 <p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261026225603.htm">sciencedaily.com</a> | <a href="https://www.birmingham.ac.uk/news/2026/shiny-lava-planet-challenges-astronomers-expectations">source</a></small></p>
-<br clear="all" />
-
-<h2>Center for Astrophysics Researchers Unveil Lumina Simulation of Early Universe</h2>
-<a name="story-25551"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fsmithsonian-scientists-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers at the Center for Astrophysics | Harvard &amp; Smithsonian have developed Lumina, a detailed cosmological simulation that reconstructs the first two billion years after the Big Bang. Published in Monthly Notices of the Royal Astronomical Society, the model simulates interactions between ordinary matter, dark matter, and radiation across a volume of space more than 100 times larger than comparable previous projects.</p><p>Powered by more than 15,000 graphics processing units on the Frontier supercomputer at Oak Ridge National Laboratory, the simulation tracks the evolution of the intergalactic medium, galaxies, and black holes while simultaneously modeling hydrogen and helium reionization. Scientists plan to use Lumina to interpret observations from instruments such as the James Webb Space Telescope and evaluate how well existing theoretical models describe cosmic evolution.</p>
-<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261026225600.htm">sciencedaily.com</a> | <a href="https://www.si.edu/newsdesk/releases/smithsonian-scientists-create-most-detailed-simulation-yet-early-universe">source</a></small></p>
 <br clear="all" />
 
 ---

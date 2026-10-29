@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-28T13:07:00+00:00</updated>
+  <updated>2026-10-29T03:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>SETI Institute Researchers Detail Seven Stages of Meteor Atmospheric Entry</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261027063710.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261027063710.htm::v240</id>
+    <published>2026-10-29T03:07:00+00:00</published>
+    <updated>2026-10-29T03:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceacademy.net.au%2Fwatch%2Fdebris%2Fmetvelm.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063710.htm">sciencedaily.com</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.70203">source</a></small></p><hr/><p>Researchers from the SETI Institute and NASA Ames Research Center have identified a seven-stage process describing how space rocks enter Earth's atmosphere and survive as meteorites. By examining records of 75 meteorite falls, the team determined that melting and physical fragmentation play a far greater role in mass loss and deceleration than previously assumed.</p><p>The study, published in Meteoritics &amp; Planetary Science, outlines how incoming bodies transition from initial glowing shock waves and stable melting phases to rapid pressure-driven fracturing and final disintegration. These findings improve predictive models for atmospheric airbursts caused by larger, potentially hazardous asteroids.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceacademy.net.au%2Fwatch%2Fdebris%2Fmetvelm.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 08:16 UTC | #25770</small>]]></content>
+  </entry>
   <entry>
     <title>Start Doing Graph Theory Free Introductory Textbook Released</title>
     <link href="https://vertex.degree/" rel="alternate" />
