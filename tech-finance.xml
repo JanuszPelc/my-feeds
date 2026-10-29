@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T04:06:00+00:00</updated>
+  <updated>2026-10-29T05:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Alphabet Shares Fall After Google Reports Lower Monetization for AI Search Mode</title>
+    <link href="https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181" rel="alternate" />
+    <id>https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181::v240</id>
+    <published>2026-10-29T05:11:00+00:00</published>
+    <updated>2026-10-29T05:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F04%2F30%2Falphabet-google-2025-q2-earnings%2Fs01_m.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181">theregister.com</a> | <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p><hr/><p>Alphabet shares dropped nearly ten percent following its third-quarter 2026 earnings report after the company revealed that AI-powered search queries generate less revenue than traditional search ads. Although year-over-year search query growth reached a five-year high driven by the adoption of Google's AI Mode, the lower monetization rate contributed to a slower 12 percent growth in search revenue, totaling $63.25 billion.</p><p>The monetization shortfall coincides with heavy infrastructure spending, with Google recording $51.4 billion in capital expenditures for the quarter primarily directed toward servers, networking equipment, and data centers. To address the revenue gap, Google is expanding ad placements within AI Mode globally, while its cloud division faces capacity constraints that have forced the company to offload certain customer workloads to third-party providers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F04%2F30%2Falphabet-google-2025-q2-earnings%2Fs01_m.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 12:16 UTC | #25774</small>]]></content>
+  </entry>
   <entry>
     <title>Fragment Raises $56 Million and Emerges From Stealth</title>
     <link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/28/fragment-procurement-software-botha" rel="alternate" />

@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Craig Hockenberry Shares Health Update on Lymphoma Treatment and Recovery</title>
+    <link href="https://furbo.org/2026/10/28/a-health-update/" rel="alternate" />
+    <id>https://furbo.org/2026/10/28/a-health-update/::v240</id>
+    <published>2026-10-29T04:08:00+00:00</published>
+    <updated>2026-10-29T04:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffurbo.org%2Fwp-content%2Fuploads%2F2026%2F10%2FFluoroscope.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://furbo.org/2026/10/28/a-health-update/">furbo.org</a> | <a href="https://news.ycombinator.com/item?id=50280974">hacker news</a></small></p><hr/><p>Craig Hockenberry shares a health update detailing his ongoing treatment and recovery from lymphoma, outlining a grueling regimen of lumbar punctures, chemotherapy infusions, and severe side effects including nerve damage, extreme weight loss, and pneumonia.</p><p>Alongside his physical rehabilitation to regain mobility and strength, Hockenberry navigated a simultaneous server security crisis involving a critical PHP vulnerability that required emergency patching from his hospital bed during his final treatment procedures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffurbo.org%2Fwp-content%2Fuploads%2F2026%2F10%2FFluoroscope.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 12:16 UTC | #25799</small>]]></content>
+  </entry>
+  <entry>
     <title>V12 Research Reveals Weak AES-256 Key Generation in Multiple PDF Implementations</title>
     <link href="https://v12.sh/blog/the-case-of-the-9bit-aes-key" rel="alternate" />
     <id>https://v12.sh/blog/the-case-of-the-9bit-aes-key::v240</id>

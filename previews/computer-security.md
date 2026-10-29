@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Craig Hockenberry Shares Health Update on Lymphoma Treatment and Recovery</h2>
+<a name="story-25799"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffurbo.org%2Fwp-content%2Fuploads%2F2026%2F10%2FFluoroscope.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Craig Hockenberry shares a health update detailing his ongoing treatment and recovery from lymphoma, outlining a grueling regimen of lumbar punctures, chemotherapy infusions, and severe side effects including nerve damage, extreme weight loss, and pneumonia.</p><p>Alongside his physical rehabilitation to regain mobility and strength, Hockenberry navigated a simultaneous server security crisis involving a critical PHP vulnerability that required emergency patching from his hospital bed during his final treatment procedures.</p>
+<p><small>Links: <a href="https://furbo.org/2026/10/28/a-health-update/">furbo.org</a> | <a href="https://news.ycombinator.com/item?id=50280974">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>V12 Research Reveals Weak AES-256 Key Generation in Multiple PDF Implementations</h2>
 <a name="story-25784"><img src="https://wsrv.nl/?url=https%3A%2F%2Fv12.sh%2Fcdn%2F_astro%2Fcover.CF5x0X6B_1N5vR.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researchers at V12 discovered that several popular PDF implementations generate AES-256 file keys from insufficiently random sources or excessively small state spaces, enabling attackers to decrypt protected documents without a password. In affected applications, the cryptographic keys are derived from predictable metrics rather than true random entropy.</p><p>Specifically, MuPDF's reliance on a linear congruential generator limits the effective entropy of its keys to just nine bits, making rapid brute-force recovery feasible within milliseconds. Similar predictable key derivation patterns were identified in Foxit and Java-based libraries like OpenPDF and iText, undermining the security guarantees of AES-256 encryption in previously generated files.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thenews.com.pk%2Fassets%2Fuploads%2F2026-10-28%2F1421550_053048_updates.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A suspected hacking attempt forced the US Federal Election Commission to temporarily take its electronic filing system offline late Monday, blocking political groups from submitting mandatory campaign finance disclosures. The disruption occurred just a week before the upcoming midterm elections, affecting how political committees report financial transactions but not vote casting.</p><p>According to an internal email seen by Reuters, a bad actor targeted the agency's systems, prompting IT staff to shut down public-facing services while working to restore operations. The FEC does not run elections itself, but serves as the federal watchdog overseeing campaign finance transparency and reporting compliance during critical spending windows.</p>
 <p><small>Links: <a href="https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50265147">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Gareth Heyes Details Bypasses for Popular SVG Sanitizers</h2>
-<a name="story-25726"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.nintechnet.com%2Fwp-content%2Fuploads%2F2020%2F05%2Felementor-svg-xss-protection-bypass.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>PortSwigger researcher Gareth Heyes has published findings detailing bypasses for six out of eight popular SVG sanitizers. The research demonstrates various exploitation vectors, including namespace confusion, animate tags, self-contained XSLT stylesheets, and response headers capable of executing JavaScript in Firefox even when the response body contains harmless XML.</p><p>Additional findings reveal that Safari can import image formats such as GIFs as SVG files to execute JavaScript through a use element, successfully bypassing multiple libraries. While sanitizers like DOMPurify and darylldoyle/svg-sanitizer resisted the tested techniques, the vulnerabilities illustrate the persistent difficulties involved in safely handling complex vector graphics formats.</p>
-<p><small>Links: <a href="https://portswigger.net/research/scalable-vector-grief">portswigger.net</a> | <a href="https://lobste.rs/s/vekgyd/scalable_vector_grief">discussion</a></small></p>
 <br clear="all" />
 
 ---
