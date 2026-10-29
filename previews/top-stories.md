@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>Nvidia CEO Jensen Huang Identified as Target of Chinese Intelligence Asset</h2>
+<a name="story-25787"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F28%2Fmultimedia%2F00dc-chips-01-zhpm%2F00dc-chips-01-zhpm-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>American intelligence officials have identified Alice Huang, an executive at a Singapore-based data center company, as a Chinese intelligence asset. Surveillance revealed that Huang, who maintained a close relationship with Nvidia CEO Jensen Huang, funneled information to Beijing and assisted in steering advanced AI chips to China.</p><p>President Trump was briefed on these intelligence findings but declined to take action to avoid disrupting Nvidia's chip sales and to prevent complicating trade relations with China. The discovery underscores the intense global competition for artificial intelligence superiority and the challenges of enforcing technology export controls.</p>
+<p><small>Links: <a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj&smid=nytcore-ios-share">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50286924">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Carmelite Monks Use CNC Stone Carving for Gothic Architecture</h2>
 <a name="story-25739"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcowboystatedaily.imgix.net%2FMonks-sculpting-12.29.24.JPG%3Fixlib%3Djs-3.8.0%26q%3D75%26auto%3Dformat%2Ccompress%26fit%3Dclip%26w%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Carmelite Monks of Wyoming are utilizing Computer Numerical Control stone-carving machines to construct a traditional Gothic monastery. By employing multi-axis equipment from Prussiani Engineering, the monks produce complex architectural elements like pinnacles and window sills in a fraction of the time required by manual carving.</p><p>The digital workflow incorporates 3D modeling and computer-aided manufacturing programming, enabling members trained in computers to contribute to the construction effort. The robust machinery allows for high-precision reliefs and automated overnight processing, bridging ancient architectural ambitions with modern manufacturing technology.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25745"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2Fstrings-fig3_kybw.max-900x900.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An investigation into web browser fingerprinting scripts uncovered an anomaly originating from Russian traffic control firm Servicepipe, which included hidden references to bioweapons, illicit drugs, and system jailbreak prompts.</p><p>Further inspection revealed that the alarming variable names and encoded Unicode strings do not perform malicious operations; rather, they serve as anti-LLM obfuscation tactics designed to trigger model safety filters and block automated code analysis.</p>
 <p><small>Links: <a href="https://nullpt.rs/fingerprinting-bioweapons">nullpt.rs</a> | <a href="https://news.ycombinator.com/item?id=50276998">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Apple Announces New MacBook Pro with PROLED XDR Display and Touchscreen</h2>
-<a name="story-25735"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fv%2Fmacbook-pro%2Fproled-xdr-display%2Fa%2Fimages%2Foverview%2Fdisplay%2Fdisplay_hero__yusiu2eockyq_large.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has announced the redesigned MacBook Pro lineup featuring a PROLED XDR tandem OLED display and, for the first time on a Mac, an integrated touchscreen interface. Available in 14-inch and 16-inch sizes, the new laptops are powered by the M5 Pro and M5 Max chips and include the Dynamic Island, a redesigned thermal architecture, and up to 24 hours of battery life.</p><p>The PROLED XDR display delivers up to 2,000 nits of peak brightness, a 10,000,000:1 contrast ratio, and P3 plus Adobe RGB wide color support, catering to professional creative and technical workflows. Connectivity has also been upgraded with Thunderbolt 5 ports supporting multiple external displays, Wi-Fi 7, and Bluetooth 6.</p>
-<p><small>Links: <a href="https://www.apple.com/macbook-pro/proled-xdr-display/">apple.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/">source</a> | <a href="https://news.ycombinator.com/item?id=50276940">hacker news</a></small></p>
 <br clear="all" />
 
 ---

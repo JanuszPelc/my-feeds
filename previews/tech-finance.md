@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Sebastian Thrun’s Startup Dulo Raises $130 Million for AI Engineering</h2>
+<a name="story-25841"><img src="https://wsrv.nl/?url=https%3A%2F%2Fexplorers.com%2Fwp-content%2Fuploads%2F2025%2F04%2FSebastian_Thrun_by_Christopher_Michel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sebastian Thrun, a computer scientist and Google veteran, has co-founded Dulo to develop foundation models for hardware design. The startup has secured $130 million in seed funding to advance its AI-driven engineering tools.</p><p>Co-founded with Adrian Aoun, Dulo's investment round includes Eric Schmidt, John Doerr, DST Global, Construct Capital, and Lowercarbon Capital. The company aims to apply AI expertise to the hardware design and manufacturing sectors.</p>
+<p><small>Links: <a href="https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo">theinformation.com</a></small></p>
+<br clear="all" />
+
+<h2>Alphabet Discloses Over $1 Trillion in Purchase Commitments and Obligations</h2>
+<a name="story-25842"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxtb.scdn5.secure.raxcdn.com%2Fdefault%2F0103%2F85%2FAlphabet_b485bd16ca.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alphabet Inc. has disclosed more than $1 trillion in purchase commitments, future leases, and other obligations in its third-quarter financial filing. Contingent commitments rose to $98.5 billion, representing an increase of approximately $23 billion from the second quarter.</p><p>This growth is driven by rising demand for Alphabet's cloud services, which has expanded the company's backlog of unfulfilled contracts. The total obligations include approximately $924 billion in future purchase commitments and $152 billion in pre-commencement leases and other obligations.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows">bloomberg.com</a> | <a href="https://abc.xyz/investor/sec-filings/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Cohere Completes First Close of Funding Round at $20.5 Billion Valuation</h2>
 <a name="story-25836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.taptwicedigital.com%2Fblog-images%2Fcohere%2Fcohere-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cohere Inc. has completed the first close of a funding round expected to reach $5 billion, valuing the artificial intelligence model maker at $20.5 billion. This valuation is approximately three times higher than the company's valuation from one year ago.</p><p>The financing includes backing from Nvidia and the Canadian government, which has committed to investing up to $1.14 billion. The capital is part of a larger effort to support the company's ongoing development in the AI sector.</p>
@@ -54,18 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25811"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdvzkzccvn%2Fimages%2Fw_1024%2Ch_683%2Cc_scale%2Ff_auto%2Cq_auto%2Fv1778584760%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f.jpg%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft Corp. has initiated a US investment-grade bond offering aiming to raise at least $25 billion. This marks the company's first return to the domestic high-grade debt market in more than nine years, following a $17 billion bond sale in 2017.</p><p>The multi-tranche debt issuance is intended to fund rising capital expenditures driven by the artificial intelligence infrastructure boom. Financial institutions including Wells Fargo, JPMorgan Chase, and UBS are managing the offering as major technology companies increasingly tap debt markets to finance extensive AI expansion.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Wabi Raises $55 Million at $1.25 Billion Valuation</h2>
-<a name="story-25816"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fwabi-raises-55m-at-1-25b-valuation-to-grow-personal-ai-assistant.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI agent startup Wabi has raised $55 million in a funding round led by IVP, bringing its valuation to $1.25 billion. Founded by Replika creator Eugenia Kuyda, the company recently pivoted from a prompt-based mini-app creator to an AI messaging platform that functions as a personal assistant.</p><p>The financing round included participation from Andreessen Horowitz, Forerunner, and the Amazon Alexa Fund, alongside high-profile angel investors including Tobi Lütke and Marc Benioff. Wabi's updated software is designed to build custom interfaces and coordinate tasks for users, capitalizing on surging market interest in consumer AI agents.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/">techcrunch.com</a> | <a href="https://www.prnewswire.com/news-releases/wabi-raises-55-million-at-a-1-25-billion-valuation-following-strong-early-demand-302923254.html">source</a></small></p>
-<br clear="all" />
-
-<h2>Circuit Mind Raises $25 Million in Funding and Plans U.S. Relocation</h2>
-<a name="story-25801"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fcircuit-mind-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Circuit Mind has raised $25 million in new financing, including an $18.5 million Series A round led by Norwest Venture Partners, bringing its total funding to $33.4 million. The London-based startup develops artificial intelligence software designed to automate the design, verification, and optimization of electronic circuit boards for enterprise customers across aerospace, defense, and consumer industries.</p><p>Alongside the funding announcement, the company launched its Agentic Verification Engine, which uses autonomous AI agents to check electronic schematics for errors. Circuit Mind also plans to relocate its operations to the United States as it scales its electronic design intelligence platform.</p>
-<p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design">axios.com</a> | <a href="https://markets.businessinsider.com/news/stocks/circuit-mind-announces-25m-in-funding-to-accelerate-the-rise-of-electronic-design-intelligence-1036676536">source</a></small></p>
 <br clear="all" />
 
 ---
