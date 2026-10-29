@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-29T10:42:00+00:00</updated>
+  <updated>2026-10-29T14:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Mistral AI Releases Open Weights for Mistral Large 4 Model</title>
+    <link href="https://mistral.ai/news/mistral-large-4-oss/" rel="alternate" />
+    <id>https://mistral.ai/news/mistral-large-4-oss/::v240</id>
+    <published>2026-10-29T14:14:00+00:00</published>
+    <updated>2026-10-29T14:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fntwenmyhsoimhczyxtgl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmedia-derivatives%2FMDA_c7ef42b25f47%2Fweb-1080.jpg%3Fv%3D1792226325&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://mistral.ai/news/mistral-large-4-oss/">mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=50289418">hacker news</a></small></p><hr/><p>Mistral AI has released the open weights for Mistral Large 4, a one-trillion-parameter natively multimodal model, following an initial public preview. Trained on European infrastructure, the model features scaling enhancements from reinforcement learning aimed at agentic coding, reasoning efficiency, and defensive cybersecurity capabilities.</p><p>The model introduces three adjustable reasoning modes to balance performance and cost, achieving leading scores on various open-weight coding and cybersecurity benchmarks. It is available under a modified MIT license for self-hosted deployment or through enterprise managed platforms such as Microsoft Foundry and NVIDIA NIM containers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fntwenmyhsoimhczyxtgl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmedia-derivatives%2FMDA_c7ef42b25f47%2Fweb-1080.jpg%3Fv%3D1792226325&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 15:20 UTC | #25820</small>]]></content>
+  </entry>
   <entry>
     <title>Surge AI Releases DAYJOB: Tax Benchmark for AI Agents</title>
     <link href="https://surgehq.ai/blog/dayjob-tax" rel="alternate" />
@@ -291,23 +300,5 @@
     <published>2026-10-24T16:01:00+00:00</published>
     <updated>2026-10-24T16:01:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/">techcrunch.com</a> | <a href="https://block.xyz/dessa">source</a> | <a href="https://news.ycombinator.com/item?id=50213925">hacker news</a></small></p><hr/><p>Block has released Dessa, a speech-to-speech AI voice model trained entirely on recorded human conversations without intermediate text data. Operating as a full-duplex system, the model can listen and speak simultaneously while expressing emotions, pauses, and natural cadences.</p><p>Running locally on consumer-grade hardware using a single GPU, Dessa bypasses traditional text-to-speech pipelines that rely on external tags. Block has initially restricted public access to conduct safety evaluations, though the technology could eventually support automated experiences across the company's financial services ecosystem.</p><hr/><small>24 Oct 2026, 21:07 UTC | #25314</small>]]></content>
-  </entry>
-  <entry>
-    <title>Convovo Study Finds Political Biases in Grok and OpenAI Language Models</title>
-    <link href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/::v240</id>
-    <published>2026-10-24T15:34:00+00:00</published>
-    <updated>2026-10-24T15:34:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F696401%2Foriginal%2Ffile-20251015-66-1xl5le.png%3Fixlib%3Drb-4.1.0%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/">techcrunch.com</a> | <a href="https://convovo.ai/ballot/">source</a></small></p><hr/><p>A new study by Convovo evaluating conversational AI models for the upcoming midterm elections found stark political disparities between major language models when forced to make candidate recommendations. Researchers reported that SpaceXAI's Grok 4.7 recommended Republican candidates in 92% of tested races, while OpenAI's GPT-6.1 Sol selected Democrats in 97% of cases, agreeing on fewer than 10% of nearly 500 matchups.</p><p>While consumer-facing versions of these chatbots generally decline to endorse candidates, accessing the underlying models via APIs revealed distinct underlying preferences and search patterns. The study noted that Grok's Republican lean largely stemmed from its internet search behavior and sources, whereas GPT's Democratic preference appeared rooted directly within its training weights, highlighting ongoing concerns regarding hidden biases in automated political information.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F696401%2Foriginal%2Ffile-20251015-66-1xl5le.png%3Fixlib%3Drb-4.1.0%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Oct 2026, 20:09 UTC | #25315</small>]]></content>
-  </entry>
-  <entry>
-    <title>Overview of Text-Based AI Agents Operating Through Messaging Apps</title>
-    <link href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/::v240</id>
-    <published>2026-10-24T15:31:00+00:00</published>
-    <updated>2026-10-24T15:31:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAskProxy-agent.png%3Fw%3D662&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/">techcrunch.com</a></small></p><hr/><p>A growing number of artificial intelligence agents operate directly through text messaging platforms like SMS, iMessage, and WhatsApp, enabling users to delegate daily tasks without downloading dedicated applications. These tools maintain conversation context, connect to existing software services, and handle workflows such as scheduling, travel research, and personal reminders.</p><p>The market encompasses assistants designed for general productivity, family organization, and specific professional or travel requirements. Notable options range from heavily funded startups like Instinct and Fambot to open-source alternatives like Comma, reflecting diverse pricing models, autonomy levels, and privacy standards across the industry.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAskProxy-agent.png%3Fw%3D662&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Oct 2026, 19:03 UTC | #25310</small>]]></content>
   </entry>
 </feed>

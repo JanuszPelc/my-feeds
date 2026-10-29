@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-29T06:48:00+00:00</updated>
+  <updated>2026-10-29T10:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Senators Wyden and Markey Demand Answers from Meta Over Smart Glasses Privacy Risks</title>
+    <link href="https://www.404media.co/senators-wyden-markey-letter-to-meta-smart-glasses/" rel="alternate" />
+    <id>https://www.404media.co/senators-wyden-markey-letter-to-meta-smart-glasses/::v240</id>
+    <published>2026-10-29T10:01:00+00:00</published>
+    <updated>2026-10-29T10:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2FMeta_Connect_25261018874770.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/senators-wyden-markey-letter-to-meta-smart-glasses/">404media.co</a></small></p><hr/><p>U.S. Senators Ron Wyden and Edward Markey sent a letter to Meta demanding explanations regarding privacy risks and surveillance vulnerabilities associated with the company's Ray-Ban smart glasses. The lawmakers highlighted how the devices have been exploited to record individuals without consent, including incidents where users filmed harassment and solicited massage parlor workers.</p><p>The letter also criticized Meta's data retention practices, noting that imagery processed through the glasses' visual AI features can be used to train AI systems with human reviewers. This congressional inquiry follows previous investigations, lawsuits, and data privacy concerns surrounding the covert recording capabilities of the wearables and their use by online influencers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2FMeta_Connect_25261018874770.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 15:16 UTC | #25790</small>]]></content>
+  </entry>
   <entry>
     <title>Internal USAID Records Question Official Employment Status of DOGE Operative Jeremy Lewin</title>
     <link href="https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/" rel="alternate" />
