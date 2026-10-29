@@ -10,12 +10,6 @@
 
 *A low-volume selection of stories from all the other feeds.*
 
-<h2>Alphabet Reports Q3 2026 Revenue of $127.6 Billion</h2>
-<a name="story-25743"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet Inc. reported third-quarter revenue of $127.6 billion for the period ended September 30, 2026, a 25% increase year-over-year. Growth was led by a 103% increase in Google Cloud revenue to $30.7 billion, while Google Services revenue rose 11% to $96.3 billion.</p><p>The significant expansion in Google Cloud revenue contributed heavily to the company's quarterly performance. These results reflect strong growth across Alphabet's primary revenue-generating segments.</p>
-<p><small>Links: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">s206.q4cdn.com</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p>
-<br clear="all" />
-
 <h2>Google Announces Gemini 4 Carbon</h2>
 <a name="story-25716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini_4_carbon_exploitgym.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced Gemini 4 Carbon, a frontier model designed for advanced cybersecurity and long-horizon engineering tasks. The model ranks first on the Artificial Analysis Intelligence Index (v5.0) and demonstrates high performance in vulnerability detection, exploitation, and remediation across benchmarks such as SEC-bench Pro, ExploitGym, and CWE-bench.</p><p>The model is built to support sustained agentic workflows and features improvements in model alignment, output honesty, and resistance to prompt injection. Google is currently rolling out access to a subset of cyber defenders and trusted partners through the Fairwind Program ahead of a wider release.</p>
@@ -32,6 +26,12 @@
 <a name="story-25735"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fv%2Fmacbook-pro%2Fproled-xdr-display%2Fa%2Fimages%2Foverview%2Fdisplay%2Fdisplay_hero__yusiu2eockyq_large.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has announced the redesigned MacBook Pro lineup featuring a PROLED XDR tandem OLED display and, for the first time on a Mac, an integrated touchscreen interface. Available in 14-inch and 16-inch sizes, the new laptops are powered by the M5 Pro and M5 Max chips and include the Dynamic Island, a redesigned thermal architecture, and up to 24 hours of battery life.</p><p>The PROLED XDR display delivers up to 2,000 nits of peak brightness, a 10,000,000:1 contrast ratio, and P3 plus Adobe RGB wide color support, catering to professional creative and technical workflows. Connectivity has also been upgraded with Thunderbolt 5 ports supporting multiple external displays, Wi-Fi 7, and Bluetooth 6.</p>
 <p><small>Links: <a href="https://www.apple.com/macbook-pro/proled-xdr-display/">apple.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/">source</a> | <a href="https://news.ycombinator.com/item?id=50276940">hacker news</a></small></p>
+<br clear="all" />
+
+<h2>EMACS Text Editor Turns 50</h2>
+<a name="story-25734"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F09%2FScreenshot-2026-08-11-at-8.43.55-AM.jpg%3Fw%3D840&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Originally created at the MIT Artificial Intelligence Laboratory in 1976, the EMACS text editor is celebrating its 50th anniversary and remains widely used today. Developed initially as a set of macros for the TECO editor by researchers including Richard Stallman, Guy Steele Jr., and David Moon, EMACS provided a standardized, customizable full-screen editing experience that transformed how programmers interacted with computers.</p><p>The software-sharing culture surrounding early versions of EMACS directly influenced the emergence of the free software movement and the creation of the GNU Project. Over the decades, variants of the software were commercialized by companies like Honeywell and James Gosling, while others were integrated into operating systems such as Unix and early versions of Mac OS X, leaving a lasting legacy on modern software development environments.</p>
+<p><small>Links: <a href="https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/">technologyreview.com</a> | <a href="https://news.ycombinator.com/item?id=50273171">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>University of Kentucky Research Administrator Granted Religious Exemption From AI Use</h2>

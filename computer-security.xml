@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-28T21:04:00+00:00</updated>
+  <updated>2026-10-28T23:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Alpine Linux Rebuilds GitLab Instance After Attempted Exploitation of CVE-2026-97229</title>
+    <link href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html" rel="alternate" />
+    <id>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html::v240</id>
+    <published>2026-10-28T23:03:00+00:00</published>
+    <updated>2026-10-28T23:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQGy9yfXEtKg1w%2Farticle-cover_image-shrink_720_1280%2FB56Zk0ZU_FKAAI-%2F0%2F1757520681324%3Fe%3D2147483647%26v%3Dbeta%26t%3DlQ7YOInOtNyqwaCwrbINWZLWKj9ALJ9DKZGO3KPpTKk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html">alpinelinux.org</a> | <a href="https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted">discussion</a> | <a href="https://news.ycombinator.com/item?id=50282544">hacker news</a></small></p><hr/><p>Alpine Linux rebuilt its hosted GitLab instance from scratch following an attempted exploitation of the critical CVE-2026-97229 vulnerability on October 20 and 21, 2026. While no evidence was found that the attacker successfully executed code or tampered with Alpine packages, releases, or the `aports` repository, the team treated the instance as compromised as a precautionary measure.</p><p>The vulnerability is a CVSS 10.0 flaw in how the Ruby engine evaluates regular expressions. The incident occurred because the GitLab instance was running a version that had not yet been patched with the required Ruby updates. Users are advised to reset their GitLab passwords and ensure they are using Ruby versions 3.3.13, 3.4.12, 4.0.9, or later, or the latest `alpinelinux/gitlab` container images.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQGy9yfXEtKg1w%2Farticle-cover_image-shrink_720_1280%2FB56Zk0ZU_FKAAI-%2F0%2F1757520681324%3Fe%3D2147483647%26v%3Dbeta%26t%3DlQ7YOInOtNyqwaCwrbINWZLWKj9ALJ9DKZGO3KPpTKk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 06:42 UTC | #25779</small>]]></content>
+  </entry>
   <entry>
     <title>Leaked Records Expose 41,000 DHS Employees and Undercover Agents</title>
     <link href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/" rel="alternate" />
