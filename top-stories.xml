@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-29T10:57:00+00:00</updated>
+  <updated>2026-10-29T18:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>DoorDash Agrees to Acquire Instacart for $17 Billion</title>
+    <link href="https://about.doordash.com/en-us/news/doordash-to-acquire-instacart" rel="alternate" />
+    <id>https://about.doordash.com/en-us/news/doordash-to-acquire-instacart::v240</id>
+    <published>2026-10-29T18:01:00+00:00</published>
+    <updated>2026-10-29T18:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Famppfy.com%2Fwp-content%2Fuploads%2F2025%2F08%2F20250827_1334_Boost-Earnings-with-Delivery_simple_compose_01k3pkqypge0m9d10gz7pn6xy0-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://about.doordash.com/en-us/news/doordash-to-acquire-instacart">about.doordash.com</a> | <a href="https://news.ycombinator.com/item?id=50287919">hacker news</a></small></p><hr/><p>DoorDash has entered into a definitive agreement to acquire Instacart for approximately $17 billion, valuing the grocery technology company at $65.00 per share. The transaction combines DoorDash's restaurant and local delivery network with Instacart's grocery fulfillment technology, uniting two major delivery platforms to expand merchant tools and consumer choices.</p><p>Under the terms of the agreement, Instacart stockholders can elect to receive cash, DoorDash stock, or a combination of both. The deal is expected to close in late 2027 or the first half of 2028, pending approval by Instacart stockholders and regulatory agencies including antitrust clearances in the United States, Canada, and Israel. Until closing, both companies will continue to operate independently.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Famppfy.com%2Fwp-content%2Fuploads%2F2025%2F08%2F20250827_1334_Boost-Earnings-with-Delivery_simple_compose_01k3pkqypge0m9d10gz7pn6xy0-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 17:57 UTC | #25849</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Reports $92.3 Billion in Quarterly Revenue, Marking 10 Consecutive Record Quarters</title>
     <link href="https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/" rel="alternate" />

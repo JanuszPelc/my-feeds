@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>DoorDash Agrees to Acquire Instacart for $17 Billion</h2>
+<a name="story-25849"><img src="https://wsrv.nl/?url=https%3A%2F%2Famppfy.com%2Fwp-content%2Fuploads%2F2025%2F08%2F20250827_1334_Boost-Earnings-with-Delivery_simple_compose_01k3pkqypge0m9d10gz7pn6xy0-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DoorDash has entered into a definitive agreement to acquire Instacart for approximately $17 billion, valuing the grocery technology company at $65.00 per share. The transaction combines DoorDash's restaurant and local delivery network with Instacart's grocery fulfillment technology, uniting two major delivery platforms to expand merchant tools and consumer choices.</p><p>Under the terms of the agreement, Instacart stockholders can elect to receive cash, DoorDash stock, or a combination of both. The deal is expected to close in late 2027 or the first half of 2028, pending approval by Instacart stockholders and regulatory agencies including antitrust clearances in the United States, Canada, and Israel. Until closing, both companies will continue to operate independently.</p>
+<p><small>Links: <a href="https://about.doordash.com/en-us/news/doordash-to-acquire-instacart">about.doordash.com</a> | <a href="https://news.ycombinator.com/item?id=50287919">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Sierra Club Projects US Power Emissions Rise Driven by Data Center Expansion</h2>
 <a name="story-25792"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthecoinomist.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fai-data-centers1.png%3Fv%3D1775562552&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US power sector emissions are projected to reach 2.1 billion metric tons by 2030, a 42% increase over 2025 levels according to a Sierra Club analysis. This growth is driven by the rapid expansion of data center infrastructure.</p><p>The surge is expected to erase 15 years of declines in power-sector emissions. Additionally, emissions from off-grid data centers could match the total emissions produced by Mexico.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25755"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.seroundtable.com%2Fgoogle-expands-ai-mode-ads-worldwide-d1maw1YX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is expanding its AI Mode advertising to international markets and launching multi-turn ads in the United States. This follows Alphabet's third-quarter earnings report, which reported $127.6 billion in revenue (up 25% YoY), even as Search advertising growth slowed to 12% from 17% in the previous quarter.</p><p>The company is betting that generative AI can offset slowing core ad growth by facilitating longer, more complex user queries. Alphabet reports that queries in AI Mode average three times the length of traditional searches, and click-through rates for sponsored listings in this mode are already comparable to organic results.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/">techcrunch.com</a> | <a href="https://blog.google/products/ads-commerce/ads-in-ai-mode-global/">source</a></small></p>
-<br clear="all" />
-
-<h2>Oracle to Limit New Financing to $20 Billion Through FY 2030</h2>
-<a name="story-25741"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FORACLE-CASH%2Fzgvoewraavd%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Oracle plans to cap additional financing at $20 billion through fiscal year 2030 and expects free cash flow to turn positive in the second half of fiscal 2028. The company also projects free cash flow will exceed $30 billion in fiscal 2029.</p><p>The guidance aims to address investor concerns regarding the high capital expenditure required for Oracle's AI infrastructure buildout. Oracle shares rose more than 11% following the announcement, which noted that capital spending is expected to peak during the current and upcoming fiscal years.</p>
-<p><small>Links: <a href="https://www.reuters.com/business/oracle-expects-turn-cash-flow-positive-second-half-fiscal-2028-2026-10-28/">reuters.com</a> | <a href="https://www.prnewswire.com/news-releases/oracle-investor-day-2026-accelerating-value-creation-302922564.html">source</a></small></p>
 <br clear="all" />
 
 ---

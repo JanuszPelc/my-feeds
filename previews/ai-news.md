@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>DeepSeek and Moonshot AI Used OpenAI GPT-6 Astra to Train New Models</h2>
+<a name="story-25794"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.deccanchronicle.com%2Fh-upload%2F2026%2F10%2F29%2F2106101-dee.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese artificial intelligence developers DeepSeek and Moonshot AI relied on outputs from OpenAI's GPT-6 Astra model to train their latest offerings, including Moonshot's Kimi K3.1 Pro and DeepSeek's V4.1-Flash 1017. The distillation activity follows earlier restrictions and positions OpenAI's most powerful model as a prime target for capability extraction by international labs.</p><p>OpenAI previously attributed a core cluster of a distillation campaign to individuals associated with Moonshot AI following the release of GPT-6 Astra in September. The practice underscores the ongoing difficulty major Western AI developers face in preventing overseas competitors from leveraging advanced model outputs to accelerate the creation of lower-cost alternatives.</p>
+<p><small>Links: <a href="https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs">theinformation.com</a></small></p>
+<br clear="all" />
+
 <h2>Mistral AI Releases Open Weights for Mistral Large 4 Model</h2>
 <a name="story-25820"><img src="https://wsrv.nl/?url=https%3A%2F%2Fntwenmyhsoimhczyxtgl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmedia-derivatives%2FMDA_c7ef42b25f47%2Fweb-1080.jpg%3Fv%3D1792226325&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mistral AI has released the open weights for Mistral Large 4, a one-trillion-parameter natively multimodal model, following an initial public preview. Trained on European infrastructure, the model features scaling enhancements from reinforcement learning aimed at agentic coding, reasoning efficiency, and defensive cybersecurity capabilities.</p><p>The model introduces three adjustable reasoning modes to balance performance and cost, achieving leading scores on various open-weight coding and cybersecurity benchmarks. It is available under a modified MIT license for self-hosted deployment or through enterprise managed platforms such as Microsoft Foundry and NVIDIA NIM containers.</p>
@@ -35,7 +41,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Artificial Analysis Releases Intelligence Index v5</h2>
 <a name="story-25730"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6vfeftx9%2Farticles%2F44b792b382975135ff1db34ca74a2502eb767158-2152x1016.png%3Fw%3D1200%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Version 5 of the Artificial Analysis Intelligence Index introduces two new benchmarks, FrontierCode 2.0 and Terminal-Bench-Science, and upgrades HLE-Diamond, AA-Omniscience v1.1, and CritPt v2. This update is the first to build 60% of the index using private datasets. The release also includes the Artificial Analysis Progress Index v1, designed to track model capability on a continuous scale over time.</p><p>Claude Opus 5.5 leads the index with a score of 58, ahead of OpenAI's GPT-6 Astra and GPT-6.1 Sol. The data indicates the gap between proprietary and open-weights models has widened from 3 points to 12 points. Furthermore, cost per task among the top 10 models varies by more than 13x.</p>
-<p><small>Links: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">artificialanalysis.ai</a></small></p>
+<p><small>Links: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">artificialanalysis.ai</a> | <a href="https://news.ycombinator.com/item?id=50268868">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Anthropic Launches Enterprise AI Spending Reporting Tools</h2>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25718"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6vfeftx9%2Farticles%2F8280462c97c9b7ff22f4bcb528f4efd89934b50c-2152x2039.png%3Fw%3D1200%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GitHub has launched GitHub Copilot Fusion, a runtime model router and orchestrator designed to automate model selection and execution patterns for coding tasks. Unveiled at the GitHub Universe conference, the system builds on Project HydraFusion and Copilot Auto Model Selection to handle reasoning, code generation, debugging, and tool use while allowing developers to choose from effort tiers like Standard, High, and Max.</p><p>According to GitHub benchmarks, the Fusion Max tier delivers benchmark performance comparable to Claude Code with Opus 5.5 Max at roughly half the API cost and in about 40% less time per task. Enterprise administrators can configure policy states, set default models, and restrict which underlying models Copilot Fusion can utilize across their development teams.</p>
 <p><small>Links: <a href="https://thenewstack.io/github-copilot-fusion/">thenewstack.io</a> | <a href="https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/">source</a> | <a href="https://news.ycombinator.com/item?id=50276062">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Nvidia Releases Nemotron 3.5 Transcribe Open-Weight Speech Model</h2>
-<a name="story-25703"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAI-on-the-tongue.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia has released Nemotron 3.5 Transcribe, a free, open-weight model designed to transcribe audio across 40 languages, alongside version 2 of its Granary speech dataset. The 30-billion-parameter model handles recordings up to an hour long, attributes speakers to up to eight individuals, and translates 31 languages to and from English.</p><p>Targeted at developers building business meeting and medical transcription applications, the model can run on local hardware such as edge controllers and laptops, as well as enterprise datacenter chips. The release coincides with a surge of competing AI voice tools from companies including Mistral, ElevenLabs, and Salesforce.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/">techcrunch.com</a> | <a href="https://huggingface.co/blog/nvidia/nemotron-transcribe-granary">source</a> | <a href="https://news.ycombinator.com/item?id=50275128">hacker news</a></small></p>
 <br clear="all" />
 
 ---
