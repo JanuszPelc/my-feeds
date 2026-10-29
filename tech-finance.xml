@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T16:58:00+00:00</updated>
+  <updated>2026-10-29T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Microsoft Launches First US Investment-Grade Bond Sale Since 2017</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017::v240</id>
+    <published>2026-10-29T17:05:00+00:00</published>
+    <updated>2026-10-29T17:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdvzkzccvn%2Fimages%2Fw_1024%2Ch_683%2Cc_scale%2Ff_auto%2Cq_auto%2Fv1778584760%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f.jpg%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017">bloomberg.com</a></small></p><hr/><p>Microsoft Corp. has initiated a US investment-grade bond offering aiming to raise at least $25 billion. This marks the company's first return to the domestic high-grade debt market in more than nine years, following a $17 billion bond sale in 2017.</p><p>The multi-tranche debt issuance is intended to fund rising capital expenditures driven by the artificial intelligence infrastructure boom. Financial institutions including Wells Fargo, JPMorgan Chase, and UBS are managing the offering as major technology companies increasingly tap debt markets to finance extensive AI expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdvzkzccvn%2Fimages%2Fw_1024%2Ch_683%2Cc_scale%2Ff_auto%2Cq_auto%2Fv1778584760%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f.jpg%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 20:49 UTC | #25811</small>]]></content>
+  </entry>
   <entry>
     <title>Wabi Raises $55 Million at $1.25 Billion Valuation</title>
     <link href="https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/" rel="alternate" />

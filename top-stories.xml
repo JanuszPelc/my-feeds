@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-29T19:29:00+00:00</updated>
+  <updated>2026-10-29T20:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Patrick Stewart, Star of ‘Star Trek’ and ‘X-Men,’ Dies at 86</title>
+    <link href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html::v240</id>
+    <published>2026-10-29T20:53:00+00:00</published>
+    <updated>2026-10-29T20:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F28%2Fmultimedia%2F28patrick-stewart-ctmp-copy%2F28patrick-stewart-ctmp-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50294702">hacker news</a></small></p><hr/><p>Patrick Stewart, the acclaimed British actor renowned for his classical Shakespearean stage career and iconic pop-culture roles as Captain Jean-Luc Picard in "Star Trek: The Next Generation" and Professor X in the "X-Men" film franchise, has died at the age of 86. His death occurred at his home in Los Angeles following complications from Alzheimer's disease and Lewy body dementia.</p><p>Rising from a difficult working-class childhood in England, Stewart spent decades as a distinguished member of the Royal Shakespeare Company before achieving global television stardom in 1987. Beyond his signature seven-season run on television and multiple feature films as Picard, he maintained a prolific career spanning science-fiction staples like "Dune" and major theatrical productions on Broadway.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F28%2Fmultimedia%2F28patrick-stewart-ctmp-copy%2F28patrick-stewart-ctmp-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 20:50 UTC | #25866</small>]]></content>
+  </entry>
   <entry>
     <title>Unredacted 1964 FBI Letter to Martin Luther King Jr. Examined by Historians</title>
     <link href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter" rel="alternate" />
