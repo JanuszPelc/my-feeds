@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Amazon Updates Alexa with Over 100 New Shopping Capabilities</h2>
+<a name="story-25806"><img src="https://wsrv.nl/?url=https%3A%2F%2Flogie.ai%2Fnews%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Famazon_alexa_shopping_graphic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ahead of the holiday season, Amazon has introduced more than 100 new shopping-related capabilities to its Alexa assistant. The updates enable users to manage shopping lists, handle subscription changes like Subscribe &amp; Save modifications, and update delivery instructions directly through voice commands.</p><p>Consumers can also use the assistant to address billing or payment issues and inquire about details regarding their Prime or Audible memberships. Amazon reports that the adoption of agentic features has expanded significantly over the past year, with hundreds of millions of users utilizing Alexa for shopping.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities">source</a></small></p>
+<br clear="all" />
+
 <h2>DoorDash Agrees to Acquire Instacart for $17 Billion</h2>
 <a name="story-25849"><img src="https://wsrv.nl/?url=https%3A%2F%2Famppfy.com%2Fwp-content%2Fuploads%2F2025%2F08%2F20250827_1334_Boost-Earnings-with-Delivery_simple_compose_01k3pkqypge0m9d10gz7pn6xy0-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DoorDash has entered into a definitive agreement to acquire Instacart for approximately $17 billion, valuing the grocery technology company at $65.00 per share. The transaction combines DoorDash's restaurant and local delivery network with Instacart's grocery fulfillment technology, uniting two major delivery platforms to expand merchant tools and consumer choices.</p><p>Under the terms of the agreement, Instacart stockholders can elect to receive cash, DoorDash stock, or a combination of both. The deal is expected to close in late 2027 or the first half of 2028, pending approval by Instacart stockholders and regulatory agencies including antitrust clearances in the United States, Canada, and Israel. Until closing, both companies will continue to operate independently.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6a906df0a8a32784cdb5c100%2Fmaster%2Fw_2560%2Cc_limit%2FNvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The US Department of Justice has inquired about Nvidia's $12.93 billion acquisition of Hugging Face to evaluate its potential impact on competition in the artificial intelligence market. Regulators are specifically investigating whether the deal would give Nvidia control over a key distribution point for AI models.</p><p>This inquiry is part of a broader probe into Nvidia's business conduct, covering its investments, sales practices, and potential pressure exerted on customers. The investigation seeks to determine if the company's market dominance is being used to disadvantage competitors.</p>
 <p><small>Links: <a href="https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50280732">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Google Expands AI Mode Ads Globally</h2>
-<a name="story-25755"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.seroundtable.com%2Fgoogle-expands-ai-mode-ads-worldwide-d1maw1YX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google is expanding its AI Mode advertising to international markets and launching multi-turn ads in the United States. This follows Alphabet's third-quarter earnings report, which reported $127.6 billion in revenue (up 25% YoY), even as Search advertising growth slowed to 12% from 17% in the previous quarter.</p><p>The company is betting that generative AI can offset slowing core ad growth by facilitating longer, more complex user queries. Alphabet reports that queries in AI Mode average three times the length of traditional searches, and click-through rates for sponsored listings in this mode are already comparable to organic results.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/">techcrunch.com</a> | <a href="https://blog.google/products/ads-commerce/ads-in-ai-mode-global/">source</a></small></p>
 <br clear="all" />
 
 ---

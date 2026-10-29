@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Jio Platforms Adds $36 Billion in Market Value Following India IPO Surge</h2>
+<a name="story-25795"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEh9LaDY99xCbwhybQuZuNegxsOd_uWPsxRoegyMTvTzr10ohC_JREcoeQVkoGmvyDcocIG0ktc4ENPool88rd8qDaVGj1x9be5SuQIblCMHlTTLGbiX_iDPlbGnYt2yxj3XMb1UaYvDb1MXmXWlEMeTcLvd-3pQyAQ5U9Luk12MMUmKbnBENOtSUNilXWau%2Fw1600%2FJio%2BPlatforms%2Bis%2Bnearing%2BIndia%E2%80%99s%2Bbiggest-ever%2BIPO%2C%2Bwith%2BMorgan%2BStanley%2Band%2BGoldman%2BSachs%2Bleading%2Ba%2Blisting%2Bthat%2Bcould%2Bvalue%2Bit%2Bat%2Bup%2Bto%2B%24182%2Bbillion..jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jio Platforms Ltd. added nearly $36 billion in market value over two trading sessions, extending its strong gains following India's largest-ever initial public offering. The surge elevated the company's market capitalization to approximately $144 billion, up from its initial valuation of roughly $108 billion.</p><p>The sharp increase highlights robust investor appetite for the digital and telecom giant's shares following its market debut. Shares rose significantly in subsequent trading, reflecting strong market confidence in the firm's growth trajectory.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/jio-platforms-adds-36-billion-in-value-after-india-ipo-surge">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>STMicroelectronics Reports Third-Quarter Financial Results and Q4 Revenue Forecast</h2>
 <a name="story-25782"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2026%2F04%2F23055808%2FSTM-revenue_trend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>STMicroelectronics reported third-quarter net revenues of $3.76 billion, representing a 17.9% increase year-over-year, and a non-U.S. GAAP operating income of $429 million that surpassed market expectations. The quarter's gross margin was recorded at 37.3% as the company experienced steady demand across its semiconductor product lines.</p><p>For the fourth quarter, the company forecasts net revenues of approximately $4.15 billion and a gross margin of 39.0%. The updated guidance highlights management's outlook for continued operational performance through the end of the year.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25763"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fearnings%2FEBAY.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>eBay reported third-quarter revenue of $3.21 billion, a 14% year-over-year increase that exceeded analyst estimates of $3.12 billion. Gross merchandise volume (GMV) rose 15% to $23.17 billion, surpassing the projected $22.32 billion.</p><p>Growth was supported by momentum in key categories such as collectibles and live shopping. eBay's stock rose more than 4% in after-hours trading following the announcement.</p>
 <p><small>Links: <a href="https://www.wsj.com/business/retail/ebay-sales-rise-on-strength-in-collectibles-live-shopping-77cd8df4">wsj.com</a> | <a href="https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2026-results/">source</a></small></p>
-<br clear="all" />
-
-<h2>ServiceNow Shares Fall Following Lower-Than-Expected Q4 Sales Outlook</h2>
-<a name="story-25764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGwknNQxXwAE070c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ServiceNow reported third-quarter subscription revenue of $3.99 billion, a 21% increase year-over-year. However, the company's fourth-quarter outlook for current remaining performance obligations fell below analyst estimates, leading to a share price decline of over 15% in after-hours trading.</p><p>The cautious sales guidance has renewed investor concerns about the impact of artificial intelligence on long-term growth. Although third-quarter revenue remains strong, the projected outlook for upcoming obligations has introduced uncertainty regarding future demand.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/servicenow-falls-after-quarterly-sales-outlook-revives-ai-fears">bloomberg.com</a> | <a href="https://investor.servicenow.com/news/news-details/2026/ServiceNow-Reports-Third-Quarter-2026-Financial-Results/default.aspx">source</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T14:43:00+00:00</updated>
+  <updated>2026-10-29T14:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Amazon Updates Alexa with Over 100 New Shopping Capabilities</title>
+    <link href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/::v240</id>
+    <published>2026-10-29T14:47:00+00:00</published>
+    <updated>2026-10-29T14:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flogie.ai%2Fnews%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Famazon_alexa_shopping_graphic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities">source</a></small></p><hr/><p>Ahead of the holiday season, Amazon has introduced more than 100 new shopping-related capabilities to its Alexa assistant. The updates enable users to manage shopping lists, handle subscription changes like Subscribe &amp; Save modifications, and update delivery instructions directly through voice commands.</p><p>Consumers can also use the assistant to address billing or payment issues and inquire about details regarding their Prime or Audible memberships. Amazon reports that the adoption of agentic features has expanded significantly over the past year, with hundreds of millions of users utilizing Alexa for shopping.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flogie.ai%2Fnews%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Famazon_alexa_shopping_graphic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 18:14 UTC | #25806</small>]]></content>
+  </entry>
   <entry>
     <title>DoorDash Agrees to Acquire Instacart for $17 Billion</title>
     <link href="https://about.doordash.com/en-us/news/doordash-to-acquire-instacart" rel="alternate" />
