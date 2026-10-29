@@ -10,6 +10,18 @@
 
 *How the tech business is changing, from chipmaking and data centers to jobs.*
 
+<h2>Google Expands AI Mode Ads Globally</h2>
+<a name="story-25755"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.seroundtable.com%2Fgoogle-expands-ai-mode-ads-worldwide-d1maw1YX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google is expanding its AI Mode advertising to international markets and launching multi-turn ads in the United States. This follows Alphabet's third-quarter earnings report, which reported $127.6 billion in revenue (up 25% YoY), even as Search advertising growth slowed to 12% from 17% in the previous quarter.</p><p>The company is betting that generative AI can offset slowing core ad growth by facilitating longer, more complex user queries. Alphabet reports that queries in AI Mode average three times the length of traditional searches, and click-through rates for sponsored listings in this mode are already comparable to organic results.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/">techcrunch.com</a> | <a href="https://blog.google/products/ads-commerce/ads-in-ai-mode-global/">source</a></small></p>
+<br clear="all" />
+
+<h2>Oracle to Limit New Financing to $20 Billion Through FY 2030</h2>
+<a name="story-25741"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FORACLE-CASH%2Fzgvoewraavd%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Oracle plans to cap additional financing at $20 billion through fiscal year 2030 and expects free cash flow to turn positive in the second half of fiscal 2028. The company also projects free cash flow will exceed $30 billion in fiscal 2029.</p><p>The guidance aims to address investor concerns regarding the high capital expenditure required for Oracle's AI infrastructure buildout. Oracle shares rose more than 11% following the announcement, which noted that capital spending is expected to peak during the current and upcoming fiscal years.</p>
+<p><small>Links: <a href="https://www.reuters.com/business/oracle-expects-turn-cash-flow-positive-second-half-fiscal-2028-2026-10-28/">reuters.com</a> | <a href="https://www.prnewswire.com/news-releases/oracle-investor-day-2026-accelerating-value-creation-302922564.html">source</a></small></p>
+<br clear="all" />
+
 <h2>Reddit Introduces &#x27;For You&#x27; and &#x27;Following&#x27; Feed Options</h2>
 <a name="story-25711"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F07%2Freddit-hide-post.jpg%3Fq%3D50%26fit%3Dcrop%26w%3D825%26dpr%3D1.5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reddit is rolling out a redesigned feed interface featuring separate "For You" and "Following" tabs, shifting its homepage toward an algorithmic recommendation model similar to TikTok and other social platforms. The "For You" feed blends posts from subscribed communities with tailored recommendations, while the "Following" feed displays only content from joined communities.</p><p>The global rollout follows prior testing phases that drew mixed responses from users who preferred a purely subscription-based home feed. Reddit states the update aims to foster community discovery and active participation, and users can switch between feeds with the platform retaining their last-viewed tab.</p>
@@ -56,18 +68,6 @@
 <a name="story-25668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd341l694dl30ad.cloudfront.net%2Fimages%2Fap%2F2026%2F10%2F28%2F6ae1855124c7bd42e89dd7b9%2Foriginal%2F1fba4231-219e-42c5-af4e-c7312bcf910d-1793164625349.jpg%3Fwidth%3D1440%26format%3Dwebp%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Malaysian customs authorities seized 30 server units containing advanced artificial intelligence chips valued at approximately 49.5 million ringgit ($12.11 million) at Kuala Lumpur International Airport. The shipment, intercepted earlier this month, was falsely declared as electronic components to bypass trade regulations and export controls.</p><p>Investigators suspect the seizure is tied to a regional smuggling syndicate that previously attempted a similar operation in June involving 72 server units valued at roughly $12.9 million. Malaysia implemented export controls on high-performance, U.S.-origin AI chips in 2025, transforming the specialized semiconductor hardware into high-value contraband.</p>
 <p><small>Links: <a href="https://www.reuters.com/world/china/ai-chips-worth-121-million-seized-malaysia-airport-customs-authority-says-2026-10-28/">reuters.com</a></small></p>
-<br clear="all" />
-
-<h2>Building a Better California Raises Over $333 Million to Defeat Proposition 40 Wealth Tax</h2>
-<a name="story-25656"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F26%2Fbusiness%2F00biz-billionaire-tax%2F00biz-billionaire-tax-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Silicon Valley billionaires and their advisers have organized weekly strategy calls and raised more than $333 million through the nonprofit Building a Better California to defeat Proposition 40. If approved by voters, the ballot measure would impose a one-time 5 percent wealth tax on California billionaires.</p><p>The opposition campaign ranks among the best-funded political efforts in state history, backed by roughly 80 prominent tech donors including Google co-founder Sergey Brin, former Google chief executive Eric Schmidt, and Stripe chief executive Patrick Collison. Opponents view the wealth tax as an existential threat that could establish a precedent for similar levies nationwide.</p>
-<p><small>Links: <a href="https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html?unlocked_article_code=1.L1E.HJGf.yaAT18KafSCQ&smid=nytcore-ios-share">nytimes.com</a></small></p>
-<br clear="all" />
-
-<h2>TPG in Talks to Acquire Ark Data Centres from Elliott Management for $5 Billion</h2>
-<a name="story-25652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbrightlio.com%2Fwp-content%2Fuploads%2F2025%2F11%2FArk-Data-Centre-%E2%80%93-Cody-Park-Campus-1024x1024.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>US private capital group TPG is in advanced negotiations to acquire UK-based Ark Data Centres from Elliott Management. The potential transaction values the data center operator at approximately $5 billion, marking one of the sector's largest deals of the year.</p><p>Ark Data Centres operates a portfolio of 27 facilities across the UK and Belgium, positioning the company as a prominent infrastructure asset in Europe. The acquisition talks reflect surging investor demand for digital infrastructure assets as private equity firms aggressively expand their footprints in the data center market.</p>
-<p><small>Links: <a href="https://www.ft.com/content/e2aafede-771a-4fd0-b9fb-67c0bbb828ed">ft.com</a></small></p>
 <br clear="all" />
 
 ---

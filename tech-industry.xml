@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-28T17:43:00+00:00</updated>
+  <updated>2026-10-28T21:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Google Expands AI Mode Ads Globally</title>
+    <link href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/::v240</id>
+    <published>2026-10-28T21:49:00+00:00</published>
+    <updated>2026-10-28T21:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.seroundtable.com%2Fgoogle-expands-ai-mode-ads-worldwide-d1maw1YX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/">techcrunch.com</a> | <a href="https://blog.google/products/ads-commerce/ads-in-ai-mode-global/">source</a></small></p><hr/><p>Google is expanding its AI Mode advertising to international markets and launching multi-turn ads in the United States. This follows Alphabet's third-quarter earnings report, which reported $127.6 billion in revenue (up 25% YoY), even as Search advertising growth slowed to 12% from 17% in the previous quarter.</p><p>The company is betting that generative AI can offset slowing core ad growth by facilitating longer, more complex user queries. Alphabet reports that queries in AI Mode average three times the length of traditional searches, and click-through rates for sponsored listings in this mode are already comparable to organic results.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.seroundtable.com%2Fgoogle-expands-ai-mode-ads-worldwide-d1maw1YX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 02:53 UTC | #25755</small>]]></content>
+  </entry>
+  <entry>
+    <title>Oracle to Limit New Financing to $20 Billion Through FY 2030</title>
+    <link href="https://www.reuters.com/business/oracle-expects-turn-cash-flow-positive-second-half-fiscal-2028-2026-10-28/" rel="alternate" />
+    <id>https://www.reuters.com/business/oracle-expects-turn-cash-flow-positive-second-half-fiscal-2028-2026-10-28/::v240</id>
+    <published>2026-10-28T21:36:00+00:00</published>
+    <updated>2026-10-28T21:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FORACLE-CASH%2Fzgvoewraavd%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/oracle-expects-turn-cash-flow-positive-second-half-fiscal-2028-2026-10-28/">reuters.com</a> | <a href="https://www.prnewswire.com/news-releases/oracle-investor-day-2026-accelerating-value-creation-302922564.html">source</a></small></p><hr/><p>Oracle plans to cap additional financing at $20 billion through fiscal year 2030 and expects free cash flow to turn positive in the second half of fiscal 2028. The company also projects free cash flow will exceed $30 billion in fiscal 2029.</p><p>The guidance aims to address investor concerns regarding the high capital expenditure required for Oracle's AI infrastructure buildout. Oracle shares rose more than 11% following the announcement, which noted that capital spending is expected to peak during the current and upcoming fiscal years.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FORACLE-CASH%2Fzgvoewraavd%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 02:51 UTC | #25741</small>]]></content>
+  </entry>
   <entry>
     <title>Reddit Introduces 'For You' and 'Following' Feed Options</title>
     <link href="https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/" rel="alternate" />
