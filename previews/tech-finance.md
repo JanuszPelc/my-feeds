@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>HTX to Exit UK Following FCA Settlement</h2>
+<a name="story-25827"><img src="https://wsrv.nl/?url=https%3A%2F%2Fambcrypto.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAdewale-2-1-16-1536x864.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The cryptocurrency exchange HTX, linked to billionaire Justin Sun, has reached a settlement with the Financial Conduct Authority (FCA) to exit the United Kingdom. This resolution concludes legal proceedings initiated in October 2025 regarding the unlawful promotion of crypto asset services.</p><p>Under the agreement, HTX is no longer active in the UK, and the platform has blocked new user sign-ups and deposits. The settlement follows the FCA's reported difficulties in engaging the exchange before legal action and includes High Court undertakings prohibiting HTX from targeting or soliciting UK consumers.</p>
+<p><small>Links: <a href="https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?accessToken=zwAAAaGH5sPHkc9Uwjbvr3pA39OfD6vz1sgl0g.MEUCIGQ8rE8WIjOcep-oKi8Udw7YBYD5v0QqOa_A7Zk8I5WoAiEA7dyy_tqO0pfOLIUI-hRE_N7sHiukV98-c7snAM_rvkU&sharetype=gift&token=79c04867-fa52-4e5e-a203-5f1a092f1136&syn-25a6b1a6=1">ft.com</a> | <a href="https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions">source</a></small></p>
+<br clear="all" />
+
 <h2>Collective Secures $100M to Automate Bookkeeping for Solo Business Owners</h2>
 <a name="story-25828"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmaxbusiness.com.au%2Fwp-content%2Fuploads%2F2026%2F02%2Fai-bookkeeping-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Collective, a financial services platform for solo business owners, has secured $100 million in financing. The funding includes a $40 million Series B and $60 million in nondilutive capital from General Catalyst's Customer Value Fund.</p><p>The company uses artificial intelligence to automate bookkeeping, accounting, and tax management for solo entrepreneurs. This funding is intended to expand Collective's AI-native financial operating system.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25795"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEh9LaDY99xCbwhybQuZuNegxsOd_uWPsxRoegyMTvTzr10ohC_JREcoeQVkoGmvyDcocIG0ktc4ENPool88rd8qDaVGj1x9be5SuQIblCMHlTTLGbiX_iDPlbGnYt2yxj3XMb1UaYvDb1MXmXWlEMeTcLvd-3pQyAQ5U9Luk12MMUmKbnBENOtSUNilXWau%2Fw1600%2FJio%2BPlatforms%2Bis%2Bnearing%2BIndia%E2%80%99s%2Bbiggest-ever%2BIPO%2C%2Bwith%2BMorgan%2BStanley%2Band%2BGoldman%2BSachs%2Bleading%2Ba%2Blisting%2Bthat%2Bcould%2Bvalue%2Bit%2Bat%2Bup%2Bto%2B%24182%2Bbillion..jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jio Platforms Ltd. added nearly $36 billion in market value over two trading sessions, extending its strong gains following India's largest-ever initial public offering. The surge elevated the company's market capitalization to approximately $144 billion, up from its initial valuation of roughly $108 billion.</p><p>The sharp increase highlights robust investor appetite for the digital and telecom giant's shares following its market debut. Shares rose significantly in subsequent trading, reflecting strong market confidence in the firm's growth trajectory.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/jio-platforms-adds-36-billion-in-value-after-india-ipo-surge">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>STMicroelectronics Reports Third-Quarter Financial Results and Q4 Revenue Forecast</h2>
-<a name="story-25782"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2026%2F04%2F23055808%2FSTM-revenue_trend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>STMicroelectronics reported third-quarter net revenues of $3.76 billion, representing a 17.9% increase year-over-year, and a non-U.S. GAAP operating income of $429 million that surpassed market expectations. The quarter's gross margin was recorded at 37.3% as the company experienced steady demand across its semiconductor product lines.</p><p>For the fourth quarter, the company forecasts net revenues of approximately $4.15 billion and a gross margin of 39.0%. The updated guidance highlights management's outlook for continued operational performance through the end of the year.</p>
-<p><small>Links: <a href="https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/">reuters.com</a> | <a href="https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-reports-q3-2026-financial-results.html">source</a></small></p>
 <br clear="all" />
 
 ---
