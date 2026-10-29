@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Serval Raises $150 Million in Series C Funding at $3 Billion Valuation</h2>
+<a name="story-25814"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fserval-raises-150m-series-c-at-3b-valuation-to-hire-over-500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Serval, an enterprise IT service management and automation startup, has raised $150 million in a Series C funding round led by Sequoia Capital. The financing values the company at $3 billion, tripling its valuation from $1 billion recorded in December 2025.</p><p>The new capital will support the expansion of Serval's AI workflow automation platform and fund plans to hire over 500 employees as the company scales its operations to compete with established enterprise software providers.</p>
+<p><small>Links: <a href="https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/">reuters.com</a> | <a href="https://www.serval.com/blog/we-raised-150m-to-make-everyone-a-builder">source</a></small></p>
+<br clear="all" />
+
 <h2>Microsoft Launches First US Investment-Grade Bond Sale Since 2017</h2>
 <a name="story-25811"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdvzkzccvn%2Fimages%2Fw_1024%2Ch_683%2Cc_scale%2Ff_auto%2Cq_auto%2Fv1778584760%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f.jpg%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft Corp. has initiated a US investment-grade bond offering aiming to raise at least $25 billion. This marks the company's first return to the domestic high-grade debt market in more than nine years, following a $17 billion bond sale in 2017.</p><p>The multi-tranche debt issuance is intended to fund rising capital expenditures driven by the artificial intelligence infrastructure boom. Financial institutions including Wells Fargo, JPMorgan Chase, and UBS are managing the offering as major technology companies increasingly tap debt markets to finance extensive AI expansion.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25773"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechfundingnews.com%2Fwp-content%2Fuploads%2F2026%2F10%2FFragment-team.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fragment has exited stealth with $56 million in total funding, featuring a Series A round led by 8VC with participation from General Catalyst and A*. The company builds enterprise AI software designed to automate procurement operations and handle purchasing and payment exceptions.</p><p>The platform uses AI agents integrated into existing enterprise systems to investigate and resolve issues autonomously, moving beyond simple recommendations to execute authorized actions. The newly announced capital will support the company's ongoing growth and product expansion.</p>
 <p><small>Links: <a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/28/fragment-procurement-software-botha">axios.com</a> | <a href="https://fragment.ai/series-A">source</a></small></p>
-<br clear="all" />
-
-<h2>Samsung Electronics Reports Record Third-Quarter Profit Amid AI Chip Demand</h2>
-<a name="story-25768"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnewsimg.koreatimes.co.kr%2F2026%2F04%2F07%2Fdefde82b-ad68-44a5-8fb1-c31eb2093680.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Samsung Electronics reported record third-quarter results, posting 195.25 trillion won in revenue and 107.44 trillion won in operating profit. The performance, driven by surging demand for AI-related memory chips and advanced high-bandwidth memory, marked the first time a global technology company exceeded 100 trillion won in quarterly operating profit.</p><p>Despite the record earnings meeting analysts' expectations, Samsung shares traded 5% lower following the announcement. Analysts noted that investors increasingly view the company primarily through the lens of its semiconductor performance, with the chip division accounting for nearly all operating profit as the market anticipates continued growth in AI infrastructure spending.</p>
-<p><small>Links: <a href="https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html">cnbc.com</a> | <a href="https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results">source</a></small></p>
 <br clear="all" />
 
 ---

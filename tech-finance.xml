@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T17:05:00+00:00</updated>
+  <updated>2026-10-29T19:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Serval Raises $150 Million in Series C Funding at $3 Billion Valuation</title>
+    <link href="https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/" rel="alternate" />
+    <id>https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/::v240</id>
+    <published>2026-10-29T19:44:00+00:00</published>
+    <updated>2026-10-29T19:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fserval-raises-150m-series-c-at-3b-valuation-to-hire-over-500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/">reuters.com</a> | <a href="https://www.serval.com/blog/we-raised-150m-to-make-everyone-a-builder">source</a></small></p><hr/><p>Serval, an enterprise IT service management and automation startup, has raised $150 million in a Series C funding round led by Sequoia Capital. The financing values the company at $3 billion, tripling its valuation from $1 billion recorded in December 2025.</p><p>The new capital will support the expansion of Serval's AI workflow automation platform and fund plans to hire over 500 employees as the company scales its operations to compete with established enterprise software providers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fserval-raises-150m-series-c-at-3b-valuation-to-hire-over-500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 21:04 UTC | #25814</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Launches First US Investment-Grade Bond Sale Since 2017</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Decent Sampler 1.40.1 Adds Kontakt Import and Auto Sampler</h2>
+<a name="story-25854"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FAutodafe-has-released-Acoustic-Bass-a-free-instrument-for-Decent-Sampler-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Decent Samples has released Decent Sampler version 1.40.1, a free update introducing support for importing unprotected Kontakt instrument files (.nki) and a built-in Auto Sampler tool. The new import feature converts compatible Kontakt patches into Decent Sampler bundles, preserving sample mappings while excluding copy protection and custom scripts.</p><p>The Auto Sampler tool operates within the standalone Mac and Windows applications, allowing users to record hardware synthesizers, trim silence, find sustain loops, and map velocity layers or round robins automatically. Additional updates include envelope delay and hold stages, interface scaling, a dark theme, and improved EXS imports across supported plugin formats on desktop and mobile platforms.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/decent-sampler-kontakt-import/">bedroomproducersblog.com</a> | <a href="https://www.decentsamples.com/product/decent-sampler-plugin/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/decent-sampler-kontakt-import/#comments">discussion</a></small></p>
+<br clear="all" />
+
 <h2>A Sound Effect Offers 344 SFX Jump Scares Horror Sound Library for Free</h2>
 <a name="story-25821"><img src="https://wsrv.nl/?url=https%3A%2F%2Fartlist-albums.imgix.net%2Fimages%2F9545_848754_848754_Just_Sound_Effects_-_Jump_Scares_-_A.jpg%3Fauto%3Dformat%26fit%3Dmax%26w%3D640%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio marketplace A Sound Effect is offering the Jump Scares horror sound effects library by 344 SFX for free to its newsletter subscribers. Normally priced at $27, the collection includes 100 royalty-free sounds such as heavy slasher impacts, mangled screams, and atonal stingers recorded at 24-bit/96 kHz.</p><p>The promotional offer is available to both new and existing subscribers for a limited time. The sound pack is designed for multimedia projects including film, television, games, and podcasts, drawing inspiration from prominent horror films.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25696"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-release-header.1792503692.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sound designer Tom Wolfe has released Rest, a new soundbank for the Spectrasonics Omnisphere 3 virtual instrument. Aimed at ambient music producers and media composers, the library includes 50 presets focused on soft pads and luminous textures.</p><p>Rest is offered in Standard and Binaural editions, the latter featuring binaurally enhanced versions of each preset created using Wolfe's standard. A special introductory price is available until November 10, 2026, alongside a free taster pack containing five presets.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/tom-wolfe-releases-rest-for-omnisphere-3---ambient-soundbank-69271?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69271">kvraudio.com</a> | <a href="https://www.tomwolfe.co.uk/product/rest-for-omnisphere/">source</a></small></p>
-<br clear="all" />
-
-<h2>Vochlea Offers Native Instruments Empire Breaks Promotion</h2>
-<a name="story-25694"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_775981-MLB50867138396_072022-O.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Vochlea has announced a promotional offer featuring Native Instruments Empire Breaks for users of its voice-to-MIDI production tools.</p><p>The collaboration provides music producers with additional virtual instrument content alongside vocal-driven workflow solutions.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/28/vochlea-empire-breaks/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/28/vochlea-empire-breaks/#respond">discussion</a></small></p>
 <br clear="all" />
 
 ---
