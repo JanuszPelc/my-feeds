@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Fragment Raises $56 Million and Emerges From Stealth</h2>
+<a name="story-25773"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechfundingnews.com%2Fwp-content%2Fuploads%2F2026%2F10%2FFragment-team.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Fragment has exited stealth with $56 million in total funding, featuring a Series A round led by 8VC with participation from General Catalyst and A*. The company builds enterprise AI software designed to automate procurement operations and handle purchasing and payment exceptions.</p><p>The platform uses AI agents integrated into existing enterprise systems to investigate and resolve issues autonomously, moving beyond simple recommendations to execute authorized actions. The newly announced capital will support the company's ongoing growth and product expansion.</p>
+<p><small>Links: <a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/28/fragment-procurement-software-botha">axios.com</a> | <a href="https://fragment.ai/series-A">source</a></small></p>
+<br clear="all" />
+
 <h2>Samsung Electronics Reports Record Third-Quarter Profit Amid AI Chip Demand</h2>
 <a name="story-25768"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnewsimg.koreatimes.co.kr%2F2026%2F04%2F07%2Fdefde82b-ad68-44a5-8fb1-c31eb2093680.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics reported record third-quarter results, posting 195.25 trillion won in revenue and 107.44 trillion won in operating profit. The performance, driven by surging demand for AI-related memory chips and advanced high-bandwidth memory, marked the first time a global technology company exceeded 100 trillion won in quarterly operating profit.</p><p>Despite the record earnings meeting analysts' expectations, Samsung shares traded 5% lower following the announcement. Analysts noted that investors increasingly view the company primarily through the lens of its semiconductor performance, with the chip division accounting for nearly all operating profit as the market anticipates continued growth in AI infrastructure spending.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25689"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.backlinko.com%2Fapp%2Fuploads%2F2024%2F12%2Fetsy-revenue-1440x1094.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Etsy reported third-quarter revenue of $692.5 million, marking an 11% increase year-over-year that surpassed analyst expectations of $668 million. Gross merchandise sales across its marketplace rose 9% compared to the previous year to reach $2.65 billion, supported by an expanding base of active buyers.</p><p>Total net income for the quarter surged to $853.5 million, largely driven by proceeds from the sale of Depop. The company also issued its performance outlook for the upcoming fourth quarter as it continues to focus on core marketplace growth.</p>
 <p><small>Links: <a href="https://www.wsj.com/business/retail/etsy-sales-rise-as-the-number-of-active-buyers-increases-01c646c9?st=eiH3p6&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investors.etsy.com/news-events/press-releases/detail/229/etsy-inc-reports-third-quarter-2026-results">source</a></small></p>
-<br clear="all" />
-
-<h2>Jio Platforms Shares Soar 21% on Trading Debut After Record IPO</h2>
-<a name="story-25650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhyIweAj-_BjCycUlavu5QzLWcxmMIVkAu73h59DO1sGfLtyybSRj3pVB4QFIgQ7kjMkEX_EDQ6wvaUbKflnBi7dGkysOitttaFPLWIlEkHkIjGG504uToXokYtlzFEkn1ePmR06EMBl6gaKwrc6PfQJ31P0L0GTEyworAQioJjQNdgi4YO-f5JP7j595c%2Fs16000%2F511549.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jio Platforms shares surged 21.4% on their trading debut following the company's 302 billion rupee ($3.2 billion) initial public offering, India's largest-ever public issue. The offering was subscribed more than 22 times overall, driven heavily by institutional demand after opening on October 21.</p><p>Reliance Industries retains a majority stake of over 66% in Jio Platforms, alongside significant holdings by Meta Platforms and Google. Following the listing, brokerage Nomura initiated coverage with a buy rating and a target price of 1,340 rupees, citing a largely completed capital expenditure cycle and expected improvements in free cash flow.</p>
-<p><small>Links: <a href="https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html">cnbc.com</a></small></p>
 <br clear="all" />
 
 ---

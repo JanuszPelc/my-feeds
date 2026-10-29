@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T03:42:00+00:00</updated>
+  <updated>2026-10-29T04:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Fragment Raises $56 Million and Emerges From Stealth</title>
+    <link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/28/fragment-procurement-software-botha" rel="alternate" />
+    <id>https://www.axios.com/pro/enterprise-software-deals/2026/10/28/fragment-procurement-software-botha::v240</id>
+    <published>2026-10-29T04:06:00+00:00</published>
+    <updated>2026-10-29T04:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechfundingnews.com%2Fwp-content%2Fuploads%2F2026%2F10%2FFragment-team.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/28/fragment-procurement-software-botha">axios.com</a> | <a href="https://fragment.ai/series-A">source</a></small></p><hr/><p>Fragment has exited stealth with $56 million in total funding, featuring a Series A round led by 8VC with participation from General Catalyst and A*. The company builds enterprise AI software designed to automate procurement operations and handle purchasing and payment exceptions.</p><p>The platform uses AI agents integrated into existing enterprise systems to investigate and resolve issues autonomously, moving beyond simple recommendations to execute authorized actions. The newly announced capital will support the company's ongoing growth and product expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechfundingnews.com%2Fwp-content%2Fuploads%2F2026%2F10%2FFragment-team.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 11:22 UTC | #25773</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung Electronics Reports Record Third-Quarter Profit Amid AI Chip Demand</title>
     <link href="https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html" rel="alternate" />
