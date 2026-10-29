@@ -10,6 +10,12 @@
 
 *Where the money in tech goes, from funding rounds and deals to earnings.*
 
+<h2>FuriosaAI Raises $620 Million in Series D at $2.9 Billion Valuation</h2>
+<a name="story-25759"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F10%2F29%2Fsmall%2F4005479_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>FuriosaAI, a Seoul-based AI chip startup, has secured $620 million in Series D funding, bringing its valuation to $2.9 billion. The round included $280 million from South Korea's National Growth Fund, a substantial increase from the company's $735 million valuation in 2025.</p><p>Capital from the round will support the company's efforts to compete with Nvidia in the AI semiconductor market. Additional participants in the funding round included Cisco Investments, Infinitum, Jericho Capital, NeoFort Holding, QUDA Capital, and Worldline Capital.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase">bloomberg.com</a> | <a href="https://furiosa.ai/blog/furiosaai-620-million-series-d">source</a></small></p>
+<br clear="all" />
+
 <h2>Marvell in Advanced Talks to Acquire Lumentum</h2>
 <p>Marvell Technology Inc. is in advanced negotiations to acquire Lumentum Holdings Inc., a provider of data center optics, according to people familiar with the matter. The deal could be announced as early as next week and involves Lumentum, which has a market value of approximately $83 billion.</p><p>The acquisition would expand Marvell's optical component portfolio to meet the growing demands of artificial intelligence infrastructure. This move is intended to bolster the company's competitive standing against rivals like Broadcom in the AI-related technology market.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal">bloomberg.com</a></small></p>
@@ -60,12 +66,6 @@
 <a name="story-25628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.slideteam.net%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F560x315%2Fi%2Fm%2Fimpact_on_quarterly_sales_revenue_sales_enablement_strategy_to_boost_productivity_and_drive_sa_ss_slide01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NXP Semiconductors issued a fourth-quarter revenue forecast that missed analyst expectations, causing its shares to fall in late trading. The chipmaker expects fourth-quarter revenue to grow approximately 15% to $3.85 billion, which is below the average analyst estimate of $3.87 billion.</p><p>The guidance has raised concerns that the recovery in demand for automotive and industrial chips may be slowing. This follows NXP's third-quarter report, which recorded revenue of $3.8 billion, a 19% increase year-over-year.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast">bloomberg.com</a> | <a href="https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-third-quarter-2026-results">source</a></small></p>
-<br clear="all" />
-
-<h2>Robinhood Reports Q3 Revenue Growth Amid Declining Crypto Revenue</h2>
-<a name="story-25617"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FHOOD-RESULTS%2Fmopaoonokpa%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Robinhood Markets reported third-quarter revenue of $1.42 billion, a 12% year-over-year increase that met analyst expectations. Quarterly profit fell 14% to $476 million, as a 55% decline in cryptocurrency-related revenue to $120 million weighed on the company's results.</p><p>The slump in crypto trading activity offset revenue gains in other sectors, impacting overall profitability. Following the earnings announcement, Robinhood's stock price fell more than 5% in after-hours trading.</p>
-<p><small>Links: <a href="https://www.reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27/">reuters.com</a> | <a href="https://investors.robinhood.com/events/event-details/robinhood-q3-2026-earnings">source</a></small></p>
 <br clear="all" />
 
 ---

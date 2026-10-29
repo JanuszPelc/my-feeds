@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-28T22:31:00+00:00</updated>
+  <updated>2026-10-28T23:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>FuriosaAI Raises $620 Million in Series D at $2.9 Billion Valuation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase::v240</id>
+    <published>2026-10-28T23:46:00+00:00</published>
+    <updated>2026-10-28T23:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F10%2F29%2Fsmall%2F4005479_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase">bloomberg.com</a> | <a href="https://furiosa.ai/blog/furiosaai-620-million-series-d">source</a></small></p><hr/><p>FuriosaAI, a Seoul-based AI chip startup, has secured $620 million in Series D funding, bringing its valuation to $2.9 billion. The round included $280 million from South Korea's National Growth Fund, a substantial increase from the company's $735 million valuation in 2025.</p><p>Capital from the round will support the company's efforts to compete with Nvidia in the AI semiconductor market. Additional participants in the funding round included Cisco Investments, Infinitum, Jericho Capital, NeoFort Holding, QUDA Capital, and Worldline Capital.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F10%2F29%2Fsmall%2F4005479_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 06:54 UTC | #25759</small>]]></content>
+  </entry>
   <entry>
     <title>Marvell in Advanced Talks to Acquire Lumentum</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal" rel="alternate" />

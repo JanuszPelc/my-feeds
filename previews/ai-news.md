@@ -10,6 +10,12 @@
 
 *New AI models and agents, the tools to run them, and the products built on them.*
 
+<h2>Qwenputer Embeds RISC-V CPU into Qwen 3.5 Weights</h2>
+<a name="story-25780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdivagr.com%2Fqwenputer%2Fdemo.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Qwenputer is an experimental model based on Qwen 3.5 4B that embeds a 32-bit RISC-V CPU directly into its weights. By using Gated DeltaNet (GDN) layers as exact, addressable RAM, the CPU executes arithmetic, C, and MicroPython code during forward passes without external runtimes or tool calls.</p><p>The implementation uses one-hot key encoding for memory access and has achieved 100% accuracy on specific long-integer arithmetic benchmarks. An experimental filesystem also allows the model to store and retrieve text data via the DeltaNet state, providing persistent memory across conversation sessions.</p>
+<p><small>Links: <a href="https://divagr.com/blog/qwenputer">divagr.com</a> | <a href="https://github.com/divagr18/qwenputer">source</a> | <a href="https://news.ycombinator.com/item?id=50282838">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Artificial Analysis Releases Intelligence Index v5</h2>
 <a name="story-25730"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6vfeftx9%2Farticles%2F44b792b382975135ff1db34ca74a2502eb767158-2152x1016.png%3Fw%3D1200%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Version 5 of the Artificial Analysis Intelligence Index introduces two new benchmarks, FrontierCode 2.0 and Terminal-Bench-Science, and upgrades HLE-Diamond, AA-Omniscience v1.1, and CritPt v2. This update is the first to build 60% of the index using private datasets. The release also includes the Artificial Analysis Progress Index v1, designed to track model capability on a continuous scale over time.</p><p>Claude Opus 5.5 leads the index with a score of 58, ahead of OpenAI's GPT-6 Astra and GPT-6.1 Sol. The data indicates the gap between proprietary and open-weights models has widened from 3 points to 12 points. Furthermore, cost per task among the top 10 models varies by more than 13x.</p>
@@ -62,12 +68,6 @@
 <a name="story-25642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai-rockstars.com%2Fwp-content%2Fuploads%2F2024%2F12%2FAmazon-Nova.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is deprecating most of its Nova AI models, including text, video, and image-generation tools, as part of a strategic overhaul. The company is redirecting labor and computing resources toward a "frontier-model effort" led by Pieter Abbeel to focus on robotics and automation.</p><p>This reorganization follows the closure of an 80-person AI research office in San Francisco. Existing Nova models will enter a "keep the lights on" state, receiving minimal support while the company shifts focus toward higher-priority automation goals.</p>
 <p><small>Links: <a href="https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova">futurism.com</a> | <a href="https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7">source</a> | <a href="https://news.ycombinator.com/item?id=50261589">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Oracle Integrates ChatGPT and Codex into Applications, Expands Cloud Chip Availability</h2>
-<a name="story-25594"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.yourstory.com%2Fcs%2F286%2F07f6d7f0ed8e11ed819979969b4b51e2%2FNewss5-1779094708112.jpg%3Fmode%3Dcrop%26crop%3Dfaces%26ar%3D2%3A1%26format%3Dauto%26w%3D1920%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Oracle announced an expanded collaboration with OpenAI to integrate ChatGPT and Codex into its software applications, intending to make its databases more actionable for users. Additionally, Oracle Cloud Infrastructure (OCI) will expand its hardware availability to include Google’s Tensor Processing Units (TPUs), OpenAI’s Jalapeño chip, and Cerebras hardware.</p><p>The move provides customers with more diverse AI accelerator options to mitigate chip scarcity, complementing Oracle's existing Nvidia GPU offerings. This expansion supports Oracle's ongoing growth in global data center infrastructure, including the Project Jupiter site in New Mexico, and caters to enterprise sectors like finance and healthcare.</p>
-<p><small>Links: <a href="https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html">cnbc.com</a> | <a href="https://www.oracle.com/it/news/announcement/ai-world-oracle-reinvents-enterprise-computing-for-the-ai-era-with-openai-2026-10-27/">source</a></small></p>
 <br clear="all" />
 
 ---

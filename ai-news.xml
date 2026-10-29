@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-28T21:09:00+00:00</updated>
+  <updated>2026-10-29T00:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Qwenputer Embeds RISC-V CPU into Qwen 3.5 Weights</title>
+    <link href="https://divagr.com/blog/qwenputer" rel="alternate" />
+    <id>https://divagr.com/blog/qwenputer::v240</id>
+    <published>2026-10-29T00:26:00+00:00</published>
+    <updated>2026-10-29T00:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdivagr.com%2Fqwenputer%2Fdemo.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://divagr.com/blog/qwenputer">divagr.com</a> | <a href="https://github.com/divagr18/qwenputer">source</a> | <a href="https://news.ycombinator.com/item?id=50282838">hacker news</a></small></p><hr/><p>Qwenputer is an experimental model based on Qwen 3.5 4B that embeds a 32-bit RISC-V CPU directly into its weights. By using Gated DeltaNet (GDN) layers as exact, addressable RAM, the CPU executes arithmetic, C, and MicroPython code during forward passes without external runtimes or tool calls.</p><p>The implementation uses one-hot key encoding for memory access and has achieved 100% accuracy on specific long-integer arithmetic benchmarks. An experimental filesystem also allows the model to store and retrieve text data via the DeltaNet state, providing persistent memory across conversation sessions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdivagr.com%2Fqwenputer%2Fdemo.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 06:57 UTC | #25780</small>]]></content>
+  </entry>
   <entry>
     <title>Artificial Analysis Releases Intelligence Index v5</title>
     <link href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5" rel="alternate" />
