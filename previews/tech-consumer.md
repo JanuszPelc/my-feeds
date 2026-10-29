@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Donald Glover to Lead Netflix Adaptation of PUBG</h2>
+<a name="story-25859"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltf444fe6c2ef4562e%2F67ab6ea94aa212470924b757%2FPUBG_Header.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Netflix is developing a live-action series based on the battle royale video game PUBG: Battlegrounds. Donald Glover is set to write, direct, produce, and star in the adaptation.</p><p>This project follows the massive commercial success of the franchise, which has sold over 75 million copies. Glover is an award-winning actor and creator known for work on *Atlanta* and *Community*. No production timeline has been announced.</p>
+<p><small>Links: <a href="https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover">gamedeveloper.com</a> | <a href="https://variety.com/2026/tv/news/pubg-live-action-show-netflix-donald-glover-stephen-glover-1236934277/">source</a></small></p>
+<br clear="all" />
+
 <h2>Xbox CEO Asha Sharma Claims Console Demand Outstrips Supply Despite Declining Sales</h2>
 <a name="story-25851"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte6f842aafbaf99f9%2F68137fe0c742f41d22d5f313%2Fxbox_consoles.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Xbox CEO Asha Sharma has claimed that consumer demand for Xbox consoles exceeds current supply, attributing recent sales declines to manufacturing constraints rather than waning interest. However, Microsoft's latest financial reports show a 14% year-over-year decrease in Xbox hardware revenue, complicating the claim of unmet demand.</p><p>This hardware decline occurs as the company undergoes an organizational reset involving significant layoffs intended to drive profitability. In contrast to the gaming division's struggles, Microsoft Cloud revenue has seen substantial growth, increasing 30% year-over-year to reach $63.9 billion.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25690"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.geeky-gadgets.com%2Fwp-content%2Fuploads%2F2017%2F11%2Famazon-echo-show.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon has announced a new lineup of Alexa-powered hardware, featuring a redesigned $500 Echo Show 16 with Fire TV built-in, the $200 Echo Time bedside smart alarm clock, and the $200 Alexa Photo Frame. The company also introduced upgraded Echo Dot and Echo Studio models equipped with home camera features, raised prices across several smart speakers, and previewed the new Alexa Home Map interface.</p><p>The expanded device ecosystem aims to deepen Alexa's integration throughout the home by combining ambient displays, personal photo management, and enhanced security functions. Preorders for the new hardware launch immediately as Amazon continues to pivot its connected-home strategy toward more versatile screens and AI-driven capabilities.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/devices/new-alexa-devices-2026">source</a></small></p>
-<br clear="all" />
-
-<h2>Apple Announces New MacBook Pro with PROLED XDR Display and Touchscreen</h2>
-<a name="story-25735"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fv%2Fmacbook-pro%2Fproled-xdr-display%2Fa%2Fimages%2Foverview%2Fdisplay%2Fdisplay_hero__yusiu2eockyq_large.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has announced the redesigned MacBook Pro lineup featuring a PROLED XDR tandem OLED display and, for the first time on a Mac, an integrated touchscreen interface. Available in 14-inch and 16-inch sizes, the new laptops are powered by the M5 Pro and M5 Max chips and include the Dynamic Island, a redesigned thermal architecture, and up to 24 hours of battery life.</p><p>The PROLED XDR display delivers up to 2,000 nits of peak brightness, a 10,000,000:1 contrast ratio, and P3 plus Adobe RGB wide color support, catering to professional creative and technical workflows. Connectivity has also been upgraded with Thunderbolt 5 ports supporting multiple external displays, Wi-Fi 7, and Bluetooth 6.</p>
-<p><small>Links: <a href="https://www.apple.com/macbook-pro/proled-xdr-display/">apple.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/">source</a> | <a href="https://news.ycombinator.com/item?id=50276940">hacker news</a></small></p>
 <br clear="all" />
 
 ---
