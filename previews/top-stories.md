@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>Unredacted 1964 FBI Letter to Martin Luther King Jr. Examined by Historians</h2>
+<a name="story-25826"><img src="https://wsrv.nl/?url=https%3A%2F%2Fportside.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Ffield%2Fimage%2Fmlkletters.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In 1964, top FBI officials sent an anonymous, threatening letter and surveillance recordings of extramarital affairs to civil rights leader Martin Luther King Jr. in an effort to compel him to commit suicide. Directed by William Sullivan under FBI Director J. Edgar Hoover, the blackmail campaign followed years of intense government monitoring designed to discredit King's leadership and activism.</p><p>Yale historian Beverly Gage later unearthed a fully unredacted version of the document from archival records, revealing details previously concealed by government redactions. The text explicitly derided King's honors, including his Nobel Peace Prize, and warned him that he had 34 days to take his own life, highlighting the severe abuses of domestic intelligence agencies during the civil rights era.</p>
+<p><small>Links: <a href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter">vox.com</a> | <a href="https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html">source</a> | <a href="https://news.ycombinator.com/item?id=50288867">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>DoorDash Agrees to Acquire Instacart for $17 Billion</h2>
 <a name="story-25849"><img src="https://wsrv.nl/?url=https%3A%2F%2Famppfy.com%2Fwp-content%2Fuploads%2F2025%2F08%2F20250827_1334_Boost-Earnings-with-Delivery_simple_compose_01k3pkqypge0m9d10gz7pn6xy0-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DoorDash has entered into a definitive agreement to acquire Instacart for approximately $17 billion, valuing the grocery technology company at $65.00 per share. The transaction combines DoorDash's restaurant and local delivery network with Instacart's grocery fulfillment technology, uniting two major delivery platforms to expand merchant tools and consumer choices.</p><p>Under the terms of the agreement, Instacart stockholders can elect to receive cash, DoorDash stock, or a combination of both. The deal is expected to close in late 2027 or the first half of 2028, pending approval by Instacart stockholders and regulatory agencies including antitrust clearances in the United States, Canada, and Israel. Until closing, both companies will continue to operate independently.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25719"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Start Doing Graph Theory is a free introductory textbook designed to teach graph theory through puzzles, theorem-proving, and practical problem-solving. Written by Mikhail Lavrov, the comprehensive resource is available under a Creative Commons license for online reading or PDF download.</p><p>The text combines mathematical rigor with an accessible approach to help students learn foundational concepts. The author has also established a formal version history to track updates and revisions made to the material over time.</p>
 <p><small>Links: <a href="https://vertex.degree/">vertex.degree</a> | <a href="https://lobste.rs/s/46sc07/start_doing_graph_theory">discussion</a> | <a href="https://news.ycombinator.com/item?id=50208960">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>DreamAgainUSA Launches Interactive Wealth Inequality Graph</h2>
-<a name="story-25713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DreamAgainUSA has launched an interactive online visualization illustrating United States wealth inequality to scale. Based on data from the 2023 Survey of Consumer Finances and Federal Reserve financial accounts, the project maps household wealth percentiles using the visual metaphor of stacked $100 bills.</p><p>The platform enables users to scroll through the economic spectrum from the poorest households carrying debt to the top 0.01 percent. It provides downloadable printable versions and documentation of its methodology to facilitate public education and discussion regarding national wealth disparity.</p>
-<p><small>Links: <a href="https://dreamagainusa.org/">dreamagainusa.org</a> | <a href="https://news.ycombinator.com/item?id=50270764">hacker news</a></small></p>
 <br clear="all" />
 
 ---

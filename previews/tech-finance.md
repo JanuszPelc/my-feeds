@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Circuit Mind Raises $25 Million in Funding and Plans U.S. Relocation</h2>
+<a name="story-25801"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fcircuit-mind-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Circuit Mind has raised $25 million in new financing, including an $18.5 million Series A round led by Norwest Venture Partners, bringing its total funding to $33.4 million. The London-based startup develops artificial intelligence software designed to automate the design, verification, and optimization of electronic circuit boards for enterprise customers across aerospace, defense, and consumer industries.</p><p>Alongside the funding announcement, the company launched its Agentic Verification Engine, which uses autonomous AI agents to check electronic schematics for errors. Circuit Mind also plans to relocate its operations to the United States as it scales its electronic design intelligence platform.</p>
+<p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design">axios.com</a> | <a href="https://markets.businessinsider.com/news/stocks/circuit-mind-announces-25m-in-funding-to-accelerate-the-rise-of-electronic-design-intelligence-1036676536">source</a></small></p>
+<br clear="all" />
+
 <h2>Kalshi Raises $1 Billion in Funding Round at $40 Billion Valuation</h2>
 <a name="story-25798"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thecoinrepublic.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-359.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kalshi has closed a $1 billion Series G funding round that values the prediction market platform at $40 billion, nearly doubling its valuation from May. The financing was led by Sequoia Capital and Wellington Management, with participation from major institutional investors including Baillie Gifford and Morgan Stanley Investment Management.</p><p>The new valuation establishes Kalshi ahead of rival Polymarket amid surging growth in prediction markets for politics, sports, and economic events. Chief Executive Tarek Mansour stated that the company has held discussions regarding a potential initial public offering following the capital raise.</p>
@@ -61,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <p>FuriosaAI, a Seoul-based AI chip startup, has secured $620 million in Series D funding, bringing its valuation to $2.9 billion. The round included $280 million from South Korea's National Growth Fund, a substantial increase from the company's $735 million valuation in 2025.</p><p>Capital from the round will support the company's efforts to compete with Nvidia in the AI semiconductor market. Additional participants in the funding round included Cisco Investments, Infinitum, Jericho Capital, NeoFort Holding, QUDA Capital, and Worldline Capital.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase">bloomberg.com</a> | <a href="https://furiosa.ai/blog/furiosaai-620-million-series-d">source</a></small></p>
 <br clear="all" />
-
-<h2>Marvell in Advanced Talks to Acquire Lumentum</h2>
-<p>Marvell Technology Inc. is in advanced negotiations to acquire Lumentum Holdings Inc., a provider of data center optics, according to people familiar with the matter. The deal could be announced as early as next week and involves Lumentum, which has a market value of approximately $83 billion.</p><p>The acquisition would expand Marvell's optical component portfolio to meet the growing demands of artificial intelligence infrastructure. This move is intended to bolster the company's competitive standing against rivals like Broadcom in the AI-related technology market.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal">bloomberg.com</a></small></p>
 
 ---
 

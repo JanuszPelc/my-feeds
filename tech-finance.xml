@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T16:47:00+00:00</updated>
+  <updated>2026-10-29T16:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Circuit Mind Raises $25 Million in Funding and Plans U.S. Relocation</title>
+    <link href="https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design" rel="alternate" />
+    <id>https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design::v240</id>
+    <published>2026-10-29T16:50:00+00:00</published>
+    <updated>2026-10-29T16:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fcircuit-mind-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design">axios.com</a> | <a href="https://markets.businessinsider.com/news/stocks/circuit-mind-announces-25m-in-funding-to-accelerate-the-rise-of-electronic-design-intelligence-1036676536">source</a></small></p><hr/><p>Circuit Mind has raised $25 million in new financing, including an $18.5 million Series A round led by Norwest Venture Partners, bringing its total funding to $33.4 million. The London-based startup develops artificial intelligence software designed to automate the design, verification, and optimization of electronic circuit boards for enterprise customers across aerospace, defense, and consumer industries.</p><p>Alongside the funding announcement, the company launched its Agentic Verification Engine, which uses autonomous AI agents to check electronic schematics for errors. Circuit Mind also plans to relocate its operations to the United States as it scales its electronic design intelligence platform.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fcircuit-mind-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 19:26 UTC | #25801</small>]]></content>
+  </entry>
   <entry>
     <title>Kalshi Raises $1 Billion in Funding Round at $40 Billion Valuation</title>
     <link href="https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html" rel="alternate" />
