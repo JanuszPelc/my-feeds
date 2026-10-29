@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-29T17:01:00+00:00</updated>
+  <updated>2026-10-29T19:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Chained PHP2Shell and Kernel Exploit Compromises 25 Palo Alto Networks Servers</title>
+    <link href="https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers" rel="alternate" />
+    <id>https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers::v240</id>
+    <published>2026-10-29T19:58:00+00:00</published>
+    <updated>2026-10-29T19:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6a146a5aca0b1a41051708a5%2F6ae0916527e477c7abbb7f44_6ae090fd9d4636df82361954_PHP2Shell-fig-01-timeline-final.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers">dreamgroup.com</a> | <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">source</a> | <a href="https://news.ycombinator.com/item?id=50286987">hacker news</a></small></p><hr/><p>Dream researchers identified a campaign targeting Palo Alto Networks PAN-OS firewalls using a chained exploit involving PHP2Shell (CVE-2026-109618/CVE-2026-109619) and the Fragnesia kernel privilege-escalation vulnerability (CVE-2026-46300). The attack achieved root access in under 15 minutes, compromising 25 servers across the United States, Japan, Taiwan, and South Korea, including systems in a US government-affiliated environment.</p><p>After gaining root access, attackers established persistent reverse SSH tunnels to pivot from management interfaces into internal networks, targeting Active Directory for credential extraction and enumeration. Investigators also identified evidence of AI-assisted tooling in the attack infrastructure, including the use of Claude Code and offensive security platforms configured with Chinese large language models.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6a146a5aca0b1a41051708a5%2F6ae0916527e477c7abbb7f44_6ae090fd9d4636df82361954_PHP2Shell-fig-01-timeline-final.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 22:05 UTC | #25886</small>]]></content>
+  </entry>
   <entry>
     <title>Recommendations Sought for Self-Hosted Family Password Managers</title>
     <link href="https://lobste.rs/s/eccbci/shared_password_manager_for_families" rel="alternate" />

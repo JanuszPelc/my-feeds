@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Chained PHP2Shell and Kernel Exploit Compromises 25 Palo Alto Networks Servers</h2>
+<a name="story-25886"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6a146a5aca0b1a41051708a5%2F6ae0916527e477c7abbb7f44_6ae090fd9d4636df82361954_PHP2Shell-fig-01-timeline-final.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dream researchers identified a campaign targeting Palo Alto Networks PAN-OS firewalls using a chained exploit involving PHP2Shell (CVE-2026-109618/CVE-2026-109619) and the Fragnesia kernel privilege-escalation vulnerability (CVE-2026-46300). The attack achieved root access in under 15 minutes, compromising 25 servers across the United States, Japan, Taiwan, and South Korea, including systems in a US government-affiliated environment.</p><p>After gaining root access, attackers established persistent reverse SSH tunnels to pivot from management interfaces into internal networks, targeting Active Directory for credential extraction and enumeration. Investigators also identified evidence of AI-assisted tooling in the attack infrastructure, including the use of Claude Code and offensive security platforms configured with Chinese large language models.</p>
+<p><small>Links: <a href="https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers">dreamgroup.com</a> | <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">source</a> | <a href="https://news.ycombinator.com/item?id=50286987">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Recommendations Sought for Self-Hosted Family Password Managers</h2>
 <a name="story-25860"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedevel.com%2Fcontent%2Fimages%2F2024%2F12%2FAccount_List.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A user on Lobsters is seeking recommendations for a shared password manager to manage financial and insurance accounts with elderly family members across long distances. The requirements include support for non-technical users without command-line interfaces, cross-platform compatibility with Linux, macOS, and iOS, and optional self-hosting capabilities.</p><p>While commercial services like 1Password are commonly used for family sharing, security concerns prompt interest in alternatives. Potential options include synchronized KeePass databases via cloud storage or file synchronization tools, though the goal remains finding a streamlined setup that minimizes friction for less technical relatives.</p>
@@ -61,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <p>GitHub recorded 7.4 billion commits in September 2026, a significant surge driven largely by increased demand from AI agents. To manage this growth, the company has added 4 million CPU cores and 160 petabytes of high-speed storage to its infrastructure.</p><p>The company is also rearchitecting its platform to decouple compute and storage to address scaling and reliability challenges. Internal benchmarks suggest this new architecture can deliver up to 35 times higher write throughput for Git operations.</p>
 <p><small>Links: <a href="https://thenewstack.io/github-7-4b-commits-september/">thenewstack.io</a> | <a href="https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/">source</a> | <a href="https://news.ycombinator.com/item?id=50279722">hacker news</a></small></p>
 <br clear="all" />
-
-<h2>Daishin Securities, Mirae Asset, and Bithumb Hit by Cyberattacks in South Korea</h2>
-<p>South Korean financial institutions Daishin Securities, Mirae Asset Global Investments, and cryptocurrency exchange Bithumb have experienced a fresh wave of data breaches and cybersecurity incidents. Daishin disclosed that the personal information of 38,490 customers was compromised, while Mirae and Bithumb reported unauthorized access to internal systems as authorities investigate the scale of the breaches.</p><p>The incidents follow a prior series of attacks targeting 16 South Korean financial entities amid concerns over growing regional cyber risks. In response to the latest security failures, South Korean financial regulators and the presidential office have convened emergency meetings to heighten oversight and conduct inspections across private sector IT systems.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/">techcrunch.com</a></small></p>
 
 ---
 
