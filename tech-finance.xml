@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-28T22:06:00+00:00</updated>
+  <updated>2026-10-28T22:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>eBay Reports $3.21 Billion in Third-Quarter Revenue</title>
+    <link href="https://www.wsj.com/business/retail/ebay-sales-rise-on-strength-in-collectibles-live-shopping-77cd8df4" rel="alternate" />
+    <id>https://www.wsj.com/business/retail/ebay-sales-rise-on-strength-in-collectibles-live-shopping-77cd8df4::v240</id>
+    <published>2026-10-28T22:26:00+00:00</published>
+    <updated>2026-10-28T22:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fearnings%2FEBAY.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/retail/ebay-sales-rise-on-strength-in-collectibles-live-shopping-77cd8df4">wsj.com</a> | <a href="https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2026-results/">source</a></small></p><hr/><p>eBay reported third-quarter revenue of $3.21 billion, a 14% year-over-year increase that exceeded analyst estimates of $3.12 billion. Gross merchandise volume (GMV) rose 15% to $23.17 billion, surpassing the projected $22.32 billion.</p><p>Growth was supported by momentum in key categories such as collectibles and live shopping. eBay's stock rose more than 4% in after-hours trading following the announcement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fearnings%2FEBAY.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 05:27 UTC | #25763</small>]]></content>
+  </entry>
   <entry>
     <title>ServiceNow Shares Fall Following Lower-Than-Expected Q4 Sales Outlook</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-28/servicenow-falls-after-quarterly-sales-outlook-revives-ai-fears" rel="alternate" />

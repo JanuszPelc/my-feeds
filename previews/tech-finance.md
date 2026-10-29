@@ -10,6 +10,12 @@
 
 *Where the money in tech goes, from funding rounds and deals to earnings.*
 
+<h2>eBay Reports $3.21 Billion in Third-Quarter Revenue</h2>
+<a name="story-25763"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fearnings%2FEBAY.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>eBay reported third-quarter revenue of $3.21 billion, a 14% year-over-year increase that exceeded analyst estimates of $3.12 billion. Gross merchandise volume (GMV) rose 15% to $23.17 billion, surpassing the projected $22.32 billion.</p><p>Growth was supported by momentum in key categories such as collectibles and live shopping. eBay's stock rose more than 4% in after-hours trading following the announcement.</p>
+<p><small>Links: <a href="https://www.wsj.com/business/retail/ebay-sales-rise-on-strength-in-collectibles-live-shopping-77cd8df4">wsj.com</a> | <a href="https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2026-results/">source</a></small></p>
+<br clear="all" />
+
 <h2>ServiceNow Shares Fall Following Lower-Than-Expected Q4 Sales Outlook</h2>
 <a name="story-25764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGwknNQxXwAE070c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ServiceNow reported third-quarter subscription revenue of $3.99 billion, a 21% increase year-over-year. However, the company's fourth-quarter outlook for current remaining performance obligations fell below analyst estimates, leading to a share price decline of over 15% in after-hours trading.</p><p>The cautious sales guidance has renewed investor concerns about the impact of artificial intelligence on long-term growth. Although third-quarter revenue remains strong, the projected outlook for upcoming obligations has introduced uncertainty regarding future demand.</p>
@@ -62,12 +68,6 @@
 <a name="story-25615"><img src="https://wsrv.nl/?url=https%3A%2F%2Fascendants.in%2Fwp-content%2Fuploads%2F2026%2F03%2Frobotic-startup-physical-intelligence.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Physical Intelligence is negotiating to raise more than $1 billion in new funding at a valuation of approximately $20 billion. The round is reportedly being led by Avenir and Lux Capital.</p><p>The company develops artificial intelligence software designed to enable robots to perform real-world tasks. If the negotiations succeed, the new valuation would nearly double the startup's $11.5 billion valuation from earlier in 2026.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>General Motors to Move Stock Listing from NYSE to Nasdaq on November 17</h2>
-<a name="story-25603"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.tipranks.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fimage-852.png%3Futm_source%3Dnasdaq.com%26utm_medium%3Dreferral&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>General Motors will transfer its common stock listing from the New York Stock Exchange to Nasdaq on November 17, 2026. The move supports the company's strategic shift toward artificial intelligence and autonomous vehicle development.</p><p>This transition is part of an initiative led by Sterling Anderson to use AI to accelerate GM's development cycles and manufacturing. The automaker will continue to trade under the 'GM' ticker symbol on the new exchange.</p>
-<p><small>Links: <a href="https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270">ft.com</a> | <a href="https://www.prnewswire.com/news-releases/gm-announces-transfer-of-stock-exchange-listing-to-nasdaq-302920230.html">source</a></small></p>
 <br clear="all" />
 
 ---
