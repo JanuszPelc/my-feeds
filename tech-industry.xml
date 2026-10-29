@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T14:22:00+00:00</updated>
+  <updated>2026-10-29T14:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>US Battery Storage Installations Reach Record 20.2 GWh in Q2 2026</title>
+    <link href="https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/" rel="alternate" />
+    <id>https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/::v240</id>
+    <published>2026-10-29T14:32:00+00:00</published>
+    <updated>2026-10-29T14:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F06%2FGreen-River-Energy-Center-Utah.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/">electrek.co</a> | <a href="https://seia.org/news/largest-quarter-on-record-for-energy-storage/">source</a> | <a href="https://news.ycombinator.com/item?id=50287001">hacker news</a></small></p><hr/><p>The United States added a record 20.2 gigawatt-hours of battery storage capacity in the second quarter of 2026, bringing total installations for the first half of the year to 30.8 GWh according to a report from the Solar Energy Industries Association and Benchmark Mineral Intelligence. Growth was overwhelmingly driven by utility-scale projects, which accounted for approximately 18 GWh of the quarterly total, led by heavy deployment in Arizona, Texas, and Utah.</p><p>While utility-scale and commercial segments expanded rapidly to meet rising grid demand and data center constraints, residential battery storage experienced a 27% year-over-year decline in Q2 following the removal of the federal 25D residential clean energy tax credit. Driven by stronger-than-expected demand, Benchmark raised its cumulative storage forecast through 2030 by 11.5% to 683 GWh, with projected total installations for 2026 reaching 71 GWh.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F06%2FGreen-River-Energy-Center-Utah.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 17:19 UTC | #25844</small>]]></content>
+  </entry>
   <entry>
     <title>Bloomberg, Susquehanna, and Jump Trading Subscribe to Truth Social API Feed</title>
     <link href="https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/" rel="alternate" />

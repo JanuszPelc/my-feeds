@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-29T14:23:00+00:00</updated>
+  <updated>2026-10-29T14:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Vladimir Putin Praises Elon Musk as Real Genius Amid Satellite Discussions</title>
+    <link href="https://www.bbc.com/news/articles/c63djl148n3eo" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/c63djl148n3eo::v240</id>
+    <published>2026-10-29T14:30:00+00:00</published>
+    <updated>2026-10-29T14:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcontent.api.news%2Fv3%2Fimages%2Fbin%2F98338412430e0d86b34f3d3d5d451647&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bbc.com/news/articles/c63djl148n3eo">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=50282826">hacker news</a></small></p><hr/><p>Russian President Vladimir Putin described Elon Musk as a "real genius" during the Russia-Africa Summit in Moscow, revealing that he is in close contact with American partners regarding satellite technology. Putin stated that coordination is necessary to ensure that Russia's Rassvet satellite internet project and SpaceX's Starlink do not interfere with each other in orbit.</p><p>The remarks come as Russia develops its own satellite internet network, which officials have described as an alternative to Starlink. While Starlink has deployed roughly 13,000 satellites, Russia's Rassvet system currently maintains only a small number in orbit. The dialogue between Russian officials and Musk highlights ongoing space coordination despite broader geopolitical tensions and the ongoing conflict in Ukraine.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent.api.news%2Fv3%2Fimages%2Fbin%2F98338412430e0d86b34f3d3d5d451647&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 17:15 UTC | #25793</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Identified as Target of Chinese Intelligence Asset</title>
     <link href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj&amp;smid=nytcore-ios-share" rel="alternate" />

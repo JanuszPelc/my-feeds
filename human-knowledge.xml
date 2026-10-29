@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-29T06:43:00+00:00</updated>
+  <updated>2026-10-29T14:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>UC Davis Mathematicians Challenge Dark Energy with Study on Spacetime Instability</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261028232719.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261028232719.htm::v240</id>
+    <published>2026-10-29T14:31:00+00:00</published>
+    <updated>2026-10-29T14:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2F8640134743cb85df200a734d26f60657072772a8%2F13-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261028232719.htm">sciencedaily.com</a> | <a href="https://royalsocietypublishing.org/rspa/article/482/2338/20250912/481920/The-instability-of-critical-and-underdense">source</a></small></p><hr/><p>Researchers at the University of California, Davis, have published a study in the Proceedings of the Royal Society A suggesting that the accelerating expansion of the universe can be explained by Einstein's original equations without invoking dark energy. By analyzing the stability of Friedmann spacetimes at the Big Bang using the Einstein-Euler equations, the team found that conventional cosmological models exhibit a fundamental instability at both small and large scales.</p><p>The mathematical analysis indicates that disturbances in these standard spacetimes grow over time, implying that cosmic acceleration could emerge naturally from general relativity rather than requiring a cosmological constant. While the study provides a theoretical challenge to the Lambda-cold dark matter model, establishing whether this alternative framework reflects actual observations will require further empirical testing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2F8640134743cb85df200a734d26f60657072772a8%2F13-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 17:16 UTC | #25808</small>]]></content>
+  </entry>
   <entry>
     <title>Computer Analysis of the Norse Board Game Starve the Fox</title>
     <link href="https://entropicthoughts.com/what-the-fox-say" rel="alternate" />
