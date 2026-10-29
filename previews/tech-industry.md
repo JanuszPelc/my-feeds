@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Palantir CTO Shyam Sankar Discusses AI Diffusion and Enterprise Workflows</h2>
+<a name="story-25804"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Fyoutube%2Fw_728%2Cc_limit%2FFjHHPqMl5Xk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In a Stratechery interview, Palantir CTO Shyam Sankar argues that the artificial intelligence industry is currently over-investing in model creation and under-investing in diffusion, emphasizing that organizations must focus on transforming entire workflows rather than merely increasing individual knowledge-worker productivity.</p><p>Sankar also examines why institutions using AI for top-line expansion and market dominance outperform those focused strictly on headcount reduction, while sharing lessons from Palantir's operational strategies, forward-deployed engineering, and the broader economic implications of industrial capacity.</p>
+<p><small>Links: <a href="https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/">stratechery.com</a></small></p>
+<br clear="all" />
+
 <h2>Amazon Updates Alexa with Over 100 New Shopping Capabilities</h2>
 <a name="story-25806"><img src="https://wsrv.nl/?url=https%3A%2F%2Flogie.ai%2Fnews%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Famazon_alexa_shopping_graphic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ahead of the holiday season, Amazon has introduced more than 100 new shopping-related capabilities to its Alexa assistant. The updates enable users to manage shopping lists, handle subscription changes like Subscribe &amp; Save modifications, and update delivery instructions directly through voice commands.</p><p>Consumers can also use the assistant to address billing or payment issues and inquire about details regarding their Prime or Audible memberships. Amazon reports that the adoption of agentic features has expanded significantly over the past year, with hundreds of millions of users utilizing Alexa for shopping.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.lsvisionhd.com%2Fwp-content%2Fuploads%2F2026%2F03%2FMemory-Price-Surge-in-Q1-2026-Driven-by-Supply-Disruptions-and-AI-Demand-1024x572.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Surging demand for flash memory from artificial intelligence data centers has caused prices to quintuple, significantly altering negotiating leverage in the semiconductor industry. For years, Apple held dominant bargaining power, routinely compelling flash-storage manufacturers to accept steep discounts for its devices.</p><p>However, the rapid expansion of AI hyperscalers has absorbed available chip supply and driven up costs, leaving suppliers such as Kioxia with newfound market power. This supply-demand imbalance highlights how infrastructure investments in artificial intelligence are reshaping pricing dynamics and supply chains across major consumer electronics manufacturers.</p>
 <p><small>Links: <a href="https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=jB9Xwc&reflink=desktopwebshare_permalink">wsj.com</a></small></p>
-<br clear="all" />
-
-<h2>US DOJ Inquires About Nvidia&#x27;s $12.9 Billion Hugging Face Acquisition</h2>
-<a name="story-25760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6a906df0a8a32784cdb5c100%2Fmaster%2Fw_2560%2Cc_limit%2FNvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The US Department of Justice has inquired about Nvidia's $12.93 billion acquisition of Hugging Face to evaluate its potential impact on competition in the artificial intelligence market. Regulators are specifically investigating whether the deal would give Nvidia control over a key distribution point for AI models.</p><p>This inquiry is part of a broader probe into Nvidia's business conduct, covering its investments, sales practices, and potential pressure exerted on customers. The investigation seeks to determine if the company's market dominance is being used to disadvantage competitors.</p>
-<p><small>Links: <a href="https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50280732">hacker news</a></small></p>
 <br clear="all" />
 
 ---

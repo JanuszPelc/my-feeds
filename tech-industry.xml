@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T14:47:00+00:00</updated>
+  <updated>2026-10-29T16:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Palantir CTO Shyam Sankar Discusses AI Diffusion and Enterprise Workflows</title>
+    <link href="https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/" rel="alternate" />
+    <id>https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/::v240</id>
+    <published>2026-10-29T16:54:00+00:00</published>
+    <updated>2026-10-29T16:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Fyoutube%2Fw_728%2Cc_limit%2FFjHHPqMl5Xk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/">stratechery.com</a></small></p><hr/><p>In a Stratechery interview, Palantir CTO Shyam Sankar argues that the artificial intelligence industry is currently over-investing in model creation and under-investing in diffusion, emphasizing that organizations must focus on transforming entire workflows rather than merely increasing individual knowledge-worker productivity.</p><p>Sankar also examines why institutions using AI for top-line expansion and market dominance outperform those focused strictly on headcount reduction, while sharing lessons from Palantir's operational strategies, forward-deployed engineering, and the broader economic implications of industrial capacity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Fyoutube%2Fw_728%2Cc_limit%2FFjHHPqMl5Xk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 19:40 UTC | #25804</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Updates Alexa with Over 100 New Shopping Capabilities</title>
     <link href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/" rel="alternate" />

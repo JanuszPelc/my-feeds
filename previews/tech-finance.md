@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Wabi Raises $55 Million at $1.25 Billion Valuation</h2>
+<a name="story-25816"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fwabi-raises-55m-at-1-25b-valuation-to-grow-personal-ai-assistant.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI agent startup Wabi has raised $55 million in a funding round led by IVP, bringing its valuation to $1.25 billion. Founded by Replika creator Eugenia Kuyda, the company recently pivoted from a prompt-based mini-app creator to an AI messaging platform that functions as a personal assistant.</p><p>The financing round included participation from Andreessen Horowitz, Forerunner, and the Amazon Alexa Fund, alongside high-profile angel investors including Tobi Lütke and Marc Benioff. Wabi's updated software is designed to build custom interfaces and coordinate tasks for users, capitalizing on surging market interest in consumer AI agents.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/">techcrunch.com</a> | <a href="https://www.prnewswire.com/news-releases/wabi-raises-55-million-at-a-1-25-billion-valuation-following-strong-early-demand-302923254.html">source</a></small></p>
+<br clear="all" />
+
 <h2>Circuit Mind Raises $25 Million in Funding and Plans U.S. Relocation</h2>
 <a name="story-25801"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fcircuit-mind-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Circuit Mind has raised $25 million in new financing, including an $18.5 million Series A round led by Norwest Venture Partners, bringing its total funding to $33.4 million. The London-based startup develops artificial intelligence software designed to automate the design, verification, and optimization of electronic circuit boards for enterprise customers across aerospace, defense, and consumer industries.</p><p>Alongside the funding announcement, the company launched its Agentic Verification Engine, which uses autonomous AI agents to check electronic schematics for errors. Circuit Mind also plans to relocate its operations to the United States as it scales its electronic design intelligence platform.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25758"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fai-startup-cognition-raises-300m-10b-valuation-armada-crusoe-secure-131m-1b-ai-39f32fad%2Fcc8747ecf416495db69aef6e06565ac9c1315eafdb0eb69942a76c772be6b5ae.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI coding startup Cognition is considering a new funding round before the end of the year after receiving investor offers valuing the company between $70 billion and $80 billion. The potential new round follows a recent Series E fundraise in September that valued the startup at $48 billion.</p><p>The rapid valuation growth highlights surging investor demand in the AI software-engineering and coding assistant market, where Cognition's Devin agent competes. The company's previous $2 billion funding round brought its valuation up from prior marks earlier in the year.</p>
 <p><small>Links: <a href="https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10">businessinsider.com</a></small></p>
-<br clear="all" />
-
-<h2>FuriosaAI Raises $620 Million in Series D at $2.9 Billion Valuation</h2>
-<a name="story-25759"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F10%2F29%2Fsmall%2F4005479_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>FuriosaAI, a Seoul-based AI chip startup, has secured $620 million in Series D funding, bringing its valuation to $2.9 billion. The round included $280 million from South Korea's National Growth Fund, a substantial increase from the company's $735 million valuation in 2025.</p><p>Capital from the round will support the company's efforts to compete with Nvidia in the AI semiconductor market. Additional participants in the funding round included Cisco Investments, Infinitum, Jericho Capital, NeoFort Holding, QUDA Capital, and Worldline Capital.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase">bloomberg.com</a> | <a href="https://furiosa.ai/blog/furiosaai-620-million-series-d">source</a></small></p>
 <br clear="all" />
 
 ---

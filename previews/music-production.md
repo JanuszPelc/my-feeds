@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>A Sound Effect Offers 344 SFX Jump Scares Horror Sound Library for Free</h2>
+<a name="story-25821"><img src="https://wsrv.nl/?url=https%3A%2F%2Fartlist-albums.imgix.net%2Fimages%2F9545_848754_848754_Just_Sound_Effects_-_Jump_Scares_-_A.jpg%3Fauto%3Dformat%26fit%3Dmax%26w%3D640%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audio marketplace A Sound Effect is offering the Jump Scares horror sound effects library by 344 SFX for free to its newsletter subscribers. Normally priced at $27, the collection includes 100 royalty-free sounds such as heavy slasher impacts, mangled screams, and atonal stingers recorded at 24-bit/96 kHz.</p><p>The promotional offer is available to both new and existing subscribers for a limited time. The sound pack is designed for multimedia projects including film, television, games, and podcasts, drawing inspiration from prominent horror films.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/jump-scares-horror-sound-library/">bedroomproducersblog.com</a> | <a href="https://www.asoundeffect.com/gift/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/jump-scares-horror-sound-library/#respond">discussion</a></small></p>
+<br clear="all" />
+
+<h2>Hivetune Releases Marimbox Free Marimba Plugin</h2>
+<a name="story-25822"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F10%2FHivetune-Marimbox.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hivetune has released Marimbox, a virtual marimba instrument for macOS and Windows that features stereo-sampled acoustic recordings and built-in effects. The free edition includes four playing styles—Cord, Deadstroke, Rubber, and Yarn—along with envelope controls and up to 64 voices of polyphony.</p><p>A $4.99 Complete Edition adds a sustained roll articulation, while the free version provides access to the core sound engine, attack and release faders, and echo and reverb effects. The plugin operates as a VST3, AU, and standalone application.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/hivetune-marimbox/">bedroomproducersblog.com</a> | <a href="https://hivetune.com/store/marimbox/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/hivetune-marimbox/#respond">discussion</a></small></p>
+<br clear="all" />
+
 <h2>HoRNet FilterSolo Plugin Available Free for Limited Time</h2>
 <a name="story-25823"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiEcEbwX67QOPdSlEOVVdwFUE-CT9oETvlUqT4LfjTjBr00UFr2RLtbIKnQCqf9N2S0X6kJhrUzCEj7f0C-67vW3-aHgZrW85duAvwPiNEPRvh9JHrijkL5UJkYtHUyILOTOK9PXP-sLD6PZID3PTIFS5h5NVxorxli3b4TzcYvwCD4ZcLF70eD2LeGWJio%2Fw1200-h630-p-k-no-nu%2FHornet-FilterSolo-by-Hornet-Plugins.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HoRNet Plugins is offering its FilterSolo resonant filter plugin for free for a limited time until November 1. Users can obtain the plugin by applying a promotional code at checkout on the developer's website.</p><p>FilterSolo features analog-style saturation, extensive modulation options, and multi-mode filtering capabilities for macOS and Windows in standard plugin formats. The plugin is normally a paid product and supports common digital audio workstations for music production.</p>
@@ -54,18 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25694"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_775981-MLB50867138396_072022-O.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vochlea has announced a promotional offer featuring Native Instruments Empire Breaks for users of its voice-to-MIDI production tools.</p><p>The collaboration provides music producers with additional virtual instrument content alongside vocal-driven workflow solutions.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/28/vochlea-empire-breaks/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/28/vochlea-empire-breaks/#respond">discussion</a></small></p>
-<br clear="all" />
-
-<h2>KVR Audio Updates News Coverage Policies and Developer Guidelines for AI-Generated Releases</h2>
-<a name="story-25705"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fno-ai-in-the-music-studio.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>KVR Audio has announced upcoming changes to its news coverage policies and developer guidelines in response to a surge in low-effort and AI-generated plugin submissions. Citing an unsustainable volume of applications—including instances of dozens of plugins released simultaneously with minimal testing or support—the platform is adjusting how new software is introduced to its audience.</p><p>Under the updated guidelines, product announcements from unapproved developers registered after January 1, 2026, will be directed to a dedicated New Developer Product Release Forum rather than the main news feed. These developers must undergo manual review, demonstrate product accountability, and build a record of positive community feedback before their releases can be considered for front-page news coverage.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/kvr-audio-ai-policies-upcoming-changes-to-our-news-coverage-and-guidelines-for-developers-69478?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69478">kvraudio.com</a></small></p>
-<br clear="all" />
-
-<h2>Karoryfer Samples Releases Four Fifths Bowed String Library</h2>
-<a name="story-25680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffour_fifths_sq_500.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Karoryfer Samples has released Four Fifths, a bowed string sample library designed for Plogue sforzando that focuses on aggressive, folky rhythmic playing and sampled double-stops. The library includes recordings of a double bass, a basy three-string folk bass, a cello, and a fiddle, utilizing consistent keyswitches and microphone setups across all instruments.</p><p>The collection features over 5,000 WAV samples totaling more than 900 megabytes, incorporating multiple round robins, dynamic layers, bow attack controls, and a layering patch. It requires Plogue sforzando version 1.981 or newer and is available at an introductory price of $19 until November 28, 2026, before rising to $39.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/karoryfer-samples-releases-four-fifths-bowed-string-library-for-sforzando-69466?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69466">kvraudio.com</a> | <a href="https://shop.karoryfer.com/products/four-fifths">source</a></small></p>
 <br clear="all" />
 
 ---

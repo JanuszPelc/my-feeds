@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T16:50:00+00:00</updated>
+  <updated>2026-10-29T16:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Wabi Raises $55 Million at $1.25 Billion Valuation</title>
+    <link href="https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/::v240</id>
+    <published>2026-10-29T16:58:00+00:00</published>
+    <updated>2026-10-29T16:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fwabi-raises-55m-at-1-25b-valuation-to-grow-personal-ai-assistant.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/">techcrunch.com</a> | <a href="https://www.prnewswire.com/news-releases/wabi-raises-55-million-at-a-1-25-billion-valuation-following-strong-early-demand-302923254.html">source</a></small></p><hr/><p>AI agent startup Wabi has raised $55 million in a funding round led by IVP, bringing its valuation to $1.25 billion. Founded by Replika creator Eugenia Kuyda, the company recently pivoted from a prompt-based mini-app creator to an AI messaging platform that functions as a personal assistant.</p><p>The financing round included participation from Andreessen Horowitz, Forerunner, and the Amazon Alexa Fund, alongside high-profile angel investors including Tobi Lütke and Marc Benioff. Wabi's updated software is designed to build custom interfaces and coordinate tasks for users, capitalizing on surging market interest in consumer AI agents.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fwabi-raises-55m-at-1-25b-valuation-to-grow-personal-ai-assistant.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 19:43 UTC | #25816</small>]]></content>
+  </entry>
   <entry>
     <title>Circuit Mind Raises $25 Million in Funding and Plans U.S. Relocation</title>
     <link href="https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design" rel="alternate" />
