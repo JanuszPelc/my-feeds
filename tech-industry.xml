@@ -3,9 +3,17 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T10:42:00+00:00</updated>
+  <updated>2026-10-29T14:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Bloomberg, Susquehanna, and Jump Trading Subscribe to Truth Social API Feed</title>
+    <link href="https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/" rel="alternate" />
+    <id>https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/::v240</id>
+    <published>2026-10-29T14:22:00+00:00</published>
+    <updated>2026-10-29T14:22:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/">reuters.com</a></small></p><hr/><p>Bloomberg, Susquehanna International Group, and Jump Trading have subscribed to Truth Social's paid API feed, securing faster access to President Donald Trump's posts. The subscribers are reportedly paying between $60,000 and $100,000 per month for the high-speed data stream.</p><p>The API service, launched by Trump Media, offers early access to social media content that can frequently influence financial markets and trading volumes. Representatives for Bloomberg, Susquehanna, and Jump Trading declined to comment on the agreements.</p><hr/><small>29 Oct 2026, 16:23 UTC | #25788</small>]]></content>
+  </entry>
   <entry>
     <title>Tencent Cloud Shifts AI Focus to Businesses Under CEO Dowson Tong</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship" rel="alternate" />
