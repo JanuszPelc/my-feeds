@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Anthony Marinelli Discusses Synth Programming and Film Scoring Career</h2>
+<a name="story-25840"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fartboard4.1793182324.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Veteran synthesist and composer Anthony Marinelli reflects on his decades-long career in music production and film scoring, recounting his early work on classic hardware like the ARP 2600 and his contributions to landmark projects including Michael Jackson's Thriller.</p><p>Drawing on his experiences navigating pre-MIDI synchronization challenges and scoring films such as Blue Thunder, Marinelli discusses how his practical studio background inspired his educational platforms, including the Think Like a Synth and Bass DNA courses designed to teach foundational sound design.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/-68871?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68871">kvraudio.com</a></small></p>
+<br clear="all" />
+
 <h2>Daniel Fernandes Releases Free Spotlight Stereo Shaping Plugin</h2>
 <a name="story-25853"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.image-line.com%2Ffl-studio-learning%2Ffl-studio-online-manual%2Fhtml%2Fimg_plug%2Fstereoshaper_tutorial5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Daniel Fernandes has released Spotlight, a free, pay-what-you-want stereo shaping plugin currently in beta for Windows, Linux, and macOS. The plugin features a minimalist interface that allows users to adjust both a sound's stereo width and panning simultaneously by dragging a single dot across a semicircular surface.</p><p>Users can refine their settings by scrolling to adjust stereo focus independently or right-clicking and dragging to alter the pan, while a Ctrl-click resets both parameters. Distributed via Ko-fi in VST3, CLAP, and AUv2 formats, the release includes thoroughly tested builds for Windows and Linux alongside experimental support for macOS.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25749"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Funtitled-3.1707831128.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>KVR Studio Manager has been updated to version 0.5.0.0 in its public beta for macOS and Windows. The update introduces folder monitoring that suggests scans when changes are detected, a notification system for sync and scan results, and the ability to select specific active plugin formats.</p><p>Other improvements include asynchronous syncing, automatic login for saved passwords, and the ability to rescan individual plugins via a right-click menu. On macOS, the application now reports plugin architecture—such as Apple Silicon, Universal, or Intel—and includes a compact view option for the plugin list.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/kvr-studio-manager-public-beta-updated-to-v0-5-0-0---folder-monitoring-notifications-active-plugin-formats-auto-login-and-more-69482?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69482">kvraudio.com</a> | <a href="https://www.kvraudio.com/kvr-studio-manager">source</a></small></p>
-<br clear="all" />
-
-<h2>sonicLAB Releases Thermo3 Cybernetic Feedback Instrument</h2>
-<a name="story-25750"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fimgone.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>sonicLAB has released Thermo3, a cybernetic feedback instrument that combines oscillator feedback, self-regulation, stochastic modulation, and performer intervention. The plugin is available in VST3 and AU formats for Windows and macOS (Apple Silicon and Intel).</p><p>The update introduces oversampling up to 16x, a dedicated thermal stage with heat and cooling controls, and new transfer functions and injection modes. The software is priced at £99 GBP, with a £17 GBP upgrade option available for Thermo2 users.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/soniclab-releases-thermo3-69480?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69480">kvraudio.com</a> | <a href="https://837a4c-41.myshopify.com/products/thermo3">source</a></small></p>
 <br clear="all" />
 
 ---
