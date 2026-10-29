@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-28T23:03:00+00:00</updated>
+  <updated>2026-10-29T02:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>V12 Research Reveals Weak AES-256 Key Generation in Multiple PDF Implementations</title>
+    <link href="https://v12.sh/blog/the-case-of-the-9bit-aes-key" rel="alternate" />
+    <id>https://v12.sh/blog/the-case-of-the-9bit-aes-key::v240</id>
+    <published>2026-10-29T02:14:00+00:00</published>
+    <updated>2026-10-29T02:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fv12.sh%2Fcdn%2F_astro%2Fcover.CF5x0X6B_1N5vR.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://v12.sh/blog/the-case-of-the-9bit-aes-key">v12.sh</a> | <a href="https://lobste.rs/s/dqexzg/case_9_bit_aes_key">discussion</a> | <a href="https://news.ycombinator.com/item?id=50280722">hacker news</a></small></p><hr/><p>Security researchers at V12 discovered that several popular PDF implementations generate AES-256 file keys from insufficiently random sources or excessively small state spaces, enabling attackers to decrypt protected documents without a password. In affected applications, the cryptographic keys are derived from predictable metrics rather than true random entropy.</p><p>Specifically, MuPDF's reliance on a linear congruential generator limits the effective entropy of its keys to just nine bits, making rapid brute-force recovery feasible within milliseconds. Similar predictable key derivation patterns were identified in Foxit and Java-based libraries like OpenPDF and iText, undermining the security guarantees of AES-256 encryption in previously generated files.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fv12.sh%2Fcdn%2F_astro%2Fcover.CF5x0X6B_1N5vR.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 07:53 UTC | #25784</small>]]></content>
+  </entry>
   <entry>
     <title>Alpine Linux Rebuilds GitLab Instance After Attempted Exploitation of CVE-2026-97229</title>
     <link href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html" rel="alternate" />
