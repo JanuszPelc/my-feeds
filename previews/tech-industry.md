@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>AI Demand Shifts Flash Memory Market Power from Apple to Suppliers Like Kioxia</h2>
+<a name="story-25772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.lsvisionhd.com%2Fwp-content%2Fuploads%2F2026%2F03%2FMemory-Price-Surge-in-Q1-2026-Driven-by-Supply-Disruptions-and-AI-Demand-1024x572.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Surging demand for flash memory from artificial intelligence data centers has caused prices to quintuple, significantly altering negotiating leverage in the semiconductor industry. For years, Apple held dominant bargaining power, routinely compelling flash-storage manufacturers to accept steep discounts for its devices.</p><p>However, the rapid expansion of AI hyperscalers has absorbed available chip supply and driven up costs, leaving suppliers such as Kioxia with newfound market power. This supply-demand imbalance highlights how infrastructure investments in artificial intelligence are reshaping pricing dynamics and supply chains across major consumer electronics manufacturers.</p>
+<p><small>Links: <a href="https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=jB9Xwc&reflink=desktopwebshare_permalink">wsj.com</a></small></p>
+<br clear="all" />
+
 <h2>US DOJ Inquires About Nvidia&#x27;s $12.9 Billion Hugging Face Acquisition</h2>
 <a name="story-25760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6a906df0a8a32784cdb5c100%2Fmaster%2Fw_2560%2Cc_limit%2FNvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The US Department of Justice has inquired about Nvidia's $12.93 billion acquisition of Hugging Face to evaluate its potential impact on competition in the artificial intelligence market. Regulators are specifically investigating whether the deal would give Nvidia control over a key distribution point for AI models.</p><p>This inquiry is part of a broader probe into Nvidia's business conduct, covering its investments, sales practices, and potential pressure exerted on customers. The investigation seeks to determine if the company's market dominance is being used to disadvantage competitors.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmetas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app%2Fintro-1793176733.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has soft-launched a 16-bit, Tamagotchi-style virtual pet application named Waddle World in the Philippines. Marketed as a daily journal disguised as a pet, the app lets users type or dictate journal entries that their AI-powered pet responds to with conversational text and illustrated doodles.</p><p>Users can also play mini-games within the app to earn points for purchasing food and toys for their virtual companion. While app store listings indicate the game has been available since late September, Meta has not yet clarified whether it plans a broader international rollout.</p>
 <p><small>Links: <a href="https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/">engadget.com</a> | <a href="https://waddleworld.app/">source</a></small></p>
-<br clear="all" />
-
-<h2>Slough Becomes Europe&#x27;s Largest Data Center Hub</h2>
-<a name="story-25671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F1920%2Fcpsprodpb%2F0d2b%2Flive%2F35154910-143e-11ef-b0d8-137e1a51c92d.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Slough, a town situated on the border of west London, has evolved into Europe's largest data center hub, hosting more than 40 facilities predominantly concentrated on the Slough Trading Estate. The cluster's rapid expansion has been driven by strategic proximity to London, robust fiber connectivity along the M4 corridor, and established power infrastructure.</p><p>As the heavy concentration of monolithic facilities continues to grow, local council officials and residents are pressing operators to provide greater community benefits. The intense development has also prompted scrutiny regarding environmental impacts, including emerging research indicating that the dense collection of facilities contributes to a local heat island effect.</p>
-<p><small>Links: <a href="https://www.ft.com/content/d92ede23-75c3-4549-bec2-7fa4be979786">ft.com</a></small></p>
 <br clear="all" />
 
 ---
