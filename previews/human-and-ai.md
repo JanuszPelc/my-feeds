@@ -13,7 +13,7 @@
 <h2>Marissa Mayer and Other Tech Executives Face Criticism Over AI Parenting and Social Tools</h2>
 <a name="story-25710"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F55%2F78%2Fc8%2F5578c8b4d8c1fb3883838733ed586231.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Recent statements by prominent tech figures, including former Yahoo CEO Marissa Mayer and OpenAI CEO Sam Altman, regarding the use of artificial intelligence for parenting tasks and social connection have sparked widespread public backlash. Critics argue that these examples highlight a growing cultural disconnect between Silicon Valley leadership and the general public, where personal milestones and emotional relationships are viewed through the lens of efficiency and automation.</p><p>While tech executives defend their prototypes and visions as tests of emerging capabilities, public polling indicates deep skepticism regarding AI's impact on human relationships. Half of U.S. adults surveyed believe that artificial intelligence will diminish people's ability to form meaningful connections, contrasting sharply with industry leaders who envision AI filling significant gaps in human social and emotional needs.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/">techcrunch.com</a></small></p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50281826">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Ellia Lebleu Discusses Wikipedia&#x27;s Ongoing Cleanup of AI-Generated Content</h2>
