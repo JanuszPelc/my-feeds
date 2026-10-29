@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>HoRNet FilterSolo Plugin Available Free for Limited Time</h2>
+<a name="story-25823"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiEcEbwX67QOPdSlEOVVdwFUE-CT9oETvlUqT4LfjTjBr00UFr2RLtbIKnQCqf9N2S0X6kJhrUzCEj7f0C-67vW3-aHgZrW85duAvwPiNEPRvh9JHrijkL5UJkYtHUyILOTOK9PXP-sLD6PZID3PTIFS5h5NVxorxli3b4TzcYvwCD4ZcLF70eD2LeGWJio%2Fw1200-h630-p-k-no-nu%2FHornet-FilterSolo-by-Hornet-Plugins.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HoRNet Plugins is offering its FilterSolo resonant filter plugin for free for a limited time until November 1. Users can obtain the plugin by applying a promotional code at checkout on the developer's website.</p><p>FilterSolo features analog-style saturation, extensive modulation options, and multi-mode filtering capabilities for macOS and Windows in standard plugin formats. The plugin is normally a paid product and supports common digital audio workstations for music production.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/hornet-filtersolo-freebie/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/29/hornet-filtersolo-freebie/#respond">discussion</a></small></p>
+<br clear="all" />
+
+<h2>DAWJunkie Releases Jack Johnsynth Free Vocal Hybrid Synth</h2>
+<a name="story-25824"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Frg2S5SK0aQ8%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DAWJunkie has released Jack Johnsynth, a free vocal hybrid synthesizer plugin available for macOS and Windows. The virtual instrument comes in VST, AU, and AAX formats, expanding the developer's lineup of quirky freeware tools that includes releases like Drumbo Jr and Padness 2 Jr.</p><p>The plugin is designed to produce unique vocal-inspired hybrid sounds for music producers. It is available to download directly from the official DAWJunkie website.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/dawjunkie-jack-johnsynth/">bedroomproducersblog.com</a> | <a href="https://dawjunkie.com/op/jack-johnsynth/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/dawjunkie-jack-johnsynth/#respond">discussion</a></small></p>
+<br clear="all" />
+
 <h2>KVR Studio Manager Public Beta Updated to v0.5.0.0</h2>
 <a name="story-25749"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Funtitled-3.1707831128.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>KVR Studio Manager has been updated to version 0.5.0.0 in its public beta for macOS and Windows. The update introduces folder monitoring that suggests scans when changes are detected, a notification system for sync and scan results, and the ability to select specific active plugin formats.</p><p>Other improvements include asynchronous syncing, automatic login for saved passwords, and the ability to rescan individual plugins via a right-click menu. On macOS, the application now reports plugin architecture—such as Apple Silicon, Universal, or Intel—and includes a compact view option for the plugin list.</p>
@@ -54,18 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffour_fifths_sq_500.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Karoryfer Samples has released Four Fifths, a bowed string sample library designed for Plogue sforzando that focuses on aggressive, folky rhythmic playing and sampled double-stops. The library includes recordings of a double bass, a basy three-string folk bass, a cello, and a fiddle, utilizing consistent keyswitches and microphone setups across all instruments.</p><p>The collection features over 5,000 WAV samples totaling more than 900 megabytes, incorporating multiple round robins, dynamic layers, bow attack controls, and a layering patch. It requires Plogue sforzando version 1.981 or newer and is available at an introductory price of $19 until November 28, 2026, before rising to $39.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/karoryfer-samples-releases-four-fifths-bowed-string-library-for-sforzando-69466?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69466">kvraudio.com</a> | <a href="https://shop.karoryfer.com/products/four-fifths">source</a></small></p>
-<br clear="all" />
-
-<h2>Codwaves Releases Quance Resonance Suppressor Plugin</h2>
-<a name="story-25697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fquanceui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Codwaves has released Quance, a real-time resonance suppression plugin for Windows and macOS available in VST3, AU, and AAX formats. Utilizing dynamic spectral processing, the plugin detects harsh frequency peaks and reduces them while incorporating dedicated tone and transient protection systems to preserve harmonics and vocal formants.</p><p>Quance includes features such as an intelligent learn function for automatic focus point placement, six source modes, up to eight focus points, and five quality settings ranging from zero-latency live monitoring to high-resolution mixing and mastering modes. The plugin is available at an introductory price of $49.99 until November 30, 2026, alongside a 7-day trial on the developer's website.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/codwaves-releases-quance---resonance-suppressor-vst3-au-and-aax-69445?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69445">kvraudio.com</a> | <a href="https://codwaves.com/quance/">source</a></small></p>
-<br clear="all" />
-
-<h2>Mastering The Mix BASSROOM Low-End Equalizer Plugin</h2>
-<a name="story-25662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.masteringthemix.com%2Fcdn%2Fshop%2Ffiles%2FBR_3.png%3Fv%3D1691761824%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mastering The Mix BASSROOM is a mix and mastering equalizer plugin designed to help producers shape and balance the low-end frequencies of their tracks. It features genre-specific target curves and an intuitive interface to assist users in achieving professional low-end translation across various playback systems.</p><p>The plugin provides advanced multi-band EQ functionality tailored specifically for frequencies between 0 and 320 Hz. Producers and audio engineers utilize BASSROOM to streamline their low-end processing workflows and resolve common mixing challenges in untreated acoustic environments.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/28/mastering-the-mix-bassroom-free/">bedroomproducersblog.com</a> | <a href="https://www.masteringthemix.com/products/bassroom">source</a> | <a href="https://bedroomproducersblog.com/2026/10/28/mastering-the-mix-bassroom-free/#comments">discussion</a></small></p>
 <br clear="all" />
 
 ---
