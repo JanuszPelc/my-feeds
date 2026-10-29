@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-28T17:27:00+00:00</updated>
+  <updated>2026-10-28T21:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Xreal Launches Aura Smart Glasses Powered by Android XR</title>
+    <link href="https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/::v240</id>
+    <published>2026-10-28T21:08:00+00:00</published>
+    <updated>2026-10-28T21:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.beebom.com%2Fcontent%2F2026%2F06%2FXREAL-AURA-main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/">techcrunch.com</a> | <a href="https://www.xreal.com/aura">source</a></small></p><hr/><p>Xreal has launched the Xreal Aura, a wired smart glasses system powered by Google's Android XR platform and Qualcomm's Snapdragon Reality Elite. The device utilizes a tethered computing "puck" for processing and features Sony Micro-OLED displays with 1200p resolution, a 120Hz refresh rate, and a 95-degree field of view.</p><p>The glasses integrate Bose audio technology and Google's Gemini AI for contextual assistance. Weighing 95 grams, the device can function as an augmented display for computers or gaming consoles via USB-C. Pricing starts at $1,279 for the 256GB model, with shipping expected to begin in mid-November in the United States, Canada, Japan, and South Korea.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.beebom.com%2Fcontent%2F2026%2F06%2FXREAL-AURA-main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 01:31 UTC | #25728</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Kindle Paperwhite and Colorsoft (2026) Signature Editions Reviewed</title>
     <link href="https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/" rel="alternate" />

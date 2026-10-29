@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-28T19:20:00+00:00</updated>
+  <updated>2026-10-28T21:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Artificial Analysis Releases Intelligence Index v5</title>
+    <link href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5" rel="alternate" />
+    <id>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5::v240</id>
+    <published>2026-10-28T21:09:00+00:00</published>
+    <updated>2026-10-28T21:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6vfeftx9%2Farticles%2F44b792b382975135ff1db34ca74a2502eb767158-2152x1016.png%3Fw%3D1200%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">artificialanalysis.ai</a></small></p><hr/><p>Version 5 of the Artificial Analysis Intelligence Index introduces two new benchmarks, FrontierCode 2.0 and Terminal-Bench-Science, and upgrades HLE-Diamond, AA-Omniscience v1.1, and CritPt v2. This update is the first to build 60% of the index using private datasets. The release also includes the Artificial Analysis Progress Index v1, designed to track model capability on a continuous scale over time.</p><p>Claude Opus 5.5 leads the index with a score of 58, ahead of OpenAI's GPT-6 Astra and GPT-6.1 Sol. The data indicates the gap between proprietary and open-weights models has widened from 3 points to 12 points. Furthermore, cost per task among the top 10 models varies by more than 13x.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6vfeftx9%2Farticles%2F44b792b382975135ff1db34ca74a2502eb767158-2152x1016.png%3Fw%3D1200%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 01:32 UTC | #25730</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Launches Enterprise AI Spending Reporting Tools</title>
     <link href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/" rel="alternate" />
