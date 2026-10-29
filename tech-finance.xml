@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T05:26:00+00:00</updated>
+  <updated>2026-10-29T06:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>STMicroelectronics Reports Third-Quarter Financial Results and Q4 Revenue Forecast</title>
+    <link href="https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/" rel="alternate" />
+    <id>https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/::v240</id>
+    <published>2026-10-29T06:44:00+00:00</published>
+    <updated>2026-10-29T06:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2026%2F04%2F23055808%2FSTM-revenue_trend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/">reuters.com</a> | <a href="https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-reports-q3-2026-financial-results.html">source</a></small></p><hr/><p>STMicroelectronics reported third-quarter net revenues of $3.76 billion, representing a 17.9% increase year-over-year, and a non-U.S. GAAP operating income of $429 million that surpassed market expectations. The quarter's gross margin was recorded at 37.3% as the company experienced steady demand across its semiconductor product lines.</p><p>For the fourth quarter, the company forecasts net revenues of approximately $4.15 billion and a gross margin of 39.0%. The updated guidance highlights management's outlook for continued operational performance through the end of the year.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2026%2F04%2F23055808%2FSTM-revenue_trend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 13:52 UTC | #25782</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung Electronics Shares Slide After Shareholder Return Plan Is Delayed</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed" rel="alternate" />

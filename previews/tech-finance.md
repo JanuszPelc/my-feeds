@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>STMicroelectronics Reports Third-Quarter Financial Results and Q4 Revenue Forecast</h2>
+<a name="story-25782"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2026%2F04%2F23055808%2FSTM-revenue_trend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>STMicroelectronics reported third-quarter net revenues of $3.76 billion, representing a 17.9% increase year-over-year, and a non-U.S. GAAP operating income of $429 million that surpassed market expectations. The quarter's gross margin was recorded at 37.3% as the company experienced steady demand across its semiconductor product lines.</p><p>For the fourth quarter, the company forecasts net revenues of approximately $4.15 billion and a gross margin of 39.0%. The updated guidance highlights management's outlook for continued operational performance through the end of the year.</p>
+<p><small>Links: <a href="https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/">reuters.com</a> | <a href="https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-reports-q3-2026-financial-results.html">source</a></small></p>
+<br clear="all" />
+
 <h2>Samsung Electronics Shares Slide After Shareholder Return Plan Is Delayed</h2>
 <a name="story-25776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg4.yna.co.kr%2Fetc%2Fgraphic%2FYH%2F2023%2F10%2F31%2FGYH2023103100090031500_P4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics Co. shares dropped as much as 6.6% following its earnings report because the company delayed announcing its new shareholder return plan until the end of January. The delay disappointed investors, particularly as rival SK Hynix reported strong earnings and announced plans to return roughly $45 billion to shareholders.</p><p>Sentiment toward Samsung was further weighed down by chip operating profit missing market estimates alongside an expansion in capital expenditures. The contrast in shareholder payouts and profitability expectations deepened concerns about Samsung's competitive footing in the ongoing artificial intelligence rally.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGwknNQxXwAE070c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ServiceNow reported third-quarter subscription revenue of $3.99 billion, a 21% increase year-over-year. However, the company's fourth-quarter outlook for current remaining performance obligations fell below analyst estimates, leading to a share price decline of over 15% in after-hours trading.</p><p>The cautious sales guidance has renewed investor concerns about the impact of artificial intelligence on long-term growth. Although third-quarter revenue remains strong, the projected outlook for upcoming obligations has introduced uncertainty regarding future demand.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/servicenow-falls-after-quarterly-sales-outlook-revives-ai-fears">bloomberg.com</a> | <a href="https://investor.servicenow.com/news/news-details/2026/ServiceNow-Reports-Third-Quarter-2026-Financial-Results/default.aspx">source</a></small></p>
-<br clear="all" />
-
-<h2>Alphabet Reports Q3 2026 Revenue of $127.6 Billion</h2>
-<a name="story-25743"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet Inc. reported third-quarter revenue of $127.6 billion for the period ended September 30, 2026, a 25% increase year-over-year. Growth was led by a 103% increase in Google Cloud revenue to $30.7 billion, while Google Services revenue rose 11% to $96.3 billion.</p><p>The significant expansion in Google Cloud revenue contributed heavily to the company's quarterly performance. These results reflect strong growth across Alphabet's primary revenue-generating segments.</p>
-<p><small>Links: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">s206.q4cdn.com</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p>
 <br clear="all" />
 
 ---
