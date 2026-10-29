@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-29T03:07:00+00:00</updated>
+  <updated>2026-10-29T03:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>TU Wien and UC San Diego Researchers Extend X-Ray High-Harmonic Generation Beyond Standard Limit</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261027063713.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261027063713.htm::v240</id>
+    <published>2026-10-29T03:40:00+00:00</published>
+    <updated>2026-10-29T03:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fapplsci%2Fapplsci-09-00378%2Farticle_deploy%2Fhtml%2Fimages%2Fapplsci-09-00378-g001.png%3F1570985357&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063713.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41566-026-01976-2">source</a></small></p><hr/><p>Researchers at TU Wien and the University of California San Diego have generated X-rays with energies exceeding the conventional single-electron limit by utilizing correlated electron interactions in helium. By employing precisely controlled ultraviolet laser pulses, the team successfully caused two electrons to return to an atom simultaneously, combining their energies to emit higher-frequency X-ray photons.</p><p>Published in Nature Photonics, the findings challenge the long-standing single-active-electron model of high-harmonic generation established over three decades ago. This simultaneous release of energy creates a secondary plateau of sustained, higher-energy emissions, offering a novel spectroscopic tool for investigating complex quantum mechanics and multi-electron correlations on attosecond timescales.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fapplsci%2Fapplsci-09-00378%2Farticle_deploy%2Fhtml%2Fimages%2Fapplsci-09-00378-g001.png%3F1570985357&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 08:49 UTC | #25771</small>]]></content>
+  </entry>
   <entry>
     <title>SETI Institute Researchers Detail Seven Stages of Meteor Atmospheric Entry</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261027063710.htm" rel="alternate" />

@@ -10,6 +10,12 @@
 
 *What researchers are finding out about the world, life, health, and the mind.*
 
+<h2>TU Wien and UC San Diego Researchers Extend X-Ray High-Harmonic Generation Beyond Standard Limit</h2>
+<a name="story-25771"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fapplsci%2Fapplsci-09-00378%2Farticle_deploy%2Fhtml%2Fimages%2Fapplsci-09-00378-g001.png%3F1570985357&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers at TU Wien and the University of California San Diego have generated X-rays with energies exceeding the conventional single-electron limit by utilizing correlated electron interactions in helium. By employing precisely controlled ultraviolet laser pulses, the team successfully caused two electrons to return to an atom simultaneously, combining their energies to emit higher-frequency X-ray photons.</p><p>Published in Nature Photonics, the findings challenge the long-standing single-active-electron model of high-harmonic generation established over three decades ago. This simultaneous release of energy creates a secondary plateau of sustained, higher-energy emissions, offering a novel spectroscopic tool for investigating complex quantum mechanics and multi-electron correlations on attosecond timescales.</p>
+<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063713.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41566-026-01976-2">source</a></small></p>
+<br clear="all" />
+
 <h2>SETI Institute Researchers Detail Seven Stages of Meteor Atmospheric Entry</h2>
 <a name="story-25770"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceacademy.net.au%2Fwatch%2Fdebris%2Fmetvelm.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers from the SETI Institute and NASA Ames Research Center have identified a seven-stage process describing how space rocks enter Earth's atmosphere and survive as meteorites. By examining records of 75 meteorite falls, the team determined that melting and physical fragmentation play a far greater role in mass loss and deceleration than previously assumed.</p><p>The study, published in Meteoritics &amp; Planetary Science, outlines how incoming bodies transition from initial glowing shock waves and stable melting phases to rapid pressure-driven fracturing and final disintegration. These findings improve predictive models for atmospheric airbursts caused by larger, potentially hazardous asteroids.</p>
@@ -62,12 +68,6 @@
 <a name="story-25157"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1427678%2Finteger-multiplication-mit-notes-and-wikipedia1-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mathematician David Harvey has published a commentary examining a recently proposed integer multiplication algorithm that claims a complexity of o(n log n) bit operations. The analysis offers perspective on the new complexity claim and its relation to established theoretical limits in computational mathematics.</p><p>The discussion follows earlier milestones in the field, including Harvey and Joris van der Hoeven's 2019 algorithm achieving O(n log n) bit operations, which confirmed a long-standing conjecture by Schönhage and Strassen. The newly proposed approach pushes past that established boundary into sub-O(n log n) territory, prompting careful scrutiny of its methods and assumptions.</p>
 <p><small>Links: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">web.maths.unsw.edu.au</a> | <a href="https://news.ycombinator.com/item?id=50190455">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Reflective Atmosphere Discovered on Lava Planet TOI-561 b</h2>
-<a name="story-25550"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspacetoday.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2FJAMESWEBBTOI_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Observations using the James Webb Space Telescope indicate that the ultra-hot rocky exoplanet TOI-561 b is surrounded by a substantial atmosphere containing reflective silicate clouds. Researchers monitored the planet over 37 hours and found that it reflects approximately 75 percent of incoming starlight while redistributing heat toward its nightside.</p><p>The findings challenge current theories suggesting that heavily irradiated lava planets should have lost their atmospheres billions of years ago. Scientists are investigating whether the atmosphere is continuously replenished by gases escaping from a global magma ocean, with future observations aimed at determining its exact chemical composition.</p>
-<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261026225603.htm">sciencedaily.com</a> | <a href="https://www.birmingham.ac.uk/news/2026/shiny-lava-planet-challenges-astronomers-expectations">source</a></small></p>
 <br clear="all" />
 
 ---
