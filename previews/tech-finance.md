@@ -10,6 +10,12 @@
 
 *Where the money in tech goes, from funding rounds and deals to earnings.*
 
+<h2>Cognition Weighs New Funding Round at $70 Billion to $80 Billion Valuation</h2>
+<a name="story-25758"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fai-startup-cognition-raises-300m-10b-valuation-armada-crusoe-secure-131m-1b-ai-39f32fad%2Fcc8747ecf416495db69aef6e06565ac9c1315eafdb0eb69942a76c772be6b5ae.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI coding startup Cognition is considering a new funding round before the end of the year after receiving investor offers valuing the company between $70 billion and $80 billion. The potential new round follows a recent Series E fundraise in September that valued the startup at $48 billion.</p><p>The rapid valuation growth highlights surging investor demand in the AI software-engineering and coding assistant market, where Cognition's Devin agent competes. The company's previous $2 billion funding round brought its valuation up from prior marks earlier in the year.</p>
+<p><small>Links: <a href="https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10">businessinsider.com</a></small></p>
+<br clear="all" />
+
 <h2>FuriosaAI Raises $620 Million in Series D at $2.9 Billion Valuation</h2>
 <a name="story-25759"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F10%2F29%2Fsmall%2F4005479_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>FuriosaAI, a Seoul-based AI chip startup, has secured $620 million in Series D funding, bringing its valuation to $2.9 billion. The round included $280 million from South Korea's National Growth Fund, a substantial increase from the company's $735 million valuation in 2025.</p><p>Capital from the round will support the company's efforts to compete with Nvidia in the AI semiconductor market. Additional participants in the funding round included Cisco Investments, Infinitum, Jericho Capital, NeoFort Holding, QUDA Capital, and Worldline Capital.</p>
@@ -60,12 +66,6 @@
 <a name="story-25632"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Finfisical-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Infisical, a cybersecurity infrastructure company, has raised $40 million in Series B funding led by Elad Gil at a $600 million valuation. The platform provides secret management and privileged access controls, enabling enterprises to grant AI agents secure access to critical systems and private credentials.</p><p>The funding will support Infisical's expansion as more organizations adopt autonomous AI agents. The company currently serves over 1,300 customers, including major enterprises such as Airbus and Volkswagen, and the funding round included participation from Gradient and Y Combinator.</p>
 <p><small>Links: <a href="https://www.forbes.com/sites/rashishrivastava/2026/10/27/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/">forbes.com</a> | <a href="https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html">source</a></small></p>
-<br clear="all" />
-
-<h2>NXP Semiconductors Shares Decline on Lowered Revenue Forecast</h2>
-<a name="story-25628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.slideteam.net%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F560x315%2Fi%2Fm%2Fimpact_on_quarterly_sales_revenue_sales_enablement_strategy_to_boost_productivity_and_drive_sa_ss_slide01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>NXP Semiconductors issued a fourth-quarter revenue forecast that missed analyst expectations, causing its shares to fall in late trading. The chipmaker expects fourth-quarter revenue to grow approximately 15% to $3.85 billion, which is below the average analyst estimate of $3.87 billion.</p><p>The guidance has raised concerns that the recovery in demand for automotive and industrial chips may be slowing. This follows NXP's third-quarter report, which recorded revenue of $3.8 billion, a 19% increase year-over-year.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast">bloomberg.com</a> | <a href="https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-third-quarter-2026-results">source</a></small></p>
 <br clear="all" />
 
 ---

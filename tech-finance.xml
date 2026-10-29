@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-28T23:46:00+00:00</updated>
+  <updated>2026-10-29T00:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Cognition Weighs New Funding Round at $70 Billion to $80 Billion Valuation</title>
+    <link href="https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10" rel="alternate" />
+    <id>https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10::v240</id>
+    <published>2026-10-29T00:28:00+00:00</published>
+    <updated>2026-10-29T00:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fai-startup-cognition-raises-300m-10b-valuation-armada-crusoe-secure-131m-1b-ai-39f32fad%2Fcc8747ecf416495db69aef6e06565ac9c1315eafdb0eb69942a76c772be6b5ae.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10">businessinsider.com</a></small></p><hr/><p>AI coding startup Cognition is considering a new funding round before the end of the year after receiving investor offers valuing the company between $70 billion and $80 billion. The potential new round follows a recent Series E fundraise in September that valued the startup at $48 billion.</p><p>The rapid valuation growth highlights surging investor demand in the AI software-engineering and coding assistant market, where Cognition's Devin agent competes. The company's previous $2 billion funding round brought its valuation up from prior marks earlier in the year.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fai-startup-cognition-raises-300m-10b-valuation-armada-crusoe-secure-131m-1b-ai-39f32fad%2Fcc8747ecf416495db69aef6e06565ac9c1315eafdb0eb69942a76c772be6b5ae.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 07:21 UTC | #25758</small>]]></content>
+  </entry>
   <entry>
     <title>FuriosaAI Raises $620 Million in Series D at $2.9 Billion Valuation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase" rel="alternate" />
