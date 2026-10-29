@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-29T14:27:00+00:00</updated>
+  <updated>2026-10-29T17:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Recommendations Sought for Self-Hosted Family Password Managers</title>
+    <link href="https://lobste.rs/s/eccbci/shared_password_manager_for_families" rel="alternate" />
+    <id>https://lobste.rs/s/eccbci/shared_password_manager_for_families::v240</id>
+    <published>2026-10-29T17:01:00+00:00</published>
+    <updated>2026-10-29T17:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedevel.com%2Fcontent%2Fimages%2F2024%2F12%2FAccount_List.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lobste.rs/s/eccbci/shared_password_manager_for_families">lobste.rs</a> | <a href="https://lobste.rs/s/eccbci/shared_password_manager_for_families">discussion</a></small></p><hr/><p>A user on Lobsters is seeking recommendations for a shared password manager to manage financial and insurance accounts with elderly family members across long distances. The requirements include support for non-technical users without command-line interfaces, cross-platform compatibility with Linux, macOS, and iOS, and optional self-hosting capabilities.</p><p>While commercial services like 1Password are commonly used for family sharing, security concerns prompt interest in alternatives. Potential options include synchronized KeePass databases via cloud storage or file synchronization tools, though the goal remains finding a streamlined setup that minimizes friction for less technical relatives.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedevel.com%2Fcontent%2Fimages%2F2024%2F12%2FAccount_List.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 19:56 UTC | #25860</small>]]></content>
+  </entry>
   <entry>
     <title>Mark Blaszczyk Details Android SMS of Death Zero-Click Denial-of-Service Vulnerability</title>
     <link href="https://smsofdeath.com/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Recommendations Sought for Self-Hosted Family Password Managers</h2>
+<a name="story-25860"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedevel.com%2Fcontent%2Fimages%2F2024%2F12%2FAccount_List.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A user on Lobsters is seeking recommendations for a shared password manager to manage financial and insurance accounts with elderly family members across long distances. The requirements include support for non-technical users without command-line interfaces, cross-platform compatibility with Linux, macOS, and iOS, and optional self-hosting capabilities.</p><p>While commercial services like 1Password are commonly used for family sharing, security concerns prompt interest in alternatives. Potential options include synchronized KeePass databases via cloud storage or file synchronization tools, though the goal remains finding a streamlined setup that minimizes friction for less technical relatives.</p>
+<p><small>Links: <a href="https://lobste.rs/s/eccbci/shared_password_manager_for_families">lobste.rs</a> | <a href="https://lobste.rs/s/eccbci/shared_password_manager_for_families">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Mark Blaszczyk Details Android SMS of Death Zero-Click Denial-of-Service Vulnerability</h2>
 <a name="story-25838"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.gridinsoft.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fexploitation-process-samsung-zeroclick.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researcher Mark Blaszczyk has detailed a zero-click denial-of-service vulnerability in Android, dubbed "SMS of Death," which can crash the telephony service and drop active calls—including emergency calls—using a single malformed WAP Push message. The flaw stems from an unchecked cast of a WSP header length read as a 64-bit integer into a 32-bit signed integer, triggering a NegativeArraySizeException that terminates the telephony process without any user interaction or notification.</p><p>According to the disclosure, rapid transmission of the payload can corrupt the SQLite database behind SMS storage, causing persistent crash-on-boot loops that require removing the SIM card or using ADB for recovery. Despite being reported to the Android &amp; Google Devices VRP with a suggested one-line patch, Google ultimately classified the issue as a non-security issue and declined to fix it, prompting the researcher to publish a public proof-of-concept.</p>
@@ -59,12 +65,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Daishin Securities, Mirae Asset, and Bithumb Hit by Cyberattacks in South Korea</h2>
 <p>South Korean financial institutions Daishin Securities, Mirae Asset Global Investments, and cryptocurrency exchange Bithumb have experienced a fresh wave of data breaches and cybersecurity incidents. Daishin disclosed that the personal information of 38,490 customers was compromised, while Mirae and Bithumb reported unauthorized access to internal systems as authorities investigate the scale of the breaches.</p><p>The incidents follow a prior series of attacks targeting 16 South Korean financial entities amid concerns over growing regional cyber risks. In response to the latest security failures, South Korean financial regulators and the presidential office have convened emergency meetings to heighten oversight and conduct inspections across private sector IT systems.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/">techcrunch.com</a></small></p>
-
-<h2>Nullpt.rs Analysis Uncovers Anti-LLM Obfuscation in Servicepipe Fingerprinting Script</h2>
-<a name="story-25745"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2Fstrings-fig3_kybw.max-900x900.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An investigation into web browser fingerprinting scripts uncovered an anomaly originating from Russian traffic control firm Servicepipe, which included hidden references to bioweapons, illicit drugs, and system jailbreak prompts.</p><p>Further inspection revealed that the alarming variable names and encoded Unicode strings do not perform malicious operations; rather, they serve as anti-LLM obfuscation tactics designed to trigger model safety filters and block automated code analysis.</p>
-<p><small>Links: <a href="https://nullpt.rs/fingerprinting-bioweapons">nullpt.rs</a> | <a href="https://news.ycombinator.com/item?id=50276998">hacker news</a></small></p>
-<br clear="all" />
 
 ---
 

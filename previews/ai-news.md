@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Sam Altman Discusses AI Vulnerabilities, Agent Teams, and Compute Scaling</h2>
+<a name="story-25803"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F02%2Fsam-altman-openAI-1280x853.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In an interview with Stripe co-founder John Collison on Cheeky Pint, OpenAI CEO Sam Altman discusses how AI models are uncovering critical PHP vulnerabilities, the role of test-time compute in enabling agent teams, and internal experiments tackling complex mathematical problems like Navier-Stokes. Altman also addresses the safety challenges of sandboxing superhuman models and the architectural shifts required as personal agents transform software development.</p><p>Altman reflects on the rapid pace of AI adoption, comparing the current creative explosion among young users to the early days of the internet. He emphasizes the importance of iterative deployment and practical empowerment over rigid safety narratives, arguing that AI systems must provide tangible benefits and individual freedom rather than fostering a restrictive surveillance state.</p>
+<p><small>Links: <a href="https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single">cheekypint.substack.com</a></small></p>
+<br clear="all" />
+
 <h2>Deepgram Acquires Daily to Expand Voice AI Infrastructure</h2>
 <a name="story-25805"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbsmromhjxdnndenlrpgx.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fentity-images%2Fposts%2F1016146.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Deepgram is acquiring Daily, the creator and maintainer of the open-source voice AI and real-time communication framework Pipecat. Financial terms of the transaction were not disclosed, and the companies plan to maintain Pipecat as an open-source project under an independent foundation.</p><p>Pipecat handles voice and video streams while integrating speech-to-text, text-to-speech, and large language models to minimize latency in conversational applications. Concurrently, Deepgram and the Pipecat team are introducing the Real-Time Context Standard, an open protocol intended to manage metadata, audio cues, and model instructions for voice agents.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini_4_carbon_exploitgym.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced Gemini 4 Carbon, a frontier model designed for advanced cybersecurity and long-horizon engineering tasks. The model ranks first on the Artificial Analysis Intelligence Index (v5.0) and demonstrates high performance in vulnerability detection, exploitation, and remediation across benchmarks such as SEC-bench Pro, ExploitGym, and CWE-bench.</p><p>The model is built to support sustained agentic workflows and features improvements in model alignment, output honesty, and resistance to prompt injection. Google is currently rolling out access to a subset of cyber defenders and trusted partners through the Fairwind Program ahead of a wider release.</p>
 <p><small>Links: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50276792">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Google Launches Connected Apps Platform for Gemini and Search</h2>
-<a name="story-25720"><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fgoogle-connected-apps-platform-gemini-search-developers.16x9.jpg%3Fv%3Dog2-1ccpaes&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developers can now integrate third-party services into Gemini and Google Search via the new Connected Apps Platform. By utilizing AppFunctions APIs or the Model Context Protocol (MCP), businesses can allow users to trigger specific actions—such as creating playlists or designing graphics—directly within Google's AI interfaces.</p><p>Currently in public preview for U.S. developers, the platform uses the Google Connected Console to allow for app registration, testing, and performance monitoring. This shift supports the development of an "agentic web" where AI providers facilitate service interactions, potentially reducing the need for users to launch individual apps.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/">source</a></small></p>
 <br clear="all" />
 
 ---

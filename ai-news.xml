@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Sam Altman Discusses AI Vulnerabilities, Agent Teams, and Compute Scaling</title>
+    <link href="https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single" rel="alternate" />
+    <id>https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single::v240</id>
+    <published>2026-10-29T17:00:00+00:00</published>
+    <updated>2026-10-29T17:00:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F02%2Fsam-altman-openAI-1280x853.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single">cheekypint.substack.com</a></small></p><hr/><p>In an interview with Stripe co-founder John Collison on Cheeky Pint, OpenAI CEO Sam Altman discusses how AI models are uncovering critical PHP vulnerabilities, the role of test-time compute in enabling agent teams, and internal experiments tackling complex mathematical problems like Navier-Stokes. Altman also addresses the safety challenges of sandboxing superhuman models and the architectural shifts required as personal agents transform software development.</p><p>Altman reflects on the rapid pace of AI adoption, comparing the current creative explosion among young users to the early days of the internet. He emphasizes the importance of iterative deployment and practical empowerment over rigid safety narratives, arguing that AI systems must provide tangible benefits and individual freedom rather than fostering a restrictive surveillance state.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F02%2Fsam-altman-openAI-1280x853.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 19:56 UTC | #25803</small>]]></content>
+  </entry>
+  <entry>
     <title>Deepgram Acquires Daily to Expand Voice AI Infrastructure</title>
     <link href="https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/::v240</id>
