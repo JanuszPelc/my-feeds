@@ -31,7 +31,7 @@
 <h2>Orange Tsai Achieves Microsoft Edge Sandbox Escape via Logic Bugs</h2>
 <a name="story-25753"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.orange.tw%2Fposts%2F2026-10-the-last-proof-of-human-craft-browser-full-chain%2Fpwnie-award-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Orange Tsai of DEVCORE Research Team achieved a Microsoft Edge sandbox escape at Pwn2Own Berlin 2026 by chaining four logic bugs. The exploit relies on logical flaws rather than memory corruption or artificial intelligence, earning a $175,000 reward.</p><p>The attack leverages the `EdgeCAGuidanceNavigationThrottle` to trigger sourceless navigation, creating a Universal XSS (UXSS) vulnerability. This is combined with a popup blocker bypass, Microsoft's OneAuth automatic sign-in feature, and a CORS misconfiguration on `assets.msn.com` that leaks user emails to enable a zero-click exploit.</p>
-<p><small>Links: <a href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/">blog.orange.tw</a> | <a href="https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with">discussion</a></small></p>
+<p><small>Links: <a href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/">blog.orange.tw</a> | <a href="https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with">discussion</a> | <a href="https://news.ycombinator.com/item?id=50285319">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>GitHub Expands Infrastructure to Support 7.4 Billion Monthly Commits</h2>

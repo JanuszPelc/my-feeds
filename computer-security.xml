@@ -3,7 +3,7 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-29T02:14:00+00:00</updated>
+  <updated>2026-10-29T09:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
@@ -38,9 +38,9 @@
     <link href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/" rel="alternate" />
     <id>https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/::v240</id>
     <published>2026-10-28T17:55:00+00:00</published>
-    <updated>2026-10-28T17:55:00+00:00</updated>
+    <updated>2026-10-29T09:10:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.orange.tw%2Fposts%2F2026-10-the-last-proof-of-human-craft-browser-full-chain%2Fpwnie-award-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/">blog.orange.tw</a> | <a href="https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with">discussion</a></small></p><hr/><p>Orange Tsai of DEVCORE Research Team achieved a Microsoft Edge sandbox escape at Pwn2Own Berlin 2026 by chaining four logic bugs. The exploit relies on logical flaws rather than memory corruption or artificial intelligence, earning a $175,000 reward.</p><p>The attack leverages the `EdgeCAGuidanceNavigationThrottle` to trigger sourceless navigation, creating a Universal XSS (UXSS) vulnerability. This is combined with a popup blocker bypass, Microsoft's OneAuth automatic sign-in feature, and a CORS misconfiguration on `assets.msn.com` that leaks user emails to enable a zero-click exploit.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.orange.tw%2Fposts%2F2026-10-the-last-proof-of-human-craft-browser-full-chain%2Fpwnie-award-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 00:57 UTC | #25753</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/">blog.orange.tw</a> | <a href="https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with">discussion</a> | <a href="https://news.ycombinator.com/item?id=50285319">hacker news</a></small></p><hr/><p>Orange Tsai of DEVCORE Research Team achieved a Microsoft Edge sandbox escape at Pwn2Own Berlin 2026 by chaining four logic bugs. The exploit relies on logical flaws rather than memory corruption or artificial intelligence, earning a $175,000 reward.</p><p>The attack leverages the `EdgeCAGuidanceNavigationThrottle` to trigger sourceless navigation, creating a Universal XSS (UXSS) vulnerability. This is combined with a popup blocker bypass, Microsoft's OneAuth automatic sign-in feature, and a CORS misconfiguration on `assets.msn.com` that leaks user emails to enable a zero-click exploit.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.orange.tw%2Fposts%2F2026-10-the-last-proof-of-human-craft-browser-full-chain%2Fpwnie-award-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 00:57 UTC | #25753</small>]]></content>
   </entry>
   <entry>
     <title>GitHub Expands Infrastructure to Support 7.4 Billion Monthly Commits</title>
