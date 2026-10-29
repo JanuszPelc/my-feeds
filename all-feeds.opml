@@ -7,8 +7,8 @@
 	<outline text="ai-news" title="ai-news" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" />
 	<outline text="computer-programming" title="computer-programming" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" />
 	<outline text="computer-security" title="computer-security" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" />
+	<outline text="human-and-ai" title="human-and-ai" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-and-ai.xml" />
 	<outline text="human-knowledge" title="human-knowledge" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" />
-	<outline text="human-life" title="human-life" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" />
 	<outline text="music-production" title="music-production" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" />
 	<outline text="tech-consumer" title="tech-consumer" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" />
 	<outline text="tech-finance" title="tech-finance" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" />

@@ -7,6 +7,33 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Lobsters Contributor Seeks Pair-Coding Partner for Refactoring Task</title>
+    <link href="https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat" rel="alternate" />
+    <id>https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat::v240</id>
+    <published>2026-10-28T17:54:00+00:00</published>
+    <updated>2026-10-28T17:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd6%2Fb5%2Fb3%2Fd6b5b3cafb1819bb781dffc6756df614.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat">lobste.rs</a> | <a href="https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat">discussion</a></small></p><hr/><p>A Lobsters contributor is seeking a partner to pair-code a specific refactoring task involving a long-standing issue in the codebase. The proposed changes follow suggestions provided by the project's administrators.</p><p>The collaboration is intended to help the author and other potential contributors better understand the codebase. The author has explicitly prohibited the use of Large Language Models (LLMs) for this session, requiring manual programming instead.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd6%2Fb5%2Fb3%2Fd6b5b3cafb1819bb781dffc6756df614.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 00:52 UTC | #25752</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google Updates Chrome Autofill to Suggest Information from Gmail</title>
+    <link href="https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/::v240</id>
+    <published>2026-10-28T17:48:00+00:00</published>
+    <updated>2026-10-28T17:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fautofill-ai-chrome.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/">techcrunch.com</a></small></p><hr/><p>Chrome's updated autofill feature uses AI to pull specific details from a user's Gmail account to assist in completing online forms. The tool can suggest information such as flight confirmation numbers, tracking info, order details, and addresses.</p><p>This update is an expansion of Google’s Personal Intelligence, which connects Google Apps to the Gemini AI assistant. The feature is rolling out to users in the United States on desktop and through the Gemini in Chrome apps for iOS and Android, with users able to enable or disable the function in Chrome settings.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fautofill-ai-chrome.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 00:37 UTC | #25715</small>]]></content>
+  </entry>
+  <entry>
+    <title>Epic Games Confirms Unreal Engine Uses AI-Generated Code and Features</title>
+    <link href="https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic" rel="alternate" />
+    <id>https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic::v240</id>
+    <published>2026-10-28T17:45:00+00:00</published>
+    <updated>2026-10-28T17:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdesirefx.me%2Fwp-content%2Fuploads%2F2025%2F12%2FAI-Code-Editor-Unreal-Engine-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic">gamedeveloper.com</a> | <a href="https://thisweekinvideogames.com/news/epic-games-confirms-ai-is-being-used-to-develop-code-for-unreal-engine/">source</a></small></p><hr/><p>Epic Games has confirmed that artificial intelligence tools are actively being used to develop code and features for Unreal Engine. Marcus Wassmer, Epic's executive vice president of development, stated that almost all ongoing development occurs within dev streams connected to Fortnite, Unreal Editor for Fortnite, and the upcoming Unreal Engine 6.</p><p>Wassmer noted that large language models like Claude and Codex have helped eliminate persistent "non-deterministic cooking bugs" that previously affected the engine for a decade, while also aiding in automated stability monitoring for PC hardware. Despite industry-wide developer anxiety surrounding generative AI, Epic views the technology as essential for maintaining code quality and responding quickly to user feedback.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdesirefx.me%2Fwp-content%2Fuploads%2F2025%2F12%2FAI-Code-Editor-Unreal-Engine-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 00:33 UTC | #25733</small>]]></content>
+  </entry>
+  <entry>
     <title>Spritely Institute Releases Hoot 0.10.0</title>
     <link href="https://spritely.institute/news/hoot-0-10-0-released.html" rel="alternate" />
     <id>https://spritely.institute/news/hoot-0-10-0-released.html::v240</id>
@@ -641,14 +668,5 @@
     <updated>2026-10-24T06:55:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdevopedia.org%2Fimages%2Farticle%2F97%2F8476.1547460380.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://philipotoole.com/twelve-years-of-distributed-sqlite/">philipotoole.com</a> | <a href="https://news.ycombinator.com/item?id=50217500">hacker news</a></small></p><hr/><p>Philip O'Toole reflects on the twelve-year evolution of distributed SQLite, tracing the journey from the 2014 launch of rqlite—the first open-source system to pair SQLite with the Raft consensus protocol—to a thriving ecosystem of replicated databases, streaming tools, and commercial platforms.</p><p>The retrospective categorizes the distributed SQLite design space into three primary approaches: consensus clusters like rqlite and dqlite, streaming disaster recovery solutions like Litestream, and eventual-consistency merge models like cr-sqlite and libSQL. While open-source projects pioneered the architecture, commercial managed services and cloud platforms have increasingly captured the market value over the past decade.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdevopedia.org%2Fimages%2Farticle%2F97%2F8476.1547460380.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Oct 2026, 12:57 UTC | #25301</small>]]></content>
-  </entry>
-  <entry>
-    <title>Charles Miller Recounts the Origin Story of Hibernate</title>
-    <link href="https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story" rel="alternate" />
-    <id>https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story::v240</id>
-    <published>2026-10-23T23:15:00+00:00</published>
-    <updated>2026-10-23T23:15:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fexamples.javacodegeeks.com%2Fwp-content%2Fuploads%2F2020%2F04%2FHibernate-Architecture-final.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story">fishbowl.pastiche.org</a> | <a href="https://lobste.rs/s/ydmw6s/hibernate_origin_story_outsider_edition">discussion</a></small></p><hr/><p>Developer Charles Miller reflects on his time at Cirrus Technologies in Melbourne around 2001, where colleague Gavin King built the initial codebase for the Hibernate persistence framework under the package name cirrus.inf. Created out of deep frustration with the complexity and poor developer experience of Enterprise Java Beans and early enterprise Java tooling, the library began as a lightweight alternative designed to make server-side Java development less painful.</p><p>Despite management initially rejecting King's persistence proposal in favor of traditional enterprise stacks during a troubled client engagement, King subsequently open-sourced Hibernate under the Lesser GNU Public License. The project quickly grew into a foundational ORM tool for the Java ecosystem, though Miller notes he ironically did not get to use it until moving to Atlassian to work on Confluence.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fexamples.javacodegeeks.com%2Fwp-content%2Fuploads%2F2020%2F04%2FHibernate-Architecture-final.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Oct 2026, 06:54 UTC | #25289</small>]]></content>
   </entry>
 </feed>
