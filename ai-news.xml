@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-29T00:26:00+00:00</updated>
+  <updated>2026-10-29T03:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Claude Code Background Agent Summaries Consuming 20 Percent of Tokens Addressed by Bun Preload</title>
+    <link href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce" rel="alternate" />
+    <id>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce::v240</id>
+    <published>2026-10-29T03:34:00+00:00</published>
+    <updated>2026-10-29T03:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblogin.madewithlove.com%2Fuploaded%2F50068d2527bc62e18817c%2Fdisplay%2Fscreenshot_2026-04-14_at_16.26.37.png%3Fgt%3Dca9197d22ec4cb046ca1b4bd88870be97322e423&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">gist.github.com</a> | <a href="https://news.ycombinator.com/item?id=50284255">hacker news</a></small></p><hr/><p>Claude Code periodically sends the full transcripts of background agents to their respective models every 30 seconds to generate brief status descriptions, a process that accounts for 15 to 20 percent of total token consumption. This background activity occurs without user configuration options to disable it, impacting rate-limit headroom primarily through automated model requests that do not contribute to the main conversation.</p><p>To eliminate this overhead, developers have created a Bun preload script that intercepts and suppresses the specific timers responsible for triggering the summary requests. Testing across multiple versions indicates that disabling the feature successfully eliminates these requests while maintaining normal operation for background agents and subagents.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogin.madewithlove.com%2Fuploaded%2F50068d2527bc62e18817c%2Fdisplay%2Fscreenshot_2026-04-14_at_16.26.37.png%3Fgt%3Dca9197d22ec4cb046ca1b4bd88870be97322e423&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 08:27 UTC | #25785</small>]]></content>
+  </entry>
   <entry>
     <title>Qwenputer Embeds RISC-V CPU into Qwen 3.5 Weights</title>
     <link href="https://divagr.com/blog/qwenputer" rel="alternate" />

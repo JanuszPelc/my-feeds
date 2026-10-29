@@ -10,6 +10,12 @@
 
 *New AI models and agents, the tools to run them, and the products built on them.*
 
+<h2>Claude Code Background Agent Summaries Consuming 20 Percent of Tokens Addressed by Bun Preload</h2>
+<a name="story-25785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogin.madewithlove.com%2Fuploaded%2F50068d2527bc62e18817c%2Fdisplay%2Fscreenshot_2026-04-14_at_16.26.37.png%3Fgt%3Dca9197d22ec4cb046ca1b4bd88870be97322e423&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Claude Code periodically sends the full transcripts of background agents to their respective models every 30 seconds to generate brief status descriptions, a process that accounts for 15 to 20 percent of total token consumption. This background activity occurs without user configuration options to disable it, impacting rate-limit headroom primarily through automated model requests that do not contribute to the main conversation.</p><p>To eliminate this overhead, developers have created a Bun preload script that intercepts and suppresses the specific timers responsible for triggering the summary requests. Testing across multiple versions indicates that disabling the feature successfully eliminates these requests while maintaining normal operation for background agents and subagents.</p>
+<p><small>Links: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">gist.github.com</a> | <a href="https://news.ycombinator.com/item?id=50284255">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Qwenputer Embeds RISC-V CPU into Qwen 3.5 Weights</h2>
 <a name="story-25780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdivagr.com%2Fqwenputer%2Fdemo.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Qwenputer is an experimental model based on Qwen 3.5 4B that embeds a 32-bit RISC-V CPU directly into its weights. By using Gated DeltaNet (GDN) layers as exact, addressable RAM, the CPU executes arithmetic, C, and MicroPython code during forward passes without external runtimes or tool calls.</p><p>The implementation uses one-hot key encoding for memory access and has achieved 100% accuracy on specific long-integer arithmetic benchmarks. An experimental filesystem also allows the model to store and retrieve text data via the DeltaNet state, providing persistent memory across conversation sessions.</p>
@@ -62,12 +68,6 @@
 <a name="story-25658"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.brangus.io%2Fsurvival-llm%2Fscreenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Survival LLM is a free, open-source desktop application that pairs a local AI model with an offline reference library, allowing users to query emergency guidance, medical manuals, and Wikipedia articles without an internet connection. Operating entirely on the user's computer to ensure privacy, the app automatically selects an appropriately sized AI model based on available hardware memory and cites exact source passages for every generated response.</p><p>The system includes extensive reference materials ranging from FEMA and CDC guidelines to survival manuals, repair guides, and medical encyclopedias, requiring initial setup while online to download the necessary data and engine components. Users can also supplement the local database with personal files like PDFs and notes, and the software supports configurable reasoning tokens and local memory tracking for customized offline assistance.</p>
 <p><small>Links: <a href="https://www.brangus.io/survival-llm">brangus.io</a> | <a href="https://news.ycombinator.com/item?id=50264853">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Amazon Deprecates Most Nova Models to Focus on Frontier Research</h2>
-<a name="story-25642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai-rockstars.com%2Fwp-content%2Fuploads%2F2024%2F12%2FAmazon-Nova.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon is deprecating most of its Nova AI models, including text, video, and image-generation tools, as part of a strategic overhaul. The company is redirecting labor and computing resources toward a "frontier-model effort" led by Pieter Abbeel to focus on robotics and automation.</p><p>This reorganization follows the closure of an 80-person AI research office in San Francisco. Existing Nova models will enter a "keep the lights on" state, receiving minimal support while the company shifts focus toward higher-priority automation goals.</p>
-<p><small>Links: <a href="https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova">futurism.com</a> | <a href="https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7">source</a> | <a href="https://news.ycombinator.com/item?id=50261589">hacker news</a></small></p>
 <br clear="all" />
 
 ---
