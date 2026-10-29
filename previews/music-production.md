@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Granola Launches Dictation Feature for Mac</h2>
+<a name="story-25852"><img src="https://wsrv.nl/?url=https%3A%2F%2Faitoolsopinions.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGemini_Generated_Image_loxum5loxum5loxu.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Granola has released a Mac dictation feature that converts speech into formatted text across all applications. By pressing the "Fn" key, users can dictate content for emails, messages, and prompts, which the tool then cleans and formats.</p><p>The expansion into dictation mirrors a recent move by competitor Wispr, which added meeting note-taking to its platform. Granola plans to launch the feature on Windows and iOS in the future.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/">techcrunch.com</a></small></p>
+<br clear="all" />
+
 <h2>Anthony Marinelli Discusses Synth Programming and Film Scoring Career</h2>
 <a name="story-25840"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fartboard4.1793182324.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Veteran synthesist and composer Anthony Marinelli reflects on his decades-long career in music production and film scoring, recounting his early work on classic hardware like the ARP 2600 and his contributions to landmark projects including Michael Jackson's Thriller.</p><p>Drawing on his experiences navigating pre-MIDI synchronization challenges and scoring films such as Blue Thunder, Marinelli discusses how his practical studio background inspired his educational platforms, including the Think Like a Synth and Bass DNA courses designed to teach foundational sound design.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25824"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Frg2S5SK0aQ8%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DAWJunkie has released Jack Johnsynth, a free vocal hybrid synthesizer plugin available for macOS and Windows. The virtual instrument comes in VST, AU, and AAX formats, expanding the developer's lineup of quirky freeware tools that includes releases like Drumbo Jr and Padness 2 Jr.</p><p>The plugin is designed to produce unique vocal-inspired hybrid sounds for music producers. It is available to download directly from the official DAWJunkie website.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/dawjunkie-jack-johnsynth/">bedroomproducersblog.com</a> | <a href="https://dawjunkie.com/op/jack-johnsynth/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/dawjunkie-jack-johnsynth/#respond">discussion</a></small></p>
-<br clear="all" />
-
-<h2>KVR Studio Manager Public Beta Updated to v0.5.0.0</h2>
-<a name="story-25749"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Funtitled-3.1707831128.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>KVR Studio Manager has been updated to version 0.5.0.0 in its public beta for macOS and Windows. The update introduces folder monitoring that suggests scans when changes are detected, a notification system for sync and scan results, and the ability to select specific active plugin formats.</p><p>Other improvements include asynchronous syncing, automatic login for saved passwords, and the ability to rescan individual plugins via a right-click menu. On macOS, the application now reports plugin architecture—such as Apple Silicon, Universal, or Intel—and includes a compact view option for the plugin list.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/kvr-studio-manager-public-beta-updated-to-v0-5-0-0---folder-monitoring-notifications-active-plugin-formats-auto-login-and-more-69482?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69482">kvraudio.com</a> | <a href="https://www.kvraudio.com/kvr-studio-manager">source</a></small></p>
 <br clear="all" />
 
 ---
