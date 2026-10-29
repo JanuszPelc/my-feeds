@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>US DOJ Inquires About Nvidia&#x27;s $12.9 Billion Hugging Face Acquisition</h2>
 <a name="story-25760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6a906df0a8a32784cdb5c100%2Fmaster%2Fw_2560%2Cc_limit%2FNvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The US Department of Justice has inquired about Nvidia's $12.93 billion acquisition of Hugging Face to evaluate its potential impact on competition in the artificial intelligence market. Regulators are specifically investigating whether the deal would give Nvidia control over a key distribution point for AI models.</p><p>This inquiry is part of a broader probe into Nvidia's business conduct, covering its investments, sales practices, and potential pressure exerted on customers. The investigation seeks to determine if the company's market dominance is being used to disadvantage competitors.</p>
-<p><small>Links: <a href="https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/">reuters.com</a></small></p>
+<p><small>Links: <a href="https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50280732">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Google Expands AI Mode Ads Globally</h2>

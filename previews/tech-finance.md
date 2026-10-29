@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Samsung Electronics Reports Record Third-Quarter Profit Amid AI Chip Demand</h2>
+<a name="story-25768"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnewsimg.koreatimes.co.kr%2F2026%2F04%2F07%2Fdefde82b-ad68-44a5-8fb1-c31eb2093680.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Samsung Electronics reported record third-quarter results, posting 195.25 trillion won in revenue and 107.44 trillion won in operating profit. The performance, driven by surging demand for AI-related memory chips and advanced high-bandwidth memory, marked the first time a global technology company exceeded 100 trillion won in quarterly operating profit.</p><p>Despite the record earnings meeting analysts' expectations, Samsung shares traded 5% lower following the announcement. Analysts noted that investors increasingly view the company primarily through the lens of its semiconductor performance, with the chip division accounting for nearly all operating profit as the market anticipates continued growth in AI infrastructure spending.</p>
+<p><small>Links: <a href="https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html">cnbc.com</a> | <a href="https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results">source</a></small></p>
+<br clear="all" />
+
 <h2>Cognition Weighs New Funding Round at $70 Billion to $80 Billion Valuation</h2>
 <a name="story-25758"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fai-startup-cognition-raises-300m-10b-valuation-armada-crusoe-secure-131m-1b-ai-39f32fad%2Fcc8747ecf416495db69aef6e06565ac9c1315eafdb0eb69942a76c772be6b5ae.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI coding startup Cognition is considering a new funding round before the end of the year after receiving investor offers valuing the company between $70 billion and $80 billion. The potential new round follows a recent Series E fundraise in September that valued the startup at $48 billion.</p><p>The rapid valuation growth highlights surging investor demand in the AI software-engineering and coding assistant market, where Cognition's Devin agent competes. The company's previous $2 billion funding round brought its valuation up from prior marks earlier in the year.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhyIweAj-_BjCycUlavu5QzLWcxmMIVkAu73h59DO1sGfLtyybSRj3pVB4QFIgQ7kjMkEX_EDQ6wvaUbKflnBi7dGkysOitttaFPLWIlEkHkIjGG504uToXokYtlzFEkn1ePmR06EMBl6gaKwrc6PfQJ31P0L0GTEyworAQioJjQNdgi4YO-f5JP7j595c%2Fs16000%2F511549.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jio Platforms shares surged 21.4% on their trading debut following the company's 302 billion rupee ($3.2 billion) initial public offering, India's largest-ever public issue. The offering was subscribed more than 22 times overall, driven heavily by institutional demand after opening on October 21.</p><p>Reliance Industries retains a majority stake of over 66% in Jio Platforms, alongside significant holdings by Meta Platforms and Google. Following the listing, brokerage Nomura initiated coverage with a buy rating and a target price of 1,340 rupees, citing a largely completed capital expenditure cycle and expected improvements in free cash flow.</p>
 <p><small>Links: <a href="https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html">cnbc.com</a></small></p>
-<br clear="all" />
-
-<h2>Infisical Raises $40 Million Series B at $600 Million Valuation</h2>
-<a name="story-25632"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Finfisical-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Infisical, a cybersecurity infrastructure company, has raised $40 million in Series B funding led by Elad Gil at a $600 million valuation. The platform provides secret management and privileged access controls, enabling enterprises to grant AI agents secure access to critical systems and private credentials.</p><p>The funding will support Infisical's expansion as more organizations adopt autonomous AI agents. The company currently serves over 1,300 customers, including major enterprises such as Airbus and Volkswagen, and the funding round included participation from Gradient and Y Combinator.</p>
-<p><small>Links: <a href="https://www.forbes.com/sites/rashishrivastava/2026/10/27/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/">forbes.com</a> | <a href="https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html">source</a></small></p>
 <br clear="all" />
 
 ---
