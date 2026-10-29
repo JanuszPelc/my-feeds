@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-29T14:30:00+00:00</updated>
+  <updated>2026-10-29T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Pentagon Investigates Military Base Freezer Malfunctions as Suspected Cyberattack</title>
+    <link href="https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/" rel="alternate" />
+    <id>https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/::v240</id>
+    <published>2026-10-29T14:49:00+00:00</published>
+    <updated>2026-10-29T14:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.zonebourse.com%2Fstatic%2Fresize%2F768%2F432%2Fimages%2Freuters%2F2025-06%2F2025-06-09T123154Z_1_LYNXMPEL580H6_RTROPTP_4_USA-TRUMP-MILITARY-MEDIA.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50289243">hacker news</a></small></p><hr/><p>The Pentagon is treating a series of mysterious freezer malfunctions that spoiled food across multiple U.S. military base commissaries in late August as a suspected cyberattack. Officials familiar with the matter stated that freezers at more than six bases abruptly entered defrost mode overnight while maintaining power, destroying significant quantities of stored goods.</p><p>Investigators are currently coordinating with French authorities who are examining a similar incident involving hacked supermarket refrigeration systems in France. The unexpected failures have raised heightened security concerns regarding potential vulnerabilities in critical supply chain and base infrastructure systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.zonebourse.com%2Fstatic%2Fresize%2F768%2F432%2Fimages%2Freuters%2F2025-06%2F2025-06-09T123154Z_1_LYNXMPEL580H6_RTROPTP_4_USA-TRUMP-MILITARY-MEDIA.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 18:31 UTC | #25796</small>]]></content>
+  </entry>
   <entry>
     <title>Vladimir Putin Praises Elon Musk as Real Genius Amid Satellite Discussions</title>
     <link href="https://www.bbc.com/news/articles/c63djl148n3eo" rel="alternate" />

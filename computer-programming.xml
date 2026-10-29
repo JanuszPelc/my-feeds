@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-29T14:38:00+00:00</updated>
+  <updated>2026-10-29T14:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Yoshua Wuyts Analyzes Missing Done State in Rust Future Trait</title>
+    <link href="https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state" rel="alternate" />
+    <id>https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state::v240</id>
+    <published>2026-10-29T14:50:00+00:00</published>
+    <updated>2026-10-29T14:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgencmurat.com%2Fwhat_is_future.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state">blog.yoshuawuyts.com</a> | <a href="https://lobste.rs/s/jmbjlu/future_trait_has_missing_state">discussion</a></small></p><hr/><p>Yoshua Wuyts analyzes limitations in Rust's Future::poll method, arguing that its inability to explicitly signal a completed state leads to inefficient workarounds, panics, and bloated binary sizes on constrained targets. Because the Poll enum only supports Pending and Ready(T), calling poll after completion is undefined behavior that typically triggers a panic, forcing concurrency primitives to rely on redundant bookkeeping.</p><p>The post suggests adding an explicit Done variant to Poll and updating unstable constructs like the Coroutine trait and CoroutineState to prevent repeating similar design flaws. While retrofitting the stable Future trait remains unfeasible without major breaking changes, addressing these gaps in upcoming features like generator syntax could streamline async concurrency tracking and reduce codegen overhead.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgencmurat.com%2Fwhat_is_future.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 18:32 UTC | #25857</small>]]></content>
+  </entry>
   <entry>
     <title>Redox OS Details Ring Buffers Implementation and Performance Improvements</title>
     <link href="https://www.redox-os.org/news/nlnet-rb-summary/" rel="alternate" />
