@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>H.264 Video Compression Explained</h2>
+<a name="story-25885"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ampltd.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fh264hd2000-function-diagram.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Used extensively in Blu-ray, mobile devices, and internet streaming, H.264 minimizes the bandwidth required for transmitting full-motion video.</p><p>The technology achieves significant data reduction through lossy compression methods such as quantization, chroma subsampling, and motion compensation. These techniques exploit spatial and temporal redundancies to lower file sizes compared to uncompressed video.</p>
+<p><small>Links: <a href="https://sidbala.com/h-264-is-magic/">sidbala.com</a> | <a href="https://news.ycombinator.com/item?id=50291054">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Developer Rairii Ports Classic Mac OS to Nintendo Wii</h2>
 <a name="story-25871"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvirtuallyfun.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fmacos922_wii1_00-00-59.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Rairii has successfully ported classic Mac OS versions 7.6 and 9.2.2 to PowerPC systems featuring ArtX chipsets, specifically targeting the Nintendo GameCube and Wii. The project required porting OpenBIOS, rewriting the Trampoline bootloader to handle non-standard physical address layouts, and developing custom storage drivers for EXI-based devices.</p><p>Overcoming hardware discrepancies involved bypassing missing microcontroller emulations and patching mismatched interrupt controller architectures. While testing under emulation revealed significant performance bottlenecks, execution on real hardware achieved functional boots, with ongoing development planned to extend support to the Wii U and additional onboard controllers.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25746"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.spritely.institute%2Fimages%2Fblog%2Fhoot-meta-repl.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Spritely Institute has released Hoot 0.10.0, a Scheme-to-WebAssembly compiler backend for GNU Guile and a general-purpose WebAssembly toolchain. The update introduces numerous bug fixes, compiler enhancements, runtime updates, and expanded Scheme module support, including partial implementations of SRFI-13 and SRFI-60, alongside various R6RS compatibility additions.</p><p>This version arrives ahead of the autumn 2026 Lisp Game Jam, supported by an official game jam template featuring HTML5 canvas bindings and a sample Breakout-style game. Hoot 0.10.0 is available via GNU Guix and source tarballs, with documentation and packages targeted toward modern web browsers including Safari, Firefox, and Chrome.</p>
 <p><small>Links: <a href="https://spritely.institute/news/hoot-0-10-0-released.html">spritely.institute</a> | <a href="https://lobste.rs/s/m3gsln/hoot_0_10_0_released">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Using Goto for Error Handling and Resource Cleanup in C</h2>
-<a name="story-25742"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21qNj8%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc20016e1-6edc-4eb6-94d0-f9d126b00b7e_1771x758.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Writing error handling in C after working in languages with native defer mechanisms like Go and Zig often leads to repetitive and error-prone code blocks scattered throughout a function. Inspired by software control flow discussions and historical programming insights, developers can centralize resource cleanup by using forward-only jumps to a single exit point via the goto statement.</p><p>This pattern mimics a pseudo-defer mechanism, simplifying function logic and reducing bugs associated with maintaining multiple manual cleanup paths. Centralized exiting is a standard convention also recognized in the Linux kernel coding style guide for managing allocations and file descriptors safely.</p>
-<p><small>Links: <a href="https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/">thestateofinahaze.net</a> | <a href="https://lobste.rs/s/exwlmn/goto_considered_totally_sick_for_error">discussion</a></small></p>
 <br clear="all" />
 
 ---

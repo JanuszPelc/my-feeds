@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T19:44:00+00:00</updated>
+  <updated>2026-10-29T19:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Thrive Holdings to Acquire ADT in $15.3 Billion All-Cash Deal</title>
+    <link href="https://www.axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private" rel="alternate" />
+    <id>https://www.axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private::v240</id>
+    <published>2026-10-29T19:54:00+00:00</published>
+    <updated>2026-10-29T19:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs201.q4cdn.com%2F833622905%2Ffiles%2Fdoc_downloads%2Ffeatured_materials_docs%2Fadt-esg-report.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private">axios.com</a> | <a href="https://investor.adt.com/News--Events/news/news-details/2026/ADT-to-be-Acquired-by-Thrive-Holdings-in-15-3-Billion-Transaction/default.aspx">source</a></small></p><hr/><p>Thrive Holdings has entered into a definitive agreement to acquire home security provider ADT in an all-cash take-private transaction. The deal values ADT at approximately $15.3 billion in enterprise value and $7.6 billion in equity value, representing a roughly 46% premium over the company's October 27, 2026, closing price.</p><p>ADT stockholders are set to receive $10.00 per share in cash. The transaction is expected to be financed by funds managed by Apollo affiliates and remains subject to customary closing conditions, including approval from stockholders and antitrust regulators.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs201.q4cdn.com%2F833622905%2Ffiles%2Fdoc_downloads%2Ffeatured_materials_docs%2Fadt-esg-report.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 21:45 UTC | #25817</small>]]></content>
+  </entry>
   <entry>
     <title>Serval Raises $150 Million in Series C Funding at $3 Billion Valuation</title>
     <link href="https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Thrive Holdings to Acquire ADT in $15.3 Billion All-Cash Deal</h2>
+<a name="story-25817"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs201.q4cdn.com%2F833622905%2Ffiles%2Fdoc_downloads%2Ffeatured_materials_docs%2Fadt-esg-report.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Thrive Holdings has entered into a definitive agreement to acquire home security provider ADT in an all-cash take-private transaction. The deal values ADT at approximately $15.3 billion in enterprise value and $7.6 billion in equity value, representing a roughly 46% premium over the company's October 27, 2026, closing price.</p><p>ADT stockholders are set to receive $10.00 per share in cash. The transaction is expected to be financed by funds managed by Apollo affiliates and remains subject to customary closing conditions, including approval from stockholders and antitrust regulators.</p>
+<p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private">axios.com</a> | <a href="https://investor.adt.com/News--Events/news/news-details/2026/ADT-to-be-Acquired-by-Thrive-Holdings-in-15-3-Billion-Transaction/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Serval Raises $150 Million in Series C Funding at $3 Billion Valuation</h2>
 <a name="story-25814"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fserval-raises-150m-series-c-at-3b-valuation-to-hire-over-500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Serval, an enterprise IT service management and automation startup, has raised $150 million in a Series C funding round led by Sequoia Capital. The financing values the company at $3 billion, tripling its valuation from $1 billion recorded in December 2025.</p><p>The new capital will support the expansion of Serval's AI workflow automation platform and fund plans to hire over 500 employees as the company scales its operations to compete with established enterprise software providers.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25774"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F04%2F30%2Falphabet-google-2025-q2-earnings%2Fs01_m.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet shares dropped nearly ten percent following its third-quarter 2026 earnings report after the company revealed that AI-powered search queries generate less revenue than traditional search ads. Although year-over-year search query growth reached a five-year high driven by the adoption of Google's AI Mode, the lower monetization rate contributed to a slower 12 percent growth in search revenue, totaling $63.25 billion.</p><p>The monetization shortfall coincides with heavy infrastructure spending, with Google recording $51.4 billion in capital expenditures for the quarter primarily directed toward servers, networking equipment, and data centers. To address the revenue gap, Google is expanding ad placements within AI Mode globally, while its cloud division faces capacity constraints that have forced the company to offload certain customer workloads to third-party providers.</p>
 <p><small>Links: <a href="https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181">theregister.com</a> | <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Fragment Raises $56 Million and Emerges From Stealth</h2>
-<a name="story-25773"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechfundingnews.com%2Fwp-content%2Fuploads%2F2026%2F10%2FFragment-team.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Fragment has exited stealth with $56 million in total funding, featuring a Series A round led by 8VC with participation from General Catalyst and A*. The company builds enterprise AI software designed to automate procurement operations and handle purchasing and payment exceptions.</p><p>The platform uses AI agents integrated into existing enterprise systems to investigate and resolve issues autonomously, moving beyond simple recommendations to execute authorized actions. The newly announced capital will support the company's ongoing growth and product expansion.</p>
-<p><small>Links: <a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/28/fragment-procurement-software-botha">axios.com</a> | <a href="https://fragment.ai/series-A">source</a></small></p>
 <br clear="all" />
 
 ---
