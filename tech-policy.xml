@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-28T21:11:00+00:00</updated>
+  <updated>2026-10-29T00:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Zillow Agrees to Pay $212.5 Million to Settle Investor Class Action Over Zillow Offers</title>
+    <link href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/" rel="alternate" />
+    <id>https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/::v240</id>
+    <published>2026-10-29T00:31:00+00:00</published>
+    <updated>2026-10-29T00:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2FZillow-Offers-exterior-sign.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/">reuters.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/1617640/000161764026000063/z-20261027.htm">source</a> | <a href="https://news.ycombinator.com/item?id=50284342">hacker news</a></small></p><hr/><p>Zillow has agreed to pay $212.5 million in cash to settle a securities class action lawsuit accusing the company of misleading shareholders regarding its defunct Zillow Offers home-flipping venture. The litigation centered on steep losses incurred after the company miscalculated housing market trends and abruptly shut down the algorithmic home-buying program.</p><p>The settlement was reached following the U.S. Supreme Court's refusal to hear Zillow's appeal regarding the case. The resolution puts to rest years of legal battles led by investor-rights attorneys on behalf of shareholders who suffered financial declines following the unexpected termination of the real estate venture.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2FZillow-Offers-exterior-sign.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 07:32 UTC | #25766</small>]]></content>
+  </entry>
   <entry>
     <title>New York Governor Kathy Hochul Signs AI Chatbot and Baby Monitor Safety Bills</title>
     <link href="https://news.bgov.com/bloomberg-government-news/hochul-signs-bills-on-ai-risks-to-children-in-pre-election-push" rel="alternate" />
