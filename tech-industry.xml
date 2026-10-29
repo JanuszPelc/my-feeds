@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T14:32:00+00:00</updated>
+  <updated>2026-10-29T14:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Sierra Club Projects US Power Emissions Rise Driven by Data Center Expansion</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-28/us-data-center-buildout-risks-erasing-years-of-climate-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIxODQ4MywiZXhwIjoxNzkzODIzMjgzLCJhcnRpY2xlSWQiOiJUTk03WTFLSVAzSVAwMCIsImJjb25uZWN0SWQiOiJGM0VENDU5NTZFRjA0QjY5QTI0NTVBNTYxRDkyNkY5NiJ9.vaYGVNos-PgwrFAeFWxa9-gyGHRxRihCe_on05i2B3A" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-28/us-data-center-buildout-risks-erasing-years-of-climate-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIxODQ4MywiZXhwIjoxNzkzODIzMjgzLCJhcnRpY2xlSWQiOiJUTk03WTFLSVAzSVAwMCIsImJjb25uZWN0SWQiOiJGM0VENDU5NTZFRjA0QjY5QTI0NTVBNTYxRDkyNkY5NiJ9.vaYGVNos-PgwrFAeFWxa9-gyGHRxRihCe_on05i2B3A::v240</id>
+    <published>2026-10-29T14:35:00+00:00</published>
+    <updated>2026-10-29T14:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fthecoinomist.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fai-data-centers1.png%3Fv%3D1775562552&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/us-data-center-buildout-risks-erasing-years-of-climate-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIxODQ4MywiZXhwIjoxNzkzODIzMjgzLCJhcnRpY2xlSWQiOiJUTk03WTFLSVAzSVAwMCIsImJjb25uZWN0SWQiOiJGM0VENDU5NTZFRjA0QjY5QTI0NTVBNTYxRDkyNkY5NiJ9.vaYGVNos-PgwrFAeFWxa9-gyGHRxRihCe_on05i2B3A">bloomberg.com</a> | <a href="https://www.sierraclub.org/sierra/hidden-ai-carbon-emissions-aren-t-being-counted">source</a></small></p><hr/><p>US power sector emissions are projected to reach 2.1 billion metric tons by 2030, a 42% increase over 2025 levels according to a Sierra Club analysis. This growth is driven by the rapid expansion of data center infrastructure.</p><p>The surge is expected to erase 15 years of declines in power-sector emissions. Additionally, emissions from off-grid data centers could match the total emissions produced by Mexico.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fthecoinomist.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fai-data-centers1.png%3Fv%3D1775562552&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 17:37 UTC | #25792</small>]]></content>
+  </entry>
   <entry>
     <title>US Battery Storage Installations Reach Record 20.2 GWh in Q2 2026</title>
     <link href="https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/" rel="alternate" />

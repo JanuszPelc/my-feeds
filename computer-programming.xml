@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-29T06:50:00+00:00</updated>
+  <updated>2026-10-29T14:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Redox OS Details Ring Buffers Implementation and Performance Improvements</title>
+    <link href="https://www.redox-os.org/news/nlnet-rb-summary/" rel="alternate" />
+    <id>https://www.redox-os.org/news/nlnet-rb-summary/::v240</id>
+    <published>2026-10-29T14:38:00+00:00</published>
+    <updated>2026-10-29T14:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.redox-os.org%2Fimg%2Fnlnet-rb-summary%2Fring-buffers-benchmark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.redox-os.org/news/nlnet-rb-summary/">redox-os.org</a> | <a href="https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary">discussion</a></small></p><hr/><p>The Redox OS team has concluded a grant-funded project supported by the NLnet Foundation to implement io_uring-like ring buffer support at the system task level. The new redox-rings crate and associated FFI API allow applications to asynchronously submit I/O requests and communicate with system daemons like RamFS and NVMed via shared memory without kernel involvement or data copying.</p><p>Alongside the ring buffer machinery and a new async driver executor, the team implemented several kernel and IPC optimizations—such as direct context switching, vector register zeroing on syscall paths, and 2MB huge page support—which collectively reduced IPC roundtrip latency and accelerated benchmark performance significantly.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.redox-os.org%2Fimg%2Fnlnet-rb-summary%2Fring-buffers-benchmark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 17:40 UTC | #25845</small>]]></content>
+  </entry>
   <entry>
     <title>Raspberry Pi Zero 3 W and Pi 4 Model A Device Trees Found in Linux Kernel</title>
     <link href="https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/" rel="alternate" />

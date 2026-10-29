@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-29T14:31:00+00:00</updated>
+  <updated>2026-10-29T14:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>NASA Juno Spacecraft Reveals Complex Plasma Wave Structure at Jupiter's Bow Shock</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261028232715.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261028232715.htm::v240</id>
+    <published>2026-10-29T14:37:00+00:00</published>
+    <updated>2026-10-29T14:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffuturism.com%2Fwp-content%2Fuploads%2F2016%2F07%2FA-NASA.jpg%3Fquality%3D85%26w%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261028232715.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41467-026-76223-x">source</a></small></p><hr/><p>Researchers analyzing data from NASA’s Juno spacecraft have mapped Jupiter’s bow shock in unprecedented detail, revealing a planetary defense system significantly more complex than Earth’s. The study shows that the solar system’s largest planet uses multi-frequency plasma waves and secondary shock structures known as shocklets to slow and heat incoming solar wind particles before they reach the primary boundary.</p><p>Published in Nature Communications, the findings demonstrate how Jupiter’s powerful magnetic environment manages high-energy solar particles differently than Earth, which relies on a simpler, single-frequency boundary. Because these plasma interactions share fundamental physics with extreme cosmic shocks found around supernova remnants, the observations provide a natural laboratory for studying energy dissipation in distant astrophysical environments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffuturism.com%2Fwp-content%2Fuploads%2F2016%2F07%2FA-NASA.jpg%3Fquality%3D85%26w%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 17:40 UTC | #25809</small>]]></content>
+  </entry>
   <entry>
     <title>UC Davis Mathematicians Challenge Dark Energy with Study on Spacetime Instability</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261028232719.htm" rel="alternate" />

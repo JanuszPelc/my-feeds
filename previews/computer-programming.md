@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Redox OS Details Ring Buffers Implementation and Performance Improvements</h2>
+<a name="story-25845"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.redox-os.org%2Fimg%2Fnlnet-rb-summary%2Fring-buffers-benchmark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Redox OS team has concluded a grant-funded project supported by the NLnet Foundation to implement io_uring-like ring buffer support at the system task level. The new redox-rings crate and associated FFI API allow applications to asynchronously submit I/O requests and communicate with system daemons like RamFS and NVMed via shared memory without kernel involvement or data copying.</p><p>Alongside the ring buffer machinery and a new async driver executor, the team implemented several kernel and IPC optimizations—such as direct context switching, vector register zeroing on syscall paths, and 2MB huge page support—which collectively reduced IPC roundtrip latency and accelerated benchmark performance significantly.</p>
+<p><small>Links: <a href="https://www.redox-os.org/news/nlnet-rb-summary/">redox-os.org</a> | <a href="https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Raspberry Pi Zero 3 W and Pi 4 Model A Device Trees Found in Linux Kernel</h2>
 <a name="story-25819"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Frpf-products%2F656a14be-ba7e-476d-94ff-3dba02c4050e_Pi%2BZERO%2BAngle%2B1.jpg%3Fixlib%3DgatsbyFP%26auto%3Dcompress%2Cformat%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Device tree files for a Raspberry Pi Zero 3 W and a Raspberry Pi 4 Model A have been added to the Raspberry Pi Linux kernel tree. The Zero 3 W configuration suggests it will feature the Broadcom BCM2711 quad-core Cortex-A72 SoC, offering a significant performance increase over the Zero 2 W.</p><p>The Pi 4 Model A is expected to be a stripped-down version of the Model B, lacking Ethernet, 3.5mm audio, and dual HDMI ports. The files also suggest that both new boards may include SPI flash bootloaders and power button headers.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25731"><img src="https://wsrv.nl/?url=https%3A%2F%2Flemire.me%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fperfect-hash-http-headers.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Daniel Lemire and Francisco Geiman Thiesen have released a C++23 library that implements compile-time perfect hashing to map static strings to values at speeds exceeding one billion lookups per second. By generating a collision-free hash function during compilation, the approach eliminates runtime collision resolution and hashing overhead.</p><p>The technique relies on association tables and key lengths to compute slot indices with minimal bitwise operations, while utilizing 16-byte vector registers and zero-padding to accelerate string comparisons. Benchmarks demonstrate that the method completes lookups in roughly five CPU cycles, significantly outperforming traditional containers like std::unordered_map as well as the GNU gperf tool.</p>
 <p><small>Links: <a href="https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/">lemire.me</a> | <a href="https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c">discussion</a> | <a href="https://news.ycombinator.com/item?id=50271088">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Haskell-Like Type Class Resolution Implemented in Pure Java</h2>
-<a name="story-25714"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage3.slideserve.com%2F5573386%2Ftype-classes-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A software engineering blog post explores how Java's existing type system can support Haskell-style type class instance resolution entirely in plain Java without language modifications. By combining runtime reflection, generic type metadata, and a compact type unification engine, the approach automatically resolves both first-order and higher-kinded type classes while supporting overlapping instances and nested generic types.</p><p>Although presented as an experimental exploration rather than a production library, the project demonstrates the surprising amount of structure Java preserves at runtime for advanced type-level programming. A complete reference implementation is publicly available via GitHub and a GitHub Gist for developers examining metaprogramming techniques in Java.</p>
-<p><small>Links: <a href="https://garciat.com/posts/java-type-classes/">garciat.com</a> | <a href="https://lobste.rs/s/beiiil/full_haskell_like_type_class_resolution">discussion</a></small></p>
 <br clear="all" />
 
 ---
