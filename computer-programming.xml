@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-29T14:50:00+00:00</updated>
+  <updated>2026-10-29T17:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Developer Rairii Ports Classic Mac OS to Nintendo Wii</title>
+    <link href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/" rel="alternate" />
+    <id>https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/::v240</id>
+    <published>2026-10-29T17:04:00+00:00</published>
+    <updated>2026-10-29T17:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvirtuallyfun.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fmacos922_wii1_00-00-59.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/">virtuallyfun.com</a> | <a href="https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii">discussion</a></small></p><hr/><p>Developer Rairii has successfully ported classic Mac OS versions 7.6 and 9.2.2 to PowerPC systems featuring ArtX chipsets, specifically targeting the Nintendo GameCube and Wii. The project required porting OpenBIOS, rewriting the Trampoline bootloader to handle non-standard physical address layouts, and developing custom storage drivers for EXI-based devices.</p><p>Overcoming hardware discrepancies involved bypassing missing microcontroller emulations and patching mismatched interrupt controller architectures. While testing under emulation revealed significant performance bottlenecks, execution on real hardware achieved functional boots, with ongoing development planned to extend support to the Wii U and additional onboard controllers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvirtuallyfun.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fmacos922_wii1_00-00-59.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 20:21 UTC | #25871</small>]]></content>
+  </entry>
   <entry>
     <title>Yoshua Wuyts Analyzes Missing Done State in Rust Future Trait</title>
     <link href="https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state" rel="alternate" />
