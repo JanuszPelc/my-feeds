@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Surge AI Releases DAYJOB: Tax Benchmark for AI Agents</title>
+    <link href="https://surgehq.ai/blog/dayjob-tax" rel="alternate" />
+    <id>https://surgehq.ai/blog/dayjob-tax::v240</id>
+    <published>2026-10-29T05:28:00+00:00</published>
+    <updated>2026-10-29T05:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F68dcd2ceb173c46fa029931c%2F6ae0be39ff7dfbf1d1c0be10_6ae0be167d69fdd5f5b61e46_dayjob-tax-leaderboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://surgehq.ai/blog/dayjob-tax">surgehq.ai</a> | <a href="https://news.ycombinator.com/item?id=50275626">hacker news</a></small></p><hr/><p>Surge AI has released DAYJOB: Tax, a new benchmark designed to evaluate AI agents on professional tax preparation, compliance, and advisory services. The benchmark features 50 real-world assignments spanning eight tax practice areas and nearly 1,800 workspace files, testing models on end-to-end workflows, calculations, and professional judgment.</p><p>Initial evaluations reveal that frontier models struggle significantly with these complex tasks, with the leading model, Claude Sonnet 5.5, achieving a pass rate of only 10.8% at a 95% rubric threshold. The findings demonstrate that current AI agents frequently fail to recognize implicit constraints, deadlines, or unverified assumptions embedded within messy client records.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F68dcd2ceb173c46fa029931c%2F6ae0be39ff7dfbf1d1c0be10_6ae0be167d69fdd5f5b61e46_dayjob-tax-leaderboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 12:42 UTC | #25802</small>]]></content>
+  </entry>
+  <entry>
     <title>Claude Code Background Agent Summaries Consuming 20 Percent of Tokens Addressed by Bun Preload</title>
     <link href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce" rel="alternate" />
     <id>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce::v240</id>
