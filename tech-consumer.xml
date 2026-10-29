@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-28T21:10:00+00:00</updated>
+  <updated>2026-10-29T14:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Unredacted 1964 FBI Letter to Martin Luther King Jr. Examined by Historians</title>
+    <link href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter" rel="alternate" />
+    <id>https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter::v240</id>
+    <published>2026-10-29T14:16:00+00:00</published>
+    <updated>2026-10-29T14:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fportside.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Ffield%2Fimage%2Fmlkletters.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter">vox.com</a> | <a href="https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html">source</a> | <a href="https://news.ycombinator.com/item?id=50288867">hacker news</a></small></p><hr/><p>In 1964, top FBI officials sent an anonymous, threatening letter and surveillance recordings of extramarital affairs to civil rights leader Martin Luther King Jr. in an effort to compel him to commit suicide. Directed by William Sullivan under FBI Director J. Edgar Hoover, the blackmail campaign followed years of intense government monitoring designed to discredit King's leadership and activism.</p><p>Yale historian Beverly Gage later unearthed a fully unredacted version of the document from archival records, revealing details previously concealed by government redactions. The text explicitly derided King's honors, including his Nobel Peace Prize, and warned him that he had 34 days to take his own life, highlighting the severe abuses of domestic intelligence agencies during the civil rights era.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fportside.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Ffield%2Fimage%2Fmlkletters.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 15:48 UTC | #25826</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Makes 512GB RAM Configuration Available for Mac Studio With M5 Ultra</title>
     <link href="https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/" rel="alternate" />

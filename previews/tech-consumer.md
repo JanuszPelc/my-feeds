@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Unredacted 1964 FBI Letter to Martin Luther King Jr. Examined by Historians</h2>
+<a name="story-25826"><img src="https://wsrv.nl/?url=https%3A%2F%2Fportside.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Ffield%2Fimage%2Fmlkletters.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In 1964, top FBI officials sent an anonymous, threatening letter and surveillance recordings of extramarital affairs to civil rights leader Martin Luther King Jr. in an effort to compel him to commit suicide. Directed by William Sullivan under FBI Director J. Edgar Hoover, the blackmail campaign followed years of intense government monitoring designed to discredit King's leadership and activism.</p><p>Yale historian Beverly Gage later unearthed a fully unredacted version of the document from archival records, revealing details previously concealed by government redactions. The text explicitly derided King's honors, including his Nobel Peace Prize, and warned him that he had 34 days to take his own life, highlighting the severe abuses of domestic intelligence agencies during the civil rights era.</p>
+<p><small>Links: <a href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter">vox.com</a> | <a href="https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html">source</a> | <a href="https://news.ycombinator.com/item?id=50288867">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Apple Makes 512GB RAM Configuration Available for Mac Studio With M5 Ultra</h2>
 <a name="story-25729"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.servethehome.com%2Fwp-content%2Fuploads%2F2025%2F03%2FApple-Mac-Studio-M3-Ultra-Angle-Stock.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has made the 512GB unified memory configuration available for the Mac Studio equipped with the M5 Ultra chip, with U.S. pricing starting at $22,299. This rollout follows the company's previous schedule indicating the high-capacity memory tier would launch in late October.</p><p>The 512GB RAM option is exclusive to the M5 Ultra model, while configurations featuring the M5 Max chip remain capped at 128GB of maximum memory. The massive memory upgrade allows users to run large-scale on-device language models and heavy professional workloads entirely locally.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25607"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltecf4adffa4fbd2dd%2F67a3a535239940042aa32fe8%2Fkingdom_come_2.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The developer of Kingdom Come: Deliverance, Warhorse Studios, has confirmed a cybersecurity incident involving unauthorized access to company systems and data. The studio is currently working with cybersecurity experts to secure its infrastructure and determine the full extent of the breach.</p><p>CEO Martin Frývaldský characterized the attack as a serious incident, though the specific scope of the data breach has not yet been fully assessed. Potential implications include the exposure of sensitive employee information or internal development data for upcoming titles, such as the studio's unannounced Lord of the Rings RPG.</p>
 <p><small>Links: <a href="https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident">gamedeveloper.com</a> | <a href="https://warhorsestudios.cz/en/incident">source</a></small></p>
-<br clear="all" />
-
-<h2>Matt Hall Named Atari EVP of Mobile</h2>
-<a name="story-25604"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltda48dff3e66f9c09%2F673f584dfde1970d3e5da79b%2FCrossy_Road_Insert.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Matt Hall, co-founder of Hipster Whale and creator of Crossy Road, has been appointed Executive Vice-President of Mobile expansion initiatives at Atari.</p><p>The appointment follows Atari's acquisitions of Hipster Whale and Early Morning Studios. Hall will oversee cross-platform compatibility across engines, manage mobile partnerships, and build infrastructure for Atari's mobile game expansions.</p>
-<p><small>Links: <a href="https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile">gamedeveloper.com</a> | <a href="https://www.gamespress.com/ATARI-NAMES-CROSSY-ROAD-CREATOR-MATT-HALL-EVP-OF-MOBILE">source</a></small></p>
 <br clear="all" />
 
 ---
