@@ -10,6 +10,12 @@
 
 *Where the money in tech goes, from funding rounds and deals to earnings.*
 
+<h2>Alphabet Reports Q3 2026 Revenue of $127.6 Billion</h2>
+<a name="story-25743"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alphabet Inc. reported third-quarter revenue of $127.6 billion for the period ended September 30, 2026, a 25% increase year-over-year. Growth was led by a 103% increase in Google Cloud revenue to $30.7 billion, while Google Services revenue rose 11% to $96.3 billion.</p><p>The significant expansion in Google Cloud revenue contributed heavily to the company's quarterly performance. These results reflect strong growth across Alphabet's primary revenue-generating segments.</p>
+<p><small>Links: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">s206.q4cdn.com</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Microsoft Reports $92.3 Billion in Quarterly Revenue, Marking 10 Consecutive Record Quarters</h2>
 <a name="story-25757"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMicrosofts-10-consecutive-quarterly-revenue-records.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The company generated $92.3 billion in revenue for the first quarter of fiscal year 2027, a 19% increase year-over-year. This marks the tenth consecutive quarter of record-breaking revenue for the firm, alongside a 32% increase in net income to $36.6 billion.</p><p>Growth was led by Microsoft Cloud, which earned $63.9 billion, with Azure contributing $33.2 billion. Revenue from OpenAI-related services reached $10 billion, though the Devices and Consumer segment saw a 3% decline, including a 22% drop in Windows OEM revenue. Capital expenditures also reached a quarterly record of $45.2 billion.</p>
@@ -62,12 +68,6 @@
 <a name="story-25596"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frohandsouza.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Avante, a Seattle-based startup, has secured $30 million in Series A funding led by Frist Cressey Ventures to expand its AI platform for corporate benefits teams. The platform uses AI agents to automate tasks such as comparing vendor contracts, reviewing plan documents for errors, and assisting employees with coverage inquiries.</p><p>The company has raised a total of $40 million to date and currently serves more than 70 customers, including Samsung Semiconductor and News Corp. Avante plans to use the new capital to support international expansion and further develop its "Ava Agents" technology.</p>
 <p><small>Links: <a href="https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/">geekwire.com</a> | <a href="https://www.businesswire.com/news/home/20261026144838/en/Avante-Raises-%2430M-to-Expand-Its-AI-Platform-for-Global-Benefits-Teams">source</a></small></p>
-<br clear="all" />
-
-<h2>Disruptive Closes $10 Billion Fund for AI and Defense Startups</h2>
-<a name="story-25574"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.usfunds.com%2Fapp%2Fuploads%2F2026%2F04%2FCOMM-global-funding-04102026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Dallas-based investment firm Disruptive has closed a $10 billion flagship fund dedicated to backing artificial intelligence, defense, and software startups. The capital raise doubles the 15-year-old firm's assets under management and marks a strategic shift from single-deal special purpose vehicles to a discretionary fund structure.</p><p>Under the new fund, Disruptive plans to invest in approximately 10 later-stage companies, deploying about $1 billion into each. The firm's historical portfolio includes prominent tech ventures such as chipmaker Groq and open-source AI model developer Reflection AI.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/disruptive-announces-10-billion-flagship-fund-302920033.html">source</a></small></p>
 <br clear="all" />
 
 ---
