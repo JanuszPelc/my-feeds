@@ -1,14 +1,12 @@
 <p><a href="top-stories.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/top--stories-29313d?style=flat-square" /><img src="https://img.shields.io/badge/top--stories-dfe6ed?style=flat-square" height="28" alt="top-stories" /></picture></a> <a href="ai-news.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ai--news-29313d?style=flat-square" /><img src="https://img.shields.io/badge/ai--news-dfe6ed?style=flat-square" height="28" alt="ai-news" /></picture></a> <a name="computer-programming"><picture><img src="https://img.shields.io/badge/computer--programming-c3553a?style=flat-square" height="28" alt="computer-programming" /></picture></a> <a href="computer-security.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--security-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--security-dfe6ed?style=flat-square" height="28" alt="computer-security" /></picture></a> <a href="human-and-ai.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--and--ai-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--and--ai-dfe6ed?style=flat-square" height="28" alt="human-and-ai" /></picture></a> <a href="human-knowledge.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--knowledge-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--knowledge-dfe6ed?style=flat-square" height="28" alt="human-knowledge" /></picture></a> <a href="music-production.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/music--production-29313d?style=flat-square" /><img src="https://img.shields.io/badge/music--production-dfe6ed?style=flat-square" height="28" alt="music-production" /></picture></a> <a href="tech-consumer.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--consumer-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--consumer-dfe6ed?style=flat-square" height="28" alt="tech-consumer" /></picture></a> <a href="tech-finance.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--finance-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--finance-dfe6ed?style=flat-square" height="28" alt="tech-finance" /></picture></a> <a href="tech-industry.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--industry-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--industry-dfe6ed?style=flat-square" height="28" alt="tech-industry" /></picture></a> <a href="tech-policy.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--policy-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--policy-dfe6ed?style=flat-square" height="28" alt="tech-policy" /></picture></a></p>
 
-> Subscribe to the computer-programming feed by copying this link into your RSS reader:
->
-> ```
-> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
-> ```
-
 <h1><img src="../images/computer-programming.png" width="36" align="absmiddle" /> computer-programming</h1>
 
-*The craft of building software, from new languages to old machines.*
+*The craft of building software, from new languages to old machines. Add it to your RSS reader:*
+
+```
+https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
+```
 
 <h2>0xABADBABE Constant in Windows Debugging</h2>
 <a name="story-25769"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2011%2F09%2FBUGCODE_USB_DRIVER.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
