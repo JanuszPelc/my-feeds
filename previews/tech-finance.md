@@ -10,6 +10,12 @@
 
 *Where the money in tech goes, from funding rounds and deals to earnings.*
 
+<h2>ServiceNow Shares Fall Following Lower-Than-Expected Q4 Sales Outlook</h2>
+<a name="story-25764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGwknNQxXwAE070c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ServiceNow reported third-quarter subscription revenue of $3.99 billion, a 21% increase year-over-year. However, the company's fourth-quarter outlook for current remaining performance obligations fell below analyst estimates, leading to a share price decline of over 15% in after-hours trading.</p><p>The cautious sales guidance has renewed investor concerns about the impact of artificial intelligence on long-term growth. Although third-quarter revenue remains strong, the projected outlook for upcoming obligations has introduced uncertainty regarding future demand.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/servicenow-falls-after-quarterly-sales-outlook-revives-ai-fears">bloomberg.com</a> | <a href="https://investor.servicenow.com/news/news-details/2026/ServiceNow-Reports-Third-Quarter-2026-Financial-Results/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Alphabet Reports Q3 2026 Revenue of $127.6 Billion</h2>
 <a name="story-25743"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Inc. reported third-quarter revenue of $127.6 billion for the period ended September 30, 2026, a 25% increase year-over-year. Growth was led by a 103% increase in Google Cloud revenue to $30.7 billion, while Google Services revenue rose 11% to $96.3 billion.</p><p>The significant expansion in Google Cloud revenue contributed heavily to the company's quarterly performance. These results reflect strong growth across Alphabet's primary revenue-generating segments.</p>
@@ -62,12 +68,6 @@
 <a name="story-25603"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.tipranks.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fimage-852.png%3Futm_source%3Dnasdaq.com%26utm_medium%3Dreferral&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>General Motors will transfer its common stock listing from the New York Stock Exchange to Nasdaq on November 17, 2026. The move supports the company's strategic shift toward artificial intelligence and autonomous vehicle development.</p><p>This transition is part of an initiative led by Sterling Anderson to use AI to accelerate GM's development cycles and manufacturing. The automaker will continue to trade under the 'GM' ticker symbol on the new exchange.</p>
 <p><small>Links: <a href="https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270">ft.com</a> | <a href="https://www.prnewswire.com/news-releases/gm-announces-transfer-of-stock-exchange-listing-to-nasdaq-302920230.html">source</a></small></p>
-<br clear="all" />
-
-<h2>Avante Raises $30M to Expand AI Platform for Corporate Benefits</h2>
-<a name="story-25596"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frohandsouza.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Avante, a Seattle-based startup, has secured $30 million in Series A funding led by Frist Cressey Ventures to expand its AI platform for corporate benefits teams. The platform uses AI agents to automate tasks such as comparing vendor contracts, reviewing plan documents for errors, and assisting employees with coverage inquiries.</p><p>The company has raised a total of $40 million to date and currently serves more than 70 customers, including Samsung Semiconductor and News Corp. Avante plans to use the new capital to support international expansion and further develop its "Ava Agents" technology.</p>
-<p><small>Links: <a href="https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/">geekwire.com</a> | <a href="https://www.businesswire.com/news/home/20261026144838/en/Avante-Raises-%2430M-to-Expand-Its-AI-Platform-for-Global-Benefits-Teams">source</a></small></p>
 <br clear="all" />
 
 ---
