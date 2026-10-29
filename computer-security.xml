@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-29T09:10:00+00:00</updated>
+  <updated>2026-10-29T14:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Mark Blaszczyk Details Android SMS of Death Zero-Click Denial-of-Service Vulnerability</title>
+    <link href="https://smsofdeath.com/" rel="alternate" />
+    <id>https://smsofdeath.com/::v240</id>
+    <published>2026-10-29T14:27:00+00:00</published>
+    <updated>2026-10-29T14:27:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.gridinsoft.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fexploitation-process-samsung-zeroclick.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://smsofdeath.com/">smsofdeath.com</a> | <a href="https://news.ycombinator.com/item?id=50285452">hacker news</a></small></p><hr/><p>Security researcher Mark Blaszczyk has detailed a zero-click denial-of-service vulnerability in Android, dubbed "SMS of Death," which can crash the telephony service and drop active calls—including emergency calls—using a single malformed WAP Push message. The flaw stems from an unchecked cast of a WSP header length read as a 64-bit integer into a 32-bit signed integer, triggering a NegativeArraySizeException that terminates the telephony process without any user interaction or notification.</p><p>According to the disclosure, rapid transmission of the payload can corrupt the SQLite database behind SMS storage, causing persistent crash-on-boot loops that require removing the SIM card or using ADB for recovery. Despite being reported to the Android &amp; Google Devices VRP with a suggested one-line patch, Google ultimately classified the issue as a non-security issue and declined to fix it, prompting the researcher to publish a public proof-of-concept.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.gridinsoft.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fexploitation-process-samsung-zeroclick.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 16:54 UTC | #25838</small>]]></content>
+  </entry>
   <entry>
     <title>Bluesky Blocks Links to Leaked Department of Homeland Security Records</title>
     <link href="https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/" rel="alternate" />
