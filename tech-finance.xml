@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T05:11:00+00:00</updated>
+  <updated>2026-10-29T05:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Samsung Electronics Shares Slide After Shareholder Return Plan Is Delayed</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed::v240</id>
+    <published>2026-10-29T05:26:00+00:00</published>
+    <updated>2026-10-29T05:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg4.yna.co.kr%2Fetc%2Fgraphic%2FYH%2F2023%2F10%2F31%2FGYH2023103100090031500_P4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed">bloomberg.com</a> | <a href="https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2026_3Q_conference_eng.pdf">source</a></small></p><hr/><p>Samsung Electronics Co. shares dropped as much as 6.6% following its earnings report because the company delayed announcing its new shareholder return plan until the end of January. The delay disappointed investors, particularly as rival SK Hynix reported strong earnings and announced plans to return roughly $45 billion to shareholders.</p><p>Sentiment toward Samsung was further weighed down by chip operating profit missing market estimates alongside an expansion in capital expenditures. The contrast in shareholder payouts and profitability expectations deepened concerns about Samsung's competitive footing in the ongoing artificial intelligence rally.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg4.yna.co.kr%2Fetc%2Fgraphic%2FYH%2F2023%2F10%2F31%2FGYH2023103100090031500_P4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 12:29 UTC | #25776</small>]]></content>
+  </entry>
   <entry>
     <title>Alphabet Shares Fall After Google Reports Lower Monetization for AI Search Mode</title>
     <link href="https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181" rel="alternate" />

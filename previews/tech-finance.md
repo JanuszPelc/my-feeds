@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Samsung Electronics Shares Slide After Shareholder Return Plan Is Delayed</h2>
+<a name="story-25776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg4.yna.co.kr%2Fetc%2Fgraphic%2FYH%2F2023%2F10%2F31%2FGYH2023103100090031500_P4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Samsung Electronics Co. shares dropped as much as 6.6% following its earnings report because the company delayed announcing its new shareholder return plan until the end of January. The delay disappointed investors, particularly as rival SK Hynix reported strong earnings and announced plans to return roughly $45 billion to shareholders.</p><p>Sentiment toward Samsung was further weighed down by chip operating profit missing market estimates alongside an expansion in capital expenditures. The contrast in shareholder payouts and profitability expectations deepened concerns about Samsung's competitive footing in the ongoing artificial intelligence rally.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed">bloomberg.com</a> | <a href="https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2026_3Q_conference_eng.pdf">source</a></small></p>
+<br clear="all" />
+
 <h2>Alphabet Shares Fall After Google Reports Lower Monetization for AI Search Mode</h2>
 <a name="story-25774"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F04%2F30%2Falphabet-google-2025-q2-earnings%2Fs01_m.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet shares dropped nearly ten percent following its third-quarter 2026 earnings report after the company revealed that AI-powered search queries generate less revenue than traditional search ads. Although year-over-year search query growth reached a five-year high driven by the adoption of Google's AI Mode, the lower monetization rate contributed to a slower 12 percent growth in search revenue, totaling $63.25 billion.</p><p>The monetization shortfall coincides with heavy infrastructure spending, with Google recording $51.4 billion in capital expenditures for the quarter primarily directed toward servers, networking equipment, and data centers. To address the revenue gap, Google is expanding ad placements within AI Mode globally, while its cloud division faces capacity constraints that have forced the company to offload certain customer workloads to third-party providers.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25743"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Inc. reported third-quarter revenue of $127.6 billion for the period ended September 30, 2026, a 25% increase year-over-year. Growth was led by a 103% increase in Google Cloud revenue to $30.7 billion, while Google Services revenue rose 11% to $96.3 billion.</p><p>The significant expansion in Google Cloud revenue contributed heavily to the company's quarterly performance. These results reflect strong growth across Alphabet's primary revenue-generating segments.</p>
 <p><small>Links: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">s206.q4cdn.com</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Microsoft Reports $92.3 Billion in Quarterly Revenue, Marking 10 Consecutive Record Quarters</h2>
-<a name="story-25757"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMicrosofts-10-consecutive-quarterly-revenue-records.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The company generated $92.3 billion in revenue for the first quarter of fiscal year 2027, a 19% increase year-over-year. This marks the tenth consecutive quarter of record-breaking revenue for the firm, alongside a 32% increase in net income to $36.6 billion.</p><p>Growth was led by Microsoft Cloud, which earned $63.9 billion, with Azure contributing $33.2 billion. Revenue from OpenAI-related services reached $10 billion, though the Devices and Consumer segment saw a 3% decline, including a 22% drop in Windows OEM revenue. Capital expenditures also reached a quarterly record of $45.2 billion.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/">techcrunch.com</a> | <a href="https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast">source</a> | <a href="https://news.ycombinator.com/item?id=50280261">hacker news</a></small></p>
 <br clear="all" />
 
 ---
