@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Bluesky Blocks Links to Leaked Department of Homeland Security Records</title>
+    <link href="https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/" rel="alternate" />
+    <id>https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/::v240</id>
+    <published>2026-10-29T06:06:00+00:00</published>
+    <updated>2026-10-29T06:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1Xs2Fv.img%3Fw%3D1280%26h%3D853%26m%3D4%26q%3D79&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/">wired.com</a></small></p><hr/><p>Bluesky is blocking user access to links pointing to a leaked archive containing records for more than 41,000 Department of Homeland Security employees and contractors. The platform labels the destination pages as malicious, stating that the unauthorized sharing of contact information violates its community guidelines.</p><p>The underlying dataset, dubbed Icepick, was published by the transparency nonprofit Distributed Denial of Secrets and details internal organizational structures, contact details, and group memberships tied to surveillance operations. While Bluesky opted to block the URLs rather than remove individual posts, competitors such as X have taken contrasting approaches by directing users to the leaked material.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1Xs2Fv.img%3Fw%3D1280%26h%3D853%26m%3D4%26q%3D79&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 13:18 UTC | #25777</small>]]></content>
+  </entry>
+  <entry>
     <title>Craig Hockenberry Shares Health Update on Lymphoma Treatment and Recovery</title>
     <link href="https://furbo.org/2026/10/28/a-health-update/" rel="alternate" />
     <id>https://furbo.org/2026/10/28/a-health-update/::v240</id>

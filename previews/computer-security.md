@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Bluesky Blocks Links to Leaked Department of Homeland Security Records</h2>
+<a name="story-25777"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1Xs2Fv.img%3Fw%3D1280%26h%3D853%26m%3D4%26q%3D79&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bluesky is blocking user access to links pointing to a leaked archive containing records for more than 41,000 Department of Homeland Security employees and contractors. The platform labels the destination pages as malicious, stating that the unauthorized sharing of contact information violates its community guidelines.</p><p>The underlying dataset, dubbed Icepick, was published by the transparency nonprofit Distributed Denial of Secrets and details internal organizational structures, contact details, and group memberships tied to surveillance operations. While Bluesky opted to block the URLs rather than remove individual posts, competitors such as X have taken contrasting approaches by directing users to the leaked material.</p>
+<p><small>Links: <a href="https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/">wired.com</a></small></p>
+<br clear="all" />
+
 <h2>Craig Hockenberry Shares Health Update on Lymphoma Treatment and Recovery</h2>
 <a name="story-25799"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffurbo.org%2Fwp-content%2Fuploads%2F2026%2F10%2FFluoroscope.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Craig Hockenberry shares a health update detailing his ongoing treatment and recovery from lymphoma, outlining a grueling regimen of lumbar punctures, chemotherapy infusions, and severe side effects including nerve damage, extreme weight loss, and pneumonia.</p><p>Alongside his physical rehabilitation to regain mobility and strength, Hockenberry navigated a simultaneous server security crisis involving a critical PHP vulnerability that required emergency patching from his hospital bed during his final treatment procedures.</p>
@@ -58,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25687"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F2_MPC_Tech_blog_diagrams-01.max-1200x1200.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced a private preview of Google Multi-Party Compute (MPC), a security system designed to help financial institutions safeguard and transfer cryptocurrencies and tokenized assets. The technology splits private keys into separate fragments distributed across independent environments and enforces institutional transaction policies before signing, preventing a single compromised machine from exposing assets.</p><p>Scheduled for commercial availability in early 2027, the service is currently being tested by major financial institutions and is already utilized by Alphabet to secure its digital assets on Ethereum and Solana. The offering aims to mitigate mounting private-key compromises—which account for a significant share of crypto hack losses—while incorporating architecture designed to support future post-quantum cryptography upgrades.</p>
 <p><small>Links: <a href="https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow">coindesk.com</a></small></p>
-<br clear="all" />
-
-<h2>Hackers Target US Federal Election Commission System, Forcing Offline Filing System</h2>
-<a name="story-25670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thenews.com.pk%2Fassets%2Fuploads%2F2026-10-28%2F1421550_053048_updates.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A suspected hacking attempt forced the US Federal Election Commission to temporarily take its electronic filing system offline late Monday, blocking political groups from submitting mandatory campaign finance disclosures. The disruption occurred just a week before the upcoming midterm elections, affecting how political committees report financial transactions but not vote casting.</p><p>According to an internal email seen by Reuters, a bad actor targeted the agency's systems, prompting IT staff to shut down public-facing services while working to restore operations. The FEC does not run elections itself, but serves as the federal watchdog overseeing campaign finance transparency and reporting compliance during critical spending windows.</p>
-<p><small>Links: <a href="https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50265147">hacker news</a></small></p>
 <br clear="all" />
 
 ---

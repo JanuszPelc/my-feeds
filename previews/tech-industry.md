@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Tencent Cloud Shifts AI Focus to Businesses Under CEO Dowson Tong</h2>
+<a name="story-25778"><img src="https://wsrv.nl/?url=https%3A%2F%2Faiagentwire.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fserver-boot.oss-cn-guangzhou.aliyuncs.com%2F2026%2F03%2F10%2Fde6b5d4dca6742f6ac68bb6df2b0a328.webp%26w%3D1920%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tencent Cloud Chief Executive Officer Dowson Tong is redirecting the company's artificial intelligence strategy toward enterprise solutions following founder Pony Ma's characterization of its earlier AI initiatives as a leaky ship. Central to this pivot is the deployment of WorkBuddy, a business-focused productivity assistant designed to handle advanced desktop automation and corporate workflows.</p><p>The recalibration reflects a broader push among major technology firms to capture corporate clients by emphasizing practical efficiency over consumer-facing applications. By targeting commercial adoption, Tencent seeks to strengthen its standing in the competitive cloud services and artificial intelligence market.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>Samsung Expects 2026 Capital Expenditures to Rise 60% Amid Strong AI Demand</h2>
 <a name="story-25775"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.sammobile.com%2Fwp-content%2Fuploads%2F2024%2F02%2FSamsung-HBM3E-12H-DRAM-Chip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics plans to increase its capital expenditures by roughly 60% this year to approximately $63 billion, driven largely by massive investments in chip manufacturing infrastructure. The company reported that its high-bandwidth memory capacity is completely sold out through 2027, backed by 10 long-term supply agreements secured with major customers.</p><p>The surge in spending comes as Samsung navigates a recovering semiconductor market propelled by artificial intelligence demand, even as its recent chip profit missed broader analyst estimates. The vast majority of the capital expenditure is earmarked for its Device Solutions division to expand advanced memory production capacity and secure long-term competitiveness.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25700"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F10%2F28%2Fsmall%2F3999712_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dropbox announced plans to reduce its global workforce by approximately 9%, affecting about 200 jobs, as part of an effort to align investments with its primary product and growth priorities. The cloud-based storage company expects to incur between $27 million and $33 million in severance and related cash expenditures, primarily accounting for these costs in the fourth quarter of 2026.</p><p>Alongside the structural changes, the company stated that Chief Technology Officer Ali Dasdan will step down from his role on November 18, 2026. Despite the workforce reduction and leadership transition, Dropbox indicated that its third-quarter financial guidance remains in line with or above previously provided ranges.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/world-at-work/dropbox-plans-9-workforce-cut-technology-chief-exit-2026-10-28/">reuters.com</a> | <a href="https://blog.dropbox.com/topics/company/an-update-on-organizational-changes-2026">source</a> | <a href="https://news.ycombinator.com/item?id=50278896">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>X Introduces Animated Pointing Hand Nudge to Promote Posts</h2>
-<a name="story-25684"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.stockcake.com%2Fpublic%2Fb%2F8%2Ff%2Fb8f586f7-a8d5-4a46-bce2-6f968a1d1cac_large%2Fpressing-promo-button-stockcake.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>X has rolled out a new in-app prompt for users composing posts, featuring an animated arm that reaches across the screen to highlight the platform's paid promote feature. The visual nudge appears to target X Premium subscribers and verified accounts.</p><p>Reactions from users encountering the feature have been largely critical, with many describing the intrusive screen takeover as jarring and unexpected. The feature allows users to pay to extend the reach of their posts to audiences based on location, interests, and demographics.</p>
-<p><small>Links: <a href="https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts">theverge.com</a></small></p>
 <br clear="all" />
 
 ---

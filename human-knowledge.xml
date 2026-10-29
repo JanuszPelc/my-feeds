@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-29T03:40:00+00:00</updated>
+  <updated>2026-10-29T06:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Computer Analysis of the Norse Board Game Starve the Fox</title>
+    <link href="https://entropicthoughts.com/what-the-fox-say" rel="alternate" />
+    <id>https://entropicthoughts.com/what-the-fox-say::v240</id>
+    <published>2026-10-29T06:43:00+00:00</published>
+    <updated>2026-10-29T06:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fentropicthoughts.com%2Fimage%2Fwhat-the-fox-say_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://entropicthoughts.com/what-the-fox-say">entropicthoughts.com</a> | <a href="https://lobste.rs/s/7qaac6/what_fox_say">discussion</a></small></p><hr/><p>The author applies Monte Carlo tree search algorithms to analyze Starve the Fox, an asymmetric traditional Norse board game played between a fox and a flock of sheep. While conventional wisdom holds that the game heavily favors the fox, deeper computer evaluations demonstrate that coordinated sheep movement can successfully counter the foxes and create winning positions.</p><p>By training regression models to build a heuristic evaluation function, the analysis quantifies the strategic value of board positions, rank advancements, and captured pieces. The findings show that a living fox is worth approximately two living sheep, and that the sheep side must gain nine total ranks to offset the loss of a single captured piece.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fentropicthoughts.com%2Fimage%2Fwhat-the-fox-say_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 13:23 UTC | #25807</small>]]></content>
+  </entry>
   <entry>
     <title>TU Wien and UC San Diego Researchers Extend X-Ray High-Harmonic Generation Beyond Standard Limit</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261027063713.htm" rel="alternate" />
