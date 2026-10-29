@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Cohere Completes First Close of Funding Round at $20.5 Billion Valuation</h2>
+<a name="story-25836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.taptwicedigital.com%2Fblog-images%2Fcohere%2Fcohere-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cohere Inc. has completed the first close of a funding round expected to reach $5 billion, valuing the artificial intelligence model maker at $20.5 billion. This valuation is approximately three times higher than the company's valuation from one year ago.</p><p>The financing includes backing from Nvidia and the Canadian government, which has committed to investing up to $1.14 billion. The capital is part of a larger effort to support the company's ongoing development in the AI sector.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value">bloomberg.com</a></small></p>
+<br clear="all" />
+
+<h2>Situational Awareness Pitches Investors on Fluidstack Funding Round at $40 Billion Valuation</h2>
+<a name="story-25837"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fcloudinary%2Ftransformations%2Fwp-content%2Fuploads%2F2026%2F04%2F1776207855_b6a697ba3a44347758dcb32b7f042f3d_v1776207855_xlarge.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Investment firm Situational Awareness is reportedly pitching its clients to participate in a new funding round for cloud-computing startup Fluidstack Ltd. The proposed financing values the neocloud provider at $40 billion, marking a sharp increase from its $18 billion valuation in September.</p><p>The rapid valuation growth underscores intense investor demand for artificial intelligence infrastructure and specialized cloud providers. Fluidstack has experienced repeated funding rounds and scaling valuations over the past year as major AI labs race to secure massive compute resources.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>HTX to Exit UK Following FCA Settlement</h2>
 <a name="story-25827"><img src="https://wsrv.nl/?url=https%3A%2F%2Fambcrypto.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAdewale-2-1-16-1536x864.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The cryptocurrency exchange HTX, linked to billionaire Justin Sun, has reached a settlement with the Financial Conduct Authority (FCA) to exit the United Kingdom. This resolution concludes legal proceedings initiated in October 2025 regarding the unlawful promotion of crypto asset services.</p><p>Under the agreement, HTX is no longer active in the UK, and the platform has blocked new user sign-ups and deposits. The settlement follows the FCA's reported difficulties in engaging the exchange before legal action and includes High Court undertakings prohibiting HTX from targeting or soliciting UK consumers.</p>
@@ -54,18 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25801"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fcircuit-mind-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Circuit Mind has raised $25 million in new financing, including an $18.5 million Series A round led by Norwest Venture Partners, bringing its total funding to $33.4 million. The London-based startup develops artificial intelligence software designed to automate the design, verification, and optimization of electronic circuit boards for enterprise customers across aerospace, defense, and consumer industries.</p><p>Alongside the funding announcement, the company launched its Agentic Verification Engine, which uses autonomous AI agents to check electronic schematics for errors. Circuit Mind also plans to relocate its operations to the United States as it scales its electronic design intelligence platform.</p>
 <p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design">axios.com</a> | <a href="https://markets.businessinsider.com/news/stocks/circuit-mind-announces-25m-in-funding-to-accelerate-the-rise-of-electronic-design-intelligence-1036676536">source</a></small></p>
-<br clear="all" />
-
-<h2>Kalshi Raises $1 Billion in Funding Round at $40 Billion Valuation</h2>
-<a name="story-25798"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thecoinrepublic.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-359.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kalshi has closed a $1 billion Series G funding round that values the prediction market platform at $40 billion, nearly doubling its valuation from May. The financing was led by Sequoia Capital and Wellington Management, with participation from major institutional investors including Baillie Gifford and Morgan Stanley Investment Management.</p><p>The new valuation establishes Kalshi ahead of rival Polymarket amid surging growth in prediction markets for politics, sports, and economic events. Chief Executive Tarek Mansour stated that the company has held discussions regarding a potential initial public offering following the capital raise.</p>
-<p><small>Links: <a href="https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html">nytimes.com</a></small></p>
-<br clear="all" />
-
-<h2>Jio Platforms Adds $36 Billion in Market Value Following India IPO Surge</h2>
-<a name="story-25795"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEh9LaDY99xCbwhybQuZuNegxsOd_uWPsxRoegyMTvTzr10ohC_JREcoeQVkoGmvyDcocIG0ktc4ENPool88rd8qDaVGj1x9be5SuQIblCMHlTTLGbiX_iDPlbGnYt2yxj3XMb1UaYvDb1MXmXWlEMeTcLvd-3pQyAQ5U9Luk12MMUmKbnBENOtSUNilXWau%2Fw1600%2FJio%2BPlatforms%2Bis%2Bnearing%2BIndia%E2%80%99s%2Bbiggest-ever%2BIPO%2C%2Bwith%2BMorgan%2BStanley%2Band%2BGoldman%2BSachs%2Bleading%2Ba%2Blisting%2Bthat%2Bcould%2Bvalue%2Bit%2Bat%2Bup%2Bto%2B%24182%2Bbillion..jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jio Platforms Ltd. added nearly $36 billion in market value over two trading sessions, extending its strong gains following India's largest-ever initial public offering. The surge elevated the company's market capitalization to approximately $144 billion, up from its initial valuation of roughly $108 billion.</p><p>The sharp increase highlights robust investor appetite for the digital and telecom giant's shares following its market debut. Shares rose significantly in subsequent trading, reflecting strong market confidence in the firm's growth trajectory.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/jio-platforms-adds-36-billion-in-value-after-india-ipo-surge">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---
