@@ -10,6 +10,10 @@
 
 *Where the money in tech goes, from funding rounds and deals to earnings.*
 
+<h2>Marvell in Advanced Talks to Acquire Lumentum</h2>
+<p>Marvell Technology Inc. is in advanced negotiations to acquire Lumentum Holdings Inc., a provider of data center optics, according to people familiar with the matter. The deal could be announced as early as next week and involves Lumentum, which has a market value of approximately $83 billion.</p><p>The acquisition would expand Marvell's optical component portfolio to meet the growing demands of artificial intelligence infrastructure. This move is intended to bolster the company's competitive standing against rivals like Broadcom in the AI-related technology market.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal">bloomberg.com</a></small></p>
+
 <h2>eBay Reports $3.21 Billion in Third-Quarter Revenue</h2>
 <a name="story-25763"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fearnings%2FEBAY.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>eBay reported third-quarter revenue of $3.21 billion, a 14% year-over-year increase that exceeded analyst estimates of $3.12 billion. Gross merchandise volume (GMV) rose 15% to $23.17 billion, surpassing the projected $22.32 billion.</p><p>Growth was supported by momentum in key categories such as collectibles and live shopping. eBay's stock rose more than 4% in after-hours trading following the announcement.</p>
@@ -62,12 +66,6 @@
 <a name="story-25617"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FHOOD-RESULTS%2Fmopaoonokpa%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Robinhood Markets reported third-quarter revenue of $1.42 billion, a 12% year-over-year increase that met analyst expectations. Quarterly profit fell 14% to $476 million, as a 55% decline in cryptocurrency-related revenue to $120 million weighed on the company's results.</p><p>The slump in crypto trading activity offset revenue gains in other sectors, impacting overall profitability. Following the earnings announcement, Robinhood's stock price fell more than 5% in after-hours trading.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27/">reuters.com</a> | <a href="https://investors.robinhood.com/events/event-details/robinhood-q3-2026-earnings">source</a></small></p>
-<br clear="all" />
-
-<h2>Physical Intelligence in Talks to Raise $1 Billion at $20 Billion Valuation</h2>
-<a name="story-25615"><img src="https://wsrv.nl/?url=https%3A%2F%2Fascendants.in%2Fwp-content%2Fuploads%2F2026%2F03%2Frobotic-startup-physical-intelligence.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Physical Intelligence is negotiating to raise more than $1 billion in new funding at a valuation of approximately $20 billion. The round is reportedly being led by Avenir and Lux Capital.</p><p>The company develops artificial intelligence software designed to enable robots to perform real-world tasks. If the negotiations succeed, the new valuation would nearly double the startup's $11.5 billion valuation from earlier in 2026.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---
