@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-28T17:42:00+00:00</updated>
+  <updated>2026-10-28T21:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>New York Governor Kathy Hochul Signs AI Chatbot and Baby Monitor Safety Bills</title>
+    <link href="https://news.bgov.com/bloomberg-government-news/hochul-signs-bills-on-ai-risks-to-children-in-pre-election-push" rel="alternate" />
+    <id>https://news.bgov.com/bloomberg-government-news/hochul-signs-bills-on-ai-risks-to-children-in-pre-election-push::v240</id>
+    <published>2026-10-28T21:11:00+00:00</published>
+    <updated>2026-10-28T21:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.babymonitor101.com%2Fwp-content%2Fuploads%2F2025%2F04%2Fessential-security-features-look-when.jpg0513.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://news.bgov.com/bloomberg-government-news/hochul-signs-bills-on-ai-risks-to-children-in-pre-election-push">news.bgov.com</a> | <a href="https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby">source</a></small></p><hr/><p>New York Governor Kathy Hochul signed two laws aimed at protecting children from risks associated with artificial intelligence and connected devices. One bill prohibits AI-powered chatbots from using "unsafe features" when interacting with minors, such as those that are sexually explicit, encourage self-harm, or mimic human personas. The second law requires internet-connected baby monitors to include security features that prevent unauthorized remote access or listening.</p><p>The chatbot regulations, which require age verification and grant the state Attorney General the authority to seek civil penalties of up to $25,000 per violation, are expected to take effect in the coming months. The baby monitor requirements will be implemented within 90 days. These measures are a key part of Hochul's reelection campaign platform, which emphasizes the regulation of social media and emerging technologies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.babymonitor101.com%2Fwp-content%2Fuploads%2F2025%2F04%2Fessential-security-features-look-when.jpg0513.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 02:22 UTC | #25738</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Launches Election War Room for US Midterms</title>
     <link href="https://www.politico.com/news/2026/10/28/openai-election-war-room-interference-01137690" rel="alternate" />
