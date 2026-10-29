@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Collective Secures $100M to Automate Bookkeeping for Solo Business Owners</h2>
+<a name="story-25828"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmaxbusiness.com.au%2Fwp-content%2Fuploads%2F2026%2F02%2Fai-bookkeeping-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Collective, a financial services platform for solo business owners, has secured $100 million in financing. The funding includes a $40 million Series B and $60 million in nondilutive capital from General Catalyst's Customer Value Fund.</p><p>The company uses artificial intelligence to automate bookkeeping, accounting, and tax management for solo entrepreneurs. This funding is intended to expand Collective's AI-native financial operating system.</p>
+<p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/10/29/collective-100m-financial-services-ai">axios.com</a> | <a href="https://www.webwire.com/ViewPressRel.asp?aId=363476">source</a></small></p>
+<br clear="all" />
+
+<h2>Solink Raises More Than $100 Million for AI Vision Intelligence</h2>
+<a name="story-25825"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Fsolink.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Solink Corp. has raised over $100 million in a new funding round led by Vertu Capital, with participation from Goldman Sachs Group Inc., Golub Growth, and Comcast Ventures. The capital will fund the company's AI vision intelligence roadmap, which uses artificial intelligence to extract business data from existing security camera installations.</p><p>The Ottawa-based company currently serves more than 35,000 customer locations in 65 countries, managing approximately 500,000 cameras. This latest funding brings Solink's total capital raised to over $198 million.</p>
+<p><small>Links: <a href="https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/">siliconangle.com</a> | <a href="https://www.prnewswire.co.uk/news-releases/solink-raises-100-million-in-fresh-funding-nyse-content-update-302923732.html">source</a></small></p>
+<br clear="all" />
+
 <h2>Thrive Holdings to Acquire ADT in $15.3 Billion All-Cash Deal</h2>
 <a name="story-25817"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs201.q4cdn.com%2F833622905%2Ffiles%2Fdoc_downloads%2Ffeatured_materials_docs%2Fadt-esg-report.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Thrive Holdings has entered into a definitive agreement to acquire home security provider ADT in an all-cash take-private transaction. The deal values ADT at approximately $15.3 billion in enterprise value and $7.6 billion in equity value, representing a roughly 46% premium over the company's October 27, 2026, closing price.</p><p>ADT stockholders are set to receive $10.00 per share in cash. The transaction is expected to be financed by funds managed by Apollo affiliates and remains subject to customary closing conditions, including approval from stockholders and antitrust regulators.</p>
@@ -54,18 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25782"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2026%2F04%2F23055808%2FSTM-revenue_trend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>STMicroelectronics reported third-quarter net revenues of $3.76 billion, representing a 17.9% increase year-over-year, and a non-U.S. GAAP operating income of $429 million that surpassed market expectations. The quarter's gross margin was recorded at 37.3% as the company experienced steady demand across its semiconductor product lines.</p><p>For the fourth quarter, the company forecasts net revenues of approximately $4.15 billion and a gross margin of 39.0%. The updated guidance highlights management's outlook for continued operational performance through the end of the year.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/">reuters.com</a> | <a href="https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-reports-q3-2026-financial-results.html">source</a></small></p>
-<br clear="all" />
-
-<h2>Samsung Electronics Shares Slide After Shareholder Return Plan Is Delayed</h2>
-<a name="story-25776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg4.yna.co.kr%2Fetc%2Fgraphic%2FYH%2F2023%2F10%2F31%2FGYH2023103100090031500_P4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Samsung Electronics Co. shares dropped as much as 6.6% following its earnings report because the company delayed announcing its new shareholder return plan until the end of January. The delay disappointed investors, particularly as rival SK Hynix reported strong earnings and announced plans to return roughly $45 billion to shareholders.</p><p>Sentiment toward Samsung was further weighed down by chip operating profit missing market estimates alongside an expansion in capital expenditures. The contrast in shareholder payouts and profitability expectations deepened concerns about Samsung's competitive footing in the ongoing artificial intelligence rally.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed">bloomberg.com</a> | <a href="https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2026_3Q_conference_eng.pdf">source</a></small></p>
-<br clear="all" />
-
-<h2>Alphabet Shares Fall After Google Reports Lower Monetization for AI Search Mode</h2>
-<a name="story-25774"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F04%2F30%2Falphabet-google-2025-q2-earnings%2Fs01_m.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet shares dropped nearly ten percent following its third-quarter 2026 earnings report after the company revealed that AI-powered search queries generate less revenue than traditional search ads. Although year-over-year search query growth reached a five-year high driven by the adoption of Google's AI Mode, the lower monetization rate contributed to a slower 12 percent growth in search revenue, totaling $63.25 billion.</p><p>The monetization shortfall coincides with heavy infrastructure spending, with Google recording $51.4 billion in capital expenditures for the quarter primarily directed toward servers, networking equipment, and data centers. To address the revenue gap, Google is expanding ad placements within AI Mode globally, while its cloud division faces capacity constraints that have forced the company to offload certain customer workloads to third-party providers.</p>
-<p><small>Links: <a href="https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181">theregister.com</a> | <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p>
 <br clear="all" />
 
 ---
