@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-28T17:50:00+00:00</updated>
+  <updated>2026-10-28T22:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Alphabet Reports Q3 2026 Revenue of $127.6 Billion</title>
+    <link href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf" rel="alternate" />
+    <id>https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf::v240</id>
+    <published>2026-10-28T22:01:00+00:00</published>
+    <updated>2026-10-28T22:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">s206.q4cdn.com</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p><hr/><p>Alphabet Inc. reported third-quarter revenue of $127.6 billion for the period ended September 30, 2026, a 25% increase year-over-year. Growth was led by a 103% increase in Google Cloud revenue to $30.7 billion, while Google Services revenue rose 11% to $96.3 billion.</p><p>The significant expansion in Google Cloud revenue contributed heavily to the company's quarterly performance. These results reflect strong growth across Alphabet's primary revenue-generating segments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 03:20 UTC | #25743</small>]]></content>
+  </entry>
   <entry>
     <title>Google Announces Gemini 4 Carbon</title>
     <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/" rel="alternate" />
@@ -158,14 +167,5 @@
     <updated>2026-10-27T06:31:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsrc.n-ix.com%2Fuploads%2F2026%2F01%2F27%2F00141a6a-cf11-4727-b96d-89044facef3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">j11g.com</a> | <a href="https://news.ycombinator.com/item?id=50255298">hacker news</a></small></p><hr/><p>Software engineer Jan van den Berg reevaluates Frederick P. Brooks Jr.'s classic 1975 principle, Brooks's Law, to determine whether adding AI agents to a development project bypasses traditional scaling limits. While generative AI tools and LLMs eliminate human onboarding bottlenecks and coffee breaks, foundational software constraints persist.</p><p>Sequential tasks and the inherent limitations of dependency management remain unchanged, while overhead shifts from human coordination to agent orchestration. Deploying multiple autonomous agents without precise requirements and structured oversight only leads to conflicting code edits, proving that adding AI capacity to a flawed project accelerates failure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsrc.n-ix.com%2Fuploads%2F2026%2F01%2F27%2F00141a6a-cf11-4727-b96d-89044facef3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 13:21 UTC | #25559</small>]]></content>
-  </entry>
-  <entry>
-    <title>Python Experimental JIT Compiler to Be Removed From CPython Main</title>
-    <link href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/" rel="alternate" />
-    <id>https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/::v240</id>
-    <published>2026-10-27T06:21:00+00:00</published>
-    <updated>2026-10-28T14:44:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fus1.discourse-cdn.com%2Fflex002%2Fuploads%2Fpython1%2Foriginal%2F3X%2Fc%2F0%2Fc0c5a5f9604f8cd940edd96b519842e80794208d.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/">lwn.net</a> | <a href="https://discuss.python.org/t/pep-836-jit-go-brrr-the-path-to-a-supported-jit-compiler-for-cpython/108010">source</a> | <a href="https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed">discussion</a> | <a href="https://news.ycombinator.com/item?id=50257419">hacker news</a></small></p><hr/><p>Python's experimental just-in-time compiler, introduced in CPython 3.13, is set to be removed from the main branch following the withdrawal of PEP 836. The Python steering council had previously paused JIT development in June, giving maintainers a six-month deadline to produce a standards-track proposal addressing maintenance commitments, compatibility, and security concerns.</p><p>Although the authors drafted PEP 836 in response, they ultimately withdrew the proposal after facing extensive steering council feedback and citing a lack of personal bandwidth. Consequently, development on the project has ended in the main repository, leaving its future entirely dependent on whether external contributors decide to pick it up elsewhere.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fus1.discourse-cdn.com%2Fflex002%2Fuploads%2Fpython1%2Foriginal%2F3X%2Fc%2F0%2Fc0c5a5f9604f8cd940edd96b519842e80794208d.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 10:28 UTC | #25542</small>]]></content>
   </entry>
 </feed>

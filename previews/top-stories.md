@@ -10,6 +10,12 @@
 
 *A low-volume selection of stories from all the other feeds.*
 
+<h2>Alphabet Reports Q3 2026 Revenue of $127.6 Billion</h2>
+<a name="story-25743"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alphabet Inc. reported third-quarter revenue of $127.6 billion for the period ended September 30, 2026, a 25% increase year-over-year. Growth was led by a 103% increase in Google Cloud revenue to $30.7 billion, while Google Services revenue rose 11% to $96.3 billion.</p><p>The significant expansion in Google Cloud revenue contributed heavily to the company's quarterly performance. These results reflect strong growth across Alphabet's primary revenue-generating segments.</p>
+<p><small>Links: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">s206.q4cdn.com</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Google Announces Gemini 4 Carbon</h2>
 <a name="story-25716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini_4_carbon_exploitgym.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced Gemini 4 Carbon, a frontier model designed for advanced cybersecurity and long-horizon engineering tasks. The model ranks first on the Artificial Analysis Intelligence Index (v5.0) and demonstrates high performance in vulnerability detection, exploitation, and remediation across benchmarks such as SEC-bench Pro, ExploitGym, and CWE-bench.</p><p>The model is built to support sustained agentic workflows and features improvements in model alignment, output honesty, and resistance to prompt injection. Google is currently rolling out access to a subset of cyber defenders and trusted partners through the Fairwind Program ahead of a wider release.</p>
@@ -62,12 +68,6 @@
 <a name="story-25635"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D10AQFEAag77I1JkA%2Fimage-shrink_800%2FB4DZpeGuhZGwAg-%2F0%2F1762515413669%3Fe%3D2147483647%26v%3Dbeta%26t%3DRvk2lKwgjnx2TYSgq6kSITRnhcXIV_9mfxarxu8h2Ss&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Felix Rieseberg, a hiring manager at Anthropic, has stopped using traditional coding interviews because AI tools like Claude now outperform human candidates on standard coding challenges. He argues that this technological shift diminishes the traditional advantages of accumulated framework knowledge and tenure, creating new opportunities for engineers without established social capital or status.</p><p>The essay advises junior engineers to prioritize business value over backlog maintenance, bypass slow organizational processes by building working prototypes over a weekend, and leverage their fresh perspectives to challenge assumed technical impossibilities. Rieseberg notes that rapid AI execution enables newcomers to pitch and ship impactful ideas much faster than previously possible.</p>
 <p><small>Links: <a href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/">felixrieseberg.com</a> | <a href="https://news.ycombinator.com/item?id=50266719">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Anthropic Reports Early Progress Using Claude for Drug Development</h2>
-<a name="story-25624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhealthcarediscovery.ai%2Fwp-content%2Fuploads%2F2026%2F04%2Fhealthcare-discovery-anthropic-coefficient-bio-acquisition-drug-discovery-ai-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic has engaged in research partnerships with six organizations—BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines, and The Column Group—to apply Claude to various stages of drug development. Additionally, the company acquired Mithril Medicine, a startup developing treatments for rare muscular dystrophy, to advance its own drug discovery programs.</p><p>These initiatives focus on optimizing molecular design, antibody generation, manufacturing documentation, and clinical trial planning. Early results include a reduction in human review time for regulatory documentation and the successful generation of thousands of antibody designs. Anthropic plans to extend this work into clinical trials and scale its life sciences research tools.</p>
-<p><small>Links: <a href="https://www.anthropic.com/research/early-progress-drug-development">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50265609">hacker news</a></small></p>
 <br clear="all" />
 
 ---
