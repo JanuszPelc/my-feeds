@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Kalshi Raises $1 Billion in Funding Round at $40 Billion Valuation</h2>
+<a name="story-25798"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thecoinrepublic.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-359.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kalshi has closed a $1 billion Series G funding round that values the prediction market platform at $40 billion, nearly doubling its valuation from May. The financing was led by Sequoia Capital and Wellington Management, with participation from major institutional investors including Baillie Gifford and Morgan Stanley Investment Management.</p><p>The new valuation establishes Kalshi ahead of rival Polymarket amid surging growth in prediction markets for politics, sports, and economic events. Chief Executive Tarek Mansour stated that the company has held discussions regarding a potential initial public offering following the capital raise.</p>
+<p><small>Links: <a href="https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html">nytimes.com</a></small></p>
+<br clear="all" />
+
 <h2>Jio Platforms Adds $36 Billion in Market Value Following India IPO Surge</h2>
 <a name="story-25795"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEh9LaDY99xCbwhybQuZuNegxsOd_uWPsxRoegyMTvTzr10ohC_JREcoeQVkoGmvyDcocIG0ktc4ENPool88rd8qDaVGj1x9be5SuQIblCMHlTTLGbiX_iDPlbGnYt2yxj3XMb1UaYvDb1MXmXWlEMeTcLvd-3pQyAQ5U9Luk12MMUmKbnBENOtSUNilXWau%2Fw1600%2FJio%2BPlatforms%2Bis%2Bnearing%2BIndia%E2%80%99s%2Bbiggest-ever%2BIPO%2C%2Bwith%2BMorgan%2BStanley%2Band%2BGoldman%2BSachs%2Bleading%2Ba%2Blisting%2Bthat%2Bcould%2Bvalue%2Bit%2Bat%2Bup%2Bto%2B%24182%2Bbillion..jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jio Platforms Ltd. added nearly $36 billion in market value over two trading sessions, extending its strong gains following India's largest-ever initial public offering. The surge elevated the company's market capitalization to approximately $144 billion, up from its initial valuation of roughly $108 billion.</p><p>The sharp increase highlights robust investor appetite for the digital and telecom giant's shares following its market debut. Shares rose significantly in subsequent trading, reflecting strong market confidence in the firm's growth trajectory.</p>
@@ -59,12 +65,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Marvell in Advanced Talks to Acquire Lumentum</h2>
 <p>Marvell Technology Inc. is in advanced negotiations to acquire Lumentum Holdings Inc., a provider of data center optics, according to people familiar with the matter. The deal could be announced as early as next week and involves Lumentum, which has a market value of approximately $83 billion.</p><p>The acquisition would expand Marvell's optical component portfolio to meet the growing demands of artificial intelligence infrastructure. This move is intended to bolster the company's competitive standing against rivals like Broadcom in the AI-related technology market.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal">bloomberg.com</a></small></p>
-
-<h2>eBay Reports $3.21 Billion in Third-Quarter Revenue</h2>
-<a name="story-25763"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fearnings%2FEBAY.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>eBay reported third-quarter revenue of $3.21 billion, a 14% year-over-year increase that exceeded analyst estimates of $3.12 billion. Gross merchandise volume (GMV) rose 15% to $23.17 billion, surpassing the projected $22.32 billion.</p><p>Growth was supported by momentum in key categories such as collectibles and live shopping. eBay's stock rose more than 4% in after-hours trading following the announcement.</p>
-<p><small>Links: <a href="https://www.wsj.com/business/retail/ebay-sales-rise-on-strength-in-collectibles-live-shopping-77cd8df4">wsj.com</a> | <a href="https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2026-results/">source</a></small></p>
-<br clear="all" />
 
 ---
 

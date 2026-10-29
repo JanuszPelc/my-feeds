@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T14:45:00+00:00</updated>
+  <updated>2026-10-29T16:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Kalshi Raises $1 Billion in Funding Round at $40 Billion Valuation</title>
+    <link href="https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html::v240</id>
+    <published>2026-10-29T16:47:00+00:00</published>
+    <updated>2026-10-29T16:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.thecoinrepublic.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-359.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html">nytimes.com</a></small></p><hr/><p>Kalshi has closed a $1 billion Series G funding round that values the prediction market platform at $40 billion, nearly doubling its valuation from May. The financing was led by Sequoia Capital and Wellington Management, with participation from major institutional investors including Baillie Gifford and Morgan Stanley Investment Management.</p><p>The new valuation establishes Kalshi ahead of rival Polymarket amid surging growth in prediction markets for politics, sports, and economic events. Chief Executive Tarek Mansour stated that the company has held discussions regarding a potential initial public offering following the capital raise.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thecoinrepublic.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-359.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 18:58 UTC | #25798</small>]]></content>
+  </entry>
   <entry>
     <title>Jio Platforms Adds $36 Billion in Market Value Following India IPO Surge</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-29/jio-platforms-adds-36-billion-in-value-after-india-ipo-surge" rel="alternate" />
