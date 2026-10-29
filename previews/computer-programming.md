@@ -10,6 +10,12 @@
 
 *The craft of building software, from new languages to old machines.*
 
+<h2>0xABADBABE Constant in Windows Debugging</h2>
+<a name="story-25769"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2011%2F09%2FBUGCODE_USB_DRIVER.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Windows 7 writes the constant 0xABADBABE to a reserved EHCI register during boot to provide a breakpoint for debuggers when a USB device is attached.</p><p>This write is a "red herring" that does not cause the blue screen errors encountered during system simulation. Those errors can instead be caused by bugs in simulated devices, such as USB data structures containing pointers to memory outside the driver's mapped area.</p>
+<p><small>Links: <a href="https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/ml4m9a/who_s_0xabadbabe_why_2011">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Lobsters Contributor Seeks Pair-Coding Partner for Refactoring Task</h2>
 <a name="story-25752"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd6%2Fb5%2Fb3%2Fd6b5b3cafb1819bb781dffc6756df614.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Lobsters contributor is seeking a partner to pair-code a specific refactoring task involving a long-standing issue in the codebase. The proposed changes follow suggestions provided by the project's administrators.</p><p>The collaboration is intended to help the author and other potential contributors better understand the codebase. The author has explicitly prohibited the use of Large Language Models (LLMs) for this session, requiring manual programming instead.</p>
@@ -63,10 +69,6 @@
 <p>AlpineBSD is a work-in-progress operating system that pairs the NetBSD kernel, libc, and essential platform-specific tools with a userspace inspired by Alpine Linux. The project aims to minimize the inclusion of AI-generated software, excluding large language model output entirely from its base system and main package repository.</p><p>While it utilizes the apk-tools package manager and BusyBox like Alpine Linux, AlpineBSD features a slightly more GNU-oriented userspace and currently relies on the s6 init system, with plans to add OpenRC support. Because it is built on the NetBSD kernel, the operating system currently lacks an official installer and has limited hardware support compared to Linux distributions.</p>
 <p><small>Links: <a href="https://wiki.alpinebsd.org/">wiki.alpinebsd.org</a> | <a href="https://lobste.rs/s/yxuvie/alpinebsd">discussion</a> | <a href="https://news.ycombinator.com/item?id=50274251">hacker news</a></small></p>
 <br clear="all" />
-
-<h2>Lexifina Proposes Git-Style Version Control for US Code</h2>
-<p>Legal technology company Lexifina has developed a version-control system for the United States Code, allowing users to track legislative amendments in a manner similar to software source code management. By replaying historical amendments sequentially across nine code titles from 2017 onward, the project successfully reproduced 361 out of 365 changes to match official release points.</p><p>The system aims to address challenges in legal research and language model accuracy, which often falter when handling temporal validity and statutory evolution. While the tool successfully maps effective dates and amending laws for most changes, limitations remain regarding retroactive reach-back provisions and pattern-matching constraints for effective-date notes.</p>
-<p><small>Links: <a href="https://lexifina.com/blog/git-for-the-us-code">lexifina.com</a> | <a href="https://news.ycombinator.com/item?id=50268380">hacker news</a></small></p>
 
 ---
 

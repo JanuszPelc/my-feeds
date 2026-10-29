@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-28T18:30:00+00:00</updated>
+  <updated>2026-10-28T22:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>0xABADBABE Constant in Windows Debugging</title>
+    <link href="https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/" rel="alternate" />
+    <id>https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/::v240</id>
+    <published>2026-10-28T22:05:00+00:00</published>
+    <updated>2026-10-28T22:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2011%2F09%2FBUGCODE_USB_DRIVER.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/ml4m9a/who_s_0xabadbabe_why_2011">discussion</a></small></p><hr/><p>Windows 7 writes the constant 0xABADBABE to a reserved EHCI register during boot to provide a breakpoint for debuggers when a USB device is attached.</p><p>This write is a "red herring" that does not cause the blue screen errors encountered during system simulation. Those errors can instead be caused by bugs in simulated devices, such as USB data structures containing pointers to memory outside the driver's mapped area.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2011%2F09%2FBUGCODE_USB_DRIVER.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 03:50 UTC | #25769</small>]]></content>
+  </entry>
   <entry>
     <title>Lobsters Contributor Seeks Pair-Coding Partner for Refactoring Task</title>
     <link href="https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat" rel="alternate" />
