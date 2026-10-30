@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-29T21:06:00+00:00</updated>
+  <updated>2026-10-30T01:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Misty De Méo Publishes Guide on Personal Web Archiving Tools</title>
+    <link href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/" rel="alternate" />
+    <id>https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/::v240</id>
+    <published>2026-10-30T01:31:00+00:00</published>
+    <updated>2026-10-30T01:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.mistys-internet.website%2Fimages%2Fwebarchiving%2Fdomaincrawl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/">blog.mistys-internet.website</a> | <a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up">discussion</a></small></p><hr/><p>Web archivist and software engineer Misty De Méo advocates for personal web archiving, encouraging individuals to actively preserve their favorite online spaces using standard formats like WARC and WACZ rather than relying solely on large institutions.</p><p>The post highlights accessible tools such as the ArchiveWeb.page browser extension, the standalone application, and the Browsertrix web crawler, detailing how users can capture, replay, and share self-contained website backups.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mistys-internet.website%2Fimages%2Fwebarchiving%2Fdomaincrawl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 08:59 UTC | #25914</small>]]></content>
+  </entry>
   <entry>
     <title>Phorge Is an Open Source Fork of Phabricator</title>
     <link href="https://www.phorge.it/" rel="alternate" />

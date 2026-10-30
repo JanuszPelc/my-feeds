@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>YC Labs and Olam Labs Study Multi-Agent Swarm Dynamics in Minecraft Experiments</h2>
+<a name="story-25913"><img src="https://wsrv.nl/?url=https%3A%2F%2Flabs.ycombinator.com%2Fciv50%2Fcharts%2Factivity-by-night-color-v2-26B3C72A.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>YC Labs partnered with Olam Labs to conduct multi-agent experiments deploying 50 GPT-6.1 Sol AI agents into a survival Minecraft world for a three-hour run. The study aimed to observe emergent swarm behaviors, coordination patterns, and organizational structures under resource constraints and environmental hazards.</p><p>Following high mortality rates during the first night, the agents spontaneously adapted by forming a hierarchical governance structure, utilizing a shared planning sandbox, and establishing a centralized food-rationing ledger. The experiment highlights how autonomous LLM swarms can develop complex social protocols and risk aversion when faced with survival pressures.</p>
+<p><small>Links: <a href="https://labs.ycombinator.com/projects/games/index.html">labs.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=50296486">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Howler Launches Harry Potter-Inspired Ephemeral AI Chat for macOS</h2>
 <a name="story-25869"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.theregister.com%2F%3FimageId%3D202306%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developed by Aries Zhou, this open-source macOS application provides an ephemeral AI chat interface that mimics the "Howler" letters from the Harry Potter series. The tool displays queries on a parchment-style interface and clears the conversation from memory upon pressing the Escape key to prevent local chat history.</p><p>Users can connect the app to various AI models using an API key, which is stored in the macOS Keychain, or through compatible local models. While the application avoids local logs and does not use a relay, it does not guarantee that the AI service provider will not retain a record of the exchange.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdivagr.com%2Fqwenputer%2Fdemo.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Qwenputer is an experimental model based on Qwen 3.5 4B that embeds a 32-bit RISC-V CPU directly into its weights. By using Gated DeltaNet (GDN) layers as exact, addressable RAM, the CPU executes arithmetic, C, and MicroPython code during forward passes without external runtimes or tool calls.</p><p>The implementation uses one-hot key encoding for memory access and has achieved 100% accuracy on specific long-integer arithmetic benchmarks. An experimental filesystem also allows the model to store and retrieve text data via the DeltaNet state, providing persistent memory across conversation sessions.</p>
 <p><small>Links: <a href="https://divagr.com/blog/qwenputer">divagr.com</a> | <a href="https://github.com/divagr18/qwenputer">source</a> | <a href="https://news.ycombinator.com/item?id=50282838">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Artificial Analysis Releases Intelligence Index v5</h2>
-<a name="story-25730"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6vfeftx9%2Farticles%2F44b792b382975135ff1db34ca74a2502eb767158-2152x1016.png%3Fw%3D1200%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Version 5 of the Artificial Analysis Intelligence Index introduces two new benchmarks, FrontierCode 2.0 and Terminal-Bench-Science, and upgrades HLE-Diamond, AA-Omniscience v1.1, and CritPt v2. This update is the first to build 60% of the index using private datasets. The release also includes the Artificial Analysis Progress Index v1, designed to track model capability on a continuous scale over time.</p><p>Claude Opus 5.5 leads the index with a score of 58, ahead of OpenAI's GPT-6 Astra and GPT-6.1 Sol. The data indicates the gap between proprietary and open-weights models has widened from 3 points to 12 points. Furthermore, cost per task among the top 10 models varies by more than 13x.</p>
-<p><small>Links: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">artificialanalysis.ai</a> | <a href="https://news.ycombinator.com/item?id=50268868">hacker news</a></small></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Twilio Reports Third-Quarter Financial Results and Fourth-Quarter Growth Outlook</h2>
+<a name="story-25897"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FTwilio-Total-Revenue_2026-04-06-033339_sifm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Twilio reported third-quarter revenue of $1.56 billion, marking a 20% increase year-over-year that beat analyst estimates of $1.52 billion. The company additionally posted a net income of $161 million and raised its full-year revenue growth outlook following strong execution during the period.</p><p>Despite the third-quarter beats, Twilio issued guidance forecasting slower revenue growth for the fourth quarter. Following the earnings release and the cautious forward-looking outlook, Twilio shares dropped more than 15% in after-hours trading.</p>
+<p><small>Links: <a href="https://www.marketwatch.com/">marketwatch.com</a> | <a href="https://investors.twilio.com/news-releases/news-release-details/twilio-announce-third-quarter-2026-results-october-29-2026">source</a></small></p>
+<br clear="all" />
+
 <h2>Sandisk Reports $11 Billion in Q1 Revenue and Announces 8-for-1 Stock Split</h2>
 <a name="story-25899"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Ftikr%2Fimages%2Fw_2560%2Ch_1706%2Cc_scale%2Ff_webp%2Cq_auto%2Fv1777815320%2Fimages%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10.webp%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sandisk reported fiscal first-quarter revenue of $11 billion, a 378% increase year-over-year that surpassed analyst estimates of $10.7 billion. The company also announced an 8-for-1 stock split and provided second-quarter revenue guidance expected to exceed market forecasts.</p><p>Sandisk's stock fell more than 4% in after-hours trading following the announcement. The company's shares have risen more than 2,600% since its separation from Western Digital 20 months ago.</p>
@@ -33,10 +39,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <br clear="all" />
 
 <h2>Amazon Reports Q3 2026 Revenue of $201.9 Billion</h2>
-<a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffourweekmba.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-69.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
 <p><small>Links: <a href="https://www.businesswire.com/news/home/20261028373648/en/">businesswire.com</a> | <a href="https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">source</a></small></p>
-<br clear="all" />
 
 <h2>SuperMe Raises $20M for AI Expert Profile Network</h2>
 <a name="story-25846"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmq4D.img%3Fw%3D4206%26h%3D2804%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
@@ -60,12 +64,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.taptwicedigital.com%2Fblog-images%2Fcohere%2Fcohere-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cohere Inc. has completed the first close of a funding round expected to reach $5 billion, valuing the artificial intelligence model maker at $20.5 billion. This valuation is approximately three times higher than the company's valuation from one year ago.</p><p>The financing includes backing from Nvidia and the Canadian government, which has committed to investing up to $1.14 billion. The capital is part of a larger effort to support the company's ongoing development in the AI sector.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Situational Awareness Pitches Investors on Fluidstack Funding Round at $40 Billion Valuation</h2>
-<a name="story-25837"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fcloudinary%2Ftransformations%2Fwp-content%2Fuploads%2F2026%2F04%2F1776207855_b6a697ba3a44347758dcb32b7f042f3d_v1776207855_xlarge.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Investment firm Situational Awareness is reportedly pitching its clients to participate in a new funding round for cloud-computing startup Fluidstack Ltd. The proposed financing values the neocloud provider at $40 billion, marking a sharp increase from its $18 billion valuation in September.</p><p>The rapid valuation growth underscores intense investor demand for artificial intelligence infrastructure and specialized cloud providers. Fluidstack has experienced repeated funding rounds and scaling valuations over the past year as major AI labs race to secure massive compute resources.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---

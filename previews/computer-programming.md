@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Misty De Méo Publishes Guide on Personal Web Archiving Tools</h2>
+<a name="story-25914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mistys-internet.website%2Fimages%2Fwebarchiving%2Fdomaincrawl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Web archivist and software engineer Misty De Méo advocates for personal web archiving, encouraging individuals to actively preserve their favorite online spaces using standard formats like WARC and WACZ rather than relying solely on large institutions.</p><p>The post highlights accessible tools such as the ArchiveWeb.page browser extension, the standalone application, and the Browsertrix web crawler, detailing how users can capture, replay, and share self-contained website backups.</p>
+<p><small>Links: <a href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/">blog.mistys-internet.website</a> | <a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Phorge Is an Open Source Fork of Phabricator</h2>
 <a name="story-25903"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.datocms-assets.com%2F85246%2F1709096644-2-principles-of-ohabricator-workflow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phorge is an open-source, community-driven platform for collaborating on and managing software development projects. It serves as a community-maintained fork of Phabricator, which has been unmaintained since June 2021 following the winding down of Phacility's operations.</p><p>The project provides tools for organizing development tasks, reviewing code, and engaging in community question-and-answer forums. Documentation is available to assist with installation, feature exploration, and contributing to the ongoing development of the platform.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25752"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd6%2Fb5%2Fb3%2Fd6b5b3cafb1819bb781dffc6756df614.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Lobsters contributor is seeking a partner to pair-code a specific refactoring task involving a long-standing issue in the codebase. The proposed changes follow suggestions provided by the project's administrators.</p><p>The collaboration is intended to help the author and other potential contributors better understand the codebase. The author has explicitly prohibited the use of Large Language Models (LLMs) for this session, requiring manual programming instead.</p>
 <p><small>Links: <a href="https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat">lobste.rs</a> | <a href="https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Google Updates Chrome Autofill to Suggest Information from Gmail</h2>
-<a name="story-25715"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fautofill-ai-chrome.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Chrome's updated autofill feature uses AI to pull specific details from a user's Gmail account to assist in completing online forms. The tool can suggest information such as flight confirmation numbers, tracking info, order details, and addresses.</p><p>This update is an expansion of Google’s Personal Intelligence, which connects Google Apps to the Gemini AI assistant. The feature is rolling out to users in the United States on desktop and through the Gemini in Chrome apps for iOS and Android, with users able to enable or disable the function in Chrome settings.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/">techcrunch.com</a></small></p>
 <br clear="all" />
 
 ---

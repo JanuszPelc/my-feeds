@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-29T21:00:00+00:00</updated>
+  <updated>2026-10-30T01:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>YC Labs and Olam Labs Study Multi-Agent Swarm Dynamics in Minecraft Experiments</title>
+    <link href="https://labs.ycombinator.com/projects/games/index.html" rel="alternate" />
+    <id>https://labs.ycombinator.com/projects/games/index.html::v240</id>
+    <published>2026-10-30T01:30:00+00:00</published>
+    <updated>2026-10-30T01:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flabs.ycombinator.com%2Fciv50%2Fcharts%2Factivity-by-night-color-v2-26B3C72A.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://labs.ycombinator.com/projects/games/index.html">labs.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=50296486">hacker news</a></small></p><hr/><p>YC Labs partnered with Olam Labs to conduct multi-agent experiments deploying 50 GPT-6.1 Sol AI agents into a survival Minecraft world for a three-hour run. The study aimed to observe emergent swarm behaviors, coordination patterns, and organizational structures under resource constraints and environmental hazards.</p><p>Following high mortality rates during the first night, the agents spontaneously adapted by forming a hierarchical governance structure, utilizing a shared planning sandbox, and establishing a centralized food-rationing ledger. The experiment highlights how autonomous LLM swarms can develop complex social protocols and risk aversion when faced with survival pressures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flabs.ycombinator.com%2Fciv50%2Fcharts%2Factivity-by-night-color-v2-26B3C72A.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 08:59 UTC | #25913</small>]]></content>
+  </entry>
   <entry>
     <title>Howler Launches Harry Potter-Inspired Ephemeral AI Chat for macOS</title>
     <link href="https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484" rel="alternate" />
