@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Amazon Reports Q3 2026 Revenue of $201.9 Billion</h2>
+<a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffourweekmba.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-69.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
+<p><small>Links: <a href="https://www.businesswire.com/news/home/20261028373648/en/">businesswire.com</a> | <a href="https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">source</a></small></p>
+<br clear="all" />
+
 <h2>SuperMe Raises $20M for AI Expert Profile Network</h2>
 <a name="story-25846"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmq4D.img%3Fw%3D4206%26h%3D2804%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SuperMe, a startup that builds AI-simulated profiles from real-world expertise, has raised $20 million in a funding round led by Forerunner with participation from Greylock Partners. The platform enables users to ask questions and receive responses through group chats featuring specialized AI personas.</p><p>The service generates its knowledge base by scanning public sources like LinkedIn and YouTube and by integrating with apps such as Google Drive and Notion. While currently free, the company plans to introduce question limits and monetization as it scales its technical and networking teams.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25817"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs201.q4cdn.com%2F833622905%2Ffiles%2Fdoc_downloads%2Ffeatured_materials_docs%2Fadt-esg-report.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Thrive Holdings has entered into a definitive agreement to acquire home security provider ADT in an all-cash take-private transaction. The deal values ADT at approximately $15.3 billion in enterprise value and $7.6 billion in equity value, representing a roughly 46% premium over the company's October 27, 2026, closing price.</p><p>ADT stockholders are set to receive $10.00 per share in cash. The transaction is expected to be financed by funds managed by Apollo affiliates and remains subject to customary closing conditions, including approval from stockholders and antitrust regulators.</p>
 <p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private">axios.com</a> | <a href="https://investor.adt.com/News--Events/news/news-details/2026/ADT-to-be-Acquired-by-Thrive-Holdings-in-15-3-Billion-Transaction/default.aspx">source</a></small></p>
-<br clear="all" />
-
-<h2>Serval Raises $150 Million in Series C Funding at $3 Billion Valuation</h2>
-<a name="story-25814"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fserval-raises-150m-series-c-at-3b-valuation-to-hire-over-500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Serval, an enterprise IT service management and automation startup, has raised $150 million in a Series C funding round led by Sequoia Capital. The financing values the company at $3 billion, tripling its valuation from $1 billion recorded in December 2025.</p><p>The new capital will support the expansion of Serval's AI workflow automation platform and fund plans to hire over 500 employees as the company scales its operations to compete with established enterprise software providers.</p>
-<p><small>Links: <a href="https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/">reuters.com</a> | <a href="https://www.serval.com/blog/we-raised-150m-to-make-everyone-a-builder">source</a></small></p>
 <br clear="all" />
 
 ---
