@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>AM Intelligence Seeks $3 Billion Financing for Nvidia Chips Order</h2>
+<a name="story-25904"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.kvue.com%2Fassets%2FKVUE%2Fimages%2F6292a1c8-9f25-45e0-a951-8fa58955598c%2F20260106T143508%2F6292a1c8-9f25-45e0-a951-8fa58955598c_1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Indian artificial intelligence infrastructure firm AM Intelligence is seeking to raise up to $3 billion in financing, including bonds and bank loans, to fund its large-scale orders for Nvidia Corp.'s next-generation chips. The capital raise highlights the massive debt financing accompanying the global expansion of AI data center infrastructure.</p><p>Founded by the leaders of renewable energy producer Greenko Group, AM Intelligence has previously committed billions to secure thousands of Nvidia Vera Rubin systems for planned AI factories in India and Malaysia. The company's heavy hardware investments reflect a broader trend of infrastructure developers leveraging debt to secure cutting-edge computing hardware amid high demand.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>Amazon CEO Andy Jassy Says Third-Party AI Shopping Agents Are Not Yet Convenient</h2>
 <a name="story-25895"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bizclikmedia.net%2F1200%2F80ccae379cf78664762fcb968a5cd9f2%3A663630dc8b6be10d7d01d81dd473aca1%2Fandy-jassy-ceo-amazon.jpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon Chief Executive Andy Jassy told investors that third-party AI shopping agents, such as Meta’s Muse assistant, are not yet convenient enough to pose a major threat to traditional retail traffic. Speaking during a quarterly earnings call, Jassy stated that few consumers are currently using outside agents to make purchases because the experience falls short of visiting retailers directly.</p><p>The remarks follow Amazon’s decision to block Meta’s assistant from accessing its online store over policy violations, even as Meta reports rapid user growth and high shopping engagement across partner platforms. Meanwhile, Amazon continues to promote its own "Alexa for shopping" tool, which the company says has driven higher order values among hundreds of millions of users over the past year.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25831"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-1ad6c474d8138001.png%3Fformat%3Dwebp%26width%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Former Palantir executives Andy Alder and Arjun Mather have launched Dream, an artificial intelligence startup building world models to automate building design and engineering. The company emerged from stealth with $17 million in seed funding led by Andreessen Horowitz, alongside backers including SV Angel, XYZ, and Zigg Capital.</p><p>Dream aims to replace legacy architecture, engineering, and construction software like AutoCAD and Revit by generating structurally precise designs grounded in real physics and building codes. The platform has already been deployed across 10 active projects in Texas and California as the founders look to tackle surging development costs and declining U.S. construction volumes.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/">techcrunch.com</a> | <a href="https://www.dreamhq.com/">source</a></small></p>
-<br clear="all" />
-
-<h2>Palantir CTO Shyam Sankar Discusses AI Diffusion and Enterprise Workflows</h2>
-<a name="story-25804"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Fyoutube%2Fw_728%2Cc_limit%2FFjHHPqMl5Xk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In a Stratechery interview, Palantir CTO Shyam Sankar argues that the artificial intelligence industry is currently over-investing in model creation and under-investing in diffusion, emphasizing that organizations must focus on transforming entire workflows rather than merely increasing individual knowledge-worker productivity.</p><p>Sankar also examines why institutions using AI for top-line expansion and market dominance outperform those focused strictly on headcount reduction, while sharing lessons from Palantir's operational strategies, forward-deployed engineering, and the broader economic implications of industrial capacity.</p>
-<p><small>Links: <a href="https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/">stratechery.com</a></small></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Nim Version 2.4.0 Released</h2>
+<a name="story-25918"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2026%2F02%2Fnim-programming-language%2F698336565b79d-nim-programming-language-screenshot1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Nim programming language team has released version 2.4.0, a major stable update introducing several significant language and compiler features. Key additions include small-string optimization via `--strings:sso` for enhanced processing efficiency, support for parallel and incremental builds through `--ic:on`, and `--mm:yrc`, a new thread-safe cycle collection algorithm.</p><p>The release also adds more concise syntax for sum types, an experimental `owned` type modifier for static ownership tracking, and support for cyclic module dependencies using the `{.cyclic.}` pragma. Additionally, the team published version 2.2.14 as a maintenance patch for users choosing to stay on the previous stable branch.</p>
+<p><small>Links: <a href="https://nim-lang.org/blog/2026/10/28/nim-240.html">nim-lang.org</a> | <a href="https://lobste.rs/s/vfllme/nim_version_2_4_0_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50276055">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Misty De Méo Publishes Guide on Personal Web Archiving Tools</h2>
 <a name="story-25914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mistys-internet.website%2Fimages%2Fwebarchiving%2Fdomaincrawl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Web archivist and software engineer Misty De Méo advocates for personal web archiving, encouraging individuals to actively preserve their favorite online spaces using standard formats like WARC and WACZ rather than relying solely on large institutions.</p><p>The post highlights accessible tools such as the ArchiveWeb.page browser extension, the standalone application, and the Browsertrix web crawler, detailing how users can capture, replay, and share self-contained website backups.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25769"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2011%2F09%2FBUGCODE_USB_DRIVER.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Windows 7 writes the constant 0xABADBABE to a reserved EHCI register during boot to provide a breakpoint for debuggers when a USB device is attached.</p><p>This write is a "red herring" that does not cause the blue screen errors encountered during system simulation. Those errors can instead be caused by bugs in simulated devices, such as USB data structures containing pointers to memory outside the driver's mapped area.</p>
 <p><small>Links: <a href="https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/ml4m9a/who_s_0xabadbabe_why_2011">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Lobsters Contributor Seeks Pair-Coding Partner for Refactoring Task</h2>
-<a name="story-25752"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd6%2Fb5%2Fb3%2Fd6b5b3cafb1819bb781dffc6756df614.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A Lobsters contributor is seeking a partner to pair-code a specific refactoring task involving a long-standing issue in the codebase. The proposed changes follow suggestions provided by the project's administrators.</p><p>The collaboration is intended to help the author and other potential contributors better understand the codebase. The author has explicitly prohibited the use of Large Language Models (LLMs) for this session, requiring manual programming instead.</p>
-<p><small>Links: <a href="https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat">lobste.rs</a> | <a href="https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat">discussion</a></small></p>
 <br clear="all" />
 
 ---

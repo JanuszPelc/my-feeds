@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T01:31:00+00:00</updated>
+  <updated>2026-10-30T02:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Nim Version 2.4.0 Released</title>
+    <link href="https://nim-lang.org/blog/2026/10/28/nim-240.html" rel="alternate" />
+    <id>https://nim-lang.org/blog/2026/10/28/nim-240.html::v240</id>
+    <published>2026-10-30T02:13:00+00:00</published>
+    <updated>2026-10-30T02:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2026%2F02%2Fnim-programming-language%2F698336565b79d-nim-programming-language-screenshot1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nim-lang.org/blog/2026/10/28/nim-240.html">nim-lang.org</a> | <a href="https://lobste.rs/s/vfllme/nim_version_2_4_0_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50276055">hacker news</a></small></p><hr/><p>The Nim programming language team has released version 2.4.0, a major stable update introducing several significant language and compiler features. Key additions include small-string optimization via `--strings:sso` for enhanced processing efficiency, support for parallel and incremental builds through `--ic:on`, and `--mm:yrc`, a new thread-safe cycle collection algorithm.</p><p>The release also adds more concise syntax for sum types, an experimental `owned` type modifier for static ownership tracking, and support for cyclic module dependencies using the `{.cyclic.}` pragma. Additionally, the team published version 2.2.14 as a maintenance patch for users choosing to stay on the previous stable branch.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2026%2F02%2Fnim-programming-language%2F698336565b79d-nim-programming-language-screenshot1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 10:03 UTC | #25918</small>]]></content>
+  </entry>
   <entry>
     <title>Misty De Méo Publishes Guide on Personal Web Archiving Tools</title>
     <link href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/" rel="alternate" />

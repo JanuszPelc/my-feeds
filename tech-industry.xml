@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-30T01:24:00+00:00</updated>
+  <updated>2026-10-30T02:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>AM Intelligence Seeks $3 Billion Financing for Nvidia Chips Order</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order::v240</id>
+    <published>2026-10-30T02:41:00+00:00</published>
+    <updated>2026-10-30T02:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.kvue.com%2Fassets%2FKVUE%2Fimages%2F6292a1c8-9f25-45e0-a951-8fa58955598c%2F20260106T143508%2F6292a1c8-9f25-45e0-a951-8fa58955598c_1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order">bloomberg.com</a></small></p><hr/><p>Indian artificial intelligence infrastructure firm AM Intelligence is seeking to raise up to $3 billion in financing, including bonds and bank loans, to fund its large-scale orders for Nvidia Corp.'s next-generation chips. The capital raise highlights the massive debt financing accompanying the global expansion of AI data center infrastructure.</p><p>Founded by the leaders of renewable energy producer Greenko Group, AM Intelligence has previously committed billions to secure thousands of Nvidia Vera Rubin systems for planned AI factories in India and Malaysia. The company's heavy hardware investments reflect a broader trend of infrastructure developers leveraging debt to secure cutting-edge computing hardware amid high demand.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.kvue.com%2Fassets%2FKVUE%2Fimages%2F6292a1c8-9f25-45e0-a951-8fa58955598c%2F20260106T143508%2F6292a1c8-9f25-45e0-a951-8fa58955598c_1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 10:04 UTC | #25904</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon CEO Andy Jassy Says Third-Party AI Shopping Agents Are Not Yet Convenient</title>
     <link href="https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/" rel="alternate" />
