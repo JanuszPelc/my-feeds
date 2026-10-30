@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Archive of Our Own Down for Maintenance for Up to Four Weeks</h2>
+<a name="story-25861"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fao3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Organization for Transformative Works (OTW) reported that Archive of Our Own (AO3) is undergoing maintenance that may last up to four weeks. Although the organization intends to restore services in a degraded state sooner, users should expect potential temporary shutdowns during the resolution process.</p><p>AO3 is a massive repository for fanfiction, hosting over 18.4 million works across more than 82,900 fandoms. This extended downtime is expected to disrupt significant community activity during several major fandom events and upcoming book releases.</p>
+<p><small>Links: <a href="https://www.404media.co/archive-of-our-own-ao3-down-maintenance/">404media.co</a> | <a href="https://www.otwstatus.org/">source</a> | <a href="https://news.ycombinator.com/item?id=50293546">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Chained PHP2Shell and Kernel Exploit Compromises 25 Palo Alto Networks Servers</h2>
 <a name="story-25886"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6a146a5aca0b1a41051708a5%2F6ae0916527e477c7abbb7f44_6ae090fd9d4636df82361954_PHP2Shell-fig-01-timeline-final.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dream researchers identified a campaign targeting Palo Alto Networks PAN-OS firewalls using a chained exploit involving PHP2Shell (CVE-2026-109618/CVE-2026-109619) and the Fragnesia kernel privilege-escalation vulnerability (CVE-2026-46300). The attack achieved root access in under 15 minutes, compromising 25 servers across the United States, Japan, Taiwan, and South Korea, including systems in a US government-affiliated environment.</p><p>After gaining root access, attackers established persistent reverse SSH tunnels to pivot from management interfaces into internal networks, targeting Active Directory for credential extraction and enumeration. Investigators also identified evidence of AI-assisted tooling in the attack infrastructure, including the use of Claude Code and offensive security platforms configured with Chinese large language models.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25753"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.orange.tw%2Fposts%2F2026-10-the-last-proof-of-human-craft-browser-full-chain%2Fpwnie-award-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Orange Tsai of DEVCORE Research Team achieved a Microsoft Edge sandbox escape at Pwn2Own Berlin 2026 by chaining four logic bugs. The exploit relies on logical flaws rather than memory corruption or artificial intelligence, earning a $175,000 reward.</p><p>The attack leverages the `EdgeCAGuidanceNavigationThrottle` to trigger sourceless navigation, creating a Universal XSS (UXSS) vulnerability. This is combined with a popup blocker bypass, Microsoft's OneAuth automatic sign-in feature, and a CORS misconfiguration on `assets.msn.com` that leaks user emails to enable a zero-click exploit.</p>
 <p><small>Links: <a href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/">blog.orange.tw</a> | <a href="https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with">discussion</a> | <a href="https://news.ycombinator.com/item?id=50285319">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>GitHub Expands Infrastructure to Support 7.4 Billion Monthly Commits</h2>
-<a name="story-25717"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.thenewstack.io%2Fmedia%2F2026%2F10%2F8f101727-4b45d5f0-b92b-4755-b373-6b362896c7c2-1024x768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GitHub recorded 7.4 billion commits in September 2026, a significant surge driven largely by increased demand from AI agents. To manage this growth, the company has added 4 million CPU cores and 160 petabytes of high-speed storage to its infrastructure.</p><p>The company is also rearchitecting its platform to decouple compute and storage to address scaling and reliability challenges. Internal benchmarks suggest this new architecture can deliver up to 35 times higher write throughput for Git operations.</p>
-<p><small>Links: <a href="https://thenewstack.io/github-7-4b-commits-september/">thenewstack.io</a> | <a href="https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/">source</a> | <a href="https://news.ycombinator.com/item?id=50279722">hacker news</a></small></p>
 <br clear="all" />
 
 ---

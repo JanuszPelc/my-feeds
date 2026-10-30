@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>SuperMe Raises $20M for AI Expert Profile Network</h2>
+<a name="story-25846"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmq4D.img%3Fw%3D4206%26h%3D2804%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SuperMe, a startup that builds AI-simulated profiles from real-world expertise, has raised $20 million in a funding round led by Forerunner with participation from Greylock Partners. The platform enables users to ask questions and receive responses through group chats featuring specialized AI personas.</p><p>The service generates its knowledge base by scanning public sources like LinkedIn and YouTube and by integrating with apps such as Google Drive and Notion. While currently free, the company plans to introduce question limits and monetization as it scales its technical and networking teams.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/">techcrunch.com</a></small></p>
+<br clear="all" />
+
 <h2>Sebastian Thrun’s Startup Dulo Raises $130 Million for AI Engineering</h2>
 <a name="story-25841"><img src="https://wsrv.nl/?url=https%3A%2F%2Fexplorers.com%2Fwp-content%2Fuploads%2F2025%2F04%2FSebastian_Thrun_by_Christopher_Michel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sebastian Thrun, a computer scientist and Google veteran, has co-founded Dulo to develop foundation models for hardware design. The startup has secured $130 million in seed funding to advance its AI-driven engineering tools.</p><p>Co-founded with Adrian Aoun, Dulo's investment round includes Eric Schmidt, John Doerr, DST Global, Construct Capital, and Lowercarbon Capital. The company aims to apply AI expertise to the hardware design and manufacturing sectors.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25814"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Fserval-raises-150m-series-c-at-3b-valuation-to-hire-over-500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Serval, an enterprise IT service management and automation startup, has raised $150 million in a Series C funding round led by Sequoia Capital. The financing values the company at $3 billion, tripling its valuation from $1 billion recorded in December 2025.</p><p>The new capital will support the expansion of Serval's AI workflow automation platform and fund plans to hire over 500 employees as the company scales its operations to compete with established enterprise software providers.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/">reuters.com</a> | <a href="https://www.serval.com/blog/we-raised-150m-to-make-everyone-a-builder">source</a></small></p>
-<br clear="all" />
-
-<h2>Microsoft Launches First US Investment-Grade Bond Sale Since 2017</h2>
-<a name="story-25811"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdvzkzccvn%2Fimages%2Fw_1024%2Ch_683%2Cc_scale%2Ff_auto%2Cq_auto%2Fv1778584760%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f%2FMicrosoft-AI-Spending-and-Capital-Expenditure-Growth_24594c5a1f.jpg%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft Corp. has initiated a US investment-grade bond offering aiming to raise at least $25 billion. This marks the company's first return to the domestic high-grade debt market in more than nine years, following a $17 billion bond sale in 2017.</p><p>The multi-tranche debt issuance is intended to fund rising capital expenditures driven by the artificial intelligence infrastructure boom. Financial institutions including Wells Fargo, JPMorgan Chase, and UBS are managing the offering as major technology companies increasingly tap debt markets to finance extensive AI expansion.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---
