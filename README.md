@@ -5,7 +5,7 @@ below and subscribe to the feeds you like. Or download
 [all-feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/all-feeds.opml) and import
 it into your RSS reader.
 
----
+<a name="rule-top"><img src="images/rule.svg" width="100%" height="4" /></a>
 
 <!-- top-stories -->
 
@@ -84,6 +84,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <p><a name="top-stories"><picture><img src="https://img.shields.io/badge/top--stories-cc408f?style=flat-square" height="28" alt="top-stories" /></picture></a> <a href="previews/ai-news.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ai--news-29313d?style=flat-square" /><img src="https://img.shields.io/badge/ai--news-dfe6ed?style=flat-square" height="28" alt="ai-news" /></picture></a> <a href="previews/computer-programming.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--programming-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--programming-dfe6ed?style=flat-square" height="28" alt="computer-programming" /></picture></a> <a href="previews/computer-security.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--security-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--security-dfe6ed?style=flat-square" height="28" alt="computer-security" /></picture></a> <a href="previews/human-knowledge.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--knowledge-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--knowledge-dfe6ed?style=flat-square" height="28" alt="human-knowledge" /></picture></a> <a href="previews/music-production.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/music--production-29313d?style=flat-square" /><img src="https://img.shields.io/badge/music--production-dfe6ed?style=flat-square" height="28" alt="music-production" /></picture></a> <a href="previews/tech-consumer.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--consumer-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--consumer-dfe6ed?style=flat-square" height="28" alt="tech-consumer" /></picture></a> <a href="previews/tech-finance.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--finance-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--finance-dfe6ed?style=flat-square" height="28" alt="tech-finance" /></picture></a> <a href="previews/tech-industry.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--industry-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--industry-dfe6ed?style=flat-square" height="28" alt="tech-industry" /></picture></a> <a href="previews/tech-policy.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--policy-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--policy-dfe6ed?style=flat-square" height="28" alt="tech-policy" /></picture></a></p>
 
 <!-- /top-stories -->
+
+<a name="rule-bottom"><img src="images/rule.svg" width="100%" height="4" /></a>
 
 ## Worth knowing
 
