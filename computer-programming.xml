@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T03:59:00+00:00</updated>
+  <updated>2026-10-30T07:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Curl Accidentally Turing-Complete for Nine Months</title>
+    <link href="https://seriot.ch/computation/curl.html" rel="alternate" />
+    <id>https://seriot.ch/computation/curl.html::v240</id>
+    <published>2026-10-30T07:25:00+00:00</published>
+    <updated>2026-10-30T07:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fseriot.ch%2Fresources%2Fcurl_config.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://seriot.ch/computation/curl.html">seriot.ch</a> | <a href="https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing">discussion</a> | <a href="https://news.ycombinator.com/item?id=50300011">hacker news</a></small></p><hr/><p>Between versions 8.12 and 8.16, the command-line data transfer tool curl possessed features that made it accidentally Turing-complete under unbounded resource assumptions. Config files could slice variable values and recursively include other files without an explicit depth cap, enabling the utility to simulate any two-counter Minsky program.</p><p>Release 8.17.0 introduced a five-level include cap that broke this reduction by restricting file inclusion depth. Although real-world physical constraints such as stack limits and memory allocation restricted execution depth in practice, the behavior illustrated how unexpected computational capabilities can emerge from configuration parsers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fseriot.ch%2Fresources%2Fcurl_config.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 10:36 UTC | #25923</small>]]></content>
+  </entry>
   <entry>
     <title>Pidgin 3.0 Alpha 4 Released with Version 2.98.0</title>
     <link href="https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445" rel="alternate" />

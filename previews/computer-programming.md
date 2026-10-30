@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Curl Accidentally Turing-Complete for Nine Months</h2>
+<a name="story-25923"><img src="https://wsrv.nl/?url=https%3A%2F%2Fseriot.ch%2Fresources%2Fcurl_config.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Between versions 8.12 and 8.16, the command-line data transfer tool curl possessed features that made it accidentally Turing-complete under unbounded resource assumptions. Config files could slice variable values and recursively include other files without an explicit depth cap, enabling the utility to simulate any two-counter Minsky program.</p><p>Release 8.17.0 introduced a five-level include cap that broke this reduction by restricting file inclusion depth. Although real-world physical constraints such as stack limits and memory allocation restricted execution depth in practice, the behavior illustrated how unexpected computational capabilities can emerge from configuration parsers.</p>
+<p><small>Links: <a href="https://seriot.ch/computation/curl.html">seriot.ch</a> | <a href="https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing">discussion</a> | <a href="https://news.ycombinator.com/item?id=50300011">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Pidgin 3.0 Alpha 4 Released with Version 2.98.0</h2>
 <a name="story-25922"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcanada1.discourse-cdn.com%2Fflex007%2Fuploads%2Fimfreedom%2Foptimized%2F1X%2F248e6940c2d0e9bfba479c1fd0fe45e0af4e1478_2_690x345.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Pidgin development team has released the fourth alpha version of Pidgin 3.0, officially numbered as version 2.98.0. This experimental release is intended for developers and testers, featuring a series of user interface refinements, searchable preferences, and a default avatar fallback.</p><p>Key additions include support for post-connection IRCv3 commands and a new protocol plugin for the soju IRC bouncer to automatically discover and map bouncer networks as IRCv3 accounts. While not yet recommended for end users or distribution packaging, the project has also laid groundwork for handling conversation threads, spaces, and collections in future releases.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25857"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgencmurat.com%2Fwhat_is_future.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Yoshua Wuyts analyzes limitations in Rust's Future::poll method, arguing that its inability to explicitly signal a completed state leads to inefficient workarounds, panics, and bloated binary sizes on constrained targets. Because the Poll enum only supports Pending and Ready(T), calling poll after completion is undefined behavior that typically triggers a panic, forcing concurrency primitives to rely on redundant bookkeeping.</p><p>The post suggests adding an explicit Done variant to Poll and updating unstable constructs like the Coroutine trait and CoroutineState to prevent repeating similar design flaws. While retrofitting the stable Future trait remains unfeasible without major breaking changes, addressing these gaps in upcoming features like generator syntax could streamline async concurrency tracking and reduce codegen overhead.</p>
 <p><small>Links: <a href="https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state">blog.yoshuawuyts.com</a> | <a href="https://lobste.rs/s/jmbjlu/future_trait_has_missing_state">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Redox OS Details Ring Buffers Implementation and Performance Improvements</h2>
-<a name="story-25845"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.redox-os.org%2Fimg%2Fnlnet-rb-summary%2Fring-buffers-benchmark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Redox OS team has concluded a grant-funded project supported by the NLnet Foundation to implement io_uring-like ring buffer support at the system task level. The new redox-rings crate and associated FFI API allow applications to asynchronously submit I/O requests and communicate with system daemons like RamFS and NVMed via shared memory without kernel involvement or data copying.</p><p>Alongside the ring buffer machinery and a new async driver executor, the team implemented several kernel and IPC optimizations—such as direct context switching, vector register zeroing on syscall paths, and 2MB huge page support—which collectively reduced IPC roundtrip latency and accelerated benchmark performance significantly.</p>
-<p><small>Links: <a href="https://www.redox-os.org/news/nlnet-rb-summary/">redox-os.org</a> | <a href="https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary">discussion</a></small></p>
 <br clear="all" />
 
 ---

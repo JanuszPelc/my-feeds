@@ -8,9 +8,6 @@ The feeds I actually read, updated as new stories land.
 Or download [all-feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/all-feeds.opml)
 and import it into your RSS reader.
 
-Feed links rarely change, but if a feed in your reader goes quiet for a few days, come back
-here and resubscribe.
-
 ---
 
 <!-- top-stories -->
@@ -96,3 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 The feeds are aggregated by an agentic pipeline, which rewrites every title and summary in
 a plain, measured tone. Lead images are chosen by vision models. Nothing is reviewed by
 hand, so check anything that matters against the linked sources.
+
+Feed links rarely change, but if a feed in your reader goes quiet for a few days, come back
+here and resubscribe.
