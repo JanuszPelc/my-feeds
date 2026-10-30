@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-29T20:08:00+00:00</updated>
+  <updated>2026-10-29T21:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Roblox Reports Third-Quarter User Miss Despite Exceeding Bookings Estimates</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg::v240</id>
+    <published>2026-10-29T21:26:00+00:00</published>
+    <updated>2026-10-29T21:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fvfkpgemp7ek3%2F321075592%2F48b4d9d8de2d289748975f5de774ae4d%2FMMM--Roblox-s-Q3-2023-Earnings-Recap_-Black-Friday-Sees-Increased-Conversion-Events.jpg%3Fw%3D1920&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg">bloomberg.com</a> | <a href="https://www.businesswire.com/news/home/20261029427925/en/Roblox-Reports-Third-Quarter-2026-Financial-Results">source</a></small></p><hr/><p>Roblox Corp. reported third-quarter bookings of $1.7 billion, a 12% year-over-year decrease that exceeded analyst estimates of $1.63 billion. Daily active users fell 9% year-over-year to 138 million, missing the 145.8 million expected by analysts.</p><p>Roblox shares fell more than 16% in after-hours trading following the announcement. The results highlight concerns regarding a recent slowdown in user engagement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fvfkpgemp7ek3%2F321075592%2F48b4d9d8de2d289748975f5de774ae4d%2FMMM--Roblox-s-Q3-2023-Earnings-Recap_-Black-Friday-Sees-Increased-Conversion-Events.jpg%3Fw%3D1920&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 04:32 UTC | #25884</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Glover to Lead Netflix Adaptation of PUBG</title>
     <link href="https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Roblox Reports Third-Quarter User Miss Despite Exceeding Bookings Estimates</h2>
+<a name="story-25884"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fvfkpgemp7ek3%2F321075592%2F48b4d9d8de2d289748975f5de774ae4d%2FMMM--Roblox-s-Q3-2023-Earnings-Recap_-Black-Friday-Sees-Increased-Conversion-Events.jpg%3Fw%3D1920&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Roblox Corp. reported third-quarter bookings of $1.7 billion, a 12% year-over-year decrease that exceeded analyst estimates of $1.63 billion. Daily active users fell 9% year-over-year to 138 million, missing the 145.8 million expected by analysts.</p><p>Roblox shares fell more than 16% in after-hours trading following the announcement. The results highlight concerns regarding a recent slowdown in user engagement.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg">bloomberg.com</a> | <a href="https://www.businesswire.com/news/home/20261029427925/en/Roblox-Reports-Third-Quarter-2026-Financial-Results">source</a></small></p>
+<br clear="all" />
+
 <h2>Donald Glover to Lead Netflix Adaptation of PUBG</h2>
 <a name="story-25859"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltf444fe6c2ef4562e%2F67ab6ea94aa212470924b757%2FPUBG_Header.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Netflix is developing a live-action series based on the battle royale video game PUBG: Battlegrounds. Donald Glover is set to write, direct, produce, and star in the adaptation.</p><p>This project follows the massive commercial success of the franchise, which has sold over 75 million copies. Glover is an award-winning actor and creator known for work on *Atlanta* and *Community*. No production timeline has been announced.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25688"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage-cdn.hypb.st%2Fhttps%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2Fsamsung-unveils-galaxy-buds-on-clip-style-open-ear-buds-2.jpg%3Fq%3D90%26w%3D800%26cbr%3D1%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics has announced the Galaxy Buds On, its first pair of open-fit, C-shaped cuff earbuds priced at $229. Designed to compete in the growing open-ear audio market against offerings from companies like Sony and Bose, the earbuds are scheduled to ship starting November 6.</p><p>Developed using an AI-driven computational design process based on millions of ear-data points, the Galaxy Buds On feature a TwinBoost speaker system for enhanced bass and support hands-free access to AI assistants such as Gemini Live. The device offers up to 9.5 hours of battery life and marks Samsung's entry into the clip-on earphone segment.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229">bloomberg.com</a> | <a href="https://news.samsung.com/us/samsung-galaxy-buds-on-us-comfortable-open-ear-listening/">source</a></small></p>
-<br clear="all" />
-
-<h2>Amazon Unveils New Echo Show 16, Echo Time Alarm, and Alexa Photo Frame</h2>
-<a name="story-25690"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.geeky-gadgets.com%2Fwp-content%2Fuploads%2F2017%2F11%2Famazon-echo-show.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon has announced a new lineup of Alexa-powered hardware, featuring a redesigned $500 Echo Show 16 with Fire TV built-in, the $200 Echo Time bedside smart alarm clock, and the $200 Alexa Photo Frame. The company also introduced upgraded Echo Dot and Echo Studio models equipped with home camera features, raised prices across several smart speakers, and previewed the new Alexa Home Map interface.</p><p>The expanded device ecosystem aims to deepen Alexa's integration throughout the home by combining ambient displays, personal photo management, and enhanced security functions. Preorders for the new hardware launch immediately as Amazon continues to pivot its connected-home strategy toward more versatile screens and AI-driven capabilities.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/devices/new-alexa-devices-2026">source</a></small></p>
 <br clear="all" />
 
 ---
