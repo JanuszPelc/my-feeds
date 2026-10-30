@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Amazon CEO Andy Jassy Says Third-Party AI Shopping Agents Are Not Yet Convenient</h2>
+<a name="story-25895"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bizclikmedia.net%2F1200%2F80ccae379cf78664762fcb968a5cd9f2%3A663630dc8b6be10d7d01d81dd473aca1%2Fandy-jassy-ceo-amazon.jpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amazon Chief Executive Andy Jassy told investors that third-party AI shopping agents, such as Meta’s Muse assistant, are not yet convenient enough to pose a major threat to traditional retail traffic. Speaking during a quarterly earnings call, Jassy stated that few consumers are currently using outside agents to make purchases because the experience falls short of visiting retailers directly.</p><p>The remarks follow Amazon’s decision to block Meta’s assistant from accessing its online store over policy violations, even as Meta reports rapid user growth and high shopping engagement across partner platforms. Meanwhile, Amazon continues to promote its own "Alexa for shopping" tool, which the company says has driven higher order values among hundreds of millions of users over the past year.</p>
+<p><small>Links: <a href="https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/">fortune.com</a> | <a href="https://ir.aboutamazon.com/events/event-details/2026/Q3-2026-Amazoncom-Inc-Earnings-Conference-Call/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Pinterest Misses Q3 Revenue Estimates and Issues Lower Q4 Guidance</h2>
 <a name="story-25892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2023%2F10%2F04181554%2FPinterest-Q3-2023-earnings-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pinterest reported third-quarter revenue of $1.17 billion, a 12% year-over-year increase that fell short of analyst estimates of $1.21 billion. Global monthly active users grew 10% to reach 661 million during the period.</p><p>The company's revenue guidance for the fourth quarter is lower than analyst expectations, contributing to a more than 8% decline in Pinterest shares during after-hours trading.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25804"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Fyoutube%2Fw_728%2Cc_limit%2FFjHHPqMl5Xk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In a Stratechery interview, Palantir CTO Shyam Sankar argues that the artificial intelligence industry is currently over-investing in model creation and under-investing in diffusion, emphasizing that organizations must focus on transforming entire workflows rather than merely increasing individual knowledge-worker productivity.</p><p>Sankar also examines why institutions using AI for top-line expansion and market dominance outperform those focused strictly on headcount reduction, while sharing lessons from Palantir's operational strategies, forward-deployed engineering, and the broader economic implications of industrial capacity.</p>
 <p><small>Links: <a href="https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/">stratechery.com</a></small></p>
-<br clear="all" />
-
-<h2>Amazon Updates Alexa with Over 100 New Shopping Capabilities</h2>
-<a name="story-25806"><img src="https://wsrv.nl/?url=https%3A%2F%2Flogie.ai%2Fnews%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Famazon_alexa_shopping_graphic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ahead of the holiday season, Amazon has introduced more than 100 new shopping-related capabilities to its Alexa assistant. The updates enable users to manage shopping lists, handle subscription changes like Subscribe &amp; Save modifications, and update delivery instructions directly through voice commands.</p><p>Consumers can also use the assistant to address billing or payment issues and inquire about details regarding their Prime or Audible memberships. Amazon reports that the adoption of agentic features has expanded significantly over the past year, with hundreds of millions of users utilizing Alexa for shopping.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities">source</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T23:50:00+00:00</updated>
+  <updated>2026-10-30T01:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Amazon CEO Andy Jassy Says Third-Party AI Shopping Agents Are Not Yet Convenient</title>
+    <link href="https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/" rel="alternate" />
+    <id>https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/::v240</id>
+    <published>2026-10-30T01:24:00+00:00</published>
+    <updated>2026-10-30T01:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.bizclikmedia.net%2F1200%2F80ccae379cf78664762fcb968a5cd9f2%3A663630dc8b6be10d7d01d81dd473aca1%2Fandy-jassy-ceo-amazon.jpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/">fortune.com</a> | <a href="https://ir.aboutamazon.com/events/event-details/2026/Q3-2026-Amazoncom-Inc-Earnings-Conference-Call/default.aspx">source</a></small></p><hr/><p>Amazon Chief Executive Andy Jassy told investors that third-party AI shopping agents, such as Meta’s Muse assistant, are not yet convenient enough to pose a major threat to traditional retail traffic. Speaking during a quarterly earnings call, Jassy stated that few consumers are currently using outside agents to make purchases because the experience falls short of visiting retailers directly.</p><p>The remarks follow Amazon’s decision to block Meta’s assistant from accessing its online store over policy violations, even as Meta reports rapid user growth and high shopping engagement across partner platforms. Meanwhile, Amazon continues to promote its own "Alexa for shopping" tool, which the company says has driven higher order values among hundreds of millions of users over the past year.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bizclikmedia.net%2F1200%2F80ccae379cf78664762fcb968a5cd9f2%3A663630dc8b6be10d7d01d81dd473aca1%2Fandy-jassy-ceo-amazon.jpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 07:28 UTC | #25895</small>]]></content>
+  </entry>
   <entry>
     <title>Pinterest Misses Q3 Revenue Estimates and Issues Lower Q4 Guidance</title>
     <link href="https://www.barrons.com/articles/pinterest-earnings-stock-price-ec2101b6" rel="alternate" />

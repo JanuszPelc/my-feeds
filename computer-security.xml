@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-29T23:49:00+00:00</updated>
+  <updated>2026-10-30T01:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>David Buchanan Demonstrates C2PA Trust Model Vulnerabilities</title>
+    <link href="https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html" rel="alternate" />
+    <id>https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html::v240</id>
+    <published>2026-10-30T01:25:00+00:00</published>
+    <updated>2026-10-30T01:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fapplsci%2Fapplsci-16-03391%2Farticle_deploy%2Fhtml%2Fimages%2Fapplsci-16-03391-g001.png%3F1775123784&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html">da.vidbuchanan.co.uk</a> | <a href="https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment">discussion</a></small></p><hr/><p>Security researcher David Buchanan has demonstrated a proof-of-concept showing how the Coalition for Content Provenance and Authenticity (C2PA) trust ecosystem could be compromised in a manner similar to the recent eMudhra certificate authority incident. By generating a signature that chains to Google's C2PA root CA using a leaf certificate with a private key of four, the demonstration highlights potential structural weaknesses in digital media authentication.</p><p>The experiment reveals that current media verification tools largely lack robust revocation-checking mechanisms and struggle with trust models comparable to those that complicated the Web PKI response to the eMudhra compromise. Although the methods used to construct the demonstration are publicly known, the findings emphasize critical vulnerabilities in emerging content provenance standards and the tools designed to enforce them.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fapplsci%2Fapplsci-16-03391%2Farticle_deploy%2Fhtml%2Fimages%2Fapplsci-16-03391-g001.png%3F1775123784&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 07:29 UTC | #25912</small>]]></content>
+  </entry>
   <entry>
     <title>IPv4 Address Allocation Mapped to Physical Land Area</title>
     <link href="https://iptrust.co/blog/if-ipv4-were-land" rel="alternate" />

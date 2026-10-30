@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>David Buchanan Demonstrates C2PA Trust Model Vulnerabilities</h2>
+<a name="story-25912"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fapplsci%2Fapplsci-16-03391%2Farticle_deploy%2Fhtml%2Fimages%2Fapplsci-16-03391-g001.png%3F1775123784&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Security researcher David Buchanan has demonstrated a proof-of-concept showing how the Coalition for Content Provenance and Authenticity (C2PA) trust ecosystem could be compromised in a manner similar to the recent eMudhra certificate authority incident. By generating a signature that chains to Google's C2PA root CA using a leaf certificate with a private key of four, the demonstration highlights potential structural weaknesses in digital media authentication.</p><p>The experiment reveals that current media verification tools largely lack robust revocation-checking mechanisms and struggle with trust models comparable to those that complicated the Web PKI response to the eMudhra compromise. Although the methods used to construct the demonstration are publicly known, the findings emphasize critical vulnerabilities in emerging content provenance standards and the tools designed to enforce them.</p>
+<p><small>Links: <a href="https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html">da.vidbuchanan.co.uk</a> | <a href="https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment">discussion</a></small></p>
+<br clear="all" />
+
 <h2>IPv4 Address Allocation Mapped to Physical Land Area</h2>
 <a name="story-25910"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvad.solutions%2Fipmap%2F2023%2F2023-ipv4-72dpi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A hypothetical visualization redistributes global landmass based on each country's proportion of the world's IPv4 addresses. The model calculates a country's area by multiplying its share of locatable IPv4 addresses by the total world land area.</p><p>The calculation excludes Antarctica and approximately 70 small territories to maintain scale. The methodology utilizes IP Trust geolocation data and focuses on countries with at least 100,000 IPv4 addresses and 20,000 km² of land.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25799"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffurbo.org%2Fwp-content%2Fuploads%2F2026%2F10%2FFluoroscope.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Craig Hockenberry shares a health update detailing his ongoing treatment and recovery from lymphoma, outlining a grueling regimen of lumbar punctures, chemotherapy infusions, and severe side effects including nerve damage, extreme weight loss, and pneumonia.</p><p>Alongside his physical rehabilitation to regain mobility and strength, Hockenberry navigated a simultaneous server security crisis involving a critical PHP vulnerability that required emergency patching from his hospital bed during his final treatment procedures.</p>
 <p><small>Links: <a href="https://furbo.org/2026/10/28/a-health-update/">furbo.org</a> | <a href="https://news.ycombinator.com/item?id=50280974">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>V12 Research Reveals Weak AES-256 Key Generation in Multiple PDF Implementations</h2>
-<a name="story-25784"><img src="https://wsrv.nl/?url=https%3A%2F%2Fv12.sh%2Fcdn%2F_astro%2Fcover.CF5x0X6B_1N5vR.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Security researchers at V12 discovered that several popular PDF implementations generate AES-256 file keys from insufficiently random sources or excessively small state spaces, enabling attackers to decrypt protected documents without a password. In affected applications, the cryptographic keys are derived from predictable metrics rather than true random entropy.</p><p>Specifically, MuPDF's reliance on a linear congruential generator limits the effective entropy of its keys to just nine bits, making rapid brute-force recovery feasible within milliseconds. Similar predictable key derivation patterns were identified in Foxit and Java-based libraries like OpenPDF and iText, undermining the security guarantees of AES-256 encryption in previously generated files.</p>
-<p><small>Links: <a href="https://v12.sh/blog/the-case-of-the-9bit-aes-key">v12.sh</a> | <a href="https://lobste.rs/s/dqexzg/case_9_bit_aes_key">discussion</a> | <a href="https://news.ycombinator.com/item?id=50280722">hacker news</a></small></p>
 <br clear="all" />
 
 ---
