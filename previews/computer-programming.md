@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Jeff Johnson Criticizes Apple Over Touch Screen MacBook Pro Design</h2>
+<a name="story-25927"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.techeblog.com%2Fwp-content%2Fuploads%2F2025%2F09%2F17134856%2Fapple-oled-touchscreen-macbook-pro-news-leak-770x515.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Jeff Johnson criticizes Apple's decision to introduce touch screens to MacBook Pro models, arguing that traditional keyboards and indirect pointing devices provide superior power and productivity for computing tasks.</p><p>Responding to Apple's justification that younger users accustomed to smartphones expect touch displays, Johnson contends that users can easily adapt to traditional interfaces and that prioritizing familiarity over functionality leads to reduced user capability.</p>
+<p><small>Links: <a href="https://lapcatsoftware.com/articles/2026/10/10.html">lapcatsoftware.com</a> | <a href="https://lobste.rs/s/qqelq1/design_interface_for_functionality_not">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Curl Accidentally Turing-Complete for Nine Months</h2>
 <a name="story-25923"><img src="https://wsrv.nl/?url=https%3A%2F%2Fseriot.ch%2Fresources%2Fcurl_config.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Between versions 8.12 and 8.16, the command-line data transfer tool curl possessed features that made it accidentally Turing-complete under unbounded resource assumptions. Config files could slice variable values and recursively include other files without an explicit depth cap, enabling the utility to simulate any two-counter Minsky program.</p><p>Release 8.17.0 introduced a five-level include cap that broke this reduction by restricting file inclusion depth. Although real-world physical constraints such as stack limits and memory allocation restricted execution depth in practice, the behavior illustrated how unexpected computational capabilities can emerge from configuration parsers.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25871"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvirtuallyfun.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fmacos922_wii1_00-00-59.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Rairii has successfully ported classic Mac OS versions 7.6 and 9.2.2 to PowerPC systems featuring ArtX chipsets, specifically targeting the Nintendo GameCube and Wii. The project required porting OpenBIOS, rewriting the Trampoline bootloader to handle non-standard physical address layouts, and developing custom storage drivers for EXI-based devices.</p><p>Overcoming hardware discrepancies involved bypassing missing microcontroller emulations and patching mismatched interrupt controller architectures. While testing under emulation revealed significant performance bottlenecks, execution on real hardware achieved functional boots, with ongoing development planned to extend support to the Wii U and additional onboard controllers.</p>
 <p><small>Links: <a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/">virtuallyfun.com</a> | <a href="https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Yoshua Wuyts Analyzes Missing Done State in Rust Future Trait</h2>
-<a name="story-25857"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgencmurat.com%2Fwhat_is_future.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Yoshua Wuyts analyzes limitations in Rust's Future::poll method, arguing that its inability to explicitly signal a completed state leads to inefficient workarounds, panics, and bloated binary sizes on constrained targets. Because the Poll enum only supports Pending and Ready(T), calling poll after completion is undefined behavior that typically triggers a panic, forcing concurrency primitives to rely on redundant bookkeeping.</p><p>The post suggests adding an explicit Done variant to Poll and updating unstable constructs like the Coroutine trait and CoroutineState to prevent repeating similar design flaws. While retrofitting the stable Future trait remains unfeasible without major breaking changes, addressing these gaps in upcoming features like generator syntax could streamline async concurrency tracking and reduce codegen overhead.</p>
-<p><small>Links: <a href="https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state">blog.yoshuawuyts.com</a> | <a href="https://lobste.rs/s/jmbjlu/future_trait_has_missing_state">discussion</a></small></p>
 <br clear="all" />
 
 ---

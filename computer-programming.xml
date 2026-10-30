@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T07:25:00+00:00</updated>
+  <updated>2026-10-30T07:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Jeff Johnson Criticizes Apple Over Touch Screen MacBook Pro Design</title>
+    <link href="https://lapcatsoftware.com/articles/2026/10/10.html" rel="alternate" />
+    <id>https://lapcatsoftware.com/articles/2026/10/10.html::v240</id>
+    <published>2026-10-30T07:29:00+00:00</published>
+    <updated>2026-10-30T07:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.techeblog.com%2Fwp-content%2Fuploads%2F2025%2F09%2F17134856%2Fapple-oled-touchscreen-macbook-pro-news-leak-770x515.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lapcatsoftware.com/articles/2026/10/10.html">lapcatsoftware.com</a> | <a href="https://lobste.rs/s/qqelq1/design_interface_for_functionality_not">discussion</a></small></p><hr/><p>Developer Jeff Johnson criticizes Apple's decision to introduce touch screens to MacBook Pro models, arguing that traditional keyboards and indirect pointing devices provide superior power and productivity for computing tasks.</p><p>Responding to Apple's justification that younger users accustomed to smartphones expect touch displays, Johnson contends that users can easily adapt to traditional interfaces and that prioritizing familiarity over functionality leads to reduced user capability.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.techeblog.com%2Fwp-content%2Fuploads%2F2025%2F09%2F17134856%2Fapple-oled-touchscreen-macbook-pro-news-leak-770x515.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 11:52 UTC | #25927</small>]]></content>
+  </entry>
   <entry>
     <title>Curl Accidentally Turing-Complete for Nine Months</title>
     <link href="https://seriot.ch/computation/curl.html" rel="alternate" />
