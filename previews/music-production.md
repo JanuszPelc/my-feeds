@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Open Firmware and Community Development Gaining Traction in Electronic Music Gear</h2>
+<a name="story-25916"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.synthtopia.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fm-wave-fm-1-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Open-source firmware and community-developed software are increasingly shaping the electronic music hardware market, spurred by the success of affordable, modifiable instruments like the M-Vave FM-1 and new developer support from established manufacturers.</p><p>Companies such as Akai, Behringer, and Erica Synths are introducing open firmware initiatives or software development kits for devices like the KICK and LXR-02, while independent projects like DOOM OS for Roland samplers demonstrate strong user demand for custom workflows. Although AI-assisted coding tools are accelerating community development, the trend also raises industry questions regarding long-term support, device stability, and security risks from unofficial software modifications.</p>
+<p><small>Links: <a href="https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/">synthtopia.com</a> | <a href="https://lobste.rs/s/j4ntsz/will_open_firmware_become_next_big_trend">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Granola Launches Dictation Feature for Mac</h2>
 <a name="story-25852"><img src="https://wsrv.nl/?url=https%3A%2F%2Faitoolsopinions.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGemini_Generated_Image_loxum5loxum5loxu.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Granola has released a Mac dictation feature that converts speech into formatted text across all applications. By pressing the "Fn" key, users can dictate content for emails, messages, and prompts, which the tool then cleans and formats.</p><p>The expansion into dictation mirrors a recent move by competitor Wispr, which added meeting note-taking to its platform. Granola plans to launch the feature on Windows and iOS in the future.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25823"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiEcEbwX67QOPdSlEOVVdwFUE-CT9oETvlUqT4LfjTjBr00UFr2RLtbIKnQCqf9N2S0X6kJhrUzCEj7f0C-67vW3-aHgZrW85duAvwPiNEPRvh9JHrijkL5UJkYtHUyILOTOK9PXP-sLD6PZID3PTIFS5h5NVxorxli3b4TzcYvwCD4ZcLF70eD2LeGWJio%2Fw1200-h630-p-k-no-nu%2FHornet-FilterSolo-by-Hornet-Plugins.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HoRNet Plugins is offering its FilterSolo resonant filter plugin for free for a limited time until November 1. Users can obtain the plugin by applying a promotional code at checkout on the developer's website.</p><p>FilterSolo features analog-style saturation, extensive modulation options, and multi-mode filtering capabilities for macOS and Windows in standard plugin formats. The plugin is normally a paid product and supports common digital audio workstations for music production.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/hornet-filtersolo-freebie/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/29/hornet-filtersolo-freebie/#respond">discussion</a></small></p>
-<br clear="all" />
-
-<h2>DAWJunkie Releases Jack Johnsynth Free Vocal Hybrid Synth</h2>
-<a name="story-25824"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Frg2S5SK0aQ8%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DAWJunkie has released Jack Johnsynth, a free vocal hybrid synthesizer plugin available for macOS and Windows. The virtual instrument comes in VST, AU, and AAX formats, expanding the developer's lineup of quirky freeware tools that includes releases like Drumbo Jr and Padness 2 Jr.</p><p>The plugin is designed to produce unique vocal-inspired hybrid sounds for music producers. It is available to download directly from the official DAWJunkie website.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/dawjunkie-jack-johnsynth/">bedroomproducersblog.com</a> | <a href="https://dawjunkie.com/op/jack-johnsynth/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/dawjunkie-jack-johnsynth/#respond">discussion</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-29T20:03:00+00:00</updated>
+  <updated>2026-10-30T01:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Open Firmware and Community Development Gaining Traction in Electronic Music Gear</title>
+    <link href="https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/" rel="alternate" />
+    <id>https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/::v240</id>
+    <published>2026-10-30T01:38:00+00:00</published>
+    <updated>2026-10-30T01:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.synthtopia.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fm-wave-fm-1-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/">synthtopia.com</a> | <a href="https://lobste.rs/s/j4ntsz/will_open_firmware_become_next_big_trend">discussion</a></small></p><hr/><p>Open-source firmware and community-developed software are increasingly shaping the electronic music hardware market, spurred by the success of affordable, modifiable instruments like the M-Vave FM-1 and new developer support from established manufacturers.</p><p>Companies such as Akai, Behringer, and Erica Synths are introducing open firmware initiatives or software development kits for devices like the KICK and LXR-02, while independent projects like DOOM OS for Roland samplers demonstrate strong user demand for custom workflows. Although AI-assisted coding tools are accelerating community development, the trend also raises industry questions regarding long-term support, device stability, and security risks from unofficial software modifications.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.synthtopia.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fm-wave-fm-1-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 09:28 UTC | #25916</small>]]></content>
+  </entry>
   <entry>
     <title>Granola Launches Dictation Feature for Mac</title>
     <link href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/" rel="alternate" />

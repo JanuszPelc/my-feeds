@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Intercontinental Exchange and Trade [XYZ] Partner to Bring Hyperliquid Perpetual Markets to US</h2>
+<a name="story-25902"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmoneycheck.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fchart-48.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Intercontinental Exchange Inc. has entered into an agreement with Trade [XYZ] to establish a regulated market and clearing structure for perpetual futures in the United States. The planned venue will be built on Hyperliquid's technology infrastructure and feature products tied to equities, equity indexes, commodities, and currencies.</p><p>The initiative is designed to open onshore markets to a broader retail trading population while operating separately from ICE's existing institutional futures franchise. The launch remains subject to regulatory approvals and will incorporate dedicated know-your-customer and anti-money laundering systems.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/nyse-owner-plans-market-for-hyperliquid-perpetual-futures-in-us">bloomberg.com</a> | <a href="https://ir.theice.com/press/news-details/2026/Intercontinental-Exchange-and-TradeXYZ-to-Bring-Hyperliquid-Based-Perpetual-Markets-Onshore/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Twilio Reports Third-Quarter Financial Results and Fourth-Quarter Growth Outlook</h2>
 <a name="story-25897"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FTwilio-Total-Revenue_2026-04-06-033339_sifm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Twilio reported third-quarter revenue of $1.56 billion, marking a 20% increase year-over-year that beat analyst estimates of $1.52 billion. The company additionally posted a net income of $161 million and raised its full-year revenue growth outlook following strong execution during the period.</p><p>Despite the third-quarter beats, Twilio issued guidance forecasting slower revenue growth for the fourth quarter. Following the earnings release and the cautious forward-looking outlook, Twilio shares dropped more than 15% in after-hours trading.</p>
@@ -39,8 +45,10 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <br clear="all" />
 
 <h2>Amazon Reports Q3 2026 Revenue of $201.9 Billion</h2>
+<a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbarchart-news-media-prod.aws.barchart.com%2FEXCLSV%2F525ebb3badc62fe307c08bdce0c76fa6%2F0ddn9zwophyzld8j.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
 <p><small>Links: <a href="https://www.businesswire.com/news/home/20261028373648/en/">businesswire.com</a> | <a href="https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">source</a></small></p>
+<br clear="all" />
 
 <h2>SuperMe Raises $20M for AI Expert Profile Network</h2>
 <a name="story-25846"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmq4D.img%3Fw%3D4206%26h%3D2804%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
@@ -58,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25842"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxtb.scdn5.secure.raxcdn.com%2Fdefault%2F0103%2F85%2FAlphabet_b485bd16ca.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Inc. has disclosed more than $1 trillion in purchase commitments, future leases, and other obligations in its third-quarter financial filing. Contingent commitments rose to $98.5 billion, representing an increase of approximately $23 billion from the second quarter.</p><p>This growth is driven by rising demand for Alphabet's cloud services, which has expanded the company's backlog of unfulfilled contracts. The total obligations include approximately $924 billion in future purchase commitments and $152 billion in pre-commencement leases and other obligations.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows">bloomberg.com</a> | <a href="https://abc.xyz/investor/sec-filings/default.aspx">source</a></small></p>
-<br clear="all" />
-
-<h2>Cohere Completes First Close of Funding Round at $20.5 Billion Valuation</h2>
-<a name="story-25836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.taptwicedigital.com%2Fblog-images%2Fcohere%2Fcohere-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cohere Inc. has completed the first close of a funding round expected to reach $5 billion, valuing the artificial intelligence model maker at $20.5 billion. This valuation is approximately three times higher than the company's valuation from one year ago.</p><p>The financing includes backing from Nvidia and the Canadian government, which has committed to investing up to $1.14 billion. The capital is part of a larger effort to support the company's ongoing development in the AI sector.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---
