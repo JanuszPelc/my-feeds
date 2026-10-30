@@ -5,7 +5,7 @@ below and subscribe to the feeds you like. Or download
 [all-feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/all-feeds.opml) and import
 it into your RSS reader.
 
-<a name="rule-top"><img src="images/rule.svg" width="100%" height="3" /></a>
+<a name="rule-top"><img src="images/rule.svg" width="100%" height="2" /></a>
 
 <!-- top-stories -->
 
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 
 <!-- /top-stories -->
 
-<a name="rule-bottom"><img src="images/rule.svg" width="100%" height="3" /></a>
+<a name="rule-bottom"><img src="images/rule.svg" width="100%" height="2" /></a>
 
 ## Worth knowing
 
