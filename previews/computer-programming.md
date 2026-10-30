@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Caius Shares Weekend Plans and Progress on GNOME Launcher Project</h2>
+<a name="story-25964"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F05%2Ffedora-36-gnome.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer caius shares their weekend plans involving an open source Halloween-themed LAN party and attending the C2C festival, interspersed with coding, video games, and walks. They also provide an update on their custom GNOME launcher project hosted on Codeberg, noting that it is nearly complete aside from refining filtering with nucleo-matcher and integrating systemd transient units via D-Bus.</p><p>In addition to the project update, caius raises a side question regarding performance issues when pushing and pulling via SSH on Codeberg. The post invites community engagement around personal weekend activities and technical workflows.</p>
+<p><small>Links: <a href="https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend">discussion</a></small></p>
+<br clear="all" />
+
 <h2>TetraLogical Releases Open-Source Accessible Components Library</h2>
 <a name="story-25961"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.placid.app%2Fu%2Fvrgrr%3Fhl%3DReka%2BUI%26subline%3DUnstyled%2B%26%2BAccessible%2BComponent%2BLibrary%26img%3D%24PIC%24https%3A%2F%2Fmadewithnetworkfra.fra1.digitaloceanspaces.com%2Fspatie-space-production%2F32947%2Freka-ui.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TetraLogical has released version 1.0.0 of its Accessible Components Library as an open-source project, providing HTML, CSS, and JavaScript code alongside detailed documentation for eight common web components. The initial release covers elements such as accordions, breadcrumbs, dialogs, tabs, and form inputs, complete with accessibility requirements mapped to Web Content Accessibility Guidelines (WCAG) 2.2 criteria.</p><p>To ensure ongoing compliance, the library includes automated test scenarios written in Gherkin syntax that execute via Playwright, validating that components meet specific accessibility rules during continuous integration. While 97% of the test cases are fully automated, the remaining scenarios provide structured checklists for manual verification to help organizations prevent accessibility regressions over time.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25845"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.redox-os.org%2Fimg%2Fnlnet-rb-summary%2Fring-buffers-benchmark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Redox OS team has concluded a grant-funded project supported by the NLnet Foundation to implement io_uring-like ring buffer support at the system task level. The new redox-rings crate and associated FFI API allow applications to asynchronously submit I/O requests and communicate with system daemons like RamFS and NVMed via shared memory without kernel involvement or data copying.</p><p>Alongside the ring buffer machinery and a new async driver executor, the team implemented several kernel and IPC optimizations—such as direct context switching, vector register zeroing on syscall paths, and 2MB huge page support—which collectively reduced IPC roundtrip latency and accelerated benchmark performance significantly.</p>
 <p><small>Links: <a href="https://www.redox-os.org/news/nlnet-rb-summary/">redox-os.org</a> | <a href="https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Raspberry Pi Zero 3 W and Pi 4 Model A Device Trees Found in Linux Kernel</h2>
-<a name="story-25819"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Frpf-products%2F656a14be-ba7e-476d-94ff-3dba02c4050e_Pi%2BZERO%2BAngle%2B1.jpg%3Fixlib%3DgatsbyFP%26auto%3Dcompress%2Cformat%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Device tree files for a Raspberry Pi Zero 3 W and a Raspberry Pi 4 Model A have been added to the Raspberry Pi Linux kernel tree. The Zero 3 W configuration suggests it will feature the Broadcom BCM2711 quad-core Cortex-A72 SoC, offering a significant performance increase over the Zero 2 W.</p><p>The Pi 4 Model A is expected to be a stripped-down version of the Model B, lacking Ethernet, 3.5mm audio, and dual HDMI ports. The files also suggest that both new boards may include SPI flash bootloaders and power button headers.</p>
-<p><small>Links: <a href="https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/">bret.dk</a> | <a href="https://lobste.rs/s/hqcvyj/raspberry_pi_zero_3_w_pi_4_model_on_way">discussion</a> | <a href="https://news.ycombinator.com/item?id=50265594">hacker news</a></small></p>
 <br clear="all" />
 
 ---

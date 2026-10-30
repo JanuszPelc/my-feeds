@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T12:19:00+00:00</updated>
+  <updated>2026-10-30T12:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Caius Shares Weekend Plans and Progress on GNOME Launcher Project</title>
+    <link href="https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend" rel="alternate" />
+    <id>https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend::v240</id>
+    <published>2026-10-30T12:22:00+00:00</published>
+    <updated>2026-10-30T12:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F05%2Ffedora-36-gnome.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>Developer caius shares their weekend plans involving an open source Halloween-themed LAN party and attending the C2C festival, interspersed with coding, video games, and walks. They also provide an update on their custom GNOME launcher project hosted on Codeberg, noting that it is nearly complete aside from refining filtering with nucleo-matcher and integrating systemd transient units via D-Bus.</p><p>In addition to the project update, caius raises a side question regarding performance issues when pushing and pulling via SSH on Codeberg. The post invites community engagement around personal weekend activities and technical workflows.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F05%2Ffedora-36-gnome.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 16:32 UTC | #25964</small>]]></content>
+  </entry>
   <entry>
     <title>TetraLogical Releases Open-Source Accessible Components Library</title>
     <link href="https://tetralogical.com/blog/2026/10/14/accessible-components-library/" rel="alternate" />

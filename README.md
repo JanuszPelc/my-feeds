@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>H.264 Video Compression Explained</h2>
+<a name="story-25885"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ampltd.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fh264hd2000-function-diagram.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Used extensively in Blu-ray, mobile devices, and internet streaming, H.264 minimizes the bandwidth required for transmitting full-motion video.</p><p>The technology achieves significant data reduction through lossy compression methods such as quantization, chroma subsampling, and motion compensation. These techniques exploit spatial and temporal redundancies to lower file sizes compared to uncompressed video.</p>
+<p><small>Links: <a href="https://sidbala.com/h-264-is-magic/">sidbala.com</a> | <a href="https://news.ycombinator.com/item?id=50291054">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Phorion Discovers Persistent SSH Backdoor in Official Claude Code Extension</h2>
 <a name="story-25960"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcoinedition.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmagnific_alibaba-to-ban-claude-cod_74x4rjnJAL.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phorion identified a supply-chain compromise affecting version 2.1.313 of the official Claude Code for VS Code extension distributed on the Cursor Marketplace. The malicious extension bundle executes an injected script upon loading that installs an attacker-controlled Ed25519 public key into authorized_keys, initiates a persistent reverse SSH tunnel, and transmits host reconnaissance data.</p><p>The cross-platform implant targets macOS, Linux, and Windows systems, though researchers identified several implementation flaws, including a macOS check failure that can disrupt inbound access if Remote Login is disabled. Following the discovery, marketplaces removed the malicious build, prompting recommendations for organizations to audit environments for the affected version and initiate incident response procedures.</p>
@@ -99,12 +105,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25849"><img src="https://wsrv.nl/?url=https%3A%2F%2Famppfy.com%2Fwp-content%2Fuploads%2F2025%2F08%2F20250827_1334_Boost-Earnings-with-Delivery_simple_compose_01k3pkqypge0m9d10gz7pn6xy0-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DoorDash has entered into a definitive agreement to acquire Instacart for approximately $17 billion, valuing the grocery technology company at $65.00 per share. The transaction combines DoorDash's restaurant and local delivery network with Instacart's grocery fulfillment technology, uniting two major delivery platforms to expand merchant tools and consumer choices.</p><p>Under the terms of the agreement, Instacart stockholders can elect to receive cash, DoorDash stock, or a combination of both. The deal is expected to close in late 2027 or the first half of 2028, pending approval by Instacart stockholders and regulatory agencies including antitrust clearances in the United States, Canada, and Israel. Until closing, both companies will continue to operate independently.</p>
 <p><small>Links: <a href="https://about.doordash.com/en-us/news/doordash-to-acquire-instacart">about.doordash.com</a> | <a href="https://news.ycombinator.com/item?id=50287919">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Microsoft Reports $92.3 Billion in Quarterly Revenue, Marking 10 Consecutive Record Quarters</h2>
-<a name="story-25757"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMicrosofts-10-consecutive-quarterly-revenue-records.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The company generated $92.3 billion in revenue for the first quarter of fiscal year 2027, a 19% increase year-over-year. This marks the tenth consecutive quarter of record-breaking revenue for the firm, alongside a 32% increase in net income to $36.6 billion.</p><p>Growth was led by Microsoft Cloud, which earned $63.9 billion, with Azure contributing $33.2 billion. Revenue from OpenAI-related services reached $10 billion, though the Devices and Consumer segment saw a 3% decline, including a 22% drop in Windows OEM revenue. Capital expenditures also reached a quarterly record of $45.2 billion.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/">techcrunch.com</a> | <a href="https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast">source</a> | <a href="https://news.ycombinator.com/item?id=50280261">hacker news</a></small></p>
 <br clear="all" />
 
 ---
