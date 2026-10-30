@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Updates Model Spec Guidelines</h2>
+<a name="story-25855"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quasa.io%2Fphotos%2F00%2Fimage-2026-03-12t142700378.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI has revised its Model Spec, the framework defining how its AI models should behave, by reorganizing it around five core values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.</p><p>This update aims to guide AI judgment and intent as models become more capable and take on more consequential actions. The reorganization also adds guidance regarding context, oversight, and agency while retiring most of the specification's previous detailed style guidance.</p>
+<p><small>Links: <a href="https://openai.com/index/updated-model-spec">openai.com</a></small></p>
+<br clear="all" />
+
 <h2>Sam Altman Discusses AI Vulnerabilities, Agent Teams, and Compute Scaling</h2>
 <a name="story-25803"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F02%2Fsam-altman-openAI-1280x853.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In an interview with Stripe co-founder John Collison on Cheeky Pint, OpenAI CEO Sam Altman discusses how AI models are uncovering critical PHP vulnerabilities, the role of test-time compute in enabling agent teams, and internal experiments tackling complex mathematical problems like Navier-Stokes. Altman also addresses the safety challenges of sandboxing superhuman models and the architectural shifts required as personal agents transform software development.</p><p>Altman reflects on the rapid pace of AI adoption, comparing the current creative explosion among young users to the early days of the internet. He emphasizes the importance of iterative deployment and practical empowerment over rigid safety narratives, arguing that AI systems must provide tangible benefits and individual freedom rather than fostering a restrictive surveillance state.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25740"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F01-workstreams-overview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Smart reports, surveys, and pooled group budgets are now available to help enterprise customers monitor and manage their AI spending. These tools provide visibility into token costs, team productivity, and workflow inefficiencies, while offering recommendations to optimize AI usage without using customer data for model training by default.</p><p>The release addresses the demand for measurable return-on-investment (ROI) as large organizations scale their AI deployments. This move follows reports of high net revenue retention for Anthropic and is intended to increase product stickiness by helping customers standardize and optimize AI workflows.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/">techcrunch.com</a> | <a href="https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets">source</a></small></p>
-<br clear="all" />
-
-<h2>Google Announces Gemini 4 Carbon</h2>
-<a name="story-25716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini_4_carbon_exploitgym.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has introduced Gemini 4 Carbon, a frontier model designed for advanced cybersecurity and long-horizon engineering tasks. The model ranks first on the Artificial Analysis Intelligence Index (v5.0) and demonstrates high performance in vulnerability detection, exploitation, and remediation across benchmarks such as SEC-bench Pro, ExploitGym, and CWE-bench.</p><p>The model is built to support sustained agentic workflows and features improvements in model alignment, output honesty, and resistance to prompt injection. Google is currently rolling out access to a subset of cyber defenders and trusted partners through the Fairwind Program ahead of a wider release.</p>
-<p><small>Links: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50276792">hacker news</a></small></p>
 <br clear="all" />
 
 ---
