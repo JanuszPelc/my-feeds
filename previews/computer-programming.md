@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Overview of PDP Computers History and Evolution</h2>
+<a name="story-25920"><img src="https://wsrv.nl/?url=https%3A%2F%2Fentropicthoughts.com%2Fimage%2Fhistory-of-pdp-computers.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An overview examines the history, speed, pricing, and architectural evolution of Digital Equipment Corporation's PDP computers from the introduction of the PDP-1 through the VAX series. The timeline illustrates how different hardware lines branched out to serve experimental, industrial control, and time-sharing markets.</p><p>Hardware constraints heavily influenced early hacker culture and software design. Resource-constrained smaller systems like the PDP-7 and PDP-11 shaped the development of Unix, C, and minimalist utilities, while resource-rich larger systems like the PDP-10 supported large Lisp programs, Emacs, and early interactive games.</p>
+<p><small>Links: <a href="https://entropicthoughts.com/history-of-pdp-computers">entropicthoughts.com</a> | <a href="https://lobste.rs/s/ldvd3n/extremely_brief_history_pdp_computers">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Nim Version 2.4.0 Released</h2>
 <a name="story-25918"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2026%2F02%2Fnim-programming-language%2F698336565b79d-nim-programming-language-screenshot1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Nim programming language team has released version 2.4.0, a major stable update introducing several significant language and compiler features. Key additions include small-string optimization via `--strings:sso` for enhanced processing efficiency, support for parallel and incremental builds through `--ic:on`, and `--mm:yrc`, a new thread-safe cycle collection algorithm.</p><p>The release also adds more concise syntax for sum types, an experimental `owned` type modifier for static ownership tracking, and support for cyclic module dependencies using the `{.cyclic.}` pragma. Additionally, the team published version 2.2.14 as a maintenance patch for users choosing to stay on the previous stable branch.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25819"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Frpf-products%2F656a14be-ba7e-476d-94ff-3dba02c4050e_Pi%2BZERO%2BAngle%2B1.jpg%3Fixlib%3DgatsbyFP%26auto%3Dcompress%2Cformat%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Device tree files for a Raspberry Pi Zero 3 W and a Raspberry Pi 4 Model A have been added to the Raspberry Pi Linux kernel tree. The Zero 3 W configuration suggests it will feature the Broadcom BCM2711 quad-core Cortex-A72 SoC, offering a significant performance increase over the Zero 2 W.</p><p>The Pi 4 Model A is expected to be a stripped-down version of the Model B, lacking Ethernet, 3.5mm audio, and dual HDMI ports. The files also suggest that both new boards may include SPI flash bootloaders and power button headers.</p>
 <p><small>Links: <a href="https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/">bret.dk</a> | <a href="https://lobste.rs/s/hqcvyj/raspberry_pi_zero_3_w_pi_4_model_on_way">discussion</a> | <a href="https://news.ycombinator.com/item?id=50265594">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>0xABADBABE Constant in Windows Debugging</h2>
-<a name="story-25769"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2011%2F09%2FBUGCODE_USB_DRIVER.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Windows 7 writes the constant 0xABADBABE to a reserved EHCI register during boot to provide a breakpoint for debuggers when a USB device is attached.</p><p>This write is a "red herring" that does not cause the blue screen errors encountered during system simulation. Those errors can instead be caused by bugs in simulated devices, such as USB data structures containing pointers to memory outside the driver's mapped area.</p>
-<p><small>Links: <a href="https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/ml4m9a/who_s_0xabadbabe_why_2011">discussion</a></small></p>
 <br clear="all" />
 
 ---

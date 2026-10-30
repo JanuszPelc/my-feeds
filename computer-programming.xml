@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T02:13:00+00:00</updated>
+  <updated>2026-10-30T02:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Overview of PDP Computers History and Evolution</title>
+    <link href="https://entropicthoughts.com/history-of-pdp-computers" rel="alternate" />
+    <id>https://entropicthoughts.com/history-of-pdp-computers::v240</id>
+    <published>2026-10-30T02:43:00+00:00</published>
+    <updated>2026-10-30T02:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fentropicthoughts.com%2Fimage%2Fhistory-of-pdp-computers.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://entropicthoughts.com/history-of-pdp-computers">entropicthoughts.com</a> | <a href="https://lobste.rs/s/ldvd3n/extremely_brief_history_pdp_computers">discussion</a></small></p><hr/><p>An overview examines the history, speed, pricing, and architectural evolution of Digital Equipment Corporation's PDP computers from the introduction of the PDP-1 through the VAX series. The timeline illustrates how different hardware lines branched out to serve experimental, industrial control, and time-sharing markets.</p><p>Hardware constraints heavily influenced early hacker culture and software design. Resource-constrained smaller systems like the PDP-7 and PDP-11 shaped the development of Unix, C, and minimalist utilities, while resource-rich larger systems like the PDP-10 supported large Lisp programs, Emacs, and early interactive games.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fentropicthoughts.com%2Fimage%2Fhistory-of-pdp-computers.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 10:19 UTC | #25920</small>]]></content>
+  </entry>
   <entry>
     <title>Nim Version 2.4.0 Released</title>
     <link href="https://nim-lang.org/blog/2026/10/28/nim-240.html" rel="alternate" />
