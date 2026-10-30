@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-30T12:12:00+00:00</updated>
+  <updated>2026-10-30T12:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Spotify Targets Q1 2027 Launch for AI Remix and Cover Feature</title>
+    <link href="https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b" rel="alternate" />
+    <id>https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b::v240</id>
+    <published>2026-10-30T12:14:00+00:00</published>
+    <updated>2026-10-30T12:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quasa.io%2Fimages%2Fnews%2Fks7t1Erq9r7Pa5yVjs8G40LUANIUle8w71NMCSQD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b">ft.com</a></small></p><hr/><p>Spotify is reportedly aiming to launch a new artificial intelligence product in the first quarter of 2027 that will allow subscribers to generate their own song covers and remixes. The streaming platform plans to charge users an additional $4 to $5 per month for the feature, pending ongoing licensing agreements.</p><p>The feature's timeline follows previous announcements of licensing deals with major labels like Universal Music Group, though negotiations with other key industry players continue. Spotify is targeting an official rollout that could coincide with the Grammy Awards in February 2027, as the company seeks to unlock new high-value revenue streams through consumer-facing generative AI tools.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quasa.io%2Fimages%2Fnews%2Fks7t1Erq9r7Pa5yVjs8G40LUANIUle8w71NMCSQD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 15:53 UTC | #25915</small>]]></content>
+  </entry>
   <entry>
     <title>n1m21n Releases Infinite Modular DAW and Audiovisual Environment</title>
     <link href="https://www.kvraudio.com/news/n1m21n-releases-infinite---free-audiovisual-modular-daw-and-vst3-au-host-69492?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69492" rel="alternate" />

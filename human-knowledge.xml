@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-30T12:13:00+00:00</updated>
+  <updated>2026-10-30T12:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Hubble Space Telescope Observations Challenge Supernova Wind Theory of Cosmic Reionization</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261029072113.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261029072113.htm::v240</id>
+    <published>2026-10-30T12:15:00+00:00</published>
+    <updated>2026-10-30T12:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fshining-new-light-on-t.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261029072113.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41550-026-02999-z">source</a></small></p><hr/><p>Observations using the Hubble Space Telescope of nearby starburst galaxies challenge the leading theory that supernova-driven galactic winds helped ultraviolet radiation escape during the universe's reionization period. Researchers found that stronger and faster winds correlate with lower escape rates of ionizing radiation, indicating that stellar winds actually obstruct rather than clear pathways for light.</p><p>The findings suggest that ionizing photons escape during earlier phases of star formation before powerful supernova explosions redistribute surrounding gas and dust. These results indicate that cosmological hydrodynamic simulations, which heavily rely on supernova feedback to model how the early universe became transparent to ultraviolet light, may need reevaluation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fshining-new-light-on-t.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 15:54 UTC | #25932</small>]]></content>
+  </entry>
   <entry>
     <title>Study Estimates Up to 513,000 Annual Snakebite Deaths Worldwide</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261029072117.htm" rel="alternate" />
