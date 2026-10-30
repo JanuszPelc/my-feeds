@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-30T14:27:00+00:00</updated>
+  <updated>2026-10-30T16:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Phorion Discovers Persistent SSH Backdoor in Official Claude Code Extension</title>
+    <link href="https://phorion.io/blog/offical-claude-code-vsx-compromise/" rel="alternate" />
+    <id>https://phorion.io/blog/offical-claude-code-vsx-compromise/::v240</id>
+    <published>2026-10-30T16:21:00+00:00</published>
+    <updated>2026-10-30T16:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcoinedition.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmagnific_alibaba-to-ban-claude-cod_74x4rjnJAL.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/">phorion.io</a> | <a href="https://news.ycombinator.com/item?id=50300683">hacker news</a></small></p><hr/><p>Phorion identified a supply-chain compromise affecting version 2.1.313 of the official Claude Code for VS Code extension distributed on the Cursor Marketplace. The malicious extension bundle executes an injected script upon loading that installs an attacker-controlled Ed25519 public key into authorized_keys, initiates a persistent reverse SSH tunnel, and transmits host reconnaissance data.</p><p>The cross-platform implant targets macOS, Linux, and Windows systems, though researchers identified several implementation flaws, including a macOS check failure that can disrupt inbound access if Remote Login is disabled. Following the discovery, marketplaces removed the malicious build, prompting recommendations for organizations to audit environments for the affected version and initiate incident response procedures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcoinedition.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmagnific_alibaba-to-ban-claude-cod_74x4rjnJAL.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 16:18 UTC | #25960</small>]]></content>
+  </entry>
   <entry>
     <title>Martin Fowler Publishes Essay on Uncanny Valley of LLM Voice</title>
     <link href="https://martinfowler.com/bliki/LLM-Voice.html" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>TetraLogical Releases Open-Source Accessible Components Library</h2>
+<a name="story-25961"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.placid.app%2Fu%2Fvrgrr%3Fhl%3DReka%2BUI%26subline%3DUnstyled%2B%26%2BAccessible%2BComponent%2BLibrary%26img%3D%24PIC%24https%3A%2F%2Fmadewithnetworkfra.fra1.digitaloceanspaces.com%2Fspatie-space-production%2F32947%2Freka-ui.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>TetraLogical has released version 1.0.0 of its Accessible Components Library as an open-source project, providing HTML, CSS, and JavaScript code alongside detailed documentation for eight common web components. The initial release covers elements such as accordions, breadcrumbs, dialogs, tabs, and form inputs, complete with accessibility requirements mapped to Web Content Accessibility Guidelines (WCAG) 2.2 criteria.</p><p>To ensure ongoing compliance, the library includes automated test scenarios written in Gherkin syntax that execute via Playwright, validating that components meet specific accessibility rules during continuous integration. While 97% of the test cases are fully automated, the remaining scenarios provide structured checklists for manual verification to help organizations prevent accessibility regressions over time.</p>
+<p><small>Links: <a href="https://tetralogical.com/blog/2026/10/14/accessible-components-library/">tetralogical.com</a> | <a href="https://lobste.rs/s/ssp7ug/introducing_accessible_components">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Herdr Desktop Application for Terminals and Coding Agents</h2>
 <a name="story-25950"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F07%2Fscreenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Herdr is a desktop application designed for managing terminal sessions and coding agents across local and remote machines. It organizes workflows into spaces, tabs, and split panes while maintaining continuous background execution even when the application window is closed.</p><p>The application features a dedicated agent sidebar that tracks the status of workers, supports customizable layouts and JavaScript-based modifications, and provides command-line controls for agent integration and automation. Installation packages are available for Linux, macOS, and Windows.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25819"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Frpf-products%2F656a14be-ba7e-476d-94ff-3dba02c4050e_Pi%2BZERO%2BAngle%2B1.jpg%3Fixlib%3DgatsbyFP%26auto%3Dcompress%2Cformat%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Device tree files for a Raspberry Pi Zero 3 W and a Raspberry Pi 4 Model A have been added to the Raspberry Pi Linux kernel tree. The Zero 3 W configuration suggests it will feature the Broadcom BCM2711 quad-core Cortex-A72 SoC, offering a significant performance increase over the Zero 2 W.</p><p>The Pi 4 Model A is expected to be a stripped-down version of the Model B, lacking Ethernet, 3.5mm audio, and dual HDMI ports. The files also suggest that both new boards may include SPI flash bootloaders and power button headers.</p>
 <p><small>Links: <a href="https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/">bret.dk</a> | <a href="https://lobste.rs/s/hqcvyj/raspberry_pi_zero_3_w_pi_4_model_on_way">discussion</a> | <a href="https://news.ycombinator.com/item?id=50265594">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>0xABADBABE Constant in Windows Debugging</h2>
-<a name="story-25769"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2011%2F09%2FBUGCODE_USB_DRIVER.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Windows 7 writes the constant 0xABADBABE to a reserved EHCI register during boot to provide a breakpoint for debuggers when a USB device is attached.</p><p>This write is a "red herring" that does not cause the blue screen errors encountered during system simulation. Those errors can instead be caused by bugs in simulated devices, such as USB data structures containing pointers to memory outside the driver's mapped area.</p>
-<p><small>Links: <a href="https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/ml4m9a/who_s_0xabadbabe_why_2011">discussion</a></small></p>
 <br clear="all" />
 
 ---

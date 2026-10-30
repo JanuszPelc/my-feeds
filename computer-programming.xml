@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T11:25:00+00:00</updated>
+  <updated>2026-10-30T12:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>TetraLogical Releases Open-Source Accessible Components Library</title>
+    <link href="https://tetralogical.com/blog/2026/10/14/accessible-components-library/" rel="alternate" />
+    <id>https://tetralogical.com/blog/2026/10/14/accessible-components-library/::v240</id>
+    <published>2026-10-30T12:19:00+00:00</published>
+    <updated>2026-10-30T12:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fapi.placid.app%2Fu%2Fvrgrr%3Fhl%3DReka%2BUI%26subline%3DUnstyled%2B%26%2BAccessible%2BComponent%2BLibrary%26img%3D%24PIC%24https%3A%2F%2Fmadewithnetworkfra.fra1.digitaloceanspaces.com%2Fspatie-space-production%2F32947%2Freka-ui.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://tetralogical.com/blog/2026/10/14/accessible-components-library/">tetralogical.com</a> | <a href="https://lobste.rs/s/ssp7ug/introducing_accessible_components">discussion</a></small></p><hr/><p>TetraLogical has released version 1.0.0 of its Accessible Components Library as an open-source project, providing HTML, CSS, and JavaScript code alongside detailed documentation for eight common web components. The initial release covers elements such as accordions, breadcrumbs, dialogs, tabs, and form inputs, complete with accessibility requirements mapped to Web Content Accessibility Guidelines (WCAG) 2.2 criteria.</p><p>To ensure ongoing compliance, the library includes automated test scenarios written in Gherkin syntax that execute via Playwright, validating that components meet specific accessibility rules during continuous integration. While 97% of the test cases are fully automated, the remaining scenarios provide structured checklists for manual verification to help organizations prevent accessibility regressions over time.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.placid.app%2Fu%2Fvrgrr%3Fhl%3DReka%2BUI%26subline%3DUnstyled%2B%26%2BAccessible%2BComponent%2BLibrary%26img%3D%24PIC%24https%3A%2F%2Fmadewithnetworkfra.fra1.digitaloceanspaces.com%2Fspatie-space-production%2F32947%2Freka-ui.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 16:19 UTC | #25961</small>]]></content>
+  </entry>
   <entry>
     <title>Herdr Desktop Application for Terminals and Coding Agents</title>
     <link href="https://github.com/herdrdev/herdr-app" rel="alternate" />
