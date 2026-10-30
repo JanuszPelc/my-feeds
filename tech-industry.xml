@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T19:51:00+00:00</updated>
+  <updated>2026-10-29T20:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Meta Launches Style Sketch AI Fashion App</title>
+    <link href="https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/::v240</id>
+    <published>2026-10-29T20:15:00+00:00</published>
+    <updated>2026-10-29T20:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpaintingvalley.com%2Fsketches%2Ffashion-sketch-app-17.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/">techcrunch.com</a> | <a href="https://apps.apple.com/id/app/style-sketch-outfit-planner/id6794461626">source</a></small></p><hr/><p>Meta has launched Style Sketch, an AI-powered fashion app that helps users coordinate outfits using clothes they already own. The app builds a virtual closet by syncing with Instagram photos or by allowing users to manually upload images and videos of their clothing.</p><p>Features include virtual try-ons with models matched to a user's body shape and skin tone, weather-based outfit suggestions, and trip-packing assistance. The app is currently available in Indonesia, Singapore, and Thailand on iOS and Android.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpaintingvalley.com%2Fsketches%2Ffashion-sketch-app-17.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 00:23 UTC | #25864</small>]]></content>
+  </entry>
   <entry>
     <title>Ex-Palantir Executives Launch Construction AI Startup Dream With $17 Million in Seed Funding</title>
     <link href="https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/" rel="alternate" />
