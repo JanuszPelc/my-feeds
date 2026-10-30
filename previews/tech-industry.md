@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Walmart Commits $6 Billion to Expand Symbotic Supply Chain Automation Deal</h2>
+<a name="story-25879"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheshelbyreport.com%2Fwp-content%2Fuploads%2F2021%2F07%2FWalmart-Symbotic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Walmart has pledged approximately $6 billion over several years to deploy Symbotic's supply-chain automation technology across its distribution network. The expanded agreement integrates more advanced robotics and AI-enabled systems into the retailer's logistics operations.</p><p>The rollout will target 25 U.S. regional distribution centers and support additional automation opportunities within Walmart's global supply chain. This collaboration builds on a decade-long partnership focused on developing and implementing automated warehouse solutions.</p>
+<p><small>Links: <a href="https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/">reuters.com</a> | <a href="https://www.symbotic.com/news/walmart-and-symbotic-expand-commercial-agreement-to-support-supply-chain-transformation/">source</a></small></p>
+<br clear="all" />
+
 <h2>Anthropic Identified as SpaceX&#x27;s Largest Customer by Revenue</h2>
 <a name="story-25865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkraneshares.com%2Fwp-content%2Fuploads%2F2026%2F05%2F2026_05_spacex_net_income-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has become SpaceX's largest single customer, accounting for 34.5% of the company's third-quarter revenue. Identified as "Customer B" in regulatory filings, the AI company's contributions have surpassed those of the United States government.</p><p>The revenue is driven by computing power provided by SpaceX's artificial intelligence division. This concentration of income highlights the company's expanding role in providing critical infrastructure for the AI industry.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25792"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthecoinomist.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fai-data-centers1.png%3Fv%3D1775562552&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US power sector emissions are projected to reach 2.1 billion metric tons by 2030, a 42% increase over 2025 levels according to a Sierra Club analysis. This growth is driven by the rapid expansion of data center infrastructure.</p><p>The surge is expected to erase 15 years of declines in power-sector emissions. Additionally, emissions from off-grid data centers could match the total emissions produced by Mexico.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/us-data-center-buildout-risks-erasing-years-of-climate-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIxODQ4MywiZXhwIjoxNzkzODIzMjgzLCJhcnRpY2xlSWQiOiJUTk03WTFLSVAzSVAwMCIsImJjb25uZWN0SWQiOiJGM0VENDU5NTZFRjA0QjY5QTI0NTVBNTYxRDkyNkY5NiJ9.vaYGVNos-PgwrFAeFWxa9-gyGHRxRihCe_on05i2B3A">bloomberg.com</a> | <a href="https://www.sierraclub.org/sierra/hidden-ai-carbon-emissions-aren-t-being-counted">source</a></small></p>
-<br clear="all" />
-
-<h2>US Battery Storage Installations Reach Record 20.2 GWh in Q2 2026</h2>
-<a name="story-25844"><img src="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F06%2FGreen-River-Energy-Center-Utah.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The United States added a record 20.2 gigawatt-hours of battery storage capacity in the second quarter of 2026, bringing total installations for the first half of the year to 30.8 GWh according to a report from the Solar Energy Industries Association and Benchmark Mineral Intelligence. Growth was overwhelmingly driven by utility-scale projects, which accounted for approximately 18 GWh of the quarterly total, led by heavy deployment in Arizona, Texas, and Utah.</p><p>While utility-scale and commercial segments expanded rapidly to meet rising grid demand and data center constraints, residential battery storage experienced a 27% year-over-year decline in Q2 following the removal of the federal 25D residential clean energy tax credit. Driven by stronger-than-expected demand, Benchmark raised its cumulative storage forecast through 2030 by 11.5% to 683 GWh, with projected total installations for 2026 reaching 71 GWh.</p>
-<p><small>Links: <a href="https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/">electrek.co</a> | <a href="https://seia.org/news/largest-quarter-on-record-for-energy-storage/">source</a> | <a href="https://news.ycombinator.com/item?id=50287001">hacker news</a></small></p>
 <br clear="all" />
 
 ---

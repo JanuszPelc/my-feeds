@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T21:07:00+00:00</updated>
+  <updated>2026-10-29T21:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Walmart Commits $6 Billion to Expand Symbotic Supply Chain Automation Deal</title>
+    <link href="https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/" rel="alternate" />
+    <id>https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/::v240</id>
+    <published>2026-10-29T21:15:00+00:00</published>
+    <updated>2026-10-29T21:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftheshelbyreport.com%2Fwp-content%2Fuploads%2F2021%2F07%2FWalmart-Symbotic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/">reuters.com</a> | <a href="https://www.symbotic.com/news/walmart-and-symbotic-expand-commercial-agreement-to-support-supply-chain-transformation/">source</a></small></p><hr/><p>Walmart has pledged approximately $6 billion over several years to deploy Symbotic's supply-chain automation technology across its distribution network. The expanded agreement integrates more advanced robotics and AI-enabled systems into the retailer's logistics operations.</p><p>The rollout will target 25 U.S. regional distribution centers and support additional automation opportunities within Walmart's global supply chain. This collaboration builds on a decade-long partnership focused on developing and implementing automated warehouse solutions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheshelbyreport.com%2Fwp-content%2Fuploads%2F2021%2F07%2FWalmart-Symbotic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 03:58 UTC | #25879</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Identified as SpaceX's Largest Customer by Revenue</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic" rel="alternate" />
