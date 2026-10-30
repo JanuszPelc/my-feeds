@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Audiofier Releases Atmospheria and Moody Lights for Kontakt</h2>
+<a name="story-25943"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Faudiofier-micron-series-showcase-web.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audiofier has expanded its Micron Series of Kontakt instruments with the release of Atmospheria and Moody Lights, priced at $29 each. Atmospheria focuses on ambient soundscapes, evolving textures, and cinematic environments designed for underscores and electronic compositions.</p><p>Moody Lights features a four-layer sound architecture controlled by an XY pad, enabling real-time blending of contrasting tonal colors ranging from delicate melodies to tense textures. Both instruments require Native Instruments Kontakt and emphasize straightforward controls for immediate use in music production.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/audiofier-releases-atmospheria-and-moody-lights-for-kontakt-69523?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69523">kvraudio.com</a></small></p>
+<br clear="all" />
+
 <h2>Monolith DSP Releases Vectorscope 2 and M/S Processor 2 for iOS</h2>
 <a name="story-25954"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fkvr-thumbnail.1793285976.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Monolith DSP has released Vectorscope 2 and M/S Processor 2 as free AUv3 plugins and standalone applications for iPhone and iPad. The new releases serve as successors to the original versions launched in 2013, offering updated mobile audio processing tools for iOS users.</p><p>Vectorscope 2 functions as a stereo analyzer providing goniometer and polar plot displays alongside phase, correlation, and balance meters. M/S Processor 2 handles mid/side and left/right conversions, allowing producers to decode microphone recordings, modify stereo mix width, or encode signals for independent processing in compatible hosts like Logic Pro, GarageBand, and AUM.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25821"><img src="https://wsrv.nl/?url=https%3A%2F%2Fartlist-albums.imgix.net%2Fimages%2F9545_848754_848754_Just_Sound_Effects_-_Jump_Scares_-_A.jpg%3Fauto%3Dformat%26fit%3Dmax%26w%3D640%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio marketplace A Sound Effect is offering the Jump Scares horror sound effects library by 344 SFX for free to its newsletter subscribers. Normally priced at $27, the collection includes 100 royalty-free sounds such as heavy slasher impacts, mangled screams, and atonal stingers recorded at 24-bit/96 kHz.</p><p>The promotional offer is available to both new and existing subscribers for a limited time. The sound pack is designed for multimedia projects including film, television, games, and podcasts, drawing inspiration from prominent horror films.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/jump-scares-horror-sound-library/">bedroomproducersblog.com</a> | <a href="https://www.asoundeffect.com/gift/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/jump-scares-horror-sound-library/#respond">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Hivetune Releases Marimbox Free Marimba Plugin</h2>
-<a name="story-25822"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F10%2FHivetune-Marimbox.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hivetune has released Marimbox, a virtual marimba instrument for macOS and Windows that features stereo-sampled acoustic recordings and built-in effects. The free edition includes four playing styles—Cord, Deadstroke, Rubber, and Yarn—along with envelope controls and up to 64 voices of polyphony.</p><p>A $4.99 Complete Edition adds a sustained roll articulation, while the free version provides access to the core sound engine, attack and release faders, and echo and reverb effects. The plugin operates as a VST3, AU, and standalone application.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/hivetune-marimbox/">bedroomproducersblog.com</a> | <a href="https://hivetune.com/store/marimbox/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/hivetune-marimbox/#respond">discussion</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-30T01:27:00+00:00</updated>
+  <updated>2026-10-30T14:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Hardware Strategy Shifts Toward Folding and Touchscreen Devices Under CEO John Ternus</title>
+    <link href="https://www.404media.co/apple-is-entering-its-slop-era/" rel="alternate" />
+    <id>https://www.404media.co/apple-is-entering-its-slop-era/::v240</id>
+    <published>2026-10-30T14:02:00+00:00</published>
+    <updated>2026-10-30T14:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1673713234831-bff865b62328%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wxMTc3M3wwfDF8c2VhcmNofDR8fGlwaG9uZSUyMGNyYWNrfGVufDB8fHx8MTc5MzMwMTg1Nnww%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/apple-is-entering-its-slop-era/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50304437">hacker news</a></small></p><hr/><p>Apple is facing criticism for shifting its product strategy toward hardware gimmicks and derivative designs under new CEO John Ternus. The company's recent releases, including the folding iPhone Duo and plans for a touch-screen MacBook Pro, contrast with its historical resistance to such features and have been marred by early technical issues like screen cracking.</p><p>These developments mark a departure from Apple's traditionally controlled rollout of premium devices, reflecting struggles to navigate an AI-driven market and declining distinctiveness. The shift highlights tensions between historical design philosophies established by Steve Jobs and Tim Cook and the current leadership's pursuit of mainstream hardware trends.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1673713234831-bff865b62328%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wxMTc3M3wwfDF8c2VhcmNofDR8fGlwaG9uZSUyMGNyYWNrfGVufDB8fHx8MTc5MzMwMTg1Nnww%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 17:44 UTC | #25940</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon CEO Andy Jassy Says Prime Video Revenue Run Rate Reaches Tens of Billions of Dollars</title>
     <link href="https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/" rel="alternate" />
