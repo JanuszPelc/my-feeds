@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Phorge Is an Open Source Fork of Phabricator</h2>
+<a name="story-25903"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.datocms-assets.com%2F85246%2F1709096644-2-principles-of-ohabricator-workflow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Phorge is an open-source, community-driven platform for collaborating on and managing software development projects. It serves as a community-maintained fork of Phabricator, which has been unmaintained since June 2021 following the winding down of Phacility's operations.</p><p>The project provides tools for organizing development tasks, reviewing code, and engaging in community question-and-answer forums. Documentation is available to assist with installation, feature exploration, and contributing to the ongoing development of the platform.</p>
+<p><small>Links: <a href="https://www.phorge.it/">phorge.it</a> | <a href="https://lobste.rs/s/tw3rsp/phorge">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Handmade London Meetups</h2>
 <a name="story-25896"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceandpeople.co.uk%2Fwp-content%2Fuploads%2F2023%2F10%2FI-Do-Handmade-London-Waterloo-Station-2-1600x1067.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Handmade meetups in London provide opportunities for manual craft enthusiasts to connect. These gatherings have been occurring for over a year and are frequently announced in online community threads.</p><p>The meetups are organized by Handmade Cities. They serve as social infrastructure for the London crafting community.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25715"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fautofill-ai-chrome.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chrome's updated autofill feature uses AI to pull specific details from a user's Gmail account to assist in completing online forms. The tool can suggest information such as flight confirmation numbers, tracking info, order details, and addresses.</p><p>This update is an expansion of Google’s Personal Intelligence, which connects Google Apps to the Gemini AI assistant. The feature is rolling out to users in the United States on desktop and through the Gemini in Chrome apps for iOS and Android, with users able to enable or disable the function in Chrome settings.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/">techcrunch.com</a></small></p>
-<br clear="all" />
-
-<h2>Epic Games Confirms Unreal Engine Uses AI-Generated Code and Features</h2>
-<a name="story-25733"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdesirefx.me%2Fwp-content%2Fuploads%2F2025%2F12%2FAI-Code-Editor-Unreal-Engine-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Epic Games has confirmed that artificial intelligence tools are actively being used to develop code and features for Unreal Engine. Marcus Wassmer, Epic's executive vice president of development, stated that almost all ongoing development occurs within dev streams connected to Fortnite, Unreal Editor for Fortnite, and the upcoming Unreal Engine 6.</p><p>Wassmer noted that large language models like Claude and Codex have helped eliminate persistent "non-deterministic cooking bugs" that previously affected the engine for a decade, while also aiding in automated stability monitoring for PC hardware. Despite industry-wide developer anxiety surrounding generative AI, Epic views the technology as essential for maintaining code quality and responding quickly to user feedback.</p>
-<p><small>Links: <a href="https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic">gamedeveloper.com</a> | <a href="https://thisweekinvideogames.com/news/epic-games-confirms-ai-is-being-used-to-develop-code-for-unreal-engine/">source</a></small></p>
 <br clear="all" />
 
 ---
