@@ -3,9 +3,27 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-29T21:04:00+00:00</updated>
+  <updated>2026-10-29T23:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>IPv4 Address Allocation Mapped to Physical Land Area</title>
+    <link href="https://iptrust.co/blog/if-ipv4-were-land" rel="alternate" />
+    <id>https://iptrust.co/blog/if-ipv4-were-land::v240</id>
+    <published>2026-10-29T23:49:00+00:00</published>
+    <updated>2026-10-29T23:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvad.solutions%2Fipmap%2F2023%2F2023-ipv4-72dpi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://iptrust.co/blog/if-ipv4-were-land">iptrust.co</a> | <a href="https://news.ycombinator.com/item?id=50287775">hacker news</a></small></p><hr/><p>A hypothetical visualization redistributes global landmass based on each country's proportion of the world's IPv4 addresses. The model calculates a country's area by multiplying its share of locatable IPv4 addresses by the total world land area.</p><p>The calculation excludes Antarctica and approximately 70 small territories to maintain scale. The methodology utilizes IP Trust geolocation data and focuses on countries with at least 100,000 IPv4 addresses and 20,000 km² of land.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvad.solutions%2Fipmap%2F2023%2F2023-ipv4-72dpi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 06:17 UTC | #25910</small>]]></content>
+  </entry>
+  <entry>
+    <title>Polymarket Resumes Trading Following Third-Party Security Incident</title>
+    <link href="https://www.reuters.com/business/polymarket-reports-major-outage-suspends-trading-actions-2026-10-29/" rel="alternate" />
+    <id>https://www.reuters.com/business/polymarket-reports-major-outage-suspends-trading-actions-2026-10-29/::v240</id>
+    <published>2026-10-29T23:48:00+00:00</published>
+    <updated>2026-10-29T23:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmEFn.img%3Fw%3D1400%26h%3D933%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/polymarket-reports-major-outage-suspends-trading-actions-2026-10-29/">reuters.com</a></small></p><hr/><p>Polymarket has resumed trading after a temporary halt caused by a security incident involving a third-party provider. The company stated it will fully reimburse all traders affected by the breach.</p><p>Sources identify the involved third-party provider as DebugBear. The incident led to reports of user accounts being drained, which had previously prompted the platform to enter a cancel-only mode to mitigate risk.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmEFn.img%3Fw%3D1400%26h%3D933%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 06:13 UTC | #25891</small>]]></content>
+  </entry>
   <entry>
     <title>Accenture Employee's Personal Claude AI Agent Leaks Pentagon Network Credentials</title>
     <link href="https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/" rel="alternate" />

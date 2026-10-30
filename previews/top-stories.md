@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>IPv4 Address Allocation Mapped to Physical Land Area</h2>
+<a name="story-25910"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvad.solutions%2Fipmap%2F2023%2F2023-ipv4-72dpi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A hypothetical visualization redistributes global landmass based on each country's proportion of the world's IPv4 addresses. The model calculates a country's area by multiplying its share of locatable IPv4 addresses by the total world land area.</p><p>The calculation excludes Antarctica and approximately 70 small territories to maintain scale. The methodology utilizes IP Trust geolocation data and focuses on countries with at least 100,000 IPv4 addresses and 20,000 km² of land.</p>
+<p><small>Links: <a href="https://iptrust.co/blog/if-ipv4-were-land">iptrust.co</a> | <a href="https://news.ycombinator.com/item?id=50287775">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Amazon Reports Q3 2026 Revenue of $201.9 Billion</h2>
 <a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffourweekmba.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-69.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25849"><img src="https://wsrv.nl/?url=https%3A%2F%2Famppfy.com%2Fwp-content%2Fuploads%2F2025%2F08%2F20250827_1334_Boost-Earnings-with-Delivery_simple_compose_01k3pkqypge0m9d10gz7pn6xy0-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DoorDash has entered into a definitive agreement to acquire Instacart for approximately $17 billion, valuing the grocery technology company at $65.00 per share. The transaction combines DoorDash's restaurant and local delivery network with Instacart's grocery fulfillment technology, uniting two major delivery platforms to expand merchant tools and consumer choices.</p><p>Under the terms of the agreement, Instacart stockholders can elect to receive cash, DoorDash stock, or a combination of both. The deal is expected to close in late 2027 or the first half of 2028, pending approval by Instacart stockholders and regulatory agencies including antitrust clearances in the United States, Canada, and Israel. Until closing, both companies will continue to operate independently.</p>
 <p><small>Links: <a href="https://about.doordash.com/en-us/news/doordash-to-acquire-instacart">about.doordash.com</a> | <a href="https://news.ycombinator.com/item?id=50287919">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Microsoft Reports $92.3 Billion in Quarterly Revenue, Marking 10 Consecutive Record Quarters</h2>
-<a name="story-25757"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMicrosofts-10-consecutive-quarterly-revenue-records.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The company generated $92.3 billion in revenue for the first quarter of fiscal year 2027, a 19% increase year-over-year. This marks the tenth consecutive quarter of record-breaking revenue for the firm, alongside a 32% increase in net income to $36.6 billion.</p><p>Growth was led by Microsoft Cloud, which earned $63.9 billion, with Azure contributing $33.2 billion. Revenue from OpenAI-related services reached $10 billion, though the Devices and Consumer segment saw a 3% decline, including a 22% drop in Windows OEM revenue. Capital expenditures also reached a quarterly record of $45.2 billion.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/">techcrunch.com</a> | <a href="https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast">source</a> | <a href="https://news.ycombinator.com/item?id=50280261">hacker news</a></small></p>
 <br clear="all" />
 
 ---
