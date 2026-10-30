@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-29T19:56:00+00:00</updated>
+  <updated>2026-10-29T20:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Handmade London Meetups</title>
+    <link href="https://lobste.rs/s/dsrruj/london_meetup" rel="alternate" />
+    <id>https://lobste.rs/s/dsrruj/london_meetup::v240</id>
+    <published>2026-10-29T20:57:00+00:00</published>
+    <updated>2026-10-29T20:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceandpeople.co.uk%2Fwp-content%2Fuploads%2F2023%2F10%2FI-Do-Handmade-London-Waterloo-Station-2-1600x1067.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lobste.rs/s/dsrruj/london_meetup">lobste.rs</a> | <a href="https://handmadecities.com/meetups/london/">source</a> | <a href="https://lobste.rs/s/dsrruj/london_meetup">discussion</a></small></p><hr/><p>Handmade meetups in London provide opportunities for manual craft enthusiasts to connect. These gatherings have been occurring for over a year and are frequently announced in online community threads.</p><p>The meetups are organized by Handmade Cities. They serve as social infrastructure for the London crafting community.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceandpeople.co.uk%2Fwp-content%2Fuploads%2F2023%2F10%2FI-Do-Handmade-London-Waterloo-Station-2-1600x1067.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 00:42 UTC | #25896</small>]]></content>
+  </entry>
   <entry>
     <title>H.264 Video Compression Explained</title>
     <link href="https://sidbala.com/h-264-is-magic/" rel="alternate" />

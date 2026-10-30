@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Handmade London Meetups</h2>
+<a name="story-25896"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceandpeople.co.uk%2Fwp-content%2Fuploads%2F2023%2F10%2FI-Do-Handmade-London-Waterloo-Station-2-1600x1067.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Handmade meetups in London provide opportunities for manual craft enthusiasts to connect. These gatherings have been occurring for over a year and are frequently announced in online community threads.</p><p>The meetups are organized by Handmade Cities. They serve as social infrastructure for the London crafting community.</p>
+<p><small>Links: <a href="https://lobste.rs/s/dsrruj/london_meetup">lobste.rs</a> | <a href="https://handmadecities.com/meetups/london/">source</a> | <a href="https://lobste.rs/s/dsrruj/london_meetup">discussion</a></small></p>
+<br clear="all" />
+
 <h2>H.264 Video Compression Explained</h2>
 <a name="story-25885"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ampltd.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fh264hd2000-function-diagram.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Used extensively in Blu-ray, mobile devices, and internet streaming, H.264 minimizes the bandwidth required for transmitting full-motion video.</p><p>The technology achieves significant data reduction through lossy compression methods such as quantization, chroma subsampling, and motion compensation. These techniques exploit spatial and temporal redundancies to lower file sizes compared to uncompressed video.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25733"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdesirefx.me%2Fwp-content%2Fuploads%2F2025%2F12%2FAI-Code-Editor-Unreal-Engine-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Epic Games has confirmed that artificial intelligence tools are actively being used to develop code and features for Unreal Engine. Marcus Wassmer, Epic's executive vice president of development, stated that almost all ongoing development occurs within dev streams connected to Fortnite, Unreal Editor for Fortnite, and the upcoming Unreal Engine 6.</p><p>Wassmer noted that large language models like Claude and Codex have helped eliminate persistent "non-deterministic cooking bugs" that previously affected the engine for a decade, while also aiding in automated stability monitoring for PC hardware. Despite industry-wide developer anxiety surrounding generative AI, Epic views the technology as essential for maintaining code quality and responding quickly to user feedback.</p>
 <p><small>Links: <a href="https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic">gamedeveloper.com</a> | <a href="https://thisweekinvideogames.com/news/epic-games-confirms-ai-is-being-used-to-develop-code-for-unreal-engine/">source</a></small></p>
-<br clear="all" />
-
-<h2>Spritely Institute Releases Hoot 0.10.0</h2>
-<a name="story-25746"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.spritely.institute%2Fimages%2Fblog%2Fhoot-meta-repl.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Spritely Institute has released Hoot 0.10.0, a Scheme-to-WebAssembly compiler backend for GNU Guile and a general-purpose WebAssembly toolchain. The update introduces numerous bug fixes, compiler enhancements, runtime updates, and expanded Scheme module support, including partial implementations of SRFI-13 and SRFI-60, alongside various R6RS compatibility additions.</p><p>This version arrives ahead of the autumn 2026 Lisp Game Jam, supported by an official game jam template featuring HTML5 canvas bindings and a sample Breakout-style game. Hoot 0.10.0 is available via GNU Guix and source tarballs, with documentation and packages targeted toward modern web browsers including Safari, Firefox, and Chrome.</p>
-<p><small>Links: <a href="https://spritely.institute/news/hoot-0-10-0-released.html">spritely.institute</a> | <a href="https://lobste.rs/s/m3gsln/hoot_0_10_0_released">discussion</a></small></p>
 <br clear="all" />
 
 ---
