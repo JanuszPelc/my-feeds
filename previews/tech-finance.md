@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Binance Investigates Potential Security Issue Following Large Suspicious Outflows</h2>
+<a name="story-25888"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-images.ctmedia.io%2Fmedia%2Farticle-covers%2F2026%2F10%2F01M64RM2NG4HTR1FTZN6XKT10N%2Ftrying-to-open-monitor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Binance is investigating a potential security issue following reports of suspicious outflows estimated between $3.55 billion and $5.8 billion. On-chain data shows massive transfers from Binance hot wallets across the Ethereum, Arbitrum, and Avalanche networks. Company officials are reviewing the movement to verify the scale of the incident.</p><p>Tether and Circle have frozen approximately $1.79 billion in USDT and USDC held in wallets receiving transfers from Binance. Aave froze lending markets to prevent potential exploits. Former CEO Changpeng Zhao stated that user funds are expected to be fully covered, while the BNB token declined more than 5.5%.</p>
+<p><small>Links: <a href="https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171">theblock.co</a> | <a href="https://x.com/heyibinance/status/2115915841195942020">source</a></small></p>
+<br clear="all" />
+
 <h2>Coinbase Returns to Profitability in Q3 Despite Revenue Decline</h2>
 <a name="story-25887"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thestreet.com%2F.image%2Ft_share%2FMjE4ODIwOTEzMTg4MDU0NjMw%2Fg4ilkqaw8aaejlb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Coinbase Global Inc. reported a net income of $719 million for the third quarter of 2026, marking its first profit in a year. This result was driven largely by $715 million in unrealized crypto gains, even as quarterly revenue fell 35% year-over-year to $1.22 billion, meeting analyst expectations.</p><p>The company also reported record subscriber levels for its Coinbase One service and noted that prediction markets have surpassed $200 million in annualized revenue.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25827"><img src="https://wsrv.nl/?url=https%3A%2F%2Fambcrypto.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAdewale-2-1-16-1536x864.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The cryptocurrency exchange HTX, linked to billionaire Justin Sun, has reached a settlement with the Financial Conduct Authority (FCA) to exit the United Kingdom. This resolution concludes legal proceedings initiated in October 2025 regarding the unlawful promotion of crypto asset services.</p><p>Under the agreement, HTX is no longer active in the UK, and the platform has blocked new user sign-ups and deposits. The settlement follows the FCA's reported difficulties in engaging the exchange before legal action and includes High Court undertakings prohibiting HTX from targeting or soliciting UK consumers.</p>
 <p><small>Links: <a href="https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?accessToken=zwAAAaGH5sPHkc9Uwjbvr3pA39OfD6vz1sgl0g.MEUCIGQ8rE8WIjOcep-oKi8Udw7YBYD5v0QqOa_A7Zk8I5WoAiEA7dyy_tqO0pfOLIUI-hRE_N7sHiukV98-c7snAM_rvkU&sharetype=gift&token=79c04867-fa52-4e5e-a203-5f1a092f1136&syn-25a6b1a6=1">ft.com</a> | <a href="https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions">source</a></small></p>
-<br clear="all" />
-
-<h2>Collective Secures $100M to Automate Bookkeeping for Solo Business Owners</h2>
-<a name="story-25828"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmaxbusiness.com.au%2Fwp-content%2Fuploads%2F2026%2F02%2Fai-bookkeeping-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Collective, a financial services platform for solo business owners, has secured $100 million in financing. The funding includes a $40 million Series B and $60 million in nondilutive capital from General Catalyst's Customer Value Fund.</p><p>The company uses artificial intelligence to automate bookkeeping, accounting, and tax management for solo entrepreneurs. This funding is intended to expand Collective's AI-native financial operating system.</p>
-<p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/10/29/collective-100m-financial-services-ai">axios.com</a> | <a href="https://www.webwire.com/ViewPressRel.asp?aId=363476">source</a></small></p>
 <br clear="all" />
 
 ---

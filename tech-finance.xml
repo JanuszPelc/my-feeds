@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T23:44:00+00:00</updated>
+  <updated>2026-10-29T23:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Binance Investigates Potential Security Issue Following Large Suspicious Outflows</title>
+    <link href="https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171" rel="alternate" />
+    <id>https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171::v240</id>
+    <published>2026-10-29T23:45:00+00:00</published>
+    <updated>2026-10-29T23:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs3-images.ctmedia.io%2Fmedia%2Farticle-covers%2F2026%2F10%2F01M64RM2NG4HTR1FTZN6XKT10N%2Ftrying-to-open-monitor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171">theblock.co</a> | <a href="https://x.com/heyibinance/status/2115915841195942020">source</a></small></p><hr/><p>Binance is investigating a potential security issue following reports of suspicious outflows estimated between $3.55 billion and $5.8 billion. On-chain data shows massive transfers from Binance hot wallets across the Ethereum, Arbitrum, and Avalanche networks. Company officials are reviewing the movement to verify the scale of the incident.</p><p>Tether and Circle have frozen approximately $1.79 billion in USDT and USDC held in wallets receiving transfers from Binance. Aave froze lending markets to prevent potential exploits. Former CEO Changpeng Zhao stated that user funds are expected to be fully covered, while the BNB token declined more than 5.5%.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-images.ctmedia.io%2Fmedia%2Farticle-covers%2F2026%2F10%2F01M64RM2NG4HTR1FTZN6XKT10N%2Ftrying-to-open-monitor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 05:36 UTC | #25888</small>]]></content>
+  </entry>
   <entry>
     <title>Coinbase Returns to Profitability in Q3 Despite Revenue Decline</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop" rel="alternate" />
