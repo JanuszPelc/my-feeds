@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-30T07:36:00+00:00</updated>
+  <updated>2026-10-30T12:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Study Estimates Up to 513,000 Annual Snakebite Deaths Worldwide</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261029072117.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261029072117.htm::v240</id>
+    <published>2026-10-30T12:13:00+00:00</published>
+    <updated>2026-10-30T12:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F65dd4b463467300d2c16a9b2%2Fe9fd8b89-0fd4-4f47-990e-ba7ce7754b85%2FMap%2Bof%2Bvenomous%2C%2Bmedically%2Bsignificant%2Bsnake%2Bspecies%2Bworldwide.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261029072117.htm">sciencedaily.com</a> | <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005201">source</a></small></p><hr/><p>A global study published in PLOS Medicine estimates that snake envenoming causes between 274,000 and 513,000 deaths and at least 2.1 million envenomings worldwide each year. Using a geostatistical model that combines literature reviews with environmental and socioeconomic factors to adjust for severe under-reporting, the researchers concluded that the public health crisis is significantly larger than official health statistics indicate.</p><p>Sub-Saharan Africa bears the heaviest burden, accounting for 45% of global envenomings and fatalities, with rates nearly three times higher than those in south Asia. The findings also show that over 800,000 survivors suffer long-term physical disabilities annually, exacerbating poverty in vulnerable rural communities and underscoring the need for targeted antivenom stockpiling and improved healthcare access to meet World Health Organization reduction targets.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F65dd4b463467300d2c16a9b2%2Fe9fd8b89-0fd4-4f47-990e-ba7ce7754b85%2FMap%2Bof%2Bvenomous%2C%2Bmedically%2Bsignificant%2Bsnake%2Bspecies%2Bworldwide.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 15:42 UTC | #25937</small>]]></content>
+  </entry>
   <entry>
     <title>New Seahorse-Like Fish Genus Australyichthys Described from Museum Specimens</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261029072119.htm" rel="alternate" />
