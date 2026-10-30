@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>Amazon Reports Q3 2026 Revenue of $201.9 Billion</h2>
+<a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffourweekmba.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-69.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
+<p><small>Links: <a href="https://www.businesswire.com/news/home/20261028373648/en/">businesswire.com</a> | <a href="https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">source</a></small></p>
+<br clear="all" />
+
+<h2>Reddit to Shift to a Primarily Logged-In Experience to Combat Declining Search Traffic</h2>
+<a name="story-25872"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Freddit-daus.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Reddit is transitioning to a primarily logged-in user experience to address declining search engine traffic resulting from the rise of AI-powered search. Announced during its third-quarter 2026 earnings, the move is intended to protect platform data from AI scraping for licensing purposes and to improve advertising revenue through better user interest signals.</p><p>Although Reddit's third-quarter revenue grew 53% year-over-year to $895 million, the company reported a drop in U.S. daily active users and a significant reduction in weekly search referrals. The new logged-in interface will undergo testing in select markets outside the U.S. in the fourth quarter, with the company promising to maintain anonymity options via a rebuilt "incognito mode."</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">techcrunch.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">source</a> | <a href="https://news.ycombinator.com/item?id=50295247">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>US Battery Storage Installations Reach Record 20.2 GWh in Q2 2026</h2>
 <a name="story-25844"><img src="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F06%2FGreen-River-Energy-Center-Utah.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The United States added a record 20.2 gigawatt-hours of battery storage capacity in the second quarter of 2026, bringing total installations for the first half of the year to 30.8 GWh according to a report from the Solar Energy Industries Association and Benchmark Mineral Intelligence. Growth was overwhelmingly driven by utility-scale projects, which accounted for approximately 18 GWh of the quarterly total, led by heavy deployment in Arizona, Texas, and Utah.</p><p>While utility-scale and commercial segments expanded rapidly to meet rising grid demand and data center constraints, residential battery storage experienced a 27% year-over-year decline in Q2 following the removal of the federal 25D residential clean energy tax credit. Driven by stronger-than-expected demand, Benchmark raised its cumulative storage forecast through 2030 by 11.5% to 683 GWh, with projected total installations for 2026 reaching 71 GWh.</p>
@@ -54,18 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25757"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMicrosofts-10-consecutive-quarterly-revenue-records.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The company generated $92.3 billion in revenue for the first quarter of fiscal year 2027, a 19% increase year-over-year. This marks the tenth consecutive quarter of record-breaking revenue for the firm, alongside a 32% increase in net income to $36.6 billion.</p><p>Growth was led by Microsoft Cloud, which earned $63.9 billion, with Azure contributing $33.2 billion. Revenue from OpenAI-related services reached $10 billion, though the Devices and Consumer segment saw a 3% decline, including a 22% drop in Windows OEM revenue. Capital expenditures also reached a quarterly record of $45.2 billion.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/">techcrunch.com</a> | <a href="https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast">source</a> | <a href="https://news.ycombinator.com/item?id=50280261">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Alphabet Reports Q3 2026 Revenue of $127.6 Billion</h2>
-<a name="story-25743"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3jlwjv6gmyigl.cloudfront.net%2Fimages%2F2020%2F04%2FGoogle-Revenue-Breakdown-FY-2019.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet Inc. reported third-quarter revenue of $127.6 billion for the period ended September 30, 2026, a 25% increase year-over-year. Growth was led by a 103% increase in Google Cloud revenue to $30.7 billion, while Google Services revenue rose 11% to $96.3 billion.</p><p>The significant expansion in Google Cloud revenue contributed heavily to the company's quarterly performance. These results reflect strong growth across Alphabet's primary revenue-generating segments.</p>
-<p><small>Links: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">s206.q4cdn.com</a> | <a href="https://news.ycombinator.com/item?id=50280197">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Google Announces Gemini 4 Carbon</h2>
-<a name="story-25716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini_4_carbon_exploitgym.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has introduced Gemini 4 Carbon, a frontier model designed for advanced cybersecurity and long-horizon engineering tasks. The model ranks first on the Artificial Analysis Intelligence Index (v5.0) and demonstrates high performance in vulnerability detection, exploitation, and remediation across benchmarks such as SEC-bench Pro, ExploitGym, and CWE-bench.</p><p>The model is built to support sustained agentic workflows and features improvements in model alignment, output honesty, and resistance to prompt injection. Google is currently rolling out access to a subset of cyber defenders and trusted partners through the Fairwind Program ahead of a wider release.</p>
-<p><small>Links: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50276792">hacker news</a></small></p>
 <br clear="all" />
 
 ---

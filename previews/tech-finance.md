@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Intel Shares Drop 20% Following Weak Fourth-Quarter Guidance</h2>
+<a name="story-25876"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.guru3d.com%2Fdata%2Fpublish%2F224%2F127ff5176d69d944a1acaca0ee10a199c5c097%2F1730447071_guru3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Intel shares dropped 20% in extended trading Thursday after the company issued weak fourth-quarter guidance, citing continued softness in the global PC market. While third-quarter revenue increased 21% year-over-year to $16.51 billion and adjusted earnings per share reached 52 cents, the company's outlook for the next quarter missed analyst expectations.</p><p>For the fourth quarter, Intel expects adjusted earnings per share of 25 cents on revenue between $15 billion and $16 billion, significantly lower than the $43 cent EPS and $17.1 billion revenue analysts had projected. Despite a 78% jump in data center and AI revenue to $7.3 billion, the client computing and physical AI group saw a 5% revenue decline.</p>
+<p><small>Links: <a href="https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results">source</a> | <a href="https://news.ycombinator.com/item?id=50295106">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Amazon Reports Q3 2026 Revenue of $201.9 Billion</h2>
 <a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffourweekmba.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-69.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25825"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Fsolink.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Solink Corp. has raised over $100 million in a new funding round led by Vertu Capital, with participation from Goldman Sachs Group Inc., Golub Growth, and Comcast Ventures. The capital will fund the company's AI vision intelligence roadmap, which uses artificial intelligence to extract business data from existing security camera installations.</p><p>The Ottawa-based company currently serves more than 35,000 customer locations in 65 countries, managing approximately 500,000 cameras. This latest funding brings Solink's total capital raised to over $198 million.</p>
 <p><small>Links: <a href="https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/">siliconangle.com</a> | <a href="https://www.prnewswire.co.uk/news-releases/solink-raises-100-million-in-fresh-funding-nyse-content-update-302923732.html">source</a></small></p>
-<br clear="all" />
-
-<h2>Thrive Holdings to Acquire ADT in $15.3 Billion All-Cash Deal</h2>
-<a name="story-25817"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs201.q4cdn.com%2F833622905%2Ffiles%2Fdoc_downloads%2Ffeatured_materials_docs%2Fadt-esg-report.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Thrive Holdings has entered into a definitive agreement to acquire home security provider ADT in an all-cash take-private transaction. The deal values ADT at approximately $15.3 billion in enterprise value and $7.6 billion in equity value, representing a roughly 46% premium over the company's October 27, 2026, closing price.</p><p>ADT stockholders are set to receive $10.00 per share in cash. The transaction is expected to be financed by funds managed by Apollo affiliates and remains subject to customary closing conditions, including approval from stockholders and antitrust regulators.</p>
-<p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private">axios.com</a> | <a href="https://investor.adt.com/News--Events/news/news-details/2026/ADT-to-be-Acquired-by-Thrive-Holdings-in-15-3-Billion-Transaction/default.aspx">source</a></small></p>
 <br clear="all" />
 
 ---

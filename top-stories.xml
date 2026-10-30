@@ -3,9 +3,27 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-30T03:23:00+00:00</updated>
+  <updated>2026-10-30T03:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Amazon Reports Q3 2026 Revenue of $201.9 Billion</title>
+    <link href="https://www.businesswire.com/news/home/20261028373648/en/" rel="alternate" />
+    <id>https://www.businesswire.com/news/home/20261028373648/en/::v240</id>
+    <published>2026-10-30T03:47:00+00:00</published>
+    <updated>2026-10-30T03:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffourweekmba.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-69.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.businesswire.com/news/home/20261028373648/en/">businesswire.com</a> | <a href="https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">source</a></small></p><hr/><p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffourweekmba.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-69.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 03:21 UTC | #25873</small>]]></content>
+  </entry>
+  <entry>
+    <title>Reddit to Shift to a Primarily Logged-In Experience to Combat Declining Search Traffic</title>
+    <link href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/::v240</id>
+    <published>2026-10-30T03:47:00+00:00</published>
+    <updated>2026-10-30T03:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Freddit-daus.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">techcrunch.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">source</a> | <a href="https://news.ycombinator.com/item?id=50295247">hacker news</a></small></p><hr/><p>Reddit is transitioning to a primarily logged-in user experience to address declining search engine traffic resulting from the rise of AI-powered search. Announced during its third-quarter 2026 earnings, the move is intended to protect platform data from AI scraping for licensing purposes and to improve advertising revenue through better user interest signals.</p><p>Although Reddit's third-quarter revenue grew 53% year-over-year to $895 million, the company reported a drop in U.S. daily active users and a significant reduction in weekly search referrals. The new logged-in interface will undergo testing in select markets outside the U.S. in the fourth quarter, with the company promising to maintain anonymity options via a rebuilt "incognito mode."</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Freddit-daus.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 01:21 UTC | #25872</small>]]></content>
+  </entry>
   <entry>
     <title>US Battery Storage Installations Reach Record 20.2 GWh in Q2 2026</title>
     <link href="https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T21:08:00+00:00</updated>
+  <updated>2026-10-29T21:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Intel Shares Drop 20% Following Weak Fourth-Quarter Guidance</title>
+    <link href="https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html::v240</id>
+    <published>2026-10-29T21:12:00+00:00</published>
+    <updated>2026-10-29T21:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.guru3d.com%2Fdata%2Fpublish%2F224%2F127ff5176d69d944a1acaca0ee10a199c5c097%2F1730447071_guru3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results">source</a> | <a href="https://news.ycombinator.com/item?id=50295106">hacker news</a></small></p><hr/><p>Intel shares dropped 20% in extended trading Thursday after the company issued weak fourth-quarter guidance, citing continued softness in the global PC market. While third-quarter revenue increased 21% year-over-year to $16.51 billion and adjusted earnings per share reached 52 cents, the company's outlook for the next quarter missed analyst expectations.</p><p>For the fourth quarter, Intel expects adjusted earnings per share of 25 cents on revenue between $15 billion and $16 billion, significantly lower than the $43 cent EPS and $17.1 billion revenue analysts had projected. Despite a 78% jump in data center and AI revenue to $7.3 billion, the client computing and physical AI group saw a 5% revenue decline.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.guru3d.com%2Fdata%2Fpublish%2F224%2F127ff5176d69d944a1acaca0ee10a199c5c097%2F1730447071_guru3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 03:40 UTC | #25876</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Reports Q3 2026 Revenue of $201.9 Billion</title>
     <link href="https://www.businesswire.com/news/home/20261028373648/en/" rel="alternate" />
