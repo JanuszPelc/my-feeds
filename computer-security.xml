@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-30T12:18:00+00:00</updated>
+  <updated>2026-10-30T14:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Binance Uncovers Additional Points of Breach in Security Incident Investigation</title>
+    <link href="https://x.com/binance" rel="alternate" />
+    <id>https://x.com/binance::v240</id>
+    <published>2026-10-30T14:07:00+00:00</published>
+    <updated>2026-10-30T14:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitcoinsistemi.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fbinance-borsa-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://x.com/binance">x.com</a> | <a href="https://www.binance.com/en/square/post/382812398976216">source</a></small></p><hr/><p>Binance announced that its follow-up investigation into a recent security incident has uncovered additional points of breach beyond a previously identified compromised laptop. The exchange described the event as a complex attack and stated it is coordinating response efforts with law enforcement.</p><p>The security breach has impacted an estimated $6.3 billion in digital assets, making it one of the largest cryptocurrency hacks on record. Authorities and security researchers continue to analyze the vector and scale of the exploit as Binance works to secure its platform and resolve the incident.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitcoinsistemi.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fbinance-borsa-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 20:55 UTC | #25926</small>]]></content>
+  </entry>
   <entry>
     <title>Phorion Discovers Persistent SSH Backdoor in Official Claude Code Extension</title>
     <link href="https://phorion.io/blog/offical-claude-code-vsx-compromise/" rel="alternate" />

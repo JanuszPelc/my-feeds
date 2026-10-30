@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Kioxia Reports 22-Fold Jump in Second-Quarter Operating Profit on AI Demand</h2>
+<a name="story-25929"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260603%2Fkioxia-holding-pe-96f2c5085e4c4ea7920feefc54483940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kioxia Holdings Corp. reported a 22-fold year-over-year surge in fiscal second-quarter operating profit to approximately $12.7 billion, meeting analyst expectations. The dramatic earnings growth was propelled by soaring demand and higher prices for flash memory chips as data center operators aggressively expand artificial intelligence infrastructure.</p><p>Despite the record quarterly performance, the company issued a third-quarter operating profit forecast of about $12.7 billion, falling short of the roughly $14.9 billion average analyst estimate. The conservative outlook underscores potential pricing and supply dynamics within the memory market even as AI-related storage requirements remain robust.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs">bloomberg.com</a> | <a href="https://www.kioxia-holdings.com/en-jp/ir.html">source</a></small></p>
+<br clear="all" />
+
 <h2>Ravical Raises $17 Million in Seed Funding to Expand AI Accounting Platform</h2>
 <a name="story-25921"><img src="https://wsrv.nl/?url=https%3A%2F%2Fihfyvnmcmnvwrtmuemaa.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog-images%2F1793251611993-article-89.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ravical, an AI startup developing technology for accounting and tax firms, has secured $17 million in a seed funding round led by MMC Ventures. The investment, which includes participation from Lakestar, Pitchdrive, and Shapers, brings the company's total funding to $25 million.</p><p>Founded in 2025, Ravical provides an AI-powered platform designed to codify the expertise of senior professionals into shared workflows used across a firm's entire client base. The new capital will be used to support ongoing product development, expand the company's team, and drive market growth across the UK, Belgium, the Netherlands, Germany, and the United States.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25827"><img src="https://wsrv.nl/?url=https%3A%2F%2Fambcrypto.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAdewale-2-1-16-1536x864.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The cryptocurrency exchange HTX, linked to billionaire Justin Sun, has reached a settlement with the Financial Conduct Authority (FCA) to exit the United Kingdom. This resolution concludes legal proceedings initiated in October 2025 regarding the unlawful promotion of crypto asset services.</p><p>Under the agreement, HTX is no longer active in the UK, and the platform has blocked new user sign-ups and deposits. The settlement follows the FCA's reported difficulties in engaging the exchange before legal action and includes High Court undertakings prohibiting HTX from targeting or soliciting UK consumers.</p>
 <p><small>Links: <a href="https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?accessToken=zwAAAaGH5sPHkc9Uwjbvr3pA39OfD6vz1sgl0g.MEUCIGQ8rE8WIjOcep-oKi8Udw7YBYD5v0QqOa_A7Zk8I5WoAiEA7dyy_tqO0pfOLIUI-hRE_N7sHiukV98-c7snAM_rvkU&sharetype=gift&token=79c04867-fa52-4e5e-a203-5f1a092f1136&syn-25a6b1a6=1">ft.com</a> | <a href="https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions">source</a></small></p>
-<br clear="all" />
-
-<h2>Collective Secures $100M to Automate Bookkeeping for Solo Business Owners</h2>
-<a name="story-25828"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmaxbusiness.com.au%2Fwp-content%2Fuploads%2F2026%2F02%2Fai-bookkeeping-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Collective, a financial services platform for solo business owners, has secured $100 million in financing. The funding includes a $40 million Series B and $60 million in nondilutive capital from General Catalyst's Customer Value Fund.</p><p>The company uses artificial intelligence to automate bookkeeping, accounting, and tax management for solo entrepreneurs. This funding is intended to expand Collective's AI-native financial operating system.</p>
-<p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/10/29/collective-100m-financial-services-ai">axios.com</a> | <a href="https://www.webwire.com/ViewPressRel.asp?aId=363476">source</a></small></p>
 <br clear="all" />
 
 ---

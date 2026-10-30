@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-30T13:58:00+00:00</updated>
+  <updated>2026-10-30T14:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Kioxia Reports 22-Fold Jump in Second-Quarter Operating Profit on AI Demand</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs::v240</id>
+    <published>2026-10-30T14:09:00+00:00</published>
+    <updated>2026-10-30T14:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260603%2Fkioxia-holding-pe-96f2c5085e4c4ea7920feefc54483940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs">bloomberg.com</a> | <a href="https://www.kioxia-holdings.com/en-jp/ir.html">source</a></small></p><hr/><p>Kioxia Holdings Corp. reported a 22-fold year-over-year surge in fiscal second-quarter operating profit to approximately $12.7 billion, meeting analyst expectations. The dramatic earnings growth was propelled by soaring demand and higher prices for flash memory chips as data center operators aggressively expand artificial intelligence infrastructure.</p><p>Despite the record quarterly performance, the company issued a third-quarter operating profit forecast of about $12.7 billion, falling short of the roughly $14.9 billion average analyst estimate. The conservative outlook underscores potential pricing and supply dynamics within the memory market even as AI-related storage requirements remain robust.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260603%2Fkioxia-holding-pe-96f2c5085e4c4ea7920feefc54483940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 20:57 UTC | #25929</small>]]></content>
+  </entry>
   <entry>
     <title>Ravical Raises $17 Million in Seed Funding to Expand AI Accounting Platform</title>
     <link href="https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Binance Uncovers Additional Points of Breach in Security Incident Investigation</h2>
+<a name="story-25926"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitcoinsistemi.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fbinance-borsa-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Binance announced that its follow-up investigation into a recent security incident has uncovered additional points of breach beyond a previously identified compromised laptop. The exchange described the event as a complex attack and stated it is coordinating response efforts with law enforcement.</p><p>The security breach has impacted an estimated $6.3 billion in digital assets, making it one of the largest cryptocurrency hacks on record. Authorities and security researchers continue to analyze the vector and scale of the exploit as Binance works to secure its platform and resolve the incident.</p>
+<p><small>Links: <a href="https://x.com/binance">x.com</a> | <a href="https://www.binance.com/en/square/post/382812398976216">source</a></small></p>
+<br clear="all" />
+
 <h2>Phorion Discovers Persistent SSH Backdoor in Official Claude Code Extension</h2>
 <a name="story-25960"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcoinedition.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmagnific_alibaba-to-ban-claude-cod_74x4rjnJAL.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phorion identified a supply-chain compromise affecting version 2.1.313 of the official Claude Code for VS Code extension distributed on the Cursor Marketplace. The malicious extension bundle executes an injected script upon loading that installs an attacker-controlled Ed25519 public key into authorized_keys, initiates a persistent reverse SSH tunnel, and transmits host reconnaissance data.</p><p>The cross-platform implant targets macOS, Linux, and Windows systems, though researchers identified several implementation flaws, including a macOS check failure that can disrupt inbound access if Remote Login is disabled. Following the discovery, marketplaces removed the malicious build, prompting recommendations for organizations to audit environments for the affected version and initiate incident response procedures.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25799"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffurbo.org%2Fwp-content%2Fuploads%2F2026%2F10%2FFluoroscope.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Craig Hockenberry shares a health update detailing his ongoing treatment and recovery from lymphoma, outlining a grueling regimen of lumbar punctures, chemotherapy infusions, and severe side effects including nerve damage, extreme weight loss, and pneumonia.</p><p>Alongside his physical rehabilitation to regain mobility and strength, Hockenberry navigated a simultaneous server security crisis involving a critical PHP vulnerability that required emergency patching from his hospital bed during his final treatment procedures.</p>
 <p><small>Links: <a href="https://furbo.org/2026/10/28/a-health-update/">furbo.org</a> | <a href="https://news.ycombinator.com/item?id=50280974">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>V12 Research Reveals Weak AES-256 Key Generation in Multiple PDF Implementations</h2>
-<a name="story-25784"><img src="https://wsrv.nl/?url=https%3A%2F%2Fv12.sh%2Fcdn%2F_astro%2Fcover.CF5x0X6B_1N5vR.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Security researchers at V12 discovered that several popular PDF implementations generate AES-256 file keys from insufficiently random sources or excessively small state spaces, enabling attackers to decrypt protected documents without a password. In affected applications, the cryptographic keys are derived from predictable metrics rather than true random entropy.</p><p>Specifically, MuPDF's reliance on a linear congruential generator limits the effective entropy of its keys to just nine bits, making rapid brute-force recovery feasible within milliseconds. Similar predictable key derivation patterns were identified in Foxit and Java-based libraries like OpenPDF and iText, undermining the security guarantees of AES-256 encryption in previously generated files.</p>
-<p><small>Links: <a href="https://v12.sh/blog/the-case-of-the-9bit-aes-key">v12.sh</a> | <a href="https://lobste.rs/s/dqexzg/case_9_bit_aes_key">discussion</a> | <a href="https://news.ycombinator.com/item?id=50280722">hacker news</a></small></p>
 <br clear="all" />
 
 ---

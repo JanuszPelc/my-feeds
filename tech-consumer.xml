@@ -3,9 +3,27 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-30T14:02:00+00:00</updated>
+  <updated>2026-10-30T15:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>John Romero's Canceled Game Finds New Publisher and Smaller Scope</title>
+    <link href="https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change::v240</id>
+    <published>2026-10-30T15:34:00+00:00</published>
+    <updated>2026-10-30T15:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.80.lv%2Fapi%2Fupload%2Fmeta%2F45812%2Fimages%2F693a757f8f325%2Fcontain_1200x630.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change">gamedeveloper.com</a> | <a href="https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/">source</a></small></p><hr/><p>Game developer John Romero has secured a new publisher for his unannounced shooter project after funding was pulled earlier this year following its cancellation by Microsoft. Romero Games has been forced to downscale the project significantly, reducing the team size from over 100 people down to roughly 15 to 16 staff members.</p><p>While the publisher and specific details of the game remain unannounced, Romero noted that the concept has been completely redesigned to fit the much smaller team. Romero expressed enthusiasm for the downsized production, stating that it allows him to return to hands-on design and direct involvement in the development process using the Unreal Editor.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.80.lv%2Fapi%2Fupload%2Fmeta%2F45812%2Fimages%2F693a757f8f325%2Fcontain_1200x630.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 21:08 UTC | #25966</small>]]></content>
+  </entry>
+  <entry>
+    <title>GDC Side Quest Podcast Features Anti-Cheat Expert Lucia Suarez</title>
+    <link href="https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez" rel="alternate" />
+    <id>https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez::v240</id>
+    <published>2026-10-30T14:13:00+00:00</published>
+    <updated>2026-10-30T14:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsdlccorp-web-prod.blr1.digitaloceanspaces.com%2Fwp-content%2Fuploads%2F2025%2F05%2F15175957%2FAnti-Cheating-and-Security-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez">gamedeveloper.com</a></small></p><hr/><p>The Game Developer Podcast has released an episode of GDC Side Quest featuring security expert Lucia Suarez discussing anti-cheat operations. Hosted by Beth Elderkin, the episode explores the fundamentals of managing game security and maintaining integrity against malicious actors.</p><p>Suarez draws on her background as a former risk operations management team member at Blizzard Entertainment, where she spent years countering exploits targeting World of Warcraft players. The discussion offers developers an introduction to modern anti-cheat strategies and the ongoing challenges of protecting game ecosystems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsdlccorp-web-prod.blr1.digitaloceanspaces.com%2Fwp-content%2Fuploads%2F2025%2F05%2F15175957%2FAnti-Cheating-and-Security-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 21:01 UTC | #25958</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Hardware Strategy Shifts Toward Folding and Touchscreen Devices Under CEO John Ternus</title>
     <link href="https://www.404media.co/apple-is-entering-its-slop-era/" rel="alternate" />
@@ -284,14 +302,5 @@
     <updated>2026-10-25T23:15:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhelios-i.mashable.com%2Fimagery%2Farticles%2F03GbMG1r6qHcyGRHO6KR3kF%2Fhero-image.fill.size_1200x675.v1792865093.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">techcrunch.com</a> | <a href="https://x.com/imagine/status/2113712964419063911?s=20">source</a></small></p><hr/><p>Grok has released a seven-minute video comprising the first episode of an AI-generated adaptation of Homer's "The Odyssey." Created in collaboration with Wonder Studios and director Dev Walker, the release delivers on Elon Musk's promise earlier in the year to produce a full-length AI version of the epic.</p><p>The project serves as an explicit counterpoint to Christopher Nolan’s practical-film adaptation released in July. Early evaluations indicate that while the AI-generated footage achieves occasional moments of visual realism, it struggles with narrative momentum, dialogue, and human engagement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelios-i.mashable.com%2Fimagery%2Farticles%2F03GbMG1r6qHcyGRHO6KR3kF%2Fhero-image.fill.size_1200x675.v1792865093.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 02:38 UTC | #25404</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dolly Parton's Imagination Library Provides Free Books to Children Worldwide</title>
-    <link href="https://imaginationlibrary.com/" rel="alternate" />
-    <id>https://imaginationlibrary.com/::v240</id>
-    <published>2026-10-25T18:24:00+00:00</published>
-    <updated>2026-10-25T18:24:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.simplisticallyliving.com%2Fwp-content%2Fuploads%2F2024%2F04%2Fdolly-parton-imagination-library-1-1024x538.jpeg.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://imaginationlibrary.com/">imaginationlibrary.com</a> | <a href="https://news.ycombinator.com/item?id=50234474">hacker news</a></small></p><hr/><p>Dolly Parton’s Imagination Library is an international book gifting program that mails free, age-appropriate books every month to children from birth to age five. The initiative aims to foster a love of reading early in life and ensure that children have access to books regardless of their family's income.</p><p>Founded by Parton in 1995 in her home county of East Tennessee, the program has since expanded internationally to operate across the United States, Canada, the United Kingdom, Australia, and the Republic of Ireland. It is sustained through a shared funding model between Parton's foundation and local community partners.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.simplisticallyliving.com%2Fwp-content%2Fuploads%2F2024%2F04%2Fdolly-parton-imagination-library-1-1024x538.jpeg.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Oct 2026, 21:00 UTC | #25403</small>]]></content>
   </entry>
 </feed>

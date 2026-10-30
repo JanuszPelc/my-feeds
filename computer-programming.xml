@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Infinite Mac Adds BeOS Support for Browser Emulation</title>
+    <link href="https://blog.persistent.info/2026/10/infinite-mac-beos.html" rel="alternate" />
+    <id>https://blog.persistent.info/2026/10/infinite-mac-beos.html::v240</id>
+    <published>2026-10-30T16:07:00+00:00</published>
+    <updated>2026-10-30T16:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpersistent.info%2Fimages%2Finfinite-mac-beos-desktop.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.persistent.info/2026/10/infinite-mac-beos.html">blog.persistent.info</a> | <a href="https://lobste.rs/s/fskctn/infinite_mac_beos">discussion</a> | <a href="https://news.ycombinator.com/item?id=50309029">hacker news</a></small></p><hr/><p>Infinite Mac now supports running multiple PowerPC versions of BeOS directly within web browsers, allowing users to experience the alternative operating system alongside classic Macintosh software. The integration provides instant booting via streamed disk images, pre-installed software libraries, and CD-ROM access through the Internet Archive.</p><p>Implementing BeOS compatibility required upstream fixes to the DingusPPC emulator to resolve hardware discrepancies, input emulation bugs, and display handling differences that previously tied the emulator closely to Mac OS quirks. Alongside BeOS support, the update introduces new quality-of-life features such as screen recording, screenshot capture, and expanded operating system CD-ROM collections hosted on dedicated infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpersistent.info%2Fimages%2Finfinite-mac-beos-desktop.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 21:10 UTC | #25980</small>]]></content>
+  </entry>
+  <entry>
+    <title>Shane Friedman Examines Npm Package Name Similarity Rules</title>
+    <link href="https://smoores.dev/post/no_npm_estee_is_not_a_typo/" rel="alternate" />
+    <id>https://smoores.dev/post/no_npm_estee_is_not_a_typo/::v240</id>
+    <published>2026-10-30T15:02:00+00:00</published>
+    <updated>2026-10-30T15:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fblog%2Fwp-content%2Fuploads%2F2026%2F05%2Fimage-172.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://smoores.dev/post/no_npm_estee_is_not_a_typo/">smoores.dev</a> | <a href="https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem">discussion</a></small></p><hr/><p>Developer Shane Friedman details his experience attempting to publish an npm package named "estee" as a short nickname for an audiobook alignment tool, only to be blocked by the registry's automated similarity checks. The system flagged the name as too similar to existing packages like "testem" and "espree" based on a Levenshtein distance threshold.</p><p>The author analyzes the mathematical scaling issues of applying a flat Levenshtein distance threshold to short string lengths, which drastically restricts available namespaces and flags unrelated names such as "hoid." Although npm support confirmed that automated typosquatting blocks cannot be bypassed, the incident highlights the ongoing challenge of balancing security against malicious squatting with accommodating legitimate short package names.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fblog%2Fwp-content%2Fuploads%2F2026%2F05%2Fimage-172.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 21:07 UTC | #25979</small>]]></content>
+  </entry>
+  <entry>
     <title>Caius Shares Weekend Plans and Progress on GNOME Launcher Project</title>
     <link href="https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend" rel="alternate" />
     <id>https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend::v240</id>
@@ -605,23 +623,5 @@
     <updated>2026-10-25T21:34:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvoxelmanip.se%2Fmedia%2Fbuilding-java-me-apps-with-modern-tooling%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/">voxelmanip.se</a> | <a href="https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling">discussion</a></small></p><hr/><p>A technical guide details how to develop Java ME applications for legacy feature phones using modern development environments and tools like OpenJDK 8, MicroEmulator stubs, and ProGuard, avoiding outdated Sun Java ME SDKs.</p><p>The walkthrough covers compiling Java source code into backward-compatible bytecode, configuring MIDlet manifests, preverifying binaries, testing in emulators, and transferring files to vintage hardware via Bluetooth, alongside practical warnings regarding strict size constraints and platform limitations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvoxelmanip.se%2Fmedia%2Fbuilding-java-me-apps-with-modern-tooling%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 00:41 UTC | #25406</small>]]></content>
-  </entry>
-  <entry>
-    <title>Alex Engelberg and Derek Slager Present 'Every Clojure Talk Ever'</title>
-    <link href="https://www.youtube.com/watch?v=jlPaby7suOc" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=jlPaby7suOc::v240</id>
-    <published>2026-10-25T18:27:00+00:00</published>
-    <updated>2026-10-25T18:27:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fclojurenorth.com%2Fimg%2Fspeakers%2Frafal-dittwald.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.youtube.com/watch?v=jlPaby7suOc">youtube.com</a> | <a href="https://lobste.rs/s/mug4of/every_clojure_talk_ever_2018">discussion</a></small></p><hr/><p>Alex Engelberg and Derek Slager deliver a satirical presentation titled "Every Clojure Talk Ever," parodying software engineering tropes, startup clichés, and developer culture within the Clojure community.</p><p>The talk lampoons overly complex microservice architectures, arbitrary programming language-selection processes, excessive macro usage, and the ubiquitous community epiphany regarding extensible data.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fclojurenorth.com%2Fimg%2Fspeakers%2Frafal-dittwald.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Oct 2026, 21:46 UTC | #25405</small>]]></content>
-  </entry>
-  <entry>
-    <title>MongoDB Engineering Paper Examines YAML-Based Conformance Testing for Client Drivers</title>
-    <link href="https://emptysqua.re/blog/polyglots-dilemma/" rel="alternate" />
-    <id>https://emptysqua.re/blog/polyglots-dilemma/::v240</id>
-    <published>2026-10-25T18:25:00+00:00</published>
-    <updated>2026-10-25T18:25:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwebassets.mongodb.com%2F_com_assets%2Fcms%2FScreenshot%2B2025-06-02%2Bat%2B8.36.05%E2%80%AFAM-2yqcix233f.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://emptysqua.re/blog/polyglots-dilemma/">emptysqua.re</a> | <a href="https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing">discussion</a></small></p><hr/><p>MongoDB develops native client libraries in a dozen programming languages to ensure idiomatic integration and runtime performance. To maintain consistent behavior and APIs across all drivers without relying on ambiguous prose specifications, the engineering team adopted a unified test format built on YAML. This framework enables a single test corpus to verify complex behaviors—such as connection retries, transaction handling, and server selection—across every supported language.</p><p>Adopting the unified YAML test format allowed MongoDB to eliminate tens of thousands of lines of duplicate test-runner code and reduced nonconformance bug rates across most supported drivers. The system uses server fail points and command-wire inspection to validate hidden internal mechanics that standard surface-level API tests cannot observe. The methodology and historical metrics are documented in a research paper accepted by the IEEE International Symposium on Software Reliability Engineering (ISSRE).</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwebassets.mongodb.com%2F_com_assets%2Fcms%2FScreenshot%2B2025-06-02%2Bat%2B8.36.05%E2%80%AFAM-2yqcix233f.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Oct 2026, 21:12 UTC | #25402</small>]]></content>
   </entry>
 </feed>
