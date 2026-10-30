@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Identified as SpaceX&#x27;s Largest Customer by Revenue</h2>
+<a name="story-25865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkraneshares.com%2Fwp-content%2Fuploads%2F2026%2F05%2F2026_05_spacex_net_income-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic has become SpaceX's largest single customer, accounting for 34.5% of the company's third-quarter revenue. Identified as "Customer B" in regulatory filings, the AI company's contributions have surpassed those of the United States government.</p><p>The revenue is driven by computing power provided by SpaceX's artificial intelligence division. This concentration of income highlights the company's expanding role in providing critical infrastructure for the AI industry.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic">bloomberg.com</a> | <a href="https://ir.spacex.com/financials/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Reddit to Shift to a Primarily Logged-In Experience to Combat Declining Search Traffic</h2>
 <a name="story-25872"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Freddit-daus.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reddit is transitioning to a primarily logged-in user experience to address declining search engine traffic resulting from the rise of AI-powered search. Announced during its third-quarter 2026 earnings, the move is intended to protect platform data from AI scraping for licensing purposes and to improve advertising revenue through better user interest signals.</p><p>Although Reddit's third-quarter revenue grew 53% year-over-year to $895 million, the company reported a drop in U.S. daily active users and a significant reduction in weekly search referrals. The new logged-in interface will undergo testing in select markets outside the U.S. in the fourth quarter, with the company promising to maintain anonymity options via a rebuilt "incognito mode."</p>
@@ -61,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <p>The United States added a record 20.2 gigawatt-hours of battery storage capacity in the second quarter of 2026, bringing total installations for the first half of the year to 30.8 GWh according to a report from the Solar Energy Industries Association and Benchmark Mineral Intelligence. Growth was overwhelmingly driven by utility-scale projects, which accounted for approximately 18 GWh of the quarterly total, led by heavy deployment in Arizona, Texas, and Utah.</p><p>While utility-scale and commercial segments expanded rapidly to meet rising grid demand and data center constraints, residential battery storage experienced a 27% year-over-year decline in Q2 following the removal of the federal 25D residential clean energy tax credit. Driven by stronger-than-expected demand, Benchmark raised its cumulative storage forecast through 2030 by 11.5% to 683 GWh, with projected total installations for 2026 reaching 71 GWh.</p>
 <p><small>Links: <a href="https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/">electrek.co</a> | <a href="https://seia.org/news/largest-quarter-on-record-for-energy-storage/">source</a> | <a href="https://news.ycombinator.com/item?id=50287001">hacker news</a></small></p>
 <br clear="all" />
-
-<h2>Bloomberg, Susquehanna, and Jump Trading Subscribe to Truth Social API Feed</h2>
-<p>Bloomberg, Susquehanna International Group, and Jump Trading have subscribed to Truth Social's paid API feed, securing faster access to President Donald Trump's posts. The subscribers are reportedly paying between $60,000 and $100,000 per month for the high-speed data stream.</p><p>The API service, launched by Trump Media, offers early access to social media content that can frequently influence financial markets and trading volumes. Representatives for Bloomberg, Susquehanna, and Jump Trading declined to comment on the agreements.</p>
-<p><small>Links: <a href="https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/">reuters.com</a></small></p>
 
 ---
 

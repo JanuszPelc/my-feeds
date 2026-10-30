@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-29T21:02:00+00:00</updated>
+  <updated>2026-10-29T21:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Anthropic Identified as SpaceX's Largest Customer by Revenue</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic::v240</id>
+    <published>2026-10-29T21:07:00+00:00</published>
+    <updated>2026-10-29T21:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fkraneshares.com%2Fwp-content%2Fuploads%2F2026%2F05%2F2026_05_spacex_net_income-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic">bloomberg.com</a> | <a href="https://ir.spacex.com/financials/default.aspx">source</a></small></p><hr/><p>Anthropic has become SpaceX's largest single customer, accounting for 34.5% of the company's third-quarter revenue. Identified as "Customer B" in regulatory filings, the AI company's contributions have surpassed those of the United States government.</p><p>The revenue is driven by computing power provided by SpaceX's artificial intelligence division. This concentration of income highlights the company's expanding role in providing critical infrastructure for the AI industry.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fkraneshares.com%2Fwp-content%2Fuploads%2F2026%2F05%2F2026_05_spacex_net_income-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 02:58 UTC | #25865</small>]]></content>
+  </entry>
   <entry>
     <title>Reddit to Shift to a Primarily Logged-In Experience to Combat Declining Search Traffic</title>
     <link href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/" rel="alternate" />
