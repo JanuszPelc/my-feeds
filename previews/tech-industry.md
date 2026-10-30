@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Pinterest Misses Q3 Revenue Estimates and Issues Lower Q4 Guidance</h2>
+<a name="story-25892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2023%2F10%2F04181554%2FPinterest-Q3-2023-earnings-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pinterest reported third-quarter revenue of $1.17 billion, a 12% year-over-year increase that fell short of analyst estimates of $1.21 billion. Global monthly active users grew 10% to reach 661 million during the period.</p><p>The company's revenue guidance for the fourth quarter is lower than analyst expectations, contributing to a more than 8% decline in Pinterest shares during after-hours trading.</p>
+<p><small>Links: <a href="https://www.barrons.com/articles/pinterest-earnings-stock-price-ec2101b6">barrons.com</a> | <a href="https://investor.pinterestinc.com/news-and-events/press-releases/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Instagram Offers YouTube Creators $50,000 to $500,000 for Long-form Video Content</h2>
 <a name="story-25883"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnuelink.com%2Fpublic%2Fimg%2Fpersona%2Ffeatures%2Fcrossposting-instagram-reels%2Fyoutube%2Freal-time-automation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Through its new "Features" product, Instagram is providing select YouTube creators with deals ranging from $50,000 to $500,000 to cross-post long-form video content. The initiative is designed to attract established video content and audiences to the platform.</p><p>This strategy represents an effort to challenge YouTube's dominance in the long-form video market. By incentivizing creators to repurpose content, Instagram seeks to increase user engagement and diversify its content offerings.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25806"><img src="https://wsrv.nl/?url=https%3A%2F%2Flogie.ai%2Fnews%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Famazon_alexa_shopping_graphic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ahead of the holiday season, Amazon has introduced more than 100 new shopping-related capabilities to its Alexa assistant. The updates enable users to manage shopping lists, handle subscription changes like Subscribe &amp; Save modifications, and update delivery instructions directly through voice commands.</p><p>Consumers can also use the assistant to address billing or payment issues and inquire about details regarding their Prime or Audible memberships. Amazon reports that the adoption of agentic features has expanded significantly over the past year, with hundreds of millions of users utilizing Alexa for shopping.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities">source</a></small></p>
-<br clear="all" />
-
-<h2>DoorDash Agrees to Acquire Instacart for $17 Billion</h2>
-<a name="story-25849"><img src="https://wsrv.nl/?url=https%3A%2F%2Famppfy.com%2Fwp-content%2Fuploads%2F2025%2F08%2F20250827_1334_Boost-Earnings-with-Delivery_simple_compose_01k3pkqypge0m9d10gz7pn6xy0-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DoorDash has entered into a definitive agreement to acquire Instacart for approximately $17 billion, valuing the grocery technology company at $65.00 per share. The transaction combines DoorDash's restaurant and local delivery network with Instacart's grocery fulfillment technology, uniting two major delivery platforms to expand merchant tools and consumer choices.</p><p>Under the terms of the agreement, Instacart stockholders can elect to receive cash, DoorDash stock, or a combination of both. The deal is expected to close in late 2027 or the first half of 2028, pending approval by Instacart stockholders and regulatory agencies including antitrust clearances in the United States, Canada, and Israel. Until closing, both companies will continue to operate independently.</p>
-<p><small>Links: <a href="https://about.doordash.com/en-us/news/doordash-to-acquire-instacart">about.doordash.com</a> | <a href="https://news.ycombinator.com/item?id=50287919">hacker news</a></small></p>
 <br clear="all" />
 
 ---
