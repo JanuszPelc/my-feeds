@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-30T12:23:00+00:00</updated>
+  <updated>2026-10-30T14:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Runware Plans Factory Production of Modular AI Data Centers</title>
+    <link href="https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/::v240</id>
+    <published>2026-10-30T14:03:00+00:00</published>
+    <updated>2026-10-30T14:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcd-modular.com%2Fwp-content%2Fuploads%2F2026%2F06%2FCompu-Dynamics-Module-CDM-AI-Factory.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/">techcrunch.com</a> | <a href="https://runware.ai/blog/introducing-sonic-pods-modular-data-centers-built-for-inference">source</a></small></p><hr/><p>AI infrastructure startup Runware is expanding manufacturing capacity for its modular Sonic Inference Pods at a factory in Romania, aiming to assemble the data center units on an assembly line similar to cars. The company plans to scale output to 30 megawatts of capacity per day by 2028, with the goal of delivering customized, liquid-cooled units that can be brought online within 48 hours.</p><p>Runware is utilizing prior funding to complete a second manufacturing facility expected to launch early next year, attempting to outpace traditional construction timelines amid surging demand for AI infrastructure. Although the company reports significant customer interest and designs its own closed-loop cooling and hardware components, scaling production involves substantial supply chain logistics and execution risks that have previously challenged hardware startups.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcd-modular.com%2Fwp-content%2Fuploads%2F2026%2F06%2FCompu-Dynamics-Module-CDM-AI-Factory.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 18:08 UTC | #25941</small>]]></content>
+  </entry>
   <entry>
     <title>Nscale Faces Construction, Financing, and Regulatory Hurdles at West Virginia AI Campus</title>
     <link href="https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?accessToken=zwAAAaIi1GfplNO5KUuRDu5BO9O93gVp9IU5udPuhsS2H-RGftOPGJwI3yiK_9PrOGFWW_lO3dOA8oA_3uHjPdPy3p88MpBOh9O7wlVDACXyqwE.MEUCIQCTfptZcpPISYntlhh1mjoa3g6HxEZajv0OSQGMtt_QEQIgSVZwVMNDn0Bf_KARrNJmOPbLhMU516inUsUkdvr2i-0&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902" rel="alternate" />
