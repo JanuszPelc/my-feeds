@@ -1,7 +1,7 @@
 # My RSS feeds
 
-The feeds I actually read, updated as new stories land. [Take a peek](previews/top-stories.md)
-at the newest stories and subscribe to the feeds you like. Or download
+The feeds I actually read, updated as new stories land. Take a peek at the newest stories
+below and subscribe to the feeds you like. Or download
 [all-feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/all-feeds.opml) and import
 it into your RSS reader.
 
