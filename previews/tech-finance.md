@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Sandisk Reports $11 Billion in Q1 Revenue and Announces 8-for-1 Stock Split</h2>
+<a name="story-25899"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Ftikr%2Fimages%2Fw_2560%2Ch_1706%2Cc_scale%2Ff_webp%2Cq_auto%2Fv1777815320%2Fimages%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10.webp%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sandisk reported fiscal first-quarter revenue of $11 billion, a 378% increase year-over-year that surpassed analyst estimates of $10.7 billion. The company also announced an 8-for-1 stock split and provided second-quarter revenue guidance expected to exceed market forecasts.</p><p>Sandisk's stock fell more than 4% in after-hours trading following the announcement. The company's shares have risen more than 2,600% since its separation from Western Digital 20 months ago.</p>
+<p><small>Links: <a href="https://www.morningstar.com/news/marketwatch/20261029556/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-on-the-way">morningstar.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/sndk-20261029.htm">source</a></small></p>
+<br clear="all" />
+
 <h2>Binance Investigates Potential Security Issue Following Large Suspicious Outflows</h2>
 <a name="story-25888"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-images.ctmedia.io%2Fmedia%2Farticle-covers%2F2026%2F10%2F01M64RM2NG4HTR1FTZN6XKT10N%2Ftrying-to-open-monitor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance is investigating a potential security issue following reports of suspicious outflows estimated between $3.55 billion and $5.8 billion. On-chain data shows massive transfers from Binance hot wallets across the Ethereum, Arbitrum, and Avalanche networks. Company officials are reviewing the movement to verify the scale of the incident.</p><p>Tether and Circle have frozen approximately $1.79 billion in USDT and USDC held in wallets receiving transfers from Binance. Aave froze lending markets to prevent potential exploits. Former CEO Changpeng Zhao stated that user funds are expected to be fully covered, while the BNB token declined more than 5.5%.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25837"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fcloudinary%2Ftransformations%2Fwp-content%2Fuploads%2F2026%2F04%2F1776207855_b6a697ba3a44347758dcb32b7f042f3d_v1776207855_xlarge.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Investment firm Situational Awareness is reportedly pitching its clients to participate in a new funding round for cloud-computing startup Fluidstack Ltd. The proposed financing values the neocloud provider at $40 billion, marking a sharp increase from its $18 billion valuation in September.</p><p>The rapid valuation growth underscores intense investor demand for artificial intelligence infrastructure and specialized cloud providers. Fluidstack has experienced repeated funding rounds and scaling valuations over the past year as major AI labs race to secure massive compute resources.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>HTX to Exit UK Following FCA Settlement</h2>
-<a name="story-25827"><img src="https://wsrv.nl/?url=https%3A%2F%2Fambcrypto.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAdewale-2-1-16-1536x864.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The cryptocurrency exchange HTX, linked to billionaire Justin Sun, has reached a settlement with the Financial Conduct Authority (FCA) to exit the United Kingdom. This resolution concludes legal proceedings initiated in October 2025 regarding the unlawful promotion of crypto asset services.</p><p>Under the agreement, HTX is no longer active in the UK, and the platform has blocked new user sign-ups and deposits. The settlement follows the FCA's reported difficulties in engaging the exchange before legal action and includes High Court undertakings prohibiting HTX from targeting or soliciting UK consumers.</p>
-<p><small>Links: <a href="https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?accessToken=zwAAAaGH5sPHkc9Uwjbvr3pA39OfD6vz1sgl0g.MEUCIGQ8rE8WIjOcep-oKi8Udw7YBYD5v0QqOa_A7Zk8I5WoAiEA7dyy_tqO0pfOLIUI-hRE_N7sHiukV98-c7snAM_rvkU&sharetype=gift&token=79c04867-fa52-4e5e-a203-5f1a092f1136&syn-25a6b1a6=1">ft.com</a> | <a href="https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions">source</a></small></p>
 <br clear="all" />
 
 ---

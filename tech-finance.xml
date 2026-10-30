@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T23:45:00+00:00</updated>
+  <updated>2026-10-30T01:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Sandisk Reports $11 Billion in Q1 Revenue and Announces 8-for-1 Stock Split</title>
+    <link href="https://www.morningstar.com/news/marketwatch/20261029556/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-on-the-way" rel="alternate" />
+    <id>https://www.morningstar.com/news/marketwatch/20261029556/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-on-the-way::v240</id>
+    <published>2026-10-30T01:22:00+00:00</published>
+    <updated>2026-10-30T01:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Ftikr%2Fimages%2Fw_2560%2Ch_1706%2Cc_scale%2Ff_webp%2Cq_auto%2Fv1777815320%2Fimages%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10.webp%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.morningstar.com/news/marketwatch/20261029556/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-on-the-way">morningstar.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/sndk-20261029.htm">source</a></small></p><hr/><p>Sandisk reported fiscal first-quarter revenue of $11 billion, a 378% increase year-over-year that surpassed analyst estimates of $10.7 billion. The company also announced an 8-for-1 stock split and provided second-quarter revenue guidance expected to exceed market forecasts.</p><p>Sandisk's stock fell more than 4% in after-hours trading following the announcement. The company's shares have risen more than 2,600% since its separation from Western Digital 20 months ago.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Ftikr%2Fimages%2Fw_2560%2Ch_1706%2Cc_scale%2Ff_webp%2Cq_auto%2Fv1777815320%2Fimages%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10.webp%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 06:42 UTC | #25899</small>]]></content>
+  </entry>
   <entry>
     <title>Binance Investigates Potential Security Issue Following Large Suspicious Outflows</title>
     <link href="https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171" rel="alternate" />
