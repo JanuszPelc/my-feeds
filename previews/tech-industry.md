@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Reddit to Shift to a Primarily Logged-In Experience to Combat Declining Search Traffic</h2>
+<a name="story-25872"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Freddit-daus.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Reddit is transitioning to a primarily logged-in user experience to address declining search engine traffic resulting from the rise of AI-powered search. Announced during its third-quarter 2026 earnings, the move is intended to protect platform data from AI scraping for licensing purposes and to improve advertising revenue through better user interest signals.</p><p>Although Reddit's third-quarter revenue grew 53% year-over-year to $895 million, the company reported a drop in U.S. daily active users and a significant reduction in weekly search referrals. The new logged-in interface will undergo testing in select markets outside the U.S. in the fourth quarter, with the company promising to maintain anonymity options via a rebuilt "incognito mode."</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">techcrunch.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">source</a> | <a href="https://news.ycombinator.com/item?id=50295247">hacker news</a></small></p>
+<br clear="all" />
+
+<h2>Rivian Expands Volkswagen Joint Venture to Include AI Assistant</h2>
+<a name="story-25867"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F12%2Frivian-assisant-event.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rivian is expanding its $5.8 billion joint venture with Volkswagen Group to include the licensing of its AI voice assistant technology. According to Rivian's third-quarter investor presentation, the technology is expected to debut in Volkswagen's upcoming low-cost ID EVERY1 electric hatchback.</p><p>The collaboration, established in 2024, was originally focused on providing Rivian's electrical architecture and software for Volkswagen's next-generation vehicles. The addition of the AI assistant utilizes Rivian's vertically integrated technology stack and an agentic framework designed to translate natural language commands into vehicle actions.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/">techcrunch.com</a></small></p>
+<br clear="all" />
+
 <h2>Meta Launches Style Sketch AI Fashion App</h2>
 <a name="story-25864"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpaintingvalley.com%2Fsketches%2Ffashion-sketch-app-17.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has launched Style Sketch, an AI-powered fashion app that helps users coordinate outfits using clothes they already own. The app builds a virtual closet by syncing with Instagram photos or by allowing users to manually upload images and videos of their clothing.</p><p>Features include virtual try-ons with models matched to a user's body shape and skin tone, weather-based outfit suggestions, and trip-packing assistance. The app is currently available in Indonesia, Singapore, and Thailand on iOS and Android.</p>
@@ -53,18 +65,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Bloomberg, Susquehanna, and Jump Trading Subscribe to Truth Social API Feed</h2>
 <p>Bloomberg, Susquehanna International Group, and Jump Trading have subscribed to Truth Social's paid API feed, securing faster access to President Donald Trump's posts. The subscribers are reportedly paying between $60,000 and $100,000 per month for the high-speed data stream.</p><p>The API service, launched by Trump Media, offers early access to social media content that can frequently influence financial markets and trading volumes. Representatives for Bloomberg, Susquehanna, and Jump Trading declined to comment on the agreements.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/">reuters.com</a></small></p>
-
-<h2>Tencent Cloud Shifts AI Focus to Businesses Under CEO Dowson Tong</h2>
-<a name="story-25778"><img src="https://wsrv.nl/?url=https%3A%2F%2Faiagentwire.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fserver-boot.oss-cn-guangzhou.aliyuncs.com%2F2026%2F03%2F10%2Fde6b5d4dca6742f6ac68bb6df2b0a328.webp%26w%3D1920%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tencent Cloud Chief Executive Officer Dowson Tong is redirecting the company's artificial intelligence strategy toward enterprise solutions following founder Pony Ma's characterization of its earlier AI initiatives as a leaky ship. Central to this pivot is the deployment of WorkBuddy, a business-focused productivity assistant designed to handle advanced desktop automation and corporate workflows.</p><p>The recalibration reflects a broader push among major technology firms to capture corporate clients by emphasizing practical efficiency over consumer-facing applications. By targeting commercial adoption, Tencent seeks to strengthen its standing in the competitive cloud services and artificial intelligence market.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Samsung Expects 2026 Capital Expenditures to Rise 60% Amid Strong AI Demand</h2>
-<a name="story-25775"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.sammobile.com%2Fwp-content%2Fuploads%2F2024%2F02%2FSamsung-HBM3E-12H-DRAM-Chip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Samsung Electronics plans to increase its capital expenditures by roughly 60% this year to approximately $63 billion, driven largely by massive investments in chip manufacturing infrastructure. The company reported that its high-bandwidth memory capacity is completely sold out through 2027, backed by 10 long-term supply agreements secured with major customers.</p><p>The surge in spending comes as Samsung navigates a recovering semiconductor market propelled by artificial intelligence demand, even as its recent chip profit missed broader analyst estimates. The vast majority of the capital expenditure is earmarked for its Device Solutions division to expand advanced memory production capacity and secure long-term competitiveness.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope">bloomberg.com</a> | <a href="https://www.londonstockexchange.com/en/news/article/SMSN/announcement-of-capex-plan-for-fy-2026/2638-33-4c-78-f4-428fa7">source</a></small></p>
-<br clear="all" />
 
 ---
 

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Howler Launches Harry Potter-Inspired Ephemeral AI Chat for macOS</h2>
+<a name="story-25869"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.theregister.com%2F%3FimageId%3D202306%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developed by Aries Zhou, this open-source macOS application provides an ephemeral AI chat interface that mimics the "Howler" letters from the Harry Potter series. The tool displays queries on a parchment-style interface and clears the conversation from memory upon pressing the Escape key to prevent local chat history.</p><p>Users can connect the app to various AI models using an API key, which is stored in the macOS Keychain, or through compatible local models. While the application avoids local logs and does not use a relay, it does not guarantee that the AI service provider will not retain a record of the exchange.</p>
+<p><small>Links: <a href="https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484">theregister.com</a> | <a href="https://github.com/HiAriesZhou/Howler">source</a></small></p>
+<br clear="all" />
+
 <h2>OpenAI Updates Model Spec Guidelines</h2>
 <a name="story-25855"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quasa.io%2Fphotos%2F00%2Fimage-2026-03-12t142700378.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has revised its Model Spec, the framework defining how its AI models should behave, by reorganizing it around five core values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.</p><p>This update aims to guide AI judgment and intent as models become more capable and take on more consequential actions. The reorganization also adds guidance regarding context, oversight, and agency while retiring most of the specification's previous detailed style guidance.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25730"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6vfeftx9%2Farticles%2F44b792b382975135ff1db34ca74a2502eb767158-2152x1016.png%3Fw%3D1200%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Version 5 of the Artificial Analysis Intelligence Index introduces two new benchmarks, FrontierCode 2.0 and Terminal-Bench-Science, and upgrades HLE-Diamond, AA-Omniscience v1.1, and CritPt v2. This update is the first to build 60% of the index using private datasets. The release also includes the Artificial Analysis Progress Index v1, designed to track model capability on a continuous scale over time.</p><p>Claude Opus 5.5 leads the index with a score of 58, ahead of OpenAI's GPT-6 Astra and GPT-6.1 Sol. The data indicates the gap between proprietary and open-weights models has widened from 3 points to 12 points. Furthermore, cost per task among the top 10 models varies by more than 13x.</p>
 <p><small>Links: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">artificialanalysis.ai</a> | <a href="https://news.ycombinator.com/item?id=50268868">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Anthropic Launches Enterprise AI Spending Reporting Tools</h2>
-<a name="story-25740"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F01-workstreams-overview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Smart reports, surveys, and pooled group budgets are now available to help enterprise customers monitor and manage their AI spending. These tools provide visibility into token costs, team productivity, and workflow inefficiencies, while offering recommendations to optimize AI usage without using customer data for model training by default.</p><p>The release addresses the demand for measurable return-on-investment (ROI) as large organizations scale their AI deployments. This move follows reports of high net revenue retention for Anthropic and is intended to increase product stickiness by helping customers standardize and optimize AI workflows.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/">techcrunch.com</a> | <a href="https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets">source</a></small></p>
 <br clear="all" />
 
 ---
