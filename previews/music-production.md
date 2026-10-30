@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Monolith DSP Releases Vectorscope 2 and M/S Processor 2 for iOS</h2>
+<a name="story-25954"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fkvr-thumbnail.1793285976.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Monolith DSP has released Vectorscope 2 and M/S Processor 2 as free AUv3 plugins and standalone applications for iPhone and iPad. The new releases serve as successors to the original versions launched in 2013, offering updated mobile audio processing tools for iOS users.</p><p>Vectorscope 2 functions as a stereo analyzer providing goniometer and polar plot displays alongside phase, correlation, and balance meters. M/S Processor 2 handles mid/side and left/right conversions, allowing producers to decode microphone recordings, modify stereo mix width, or encode signals for independent processing in compatible hosts like Logic Pro, GarageBand, and AUM.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/monolith-dsp-releases-vectorscope-2-and-m-s-processor-2-for-ios-free-69499?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69499">kvraudio.com</a></small></p>
+<br clear="all" />
+
 <h2>Spotify Targets Q1 2027 Launch for AI Remix and Cover Feature</h2>
 <a name="story-25915"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quasa.io%2Fimages%2Fnews%2Fks7t1Erq9r7Pa5yVjs8G40LUANIUle8w71NMCSQD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Spotify is reportedly aiming to launch a new artificial intelligence product in the first quarter of 2027 that will allow subscribers to generate their own song covers and remixes. The streaming platform plans to charge users an additional $4 to $5 per month for the feature, pending ongoing licensing agreements.</p><p>The feature's timeline follows previous announcements of licensing deals with major labels like Universal Music Group, though negotiations with other key industry players continue. Spotify is targeting an official rollout that could coincide with the Grammy Awards in February 2027, as the company seeks to unlock new high-value revenue streams through consumer-facing generative AI tools.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25822"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F10%2FHivetune-Marimbox.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hivetune has released Marimbox, a virtual marimba instrument for macOS and Windows that features stereo-sampled acoustic recordings and built-in effects. The free edition includes four playing styles—Cord, Deadstroke, Rubber, and Yarn—along with envelope controls and up to 64 voices of polyphony.</p><p>A $4.99 Complete Edition adds a sustained roll articulation, while the free version provides access to the core sound engine, attack and release faders, and echo and reverb effects. The plugin operates as a VST3, AU, and standalone application.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/hivetune-marimbox/">bedroomproducersblog.com</a> | <a href="https://hivetune.com/store/marimbox/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/29/hivetune-marimbox/#respond">discussion</a></small></p>
-<br clear="all" />
-
-<h2>HoRNet FilterSolo Plugin Available Free for Limited Time</h2>
-<a name="story-25823"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiEcEbwX67QOPdSlEOVVdwFUE-CT9oETvlUqT4LfjTjBr00UFr2RLtbIKnQCqf9N2S0X6kJhrUzCEj7f0C-67vW3-aHgZrW85duAvwPiNEPRvh9JHrijkL5UJkYtHUyILOTOK9PXP-sLD6PZID3PTIFS5h5NVxorxli3b4TzcYvwCD4ZcLF70eD2LeGWJio%2Fw1200-h630-p-k-no-nu%2FHornet-FilterSolo-by-Hornet-Plugins.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>HoRNet Plugins is offering its FilterSolo resonant filter plugin for free for a limited time until November 1. Users can obtain the plugin by applying a promotional code at checkout on the developer's website.</p><p>FilterSolo features analog-style saturation, extensive modulation options, and multi-mode filtering capabilities for macOS and Windows in standard plugin formats. The plugin is normally a paid product and supports common digital audio workstations for music production.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/29/hornet-filtersolo-freebie/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/29/hornet-filtersolo-freebie/#respond">discussion</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-30T12:14:00+00:00</updated>
+  <updated>2026-10-30T13:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Monolith DSP Releases Vectorscope 2 and M/S Processor 2 for iOS</title>
+    <link href="https://www.kvraudio.com/news/monolith-dsp-releases-vectorscope-2-and-m-s-processor-2-for-ios-free-69499?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69499" rel="alternate" />
+    <id>https://www.kvraudio.com/news/monolith-dsp-releases-vectorscope-2-and-m-s-processor-2-for-ios-free-69499?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69499::v240</id>
+    <published>2026-10-30T13:59:00+00:00</published>
+    <updated>2026-10-30T13:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fkvr-thumbnail.1793285976.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/monolith-dsp-releases-vectorscope-2-and-m-s-processor-2-for-ios-free-69499?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69499">kvraudio.com</a></small></p><hr/><p>Monolith DSP has released Vectorscope 2 and M/S Processor 2 as free AUv3 plugins and standalone applications for iPhone and iPad. The new releases serve as successors to the original versions launched in 2013, offering updated mobile audio processing tools for iOS users.</p><p>Vectorscope 2 functions as a stereo analyzer providing goniometer and polar plot displays alongside phase, correlation, and balance meters. M/S Processor 2 handles mid/side and left/right conversions, allowing producers to decode microphone recordings, modify stereo mix width, or encode signals for independent processing in compatible hosts like Logic Pro, GarageBand, and AUM.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fkvr-thumbnail.1793285976.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 17:22 UTC | #25954</small>]]></content>
+  </entry>
   <entry>
     <title>Spotify Targets Q1 2027 Launch for AI Remix and Cover Feature</title>
     <link href="https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b" rel="alternate" />
