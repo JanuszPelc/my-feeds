@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>CrowdStrike Reports China-Linked Hackers Used AI in Global Cyberattacks</h2>
+<a name="story-25907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdedirock.com%2Fwp-content%2Fuploads%2F2025%2F12%2Feee46ad6-f1fd-4349-8fe6-747fdc3c5f74.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese state-linked hackers targeted more than 200 organizations across at least 14 countries in an 11-day campaign that leveraged artificial intelligence tools, including the DeepSeek model, according to a report from cybersecurity firm CrowdStrike.</p><p>The campaign, attributed to a threat group known as VAPOR PANDA, utilized the ARTEX agent framework to automate and scale cyber espionage operations against government and corporate targets, demonstrating how malicious actors are using AI to reduce the human effort required for large-scale attacks.</p>
+<p><small>Links: <a href="https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343">nbcnews.com</a> | <a href="https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/">source</a></small></p>
+<br clear="all" />
+
 <h2>David Buchanan Demonstrates C2PA Trust Model Vulnerabilities</h2>
 <a name="story-25912"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fapplsci%2Fapplsci-16-03391%2Farticle_deploy%2Fhtml%2Fimages%2Fapplsci-16-03391-g001.png%3F1775123784&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researcher David Buchanan has demonstrated a proof-of-concept showing how the Coalition for Content Provenance and Authenticity (C2PA) trust ecosystem could be compromised in a manner similar to the recent eMudhra certificate authority incident. By generating a signature that chains to Google's C2PA root CA using a leaf certificate with a private key of four, the demonstration highlights potential structural weaknesses in digital media authentication.</p><p>The experiment reveals that current media verification tools largely lack robust revocation-checking mechanisms and struggle with trust models comparable to those that complicated the Web PKI response to the eMudhra compromise. Although the methods used to construct the demonstration are publicly known, the findings emphasize critical vulnerabilities in emerging content provenance standards and the tools designed to enforce them.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25777"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1Xs2Fv.img%3Fw%3D1280%26h%3D853%26m%3D4%26q%3D79&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bluesky is blocking user access to links pointing to a leaked archive containing records for more than 41,000 Department of Homeland Security employees and contractors. The platform labels the destination pages as malicious, stating that the unauthorized sharing of contact information violates its community guidelines.</p><p>The underlying dataset, dubbed Icepick, was published by the transparency nonprofit Distributed Denial of Secrets and details internal organizational structures, contact details, and group memberships tied to surveillance operations. While Bluesky opted to block the URLs rather than remove individual posts, competitors such as X have taken contrasting approaches by directing users to the leaked material.</p>
 <p><small>Links: <a href="https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/">wired.com</a></small></p>
-<br clear="all" />
-
-<h2>Craig Hockenberry Shares Health Update on Lymphoma Treatment and Recovery</h2>
-<a name="story-25799"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffurbo.org%2Fwp-content%2Fuploads%2F2026%2F10%2FFluoroscope.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Craig Hockenberry shares a health update detailing his ongoing treatment and recovery from lymphoma, outlining a grueling regimen of lumbar punctures, chemotherapy infusions, and severe side effects including nerve damage, extreme weight loss, and pneumonia.</p><p>Alongside his physical rehabilitation to regain mobility and strength, Hockenberry navigated a simultaneous server security crisis involving a critical PHP vulnerability that required emergency patching from his hospital bed during his final treatment procedures.</p>
-<p><small>Links: <a href="https://furbo.org/2026/10/28/a-health-update/">furbo.org</a> | <a href="https://news.ycombinator.com/item?id=50280974">hacker news</a></small></p>
 <br clear="all" />
 
 ---
