@@ -11,13 +11,7 @@ and import it into your RSS reader.
 Feed links rarely change, but if a feed in your reader goes quiet for a few days, come back
 here and resubscribe.
 
-## Worth knowing
-
-The feeds are aggregated by an agentic pipeline, which rewrites every title and summary in
-a plain, measured tone. Lead images are chosen by vision models. Nothing is reviewed by
-hand, so check anything that matters against the linked sources.
-
-## A taste of the feeds
+---
 
 <!-- top-stories -->
 
@@ -96,3 +90,9 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <p><a name="top-stories"><picture><img src="https://img.shields.io/badge/top--stories-cc408f?style=flat-square" height="28" alt="top-stories" /></picture></a> <a href="previews/ai-news.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ai--news-29313d?style=flat-square" /><img src="https://img.shields.io/badge/ai--news-dfe6ed?style=flat-square" height="28" alt="ai-news" /></picture></a> <a href="previews/computer-programming.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--programming-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--programming-dfe6ed?style=flat-square" height="28" alt="computer-programming" /></picture></a> <a href="previews/computer-security.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/computer--security-29313d?style=flat-square" /><img src="https://img.shields.io/badge/computer--security-dfe6ed?style=flat-square" height="28" alt="computer-security" /></picture></a> <a href="previews/human-knowledge.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/human--knowledge-29313d?style=flat-square" /><img src="https://img.shields.io/badge/human--knowledge-dfe6ed?style=flat-square" height="28" alt="human-knowledge" /></picture></a> <a href="previews/music-production.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/music--production-29313d?style=flat-square" /><img src="https://img.shields.io/badge/music--production-dfe6ed?style=flat-square" height="28" alt="music-production" /></picture></a> <a href="previews/tech-consumer.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--consumer-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--consumer-dfe6ed?style=flat-square" height="28" alt="tech-consumer" /></picture></a> <a href="previews/tech-finance.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--finance-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--finance-dfe6ed?style=flat-square" height="28" alt="tech-finance" /></picture></a> <a href="previews/tech-industry.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--industry-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--industry-dfe6ed?style=flat-square" height="28" alt="tech-industry" /></picture></a> <a href="previews/tech-policy.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tech--policy-29313d?style=flat-square" /><img src="https://img.shields.io/badge/tech--policy-dfe6ed?style=flat-square" height="28" alt="tech-policy" /></picture></a></p>
 
 <!-- /top-stories -->
+
+## Worth knowing
+
+The feeds are aggregated by an agentic pipeline, which rewrites every title and summary in
+a plain, measured tone. Lead images are chosen by vision models. Nothing is reviewed by
+hand, so check anything that matters against the linked sources.
