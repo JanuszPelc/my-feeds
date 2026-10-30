@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-29T21:12:00+00:00</updated>
+  <updated>2026-10-29T23:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Coinbase Returns to Profitability in Q3 Despite Revenue Decline</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop::v240</id>
+    <published>2026-10-29T23:44:00+00:00</published>
+    <updated>2026-10-29T23:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.thestreet.com%2F.image%2Ft_share%2FMjE4ODIwOTEzMTg4MDU0NjMw%2Fg4ilkqaw8aaejlb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop">bloomberg.com</a> | <a href="https://investor.coinbase.com/news/news-details/2026/Coinbase-Q3-2026-Earnings-Show-All-time-high-Coinbase-One-Subscribers-and-Prediction-Markets-Surpassing-200-Million-in-Annualized-Revenue/default.aspx">source</a></small></p><hr/><p>Coinbase Global Inc. reported a net income of $719 million for the third quarter of 2026, marking its first profit in a year. This result was driven largely by $715 million in unrealized crypto gains, even as quarterly revenue fell 35% year-over-year to $1.22 billion, meeting analyst expectations.</p><p>The company also reported record subscriber levels for its Coinbase One service and noted that prediction markets have surpassed $200 million in annualized revenue.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thestreet.com%2F.image%2Ft_share%2FMjE4ODIwOTEzMTg4MDU0NjMw%2Fg4ilkqaw8aaejlb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 04:56 UTC | #25887</small>]]></content>
+  </entry>
   <entry>
     <title>Intel Shares Drop 20% Following Weak Fourth-Quarter Guidance</title>
     <link href="https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html" rel="alternate" />

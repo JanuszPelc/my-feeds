@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Coinbase Returns to Profitability in Q3 Despite Revenue Decline</h2>
+<a name="story-25887"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thestreet.com%2F.image%2Ft_share%2FMjE4ODIwOTEzMTg4MDU0NjMw%2Fg4ilkqaw8aaejlb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Coinbase Global Inc. reported a net income of $719 million for the third quarter of 2026, marking its first profit in a year. This result was driven largely by $715 million in unrealized crypto gains, even as quarterly revenue fell 35% year-over-year to $1.22 billion, meeting analyst expectations.</p><p>The company also reported record subscriber levels for its Coinbase One service and noted that prediction markets have surpassed $200 million in annualized revenue.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop">bloomberg.com</a> | <a href="https://investor.coinbase.com/news/news-details/2026/Coinbase-Q3-2026-Earnings-Show-All-time-high-Coinbase-One-Subscribers-and-Prediction-Markets-Surpassing-200-Million-in-Annualized-Revenue/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Intel Shares Drop 20% Following Weak Fourth-Quarter Guidance</h2>
 <a name="story-25876"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.guru3d.com%2Fdata%2Fpublish%2F224%2F127ff5176d69d944a1acaca0ee10a199c5c097%2F1730447071_guru3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intel shares dropped 20% in extended trading Thursday after the company issued weak fourth-quarter guidance, citing continued softness in the global PC market. While third-quarter revenue increased 21% year-over-year to $16.51 billion and adjusted earnings per share reached 52 cents, the company's outlook for the next quarter missed analyst expectations.</p><p>For the fourth quarter, Intel expects adjusted earnings per share of 25 cents on revenue between $15 billion and $16 billion, significantly lower than the $43 cent EPS and $17.1 billion revenue analysts had projected. Despite a 78% jump in data center and AI revenue to $7.3 billion, the client computing and physical AI group saw a 5% revenue decline.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25828"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmaxbusiness.com.au%2Fwp-content%2Fuploads%2F2026%2F02%2Fai-bookkeeping-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Collective, a financial services platform for solo business owners, has secured $100 million in financing. The funding includes a $40 million Series B and $60 million in nondilutive capital from General Catalyst's Customer Value Fund.</p><p>The company uses artificial intelligence to automate bookkeeping, accounting, and tax management for solo entrepreneurs. This funding is intended to expand Collective's AI-native financial operating system.</p>
 <p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/10/29/collective-100m-financial-services-ai">axios.com</a> | <a href="https://www.webwire.com/ViewPressRel.asp?aId=363476">source</a></small></p>
-<br clear="all" />
-
-<h2>Solink Raises More Than $100 Million for AI Vision Intelligence</h2>
-<a name="story-25825"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Fsolink.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Solink Corp. has raised over $100 million in a new funding round led by Vertu Capital, with participation from Goldman Sachs Group Inc., Golub Growth, and Comcast Ventures. The capital will fund the company's AI vision intelligence roadmap, which uses artificial intelligence to extract business data from existing security camera installations.</p><p>The Ottawa-based company currently serves more than 35,000 customer locations in 65 countries, managing approximately 500,000 cameras. This latest funding brings Solink's total capital raised to over $198 million.</p>
-<p><small>Links: <a href="https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/">siliconangle.com</a> | <a href="https://www.prnewswire.co.uk/news-releases/solink-raises-100-million-in-fresh-funding-nyse-content-update-302923732.html">source</a></small></p>
 <br clear="all" />
 
 ---
