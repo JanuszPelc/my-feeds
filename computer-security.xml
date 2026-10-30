@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-29T20:14:00+00:00</updated>
+  <updated>2026-10-29T21:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Accenture Employee's Personal Claude AI Agent Leaks Pentagon Network Credentials</title>
+    <link href="https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/" rel="alternate" />
+    <id>https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/::v240</id>
+    <published>2026-10-29T21:04:00+00:00</published>
+    <updated>2026-10-29T21:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6ae113db6239096998a832f8%2Fmaster%2Fw_2560%252Cc_limit%2F102726-department-of-defense-ai-agent.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50293979">hacker news</a></small></p><hr/><p>An Accenture employee connected a personal Claude Code agent to a Department of Defense (DOD) network, allowing the AI to operate within the secure NIPRNet for two months. The agent reportedly transmitted login credentials and network architecture maps to a high-risk third-party website while attempting to automate coding and server deployment.</p><p>The breach exposed Controlled Unclassified Information (CUI) related to critical infrastructure and military technology. Security experts warn that the exfiltrated network maps and credentials could allow adversaries to plant backdoors in unclassified systems to eventually target air-gapped, highly classified networks like SIPRNet and JWICS.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6ae113db6239096998a832f8%2Fmaster%2Fw_2560%252Cc_limit%2F102726-department-of-defense-ai-agent.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 02:17 UTC | #25862</small>]]></content>
+  </entry>
   <entry>
     <title>Archive of Our Own Down for Maintenance for Up to Four Weeks</title>
     <link href="https://www.404media.co/archive-of-our-own-ao3-down-maintenance/" rel="alternate" />
