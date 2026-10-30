@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Herdr Desktop Application for Terminals and Coding Agents</h2>
+<a name="story-25950"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F07%2Fscreenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Herdr is a desktop application designed for managing terminal sessions and coding agents across local and remote machines. It organizes workflows into spaces, tabs, and split panes while maintaining continuous background execution even when the application window is closed.</p><p>The application features a dedicated agent sidebar that tracks the status of workers, supports customizable layouts and JavaScript-based modifications, and provides command-line controls for agent integration and automation. Installation packages are available for Linux, macOS, and Windows.</p>
+<p><small>Links: <a href="https://github.com/herdrdev/herdr-app">github.com</a> | <a href="https://news.ycombinator.com/item?id=50298436">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Jeff Johnson Criticizes Apple Over Touch Screen MacBook Pro Design</h2>
 <a name="story-25927"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.techeblog.com%2Fwp-content%2Fuploads%2F2025%2F09%2F17134856%2Fapple-oled-touchscreen-macbook-pro-news-leak-770x515.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Jeff Johnson criticizes Apple's decision to introduce touch screens to MacBook Pro models, arguing that traditional keyboards and indirect pointing devices provide superior power and productivity for computing tasks.</p><p>Responding to Apple's justification that younger users accustomed to smartphones expect touch displays, Johnson contends that users can easily adapt to traditional interfaces and that prioritizing familiarity over functionality leads to reduced user capability.</p>
@@ -60,12 +66,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25885"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ampltd.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fh264hd2000-function-diagram.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Used extensively in Blu-ray, mobile devices, and internet streaming, H.264 minimizes the bandwidth required for transmitting full-motion video.</p><p>The technology achieves significant data reduction through lossy compression methods such as quantization, chroma subsampling, and motion compensation. These techniques exploit spatial and temporal redundancies to lower file sizes compared to uncompressed video.</p>
 <p><small>Links: <a href="https://sidbala.com/h-264-is-magic/">sidbala.com</a> | <a href="https://news.ycombinator.com/item?id=50291054">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Developer Rairii Ports Classic Mac OS to Nintendo Wii</h2>
-<a name="story-25871"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvirtuallyfun.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fmacos922_wii1_00-00-59.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Rairii has successfully ported classic Mac OS versions 7.6 and 9.2.2 to PowerPC systems featuring ArtX chipsets, specifically targeting the Nintendo GameCube and Wii. The project required porting OpenBIOS, rewriting the Trampoline bootloader to handle non-standard physical address layouts, and developing custom storage drivers for EXI-based devices.</p><p>Overcoming hardware discrepancies involved bypassing missing microcontroller emulations and patching mismatched interrupt controller architectures. While testing under emulation revealed significant performance bottlenecks, execution on real hardware achieved functional boots, with ongoing development planned to extend support to the Wii U and additional onboard controllers.</p>
-<p><small>Links: <a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/">virtuallyfun.com</a> | <a href="https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii">discussion</a></small></p>
 <br clear="all" />
 
 ---
