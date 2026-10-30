@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Developer Rairii Ports Classic Mac OS to Nintendo Wii</h2>
 <a name="story-25871"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvirtuallyfun.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fmacos922_wii1_00-00-59.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Rairii has successfully ported classic Mac OS versions 7.6 and 9.2.2 to PowerPC systems featuring ArtX chipsets, specifically targeting the Nintendo GameCube and Wii. The project required porting OpenBIOS, rewriting the Trampoline bootloader to handle non-standard physical address layouts, and developing custom storage drivers for EXI-based devices.</p><p>Overcoming hardware discrepancies involved bypassing missing microcontroller emulations and patching mismatched interrupt controller architectures. While testing under emulation revealed significant performance bottlenecks, execution on real hardware achieved functional boots, with ongoing development planned to extend support to the Wii U and additional onboard controllers.</p>
-<p><small>Links: <a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/">virtuallyfun.com</a> | <a href="https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii">discussion</a></small></p>
+<p><small>Links: <a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/">virtuallyfun.com</a> | <a href="https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii">discussion</a> | <a href="https://news.ycombinator.com/item?id=50292156">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Yoshua Wuyts Analyzes Missing Done State in Rust Future Trait</h2>

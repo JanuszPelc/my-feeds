@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Ravical Raises $17 Million in Seed Funding to Expand AI Accounting Platform</h2>
+<a name="story-25921"><img src="https://wsrv.nl/?url=https%3A%2F%2Fihfyvnmcmnvwrtmuemaa.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog-images%2F1793251611993-article-89.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ravical, an AI startup developing technology for accounting and tax firms, has secured $17 million in a seed funding round led by MMC Ventures. The investment, which includes participation from Lakestar, Pitchdrive, and Shapers, brings the company's total funding to $25 million.</p><p>Founded in 2025, Ravical provides an AI-powered platform designed to codify the expertise of senior professionals into shared workflows used across a firm's entire client base. The new capital will be used to support ongoing product development, expand the company's team, and drive market growth across the UK, Belgium, the Netherlands, Germany, and the United States.</p>
+<p><small>Links: <a href="https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/">tech.eu</a></small></p>
+<br clear="all" />
+
 <h2>Intercontinental Exchange and Trade [XYZ] Partner to Bring Hyperliquid Perpetual Markets to US</h2>
 <a name="story-25902"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmoneycheck.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fchart-48.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intercontinental Exchange Inc. has entered into an agreement with Trade [XYZ] to establish a regulated market and clearing structure for perpetual futures in the United States. The planned venue will be built on Hyperliquid's technology infrastructure and feature products tied to equities, equity indexes, commodities, and currencies.</p><p>The initiative is designed to open onshore markets to a broader retail trading population while operating separately from ICE's existing institutional futures franchise. The launch remains subject to regulatory approvals and will incorporate dedicated know-your-customer and anti-money laundering systems.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25828"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmaxbusiness.com.au%2Fwp-content%2Fuploads%2F2026%2F02%2Fai-bookkeeping-1200x800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Collective, a financial services platform for solo business owners, has secured $100 million in financing. The funding includes a $40 million Series B and $60 million in nondilutive capital from General Catalyst's Customer Value Fund.</p><p>The company uses artificial intelligence to automate bookkeeping, accounting, and tax management for solo entrepreneurs. This funding is intended to expand Collective's AI-native financial operating system.</p>
 <p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/10/29/collective-100m-financial-services-ai">axios.com</a> | <a href="https://www.webwire.com/ViewPressRel.asp?aId=363476">source</a></small></p>
-<br clear="all" />
-
-<h2>Solink Raises More Than $100 Million for AI Vision Intelligence</h2>
-<a name="story-25825"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Fsolink.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Solink Corp. has raised over $100 million in a new funding round led by Vertu Capital, with participation from Goldman Sachs Group Inc., Golub Growth, and Comcast Ventures. The capital will fund the company's AI vision intelligence roadmap, which uses artificial intelligence to extract business data from existing security camera installations.</p><p>The Ottawa-based company currently serves more than 35,000 customer locations in 65 countries, managing approximately 500,000 cameras. This latest funding brings Solink's total capital raised to over $198 million.</p>
-<p><small>Links: <a href="https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/">siliconangle.com</a> | <a href="https://www.prnewswire.co.uk/news-releases/solink-raises-100-million-in-fresh-funding-nyse-content-update-302923732.html">source</a></small></p>
 <br clear="all" />
 
 ---

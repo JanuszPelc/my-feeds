@@ -3,9 +3,27 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-30T16:33:00+00:00</updated>
+  <updated>2026-10-30T17:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Congressional Lawmakers Introduce Resolution Opposing AI Bubble Bailout for Big Tech</title>
+    <link href="https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead" rel="alternate" />
+    <id>https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead::v240</id>
+    <published>2026-10-30T17:11:00+00:00</published>
+    <updated>2026-10-30T17:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fthehill.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F02%2FAP23144762719780-e1740493998656.jpg%3Fw%3D1280&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead">progressives.house.gov</a> | <a href="https://news.ycombinator.com/item?id=50302814">hacker news</a></small></p><hr/><p>Congressional Progressive Caucus Chair Greg Casar and House Financial Services Committee Ranking Member Maxine Waters, alongside several Democratic lawmakers, introduced a resolution warning of severe economic risks posed by an artificial intelligence asset bubble. The measure formally opposes federal bailouts for insolvent A.I. corporations or their executives, demanding instead that corporate leaders face civil and criminal accountability if their reckless investments collapse.</p><p>Drawing parallels to the 2008 financial crisis, the resolution urges the federal government to bypass corporate rescues and direct any emergency intervention toward protecting workers, retirees, and low-income communities through job creation, unemployment insurance, and housing assistance. The initiative is backed by numerous labor unions and economic advocacy groups, including the American Federation of Teachers, Americans for Financial Reform, and the Center for Economic and Policy Research.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fthehill.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F02%2FAP23144762719780-e1740493998656.jpg%3Fw%3D1280&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 15:04 UTC | #25952</small>]]></content>
+  </entry>
+  <entry>
+    <title>AlpineBSD Operating System Combines NetBSD Kernel with Alpine Linux-Inspired Userspace</title>
+    <link href="https://wiki.alpinebsd.org/" rel="alternate" />
+    <id>https://wiki.alpinebsd.org/::v240</id>
+    <published>2026-10-30T17:11:00+00:00</published>
+    <updated>2026-10-30T17:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fpuffs%2Frump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://wiki.alpinebsd.org/">wiki.alpinebsd.org</a> | <a href="https://lobste.rs/s/yxuvie/alpinebsd">discussion</a> | <a href="https://news.ycombinator.com/item?id=50274251">hacker news</a></small></p><hr/><p>AlpineBSD is a work-in-progress operating system that pairs the NetBSD kernel, libc, and essential platform-specific tools with a userspace inspired by Alpine Linux. The project aims to minimize the inclusion of AI-generated software, excluding large language model output entirely from its base system and main package repository.</p><p>While it utilizes the apk-tools package manager and BusyBox like Alpine Linux, AlpineBSD features a slightly more GNU-oriented userspace and currently relies on the s6 init system, with plans to add OpenRC support. Because it is built on the NetBSD kernel, the operating system currently lacks an official installer and has limited hardware support compared to Linux distributions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fpuffs%2Frump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 14:15 UTC | #25677</small>]]></content>
+  </entry>
   <entry>
     <title>H.264 Video Compression Explained</title>
     <link href="https://sidbala.com/h-264-is-magic/" rel="alternate" />
