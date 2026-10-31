@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-30T22:57:00+00:00</updated>
+  <updated>2026-10-31T01:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Powerlattice Raises $86 Million to Reduce AI Chip Power Consumption</title>
+    <link href="https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/::v240</id>
+    <published>2026-10-31T01:03:00+00:00</published>
+    <updated>2026-10-31T01:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fpowerlattice.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/">geekwire.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2069744/000206974426000002/0002069744-26-000002-index.htm">source</a></small></p><hr/><p>Powerlattice, a semiconductor startup based in Vancouver, Washington, has raised $86 million to develop technology designed to reduce the power demands of AI processors. According to an SEC filing, the funding brings the company's total raised nearly to its $111 million target.</p><p>The startup produces power delivery chiplets that sit inside a processor package to shorten the path of electrical current, a design that can potentially cut energy use by more than 50%. Led by industry veterans from Intel and Qualcomm, Powerlattice aims to address the increasing electricity and cooling constraints facing AI data center operators.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fpowerlattice.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 05:06 UTC | #25999</small>]]></content>
+  </entry>
   <entry>
     <title>Ollie AI Assistant to Shut Down on November 6</title>
     <link href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/" rel="alternate" />
