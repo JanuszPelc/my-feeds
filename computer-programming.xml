@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-31T01:02:00+00:00</updated>
+  <updated>2026-10-31T01:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Analysis of Switch Statement Lowering in GCC</title>
+    <link href="https://xoranth.net/gcc-switch/" rel="alternate" />
+    <id>https://xoranth.net/gcc-switch/::v240</id>
+    <published>2026-10-31T01:05:00+00:00</published>
+    <updated>2026-10-31T01:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.123microcontroller.com%2Fassets%2Fimages%2Fc-jump-tables-switch-optimization-diagram.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://xoranth.net/gcc-switch/">xoranth.net</a> | <a href="https://lobste.rs/s/ncclwy/switch_lowering_gcc">discussion</a></small></p><hr/><p>GCC implements `switch` statements using several distinct strategies depending on the distribution and density of case labels. For dense integer values, the compiler typically generates jump tables for efficient dispatching. When case values are sparse, GCC often utilizes a decision tree composed of comparison instructions, and in some instances, uses bitset-based tests for specific bit patterns.</p><p>The compiler employs specific heuristics to decide between these methods, such as evaluating the profitability of a jump table based on the number of required comparisons versus table size. Implementation details within the `pass_lower_switch` pass reveal that GCC uses dynamic programming to optimize bitset clusters and analyzes case ranges to determine the most efficient machine code.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.123microcontroller.com%2Fassets%2Fimages%2Fc-jump-tables-switch-optimization-diagram.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 05:45 UTC | #26019</small>]]></content>
+  </entry>
   <entry>
     <title>Windows Long Power Button Hold and a Windows 3.1 Black Screen Support Case</title>
     <link href="https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/" rel="alternate" />
