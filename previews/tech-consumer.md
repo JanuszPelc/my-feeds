@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>Anthropic Updates Claude Code to Block Recreations of Existing Video Games</h2>
 <a name="story-25982"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQFl4bbOPXIUfA%2Ffeedshare-shrink_800%2FB4EZv.1iFIJgAg-%2F0%2F1769507005119%3Fe%3D2147483647%26v%3Dbeta%26t%3D9Azc5v0_JM1qztpdlqJs-XPYftG7qmnO4Sxz1WI4xBY&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has updated its Claude Code tool with a server-side rule designed to prevent users from generating recreations of specific existing video games. The restriction, implemented under the flag "tengu_heron_brook," was introduced to curb intellectual property infringement following a recent surge in AI-driven game clones.</p><p>The policy change comes amid growing anxiety among independent developers over automated clones threatening public playtests and upcoming releases. While the update aims to stop low-effort copying, industry observers note that prompt-based safety measures can often be bypassed and that users might turn to unrestricted open-weight models instead.</p>
-<p><small>Links: <a href="https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games">gamedeveloper.com</a></small></p>
+<p><small>Links: <a href="https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games">gamedeveloper.com</a> | <a href="https://news.ycombinator.com/item?id=50316635">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>John Romero&#x27;s Canceled Game Finds New Publisher and Smaller Scope</h2>

@@ -3,7 +3,7 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-31T11:10:00+00:00</updated>
+  <updated>2026-10-31T19:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
   <entry>
@@ -47,9 +47,9 @@
     <link href="https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games" rel="alternate" />
     <id>https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games::v240</id>
     <published>2026-10-30T18:54:00+00:00</published>
-    <updated>2026-10-30T18:54:00+00:00</updated>
+    <updated>2026-10-31T19:13:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQFl4bbOPXIUfA%2Ffeedshare-shrink_800%2FB4EZv.1iFIJgAg-%2F0%2F1769507005119%3Fe%3D2147483647%26v%3Dbeta%26t%3D9Azc5v0_JM1qztpdlqJs-XPYftG7qmnO4Sxz1WI4xBY&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games">gamedeveloper.com</a></small></p><hr/><p>Anthropic has updated its Claude Code tool with a server-side rule designed to prevent users from generating recreations of specific existing video games. The restriction, implemented under the flag "tengu_heron_brook," was introduced to curb intellectual property infringement following a recent surge in AI-driven game clones.</p><p>The policy change comes amid growing anxiety among independent developers over automated clones threatening public playtests and upcoming releases. While the update aims to stop low-effort copying, industry observers note that prompt-based safety measures can often be bypassed and that users might turn to unrestricted open-weight models instead.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQFl4bbOPXIUfA%2Ffeedshare-shrink_800%2FB4EZv.1iFIJgAg-%2F0%2F1769507005119%3Fe%3D2147483647%26v%3Dbeta%26t%3D9Azc5v0_JM1qztpdlqJs-XPYftG7qmnO4Sxz1WI4xBY&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 00:02 UTC | #25982</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games">gamedeveloper.com</a> | <a href="https://news.ycombinator.com/item?id=50316635">hacker news</a></small></p><hr/><p>Anthropic has updated its Claude Code tool with a server-side rule designed to prevent users from generating recreations of specific existing video games. The restriction, implemented under the flag "tengu_heron_brook," was introduced to curb intellectual property infringement following a recent surge in AI-driven game clones.</p><p>The policy change comes amid growing anxiety among independent developers over automated clones threatening public playtests and upcoming releases. While the update aims to stop low-effort copying, industry observers note that prompt-based safety measures can often be bypassed and that users might turn to unrestricted open-weight models instead.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQFl4bbOPXIUfA%2Ffeedshare-shrink_800%2FB4EZv.1iFIJgAg-%2F0%2F1769507005119%3Fe%3D2147483647%26v%3Dbeta%26t%3D9Azc5v0_JM1qztpdlqJs-XPYftG7qmnO4Sxz1WI4xBY&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 00:02 UTC | #25982</small>]]></content>
   </entry>
   <entry>
     <title>John Romero's Canceled Game Finds New Publisher and Smaller Scope</title>
