@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-30T18:54:00+00:00</updated>
+  <updated>2026-10-31T01:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Reflections on Patrick Stewart's Portrayal of Captain Jean-Luc Picard</title>
+    <link href="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/" rel="alternate" />
+    <id>https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/::v240</id>
+    <published>2026-10-31T01:23:00+00:00</published>
+    <updated>2026-10-31T01:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbostonglobe-prod.cdn.arcpublishing.com%2Fresizer%2Fv2%2FUXKNMXAXBJIE5D3MFLHNFNMH2A.jpg%3Fauth%3D8e25b0bb943ca6a4cd164d64d7b170f5597bc20be64079dec693083c93dbebab%26width%3D1440&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/">bostonglobe.com</a> | <a href="https://news.ycombinator.com/item?id=50309647">hacker news</a></small></p><hr/><p>Patrick Stewart's portrayal of Captain Jean-Luc Picard in *Star Trek: The Next Generation* is characterized by a capacity to ground the character in profound emotional truth. Contributors highlight how Stewart moved beyond sci-fi archetypes to create a nuanced, admirable leader capable of both authoritative command and intense vulnerability.</p><p>The character is described as a moral guide and mentor who navigates complex ethical dilemmas and personal hardship with dignity. His performance is noted for providing a model of optimism and integrity that remains significant to audiences decades after the series' conclusion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbostonglobe-prod.cdn.arcpublishing.com%2Fresizer%2Fv2%2FUXKNMXAXBJIE5D3MFLHNFNMH2A.jpg%3Fauth%3D8e25b0bb943ca6a4cd164d64d7b170f5597bc20be64079dec693083c93dbebab%26width%3D1440&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 07:00 UTC | #26022</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Updates Claude Code to Block Recreations of Existing Video Games</title>
     <link href="https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games" rel="alternate" />
