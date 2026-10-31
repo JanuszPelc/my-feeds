@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-30T19:08:00+00:00</updated>
+  <updated>2026-10-30T22:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>OpenAI, Google, Microsoft, and Anthropic to Adopt Shared AI Scraping Opt-Out Standard</title>
+    <link href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out" rel="alternate" />
+    <id>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out::v240</id>
+    <published>2026-10-30T22:58:00+00:00</published>
+    <updated>2026-10-30T22:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftenacity.io%2Fwp-content%2Fuploads%2F2024%2F03%2Fai-robots-txt-rules-opt.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out">theverge.com</a></small></p><hr/><p>A new standard proposed through the Internet Engineering Task Force (IETF) will allow web publishers to opt out of AI training using a single signal in their robots.txt files. OpenAI, Google, Microsoft, and Anthropic have announced they will adopt this shared "policy token," which enables website owners to communicate scraping preferences to multiple AI providers simultaneously rather than managing individual settings for each company.</p><p>Anthropic has already adopted the signal, while OpenAI plans to implement it in the coming months. Google and Microsoft expect to support the standard next year, with Microsoft indicating it will provide granular controls for distinguishing between AI training and AI grounding. Meta has expressed support for the standard but has not yet committed to an implementation timeline.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftenacity.io%2Fwp-content%2Fuploads%2F2024%2F03%2Fai-robots-txt-rules-opt.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 04:18 UTC | #26000</small>]]></content>
+  </entry>
   <entry>
     <title>Unsloth Releases Dynamic v3.1 Preview with Customization and Performance Improvements</title>
     <link href="https://unsloth.ai/docs/new/changelog#dynamic-v3.1-preview--customize--performance" rel="alternate" />

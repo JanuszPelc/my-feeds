@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI, Google, Microsoft, and Anthropic to Adopt Shared AI Scraping Opt-Out Standard</h2>
+<a name="story-26000"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftenacity.io%2Fwp-content%2Fuploads%2F2024%2F03%2Fai-robots-txt-rules-opt.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A new standard proposed through the Internet Engineering Task Force (IETF) will allow web publishers to opt out of AI training using a single signal in their robots.txt files. OpenAI, Google, Microsoft, and Anthropic have announced they will adopt this shared "policy token," which enables website owners to communicate scraping preferences to multiple AI providers simultaneously rather than managing individual settings for each company.</p><p>Anthropic has already adopted the signal, while OpenAI plans to implement it in the coming months. Google and Microsoft expect to support the standard next year, with Microsoft indicating it will provide granular controls for distinguishing between AI training and AI grounding. Meta has expressed support for the standard but has not yet committed to an implementation timeline.</p>
+<p><small>Links: <a href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out">theverge.com</a></small></p>
+<br clear="all" />
+
 <h2>Unsloth Releases Dynamic v3.1 Preview with Customization and Performance Improvements</h2>
 <a name="story-26012"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21bwCh%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5f706c-2eb0-45b8-a289-e65579c7e41e_2560x1020.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unsloth has released a preview of Dynamic v3.1, featuring custom chat backgrounds, a refined user interface, and new GGUF model files for DeepSeek-V4.1-Flash-1017. The update also brings support for FLUX.2-klein-9B on machines with limited RAM.</p><p>The release includes performance enhancements such as doubling application update speeds and reducing lag on Linux. Additionally, Qwen-Image rendering is up to twice faster on systems with a 16 GB VRAM limit, and the update introduces batched MoE fine-tuning to allow compatible API jobs to run together.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25740"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F01-workstreams-overview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Smart reports, surveys, and pooled group budgets are now available to help enterprise customers monitor and manage their AI spending. These tools provide visibility into token costs, team productivity, and workflow inefficiencies, while offering recommendations to optimize AI usage without using customer data for model training by default.</p><p>The release addresses the demand for measurable return-on-investment (ROI) as large organizations scale their AI deployments. This move follows reports of high net revenue retention for Anthropic and is intended to increase product stickiness by helping customers standardize and optimize AI workflows.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/">techcrunch.com</a> | <a href="https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets">source</a></small></p>
-<br clear="all" />
-
-<h2>Google Announces Gemini 4 Carbon</h2>
-<a name="story-25716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini_4_carbon_exploitgym.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has introduced Gemini 4 Carbon, a frontier model designed for advanced cybersecurity and long-horizon engineering tasks. The model ranks first on the Artificial Analysis Intelligence Index (v5.0) and demonstrates high performance in vulnerability detection, exploitation, and remediation across benchmarks such as SEC-bench Pro, ExploitGym, and CWE-bench.</p><p>The model is built to support sustained agentic workflows and features improvements in model alignment, output honesty, and resistance to prompt injection. Google is currently rolling out access to a subset of cyber defenders and trusted partners through the Fairwind Program ahead of a wider release.</p>
-<p><small>Links: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50276792">hacker news</a></small></p>
 <br clear="all" />
 
 ---
