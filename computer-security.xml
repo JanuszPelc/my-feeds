@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-31T13:43:00+00:00</updated>
+  <updated>2026-10-31T13:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Parameter Researchers Disclose ChatGPT Share Link Vulnerability Enabling Account Takeover</title>
+    <link href="https://www.parameter.ai/labs/we-found-a-gap-at-openai" rel="alternate" />
+    <id>https://www.parameter.ai/labs/we-found-a-gap-at-openai::v240</id>
+    <published>2026-10-31T13:45:00+00:00</published>
+    <updated>2026-10-31T13:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-2-f.scribdassets.com%2Fimg%2Fdocument%2F702136017%2Foriginal%2Fa971f62113%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai">parameter.ai</a> | <a href="https://news.ycombinator.com/item?id=50314699">hacker news</a></small></p><hr/><p>Researchers at Parameter disclosed a security vulnerability in ChatGPT's web application that allowed a maliciously crafted public share link to execute arbitrary JavaScript within a victim's signed-in session. By combining an interactive graph feature, MathLive message handling flaws, and a Content Security Policy bypass involving YouTube, an attacker could traverse the preview sandbox and access authenticated frontend APIs. This enabled the retrieval of private conversation histories and complete account compromise simply by having a user open a shared link.</p><p>OpenAI classified the issue as a P1 bug and rolled out fixes across ChatGPT's web frontends, fully resolving the vulnerability by October 26, 2026. The vulnerability highlights the risks that emerge when multiple independent features—such as sandboxed previews, cross-frame messaging, and math layout libraries—interact unexpectedly. The incident underscores the importance of strict origin validation, secure message handling, and robust sandboxing for dynamically created documents.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-2-f.scribdassets.com%2Fimg%2Fdocument%2F702136017%2Foriginal%2Fa971f62113%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 17:39 UTC | #26054</small>]]></content>
+  </entry>
   <entry>
     <title>Bunny.net Issues Security Update Following Infrastructure Provider Incident</title>
     <link href="https://status.bunny.net/incidents/p6gf1by9kr7m" rel="alternate" />
