@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-31T13:45:00+00:00</updated>
+  <updated>2026-10-31T15:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Molly Signal Fork Unmaintained for Three Months and Vulnerable to Mainline Exploits</title>
+    <link href="https://piefed.world/post/1503394" rel="alternate" />
+    <id>https://piefed.world/post/1503394::v240</id>
+    <published>2026-10-31T15:09:00+00:00</published>
+    <updated>2026-10-31T15:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flowtek.ca%2Froo%2Fwp-content%2Fuploads%2F2024%2F09%2Ffdroid-molly.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://piefed.world/post/1503394">piefed.world</a> | <a href="https://github.com/mollyim/mollyim-android">source</a> | <a href="https://news.ycombinator.com/item?id=50314666">hacker news</a></small></p><hr/><p>Molly, a security-focused fork of the Signal messaging application for Android, has not received a software update since late July 2026. This three-month lack of maintenance has left the application lagging behind mainline Signal patches and exposed to known security vulnerabilities.</p><p>Specifically, the app remains vulnerable to an October exploit that allows audio and video streams to continue after a call has ended, an issue that was fixed in mainline Signal version 8.27. Community discussions and privacy advocates currently recommend switching back to the official mainline Signal application until the fork resumes regular updates.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flowtek.ca%2Froo%2Fwp-content%2Fuploads%2F2024%2F09%2Ffdroid-molly.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 18:28 UTC | #26057</small>]]></content>
+  </entry>
   <entry>
     <title>Parameter Researchers Disclose ChatGPT Share Link Vulnerability Enabling Account Takeover</title>
     <link href="https://www.parameter.ai/labs/we-found-a-gap-at-openai" rel="alternate" />
