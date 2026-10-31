@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-31T01:21:00+00:00</updated>
+  <updated>2026-10-31T01:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>OpenAI Reduces Funding Target to $20 Billion at $1.25 Trillion Valuation</title>
+    <link href="https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f" rel="alternate" />
+    <id>https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f::v240</id>
+    <published>2026-10-31T01:25:00+00:00</published>
+    <updated>2026-10-31T01:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.pymnts.com%2Fwp-content%2Fuploads%2F2024%2F08%2FOpenAI-investment.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50312013">hacker news</a></small></p><hr/><p>OpenAI has reduced its latest funding target to approximately $20 billion at a $1.25 trillion valuation, down from a previous goal of $30 billion at a $1.4 trillion valuation. The adjustment comes as some investors trim their financial commitments amid a broader technology and artificial intelligence market sell-off.</p><p>The scaled-down capital raise reflects cooling investor demand and valuation pushback as the artificial intelligence developer prepares for a potential stock market listing. Despite the lowered targets, the round remains one of the largest private funding efforts in the technology sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pymnts.com%2Fwp-content%2Fuploads%2F2024%2F08%2FOpenAI-investment.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 08:07 UTC | #26006</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Weighs Credit Guarantees for Nscale’s AI Data Center Project</title>
     <link href="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/" rel="alternate" />
