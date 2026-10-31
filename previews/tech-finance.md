@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Salesforce to Acquire Rune Technologies for Defense Portfolio</h2>
+<a name="story-25970"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tectonicdefense.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frunetyros.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Salesforce has signed a definitive agreement to acquire Rune Technologies, a defense technology provider specializing in military logistics and sustainment software and hardware. The acquisition aims to bolster Salesforce's national security-focused Missionforce unit, which targets government and defense clients.</p><p>Rune's artificial intelligence tools are already utilized by the U.S. Army and Marine Corps to forecast supply needs and optimize resources in low-connectivity combat environments. Financial terms of the transaction were not publicly disclosed as the company integrates the defense startup into its federal operations.</p>
+<p><small>Links: <a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/29/salesforce-rune-defense">axios.com</a> | <a href="https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/">source</a></small></p>
+<br clear="all" />
+
 <h2>Binance Sets Aside $6.34 Billion to Cover Hack Losses</h2>
 <a name="story-25951"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-qwen_generated_1769449161350.jpg.png%3Fformat%3Dwebp%26width%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance has reserved more than $6.34 billion in company funds to restore customer balances and address the fallout from a major security breach. The exchange stated that the allocation is designed to fully cover the estimated losses resulting from the incident.</p><p>Of the total amount, approximately $5 billion is already held in the specific token assets affected by the attack, while the remaining balance is being acquired through open market and over-the-counter transactions. The measure follows the platform's earlier commitments to secure affected user funds and stabilize operations following the theft.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.taptwicedigital.com%2Fblog-images%2Fcohere%2Fcohere-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cohere Inc. has completed the first close of a funding round expected to reach $5 billion, valuing the artificial intelligence model maker at $20.5 billion. This valuation is approximately three times higher than the company's valuation from one year ago.</p><p>The financing includes backing from Nvidia and the Canadian government, which has committed to investing up to $1.14 billion. The capital is part of a larger effort to support the company's ongoing development in the AI sector.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Situational Awareness Pitches Investors on Fluidstack Funding Round at $40 Billion Valuation</h2>
-<a name="story-25837"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fcloudinary%2Ftransformations%2Fwp-content%2Fuploads%2F2026%2F04%2F1776207855_b6a697ba3a44347758dcb32b7f042f3d_v1776207855_xlarge.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Investment firm Situational Awareness is reportedly pitching its clients to participate in a new funding round for cloud-computing startup Fluidstack Ltd. The proposed financing values the neocloud provider at $40 billion, marking a sharp increase from its $18 billion valuation in September.</p><p>The rapid valuation growth underscores intense investor demand for artificial intelligence infrastructure and specialized cloud providers. Fluidstack has experienced repeated funding rounds and scaling valuations over the past year as major AI labs race to secure massive compute resources.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---

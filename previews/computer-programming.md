@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Shrinking NixOS RAM Footprint and Resource Requirements</h2>
+<a name="story-26002"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.defenestrate.it%2Fmedia%2F22%2Fd2%2Fe3%2F22d2e33bc3d6b1092b1b51d92609847f7907b0739b1f334e6aa92b015cf23441.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AnthonySmith details a guide for optimizing NixOS to idle at approximately 96 megabytes of RAM and rebuild successfully within 512 megabytes. The configuration modifications address kernel parameters, boot modules, services, and memory management.</p><p>Key adjustments include disabling memory profiling, removing unused drivers, replacing systemd-resolved and timesyncd with lightweight alternatives, and tuning the Boehm GC used by Nix. Additionally, ZRAM configuration changes allow memory compression to handle low-RAM system rebuilds.</p>
+<p><small>Links: <a href="https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum">lowendspirit.com</a> | <a href="https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Tangled Releases Federated Code Forge Built on AT Protocol</h2>
 <a name="story-25981"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.tangled.network%2Fblog%2Fforge%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tangled has introduced a federated code forge built on the AT Protocol, enabling users to self-host components such as Git hosting, CI runners, or entire API servers while collaborating seamlessly across independent instances. The platform aims to decentralize code hosting by combining open protocols with a polished user experience and built-in hackability.</p><p>The latest release features a complete architectural overhaul, including a Svelte frontend, a global in-memory Rust indexer named bobbin, and a rewritten knot server that stores issues and pull requests as collaborative objects (COBs) directly inside Git repositories. Additional updates bring organization accounts, cryptographic two-way attestations, and native support for stacked pull requests.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25896"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceandpeople.co.uk%2Fwp-content%2Fuploads%2F2023%2F10%2FI-Do-Handmade-London-Waterloo-Station-2-1600x1067.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Handmade meetups in London provide opportunities for manual craft enthusiasts to connect. These gatherings have been occurring for over a year and are frequently announced in online community threads.</p><p>The meetups are organized by Handmade Cities. They serve as social infrastructure for the London crafting community.</p>
 <p><small>Links: <a href="https://lobste.rs/s/dsrruj/london_meetup">lobste.rs</a> | <a href="https://handmadecities.com/meetups/london/">source</a> | <a href="https://lobste.rs/s/dsrruj/london_meetup">discussion</a></small></p>
-<br clear="all" />
-
-<h2>H.264 Video Compression Explained</h2>
-<a name="story-25885"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ampltd.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fh264hd2000-function-diagram.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Used extensively in Blu-ray, mobile devices, and internet streaming, H.264 minimizes the bandwidth required for transmitting full-motion video.</p><p>The technology achieves significant data reduction through lossy compression methods such as quantization, chroma subsampling, and motion compensation. These techniques exploit spatial and temporal redundancies to lower file sizes compared to uncompressed video.</p>
-<p><small>Links: <a href="https://sidbala.com/h-264-is-magic/">sidbala.com</a> | <a href="https://news.ycombinator.com/item?id=50291054">hacker news</a></small></p>
 <br clear="all" />
 
 ---

@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <h2>TRM Labs Attributes Binance Crypto Theft to North Korea</h2>
 <p>Blockchain analysis firm TRM Labs has attributed the theft of approximately $6.36 billion from Binance to TraderTraitor, a North Korea-based hacking group. The attacker drained funds across ten blockchains, mostly within a span of about 20 minutes, marking the largest cryptocurrency theft on record.</p><p>The breach involved a compromise of Binance's hot wallet signing infrastructure, triggering widespread industry precautions such as asset freezes across decentralized finance markets like Aave and Arbitrum. Investigators and security researchers are actively tracing the stolen funds as the crypto sector grapples with the fallout from the massive exploit.</p>
 <p><small>Links: <a href="https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/">reuters.com</a> | <a href="https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history">source</a> | <a href="https://news.ycombinator.com/item?id=50300644">hacker news</a></small></p>
+<br clear="all" />
 
 <h2>Anthropic Identified as SpaceX&#x27;s Largest Customer by Revenue</h2>
 <a name="story-25865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkraneshares.com%2Fwp-content%2Fuploads%2F2026%2F05%2F2026_05_spacex_net_income-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
