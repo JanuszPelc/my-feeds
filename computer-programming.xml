@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T22:26:00+00:00</updated>
+  <updated>2026-10-31T01:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Windows Long Power Button Hold and a Windows 3.1 Black Screen Support Case</title>
+    <link href="https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/" rel="alternate" />
+    <id>https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/::v240</id>
+    <published>2026-10-31T01:02:00+00:00</published>
+    <updated>2026-10-31T01:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F2.bp.blogspot.com%2F-FifjZ4HEczc%2FUMomkn4r3lI%2FAAAAAAAAEJI%2FDuGFz_a5_pY%2Fs700%2FWin%2B3.1%2BPlasma%2BPower%2BSaver.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/">devblogs.microsoft.com</a> | <a href="https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they">discussion</a> | <a href="https://news.ycombinator.com/item?id=50300039">hacker news</a></small></p><hr/><p>Windows systems utilize "long power button hold" (LPBH) to facilitate hardware-level shutdowns; holding the power button for eight seconds triggers a kernel dump to assist in diagnostics. Failures resulting in a completely black screen are categorized as "black screen LPBH" for specialized analysis.</p><p>This mechanism provides context for a Windows 3.1 support case in which a user's screen appeared blank because every interface color—including text and backgrounds—was set to black. Such issues can be resolved by resetting the system colors via the `win.ini` file.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F2.bp.blogspot.com%2F-FifjZ4HEczc%2FUMomkn4r3lI%2FAAAAAAAAEJI%2FDuGFz_a5_pY%2Fs700%2FWin%2B3.1%2BPlasma%2BPower%2BSaver.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 04:36 UTC | #26014</small>]]></content>
+  </entry>
   <entry>
     <title>Guava Library Uses Perfect Hashing for Efficient Whitespace Detection</title>
     <link href="https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace" rel="alternate" />

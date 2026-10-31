@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Windows Long Power Button Hold and a Windows 3.1 Black Screen Support Case</h2>
+<a name="story-26014"><img src="https://wsrv.nl/?url=https%3A%2F%2F2.bp.blogspot.com%2F-FifjZ4HEczc%2FUMomkn4r3lI%2FAAAAAAAAEJI%2FDuGFz_a5_pY%2Fs700%2FWin%2B3.1%2BPlasma%2BPower%2BSaver.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Windows systems utilize "long power button hold" (LPBH) to facilitate hardware-level shutdowns; holding the power button for eight seconds triggers a kernel dump to assist in diagnostics. Failures resulting in a completely black screen are categorized as "black screen LPBH" for specialized analysis.</p><p>This mechanism provides context for a Windows 3.1 support case in which a user's screen appeared blank because every interface color—including text and backgrounds—was set to black. Such issues can be resolved by resetting the system colors via the `win.ini` file.</p>
+<p><small>Links: <a href="https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/">devblogs.microsoft.com</a> | <a href="https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they">discussion</a> | <a href="https://news.ycombinator.com/item?id=50300039">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Guava Library Uses Perfect Hashing for Efficient Whitespace Detection</h2>
 <a name="story-26010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fserce.me%2Fimages%2Fwhitespace%2Fwhitespace.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Identifying whitespace characters is complicated by varying definitions across programming runtimes and the evolving Unicode standard. While Unicode's White_Space property includes 25 specific characters, different environments like Java, Python, and JavaScript apply their own rules, often resulting in inconsistent detection across platforms.</p><p>Google's Guava library implements its whitespace matcher using a perfect hash function to optimize performance. This approach uses a mathematical multiplier and bit-shifting to map characters to a 32-element lookup table, providing an efficient way to verify matches without the computational cost of division.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25918"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2026%2F02%2Fnim-programming-language%2F698336565b79d-nim-programming-language-screenshot1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Nim programming language team has released version 2.4.0, a major stable update introducing several significant language and compiler features. Key additions include small-string optimization via `--strings:sso` for enhanced processing efficiency, support for parallel and incremental builds through `--ic:on`, and `--mm:yrc`, a new thread-safe cycle collection algorithm.</p><p>The release also adds more concise syntax for sum types, an experimental `owned` type modifier for static ownership tracking, and support for cyclic module dependencies using the `{.cyclic.}` pragma. Additionally, the team published version 2.2.14 as a maintenance patch for users choosing to stay on the previous stable branch.</p>
 <p><small>Links: <a href="https://nim-lang.org/blog/2026/10/28/nim-240.html">nim-lang.org</a> | <a href="https://lobste.rs/s/vfllme/nim_version_2_4_0_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50276055">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Misty De Méo Publishes Guide on Personal Web Archiving Tools</h2>
-<a name="story-25914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mistys-internet.website%2Fimages%2Fwebarchiving%2Fdomaincrawl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Web archivist and software engineer Misty De Méo advocates for personal web archiving, encouraging individuals to actively preserve their favorite online spaces using standard formats like WARC and WACZ rather than relying solely on large institutions.</p><p>The post highlights accessible tools such as the ArchiveWeb.page browser extension, the standalone application, and the Browsertrix web crawler, detailing how users can capture, replay, and share self-contained website backups.</p>
-<p><small>Links: <a href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/">blog.mistys-internet.website</a> | <a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up">discussion</a></small></p>
 <br clear="all" />
 
 ---
