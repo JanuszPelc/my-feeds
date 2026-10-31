@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Tinyworldformer Generates and Plays Games on Raspberry Pi Pico 2 W</h2>
+<a name="story-26003"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FSheepSeb%2Ftinyworldformer%2Fraw%2Fmain%2Fdocs%2Fmedia%2Fbanner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Two neural networks running on a Raspberry Pi Pico 2 W enable the simultaneous generation and gameplay of simple digital games. A "world model" predicts future game frames and rewards from current inputs, while an "actor" network selects actions based on those generated frames.</p><p>The system uses a "looped transformer" architecture, which reuses a single transformer block's weights across multiple passes to minimize memory usage. This method allows games like Breakout, Pong, and Flappy Bird to run on the microcontroller using int8 quantization.</p>
+<p><small>Links: <a href="https://github.com/SheepSeb/tinyworldformer">github.com</a> | <a href="https://news.ycombinator.com/item?id=50295450">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Shrinking NixOS RAM Footprint and Resource Requirements</h2>
 <a name="story-26002"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.defenestrate.it%2Fmedia%2F22%2Fd2%2Fe3%2F22d2e33bc3d6b1092b1b51d92609847f7907b0739b1f334e6aa92b015cf23441.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AnthonySmith details a guide for optimizing NixOS to idle at approximately 96 megabytes of RAM and rebuild successfully within 512 megabytes. The configuration modifications address kernel parameters, boot modules, services, and memory management.</p><p>Key adjustments include disabling memory profiling, removing unused drivers, replacing systemd-resolved and timesyncd with lightweight alternatives, and tuning the Boehm GC used by Nix. Additionally, ZRAM configuration changes allow memory compression to handle low-RAM system rebuilds.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25903"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.datocms-assets.com%2F85246%2F1709096644-2-principles-of-ohabricator-workflow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phorge is an open-source, community-driven platform for collaborating on and managing software development projects. It serves as a community-maintained fork of Phabricator, which has been unmaintained since June 2021 following the winding down of Phacility's operations.</p><p>The project provides tools for organizing development tasks, reviewing code, and engaging in community question-and-answer forums. Documentation is available to assist with installation, feature exploration, and contributing to the ongoing development of the platform.</p>
 <p><small>Links: <a href="https://www.phorge.it/">phorge.it</a> | <a href="https://lobste.rs/s/tw3rsp/phorge">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Handmade London Meetups</h2>
-<a name="story-25896"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceandpeople.co.uk%2Fwp-content%2Fuploads%2F2023%2F10%2FI-Do-Handmade-London-Waterloo-Station-2-1600x1067.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Handmade meetups in London provide opportunities for manual craft enthusiasts to connect. These gatherings have been occurring for over a year and are frequently announced in online community threads.</p><p>The meetups are organized by Handmade Cities. They serve as social infrastructure for the London crafting community.</p>
-<p><small>Links: <a href="https://lobste.rs/s/dsrruj/london_meetup">lobste.rs</a> | <a href="https://handmadecities.com/meetups/london/">source</a> | <a href="https://lobste.rs/s/dsrruj/london_meetup">discussion</a></small></p>
 <br clear="all" />
 
 ---
