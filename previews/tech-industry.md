@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Ollie AI Assistant to Shut Down on November 6</h2>
+<a name="story-25993"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2Follie-3.jpg%3Fresize%3D708&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ollie, a startup providing privacy-focused AI assistants, will shut down on November 6. CEO Bill Lennon announced the closure on X, noting that intensified competition from rivals like Muse and Instinct made it difficult to sustain growth and secure capital.</p><p>The company, which raised $7.5 million in seed funding led by Khosla Ventures, was notable for achieving SOC 2 privacy compliance. Ollie's subscription service integrated with email and calendars for tasks such as meal planning and appointment booking. Customers will receive instructions for data exports and refunds in the coming days.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/">techcrunch.com</a> | <a href="https://x.com/blennon_/status/2116224673709257048">source</a></small></p>
+<br clear="all" />
+
+<h2>OpenAI Limits Weapons-Related Information for Teens on ChatGPT</h2>
+<a name="story-26001"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adwaitx.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fopenai-teen-safety-blueprint-1068x601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI is tightening limits on the weapons-related information ChatGPT provides to teens, even when queries appear harmless, as part of a new violence prevention initiative. These safeguards include additional restrictions on how the AI describes mass attacks for users of all ages.</p><p>The company plans to end chat sessions that show a user fixating on violence and will begin publishing a Community Safety Report in early 2027. OpenAI reported making over 200 law enforcement referrals based on ChatGPT interactions during the third quarter of 2026.</p>
+<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/">reuters.com</a> | <a href="https://openai.com/index/community-safety-report-and-new-protections-for-teens/">source</a></small></p>
+<br clear="all" />
+
 <h2>Intel Shares Plunge 29% on Weak Guidance and PC Market Softness</h2>
 <a name="story-25985"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1UPzRk.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D77&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intel shares fell 29% on Friday, marking the company's worst single-day performance since the 1970s. The decline was driven by weaker-than-expected financial guidance, a manufacturing plant shutdown in Israel following an explosion, and prolonged weakness in the global PC market.</p><p>The sell-off reduced the value of the U.S. government's 10% stake in Intel by approximately $12 billion and Nvidia's stake by $6 billion. The volatility occurred amidst a broader technology sector sell-off, as investors expressed increasing concern regarding the long-term returns on massive capital expenditures for artificial intelligence infrastructure.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25904"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.kvue.com%2Fassets%2FKVUE%2Fimages%2F6292a1c8-9f25-45e0-a951-8fa58955598c%2F20260106T143508%2F6292a1c8-9f25-45e0-a951-8fa58955598c_1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Indian artificial intelligence infrastructure firm AM Intelligence is seeking to raise up to $3 billion in financing, including bonds and bank loans, to fund its large-scale orders for Nvidia Corp.'s next-generation chips. The capital raise highlights the massive debt financing accompanying the global expansion of AI data center infrastructure.</p><p>Founded by the leaders of renewable energy producer Greenko Group, AM Intelligence has previously committed billions to secure thousands of Nvidia Vera Rubin systems for planned AI factories in India and Malaysia. The company's heavy hardware investments reflect a broader trend of infrastructure developers leveraging debt to secure cutting-edge computing hardware amid high demand.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Amazon CEO Andy Jassy Says Third-Party AI Shopping Agents Are Not Yet Convenient</h2>
-<a name="story-25895"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bizclikmedia.net%2F1200%2F80ccae379cf78664762fcb968a5cd9f2%3A663630dc8b6be10d7d01d81dd473aca1%2Fandy-jassy-ceo-amazon.jpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon Chief Executive Andy Jassy told investors that third-party AI shopping agents, such as Meta’s Muse assistant, are not yet convenient enough to pose a major threat to traditional retail traffic. Speaking during a quarterly earnings call, Jassy stated that few consumers are currently using outside agents to make purchases because the experience falls short of visiting retailers directly.</p><p>The remarks follow Amazon’s decision to block Meta’s assistant from accessing its online store over policy violations, even as Meta reports rapid user growth and high shopping engagement across partner platforms. Meanwhile, Amazon continues to promote its own "Alexa for shopping" tool, which the company says has driven higher order values among hundreds of millions of users over the past year.</p>
-<p><small>Links: <a href="https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/">fortune.com</a> | <a href="https://ir.aboutamazon.com/events/event-details/2026/Q3-2026-Amazoncom-Inc-Earnings-Conference-Call/default.aspx">source</a></small></p>
-<br clear="all" />
-
-<h2>Pinterest Misses Q3 Revenue Estimates and Issues Lower Q4 Guidance</h2>
-<a name="story-25892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2023%2F10%2F04181554%2FPinterest-Q3-2023-earnings-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Pinterest reported third-quarter revenue of $1.17 billion, a 12% year-over-year increase that fell short of analyst estimates of $1.21 billion. Global monthly active users grew 10% to reach 661 million during the period.</p><p>The company's revenue guidance for the fourth quarter is lower than analyst expectations, contributing to a more than 8% decline in Pinterest shares during after-hours trading.</p>
-<p><small>Links: <a href="https://www.barrons.com/articles/pinterest-earnings-stock-price-ec2101b6">barrons.com</a> | <a href="https://investor.pinterestinc.com/news-and-events/press-releases/default.aspx">source</a></small></p>
 <br clear="all" />
 
 ---

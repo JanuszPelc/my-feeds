@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-31T01:06:00+00:00</updated>
+  <updated>2026-10-31T04:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>US DOJ Inquires About Nvidia's $12.9 Billion Hugging Face Acquisition</title>
+    <link href="https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/" rel="alternate" />
+    <id>https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/::v240</id>
+    <published>2026-10-31T04:05:00+00:00</published>
+    <updated>2026-10-31T04:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6a906df0a8a32784cdb5c100%2Fmaster%2Fw_2560%2Cc_limit%2FNvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50280732">hacker news</a></small></p><hr/><p>The US Department of Justice has inquired about Nvidia's $12.93 billion acquisition of Hugging Face to evaluate its potential impact on competition in the artificial intelligence market. Regulators are specifically investigating whether the deal would give Nvidia control over a key distribution point for AI models.</p><p>This inquiry is part of a broader probe into Nvidia's business conduct, covering its investments, sales practices, and potential pressure exerted on customers. The investigation seeks to determine if the company's market dominance is being used to disadvantage competitors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6a906df0a8a32784cdb5c100%2Fmaster%2Fw_2560%2Cc_limit%2FNvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 06:09 UTC | #25760</small>]]></content>
+  </entry>
   <entry>
     <title>Binance Sets Aside $6.34 Billion to Cover Hack Losses</title>
     <link href="https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/" rel="alternate" />

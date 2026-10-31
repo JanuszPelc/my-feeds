@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-30T22:32:00+00:00</updated>
+  <updated>2026-10-30T22:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Ollie AI Assistant to Shut Down on November 6</title>
+    <link href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/::v240</id>
+    <published>2026-10-30T22:57:00+00:00</published>
+    <updated>2026-10-30T22:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2Follie-3.jpg%3Fresize%3D708&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/">techcrunch.com</a> | <a href="https://x.com/blennon_/status/2116224673709257048">source</a></small></p><hr/><p>Ollie, a startup providing privacy-focused AI assistants, will shut down on November 6. CEO Bill Lennon announced the closure on X, noting that intensified competition from rivals like Muse and Instinct made it difficult to sustain growth and secure capital.</p><p>The company, which raised $7.5 million in seed funding led by Khosla Ventures, was notable for achieving SOC 2 privacy compliance. Ollie's subscription service integrated with email and calendars for tasks such as meal planning and appointment booking. Customers will receive instructions for data exports and refunds in the coming days.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2Follie-3.jpg%3Fresize%3D708&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 04:01 UTC | #25993</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Limits Weapons-Related Information for Teens on ChatGPT</title>
+    <link href="https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/" rel="alternate" />
+    <id>https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/::v240</id>
+    <published>2026-10-30T22:33:00+00:00</published>
+    <updated>2026-10-30T22:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.adwaitx.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fopenai-teen-safety-blueprint-1068x601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/">reuters.com</a> | <a href="https://openai.com/index/community-safety-report-and-new-protections-for-teens/">source</a></small></p><hr/><p>OpenAI is tightening limits on the weapons-related information ChatGPT provides to teens, even when queries appear harmless, as part of a new violence prevention initiative. These safeguards include additional restrictions on how the AI describes mass attacks for users of all ages.</p><p>The company plans to end chat sessions that show a user fixating on violence and will begin publishing a Community Safety Report in early 2027. OpenAI reported making over 200 law enforcement referrals based on ChatGPT interactions during the third quarter of 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adwaitx.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fopenai-teen-safety-blueprint-1068x601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 03:59 UTC | #26001</small>]]></content>
+  </entry>
   <entry>
     <title>Intel Shares Plunge 29% on Weak Guidance and PC Market Softness</title>
     <link href="https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html" rel="alternate" />

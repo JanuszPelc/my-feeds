@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>US DOJ Inquires About Nvidia&#x27;s $12.9 Billion Hugging Face Acquisition</h2>
+<a name="story-25760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6a906df0a8a32784cdb5c100%2Fmaster%2Fw_2560%2Cc_limit%2FNvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The US Department of Justice has inquired about Nvidia's $12.93 billion acquisition of Hugging Face to evaluate its potential impact on competition in the artificial intelligence market. Regulators are specifically investigating whether the deal would give Nvidia control over a key distribution point for AI models.</p><p>This inquiry is part of a broader probe into Nvidia's business conduct, covering its investments, sales practices, and potential pressure exerted on customers. The investigation seeks to determine if the company's market dominance is being used to disadvantage competitors.</p>
+<p><small>Links: <a href="https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50280732">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Binance Sets Aside $6.34 Billion to Cover Hack Losses</h2>
 <a name="story-25951"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-qwen_generated_1769449161350.jpg.png%3Fformat%3Dwebp%26width%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance has reserved more than $6.34 billion in company funds to restore customer balances and address the fallout from a major security breach. The exchange stated that the allocation is designed to fully cover the estimated losses resulting from the incident.</p><p>Of the total amount, approximately $5 billion is already held in the specific token assets affected by the attack, while the remaining balance is being acquired through open market and over-the-counter transactions. The measure follows the platform's earlier commitments to secure affected user funds and stabilize operations following the theft.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25885"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ampltd.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fh264hd2000-function-diagram.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Used extensively in Blu-ray, mobile devices, and internet streaming, H.264 minimizes the bandwidth required for transmitting full-motion video.</p><p>The technology achieves significant data reduction through lossy compression methods such as quantization, chroma subsampling, and motion compensation. These techniques exploit spatial and temporal redundancies to lower file sizes compared to uncompressed video.</p>
 <p><small>Links: <a href="https://sidbala.com/h-264-is-magic/">sidbala.com</a> | <a href="https://news.ycombinator.com/item?id=50291054">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Phorion Discovers Persistent SSH Backdoor in Official Claude Code Extension</h2>
-<a name="story-25960"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcoinedition.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmagnific_alibaba-to-ban-claude-cod_74x4rjnJAL.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Phorion identified a supply-chain compromise affecting version 2.1.313 of the official Claude Code for VS Code extension distributed on the Cursor Marketplace. The malicious extension bundle executes an injected script upon loading that installs an attacker-controlled Ed25519 public key into authorized_keys, initiates a persistent reverse SSH tunnel, and transmits host reconnaissance data.</p><p>The cross-platform implant targets macOS, Linux, and Windows systems, though researchers identified several implementation flaws, including a macOS check failure that can disrupt inbound access if Remote Login is disabled. Following the discovery, marketplaces removed the malicious build, prompting recommendations for organizations to audit environments for the affected version and initiate incident response procedures.</p>
-<p><small>Links: <a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/">phorion.io</a> | <a href="https://news.ycombinator.com/item?id=50300683">hacker news</a></small></p>
 <br clear="all" />
 
 ---
