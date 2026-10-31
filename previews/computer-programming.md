@@ -8,10 +8,34 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Clojure/Conj 2026 Video Playlist Available</h2>
+<a name="story-26026"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2F5RIKz6bDYjMTYsSsFgPNd6YhyI.jpg%3Fwidth%3D1264%26height%3D841&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Clojure/Conj 2026 video playlist provides recorded presentations and talks from the annual conference held from September 30 to October 2, 2026, at the Charlotte Convention Center in North Carolina. Organized as the premier gathering for the global Clojure community, the event featured workshops, technical sessions, and insights into ecosystem developments.</p><p>Marking the 16th edition of the long-running conference, the event brought together developers and organizations utilizing the Clojure programming language. The published recordings offer open access to the technical talks and community sessions for participants and remote attendees following the hybrid event.</p>
+<p><small>Links: <a href="https://www.youtube.com/playlist?list=PLAkHRk3lgU_Q">youtube.com</a> | <a href="https://2026.clojure-conj.org/">source</a> | <a href="https://lobste.rs/s/wd4ye5/clojure_conj_2026">discussion</a></small></p>
+<br clear="all" />
+
+<h2>Wack Launches SLCR Open Format for Agent-Native Requirements</h2>
+<a name="story-26036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcodex.danielvaughan.com%2Fsketchnotes%2Farticles%2F2026-05-08-agent-native-infrastructure-karpathy-software-3-codex-cli-requirements-mapping.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Wack has launched SLCR (Sliceable, Linked, Checkable Requirements), an open-source specification format designed to help coding agents adhere to project specifications. The tool was developed to address the common issue of autonomous agents drifting from software requirements over time in long-lived codebases.</p><p>The open-source project includes a reference command-line interface, a getting-started tutorial, and an agent skill that trains agents to read and write requirements in YAML, JSON, or TOML. Hosted on GitHub, the format allows developers to structure requirements as a linked graph with validators attached to acceptance criteria.</p>
+<p><small>Links: <a href="https://slcr.dev/announcements#2026-10-29-slcr-launches">slcr.dev</a> | <a href="https://lobste.rs/s/nexvnc/open_format_for_writing_agent_native">discussion</a></small></p>
+<br clear="all" />
+
+<h2>Nesformer Compiles Nintendo Entertainment System CPU Into Qwen3.5 Model Weights</h2>
+<a name="story-26025"><img src="https://wsrv.nl/?url=https%3A%2F%2Fusbnes.com%2Fwp-content%2Fuploads%2F2022%2F10%2F02-04-2006-084104AM-1024x627.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Drew Breunig has released Nesformer, a project that compiles a complete Nintendo Entertainment System (NES) 6502 CPU, 2 KB of RAM, and cartridge program ROM directly into the weights of a stock Qwen3.5 language model. Rather than being trained via machine learning, every parameter and state matrix is computed by a compiler, allowing the model to play games like Super Mario Bros. by predicting CPU execution tokens one at a time.</p><p>Building upon previous work like Qwenputer, Nesformer utilizes the model's Gated DeltaNet state matrices to function as the machine's memory while a host program handles peripheral tasks such as scanline rendering and controller input. While running significantly slower than real hardware—taking several seconds per frame—the system successfully executes NROM-compatible ROMs and achieves execution traces identical to conventional 6502 emulators.</p>
+<p><small>Links: <a href="https://github.com/dbreunig/nesformer">github.com</a> | <a href="https://news.ycombinator.com/item?id=50306442">hacker news</a></small></p>
+<br clear="all" />
+
+<h2>Florilegium LuaLaTeX Package Generates Procedural Delft-Blue Floral Margins</h2>
+<a name="story-26024"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0737%2F5804%2F8501%2Ffiles%2F91YgOzDR57L.jpg%3Fv%3D1745062358&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Florilegium is an open-source LuaLaTeX package developed by Kevin Raymond that procedurally generates Delft-blue floral page margins directly into PDFs without external image assets. Utilizing hand-authored primitives and a greedy space-filling growth algorithm computed in Lua, the software creates unique botanical layouts, seasonal progressions, and visitors such as birds and insects for every page.</p><p>The project supports customizable color palettes, text-responsive features like section headings and drop initials, and alternate themes including geometric shapes and mathematical figures. Additionally, it includes a standalone PostScript port capable of rendering the gardens without TeX.</p>
+<p><small>Links: <a href="https://github.com/kevinraymond/florilegium">github.com</a> | <a href="https://news.ycombinator.com/item?id=50305637">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Analysis of Switch Statement Lowering in GCC</h2>
 <a name="story-26019"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.123microcontroller.com%2Fassets%2Fimages%2Fc-jump-tables-switch-optimization-diagram.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GCC implements `switch` statements using several distinct strategies depending on the distribution and density of case labels. For dense integer values, the compiler typically generates jump tables for efficient dispatching. When case values are sparse, GCC often utilizes a decision tree composed of comparison instructions, and in some instances, uses bitset-based tests for specific bit patterns.</p><p>The compiler employs specific heuristics to decide between these methods, such as evaluating the profitability of a jump table based on the number of required comparisons versus table size. Implementation details within the `pass_lower_switch` pass reveal that GCC uses dynamic programming to optimize bitset clusters and analyzes case ranges to determine the most efficient machine code.</p>
-<p><small>Links: <a href="https://xoranth.net/gcc-switch/">xoranth.net</a> | <a href="https://lobste.rs/s/ncclwy/switch_lowering_gcc">discussion</a></small></p>
+<p><small>Links: <a href="https://xoranth.net/gcc-switch/">xoranth.net</a> | <a href="https://lobste.rs/s/ncclwy/switch_lowering_gcc">discussion</a> | <a href="https://news.ycombinator.com/item?id=50314085">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Windows Long Power Button Hold and a Windows 3.1 Black Screen Support Case</h2>
@@ -72,30 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25950"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F07%2Fscreenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Herdr is a desktop application designed for managing terminal sessions and coding agents across local and remote machines. It organizes workflows into spaces, tabs, and split panes while maintaining continuous background execution even when the application window is closed.</p><p>The application features a dedicated agent sidebar that tracks the status of workers, supports customizable layouts and JavaScript-based modifications, and provides command-line controls for agent integration and automation. Installation packages are available for Linux, macOS, and Windows.</p>
 <p><small>Links: <a href="https://github.com/herdrdev/herdr-app">github.com</a> | <a href="https://news.ycombinator.com/item?id=50298436">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Jeff Johnson Criticizes Apple Over Touch Screen MacBook Pro Design</h2>
-<a name="story-25927"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.techeblog.com%2Fwp-content%2Fuploads%2F2025%2F09%2F17134856%2Fapple-oled-touchscreen-macbook-pro-news-leak-770x515.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Jeff Johnson criticizes Apple's decision to introduce touch screens to MacBook Pro models, arguing that traditional keyboards and indirect pointing devices provide superior power and productivity for computing tasks.</p><p>Responding to Apple's justification that younger users accustomed to smartphones expect touch displays, Johnson contends that users can easily adapt to traditional interfaces and that prioritizing familiarity over functionality leads to reduced user capability.</p>
-<p><small>Links: <a href="https://lapcatsoftware.com/articles/2026/10/10.html">lapcatsoftware.com</a> | <a href="https://lobste.rs/s/qqelq1/design_interface_for_functionality_not">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Curl Accidentally Turing-Complete for Nine Months</h2>
-<a name="story-25923"><img src="https://wsrv.nl/?url=https%3A%2F%2Fseriot.ch%2Fresources%2Fcurl_config.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Between versions 8.12 and 8.16, the command-line data transfer tool curl possessed features that made it accidentally Turing-complete under unbounded resource assumptions. Config files could slice variable values and recursively include other files without an explicit depth cap, enabling the utility to simulate any two-counter Minsky program.</p><p>Release 8.17.0 introduced a five-level include cap that broke this reduction by restricting file inclusion depth. Although real-world physical constraints such as stack limits and memory allocation restricted execution depth in practice, the behavior illustrated how unexpected computational capabilities can emerge from configuration parsers.</p>
-<p><small>Links: <a href="https://seriot.ch/computation/curl.html">seriot.ch</a> | <a href="https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing">discussion</a> | <a href="https://news.ycombinator.com/item?id=50300011">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Pidgin 3.0 Alpha 4 Released with Version 2.98.0</h2>
-<a name="story-25922"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcanada1.discourse-cdn.com%2Fflex007%2Fuploads%2Fimfreedom%2Foptimized%2F1X%2F248e6940c2d0e9bfba479c1fd0fe45e0af4e1478_2_690x345.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Pidgin development team has released the fourth alpha version of Pidgin 3.0, officially numbered as version 2.98.0. This experimental release is intended for developers and testers, featuring a series of user interface refinements, searchable preferences, and a default avatar fallback.</p><p>Key additions include support for post-connection IRCv3 commands and a new protocol plugin for the soju IRC bouncer to automatically discover and map bouncer networks as IRCv3 accounts. While not yet recommended for end users or distribution packaging, the project has also laid groundwork for handling conversation threads, spaces, and collections in future releases.</p>
-<p><small>Links: <a href="https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445">discourse.imfreedom.org</a> | <a href="https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50299712">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Overview of PDP Computers History and Evolution</h2>
-<a name="story-25920"><img src="https://wsrv.nl/?url=https%3A%2F%2Fentropicthoughts.com%2Fimage%2Fhistory-of-pdp-computers.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An overview examines the history, speed, pricing, and architectural evolution of Digital Equipment Corporation's PDP computers from the introduction of the PDP-1 through the VAX series. The timeline illustrates how different hardware lines branched out to serve experimental, industrial control, and time-sharing markets.</p><p>Hardware constraints heavily influenced early hacker culture and software design. Resource-constrained smaller systems like the PDP-7 and PDP-11 shaped the development of Unix, C, and minimalist utilities, while resource-rich larger systems like the PDP-10 supported large Lisp programs, Emacs, and early interactive games.</p>
-<p><small>Links: <a href="https://entropicthoughts.com/history-of-pdp-computers">entropicthoughts.com</a> | <a href="https://lobste.rs/s/ldvd3n/extremely_brief_history_pdp_computers">discussion</a></small></p>
 <br clear="all" />
 
 ---

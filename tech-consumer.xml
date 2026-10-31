@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-31T01:23:00+00:00</updated>
+  <updated>2026-10-31T04:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple CEO John Ternus Discusses Continuity and Product Strategy in Interview</title>
+    <link href="https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/" rel="alternate" />
+    <id>https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/::v240</id>
+    <published>2026-10-31T04:31:00+00:00</published>
+    <updated>2026-10-31T04:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvfuturemedia.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fapple-ceo-transition-tim-cook-john-ternus-2026.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/">wired.com</a></small></p><hr/><p>Following his appointment as Apple’s chief executive officer, longtime hardware executive John Ternus emphasized a strategy centered on product continuity and internal collaboration rather than sweeping organizational restructuring. Having succeeded Tim Cook, Ternus highlighted his deep roots at the company and his commitment to maintaining Apple's core design and engineering culture.</p><p>During the discussion, Ternus addressed the company's approach to artificial intelligence, asserting that Apple aims to organically integrate AI into secure and safe user experiences rather than pursuing technology for its own sake. While acknowledging the expanded responsibilities of running a major corporation, including high-level policy and services, Ternus reaffirmed that his primary passion remains deeply tied to hardware development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvfuturemedia.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fapple-ceo-transition-tim-cook-john-ternus-2026.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 15:02 UTC | #26015</small>]]></content>
+  </entry>
   <entry>
     <title>Reflections on Patrick Stewart's Portrayal of Captain Jean-Luc Picard</title>
     <link href="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/" rel="alternate" />
