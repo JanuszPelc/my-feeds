@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Vitalik Buterin Advocates Digital Minimalism</h2>
+<a name="story-26056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.elconfidencialdigital.com%2Fasset%2Fthumbnail%2C1280%2C720%2Ccenter%2Ccenter%2Fmedia%2Felconfidencialdigital%2Fimages%2F2025%2F11%2F24%2F2025112415220450991.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ethereum co-founder Vitalik Buterin has published an essay advocating for "digital minimalism," arguing that users should intentionally reduce their dependence on social media, mobile internet, and complex web interfaces. Citing increasing toxicity and declining informational value on platforms like X, Buterin outlines personal experiments aimed at regaining control over digital consumption.</p><p>The proposed strategies include using aggregators like Firefly to manage multiple social networks, keeping phones in airplane mode for extended periods, and leveraging command-line tools and artificial intelligence to interact with the web. Buterin contends that recent advances in software quality and AI make such local, offline, and controllable tools both feasible and necessary for modern digital self-sovereignty.</p>
+<p><small>Links: <a href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html">vitalik.eth.limo</a> | <a href="https://news.ycombinator.com/item?id=50313661">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Jepsen Publishes Safety Analysis of ParticleDB 1.1.4</h2>
 <a name="story-26040"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wasilzafar.com%2Fimages%2Fseries%2Fdatabase-mastery%2Fisolation-levels-spectrum-anomalies.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kyle Kingsbury’s Jepsen analysis of ParticleDB versions 1.1.4 through 1.1.18.11.rc-22 identified 96 issues in the multi-model database designed for AI workloads. The discovered bugs ranged from basic crashes, deadlocks, and data loss to complex SQL correctness errors, confused columns, and data type transformations.</p><p>The evaluation found that most flaws manifested under normal single-server operations without external faults. While subsequent pre-releases resolved the vast majority of these bugs, the default optimistic concurrency control mode continued to experience data loss on committed writes, and the strictest serializable settings still allowed concurrency anomalies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25979"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fblog%2Fwp-content%2Fuploads%2F2026%2F05%2Fimage-172.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Shane Friedman details his experience attempting to publish an npm package named "estee" as a short nickname for an audiobook alignment tool, only to be blocked by the registry's automated similarity checks. The system flagged the name as too similar to existing packages like "testem" and "espree" based on a Levenshtein distance threshold.</p><p>The author analyzes the mathematical scaling issues of applying a flat Levenshtein distance threshold to short string lengths, which drastically restricts available namespaces and flags unrelated names such as "hoid." Although npm support confirmed that automated typosquatting blocks cannot be bypassed, the incident highlights the ongoing challenge of balancing security against malicious squatting with accommodating legitimate short package names.</p>
 <p><small>Links: <a href="https://smoores.dev/post/no_npm_estee_is_not_a_typo/">smoores.dev</a> | <a href="https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Caius Shares Weekend Plans and Progress on GNOME Launcher Project</h2>
-<a name="story-25964"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F05%2Ffedora-36-gnome.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer caius shares their weekend plans involving an open source Halloween-themed LAN party and attending the C2C festival, interspersed with coding, video games, and walks. They also provide an update on their custom GNOME launcher project hosted on Codeberg, noting that it is nearly complete aside from refining filtering with nucleo-matcher and integrating systemd transient units via D-Bus.</p><p>In addition to the project update, caius raises a side question regarding performance issues when pushing and pulling via SSH on Codeberg. The post invites community engagement around personal weekend activities and technical workflows.</p>
-<p><small>Links: <a href="https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend">discussion</a></small></p>
 <br clear="all" />
 
 ---

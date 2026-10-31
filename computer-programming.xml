@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Vitalik Buterin Advocates Digital Minimalism</title>
+    <link href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html" rel="alternate" />
+    <id>https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html::v240</id>
+    <published>2026-10-31T13:48:00+00:00</published>
+    <updated>2026-10-31T13:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.elconfidencialdigital.com%2Fasset%2Fthumbnail%2C1280%2C720%2Ccenter%2Ccenter%2Fmedia%2Felconfidencialdigital%2Fimages%2F2025%2F11%2F24%2F2025112415220450991.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html">vitalik.eth.limo</a> | <a href="https://news.ycombinator.com/item?id=50313661">hacker news</a></small></p><hr/><p>Ethereum co-founder Vitalik Buterin has published an essay advocating for "digital minimalism," arguing that users should intentionally reduce their dependence on social media, mobile internet, and complex web interfaces. Citing increasing toxicity and declining informational value on platforms like X, Buterin outlines personal experiments aimed at regaining control over digital consumption.</p><p>The proposed strategies include using aggregators like Firefly to manage multiple social networks, keeping phones in airplane mode for extended periods, and leveraging command-line tools and artificial intelligence to interact with the web. Buterin contends that recent advances in software quality and AI make such local, offline, and controllable tools both feasible and necessary for modern digital self-sovereignty.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.elconfidencialdigital.com%2Fasset%2Fthumbnail%2C1280%2C720%2Ccenter%2Ccenter%2Fmedia%2Felconfidencialdigital%2Fimages%2F2025%2F11%2F24%2F2025112415220450991.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 17:53 UTC | #26056</small>]]></content>
+  </entry>
+  <entry>
     <title>Jepsen Publishes Safety Analysis of ParticleDB 1.1.4</title>
     <link href="https://jepsen.io/analyses/particledb-1.1.4" rel="alternate" />
     <id>https://jepsen.io/analyses/particledb-1.1.4::v240</id>
