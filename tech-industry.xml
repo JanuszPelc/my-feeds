@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-30T22:29:00+00:00</updated>
+  <updated>2026-10-30T22:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Intel Shares Plunge 29% on Weak Guidance and PC Market Softness</title>
+    <link href="https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html::v240</id>
+    <published>2026-10-30T22:32:00+00:00</published>
+    <updated>2026-10-30T22:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1UPzRk.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D77&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html">cnbc.com</a> | <a href="https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-reports-third-quarter-2026-financial-results.html">source</a></small></p><hr/><p>Intel shares fell 29% on Friday, marking the company's worst single-day performance since the 1970s. The decline was driven by weaker-than-expected financial guidance, a manufacturing plant shutdown in Israel following an explosion, and prolonged weakness in the global PC market.</p><p>The sell-off reduced the value of the U.S. government's 10% stake in Intel by approximately $12 billion and Nvidia's stake by $6 billion. The volatility occurred amidst a broader technology sector sell-off, as investors expressed increasing concern regarding the long-term returns on massive capital expenditures for artificial intelligence infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1UPzRk.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D77&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 03:39 UTC | #25985</small>]]></content>
+  </entry>
   <entry>
     <title>Blackstone Expects Anthropic to Receive High Junk Credit Rating Following IPO</title>
     <link href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/" rel="alternate" />

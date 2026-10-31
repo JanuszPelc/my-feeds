@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Reddit Shares Fall 29% Following Weak Q4 Sales Outlook</h2>
+<a name="story-25986"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FReddit-Total-Revenue_2026-01-06-033519_zojl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Reddit shares fell 29.22% on Friday, the company's largest single-day drop since its 2024 IPO, following a weak sales forecast. The company projected fourth-quarter sales between $1 billion and $1.03 billion, falling below the $1.05 billion anticipated by analysts.</p><p>CEO Steve Huffman attributed a decline in search-referral traffic to the rise of Google's AI Overviews. To combat these shifts in traffic and improve user monetization, Reddit announced plans to test a requirement for users to log in to access content.</p>
+<p><small>Links: <a href="https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html">cnbc.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Big Tech Companies Return Smallest Share of Cash to Shareholders in 15 Years</h2>
 <a name="story-25989"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft, Alphabet, Amazon, Meta, and Oracle distributed only 9.3% of their generated cash to shareholders in the first three quarters of 2026. This proportion is the lowest in 15 years, occurring even as these companies reached record cash generation levels.</p><p>The drop from 27.4% in 2025 is driven by heavy capital expenditures on artificial intelligence infrastructure. Although operating cash flow rose 29% to $542.9 billion, the intense AI spending cycle has significantly reduced the cash available for dividends and buybacks.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25846"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmq4D.img%3Fw%3D4206%26h%3D2804%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SuperMe, a startup that builds AI-simulated profiles from real-world expertise, has raised $20 million in a funding round led by Forerunner with participation from Greylock Partners. The platform enables users to ask questions and receive responses through group chats featuring specialized AI personas.</p><p>The service generates its knowledge base by scanning public sources like LinkedIn and YouTube and by integrating with apps such as Google Drive and Notion. While currently free, the company plans to introduce question limits and monetization as it scales its technical and networking teams.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/">techcrunch.com</a></small></p>
-<br clear="all" />
-
-<h2>Sebastian Thrun’s Startup Dulo Raises $130 Million for AI Engineering</h2>
-<a name="story-25841"><img src="https://wsrv.nl/?url=https%3A%2F%2Fexplorers.com%2Fwp-content%2Fuploads%2F2025%2F04%2FSebastian_Thrun_by_Christopher_Michel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sebastian Thrun, a computer scientist and Google veteran, has co-founded Dulo to develop foundation models for hardware design. The startup has secured $130 million in seed funding to advance its AI-driven engineering tools.</p><p>Co-founded with Adrian Aoun, Dulo's investment round includes Eric Schmidt, John Doerr, DST Global, Construct Capital, and Lowercarbon Capital. The company aims to apply AI expertise to the hardware design and manufacturing sectors.</p>
-<p><small>Links: <a href="https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo">theinformation.com</a></small></p>
 <br clear="all" />
 
 ---
