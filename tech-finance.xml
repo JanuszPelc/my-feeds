@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-30T18:56:00+00:00</updated>
+  <updated>2026-10-30T19:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Salesforce Acquires Rune Technologies for $375 Million</title>
+    <link href="https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/" rel="alternate" />
+    <id>https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/::v240</id>
+    <published>2026-10-30T19:02:00+00:00</published>
+    <updated>2026-10-30T19:02:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/">resiliencemedia.co</a> | <a href="https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/">source</a></small></p><hr/><p>Salesforce is acquiring defense technology startup Rune Technologies for $375 million in a combination of cash and shares. Rune develops AI-driven software, including the TyrOS platform, designed to optimize military logistics and supply chain operations for frontline units.</p><p>The acquisition is intended to expand Salesforce's Missionforce AI platform from back-office administrative and strategic planning into tactical edge operations. This move follows a series of large acquisitions by Salesforce and highlights the company's growing investment in the defense technology market.</p><hr/><small>31 Oct 2026, 01:41 UTC | #25990</small>]]></content>
+  </entry>
   <entry>
     <title>Salesforce to Acquire Rune Technologies for Defense Portfolio</title>
     <link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/29/salesforce-rune-defense" rel="alternate" />

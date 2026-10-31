@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Salesforce Acquires Rune Technologies for $375 Million</h2>
+<p>Salesforce is acquiring defense technology startup Rune Technologies for $375 million in a combination of cash and shares. Rune develops AI-driven software, including the TyrOS platform, designed to optimize military logistics and supply chain operations for frontline units.</p><p>The acquisition is intended to expand Salesforce's Missionforce AI platform from back-office administrative and strategic planning into tactical edge operations. This move follows a series of large acquisitions by Salesforce and highlights the company's growing investment in the defense technology market.</p>
+<p><small>Links: <a href="https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/">resiliencemedia.co</a> | <a href="https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/">source</a></small></p>
+<br clear="all" />
+
 <h2>Salesforce to Acquire Rune Technologies for Defense Portfolio</h2>
 <a name="story-25970"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tectonicdefense.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frunetyros.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Salesforce has signed a definitive agreement to acquire Rune Technologies, a defense technology provider specializing in military logistics and sustainment software and hardware. The acquisition aims to bolster Salesforce's national security-focused Missionforce unit, which targets government and defense clients.</p><p>Rune's artificial intelligence tools are already utilized by the U.S. Army and Marine Corps to forecast supply needs and optimize resources in low-connectivity combat environments. Financial terms of the transaction were not publicly disclosed as the company integrates the defense startup into its federal operations.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25842"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxtb.scdn5.secure.raxcdn.com%2Fdefault%2F0103%2F85%2FAlphabet_b485bd16ca.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Inc. has disclosed more than $1 trillion in purchase commitments, future leases, and other obligations in its third-quarter financial filing. Contingent commitments rose to $98.5 billion, representing an increase of approximately $23 billion from the second quarter.</p><p>This growth is driven by rising demand for Alphabet's cloud services, which has expanded the company's backlog of unfulfilled contracts. The total obligations include approximately $924 billion in future purchase commitments and $152 billion in pre-commencement leases and other obligations.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows">bloomberg.com</a> | <a href="https://abc.xyz/investor/sec-filings/default.aspx">source</a></small></p>
-<br clear="all" />
-
-<h2>Cohere Completes First Close of Funding Round at $20.5 Billion Valuation</h2>
-<a name="story-25836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.taptwicedigital.com%2Fblog-images%2Fcohere%2Fcohere-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cohere Inc. has completed the first close of a funding round expected to reach $5 billion, valuing the artificial intelligence model maker at $20.5 billion. This valuation is approximately three times higher than the company's valuation from one year ago.</p><p>The financing includes backing from Nvidia and the Canadian government, which has committed to investing up to $1.14 billion. The capital is part of a larger effort to support the company's ongoing development in the AI sector.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---
