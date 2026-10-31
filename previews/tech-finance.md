@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Baseten Set for $30 Billion Valuation in New Funding</h2>
+<a name="story-26004"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F06%2F18110400%2Fhttps-www-citybiz-co-wp-content-uploads-2026-06-baseten-jpg-800x420.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence infrastructure startup Baseten is reportedly raising approximately $2 billion across two funding tranches, which would value the company at up to $30 billion. According to individuals familiar with the matter, the capital raise features valuations split into $26 billion and $30 billion tiers.</p><p>This potential valuation marks a rapid escalation for the firm, which was valued at $13 billion following a $1.5 billion funding round in June 2026. Baseten operates in the AI inference sector, providing serverless backend infrastructure to power machine learning models at scale for corporate clients.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>Reddit Shares Fall 29% Following Weak Q4 Sales Outlook</h2>
 <a name="story-25986"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FReddit-Total-Revenue_2026-01-06-033519_zojl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reddit shares fell 29.22% on Friday, the company's largest single-day drop since its 2024 IPO, following a weak sales forecast. The company projected fourth-quarter sales between $1 billion and $1.03 billion, falling below the $1.05 billion anticipated by analysts.</p><p>CEO Steve Huffman attributed a decline in search-referral traffic to the rise of Google's AI Overviews. To combat these shifts in traffic and improve user monetization, Reddit announced plans to test a requirement for users to log in to access content.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbarchart-news-media-prod.aws.barchart.com%2FEXCLSV%2F525ebb3badc62fe307c08bdce0c76fa6%2F0ddn9zwophyzld8j.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
 <p><small>Links: <a href="https://www.businesswire.com/news/home/20261028373648/en/">businesswire.com</a> | <a href="https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">source</a></small></p>
-<br clear="all" />
-
-<h2>SuperMe Raises $20M for AI Expert Profile Network</h2>
-<a name="story-25846"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmq4D.img%3Fw%3D4206%26h%3D2804%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SuperMe, a startup that builds AI-simulated profiles from real-world expertise, has raised $20 million in a funding round led by Forerunner with participation from Greylock Partners. The platform enables users to ask questions and receive responses through group chats featuring specialized AI personas.</p><p>The service generates its knowledge base by scanning public sources like LinkedIn and YouTube and by integrating with apps such as Google Drive and Notion. While currently free, the company plans to introduce question limits and monetization as it scales its technical and networking teams.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/">techcrunch.com</a></small></p>
 <br clear="all" />
 
 ---

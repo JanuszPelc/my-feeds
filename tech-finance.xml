@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-30T22:31:00+00:00</updated>
+  <updated>2026-10-31T01:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Baseten Set for $30 Billion Valuation in New Funding</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding::v240</id>
+    <published>2026-10-31T01:24:00+00:00</published>
+    <updated>2026-10-31T01:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F06%2F18110400%2Fhttps-www-citybiz-co-wp-content-uploads-2026-06-baseten-jpg-800x420.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding">bloomberg.com</a></small></p><hr/><p>Artificial intelligence infrastructure startup Baseten is reportedly raising approximately $2 billion across two funding tranches, which would value the company at up to $30 billion. According to individuals familiar with the matter, the capital raise features valuations split into $26 billion and $30 billion tiers.</p><p>This potential valuation marks a rapid escalation for the firm, which was valued at $13 billion following a $1.5 billion funding round in June 2026. Baseten operates in the AI inference sector, providing serverless backend infrastructure to power machine learning models at scale for corporate clients.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F06%2F18110400%2Fhttps-www-citybiz-co-wp-content-uploads-2026-06-baseten-jpg-800x420.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 07:22 UTC | #26004</small>]]></content>
+  </entry>
   <entry>
     <title>Reddit Shares Fall 29% Following Weak Q4 Sales Outlook</title>
     <link href="https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html" rel="alternate" />
