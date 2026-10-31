@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Last-minute Halloween costumes for tech enthusiasts</h2>
+<a name="story-25996"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresizer.ladbiblegroup.com%2Fogimage%2Fv3%2Fassets%2Fbltb5d92757ac1ee045%2Fbltb14c0aac2b5510a1%2F69f361084a7c3145a7a51463%2Fbryan_johnson_kate_oral_sex_.png%3Fcrop%3D1200%2C675%2Cx0%2Cy0&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Current technology trends and industry figures inspire several low-effort Halloween costume ideas for enthusiasts. These suggestions provide last-minute options for those celebrating in the tech community.</p><p>Themes include Meta and OpenAI AI agents, Mark Zuckerberg’s clothing style, Claude usage limit notifications, and PHP vulnerabilities. Costumes based on biohacker Bryan Johnson are also suggested.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/">techcrunch.com</a></small></p>
+<br clear="all" />
+
 <h2>Zest Introduces Text-Based AI Concierge for Restaurant Discovery and Reservations</h2>
 <a name="story-25971"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fzest-reservation.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Restaurant discovery startup Zest has launched an AI-powered concierge service that operates entirely through text messages. Users can text the agent to receive personalized dining recommendations based on their actual spending history, coordinate choices in group chats using an in-thread voting feature, and book tables directly through integrated platforms like OpenTable and Resy.</p><p>Founded in late 2024, Zest previously introduced a mobile app that links with user credit cards via Plaid to track real-world dining habits. The new text-based feature aims to expand the company's reach beyond standalone apps, with plans to monetize through booking commissions and eventually scale the concierge model into other retail and business sectors.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25879"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheshelbyreport.com%2Fwp-content%2Fuploads%2F2021%2F07%2FWalmart-Symbotic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Walmart has pledged approximately $6 billion over several years to deploy Symbotic's supply-chain automation technology across its distribution network. The expanded agreement integrates more advanced robotics and AI-enabled systems into the retailer's logistics operations.</p><p>The rollout will target 25 U.S. regional distribution centers and support additional automation opportunities within Walmart's global supply chain. This collaboration builds on a decade-long partnership focused on developing and implementing automated warehouse solutions.</p>
 <p><small>Links: <a href="https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/">reuters.com</a> | <a href="https://www.symbotic.com/news/walmart-and-symbotic-expand-commercial-agreement-to-support-supply-chain-transformation/">source</a></small></p>
-<br clear="all" />
-
-<h2>Anthropic Identified as SpaceX&#x27;s Largest Customer by Revenue</h2>
-<a name="story-25865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkraneshares.com%2Fwp-content%2Fuploads%2F2026%2F05%2F2026_05_spacex_net_income-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic has become SpaceX's largest single customer, accounting for 34.5% of the company's third-quarter revenue. Identified as "Customer B" in regulatory filings, the AI company's contributions have surpassed those of the United States government.</p><p>The revenue is driven by computing power provided by SpaceX's artificial intelligence division. This concentration of income highlights the company's expanding role in providing critical infrastructure for the AI industry.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic">bloomberg.com</a> | <a href="https://ir.spacex.com/financials/default.aspx">source</a></small></p>
 <br clear="all" />
 
 ---

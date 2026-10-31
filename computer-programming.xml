@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T18:59:00+00:00</updated>
+  <updated>2026-10-30T22:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Guava Library Uses Perfect Hashing for Efficient Whitespace Detection</title>
+    <link href="https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace" rel="alternate" />
+    <id>https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace::v240</id>
+    <published>2026-10-30T22:26:00+00:00</published>
+    <updated>2026-10-30T22:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fserce.me%2Fimages%2Fwhitespace%2Fwhitespace.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace">serce.me</a> | <a href="https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace">discussion</a></small></p><hr/><p>Identifying whitespace characters is complicated by varying definitions across programming runtimes and the evolving Unicode standard. While Unicode's White_Space property includes 25 specific characters, different environments like Java, Python, and JavaScript apply their own rules, often resulting in inconsistent detection across platforms.</p><p>Google's Guava library implements its whitespace matcher using a perfect hash function to optimize performance. This approach uses a mathematical multiplier and bit-shifting to map characters to a 32-element lookup table, providing an efficient way to verify matches without the computational cost of division.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fserce.me%2Fimages%2Fwhitespace%2Fwhitespace.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 02:51 UTC | #26010</small>]]></content>
+  </entry>
   <entry>
     <title>Tinyworldformer Generates and Plays Games on Raspberry Pi Pico 2 W</title>
     <link href="https://github.com/SheepSeb/tinyworldformer" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Azure API Connection Vulnerabilities Enable Cross-Tenant Compromise</h2>
+<a name="story-26009"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.binarysecurity.no%2Fassets%2Fimages%2Fposts%2FOnr_connector_architecture.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Azure API Connection vulnerabilities allow authenticated users to achieve full cross-tenant compromise by accessing backend services belonging to other customers. These flaws enable unauthorized access to sensitive resources such as Azure SQL databases, Key Vaults, and third-party integrations like Salesforce or Jira.</p><p>Exploitation methods included path traversal in the `DynamicInvoke` endpoint, the use of undocumented API functions, and a `RuntimeUrl` parameter flaw in Consumption Logic Apps. These vulnerabilities, which earned the researcher $200,000 in bug bounty rewards, were reported to Microsoft for remediation.</p>
+<p><small>Links: <a href="https://www.binarysecurity.no/posts/2026/10/one-root-case">binarysecurity.no</a> | <a href="https://news.ycombinator.com/item?id=50301854">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Northflank Reports Security Incident and Environment Variable Compromise</h2>
 <a name="story-25991"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.northflank.com%2Fdocumentation%2Fv1%2Fapplication%2Frun%2Finject-runtime-variables%2Fenvironment-variables.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Northflank experienced a major security incident and service outage, prompting the platform to advise users to assume all environment variables and stored secrets have been compromised. The company urged customers to immediately rotate credentials, revoke existing keys, and disable public access to addons.</p><p>The incident involved unauthorized use of user-supplied AI API keys stored on the platform, aligning with broader threat patterns targeting AI developer platforms. Northflank deployed emergency network policy patches following a threat alert and enabled secret rotation features for databases like Postgres and MongoDB.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25838"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.gridinsoft.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fexploitation-process-samsung-zeroclick.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researcher Mark Blaszczyk has detailed a zero-click denial-of-service vulnerability in Android, dubbed "SMS of Death," which can crash the telephony service and drop active calls—including emergency calls—using a single malformed WAP Push message. The flaw stems from an unchecked cast of a WSP header length read as a 64-bit integer into a 32-bit signed integer, triggering a NegativeArraySizeException that terminates the telephony process without any user interaction or notification.</p><p>According to the disclosure, rapid transmission of the payload can corrupt the SQLite database behind SMS storage, causing persistent crash-on-boot loops that require removing the SIM card or using ADB for recovery. Despite being reported to the Android &amp; Google Devices VRP with a suggested one-line patch, Google ultimately classified the issue as a non-security issue and declined to fix it, prompting the researcher to publish a public proof-of-concept.</p>
 <p><small>Links: <a href="https://smsofdeath.com/">smsofdeath.com</a> | <a href="https://news.ycombinator.com/item?id=50285452">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Bluesky Blocks Links to Leaked Department of Homeland Security Records</h2>
-<a name="story-25777"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1Xs2Fv.img%3Fw%3D1280%26h%3D853%26m%3D4%26q%3D79&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bluesky is blocking user access to links pointing to a leaked archive containing records for more than 41,000 Department of Homeland Security employees and contractors. The platform labels the destination pages as malicious, stating that the unauthorized sharing of contact information violates its community guidelines.</p><p>The underlying dataset, dubbed Icepick, was published by the transparency nonprofit Distributed Denial of Secrets and details internal organizational structures, contact details, and group memberships tied to surveillance operations. While Bluesky opted to block the URLs rather than remove individual posts, competitors such as X have taken contrasting approaches by directing users to the leaked material.</p>
-<p><small>Links: <a href="https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/">wired.com</a></small></p>
 <br clear="all" />
 
 ---

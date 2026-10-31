@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Unsloth Releases Dynamic v3.1 Preview with Customization and Performance Improvements</h2>
+<a name="story-26012"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21bwCh%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5f706c-2eb0-45b8-a289-e65579c7e41e_2560x1020.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Unsloth has released a preview of Dynamic v3.1, featuring custom chat backgrounds, a refined user interface, and new GGUF model files for DeepSeek-V4.1-Flash-1017. The update also brings support for FLUX.2-klein-9B on machines with limited RAM.</p><p>The release includes performance enhancements such as doubling application update speeds and reducing lag on Linux. Additionally, Qwen-Image rendering is up to twice faster on systems with a 16 GB VRAM limit, and the update introduces batched MoE fine-tuning to allow compatible API jobs to run together.</p>
+<p><small>Links: <a href="https://unsloth.ai/docs/new/changelog#dynamic-v3.1-preview--customize--performance">unsloth.ai</a></small></p>
+<br clear="all" />
+
 <h2>Google Project Suncatcher Prototype Satellite Goes Online in Orbit</h2>
 <a name="story-25969"><img src="https://wsrv.nl/?url=https%3A%2F%2Fenglish.dainikjagranmpcg.com%2Fmedia-webp%2F1200%2F2025-11%2Fgoogle-unveils-%E2%80%98project-suncatcher%E2%80%99-space-based-ai-data-centers-to-launch-by-2027.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google's Project Suncatcher prototype satellite is online and communicating with ground engineers after launching on a SpaceX Falcon 9 rocket. Equipped with a single Google Tensor Processing Unit and running the Gemma 4 AI model, the spacecraft successfully processed prompts and returned orbital telemetry during its initial testing phase.</p><p>The ongoing mission aims to evaluate how AI hardware performs under real-world space radiation and thermal stress, addressing challenges like memory bit flips. If the prototype proves successful, Google plans to launch additional chips in 2027 to demonstrate higher power generation and laser-based inter-satellite links for future distributed orbital computing.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini_4_carbon_exploitgym.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced Gemini 4 Carbon, a frontier model designed for advanced cybersecurity and long-horizon engineering tasks. The model ranks first on the Artificial Analysis Intelligence Index (v5.0) and demonstrates high performance in vulnerability detection, exploitation, and remediation across benchmarks such as SEC-bench Pro, ExploitGym, and CWE-bench.</p><p>The model is built to support sustained agentic workflows and features improvements in model alignment, output honesty, and resistance to prompt injection. Google is currently rolling out access to a subset of cyber defenders and trusted partners through the Fairwind Program ahead of a wider release.</p>
 <p><small>Links: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50276792">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Google Launches Connected Apps Platform for Gemini and Search</h2>
-<a name="story-25720"><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fgoogle-connected-apps-platform-gemini-search-developers.16x9.jpg%3Fv%3Dog2-1ccpaes&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developers can now integrate third-party services into Gemini and Google Search via the new Connected Apps Platform. By utilizing AppFunctions APIs or the Model Context Protocol (MCP), businesses can allow users to trigger specific actions—such as creating playlists or designing graphics—directly within Google's AI interfaces.</p><p>Currently in public preview for U.S. developers, the platform uses the Google Connected Console to allow for app registration, testing, and performance monitoring. This shift supports the development of an "agentic web" where AI providers facilitate service interactions, potentially reducing the need for users to launch individual apps.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/">source</a></small></p>
 <br clear="all" />
 
 ---

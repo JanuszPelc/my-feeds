@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-30T19:02:00+00:00</updated>
+  <updated>2026-10-30T19:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Big Tech Companies Return Smallest Share of Cash to Shareholders in 15 Years</title>
+    <link href="https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/" rel="alternate" />
+    <id>https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/::v240</id>
+    <published>2026-10-30T19:26:00+00:00</published>
+    <updated>2026-10-30T19:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/">reuters.com</a></small></p><hr/><p>Microsoft, Alphabet, Amazon, Meta, and Oracle distributed only 9.3% of their generated cash to shareholders in the first three quarters of 2026. This proportion is the lowest in 15 years, occurring even as these companies reached record cash generation levels.</p><p>The drop from 27.4% in 2025 is driven by heavy capital expenditures on artificial intelligence infrastructure. Although operating cash flow rose 29% to $542.9 billion, the intense AI spending cycle has significantly reduced the cash available for dividends and buybacks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 02:42 UTC | #25989</small>]]></content>
+  </entry>
   <entry>
     <title>Salesforce Acquires Rune Technologies for $375 Million</title>
     <link href="https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/" rel="alternate" />

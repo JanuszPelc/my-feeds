@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Big Tech Companies Return Smallest Share of Cash to Shareholders in 15 Years</h2>
+<a name="story-25989"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft, Alphabet, Amazon, Meta, and Oracle distributed only 9.3% of their generated cash to shareholders in the first three quarters of 2026. This proportion is the lowest in 15 years, occurring even as these companies reached record cash generation levels.</p><p>The drop from 27.4% in 2025 is driven by heavy capital expenditures on artificial intelligence infrastructure. Although operating cash flow rose 29% to $542.9 billion, the intense AI spending cycle has significantly reduced the cash available for dividends and buybacks.</p>
+<p><small>Links: <a href="https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/">reuters.com</a></small></p>
+<br clear="all" />
+
 <h2>Salesforce Acquires Rune Technologies for $375 Million</h2>
 <p>Salesforce is acquiring defense technology startup Rune Technologies for $375 million in a combination of cash and shares. Rune develops AI-driven software, including the TyrOS platform, designed to optimize military logistics and supply chain operations for frontline units.</p><p>The acquisition is intended to expand Salesforce's Missionforce AI platform from back-office administrative and strategic planning into tactical edge operations. This move follows a series of large acquisitions by Salesforce and highlights the company's growing investment in the defense technology market.</p>
 <p><small>Links: <a href="https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/">resiliencemedia.co</a> | <a href="https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/">source</a></small></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25841"><img src="https://wsrv.nl/?url=https%3A%2F%2Fexplorers.com%2Fwp-content%2Fuploads%2F2025%2F04%2FSebastian_Thrun_by_Christopher_Michel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sebastian Thrun, a computer scientist and Google veteran, has co-founded Dulo to develop foundation models for hardware design. The startup has secured $130 million in seed funding to advance its AI-driven engineering tools.</p><p>Co-founded with Adrian Aoun, Dulo's investment round includes Eric Schmidt, John Doerr, DST Global, Construct Capital, and Lowercarbon Capital. The company aims to apply AI expertise to the hardware design and manufacturing sectors.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo">theinformation.com</a></small></p>
-<br clear="all" />
-
-<h2>Alphabet Discloses Over $1 Trillion in Purchase Commitments and Obligations</h2>
-<a name="story-25842"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxtb.scdn5.secure.raxcdn.com%2Fdefault%2F0103%2F85%2FAlphabet_b485bd16ca.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet Inc. has disclosed more than $1 trillion in purchase commitments, future leases, and other obligations in its third-quarter financial filing. Contingent commitments rose to $98.5 billion, representing an increase of approximately $23 billion from the second quarter.</p><p>This growth is driven by rising demand for Alphabet's cloud services, which has expanded the company's backlog of unfulfilled contracts. The total obligations include approximately $924 billion in future purchase commitments and $152 billion in pre-commencement leases and other obligations.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows">bloomberg.com</a> | <a href="https://abc.xyz/investor/sec-filings/default.aspx">source</a></small></p>
 <br clear="all" />
 
 ---

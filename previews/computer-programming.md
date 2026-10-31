@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Guava Library Uses Perfect Hashing for Efficient Whitespace Detection</h2>
+<a name="story-26010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fserce.me%2Fimages%2Fwhitespace%2Fwhitespace.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Identifying whitespace characters is complicated by varying definitions across programming runtimes and the evolving Unicode standard. While Unicode's White_Space property includes 25 specific characters, different environments like Java, Python, and JavaScript apply their own rules, often resulting in inconsistent detection across platforms.</p><p>Google's Guava library implements its whitespace matcher using a perfect hash function to optimize performance. This approach uses a mathematical multiplier and bit-shifting to map characters to a 32-element lookup table, providing an efficient way to verify matches without the computational cost of division.</p>
+<p><small>Links: <a href="https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace">serce.me</a> | <a href="https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Tinyworldformer Generates and Plays Games on Raspberry Pi Pico 2 W</h2>
 <a name="story-26003"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FSheepSeb%2Ftinyworldformer%2Fraw%2Fmain%2Fdocs%2Fmedia%2Fbanner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Two neural networks running on a Raspberry Pi Pico 2 W enable the simultaneous generation and gameplay of simple digital games. A "world model" predicts future game frames and rewards from current inputs, while an "actor" network selects actions based on those generated frames.</p><p>The system uses a "looped transformer" architecture, which reuses a single transformer block's weights across multiple passes to minimize memory usage. This method allows games like Breakout, Pong, and Flappy Bird to run on the microcontroller using int8 quantization.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mistys-internet.website%2Fimages%2Fwebarchiving%2Fdomaincrawl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Web archivist and software engineer Misty De Méo advocates for personal web archiving, encouraging individuals to actively preserve their favorite online spaces using standard formats like WARC and WACZ rather than relying solely on large institutions.</p><p>The post highlights accessible tools such as the ArchiveWeb.page browser extension, the standalone application, and the Browsertrix web crawler, detailing how users can capture, replay, and share self-contained website backups.</p>
 <p><small>Links: <a href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/">blog.mistys-internet.website</a> | <a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Phorge Is an Open Source Fork of Phabricator</h2>
-<a name="story-25903"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.datocms-assets.com%2F85246%2F1709096644-2-principles-of-ohabricator-workflow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Phorge is an open-source, community-driven platform for collaborating on and managing software development projects. It serves as a community-maintained fork of Phabricator, which has been unmaintained since June 2021 following the winding down of Phacility's operations.</p><p>The project provides tools for organizing development tasks, reviewing code, and engaging in community question-and-answer forums. Documentation is available to assist with installation, feature exploration, and contributing to the ongoing development of the platform.</p>
-<p><small>Links: <a href="https://www.phorge.it/">phorge.it</a> | <a href="https://lobste.rs/s/tw3rsp/phorge">discussion</a></small></p>
 <br clear="all" />
 
 ---
