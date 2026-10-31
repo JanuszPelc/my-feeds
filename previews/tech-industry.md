@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Blackstone Expects Anthropic to Receive High Junk Credit Rating Following IPO</h2>
+<a name="story-25995"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspcdn.shortpixel.ai%2Fspio%2Fret_img%2Cq_cdnize%2Cto_avif%2Cs_avif%2Faibase.ng%2Fwp-content%2Fuploads%2F2026%2F05%2FAnthropic-Partners-with-Blackstone-and-Goldman-Sachs-on-1.5B-Enterprise-AI-Venture-768x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Blackstone expects Anthropic to receive a "high" junk credit rating, likely in the double-B range, following its initial public offering. This marks a shift from previous guidance in which the investment firm anticipated the AI developer would achieve an investment-grade rating before 2027.</p><p>A junk rating could increase borrowing costs for Anthropic, potentially making it more expensive to fund its massive spending on compute power and infrastructure. The company filed to go public earlier this week, amid ongoing scrutiny of its capital requirements.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">techcrunch.com</a> | <a href="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1">source</a> | <a href="https://news.ycombinator.com/item?id=50311311">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Last-minute Halloween costumes for tech enthusiasts</h2>
 <a name="story-25996"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresizer.ladbiblegroup.com%2Fogimage%2Fv3%2Fassets%2Fbltb5d92757ac1ee045%2Fbltb14c0aac2b5510a1%2F69f361084a7c3145a7a51463%2Fbryan_johnson_kate_oral_sex_.png%3Fcrop%3D1200%2C675%2Cx0%2Cy0&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Current technology trends and industry figures inspire several low-effort Halloween costume ideas for enthusiasts. These suggestions provide last-minute options for those celebrating in the tech community.</p><p>Themes include Meta and OpenAI AI agents, Mark Zuckerberg’s clothing style, Claude usage limit notifications, and PHP vulnerabilities. Costumes based on biohacker Bryan Johnson are also suggested.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25883"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnuelink.com%2Fpublic%2Fimg%2Fpersona%2Ffeatures%2Fcrossposting-instagram-reels%2Fyoutube%2Freal-time-automation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Through its new "Features" product, Instagram is providing select YouTube creators with deals ranging from $50,000 to $500,000 to cross-post long-form video content. The initiative is designed to attract established video content and audiences to the platform.</p><p>This strategy represents an effort to challenge YouTube's dominance in the long-form video market. By incentivizing creators to repurpose content, Instagram seeks to increase user engagement and diversify its content offerings.</p>
 <p><small>Links: <a href="https://www.businessinsider.com/instagram-offers-youtube-creators-six-figure-longform-video-deals-2026-10">businessinsider.com</a></small></p>
-<br clear="all" />
-
-<h2>Walmart Commits $6 Billion to Expand Symbotic Supply Chain Automation Deal</h2>
-<a name="story-25879"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheshelbyreport.com%2Fwp-content%2Fuploads%2F2021%2F07%2FWalmart-Symbotic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Walmart has pledged approximately $6 billion over several years to deploy Symbotic's supply-chain automation technology across its distribution network. The expanded agreement integrates more advanced robotics and AI-enabled systems into the retailer's logistics operations.</p><p>The rollout will target 25 U.S. regional distribution centers and support additional automation opportunities within Walmart's global supply chain. This collaboration builds on a decade-long partnership focused on developing and implementing automated warehouse solutions.</p>
-<p><small>Links: <a href="https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/">reuters.com</a> | <a href="https://www.symbotic.com/news/walmart-and-symbotic-expand-commercial-agreement-to-support-supply-chain-transformation/">source</a></small></p>
 <br clear="all" />
 
 ---
