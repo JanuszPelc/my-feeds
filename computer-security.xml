@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-31T11:03:00+00:00</updated>
+  <updated>2026-10-31T13:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Bunny.net Issues Security Update Following Infrastructure Provider Incident</title>
+    <link href="https://status.bunny.net/incidents/p6gf1by9kr7m" rel="alternate" />
+    <id>https://status.bunny.net/incidents/p6gf1by9kr7m::v240</id>
+    <published>2026-10-31T13:43:00+00:00</published>
+    <updated>2026-10-31T13:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcybersecuritynews.com%2Fwp-content%2Fuploads%2F2026%2F05%2FHackers-Abuse-Shared-CDN-Infrastructure-to-Bypass-Domain-Reputation-Security-Controls-696x392.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://status.bunny.net/incidents/p6gf1by9kr7m">status.bunny.net</a> | <a href="https://news.ycombinator.com/item?id=50308697">hacker news</a></small></p><hr/><p>Bunny.net has issued a security update addressing an unauthorized access incident at an infrastructure provider that hosted one of its CDN nodes in Armenia. Following an alert regarding third-party server management software, the engineering team disconnected the affected server within 20 minutes, securely wiped it, and permanently removed it from the infrastructure.</p><p>Although investigations by both Bunny.net and the infrastructure provider found no evidence of unauthorized access to the node or stored data, the company has taken precautionary measures. Bunny.net has revoked and reissued all TLS certificates for its platform domains and is completing reissuance for managed custom domain certificates, while recommending that customers managing their own certificates reissue them as well.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcybersecuritynews.com%2Fwp-content%2Fuploads%2F2026%2F05%2FHackers-Abuse-Shared-CDN-Infrastructure-to-Bypass-Domain-Reputation-Security-Controls-696x392.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 17:05 UTC | #26053</small>]]></content>
+  </entry>
   <entry>
     <title>Mozilla Details Strategy to Defend Firefox Against Automated Patch-Gapping</title>
     <link href="https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/" rel="alternate" />

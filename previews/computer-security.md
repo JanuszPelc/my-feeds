@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Bunny.net Issues Security Update Following Infrastructure Provider Incident</h2>
+<a name="story-26053"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcybersecuritynews.com%2Fwp-content%2Fuploads%2F2026%2F05%2FHackers-Abuse-Shared-CDN-Infrastructure-to-Bypass-Domain-Reputation-Security-Controls-696x392.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bunny.net has issued a security update addressing an unauthorized access incident at an infrastructure provider that hosted one of its CDN nodes in Armenia. Following an alert regarding third-party server management software, the engineering team disconnected the affected server within 20 minutes, securely wiped it, and permanently removed it from the infrastructure.</p><p>Although investigations by both Bunny.net and the infrastructure provider found no evidence of unauthorized access to the node or stored data, the company has taken precautionary measures. Bunny.net has revoked and reissued all TLS certificates for its platform domains and is completing reissuance for managed custom domain certificates, while recommending that customers managing their own certificates reissue them as well.</p>
+<p><small>Links: <a href="https://status.bunny.net/incidents/p6gf1by9kr7m">status.bunny.net</a> | <a href="https://news.ycombinator.com/item?id=50308697">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Mozilla Details Strategy to Defend Firefox Against Automated Patch-Gapping</h2>
 <a name="story-26047"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mozilla.org%2Fwp-content%2Fblogs.dir%2F278%2Ffiles%2F2026%2F10%2Fpatch-gap-simple-pill-1024x253.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mozilla is adapting Firefox's security practices to counter patch-gapping, a vulnerability exploitation method accelerated by AI models that can rapidly reverse-engineer software security fixes. While frontier models have enabled the Firefox team to significantly increase its security fix rate, malicious actors are increasingly using automated tools to target the brief window of time between a code fix and full user deployment.</p><p>To neutralize this threat regardless of attack speed, Firefox is introducing a structural defense that staggers fixes across independent sandbox layers so that interdependent vulnerabilities do not share overlapping patch gaps. Additionally, the browser team is accelerating its release cycle, withholding regression tests until fixes are shipped, and scanning new code commits to maintain a security advantage over automated attackers.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25910"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvad.solutions%2Fipmap%2F2023%2F2023-ipv4-72dpi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A hypothetical visualization redistributes global landmass based on each country's proportion of the world's IPv4 addresses. The model calculates a country's area by multiplying its share of locatable IPv4 addresses by the total world land area.</p><p>The calculation excludes Antarctica and approximately 70 small territories to maintain scale. The methodology utilizes IP Trust geolocation data and focuses on countries with at least 100,000 IPv4 addresses and 20,000 km² of land.</p>
 <p><small>Links: <a href="https://iptrust.co/blog/if-ipv4-were-land">iptrust.co</a> | <a href="https://news.ycombinator.com/item?id=50287775">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Polymarket Resumes Trading Following Third-Party Security Incident</h2>
-<a name="story-25891"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gmEFn.img%3Fw%3D1400%26h%3D933%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Polymarket has resumed trading after a temporary halt caused by a security incident involving a third-party provider. The company stated it will fully reimburse all traders affected by the breach.</p><p>Sources identify the involved third-party provider as DebugBear. The incident led to reports of user accounts being drained, which had previously prompted the platform to enter a cancel-only mode to mitigate risk.</p>
-<p><small>Links: <a href="https://www.reuters.com/business/polymarket-reports-major-outage-suspends-trading-actions-2026-10-29/">reuters.com</a></small></p>
 <br clear="all" />
 
 ---
