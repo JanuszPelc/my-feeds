@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>TNG Episodle Launched as Daily Star Trek Episode Guessing Game</h2>
+<a name="story-26050"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.thegamerimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fthe-cast-of-season-5-of-star-trek-the-next-generation.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>TNG Episodle is a daily browser-based guessing game that challenges players to identify specific episodes of Star Trek: The Next Generation using a series of image clues. Participants receive up to six attempts to correctly name the featured episode.</p><p>Created as a tribute to Sir Patrick Stewart, the game offers fans a daily puzzle format similar to other popular guessing games. It provides a structured way to test encyclopedic knowledge of the science fiction television series.</p>
+<p><small>Links: <a href="https://tng.episodle.com/">tng.episodle.com</a> | <a href="https://news.ycombinator.com/item?id=50311686">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Enabling Google Cast Support on a Samsung Q800A Soundbar</h2>
 <a name="story-26041"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.newsweek.com%2Fwp-content%2Fuploads%2F2025%2F08%2F1754670-samsung-hw-q800a-soundbar-design.jpg%3Fw%3D1600%26quality%3D80%26webp%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Matthew Garrett detailed a technical process for enabling Google Cast support on a US-model Samsung Q800A soundbar, which lacks the feature natively despite its presence on Australian variants. By extracting the firmware from a secondhand unit's eMMC storage, he identified a hidden Samsung Debug Bridge (sdb) interface that could be activated via network and USB configurations.</p><p>Once root access was established, he bypassed regional restrictions by altering the system country code, manually provisioning cryptographic keys into the soundbar's Trustzone environment, and updating the setup configuration endpoint. While the modification successfully exposed the device to local Cast clients, the regional configuration mismatch caused conflicts with SmartThings home integration.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25729"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.servethehome.com%2Fwp-content%2Fuploads%2F2025%2F03%2FApple-Mac-Studio-M3-Ultra-Angle-Stock.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has made the 512GB unified memory configuration available for the Mac Studio equipped with the M5 Ultra chip, with U.S. pricing starting at $22,299. This rollout follows the company's previous schedule indicating the high-capacity memory tier would launch in late October.</p><p>The 512GB RAM option is exclusive to the M5 Ultra model, while configurations featuring the M5 Max chip remain capped at 128GB of maximum memory. The massive memory upgrade allows users to run large-scale on-device language models and heavy professional workloads entirely locally.</p>
 <p><small>Links: <a href="https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/">macrumors.com</a> | <a href="https://www.apple.com/shop/buy-mac/mac-studio">source</a> | <a href="https://news.ycombinator.com/item?id=50277166">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Xreal Launches Aura Smart Glasses Powered by Android XR</h2>
-<a name="story-25728"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.beebom.com%2Fcontent%2F2026%2F06%2FXREAL-AURA-main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Xreal has launched the Xreal Aura, a wired smart glasses system powered by Google's Android XR platform and Qualcomm's Snapdragon Reality Elite. The device utilizes a tethered computing "puck" for processing and features Sony Micro-OLED displays with 1200p resolution, a 120Hz refresh rate, and a 95-degree field of view.</p><p>The glasses integrate Bose audio technology and Google's Gemini AI for contextual assistance. Weighing 95 grams, the device can function as an augmented display for computers or gaming consoles via USB-C. Pricing starts at $1,279 for the 256GB model, with shipping expected to begin in mid-November in the United States, Canada, Japan, and South Korea.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/">techcrunch.com</a> | <a href="https://www.xreal.com/aura">source</a></small></p>
 <br clear="all" />
 
 ---

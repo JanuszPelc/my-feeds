@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Jepsen Publishes Safety Analysis of ParticleDB 1.1.4</title>
+    <link href="https://jepsen.io/analyses/particledb-1.1.4" rel="alternate" />
+    <id>https://jepsen.io/analyses/particledb-1.1.4::v240</id>
+    <published>2026-10-31T13:41:00+00:00</published>
+    <updated>2026-10-31T13:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.wasilzafar.com%2Fimages%2Fseries%2Fdatabase-mastery%2Fisolation-levels-spectrum-anomalies.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jepsen.io/analyses/particledb-1.1.4">jepsen.io</a> | <a href="https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4">discussion</a> | <a href="https://news.ycombinator.com/item?id=50316100">hacker news</a></small></p><hr/><p>Kyle Kingsbury’s Jepsen analysis of ParticleDB versions 1.1.4 through 1.1.18.11.rc-22 identified 96 issues in the multi-model database designed for AI workloads. The discovered bugs ranged from basic crashes, deadlocks, and data loss to complex SQL correctness errors, confused columns, and data type transformations.</p><p>The evaluation found that most flaws manifested under normal single-server operations without external faults. While subsequent pre-releases resolved the vast majority of these bugs, the default optimistic concurrency control mode continued to experience data loss on committed writes, and the strictest serializable settings still allowed concurrency anomalies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wasilzafar.com%2Fimages%2Fseries%2Fdatabase-mastery%2Fisolation-levels-spectrum-anomalies.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 16:42 UTC | #26040</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tactical-Retreat Open-Source Counter-Strike 1.5 Port Released</title>
+    <link href="https://www.frag-net.com/project_tacticalretreat.html" rel="alternate" />
+    <id>https://www.frag-net.com/project_tacticalretreat.html::v240</id>
+    <published>2026-10-31T11:11:00+00:00</published>
+    <updated>2026-10-31T11:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.gamebanana.com%2Fimg%2Fss%2Fmods%2F6a02c5242c4b7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.frag-net.com/project_tacticalretreat.html">frag-net.com</a> | <a href="https://lobste.rs/s/95quqz/tactical_retreat_freely_available_multi">discussion</a></small></p><hr/><p>The Tactical-Retreat project provides a multi-platform, QuakeC-based port of Counter-Strike 1.5 built using the Nuclide framework and the FTE QuakeWorld engine. Designed to be faithful to classic gameplay while ensuring compatibility with existing custom content, the open-source project allows users to run servers and build custom weapons or game rules without requiring proprietary game installations.</p><p>Maintained by Marco Cawthorne and licensed under the ISC license, the project supports Linux, OpenBSD, and Windows platforms with platform-independent components. It includes features such as modern netcode with standard weapon prediction, integrated bots, voting mechanisms, and a Metamod-inspired plugin system. Binaries and installation scripts are distributed alongside full source code access to facilitate community development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.gamebanana.com%2Fimg%2Fss%2Fmods%2F6a02c5242c4b7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 16:41 UTC | #26051</small>]]></content>
+  </entry>
+  <entry>
     <title>Clojure/Conj 2026 Video Playlist Available</title>
     <link href="https://www.youtube.com/playlist?list=PLAkHRk3lgU_Q" rel="alternate" />
     <id>https://www.youtube.com/playlist?list=PLAkHRk3lgU_Q::v240</id>

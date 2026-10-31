@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-31T06:37:00+00:00</updated>
+  <updated>2026-10-31T11:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>TNG Episodle Launched as Daily Star Trek Episode Guessing Game</title>
+    <link href="https://tng.episodle.com/" rel="alternate" />
+    <id>https://tng.episodle.com/::v240</id>
+    <published>2026-10-31T11:10:00+00:00</published>
+    <updated>2026-10-31T11:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.thegamerimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fthe-cast-of-season-5-of-star-trek-the-next-generation.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://tng.episodle.com/">tng.episodle.com</a> | <a href="https://news.ycombinator.com/item?id=50311686">hacker news</a></small></p><hr/><p>TNG Episodle is a daily browser-based guessing game that challenges players to identify specific episodes of Star Trek: The Next Generation using a series of image clues. Participants receive up to six attempts to correctly name the featured episode.</p><p>Created as a tribute to Sir Patrick Stewart, the game offers fans a daily puzzle format similar to other popular guessing games. It provides a structured way to test encyclopedic knowledge of the science fiction television series.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.thegamerimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fthe-cast-of-season-5-of-star-trek-the-next-generation.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 16:40 UTC | #26050</small>]]></content>
+  </entry>
   <entry>
     <title>Enabling Google Cast Support on a Samsung Q800A Soundbar</title>
     <link href="https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/" rel="alternate" />

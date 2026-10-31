@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-31T06:36:00+00:00</updated>
+  <updated>2026-10-31T11:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Arizona Faces Grassroots Backlash Over Data Center Water Consumption and TSMC Expansion</title>
+    <link href="https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc/?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFkdzJEQktYdUkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzkzNzE2ODI5LCJpYXQiOjE3OTMyODQ4Mjl9.2I3Q8YF72YlZ82qB1jITu1Pv_2X6WPGXSrMtVpL9JTE&amp;utm_medium=gift-link" rel="alternate" />
+    <id>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc/?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFkdzJEQktYdUkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzkzNzE2ODI5LCJpYXQiOjE3OTMyODQ4Mjl9.2I3Q8YF72YlZ82qB1jITu1Pv_2X6WPGXSrMtVpL9JTE&amp;utm_medium=gift-link::v240</id>
+    <published>2026-10-31T11:09:00+00:00</published>
+    <updated>2026-10-31T11:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F20cb9daeace3f963293c7ef81df1b1db3fbc9478.jpg%3Fw%3D828&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc/?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFkdzJEQktYdUkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzkzNzE2ODI5LCJpYXQiOjE3OTMyODQ4Mjl9.2I3Q8YF72YlZ82qB1jITu1Pv_2X6WPGXSrMtVpL9JTE&utm_medium=gift-link">theverge.com</a></small></p><hr/><p>While Taiwan Semiconductor Manufacturing Company's massive microchip foundry in Phoenix was welcomed as an economic savior, newer proposed hyperscale data centers are facing intense local opposition across Arizona. Bipartisan coalitions of residents and activists are pushing back against these developments due to their immense demands on the state's limited water, electricity, and land resources.</p><p>As Arizona prepares for looming cuts to its Colorado River water allocation and rising regional temperatures, community resistance highlights growing tensions over industrial resource depletion in the desert. Although state and local economic developers successfully courted semiconductor manufacturing, newer tech infrastructure projects are struggling to win public approval amid mounting environmental concerns.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F20cb9daeace3f963293c7ef81df1b1db3fbc9478.jpg%3Fw%3D828&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 16:39 UTC | #26035</small>]]></content>
+  </entry>
   <entry>
     <title>Cisco Assigns 27-Year-Old Engineer to Refactor 98% of Legacy Code Using AI Tokens</title>
     <link href="https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/" rel="alternate" />
