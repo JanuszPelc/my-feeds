@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>The Kluever Maneuver for Two-Commit Bug Fixes</title>
+    <link href="https://jordi.inversethought.com/blog/the-kluever-maneuver/" rel="alternate" />
+    <id>https://jordi.inversethought.com/blog/the-kluever-maneuver/::v240</id>
+    <published>2026-10-31T15:07:00+00:00</published>
+    <updated>2026-10-31T15:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.gitkraken.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fdiff-between-commits.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jordi.inversethought.com/blog/the-kluever-maneuver/">jordi.inversethought.com</a> | <a href="https://lobste.rs/s/rpiu3w/kluever_maneuver">discussion</a></small></p><hr/><p>The Kluever Maneuver is a software development practice that splits a bug fix into two distinct commits: the first introduces a failing test that exposes the bug, while the second applies the fix and updates the test to pass. This structured approach ensures continuous integration passes at every commit and avoids false confidence from tests that might inadvertently pass before a fix is implemented.</p><p>By separating the demonstration of failure from the fix itself, developers gain verifiable proof that their code changes actually resolved the targeted issue. The technique also helps maintain clear version control histories and allows developers to easily link initial test commits directly to bug tracking systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gitkraken.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fdiff-between-commits.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 18:16 UTC | #26055</small>]]></content>
+  </entry>
+  <entry>
     <title>Vitalik Buterin Advocates Digital Minimalism</title>
     <link href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html" rel="alternate" />
     <id>https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html::v240</id>
@@ -588,14 +597,5 @@
     <updated>2026-10-26T18:17:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpharo.org%2Fnews%2FPharo14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://pharo.org/news/2026-10-26-Pharo14Release.html">pharo.org</a> | <a href="https://lobste.rs/s/1h5kuj/pharo_14_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50241925">hacker news</a></small></p><hr/><p>Pharo 14 has been released, marking the first version under the project's new fall release schedule. The new version incorporates 978 integrated pull requests and resolves 616 issues following the previous Pharo 13 release.</p><p>Updates focus on three primary areas: modernizing development tools with the introduction of Mission Control and Pulse alongside a rewritten Settings Browser, rebuilding the refactoring and command infrastructure, and updating the virtual machine with unified stack management and RISC-V JIT support.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpharo.org%2Fnews%2FPharo14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 21:07 UTC | #25518</small>]]></content>
-  </entry>
-  <entry>
-    <title>Geoff Graham Takes Independent Ownership of CSS-Tricks</title>
-    <link href="https://css-tricks.com/css-tricks-has-a-new-owner/" rel="alternate" />
-    <id>https://css-tricks.com/css-tricks-has-a-new-owner/::v240</id>
-    <published>2026-10-26T18:16:00+00:00</published>
-    <updated>2026-10-26T18:16:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcss-tricks.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fopen-props-custom-media-queries.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://css-tricks.com/css-tricks-has-a-new-owner/">css-tricks.com</a> | <a href="https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner">discussion</a> | <a href="https://news.ycombinator.com/item?id=50245831">hacker news</a></small></p><hr/><p>Geoff Graham has acquired independent ownership of CSS-Tricks, returning the long-running web development resource to independent status following its 2022 acquisition by DigitalOcean. Graham, who spent 12 years working on the site, is making the project his full-time job and serving as its publisher.</p><p>To fund and sustain the publication, Graham plans to revive traditional advertising, sponsorships, a membership program, and a beginner-focused front-end course, alongside the return of the site's newsletter and guest article submissions. The publication schedule will adjust to one or two articles per week as operations transition under the new team.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcss-tricks.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fopen-props-custom-media-queries.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 21:07 UTC | #25508</small>]]></content>
   </entry>
 </feed>

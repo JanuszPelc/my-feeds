@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-31T16:54:00+00:00</updated>
+  <updated>2026-10-31T18:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>SigNoz Examines AI Deskilling Risks in Site Reliability Engineering</title>
+    <link href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling" rel="alternate" />
+    <id>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling::v240</id>
+    <published>2026-10-31T18:16:00+00:00</published>
+    <updated>2026-10-31T18:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.bannerbear.com%2Fdirect%2F4mGpW3zwpg0ZK0AxQw%2Frequests%2F000%2F095%2F823%2F123%2F7gAk4KJj8Qm31N8vzvwqxrD20%2Fc0ca86ea6465e1faef3dd4f502330174fb229230.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">newsletter.signoz.io</a> | <a href="https://signoz.io/blog/ai-isnt-replacing-sres-its-deskilling-them/">source</a> | <a href="https://news.ycombinator.com/item?id=50305693">hacker news</a></small></p><hr/><p>SigNoz examines the risk of automated artificial intelligence tools deskilling site reliability engineers (SREs). Drawing parallels to historical industrial automation, the analysis argues that when AI agents handle routine incident response and triage, human operators are left with only rare, complex crises, leading to atrophied expertise and diminished troubleshooting intuition.</p><p>The piece notes similar patterns of skill degradation in aviation and medicine, and warns of "never-skilling" for junior SREs who miss out on foundational hands-on practice. To counter these effects, the author suggests deliberate practices such as manual troubleshooting interventions and workflows that maintain active cognitive engagement rather than passive supervision.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.bannerbear.com%2Fdirect%2F4mGpW3zwpg0ZK0AxQw%2Frequests%2F000%2F095%2F823%2F123%2F7gAk4KJj8Qm31N8vzvwqxrD20%2Fc0ca86ea6465e1faef3dd4f502330174fb229230.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 21:10 UTC | #25977</small>]]></content>
+  </entry>
   <entry>
     <title>Curl Accidentally Turing-Complete for Nine Months</title>
     <link href="https://seriot.ch/computation/curl.html" rel="alternate" />

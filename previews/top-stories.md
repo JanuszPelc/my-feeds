@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>SigNoz Examines AI Deskilling Risks in Site Reliability Engineering</h2>
+<a name="story-25977"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.bannerbear.com%2Fdirect%2F4mGpW3zwpg0ZK0AxQw%2Frequests%2F000%2F095%2F823%2F123%2F7gAk4KJj8Qm31N8vzvwqxrD20%2Fc0ca86ea6465e1faef3dd4f502330174fb229230.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SigNoz examines the risk of automated artificial intelligence tools deskilling site reliability engineers (SREs). Drawing parallels to historical industrial automation, the analysis argues that when AI agents handle routine incident response and triage, human operators are left with only rare, complex crises, leading to atrophied expertise and diminished troubleshooting intuition.</p><p>The piece notes similar patterns of skill degradation in aviation and medicine, and warns of "never-skilling" for junior SREs who miss out on foundational hands-on practice. To counter these effects, the author suggests deliberate practices such as manual troubleshooting interventions and workflows that maintain active cognitive engagement rather than passive supervision.</p>
+<p><small>Links: <a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">newsletter.signoz.io</a> | <a href="https://signoz.io/blog/ai-isnt-replacing-sres-its-deskilling-them/">source</a> | <a href="https://news.ycombinator.com/item?id=50305693">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Curl Accidentally Turing-Complete for Nine Months</h2>
 <a name="story-25923"><img src="https://wsrv.nl/?url=https%3A%2F%2Fseriot.ch%2Fresources%2Fcurl_config.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Between versions 8.12 and 8.16, the command-line data transfer tool curl possessed features that made it accidentally Turing-complete under unbounded resource assumptions. Config files could slice variable values and recursively include other files without an explicit depth cap, enabling the utility to simulate any two-counter Minsky program.</p><p>Release 8.17.0 introduced a five-level include cap that broke this reduction by restricting file inclusion depth. Although real-world physical constraints such as stack limits and memory allocation restricted execution depth in practice, the behavior illustrated how unexpected computational capabilities can emerge from configuration parsers.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbarchart-news-media-prod.aws.barchart.com%2FEXCLSV%2F525ebb3badc62fe307c08bdce0c76fa6%2F0ddn9zwophyzld8j.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
 <p><small>Links: <a href="https://www.businesswire.com/news/home/20261028373648/en/">businesswire.com</a> | <a href="https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">source</a></small></p>
-<br clear="all" />
-
-<h2>Reddit to Shift to a Primarily Logged-In Experience to Combat Declining Search Traffic</h2>
-<a name="story-25872"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Freddit-daus.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Reddit is transitioning to a primarily logged-in user experience to address declining search engine traffic resulting from the rise of AI-powered search. Announced during its third-quarter 2026 earnings, the move is intended to protect platform data from AI scraping for licensing purposes and to improve advertising revenue through better user interest signals.</p><p>Although Reddit's third-quarter revenue grew 53% year-over-year to $895 million, the company reported a drop in U.S. daily active users and a significant reduction in weekly search referrals. The new logged-in interface will undergo testing in select markets outside the U.S. in the fourth quarter, with the company promising to maintain anonymity options via a rebuilt "incognito mode."</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">techcrunch.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">source</a> | <a href="https://news.ycombinator.com/item?id=50295247">hacker news</a></small></p>
 <br clear="all" />
 
 ---
