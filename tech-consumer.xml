@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-31T04:31:00+00:00</updated>
+  <updated>2026-10-31T06:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Enabling Google Cast Support on a Samsung Q800A Soundbar</title>
+    <link href="https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/" rel="alternate" />
+    <id>https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/::v240</id>
+    <published>2026-10-31T06:37:00+00:00</published>
+    <updated>2026-10-31T06:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.newsweek.com%2Fwp-content%2Fuploads%2F2025%2F08%2F1754670-samsung-hw-q800a-soundbar-design.jpg%3Fw%3D1600%26quality%3D80%26webp%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/">codon.org.uk</a> | <a href="https://lobste.rs/s/uyobll/getting_google_cast_on_my_soundbar">discussion</a></small></p><hr/><p>Matthew Garrett detailed a technical process for enabling Google Cast support on a US-model Samsung Q800A soundbar, which lacks the feature natively despite its presence on Australian variants. By extracting the firmware from a secondhand unit's eMMC storage, he identified a hidden Samsung Debug Bridge (sdb) interface that could be activated via network and USB configurations.</p><p>Once root access was established, he bypassed regional restrictions by altering the system country code, manually provisioning cryptographic keys into the soundbar's Trustzone environment, and updating the setup configuration endpoint. While the modification successfully exposed the device to local Cast clients, the regional configuration mismatch caused conflicts with SmartThings home integration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.newsweek.com%2Fwp-content%2Fuploads%2F2025%2F08%2F1754670-samsung-hw-q800a-soundbar-design.jpg%3Fw%3D1600%26quality%3D80%26webp%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 16:18 UTC | #26041</small>]]></content>
+  </entry>
   <entry>
     <title>Apple CEO John Ternus Discusses Continuity and Product Strategy in Interview</title>
     <link href="https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/" rel="alternate" />
@@ -302,14 +311,5 @@
     <updated>2026-10-26T18:02:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPpsFLbX8yMU%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50243061">hacker news</a></small></p><hr/><p>Apple has announced a major update to the iPad mini, introducing an 8.5-inch OLED display, the A20 Pro chip, and an IP67 rating for water and dust resistance. The new model features a thinner and lighter design, a landscape-edge 12-megapixel Center Stage camera, and an upgraded audio system.</p><p>Powered by Apple Intelligence, the device supports advanced features including Siri AI context understanding, enhanced photo editing tools, and the Image Playground application. Pre-orders begin on October 28, 2026, with retail availability starting November 6, with base pricing starting at $699 for the Wi-Fi model and $849 for the cellular version.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPpsFLbX8yMU%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 20:14 UTC | #25461</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ray-Ban Meta Audio Glasses Review: Audio Quality, Meta AI, and Privacy Concerns</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review::v240</id>
-    <published>2026-10-26T15:42:00+00:00</published>
-    <updated>2026-10-26T15:42:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpetapixel.com%2Fassets%2Fuploads%2F2023%2F10%2FMeta-Glasses-Badge-2-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review">bloomberg.com</a> | <a href="https://www.meta.com/blog/ray-ban-meta-audio-and-deepest-ai-glasses-lineup/">source</a></small></p><hr/><p>Bloomberg's review of the $349-and-up Ray-Ban Meta Audio glasses highlights their camera-free design, strong audio quality, and effective Meta AI integration. The absence of a built-in camera appeals to users seeking a less intrusive wearable, though lingering privacy concerns persist.</p><p>Developed through Meta's partnership with EssilorLuxottica, the audio-only smart glasses offer an alternative to previous camera-equipped models. Reviewers note that while the device performs well in voice interactions and media playback, its high starting price positions it as a specialized option within the market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpetapixel.com%2Fassets%2Fuploads%2F2023%2F10%2FMeta-Glasses-Badge-2-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 18:14 UTC | #25446</small>]]></content>
   </entry>
 </feed>
