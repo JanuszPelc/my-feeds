@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-30T15:53:00+00:00</updated>
+  <updated>2026-10-30T18:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Researchers Publish Study on 25,000 Psychedelic Support Line Interactions</title>
+    <link href="https://www.404media.co/fireside-project-psychedelic-support-line-study/" rel="alternate" />
+    <id>https://www.404media.co/fireside-project-psychedelic-support-line-study/::v240</id>
+    <published>2026-10-30T18:01:00+00:00</published>
+    <updated>2026-10-30T18:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fdata-src-image-9ac36378-94a9-40de-a7b3-3b415c2e35f0-1-1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/fireside-project-psychedelic-support-line-study/">404media.co</a> | <a href="https://www.science.org/doi/10.1126/sciadv.aeg4737">source</a></small></p><hr/><p>Researchers have published a study in Science Advances analyzing the Fireside Database, a collection of 25,419 anonymized peer-support interactions from the Fireside Project’s Psychedelic Support Line between April 2021 and February 2026. This dataset represents the largest compilation of real-world psychedelic experiences outside of clinical environments, encompassing substances such as psilocybin, LSD, cannabis, ketamine, and MDMA.</p><p>The study found high rates of distress across substances, with cannabis users reporting the highest rate of bad experiences at 47.2 percent, closely followed by traditional psychedelics ranging from 40 to 42 percent. Additionally, the analysis documented 43 instances of facilitator abuse in unregulated or ceremonial settings and highlighted that a caller's satisfaction was heavily dependent on perceiving genuine empathy from hotline volunteers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fdata-src-image-9ac36378-94a9-40de-a7b3-3b415c2e35f0-1-1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 00:00 UTC | #25976</small>]]></content>
+  </entry>
   <entry>
     <title>SigNoz Examines AI Deskilling Risks in Site Reliability Engineering</title>
     <link href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling" rel="alternate" />

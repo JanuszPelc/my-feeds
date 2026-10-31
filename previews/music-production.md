@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>HEDD Audio Launches TYPE 40 Main and Modular XTD Monitoring System</h2>
+<a name="story-25962"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FHedd-Audio-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HEDD Audio has announced the TYPE 40 Main, a compact sealed three-way active reference monitor, alongside the TYPE 40 System, a modular platform that allows studios to add low-end output and directional control by stacking XTD modules beneath the main unit. Designed for professional mixing, mastering, and post-production environments, the system aims to provide full-range monitoring down to 20 Hz with a peak output of up to 123 dB SPL without requiring separate subwoofers or large-format cabinetry.</p><p>The system utilizes symmetrical D’Appolito MTM driver arrangements paired with HEDD’s Air Motion Transformer on the main monitor, while each XTD module houses a high-excursion woofer and a 700W Class D amplifier. Users can configure the XTD units in ported or closed modes, and implement selectable cardioid configurations to reduce rear-wall reflections. Management is handled via HEDD CTRL over Ethernet, incorporating a 12-band parametric EQ, time-alignment linearisation modes, and automated setup parameters for configurations scaling up to 250 speakers.</p>
+<p><small>Links: <a href="https://musictech.com/news/gear/hedd-audio-type-40/">musictech.com</a> | <a href="https://hedd.audio/products/type-40-system">source</a></small></p>
+<br clear="all" />
+
+<h2>Analogue Solutions Launches Series 700 Recreation of Roland System 700</h2>
+<a name="story-25957"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAS-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>British synth manufacturer Analogue Solutions has launched the Series 700, a £33,000 hardware recreation of Roland's rare mid-1970s System 700 modular synthesizer. Built using vintage schematics and custom-made components, the six-block system matches the original physical dimensions, circuitry, and layout, with the addition of a single-channel MIDI-to-CV converter for syncing its analogue sequencer.</p><p>The original Roland System 700 was an exceptionally expensive and scarce modular instrument, with second-hand units fetching upwards of £150,000. Analogue Solutions is offering the Series 700 as a complete package or in individual blocks, with pre-orders currently open and a separate 61-key controller keyboard planned as an optional upgrade.</p>
+<p><small>Links: <a href="https://musictech.com/news/gear/one-giant-leap-for-synthkind-analogue-solutions-launches-the-series-700-a-33000-recreation-of-the-roland-system-700/">musictech.com</a> | <a href="https://www.analoguesolutions.com/s700-intro">source</a></small></p>
+<br clear="all" />
+
 <h2>Noisebud Updates ToC Phase Correction Plugin to Version 1.11</h2>
 <a name="story-25965"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fv111.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio developer Noisebud has released version 1.11 of ToC, its stereo phase-correction plugin designed to improve mono compatibility and restore missing center frequency information. The update introduces a Precision processing mode, an adjustable phase-mode control, and a Mono Sub filter.</p><p>The Precision mode provides high-resolution, linear-phase processing across the phase-mode control's range, while the Mono Sub feature uses linear-phase filtering to center low-frequency side information. ToC v1.11 is available for Windows and macOS in VST3 and AU formats for $42, and is also included with a Noisebud Patreon subscription starting at $7 per month.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25916"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.synthtopia.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fm-wave-fm-1-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Open-source firmware and community-developed software are increasingly shaping the electronic music hardware market, spurred by the success of affordable, modifiable instruments like the M-Vave FM-1 and new developer support from established manufacturers.</p><p>Companies such as Akai, Behringer, and Erica Synths are introducing open firmware initiatives or software development kits for devices like the KICK and LXR-02, while independent projects like DOOM OS for Roland samplers demonstrate strong user demand for custom workflows. Although AI-assisted coding tools are accelerating community development, the trend also raises industry questions regarding long-term support, device stability, and security risks from unofficial software modifications.</p>
 <p><small>Links: <a href="https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/">synthtopia.com</a> | <a href="https://lobste.rs/s/j4ntsz/will_open_firmware_become_next_big_trend">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Granola Launches Dictation Feature for Mac</h2>
-<a name="story-25852"><img src="https://wsrv.nl/?url=https%3A%2F%2Faitoolsopinions.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGemini_Generated_Image_loxum5loxum5loxu.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Granola has released a Mac dictation feature that converts speech into formatted text across all applications. By pressing the "Fn" key, users can dictate content for emails, messages, and prompts, which the tool then cleans and formats.</p><p>The expansion into dictation mirrors a recent move by competitor Wispr, which added meeting note-taking to its platform. Granola plans to launch the feature on Windows and iOS in the future.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/">techcrunch.com</a></small></p>
-<br clear="all" />
-
-<h2>Anthony Marinelli Discusses Synth Programming and Film Scoring Career</h2>
-<a name="story-25840"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fartboard4.1793182324.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Veteran synthesist and composer Anthony Marinelli reflects on his decades-long career in music production and film scoring, recounting his early work on classic hardware like the ARP 2600 and his contributions to landmark projects including Michael Jackson's Thriller.</p><p>Drawing on his experiences navigating pre-MIDI synchronization challenges and scoring films such as Blue Thunder, Marinelli discusses how his practical studio background inspired his educational platforms, including the Think Like a Synth and Bass DNA courses designed to teach foundational sound design.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/-68871?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68871">kvraudio.com</a></small></p>
 <br clear="all" />
 
 ---

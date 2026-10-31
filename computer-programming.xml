@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-30T17:11:00+00:00</updated>
+  <updated>2026-10-30T17:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Tangled Releases Federated Code Forge Built on AT Protocol</title>
+    <link href="https://tangled.org/blog/forge/" rel="alternate" />
+    <id>https://tangled.org/blog/forge/::v240</id>
+    <published>2026-10-30T17:58:00+00:00</published>
+    <updated>2026-10-30T17:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.tangled.network%2Fblog%2Fforge%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://tangled.org/blog/forge/">tangled.org</a> | <a href="https://lobste.rs/s/ukj8mm/federated_code_forge">discussion</a> | <a href="https://news.ycombinator.com/item?id=50305573">hacker news</a></small></p><hr/><p>Tangled has introduced a federated code forge built on the AT Protocol, enabling users to self-host components such as Git hosting, CI runners, or entire API servers while collaborating seamlessly across independent instances. The platform aims to decentralize code hosting by combining open protocols with a polished user experience and built-in hackability.</p><p>The latest release features a complete architectural overhaul, including a Svelte frontend, a global in-memory Rust indexer named bobbin, and a rewritten knot server that stores issues and pull requests as collaborative objects (COBs) directly inside Git repositories. Additional updates bring organization accounts, cryptographic two-way attestations, and native support for stacked pull requests.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.tangled.network%2Fblog%2Fforge%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 00:00 UTC | #25981</small>]]></content>
+  </entry>
   <entry>
     <title>Infinite Mac Adds BeOS Support for Browser Emulation</title>
     <link href="https://blog.persistent.info/2026/10/infinite-mac-beos.html" rel="alternate" />
@@ -614,14 +623,5 @@
     <updated>2026-10-26T00:24:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEHu02V1d9Vgw%2Ffeedshare-shrink_800%2FB56Z2UxOXSKkAc-%2F0%2F1776317425443%3Fe%3D2147483647%26v%3Dbeta%26t%3DHKOamL3chHfIZjZq-qGIA9X7VBMFAxeViDWnNXDXh_Y&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://fishbowl.pastiche.org/2026/10/26/ai-skills">fishbowl.pastiche.org</a> | <a href="https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026">discussion</a></small></p><hr/><p>Software developer Charles Miller argues that transient technical skills like prompt engineering and custom AI instructions quickly become obsolete as software companies fold these temporary workarounds into default product features. Drawing historical parallels to outdated programming folklore, he contends that any skill easily acquired in a few weeks lacks lasting value outside its immediate moment.</p><p>While acknowledging the necessity of keeping pace with modern tools for daily tasks, Miller expresses skepticism toward industry pressure to blindly adopt new AI trends early, suggesting that careful pacing often outperforms rushing to jump on every technological bandwagon.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEHu02V1d9Vgw%2Ffeedshare-shrink_800%2FB56Z2UxOXSKkAc-%2F0%2F1776317425443%3Fe%3D2147483647%26v%3Dbeta%26t%3DHKOamL3chHfIZjZq-qGIA9X7VBMFAxeViDWnNXDXh_Y&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 03:32 UTC | #25413</small>]]></content>
-  </entry>
-  <entry>
-    <title>Building Java ME Apps with Modern Tooling</title>
-    <link href="https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/" rel="alternate" />
-    <id>https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/::v240</id>
-    <published>2026-10-25T21:34:00+00:00</published>
-    <updated>2026-10-25T21:34:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvoxelmanip.se%2Fmedia%2Fbuilding-java-me-apps-with-modern-tooling%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/">voxelmanip.se</a> | <a href="https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling">discussion</a></small></p><hr/><p>A technical guide details how to develop Java ME applications for legacy feature phones using modern development environments and tools like OpenJDK 8, MicroEmulator stubs, and ProGuard, avoiding outdated Sun Java ME SDKs.</p><p>The walkthrough covers compiling Java source code into backward-compatible bytecode, configuring MIDlet manifests, preverifying binaries, testing in emulators, and transferring files to vintage hardware via Bluetooth, alongside practical warnings regarding strict size constraints and platform limitations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvoxelmanip.se%2Fmedia%2Fbuilding-java-me-apps-with-modern-tooling%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 00:41 UTC | #25406</small>]]></content>
   </entry>
 </feed>

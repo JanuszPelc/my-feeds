@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-30T14:09:00+00:00</updated>
+  <updated>2026-10-30T16:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Binance Sets Aside $6.34 Billion to Cover Hack Losses</title>
+    <link href="https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/" rel="alternate" />
+    <id>https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/::v240</id>
+    <published>2026-10-30T16:09:00+00:00</published>
+    <updated>2026-10-30T16:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-qwen_generated_1769449161350.jpg.png%3Fformat%3Dwebp%26width%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/">reuters.com</a></small></p><hr/><p>Binance has reserved more than $6.34 billion in company funds to restore customer balances and address the fallout from a major security breach. The exchange stated that the allocation is designed to fully cover the estimated losses resulting from the incident.</p><p>Of the total amount, approximately $5 billion is already held in the specific token assets affected by the attack, while the remaining balance is being acquired through open market and over-the-counter transactions. The measure follows the platform's earlier commitments to secure affected user funds and stabilize operations following the theft.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-qwen_generated_1769449161350.jpg.png%3Fformat%3Dwebp%26width%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 23:54 UTC | #25951</small>]]></content>
+  </entry>
   <entry>
     <title>Kioxia Reports 22-Fold Jump in Second-Quarter Operating Profit on AI Demand</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs" rel="alternate" />

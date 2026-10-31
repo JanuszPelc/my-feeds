@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Binance Sets Aside $6.34 Billion to Cover Hack Losses</h2>
+<a name="story-25951"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-qwen_generated_1769449161350.jpg.png%3Fformat%3Dwebp%26width%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Binance has reserved more than $6.34 billion in company funds to restore customer balances and address the fallout from a major security breach. The exchange stated that the allocation is designed to fully cover the estimated losses resulting from the incident.</p><p>Of the total amount, approximately $5 billion is already held in the specific token assets affected by the attack, while the remaining balance is being acquired through open market and over-the-counter transactions. The measure follows the platform's earlier commitments to secure affected user funds and stabilize operations following the theft.</p>
+<p><small>Links: <a href="https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/">reuters.com</a></small></p>
+<br clear="all" />
+
 <h2>Kioxia Reports 22-Fold Jump in Second-Quarter Operating Profit on AI Demand</h2>
 <a name="story-25929"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260603%2Fkioxia-holding-pe-96f2c5085e4c4ea7920feefc54483940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kioxia Holdings Corp. reported a 22-fold year-over-year surge in fiscal second-quarter operating profit to approximately $12.7 billion, meeting analyst expectations. The dramatic earnings growth was propelled by soaring demand and higher prices for flash memory chips as data center operators aggressively expand artificial intelligence infrastructure.</p><p>Despite the record quarterly performance, the company issued a third-quarter operating profit forecast of about $12.7 billion, falling short of the roughly $14.9 billion average analyst estimate. The conservative outlook underscores potential pricing and supply dynamics within the memory market even as AI-related storage requirements remain robust.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25837"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fcloudinary%2Ftransformations%2Fwp-content%2Fuploads%2F2026%2F04%2F1776207855_b6a697ba3a44347758dcb32b7f042f3d_v1776207855_xlarge.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Investment firm Situational Awareness is reportedly pitching its clients to participate in a new funding round for cloud-computing startup Fluidstack Ltd. The proposed financing values the neocloud provider at $40 billion, marking a sharp increase from its $18 billion valuation in September.</p><p>The rapid valuation growth underscores intense investor demand for artificial intelligence infrastructure and specialized cloud providers. Fluidstack has experienced repeated funding rounds and scaling valuations over the past year as major AI labs race to secure massive compute resources.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>HTX to Exit UK Following FCA Settlement</h2>
-<a name="story-25827"><img src="https://wsrv.nl/?url=https%3A%2F%2Fambcrypto.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAdewale-2-1-16-1536x864.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The cryptocurrency exchange HTX, linked to billionaire Justin Sun, has reached a settlement with the Financial Conduct Authority (FCA) to exit the United Kingdom. This resolution concludes legal proceedings initiated in October 2025 regarding the unlawful promotion of crypto asset services.</p><p>Under the agreement, HTX is no longer active in the UK, and the platform has blocked new user sign-ups and deposits. The settlement follows the FCA's reported difficulties in engaging the exchange before legal action and includes High Court undertakings prohibiting HTX from targeting or soliciting UK consumers.</p>
-<p><small>Links: <a href="https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?accessToken=zwAAAaGH5sPHkc9Uwjbvr3pA39OfD6vz1sgl0g.MEUCIGQ8rE8WIjOcep-oKi8Udw7YBYD5v0QqOa_A7Zk8I5WoAiEA7dyy_tqO0pfOLIUI-hRE_N7sHiukV98-c7snAM_rvkU&sharetype=gift&token=79c04867-fa52-4e5e-a203-5f1a092f1136&syn-25a6b1a6=1">ft.com</a> | <a href="https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions">source</a></small></p>
 <br clear="all" />
 
 ---

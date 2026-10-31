@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Tangled Releases Federated Code Forge Built on AT Protocol</h2>
+<a name="story-25981"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.tangled.network%2Fblog%2Fforge%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tangled has introduced a federated code forge built on the AT Protocol, enabling users to self-host components such as Git hosting, CI runners, or entire API servers while collaborating seamlessly across independent instances. The platform aims to decentralize code hosting by combining open protocols with a polished user experience and built-in hackability.</p><p>The latest release features a complete architectural overhaul, including a Svelte frontend, a global in-memory Rust indexer named bobbin, and a rewritten knot server that stores issues and pull requests as collaborative objects (COBs) directly inside Git repositories. Additional updates bring organization accounts, cryptographic two-way attestations, and native support for stacked pull requests.</p>
+<p><small>Links: <a href="https://tangled.org/blog/forge/">tangled.org</a> | <a href="https://lobste.rs/s/ukj8mm/federated_code_forge">discussion</a> | <a href="https://news.ycombinator.com/item?id=50305573">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Infinite Mac Adds BeOS Support for Browser Emulation</h2>
 <a name="story-25980"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpersistent.info%2Fimages%2Finfinite-mac-beos-desktop.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Infinite Mac now supports running multiple PowerPC versions of BeOS directly within web browsers, allowing users to experience the alternative operating system alongside classic Macintosh software. The integration provides instant booting via streamed disk images, pre-installed software libraries, and CD-ROM access through the Internet Archive.</p><p>Implementing BeOS compatibility required upstream fixes to the DingusPPC emulator to resolve hardware discrepancies, input emulation bugs, and display handling differences that previously tied the emulator closely to Mac OS quirks. Alongside BeOS support, the update introduces new quality-of-life features such as screen recording, screenshot capture, and expanded operating system CD-ROM collections hosted on dedicated infrastructure.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25885"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ampltd.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fh264hd2000-function-diagram.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Used extensively in Blu-ray, mobile devices, and internet streaming, H.264 minimizes the bandwidth required for transmitting full-motion video.</p><p>The technology achieves significant data reduction through lossy compression methods such as quantization, chroma subsampling, and motion compensation. These techniques exploit spatial and temporal redundancies to lower file sizes compared to uncompressed video.</p>
 <p><small>Links: <a href="https://sidbala.com/h-264-is-magic/">sidbala.com</a> | <a href="https://news.ycombinator.com/item?id=50291054">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Developer Rairii Ports Classic Mac OS to Nintendo Wii</h2>
-<a name="story-25871"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvirtuallyfun.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fmacos922_wii1_00-00-59.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Rairii has successfully ported classic Mac OS versions 7.6 and 9.2.2 to PowerPC systems featuring ArtX chipsets, specifically targeting the Nintendo GameCube and Wii. The project required porting OpenBIOS, rewriting the Trampoline bootloader to handle non-standard physical address layouts, and developing custom storage drivers for EXI-based devices.</p><p>Overcoming hardware discrepancies involved bypassing missing microcontroller emulations and patching mismatched interrupt controller architectures. While testing under emulation revealed significant performance bottlenecks, execution on real hardware achieved functional boots, with ongoing development planned to extend support to the Wii U and additional onboard controllers.</p>
-<p><small>Links: <a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/">virtuallyfun.com</a> | <a href="https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii">discussion</a> | <a href="https://news.ycombinator.com/item?id=50292156">hacker news</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-30T14:07:00+00:00</updated>
+  <updated>2026-10-30T16:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Northflank Reports Security Incident and Environment Variable Compromise</title>
+    <link href="https://status.northflank.com" rel="alternate" />
+    <id>https://status.northflank.com::v240</id>
+    <published>2026-10-30T16:15:00+00:00</published>
+    <updated>2026-10-30T16:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.northflank.com%2Fdocumentation%2Fv1%2Fapplication%2Frun%2Finject-runtime-variables%2Fenvironment-variables.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://status.northflank.com">status.northflank.com</a> | <a href="https://news.ycombinator.com/item?id=50305025">hacker news</a></small></p><hr/><p>Northflank experienced a major security incident and service outage, prompting the platform to advise users to assume all environment variables and stored secrets have been compromised. The company urged customers to immediately rotate credentials, revoke existing keys, and disable public access to addons.</p><p>The incident involved unauthorized use of user-supplied AI API keys stored on the platform, aligning with broader threat patterns targeting AI developer platforms. Northflank deployed emergency network policy patches following a threat alert and enabled secret rotation features for databases like Postgres and MongoDB.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.northflank.com%2Fdocumentation%2Fv1%2Fapplication%2Frun%2Finject-runtime-variables%2Fenvironment-variables.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 23:56 UTC | #25991</small>]]></content>
+  </entry>
   <entry>
     <title>Binance Uncovers Additional Points of Breach in Security Incident Investigation</title>
     <link href="https://x.com/binance" rel="alternate" />
@@ -417,14 +426,5 @@
     <updated>2026-10-26T09:59:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fministryofcyberaffairs.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fstorage.googleapis.com%2Fcybersentry-news-images%2Farticles%2Fresearch%2F1792605858915-aihero.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://support.apple.com/en-us/149555">support.apple.com</a> | <a href="https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate">discussion</a></small></p><hr/><p>Apple has begun automatically blocking twelve compromised intermediate Certification Authority certificates issued by eMudhra across Safari, Mail, and system networking frameworks. The security measures follow the compromise of private keys across eight eMudhra intermediate CAs, which left them vulnerable to unauthorized TLS certificate generation and potential impersonation attacks.</p><p>While standard Apple applications handle the block automatically via background updates, command-line tools on macOS like curl and git that check against the system's /etc/ssl/cert.pem file may still accept the certificates until a future software update is released. Apple has provided manual Terminal commands for system administrators and developers who need to immediately remove the affected root certificates from their local configuration files.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fministryofcyberaffairs.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fstorage.googleapis.com%2Fcybersentry-news-images%2Farticles%2Fresearch%2F1792605858915-aihero.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 13:06 UTC | #25437</small>]]></content>
-  </entry>
-  <entry>
-    <title>Setting Up a Lightweight Web Server on NetBSD Using Bozohttpd</title>
-    <link href="https://bsandro.tech/posts/simple-netbsd-webserver/" rel="alternate" />
-    <id>https://bsandro.tech/posts/simple-netbsd-webserver/::v240</id>
-    <published>2026-10-25T23:14:00+00:00</published>
-    <updated>2026-10-25T23:14:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.netmeister.org%2Fblog%2Fimages%2Fnetbsd-linode-installer2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bsandro.tech/posts/simple-netbsd-webserver/">bsandro.tech</a> | <a href="https://lobste.rs/s/hzrmwz/simple_netbsd_webserver">discussion</a></small></p><hr/><p>A technical guide details how to configure a lightweight web server on NetBSD using the built-in bozohttpd daemon and the acme-client package for automated Let's Encrypt HTTPS certificates. Running bozohttpd directly as a standalone daemon avoids inetd overhead, requiring only basic configuration parameters within the rc.conf file.</p><p>Despite its minimal footprint, the built-in server supports features such as virtual hosts, CGI execution, HTTP basic authorization, and URL rewrites. This approach provides a practical, low-resource hosting solution suitable for homebrew projects and small-scale communities running on NetBSD.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netmeister.org%2Fblog%2Fimages%2Fnetbsd-linode-installer2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 02:16 UTC | #25411</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-30T15:49:00+00:00</updated>
+  <updated>2026-10-30T16:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>HEDD Audio Launches TYPE 40 Main and Modular XTD Monitoring System</title>
+    <link href="https://musictech.com/news/gear/hedd-audio-type-40/" rel="alternate" />
+    <id>https://musictech.com/news/gear/hedd-audio-type-40/::v240</id>
+    <published>2026-10-30T16:17:00+00:00</published>
+    <updated>2026-10-30T16:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FHedd-Audio-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/hedd-audio-type-40/">musictech.com</a> | <a href="https://hedd.audio/products/type-40-system">source</a></small></p><hr/><p>HEDD Audio has announced the TYPE 40 Main, a compact sealed three-way active reference monitor, alongside the TYPE 40 System, a modular platform that allows studios to add low-end output and directional control by stacking XTD modules beneath the main unit. Designed for professional mixing, mastering, and post-production environments, the system aims to provide full-range monitoring down to 20 Hz with a peak output of up to 123 dB SPL without requiring separate subwoofers or large-format cabinetry.</p><p>The system utilizes symmetrical D’Appolito MTM driver arrangements paired with HEDD’s Air Motion Transformer on the main monitor, while each XTD module houses a high-excursion woofer and a 700W Class D amplifier. Users can configure the XTD units in ported or closed modes, and implement selectable cardioid configurations to reduce rear-wall reflections. Management is handled via HEDD CTRL over Ethernet, incorporating a 12-band parametric EQ, time-alignment linearisation modes, and automated setup parameters for configurations scaling up to 250 speakers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FHedd-Audio-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 23:57 UTC | #25962</small>]]></content>
+  </entry>
+  <entry>
+    <title>Analogue Solutions Launches Series 700 Recreation of Roland System 700</title>
+    <link href="https://musictech.com/news/gear/one-giant-leap-for-synthkind-analogue-solutions-launches-the-series-700-a-33000-recreation-of-the-roland-system-700/" rel="alternate" />
+    <id>https://musictech.com/news/gear/one-giant-leap-for-synthkind-analogue-solutions-launches-the-series-700-a-33000-recreation-of-the-roland-system-700/::v240</id>
+    <published>2026-10-30T16:11:00+00:00</published>
+    <updated>2026-10-30T16:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAS-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/one-giant-leap-for-synthkind-analogue-solutions-launches-the-series-700-a-33000-recreation-of-the-roland-system-700/">musictech.com</a> | <a href="https://www.analoguesolutions.com/s700-intro">source</a></small></p><hr/><p>British synth manufacturer Analogue Solutions has launched the Series 700, a £33,000 hardware recreation of Roland's rare mid-1970s System 700 modular synthesizer. Built using vintage schematics and custom-made components, the six-block system matches the original physical dimensions, circuitry, and layout, with the addition of a single-channel MIDI-to-CV converter for syncing its analogue sequencer.</p><p>The original Roland System 700 was an exceptionally expensive and scarce modular instrument, with second-hand units fetching upwards of £150,000. Analogue Solutions is offering the Series 700 as a complete package or in individual blocks, with pre-orders currently open and a separate 61-key controller keyboard planned as an optional upgrade.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAS-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 23:54 UTC | #25957</small>]]></content>
+  </entry>
   <entry>
     <title>Noisebud Updates ToC Phase Correction Plugin to Version 1.11</title>
     <link href="https://www.kvraudio.com/news/noisebud-updates-toc-phase-correction-plugin-to-v1-11-69528?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69528" rel="alternate" />
