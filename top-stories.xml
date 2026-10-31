@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-10-31T18:16:00+00:00</updated>
+  <updated>2026-10-31T18:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Shanidar Cave Neanderthal Fossil Shows Evidence of Fatal Wooden Spear Wound</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261029072126.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261029072126.htm::v240</id>
+    <published>2026-10-31T18:50:00+00:00</published>
+    <updated>2026-10-31T18:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%215mDU%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbdbefd37-4df9-4333-851b-f852e1bafbef_1024x1024.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261029072126.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41598-026-69193-z">source</a> | <a href="https://news.ycombinator.com/item?id=50304435">hacker news</a></small></p><hr/><p>An analysis of a 75,000-year-old Neanderthal shoulder blade from Shanidar Cave in Iraqi Kurdistan suggests the individual was killed by a sharpened wooden spear. Researchers identified a precise circular opening in the delicate scapula bone that matches wounds created by wooden projectile or thrusting weapons, potentially pointing to an intentional attack directed at the heart.</p><p>Despite the violent nature of the death, other skeletal remains from the roughly 45-year-old individual, designated Shanidar A, reveal signs of surviving a severe earlier facial trauma for at least a year, indicating long-term care and social support from other members of the group. The findings offer rare physical evidence of both interpersonal violence and community care within Neanderthal society.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%215mDU%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbdbefd37-4df9-4333-851b-f852e1bafbef_1024x1024.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 16:25 UTC | #26033</small>]]></content>
+  </entry>
   <entry>
     <title>SigNoz Examines AI Deskilling Risks in Site Reliability Engineering</title>
     <link href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling" rel="alternate" />
