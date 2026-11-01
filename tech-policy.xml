@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-31T21:18:00+00:00</updated>
+  <updated>2026-11-01T05:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Brazilian Labor Court Fines Lawyers for Prompt Injection in Court Filing</title>
+    <link href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/" rel="alternate" />
+    <id>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/::v240</id>
+    <published>2026-11-01T05:42:00+00:00</published>
+    <updated>2026-11-01T05:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fjlellis.net%2Fwp-content%2Fuploads%2F2026%2F08%2Fimage-9.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">jetstream.security</a> | <a href="https://news.ycombinator.com/item?id=50322173">hacker news</a></small></p><hr/><p>A Brazilian labor court fined two lawyers after discovering a hidden prompt-injection command embedded within a court filing to manipulate the judiciary's artificial intelligence review system. Rendered in white font on a white background, the concealed instruction directed the Galileu AI tool to process the petition superficially and avoid challenging submitted documents.</p><p>The court sanctioned the representing law firms 10 percent of the claim's value for violating procedural good-faith duties and undermining institutional respect under the Brazilian Civil Procedure Code. As legal systems increasingly adopt automated tools for document processing, this ruling underscores the emerging security challenges surrounding machine-readable content in judicial proceedings.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fjlellis.net%2Fwp-content%2Fuploads%2F2026%2F08%2Fimage-9.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 15:33 UTC | #26098</small>]]></content>
+  </entry>
   <entry>
     <title>Federal Judge Allows NAACP Clean Air Act Lawsuit Against xAI to Proceed</title>
     <link href="https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/" rel="alternate" />
