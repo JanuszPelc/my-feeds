@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Memdoor Releases Team-Solve Workflow Implementing GVS5H Multi-Agent Architecture</h2>
+<a name="story-26089"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHPsbsG0b0AA7mhV%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Memdoor has published a new workflow implementation called team-solve, based on the GVS5H training-free self-orchestration method. The architecture coordinates five distinct Qwen3.8-27B agent instances—acting as a planner, two ideators, a solver, a manager, and a repair worker—running with fresh contexts and communicating solely through files on disk rather than shared memory or chat windows.</p><p>Tested on the first ten problems of the LiveCodeBench Hard benchmark across five passes, the file-based multi-agent setup achieved a mean score of 9.8 out of 10, matching the performance of the authors' original research harness. Each run took a median of 40 minutes at a cost of approximately $0.39, utilizing eight YAML configuration files without custom code or hardcoded model names.</p>
+<p><small>Links: <a href="https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve">github.com</a> | <a href="https://news.ycombinator.com/item?id=50320995">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Chatbots Rely on Obscure AI-Built Voter Sites for US Midterm Information</h2>
 <a name="story-26072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcapwolf.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fcrypto-and-ai-face-voter-backlash-ahead-of-2026-midterms-768x432.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis reveals that AI chatbots such as Microsoft Copilot and OpenAI's ChatGPT frequently depend on obscure, AI-generated websites, including the error-prone Ballot Brief, to answer questions about US midterm elections. Tests showed that Copilot cited Ballot Brief in 75 percent of queries, while ChatGPT cited it 22 percent of the time.</p><p>Experts warn that this AI feedback loop could quietly propagate inaccuracies, outdated details, and fabrications regarding candidates and voting procedures to millions of voters who increasingly utilize chatbots for election guidance.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogin.madewithlove.com%2Fuploaded%2F50068d2527bc62e18817c%2Fdisplay%2Fscreenshot_2026-04-14_at_16.26.37.png%3Fgt%3Dca9197d22ec4cb046ca1b4bd88870be97322e423&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Claude Code periodically sends the full transcripts of background agents to their respective models every 30 seconds to generate brief status descriptions, a process that accounts for 15 to 20 percent of total token consumption. This background activity occurs without user configuration options to disable it, impacting rate-limit headroom primarily through automated model requests that do not contribute to the main conversation.</p><p>To eliminate this overhead, developers have created a Bun preload script that intercepts and suppresses the specific timers responsible for triggering the summary requests. Testing across multiple versions indicates that disabling the feature successfully eliminates these requests while maintaining normal operation for background agents and subagents.</p>
 <p><small>Links: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">gist.github.com</a> | <a href="https://news.ycombinator.com/item?id=50284255">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Qwenputer Embeds RISC-V CPU into Qwen 3.5 Weights</h2>
-<a name="story-25780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdivagr.com%2Fqwenputer%2Fdemo.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Qwenputer is an experimental model based on Qwen 3.5 4B that embeds a 32-bit RISC-V CPU directly into its weights. By using Gated DeltaNet (GDN) layers as exact, addressable RAM, the CPU executes arithmetic, C, and MicroPython code during forward passes without external runtimes or tool calls.</p><p>The implementation uses one-hot key encoding for memory access and has achieved 100% accuracy on specific long-integer arithmetic benchmarks. An experimental filesystem also allows the model to store and retrieve text data via the DeltaNet state, providing persistent memory across conversation sessions.</p>
-<p><small>Links: <a href="https://divagr.com/blog/qwenputer">divagr.com</a> | <a href="https://github.com/divagr18/qwenputer">source</a> | <a href="https://news.ycombinator.com/item?id=50282838">hacker news</a></small></p>
 <br clear="all" />
 
 ---
