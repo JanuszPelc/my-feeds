@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-31T16:21:00+00:00</updated>
+  <updated>2026-11-01T16:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Cost of Insuring Debt Defaults at Major Tech Hyperscalers Reaches Highest Level Since 2021</title>
+    <link href="https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG" rel="alternate" />
+    <id>https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG::v240</id>
+    <published>2026-11-01T16:01:00+00:00</published>
+    <updated>2026-11-01T16:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F603eb6e65ff3b1b5c33ed177%2F695d444d08f91cb3d6b5d27c_695d3b8212e0ddc1251636ac-1767719120051.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG">wsj.com</a></small></p><hr/><p>The cost of insuring against debt defaults for major technology hyperscalers including Amazon, Alphabet, Microsoft, Meta, and Oracle has climbed to its highest level since 2021. Investors and traders are increasingly purchasing credit protection as financial commitments and debt issuance surge to fund the artificial intelligence infrastructure boom.</p><p>With trillions of dollars dedicated to the AI trade, market participants are weighing the long-term profitability of these massive capital expenditures against rising credit risks. The growing demand for default insurance highlights mounting caution among investors despite years of stellar gains powered by the tech sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F603eb6e65ff3b1b5c33ed177%2F695d444d08f91cb3d6b5d27c_695d3b8212e0ddc1251636ac-1767719120051.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 18:06 UTC | #26090</small>]]></content>
+  </entry>
   <entry>
     <title>Meta and Fourier Build Humanoid Robot Prototype</title>
     <link href="https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push" rel="alternate" />

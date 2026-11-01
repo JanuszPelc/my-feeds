@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Cost of Insuring Debt Defaults at Major Tech Hyperscalers Reaches Highest Level Since 2021</h2>
+<a name="story-26090"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F603eb6e65ff3b1b5c33ed177%2F695d444d08f91cb3d6b5d27c_695d3b8212e0ddc1251636ac-1767719120051.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The cost of insuring against debt defaults for major technology hyperscalers including Amazon, Alphabet, Microsoft, Meta, and Oracle has climbed to its highest level since 2021. Investors and traders are increasingly purchasing credit protection as financial commitments and debt issuance surge to fund the artificial intelligence infrastructure boom.</p><p>With trillions of dollars dedicated to the AI trade, market participants are weighing the long-term profitability of these massive capital expenditures against rising credit risks. The growing demand for default insurance highlights mounting caution among investors despite years of stellar gains powered by the tech sector.</p>
+<p><small>Links: <a href="https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG">wsj.com</a></small></p>
+<br clear="all" />
+
 <h2>Meta and Fourier Build Humanoid Robot Prototype</h2>
 <a name="story-26049"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.fftai.com%2Fstatic%2Fcms%2Fimages%2Ftechnology2-img2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta Platforms has partnered with Chinese robotics company Fourier to build a prototype humanoid robot, internally known as Max, in a span of three months. The project highlights the social media giant's expanding efforts to develop advanced robotics technology intended for home environments.</p><p>The companies are already developing a second version of the roughly 106-pound robot following early-stage discussions Meta held with other hardware manufacturers like Unitree Robotics. Meta has stated that it currently has no plans to commercialize or sell these prototype units.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25985"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1UPzRk.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D77&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intel shares fell 29% on Friday, marking the company's worst single-day performance since the 1970s. The decline was driven by weaker-than-expected financial guidance, a manufacturing plant shutdown in Israel following an explosion, and prolonged weakness in the global PC market.</p><p>The sell-off reduced the value of the U.S. government's 10% stake in Intel by approximately $12 billion and Nvidia's stake by $6 billion. The volatility occurred amidst a broader technology sector sell-off, as investors expressed increasing concern regarding the long-term returns on massive capital expenditures for artificial intelligence infrastructure.</p>
 <p><small>Links: <a href="https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html">cnbc.com</a> | <a href="https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-reports-third-quarter-2026-financial-results.html">intel.com</a></small></p>
-<br clear="all" />
-
-<h2>Blackstone Expects Anthropic to Receive High Junk Credit Rating Following IPO</h2>
-<a name="story-25995"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspcdn.shortpixel.ai%2Fspio%2Fret_img%2Cq_cdnize%2Cto_avif%2Cs_avif%2Faibase.ng%2Fwp-content%2Fuploads%2F2026%2F05%2FAnthropic-Partners-with-Blackstone-and-Goldman-Sachs-on-1.5B-Enterprise-AI-Venture-768x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Blackstone expects Anthropic to receive a "high" junk credit rating, likely in the double-B range, following its initial public offering. This marks a shift from previous guidance in which the investment firm anticipated the AI developer would achieve an investment-grade rating before 2027.</p><p>A junk rating could increase borrowing costs for Anthropic, potentially making it more expensive to fund its massive spending on compute power and infrastructure. The company filed to go public earlier this week, amid ongoing scrutiny of its capital requirements.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">techcrunch.com</a> | <a href="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50311311">hacker news</a></small></p>
 <br clear="all" />
 
 ---
