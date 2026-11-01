@@ -13,7 +13,7 @@ it into your RSS reader.
 
 <h1><img src="images/top-stories.png" width="36" align="absmiddle" /> top-stories</h1>
 
-*A low-volume selection of stories from all the other feeds. Add it to your RSS reader:*
+*A low-volume selection of noteworthy stories from all the other feeds. Add it to your RSS reader:*
 
 ```
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
