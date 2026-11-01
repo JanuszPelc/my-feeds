@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-01T02:59:00+00:00</updated>
+  <updated>2026-11-01T04:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>University of Southampton and IIT Kanpur Physicists Propose Heavy Neutrino Theory for Matter Survival</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261031221201.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261031221201.htm::v240</id>
+    <published>2026-11-01T04:34:00+00:00</published>
+    <updated>2026-11-01T04:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.quantamagazine.org%2Fwp-content%2Fuploads%2F2016%2F07%2FNeutrino_900-768x1279.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261031221201.htm">sciencedaily.com</a> | <a href="https://www.southampton.ac.uk/news/2026/10/forgotten-particle-could-answer-mystery-of-why-we-exist.page">source</a></small></p><hr/><p>Physicists from the University of Southampton and the Indian Institute of Technology Kanpur have proposed that a long-overlooked heavy neutrino could solve the mystery of why matter survived the Big Bang. According to their study published in Physical Review Letters, this decoupled heavy neutrino decays extremely slowly, allowing it to temporarily dominate the universe's energy density as the cosmos cooled.</p><p>This brief period of dominance shifted the temperature conditions governing key particle interactions involving the Higgs boson, influencing the balance between matter and antimatter. The researchers suggest that the resulting shifts in early cosmic expansion could leave detectable imprints on primordial gravitational waves, offering a potential path for experimental verification.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.quantamagazine.org%2Fwp-content%2Fuploads%2F2016%2F07%2FNeutrino_900-768x1279.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 09:34 UTC | #26078</small>]]></content>
+  </entry>
   <entry>
     <title>INRAE Researchers Discover Tension Wood Functions as Tree Posture Muscle</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261030003006.htm" rel="alternate" />
