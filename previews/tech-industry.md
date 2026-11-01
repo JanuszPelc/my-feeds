@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta and Fourier Build Humanoid Robot Prototype</h2>
+<a name="story-26049"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.fftai.com%2Fstatic%2Fcms%2Fimages%2Ftechnology2-img2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta Platforms has partnered with Chinese robotics company Fourier to build a prototype humanoid robot, internally known as Max, in a span of three months. The project highlights the social media giant's expanding efforts to develop advanced robotics technology intended for home environments.</p><p>The companies are already developing a second version of the roughly 106-pound robot following early-stage discussions Meta held with other hardware manufacturers like Unitree Robotics. Meta has stated that it currently has no plans to commercialize or sell these prototype units.</p>
+<p><small>Links: <a href="https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push">theinformation.com</a></small></p>
+<br clear="all" />
+
 <h2>Arizona Faces Grassroots Backlash Over Data Center Water Consumption and TSMC Expansion</h2>
 <a name="story-26035"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F20cb9daeace3f963293c7ef81df1b1db3fbc9478.jpg%3Fw%3D828&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>While Taiwan Semiconductor Manufacturing Company's massive microchip foundry in Phoenix was welcomed as an economic savior, newer proposed hyperscale data centers are facing intense local opposition across Arizona. Bipartisan coalitions of residents and activists are pushing back against these developments due to their immense demands on the state's limited water, electricity, and land resources.</p><p>As Arizona prepares for looming cuts to its Colorado River water allocation and rising regional temperatures, community resistance highlights growing tensions over industrial resource depletion in the desert. Although state and local economic developers successfully courted semiconductor manufacturing, newer tech infrastructure projects are struggling to win public approval amid mounting environmental concerns.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25995"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspcdn.shortpixel.ai%2Fspio%2Fret_img%2Cq_cdnize%2Cto_avif%2Cs_avif%2Faibase.ng%2Fwp-content%2Fuploads%2F2026%2F05%2FAnthropic-Partners-with-Blackstone-and-Goldman-Sachs-on-1.5B-Enterprise-AI-Venture-768x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Blackstone expects Anthropic to receive a "high" junk credit rating, likely in the double-B range, following its initial public offering. This marks a shift from previous guidance in which the investment firm anticipated the AI developer would achieve an investment-grade rating before 2027.</p><p>A junk rating could increase borrowing costs for Anthropic, potentially making it more expensive to fund its massive spending on compute power and infrastructure. The company filed to go public earlier this week, amid ongoing scrutiny of its capital requirements.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">techcrunch.com</a> | <a href="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1">source</a> | <a href="https://news.ycombinator.com/item?id=50311311">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Last-minute Halloween costumes for tech enthusiasts</h2>
-<a name="story-25996"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresizer.ladbiblegroup.com%2Fogimage%2Fv3%2Fassets%2Fbltb5d92757ac1ee045%2Fbltb14c0aac2b5510a1%2F69f361084a7c3145a7a51463%2Fbryan_johnson_kate_oral_sex_.png%3Fcrop%3D1200%2C675%2Cx0%2Cy0&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Current technology trends and industry figures inspire several low-effort Halloween costume ideas for enthusiasts. These suggestions provide last-minute options for those celebrating in the tech community.</p><p>Themes include Meta and OpenAI AI agents, Mark Zuckerberg’s clothing style, Claude usage limit notifications, and PHP vulnerabilities. Costumes based on biohacker Bryan Johnson are also suggested.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/">techcrunch.com</a></small></p>
 <br clear="all" />
 
 ---

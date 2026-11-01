@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Cisco Talos Details VOLTA Infostealer&#x27;s AI-Driven Victim Profiling</h2>
+<a name="story-26063"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2Faf%2Fa0%2Fafa04ee3-414f-4481-8d23-7e7c146f192e%2Fcontent%2Fimages%2F2026%2F10%2FVOLTA.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cisco Talos researchers have uncovered a Windows infostealer named VOLTA-AUTODOXER that integrates a large language model stage to automatically profile victims and rank their assets by monetization value. After harvesting standard credentials, sessions, and cryptocurrency wallets from a compromised machine, the malware builds a structured evidence bundle and queries OpenRouter using a multi-model architecture.</p><p>The system prompt instructs the AI model to act as a forensic intelligence analyst, producing a target assessment and security posture evaluation. VOLTA employs a fallback chain utilizing Claude, Kimi, and Gemini models to handle model refusals, while enriching data via stolen session access to services like Gmail and food delivery apps before self-deleting.</p>
+<p><small>Links: <a href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/">blog.talosintelligence.com</a> | <a href="https://news.ycombinator.com/item?id=50316531">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Molly Signal Fork Unmaintained for Three Months and Vulnerable to Mainline Exploits</h2>
 <a name="story-26057"><img src="https://wsrv.nl/?url=https%3A%2F%2Flowtek.ca%2Froo%2Fwp-content%2Fuploads%2F2024%2F09%2Ffdroid-molly.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Molly, a security-focused fork of the Signal messaging application for Android, has not received a software update since late July 2026. This three-month lack of maintenance has left the application lagging behind mainline Signal patches and exposed to known security vulnerabilities.</p><p>Specifically, the app remains vulnerable to an October exploit that allows audio and video streams to continue after a call has ended, an issue that was fixed in mainline Signal version 8.27. Community discussions and privacy advocates currently recommend switching back to the official mainline Signal application until the fork resumes regular updates.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>TRM Labs Attributes Binance Crypto Theft to North Korea</h2>
 <p>Blockchain analysis firm TRM Labs has attributed the theft of approximately $6.36 billion from Binance to TraderTraitor, a North Korea-based hacking group. The attacker drained funds across ten blockchains, mostly within a span of about 20 minutes, marking the largest cryptocurrency theft on record.</p><p>The breach involved a compromise of Binance's hot wallet signing infrastructure, triggering widespread industry precautions such as asset freezes across decentralized finance markets like Aave and Arbitrum. Investigators and security researchers are actively tracing the stolen funds as the crypto sector grapples with the fallout from the massive exploit.</p>
 <p><small>Links: <a href="https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/">reuters.com</a> | <a href="https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history">source</a> | <a href="https://news.ycombinator.com/item?id=50300644">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>CrowdStrike Reports China-Linked Hackers Used AI in Global Cyberattacks</h2>
-<a name="story-25907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdedirock.com%2Fwp-content%2Fuploads%2F2025%2F12%2Feee46ad6-f1fd-4349-8fe6-747fdc3c5f74.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Chinese state-linked hackers targeted more than 200 organizations across at least 14 countries in an 11-day campaign that leveraged artificial intelligence tools, including the DeepSeek model, according to a report from cybersecurity firm CrowdStrike.</p><p>The campaign, attributed to a threat group known as VAPOR PANDA, utilized the ARTEX agent framework to automate and scale cyber espionage operations against government and corporate targets, demonstrating how malicious actors are using AI to reduce the human effort required for large-scale attacks.</p>
-<p><small>Links: <a href="https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343">nbcnews.com</a> | <a href="https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/">source</a></small></p>
 <br clear="all" />
 
 ---

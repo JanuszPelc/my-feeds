@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Binance Replenishes 90 Percent of Stolen Assets Following Hack</h2>
+<a name="story-26046"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2022%2F10%2F07%2Fbusiness%2F07binance-hack%2F07binance-hack-videoSixteenByNine3000.jpg%3Fyear%3D2022%26h%3D1688%26w%3D3000%26s%3D2fff993571383d3ea127fb8f0ddfffccf145ec06429f129964a648e8e45739c4%26k%3DZQJBKqZ0VN%26tw%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cryptocurrency exchange Binance announced that it has covered 90% of the digital assets stolen during a recent security breach by allocating over $6.34 billion of company funds. The exchange stated that major tokens have been fully backed to ensure users do not bear the financial impact.</p><p>The remaining 10% of unrecovered assets consist of less liquid tokens that require additional time to source. Binance reported that withdrawal services for fully backed assets are on track to resume following necessary security verifications.</p>
+<p><small>Links: <a href="https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/">reuters.com</a> | <a href="https://www.binance.com/en/square/post/10-31-2026-binance-news-update-binance-replenishes-90-of-stolen-assets-and-fully-backs-btc-eth-usdt-and-seven-other-tokens-with-withdrawals-on-track-for-sunday-383255957910498">source</a></small></p>
+<br clear="all" />
+
 <h2>Baseten Set for $30 Billion Valuation in New Funding</h2>
 <a name="story-26004"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F06%2F18110400%2Fhttps-www-citybiz-co-wp-content-uploads-2026-06-baseten-jpg-800x420.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence infrastructure startup Baseten is reportedly raising approximately $2 billion across two funding tranches, which would value the company at up to $30 billion. According to individuals familiar with the matter, the capital raise features valuations split into $26 billion and $30 billion tiers.</p><p>This potential valuation marks a rapid escalation for the firm, which was valued at $13 billion following a $1.5 billion funding round in June 2026. Baseten operates in the AI inference sector, providing serverless backend infrastructure to power machine learning models at scale for corporate clients.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25876"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.guru3d.com%2Fdata%2Fpublish%2F224%2F127ff5176d69d944a1acaca0ee10a199c5c097%2F1730447071_guru3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intel shares dropped 20% in extended trading Thursday after the company issued weak fourth-quarter guidance, citing continued softness in the global PC market. While third-quarter revenue increased 21% year-over-year to $16.51 billion and adjusted earnings per share reached 52 cents, the company's outlook for the next quarter missed analyst expectations.</p><p>For the fourth quarter, Intel expects adjusted earnings per share of 25 cents on revenue between $15 billion and $16 billion, significantly lower than the $43 cent EPS and $17.1 billion revenue analysts had projected. Despite a 78% jump in data center and AI revenue to $7.3 billion, the client computing and physical AI group saw a 5% revenue decline.</p>
 <p><small>Links: <a href="https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results">source</a> | <a href="https://news.ycombinator.com/item?id=50295106">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Amazon Reports Q3 2026 Revenue of $201.9 Billion</h2>
-<a name="story-25873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbarchart-news-media-prod.aws.barchart.com%2FEXCLSV%2F525ebb3badc62fe307c08bdce0c76fa6%2F0ddn9zwophyzld8j.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Third-quarter revenue reached $201.9 billion, a 12% increase year-over-year. Operating income rose 61% to $28.1 billion, resulting in a record operating margin of 13.9%, while AWS net sales grew by 39.3%.</p><p>Net income decreased 2% to $20.7 billion during the quarter. Following the announcement, Amazon's stock dropped more than 8% in after-hours trading.</p>
-<p><small>Links: <a href="https://www.businesswire.com/news/home/20261028373648/en/">businesswire.com</a> | <a href="https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">source</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,45 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-31T15:11:00+00:00</updated>
+  <updated>2026-10-31T19:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Andrej Karpathy Launches HackerTube YouTube Alternative</title>
+    <link href="https://karpathy.bearblog.dev/hacker-tube/" rel="alternate" />
+    <id>https://karpathy.bearblog.dev/hacker-tube/::v240</id>
+    <published>2026-10-31T19:57:00+00:00</published>
+    <updated>2026-10-31T19:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fkarpathy%2Fimage-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://karpathy.bearblog.dev/hacker-tube/">karpathy.bearblog.dev</a> | <a href="https://news.ycombinator.com/item?id=50319510">hacker news</a></small></p><hr/><p>Andrej Karpathy has launched HackerTube, a curated YouTube alternative built using Claude Opus 5.5. The platform aggregates 6,454 YouTube videos recommended in Hacker News comments between 2007 and 2026, filtering out low-grade content and spam across 150 topics.</p><p>Designed as an alternative to mainstream recommendation algorithms, HackerTube features a clean interface, clean thumbnails, local session-based recommendations, keyboard shortcuts, and data export options. Karpathy developed the project in roughly two hours to bypass conventional video platform bloat.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fkarpathy%2Fimage-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:23 UTC | #26061</small>]]></content>
+  </entry>
+  <entry>
+    <title>Avoid Public Functions Calling Other Public Functions</title>
+    <link href="https://matklad.github.io/2026/10/29/pub-calls-pub.html" rel="alternate" />
+    <id>https://matklad.github.io/2026/10/29/pub-calls-pub.html::v240</id>
+    <published>2026-10-31T18:06:00+00:00</published>
+    <updated>2026-10-31T18:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%217ki7%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Cg_auto%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c53ebbb-678b-4a7d-8ea3-cae7d5f26e4d_4000x3000.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://matklad.github.io/2026/10/29/pub-calls-pub.html">matklad.github.io</a> | <a href="https://lobste.rs/s/k508we/avoid_public_functions_calling_other">discussion</a></small></p><hr/><p>When developing software modules, developers should avoid having public functions call other public functions to satisfy the DRY principle. This practice creates tension between designing an interface convenient for external callers and one easy to reuse internally, often leading to interface degradation and bloated optional parameters.</p><p>Instead, developers should extract shared implementation logic into a private helper function that both public functions can call. An exception to this rule applies to shortcut APIs, where public functions are intentionally defined as chains of calls to other public functions to serve as genuine shortcuts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%217ki7%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Cg_auto%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c53ebbb-678b-4a7d-8ea3-cae7d5f26e4d_4000x3000.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:20 UTC | #26064</small>]]></content>
+  </entry>
+  <entry>
+    <title>Enlightenment 0.28.0 Released</title>
+    <link href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0" rel="alternate" />
+    <id>https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0::v240</id>
+    <published>2026-10-31T18:03:00+00:00</published>
+    <updated>2026-10-31T18:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.addictivetips.com%2Fapp%2Fuploads%2F2020%2F01%2Fenlightenment-wallpaper-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">enlightenment.org</a> | <a href="https://lobste.rs/s/fmawla/enlightenment_0_28_0_release">discussion</a></small></p><hr/><p>The release of Enlightenment 0.28.0 introduces initial NetBSD support, a new NetworkManager module with Wi-Fi and VPN capabilities, native PipeWire audio mixing alongside PulseAudio, and an integrated persistent clipboard history module. These additions aim to expand hardware compatibility and modernize desktop features for Unix-like systems.</p><p>Additional updates include ACPI CPU power profile integration, per-battery charge limit controls, process priority management via the system helper, and numerous stability fixes for Wayland, X11, Bluetooth, and window stacking. The version depends on EFL version 1.29.0 or newer to function properly.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.addictivetips.com%2Fapp%2Fuploads%2F2020%2F01%2Fenlightenment-wallpaper-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:19 UTC | #26067</small>]]></content>
+  </entry>
+  <entry>
+    <title>David Bushell Evaluates Accessibility and UI Design in Tangled Code Forge Redesign</title>
+    <link href="https://dbushell.com/2026/11/01/tangled-accessibility/" rel="alternate" />
+    <id>https://dbushell.com/2026/11/01/tangled-accessibility/::v240</id>
+    <published>2026-10-31T16:30:00+00:00</published>
+    <updated>2026-10-31T16:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fagentic-forge.github.io%2Fscreenshots%2Fforge-ui-landing.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dbushell.com/2026/11/01/tangled-accessibility/">dbushell.com</a> | <a href="https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility">discussion</a></small></p><hr/><p>Developer David Bushell has examined the recent user interface redesign of Tangled, a federated code forge positioning itself as an alternative to GitHub. While acknowledging Tangled's promising architecture, Bushell highlights significant accessibility flaws in its new Svelte-based frontend, pointing out that rigid base font styling causes text clipping and scaling failures under Web Content Accessibility Guidelines.</p><p>The critique emphasizes that technical oversights in CSS implementation prevent browser text-scaling features from working correctly, leading to truncated characters and crowded layouts when users increase font sizes. Bushell argues that technology startups should incorporate accessibility expertise from the outset rather than treating it as an afterthought, noting that modern web projects must accommodate diverse user needs to provide a viable alternative to established platforms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fagentic-forge.github.io%2Fscreenshots%2Fforge-ui-landing.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:18 UTC | #26066</small>]]></content>
+  </entry>
   <entry>
     <title>The Kluever Maneuver for Two-Commit Bug Fixes</title>
     <link href="https://jordi.inversethought.com/blog/the-kluever-maneuver/" rel="alternate" />
@@ -552,32 +588,5 @@
     <updated>2026-10-28T14:44:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fus1.discourse-cdn.com%2Fflex002%2Fuploads%2Fpython1%2Foriginal%2F3X%2Fc%2F0%2Fc0c5a5f9604f8cd940edd96b519842e80794208d.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/">lwn.net</a> | <a href="https://discuss.python.org/t/pep-836-jit-go-brrr-the-path-to-a-supported-jit-compiler-for-cpython/108010">source</a> | <a href="https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed">discussion</a> | <a href="https://news.ycombinator.com/item?id=50257419">hacker news</a></small></p><hr/><p>Python's experimental just-in-time compiler, introduced in CPython 3.13, is set to be removed from the main branch following the withdrawal of PEP 836. The Python steering council had previously paused JIT development in June, giving maintainers a six-month deadline to produce a standards-track proposal addressing maintenance commitments, compatibility, and security concerns.</p><p>Although the authors drafted PEP 836 in response, they ultimately withdrew the proposal after facing extensive steering council feedback and citing a lack of personal bandwidth. Consequently, development on the project has ended in the main repository, leaving its future entirely dependent on whether external contributors decide to pick it up elsewhere.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fus1.discourse-cdn.com%2Fflex002%2Fuploads%2Fpython1%2Foriginal%2F3X%2Fc%2F0%2Fc0c5a5f9604f8cd940edd96b519842e80794208d.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 10:28 UTC | #25542</small>]]></content>
-  </entry>
-  <entry>
-    <title>WHIP Protocol Enables High-Quality Screensharing via OBS and FFmpeg</title>
-    <link href="https://shittyscreenshare.com" rel="alternate" />
-    <id>https://shittyscreenshare.com::v240</id>
-    <published>2026-10-27T00:13:00+00:00</published>
-    <updated>2026-10-28T14:44:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fshittyscreenshare.com%2Fassets%2Fobs-whip-settings.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://shittyscreenshare.com">shittyscreenshare.com</a> | <a href="https://obsproject.com/kb/whip-streaming-guide">source</a> | <a href="https://lobste.rs/s/cxxcik/shitty_screenshare">discussion</a> | <a href="https://news.ycombinator.com/item?id=50252963">hacker news</a></small></p><hr/><p>The WebRTC-HTTP Ingestion Protocol (WHIP) allows users to stream video directly from OBS and FFmpeg into video conferencing applications. This method provides manual control over resolution, frame rate, bitrate, and codecs, bypassing the automated encoding limitations of browser-based screensharing.</p><p>This approach enables users to optimize streams for specific hardware and network conditions. By adopting these open standards, users can avoid the blurry video quality common to many proprietary conferencing clients.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fshittyscreenshare.com%2Fassets%2Fobs-whip-settings.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 05:19 UTC | #25533</small>]]></content>
-  </entry>
-  <entry>
-    <title>EPA Plans to Decommission Online Web Archive</title>
-    <link href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/" rel="alternate" />
-    <id>https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/::v240</id>
-    <published>2026-10-26T22:02:00+00:00</published>
-    <updated>2026-10-26T22:02:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Farchive.epa.gov%2Fepa%2Fsites%2Fproduction%2Ffiles%2F2016-12%2Fbeforeafter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/">motherjones.com</a> | <a href="https://archive.epa.gov/">source</a> | <a href="https://news.ycombinator.com/item?id=50249275">hacker news</a></small></p><hr/><p>The Environmental Protection Agency (EPA) intends to decommission its online web archive by the end of 2026, removing tens of thousands of environmental reports, policy changes, and regulatory actions from the web. The repository contains at least 20 years of historical data used for research and public oversight.</p><p>Environmental advocates and historians warn that losing the archive will eliminate an irreplaceable resource. While the agency has previously attempted to discontinue the service before reversing course following public backlash, critics argue that decommissioning the site will make historical records more difficult to access and increase the workload for the agency's Freedom of Information Act (FOIA) office.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Farchive.epa.gov%2Fepa%2Fsites%2Fproduction%2Ffiles%2F2016-12%2Fbeforeafter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 01:55 UTC | #25529</small>]]></content>
-  </entry>
-  <entry>
-    <title>Oldest GUI Application Compatible With Windows 11 Investigated</title>
-    <link href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/" rel="alternate" />
-    <id>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/::v240</id>
-    <published>2026-10-26T19:50:00+00:00</published>
-    <updated>2026-10-26T19:50:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.enlyth.com%2F_astro%2Fimage.Bg57xYSH_1uh08L.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/">blog.enlyth.com</a> | <a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on">discussion</a> | <a href="https://news.ycombinator.com/item?id=50248055">hacker news</a></small></p><hr/><p>An investigation into the oldest graphical user interface application that can run natively on Windows 11 without modification or emulation reveals that early 32-bit Windows NT binaries remain functional. Although Windows 11 lacks 16-bit NTVDM support, programs like FREECELL.EXE from February 1993 execute successfully out of the box.</p><p>Deeper exploration into early Windows NT pre-release builds identifies even older software, including CDPLAYER.EXE from November 1992, which bypasses crashes by utilizing the system's legacy crtdll.dll and an emulated CD-ROM driver. Furthermore, employing compatibility layers such as otvdm enables 16-bit applications like REVERSI.EXE from November 1985 to run on the modern operating system.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.enlyth.com%2F_astro%2Fimage.Bg57xYSH_1uh08L.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Oct 2026, 22:54 UTC | #25522</small>]]></content>
   </entry>
 </feed>
