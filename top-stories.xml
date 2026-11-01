@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-01T01:30:00+00:00</updated>
+  <updated>2026-11-01T01:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>The Kluever Maneuver for Two-Commit Bug Fixes</title>
+    <link href="https://jordi.inversethought.com/blog/the-kluever-maneuver/" rel="alternate" />
+    <id>https://jordi.inversethought.com/blog/the-kluever-maneuver/::v240</id>
+    <published>2026-11-01T01:53:00+00:00</published>
+    <updated>2026-11-01T01:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.gitkraken.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fdiff-between-commits.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jordi.inversethought.com/blog/the-kluever-maneuver/">jordi.inversethought.com</a> | <a href="https://lobste.rs/s/rpiu3w/kluever_maneuver">discussion</a></small></p><hr/><p>The Kluever Maneuver is a software development practice that splits a bug fix into two distinct commits: the first introduces a failing test that exposes the bug, while the second applies the fix and updates the test to pass. This structured approach ensures continuous integration passes at every commit and avoids false confidence from tests that might inadvertently pass before a fix is implemented.</p><p>By separating the demonstration of failure from the fix itself, developers gain verifiable proof that their code changes actually resolved the targeted issue. The technique also helps maintain clear version control histories and allows developers to easily link initial test commits directly to bug tracking systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gitkraken.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fdiff-between-commits.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 18:16 UTC | #26055</small>]]></content>
+  </entry>
   <entry>
     <title>Martin Fowler Publishes Essay on Uncanny Valley of LLM Voice</title>
     <link href="https://martinfowler.com/bliki/LLM-Voice.html" rel="alternate" />

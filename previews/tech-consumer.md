@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Casio Publishes 1980s Watch Heritage Collection for 50th Anniversary</h2>
+<a name="story-26073"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.casio.com%2Fcontent%2Fcasio%2Flocales%2Fus%2Fen%2Fproducts%2Fwatches%2F50th%2FHeritage%2F1980s%2F_jcr_content%2Froot%2Fresponsivegrid%2Fcontainer_284324613__746095867%2Funderlaying_containe%2Fcontainer%2Fcontainer_copy_copy_%2Fimage.casiocoreimg.png%2F1708007924781%2F1987-dba-80-dba-800-sq.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Casio has launched an online heritage feature detailing its watch releases from the 1980s as part of its 50th-anniversary celebration. The retrospective highlights several milestone designs and technological developments from the decade.</p><p>Featured models include the 1980 C-80 calculator watch with fingertip key input, the debut of the rugged G-SHOCK line in 1983, and early solar-powered timepieces utilizing amorphous silicon panels. The collection showcases how the company expanded its digital watch capabilities and introduced enduring styles throughout the era.</p>
+<p><small>Links: <a href="https://www.casio.com/us/watches/50th/Heritage/1980s/">casio.com</a> | <a href="https://news.ycombinator.com/item?id=50317363">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>TNG Episodle Launched as Daily Star Trek Episode Guessing Game</h2>
 <a name="story-26050"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.thegamerimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fthe-cast-of-season-5-of-star-trek-the-next-generation.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TNG Episodle is a daily browser-based guessing game that challenges players to identify specific episodes of Star Trek: The Next Generation using a series of image clues. Participants receive up to six attempts to correctly name the featured episode.</p><p>Created as a tribute to Sir Patrick Stewart, the game offers fans a daily puzzle format similar to other popular guessing games. It provides a structured way to test encyclopedic knowledge of the science fiction television series.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25826"><img src="https://wsrv.nl/?url=https%3A%2F%2Fportside.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Ffield%2Fimage%2Fmlkletters.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In 1964, top FBI officials sent an anonymous, threatening letter and surveillance recordings of extramarital affairs to civil rights leader Martin Luther King Jr. in an effort to compel him to commit suicide. Directed by William Sullivan under FBI Director J. Edgar Hoover, the blackmail campaign followed years of intense government monitoring designed to discredit King's leadership and activism.</p><p>Yale historian Beverly Gage later unearthed a fully unredacted version of the document from archival records, revealing details previously concealed by government redactions. The text explicitly derided King's honors, including his Nobel Peace Prize, and warned him that he had 34 days to take his own life, highlighting the severe abuses of domestic intelligence agencies during the civil rights era.</p>
 <p><small>Links: <a href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter">vox.com</a> | <a href="https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html">source</a> | <a href="https://news.ycombinator.com/item?id=50288867">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Apple Makes 512GB RAM Configuration Available for Mac Studio With M5 Ultra</h2>
-<a name="story-25729"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.servethehome.com%2Fwp-content%2Fuploads%2F2025%2F03%2FApple-Mac-Studio-M3-Ultra-Angle-Stock.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has made the 512GB unified memory configuration available for the Mac Studio equipped with the M5 Ultra chip, with U.S. pricing starting at $22,299. This rollout follows the company's previous schedule indicating the high-capacity memory tier would launch in late October.</p><p>The 512GB RAM option is exclusive to the M5 Ultra model, while configurations featuring the M5 Max chip remain capped at 128GB of maximum memory. The massive memory upgrade allows users to run large-scale on-device language models and heavy professional workloads entirely locally.</p>
-<p><small>Links: <a href="https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/">macrumors.com</a> | <a href="https://www.apple.com/shop/buy-mac/mac-studio">source</a> | <a href="https://news.ycombinator.com/item?id=50277166">hacker news</a></small></p>
 <br clear="all" />
 
 ---
