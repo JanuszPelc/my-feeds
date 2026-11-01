@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Databricks Engineer Evaluates Anthropic Scion and Mononoke Version Control</h2>
+<a name="story-26116"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.uscloud.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fazure-databricks-integration.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A source control engineer at Databricks presents an architectural critique of Anthropic's custom version control system, Scion, comparing its design choices and migration speed with Meta's Mononoke and other modern version control tools. The evaluation examines familiar concepts like changesets and client-server asymmetry alongside notable aspects such as rapid monorepo migration and the deployment of dedicated AI monitoring agents.</p><p>The commentary questions several technical claims and design choices in Anthropic's rollout, including the discouragement of refs in the development loop, high resource utilization metrics for git mirrors, and unusual performance benchmarks. These observations draw on the author's extensive background studying distributed version control systems like Git, Mercurial, Jujutsu, and Mononoke.</p>
+<p><small>Links: <a href="https://typesanitizer.com/blog/scion.html">typesanitizer.com</a> | <a href="https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke">lobsters</a></small></p>
+<br clear="all" />
+
 <h2>Roansh Launches HackerBooks Platform for Hacker News Book Recommendations</h2>
 <a name="story-26105"><img src="https://wsrv.nl/?url=https%3A%2F%2Fph-files.imgix.net%2F7a0582ae-afdb-4880-a5b4-03132c575ad8.png%3Fauto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HackerBooks is a web platform that indexes over 16,000 books mentioned across Hacker News comments dating back to 2007. Inspired by community curation projects, the site ranks titles by their recommender count and generates a daily curated shelf to help users discover popular literature.</p><p>Developed by roansh, the platform features a streamlined interface equipped with keyboard shortcuts for rapid navigation, search functionality, and categorization. It provides a signal-based alternative to algorithmic recommendation engines by relying on historical peer recommendations from technical discussions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26051"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.gamebanana.com%2Fimg%2Fss%2Fmods%2F6a02c5242c4b7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Tactical-Retreat project provides a multi-platform, QuakeC-based port of Counter-Strike 1.5 built using the Nuclide framework and the FTE QuakeWorld engine. Designed to be faithful to classic gameplay while ensuring compatibility with existing custom content, the open-source project allows users to run servers and build custom weapons or game rules without requiring proprietary game installations.</p><p>Maintained by Marco Cawthorne and licensed under the ISC license, the project supports Linux, OpenBSD, and Windows platforms with platform-independent components. It includes features such as modern netcode with standard weapon prediction, integrated bots, voting mechanisms, and a Metamod-inspired plugin system. Binaries and installation scripts are distributed alongside full source code access to facilitate community development.</p>
 <p><small>Links: <a href="https://www.frag-net.com/project_tacticalretreat.html">frag-net.com</a> | <a href="https://lobste.rs/s/95quqz/tactical_retreat_freely_available_multi">lobsters</a></small></p>
-<br clear="all" />
-
-<h2>Clojure/Conj 2026 Video Playlist Available</h2>
-<a name="story-26026"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2F5RIKz6bDYjMTYsSsFgPNd6YhyI.jpg%3Fwidth%3D1264%26height%3D841&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Clojure/Conj 2026 video playlist provides recorded presentations and talks from the annual conference held from September 30 to October 2, 2026, at the Charlotte Convention Center in North Carolina. Organized as the premier gathering for the global Clojure community, the event featured workshops, technical sessions, and insights into ecosystem developments.</p><p>Marking the 16th edition of the long-running conference, the event brought together developers and organizations utilizing the Clojure programming language. The published recordings offer open access to the technical talks and community sessions for participants and remote attendees following the hybrid event.</p>
-<p><small>Links: <a href="https://www.youtube.com/playlist?list=PLAkHRk3lgU_Q">youtube.com</a> | <a href="https://2026.clojure-conj.org/">2026.clojure-conj.org</a> | <a href="https://lobste.rs/s/wd4ye5/clojure_conj_2026">lobsters</a></small></p>
 <br clear="all" />
 
 ---
