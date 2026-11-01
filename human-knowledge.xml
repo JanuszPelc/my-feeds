@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-31T22:46:00+00:00</updated>
+  <updated>2026-11-01T02:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>INRAE Researchers Discover Tension Wood Functions as Tree Posture Muscle</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261030003006.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261030003006.htm::v240</id>
+    <published>2026-11-01T02:59:00+00:00</published>
+    <updated>2026-11-01T02:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flh6.ggpht.com%2F-i6g472YyGlU%2FVQWIPSBzcfI%2FAAAAAAAADRU%2FzXxxTNslKgE%2FCompressionandtensionwood6.jpg%3Fimgmax%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261030003006.htm">sciencedaily.com</a> | <a href="https://www.inrae.fr/en/news/newly-discovered-role-tension-wood-muscle-trees-use-correct-their-posture">source</a></small></p><hr/><p>Researchers from INRAE and the University of Clermont Auvergne have discovered that trees use tension wood to correct stem curvature in a manner similar to opposing animal muscles. By isolating young poplar trees from directional light and gravity using a specialized rotating platform, the team demonstrated that an internal sense of shape, or proprioception, directs tension wood to form on opposing sides of a stem to actively straighten it.</p><p>Previously thought to form only on upper stem sides to pull trunks upward, tension wood functions as part of a versatile sensorimotor system that helps trees recover from environmental disturbances like storms. Understanding this mechanism could aid in selecting tree varieties with superior posture and straightness, as well as preventing crop lodging in agriculture.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flh6.ggpht.com%2F-i6g472YyGlU%2FVQWIPSBzcfI%2FAAAAAAAADRU%2FzXxxTNslKgE%2FCompressionandtensionwood6.jpg%3Fimgmax%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 07:53 UTC | #26079</small>]]></content>
+  </entry>
   <entry>
     <title>Aatish Bhatia and Arkarup Banerjee Release Let's Build a Brain Interactive Essay</title>
     <link href="https://aatishb.com/myriad/lets-build-a-brain/" rel="alternate" />
