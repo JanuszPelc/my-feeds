@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Roansh Launches HackerBooks Platform for Hacker News Book Recommendations</h2>
+<a name="story-26105"><img src="https://wsrv.nl/?url=https%3A%2F%2Fph-files.imgix.net%2F7a0582ae-afdb-4880-a5b4-03132c575ad8.png%3Fauto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HackerBooks is a web platform that indexes over 16,000 books mentioned across Hacker News comments dating back to 2007. Inspired by community curation projects, the site ranks titles by their recommender count and generates a daily curated shelf to help users discover popular literature.</p><p>Developed by roansh, the platform features a streamlined interface equipped with keyboard shortcuts for rapid navigation, search functionality, and categorization. It provides a signal-based alternative to algorithmic recommendation engines by relying on historical peer recommendations from technical discussions.</p>
+<p><small>Links: <a href="https://hackerbooks.org">hackerbooks.org</a> | <a href="https://news.ycombinator.com/item?id=50326821">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Nolan Lawson Publishes Benchmark on AI Development Costs of JavaScript Frameworks</h2>
 <a name="story-26102"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnolanlawson.com%2F_astro%2Fpokemon-app.DUO5bAVN_34jQQ.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Nolan Lawson built a standardized Pokémon web application five times across twelve different JavaScript frameworks and meta-frameworks using Claude Code agents to benchmark their performance in AI-assisted development. The experiment evaluated each framework based on API costs, wall-clock completion time, token consumption, lines of code, and resulting Lighthouse performance metrics.</p><p>Results indicate that lightweight stacks like Hono combined with htmx and Astro incur the lowest API costs and token usage, while SvelteKit, Gracile with Lit, and Angular are more expensive to build with AI agents. Although nearly all frameworks achieved high Lighthouse performance and accessibility scores, client-side JavaScript bundle sizes varied widely, ranging from zero kilobytes for Astro up to 142 kilobytes for Next.js.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26026"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2F5RIKz6bDYjMTYsSsFgPNd6YhyI.jpg%3Fwidth%3D1264%26height%3D841&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Clojure/Conj 2026 video playlist provides recorded presentations and talks from the annual conference held from September 30 to October 2, 2026, at the Charlotte Convention Center in North Carolina. Organized as the premier gathering for the global Clojure community, the event featured workshops, technical sessions, and insights into ecosystem developments.</p><p>Marking the 16th edition of the long-running conference, the event brought together developers and organizations utilizing the Clojure programming language. The published recordings offer open access to the technical talks and community sessions for participants and remote attendees following the hybrid event.</p>
 <p><small>Links: <a href="https://www.youtube.com/playlist?list=PLAkHRk3lgU_Q">youtube.com</a> | <a href="https://2026.clojure-conj.org/">2026.clojure-conj.org</a> | <a href="https://lobste.rs/s/wd4ye5/clojure_conj_2026">lobsters</a></small></p>
-<br clear="all" />
-
-<h2>Wack Launches SLCR Open Format for Agent-Native Requirements</h2>
-<a name="story-26036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcodex.danielvaughan.com%2Fsketchnotes%2Farticles%2F2026-05-08-agent-native-infrastructure-karpathy-software-3-codex-cli-requirements-mapping.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Wack has launched SLCR (Sliceable, Linked, Checkable Requirements), an open-source specification format designed to help coding agents adhere to project specifications. The tool was developed to address the common issue of autonomous agents drifting from software requirements over time in long-lived codebases.</p><p>The open-source project includes a reference command-line interface, a getting-started tutorial, and an agent skill that trains agents to read and write requirements in YAML, JSON, or TOML. Hosted on GitHub, the format allows developers to structure requirements as a linked graph with validators attached to acceptance criteria.</p>
-<p><small>Links: <a href="https://slcr.dev/announcements#2026-10-29-slcr-launches">slcr.dev</a> | <a href="https://lobste.rs/s/nexvnc/open_format_for_writing_agent_native">lobsters</a></small></p>
 <br clear="all" />
 
 ---
