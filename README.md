@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>Guava Library Uses Perfect Hashing for Efficient Whitespace Detection</h2>
+<a name="story-26010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fserce.me%2Fimages%2Fwhitespace%2Fwhitespace.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Identifying whitespace characters is complicated by varying definitions across programming runtimes and the evolving Unicode standard. While Unicode's White_Space property includes 25 specific characters, different environments like Java, Python, and JavaScript apply their own rules, often resulting in inconsistent detection across platforms.</p><p>Google's Guava library implements its whitespace matcher using a perfect hash function to optimize performance. This approach uses a mathematical multiplier and bit-shifting to map characters to a 32-element lookup table, providing an efficient way to verify matches without the computational cost of division.</p>
+<p><small>Links: <a href="https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace">serce.me</a> | <a href="https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Andrej Karpathy Launches HackerTube YouTube Alternative</h2>
 <a name="story-26061"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fkarpathy%2Fimage-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Andrej Karpathy has launched HackerTube, a curated YouTube alternative built using Claude Opus 5.5. The platform aggregates 6,454 YouTube videos recommended in Hacker News comments between 2007 and 2026, filtering out low-grade content and spam across 150 topics.</p><p>Designed as an alternative to mainstream recommendation algorithms, HackerTube features a clean interface, clean thumbnails, local session-based recommendations, keyboard shortcuts, and data export options. Karpathy developed the project in roughly two hours to bypass conventional video platform bloat.</p>
@@ -100,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25872"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2Freddit-daus.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reddit is transitioning to a primarily logged-in user experience to address declining search engine traffic resulting from the rise of AI-powered search. Announced during its third-quarter 2026 earnings, the move is intended to protect platform data from AI scraping for licensing purposes and to improve advertising revenue through better user interest signals.</p><p>Although Reddit's third-quarter revenue grew 53% year-over-year to $895 million, the company reported a drop in U.S. daily active users and a significant reduction in weekly search referrals. The new logged-in interface will undergo testing in select markets outside the U.S. in the fourth quarter, with the company promising to maintain anonymity options via a rebuilt "incognito mode."</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">techcrunch.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">source</a> | <a href="https://news.ycombinator.com/item?id=50295247">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Archive of Our Own Down for Maintenance for Up to Four Weeks</h2>
-<a name="story-25861"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fao3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Organization for Transformative Works (OTW) reported that Archive of Our Own (AO3) is undergoing maintenance that may last up to four weeks. Although the organization intends to restore services in a degraded state sooner, users should expect potential temporary shutdowns during the resolution process.</p><p>AO3 is a massive repository for fanfiction, hosting over 18.4 million works across more than 82,900 fandoms. This extended downtime is expected to disrupt significant community activity during several major fandom events and upcoming book releases.</p>
-<p><small>Links: <a href="https://www.404media.co/archive-of-our-own-ao3-down-maintenance/">404media.co</a> | <a href="https://www.otwstatus.org/">source</a> | <a href="https://news.ycombinator.com/item?id=50293546">hacker news</a></small></p>
 <br clear="all" />
 
 ---
