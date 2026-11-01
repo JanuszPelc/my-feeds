@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Linode Issues Customer Security Advisory for CVE-2026-98432</h2>
+<a name="story-26103"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffidelissecurity.com%2Fwp-content%2Fuploads%2F2026%2F03%2FCVE-2026-25593.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Akamai and Linode have issued a customer security advisory regarding CVE-2026-98432, a recently published remote code execution vulnerability. While investigations and platform monitoring are underway, the company reports no evidence of the vulnerability being actively exploited on the Akamai Compute platform.</p><p>Linode is currently deploying mitigations for the known attack vector and strongly advises customers to apply upstream operating system updates to their workloads as soon as they become available. Support channels remain open for users seeking further assistance or experiencing platform impacts.</p>
+<p><small>Links: <a href="https://status.linode.com/incidents/nt58zhx3pmgm">status.linode.com</a> | <a href="https://news.ycombinator.com/item?id=50310687">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Pivot Database Engine Explains Impact of Memory Latency on Database Performance</h2>
 <a name="story-26093"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2Fc0597a99c50fdcc1d1a5f9887bc2df49a75d029c%2F3-Figure3-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>High database CPU utilization frequently masks underlying memory stalls rather than intense computation, as modern RAM access speeds lag hundreds of instructions behind CPU processing capabilities. A naive GROUP BY implementation causes frequent cache misses that force the processor to wait on cold memory from DRAM.</p><p>To mitigate this bottleneck, the Pivot database engine implements a two-phase radix partitioning approach that breaks down large aggregation tasks into smaller pieces. By ensuring that working hash tables fit within the CPU caches, this optimization significantly reduces DRAM load operations and accelerates query execution times.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25926"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitcoinsistemi.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fbinance-borsa-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance announced that its follow-up investigation into a recent security incident has uncovered additional points of breach beyond a previously identified compromised laptop. The exchange described the event as a complex attack and stated it is coordinating response efforts with law enforcement.</p><p>The security breach has impacted an estimated $6.3 billion in digital assets, making it one of the largest cryptocurrency hacks on record. Authorities and security researchers continue to analyze the vector and scale of the exploit as Binance works to secure its platform and resolve the incident.</p>
 <p><small>Links: <a href="https://x.com/binance">x.com</a> | <a href="https://www.binance.com/en/square/post/382812398976216">binance.com</a></small></p>
-<br clear="all" />
-
-<h2>Phorion Discovers Persistent SSH Backdoor in Official Claude Code Extension</h2>
-<a name="story-25960"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcoinedition.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmagnific_alibaba-to-ban-claude-cod_74x4rjnJAL.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Phorion identified a supply-chain compromise affecting version 2.1.313 of the official Claude Code for VS Code extension distributed on the Cursor Marketplace. The malicious extension bundle executes an injected script upon loading that installs an attacker-controlled Ed25519 public key into authorized_keys, initiates a persistent reverse SSH tunnel, and transmits host reconnaissance data.</p><p>The cross-platform implant targets macOS, Linux, and Windows systems, though researchers identified several implementation flaws, including a macOS check failure that can disrupt inbound access if Remote Login is disabled. Following the discovery, marketplaces removed the malicious build, prompting recommendations for organizations to audit environments for the affected version and initiate incident response procedures.</p>
-<p><small>Links: <a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/">phorion.io</a> | <a href="https://news.ycombinator.com/item?id=50300683">hacker news</a></small></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>Pivot Database Engine Explains Impact of Memory Latency on Database Performance</h2>
+<a name="story-26093"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2Fc0597a99c50fdcc1d1a5f9887bc2df49a75d029c%2F3-Figure3-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>High database CPU utilization frequently masks underlying memory stalls rather than intense computation, as modern RAM access speeds lag hundreds of instructions behind CPU processing capabilities. A naive GROUP BY implementation causes frequent cache misses that force the processor to wait on cold memory from DRAM.</p><p>To mitigate this bottleneck, the Pivot database engine implements a two-phase radix partitioning approach that breaks down large aggregation tasks into smaller pieces. By ensuring that working hash tables fit within the CPU caches, this optimization significantly reduces DRAM load operations and accelerates query execution times.</p>
+<p><small>Links: <a href="https://pivotlake.io/blog/its-the-memory-latency-stupid/">pivotlake.io</a> | <a href="https://news.ycombinator.com/item?id=50318720">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Go 1.28 HTTP/2 Parking Mechanism Reduces Server Memory Usage</h2>
 <a name="story-26028"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabdolirad.me%2Farticles%2Fgo-1-28-http2-parking-memory%2F01-rss-scaling.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of the draft Go 1.28 release notes examines a new HTTP/2 server mechanism called parking, which allows connection-serving goroutines to exit when there is no active work instead of waiting idle. Benchmarks comparing a Go 1.28 development build with parking enabled versus disabled show that handling 5,000 idle HTTP/2 connections results in 5,000 fewer active goroutines and a resident set size (RSS) reduction of roughly 85 to 93 MiB.</p><p>The benchmark results indicate that enabling parking lowers stack memory usage by approximately 78 MiB under the same load, while heap allocation metrics remain variable across test runs. Because the feature is evaluated on a pre-release development build using an experimental and temporary debug setting, the findings highlight potential memory efficiency gains for servers maintaining thousands of idle connections rather than guaranteed outcomes for all workloads.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <h2>TRM Labs Attributes Binance Crypto Theft to North Korea</h2>
 <p>Blockchain analysis firm TRM Labs has attributed the theft of approximately $6.36 billion from Binance to TraderTraitor, a North Korea-based hacking group. The attacker drained funds across ten blockchains, mostly within a span of about 20 minutes, marking the largest cryptocurrency theft on record.</p><p>The breach involved a compromise of Binance's hot wallet signing infrastructure, triggering widespread industry precautions such as asset freezes across decentralized finance markets like Aave and Arbitrum. Investigators and security researchers are actively tracing the stolen funds as the crypto sector grapples with the fallout from the massive exploit.</p>
 <p><small>Links: <a href="https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/">reuters.com</a> | <a href="https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history">trmlabs.com</a> | <a href="https://news.ycombinator.com/item?id=50300644">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Curl Accidentally Turing-Complete for Nine Months</h2>
-<a name="story-25923"><img src="https://wsrv.nl/?url=https%3A%2F%2Fseriot.ch%2Fresources%2Fcurl_config.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Between versions 8.12 and 8.16, the command-line data transfer tool curl possessed features that made it accidentally Turing-complete under unbounded resource assumptions. Config files could slice variable values and recursively include other files without an explicit depth cap, enabling the utility to simulate any two-counter Minsky program.</p><p>Release 8.17.0 introduced a five-level include cap that broke this reduction by restricting file inclusion depth. Although real-world physical constraints such as stack limits and memory allocation restricted execution depth in practice, the behavior illustrated how unexpected computational capabilities can emerge from configuration parsers.</p>
-<p><small>Links: <a href="https://seriot.ch/computation/curl.html">seriot.ch</a> | <a href="https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50300011">hacker news</a></small></p>
 <br clear="all" />
 
 ---
