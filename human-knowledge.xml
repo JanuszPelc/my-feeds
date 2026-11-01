@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-01T16:05:00+00:00</updated>
+  <updated>2026-11-01T18:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Frank Calegari Publishes Essay on Impact of Artificial Intelligence in Mathematics</title>
+    <link href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/" rel="alternate" />
+    <id>https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/::v240</id>
+    <published>2026-11-01T18:29:00+00:00</published>
+    <updated>2026-11-01T18:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fcollaborative-problem-solving-with-artificial-intelligence-mathematics_1022111-847.jpg%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/">terrytao.wordpress.com</a> | <a href="https://news.ycombinator.com/item?id=50328251">hacker news</a></small></p><hr/><p>Mathematician Frank Calegari published a guest post on Terence Tao's blog arguing that recent advancements in artificial intelligence—such as OpenAI's release of numerous research papers—fundamentally change the practice of mathematics. Calegari contends that while many mathematicians feel threatened or overwhelmed by AI's sudden capability to tackle major open problems, the mathematical community should instead adapt its reward structures, hiring practices, and educational focus toward broader exploration and conceptual understanding rather than mere proof-generation.</p><p>The essay draws parallels to historical events like the classification of finite simple groups, suggesting that artificial intelligence shifts the economics of what is considered difficult in research. To cope with these changes, Calegari proposes concrete reforms, including evaluating all academic work as potentially AI-assisted, placing less emphasis on publication counts, and fostering deeper personal interactions in academic hiring and graduate training.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fcollaborative-problem-solving-with-artificial-intelligence-mathematics_1022111-847.jpg%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 23:16 UTC | #26125</small>]]></content>
+  </entry>
   <entry>
     <title>Dr. Drang Analyzes Fourier Series and Gibbs Phenomenon in XKCD Comic</title>
     <link href="https://leancrew.com/all-this/2026/10/xkcd-and-fourier/" rel="alternate" />
