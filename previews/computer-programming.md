@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Clojure/Conj 2026 Video Playlist Available</h2>
 <a name="story-26026"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2F5RIKz6bDYjMTYsSsFgPNd6YhyI.jpg%3Fwidth%3D1264%26height%3D841&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Clojure/Conj 2026 video playlist provides recorded presentations and talks from the annual conference held from September 30 to October 2, 2026, at the Charlotte Convention Center in North Carolina. Organized as the premier gathering for the global Clojure community, the event featured workshops, technical sessions, and insights into ecosystem developments.</p><p>Marking the 16th edition of the long-running conference, the event brought together developers and organizations utilizing the Clojure programming language. The published recordings offer open access to the technical talks and community sessions for participants and remote attendees following the hybrid event.</p>
-<p><small>Links: <a href="https://www.youtube.com/playlist?list=PLAkHRk3lgU_Q">youtube.com</a> | <a href="https://2026.clojure-conj.org/">source</a> | <a href="https://lobste.rs/s/wd4ye5/clojure_conj_2026">lobsters</a></small></p>
+<p><small>Links: <a href="https://www.youtube.com/playlist?list=PLAkHRk3lgU_Q">youtube.com</a> | <a href="https://2026.clojure-conj.org/">2026.clojure-conj.org</a> | <a href="https://lobste.rs/s/wd4ye5/clojure_conj_2026">lobsters</a></small></p>
 <br clear="all" />
 
 <h2>Wack Launches SLCR Open Format for Agent-Native Requirements</h2>

@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Molly Signal Fork Unmaintained for Three Months and Vulnerable to Mainline Exploits</h2>
 <a name="story-26057"><img src="https://wsrv.nl/?url=https%3A%2F%2Flowtek.ca%2Froo%2Fwp-content%2Fuploads%2F2024%2F09%2Ffdroid-molly.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Molly, a security-focused fork of the Signal messaging application for Android, has not received a software update since late July 2026. This three-month lack of maintenance has left the application lagging behind mainline Signal patches and exposed to known security vulnerabilities.</p><p>Specifically, the app remains vulnerable to an October exploit that allows audio and video streams to continue after a call has ended, an issue that was fixed in mainline Signal version 8.27. Community discussions and privacy advocates currently recommend switching back to the official mainline Signal application until the fork resumes regular updates.</p>
-<p><small>Links: <a href="https://piefed.world/post/1503394">piefed.world</a> | <a href="https://github.com/mollyim/mollyim-android">source</a> | <a href="https://news.ycombinator.com/item?id=50314666">hacker news</a></small></p>
+<p><small>Links: <a href="https://piefed.world/post/1503394">piefed.world</a> | <a href="https://github.com/mollyim/mollyim-android">github.com</a> | <a href="https://news.ycombinator.com/item?id=50314666">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Parameter Researchers Disclose ChatGPT Share Link Vulnerability Enabling Account Takeover</h2>
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Anthropic States Systems Uncompromised After Tampered Claude Code Extension Appears on Cursor Marketplace</h2>
 <a name="story-26016"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHV4ldb8aEAExYsM%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic stated that its internal systems and employee laptops were not compromised after a malicious actor published a tampered copy of the Claude Code extension to Cursor's extension marketplace. The unauthorized versions, labeled 2.1.312 and 2.1.313, were distributed through Cursor's platform for approximately 11 hours.</p><p>Security researchers and platform maintainers noted that the trojanized extension attempted to install persistent SSH backdoors on affected Windows and macOS developer systems. Cursor and Anthropic are investigating the supply chain incident, which exposed thousands of users before the malicious builds were removed.</p>
-<p><small>Links: <a href="https://x.com/felixrieseberg">x.com</a> | <a href="https://cursor.com/blog/claude-code-extension-security-notice">source</a> | <a href="https://news.ycombinator.com/item?id=50301004">hacker news</a></small></p>
+<p><small>Links: <a href="https://x.com/felixrieseberg">x.com</a> | <a href="https://cursor.com/blog/claude-code-extension-security-notice">cursor.com</a> | <a href="https://news.ycombinator.com/item?id=50301004">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Yarr RSS Reader Vulnerable to Cross-Site Scripting via Iframe Sanitization Bypass</h2>
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Binance Uncovers Additional Points of Breach in Security Incident Investigation</h2>
 <a name="story-25926"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitcoinsistemi.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fbinance-borsa-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance announced that its follow-up investigation into a recent security incident has uncovered additional points of breach beyond a previously identified compromised laptop. The exchange described the event as a complex attack and stated it is coordinating response efforts with law enforcement.</p><p>The security breach has impacted an estimated $6.3 billion in digital assets, making it one of the largest cryptocurrency hacks on record. Authorities and security researchers continue to analyze the vector and scale of the exploit as Binance works to secure its platform and resolve the incident.</p>
-<p><small>Links: <a href="https://x.com/binance">x.com</a> | <a href="https://www.binance.com/en/square/post/382812398976216">source</a></small></p>
+<p><small>Links: <a href="https://x.com/binance">x.com</a> | <a href="https://www.binance.com/en/square/post/382812398976216">binance.com</a></small></p>
 <br clear="all" />
 
 <h2>Phorion Discovers Persistent SSH Backdoor in Official Claude Code Extension</h2>
