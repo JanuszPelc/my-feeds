@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-31T22:42:00+00:00</updated>
+  <updated>2026-10-31T22:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Aatish Bhatia and Arkarup Banerjee Release Let's Build a Brain Interactive Essay</title>
+    <link href="https://aatishb.com/myriad/lets-build-a-brain/" rel="alternate" />
+    <id>https://aatishb.com/myriad/lets-build-a-brain/::v240</id>
+    <published>2026-10-31T22:46:00+00:00</published>
+    <updated>2026-10-31T22:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4698521%2Fneural-circuit-schematic-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://aatishb.com/myriad/lets-build-a-brain/">aatishb.com</a> | <a href="https://lobste.rs/s/bmmj1e/let_s_build_brain">discussion</a> | <a href="https://news.ycombinator.com/item?id=50261253">hacker news</a></small></p><hr/><p>Science journalist Aatish Bhatia and neuroscientist Arkarup Banerjee have published an interactive essay titled "Let's Build a Brain," which explores how complex behaviors emerge from bottom-up neural circuits. Through a virtual creature called a "spark," the article demonstrates how simple connections between sensory and motor neurons can generate distinct movement patterns and simulated goals.</p><p>Part of the Myriad blog series exploring how minds emerge from matter, the piece shows that adding a second eye, crossing connections, and swapping excitatory links for inhibitory ones transforms erratic movement into targeted, light-seeking behavior. Introducing variation in connection strengths further allows individual sparks to exhibit unique preferences, illustrating the fundamental mechanics behind biological decision-making.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4698521%2Fneural-circuit-schematic-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 05:29 UTC | #26082</small>]]></content>
+  </entry>
   <entry>
     <title>Claudio Grossi Discovers Ancient Seven-Eared Wheat Variety in Family Attic</title>
     <link href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/" rel="alternate" />
