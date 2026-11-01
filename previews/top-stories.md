@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>Andrej Karpathy Launches HackerTube YouTube Alternative</h2>
+<a name="story-26061"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fkarpathy%2Fimage-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Andrej Karpathy has launched HackerTube, a curated YouTube alternative built using Claude Opus 5.5. The platform aggregates 6,454 YouTube videos recommended in Hacker News comments between 2007 and 2026, filtering out low-grade content and spam across 150 topics.</p><p>Designed as an alternative to mainstream recommendation algorithms, HackerTube features a clean interface, clean thumbnails, local session-based recommendations, keyboard shortcuts, and data export options. Karpathy developed the project in roughly two hours to bypass conventional video platform bloat.</p>
+<p><small>Links: <a href="https://karpathy.bearblog.dev/hacker-tube/">karpathy.bearblog.dev</a> | <a href="https://news.ycombinator.com/item?id=50319510">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Jepsen Publishes Safety Analysis of ParticleDB 1.1.4</h2>
 <a name="story-26040"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wasilzafar.com%2Fimages%2Fseries%2Fdatabase-mastery%2Fisolation-levels-spectrum-anomalies.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kyle Kingsbury’s Jepsen analysis of ParticleDB versions 1.1.4 through 1.1.18.11.rc-22 identified 96 issues in the multi-model database designed for AI workloads. The discovered bugs ranged from basic crashes, deadlocks, and data loss to complex SQL correctness errors, confused columns, and data type transformations.</p><p>The evaluation found that most flaws manifested under normal single-server operations without external faults. While subsequent pre-releases resolved the vast majority of these bugs, the default optimistic concurrency control mode continued to experience data loss on committed writes, and the strictest serializable settings still allowed concurrency anomalies.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25861"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fao3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Organization for Transformative Works (OTW) reported that Archive of Our Own (AO3) is undergoing maintenance that may last up to four weeks. Although the organization intends to restore services in a degraded state sooner, users should expect potential temporary shutdowns during the resolution process.</p><p>AO3 is a massive repository for fanfiction, hosting over 18.4 million works across more than 82,900 fandoms. This extended downtime is expected to disrupt significant community activity during several major fandom events and upcoming book releases.</p>
 <p><small>Links: <a href="https://www.404media.co/archive-of-our-own-ao3-down-maintenance/">404media.co</a> | <a href="https://www.otwstatus.org/">source</a> | <a href="https://news.ycombinator.com/item?id=50293546">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Patrick Stewart, Star of ‘Star Trek’ and ‘X-Men,’ Dies at 86</h2>
-<a name="story-25866"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F28%2Fmultimedia%2F28patrick-stewart-ctmp-copy%2F28patrick-stewart-ctmp-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Patrick Stewart, the acclaimed British actor renowned for his classical Shakespearean stage career and iconic pop-culture roles as Captain Jean-Luc Picard in "Star Trek: The Next Generation" and Professor X in the "X-Men" film franchise, has died at the age of 86. His death occurred at his home in Los Angeles following complications from Alzheimer's disease and Lewy body dementia.</p><p>Rising from a difficult working-class childhood in England, Stewart spent decades as a distinguished member of the Royal Shakespeare Company before achieving global television stardom in 1987. Beyond his signature seven-season run on television and multiple feature films as Picard, he maintained a prolific career spanning science-fiction staples like "Dune" and major theatrical productions on Broadway.</p>
-<p><small>Links: <a href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50294702">hacker news</a></small></p>
 <br clear="all" />
 
 ---
