@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Prospero C++ Coding Harness Released for Local LLMs</h2>
+<a name="story-26101"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmartinfowler.com%2Farticles%2Fharness-engineering%2Fharness-overview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Chris Wellons has released Prospero, a lightweight C++ coding harness designed for local LLMs and AI agents. Built with a Dear ImGui interface, the tool consumes significantly fewer resources than typical web-stack-based harnesses while supporting advanced features like subagents, remote deployments, and desktop control.</p><p>Prospero enforces strict timeouts for every operation to prevent agent hangs, ensures complete process tree cleanup to eliminate stray background tasks, and utilizes passive rendering to reduce idle resource consumption. It is available in a free Community Edition on GitHub and a Professional Edition that includes built-in headless engines for multi-host operations.</p>
+<p><small>Links: <a href="https://nullprogram.com/blog/2026/10/31/">nullprogram.com</a> | <a href="https://news.ycombinator.com/item?id=50315226">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Abhinav Sarkar Implements LC-3 Disassembler in Haskell</h2>
 <a name="story-26088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F838%2F838e66d6-7ba4-4b13-9279-f2ddad8a8d28%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Abhinav Sarkar details the implementation of a disassembler for Little Computer 3 (LC-3) binaries written in Haskell. Because LC-3 object files intermix raw instructions and data without section or symbol tables, the disassembler employs a multi-pass heuristic approach that performs unambiguous decoding, speculative context-based decoding, data cleanup, and label insertion.</p><p>The walkthrough covers setting up mutable vectors and strict ST monads in Haskell, utilizing type-safe bit matching with GHC pattern synonyms, and parsing binary formats to reconstruct readable textual assembly.</p>
@@ -23,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Blogger Novq Details Writing Novellas Using Groff Typesetting System</h2>
 <a name="story-26077"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmovq.de%2Fblog%2Fpostings%2F2026-10-31%2F0%2Fpdfinfo-wc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Blogger Novq has detailed the creation of two novellas spanning approximately 15,000 and 40,000 words using the groff typesetting system. The texts were compiled with custom macro packages and a minimalist Vim workflow, generating formatted PDF outputs on aging hardware in under two seconds.</p><p>Although the completed fiction works will remain unpublished by choice, the post provides a technical walkthrough of the groff configuration. It covers basic text formatting, page-number footers, header and footer traps, inter-sentence spacing, and German hyphenation rules.</p>
-<p><small>Links: <a href="https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html">movq.de</a> | <a href="https://lobste.rs/s/54xwm8/novellas_with_groff">lobsters</a></small></p>
+<p><small>Links: <a href="https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html">movq.de</a> | <a href="https://lobste.rs/s/54xwm8/novellas_with_groff">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50325694">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Andrej Karpathy Launches HackerTube YouTube Alternative</h2>
@@ -41,7 +47,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Enlightenment 0.28.0 Released</h2>
 <a name="story-26067"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.addictivetips.com%2Fapp%2Fuploads%2F2020%2F01%2Fenlightenment-wallpaper-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The release of Enlightenment 0.28.0 introduces initial NetBSD support, a new NetworkManager module with Wi-Fi and VPN capabilities, native PipeWire audio mixing alongside PulseAudio, and an integrated persistent clipboard history module. These additions aim to expand hardware compatibility and modernize desktop features for Unix-like systems.</p><p>Additional updates include ACPI CPU power profile integration, per-battery charge limit controls, process priority management via the system helper, and numerous stability fixes for Wayland, X11, Bluetooth, and window stacking. The version depends on EFL version 1.29.0 or newer to function properly.</p>
-<p><small>Links: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">enlightenment.org</a> | <a href="https://lobste.rs/s/fmawla/enlightenment_0_28_0_release">lobsters</a></small></p>
+<p><small>Links: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">enlightenment.org</a> | <a href="https://lobste.rs/s/fmawla/enlightenment_0_28_0_release">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50326530">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>David Bushell Evaluates Accessibility and UI Design in Tangled Code Forge Redesign</h2>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26025"><img src="https://wsrv.nl/?url=https%3A%2F%2Fusbnes.com%2Fwp-content%2Fuploads%2F2022%2F10%2F02-04-2006-084104AM-1024x627.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Drew Breunig has released Nesformer, a project that compiles a complete Nintendo Entertainment System (NES) 6502 CPU, 2 KB of RAM, and cartridge program ROM directly into the weights of a stock Qwen3.5 language model. Rather than being trained via machine learning, every parameter and state matrix is computed by a compiler, allowing the model to play games like Super Mario Bros. by predicting CPU execution tokens one at a time.</p><p>Building upon previous work like Qwenputer, Nesformer utilizes the model's Gated DeltaNet state matrices to function as the machine's memory while a host program handles peripheral tasks such as scanline rendering and controller input. While running significantly slower than real hardware—taking several seconds per frame—the system successfully executes NROM-compatible ROMs and achieves execution traces identical to conventional 6502 emulators.</p>
 <p><small>Links: <a href="https://github.com/dbreunig/nesformer">github.com</a> | <a href="https://news.ycombinator.com/item?id=50306442">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Florilegium LuaLaTeX Package Generates Procedural Delft-Blue Floral Margins</h2>
-<a name="story-26024"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0737%2F5804%2F8501%2Ffiles%2F91YgOzDR57L.jpg%3Fv%3D1745062358&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Florilegium is an open-source LuaLaTeX package developed by Kevin Raymond that procedurally generates Delft-blue floral page margins directly into PDFs without external image assets. Utilizing hand-authored primitives and a greedy space-filling growth algorithm computed in Lua, the software creates unique botanical layouts, seasonal progressions, and visitors such as birds and insects for every page.</p><p>The project supports customizable color palettes, text-responsive features like section headings and drop initials, and alternate themes including geometric shapes and mathematical figures. Additionally, it includes a standalone PostScript port capable of rendering the gardens without TeX.</p>
-<p><small>Links: <a href="https://github.com/kevinraymond/florilegium">github.com</a> | <a href="https://news.ycombinator.com/item?id=50305637">hacker news</a></small></p>
 <br clear="all" />
 
 ---

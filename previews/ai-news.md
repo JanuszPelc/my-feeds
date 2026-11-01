@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI to Merge ChatGPT and Codex Usage Limits in December</h2>
+<a name="story-26100"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcellcog.ai%2Fblog%2Fmedia%2Fchatgpt-codex-shared-usage-limit%2Fslide-1.webp%3Fv%3Dc4dc01cb86&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Starting in December, OpenAI will combine usage allowances for ChatGPT and Codex into a single token-based pool for Plus, Pro, and Business plans. This transition coincides with the integration of Work's agentic capabilities directly into the main ChatGPT experience.</p><p>Usage will be measured in tokens, with consumption varying according to the chosen model and the complexity of the requested tasks, while instant chat will remain unmetered. Subscribers can monitor their combined balance and reset schedules within the app's settings, and they will have the option to wait for resets, upgrade plans, or purchase additional credits if limits are reached.</p>
+<p><small>Links: <a href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits">help.openai.com</a> | <a href="https://news.ycombinator.com/item?id=50320588">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>DeepSeek Releases Super-Agent Autonomous Coding Prototype</h2>
 <a name="story-26081"><img src="https://wsrv.nl/?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F1216785679%2F7d891983-5b92-40d4-81e3-7ebc365ce645&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DeepSeek has released an open-source prototype of an autonomous coding agent called Super-Agent, aiming to compete with Anthropic's Claude Code. The system is designed to handle software development tasks with a higher degree of autonomy than previous models.</p><p>According to the DeepSeek Harness team, the Super-Agent prototype can proactively monitor developer group chats for feedback and suggest solutions without requiring a direct prompt. Further details and the source code have been published to its official repository.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25820"><img src="https://wsrv.nl/?url=https%3A%2F%2Fntwenmyhsoimhczyxtgl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmedia-derivatives%2FMDA_c7ef42b25f47%2Fweb-1080.jpg%3Fv%3D1792226325&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mistral AI has released the open weights for Mistral Large 4, a one-trillion-parameter natively multimodal model, following an initial public preview. Trained on European infrastructure, the model features scaling enhancements from reinforcement learning aimed at agentic coding, reasoning efficiency, and defensive cybersecurity capabilities.</p><p>The model introduces three adjustable reasoning modes to balance performance and cost, achieving leading scores on various open-weight coding and cybersecurity benchmarks. It is available under a modified MIT license for self-hosted deployment or through enterprise managed platforms such as Microsoft Foundry and NVIDIA NIM containers.</p>
 <p><small>Links: <a href="https://mistral.ai/news/mistral-large-4-oss/">mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=50289418">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Surge AI Releases DAYJOB: Tax Benchmark for AI Agents</h2>
-<a name="story-25802"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F68dcd2ceb173c46fa029931c%2F6ae0be39ff7dfbf1d1c0be10_6ae0be167d69fdd5f5b61e46_dayjob-tax-leaderboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Surge AI has released DAYJOB: Tax, a new benchmark designed to evaluate AI agents on professional tax preparation, compliance, and advisory services. The benchmark features 50 real-world assignments spanning eight tax practice areas and nearly 1,800 workspace files, testing models on end-to-end workflows, calculations, and professional judgment.</p><p>Initial evaluations reveal that frontier models struggle significantly with these complex tasks, with the leading model, Claude Sonnet 5.5, achieving a pass rate of only 10.8% at a 95% rubric threshold. The findings demonstrate that current AI agents frequently fail to recognize implicit constraints, deadlines, or unverified assumptions embedded within messy client records.</p>
-<p><small>Links: <a href="https://surgehq.ai/blog/dayjob-tax">surgehq.ai</a> | <a href="https://news.ycombinator.com/item?id=50275626">hacker news</a></small></p>
 <br clear="all" />
 
 ---

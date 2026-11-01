@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-01T05:02:00+00:00</updated>
+  <updated>2026-11-01T10:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>OpenAI to Merge ChatGPT and Codex Usage Limits in December</title>
+    <link href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits" rel="alternate" />
+    <id>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits::v240</id>
+    <published>2026-11-01T10:36:00+00:00</published>
+    <updated>2026-11-01T10:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcellcog.ai%2Fblog%2Fmedia%2Fchatgpt-codex-shared-usage-limit%2Fslide-1.webp%3Fv%3Dc4dc01cb86&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits">help.openai.com</a> | <a href="https://news.ycombinator.com/item?id=50320588">hacker news</a></small></p><hr/><p>Starting in December, OpenAI will combine usage allowances for ChatGPT and Codex into a single token-based pool for Plus, Pro, and Business plans. This transition coincides with the integration of Work's agentic capabilities directly into the main ChatGPT experience.</p><p>Usage will be measured in tokens, with consumption varying according to the chosen model and the complexity of the requested tasks, while instant chat will remain unmetered. Subscribers can monitor their combined balance and reset schedules within the app's settings, and they will have the option to wait for resets, upgrade plans, or purchase additional credits if limits are reached.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcellcog.ai%2Fblog%2Fmedia%2Fchatgpt-codex-shared-usage-limit%2Fslide-1.webp%3Fv%3Dc4dc01cb86&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 16:52 UTC | #26100</small>]]></content>
+  </entry>
   <entry>
     <title>DeepSeek Releases Super-Agent Autonomous Coding Prototype</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic" rel="alternate" />
