@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Industrial AI Startup Lumaril Raises $66 Million Series A</h2>
+<a name="story-26084"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.automation.com%2Fdocuments%2Fd%2Facom%2Fcover-photo-for-introductory-piece-web.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Lumaril has raised $66 million in a Series A funding round at a $400 million valuation to expand its industrial artificial intelligence software. The company builds systems that connect to existing factory control networks to continuously optimize production, throughput, and yield without requiring heavy hardware retrofits.</p><p>The financing round was led by returning investor Elad Gil, with participation from Felicis, Koch Disruptive Technologies, Pax Ventures, Lux Capital, and General Catalyst, bringing the startup's total funding to $78 million. The capital coincides with the company's official launch out of stealth to target efficiency in the physical manufacturing sector.</p>
+<p><small>Links: <a href="https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d">wsj.com</a> | <a href="https://lumaril.substack.com/p/nothing-is-built-from-nothing">source</a></small></p>
+<br clear="all" />
+
+<h2>Binance Plans Phased Withdrawal Resumption Following Stolen Funds Recovery</h2>
+<a name="story-26085"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptowinrate.com%2Fwp-content%2Fuploads%2F2024%2F01%2Fbinance_withdraw_crypto_send_to_binance_user-1024x705.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cryptocurrency exchange Binance announced plans to resume customer withdrawals in phases beginning Sunday, after covering 95 percent of the approximately $6.3 billion in digital assets stolen during a recent security breach. The incident involved the unauthorized theft of major tokens including Bitcoin and Ether, marking one of the largest heists in the history of the digital asset industry.</p><p>Binance has repeatedly stated it will bear the full financial impact of the breach, setting aside over $6.34 billion in internal corporate funds to replenish affected accounts. While the phased reopening marks a major milestone in restoring platform operations, technical investigations and efforts to recover frozen assets in collaboration with industry partners remain ongoing.</p>
+<p><small>Links: <a href="https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/">reuters.com</a></small></p>
+<br clear="all" />
+
+<h2>NeuroXess Raises RMB 700 Million in Series B Funding</h2>
+<a name="story-26083"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fneuroxess-achieves-milestones-brain-computer-interface-trials-decoding-movements-cc03db4b%2F29739797a2fad0f57ab39b0451e39c2fa51c2d30a769b2f01d7c609353b3056f.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Shanghai-based brain-computer interface startup NeuroXess has closed a Series B funding round of RMB 700 million, approximately $105 million. The financing round was co-led by SDIC Juli, Shenzhen Capital Group, and Qinzhi Capital.</p><p>The company is developing implantable BCI technology designed for movement support, speech decoding, and the control of external devices. The new capital will be used to support clinical trials, regulatory approval processes, manufacturing capabilities, and artificial intelligence integration.</p>
+<p><small>Links: <a href="https://technode.com/">technode.com</a> | <a href="https://news.ycombinator.com/item?id=50026463">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Guidewire to Acquire Insurance Software Firm Hyperexponential for $1.7 Billion</h2>
 <a name="story-26080"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.sphereinc.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAutomated-Insurance-Underwriting-Using-AI-Solutions.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Insurance platform provider Guidewire has signed a definitive agreement to acquire London-based Hyperexponential for a base purchase price of $1.7 billion in cash. The transaction, announced on October 27, 2026, includes up to an additional $400 million in contingent consideration based on specific recurring revenue targets.</p><p>Hyperexponential specializes in AI-native pricing and underwriting software designed for commercial property and casualty insurers. The acquisition is structured to position Guidewire to expand its capabilities and support the industry's shift toward agentic underwriting technology.</p>
@@ -77,24 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25897"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FTwilio-Total-Revenue_2026-04-06-033339_sifm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Twilio reported third-quarter revenue of $1.56 billion, marking a 20% increase year-over-year that beat analyst estimates of $1.52 billion. The company additionally posted a net income of $161 million and raised its full-year revenue growth outlook following strong execution during the period.</p><p>Despite the third-quarter beats, Twilio issued guidance forecasting slower revenue growth for the fourth quarter. Following the earnings release and the cautious forward-looking outlook, Twilio shares dropped more than 15% in after-hours trading.</p>
 <p><small>Links: <a href="https://www.marketwatch.com/">marketwatch.com</a> | <a href="https://investors.twilio.com/news-releases/news-release-details/twilio-announce-third-quarter-2026-results-october-29-2026">source</a></small></p>
-<br clear="all" />
-
-<h2>Sandisk Reports $11 Billion in Q1 Revenue and Announces 8-for-1 Stock Split</h2>
-<a name="story-25899"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Ftikr%2Fimages%2Fw_2560%2Ch_1706%2Cc_scale%2Ff_webp%2Cq_auto%2Fv1777815320%2Fimages%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10%2FTIKR.com_SNDK-Sandisk-Corporation-Revenues_10487073b10.webp%3F_i%3DAA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sandisk reported fiscal first-quarter revenue of $11 billion, a 378% increase year-over-year that surpassed analyst estimates of $10.7 billion. The company also announced an 8-for-1 stock split and provided second-quarter revenue guidance expected to exceed market forecasts.</p><p>Sandisk's stock fell more than 4% in after-hours trading following the announcement. The company's shares have risen more than 2,600% since its separation from Western Digital 20 months ago.</p>
-<p><small>Links: <a href="https://www.morningstar.com/news/marketwatch/20261029556/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-on-the-way">morningstar.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/sndk-20261029.htm">source</a></small></p>
-<br clear="all" />
-
-<h2>Binance Investigates Potential Security Issue Following Large Suspicious Outflows</h2>
-<a name="story-25888"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-images.ctmedia.io%2Fmedia%2Farticle-covers%2F2026%2F10%2F01M64RM2NG4HTR1FTZN6XKT10N%2Ftrying-to-open-monitor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Binance is investigating a potential security issue following reports of suspicious outflows estimated between $3.55 billion and $5.8 billion. On-chain data shows massive transfers from Binance hot wallets across the Ethereum, Arbitrum, and Avalanche networks. Company officials are reviewing the movement to verify the scale of the incident.</p><p>Tether and Circle have frozen approximately $1.79 billion in USDT and USDC held in wallets receiving transfers from Binance. Aave froze lending markets to prevent potential exploits. Former CEO Changpeng Zhao stated that user funds are expected to be fully covered, while the BNB token declined more than 5.5%.</p>
-<p><small>Links: <a href="https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171">theblock.co</a> | <a href="https://x.com/heyibinance/status/2115915841195942020">source</a></small></p>
-<br clear="all" />
-
-<h2>Coinbase Returns to Profitability in Q3 Despite Revenue Decline</h2>
-<a name="story-25887"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thestreet.com%2F.image%2Ft_share%2FMjE4ODIwOTEzMTg4MDU0NjMw%2Fg4ilkqaw8aaejlb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Coinbase Global Inc. reported a net income of $719 million for the third quarter of 2026, marking its first profit in a year. This result was driven largely by $715 million in unrealized crypto gains, even as quarterly revenue fell 35% year-over-year to $1.22 billion, meeting analyst expectations.</p><p>The company also reported record subscriber levels for its Coinbase One service and noted that prediction markets have surpassed $200 million in annualized revenue.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop">bloomberg.com</a> | <a href="https://investor.coinbase.com/news/news-details/2026/Coinbase-Q3-2026-Earnings-Show-All-time-high-Coinbase-One-Subscribers-and-Prediction-Markets-Surpassing-200-Million-in-Annualized-Revenue/default.aspx">source</a></small></p>
 <br clear="all" />
 
 ---
