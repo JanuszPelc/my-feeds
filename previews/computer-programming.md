@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Kwi Terminal Emulator Introduced for KDE Plasma</h2>
+<a name="story-26087"><img src="https://wsrv.nl/?url=https%3A%2F%2Feikehein.com%2Fkde%2Fkwi_screenshot_2026-11_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Eike Hein has announced Kwi, a new GPU-accelerated terminal emulator designed for KDE Plasma and other free desktop environments. Built using Qt Quick, Kirigami, and the libghostty-vt backend, Kwi aims to provide a fast, modern alternative to Konsole that aligns with the latest KDE Human Interface Guidelines and supports hardware-accelerated Vulkan and OpenGL rendering.</p><p>The project intends to bridge gaps in the KDE software stack by offering a public QML module for embedding terminal components in Qt Quick applications, addressing limitations found in older QWidget-based solutions like Konsole's KPart. While currently in an early experimental stage without a formal tagged release, Kwi offers significant performance improvements, enhanced accessibility features, and support for modern terminal protocols, with nightly Flatpak builds available for testing.</p>
+<p><small>Links: <a href="https://blogs.kde.org/2026/11/01/introducing-kwi/">blogs.kde.org</a> | <a href="https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Blogger Novq Details Writing Novellas Using Groff Typesetting System</h2>
 <a name="story-26077"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmovq.de%2Fblog%2Fpostings%2F2026-10-31%2F0%2Fpdfinfo-wc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Blogger Novq has detailed the creation of two novellas spanning approximately 15,000 and 40,000 words using the groff typesetting system. The texts were compiled with custom macro packages and a minimalist Vim workflow, generating formatted PDF outputs on aging hardware in under two seconds.</p><p>Although the completed fiction works will remain unpublished by choice, the post provides a technical walkthrough of the groff configuration. It covers basic text formatting, page-number footers, header and footer traps, inter-sentence spacing, and German hyphenation rules.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26019"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.123microcontroller.com%2Fassets%2Fimages%2Fc-jump-tables-switch-optimization-diagram.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GCC implements `switch` statements using several distinct strategies depending on the distribution and density of case labels. For dense integer values, the compiler typically generates jump tables for efficient dispatching. When case values are sparse, GCC often utilizes a decision tree composed of comparison instructions, and in some instances, uses bitset-based tests for specific bit patterns.</p><p>The compiler employs specific heuristics to decide between these methods, such as evaluating the profitability of a jump table based on the number of required comparisons versus table size. Implementation details within the `pass_lower_switch` pass reveal that GCC uses dynamic programming to optimize bitset clusters and analyzes case ranges to determine the most efficient machine code.</p>
 <p><small>Links: <a href="https://xoranth.net/gcc-switch/">xoranth.net</a> | <a href="https://lobste.rs/s/ncclwy/switch_lowering_gcc">discussion</a> | <a href="https://news.ycombinator.com/item?id=50314085">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Windows Long Power Button Hold and a Windows 3.1 Black Screen Support Case</h2>
-<a name="story-26014"><img src="https://wsrv.nl/?url=https%3A%2F%2F2.bp.blogspot.com%2F-FifjZ4HEczc%2FUMomkn4r3lI%2FAAAAAAAAEJI%2FDuGFz_a5_pY%2Fs700%2FWin%2B3.1%2BPlasma%2BPower%2BSaver.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Windows systems utilize "long power button hold" (LPBH) to facilitate hardware-level shutdowns; holding the power button for eight seconds triggers a kernel dump to assist in diagnostics. Failures resulting in a completely black screen are categorized as "black screen LPBH" for specialized analysis.</p><p>This mechanism provides context for a Windows 3.1 support case in which a user's screen appeared blank because every interface color—including text and backgrounds—was set to black. Such issues can be resolved by resetting the system colors via the `win.ini` file.</p>
-<p><small>Links: <a href="https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/">devblogs.microsoft.com</a> | <a href="https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they">discussion</a> | <a href="https://news.ycombinator.com/item?id=50300039">hacker news</a></small></p>
 <br clear="all" />
 
 ---
