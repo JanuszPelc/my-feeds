@@ -11,13 +11,13 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>DeepSeek Releases Super-Agent Autonomous Coding Prototype</h2>
 <a name="story-26081"><img src="https://wsrv.nl/?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F1216785679%2F7d891983-5b92-40d4-81e3-7ebc365ce645&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DeepSeek has released an open-source prototype of an autonomous coding agent called Super-Agent, aiming to compete with Anthropic's Claude Code. The system is designed to handle software development tasks with a higher degree of autonomy than previous models.</p><p>According to the DeepSeek Harness team, the Super-Agent prototype can proactively monitor developer group chats for feedback and suggest solutions without requiring a direct prompt. Further details and the source code have been published to its official repository.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic">bloomberg.com</a> | <a href="https://github.com/deepseek-ai/dsh-superagent-prototype">github.com</a> | <a href="https://news.ycombinator.com/item?id=50316116">hacker news</a></small></p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic">bloomberg.com</a> | <a href="https://github.com/deepseek-ai/dsh-superagent-prototype">github.com</a></small></p>
 <br clear="all" />
 
 <h2>Memdoor Releases Team-Solve Workflow Implementing GVS5H Multi-Agent Architecture</h2>
 <a name="story-26089"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHPsbsG0b0AA7mhV%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Memdoor has published a new workflow implementation called team-solve, based on the GVS5H training-free self-orchestration method. The architecture coordinates five distinct Qwen3.8-27B agent instances—acting as a planner, two ideators, a solver, a manager, and a repair worker—running with fresh contexts and communicating solely through files on disk rather than shared memory or chat windows.</p><p>Tested on the first ten problems of the LiveCodeBench Hard benchmark across five passes, the file-based multi-agent setup achieved a mean score of 9.8 out of 10, matching the performance of the authors' original research harness. Each run took a median of 40 minutes at a cost of approximately $0.39, utilizing eight YAML configuration files without custom code or hardcoded model names.</p>
-<p><small>Links: <a href="https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve">github.com</a> | <a href="https://news.ycombinator.com/item?id=50320995">hacker news</a></small></p>
+<p><small>Links: <a href="https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve">github.com</a></small></p>
 <br clear="all" />
 
 <h2>Chatbots Rely on Obscure AI-Built Voter Sites for US Midterm Information</h2>
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Researcher Jiahao Shao Accuses Anthropic of Erroneously Blocking Account Over Model Training</h2>
 <a name="story-26074"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpiunikaweb.com%2Fwp-content%2Fuploads%2F2026%2F02%2Fanthropic-response-ban-multiple-accounts.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researcher Jiahao Shao publicly criticized Anthropic and CEO Dario Amodei after his account was flagged and blocked for allegedly training a competitor model. Shao stated that he never distilled Claude, explaining that his training rollouts originated from an open-source model while Claude was used exclusively to submit jobs and run analysis.</p><p>According to Shao, the automated enforcement causes any prompts involving reinforcement fine-tuning, supervised fine-tuning, or larger model training to trigger account blocks, model downgrades, or session terminations. The incident has drawn attention across the AI research community regarding the sensitivity and accuracy of anti-distillation moderation systems.</p>
-<p><small>Links: <a href="https://twitter.com/jiahaoshao1/status/2116475922190922088">twitter.com</a> | <a href="https://x.com/jiahaoshao1/status/2116475922190922088">x.com</a> | <a href="https://news.ycombinator.com/item?id=50319358">hacker news</a></small></p>
+<p><small>Links: <a href="https://twitter.com/jiahaoshao1/status/2116475922190922088">twitter.com</a> | <a href="https://x.com/jiahaoshao1/status/2116475922190922088">x.com</a></small></p>
 <br clear="all" />
 
 <h2>OpenAI, Google, Microsoft, and Anthropic to Adopt Shared AI Scraping Opt-Out Standard</h2>
@@ -47,13 +47,13 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Google Project Suncatcher Prototype Satellite Goes Online in Orbit</h2>
 <a name="story-25969"><img src="https://wsrv.nl/?url=https%3A%2F%2Fenglish.dainikjagranmpcg.com%2Fmedia-webp%2F1200%2F2025-11%2Fgoogle-unveils-%E2%80%98project-suncatcher%E2%80%99-space-based-ai-data-centers-to-launch-by-2027.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google's Project Suncatcher prototype satellite is online and communicating with ground engineers after launching on a SpaceX Falcon 9 rocket. Equipped with a single Google Tensor Processing Unit and running the Gemma 4 AI model, the spacecraft successfully processed prompts and returned orbital telemetry during its initial testing phase.</p><p>The ongoing mission aims to evaluate how AI hardware performs under real-world space radiation and thermal stress, addressing challenges like memory bit flips. If the prototype proves successful, Google plans to launch additional chips in 2027 to demonstrate higher power generation and laser-based inter-satellite links for future distributed orbital computing.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50306870">hacker news</a></small></p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/">blog.google</a></small></p>
 <br clear="all" />
 
 <h2>YC Labs and Olam Labs Study Multi-Agent Swarm Dynamics in Minecraft Experiments</h2>
 <a name="story-25913"><img src="https://wsrv.nl/?url=https%3A%2F%2Flabs.ycombinator.com%2Fciv50%2Fcharts%2Factivity-by-night-color-v2-26B3C72A.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>YC Labs partnered with Olam Labs to conduct multi-agent experiments deploying 50 GPT-6.1 Sol AI agents into a survival Minecraft world for a three-hour run. The study aimed to observe emergent swarm behaviors, coordination patterns, and organizational structures under resource constraints and environmental hazards.</p><p>Following high mortality rates during the first night, the agents spontaneously adapted by forming a hierarchical governance structure, utilizing a shared planning sandbox, and establishing a centralized food-rationing ledger. The experiment highlights how autonomous LLM swarms can develop complex social protocols and risk aversion when faced with survival pressures.</p>
-<p><small>Links: <a href="https://labs.ycombinator.com/projects/games/index.html">labs.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=50296486">hacker news</a></small></p>
+<p><small>Links: <a href="https://labs.ycombinator.com/projects/games/index.html">labs.ycombinator.com</a></small></p>
 <br clear="all" />
 
 <h2>Howler Launches Harry Potter-Inspired Ephemeral AI Chat for macOS</h2>
@@ -89,13 +89,13 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Mistral AI Releases Open Weights for Mistral Large 4 Model</h2>
 <a name="story-25820"><img src="https://wsrv.nl/?url=https%3A%2F%2Fntwenmyhsoimhczyxtgl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmedia-derivatives%2FMDA_c7ef42b25f47%2Fweb-1080.jpg%3Fv%3D1792226325&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mistral AI has released the open weights for Mistral Large 4, a one-trillion-parameter natively multimodal model, following an initial public preview. Trained on European infrastructure, the model features scaling enhancements from reinforcement learning aimed at agentic coding, reasoning efficiency, and defensive cybersecurity capabilities.</p><p>The model introduces three adjustable reasoning modes to balance performance and cost, achieving leading scores on various open-weight coding and cybersecurity benchmarks. It is available under a modified MIT license for self-hosted deployment or through enterprise managed platforms such as Microsoft Foundry and NVIDIA NIM containers.</p>
-<p><small>Links: <a href="https://mistral.ai/news/mistral-large-4-oss/">mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=50289418">hacker news</a></small></p>
+<p><small>Links: <a href="https://mistral.ai/news/mistral-large-4-oss/">mistral.ai</a></small></p>
 <br clear="all" />
 
 <h2>Surge AI Releases DAYJOB: Tax Benchmark for AI Agents</h2>
 <a name="story-25802"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F68dcd2ceb173c46fa029931c%2F6ae0be39ff7dfbf1d1c0be10_6ae0be167d69fdd5f5b61e46_dayjob-tax-leaderboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Surge AI has released DAYJOB: Tax, a new benchmark designed to evaluate AI agents on professional tax preparation, compliance, and advisory services. The benchmark features 50 real-world assignments spanning eight tax practice areas and nearly 1,800 workspace files, testing models on end-to-end workflows, calculations, and professional judgment.</p><p>Initial evaluations reveal that frontier models struggle significantly with these complex tasks, with the leading model, Claude Sonnet 5.5, achieving a pass rate of only 10.8% at a 95% rubric threshold. The findings demonstrate that current AI agents frequently fail to recognize implicit constraints, deadlines, or unverified assumptions embedded within messy client records.</p>
-<p><small>Links: <a href="https://surgehq.ai/blog/dayjob-tax">surgehq.ai</a> | <a href="https://news.ycombinator.com/item?id=50275626">hacker news</a></small></p>
+<p><small>Links: <a href="https://surgehq.ai/blog/dayjob-tax">surgehq.ai</a></small></p>
 <br clear="all" />
 
 ---

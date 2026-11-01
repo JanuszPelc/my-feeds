@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Andrej Karpathy Launches HackerTube YouTube Alternative</h2>
 <a name="story-26061"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fkarpathy%2Fimage-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Andrej Karpathy has launched HackerTube, a curated YouTube alternative built using Claude Opus 5.5. The platform aggregates 6,454 YouTube videos recommended in Hacker News comments between 2007 and 2026, filtering out low-grade content and spam across 150 topics.</p><p>Designed as an alternative to mainstream recommendation algorithms, HackerTube features a clean interface, clean thumbnails, local session-based recommendations, keyboard shortcuts, and data export options. Karpathy developed the project in roughly two hours to bypass conventional video platform bloat.</p>
-<p><small>Links: <a href="https://karpathy.bearblog.dev/hacker-tube/">karpathy.bearblog.dev</a> | <a href="https://news.ycombinator.com/item?id=50319510">hacker news</a></small></p>
+<p><small>Links: <a href="https://karpathy.bearblog.dev/hacker-tube/">karpathy.bearblog.dev</a></small></p>
 <br clear="all" />
 
 <h2>Avoid Public Functions Calling Other Public Functions</h2>
@@ -59,13 +59,13 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Vitalik Buterin Advocates Digital Minimalism</h2>
 <a name="story-26056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.elconfidencialdigital.com%2Fasset%2Fthumbnail%2C1280%2C720%2Ccenter%2Ccenter%2Fmedia%2Felconfidencialdigital%2Fimages%2F2025%2F11%2F24%2F2025112415220450991.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ethereum co-founder Vitalik Buterin has published an essay advocating for "digital minimalism," arguing that users should intentionally reduce their dependence on social media, mobile internet, and complex web interfaces. Citing increasing toxicity and declining informational value on platforms like X, Buterin outlines personal experiments aimed at regaining control over digital consumption.</p><p>The proposed strategies include using aggregators like Firefly to manage multiple social networks, keeping phones in airplane mode for extended periods, and leveraging command-line tools and artificial intelligence to interact with the web. Buterin contends that recent advances in software quality and AI make such local, offline, and controllable tools both feasible and necessary for modern digital self-sovereignty.</p>
-<p><small>Links: <a href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html">vitalik.eth.limo</a> | <a href="https://news.ycombinator.com/item?id=50313661">hacker news</a></small></p>
+<p><small>Links: <a href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html">vitalik.eth.limo</a></small></p>
 <br clear="all" />
 
 <h2>Jepsen Publishes Safety Analysis of ParticleDB 1.1.4</h2>
 <a name="story-26040"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wasilzafar.com%2Fimages%2Fseries%2Fdatabase-mastery%2Fisolation-levels-spectrum-anomalies.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kyle Kingsbury’s Jepsen analysis of ParticleDB versions 1.1.4 through 1.1.18.11.rc-22 identified 96 issues in the multi-model database designed for AI workloads. The discovered bugs ranged from basic crashes, deadlocks, and data loss to complex SQL correctness errors, confused columns, and data type transformations.</p><p>The evaluation found that most flaws manifested under normal single-server operations without external faults. While subsequent pre-releases resolved the vast majority of these bugs, the default optimistic concurrency control mode continued to experience data loss on committed writes, and the strictest serializable settings still allowed concurrency anomalies.</p>
-<p><small>Links: <a href="https://jepsen.io/analyses/particledb-1.1.4">jepsen.io</a> | <a href="https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50316100">hacker news</a></small></p>
+<p><small>Links: <a href="https://jepsen.io/analyses/particledb-1.1.4">jepsen.io</a> | <a href="https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4">lobsters</a></small></p>
 <br clear="all" />
 
 <h2>Tactical-Retreat Open-Source Counter-Strike 1.5 Port Released</h2>
@@ -89,13 +89,13 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Nesformer Compiles Nintendo Entertainment System CPU Into Qwen3.5 Model Weights</h2>
 <a name="story-26025"><img src="https://wsrv.nl/?url=https%3A%2F%2Fusbnes.com%2Fwp-content%2Fuploads%2F2022%2F10%2F02-04-2006-084104AM-1024x627.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Drew Breunig has released Nesformer, a project that compiles a complete Nintendo Entertainment System (NES) 6502 CPU, 2 KB of RAM, and cartridge program ROM directly into the weights of a stock Qwen3.5 language model. Rather than being trained via machine learning, every parameter and state matrix is computed by a compiler, allowing the model to play games like Super Mario Bros. by predicting CPU execution tokens one at a time.</p><p>Building upon previous work like Qwenputer, Nesformer utilizes the model's Gated DeltaNet state matrices to function as the machine's memory while a host program handles peripheral tasks such as scanline rendering and controller input. While running significantly slower than real hardware—taking several seconds per frame—the system successfully executes NROM-compatible ROMs and achieves execution traces identical to conventional 6502 emulators.</p>
-<p><small>Links: <a href="https://github.com/dbreunig/nesformer">github.com</a> | <a href="https://news.ycombinator.com/item?id=50306442">hacker news</a></small></p>
+<p><small>Links: <a href="https://github.com/dbreunig/nesformer">github.com</a></small></p>
 <br clear="all" />
 
 <h2>Florilegium LuaLaTeX Package Generates Procedural Delft-Blue Floral Margins</h2>
 <a name="story-26024"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0737%2F5804%2F8501%2Ffiles%2F91YgOzDR57L.jpg%3Fv%3D1745062358&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Florilegium is an open-source LuaLaTeX package developed by Kevin Raymond that procedurally generates Delft-blue floral page margins directly into PDFs without external image assets. Utilizing hand-authored primitives and a greedy space-filling growth algorithm computed in Lua, the software creates unique botanical layouts, seasonal progressions, and visitors such as birds and insects for every page.</p><p>The project supports customizable color palettes, text-responsive features like section headings and drop initials, and alternate themes including geometric shapes and mathematical figures. Additionally, it includes a standalone PostScript port capable of rendering the gardens without TeX.</p>
-<p><small>Links: <a href="https://github.com/kevinraymond/florilegium">github.com</a> | <a href="https://news.ycombinator.com/item?id=50305637">hacker news</a></small></p>
+<p><small>Links: <a href="https://github.com/kevinraymond/florilegium">github.com</a></small></p>
 <br clear="all" />
 
 ---
