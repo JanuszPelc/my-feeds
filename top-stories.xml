@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-01T13:01:00+00:00</updated>
+  <updated>2026-11-01T15:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Claudio Grossi Discovers Ancient Seven-Eared Wheat Variety in Family Attic</title>
+    <link href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/" rel="alternate" />
+    <id>https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/::v240</id>
+    <published>2026-11-01T15:22:00+00:00</published>
+    <updated>2026-11-01T15:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.parchialpicozie.it%2Fmedia%2Fpages%2Ftext_image_content%2Fgrano-gentil-rosso.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/">smithsonianmag.com</a> | <a href="https://news.ycombinator.com/item?id=50320963">hacker news</a></small></p><hr/><p>In the early 1990s, Italian farmer Claudio Grossi discovered an unidentified bag of seeds while cleaning his family's farmstead near Parma. After planting them in a manure pile, Grossi successfully cultivated a hardy, six-foot-tall heritage wheat variety featuring distinctive seven-eared stalks and multicolored kernels that subsequent analysis identified as Triticum turgidum, or poulard wheat.</p><p>Recognizing similarities to a biblical passage in Genesis describing a stalk with seven ears, Grossi collaborated with local bakers and university researchers to study the grain's properties. Scientific testing revealed that the ancient wheat contains lower gluten levels, higher mineral content, and greater resilience against droughts compared to modern commercial cultivars, offering a potential agricultural resource for climate adaptation and crop diversification.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.parchialpicozie.it%2Fmedia%2Fpages%2Ftext_image_content%2Fgrano-gentil-rosso.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 03:56 UTC | #26076 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI, Google, Microsoft, and Anthropic to Adopt Shared AI Scraping Opt-Out Standard</title>
     <link href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2>Claudio Grossi Discovers Ancient Seven-Eared Wheat Variety in Family Attic</h2>
+<a name="story-26076"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.parchialpicozie.it%2Fmedia%2Fpages%2Ftext_image_content%2Fgrano-gentil-rosso.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In the early 1990s, Italian farmer Claudio Grossi discovered an unidentified bag of seeds while cleaning his family's farmstead near Parma. After planting them in a manure pile, Grossi successfully cultivated a hardy, six-foot-tall heritage wheat variety featuring distinctive seven-eared stalks and multicolored kernels that subsequent analysis identified as Triticum turgidum, or poulard wheat.</p><p>Recognizing similarities to a biblical passage in Genesis describing a stalk with seven ears, Grossi collaborated with local bakers and university researchers to study the grain's properties. Scientific testing revealed that the ancient wheat contains lower gluten levels, higher mineral content, and greater resilience against droughts compared to modern commercial cultivars, offering a potential agricultural resource for climate adaptation and crop diversification.</p>
+<p><small>Links: <a href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/">smithsonianmag.com</a> | <a href="https://news.ycombinator.com/item?id=50320963">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>OpenAI, Google, Microsoft, and Anthropic to Adopt Shared AI Scraping Opt-Out Standard</h2>
 <a name="story-26000"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftenacity.io%2Fwp-content%2Fuploads%2F2024%2F03%2Fai-robots-txt-rules-opt.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A new standard proposed through the Internet Engineering Task Force (IETF) will allow web publishers to opt out of AI training using a single signal in their robots.txt files. OpenAI, Google, Microsoft, and Anthropic have announced they will adopt this shared "policy token," which enables website owners to communicate scraping preferences to multiple AI providers simultaneously rather than managing individual settings for each company.</p><p>Anthropic has already adopted the signal, while OpenAI plans to implement it in the coming months. Google and Microsoft expect to support the standard next year, with Microsoft indicating it will provide granular controls for distinguishing between AI training and AI grounding. Meta has expressed support for the standard but has not yet committed to an implementation timeline.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-25920"><img src="https://wsrv.nl/?url=https%3A%2F%2Fentropicthoughts.com%2Fimage%2Fhistory-of-pdp-computers.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An overview examines the history, speed, pricing, and architectural evolution of Digital Equipment Corporation's PDP computers from the introduction of the PDP-1 through the VAX series. The timeline illustrates how different hardware lines branched out to serve experimental, industrial control, and time-sharing markets.</p><p>Hardware constraints heavily influenced early hacker culture and software design. Resource-constrained smaller systems like the PDP-7 and PDP-11 shaped the development of Unix, C, and minimalist utilities, while resource-rich larger systems like the PDP-10 supported large Lisp programs, Emacs, and early interactive games.</p>
 <p><small>Links: <a href="https://entropicthoughts.com/history-of-pdp-computers">entropicthoughts.com</a> | <a href="https://lobste.rs/s/ldvd3n/extremely_brief_history_pdp_computers">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50289081">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Misty De Méo Publishes Guide on Personal Web Archiving Tools</h2>
-<a name="story-25914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mistys-internet.website%2Fimages%2Fwebarchiving%2Fdomaincrawl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Web archivist and software engineer Misty De Méo advocates for personal web archiving, encouraging individuals to actively preserve their favorite online spaces using standard formats like WARC and WACZ rather than relying solely on large institutions.</p><p>The post highlights accessible tools such as the ArchiveWeb.page browser extension, the standalone application, and the Browsertrix web crawler, detailing how users can capture, replay, and share self-contained website backups.</p>
-<p><small>Links: <a href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/">blog.mistys-internet.website</a> | <a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up">lobsters</a></small></p>
 <br clear="all" />
 
 ---
