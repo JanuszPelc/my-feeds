@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-31T19:57:00+00:00</updated>
+  <updated>2026-10-31T22:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Blogger Novq Details Writing Novellas Using Groff Typesetting System</title>
+    <link href="https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html" rel="alternate" />
+    <id>https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html::v240</id>
+    <published>2026-10-31T22:44:00+00:00</published>
+    <updated>2026-10-31T22:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmovq.de%2Fblog%2Fpostings%2F2026-10-31%2F0%2Fpdfinfo-wc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html">movq.de</a> | <a href="https://lobste.rs/s/54xwm8/novellas_with_groff">discussion</a></small></p><hr/><p>Blogger Novq has detailed the creation of two novellas spanning approximately 15,000 and 40,000 words using the groff typesetting system. The texts were compiled with custom macro packages and a minimalist Vim workflow, generating formatted PDF outputs on aging hardware in under two seconds.</p><p>Although the completed fiction works will remain unpublished by choice, the post provides a technical walkthrough of the groff configuration. It covers basic text formatting, page-number footers, header and footer traps, inter-sentence spacing, and German hyphenation rules.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmovq.de%2Fblog%2Fpostings%2F2026-10-31%2F0%2Fpdfinfo-wc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 04:08 UTC | #26077</small>]]></content>
+  </entry>
   <entry>
     <title>Andrej Karpathy Launches HackerTube YouTube Alternative</title>
     <link href="https://karpathy.bearblog.dev/hacker-tube/" rel="alternate" />
