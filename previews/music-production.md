@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>FabFilter Updates Twin 3 to Version 3.10 with MPE Support</h2>
+<a name="story-26071"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin-3-screenshot.1793477184.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>FabFilter has released Twin 3.10, a software synthesizer update introducing full MIDI Polyphonic Expression (MPE) and Note Expression support. The update enables per-note pitch bend and new Timbre and Lift input options for MIDI sources.</p><p>In addition to polyphonic expression features, version 3.10 includes over 200 new factory presets designed by bManic, Bigtone, and Christian Laffitte, with the existing preset library updated for out-of-the-box MPE compatibility. The release also resolves an arpeggiator bug that caused timing drift and repeated note triggering during heavy MIDI messaging. The update is free and backwards compatible for existing Twin 3 customers.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/fabfilter-updates-twin-3-to-v3-10---mpe-support-and-over-200-new-presets-69548?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69548">kvraudio.com</a> | <a href="https://www.fabfilter.com/news/1793260800/twin-310-update-with-mpe-support">source</a></small></p>
+<br clear="all" />
+
 <h2>rncbc.org Updates Qtractor to v1.6.5 and Vee One Suite to v1.5.1 for Linux</h2>
 <a name="story-26059"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer rncbc.org has released Qtractor version 1.6.5 and Vee One Suite version 1.5.1 for GNU/Linux systems. Qtractor, an audio and MIDI multi-track sequencer, introduces improvements to CLAP and VST3 plug-in handling, window view and zoom controls, and a new dockable session overview widget.</p><p>The Vee One Suite update adds a crop and uncrop view feature for samplv1 and drumkv1, visual gradients for DCA1 envelope generator times, and a percentage input dialog for randomizing parameters. Both open-source packages are distributed under the terms of the GNU General Public License version 2 or later.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25975"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.musimint.com%2Fwp-content%2Fuploads%2F2025%2F4%2F1746003951%2Fthe-complete-boom-basics-sound-effects-library-1746003955.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>BOOM Library has released Trailer Basics, a free collection of 294 cinematic sound effects designed for movie trailers, game audio, and video production. The library features braam hits, slow pitch bends, warhorns, sub-bass booms, and ringing metal impacts.</p><p>The 948 MB package contains 48 WAV files delivered at 24-bit/96 kHz, with multiple sound variations included inside individual files with metadata descriptions. The royalty-free sound effects are available at no cost through the BOOM Library website for both commercial and non-commercial projects.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/30/boom-library-trailer-basics/">bedroomproducersblog.com</a> | <a href="https://www.boomlibrary.com/sound-effects/free-sounds-trailer-basics/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/30/boom-library-trailer-basics/#respond">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Audiofier Releases Atmospheria and Moody Lights for Kontakt</h2>
-<a name="story-25943"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Faudiofier-micron-series-showcase-web.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audiofier has expanded its Micron Series of Kontakt instruments with the release of Atmospheria and Moody Lights, priced at $29 each. Atmospheria focuses on ambient soundscapes, evolving textures, and cinematic environments designed for underscores and electronic compositions.</p><p>Moody Lights features a four-layer sound architecture controlled by an XY pad, enabling real-time blending of contrasting tonal colors ranging from delicate melodies to tense textures. Both instruments require Native Instruments Kontakt and emphasize straightforward controls for immediate use in music production.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/audiofier-releases-atmospheria-and-moody-lights-for-kontakt-69523?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69523">kvraudio.com</a></small></p>
 <br clear="all" />
 
 ---
