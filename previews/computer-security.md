@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>RAMBO Research Demonstrates Data Leakage from Air-Gapped Computers via RAM Radio Signals</h2>
+<a name="story-26124"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEim6Orh7dVtnQlTHC2C6F5t_nO73uuoKR8lMEYowRLKQN7AOacoY6biK1FiJAA_qudv253Xui1whYttg5J1A8pa5_FoHianGvmAZbz2du4U_R1Juj10XIhY2yHq-sPm5pPtrh7AiYdw9ITqRUbsO3Kj4o2q5s0lbeV8HzaCsA7tvGcsgfiWpC4U4l4B6QNT%2Fs16000%2FAttacks%2Bon%2BAir-Gapped%2BComputers.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers have detailed a novel cyberattack method named RAMBO that enables malware to exfiltrate sensitive data from physically isolated, air-gapped computers. By manipulating memory buses, compromised systems can generate covert radio frequency signals encoding files, cryptographic keys, and biometric information. Using off-the-shelf software-defined radio hardware and simple antennas, attackers can intercept these raw emissions from a distance and translate them back into binary data.</p><p>The technique achieves a data leakage rate of up to 1,000 bits per second, presenting significant risks for high-security environments relying on network isolation. While the method requires nearby radio equipment and custom malware implementation, it highlights hardware emission vulnerabilities that bypass traditional air-gap protections. The paper also outlines potential countermeasures to detect and mitigate out-of-band memory bus emissions.</p>
+<p><small>Links: <a href="https://arxiv.org/abs/2409.02292">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=50322022">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Linode Issues Customer Security Advisory for CVE-2026-98432</h2>
 <a name="story-26103"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffidelissecurity.com%2Fwp-content%2Fuploads%2F2026%2F03%2FCVE-2026-25593.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Akamai and Linode have issued a customer security advisory regarding CVE-2026-98432, a recently published remote code execution vulnerability. While investigations and platform monitoring are underway, the company reports no evidence of the vulnerability being actively exploited on the Akamai Compute platform.</p><p>Linode is currently deploying mitigations for the known attack vector and strongly advises customers to apply upstream operating system updates to their workloads as soon as they become available. Support channels remain open for users seeking further assistance or experiencing platform impacts.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25991"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.northflank.com%2Fdocumentation%2Fv1%2Fapplication%2Frun%2Finject-runtime-variables%2Fenvironment-variables.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Northflank experienced a major security incident and service outage, prompting the platform to advise users to assume all environment variables and stored secrets have been compromised. The company urged customers to immediately rotate credentials, revoke existing keys, and disable public access to addons.</p><p>The incident involved unauthorized use of user-supplied AI API keys stored on the platform, aligning with broader threat patterns targeting AI developer platforms. Northflank deployed emergency network policy patches following a threat alert and enabled secret rotation features for databases like Postgres and MongoDB.</p>
 <p><small>Links: <a href="https://status.northflank.com">status.northflank.com</a> | <a href="https://news.ycombinator.com/item?id=50305025">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Binance Uncovers Additional Points of Breach in Security Incident Investigation</h2>
-<a name="story-25926"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitcoinsistemi.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fbinance-borsa-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Binance announced that its follow-up investigation into a recent security incident has uncovered additional points of breach beyond a previously identified compromised laptop. The exchange described the event as a complex attack and stated it is coordinating response efforts with law enforcement.</p><p>The security breach has impacted an estimated $6.3 billion in digital assets, making it one of the largest cryptocurrency hacks on record. Authorities and security researchers continue to analyze the vector and scale of the exploit as Binance works to secure its platform and resolve the incident.</p>
-<p><small>Links: <a href="https://x.com/binance">x.com</a> | <a href="https://www.binance.com/en/square/post/382812398976216">binance.com</a></small></p>
 <br clear="all" />
 
 ---
