@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>NeuroXess Raises RMB 700 Million in Series B Funding</h2>
 <a name="story-26083"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fneuroxess-achieves-milestones-brain-computer-interface-trials-decoding-movements-cc03db4b%2F29739797a2fad0f57ab39b0451e39c2fa51c2d30a769b2f01d7c609353b3056f.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Shanghai-based brain-computer interface startup NeuroXess has closed a Series B funding round of RMB 700 million, approximately $105 million. The financing round was co-led by SDIC Juli, Shenzhen Capital Group, and Qinzhi Capital.</p><p>The company is developing implantable BCI technology designed for movement support, speech decoding, and the control of external devices. The new capital will be used to support clinical trials, regulatory approval processes, manufacturing capabilities, and artificial intelligence integration.</p>
-<p><small>Links: <a href="https://technode.com/">technode.com</a></small></p>
+<p><small>Links: <a href="https://technode.com/">technode.com</a> | <a href="https://news.ycombinator.com/item?id=50026463">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Guidewire to Acquire Insurance Software Firm Hyperexponential for $1.7 Billion</h2>
