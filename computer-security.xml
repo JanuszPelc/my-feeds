@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-31T15:15:00+00:00</updated>
+  <updated>2026-11-01T05:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Russia-Linked Hacktivist Groups Cause Physical Damage via Cyberattacks in NATO Countries</title>
+    <link href="https://www.bloomberg.com/news/features/2026-10-27/russia-linked-hackers-are-turning-cyberattacks-into-a-physical-threat?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzI5NTc0NywiZXhwIjoxNzkzOTAwNTQ3LCJhcnRpY2xlSWQiOiJUTkw0NTNLR1pBSVYwMCIsImJjb25uZWN0SWQiOiJENTY5QzIyNzE4NUM0NkM4OTgxMjBGMUI2QTBFNDIwQSJ9.ZsPKeMVARRn7ayeTBSLo-FlCJ4yJhExizj_0dCtnLq4" rel="alternate" />
+    <id>https://www.bloomberg.com/news/features/2026-10-27/russia-linked-hackers-are-turning-cyberattacks-into-a-physical-threat?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzI5NTc0NywiZXhwIjoxNzkzOTAwNTQ3LCJhcnRpY2xlSWQiOiJUTkw0NTNLR1pBSVYwMCIsImJjb25uZWN0SWQiOiJENTY5QzIyNzE4NUM0NkM4OTgxMjBGMUI2QTBFNDIwQSJ9.ZsPKeMVARRn7ayeTBSLo-FlCJ4yJhExizj_0dCtnLq4::v240</id>
+    <published>2026-11-01T05:03:00+00:00</published>
+    <updated>2026-11-01T05:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsibylline.co.uk%2Fwp-content%2Fuploads%2F2026%2F02%2FUK-water-cyber-Russia-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/features/2026-10-27/russia-linked-hackers-are-turning-cyberattacks-into-a-physical-threat?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzI5NTc0NywiZXhwIjoxNzkzOTAwNTQ3LCJhcnRpY2xlSWQiOiJUTkw0NTNLR1pBSVYwMCIsImJjb25uZWN0SWQiOiJENTY5QzIyNzE4NUM0NkM4OTgxMjBGMUI2QTBFNDIwQSJ9.ZsPKeMVARRn7ayeTBSLo-FlCJ4yJhExizj_0dCtnLq4">bloomberg.com</a></small></p><hr/><p>Over the past two years, Russia-linked hacktivist groups have increasingly carried out cyberattacks that caused physical damage to critical infrastructure within NATO-aligned countries. These operations have targeted water utilities, factories, refrigeration systems, and food production facilities, often exploiting poorly secured industrial control systems.</p><p>Although many of the individuals executing these attacks lack deep technical sophistication or a full understanding of the physical consequences, their campaigns have resulted in real-world disruptions such as burst pipes and spoiled goods. The trend marks a concerning escalation in the nature of proxy cyber warfare affecting Western infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsibylline.co.uk%2Fwp-content%2Fuploads%2F2026%2F02%2FUK-water-cyber-Russia-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 12:03 UTC | #26086</small>]]></content>
+  </entry>
   <entry>
     <title>Cisco Talos Details VOLTA Infostealer's AI-Driven Victim Profiling</title>
     <link href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/" rel="alternate" />
