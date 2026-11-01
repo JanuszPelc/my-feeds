@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-01T11:56:00+00:00</updated>
+  <updated>2026-11-01T16:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Everything Electric Podcast Features Oxford Professor Jan Rosenow on Electrification and Global Energy Use</title>
+    <link href="https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/" rel="alternate" />
+    <id>https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/::v240</id>
+    <published>2026-11-01T16:04:00+00:00</published>
+    <updated>2026-11-01T16:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffullycharged.show%2Fwp-content%2Fuploads%2F2026%2F04%2FBanner-why-electrification-could-cut-global-energy-use-in-half-pc361.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/">fullycharged.show</a> | <a href="https://news.ycombinator.com/item?id=50319110">hacker news</a></small></p><hr/><p>In episode 361 of the Everything Electric Podcast, host Robert Llewellyn interviews Jan Rosenow, a professor of energy and climate policy at Oxford University, regarding the potential of large-scale electrification to transform global energy demand. Rosenow notes that electricity currently accounts for only 20% of global energy consumption, leaving a hidden 80% of mobility and heating dominated by fossil fuels.</p><p>The discussion addresses how transitioning to electrification could cut total global energy demand in half by reducing the system-wide inefficiencies of fossil fuels. Additional topics include the comparative grid challenges posed by data centers and electric vehicles, the viability of battery material recycling, solar adoption trends in China, and the role of electrification in enhancing energy security.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffullycharged.show%2Fwp-content%2Fuploads%2F2026%2F04%2FBanner-why-electrification-could-cut-global-energy-use-in-half-pc361.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 18:54 UTC | #26111</small>]]></content>
+  </entry>
   <entry>
     <title>University of Augsburg Researchers Develop Single-Molecule Archimedes' Screw</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261030002940.htm" rel="alternate" />
