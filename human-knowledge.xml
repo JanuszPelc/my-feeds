@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-01T16:04:00+00:00</updated>
+  <updated>2026-11-01T16:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Dr. Drang Analyzes Fourier Series and Gibbs Phenomenon in XKCD Comic</title>
+    <link href="https://leancrew.com/all-this/2026/10/xkcd-and-fourier/" rel="alternate" />
+    <id>https://leancrew.com/all-this/2026/10/xkcd-and-fourier/::v240</id>
+    <published>2026-11-01T16:05:00+00:00</published>
+    <updated>2026-11-01T16:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Fgravitational_square_wave.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://leancrew.com/all-this/2026/10/xkcd-and-fourier/">leancrew.com</a> | <a href="https://lobste.rs/s/mni8ri/xkcd_fourier">lobsters</a></small></p><hr/><p>Dr. Drang examines an XKCD comic depicting a gravitational square wave, using it to discuss the mathematical realities of Fourier series approximations. He notes that while the comic humorously applies wave mechanics, actual Fourier expansions of square waves suffer from the Gibbs phenomenon, where ringing artifacts persist at the discontinuities regardless of how many terms are added.</p><p>The author observes that technical knowledge can sometimes interfere with enjoying mathematical humor. By illustrating how the Gibbs phenomenon concentrates energy at the corners of a square wave rather than diminishing away, the post bridges theoretical mathematics with lighthearted commentary on physics.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Fgravitational_square_wave.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 19:09 UTC | #26110</small>]]></content>
+  </entry>
   <entry>
     <title>Everything Electric Podcast Features Oxford Professor Jan Rosenow on Electrification and Global Energy Use</title>
     <link href="https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/" rel="alternate" />
