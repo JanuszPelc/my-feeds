@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-01T03:01:00+00:00</updated>
+  <updated>2026-11-01T15:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -20,9 +20,9 @@
     <link href="https://blogs.kde.org/2026/11/01/introducing-kwi/" rel="alternate" />
     <id>https://blogs.kde.org/2026/11/01/introducing-kwi/::v240</id>
     <published>2026-11-01T02:57:00+00:00</published>
-    <updated>2026-11-01T02:57:00+00:00</updated>
+    <updated>2026-11-01T15:45:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feikehein.com%2Fkde%2Fkwi_screenshot_2026-11_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://blogs.kde.org/2026/11/01/introducing-kwi/">blogs.kde.org</a> | <a href="https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal">lobsters</a></small></p><hr/><p>Developer Eike Hein has announced Kwi, a new GPU-accelerated terminal emulator designed for KDE Plasma and other free desktop environments. Built using Qt Quick, Kirigami, and the libghostty-vt backend, Kwi aims to provide a fast, modern alternative to Konsole that aligns with the latest KDE Human Interface Guidelines and supports hardware-accelerated Vulkan and OpenGL rendering.</p><p>The project intends to bridge gaps in the KDE software stack by offering a public QML module for embedding terminal components in Qt Quick applications, addressing limitations found in older QWidget-based solutions like Konsole's KPart. While currently in an early experimental stage without a formal tagged release, Kwi offers significant performance improvements, enhanced accessibility features, and support for modern terminal protocols, with nightly Flatpak builds available for testing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feikehein.com%2Fkde%2Fkwi_screenshot_2026-11_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 06:36 UTC | #26087</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blogs.kde.org/2026/11/01/introducing-kwi/">blogs.kde.org</a> | <a href="https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50324114">hacker news</a></small></p><hr/><p>Developer Eike Hein has announced Kwi, a new GPU-accelerated terminal emulator designed for KDE Plasma and other free desktop environments. Built using Qt Quick, Kirigami, and the libghostty-vt backend, Kwi aims to provide a fast, modern alternative to Konsole that aligns with the latest KDE Human Interface Guidelines and supports hardware-accelerated Vulkan and OpenGL rendering.</p><p>The project intends to bridge gaps in the KDE software stack by offering a public QML module for embedding terminal components in Qt Quick applications, addressing limitations found in older QWidget-based solutions like Konsole's KPart. While currently in an early experimental stage without a formal tagged release, Kwi offers significant performance improvements, enhanced accessibility features, and support for modern terminal protocols, with nightly Flatpak builds available for testing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feikehein.com%2Fkde%2Fkwi_screenshot_2026-11_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 06:36 UTC | #26087</small>]]></content>
   </entry>
   <entry>
     <title>Blogger Novq Details Writing Novellas Using Groff Typesetting System</title>

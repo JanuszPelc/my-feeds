@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-01T15:22:00+00:00</updated>
+  <updated>2026-11-01T15:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Go 1.28 HTTP/2 Parking Mechanism Reduces Server Memory Usage</title>
+    <link href="https://abdolirad.me/articles/go-1-28-http2-parking-memory/" rel="alternate" />
+    <id>https://abdolirad.me/articles/go-1-28-http2-parking-memory/::v240</id>
+    <published>2026-11-01T15:45:00+00:00</published>
+    <updated>2026-11-01T15:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fabdolirad.me%2Farticles%2Fgo-1-28-http2-parking-memory%2F01-rss-scaling.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://abdolirad.me/articles/go-1-28-http2-parking-memory/">abdolirad.me</a> | <a href="https://lobste.rs/s/mhmqky/go_1_28_s_http_2_parking_measuring_memory">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50251893">hacker news</a></small></p><hr/><p>An analysis of the draft Go 1.28 release notes examines a new HTTP/2 server mechanism called parking, which allows connection-serving goroutines to exit when there is no active work instead of waiting idle. Benchmarks comparing a Go 1.28 development build with parking enabled versus disabled show that handling 5,000 idle HTTP/2 connections results in 5,000 fewer active goroutines and a resident set size (RSS) reduction of roughly 85 to 93 MiB.</p><p>The benchmark results indicate that enabling parking lowers stack memory usage by approximately 78 MiB under the same load, while heap allocation metrics remain variable across test runs. Because the feature is evaluated on a pre-release development build using an experimental and temporary debug setting, the findings highlight potential memory efficiency gains for servers maintaining thousands of idle connections rather than guaranteed outcomes for all workloads.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fabdolirad.me%2Farticles%2Fgo-1-28-http2-parking-memory%2F01-rss-scaling.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 14:55 UTC | #26028 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Claudio Grossi Discovers Ancient Seven-Eared Wheat Variety in Family Attic</title>
     <link href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/" rel="alternate" />
