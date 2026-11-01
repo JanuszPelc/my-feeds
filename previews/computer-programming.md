@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Abhinav Sarkar Implements LC-3 Disassembler in Haskell</h2>
+<a name="story-26088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F838%2F838e66d6-7ba4-4b13-9279-f2ddad8a8d28%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Abhinav Sarkar details the implementation of a disassembler for Little Computer 3 (LC-3) binaries written in Haskell. Because LC-3 object files intermix raw instructions and data without section or symbol tables, the disassembler employs a multi-pass heuristic approach that performs unambiguous decoding, speculative context-based decoding, data cleanup, and label insertion.</p><p>The walkthrough covers setting up mutable vectors and strict ST monads in Haskell, utilizing type-safe bit matching with GHC pattern synonyms, and parsing binary formats to reconstruct readable textual assembly.</p>
+<p><small>Links: <a href="https://abhinavsarkar.net/posts/lc3-disassembler/">abhinavsarkar.net</a> | <a href="https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Kwi Terminal Emulator Introduced for KDE Plasma</h2>
 <a name="story-26087"><img src="https://wsrv.nl/?url=https%3A%2F%2Feikehein.com%2Fkde%2Fkwi_screenshot_2026-11_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Eike Hein has announced Kwi, a new GPU-accelerated terminal emulator designed for KDE Plasma and other free desktop environments. Built using Qt Quick, Kirigami, and the libghostty-vt backend, Kwi aims to provide a fast, modern alternative to Konsole that aligns with the latest KDE Human Interface Guidelines and supports hardware-accelerated Vulkan and OpenGL rendering.</p><p>The project intends to bridge gaps in the KDE software stack by offering a public QML module for embedding terminal components in Qt Quick applications, addressing limitations found in older QWidget-based solutions like Konsole's KPart. While currently in an early experimental stage without a formal tagged release, Kwi offers significant performance improvements, enhanced accessibility features, and support for modern terminal protocols, with nightly Flatpak builds available for testing.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26024"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0737%2F5804%2F8501%2Ffiles%2F91YgOzDR57L.jpg%3Fv%3D1745062358&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Florilegium is an open-source LuaLaTeX package developed by Kevin Raymond that procedurally generates Delft-blue floral page margins directly into PDFs without external image assets. Utilizing hand-authored primitives and a greedy space-filling growth algorithm computed in Lua, the software creates unique botanical layouts, seasonal progressions, and visitors such as birds and insects for every page.</p><p>The project supports customizable color palettes, text-responsive features like section headings and drop initials, and alternate themes including geometric shapes and mathematical figures. Additionally, it includes a standalone PostScript port capable of rendering the gardens without TeX.</p>
 <p><small>Links: <a href="https://github.com/kevinraymond/florilegium">github.com</a> | <a href="https://news.ycombinator.com/item?id=50305637">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Analysis of Switch Statement Lowering in GCC</h2>
-<a name="story-26019"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.123microcontroller.com%2Fassets%2Fimages%2Fc-jump-tables-switch-optimization-diagram.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GCC implements `switch` statements using several distinct strategies depending on the distribution and density of case labels. For dense integer values, the compiler typically generates jump tables for efficient dispatching. When case values are sparse, GCC often utilizes a decision tree composed of comparison instructions, and in some instances, uses bitset-based tests for specific bit patterns.</p><p>The compiler employs specific heuristics to decide between these methods, such as evaluating the profitability of a jump table based on the number of required comparisons versus table size. Implementation details within the `pass_lower_switch` pass reveal that GCC uses dynamic programming to optimize bitset clusters and analyzes case ranges to determine the most efficient machine code.</p>
-<p><small>Links: <a href="https://xoranth.net/gcc-switch/">xoranth.net</a> | <a href="https://lobste.rs/s/ncclwy/switch_lowering_gcc">discussion</a> | <a href="https://news.ycombinator.com/item?id=50314085">hacker news</a></small></p>
 <br clear="all" />
 
 ---

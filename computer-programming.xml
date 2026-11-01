@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-01T02:57:00+00:00</updated>
+  <updated>2026-11-01T03:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Abhinav Sarkar Implements LC-3 Disassembler in Haskell</title>
+    <link href="https://abhinavsarkar.net/posts/lc3-disassembler/" rel="alternate" />
+    <id>https://abhinavsarkar.net/posts/lc3-disassembler/::v240</id>
+    <published>2026-11-01T03:01:00+00:00</published>
+    <updated>2026-11-01T03:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F838%2F838e66d6-7ba4-4b13-9279-f2ddad8a8d28%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://abhinavsarkar.net/posts/lc3-disassembler/">abhinavsarkar.net</a> | <a href="https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell">discussion</a></small></p><hr/><p>Abhinav Sarkar details the implementation of a disassembler for Little Computer 3 (LC-3) binaries written in Haskell. Because LC-3 object files intermix raw instructions and data without section or symbol tables, the disassembler employs a multi-pass heuristic approach that performs unambiguous decoding, speculative context-based decoding, data cleanup, and label insertion.</p><p>The walkthrough covers setting up mutable vectors and strict ST monads in Haskell, utilizing type-safe bit matching with GHC pattern synonyms, and parsing binary formats to reconstruct readable textual assembly.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F838%2F838e66d6-7ba4-4b13-9279-f2ddad8a8d28%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 08:16 UTC | #26088</small>]]></content>
+  </entry>
   <entry>
     <title>Kwi Terminal Emulator Introduced for KDE Plasma</title>
     <link href="https://blogs.kde.org/2026/11/01/introducing-kwi/" rel="alternate" />
