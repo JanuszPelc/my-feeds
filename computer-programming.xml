@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-01T17:33:00+00:00</updated>
+  <updated>2026-11-01T17:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Vinipsmaker Examines the Properties and Mindset of Pratt Parsing</title>
+    <link href="https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/" rel="alternate" />
+    <id>https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/::v240</id>
+    <published>2026-11-01T17:42:00+00:00</published>
+    <updated>2026-11-01T17:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Fpratt-parsing-explanation-v0-CvL5mJ0ZZKxyukIigl78WMSjca6LK0j8UZYoYkF9bhQ.jpg%3Fformat%3Dpjpg%26auto%3Dwebp%26s%3D89191673123e7dbfb5c3f11cc376f3b9357e452c&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/">vinipsmaker.github.io</a> | <a href="https://lobste.rs/s/bzazar/pratt_parsing_is_black_box">lobsters</a></small></p><hr/><p>The article argues that understanding every line of a Pratt parser implementation is unnecessary for practical use, comparing it to using sorting algorithms or filesystems without knowing how they are built from scratch. Instead, developers should focus on acquiring the right mindset, specifically adopting Douglas Crockford's framing of asking what tokens expect to their left.</p><p>It explains how Pratt parsing registers semantic actions directly to terminals as null denotations and left denotations alongside binding power tables, contrasting it with traditional grammar production rules used in compiler compilers like Bison. The author illustrates this with examples from an active compiler implementation, highlighting how simple the underlying dispatch tables can be.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Fpratt-parsing-explanation-v0-CvL5mJ0ZZKxyukIigl78WMSjca6LK0j8UZYoYkF9bhQ.jpg%3Fformat%3Dpjpg%26auto%3Dwebp%26s%3D89191673123e7dbfb5c3f11cc376f3b9357e452c&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 22:28 UTC | #26122</small>]]></content>
+  </entry>
   <entry>
     <title>Databricks Engineer Evaluates Anthropic Scion and Mononoke Version Control</title>
     <link href="https://typesanitizer.com/blog/scion.html" rel="alternate" />
