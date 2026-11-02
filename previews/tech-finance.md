@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Hyperbolic Raises $30 Million in Series A-1 Funding Led by Walden Catalyst</h2>
+<a name="story-26130"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6adf995bab741a2ebdf116f2%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI cloud infrastructure startup Hyperbolic has secured $30 million in a Series A-1 funding round led by Walden Catalyst, the venture capital firm co-founded by Intel CEO Lip-Bu Tan and former Samsung president Young Sohn. The financing brings the four-year-old company's total funding to $50 million, with additional participation from Dell Technologies Capital, General Catalyst, Vista Equity Partners, and Cambium Capital.</p><p>Hyperbolic provides software that unifies computing resources across hundreds of fragmented AI cloud providers, helping customers rent and manage compute without dealing with each vendor individually. The platform works with approximately 30 neoclouds and connects roughly $200 million worth of compute annually, while enabling companies to resell unused compute resources as part of a push toward a standardized marketplace.</p>
+<p><small>Links: <a href="https://www.businessinsider.com/intel-ceo-backs-30-million-round-ai-cloud-startup-hyperbolic-2026-10">businessinsider.com</a> | <a href="https://www.hyperbolic.ai/blog/a1-funding">hyperbolic.ai</a></small></p>
+<br clear="all" />
+
 <h2>ServiceNow CEO Says Acquired Startup Sweep Accelerates CRM Migrations</h2>
 <a name="story-26114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fboostedcrm.com%2Fwp-content%2Fuploads%2F2026%2F04%2FServiceNow-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ServiceNow CEO Bill McDermott stated during an earnings call that the company's acquisition of Israeli startup Sweep enables enterprise customers to switch customer-relationship-management systems in weeks rather than years. According to McDermott, Sweep's technology significantly reduces implementation cycles, helping ServiceNow expand its footprint in the CRM market.</p><p>ServiceNow acquired Sweep to integrate its agentic workspace software across platforms like Salesforce, HubSpot, and ServiceNow itself. Executives noted that the company is also bundling delivery experts and AI implementation agents into select deals to accelerate deployments, contributing to a tripling of AI-enabled CRM bookings.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25929"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260603%2Fkioxia-holding-pe-96f2c5085e4c4ea7920feefc54483940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kioxia Holdings Corp. reported a 22-fold year-over-year surge in fiscal second-quarter operating profit to approximately $12.7 billion, meeting analyst expectations. The dramatic earnings growth was propelled by soaring demand and higher prices for flash memory chips as data center operators aggressively expand artificial intelligence infrastructure.</p><p>Despite the record quarterly performance, the company issued a third-quarter operating profit forecast of about $12.7 billion, falling short of the roughly $14.9 billion average analyst estimate. The conservative outlook underscores potential pricing and supply dynamics within the memory market even as AI-related storage requirements remain robust.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs">bloomberg.com</a> | <a href="https://www.kioxia-holdings.com/en-jp/ir.html">kioxia-holdings.com</a></small></p>
-<br clear="all" />
-
-<h2>Ravical Raises $17 Million in Seed Funding to Expand AI Accounting Platform</h2>
-<a name="story-25921"><img src="https://wsrv.nl/?url=https%3A%2F%2Fihfyvnmcmnvwrtmuemaa.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog-images%2F1793251611993-article-89.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ravical, an AI startup developing technology for accounting and tax firms, has secured $17 million in a seed funding round led by MMC Ventures. The investment, which includes participation from Lakestar, Pitchdrive, and Shapers, brings the company's total funding to $25 million.</p><p>Founded in 2025, Ravical provides an AI-powered platform designed to codify the expertise of senior professionals into shared workflows used across a firm's entire client base. The new capital will be used to support ongoing product development, expand the company's team, and drive market growth across the UK, Belgium, the Netherlands, Germany, and the United States.</p>
-<p><small>Links: <a href="https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/">tech.eu</a></small></p>
 <br clear="all" />
 
 ---
