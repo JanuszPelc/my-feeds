@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>BangZilla Releases Wave Theory MIDI Plugin</h2>
+<a name="story-26205"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fheader%2Fs3%2Fimagelibrary%2Fb%2Fbangzilla_wave_theory-zx8F.nEmh4jLBJ7Y6AL_Xgh2MAmLQgsS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>BangZilla, a plugin label created in collaboration with UK instrument makers Boxed Ear, has released Wave Theory, a MIDI sequencer that converts waveform shapes into melodies for software and hardware instruments. The plugin maps the peaks and dips of a selected waveform into pitches constrained by user-defined scales and project tempos, and it includes over 100 built-in wavetables with support for imports from Serum or Vital.</p><p>The software features four built-in sequencers—Gate, Tie, Frame, and Mod—operating at independent lengths and speeds to control rhythm, note length, wavetable position, and modulation. Available for Windows and macOS in VST3, AU, and AAX formats, Wave Theory is priced at $59, €49, or £49, with a 14-day free trial also offered.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/02/bangzilla-wave-theory/">bedroomproducersblog.com</a> | <a href="https://www.bangzilla.audio/products/wave-theory">bangzilla.audio</a></small></p>
+<br clear="all" />
+
 <h2>Tamber 2.0 Music Creation Suite Reviewed</h2>
 <a name="story-26162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FTamber-2.0-Gestures-interface-hero-credit-Clovis-McEvoy%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tamber 2.0 is a subscription-based music production platform comprising five distinct applications designed to assist with workflow, instrumentation, performance, and sound discovery. Developed by Zoe Wrenn, the suite features a sample organizer with descriptive tagging, crowdsourced global field recordings, and a music discovery tool linked to streaming services.</p><p>Additional components include Tamby, an AI-powered assistant providing natural-language DAW control for Ableton Live, and Gestures, a webcam-based MIDI controller and synthesizer. Priced at $9.99 monthly or $99 annually, the updated platform adopts a modular application structure and adds native Windows support to its assistive music creation ecosystem.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26058"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginsforfree.com%2Fwp-content%2Fuploads%2F2022%2F06%2Ffire2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Flame Sound has released Vatrica, a free one-knob mix enhancer plugin for macOS and Windows, sharing it as a birthday release for Bedroom Producers Blog readers and customers. Utilizing the same processing engine as the paid VATRA plugin, Vatrica simplifies tone-shaping and loudness enhancement into a single macro knob with three selectable modes.</p><p>The plugin includes an MSTR mode for adding punch and weight to the master bus, a TAPE mode for warmth and saturation on drums or other material, and a SUBS mode designed to boost low frequencies and body. Vatrica is available on Gumroad for free without license keys or trials, supporting VST3, AU, and AAX formats across compatible operating systems.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/vatrica/">bedroomproducersblog.com</a> | <a href="https://flamesound.com/vatrica/">flamesound.com</a></small></p>
-<br clear="all" />
-
-<h2>GSi Releases Burn Studio VST and AU Plugin</h2>
-<a name="story-26045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F06_burnstudio.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GSi has released Burn Studio, a Spin FV-1 emulator available as a VST and AU plugin for macOS, Windows, and iOS. The software allows users to run SpinASM effect programs directly on their devices and includes a built-in editor and compiler equipped with syntax highlighting, error checking, and binary export capabilities.</p><p>The plugin is free to use for standard audio processing and includes presets derived from the original algorithms of the 2013 GSi BURN hardware unit. Access to the advanced programming features requires a paid license priced at €25 plus applicable VAT.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/gsi-releases-burn-studio-vst-and-au-69503?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69503">kvraudio.com</a> | <a href="https://www.genuinesoundware.com/?a=showproduct&b=76">genuinesoundware.com</a></small></p>
 <br clear="all" />
 
 ---

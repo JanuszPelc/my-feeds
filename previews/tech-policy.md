@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Voters Encounter AI-Generated &#x27;I Voted&#x27; Stickers in 2026 Elections</h2>
+<a name="story-26200"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2FPXL_20261026_195245509-1-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Voters in jurisdictions like Denton County, Texas, have received artificial intelligence-generated "I Voted" stickers during the 2026 election cycle. These stickers feature cluttered layouts, garbled text, and generic patriotic motifs that contrast sharply with custom, artist-designed memorabilia distributed in other parts of the country.</p><p>The appearance of low-quality, automated election materials illustrates how generative technology is increasingly creeping into civic traditions. While numerous states and local municipalities continue to engage local artists or hold student design contests for distinctive stickers, the use of AI-generated alternatives reflects a broader normalization of automated content in public life.</p>
+<p><small>Links: <a href="https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/">404media.co</a></small></p>
+<br clear="all" />
+
 <h2>Scott Alexander Publishes Against SURA Essay on LessWrong</h2>
 <a name="story-26164"><img src="https://wsrv.nl/?url=https%3A%2F%2Faicyberinsights.com%2Fwp-content%2Fuploads%2F2024%2F05%2FPause-AI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Blogger Scott Alexander published an essay on LessWrong examining the rising popularity of what he terms "SURA"—Stop Unilaterally + Raise Awareness—within AI safety debates. He argues that safety-focused AI labs should not abandon the ongoing AI race, contending that a unilateral pause would hand leadership to organizations that do not prioritize alignment and eliminate strategic leverage against competitors like China.</p><p>The essay has sparked intra-community debate over AI pause movements, safety strategies, and how ethical labs should navigate competitive pressures. Critics and commentators have engaged with the arguments surrounding whether unilateral cessation or continuing participation is more effective for ensuring safe AI development.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-25882"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1V5GFq.img%3Fw%3D1024%26h%3D652%26m%3D4%26q%3D79&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google, Meta, and other major technology firms are resisting broad data requests from Immigration and Customs Enforcement (ICE) as the agency searches platforms for immigration-related speech. This resistance occurs as the companies face potential investigations from Democrats in Congress.</p><p>Reports indicate that ICE has issued hundreds of subpoenas to platforms including Google, Meta, and Reddit to identify users who track or comment on the agency. While some companies have previously complied with Department of Homeland Security subpoenas, the current pushback highlights growing tension over user privacy and the scope of government surveillance.</p>
 <p><small>Links: <a href="https://www.wsj.com/politics/policy/google-meta-ice-midterms-e6f2a6c4?st=BLSqTK&reflink=desktopwebshare_permalink">wsj.com</a></small></p>
-<br clear="all" />
-
-<h2>Utah Files 14 Criminal Charges Against Kalshi and Its Founders</h2>
-<a name="story-25858"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcapwolf.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fkalshi-faces-utah-criminal-charges-over-sports-betting-probe.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Utah has filed 14 criminal charges, including 13 felonies, against prediction market platform Kalshi and its co-founders, Tarek Mansour and Luana Lopes Lara. The charges follow an investigation in which an undercover agent for the Utah Attorney General placed 12 wagers on the platform, which the state alleges violates anti-gambling laws.</p><p>The legal action escalates a dispute over whether event-based prediction markets constitute illegal gambling or federally regulated derivatives. This marks the first time a state has filed felony criminal charges directly against Kalshi's executives.</p>
-<p><small>Links: <a href="https://www.sltrib.com/news/2026/10/28/utah-files-14-criminal-charges/">sltrib.com</a> | <a href="https://news.ycombinator.com/item?id=50296746">hacker news</a></small></p>
 <br clear="all" />
 
 ---

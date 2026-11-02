@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-02T15:06:00+00:00</updated>
+  <updated>2026-11-02T18:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>BangZilla Releases Wave Theory MIDI Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/02/bangzilla-wave-theory/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/02/bangzilla-wave-theory/::v240</id>
+    <published>2026-11-02T18:39:00+00:00</published>
+    <updated>2026-11-02T18:39:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fheader%2Fs3%2Fimagelibrary%2Fb%2Fbangzilla_wave_theory-zx8F.nEmh4jLBJ7Y6AL_Xgh2MAmLQgsS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/02/bangzilla-wave-theory/">bedroomproducersblog.com</a> | <a href="https://www.bangzilla.audio/products/wave-theory">bangzilla.audio</a></small></p><hr/><p>BangZilla, a plugin label created in collaboration with UK instrument makers Boxed Ear, has released Wave Theory, a MIDI sequencer that converts waveform shapes into melodies for software and hardware instruments. The plugin maps the peaks and dips of a selected waveform into pitches constrained by user-defined scales and project tempos, and it includes over 100 built-in wavetables with support for imports from Serum or Vital.</p><p>The software features four built-in sequencers—Gate, Tie, Frame, and Mod—operating at independent lengths and speeds to control rhythm, note length, wavetable position, and modulation. Available for Windows and macOS in VST3, AU, and AAX formats, Wave Theory is priced at $59, €49, or £49, with a 14-day free trial also offered.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fheader%2Fs3%2Fimagelibrary%2Fb%2Fbangzilla_wave_theory-zx8F.nEmh4jLBJ7Y6AL_Xgh2MAmLQgsS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 21:36 UTC | #26205</small>]]></content>
+  </entry>
   <entry>
     <title>Tamber 2.0 Music Creation Suite Reviewed</title>
     <link href="https://musictech.com/reviews/software-instruments/tamber-2/" rel="alternate" />

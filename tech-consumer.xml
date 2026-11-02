@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-02T14:59:00+00:00</updated>
+  <updated>2026-11-02T18:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Nintendo Producer Eiji Aonuma Says Ocarina of Time Remake Teaches Junior Staff Classic Insights</title>
+    <link href="https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights::v240</id>
+    <published>2026-11-02T18:41:00+00:00</published>
+    <updated>2026-11-02T18:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2026%2F04%2Fwhat-the-zelda-ocarina-of-time-remake-needs.png%3Fw%3D1200%26h%3D675%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights">gamedeveloper.com</a> | <a href="https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/">nintendo.com</a></small></p><hr/><p>Series producer Eiji Aonuma stated that the upcoming remake of The Legend of Zelda: Ocarina of Time was developed partly to help junior staff members at Nintendo understand the structural foundations and design lessons of the 1998 classic. In an interview for Nintendo's "Ask the Developer" series, Aonuma noted that many current team members have only worked on recent titles and may lack firsthand experience with the original game.</p><p>The modern Zelda series has shifted from Ocarina of Time's linear, dungeon-focused progression toward the open-air exploration style seen in Breath of the Wild and Tears of the Kingdom. Aonuma hopes that rebuilding the classic game will inspire new insights among younger developers and offer players accustomed to open-world exploration a return to carefully paced, structured adventures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2026%2F04%2Fwhat-the-zelda-ocarina-of-time-remake-needs.png%3Fw%3D1200%26h%3D675%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 21:38 UTC | #26199</small>]]></content>
+  </entry>
   <entry>
     <title>Archive of Our Own Faces Month-Long Outage Following Security Incident</title>
     <link href="https://gizmodo.com/popular-fan-fiction-site-ao3-could-be-offline-for-a-month-following-security-incident-2000833091" rel="alternate" />
