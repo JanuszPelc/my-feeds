@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-02T06:14:00+00:00</updated>
+  <updated>2026-11-02T15:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Hundreds of AI Apps on Apple and Google App Stores Hid Sexually Abusive Deepfake Features</title>
+    <link href="https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/" rel="alternate" />
+    <id>https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/::v240</id>
+    <published>2026-11-02T15:09:00+00:00</published>
+    <updated>2026-11-02T15:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2Fw1Xvcjw9TRv_c6Yra7UDWg--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTg-%2Fhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F969d5520-fbae-11f0-9d9b-ca8e84ef38e5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/">wired.com</a></small></p><hr/><p>An investigation by WIRED and security researchers has uncovered a network of more than 400 applications and domains disguised as mundane tools, such as pet portrait generators and workout apps, that secretly feature sexually abusive deepfake tools. These applications bypassed review processes on Apple’s App Store and Google’s Play Store by dynamically loading hidden web interfaces that generate explicit images and videos from uploaded user photos.</p><p>The network, linked to Chinese developers and a Hong Kong entity named KeLing Technology Limited, was heavily promoted through tens of thousands of deceptive video ads on Meta platforms like Facebook and Instagram. Although tech companies have since removed many of the associated apps and banned related ad accounts, the operation highlights ongoing vulnerabilities in app store vetting and ad moderation systems that allow harmful deepfake features to evade detection.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2Fw1Xvcjw9TRv_c6Yra7UDWg--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTg-%2Fhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F969d5520-fbae-11f0-9d9b-ca8e84ef38e5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 18:38 UTC | #26171</small>]]></content>
+  </entry>
   <entry>
     <title>Visit Norway Highlights Scenic Public Restrooms Following US Remarks</title>
     <link href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/" rel="alternate" />
