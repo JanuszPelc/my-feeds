@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Apple Developing Tabletop Robot for Expected 2027 or 2028 Release</h2>
+<a name="story-26191"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tuaw.com%2Fwp-content%2Fuploads%2F2024%2F08%2FiPad-on-robotic-arm.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple is developing a tabletop robotic device featuring a nine-inch screen mounted on a swiveling arm, according to reports by The Information. The product is targeted for a 2027 or 2028 release with an expected price of around $1,000.</p><p>The project forms part of an intensified push into robotics championed by Apple leadership, including CEO John Ternus. Development has faced internal re-envisionings and debates over specific features as the company seeks to integrate home automation and advanced voice assistant capabilities into a moving display.</p>
+<p><small>Links: <a href="https://www.theinformation.com/articles/inside-apples-slog-create-first-robot">theinformation.com</a></small></p>
+<br clear="all" />
+
 <h2>Nintendo Producer Eiji Aonuma Says Ocarina of Time Remake Teaches Junior Staff Classic Insights</h2>
 <a name="story-26199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2026%2F04%2Fwhat-the-zelda-ocarina-of-time-remake-needs.png%3Fw%3D1200%26h%3D675%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Series producer Eiji Aonuma stated that the upcoming remake of The Legend of Zelda: Ocarina of Time was developed partly to help junior staff members at Nintendo understand the structural foundations and design lessons of the 1998 classic. In an interview for Nintendo's "Ask the Developer" series, Aonuma noted that many current team members have only worked on recent titles and may lack firsthand experience with the original game.</p><p>The modern Zelda series has shifted from Ocarina of Time's linear, dungeon-focused progression toward the open-air exploration style seen in Breath of the Wild and Tears of the Kingdom. Aonuma hopes that rebuilding the classic game will inspire new insights among younger developers and offer players accustomed to open-world exploration a return to carefully paced, structured adventures.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25898"><img src="https://wsrv.nl/?url=https%3A%2F%2Felectroiq.com%2Fwp-content%2Fuploads%2F2025%2F03%2FAmazon-Prime-Video-Subscription-Revenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon CEO Andy Jassy announced during the company's third-quarter earnings call that Prime Video has achieved a revenue run rate in the tens of billions of dollars and is independently profitable. Jassy noted that the streaming platform's financial momentum is bolstered by a mix of original movies, popular television series, and prominent live sports broadcasts.</p><p>The company highlighted that Amazon MGM Studios brought in more than $1.2 billion in global box office revenue this year, led by successful releases like Project Hail Mary. At the same time, live sports properties such as Thursday Night Football and strong returning TV seasons continue to expand viewership and solidify the streaming service as a major commercial driver for Amazon.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/">techcrunch.com</a> | <a href="https://ir.aboutamazon.com/events/event-details/2026/Q3-2026-Amazoncom-Inc-Earnings-Conference-Call/default.aspx">ir.aboutamazon.com</a></small></p>
-<br clear="all" />
-
-<h2>Roblox Reports Third-Quarter User Miss Despite Exceeding Bookings Estimates</h2>
-<a name="story-25884"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fvfkpgemp7ek3%2F321075592%2F48b4d9d8de2d289748975f5de774ae4d%2FMMM--Roblox-s-Q3-2023-Earnings-Recap_-Black-Friday-Sees-Increased-Conversion-Events.jpg%3Fw%3D1920&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Roblox Corp. reported third-quarter bookings of $1.7 billion, a 12% year-over-year decrease that exceeded analyst estimates of $1.63 billion. Daily active users fell 9% year-over-year to 138 million, missing the 145.8 million expected by analysts.</p><p>Roblox shares fell more than 16% in after-hours trading following the announcement. The results highlight concerns regarding a recent slowdown in user engagement.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg">bloomberg.com</a> | <a href="https://www.businesswire.com/news/home/20261029427925/en/Roblox-Reports-Third-Quarter-2026-Financial-Results">businesswire.com</a></small></p>
 <br clear="all" />
 
 ---
