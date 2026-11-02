@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Big Man Labs Updates Big Max Zero to Version 1.3.0</h2>
+<a name="story-26206"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbmz.1775764083.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Big Man Labs has released version 1.3.0 of Big Max Zero, a free low-latency limiter plugin available for Windows, macOS, and Linux. The update introduces louder and cleaner limiting alongside faster release times across the plugin's Loud, Clean, and Smooth modes.</p><p>Additional improvements include click-free lookahead changes, more accurate LUFS metering, and fixes for bypass behavior in Delta mode. Furthermore, the Gain Match feature now operates with the plugin window closed without writing automation, and the software loads and renders more smoothly.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/big-man-labs-updates-big-max-zero-to-v1-3-0-69570?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69570">kvraudio.com</a> | <a href="https://www.bigman-labs.com/products/big-max-zero/">bigman-labs.com</a></small></p>
+<br clear="all" />
+
 <h2>BangZilla Releases Wave Theory MIDI Plugin</h2>
 <a name="story-26205"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fheader%2Fs3%2Fimagelibrary%2Fb%2Fbangzilla_wave_theory-zx8F.nEmh4jLBJ7Y6AL_Xgh2MAmLQgsS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>BangZilla, a plugin label created in collaboration with UK instrument makers Boxed Ear, has released Wave Theory, a MIDI sequencer that converts waveform shapes into melodies for software and hardware instruments. The plugin maps the peaks and dips of a selected waveform into pitches constrained by user-defined scales and project tempos, and it includes over 100 built-in wavetables with support for imports from Serum or Vital.</p><p>The software features four built-in sequencers—Gate, Tie, Frame, and Mod—operating at independent lengths and speeds to control rhythm, note length, wavetable position, and modulation. Available for Windows and macOS in VST3, AU, and AAX formats, Wave Theory is priced at $59, €49, or £49, with a 14-day free trial also offered.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26052"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdukr_pump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>FRCTL Audio has released DUKR, a zero-latency sidechain ducker plugin designed for Windows, macOS, and Linux. The plugin features a Trace function that automatically reads sidechain signals to map ducking curves and a Carve function that targets specific frequency bands and stereo fields to prevent unwanted volume drops across entire tracks.</p><p>DUKR supports tempo-synced or MIDI-triggered operation with velocity scaling, alongside multi-band processing options for low, mid, and high frequencies. Available in VST3, AU, and CLAP formats, the plugin is priced at $18.99 with an introductory rate of $13.99 through November 30, 2026, and includes a 14-day free trial.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/frctl-audio-releases-dukr---zero-latency-sidechain-ducker-with-frequency-carving-69529?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69529">kvraudio.com</a> | <a href="https://frctlaudio.com/products/dukr">frctlaudio.com</a></small></p>
-<br clear="all" />
-
-<h2>Flame Sound Releases Vatrica Free Mix Enhancer Plugin</h2>
-<a name="story-26058"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginsforfree.com%2Fwp-content%2Fuploads%2F2022%2F06%2Ffire2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Flame Sound has released Vatrica, a free one-knob mix enhancer plugin for macOS and Windows, sharing it as a birthday release for Bedroom Producers Blog readers and customers. Utilizing the same processing engine as the paid VATRA plugin, Vatrica simplifies tone-shaping and loudness enhancement into a single macro knob with three selectable modes.</p><p>The plugin includes an MSTR mode for adding punch and weight to the master bus, a TAPE mode for warmth and saturation on drums or other material, and a SUBS mode designed to boost low frequencies and body. Vatrica is available on Gumroad for free without license keys or trials, supporting VST3, AU, and AAX formats across compatible operating systems.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/vatrica/">bedroomproducersblog.com</a> | <a href="https://flamesound.com/vatrica/">flamesound.com</a></small></p>
 <br clear="all" />
 
 ---
