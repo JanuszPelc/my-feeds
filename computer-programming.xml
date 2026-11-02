@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>OmniDiff Content-Aware Git Difftool Released</title>
+    <link href="https://github.com/ivankovic/omnidiff" rel="alternate" />
+    <id>https://github.com/ivankovic/omnidiff::v240</id>
+    <published>2026-11-01T23:33:00+00:00</published>
+    <updated>2026-11-01T23:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanvk%2Fwebdiff%2Fmain%2Fimages%2Fwebdiff.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/ivankovic/omnidiff">github.com</a> | <a href="https://news.ycombinator.com/item?id=50325253">hacker news</a></small></p><hr/><p>OmniDiff is an open-source, content-aware diff tool written in Rust that integrates with Git and Jujutsu as a difftool backend and formatter. Rather than relying solely on traditional line-by-line comparisons, it utilizes tree-sitter grammars to parse source code across 25 languages and applies specialized algorithms for binary formats including images, fonts, PDFs, and archives.</p><p>The tool features an interactive terminal user interface supporting 24-bit color, a headless batch mode for CI pipelines, and a JSON output option for programmatic workflows. By highlighting specific structural changes rather than whole modified lines, OmniDiff aims to reduce visual noise during code reviews.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanvk%2Fwebdiff%2Fmain%2Fimages%2Fwebdiff.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 04:51 UTC | #26139</small>]]></content>
+  </entry>
+  <entry>
     <title>Ori Bernstein Provides Progress Update on GEFS Port for OpenBSD</title>
     <link href="https://www.undeadly.org/cgi?action=article;sid=20261101115637" rel="alternate" />
     <id>https://www.undeadly.org/cgi?action=article;sid=20261101115637::v240</id>

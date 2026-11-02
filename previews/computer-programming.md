@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>OmniDiff Content-Aware Git Difftool Released</h2>
+<a name="story-26139"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanvk%2Fwebdiff%2Fmain%2Fimages%2Fwebdiff.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OmniDiff is an open-source, content-aware diff tool written in Rust that integrates with Git and Jujutsu as a difftool backend and formatter. Rather than relying solely on traditional line-by-line comparisons, it utilizes tree-sitter grammars to parse source code across 25 languages and applies specialized algorithms for binary formats including images, fonts, PDFs, and archives.</p><p>The tool features an interactive terminal user interface supporting 24-bit color, a headless batch mode for CI pipelines, and a JSON output option for programmatic workflows. By highlighting specific structural changes rather than whole modified lines, OmniDiff aims to reduce visual noise during code reviews.</p>
+<p><small>Links: <a href="https://github.com/ivankovic/omnidiff">github.com</a> | <a href="https://news.ycombinator.com/item?id=50325253">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Ori Bernstein Provides Progress Update on GEFS Port for OpenBSD</h2>
 <a name="story-26131"><img src="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Fnycbugmay2023-gefs-a-good-enough-file-system-by-ori-v0-PElT2V4tD69Mdmtg8_KRlzW6-poymHEj7wptB9gfWBo.jpg%3Fformat%3Dpjpg%26auto%3Dwebp%26s%3D51ee8a794e77d624bc852325086eca9f4699e7b8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Ori Bernstein has shared a progress update on GEFS, the Good Enough File System, detailing ongoing work to make the filesystem fit for general use on OpenBSD. The latest code updates include rebased diffs, error handling refinements, porting of bugfixes from 9front, and initial userspace tools like mkfs support.</p><p>Additional improvements outline strategies for error handling, block ordering, and snapshot control using a dedicated userspace program. While consistency protocols and ordering barriers remain under development, testing and feedback from the OpenBSD community continue to drive the project forward.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26066"><img src="https://wsrv.nl/?url=https%3A%2F%2Fagentic-forge.github.io%2Fscreenshots%2Fforge-ui-landing.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer David Bushell has examined the recent user interface redesign of Tangled, a federated code forge positioning itself as an alternative to GitHub. While acknowledging Tangled's promising architecture, Bushell highlights significant accessibility flaws in its new Svelte-based frontend, pointing out that rigid base font styling causes text clipping and scaling failures under Web Content Accessibility Guidelines.</p><p>The critique emphasizes that technical oversights in CSS implementation prevent browser text-scaling features from working correctly, leading to truncated characters and crowded layouts when users increase font sizes. Bushell argues that technology startups should incorporate accessibility expertise from the outset rather than treating it as an afterthought, noting that modern web projects must accommodate diverse user needs to provide a viable alternative to established platforms.</p>
 <p><small>Links: <a href="https://dbushell.com/2026/11/01/tangled-accessibility/">dbushell.com</a> | <a href="https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility">lobsters</a></small></p>
-<br clear="all" />
-
-<h2>The Kluever Maneuver for Two-Commit Bug Fixes</h2>
-<a name="story-26055"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gitkraken.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fdiff-between-commits.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Kluever Maneuver is a software development practice that splits a bug fix into two distinct commits: the first introduces a failing test that exposes the bug, while the second applies the fix and updates the test to pass. This structured approach ensures continuous integration passes at every commit and avoids false confidence from tests that might inadvertently pass before a fix is implemented.</p><p>By separating the demonstration of failure from the fix itself, developers gain verifiable proof that their code changes actually resolved the targeted issue. The technique also helps maintain clear version control histories and allows developers to easily link initial test commits directly to bug tracking systems.</p>
-<p><small>Links: <a href="https://jordi.inversethought.com/blog/the-kluever-maneuver/">jordi.inversethought.com</a> | <a href="https://lobste.rs/s/rpiu3w/kluever_maneuver">lobsters</a></small></p>
 <br clear="all" />
 
 ---
