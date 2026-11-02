@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>OpenAI Considers Rebranding Data Centers as AI Compute Campuses</h2>
+<a name="story-26121"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2Fopenai-600-billion-compute-spending.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI is preparing a policy and public relations campaign following the U.S. midterm elections to shift how its infrastructure projects are perceived. As part of this effort, the company is considering rebranding traditional data centers as "AI compute campuses."</p><p>According to OpenAI chief global affairs officer Chris Lehane, the strategy aims to address growing community pushback against server farms and prepare for political debates leading up to the 2028 presidential election. Additional proposals under discussion include establishing AI speed limits and encouraging the U.S. to take a leading role in global standards.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/">techcrunch.com</a> | <a href="https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy">axios.com</a></small></p>
+<br clear="all" />
+
 <h2>Bureau of Labor Statistics Reports U.S. Labor Share Fell to Record Low in Second Quarter of 2026</h2>
 <a name="story-26129"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.edwardconard.com%2Fwp-content%2Fuploads%2F2026%2F06%2F39573-the-post-covid-decline-in-the-labor-share-featured-thumbnail-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The share of U.S. economic output received by workers through salaries and wages dropped to 52.8% in the second quarter of 2026, marking the lowest level recorded by the Bureau of Labor Statistics since data collection began in 1947. This decline occurred despite surging corporate earnings and continuous GDP growth, reflecting a broader economic shift favoring capital over labor.</p><p>Economists attribute the falling labor share to multiple factors, including technological automation displacing workers and immigration restrictions that have reduced the size of the domestic and foreign workforce. While corporate profits and productivity metrics have expanded, the widening gap between capital returns and labor compensation raises ongoing concerns regarding jobless growth and wealth inequality.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25999"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fpowerlattice.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Powerlattice, a semiconductor startup based in Vancouver, Washington, has raised $86 million to develop technology designed to reduce the power demands of AI processors. According to an SEC filing, the funding brings the company's total raised nearly to its $111 million target.</p><p>The startup produces power delivery chiplets that sit inside a processor package to shorten the path of electrical current, a design that can potentially cut energy use by more than 50%. Led by industry veterans from Intel and Qualcomm, Powerlattice aims to address the increasing electricity and cooling constraints facing AI data center operators.</p>
 <p><small>Links: <a href="https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/">geekwire.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2069744/000206974426000002/0002069744-26-000002-index.htm">sec.gov</a></small></p>
-<br clear="all" />
-
-<h2>Ollie AI Assistant to Shut Down on November 6</h2>
-<a name="story-25993"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2Follie-3.jpg%3Fresize%3D708&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ollie, a startup providing privacy-focused AI assistants, will shut down on November 6. CEO Bill Lennon announced the closure on X, noting that intensified competition from rivals like Muse and Instinct made it difficult to sustain growth and secure capital.</p><p>The company, which raised $7.5 million in seed funding led by Khosla Ventures, was notable for achieving SOC 2 privacy compliance. Ollie's subscription service integrated with email and calendars for tasks such as meal planning and appointment booking. Customers will receive instructions for data exports and refunds in the coming days.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/">techcrunch.com</a> | <a href="https://x.com/blennon_/status/2116224673709257048">x.com</a></small></p>
 <br clear="all" />
 
 ---

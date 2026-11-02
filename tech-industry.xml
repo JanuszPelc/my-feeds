@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-01T23:21:00+00:00</updated>
+  <updated>2026-11-01T23:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>OpenAI Considers Rebranding Data Centers as AI Compute Campuses</title>
+    <link href="https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/::v240</id>
+    <published>2026-11-01T23:28:00+00:00</published>
+    <updated>2026-11-01T23:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2Fopenai-600-billion-compute-spending.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/">techcrunch.com</a> | <a href="https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy">axios.com</a></small></p><hr/><p>OpenAI is preparing a policy and public relations campaign following the U.S. midterm elections to shift how its infrastructure projects are perceived. As part of this effort, the company is considering rebranding traditional data centers as "AI compute campuses."</p><p>According to OpenAI chief global affairs officer Chris Lehane, the strategy aims to address growing community pushback against server farms and prepare for political debates leading up to the 2028 presidential election. Additional proposals under discussion include establishing AI speed limits and encouraging the U.S. to take a leading role in global standards.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2Fopenai-600-billion-compute-spending.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 03:07 UTC | #26121</small>]]></content>
+  </entry>
   <entry>
     <title>Bureau of Labor Statistics Reports U.S. Labor Share Fell to Record Low in Second Quarter of 2026</title>
     <link href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/" rel="alternate" />
