@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-02T18:48:00+00:00</updated>
+  <updated>2026-11-02T18:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Charles Porch Focuses on Hollywood Relations for OpenAI</title>
+    <link href="https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html" rel="alternate" />
+    <id>https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html::v240</id>
+    <published>2026-11-02T18:56:00+00:00</published>
+    <updated>2026-11-02T18:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpyxis.nymag.com%2Fv1%2Fimgs%2F1bc%2F710%2F7a64e6033215570cb5168fb9a84a2dd609-75840027.rhorizontal.w1100.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html">nymag.com</a></small></p><hr/><p>Charles Porch, who previously spent over a decade building celebrity and brand partnerships for Instagram, was hired by OpenAI as its vice president of global creative partnerships. Tasked with improving the artificial intelligence company's cultural image in Hollywood, Porch leverages his extensive network of influencers and entertainment figures to foster relationships and encourage adoption of the platform.</p><p>His role highlights the ongoing friction between the tech industry and creative professionals who fear job displacement and copyright infringement. Despite public backlash against events like a high-profile dinner hosted by Gwyneth Paltrow for OpenAI CEO Sam Altman, Porch continues to utilize private gatherings and personal networking to bridge the divide between Silicon Valley and the entertainment industry.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpyxis.nymag.com%2Fv1%2Fimgs%2F1bc%2F710%2F7a64e6033215570cb5168fb9a84a2dd609-75840027.rhorizontal.w1100.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 22:59 UTC | #26188</small>]]></content>
+  </entry>
   <entry>
     <title>Oracle Files to Raise $20 Billion Through Stock and Bond Offerings</title>
     <link href="https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&amp;reflink=desktopwebshare_permalink" rel="alternate" />
