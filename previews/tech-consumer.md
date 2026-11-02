@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Piotr Migdal Releases Warsaw Vibe Voxel Interactive 3D Map</h2>
+<a name="story-26238"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg2.cgtrader.com%2Fitems%2F3978269%2Fb1aaf9603c%2Flarge%2Fwarsaw-poland-50x50km-3d-city-map-3d-model-b1aaf9603c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Piotr Migdal has released Warsaw Vibe Voxel, an interactive 3D voxel map of central Warsaw that lets users explore the city in a style inspired by Minecraft and MagicaVoxel. Built from open-source geographical data, the project covers the city's central district in detailed block-based models.</p><p>The map integrates OpenStreetMap, LiDAR elevation data from GUGiK, and Warsaw's municipal tree database. Users can navigate the environment, modify the time of day and weather conditions, and interact with simulated pedestrians within the virtual model.</p>
+<p><small>Links: <a href="https://p.migdal.pl/warsaw-vibe-voxel/">p.migdal.pl</a> | <a href="https://news.ycombinator.com/item?id=50339221">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Itch.io Reports Daily Game Page Creations Have Doubled Amid Influx of Generative AI</h2>
 <a name="story-26211"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt8e5eeb04d80d43e7%2F6ae8ce8d1b7efb35e8ec7357%2Fitch.iorobots.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Independent game storefront Itch.io reported that the number of new game pages created daily on the platform doubled over a two-month period, growing from approximately 3,000 to nearly 8,000. Store representatives indicated via social media that the surge is driven by generative AI tools, though the platform noted that downloads and purchases have not experienced a corresponding increase.</p><p>While Itch.io features optional AI disclosure tags and quality guidelines regarding truthful tagging, the platform does not mandate disclosure for a page to be published. The influx of automated content mirrors similar challenges faced by other digital storefronts, such as Valve addressing a rise in AI-copied games on Steam.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25958"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsdlccorp-web-prod.blr1.digitaloceanspaces.com%2Fwp-content%2Fuploads%2F2025%2F05%2F15175957%2FAnti-Cheating-and-Security-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Game Developer Podcast has released an episode of GDC Side Quest featuring security expert Lucia Suarez discussing anti-cheat operations. Hosted by Beth Elderkin, the episode explores the fundamentals of managing game security and maintaining integrity against malicious actors.</p><p>Suarez draws on her background as a former risk operations management team member at Blizzard Entertainment, where she spent years countering exploits targeting World of Warcraft players. The discussion offers developers an introduction to modern anti-cheat strategies and the ongoing challenges of protecting game ecosystems.</p>
 <p><small>Links: <a href="https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez">gamedeveloper.com</a></small></p>
-<br clear="all" />
-
-<h2>Apple Hardware Strategy Shifts Toward Folding and Touchscreen Devices Under CEO John Ternus</h2>
-<a name="story-25940"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1673713234831-bff865b62328%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wxMTc3M3wwfDF8c2VhcmNofDR8fGlwaG9uZSUyMGNyYWNrfGVufDB8fHx8MTc5MzMwMTg1Nnww%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple is facing criticism for shifting its product strategy toward hardware gimmicks and derivative designs under new CEO John Ternus. The company's recent releases, including the folding iPhone Duo and plans for a touch-screen MacBook Pro, contrast with its historical resistance to such features and have been marred by early technical issues like screen cracking.</p><p>These developments mark a departure from Apple's traditionally controlled rollout of premium devices, reflecting struggles to navigate an AI-driven market and declining distinctiveness. The shift highlights tensions between historical design philosophies established by Steve Jobs and Tim Cook and the current leadership's pursuit of mainstream hardware trends.</p>
-<p><small>Links: <a href="https://www.404media.co/apple-is-entering-its-slop-era/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50304437">hacker news</a></small></p>
 <br clear="all" />
 
 ---
