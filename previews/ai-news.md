@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Western Startups Realigning Chinese AI Models for Western Markets</h2>
+<a name="story-26166"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC%2Fw641-h351-rw%2FOpen%2BModel%2Bvs%2BOpen%2BWeight%2Bvs%2BOpen%2BSource.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Western startups including Hirundo and Lazarus AI are modifying open-weight artificial intelligence models from Chinese developers such as DeepSeek and Alibaba to remove state-aligned censorship, fix code vulnerabilities, and meet Western corporate standards. These firms use machine unlearning and weight-editing techniques to adapt the models for enterprises that want to leverage high-performance, low-cost Chinese technology without perceived security risks.</p><p>While these interventions have enabled deployment across dozens of U.S. companies, some government agencies remain reluctant to adopt Chinese models regardless of modification. Meanwhile, AI researchers note that universal alignment remains an elusive standard, while many commercial developers continue to use unedited Chinese models without encountering practical restrictions.</p>
+<p><small>Links: <a href="https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/">restofworld.org</a></small></p>
+<br clear="all" />
+
 <h2>Researchers Introduce Weight-Space Programming for Direct Neural Network Weight Manipulation</h2>
 <a name="story-26216"><img src="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2506.01153v3%2Fx3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers have introduced weight-space programming, a paradigm where frontier large language models like GPT-6 Astra natively read and write neural network weights without relying on traditional gradient-descent optimizers. By reasoning directly over raw weight matrices, the model can identify trained tasks, generate small game-playing networks from scratch, and pinpoint structural flaws in existing architectures.</p><p>In evaluations, Astra corrected reasoning loops in Qwen3.5-0.8B by modifying just 0.016% of its weights, raising its math benchmark performance from 7.9% to 48.1% while improving instruction following. This approach replaces conventional symbolic optimization with reasoning-driven modifications, pointing toward new methods for model interpretability and self-correction.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25855"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quasa.io%2Fphotos%2F00%2Fimage-2026-03-12t142700378.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has revised its Model Spec, the framework defining how its AI models should behave, by reorganizing it around five core values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.</p><p>This update aims to guide AI judgment and intent as models become more capable and take on more consequential actions. The reorganization also adds guidance regarding context, oversight, and agency while retiring most of the specification's previous detailed style guidance.</p>
 <p><small>Links: <a href="https://openai.com/index/updated-model-spec">openai.com</a></small></p>
-<br clear="all" />
-
-<h2>Sam Altman Discusses AI Vulnerabilities, Agent Teams, and Compute Scaling</h2>
-<a name="story-25803"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F02%2Fsam-altman-openAI-1280x853.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In an interview with Stripe co-founder John Collison on Cheeky Pint, OpenAI CEO Sam Altman discusses how AI models are uncovering critical PHP vulnerabilities, the role of test-time compute in enabling agent teams, and internal experiments tackling complex mathematical problems like Navier-Stokes. Altman also addresses the safety challenges of sandboxing superhuman models and the architectural shifts required as personal agents transform software development.</p><p>Altman reflects on the rapid pace of AI adoption, comparing the current creative explosion among young users to the early days of the internet. He emphasizes the importance of iterative deployment and practical empowerment over rigid safety narratives, arguing that AI systems must provide tangible benefits and individual freedom rather than fostering a restrictive surveillance state.</p>
-<p><small>Links: <a href="https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single">cheekypint.substack.com</a></small></p>
 <br clear="all" />
 
 ---

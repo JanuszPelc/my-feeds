@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Renault Latitude Navigation System Jailbroken to Change Clock Time</h2>
+<a name="story-26213"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.nns.ee%2Fimg%2F2026-11-02-renault-hack%2Fui.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A motorist discovered that changing the clock time on a 2014 Renault Latitude equipped with a TomTom Carminat LIVE head unit required a specialized navigation SD card. Because the original card was missing and the system enforced strict digital rights management, the built-in menus required to adjust the timezone were entirely inaccessible.</p><p>After reverse engineering the firmware, testing updates in a custom QEMU emulator, and working around read-only filesystem restrictions, the author gained arbitrary code execution. By leveraging a path traversal vulnerability in the unit's script parser to overwrite the Linux kernel's core_pattern, they triggered a controlled crash to execute a payload and manually patch the internal configuration file.</p>
+<p><small>Links: <a href="https://blog.nns.ee/2026/11/02/renault-hack/">blog.nns.ee</a> | <a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system">lobsters</a></small></p>
+<br clear="all" />
+
 <h2>Ukraine and Russia Report Cyberattacks on Emergency Alert Apps</h2>
 <a name="story-26173"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-156449007%2Cwidth-1619%2Cheight-1088%2Cresizemode-75%2F156449007.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ukraine and Russia reported that their emergency alert and air raid mobile applications were targeted by cyberattacks late Sunday, resulting in false notifications sent to citizens. In Ukraine, the breach triggered spurious warnings concerning nuclear and chemical dangers in Kyiv.</p><p>The incidents unfolded as a temporary humanitarian ceasefire between the two countries concluded. Both nations acknowledged the system compromises, while officials worked to reassure the public and debunk the false emergency warnings.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26047"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mozilla.org%2Fwp-content%2Fblogs.dir%2F278%2Ffiles%2F2026%2F10%2Fpatch-gap-simple-pill-1024x253.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mozilla is adapting Firefox's security practices to counter patch-gapping, a vulnerability exploitation method accelerated by AI models that can rapidly reverse-engineer software security fixes. While frontier models have enabled the Firefox team to significantly increase its security fix rate, malicious actors are increasingly using automated tools to target the brief window of time between a code fix and full user deployment.</p><p>To neutralize this threat regardless of attack speed, Firefox is introducing a structural defense that staggers fixes across independent sandbox layers so that interdependent vulnerabilities do not share overlapping patch gaps. Additionally, the browser team is accelerating its release cycle, withholding regression tests until fixes are shipped, and scanning new code commits to maintain a security advantage over automated attackers.</p>
 <p><small>Links: <a href="https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/">blog.mozilla.org</a> | <a href="https://lobste.rs/s/dtvr7y/defending_patch_gap_against_automated">lobsters</a></small></p>
-<br clear="all" />
-
-<h2>Anthropic States Systems Uncompromised After Tampered Claude Code Extension Appears on Cursor Marketplace</h2>
-<a name="story-26016"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHV4ldb8aEAExYsM%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic stated that its internal systems and employee laptops were not compromised after a malicious actor published a tampered copy of the Claude Code extension to Cursor's extension marketplace. The unauthorized versions, labeled 2.1.312 and 2.1.313, were distributed through Cursor's platform for approximately 11 hours.</p><p>Security researchers and platform maintainers noted that the trojanized extension attempted to install persistent SSH backdoors on affected Windows and macOS developer systems. Cursor and Anthropic are investigating the supply chain incident, which exposed thousands of users before the malicious builds were removed.</p>
-<p><small>Links: <a href="https://x.com/felixrieseberg">x.com</a> | <a href="https://cursor.com/blog/claude-code-extension-security-notice">cursor.com</a> | <a href="https://news.ycombinator.com/item?id=50301004">hacker news</a></small></p>
 <br clear="all" />
 
 ---

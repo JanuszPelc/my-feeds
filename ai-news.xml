@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-02T18:22:00+00:00</updated>
+  <updated>2026-11-02T18:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Western Startups Realigning Chinese AI Models for Western Markets</title>
+    <link href="https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/" rel="alternate" />
+    <id>https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/::v240</id>
+    <published>2026-11-02T18:24:00+00:00</published>
+    <updated>2026-11-02T18:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC%2Fw641-h351-rw%2FOpen%2BModel%2Bvs%2BOpen%2BWeight%2Bvs%2BOpen%2BSource.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/">restofworld.org</a></small></p><hr/><p>Western startups including Hirundo and Lazarus AI are modifying open-weight artificial intelligence models from Chinese developers such as DeepSeek and Alibaba to remove state-aligned censorship, fix code vulnerabilities, and meet Western corporate standards. These firms use machine unlearning and weight-editing techniques to adapt the models for enterprises that want to leverage high-performance, low-cost Chinese technology without perceived security risks.</p><p>While these interventions have enabled deployment across dozens of U.S. companies, some government agencies remain reluctant to adopt Chinese models regardless of modification. Meanwhile, AI researchers note that universal alignment remains an elusive standard, while many commercial developers continue to use unedited Chinese models without encountering practical restrictions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC%2Fw641-h351-rw%2FOpen%2BModel%2Bvs%2BOpen%2BWeight%2Bvs%2BOpen%2BSource.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 19:48 UTC | #26166</small>]]></content>
+  </entry>
   <entry>
     <title>Researchers Introduce Weight-Space Programming for Direct Neural Network Weight Manipulation</title>
     <link href="https://rikiyat.github.io/blog/weight-space-programming/" rel="alternate" />
