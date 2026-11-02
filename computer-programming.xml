@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Ori Bernstein Provides Progress Update on GEFS Port for OpenBSD</title>
+    <link href="https://www.undeadly.org/cgi?action=article;sid=20261101115637" rel="alternate" />
+    <id>https://www.undeadly.org/cgi?action=article;sid=20261101115637::v240</id>
+    <published>2026-11-01T23:26:00+00:00</published>
+    <updated>2026-11-01T23:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Fnycbugmay2023-gefs-a-good-enough-file-system-by-ori-v0-PElT2V4tD69Mdmtg8_KRlzW6-poymHEj7wptB9gfWBo.jpg%3Fformat%3Dpjpg%26auto%3Dwebp%26s%3D51ee8a794e77d624bc852325086eca9f4699e7b8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.undeadly.org/cgi?action=article;sid=20261101115637">undeadly.org</a> | <a href="https://marc.info/?l=openbsd-tech&m=179346643071941&w=2">marc.info</a> | <a href="https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for">lobsters</a></small></p><hr/><p>Developer Ori Bernstein has shared a progress update on GEFS, the Good Enough File System, detailing ongoing work to make the filesystem fit for general use on OpenBSD. The latest code updates include rebased diffs, error handling refinements, porting of bugfixes from 9front, and initial userspace tools like mkfs support.</p><p>Additional improvements outline strategies for error handling, block ordering, and snapshot control using a dedicated userspace program. While consistency protocols and ordering barriers remain under development, testing and feedback from the OpenBSD community continue to drive the project forward.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Fnycbugmay2023-gefs-a-good-enough-file-system-by-ori-v0-PElT2V4tD69Mdmtg8_KRlzW6-poymHEj7wptB9gfWBo.jpg%3Fformat%3Dpjpg%26auto%3Dwebp%26s%3D51ee8a794e77d624bc852325086eca9f4699e7b8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 02:32 UTC | #26131</small>]]></content>
+  </entry>
+  <entry>
     <title>Eva Explains Why She Avoids LLMs for Research and Cybersecurity</title>
     <link href="https://eva.ac/blog/llms" rel="alternate" />
     <id>https://eva.ac/blog/llms::v240</id>
