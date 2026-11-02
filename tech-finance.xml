@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-02T14:14:00+00:00</updated>
+  <updated>2026-11-02T18:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Omen AI Acquires Aquatic Labs for $16 Million</title>
+    <link href="https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/::v240</id>
+    <published>2026-11-02T18:29:00+00:00</published>
+    <updated>2026-11-02T18:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fomen-ai-aquatic-labs-16m-acquisition-coolant-sensor.16x9.jpg%3Fv%3Dog2-qu6zit&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/">techcrunch.com</a></small></p><hr/><p>Omen AI has acquired competitor Aquatic Labs in a $16 million cash-and-stock deal to expand its real-time fluid monitoring technology for AI data center cooling systems. The transaction combines Omen's element-sensing capabilities with Aquatic Labs' alkalinity testing to provide comprehensive, automated diagnostics for water and coolant loops.</p><p>Founded in 2024, Omen aims to help data center operators prevent equipment damage and reduce expensive fluid dumps by monitoring coolant health in real time. Aquatic Labs founder Allan Adams is joining Omen as chief science officer as the combined team works to integrate their technologies into a single sensor expected to launch by early next year.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fomen-ai-aquatic-labs-16m-acquisition-coolant-sensor.16x9.jpg%3Fv%3Dog2-qu6zit&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 20:05 UTC | #26181</small>]]></content>
+  </entry>
   <entry>
     <title>Bites Raises $40 Million Series A to Expand Frontline AI Training Platform</title>
     <link href="https://www.calcalistech.com/ctechnews/article/s1t5soetmx" rel="alternate" />

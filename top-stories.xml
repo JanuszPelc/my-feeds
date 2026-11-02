@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-02T16:26:00+00:00</updated>
+  <updated>2026-11-02T20:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Researchers Introduce Weight-Space Programming for Direct Neural Network Weight Manipulation</title>
+    <link href="https://rikiyat.github.io/blog/weight-space-programming/" rel="alternate" />
+    <id>https://rikiyat.github.io/blog/weight-space-programming/::v240</id>
+    <published>2026-11-02T20:05:00+00:00</published>
+    <updated>2026-11-02T20:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2506.01153v3%2Fx3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://rikiyat.github.io/blog/weight-space-programming/">rikiyat.github.io</a> | <a href="https://news.ycombinator.com/item?id=50341174">hacker news</a></small></p><hr/><p>Researchers have introduced weight-space programming, a paradigm where frontier large language models like GPT-6 Astra natively read and write neural network weights without relying on traditional gradient-descent optimizers. By reasoning directly over raw weight matrices, the model can identify trained tasks, generate small game-playing networks from scratch, and pinpoint structural flaws in existing architectures.</p><p>In evaluations, Astra corrected reasoning loops in Qwen3.5-0.8B by modifying just 0.016% of its weights, raising its math benchmark performance from 7.9% to 48.1% while improving instruction following. This approach replaces conventional symbolic optimization with reasoning-driven modifications, pointing toward new methods for model interpretability and self-correction.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2506.01153v3%2Fx3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 19:31 UTC | #26216 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>Developer Migrates Servers Away From Ubuntu Over Delayed Kernel Security Patch</title>
     <link href="https://chalmovsky.com/posts/wtf-ubuntu" rel="alternate" />
