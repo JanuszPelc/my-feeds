@@ -518,13 +518,4 @@
     <updated>2026-10-28T04:23:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://lexifina.com/blog/git-for-the-us-code">lexifina.com</a> | <a href="https://news.ycombinator.com/item?id=50268380">hacker news</a></small></p><hr/><p>Legal technology company Lexifina has developed a version-control system for the United States Code, allowing users to track legislative amendments in a manner similar to software source code management. By replaying historical amendments sequentially across nine code titles from 2017 onward, the project successfully reproduced 361 out of 365 changes to match official release points.</p><p>The system aims to address challenges in legal research and language model accuracy, which often falter when handling temporal validity and statutory evolution. While the tool successfully maps effective dates and amending laws for most changes, limitations remain regarding retroactive reach-back provisions and pattern-matching constraints for effective-date notes.</p><hr/><small>28 Oct 2026, 14:01 UTC | #25675</small>]]></content>
   </entry>
-  <entry>
-    <title>Lobsters NYC Meetup Scheduled at Walker's</title>
-    <link href="https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5" rel="alternate" />
-    <id>https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5::v240</id>
-    <published>2026-10-28T04:02:00+00:00</published>
-    <updated>2026-10-28T04:02:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fquartzmountain.org%2Fimages%2Fresources%2Fattend-a-tech-event-at-the-new-york-tech-meetup_20230516020502.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5">lobste.rs</a> | <a href="https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5">lobsters</a></small></p><hr/><p>Members of the Lobsters technology discussion community are gathering in New York City for an informal meetup. Attendees are meeting at Walker's near the Canal Street subway station starting at 5:30 p.m.</p><p>The event follows a previous online coordination thread that also drew interest from array programming language enthusiasts. Organizers noted that participants can arrive flexibly, with updates posted to the discussion thread if the group moves.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fquartzmountain.org%2Fimages%2Fresources%2Fattend-a-tech-event-at-the-new-york-tech-meetup_20230516020502.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 10:19 UTC | #25666</small>]]></content>
-  </entry>
 </feed>
