@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Ukraine and Russia Report Cyberattacks on Emergency Alert Apps</h2>
+<a name="story-26173"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-156449007%2Cwidth-1619%2Cheight-1088%2Cresizemode-75%2F156449007.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ukraine and Russia reported that their emergency alert and air raid mobile applications were targeted by cyberattacks late Sunday, resulting in false notifications sent to citizens. In Ukraine, the breach triggered spurious warnings concerning nuclear and chemical dangers in Kyiv.</p><p>The incidents unfolded as a temporary humanitarian ceasefire between the two countries concluded. Both nations acknowledged the system compromises, while officials worked to reassure the public and debunk the false emergency warnings.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>Supermarket Freezers Across Europe Hit by Second Suspected Cyber-Attack</h2>
 <a name="story-26203"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F7756b2230178182acee24e3f03a8004bf6867d55%2F215_0_5040_4031%2Fmaster%2F5040.jpg%3Fwidth%3D445%26dpr%3D1%26s%3Dnone%26crop%3Dnone&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Supermarket chains across at least seven European countries have reported suspected cyber-attacks that disabled refrigeration and freezer systems, causing temperatures to surge to 50C overnight. Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands, and Sweden confirmed that their equipment was compromised, echoing a similar incident in France last month that destroyed substantial food stocks.</p><p>Cybersecurity experts note that retail estates are particularly vulnerable due to vast networks of remotely managed refrigeration controllers, building management systems, and internet-connected operational technology. While officials have not identified the perpetrators or established a motive, the attacks involved no financial demands, leading authorities to suspect intentional sabotage targeting the food supply chain.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26016"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHV4ldb8aEAExYsM%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic stated that its internal systems and employee laptops were not compromised after a malicious actor published a tampered copy of the Claude Code extension to Cursor's extension marketplace. The unauthorized versions, labeled 2.1.312 and 2.1.313, were distributed through Cursor's platform for approximately 11 hours.</p><p>Security researchers and platform maintainers noted that the trojanized extension attempted to install persistent SSH backdoors on affected Windows and macOS developer systems. Cursor and Anthropic are investigating the supply chain incident, which exposed thousands of users before the malicious builds were removed.</p>
 <p><small>Links: <a href="https://x.com/felixrieseberg">x.com</a> | <a href="https://cursor.com/blog/claude-code-extension-security-notice">cursor.com</a> | <a href="https://news.ycombinator.com/item?id=50301004">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Yarr RSS Reader Vulnerable to Cross-Site Scripting via Iframe Sanitization Bypass</h2>
-<a name="story-26037"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2F0x67673068%2Fimage-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Security researcher Matthew Hogg has detailed a cross-site scripting (XSS) vulnerability in the open-source Go-based RSS reader yarr. The flaw stems from a parsing discrepancy between Go's net/url package and browser-based JavaScript URI handling when sanitizing iframe sources.</p><p>By crafting an iframe source that exploits URL parsing differences, an attacker can bypass domain whitelist checks and execute arbitrary JavaScript code when a user loads a malicious RSS post. Although yarr functions primarily as a self-hosted local application, the vulnerability could permit malicious payloads to inspect or track other feeds read by the user through DOM manipulation.</p>
-<p><small>Links: <a href="https://0x67673068.me/xss-in-yarr/">0x67673068.me</a> | <a href="https://lobste.rs/s/1r7enm/xss_yarr_rss_reader">lobsters</a></small></p>
 <br clear="all" />
 
 ---
