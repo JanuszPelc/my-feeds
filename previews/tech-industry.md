@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Alphabet Kicks Off €6 Billion Euro-Denominated Bond Sale</h2>
+<a name="story-26193"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fcard%2F01m6e925erk7526ws6bjnctab0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google parent Alphabet is issuing €6 billion in euro-denominated debt across seven tranches. The offering tests investor appetite for technology sector debt following recent market volatility and doubts surrounding the artificial intelligence trade.</p><p>The debt sale follows an earlier €9 billion bond offering across six tranches earlier in the year. Despite recent tech sector selloffs, the current issuance has attracted strong early demand, pulling in more than €17 billion in orders from investors.</p>
+<p><small>Links: <a href="https://www.reuters.com/business/finance/alphabet-kicks-off-6-billion-bond-sale-tests-appetite-tech-debt-2026-11-02/">reuters.com</a></small></p>
+<br clear="all" />
+
 <h2>42AI Emerges from Stealth with $62.5M and Behavioral World Model</h2>
 <a name="story-26195"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fwp-content%2Fuploads%2F2025%2F11%2FAre.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Israeli startup 42AI has emerged from stealth with $62.5 million in seed funding to develop a behavioral world model designed to predict human decision-making probabilities in new scenarios. The company's technology analyzes individual psychological tendencies, sentiment, and communication data across various events to map out behavioral patterns rather than relying strictly on historical actions.</p><p>Initially deployed at financial brokerages to help forecast trader behavior, manage liquidity, and optimize hedging, 42AI is also exploring future applications in gaming, cybersecurity, and robotics. While the startup reports strong performance metrics in financial settings, critics and the founders note that the behavioral profiling technology raises valid concerns regarding predictive privacy and user advantage.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26090"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F603eb6e65ff3b1b5c33ed177%2F695d444d08f91cb3d6b5d27c_695d3b8212e0ddc1251636ac-1767719120051.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The cost of insuring against debt defaults for major technology hyperscalers including Amazon, Alphabet, Microsoft, Meta, and Oracle has climbed to its highest level since 2021. Investors and traders are increasingly purchasing credit protection as financial commitments and debt issuance surge to fund the artificial intelligence infrastructure boom.</p><p>With trillions of dollars dedicated to the AI trade, market participants are weighing the long-term profitability of these massive capital expenditures against rising credit risks. The growing demand for default insurance highlights mounting caution among investors despite years of stellar gains powered by the tech sector.</p>
 <p><small>Links: <a href="https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG">wsj.com</a></small></p>
-<br clear="all" />
-
-<h2>Meta and Fourier Build Humanoid Robot Prototype</h2>
-<a name="story-26049"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.fftai.com%2Fstatic%2Fcms%2Fimages%2Ftechnology2-img2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta Platforms has partnered with Chinese robotics company Fourier to build a prototype humanoid robot, internally known as Max, in a span of three months. The project highlights the social media giant's expanding efforts to develop advanced robotics technology intended for home environments.</p><p>The companies are already developing a second version of the roughly 106-pound robot following early-stage discussions Meta held with other hardware manufacturers like Unitree Robotics. Meta has stated that it currently has no plans to commercialize or sell these prototype units.</p>
-<p><small>Links: <a href="https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push">theinformation.com</a></small></p>
 <br clear="all" />
 
 ---

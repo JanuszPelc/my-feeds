@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-02T18:29:00+00:00</updated>
+  <updated>2026-11-02T18:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Anthropic Reports Nearly $17 Billion in Q3 Revenue Ahead of IPO</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo::v240</id>
+    <published>2026-11-02T18:44:00+00:00</published>
+    <updated>2026-11-02T18:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fopt-image.teamblind.com%2Fuploads%2Fatch_img%2F499%2Fc58085512685b691d8528a46d9aef15f_res.jpeg%3Fwidth%3D1200%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo">bloomberg.com</a></small></p><hr/><p>Anthropic PBC reported third-quarter revenue of nearly $17 billion as of September 30, marking a twelve-fold increase compared to the same period a year prior. In an amended S-1 filing with the U.S. Securities and Exchange Commission, the artificial intelligence company also disclosed a net loss of $23.3 billion alongside operating expenses surging 292% to $17.5 billion.</p><p>The financial disclosures arrive as the company prepares for a heavily anticipated initial public offering. While top-line revenue has accelerated dramatically, the figures underscore the immense capital outlays and computing commitments required to scale operations and compete in the generative artificial intelligence market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fopt-image.teamblind.com%2Fuploads%2Fatch_img%2F499%2Fc58085512685b691d8528a46d9aef15f_res.jpeg%3Fwidth%3D1200%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 21:52 UTC | #26192</small>]]></content>
+  </entry>
   <entry>
     <title>Omen AI Acquires Aquatic Labs for $16 Million</title>
     <link href="https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/" rel="alternate" />

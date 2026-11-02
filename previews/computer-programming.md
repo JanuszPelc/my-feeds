@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Examination of Early Unix Memory Allocation and Malloc History</h2>
+<a name="story-26221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnapcakes.nekoweb.org%2Fposts%2Fmalloc%2Funix-v4-tape.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An analysis of early Unix source code traces the evolution of memory allocation from primitive linear allocators in Unix Version 4 to explicit map-based memory management and eventual modern malloc implementations. Early Unix versions utilized straightforward linear allocation routines using sbrk without freeing memory, while kernel routines managed partitioned resources such as main memory and swap space using explicit resource maps.</p><p>The historical survey highlights how subsequent editions introduced allocation macros, size-computation shortcuts, and zero-initialization practices that predated or influenced modern language features like C++'s new operator. By examining historical source trees via the Unix Tree repository, the post documents the iterative design choices made by early Unix developers under strict hardware constraints.</p>
+<p><small>Links: <a href="https://napcakes.nekoweb.org/posts/malloc/">napcakes.nekoweb.org</a> | <a href="https://lobste.rs/s/ihqhia/lost_malloc">lobsters</a></small></p>
+<br clear="all" />
+
 <h2>The Origins and Early Development of BSD Unix</h2>
 <a name="story-26194"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In the late 1970s, Bill Joy and researchers at UC Berkeley created the Berkeley Software Distribution (BSD) by bundling a Pascal compiler, line editors, and other utilities as an add-on package for AT&amp;T Unix. By distributing these tools at cost, Berkeley fostered a tradition of sharing that helped spread Unix throughout universities and research institutions.</p><p>Following the release of the expanded 2BSD distribution, the acquisition of a VAX computer at Berkeley led graduate student Ozalp Babaoglu and Bill Joy to add virtual memory support to Unix 32/V. Their work culminated in 3BSD in December 1979, drawing the interest of DARPA and laying the groundwork for Unix's widespread adoption in government-funded research.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F838%2F838e66d6-7ba4-4b13-9279-f2ddad8a8d28%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Abhinav Sarkar details the implementation of a disassembler for Little Computer 3 (LC-3) binaries written in Haskell. Because LC-3 object files intermix raw instructions and data without section or symbol tables, the disassembler employs a multi-pass heuristic approach that performs unambiguous decoding, speculative context-based decoding, data cleanup, and label insertion.</p><p>The walkthrough covers setting up mutable vectors and strict ST monads in Haskell, utilizing type-safe bit matching with GHC pattern synonyms, and parsing binary formats to reconstruct readable textual assembly.</p>
 <p><small>Links: <a href="https://abhinavsarkar.net/posts/lc3-disassembler/">abhinavsarkar.net</a> | <a href="https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell">lobsters</a></small></p>
-<br clear="all" />
-
-<h2>Kwi Terminal Emulator Introduced for KDE Plasma</h2>
-<a name="story-26087"><img src="https://wsrv.nl/?url=https%3A%2F%2Feikehein.com%2Fkde%2Fkwi_screenshot_2026-11_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Eike Hein has announced Kwi, a new GPU-accelerated terminal emulator designed for KDE Plasma and other free desktop environments. Built using Qt Quick, Kirigami, and the libghostty-vt backend, Kwi aims to provide a fast, modern alternative to Konsole that aligns with the latest KDE Human Interface Guidelines and supports hardware-accelerated Vulkan and OpenGL rendering.</p><p>The project intends to bridge gaps in the KDE software stack by offering a public QML module for embedding terminal components in Qt Quick applications, addressing limitations found in older QWidget-based solutions like Konsole's KPart. While currently in an early experimental stage without a formal tagged release, Kwi offers significant performance improvements, enhanced accessibility features, and support for modern terminal protocols, with nightly Flatpak builds available for testing.</p>
-<p><small>Links: <a href="https://blogs.kde.org/2026/11/01/introducing-kwi/">blogs.kde.org</a> | <a href="https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50324114">hacker news</a></small></p>
 <br clear="all" />
 
 ---
