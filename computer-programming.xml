@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-02T00:45:00+00:00</updated>
+  <updated>2026-11-02T05:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -137,9 +137,9 @@
     <link href="https://dbushell.com/2026/11/01/tangled-accessibility/" rel="alternate" />
     <id>https://dbushell.com/2026/11/01/tangled-accessibility/::v240</id>
     <published>2026-10-31T16:30:00+00:00</published>
-    <updated>2026-10-31T16:30:00+00:00</updated>
+    <updated>2026-11-02T05:14:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fagentic-forge.github.io%2Fscreenshots%2Fforge-ui-landing.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://dbushell.com/2026/11/01/tangled-accessibility/">dbushell.com</a> | <a href="https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility">lobsters</a></small></p><hr/><p>Developer David Bushell has examined the recent user interface redesign of Tangled, a federated code forge positioning itself as an alternative to GitHub. While acknowledging Tangled's promising architecture, Bushell highlights significant accessibility flaws in its new Svelte-based frontend, pointing out that rigid base font styling causes text clipping and scaling failures under Web Content Accessibility Guidelines.</p><p>The critique emphasizes that technical oversights in CSS implementation prevent browser text-scaling features from working correctly, leading to truncated characters and crowded layouts when users increase font sizes. Bushell argues that technology startups should incorporate accessibility expertise from the outset rather than treating it as an afterthought, noting that modern web projects must accommodate diverse user needs to provide a viable alternative to established platforms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fagentic-forge.github.io%2Fscreenshots%2Fforge-ui-landing.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:18 UTC | #26066</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dbushell.com/2026/11/01/tangled-accessibility/">dbushell.com</a> | <a href="https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50330017">hacker news</a></small></p><hr/><p>Developer David Bushell has examined the recent user interface redesign of Tangled, a federated code forge positioning itself as an alternative to GitHub. While acknowledging Tangled's promising architecture, Bushell highlights significant accessibility flaws in its new Svelte-based frontend, pointing out that rigid base font styling causes text clipping and scaling failures under Web Content Accessibility Guidelines.</p><p>The critique emphasizes that technical oversights in CSS implementation prevent browser text-scaling features from working correctly, leading to truncated characters and crowded layouts when users increase font sizes. Bushell argues that technology startups should incorporate accessibility expertise from the outset rather than treating it as an afterthought, noting that modern web projects must accommodate diverse user needs to provide a viable alternative to established platforms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fagentic-forge.github.io%2Fscreenshots%2Fforge-ui-landing.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:18 UTC | #26066</small>]]></content>
   </entry>
   <entry>
     <title>The Kluever Maneuver for Two-Commit Bug Fixes</title>
