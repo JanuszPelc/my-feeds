@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-01T18:30:00+00:00</updated>
+  <updated>2026-11-01T23:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Bureau of Labor Statistics Reports U.S. Labor Share Fell to Record Low in Second Quarter of 2026</title>
+    <link href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/" rel="alternate" />
+    <id>https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/::v240</id>
+    <published>2026-11-01T23:21:00+00:00</published>
+    <updated>2026-11-01T23:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.edwardconard.com%2Fwp-content%2Fuploads%2F2026%2F06%2F39573-the-post-covid-decline-in-the-labor-share-featured-thumbnail-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/">fortune.com</a> | <a href="https://www.bls.gov/opub/ted/2026/labor-share-at-its-lowest-level-52-8-percent-in-second-quarter-2026.htm">bls.gov</a> | <a href="https://news.ycombinator.com/item?id=50330939">hacker news</a></small></p><hr/><p>The share of U.S. economic output received by workers through salaries and wages dropped to 52.8% in the second quarter of 2026, marking the lowest level recorded by the Bureau of Labor Statistics since data collection began in 1947. This decline occurred despite surging corporate earnings and continuous GDP growth, reflecting a broader economic shift favoring capital over labor.</p><p>Economists attribute the falling labor share to multiple factors, including technological automation displacing workers and immigration restrictions that have reduced the size of the domestic and foreign workforce. While corporate profits and productivity metrics have expanded, the widening gap between capital returns and labor compensation raises ongoing concerns regarding jobless growth and wealth inequality.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.edwardconard.com%2Fwp-content%2Fuploads%2F2026%2F06%2F39573-the-post-covid-decline-in-the-labor-share-featured-thumbnail-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 01:07 UTC | #26129</small>]]></content>
+  </entry>
   <entry>
     <title>Google Data Center Energy Head Says Space Facilities Cost Up to 100 Times More Than Earth-Based Ones</title>
     <link href="https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth" rel="alternate" />
