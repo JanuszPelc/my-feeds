@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-01T17:42:00+00:00</updated>
+  <updated>2026-11-01T21:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Eva Explains Why She Avoids LLMs for Research and Cybersecurity</title>
+    <link href="https://eva.ac/blog/llms" rel="alternate" />
+    <id>https://eva.ac/blog/llms::v240</id>
+    <published>2026-11-01T21:14:00+00:00</published>
+    <updated>2026-11-01T21:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feva.ac%2Ffiles%2Fimg%2Fposts%2Fllms%2Ftailworm-skeet.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://eva.ac/blog/llms">eva.ac</a> | <a href="https://lobste.rs/s/ikfsgt/so_i_guess_everyone_uses_llms_think_now">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50330253">hacker news</a></small></p><hr/><p>Security researcher Eva outlines her decision to avoid large language models for personal research and coding, emphasizing that manual exploration remains essential to her enjoyment of the field. She argues that offloading technical tasks to AI removes the personal reward of problem-solving and can lead to frustration when models generate confidently incorrect outputs.</p><p>The post also critiques how artificial intelligence companies market cybersecurity vulnerabilities, citing instances like the PHP2Shell disclosures and sensationalized social media claims as marketing-driven fearmongering rather than responsible security practices. Eva concludes that human curiosity and manual code analysis continue to drive significant discoveries despite the capabilities of modern language models.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feva.ac%2Ffiles%2Fimg%2Fposts%2Fllms%2Ftailworm-skeet.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 00:21 UTC | #26126</small>]]></content>
+  </entry>
   <entry>
     <title>Vinipsmaker Examines the Properties and Mindset of Pratt Parsing</title>
     <link href="https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/" rel="alternate" />
