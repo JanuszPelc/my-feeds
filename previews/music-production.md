@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Tamber 2.0 Music Creation Suite Reviewed</h2>
+<a name="story-26162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FTamber-2.0-Gestures-interface-hero-credit-Clovis-McEvoy%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tamber 2.0 is a subscription-based music production platform comprising five distinct applications designed to assist with workflow, instrumentation, performance, and sound discovery. Developed by Zoe Wrenn, the suite features a sample organizer with descriptive tagging, crowdsourced global field recordings, and a music discovery tool linked to streaming services.</p><p>Additional components include Tamby, an AI-powered assistant providing natural-language DAW control for Ableton Live, and Gestures, a webcam-based MIDI controller and synthesizer. Priced at $9.99 monthly or $99 annually, the updated platform adopts a modular application structure and adds native Windows support to its assistive music creation ecosystem.</p>
+<p><small>Links: <a href="https://musictech.com/reviews/software-instruments/tamber-2/">musictech.com</a> | <a href="https://tamber.music/">tamber.music</a></small></p>
+<br clear="all" />
+
 <h2>TouchMachines Releases Terrarium Generative World Synthesizer</h2>
 <a name="story-26154"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fterrarium-kvr-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TouchMachines has released Terrarium, a generative world synthesizer designed for desktop systems, alongside Terrarium Machine for iOS devices. The instrument continuously generates ambient environmental sounds including wind, rain, insects, water, and road noise based on a seed rather than looping audio, allowing users to manipulate elements directly or shift weather conditions.</p><p>The software features six distinct environmental worlds, 16 musical scales, 11 tuning systems, and a global climate control to adjust intensity. It also includes MIDI and OSC output capabilities that transmit note data and control signals from environmental layers, enabling external hardware integration and synchronized lighting rigs. The desktop version is available as a VST3, AU, and standalone application for $19.99, while the iOS version operates as an AUv3 and standalone app for $9.99.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F06_burnstudio.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GSi has released Burn Studio, a Spin FV-1 emulator available as a VST and AU plugin for macOS, Windows, and iOS. The software allows users to run SpinASM effect programs directly on their devices and includes a built-in editor and compiler equipped with syntax highlighting, error checking, and binary export capabilities.</p><p>The plugin is free to use for standard audio processing and includes presets derived from the original algorithms of the 2013 GSi BURN hardware unit. Access to the advanced programming features requires a paid license priced at €25 plus applicable VAT.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/gsi-releases-burn-studio-vst-and-au-69503?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69503">kvraudio.com</a> | <a href="https://www.genuinesoundware.com/?a=showproduct&b=76">genuinesoundware.com</a></small></p>
-<br clear="all" />
-
-<h2>ZL Audio Releases ZL Limiter Free Plugin</h2>
-<a name="story-26048"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FZL-Audio-Launches-Free-ZL-Compressor-Plugin-2048x1072.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ZL Audio has released ZL Limiter, a free and open-source audio limiter plugin available for Windows, macOS, and Linux. The software features True Peak limiting and oversampling up to 32x to help control inter-sample peaks and reduce aliasing during audio production.</p><p>The plugin is provided in common formats like VST3, Audio Unit, and LV2 to accommodate various digital audio workstations. Developed as an open-source tool, its source code and packaging are hosted on GitHub for user inspection and community contribution.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/zl-audio-releases-zl-limiter-a-free-limiter-for-windows-macos-and-linux/">bedroomproducersblog.com</a> | <a href="https://zl-audio.github.io/plugins/zllimiter/">zl-audio.github.io</a></small></p>
 <br clear="all" />
 
 ---

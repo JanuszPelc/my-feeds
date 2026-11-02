@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Plans to Raise Up to $3.5 Billion in Japan for US IPO</h2>
+<a name="story-26174"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.monetaryelite.com%2Fwp-content%2Fuploads%2F2026%2F06%2F98c1649b-8a3e-42bf-99b2-f9190f46596a-1024x572.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic PBC plans to raise up to $3.5 billion from Japanese investors as part of its upcoming US initial public offering. The move allows Japanese investors direct access to the offering, joining Australia, Canada, and parts of Europe.</p><p>The fundraising plan follows Anthropic's public filing of its Form S-1 registration statement with the US Securities and Exchange Commission for its proposed stock listing. The company's financial disclosures leading up to the IPO have drawn significant attention from global markets.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>San Francisco Tech Workers Face High-Stakes Dating Scene During A.I. Boom</h2>
 <a name="story-26146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F31%2Fmultimedia%2F31BIZ-SF-DATING-1-03-mwjv%2F31BIZ-SF-DATING-1-03-mwjv-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>San Francisco’s artificial intelligence boom is transforming the city's dating culture, with young start-up founders and engineers approaching romantic encounters with intense professional scrutiny.</p><p>Driven by grueling work schedules and high-stakes ambitions, tech workers are going out less frequently and bringing rigorous criteria—such as elite academic backgrounds and family health histories—to their dates, effectively turning casual meetings into interviews.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26020"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FDsf9PuWymXVCr7nc5FwWtZ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI CEO Sam Altman stated in a podcast interview that maintaining DRAM inside personal computers is an inefficient use of the world's limited memory supply. He argued that global resource allocation benefits more from centralized data centers, where hardware experiences higher utilization rates than home PCs that sit largely idle.</p><p>The remarks sparked online debate concerning hardware distribution and consumer ownership amid growing tensions between local computing needs and massive enterprise demands for AI infrastructure. Critics questioned the implications for consumer hardware accessibility as tech companies increasingly prioritize large-scale cluster deployments.</p>
 <p><small>Links: <a href="https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization">tomshardware.com</a> | <a href="https://www.youtube.com/watch?v=iMsUcCYNKqY">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=50307635">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>CoreWeave, Nebius, and Nscale Face Tougher Bond Market Terms for AI Infrastructure</h2>
-<a name="story-26017"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F06%2FGlobal-AI-Debt-Boom.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Neocloud providers CoreWeave, Nebius, and Nscale have faced significant challenges in the bond market as lenders and investors demand stricter terms and higher yields. The tightening credit conditions reflect growing caution among financial institutions regarding the massive capital expenditures required for artificial intelligence data center expansions.</p><p>The shift follows a period of heavy debt issuance by AI infrastructure companies seeking to fund expensive hardware and facility build-outs. As credit risks and debt loads increase, lenders are scrutinizing the financial viability and revenue concentration of these firms, creating a potential bottleneck for the broader artificial intelligence industry.</p>
-<p><small>Links: <a href="https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?st=7gB5bX&reflink=desktopwebshare_permalink">wsj.com</a></small></p>
 <br clear="all" />
 
 ---
