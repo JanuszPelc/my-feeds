@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-02T15:11:00+00:00</updated>
+  <updated>2026-11-02T18:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>NameDaisy Examines Baby Names That Shifted Between Genders</title>
+    <link href="https://namedaisy.com/blog/boy-names-that-became-girl-names" rel="alternate" />
+    <id>https://namedaisy.com/blog/boy-names-that-became-girl-names::v240</id>
+    <published>2026-11-02T18:37:00+00:00</published>
+    <updated>2026-11-02T18:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F2048%2Fcpsprodpb%2F38E2%2Fproduction%2F_121126541_baby_names_2020-nc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://namedaisy.com/blog/boy-names-that-became-girl-names">namedaisy.com</a> | <a href="https://news.ycombinator.com/item?id=50339397">hacker news</a></small></p><hr/><p>An analysis by NameDaisy examines baby names that have shifted over time from boys to girls, as well as those moving in the opposite direction. The findings indicate that more names transitioned from male to female usage than vice versa, with shifts in girls' naming trends driving the majority of the movement.</p><p>The review explores various examples to illustrate how naming conventions have evolved and how cultural preferences influence gender associations in given names. These patterns highlight the historical fluidity of baby names across different generations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F2048%2Fcpsprodpb%2F38E2%2Fproduction%2F_121126541_baby_names_2020-nc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 21:22 UTC | #26222</small>]]></content>
+  </entry>
   <entry>
     <title>IceCube Neutrino Observatory and Particle Physics Examined by UC San Diego Researchers</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261101010533.htm" rel="alternate" />
