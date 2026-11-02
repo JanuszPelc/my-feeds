@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Google Data Center Energy Head Says Space Facilities Cost Up to 100 Times More Than Earth-Based Ones</h2>
+<a name="story-26104"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshattered.io%2Fwp-content%2Fuploads%2F2026%2F11%2Fgoogle-energy-chief-space-data-centers-100x-cost-2026-gen-1024x585.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google's head of data center energy has stated that operating data centers in space could cost up to 100 times more than maintaining them on Earth. The remarks highlight the massive financial hurdles facing initiatives exploring orbital computing to address the surging energy demands of artificial intelligence.</p><p>While tech companies increasingly eye space-based infrastructure and solar power through efforts like Project Suncatcher, analysts note that heavy launch expenses and technical challenges remain significant obstacles. Meanwhile, the executive also remarked that the United States possesses sufficient domestic power supply for growing tech needs, though regulatory permitting processes continue to move slowly.</p>
+<p><small>Links: <a href="https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth">theinformation.com</a></small></p>
+<br clear="all" />
+
 <h2>Cost of Insuring Debt Defaults at Major Tech Hyperscalers Reaches Highest Level Since 2021</h2>
 <a name="story-26090"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F603eb6e65ff3b1b5c33ed177%2F695d444d08f91cb3d6b5d27c_695d3b8212e0ddc1251636ac-1767719120051.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The cost of insuring against debt defaults for major technology hyperscalers including Amazon, Alphabet, Microsoft, Meta, and Oracle has climbed to its highest level since 2021. Investors and traders are increasingly purchasing credit protection as financial commitments and debt issuance surge to fund the artificial intelligence infrastructure boom.</p><p>With trillions of dollars dedicated to the AI trade, market participants are weighing the long-term profitability of these massive capital expenditures against rising credit risks. The growing demand for default insurance highlights mounting caution among investors despite years of stellar gains powered by the tech sector.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26001"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adwaitx.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fopenai-teen-safety-blueprint-1068x601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI is tightening limits on the weapons-related information ChatGPT provides to teens, even when queries appear harmless, as part of a new violence prevention initiative. These safeguards include additional restrictions on how the AI describes mass attacks for users of all ages.</p><p>The company plans to end chat sessions that show a user fixating on violence and will begin publishing a Community Safety Report in early 2027. OpenAI reported making over 200 law enforcement referrals based on ChatGPT interactions during the third quarter of 2026.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/">reuters.com</a> | <a href="https://openai.com/index/community-safety-report-and-new-protections-for-teens/">openai.com</a></small></p>
-<br clear="all" />
-
-<h2>Intel Shares Plunge 29% on Weak Guidance and PC Market Softness</h2>
-<a name="story-25985"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1UPzRk.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D77&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Intel shares fell 29% on Friday, marking the company's worst single-day performance since the 1970s. The decline was driven by weaker-than-expected financial guidance, a manufacturing plant shutdown in Israel following an explosion, and prolonged weakness in the global PC market.</p><p>The sell-off reduced the value of the U.S. government's 10% stake in Intel by approximately $12 billion and Nvidia's stake by $6 billion. The volatility occurred amidst a broader technology sector sell-off, as investors expressed increasing concern regarding the long-term returns on massive capital expenditures for artificial intelligence infrastructure.</p>
-<p><small>Links: <a href="https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html">cnbc.com</a> | <a href="https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-reports-third-quarter-2026-financial-results.html">intel.com</a></small></p>
 <br clear="all" />
 
 ---
