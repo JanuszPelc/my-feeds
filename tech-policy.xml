@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-02T18:26:00+00:00</updated>
+  <updated>2026-11-02T18:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Scott Alexander Publishes Against SURA Essay on LessWrong</title>
+    <link href="https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura" rel="alternate" />
+    <id>https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura::v240</id>
+    <published>2026-11-02T18:31:00+00:00</published>
+    <updated>2026-11-02T18:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Faicyberinsights.com%2Fwp-content%2Fuploads%2F2024%2F05%2FPause-AI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura">lesswrong.com</a></small></p><hr/><p>Blogger Scott Alexander published an essay on LessWrong examining the rising popularity of what he terms "SURA"—Stop Unilaterally + Raise Awareness—within AI safety debates. He argues that safety-focused AI labs should not abandon the ongoing AI race, contending that a unilateral pause would hand leadership to organizations that do not prioritize alignment and eliminate strategic leverage against competitors like China.</p><p>The essay has sparked intra-community debate over AI pause movements, safety strategies, and how ethical labs should navigate competitive pressures. Critics and commentators have engaged with the arguments surrounding whether unilateral cessation or continuing participation is more effective for ensuring safe AI development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Faicyberinsights.com%2Fwp-content%2Fuploads%2F2024%2F05%2FPause-AI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 20:17 UTC | #26164</small>]]></content>
+  </entry>
   <entry>
     <title>Elon Musk Spends Record $474 Million on 2026 Midterm Elections</title>
     <link href="https://www.nytimes.com/2026/11/02/us/politics/elon-musk-midterm-spending.html" rel="alternate" />

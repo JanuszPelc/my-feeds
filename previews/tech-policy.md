@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Scott Alexander Publishes Against SURA Essay on LessWrong</h2>
+<a name="story-26164"><img src="https://wsrv.nl/?url=https%3A%2F%2Faicyberinsights.com%2Fwp-content%2Fuploads%2F2024%2F05%2FPause-AI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Blogger Scott Alexander published an essay on LessWrong examining the rising popularity of what he terms "SURA"—Stop Unilaterally + Raise Awareness—within AI safety debates. He argues that safety-focused AI labs should not abandon the ongoing AI race, contending that a unilateral pause would hand leadership to organizations that do not prioritize alignment and eliminate strategic leverage against competitors like China.</p><p>The essay has sparked intra-community debate over AI pause movements, safety strategies, and how ethical labs should navigate competitive pressures. Critics and commentators have engaged with the arguments surrounding whether unilateral cessation or continuing participation is more effective for ensuring safe AI development.</p>
+<p><small>Links: <a href="https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura">lesswrong.com</a></small></p>
+<br clear="all" />
+
 <h2>Elon Musk Spends Record $474 Million on 2026 Midterm Elections</h2>
 <a name="story-26165"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F02%2Fmultimedia%2F02pol-musk-spending-jhvk%2F02pol-musk-spending-jhvk-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Elon Musk has contributed $474 million to political groups during the 2026 midterm election cycle, setting a record for the most money ever spent by a non-candidate single donor in a single election cycle. His financial outlay includes $216 million to his own super PAC, America PAC, $168 million to the Senate Leadership Fund largely supporting the Republican nominee in Texas, and tens of millions more directed toward House committees and state-level efforts.</p><p>The massive spending push is designed to help Republicans retain control of Congress as Musk confronts potential Democratic scrutiny over his government efficiency initiatives, federal contracts, and foreign policy stances. His total surpasses all previous individual non-candidate donors, trailing only the self-funded presidential campaign spending of Michael Bloomberg in 2020.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-25858"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcapwolf.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fkalshi-faces-utah-criminal-charges-over-sports-betting-probe.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Utah has filed 14 criminal charges, including 13 felonies, against prediction market platform Kalshi and its co-founders, Tarek Mansour and Luana Lopes Lara. The charges follow an investigation in which an undercover agent for the Utah Attorney General placed 12 wagers on the platform, which the state alleges violates anti-gambling laws.</p><p>The legal action escalates a dispute over whether event-based prediction markets constitute illegal gambling or federally regulated derivatives. This marks the first time a state has filed felony criminal charges directly against Kalshi's executives.</p>
 <p><small>Links: <a href="https://www.sltrib.com/news/2026/10/28/utah-files-14-criminal-charges/">sltrib.com</a> | <a href="https://news.ycombinator.com/item?id=50296746">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Airbnb Spends Millions to Influence Los Angeles Politics Ahead of 2028 Olympics</h2>
-<a name="story-25835"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvilloura.com%2Fwp-content%2Fuploads%2F2026%2F05%2FLA-short-term-rental-2028-Olympics-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Airbnb and its nonprofit arm have spent at least $12.6 million to build political influence in Los Angeles since last year. This expenditure includes campaign contributions to Mayor Karen Bass, lobbying City Hall, and making charitable donations at the request of politicians. The company seeks to secure more favorable regulations for vacation rentals ahead of the 2028 Summer Olympics.</p><p>Airbnb executives expect the Olympics to drive rapid expansion of its home-sharing business in Los Angeles. Political challengers, such as City Council member Nithya Raman, have characterized the spending as "pay-to-play" politics that harms residents facing high housing costs and have pledged to crack down on short-term rentals if elected.</p>
-<p><small>Links: <a href="https://www.politico.com/news/2026/10/29/la-mayor-airbnb-olympics-01137680">politico.com</a></small></p>
 <br clear="all" />
 
 ---
