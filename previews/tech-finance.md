@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Binance Records $3.64 Billion in Net Outflows After Reopening Withdrawals Following Hack</h2>
+<a name="story-26107"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.binance.vision%2Feditor-uploads-original%2Fa0070858e6ac47588ad6bb1a29a470df.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Binance recorded approximately $3.64 billion in net outflows during the first nine and a half hours after it resumed withdrawals following a record $6.3 billion hack. The exchange processed $4.65 billion in withdrawals and $1.01 billion in deposits, representing about 2.1% of its total assets under management.</p><p>While withdrawal volumes have begun to stabilize, Binance continues testing and restoring remaining network assets while other major exchanges experience net inflows. The hack, which drained hot wallets on Thursday, was attributed by the FBI to North Korea's TraderTraitor hacking group, prompting Binance to implement new wallet structures and prepare an updated proof-of-reserves report.</p>
+<p><small>Links: <a href="https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259">theblock.co</a></small></p>
+<br clear="all" />
+
 <h2>Industrial AI Startup Lumaril Raises $66 Million Series A</h2>
 <a name="story-26084"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.automation.com%2Fdocuments%2Fd%2Facom%2Fcover-photo-for-introductory-piece-web.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lumaril has raised $66 million in a Series A funding round at a $400 million valuation to expand its industrial artificial intelligence software. The company builds systems that connect to existing factory control networks to continuously optimize production, throughput, and yield without requiring heavy hardware retrofits.</p><p>The financing round was led by returning investor Elad Gil, with participation from Felicis, Koch Disruptive Technologies, Pax Ventures, Lux Capital, and General Catalyst, bringing the startup's total funding to $78 million. The capital coincides with the company's official launch out of stealth to target efficiency in the physical manufacturing sector.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25902"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmoneycheck.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fchart-48.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intercontinental Exchange Inc. has entered into an agreement with Trade [XYZ] to establish a regulated market and clearing structure for perpetual futures in the United States. The planned venue will be built on Hyperliquid's technology infrastructure and feature products tied to equities, equity indexes, commodities, and currencies.</p><p>The initiative is designed to open onshore markets to a broader retail trading population while operating separately from ICE's existing institutional futures franchise. The launch remains subject to regulatory approvals and will incorporate dedicated know-your-customer and anti-money laundering systems.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/nyse-owner-plans-market-for-hyperliquid-perpetual-futures-in-us">bloomberg.com</a> | <a href="https://ir.theice.com/press/news-details/2026/Intercontinental-Exchange-and-TradeXYZ-to-Bring-Hyperliquid-Based-Perpetual-Markets-Onshore/default.aspx">ir.theice.com</a></small></p>
-<br clear="all" />
-
-<h2>Twilio Reports Third-Quarter Financial Results and Fourth-Quarter Growth Outlook</h2>
-<a name="story-25897"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FTwilio-Total-Revenue_2026-04-06-033339_sifm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Twilio reported third-quarter revenue of $1.56 billion, marking a 20% increase year-over-year that beat analyst estimates of $1.52 billion. The company additionally posted a net income of $161 million and raised its full-year revenue growth outlook following strong execution during the period.</p><p>Despite the third-quarter beats, Twilio issued guidance forecasting slower revenue growth for the fourth quarter. Following the earnings release and the cautious forward-looking outlook, Twilio shares dropped more than 15% in after-hours trading.</p>
-<p><small>Links: <a href="https://www.marketwatch.com/">marketwatch.com</a> | <a href="https://investors.twilio.com/news-releases/news-release-details/twilio-announce-third-quarter-2026-results-october-29-2026">investors.twilio.com</a></small></p>
 <br clear="all" />
 
 ---

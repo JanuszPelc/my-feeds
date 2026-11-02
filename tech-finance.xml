@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-01T05:36:00+00:00</updated>
+  <updated>2026-11-01T21:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Binance Records $3.64 Billion in Net Outflows After Reopening Withdrawals Following Hack</title>
+    <link href="https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259" rel="alternate" />
+    <id>https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259::v240</id>
+    <published>2026-11-01T21:15:00+00:00</published>
+    <updated>2026-11-01T21:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage.binance.vision%2Feditor-uploads-original%2Fa0070858e6ac47588ad6bb1a29a470df.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259">theblock.co</a></small></p><hr/><p>Binance recorded approximately $3.64 billion in net outflows during the first nine and a half hours after it resumed withdrawals following a record $6.3 billion hack. The exchange processed $4.65 billion in withdrawals and $1.01 billion in deposits, representing about 2.1% of its total assets under management.</p><p>While withdrawal volumes have begun to stabilize, Binance continues testing and restoring remaining network assets while other major exchanges experience net inflows. The hack, which drained hot wallets on Thursday, was attributed by the FBI to North Korea's TraderTraitor hacking group, prompting Binance to implement new wallet structures and prepare an updated proof-of-reserves report.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.binance.vision%2Feditor-uploads-original%2Fa0070858e6ac47588ad6bb1a29a470df.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 00:45 UTC | #26107</small>]]></content>
+  </entry>
   <entry>
     <title>Industrial AI Startup Lumaril Raises $66 Million Series A</title>
     <link href="https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d" rel="alternate" />
