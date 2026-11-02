@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-02T15:01:00+00:00</updated>
+  <updated>2026-11-02T15:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Physicist Cyril Hilsum, Pioneer of Liquid Crystal Displays, Dies at 101</title>
+    <link href="https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html?unlocked_article_code=1.NFE.gD-P.2F70K4AuzFTo&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html?unlocked_article_code=1.NFE.gD-P.2F70K4AuzFTo&amp;smid=url-share::v240</id>
+    <published>2026-11-02T15:08:00+00:00</published>
+    <updated>2026-11-02T15:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F31%2Fobituaries%2F31obit-hilsum-family-03%2F31obit-hilsum-family-03-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html?unlocked_article_code=1.NFE.gD-P.2F70K4AuzFTo&smid=url-share">nytimes.com</a></small></p><hr/><p>Cyril Hilsum, a British physicist whose research at the Royal Radar Establishment laid the groundwork for liquid crystal displays, has died at 101. His pioneering work in materials science enabled electronic screens to transition from bulky, power-hungry tubes to the flat-panel formats used in modern televisions, computers, and smartphones.</p><p>Born in 1925, Hilsum became a central figure in applied physics, later serving as president of the Institute of Physics and contributing extensively to semiconductor technology and microwave devices. Colleagues frequently noted his exceptional intellect and his persistent drive to translate theoretical scientific research into practical commercial applications.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F31%2Fobituaries%2F31obit-hilsum-family-03%2F31obit-hilsum-family-03-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 18:26 UTC | #26172</small>]]></content>
+  </entry>
   <entry>
     <title>NASA's Perseverance Rover Sets Off-World Driving Distance Record</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261101010536.htm" rel="alternate" />
