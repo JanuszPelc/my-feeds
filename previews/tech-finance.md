@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>ServiceNow CEO Says Acquired Startup Sweep Accelerates CRM Migrations</h2>
+<a name="story-26114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fboostedcrm.com%2Fwp-content%2Fuploads%2F2026%2F04%2FServiceNow-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ServiceNow CEO Bill McDermott stated during an earnings call that the company's acquisition of Israeli startup Sweep enables enterprise customers to switch customer-relationship-management systems in weeks rather than years. According to McDermott, Sweep's technology significantly reduces implementation cycles, helping ServiceNow expand its footprint in the CRM market.</p><p>ServiceNow acquired Sweep to integrate its agentic workspace software across platforms like Salesforce, HubSpot, and ServiceNow itself. Executives noted that the company is also bundling delivery experts and AI implementation agents into select deals to accelerate deployments, contributing to a tripling of AI-enabled CRM bookings.</p>
+<p><small>Links: <a href="https://www.calcalistech.com/ctechnews/article/yxdvdp8sm">calcalistech.com</a></small></p>
+<br clear="all" />
+
 <h2>Binance Records $3.64 Billion in Net Outflows After Reopening Withdrawals Following Hack</h2>
 <a name="story-26107"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.binance.vision%2Feditor-uploads-original%2Fa0070858e6ac47588ad6bb1a29a470df.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance recorded approximately $3.64 billion in net outflows during the first nine and a half hours after it resumed withdrawals following a record $6.3 billion hack. The exchange processed $4.65 billion in withdrawals and $1.01 billion in deposits, representing about 2.1% of its total assets under management.</p><p>While withdrawal volumes have begun to stabilize, Binance continues testing and restoring remaining network assets while other major exchanges experience net inflows. The hack, which drained hot wallets on Thursday, was attributed by the FBI to North Korea's TraderTraitor hacking group, prompting Binance to implement new wallet structures and prepare an updated proof-of-reserves report.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25921"><img src="https://wsrv.nl/?url=https%3A%2F%2Fihfyvnmcmnvwrtmuemaa.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog-images%2F1793251611993-article-89.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ravical, an AI startup developing technology for accounting and tax firms, has secured $17 million in a seed funding round led by MMC Ventures. The investment, which includes participation from Lakestar, Pitchdrive, and Shapers, brings the company's total funding to $25 million.</p><p>Founded in 2025, Ravical provides an AI-powered platform designed to codify the expertise of senior professionals into shared workflows used across a firm's entire client base. The new capital will be used to support ongoing product development, expand the company's team, and drive market growth across the UK, Belgium, the Netherlands, Germany, and the United States.</p>
 <p><small>Links: <a href="https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/">tech.eu</a></small></p>
-<br clear="all" />
-
-<h2>Intercontinental Exchange and Trade [XYZ] Partner to Bring Hyperliquid Perpetual Markets to US</h2>
-<a name="story-25902"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmoneycheck.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fchart-48.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Intercontinental Exchange Inc. has entered into an agreement with Trade [XYZ] to establish a regulated market and clearing structure for perpetual futures in the United States. The planned venue will be built on Hyperliquid's technology infrastructure and feature products tied to equities, equity indexes, commodities, and currencies.</p><p>The initiative is designed to open onshore markets to a broader retail trading population while operating separately from ICE's existing institutional futures franchise. The launch remains subject to regulatory approvals and will incorporate dedicated know-your-customer and anti-money laundering systems.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-29/nyse-owner-plans-market-for-hyperliquid-perpetual-futures-in-us">bloomberg.com</a> | <a href="https://ir.theice.com/press/news-details/2026/Intercontinental-Exchange-and-TradeXYZ-to-Bring-Hyperliquid-Based-Perpetual-Markets-Onshore/default.aspx">ir.theice.com</a></small></p>
 <br clear="all" />
 
 ---
