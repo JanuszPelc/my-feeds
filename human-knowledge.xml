@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-02T15:08:00+00:00</updated>
+  <updated>2026-11-02T15:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>IceCube Neutrino Observatory and Particle Physics Examined by UC San Diego Researchers</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261101010533.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261101010533.htm::v240</id>
+    <published>2026-11-02T15:11:00+00:00</published>
+    <updated>2026-11-02T15:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.fbbva.es%2Fwp-content%2Fuploads%2F2017%2F10%2FFRANCIS_HALZEN_CONF_1600X650.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261101010533.htm">sciencedaily.com</a> | <a href="https://today.ucsd.edu/story/what-is-a-neutrino-anyway">today.ucsd.edu</a></small></p><hr/><p>UC San Diego physics researchers are examining the properties of neutrinos and the significance of the IceCube Neutrino Observatory following Francis Halzen's 2026 Nobel Prize in Physics. Neutrinos are nearly massless, electrically neutral elementary particles that interact extremely weakly with matter, enabling them to travel across the universe from extreme environments without being easily blocked or absorbed.</p><p>Built deep within the Antarctic ice sheet, the IceCube observatory detects high-energy cosmic neutrinos by recording faint flashes of Cherenkov light produced when the particles interact with matter. Researchers indicate that analyzing these rare, ultra-high-energy neutrinos—alongside data from instruments like the Simons Observatory—offers vital clues regarding cosmic accelerators, black holes, and the earliest history of the universe.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.fbbva.es%2Fwp-content%2Fuploads%2F2017%2F10%2FFRANCIS_HALZEN_CONF_1600X650.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 18:51 UTC | #26185</small>]]></content>
+  </entry>
   <entry>
     <title>Physicist Cyril Hilsum, Pioneer of Liquid Crystal Displays, Dies at 101</title>
     <link href="https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html?unlocked_article_code=1.NFE.gD-P.2F70K4AuzFTo&amp;smid=url-share" rel="alternate" />
