@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>The Origins and Early Development of BSD Unix</h2>
+<a name="story-26194"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In the late 1970s, Bill Joy and researchers at UC Berkeley created the Berkeley Software Distribution (BSD) by bundling a Pascal compiler, line editors, and other utilities as an add-on package for AT&amp;T Unix. By distributing these tools at cost, Berkeley fostered a tradition of sharing that helped spread Unix throughout universities and research institutions.</p><p>Following the release of the expanded 2BSD distribution, the acquisition of a VAX computer at Berkeley led graduate student Ozalp Babaoglu and Bill Joy to add virtual memory support to Unix 32/V. Their work culminated in 3BSD in December 1979, drawing the interest of DARPA and laying the groundwork for Unix's widespread adoption in government-funded research.</p>
+<p><small>Links: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">fosscomics.com</a> | <a href="https://news.ycombinator.com/item?id=50332163">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Sawyer X Presents Zig Programming Introduction at Code Maven</h2>
 <a name="story-26180"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.itmedia.co.jp%2Ftt%2Fnews%2F2409%2F18%2Fso4430_tt_240904_03_img01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sawyer X delivers an introductory presentation on the Zig programming language, comparing its syntax and engineering philosophy to other established languages. Designed for developers with varying levels of experience, the talk examines Zig's core design principles, emphasizing explicit control flow, visible memory allocation, and the absence of hidden abstractions like operator overloading or exceptions.</p><p>The presentation features practical code examples, such as parsing configuration strings and managing resources, to illustrate how Zig addresses common systems programming challenges. Hosted by the Code Maven community, the session aims to help programmers transition smoothly into writing predictable and maintainable low-level software.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26087"><img src="https://wsrv.nl/?url=https%3A%2F%2Feikehein.com%2Fkde%2Fkwi_screenshot_2026-11_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Eike Hein has announced Kwi, a new GPU-accelerated terminal emulator designed for KDE Plasma and other free desktop environments. Built using Qt Quick, Kirigami, and the libghostty-vt backend, Kwi aims to provide a fast, modern alternative to Konsole that aligns with the latest KDE Human Interface Guidelines and supports hardware-accelerated Vulkan and OpenGL rendering.</p><p>The project intends to bridge gaps in the KDE software stack by offering a public QML module for embedding terminal components in Qt Quick applications, addressing limitations found in older QWidget-based solutions like Konsole's KPart. While currently in an early experimental stage without a formal tagged release, Kwi offers significant performance improvements, enhanced accessibility features, and support for modern terminal protocols, with nightly Flatpak builds available for testing.</p>
 <p><small>Links: <a href="https://blogs.kde.org/2026/11/01/introducing-kwi/">blogs.kde.org</a> | <a href="https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50324114">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Blogger Novq Details Writing Novellas Using Groff Typesetting System</h2>
-<a name="story-26077"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmovq.de%2Fblog%2Fpostings%2F2026-10-31%2F0%2Fpdfinfo-wc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Blogger Novq has detailed the creation of two novellas spanning approximately 15,000 and 40,000 words using the groff typesetting system. The texts were compiled with custom macro packages and a minimalist Vim workflow, generating formatted PDF outputs on aging hardware in under two seconds.</p><p>Although the completed fiction works will remain unpublished by choice, the post provides a technical walkthrough of the groff configuration. It covers basic text formatting, page-number footers, header and footer traps, inter-sentence spacing, and German hyphenation rules.</p>
-<p><small>Links: <a href="https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html">movq.de</a> | <a href="https://lobste.rs/s/54xwm8/novellas_with_groff">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50325694">hacker news</a></small></p>
 <br clear="all" />
 
 ---

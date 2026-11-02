@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-02T06:17:00+00:00</updated>
+  <updated>2026-11-02T15:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>The Origins and Early Development of BSD Unix</title>
+    <link href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/" rel="alternate" />
+    <id>https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/::v240</id>
+    <published>2026-11-02T15:02:00+00:00</published>
+    <updated>2026-11-02T15:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">fosscomics.com</a> | <a href="https://news.ycombinator.com/item?id=50332163">hacker news</a></small></p><hr/><p>In the late 1970s, Bill Joy and researchers at UC Berkeley created the Berkeley Software Distribution (BSD) by bundling a Pascal compiler, line editors, and other utilities as an add-on package for AT&amp;T Unix. By distributing these tools at cost, Berkeley fostered a tradition of sharing that helped spread Unix throughout universities and research institutions.</p><p>Following the release of the expanded 2BSD distribution, the acquisition of a VAX computer at Berkeley led graduate student Ozalp Babaoglu and Bill Joy to add virtual memory support to Unix 32/V. Their work culminated in 3BSD in December 1979, drawing the interest of DARPA and laying the groundwork for Unix's widespread adoption in government-funded research.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 16:48 UTC | #26194</small>]]></content>
+  </entry>
   <entry>
     <title>Sawyer X Presents Zig Programming Introduction at Code Maven</title>
     <link href="https://www.youtube.com/watch?v=jWCQXBVIyrY" rel="alternate" />
