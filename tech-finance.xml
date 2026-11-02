@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-02T02:16:00+00:00</updated>
+  <updated>2026-11-02T02:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Hex Technologies Raises $100 Million Series D at $1.2 Billion Valuation for AI Analytics Platform</title>
+    <link href="https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/" rel="alternate" />
+    <id>https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/::v240</id>
+    <published>2026-11-02T02:41:00+00:00</published>
+    <updated>2026-11-02T02:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F10%2F28115619%2Flibrary-hex-raises-100-million-series-d-at-1-2-billion-valuation-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/">forbes.com</a> | <a href="https://hex.tech/blog/hex-new-ear/">hex.tech</a></small></p><hr/><p>Data analytics provider Hex Technologies has raised $100 million in a Series D funding round at a post-money valuation of $1.2 billion. Co-led by Peak XV and 137 Ventures, the financing includes participation from institutional investors including Andreessen Horowitz, Sequoia Capital, and Amplify Partners.</p><p>Alongside the funding announcement, the company unveiled Hex 4.0, featuring a ground-up platform rebuild designed specifically for AI agents and collaborative data science workflows. The new capital will support the expansion of its agent-native analytics infrastructure following a period of strong enterprise growth.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F10%2F28115619%2Flibrary-hex-raises-100-million-series-d-at-1-2-billion-valuation-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 09:42 UTC | #26133</small>]]></content>
+  </entry>
   <entry>
     <title>Broccoli AI Raises $52 Million in Series A and B Funding Led by Khosla Ventures</title>
     <link href="https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Hex Technologies Raises $100 Million Series D at $1.2 Billion Valuation for AI Analytics Platform</h2>
+<a name="story-26133"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F10%2F28115619%2Flibrary-hex-raises-100-million-series-d-at-1-2-billion-valuation-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Data analytics provider Hex Technologies has raised $100 million in a Series D funding round at a post-money valuation of $1.2 billion. Co-led by Peak XV and 137 Ventures, the financing includes participation from institutional investors including Andreessen Horowitz, Sequoia Capital, and Amplify Partners.</p><p>Alongside the funding announcement, the company unveiled Hex 4.0, featuring a ground-up platform rebuild designed specifically for AI agents and collaborative data science workflows. The new capital will support the expansion of its agent-native analytics infrastructure following a period of strong enterprise growth.</p>
+<p><small>Links: <a href="https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/">forbes.com</a> | <a href="https://hex.tech/blog/hex-new-ear/">hex.tech</a></small></p>
+<br clear="all" />
+
 <h2>Broccoli AI Raises $52 Million in Series A and B Funding Led by Khosla Ventures</h2>
 <a name="story-26132"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F10%2Farmstrong-plumb_6345e1.png%3Fformat%3Dwebp%26w%3D1440%26quality%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Home-services AI platform Broccoli AI has raised $52 million across Series A and Series B funding rounds led by Khosla Ventures, with participation from Y Combinator and Operator Partners. Founded by AJ Jain and Aditya Ketkar, the San Francisco-based startup provides AI agents that handle inbound phone calls, schedule appointments, and manage customer follow-ups for trade contractors such as plumbers, electricians, and HVAC providers.</p><p>The company’s development was closely shaped by Marcelle Flowers, a 62-year-old Sacramento plumbing business owner who became Broccoli AI's first customer, adviser, and chief operating officer after the founders made a cold call to her shop in 2024. Broccoli AI currently serves more than 1,500 businesses, has tripled its revenue since its Series A round, and plans to allocate the new capital toward expanding its engineering and sales teams.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25970"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tectonicdefense.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frunetyros.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Salesforce has signed a definitive agreement to acquire Rune Technologies, a defense technology provider specializing in military logistics and sustainment software and hardware. The acquisition aims to bolster Salesforce's national security-focused Missionforce unit, which targets government and defense clients.</p><p>Rune's artificial intelligence tools are already utilized by the U.S. Army and Marine Corps to forecast supply needs and optimize resources in low-connectivity combat environments. Financial terms of the transaction were not publicly disclosed as the company integrates the defense startup into its federal operations.</p>
 <p><small>Links: <a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/29/salesforce-rune-defense">axios.com</a> | <a href="https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/">salesforce.com</a></small></p>
-<br clear="all" />
-
-<h2>Binance Sets Aside $6.34 Billion to Cover Hack Losses</h2>
-<a name="story-25951"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-qwen_generated_1769449161350.jpg.png%3Fformat%3Dwebp%26width%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Binance has reserved more than $6.34 billion in company funds to restore customer balances and address the fallout from a major security breach. The exchange stated that the allocation is designed to fully cover the estimated losses resulting from the incident.</p><p>Of the total amount, approximately $5 billion is already held in the specific token assets affected by the attack, while the remaining balance is being acquired through open market and over-the-counter transactions. The measure follows the platform's earlier commitments to secure affected user funds and stabilize operations following the theft.</p>
-<p><small>Links: <a href="https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/">reuters.com</a></small></p>
 <br clear="all" />
 
 ---

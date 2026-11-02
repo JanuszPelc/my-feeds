@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>India&#x27;s Ministry of Electronics and Information Technology Unveils DEPA Framework for AI Training</h2>
+<a name="story-26140"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.theregister.com%2F%3FimageId%3D259659%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>India's Ministry of Electronics and Information Technology has released a handbook on the Data Empowerment and Protection Architecture for AI Training framework. The initiative allows AI models to travel to decentralized data sources rather than requiring raw data to be transferred to model developers, utilizing hardware-based secure environments to maintain privacy and security.</p><p>The framework aims to unlock fragmented sectors like healthcare, financial services, and education for local artificial intelligence development while keeping data owners in control and preventing big tech dominance. It forms part of India's broader push for digital public infrastructure and aims to serve as a model for global science diplomacy and responsible AI governance.</p>
+<p><small>Links: <a href="https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872">theregister.com</a> | <a href="https://www.meity.gov.in/static/uploads/2026/10/02d8224e4cd6c8c29be5a5198e795158.pdf">meity.gov.in</a></small></p>
+<br clear="all" />
+
 <h2>OpenAI to Merge ChatGPT and Codex Usage Limits in December</h2>
 <a name="story-26100"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcellcog.ai%2Fblog%2Fmedia%2Fchatgpt-codex-shared-usage-limit%2Fslide-1.webp%3Fv%3Dc4dc01cb86&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Starting in December, OpenAI will combine usage allowances for ChatGPT and Codex into a single token-based pool for Plus, Pro, and Business plans. This transition coincides with the integration of Work's agentic capabilities directly into the main ChatGPT experience.</p><p>Usage will be measured in tokens, with consumption varying according to the chosen model and the complexity of the requested tasks, while instant chat will remain unmetered. Subscribers can monitor their combined balance and reset schedules within the app's settings, and they will have the option to wait for resets, upgrade plans, or purchase additional credits if limits are reached.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25794"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.deccanchronicle.com%2Fh-upload%2F2026%2F10%2F29%2F2106101-dee.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chinese artificial intelligence developers DeepSeek and Moonshot AI relied on outputs from OpenAI's GPT-6 Astra model to train their latest offerings, including Moonshot's Kimi K3.1 Pro and DeepSeek's V4.1-Flash 1017. The distillation activity follows earlier restrictions and positions OpenAI's most powerful model as a prime target for capability extraction by international labs.</p><p>OpenAI previously attributed a core cluster of a distillation campaign to individuals associated with Moonshot AI following the release of GPT-6 Astra in September. The practice underscores the ongoing difficulty major Western AI developers face in preventing overseas competitors from leveraging advanced model outputs to accelerate the creation of lower-cost alternatives.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs">theinformation.com</a></small></p>
-<br clear="all" />
-
-<h2>Mistral AI Releases Open Weights for Mistral Large 4 Model</h2>
-<a name="story-25820"><img src="https://wsrv.nl/?url=https%3A%2F%2Fntwenmyhsoimhczyxtgl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmedia-derivatives%2FMDA_c7ef42b25f47%2Fweb-1080.jpg%3Fv%3D1792226325&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mistral AI has released the open weights for Mistral Large 4, a one-trillion-parameter natively multimodal model, following an initial public preview. Trained on European infrastructure, the model features scaling enhancements from reinforcement learning aimed at agentic coding, reasoning efficiency, and defensive cybersecurity capabilities.</p><p>The model introduces three adjustable reasoning modes to balance performance and cost, achieving leading scores on various open-weight coding and cybersecurity benchmarks. It is available under a modified MIT license for self-hosted deployment or through enterprise managed platforms such as Microsoft Foundry and NVIDIA NIM containers.</p>
-<p><small>Links: <a href="https://mistral.ai/news/mistral-large-4-oss/">mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=50289418">hacker news</a></small></p>
 <br clear="all" />
 
 ---
