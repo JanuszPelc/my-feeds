@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Oracle Files to Raise $20 Billion Through Stock and Bond Offerings</h2>
+<a name="story-26190"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftmastreet.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-35-1024x661.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Oracle has filed to raise $20 billion through concurrent offerings of $10 billion in common stock and $10 billion in bonds. The capital raise is intended to finance the company's expanding data center infrastructure and artificial intelligence ambitions.</p><p>The concurrent offerings can close independently, and the announcement prompted a more than 5% decline in Oracle's stock price as markets reacted to potential share dilution and increased debt. The move follows previous disclosures outlining heavy financing requirements to support the company's growing cloud and AI workloads.</p>
+<p><small>Links: <a href="https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.oracle.com/sec-filings/default.aspx">investor.oracle.com</a></small></p>
+<br clear="all" />
+
 <h2>Alphabet Kicks Off €6 Billion Euro-Denominated Bond Sale</h2>
 <a name="story-26193"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fcard%2F01m6e925erk7526ws6bjnctab0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google parent Alphabet is issuing €6 billion in euro-denominated debt across seven tranches. The offering tests investor appetite for technology sector debt following recent market volatility and doubts surrounding the artificial intelligence trade.</p><p>The debt sale follows an earlier €9 billion bond offering across six tranches earlier in the year. Despite recent tech sector selloffs, the current issuance has attracted strong early demand, pulling in more than €17 billion in orders from investors.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26104"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshattered.io%2Fwp-content%2Fuploads%2F2026%2F11%2Fgoogle-energy-chief-space-data-centers-100x-cost-2026-gen-1024x585.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google's head of data center energy has stated that operating data centers in space could cost up to 100 times more than maintaining them on Earth. The remarks highlight the massive financial hurdles facing initiatives exploring orbital computing to address the surging energy demands of artificial intelligence.</p><p>While tech companies increasingly eye space-based infrastructure and solar power through efforts like Project Suncatcher, analysts note that heavy launch expenses and technical challenges remain significant obstacles. Meanwhile, the executive also remarked that the United States possesses sufficient domestic power supply for growing tech needs, though regulatory permitting processes continue to move slowly.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth">theinformation.com</a></small></p>
-<br clear="all" />
-
-<h2>Cost of Insuring Debt Defaults at Major Tech Hyperscalers Reaches Highest Level Since 2021</h2>
-<a name="story-26090"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F603eb6e65ff3b1b5c33ed177%2F695d444d08f91cb3d6b5d27c_695d3b8212e0ddc1251636ac-1767719120051.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The cost of insuring against debt defaults for major technology hyperscalers including Amazon, Alphabet, Microsoft, Meta, and Oracle has climbed to its highest level since 2021. Investors and traders are increasingly purchasing credit protection as financial commitments and debt issuance surge to fund the artificial intelligence infrastructure boom.</p><p>With trillions of dollars dedicated to the AI trade, market participants are weighing the long-term profitability of these massive capital expenditures against rising credit risks. The growing demand for default insurance highlights mounting caution among investors despite years of stellar gains powered by the tech sector.</p>
-<p><small>Links: <a href="https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG">wsj.com</a></small></p>
 <br clear="all" />
 
 ---

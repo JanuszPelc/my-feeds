@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-02T18:43:00+00:00</updated>
+  <updated>2026-11-02T18:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Oracle Files to Raise $20 Billion Through Stock and Bond Offerings</title>
+    <link href="https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-02T18:48:00+00:00</published>
+    <updated>2026-11-02T18:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftmastreet.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-35-1024x661.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.oracle.com/sec-filings/default.aspx">investor.oracle.com</a></small></p><hr/><p>Oracle has filed to raise $20 billion through concurrent offerings of $10 billion in common stock and $10 billion in bonds. The capital raise is intended to finance the company's expanding data center infrastructure and artificial intelligence ambitions.</p><p>The concurrent offerings can close independently, and the announcement prompted a more than 5% decline in Oracle's stock price as markets reacted to potential share dilution and increased debt. The move follows previous disclosures outlining heavy financing requirements to support the company's growing cloud and AI workloads.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftmastreet.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-35-1024x661.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 22:21 UTC | #26190</small>]]></content>
+  </entry>
   <entry>
     <title>Alphabet Kicks Off €6 Billion Euro-Denominated Bond Sale</title>
     <link href="https://www.reuters.com/business/finance/alphabet-kicks-off-6-billion-bond-sale-tests-appetite-tech-debt-2026-11-02/" rel="alternate" />

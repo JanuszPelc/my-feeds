@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-02T18:45:00+00:00</updated>
+  <updated>2026-11-02T18:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Syscall.sh Updates Linux System Call Reference and API</title>
+    <link href="https://syscall.sh/" rel="alternate" />
+    <id>https://syscall.sh/::v240</id>
+    <published>2026-11-02T18:50:00+00:00</published>
+    <updated>2026-11-02T18:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F49369866%2Fmini_magick20190131-10758-quntc3.png%3F1548988550&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://syscall.sh/">syscall.sh</a> | <a href="https://news.ycombinator.com/item?id=50334704">hacker news</a></small></p><hr/><p>syscall.sh provides a comprehensive, architecture-by-architecture reference for Linux system calls spanning 27 different architectures from Linux kernel version 3.3 to 7.3. The platform maps out system call numbers, required registers, and calling conventions alongside historical metadata indicating when individual calls were added or removed.</p><p>Data is generated directly from mainline kernel source code by parsing SYSCALL_DEFINE macros to ensure accuracy. Users can access the information through individual architecture pages, version selectors, JSON downloads, or via an accompanying API for integration into external tools.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F49369866%2Fmini_magick20190131-10758-quntc3.png%3F1548988550&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 22:22 UTC | #26229</small>]]></content>
+  </entry>
   <entry>
     <title>Examination of Early Unix Memory Allocation and Malloc History</title>
     <link href="https://napcakes.nekoweb.org/posts/malloc/" rel="alternate" />

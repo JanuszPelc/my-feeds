@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Syscall.sh Updates Linux System Call Reference and API</h2>
+<a name="story-26229"><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F49369866%2Fmini_magick20190131-10758-quntc3.png%3F1548988550&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>syscall.sh provides a comprehensive, architecture-by-architecture reference for Linux system calls spanning 27 different architectures from Linux kernel version 3.3 to 7.3. The platform maps out system call numbers, required registers, and calling conventions alongside historical metadata indicating when individual calls were added or removed.</p><p>Data is generated directly from mainline kernel source code by parsing SYSCALL_DEFINE macros to ensure accuracy. Users can access the information through individual architecture pages, version selectors, JSON downloads, or via an accompanying API for integration into external tools.</p>
+<p><small>Links: <a href="https://syscall.sh/">syscall.sh</a> | <a href="https://news.ycombinator.com/item?id=50334704">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Examination of Early Unix Memory Allocation and Malloc History</h2>
 <a name="story-26221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnapcakes.nekoweb.org%2Fposts%2Fmalloc%2Funix-v4-tape.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of early Unix source code traces the evolution of memory allocation from primitive linear allocators in Unix Version 4 to explicit map-based memory management and eventual modern malloc implementations. Early Unix versions utilized straightforward linear allocation routines using sbrk without freeing memory, while kernel routines managed partitioned resources such as main memory and swap space using explicit resource maps.</p><p>The historical survey highlights how subsequent editions introduced allocation macros, size-computation shortcuts, and zero-initialization practices that predated or influenced modern language features like C++'s new operator. By examining historical source trees via the Unix Tree repository, the post documents the iterative design choices made by early Unix developers under strict hardware constraints.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26101"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmartinfowler.com%2Farticles%2Fharness-engineering%2Fharness-overview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Chris Wellons has released Prospero, a lightweight C++ coding harness designed for local LLMs and AI agents. Built with a Dear ImGui interface, the tool consumes significantly fewer resources than typical web-stack-based harnesses while supporting advanced features like subagents, remote deployments, and desktop control.</p><p>Prospero enforces strict timeouts for every operation to prevent agent hangs, ensures complete process tree cleanup to eliminate stray background tasks, and utilizes passive rendering to reduce idle resource consumption. It is available in a free Community Edition on GitHub and a Professional Edition that includes built-in headless engines for multi-host operations.</p>
 <p><small>Links: <a href="https://nullprogram.com/blog/2026/10/31/">nullprogram.com</a> | <a href="https://news.ycombinator.com/item?id=50315226">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Abhinav Sarkar Implements LC-3 Disassembler in Haskell</h2>
-<a name="story-26088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F838%2F838e66d6-7ba4-4b13-9279-f2ddad8a8d28%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Abhinav Sarkar details the implementation of a disassembler for Little Computer 3 (LC-3) binaries written in Haskell. Because LC-3 object files intermix raw instructions and data without section or symbol tables, the disassembler employs a multi-pass heuristic approach that performs unambiguous decoding, speculative context-based decoding, data cleanup, and label insertion.</p><p>The walkthrough covers setting up mutable vectors and strict ST monads in Haskell, utilizing type-safe bit matching with GHC pattern synonyms, and parsing binary formats to reconstruct readable textual assembly.</p>
-<p><small>Links: <a href="https://abhinavsarkar.net/posts/lc3-disassembler/">abhinavsarkar.net</a> | <a href="https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell">lobsters</a></small></p>
 <br clear="all" />
 
 ---
