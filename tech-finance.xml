@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-02T18:44:00+00:00</updated>
+  <updated>2026-11-02T21:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>BYD Reports Record 300,000 Monthly Electric Vehicle Sales in October</title>
+    <link href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/" rel="alternate" />
+    <id>https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/::v240</id>
+    <published>2026-11-02T21:39:00+00:00</published>
+    <updated>2026-11-02T21:39:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FBYD-EV-sales-October-record.jpeg%3Fquality%3D82%26strip%3Dall%26w%3D1400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/">electrek.co</a> | <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1101/2026110100043.pdf">www1.hkexnews.hk</a> | <a href="https://news.ycombinator.com/item?id=50344181">hacker news</a></small></p><hr/><p>BYD sold 305,743 battery electric vehicles in October 2026, marking a 37% year-over-year increase and the first time the company's monthly EV sales crossed the 300,000 threshold. Total new energy vehicle sales, including plug-in hybrids, reached 490,168 units, representing an 11% rise from the previous year.</p><p>The company's monthly EV sales figure exceeded total US electric vehicle sales for the entire third quarter of 2026, which estimates place at approximately 262,500 units. BYD exported 170,194 vehicles during October as part of its ongoing international expansion across Europe, Southeast Asia, and the Americas, pushing total year-to-date exports past 1.5 million.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FBYD-EV-sales-October-record.jpeg%3Fquality%3D82%26strip%3Dall%26w%3D1400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 23:23 UTC | #26236</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Reports Nearly $17 Billion in Q3 Revenue Ahead of IPO</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo" rel="alternate" />

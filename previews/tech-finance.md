@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>BYD Reports Record 300,000 Monthly Electric Vehicle Sales in October</h2>
+<a name="story-26236"><img src="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FBYD-EV-sales-October-record.jpeg%3Fquality%3D82%26strip%3Dall%26w%3D1400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>BYD sold 305,743 battery electric vehicles in October 2026, marking a 37% year-over-year increase and the first time the company's monthly EV sales crossed the 300,000 threshold. Total new energy vehicle sales, including plug-in hybrids, reached 490,168 units, representing an 11% rise from the previous year.</p><p>The company's monthly EV sales figure exceeded total US electric vehicle sales for the entire third quarter of 2026, which estimates place at approximately 262,500 units. BYD exported 170,194 vehicles during October as part of its ongoing international expansion across Europe, Southeast Asia, and the Americas, pushing total year-to-date exports past 1.5 million.</p>
+<p><small>Links: <a href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/">electrek.co</a> | <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1101/2026110100043.pdf">www1.hkexnews.hk</a> | <a href="https://news.ycombinator.com/item?id=50344181">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Anthropic Reports Nearly $17 Billion in Q3 Revenue Ahead of IPO</h2>
 <a name="story-26192"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopt-image.teamblind.com%2Fuploads%2Fatch_img%2F499%2Fc58085512685b691d8528a46d9aef15f_res.jpeg%3Fwidth%3D1200%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic PBC reported third-quarter revenue of nearly $17 billion as of September 30, marking a twelve-fold increase compared to the same period a year prior. In an amended S-1 filing with the U.S. Securities and Exchange Commission, the artificial intelligence company also disclosed a net loss of $23.3 billion alongside operating expenses surging 292% to $17.5 billion.</p><p>The financial disclosures arrive as the company prepares for a heavily anticipated initial public offering. While top-line revenue has accelerated dramatically, the figures underscore the immense capital outlays and computing commitments required to scale operations and compete in the generative artificial intelligence market.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26083"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fneuroxess-achieves-milestones-brain-computer-interface-trials-decoding-movements-cc03db4b%2F29739797a2fad0f57ab39b0451e39c2fa51c2d30a769b2f01d7c609353b3056f.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Shanghai-based brain-computer interface startup NeuroXess has closed a Series B funding round of RMB 700 million, approximately $105 million. The financing round was co-led by SDIC Juli, Shenzhen Capital Group, and Qinzhi Capital.</p><p>The company is developing implantable BCI technology designed for movement support, speech decoding, and the control of external devices. The new capital will be used to support clinical trials, regulatory approval processes, manufacturing capabilities, and artificial intelligence integration.</p>
 <p><small>Links: <a href="https://technode.com/">technode.com</a> | <a href="https://news.ycombinator.com/item?id=50026463">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Guidewire to Acquire Insurance Software Firm Hyperexponential for $1.7 Billion</h2>
-<a name="story-26080"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.sphereinc.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAutomated-Insurance-Underwriting-Using-AI-Solutions.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Insurance platform provider Guidewire has signed a definitive agreement to acquire London-based Hyperexponential for a base purchase price of $1.7 billion in cash. The transaction, announced on October 27, 2026, includes up to an additional $400 million in contingent consideration based on specific recurring revenue targets.</p><p>Hyperexponential specializes in AI-native pricing and underwriting software designed for commercial property and casualty insurers. The acquisition is structured to position Guidewire to expand its capabilities and support the industry's shift toward agentic underwriting technology.</p>
-<p><small>Links: <a href="https://www.reuters.com/legal/litigation/guidewire-buy-uk-insurance-ai-firm-hyperexponential-deal-worth-up-21-billion-2026-10-27/">reuters.com</a> | <a href="https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential">guidewire.com</a></small></p>
 <br clear="all" />
 
 ---
