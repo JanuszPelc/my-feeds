@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>San Francisco Tech Workers Face High-Stakes Dating Scene During A.I. Boom</h2>
+<a name="story-26146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F31%2Fmultimedia%2F31BIZ-SF-DATING-1-03-mwjv%2F31BIZ-SF-DATING-1-03-mwjv-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>San Francisco’s artificial intelligence boom is transforming the city's dating culture, with young start-up founders and engineers approaching romantic encounters with intense professional scrutiny.</p><p>Driven by grueling work schedules and high-stakes ambitions, tech workers are going out less frequently and bringing rigorous criteria—such as elite academic backgrounds and family health histories—to their dates, effectively turning casual meetings into interviews.</p>
+<p><small>Links: <a href="https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html?unlocked_article_code=1.NFE.wr2v.F_Wy3TSgmnjB&smid=url-share">nytimes.com</a></small></p>
+<br clear="all" />
+
 <h2>Seoul Viosys Begins Mass Production of Rare-Earth-Free WICOP 3 White LEDs</h2>
 <a name="story-26150"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.seoulviosys.com%2Fupload%2Fseditor%2Fjpn%280%29.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Seoul Viosys has begun mass production of its WICOP 3 white light emitter, a package-free LED chip that operates without rare-earth materials. Measuring as small as 10 micrometers, the technology generates white light directly from gallium nitride, eliminating the YAG layers, synthetic silicone resins, and plastics used in conventional LEDs.</p><p>The company reports that the new chips reduce manufacturing costs by approximately 50 percent and achieve a luminous efficacy close to 100 lumens per watt, with goals to reach 200 lumens per watt within two years. Seoul Group is targeting applications in augmented reality displays and high-speed optical data communications for AI systems, aiming to replace copper wiring and traditional lighting fixtures.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26017"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F06%2FGlobal-AI-Debt-Boom.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Neocloud providers CoreWeave, Nebius, and Nscale have faced significant challenges in the bond market as lenders and investors demand stricter terms and higher yields. The tightening credit conditions reflect growing caution among financial institutions regarding the massive capital expenditures required for artificial intelligence data center expansions.</p><p>The shift follows a period of heavy debt issuance by AI infrastructure companies seeking to fund expensive hardware and facility build-outs. As credit risks and debt loads increase, lenders are scrutinizing the financial viability and revenue concentration of these firms, creating a potential bottleneck for the broader artificial intelligence industry.</p>
 <p><small>Links: <a href="https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?st=7gB5bX&reflink=desktopwebshare_permalink">wsj.com</a></small></p>
-<br clear="all" />
-
-<h2>S&amp;P Global Ratings Revises Meta Platforms Outlook to Negative Over AI Spending Concerns</h2>
-<a name="story-26018"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FUSA-TECH%2Fbyprbobqjpe%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>S&amp;P Global Ratings lowered its outlook on Meta Platforms from stable to negative while maintaining the company's AA- credit rating, citing mounting uncertainty over elevated capital expenditures and negative free cash flow. The rating agency questioned Meta's ability to monetize its artificial intelligence investments relative to peers given rapidly rising infrastructure and data center costs.</p><p>Meta pushed back against the assessment, stating that it sees strong product and business opportunities ahead that support its overall credit profile. The outlook revision follows Meta's third-quarter report projecting full-year capital expenditures between $135 billion and $145 billion, alongside negative free cash flow of $2.12 billion and plans to raise $95 billion to fund its AI initiatives.</p>
-<p><small>Links: <a href="https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html">cnbc.com</a> | <a href="https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3652896">spglobal.com</a></small></p>
 <br clear="all" />
 
 ---

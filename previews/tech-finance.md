@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Bites Raises $40 Million Series A to Expand Frontline AI Training Platform</h2>
+<a name="story-26143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.calcalist.co.il%2Fpicserver3%2Fcrop_images%2F2026%2F10%2F29%2FH1CBoYxTMl%2FH1CBoYxTMl_0_0_3000_2000_0_x-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bites, an AI-powered training platform designed for deskless and frontline employees, has raised $40 million in a Series A funding round led by PeakSpan Capital, bringing its total funding to $55 million. The platform converts standard company operating procedures and documents into short, branded microlearning videos delivered through familiar channels such as WhatsApp, Microsoft Teams, and Slack.</p><p>The company plans to use the fresh capital to accelerate its expansion in the United States, grow its sales and customer success teams, and develop tools that link training metrics directly to business outcomes. Founded in 2020, Bites currently serves major global enterprises including Unilever, Coca-Cola, and Shake Shack, addressing a deskless workforce segment that accounts for an estimated 80% of the global workforce.</p>
+<p><small>Links: <a href="https://www.calcalistech.com/ctechnews/article/s1t5soetmx">calcalistech.com</a></small></p>
+<br clear="all" />
+
 <h2>Casap Raises $56 Million in Series B Funding for Financial AI Platform</h2>
 <a name="story-26138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2024%2F09%2FFunding-News-Tetrix-Secures-5-Mn-Seed-Funding.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Financial AI startup Casap has raised $56 million in a Series B funding round led by Base10 Partners, bringing its total funding to $90 million since its 2023 launch. The round included strategic investments from Synchrony and Experian, alongside continued support from existing backers like Lightspeed Venture Partners and Emergence.</p><p>The company develops automated tools designed to help banks and card issuers handle customer disputes, chargebacks, and first-party fraud, where cardholders falsely dispute legitimate transactions. According to Casap, its platform helps financial institutions reduce first-party fraud losses and accelerate the dispute resolution process using specialized AI workflows.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26004"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F06%2F18110400%2Fhttps-www-citybiz-co-wp-content-uploads-2026-06-baseten-jpg-800x420.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence infrastructure startup Baseten is reportedly raising approximately $2 billion across two funding tranches, which would value the company at up to $30 billion. According to individuals familiar with the matter, the capital raise features valuations split into $26 billion and $30 billion tiers.</p><p>This potential valuation marks a rapid escalation for the firm, which was valued at $13 billion following a $1.5 billion funding round in June 2026. Baseten operates in the AI inference sector, providing serverless backend infrastructure to power machine learning models at scale for corporate clients.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Reddit Shares Fall 29% Following Weak Q4 Sales Outlook</h2>
-<a name="story-25986"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FReddit-Total-Revenue_2026-01-06-033519_zojl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Reddit shares fell 29.22% on Friday, the company's largest single-day drop since its 2024 IPO, following a weak sales forecast. The company projected fourth-quarter sales between $1 billion and $1.03 billion, falling below the $1.05 billion anticipated by analysts.</p><p>CEO Steve Huffman attributed a decline in search-referral traffic to the rise of Google's AI Overviews. To combat these shifts in traffic and improve user monetization, Reddit announced plans to test a requirement for users to log in to access content.</p>
-<p><small>Links: <a href="https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html">cnbc.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">investor.redditinc.com</a></small></p>
 <br clear="all" />
 
 ---

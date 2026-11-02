@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-02T04:55:00+00:00</updated>
+  <updated>2026-11-02T08:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>San Francisco Tech Workers Face High-Stakes Dating Scene During A.I. Boom</title>
+    <link href="https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html?unlocked_article_code=1.NFE.wr2v.F_Wy3TSgmnjB&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html?unlocked_article_code=1.NFE.wr2v.F_Wy3TSgmnjB&amp;smid=url-share::v240</id>
+    <published>2026-11-02T08:47:00+00:00</published>
+    <updated>2026-11-02T08:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F31%2Fmultimedia%2F31BIZ-SF-DATING-1-03-mwjv%2F31BIZ-SF-DATING-1-03-mwjv-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html?unlocked_article_code=1.NFE.wr2v.F_Wy3TSgmnjB&smid=url-share">nytimes.com</a></small></p><hr/><p>San Francisco’s artificial intelligence boom is transforming the city's dating culture, with young start-up founders and engineers approaching romantic encounters with intense professional scrutiny.</p><p>Driven by grueling work schedules and high-stakes ambitions, tech workers are going out less frequently and bringing rigorous criteria—such as elite academic backgrounds and family health histories—to their dates, effectively turning casual meetings into interviews.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F31%2Fmultimedia%2F31BIZ-SF-DATING-1-03-mwjv%2F31BIZ-SF-DATING-1-03-mwjv-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 16:18 UTC | #26146</small>]]></content>
+  </entry>
   <entry>
     <title>Seoul Viosys Begins Mass Production of Rare-Earth-Free WICOP 3 White LEDs</title>
     <link href="https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml" rel="alternate" />

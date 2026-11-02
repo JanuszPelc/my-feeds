@@ -3,9 +3,27 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-02T04:58:00+00:00</updated>
+  <updated>2026-11-02T07:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>University of Vienna Researchers Reveal Genetic Connections Across Ice Age Europe</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261031221153.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261031221153.htm::v240</id>
+    <published>2026-11-02T07:31:00+00:00</published>
+    <updated>2026-11-02T07:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvtwp-media.s3-accelerate.amazonaws.com%2F2022%2F03%2FGenetic-History-Europeans.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261031221153.htm">sciencedaily.com</a> | <a href="https://www.science.org/doi/10.1126/sciadv.aeh6128">science.org</a></small></p><hr/><p>Genetic analysis of ancient human remains and cave sediments from the Gravettian culture indicates that eastern and western European populations were significantly more interconnected than previously believed more than 30,000 years ago. Researchers examined a genome from a 30,000-year-old woman in southwestern France's Isturitz Cave, uncovering an unexpected combination of western and central-eastern European ancestry that points to early gene flow across vast distances.</p><p>Published in Science Advances, the findings also demonstrate that certain regional populations in southwestern Europe maintained continuous genetic lineages through the Last Glacial Maximum, supporting the Iberian Peninsula's role as a glacial refuge. Furthermore, the recovery of nuclear DNA directly from cave sediments at sites like El Mirón Cave enables scientists to track prehistoric population histories even when physical human remains are absent.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvtwp-media.s3-accelerate.amazonaws.com%2F2022%2F03%2FGenetic-History-Europeans.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 16:17 UTC | #26187</small>]]></content>
+  </entry>
+  <entry>
+    <title>NASA Hubble and Webb Telescopes Discover Distant Trans-Neptunian Objects</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261031221209.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261031221209.htm::v240</id>
+    <published>2026-11-02T06:18:00+00:00</published>
+    <updated>2026-11-02T06:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.science.nasa.gov%2Fdynamicimage%2Fassets%2Fscience%2Fmissions%2Fhubble%2Freleases%2F2010%2F09%2FSTScI-01EVVD525Z3VHKE39B2JB3E6KV.tif%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261031221209.htm">sciencedaily.com</a> | <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/">science.nasa.gov</a></small></p><hr/><p>Astronomers using data from NASA's Hubble and James Webb Space Telescopes have discovered 27 previously unknown trans-Neptunian objects orbiting beyond Neptune. These tiny, faint bodies—spanning dynamically hot and cold populations—exhibit surface colors and characteristics that mirror larger objects, providing clues about the earliest stages of planet formation.</p><p>The observations revealed an unexpected shortage of very small objects compared to theoretical models and showed that both hot and cold populations share similar size distributions despite forming in different regions. The preservation of surface traits suggests these ancient remnants have experienced fewer collisional modifications than previously expected, retaining records of early solar system conditions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.science.nasa.gov%2Fdynamicimage%2Fassets%2Fscience%2Fmissions%2Fhubble%2Freleases%2F2010%2F09%2FSTScI-01EVVD525Z3VHKE39B2JB3E6KV.tif%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 16:16 UTC | #26186</small>]]></content>
+  </entry>
   <entry>
     <title>OEIS Announces Winners of 400k Sequence Celebration</title>
     <link href="https://oeis.org/wiki/A400K_Winners" rel="alternate" />

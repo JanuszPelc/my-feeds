@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>TouchMachines Releases Terrarium Generative World Synthesizer</h2>
+<a name="story-26154"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fterrarium-kvr-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>TouchMachines has released Terrarium, a generative world synthesizer designed for desktop systems, alongside Terrarium Machine for iOS devices. The instrument continuously generates ambient environmental sounds including wind, rain, insects, water, and road noise based on a seed rather than looping audio, allowing users to manipulate elements directly or shift weather conditions.</p><p>The software features six distinct environmental worlds, 16 musical scales, 11 tuning systems, and a global climate control to adjust intensity. It also includes MIDI and OSC output capabilities that transmit note data and control signals from environmental layers, enabling external hardware integration and synchronized lighting rigs. The desktop version is available as a VST3, AU, and standalone application for $19.99, while the iOS version operates as an AUv3 and standalone app for $9.99.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/touchmachines-releases-terrarium---generative-world-synthesizer-you-play-by-grabbing-the-weather-vst3-au-standalone-ios-69565?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69565">kvraudio.com</a> | <a href="https://www.touchmachines.com/">touchmachines.com</a></small></p>
+<br clear="all" />
+
 <h2>PSP Audioware Releases ClassicQlite Free British-Style EQ Plugin</h2>
 <a name="story-26142"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprojectofnapskint.com%2Fwp-content%2Fuploads%2F2026%2F02%2F20260211PSP-Tilt-Q-title.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PSP Audioware has released PSP ClassicQlite, a free equalizer plugin for macOS and Windows inspired by vintage British mixing consoles and early Neve equalizers. The plugin is designed to deliver classic character and warmth for music production and mixing workflows.</p><p>Available in standard plugin formats, the software provides producers with an accessible hardware-inspired equalization tool. The release expands PSP Audioware's catalog of vintage-emulating audio processors available to the production community.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26048"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FZL-Audio-Launches-Free-ZL-Compressor-Plugin-2048x1072.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ZL Audio has released ZL Limiter, a free and open-source audio limiter plugin available for Windows, macOS, and Linux. The software features True Peak limiting and oversampling up to 32x to help control inter-sample peaks and reduce aliasing during audio production.</p><p>The plugin is provided in common formats like VST3, Audio Unit, and LV2 to accommodate various digital audio workstations. Developed as an open-source tool, its source code and packaging are hosted on GitHub for user inspection and community contribution.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/zl-audio-releases-zl-limiter-a-free-limiter-for-windows-macos-and-linux/">bedroomproducersblog.com</a> | <a href="https://zl-audio.github.io/plugins/zllimiter/">zl-audio.github.io</a></small></p>
-<br clear="all" />
-
-<h2>NeuSynth Mac Plugin Released for Exploring Alternative Instrument Stems</h2>
-<a name="story-26043"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2023%2F09%2Fremix-plugin%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>NeuSynth is a macOS audio plugin designed to help producers test alternative instrument parts against an existing track. Users drag up to 60 seconds of audio from their digital audio workstation into the plugin, select instrument categories, provide reference tracks, or describe desired parts using text prompts.</p><p>The plugin generates four distinct variation sets, each delivered as separate WAV files that can be previewed in context and dragged directly into a project session. NeuSynth operates on a credit-based system, offering a free trial alongside monthly subscription plans and top-up options for commercial use.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/neusynth/">bedroomproducersblog.com</a> | <a href="https://www.neusynth.com/">neusynth.com</a></small></p>
 <br clear="all" />
 
 ---
