@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-02T18:42:00+00:00</updated>
+  <updated>2026-11-02T21:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Putin Orders Private Data Centers in Russia to Reserve 10% Capacity for State IT</title>
+    <link href="https://www.reuters.com/technology/putin-orders-private-data-centres-set-aside-10-capacity-support-it-2026-11-02/" rel="alternate" />
+    <id>https://www.reuters.com/technology/putin-orders-private-data-centres-set-aside-10-capacity-support-it-2026-11-02/::v240</id>
+    <published>2026-11-02T21:40:00+00:00</published>
+    <updated>2026-11-02T21:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsyaala.com%2Fimages%2Fpre-engineered%2Fsyaala-internalcontainer.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/technology/putin-orders-private-data-centres-set-aside-10-capacity-support-it-2026-11-02/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50340486">hacker news</a></small></p><hr/><p>Russian President Vladimir Putin has signed a decree requiring owners of non-state data centers to reserve 10% of their space and capacity to support the country's IT infrastructure and state information resources. The measure follows recent Ukrainian drone attacks on Russian facilities and growing concerns over the security of domestic digital networks.</p><p>Under the directive, commercial data center operators must set aside the required capacity to ensure critical online resources remain operational in the event of disruptions or emergencies. The decision builds on recent recommendations from Russia's Ministry of Digital Development aimed at fortifying digital infrastructure against aerial threats.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsyaala.com%2Fimages%2Fpre-engineered%2Fsyaala-internalcontainer.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 23:36 UTC | #26202</small>]]></content>
+  </entry>
   <entry>
     <title>Voters Encounter AI-Generated 'I Voted' Stickers in 2026 Elections</title>
     <link href="https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/" rel="alternate" />
