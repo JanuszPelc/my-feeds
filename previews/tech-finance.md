@@ -8,10 +8,28 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Casap Raises $56 Million in Series B Funding for Financial AI Platform</h2>
+<a name="story-26138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2024%2F09%2FFunding-News-Tetrix-Secures-5-Mn-Seed-Funding.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Financial AI startup Casap has raised $56 million in a Series B funding round led by Base10 Partners, bringing its total funding to $90 million since its 2023 launch. The round included strategic investments from Synchrony and Experian, alongside continued support from existing backers like Lightspeed Venture Partners and Emergence.</p><p>The company develops automated tools designed to help banks and card issuers handle customer disputes, chargebacks, and first-party fraud, where cardholders falsely dispute legitimate transactions. According to Casap, its platform helps financial institutions reduce first-party fraud losses and accelerate the dispute resolution process using specialized AI workflows.</p>
+<p><small>Links: <a href="https://fortune.com/2026/10/28/dd/">fortune.com</a> | <a href="https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html">prnewswire.com</a></small></p>
+<br clear="all" />
+
+<h2>Vera Health Secures $28.5M Series A Funding for AI Clinical Search Engine</h2>
+<a name="story-26135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2F6nRWb0cWxiNJ5q3JQzyDYmYAhCU.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Clinical artificial intelligence search engine Vera Health has secured $28.5 million in a Series A funding round led by Threshold Ventures, bringing its total funding to $32 million. The financing included participation from Optum Ventures, Mantis VC, and SV Angel, alongside existing investors Y Combinator and Gradient.</p><p>Vera Health's platform scans over 60 million peer-reviewed publications, clinical guidelines, and drug labels to help healthcare professionals assess medical evidence at the point of care. The company reports that more than 800,000 clinicians across 190 countries use its search tool, and it plans to use the new capital to invest in its evidence infrastructure, team expansion, and international growth.</p>
+<p><small>Links: <a href="https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine">fiercehealthcare.com</a> | <a href="https://www.prnewswire.com/news-releases/vera-health-quietly-became-one-of-the-worlds-most-used-clinical-tools-now-it-has-raised-32-million-to-give-every-clinician-in-the-world-the-best-medical-knowledge-in-seconds-302920905.html">prnewswire.com</a></small></p>
+<br clear="all" />
+
+<h2>Midstream Health Raises $20 Million Series A Funding Led by Valtruis</h2>
+<a name="story-26134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2026%2F10%2Fc261c0d7-a9bb-4e0f-80d8-f5a9aebb7ac0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Midstream Health, an autonomous financial operations platform for health systems, has raised $20 million in a Series A funding round led by Valtruis. The investment brings the company's total funding to $29.2 million, with continued participation from existing backers including Andreessen Horowitz, Foundry, and CommonSpirit Ventures.</p><p>The company's AI tools are deployed across 250 hospitals—representing more than $100 billion in annual operating expenses—to help identify and recover revenue lost to payer underpayments, missed rebates, and billing errors. Midstream Health plans to use the new capital to scale its platform and expand its customer network across the United States.</p>
+<p><small>Links: <a href="https://www.axios.com/pro/health-tech-deals/2026/10/29/midstream-health-20m-revenue-recovery">axios.com</a> | <a href="https://www.businesswire.com/news/home/20261029125501/en/Midstream-Health-Raises-$20M-Series-A-to-Strengthen-the-Financial-Sustainability-of-Americas-Health-Systems">businesswire.com</a></small></p>
+<br clear="all" />
+
 <h2>Hex Technologies Raises $100 Million Series D at $1.2 Billion Valuation for AI Analytics Platform</h2>
 <a name="story-26133"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F10%2F28115619%2Flibrary-hex-raises-100-million-series-d-at-1-2-billion-valuation-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Data analytics provider Hex Technologies has raised $100 million in a Series D funding round at a post-money valuation of $1.2 billion. Co-led by Peak XV and 137 Ventures, the financing includes participation from institutional investors including Andreessen Horowitz, Sequoia Capital, and Amplify Partners.</p><p>Alongside the funding announcement, the company unveiled Hex 4.0, featuring a ground-up platform rebuild designed specifically for AI agents and collaborative data science workflows. The new capital will support the expansion of its agent-native analytics infrastructure following a period of strong enterprise growth.</p>
-<p><small>Links: <a href="https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/">forbes.com</a> | <a href="https://hex.tech/blog/hex-new-ear/">hex.tech</a></small></p>
+<p><small>Links: <a href="https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/">forbes.com</a> | <a href="https://hex.tech/blog/hex-new-ear/">hex.tech</a> | <a href="https://news.ycombinator.com/item?id=50265413">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Broccoli AI Raises $52 Million in Series A and B Funding Led by Khosla Ventures</h2>
@@ -78,23 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25986"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FReddit-Total-Revenue_2026-01-06-033519_zojl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reddit shares fell 29.22% on Friday, the company's largest single-day drop since its 2024 IPO, following a weak sales forecast. The company projected fourth-quarter sales between $1 billion and $1.03 billion, falling below the $1.05 billion anticipated by analysts.</p><p>CEO Steve Huffman attributed a decline in search-referral traffic to the rise of Google's AI Overviews. To combat these shifts in traffic and improve user monetization, Reddit announced plans to test a requirement for users to log in to access content.</p>
 <p><small>Links: <a href="https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html">cnbc.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">investor.redditinc.com</a></small></p>
-<br clear="all" />
-
-<h2>Big Tech Companies Return Smallest Share of Cash to Shareholders in 15 Years</h2>
-<a name="story-25989"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft, Alphabet, Amazon, Meta, and Oracle distributed only 9.3% of their generated cash to shareholders in the first three quarters of 2026. This proportion is the lowest in 15 years, occurring even as these companies reached record cash generation levels.</p><p>The drop from 27.4% in 2025 is driven by heavy capital expenditures on artificial intelligence infrastructure. Although operating cash flow rose 29% to $542.9 billion, the intense AI spending cycle has significantly reduced the cash available for dividends and buybacks.</p>
-<p><small>Links: <a href="https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/">reuters.com</a></small></p>
-<br clear="all" />
-
-<h2>Salesforce Acquires Rune Technologies for $375 Million</h2>
-<p>Salesforce is acquiring defense technology startup Rune Technologies for $375 million in a combination of cash and shares. Rune develops AI-driven software, including the TyrOS platform, designed to optimize military logistics and supply chain operations for frontline units.</p><p>The acquisition is intended to expand Salesforce's Missionforce AI platform from back-office administrative and strategic planning into tactical edge operations. This move follows a series of large acquisitions by Salesforce and highlights the company's growing investment in the defense technology market.</p>
-<p><small>Links: <a href="https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/">resiliencemedia.co</a> | <a href="https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/">salesforce.com</a></small></p>
-<br clear="all" />
-
-<h2>Salesforce to Acquire Rune Technologies for Defense Portfolio</h2>
-<a name="story-25970"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tectonicdefense.com%2Fwp-content%2Fuploads%2F2026%2F10%2Frunetyros.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Salesforce has signed a definitive agreement to acquire Rune Technologies, a defense technology provider specializing in military logistics and sustainment software and hardware. The acquisition aims to bolster Salesforce's national security-focused Missionforce unit, which targets government and defense clients.</p><p>Rune's artificial intelligence tools are already utilized by the U.S. Army and Marine Corps to forecast supply needs and optimize resources in low-connectivity combat environments. Financial terms of the transaction were not publicly disclosed as the company integrates the defense startup into its federal operations.</p>
-<p><small>Links: <a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/29/salesforce-rune-defense">axios.com</a> | <a href="https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/">salesforce.com</a></small></p>
 <br clear="all" />
 
 ---

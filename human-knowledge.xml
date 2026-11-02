@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-01T18:29:00+00:00</updated>
+  <updated>2026-11-02T04:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>OEIS Announces Winners of 400k Sequence Celebration</title>
+    <link href="https://oeis.org/wiki/A400K_Winners" rel="alternate" />
+    <id>https://oeis.org/wiki/A400K_Winners::v240</id>
+    <published>2026-11-02T04:58:00+00:00</published>
+    <updated>2026-11-02T04:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2FTriangularNumber_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://oeis.org/wiki/A400K_Winners">oeis.org</a> | <a href="https://lobste.rs/s/reerrq/a400000_winners">lobsters</a></small></p><hr/><p>The On-Line Encyclopedia of Integer Sequences (OEIS) has announced the winning entries for its 400k celebration, which drew well over 100 nominations spanning diverse mathematical topics. Eric Fox secured the top prize with the city-building sequence, in which the height of each building is determined by the exact number of earlier buildings it can see.</p><p>A selection committee comprising Sean A. Irvine, Jonas Karlsson, Hugo Pfoertner, and Neil J. A. Sloane also recognized ten runners-up and ten honorable mentions. These entries feature mathematical problems ranging from polyomino dissections and extremal set theory to novel twists on classic Hofstadter recurrences and chessboard knight configurations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2FTriangularNumber_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 13:44 UTC | #26153</small>]]></content>
+  </entry>
   <entry>
     <title>Frank Calegari Publishes Essay on Impact of Artificial Intelligence in Mathematics</title>
     <link href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/" rel="alternate" />
@@ -355,50 +364,5 @@
     <updated>2026-10-29T02:08:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F55%2F78%2Fc8%2F5578c8b4d8c1fb3883838733ed586231.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50281826">hacker news</a></small></p><hr/><p>Recent statements by prominent tech figures, including former Yahoo CEO Marissa Mayer and OpenAI CEO Sam Altman, regarding the use of artificial intelligence for parenting tasks and social connection have sparked widespread public backlash. Critics argue that these examples highlight a growing cultural disconnect between Silicon Valley leadership and the general public, where personal milestones and emotional relationships are viewed through the lens of efficiency and automation.</p><p>While tech executives defend their prototypes and visions as tests of emerging capabilities, public polling indicates deep skepticism regarding AI's impact on human relationships. Half of U.S. adults surveyed believe that artificial intelligence will diminish people's ability to form meaningful connections, contrasting sharply with industry leaders who envision AI filling significant gaps in human social and emotional needs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F55%2F78%2Fc8%2F5578c8b4d8c1fb3883838733ed586231.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 20:59 UTC | #25710</small>]]></content>
-  </entry>
-  <entry>
-    <title>Start Doing Graph Theory Free Introductory Textbook Released</title>
-    <link href="https://vertex.degree/" rel="alternate" />
-    <id>https://vertex.degree/::v240</id>
-    <published>2026-10-28T13:07:00+00:00</published>
-    <updated>2026-10-28T13:07:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://vertex.degree/">vertex.degree</a> | <a href="https://lobste.rs/s/46sc07/start_doing_graph_theory">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50208960">hacker news</a></small></p><hr/><p>Start Doing Graph Theory is a free introductory textbook designed to teach graph theory through puzzles, theorem-proving, and practical problem-solving. Written by Mikhail Lavrov, the comprehensive resource is available under a Creative Commons license for online reading or PDF download.</p><p>The text combines mathematical rigor with an accessible approach to help students learn foundational concepts. The author has also established a formal version history to track updates and revisions made to the material over time.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:35 UTC | #25719</small>]]></content>
-  </entry>
-  <entry>
-    <title>KAIST Researchers Develop Semiconductor Technique to Extend Anode-Free Battery Lifespan</title>
-    <link href="https://www.sciencedaily.com/releases/2026/10/261027063708.htm" rel="alternate" />
-    <id>https://www.sciencedaily.com/releases/2026/10/261027063708.htm::v240</id>
-    <published>2026-10-28T13:06:00+00:00</published>
-    <updated>2026-10-28T13:06:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fcrystals%2Fcrystals-12-01241%2Farticle_deploy%2Fhtml%2Fimages%2Fcrystals-12-01241-g007.png%3F1662113290&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063708.htm">sciencedaily.com</a> | <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.77931">advanced.onlinelibrary.wiley.com</a></small></p><hr/><p>Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed a new technique to extend the operating life of anode-free lithium metal batteries. By adapting precision manufacturing methods from the semiconductor industry, the team patterned microscopic tubes onto copper current collectors and applied an ultrathin MXene coating to promote uniform lithium deposition.</p><p>Anode-free batteries eliminate conventional anode materials like graphite to significantly reduce battery size and weight while increasing energy density, but they typically suffer from short lifespans caused by dendrite formation and surface degradation. The new 300-nanometer nanotubular structure quadruples the available surface area for lithium accumulation, while the MXene layer facilitates the formation of a protective, lithium-fluoride-rich solid electrolyte interphase that prevents damaging spikes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fcrystals%2Fcrystals-12-01241%2Farticle_deploy%2Fhtml%2Fimages%2Fcrystals-12-01241-g007.png%3F1662113290&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:33 UTC | #25682</small>]]></content>
-  </entry>
-  <entry>
-    <title>DreamAgainUSA Launches Interactive Wealth Inequality Graph</title>
-    <link href="https://dreamagainusa.org/" rel="alternate" />
-    <id>https://dreamagainusa.org/::v240</id>
-    <published>2026-10-28T13:01:00+00:00</published>
-    <updated>2026-10-28T13:01:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://dreamagainusa.org/">dreamagainusa.org</a> | <a href="https://news.ycombinator.com/item?id=50270764">hacker news</a></small></p><hr/><p>DreamAgainUSA has launched an interactive online visualization illustrating United States wealth inequality to scale. Based on data from the 2023 Survey of Consumer Finances and Federal Reserve financial accounts, the project maps household wealth percentiles using the visual metaphor of stacked $100 bills.</p><p>The platform enables users to scroll through the economic spectrum from the poorest households carrying debt to the top 0.01 percent. It provides downloadable printable versions and documentation of its methodology to facilitate public education and discussion regarding national wealth disparity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:18 UTC | #25713</small>]]></content>
-  </entry>
-  <entry>
-    <title>Fire Salamanders Found to Exhibit Biofluorescence Under Ultraviolet Light</title>
-    <link href="https://www.sciencedaily.com/releases/2026/10/261027063707.htm" rel="alternate" />
-    <id>https://www.sciencedaily.com/releases/2026/10/261027063707.htm::v240</id>
-    <published>2026-10-28T13:00:00+00:00</published>
-    <updated>2026-10-28T13:00:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.newscientist.com%2Fwp-content%2Fuploads%2F2026%2F06%2F03120209%2FSEI_299355853.jpg%3Fw%3D840&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063707.htm">sciencedaily.com</a> | <a href="https://royalsocietypublishing.org/rsos/article/13/5/251991/481938/Glandular-biofluorescence-in-fire-salamanders">royalsocietypublishing.org</a></small></p><hr/><p>Researchers have discovered that fire salamanders, one of Europe's most extensively studied amphibians, exhibit biofluorescence under ultraviolet light. The cyan and green glow is most pronounced on the animals' yellow body markings and within their skin gland secretions, which can remain fluorescent for over 24 hours after being released.</p><p>While the exact biological function of the glow remains under investigation, scientists hypothesize it could aid in nocturnal communication, mate recognition, or predator deterrence by enhancing their aposematic warning coloration. The phenomenon relies on an unidentified chemical compound within the skin and blood components, highlighting how advanced imaging continues to reveal hidden traits in familiar species.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.newscientist.com%2Fwp-content%2Fuploads%2F2026%2F06%2F03120209%2FSEI_299355853.jpg%3Fw%3D840&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:15 UTC | #25683</small>]]></content>
-  </entry>
-  <entry>
-    <title>Polish Academy of Sciences Researchers Analyze Artemis I Radiation Data Using Lithium Fluoride Detectors</title>
-    <link href="https://www.sciencedaily.com/releases/2026/10/261027063659.htm" rel="alternate" />
-    <id>https://www.sciencedaily.com/releases/2026/10/261027063659.htm::v240</id>
-    <published>2026-10-28T12:52:00+00:00</published>
-    <updated>2026-10-28T12:52:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.spacevoyaging.com%2Fwp-content%2Fuploads%2F2024%2F09%2FArtemisImannequins.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063659.htm">sciencedaily.com</a> | <a href="https://press.ifj.edu.pl/en/news/2026/10/22/">press.ifj.edu.pl</a></small></p><hr/><p>Researchers at the Institute of Nuclear Physics of the Polish Academy of Sciences have analyzed data collected by experimental lithium fluoride detectors aboard NASA’s uncrewed Artemis I mission. The compact detectors, placed inside human-shaped mannequins during the 2022 lunar flight, recorded cosmic radiation exposure and particle tracks using fluorescence microscopy without requiring chemical etching.</p><p>The findings indicate that radiation doses near the Moon are distributed more uniformly through the body than in low Earth orbit, where trapped protons from Earth's Van Allen belts create uneven exposure patterns. While total radiation levels near the Moon are higher due to galactic cosmic rays, the researchers observed that the overall increase is smaller than typically assumed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spacevoyaging.com%2Fwp-content%2Fuploads%2F2024%2F09%2FArtemisImannequins.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 15:38 UTC | #25681</small>]]></content>
   </entry>
 </feed>
