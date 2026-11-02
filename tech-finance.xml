@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-02T01:16:00+00:00</updated>
+  <updated>2026-11-02T02:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Broccoli AI Raises $52 Million in Series A and B Funding Led by Khosla Ventures</title>
+    <link href="https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/" rel="alternate" />
+    <id>https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/::v240</id>
+    <published>2026-11-02T02:16:00+00:00</published>
+    <updated>2026-11-02T02:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F10%2Farmstrong-plumb_6345e1.png%3Fformat%3Dwebp%26w%3D1440%26quality%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/">fortune.com</a> | <a href="https://www.accessnewswire.com/newsroom/en/business-and-professional-services/broccoli-raises-52m-led-by-khosla-ventures-to-help-home-services-1243378">accessnewswire.com</a></small></p><hr/><p>Home-services AI platform Broccoli AI has raised $52 million across Series A and Series B funding rounds led by Khosla Ventures, with participation from Y Combinator and Operator Partners. Founded by AJ Jain and Aditya Ketkar, the San Francisco-based startup provides AI agents that handle inbound phone calls, schedule appointments, and manage customer follow-ups for trade contractors such as plumbers, electricians, and HVAC providers.</p><p>The company’s development was closely shaped by Marcelle Flowers, a 62-year-old Sacramento plumbing business owner who became Broccoli AI's first customer, adviser, and chief operating officer after the founders made a cold call to her shop in 2024. Broccoli AI currently serves more than 1,500 businesses, has tripled its revenue since its Series A round, and plans to allocate the new capital toward expanding its engineering and sales teams.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F10%2Farmstrong-plumb_6345e1.png%3Fformat%3Dwebp%26w%3D1440%26quality%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 09:16 UTC | #26132</small>]]></content>
+  </entry>
   <entry>
     <title>Hyperbolic Raises $30 Million in Series A-1 Funding Led by Walden Catalyst</title>
     <link href="https://www.businessinsider.com/intel-ceo-backs-30-million-round-ai-cloud-startup-hyperbolic-2026-10" rel="alternate" />
