@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-02T21:58:00+00:00</updated>
+  <updated>2026-11-03T00:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>JS Barretto Discusses the 2015 Thinkpad X250</title>
+    <link href="https://blog.jsbarretto.com/post/laptop" rel="alternate" />
+    <id>https://blog.jsbarretto.com/post/laptop::v240</id>
+    <published>2026-11-03T00:39:00+00:00</published>
+    <updated>2026-11-03T00:39:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.jsbarretto.com%2Fimg%2Flaptop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.jsbarretto.com/post/laptop">blog.jsbarretto.com</a> | <a href="https://lobste.rs/s/ezg5mx/my_favourite_laptop">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50339815">hacker news</a></small></p><hr/><p>JS Barretto identifies the 2015 Thinkpad X250 as their preferred laptop, citing its compact form factor, lightweight build, and battery longevity. The device features an Intel i5-5200U processor and runs Endeavour OS for programming tasks.</p><p>The laptop's high repairability allows for simple component replacement, such as the keyboard or motherboard, using basic tools. Utilizing second-hand hardware is presented as a cost-effective alternative to modern consumer electronics and a way to resist high-consumption culture.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.jsbarretto.com%2Fimg%2Flaptop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 06:29 UTC | #26255</small>]]></content>
+  </entry>
   <entry>
     <title>`kill(1)` Parsing Bugs in `procps` Impact Ubuntu LTS Releases</title>
     <link href="https://alangrow.com/blog/a-decade-of-kill-bugs" rel="alternate" />
