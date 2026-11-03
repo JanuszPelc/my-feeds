@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-03T02:11:00+00:00</updated>
+  <updated>2026-11-03T03:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>DiscImageStudio Open-Source Tool Burns Visible Artwork Onto CDs, DVDs, and Blu-ray Discs</title>
+    <link href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio" rel="alternate" />
+    <id>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio::v240</id>
+    <published>2026-11-03T03:39:00+00:00</published>
+    <updated>2026-11-03T03:39:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.bgo.one%2Fnews-image%2F44208283_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio">github.com</a> | <a href="https://news.ycombinator.com/item?id=50346849">hacker news</a></small></p><hr/><p>DiscImageStudio is an open-source software utility that converts standard images into data aligned with the physical constraints of CDs, DVDs, and single-layer BD-R discs, enabling users to burn visible artwork directly onto disc surfaces. It provides a Windows desktop application featuring layer-based design tools, grayscale adjustment, and direct streaming or image export, alongside experimental command-line interfaces for Linux and macOS.</p><p>The application incorporates precise auxiliary calibration algorithms to correct track geometry, supports hybrid file directory mapping, and exports standard formats such as ISO, RAW, and WAV+CUE. Built on .NET 10, the tool references physical specifications from ECMA and ISO/IEC to accurately translate image pixels into physical disc tracks and error correction codes while operating offline without telemetry.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.bgo.one%2Fnews-image%2F44208283_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 10:57 UTC | #26270</small>]]></content>
+  </entry>
   <entry>
     <title>UJAM to Acquire Virharmonic Assets</title>
     <link href="https://www.kvraudio.com/news/ujam-signs-agreement-to-acquire-virharmonic-assets-69580?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69580" rel="alternate" />

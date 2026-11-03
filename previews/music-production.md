@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>DiscImageStudio Open-Source Tool Burns Visible Artwork Onto CDs, DVDs, and Blu-ray Discs</h2>
+<a name="story-26270"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.bgo.one%2Fnews-image%2F44208283_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DiscImageStudio is an open-source software utility that converts standard images into data aligned with the physical constraints of CDs, DVDs, and single-layer BD-R discs, enabling users to burn visible artwork directly onto disc surfaces. It provides a Windows desktop application featuring layer-based design tools, grayscale adjustment, and direct streaming or image export, alongside experimental command-line interfaces for Linux and macOS.</p><p>The application incorporates precise auxiliary calibration algorithms to correct track geometry, supports hybrid file directory mapping, and exports standard formats such as ISO, RAW, and WAV+CUE. Built on .NET 10, the tool references physical specifications from ECMA and ISO/IEC to accurately translate image pixels into physical disc tracks and error correction codes while operating offline without telemetry.</p>
+<p>Nov 3 · <a href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio">github.com</a> | <a href="https://news.ycombinator.com/item?id=50346849">hacker news</a></p>
+<br clear="all" />
+
 <h2>UJAM to Acquire Virharmonic Assets</h2>
 <a name="story-26247"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fect077mbq06qyf9jkd8bz1xqonwi&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UJAM Music Technology GmbH has signed a binding agreement to acquire the assets of Czech instrument developer Virharmonic s.r.o. The two companies have maintained a partnership for over seven years, during which Virharmonic utilized UJAM's Gorilla Engine to develop its expressive instrument plugins.</p><p>Virharmonic founder Ondrej Švec will retain creative direction for the brand and oversee the development of new instruments. Existing customers will maintain access to their products and continue to receive support through the Virharmonic website.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26156"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsunfish_screenshot.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software developer remaincalm has released Sunfish, a hybrid wavetable and virtual analog instrument plugin for Windows and macOS. Inspired by 1980s synthesizers such as the Korg Trident and ARP Quadra, the software incorporates modeled circuits from vintage home organs, string synths, and chiptune equipment.</p><p>In development since 2018, Sunfish features "The Morpher," a control mechanism designed to let users easily blend between different timbres. Available in VST3, AU, and AAX formats, the plugin is priced at $49, though the developer has introduced a temporary promotional discount across its entire product lineup alongside updates that add freely scalable user interfaces.</p>
 <p>Nov 2 · <a href="https://www.kvraudio.com/news/remaincalm-releases-sunfish-wavetable-enigma-instrument-plugin-aax-au-and-vst3-69551?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69551">kvraudio.com</a> | <a href="https://remaincalm.audio/plugins/sunfish/">remaincalm.audio</a></p>
-<br clear="all" />
-
-<h2>FabFilter Updates Twin 3 to Version 3.10 with MPE Support</h2>
-<a name="story-26071"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin-3-screenshot.1793477184.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>FabFilter has released Twin 3.10, a software synthesizer update introducing full MIDI Polyphonic Expression (MPE) and Note Expression support. The update enables per-note pitch bend and new Timbre and Lift input options for MIDI sources.</p><p>In addition to polyphonic expression features, version 3.10 includes over 200 new factory presets designed by bManic, Bigtone, and Christian Laffitte, with the existing preset library updated for out-of-the-box MPE compatibility. The release also resolves an arpeggiator bug that caused timing drift and repeated note triggering during heavy MIDI messaging. The update is free and backwards compatible for existing Twin 3 customers.</p>
-<p>Oct 31 · <a href="https://www.kvraudio.com/news/fabfilter-updates-twin-3-to-v3-10---mpe-support-and-over-200-new-presets-69548?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69548">kvraudio.com</a> | <a href="https://www.fabfilter.com/news/1793260800/twin-310-update-with-mpe-support">fabfilter.com</a></p>
 <br clear="all" />
 
 ---
