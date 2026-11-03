@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>DonutsDelivery Releases DonutStudio 0.9.0 Music and Video Workstation</h2>
+<a name="story-26319"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdonutstudio-090-glass-ring.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DonutsDelivery has released DonutStudio 0.9.0, a cross-platform music and video workstation designed for harmonic composition and microtonal tuning. The update introduces expanded Path Trace 3D rendering with GPU support, a Harmonic Guide for note editing, stem separation tools, and tempo detection capabilities.</p><p>Additional features in version 0.9.0 include per-note modulation routing, AI agent integration options such as Claude Desktop settings, and Lua tooling for track management. The software is available in free and Pro tiers as a standalone application, VST3 plugin, and CLAP plugin for Windows, macOS, and Linux.</p>
+<p>Nov 3 · <a href="https://www.kvraudio.com/news/donutsdelivery-releases-donutstudio-0-9-0-69592?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69592">kvraudio.com</a> | <a href="https://donutsdelivery.online/donutstudio">donutsdelivery.online</a></p>
+<br clear="all" />
+
 <h2>SMAOLAB Updates Akira-Filter Plugin to Version 2.0</h2>
 <a name="story-26275"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fakira-filter-version2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SMAOLAB has released version 2.0 of its Akira-Filter audio plugin, bringing a redesigned user interface, an integrated sound level meter, and a newly developed oversampling algorithm. The plugin supports VST3, AU, CLAP, and LV2 formats across Windows, macOS, and Linux.</p><p>The software is available in a fully functional free edition alongside a Pro tier priced at 12€. The Pro version introduces selectable filter slopes from LP6 to LP24 and a drift mode for subtle stereo artifacts, whereas the free version includes a single LP24 slope.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26142"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprojectofnapskint.com%2Fwp-content%2Fuploads%2F2026%2F02%2F20260211PSP-Tilt-Q-title.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PSP Audioware has released PSP ClassicQlite, a free equalizer plugin for macOS and Windows inspired by vintage British mixing consoles and early Neve equalizers. The plugin is designed to deliver classic character and warmth for music production and mixing workflows.</p><p>Available in standard plugin formats, the software provides producers with an accessible hardware-inspired equalization tool. The release expands PSP Audioware's catalog of vintage-emulating audio processors available to the production community.</p>
 <p>Nov 2 · <a href="https://bedroomproducersblog.com/2026/11/02/psp-audioware-releases-classicqlite-a-free-british-style-eq-plugin/">bedroomproducersblog.com</a></p>
-<br clear="all" />
-
-<h2>Tech Audio Updates Shrapnel to Version 1.1 with Free Preset Pack</h2>
-<a name="story-26155"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fshrapnel_1-1_presets.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tech Audio has released version 1.1 of Shrapnel, its physics-driven sampler and MIDI generator plugin for Windows and macOS. The update introduces a structured factory preset system with an info panel, startup preset selection, and expanded sample length support of up to 120 seconds.</p><p>Alongside the software update, the developer launched the Shrapnel Factory Pack, a free download containing 100 royalty-free presets across ten categories created by external sound designers. Version 1.1 also implements workflow enhancements including slower spawn rates down to 0.1 Hz, pitch-snapping configuration, and smoother voice stealing that fades out over collider fade times.</p>
-<p>Nov 2 · <a href="https://www.kvraudio.com/news/tech-audio-updates-shrapnel-to-v1-1-and-adds-a-free-100-preset-factory-pack-69566?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69566">kvraudio.com</a> | <a href="https://techaud.io/projects/shrapnel">techaud.io</a></p>
 <br clear="all" />
 
 ---
