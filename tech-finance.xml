@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-03T17:49:00+00:00</updated>
+  <updated>2026-11-03T18:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>CrowdStrike Agrees to Acquire AI Security Startups Fiddler AI and Dreadnode</title>
+    <link href="https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e" rel="alternate" />
+    <id>https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e::v240</id>
+    <published>2026-11-03T18:01:00+00:00</published>
+    <updated>2026-11-03T18:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhlSZiilfIqxd8NLAgUrBsPT8rRbHdChHNlc_Fy-lPOblDzUAKxihMDHvPbS2FC2Deo9kPKvxtW1a8q9L3v4Vb2iuBnYlMIqFYztC7h3EzVe1QtkVO73h7bs0_YhtALnWhHqCQs9NPzdPCjmPYGb9sN-ahZnzqWD_vPVR8rwU1b96_ylOM65h4-1I0iOms%2Fs512%2Funnamed%283%29.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e">wsj.com</a> | <a href="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-fiddler-to-deliver-agent-observability/">crowdstrike.com</a></small></p><hr/><p>CrowdStrike has agreed to acquire Fiddler AI for approximately $400 million and Dreadnode for approximately $95 million, primarily in cash. Fiddler AI provides monitoring capabilities for AI agents, while Dreadnode offers automated security testing tools for artificial intelligence systems.</p><p>The acquisitions come as organizations rapidly deploy AI agents ahead of establishing comprehensive security controls. By integrating these technologies into its Falcon platform, CrowdStrike aims to enhance enterprise visibility and trust in AI deployments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhlSZiilfIqxd8NLAgUrBsPT8rRbHdChHNlc_Fy-lPOblDzUAKxihMDHvPbS2FC2Deo9kPKvxtW1a8q9L3v4Vb2iuBnYlMIqFYztC7h3EzVe1QtkVO73h7bs0_YhtALnWhHqCQs9NPzdPCjmPYGb9sN-ahZnzqWD_vPVR8rwU1b96_ylOM65h4-1I0iOms%2Fs512%2Funnamed%283%29.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 21:53 UTC | #26293</small>]]></content>
+  </entry>
   <entry>
     <title>Corridian Emerges From Stealth With $38M Seed Funding for Undersea Logistics AUVs</title>
     <link href="https://www.axios.com/2026/11/03/corridian-seed-auv-new-england" rel="alternate" />

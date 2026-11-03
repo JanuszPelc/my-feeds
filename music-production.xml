@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-03T17:59:00+00:00</updated>
+  <updated>2026-11-03T18:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>A.O.M. Updates Audio Plugins to Version 1.18.10</title>
+    <link href="https://www.kvraudio.com/news/a-o-m-updates-their-plugins-to-v1-18-10-69593?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69593" rel="alternate" />
+    <id>https://www.kvraudio.com/news/a-o-m-updates-their-plugins-to-v1-18-10-69593?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69593::v240</id>
+    <published>2026-11-03T18:03:00+00:00</published>
+    <updated>2026-11-03T18:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftranquilizr-g2-2024-12-27.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/a-o-m-updates-their-plugins-to-v1-18-10-69593?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69593">kvraudio.com</a></small></p><hr/><p>A.O.M. has released version 1.18.10 of its audio plugin lineup, introducing a performance monitor display across all plugins alongside important bug fixes and installer changes. The update resolves an issue in WaveLab 13 where incorrect bus configurations were sent to the Nu Compressor and Track Symbiosis plugins, and fixes a macOS bug where disabled pop-up menu items were not correctly grayed out.</p><p>Additionally, the software installation process has been streamlined into a single package for all supported plugin formats. For macOS users, installer variants are now categorized by Intel and Apple Silicon architectures, with Intel builds officially requiring AVX2 instruction set support.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftranquilizr-g2-2024-12-27.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 21:54 UTC | #26313</small>]]></content>
+  </entry>
+  <entry>
+    <title>iZotope Launches Photon GPU-Accelerated Stem Separation and Denoising Tool</title>
+    <link href="https://musictech.com/news/gear/izotope-photon/" rel="alternate" />
+    <id>https://musictech.com/news/gear/izotope-photon/::v240</id>
+    <published>2026-11-03T18:02:00+00:00</published>
+    <updated>2026-11-03T18:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FiZotope-Photon-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/izotope-photon/">musictech.com</a> | <a href="https://izotope.com/products/photon">izotope.com</a></small></p><hr/><p>iZotope has introduced Photon, a standalone application and ARA2 plugin designed for AI-powered stem separation and audio cleanup. Powered by 12 custom-trained machine-learning models created in collaboration with parent company Boris FX, the software runs locally on a computer's GPU rather than processing files via the cloud.</p><p>The tool is divided into Demix and Denoise categories, enabling users to split musical tracks into multiple stems, extract individual drum elements, isolate multiple speakers, and remove background noise such as room reverb, traffic, and wind. Compatible with macOS and Windows, Photon supports hosts like Pro Tools, REAPER, and Cubase, and is priced at $349.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FiZotope-Photon-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 21:54 UTC | #26314</small>]]></content>
+  </entry>
   <entry>
     <title>Black Salt Audio Offers Low Control Bass Processor Free Until November 12</title>
     <link href="https://bedroomproducersblog.com/2026/11/03/black-salt-audio-low-control/" rel="alternate" />
