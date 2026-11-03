@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Examination of Early Unix Memory Allocation and Malloc History</h2>
 <a name="story-26221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnapcakes.nekoweb.org%2Fposts%2Fmalloc%2Funix-v4-tape.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of early Unix source code traces the evolution of memory allocation from primitive linear allocators in Unix Version 4 to explicit map-based memory management and eventual modern malloc implementations. Early Unix versions utilized straightforward linear allocation routines using sbrk without freeing memory, while kernel routines managed partitioned resources such as main memory and swap space using explicit resource maps.</p><p>The historical survey highlights how subsequent editions introduced allocation macros, size-computation shortcuts, and zero-initialization practices that predated or influenced modern language features like C++'s new operator. By examining historical source trees via the Unix Tree repository, the post documents the iterative design choices made by early Unix developers under strict hardware constraints.</p>
-<p>Nov 2 · <a href="https://napcakes.nekoweb.org/posts/malloc/">napcakes.nekoweb.org</a> | <a href="https://lobste.rs/s/ihqhia/lost_malloc">lobsters</a></p>
+<p>Nov 2 · <a href="https://napcakes.nekoweb.org/posts/malloc/">napcakes.nekoweb.org</a> | <a href="https://lobste.rs/s/ihqhia/lost_malloc">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50336148">hacker news</a></p>
 <br clear="all" />
 
 <h2>The Origins and Early Development of BSD Unix</h2>
