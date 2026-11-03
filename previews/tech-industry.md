@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Brookfield and Drax Group Plan £20 Billion AI Data Center in North Yorkshire</h2>
+<a name="story-26266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2FDrax-Targets-Data-Centre-Launch-at-Former-Coal-Site-by-2027-to-Feed-AI-Power-Demand.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Energy company Drax Group has partnered with Brookfield and its neocloud platform Radiant to develop a multibillion-pound artificial intelligence data center at the Drax Power Station estate in North Yorkshire. The project aims to deliver up to 100 megawatts of capacity starting in early 2028, with plans to scale up to over 1 gigawatt over the following years.</p><p>Brookfield estimates that total investment for the initiative, including semiconductors, could exceed £20 billion, supported by an initial phase-one investment of £2.5 billion. While the venture aims to provide British researchers and enterprises with domestic compute capacity, the initial phase remains subject to planning, regulatory, and grid connection approvals, as well as securing commercial tenants.</p>
+<p>Nov 3 · <a href="https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html">cnbc.com</a> | <a href="https://www.drax.com/news/drax-brookfield-and-radiant-announce-20bn-partnership-to-deliver-gw-scale-data-centre-capacity-at-drax-power-station/">drax.com</a></p>
+<br clear="all" />
+
 <h2>Apple May Boost Services Revenue via Third-Party AI Apps</h2>
 <a name="story-26245"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhpxwvv-S3aLivoBfRMITp32h_oA-9Mf9eZAxFhyphenhyphenmDsqiXyuHm7kX7y3a2uvsz2g9x6JQFLWXWegHuytB7MVu3K1P89kNXiCxc5zFBnCsI0bY5ebr38K_QlNAakc4xHCoQtkjmqTWHh8GBR3RCMjEaqQCqzbbS5Vi-O5wOQvur9C0O9aCG6fnpU7QSKrW8w%2Fs1730%2Fapps-ios18-sherlocks-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple may expand its services revenue through third-party AI applications and partnerships. CFO Kevan Parekh indicated that AI presents growth opportunities through both first-party capabilities and collaborations with external developers.</p><p>This potential strategy follows regulatory pressures and a slump in mobile gaming that have impacted App Store commissions. Some investors speculate Apple could monetize third-party AI agents by taking a revenue cut from those distributed through the App Store.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26174"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.monetaryelite.com%2Fwp-content%2Fuploads%2F2026%2F06%2F98c1649b-8a3e-42bf-99b2-f9190f46596a-1024x572.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic PBC plans to raise up to $3.5 billion from Japanese investors as part of its upcoming US initial public offering. The move allows Japanese investors direct access to the offering, joining Australia, Canada, and parts of Europe.</p><p>The fundraising plan follows Anthropic's public filing of its Form S-1 registration statement with the US Securities and Exchange Commission for its proposed stock listing. The company's financial disclosures leading up to the IPO have drawn significant attention from global markets.</p>
 <p>Nov 2 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>San Francisco Tech Workers Face High-Stakes Dating Scene During A.I. Boom</h2>
-<a name="story-26146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F31%2Fmultimedia%2F31BIZ-SF-DATING-1-03-mwjv%2F31BIZ-SF-DATING-1-03-mwjv-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>San Francisco’s artificial intelligence boom is transforming the city's dating culture, with young start-up founders and engineers approaching romantic encounters with intense professional scrutiny.</p><p>Driven by grueling work schedules and high-stakes ambitions, tech workers are going out less frequently and bringing rigorous criteria—such as elite academic backgrounds and family health histories—to their dates, effectively turning casual meetings into interviews.</p>
-<p>Nov 2 · <a href="https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html?unlocked_article_code=1.NFE.wr2v.F_Wy3TSgmnjB&smid=url-share">nytimes.com</a></p>
 <br clear="all" />
 
 ---

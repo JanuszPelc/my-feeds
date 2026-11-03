@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-03T04:36:00+00:00</updated>
+  <updated>2026-11-03T12:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Brookfield and Drax Group Plan £20 Billion AI Data Center in North Yorkshire</title>
+    <link href="https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html::v240</id>
+    <published>2026-11-03T12:40:00+00:00</published>
+    <updated>2026-11-03T12:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2FDrax-Targets-Data-Centre-Launch-at-Former-Coal-Site-by-2027-to-Feed-AI-Power-Demand.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html">cnbc.com</a> | <a href="https://www.drax.com/news/drax-brookfield-and-radiant-announce-20bn-partnership-to-deliver-gw-scale-data-centre-capacity-at-drax-power-station/">drax.com</a></small></p><hr/><p>Energy company Drax Group has partnered with Brookfield and its neocloud platform Radiant to develop a multibillion-pound artificial intelligence data center at the Drax Power Station estate in North Yorkshire. The project aims to deliver up to 100 megawatts of capacity starting in early 2028, with plans to scale up to over 1 gigawatt over the following years.</p><p>Brookfield estimates that total investment for the initiative, including semiconductors, could exceed £20 billion, supported by an initial phase-one investment of £2.5 billion. While the venture aims to provide British researchers and enterprises with domestic compute capacity, the initial phase remains subject to planning, regulatory, and grid connection approvals, as well as securing commercial tenants.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2FDrax-Targets-Data-Centre-Launch-at-Former-Coal-Site-by-2027-to-Feed-AI-Power-Demand.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 17:30 UTC | #26266</small>]]></content>
+  </entry>
   <entry>
     <title>Apple May Boost Services Revenue via Third-Party AI Apps</title>
     <link href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/" rel="alternate" />
