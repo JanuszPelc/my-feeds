@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 
 <h2>`kill(1)` Parsing Bugs in `procps` Impact Ubuntu LTS Releases</h2>
 <p>Multiple Ubuntu LTS releases, from version 14.04 to 24.04, have contained bugs in the `kill(1)` command within the `procps` package. These issues stem from the use of `getopt` for command-line parsing, which causes negative process group identifiers (pgids) to be incorrectly interpreted as unrecognized options. In some cases, this misparsing leads to signals being sent to all processes on a machine except for PID 1.</p><p>Four distinct bugs were identified where previous attempts to fix parsing errors introduced new issues like segmentation faults or unintended shell termination. Because `kill` arguments can function as either signal names, numbers, or PIDs, `getopt`'s handling of option bundling is problematic for this utility. Positional argument parsing, similar to the implementation in FreeBSD, is recommended to ensure more predictable behavior.</p>
-<p>Nov 2 · <a href="https://alangrow.com/blog/a-decade-of-kill-bugs">alangrow.com</a> | <a href="https://lobste.rs/s/wgoato/decade_kill_bugs">lobsters</a></p>
+<p>Nov 2 · <a href="https://alangrow.com/blog/a-decade-of-kill-bugs">alangrow.com</a> | <a href="https://lobste.rs/s/wgoato/decade_kill_bugs">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50348858">hacker news</a></p>
 <br clear="all" />
 
 <h2>Ahmad Elalfy Argues Against Hardcoded Timeouts in Development Tools</h2>
