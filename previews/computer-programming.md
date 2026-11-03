@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>An Introduction to Bε-trees and Write-Optimization</h2>
+<a name="story-26300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhazm.at%2Fmox%2Falgorithm%2Fstructural-algorithm%2Ftree%2Fb-epsilon-tree%2Fan-introduction-to-b-epsilon-trees-and-write-optimization%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Michael A. Bender and co-authors examine Bε-trees, write-optimized data structures designed to organize on-disk storage for file systems and databases. Providing a key-value API comparable to traditional B-trees, Bε-trees deliver enhanced performance for inserts, updates, and range queries.</p><p>The article contrasts the asymptotic performance and practical measurements of Bε-trees against standard B-trees and Log-Structured Merge trees (LSM-trees). It outlines how buffered internal nodes enable write efficiency, offering foundational insights to help developers design applications that maximize storage performance.</p>
+<p>Nov 3 · <a href="https://www.usenix.org/publications/login/oct15/bender">usenix.org</a> | <a href="https://lobste.rs/s/0ec9yk/introduction_b_trees_write_optimization">lobsters</a></p>
+<br clear="all" />
+
 <h2>JS Barretto Discusses the 2015 Thinkpad X250</h2>
 <a name="story-26255"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.jsbarretto.com%2Fimg%2Flaptop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>JS Barretto identifies the 2015 Thinkpad X250 as their preferred laptop, citing its compact form factor, lightweight build, and battery longevity. The device features an Intel i5-5200U processor and runs Endeavour OS for programming tasks.</p><p>The laptop's high repairability allows for simple component replacement, such as the keyboard or motherboard, using basic tools. Utilizing second-hand hardware is presented as a cost-effective alternative to modern consumer electronics and a way to resist high-consumption culture.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26126"><img src="https://wsrv.nl/?url=https%3A%2F%2Feva.ac%2Ffiles%2Fimg%2Fposts%2Fllms%2Ftailworm-skeet.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researcher Eva outlines her decision to avoid large language models for personal research and coding, emphasizing that manual exploration remains essential to her enjoyment of the field. She argues that offloading technical tasks to AI removes the personal reward of problem-solving and can lead to frustration when models generate confidently incorrect outputs.</p><p>The post also critiques how artificial intelligence companies market cybersecurity vulnerabilities, citing instances like the PHP2Shell disclosures and sensationalized social media claims as marketing-driven fearmongering rather than responsible security practices. Eva concludes that human curiosity and manual code analysis continue to drive significant discoveries despite the capabilities of modern language models.</p>
 <p>Nov 1 · <a href="https://eva.ac/blog/llms">eva.ac</a> | <a href="https://lobste.rs/s/ikfsgt/so_i_guess_everyone_uses_llms_think_now">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50330253">hacker news</a></p>
-<br clear="all" />
-
-<h2>Vinipsmaker Examines the Properties and Mindset of Pratt Parsing</h2>
-<a name="story-26122"><img src="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Fpratt-parsing-explanation-v0-CvL5mJ0ZZKxyukIigl78WMSjca6LK0j8UZYoYkF9bhQ.jpg%3Fformat%3Dpjpg%26auto%3Dwebp%26s%3D89191673123e7dbfb5c3f11cc376f3b9357e452c&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The article argues that understanding every line of a Pratt parser implementation is unnecessary for practical use, comparing it to using sorting algorithms or filesystems without knowing how they are built from scratch. Instead, developers should focus on acquiring the right mindset, specifically adopting Douglas Crockford's framing of asking what tokens expect to their left.</p><p>It explains how Pratt parsing registers semantic actions directly to terminals as null denotations and left denotations alongside binding power tables, contrasting it with traditional grammar production rules used in compiler compilers like Bison. The author illustrates this with examples from an active compiler implementation, highlighting how simple the underlying dispatch tables can be.</p>
-<p>Nov 1 · <a href="https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/">vinipsmaker.github.io</a> | <a href="https://lobste.rs/s/bzazar/pratt_parsing_is_black_box">lobsters</a></p>
 <br clear="all" />
 
 ---
