@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Nvidia Asks Cloud Clients to Limit China Service Share to Under 49 Per Cent</h2>
+<a name="story-26262"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FrMEtrL4LyKa5zyZtuiwKpP.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia has reportedly instructed its cloud computing and data center clients to ensure that at least 51 per cent of their services are allocated to non-Chinese companies. The verbal directive represents a new restriction aimed at curbing exposure to the Chinese market for AI infrastructure.</p><p>The measure comes as global technology supply chains face heightened regulatory scrutiny regarding artificial intelligence hardware. By requiring partners to maintain a majority of their non-Chinese business, the policy further constrains access to advanced computing resources in the region.</p>
+<p>Nov 3 · <a href="https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2">ft.com</a></p>
+<br clear="all" />
+
 <h2>Huawei Informs Clients Ascend 960DT AI Chip Will Rely on Samsung and SK Hynix HBM</h2>
 <a name="story-26249"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F09%2F18%2Fhuawei-ascend-960dt%2F01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Huawei recently informed certain clients that a large share of its upcoming Ascend 960DT flagship artificial intelligence chip will run on high-bandwidth memory produced by South Korean manufacturers Samsung and SK Hynix. This disclosure illustrates the ongoing porousness of U.S. restrictions and export controls designed to limit China's access to advanced semiconductor technology.</p><p>The Ascend 960DT represents a key component of Huawei's hardware development, with its commercial availability advanced to early 2027. The reliance on foreign memory components despite international sanctions underscores the persistent difficulty in cutting off Chinese tech firms from global high-performance supply chains.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-25998"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnextgendefense.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGolden_dome_illustration.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet's Google is negotiating with the U.S. Department of Defense to provide the data security infrastructure for the $185 billion Golden Dome missile defense program. The discussions focus on supplying the cybersecurity, networking, and storage solutions required to protect the software that underpins the system's operations.</p><p>This potential partnership would mark Google's first significant publicly known involvement in the Golden Dome initiative. The talks reflect the company's deepening involvement in large-scale national security and defense technology contracts.</p>
 <p>Oct 31 · <a href="https://www.bloomberg.com/news/articles/2026-10-30/alphabet-is-in-talks-to-join-trump-s-golden-dome-defense-program?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzM5Nzg1NywiZXhwIjoxNzk0MDAyNjU3LCJhcnRpY2xlSWQiOiJUTjYzVENUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJCRkI5RDA1ODU3NzI0QTVFQTU5ODA4NzhDRDQ4MjlEOCJ9.AnwrE7PoMJRZrargGvJB6fZIxMeCA5zjEWakYXiKN5o">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>FEC Data Shows AI-Oriented PACs Spent Nearly $80 Million on 2026 Midterms</h2>
-<a name="story-25944"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.staticimg.com%2Fnews_flash%2F57753664-21f5-4109-b560-7ca3626370a3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Federal Election Commission data indicates that AI-oriented political action committees spent nearly $80 million on the 2026 U.S. elections, with the bulk of expenditures occurring prior to the primaries. Contrary to initial expectations, pro-regulatory PACs ultimately outspent pro-industry groups as accelerationist networks scaled back their midterm investments.</p><p>While industry-backed groups like Leading—funded by figures such as Marc Andreessen and Greg Brockman—shifted their tactics rather than exiting the political arena entirely, the overall spending dynamic reflects a evolving landscape for artificial intelligence lobbying and campaign finance. The figures underscore how competing factions are recalibrating their strategies amid intense scrutiny over federal AI regulation.</p>
-<p>Oct 30 · <a href="https://puck.news/ai/2026/10/pro-ai-pacs-are-retreating-from-the-midterms">puck.news</a></p>
 <br clear="all" />
 
 ---

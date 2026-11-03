@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-03T03:37:00+00:00</updated>
+  <updated>2026-11-03T07:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Asks Cloud Clients to Limit China Service Share to Under 49 Per Cent</title>
+    <link href="https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2" rel="alternate" />
+    <id>https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2::v240</id>
+    <published>2026-11-03T07:23:00+00:00</published>
+    <updated>2026-11-03T07:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FrMEtrL4LyKa5zyZtuiwKpP.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2">ft.com</a></small></p><hr/><p>Nvidia has reportedly instructed its cloud computing and data center clients to ensure that at least 51 per cent of their services are allocated to non-Chinese companies. The verbal directive represents a new restriction aimed at curbing exposure to the Chinese market for AI infrastructure.</p><p>The measure comes as global technology supply chains face heightened regulatory scrutiny regarding artificial intelligence hardware. By requiring partners to maintain a majority of their non-Chinese business, the policy further constrains access to advanced computing resources in the region.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FrMEtrL4LyKa5zyZtuiwKpP.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 13:11 UTC | #26262</small>]]></content>
+  </entry>
   <entry>
     <title>Huawei Informs Clients Ascend 960DT AI Chip Will Rely on Samsung and SK Hynix HBM</title>
     <link href="https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea" rel="alternate" />
