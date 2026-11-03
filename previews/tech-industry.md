@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>OpenAI Hires Former U.S. Army Secretary Dan Driscoll for National Security Role</h2>
+<a name="story-26274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihvAlsWWIWqM%2Fv0%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI has appointed former U.S. Army Secretary Dan Driscoll as its first senior counselor for national security modernization. In this newly created role, Driscoll will advise company leadership on integrating artificial intelligence into national security and cybersecurity initiatives, as well as collaborating with allied governments.</p><p>Driscoll's appointment comes as artificial intelligence companies increasingly seek to expand their footprint within government contracting and defense policy. Prior to joining OpenAI, Driscoll served as the 26th Secretary of the Army and is an Iraq War veteran.</p>
+<p>Nov 3 · <a href="https://www.wsj.com/politics/national-security/openai-hires-former-army-secretary-dan-driscoll-to-cybersecurity-role-0e5cc0a1?st=cfNEPb&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://openai.com/index/dan-driscoll-joins-openai/">openai.com</a></p>
+<br clear="all" />
+
 <h2>Brookfield and Drax Group Plan £20 Billion AI Data Center in North Yorkshire</h2>
 <a name="story-26266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2FDrax-Targets-Data-Centre-Launch-at-Former-Coal-Site-by-2027-to-Feed-AI-Power-Demand.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Energy company Drax Group has partnered with Brookfield and its neocloud platform Radiant to develop a multibillion-pound artificial intelligence data center at the Drax Power Station estate in North Yorkshire. The project aims to deliver up to 100 megawatts of capacity starting in early 2028, with plans to scale up to over 1 gigawatt over the following years.</p><p>Brookfield estimates that total investment for the initiative, including semiconductors, could exceed £20 billion, supported by an initial phase-one investment of £2.5 billion. While the venture aims to provide British researchers and enterprises with domestic compute capacity, the initial phase remains subject to planning, regulatory, and grid connection approvals, as well as securing commercial tenants.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26169"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsg-imgs.dealroom.co%2F65c1869467e5e8e9135edc9cd55aaec9.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Marvell Technology has agreed to acquire optical components maker Lumentum in an all-stock transaction valued at an implied enterprise value of $115 billion, including debt. The agreement represents a major consolidation move as custom chipmaker Marvell seeks to strengthen its position in artificial intelligence infrastructure and compete directly with larger rival Broadcom.</p><p>The transaction follows prior strategic investments, including Nvidia investing $2 billion in each company earlier in 2026 amid surging demand for AI data center components. The deal highlights the critical role of optical networking technologies in supporting the high-speed data transmission required for modern artificial intelligence workloads.</p>
 <p>Nov 2 · <a href="https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/">reuters.com</a> | <a href="https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity">investor.marvell.com</a> | <a href="https://news.ycombinator.com/item?id=50343329">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Plans to Raise Up to $3.5 Billion in Japan for US IPO</h2>
-<a name="story-26174"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.monetaryelite.com%2Fwp-content%2Fuploads%2F2026%2F06%2F98c1649b-8a3e-42bf-99b2-f9190f46596a-1024x572.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic PBC plans to raise up to $3.5 billion from Japanese investors as part of its upcoming US initial public offering. The move allows Japanese investors direct access to the offering, joining Australia, Canada, and parts of Europe.</p><p>The fundraising plan follows Anthropic's public filing of its Form S-1 registration statement with the US Securities and Exchange Commission for its proposed stock listing. The company's financial disclosures leading up to the IPO have drawn significant attention from global markets.</p>
-<p>Nov 2 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

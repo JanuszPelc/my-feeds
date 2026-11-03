@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Postman Desktop App Criticized for Auto-Installing Codex and Claude Plugins</h2>
+<a name="story-26325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eginnovations.com%2Fdocumentation%2FResources%2FImages%2FeGRESTAPI%2FAddExternalAgents.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A user-submitted GitHub report detailed that the Postman desktop application automatically installed Codex and Claude Code plugins without explicit user consent, configured remote Model Context Protocol connections, and inserted startup instruction hooks that redirected general API engineering tasks to Postman skills.</p><p>The installer script also attempted to automatically approve its own hook configurations within the user's coding agent settings, resulting in recurring authentication errors and workflow interference. The affected user requested that Postman immediately halt automatic agent installations, remove self-approval mechanisms, and provide a complete uninstallation path.</p>
+<p>Nov 3 · <a href="https://github.com/postmanlabs/postman-app-support/issues/14370">github.com</a> | <a href="https://news.ycombinator.com/item?id=50354960">hacker news</a></p>
+<br clear="all" />
+
+<h2>David Bushell Examines Browser Removal of Native XSLT Support</h2>
+<a name="story-26316"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pcjs.org%2Fblog%2Fimages%2Fxslt-deprecation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer and designer David Bushell criticizes Google and other browser vendors for deprecating and removing native XSLT support, a change scheduled for late 2026 that will break existing XML workflows and his own project, xslt.rip.</p><p>Bushell argues that this decision violates the web standards community's long-standing social contract of backward compatibility. He also objects to Chromium-based browsers injecting warning banners onto XSLT-reliant pages, contending that vendors are improperly shifting the responsibility of broken web infrastructure onto site maintainers.</p>
+<p>Nov 3 · <a href="https://dbushell.com/2026/11/03/xslt-rip/">dbushell.com</a> | <a href="https://lobste.rs/s/chypzr/death_comes_for_xslt">lobsters</a></p>
+<br clear="all" />
+
 <h2>An Introduction to Bε-trees and Write-Optimization</h2>
 <a name="story-26300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhazm.at%2Fmox%2Falgorithm%2Fstructural-algorithm%2Ftree%2Fb-epsilon-tree%2Fan-introduction-to-b-epsilon-trees-and-write-optimization%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Michael A. Bender and co-authors examine Bε-trees, write-optimized data structures designed to organize on-disk storage for file systems and databases. Providing a key-value API comparable to traditional B-trees, Bε-trees deliver enhanced performance for inserts, updates, and range queries.</p><p>The article contrasts the asymptotic performance and practical measurements of Bε-trees against standard B-trees and Log-Structured Merge trees (LSM-trees). It outlines how buffered internal nodes enable write efficiency, offering foundational insights to help developers design applications that maximize storage performance.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26139"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanvk%2Fwebdiff%2Fmain%2Fimages%2Fwebdiff.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OmniDiff is an open-source, content-aware diff tool written in Rust that integrates with Git and Jujutsu as a difftool backend and formatter. Rather than relying solely on traditional line-by-line comparisons, it utilizes tree-sitter grammars to parse source code across 25 languages and applies specialized algorithms for binary formats including images, fonts, PDFs, and archives.</p><p>The tool features an interactive terminal user interface supporting 24-bit color, a headless batch mode for CI pipelines, and a JSON output option for programmatic workflows. By highlighting specific structural changes rather than whole modified lines, OmniDiff aims to reduce visual noise during code reviews.</p>
 <p>Nov 1 · <a href="https://github.com/ivankovic/omnidiff">github.com</a> | <a href="https://news.ycombinator.com/item?id=50325253">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ori Bernstein Provides Progress Update on GEFS Port for OpenBSD</h2>
-<a name="story-26131"><img src="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Fnycbugmay2023-gefs-a-good-enough-file-system-by-ori-v0-PElT2V4tD69Mdmtg8_KRlzW6-poymHEj7wptB9gfWBo.jpg%3Fformat%3Dpjpg%26auto%3Dwebp%26s%3D51ee8a794e77d624bc852325086eca9f4699e7b8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Ori Bernstein has shared a progress update on GEFS, the Good Enough File System, detailing ongoing work to make the filesystem fit for general use on OpenBSD. The latest code updates include rebased diffs, error handling refinements, porting of bugfixes from 9front, and initial userspace tools like mkfs support.</p><p>Additional improvements outline strategies for error handling, block ordering, and snapshot control using a dedicated userspace program. While consistency protocols and ordering barriers remain under development, testing and feedback from the OpenBSD community continue to drive the project forward.</p>
-<p>Nov 1 · <a href="https://www.undeadly.org/cgi?action=article;sid=20261101115637">undeadly.org</a> | <a href="https://marc.info/?l=openbsd-tech&m=179346643071941&w=2">marc.info</a> | <a href="https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50346831">hacker news</a></p>
-<br clear="all" />
-
-<h2>Eva Explains Why She Avoids LLMs for Research and Cybersecurity</h2>
-<a name="story-26126"><img src="https://wsrv.nl/?url=https%3A%2F%2Feva.ac%2Ffiles%2Fimg%2Fposts%2Fllms%2Ftailworm-skeet.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Security researcher Eva outlines her decision to avoid large language models for personal research and coding, emphasizing that manual exploration remains essential to her enjoyment of the field. She argues that offloading technical tasks to AI removes the personal reward of problem-solving and can lead to frustration when models generate confidently incorrect outputs.</p><p>The post also critiques how artificial intelligence companies market cybersecurity vulnerabilities, citing instances like the PHP2Shell disclosures and sensationalized social media claims as marketing-driven fearmongering rather than responsible security practices. Eva concludes that human curiosity and manual code analysis continue to drive significant discoveries despite the capabilities of modern language models.</p>
-<p>Nov 1 · <a href="https://eva.ac/blog/llms">eva.ac</a> | <a href="https://lobste.rs/s/ikfsgt/so_i_guess_everyone_uses_llms_think_now">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50330253">hacker news</a></p>
 <br clear="all" />
 
 ---
