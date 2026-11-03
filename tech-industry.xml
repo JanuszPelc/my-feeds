@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-03T17:29:00+00:00</updated>
+  <updated>2026-11-03T17:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Restricts Dating Apps and AI Companions to Users 18 and Older</title>
+    <link href="https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/::v240</id>
+    <published>2026-11-03T17:46:00+00:00</published>
+    <updated>2026-11-03T17:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwkzUdz9S29M%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/">techcrunch.com</a> | <a href="https://developer.apple.com/news/?id=yxkh08us">developer.apple.com</a></small></p><hr/><p>Apple is updating its App Store policies to mandate an 18+ age rating for online dating apps and AI companions that feature sexual or romantic content. Beginning November 16, developers will also be required to use new content descriptors in App Store Connect to accurately reflect app capabilities, including whether an application shares users' real-world locations.</p><p>The policy adjustments build on Apple's recent implementation of global age assurance technology and expanded parental controls designed to protect minors. While many traditional dating services already restrict access to adults, the new rules introduce stricter oversight for AI companion platforms where users interact with romantic or fantasy characters.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwkzUdz9S29M%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 20:48 UTC | #26295</small>]]></content>
+  </entry>
   <entry>
     <title>Retired Aircraft Jet Engines Repurposed to Power AI Data Centers</title>
     <link href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html" rel="alternate" />

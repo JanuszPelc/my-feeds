@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Apple Restricts Dating Apps and AI Companions to Users 18 and Older</h2>
+<a name="story-26295"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwkzUdz9S29M%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple is updating its App Store policies to mandate an 18+ age rating for online dating apps and AI companions that feature sexual or romantic content. Beginning November 16, developers will also be required to use new content descriptors in App Store Connect to accurately reflect app capabilities, including whether an application shares users' real-world locations.</p><p>The policy adjustments build on Apple's recent implementation of global age assurance technology and expanded parental controls designed to protect minors. While many traditional dating services already restrict access to adults, the new rules introduce stricter oversight for AI companion platforms where users interact with romantic or fantasy characters.</p>
+<p>Nov 3 · <a href="https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/">techcrunch.com</a> | <a href="https://developer.apple.com/news/?id=yxkh08us">developer.apple.com</a></p>
+<br clear="all" />
+
 <h2>Retired Aircraft Jet Engines Repurposed to Power AI Data Centers</h2>
 <a name="story-26278"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2026%2F01%2Farticle-5382-1767338654.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Facing severe electricity shortages and long grid connection delays, artificial intelligence data center developers are increasingly turning to retired commercial and military aircraft jet engines to generate off-grid power. Companies are scavenging engines from aircraft boneyards—such as Boeing and Airbus powerplants—and converting them into rapid-deployment gas turbines.</p><p>This trend has accelerated as rapid data center expansion outpaces traditional energy infrastructure buildouts. While the repurposed turbines offer unmatched speed to power, industry experts and environmental advocates warn that burning fossil fuels via makeshift generators will significantly increase air pollution and associated healthcare costs.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26218"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59607602%3Fwidth%3D640%26height%3D427&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>At a recent midterm election event in Brooklyn hosted by the media company Newsreel, discussions repeatedly centered on artificial intelligence and the rapid expansion of data centers. Speakers and attendees highlighted how local community opposition, environmental concerns, and economic anxieties surrounding these facilities have transformed them into a major ballot-box issue ahead of the November 3 elections.</p><p>Recent reports indicate that billions of dollars in data center projects have faced delays, stalls, or blocks due to political pushback across multiple states. Observers note that these massive facilities have become physical symbols of broader public frustration with the tech industry, touching on tensions over corporate accountability, a lack of local consent, and the distribution of economic benefits.</p>
 <p>Nov 2 · <a href="https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Elon Musk Says Grok Bot Serving Costs Were Unsustainably High Relative to Revenue</h2>
-<a name="story-26163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F07DNmMn7NRR6nEufCvYmqMZ-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Elon Musk acknowledged that the operating costs for running the Grok Bot were unsustainably high relative to the revenue it generated. The statement came in response to subscriber complaints on X regarding rapid usage limit depletion and unexpectedly fast exhaustion of weekly caps.</p><p>The financial admission highlights the heavy operational expenses associated with managing large-scale artificial intelligence models amid surging user demand. Subscribers had expressed frustration over strict throttling and limits encountered shortly after rollout, prompting questions regarding the long-term sustainability of the service tiers.</p>
-<p>Nov 2 · <a href="https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/">forbes.com</a> | <a href="https://news.ycombinator.com/item?id=50344533">hacker news</a></p>
 <br clear="all" />
 
 ---
