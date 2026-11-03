@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Hacker Times Hourly Digest Features AI Research and Development Updates</h2>
+<a name="story-26258"><img src="https://wsrv.nl/?url=https%3A%2F%2Frikiyat.github.io%2Fimages%2Fblog%2Fweight-space-programming.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The latest edition of Hacker Times covers recent developments including MIT researchers modifying neural-network weights, Andrej Karpathy's creation of a video library from decades of Hacker News recommendations, and a PostgreSQL developer attributing release delays to AI-generated bug backlogs. Additional featured projects include browser-based Vim practice exercises, a one-meter voxel model of central Warsaw, and personal website preservation tools.</p><p>The curated collection also highlights community discussions regarding privacy-focused television displays, a Microsoft blog recollection of the Windows 2000 launch, and historical shifts in US given names. Updated hourly, the site aggregates independent tech stories, research reports, and programming resources from across the web.</p>
+<p><small>Links: <a href="https://hackertimes.ca/">hackertimes.ca</a> | <a href="https://news.ycombinator.com/item?id=50346981">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Anthropic Warns of Approaching Recursive Self-Improvement Capability</h2>
 <a name="story-26230"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-cms.claudeapi.com%2Fblog%2Fimages%2Fai-recursive-self-improvement-2028-prediction--cover-jfww.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's amended S-1A filing warns that the company is approaching recursive self-improvement (RSI), a state where AI-driven research significantly accelerates model development. While current models have not yet crossed this threshold, internal estimates indicate future models may imminently trigger "dramatically accelerated progress" under the company's Responsible Scaling Policy.</p><p>The company has already used AI to develop models with unpredicted capability leaps. To address potential safety and security risks from such accelerated progress, Anthropic is considering policy updates to maintain meaningful human supervision in the development of frontier models.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26012"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21bwCh%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5f706c-2eb0-45b8-a289-e65579c7e41e_2560x1020.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unsloth has released a preview of Dynamic v3.1, featuring custom chat backgrounds, a refined user interface, and new GGUF model files for DeepSeek-V4.1-Flash-1017. The update also brings support for FLUX.2-klein-9B on machines with limited RAM.</p><p>The release includes performance enhancements such as doubling application update speeds and reducing lag on Linux. Additionally, Qwen-Image rendering is up to twice faster on systems with a 16 GB VRAM limit, and the update introduces batched MoE fine-tuning to allow compatible API jobs to run together.</p>
 <p><small>Links: <a href="https://unsloth.ai/docs/new/changelog#dynamic-v3.1-preview--customize--performance">unsloth.ai</a></small></p>
-<br clear="all" />
-
-<h2>Google Project Suncatcher Prototype Satellite Goes Online in Orbit</h2>
-<a name="story-25969"><img src="https://wsrv.nl/?url=https%3A%2F%2Fenglish.dainikjagranmpcg.com%2Fmedia-webp%2F1200%2F2025-11%2Fgoogle-unveils-%E2%80%98project-suncatcher%E2%80%99-space-based-ai-data-centers-to-launch-by-2027.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google's Project Suncatcher prototype satellite is online and communicating with ground engineers after launching on a SpaceX Falcon 9 rocket. Equipped with a single Google Tensor Processing Unit and running the Gemma 4 AI model, the spacecraft successfully processed prompts and returned orbital telemetry during its initial testing phase.</p><p>The ongoing mission aims to evaluate how AI hardware performs under real-world space radiation and thermal stress, addressing challenges like memory bit flips. If the prototype proves successful, Google plans to launch additional chips in 2027 to demonstrate higher power generation and laser-based inter-satellite links for future distributed orbital computing.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50306870">hacker news</a></small></p>
 <br clear="all" />
 
 ---
