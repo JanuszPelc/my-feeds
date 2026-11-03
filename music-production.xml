@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-03T17:55:00+00:00</updated>
+  <updated>2026-11-03T17:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Black Salt Audio Offers Low Control Bass Processor Free Until November 12</title>
+    <link href="https://bedroomproducersblog.com/2026/11/03/black-salt-audio-low-control/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/03/black-salt-audio-low-control/::v240</id>
+    <published>2026-11-03T17:59:00+00:00</published>
+    <updated>2026-11-03T17:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.blacksaltaudio.com%2Fassets%2Flow-control_showcase.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/03/black-salt-audio-low-control/">bedroomproducersblog.com</a> | <a href="https://blacksaltaudio.com/free/">blacksaltaudio.com</a></small></p><hr/><p>Black Salt Audio is offering its $79 Low Control low-end compressor and harmonic enhancer plugin for free until November 12, 2026. The macOS and Windows compatible processor splits audio processing into independent control and enhancement sections, allowing users to apply targeted compression below a chosen frequency and add harmonics for increased low-end weight.</p><p>The plugin features fixed attack, release, and ratio settings optimized specifically for bass and drums, alongside a solo low-frequency monitoring mode. Claiming the free plugin requires creating a Black Salt Audio account, subscribing to the developer's newsletter, and completing license activation, with 64-bit VST3, AAX, and AU formats supported.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blacksaltaudio.com%2Fassets%2Flow-control_showcase.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 21:41 UTC | #26304</small>]]></content>
+  </entry>
   <entry>
     <title>FlickSwitch Audio Releases Liminal 1.1 and Glacier Plugins</title>
     <link href="https://bedroomproducersblog.com/2026/11/03/flickswitch-audio/" rel="alternate" />
