@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Green Oak Releases Crystal v2.6.0 Synth Update</h2>
+<a name="story-26321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcrystalss.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Green Oak has released version 2.6.0 of its free Crystal software synthesizer, introducing native Apple Silicon support, updated compatibility for macOS and Windows, new AU and VST3 formats, and a refreshed, scalable interface.</p><p>The updated plugin retains its core features, including three synthesis voices, sample and SoundFont support, wave sequencing, granular capabilities, FM synthesis, an extensive modulation matrix, and patch compatibility with iOS versions.</p>
+<p>Nov 3 · <a href="https://www.kvraudio.com/news/green-oak-updates-crystal-to-v2-6-0---a-classic-software-synth-renewed-69594?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69594">kvraudio.com</a> | <a href="https://www.greenoak-software.com/crystal/indexDesktop3.html">greenoak-software.com</a></p>
+<br clear="all" />
+
 <h2>A.O.M. Updates Audio Plugins to Version 1.18.10</h2>
 <a name="story-26313"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftranquilizr-g2-2024-12-27.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A.O.M. has released version 1.18.10 of its audio plugin lineup, introducing a performance monitor display across all plugins alongside important bug fixes and installer changes. The update resolves an issue in WaveLab 13 where incorrect bus configurations were sent to the Nu Compressor and Track Symbiosis plugins, and fixes a macOS bug where disabled pop-up menu items were not correctly grayed out.</p><p>Additionally, the software installation process has been streamlined into a single package for all supported plugin formats. For macOS users, installer variants are now categorized by Intel and Apple Silicon architectures, with Intel builds officially requiring AVX2 instruction set support.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26272"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-03-at-12-57-13-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Moonbase has launched its second annual survey targeting independent audio software developers, including plugin creators, virtual instrument makers, sample library developers, and digital audio workstation creators. The survey covers key business metrics such as revenue, pricing trends, sales channels, licensing, support challenges, and artificial intelligence integration.</p><p>Open until December 6, 2026, the questionnaire aims to provide comparative benchmarks for solo developers and small businesses, with results published in aggregate. Participants who provide an email address will receive an advance copy of the final report in January 2027 ahead of its public release.</p>
 <p>Nov 3 · <a href="https://www.kvraudio.com/news/moonbase-announces-state-of-independent-audio-software-companies-2026-survey-69586?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69586">kvraudio.com</a> | <a href="https://moonbase.sh/survey/">moonbase.sh</a></p>
-<br clear="all" />
-
-<h2>Expressive E Announces GForce Collection Featuring MAP and Prophet 5 MPE Presets</h2>
-<a name="story-26267"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgforce_thumbnail_annonce.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Expressive E has announced the GForce Collection, a new bundle for its Ctrl-e platform that includes 500 MPE-compatible presets split evenly between GForce Software's MAP and the official Sequential Prophet 5 instruments. The collection provides users with full access to both instrument interfaces for advanced sound design.</p><p>Designed to integrate with Expressive E's hardware controllers and the Osmose synthesizer, the sound packs leverage polyphonic expression capabilities. Users gain access to 250 presets for each synthesizer, blending vintage analog character with modern multidimensional polyphonic expression control features.</p>
-<p>Nov 3 · <a href="https://www.kvraudio.com/news/expressive-e-announces-gforce-collection---map-and-prophet-5-with-500-mpe-presets-69585?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69585">kvraudio.com</a> | <a href="https://www.expressivee.com/210-gforce-collection">expressivee.com</a></p>
 <br clear="all" />
 
 ---

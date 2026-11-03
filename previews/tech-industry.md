@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Neufangled Robotics Launches Stringman Room-Scale Cable Robot</h2>
+<a name="story-26351"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fnf-site-assets-prod-b%2Fassets%2Fexploded.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Neufangled Robotics has introduced Stringman, an open-source, ceiling-mounted cable-driven parallel robot designed for room-scale manipulation. Priced at $795, the system suspends a two-fingered gripper from four corner-anchored lines, using combined motor torque to achieve a higher payload capacity and broader workspace than traditional desktop robotic arms.</p><p>The OSHWA-certified hardware features published CAD files, PCBs, and control software compatible with frameworks like LeRobot, allowing users to operate it locally or integrate it with machine learning agents. Designed for home labs and classrooms, Stringman includes active swing cancellation, local network operation, and visual tagging capabilities to move items across entire rooms without occupying floor space.</p>
+<p>Nov 3 · <a href="https://neufangled.com/">neufangled.com</a> | <a href="https://news.ycombinator.com/item?id=50354358">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic Highlights Claude&#x27;s Chip Design Capabilities to Investors</h2>
 <a name="story-26291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdjg26gece%2Fimage%2Fupload%2Fv1775812571%2Fuoizt8pln7gficktqozs.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has informed investors that its internal chip design team is actively using its Claude artificial intelligence models for engineering and design work on custom silicon. The 15-person team is leveraging the AI to assist with hardware development tasks.</p><p>This application of Claude coincides with the company's broader push into custom hardware development aimed at improving model efficiency and reducing inference costs. The disclosures highlight the practical utility of the company's technology in specialized engineering fields as it scales its operations and prepares for a potential public offering.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26193"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fcard%2F01m6e925erk7526ws6bjnctab0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google parent Alphabet is issuing €6 billion in euro-denominated debt across seven tranches. The offering tests investor appetite for technology sector debt following recent market volatility and doubts surrounding the artificial intelligence trade.</p><p>The debt sale follows an earlier €9 billion bond offering across six tranches earlier in the year. Despite recent tech sector selloffs, the current issuance has attracted strong early demand, pulling in more than €17 billion in orders from investors.</p>
 <p>Nov 2 · <a href="https://www.reuters.com/business/finance/alphabet-kicks-off-6-billion-bond-sale-tests-appetite-tech-debt-2026-11-02/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>42AI Emerges from Stealth with $62.5M and Behavioral World Model</h2>
-<a name="story-26195"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fwp-content%2Fuploads%2F2025%2F11%2FAre.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Israeli startup 42AI has emerged from stealth with $62.5 million in seed funding to develop a behavioral world model designed to predict human decision-making probabilities in new scenarios. The company's technology analyzes individual psychological tendencies, sentiment, and communication data across various events to map out behavioral patterns rather than relying strictly on historical actions.</p><p>Initially deployed at financial brokerages to help forecast trader behavior, manage liquidity, and optimize hedging, 42AI is also exploring future applications in gaming, cybersecurity, and robotics. While the startup reports strong performance metrics in financial settings, critics and the founders note that the behavioral profiling technology raises valid concerns regarding predictive privacy and user advantage.</p>
-<p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/">techcrunch.com</a> | <a href="https://42ai.com/">42ai.com</a></p>
 <br clear="all" />
 
 ---
