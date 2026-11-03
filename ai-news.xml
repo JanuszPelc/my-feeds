@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-02T21:50:00+00:00</updated>
+  <updated>2026-11-02T21:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>OpenAI Launches Grid Protectors Program</title>
+    <link href="https://openai.com/index/grid-protectors-program" rel="alternate" />
+    <id>https://openai.com/index/grid-protectors-program::v240</id>
+    <published>2026-11-02T21:56:00+00:00</published>
+    <updated>2026-11-02T21:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.siemens-energy.com%2Fcontent%2Fdam%2Fsiemensenergy-aem%2Fhotspot-images%2FDatacenter__Landscape.jpg.transform%2F1280w%2Fimg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://openai.com/index/grid-protectors-program">openai.com</a></small></p><hr/><p>The Grid Protectors Program is a national initiative designed to allow OpenAI's future data center campuses to reduce electricity consumption when the power grid is under strain. Through collaborations with utility providers, the program seeks to support grid reliability and protect consumer electricity costs.</p><p>The initiative's first implementation is planned for a campus in Effingham County, Georgia, which is expected to offer up to 1 gigawatt of flexible demand. This effort addresses the intersection of AI infrastructure expansion and power grid capacity constraints.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.siemens-energy.com%2Fcontent%2Fdam%2Fsiemensenergy-aem%2Fhotspot-images%2FDatacenter__Landscape.jpg.transform%2F1280w%2Fimg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 01:32 UTC | #26210</small>]]></content>
+  </entry>
   <entry>
     <title>DeepSeek Unveils Creator Mode for Custom AI Agent Plugins</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode" rel="alternate" />

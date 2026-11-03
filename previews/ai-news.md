@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Launches Grid Protectors Program</h2>
+<a name="story-26210"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.siemens-energy.com%2Fcontent%2Fdam%2Fsiemensenergy-aem%2Fhotspot-images%2FDatacenter__Landscape.jpg.transform%2F1280w%2Fimg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Grid Protectors Program is a national initiative designed to allow OpenAI's future data center campuses to reduce electricity consumption when the power grid is under strain. Through collaborations with utility providers, the program seeks to support grid reliability and protect consumer electricity costs.</p><p>The initiative's first implementation is planned for a campus in Effingham County, Georgia, which is expected to offer up to 1 gigawatt of flexible demand. This effort addresses the intersection of AI infrastructure expansion and power grid capacity constraints.</p>
+<p><small>Links: <a href="https://openai.com/index/grid-protectors-program">openai.com</a></small></p>
+<br clear="all" />
+
 <h2>DeepSeek Unveils Creator Mode for Custom AI Agent Plugins</h2>
 <a name="story-26207"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeepseekagent.io%2F_next%2Fimage%3Furl%3D%2Freviews%2Fdeepseek-harness%2Fdsh-plugin-settings-ui-enhanced.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DeepSeek has launched "Creator Mode" for its DeepSeek Harness platform, enabling users to develop custom AI agent plugins using natural language instructions. The feature allows users to transform plain English descriptions into functional tools, such as 3D model renderers or video editing workbenches.</p><p>This update is part of a broader effort by the Hangzhou-based lab to expand its AI agent ecosystem. By allowing users to generate specialized plugins through simple instructions, DeepSeek aims to increase the extensibility and accessibility of its agent framework.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25913"><img src="https://wsrv.nl/?url=https%3A%2F%2Flabs.ycombinator.com%2Fciv50%2Fcharts%2Factivity-by-night-color-v2-26B3C72A.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>YC Labs partnered with Olam Labs to conduct multi-agent experiments deploying 50 GPT-6.1 Sol AI agents into a survival Minecraft world for a three-hour run. The study aimed to observe emergent swarm behaviors, coordination patterns, and organizational structures under resource constraints and environmental hazards.</p><p>Following high mortality rates during the first night, the agents spontaneously adapted by forming a hierarchical governance structure, utilizing a shared planning sandbox, and establishing a centralized food-rationing ledger. The experiment highlights how autonomous LLM swarms can develop complex social protocols and risk aversion when faced with survival pressures.</p>
 <p><small>Links: <a href="https://labs.ycombinator.com/projects/games/index.html">labs.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=50296486">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Howler Launches Harry Potter-Inspired Ephemeral AI Chat for macOS</h2>
-<a name="story-25869"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.theregister.com%2F%3FimageId%3D202306%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developed by Aries Zhou, this open-source macOS application provides an ephemeral AI chat interface that mimics the "Howler" letters from the Harry Potter series. The tool displays queries on a parchment-style interface and clears the conversation from memory upon pressing the Escape key to prevent local chat history.</p><p>Users can connect the app to various AI models using an API key, which is stored in the macOS Keychain, or through compatible local models. While the application avoids local logs and does not use a relay, it does not guarantee that the AI service provider will not retain a record of the exchange.</p>
-<p><small>Links: <a href="https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484">theregister.com</a> | <a href="https://github.com/HiAriesZhou/Howler">github.com</a></small></p>
 <br clear="all" />
 
 ---
