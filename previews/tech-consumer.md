@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Nagoshi Studio Dissolved Following NetEase Funding Cuts</h2>
+<a name="story-26214"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltad52dee3e8c29c8e%2F6ae8d5a4605218006443abe7%2Fgangofdragonsteam.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nagoshi Studio, the game development company founded by former Sega developer Toshihiro Nagoshi, has officially dissolved following a shareholders' resolution. The closure comes after parent company NetEase withdrew financial backing earlier in the year, leaving the studio's debut project, Gang of Dragon, without crucial funding.</p><p>Established in 2022 after Nagoshi departed from Ryu Ga Gotoku Studio, Nagoshi Studio had recently showcased Gang of Dragon at The Game Awards. However, financial friction—including a reported ¥7 billion funding shortfall—prompted NetEase to pull back support, mirroring a broader wave of downsizing and studio closures across NetEase's global gaming division.</p>
+<p><small>Links: <a href="https://www.gamedeveloper.com/business/nagoshi-studio-toshihiro-nagoshi-s-game-development-studio-after-leaving-sega-closes-as-netease-cuts-its-funding">gamedeveloper.com</a></small></p>
+<br clear="all" />
+
 <h2>Piotr Migdal Releases Warsaw Vibe Voxel Interactive 3D Map</h2>
 <a name="story-26238"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg2.cgtrader.com%2Fitems%2F3978269%2Fb1aaf9603c%2Flarge%2Fwarsaw-poland-50x50km-3d-city-map-3d-model-b1aaf9603c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Piotr Migdal has released Warsaw Vibe Voxel, an interactive 3D voxel map of central Warsaw that lets users explore the city in a style inspired by Minecraft and MagicaVoxel. Built from open-source geographical data, the project covers the city's central district in detailed block-based models.</p><p>The map integrates OpenStreetMap, LiDAR elevation data from GUGiK, and Warsaw's municipal tree database. Users can navigate the environment, modify the time of day and weather conditions, and interact with simulated pedestrians within the virtual model.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25966"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.80.lv%2Fapi%2Fupload%2Fmeta%2F45812%2Fimages%2F693a757f8f325%2Fcontain_1200x630.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Game developer John Romero has secured a new publisher for his unannounced shooter project after funding was pulled earlier this year following its cancellation by Microsoft. Romero Games has been forced to downscale the project significantly, reducing the team size from over 100 people down to roughly 15 to 16 staff members.</p><p>While the publisher and specific details of the game remain unannounced, Romero noted that the concept has been completely redesigned to fit the much smaller team. Romero expressed enthusiasm for the downsized production, stating that it allows him to return to hands-on design and direct involvement in the development process using the Unreal Editor.</p>
 <p><small>Links: <a href="https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change">gamedeveloper.com</a> | <a href="https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/">videogameschronicle.com</a></small></p>
-<br clear="all" />
-
-<h2>GDC Side Quest Podcast Features Anti-Cheat Expert Lucia Suarez</h2>
-<a name="story-25958"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsdlccorp-web-prod.blr1.digitaloceanspaces.com%2Fwp-content%2Fuploads%2F2025%2F05%2F15175957%2FAnti-Cheating-and-Security-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Game Developer Podcast has released an episode of GDC Side Quest featuring security expert Lucia Suarez discussing anti-cheat operations. Hosted by Beth Elderkin, the episode explores the fundamentals of managing game security and maintaining integrity against malicious actors.</p><p>Suarez draws on her background as a former risk operations management team member at Blizzard Entertainment, where she spent years countering exploits targeting World of Warcraft players. The discussion offers developers an introduction to modern anti-cheat strategies and the ongoing challenges of protecting game ecosystems.</p>
-<p><small>Links: <a href="https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez">gamedeveloper.com</a></small></p>
 <br clear="all" />
 
 ---
