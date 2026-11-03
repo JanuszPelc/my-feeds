@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-03T08:12:00+00:00</updated>
+  <updated>2026-11-03T12:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>ESA Hera Spacecraft Captures First Resolved Images of Didymos and Dimorphos Asteroids</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261103003154.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261103003154.htm::v240</id>
+    <published>2026-11-03T12:25:00+00:00</published>
+    <updated>2026-11-03T12:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F2048%2Fcpsprodpb%2F69c9%2Flive%2Fa83130f0-849e-11ef-822c-a50726bfda2e.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261103003154.htm">sciencedaily.com</a> | <a href="https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one">esa.int</a></small></p><hr/><p>The European Space Agency's Hera spacecraft has captured its first resolved images of the binary asteroid system Didymos and Dimorphos from a distance of approximately 1,280 kilometers. Taken on October 18 using the probe's Asteroid Framing Camera, the milestone marks the first time the smaller moonlet Dimorphos has been distinguished separately from its parent body during the approach.</p><p>Hera is traveling to investigate the aftermath of NASA's 2022 DART mission, which intentionally crashed into Dimorphos and altered its orbit. Detailed observations and close-up imaging are scheduled to begin following further approach maneuvers, aiming to clarify the physical properties and internal structure of the asteroid to support future planetary defense strategies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F2048%2Fcpsprodpb%2F69c9%2Flive%2Fa83130f0-849e-11ef-822c-a50726bfda2e.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 14:58 UTC | #26281</small>]]></content>
+  </entry>
   <entry>
     <title>NASA's Voyager 1 Approaches One Light-Day Distance Milestone</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261103003152.htm" rel="alternate" />
