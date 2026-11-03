@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-03T16:07:00+00:00</updated>
+  <updated>2026-11-03T17:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>UK National Cyber Security Centre Warns of Routine AI Cyber Attacks by 2028</title>
+    <link href="https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40" rel="alternate" />
+    <id>https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40::v240</id>
+    <published>2026-11-03T17:38:00+00:00</published>
+    <updated>2026-11-03T17:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcybertrainer.uk%2Fwp-content%2Fuploads%2F2023%2F11%2Fimage-37-724x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40">ft.com</a> | <a href="https://www.ncsc.gov.uk/collection/annual-review-2026/understanding-threat/cyber-threat-uk">ncsc.gov.uk</a></small></p><hr/><p>The UK National Cyber Security Centre (NCSC) has warned in its annual review that artificial intelligence is transforming cyber operations, stating it is highly likely that China and Russia will routinely use AI-powered cyber tools to achieve geopolitical goals by 2028. The report highlights that hostile actors are poised to leverage AI to dramatically increase the scale, speed, and sophistication of cyberattacks, posing heightened risks to critical national infrastructure.</p><p>The assessment notes that Chinese cyber activity remains a sustained and sophisticated challenge for the UK, while Russia continues to execute campaigns falling below the threshold of armed conflict. The NCSC cautions that current defense mechanisms are inadequate against these rapid technological shifts, emphasizing the urgent need for enhanced cyber resilience across key sectors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcybertrainer.uk%2Fwp-content%2Fuploads%2F2023%2F11%2Fimage-37-724x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 19:59 UTC | #26273</small>]]></content>
+  </entry>
   <entry>
     <title>Google Dismantles XCPE Botnet and Bans Manufacturer Videostrong Over Android TV Backdoor</title>
     <link href="https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/" rel="alternate" />
@@ -319,14 +328,5 @@
     <updated>2026-10-29T20:14:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fao3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/archive-of-our-own-ao3-down-maintenance/">404media.co</a> | <a href="https://www.otwstatus.org/">otwstatus.org</a> | <a href="https://news.ycombinator.com/item?id=50293546">hacker news</a></small></p><hr/><p>The Organization for Transformative Works (OTW) reported that Archive of Our Own (AO3) is undergoing maintenance that may last up to four weeks. Although the organization intends to restore services in a degraded state sooner, users should expect potential temporary shutdowns during the resolution process.</p><p>AO3 is a massive repository for fanfiction, hosting over 18.4 million works across more than 82,900 fandoms. This extended downtime is expected to disrupt significant community activity during several major fandom events and upcoming book releases.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fao3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 00:11 UTC | #25861</small>]]></content>
-  </entry>
-  <entry>
-    <title>Chained PHP2Shell and Kernel Exploit Compromises 25 Palo Alto Networks Servers</title>
-    <link href="https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers" rel="alternate" />
-    <id>https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers::v240</id>
-    <published>2026-10-29T19:58:00+00:00</published>
-    <updated>2026-10-29T19:58:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6a146a5aca0b1a41051708a5%2F6ae0916527e477c7abbb7f44_6ae090fd9d4636df82361954_PHP2Shell-fig-01-timeline-final.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers">dreamgroup.com</a> | <a href="https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/">unit42.paloaltonetworks.com</a> | <a href="https://news.ycombinator.com/item?id=50286987">hacker news</a></small></p><hr/><p>Dream researchers identified a campaign targeting Palo Alto Networks PAN-OS firewalls using a chained exploit involving PHP2Shell (CVE-2026-109618/CVE-2026-109619) and the Fragnesia kernel privilege-escalation vulnerability (CVE-2026-46300). The attack achieved root access in under 15 minutes, compromising 25 servers across the United States, Japan, Taiwan, and South Korea, including systems in a US government-affiliated environment.</p><p>After gaining root access, attackers established persistent reverse SSH tunnels to pivot from management interfaces into internal networks, targeting Active Directory for credential extraction and enumeration. Investigators also identified evidence of AI-assisted tooling in the attack infrastructure, including the use of Claude Code and offensive security platforms configured with Chinese large language models.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6a146a5aca0b1a41051708a5%2F6ae0916527e477c7abbb7f44_6ae090fd9d4636df82361954_PHP2Shell-fig-01-timeline-final.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>29 Oct 2026, 22:05 UTC | #25886</small>]]></content>
   </entry>
 </feed>
