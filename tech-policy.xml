@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-03T07:23:00+00:00</updated>
+  <updated>2026-11-03T08:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>AI-Scraped AO3 Clone Site Shuts Down After Receiving 2,000 Takedown Requests</title>
+    <link href="https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/" rel="alternate" />
+    <id>https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/::v240</id>
+    <published>2026-11-03T08:50:00+00:00</published>
+    <updated>2026-11-03T08:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/">404media.co</a></small></p><hr/><p>An unauthorized fanfiction clone site named ao3.life shut down after its creator received over 2,000 takedown requests from authors within a single day of operation. The platform used automated virtual machines to scrape works from Archive of Our Own (AO3) and offered paid AI-generated audiobooks alongside EPUB downloads.</p><p>The clone site emerged during a multi-week outage of AO3 caused by a security incident, attempting to capitalize on readers' inability to access the primary repository. Although the creator stated that authors would receive a majority share of profits, the platform's unauthorized scraping and monetization drew swift backlash and legal complaints from writers who prohibit the commercialization of their fanfiction.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 13:50 UTC | #26260</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Asks Cloud Clients to Limit China Service Share to Under 49 Per Cent</title>
     <link href="https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2" rel="alternate" />
