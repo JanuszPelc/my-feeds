@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Roku Reports 24% Revenue Growth and $183 Million Net Profit in Q3 2026</h2>
+<a name="story-26223"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimpactwealth.org%2Fwp-content%2Fuploads%2F2026%2F01%2FRoku-Stock-Outlook-2026-Platform-Revenue-Growth-Future-Upside.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Roku reported $1.5 billion in revenue for the third quarter of 2026, a 24% year-over-year increase. Net income rose more than seven-fold to $183 million. Platform segment revenue grew 23% to $1.3 billion, bolstered by strong advertising sales in the political and media/entertainment categories.</p><p>Total streaming hours reached 39.9 billion, a 9% year-over-year increase. Devices revenue grew 33% to $194 million, but the segment reported an operating loss of $48.6 million due to higher memory costs. The company is currently undergoing a $22 billion acquisition by Fox Corp, expected to close in the first half of 2027.</p>
+<p><small>Links: <a href="https://variety.com/2026/tv/news/roku-q3-2026-earnings-media-advertising-sales-growth-1236937827/">variety.com</a> | <a href="https://www.roku.com/investor">roku.com</a></small></p>
+<br clear="all" />
+
 <h2>Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz</h2>
 <a name="story-26208"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.paragraph.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D3840%2Cquality%3D85%2Fhttps%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0f3a142b7d09dfe3609b71be2705a78b8c925b14a951c4402777f887a611c7b2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tutor Intelligence, a robotics company developing frontier robot foundation models, has raised $75 million in a Series B funding round led by Andreessen Horowitz. This latest investment brings the company's total funding to $117 million.</p><p>The company produces AI-powered robots designed for warehouse and logistics environments. Its business model utilizes flexible AI architectures and an hourly pricing model to target small and mid-market industrial customers.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26084"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.automation.com%2Fdocuments%2Fd%2Facom%2Fcover-photo-for-introductory-piece-web.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lumaril has raised $66 million in a Series A funding round at a $400 million valuation to expand its industrial artificial intelligence software. The company builds systems that connect to existing factory control networks to continuously optimize production, throughput, and yield without requiring heavy hardware retrofits.</p><p>The financing round was led by returning investor Elad Gil, with participation from Felicis, Koch Disruptive Technologies, Pax Ventures, Lux Capital, and General Catalyst, bringing the startup's total funding to $78 million. The capital coincides with the company's official launch out of stealth to target efficiency in the physical manufacturing sector.</p>
 <p><small>Links: <a href="https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d">wsj.com</a> | <a href="https://lumaril.substack.com/p/nothing-is-built-from-nothing">lumaril.substack.com</a></small></p>
-<br clear="all" />
-
-<h2>Binance Plans Phased Withdrawal Resumption Following Stolen Funds Recovery</h2>
-<a name="story-26085"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptowinrate.com%2Fwp-content%2Fuploads%2F2024%2F01%2Fbinance_withdraw_crypto_send_to_binance_user-1024x705.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cryptocurrency exchange Binance announced plans to resume customer withdrawals in phases beginning Sunday, after covering 95 percent of the approximately $6.3 billion in digital assets stolen during a recent security breach. The incident involved the unauthorized theft of major tokens including Bitcoin and Ether, marking one of the largest heists in the history of the digital asset industry.</p><p>Binance has repeatedly stated it will bear the full financial impact of the breach, setting aside over $6.34 billion in internal corporate funds to replenish affected accounts. While the phased reopening marks a major milestone in restoring platform operations, technical investigations and efforts to recover frozen assets in collaboration with industry partners remain ongoing.</p>
-<p><small>Links: <a href="https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/">reuters.com</a></small></p>
 <br clear="all" />
 
 ---
