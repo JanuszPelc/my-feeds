@@ -3,9 +3,17 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-02T21:55:00+00:00</updated>
+  <updated>2026-11-02T21:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>`kill(1)` Parsing Bugs in `procps` Impact Ubuntu LTS Releases</title>
+    <link href="https://alangrow.com/blog/a-decade-of-kill-bugs" rel="alternate" />
+    <id>https://alangrow.com/blog/a-decade-of-kill-bugs::v240</id>
+    <published>2026-11-02T21:58:00+00:00</published>
+    <updated>2026-11-02T21:58:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://alangrow.com/blog/a-decade-of-kill-bugs">alangrow.com</a> | <a href="https://lobste.rs/s/wgoato/decade_kill_bugs">lobsters</a></small></p><hr/><p>Multiple Ubuntu LTS releases, from version 14.04 to 24.04, have contained bugs in the `kill(1)` command within the `procps` package. These issues stem from the use of `getopt` for command-line parsing, which causes negative process group identifiers (pgids) to be incorrectly interpreted as unrecognized options. In some cases, this misparsing leads to signals being sent to all processes on a machine except for PID 1.</p><p>Four distinct bugs were identified where previous attempts to fix parsing errors introduced new issues like segmentation faults or unintended shell termination. Because `kill` arguments can function as either signal names, numbers, or PIDs, `getopt`'s handling of option bundling is problematic for this utility. Positional argument parsing, similar to the implementation in FreeBSD, is recommended to ensure more predictable behavior.</p><hr/><small>3 Nov 2026, 02:01 UTC | #26244</small>]]></content>
+  </entry>
   <entry>
     <title>Ahmad Elalfy Argues Against Hardcoded Timeouts in Development Tools</title>
     <link href="https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html" rel="alternate" />
