@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-03T02:40:00+00:00</updated>
+  <updated>2026-11-03T08:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>NASA's Voyager 1 Approaches One Light-Day Distance Milestone</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261103003152.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261103003152.htm::v240</id>
+    <published>2026-11-03T08:12:00+00:00</published>
+    <updated>2026-11-03T08:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdailygalaxy.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-104-scaled.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261103003152.htm">sciencedaily.com</a> | <a href="https://www.jpl.nasa.gov/news/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/">jpl.nasa.gov</a> | <a href="https://news.ycombinator.com/item?id=50319849">hacker news</a></small></p><hr/><p>NASA's Voyager 1 spacecraft is approaching a distance of one light-day from Earth, or approximately 16.09 billion miles, making it the first human-made object to reach this milestone. Nearly 50 years after its 1977 launch, the interstellar probe continues to experience declining electrical output from its radioisotope thermoelectric generators, prompting engineers to execute a power-saving operation in September to preserve its remaining scientific instruments.</p><p>The milestone accompanies engineers addressing a brief, 48-hour communication interruption in October that was triggered when the spacecraft automatically switched to backup thrusters. Due to the extreme distance, communication with Voyager 1 now requires a 24-hour signal transit time in each direction, creating a total round-trip delay of 48 hours as the mission continues into interstellar space.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdailygalaxy.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fimage-104-scaled.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 13:27 UTC | #26282</small>]]></content>
+  </entry>
   <entry>
     <title>LHC Collaborations Detect Quark-Gluon Plasma in Oxygen and Neon Collisions</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261031221211.htm" rel="alternate" />
