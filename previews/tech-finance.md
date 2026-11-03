@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Apple Reports $114.48 Billion in Q4 Revenue</h2>
 <a name="story-26228"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.etnownews.com%2Fthumb%2Fmsid-156448259%2Cthumbsize-148379%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F156448259.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple reported fourth-quarter revenue of $114.48 billion, a 12% increase year-over-year. The company achieved September quarter records for total revenue, iPhone revenue, and earnings per share, while Services revenue reached a new all-time high. China revenue grew 21% to $17.5 billion, falling below the $18.9 billion analyst estimate.</p><p>This is the first earnings report under CEO John Ternus. While total revenue exceeded the $113.39 billion estimate, performance in China missed consensus expectations.</p>
-<p><small>Links: <a href="https://www.businesswire.com/news/home/20261102433950/en/">businesswire.com</a></small></p>
+<p><small>Links: <a href="https://www.businesswire.com/news/home/20261102433950/en/">businesswire.com</a> | <a href="https://news.ycombinator.com/item?id=50344670">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Palantir Exceeds Q3 Estimates as U.S. Commercial Revenue Tops Government Revenue</h2>
