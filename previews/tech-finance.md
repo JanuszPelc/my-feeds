@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Corridian Emerges From Stealth With $38M Seed Funding for Undersea Logistics AUVs</h2>
+<a name="story-26289"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fautonomous-underwater-vehicle-exploring-coral-reef-deep-blue-sea_967812-25049.jpg%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Autonomous submarine startup Corridian has exited stealth with a $38 million seed funding round led by Point72 Ventures. The New England-based defense technology company is building ultra-large autonomous underwater vehicles designed for crewless cargo transport and undersea logistics.</p><p>Participation in the funding round includes Balerion Space Ventures, Harpoon Ventures, DCVC, and Marlinspike. Corridian plans to unveil its first autonomous underwater vehicle in 2027 to establish an undersea stealth logistics fleet.</p>
+<p>Nov 3 · <a href="https://www.axios.com/2026/11/03/corridian-seed-auv-new-england">axios.com</a> | <a href="https://www.corridian.com/corridian-emerges-announces-38m-seed-round">corridian.com</a></p>
+<br clear="all" />
+
 <h2>Shopify Reports Third-Quarter Revenue Rise and Stronger Earnings</h2>
 <a name="story-26279"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FC3r5FphZqBI_LDoK9EPotA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTM5MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.finance.gurufocus%2F6b8823552e7a436b183c85281aa49432&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Shopify reported its third-quarter financial results, posting a 32% year-over-year increase in revenue to $3.74 billion and a 29% jump in gross merchandise volume to $119.1 billion. The e-commerce platform also saw its net income rise 75% to $462 million, alongside an adjusted per-share earnings of $0.49.</p><p>The results reflect continued momentum for the company as it expands merchant volume and operational efficiency. Shopify maintained a strong free cash flow margin and continued to scale its commerce infrastructure amid competitive market pressures.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2026%2F10%2Fc261c0d7-a9bb-4e0f-80d8-f5a9aebb7ac0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Midstream Health, an autonomous financial operations platform for health systems, has raised $20 million in a Series A funding round led by Valtruis. The investment brings the company's total funding to $29.2 million, with continued participation from existing backers including Andreessen Horowitz, Foundry, and CommonSpirit Ventures.</p><p>The company's AI tools are deployed across 250 hospitals—representing more than $100 billion in annual operating expenses—to help identify and recover revenue lost to payer underpayments, missed rebates, and billing errors. Midstream Health plans to use the new capital to scale its platform and expand its customer network across the United States.</p>
 <p>Nov 2 · <a href="https://www.axios.com/pro/health-tech-deals/2026/10/29/midstream-health-20m-revenue-recovery">axios.com</a> | <a href="https://www.businesswire.com/news/home/20261029125501/en/Midstream-Health-Raises-$20M-Series-A-to-Strengthen-the-Financial-Sustainability-of-Americas-Health-Systems">businesswire.com</a></p>
-<br clear="all" />
-
-<h2>Hex Technologies Raises $100 Million Series D at $1.2 Billion Valuation for AI Analytics Platform</h2>
-<a name="story-26133"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F10%2F28115619%2Flibrary-hex-raises-100-million-series-d-at-1-2-billion-valuation-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Data analytics provider Hex Technologies has raised $100 million in a Series D funding round at a post-money valuation of $1.2 billion. Co-led by Peak XV and 137 Ventures, the financing includes participation from institutional investors including Andreessen Horowitz, Sequoia Capital, and Amplify Partners.</p><p>Alongside the funding announcement, the company unveiled Hex 4.0, featuring a ground-up platform rebuild designed specifically for AI agents and collaborative data science workflows. The new capital will support the expansion of its agent-native analytics infrastructure following a period of strong enterprise growth.</p>
-<p>Nov 2 · <a href="https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/">forbes.com</a> | <a href="https://hex.tech/blog/hex-new-ear/">hex.tech</a> | <a href="https://news.ycombinator.com/item?id=50265413">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Baby Audio Crystalline Algorithmic Reverb Plugin Available for Five Dollars</h2>
+<a name="story-26308"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsoundthinks.net%2Fwp-content%2Fuploads%2F2024%2F07%2FBaby-Audio-Crystalline-5.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Baby Audio has discounted its Crystalline algorithmic reverb plugin to five dollars through a promotion running until December 9, 2026. Normally priced at ninety-nine dollars, the software is available at its lowest price ever via Plugin Boutique.</p><p>Crystalline provides independent control over room size, decay time, and stereo width, alongside features like a built-in ducker, tempo-synced pre-delay, and a sides filter to manage low frequencies. The plugin runs on 64-bit VST, AU, and AAX hosts for Windows and macOS, including native Apple Silicon support.</p>
+<p>Nov 3 · <a href="https://bedroomproducersblog.com/2026/11/03/baby-audio-crystalline-nobrainer/">bedroomproducersblog.com</a> | <a href="https://babyaud.io/crystalline">babyaud.io</a></p>
+<br clear="all" />
+
 <h2>ILIO Offers Low End Theory 2 Sound Pack Free for AAS Player</h2>
 <a name="story-26309"><img src="https://wsrv.nl/?url=https%3A%2F%2Ften-low.co.il%2Fwp-content%2Fuploads%2F2025%2F01%2FApplied_Acoustics_SYSTEMS_PLAYER_2_CHOICES_OF_SOUND_PACKS_SALE-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ILIO and Bedroom Producers Blog are partnering to offer 2,000 free licenses for the Low End Theory 2 sound pack by Sean Divine. Normally valued at $39, the 100-preset collection is tailored for hip-hop, trap, and electronic music production and operates within the free AAS Player plugin.</p><p>The promotion runs through November 17, 2026, or until all licenses are claimed. Low End Theory 2 features sub-basses, moving bass textures, leads, keys, pads, arpeggios, and synthesized drum sounds compatible with both the updated AAS Player 2.0 and the Ultra Analog VA-3 synthesizer.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbackstage.polyend.com%2Fuploads%2Fdefault%2Foptimized%2F2X%2Fc%2Fc8b0c5d69102af68a9917ba47dd1a7d629218a20_2_690x460.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Polyend has released the firmware source code for the original Tracker, Tracker+, and Tracker Mini on GitHub. The release includes Tracker Community Edition 1.0, which introduces features such as SD card sample streaming, a plugin SDK for the Sample Editor, and new synth engines for the Tracker+ and Tracker Mini models. A built-in recovery system is included to prevent hardware bricking during custom firmware modifications.</p><p>The update also adds wavetable envelopes and LFOs to all three models, along with improvements to MIDI clock timing and project loading speeds. This move is intended to support community-driven developments and the creation of custom instrument variations on existing Tracker hardware.</p>
 <p>Nov 2 · <a href="https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120">backstage.polyend.com</a> | <a href="https://polyend.com/whats-up/tracker-the-biggest-update-yet/">polyend.com</a> | <a href="https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50340159">hacker news</a></p>
-<br clear="all" />
-
-<h2>Big Man Labs Updates Big Max Zero to Version 1.3.0</h2>
-<a name="story-26206"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbmz.1775764083.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Big Man Labs has released version 1.3.0 of Big Max Zero, a free low-latency limiter plugin available for Windows, macOS, and Linux. The update introduces louder and cleaner limiting alongside faster release times across the plugin's Loud, Clean, and Smooth modes.</p><p>Additional improvements include click-free lookahead changes, more accurate LUFS metering, and fixes for bypass behavior in Delta mode. Furthermore, the Gain Match feature now operates with the plugin window closed without writing automation, and the software loads and renders more smoothly.</p>
-<p>Nov 2 · <a href="https://www.kvraudio.com/news/big-man-labs-updates-big-max-zero-to-v1-3-0-69570?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69570">kvraudio.com</a> | <a href="https://www.bigman-labs.com/products/big-max-zero/">bigman-labs.com</a></p>
 <br clear="all" />
 
 ---
