@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Elon Musk Says Grok Bot Serving Costs Were Unsustainably High Relative to Revenue</h2>
 <a name="story-26163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F07DNmMn7NRR6nEufCvYmqMZ-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Elon Musk acknowledged that the operating costs for running the Grok Bot were unsustainably high relative to the revenue it generated. The statement came in response to subscriber complaints on X regarding rapid usage limit depletion and unexpectedly fast exhaustion of weekly caps.</p><p>The financial admission highlights the heavy operational expenses associated with managing large-scale artificial intelligence models amid surging user demand. Subscribers had expressed frustration over strict throttling and limits encountered shortly after rollout, prompting questions regarding the long-term sustainability of the service tiers.</p>
-<p><small>Links: <a href="https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/">forbes.com</a></small></p>
+<p><small>Links: <a href="https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/">forbes.com</a> | <a href="https://news.ycombinator.com/item?id=50344533">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Marvell Technology to Acquire Lumentum in $115 Billion All-Stock Deal</h2>

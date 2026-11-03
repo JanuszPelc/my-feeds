@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Palantir Exceeds Q3 Estimates as U.S. Commercial Revenue Tops Government Revenue</h2>
+<a name="story-26224"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgobull.ai%2Fblog%2Farticles%2Fpalantir-q3-2026-earnings-date%2Fpalantir-q3-2026-earnings-date-scorecard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Palantir Technologies surpassed Wall Street's third-quarter expectations, reporting revenue of $2.31 billion and adjusted earnings per share of 44 cents. For the first time, the company's U.S. commercial revenue, which grew 148% year-over-year to $984 million, exceeded its U.S. government revenue of $953 million.</p><p>The company more than doubled its net income to $1.13 billion and increased its full-year 2026 revenue guidance. CEO Alex Karp attributed the growth to the adoption of artificial intelligence tools and addressed the need for managing liability within the AI industry.</p>
+<p><small>Links: <a href="https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html">cnbc.com</a> | <a href="https://investors.palantir.com/news-details/2026/Palantir-Reports-Q3-2026-U-S--Comm-Revenue-Growth-of-148-YY-and-Revenue-Growth-of-96-YY-Raises-FY-2026-Revenue-Guidance-to-91-YY-Growth-and-U.S.--Comm-Revenue-Guidance-to-143-YY-Crushing-Consensus-Expectations/">investors.palantir.com</a></small></p>
+<br clear="all" />
+
 <h2>Roku Reports 24% Revenue Growth and $183 Million Net Profit in Q3 2026</h2>
 <a name="story-26223"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimpactwealth.org%2Fwp-content%2Fuploads%2F2026%2F01%2FRoku-Stock-Outlook-2026-Platform-Revenue-Growth-Future-Upside.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Roku reported $1.5 billion in revenue for the third quarter of 2026, a 24% year-over-year increase. Net income rose more than seven-fold to $183 million. Platform segment revenue grew 23% to $1.3 billion, bolstered by strong advertising sales in the political and media/entertainment categories.</p><p>Total streaming hours reached 39.9 billion, a 9% year-over-year increase. Devices revenue grew 33% to $194 million, but the segment reported an operating loss of $48.6 million due to higher memory costs. The company is currently undergoing a $22 billion acquisition by Fox Corp, expected to close in the first half of 2027.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26107"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.binance.vision%2Feditor-uploads-original%2Fa0070858e6ac47588ad6bb1a29a470df.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance recorded approximately $3.64 billion in net outflows during the first nine and a half hours after it resumed withdrawals following a record $6.3 billion hack. The exchange processed $4.65 billion in withdrawals and $1.01 billion in deposits, representing about 2.1% of its total assets under management.</p><p>While withdrawal volumes have begun to stabilize, Binance continues testing and restoring remaining network assets while other major exchanges experience net inflows. The hack, which drained hot wallets on Thursday, was attributed by the FBI to North Korea's TraderTraitor hacking group, prompting Binance to implement new wallet structures and prepare an updated proof-of-reserves report.</p>
 <p><small>Links: <a href="https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259">theblock.co</a></small></p>
-<br clear="all" />
-
-<h2>Industrial AI Startup Lumaril Raises $66 Million Series A</h2>
-<a name="story-26084"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.automation.com%2Fdocuments%2Fd%2Facom%2Fcover-photo-for-introductory-piece-web.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Lumaril has raised $66 million in a Series A funding round at a $400 million valuation to expand its industrial artificial intelligence software. The company builds systems that connect to existing factory control networks to continuously optimize production, throughput, and yield without requiring heavy hardware retrofits.</p><p>The financing round was led by returning investor Elad Gil, with participation from Felicis, Koch Disruptive Technologies, Pax Ventures, Lux Capital, and General Catalyst, bringing the startup's total funding to $78 million. The capital coincides with the company's official launch out of stealth to target efficiency in the physical manufacturing sector.</p>
-<p><small>Links: <a href="https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d">wsj.com</a> | <a href="https://lumaril.substack.com/p/nothing-is-built-from-nothing">lumaril.substack.com</a></small></p>
 <br clear="all" />
 
 ---
