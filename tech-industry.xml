@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-03T18:08:00+00:00</updated>
+  <updated>2026-11-03T18:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>OpenAI Reports ChatGPT Reaches 1.2 Billion Weekly Users and 20% of Google Search Volume</title>
+    <link href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20" rel="alternate" />
+    <id>https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20::v240</id>
+    <published>2026-11-03T18:11:00+00:00</published>
+    <updated>2026-11-03T18:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fjam7.com%2Fhs-fs%2Fhubfs%2Fchatgpt-and-challenger-search-engines-bing-duckduckgo.png%3Fwidth%3D1200%26height%3D742%26name%3Dchatgpt-and-challenger-search-engines-bing-duckduckgo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20">bigtechnology.com</a></small></p><hr/><p>OpenAI consumer product lead Adam Fry announced that ChatGPT has reached 1.2 billion weekly active users, adding 200 million users over a two-month period. Fry also stated that the platform's search-like query volume has risen to approximately 20 percent of Google's volume.</p><p>During a discussion in New York, Fry revealed plans to merge ChatGPT's separate Chat and Work modes into a single unified interface. He noted that the platform's voice input feature has grown to 250 million weekly active users, while image generation has reached 1.5 billion creations per week.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fjam7.com%2Fhs-fs%2Fhubfs%2Fchatgpt-and-challenger-search-engines-bing-duckduckgo.png%3Fwidth%3D1200%26height%3D742%26name%3Dchatgpt-and-challenger-search-engines-bing-duckduckgo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 22:55 UTC | #26298</small>]]></content>
+  </entry>
   <entry>
     <title>Neufangled Robotics Launches Stringman Room-Scale Cable Robot</title>
     <link href="https://neufangled.com/" rel="alternate" />

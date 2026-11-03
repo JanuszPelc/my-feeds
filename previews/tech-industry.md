@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>OpenAI Reports ChatGPT Reaches 1.2 Billion Weekly Users and 20% of Google Search Volume</h2>
+<a name="story-26298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjam7.com%2Fhs-fs%2Fhubfs%2Fchatgpt-and-challenger-search-engines-bing-duckduckgo.png%3Fwidth%3D1200%26height%3D742%26name%3Dchatgpt-and-challenger-search-engines-bing-duckduckgo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI consumer product lead Adam Fry announced that ChatGPT has reached 1.2 billion weekly active users, adding 200 million users over a two-month period. Fry also stated that the platform's search-like query volume has risen to approximately 20 percent of Google's volume.</p><p>During a discussion in New York, Fry revealed plans to merge ChatGPT's separate Chat and Work modes into a single unified interface. He noted that the platform's voice input feature has grown to 250 million weekly active users, while image generation has reached 1.5 billion creations per week.</p>
+<p>Nov 3 · <a href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20">bigtechnology.com</a></p>
+<br clear="all" />
+
 <h2>Neufangled Robotics Launches Stringman Room-Scale Cable Robot</h2>
 <a name="story-26351"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fnf-site-assets-prod-b%2Fassets%2Fexploded.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Neufangled Robotics has introduced Stringman, an open-source, ceiling-mounted cable-driven parallel robot designed for room-scale manipulation. Priced at $795, the system suspends a two-fingered gripper from four corner-anchored lines, using combined motor torque to achieve a higher payload capacity and broader workspace than traditional desktop robotic arms.</p><p>The OSHWA-certified hardware features published CAD files, PCBs, and control software compatible with frameworks like LeRobot, allowing users to operate it locally or integrate it with machine learning agents. Designed for home labs and classrooms, Stringman includes active swing cancellation, local network operation, and visual tagging capabilities to move items across entire rooms without occupying floor space.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26190"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftmastreet.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-35-1024x661.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Oracle has filed to raise $20 billion through concurrent offerings of $10 billion in common stock and $10 billion in bonds. The capital raise is intended to finance the company's expanding data center infrastructure and artificial intelligence ambitions.</p><p>The concurrent offerings can close independently, and the announcement prompted a more than 5% decline in Oracle's stock price as markets reacted to potential share dilution and increased debt. The move follows previous disclosures outlining heavy financing requirements to support the company's growing cloud and AI workloads.</p>
 <p>Nov 2 · <a href="https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.oracle.com/sec-filings/default.aspx">investor.oracle.com</a></p>
-<br clear="all" />
-
-<h2>Alphabet Kicks Off €6 Billion Euro-Denominated Bond Sale</h2>
-<a name="story-26193"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fcard%2F01m6e925erk7526ws6bjnctab0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google parent Alphabet is issuing €6 billion in euro-denominated debt across seven tranches. The offering tests investor appetite for technology sector debt following recent market volatility and doubts surrounding the artificial intelligence trade.</p><p>The debt sale follows an earlier €9 billion bond offering across six tranches earlier in the year. Despite recent tech sector selloffs, the current issuance has attracted strong early demand, pulling in more than €17 billion in orders from investors.</p>
-<p>Nov 2 · <a href="https://www.reuters.com/business/finance/alphabet-kicks-off-6-billion-bond-sale-tests-appetite-tech-debt-2026-11-02/">reuters.com</a></p>
 <br clear="all" />
 
 ---
