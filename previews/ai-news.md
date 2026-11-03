@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google to Restrict Search Access for Schools That Block AI Tools</h2>
+<a name="story-26323"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthesiliconreview.com%2Fstory_image_upload%2Farticle%2FThe-Silicon-Review---U.S-School-Districts-Begin-K%E2%80%9312-AI-Policy-Implementation_2025-07-29_10-05-43.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google announced that beginning in early next year, its artificial intelligence tools for K-12 student accounts will be turned off by default unless school administrators explicitly enable them. However, the company linked this policy to internet search access, stating that schools choosing to block or restrict AI tools entirely will also lose student access to Google Search.</p><p>Because Google’s suite of education apps, Chromebook laptops, and search engine are deeply entrenched in American classrooms, the policy creates a significant dilemma for school districts. Administrators who wish to keep students within the Google ecosystem for web searches will be forced to adopt the company's integrated generative AI features.</p>
+<p>Nov 3 · <a href="https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50353192">hacker news</a></p>
+<br clear="all" />
+
 <h2>NVIDIA Releases Open-Source Auto Ontology Framework for AI Agents</h2>
 <a name="story-26294"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FNVIDIA%2Fauto-ontology%2Fraw%2Fmain%2Fdocs%2Fassets%2Farch.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NVIDIA Auto Ontology is an open-source Python framework and semantic layer designed to build graph-based reasoning layers from enterprise metadata. It translates raw company data into structured business concepts, enabling deterministic query generation, improved context retrieval, and explainable AI for LLM and agent workflows.</p><p>The framework integrates with NVIDIA NIM endpoints and supports database connections including Snowflake, Databricks, and Postgres. It exposes context to agent harnesses through the Model Context Protocol (MCP), a command-line interface, and REST APIs, offering deployment options via Docker Compose or Kubernetes.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26100"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcellcog.ai%2Fblog%2Fmedia%2Fchatgpt-codex-shared-usage-limit%2Fslide-1.webp%3Fv%3Dc4dc01cb86&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Starting in December, OpenAI will combine usage allowances for ChatGPT and Codex into a single token-based pool for Plus, Pro, and Business plans. This transition coincides with the integration of Work's agentic capabilities directly into the main ChatGPT experience.</p><p>Usage will be measured in tokens, with consumption varying according to the chosen model and the complexity of the requested tasks, while instant chat will remain unmetered. Subscribers can monitor their combined balance and reset schedules within the app's settings, and they will have the option to wait for resets, upgrade plans, or purchase additional credits if limits are reached.</p>
 <p>Nov 1 · <a href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits">help.openai.com</a> | <a href="https://news.ycombinator.com/item?id=50320588">hacker news</a></p>
-<br clear="all" />
-
-<h2>DeepSeek Releases Super-Agent Autonomous Coding Prototype</h2>
-<a name="story-26081"><img src="https://wsrv.nl/?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F1216785679%2F7d891983-5b92-40d4-81e3-7ebc365ce645&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DeepSeek has released an open-source prototype of an autonomous coding agent called Super-Agent, aiming to compete with Anthropic's Claude Code. The system is designed to handle software development tasks with a higher degree of autonomy than previous models.</p><p>According to the DeepSeek Harness team, the Super-Agent prototype can proactively monitor developer group chats for feedback and suggest solutions without requiring a direct prompt. Further details and the source code have been published to its official repository.</p>
-<p>Nov 1 · <a href="https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic">bloomberg.com</a> | <a href="https://github.com/deepseek-ai/dsh-superagent-prototype">github.com</a> | <a href="https://news.ycombinator.com/item?id=50316116">hacker news</a></p>
 <br clear="all" />
 
 ---

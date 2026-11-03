@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-03T12:35:00+00:00</updated>
+  <updated>2026-11-03T12:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Smithsonian Researchers Identify Chytrid Fungus as Cause of Historic Frog Declines in Brazil</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261102202838.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261102202838.htm::v240</id>
+    <published>2026-11-03T12:53:00+00:00</published>
+    <updated>2026-11-03T12:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcolossalfoundation.org%2Fwp-content%2Fuploads%2F2024%2F12%2FChytrid_Impact.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261102202838.htm">sciencedaily.com</a> | <a href="https://www.si.edu/newsdesk/releases/museum-specimens-reveal-pathogen-behind-decades-old-mystery-of-disappearing-frogs">si.edu</a></small></p><hr/><p>Researchers from the Smithsonian's National Zoo and Conservation Biology Institute and Pennsylvania State University have identified the deadly chytrid fungus as the cause of historic amphibian declines in Brazil's Atlantic Forest. By analyzing preserved museum specimens collected at the Boracéia Biological Station before and after population collapses between 1979 and 1982, the team found that fungal infections surged concurrently with the disappearances.</p><p>The study reveals that while highly vulnerable species may have died too quickly to leave infected remains, more stable species carried the pathogen and likely developed greater tolerance over time. Modern field surveys conducted between 2022 and 2024 indicate that many local frog populations have since rebounded, providing valuable insights into how wildlife adapts to persistent fungal epidemics.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolossalfoundation.org%2Fwp-content%2Fuploads%2F2024%2F12%2FChytrid_Impact.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 18:10 UTC | #26284</small>]]></content>
+  </entry>
   <entry>
     <title>Nicholas Carlini Analyzes Chess Engine Improvements Using 1996 Pentium Hardware</title>
     <link href="https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html" rel="alternate" />
