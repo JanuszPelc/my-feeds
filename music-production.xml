@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-03T03:39:00+00:00</updated>
+  <updated>2026-11-03T12:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Producer Warren Huart Appears on My Forever Studio Podcast</title>
+    <link href="https://musictech.com/shows/podcasts/my-forever-studio/warren-huart/" rel="alternate" />
+    <id>https://musictech.com/shows/podcasts/my-forever-studio/warren-huart/::v240</id>
+    <published>2026-11-03T12:24:00+00:00</published>
+    <updated>2026-11-03T12:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fwarren-huart-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/shows/podcasts/my-forever-studio/warren-huart/">musictech.com</a></small></p><hr/><p>Multi-platinum producer and Produce Like a Pro host Warren Huart is featured on MusicTech's My Forever Studio podcast, created in partnership with Audient. During the episode, he discusses his extensive recording career across music and film, while curating a fantasy studio restricted to a limited number of essential items.</p><p>His selections emphasize personal connection, practical utility, and musical romance over pristine perfection, including a modest guitar he intends to keep permanently. The podcast series tasks industry professionals with distilling their creative spaces into a handful of items driven by nostalgia and personal workflow.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fwarren-huart-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 14:32 UTC | #26264</small>]]></content>
+  </entry>
   <entry>
     <title>DiscImageStudio Open-Source Tool Burns Visible Artwork Onto CDs, DVDs, and Blu-ray Discs</title>
     <link href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio" rel="alternate" />

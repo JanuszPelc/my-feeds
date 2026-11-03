@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Producer Warren Huart Appears on My Forever Studio Podcast</h2>
+<a name="story-26264"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fwarren-huart-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Multi-platinum producer and Produce Like a Pro host Warren Huart is featured on MusicTech's My Forever Studio podcast, created in partnership with Audient. During the episode, he discusses his extensive recording career across music and film, while curating a fantasy studio restricted to a limited number of essential items.</p><p>His selections emphasize personal connection, practical utility, and musical romance over pristine perfection, including a modest guitar he intends to keep permanently. The podcast series tasks industry professionals with distilling their creative spaces into a handful of items driven by nostalgia and personal workflow.</p>
+<p>Nov 3 · <a href="https://musictech.com/shows/podcasts/my-forever-studio/warren-huart/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>DiscImageStudio Open-Source Tool Burns Visible Artwork Onto CDs, DVDs, and Blu-ray Discs</h2>
 <a name="story-26270"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.bgo.one%2Fnews-image%2F44208283_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DiscImageStudio is an open-source software utility that converts standard images into data aligned with the physical constraints of CDs, DVDs, and single-layer BD-R discs, enabling users to burn visible artwork directly onto disc surfaces. It provides a Windows desktop application featuring layer-based design tools, grayscale adjustment, and direct streaming or image export, alongside experimental command-line interfaces for Linux and macOS.</p><p>The application incorporates precise auxiliary calibration algorithms to correct track geometry, supports hybrid file directory mapping, and exports standard formats such as ISO, RAW, and WAV+CUE. Built on .NET 10, the tool references physical specifications from ECMA and ISO/IEC to accurately translate image pixels into physical disc tracks and error correction codes while operating offline without telemetry.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26157"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsirax-desktop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Aurora DSP has launched the Sirax Mastering Suite, a modular mastering plugin for Windows, macOS, and Linux that combines nine dedicated processing stages into a single interface. The plugin features customizable modules for bus compression, multiband control, equalization, stereo imaging, saturation, clipping, limiting, and presence enhancement, alongside metering and analysis tools.</p><p>The suite is currently available at an introductory price of $49 before rising to its standard $99 rate, with a 14-day free trial offered on the developer's website. It supports VST3, AU, AAX, LV2, and CLAP plugin formats across different operating systems, incorporating an assist feature for custom starting points and reference-matching capabilities.</p>
 <p>Nov 2 · <a href="https://www.kvraudio.com/news/aurora-dsp-releases-sirax-mastering-suite-69555?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69555">kvraudio.com</a></p>
-<br clear="all" />
-
-<h2>remaincalm Releases Sunfish Wavetable Instrument Plugin</h2>
-<a name="story-26156"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsunfish_screenshot.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Software developer remaincalm has released Sunfish, a hybrid wavetable and virtual analog instrument plugin for Windows and macOS. Inspired by 1980s synthesizers such as the Korg Trident and ARP Quadra, the software incorporates modeled circuits from vintage home organs, string synths, and chiptune equipment.</p><p>In development since 2018, Sunfish features "The Morpher," a control mechanism designed to let users easily blend between different timbres. Available in VST3, AU, and AAX formats, the plugin is priced at $49, though the developer has introduced a temporary promotional discount across its entire product lineup alongside updates that add freely scalable user interfaces.</p>
-<p>Nov 2 · <a href="https://www.kvraudio.com/news/remaincalm-releases-sunfish-wavetable-enigma-instrument-plugin-aax-au-and-vst3-69551?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69551">kvraudio.com</a> | <a href="https://remaincalm.audio/plugins/sunfish/">remaincalm.audio</a></p>
 <br clear="all" />
 
 ---
