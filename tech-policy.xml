@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-03T08:50:00+00:00</updated>
+  <updated>2026-11-03T12:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Alex Bores Launches Who Decides PAC to Shape 2028 Democratic AI Agenda</title>
+    <link href="https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html" rel="alternate" />
+    <id>https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html::v240</id>
+    <published>2026-11-03T12:30:00+00:00</published>
+    <updated>2026-11-03T12:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F691baf4cd791a56f18525bb6%2F3%3A4%2Fw_2560%2Cc_limit%2FAlex-Bores-QnA-Business-AP25262090128678.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html">nymag.com</a> | <a href="https://whodecides.org/press/who-decides-launches">whodecides.org</a></small></p><hr/><p>After losing a competitive congressional primary targeted by millions in tech-industry spending, former New York State Assemblyman Alex Bores has launched Who Decides, a $30 million advocacy organization. The initiative aims to establish a unified AI safety platform for the Democratic Party and pressure 2028 presidential contenders to take firm positions on technology oversight.</p><p>Bores plans to deploy staffers across early-primary and swing states to organize grassroots and local leaders around a common regulatory framework. While the effort seeks to bridge the gap between anti-tech voter sentiment and industry-backed donors, it faces criticism from rival super-PACs that argue aggressive safety narratives misread the electorate and threaten working-class union jobs tied to data-center development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F691baf4cd791a56f18525bb6%2F3%3A4%2Fw_2560%2Cc_limit%2FAlex-Bores-QnA-Business-AP25262090128678.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 15:49 UTC | #26261</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Scraped AO3 Clone Site Shuts Down After Receiving 2,000 Takedown Requests</title>
     <link href="https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/" rel="alternate" />

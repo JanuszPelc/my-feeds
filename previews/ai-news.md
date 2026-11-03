@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>NVIDIA Releases Open-Source Auto Ontology Framework for AI Agents</h2>
+<a name="story-26294"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FNVIDIA%2Fauto-ontology%2Fraw%2Fmain%2Fdocs%2Fassets%2Farch.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>NVIDIA Auto Ontology is an open-source Python framework and semantic layer designed to build graph-based reasoning layers from enterprise metadata. It translates raw company data into structured business concepts, enabling deterministic query generation, improved context retrieval, and explainable AI for LLM and agent workflows.</p><p>The framework integrates with NVIDIA NIM endpoints and supports database connections including Snowflake, Databricks, and Postgres. It exposes context to agent harnesses through the Model Context Protocol (MCP), a command-line interface, and REST APIs, offering deployment options via Docker Compose or Kubernetes.</p>
+<p>Nov 3 · <a href="https://github.com/NVIDIA/auto-ontology">github.com</a> | <a href="https://news.ycombinator.com/item?id=50348962">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenAI Partners with Cathedral and Updates Security Bug Bounty Program</h2>
 <a name="story-26257"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpolicyreview.info%2Fsites%2Fdefault%2Ffiles%2Fassets%2Fimages%2Fnode-1740%2F2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI is partnering with Cathedral to test its security defenses as part of an upcoming internal security sprint. The initiative brings external researchers and security partners together with internal teams to harden the company's AI systems and defense methods.</p><p>Alongside the partnership, OpenAI is revamping its Security Bug Bounty program by more than quadrupling rewards for critical findings. The updates are designed to encourage researchers to challenge existing security assumptions and help strengthen overall platform protection.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26081"><img src="https://wsrv.nl/?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F1216785679%2F7d891983-5b92-40d4-81e3-7ebc365ce645&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DeepSeek has released an open-source prototype of an autonomous coding agent called Super-Agent, aiming to compete with Anthropic's Claude Code. The system is designed to handle software development tasks with a higher degree of autonomy than previous models.</p><p>According to the DeepSeek Harness team, the Super-Agent prototype can proactively monitor developer group chats for feedback and suggest solutions without requiring a direct prompt. Further details and the source code have been published to its official repository.</p>
 <p>Nov 1 · <a href="https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic">bloomberg.com</a> | <a href="https://github.com/deepseek-ai/dsh-superagent-prototype">github.com</a> | <a href="https://news.ycombinator.com/item?id=50316116">hacker news</a></p>
-<br clear="all" />
-
-<h2>Memdoor Releases Team-Solve Workflow Implementing GVS5H Multi-Agent Architecture</h2>
-<a name="story-26089"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHPsbsG0b0AA7mhV%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Memdoor has published a new workflow implementation called team-solve, based on the GVS5H training-free self-orchestration method. The architecture coordinates five distinct Qwen3.8-27B agent instances—acting as a planner, two ideators, a solver, a manager, and a repair worker—running with fresh contexts and communicating solely through files on disk rather than shared memory or chat windows.</p><p>Tested on the first ten problems of the LiveCodeBench Hard benchmark across five passes, the file-based multi-agent setup achieved a mean score of 9.8 out of 10, matching the performance of the authors' original research harness. Each run took a median of 40 minutes at a cost of approximately $0.39, utilizing eight YAML configuration files without custom code or hardcoded model names.</p>
-<p>Nov 1 · <a href="https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve">github.com</a> | <a href="https://news.ycombinator.com/item?id=50320995">hacker news</a></p>
 <br clear="all" />
 
 ---
