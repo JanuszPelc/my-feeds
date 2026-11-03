@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>XLN Audio Releases RC-20 Retro Color v2</h2>
+<a name="story-26265"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frc-20-retro-color---hero---main-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>XLN Audio has released RC-20 Retro Color v2, a major update to its multi-effects plugin that introduces a feedback delay, granular processing capabilities, and new degradation features. The updated version allows users to rearrange its six sound-shaping modules within the processing chain and provides tempo-synchronized echo and tape flutter.</p><p>The new software includes warp modulation, digital sputter and drive, space ducking, and pre-and-post noise blending, alongside workflow additions like automatic loudness matching and full undo history. Version 2 installs side-by-side with the original plugin to maintain project compatibility and is available in VST3, AU, and AAX formats with introductory pricing options for new and existing users.</p>
+<p>Nov 3 · <a href="https://www.kvraudio.com/news/xln-audio-releases-rc-20-retro-color-v2---feedback-delay-and-new-degradation-effects-69568?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69568">kvraudio.com</a> | <a href="https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color">xlnaudio.com</a></p>
+<br clear="all" />
+
 <h2>Producer Warren Huart Appears on My Forever Studio Podcast</h2>
 <a name="story-26264"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fwarren-huart-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multi-platinum producer and Produce Like a Pro host Warren Huart is featured on MusicTech's My Forever Studio podcast, created in partnership with Audient. During the episode, he discusses his extensive recording career across music and film, while curating a fantasy studio restricted to a limited number of essential items.</p><p>His selections emphasize personal connection, practical utility, and musical romance over pristine perfection, including a modest guitar he intends to keep permanently. The podcast series tasks industry professionals with distilling their creative spaces into a handful of items driven by nostalgia and personal workflow.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26158"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fthrillme2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>discoDSP has released ThrillMe Classic for its FX Bundle alongside major updates for the TED-8, Retromulator 2, and Discovery Pro 9 virtual synthesizers. The free updates introduce hardware-accurate emulations, expanded modulation controls, and a new Nord Lead 1 core across the developer's product lineup.</p><p>Highlights include the inclusion of the 2002 ThrillMe tube compressor with an original signal chain and true-peak limiter, while Retromulator 2.1 adds a bit-exact Nord Lead 1 implementation and a VST3 effect chain. Additionally, TED-8 gains TEO-5 arpeggiator modes, MPE support, and microtuning, and Discovery Pro 9 introduces wide unison detune and hardware-modeled Super 7 and Retro Cell 2 behaviors.</p>
 <p>Nov 2 · <a href="https://www.kvraudio.com/news/discodsp-releases-thrillme-classic-adds-new-free-nord-lead-1-core-in-retromulator-2-updates-ted-8-and-discovery-pro-9-synths-69553?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69553">kvraudio.com</a> | <a href="https://www.discodsp.com/news/">discodsp.com</a></p>
-<br clear="all" />
-
-<h2>Aurora DSP Releases Sirax Mastering Suite Plugin</h2>
-<a name="story-26157"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsirax-desktop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Aurora DSP has launched the Sirax Mastering Suite, a modular mastering plugin for Windows, macOS, and Linux that combines nine dedicated processing stages into a single interface. The plugin features customizable modules for bus compression, multiband control, equalization, stereo imaging, saturation, clipping, limiting, and presence enhancement, alongside metering and analysis tools.</p><p>The suite is currently available at an introductory price of $49 before rising to its standard $99 rate, with a 14-day free trial offered on the developer's website. It supports VST3, AU, AAX, LV2, and CLAP plugin formats across different operating systems, incorporating an assist feature for custom starting points and reference-matching capabilities.</p>
-<p>Nov 2 · <a href="https://www.kvraudio.com/news/aurora-dsp-releases-sirax-mastering-suite-69555?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69555">kvraudio.com</a></p>
 <br clear="all" />
 
 ---
