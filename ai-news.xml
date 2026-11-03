@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>OpenAI Introduces Pando Git Backend to Scale Monorepo Development</title>
+    <link href="https://openai.com/index/scaling-git-at-openai/" rel="alternate" />
+    <id>https://openai.com/index/scaling-git-at-openai/::v240</id>
+    <published>2026-11-03T03:35:00+00:00</published>
+    <updated>2026-11-03T03:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWK4YvwW8AARr3H%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://openai.com/index/scaling-git-at-openai/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50345924">hacker news</a></small></p><hr/><p>OpenAI has developed Pando, a new Git-compatible source control backend designed to handle the heavy concurrent demands of its monorepo and Codex-driven development. Pando achieves horizontally scalable writes and high read throughput by replacing repository-wide consistency with causal consistency and reusing packfiles across fetches.</p><p>Remaining fully compatible with standard Git clients and protocols, the system cuts median push latency by nearly five times and delivers nearly a petabyte of Git data daily. The architecture bypasses traditional bottlenecks like three-phase commit and write-ahead logs, enabling thousands of engineers and coding agents to push changes in parallel without performance degradation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWK4YvwW8AARr3H%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 09:23 UTC | #26263</small>]]></content>
+  </entry>
+  <entry>
     <title>Google Launches Dreambeans AI App in India</title>
     <link href="https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/" rel="alternate" />
     <id>https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/::v240</id>
