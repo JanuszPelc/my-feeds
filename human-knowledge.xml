@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-03T12:25:00+00:00</updated>
+  <updated>2026-11-03T12:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>All Five DNA and RNA Nucleobases Discovered in Asteroid Ryugu Samples</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261102075903.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261102075903.htm::v240</id>
+    <published>2026-11-03T12:33:00+00:00</published>
+    <updated>2026-11-03T12:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fingredients-of-life-di-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261102075903.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41550-026-02791-z">nature.com</a></small></p><hr/><p>Researchers analyzing pristine samples returned from the asteroid Ryugu by Japan's Hayabusa2 mission have detected all five fundamental nucleobases—adenine, guanine, cytosine, thymine, and uracil. These nitrogen-containing organic molecules serve as the genetic letters of DNA and RNA, combining with sugars and phosphates to form nucleotides.</p><p>The discovery confirms that the building blocks of genetic material were present in primitive carbonaceous asteroids during the early Solar System. While previous meteorite finds on Earth faced potential contamination risks, uncompromised samples from Ryugu and NASA's asteroid Bennu reinforce the hypothesis that space-borne chemistry helped deliver the prebiotic ingredients necessary for life on Earth.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fingredients-of-life-di-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 16:04 UTC | #26283</small>]]></content>
+  </entry>
   <entry>
     <title>ESA Hera Spacecraft Captures First Resolved Images of Didymos and Dimorphos Asteroids</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261103003154.htm" rel="alternate" />

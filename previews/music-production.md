@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Moonbase Opens Second Annual State of Independent Audio Software Companies Survey</h2>
+<a name="story-26272"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-03-at-12-57-13-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Moonbase has launched its second annual survey targeting independent audio software developers, including plugin creators, virtual instrument makers, sample library developers, and digital audio workstation creators. The survey covers key business metrics such as revenue, pricing trends, sales channels, licensing, support challenges, and artificial intelligence integration.</p><p>Open until December 6, 2026, the questionnaire aims to provide comparative benchmarks for solo developers and small businesses, with results published in aggregate. Participants who provide an email address will receive an advance copy of the final report in January 2027 ahead of its public release.</p>
+<p>Nov 3 · <a href="https://www.kvraudio.com/news/moonbase-announces-state-of-independent-audio-software-companies-2026-survey-69586?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69586">kvraudio.com</a> | <a href="https://moonbase.sh/survey/">moonbase.sh</a></p>
+<br clear="all" />
+
 <h2>Expressive E Announces GForce Collection Featuring MAP and Prophet 5 MPE Presets</h2>
 <a name="story-26267"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgforce_thumbnail_annonce.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Expressive E has announced the GForce Collection, a new bundle for its Ctrl-e platform that includes 500 MPE-compatible presets split evenly between GForce Software's MAP and the official Sequential Prophet 5 instruments. The collection provides users with full access to both instrument interfaces for advanced sound design.</p><p>Designed to integrate with Expressive E's hardware controllers and the Osmose synthesizer, the sound packs leverage polyphonic expression capabilities. Users gain access to 250 presets for each synthesizer, blending vintage analog character with modern multidimensional polyphonic expression control features.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26161"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffamos_ea_osc_1200.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Verongue has released Famos, a wavetable synthesizer designed for electronic music producers and sound designers, currently available as a free version 0.9.0 early access release. The instrument runs on macOS in AU and VST3 formats, with a paid full version featuring factory presets planned for the future.</p><p>Famos incorporates a unique "Genoming" feature that treats sound parameters as genes, allowing users to mutate sounds by manipulating neuron branches while retaining desired changes through locks and history. Additional features include three wavetable oscillators with sub and noise, WAV import capabilities, an "Evolve" layer for harmony and ensemble growth, note anchoring via "Bond," and 11 built-in effects such as tape echo and grain delay.</p>
 <p>Nov 2 · <a href="https://www.kvraudio.com/news/verongue-releases-famos---free-wavetable-synthesizer-in-early-access-69535?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69535">kvraudio.com</a> | <a href="https://verongue.gumroad.com/l/famos_earlyaccess">verongue.gumroad.com</a></p>
-<br clear="all" />
-
-<h2>Aqeel Aadam Sound Releases Grasswhistle Free Arpeggiator Plugin</h2>
-<a name="story-26160"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fui_1-small.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Aqeel Aadam Sound has released Grasswhistle, a free arpeggiator plugin designed to turn chord progressions into customizable note sequences. Derived from the arpeggiator sequencer in the Waymaker suite, the plugin adapts its patterns to varying chord structures and features over 50 factory presets.</p><p>Grasswhistle functions as both a virtual instrument with a built-in ocarina-style synth voice and as a MIDI effect for sequencing external hardware and software. Offered on a pay-what-you-want basis, the plugin supports VST3, AU, and AAX formats, with an iOS AUv3 version planned for release.</p>
-<p>Nov 2 · <a href="https://www.kvraudio.com/news/aqeel-aadam-sound-releases-grasswhistle---free-arpeggiator-plugin-aax-au-and-vst3-69530?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69530">kvraudio.com</a> | <a href="https://aqeelaadamsound.com/b/grasswhistle">aqeelaadamsound.com</a></p>
 <br clear="all" />
 
 ---
