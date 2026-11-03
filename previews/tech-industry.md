@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Retired Aircraft Jet Engines Repurposed to Power AI Data Centers</h2>
+<a name="story-26278"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2026%2F01%2Farticle-5382-1767338654.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Facing severe electricity shortages and long grid connection delays, artificial intelligence data center developers are increasingly turning to retired commercial and military aircraft jet engines to generate off-grid power. Companies are scavenging engines from aircraft boneyards—such as Boeing and Airbus powerplants—and converting them into rapid-deployment gas turbines.</p><p>This trend has accelerated as rapid data center expansion outpaces traditional energy infrastructure buildouts. While the repurposed turbines offer unmatched speed to power, industry experts and environmental advocates warn that burning fossil fuels via makeshift generators will significantly increase air pollution and associated healthcare costs.</p>
+<p>Nov 3 · <a href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50352584">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenAI Hires Former U.S. Army Secretary Dan Driscoll for National Security Role</h2>
 <a name="story-26274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihvAlsWWIWqM%2Fv0%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has appointed former U.S. Army Secretary Dan Driscoll as its first senior counselor for national security modernization. In this newly created role, Driscoll will advise company leadership on integrating artificial intelligence into national security and cybersecurity initiatives, as well as collaborating with allied governments.</p><p>Driscoll's appointment comes as artificial intelligence companies increasingly seek to expand their footprint within government contracting and defense policy. Prior to joining OpenAI, Driscoll served as the 26th Secretary of the Army and is an Iraq War veteran.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F07DNmMn7NRR6nEufCvYmqMZ-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Elon Musk acknowledged that the operating costs for running the Grok Bot were unsustainably high relative to the revenue it generated. The statement came in response to subscriber complaints on X regarding rapid usage limit depletion and unexpectedly fast exhaustion of weekly caps.</p><p>The financial admission highlights the heavy operational expenses associated with managing large-scale artificial intelligence models amid surging user demand. Subscribers had expressed frustration over strict throttling and limits encountered shortly after rollout, prompting questions regarding the long-term sustainability of the service tiers.</p>
 <p>Nov 2 · <a href="https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/">forbes.com</a> | <a href="https://news.ycombinator.com/item?id=50344533">hacker news</a></p>
-<br clear="all" />
-
-<h2>Marvell Technology to Acquire Lumentum in $115 Billion All-Stock Deal</h2>
-<a name="story-26169"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsg-imgs.dealroom.co%2F65c1869467e5e8e9135edc9cd55aaec9.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Marvell Technology has agreed to acquire optical components maker Lumentum in an all-stock transaction valued at an implied enterprise value of $115 billion, including debt. The agreement represents a major consolidation move as custom chipmaker Marvell seeks to strengthen its position in artificial intelligence infrastructure and compete directly with larger rival Broadcom.</p><p>The transaction follows prior strategic investments, including Nvidia investing $2 billion in each company earlier in 2026 amid surging demand for AI data center components. The deal highlights the critical role of optical networking technologies in supporting the high-speed data transmission required for modern artificial intelligence workloads.</p>
-<p>Nov 2 · <a href="https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/">reuters.com</a> | <a href="https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity">investor.marvell.com</a> | <a href="https://news.ycombinator.com/item?id=50343329">hacker news</a></p>
 <br clear="all" />
 
 ---

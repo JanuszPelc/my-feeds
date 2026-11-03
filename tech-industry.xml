@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-03T15:28:00+00:00</updated>
+  <updated>2026-11-03T17:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Retired Aircraft Jet Engines Repurposed to Power AI Data Centers</title>
+    <link href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html::v240</id>
+    <published>2026-11-03T17:29:00+00:00</published>
+    <updated>2026-11-03T17:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2026%2F01%2Farticle-5382-1767338654.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50352584">hacker news</a></small></p><hr/><p>Facing severe electricity shortages and long grid connection delays, artificial intelligence data center developers are increasingly turning to retired commercial and military aircraft jet engines to generate off-grid power. Companies are scavenging engines from aircraft boneyards—such as Boeing and Airbus powerplants—and converting them into rapid-deployment gas turbines.</p><p>This trend has accelerated as rapid data center expansion outpaces traditional energy infrastructure buildouts. While the repurposed turbines offer unmatched speed to power, industry experts and environmental advocates warn that burning fossil fuels via makeshift generators will significantly increase air pollution and associated healthcare costs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2026%2F01%2Farticle-5382-1767338654.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 19:11 UTC | #26278</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Hires Former U.S. Army Secretary Dan Driscoll for National Security Role</title>
     <link href="https://www.wsj.com/politics/national-security/openai-hires-former-army-secretary-dan-driscoll-to-cybersecurity-role-0e5cc0a1?st=cfNEPb&amp;reflink=desktopwebshare_permalink" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-03T16:51:00+00:00</updated>
+  <updated>2026-11-03T17:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>World of Warcraft: Forever Addons Impacted by Surge of AI-Generated Software and Code Theft</title>
+    <link href="https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/" rel="alternate" />
+    <id>https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/::v240</id>
+    <published>2026-11-03T17:31:00+00:00</published>
+    <updated>2026-11-03T17:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fwow-slop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50353364">hacker news</a></small></p><hr/><p>The upcoming release of World of Warcraft: Forever has triggered an influx of AI-generated addons and commercial tools, leading to widespread code theft and overwhelming community developers. Longtime creators report that AI tools are rapidly cloning their designs and code, prompting copyright takedown complaints and the privatization of code repositories.</p><p>In response to the surge of basic data-scraping applications and commercial requests, analytics platform Warcraft Logs is restructuring its API and introducing paid commercial keys. While some developers acknowledge that accessible coding tools enable broader customization, others warn of rising abandonware, security vulnerabilities, and an unsustainable burden on small teams trying to police API abuse.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fwow-slop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 19:11 UTC | #26286</small>]]></content>
+  </entry>
   <entry>
     <title>Alex Bores Launches Who Decides PAC to Shape 2028 Democratic AI Agenda</title>
     <link href="https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html" rel="alternate" />
