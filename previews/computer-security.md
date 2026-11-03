@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Binance Discloses North Korean Hackers Used Fake Job Interviews and LinkedIn in $6.3 Billion Heist</h2>
+<a name="story-26297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1XKzAW.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Binance revealed that North Korean hackers used social engineering, including fake LinkedIn recruitment and simulated job interviews, to trick an engineer into downloading malicious software during a $6.3 billion heist. The multi-month scheme also involved an internet ad campaign promoting a tampered version of the Homebrew software package to compromise developer systems.</p><p>The combination of these exploits allowed the attackers to infiltrate internal systems, take over multiple Binance wallets, and drain funds. Although withdrawals were temporarily halted and later restored, the company recovered a portion of the stolen assets with assistance from stablecoin issuers Tether and Circle.</p>
+<p>Nov 3 · <a href="https://fortune.com/2026/11/03/binance-hack-details-linkedin/">fortune.com</a> | <a href="https://news.ycombinator.com/item?id=50357080">hacker news</a></p>
+<br clear="all" />
+
 <h2>Namespace Details Datacenter Deployment of Custom MacBook Racks</h2>
 <a name="story-26340"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--ElpmzG0K--%2F187xm7bbkpv1fjpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Namespace details the engineering and operational architecture behind deploying hundreds of MacBook Pros into custom datacenter racks to provide scalable macOS infrastructure for iOS development and coding agents. The post outlines how the company addresses hardware and firmware hurdles, including thermal management, IP KVM integration, and physical cable constraints.</p><p>Faced with severe Mac Mini supply chain backlogs and Apple's restriction limiting hosts to two macOS virtual machines, Namespace developed custom racking and automated build workflows. The system leverages Apple's Virtualization framework, a userspace TCP/IP stack from Google's gVisor project, and an internal OCI-based image registry to distribute multi-gigabyte disk images across the fleet efficiently.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26103"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffidelissecurity.com%2Fwp-content%2Fuploads%2F2026%2F03%2FCVE-2026-25593.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Akamai and Linode have issued a customer security advisory regarding CVE-2026-98432, a recently published remote code execution vulnerability. While investigations and platform monitoring are underway, the company reports no evidence of the vulnerability being actively exploited on the Akamai Compute platform.</p><p>Linode is currently deploying mitigations for the known attack vector and strongly advises customers to apply upstream operating system updates to their workloads as soon as they become available. Support channels remain open for users seeking further assistance or experiencing platform impacts.</p>
 <p>Nov 1 · <a href="https://status.linode.com/incidents/nt58zhx3pmgm">status.linode.com</a> | <a href="https://news.ycombinator.com/item?id=50310687">hacker news</a></p>
-<br clear="all" />
-
-<h2>Pivot Database Engine Explains Impact of Memory Latency on Database Performance</h2>
-<a name="story-26093"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2Fc0597a99c50fdcc1d1a5f9887bc2df49a75d029c%2F3-Figure3-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>High database CPU utilization frequently masks underlying memory stalls rather than intense computation, as modern RAM access speeds lag hundreds of instructions behind CPU processing capabilities. A naive GROUP BY implementation causes frequent cache misses that force the processor to wait on cold memory from DRAM.</p><p>To mitigate this bottleneck, the Pivot database engine implements a two-phase radix partitioning approach that breaks down large aggregation tasks into smaller pieces. By ensuring that working hash tables fit within the CPU caches, this optimization significantly reduces DRAM load operations and accelerates query execution times.</p>
-<p>Nov 1 · <a href="https://pivotlake.io/blog/its-the-memory-latency-stupid/">pivotlake.io</a> | <a href="https://news.ycombinator.com/item?id=50318720">hacker news</a></p>
 <br clear="all" />
 
 ---
