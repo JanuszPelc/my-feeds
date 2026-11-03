@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Polyend Releases Tracker Firmware Source Code and Community Edition 1.0</h2>
+<a name="story-26239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbackstage.polyend.com%2Fuploads%2Fdefault%2Foptimized%2F2X%2Fc%2Fc8b0c5d69102af68a9917ba47dd1a7d629218a20_2_690x460.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Polyend has released the firmware source code for the original Tracker, Tracker+, and Tracker Mini on GitHub. The release includes Tracker Community Edition 1.0, which introduces features such as SD card sample streaming, a plugin SDK for the Sample Editor, and new synth engines for the Tracker+ and Tracker Mini models. A built-in recovery system is included to prevent hardware bricking during custom firmware modifications.</p><p>The update also adds wavetable envelopes and LFOs to all three models, along with improvements to MIDI clock timing and project loading speeds. This move is intended to support community-driven developments and the creation of custom instrument variations on existing Tracker hardware.</p>
+<p><small>Links: <a href="https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120">backstage.polyend.com</a> | <a href="https://polyend.com/whats-up/tracker-the-biggest-update-yet/">polyend.com</a> | <a href="https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50340159">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Big Man Labs Updates Big Max Zero to Version 1.3.0</h2>
 <a name="story-26206"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbmz.1775764083.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Big Man Labs has released version 1.3.0 of Big Max Zero, a free low-latency limiter plugin available for Windows, macOS, and Linux. The update introduces louder and cleaner limiting alongside faster release times across the plugin's Loud, Clean, and Smooth modes.</p><p>Additional improvements include click-free lookahead changes, more accurate LUFS metering, and fixes for bypass behavior in Delta mode. Furthermore, the Gain Match feature now operates with the plugin window closed without writing automation, and the software loads and renders more smoothly.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26059"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer rncbc.org has released Qtractor version 1.6.5 and Vee One Suite version 1.5.1 for GNU/Linux systems. Qtractor, an audio and MIDI multi-track sequencer, introduces improvements to CLAP and VST3 plug-in handling, window view and zoom controls, and a new dockable session overview widget.</p><p>The Vee One Suite update adds a crop and uncrop view feature for samplv1 and drumkv1, visual gradients for DCA1 envelope generator times, and a percentage input dialog for randomizing parameters. Both open-source packages are distributed under the terms of the GNU General Public License version 2 or later.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-6-5-and-vee-one-suite-to-v1-5-1-for-linux-69517?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69517">kvraudio.com</a> | <a href="https://www.rncbc.org/drupal/node/2980">rncbc.org</a></small></p>
-<br clear="all" />
-
-<h2>FRCTL Audio Releases DUKR Zero-Latency Sidechain Ducker Plugin</h2>
-<a name="story-26052"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdukr_pump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>FRCTL Audio has released DUKR, a zero-latency sidechain ducker plugin designed for Windows, macOS, and Linux. The plugin features a Trace function that automatically reads sidechain signals to map ducking curves and a Carve function that targets specific frequency bands and stereo fields to prevent unwanted volume drops across entire tracks.</p><p>DUKR supports tempo-synced or MIDI-triggered operation with velocity scaling, alongside multi-band processing options for low, mid, and high frequencies. Available in VST3, AU, and CLAP formats, the plugin is priced at $18.99 with an introductory rate of $13.99 through November 30, 2026, and includes a 14-day free trial.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/frctl-audio-releases-dukr---zero-latency-sidechain-ducker-with-frequency-carving-69529?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69529">kvraudio.com</a> | <a href="https://frctlaudio.com/products/dukr">frctlaudio.com</a></small></p>
 <br clear="all" />
 
 ---

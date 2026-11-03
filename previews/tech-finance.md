@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz</h2>
+<a name="story-26208"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.paragraph.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D3840%2Cquality%3D85%2Fhttps%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0f3a142b7d09dfe3609b71be2705a78b8c925b14a951c4402777f887a611c7b2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tutor Intelligence, a robotics company developing frontier robot foundation models, has raised $75 million in a Series B funding round led by Andreessen Horowitz. This latest investment brings the company's total funding to $117 million.</p><p>The company produces AI-powered robots designed for warehouse and logistics environments. Its business model utilizes flexible AI architectures and an hourly pricing model to target small and mid-market industrial customers.</p>
+<p><small>Links: <a href="https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/">forbes.com</a> | <a href="https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-$75-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment">businesswire.com</a></small></p>
+<br clear="all" />
+
 <h2>BYD Reports Record 300,000 Monthly Electric Vehicle Sales in October</h2>
 <a name="story-26236"><img src="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FBYD-EV-sales-October-record.jpeg%3Fquality%3D82%26strip%3Dall%26w%3D1400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>BYD sold 305,743 battery electric vehicles in October 2026, marking a 37% year-over-year increase and the first time the company's monthly EV sales crossed the 300,000 threshold. Total new energy vehicle sales, including plug-in hybrids, reached 490,168 units, representing an 11% rise from the previous year.</p><p>The company's monthly EV sales figure exceeded total US electric vehicle sales for the entire third quarter of 2026, which estimates place at approximately 262,500 units. BYD exported 170,194 vehicles during October as part of its ongoing international expansion across Europe, Southeast Asia, and the Americas, pushing total year-to-date exports past 1.5 million.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26085"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptowinrate.com%2Fwp-content%2Fuploads%2F2024%2F01%2Fbinance_withdraw_crypto_send_to_binance_user-1024x705.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cryptocurrency exchange Binance announced plans to resume customer withdrawals in phases beginning Sunday, after covering 95 percent of the approximately $6.3 billion in digital assets stolen during a recent security breach. The incident involved the unauthorized theft of major tokens including Bitcoin and Ether, marking one of the largest heists in the history of the digital asset industry.</p><p>Binance has repeatedly stated it will bear the full financial impact of the breach, setting aside over $6.34 billion in internal corporate funds to replenish affected accounts. While the phased reopening marks a major milestone in restoring platform operations, technical investigations and efforts to recover frozen assets in collaboration with industry partners remain ongoing.</p>
 <p><small>Links: <a href="https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/">reuters.com</a></small></p>
-<br clear="all" />
-
-<h2>NeuroXess Raises RMB 700 Million in Series B Funding</h2>
-<a name="story-26083"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fneuroxess-achieves-milestones-brain-computer-interface-trials-decoding-movements-cc03db4b%2F29739797a2fad0f57ab39b0451e39c2fa51c2d30a769b2f01d7c609353b3056f.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Shanghai-based brain-computer interface startup NeuroXess has closed a Series B funding round of RMB 700 million, approximately $105 million. The financing round was co-led by SDIC Juli, Shenzhen Capital Group, and Qinzhi Capital.</p><p>The company is developing implantable BCI technology designed for movement support, speech decoding, and the control of external devices. The new capital will be used to support clinical trials, regulatory approval processes, manufacturing capabilities, and artificial intelligence integration.</p>
-<p><small>Links: <a href="https://technode.com/">technode.com</a> | <a href="https://news.ycombinator.com/item?id=50026463">hacker news</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-02T18:50:00+00:00</updated>
+  <updated>2026-11-02T21:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Google Search Adds Zelda Easter Egg Replicating 1998 Interface</title>
+    <link href="https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/" rel="alternate" />
+    <id>https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/::v240</id>
+    <published>2026-11-02T21:52:00+00:00</published>
+    <updated>2026-11-02T21:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fzelda-google-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/">arstechnica.com</a></small></p><hr/><p>Google has introduced a *The Legend of Zelda: Ocarina of Time* Easter egg that transforms the search interface into its 1998 version. After searching for "Zelda," a Master Sword icon appears, allowing users to replace modern, AI-integrated search results with a minimalist, retro layout.</p><p>The feature serves as a tribute to the upcoming Nintendo Switch 2 remake of the title, launching on November 5. The Easter egg highlights the evolution of Google's core product, contrasting today's complex, ad-heavy interface with the minimalist design of the late 1990s.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fzelda-google-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 00:58 UTC | #26220</small>]]></content>
+  </entry>
   <entry>
     <title>Syscall.sh Updates Linux System Call Reference and API</title>
     <link href="https://syscall.sh/" rel="alternate" />

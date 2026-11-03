@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Google Search Adds Zelda Easter Egg Replicating 1998 Interface</h2>
+<a name="story-26220"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fzelda-google-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google has introduced a *The Legend of Zelda: Ocarina of Time* Easter egg that transforms the search interface into its 1998 version. After searching for "Zelda," a Master Sword icon appears, allowing users to replace modern, AI-integrated search results with a minimalist, retro layout.</p><p>The feature serves as a tribute to the upcoming Nintendo Switch 2 remake of the title, launching on November 5. The Easter egg highlights the evolution of Google's core product, contrasting today's complex, ad-heavy interface with the minimalist design of the late 1990s.</p>
+<p><small>Links: <a href="https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/">arstechnica.com</a></small></p>
+<br clear="all" />
+
 <h2>Syscall.sh Updates Linux System Call Reference and API</h2>
 <a name="story-26229"><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F49369866%2Fmini_magick20190131-10758-quntc3.png%3F1548988550&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>syscall.sh provides a comprehensive, architecture-by-architecture reference for Linux system calls spanning 27 different architectures from Linux kernel version 3.3 to 7.3. The platform maps out system call numbers, required registers, and calling conventions alongside historical metadata indicating when individual calls were added or removed.</p><p>Data is generated directly from mainline kernel source code by parsing SYSCALL_DEFINE macros to ensure accuracy. Users can access the information through individual architecture pages, version selectors, JSON downloads, or via an accompanying API for integration into external tools.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26102"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnolanlawson.com%2F_astro%2Fpokemon-app.DUO5bAVN_34jQQ.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Nolan Lawson built a standardized Pokémon web application five times across twelve different JavaScript frameworks and meta-frameworks using Claude Code agents to benchmark their performance in AI-assisted development. The experiment evaluated each framework based on API costs, wall-clock completion time, token consumption, lines of code, and resulting Lighthouse performance metrics.</p><p>Results indicate that lightweight stacks like Hono combined with htmx and Astro incur the lowest API costs and token usage, while SvelteKit, Gracile with Lit, and Angular are more expensive to build with AI agents. Although nearly all frameworks achieved high Lighthouse performance and accessibility scores, client-side JavaScript bundle sizes varied widely, ranging from zero kilobytes for Astro up to 142 kilobytes for Next.js.</p>
 <p><small>Links: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">nolanlawson.com</a> | <a href="https://news.ycombinator.com/item?id=50323088">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Prospero C++ Coding Harness Released for Local LLMs</h2>
-<a name="story-26101"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmartinfowler.com%2Farticles%2Fharness-engineering%2Fharness-overview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Chris Wellons has released Prospero, a lightweight C++ coding harness designed for local LLMs and AI agents. Built with a Dear ImGui interface, the tool consumes significantly fewer resources than typical web-stack-based harnesses while supporting advanced features like subagents, remote deployments, and desktop control.</p><p>Prospero enforces strict timeouts for every operation to prevent agent hangs, ensures complete process tree cleanup to eliminate stray background tasks, and utilizes passive rendering to reduce idle resource consumption. It is available in a free Community Edition on GitHub and a Professional Edition that includes built-in headless engines for multi-host operations.</p>
-<p><small>Links: <a href="https://nullprogram.com/blog/2026/10/31/">nullprogram.com</a> | <a href="https://news.ycombinator.com/item?id=50315226">hacker news</a></small></p>
 <br clear="all" />
 
 ---

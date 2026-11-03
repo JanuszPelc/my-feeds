@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>DeepSeek Unveils Creator Mode for Custom AI Agent Plugins</h2>
+<a name="story-26207"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeepseekagent.io%2F_next%2Fimage%3Furl%3D%2Freviews%2Fdeepseek-harness%2Fdsh-plugin-settings-ui-enhanced.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DeepSeek has launched "Creator Mode" for its DeepSeek Harness platform, enabling users to develop custom AI agent plugins using natural language instructions. The feature allows users to transform plain English descriptions into functional tools, such as 3D model renderers or video editing workbenches.</p><p>This update is part of a broader effort by the Hangzhou-based lab to expand its AI agent ecosystem. By allowing users to generate specialized plugins through simple instructions, DeepSeek aims to increase the extensibility and accessibility of its agent framework.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode">bloomberg.com</a> | <a href="https://x.com/DeepSeekHarness/status/2117256196227019194">x.com</a></small></p>
+<br clear="all" />
+
 <h2>Western Startups Realigning Chinese AI Models for Western Markets</h2>
 <a name="story-26166"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC%2Fw641-h351-rw%2FOpen%2BModel%2Bvs%2BOpen%2BWeight%2Bvs%2BOpen%2BSource.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Western startups including Hirundo and Lazarus AI are modifying open-weight artificial intelligence models from Chinese developers such as DeepSeek and Alibaba to remove state-aligned censorship, fix code vulnerabilities, and meet Western corporate standards. These firms use machine unlearning and weight-editing techniques to adapt the models for enterprises that want to leverage high-performance, low-cost Chinese technology without perceived security risks.</p><p>While these interventions have enabled deployment across dozens of U.S. companies, some government agencies remain reluctant to adopt Chinese models regardless of modification. Meanwhile, AI researchers note that universal alignment remains an elusive standard, while many commercial developers continue to use unedited Chinese models without encountering practical restrictions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-25869"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.theregister.com%2F%3FimageId%3D202306%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developed by Aries Zhou, this open-source macOS application provides an ephemeral AI chat interface that mimics the "Howler" letters from the Harry Potter series. The tool displays queries on a parchment-style interface and clears the conversation from memory upon pressing the Escape key to prevent local chat history.</p><p>Users can connect the app to various AI models using an API key, which is stored in the macOS Keychain, or through compatible local models. While the application avoids local logs and does not use a relay, it does not guarantee that the AI service provider will not retain a record of the exchange.</p>
 <p><small>Links: <a href="https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484">theregister.com</a> | <a href="https://github.com/HiAriesZhou/Howler">github.com</a></small></p>
-<br clear="all" />
-
-<h2>OpenAI Updates Model Spec Guidelines</h2>
-<a name="story-25855"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quasa.io%2Fphotos%2F00%2Fimage-2026-03-12t142700378.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI has revised its Model Spec, the framework defining how its AI models should behave, by reorganizing it around five core values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.</p><p>This update aims to guide AI judgment and intent as models become more capable and take on more consequential actions. The reorganization also adds guidance regarding context, oversight, and agency while retiring most of the specification's previous detailed style guidance.</p>
-<p><small>Links: <a href="https://openai.com/index/updated-model-spec">openai.com</a></small></p>
 <br clear="all" />
 
 ---
