@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Apple Reports $114.48 Billion in Q4 Revenue</h2>
+<a name="story-26228"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.etnownews.com%2Fthumb%2Fmsid-156448259%2Cthumbsize-148379%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F156448259.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple reported fourth-quarter revenue of $114.48 billion, a 12% increase year-over-year. The company achieved September quarter records for total revenue, iPhone revenue, and earnings per share, while Services revenue reached a new all-time high. China revenue grew 21% to $17.5 billion, falling below the $18.9 billion analyst estimate.</p><p>This is the first earnings report under CEO John Ternus. While total revenue exceeded the $113.39 billion estimate, performance in China missed consensus expectations.</p>
+<p><small>Links: <a href="https://www.businesswire.com/news/home/20261102433950/en/">businesswire.com</a></small></p>
+<br clear="all" />
+
 <h2>Palantir Exceeds Q3 Estimates as U.S. Commercial Revenue Tops Government Revenue</h2>
 <a name="story-26224"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgobull.ai%2Fblog%2Farticles%2Fpalantir-q3-2026-earnings-date%2Fpalantir-q3-2026-earnings-date-scorecard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Palantir Technologies surpassed Wall Street's third-quarter expectations, reporting revenue of $2.31 billion and adjusted earnings per share of 44 cents. For the first time, the company's U.S. commercial revenue, which grew 148% year-over-year to $984 million, exceeded its U.S. government revenue of $953 million.</p><p>The company more than doubled its net income to $1.13 billion and increased its full-year 2026 revenue guidance. CEO Alex Karp attributed the growth to the adoption of artificial intelligence tools and addressed the need for managing liability within the AI industry.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fboostedcrm.com%2Fwp-content%2Fuploads%2F2026%2F04%2FServiceNow-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ServiceNow CEO Bill McDermott stated during an earnings call that the company's acquisition of Israeli startup Sweep enables enterprise customers to switch customer-relationship-management systems in weeks rather than years. According to McDermott, Sweep's technology significantly reduces implementation cycles, helping ServiceNow expand its footprint in the CRM market.</p><p>ServiceNow acquired Sweep to integrate its agentic workspace software across platforms like Salesforce, HubSpot, and ServiceNow itself. Executives noted that the company is also bundling delivery experts and AI implementation agents into select deals to accelerate deployments, contributing to a tripling of AI-enabled CRM bookings.</p>
 <p><small>Links: <a href="https://www.calcalistech.com/ctechnews/article/yxdvdp8sm">calcalistech.com</a></small></p>
-<br clear="all" />
-
-<h2>Binance Records $3.64 Billion in Net Outflows After Reopening Withdrawals Following Hack</h2>
-<a name="story-26107"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.binance.vision%2Feditor-uploads-original%2Fa0070858e6ac47588ad6bb1a29a470df.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Binance recorded approximately $3.64 billion in net outflows during the first nine and a half hours after it resumed withdrawals following a record $6.3 billion hack. The exchange processed $4.65 billion in withdrawals and $1.01 billion in deposits, representing about 2.1% of its total assets under management.</p><p>While withdrawal volumes have begun to stabilize, Binance continues testing and restoring remaining network assets while other major exchanges experience net inflows. The hack, which drained hot wallets on Thursday, was attributed by the FBI to North Korea's TraderTraitor hacking group, prompting Binance to implement new wallet structures and prepare an updated proof-of-reserves report.</p>
-<p><small>Links: <a href="https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259">theblock.co</a></small></p>
 <br clear="all" />
 
 ---
