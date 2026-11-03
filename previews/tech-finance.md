@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Match Group Q3 Revenue and Paying Users Miss Estimates</h2>
+<a name="story-26240"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FMatch-Group-Total-Revenue_2024-11-06-214804_psee.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Third-quarter revenue for Match Group fell 3% year-over-year to $891.23 million, falling short of analyst estimates. The company's total paying users also decreased 5% to 13.8 million during the period.</p><p>The company's guidance for the fourth quarter includes an adjusted EBITDA forecast that is below market expectations.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/match-group-announces-third-quarter-results-302926778.html">prnewswire.com</a></small></p>
+<br clear="all" />
+
 <h2>Apple Reports $114.48 Billion in Q4 Revenue</h2>
 <a name="story-26228"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.etnownews.com%2Fthumb%2Fmsid-156448259%2Cthumbsize-148379%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F156448259.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple reported fourth-quarter revenue of $114.48 billion, a 12% increase year-over-year. The company achieved September quarter records for total revenue, iPhone revenue, and earnings per share, while Services revenue reached a new all-time high. China revenue grew 21% to $17.5 billion, falling below the $18.9 billion analyst estimate.</p><p>This is the first earnings report under CEO John Ternus. While total revenue exceeded the $113.39 billion estimate, performance in China missed consensus expectations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26130"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6adf995bab741a2ebdf116f2%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI cloud infrastructure startup Hyperbolic has secured $30 million in a Series A-1 funding round led by Walden Catalyst, the venture capital firm co-founded by Intel CEO Lip-Bu Tan and former Samsung president Young Sohn. The financing brings the four-year-old company's total funding to $50 million, with additional participation from Dell Technologies Capital, General Catalyst, Vista Equity Partners, and Cambium Capital.</p><p>Hyperbolic provides software that unifies computing resources across hundreds of fragmented AI cloud providers, helping customers rent and manage compute without dealing with each vendor individually. The platform works with approximately 30 neoclouds and connects roughly $200 million worth of compute annually, while enabling companies to resell unused compute resources as part of a push toward a standardized marketplace.</p>
 <p><small>Links: <a href="https://www.businessinsider.com/intel-ceo-backs-30-million-round-ai-cloud-startup-hyperbolic-2026-10">businessinsider.com</a> | <a href="https://www.hyperbolic.ai/blog/a1-funding">hyperbolic.ai</a></small></p>
-<br clear="all" />
-
-<h2>ServiceNow CEO Says Acquired Startup Sweep Accelerates CRM Migrations</h2>
-<a name="story-26114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fboostedcrm.com%2Fwp-content%2Fuploads%2F2026%2F04%2FServiceNow-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ServiceNow CEO Bill McDermott stated during an earnings call that the company's acquisition of Israeli startup Sweep enables enterprise customers to switch customer-relationship-management systems in weeks rather than years. According to McDermott, Sweep's technology significantly reduces implementation cycles, helping ServiceNow expand its footprint in the CRM market.</p><p>ServiceNow acquired Sweep to integrate its agentic workspace software across platforms like Salesforce, HubSpot, and ServiceNow itself. Executives noted that the company is also bundling delivery experts and AI implementation agents into select deals to accelerate deployments, contributing to a tripling of AI-enabled CRM bookings.</p>
-<p><small>Links: <a href="https://www.calcalistech.com/ctechnews/article/yxdvdp8sm">calcalistech.com</a></small></p>
 <br clear="all" />
 
 ---
