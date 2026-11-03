@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>UJAM to Acquire Virharmonic Assets</h2>
+<a name="story-26247"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fect077mbq06qyf9jkd8bz1xqonwi&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>UJAM Music Technology GmbH has signed a binding agreement to acquire the assets of Czech instrument developer Virharmonic s.r.o. The two companies have maintained a partnership for over seven years, during which Virharmonic utilized UJAM's Gorilla Engine to develop its expressive instrument plugins.</p><p>Virharmonic founder Ondrej Švec will retain creative direction for the brand and oversee the development of new instruments. Existing customers will maintain access to their products and continue to receive support through the Virharmonic website.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/ujam-signs-agreement-to-acquire-virharmonic-assets-69580?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69580">kvraudio.com</a> | <a href="https://virharmonic.com/blogs/news/important-announcement-virharmonic-is-joining-ujam">virharmonic.com</a></small></p>
+<br clear="all" />
+
 <h2>Polyend Releases Tracker Firmware Source Code and Community Edition 1.0</h2>
 <a name="story-26239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbackstage.polyend.com%2Fuploads%2Fdefault%2Foptimized%2F2X%2Fc%2Fc8b0c5d69102af68a9917ba47dd1a7d629218a20_2_690x460.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Polyend has released the firmware source code for the original Tracker, Tracker+, and Tracker Mini on GitHub. The release includes Tracker Community Edition 1.0, which introduces features such as SD card sample streaming, a plugin SDK for the Sample Editor, and new synth engines for the Tracker+ and Tracker Mini models. A built-in recovery system is included to prevent hardware bricking during custom firmware modifications.</p><p>The update also adds wavetable envelopes and LFOs to all three models, along with improvements to MIDI clock timing and project loading speeds. This move is intended to support community-driven developments and the creation of custom instrument variations on existing Tracker hardware.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26071"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin-3-screenshot.1793477184.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>FabFilter has released Twin 3.10, a software synthesizer update introducing full MIDI Polyphonic Expression (MPE) and Note Expression support. The update enables per-note pitch bend and new Timbre and Lift input options for MIDI sources.</p><p>In addition to polyphonic expression features, version 3.10 includes over 200 new factory presets designed by bManic, Bigtone, and Christian Laffitte, with the existing preset library updated for out-of-the-box MPE compatibility. The release also resolves an arpeggiator bug that caused timing drift and repeated note triggering during heavy MIDI messaging. The update is free and backwards compatible for existing Twin 3 customers.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/fabfilter-updates-twin-3-to-v3-10---mpe-support-and-over-200-new-presets-69548?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69548">kvraudio.com</a> | <a href="https://www.fabfilter.com/news/1793260800/twin-310-update-with-mpe-support">fabfilter.com</a></small></p>
-<br clear="all" />
-
-<h2>rncbc.org Updates Qtractor to v1.6.5 and Vee One Suite to v1.5.1 for Linux</h2>
-<a name="story-26059"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer rncbc.org has released Qtractor version 1.6.5 and Vee One Suite version 1.5.1 for GNU/Linux systems. Qtractor, an audio and MIDI multi-track sequencer, introduces improvements to CLAP and VST3 plug-in handling, window view and zoom controls, and a new dockable session overview widget.</p><p>The Vee One Suite update adds a crop and uncrop view feature for samplv1 and drumkv1, visual gradients for DCA1 envelope generator times, and a percentage input dialog for randomizing parameters. Both open-source packages are distributed under the terms of the GNU General Public License version 2 or later.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-6-5-and-vee-one-suite-to-v1-5-1-for-linux-69517?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69517">kvraudio.com</a> | <a href="https://www.rncbc.org/drupal/node/2980">rncbc.org</a></small></p>
 <br clear="all" />
 
 ---
