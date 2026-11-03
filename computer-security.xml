@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Google Dismantles XCPE Botnet and Bans Manufacturer Videostrong Over Android TV Backdoor</title>
+    <link href="https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/" rel="alternate" />
+    <id>https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/::v240</id>
+    <published>2026-11-03T12:42:00+00:00</published>
+    <updated>2026-11-03T12:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F9to5google.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2021%2F07%2Fandroid_tv_google_tv_1.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/">9to5google.com</a> | <a href="https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet">cloud.google.com</a> | <a href="https://news.ycombinator.com/item?id=50337513">hacker news</a></small></p><hr/><p>Google and industry partners have dismantled the XCPE malware botnet and backdoor, which was intentionally built into certified Android TV and Google TV set-top boxes by manufacturer Videostrong Technology. Google took legal action to block the infrastructure controlling the botnet—affecting over 1.3 million active devices and cutting off potential access to millions more—after discovering the backdoor was used for financial gain and malware distribution.</p><p>The operation revealed that Videostrong used obfuscation techniques to bypass initial certification testing, prompting Google to cut ties with the manufacturer and ban its subsidiaries from producing certified devices. In response to the security breach, Google is updating its review and certification processes to prevent similar supply-chain vulnerabilities from compromising user devices in the future.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5google.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2021%2F07%2Fandroid_tv_google_tv_1.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 17:52 UTC | #26271</small>]]></content>
+  </entry>
+  <entry>
     <title>NIST Releases Cybersecurity Guide for Solopreneurs and Non-Employer Businesses</title>
     <link href="https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you" rel="alternate" />
     <id>https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you::v240</id>
