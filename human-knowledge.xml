@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-02T18:37:00+00:00</updated>
+  <updated>2026-11-02T23:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Geolocating Video via Aircraft Doppler Shifts and ADS-B Data</title>
+    <link href="https://youtu.be/UytYrhYLOKI" rel="alternate" />
+    <id>https://youtu.be/UytYrhYLOKI::v240</id>
+    <published>2026-11-02T23:24:00+00:00</published>
+    <updated>2026-11-02T23:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F1572453508%2Fdisplay_1500%2Fstock-vector-doppler-effect-vector-illustration-labeled-educational-physical-sound-and-light-scheme-1572453508.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://youtu.be/UytYrhYLOKI">youtu.be</a> | <a href="https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact">lobsters</a></small></p><hr/><p>Analyzing the Doppler curve of aircraft sounds in a spectrogram allows for the geolocation of video recordings when cross-referenced with ADS-B flight data. By identifying the specific frequency shifts produced by propeller planes and matching them to known flight paths, potential locations within the continental United States can be isolated.</p><p>Precision is achieved by calculating the delayed time of closest point of arrival (CPA) using slant distance and digital elevation models. The methodology also incorporates a silence filter to eliminate high-traffic areas and uses radial velocity modeling to match observed frequency shifts with the actual flight geometry of specific aircraft.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F1572453508%2Fdisplay_1500%2Fstock-vector-doppler-effect-vector-illustration-labeled-educational-physical-sound-and-light-scheme-1572453508.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 05:27 UTC | #26254</small>]]></content>
+  </entry>
   <entry>
     <title>NameDaisy Examines Baby Names That Shifted Between Genders</title>
     <link href="https://namedaisy.com/blog/boy-names-that-became-girl-names" rel="alternate" />
