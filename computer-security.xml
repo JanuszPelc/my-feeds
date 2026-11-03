@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-03T17:38:00+00:00</updated>
+  <updated>2026-11-03T17:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Namespace Details Datacenter Deployment of Custom MacBook Racks</title>
+    <link href="https://namespace.so/blog/mac-at-any-scale" rel="alternate" />
+    <id>https://namespace.so/blog/mac-at-any-scale::v240</id>
+    <published>2026-11-03T17:48:00+00:00</published>
+    <updated>2026-11-03T17:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--ElpmzG0K--%2F187xm7bbkpv1fjpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://namespace.so/blog/mac-at-any-scale">namespace.so</a> | <a href="https://news.ycombinator.com/item?id=50352758">hacker news</a></small></p><hr/><p>Namespace details the engineering and operational architecture behind deploying hundreds of MacBook Pros into custom datacenter racks to provide scalable macOS infrastructure for iOS development and coding agents. The post outlines how the company addresses hardware and firmware hurdles, including thermal management, IP KVM integration, and physical cable constraints.</p><p>Faced with severe Mac Mini supply chain backlogs and Apple's restriction limiting hosts to two macOS virtual machines, Namespace developed custom racking and automated build workflows. The system leverages Apple's Virtualization framework, a userspace TCP/IP stack from Google's gVisor project, and an internal OCI-based image registry to distribute multi-gigabyte disk images across the fleet efficiently.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--ElpmzG0K--%2F187xm7bbkpv1fjpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 21:00 UTC | #26340</small>]]></content>
+  </entry>
   <entry>
     <title>UK National Cyber Security Centre Warns of Routine AI Cyber Attacks by 2028</title>
     <link href="https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40" rel="alternate" />

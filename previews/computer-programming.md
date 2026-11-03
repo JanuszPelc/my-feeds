@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Hongwei Xi Publishes Introduction to Programming in ATS Online Book</h2>
 <a name="story-26178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbertrandmeyer.com%2Fwp-content%2FupLoads%2Fitpl_cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hongwei Xi's online book, Introduction to Programming in ATS, serves as a comprehensive guide to the feature-rich ATS programming language. The text details core concepts such as basic functional programming, simple and recursively defined datatypes, polymorphic types, and advanced paradigms like dependent and linear types.</p><p>Aimed at experienced programmers, the book also delves into theorem-proving, programming with theorem-proving, and template-based programming. It bridges rigorous type theory with system-level performance, providing accompanying code resources for online typechecking and compilation.</p>
-<p>Nov 2 · <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">ats-lang.sourceforge.net</a> | <a href="https://lobste.rs/s/oqj2zo/introduction_programming_ats">lobsters</a></p>
+<p>Nov 2 · <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">ats-lang.sourceforge.net</a> | <a href="https://lobste.rs/s/oqj2zo/introduction_programming_ats">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50356913">hacker news</a></p>
 <br clear="all" />
 
 <h2>Guide to Groff and Troff Macro Packages ms, mm, me, and mom</h2>

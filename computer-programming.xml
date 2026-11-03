@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-03T17:26:00+00:00</updated>
+  <updated>2026-11-03T21:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -127,9 +127,9 @@
     <link href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html" rel="alternate" />
     <id>https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html::v240</id>
     <published>2026-11-02T06:15:00+00:00</published>
-    <updated>2026-11-02T06:15:00+00:00</updated>
+    <updated>2026-11-03T21:01:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbertrandmeyer.com%2Fwp-content%2FupLoads%2Fitpl_cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">ats-lang.sourceforge.net</a> | <a href="https://lobste.rs/s/oqj2zo/introduction_programming_ats">lobsters</a></small></p><hr/><p>Hongwei Xi's online book, Introduction to Programming in ATS, serves as a comprehensive guide to the feature-rich ATS programming language. The text details core concepts such as basic functional programming, simple and recursively defined datatypes, polymorphic types, and advanced paradigms like dependent and linear types.</p><p>Aimed at experienced programmers, the book also delves into theorem-proving, programming with theorem-proving, and template-based programming. It bridges rigorous type theory with system-level performance, providing accompanying code resources for online typechecking and compilation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbertrandmeyer.com%2Fwp-content%2FupLoads%2Fitpl_cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 16:12 UTC | #26178</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">ats-lang.sourceforge.net</a> | <a href="https://lobste.rs/s/oqj2zo/introduction_programming_ats">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50356913">hacker news</a></small></p><hr/><p>Hongwei Xi's online book, Introduction to Programming in ATS, serves as a comprehensive guide to the feature-rich ATS programming language. The text details core concepts such as basic functional programming, simple and recursively defined datatypes, polymorphic types, and advanced paradigms like dependent and linear types.</p><p>Aimed at experienced programmers, the book also delves into theorem-proving, programming with theorem-proving, and template-based programming. It bridges rigorous type theory with system-level performance, providing accompanying code resources for online typechecking and compilation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbertrandmeyer.com%2Fwp-content%2FupLoads%2Fitpl_cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 16:12 UTC | #26178</small>]]></content>
   </entry>
   <entry>
     <title>Guide to Groff and Troff Macro Packages ms, mm, me, and mom</title>
@@ -508,14 +508,5 @@
     <updated>2026-10-29T21:06:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.datocms-assets.com%2F85246%2F1709096644-2-principles-of-ohabricator-workflow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.phorge.it/">phorge.it</a> | <a href="https://lobste.rs/s/tw3rsp/phorge">lobsters</a></small></p><hr/><p>Phorge is an open-source, community-driven platform for collaborating on and managing software development projects. It serves as a community-maintained fork of Phabricator, which has been unmaintained since June 2021 following the winding down of Phacility's operations.</p><p>The project provides tools for organizing development tasks, reviewing code, and engaging in community question-and-answer forums. Documentation is available to assist with installation, feature exploration, and contributing to the ongoing development of the platform.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.datocms-assets.com%2F85246%2F1709096644-2-principles-of-ohabricator-workflow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 02:44 UTC | #25903</small>]]></content>
-  </entry>
-  <entry>
-    <title>Handmade London Meetups</title>
-    <link href="https://lobste.rs/s/dsrruj/london_meetup" rel="alternate" />
-    <id>https://lobste.rs/s/dsrruj/london_meetup::v240</id>
-    <published>2026-10-29T20:57:00+00:00</published>
-    <updated>2026-10-29T20:57:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceandpeople.co.uk%2Fwp-content%2Fuploads%2F2023%2F10%2FI-Do-Handmade-London-Waterloo-Station-2-1600x1067.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://lobste.rs/s/dsrruj/london_meetup">lobste.rs</a> | <a href="https://handmadecities.com/meetups/london/">handmadecities.com</a> | <a href="https://lobste.rs/s/dsrruj/london_meetup">lobsters</a></small></p><hr/><p>Handmade meetups in London provide opportunities for manual craft enthusiasts to connect. These gatherings have been occurring for over a year and are frequently announced in online community threads.</p><p>The meetups are organized by Handmade Cities. They serve as social infrastructure for the London crafting community.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spaceandpeople.co.uk%2Fwp-content%2Fuploads%2F2023%2F10%2FI-Do-Handmade-London-Waterloo-Station-2-1600x1067.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 00:42 UTC | #25896</small>]]></content>
   </entry>
 </feed>
