@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-02T18:55:00+00:00</updated>
+  <updated>2026-11-03T00:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Mercado Bitcoin Hit by $46 Million Security Breach</title>
+    <link href="https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333" rel="alternate" />
+    <id>https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333::v240</id>
+    <published>2026-11-03T00:37:00+00:00</published>
+    <updated>2026-11-03T00:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptotimes.io%2Fwp-content%2Fuploads%2F2026%2F11%2FMercado-Bitcoin-Hack-9.1M-in-Crypto-Frozen-as-Arkham-Tracks-46M.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333">theblock.co</a> | <a href="https://x.com/MercadoBitcoin/status/2117239507263132056">x.com</a></small></p><hr/><p>Brazil's largest cryptocurrency exchange, Mercado Bitcoin, confirmed a security incident on November 2, 2026, involving approximately $46.3 million in assets. The company has temporarily suspended deposits and withdrawals to facilitate investigations, asset tracking, and coordination with authorities.</p><p>The exchange stated the incident did not affect customers or result in a data breach. Tether has frozen more than $4.5 million in USDT linked to the breach, while blockchain analysts report the attacker is sweeping funds from older deposit addresses and selling various altcoins.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptotimes.io%2Fwp-content%2Fuploads%2F2026%2F11%2FMercado-Bitcoin-Hack-9.1M-in-Crypto-Frozen-as-Arkham-Tracks-46M.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 05:53 UTC | #26235</small>]]></content>
+  </entry>
   <entry>
     <title>Chris Siebenmann Examines Assumptions About Server RAM Growth</title>
     <link href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex" rel="alternate" />
