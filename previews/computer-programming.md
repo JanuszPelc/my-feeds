@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Ahmad Elalfy Argues Against Hardcoded Timeouts in Development Tools</h2>
+<a name="story-26241"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.docker.com%2Fapp%2Fuploads%2F2026%2F02%2Fgordon-1110x711.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ahmad Elalfy argues that hardcoded, unconfigurable timeouts in tools like `npx skills` and Docker Gordon create significant barriers for developers working in environments with slower internet connections or hardware. These arbitrary limits can cause processes to fail during critical tasks, such as repository cloning or container builds, without offering users a way to extend the duration through configuration flags or environment variables.</p><p>These constraints often reflect the high-bandwidth infrastructure of the developers who build them, which can exclude a global user base operating on varying connectivity. While timeouts are necessary to prevent hanging processes, they should be implemented as safe, documented, and overridable defaults to ensure tools remain functional for developers worldwide.</p>
+<p><small>Links: <a href="https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html">alfy.blog</a> | <a href="https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts">lobsters</a></small></p>
+<br clear="all" />
+
 <h2>Google Search Adds Zelda Easter Egg Replicating 1998 Interface</h2>
 <a name="story-26220"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fzelda-google-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced a *The Legend of Zelda: Ocarina of Time* Easter egg that transforms the search interface into its 1998 version. After searching for "Zelda," a Master Sword icon appears, allowing users to replace modern, AI-integrated search results with a minimalist, retro layout.</p><p>The feature serves as a tribute to the upcoming Nintendo Switch 2 remake of the title, launching on November 5. The Easter egg highlights the evolution of Google's core product, contrasting today's complex, ad-heavy interface with the minimalist design of the late 1990s.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26105"><img src="https://wsrv.nl/?url=https%3A%2F%2Fph-files.imgix.net%2F7a0582ae-afdb-4880-a5b4-03132c575ad8.png%3Fauto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HackerBooks is a web platform that indexes over 16,000 books mentioned across Hacker News comments dating back to 2007. Inspired by community curation projects, the site ranks titles by their recommender count and generates a daily curated shelf to help users discover popular literature.</p><p>Developed by roansh, the platform features a streamlined interface equipped with keyboard shortcuts for rapid navigation, search functionality, and categorization. It provides a signal-based alternative to algorithmic recommendation engines by relying on historical peer recommendations from technical discussions.</p>
 <p><small>Links: <a href="https://hackerbooks.org">hackerbooks.org</a> | <a href="https://news.ycombinator.com/item?id=50326821">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Nolan Lawson Publishes Benchmark on AI Development Costs of JavaScript Frameworks</h2>
-<a name="story-26102"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnolanlawson.com%2F_astro%2Fpokemon-app.DUO5bAVN_34jQQ.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Nolan Lawson built a standardized Pokémon web application five times across twelve different JavaScript frameworks and meta-frameworks using Claude Code agents to benchmark their performance in AI-assisted development. The experiment evaluated each framework based on API costs, wall-clock completion time, token consumption, lines of code, and resulting Lighthouse performance metrics.</p><p>Results indicate that lightweight stacks like Hono combined with htmx and Astro incur the lowest API costs and token usage, while SvelteKit, Gracile with Lit, and Angular are more expensive to build with AI agents. Although nearly all frameworks achieved high Lighthouse performance and accessibility scores, client-side JavaScript bundle sizes varied widely, ranging from zero kilobytes for Astro up to 142 kilobytes for Next.js.</p>
-<p><small>Links: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">nolanlawson.com</a> | <a href="https://news.ycombinator.com/item?id=50323088">hacker news</a></small></p>
 <br clear="all" />
 
 ---
