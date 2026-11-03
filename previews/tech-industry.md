@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Apple May Boost Services Revenue via Third-Party AI Apps</h2>
+<a name="story-26245"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhpxwvv-S3aLivoBfRMITp32h_oA-9Mf9eZAxFhyphenhyphenmDsqiXyuHm7kX7y3a2uvsz2g9x6JQFLWXWegHuytB7MVu3K1P89kNXiCxc5zFBnCsI0bY5ebr38K_QlNAakc4xHCoQtkjmqTWHh8GBR3RCMjEaqQCqzbbS5Vi-O5wOQvur9C0O9aCG6fnpU7QSKrW8w%2Fs1730%2Fapps-ios18-sherlocks-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple may expand its services revenue through third-party AI applications and partnerships. CFO Kevan Parekh indicated that AI presents growth opportunities through both first-party capabilities and collaborations with external developers.</p><p>This potential strategy follows regulatory pressures and a slump in mobile gaming that have impacted App Store commissions. Some investors speculate Apple could monetize third-party AI agents by taking a revenue cut from those distributed through the App Store.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/">techcrunch.com</a> | <a href="https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50344670">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Y Combinator CEO Garry Tan Spends Up to $200,000 Annually on AI Tokens</h2>
 <a name="story-26242"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2024%2F11%2F084_MPP_2025-GARRY-TAN.jpg%3Fw%3D1280%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Y Combinator CEO Garry Tan spends between $100,000 and $200,000 annually on AI tokens to power his use of autonomous agents. During an interview on Walter Isaacson's podcast The Builders, Tan explained that he employs these agents for coding, research, and managing personal data, including email and decades of Apple Notes.</p><p>Tan also disclosed that Y Combinator uses an internal agent called "Stray Light" to provide the firm with context on all applications and founders. He noted that while personal agents offer significant utility, mainstream adoption is currently hindered by high costs, and he advocates for user-controlled, programmable AI rather than algorithm-driven models from major tech companies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F31%2Fmultimedia%2F31BIZ-SF-DATING-1-03-mwjv%2F31BIZ-SF-DATING-1-03-mwjv-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>San Francisco’s artificial intelligence boom is transforming the city's dating culture, with young start-up founders and engineers approaching romantic encounters with intense professional scrutiny.</p><p>Driven by grueling work schedules and high-stakes ambitions, tech workers are going out less frequently and bringing rigorous criteria—such as elite academic backgrounds and family health histories—to their dates, effectively turning casual meetings into interviews.</p>
 <p><small>Links: <a href="https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html?unlocked_article_code=1.NFE.wr2v.F_Wy3TSgmnjB&smid=url-share">nytimes.com</a></small></p>
-<br clear="all" />
-
-<h2>Seoul Viosys Begins Mass Production of Rare-Earth-Free WICOP 3 White LEDs</h2>
-<a name="story-26150"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.seoulviosys.com%2Fupload%2Fseditor%2Fjpn%280%29.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Seoul Viosys has begun mass production of its WICOP 3 white light emitter, a package-free LED chip that operates without rare-earth materials. Measuring as small as 10 micrometers, the technology generates white light directly from gallium nitride, eliminating the YAG layers, synthetic silicone resins, and plastics used in conventional LEDs.</p><p>The company reports that the new chips reduce manufacturing costs by approximately 50 percent and achieve a luminous efficacy close to 100 lumens per watt, with goals to reach 200 lumens per watt within two years. Seoul Group is targeting applications in augmented reality displays and high-speed optical data communications for AI systems, aiming to replace copper wiring and traditional lighting fixtures.</p>
-<p><small>Links: <a href="https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml">semiconductor-today.com</a> | <a href="https://www.seoulsemicon.com/en/media/newsroom/271">seoulsemicon.com</a> | <a href="https://news.ycombinator.com/item?id=50327058">hacker news</a></small></p>
 <br clear="all" />
 
 ---
