@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Highlights Claude&#x27;s Chip Design Capabilities to Investors</h2>
+<a name="story-26291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdjg26gece%2Fimage%2Fupload%2Fv1775812571%2Fuoizt8pln7gficktqozs.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic has informed investors that its internal chip design team is actively using its Claude artificial intelligence models for engineering and design work on custom silicon. The 15-person team is leveraging the AI to assist with hardware development tasks.</p><p>This application of Claude coincides with the company's broader push into custom hardware development aimed at improving model efficiency and reducing inference costs. The disclosures highlight the practical utility of the company's technology in specialized engineering fields as it scales its operations and prepares for a potential public offering.</p>
+<p>Nov 3 · <a href="https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Apple Restricts Dating Apps and AI Companions to Users 18 and Older</h2>
 <a name="story-26295"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwkzUdz9S29M%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple is updating its App Store policies to mandate an 18+ age rating for online dating apps and AI companions that feature sexual or romantic content. Beginning November 16, developers will also be required to use new content descriptors in App Store Connect to accurately reflect app capabilities, including whether an application shares users' real-world locations.</p><p>The policy adjustments build on Apple's recent implementation of global age assurance technology and expanded parental controls designed to protect minors. While many traditional dating services already restrict access to adults, the new rules introduce stricter oversight for AI companion platforms where users interact with romantic or fantasy characters.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26195"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fwp-content%2Fuploads%2F2025%2F11%2FAre.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Israeli startup 42AI has emerged from stealth with $62.5 million in seed funding to develop a behavioral world model designed to predict human decision-making probabilities in new scenarios. The company's technology analyzes individual psychological tendencies, sentiment, and communication data across various events to map out behavioral patterns rather than relying strictly on historical actions.</p><p>Initially deployed at financial brokerages to help forecast trader behavior, manage liquidity, and optimize hedging, 42AI is also exploring future applications in gaming, cybersecurity, and robotics. While the startup reports strong performance metrics in financial settings, critics and the founders note that the behavioral profiling technology raises valid concerns regarding predictive privacy and user advantage.</p>
 <p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/">techcrunch.com</a> | <a href="https://42ai.com/">42ai.com</a></p>
-<br clear="all" />
-
-<h2>Data Centers Emerge as Midterm Election Issue in Brooklyn and Nationwide</h2>
-<a name="story-26218"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59607602%3Fwidth%3D640%26height%3D427&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>At a recent midterm election event in Brooklyn hosted by the media company Newsreel, discussions repeatedly centered on artificial intelligence and the rapid expansion of data centers. Speakers and attendees highlighted how local community opposition, environmental concerns, and economic anxieties surrounding these facilities have transformed them into a major ballot-box issue ahead of the November 3 elections.</p><p>Recent reports indicate that billions of dollars in data center projects have faced delays, stalls, or blocks due to political pushback across multiple states. Observers note that these massive facilities have become physical symbols of broader public frustration with the tech industry, touching on tensions over corporate accountability, a lack of local consent, and the distribution of economic benefits.</p>
-<p>Nov 2 · <a href="https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
