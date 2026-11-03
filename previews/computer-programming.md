@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Compatibility Issues Discovered Between Ubuntu 26.04 Rust Sudo and Standard Sudo</h2>
+<a name="story-26326"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.turbogeek.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2Fubuntu-sudo-rs-differences-source-1024x711.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The default Rust-based sudo implementation introduced in Ubuntu 26.04 is incompatible with standard sudo configurations, specifically by failing to correctly handle wildcards in sudoers.d files. An administrator discovered that sudo-rs silently misinterprets wildcard rules, breaking existing passwordless access permissions for administrative commands like Exim.</p><p>The sudo-rs documentation indicates that command-line argument wildcards are intentionally unsupported, a design choice that contradicts long-standing administrative practices and creates migration hurdles. While administrators can switch back to the traditional implementation using package alternatives, removing sudo-rs entirely is prevented by package dependencies linked to ubuntu-minimal.</p>
+<p>Nov 3 · <a href="https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible">lobsters</a></p>
+<br clear="all" />
+
 <h2>Postman Desktop App Criticized for Auto-Installing Codex and Claude Plugins</h2>
 <a name="story-26325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eginnovations.com%2Fdocumentation%2FResources%2FImages%2FeGRESTAPI%2FAddExternalAgents.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A user-submitted GitHub report detailed that the Postman desktop application automatically installed Codex and Claude Code plugins without explicit user consent, configured remote Model Context Protocol connections, and inserted startup instruction hooks that redirected general API engineering tasks to Postman skills.</p><p>The installer script also attempted to automatically approve its own hook configurations within the user's coding agent settings, resulting in recurring authentication errors and workflow interference. The affected user requested that Postman immediately halt automatic agent installations, remove self-approval mechanisms, and provide a complete uninstallation path.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26152"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhZx_W3GkcyqZxLwCPolqwkLWa3SklSheplJCKfJD5G1hqtgybuu2A9geYxId_2cDb5z5OzyESKBwUpRGIVppU1lrDrSSqfJLLa7W5TMKNXiS3fH40qKnW8x7FOBggA0MVHFBcJ%2Fw1200-h630-p-k-no-nu%2Fgroff-manpage-pdf.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This guide outlines how to select the appropriate macro package for the Unix typesetting system troff and its GNU counterpart, groff. It compares four major macro packages—ms, mm, me, and mom—detailing their intended use cases, such as technical papers, structured books, and novels.</p><p>The article explains the distinction between plain text formatting, low-level groff requests, and high-level macro bundles designed to separate content from presentation. It also provides practical examples and a walkthrough of configuring a document using the ms macro package.</p>
 <p>Nov 2 · <a href="https://www.stephenlindholm.com/groff_macros.html">stephenlindholm.com</a> | <a href="https://lobste.rs/s/dbwbvr/groff_troff_macros_ms_mm_me_mom">lobsters</a></p>
-<br clear="all" />
-
-<h2>OmniDiff Content-Aware Git Difftool Released</h2>
-<a name="story-26139"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanvk%2Fwebdiff%2Fmain%2Fimages%2Fwebdiff.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OmniDiff is an open-source, content-aware diff tool written in Rust that integrates with Git and Jujutsu as a difftool backend and formatter. Rather than relying solely on traditional line-by-line comparisons, it utilizes tree-sitter grammars to parse source code across 25 languages and applies specialized algorithms for binary formats including images, fonts, PDFs, and archives.</p><p>The tool features an interactive terminal user interface supporting 24-bit color, a headless batch mode for CI pipelines, and a JSON output option for programmatic workflows. By highlighting specific structural changes rather than whole modified lines, OmniDiff aims to reduce visual noise during code reviews.</p>
-<p>Nov 1 · <a href="https://github.com/ivankovic/omnidiff">github.com</a> | <a href="https://news.ycombinator.com/item?id=50325253">hacker news</a></p>
 <br clear="all" />
 
 ---

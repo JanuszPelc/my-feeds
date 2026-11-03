@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-03T17:23:00+00:00</updated>
+  <updated>2026-11-03T17:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Compatibility Issues Discovered Between Ubuntu 26.04 Rust Sudo and Standard Sudo</title>
+    <link href="https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible" rel="alternate" />
+    <id>https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible::v240</id>
+    <published>2026-11-03T17:26:00+00:00</published>
+    <updated>2026-11-03T17:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.turbogeek.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2Fubuntu-sudo-rs-differences-source-1024x711.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible">lobsters</a></small></p><hr/><p>The default Rust-based sudo implementation introduced in Ubuntu 26.04 is incompatible with standard sudo configurations, specifically by failing to correctly handle wildcards in sudoers.d files. An administrator discovered that sudo-rs silently misinterprets wildcard rules, breaking existing passwordless access permissions for administrative commands like Exim.</p><p>The sudo-rs documentation indicates that command-line argument wildcards are intentionally unsupported, a design choice that contradicts long-standing administrative practices and creates migration hurdles. While administrators can switch back to the traditional implementation using package alternatives, removing sudo-rs entirely is prevented by package dependencies linked to ubuntu-minimal.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.turbogeek.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2Fubuntu-sudo-rs-differences-source-1024x711.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 18:44 UTC | #26326</small>]]></content>
+  </entry>
   <entry>
     <title>Postman Desktop App Criticized for Auto-Installing Codex and Claude Plugins</title>
     <link href="https://github.com/postmanlabs/postman-app-support/issues/14370" rel="alternate" />
