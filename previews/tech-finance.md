@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Traversal Raises $120M Series B at $1B Valuation</h2>
+<a name="story-26356"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQG0SkjQsaC4Wg%2Ffeedshare-shrink_1280%2FB4DZeSKIa0HMAk-%2F0%2F1750503822723%3Fe%3D2147483647%26v%3Dbeta%26t%3DnQ3lKfxBf5lV-yd4UoUPYUtexFAEB4ButlKXAIb-ovI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Traversal has raised $120 million in Series B funding at a $1 billion valuation to expand its AI-driven site reliability engineering (SRE) platform. The round was co-led by Kleiner Perkins, Redpoint, and Khosla Ventures.</p><p>The company provides AI agents that help enterprises, such as American Express and PepsiCo, troubleshoot software outages and manage production environments. Traversal intends to use the funds to advance "self-driving production" systems and scale its research, engineering, and go-to-market teams.</p>
+<p>Nov 3 · <a href="https://www.forbes.com/sites/the-prompt/2026/11/03/the-billion-dollar-business-of-fixing-what-ai-builds/">forbes.com</a> | <a href="https://x.com/traversal_ai/status/2117665706355433963">x.com</a></p>
+<br clear="all" />
+
 <h2>Block Raises Full-Year Profit Outlook on Strong Q3 Earnings</h2>
 <a name="story-26354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FXYZ-RESULTS%2Fgdvzaeewkpw%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Block reported third-quarter revenue of $6.7 billion, a 10% year-over-year increase that exceeded market expectations. The company raised its full-year gross profit outlook, supported by a 27% increase in Cash App's gross profit to $2.07 billion.</p><p>Performance in the Cash App unit and steady consumer spending fueled the results. Block shares rose more than 5% in after-hours trading following the announcement.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26208"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.paragraph.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D3840%2Cquality%3D85%2Fhttps%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0f3a142b7d09dfe3609b71be2705a78b8c925b14a951c4402777f887a611c7b2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tutor Intelligence, a robotics company developing frontier robot foundation models, has raised $75 million in a Series B funding round led by Andreessen Horowitz. This latest investment brings the company's total funding to $117 million.</p><p>The company produces AI-powered robots designed for warehouse and logistics environments. Its business model utilizes flexible AI architectures and an hourly pricing model to target small and mid-market industrial customers.</p>
 <p>Nov 2 · <a href="https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/">forbes.com</a> | <a href="https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-$75-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment">businesswire.com</a></p>
-<br clear="all" />
-
-<h2>BYD Reports Record 300,000 Monthly Electric Vehicle Sales in October</h2>
-<a name="story-26236"><img src="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FBYD-EV-sales-October-record.jpeg%3Fquality%3D82%26strip%3Dall%26w%3D1400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>BYD sold 305,743 battery electric vehicles in October 2026, marking a 37% year-over-year increase and the first time the company's monthly EV sales crossed the 300,000 threshold. Total new energy vehicle sales, including plug-in hybrids, reached 490,168 units, representing an 11% rise from the previous year.</p><p>The company's monthly EV sales figure exceeded total US electric vehicle sales for the entire third quarter of 2026, which estimates place at approximately 262,500 units. BYD exported 170,194 vehicles during October as part of its ongoing international expansion across Europe, Southeast Asia, and the Americas, pushing total year-to-date exports past 1.5 million.</p>
-<p>Nov 2 · <a href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/">electrek.co</a> | <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1101/2026110100043.pdf">www1.hkexnews.hk</a> | <a href="https://news.ycombinator.com/item?id=50344181">hacker news</a></p>
 <br clear="all" />
 
 ---
