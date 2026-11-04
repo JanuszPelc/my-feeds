@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>PostgreSQL Expert Hironobu Suzuki Seeks International Engineering Roles</h2>
+<a name="story-26385"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.interdb.jp%2Fpg%2Fpgsql08%2Ffig-8-16.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hironobu Suzuki, author of the widely referenced technical documentation "The Internals of PostgreSQL," has announced that he is fully recovered from a health-related stay in Japan and is open to new international career opportunities. He is currently seeking challenging database engineering tasks, roles offering visa sponsorship, or remote positions that support a digital nomad lifestyle.</p><p>Suzuki brings extensive experience as a software engineer, technical director, and former director of the Japan PostgreSQL Users Group. His comprehensive online reference work details core database subsystems ranging from buffer management and query processing to replication across multiple PostgreSQL versions.</p>
+<p>Nov 4 · <a href="https://www.interdb.jp/pg/index.html">interdb.jp</a> | <a href="https://news.ycombinator.com/item?id=50358702">hacker news</a></p>
+<br clear="all" />
+
 <h2>NetBSD 11.1 Released</h2>
 <a name="story-26380"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The NetBSD Project has released NetBSD 11.1, the first point release of the NetBSD 11 stable branch. This release focuses primarily on addressing security vulnerabilities and implementing bug fixes to improve system stability.</p><p>Key updates include OpenSSH 10.6, unbound 1.26.1, and security patches for brotli and libXfont2. The release also introduces enhanced support for sparc64 sensors and adds battery monitoring capabilities for Microsoft Surface Go 3 devices.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26229"><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F49369866%2Fmini_magick20190131-10758-quntc3.png%3F1548988550&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>syscall.sh provides a comprehensive, architecture-by-architecture reference for Linux system calls spanning 27 different architectures from Linux kernel version 3.3 to 7.3. The platform maps out system call numbers, required registers, and calling conventions alongside historical metadata indicating when individual calls were added or removed.</p><p>Data is generated directly from mainline kernel source code by parsing SYSCALL_DEFINE macros to ensure accuracy. Users can access the information through individual architecture pages, version selectors, JSON downloads, or via an accompanying API for integration into external tools.</p>
 <p>Nov 2 · <a href="https://syscall.sh/">syscall.sh</a> | <a href="https://news.ycombinator.com/item?id=50334704">hacker news</a></p>
-<br clear="all" />
-
-<h2>Examination of Early Unix Memory Allocation and Malloc History</h2>
-<a name="story-26221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnapcakes.nekoweb.org%2Fposts%2Fmalloc%2Funix-v4-tape.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An analysis of early Unix source code traces the evolution of memory allocation from primitive linear allocators in Unix Version 4 to explicit map-based memory management and eventual modern malloc implementations. Early Unix versions utilized straightforward linear allocation routines using sbrk without freeing memory, while kernel routines managed partitioned resources such as main memory and swap space using explicit resource maps.</p><p>The historical survey highlights how subsequent editions introduced allocation macros, size-computation shortcuts, and zero-initialization practices that predated or influenced modern language features like C++'s new operator. By examining historical source trees via the Unix Tree repository, the post documents the iterative design choices made by early Unix developers under strict hardware constraints.</p>
-<p>Nov 2 · <a href="https://napcakes.nekoweb.org/posts/malloc/">napcakes.nekoweb.org</a> | <a href="https://lobste.rs/s/ihqhia/lost_malloc">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50336148">hacker news</a></p>
 <br clear="all" />
 
 ---

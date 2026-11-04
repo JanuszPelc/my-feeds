@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Raises $15 Billion in US Dollar Bond Sale for AI Investments</h2>
+<a name="story-26369"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheutterperspective.com%2Fwp-content%2Fuploads%2F2025%2F10%2F1761845534_1200x-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta Platforms has raised $15 billion through a multi-part US dollar bond sale, drawing heavy investor demand with orders reaching as much as $58 billion. The issuance represents the largest portion of a broader cross-border debt package exceeding $20 billion.</p><p>The capital raise supports the company's accelerating investments in artificial intelligence infrastructure, data centers, and computing capacity. The massive debt offering arrives as major technology firms increasingly turn to bond markets to finance expanding AI operations.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments">bloomberg.com</a> | <a href="https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Cat Wu, Claude Code Product Lead, Exits Anthropic</h2>
 <a name="story-26364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cat Wu, a lead product manager at Anthropic and a key leader of the Claude Code tool, has left the AI startup. Wu announced her departure on Tuesday, following her role in scaling the coding assistant that significantly increased the company's revenue and market competitiveness.</p><p>Her exit occurs as Anthropic prepares for an initial public offering (IPO) expected later this month. The departure follows the recent exit of Claude Code contributor Thariq Shihipar and involves the leadership of both the Claude Code and Cowork product lines.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2FDrax-Targets-Data-Centre-Launch-at-Former-Coal-Site-by-2027-to-Feed-AI-Power-Demand.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Energy company Drax Group has partnered with Brookfield and its neocloud platform Radiant to develop a multibillion-pound artificial intelligence data center at the Drax Power Station estate in North Yorkshire. The project aims to deliver up to 100 megawatts of capacity starting in early 2028, with plans to scale up to over 1 gigawatt over the following years.</p><p>Brookfield estimates that total investment for the initiative, including semiconductors, could exceed £20 billion, supported by an initial phase-one investment of £2.5 billion. While the venture aims to provide British researchers and enterprises with domestic compute capacity, the initial phase remains subject to planning, regulatory, and grid connection approvals, as well as securing commercial tenants.</p>
 <p>Nov 3 · <a href="https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html">cnbc.com</a> | <a href="https://www.drax.com/news/drax-brookfield-and-radiant-announce-20bn-partnership-to-deliver-gw-scale-data-centre-capacity-at-drax-power-station/">drax.com</a></p>
-<br clear="all" />
-
-<h2>Apple May Boost Services Revenue via Third-Party AI Apps</h2>
-<a name="story-26245"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhpxwvv-S3aLivoBfRMITp32h_oA-9Mf9eZAxFhyphenhyphenmDsqiXyuHm7kX7y3a2uvsz2g9x6JQFLWXWegHuytB7MVu3K1P89kNXiCxc5zFBnCsI0bY5ebr38K_QlNAakc4xHCoQtkjmqTWHh8GBR3RCMjEaqQCqzbbS5Vi-O5wOQvur9C0O9aCG6fnpU7QSKrW8w%2Fs1730%2Fapps-ios18-sherlocks-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple may expand its services revenue through third-party AI applications and partnerships. CFO Kevan Parekh indicated that AI presents growth opportunities through both first-party capabilities and collaborations with external developers.</p><p>This potential strategy follows regulatory pressures and a slump in mobile gaming that have impacted App Store commissions. Some investors speculate Apple could monetize third-party AI agents by taking a revenue cut from those distributed through the App Store.</p>
-<p>Nov 3 · <a href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/">techcrunch.com</a> | <a href="https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50344670">hacker news</a></p>
 <br clear="all" />
 
 ---
