@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Plans At Least $20 Billion Cross-Border Bond Offering</h2>
+<a name="story-26331"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsquawknews.com%2Fog-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta Platforms Inc. is preparing a cross-border investment-grade bond offering that could raise at least $20 billion. This potential debt sale would mark the company's first major bond issuance in six months and includes a debut offering in euros.</p><p>The capital is intended to fund Meta's expanding artificial intelligence infrastructure. This follows the company's recent announcement of a planned $97.5 billion equity fundraising, reflecting a trend among major technology firms to use both debt and equity markets to finance AI-related growth.</p>
+<p>Nov 3 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Google DeepMind Staff Protest Non-Disparagement Clauses Barring AI Risk Warnings</h2>
 <a name="story-26324"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgsrv2.voi.id%2FolxprDPkfI3khp30J85O5tKTuG_76Bi4LaGnAOwTQ0Y%2Fauto%2F1200%2F675%2Fsm%2F1%2FbG9jYWw6Ly8vcHVibGlzaGVycy8zODcxMjEvMjAyNDA2MDQyMzIyLW1haW4uY3JvcHBlZF8xNzE3NTE4MTQwLmpwZWc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google DeepMind employees in the UK are urging leadership to remove non-disparagement clauses from employment contracts. These legal provisions prevent former staff members from publicly warning about the potential risks of artificial intelligence.</p><p>Current workers claim the clauses deter employees from communicating critical safety concerns to the public. The protest reflects broader industry debates regarding transparency and the ability of researchers to critique emerging technologies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26225"><img src="https://wsrv.nl/?url=https%3A%2F%2Fetimg.etb2bimg.com%2Fthumb%2Fmsid-130550338%2Cimgsize-22322%2Cwidth-1200%2Cheight%3D627%2Coverlay-ethr%2Cresizemode-75%2Ftrends%2Fthe-impact-of-ai-on-tech-layoffs-meta-and-microsofts-workforce-reduction.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Squarespace is cutting approximately 19% of its global workforce, affecting around 300 employees primarily within its product and engineering teams. A company spokesperson confirmed the restructuring, stating that the reductions are designed to simplify operations and accelerate decision-making following the company's transition to private ownership in 2024.</p><p>The layoffs arrive as the broader website-building industry undergoes significant transformation driven by generative artificial intelligence and simplified prompt-based design tools. While competitors and startups have aggressively pursued AI-native website generation platforms, Squarespace has concurrently rolled out its own AI offerings, including the Blueprint tool and an upcoming platform named Forma.</p>
 <p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/">techcrunch.com</a> | <a href="https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50339765">hacker news</a></p>
-<br clear="all" />
-
-<h2>Charles Porch Focuses on Hollywood Relations for OpenAI</h2>
-<a name="story-26188"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpyxis.nymag.com%2Fv1%2Fimgs%2F1bc%2F710%2F7a64e6033215570cb5168fb9a84a2dd609-75840027.rhorizontal.w1100.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Charles Porch, who previously spent over a decade building celebrity and brand partnerships for Instagram, was hired by OpenAI as its vice president of global creative partnerships. Tasked with improving the artificial intelligence company's cultural image in Hollywood, Porch leverages his extensive network of influencers and entertainment figures to foster relationships and encourage adoption of the platform.</p><p>His role highlights the ongoing friction between the tech industry and creative professionals who fear job displacement and copyright infringement. Despite public backlash against events like a high-profile dinner hosted by Gwyneth Paltrow for OpenAI CEO Sam Altman, Porch continues to utilize private gatherings and personal networking to bridge the divide between Silicon Valley and the entertainment industry.</p>
-<p>Nov 2 · <a href="https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html">nymag.com</a></p>
 <br clear="all" />
 
 ---

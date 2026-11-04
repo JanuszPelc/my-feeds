@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-03T19:58:00+00:00</updated>
+  <updated>2026-11-03T21:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Meta Plans At Least $20 Billion Cross-Border Bond Offering</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering::v240</id>
+    <published>2026-11-03T21:42:00+00:00</published>
+    <updated>2026-11-03T21:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsquawknews.com%2Fog-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering">bloomberg.com</a></small></p><hr/><p>Meta Platforms Inc. is preparing a cross-border investment-grade bond offering that could raise at least $20 billion. This potential debt sale would mark the company's first major bond issuance in six months and includes a debut offering in euros.</p><p>The capital is intended to fund Meta's expanding artificial intelligence infrastructure. This follows the company's recent announcement of a planned $97.5 billion equity fundraising, reflecting a trend among major technology firms to use both debt and equity markets to finance AI-related growth.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsquawknews.com%2Fog-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 02:07 UTC | #26331</small>]]></content>
+  </entry>
   <entry>
     <title>Google DeepMind Staff Protest Non-Disparagement Clauses Barring AI Risk Warnings</title>
     <link href="https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/" rel="alternate" />
