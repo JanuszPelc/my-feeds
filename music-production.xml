@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-04T15:45:00+00:00</updated>
+  <updated>2026-11-04T16:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Orbit Sample-Search App Released for macOS</title>
+    <link href="https://bedroomproducersblog.com/2026/11/04/orbit-sample-search/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/04/orbit-sample-search/::v240</id>
+    <published>2026-11-04T16:12:00+00:00</published>
+    <updated>2026-11-04T16:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZatHLLgOsp0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/04/orbit-sample-search/">bedroomproducersblog.com</a> | <a href="https://www.weareorb.it/">weareorb.it</a></small></p><hr/><p>Orbit is a standalone sample-search and session-recall application for macOS that allows users to find audio files by entering text descriptions rather than relying on filenames. The software indexes local and disconnected external drives, enabling searches filtered by tempo, key, and sample type with local processing to ensure privacy.</p><p>The application offers a free Lite tier with unlimited indexing and search capabilities, alongside a €99 Pro tier that adds voice search, reference-track matching, session recall, and a VST3 and AU sampler plugin for Apple Silicon Macs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZatHLLgOsp0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 21:17 UTC | #26446</small>]]></content>
+  </entry>
+  <entry>
+    <title>Steinberg Releases Cubase 16</title>
+    <link href="https://www.kvraudio.com/news/steinberg-releases-cubase-16-69610?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69610" rel="alternate" />
+    <id>https://www.kvraudio.com/news/steinberg-releases-cubase-16-69610?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69610::v240</id>
+    <published>2026-11-04T16:11:00+00:00</published>
+    <updated>2026-11-04T16:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcubase-pro-16-1-screen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/steinberg-releases-cubase-16-69610?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69610">kvraudio.com</a> | <a href="https://www.steinberg.net/cubase/release-notes/16/">steinberg.net</a></small></p><hr/><p>Steinberg has released Cubase 16, the latest version of its digital audio workstation (DAW). The update introduces features such as Instrument Stacks for layering virtual instruments, an upgraded six-stem separation tool, and advanced MIDI editing capabilities like Strum and Stretch Selection.</p><p>Available in Pro, Artist, and Elements editions, Cubase 16 features a searchable, non-modal settings dialog, new spectral time-stretching algorithms, and expanded MIDI 2.0 and Ableton Link integration. It also bundles new creative resources including the Module FM sound library, DrumChain effects processor, and Omnivocal Basic vocal synthesis engine.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcubase-pro-16-1-screen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 21:16 UTC | #26431</small>]]></content>
+  </entry>
   <entry>
     <title>Karanyi Sounds Opens Registration for Free Brigade Vocal Multiplier Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/11/04/karanyi-sounds-brigade-black-friday/" rel="alternate" />

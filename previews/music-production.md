@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Orbit Sample-Search App Released for macOS</h2>
+<a name="story-26446"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZatHLLgOsp0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Orbit is a standalone sample-search and session-recall application for macOS that allows users to find audio files by entering text descriptions rather than relying on filenames. The software indexes local and disconnected external drives, enabling searches filtered by tempo, key, and sample type with local processing to ensure privacy.</p><p>The application offers a free Lite tier with unlimited indexing and search capabilities, alongside a €99 Pro tier that adds voice search, reference-track matching, session recall, and a VST3 and AU sampler plugin for Apple Silicon Macs.</p>
+<p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/orbit-sample-search/">bedroomproducersblog.com</a> | <a href="https://www.weareorb.it/">weareorb.it</a></p>
+<br clear="all" />
+
+<h2>Steinberg Releases Cubase 16</h2>
+<a name="story-26431"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcubase-pro-16-1-screen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Steinberg has released Cubase 16, the latest version of its digital audio workstation (DAW). The update introduces features such as Instrument Stacks for layering virtual instruments, an upgraded six-stem separation tool, and advanced MIDI editing capabilities like Strum and Stretch Selection.</p><p>Available in Pro, Artist, and Elements editions, Cubase 16 features a searchable, non-modal settings dialog, new spectral time-stretching algorithms, and expanded MIDI 2.0 and Ableton Link integration. It also bundles new creative resources including the Module FM sound library, DrumChain effects processor, and Omnivocal Basic vocal synthesis engine.</p>
+<p>Nov 4 · <a href="https://www.kvraudio.com/news/steinberg-releases-cubase-16-69610?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69610">kvraudio.com</a> | <a href="https://www.steinberg.net/cubase/release-notes/16/">steinberg.net</a></p>
+<br clear="all" />
+
 <h2>Karanyi Sounds Opens Registration for Free Brigade Vocal Multiplier Plugin</h2>
 <a name="story-26425"><img src="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--vfFXRTqc--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2F11395fcc-68aa-4d76-944b-d62de3f4a590.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Karanyi Sounds has opened preregistration for Brigade, an upcoming vocal multiplier plugin normally priced at $49 that will be offered for free on Black Friday, November 27, 2026. Users can reserve a perpetual license by submitting their email address on the giveaway page before the official release date.</p><p>Derived from the developer's Voicemax vocal processing software, Brigade is designed to turn a single vocal take into an ensemble of backup singers arranged on a virtual stage. The plugin features dedicated controls for harmony, stacking, stereo spread, formants, and a lead-to-brigade balance slider, and it will be available in VST3 and AU formats for macOS and Windows.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26310"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.resonance-sound.com%2Fwp-content%2Fuploads%2F2025%2F08%2Fres-sound-techno-bundle-july-2025-v1.1-500x500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Black Octopus Sound is releasing a collection of 50 royalty-free techno and tech house samples on November 8, 2026, as part of its early Black Friday promotions. The promotional pack will be available for a single day and includes bass loops, drum loops, drum one-shots, synth leads, arpeggios, and sound effects drawn from the company's existing libraries.</p><p>The samples are fully cleared for commercial tracks released on Spotify, radio, and through record labels, though the standard license prohibits redistributing the sounds in other sample packs. The product page lists the bundle at zero cost with email delivery after checkout, though specific download sizes and technical specifications have not been disclosed.</p>
 <p>Nov 3 · <a href="https://bedroomproducersblog.com/2026/11/03/black-octopus-techno-house-freebie/">bedroomproducersblog.com</a> | <a href="https://blackoctopus-sound.com/product/free-techno-tech-house-sample-pack-black-friday-2026/">blackoctopus-sound.com</a></p>
-<br clear="all" />
-
-<h2>Minimal Instruments Updates Nagi Plugin Builder to v0.15.7</h2>
-<a name="story-26318"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F-2026-09-23-171015-.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Minimal Instruments has released version 0.15.7 of nagi, its no-code plugin builder application for macOS, Windows, and Linux. The update introduces AU plugin format generation, expands MIDI drag-out functionality across all operating systems, and enhances license protection features for commercial plugin developers.</p><p>The 0.15.7 release adds Ed25519 digital signature support for the Pro Form and License widget alongside a Google Apps Script-based license server template. Additional improvements include functional filter type switching, precise decimal handling for text widgets, and stability fixes addressing rendering issues on Linux systems.</p>
-<p>Nov 3 · <a href="https://www.kvraudio.com/news/minimal-instruments-updates-nagi-plugin-builder-to-v0-15-7-69595?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69595">kvraudio.com</a> | <a href="https://nagi.minimal-instruments.com/changelog">nagi.minimal-instruments.com</a></p>
-<br clear="all" />
-
-<h2>Waves Audio Opens Signups for Black Friday 2026 Free Plugin Giveaway</h2>
-<a name="story-26311"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FWaves-Black-Friday-Freebie-2026-700x394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Waves Audio has opened pre-registration for its annual Black Friday plugin giveaway, scheduled for release on November 27, 2026. While the specific name and features of the new plugin remain unannounced, the promotion will offer a limited number of free licenses on a first-come, first-served basis.</p><p>Users can currently sign up with their email address to receive a notification when the offer goes live. To claim the plugin, participants must log into their Waves accounts on the release date and manually register the product, continuing the company's tradition of mystery software giveaways following previous releases like the Magma StressBox and IDX Intelligent Dynamics.</p>
-<p>Nov 3 · <a href="https://bedroomproducersblog.com/2026/11/03/waves-freebie-2026/">bedroomproducersblog.com</a> | <a href="https://www.waves.com/free">waves.com</a></p>
 <br clear="all" />
 
 ---
