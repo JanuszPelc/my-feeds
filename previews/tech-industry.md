@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>SemiAnalysis Reports SpaceX Targets 13GW of AI Datacenter Capacity by 2027</h2>
 <a name="story-26386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2025%2F12%2Farticle-3952-1765793333.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SemiAnalysis reports that SpaceX is targeting approximately 13 gigawatts of AI datacenter capacity by the end of 2027, with 3.6 gigawatts already under construction across multiple sites. This infrastructure expansion aims to build capacity at a pace outpacing historical deployments by major technology firms.</p><p>The rapid deployment strategy relies on behind-the-meter power solutions, large-scale battery energy storage systems, and the repurposing of existing facilities such as Texas rocket campuses. Analysts indicate that these integrated power and construction methods position SpaceX to operate a major commercial AI cloud infrastructure.</p>
-<p>Nov 4 · <a href="https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will">newsletter.semianalysis.com</a></p>
+<p>Nov 4 · <a href="https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will">newsletter.semianalysis.com</a> | <a href="https://news.ycombinator.com/item?id=50360345">hacker news</a></p>
 <br clear="all" />
 
 <h2>Google Announces $15 Billion Investment for Malaysia Data Center Expansion</h2>
