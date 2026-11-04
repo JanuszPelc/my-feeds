@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Safari Introduces Adaptive Dark Mode in 27.3 Beta</title>
+    <link href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/" rel="alternate" />
+    <id>https://webkit.org/blog/18541/introducing-adaptive-dark-mode/::v240</id>
+    <published>2026-11-03T21:40:00+00:00</published>
+    <updated>2026-11-03T21:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnighteye.app%2Fwp-content%2Fuploads%2F2019%2F03%2FSafariArrivedWithSafari-768x288.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">webkit.org</a> | <a href="https://news.ycombinator.com/item?id=50358562">hacker news</a></small></p><hr/><p>Safari 27.3 beta introduces Adaptive Dark Mode, which automatically transforms light-themed websites into dark versions when enabled by the user. The feature uses a color matrix to invert luminosity while preserving hue and aims to maintain a WCAG 4.5:1 contrast ratio for text.</p><p>To protect user privacy, Safari prevents websites from detecting if the mode is active, ensuring JavaScript queries return original authored colors. The feature does not alter sites with explicit `color-scheme` declarations and allows developers to opt-out using the `light only` setting.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnighteye.app%2Fwp-content%2Fuploads%2F2019%2F03%2FSafariArrivedWithSafari-768x288.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 01:13 UTC | #26361</small>]]></content>
+  </entry>
+  <entry>
     <title>Microsoft Enhances Windows 11 Performance for 8GB RAM Devices</title>
     <link href="https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/" rel="alternate" />
     <id>https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/::v240</id>

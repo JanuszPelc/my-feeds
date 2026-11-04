@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Safari Introduces Adaptive Dark Mode in 27.3 Beta</h2>
+<a name="story-26361"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnighteye.app%2Fwp-content%2Fuploads%2F2019%2F03%2FSafariArrivedWithSafari-768x288.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Safari 27.3 beta introduces Adaptive Dark Mode, which automatically transforms light-themed websites into dark versions when enabled by the user. The feature uses a color matrix to invert luminosity while preserving hue and aims to maintain a WCAG 4.5:1 contrast ratio for text.</p><p>To protect user privacy, Safari prevents websites from detecting if the mode is active, ensuring JavaScript queries return original authored colors. The feature does not alter sites with explicit `color-scheme` declarations and allows developers to opt-out using the `light only` setting.</p>
+<p>Nov 3 · <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">webkit.org</a> | <a href="https://news.ycombinator.com/item?id=50358562">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft Enhances Windows 11 Performance for 8GB RAM Devices</h2>
 <a name="story-26320"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2023%2F02%2F8-windows-11-memory-compression-details.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Windows 11 updates in the 26H2 build are now targeting PCs with 8GB of RAM to improve speed, performance, and memory management. These optimizations are designed to maximize existing hardware efficiency and ensure core system tasks remain responsive during intensive multitasking.</p><p>The improvements utilize fine-tuned memory compression to keep up to 2GB more active data in RAM, reducing the need for disk swapping. Microsoft reports that these changes can increase multitasking speed by up to 40% and improve system interaction responsiveness by 20%. Additionally, memory usage has been reduced in Microsoft Edge, the Widgets app, and various Microsoft 365 applications.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26179"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbathtub-01.github.io%2Ftechnical%2Fouros-demo%2Fdemo.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researcher Yukang Xie has demonstrated Ouros, a dataflow-driven graph reduction processor designed for lazy functional languages like Haskell, running natively on an FPGA board. The hardware architecture executes compiled combinator graphs directly, providing built-in support for automatic fine-grained multi-threading and concurrent garbage collection without a software runtime or kernel trap.</p><p>The system incorporates a simplified AXI4-Lite IO interface and UART polling, allowing standalone Haskell programs to perform register-level input and output operations. Synthesized on an AUP-ZU3 FPGA, the processor operates at 100 MHz while utilizing roughly 27% of logic utilization and 40% of block RAM, proving that direct hardware execution of functional languages is viable within a modest circuit budget.</p>
 <p>Nov 2 · <a href="https://bathtub-01.github.io/technical/ouros-demo/">bathtub-01.github.io</a> | <a href="https://lobste.rs/s/8o9wus/specialised_haskell_processor_on_fpga">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50319896">hacker news</a></p>
-<br clear="all" />
-
-<h2>Hongwei Xi Publishes Introduction to Programming in ATS Online Book</h2>
-<a name="story-26178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbertrandmeyer.com%2Fwp-content%2FupLoads%2Fitpl_cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hongwei Xi's online book, Introduction to Programming in ATS, serves as a comprehensive guide to the feature-rich ATS programming language. The text details core concepts such as basic functional programming, simple and recursively defined datatypes, polymorphic types, and advanced paradigms like dependent and linear types.</p><p>Aimed at experienced programmers, the book also delves into theorem-proving, programming with theorem-proving, and template-based programming. It bridges rigorous type theory with system-level performance, providing accompanying code resources for online typechecking and compilation.</p>
-<p>Nov 2 · <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">ats-lang.sourceforge.net</a> | <a href="https://lobste.rs/s/oqj2zo/introduction_programming_ats">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50356913">hacker news</a></p>
 <br clear="all" />
 
 ---

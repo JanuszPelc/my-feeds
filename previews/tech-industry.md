@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Google DeepMind Staff Protest Non-Disparagement Clauses Barring AI Risk Warnings</h2>
+<a name="story-26324"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgsrv2.voi.id%2FolxprDPkfI3khp30J85O5tKTuG_76Bi4LaGnAOwTQ0Y%2Fauto%2F1200%2F675%2Fsm%2F1%2FbG9jYWw6Ly8vcHVibGlzaGVycy8zODcxMjEvMjAyNDA2MDQyMzIyLW1haW4uY3JvcHBlZF8xNzE3NTE4MTQwLmpwZWc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google DeepMind employees in the UK are urging leadership to remove non-disparagement clauses from employment contracts. These legal provisions prevent former staff members from publicly warning about the potential risks of artificial intelligence.</p><p>Current workers claim the clauses deter employees from communicating critical safety concerns to the public. The protest reflects broader industry debates regarding transparency and the ability of researchers to critique emerging technologies.</p>
+<p>Nov 3 · <a href="https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/">washingtonpost.com</a> | <a href="https://news.ycombinator.com/item?id=50355504">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenAI Reports ChatGPT Reaches 1.2 Billion Weekly Users and 20% of Google Search Volume</h2>
 <a name="story-26298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjam7.com%2Fhs-fs%2Fhubfs%2Fchatgpt-and-challenger-search-engines-bing-duckduckgo.png%3Fwidth%3D1200%26height%3D742%26name%3Dchatgpt-and-challenger-search-engines-bing-duckduckgo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI consumer product lead Adam Fry announced that ChatGPT has reached 1.2 billion weekly active users, adding 200 million users over a two-month period. Fry also stated that the platform's search-like query volume has risen to approximately 20 percent of Google's volume.</p><p>During a discussion in New York, Fry revealed plans to merge ChatGPT's separate Chat and Work modes into a single unified interface. He noted that the platform's voice input feature has grown to 250 million weekly active users, while image generation has reached 1.5 billion creations per week.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26188"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpyxis.nymag.com%2Fv1%2Fimgs%2F1bc%2F710%2F7a64e6033215570cb5168fb9a84a2dd609-75840027.rhorizontal.w1100.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Charles Porch, who previously spent over a decade building celebrity and brand partnerships for Instagram, was hired by OpenAI as its vice president of global creative partnerships. Tasked with improving the artificial intelligence company's cultural image in Hollywood, Porch leverages his extensive network of influencers and entertainment figures to foster relationships and encourage adoption of the platform.</p><p>His role highlights the ongoing friction between the tech industry and creative professionals who fear job displacement and copyright infringement. Despite public backlash against events like a high-profile dinner hosted by Gwyneth Paltrow for OpenAI CEO Sam Altman, Porch continues to utilize private gatherings and personal networking to bridge the divide between Silicon Valley and the entertainment industry.</p>
 <p>Nov 2 · <a href="https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html">nymag.com</a></p>
-<br clear="all" />
-
-<h2>Oracle Files to Raise $20 Billion Through Stock and Bond Offerings</h2>
-<a name="story-26190"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftmastreet.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-35-1024x661.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Oracle has filed to raise $20 billion through concurrent offerings of $10 billion in common stock and $10 billion in bonds. The capital raise is intended to finance the company's expanding data center infrastructure and artificial intelligence ambitions.</p><p>The concurrent offerings can close independently, and the announcement prompted a more than 5% decline in Oracle's stock price as markets reacted to potential share dilution and increased debt. The move follows previous disclosures outlining heavy financing requirements to support the company's growing cloud and AI workloads.</p>
-<p>Nov 2 · <a href="https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.oracle.com/sec-filings/default.aspx">investor.oracle.com</a></p>
 <br clear="all" />
 
 ---
