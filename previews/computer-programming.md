@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>HackerTV Provides 24/7 Broadcasts of Hacker News Recommended Videos</h2>
+<a name="story-26376"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F88%2F96%2Fc5%2F8896c504174ab44cfe0a53db689fe177.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HackerTV features continuous 24/7 video broadcasts based on content recommended by users on Hacker News. The service maintains a consistent broadcast schedule for all viewers across various channels.</p><p>Developed by Danny Salzman, the platform's catalog is seeded from HackerTube and built using the Hacker News archive. Content is updated weekly by filtering new HN comments through the HN Search API.</p>
+<p>Nov 3 · <a href="https://hackertv.org">hackertv.org</a> | <a href="https://news.ycombinator.com/item?id=50346755">hacker news</a></p>
+<br clear="all" />
+
 <h2>Kitty Terminal Emulator Releases Version 0.50.0</h2>
 <a name="story-26366"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kitty version 0.50.0 introduces window docking to edges, session restoration after logout, and Wayland improvements including native decorations and touchscreen support. New custom shaders allow for particle effects controlled by key presses, and the terminal now supports the Program Status Protocol.</p><p>Updates include tab-based workspace functionality, automatic system-wide color theme switching, and improved layout border alignment. Performance optimizations were added for the GPU sprite cache and general rendering.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26194"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In the late 1970s, Bill Joy and researchers at UC Berkeley created the Berkeley Software Distribution (BSD) by bundling a Pascal compiler, line editors, and other utilities as an add-on package for AT&amp;T Unix. By distributing these tools at cost, Berkeley fostered a tradition of sharing that helped spread Unix throughout universities and research institutions.</p><p>Following the release of the expanded 2BSD distribution, the acquisition of a VAX computer at Berkeley led graduate student Ozalp Babaoglu and Bill Joy to add virtual memory support to Unix 32/V. Their work culminated in 3BSD in December 1979, drawing the interest of DARPA and laying the groundwork for Unix's widespread adoption in government-funded research.</p>
 <p>Nov 2 · <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">fosscomics.com</a> | <a href="https://news.ycombinator.com/item?id=50332163">hacker news</a></p>
-<br clear="all" />
-
-<h2>Sawyer X Presents Zig Programming Introduction at Code Maven</h2>
-<a name="story-26180"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.itmedia.co.jp%2Ftt%2Fnews%2F2409%2F18%2Fso4430_tt_240904_03_img01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sawyer X delivers an introductory presentation on the Zig programming language, comparing its syntax and engineering philosophy to other established languages. Designed for developers with varying levels of experience, the talk examines Zig's core design principles, emphasizing explicit control flow, visible memory allocation, and the absence of hidden abstractions like operator overloading or exceptions.</p><p>The presentation features practical code examples, such as parsing configuration strings and managing resources, to illustrate how Zig addresses common systems programming challenges. Hosted by the Code Maven community, the session aims to help programmers transition smoothly into writing predictable and maintainable low-level software.</p>
-<p>Nov 2 · <a href="https://www.youtube.com/watch?v=jWCQXBVIyrY">youtube.com</a> | <a href="https://zig.code-maven.com/zig-from-beginner-to-slightly-less-beginner">zig.code-maven.com</a> | <a href="https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner">lobsters</a></p>
 <br clear="all" />
 
 ---
