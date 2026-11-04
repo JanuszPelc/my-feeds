@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-04T02:53:00+00:00</updated>
+  <updated>2026-11-04T04:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Simile CEO Joon Sung Park on Building Foundation Models of Human Behavior</title>
+    <link href="https://www.generalist.com/p/a-portrait-of-eight-billion-people" rel="alternate" />
+    <id>https://www.generalist.com/p/a-portrait-of-eight-billion-people::v240</id>
+    <published>2026-11-04T04:41:00+00:00</published>
+    <updated>2026-11-04T04:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fyespress-4ecdc.firebasestorage.app%2Fpreviews%2Fjoon-park.jpg%3Fv%3D1778722005731&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.generalist.com/p/a-portrait-of-eight-billion-people">generalist.com</a></small></p><hr/><p>Mario Gabriele interviews Joon Sung Park, co-founder and CEO of Simile, an applied artificial intelligence company developing a foundation model of human behavior. The platform creates digital twins of real people to simulate individual and population-level responses, enabling organizations to test policies, customer reactions, and strategic decisions before implementation.</p><p>Backed by over $300 million in funding and valued at $2 billion, Simile draws inspiration from historical agent-based models and science fiction concepts like psychohistory. Park and Gabriele discuss the technological approach behind these simulations, their potential applications ranging from corporate strategy to addressing complex societal challenges, and the broader implications of predictive human modeling.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fyespress-4ecdc.firebasestorage.app%2Fpreviews%2Fjoon-park.jpg%3Fv%3D1778722005731&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 11:53 UTC | #26372</small>]]></content>
+  </entry>
   <entry>
     <title>Siwarha Companion Star Distorts Betelgeuse's Atmosphere</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261103003149.htm" rel="alternate" />
