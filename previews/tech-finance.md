@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>EloElo Raises $80 Million in Series C Funding Led by NBCUniversal and Hornbill Capital</h2>
+<a name="story-26379"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSaurabh-Pandey.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Indian microdrama platform operator EloElo Group has raised $80 million in a Series C funding round co-led by Hornbill Capital and NBCUniversal. The new capital brings the company's total funding to $130 million at a valuation of $500 million to fuel its expansion in the country's rising mobile microdrama market.</p><p>Founded in 2020, EloElo operates the Story TV app, which features thousands of serialized titles and serves tens of millions of active users. The company plans to deploy the funds toward scaling its original content catalog, hiring machine learning talent, and expanding its internal Dolphin AI platform to assist creators with video production workflows.</p>
+<p>Nov 4 · <a href="https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Traversal Raises $120M Series B at $1B Valuation</h2>
 <a name="story-26356"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQG0SkjQsaC4Wg%2Ffeedshare-shrink_1280%2FB4DZeSKIa0HMAk-%2F0%2F1750503822723%3Fe%3D2147483647%26v%3Dbeta%26t%3DnQ3lKfxBf5lV-yd4UoUPYUtexFAEB4ButlKXAIb-ovI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Traversal has raised $120 million in Series B funding at a $1 billion valuation to expand its AI-driven site reliability engineering (SRE) platform. The round was co-led by Kleiner Perkins, Redpoint, and Khosla Ventures.</p><p>The company provides AI agents that help enterprises, such as American Express and PepsiCo, troubleshoot software outages and manage production environments. Traversal intends to use the funds to advance "self-driving production" systems and scale its research, engineering, and go-to-market teams.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26223"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimpactwealth.org%2Fwp-content%2Fuploads%2F2026%2F01%2FRoku-Stock-Outlook-2026-Platform-Revenue-Growth-Future-Upside.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Roku reported $1.5 billion in revenue for the third quarter of 2026, a 24% year-over-year increase. Net income rose more than seven-fold to $183 million. Platform segment revenue grew 23% to $1.3 billion, bolstered by strong advertising sales in the political and media/entertainment categories.</p><p>Total streaming hours reached 39.9 billion, a 9% year-over-year increase. Devices revenue grew 33% to $194 million, but the segment reported an operating loss of $48.6 million due to higher memory costs. The company is currently undergoing a $22 billion acquisition by Fox Corp, expected to close in the first half of 2027.</p>
 <p>Nov 2 · <a href="https://variety.com/2026/tv/news/roku-q3-2026-earnings-media-advertising-sales-growth-1236937827/">variety.com</a> | <a href="https://www.roku.com/investor">roku.com</a></p>
-<br clear="all" />
-
-<h2>Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz</h2>
-<a name="story-26208"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.paragraph.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D3840%2Cquality%3D85%2Fhttps%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0f3a142b7d09dfe3609b71be2705a78b8c925b14a951c4402777f887a611c7b2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tutor Intelligence, a robotics company developing frontier robot foundation models, has raised $75 million in a Series B funding round led by Andreessen Horowitz. This latest investment brings the company's total funding to $117 million.</p><p>The company produces AI-powered robots designed for warehouse and logistics environments. Its business model utilizes flexible AI architectures and an hourly pricing model to target small and mid-market industrial customers.</p>
-<p>Nov 2 · <a href="https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/">forbes.com</a> | <a href="https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-$75-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment">businesswire.com</a></p>
 <br clear="all" />
 
 ---
