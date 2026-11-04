@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI to Acquire Developer Tools Startup Pierre Computer</h2>
+<a name="story-26400"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F4UHvmFzOTfTxvgzb6HHGbE%2F777fc088dd126fff783d2f26a97c451e%2FCodex_SDK_1x1.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI has agreed to acquire Pierre Computer, a developer tools startup whose technology is already integrated into OpenAI's Codex code-generation model. Financial terms of the deal were not disclosed, and Pierre's open-source projects will continue to remain open-source.</p><p>The acquisition positions OpenAI to compete more directly with Microsoft-owned GitHub as AI agents assume a growing share of software development tasks. Alongside the deal, OpenAI recently unveiled Pando, an internal infrastructure system designed to manage the surge of AI-generated code.</p>
+<p>Nov 4 · <a href="https://www.axios.com/2026/11/04/openai-pierre-computer-github">axios.com</a></p>
+<br clear="all" />
+
 <h2>Tencent Releases Hy4 Open-Weight AI Model</h2>
 <a name="story-26389"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.orcarouter.ai%2Fapi%2Fmedia%2Ffile%2F2-534.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tencent Holdings has released its Hy4 open-weight foundation model, marking the first time the company's AI system has entered the top tier of Chinese open-weight models. The release includes enhanced agentic capabilities, long-horizon task execution, and visual understanding.</p><p>The model builds upon earlier preview iterations and is designed to compete with leading domestic open-source rivals in China's rapidly evolving artificial intelligence sector. Tencent has also announced plans to launch a Flash version of the model in the near future.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26210"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.siemens-energy.com%2Fcontent%2Fdam%2Fsiemensenergy-aem%2Fhotspot-images%2FDatacenter__Landscape.jpg.transform%2F1280w%2Fimg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Grid Protectors Program is a national initiative designed to allow OpenAI's future data center campuses to reduce electricity consumption when the power grid is under strain. Through collaborations with utility providers, the program seeks to support grid reliability and protect consumer electricity costs.</p><p>The initiative's first implementation is planned for a campus in Effingham County, Georgia, which is expected to offer up to 1 gigawatt of flexible demand. This effort addresses the intersection of AI infrastructure expansion and power grid capacity constraints.</p>
 <p>Nov 2 · <a href="https://openai.com/index/grid-protectors-program">openai.com</a></p>
-<br clear="all" />
-
-<h2>DeepSeek Unveils Creator Mode for Custom AI Agent Plugins</h2>
-<a name="story-26207"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeepseekagent.io%2F_next%2Fimage%3Furl%3D%2Freviews%2Fdeepseek-harness%2Fdsh-plugin-settings-ui-enhanced.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DeepSeek has launched "Creator Mode" for its DeepSeek Harness platform, enabling users to develop custom AI agent plugins using natural language instructions. The feature allows users to transform plain English descriptions into functional tools, such as 3D model renderers or video editing workbenches.</p><p>This update is part of a broader effort by the Hangzhou-based lab to expand its AI agent ecosystem. By allowing users to generate specialized plugins through simple instructions, DeepSeek aims to increase the extensibility and accessibility of its agent framework.</p>
-<p>Nov 2 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode">bloomberg.com</a> | <a href="https://x.com/DeepSeekHarness/status/2117256196227019194">x.com</a></p>
 <br clear="all" />
 
 ---
