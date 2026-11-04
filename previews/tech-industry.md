@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>ITjuzi Reports Chinese Embodied AI Funding Reached $13 Billion in First Half of 2026</h2>
+<a name="story-26382"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ai2.work%2Fheroes%2Fchina-races-to-dominate-embodied-ai-as-ev-makers-pivot-to-robots.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese embodied AI companies raised 93.5 billion yuan, equivalent to approximately $13 billion, across 322 financing deals in the first half of 2026. According to data from research firm ITjuzi, this represents a fivefold year-on-year increase in funding value and a substantial jump in deal activity.</p><p>The surge in investment underscores a strategic shift among domestic robotics manufacturers moving beyond physical hardware displays—such as running and backflips—toward the development of advanced AI software "brains." Industry stakeholders are increasingly prioritizing machine learning, autonomy, and cognitive capabilities to commercialize humanoid and specialized robots at scale.</p>
+<p>Nov 4 · <a href="https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Chinese AI Companies Expect Minimal Delivery on $70 Billion Nvidia Chip Orders</h2>
 <a name="story-26375"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmineshop.eu%2Fstorage%2Fblog-images%2F1823%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Major Chinese artificial intelligence developers, including Alibaba, Tencent, and ByteDance, anticipate receiving only about one percent of the six million Nvidia RTX Pro 5500 chips they have ordered over the coming months. The orders, valued at roughly $70 billion, fall drastically short of what Nvidia can supply as the company struggles with manufacturing constraints.</p><p>Global production capacity for the RTX Pro 5500 is severely limited, with overall production through 2027 expected to fall well short of total demand from Chinese firms. This supply bottleneck highlights the ongoing pressures and high-stakes competition surrounding advanced artificial intelligence hardware access in China amid international trade restrictions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26278"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2026%2F01%2Farticle-5382-1767338654.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Facing severe electricity shortages and long grid connection delays, artificial intelligence data center developers are increasingly turning to retired commercial and military aircraft jet engines to generate off-grid power. Companies are scavenging engines from aircraft boneyards—such as Boeing and Airbus powerplants—and converting them into rapid-deployment gas turbines.</p><p>This trend has accelerated as rapid data center expansion outpaces traditional energy infrastructure buildouts. While the repurposed turbines offer unmatched speed to power, industry experts and environmental advocates warn that burning fossil fuels via makeshift generators will significantly increase air pollution and associated healthcare costs.</p>
 <p>Nov 3 · <a href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50352584">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI Hires Former U.S. Army Secretary Dan Driscoll for National Security Role</h2>
-<a name="story-26274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihvAlsWWIWqM%2Fv0%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI has appointed former U.S. Army Secretary Dan Driscoll as its first senior counselor for national security modernization. In this newly created role, Driscoll will advise company leadership on integrating artificial intelligence into national security and cybersecurity initiatives, as well as collaborating with allied governments.</p><p>Driscoll's appointment comes as artificial intelligence companies increasingly seek to expand their footprint within government contracting and defense policy. Prior to joining OpenAI, Driscoll served as the 26th Secretary of the Army and is an Iraq War veteran.</p>
-<p>Nov 3 · <a href="https://www.wsj.com/politics/national-security/openai-hires-former-army-secretary-dan-driscoll-to-cybersecurity-role-0e5cc0a1?st=cfNEPb&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://openai.com/index/dan-driscoll-joins-openai/">openai.com</a></p>
 <br clear="all" />
 
 ---
