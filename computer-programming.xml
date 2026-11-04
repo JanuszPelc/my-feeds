@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Dennis Forbes Analyzes SQLite Performance Slowdown Caused by Zig Libc Rewrite</title>
+    <link href="https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/" rel="alternate" />
+    <id>https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/::v240</id>
+    <published>2026-11-04T15:24:00+00:00</published>
+    <updated>2026-11-04T15:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmintcdn.com%2Fcodspeed%2FBdvfbpKO_S3Ha4vy%2Fguides%2Fbenchmarking-a-go-gin-api%2Fassets%2Fsqlite-regression-ui.png%3Ffit%3Dmax%26auto%3Dformat%26n%3DBdvfbpKO_S3Ha4vy%26q%3D85%26s%3Da9b94424ad0f97ff4b17a541f14a5bd8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/">dennisforbes.ca</a> | <a href="https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50247203">hacker news</a></small></p><hr/><p>Developer Dennis Forbes encountered a severe performance regression when inserting large JSON datasets into SQLite via a Rust service, with operations taking minutes instead of milliseconds. The bottleneck was traced to CPU-bound string tokenization during cross-platform compilation using Zig's `cc` compiler.</p><p>The slowdown originated from a pure-Zig replacement of standard C library string functions like `strspn` within Zig's libc implementation. Unlike standard library versions, the rewritten function repeatedly measures the entire length of the string on each iteration, creating a quadratic complexity trap that dramatically degrades tokenization performance on large files.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmintcdn.com%2Fcodspeed%2FBdvfbpKO_S3Ha4vy%2Fguides%2Fbenchmarking-a-go-gin-api%2Fassets%2Fsqlite-regression-ui.png%3Ffit%3Dmax%26auto%3Dformat%26n%3DBdvfbpKO_S3Ha4vy%26q%3D85%26s%3Da9b94424ad0f97ff4b17a541f14a5bd8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 18:57 UTC | #26451</small>]]></content>
+  </entry>
+  <entry>
     <title>Zig Programming Language Releases Version 0.17.1</title>
     <link href="https://ziglang.org/news/0.17.1-released/" rel="alternate" />
     <id>https://ziglang.org/news/0.17.1-released/::v240</id>
@@ -463,23 +472,5 @@
     <updated>2026-10-30T22:26:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fserce.me%2Fimages%2Fwhitespace%2Fwhitespace.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace">serce.me</a> | <a href="https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace">lobsters</a></small></p><hr/><p>Identifying whitespace characters is complicated by varying definitions across programming runtimes and the evolving Unicode standard. While Unicode's White_Space property includes 25 specific characters, different environments like Java, Python, and JavaScript apply their own rules, often resulting in inconsistent detection across platforms.</p><p>Google's Guava library implements its whitespace matcher using a perfect hash function to optimize performance. This approach uses a mathematical multiplier and bit-shifting to map characters to a 32-element lookup table, providing an efficient way to verify matches without the computational cost of division.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fserce.me%2Fimages%2Fwhitespace%2Fwhitespace.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 02:51 UTC | #26010</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tinyworldformer Generates and Plays Games on Raspberry Pi Pico 2 W</title>
-    <link href="https://github.com/SheepSeb/tinyworldformer" rel="alternate" />
-    <id>https://github.com/SheepSeb/tinyworldformer::v240</id>
-    <published>2026-10-30T18:59:00+00:00</published>
-    <updated>2026-10-30T18:59:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FSheepSeb%2Ftinyworldformer%2Fraw%2Fmain%2Fdocs%2Fmedia%2Fbanner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/SheepSeb/tinyworldformer">github.com</a> | <a href="https://news.ycombinator.com/item?id=50295450">hacker news</a></small></p><hr/><p>Two neural networks running on a Raspberry Pi Pico 2 W enable the simultaneous generation and gameplay of simple digital games. A "world model" predicts future game frames and rewards from current inputs, while an "actor" network selects actions based on those generated frames.</p><p>The system uses a "looped transformer" architecture, which reuses a single transformer block's weights across multiple passes to minimize memory usage. This method allows games like Breakout, Pong, and Flappy Bird to run on the microcontroller using int8 quantization.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FSheepSeb%2Ftinyworldformer%2Fraw%2Fmain%2Fdocs%2Fmedia%2Fbanner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 01:00 UTC | #26003</small>]]></content>
-  </entry>
-  <entry>
-    <title>Shrinking NixOS RAM Footprint and Resource Requirements</title>
-    <link href="https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum" rel="alternate" />
-    <id>https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum::v240</id>
-    <published>2026-10-30T18:57:00+00:00</published>
-    <updated>2026-11-01T16:53:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsocial.defenestrate.it%2Fmedia%2F22%2Fd2%2Fe3%2F22d2e33bc3d6b1092b1b51d92609847f7907b0739b1f334e6aa92b015cf23441.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum">lowendspirit.com</a> | <a href="https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50326246">hacker news</a></small></p><hr/><p>AnthonySmith details a guide for optimizing NixOS to idle at approximately 96 megabytes of RAM and rebuild successfully within 512 megabytes. The configuration modifications address kernel parameters, boot modules, services, and memory management.</p><p>Key adjustments include disabling memory profiling, removing unused drivers, replacing systemd-resolved and timesyncd with lightweight alternatives, and tuning the Boehm GC used by Nix. Additionally, ZRAM configuration changes allow memory compression to handle low-RAM system rebuilds.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.defenestrate.it%2Fmedia%2F22%2Fd2%2Fe3%2F22d2e33bc3d6b1092b1b51d92609847f7907b0739b1f334e6aa92b015cf23441.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 00:14 UTC | #26002</small>]]></content>
   </entry>
 </feed>

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Dennis Forbes Analyzes SQLite Performance Slowdown Caused by Zig Libc Rewrite</h2>
+<a name="story-26451"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmintcdn.com%2Fcodspeed%2FBdvfbpKO_S3Ha4vy%2Fguides%2Fbenchmarking-a-go-gin-api%2Fassets%2Fsqlite-regression-ui.png%3Ffit%3Dmax%26auto%3Dformat%26n%3DBdvfbpKO_S3Ha4vy%26q%3D85%26s%3Da9b94424ad0f97ff4b17a541f14a5bd8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Dennis Forbes encountered a severe performance regression when inserting large JSON datasets into SQLite via a Rust service, with operations taking minutes instead of milliseconds. The bottleneck was traced to CPU-bound string tokenization during cross-platform compilation using Zig's `cc` compiler.</p><p>The slowdown originated from a pure-Zig replacement of standard C library string functions like `strspn` within Zig's libc implementation. Unlike standard library versions, the rewritten function repeatedly measures the entire length of the string on each iteration, creating a quadratic complexity trap that dramatically degrades tokenization performance on large files.</p>
+<p>Nov 4 · <a href="https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/">dennisforbes.ca</a> | <a href="https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50247203">hacker news</a></p>
+<br clear="all" />
+
 <h2>Zig Programming Language Releases Version 0.17.1</h2>
 <a name="story-26438"><img src="https://wsrv.nl/?url=https%3A%2F%2Fziglang.org%2Fdownload%2F0.9.0%2Fstage2-progress-dark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Zig project has released version 0.17.1, a bug fix update addressing more than 57 issues reported following the 0.17.0 release. The update focuses specifically on resolving regressions and upgrade blockers that affected users.</p><p>Most users who encountered obstacles while attempting to upgrade to version 0.17.0 should now be able to transition to the new patch release. Download links and updated documentation are available on the official Zig website.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhazm.at%2Fmox%2Falgorithm%2Fstructural-algorithm%2Ftree%2Fb-epsilon-tree%2Fan-introduction-to-b-epsilon-trees-and-write-optimization%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Michael A. Bender and co-authors examine Bε-trees, write-optimized data structures designed to organize on-disk storage for file systems and databases. Providing a key-value API comparable to traditional B-trees, Bε-trees deliver enhanced performance for inserts, updates, and range queries.</p><p>The article contrasts the asymptotic performance and practical measurements of Bε-trees against standard B-trees and Log-Structured Merge trees (LSM-trees). It outlines how buffered internal nodes enable write efficiency, offering foundational insights to help developers design applications that maximize storage performance.</p>
 <p>Nov 3 · <a href="https://www.usenix.org/publications/login/oct15/bender">usenix.org</a> | <a href="https://lobste.rs/s/0ec9yk/introduction_b_trees_write_optimization">lobsters</a></p>
-<br clear="all" />
-
-<h2>JS Barretto Discusses the 2015 Thinkpad X250</h2>
-<a name="story-26255"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.jsbarretto.com%2Fimg%2Flaptop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>JS Barretto identifies the 2015 Thinkpad X250 as their preferred laptop, citing its compact form factor, lightweight build, and battery longevity. The device features an Intel i5-5200U processor and runs Endeavour OS for programming tasks.</p><p>The laptop's high repairability allows for simple component replacement, such as the keyboard or motherboard, using basic tools. Utilizing second-hand hardware is presented as a cost-effective alternative to modern consumer electronics and a way to resist high-consumption culture.</p>
-<p>Nov 3 · <a href="https://blog.jsbarretto.com/post/laptop">blog.jsbarretto.com</a> | <a href="https://lobste.rs/s/ezg5mx/my_favourite_laptop">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50339815">hacker news</a></p>
 <br clear="all" />
 
 ---
