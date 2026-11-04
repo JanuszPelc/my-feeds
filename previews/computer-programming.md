@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>NetBSD 11.1 Released</h2>
+<a name="story-26380"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The NetBSD Project has released NetBSD 11.1, the first point release of the NetBSD 11 stable branch. This release focuses primarily on addressing security vulnerabilities and implementing bug fixes to improve system stability.</p><p>Key updates include OpenSSH 10.6, unbound 1.26.1, and security patches for brotli and libXfont2. The release also introduces enhanced support for sparc64 sensors and adds battery monitoring capabilities for Microsoft Surface Go 3 devices.</p>
+<p>Nov 3 · <a href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html">netbsd.org</a> | <a href="https://lobste.rs/s/siqsg7/announcing_netbsd_11_1">lobsters</a></p>
+<br clear="all" />
+
 <h2>HackerTV Provides 24/7 Broadcasts of Hacker News Recommended Videos</h2>
 <a name="story-26376"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F88%2F96%2Fc5%2F8896c504174ab44cfe0a53db689fe177.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HackerTV features continuous 24/7 video broadcasts based on content recommended by users on Hacker News. The service maintains a consistent broadcast schedule for all viewers across various channels.</p><p>Developed by Danny Salzman, the platform's catalog is seeded from HackerTube and built using the Hacker News archive. Content is updated weekly by filtering new HN comments through the HN Search API.</p>
@@ -17,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Kitty Terminal Emulator Releases Version 0.50.0</h2>
 <a name="story-26366"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kitty version 0.50.0 introduces window docking to edges, session restoration after logout, and Wayland improvements including native decorations and touchscreen support. New custom shaders allow for particle effects controlled by key presses, and the terminal now supports the Program Status Protocol.</p><p>Updates include tab-based workspace functionality, automatic system-wide color theme switching, and improved layout border alignment. Performance optimizations were added for the GPU sprite cache and general rendering.</p>
-<p>Nov 3 · <a href="https://sw.kovidgoyal.net/kitty/changelog/#id1">sw.kovidgoyal.net</a> | <a href="https://lobste.rs/s/gwyv50/kitty_0_50_0">lobsters</a></p>
+<p>Nov 3 · <a href="https://sw.kovidgoyal.net/kitty/changelog/#id1">sw.kovidgoyal.net</a> | <a href="https://lobste.rs/s/gwyv50/kitty_0_50_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50359709">hacker news</a></p>
 <br clear="all" />
 
 <h2>Safari Introduces Adaptive Dark Mode in 27.3 Beta</h2>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnapcakes.nekoweb.org%2Fposts%2Fmalloc%2Funix-v4-tape.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of early Unix source code traces the evolution of memory allocation from primitive linear allocators in Unix Version 4 to explicit map-based memory management and eventual modern malloc implementations. Early Unix versions utilized straightforward linear allocation routines using sbrk without freeing memory, while kernel routines managed partitioned resources such as main memory and swap space using explicit resource maps.</p><p>The historical survey highlights how subsequent editions introduced allocation macros, size-computation shortcuts, and zero-initialization practices that predated or influenced modern language features like C++'s new operator. By examining historical source trees via the Unix Tree repository, the post documents the iterative design choices made by early Unix developers under strict hardware constraints.</p>
 <p>Nov 2 · <a href="https://napcakes.nekoweb.org/posts/malloc/">napcakes.nekoweb.org</a> | <a href="https://lobste.rs/s/ihqhia/lost_malloc">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50336148">hacker news</a></p>
-<br clear="all" />
-
-<h2>The Origins and Early Development of BSD Unix</h2>
-<a name="story-26194"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In the late 1970s, Bill Joy and researchers at UC Berkeley created the Berkeley Software Distribution (BSD) by bundling a Pascal compiler, line editors, and other utilities as an add-on package for AT&amp;T Unix. By distributing these tools at cost, Berkeley fostered a tradition of sharing that helped spread Unix throughout universities and research institutions.</p><p>Following the release of the expanded 2BSD distribution, the acquisition of a VAX computer at Berkeley led graduate student Ozalp Babaoglu and Bill Joy to add virtual memory support to Unix 32/V. Their work culminated in 3BSD in December 1979, drawing the interest of DARPA and laying the groundwork for Unix's widespread adoption in government-funded research.</p>
-<p>Nov 2 · <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">fosscomics.com</a> | <a href="https://news.ycombinator.com/item?id=50332163">hacker news</a></p>
 <br clear="all" />
 
 ---

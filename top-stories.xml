@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-04T03:34:00+00:00</updated>
+  <updated>2026-11-04T07:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Detroit Techno Pioneer Juan Atkins Dies at 64</title>
+    <link href="https://musictech.com/features/juan-atkins-dies-techno-legacy/" rel="alternate" />
+    <id>https://musictech.com/features/juan-atkins-dies-techno-legacy/::v240</id>
+    <published>2026-11-04T07:02:00+00:00</published>
+    <updated>2026-11-04T07:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fjuan-atkins-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/features/juan-atkins-dies-techno-legacy/">musictech.com</a></small></p><hr/><p>Electronic music pioneer and Belleville Three co-founder Juan Atkins died on October 31, 2026, at the age of 64 in Mexico City, where he was scheduled to perform. Tributes from across the global electronic music community poured in following the news, celebrating his foundational role in shaping the techno genre.</p><p>Emerging from Detroit in the late 1970s and early 1980s, Atkins helped establish the blueprint for techno through his pioneering work with projects like Cybotron and Model 500, as well as his Metroplex record label. His fusion of futuristic synthesizer sounds, drum machines like the Roland TR-808, and speculative fiction profoundly influenced generations of electronic music producers worldwide.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fjuan-atkins-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 21:27 UTC | #26302 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Retired Aircraft Jet Engines Repurposed to Power AI Data Centers</title>
     <link href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html" rel="alternate" />

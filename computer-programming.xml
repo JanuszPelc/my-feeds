@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-03T23:51:00+00:00</updated>
+  <updated>2026-11-04T07:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>NetBSD 11.1 Released</title>
+    <link href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html" rel="alternate" />
+    <id>https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html::v240</id>
+    <published>2026-11-03T23:54:00+00:00</published>
+    <updated>2026-11-03T23:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html">netbsd.org</a> | <a href="https://lobste.rs/s/siqsg7/announcing_netbsd_11_1">lobsters</a></small></p><hr/><p>The NetBSD Project has released NetBSD 11.1, the first point release of the NetBSD 11 stable branch. This release focuses primarily on addressing security vulnerabilities and implementing bug fixes to improve system stability.</p><p>Key updates include OpenSSH 10.6, unbound 1.26.1, and security patches for brotli and libXfont2. The release also introduces enhanced support for sparc64 sensors and adds battery monitoring capabilities for Microsoft Surface Go 3 devices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 06:58 UTC | #26380</small>]]></content>
+  </entry>
   <entry>
     <title>HackerTV Provides 24/7 Broadcasts of Hacker News Recommended Videos</title>
     <link href="https://hackertv.org" rel="alternate" />
@@ -20,9 +29,9 @@
     <link href="https://sw.kovidgoyal.net/kitty/changelog/#id1" rel="alternate" />
     <id>https://sw.kovidgoyal.net/kitty/changelog/#id1::v240</id>
     <published>2026-11-03T21:49:00+00:00</published>
-    <updated>2026-11-03T21:49:00+00:00</updated>
+    <updated>2026-11-04T07:02:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://sw.kovidgoyal.net/kitty/changelog/#id1">sw.kovidgoyal.net</a> | <a href="https://lobste.rs/s/gwyv50/kitty_0_50_0">lobsters</a></small></p><hr/><p>Kitty version 0.50.0 introduces window docking to edges, session restoration after logout, and Wayland improvements including native decorations and touchscreen support. New custom shaders allow for particle effects controlled by key presses, and the terminal now supports the Program Status Protocol.</p><p>Updates include tab-based workspace functionality, automatic system-wide color theme switching, and improved layout border alignment. Performance optimizations were added for the GPU sprite cache and general rendering.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 02:53 UTC | #26366</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://sw.kovidgoyal.net/kitty/changelog/#id1">sw.kovidgoyal.net</a> | <a href="https://lobste.rs/s/gwyv50/kitty_0_50_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50359709">hacker news</a></small></p><hr/><p>Kitty version 0.50.0 introduces window docking to edges, session restoration after logout, and Wayland improvements including native decorations and touchscreen support. New custom shaders allow for particle effects controlled by key presses, and the terminal now supports the Program Status Protocol.</p><p>Updates include tab-based workspace functionality, automatic system-wide color theme switching, and improved layout border alignment. Performance optimizations were added for the GPU sprite cache and general rendering.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 02:53 UTC | #26366</small>]]></content>
   </entry>
   <entry>
     <title>Safari Introduces Adaptive Dark Mode in 27.3 Beta</title>
