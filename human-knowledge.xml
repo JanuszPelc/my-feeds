@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-03T12:53:00+00:00</updated>
+  <updated>2026-11-03T22:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer Published on arXiv</title>
+    <link href="https://arxiv.org/abs/2605.29713" rel="alternate" />
+    <id>https://arxiv.org/abs/2605.29713::v240</id>
+    <published>2026-11-03T22:45:00+00:00</published>
+    <updated>2026-11-03T22:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F811Lm9shtVL._SL1500_.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arxiv.org/abs/2605.29713">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=50358582">hacker news</a></small></p><hr/><p>The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer provides a derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence. The text explores the mathematical connections between major model families, including PCA, variational autoencoders, diffusion models, normalizing flows, GANs, and energy-based models.</p><p>This 195-page manuscript is designed as a foundation-building resource for researchers, practitioners, and students. The revised version includes integrated visual explanations intended to make the mathematical structures of generative modeling more accessible.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F811Lm9shtVL._SL1500_.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 04:04 UTC | #26368</small>]]></content>
+  </entry>
   <entry>
     <title>Smithsonian Researchers Identify Chytrid Fungus as Cause of Historic Frog Declines in Brazil</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261102202838.htm" rel="alternate" />
