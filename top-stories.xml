@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-04T20:05:00+00:00</updated>
+  <updated>2026-11-04T22:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Apple Begins Beta Testing Apple Watch Audio Intelligence Features</title>
+    <link href="https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/::v240</id>
+    <published>2026-11-04T22:34:00+00:00</published>
+    <updated>2026-11-04T22:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FApple-Watch-Series-12-Sound-Recognition-260909.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/">techcrunch.com</a></small></p><hr/><p>Apple has begun beta testing its new Audio Intelligence features for the Apple Watch, rolling them out to developers via the iOS 27.3 update. Initially announced for the Apple Watch Series 12 and Ultra 4, the suite includes four opt-in tools: sound recognition, song identification via Shazam, live conversation rewinds, and high-level conversation recaps.</p><p>The conversational features, Live Rewind and Siri Recaps, process audio using a combination of on-device S11 chip hardware, a secure enclave on the paired iPhone, and Apple’s Private Cloud Compute without saving raw audio or generating word-for-word transcripts. Live Rewind allows users to view a 15-second text snippet of recent speech by double-pressing the digital crown, while Siri Recaps summarizes meetings and discussions into concise bullet points that automatically delete after seven days if not saved.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FApple-Watch-Series-12-Sound-Recognition-260909.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 12:27 UTC | #26256 | d,hr</small>]]></content>
+  </entry>
   <entry>
     <title>US Tech Giants' AI-Related Off-Balance-Sheet Debt Reaches $3.2 Trillion</title>
     <link href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months" rel="alternate" />

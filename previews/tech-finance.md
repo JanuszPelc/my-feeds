@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Crypto and AI Super PACs Lose Majority of Competitive 2026 Midterm Races</h2>
+<a name="story-26424"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.citationneeded.news%2Fcontent%2Fimages%2F2026%2F11%2Felection-outcomes-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Crypto and artificial intelligence companies spent approximately $250 million during the 2026 midterm elections to shape future industry regulations, but their super PACs experienced significant defeats in competitive races. Out of twelve competitive races called by early November, industry-backed candidates lost nine, with political action committees investing $74.7 million into losing campaigns compared to just $28.3 million on winning ones.</p><p>High-profile losses included the Ohio Senate race, where Democrat Sherrod Brown defeated a record $64 million crypto-funded effort to unseat him, alongside defeats in numerous other Senate and House contests. Despite these setbacks in battlegrounds, the industry maintained a superficially high win rate by heavily backing candidates in safe seats where victory was practically guaranteed.</p>
+<p>Nov 4 · <a href="https://www.citationneeded.news/2026-election-results/">citationneeded.news</a></p>
+<br clear="all" />
+
+<h2>OPay Halts $304 Million US IPO Following Regulatory Inquiry</h2>
+<a name="story-26422"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.i-scmp.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1020x680%2Fpublic%2Fd8%2Fimages%2Fmethode%2F2021%2F08%2F29%2Fd4860e34-0641-11ec-a83e-ec0670db1017_image_hires_172612.JPG%3Fitok%3D-euRz16Y%26v%3D1630229182&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OPay Ltd., a Nigeria-focused and SoftBank-backed digital payments platform, halted its planned $304 million initial public offering on the New York Stock Exchange hours after pricing the deal. The eleventh-hour suspension followed regulatory inquiries originating from Chinese authorities regarding the offering.</p><p>The fintech firm, founded by Chinese billionaire Yahui Zhou, had priced its shares at the bottom of its marketed range before trading was abruptly blocked. The unexpected halt highlights the complex cross-border regulatory challenges faced by overseas-listed companies with deep ties to China.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry">bloomberg.com</a></p>
+<br clear="all" />
+
+<h2>Revolut Valuation Reaches $115B in Secondary Share Sale</h2>
+<a name="story-26419"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcassette.sphdigital.com.sg%2Fimage%2Fbusinesstimes%2F6d974a7b77d9813186849ddff7c3d63815e6aeb8110061d649dfa3f2c98271b9%3Fw%3D1200%26f%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Revolut has completed a secondary share sale that establishes a $115 billion valuation, a 53% increase from its previous $75 billion valuation. The sale provided liquidity to existing shareholders and employees without raising new capital and was led by investors including Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates, and Baillie Gifford.</p><p>The fintech serves over 80 million retail customers and is preparing to launch a national bank in the U.S. in the first half of 2027, following conditional approval from the Office of the Comptroller of the Currency. The company is also weighing potential public listings in New York or London, with an IPO potentially expected no earlier than 2028.</p>
+<p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/">techcrunch.com</a> | <a href="https://www.revolut.com/news/revolut_completes_fundraising_process_establishing_115_billion_valuation/">revolut.com</a></p>
+<br clear="all" />
+
 <h2>Sequoia Capital Closes London Office and Restructures Investment Team</h2>
 <a name="story-26414"><img src="https://wsrv.nl/?url=https%3A%2F%2Finventure.com.ua%2Fupload%2Fpic2015%2FSequoia-Capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Venture capital firm Sequoia Capital is closing its London office, concluding its six-year physical presence in Europe. The Silicon Valley-based firm stated that it no longer requires a local office to support European startups and will instead manage investments from its Bay Area headquarters.</p><p>The closure is part of a broader corporate restructuring that includes raising approximately $10 billion in new funds, sunsetting its Arc accelerator and Scouts programs, and merging its early-stage and growth operations. While some London-based partners are relocating to California, others are choosing to remain in Europe to back regional founders independently.</p>
@@ -78,24 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26289"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fautonomous-underwater-vehicle-exploring-coral-reef-deep-blue-sea_967812-25049.jpg%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Autonomous submarine startup Corridian has exited stealth with a $38 million seed funding round led by Point72 Ventures. The New England-based defense technology company is building ultra-large autonomous underwater vehicles designed for crewless cargo transport and undersea logistics.</p><p>Participation in the funding round includes Balerion Space Ventures, Harpoon Ventures, DCVC, and Marlinspike. Corridian plans to unveil its first autonomous underwater vehicle in 2027 to establish an undersea stealth logistics fleet.</p>
 <p>Nov 3 · <a href="https://www.axios.com/2026/11/03/corridian-seed-auv-new-england">axios.com</a> | <a href="https://www.corridian.com/corridian-emerges-announces-38m-seed-round">corridian.com</a></p>
-<br clear="all" />
-
-<h2>Shopify Reports Third-Quarter Revenue Rise and Stronger Earnings</h2>
-<a name="story-26279"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FC3r5FphZqBI_LDoK9EPotA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTM5MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.finance.gurufocus%2F6b8823552e7a436b183c85281aa49432&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Shopify reported its third-quarter financial results, posting a 32% year-over-year increase in revenue to $3.74 billion and a 29% jump in gross merchandise volume to $119.1 billion. The e-commerce platform also saw its net income rise 75% to $462 million, alongside an adjusted per-share earnings of $0.49.</p><p>The results reflect continued momentum for the company as it expands merchant volume and operational efficiency. Shopify maintained a strong free cash flow margin and continued to scale its commerce infrastructure amid competitive market pressures.</p>
-<p>Nov 3 · <a href="https://www.wsj.com/business/earnings/shopify-profit-revenue-up-as-merchant-volume-rises-4614feba?st=NdjCdK&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.shopify.com/investors/press-releases/shopify-sustains-rapid-growth-revenue-32-and-free-cash-flow">shopify.com</a></p>
-<br clear="all" />
-
-<h2>Larridin Raises $30 Million in Series A Funding for AI Measurement Platform</h2>
-<a name="story-26248"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F62f5631e2bc5c27ae506ffaf%2Fc4f9c668-a2f3-4629-ba2a-7d0b98d7576c%2FVenture%2BFunding%2BSequence.png%3Fformat%3D1500w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Larridin has secured $30 million in a Series A funding round led by Pelion Ventures, with participation from existing investors Andreessen Horowitz and Gradient Ventures. The company provides a platform designed to help enterprises measure how artificial intelligence spending translates into workforce productivity and agent performance.</p><p>The investment brings Larridin's total funding to $47 million as businesses increasingly demand tools to audit and justify heavy AI investments. The platform connects financial expenditure directly with usage and output metrics across human employees and software agents.</p>
-<p>Nov 3 · <a href="https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11">businessinsider.com</a> | <a href="https://larridin.com/press-releases/larridin-raises-30-million-in-series-a-to-prove-ais-impact-across-the-human-and-agent-workforce">larridin.com</a></p>
-<br clear="all" />
-
-<h2>Match Group Q3 Revenue and Paying Users Miss Estimates</h2>
-<a name="story-26240"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FMatch-Group-Total-Revenue_2024-11-06-214804_psee.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Third-quarter revenue for Match Group fell 3% year-over-year to $891.23 million, falling short of analyst estimates. The company's total paying users also decreased 5% to 13.8 million during the period.</p><p>The company's guidance for the fourth quarter includes an adjusted EBITDA forecast that is below market expectations.</p>
-<p>Nov 3 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/match-group-announces-third-quarter-results-302926778.html">prnewswire.com</a></p>
 <br clear="all" />
 
 ---
