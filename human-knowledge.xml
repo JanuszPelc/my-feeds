@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-04T12:08:00+00:00</updated>
+  <updated>2026-11-04T12:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>NASA Explores Commercial Servicing Options to Extend Hubble Space Telescope Life</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261104012254.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261104012254.htm::v240</id>
+    <published>2026-11-04T12:13:00+00:00</published>
+    <updated>2026-11-04T12:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Ff8end8KkwPxqqntd6CZgQZ-1200-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261104012254.htm">sciencedaily.com</a> | <a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/">science.nasa.gov</a></small></p><hr/><p>NASA has issued a Request for Information to evaluate whether commercial space companies can provide in-space servicing capabilities to extend the lifespan of the Hubble Space Telescope. The agency is seeking commercial solutions that could raise the telescope into a higher orbit, enhance its performance, or facilitate its safe disposal before atmospheric reentry becomes likely in the mid-2030s.</p><p>Operating in low Earth orbit without an onboard propulsion system, Hubble's altitude is gradually declining due to atmospheric drag. NASA expects the spacecraft to reenter Earth's atmosphere between 2033 and 2034, meaning any orbital boost mission would need to occur by 2032 to prevent atmospheric descent.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Ff8end8KkwPxqqntd6CZgQZ-1200-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 16:38 UTC | #26409</small>]]></content>
+  </entry>
   <entry>
     <title>SLAC National Accelerator Laboratory Researchers Confirm Proof of Altermagnetism</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261104012256.htm" rel="alternate" />
