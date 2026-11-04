@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-03T21:50:00+00:00</updated>
+  <updated>2026-11-03T21:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>CrowdStrike Launches AI Kill Switch to Control Rogue Agents</title>
+    <link href="https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html::v240</id>
+    <published>2026-11-03T21:51:00+00:00</published>
+    <updated>2026-11-03T21:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fcrowdstrike-adds-ai-kill-switch-to-falcon-guardian-for-rogue-agents.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html">cnbc.com</a> | <a href="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-introduces-ai-kill-switch-for-ai-safety/">crowdstrike.com</a></small></p><hr/><p>CrowdStrike has launched an AI kill switch within its Falcon Guardian platform, allowing security teams to terminate rogue AI agents and block their enterprise network access. The tool functions as a digital circuit breaker that requires human intervention to cut off an agent's access to the AI models influencing its decisions without deleting the agent's underlying code.</p><p>The announcement follows high-profile cyberattacks and discussions regarding bipartisan U.S. legislation that would mandate shutdown capabilities in AI models. To bolster its AI security ecosystem, CrowdStrike also announced plans to acquire observability startup Fiddler AI and security testing firm Dreadnode.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fcrowdstrike-adds-ai-kill-switch-to-falcon-guardian-for-rogue-agents.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 03:32 UTC | #26338</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Opens Siri AI to Developers in iOS 27.3 Beta</title>
     <link href="https://developer.apple.com/news/?id=gdk2umrf" rel="alternate" />
