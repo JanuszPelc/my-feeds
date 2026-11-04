@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-03T17:31:00+00:00</updated>
+  <updated>2026-11-04T02:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Google Responds to Political Backlash Over School AI Policy</title>
+    <link href="https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html::v240</id>
+    <published>2026-11-04T02:54:00+00:00</published>
+    <updated>2026-11-04T02:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fai-tools-for-educators.jpg%3Fresize%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html">cnbc.com</a> | <a href="https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/">blog.google</a></small></p><hr/><p>Google is addressing public and political criticism following reports that its new educational technology updates would restrict standard web search access for K-12 schools that reject artificial intelligence tools. Prominent lawmakers, including Sen. Bernie Sanders and New York Mayor Zohran Mamdani, condemned the move as coercive, accusing the company of leveraging its market dominance to force AI adoption in public classrooms.</p><p>In response to the backlash, Google clarified that features like the Gemini chatbot and AI search enhancements are disabled by default, leaving local school administrators in control of feature settings. Despite these assurances, company executives have acknowledged that traditional search and newer AI learning tools are deeply integrated, intensifying ongoing regulatory and legislative scrutiny regarding big tech influence in education.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fai-tools-for-educators.jpg%3Fresize%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 08:23 UTC | #26362</small>]]></content>
+  </entry>
   <entry>
     <title>World of Warcraft: Forever Addons Impacted by Surge of AI-Generated Software and Code Theft</title>
     <link href="https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/" rel="alternate" />
