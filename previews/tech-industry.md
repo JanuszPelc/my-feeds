@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Uber Reports Q3 Revenue of $14.8 Billion and Outlines Autonomous Fleet Expansion Plans</h2>
+<a name="story-26403"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F3%2F23%2F47586172-17742850301950045_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Uber reported its third-quarter financial results, showing a 10 percent year-over-year increase in revenue to $14.8 billion and a 20 percent rise in gross bookings to $59.8 billion. Total trips completed during the quarter reached 4 billion, representing a 16 percent increase compared to the same period last year.</p><p>Alongside the financial figures, the company outlined its plans to scale its autonomous vehicle fleet, aiming to deploy more than 2,000 robotaxis by 2027. Despite the expansion, Uber's autonomous fleet timeline remains behind competitor Waymo, as the ride-hailing company continues to integrate autonomous technology into its broader transportation network.</p>
+<p>Nov 4 · <a href="https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af">ft.com</a> | <a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx">investor.uber.com</a></p>
+<br clear="all" />
+
 <h2>HP Inc. Appoints Emma Walmsley as Chief Executive Officer</h2>
 <a name="story-26401"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F1074405270%2Fphoto%2Femma-walmsley-chief-executive-officer-of-glaxosmithkline-plc-poses-for-a-photograph-following.jpg%3Fs%3D612x612%26w%3Dgi%26k%3D20%26c%3DTyrWskeB2zSSs8OFfsw11y3ujkjfWmf9d0If2K4ynag%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HP Inc. has appointed former GSK chief executive Emma Walmsley as its new chief executive officer, effective January 4, 2027. She permanently fills the role following the departure of Enrique Lores earlier in the year and the subsequent tenure of interim leadership.</p><p>Walmsley brings extensive executive experience from her time leading GSK and her service on Microsoft's board of directors. Her appointment comes as the PC maker navigates market challenges, including memory-chip shortages and rising hardware prices.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26324"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgsrv2.voi.id%2FolxprDPkfI3khp30J85O5tKTuG_76Bi4LaGnAOwTQ0Y%2Fauto%2F1200%2F675%2Fsm%2F1%2FbG9jYWw6Ly8vcHVibGlzaGVycy8zODcxMjEvMjAyNDA2MDQyMzIyLW1haW4uY3JvcHBlZF8xNzE3NTE4MTQwLmpwZWc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google DeepMind employees in the UK are urging leadership to remove non-disparagement clauses from employment contracts. These legal provisions prevent former staff members from publicly warning about the potential risks of artificial intelligence.</p><p>Current workers claim the clauses deter employees from communicating critical safety concerns to the public. The protest reflects broader industry debates regarding transparency and the ability of researchers to critique emerging technologies.</p>
 <p>Nov 3 · <a href="https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/">washingtonpost.com</a> | <a href="https://news.ycombinator.com/item?id=50355504">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI Reports ChatGPT Reaches 1.2 Billion Weekly Users and 20% of Google Search Volume</h2>
-<a name="story-26298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjam7.com%2Fhs-fs%2Fhubfs%2Fchatgpt-and-challenger-search-engines-bing-duckduckgo.png%3Fwidth%3D1200%26height%3D742%26name%3Dchatgpt-and-challenger-search-engines-bing-duckduckgo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI consumer product lead Adam Fry announced that ChatGPT has reached 1.2 billion weekly active users, adding 200 million users over a two-month period. Fry also stated that the platform's search-like query volume has risen to approximately 20 percent of Google's volume.</p><p>During a discussion in New York, Fry revealed plans to merge ChatGPT's separate Chat and Work modes into a single unified interface. He noted that the platform's voice input feature has grown to 250 million weekly active users, while image generation has reached 1.5 billion creations per week.</p>
-<p>Nov 3 · <a href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20">bigtechnology.com</a></p>
 <br clear="all" />
 
 ---
