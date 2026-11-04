@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>James Talarico Defeats Ken Paxton in Texas Senate Race</h2>
+<a name="story-26393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fslaynews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fjames-talarico-ken-paxton-texas-senate-race.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Democrat James Talarico has defeated Republican Ken Paxton in Texas, securing the state's first Democratic Senate seat in more than thirty years. The high-profile race drew intense national attention and massive financial contributions, most notably from billionaire Elon Musk.</p><p>Musk invested $47 million to support Paxton's campaign while frequently attacking Talarico and amplifying conspiracy theories against him. The historic win represents a significant political realignment in a state that has long functioned as a reliable Republican stronghold.</p>
+<p>Nov 4 · <a href="https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6">ft.com</a></p>
+<br clear="all" />
+
 <h2>Ohio Voters Reject AI Infrastructure Expansion in Midterm Ballot Measures</h2>
 <a name="story-26394"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2F85a%2Fb2c1c5c2af374f52af57ddcae54c6663%2F85abd2b080ff414884da64f9208a5a2d%2Fposter_98a320b3a0ac42c8b1266f1c8b7b74e9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ohio voters overwhelmingly rejected artificial intelligence infrastructure expansion during the midterm elections, with at least 14 municipalities passing bans or restrictions on data centers. Across 18 communities, residents voted on 21 ballot measures concerning data centers, adding to the state's existing 125 local moratoriums and reflecting broad national skepticism toward large-scale tech developments.</p><p>The opposition spans political lines, driven by concerns over environmental impacts, grid capacity, quality of life, and a lack of transparency from developers. While pro-AI groups such as Build American AI have poured millions into television advertisements promoting the economic benefits and job creation of data center investments, public polling indicates widespread local pushback against upcoming facilities and tax breaks.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26249"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F09%2F18%2Fhuawei-ascend-960dt%2F01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Huawei recently informed certain clients that a large share of its upcoming Ascend 960DT flagship artificial intelligence chip will run on high-bandwidth memory produced by South Korean manufacturers Samsung and SK Hynix. This disclosure illustrates the ongoing porousness of U.S. restrictions and export controls designed to limit China's access to advanced semiconductor technology.</p><p>The Ascend 960DT represents a key component of Huawei's hardware development, with its commercial availability advanced to early 2027. The reliance on foreign memory components despite international sanctions underscores the persistent difficulty in cutting off Chinese tech firms from global high-performance supply chains.</p>
 <p>Nov 3 · <a href="https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>New York Times and Other Publishers Sue Brave Software Over Content Scraping</h2>
-<a name="story-26217"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEUquXBjxKsDg%2Ffeedshare-shrink_800%2Ffeedshare-shrink_800%2F0%2F1703818836661%3Fe%3D2147483647%26v%3Dbeta%26t%3D7gcgqQRAE0LlxdERbJlWJVgnawRgfH4bm_N68SmknSg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The New York Times, alongside other news publishers including the Daily News, the Chicago Tribune, and the Orlando Sentinel, has filed dual lawsuits in Manhattan federal court against Brave Software. The complaints allege that the privacy-focused browser company unlawfully scraped tens of billions of copyrighted webpages using an unblockable crawler and distributed the content to artificial intelligence firms such as Anthropic, Perplexity, Mistral, xAI, and Cohere.</p><p>The lawsuits also take aim at specific features within the Brave browser, claiming the software helps users bypass paywalls while blocking publisher advertisements in favor of its own. The publishers are seeking both an injunction and financial damages against the 11-year-old browser company, which has not yet responded to requests for comment.</p>
-<p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50344518">hacker news</a></p>
 <br clear="all" />
 
 ---
