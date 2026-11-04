@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Super Micro Computer Reports $19.95 Billion in Q1 Revenue and Higher Q2 Forecast</h2>
+<a name="story-26349"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSUPERMICRO-RESULTS%2Flbpgbkodyvq%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Super Micro Computer reported first-quarter revenue of $19.95 billion, exceeding Wall Street estimates of $16.39 billion and representing a 298% year-over-year increase. The company also forecasted second-quarter revenue to arrive above analyst estimates due to high demand for AI-optimized servers.</p><p>Following the earnings report, shares of the company rose by more than 7% in after-hours trading. The results underscore the company's significant growth alongside the expanding artificial intelligence hardware market.</p>
+<p>Nov 3 · <a href="https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03/">reuters.com</a> | <a href="https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx">ir.supermicro.com</a></p>
+<br clear="all" />
+
 <h2>AMD Third-Quarter Revenue Rises 45% Led by Data Center Growth</h2>
 <a name="story-26346"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AMD reported third-quarter revenue of $13.38 billion, a 45% increase from the previous year, exceeding analyst expectations of $13.09 billion. Adjusted earnings per share reached $2.09, surpassing the $1.95 consensus. Data center revenue nearly doubled, now accounting for 64% of the company's total revenue.</p><p>Growth in the data center unit was driven by demand for server CPUs used in agentic AI applications. Conversely, the gaming and PC segments faced headwinds, with combined revenue for those segments falling 8% year-over-year, including a 40% drop in gaming revenue. AMD projects fourth-quarter revenue to be approximately $17 billion.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26192"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopt-image.teamblind.com%2Fuploads%2Fatch_img%2F499%2Fc58085512685b691d8528a46d9aef15f_res.jpeg%3Fwidth%3D1200%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic PBC reported third-quarter revenue of nearly $17 billion as of September 30, marking a twelve-fold increase compared to the same period a year prior. In an amended S-1 filing with the U.S. Securities and Exchange Commission, the artificial intelligence company also disclosed a net loss of $23.3 billion alongside operating expenses surging 292% to $17.5 billion.</p><p>The financial disclosures arrive as the company prepares for a heavily anticipated initial public offering. While top-line revenue has accelerated dramatically, the figures underscore the immense capital outlays and computing commitments required to scale operations and compete in the generative artificial intelligence market.</p>
 <p>Nov 2 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50337439">hacker news</a></p>
-<br clear="all" />
-
-<h2>Omen AI Acquires Aquatic Labs for $16 Million</h2>
-<a name="story-26181"><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fomen-ai-aquatic-labs-16m-acquisition-coolant-sensor.16x9.jpg%3Fv%3Dog2-qu6zit&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Omen AI has acquired competitor Aquatic Labs in a $16 million cash-and-stock deal to expand its real-time fluid monitoring technology for AI data center cooling systems. The transaction combines Omen's element-sensing capabilities with Aquatic Labs' alkalinity testing to provide comprehensive, automated diagnostics for water and coolant loops.</p><p>Founded in 2024, Omen aims to help data center operators prevent equipment damage and reduce expensive fluid dumps by monitoring coolant health in real time. Aquatic Labs founder Allan Adams is joining Omen as chief science officer as the combined team works to integrate their technologies into a single sensor expected to launch by early next year.</p>
-<p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
