@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Sequoia Capital Closes London Office and Restructures Investment Team</h2>
+<a name="story-26414"><img src="https://wsrv.nl/?url=https%3A%2F%2Finventure.com.ua%2Fupload%2Fpic2015%2FSequoia-Capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Venture capital firm Sequoia Capital is closing its London office, concluding its six-year physical presence in Europe. The Silicon Valley-based firm stated that it no longer requires a local office to support European startups and will instead manage investments from its Bay Area headquarters.</p><p>The closure is part of a broader corporate restructuring that includes raising approximately $10 billion in new funds, sunsetting its Arc accelerator and Scouts programs, and merging its early-stage and growth operations. While some London-based partners are relocating to California, others are choosing to remain in Europe to back regional founders independently.</p>
+<p>Nov 4 · <a href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat">pathfounders.com</a> | <a href="https://x.com/sequoia/status/2117961312143855764">x.com</a></p>
+<br clear="all" />
+
 <h2>Sentra Raises $150 Million in Series C Funding for AI Data Security</h2>
 <a name="story-26406"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fsentra-raises-150m-series-c-to-expand-agentic-data-security-platform.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Data security startup Sentra Inc. has raised $150 million in a Series C funding round led by Capital One Ventures, bringing its total capital raised to over $250 million. The company provides a platform that classifies enterprise data and maps identities—including human users, service accounts, and artificial intelligence agents—to secure access across cloud and on-premises environments.</p><p>As enterprises adopt autonomous AI agents that operate continuously without centralized governance, Sentra aims to mitigate data exposure risks by restricting agent access to minimum required permissions and removing stale or high-risk data. The new funding will support expanding the platform's visibility and containment features for AI models and copilots, scaling field operations, and entering new geographic markets.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26240"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FMatch-Group-Total-Revenue_2024-11-06-214804_psee.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Third-quarter revenue for Match Group fell 3% year-over-year to $891.23 million, falling short of analyst estimates. The company's total paying users also decreased 5% to 13.8 million during the period.</p><p>The company's guidance for the fourth quarter includes an adjusted EBITDA forecast that is below market expectations.</p>
 <p>Nov 3 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/match-group-announces-third-quarter-results-302926778.html">prnewswire.com</a></p>
-<br clear="all" />
-
-<h2>Apple Reports $114.48 Billion in Q4 Revenue</h2>
-<a name="story-26228"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.etnownews.com%2Fthumb%2Fmsid-156448259%2Cthumbsize-148379%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F156448259.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple reported fourth-quarter revenue of $114.48 billion, a 12% increase year-over-year. The company achieved September quarter records for total revenue, iPhone revenue, and earnings per share, while Services revenue reached a new all-time high. China revenue grew 21% to $17.5 billion, falling below the $18.9 billion analyst estimate.</p><p>This is the first earnings report under CEO John Ternus. While total revenue exceeded the $113.39 billion estimate, performance in China missed consensus expectations.</p>
-<p>Nov 2 · <a href="https://www.businesswire.com/news/home/20261102433950/en/">businesswire.com</a> | <a href="https://news.ycombinator.com/item?id=50344670">hacker news</a></p>
 <br clear="all" />
 
 ---
