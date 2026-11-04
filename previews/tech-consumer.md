@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>GTA VI Pre-load Requires Up to 212GB of Storage Space</h2>
+<a name="story-26315"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.headtopics.com%2Fimages%2F2026%2F11%2F3%2Fcollider%2Fgrand-theft-auto-vi-pre-load-dates-confirmed-for-n-grand-theft-auto-vi-pre-load-dates-confirmed-for-n-139E15C11BA8A41DCDA80A68A4185ECB.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rockstar Games has confirmed that the Grand Theft Auto VI pre-load file will require up to 212GB of storage space. Pre-loading begins November 10 for PlayStation 5 and Xbox Series X|S, with PlayStation users able to start at midnight local time and Xbox users at 12 AM GMT.</p><p>The game launches on November 19 for $79.99. Physical copies will only contain a digital download code, as the title is primarily available via digital download.</p>
+<p>Nov 3 · <a href="https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games">theverge.com</a> | <a href="https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10">rockstargames.com</a></p>
+<br clear="all" />
+
 <h2>Netflix Rolls Out AI Discover Tab for Mood-Based Recommendations</h2>
 <a name="story-26329"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAIDiscover-ProductDemo-1440x810-1.gif%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Netflix is rolling out an "AI Discover" tab on supported TVs, allowing users to find content through mood-based themes and personalized preferences. Initially launching to English-language users in the U.S., the feature uses a new intelligence layer to suggest shows and movies based on factors such as time constraints, trending content, and specific moods like "something light" or "family movie night."</p><p>The tab serves as a "test kitchen" for Netflix to experiment with new discovery methods before integrating them into the main experience. Users can fine-tune their suggestions via a "Tune Your Recommendations" button, which allows them to save or exclude specific titles to help the AI learn their viewing tastes in real-time.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26109"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0888%2F1419%2F0877%2Ffiles%2Fi7__Office_subscription_Shopify.png%3Fv%3D1784539164%26width%3D1800%26height%3D967%26crop%3Dcenter&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Colossus is a print quarterly and website launched in 2024 that publishes sympathetic, high-end profiles of prominent Silicon Valley executives and investors, such as Mark Zuckerberg and Joshua Kushner. Founded by Patrick O'Shaughnessy, the publication aims to offer an alternative to traditional business journalism by emphasizing deep access and flattering portraiture over skepticism.</p><p>While tech moguls and venture capitalists praise the magazine for its high-end photography and unprecedented access, mainstream journalists and media critics dismiss it as sophisticated public relations or content marketing. Critics argue that the profiles avoid critical scrutiny and difficult questions, serving primarily as a clout-building exercise for its tech and investment backers.</p>
 <p>Nov 1 · <a href="https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/">sfstandard.com</a> | <a href="https://colossus.com/">colossus.com</a> | <a href="https://news.ycombinator.com/item?id=50329018">hacker news</a></p>
-<br clear="all" />
-
-<h2>Casio Publishes 1980s Watch Heritage Collection for 50th Anniversary</h2>
-<a name="story-26073"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.casio.com%2Fcontent%2Fcasio%2Flocales%2Fus%2Fen%2Fproducts%2Fwatches%2F50th%2FHeritage%2F1980s%2F_jcr_content%2Froot%2Fresponsivegrid%2Fcontainer_284324613__746095867%2Funderlaying_containe%2Fcontainer%2Fcontainer_copy_copy_%2Fimage.casiocoreimg.png%2F1708007924781%2F1987-dba-80-dba-800-sq.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Casio has launched an online heritage feature detailing its watch releases from the 1980s as part of its 50th-anniversary celebration. The retrospective highlights several milestone designs and technological developments from the decade.</p><p>Featured models include the 1980 C-80 calculator watch with fingertip key input, the debut of the rugged G-SHOCK line in 1983, and early solar-powered timepieces utilizing amorphous silicon panels. The collection showcases how the company expanded its digital watch capabilities and introduced enduring styles throughout the era.</p>
-<p>Oct 31 · <a href="https://www.casio.com/us/watches/50th/Heritage/1980s/">casio.com</a> | <a href="https://news.ycombinator.com/item?id=50317363">hacker news</a></p>
 <br clear="all" />
 
 ---
