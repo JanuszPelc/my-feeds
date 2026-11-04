@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Democratic Gubernatorial Wins Threaten US AI Data Center Expansion with Increased Scrutiny</h2>
+<a name="story-26381"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxnews.com%2Ffoxnews.com%2Fcontent%2Fuploads%2F2025%2F09%2F1200%2F675%2Fai-data-center.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Democratic gubernatorial victories in Texas, Georgia, Ohio, and Pennsylvania threaten to subject roughly half of all proposed U.S. artificial intelligence data center additions to heightened regulatory scrutiny and local pushback. These political shifts introduce new hurdles for developers racing to build power-intensive infrastructure campuses to meet surging computational demands.</p><p>The anticipated regulatory friction follows mounting pressures from local power grid strains, escalating construction costs, and community resistance over water and electricity consumption. As state leadership changes, developers face a more complex operating landscape for securing permits and navigating regional energy mandates.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Democratic Sweep of US Congress Rattles Asian Tech Stocks and Crypto Markets</h2>
 <a name="story-26377"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fcard%2F01m5mjsqdkn76zx8m3ebp4mpzg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Democratic sweep of the US Congress triggered a selloff in global markets, weighing down Asian technology shares, the US dollar, and cryptocurrency-related assets. Investors reacted to the unexpected midterm election results by reassessing trades built around President Donald Trump's policy agenda, particularly concerning artificial intelligence infrastructure and digital asset regulation.</p><p>While markets later pared some of their losses, analysts noted that a unified Democratic Congress could introduce stricter oversight and regulatory hurdles for AI development and data center buildouts. The political shift disrupted prevailing market assumptions, driving a rotation toward safer assets like Treasuries as participants braced for potential policy headwinds toward the end of the year.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26200"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2FPXL_20261026_195245509-1-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Voters in jurisdictions like Denton County, Texas, have received artificial intelligence-generated "I Voted" stickers during the 2026 election cycle. These stickers feature cluttered layouts, garbled text, and generic patriotic motifs that contrast sharply with custom, artist-designed memorabilia distributed in other parts of the country.</p><p>The appearance of low-quality, automated election materials illustrates how generative technology is increasingly creeping into civic traditions. While numerous states and local municipalities continue to engage local artists or hold student design contests for distinctive stickers, the use of AI-generated alternatives reflects a broader normalization of automated content in public life.</p>
 <p>Nov 2 · <a href="https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/">404media.co</a></p>
-<br clear="all" />
-
-<h2>Scott Alexander Publishes Against SURA Essay on LessWrong</h2>
-<a name="story-26164"><img src="https://wsrv.nl/?url=https%3A%2F%2Faicyberinsights.com%2Fwp-content%2Fuploads%2F2024%2F05%2FPause-AI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Blogger Scott Alexander published an essay on LessWrong examining the rising popularity of what he terms "SURA"—Stop Unilaterally + Raise Awareness—within AI safety debates. He argues that safety-focused AI labs should not abandon the ongoing AI race, contending that a unilateral pause would hand leadership to organizations that do not prioritize alignment and eliminate strategic leverage against competitors like China.</p><p>The essay has sparked intra-community debate over AI pause movements, safety strategies, and how ethical labs should navigate competitive pressures. Critics and commentators have engaged with the arguments surrounding whether unilateral cessation or continuing participation is more effective for ensuring safe AI development.</p>
-<p>Nov 2 · <a href="https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura">lesswrong.com</a></p>
 <br clear="all" />
 
 ---
