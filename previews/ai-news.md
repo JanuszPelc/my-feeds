@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Apple Opens Siri AI to Developers in iOS 27.3 Beta</h2>
+<a name="story-26337"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fanalyticsinsight%2F2026-06-10%2Fd0122r07%2FHow-to-Get-Apples-New-Siri-AI-in-iOS-27-Easy-Guide.jpg%3Fw%3D1200%26auto%3Dformat%2Ccompress%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple has released a Developer Preview for Siri AI, allowing developers to integrate their apps with the assistant using App Intents. Available in the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, the feature enables apps to surface content and actions through natural language, onscreen awareness, and personal context understanding.</p><p>The preview allows developers to build and refine experiences before App Store submission opens in the spring. Supported languages currently include English, French, Japanese, Korean, Portuguese, and Spanish, though the feature is unavailable in the EU and requires Apple Intelligence-compatible hardware.</p>
+<p>Nov 3 · <a href="https://developer.apple.com/news/?id=gdk2umrf">developer.apple.com</a></p>
+<br clear="all" />
+
 <h2>Google to Restrict Search Access for Schools That Block AI Tools</h2>
 <a name="story-26323"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthesiliconreview.com%2Fstory_image_upload%2Farticle%2FThe-Silicon-Review---U.S-School-Districts-Begin-K%E2%80%9312-AI-Policy-Implementation_2025-07-29_10-05-43.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google announced that beginning in early next year, its artificial intelligence tools for K-12 student accounts will be turned off by default unless school administrators explicitly enable them. However, the company linked this policy to internet search access, stating that schools choosing to block or restrict AI tools entirely will also lose student access to Google Search.</p><p>Because Google’s suite of education apps, Chromebook laptops, and search engine are deeply entrenched in American classrooms, the policy creates a significant dilemma for school districts. Administrators who wish to keep students within the Google ecosystem for web searches will be forced to adopt the company's integrated generative AI features.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26140"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.theregister.com%2F%3FimageId%3D259659%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>India's Ministry of Electronics and Information Technology has released a handbook on the Data Empowerment and Protection Architecture for AI Training framework. The initiative allows AI models to travel to decentralized data sources rather than requiring raw data to be transferred to model developers, utilizing hardware-based secure environments to maintain privacy and security.</p><p>The framework aims to unlock fragmented sectors like healthcare, financial services, and education for local artificial intelligence development while keeping data owners in control and preventing big tech dominance. It forms part of India's broader push for digital public infrastructure and aims to serve as a model for global science diplomacy and responsible AI governance.</p>
 <p>Nov 2 · <a href="https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872">theregister.com</a> | <a href="https://www.meity.gov.in/static/uploads/2026/10/02d8224e4cd6c8c29be5a5198e795158.pdf">meity.gov.in</a></p>
-<br clear="all" />
-
-<h2>OpenAI to Merge ChatGPT and Codex Usage Limits in December</h2>
-<a name="story-26100"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcellcog.ai%2Fblog%2Fmedia%2Fchatgpt-codex-shared-usage-limit%2Fslide-1.webp%3Fv%3Dc4dc01cb86&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Starting in December, OpenAI will combine usage allowances for ChatGPT and Codex into a single token-based pool for Plus, Pro, and Business plans. This transition coincides with the integration of Work's agentic capabilities directly into the main ChatGPT experience.</p><p>Usage will be measured in tokens, with consumption varying according to the chosen model and the complexity of the requested tasks, while instant chat will remain unmetered. Subscribers can monitor their combined balance and reset schedules within the app's settings, and they will have the option to wait for resets, upgrade plans, or purchase additional credits if limits are reached.</p>
-<p>Nov 1 · <a href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits">help.openai.com</a> | <a href="https://news.ycombinator.com/item?id=50320588">hacker news</a></p>
 <br clear="all" />
 
 ---
