@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-04T14:59:00+00:00</updated>
+  <updated>2026-11-04T15:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Qualcomm Signs Multiyear Agreement to Supply Equipment for SpaceX Mobile Network</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network::v240</id>
+    <published>2026-11-04T15:47:00+00:00</published>
+    <updated>2026-11-04T15:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftnsafety.com%2Fimages%2Fspacex-revolutionizes-mobile-connectivity-with-starlink-direct-to-cell-service.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network">bloomberg.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi">qualcomm.com</a></small></p><hr/><p>Qualcomm has signed a multiyear agreement with SpaceX to supply Dragonwing hardware and network software for Starlink Mobile's planned nationwide terrestrial 5G network in the United States. Under the deal, Qualcomm will provide base station components for tens of thousands of cell sites to support SpaceX's entry into consumer mobile services.</p><p>Equipment deployment is scheduled to begin in 2027, positioning SpaceX to compete more directly with major domestic wireless carriers such as AT&amp;T, Verizon, and T-Mobile. Financial terms of the agreement were not disclosed by either company.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftnsafety.com%2Fimages%2Fspacex-revolutionizes-mobile-connectivity-with-starlink-direct-to-cell-service.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 20:51 UTC | #26415</small>]]></content>
+  </entry>
   <entry>
     <title>Soatok Examines History of Cryptography Conspiracy Theories and NSA Standards</title>
     <link href="https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/" rel="alternate" />
