@@ -3,7 +3,7 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-04T06:26:00+00:00</updated>
+  <updated>2026-11-04T19:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
   <entry>
@@ -47,9 +47,9 @@
     <link href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html" rel="alternate" />
     <id>https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html::v240</id>
     <published>2026-11-03T23:08:00+00:00</published>
-    <updated>2026-11-03T23:08:00+00:00</updated>
+    <updated>2026-11-04T19:27:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results">ir.amd.com</a></small></p><hr/><p>AMD reported third-quarter revenue of $13.38 billion, a 45% increase from the previous year, exceeding analyst expectations of $13.09 billion. Adjusted earnings per share reached $2.09, surpassing the $1.95 consensus. Data center revenue nearly doubled, now accounting for 64% of the company's total revenue.</p><p>Growth in the data center unit was driven by demand for server CPUs used in agentic AI applications. Conversely, the gaming and PC segments faced headwinds, with combined revenue for those segments falling 8% year-over-year, including a 40% drop in gaming revenue. AMD projects fourth-quarter revenue to be approximately $17 billion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 04:35 UTC | #26346</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results">ir.amd.com</a> | <a href="https://news.ycombinator.com/item?id=50367125">hacker news</a></small></p><hr/><p>AMD reported third-quarter revenue of $13.38 billion, a 45% increase from the previous year, exceeding analyst expectations of $13.09 billion. Adjusted earnings per share reached $2.09, surpassing the $1.95 consensus. Data center revenue nearly doubled, now accounting for 64% of the company's total revenue.</p><p>Growth in the data center unit was driven by demand for server CPUs used in agentic AI applications. Conversely, the gaming and PC segments faced headwinds, with combined revenue for those segments falling 8% year-over-year, including a 40% drop in gaming revenue. AMD projects fourth-quarter revenue to be approximately $17 billion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 04:35 UTC | #26346</small>]]></content>
   </entry>
   <entry>
     <title>Ballistic Ventures Seeks $490M for New Cybersecurity Funds</title>
@@ -320,14 +320,5 @@
     <updated>2026-10-30T22:31:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FReddit-Total-Revenue_2026-01-06-033519_zojl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html">cnbc.com</a> | <a href="https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx">investor.redditinc.com</a></small></p><hr/><p>Reddit shares fell 29.22% on Friday, the company's largest single-day drop since its 2024 IPO, following a weak sales forecast. The company projected fourth-quarter sales between $1 billion and $1.03 billion, falling below the $1.05 billion anticipated by analysts.</p><p>CEO Steve Huffman attributed a decline in search-referral traffic to the rise of Google's AI Overviews. To combat these shifts in traffic and improve user monetization, Reddit announced plans to test a requirement for users to log in to access content.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-assets.stockstory.org%2Fchart-images%2FReddit-Total-Revenue_2026-01-06-033519_zojl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 03:37 UTC | #25986</small>]]></content>
-  </entry>
-  <entry>
-    <title>Big Tech Companies Return Smallest Share of Cash to Shareholders in 15 Years</title>
-    <link href="https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/" rel="alternate" />
-    <id>https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/::v240</id>
-    <published>2026-10-30T19:26:00+00:00</published>
-    <updated>2026-10-30T19:26:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/">reuters.com</a></small></p><hr/><p>Microsoft, Alphabet, Amazon, Meta, and Oracle distributed only 9.3% of their generated cash to shareholders in the first three quarters of 2026. This proportion is the lowest in 15 years, occurring even as these companies reached record cash generation levels.</p><p>The drop from 27.4% in 2025 is driven by heavy capital expenditures on artificial intelligence infrastructure. Although operating cash flow rose 29% to $542.9 billion, the intense AI spending cycle has significantly reduced the cash available for dividends and buybacks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 02:42 UTC | #25989</small>]]></content>
   </entry>
 </feed>

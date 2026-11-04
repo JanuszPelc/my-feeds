@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>AMD Third-Quarter Revenue Rises 45% Led by Data Center Growth</h2>
 <a name="story-26346"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AMD reported third-quarter revenue of $13.38 billion, a 45% increase from the previous year, exceeding analyst expectations of $13.09 billion. Adjusted earnings per share reached $2.09, surpassing the $1.95 consensus. Data center revenue nearly doubled, now accounting for 64% of the company's total revenue.</p><p>Growth in the data center unit was driven by demand for server CPUs used in agentic AI applications. Conversely, the gaming and PC segments faced headwinds, with combined revenue for those segments falling 8% year-over-year, including a 40% drop in gaming revenue. AMD projects fourth-quarter revenue to be approximately $17 billion.</p>
-<p>Nov 3 · <a href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results">ir.amd.com</a></p>
+<p>Nov 3 · <a href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results">ir.amd.com</a> | <a href="https://news.ycombinator.com/item?id=50367125">hacker news</a></p>
 <br clear="all" />
 
 <h2>Ballistic Ventures Seeks $490M for New Cybersecurity Funds</h2>
