@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Microsoft Enhances Windows 11 Performance for 8GB RAM Devices</h2>
+<a name="story-26320"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2023%2F02%2F8-windows-11-memory-compression-details.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Windows 11 updates in the 26H2 build are now targeting PCs with 8GB of RAM to improve speed, performance, and memory management. These optimizations are designed to maximize existing hardware efficiency and ensure core system tasks remain responsive during intensive multitasking.</p><p>The improvements utilize fine-tuned memory compression to keep up to 2GB more active data in RAM, reducing the need for disk swapping. Microsoft reports that these changes can increase multitasking speed by up to 40% and improve system interaction responsiveness by 20%. Additionally, memory usage has been reduced in Microsoft Edge, the Widgets app, and various Microsoft 365 applications.</p>
+<p>Nov 3 · <a href="https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/">zdnet.com</a> | <a href="https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/">blogs.windows.com</a></p>
+<br clear="all" />
+
 <h2>Compatibility Issues Discovered Between Ubuntu 26.04 Rust Sudo and Standard Sudo</h2>
 <a name="story-26326"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.turbogeek.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2Fubuntu-sudo-rs-differences-source-1024x711.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The default Rust-based sudo implementation introduced in Ubuntu 26.04 is incompatible with standard sudo configurations, specifically by failing to correctly handle wildcards in sudoers.d files. An administrator discovered that sudo-rs silently misinterprets wildcard rules, breaking existing passwordless access permissions for administrative commands like Exim.</p><p>The sudo-rs documentation indicates that command-line argument wildcards are intentionally unsupported, a design choice that contradicts long-standing administrative practices and creates migration hurdles. While administrators can switch back to the traditional implementation using package alternatives, removing sudo-rs entirely is prevented by package dependencies linked to ubuntu-minimal.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbertrandmeyer.com%2Fwp-content%2FupLoads%2Fitpl_cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hongwei Xi's online book, Introduction to Programming in ATS, serves as a comprehensive guide to the feature-rich ATS programming language. The text details core concepts such as basic functional programming, simple and recursively defined datatypes, polymorphic types, and advanced paradigms like dependent and linear types.</p><p>Aimed at experienced programmers, the book also delves into theorem-proving, programming with theorem-proving, and template-based programming. It bridges rigorous type theory with system-level performance, providing accompanying code resources for online typechecking and compilation.</p>
 <p>Nov 2 · <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">ats-lang.sourceforge.net</a> | <a href="https://lobste.rs/s/oqj2zo/introduction_programming_ats">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50356913">hacker news</a></p>
-<br clear="all" />
-
-<h2>Guide to Groff and Troff Macro Packages ms, mm, me, and mom</h2>
-<a name="story-26152"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhZx_W3GkcyqZxLwCPolqwkLWa3SklSheplJCKfJD5G1hqtgybuu2A9geYxId_2cDb5z5OzyESKBwUpRGIVppU1lrDrSSqfJLLa7W5TMKNXiS3fH40qKnW8x7FOBggA0MVHFBcJ%2Fw1200-h630-p-k-no-nu%2Fgroff-manpage-pdf.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>This guide outlines how to select the appropriate macro package for the Unix typesetting system troff and its GNU counterpart, groff. It compares four major macro packages—ms, mm, me, and mom—detailing their intended use cases, such as technical papers, structured books, and novels.</p><p>The article explains the distinction between plain text formatting, low-level groff requests, and high-level macro bundles designed to separate content from presentation. It also provides practical examples and a walkthrough of configuring a document using the ms macro package.</p>
-<p>Nov 2 · <a href="https://www.stephenlindholm.com/groff_macros.html">stephenlindholm.com</a> | <a href="https://lobste.rs/s/dbwbvr/groff_troff_macros_ms_mm_me_mom">lobsters</a></p>
 <br clear="all" />
 
 ---
