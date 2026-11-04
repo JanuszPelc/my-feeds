@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-04T02:54:00+00:00</updated>
+  <updated>2026-11-04T02:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>NYC Mayor Zohran Mamdani Discusses Artificial Intelligence and Data Centers in WIRED Interview</title>
+    <link href="https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/" rel="alternate" />
+    <id>https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/::v240</id>
+    <published>2026-11-04T02:55:00+00:00</published>
+    <updated>2026-11-04T02:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6ae90c349efc9a24a32255ed%2Fmaster%2Fw_2560%252Cc_limit%2FWEB_WIRED_Mamdani_HR-00808.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50353184">hacker news</a></small></p><hr/><p>In a WIRED interview, New York City Mayor Zohran Mamdani discussed his first ten months in office, his administration's unconventional use of social media for governance, and his stance on technology policies including data centers and artificial intelligence.</p><p>Reflecting on his transition from a viral campaign to municipal leadership, Mamdani addressed public outreach strategies, creator partnerships, and broader tech debates such as New York's data center moratorium and restrictions on generative AI in public schools.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6ae90c349efc9a24a32255ed%2Fmaster%2Fw_2560%252Cc_limit%2FWEB_WIRED_Mamdani_HR-00808.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 08:55 UTC | #26363</small>]]></content>
+  </entry>
   <entry>
     <title>Google Responds to Political Backlash Over School AI Policy</title>
     <link href="https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html" rel="alternate" />

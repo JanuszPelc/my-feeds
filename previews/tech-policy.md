@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>NYC Mayor Zohran Mamdani Discusses Artificial Intelligence and Data Centers in WIRED Interview</h2>
+<a name="story-26363"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6ae90c349efc9a24a32255ed%2Fmaster%2Fw_2560%252Cc_limit%2FWEB_WIRED_Mamdani_HR-00808.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In a WIRED interview, New York City Mayor Zohran Mamdani discussed his first ten months in office, his administration's unconventional use of social media for governance, and his stance on technology policies including data centers and artificial intelligence.</p><p>Reflecting on his transition from a viral campaign to municipal leadership, Mamdani addressed public outreach strategies, creator partnerships, and broader tech debates such as New York's data center moratorium and restrictions on generative AI in public schools.</p>
+<p>Nov 4 · <a href="https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50353184">hacker news</a></p>
+<br clear="all" />
+
 <h2>Google Responds to Political Backlash Over School AI Policy</h2>
 <a name="story-26362"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fai-tools-for-educators.jpg%3Fresize%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is addressing public and political criticism following reports that its new educational technology updates would restrict standard web search access for K-12 schools that reject artificial intelligence tools. Prominent lawmakers, including Sen. Bernie Sanders and New York Mayor Zohran Mamdani, condemned the move as coercive, accusing the company of leveraging its market dominance to force AI adoption in public classrooms.</p><p>In response to the backlash, Google clarified that features like the Gemini chatbot and AI search enhancements are disabled by default, leaving local school administrators in control of feature settings. Despite these assurances, company executives have acknowledged that traditional search and newer AI learning tools are deeply integrated, intensifying ongoing regulatory and legislative scrutiny regarding big tech influence in education.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26112"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21yowM%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6dfc464-4211-4aeb-b7d1-52a0d98413b2_600x477.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Candidates supporting data center moratoria are positioned to win up to 15 out of 36 U.S. governors' races, according to an analysis by The Information. The issue has risen from relative obscurity to a major priority for voters amid growing concerns over the rapid expansion of power-hungry digital infrastructure.</p><p>Races in key states including Texas, Ohio, Michigan, and New York feature candidates taking explicit stances on pausing or restricting data center development. The trend highlights how state-level political dynamics are increasingly shaped by debates over energy consumption, grid reliability, and the environmental impacts associated with artificial intelligence and cloud computing growth.</p>
 <p>Nov 1 · <a href="https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Michael Kratsios Shapes Emerging Technology and AI Policy Through OSTP</h2>
-<a name="story-26099"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.executivegov.com%2F2025%2F03%2F26%2F94%2Fa3%2Fe3%2F7b%2Fe9%2F92%2F18%2F54%2Funnamed-file-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Michael Kratsios directs the White House Office of Science and Technology Policy, wielding the historically minor agency to coordinate federal policy on artificial intelligence, space, and emerging technologies. Operating between the administration and Silicon Valley leadership, he has turned the office into a key engine room for presidential tech priorities.</p><p>Having entered government in 2017 after working for Peter Thiel, Kratsios systematically expanded the influence of OSTP across government R&amp;D agencies. His tenure highlights how the agency has evolved to manage the high-stakes intersection of government authority and major technology figures.</p>
-<p>Nov 1 · <a href="https://colossus.com/article/michael-kratsios-office-frontier-ostp/">colossus.com</a></p>
 <br clear="all" />
 
 ---
