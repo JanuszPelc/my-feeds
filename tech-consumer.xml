@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-03T19:57:00+00:00</updated>
+  <updated>2026-11-03T23:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Ubisoft and Other Companies Bid to Acquire Microsoft's Arkane Studios</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8&amp;leadSource=article-gifting" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8&amp;leadSource=article-gifting::v240</id>
+    <published>2026-11-03T23:07:00+00:00</published>
+    <updated>2026-11-03T23:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fthegeek.games%2Fwp-content%2Fuploads%2F2020%2F09%2Fthegeek-arkane-studios-games-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8&leadSource=article-gifting">bloomberg.com</a></small></p><hr/><p>Multiple companies, including Ubisoft, have submitted offers to Microsoft to acquire Arkane Studios. The French developer is being considered for divestment by Microsoft's gaming division.</p><p>The studio is currently developing the upcoming title *Marvel's Blade*. Microsoft is reportedly exploring several options regarding the studio's future.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fthegeek.games%2Fwp-content%2Fuploads%2F2020%2F09%2Fthegeek-arkane-studios-games-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 04:33 UTC | #26345</small>]]></content>
+  </entry>
   <entry>
     <title>Remedy Entertainment Reports Half of Control Resonant Players are New to Franchise</title>
     <link href="https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise" rel="alternate" />

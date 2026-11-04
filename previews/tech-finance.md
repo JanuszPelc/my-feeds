@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>AMD Third-Quarter Revenue Rises 45% Led by Data Center Growth</h2>
+<a name="story-26346"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AMD reported third-quarter revenue of $13.38 billion, a 45% increase from the previous year, exceeding analyst expectations of $13.09 billion. Adjusted earnings per share reached $2.09, surpassing the $1.95 consensus. Data center revenue nearly doubled, now accounting for 64% of the company's total revenue.</p><p>Growth in the data center unit was driven by demand for server CPUs used in agentic AI applications. Conversely, the gaming and PC segments faced headwinds, with combined revenue for those segments falling 8% year-over-year, including a 40% drop in gaming revenue. AMD projects fourth-quarter revenue to be approximately $17 billion.</p>
+<p>Nov 3 · <a href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results">ir.amd.com</a></p>
+<br clear="all" />
+
 <h2>Ballistic Ventures Seeks $490M for New Cybersecurity Funds</h2>
 <a name="story-26347"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F04%2FBallistic-Ventures-GP-team.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Regulatory filings show the firm is seeking $490 million for two new vehicles: a $360 million third flagship fund and a $130 million vehicle named Ballistic Ventures Fund B.</p><p>This capital raise occurs as AI-driven threats increase demand for advanced cybersecurity solutions. Co-founded by Ted Schlein and industry veterans, the firm has previously invested in companies such as Talon Cyber Security and Pangea.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26181"><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fomen-ai-aquatic-labs-16m-acquisition-coolant-sensor.16x9.jpg%3Fv%3Dog2-qu6zit&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Omen AI has acquired competitor Aquatic Labs in a $16 million cash-and-stock deal to expand its real-time fluid monitoring technology for AI data center cooling systems. The transaction combines Omen's element-sensing capabilities with Aquatic Labs' alkalinity testing to provide comprehensive, automated diagnostics for water and coolant loops.</p><p>Founded in 2024, Omen aims to help data center operators prevent equipment damage and reduce expensive fluid dumps by monitoring coolant health in real time. Aquatic Labs founder Allan Adams is joining Omen as chief science officer as the combined team works to integrate their technologies into a single sensor expected to launch by early next year.</p>
 <p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Bites Raises $40 Million Series A to Expand Frontline AI Training Platform</h2>
-<a name="story-26143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.calcalist.co.il%2Fpicserver3%2Fcrop_images%2F2026%2F10%2F29%2FH1CBoYxTMl%2FH1CBoYxTMl_0_0_3000_2000_0_x-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bites, an AI-powered training platform designed for deskless and frontline employees, has raised $40 million in a Series A funding round led by PeakSpan Capital, bringing its total funding to $55 million. The platform converts standard company operating procedures and documents into short, branded microlearning videos delivered through familiar channels such as WhatsApp, Microsoft Teams, and Slack.</p><p>The company plans to use the fresh capital to accelerate its expansion in the United States, grow its sales and customer success teams, and develop tools that link training metrics directly to business outcomes. Founded in 2020, Bites currently serves major global enterprises including Unilever, Coca-Cola, and Shake Shack, addressing a deskless workforce segment that accounts for an estimated 80% of the global workforce.</p>
-<p>Nov 2 · <a href="https://www.calcalistech.com/ctechnews/article/s1t5soetmx">calcalistech.com</a></p>
 <br clear="all" />
 
 ---
