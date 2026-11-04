@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Waymo to End Exclusive Uber Robotaxi Partnership in Austin and Atlanta</h2>
+<a name="story-26408"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Fgettyimages-2170063342.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D12.5%2C0%2C75%2C100%26w%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028, opting to transition rides to its own proprietary application. Alphabet Inc.'s Waymo Co-Chief Executive Officer Tekedra Mawakana stated that relying solely on the Uber app resulted in an inconsistent experience for customers.</p><p>The upcoming separation follows earlier adjustments to the companies' collaborations in other markets such as Phoenix. Although rides will remain accessible through Uber until the 2028 deadline, the decision underscores Waymo's strategy to secure direct customer relationships and greater service consistency as it scales its autonomous fleet operations.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Uber Reports Q3 Revenue of $14.8 Billion and Outlines Autonomous Fleet Expansion Plans</h2>
 <a name="story-26403"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F3%2F23%2F47586172-17742850301950045_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Uber reported its third-quarter financial results, showing a 10 percent year-over-year increase in revenue to $14.8 billion and a 20 percent rise in gross bookings to $59.8 billion. Total trips completed during the quarter reached 4 billion, representing a 16 percent increase compared to the same period last year.</p><p>Alongside the financial figures, the company outlined its plans to scale its autonomous vehicle fleet, aiming to deploy more than 2,000 robotaxis by 2027. Despite the expansion, Uber's autonomous fleet timeline remains behind competitor Waymo, as the ride-hailing company continues to integrate autonomous technology into its broader transportation network.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26331"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsquawknews.com%2Fog-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta Platforms Inc. is preparing a cross-border investment-grade bond offering that could raise at least $20 billion. This potential debt sale would mark the company's first major bond issuance in six months and includes a debut offering in euros.</p><p>The capital is intended to fund Meta's expanding artificial intelligence infrastructure. This follows the company's recent announcement of a planned $97.5 billion equity fundraising, reflecting a trend among major technology firms to use both debt and equity markets to finance AI-related growth.</p>
 <p>Nov 3 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Google DeepMind Staff Protest Non-Disparagement Clauses Barring AI Risk Warnings</h2>
-<a name="story-26324"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgsrv2.voi.id%2FolxprDPkfI3khp30J85O5tKTuG_76Bi4LaGnAOwTQ0Y%2Fauto%2F1200%2F675%2Fsm%2F1%2FbG9jYWw6Ly8vcHVibGlzaGVycy8zODcxMjEvMjAyNDA2MDQyMzIyLW1haW4uY3JvcHBlZF8xNzE3NTE4MTQwLmpwZWc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google DeepMind employees in the UK are urging leadership to remove non-disparagement clauses from employment contracts. These legal provisions prevent former staff members from publicly warning about the potential risks of artificial intelligence.</p><p>Current workers claim the clauses deter employees from communicating critical safety concerns to the public. The protest reflects broader industry debates regarding transparency and the ability of researchers to critique emerging technologies.</p>
-<p>Nov 3 · <a href="https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/">washingtonpost.com</a> | <a href="https://news.ycombinator.com/item?id=50355504">hacker news</a></p>
 <br clear="all" />
 
 ---
