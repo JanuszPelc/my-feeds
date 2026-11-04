@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Neil Kakkar Winning Essay Examines Software Engineering Productivity in the AI Era</title>
+    <link href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing" rel="alternate" />
+    <id>https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing::v240</id>
+    <published>2026-11-04T12:14:00+00:00</published>
+    <updated>2026-11-04T12:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21N8p2%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F094d1c3e-53a2-443d-bc87-5eecbd3e3b5e_1920x566.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing">newsletter.pragmaticengineer.com</a> | <a href="https://news.ycombinator.com/item?id=50356462">hacker news</a></small></p><hr/><p>Software engineer Neil Kakkar won The Pragmatic Engineer's essay challenge with an analysis comparing his productivity across pre-AI and AI-native workplaces. Using data from his time at Bloomberg, PostHog, and AI startup Tano, Kakkar details an elevenfold increase in merged pull requests driven by the adoption of autonomous coding agents like Claude Code.</p><p>The transition to AI-native workflows eliminated traditional constraints such as human code reviews and extensive cross-team communication, replacing them with automated continuous integration checks and solo end-to-end feature ownership. While velocity surged, new challenges arose, including increased context switching, managing agent token limits, and addressing subtle logic errors introduced by automated generation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21N8p2%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F094d1c3e-53a2-443d-bc87-5eecbd3e3b5e_1920x566.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 16:57 UTC | #26392</small>]]></content>
+  </entry>
+  <entry>
     <title>Linux on Nvidia RTX Spark Laptops: Performance and Driver Limitations Examined</title>
     <link href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop" rel="alternate" />
     <id>https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop::v240</id>

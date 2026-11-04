@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>ROLI Enters Administration</h2>
+<a name="story-26396"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F07%2FROLI-Seaboard-Block-M-commercial-hero-credit-Simon-Vinall%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Music technology company ROLI has entered administration for the second time, with insolvency practitioners from RSM UK appointed as joint administrators. The sudden collapse has left numerous customers with unfulfilled orders, unresponsive support, and offline web and community servers.</p><p>Founded in 2009 and renowned for pioneering MIDI Polyphonic Expression (MPE) alongside touch-sensitive instruments like the Seaboard and Airwave, ROLI previously survived administration in 2021 before restructuring. The company's latest failure has raised concerns among users that a lack of ongoing software and firmware support could eventually render their hardware devices unusable.</p>
+<p>Nov 4 · <a href="https://musictech.com/news/industry/roli-enters-administration/">musictech.com</a> | <a href="https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/">wired.com</a></p>
+<br clear="all" />
+
 <h2>DyVision Works Releases Reverb Remover 2 for Windows VST3</h2>
 <a name="story-26357"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdyvision-reverb-remover-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DyVision Works has released Reverb Remover 2, a VST3 plugin for Windows designed to remove room reverb from audio sources such as vocals, podcasts, and drums. The plugin features zero latency, supports both mono and stereo, and operates at sample rates from 44.1 to 96 kHz.</p><p>The software is available for $39 and does not require online activation or a dongle. Current owners of the original Reverb Remover are eligible for a 50% upgrade discount, and a free demo is available.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26319"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdonutstudio-090-glass-ring.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DonutsDelivery has released DonutStudio 0.9.0, a cross-platform music and video workstation designed for harmonic composition and microtonal tuning. The update introduces expanded Path Trace 3D rendering with GPU support, a Harmonic Guide for note editing, stem separation tools, and tempo detection capabilities.</p><p>Additional features in version 0.9.0 include per-note modulation routing, AI agent integration options such as Claude Desktop settings, and Lua tooling for track management. The software is available in free and Pro tiers as a standalone application, VST3 plugin, and CLAP plugin for Windows, macOS, and Linux.</p>
 <p>Nov 3 · <a href="https://www.kvraudio.com/news/donutsdelivery-releases-donutstudio-0-9-0-69592?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69592">kvraudio.com</a> | <a href="https://donutsdelivery.online/donutstudio">donutsdelivery.online</a></p>
-<br clear="all" />
-
-<h2>SMAOLAB Updates Akira-Filter Plugin to Version 2.0</h2>
-<a name="story-26275"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fakira-filter-version2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SMAOLAB has released version 2.0 of its Akira-Filter audio plugin, bringing a redesigned user interface, an integrated sound level meter, and a newly developed oversampling algorithm. The plugin supports VST3, AU, CLAP, and LV2 formats across Windows, macOS, and Linux.</p><p>The software is available in a fully functional free edition alongside a Pro tier priced at 12€. The Pro version introduces selectable filter slopes from LP6 to LP24 and a drift mode for subtle stereo artifacts, whereas the free version includes a single LP24 slope.</p>
-<p>Nov 3 · <a href="https://www.kvraudio.com/news/smaolab-updates-akira-filter-plugin-to-v2-0-69588?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69588">kvraudio.com</a> | <a href="https://smaolab.org/akira-filter">smaolab.org</a></p>
 <br clear="all" />
 
 ---
