@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>NetBSD 11.1 Released</h2>
 <a name="story-26380"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The NetBSD Project has released NetBSD 11.1, the first point release of the NetBSD 11 stable branch. This release focuses primarily on addressing security vulnerabilities and implementing bug fixes to improve system stability.</p><p>Key updates include OpenSSH 10.6, unbound 1.26.1, and security patches for brotli and libXfont2. The release also introduces enhanced support for sparc64 sensors and adds battery monitoring capabilities for Microsoft Surface Go 3 devices.</p>
-<p>Nov 3 · <a href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html">netbsd.org</a> | <a href="https://lobste.rs/s/siqsg7/announcing_netbsd_11_1">lobsters</a></p>
+<p>Nov 3 · <a href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html">netbsd.org</a> | <a href="https://lobste.rs/s/siqsg7/announcing_netbsd_11_1">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50363808">hacker news</a></p>
 <br clear="all" />
 
 <h2>HackerTV Provides 24/7 Broadcasts of Hacker News Recommended Videos</h2>
@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>David Bushell Examines Browser Removal of Native XSLT Support</h2>
 <a name="story-26316"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pcjs.org%2Fblog%2Fimages%2Fxslt-deprecation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer and designer David Bushell criticizes Google and other browser vendors for deprecating and removing native XSLT support, a change scheduled for late 2026 that will break existing XML workflows and his own project, xslt.rip.</p><p>Bushell argues that this decision violates the web standards community's long-standing social contract of backward compatibility. He also objects to Chromium-based browsers injecting warning banners onto XSLT-reliant pages, contending that vendors are improperly shifting the responsibility of broken web infrastructure onto site maintainers.</p>
-<p>Nov 3 · <a href="https://dbushell.com/2026/11/03/xslt-rip/">dbushell.com</a> | <a href="https://lobste.rs/s/chypzr/death_comes_for_xslt">lobsters</a></p>
+<p>Nov 3 · <a href="https://dbushell.com/2026/11/03/xslt-rip/">dbushell.com</a> | <a href="https://lobste.rs/s/chypzr/death_comes_for_xslt">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50355929">hacker news</a></p>
 <br clear="all" />
 
 <h2>An Introduction to Bε-trees and Write-Optimization</h2>

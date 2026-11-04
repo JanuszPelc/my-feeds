@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-04T11:55:00+00:00</updated>
+  <updated>2026-11-04T15:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -38,9 +38,9 @@
     <link href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html" rel="alternate" />
     <id>https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html::v240</id>
     <published>2026-11-03T23:54:00+00:00</published>
-    <updated>2026-11-03T23:54:00+00:00</updated>
+    <updated>2026-11-04T15:41:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html">netbsd.org</a> | <a href="https://lobste.rs/s/siqsg7/announcing_netbsd_11_1">lobsters</a></small></p><hr/><p>The NetBSD Project has released NetBSD 11.1, the first point release of the NetBSD 11 stable branch. This release focuses primarily on addressing security vulnerabilities and implementing bug fixes to improve system stability.</p><p>Key updates include OpenSSH 10.6, unbound 1.26.1, and security patches for brotli and libXfont2. The release also introduces enhanced support for sparc64 sensors and adds battery monitoring capabilities for Microsoft Surface Go 3 devices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 06:58 UTC | #26380</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html">netbsd.org</a> | <a href="https://lobste.rs/s/siqsg7/announcing_netbsd_11_1">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50363808">hacker news</a></small></p><hr/><p>The NetBSD Project has released NetBSD 11.1, the first point release of the NetBSD 11 stable branch. This release focuses primarily on addressing security vulnerabilities and implementing bug fixes to improve system stability.</p><p>Key updates include OpenSSH 10.6, unbound 1.26.1, and security patches for brotli and libXfont2. The release also introduces enhanced support for sparc64 sensors and adds battery monitoring capabilities for Microsoft Surface Go 3 devices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 06:58 UTC | #26380</small>]]></content>
   </entry>
   <entry>
     <title>HackerTV Provides 24/7 Broadcasts of Hacker News Recommended Videos</title>
@@ -101,9 +101,9 @@
     <link href="https://dbushell.com/2026/11/03/xslt-rip/" rel="alternate" />
     <id>https://dbushell.com/2026/11/03/xslt-rip/::v240</id>
     <published>2026-11-03T15:29:00+00:00</published>
-    <updated>2026-11-03T15:29:00+00:00</updated>
+    <updated>2026-11-04T15:41:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.pcjs.org%2Fblog%2Fimages%2Fxslt-deprecation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://dbushell.com/2026/11/03/xslt-rip/">dbushell.com</a> | <a href="https://lobste.rs/s/chypzr/death_comes_for_xslt">lobsters</a></small></p><hr/><p>Developer and designer David Bushell criticizes Google and other browser vendors for deprecating and removing native XSLT support, a change scheduled for late 2026 that will break existing XML workflows and his own project, xslt.rip.</p><p>Bushell argues that this decision violates the web standards community's long-standing social contract of backward compatibility. He also objects to Chromium-based browsers injecting warning banners onto XSLT-reliant pages, contending that vendors are improperly shifting the responsibility of broken web infrastructure onto site maintainers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pcjs.org%2Fblog%2Fimages%2Fxslt-deprecation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 18:28 UTC | #26316</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dbushell.com/2026/11/03/xslt-rip/">dbushell.com</a> | <a href="https://lobste.rs/s/chypzr/death_comes_for_xslt">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50355929">hacker news</a></small></p><hr/><p>Developer and designer David Bushell criticizes Google and other browser vendors for deprecating and removing native XSLT support, a change scheduled for late 2026 that will break existing XML workflows and his own project, xslt.rip.</p><p>Bushell argues that this decision violates the web standards community's long-standing social contract of backward compatibility. He also objects to Chromium-based browsers injecting warning banners onto XSLT-reliant pages, contending that vendors are improperly shifting the responsibility of broken web infrastructure onto site maintainers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pcjs.org%2Fblog%2Fimages%2Fxslt-deprecation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 18:28 UTC | #26316</small>]]></content>
   </entry>
   <entry>
     <title>An Introduction to Bε-trees and Write-Optimization</title>
