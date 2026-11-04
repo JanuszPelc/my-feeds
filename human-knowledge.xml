@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-03T22:45:00+00:00</updated>
+  <updated>2026-11-04T02:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Siwarha Companion Star Distorts Betelgeuse's Atmosphere</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261103003149.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261103003149.htm::v240</id>
+    <published>2026-11-04T02:53:00+00:00</published>
+    <updated>2026-11-04T02:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.hdnux.com%2Fphotos%2F01%2F53%2F65%2F74%2F28270340%2F11%2Fratio3x2_1920.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261103003149.htm">sciencedaily.com</a> | <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ae953d">iopscience.iop.org</a></small></p><hr/><p>Observations from the NSF VLA and ALMA indicate that the companion star Siwarha is physically traveling through the atmosphere of the red supergiant Betelgeuse. The data reveals periodic distortions in the shape of Betelgeuse's outer layers, with an oval appearance that correlates with the expected orbital position of the smaller star.</p><p>This interaction suggests Siwarha creates a wake as it passes through the gas, even though the companion star is too faint for direct radio detection. The study, led by Dr. Lynn D. Matthews, also confirms the presence of a "MOLsphere," a layer of molecular gas with temperatures significantly lower than the star's photosphere.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.hdnux.com%2Fphotos%2F01%2F53%2F65%2F74%2F28270340%2F11%2Fratio3x2_1920.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 07:58 UTC | #26370</small>]]></content>
+  </entry>
   <entry>
     <title>The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer Published on arXiv</title>
     <link href="https://arxiv.org/abs/2605.29713" rel="alternate" />
