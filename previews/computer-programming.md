@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Linux on Nvidia RTX Spark Laptops: Performance and Driver Limitations Examined</h2>
+<a name="story-26423"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2FNVIDIA-RTX-Spark-full-specs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dual-booting Linux on Nvidia RTX Spark laptops, such as the MSI Prestige N16 Flip AI Plus, is feasible using Nvidia's open kernel driver, but native installations suffer from a severe GPU clock speed restriction when plugged into wall power. While battery power allows near-normal performance, connecting to an AC outlet locks the GPU clock around 780 MHz instead of the normal 2 GHz, drastically reducing token generation speeds for large language models.</p><p>This performance bottleneck is caused by a lack of Linux support for the Nvidia Platform Controllers and Framework, a Windows-only firmware component that manages power distribution between the CPU and GPU via an encrypted power table. Until Nvidia ports this power management logic to its Linux driver, developers relying on Linux-first AI tooling can use the Windows Subsystem for Linux (WSL) as a practical workaround to maintain full GPU boost performance.</p>
+<p>Nov 4 · <a href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop">mindstudio.ai</a> | <a href="https://news.ycombinator.com/item?id=50362905">hacker news</a></p>
+<br clear="all" />
+
 <h2>Mr.doob Releases Codevember 2026 Fold Simulation</h2>
 <a name="story-26402"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjklintan.github.io%2Fimg%2Fprojects%2FclothDemo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mr.doob has released "Fold" as his first entry for Codevember 2026, featuring an interactive Three.js scene where a continuous sheet of translucent plastic pours down and folds onto a studio floor.</p><p>Users can interact with the simulation by dragging the cloth or pressing the spacebar to pause the movement, showcasing real-time physics and rendering performance.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26241"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.docker.com%2Fapp%2Fuploads%2F2026%2F02%2Fgordon-1110x711.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ahmad Elalfy argues that hardcoded, unconfigurable timeouts in tools like `npx skills` and Docker Gordon create significant barriers for developers working in environments with slower internet connections or hardware. These arbitrary limits can cause processes to fail during critical tasks, such as repository cloning or container builds, without offering users a way to extend the duration through configuration flags or environment variables.</p><p>These constraints often reflect the high-bandwidth infrastructure of the developers who build them, which can exclude a global user base operating on varying connectivity. While timeouts are necessary to prevent hanging processes, they should be implemented as safe, documented, and overridable defaults to ensure tools remain functional for developers worldwide.</p>
 <p>Nov 2 · <a href="https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html">alfy.blog</a> | <a href="https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts">lobsters</a></p>
-<br clear="all" />
-
-<h2>Google Search Adds Zelda Easter Egg Replicating 1998 Interface</h2>
-<a name="story-26220"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fzelda-google-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has introduced a *The Legend of Zelda: Ocarina of Time* Easter egg that transforms the search interface into its 1998 version. After searching for "Zelda," a Master Sword icon appears, allowing users to replace modern, AI-integrated search results with a minimalist, retro layout.</p><p>The feature serves as a tribute to the upcoming Nintendo Switch 2 remake of the title, launching on November 5. The Easter egg highlights the evolution of Google's core product, contrasting today's complex, ad-heavy interface with the minimalist design of the late 1990s.</p>
-<p>Nov 2 · <a href="https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/">arstechnica.com</a></p>
 <br clear="all" />
 
 ---

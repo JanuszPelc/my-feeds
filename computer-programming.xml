@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-04T07:02:00+00:00</updated>
+  <updated>2026-11-04T11:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Linux on Nvidia RTX Spark Laptops: Performance and Driver Limitations Examined</title>
+    <link href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop" rel="alternate" />
+    <id>https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop::v240</id>
+    <published>2026-11-04T11:55:00+00:00</published>
+    <updated>2026-11-04T11:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2FNVIDIA-RTX-Spark-full-specs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop">mindstudio.ai</a> | <a href="https://news.ycombinator.com/item?id=50362905">hacker news</a></small></p><hr/><p>Dual-booting Linux on Nvidia RTX Spark laptops, such as the MSI Prestige N16 Flip AI Plus, is feasible using Nvidia's open kernel driver, but native installations suffer from a severe GPU clock speed restriction when plugged into wall power. While battery power allows near-normal performance, connecting to an AC outlet locks the GPU clock around 780 MHz instead of the normal 2 GHz, drastically reducing token generation speeds for large language models.</p><p>This performance bottleneck is caused by a lack of Linux support for the Nvidia Platform Controllers and Framework, a Windows-only firmware component that manages power distribution between the CPU and GPU via an encrypted power table. Until Nvidia ports this power management logic to its Linux driver, developers relying on Linux-first AI tooling can use the Windows Subsystem for Linux (WSL) as a practical workaround to maintain full GPU boost performance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2FNVIDIA-RTX-Spark-full-specs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 15:11 UTC | #26423</small>]]></content>
+  </entry>
   <entry>
     <title>Mr.doob Releases Codevember 2026 Fold Simulation</title>
     <link href="https://mrdoob.github.io/codevember-2026/01/" rel="alternate" />
@@ -472,14 +481,5 @@
     <updated>2026-10-30T16:07:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpersistent.info%2Fimages%2Finfinite-mac-beos-desktop.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.persistent.info/2026/10/infinite-mac-beos.html">blog.persistent.info</a> | <a href="https://lobste.rs/s/fskctn/infinite_mac_beos">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50309029">hacker news</a></small></p><hr/><p>Infinite Mac now supports running multiple PowerPC versions of BeOS directly within web browsers, allowing users to experience the alternative operating system alongside classic Macintosh software. The integration provides instant booting via streamed disk images, pre-installed software libraries, and CD-ROM access through the Internet Archive.</p><p>Implementing BeOS compatibility required upstream fixes to the DingusPPC emulator to resolve hardware discrepancies, input emulation bugs, and display handling differences that previously tied the emulator closely to Mac OS quirks. Alongside BeOS support, the update introduces new quality-of-life features such as screen recording, screenshot capture, and expanded operating system CD-ROM collections hosted on dedicated infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpersistent.info%2Fimages%2Finfinite-mac-beos-desktop.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 21:10 UTC | #25980</small>]]></content>
-  </entry>
-  <entry>
-    <title>Shane Friedman Examines Npm Package Name Similarity Rules</title>
-    <link href="https://smoores.dev/post/no_npm_estee_is_not_a_typo/" rel="alternate" />
-    <id>https://smoores.dev/post/no_npm_estee_is_not_a_typo/::v240</id>
-    <published>2026-10-30T15:02:00+00:00</published>
-    <updated>2026-10-30T15:02:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fblog%2Fwp-content%2Fuploads%2F2026%2F05%2Fimage-172.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://smoores.dev/post/no_npm_estee_is_not_a_typo/">smoores.dev</a> | <a href="https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem">lobsters</a></small></p><hr/><p>Developer Shane Friedman details his experience attempting to publish an npm package named "estee" as a short nickname for an audiobook alignment tool, only to be blocked by the registry's automated similarity checks. The system flagged the name as too similar to existing packages like "testem" and "espree" based on a Levenshtein distance threshold.</p><p>The author analyzes the mathematical scaling issues of applying a flat Levenshtein distance threshold to short string lengths, which drastically restricts available namespaces and flags unrelated names such as "hoid." Although npm support confirmed that automated typosquatting blocks cannot be bypassed, the incident highlights the ongoing challenge of balancing security against malicious squatting with accommodating legitimate short package names.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fblog%2Fwp-content%2Fuploads%2F2026%2F05%2Fimage-172.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>30 Oct 2026, 21:07 UTC | #25979</small>]]></content>
   </entry>
 </feed>
