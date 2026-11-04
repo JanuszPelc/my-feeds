@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-04T03:56:00+00:00</updated>
+  <updated>2026-11-04T05:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Chinese AI Companies Expect Minimal Delivery on $70 Billion Nvidia Chip Orders</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered::v240</id>
+    <published>2026-11-04T05:56:00+00:00</published>
+    <updated>2026-11-04T05:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmineshop.eu%2Fstorage%2Fblog-images%2F1823%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered">bloomberg.com</a></small></p><hr/><p>Major Chinese artificial intelligence developers, including Alibaba, Tencent, and ByteDance, anticipate receiving only about one percent of the six million Nvidia RTX Pro 5500 chips they have ordered over the coming months. The orders, valued at roughly $70 billion, fall drastically short of what Nvidia can supply as the company struggles with manufacturing constraints.</p><p>Global production capacity for the RTX Pro 5500 is severely limited, with overall production through 2027 expected to fall well short of total demand from Chinese firms. This supply bottleneck highlights the ongoing pressures and high-stakes competition surrounding advanced artificial intelligence hardware access in China amid international trade restrictions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmineshop.eu%2Fstorage%2Fblog-images%2F1823%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 13:04 UTC | #26375</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Raises $15 Billion in US Dollar Bond Sale for AI Investments</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Chinese AI Companies Expect Minimal Delivery on $70 Billion Nvidia Chip Orders</h2>
+<a name="story-26375"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmineshop.eu%2Fstorage%2Fblog-images%2F1823%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Major Chinese artificial intelligence developers, including Alibaba, Tencent, and ByteDance, anticipate receiving only about one percent of the six million Nvidia RTX Pro 5500 chips they have ordered over the coming months. The orders, valued at roughly $70 billion, fall drastically short of what Nvidia can supply as the company struggles with manufacturing constraints.</p><p>Global production capacity for the RTX Pro 5500 is severely limited, with overall production through 2027 expected to fall well short of total demand from Chinese firms. This supply bottleneck highlights the ongoing pressures and high-stakes competition surrounding advanced artificial intelligence hardware access in China amid international trade restrictions.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Meta Raises $15 Billion in US Dollar Bond Sale for AI Investments</h2>
 <a name="story-26369"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheutterperspective.com%2Fwp-content%2Fuploads%2F2025%2F10%2F1761845534_1200x-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta Platforms has raised $15 billion through a multi-part US dollar bond sale, drawing heavy investor demand with orders reaching as much as $58 billion. The issuance represents the largest portion of a broader cross-border debt package exceeding $20 billion.</p><p>The capital raise supports the company's accelerating investments in artificial intelligence infrastructure, data centers, and computing capacity. The massive debt offering arrives as major technology firms increasingly turn to bond markets to finance expanding AI operations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihvAlsWWIWqM%2Fv0%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has appointed former U.S. Army Secretary Dan Driscoll as its first senior counselor for national security modernization. In this newly created role, Driscoll will advise company leadership on integrating artificial intelligence into national security and cybersecurity initiatives, as well as collaborating with allied governments.</p><p>Driscoll's appointment comes as artificial intelligence companies increasingly seek to expand their footprint within government contracting and defense policy. Prior to joining OpenAI, Driscoll served as the 26th Secretary of the Army and is an Iraq War veteran.</p>
 <p>Nov 3 · <a href="https://www.wsj.com/politics/national-security/openai-hires-former-army-secretary-dan-driscoll-to-cybersecurity-role-0e5cc0a1?st=cfNEPb&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://openai.com/index/dan-driscoll-joins-openai/">openai.com</a></p>
-<br clear="all" />
-
-<h2>Brookfield and Drax Group Plan £20 Billion AI Data Center in North Yorkshire</h2>
-<a name="story-26266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.domain-b.com%2FUploads%2FImages%2FDrax-Targets-Data-Centre-Launch-at-Former-Coal-Site-by-2027-to-Feed-AI-Power-Demand.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Energy company Drax Group has partnered with Brookfield and its neocloud platform Radiant to develop a multibillion-pound artificial intelligence data center at the Drax Power Station estate in North Yorkshire. The project aims to deliver up to 100 megawatts of capacity starting in early 2028, with plans to scale up to over 1 gigawatt over the following years.</p><p>Brookfield estimates that total investment for the initiative, including semiconductors, could exceed £20 billion, supported by an initial phase-one investment of £2.5 billion. While the venture aims to provide British researchers and enterprises with domestic compute capacity, the initial phase remains subject to planning, regulatory, and grid connection approvals, as well as securing commercial tenants.</p>
-<p>Nov 3 · <a href="https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html">cnbc.com</a> | <a href="https://www.drax.com/news/drax-brookfield-and-radiant-announce-20bn-partnership-to-deliver-gw-scale-data-centre-capacity-at-drax-power-station/">drax.com</a></p>
 <br clear="all" />
 
 ---

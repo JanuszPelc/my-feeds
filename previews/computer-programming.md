@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Mr.doob Releases Codevember 2026 Fold Simulation</h2>
+<a name="story-26402"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjklintan.github.io%2Fimg%2Fprojects%2FclothDemo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mr.doob has released "Fold" as his first entry for Codevember 2026, featuring an interactive Three.js scene where a continuous sheet of translucent plastic pours down and folds onto a studio floor.</p><p>Users can interact with the simulation by dragging the cloth or pressing the spacebar to pause the movement, showcasing real-time physics and rendering performance.</p>
+<p>Nov 4 · <a href="https://mrdoob.github.io/codevember-2026/01/">mrdoob.github.io</a> | <a href="https://news.ycombinator.com/item?id=50361268">hacker news</a></p>
+<br clear="all" />
+
 <h2>PostgreSQL Expert Hironobu Suzuki Seeks International Engineering Roles</h2>
 <a name="story-26385"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.interdb.jp%2Fpg%2Fpgsql08%2Ffig-8-16.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hironobu Suzuki, author of the widely referenced technical documentation "The Internals of PostgreSQL," has announced that he is fully recovered from a health-related stay in Japan and is open to new international career opportunities. He is currently seeking challenging database engineering tasks, roles offering visa sponsorship, or remote positions that support a digital nomad lifestyle.</p><p>Suzuki brings extensive experience as a software engineer, technical director, and former director of the Japan PostgreSQL Users Group. His comprehensive online reference work details core database subsystems ranging from buffer management and query processing to replication across multiple PostgreSQL versions.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26220"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fzelda-google-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced a *The Legend of Zelda: Ocarina of Time* Easter egg that transforms the search interface into its 1998 version. After searching for "Zelda," a Master Sword icon appears, allowing users to replace modern, AI-integrated search results with a minimalist, retro layout.</p><p>The feature serves as a tribute to the upcoming Nintendo Switch 2 remake of the title, launching on November 5. The Easter egg highlights the evolution of Google's core product, contrasting today's complex, ad-heavy interface with the minimalist design of the late 1990s.</p>
 <p>Nov 2 · <a href="https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/">arstechnica.com</a></p>
-<br clear="all" />
-
-<h2>Syscall.sh Updates Linux System Call Reference and API</h2>
-<a name="story-26229"><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F49369866%2Fmini_magick20190131-10758-quntc3.png%3F1548988550&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>syscall.sh provides a comprehensive, architecture-by-architecture reference for Linux system calls spanning 27 different architectures from Linux kernel version 3.3 to 7.3. The platform maps out system call numbers, required registers, and calling conventions alongside historical metadata indicating when individual calls were added or removed.</p><p>Data is generated directly from mainline kernel source code by parsing SYSCALL_DEFINE macros to ensure accuracy. Users can access the information through individual architecture pages, version selectors, JSON downloads, or via an accompanying API for integration into external tools.</p>
-<p>Nov 2 · <a href="https://syscall.sh/">syscall.sh</a> | <a href="https://news.ycombinator.com/item?id=50334704">hacker news</a></p>
 <br clear="all" />
 
 ---
