@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>US Export Restrictions Complicate SK Hynix&#x27;s New York Chipmaking Plans</h2>
+<a name="story-26339"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwimg.heraldcorp.com%2Fcontent%2Fdefault%2F2022%2F10%2F09%2F20221009000111_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>US officials have withheld approval for American chipmaking equipment required by SK Hynix to expand production in China. This regulatory delay complicates the South Korean chipmaker's plans to establish new memory-chip manufacturing plants in New York.</p><p>The impasse reflects the impact of US export controls on semiconductor manufacturers navigating international markets. The outcome of these equipment approvals is a critical factor for SK Hynix's ability to execute its planned manufacturing expansion in the United States.</p>
+<p>Nov 3 · <a href="https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>US Tech Giants&#x27; AI-Related Off-Balance-Sheet Debt Reaches $3.2 Trillion</h2>
 <a name="story-26365"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F9%252F1%252F3%252F4%252F13394319-2-eng-GB%252Faad3b104a912-photo_SXM2026103100004660.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Off-balance-sheet debt from artificial intelligence-related obligations for major U.S. technology companies has grown to approximately $3.2 trillion, marking a 90% increase over the last six months. These liabilities, which include long-term commitments for AI-related infrastructure, are not reported directly on corporate balance sheets.</p><p>The rapid expansion of these hidden obligations has raised investor concerns regarding the sustainability of the massive capital expenditures driving the AI boom. This growth is largely driven by the need for long-term data center and power contracts required to support artificial intelligence development.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26237"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FtYFZzJIi59kHfbmIp4yjAa5g.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Trajectory has raised $45 million in a Series A funding round at a $300 million valuation. Led by Sequoia, the round includes participation from Nvidia, Bessemer Venture Partners, and Bain Capital Ventures. The company's platform enables "continual learning," allowing AI models to improve through real-world application and user feedback.</p><p>Founded by former Google DeepMind and Apple researchers, Trajectory aims to make model training accessible to non-technical experts in specialized fields like law and finance. By integrating the platform into existing applications, specialists can use their domain expertise to automate model refinements. Current customers include Harvey, Rogo, Decagon, and Nvidia.</p>
 <p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>SUSE to Cut 10% of Global Workforce Due to AI and Automation</h2>
-<a name="story-26215"><img src="https://wsrv.nl/?url=https%3A%2F%2Fekamiasacademy.in%2Fwp-content%2Fuploads%2F2025%2F11%2FAI-DRIVEN-CORPORATE-LAYOFFS-WORKFORCE-RESTRUCTURING-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SUSE is cutting approximately 10% of its global workforce, citing the impact of automation and artificial intelligence on software operations. CEO Dirk-Peter van Leeuwen stated in an internal memo that the decision is necessary to adapt the company's organizational design and cost base to an environment where AI is shifting standard workflows.</p><p>The company's 1,900 employees will be informed of redundancies by November 4, with individual meetings beginning next week. This restructuring follows a period of voluntary separation discussions and occurs as SUSE, owned by EQT, refines its long-term strategy.</p>
-<p>Nov 2 · <a href="https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950">theregister.com</a> | <a href="https://news.ycombinator.com/item?id=50339628">hacker news</a></p>
 <br clear="all" />
 
 ---

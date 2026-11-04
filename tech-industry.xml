@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-03T21:45:00+00:00</updated>
+  <updated>2026-11-03T22:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>US Export Restrictions Complicate SK Hynix's New York Chipmaking Plans</title>
+    <link href="https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/::v240</id>
+    <published>2026-11-03T22:21:00+00:00</published>
+    <updated>2026-11-03T22:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwimg.heraldcorp.com%2Fcontent%2Fdefault%2F2022%2F10%2F09%2F20221009000111_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/">reuters.com</a></small></p><hr/><p>US officials have withheld approval for American chipmaking equipment required by SK Hynix to expand production in China. This regulatory delay complicates the South Korean chipmaker's plans to establish new memory-chip manufacturing plants in New York.</p><p>The impasse reflects the impact of US export controls on semiconductor manufacturers navigating international markets. The outcome of these equipment approvals is a critical factor for SK Hynix's ability to execute its planned manufacturing expansion in the United States.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwimg.heraldcorp.com%2Fcontent%2Fdefault%2F2022%2F10%2F09%2F20221009000111_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 03:47 UTC | #26339</small>]]></content>
+  </entry>
   <entry>
     <title>US Tech Giants' AI-Related Off-Balance-Sheet Debt Reaches $3.2 Trillion</title>
     <link href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months" rel="alternate" />
