@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>HP Inc. Appoints Emma Walmsley as Chief Executive Officer</h2>
+<a name="story-26401"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F1074405270%2Fphoto%2Femma-walmsley-chief-executive-officer-of-glaxosmithkline-plc-poses-for-a-photograph-following.jpg%3Fs%3D612x612%26w%3Dgi%26k%3D20%26c%3DTyrWskeB2zSSs8OFfsw11y3ujkjfWmf9d0If2K4ynag%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HP Inc. has appointed former GSK chief executive Emma Walmsley as its new chief executive officer, effective January 4, 2027. She permanently fills the role following the departure of Enrique Lores earlier in the year and the subsequent tenure of interim leadership.</p><p>Walmsley brings extensive executive experience from her time leading GSK and her service on Microsoft's board of directors. Her appointment comes as the PC maker navigates market challenges, including memory-chip shortages and rising hardware prices.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search">bloomberg.com</a> | <a href="https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Appoints-Emma-Walmsley-as-Chief-Executive-Officer/default.aspx">investor.hp.com</a></p>
+<br clear="all" />
+
 <h2>SemiAnalysis Reports SpaceX Targets 13GW of AI Datacenter Capacity by 2027</h2>
 <a name="story-26386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2025%2F12%2Farticle-3952-1765793333.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SemiAnalysis reports that SpaceX is targeting approximately 13 gigawatts of AI datacenter capacity by the end of 2027, with 3.6 gigawatts already under construction across multiple sites. This infrastructure expansion aims to build capacity at a pace outpacing historical deployments by major technology firms.</p><p>The rapid deployment strategy relies on behind-the-meter power solutions, large-scale battery energy storage systems, and the repurposing of existing facilities such as Texas rocket campuses. Analysts indicate that these integrated power and construction methods position SpaceX to operate a major commercial AI cloud infrastructure.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjam7.com%2Fhs-fs%2Fhubfs%2Fchatgpt-and-challenger-search-engines-bing-duckduckgo.png%3Fwidth%3D1200%26height%3D742%26name%3Dchatgpt-and-challenger-search-engines-bing-duckduckgo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI consumer product lead Adam Fry announced that ChatGPT has reached 1.2 billion weekly active users, adding 200 million users over a two-month period. Fry also stated that the platform's search-like query volume has risen to approximately 20 percent of Google's volume.</p><p>During a discussion in New York, Fry revealed plans to merge ChatGPT's separate Chat and Work modes into a single unified interface. He noted that the platform's voice input feature has grown to 250 million weekly active users, while image generation has reached 1.5 billion creations per week.</p>
 <p>Nov 3 · <a href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20">bigtechnology.com</a></p>
-<br clear="all" />
-
-<h2>Neufangled Robotics Launches Stringman Room-Scale Cable Robot</h2>
-<a name="story-26351"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fnf-site-assets-prod-b%2Fassets%2Fexploded.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Neufangled Robotics has introduced Stringman, an open-source, ceiling-mounted cable-driven parallel robot designed for room-scale manipulation. Priced at $795, the system suspends a two-fingered gripper from four corner-anchored lines, using combined motor torque to achieve a higher payload capacity and broader workspace than traditional desktop robotic arms.</p><p>The OSHWA-certified hardware features published CAD files, PCBs, and control software compatible with frameworks like LeRobot, allowing users to operate it locally or integrate it with machine learning agents. Designed for home labs and classrooms, Stringman includes active swing cancellation, local network operation, and visual tagging capabilities to move items across entire rooms without occupying floor space.</p>
-<p>Nov 3 · <a href="https://neufangled.com/">neufangled.com</a> | <a href="https://news.ycombinator.com/item?id=50354358">hacker news</a></p>
 <br clear="all" />
 
 ---
