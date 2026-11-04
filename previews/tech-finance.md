@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Ballistic Ventures Seeks $490M for New Cybersecurity Funds</h2>
+<a name="story-26347"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F04%2FBallistic-Ventures-GP-team.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Regulatory filings show the firm is seeking $490 million for two new vehicles: a $360 million third flagship fund and a $130 million vehicle named Ballistic Ventures Fund B.</p><p>This capital raise occurs as AI-driven threats increase demand for advanced cybersecurity solutions. Co-founded by Ted Schlein and industry veterans, the firm has previously invested in companies such as Talon Cyber Security and Pangea.</p>
+<p>Nov 3 · <a href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/">techcrunch.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2161387/000216138726000001/xslFormDX01/primary_doc.xml">sec.gov</a></p>
+<br clear="all" />
+
 <h2>Fal Raises $1.3B at $16B Valuation</h2>
 <a name="story-26333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2024%2F05%2FCA-based-Scale-AI-Secures-1-Billion-in-Series-F-Round-Funding.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>San Francisco-based AI inference startup Fal has secured $1.3 billion in a Series F funding round led by Bessemer Venture Partners. With participation from Nvidia, Sound Ventures, and T. Rowe Price, the investment doubles the company's valuation to $16 billion from its $8 billion valuation in April.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.calcalist.co.il%2Fpicserver3%2Fcrop_images%2F2026%2F10%2F29%2FH1CBoYxTMl%2FH1CBoYxTMl_0_0_3000_2000_0_x-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bites, an AI-powered training platform designed for deskless and frontline employees, has raised $40 million in a Series A funding round led by PeakSpan Capital, bringing its total funding to $55 million. The platform converts standard company operating procedures and documents into short, branded microlearning videos delivered through familiar channels such as WhatsApp, Microsoft Teams, and Slack.</p><p>The company plans to use the fresh capital to accelerate its expansion in the United States, grow its sales and customer success teams, and develop tools that link training metrics directly to business outcomes. Founded in 2020, Bites currently serves major global enterprises including Unilever, Coca-Cola, and Shake Shack, addressing a deskless workforce segment that accounts for an estimated 80% of the global workforce.</p>
 <p>Nov 2 · <a href="https://www.calcalistech.com/ctechnews/article/s1t5soetmx">calcalistech.com</a></p>
-<br clear="all" />
-
-<h2>Casap Raises $56 Million in Series B Funding for Financial AI Platform</h2>
-<a name="story-26138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2024%2F09%2FFunding-News-Tetrix-Secures-5-Mn-Seed-Funding.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Financial AI startup Casap has raised $56 million in a Series B funding round led by Base10 Partners, bringing its total funding to $90 million since its 2023 launch. The round included strategic investments from Synchrony and Experian, alongside continued support from existing backers like Lightspeed Venture Partners and Emergence.</p><p>The company develops automated tools designed to help banks and card issuers handle customer disputes, chargebacks, and first-party fraud, where cardholders falsely dispute legitimate transactions. According to Casap, its platform helps financial institutions reduce first-party fraud losses and accelerate the dispute resolution process using specialized AI workflows.</p>
-<p>Nov 2 · <a href="https://fortune.com/2026/10/28/dd/">fortune.com</a> | <a href="https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html">prnewswire.com</a></p>
 <br clear="all" />
 
 ---

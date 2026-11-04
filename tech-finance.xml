@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-03T19:35:00+00:00</updated>
+  <updated>2026-11-03T21:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Ballistic Ventures Seeks $490M for New Cybersecurity Funds</title>
+    <link href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/::v240</id>
+    <published>2026-11-03T21:48:00+00:00</published>
+    <updated>2026-11-03T21:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F04%2FBallistic-Ventures-GP-team.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/">techcrunch.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2161387/000216138726000001/xslFormDX01/primary_doc.xml">sec.gov</a></small></p><hr/><p>Regulatory filings show the firm is seeking $490 million for two new vehicles: a $360 million third flagship fund and a $130 million vehicle named Ballistic Ventures Fund B.</p><p>This capital raise occurs as AI-driven threats increase demand for advanced cybersecurity solutions. Co-founded by Ted Schlein and industry veterans, the firm has previously invested in companies such as Talon Cyber Security and Pangea.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F04%2FBallistic-Ventures-GP-team.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 02:49 UTC | #26347</small>]]></content>
+  </entry>
   <entry>
     <title>Fal Raises $1.3B at $16B Valuation</title>
     <link href="https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/" rel="alternate" />

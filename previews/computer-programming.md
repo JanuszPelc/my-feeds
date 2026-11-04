@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Kitty Terminal Emulator Releases Version 0.50.0</h2>
+<a name="story-26366"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kitty version 0.50.0 introduces window docking to edges, session restoration after logout, and Wayland improvements including native decorations and touchscreen support. New custom shaders allow for particle effects controlled by key presses, and the terminal now supports the Program Status Protocol.</p><p>Updates include tab-based workspace functionality, automatic system-wide color theme switching, and improved layout border alignment. Performance optimizations were added for the GPU sprite cache and general rendering.</p>
+<p>Nov 3 · <a href="https://sw.kovidgoyal.net/kitty/changelog/#id1">sw.kovidgoyal.net</a> | <a href="https://lobste.rs/s/gwyv50/kitty_0_50_0">lobsters</a></p>
+<br clear="all" />
+
 <h2>Safari Introduces Adaptive Dark Mode in 27.3 Beta</h2>
 <a name="story-26361"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnighteye.app%2Fwp-content%2Fuploads%2F2019%2F03%2FSafariArrivedWithSafari-768x288.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Safari 27.3 beta introduces Adaptive Dark Mode, which automatically transforms light-themed websites into dark versions when enabled by the user. The feature uses a color matrix to invert luminosity while preserving hue and aims to maintain a WCAG 4.5:1 contrast ratio for text.</p><p>To protect user privacy, Safari prevents websites from detecting if the mode is active, ensuring JavaScript queries return original authored colors. The feature does not alter sites with explicit `color-scheme` declarations and allows developers to opt-out using the `light only` setting.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26180"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.itmedia.co.jp%2Ftt%2Fnews%2F2409%2F18%2Fso4430_tt_240904_03_img01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sawyer X delivers an introductory presentation on the Zig programming language, comparing its syntax and engineering philosophy to other established languages. Designed for developers with varying levels of experience, the talk examines Zig's core design principles, emphasizing explicit control flow, visible memory allocation, and the absence of hidden abstractions like operator overloading or exceptions.</p><p>The presentation features practical code examples, such as parsing configuration strings and managing resources, to illustrate how Zig addresses common systems programming challenges. Hosted by the Code Maven community, the session aims to help programmers transition smoothly into writing predictable and maintainable low-level software.</p>
 <p>Nov 2 · <a href="https://www.youtube.com/watch?v=jWCQXBVIyrY">youtube.com</a> | <a href="https://zig.code-maven.com/zig-from-beginner-to-slightly-less-beginner">zig.code-maven.com</a> | <a href="https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner">lobsters</a></p>
-<br clear="all" />
-
-<h2>Ouros Haskell Processor Implemented on FPGA</h2>
-<a name="story-26179"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbathtub-01.github.io%2Ftechnical%2Fouros-demo%2Fdemo.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researcher Yukang Xie has demonstrated Ouros, a dataflow-driven graph reduction processor designed for lazy functional languages like Haskell, running natively on an FPGA board. The hardware architecture executes compiled combinator graphs directly, providing built-in support for automatic fine-grained multi-threading and concurrent garbage collection without a software runtime or kernel trap.</p><p>The system incorporates a simplified AXI4-Lite IO interface and UART polling, allowing standalone Haskell programs to perform register-level input and output operations. Synthesized on an AUP-ZU3 FPGA, the processor operates at 100 MHz while utilizing roughly 27% of logic utilization and 40% of block RAM, proving that direct hardware execution of functional languages is viable within a modest circuit budget.</p>
-<p>Nov 2 · <a href="https://bathtub-01.github.io/technical/ouros-demo/">bathtub-01.github.io</a> | <a href="https://lobste.rs/s/8o9wus/specialised_haskell_processor_on_fpga">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50319896">hacker news</a></p>
 <br clear="all" />
 
 ---
