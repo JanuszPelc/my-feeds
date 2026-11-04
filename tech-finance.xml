@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-03T23:09:00+00:00</updated>
+  <updated>2026-11-03T23:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Block Raises Full-Year Profit Outlook on Strong Q3 Earnings</title>
+    <link href="https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/" rel="alternate" />
+    <id>https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/::v240</id>
+    <published>2026-11-03T23:48:00+00:00</published>
+    <updated>2026-11-03T23:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FXYZ-RESULTS%2Fgdvzaeewkpw%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/">reuters.com</a> | <a href="https://s27.q4cdn.com/984876518/files/content_files/Q3-2026-Earnings-Shareholder-Letter.pdf">s27.q4cdn.com</a></small></p><hr/><p>Block reported third-quarter revenue of $6.7 billion, a 10% year-over-year increase that exceeded market expectations. The company raised its full-year gross profit outlook, supported by a 27% increase in Cash App's gross profit to $2.07 billion.</p><p>Performance in the Cash App unit and steady consumer spending fueled the results. Block shares rose more than 5% in after-hours trading following the announcement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FXYZ-RESULTS%2Fgdvzaeewkpw%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 05:57 UTC | #26354</small>]]></content>
+  </entry>
   <entry>
     <title>Super Micro Computer Reports $19.95 Billion in Q1 Revenue and Higher Q2 Forecast</title>
     <link href="https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03/" rel="alternate" />

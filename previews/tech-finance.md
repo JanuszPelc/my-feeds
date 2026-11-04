@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Block Raises Full-Year Profit Outlook on Strong Q3 Earnings</h2>
+<a name="story-26354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FXYZ-RESULTS%2Fgdvzaeewkpw%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Block reported third-quarter revenue of $6.7 billion, a 10% year-over-year increase that exceeded market expectations. The company raised its full-year gross profit outlook, supported by a 27% increase in Cash App's gross profit to $2.07 billion.</p><p>Performance in the Cash App unit and steady consumer spending fueled the results. Block shares rose more than 5% in after-hours trading following the announcement.</p>
+<p>Nov 3 · <a href="https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/">reuters.com</a> | <a href="https://s27.q4cdn.com/984876518/files/content_files/Q3-2026-Earnings-Shareholder-Letter.pdf">s27.q4cdn.com</a></p>
+<br clear="all" />
+
 <h2>Super Micro Computer Reports $19.95 Billion in Q1 Revenue and Higher Q2 Forecast</h2>
 <a name="story-26349"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSUPERMICRO-RESULTS%2Flbpgbkodyvq%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Super Micro Computer reported first-quarter revenue of $19.95 billion, exceeding Wall Street estimates of $16.39 billion and representing a 298% year-over-year increase. The company also forecasted second-quarter revenue to arrive above analyst estimates due to high demand for AI-optimized servers.</p><p>Following the earnings report, shares of the company rose by more than 7% in after-hours trading. The results underscore the company's significant growth alongside the expanding artificial intelligence hardware market.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26236"><img src="https://wsrv.nl/?url=https%3A%2F%2Felectrek.co%2Fwp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FBYD-EV-sales-October-record.jpeg%3Fquality%3D82%26strip%3Dall%26w%3D1400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>BYD sold 305,743 battery electric vehicles in October 2026, marking a 37% year-over-year increase and the first time the company's monthly EV sales crossed the 300,000 threshold. Total new energy vehicle sales, including plug-in hybrids, reached 490,168 units, representing an 11% rise from the previous year.</p><p>The company's monthly EV sales figure exceeded total US electric vehicle sales for the entire third quarter of 2026, which estimates place at approximately 262,500 units. BYD exported 170,194 vehicles during October as part of its ongoing international expansion across Europe, Southeast Asia, and the Americas, pushing total year-to-date exports past 1.5 million.</p>
 <p>Nov 2 · <a href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/">electrek.co</a> | <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1101/2026110100043.pdf">www1.hkexnews.hk</a> | <a href="https://news.ycombinator.com/item?id=50344181">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Reports Nearly $17 Billion in Q3 Revenue Ahead of IPO</h2>
-<a name="story-26192"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopt-image.teamblind.com%2Fuploads%2Fatch_img%2F499%2Fc58085512685b691d8528a46d9aef15f_res.jpeg%3Fwidth%3D1200%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic PBC reported third-quarter revenue of nearly $17 billion as of September 30, marking a twelve-fold increase compared to the same period a year prior. In an amended S-1 filing with the U.S. Securities and Exchange Commission, the artificial intelligence company also disclosed a net loss of $23.3 billion alongside operating expenses surging 292% to $17.5 billion.</p><p>The financial disclosures arrive as the company prepares for a heavily anticipated initial public offering. While top-line revenue has accelerated dramatically, the figures underscore the immense capital outlays and computing commitments required to scale operations and compete in the generative artificial intelligence market.</p>
-<p>Nov 2 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50337439">hacker news</a></p>
 <br clear="all" />
 
 ---
