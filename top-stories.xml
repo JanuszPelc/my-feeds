@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-04T17:27:00+00:00</updated>
+  <updated>2026-11-04T18:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Data Centers Emerge as Midterm Election Issue in Brooklyn and Nationwide</title>
+    <link href="https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/::v240</id>
+    <published>2026-11-04T18:11:00+00:00</published>
+    <updated>2026-11-04T18:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59607602%3Fwidth%3D640%26height%3D427&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50364943">hacker news</a></small></p><hr/><p>At a recent midterm election event in Brooklyn hosted by the media company Newsreel, discussions repeatedly centered on artificial intelligence and the rapid expansion of data centers. Speakers and attendees highlighted how local community opposition, environmental concerns, and economic anxieties surrounding these facilities have transformed them into a major ballot-box issue ahead of the November 3 elections.</p><p>Recent reports indicate that billions of dollars in data center projects have faced delays, stalls, or blocks due to political pushback across multiple states. Observers note that these massive facilities have become physical symbols of broader public frustration with the tech industry, touching on tensions over corporate accountability, a lack of local consent, and the distribution of economic benefits.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59607602%3Fwidth%3D640%26height%3D427&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 20:19 UTC | #26218 | d,hr</small>]]></content>
+  </entry>
   <entry>
     <title>An Introduction to Bε-trees and Write-Optimization</title>
     <link href="https://www.usenix.org/publications/login/oct15/bender" rel="alternate" />
