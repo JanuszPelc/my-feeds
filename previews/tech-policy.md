@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Legal Shifts in Texas and Delaware Fortify SpaceX-Tesla Merger and Meta Share Plans Against Lawsuits</h2>
+<a name="story-26391"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHK_F4x5bUAAhfps.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Recent legal shifts in Texas and Delaware have strengthened corporate defenses against shareholder litigation, positioning Elon Musk's proposed SpaceX-Tesla merger and Meta's new non-voting share plan to better fend off legal challenges. Diminishing shareholder rights in these key jurisdictions provide a more protective legal environment for corporate restructuring and governance changes.</p><p>These developments reflect a broader decade-long effort by high-profile executives to shield large technology and aerospace ventures from external shareholder interference and litigation. As corporate venues adapt to these shifts, the changes significantly alter the balance of power between controlling founders and minority investors.</p>
+<p>Nov 4 · <a href="https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364">ft.com</a></p>
+<br clear="all" />
+
 <h2>James Talarico Defeats Ken Paxton in Texas Senate Race</h2>
 <a name="story-26393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fslaynews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fjames-talarico-ken-paxton-texas-senate-race.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Democrat James Talarico has defeated Republican Ken Paxton in Texas, securing the state's first Democratic Senate seat in more than thirty years. The high-profile race drew intense national attention and massive financial contributions, most notably from billionaire Elon Musk.</p><p>Musk invested $47 million to support Paxton's campaign while frequently attacking Talarico and amplifying conspiracy theories against him. The historic win represents a significant political realignment in a state that has long functioned as a reliable Republican stronghold.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26262"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FrMEtrL4LyKa5zyZtuiwKpP.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia has reportedly instructed its cloud computing and data center clients to ensure that at least 51 per cent of their services are allocated to non-Chinese companies. The verbal directive represents a new restriction aimed at curbing exposure to the Chinese market for AI infrastructure.</p><p>The measure comes as global technology supply chains face heightened regulatory scrutiny regarding artificial intelligence hardware. By requiring partners to maintain a majority of their non-Chinese business, the policy further constrains access to advanced computing resources in the region.</p>
 <p>Nov 3 · <a href="https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2">ft.com</a></p>
-<br clear="all" />
-
-<h2>Huawei Informs Clients Ascend 960DT AI Chip Will Rely on Samsung and SK Hynix HBM</h2>
-<a name="story-26249"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F09%2F18%2Fhuawei-ascend-960dt%2F01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Huawei recently informed certain clients that a large share of its upcoming Ascend 960DT flagship artificial intelligence chip will run on high-bandwidth memory produced by South Korean manufacturers Samsung and SK Hynix. This disclosure illustrates the ongoing porousness of U.S. restrictions and export controls designed to limit China's access to advanced semiconductor technology.</p><p>The Ascend 960DT represents a key component of Huawei's hardware development, with its commercial availability advanced to early 2027. The reliance on foreign memory components despite international sanctions underscores the persistent difficulty in cutting off Chinese tech firms from global high-performance supply chains.</p>
-<p>Nov 3 · <a href="https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea">theinformation.com</a></p>
 <br clear="all" />
 
 ---

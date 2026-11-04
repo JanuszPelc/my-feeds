@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Zig Programming Language Releases Version 0.17.1</title>
+    <link href="https://ziglang.org/news/0.17.1-released/" rel="alternate" />
+    <id>https://ziglang.org/news/0.17.1-released/::v240</id>
+    <published>2026-11-04T12:19:00+00:00</published>
+    <updated>2026-11-04T12:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fziglang.org%2Fdownload%2F0.9.0%2Fstage2-progress-dark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ziglang.org/news/0.17.1-released/">ziglang.org</a> | <a href="https://lobste.rs/s/pa1411/zig_0_17_1_released">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50358320">hacker news</a></small></p><hr/><p>The Zig project has released version 0.17.1, a bug fix update addressing more than 57 issues reported following the 0.17.0 release. The update focuses specifically on resolving regressions and upgrade blockers that affected users.</p><p>Most users who encountered obstacles while attempting to upgrade to version 0.17.0 should now be able to transition to the new patch release. Download links and updated documentation are available on the official Zig website.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fziglang.org%2Fdownload%2F0.9.0%2Fstage2-progress-dark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 17:25 UTC | #26438</small>]]></content>
+  </entry>
+  <entry>
     <title>Neil Kakkar Winning Essay Examines Software Engineering Productivity in the AI Era</title>
     <link href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing" rel="alternate" />
     <id>https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing::v240</id>

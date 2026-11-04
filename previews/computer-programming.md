@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Zig Programming Language Releases Version 0.17.1</h2>
+<a name="story-26438"><img src="https://wsrv.nl/?url=https%3A%2F%2Fziglang.org%2Fdownload%2F0.9.0%2Fstage2-progress-dark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Zig project has released version 0.17.1, a bug fix update addressing more than 57 issues reported following the 0.17.0 release. The update focuses specifically on resolving regressions and upgrade blockers that affected users.</p><p>Most users who encountered obstacles while attempting to upgrade to version 0.17.0 should now be able to transition to the new patch release. Download links and updated documentation are available on the official Zig website.</p>
+<p>Nov 4 · <a href="https://ziglang.org/news/0.17.1-released/">ziglang.org</a> | <a href="https://lobste.rs/s/pa1411/zig_0_17_1_released">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50358320">hacker news</a></p>
+<br clear="all" />
+
 <h2>Neil Kakkar Winning Essay Examines Software Engineering Productivity in the AI Era</h2>
 <a name="story-26392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21N8p2%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F094d1c3e-53a2-443d-bc87-5eecbd3e3b5e_1920x566.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software engineer Neil Kakkar won The Pragmatic Engineer's essay challenge with an analysis comparing his productivity across pre-AI and AI-native workplaces. Using data from his time at Bloomberg, PostHog, and AI startup Tano, Kakkar details an elevenfold increase in merged pull requests driven by the adoption of autonomous coding agents like Claude Code.</p><p>The transition to AI-native workflows eliminated traditional constraints such as human code reviews and extensive cross-team communication, replacing them with automated continuous integration checks and solo end-to-end feature ownership. While velocity surged, new challenges arose, including increased context switching, managing agent token limits, and addressing subtle logic errors introduced by automated generation.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26255"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.jsbarretto.com%2Fimg%2Flaptop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>JS Barretto identifies the 2015 Thinkpad X250 as their preferred laptop, citing its compact form factor, lightweight build, and battery longevity. The device features an Intel i5-5200U processor and runs Endeavour OS for programming tasks.</p><p>The laptop's high repairability allows for simple component replacement, such as the keyboard or motherboard, using basic tools. Utilizing second-hand hardware is presented as a cost-effective alternative to modern consumer electronics and a way to resist high-consumption culture.</p>
 <p>Nov 3 · <a href="https://blog.jsbarretto.com/post/laptop">blog.jsbarretto.com</a> | <a href="https://lobste.rs/s/ezg5mx/my_favourite_laptop">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50339815">hacker news</a></p>
-<br clear="all" />
-
-<h2>`kill(1)` Parsing Bugs in `procps` Impact Ubuntu LTS Releases</h2>
-<p>Multiple Ubuntu LTS releases, from version 14.04 to 24.04, have contained bugs in the `kill(1)` command within the `procps` package. These issues stem from the use of `getopt` for command-line parsing, which causes negative process group identifiers (pgids) to be incorrectly interpreted as unrecognized options. In some cases, this misparsing leads to signals being sent to all processes on a machine except for PID 1.</p><p>Four distinct bugs were identified where previous attempts to fix parsing errors introduced new issues like segmentation faults or unintended shell termination. Because `kill` arguments can function as either signal names, numbers, or PIDs, `getopt`'s handling of option bundling is problematic for this utility. Positional argument parsing, similar to the implementation in FreeBSD, is recommended to ensure more predictable behavior.</p>
-<p>Nov 2 · <a href="https://alangrow.com/blog/a-decade-of-kill-bugs">alangrow.com</a> | <a href="https://lobste.rs/s/wgoato/decade_kill_bugs">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50348858">hacker news</a></p>
 <br clear="all" />
 
 ---
