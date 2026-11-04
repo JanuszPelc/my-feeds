@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Karanyi Sounds Opens Registration for Free Brigade Vocal Multiplier Plugin</h2>
+<a name="story-26425"><img src="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--vfFXRTqc--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2F11395fcc-68aa-4d76-944b-d62de3f4a590.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Karanyi Sounds has opened preregistration for Brigade, an upcoming vocal multiplier plugin normally priced at $49 that will be offered for free on Black Friday, November 27, 2026. Users can reserve a perpetual license by submitting their email address on the giveaway page before the official release date.</p><p>Derived from the developer's Voicemax vocal processing software, Brigade is designed to turn a single vocal take into an ensemble of backup singers arranged on a virtual stage. The plugin features dedicated controls for harmony, stacking, stereo spread, formants, and a lead-to-brigade balance slider, and it will be available in VST3 and AU formats for macOS and Windows.</p>
+<p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/karanyi-sounds-brigade-black-friday/">bedroomproducersblog.com</a> | <a href="https://karanyisounds.com/pages/voicemax-brigade">karanyisounds.com</a></p>
+<br clear="all" />
+
 <h2>ROLI Enters Administration</h2>
 <a name="story-26396"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F07%2FROLI-Seaboard-Block-M-commercial-hero-credit-Simon-Vinall%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Music technology company ROLI has entered administration for the second time, with insolvency practitioners from RSM UK appointed as joint administrators. The sudden collapse has left numerous customers with unfulfilled orders, unresponsive support, and offline web and community servers.</p><p>Founded in 2009 and renowned for pioneering MIDI Polyphonic Expression (MPE) alongside touch-sensitive instruments like the Seaboard and Airwave, ROLI previously survived administration in 2021 before restructuring. The company's latest failure has raised concerns among users that a lack of ongoing software and firmware support could eventually render their hardware devices unusable.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26311"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FWaves-Black-Friday-Freebie-2026-700x394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Waves Audio has opened pre-registration for its annual Black Friday plugin giveaway, scheduled for release on November 27, 2026. While the specific name and features of the new plugin remain unannounced, the promotion will offer a limited number of free licenses on a first-come, first-served basis.</p><p>Users can currently sign up with their email address to receive a notification when the offer goes live. To claim the plugin, participants must log into their Waves accounts on the release date and manually register the product, continuing the company's tradition of mystery software giveaways following previous releases like the Magma StressBox and IDX Intelligent Dynamics.</p>
 <p>Nov 3 · <a href="https://bedroomproducersblog.com/2026/11/03/waves-freebie-2026/">bedroomproducersblog.com</a> | <a href="https://www.waves.com/free">waves.com</a></p>
-<br clear="all" />
-
-<h2>DonutsDelivery Releases DonutStudio 0.9.0 Music and Video Workstation</h2>
-<a name="story-26319"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdonutstudio-090-glass-ring.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DonutsDelivery has released DonutStudio 0.9.0, a cross-platform music and video workstation designed for harmonic composition and microtonal tuning. The update introduces expanded Path Trace 3D rendering with GPU support, a Harmonic Guide for note editing, stem separation tools, and tempo detection capabilities.</p><p>Additional features in version 0.9.0 include per-note modulation routing, AI agent integration options such as Claude Desktop settings, and Lua tooling for track management. The software is available in free and Pro tiers as a standalone application, VST3 plugin, and CLAP plugin for Windows, macOS, and Linux.</p>
-<p>Nov 3 · <a href="https://www.kvraudio.com/news/donutsdelivery-releases-donutstudio-0-9-0-69592?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69592">kvraudio.com</a> | <a href="https://donutsdelivery.online/donutstudio">donutsdelivery.online</a></p>
 <br clear="all" />
 
 ---
