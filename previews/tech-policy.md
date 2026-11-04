@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Elon Musk-Backed Candidates Suffer Major Losses in US Midterm Elections</h2>
+<a name="story-26398"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F5a5ad186272d2c24749849c291edec4e20f3eefe46899919392e80681688b0b5%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2Ff8201751de4d7fc80a2698fc7227571f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tech billionaire Elon Musk's preferred candidates experienced widespread defeats in the 2026 United States midterm elections, including high-profile losses by Ken Paxton in the Texas Senate race and Vivek Ramaswamy in the Ohio gubernatorial race. Musk contributed at least $446 million during the cycle, setting a record for a non-candidate, with over $200 million directed toward Texas-related political efforts.</p><p>The election cycle also resulted in a surprise Democratic sweep in Texas, casting doubt on planned data center buildouts across the state. Despite Musk leading all political donors in campaign spending, the poor performance of his endorsed candidates demonstrates the limited electoral return on his historic financial investment.</p>
+<p>Nov 4 · <a href="https://www.politico.eu/article/elon-musk-dealt-major-blow-in-midterm-elections-2026/">politico.eu</a></p>
+<br clear="all" />
+
 <h2>Legal Shifts in Texas and Delaware Fortify SpaceX-Tesla Merger and Meta Share Plans Against Lawsuits</h2>
 <a name="story-26391"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHK_F4x5bUAAhfps.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Recent legal shifts in Texas and Delaware have strengthened corporate defenses against shareholder litigation, positioning Elon Musk's proposed SpaceX-Tesla merger and Meta's new non-voting share plan to better fend off legal challenges. Diminishing shareholder rights in these key jurisdictions provide a more protective legal environment for corporate restructuring and governance changes.</p><p>These developments reflect a broader decade-long effort by high-profile executives to shield large technology and aerospace ventures from external shareholder interference and litigation. As corporate venues adapt to these shifts, the changes significantly alter the balance of power between controlling founders and minority investors.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26260"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An unauthorized fanfiction clone site named ao3.life shut down after its creator received over 2,000 takedown requests from authors within a single day of operation. The platform used automated virtual machines to scrape works from Archive of Our Own (AO3) and offered paid AI-generated audiobooks alongside EPUB downloads.</p><p>The clone site emerged during a multi-week outage of AO3 caused by a security incident, attempting to capitalize on readers' inability to access the primary repository. Although the creator stated that authors would receive a majority share of profits, the platform's unauthorized scraping and monetization drew swift backlash and legal complaints from writers who prohibit the commercialization of their fanfiction.</p>
 <p>Nov 3 · <a href="https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/">404media.co</a></p>
-<br clear="all" />
-
-<h2>Nvidia Asks Cloud Clients to Limit China Service Share to Under 49 Per Cent</h2>
-<a name="story-26262"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FrMEtrL4LyKa5zyZtuiwKpP.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia has reportedly instructed its cloud computing and data center clients to ensure that at least 51 per cent of their services are allocated to non-Chinese companies. The verbal directive represents a new restriction aimed at curbing exposure to the Chinese market for AI infrastructure.</p><p>The measure comes as global technology supply chains face heightened regulatory scrutiny regarding artificial intelligence hardware. By requiring partners to maintain a majority of their non-Chinese business, the policy further constrains access to advanced computing resources in the region.</p>
-<p>Nov 3 · <a href="https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2">ft.com</a></p>
 <br clear="all" />
 
 ---

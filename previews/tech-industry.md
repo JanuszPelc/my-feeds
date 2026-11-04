@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>SemiAnalysis Reports SpaceX Targets 13GW of AI Datacenter Capacity by 2027</h2>
+<a name="story-26386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2025%2F12%2Farticle-3952-1765793333.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SemiAnalysis reports that SpaceX is targeting approximately 13 gigawatts of AI datacenter capacity by the end of 2027, with 3.6 gigawatts already under construction across multiple sites. This infrastructure expansion aims to build capacity at a pace outpacing historical deployments by major technology firms.</p><p>The rapid deployment strategy relies on behind-the-meter power solutions, large-scale battery energy storage systems, and the repurposing of existing facilities such as Texas rocket campuses. Analysts indicate that these integrated power and construction methods position SpaceX to operate a major commercial AI cloud infrastructure.</p>
+<p>Nov 4 · <a href="https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will">newsletter.semianalysis.com</a></p>
+<br clear="all" />
+
 <h2>Google Announces $15 Billion Investment for Malaysia Data Center Expansion</h2>
 <a name="story-26387"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blackridgeresearch.com%2Fuploads%2FIMG_525709.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has announced a $15 billion investment in Malaysia across 2027 and 2028 to expand its data center and cloud infrastructure. The funding supports the construction of new data center campuses in Selangor and Negeri Sembilan, building upon the company's existing operations at the Elmina Business Park.</p><p>The expanded digital infrastructure initiative also allocates resources toward clean energy, water security measures, and workforce upskilling programs. This commitment follows Google's initial $2 billion investment in the country and aims to strengthen Malaysia's position as a regional hub for artificial intelligence and cloud computing.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26351"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fnf-site-assets-prod-b%2Fassets%2Fexploded.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Neufangled Robotics has introduced Stringman, an open-source, ceiling-mounted cable-driven parallel robot designed for room-scale manipulation. Priced at $795, the system suspends a two-fingered gripper from four corner-anchored lines, using combined motor torque to achieve a higher payload capacity and broader workspace than traditional desktop robotic arms.</p><p>The OSHWA-certified hardware features published CAD files, PCBs, and control software compatible with frameworks like LeRobot, allowing users to operate it locally or integrate it with machine learning agents. Designed for home labs and classrooms, Stringman includes active swing cancellation, local network operation, and visual tagging capabilities to move items across entire rooms without occupying floor space.</p>
 <p>Nov 3 · <a href="https://neufangled.com/">neufangled.com</a> | <a href="https://news.ycombinator.com/item?id=50354358">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Highlights Claude&#x27;s Chip Design Capabilities to Investors</h2>
-<a name="story-26291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdjg26gece%2Fimage%2Fupload%2Fv1775812571%2Fuoizt8pln7gficktqozs.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic has informed investors that its internal chip design team is actively using its Claude artificial intelligence models for engineering and design work on custom silicon. The 15-person team is leveraging the AI to assist with hardware development tasks.</p><p>This application of Claude coincides with the company's broader push into custom hardware development aimed at improving model efficiency and reducing inference costs. The disclosures highlight the practical utility of the company's technology in specialized engineering fields as it scales its operations and prepares for a potential public offering.</p>
-<p>Nov 3 · <a href="https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors">theinformation.com</a></p>
 <br clear="all" />
 
 ---
