@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Karthikey Hegde Details Discovery of ISP DNS Hijacking and Encrypted Solutions</h2>
 <a name="story-26418"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.website-files.com%2F5ff66329429d880392f6cba2%2F6086afee271a164d1911264d_dns%2Bhijacking%2Bexample%2B2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Karthikey Hegde discovered that his internet service provider was intercepting his plaintext DNS queries and returning tampered IP addresses. By comparing standard lookups with encrypted alternatives like Cloudflare's DNS over HTTPS endpoint, he confirmed that his ISP was altering network traffic destinations.</p><p>The discovery highlighted common misconceptions surrounding tools like Unbound and DNSSEC, clarifying that while DNSSEC verifies authenticity through cryptographic signatures, it does not encrypt traffic in transit. To protect his homelab network, the author deployed AdGuard with dnscrypt-proxy to ensure all upstream queries remain encrypted.</p>
-<p>Nov 4 · <a href="https://karthihegde.dev/posts/dns_tampering">karthihegde.dev</a> | <a href="https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns">lobsters</a></p>
+<p>Nov 4 · <a href="https://karthihegde.dev/posts/dns_tampering">karthihegde.dev</a> | <a href="https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50364860">hacker news</a></p>
 <br clear="all" />
 
 <h2>Steal My Bitcoin Experiment Tests PHP2Shell Exploitability</h2>

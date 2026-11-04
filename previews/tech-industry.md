@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>CoreWeave Bonds and Stock Fall Following Texas Data Center Moratorium Proposal</h2>
+<a name="story-26430"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.bgstatic.com%2FmultiLang%2Fimage%2Fsocial%2Fc2b4afa7c1f0839fcf13c6f038cad4d41755333612196.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>CoreWeave Inc.'s stock and unsecured bonds fell to new lows following sweeping Democratic midterm victories and a proposed data center moratorium by Texas Governor-elect Gina Hinojosa. The anticipated policy shift threatens extensive artificial intelligence infrastructure projects and power capacity in the state, heightening credit risks for firms heavily reliant on rapid buildouts.</p><p>The proposed restrictions place a significant share of planned U.S. data center capacity under regulatory scrutiny, directly challenging CoreWeave's debt structure and contracted revenue backlog. Investors responded by selling off debt and equity as execution risks mount against the expansion of power-intensive facilities in key regional hubs.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>TeraWulf Secures Google Credit Backstop for Anthropic Data Center Project</h2>
 <a name="story-26426"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.briefs.co%2Fwp-content%2Fuploads%2F2026%2F07%2Fanthropic-signs-20-year-data-center-lease-terawulf-stock-sur-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Data-center developer TeraWulf has secured a credit backstop agreement with Google to support debt financing for its 20-year, $19 billion data center project with Anthropic in Hawesville, Kentucky. The 401-megawatt AI infrastructure campus is scheduled to come online in the second half of 2027.</p><p>The credit support leverages Alphabet's senior unsecured debt ratings to help TeraWulf secure competitive financing for the development. In addition to the agreement with Google, TeraWulf also executed a definitive engineering, procurement, and construction contract with Fluor to expand the project's delivery capacity.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26344"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA200afS.img%3Fw%3D3556%26h%3D2667%26m%3D4%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jill Hazelbaker, Uber's president and chief corporate affairs officer, is joining OpenAI to serve as the company's new chief corporate affairs officer. She will oversee OpenAI's global communications, corporate positioning, brand strategy, and efforts to build public trust through community partnerships and engagement.</p><p>A veteran executive with former leadership roles at Snap and Google, Hazelbaker will report to OpenAI president and co-founder Greg Brockman. Her appointment is part of OpenAI's strategic focus on increasing its engagement with the institutions and public shaping the future of artificial intelligence.</p>
 <p>Nov 3 · <a href="https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber">axios.com</a> | <a href="https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/">openai.com</a></p>
-<br clear="all" />
-
-<h2>US Export Restrictions Complicate SK Hynix&#x27;s New York Chipmaking Plans</h2>
-<a name="story-26339"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwimg.heraldcorp.com%2Fcontent%2Fdefault%2F2022%2F10%2F09%2F20221009000111_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>US officials have withheld approval for American chipmaking equipment required by SK Hynix to expand production in China. This regulatory delay complicates the South Korean chipmaker's plans to establish new memory-chip manufacturing plants in New York.</p><p>The impasse reflects the impact of US export controls on semiconductor manufacturers navigating international markets. The outcome of these equipment approvals is a critical factor for SK Hynix's ability to execute its planned manufacturing expansion in the United States.</p>
-<p>Nov 3 · <a href="https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/">reuters.com</a></p>
 <br clear="all" />
 
 ---
