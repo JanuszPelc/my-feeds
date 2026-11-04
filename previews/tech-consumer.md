@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Valve Updates Steam Review Process to Address Submission Surge</h2>
+<a name="story-26358"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsteamcdn-a.akamaihd.net%2Fsteamcommunity%2Fpublic%2Fimages%2Fsteamworks_docs%2Fenglish%2FReleaseExampleDocs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Valve is adjusting its Steam game submission workflow to manage a significant rise in store and page review requests. Due to this volume, current review times have reached up to 12 business days, a departure from the standard 3-5 day window.</p><p>The company is introducing new checklist requirements to minimize re-reviews caused by basic functional issues. These updates include requiring developers to run their games through the Steam client for at least five minutes and ensuring that achievements and necessary redistributables, such as DirectX, are properly configured.</p>
+<p>Nov 3 · <a href="https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions">theverge.com</a> | <a href="https://steamcommunity.com/groups/steamworks/announcements/detail/696528162820984746?utm_source=SteamDB">steamcommunity.com</a></p>
+<br clear="all" />
+
 <h2>Ubisoft and Other Companies Bid to Acquire Microsoft&#x27;s Arkane Studios</h2>
 <a name="story-26345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthegeek.games%2Fwp-content%2Fuploads%2F2020%2F09%2Fthegeek-arkane-studios-games-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple companies, including Ubisoft, have submitted offers to Microsoft to acquire Arkane Studios. The French developer is being considered for divestment by Microsoft's gaming division.</p><p>The studio is currently developing the upcoming title *Marvel's Blade*. Microsoft is reportedly exploring several options regarding the studio's future.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2026%2F04%2Fwhat-the-zelda-ocarina-of-time-remake-needs.png%3Fw%3D1200%26h%3D675%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Series producer Eiji Aonuma stated that the upcoming remake of The Legend of Zelda: Ocarina of Time was developed partly to help junior staff members at Nintendo understand the structural foundations and design lessons of the 1998 classic. In an interview for Nintendo's "Ask the Developer" series, Aonuma noted that many current team members have only worked on recent titles and may lack firsthand experience with the original game.</p><p>The modern Zelda series has shifted from Ocarina of Time's linear, dungeon-focused progression toward the open-air exploration style seen in Breath of the Wild and Tears of the Kingdom. Aonuma hopes that rebuilding the classic game will inspire new insights among younger developers and offer players accustomed to open-world exploration a return to carefully paced, structured adventures.</p>
 <p>Nov 2 · <a href="https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights">gamedeveloper.com</a> | <a href="https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/">nintendo.com</a></p>
-<br clear="all" />
-
-<h2>Archive of Our Own Faces Month-Long Outage Following Security Incident</h2>
-<a name="story-26175"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F68bf1c0443726b631734ec61%2F982d0507-7bad-49f5-bf44-31e390ebb744%2Fis-ao3-down-for-anybody-else-was-i-banned-or-something-v0-9pzbejervwqc1.jpeg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The popular fan fiction archive Archive of Our Own (AO3) has been taken offline following the discovery of a security incident. The Organization for Transformative Works (OTW), the nonprofit that operates the site, stated that the restoration process could take between two and four weeks.</p><p>While OTW reported that no user content such as stories or bookmarks has been deleted, it could not rule out the potential theft of user information, including email addresses, usernames, IP addresses, and hashed passwords. The nonprofit advised users to change identical passwords on other platforms as a precaution while investigations continue.</p>
-<p>Nov 2 · <a href="https://gizmodo.com/popular-fan-fiction-site-ao3-could-be-offline-for-a-month-following-security-incident-2000833091">gizmodo.com</a> | <a href="https://www.otwstatus.org/">otwstatus.org</a> | <a href="https://news.ycombinator.com/item?id=50310258">hacker news</a></p>
 <br clear="all" />
 
 ---
