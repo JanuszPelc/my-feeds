@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Canva to Cut 1,271 Jobs in Major Restructure</h2>
+<a name="story-26352"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fmelanie-perkins-fondatrice-di-canva-storia-3-68024bc6b7ed8.jpg%3Fresize%3D980%3A%2A&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Canva will cut or relocate 1,271 roles, representing 22 per cent of its workforce, as part of a significant company restructure. Co-founder and CEO Melanie Perkins stated the move is intended to "refound" the company by returning to small, empowered teams following the first slowdown in growth the design company has seen in a decade.</p><p>The restructure involves merging product, growth, and platform teams and reducing management layers. The decision follows industry-wide concerns that artificial intelligence could disrupt software business models and recent valuation downgrades from major backers. Departing employees will receive at least six months of salary, 12 months of healthcare, and optional $US10,000 grants to start new ventures.</p>
+<p>Nov 3 · <a href="https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html">theage.com.au</a> | <a href="https://www.canva.com/newsroom/news/canva-team-update/">canva.com</a> | <a href="https://news.ycombinator.com/item?id=50359746">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenAI Appoints Jill Hazelbaker as Chief Corporate Affairs Officer</h2>
 <a name="story-26344"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA200afS.img%3Fw%3D3556%26h%3D2667%26m%3D4%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jill Hazelbaker, Uber's president and chief corporate affairs officer, is joining OpenAI to serve as the company's new chief corporate affairs officer. She will oversee OpenAI's global communications, corporate positioning, brand strategy, and efforts to build public trust through community partnerships and engagement.</p><p>A veteran executive with former leadership roles at Snap and Google, Hazelbaker will report to OpenAI president and co-founder Greg Brockman. Her appointment is part of OpenAI's strategic focus on increasing its engagement with the institutions and public shaping the future of artificial intelligence.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26242"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2024%2F11%2F084_MPP_2025-GARRY-TAN.jpg%3Fw%3D1280%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Y Combinator CEO Garry Tan spends between $100,000 and $200,000 annually on AI tokens to power his use of autonomous agents. During an interview on Walter Isaacson's podcast The Builders, Tan explained that he employs these agents for coding, research, and managing personal data, including email and decades of Apple Notes.</p><p>Tan also disclosed that Y Combinator uses an internal agent called "Stray Light" to provide the firm with context on all applications and founders. He noted that while personal agents offer significant utility, mainstream adoption is currently hindered by high costs, and he advocates for user-controlled, programmable AI rather than algorithm-driven models from major tech companies.</p>
 <p>Nov 3 · <a href="https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/">techcrunch.com</a> | <a href="https://www.kaleidoscope.nyc/builders">kaleidoscope.nyc</a></p>
-<br clear="all" />
-
-<h2>Anthropic Investors Seek Lower IPO Valuation Amid Tech Selloff</h2>
-<a name="story-26231"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.staticimg.com%2Fcms%2Fmedia%2FidrIcHGYN2Y9gd8cijLmFHscZLax3PsDwIQ9QmGhV.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Institutional investors are targeting a valuation of $1.5 trillion to $1.6 trillion for Anthropic's upcoming initial public offering. This is a significant reduction from previous estimates that placed the company's valuation at approximately $2 trillion.</p><p>The lower valuation follows a selloff in technology stocks and concerns over the high compute costs associated with AI. While Anthropic reported $17 billion in Q3 revenue, investors are maintaining a cautious outlook heading into the company's market debut.</p>
-<p>Nov 2 · <a href="https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf">wsj.com</a></p>
 <br clear="all" />
 
 ---

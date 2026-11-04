@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-03T22:46:00+00:00</updated>
+  <updated>2026-11-03T23:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Canva to Cut 1,271 Jobs in Major Restructure</title>
+    <link href="https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html" rel="alternate" />
+    <id>https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html::v240</id>
+    <published>2026-11-03T23:47:00+00:00</published>
+    <updated>2026-11-03T23:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fmelanie-perkins-fondatrice-di-canva-storia-3-68024bc6b7ed8.jpg%3Fresize%3D980%3A%2A&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html">theage.com.au</a> | <a href="https://www.canva.com/newsroom/news/canva-team-update/">canva.com</a> | <a href="https://news.ycombinator.com/item?id=50359746">hacker news</a></small></p><hr/><p>Canva will cut or relocate 1,271 roles, representing 22 per cent of its workforce, as part of a significant company restructure. Co-founder and CEO Melanie Perkins stated the move is intended to "refound" the company by returning to small, empowered teams following the first slowdown in growth the design company has seen in a decade.</p><p>The restructure involves merging product, growth, and platform teams and reducing management layers. The decision follows industry-wide concerns that artificial intelligence could disrupt software business models and recent valuation downgrades from major backers. Departing employees will receive at least six months of salary, 12 months of healthcare, and optional $US10,000 grants to start new ventures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fmelanie-perkins-fondatrice-di-canva-storia-3-68024bc6b7ed8.jpg%3Fresize%3D980%3A%2A&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 05:44 UTC | #26352</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Appoints Jill Hazelbaker as Chief Corporate Affairs Officer</title>
     <link href="https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber" rel="alternate" />
