@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-03T23:47:00+00:00</updated>
+  <updated>2026-11-04T00:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Cat Wu, Claude Code Product Lead, Exits Anthropic</title>
+    <link href="https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11" rel="alternate" />
+    <id>https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11::v240</id>
+    <published>2026-11-04T00:41:00+00:00</published>
+    <updated>2026-11-04T00:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11">businessinsider.com</a></small></p><hr/><p>Cat Wu, a lead product manager at Anthropic and a key leader of the Claude Code tool, has left the AI startup. Wu announced her departure on Tuesday, following her role in scaling the coding assistant that significantly increased the company's revenue and market competitiveness.</p><p>Her exit occurs as Anthropic prepares for an initial public offering (IPO) expected later this month. The departure follows the recent exit of Claude Code contributor Thariq Shihipar and involves the leadership of both the Claude Code and Cowork product lines.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 07:44 UTC | #26364</small>]]></content>
+  </entry>
   <entry>
     <title>Canva to Cut 1,271 Jobs in Major Restructure</title>
     <link href="https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html" rel="alternate" />

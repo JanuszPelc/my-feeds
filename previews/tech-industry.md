@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Cat Wu, Claude Code Product Lead, Exits Anthropic</h2>
+<a name="story-26364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cat Wu, a lead product manager at Anthropic and a key leader of the Claude Code tool, has left the AI startup. Wu announced her departure on Tuesday, following her role in scaling the coding assistant that significantly increased the company's revenue and market competitiveness.</p><p>Her exit occurs as Anthropic prepares for an initial public offering (IPO) expected later this month. The departure follows the recent exit of Claude Code contributor Thariq Shihipar and involves the leadership of both the Claude Code and Cowork product lines.</p>
+<p>Nov 4 · <a href="https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11">businessinsider.com</a></p>
+<br clear="all" />
+
 <h2>Canva to Cut 1,271 Jobs in Major Restructure</h2>
 <a name="story-26352"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fmelanie-perkins-fondatrice-di-canva-storia-3-68024bc6b7ed8.jpg%3Fresize%3D980%3A%2A&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Canva will cut or relocate 1,271 roles, representing 22 per cent of its workforce, as part of a significant company restructure. Co-founder and CEO Melanie Perkins stated the move is intended to "refound" the company by returning to small, empowered teams following the first slowdown in growth the design company has seen in a decade.</p><p>The restructure involves merging product, growth, and platform teams and reducing management layers. The decision follows industry-wide concerns that artificial intelligence could disrupt software business models and recent valuation downgrades from major backers. Departing employees will receive at least six months of salary, 12 months of healthcare, and optional $US10,000 grants to start new ventures.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26245"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhpxwvv-S3aLivoBfRMITp32h_oA-9Mf9eZAxFhyphenhyphenmDsqiXyuHm7kX7y3a2uvsz2g9x6JQFLWXWegHuytB7MVu3K1P89kNXiCxc5zFBnCsI0bY5ebr38K_QlNAakc4xHCoQtkjmqTWHh8GBR3RCMjEaqQCqzbbS5Vi-O5wOQvur9C0O9aCG6fnpU7QSKrW8w%2Fs1730%2Fapps-ios18-sherlocks-revenue.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple may expand its services revenue through third-party AI applications and partnerships. CFO Kevan Parekh indicated that AI presents growth opportunities through both first-party capabilities and collaborations with external developers.</p><p>This potential strategy follows regulatory pressures and a slump in mobile gaming that have impacted App Store commissions. Some investors speculate Apple could monetize third-party AI agents by taking a revenue cut from those distributed through the App Store.</p>
 <p>Nov 3 · <a href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/">techcrunch.com</a> | <a href="https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50344670">hacker news</a></p>
-<br clear="all" />
-
-<h2>Y Combinator CEO Garry Tan Spends Up to $200,000 Annually on AI Tokens</h2>
-<a name="story-26242"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2024%2F11%2F084_MPP_2025-GARRY-TAN.jpg%3Fw%3D1280%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Y Combinator CEO Garry Tan spends between $100,000 and $200,000 annually on AI tokens to power his use of autonomous agents. During an interview on Walter Isaacson's podcast The Builders, Tan explained that he employs these agents for coding, research, and managing personal data, including email and decades of Apple Notes.</p><p>Tan also disclosed that Y Combinator uses an internal agent called "Stray Light" to provide the firm with context on all applications and founders. He noted that while personal agents offer significant utility, mainstream adoption is currently hindered by high costs, and he advocates for user-controlled, programmable AI rather than algorithm-driven models from major tech companies.</p>
-<p>Nov 3 · <a href="https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/">techcrunch.com</a> | <a href="https://www.kaleidoscope.nyc/builders">kaleidoscope.nyc</a></p>
 <br clear="all" />
 
 ---
