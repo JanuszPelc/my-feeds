@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>OpenAI Appoints Jill Hazelbaker as Chief Corporate Affairs Officer</h2>
+<a name="story-26344"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA200afS.img%3Fw%3D3556%26h%3D2667%26m%3D4%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jill Hazelbaker, Uber's president and chief corporate affairs officer, is joining OpenAI to serve as the company's new chief corporate affairs officer. She will oversee OpenAI's global communications, corporate positioning, brand strategy, and efforts to build public trust through community partnerships and engagement.</p><p>A veteran executive with former leadership roles at Snap and Google, Hazelbaker will report to OpenAI president and co-founder Greg Brockman. Her appointment is part of OpenAI's strategic focus on increasing its engagement with the institutions and public shaping the future of artificial intelligence.</p>
+<p>Nov 3 · <a href="https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber">axios.com</a> | <a href="https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/">openai.com</a></p>
+<br clear="all" />
+
 <h2>US Export Restrictions Complicate SK Hynix&#x27;s New York Chipmaking Plans</h2>
 <a name="story-26339"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwimg.heraldcorp.com%2Fcontent%2Fdefault%2F2022%2F10%2F09%2F20221009000111_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US officials have withheld approval for American chipmaking equipment required by SK Hynix to expand production in China. This regulatory delay complicates the South Korean chipmaker's plans to establish new memory-chip manufacturing plants in New York.</p><p>The impasse reflects the impact of US export controls on semiconductor manufacturers navigating international markets. The outcome of these equipment approvals is a critical factor for SK Hynix's ability to execute its planned manufacturing expansion in the United States.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26231"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.staticimg.com%2Fcms%2Fmedia%2FidrIcHGYN2Y9gd8cijLmFHscZLax3PsDwIQ9QmGhV.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Institutional investors are targeting a valuation of $1.5 trillion to $1.6 trillion for Anthropic's upcoming initial public offering. This is a significant reduction from previous estimates that placed the company's valuation at approximately $2 trillion.</p><p>The lower valuation follows a selloff in technology stocks and concerns over the high compute costs associated with AI. While Anthropic reported $17 billion in Q3 revenue, investors are maintaining a cautious outlook heading into the company's market debut.</p>
 <p>Nov 2 · <a href="https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Trajectory Raises $45M to Enable Continual Learning for AI Models</h2>
-<a name="story-26237"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FtYFZzJIi59kHfbmIp4yjAa5g.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Trajectory has raised $45 million in a Series A funding round at a $300 million valuation. Led by Sequoia, the round includes participation from Nvidia, Bessemer Venture Partners, and Bain Capital Ventures. The company's platform enables "continual learning," allowing AI models to improve through real-world application and user feedback.</p><p>Founded by former Google DeepMind and Apple researchers, Trajectory aims to make model training accessible to non-technical experts in specialized fields like law and finance. By integrating the platform into existing applications, specialists can use their domain expertise to automate model refinements. Current customers include Harvey, Rogo, Decagon, and Nvidia.</p>
-<p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

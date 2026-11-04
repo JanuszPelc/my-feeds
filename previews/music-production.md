@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>DyVision Works Releases Reverb Remover 2 for Windows VST3</h2>
+<a name="story-26357"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdyvision-reverb-remover-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DyVision Works has released Reverb Remover 2, a VST3 plugin for Windows designed to remove room reverb from audio sources such as vocals, podcasts, and drums. The plugin features zero latency, supports both mono and stereo, and operates at sample rates from 44.1 to 96 kHz.</p><p>The software is available for $39 and does not require online activation or a dongle. Current owners of the original Reverb Remover are eligible for a 50% upgrade discount, and a free demo is available.</p>
+<p>Nov 3 · <a href="https://www.kvraudio.com/news/dyvision-works-releases-reverb-remover-2-for-windows-vst3-69598?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69598">kvraudio.com</a> | <a href="https://dyvision.co.uk/reverb-remover-2">dyvision.co.uk</a></p>
+<br clear="all" />
+
 <h2>Green Oak Releases Crystal v2.6.0 Synth Update</h2>
 <a name="story-26321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcrystalss.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Green Oak has released version 2.6.0 of its free Crystal software synthesizer, introducing native Apple Silicon support, updated compatibility for macOS and Windows, new AU and VST3 formats, and a refreshed, scalable interface.</p><p>The updated plugin retains its core features, including three synthesis voices, sample and SoundFont support, wave sequencing, granular capabilities, FM synthesis, an extensive modulation matrix, and patch compatibility with iOS versions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26275"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fakira-filter-version2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SMAOLAB has released version 2.0 of its Akira-Filter audio plugin, bringing a redesigned user interface, an integrated sound level meter, and a newly developed oversampling algorithm. The plugin supports VST3, AU, CLAP, and LV2 formats across Windows, macOS, and Linux.</p><p>The software is available in a fully functional free edition alongside a Pro tier priced at 12€. The Pro version introduces selectable filter slopes from LP6 to LP24 and a drift mode for subtle stereo artifacts, whereas the free version includes a single LP24 slope.</p>
 <p>Nov 3 · <a href="https://www.kvraudio.com/news/smaolab-updates-akira-filter-plugin-to-v2-0-69588?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69588">kvraudio.com</a> | <a href="https://smaolab.org/akira-filter">smaolab.org</a></p>
-<br clear="all" />
-
-<h2>Moonbase Opens Second Annual State of Independent Audio Software Companies Survey</h2>
-<a name="story-26272"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-03-at-12-57-13-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Moonbase has launched its second annual survey targeting independent audio software developers, including plugin creators, virtual instrument makers, sample library developers, and digital audio workstation creators. The survey covers key business metrics such as revenue, pricing trends, sales channels, licensing, support challenges, and artificial intelligence integration.</p><p>Open until December 6, 2026, the questionnaire aims to provide comparative benchmarks for solo developers and small businesses, with results published in aggregate. Participants who provide an email address will receive an advance copy of the final report in January 2027 ahead of its public release.</p>
-<p>Nov 3 · <a href="https://www.kvraudio.com/news/moonbase-announces-state-of-independent-audio-software-companies-2026-survey-69586?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69586">kvraudio.com</a> | <a href="https://moonbase.sh/survey/">moonbase.sh</a></p>
 <br clear="all" />
 
 ---
