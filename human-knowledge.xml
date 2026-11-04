@@ -3,9 +3,27 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-04T12:13:00+00:00</updated>
+  <updated>2026-11-04T12:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Oak Ridge National Laboratory Researchers Find Mechanical Strain Alters Altermagnet Magnetism</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261101010541.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261101010541.htm::v240</id>
+    <published>2026-11-04T12:38:00+00:00</published>
+    <updated>2026-11-04T12:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fmagnetism%2Fmagnetism-05-00017%2Farticle_deploy%2Fhtml%2Fimages%2Fmagnetism-05-00017-g001.png%3F1753256683&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261101010541.htm">sciencedaily.com</a> | <a href="https://www.ornl.gov/news/simple-squeeze-changes-magnetic-behavior-in-emerging-materials/">ornl.gov</a></small></p><hr/><p>Researchers at the Department of Energy's Oak Ridge National Laboratory have discovered that applying a small amount of mechanical pressure to altermagnets can dramatically alter their magnetic and electrical properties. By compressing tiny crystals of manganese telluride and iron sulfide between titanium plates and analyzing them with neutron diffraction, the team found that strain shifts the populations of magnetic domains and influences the anomalous Hall effect.</p><p>This method provides a new way to control magnetic behavior without modifying a material's chemical composition. The capability could support the development of advanced spintronic technologies for applications in quantum computing and wireless communications, with findings detailed across recent publications in Physical Review X and Advanced Materials.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fmagnetism%2Fmagnetism-05-00017%2Farticle_deploy%2Fhtml%2Fimages%2Fmagnetism-05-00017-g001.png%3F1753256683&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 17:45 UTC | #26412</small>]]></content>
+  </entry>
+  <entry>
+    <title>MIT Researchers Use Flexible Connectors to Create Novel Nanoparticle Superlattices</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261104012248.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261104012248.htm::v240</id>
+    <published>2026-11-04T12:24:00+00:00</published>
+    <updated>2026-11-04T12:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffigures.academia-assets.com%2F110919285%2Ffigure_002.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261104012248.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41563-026-02787-0">nature.com</a></small></p><hr/><p>Using flexible, electrically charged molecular connectors instead of traditional rigid ligands allows for the creation of novel nanoparticle crystal structures. By permitting these connectors to bend and adjust during assembly, researchers can control the number of connections—or valency—each particle makes, facilitating the formation of more open and complex superlattices.</p><p>This discovery addresses a long-standing challenge in materials science where rigid connections often limited assembly to densely packed, uniform arrangements. This method enables the engineering of designer materials with tailored properties for use in electronics, medicine, energy storage, and chemical catalysis.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffigures.academia-assets.com%2F110919285%2Ffigure_002.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 17:44 UTC | #26411</small>]]></content>
+  </entry>
   <entry>
     <title>NASA Explores Commercial Servicing Options to Extend Hubble Space Telescope Life</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261104012254.htm" rel="alternate" />
