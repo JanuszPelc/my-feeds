@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Fal Raises $1.3B at $16B Valuation</h2>
+<a name="story-26333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2024%2F05%2FCA-based-Scale-AI-Secures-1-Billion-in-Series-F-Round-Funding.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>San Francisco-based AI inference startup Fal has secured $1.3 billion in a Series F funding round led by Bessemer Venture Partners. With participation from Nvidia, Sound Ventures, and T. Rowe Price, the investment doubles the company's valuation to $16 billion from its $8 billion valuation in April.</p>
+<p>Nov 3 · <a href="https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/">techcrunch.com</a> | <a href="https://fal.ai/blog/series-e-f">fal.ai</a></p>
+<br clear="all" />
+
 <h2>CrowdStrike Agrees to Acquire AI Security Startups Fiddler AI and Dreadnode</h2>
 <a name="story-26293"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhlSZiilfIqxd8NLAgUrBsPT8rRbHdChHNlc_Fy-lPOblDzUAKxihMDHvPbS2FC2Deo9kPKvxtW1a8q9L3v4Vb2iuBnYlMIqFYztC7h3EzVe1QtkVO73h7bs0_YhtALnWhHqCQs9NPzdPCjmPYGb9sN-ahZnzqWD_vPVR8rwU1b96_ylOM65h4-1I0iOms%2Fs512%2Funnamed%283%29.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CrowdStrike has agreed to acquire Fiddler AI for approximately $400 million and Dreadnode for approximately $95 million, primarily in cash. Fiddler AI provides monitoring capabilities for AI agents, while Dreadnode offers automated security testing tools for artificial intelligence systems.</p><p>The acquisitions come as organizations rapidly deploy AI agents ahead of establishing comprehensive security controls. By integrating these technologies into its Falcon platform, CrowdStrike aims to enhance enterprise visibility and trust in AI deployments.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2024%2F09%2FFunding-News-Tetrix-Secures-5-Mn-Seed-Funding.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Financial AI startup Casap has raised $56 million in a Series B funding round led by Base10 Partners, bringing its total funding to $90 million since its 2023 launch. The round included strategic investments from Synchrony and Experian, alongside continued support from existing backers like Lightspeed Venture Partners and Emergence.</p><p>The company develops automated tools designed to help banks and card issuers handle customer disputes, chargebacks, and first-party fraud, where cardholders falsely dispute legitimate transactions. According to Casap, its platform helps financial institutions reduce first-party fraud losses and accelerate the dispute resolution process using specialized AI workflows.</p>
 <p>Nov 2 · <a href="https://fortune.com/2026/10/28/dd/">fortune.com</a> | <a href="https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html">prnewswire.com</a></p>
-<br clear="all" />
-
-<h2>Vera Health Secures $28.5M Series A Funding for AI Clinical Search Engine</h2>
-<a name="story-26135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2F6nRWb0cWxiNJ5q3JQzyDYmYAhCU.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Clinical artificial intelligence search engine Vera Health has secured $28.5 million in a Series A funding round led by Threshold Ventures, bringing its total funding to $32 million. The financing included participation from Optum Ventures, Mantis VC, and SV Angel, alongside existing investors Y Combinator and Gradient.</p><p>Vera Health's platform scans over 60 million peer-reviewed publications, clinical guidelines, and drug labels to help healthcare professionals assess medical evidence at the point of care. The company reports that more than 800,000 clinicians across 190 countries use its search tool, and it plans to use the new capital to invest in its evidence infrastructure, team expansion, and international growth.</p>
-<p>Nov 2 · <a href="https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine">fiercehealthcare.com</a> | <a href="https://www.prnewswire.com/news-releases/vera-health-quietly-became-one-of-the-worlds-most-used-clinical-tools-now-it-has-raised-32-million-to-give-every-clinician-in-the-world-the-best-medical-knowledge-in-seconds-302920905.html">prnewswire.com</a></p>
 <br clear="all" />
 
 ---
