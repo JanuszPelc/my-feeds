@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-04T19:27:00+00:00</updated>
+  <updated>2026-11-04T20:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>T3 Financial Crime Unit Dissolved by Crypto Giants</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle::v240</id>
+    <published>2026-11-04T20:50:00+00:00</published>
+    <updated>2026-11-04T20:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcrispybull.com%2Fwp-content%2Fuploads%2F2025%2F10%2FTether-TRON-Financial-Crime-Unit.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle">bloomberg.com</a></small></p><hr/><p>The T3 Financial Crime Unit, a collaborative initiative established by Tron, Tether, Binance, and TRM Labs to combat illicit crypto activity, was quietly dissolved in August. The alliance disbanded following concerns over slow response times, despite having frozen approximately $250 million in suspicious assets during its operation.</p><p>The dissolution comes as the digital asset sector faces heightened security challenges, including major exploits and rising illicit transactions. The collapse of the joint task force highlights ongoing difficulties in coordinating rapid cross-firm responses among major cryptocurrency infrastructure providers to curb cybercrime.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcrispybull.com%2Fwp-content%2Fuploads%2F2025%2F10%2FTether-TRON-Financial-Crime-Unit.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 23:09 UTC | #26427</small>]]></content>
+  </entry>
   <entry>
     <title>Crypto and AI Super PACs Lose Majority of Competitive 2026 Midterm Races</title>
     <link href="https://www.citationneeded.news/2026-election-results/" rel="alternate" />

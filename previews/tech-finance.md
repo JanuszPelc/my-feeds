@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>T3 Financial Crime Unit Dissolved by Crypto Giants</h2>
+<a name="story-26427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcrispybull.com%2Fwp-content%2Fuploads%2F2025%2F10%2FTether-TRON-Financial-Crime-Unit.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The T3 Financial Crime Unit, a collaborative initiative established by Tron, Tether, Binance, and TRM Labs to combat illicit crypto activity, was quietly dissolved in August. The alliance disbanded following concerns over slow response times, despite having frozen approximately $250 million in suspicious assets during its operation.</p><p>The dissolution comes as the digital asset sector faces heightened security challenges, including major exploits and rising illicit transactions. The collapse of the joint task force highlights ongoing difficulties in coordinating rapid cross-firm responses among major cryptocurrency infrastructure providers to curb cybercrime.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Crypto and AI Super PACs Lose Majority of Competitive 2026 Midterm Races</h2>
 <a name="story-26424"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.citationneeded.news%2Fcontent%2Fimages%2F2026%2F11%2Felection-outcomes-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Crypto and artificial intelligence companies spent approximately $250 million during the 2026 midterm elections to shape future industry regulations, but their super PACs experienced significant defeats in competitive races. Out of twelve competitive races called by early November, industry-backed candidates lost nine, with political action committees investing $74.7 million into losing campaigns compared to just $28.3 million on winning ones.</p><p>High-profile losses included the Ohio Senate race, where Democrat Sherrod Brown defeated a record $64 million crypto-funded effort to unseat him, alongside defeats in numerous other Senate and House contests. Despite these setbacks in battlegrounds, the industry maintained a superficially high win rate by heavily backing candidates in safe seats where victory was practically guaranteed.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26293"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhlSZiilfIqxd8NLAgUrBsPT8rRbHdChHNlc_Fy-lPOblDzUAKxihMDHvPbS2FC2Deo9kPKvxtW1a8q9L3v4Vb2iuBnYlMIqFYztC7h3EzVe1QtkVO73h7bs0_YhtALnWhHqCQs9NPzdPCjmPYGb9sN-ahZnzqWD_vPVR8rwU1b96_ylOM65h4-1I0iOms%2Fs512%2Funnamed%283%29.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CrowdStrike has agreed to acquire Fiddler AI for approximately $400 million and Dreadnode for approximately $95 million, primarily in cash. Fiddler AI provides monitoring capabilities for AI agents, while Dreadnode offers automated security testing tools for artificial intelligence systems.</p><p>The acquisitions come as organizations rapidly deploy AI agents ahead of establishing comprehensive security controls. By integrating these technologies into its Falcon platform, CrowdStrike aims to enhance enterprise visibility and trust in AI deployments.</p>
 <p>Nov 3 · <a href="https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e">wsj.com</a> | <a href="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-fiddler-to-deliver-agent-observability/">crowdstrike.com</a></p>
-<br clear="all" />
-
-<h2>Corridian Emerges From Stealth With $38M Seed Funding for Undersea Logistics AUVs</h2>
-<a name="story-26289"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fautonomous-underwater-vehicle-exploring-coral-reef-deep-blue-sea_967812-25049.jpg%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Autonomous submarine startup Corridian has exited stealth with a $38 million seed funding round led by Point72 Ventures. The New England-based defense technology company is building ultra-large autonomous underwater vehicles designed for crewless cargo transport and undersea logistics.</p><p>Participation in the funding round includes Balerion Space Ventures, Harpoon Ventures, DCVC, and Marlinspike. Corridian plans to unveil its first autonomous underwater vehicle in 2027 to establish an undersea stealth logistics fleet.</p>
-<p>Nov 3 · <a href="https://www.axios.com/2026/11/03/corridian-seed-auv-new-england">axios.com</a> | <a href="https://www.corridian.com/corridian-emerges-announces-38m-seed-round">corridian.com</a></p>
 <br clear="all" />
 
 ---
