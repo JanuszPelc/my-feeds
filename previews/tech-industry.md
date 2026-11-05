@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>AMD to Pay US$2.9 Billion for AI Chip Startup Taalas</h2>
+<a name="story-26461"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabit.ee%2Fimages%2Ftaalas-hc1-ai-chip-llama-neural-network-performance-startup-news-01.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AMD will pay approximately US$2.9 billion to acquire Toronto-based semiconductor startup Taalas Inc., a deal that includes US$1.4 billion subject to unspecified conditions. The acquisition aims to integrate Taalas's hardware-specific designs for AI inference into AMD’s future chipsets. Taalas's technology is optimized for large language models, such as Meta’s Llama.</p><p>This transaction is one of the largest recent acquisitions of a Canadian technology company and is part of AMD's strategy to compete with Nvidia in the AI processor market. Founded in 2023 by former AMD executives, Taalas had previously raised more than US$225 million in venture financing.</p>
+<p>Nov 4 · <a href="https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/">theglobeandmail.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market">ir.amd.com</a></p>
+<br clear="all" />
+
 <h2>Meta Acquires AI Coding Startup Conductor</h2>
 <a name="story-26454"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21xumY%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb45e5d-d4fd-4f87-b6cc-8e49d07b7830_1678x936.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has acquired Conductor, a startup that provides an AI orchestration platform for managing multiple coding agents simultaneously. Founded in 2024 by Charlie Holtz and Jackson de Campos, Conductor's technology is expected to assist Meta in building next-generation AI coding products.</p><p>The acquisition occurs as AI companies increasingly compete to own developer tools, coinciding with OpenAI's reported plans to acquire Pierre Computer. Experts note that excellence in coding and mathematics is vital for the ongoing advancement of AI model capabilities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26375"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmineshop.eu%2Fstorage%2Fblog-images%2F1823%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Major Chinese artificial intelligence developers, including Alibaba, Tencent, and ByteDance, anticipate receiving only about one percent of the six million Nvidia RTX Pro 5500 chips they have ordered over the coming months. The orders, valued at roughly $70 billion, fall drastically short of what Nvidia can supply as the company struggles with manufacturing constraints.</p><p>Global production capacity for the RTX Pro 5500 is severely limited, with overall production through 2027 expected to fall well short of total demand from Chinese firms. This supply bottleneck highlights the ongoing pressures and high-stakes competition surrounding advanced artificial intelligence hardware access in China amid international trade restrictions.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Meta Raises $15 Billion in US Dollar Bond Sale for AI Investments</h2>
-<a name="story-26369"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheutterperspective.com%2Fwp-content%2Fuploads%2F2025%2F10%2F1761845534_1200x-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta Platforms has raised $15 billion through a multi-part US dollar bond sale, drawing heavy investor demand with orders reaching as much as $58 billion. The issuance represents the largest portion of a broader cross-border debt package exceeding $20 billion.</p><p>The capital raise supports the company's accelerating investments in artificial intelligence infrastructure, data centers, and computing capacity. The massive debt offering arrives as major technology firms increasingly turn to bond markets to finance expanding AI operations.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments">bloomberg.com</a> | <a href="https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/">reuters.com</a></p>
 <br clear="all" />
 
 ---
