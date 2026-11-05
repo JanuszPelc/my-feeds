@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T12:22:00+00:00</updated>
+  <updated>2026-11-05T12:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Agility Robotics Becomes First Publicly Traded Humanoid Robot Company via SPAC Merger</title>
+    <link href="https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/::v240</id>
+    <published>2026-11-05T12:34:00+00:00</published>
+    <updated>2026-11-05T12:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fendroid.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fagility-robotics-humanoid-ipo-digit-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/">techcrunch.com</a> | <a href="https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-announce-expected-gross-capital-raise-of-approximately-465-million-and-anticipated-closing-of-business-combination">agilityrobotics.com</a></small></p><hr/><p>Agility Robotics has completed a reverse-merger through a special purpose acquisition company, becoming the first pure-play humanoid robot enterprise on the stock market and raising $465 million in new capital. The company's flagship Digit robots are currently deployed in industrial settings by nine customers, including GXO and Toyota Motor Manufacturing Canada, to handle repetitive tasks such as moving heavy totes.</p><p>The newly secured funds will support the rollout of Agility's next-generation Digit 5 robot, which has already secured $300 million in planned contracts from 30 customers and is designed to operate safely alongside human workers. While the company faces ongoing financial losses and technological hurdles in achieving complex robotic dexterity, its existing commercial deployments provide a head start in the physical AI market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fendroid.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fagility-robotics-humanoid-ipo-digit-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 17:13 UTC | #26528</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Sees Q3 2026 Revenue Inflection Following Difficult First Half</title>
     <link href="https://www.wsj.com/tech/openai-had-rough-first-half-of-year-before-coding-takeoff-brockman-says-6c97d9e5?st=hL3kyT&amp;reflink=desktopwebshare_permalink" rel="alternate" />
