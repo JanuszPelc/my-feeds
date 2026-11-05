@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-04T15:27:00+00:00</updated>
+  <updated>2026-11-04T21:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>San Francisco Makes Activist-Installed Bike Lanes Official</title>
+    <link href="https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/" rel="alternate" />
+    <id>https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/::v240</id>
+    <published>2026-11-04T21:13:00+00:00</published>
+    <updated>2026-11-04T21:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F99percentinvisible.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fgolden-gate-park-posts.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/">99percentinvisible.org</a> | <a href="https://www.facebook.com/SFMTA.Livable.Streets/posts/a-new-bike-only-shortcut-into-and-out-of-golden-gate-park-is-up-and-running-at-7/1097189633653482/">facebook.com</a> | <a href="https://news.ycombinator.com/item?id=50366522">hacker news</a></small></p><hr/><p>The San Francisco Municipal Transportation Agency (SFMTA) is officializing protected bike lanes near Golden Gate Park that were originally installed by the San Francisco Transformation Agency (SFMTrA). The group used traffic cones and soft-hit posts to create the lanes following two fatal hit-and-run collisions involving cyclists.</p><p>This decision deviates from standard municipal protocols, which typically require the removal of unauthorized roadway objects. The city's adoption of the installation suggests a willingness to incorporate community-led "tactical urbanism" into formal street safety and design processes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F99percentinvisible.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fgolden-gate-park-posts.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 02:40 UTC | #26488</small>]]></content>
+  </entry>
   <entry>
     <title>US Voters Reject Data Centers in Local Ballot Measures</title>
     <link href="https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures" rel="alternate" />
