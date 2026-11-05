@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Qualcomm Reports $10.3 Billion in Fourth-Quarter Revenue Amid Handset Slump</h2>
+<a name="story-26472"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2024%2F11%2FQualcomm-Q4-2024-earnings-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Fourth-quarter revenue fell 8% year-over-year to $10.3 billion, exceeding analyst estimates of $10.1 billion. Conversely, handset revenue dropped 26% to $5.14 billion, falling short of the projected $5.25 billion.</p><p>The semiconductor firm is looking to offset declining smartphone demand by expanding into new markets such as automotive. Despite the revenue beat, the company's stock dropped more than 5% after hours following a weak profit forecast.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump">bloomberg.com</a> | <a href="https://www.qualcomm.com/news/releases/2025/11/qualcomm-announces-fourth-quarter-and-fiscal-2025-results">qualcomm.com</a></p>
+<br clear="all" />
+
+<h2>Arm Beats Second-Quarter Revenue Estimates</h2>
+<a name="story-26471"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.st-note.com%2Fimg%2F1762390785-4NA6bZqDkmT2n7tGusVfSBQ9.png%3Fwidth%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Arm Holdings exceeded Wall Street revenue estimates for the second quarter, reporting $1.44 billion in revenue, a 27% year-over-year increase. The growth was primarily driven by a 50% surge in licensing revenue.</p><p>The results reflect rising demand for Arm's chip designs within the artificial intelligence and data center sectors. While total revenue surpassed expectations, royalty revenue reached $670 million, falling short of the $720.8 million estimated by analysts.</p>
+<p>Nov 4 · <a href="https://www.reuters.com/business/arm-beats-second-quarter-revenue-estimates-ai-data-center-demand-2026-11-04/">reuters.com</a> | <a href="https://newsroom.arm.com/news/arm-q2-fye27-results">newsroom.arm.com</a></p>
+<br clear="all" />
+
 <h2>Titan OS Raises $46 Million to Expand Smart TV Operating System</h2>
 <a name="story-26437"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUK_Philips_Oct-Dec_26.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Barcelona-based smart TV operating system provider Titan OS has secured $46 million in a new funding round combining equity and debt. The financing, which brings the company's total funding to $110 million, includes debt facilities from BlackRock-managed funds alongside participation from existing backers Highland Europe and Mangrove Capital Partners.</p><p>The startup offers television manufacturers an operating system built around monetization through free ad-supported streaming television channels and targeted advertising. Titan OS currently serves 30 million users and has recently expanded its hardware partnerships to include brands such as Sharp, AOC, Vestel, and Skyworth, while Philips transitioned its 2026 models entirely to the platform.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26346"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AMD reported third-quarter revenue of $13.38 billion, a 45% increase from the previous year, exceeding analyst expectations of $13.09 billion. Adjusted earnings per share reached $2.09, surpassing the $1.95 consensus. Data center revenue nearly doubled, now accounting for 64% of the company's total revenue.</p><p>Growth in the data center unit was driven by demand for server CPUs used in agentic AI applications. Conversely, the gaming and PC segments faced headwinds, with combined revenue for those segments falling 8% year-over-year, including a 40% drop in gaming revenue. AMD projects fourth-quarter revenue to be approximately $17 billion.</p>
 <p>Nov 3 · <a href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results">ir.amd.com</a> | <a href="https://news.ycombinator.com/item?id=50367125">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ballistic Ventures Seeks $490M for New Cybersecurity Funds</h2>
-<a name="story-26347"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F04%2FBallistic-Ventures-GP-team.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Regulatory filings show the firm is seeking $490 million for two new vehicles: a $360 million third flagship fund and a $130 million vehicle named Ballistic Ventures Fund B.</p><p>This capital raise occurs as AI-driven threats increase demand for advanced cybersecurity solutions. Co-founded by Ted Schlein and industry veterans, the firm has previously invested in companies such as Talon Cyber Security and Pangea.</p>
-<p>Nov 3 · <a href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/">techcrunch.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2161387/000216138726000001/xslFormDX01/primary_doc.xml">sec.gov</a></p>
-<br clear="all" />
-
-<h2>Fal Raises $1.3B at $16B Valuation</h2>
-<a name="story-26333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2024%2F05%2FCA-based-Scale-AI-Secures-1-Billion-in-Series-F-Round-Funding.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>San Francisco-based AI inference startup Fal has secured $1.3 billion in a Series F funding round led by Bessemer Venture Partners. With participation from Nvidia, Sound Ventures, and T. Rowe Price, the investment doubles the company's valuation to $16 billion from its $8 billion valuation in April.</p>
-<p>Nov 3 · <a href="https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/">techcrunch.com</a> | <a href="https://fal.ai/blog/series-e-f">fal.ai</a></p>
 <br clear="all" />
 
 ---
