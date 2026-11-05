@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-05T01:30:00+00:00</updated>
+  <updated>2026-11-05T01:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>OpenAI Adds Animated GIF Creation to ChatGPT With Images 2.6</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6::v240</id>
+    <published>2026-11-05T01:32:00+00:00</published>
+    <updated>2026-11-05T01:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn-site-assets.veed.io%2FGIF_Maker_be9920be29%2FGIF_Maker_be9920be29.png%3Fwidth%3D1280%26quality%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6">theverge.com</a> | <a href="https://openai.com/index/introducing-images-2-6/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50372945">hacker news</a></small></p><hr/><p>OpenAI has introduced animated GIF creation and editing capabilities to ChatGPT as part of its new Images 2.6 model update. Users can now generate GIFs from text prompts or uploaded photos, adjust animation speeds, and edit individual frames directly within the chatbot.</p><p>The update also brings faster image generation across ChatGPT and its API, with OpenAI reporting that users generate over 4 billion images per week. Images 2.6 is rolling out across web, desktop, and mobile applications, alongside new API controls such as GPT-Image-2.6 Flare and Sunburst.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-site-assets.veed.io%2FGIF_Maker_be9920be29%2FGIF_Maker_be9920be29.png%3Fwidth%3D1280%26quality%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 07:48 UTC | #26479</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Prototype Identifies and Patches Hundreds of Linux Kernel Vulnerabilities</title>
     <link href="https://openai.com/index/a-thousand-fewer-paths-to-root/" rel="alternate" />

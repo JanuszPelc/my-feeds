@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Adds Animated GIF Creation to ChatGPT With Images 2.6</h2>
+<a name="story-26479"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-site-assets.veed.io%2FGIF_Maker_be9920be29%2FGIF_Maker_be9920be29.png%3Fwidth%3D1280%26quality%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI has introduced animated GIF creation and editing capabilities to ChatGPT as part of its new Images 2.6 model update. Users can now generate GIFs from text prompts or uploaded photos, adjust animation speeds, and edit individual frames directly within the chatbot.</p><p>The update also brings faster image generation across ChatGPT and its API, with OpenAI reporting that users generate over 4 billion images per week. Images 2.6 is rolling out across web, desktop, and mobile applications, alongside new API controls such as GPT-Image-2.6 Flare and Sunburst.</p>
+<p>Nov 5 · <a href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6">theverge.com</a> | <a href="https://openai.com/index/introducing-images-2-6/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50372945">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenAI Prototype Identifies and Patches Hundreds of Linux Kernel Vulnerabilities</h2>
 <a name="story-26504"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnsfocusglobal.com%2Fwp-content%2Fuploads%2F2026%2F05%2F0508a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI researchers developed an autonomous pipeline to identify, validate, and patch security flaws in the Linux kernel. The prototype analyzed 2,308 candidate findings, reproduced 1,724 vulnerabilities, and generated 948 local privilege escalation exploits and their corresponding patches.</p><p>The five-stage process—comprising discovery, dynamic validation, exploitability assessment, patch generation, and human review—is powered by specialized cyber models. This research aims to reduce the operational burden on security maintainers and increase the cost for attackers to exploit software.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26287"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Flesswrong-2-0%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1%2FmirroredImages%2FHYTbakdHpxfaCowYp%2Fvm0stccz7lag3au6exit&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of the viral post claiming GPT-6 Astra can read and write model weights to improve Qwen models reveals that the experiments are far more varied and less direct than reported. While a few basic tasks involve looking at raw weights without code, the larger language model experiments actually rely on writing Python programs and running code loops rather than direct weight-space editing alone.</p><p>This conflation of distinct techniques creates a misleading impression of a unified capability across different scales. While utilizing Python scripts to analyze or modify weights is a viable approach that modern AI models handle better than older versions, grouping these programmed interventions together with direct weight inspection obscures how the results were actually achieved.</p>
 <p>Nov 3 · <a href="https://honnibal.dev/blog/astra-read-write-misleading">honnibal.dev</a> | <a href="https://rikiyat.github.io/blog/weight-space-programming/">rikiyat.github.io</a> | <a href="https://news.ycombinator.com/item?id=50351111">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI Introduces Pando Git Backend to Scale Monorepo Development</h2>
-<a name="story-26263"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWK4YvwW8AARr3H%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI has developed Pando, a new Git-compatible source control backend designed to handle the heavy concurrent demands of its monorepo and Codex-driven development. Pando achieves horizontally scalable writes and high read throughput by replacing repository-wide consistency with causal consistency and reusing packfiles across fetches.</p><p>Remaining fully compatible with standard Git clients and protocols, the system cuts median push latency by nearly five times and delivers nearly a petabyte of Git data daily. The architecture bypasses traditional bottlenecks like three-phase commit and write-ahead logs, enabling thousands of engineers and coding agents to push changes in parallel without performance degradation.</p>
-<p>Nov 3 · <a href="https://openai.com/index/scaling-git-at-openai/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50345924">hacker news</a></p>
 <br clear="all" />
 
 ---
