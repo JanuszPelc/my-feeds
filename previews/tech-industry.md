@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta to Stop Naming AI Models After Fruit</h2>
+<a name="story-26495"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6ad8f722dc67b5b4d01f61c0%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta has internally decided to move away from fruit-based codenames for its artificial intelligence models to better align its branding with its high-level AI ambitions. Previous internal names included "Watermelon," "Avocado," and "Mango."</p><p>This transition mirrors an industry trend where developers are shifting from casual, grocery-themed names toward more formal identifiers, such as Anthropic's "Mythos." Other tech companies have previously used food-related names, including OpenAI's "Garlic" and Google's "Nano Banana" image generator.</p>
+<p>Nov 5 · <a href="https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11">businessinsider.com</a></p>
+<br clear="all" />
+
+<h2>Pliant Raises $80M Series C to Integrate AI Agents into B2B Payments</h2>
+<a name="story-26492"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.thenextweb.com%2F2026%2F11%2Fpliant-cofounders-malte-rau-fabian-terner.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pliant has raised $80 million in a Series C funding round to expand its B2B payment infrastructure to support AI agents. Led by Seaya Nova and Speedinvest, the funding is intended to support the company's expansion into the US and Canada and its AI development roadmap.</p><p>The platform uses the Model Context Protocol (MCP) to allow external AI agents, such as ChatGPT and Claude, to execute payment workflows with built-in permissions and audit trails. Pliant provides commercial card issuing, foreign exchange, and spend management services to various sectors, including travel, insurance, and AI-native companies.</p>
+<p>Nov 5 · <a href="https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest">thenextweb.com</a> | <a href="https://www.getpliant.com/en/press/80-million-series-c">getpliant.com</a></p>
+<br clear="all" />
+
 <h2>Cat Wu Joins OpenAI to Lead Core Products Management</h2>
 <a name="story-26483"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cat Wu, the former head of product for Claude Code at Anthropic, has left the company to join OpenAI as product lead for core products. She announced her departure and new role on social media, highlighting OpenAI's scale and mission.</p><p>The transition occurs shortly before Anthropic's planned initial public offering. At OpenAI, Wu will manage core products, collaborating with leaders on enterprise and consumer initiatives while reporting to Tibo Sottiaux.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26426"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.briefs.co%2Fwp-content%2Fuploads%2F2026%2F07%2Fanthropic-signs-20-year-data-center-lease-terawulf-stock-sur-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Data-center developer TeraWulf has secured a credit backstop agreement with Google to support debt financing for its 20-year, $19 billion data center project with Anthropic in Hawesville, Kentucky. The 401-megawatt AI infrastructure campus is scheduled to come online in the second half of 2027.</p><p>The credit support leverages Alphabet's senior unsecured debt ratings to help TeraWulf secure competitive financing for the development. In addition to the agreement with Google, TeraWulf also executed a definitive engineering, procurement, and construction contract with Fluor to expand the project's delivery capacity.</p>
 <p>Nov 4 · <a href="https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/">reuters.com</a> | <a href="https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement">investors.terawulf.com</a></p>
-<br clear="all" />
-
-<h2>UK Government Officials Relied on Google-Commissioned Report for £400 Billion AI Economic Claim</h2>
-<a name="story-26420"><img src="https://wsrv.nl/?url=https%3A%2F%2Fknect365.imgix.net%2Fuploads%2FAI-Minister-24--d84cc58a239fa68998f90417eaf97c60.jpg%3Fauto%3Dformat%26fit%3Dmax%26dpr%3D2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>UK AI Minister Kanishka Narayan disclosed in a parliamentary answer that the government's long-cited figure of £400 billion in potential economic growth from artificial intelligence originated from a 2023 report commissioned by Google and produced by consultancy firm PF Global. Narayan stated that the government's current central estimate places the potential economic boost between £55 billion and £140 billion by 2030, with a central projection of £120 billion.</p><p>British government departments and agencies relied on the higher £400 billion figure for nearly two years across multiple administrations, despite internal awareness of lower projections. Critics and parliamentarians have raised concerns over the uncritical adoption of industry-funded research to shape public policy and economic forecasts, pointing to the risks of technology hype.</p>
-<p>Nov 4 · <a href="https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/">wired.com</a></p>
-<br clear="all" />
-
-<h2>Waymo to End Exclusive Uber Robotaxi Partnership in Austin and Atlanta</h2>
-<a name="story-26408"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Fgettyimages-2170063342.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D12.5%2C0%2C75%2C100%26w%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028, opting to transition rides to its own proprietary application. Alphabet Inc.'s Waymo Co-Chief Executive Officer Tekedra Mawakana stated that relying solely on the Uber app resulted in an inconsistent experience for customers.</p><p>The upcoming separation follows earlier adjustments to the companies' collaborations in other markets such as Phoenix. Although rides will remain accessible through Uber until the 2028 deadline, the decision underscores Waymo's strategy to secure direct customer relationships and greater service consistency as it scales its autonomous fleet operations.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

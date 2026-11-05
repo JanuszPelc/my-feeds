@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>null.audio Updates Align and Edit to Version 1.1</h2>
+<a name="story-26513"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnull-audio-align-edit-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>null.audio has released version 1.1 of its Align and Edit plugins, bringing ARA support to Ableton Live on macOS and Windows. The update is free for existing owners and requires Ableton Live 12.3 or later with Max for Live.</p><p>The Edit update allows for editing entire verses or tracks in ARA editors like Melodyne while maintaining the original track's effect chain. Align now features a beta built-in alignment engine and can manage up to eight tracks simultaneously in VocAlign by identifying doubles and harmonies via track names.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/null-audio-updates-align-and-edit-to-1-1-69622?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69622">kvraudio.com</a> | <a href="https://www.null.audio/blog/null-audio-1-1/">null.audio</a></p>
+<br clear="all" />
+
 <h2>DSTRTD Releases Imano Synthesizer for Mac and iPad</h2>
 <a name="story-26511"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-imano-mac-01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Imano is a synthesizer for Mac and iPad that utilizes Sample-Receiver synthesis. The engine employs a three-dimensional user interface where audio samples and "receivers" are positioned on a two-dimensional surface called "the Plane" to generate and warp sound.</p><p>The application supports custom audio files, built-in waveshapes, and eight LFOs for modulation. A free, feature-limited version is available, while the full version can be purchased for $29.00.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26313"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftranquilizr-g2-2024-12-27.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A.O.M. has released version 1.18.10 of its audio plugin lineup, introducing a performance monitor display across all plugins alongside important bug fixes and installer changes. The update resolves an issue in WaveLab 13 where incorrect bus configurations were sent to the Nu Compressor and Track Symbiosis plugins, and fixes a macOS bug where disabled pop-up menu items were not correctly grayed out.</p><p>Additionally, the software installation process has been streamlined into a single package for all supported plugin formats. For macOS users, installer variants are now categorized by Intel and Apple Silicon architectures, with Intel builds officially requiring AVX2 instruction set support.</p>
 <p>Nov 3 · <a href="https://www.kvraudio.com/news/a-o-m-updates-their-plugins-to-v1-18-10-69593?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69593">kvraudio.com</a></p>
-<br clear="all" />
-
-<h2>iZotope Launches Photon GPU-Accelerated Stem Separation and Denoising Tool</h2>
-<a name="story-26314"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FiZotope-Photon-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>iZotope has introduced Photon, a standalone application and ARA2 plugin designed for AI-powered stem separation and audio cleanup. Powered by 12 custom-trained machine-learning models created in collaboration with parent company Boris FX, the software runs locally on a computer's GPU rather than processing files via the cloud.</p><p>The tool is divided into Demix and Denoise categories, enabling users to split musical tracks into multiple stems, extract individual drum elements, isolate multiple speakers, and remove background noise such as room reverb, traffic, and wind. Compatible with macOS and Windows, Photon supports hosts like Pro Tools, REAPER, and Cubase, and is priced at $349.</p>
-<p>Nov 3 · <a href="https://musictech.com/news/gear/izotope-photon/">musictech.com</a> | <a href="https://izotope.com/products/photon">izotope.com</a></p>
 <br clear="all" />
 
 ---

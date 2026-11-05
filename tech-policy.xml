@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-05T01:03:00+00:00</updated>
+  <updated>2026-11-05T04:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>China Blocks SoftBank's $5.4 Billion Acquisition of ABB's Robotics Division</title>
+    <link href="https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4" rel="alternate" />
+    <id>https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4::v240</id>
+    <published>2026-11-05T04:16:00+00:00</published>
+    <updated>2026-11-05T04:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fyunpan.cdn.site.joinf.com%2F5469324759847321%2F54CjhcnpnF0.8001909569907562&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4">ft.com</a></small></p><hr/><p>China has informed SoftBank that it will not permit the $5.4 billion acquisition of ABB's robotics division to proceed. The decision is linked to China's role as the division's largest market, which includes significant manufacturing operations at a mega-factory in Pudong.</p><p>The outcome impacts SoftBank's strategic ambitions in the physical AI sector. The acquisition was intended to integrate ABB's robotics expertise with SoftBank's AI and next-generation computing capabilities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fyunpan.cdn.site.joinf.com%2F5469324759847321%2F54CjhcnpnF0.8001909569907562&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 11:47 UTC | #26494</small>]]></content>
+  </entry>
   <entry>
     <title>Democratic Congressional Control Could Intensify Regulation of AI Data Centers</title>
     <link href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/" rel="alternate" />

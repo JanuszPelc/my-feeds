@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Palo Alto Networks in Talks to Acquire Clutch Security for $500 Million</h2>
+<a name="story-26493"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFlzE4WqLv9Hg%2Ffeedshare-shrink_1280%2FB4DZZ9KYSeG0Ao-%2F0%2F1745856597555%3Fe%3D2147483647%26v%3Dbeta%26t%3Dt7Z2oDP8pT-nHdtYnUH1l_uo9UpsQ9JIPLo99Zj5adA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Palo Alto Networks is negotiating to acquire Israeli startup Clutch Security for approximately $500 million. The company develops software that tracks passwords used by AI agents to secure non-human identities.</p><p>The acquisition would expand Palo Alto Networks' ability to counter AI-driven threats. Clutch Security is a three-year-old startup that recently raised $20 million in Series A funding.</p>
+<p>Nov 5 · <a href="https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Goldman Sachs and Apollo in Talks to Sell Portions of SpaceX Chip Financing</h2>
 <a name="story-26484"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F83b86a38-9a91-480d-9fa1-bb7224557cf3.png%2Fw%3D1024%2Cq%3D82%2Cf%3Dwebp%2Cfit%3Dinside%2Cno_enlarge%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Goldman Sachs Group Inc. and Apollo Global Management Inc. are negotiating with Wall Street investors to sell portions of a roughly $40 billion financing agreement arranged for SpaceX's artificial intelligence chips. The financial institutions are asking select investors to commit up to $500 million each ahead of a broader syndication process.</p><p>The underlying $40 billion master finance lease is structured to support SpaceX's infrastructure expansion, representing a massive debt commitment for GPU equipment. By syndicating parts of the package, the organizers are working to distribute the exposure across a wider pool of institutional participants.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26356"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQG0SkjQsaC4Wg%2Ffeedshare-shrink_1280%2FB4DZeSKIa0HMAk-%2F0%2F1750503822723%3Fe%3D2147483647%26v%3Dbeta%26t%3DnQ3lKfxBf5lV-yd4UoUPYUtexFAEB4ButlKXAIb-ovI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Traversal has raised $120 million in Series B funding at a $1 billion valuation to expand its AI-driven site reliability engineering (SRE) platform. The round was co-led by Kleiner Perkins, Redpoint, and Khosla Ventures.</p><p>The company provides AI agents that help enterprises, such as American Express and PepsiCo, troubleshoot software outages and manage production environments. Traversal intends to use the funds to advance "self-driving production" systems and scale its research, engineering, and go-to-market teams.</p>
 <p>Nov 3 · <a href="https://www.forbes.com/sites/the-prompt/2026/11/03/the-billion-dollar-business-of-fixing-what-ai-builds/">forbes.com</a> | <a href="https://x.com/traversal_ai/status/2117665706355433963">x.com</a></p>
-<br clear="all" />
-
-<h2>Block Raises Full-Year Profit Outlook on Strong Q3 Earnings</h2>
-<a name="story-26354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FXYZ-RESULTS%2Fgdvzaeewkpw%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Block reported third-quarter revenue of $6.7 billion, a 10% year-over-year increase that exceeded market expectations. The company raised its full-year gross profit outlook, supported by a 27% increase in Cash App's gross profit to $2.07 billion.</p><p>Performance in the Cash App unit and steady consumer spending fueled the results. Block shares rose more than 5% in after-hours trading following the announcement.</p>
-<p>Nov 3 · <a href="https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/">reuters.com</a> | <a href="https://s27.q4cdn.com/984876518/files/content_files/Q3-2026-Earnings-Shareholder-Letter.pdf">s27.q4cdn.com</a></p>
 <br clear="all" />
 
 ---
