@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-05T04:56:00+00:00</updated>
+  <updated>2026-11-05T07:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>UK Government Officials Relied on Google-Commissioned Report for £400 Billion AI Economic Claim</title>
+    <link href="https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/" rel="alternate" />
+    <id>https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/::v240</id>
+    <published>2026-11-05T07:37:00+00:00</published>
+    <updated>2026-11-05T07:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fknect365.imgix.net%2Fuploads%2FAI-Minister-24--d84cc58a239fa68998f90417eaf97c60.jpg%3Fauto%3Dformat%26fit%3Dmax%26dpr%3D2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/">wired.com</a></small></p><hr/><p>UK AI Minister Kanishka Narayan disclosed in a parliamentary answer that the government's long-cited figure of £400 billion in potential economic growth from artificial intelligence originated from a 2023 report commissioned by Google and produced by consultancy firm PF Global. Narayan stated that the government's current central estimate places the potential economic boost between £55 billion and £140 billion by 2030, with a central projection of £120 billion.</p><p>British government departments and agencies relied on the higher £400 billion figure for nearly two years across multiple administrations, despite internal awareness of lower projections. Critics and parliamentarians have raised concerns over the uncritical adoption of industry-funded research to shape public policy and economic forecasts, pointing to the risks of technology hype.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fknect365.imgix.net%2Fuploads%2FAI-Minister-24--d84cc58a239fa68998f90417eaf97c60.jpg%3Fauto%3Dformat%26fit%3Dmax%26dpr%3D2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 22:19 UTC | #26420 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Soatok Examines History of Cryptography Conspiracy Theories and NSA Standards</title>
     <link href="https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/" rel="alternate" />
