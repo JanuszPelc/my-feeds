@@ -3,9 +3,27 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-05T16:02:00+00:00</updated>
+  <updated>2026-11-05T20:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Salon Ceases Publication After 31 Years</title>
+    <link href="https://www.salon.com/2026/11/05/goodbye-from-salon/" rel="alternate" />
+    <id>https://www.salon.com/2026/11/05/goodbye-from-salon/::v240</id>
+    <published>2026-11-05T20:04:00+00:00</published>
+    <updated>2026-11-05T20:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.template.net%2F370269%2FSalon-Closure-Notice-Template-edit-online-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.salon.com/2026/11/05/goodbye-from-salon/">salon.com</a> | <a href="https://news.ycombinator.com/item?id=50383739">hacker news</a></small></p><hr/><p>Online news and culture magazine Salon has announced that it is ceasing publication after 31 years, citing the unsustainable business realities of independent digital journalism. Launched in November 1995, the site was an early pioneer of internet publishing, known for its distinct voice combining politics, criticism, and cultural commentary.</p><p>The closure marks the end of an influential era for digital media, during which Salon helped shape online journalism and provided a platform for unconventional perspectives. Management expressed gratitude to the founders, journalists, staff, and readers who contributed to the publication's legacy over three decades.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.template.net%2F370269%2FSalon-Closure-Notice-Template-edit-online-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 22:48 UTC | #26619</small>]]></content>
+  </entry>
+  <entry>
+    <title>Reddit User Demonstrates Setup to Apply Nvidia DLSS 5 to Console Grand Theft Auto VI Footage</title>
+    <link href="https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/" rel="alternate" />
+    <id>https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/::v240</id>
+    <published>2026-11-05T17:43:00+00:00</published>
+    <updated>2026-11-05T17:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fgta6dlss-1152x648.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/">arstechnica.com</a></small></p><hr/><p>A Reddit user has outlined a setup that routes PlayStation 5 gameplay through a capture card and a PC running the open-source Veyra tool, applying Nvidia's DLSS 5 neural rendering and frame generation to upscale console video output.</p><p>By testing the setup on the Grand Theft Auto VI extended look trailer, the experiment successfully increased the source frame rate from 30 fps to 90 fps while sharpening background elements and lighting, though it also introduced visual artifacts and a slightly washed-out appearance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fgta6dlss-1152x648.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 22:47 UTC | #26595</small>]]></content>
+  </entry>
   <entry>
     <title>Motorola Announces motorola signature 27</title>
     <link href="https://motorolanews.com/motorola-signature-27-2/" rel="alternate" />

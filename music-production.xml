@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-05T17:16:00+00:00</updated>
+  <updated>2026-11-05T17:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>ElevenLabs Enables Direct Publishing of AI-Generated Music to SoundCloud</title>
+    <link href="https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/::v240</id>
+    <published>2026-11-05T17:18:00+00:00</published>
+    <updated>2026-11-05T17:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FElevenLabs-Eleven-Music-Royalty-Free-Commercially-Safe-2.thumb.jpg.74ad327298f506a7eed35520e56ff102.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/">techcrunch.com</a></small></p><hr/><p>Users of the ElevenMusic platform can now publish AI-generated tracks directly to SoundCloud through a new integration. As part of the partnership, SoundCloud Artist Pro subscribers will receive three months of ElevenMusic Pro, which includes features such as stem file splitting and increased monthly song generation limits.</p><p>The integration arrives as ElevenLabs reports over 25 million tracks created via its models. While SoundCloud is facilitating direct AI music distribution, other major streaming platforms like Deezer, Spotify, and YouTube have primarily focused on labeling or filtering AI-generated content.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FElevenLabs-Eleven-Music-Royalty-Free-Commercially-Safe-2.thumb.jpg.74ad327298f506a7eed35520e56ff102.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 22:43 UTC | #26561</small>]]></content>
+  </entry>
   <entry>
     <title>JBL Professional Introduces 3 Series MkIII Studio Monitors</title>
     <link href="https://musictech.com/news/gear/jbl-3-series-mkiii/" rel="alternate" />

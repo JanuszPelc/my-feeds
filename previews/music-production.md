@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>ElevenLabs Enables Direct Publishing of AI-Generated Music to SoundCloud</h2>
+<a name="story-26561"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FElevenLabs-Eleven-Music-Royalty-Free-Commercially-Safe-2.thumb.jpg.74ad327298f506a7eed35520e56ff102.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Users of the ElevenMusic platform can now publish AI-generated tracks directly to SoundCloud through a new integration. As part of the partnership, SoundCloud Artist Pro subscribers will receive three months of ElevenMusic Pro, which includes features such as stem file splitting and increased monthly song generation limits.</p><p>The integration arrives as ElevenLabs reports over 25 million tracks created via its models. While SoundCloud is facilitating direct AI music distribution, other major streaming platforms like Deezer, Spotify, and YouTube have primarily focused on labeling or filtering AI-generated content.</p>
+<p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>JBL Professional Introduces 3 Series MkIII Studio Monitors</h2>
 <a name="story-26582"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJBL-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>JBL Professional has announced the launch of its 3 Series MkIII line of powered studio monitors, featuring an extensive redesign of the popular budget-friendly platform. The new lineup includes the 305P MkIII, 306P MkIII, and 308P MkIII two-way monitors with driver sizes ranging from 5 to 8 inches, along with the matching 310S MkIII powered subwoofer.</p><p>This generation marks the first time the series utilizes Class D amplification, which delivers higher output volume, increased headroom, and reduced functional noise. The monitors also feature rebuilt tweeters and woofers, updated Image Control Waveguides, integrated mounting provisions, and four one-touch room controls providing 81 corrective EQ combinations without requiring external software.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26530"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fblack-friday-sale-badges-discount-labels-collection-variety-promotional-badges-tags-black-friday-featuring-432610179.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>IRQ inc. is running a Black Friday sale through December 4, 2026, offering its Adeder Limiter and Adeder Enhancer plugins at a 40% discount. Individual plugins are priced at $23.40, while the two-plugin bundle is available for $41.40.</p><p>The Adeder Limiter, designed by musician Kotobuki Hikaru, features a wide input gain range and a fixed 4,096-sample look-ahead. The Adeder Enhancer focuses on high-frequency enhancement for vocals and narration and is compatible with macOS and Windows in AU, VST3, and AAX formats.</p>
 <p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/adeder-limiter-and-enhancer/">bedroomproducersblog.com</a> | <a href="https://irqinc.com/en/products/">irqinc.com</a></p>
-<br clear="all" />
-
-<h2>SudoMetalStudio Releases SMS-Anville Sampler</h2>
-<a name="story-26529"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsampler-arena-tab4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SudoMetalStudio has released SMS-Anville Sampler, a free, open-source plugin for Windows and Linux designed for real-time audio chopping. The sampler allows users to record incoming audio directly onto MIDI pads, enabling a live workflow for slicing audio into playable segments.</p><p>The plugin includes features for pitch and speed adjustment, envelope shaping, and a "Dirty" mode that simulates 12-bit resolution. The current v1.1.0 release provides 32-bit floating-point sample storage up to 96 kHz and utilizes dynamic memory allocation to allow for recordings longer than eight minutes.</p>
-<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/sms-anville-sampler/">bedroomproducersblog.com</a> | <a href="https://github.com/sirsipe/SMS-Plugins">github.com</a></p>
 <br clear="all" />
 
 ---

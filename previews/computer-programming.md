@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Kagi Search Updates Bring Free Trial Searches and Android Redesign</h2>
+<a name="story-26620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fus.v-cdn.net%2F6036147%2Fuploads%2F3SRL2KVBUUEG%2Fkagi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kagi Search has updated its platform to allow non-registered users to perform up to 50 web searches without creating an account. The November 2026 release also introduces a redesigned home screen, rebuilt voice search, and new widgets for its Android application, alongside various performance improvements and bug fixes.</p><p>Additional updates span Kagi Assistant, Kagi News, and Kagi Translate, featuring improved voice input controls, clearer temporary thread indicators, and expanded language support. The release follows Kagi News being featured on Google Play and coincides with company commentary regarding school software policies.</p>
+<p>Nov 5 · <a href="https://kagi.com/changelog">kagi.com</a> | <a href="https://news.ycombinator.com/item?id=50383740">hacker news</a></p>
+<br clear="all" />
+
 <h2>David G. Andersen Optimizes Rust Anagram Solver to 11 Nanoseconds Per Word</h2>
 <a name="story-26612"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.exercism.org%2Ftracks%2Frust%2Fexercises%2Fanagram%2Fsolutions%2Fbotusername-1740774769.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software engineer David G. Andersen has detailed an optimization process for an anagram solver written in Rust, reducing dictionary generation time to 1.96 milliseconds, or 10.9 nanoseconds per word for a Scrabble dictionary. The project began as a tool to solve a Word Ladder game variant involving anagram mutations.</p><p>The performance gains were achieved through a series of iterative improvements, including eliminating dynamic vector allocations with flat arrays, packing 4-bit letter counts into a u128, switching to a faster hash map, implementing corpus-tuned 64-bit Gödel numbering using custom letter primes, and applying instruction-level parallelism with branchless auto-vectorization.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26423"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2FNVIDIA-RTX-Spark-full-specs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dual-booting Linux on Nvidia RTX Spark laptops, such as the MSI Prestige N16 Flip AI Plus, is feasible using Nvidia's open kernel driver, but native installations suffer from a severe GPU clock speed restriction when plugged into wall power. While battery power allows near-normal performance, connecting to an AC outlet locks the GPU clock around 780 MHz instead of the normal 2 GHz, drastically reducing token generation speeds for large language models.</p><p>This performance bottleneck is caused by a lack of Linux support for the Nvidia Platform Controllers and Framework, a Windows-only firmware component that manages power distribution between the CPU and GPU via an encrypted power table. Until Nvidia ports this power management logic to its Linux driver, developers relying on Linux-first AI tooling can use the Windows Subsystem for Linux (WSL) as a practical workaround to maintain full GPU boost performance.</p>
 <p>Nov 4 · <a href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop">mindstudio.ai</a> | <a href="https://news.ycombinator.com/item?id=50362905">hacker news</a></p>
-<br clear="all" />
-
-<h2>Mr.doob Releases Codevember 2026 Fold Simulation</h2>
-<a name="story-26402"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjklintan.github.io%2Fimg%2Fprojects%2FclothDemo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mr.doob has released "Fold" as his first entry for Codevember 2026, featuring an interactive Three.js scene where a continuous sheet of translucent plastic pours down and folds onto a studio floor.</p><p>Users can interact with the simulation by dragging the cloth or pressing the spacebar to pause the movement, showcasing real-time physics and rendering performance.</p>
-<p>Nov 4 · <a href="https://mrdoob.github.io/codevember-2026/01/">mrdoob.github.io</a> | <a href="https://news.ycombinator.com/item?id=50361268">hacker news</a></p>
 <br clear="all" />
 
 ---

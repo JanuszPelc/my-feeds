@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Salon Ceases Publication After 31 Years</h2>
+<a name="story-26619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.template.net%2F370269%2FSalon-Closure-Notice-Template-edit-online-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Online news and culture magazine Salon has announced that it is ceasing publication after 31 years, citing the unsustainable business realities of independent digital journalism. Launched in November 1995, the site was an early pioneer of internet publishing, known for its distinct voice combining politics, criticism, and cultural commentary.</p><p>The closure marks the end of an influential era for digital media, during which Salon helped shape online journalism and provided a platform for unconventional perspectives. Management expressed gratitude to the founders, journalists, staff, and readers who contributed to the publication's legacy over three decades.</p>
+<p>Nov 5 · <a href="https://www.salon.com/2026/11/05/goodbye-from-salon/">salon.com</a> | <a href="https://news.ycombinator.com/item?id=50383739">hacker news</a></p>
+<br clear="all" />
+
+<h2>Reddit User Demonstrates Setup to Apply Nvidia DLSS 5 to Console Grand Theft Auto VI Footage</h2>
+<a name="story-26595"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fgta6dlss-1152x648.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A Reddit user has outlined a setup that routes PlayStation 5 gameplay through a capture card and a PC running the open-source Veyra tool, applying Nvidia's DLSS 5 neural rendering and frame generation to upscale console video output.</p><p>By testing the setup on the Grand Theft Auto VI extended look trailer, the experiment successfully increased the source frame rate from 30 fps to 90 fps while sharpening background elements and lighting, though it also introduced visual artifacts and a slightly washed-out appearance.</p>
+<p>Nov 5 · <a href="https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/">arstechnica.com</a></p>
+<br clear="all" />
+
 <h2>Motorola Announces motorola signature 27</h2>
 <a name="story-26608"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.extremetech.com%2Fimagery%2Fcontent-types%2F00cdIz3w68zzcixocVRr6cx%2Fhero-image.fill.size_1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The motorola signature 27 is a flagship smartphone from Motorola featuring a Snapdragon 8 Elite Extreme Gen 6 processor and an Extreme AMOLED Duo Tandem display. The device is the first non-Pixel smartphone to support GrapheneOS.</p><p>The phone features a 7000mAh battery with 90W wired and 50W wireless charging, a multi-lens camera system, and AI tools including Gemini Intelligence and Motorola Qira. It is built with a ceramic and glass construction with IP68 and IP69 ratings and has a starting MSRP of $1,599.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26329"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAIDiscover-ProductDemo-1440x810-1.gif%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Netflix is rolling out an "AI Discover" tab on supported TVs, allowing users to find content through mood-based themes and personalized preferences. Initially launching to English-language users in the U.S., the feature uses a new intelligence layer to suggest shows and movies based on factors such as time constraints, trending content, and specific moods like "something light" or "family movie night."</p><p>The tab serves as a "test kitchen" for Netflix to experiment with new discovery methods before integrating them into the main experience. Users can fine-tune their suggestions via a "Tune Your Recommendations" button, which allows them to save or exclude specific titles to help the AI learn their viewing tastes in real-time.</p>
 <p>Nov 3 · <a href="https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/">techcrunch.com</a> | <a href="https://about.netflix.com/en/news/introducing-ai-discover">about.netflix.com</a></p>
-<br clear="all" />
-
-<h2>Former Xbox COO Helen Chiang Addresses Speculation Regarding Her Departure</h2>
-<a name="story-26330"><img src="https://wsrv.nl/?url=https%3A%2F%2Fexputer.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fxbox_showcase_compressed.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Former Xbox Chief Operating Officer Helen Chiang has issued a statement via LinkedIn denying rumors that her recent departure from Microsoft was due to policy violations. She explicitly rejected allegations that she was fired for leaking confidential information, discrimination, harassment, or fraudulent activities.</p><p>The post follows reports suggesting her exit from the newly created COO role was disciplinary. While Chiang raised concerns regarding how corporate standards were applied in her case, she did not disclose the specific reasons for her leaving. Former Xbox Game Studios VP Shannon Loftis publicly supported Chiang and criticized current Xbox leadership.</p>
-<p>Nov 3 · <a href="https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure">gamedeveloper.com</a> | <a href="https://www.linkedin.com/posts/helenchiang_clarity-is-kindness-there-has-been-some-share-7523070825940467712-Rzit/">linkedin.com</a></p>
-<br clear="all" />
-
-<h2>Rami Ismail Discusses Lessons Learned From Returning to Game Development</h2>
-<a name="story-26322"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblta886a5ba7def784f%2F6ae9fc8325092d15336bec97%2Framiadifeatured.jpg%3Fwidth%3D1280%26auto%3Dwebp%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Acclaimed indie developer Rami Ismail is returning to active game development with the turn-based strategy game Australia Did It: End-of-the-World Railway Defense Business, developed alongside publisher Mystic Forge and studio Aesthetician Labs. In interviews, Ismail noted that the current industry landscape has grown significantly more brutal and risk-averse since his time co-owning Vlambeer.</p><p>To adapt to modern economic pressures and avoid traditional studio instability, Ismail adopted a flexible, project-based team structure rather than maintaining a permanent company. Designing a strategy game also required shifting away from his past focus on rapid, action-oriented prototyping toward long-term balance, leading to the creation of custom progression systems to help players navigate complex tactical choices.</p>
-<p>Nov 3 · <a href="https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development">gamedeveloper.com</a></p>
 <br clear="all" />
 
 ---
