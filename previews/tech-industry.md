@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Reaches First Content Licensing Deal with Associated Press for Election Coverage</h2>
+<p>Anthropic entered into a content and data licensing agreement with the Associated Press ahead of the midterm elections, marking the artificial intelligence firm's first publisher partnership. Through the arrangement, users querying Claude received up-to-the-minute election results and polling data provided by and attributed to the AP.</p><p>The partnership represents a strategic shift for Anthropic, which previously relied on public web scraping under a fair-use stance, unlike competitors such as OpenAI that have pursued numerous publisher deals. Financial terms and the duration of the agreement were not disclosed, and both organizations declined to comment on the record.</p>
+<p>Nov 5 · <a href="https://www.adweek.com/media/anthropic-licensing-deal-ap-election/">adweek.com</a></p>
+<br clear="all" />
+
 <h2>Isomorphic Labs in Talks to Raise $5 Billion at $50 Billion Valuation</h2>
 <a name="story-26477"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.resultsense.com%2Fassets%2Fimg%2F2026-05-13-sovereign-ai-isomorphic-labs-investment-FK1L_H7v_xYSVM.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Inc.'s Isomorphic Labs is negotiating a funding round of approximately $5 billion at a valuation of around $50 billion. The Google DeepMind spinout develops artificial intelligence technologies designed to accelerate and transform drug discovery pipelines.</p><p>The potential financing follows a previous funding round earlier in the year, when the startup secured $2.1 billion in May. The ongoing discussions highlight continued large-scale capital deployment into AI-driven biopharmaceutical research.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26403"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F3%2F23%2F47586172-17742850301950045_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Uber reported its third-quarter financial results, showing a 10 percent year-over-year increase in revenue to $14.8 billion and a 20 percent rise in gross bookings to $59.8 billion. Total trips completed during the quarter reached 4 billion, representing a 16 percent increase compared to the same period last year.</p><p>Alongside the financial figures, the company outlined its plans to scale its autonomous vehicle fleet, aiming to deploy more than 2,000 robotaxis by 2027. Despite the expansion, Uber's autonomous fleet timeline remains behind competitor Waymo, as the ride-hailing company continues to integrate autonomous technology into its broader transportation network.</p>
 <p>Nov 4 · <a href="https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af">ft.com</a> | <a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx">investor.uber.com</a></p>
-<br clear="all" />
-
-<h2>HP Inc. Appoints Emma Walmsley as Chief Executive Officer</h2>
-<a name="story-26401"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F1074405270%2Fphoto%2Femma-walmsley-chief-executive-officer-of-glaxosmithkline-plc-poses-for-a-photograph-following.jpg%3Fs%3D612x612%26w%3Dgi%26k%3D20%26c%3DTyrWskeB2zSSs8OFfsw11y3ujkjfWmf9d0If2K4ynag%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>HP Inc. has appointed former GSK chief executive Emma Walmsley as its new chief executive officer, effective January 4, 2027. She permanently fills the role following the departure of Enrique Lores earlier in the year and the subsequent tenure of interim leadership.</p><p>Walmsley brings extensive executive experience from her time leading GSK and her service on Microsoft's board of directors. Her appointment comes as the PC maker navigates market challenges, including memory-chip shortages and rising hardware prices.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search">bloomberg.com</a> | <a href="https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Appoints-Emma-Walmsley-as-Chief-Executive-Officer/default.aspx">investor.hp.com</a></p>
 <br clear="all" />
 
 ---
