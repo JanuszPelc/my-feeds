@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Musical Arts School Releases Live Grand Light Free Steinway D Piano Library for Kontakt Player</h2>
+<a name="story-26591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2F8Dio-Launches-Free-Plucked-Grand-Piano-Library-for-Kontakt-770x403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Musical Arts School has released Live Grand Light, a free Steinway Model D virtual piano library for Kontakt 8 Player. The instrument was sampled at River Studios in Cologne using a custom-built robot to improve sampling consistency and accuracy. The free version includes the Una Corda preset and a ten-minute trial of all presets available in the paid Live Grand Modern D version.</p><p>The 15 GB library features 20 velocity layers, 55 dB of dynamic range, and AI-assisted sample optimization for resonance adjustments and error correction. While the current release focuses on the player's perspective with a single microphone position, additional microphone positions are planned for a future release.</p>
+<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/musical-arts-school-live-grand-light/">bedroomproducersblog.com</a> | <a href="https://www.musical-arts-school.com/piano-vst-plugins/live-grand-modern-d.htm">musical-arts-school.com</a></p>
+<br clear="all" />
+
 <h2>Tracktion Waveform 14.1 Introduces AI Plugin Generation and Mix Analysis</h2>
 <a name="story-26592"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixdownmag.com.au%2Fwp-content%2Fuploads%2F2026%2F06%2FScreen-Shot-2026-06-29-at-2.36.07-pm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tracktion has released version 14.1 of its Waveform digital audio workstation, which includes updates for both the Free and Pro editions. The update introduces AI-driven features such as plugin generation and mix analysis, alongside a completely rebuilt export and rendering window designed for improved reliability and performance.</p><p>Users of Waveform Free now receive the Attracktive instrument player for free, while the Pro version gains advanced capabilities like AI-assisted mix analysis for loudness and spectral balance. The update also expands AI assistant flexibility by allowing local model integration via LM Studio or Ollama and provides improved interface customization through new light and dark themes.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26532"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fflite.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Wavea has released Flite v2.2, introducing full pack building capabilities that allow users to export presets, samples, and artwork as single files. The update also includes a new UI Editor and new live performance controls, such as a Triangle, XY Pad, and Joystick.</p><p>Additional features include new waveforms and filters like Sharkfin, FoldTri, Notch, Morph, Phase, and Peak. The sampler has been upgraded with multi-zone editing, round robins, and improved import support for SFZ and Decent Sampler formats.</p>
 <p>Nov 5 · <a href="https://www.kvraudio.com/news/wavea-updates-flite-to-v2-2-69637?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69637">kvraudio.com</a> | <a href="https://www.wavea.co/">wavea.co</a></p>
-<br clear="all" />
-
-<h2>Relab Development Updates LX480 Dual-Engine Reverb to v4.1.1 and LX480 Essentials to v2.3.0</h2>
-<a name="story-26533"><img src="https://wsrv.nl/?url=https%3A%2F%2Frelabdevelopment.com%2Fwp-content%2Fuploads%2F2022%2F10%2F480-Early-Refelctions.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Relab Development has released software updates for both its LX480 Dual-Engine Reverb plugin, bringing it to version 4.1.1, and its LX480 Essentials plugin, updating it to version 2.3.0. The updates introduce new preset managers, dark mode support, and freely resizable interfaces alongside workflow enhancements and various bug fixes.</p><p>Version 4.1.1 of the Dual-Engine Reverb fixes mono input processing and centers the dry signal, while addressing previous latency reporting issues and DAW compatibility errors. Meanwhile, LX480 Essentials version 2.3.0 adds a compact preset manager, toolbar bypass button, and parameter tooltips, while resolving compatibility problems on Apple M4 Macs and fixing phase shifts during fully dry output.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/relab-development-updates-lx480-dual-engine-reverb-to-v4-1-1-and-lx480-essentials-to-v2-3-0-69636?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69636">kvraudio.com</a> | <a href="https://relabdevelopment.com/downloads/lx480-dual-engine-reverb-4-1-1-changelog/">relabdevelopment.com</a></p>
 <br clear="all" />
 
 ---

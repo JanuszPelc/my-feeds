@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>ACME Inc. Seeks Senior TypeScript Software Line Specialist</h2>
+<a name="story-26614"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-us.googleusercontent.com%2FiT5HS1uPlY2T0YuT9vj6o6Vyi2_Lh2fH94V2j3NtZqVk30dJlnyRPkmkWYBDp7qkC2nuJmlVRBb1sw97QA12zjfBqsF_Qfw4LuSFm9KSZV2-zyRkdiVYeyeoGOpjY2Dgukb-RUX86rbbdi-eQq3ZZhs&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ACME Inc., a startup providing financial monitoring for small businesses, is recruiting a senior software line specialist with TypeScript expertise. This role is designed to address complex technical issues that AI agents cannot resolve through standard prompting, specifically focusing on errors that cause automated loops.</p><p>Responsibilities include performing deep-dive debugging through code inspection, log analysis, and database queries to resolve issues that disrupt agent-driven workflows. The position is structured as a single-threaded role dedicated to issue resolution and writing postmortems for AI training, rather than feature development.</p>
+<p>Nov 5 · <a href="https://lovro-bikic.github.io/software-line-specialist/">lovro-bikic.github.io</a> | <a href="https://lobste.rs/s/yoywed/software_line_specialist">lobsters</a></p>
+<br clear="all" />
+
 <h2>Apple Enables Developers to Offer Retention Messages and Discounts During Subscription Cancellation</h2>
 <a name="story-26544"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.revenuecat.com%2Fdocs%2Fassets%2Fimages%2Fretention-messaging-api-promotional-2-7bda5a71e94b605ce7df2b2c89068df2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple's new "Retention Messaging" feature allows developers to present personalized messages and special offers to users as they attempt to cancel an auto-renewable subscription. Configured via App Store Connect, developers can provide up to 10 unique messages per app, which may include text, images, or specific discounts intended to encourage users to maintain their subscriptions.</p><p>Unlike Apple's 2024 "Win-Back Offers," which target former subscribers after their service has ended, this tool reaches users during the active cancellation flow. Developers must request access to the Retention Messaging API to implement these features.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26492"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.thenextweb.com%2F2026%2F11%2Fpliant-cofounders-malte-rau-fabian-terner.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pliant has raised $80 million in a Series C funding round to expand its B2B payment infrastructure to support AI agents. Led by Seaya Nova and Speedinvest, the funding is intended to support the company's expansion into the US and Canada and its AI development roadmap.</p><p>The platform uses the Model Context Protocol (MCP) to allow external AI agents, such as ChatGPT and Claude, to execute payment workflows with built-in permissions and audit trails. Pliant provides commercial card issuing, foreign exchange, and spend management services to various sectors, including travel, insurance, and AI-native companies.</p>
 <p>Nov 5 · <a href="https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest">thenextweb.com</a> | <a href="https://www.getpliant.com/en/press/80-million-series-c">getpliant.com</a></p>
-<br clear="all" />
-
-<h2>Cat Wu Joins OpenAI to Lead Core Products Management</h2>
-<a name="story-26483"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cat Wu, the former head of product for Claude Code at Anthropic, has left the company to join OpenAI as product lead for core products. She announced her departure and new role on social media, highlighting OpenAI's scale and mission.</p><p>The transition occurs shortly before Anthropic's planned initial public offering. At OpenAI, Wu will manage core products, collaborating with leaders on enterprise and consumer initiatives while reporting to Tibo Sottiaux.</p>
-<p>Nov 5 · <a href="https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11">businessinsider.com</a> | <a href="https://x.com/_catwu/status/2118137612577968402">x.com</a> | <a href="https://news.ycombinator.com/item?id=50373682">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-05T16:14:00+00:00</updated>
+  <updated>2026-11-05T16:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Musical Arts School Releases Live Grand Light Free Steinway D Piano Library for Kontakt Player</title>
+    <link href="https://bedroomproducersblog.com/2026/11/05/musical-arts-school-live-grand-light/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/05/musical-arts-school-live-grand-light/::v240</id>
+    <published>2026-11-05T16:23:00+00:00</published>
+    <updated>2026-11-05T16:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2F8Dio-Launches-Free-Plucked-Grand-Piano-Library-for-Kontakt-770x403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/05/musical-arts-school-live-grand-light/">bedroomproducersblog.com</a> | <a href="https://www.musical-arts-school.com/piano-vst-plugins/live-grand-modern-d.htm">musical-arts-school.com</a></small></p><hr/><p>Musical Arts School has released Live Grand Light, a free Steinway Model D virtual piano library for Kontakt 8 Player. The instrument was sampled at River Studios in Cologne using a custom-built robot to improve sampling consistency and accuracy. The free version includes the Una Corda preset and a ten-minute trial of all presets available in the paid Live Grand Modern D version.</p><p>The 15 GB library features 20 velocity layers, 55 dB of dynamic range, and AI-assisted sample optimization for resonance adjustments and error correction. While the current release focuses on the player's perspective with a single microphone position, additional microphone positions are planned for a future release.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2F8Dio-Launches-Free-Plucked-Grand-Piano-Library-for-Kontakt-770x403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 21:44 UTC | #26591</small>]]></content>
+  </entry>
   <entry>
     <title>Tracktion Waveform 14.1 Introduces AI Plugin Generation and Mix Analysis</title>
     <link href="https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/" rel="alternate" />
