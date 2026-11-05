@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Data Center Shares Fall as Investors Anticipate Slower AI Buildout Following Democratic Congressional Wins</h2>
+<a name="story-26476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F694940094001%2Fb0c689b2-e783-4607-b960-b4327aad016b%2F26b4abac-3c52-421b-9771-98b4d5a16ce8%2F1280x720%2Fmatch%2F896%2F500%2Fimage.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Data center and AI infrastructure stocks declined as investors anticipated a slower AI buildout following Democratic victories in the U.S. midterm elections. While broader Wall Street indices closed higher due to eased political uncertainty, the data center sector faced significant selling pressure.</p><p>Significant declines included Hut 8 (-23%), IREN (-11%), Core Scientific (-10%), and Applied Digital (-7%). The selloff reflects investor concerns that a Democratic-controlled Congress may introduce policies that could hamper the rapid expansion of AI-related computing infrastructure.</p>
+<p>Nov 5 · <a href="https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Meta Raises €9 Billion in Debut Euro Bond Sale After Record €53 Billion Demand</h2>
 <a name="story-26463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-11-04%2Fmosph2ne%2Fmeta-muse-ad-041126-01.jpg%3Fw%3D1200%26ar%3D40%3A21%26auto%3Dformat%2Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dhttps%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-08-19%2Fv2z58b9u%2Fbdnews24_default_social_strip.jpg%26overlay_position%3Dbottom%26overlay_width%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta Platforms raised €9 billion in its first euro-denominated bond sale after attracting a record €53 billion of investor orders. The company paid about 1.4 times the risk premium Alphabet offered on comparable bonds earlier in the week.</p><p>The six-part offering followed Meta’s $15 billion US bond sale and included maturities ranging from just over four years to more than 38 years. The debt is intended to help finance the company’s large-scale artificial-intelligence infrastructure investments.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2025%2F12%2Farticle-3952-1765793333.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SemiAnalysis reports that SpaceX is targeting approximately 13 gigawatts of AI datacenter capacity by the end of 2027, with 3.6 gigawatts already under construction across multiple sites. This infrastructure expansion aims to build capacity at a pace outpacing historical deployments by major technology firms.</p><p>The rapid deployment strategy relies on behind-the-meter power solutions, large-scale battery energy storage systems, and the repurposing of existing facilities such as Texas rocket campuses. Analysts indicate that these integrated power and construction methods position SpaceX to operate a major commercial AI cloud infrastructure.</p>
 <p>Nov 4 · <a href="https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will">newsletter.semianalysis.com</a> | <a href="https://news.ycombinator.com/item?id=50360345">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google Announces $15 Billion Investment for Malaysia Data Center Expansion</h2>
-<a name="story-26387"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blackridgeresearch.com%2Fuploads%2FIMG_525709.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has announced a $15 billion investment in Malaysia across 2027 and 2028 to expand its data center and cloud infrastructure. The funding supports the construction of new data center campuses in Selangor and Negeri Sembilan, building upon the company's existing operations at the Elmina Business Park.</p><p>The expanded digital infrastructure initiative also allocates resources toward clean energy, water security measures, and workforce upskilling programs. This commitment follows Google's initial $2 billion investment in the country and aims to strengthen Malaysia's position as a regional hub for artificial intelligence and cloud computing.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion">bloomberg.com</a> | <a href="https://blog.google/intl/en-my/company-news/inside-google/google-investment-malaysia-digital-infrastructure-november-2026/">blog.google</a></p>
 <br clear="all" />
 
 ---
