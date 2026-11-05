@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Cat Wu Joins OpenAI to Lead Core Products Management</h2>
+<a name="story-26483"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cat Wu, the former head of product for Claude Code at Anthropic, has left the company to join OpenAI as product lead for core products. She announced her departure and new role on social media, highlighting OpenAI's scale and mission.</p><p>The transition occurs shortly before Anthropic's planned initial public offering. At OpenAI, Wu will manage core products, collaborating with leaders on enterprise and consumer initiatives while reporting to Tibo Sottiaux.</p>
+<p>Nov 5 · <a href="https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11">businessinsider.com</a> | <a href="https://x.com/_catwu/status/2118137612577968402">x.com</a> | <a href="https://news.ycombinator.com/item?id=50373682">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic Reaches First Content Licensing Deal with Associated Press for Election Coverage</h2>
 <p>Anthropic entered into a content and data licensing agreement with the Associated Press ahead of the midterm elections, marking the artificial intelligence firm's first publisher partnership. Through the arrangement, users querying Claude received up-to-the-minute election results and polling data provided by and attributed to the AP.</p><p>The partnership represents a strategic shift for Anthropic, which previously relied on public web scraping under a fair-use stance, unlike competitors such as OpenAI that have pursued numerous publisher deals. Financial terms and the duration of the agreement were not disclosed, and both organizations declined to comment on the record.</p>
 <p>Nov 5 · <a href="https://www.adweek.com/media/anthropic-licensing-deal-ap-election/">adweek.com</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26408"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F03%2Fgettyimages-2170063342.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D12.5%2C0%2C75%2C100%26w%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028, opting to transition rides to its own proprietary application. Alphabet Inc.'s Waymo Co-Chief Executive Officer Tekedra Mawakana stated that relying solely on the Uber app resulted in an inconsistent experience for customers.</p><p>The upcoming separation follows earlier adjustments to the companies' collaborations in other markets such as Phoenix. Although rides will remain accessible through Uber until the 2028 deadline, the decision underscores Waymo's strategy to secure direct customer relationships and greater service consistency as it scales its autonomous fleet operations.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Uber Reports Q3 Revenue of $14.8 Billion and Outlines Autonomous Fleet Expansion Plans</h2>
-<a name="story-26403"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F3%2F23%2F47586172-17742850301950045_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Uber reported its third-quarter financial results, showing a 10 percent year-over-year increase in revenue to $14.8 billion and a 20 percent rise in gross bookings to $59.8 billion. Total trips completed during the quarter reached 4 billion, representing a 16 percent increase compared to the same period last year.</p><p>Alongside the financial figures, the company outlined its plans to scale its autonomous vehicle fleet, aiming to deploy more than 2,000 robotaxis by 2027. Despite the expansion, Uber's autonomous fleet timeline remains behind competitor Waymo, as the ride-hailing company continues to integrate autonomous technology into its broader transportation network.</p>
-<p>Nov 4 · <a href="https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af">ft.com</a> | <a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx">investor.uber.com</a></p>
 <br clear="all" />
 
 ---
