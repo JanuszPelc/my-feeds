@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Universal Audio Releases Capitol Studios Room Modeling and Reverb Plug-in</h2>
+<a name="story-26482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuad_capitol_studios_gallery_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Universal Audio has released Capitol Studios, a native room modeling and reverb plug-in for macOS and Windows. The software emulates Capitol Studios A and B, including various microphones, consoles, outboard processors, and four underground echo chambers.</p><p>The plug-in features dynamic room modeling that allows users to move virtual microphones within the digital space to alter room response in real time. It includes microphone setups curated by Capitol engineer Steve Genewick and is priced at $249, with availability also included in the UAD Spark Studio subscription.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/universal-audio-releases-capitol-studios-room-modeling-and-reverb-plug-in-69628?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69628">kvraudio.com</a> | <a href="https://www.uaudio.com/products/capitol-studios">uaudio.com</a></p>
+<br clear="all" />
+
+<h2>Toontrack Releases Metal Machine 2 EZX</h2>
+<a name="story-26480"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt769_metalmachine2ezx_top-image.1793839902.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Metal Machine 2 EZX is a drum expansion for EZdrummer 3 and Superior Drummer 3, produced by Andy Sneap at Backstage Recording Studio. The library is designed as a companion to the original Metal Machine EZX released in 2011.</p><p>The expansion includes three kits representing the 1990s, 2010s, and 2020s, targeting traditional, progressive, and extreme metal genres. Sampling and MIDI grooves were performed by Dan Wilding of Carcass, and the product is priced at $89 USD.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/toontrack-releases-metal-machine-2-ezx-by-andy-sneap-69626?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69626">kvraudio.com</a> | <a href="https://www.toontrack.com/product/metal-machine-2-ezx/">toontrack.com</a></p>
+<br clear="all" />
+
 <h2>NUGEN Audio Releases VisLM 3 Loudness Metering Plugin</h2>
 <a name="story-26435"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnugen-audio_vislm-3-user-interface.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NUGEN Audio has released VisLM 3, the latest generation of its loudness metering and compliance software. The update introduces several major workflow enhancements, including automated stem monitoring across multiple plugin instances, support for up to 9.1.6 surround channels, and new measurement tools like loudness-to-dialogue ratio tracking.</p><p>Designed to help audio professionals manage increasingly complex mixing standards, VisLM 3 also adds timestamped comments via an updated flags system, quality control report exports, and built-in support for updated specifications including EBU R128 s4 and ATSC A/85:2026-07. Available immediately for $499, the plugin offers upgrade paths for existing users while retaining its core momentary, short-term, and True Peak measurement capabilities.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26306"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixdownmag.com.au%2Fwp-content%2Fuploads%2F2026%2F05%2FScreen-Shot-2026-05-14-at-5.22.25-pm-1024x707.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>FlickSwitch Audio has released Liminal 1.1 and the new Glacier effect plugin, available individually or bundled for macOS and Windows. Liminal is a dynamic threshold processor that splits audio into three lanes based on hit velocity, allowing independent processing, gain staging, and routing for strong hits, ghost notes, and tails. Version 1.1 introduces an eight-band output EQ per lane alongside a multi-output instrument version for stem recording and sidechain routing.</p><p>Glacier pairs a tempo-synced stereo or ping-pong delay with Hall and Shimmer reverbs, featuring an infinite freeze function to sustain ambient pads while dry audio continues. Additional controls include pitch-shifting for the delay, dispersion widening, shimmer regeneration, and automatic ducking. Both plugins support VST3, AU, and AAX formats under a perpetual license with internet-based initial activation.</p>
 <p>Nov 3 · <a href="https://bedroomproducersblog.com/2026/11/03/flickswitch-audio/">bedroomproducersblog.com</a> | <a href="https://www.flickswitchaudio.com/product/complete-bundle">flickswitchaudio.com</a></p>
-<br clear="all" />
-
-<h2>Detroit Techno Pioneer Juan Atkins Dies at 64</h2>
-<a name="story-26302"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fjuan-atkins-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Electronic music pioneer and Belleville Three co-founder Juan Atkins died on October 31, 2026, at the age of 64 in Mexico City, where he was scheduled to perform. Tributes from across the global electronic music community poured in following the news, celebrating his foundational role in shaping the techno genre.</p><p>Emerging from Detroit in the late 1970s and early 1980s, Atkins helped establish the blueprint for techno through his pioneering work with projects like Cybotron and Model 500, as well as his Metroplex record label. His fusion of futuristic synthesizer sounds, drum machines like the Roland TR-808, and speculative fiction profoundly influenced generations of electronic music producers worldwide.</p>
-<p>Nov 3 · <a href="https://musictech.com/features/juan-atkins-dies-techno-legacy/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>RiverFlux Audio Updates Relic Plugin Bundle With Two Free Reverbs</h2>
-<a name="story-26307"><img src="https://wsrv.nl/?url=https%3A%2F%2Funison.audio%2Fwp-content%2Fuploads%2FOril-River-3.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>RiverFlux Audio has updated its Relic plugin bundle to version 0.4.5, adding two free digital reverb plugins, the RF-224 and RF-480R. This expansion brings the total number of effects in the collection to fifteen, supporting VST3, CLAP, and AU formats across macOS, Windows, and Linux.</p><p>The newly introduced RF-224 emulates the Lexicon 224 with nine programs, while the RF-480R features 94 programs across ten banks. In addition to the reverbs, the update introduces mid/side processing to all included effects, adjustable harmonic coloration for the built-in compressors, and a fix for output gain behavior when using filters.</p>
-<p>Nov 3 · <a href="https://bedroomproducersblog.com/2026/11/03/riverflux-audio-relic-reverbs/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/Relic">riverfluxaudio.gumroad.com</a></p>
 <br clear="all" />
 
 ---
