@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>OpenSSH on musl-based Linux Distributions Vulnerable to Password Bypass</h2>
+<a name="story-26524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenSSH installations running on musl libc—including Alpine, OpenWrt, and Buildroot—are vulnerable to a password bypass affecting accounts with no password (marked with '*' in /etc/shadow). When a password longer than 256 characters is provided, musl's crypt() function returns '*' due to a length limit in its SHA512 implementation, which OpenSSH incorrectly validates as a successful match.</p><p>The vulnerability specifically affects systems using musl that do not utilize PAM and have password authentication enabled. To mitigate this risk, users are advised to upgrade to OpenSSH 10.6p2 or disable password authentication in their SSH configuration.</p>
+<p>Nov 5 · <a href="https://sshhole.com">sshhole.com</a> | <a href="https://news.ycombinator.com/item?id=50378228">hacker news</a></p>
+<br clear="all" />
+
 <h2>Debian Patches APT Vulnerability Allowing Root Code Execution</h2>
 <p>Debian released security advisory DSA-6607-1 to address CVE-2026-109518, a vulnerability in the APT package manager. A man-in-the-middle attacker can exploit improper file handling during resumed HTTP downloads to replace a package after verification, potentially enabling arbitrary code execution as root.</p><p>The flaw allows APT to merge two different package downloads if an HTTP redirect assigns them the same URI. For the Debian stable release (trixie), the issue is fixed in APT version 3.0.4. This update also addresses several out-of-bounds access issues.</p>
 <p>Nov 4 · <a href="https://lists.debian.org/debian-security-announce/2026/msg00526.html">lists.debian.org</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6607-1">security-tracker.debian.org</a> | <a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50366575">hacker news</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26235"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptotimes.io%2Fwp-content%2Fuploads%2F2026%2F11%2FMercado-Bitcoin-Hack-9.1M-in-Crypto-Frozen-as-Arkham-Tracks-46M.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Brazil's largest cryptocurrency exchange, Mercado Bitcoin, confirmed a security incident on November 2, 2026, involving approximately $46.3 million in assets. The company has temporarily suspended deposits and withdrawals to facilitate investigations, asset tracking, and coordination with authorities.</p><p>The exchange stated the incident did not affect customers or result in a data breach. Tether has frozen more than $4.5 million in USDT linked to the breach, while blockchain analysts report the attacker is sweeping funds from older deposit addresses and selling various altcoins.</p>
 <p>Nov 3 · <a href="https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333">theblock.co</a> | <a href="https://x.com/MercadoBitcoin/status/2117239507263132056">x.com</a></p>
-<br clear="all" />
-
-<h2>Chris Siebenmann Examines Assumptions About Server RAM Growth</h2>
-<a name="story-26233"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F58d982f36a49634f6911e91b%2F1773126041937-QBPH9VWGICRJKTT4KAEO%2Fstock-photo-server-maintenance-and-hardware-installation-technician-work-on-a-modern-mainboard-2547680979.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sysadmin Chris Siebenmann reflects on catching himself reflexively questioning whether 16 GB of RAM is sufficient for an upgraded server, despite the machine's workload and basic software remaining unchanged for years. Reviewing historical metrics for his organization's central mail server revealed that the hardware operated successfully on 4 GB of RAM for years before transitioning to 16 GB.</p><p>Siebenmann attributes this reflex to industry trends and personal familiarity with newer server generations that standardly feature 32 GB of RAM. The observation highlights how hardware sizing habits can become disconnected from actual resource requirements when software demands remain stable.</p>
-<p>Nov 2 · <a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/saskzi/my_reflex_assuming_our_servers_need_ever">lobsters</a></p>
 <br clear="all" />
 
 ---

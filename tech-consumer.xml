@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-04T22:48:00+00:00</updated>
+  <updated>2026-11-05T05:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Xbox Cloud Gaming Introduces Smartphone Controller and Cloud Connect Previews</title>
+    <link href="https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/" rel="alternate" />
+    <id>https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/::v240</id>
+    <published>2026-11-05T05:21:00+00:00</published>
+    <updated>2026-11-05T05:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fxboxwire.thesourcemediaassets.com%2Fsites%2F2%2F2026%2F11%2FXBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/">news.xbox.com</a></small></p><hr/><p>Xbox Cloud Gaming is launching two preview features: a smartphone controller mode for supported Smart TVs and "Cloud Connect" for the Xbox Nano Controller. The smartphone mode enables Android and iOS users to control games via their phone's web browser, while Cloud Connect, available in the U.S., allows the Nano Controller to connect directly to cloud servers through Wi-Fi to reduce input latency.</p><p>Both features are currently in testing, so availability may vary based on the specific game, device, or region. Users can provide feedback through the mobile app, the Xbox Accessories app on PC, or directly through the Smart TV interface.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fxboxwire.thesourcemediaassets.com%2Fsites%2F2%2F2026%2F11%2FXBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:20 UTC | #26497</small>]]></content>
+  </entry>
   <entry>
     <title>Macronix Exits ROM Chip Production, Impacting Nintendo's Cartridge Supply</title>
     <link href="https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/" rel="alternate" />

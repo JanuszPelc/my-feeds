@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-04T23:28:00+00:00</updated>
+  <updated>2026-11-05T12:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>OpenSSH on musl-based Linux Distributions Vulnerable to Password Bypass</title>
+    <link href="https://sshhole.com" rel="alternate" />
+    <id>https://sshhole.com::v240</id>
+    <published>2026-11-05T12:20:00+00:00</published>
+    <updated>2026-11-05T12:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://sshhole.com">sshhole.com</a> | <a href="https://news.ycombinator.com/item?id=50378228">hacker news</a></small></p><hr/><p>OpenSSH installations running on musl libc—including Alpine, OpenWrt, and Buildroot—are vulnerable to a password bypass affecting accounts with no password (marked with '*' in /etc/shadow). When a password longer than 256 characters is provided, musl's crypt() function returns '*' due to a length limit in its SHA512 implementation, which OpenSSH incorrectly validates as a successful match.</p><p>The vulnerability specifically affects systems using musl that do not utilize PAM and have password authentication enabled. To mitigate this risk, users are advised to upgrade to OpenSSH 10.6p2 or disable password authentication in their SSH configuration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:37 UTC | #26524</small>]]></content>
+  </entry>
   <entry>
     <title>Debian Patches APT Vulnerability Allowing Root Code Execution</title>
     <link href="https://lists.debian.org/debian-security-announce/2026/msg00526.html" rel="alternate" />
@@ -229,41 +238,5 @@
     <updated>2026-11-01T05:03:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsibylline.co.uk%2Fwp-content%2Fuploads%2F2026%2F02%2FUK-water-cyber-Russia-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/features/2026-10-27/russia-linked-hackers-are-turning-cyberattacks-into-a-physical-threat?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzI5NTc0NywiZXhwIjoxNzkzOTAwNTQ3LCJhcnRpY2xlSWQiOiJUTkw0NTNLR1pBSVYwMCIsImJjb25uZWN0SWQiOiJENTY5QzIyNzE4NUM0NkM4OTgxMjBGMUI2QTBFNDIwQSJ9.ZsPKeMVARRn7ayeTBSLo-FlCJ4yJhExizj_0dCtnLq4">bloomberg.com</a></small></p><hr/><p>Over the past two years, Russia-linked hacktivist groups have increasingly carried out cyberattacks that caused physical damage to critical infrastructure within NATO-aligned countries. These operations have targeted water utilities, factories, refrigeration systems, and food production facilities, often exploiting poorly secured industrial control systems.</p><p>Although many of the individuals executing these attacks lack deep technical sophistication or a full understanding of the physical consequences, their campaigns have resulted in real-world disruptions such as burst pipes and spoiled goods. The trend marks a concerning escalation in the nature of proxy cyber warfare affecting Western infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsibylline.co.uk%2Fwp-content%2Fuploads%2F2026%2F02%2FUK-water-cyber-Russia-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 12:03 UTC | #26086</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cisco Talos Details VOLTA Infostealer's AI-Driven Victim Profiling</title>
-    <link href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/" rel="alternate" />
-    <id>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/::v240</id>
-    <published>2026-10-31T15:15:00+00:00</published>
-    <updated>2026-10-31T15:15:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2Faf%2Fa0%2Fafa04ee3-414f-4481-8d23-7e7c146f192e%2Fcontent%2Fimages%2F2026%2F10%2FVOLTA.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/">blog.talosintelligence.com</a> | <a href="https://news.ycombinator.com/item?id=50316531">hacker news</a></small></p><hr/><p>Cisco Talos researchers have uncovered a Windows infostealer named VOLTA-AUTODOXER that integrates a large language model stage to automatically profile victims and rank their assets by monetization value. After harvesting standard credentials, sessions, and cryptocurrency wallets from a compromised machine, the malware builds a structured evidence bundle and queries OpenRouter using a multi-model architecture.</p><p>The system prompt instructs the AI model to act as a forensic intelligence analyst, producing a target assessment and security posture evaluation. VOLTA employs a fallback chain utilizing Claude, Kimi, and Gemini models to handle model refusals, while enriching data via stolen session access to services like Gmail and food delivery apps before self-deleting.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2Faf%2Fa0%2Fafa04ee3-414f-4481-8d23-7e7c146f192e%2Fcontent%2Fimages%2F2026%2F10%2FVOLTA.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:13 UTC | #26063</small>]]></content>
-  </entry>
-  <entry>
-    <title>Molly Signal Fork Unmaintained for Three Months and Vulnerable to Mainline Exploits</title>
-    <link href="https://piefed.world/post/1503394" rel="alternate" />
-    <id>https://piefed.world/post/1503394::v240</id>
-    <published>2026-10-31T15:09:00+00:00</published>
-    <updated>2026-10-31T15:09:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flowtek.ca%2Froo%2Fwp-content%2Fuploads%2F2024%2F09%2Ffdroid-molly.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://piefed.world/post/1503394">piefed.world</a> | <a href="https://github.com/mollyim/mollyim-android">github.com</a> | <a href="https://news.ycombinator.com/item?id=50314666">hacker news</a></small></p><hr/><p>Molly, a security-focused fork of the Signal messaging application for Android, has not received a software update since late July 2026. This three-month lack of maintenance has left the application lagging behind mainline Signal patches and exposed to known security vulnerabilities.</p><p>Specifically, the app remains vulnerable to an October exploit that allows audio and video streams to continue after a call has ended, an issue that was fixed in mainline Signal version 8.27. Community discussions and privacy advocates currently recommend switching back to the official mainline Signal application until the fork resumes regular updates.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flowtek.ca%2Froo%2Fwp-content%2Fuploads%2F2024%2F09%2Ffdroid-molly.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 18:28 UTC | #26057</small>]]></content>
-  </entry>
-  <entry>
-    <title>Parameter Researchers Disclose ChatGPT Share Link Vulnerability Enabling Account Takeover</title>
-    <link href="https://www.parameter.ai/labs/we-found-a-gap-at-openai" rel="alternate" />
-    <id>https://www.parameter.ai/labs/we-found-a-gap-at-openai::v240</id>
-    <published>2026-10-31T13:45:00+00:00</published>
-    <updated>2026-10-31T13:45:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-2-f.scribdassets.com%2Fimg%2Fdocument%2F702136017%2Foriginal%2Fa971f62113%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai">parameter.ai</a> | <a href="https://news.ycombinator.com/item?id=50314699">hacker news</a></small></p><hr/><p>Researchers at Parameter disclosed a security vulnerability in ChatGPT's web application that allowed a maliciously crafted public share link to execute arbitrary JavaScript within a victim's signed-in session. By combining an interactive graph feature, MathLive message handling flaws, and a Content Security Policy bypass involving YouTube, an attacker could traverse the preview sandbox and access authenticated frontend APIs. This enabled the retrieval of private conversation histories and complete account compromise simply by having a user open a shared link.</p><p>OpenAI classified the issue as a P1 bug and rolled out fixes across ChatGPT's web frontends, fully resolving the vulnerability by October 26, 2026. The vulnerability highlights the risks that emerge when multiple independent features—such as sandboxed previews, cross-frame messaging, and math layout libraries—interact unexpectedly. The incident underscores the importance of strict origin validation, secure message handling, and robust sandboxing for dynamically created documents.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-2-f.scribdassets.com%2Fimg%2Fdocument%2F702136017%2Foriginal%2Fa971f62113%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 17:39 UTC | #26054</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bunny.net Issues Security Update Following Infrastructure Provider Incident</title>
-    <link href="https://status.bunny.net/incidents/p6gf1by9kr7m" rel="alternate" />
-    <id>https://status.bunny.net/incidents/p6gf1by9kr7m::v240</id>
-    <published>2026-10-31T13:43:00+00:00</published>
-    <updated>2026-10-31T13:43:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcybersecuritynews.com%2Fwp-content%2Fuploads%2F2026%2F05%2FHackers-Abuse-Shared-CDN-Infrastructure-to-Bypass-Domain-Reputation-Security-Controls-696x392.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://status.bunny.net/incidents/p6gf1by9kr7m">status.bunny.net</a> | <a href="https://news.ycombinator.com/item?id=50308697">hacker news</a></small></p><hr/><p>Bunny.net has issued a security update addressing an unauthorized access incident at an infrastructure provider that hosted one of its CDN nodes in Armenia. Following an alert regarding third-party server management software, the engineering team disconnected the affected server within 20 minutes, securely wiped it, and permanently removed it from the infrastructure.</p><p>Although investigations by both Bunny.net and the infrastructure provider found no evidence of unauthorized access to the node or stored data, the company has taken precautionary measures. Bunny.net has revoked and reissued all TLS certificates for its platform domains and is completing reissuance for managed custom domain certificates, while recommending that customers managing their own certificates reissue them as well.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcybersecuritynews.com%2Fwp-content%2Fuploads%2F2026%2F05%2FHackers-Abuse-Shared-CDN-Infrastructure-to-Bypass-Domain-Reputation-Security-Controls-696x392.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 17:05 UTC | #26053</small>]]></content>
   </entry>
 </feed>

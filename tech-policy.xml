@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-05T04:16:00+00:00</updated>
+  <updated>2026-11-05T06:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>China's Tungsten Export Controls Disrupt AI Chip Supply Chain</title>
+    <link href="https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain" rel="alternate" />
+    <id>https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain::v240</id>
+    <published>2026-11-05T06:11:00+00:00</published>
+    <updated>2026-11-05T06:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F6%252F7%252F3%252F4%252F13404376-3-eng-GB%252F254f669b1742-1f.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain">asia.nikkei.com</a></small></p><hr/><p>Export controls on tungsten have disrupted the supply of micro drill bits essential for manufacturing printed circuit boards (PCBs) and chip substrates used in AI technology. These restrictions have driven a surge in prices for the critical tools required to produce high-end electronic components.</p><p>Tungsten carbide bits, such as those manufactured by Taiwan's Topoint, are vital for drilling the precision micro-holes used in modern AI hardware. The supply squeeze illustrates how geopolitical friction and mineral export restrictions are impacting the global semiconductor and tech manufacturing sectors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F6%252F7%252F3%252F4%252F13404376-3-eng-GB%252F254f669b1742-1f.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:24 UTC | #26500</small>]]></content>
+  </entry>
   <entry>
     <title>China Blocks SoftBank's $5.4 Billion Acquisition of ABB's Robotics Division</title>
     <link href="https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4" rel="alternate" />

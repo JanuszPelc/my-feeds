@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-05T02:57:00+00:00</updated>
+  <updated>2026-11-05T09:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Jersey Discusses Debut Album 'NOTHING'S FAKE' and Hardware-Based Live Performances</title>
+    <link href="https://musictech.com/features/interviews/jersey-interview-nothings-fake/" rel="alternate" />
+    <id>https://musictech.com/features/interviews/jersey-interview-nothings-fake/::v240</id>
+    <published>2026-11-05T09:01:00+00:00</published>
+    <updated>2026-11-05T09:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJersey-Avalon-Cafe-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/features/interviews/jersey-interview-nothings-fake/">musictech.com</a> | <a href="https://jersey-cr.bandcamp.com/album/nothings-fake">jersey-cr.bandcamp.com</a></small></p><hr/><p>Electronic duo Jersey, consisting of brothers Carl and Renaud Amiard, designed their debut album *NOTHING’S FAKE* specifically for live performance. Their stage setup relies entirely on hardware—including synthesizers, sequencers, and MIDI controllers—rather than laptops or digital audio workstations.</p><p>The duo uses AI text-to-speech models of their own voices to produce vocal textures that blend human and robotic qualities. Influenced by artists such as Gorillaz and Daft Punk, they prioritize spontaneous improvisation and tactile hardware interaction to bridge the gap between indie-pop and electronic music.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJersey-Avalon-Cafe-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:35 UTC | #26509</small>]]></content>
+  </entry>
+  <entry>
+    <title>Morpheral Machines Releases The Swarm Wavetable Synthesizer</title>
+    <link href="https://www.kvraudio.com/news/morpheral-machines-releases-the-swarm-69632?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69632" rel="alternate" />
+    <id>https://www.kvraudio.com/news/morpheral-machines-releases-the-swarm-69632?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69632::v240</id>
+    <published>2026-11-05T08:56:00+00:00</published>
+    <updated>2026-11-05T08:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fthe-swarm-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/morpheral-machines-releases-the-swarm-69632?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69632">kvraudio.com</a> | <a href="https://morpheral-machines.com/plugins/the-swarm/">morpheral-machines.com</a></small></p><hr/><p>Morpheral Machines has released The Swarm, a polyphonic wavetable synthesizer compatible with Windows, macOS, and Linux in VST 3, CLAP, and AU formats. The instrument utilizes a "boid" system where up to 24 oscillators act as simulated birds that move across a 2D wavetable grid based on flocking rules. This debut release also includes Desense, a free interference instrument.</p><p>The synthesis engine allows users to paint, morph, or generate wavetables from samples. Oscillator movement is influenced by 12 attractor types and up to 9 predators, with flocking behavior acting as modulation sources for various parameters. The plugin supports MPE, MTS-ESP microtuning, and is currently available at a promotional price of $59 / €59 through November 30.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fthe-swarm-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:31 UTC | #26512</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sampleson Releases Wavefinder AI Audio Search Tool</title>
+    <link href="https://www.kvraudio.com/news/sampleson-releases-wavefinder-a-local-ai-powered-audio-search-tool-69615?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69615" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sampleson-releases-wavefinder-a-local-ai-powered-audio-search-tool-69615?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69615::v240</id>
+    <published>2026-11-05T04:40:00+00:00</published>
+    <updated>2026-11-05T04:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fwavefinder-ui-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/sampleson-releases-wavefinder-a-local-ai-powered-audio-search-tool-69615?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69615">kvraudio.com</a> | <a href="https://sampleson.com/_devs/wavefinder.html">sampleson.com</a></small></p><hr/><p>Sampleson has released Wavefinder, an AI-powered audio search tool that allows users to find sounds in local libraries via text prompts or reference audio clips. By analyzing timbre, texture, and gesture, the tool enables searching based on sonic characteristics rather than filenames.</p><p>The software operates entirely on local hardware to ensure privacy and low latency, supporting WAV, AIFF, FLAC, OGG, and MP3 formats. It is available as a standalone application or as a VST3 and AU plugin.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fwavefinder-ui-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:19 UTC | #26537</small>]]></content>
+  </entry>
   <entry>
     <title>null.audio Updates Align and Edit to Version 1.1</title>
     <link href="https://www.kvraudio.com/news/null-audio-updates-align-and-edit-to-1-1-69622?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69622" rel="alternate" />
@@ -473,32 +500,5 @@
     <updated>2026-10-31T15:38:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F06_burnstudio.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/gsi-releases-burn-studio-vst-and-au-69503?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69503">kvraudio.com</a> | <a href="https://www.genuinesoundware.com/?a=showproduct&b=76">genuinesoundware.com</a></small></p><hr/><p>GSi has released Burn Studio, a Spin FV-1 emulator available as a VST and AU plugin for macOS, Windows, and iOS. The software allows users to run SpinASM effect programs directly on their devices and includes a built-in editor and compiler equipped with syntax highlighting, error checking, and binary export capabilities.</p><p>The plugin is free to use for standard audio processing and includes presets derived from the original algorithms of the 2013 GSi BURN hardware unit. Access to the advanced programming features requires a paid license priced at €25 plus applicable VAT.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F06_burnstudio.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:13 UTC | #26045</small>]]></content>
-  </entry>
-  <entry>
-    <title>ZL Audio Releases ZL Limiter Free Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/31/zl-audio-releases-zl-limiter-a-free-limiter-for-windows-macos-and-linux/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/31/zl-audio-releases-zl-limiter-a-free-limiter-for-windows-macos-and-linux/::v240</id>
-    <published>2026-10-31T15:14:00+00:00</published>
-    <updated>2026-10-31T15:14:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FZL-Audio-Launches-Free-ZL-Compressor-Plugin-2048x1072.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/zl-audio-releases-zl-limiter-a-free-limiter-for-windows-macos-and-linux/">bedroomproducersblog.com</a> | <a href="https://zl-audio.github.io/plugins/zllimiter/">zl-audio.github.io</a></small></p><hr/><p>ZL Audio has released ZL Limiter, a free and open-source audio limiter plugin available for Windows, macOS, and Linux. The software features True Peak limiting and oversampling up to 32x to help control inter-sample peaks and reduce aliasing during audio production.</p><p>The plugin is provided in common formats like VST3, Audio Unit, and LV2 to accommodate various digital audio workstations. Developed as an open-source tool, its source code and packaging are hosted on GitHub for user inspection and community contribution.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FZL-Audio-Launches-Free-ZL-Compressor-Plugin-2048x1072.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:12 UTC | #26048</small>]]></content>
-  </entry>
-  <entry>
-    <title>NeuSynth Mac Plugin Released for Exploring Alternative Instrument Stems</title>
-    <link href="https://bedroomproducersblog.com/2026/10/31/neusynth/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/31/neusynth/::v240</id>
-    <published>2026-10-31T15:13:00+00:00</published>
-    <updated>2026-10-31T15:13:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2023%2F09%2Fremix-plugin%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/neusynth/">bedroomproducersblog.com</a> | <a href="https://www.neusynth.com/">neusynth.com</a></small></p><hr/><p>NeuSynth is a macOS audio plugin designed to help producers test alternative instrument parts against an existing track. Users drag up to 60 seconds of audio from their digital audio workstation into the plugin, select instrument categories, provide reference tracks, or describe desired parts using text prompts.</p><p>The plugin generates four distinct variation sets, each delivered as separate WAV files that can be previewed in context and dragged directly into a project session. NeuSynth operates on a credit-based system, offering a free trial alongside monthly subscription plans and top-up options for commercial use.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2023%2F09%2Fremix-plugin%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:12 UTC | #26043</small>]]></content>
-  </entry>
-  <entry>
-    <title>StageBox Software Releases Voiks Toy Keyboard Sampler Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/31/stagebox-software-voiks/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/31/stagebox-software-voiks/::v240</id>
-    <published>2026-10-31T15:12:00+00:00</published>
-    <updated>2026-10-31T15:12:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.tracktion.com%2Fimg%2Fshop%2Ffeatured%2Fretromod-lofreq-wired-sq.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/stagebox-software-voiks/">bedroomproducersblog.com</a> | <a href="https://www.stageboxsoftware.com/voiks.html">stageboxsoftware.com</a></small></p><hr/><p>StageBox Software has released Voiks, a free lo-fi sampler plugin for macOS and Windows inspired by the 1987 Yamaha VSS-30 sampling keyboard. The instrument allows users to record audio through an interface or load audio files, automatically detecting root notes and mapping the sample across the keyboard.</p><p>The plugin includes modern features such as stereo sample support, recordings up to 30 seconds long, sound overdubbing, and patch saving that embeds audio data directly. Additional sound-shaping tools include an ADSR envelope, filters, modulation, and a dedicated tweaks section for adjusting converter character, sample rate, and bit depth.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.tracktion.com%2Fimg%2Fshop%2Ffeatured%2Fretromod-lofreq-wired-sq.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:11 UTC | #26044</small>]]></content>
   </entry>
 </feed>

@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Jersey Discusses Debut Album &#x27;NOTHING&#x27;S FAKE&#x27; and Hardware-Based Live Performances</h2>
+<a name="story-26509"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJersey-Avalon-Cafe-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Electronic duo Jersey, consisting of brothers Carl and Renaud Amiard, designed their debut album *NOTHING’S FAKE* specifically for live performance. Their stage setup relies entirely on hardware—including synthesizers, sequencers, and MIDI controllers—rather than laptops or digital audio workstations.</p><p>The duo uses AI text-to-speech models of their own voices to produce vocal textures that blend human and robotic qualities. Influenced by artists such as Gorillaz and Daft Punk, they prioritize spontaneous improvisation and tactile hardware interaction to bridge the gap between indie-pop and electronic music.</p>
+<p>Nov 5 · <a href="https://musictech.com/features/interviews/jersey-interview-nothings-fake/">musictech.com</a> | <a href="https://jersey-cr.bandcamp.com/album/nothings-fake">jersey-cr.bandcamp.com</a></p>
+<br clear="all" />
+
+<h2>Morpheral Machines Releases The Swarm Wavetable Synthesizer</h2>
+<a name="story-26512"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fthe-swarm-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Morpheral Machines has released The Swarm, a polyphonic wavetable synthesizer compatible with Windows, macOS, and Linux in VST 3, CLAP, and AU formats. The instrument utilizes a "boid" system where up to 24 oscillators act as simulated birds that move across a 2D wavetable grid based on flocking rules. This debut release also includes Desense, a free interference instrument.</p><p>The synthesis engine allows users to paint, morph, or generate wavetables from samples. Oscillator movement is influenced by 12 attractor types and up to 9 predators, with flocking behavior acting as modulation sources for various parameters. The plugin supports MPE, MTS-ESP microtuning, and is currently available at a promotional price of $59 / €59 through November 30.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/morpheral-machines-releases-the-swarm-69632?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69632">kvraudio.com</a> | <a href="https://morpheral-machines.com/plugins/the-swarm/">morpheral-machines.com</a></p>
+<br clear="all" />
+
+<h2>Sampleson Releases Wavefinder AI Audio Search Tool</h2>
+<a name="story-26537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fwavefinder-ui-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sampleson has released Wavefinder, an AI-powered audio search tool that allows users to find sounds in local libraries via text prompts or reference audio clips. By analyzing timbre, texture, and gesture, the tool enables searching based on sonic characteristics rather than filenames.</p><p>The software operates entirely on local hardware to ensure privacy and low latency, supporting WAV, AIFF, FLAC, OGG, and MP3 formats. It is available as a standalone application or as a VST3 and AU plugin.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/sampleson-releases-wavefinder-a-local-ai-powered-audio-search-tool-69615?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69615">kvraudio.com</a> | <a href="https://sampleson.com/_devs/wavefinder.html">sampleson.com</a></p>
+<br clear="all" />
+
 <h2>null.audio Updates Align and Edit to Version 1.1</h2>
 <a name="story-26513"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnull-audio-align-edit-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>null.audio has released version 1.1 of its Align and Edit plugins, bringing ARA support to Ableton Live on macOS and Windows. The update is free for existing owners and requires Ableton Live 12.3 or later with Max for Live.</p><p>The Edit update allows for editing entire verses or tracks in ARA editors like Melodyne while maintaining the original track's effect chain. Align now features a beta built-in alignment engine and can manage up to eight tracks simultaneously in VocAlign by identifying doubles and harmonies via track names.</p>
@@ -78,24 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26396"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F07%2FROLI-Seaboard-Block-M-commercial-hero-credit-Simon-Vinall%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Music technology company ROLI has entered administration for the second time, with insolvency practitioners from RSM UK appointed as joint administrators. The sudden collapse has left numerous customers with unfulfilled orders, unresponsive support, and offline web and community servers.</p><p>Founded in 2009 and renowned for pioneering MIDI Polyphonic Expression (MPE) alongside touch-sensitive instruments like the Seaboard and Airwave, ROLI previously survived administration in 2021 before restructuring. The company's latest failure has raised concerns among users that a lack of ongoing software and firmware support could eventually render their hardware devices unusable.</p>
 <p>Nov 4 · <a href="https://musictech.com/news/industry/roli-enters-administration/">musictech.com</a> | <a href="https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/">wired.com</a></p>
-<br clear="all" />
-
-<h2>DyVision Works Releases Reverb Remover 2 for Windows VST3</h2>
-<a name="story-26357"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdyvision-reverb-remover-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DyVision Works has released Reverb Remover 2, a VST3 plugin for Windows designed to remove room reverb from audio sources such as vocals, podcasts, and drums. The plugin features zero latency, supports both mono and stereo, and operates at sample rates from 44.1 to 96 kHz.</p><p>The software is available for $39 and does not require online activation or a dongle. Current owners of the original Reverb Remover are eligible for a 50% upgrade discount, and a free demo is available.</p>
-<p>Nov 3 · <a href="https://www.kvraudio.com/news/dyvision-works-releases-reverb-remover-2-for-windows-vst3-69598?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69598">kvraudio.com</a> | <a href="https://dyvision.co.uk/reverb-remover-2">dyvision.co.uk</a></p>
-<br clear="all" />
-
-<h2>Green Oak Releases Crystal v2.6.0 Synth Update</h2>
-<a name="story-26321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcrystalss.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Green Oak has released version 2.6.0 of its free Crystal software synthesizer, introducing native Apple Silicon support, updated compatibility for macOS and Windows, new AU and VST3 formats, and a refreshed, scalable interface.</p><p>The updated plugin retains its core features, including three synthesis voices, sample and SoundFont support, wave sequencing, granular capabilities, FM synthesis, an extensive modulation matrix, and patch compatibility with iOS versions.</p>
-<p>Nov 3 · <a href="https://www.kvraudio.com/news/green-oak-updates-crystal-to-v2-6-0---a-classic-software-synth-renewed-69594?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69594">kvraudio.com</a> | <a href="https://www.greenoak-software.com/crystal/indexDesktop3.html">greenoak-software.com</a></p>
-<br clear="all" />
-
-<h2>A.O.M. Updates Audio Plugins to Version 1.18.10</h2>
-<a name="story-26313"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftranquilizr-g2-2024-12-27.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A.O.M. has released version 1.18.10 of its audio plugin lineup, introducing a performance monitor display across all plugins alongside important bug fixes and installer changes. The update resolves an issue in WaveLab 13 where incorrect bus configurations were sent to the Nu Compressor and Track Symbiosis plugins, and fixes a macOS bug where disabled pop-up menu items were not correctly grayed out.</p><p>Additionally, the software installation process has been streamlined into a single package for all supported plugin formats. For macOS users, installer variants are now categorized by Intel and Apple Silicon architectures, with Intel builds officially requiring AVX2 instruction set support.</p>
-<p>Nov 3 · <a href="https://www.kvraudio.com/news/a-o-m-updates-their-plugins-to-v1-18-10-69593?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69593">kvraudio.com</a></p>
 <br clear="all" />
 
 ---

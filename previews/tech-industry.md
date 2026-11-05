@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Samsung Ex-Employee Sentencing Highlights Intensifying Semiconductor Talent Rivalry and Trade Secret Enforcement</h2>
+<a name="story-26502"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabiedu.com%2Fwp-content%2Fuploads%2F2024%2F12%2Fabiedu-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A former Samsung Electronics employee was sentenced by the Seoul High Court to five years in prison for leaking DRAM process technology to Chinese memory chipmaker ChangXin Memory Technologies, or CXMT. The case underscores an escalating global competition for semiconductor engineering talent as Chinese manufacturers rapidly close technological gaps despite U.S. export restrictions.</p><p>Established chipmakers like Samsung are increasingly utilizing strict non-compete agreements, internal security measures, and legal protections to stem talent outflows to competitors such as CXMT and Micron. Meanwhile, legal experts note that protecting intangible manufacturing expertise and defining trade secrets remains a complex challenge across jurisdictions including South Korea, Taiwan, Singapore, and Hong Kong.</p>
+<p>Nov 5 · <a href="https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html">cnbc.com</a></p>
+<br clear="all" />
+
+<h2>Yangtze Memory Technologies Co Puts Shanghai IPO on Hold</h2>
+<a name="story-26501"><img src="https://wsrv.nl/?url=https%3A%2F%2Fc8.alamy.com%2Fcomp%2F3DYJRN5%2Fshanghaichina-march-8th-2026-yangtze-memory-technologies-corp-ymtc-brand-logo-on-website-3DYJRN5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Yangtze Memory Technologies Co (YMTC) has paused its planned initial public offering in Shanghai, according to an internal company memo and sources. The decision comes as Chinese regulators tighten approvals for share sales and equity markets experience weakness.</p><p>The NAND flash chipmaker had aimed to raise approximately $4.9 billion through the offering. The suspension underscores the impact of market volatility and increased regulatory oversight on major Chinese technology listings.</p>
+<p>Nov 5 · <a href="https://www.reuters.com/world/china/chinese-chipmaker-ymtc-puts-ipo-hold-weaker-markets-weigh-sources-say-2026-11-04/">reuters.com</a></p>
+<br clear="all" />
+
+<h2>Microsoft Rejects Option to Expand Nscale Texas Data Center Contract</h2>
+<a name="story-26499"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northamericaoutlookmag.com%2Fmedia%2FNscale-featured-2-1-jpg.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The US software giant has declined to exercise an option to more than double its existing contract to rent computing power from Nscale at a Texas data center. This decision denies the UK-based startup a significant boost to its revenue and infrastructure scale.</p><p>The setback occurs as Nscale prepares for a projected $35 billion initial public offering. The contract expansion would have provided substantial additional computing capacity for AI workloads at the Texas site.</p>
+<p>Nov 5 · <a href="https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8">ft.com</a></p>
+<br clear="all" />
+
 <h2>Meta to Stop Naming AI Models After Fruit</h2>
 <a name="story-26495"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6ad8f722dc67b5b4d01f61c0%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has internally decided to move away from fruit-based codenames for its artificial intelligence models to better align its branding with its high-level AI ambitions. Previous internal names included "Watermelon," "Avocado," and "Mango."</p><p>This transition mirrors an industry trend where developers are shifting from casual, grocery-themed names toward more formal identifiers, such as Anthropic's "Mythos." Other tech companies have previously used food-related names, including OpenAI's "Garlic" and Google's "Nano Banana" image generator.</p>
@@ -77,24 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26449"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2025%2F11%2F14%2Fsaupload_aRXsC7pReVYa4b2b_49405880-17630441936495023.png%3Fio%3Dw640&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Shares of major US technology companies rose on Wednesday following a Democratic sweep in the midterm elections. Investors are betting that a Democratic-controlled Congress may implement measures to slow the massive capital expenditure currently being directed toward artificial intelligence.</p><p>The rally reflects market sentiment regarding the intense cash flow requirements of AI development. Investors anticipate that potential regulatory curbs on data-center construction or tighter oversight could reduce the aggressive spending race among tech giants, potentially easing the financial pressures associated with high AI investments.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgxNDc5MCwiZXhwIjoxNzk0NDE5NTkwLCJhcnRpY2xlSWQiOiJUTlpJR0JWVFRENUUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.frDjijiV6zS7FBiJWbcApv_YkVGs2tz0u-uB7LtBVsw">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50361247">hacker news</a></p>
-<br clear="all" />
-
-<h2>Hugging Face Policy Chief Irene Solaiman Discusses Open-Source AI Costs and Risks</h2>
-<a name="story-26452"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQGDOSgkX6191A%2Farticle-cover_image-shrink_600_2000%2FB4DZ2RQmTEG8AQ-%2F0%2F1776258542262%3Fe%3D2147483647%26v%3Dbeta%26t%3D8xK5qmqoxvlHVFxEAJ_OjarNGxj2cBeUNVlUcI8BDSU&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In an interview on TechCrunch’s Equity podcast, Hugging Face Chief Policy Officer and SVP of Strategy Irene Solaiman examined the economic and strategic trade-offs of building on open-source artificial intelligence. She detailed why enterprises, startups, and governments are increasingly adopting open models to reduce costs and increase flexibility.</p><p>Solaiman also addressed how companies capture value when underlying models are free, the competitive dynamics of Chinese open-source models versus American alternatives, and the security challenges facing open AI ecosystems. The conversation highlights the ongoing tension between securing open platforms and preserving collaborative development.</p>
-<p>Nov 4 · <a href="https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>CoreWeave Bonds and Stock Fall Following Texas Data Center Moratorium Proposal</h2>
-<a name="story-26430"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.bgstatic.com%2FmultiLang%2Fimage%2Fsocial%2Fc2b4afa7c1f0839fcf13c6f038cad4d41755333612196.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CoreWeave Inc.'s stock and unsecured bonds fell to new lows following sweeping Democratic midterm victories and a proposed data center moratorium by Texas Governor-elect Gina Hinojosa. The anticipated policy shift threatens extensive artificial intelligence infrastructure projects and power capacity in the state, heightening credit risks for firms heavily reliant on rapid buildouts.</p><p>The proposed restrictions place a significant share of planned U.S. data center capacity under regulatory scrutiny, directly challenging CoreWeave's debt structure and contracted revenue backlog. Investors responded by selling off debt and equity as execution risks mount against the expansion of power-intensive facilities in key regional hubs.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>TeraWulf Secures Google Credit Backstop for Anthropic Data Center Project</h2>
-<a name="story-26426"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.briefs.co%2Fwp-content%2Fuploads%2F2026%2F07%2Fanthropic-signs-20-year-data-center-lease-terawulf-stock-sur-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Data-center developer TeraWulf has secured a credit backstop agreement with Google to support debt financing for its 20-year, $19 billion data center project with Anthropic in Hawesville, Kentucky. The 401-megawatt AI infrastructure campus is scheduled to come online in the second half of 2027.</p><p>The credit support leverages Alphabet's senior unsecured debt ratings to help TeraWulf secure competitive financing for the development. In addition to the agreement with Google, TeraWulf also executed a definitive engineering, procurement, and construction contract with Fluor to expand the project's delivery capacity.</p>
-<p>Nov 4 · <a href="https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/">reuters.com</a> | <a href="https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement">investors.terawulf.com</a></p>
 <br clear="all" />
 
 ---

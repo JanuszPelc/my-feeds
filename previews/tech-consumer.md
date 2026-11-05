@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Xbox Cloud Gaming Introduces Smartphone Controller and Cloud Connect Previews</h2>
+<a name="story-26497"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxboxwire.thesourcemediaassets.com%2Fsites%2F2%2F2026%2F11%2FXBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Xbox Cloud Gaming is launching two preview features: a smartphone controller mode for supported Smart TVs and "Cloud Connect" for the Xbox Nano Controller. The smartphone mode enables Android and iOS users to control games via their phone's web browser, while Cloud Connect, available in the U.S., allows the Nano Controller to connect directly to cloud servers through Wi-Fi to reduce input latency.</p><p>Both features are currently in testing, so availability may vary based on the specific game, device, or region. Users can provide feedback through the mobile app, the Xbox Accessories app on PC, or directly through the Smart TV interface.</p>
+<p>Nov 5 · <a href="https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/">news.xbox.com</a></p>
+<br clear="all" />
+
 <h2>Macronix Exits ROM Chip Production, Impacting Nintendo&#x27;s Cartridge Supply</h2>
 <a name="story-26474"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fswitchcarts-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Macronix, a major provider of ROM chips for Nintendo Switch cartridges, is phasing out its ROM production to shift manufacturing capacity toward NOR and NAND flash chips for the AI industry. The company announced in its third-quarter 2026 earnings report that its ROM business has "reached its end."</p><p>The exit may increase production costs for physical Switch and Switch 2 cartridges, potentially leading to higher retail prices for physical games. However, the impact could be mitigated by the continued growth of Nintendo's digital software sales, which accounted for 61.5 percent of the company's business in the second quarter of 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26214"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltad52dee3e8c29c8e%2F6ae8d5a4605218006443abe7%2Fgangofdragonsteam.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nagoshi Studio, the game development company founded by former Sega developer Toshihiro Nagoshi, has officially dissolved following a shareholders' resolution. The closure comes after parent company NetEase withdrew financial backing earlier in the year, leaving the studio's debut project, Gang of Dragon, without crucial funding.</p><p>Established in 2022 after Nagoshi departed from Ryu Ga Gotoku Studio, Nagoshi Studio had recently showcased Gang of Dragon at The Game Awards. However, financial friction—including a reported ¥7 billion funding shortfall—prompted NetEase to pull back support, mirroring a broader wave of downsizing and studio closures across NetEase's global gaming division.</p>
 <p>Nov 2 · <a href="https://www.gamedeveloper.com/business/nagoshi-studio-toshihiro-nagoshi-s-game-development-studio-after-leaving-sega-closes-as-netease-cuts-its-funding">gamedeveloper.com</a></p>
-<br clear="all" />
-
-<h2>Piotr Migdal Releases Warsaw Vibe Voxel Interactive 3D Map</h2>
-<a name="story-26238"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg2.cgtrader.com%2Fitems%2F3978269%2Fb1aaf9603c%2Flarge%2Fwarsaw-poland-50x50km-3d-city-map-3d-model-b1aaf9603c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Piotr Migdal has released Warsaw Vibe Voxel, an interactive 3D voxel map of central Warsaw that lets users explore the city in a style inspired by Minecraft and MagicaVoxel. Built from open-source geographical data, the project covers the city's central district in detailed block-based models.</p><p>The map integrates OpenStreetMap, LiDAR elevation data from GUGiK, and Warsaw's municipal tree database. Users can navigate the environment, modify the time of day and weather conditions, and interact with simulated pedestrians within the virtual model.</p>
-<p>Nov 2 · <a href="https://p.migdal.pl/warsaw-vibe-voxel/">p.migdal.pl</a> | <a href="https://news.ycombinator.com/item?id=50339221">hacker news</a></p>
 <br clear="all" />
 
 ---
