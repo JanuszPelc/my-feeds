@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>David G. Andersen Optimizes Rust Anagram Solver to 11 Nanoseconds Per Word</title>
+    <link href="https://wiredream.com/anagram-fun/" rel="alternate" />
+    <id>https://wiredream.com/anagram-fun/::v240</id>
+    <published>2026-11-05T16:05:00+00:00</published>
+    <updated>2026-11-05T16:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.exercism.org%2Ftracks%2Frust%2Fexercises%2Fanagram%2Fsolutions%2Fbotusername-1740774769.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://wiredream.com/anagram-fun/">wiredream.com</a> | <a href="https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50363353">hacker news</a></small></p><hr/><p>Software engineer David G. Andersen has detailed an optimization process for an anagram solver written in Rust, reducing dictionary generation time to 1.96 milliseconds, or 10.9 nanoseconds per word for a Scrabble dictionary. The project began as a tool to solve a Word Ladder game variant involving anagram mutations.</p><p>The performance gains were achieved through a series of iterative improvements, including eliminating dynamic vector allocations with flat arrays, packing 4-bit letter counts into a u128, switching to a faster hash map, implementing corpus-tuned 64-bit Gödel numbering using custom letter primes, and applying instruction-level parallelism with branchless auto-vectorization.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.exercism.org%2Ftracks%2Frust%2Fexercises%2Fanagram%2Fsolutions%2Fbotusername-1740774769.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 21:22 UTC | #26612</small>]]></content>
+  </entry>
+  <entry>
     <title>Terence Eden Analyzes Lorem Ipsum and Test Pages on UK Government Websites</title>
     <link href="https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/" rel="alternate" />
     <id>https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/::v240</id>

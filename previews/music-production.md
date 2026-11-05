@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Tracktion Waveform 14.1 Introduces AI Plugin Generation and Mix Analysis</h2>
+<a name="story-26592"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixdownmag.com.au%2Fwp-content%2Fuploads%2F2026%2F06%2FScreen-Shot-2026-06-29-at-2.36.07-pm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tracktion has released version 14.1 of its Waveform digital audio workstation, which includes updates for both the Free and Pro editions. The update introduces AI-driven features such as plugin generation and mix analysis, alongside a completely rebuilt export and rendering window designed for improved reliability and performance.</p><p>Users of Waveform Free now receive the Attracktive instrument player for free, while the Pro version gains advanced capabilities like AI-assisted mix analysis for loudness and spectral balance. The update also expands AI assistant flexibility by allowing local model integration via LM Studio or Ollama and provides improved interface customization through new light and dark themes.</p>
+<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/">bedroomproducersblog.com</a> | <a href="https://www.tracktion.com/products/waveform-pro-whats-new">tracktion.com</a></p>
+<br clear="all" />
+
+<h2>Puremagnetik Releases Studies Plugin Library with Free Instruments and Effects</h2>
+<a name="story-26593"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2019%2F02%2FVerv_Screenshot2_2048x2048-993x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Puremagnetik has launched Studies, a modular plugin library containing three instruments and seven effects available completely free of charge. The system divides devices across two primary plugins, with Studies Instruments handling MIDI tracks and Studies Effects processing audio signals.</p><p>The free tier provides fully unlocked access to ten experimental devices, including the tape loop synth Verv, the noise generator Expanse, and the FM soundscape synth Darklands, alongside seven audio processors. An optional subscription expands the library to sixty total devices, and the base software supports VST2, VST3, and AU formats on macOS and Windows.</p>
+<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/">bedroomproducersblog.com</a> | <a href="https://puremagnetik.com/products/studies-free">puremagnetik.com</a></p>
+<br clear="all" />
+
 <h2>Modartt Updates Pianoteq to v9.3 and Releases YFX Japanese Grand Expansion</h2>
 <a name="story-26568"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fyfx_header.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Modartt has released Pianoteq version 9.3, which includes the new YFX Japanese Grand instrument pack. This update also restores mic polar pattern displays in the Mics panel and addresses several bugs, including a memory leak and keyboard input issues in the Windows VST3 plugin.</p><p>The YFX Japanese Grand is a physically modeled grand piano designed for versatility in both live and studio environments. It is available as a paid expansion for €49 / $49 and can be evaluated within the updated software.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26533"><img src="https://wsrv.nl/?url=https%3A%2F%2Frelabdevelopment.com%2Fwp-content%2Fuploads%2F2022%2F10%2F480-Early-Refelctions.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Relab Development has released software updates for both its LX480 Dual-Engine Reverb plugin, bringing it to version 4.1.1, and its LX480 Essentials plugin, updating it to version 2.3.0. The updates introduce new preset managers, dark mode support, and freely resizable interfaces alongside workflow enhancements and various bug fixes.</p><p>Version 4.1.1 of the Dual-Engine Reverb fixes mono input processing and centers the dry signal, while addressing previous latency reporting issues and DAW compatibility errors. Meanwhile, LX480 Essentials version 2.3.0 adds a compact preset manager, toolbar bypass button, and parameter tooltips, while resolving compatibility problems on Apple M4 Macs and fixing phase shifts during fully dry output.</p>
 <p>Nov 5 · <a href="https://www.kvraudio.com/news/relab-development-updates-lx480-dual-engine-reverb-to-v4-1-1-and-lx480-essentials-to-v2-3-0-69636?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69636">kvraudio.com</a> | <a href="https://relabdevelopment.com/downloads/lx480-dual-engine-reverb-4-1-1-changelog/">relabdevelopment.com</a></p>
-<br clear="all" />
-
-<h2>Pro Tools 2026.11 Introduces AI Stem Separation and Extensions</h2>
-<a name="story-26514"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Avid has introduced AI stem separation as a new Extension in Pro Tools 2026.11. This feature allows users to separate an audio recording into up to six component stems: vocals, drums, bass, guitar, keys, and other instruments.</p><p>The update also debuts a Pro Tools Extensions ecosystem, enabling third-party developers like Splice and SoundFlow to integrate specialized tools directly into the DAW. Other enhancements in this release include MIDI Polyphonic Expression (MPE) support and High DPI support for Windows.</p>
-<p>Nov 5 · <a href="https://musictech.com/news/pro-tools-now-features-ai-stem-separation/">musictech.com</a> | <a href="https://www.avid.com/resource-center/whats-new-in-pro-tools-202611">avid.com</a></p>
-<br clear="all" />
-
-<h2>Jersey Discusses Debut Album &#x27;NOTHING&#x27;S FAKE&#x27; and Hardware-Based Live Performances</h2>
-<a name="story-26509"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJersey-Avalon-Cafe-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Electronic duo Jersey, consisting of brothers Carl and Renaud Amiard, designed their debut album *NOTHING’S FAKE* specifically for live performance. Their stage setup relies entirely on hardware—including synthesizers, sequencers, and MIDI controllers—rather than laptops or digital audio workstations.</p><p>The duo uses AI text-to-speech models of their own voices to produce vocal textures that blend human and robotic qualities. Influenced by artists such as Gorillaz and Daft Punk, they prioritize spontaneous improvisation and tactile hardware interaction to bridge the gap between indie-pop and electronic music.</p>
-<p>Nov 5 · <a href="https://musictech.com/features/interviews/jersey-interview-nothings-fake/">musictech.com</a> | <a href="https://jersey-cr.bandcamp.com/album/nothings-fake">jersey-cr.bandcamp.com</a></p>
 <br clear="all" />
 
 ---

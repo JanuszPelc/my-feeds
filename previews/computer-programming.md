@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>David G. Andersen Optimizes Rust Anagram Solver to 11 Nanoseconds Per Word</h2>
+<a name="story-26612"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.exercism.org%2Ftracks%2Frust%2Fexercises%2Fanagram%2Fsolutions%2Fbotusername-1740774769.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Software engineer David G. Andersen has detailed an optimization process for an anagram solver written in Rust, reducing dictionary generation time to 1.96 milliseconds, or 10.9 nanoseconds per word for a Scrabble dictionary. The project began as a tool to solve a Word Ladder game variant involving anagram mutations.</p><p>The performance gains were achieved through a series of iterative improvements, including eliminating dynamic vector allocations with flat arrays, packing 4-bit letter counts into a u128, switching to a faster hash map, implementing corpus-tuned 64-bit Gödel numbering using custom letter primes, and applying instruction-level parallelism with branchless auto-vectorization.</p>
+<p>Nov 5 · <a href="https://wiredream.com/anagram-fun/">wiredream.com</a> | <a href="https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50363353">hacker news</a></p>
+<br clear="all" />
+
 <h2>Terence Eden Analyzes Lorem Ipsum and Test Pages on UK Government Websites</h2>
 <a name="story-26605"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshkspr.mobi%2Fblog%2Fwp-content%2Fuploads%2F2026%2F11%2Florem-ipsum-dolor-sit-amet-5-%25E2%2580%2593-Foreign-Commonwealth-Development-Office-Blogs.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Terence Eden examines how test pages, dummy data, and placeholder text frequently end up published on live UK government websites. By searching for common placeholder terms like "lorem ipsum," users can uncover forgotten pre-production environments, style guides, and outdated plugins left behind during development.</p><p>These accidental disclosures offer a glimpse into the development processes of various public sector bodies, including local councils and government departments. While some test entries are eventually locked down or removed, others persist indefinitely as permanent fixtures of live digital infrastructure.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26402"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjklintan.github.io%2Fimg%2Fprojects%2FclothDemo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mr.doob has released "Fold" as his first entry for Codevember 2026, featuring an interactive Three.js scene where a continuous sheet of translucent plastic pours down and folds onto a studio floor.</p><p>Users can interact with the simulation by dragging the cloth or pressing the spacebar to pause the movement, showcasing real-time physics and rendering performance.</p>
 <p>Nov 4 · <a href="https://mrdoob.github.io/codevember-2026/01/">mrdoob.github.io</a> | <a href="https://news.ycombinator.com/item?id=50361268">hacker news</a></p>
-<br clear="all" />
-
-<h2>PostgreSQL Expert Hironobu Suzuki Seeks International Engineering Roles</h2>
-<a name="story-26385"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.interdb.jp%2Fpg%2Fpgsql08%2Ffig-8-16.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hironobu Suzuki, author of the widely referenced technical documentation "The Internals of PostgreSQL," has announced that he is fully recovered from a health-related stay in Japan and is open to new international career opportunities. He is currently seeking challenging database engineering tasks, roles offering visa sponsorship, or remote positions that support a digital nomad lifestyle.</p><p>Suzuki brings extensive experience as a software engineer, technical director, and former director of the Japan PostgreSQL Users Group. His comprehensive online reference work details core database subsystems ranging from buffer management and query processing to replication across multiple PostgreSQL versions.</p>
-<p>Nov 4 · <a href="https://www.interdb.jp/pg/index.html">interdb.jp</a> | <a href="https://news.ycombinator.com/item?id=50358702">hacker news</a></p>
 <br clear="all" />
 
 ---

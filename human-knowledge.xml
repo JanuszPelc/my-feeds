@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-05T15:05:00+00:00</updated>
+  <updated>2026-11-05T16:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Axiom Math Verifies Stacks Project Using AI Agents</title>
+    <link href="https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/::v240</id>
+    <published>2026-11-05T16:17:00+00:00</published>
+    <updated>2026-11-05T16:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGri_iKSWUAADL42.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/">techcrunch.com</a> | <a href="https://x.com/aximmathai/status/2118028834515874112?a=nH4WMVaUtbX0_mcPN4c&s=20">x.com</a></small></p><hr/><p>The company has completed the formal verification of the Stacks Project, a massive open-source mathematical reference, by translating approximately 7,654 pages into 16 million lines of computer-checked code. Using a fleet of AI agents and the Lean programming language, the team transformed the interconnected mathematical results into a logically sound foundation that can be verified by proof assistants.</p><p>This verification aims to provide a reliable substrate for future AI agents to perform scientific and software engineering tasks without generating logical errors. By formalizing algebraic geometry—a field where material has previously lacked formal verification—the company intends to create a reusable, checked library to prevent "AI slop" in mathematical reasoning.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGri_iKSWUAADL42.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 21:27 UTC | #26567</small>]]></content>
+  </entry>
   <entry>
     <title>KAIST and Georgia Tech Researchers Develop Membrane for Room-Temperature Crude Oil Separation</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261103003207.htm" rel="alternate" />
