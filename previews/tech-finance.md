@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Snap Shares Fall as Third-Quarter User Growth Misses Estimates</h2>
+<a name="story-26470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSNAP-RESULTS%2Fakveoyxmjvr%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Snap Inc. shares fell more than 9% in after-hours trading after the company reported third-quarter daily active user growth that missed analyst estimates. While revenue rose 14% year-over-year to $1.72 billion, matching market expectations, the company reported 495 million daily active users compared to the 499 million projected.</p><p>The company reported a quarterly net income of $56 million and adjusted EBITDA of $383 million. Additionally, Snap recorded $210 million in operating cash flow and $164 million in free cash flow for the quarter.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates">bloomberg.com</a> | <a href="https://investor.snap.com/news/news-details/2026/Snap-Inc--Announces-Third-Quarter-2026-Financial-Results/default.aspx">investor.snap.com</a></p>
+<br clear="all" />
+
 <h2>Qualcomm Reports $10.3 Billion in Fourth-Quarter Revenue Amid Handset Slump</h2>
 <a name="story-26472"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2024%2F11%2FQualcomm-Q4-2024-earnings-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fourth-quarter revenue fell 8% year-over-year to $10.3 billion, exceeding analyst estimates of $10.1 billion. Conversely, handset revenue dropped 26% to $5.14 billion, falling short of the projected $5.25 billion.</p><p>The semiconductor firm is looking to offset declining smartphone demand by expanding into new markets such as automotive. Despite the revenue beat, the company's stock dropped more than 5% after hours following a weak profit forecast.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26349"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSUPERMICRO-RESULTS%2Flbpgbkodyvq%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Super Micro Computer reported first-quarter revenue of $19.95 billion, exceeding Wall Street estimates of $16.39 billion and representing a 298% year-over-year increase. The company also forecasted second-quarter revenue to arrive above analyst estimates due to high demand for AI-optimized servers.</p><p>Following the earnings report, shares of the company rose by more than 7% in after-hours trading. The results underscore the company's significant growth alongside the expanding artificial intelligence hardware market.</p>
 <p>Nov 3 · <a href="https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03/">reuters.com</a> | <a href="https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx">ir.supermicro.com</a></p>
-<br clear="all" />
-
-<h2>AMD Third-Quarter Revenue Rises 45% Led by Data Center Growth</h2>
-<a name="story-26346"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AMD reported third-quarter revenue of $13.38 billion, a 45% increase from the previous year, exceeding analyst expectations of $13.09 billion. Adjusted earnings per share reached $2.09, surpassing the $1.95 consensus. Data center revenue nearly doubled, now accounting for 64% of the company's total revenue.</p><p>Growth in the data center unit was driven by demand for server CPUs used in agentic AI applications. Conversely, the gaming and PC segments faced headwinds, with combined revenue for those segments falling 8% year-over-year, including a 40% drop in gaming revenue. AMD projects fourth-quarter revenue to be approximately $17 billion.</p>
-<p>Nov 3 · <a href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results">ir.amd.com</a> | <a href="https://news.ycombinator.com/item?id=50367125">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-04T22:50:00+00:00</updated>
+  <updated>2026-11-04T22:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Snap Shares Fall as Third-Quarter User Growth Misses Estimates</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates::v240</id>
+    <published>2026-11-04T22:51:00+00:00</published>
+    <updated>2026-11-04T22:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSNAP-RESULTS%2Fakveoyxmjvr%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates">bloomberg.com</a> | <a href="https://investor.snap.com/news/news-details/2026/Snap-Inc--Announces-Third-Quarter-2026-Financial-Results/default.aspx">investor.snap.com</a></small></p><hr/><p>Snap Inc. shares fell more than 9% in after-hours trading after the company reported third-quarter daily active user growth that missed analyst estimates. While revenue rose 14% year-over-year to $1.72 billion, matching market expectations, the company reported 495 million daily active users compared to the 499 million projected.</p><p>The company reported a quarterly net income of $56 million and adjusted EBITDA of $383 million. Additionally, Snap recorded $210 million in operating cash flow and $164 million in free cash flow for the quarter.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSNAP-RESULTS%2Fakveoyxmjvr%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 04:56 UTC | #26470</small>]]></content>
+  </entry>
   <entry>
     <title>Qualcomm Reports $10.3 Billion in Fourth-Quarter Revenue Amid Handset Slump</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump" rel="alternate" />
