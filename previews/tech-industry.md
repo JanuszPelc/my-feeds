@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>UK Crime and Policing Act 2026 Introduces New Offenses for Specific Pornographic Content</h2>
+<a name="story-26574"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FHV9LwJBWcAAfyRz.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Starting November 6, 2026, the Crime and Policing Act will criminalize the possession and publication of pornography depicting strangulation, suffocation, incest roleplay, or sexual activity involving individuals appearing to be under 16 in England and Wales. Possession of content depicting strangulation or suffocation carries a maximum penalty of two years in prison, while publication of these materials can result in up to five years.</p><p>Industry advocates and sex workers warn that the law's vague language regarding "realistic" depictions and "suffocation" could cause widespread censorship and a chilling effect on consensual adult content. Some platforms are already removing various fetish categories to ensure compliance. The law's potential for retroactive application also raises concerns regarding the legality of existing creator back catalogs and long-term income.</p>
+<p>Nov 5 · <a href="https://www.404media.co/uk-crime-and-policing-act-pornography/">404media.co</a> | <a href="https://www.gov.uk/guidance/crime-and-policing-act-2026-offences-relating-to-pornography">gov.uk</a></p>
+<br clear="all" />
+
 <h2>ACME Inc. Seeks Senior TypeScript Software Line Specialist</h2>
 <a name="story-26614"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-us.googleusercontent.com%2FiT5HS1uPlY2T0YuT9vj6o6Vyi2_Lh2fH94V2j3NtZqVk30dJlnyRPkmkWYBDp7qkC2nuJmlVRBb1sw97QA12zjfBqsF_Qfw4LuSFm9KSZV2-zyRkdiVYeyeoGOpjY2Dgukb-RUX86rbbdi-eQq3ZZhs&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ACME Inc., a startup providing financial monitoring for small businesses, is recruiting a senior software line specialist with TypeScript expertise. This role is designed to address complex technical issues that AI agents cannot resolve through standard prompting, specifically focusing on errors that cause automated loops.</p><p>Responsibilities include performing deep-dive debugging through code inspection, log analysis, and database queries to resolve issues that disrupt agent-driven workflows. The position is structured as a single-threaded role dedicated to issue resolution and writing postmortems for AI training, rather than feature development.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26495"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6ad8f722dc67b5b4d01f61c0%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has internally decided to move away from fruit-based codenames for its artificial intelligence models to better align its branding with its high-level AI ambitions. Previous internal names included "Watermelon," "Avocado," and "Mango."</p><p>This transition mirrors an industry trend where developers are shifting from casual, grocery-themed names toward more formal identifiers, such as Anthropic's "Mythos." Other tech companies have previously used food-related names, including OpenAI's "Garlic" and Google's "Nano Banana" image generator.</p>
 <p>Nov 5 · <a href="https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11">businessinsider.com</a></p>
-<br clear="all" />
-
-<h2>Pliant Raises $80M Series C to Integrate AI Agents into B2B Payments</h2>
-<a name="story-26492"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.thenextweb.com%2F2026%2F11%2Fpliant-cofounders-malte-rau-fabian-terner.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Pliant has raised $80 million in a Series C funding round to expand its B2B payment infrastructure to support AI agents. Led by Seaya Nova and Speedinvest, the funding is intended to support the company's expansion into the US and Canada and its AI development roadmap.</p><p>The platform uses the Model Context Protocol (MCP) to allow external AI agents, such as ChatGPT and Claude, to execute payment workflows with built-in permissions and audit trails. Pliant provides commercial card issuing, foreign exchange, and spend management services to various sectors, including travel, insurance, and AI-native companies.</p>
-<p>Nov 5 · <a href="https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest">thenextweb.com</a> | <a href="https://www.getpliant.com/en/press/80-million-series-c">getpliant.com</a></p>
 <br clear="all" />
 
 ---

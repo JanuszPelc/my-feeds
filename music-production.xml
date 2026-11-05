@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-05T17:04:00+00:00</updated>
+  <updated>2026-11-05T17:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>JBL Professional Introduces 3 Series MkIII Studio Monitors</title>
+    <link href="https://musictech.com/news/gear/jbl-3-series-mkiii/" rel="alternate" />
+    <id>https://musictech.com/news/gear/jbl-3-series-mkiii/::v240</id>
+    <published>2026-11-05T17:16:00+00:00</published>
+    <updated>2026-11-05T17:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJBL-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/jbl-3-series-mkiii/">musictech.com</a> | <a href="https://jblpro.com/en/news/jbl-professional-introduces-3-series-mkiii-powered-studio-monitors-and-subwoofer">jblpro.com</a></small></p><hr/><p>JBL Professional has announced the launch of its 3 Series MkIII line of powered studio monitors, featuring an extensive redesign of the popular budget-friendly platform. The new lineup includes the 305P MkIII, 306P MkIII, and 308P MkIII two-way monitors with driver sizes ranging from 5 to 8 inches, along with the matching 310S MkIII powered subwoofer.</p><p>This generation marks the first time the series utilizes Class D amplification, which delivers higher output volume, increased headroom, and reduced functional noise. The monitors also feature rebuilt tweeters and woofers, updated Image Control Waveguides, integrated mounting provisions, and four one-touch room controls providing 81 corrective EQ combinations without requiring external software.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJBL-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 22:17 UTC | #26582</small>]]></content>
+  </entry>
   <entry>
     <title>Ueberschall Releases Disco and LoFi Loop Bundles for Elastik Player</title>
     <link href="https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-69642?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69642" rel="alternate" />

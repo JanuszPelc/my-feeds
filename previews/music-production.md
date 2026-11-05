@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>JBL Professional Introduces 3 Series MkIII Studio Monitors</h2>
+<a name="story-26582"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJBL-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>JBL Professional has announced the launch of its 3 Series MkIII line of powered studio monitors, featuring an extensive redesign of the popular budget-friendly platform. The new lineup includes the 305P MkIII, 306P MkIII, and 308P MkIII two-way monitors with driver sizes ranging from 5 to 8 inches, along with the matching 310S MkIII powered subwoofer.</p><p>This generation marks the first time the series utilizes Class D amplification, which delivers higher output volume, increased headroom, and reduced functional noise. The monitors also feature rebuilt tweeters and woofers, updated Image Control Waveguides, integrated mounting provisions, and four one-touch room controls providing 81 corrective EQ combinations without requiring external software.</p>
+<p>Nov 5 · <a href="https://musictech.com/news/gear/jbl-3-series-mkiii/">musictech.com</a> | <a href="https://jblpro.com/en/news/jbl-professional-introduces-3-series-mkiii-powered-studio-monitors-and-subwoofer">jblpro.com</a></p>
+<br clear="all" />
+
 <h2>Ueberschall Releases Disco and LoFi Loop Bundles for Elastik Player</h2>
 <a name="story-26573"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flofidisco-bundle-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ueberschall has released two new sample library collections, the Disco Bundle and the LoFi Bundle, designed for its Elastik loop player and Downloader app. The Disco Bundle includes 9 GB of content across four products—Disco Classics, Disco Classics 2, Electric Disco, and DiscoTape—featuring over 1,900 loops and samples split across 30 construction kits.</p><p>The LoFi Bundle offers approximately 15 GB of content combining four other libraries: LoFi Beats, LoFi Lounge, Noise Floor, and Jazz Trip. It incorporates over 3,200 loops and samples across 40 construction kits blending jazz, hip-hop, downtempo, and lounge elements. Both bundles are sold at discounted rates compared to purchasing the individual libraries separately.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26529"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsampler-arena-tab4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SudoMetalStudio has released SMS-Anville Sampler, a free, open-source plugin for Windows and Linux designed for real-time audio chopping. The sampler allows users to record incoming audio directly onto MIDI pads, enabling a live workflow for slicing audio into playable segments.</p><p>The plugin includes features for pitch and speed adjustment, envelope shaping, and a "Dirty" mode that simulates 12-bit resolution. The current v1.1.0 release provides 32-bit floating-point sample storage up to 96 kHz and utilizes dynamic memory allocation to allow for recordings longer than eight minutes.</p>
 <p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/sms-anville-sampler/">bedroomproducersblog.com</a> | <a href="https://github.com/sirsipe/SMS-Plugins">github.com</a></p>
-<br clear="all" />
-
-<h2>Meat Beats Releases Sublime Free Bass Synthesizer</h2>
-<a name="story-26531"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F54d696e5e4b05ca7b54cff5c%2F122968ea-4a3b-48bf-a3e4-31e7148a4c5f%2FSubBoomBass%2B2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meat Beats has released Sublime, a free monophonic bass synthesizer for macOS and Windows. The plugin features 125 presets organized into five banks, targeting electronic genres such as house and garage. Sound manipulation options include harmonics, distortion, pitch sweeps, a tempo-synced LFO, and built-in effects such as tape hiss and a sidechain-style "pump" effect.</p><p>Available in VST3 and AU formats, the plugin supports Intel and Apple Silicon Macs. Users can save custom presets and assign knobs to MIDI controllers. The download is hosted on Gumroad.</p>
-<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/meat-beats-sublime/">bedroomproducersblog.com</a> | <a href="https://meatbeats.com/p/sublime">meatbeats.com</a></p>
 <br clear="all" />
 
 ---
