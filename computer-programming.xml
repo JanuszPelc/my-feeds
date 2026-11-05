@@ -3,9 +3,27 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-05T14:53:00+00:00</updated>
+  <updated>2026-11-05T19:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Servo Releases Version 0.7.0 with New Web Platform Features</title>
+    <link href="https://servo.org/blog/2026/11/05/september-in-servo/" rel="alternate" />
+    <id>https://servo.org/blog/2026/11/05/september-in-servo/::v240</id>
+    <published>2026-11-05T15:09:00+00:00</published>
+    <updated>2026-11-05T15:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fservo.org%2Fimg%2Fblog%2F2026-10-gary-banner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://servo.org/blog/2026/11/05/september-in-servo/">servo.org</a> | <a href="https://lobste.rs/s/u26wki/september_servo_progress_rounded">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50379576">hacker news</a></small></p><hr/><p>Servo version 0.7.0 includes 527 commits from September, introducing web platform features such as the `:checked` pseudoclass, the `user-select` property, and the `&lt;progress&gt;` element. The release also adds new DOM APIs, including CSS typed arithmetic, the `roundRect()` method for Canvas, and expanded SVG element support.</p><p>Improvements to performance and stability target reduced memory allocations, garbage collection interactions, and IPC overhead. Ongoing development includes advancements in closed captioning for video, WebGL2 conformance, and improved support for WYSWIG editors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fservo.org%2Fimg%2Fblog%2F2026-10-gary-banner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 19:47 UTC | #26597</small>]]></content>
+  </entry>
+  <entry>
+    <title>Discord Replaces Electron Framework with Rust for Desktop App</title>
+    <link href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app" rel="alternate" />
+    <id>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app::v240</id>
+    <published>2026-11-05T15:02:00+00:00</published>
+    <updated>2026-11-05T15:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F24681191%2F115129604-31b75d00-9ff0-11eb-952d-77d04fae40f6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app">theverge.com</a> | <a href="https://x.com/svishnevskiy/status/2118081920194203799">x.com</a> | <a href="https://news.ycombinator.com/item?id=50378625">hacker news</a></small></p><hr/><p>Discord is replacing its Electron-based desktop application with a new client written in the Rust programming language. This transition aims to improve performance and reduce memory consumption, addressing the high system resource usage associated with the current web-based framework.</p><p>Discord CTO Stanislav Vishnevskiy reported that early Windows builds using Rust have utilized roughly 290MB of RAM, a significant improvement over the 1GB or more often required by the existing application. The new architecture will enable mobile apps to share code with the desktop client via Rust while retaining native user interfaces.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F24681191%2F115129604-31b75d00-9ff0-11eb-952d-77d04fae40f6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 19:37 UTC | #26547</small>]]></content>
+  </entry>
   <entry>
     <title>X Rolls Out Updated Web App With Performance Improvements</title>
     <link href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster" rel="alternate" />
@@ -29,9 +47,9 @@
     <link href="https://declarative-dragging.github.io/" rel="alternate" />
     <id>https://declarative-dragging.github.io/::v240</id>
     <published>2026-11-05T01:39:00+00:00</published>
-    <updated>2026-11-05T01:39:00+00:00</updated>
+    <updated>2026-11-05T19:58:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdeclarative-dragging.github.io%2Fvideo-poster.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://declarative-dragging.github.io/">declarative-dragging.github.io</a> | <a href="https://lobste.rs/s/jplxxr/declarative_dragging">lobsters</a></small></p><hr/><p>Declarative dragging is a model-driven approach that allows interface authors to build complex drag-and-drop interactions simply by specifying accessible future model states rather than writing custom geometry and animation code. The underlying engine speculatively renders target states to synthesize smooth, responsive interactions, removing much of the manual effort traditionally required in UI development.</p><p>Developed by researchers Joshua Horowitz, Andrew Blinn, and Jeffrey Heer, the technique is implemented in an open-source SVG library called Dragology and received a Best Paper Award at UIST 2026. The system supports composable behaviors and parallel representations, with applications ranging from mathematical visualization explorables and academic programming environments to 3D games.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeclarative-dragging.github.io%2Fvideo-poster.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 08:59 UTC | #26508</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://declarative-dragging.github.io/">declarative-dragging.github.io</a> | <a href="https://lobste.rs/s/jplxxr/declarative_dragging">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50368481">hacker news</a></small></p><hr/><p>Declarative dragging is a model-driven approach that allows interface authors to build complex drag-and-drop interactions simply by specifying accessible future model states rather than writing custom geometry and animation code. The underlying engine speculatively renders target states to synthesize smooth, responsive interactions, removing much of the manual effort traditionally required in UI development.</p><p>Developed by researchers Joshua Horowitz, Andrew Blinn, and Jeffrey Heer, the technique is implemented in an open-source SVG library called Dragology and received a Best Paper Award at UIST 2026. The system supports composable behaviors and parallel representations, with applications ranging from mathematical visualization explorables and academic programming environments to 3D games.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeclarative-dragging.github.io%2Fvideo-poster.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 08:59 UTC | #26508</small>]]></content>
   </entry>
   <entry>
     <title>Go Releases encoding/json/v2 and encoding/json/jsontext Packages</title>
@@ -382,14 +400,5 @@
     <updated>2026-11-01T16:53:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmovq.de%2Fblog%2Fpostings%2F2026-10-31%2F0%2Fpdfinfo-wc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html">movq.de</a> | <a href="https://lobste.rs/s/54xwm8/novellas_with_groff">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50325694">hacker news</a></small></p><hr/><p>Blogger Novq has detailed the creation of two novellas spanning approximately 15,000 and 40,000 words using the groff typesetting system. The texts were compiled with custom macro packages and a minimalist Vim workflow, generating formatted PDF outputs on aging hardware in under two seconds.</p><p>Although the completed fiction works will remain unpublished by choice, the post provides a technical walkthrough of the groff configuration. It covers basic text formatting, page-number footers, header and footer traps, inter-sentence spacing, and German hyphenation rules.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmovq.de%2Fblog%2Fpostings%2F2026-10-31%2F0%2Fpdfinfo-wc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 04:08 UTC | #26077</small>]]></content>
-  </entry>
-  <entry>
-    <title>Andrej Karpathy Launches HackerTube YouTube Alternative</title>
-    <link href="https://karpathy.bearblog.dev/hacker-tube/" rel="alternate" />
-    <id>https://karpathy.bearblog.dev/hacker-tube/::v240</id>
-    <published>2026-10-31T19:57:00+00:00</published>
-    <updated>2026-10-31T19:57:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fkarpathy%2Fimage-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://karpathy.bearblog.dev/hacker-tube/">karpathy.bearblog.dev</a> | <a href="https://news.ycombinator.com/item?id=50319510">hacker news</a></small></p><hr/><p>Andrej Karpathy has launched HackerTube, a curated YouTube alternative built using Claude Opus 5.5. The platform aggregates 6,454 YouTube videos recommended in Hacker News comments between 2007 and 2026, filtering out low-grade content and spam across 150 topics.</p><p>Designed as an alternative to mainstream recommendation algorithms, HackerTube features a clean interface, clean thumbnails, local session-based recommendations, keyboard shortcuts, and data export options. Karpathy developed the project in roughly two hours to bypass conventional video platform bloat.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fkarpathy%2Fimage-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:23 UTC | #26061</small>]]></content>
   </entry>
 </feed>

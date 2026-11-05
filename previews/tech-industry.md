@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Micron Pauses Work on $4.5 Billion Taiwan Plant After Labor Dispute</h2>
+<a name="story-26548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fm5YG7nxQFmanLkbviJBms-1920-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Micron Technology has suspended construction on its Fab 11E memory chip facility in Taoyuan, Taiwan, amid a protracted labor dispute. The project, budgeted between $3 billion and $4.5 billion, was previously scheduled to begin production in 2028.</p><p>The suspension follows mounting uncertainties surrounding union negotiations, including disagreements over profit-sharing terms. While the U.S. chipmaker has largely halted site work, limited activity continues to secure the facility, and the company has notified local officials and suppliers of the pause.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Amazon and Uber Eats Partner for Prime Member Restaurant Delivery</h2>
 <a name="story-26549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F10919.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon and Uber have partnered to make Uber Eats the official restaurant delivery provider for U.S. Amazon Prime members. Under the agreement, subscribers can order food through the Amazon app or website with $0 delivery fees on orders of $25 or more, bypassing the need for a separate Uber account.</p><p>This partnership returns Amazon to the restaurant delivery market after the company discontinued its internal Amazon Restaurants service. Uber gains access to Prime's massive user base to compete with market leader DoorDash, though customers will still be responsible for service fees, tips, and menu markups.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Anthropic Reaches First Content Licensing Deal with Associated Press for Election Coverage</h2>
 <p>Anthropic entered into a content and data licensing agreement with the Associated Press ahead of the midterm elections, marking the artificial intelligence firm's first publisher partnership. Through the arrangement, users querying Claude received up-to-the-minute election results and polling data provided by and attributed to the AP.</p><p>The partnership represents a strategic shift for Anthropic, which previously relied on public web scraping under a fair-use stance, unlike competitors such as OpenAI that have pursued numerous publisher deals. Financial terms and the duration of the agreement were not disclosed, and both organizations declined to comment on the record.</p>
 <p>Nov 5 · <a href="https://www.adweek.com/media/anthropic-licensing-deal-ap-election/">adweek.com</a></p>
-<br clear="all" />
-
-<h2>Isomorphic Labs in Talks to Raise $5 Billion at $50 Billion Valuation</h2>
-<a name="story-26477"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.resultsense.com%2Fassets%2Fimg%2F2026-05-13-sovereign-ai-isomorphic-labs-investment-FK1L_H7v_xYSVM.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet Inc.'s Isomorphic Labs is negotiating a funding round of approximately $5 billion at a valuation of around $50 billion. The Google DeepMind spinout develops artificial intelligence technologies designed to accelerate and transform drug discovery pipelines.</p><p>The potential financing follows a previous funding round earlier in the year, when the startup secured $2.1 billion in May. The ongoing discussions highlight continued large-scale capital deployment into AI-driven biopharmaceutical research.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

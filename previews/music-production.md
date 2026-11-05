@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sinevibes Releases Malfunction v3.0 Circuit-Bent Filter Plugin</h2>
+<a name="story-26555"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsinevibesmalfunction-v3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sinevibes has released Malfunction version 3.0, a circuit-bent filter effect plugin for macOS, Windows, and Linux. The software uses an experimental algorithm that simulates tampered internal filter connections to generate distorted and glitchy textures.</p><p>The update includes a multi-mode state variable filter with five modes, two advanced LFOs with 15 waveforms, and 4x oversampling for aliasing suppression. Malfunction is available in VST3, AU, and AAX formats for $29.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/sinevibes-releases-malfunction-v3-0-69639?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69639">kvraudio.com</a> | <a href="https://www.sinevibes.com/malfunction/">sinevibes.com</a></p>
+<br clear="all" />
+
+<h2>Overmono and Project Miracle Release Diamond Cut Bus Processor</h2>
+<a name="story-26557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FOvermono-Diamond-Cut%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Welsh electronic music duo Overmono have released Diamond Cut, a five-in-one bus processor developed in collaboration with Finnish plug-in company Project Miracle. Named after the duo's track of the same name, the plug-in combines a six-mode limiter, a tonal balancing EQ, soft saturation, a psychoacoustic bass enhancer, and a stereo width tool designed to mirror the group's mixing workflow.</p><p>Priced at £89/$109/€99, the software also features loudness metering, a preset browser, and options for oversampling and dithering. Project Miracle, founded in 2023 by music producers, software engineers, and designers, positions the tool to keep producers in a creative flow state while providing transparent transient preservation and heavy limiting.</p>
+<p>Nov 5 · <a href="https://musictech.com/news/gear/overmono-diamond-cut/">musictech.com</a> | <a href="https://www.projectmiracle.space/">projectmiracle.space</a></p>
+<br clear="all" />
+
 <h2>IRQ inc. Offers 40% Discount on Adeder Limiter and Enhancer</h2>
 <a name="story-26530"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fblack-friday-sale-badges-discount-labels-collection-variety-promotional-badges-tags-black-friday-featuring-432610179.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>IRQ inc. is running a Black Friday sale through December 4, 2026, offering its Adeder Limiter and Adeder Enhancer plugins at a 40% discount. Individual plugins are priced at $23.40, while the two-plugin bundle is available for $41.40.</p><p>The Adeder Limiter, designed by musician Kotobuki Hikaru, features a wide input gain range and a fixed 4,096-sample look-ahead. The Adeder Enhancer focuses on high-frequency enhancement for vocals and narration and is compatible with macOS and Windows in AU, VST3, and AAX formats.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuad_capitol_studios_gallery_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Universal Audio has released Capitol Studios, a native room modeling and reverb plug-in for macOS and Windows. The software emulates Capitol Studios A and B, including various microphones, consoles, outboard processors, and four underground echo chambers.</p><p>The plug-in features dynamic room modeling that allows users to move virtual microphones within the digital space to alter room response in real time. It includes microphone setups curated by Capitol engineer Steve Genewick and is priced at $249, with availability also included in the UAD Spark Studio subscription.</p>
 <p>Nov 5 · <a href="https://www.kvraudio.com/news/universal-audio-releases-capitol-studios-room-modeling-and-reverb-plug-in-69628?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69628">kvraudio.com</a> | <a href="https://www.uaudio.com/products/capitol-studios">uaudio.com</a></p>
-<br clear="all" />
-
-<h2>Toontrack Releases Metal Machine 2 EZX</h2>
-<a name="story-26480"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt769_metalmachine2ezx_top-image.1793839902.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Metal Machine 2 EZX is a drum expansion for EZdrummer 3 and Superior Drummer 3, produced by Andy Sneap at Backstage Recording Studio. The library is designed as a companion to the original Metal Machine EZX released in 2011.</p><p>The expansion includes three kits representing the 1990s, 2010s, and 2020s, targeting traditional, progressive, and extreme metal genres. Sampling and MIDI grooves were performed by Dan Wilding of Carcass, and the product is priced at $89 USD.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/toontrack-releases-metal-machine-2-ezx-by-andy-sneap-69626?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69626">kvraudio.com</a> | <a href="https://www.toontrack.com/product/metal-machine-2-ezx/">toontrack.com</a></p>
-<br clear="all" />
-
-<h2>NUGEN Audio Releases VisLM 3 Loudness Metering Plugin</h2>
-<a name="story-26435"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnugen-audio_vislm-3-user-interface.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>NUGEN Audio has released VisLM 3, the latest generation of its loudness metering and compliance software. The update introduces several major workflow enhancements, including automated stem monitoring across multiple plugin instances, support for up to 9.1.6 surround channels, and new measurement tools like loudness-to-dialogue ratio tracking.</p><p>Designed to help audio professionals manage increasingly complex mixing standards, VisLM 3 also adds timestamped comments via an updated flags system, quality control report exports, and built-in support for updated specifications including EBU R128 s4 and ATSC A/85:2026-07. Available immediately for $499, the plugin offers upgrade paths for existing users while retaining its core momentary, short-term, and True Peak measurement capabilities.</p>
-<p>Nov 4 · <a href="https://www.kvraudio.com/news/nugen-audio-releases-vislm-3-69613?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69613">kvraudio.com</a> | <a href="https://nugenaudio.com/vislm/">nugenaudio.com</a></p>
 <br clear="all" />
 
 ---

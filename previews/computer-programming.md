@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Servo Releases Version 0.7.0 with New Web Platform Features</h2>
+<a name="story-26597"><img src="https://wsrv.nl/?url=https%3A%2F%2Fservo.org%2Fimg%2Fblog%2F2026-10-gary-banner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Servo version 0.7.0 includes 527 commits from September, introducing web platform features such as the `:checked` pseudoclass, the `user-select` property, and the `&lt;progress&gt;` element. The release also adds new DOM APIs, including CSS typed arithmetic, the `roundRect()` method for Canvas, and expanded SVG element support.</p><p>Improvements to performance and stability target reduced memory allocations, garbage collection interactions, and IPC overhead. Ongoing development includes advancements in closed captioning for video, WebGL2 conformance, and improved support for WYSWIG editors.</p>
+<p>Nov 5 · <a href="https://servo.org/blog/2026/11/05/september-in-servo/">servo.org</a> | <a href="https://lobste.rs/s/u26wki/september_servo_progress_rounded">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50379576">hacker news</a></p>
+<br clear="all" />
+
+<h2>Discord Replaces Electron Framework with Rust for Desktop App</h2>
+<a name="story-26547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F24681191%2F115129604-31b75d00-9ff0-11eb-952d-77d04fae40f6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Discord is replacing its Electron-based desktop application with a new client written in the Rust programming language. This transition aims to improve performance and reduce memory consumption, addressing the high system resource usage associated with the current web-based framework.</p><p>Discord CTO Stanislav Vishnevskiy reported that early Windows builds using Rust have utilized roughly 290MB of RAM, a significant improvement over the 1GB or more often required by the existing application. The new architecture will enable mobile apps to share code with the desktop client via Rust while retaining native user interfaces.</p>
+<p>Nov 5 · <a href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app">theverge.com</a> | <a href="https://x.com/svishnevskiy/status/2118081920194203799">x.com</a> | <a href="https://news.ycombinator.com/item?id=50378625">hacker news</a></p>
+<br clear="all" />
+
 <h2>X Rolls Out Updated Web App With Performance Improvements</h2>
 <a name="story-26515"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFIAP3kvgNXmA%2Ffeedshare-shrink_800%2Ffeedshare-shrink_800%2F0%2F1702196163200%3Fe%3D2147483647%26v%3Dbeta%26t%3DwsjzQcXZXRJxZgkahKjbHdVRDisyVcI0iurajwCMo0g&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>X is rolling out a redesigned version of its web application for signed-in users on a country-by-country basis, aiming to significantly improve loading speeds. According to principal engineer Yagiz Nizipli, the update replaces the platform's three separate servers for users, search crawlers, and link previews with a single unified server.</p><p>The architectural changes reduce profile load times over slow connections from more than 22 seconds down to 2.7 seconds, as detailed in an engineering blog post. The updated interface was previously deployed for logged-out users and search engine crawlers, and early users have reported a responsive and polished experience.</p>
@@ -23,7 +35,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Declarative Dragging Simplifies Drag-and-Drop Interface Design</h2>
 <a name="story-26508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeclarative-dragging.github.io%2Fvideo-poster.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Declarative dragging is a model-driven approach that allows interface authors to build complex drag-and-drop interactions simply by specifying accessible future model states rather than writing custom geometry and animation code. The underlying engine speculatively renders target states to synthesize smooth, responsive interactions, removing much of the manual effort traditionally required in UI development.</p><p>Developed by researchers Joshua Horowitz, Andrew Blinn, and Jeffrey Heer, the technique is implemented in an open-source SVG library called Dragology and received a Best Paper Award at UIST 2026. The system supports composable behaviors and parallel representations, with applications ranging from mathematical visualization explorables and academic programming environments to 3D games.</p>
-<p>Nov 5 · <a href="https://declarative-dragging.github.io/">declarative-dragging.github.io</a> | <a href="https://lobste.rs/s/jplxxr/declarative_dragging">lobsters</a></p>
+<p>Nov 5 · <a href="https://declarative-dragging.github.io/">declarative-dragging.github.io</a> | <a href="https://lobste.rs/s/jplxxr/declarative_dragging">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50368481">hacker news</a></p>
 <br clear="all" />
 
 <h2>Go Releases encoding/json/v2 and encoding/json/jsontext Packages</h2>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26376"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F88%2F96%2Fc5%2F8896c504174ab44cfe0a53db689fe177.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HackerTV features continuous 24/7 video broadcasts based on content recommended by users on Hacker News. The service maintains a consistent broadcast schedule for all viewers across various channels.</p><p>Developed by Danny Salzman, the platform's catalog is seeded from HackerTube and built using the Hacker News archive. Content is updated weekly by filtering new HN comments through the HN Search API.</p>
 <p>Nov 3 · <a href="https://hackertv.org">hackertv.org</a> | <a href="https://news.ycombinator.com/item?id=50346755">hacker news</a></p>
-<br clear="all" />
-
-<h2>Kitty Terminal Emulator Releases Version 0.50.0</h2>
-<a name="story-26366"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kitty version 0.50.0 introduces window docking to edges, session restoration after logout, and Wayland improvements including native decorations and touchscreen support. New custom shaders allow for particle effects controlled by key presses, and the terminal now supports the Program Status Protocol.</p><p>Updates include tab-based workspace functionality, automatic system-wide color theme switching, and improved layout border alignment. Performance optimizations were added for the GPU sprite cache and general rendering.</p>
-<p>Nov 3 · <a href="https://sw.kovidgoyal.net/kitty/changelog/#id1">sw.kovidgoyal.net</a> | <a href="https://lobste.rs/s/gwyv50/kitty_0_50_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50359709">hacker news</a></p>
-<br clear="all" />
-
-<h2>Safari Introduces Adaptive Dark Mode in 27.3 Beta</h2>
-<a name="story-26361"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnighteye.app%2Fwp-content%2Fuploads%2F2019%2F03%2FSafariArrivedWithSafari-768x288.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Safari 27.3 beta introduces Adaptive Dark Mode, which automatically transforms light-themed websites into dark versions when enabled by the user. The feature uses a color matrix to invert luminosity while preserving hue and aims to maintain a WCAG 4.5:1 contrast ratio for text.</p><p>To protect user privacy, Safari prevents websites from detecting if the mode is active, ensuring JavaScript queries return original authored colors. The feature does not alter sites with explicit `color-scheme` declarations and allows developers to opt-out using the `light only` setting.</p>
-<p>Nov 3 · <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">webkit.org</a> | <a href="https://news.ycombinator.com/item?id=50358562">hacker news</a></p>
 <br clear="all" />
 
 ---

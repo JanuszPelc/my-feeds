@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T14:55:00+00:00</updated>
+  <updated>2026-11-05T15:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Micron Pauses Work on $4.5 Billion Taiwan Plant After Labor Dispute</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat::v240</id>
+    <published>2026-11-05T15:01:00+00:00</published>
+    <updated>2026-11-05T15:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fm5YG7nxQFmanLkbviJBms-1920-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat">bloomberg.com</a></small></p><hr/><p>Micron Technology has suspended construction on its Fab 11E memory chip facility in Taoyuan, Taiwan, amid a protracted labor dispute. The project, budgeted between $3 billion and $4.5 billion, was previously scheduled to begin production in 2028.</p><p>The suspension follows mounting uncertainties surrounding union negotiations, including disagreements over profit-sharing terms. While the U.S. chipmaker has largely halted site work, limited activity continues to secure the facility, and the company has notified local officials and suppliers of the pause.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fm5YG7nxQFmanLkbviJBms-1920-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 19:35 UTC | #26548</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon and Uber Eats Partner for Prime Member Restaurant Delivery</title>
     <link href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership" rel="alternate" />

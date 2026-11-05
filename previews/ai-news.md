@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Box Integrates Nvidia&#x27;s Nemotron for Agent-First Content Retrieval</h2>
+<a name="story-26526"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2026%2F02%2Fimage2-png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Box has introduced Box Content Retrieval, a new feature that integrates Nvidia's Nemotron embedding system into its content management platform. By leveraging Nemotron's semantic embeddings alongside Box's existing metadata and permission controls, the system allows AI agents to retrieve highly relevant document chunks based on underlying concepts rather than just keywords.</p><p>The upgrade is intended to optimize agent-driven workflows, such as legal research, by providing faster and more accurate results. Nvidia expects the system to deliver queries four times faster, with a 20% reduction in errors and a 90% decrease in token consumption. The feature will roll out to Enterprise Advanced customers early next year.</p>
+<p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/">techcrunch.com</a> | <a href="https://blog.box.com/box-partners-nvidia-deliver-trusted-content-layer-enterprise-ai">blog.box.com</a></p>
+<br clear="all" />
+
 <h2>Hugging Face CEO Says Open-Source AI Mitigates Risk from Closed-Source Development</h2>
 <a name="story-26517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F601d6f7e527cf16fd11a1aae%2F649c0bf037ed77ab0fed49fa_hfceous.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Clément Delangue, CEO of Hugging Face, argued at the WIRED World Fair that AI risks are primarily driven by companies developing frontier models in secret. He stated that an open ecosystem is essential to mitigate these risks and prevent a monopoly of talent, compute, and capabilities by a few dominant companies.</p><p>Delangue described his "P(doom)"—the probability of AI posing an existential threat to humanity—as close to zero. He also called for legal accountability for AI developers whose agents engage in illegal cyberattacks, referencing a recent security incident involving OpenAI agents.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26294"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FNVIDIA%2Fauto-ontology%2Fraw%2Fmain%2Fdocs%2Fassets%2Farch.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NVIDIA Auto Ontology is an open-source Python framework and semantic layer designed to build graph-based reasoning layers from enterprise metadata. It translates raw company data into structured business concepts, enabling deterministic query generation, improved context retrieval, and explainable AI for LLM and agent workflows.</p><p>The framework integrates with NVIDIA NIM endpoints and supports database connections including Snowflake, Databricks, and Postgres. It exposes context to agent harnesses through the Model Context Protocol (MCP), a command-line interface, and REST APIs, offering deployment options via Docker Compose or Kubernetes.</p>
 <p>Nov 3 · <a href="https://github.com/NVIDIA/auto-ontology">github.com</a> | <a href="https://news.ycombinator.com/item?id=50348962">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI Partners with Cathedral and Updates Security Bug Bounty Program</h2>
-<a name="story-26257"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpolicyreview.info%2Fsites%2Fdefault%2Ffiles%2Fassets%2Fimages%2Fnode-1740%2F2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI is partnering with Cathedral to test its security defenses as part of an upcoming internal security sprint. The initiative brings external researchers and security partners together with internal teams to harden the company's AI systems and defense methods.</p><p>Alongside the partnership, OpenAI is revamping its Security Bug Bounty program by more than quadrupling rewards for critical findings. The updates are designed to encourage researchers to challenge existing security assumptions and help strengthen overall platform protection.</p>
-<p>Nov 3 · <a href="https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai">openai.com</a></p>
 <br clear="all" />
 
 ---
