@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Debian Patches APT Vulnerability Allowing Root Code Execution</title>
+    <link href="https://lists.debian.org/debian-security-announce/2026/msg00526.html" rel="alternate" />
+    <id>https://lists.debian.org/debian-security-announce/2026/msg00526.html::v240</id>
+    <published>2026-11-04T22:00:00+00:00</published>
+    <updated>2026-11-04T22:00:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lists.debian.org/debian-security-announce/2026/msg00526.html">lists.debian.org</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6607-1">security-tracker.debian.org</a> | <a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50366575">hacker news</a></small></p><hr/><p>Debian released security advisory DSA-6607-1 to address CVE-2026-109518, a vulnerability in the APT package manager. A man-in-the-middle attacker can exploit improper file handling during resumed HTTP downloads to replace a package after verification, potentially enabling arbitrary code execution as root.</p><p>The flaw allows APT to merge two different package downloads if an HTTP redirect assigns them the same URI. For the Debian stable release (trixie), the issue is fixed in APT version 3.0.4. This update also addresses several out-of-bounds access issues.</p><hr/><small>5 Nov 2026, 03:30 UTC | #26491</small>]]></content>
+  </entry>
+  <entry>
     <title>GitHub Resolves Incident Affecting Pull Requests, Git Operations, and Issues</title>
     <link href="https://www.githubstatus.com/incidents/smtdswd1h2w4" rel="alternate" />
     <id>https://www.githubstatus.com/incidents/smtdswd1h2w4::v240</id>

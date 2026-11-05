@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-04T21:04:00+00:00</updated>
+  <updated>2026-11-04T22:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Nothing to Release Screenless AI-Native Product in December</title>
+    <link href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/::v240</id>
+    <published>2026-11-04T22:14:00+00:00</published>
+    <updated>2026-11-04T22:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fyoumobile.org%2Fwp-content%2Fuploads%2F2025%2F01%2FNothing-CEO-Carl-Pei-leaks-a-feature-coming-in-Nothing-OS-3.0-that-many-users-will-love-1-1024x576.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/">techcrunch.com</a> | <a href="https://x.com/getpeid/status/2117991714879410204">x.com</a></small></p><hr/><p>Nothing CEO Carl Pei announced that the company's first "AI-native" product is scheduled to ship in December 2026. The device is described as a productivity tool that lacks a dedicated screen and is designed as hardware rather than a software application.</p><p>This approach diverges from current industry trends focusing on AI-enabled wearables like smart glasses or pins. While Nothing has previously discussed AI-linked earbuds and eyewear, the specific form factor and capabilities of this upcoming screenless device remain undisclosed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fyoumobile.org%2Fwp-content%2Fuploads%2F2025%2F01%2FNothing-CEO-Carl-Pei-leaks-a-feature-coming-in-Nothing-OS-3.0-that-many-users-will-love-1-1024x576.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 03:32 UTC | #26467</small>]]></content>
+  </entry>
   <entry>
     <title>Tripwire Presents Expands Publishing Business to Support Smaller Independent Developers</title>
     <link href="https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games" rel="alternate" />

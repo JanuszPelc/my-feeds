@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Debian Patches APT Vulnerability Allowing Root Code Execution</h2>
+<p>Debian released security advisory DSA-6607-1 to address CVE-2026-109518, a vulnerability in the APT package manager. A man-in-the-middle attacker can exploit improper file handling during resumed HTTP downloads to replace a package after verification, potentially enabling arbitrary code execution as root.</p><p>The flaw allows APT to merge two different package downloads if an HTTP redirect assigns them the same URI. For the Debian stable release (trixie), the issue is fixed in APT version 3.0.4. This update also addresses several out-of-bounds access issues.</p>
+<p>Nov 4 · <a href="https://lists.debian.org/debian-security-announce/2026/msg00526.html">lists.debian.org</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6607-1">security-tracker.debian.org</a> | <a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50366575">hacker news</a></p>
+<br clear="all" />
+
 <h2>GitHub Resolves Incident Affecting Pull Requests, Git Operations, and Issues</h2>
 <a name="story-26490"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHG7PgIXbgAUj75v.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GitHub resolved an incident on November 4, 2026, that caused service degradation and intermittent failures for Pull Requests, Git Operations, Issues, API Requests, and Actions. The disruption resulted in some requests being failed or delayed.</p><p>The issue was first identified around 09:49 UTC and reached mitigation by 11:50 UTC. GitHub intends to share a detailed root cause analysis once it is available.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26233"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F58d982f36a49634f6911e91b%2F1773126041937-QBPH9VWGICRJKTT4KAEO%2Fstock-photo-server-maintenance-and-hardware-installation-technician-work-on-a-modern-mainboard-2547680979.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sysadmin Chris Siebenmann reflects on catching himself reflexively questioning whether 16 GB of RAM is sufficient for an upgraded server, despite the machine's workload and basic software remaining unchanged for years. Reviewing historical metrics for his organization's central mail server revealed that the hardware operated successfully on 4 GB of RAM for years before transitioning to 16 GB.</p><p>Siebenmann attributes this reflex to industry trends and personal familiarity with newer server generations that standardly feature 32 GB of RAM. The observation highlights how hardware sizing habits can become disconnected from actual resource requirements when software demands remain stable.</p>
 <p>Nov 2 · <a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/saskzi/my_reflex_assuming_our_servers_need_ever">lobsters</a></p>
-<br clear="all" />
-
-<h2>Renault Latitude Navigation System Jailbroken to Change Clock Time</h2>
-<a name="story-26213"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.nns.ee%2Fimg%2F2026-11-02-renault-hack%2Fui.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A motorist discovered that changing the clock time on a 2014 Renault Latitude equipped with a TomTom Carminat LIVE head unit required a specialized navigation SD card. Because the original card was missing and the system enforced strict digital rights management, the built-in menus required to adjust the timezone were entirely inaccessible.</p><p>After reverse engineering the firmware, testing updates in a custom QEMU emulator, and working around read-only filesystem restrictions, the author gained arbitrary code execution. By leveraging a path traversal vulnerability in the unit's script parser to overwrite the Linux kernel's core_pattern, they triggered a controlled crash to execute a payload and manually patch the internal configuration file.</p>
-<p>Nov 2 · <a href="https://blog.nns.ee/2026/11/02/renault-hack/">blog.nns.ee</a> | <a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50339288">hacker news</a></p>
 <br clear="all" />
 
 ---

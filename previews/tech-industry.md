@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Apple Reduces Daily AI Spending Caps for Engineers</h2>
+<a name="story-26462"><img src="https://wsrv.nl/?url=https%3A%2F%2Facaderesearch.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fapple-capex-gap.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple is decreasing employee budgets for artificial intelligence usage as part of a cost-cutting initiative. The company has already reduced the daily spending cap for some engineers from $300 to $200 and plans to implement further reductions to as low as $100.</p><p>These restrictions come as Apple attempts to integrate artificial intelligence more centrally into its business operations. The budget cuts have reportedly contributed to internal staff concerns regarding potential layoffs.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgyMTg3MSwiZXhwIjoxNzk0NDI2NjcxLCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.efg5gZUg_bpWGkDdX9in4eLTEutSs8WX9rD17IHSi_o">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Uber Reports Low Usage of AI Agents for Rides and Food Orders</h2>
 <a name="story-26468"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkernel.news%2Fwp-content%2Fuploads%2F2026%2F05%2FUber-Earnings-Q2-2026-780x470.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Uber reported during its third-quarter 2026 earnings call that AI agent usage for transactions remains minimal, with only four rides booked via AI agents during the week of Halloween. While Uber Eats saw slightly higher volume with 500 AI-initiated orders, both figures are negligible compared to the company's 320 million total trips and orders during the same period.</p><p>This lack of adoption occurs despite growing industry interest in AI agents designed to handle consumer tasks. Uber CEO Dara Khosrowshahi noted that the company's existing mobile interfaces are already efficient, with typical orders taking under 90 seconds, but he remains optimistic that the expansion of AI assistant ecosystems will ultimately drive platform demand.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26388"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.hkstandard.com.hk%2Ff%2F1024p0%2F0x0%2F100%2Fnone%2F31c2ea6e26f18fa182bdc009bcd4926e%2F2026-05%2F2026-05-25T193356Z_1064132031_RC2IGLAQWMZD_RTRMADP_3_EU-ALPHABET-ANTITRUST.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet's Google expanded voluntary exit buyout offers in June to employees across Canada, France, Germany, Japan, and Switzerland as part of ongoing efforts to control costs. The move follows previous voluntary separation programs and comes amid heavy corporate spending on artificial intelligence infrastructure.</p><p>The latest round of exit packages gives staff in these five additional countries the option to leave with severance benefits, though the company has not disclosed how many workers have accepted the offers. The reductions reflect broader cost-management strategies across the tech sector as major firms balance expanding AI investments with workforce adjustments.</p>
 <p>Nov 4 · <a href="https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50365284">hacker news</a></p>
-<br clear="all" />
-
-<h2>ITjuzi Reports Chinese Embodied AI Funding Reached $13 Billion in First Half of 2026</h2>
-<a name="story-26382"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ai2.work%2Fheroes%2Fchina-races-to-dominate-embodied-ai-as-ev-makers-pivot-to-robots.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Chinese embodied AI companies raised 93.5 billion yuan, equivalent to approximately $13 billion, across 322 financing deals in the first half of 2026. According to data from research firm ITjuzi, this represents a fivefold year-on-year increase in funding value and a substantial jump in deal activity.</p><p>The surge in investment underscores a strategic shift among domestic robotics manufacturers moving beyond physical hardware displays—such as running and backflips—toward the development of advanced AI software "brains." Industry stakeholders are increasingly prioritizing machine learning, autonomy, and cognitive capabilities to commercialize humanoid and specialized robots at scale.</p>
-<p>Nov 4 · <a href="https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/">reuters.com</a></p>
 <br clear="all" />
 
 ---

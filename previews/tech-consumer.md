@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Nothing to Release Screenless AI-Native Product in December</h2>
+<a name="story-26467"><img src="https://wsrv.nl/?url=https%3A%2F%2Fyoumobile.org%2Fwp-content%2Fuploads%2F2025%2F01%2FNothing-CEO-Carl-Pei-leaks-a-feature-coming-in-Nothing-OS-3.0-that-many-users-will-love-1-1024x576.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nothing CEO Carl Pei announced that the company's first "AI-native" product is scheduled to ship in December 2026. The device is described as a productivity tool that lacks a dedicated screen and is designed as hardware rather than a software application.</p><p>This approach diverges from current industry trends focusing on AI-enabled wearables like smart glasses or pins. While Nothing has previously discussed AI-linked earbuds and eyewear, the specific form factor and capabilities of this upcoming screenless device remain undisclosed.</p>
+<p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/">techcrunch.com</a> | <a href="https://x.com/getpeid/status/2117991714879410204">x.com</a></p>
+<br clear="all" />
+
 <h2>Tripwire Presents Expands Publishing Business to Support Smaller Independent Developers</h2>
 <a name="story-26460"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplayday.one%2Fwp-content%2Fuploads%2F2026%2F11%2FTripwire-Presents-Indies-Initiative-Key-Art-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tripwire Presents, the publishing division of Tripwire Interactive, has launched an initiative to provide scaled publishing support for smaller independent developers. The program helps indie titles connect with broader audiences by leveraging Tripwire's existing storefront relationships, promotional calendar guidance, and pricing expertise.</p><p>The initiative debuts with a lineup of five games, including The Boss Gangster: Criminal Empire, Starforged Legacy, One-Eyed Likho, Eslabong, and Mars Attracts. Tripwire aims to shine a spotlight on self-published indie titles that align with its fan base across different genres and platforms.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26211"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt8e5eeb04d80d43e7%2F6ae8ce8d1b7efb35e8ec7357%2Fitch.iorobots.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Independent game storefront Itch.io reported that the number of new game pages created daily on the platform doubled over a two-month period, growing from approximately 3,000 to nearly 8,000. Store representatives indicated via social media that the surge is driven by generative AI tools, though the platform noted that downloads and purchases have not experienced a corresponding increase.</p><p>While Itch.io features optional AI disclosure tags and quality guidelines regarding truthful tagging, the platform does not mandate disclosure for a page to be published. The influx of automated content mirrors similar challenges faced by other digital storefronts, such as Valve addressing a rise in AI-copied games on Steam.</p>
 <p>Nov 2 · <a href="https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store">gamedeveloper.com</a> | <a href="https://bsky.app/profile/itch.io/post/3mz7vswlnbs23">bsky.app</a></p>
-<br clear="all" />
-
-<h2>Apple Developing Tabletop Robot for Expected 2027 or 2028 Release</h2>
-<a name="story-26191"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tuaw.com%2Fwp-content%2Fuploads%2F2024%2F08%2FiPad-on-robotic-arm.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple is developing a tabletop robotic device featuring a nine-inch screen mounted on a swiveling arm, according to reports by The Information. The product is targeted for a 2027 or 2028 release with an expected price of around $1,000.</p><p>The project forms part of an intensified push into robotics championed by Apple leadership, including CEO John Ternus. Development has faced internal re-envisionings and debates over specific features as the company seeks to integrate home automation and advanced voice assistant capabilities into a moving display.</p>
-<p>Nov 2 · <a href="https://www.theinformation.com/articles/inside-apples-slog-create-first-robot">theinformation.com</a></p>
 <br clear="all" />
 
 ---
