@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-05T08:25:00+00:00</updated>
+  <updated>2026-11-05T12:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Walker Playground Interactive Web Experiment</title>
+    <link href="https://markblah.github.io/lemmings/" rel="alternate" />
+    <id>https://markblah.github.io/lemmings/::v240</id>
+    <published>2026-11-05T12:32:00+00:00</published>
+    <updated>2026-11-05T12:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcodelucky.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fcss-animation-name-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://markblah.github.io/lemmings/">markblah.github.io</a> | <a href="https://news.ycombinator.com/item?id=50375354">hacker news</a></small></p><hr/><p>Walker Playground is an interactive web experiment that converts DOM elements into a 2D physics-based terrain for small characters called "walkers." Users can spawn walkers and interact with them by dragging or flicking them across the page's layout.</p><p>The physics engine utilizes CSS properties and browser behaviors, such as window resizing, to influence movement; resizing the window triggers a reflow that launches characters into the air. Web elements like text lines act as traversable floors, while buttons, borders, and cards serve as solid boundaries.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcodelucky.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fcss-animation-name-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 16:39 UTC | #26565</small>]]></content>
+  </entry>
   <entry>
     <title>Declarative Dragging Simplifies Drag-and-Drop Interface Design</title>
     <link href="https://declarative-dragging.github.io/" rel="alternate" />
@@ -391,14 +400,5 @@
     <updated>2026-11-01T16:53:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.addictivetips.com%2Fapp%2Fuploads%2F2020%2F01%2Fenlightenment-wallpaper-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">enlightenment.org</a> | <a href="https://lobste.rs/s/fmawla/enlightenment_0_28_0_release">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50326530">hacker news</a></small></p><hr/><p>The release of Enlightenment 0.28.0 introduces initial NetBSD support, a new NetworkManager module with Wi-Fi and VPN capabilities, native PipeWire audio mixing alongside PulseAudio, and an integrated persistent clipboard history module. These additions aim to expand hardware compatibility and modernize desktop features for Unix-like systems.</p><p>Additional updates include ACPI CPU power profile integration, per-battery charge limit controls, process priority management via the system helper, and numerous stability fixes for Wayland, X11, Bluetooth, and window stacking. The version depends on EFL version 1.29.0 or newer to function properly.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.addictivetips.com%2Fapp%2Fuploads%2F2020%2F01%2Fenlightenment-wallpaper-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:19 UTC | #26067</small>]]></content>
-  </entry>
-  <entry>
-    <title>David Bushell Evaluates Accessibility and UI Design in Tangled Code Forge Redesign</title>
-    <link href="https://dbushell.com/2026/11/01/tangled-accessibility/" rel="alternate" />
-    <id>https://dbushell.com/2026/11/01/tangled-accessibility/::v240</id>
-    <published>2026-10-31T16:30:00+00:00</published>
-    <updated>2026-11-02T05:14:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fagentic-forge.github.io%2Fscreenshots%2Fforge-ui-landing.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://dbushell.com/2026/11/01/tangled-accessibility/">dbushell.com</a> | <a href="https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50330017">hacker news</a></small></p><hr/><p>Developer David Bushell has examined the recent user interface redesign of Tangled, a federated code forge positioning itself as an alternative to GitHub. While acknowledging Tangled's promising architecture, Bushell highlights significant accessibility flaws in its new Svelte-based frontend, pointing out that rigid base font styling causes text clipping and scaling failures under Web Content Accessibility Guidelines.</p><p>The critique emphasizes that technical oversights in CSS implementation prevent browser text-scaling features from working correctly, leading to truncated characters and crowded layouts when users increase font sizes. Bushell argues that technology startups should incorporate accessibility expertise from the outset rather than treating it as an afterthought, noting that modern web projects must accommodate diverse user needs to provide a viable alternative to established platforms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fagentic-forge.github.io%2Fscreenshots%2Fforge-ui-landing.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:18 UTC | #26066</small>]]></content>
   </entry>
 </feed>

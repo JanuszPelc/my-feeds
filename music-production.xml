@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-05T09:01:00+00:00</updated>
+  <updated>2026-11-05T12:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Pro Tools 2026.11 Introduces AI Stem Separation and Extensions</title>
+    <link href="https://musictech.com/news/pro-tools-now-features-ai-stem-separation/" rel="alternate" />
+    <id>https://musictech.com/news/pro-tools-now-features-ai-stem-separation/::v240</id>
+    <published>2026-11-05T12:30:00+00:00</published>
+    <updated>2026-11-05T12:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/pro-tools-now-features-ai-stem-separation/">musictech.com</a> | <a href="https://www.avid.com/resource-center/whats-new-in-pro-tools-202611">avid.com</a></small></p><hr/><p>Avid has introduced AI stem separation as a new Extension in Pro Tools 2026.11. This feature allows users to separate an audio recording into up to six component stems: vocals, drums, bass, guitar, keys, and other instruments.</p><p>The update also debuts a Pro Tools Extensions ecosystem, enabling third-party developers like Splice and SoundFlow to integrate specialized tools directly into the DAW. Other enhancements in this release include MIDI Polyphonic Expression (MPE) support and High DPI support for Windows.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 16:33 UTC | #26514</small>]]></content>
+  </entry>
   <entry>
     <title>Jersey Discusses Debut Album 'NOTHING'S FAKE' and Hardware-Based Live Performances</title>
     <link href="https://musictech.com/features/interviews/jersey-interview-nothings-fake/" rel="alternate" />
@@ -473,23 +482,5 @@
     <updated>2026-10-31T19:02:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-6-5-and-vee-one-suite-to-v1-5-1-for-linux-69517?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69517">kvraudio.com</a> | <a href="https://www.rncbc.org/drupal/node/2980">rncbc.org</a></small></p><hr/><p>Developer rncbc.org has released Qtractor version 1.6.5 and Vee One Suite version 1.5.1 for GNU/Linux systems. Qtractor, an audio and MIDI multi-track sequencer, introduces improvements to CLAP and VST3 plug-in handling, window view and zoom controls, and a new dockable session overview widget.</p><p>The Vee One Suite update adds a crop and uncrop view feature for samplv1 and drumkv1, visual gradients for DCA1 envelope generator times, and a percentage input dialog for randomizing parameters. Both open-source packages are distributed under the terms of the GNU General Public License version 2 or later.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:21 UTC | #26059</small>]]></content>
-  </entry>
-  <entry>
-    <title>FRCTL Audio Releases DUKR Zero-Latency Sidechain Ducker Plugin</title>
-    <link href="https://www.kvraudio.com/news/frctl-audio-releases-dukr---zero-latency-sidechain-ducker-with-frequency-carving-69529?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69529" rel="alternate" />
-    <id>https://www.kvraudio.com/news/frctl-audio-releases-dukr---zero-latency-sidechain-ducker-with-frequency-carving-69529?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69529::v240</id>
-    <published>2026-10-31T16:37:00+00:00</published>
-    <updated>2026-10-31T16:37:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdukr_pump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/frctl-audio-releases-dukr---zero-latency-sidechain-ducker-with-frequency-carving-69529?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69529">kvraudio.com</a> | <a href="https://frctlaudio.com/products/dukr">frctlaudio.com</a></small></p><hr/><p>FRCTL Audio has released DUKR, a zero-latency sidechain ducker plugin designed for Windows, macOS, and Linux. The plugin features a Trace function that automatically reads sidechain signals to map ducking curves and a Carve function that targets specific frequency bands and stereo fields to prevent unwanted volume drops across entire tracks.</p><p>DUKR supports tempo-synced or MIDI-triggered operation with velocity scaling, alongside multi-band processing options for low, mid, and high frequencies. Available in VST3, AU, and CLAP formats, the plugin is priced at $18.99 with an introductory rate of $13.99 through November 30, 2026, and includes a 14-day free trial.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdukr_pump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:18 UTC | #26052</small>]]></content>
-  </entry>
-  <entry>
-    <title>Flame Sound Releases Vatrica Free Mix Enhancer Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/31/vatrica/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/31/vatrica/::v240</id>
-    <published>2026-10-31T16:23:00+00:00</published>
-    <updated>2026-10-31T16:23:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginsforfree.com%2Fwp-content%2Fuploads%2F2022%2F06%2Ffire2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/31/vatrica/">bedroomproducersblog.com</a> | <a href="https://flamesound.com/vatrica/">flamesound.com</a></small></p><hr/><p>Flame Sound has released Vatrica, a free one-knob mix enhancer plugin for macOS and Windows, sharing it as a birthday release for Bedroom Producers Blog readers and customers. Utilizing the same processing engine as the paid VATRA plugin, Vatrica simplifies tone-shaping and loudness enhancement into a single macro knob with three selectable modes.</p><p>The plugin includes an MSTR mode for adding punch and weight to the master bus, a TAPE mode for warmth and saturation on drums or other material, and a SUBS mode designed to boost low frequencies and body. Vatrica is available on Gumroad for free without license keys or trials, supporting VST3, AU, and AAX formats across compatible operating systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginsforfree.com%2Fwp-content%2Fuploads%2F2022%2F06%2Ffire2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 00:17 UTC | #26058</small>]]></content>
   </entry>
 </feed>

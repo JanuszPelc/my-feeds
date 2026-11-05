@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Pro Tools 2026.11 Introduces AI Stem Separation and Extensions</h2>
+<a name="story-26514"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Avid has introduced AI stem separation as a new Extension in Pro Tools 2026.11. This feature allows users to separate an audio recording into up to six component stems: vocals, drums, bass, guitar, keys, and other instruments.</p><p>The update also debuts a Pro Tools Extensions ecosystem, enabling third-party developers like Splice and SoundFlow to integrate specialized tools directly into the DAW. Other enhancements in this release include MIDI Polyphonic Expression (MPE) support and High DPI support for Windows.</p>
+<p>Nov 5 · <a href="https://musictech.com/news/pro-tools-now-features-ai-stem-separation/">musictech.com</a> | <a href="https://www.avid.com/resource-center/whats-new-in-pro-tools-202611">avid.com</a></p>
+<br clear="all" />
+
 <h2>Jersey Discusses Debut Album &#x27;NOTHING&#x27;S FAKE&#x27; and Hardware-Based Live Performances</h2>
 <a name="story-26509"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJersey-Avalon-Cafe-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Electronic duo Jersey, consisting of brothers Carl and Renaud Amiard, designed their debut album *NOTHING’S FAKE* specifically for live performance. Their stage setup relies entirely on hardware—including synthesizers, sequencers, and MIDI controllers—rather than laptops or digital audio workstations.</p><p>The duo uses AI text-to-speech models of their own voices to produce vocal textures that blend human and robotic qualities. Influenced by artists such as Gorillaz and Daft Punk, they prioritize spontaneous improvisation and tactile hardware interaction to bridge the gap between indie-pop and electronic music.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26425"><img src="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--vfFXRTqc--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2F11395fcc-68aa-4d76-944b-d62de3f4a590.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Karanyi Sounds has opened preregistration for Brigade, an upcoming vocal multiplier plugin normally priced at $49 that will be offered for free on Black Friday, November 27, 2026. Users can reserve a perpetual license by submitting their email address on the giveaway page before the official release date.</p><p>Derived from the developer's Voicemax vocal processing software, Brigade is designed to turn a single vocal take into an ensemble of backup singers arranged on a virtual stage. The plugin features dedicated controls for harmony, stacking, stereo spread, formants, and a lead-to-brigade balance slider, and it will be available in VST3 and AU formats for macOS and Windows.</p>
 <p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/karanyi-sounds-brigade-black-friday/">bedroomproducersblog.com</a> | <a href="https://karanyisounds.com/pages/voicemax-brigade">karanyisounds.com</a></p>
-<br clear="all" />
-
-<h2>ROLI Enters Administration</h2>
-<a name="story-26396"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F07%2FROLI-Seaboard-Block-M-commercial-hero-credit-Simon-Vinall%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Music technology company ROLI has entered administration for the second time, with insolvency practitioners from RSM UK appointed as joint administrators. The sudden collapse has left numerous customers with unfulfilled orders, unresponsive support, and offline web and community servers.</p><p>Founded in 2009 and renowned for pioneering MIDI Polyphonic Expression (MPE) alongside touch-sensitive instruments like the Seaboard and Airwave, ROLI previously survived administration in 2021 before restructuring. The company's latest failure has raised concerns among users that a lack of ongoing software and firmware support could eventually render their hardware devices unusable.</p>
-<p>Nov 4 · <a href="https://musictech.com/news/industry/roli-enters-administration/">musictech.com</a> | <a href="https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/">wired.com</a></p>
 <br clear="all" />
 
 ---

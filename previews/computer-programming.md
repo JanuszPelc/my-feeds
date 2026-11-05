@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Walker Playground Interactive Web Experiment</h2>
+<a name="story-26565"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcodelucky.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fcss-animation-name-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Walker Playground is an interactive web experiment that converts DOM elements into a 2D physics-based terrain for small characters called "walkers." Users can spawn walkers and interact with them by dragging or flicking them across the page's layout.</p><p>The physics engine utilizes CSS properties and browser behaviors, such as window resizing, to influence movement; resizing the window triggers a reflow that launches characters into the air. Web elements like text lines act as traversable floors, while buttons, borders, and cards serve as solid boundaries.</p>
+<p>Nov 5 · <a href="https://markblah.github.io/lemmings/">markblah.github.io</a> | <a href="https://news.ycombinator.com/item?id=50375354">hacker news</a></p>
+<br clear="all" />
+
 <h2>Declarative Dragging Simplifies Drag-and-Drop Interface Design</h2>
 <a name="story-26508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeclarative-dragging.github.io%2Fvideo-poster.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Declarative dragging is a model-driven approach that allows interface authors to build complex drag-and-drop interactions simply by specifying accessible future model states rather than writing custom geometry and animation code. The underlying engine speculatively renders target states to synthesize smooth, responsive interactions, removing much of the manual effort traditionally required in UI development.</p><p>Developed by researchers Joshua Horowitz, Andrew Blinn, and Jeffrey Heer, the technique is implemented in an open-source SVG library called Dragology and received a Best Paper Award at UIST 2026. The system supports composable behaviors and parallel representations, with applications ranging from mathematical visualization explorables and academic programming environments to 3D games.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26320"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2023%2F02%2F8-windows-11-memory-compression-details.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Windows 11 updates in the 26H2 build are now targeting PCs with 8GB of RAM to improve speed, performance, and memory management. These optimizations are designed to maximize existing hardware efficiency and ensure core system tasks remain responsive during intensive multitasking.</p><p>The improvements utilize fine-tuned memory compression to keep up to 2GB more active data in RAM, reducing the need for disk swapping. Microsoft reports that these changes can increase multitasking speed by up to 40% and improve system interaction responsiveness by 20%. Additionally, memory usage has been reduced in Microsoft Edge, the Widgets app, and various Microsoft 365 applications.</p>
 <p>Nov 3 · <a href="https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/">zdnet.com</a> | <a href="https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/">blogs.windows.com</a></p>
-<br clear="all" />
-
-<h2>Compatibility Issues Discovered Between Ubuntu 26.04 Rust Sudo and Standard Sudo</h2>
-<a name="story-26326"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.turbogeek.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2Fubuntu-sudo-rs-differences-source-1024x711.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The default Rust-based sudo implementation introduced in Ubuntu 26.04 is incompatible with standard sudo configurations, specifically by failing to correctly handle wildcards in sudoers.d files. An administrator discovered that sudo-rs silently misinterprets wildcard rules, breaking existing passwordless access permissions for administrative commands like Exim.</p><p>The sudo-rs documentation indicates that command-line argument wildcards are intentionally unsupported, a design choice that contradicts long-standing administrative practices and creates migration hurdles. While administrators can switch back to the traditional implementation using package alternatives, removing sudo-rs entirely is prevented by package dependencies linked to ubuntu-minimal.</p>
-<p>Nov 3 · <a href="https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50354308">hacker news</a></p>
 <br clear="all" />
 
 ---

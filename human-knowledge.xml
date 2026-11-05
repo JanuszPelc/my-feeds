@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-04T21:05:00+00:00</updated>
+  <updated>2026-11-05T12:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>LED Lights Attract Fewer Insects Due to Lack of Ultraviolet Light</title>
+    <link href="https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/" rel="alternate" />
+    <id>https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/::v240</id>
+    <published>2026-11-05T12:33:00+00:00</published>
+    <updated>2026-11-05T12:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.birdsoutsidemywindow.org%2Fwp-content%2Fuploads%2F2026%2F11%2Finsects_swarm_at_gas_station_light_Iowa_US20_20060726_wiki.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/">birdsoutsidemywindow.org</a> | <a href="https://news.ycombinator.com/item?id=50370610">hacker news</a></small></p><hr/><p>LEDs attract significantly fewer insects than incandescent or compact fluorescent bulbs because they emit little to no ultraviolet (UV) light. Many flying insects use UV wavelengths for navigation, mistaking the artificial light for moonlight.</p><p>A 2016 University of Bristol study confirmed that both cool-white and warm-white LEDs attract fewer insects than traditional light sources. This reduction in insect activity can impact local ecosystems by altering the presence of predators, such as geckos, that frequent illuminated areas to hunt.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.birdsoutsidemywindow.org%2Fwp-content%2Fuploads%2F2026%2F11%2Finsects_swarm_at_gas_station_light_Iowa_US20_20060726_wiki.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 16:44 UTC | #26566</small>]]></content>
+  </entry>
   <entry>
     <title>75% of Deceased NFL Players Estimated to Have Had CTE</title>
     <link href="https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975" rel="alternate" />
