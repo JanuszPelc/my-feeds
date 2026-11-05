@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-04T22:51:00+00:00</updated>
+  <updated>2026-11-05T01:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Goldman Sachs and Apollo in Talks to Sell Portions of SpaceX Chip Financing</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal::v240</id>
+    <published>2026-11-05T01:34:00+00:00</published>
+    <updated>2026-11-05T01:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F83b86a38-9a91-480d-9fa1-bb7224557cf3.png%2Fw%3D1024%2Cq%3D82%2Cf%3Dwebp%2Cfit%3Dinside%2Cno_enlarge%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal">bloomberg.com</a></small></p><hr/><p>Goldman Sachs Group Inc. and Apollo Global Management Inc. are negotiating with Wall Street investors to sell portions of a roughly $40 billion financing agreement arranged for SpaceX's artificial intelligence chips. The financial institutions are asking select investors to commit up to $500 million each ahead of a broader syndication process.</p><p>The underlying $40 billion master finance lease is structured to support SpaceX's infrastructure expansion, representing a massive debt commitment for GPU equipment. By syndicating parts of the package, the organizers are working to distribute the exposure across a wider pool of institutional participants.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F83b86a38-9a91-480d-9fa1-bb7224557cf3.png%2Fw%3D1024%2Cq%3D82%2Cf%3Dwebp%2Cfit%3Dinside%2Cno_enlarge%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 08:14 UTC | #26484</small>]]></content>
+  </entry>
   <entry>
     <title>Snap Shares Fall as Third-Quarter User Growth Misses Estimates</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates" rel="alternate" />

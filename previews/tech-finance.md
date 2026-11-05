@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Goldman Sachs and Apollo in Talks to Sell Portions of SpaceX Chip Financing</h2>
+<a name="story-26484"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F83b86a38-9a91-480d-9fa1-bb7224557cf3.png%2Fw%3D1024%2Cq%3D82%2Cf%3Dwebp%2Cfit%3Dinside%2Cno_enlarge%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Goldman Sachs Group Inc. and Apollo Global Management Inc. are negotiating with Wall Street investors to sell portions of a roughly $40 billion financing agreement arranged for SpaceX's artificial intelligence chips. The financial institutions are asking select investors to commit up to $500 million each ahead of a broader syndication process.</p><p>The underlying $40 billion master finance lease is structured to support SpaceX's infrastructure expansion, representing a massive debt commitment for GPU equipment. By syndicating parts of the package, the organizers are working to distribute the exposure across a wider pool of institutional participants.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Snap Shares Fall as Third-Quarter User Growth Misses Estimates</h2>
 <a name="story-26470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSNAP-RESULTS%2Fakveoyxmjvr%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Snap Inc. shares fell more than 9% in after-hours trading after the company reported third-quarter daily active user growth that missed analyst estimates. While revenue rose 14% year-over-year to $1.72 billion, matching market expectations, the company reported 495 million daily active users compared to the 499 million projected.</p><p>The company reported a quarterly net income of $56 million and adjusted EBITDA of $383 million. Additionally, Snap recorded $210 million in operating cash flow and $164 million in free cash flow for the quarter.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FXYZ-RESULTS%2Fgdvzaeewkpw%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Block reported third-quarter revenue of $6.7 billion, a 10% year-over-year increase that exceeded market expectations. The company raised its full-year gross profit outlook, supported by a 27% increase in Cash App's gross profit to $2.07 billion.</p><p>Performance in the Cash App unit and steady consumer spending fueled the results. Block shares rose more than 5% in after-hours trading following the announcement.</p>
 <p>Nov 3 · <a href="https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/">reuters.com</a> | <a href="https://s27.q4cdn.com/984876518/files/content_files/Q3-2026-Earnings-Shareholder-Letter.pdf">s27.q4cdn.com</a></p>
-<br clear="all" />
-
-<h2>Super Micro Computer Reports $19.95 Billion in Q1 Revenue and Higher Q2 Forecast</h2>
-<a name="story-26349"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSUPERMICRO-RESULTS%2Flbpgbkodyvq%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Super Micro Computer reported first-quarter revenue of $19.95 billion, exceeding Wall Street estimates of $16.39 billion and representing a 298% year-over-year increase. The company also forecasted second-quarter revenue to arrive above analyst estimates due to high demand for AI-optimized servers.</p><p>Following the earnings report, shares of the company rose by more than 7% in after-hours trading. The results underscore the company's significant growth alongside the expanding artificial intelligence hardware market.</p>
-<p>Nov 3 · <a href="https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03/">reuters.com</a> | <a href="https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx">ir.supermicro.com</a></p>
 <br clear="all" />
 
 ---
