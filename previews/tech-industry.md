@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Raises €9 Billion in Debut Euro Bond Sale After Record €53 Billion Demand</h2>
+<a name="story-26463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-11-04%2Fmosph2ne%2Fmeta-muse-ad-041126-01.jpg%3Fw%3D1200%26ar%3D40%3A21%26auto%3Dformat%2Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dhttps%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-08-19%2Fv2z58b9u%2Fbdnews24_default_social_strip.jpg%26overlay_position%3Dbottom%26overlay_width%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta Platforms raised €9 billion in its first euro-denominated bond sale after attracting a record €53 billion of investor orders. The company paid about 1.4 times the risk premium Alphabet offered on comparable bonds earlier in the week.</p><p>The six-part offering followed Meta’s $15 billion US bond sale and included maturities ranging from just over four years to more than 38 years. The debt is intended to help finance the company’s large-scale artificial-intelligence infrastructure investments.</p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Apple Reduces Daily AI Spending Caps for Engineers</h2>
 <a name="story-26462"><img src="https://wsrv.nl/?url=https%3A%2F%2Facaderesearch.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fapple-capex-gap.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple is decreasing employee budgets for artificial intelligence usage as part of a cost-cutting initiative. The company has already reduced the daily spending cap for some engineers from $300 to $200 and plans to implement further reductions to as low as $100.</p><p>These restrictions come as Apple attempts to integrate artificial intelligence more centrally into its business operations. The budget cuts have reportedly contributed to internal staff concerns regarding potential layoffs.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26387"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blackridgeresearch.com%2Fuploads%2FIMG_525709.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has announced a $15 billion investment in Malaysia across 2027 and 2028 to expand its data center and cloud infrastructure. The funding supports the construction of new data center campuses in Selangor and Negeri Sembilan, building upon the company's existing operations at the Elmina Business Park.</p><p>The expanded digital infrastructure initiative also allocates resources toward clean energy, water security measures, and workforce upskilling programs. This commitment follows Google's initial $2 billion investment in the country and aims to strengthen Malaysia's position as a regional hub for artificial intelligence and cloud computing.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion">bloomberg.com</a> | <a href="https://blog.google/intl/en-my/company-news/inside-google/google-investment-malaysia-digital-infrastructure-november-2026/">blog.google</a></p>
-<br clear="all" />
-
-<h2>Google Extends Voluntary Buyout Offers to Employees in Several Countries</h2>
-<a name="story-26388"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.hkstandard.com.hk%2Ff%2F1024p0%2F0x0%2F100%2Fnone%2F31c2ea6e26f18fa182bdc009bcd4926e%2F2026-05%2F2026-05-25T193356Z_1064132031_RC2IGLAQWMZD_RTRMADP_3_EU-ALPHABET-ANTITRUST.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet's Google expanded voluntary exit buyout offers in June to employees across Canada, France, Germany, Japan, and Switzerland as part of ongoing efforts to control costs. The move follows previous voluntary separation programs and comes amid heavy corporate spending on artificial intelligence infrastructure.</p><p>The latest round of exit packages gives staff in these five additional countries the option to leave with severance benefits, though the company has not disclosed how many workers have accepted the offers. The reductions reflect broader cost-management strategies across the tech sector as major firms balance expanding AI investments with workforce adjustments.</p>
-<p>Nov 4 · <a href="https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50365284">hacker news</a></p>
 <br clear="all" />
 
 ---
