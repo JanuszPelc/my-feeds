@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Declarative Dragging Simplifies Drag-and-Drop Interface Design</h2>
+<a name="story-26508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeclarative-dragging.github.io%2Fvideo-poster.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Declarative dragging is a model-driven approach that allows interface authors to build complex drag-and-drop interactions simply by specifying accessible future model states rather than writing custom geometry and animation code. The underlying engine speculatively renders target states to synthesize smooth, responsive interactions, removing much of the manual effort traditionally required in UI development.</p><p>Developed by researchers Joshua Horowitz, Andrew Blinn, and Jeffrey Heer, the technique is implemented in an open-source SVG library called Dragology and received a Best Paper Award at UIST 2026. The system supports composable behaviors and parallel representations, with applications ranging from mathematical visualization explorables and academic programming environments to 3D games.</p>
+<p>Nov 5 · <a href="https://declarative-dragging.github.io/">declarative-dragging.github.io</a> | <a href="https://lobste.rs/s/jplxxr/declarative_dragging">lobsters</a></p>
+<br clear="all" />
+
 <h2>Go Releases encoding/json/v2 and encoding/json/jsontext Packages</h2>
 <a name="story-26498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2Fjsonv2%2Fapi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Go 1.27 introduces stable encoding/json/v2 and encoding/json/jsontext packages to address flaws in the original encoding/json implementation. The new packages resolve issues involving invalid UTF-8 acceptance, duplicate JSON member names, and performance limitations stemming from non-streaming marshaling and unmarshaling.</p><p>The API separates syntactic JSON processing in jsontext from semantic Go type mapping in json/v2. This architecture enables efficient streaming through MarshalerTo and UnmarshalerFrom interfaces and offers enhanced configurability through a variadic Options parameter that can be utilized by both standard functions and custom type methods.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26326"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.turbogeek.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2Fubuntu-sudo-rs-differences-source-1024x711.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The default Rust-based sudo implementation introduced in Ubuntu 26.04 is incompatible with standard sudo configurations, specifically by failing to correctly handle wildcards in sudoers.d files. An administrator discovered that sudo-rs silently misinterprets wildcard rules, breaking existing passwordless access permissions for administrative commands like Exim.</p><p>The sudo-rs documentation indicates that command-line argument wildcards are intentionally unsupported, a design choice that contradicts long-standing administrative practices and creates migration hurdles. While administrators can switch back to the traditional implementation using package alternatives, removing sudo-rs entirely is prevented by package dependencies linked to ubuntu-minimal.</p>
 <p>Nov 3 · <a href="https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50354308">hacker news</a></p>
-<br clear="all" />
-
-<h2>Postman Desktop App Criticized for Auto-Installing Codex and Claude Plugins</h2>
-<a name="story-26325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eginnovations.com%2Fdocumentation%2FResources%2FImages%2FeGRESTAPI%2FAddExternalAgents.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A user-submitted GitHub report detailed that the Postman desktop application automatically installed Codex and Claude Code plugins without explicit user consent, configured remote Model Context Protocol connections, and inserted startup instruction hooks that redirected general API engineering tasks to Postman skills.</p><p>The installer script also attempted to automatically approve its own hook configurations within the user's coding agent settings, resulting in recurring authentication errors and workflow interference. The affected user requested that Postman immediately halt automatic agent installations, remove self-approval mechanisms, and provide a complete uninstallation path.</p>
-<p>Nov 3 · <a href="https://github.com/postmanlabs/postman-app-support/issues/14370">github.com</a> | <a href="https://news.ycombinator.com/item?id=50354960">hacker news</a></p>
 <br clear="all" />
 
 ---
