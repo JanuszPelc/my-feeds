@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Humble Robotics Raises $51 Million Series A for Cabless Self-Driving Trucks</h2>
+<a name="story-26571"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aeb53c2308912814ed70cd6%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Humble Robotics has raised $51 million in a Series A funding round led by Obvious Ventures, bringing its total funding to $75 million. The San Francisco-based startup is developing electric, cabless self-driving trucks designed specifically for autonomous freight operations.</p><p>Founded by former Apple and Uber engineer Eyal Cohen, the company plans to begin customer pilots in early 2027 using conventional trucks before testing and deploying its custom "Humble Hauler" vehicle. The startup is focusing on regional routes under 250 miles to address persistent driver shortages in the logistics sector.</p>
+<p>Nov 5 · <a href="https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11">businessinsider.com</a> | <a href="https://www.businesswire.com/news/home/20261105576352/en/Humble-Robotics-Raises-$51-Million-Series-A-to-Scale-Its-Unified-Approach-to-Autonomous-and-Electric-Freight">businesswire.com</a></p>
+<br clear="all" />
+
 <h2>UK Crime and Policing Act 2026 Introduces New Offenses for Specific Pornographic Content</h2>
 <a name="story-26574"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FHV9LwJBWcAAfyRz.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Starting November 6, 2026, the Crime and Policing Act will criminalize the possession and publication of pornography depicting strangulation, suffocation, incest roleplay, or sexual activity involving individuals appearing to be under 16 in England and Wales. Possession of content depicting strangulation or suffocation carries a maximum penalty of two years in prison, while publication of these materials can result in up to five years.</p><p>Industry advocates and sex workers warn that the law's vague language regarding "realistic" depictions and "suffocation" could cause widespread censorship and a chilling effect on consensual adult content. Some platforms are already removing various fetish categories to ensure compliance. The law's potential for retroactive application also raises concerns regarding the legality of existing creator back catalogs and long-term income.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26499"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northamericaoutlookmag.com%2Fmedia%2FNscale-featured-2-1-jpg.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The US software giant has declined to exercise an option to more than double its existing contract to rent computing power from Nscale at a Texas data center. This decision denies the UK-based startup a significant boost to its revenue and infrastructure scale.</p><p>The setback occurs as Nscale prepares for a projected $35 billion initial public offering. The contract expansion would have provided substantial additional computing capacity for AI workloads at the Texas site.</p>
 <p>Nov 5 · <a href="https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8">ft.com</a></p>
-<br clear="all" />
-
-<h2>Meta to Stop Naming AI Models After Fruit</h2>
-<a name="story-26495"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6ad8f722dc67b5b4d01f61c0%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta has internally decided to move away from fruit-based codenames for its artificial intelligence models to better align its branding with its high-level AI ambitions. Previous internal names included "Watermelon," "Avocado," and "Mango."</p><p>This transition mirrors an industry trend where developers are shifting from casual, grocery-themed names toward more formal identifiers, such as Anthropic's "Mythos." Other tech companies have previously used food-related names, including OpenAI's "Garlic" and Google's "Nano Banana" image generator.</p>
-<p>Nov 5 · <a href="https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11">businessinsider.com</a></p>
 <br clear="all" />
 
 ---
