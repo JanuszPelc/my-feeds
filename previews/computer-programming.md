@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Go Releases encoding/json/v2 and encoding/json/jsontext Packages</h2>
+<a name="story-26498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2Fjsonv2%2Fapi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Go 1.27 introduces stable encoding/json/v2 and encoding/json/jsontext packages to address flaws in the original encoding/json implementation. The new packages resolve issues involving invalid UTF-8 acceptance, duplicate JSON member names, and performance limitations stemming from non-streaming marshaling and unmarshaling.</p><p>The API separates syntactic JSON processing in jsontext from semantic Go type mapping in json/v2. This architecture enables efficient streaming through MarshalerTo and UnmarshalerFrom interfaces and offers enhanced configurability through a variadic Options parameter that can be utilized by both standard functions and custom type methods.</p>
+<p>Nov 4 · <a href="https://go.dev/blog/jsonv2">go.dev</a> | <a href="https://news.ycombinator.com/item?id=50369106">hacker news</a></p>
+<br clear="all" />
+
 <h2>Nicholas Nethercote Details Rust Compiler Performance Improvements for November 2026</h2>
 <a name="story-26475"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.rust-lang.org%2Finside-rust%2F2020%2F11%2F11%2Fexploring-pgo-for-the-rust-compiler%2Frustc-perf-pgo-llvm-expanded.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nicholas Nethercote outlines recent performance optimization work on the Rust compiler conducted for Hexcat through November 2026. Key updates include a redesigned and more efficient compression scheme for compiler spans, micro-optimizations for span operations, single-entry caching for parent span lookups, and targeted instruction reductions for the in-development new trait solver on complex crates like Diesel.</p><p>Additional improvements feature metadata sparse encoding mechanisms that reduce peak memory and metadata sizes, along with code rearrangements to eliminate unnecessary work during early returns and metadata encoding. Overall benchmark results for the monthly period show a mean wall-time reduction of 2.85 percent and a mean max-RSS peak memory reduction of 4.46 percent across test suites.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eginnovations.com%2Fdocumentation%2FResources%2FImages%2FeGRESTAPI%2FAddExternalAgents.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A user-submitted GitHub report detailed that the Postman desktop application automatically installed Codex and Claude Code plugins without explicit user consent, configured remote Model Context Protocol connections, and inserted startup instruction hooks that redirected general API engineering tasks to Postman skills.</p><p>The installer script also attempted to automatically approve its own hook configurations within the user's coding agent settings, resulting in recurring authentication errors and workflow interference. The affected user requested that Postman immediately halt automatic agent installations, remove self-approval mechanisms, and provide a complete uninstallation path.</p>
 <p>Nov 3 · <a href="https://github.com/postmanlabs/postman-app-support/issues/14370">github.com</a> | <a href="https://news.ycombinator.com/item?id=50354960">hacker news</a></p>
-<br clear="all" />
-
-<h2>David Bushell Examines Browser Removal of Native XSLT Support</h2>
-<a name="story-26316"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pcjs.org%2Fblog%2Fimages%2Fxslt-deprecation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer and designer David Bushell criticizes Google and other browser vendors for deprecating and removing native XSLT support, a change scheduled for late 2026 that will break existing XML workflows and his own project, xslt.rip.</p><p>Bushell argues that this decision violates the web standards community's long-standing social contract of backward compatibility. He also objects to Chromium-based browsers injecting warning banners onto XSLT-reliant pages, contending that vendors are improperly shifting the responsibility of broken web infrastructure onto site maintainers.</p>
-<p>Nov 3 · <a href="https://dbushell.com/2026/11/03/xslt-rip/">dbushell.com</a> | <a href="https://lobste.rs/s/chypzr/death_comes_for_xslt">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50355929">hacker news</a></p>
 <br clear="all" />
 
 ---

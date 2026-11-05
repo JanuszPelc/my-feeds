@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-04T20:59:00+00:00</updated>
+  <updated>2026-11-04T22:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Go Releases encoding/json/v2 and encoding/json/jsontext Packages</title>
+    <link href="https://go.dev/blog/jsonv2" rel="alternate" />
+    <id>https://go.dev/blog/jsonv2::v240</id>
+    <published>2026-11-04T22:55:00+00:00</published>
+    <updated>2026-11-04T22:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2Fjsonv2%2Fapi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://go.dev/blog/jsonv2">go.dev</a> | <a href="https://news.ycombinator.com/item?id=50369106">hacker news</a></small></p><hr/><p>Go 1.27 introduces stable encoding/json/v2 and encoding/json/jsontext packages to address flaws in the original encoding/json implementation. The new packages resolve issues involving invalid UTF-8 acceptance, duplicate JSON member names, and performance limitations stemming from non-streaming marshaling and unmarshaling.</p><p>The API separates syntactic JSON processing in jsontext from semantic Go type mapping in json/v2. This architecture enables efficient streaming through MarshalerTo and UnmarshalerFrom interfaces and offers enhanced configurability through a variadic Options parameter that can be utilized by both standard functions and custom type methods.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2Fjsonv2%2Fapi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 05:46 UTC | #26498</small>]]></content>
+  </entry>
   <entry>
     <title>Nicholas Nethercote Details Rust Compiler Performance Improvements for November 2026</title>
     <link href="https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html" rel="alternate" />
