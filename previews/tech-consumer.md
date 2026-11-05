@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Motorola Announces motorola signature 27</h2>
+<a name="story-26608"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.extremetech.com%2Fimagery%2Fcontent-types%2F00cdIz3w68zzcixocVRr6cx%2Fhero-image.fill.size_1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The motorola signature 27 is a flagship smartphone from Motorola featuring a Snapdragon 8 Elite Extreme Gen 6 processor and an Extreme AMOLED Duo Tandem display. The device is the first non-Pixel smartphone to support GrapheneOS.</p><p>The phone features a 7000mAh battery with 90W wired and 50W wireless charging, a multi-lens camera system, and AI tools including Gemini Intelligence and Motorola Qira. It is built with a ceramic and glass construction with IP68 and IP69 ratings and has a starting MSRP of $1,599.</p>
+<p>Nov 5 · <a href="https://motorolanews.com/motorola-signature-27-2/">motorolanews.com</a> | <a href="https://news.ycombinator.com/item?id=50380810">hacker news</a></p>
+<br clear="all" />
+
 <h2>Aina Releases $399 AI Smart Ring With Screen, Joystick, and Microphone</h2>
 <a name="story-26552"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAina-Voice-notes.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hardware startup Aina has released a $399 smart ring designed to serve as a physical controller for AI agents and desktop applications. The titanium wearable features a built-in screen, a miniature joystick, a microphone, and a speaker, allowing users to issue voice prompts, dictate notes, view phone notifications, and handle voice calls.</p><p>Pre-orders for the device opened at an early-bird price of $399 before increasing to $499, with global shipping scheduled to begin in January 2027. The ring supports contextual shortcuts and gestures tailored for platforms like macOS and mobile devices, positioning itself as a tactile command hub for users interacting with proactive artificial intelligence agents.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26322"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblta886a5ba7def784f%2F6ae9fc8325092d15336bec97%2Framiadifeatured.jpg%3Fwidth%3D1280%26auto%3Dwebp%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Acclaimed indie developer Rami Ismail is returning to active game development with the turn-based strategy game Australia Did It: End-of-the-World Railway Defense Business, developed alongside publisher Mystic Forge and studio Aesthetician Labs. In interviews, Ismail noted that the current industry landscape has grown significantly more brutal and risk-averse since his time co-owning Vlambeer.</p><p>To adapt to modern economic pressures and avoid traditional studio instability, Ismail adopted a flexible, project-based team structure rather than maintaining a permanent company. Designing a strategy game also required shifting away from his past focus on rapid, action-oriented prototyping toward long-term balance, leading to the creation of custom progression systems to help players navigate complex tactical choices.</p>
 <p>Nov 3 · <a href="https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development">gamedeveloper.com</a></p>
-<br clear="all" />
-
-<h2>David Sears Says He Would Not Have Funded South of Midnight at Xbox</h2>
-<a name="story-26312"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt8042029c99f16a6c%2F682de7ade1e69c040d21f453%2FSouth_of_Midnight_Header.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In an interview with MinnMax, South of Midnight creative director David Sears stated that he would not have funded the game if he were running Xbox, expressing constant worry that Microsoft's expansive funding model was unsustainable. Sears noted that while he appreciated Xbox's initiative to diversify its catalog with non-mainstream titles, he believed a corporate reversal and sudden funding cuts were inevitable.</p><p>Sears departed Compulsion Games in 2025 prior to Microsoft's subsequent restructuring and reduction of its studio portfolio. He commended Microsoft for ultimately allowing Compulsion to seek independence rather than closing the studio completely, reflecting on the operational pressures tied to massive development budgets and large team sizes.</p>
-<p>Nov 3 · <a href="https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox">gamedeveloper.com</a> | <a href="https://www.youtube.com/watch?v=_mHAV-7OWjE">youtube.com</a></p>
 <br clear="all" />
 
 ---

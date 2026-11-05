@@ -8,6 +8,30 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Modartt Updates Pianoteq to v9.3 and Releases YFX Japanese Grand Expansion</h2>
+<a name="story-26568"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fyfx_header.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Modartt has released Pianoteq version 9.3, which includes the new YFX Japanese Grand instrument pack. This update also restores mic polar pattern displays in the Mics panel and addresses several bugs, including a memory leak and keyboard input issues in the Windows VST3 plugin.</p><p>The YFX Japanese Grand is a physically modeled grand piano designed for versatility in both live and studio environments. It is available as a paid expansion for €49 / $49 and can be evaluated within the updated software.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/modartt-updates-pianoteq-to-v9-3-and-releases-yfx-japanese-grand-piano-expansion-69645?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69645">kvraudio.com</a> | <a href="https://www.modartt.com/yfx">modartt.com</a></p>
+<br clear="all" />
+
+<h2>Splice Releases Splice Create DAW in Beta</h2>
+<a name="story-26556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSplice-Create-DAW.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Splice has launched a beta version of Splice Create, a new digital audio workstation that integrates the company's catalog of royalty-free samples, virtual instruments, and plugins into a single production environment. The software allows users to search and audition sounds directly within the timeline to streamline the creative workflow.</p><p>To ease transitions from other software, Splice Create includes customizable keyboard shortcuts matching popular digital audio workstations like Ableton Live, FL Studio, and Pro Tools. The DAW also features an AI-powered creative assistant that supports voice and text commands for tasks such as project organization, harmonic sample matching, and production queries. The software is currently available for Mac users in beta.</p>
+<p>Nov 5 · <a href="https://musictech.com/news/music/splice-create-daw-announced/">musictech.com</a> | <a href="https://splice.com/blog/introducing-splice-create/">splice.com</a></p>
+<br clear="all" />
+
+<h2>GForce Releases Oberheim Matrix-12 Software Synthesizer</h2>
+<a name="story-26553"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmatrix-12_hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GForce Software has released the Oberheim Matrix-12 software instrument for macOS and Windows, developed in collaboration with Oberheim and original designer Marcus Ryle. The plugin emulates the 1985 flagship analog synthesizer, featuring twelve voices, modeled dual VCOs, and a fifteen-mode filter.</p><p>The software modernizes the original hardware's complex routing system with a visual interface that includes a live signal path flow diagram, a modulation matrix grid, and module-level scopes. Additional features comprise full MPE support, multi-zone keyboard mapping with micro arpeggiators, stereo delay, matrix reverb, and over 570 factory patches.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/gforce-releases-oberheim-matrix-12---official-matrix-12-and-xpander-software-vst-au-and-aax-69644?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69644">kvraudio.com</a> | <a href="https://www.gforcesoftware.com/gforce-releases-oberheim-matrix-12-the-only-official-matrix-12-and-xpander-software/">gforcesoftware.com</a></p>
+<br clear="all" />
+
+<h2>United Airlines Integrates Spotify Into Seatback Displays Using Starlink</h2>
+<a name="story-26543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-cdn.inc.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fvip%2F2025%2F06%2Finc-united-x-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>United Airlines is introducing a native Spotify app for seatback displays, enabling passengers to log into personal accounts to stream music, playlists, and video podcasts. The service is powered by Starlink’s satellite Wi-Fi, which is currently being rolled out across the airline's entire fleet.</p><p>This integration utilizes Starlink’s low Earth orbit satellite network to provide the high-speed, low-latency connectivity required for live streaming. The move shifts in-flight entertainment away from traditional models that rely on pre-stored, localized content toward a personalized, internet-connected experience.</p>
+<p>Nov 5 · <a href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi">theverge.com</a> | <a href="https://newsroom.spotify.com/2026-11-05/united-airlines-partnership-update/">newsroom.spotify.com</a></p>
+<br clear="all" />
+
 <h2>PSPaudioware Updates PSP ClassicQ to v1.9 and Releases PSP ClassicQlite</h2>
 <a name="story-26554"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpsp_classicqpsp_classicqex.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PSPaudioware has released version 1.9.0 of its ClassicQ and ClassicQex equalizer plug-ins alongside a new free plugin named PSP ClassicQlite. The v1.9.0 update introduces native Apple Silicon support, AAX and VST3 compatibility, PACE iLok licensing, an updated preset system, and high-resolution graphics.</p><p>Inspired by classic British console equalizers, PSP ClassicQlite features low- and high-frequency shelving filters with switchable Q, flexible midrange control, an adjustable high-pass filter, and the company's second-generation saturation algorithm. Both updates aim to integrate vintage analog characteristics into modern digital audio workstation environments.</p>
@@ -71,30 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26509"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJersey-Avalon-Cafe-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Electronic duo Jersey, consisting of brothers Carl and Renaud Amiard, designed their debut album *NOTHING’S FAKE* specifically for live performance. Their stage setup relies entirely on hardware—including synthesizers, sequencers, and MIDI controllers—rather than laptops or digital audio workstations.</p><p>The duo uses AI text-to-speech models of their own voices to produce vocal textures that blend human and robotic qualities. Influenced by artists such as Gorillaz and Daft Punk, they prioritize spontaneous improvisation and tactile hardware interaction to bridge the gap between indie-pop and electronic music.</p>
 <p>Nov 5 · <a href="https://musictech.com/features/interviews/jersey-interview-nothings-fake/">musictech.com</a> | <a href="https://jersey-cr.bandcamp.com/album/nothings-fake">jersey-cr.bandcamp.com</a></p>
-<br clear="all" />
-
-<h2>Morpheral Machines Releases The Swarm Wavetable Synthesizer</h2>
-<a name="story-26512"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fthe-swarm-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Morpheral Machines has released The Swarm, a polyphonic wavetable synthesizer compatible with Windows, macOS, and Linux in VST 3, CLAP, and AU formats. The instrument utilizes a "boid" system where up to 24 oscillators act as simulated birds that move across a 2D wavetable grid based on flocking rules. This debut release also includes Desense, a free interference instrument.</p><p>The synthesis engine allows users to paint, morph, or generate wavetables from samples. Oscillator movement is influenced by 12 attractor types and up to 9 predators, with flocking behavior acting as modulation sources for various parameters. The plugin supports MPE, MTS-ESP microtuning, and is currently available at a promotional price of $59 / €59 through November 30.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/morpheral-machines-releases-the-swarm-69632?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69632">kvraudio.com</a> | <a href="https://morpheral-machines.com/plugins/the-swarm/">morpheral-machines.com</a></p>
-<br clear="all" />
-
-<h2>Sampleson Releases Wavefinder AI Audio Search Tool</h2>
-<a name="story-26537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fwavefinder-ui-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sampleson has released Wavefinder, an AI-powered audio search tool that allows users to find sounds in local libraries via text prompts or reference audio clips. By analyzing timbre, texture, and gesture, the tool enables searching based on sonic characteristics rather than filenames.</p><p>The software operates entirely on local hardware to ensure privacy and low latency, supporting WAV, AIFF, FLAC, OGG, and MP3 formats. It is available as a standalone application or as a VST3 and AU plugin.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/sampleson-releases-wavefinder-a-local-ai-powered-audio-search-tool-69615?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69615">kvraudio.com</a> | <a href="https://sampleson.com/_devs/wavefinder.html">sampleson.com</a></p>
-<br clear="all" />
-
-<h2>null.audio Updates Align and Edit to Version 1.1</h2>
-<a name="story-26513"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnull-audio-align-edit-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>null.audio has released version 1.1 of its Align and Edit plugins, bringing ARA support to Ableton Live on macOS and Windows. The update is free for existing owners and requires Ableton Live 12.3 or later with Max for Live.</p><p>The Edit update allows for editing entire verses or tracks in ARA editors like Melodyne while maintaining the original track's effect chain. Align now features a beta built-in alignment engine and can manage up to eight tracks simultaneously in VocAlign by identifying doubles and harmonies via track names.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/null-audio-updates-align-and-edit-to-1-1-69622?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69622">kvraudio.com</a> | <a href="https://www.null.audio/blog/null-audio-1-1/">null.audio</a></p>
-<br clear="all" />
-
-<h2>DSTRTD Releases Imano Synthesizer for Mac and iPad</h2>
-<a name="story-26511"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-imano-mac-01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Imano is a synthesizer for Mac and iPad that utilizes Sample-Receiver synthesis. The engine employs a three-dimensional user interface where audio samples and "receivers" are positioned on a two-dimensional surface called "the Plane" to generate and warp sound.</p><p>The application supports custom audio files, built-in waveshapes, and eight LFOs for modulation. A free, feature-limited version is available, while the full version can be purchased for $29.00.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/dstrtd-releases-imano-synth-for-mac-and-ipad-69609?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69609">kvraudio.com</a> | <a href="https://www.dstrtd.com/imano">dstrtd.com</a></p>
 <br clear="all" />
 
 ---
