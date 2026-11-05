@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Microsoft Tightens Oversight of Neocloud Data Center Projects Amid Delays and Costs</h2>
+<a name="story-26578"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FXBoRee.3WAWRrhEdDmEdPA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU1MTtjZj13ZWJw%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fbc51d24e7e57b45becaba0417aee31b1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft is increasing oversight of its data center projects with upstart neocloud operators like IREN, Nebius, and Nscale, stepping away from ventures deemed risky amid rising costs and delivery delays. The company has committed tens of billions of dollars to these partners to secure artificial intelligence computing capacity.</p><p>The tighter scrutiny follows physical buildout delays and power constraints that contributed to a recent capital spending shortfall for Microsoft. While the cloud giant debates whether to pursue additional neocloud contracts, its total committed spending in this sector has surpassed $60 billion.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs">bloomberg.com</a></p>
+<br clear="all" />
+
+<h2>Google, Meta, and TikTok Sue California Over Youth Social Media Law</h2>
+<a name="story-26569"><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.clickpetroleoegas.com.br%2Fwp-content%2Fuploads%2F2026%2F01%2FPais-jovens-e-escolas-levam-Meta-YouTube-e-TikTok-a-julgamento-historico-em-Los-Angeles-acusando-redes-de-vicio-CEOs-podem-depor-e-documentos-expor-danos-a-saude-1095x730.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google, Meta, and TikTok have filed federal lawsuits against California to block a state law that prohibits online platforms from providing psychologically exploitative features to users under the age of 16. The legislation requires platforms to restrict features like personalized recommendations and autoplay for minors or face significant compliance and operational risks.</p><p>The tech companies argue that the statute violates the First Amendment and protections under Section 230 of the Communications Decency Act. This legal challenge escalates ongoing regulatory battles between major technology firms and state governments over child safety rules and digital platform governance.</p>
+<p>Nov 5 · <a href="https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50381069">hacker news</a></p>
+<br clear="all" />
+
 <h2>Humble Robotics Raises $51 Million Series A for Cabless Self-Driving Trucks</h2>
 <a name="story-26571"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aeb53c2308912814ed70cd6%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Humble Robotics has raised $51 million in a Series A funding round led by Obvious Ventures, bringing its total funding to $75 million. The San Francisco-based startup is developing electric, cabless self-driving trucks designed specifically for autonomous freight operations.</p><p>Founded by former Apple and Uber engineer Eyal Cohen, the company plans to begin customer pilots in early 2027 using conventional trucks before testing and deploying its custom "Humble Hauler" vehicle. The startup is focusing on regional routes under 250 miles to address persistent driver shortages in the logistics sector.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26502"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabiedu.com%2Fwp-content%2Fuploads%2F2024%2F12%2Fabiedu-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A former Samsung Electronics employee was sentenced by the Seoul High Court to five years in prison for leaking DRAM process technology to Chinese memory chipmaker ChangXin Memory Technologies, or CXMT. The case underscores an escalating global competition for semiconductor engineering talent as Chinese manufacturers rapidly close technological gaps despite U.S. export restrictions.</p><p>Established chipmakers like Samsung are increasingly utilizing strict non-compete agreements, internal security measures, and legal protections to stem talent outflows to competitors such as CXMT and Micron. Meanwhile, legal experts note that protecting intangible manufacturing expertise and defining trade secrets remains a complex challenge across jurisdictions including South Korea, Taiwan, Singapore, and Hong Kong.</p>
 <p>Nov 5 · <a href="https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html">cnbc.com</a></p>
-<br clear="all" />
-
-<h2>Yangtze Memory Technologies Co Puts Shanghai IPO on Hold</h2>
-<a name="story-26501"><img src="https://wsrv.nl/?url=https%3A%2F%2Fc8.alamy.com%2Fcomp%2F3DYJRN5%2Fshanghaichina-march-8th-2026-yangtze-memory-technologies-corp-ymtc-brand-logo-on-website-3DYJRN5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Yangtze Memory Technologies Co (YMTC) has paused its planned initial public offering in Shanghai, according to an internal company memo and sources. The decision comes as Chinese regulators tighten approvals for share sales and equity markets experience weakness.</p><p>The NAND flash chipmaker had aimed to raise approximately $4.9 billion through the offering. The suspension underscores the impact of market volatility and increased regulatory oversight on major Chinese technology listings.</p>
-<p>Nov 5 · <a href="https://www.reuters.com/world/china/chinese-chipmaker-ymtc-puts-ipo-hold-weaker-markets-weigh-sources-say-2026-11-04/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Microsoft Rejects Option to Expand Nscale Texas Data Center Contract</h2>
-<a name="story-26499"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northamericaoutlookmag.com%2Fmedia%2FNscale-featured-2-1-jpg.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The US software giant has declined to exercise an option to more than double its existing contract to rent computing power from Nscale at a Texas data center. This decision denies the UK-based startup a significant boost to its revenue and infrastructure scale.</p><p>The setback occurs as Nscale prepares for a projected $35 billion initial public offering. The contract expansion would have provided substantial additional computing capacity for AI workloads at the Texas site.</p>
-<p>Nov 5 · <a href="https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8">ft.com</a></p>
 <br clear="all" />
 
 ---

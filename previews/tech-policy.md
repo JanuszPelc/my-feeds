@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Rakhim Argues Tech Companies Fail at Basic Personalization Despite Surveillance</h2>
+<a name="story-26626"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpsycnet.apa.org%2Fftasset%2Fjournals%2Fxge%2F154%2F9%2Fimages%2Fxge_154_9_2503_fig1a.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In a personal essay, technologist Rakhim argues that despite pervasive digital surveillance and data collection, technology companies consistently fail at basic personalization and user profiling. The author highlights numerous instances where algorithms misinterpret user behavior, offering irrelevant advertisements, mismatched language settings, and redundant recommendations based on single-use searches.</p><p>Examples include receiving ads for products already purchased, video recommendations driven by a single one-off appliance search, and persistent UI localization errors despite correct account settings. The piece points out a paradoxical gap between the massive scale of data tracked by modern platforms and the clumsy, inaccurate experiences delivered to end users.</p>
+<p>Nov 5 · <a href="https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me">rakhim.exotext.com</a> | <a href="https://news.ycombinator.com/item?id=50378942">hacker news</a></p>
+<br clear="all" />
+
 <h2>OnlyFake Creator Yuriy Nazarenko Details Operation and Fall of AI Fake ID Site</h2>
 <a name="story-26559"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FB_V4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Yuriy Nazarenko, the creator of the underground AI-powered fake ID generator OnlyFake, has detailed the operation and fall of his platform following a federal guilty plea and prison sentence. Operating from 2021 to 2024, Nazarenko's site automated the mass production of realistic counterfeit identity documents, generating over $1 million by selling thousands of fake passports and driver's licenses for $15 each.</p><p>In interviews outlining his enterprise, Nazarenko described scaling the illegal service like a tech startup while managing intense pressure, rivals, and eventual law enforcement scrutiny. The platform's capabilities—allowing users to bypass automated identity verification checks on cryptocurrency exchanges and other services—shattered traditional know-your-customer protocols and prompted a major international crackdown.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26377"><img src="https://wsrv.nl/?url=https%3A%2F%2F247wallst.com%2Fog%2Fcard%2F01m5mjsqdkn76zx8m3ebp4mpzg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Democratic sweep of the US Congress triggered a selloff in global markets, weighing down Asian technology shares, the US dollar, and cryptocurrency-related assets. Investors reacted to the unexpected midterm election results by reassessing trades built around President Donald Trump's policy agenda, particularly concerning artificial intelligence infrastructure and digital asset regulation.</p><p>While markets later pared some of their losses, analysts noted that a unified Democratic Congress could introduce stricter oversight and regulatory hurdles for AI development and data center buildouts. The political shift disrupted prevailing market assumptions, driving a rotation toward safer assets like Treasuries as participants braced for potential policy headwinds toward the end of the year.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Oracle Scraps $7 Billion Tencent AI Chip Lease Deal Under Trump Administration Pressure</h2>
-<a name="story-26374"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-36585149%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Oracle has canceled a roughly $7 billion, five-year agreement to lease approximately 100,000 advanced artificial intelligence chips to Tencent. The decision follows mounting pressure from the Trump administration regarding U.S. cloud infrastructure providers doing business with Chinese technology giants.</p><p>The scrapped arrangement would have given Tencent overseas access to advanced hardware hosted in Oracle data centers to support its large language model development. The collapse highlights growing regulatory hurdles and cross-border tensions for American technology companies managing AI operations involving Chinese firms.</p>
-<p>Nov 4 · <a href="https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50362002">hacker news</a></p>
 <br clear="all" />
 
 ---

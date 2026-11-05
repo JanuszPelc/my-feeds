@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-05T17:17:00+00:00</updated>
+  <updated>2026-11-05T20:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Greek Parliament Approves 10% Capital Gains Tax on Cryptocurrencies</title>
+    <link href="https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/" rel="alternate" />
+    <id>https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/::v240</id>
+    <published>2026-11-05T20:18:00+00:00</published>
+    <updated>2026-11-05T20:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fen.cryptonomist.ch%2Fwp-content%2Fuploads%2F2026%2F10%2Fgreece-cryptocurrency-tax-1068x712.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/">reuters.com</a></small></p><hr/><p>Greece's parliament approved a bill establishing a 10% capital gains tax on cryptocurrencies, marking the country's first comprehensive legal framework for taxing digital assets. The legislation applies a flat rate to individuals' net crypto gains.</p><p>The framework incorporates an annual exemption threshold of €500 for net profits, offering relief to smaller retail investors. The measure follows a public consultation period initiated by the Ministry of National Economy and Finance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.cryptonomist.ch%2Fwp-content%2Fuploads%2F2026%2F10%2Fgreece-cryptocurrency-tax-1068x712.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 23:43 UTC | #26579</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Plans $7 Billion Investment-Grade Bond Offering</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree" rel="alternate" />

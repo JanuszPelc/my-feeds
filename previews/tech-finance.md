@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Greek Parliament Approves 10% Capital Gains Tax on Cryptocurrencies</h2>
+<a name="story-26579"><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.cryptonomist.ch%2Fwp-content%2Fuploads%2F2026%2F10%2Fgreece-cryptocurrency-tax-1068x712.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Greece's parliament approved a bill establishing a 10% capital gains tax on cryptocurrencies, marking the country's first comprehensive legal framework for taxing digital assets. The legislation applies a flat rate to individuals' net crypto gains.</p><p>The framework incorporates an annual exemption threshold of €500 for net profits, offering relief to smaller retail investors. The measure follows a public consultation period initiated by the Ministry of National Economy and Finance.</p>
+<p>Nov 5 · <a href="https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Apple Plans $7 Billion Investment-Grade Bond Offering</h2>
 <a name="story-26562"><img src="https://wsrv.nl/?url=https%3A%2F%2Fphotos5.appleinsider.com%2Farchive%2Fgallery%2F11728-4863-Screen-Shot-2015-02-02-at-95850-AM-xl.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple plans to raise approximately $7 billion through its first investment-grade bond offering in more than a year. The proceeds are intended to fund share buybacks, dividends, and capital expenditures.</p><p>This issuance aligns with a broader trend of increased debt activity among major U.S. technology companies and marks a return to the bond market for the company after a period of limited issuance.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26419"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcassette.sphdigital.com.sg%2Fimage%2Fbusinesstimes%2F6d974a7b77d9813186849ddff7c3d63815e6aeb8110061d649dfa3f2c98271b9%3Fw%3D1200%26f%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Revolut has completed a secondary share sale that establishes a $115 billion valuation, a 53% increase from its previous $75 billion valuation. The sale provided liquidity to existing shareholders and employees without raising new capital and was led by investors including Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates, and Baillie Gifford.</p><p>The fintech serves over 80 million retail customers and is preparing to launch a national bank in the U.S. in the first half of 2027, following conditional approval from the Office of the Comptroller of the Currency. The company is also weighing potential public listings in New York or London, with an IPO potentially expected no earlier than 2028.</p>
 <p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/">techcrunch.com</a> | <a href="https://www.revolut.com/news/revolut_completes_fundraising_process_establishing_115_billion_valuation/">revolut.com</a></p>
-<br clear="all" />
-
-<h2>Sequoia Capital Closes London Office and Restructures Investment Team</h2>
-<a name="story-26414"><img src="https://wsrv.nl/?url=https%3A%2F%2Finventure.com.ua%2Fupload%2Fpic2015%2FSequoia-Capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Venture capital firm Sequoia Capital is closing its London office, concluding its six-year physical presence in Europe. The Silicon Valley-based firm stated that it no longer requires a local office to support European startups and will instead manage investments from its Bay Area headquarters.</p><p>The closure is part of a broader corporate restructuring that includes raising approximately $10 billion in new funds, sunsetting its Arc accelerator and Scouts programs, and merging its early-stage and growth operations. While some London-based partners are relocating to California, others are choosing to remain in Europe to back regional founders independently.</p>
-<p>Nov 4 · <a href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat">pathfounders.com</a> | <a href="https://x.com/sequoia/status/2117961312143855764">x.com</a></p>
 <br clear="all" />
 
 ---
