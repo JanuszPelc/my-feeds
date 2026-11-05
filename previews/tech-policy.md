@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Democratic Congressional Control Could Intensify Regulation of AI Data Centers</h2>
+<a name="story-26486"><img src="https://wsrv.nl/?url=https%3A%2F%2Feskesthai.net%2Fwp-content%2Fuploads%2F2026%2F03%2Fimg_1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Following the 2026 midterm elections, where Democrats gained full control of Congress, the rapid expansion of AI data centers has become a significant political issue. Voter concerns regarding environmental impact, increasing utility costs, and local community agency are driving calls for stricter regulations and construction limits.</p><p>Legislative efforts like the AI Data Center Moratorium Act and the GRID Savings Act aim to pause new developments or prevent infrastructure costs from being passed to local ratepayers. Analysts suggest that Democratic gains in states like Georgia and Texas could result in significant construction delays and increased scrutiny of energy and land-use policies.</p>
+<p>Nov 5 · <a href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Apple to Check Public iCloud Links for Harmful Content Starting in iOS 27.3</h2>
 <a name="story-26459"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apfelpatient.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fios-27-3-icloud-links-schaedliche-inhalte.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has updated its upcoming software updates, starting with the iOS 27.3 beta, to begin scanning public iCloud links set to "Anyone with the link" for harmful content. According to a newly published support document, files, photos, and other items shared via these public URLs will be accessible to Apple for content moderation purposes.</p><p>If Apple flags shared content as harmful, the company reserves the right to remove, modify, or delete the items and take action against the user's Apple Account, including blocking access or involving law enforcement when necessary. The scanning policy applies across iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26363"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6ae90c349efc9a24a32255ed%2Fmaster%2Fw_2560%252Cc_limit%2FWEB_WIRED_Mamdani_HR-00808.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In a WIRED interview, New York City Mayor Zohran Mamdani discussed his first ten months in office, his administration's unconventional use of social media for governance, and his stance on technology policies including data centers and artificial intelligence.</p><p>Reflecting on his transition from a viral campaign to municipal leadership, Mamdani addressed public outreach strategies, creator partnerships, and broader tech debates such as New York's data center moratorium and restrictions on generative AI in public schools.</p>
 <p>Nov 4 · <a href="https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50353184">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google Responds to Political Backlash Over School AI Policy</h2>
-<a name="story-26362"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fai-tools-for-educators.jpg%3Fresize%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google is addressing public and political criticism following reports that its new educational technology updates would restrict standard web search access for K-12 schools that reject artificial intelligence tools. Prominent lawmakers, including Sen. Bernie Sanders and New York Mayor Zohran Mamdani, condemned the move as coercive, accusing the company of leveraging its market dominance to force AI adoption in public classrooms.</p><p>In response to the backlash, Google clarified that features like the Gemini chatbot and AI search enhancements are disabled by default, leaving local school administrators in control of feature settings. Despite these assurances, company executives have acknowledged that traditional search and newer AI learning tools are deeply integrated, intensifying ongoing regulatory and legislative scrutiny regarding big tech influence in education.</p>
-<p>Nov 4 · <a href="https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html">cnbc.com</a> | <a href="https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/">blog.google</a></p>
 <br clear="all" />
 
 ---

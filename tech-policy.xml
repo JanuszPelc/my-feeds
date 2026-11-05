@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-04T21:27:00+00:00</updated>
+  <updated>2026-11-05T01:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Democratic Congressional Control Could Intensify Regulation of AI Data Centers</title>
+    <link href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/::v240</id>
+    <published>2026-11-05T01:03:00+00:00</published>
+    <updated>2026-11-05T01:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feskesthai.net%2Fwp-content%2Fuploads%2F2026%2F03%2Fimg_1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/">techcrunch.com</a></small></p><hr/><p>Following the 2026 midterm elections, where Democrats gained full control of Congress, the rapid expansion of AI data centers has become a significant political issue. Voter concerns regarding environmental impact, increasing utility costs, and local community agency are driving calls for stricter regulations and construction limits.</p><p>Legislative efforts like the AI Data Center Moratorium Act and the GRID Savings Act aim to pause new developments or prevent infrastructure costs from being passed to local ratepayers. Analysts suggest that Democratic gains in states like Georgia and Texas could result in significant construction delays and increased scrutiny of energy and land-use policies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feskesthai.net%2Fwp-content%2Fuploads%2F2026%2F03%2Fimg_1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 06:13 UTC | #26486</small>]]></content>
+  </entry>
   <entry>
     <title>Apple to Check Public iCloud Links for Harmful Content Starting in iOS 27.3</title>
     <link href="https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/" rel="alternate" />
