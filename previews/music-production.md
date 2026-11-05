@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>DSTRTD Releases Imano Synthesizer for Mac and iPad</h2>
+<a name="story-26511"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-imano-mac-01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Imano is a synthesizer for Mac and iPad that utilizes Sample-Receiver synthesis. The engine employs a three-dimensional user interface where audio samples and "receivers" are positioned on a two-dimensional surface called "the Plane" to generate and warp sound.</p><p>The application supports custom audio files, built-in waveshapes, and eight LFOs for modulation. A free, feature-limited version is available, while the full version can be purchased for $29.00.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/dstrtd-releases-imano-synth-for-mac-and-ipad-69609?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69609">kvraudio.com</a> | <a href="https://www.dstrtd.com/imano">dstrtd.com</a></p>
+<br clear="all" />
+
+<h2>Aurally Sound Releases Prism: Drums Audio-to-MIDI Plugin</h2>
+<a name="story-26510"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fprism_product_jpeg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Prism: Drums is a machine-learning plugin that converts acoustic drum recordings and loops into MIDI. It identifies nine drum components—including kick, snare, hi-hats, and various toms—to capture the timing and velocity of individual hits.</p><p>Available for Windows and macOS in VST3, AU, and AAX formats for a one-time fee of $79 USD, the tool includes a built-in MIDI editor and drum sampler. It supports ARA workflows in compatible hosts and can also function as a standard insert effect.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/aurally-sound-releases-prism-drums-audio-to-midi-plugin-aax-au-and-vst3-69617?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69617">kvraudio.com</a> | <a href="https://aurallysound.com/pages/prism-drums-audio-to-midi-for-drums">aurallysound.com</a></p>
+<br clear="all" />
+
 <h2>Universal Audio Releases Capitol Studios Room Modeling and Reverb Plug-in</h2>
 <a name="story-26482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuad_capitol_studios_gallery_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Universal Audio has released Capitol Studios, a native room modeling and reverb plug-in for macOS and Windows. The software emulates Capitol Studios A and B, including various microphones, consoles, outboard processors, and four underground echo chambers.</p><p>The plug-in features dynamic room modeling that allows users to move virtual microphones within the digital space to alter room response in real time. It includes microphone setups curated by Capitol engineer Steve Genewick and is priced at $249, with availability also included in the UAD Spark Studio subscription.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26314"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FiZotope-Photon-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>iZotope has introduced Photon, a standalone application and ARA2 plugin designed for AI-powered stem separation and audio cleanup. Powered by 12 custom-trained machine-learning models created in collaboration with parent company Boris FX, the software runs locally on a computer's GPU rather than processing files via the cloud.</p><p>The tool is divided into Demix and Denoise categories, enabling users to split musical tracks into multiple stems, extract individual drum elements, isolate multiple speakers, and remove background noise such as room reverb, traffic, and wind. Compatible with macOS and Windows, Photon supports hosts like Pro Tools, REAPER, and Cubase, and is priced at $349.</p>
 <p>Nov 3 · <a href="https://musictech.com/news/gear/izotope-photon/">musictech.com</a> | <a href="https://izotope.com/products/photon">izotope.com</a></p>
-<br clear="all" />
-
-<h2>Black Salt Audio Offers Low Control Bass Processor Free Until November 12</h2>
-<a name="story-26304"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blacksaltaudio.com%2Fassets%2Flow-control_showcase.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Black Salt Audio is offering its $79 Low Control low-end compressor and harmonic enhancer plugin for free until November 12, 2026. The macOS and Windows compatible processor splits audio processing into independent control and enhancement sections, allowing users to apply targeted compression below a chosen frequency and add harmonics for increased low-end weight.</p><p>The plugin features fixed attack, release, and ratio settings optimized specifically for bass and drums, alongside a solo low-frequency monitoring mode. Claiming the free plugin requires creating a Black Salt Audio account, subscribing to the developer's newsletter, and completing license activation, with 64-bit VST3, AAX, and AU formats supported.</p>
-<p>Nov 3 · <a href="https://bedroomproducersblog.com/2026/11/03/black-salt-audio-low-control/">bedroomproducersblog.com</a> | <a href="https://blacksaltaudio.com/free/">blacksaltaudio.com</a></p>
-<br clear="all" />
-
-<h2>FlickSwitch Audio Releases Liminal 1.1 and Glacier Plugins</h2>
-<a name="story-26306"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixdownmag.com.au%2Fwp-content%2Fuploads%2F2026%2F05%2FScreen-Shot-2026-05-14-at-5.22.25-pm-1024x707.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>FlickSwitch Audio has released Liminal 1.1 and the new Glacier effect plugin, available individually or bundled for macOS and Windows. Liminal is a dynamic threshold processor that splits audio into three lanes based on hit velocity, allowing independent processing, gain staging, and routing for strong hits, ghost notes, and tails. Version 1.1 introduces an eight-band output EQ per lane alongside a multi-output instrument version for stem recording and sidechain routing.</p><p>Glacier pairs a tempo-synced stereo or ping-pong delay with Hall and Shimmer reverbs, featuring an infinite freeze function to sustain ambient pads while dry audio continues. Additional controls include pitch-shifting for the delay, dispersion widening, shimmer regeneration, and automatic ducking. Both plugins support VST3, AU, and AAX formats under a perpetual license with internet-based initial activation.</p>
-<p>Nov 3 · <a href="https://bedroomproducersblog.com/2026/11/03/flickswitch-audio/">bedroomproducersblog.com</a> | <a href="https://www.flickswitchaudio.com/product/complete-bundle">flickswitchaudio.com</a></p>
 <br clear="all" />
 
 ---
