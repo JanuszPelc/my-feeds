@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-05T17:05:00+00:00</updated>
+  <updated>2026-11-05T17:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Plans $7 Billion Investment-Grade Bond Offering</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree::v240</id>
+    <published>2026-11-05T17:17:00+00:00</published>
+    <updated>2026-11-05T17:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fphotos5.appleinsider.com%2Farchive%2Fgallery%2F11728-4863-Screen-Shot-2015-02-02-at-95850-AM-xl.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree">bloomberg.com</a> | <a href="https://bullfincher.io/companies/apple/report/2026-8-k-0000320193-26-000018">bullfincher.io</a></small></p><hr/><p>Apple plans to raise approximately $7 billion through its first investment-grade bond offering in more than a year. The proceeds are intended to fund share buybacks, dividends, and capital expenditures.</p><p>This issuance aligns with a broader trend of increased debt activity among major U.S. technology companies and marks a return to the bond market for the company after a period of limited issuance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fphotos5.appleinsider.com%2Farchive%2Fgallery%2F11728-4863-Screen-Shot-2015-02-02-at-95850-AM-xl.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 22:29 UTC | #26562</small>]]></content>
+  </entry>
   <entry>
     <title>Zipline Raises $1.5B at $21.5B Valuation</title>
     <link href="https://www.wsj.com/business/drone-startup-zipline-raises-1-5-billion-at-21-5-billion-valuation-1d166eec?st=DJV1r5&amp;reflink=desktopwebshare_permalink" rel="alternate" />

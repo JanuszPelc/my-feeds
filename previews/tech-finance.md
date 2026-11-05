@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Apple Plans $7 Billion Investment-Grade Bond Offering</h2>
+<a name="story-26562"><img src="https://wsrv.nl/?url=https%3A%2F%2Fphotos5.appleinsider.com%2Farchive%2Fgallery%2F11728-4863-Screen-Shot-2015-02-02-at-95850-AM-xl.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple plans to raise approximately $7 billion through its first investment-grade bond offering in more than a year. The proceeds are intended to fund share buybacks, dividends, and capital expenditures.</p><p>This issuance aligns with a broader trend of increased debt activity among major U.S. technology companies and marks a return to the bond market for the company after a period of limited issuance.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree">bloomberg.com</a> | <a href="https://bullfincher.io/companies/apple/report/2026-8-k-0000320193-26-000018">bullfincher.io</a></p>
+<br clear="all" />
+
 <h2>Zipline Raises $1.5B at $21.5B Valuation</h2>
 <a name="story-26563"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techbuzz.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1200%2Cquality%3D85%2Cformat%3Dauto%2Cfit%3Dcover%2Fhttps%3A%2F%2Fcharming-card-d91ad3487b.media.strapiapp.com%2Flarge_zipline_soars_to_21_5b_valuation_on_1_5b_raise_e64f8ffb60.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Zipline, an autonomous drone delivery startup, has raised $1.5 billion in a funding round that brings its valuation to $21.5 billion. This is a significant increase from the company's $7.85 billion valuation following a $600 million raise in January. Zipline plans to use the capital to expand its manufacturing operations within the United States.</p><p>The funding supports the expansion of Zipline's commercial services, including a partnership with Walmart to increase drone delivery sites. CEO Keller Cliffton stated that the rising valuation reflects growing market acceptance of autonomous delivery technologies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26414"><img src="https://wsrv.nl/?url=https%3A%2F%2Finventure.com.ua%2Fupload%2Fpic2015%2FSequoia-Capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Venture capital firm Sequoia Capital is closing its London office, concluding its six-year physical presence in Europe. The Silicon Valley-based firm stated that it no longer requires a local office to support European startups and will instead manage investments from its Bay Area headquarters.</p><p>The closure is part of a broader corporate restructuring that includes raising approximately $10 billion in new funds, sunsetting its Arc accelerator and Scouts programs, and merging its early-stage and growth operations. While some London-based partners are relocating to California, others are choosing to remain in Europe to back regional founders independently.</p>
 <p>Nov 4 · <a href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat">pathfounders.com</a> | <a href="https://x.com/sequoia/status/2117961312143855764">x.com</a></p>
-<br clear="all" />
-
-<h2>Sentra Raises $150 Million in Series C Funding for AI Data Security</h2>
-<a name="story-26406"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fsentra-raises-150m-series-c-to-expand-agentic-data-security-platform.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Data security startup Sentra Inc. has raised $150 million in a Series C funding round led by Capital One Ventures, bringing its total capital raised to over $250 million. The company provides a platform that classifies enterprise data and maps identities—including human users, service accounts, and artificial intelligence agents—to secure access across cloud and on-premises environments.</p><p>As enterprises adopt autonomous AI agents that operate continuously without centralized governance, Sentra aims to mitigate data exposure risks by restricting agent access to minimum required permissions and removing stale or high-risk data. The new funding will support expanding the platform's visibility and containment features for AI models and copilots, scaling field operations, and entering new geographic markets.</p>
-<p>Nov 4 · <a href="https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/">siliconangle.com</a> | <a href="https://sentra.io/blog/why-we-raised-150m-series-c-data-security">sentra.io</a></p>
 <br clear="all" />
 
 ---
