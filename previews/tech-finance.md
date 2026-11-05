@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Sony Raises Profit Outlook Following Strong PlayStation and Entertainment Sales</h2>
+<a name="story-26523"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2F8Dsr1sX4%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sony Group Corp. has raised its profit outlook after reporting second-quarter results that surpassed analyst estimates. The company posted revenue of approximately $21.7 billion and an operating profit of $3.94 billion, with PlayStation 5 hardware sales reaching 2.6 million units during the period.</p><p>The performance was driven by successful entertainment titles, including the Spider-Man franchise and increased demand for the PlayStation 5 Pro in the United States. This surge in hardware sales was significantly bolstered by consumer interest in Grand Theft Auto VI.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/sony-lifts-outlook-after-spider-man-and-playstation-fuel-growth?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg2NDYzMSwiZXhwIjoxNzk0NDY5NDMxLCJhcnRpY2xlSWQiOiJUTlVUVlFLSkg2VjgwMCIsImJjb25uZWN0SWQiOiJBRDcxOUY5NDBGRTk0MzNBOERCNzI2OEJDOTY3NzY3QyJ9.M7AhSTBnGpiFi78VkX2pOIEbJGwESbWuJsmtERzi5bo">bloomberg.com</a> | <a href="https://www.sony.com/en/SonyInfo/IR/library/er/archive.html">sony.com</a></p>
+<br clear="all" />
+
 <h2>Palo Alto Networks in Talks to Acquire Clutch Security for $500 Million</h2>
 <a name="story-26493"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFlzE4WqLv9Hg%2Ffeedshare-shrink_1280%2FB4DZZ9KYSeG0Ao-%2F0%2F1745856597555%3Fe%3D2147483647%26v%3Dbeta%26t%3Dt7Z2oDP8pT-nHdtYnUH1l_uo9UpsQ9JIPLo99Zj5adA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Palo Alto Networks is negotiating to acquire Israeli startup Clutch Security for approximately $500 million. The company develops software that tracks passwords used by AI agents to secure non-human identities.</p><p>The acquisition would expand Palo Alto Networks' ability to counter AI-driven threats. Clutch Security is a three-year-old startup that recently raised $20 million in Series A funding.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26379"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSaurabh-Pandey.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Indian microdrama platform operator EloElo Group has raised $80 million in a Series C funding round co-led by Hornbill Capital and NBCUniversal. The new capital brings the company's total funding to $130 million at a valuation of $500 million to fuel its expansion in the country's rising mobile microdrama market.</p><p>Founded in 2020, EloElo operates the Story TV app, which features thousands of serialized titles and serves tens of millions of active users. The company plans to deploy the funds toward scaling its original content catalog, hiring machine learning talent, and expanding its internal Dolphin AI platform to assist creators with video production workflows.</p>
 <p>Nov 4 · <a href="https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Traversal Raises $120M Series B at $1B Valuation</h2>
-<a name="story-26356"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQG0SkjQsaC4Wg%2Ffeedshare-shrink_1280%2FB4DZeSKIa0HMAk-%2F0%2F1750503822723%3Fe%3D2147483647%26v%3Dbeta%26t%3DnQ3lKfxBf5lV-yd4UoUPYUtexFAEB4ButlKXAIb-ovI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Traversal has raised $120 million in Series B funding at a $1 billion valuation to expand its AI-driven site reliability engineering (SRE) platform. The round was co-led by Kleiner Perkins, Redpoint, and Khosla Ventures.</p><p>The company provides AI agents that help enterprises, such as American Express and PepsiCo, troubleshoot software outages and manage production environments. Traversal intends to use the funds to advance "self-driving production" systems and scale its research, engineering, and go-to-market teams.</p>
-<p>Nov 3 · <a href="https://www.forbes.com/sites/the-prompt/2026/11/03/the-billion-dollar-business-of-fixing-what-ai-builds/">forbes.com</a> | <a href="https://x.com/traversal_ai/status/2117665706355433963">x.com</a></p>
 <br clear="all" />
 
 ---

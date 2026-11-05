@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-05T12:33:00+00:00</updated>
+  <updated>2026-11-05T12:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Osteocytes Release Anti-Aging Proteins in Response to Mechanical Strain</title>
+    <link href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span" rel="alternate" />
+    <id>https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span::v240</id>
+    <published>2026-11-05T12:37:00+00:00</published>
+    <updated>2026-11-05T12:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F8b4bf480e2341986cb94488c0e0cdb2640d8b2bf%2F4-Figure3-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span">science.org</a> | <a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00433-X">cell.com</a> | <a href="https://news.ycombinator.com/item?id=50331957">hacker news</a></small></p><hr/><p>Mechanical strain on bones triggers osteocytes to secrete proteins that slow aging and extend lifespan. In mice, applying gentle pressure to leg bones through dynamic tibial axial loading (DTAL) extended lifespan by approximately three months and improved organ health, memory, and reflexes.</p><p>The research identifies the PIEZO1 protein as essential for osteocytes to sense mechanical forces. While these results are currently limited to rodents, researchers suggest that high-impact or resistance-based exercises may provide systemic anti-aging benefits in humans.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F8b4bf480e2341986cb94488c0e0cdb2640d8b2bf%2F4-Figure3-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 17:40 UTC | #26177</small>]]></content>
+  </entry>
   <entry>
     <title>LED Lights Attract Fewer Insects Due to Lack of Ultraviolet Light</title>
     <link href="https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/" rel="alternate" />

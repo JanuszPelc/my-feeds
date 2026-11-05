@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Osteocytes Release Anti-Aging Proteins in Response to Mechanical Strain</h2>
+<a name="story-26177"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F8b4bf480e2341986cb94488c0e0cdb2640d8b2bf%2F4-Figure3-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mechanical strain on bones triggers osteocytes to secrete proteins that slow aging and extend lifespan. In mice, applying gentle pressure to leg bones through dynamic tibial axial loading (DTAL) extended lifespan by approximately three months and improved organ health, memory, and reflexes.</p><p>The research identifies the PIEZO1 protein as essential for osteocytes to sense mechanical forces. While these results are currently limited to rodents, researchers suggest that high-impact or resistance-based exercises may provide systemic anti-aging benefits in humans.</p>
+<p>Nov 5 · <a href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span">science.org</a> | <a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00433-X">cell.com</a> | <a href="https://news.ycombinator.com/item?id=50331957">hacker news</a></p>
+<br clear="all" />
+
 <h2>LED Lights Attract Fewer Insects Due to Lack of Ultraviolet Light</h2>
 <a name="story-26566"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.birdsoutsidemywindow.org%2Fwp-content%2Fuploads%2F2026%2F11%2Finsects_swarm_at_gas_station_light_Iowa_US20_20060726_wiki.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>LEDs attract significantly fewer insects than incandescent or compact fluorescent bulbs because they emit little to no ultraviolet (UV) light. Many flying insects use UV wavelengths for navigation, mistaking the artificial light for moonlight.</p><p>A 2016 University of Bristol study confirmed that both cool-white and warm-white LEDs attract fewer insects than traditional light sources. This reduction in insect activity can impact local ecosystems by altering the presence of predators, such as geckos, that frequent illuminated areas to hunt.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26283"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fingredients-of-life-di-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers analyzing pristine samples returned from the asteroid Ryugu by Japan's Hayabusa2 mission have detected all five fundamental nucleobases—adenine, guanine, cytosine, thymine, and uracil. These nitrogen-containing organic molecules serve as the genetic letters of DNA and RNA, combining with sugars and phosphates to form nucleotides.</p><p>The discovery confirms that the building blocks of genetic material were present in primitive carbonaceous asteroids during the early Solar System. While previous meteorite finds on Earth faced potential contamination risks, uncompromised samples from Ryugu and NASA's asteroid Bennu reinforce the hypothesis that space-borne chemistry helped deliver the prebiotic ingredients necessary for life on Earth.</p>
 <p>Nov 3 · <a href="https://www.sciencedaily.com/releases/2026/11/261102075903.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41550-026-02791-z">nature.com</a></p>
-<br clear="all" />
-
-<h2>ESA Hera Spacecraft Captures First Resolved Images of Didymos and Dimorphos Asteroids</h2>
-<a name="story-26281"><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F2048%2Fcpsprodpb%2F69c9%2Flive%2Fa83130f0-849e-11ef-822c-a50726bfda2e.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The European Space Agency's Hera spacecraft has captured its first resolved images of the binary asteroid system Didymos and Dimorphos from a distance of approximately 1,280 kilometers. Taken on October 18 using the probe's Asteroid Framing Camera, the milestone marks the first time the smaller moonlet Dimorphos has been distinguished separately from its parent body during the approach.</p><p>Hera is traveling to investigate the aftermath of NASA's 2022 DART mission, which intentionally crashed into Dimorphos and altered its orbit. Detailed observations and close-up imaging are scheduled to begin following further approach maneuvers, aiming to clarify the physical properties and internal structure of the asteroid to support future planetary defense strategies.</p>
-<p>Nov 3 · <a href="https://www.sciencedaily.com/releases/2026/11/261103003154.htm">sciencedaily.com</a> | <a href="https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one">esa.int</a></p>
 <br clear="all" />
 
 ---

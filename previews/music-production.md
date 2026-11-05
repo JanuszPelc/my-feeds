@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Wavea Updates Flite to v2.2</h2>
+<a name="story-26532"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fflite.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Wavea has released Flite v2.2, introducing full pack building capabilities that allow users to export presets, samples, and artwork as single files. The update also includes a new UI Editor and new live performance controls, such as a Triangle, XY Pad, and Joystick.</p><p>Additional features include new waveforms and filters like Sharkfin, FoldTri, Notch, Morph, Phase, and Peak. The sampler has been upgraded with multi-zone editing, round robins, and improved import support for SFZ and Decent Sampler formats.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/wavea-updates-flite-to-v2-2-69637?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69637">kvraudio.com</a> | <a href="https://www.wavea.co/">wavea.co</a></p>
+<br clear="all" />
+
+<h2>Relab Development Updates LX480 Dual-Engine Reverb to v4.1.1 and LX480 Essentials to v2.3.0</h2>
+<a name="story-26533"><img src="https://wsrv.nl/?url=https%3A%2F%2Frelabdevelopment.com%2Fwp-content%2Fuploads%2F2022%2F10%2F480-Early-Refelctions.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Relab Development has released software updates for both its LX480 Dual-Engine Reverb plugin, bringing it to version 4.1.1, and its LX480 Essentials plugin, updating it to version 2.3.0. The updates introduce new preset managers, dark mode support, and freely resizable interfaces alongside workflow enhancements and various bug fixes.</p><p>Version 4.1.1 of the Dual-Engine Reverb fixes mono input processing and centers the dry signal, while addressing previous latency reporting issues and DAW compatibility errors. Meanwhile, LX480 Essentials version 2.3.0 adds a compact preset manager, toolbar bypass button, and parameter tooltips, while resolving compatibility problems on Apple M4 Macs and fixing phase shifts during fully dry output.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/relab-development-updates-lx480-dual-engine-reverb-to-v4-1-1-and-lx480-essentials-to-v2-3-0-69636?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69636">kvraudio.com</a> | <a href="https://relabdevelopment.com/downloads/lx480-dual-engine-reverb-4-1-1-changelog/">relabdevelopment.com</a></p>
+<br clear="all" />
+
 <h2>Pro Tools 2026.11 Introduces AI Stem Separation and Extensions</h2>
 <a name="story-26514"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Avid has introduced AI stem separation as a new Extension in Pro Tools 2026.11. This feature allows users to separate an audio recording into up to six component stems: vocals, drums, bass, guitar, keys, and other instruments.</p><p>The update also debuts a Pro Tools Extensions ecosystem, enabling third-party developers like Splice and SoundFlow to integrate specialized tools directly into the DAW. Other enhancements in this release include MIDI Polyphonic Expression (MPE) support and High DPI support for Windows.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26446"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZatHLLgOsp0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Orbit is a standalone sample-search and session-recall application for macOS that allows users to find audio files by entering text descriptions rather than relying on filenames. The software indexes local and disconnected external drives, enabling searches filtered by tempo, key, and sample type with local processing to ensure privacy.</p><p>The application offers a free Lite tier with unlimited indexing and search capabilities, alongside a €99 Pro tier that adds voice search, reference-track matching, session recall, and a VST3 and AU sampler plugin for Apple Silicon Macs.</p>
 <p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/orbit-sample-search/">bedroomproducersblog.com</a> | <a href="https://www.weareorb.it/">weareorb.it</a></p>
-<br clear="all" />
-
-<h2>Steinberg Releases Cubase 16</h2>
-<a name="story-26431"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcubase-pro-16-1-screen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Steinberg has released Cubase 16, the latest version of its digital audio workstation (DAW). The update introduces features such as Instrument Stacks for layering virtual instruments, an upgraded six-stem separation tool, and advanced MIDI editing capabilities like Strum and Stretch Selection.</p><p>Available in Pro, Artist, and Elements editions, Cubase 16 features a searchable, non-modal settings dialog, new spectral time-stretching algorithms, and expanded MIDI 2.0 and Ableton Link integration. It also bundles new creative resources including the Module FM sound library, DrumChain effects processor, and Omnivocal Basic vocal synthesis engine.</p>
-<p>Nov 4 · <a href="https://www.kvraudio.com/news/steinberg-releases-cubase-16-69610?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69610">kvraudio.com</a> | <a href="https://www.steinberg.net/cubase/release-notes/16/">steinberg.net</a></p>
-<br clear="all" />
-
-<h2>Karanyi Sounds Opens Registration for Free Brigade Vocal Multiplier Plugin</h2>
-<a name="story-26425"><img src="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--vfFXRTqc--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2F11395fcc-68aa-4d76-944b-d62de3f4a590.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Karanyi Sounds has opened preregistration for Brigade, an upcoming vocal multiplier plugin normally priced at $49 that will be offered for free on Black Friday, November 27, 2026. Users can reserve a perpetual license by submitting their email address on the giveaway page before the official release date.</p><p>Derived from the developer's Voicemax vocal processing software, Brigade is designed to turn a single vocal take into an ensemble of backup singers arranged on a virtual stage. The plugin features dedicated controls for harmony, stacking, stereo spread, formants, and a lead-to-brigade balance slider, and it will be available in VST3 and AU formats for macOS and Windows.</p>
-<p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/karanyi-sounds-brigade-black-friday/">bedroomproducersblog.com</a> | <a href="https://karanyisounds.com/pages/voicemax-brigade">karanyisounds.com</a></p>
 <br clear="all" />
 
 ---
