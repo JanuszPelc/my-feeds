@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Discovered Materials Announces $1M Prize Pool for Five Materials Science Challenges</h2>
+<a name="story-26527"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E12AQFRZuSuq0uvAg%2Farticle-cover_image-shrink_720_1280%2FB4EZVONxrJHgAQ-%2F0%2F1740773993261%3Fe%3D2147483647%26v%3Dbeta%26t%3DXl3sYP-h7TJoEOQWkupFrQpPcyzrBmOqTEnhOoSlPH4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A San Francisco-based startup is offering $1 million in prizes to solve five major unsolved problems in materials science. Discovered Materials aims to use these challenges as benchmarks to track the progress of frontier AI models in mastering complex physical phenomena.</p><p>The competition focuses on topics including explaining cuprate superconductivity and developing numerical methods to predict semiconductor interface structures and thermal properties. The company, which is part of Y Combinator's spring 2026 batch, focuses on discovering new materials for advanced semiconductor manufacturing.</p>
+<p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Osteocytes Release Anti-Aging Proteins in Response to Mechanical Strain</h2>
 <a name="story-26177"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F8b4bf480e2341986cb94488c0e0cdb2640d8b2bf%2F4-Figure3-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mechanical strain on bones triggers osteocytes to secrete proteins that slow aging and extend lifespan. In mice, applying gentle pressure to leg bones through dynamic tibial axial loading (DTAL) extended lifespan by approximately three months and improved organ health, memory, and reflexes.</p><p>The research identifies the PIEZO1 protein as essential for osteocytes to sense mechanical forces. While these results are currently limited to rodents, researchers suggest that high-impact or resistance-based exercises may provide systemic anti-aging benefits in humans.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26299"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.chesscomfiles.com%2Fuploads%2Fv1%2Fimages_users%2Ftiny_mce%2FidChess_Club%2Fphpe7SYUt.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researcher Nicholas Carlini has demonstrated that a modern chess engine running on a 1996-era 200 MHz Intel Pentium Pro could have easily defeated world chess champion Garry Kasparov during his historic matches against IBM's Deep Blue. By porting Stockfish and updating historical engines to run on vintage 32-bit commodity hardware with 64MB of RAM, the experiments show that specialized supercomputers were unnecessary for the feat.</p><p>The findings reveal that the majority of modern chess AI performance gains are driven by algorithmic advancements in move selection, search techniques, and neural-network evaluations rather than raw hardware speed. An adapted version of Stockfish running on the 1996 desktop achieves an estimated Elo rating of around 3300, far surpassing human capabilities and Kasparov's historical rating of under 2800.</p>
 <p>Nov 3 · <a href="https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html">nicholas.carlini.com</a> | <a href="https://news.ycombinator.com/item?id=50349276">hacker news</a></p>
-<br clear="all" />
-
-<h2>All Five DNA and RNA Nucleobases Discovered in Asteroid Ryugu Samples</h2>
-<a name="story-26283"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fingredients-of-life-di-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers analyzing pristine samples returned from the asteroid Ryugu by Japan's Hayabusa2 mission have detected all five fundamental nucleobases—adenine, guanine, cytosine, thymine, and uracil. These nitrogen-containing organic molecules serve as the genetic letters of DNA and RNA, combining with sugars and phosphates to form nucleotides.</p><p>The discovery confirms that the building blocks of genetic material were present in primitive carbonaceous asteroids during the early Solar System. While previous meteorite finds on Earth faced potential contamination risks, uncompromised samples from Ryugu and NASA's asteroid Bennu reinforce the hypothesis that space-borne chemistry helped deliver the prebiotic ingredients necessary for life on Earth.</p>
-<p>Nov 3 · <a href="https://www.sciencedaily.com/releases/2026/11/261102075903.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41550-026-02791-z">nature.com</a></p>
 <br clear="all" />
 
 ---

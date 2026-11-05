@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Sunil Mittal Positions OneWeb as Independent Alternative to US and China</h2>
+<a name="story-26522"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.telegraphindia.com%2Ftelegraph%2F2021%2FSep%2F1631708507_sunil-mittal-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sunil Mittal, founder of India's Airtel, asserts that OneWeb can establish a global satellite-internet network independent of the United States and China. The project is intended to provide a strategic alternative for nations seeking to avoid reliance on US or Chinese telecommunications infrastructure.</p><p>OneWeb is backed by Airtel and operates as a subsidiary of Eutelsat, positioning it to compete with Elon Musk's Starlink in the low Earth orbit (LEO) market. This initiative aligns with a broader global trend toward satellite sovereignty and independent connectivity solutions.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>OpenSSH on musl-based Linux Distributions Vulnerable to Password Bypass</h2>
 <a name="story-26524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenSSH installations running on musl libc—including Alpine, OpenWrt, and Buildroot—are vulnerable to a password bypass affecting accounts with no password (marked with '*' in /etc/shadow). When a password longer than 256 characters is provided, musl's crypt() function returns '*' due to a length limit in its SHA512 implementation, which OpenSSH incorrectly validates as a successful match.</p><p>The vulnerability specifically affects systems using musl that do not utilize PAM and have password authentication enabled. To mitigate this risk, users are advised to upgrade to OpenSSH 10.6p2 or disable password authentication in their SSH configuration.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26259"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.nist.gov%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F960_x_960_limit%2Fpublic%2Fimages%2F2026%2F04%2F29%2Fshutterstock_2477030163.jpg.webp%3Fitok%3DifYDOnjW&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The National Institute of Standards and Technology has published a new cybersecurity guide tailored specifically for solopreneurs and non-employer businesses. Titled Small Business Cybersecurity: Non-Employer Firms (NIST Cybersecurity White Paper 50), the lay-language resource is designed to help solo business owners with little to no technical background establish foundational cybersecurity practices and protect their digital systems from malicious attacks.</p><p>The publication supersedes NIST's earlier, broader guidance from 2016 and adapts key principles from the NIST Cybersecurity Framework 2.0 into actionable, step-by-step measures requiring minimal financial investment. It includes practical tools such as asset inventory worksheets and scenario-based use cases for various independent professions, helping solo business owners progressively build structured security strategies as their operations grow.</p>
 <p>Nov 3 · <a href="https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you">nist.gov</a> | <a href="https://csrc.nist.gov/pubs/cswp/50/small-business-cybersecurity-non-employer-firms/final">csrc.nist.gov</a> | <a href="https://news.ycombinator.com/item?id=50340619">hacker news</a></p>
-<br clear="all" />
-
-<h2>Mercado Bitcoin Hit by $46 Million Security Breach</h2>
-<a name="story-26235"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptotimes.io%2Fwp-content%2Fuploads%2F2026%2F11%2FMercado-Bitcoin-Hack-9.1M-in-Crypto-Frozen-as-Arkham-Tracks-46M.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Brazil's largest cryptocurrency exchange, Mercado Bitcoin, confirmed a security incident on November 2, 2026, involving approximately $46.3 million in assets. The company has temporarily suspended deposits and withdrawals to facilitate investigations, asset tracking, and coordination with authorities.</p><p>The exchange stated the incident did not affect customers or result in a data breach. Tether has frozen more than $4.5 million in USDT linked to the breach, while blockchain analysts report the attacker is sweeping funds from older deposit addresses and selling various altcoins.</p>
-<p>Nov 3 · <a href="https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333">theblock.co</a> | <a href="https://x.com/MercadoBitcoin/status/2117239507263132056">x.com</a></p>
 <br clear="all" />
 
 ---

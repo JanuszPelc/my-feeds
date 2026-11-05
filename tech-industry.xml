@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T12:34:00+00:00</updated>
+  <updated>2026-11-05T12:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>OpenAI Pledges New Policy Framework for Data Center Development</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry::v240</id>
+    <published>2026-11-05T12:43:00+00:00</published>
+    <updated>2026-11-05T12:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fubos.tech%2Fwp-content%2Fuploads%2F2026%2F02%2Fubos-ai-image-1757.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry">bloomberg.com</a> | <a href="https://www.politico.com/news/2026/11/05/openai-new-policy-framework-data-centers-01150714">politico.com</a></small></p><hr/><p>OpenAI announced a new policy framework governing its data center development efforts, committing to avoid nondisclosure agreements during negotiations and ensure local residents do not shoulder electricity costs. The measures also include increased community input, published construction plans, and initiatives to reduce power usage on the grid.</p><p>The framework follows growing public resistance and political scrutiny regarding the heavy energy demands and infrastructure impact of artificial intelligence projects. By promising greater transparency and ratepayer protection, the company aims to address local concerns surrounding large-scale technological expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fubos.tech%2Fwp-content%2Fuploads%2F2026%2F02%2Fubos-ai-image-1757.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 18:04 UTC | #26521</small>]]></content>
+  </entry>
   <entry>
     <title>Agility Robotics Becomes First Publicly Traded Humanoid Robot Company via SPAC Merger</title>
     <link href="https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/" rel="alternate" />

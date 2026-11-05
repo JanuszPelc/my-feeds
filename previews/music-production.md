@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Meat Beats Releases Sublime Free Bass Synthesizer</h2>
+<a name="story-26531"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F54d696e5e4b05ca7b54cff5c%2F122968ea-4a3b-48bf-a3e4-31e7148a4c5f%2FSubBoomBass%2B2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meat Beats has released Sublime, a free monophonic bass synthesizer for macOS and Windows. The plugin features 125 presets organized into five banks, targeting electronic genres such as house and garage. Sound manipulation options include harmonics, distortion, pitch sweeps, a tempo-synced LFO, and built-in effects such as tape hiss and a sidechain-style "pump" effect.</p><p>Available in VST3 and AU formats, the plugin supports Intel and Apple Silicon Macs. Users can save custom presets and assign knobs to MIDI controllers. The download is hosted on Gumroad.</p>
+<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/meat-beats-sublime/">bedroomproducersblog.com</a> | <a href="https://meatbeats.com/p/sublime">meatbeats.com</a></p>
+<br clear="all" />
+
 <h2>Wavea Updates Flite to v2.2</h2>
 <a name="story-26532"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fflite.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Wavea has released Flite v2.2, introducing full pack building capabilities that allow users to export presets, samples, and artwork as single files. The update also includes a new UI Editor and new live performance controls, such as a Triangle, XY Pad, and Joystick.</p><p>Additional features include new waveforms and filters like Sharkfin, FoldTri, Notch, Morph, Phase, and Peak. The sampler has been upgraded with multi-zone editing, round robins, and improved import support for SFZ and Decent Sampler formats.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26445"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2Fr8lA-oPZomLbqo6uIxzOGA%2F6004c934-2054-4700-9077-ce92c41f4300%2FbackgroundImages&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cinesamples has released Musio Studio, a free desktop application for writing and arranging music built specifically around its virtual instrument libraries and select partners. The software provides a dedicated environment supporting up to 512 audio and MIDI tracks, featuring an integrated piano roll optimized for orchestral articulations, an orchestral-grouped mixer, and scoring-to-video capabilities.</p><p>While the base application and a curated selection of free virtual instrument libraries are available at no cost, accessing the complete collection of over 3,600 instruments requires a paid monthly or annual subscription. The application also includes beta speech-recognition commands for hands-free navigation and automatic instrument assignment when importing external MIDI files, positioning it as a specialized sketching tool for media composers.</p>
 <p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/musio-music-writing-app/">bedroomproducersblog.com</a> | <a href="https://musio.com/">musio.com</a></p>
-<br clear="all" />
-
-<h2>Orbit Sample-Search App Released for macOS</h2>
-<a name="story-26446"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZatHLLgOsp0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Orbit is a standalone sample-search and session-recall application for macOS that allows users to find audio files by entering text descriptions rather than relying on filenames. The software indexes local and disconnected external drives, enabling searches filtered by tempo, key, and sample type with local processing to ensure privacy.</p><p>The application offers a free Lite tier with unlimited indexing and search capabilities, alongside a €99 Pro tier that adds voice search, reference-track matching, session recall, and a VST3 and AU sampler plugin for Apple Silicon Macs.</p>
-<p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/orbit-sample-search/">bedroomproducersblog.com</a> | <a href="https://www.weareorb.it/">weareorb.it</a></p>
 <br clear="all" />
 
 ---
