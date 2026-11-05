@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Acquires AI Coding Startup Conductor</h2>
+<a name="story-26454"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21xumY%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb45e5d-d4fd-4f87-b6cc-8e49d07b7830_1678x936.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta has acquired Conductor, a startup that provides an AI orchestration platform for managing multiple coding agents simultaneously. Founded in 2024 by Charlie Holtz and Jackson de Campos, Conductor's technology is expected to assist Meta in building next-generation AI coding products.</p><p>The acquisition occurs as AI companies increasingly compete to own developer tools, coinciding with OpenAI's reported plans to acquire Pierre Computer. Experts note that excellence in coding and mathematics is vital for the ongoing advancement of AI model capabilities.</p>
+<p>Nov 4 · <a href="https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor">axios.com</a> | <a href="https://www.conductor.build/announcement">conductor.build</a> | <a href="https://news.ycombinator.com/item?id=50369503">hacker news</a></p>
+<br clear="all" />
+
 <h2>US Tech Stocks Rise as Investors Bet Democrats Will Slow AI Spending</h2>
 <a name="story-26449"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2025%2F11%2F14%2Fsaupload_aRXsC7pReVYa4b2b_49405880-17630441936495023.png%3Fio%3Dw640&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Shares of major US technology companies rose on Wednesday following a Democratic sweep in the midterm elections. Investors are betting that a Democratic-controlled Congress may implement measures to slow the massive capital expenditure currently being directed toward artificial intelligence.</p><p>The rally reflects market sentiment regarding the intense cash flow requirements of AI development. Investors anticipate that potential regulatory curbs on data-center construction or tighter oversight could reduce the aggressive spending race among tech giants, potentially easing the financial pressures associated with high AI investments.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26369"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheutterperspective.com%2Fwp-content%2Fuploads%2F2025%2F10%2F1761845534_1200x-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta Platforms has raised $15 billion through a multi-part US dollar bond sale, drawing heavy investor demand with orders reaching as much as $58 billion. The issuance represents the largest portion of a broader cross-border debt package exceeding $20 billion.</p><p>The capital raise supports the company's accelerating investments in artificial intelligence infrastructure, data centers, and computing capacity. The massive debt offering arrives as major technology firms increasingly turn to bond markets to finance expanding AI operations.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments">bloomberg.com</a> | <a href="https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Cat Wu, Claude Code Product Lead, Exits Anthropic</h2>
-<a name="story-26364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cat Wu, a lead product manager at Anthropic and a key leader of the Claude Code tool, has left the AI startup. Wu announced her departure on Tuesday, following her role in scaling the coding assistant that significantly increased the company's revenue and market competitiveness.</p><p>Her exit occurs as Anthropic prepares for an initial public offering (IPO) expected later this month. The departure follows the recent exit of Claude Code contributor Thariq Shihipar and involves the leadership of both the Claude Code and Cowork product lines.</p>
-<p>Nov 4 · <a href="https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11">businessinsider.com</a></p>
 <br clear="all" />
 
 ---
