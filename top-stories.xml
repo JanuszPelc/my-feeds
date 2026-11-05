@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-04T23:29:00+00:00</updated>
+  <updated>2026-11-05T00:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Sequoia Capital Closes London Office and Restructures Investment Team</title>
+    <link href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat" rel="alternate" />
+    <id>https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat::v240</id>
+    <published>2026-11-05T00:41:00+00:00</published>
+    <updated>2026-11-05T00:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Finventure.com.ua%2Fupload%2Fpic2015%2FSequoia-Capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat">pathfounders.com</a> | <a href="https://x.com/sequoia/status/2117961312143855764">x.com</a></small></p><hr/><p>Venture capital firm Sequoia Capital is closing its London office, concluding its six-year physical presence in Europe. The Silicon Valley-based firm stated that it no longer requires a local office to support European startups and will instead manage investments from its Bay Area headquarters.</p><p>The closure is part of a broader corporate restructuring that includes raising approximately $10 billion in new funds, sunsetting its Arc accelerator and Scouts programs, and merging its early-stage and growth operations. While some London-based partners are relocating to California, others are choosing to remain in Europe to back regional founders independently.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Finventure.com.ua%2Fupload%2Fpic2015%2FSequoia-Capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 21:03 UTC | #26414 | d,hr</small>]]></content>
+  </entry>
   <entry>
     <title>Democratic Gubernatorial Wins Threaten US AI Data Center Expansion with Increased Scrutiny</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout" rel="alternate" />
