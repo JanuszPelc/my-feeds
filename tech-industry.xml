@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T12:43:00+00:00</updated>
+  <updated>2026-11-05T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Tech Executives and OpenAI Express Concern Over Anti-Data Center Election Results</title>
+    <link href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-05T14:49:00+00:00</published>
+    <updated>2026-11-05T14:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA20TTXb.img%3Fw%3D1280%26h%3D716%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Tech executives gathered at an election-night event hosted by Nvidia CEO Jensen Huang expressed significant concern over local election results and ballot measures targeting data centers. The outcomes threaten to rein in the rapid expansion of artificial intelligence infrastructure across the United States.</p><p>Concurrently, senior leaders at OpenAI discussed whether the political resistance requires resetting expectations for the company's data center capacity and infrastructure plans by 2027. The growing local pushback highlights mounting community friction regarding the immense energy and land demands of upcoming AI projects.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA20TTXb.img%3Fw%3D1280%26h%3D716%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 18:36 UTC | #26516</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Pledges New Policy Framework for Data Center Development</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-05T13:01:00+00:00</updated>
+  <updated>2026-11-05T14:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Homo erectus Tooth Proteins Suggest Interbreeding with Denisovans</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261102202836.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261102202836.htm::v240</id>
+    <published>2026-11-05T14:50:00+00:00</published>
+    <updated>2026-11-05T14:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgreekreporter.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fsamples-of-the-middle-pleistocene-h-erectus-teeth-credit-qiaomei-fu-cc-by-nc-nd-40.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261102202836.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41586-026-10478-8">nature.com</a></small></p><hr/><p>Researchers extracted ancient proteins from 400,000-year-old Homo erectus tooth enamel found at the Zhoukoudian, Hexian, and Sunjiadong sites in China. The study identified a unique amino acid variant shared by these specimens and Denisovans, suggesting that H. erectus interbred with Denisovans in East Asia approximately 400,000 years ago.</p><p>This proteomic approach provides a method for extracting biological data from fossils too old for DNA analysis. The findings suggest that this genetic material was transferred from H. erectus to Denisovans and subsequently to modern human populations in the Philippines and India, supporting an evolutionary model defined by frequent interbreeding between archaic lineages.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgreekreporter.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fsamples-of-the-middle-pleistocene-h-erectus-teeth-credit-qiaomei-fu-cc-by-nc-nd-40.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 18:38 UTC | #26541</small>]]></content>
+  </entry>
   <entry>
     <title>Discovered Materials Announces $1M Prize Pool for Five Materials Science Challenges</title>
     <link href="https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/" rel="alternate" />

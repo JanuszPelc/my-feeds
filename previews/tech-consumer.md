@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Nintendo Quarterly Profit Declines Amid Rising Switch 2 Component Costs</h2>
+<a name="story-26519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FFDf4ZRTzzlizntGfGaRH1A--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--%2Fhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F351f9df0-0fe4-11f0-b7ed-d27e3588aec9&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nintendo reported a 16% year-over-year decrease in second-quarter net profit to $468 million. The decline was driven by rising Switch 2 component costs and a lack of major new game releases.</p><p>Switch 2 sales for the first half of fiscal year 2027 fell 37% year-over-year to 6.49 million units.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts">bloomberg.com</a> | <a href="https://www.nintendo.co.jp/ir/en/library/earnings/index.html">nintendo.co.jp</a></p>
+<br clear="all" />
+
 <h2>LEGO and Daft Punk Announce Partnership and Pyramid Stage Set</h2>
 <a name="story-26538"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FLEGO-x-Daft-Punk-Pyramid-Set.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The LEGO Group has announced a partnership with Daft Punk, featuring a set modeled after the duo's iconic pyramid stage from the 2007 "Alive" tour. The design is based on a 2020 LEGO Ideas submission created by a father and son from Luxembourg.</p><p>The collaboration will encompass various products, content, and brand experiences, with the set being featured in LEGO's 2026 holiday campaign. Further developments from the partnership are expected to arrive in 2027.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26256"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FApple-Watch-Series-12-Sound-Recognition-260909.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has begun beta testing its new Audio Intelligence features for the Apple Watch, rolling them out to developers via the iOS 27.3 update. Initially announced for the Apple Watch Series 12 and Ultra 4, the suite includes four opt-in tools: sound recognition, song identification via Shazam, live conversation rewinds, and high-level conversation recaps.</p><p>The conversational features, Live Rewind and Siri Recaps, process audio using a combination of on-device S11 chip hardware, a secure enclave on the paired iPhone, and Apple’s Private Cloud Compute without saving raw audio or generating word-for-word transcripts. Live Rewind allows users to view a 15-second text snippet of recent speech by double-pressing the digital crown, while Siri Recaps summarizes meetings and discussions into concise bullet points that automatically delete after seven days if not saved.</p>
 <p>Nov 3 · <a href="https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Apple Reports Inventory Surge Amid Rising Memory Chip Costs</h2>
-<a name="story-26243"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.insight.com%2Fcontent%2Fdam%2Finsight-web%2Fen_US%2Fstore%2Fapple%2Fapple-multiproduct-macbookpro-ipadpro-airpodspro-iphone13promax-watch.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple reported that its inventory grew 154.3% year-over-year to $14.54 billion in the fourth quarter of fiscal 2026, driven largely by efforts to stockpile computer memory. During the earnings call, CEO John Ternus and COO Sabih Khan attributed downward pressure on the company's December quarter gross margin forecasts to unprecedented memory chip costs that are expected to continue rising.</p><p>The rising component costs and supply constraints also impacted product availability, contributing to weaker-than-expected iPad sales of $6.2 billion for the quarter. To secure supply, Apple's manufacturing purchase obligations increased by $33 billion from June to the September quarter, while executives declined to rule out further device price increases.</p>
-<p>Nov 3 · <a href="https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/">techcrunch.com</a> | <a href="https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50344670">hacker news</a></p>
 <br clear="all" />
 
 ---

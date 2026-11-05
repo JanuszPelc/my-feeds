@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Tech Executives and OpenAI Express Concern Over Anti-Data Center Election Results</h2>
+<a name="story-26516"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA20TTXb.img%3Fw%3D1280%26h%3D716%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tech executives gathered at an election-night event hosted by Nvidia CEO Jensen Huang expressed significant concern over local election results and ballot measures targeting data centers. The outcomes threaten to rein in the rapid expansion of artificial intelligence infrastructure across the United States.</p><p>Concurrently, senior leaders at OpenAI discussed whether the political resistance requires resetting expectations for the company's data center capacity and infrastructure plans by 2027. The growing local pushback highlights mounting community friction regarding the immense energy and land demands of upcoming AI projects.</p>
+<p>Nov 5 · <a href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>OpenAI Pledges New Policy Framework for Data Center Development</h2>
 <a name="story-26521"><img src="https://wsrv.nl/?url=https%3A%2F%2Fubos.tech%2Fwp-content%2Fuploads%2F2026%2F02%2Fubos-ai-image-1757.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI announced a new policy framework governing its data center development efforts, committing to avoid nondisclosure agreements during negotiations and ensure local residents do not shoulder electricity costs. The measures also include increased community input, published construction plans, and initiatives to reduce power usage on the grid.</p><p>The framework follows growing public resistance and political scrutiny regarding the heavy energy demands and infrastructure impact of artificial intelligence projects. By promising greater transparency and ratepayer protection, the company aims to address local concerns surrounding large-scale technological expansion.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-11-04%2Fmosph2ne%2Fmeta-muse-ad-041126-01.jpg%3Fw%3D1200%26ar%3D40%3A21%26auto%3Dformat%2Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dhttps%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-08-19%2Fv2z58b9u%2Fbdnews24_default_social_strip.jpg%26overlay_position%3Dbottom%26overlay_width%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta Platforms raised €9 billion in its first euro-denominated bond sale after attracting a record €53 billion of investor orders. The company paid about 1.4 times the risk premium Alphabet offered on comparable bonds earlier in the week.</p><p>The six-part offering followed Meta’s $15 billion US bond sale and included maturities ranging from just over four years to more than 38 years. The debt is intended to help finance the company’s large-scale artificial-intelligence infrastructure investments.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Apple Reduces Daily AI Spending Caps for Engineers</h2>
-<a name="story-26462"><img src="https://wsrv.nl/?url=https%3A%2F%2Facaderesearch.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fapple-capex-gap.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple is decreasing employee budgets for artificial intelligence usage as part of a cost-cutting initiative. The company has already reduced the daily spending cap for some engineers from $300 to $200 and plans to implement further reductions to as low as $100.</p><p>These restrictions come as Apple attempts to integrate artificial intelligence more centrally into its business operations. The budget cuts have reportedly contributed to internal staff concerns regarding potential layoffs.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgyMTg3MSwiZXhwIjoxNzk0NDI2NjcxLCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.efg5gZUg_bpWGkDdX9in4eLTEutSs8WX9rD17IHSi_o">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50371169">hacker news</a></p>
 <br clear="all" />
 
 ---

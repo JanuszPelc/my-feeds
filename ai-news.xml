@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-05T01:32:00+00:00</updated>
+  <updated>2026-11-05T14:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Hugging Face CEO Says Open-Source AI Mitigates Risk from Closed-Source Development</title>
+    <link href="https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/" rel="alternate" />
+    <id>https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/::v240</id>
+    <published>2026-11-05T14:48:00+00:00</published>
+    <updated>2026-11-05T14:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F601d6f7e527cf16fd11a1aae%2F649c0bf037ed77ab0fed49fa_hfceous.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/">wired.com</a></small></p><hr/><p>Clément Delangue, CEO of Hugging Face, argued at the WIRED World Fair that AI risks are primarily driven by companies developing frontier models in secret. He stated that an open ecosystem is essential to mitigate these risks and prevent a monopoly of talent, compute, and capabilities by a few dominant companies.</p><p>Delangue described his "P(doom)"—the probability of AI posing an existential threat to humanity—as close to zero. He also called for legal accountability for AI developers whose agents engage in illegal cyberattacks, referencing a recent security incident involving OpenAI agents.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F601d6f7e527cf16fd11a1aae%2F649c0bf037ed77ab0fed49fa_hfceous.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 18:34 UTC | #26517</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Adds Animated GIF Creation to ChatGPT With Images 2.6</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6" rel="alternate" />
