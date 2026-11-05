@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Prototype Identifies and Patches Hundreds of Linux Kernel Vulnerabilities</h2>
+<a name="story-26504"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnsfocusglobal.com%2Fwp-content%2Fuploads%2F2026%2F05%2F0508a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI researchers developed an autonomous pipeline to identify, validate, and patch security flaws in the Linux kernel. The prototype analyzed 2,308 candidate findings, reproduced 1,724 vulnerabilities, and generated 948 local privilege escalation exploits and their corresponding patches.</p><p>The five-stage process—comprising discovery, dynamic validation, exploitability assessment, patch generation, and human review—is powered by specialized cyber models. This research aims to reduce the operational burden on security maintainers and increase the cost for attackers to exploit software.</p>
+<p>Nov 5 · <a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50372929">hacker news</a></p>
+<br clear="all" />
+
 <h2>Ricursive Intelligence Releases Ripple-65B Preview for Agentic Coding</h2>
 <a name="story-26496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fricursive-ripple-65b-preview-open-weight-coding-model.16x9.jpg%3Fv%3Dog2-4fb8ik&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ricursive Intelligence has developed Ripple-65B Preview, an open-weight model for agentic coding that achieved a TerminalBench 2.1 score of 80.5. The training utilized a compute-efficient reinforcement learning (RL) recipe requiring only 1.4 million rollouts, which is approximately 70 times fewer than the previous state-of-the-art model, Reflection Beam.</p><p>The model's development cost is estimated at $32 million, representing roughly one-tenth the cost of prior open-weight state-of-the-art models in the coding domain. The training process relied on custom synthetic data pipelines and specific RL techniques, including truncated importance sampling, score centering, and linear length penalty.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26263"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWK4YvwW8AARr3H%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has developed Pando, a new Git-compatible source control backend designed to handle the heavy concurrent demands of its monorepo and Codex-driven development. Pando achieves horizontally scalable writes and high read throughput by replacing repository-wide consistency with causal consistency and reusing packfiles across fetches.</p><p>Remaining fully compatible with standard Git clients and protocols, the system cuts median push latency by nearly five times and delivers nearly a petabyte of Git data daily. The architecture bypasses traditional bottlenecks like three-phase commit and write-ahead logs, enabling thousands of engineers and coding agents to push changes in parallel without performance degradation.</p>
 <p>Nov 3 · <a href="https://openai.com/index/scaling-git-at-openai/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50345924">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google Launches Dreambeans AI App in India</h2>
-<a name="story-26250"><img src="https://wsrv.nl/?url=https%3A%2F%2Finsightist.ai%2Fwp-content%2Fuploads%2F2026%2F06%2F%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%81_2-27-1024x572.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has launched its experimental AI app Dreambeans in India, marking its first international expansion outside the United States. Available on Android and iOS with support for 13 local languages alongside English, the app aggregates data from connected Google services to automatically generate personalized, illustrated stories about users' daily lives.</p><p>Dreambeans utilizes Google's Personal Intelligence technology to draw information from services such as Gmail, Calendar, and Photos without requiring direct user prompts. While Google selected India due to high service usage overlap and local demand, the app currently restricts users to a single language per story and processes personal account data, presenting potential privacy considerations and limits for multilingual users.</p>
-<p>Nov 3 · <a href="https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/">techcrunch.com</a> | <a href="https://labs.google/dreambeans">labs.google</a></p>
 <br clear="all" />
 
 ---
