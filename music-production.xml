@@ -3,9 +3,26 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-05T15:08:00+00:00</updated>
+  <updated>2026-11-05T15:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>PSPaudioware Updates PSP ClassicQ to v1.9 and Releases PSP ClassicQlite</title>
+    <link href="https://www.kvraudio.com/news/pspaudioware-updates-psp-classicq-to-v1-9-and-releases-psp-classicqlite-69641?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69641" rel="alternate" />
+    <id>https://www.kvraudio.com/news/pspaudioware-updates-psp-classicq-to-v1-9-and-releases-psp-classicqlite-69641?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69641::v240</id>
+    <published>2026-11-05T15:18:00+00:00</published>
+    <updated>2026-11-05T15:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpsp_classicqpsp_classicqex.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/pspaudioware-updates-psp-classicq-to-v1-9-and-releases-psp-classicqlite-69641?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69641">kvraudio.com</a> | <a href="https://www.pspaudioware.com/products/psp-classicq">pspaudioware.com</a></small></p><hr/><p>PSPaudioware has released version 1.9.0 of its ClassicQ and ClassicQex equalizer plug-ins alongside a new free plugin named PSP ClassicQlite. The v1.9.0 update introduces native Apple Silicon support, AAX and VST3 compatibility, PACE iLok licensing, an updated preset system, and high-resolution graphics.</p><p>Inspired by classic British console equalizers, PSP ClassicQlite features low- and high-frequency shelving filters with switchable Q, flexible midrange control, an adjustable high-pass filter, and the company's second-generation saturation algorithm. Both updates aim to integrate vintage analog characteristics into modern digital audio workstation environments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpsp_classicqpsp_classicqex.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 20:17 UTC | #26554</small>]]></content>
+  </entry>
+  <entry>
+    <title>Freqport Offers 50% Discount on FreqLift Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/05/freqlift-bpb/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/05/freqlift-bpb/::v240</id>
+    <published>2026-11-05T15:17:00+00:00</published>
+    <updated>2026-11-05T15:17:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/05/freqlift-bpb/">bedroomproducersblog.com</a> | <a href="https://www.freqport.com/product/freqlift_saturation_dynamics_plugin/">freqport.com</a></small></p><hr/><p>Using the code FL1BP50VIP, BPB readers can purchase the FreqLift saturation and dynamics plugin for €49.50 instead of €99 through November 15, 2026. The software is compatible with macOS and Windows in VST3, AAX, and AU formats.</p><p>The plugin combines upward compression, tube saturation, and clipping, with settings for both single-band and two-band processing. While it functions as a standard software plugin, it can integrate with FreqTube FT1 hardware to utilize real tubes for saturation.</p><hr/><small>5 Nov 2026, 20:17 UTC | #26594</small>]]></content>
+  </entry>
   <entry>
     <title>Sinevibes Releases Malfunction v3.0 Circuit-Bent Filter Plugin</title>
     <link href="https://www.kvraudio.com/news/sinevibes-releases-malfunction-v3-0-69639?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69639" rel="alternate" />
@@ -527,14 +544,5 @@
     <updated>2026-11-02T04:59:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsunfish_screenshot.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/remaincalm-releases-sunfish-wavetable-enigma-instrument-plugin-aax-au-and-vst3-69551?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69551">kvraudio.com</a> | <a href="https://remaincalm.audio/plugins/sunfish/">remaincalm.audio</a></small></p><hr/><p>Software developer remaincalm has released Sunfish, a hybrid wavetable and virtual analog instrument plugin for Windows and macOS. Inspired by 1980s synthesizers such as the Korg Trident and ARP Quadra, the software incorporates modeled circuits from vintage home organs, string synths, and chiptune equipment.</p><p>In development since 2018, Sunfish features "The Morpher," a control mechanism designed to let users easily blend between different timbres. Available in VST3, AU, and AAX formats, the plugin is priced at $49, though the developer has introduced a temporary promotional discount across its entire product lineup alongside updates that add freely scalable user interfaces.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsunfish_screenshot.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 13:45 UTC | #26156</small>]]></content>
-  </entry>
-  <entry>
-    <title>FabFilter Updates Twin 3 to Version 3.10 with MPE Support</title>
-    <link href="https://www.kvraudio.com/news/fabfilter-updates-twin-3-to-v3-10---mpe-support-and-over-200-new-presets-69548?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69548" rel="alternate" />
-    <id>https://www.kvraudio.com/news/fabfilter-updates-twin-3-to-v3-10---mpe-support-and-over-200-new-presets-69548?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69548::v240</id>
-    <published>2026-10-31T20:02:00+00:00</published>
-    <updated>2026-10-31T20:02:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin-3-screenshot.1793477184.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/fabfilter-updates-twin-3-to-v3-10---mpe-support-and-over-200-new-presets-69548?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69548">kvraudio.com</a> | <a href="https://www.fabfilter.com/news/1793260800/twin-310-update-with-mpe-support">fabfilter.com</a></small></p><hr/><p>FabFilter has released Twin 3.10, a software synthesizer update introducing full MIDI Polyphonic Expression (MPE) and Note Expression support. The update enables per-note pitch bend and new Timbre and Lift input options for MIDI sources.</p><p>In addition to polyphonic expression features, version 3.10 includes over 200 new factory presets designed by bManic, Bigtone, and Christian Laffitte, with the existing preset library updated for out-of-the-box MPE compatibility. The release also resolves an arpeggiator bug that caused timing drift and repeated note triggering during heavy MIDI messaging. The update is free and backwards compatible for existing Twin 3 customers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin-3-screenshot.1793477184.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 01:08 UTC | #26071</small>]]></content>
   </entry>
 </feed>

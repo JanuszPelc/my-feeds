@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Apple Enables Developers to Offer Retention Messages and Discounts During Subscription Cancellation</h2>
+<a name="story-26544"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.revenuecat.com%2Fdocs%2Fassets%2Fimages%2Fretention-messaging-api-promotional-2-7bda5a71e94b605ce7df2b2c89068df2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple's new "Retention Messaging" feature allows developers to present personalized messages and special offers to users as they attempt to cancel an auto-renewable subscription. Configured via App Store Connect, developers can provide up to 10 unique messages per app, which may include text, images, or specific discounts intended to encourage users to maintain their subscriptions.</p><p>Unlike Apple's 2024 "Win-Back Offers," which target former subscribers after their service has ended, this tool reaches users during the active cancellation flow. Developers must request access to the Retention Messaging API to implement these features.</p>
+<p>Nov 5 · <a href="https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/">9to5mac.com</a> | <a href="https://developer.apple.com/news/?id=fk9ps3gv">developer.apple.com</a></p>
+<br clear="all" />
+
 <h2>Micron Pauses Work on $4.5 Billion Taiwan Plant After Labor Dispute</h2>
 <a name="story-26548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fm5YG7nxQFmanLkbviJBms-1920-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Micron Technology has suspended construction on its Fab 11E memory chip facility in Taoyuan, Taiwan, amid a protracted labor dispute. The project, budgeted between $3 billion and $4.5 billion, was previously scheduled to begin production in 2028.</p><p>The suspension follows mounting uncertainties surrounding union negotiations, including disagreements over profit-sharing terms. While the U.S. chipmaker has largely halted site work, limited activity continues to secure the facility, and the company has notified local officials and suppliers of the pause.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26483"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aea5c4012aca86a55f548c7%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cat Wu, the former head of product for Claude Code at Anthropic, has left the company to join OpenAI as product lead for core products. She announced her departure and new role on social media, highlighting OpenAI's scale and mission.</p><p>The transition occurs shortly before Anthropic's planned initial public offering. At OpenAI, Wu will manage core products, collaborating with leaders on enterprise and consumer initiatives while reporting to Tibo Sottiaux.</p>
 <p>Nov 5 · <a href="https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11">businessinsider.com</a> | <a href="https://x.com/_catwu/status/2118137612577968402">x.com</a> | <a href="https://news.ycombinator.com/item?id=50373682">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Reaches First Content Licensing Deal with Associated Press for Election Coverage</h2>
-<p>Anthropic entered into a content and data licensing agreement with the Associated Press ahead of the midterm elections, marking the artificial intelligence firm's first publisher partnership. Through the arrangement, users querying Claude received up-to-the-minute election results and polling data provided by and attributed to the AP.</p><p>The partnership represents a strategic shift for Anthropic, which previously relied on public web scraping under a fair-use stance, unlike competitors such as OpenAI that have pursued numerous publisher deals. Financial terms and the duration of the agreement were not disclosed, and both organizations declined to comment on the record.</p>
-<p>Nov 5 · <a href="https://www.adweek.com/media/anthropic-licensing-deal-ap-election/">adweek.com</a></p>
 <br clear="all" />
 
 ---

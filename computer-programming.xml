@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Terence Eden Analyzes Lorem Ipsum and Test Pages on UK Government Websites</title>
+    <link href="https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/" rel="alternate" />
+    <id>https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/::v240</id>
+    <published>2026-11-05T15:20:00+00:00</published>
+    <updated>2026-11-05T15:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fshkspr.mobi%2Fblog%2Fwp-content%2Fuploads%2F2026%2F11%2Florem-ipsum-dolor-sit-amet-5-%25E2%2580%2593-Foreign-Commonwealth-Development-Office-Blogs.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/">shkspr.mobi</a> | <a href="https://lobste.rs/s/5xljpx/lorem_ipsum_dot_gov_dot_uk">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50371058">hacker news</a></small></p><hr/><p>Terence Eden examines how test pages, dummy data, and placeholder text frequently end up published on live UK government websites. By searching for common placeholder terms like "lorem ipsum," users can uncover forgotten pre-production environments, style guides, and outdated plugins left behind during development.</p><p>These accidental disclosures offer a glimpse into the development processes of various public sector bodies, including local councils and government departments. While some test entries are eventually locked down or removed, others persist indefinitely as permanent fixtures of live digital infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fshkspr.mobi%2Fblog%2Fwp-content%2Fuploads%2F2026%2F11%2Florem-ipsum-dolor-sit-amet-5-%25E2%2580%2593-Foreign-Commonwealth-Development-Office-Blogs.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 20:24 UTC | #26605</small>]]></content>
+  </entry>
+  <entry>
+    <title>Gleam Language Updates: Compiler Rewrite and Security Enhancements</title>
+    <link href="https://www.youtube.com/watch?v=Jm2HZhwreNs" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=Jm2HZhwreNs::v240</id>
+    <published>2026-11-05T15:19:00+00:00</published>
+    <updated>2026-11-05T15:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgleam.run%2Fimages%2Fnews%2Fgleam-v1.1-released%2Fimports.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.youtube.com/watch?v=Jm2HZhwreNs">youtube.com</a> | <a href="https://gleam.run/news/">gleam.run</a> | <a href="https://lobste.rs/s/afjqpg/gleam_programming_language_update">lobsters</a></small></p><hr/><p>Gleam's compiler has been updated to target Erlang abstract forms instead of source code, a change implemented in version 1.19. This transition increases compilation speed and improves debugging accuracy through enhanced metadata and source maps for both Erlang and JavaScript environments.</p><p>Security initiatives have included participating in the Microsoft Secure Open Source Fund and adopting Hex's new authentication system. Future technical goals involve developing a capability-based effect system to mitigate vulnerabilities like path traversal and adding further automated actions to the Gleam language server.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgleam.run%2Fimages%2Fnews%2Fgleam-v1.1-released%2Fimports.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 20:22 UTC | #26604</small>]]></content>
+  </entry>
+  <entry>
     <title>Servo Releases Version 0.7.0 with New Web Platform Features</title>
     <link href="https://servo.org/blog/2026/11/05/september-in-servo/" rel="alternate" />
     <id>https://servo.org/blog/2026/11/05/september-in-servo/::v240</id>

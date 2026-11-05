@@ -8,6 +8,17 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>PSPaudioware Updates PSP ClassicQ to v1.9 and Releases PSP ClassicQlite</h2>
+<a name="story-26554"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpsp_classicqpsp_classicqex.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>PSPaudioware has released version 1.9.0 of its ClassicQ and ClassicQex equalizer plug-ins alongside a new free plugin named PSP ClassicQlite. The v1.9.0 update introduces native Apple Silicon support, AAX and VST3 compatibility, PACE iLok licensing, an updated preset system, and high-resolution graphics.</p><p>Inspired by classic British console equalizers, PSP ClassicQlite features low- and high-frequency shelving filters with switchable Q, flexible midrange control, an adjustable high-pass filter, and the company's second-generation saturation algorithm. Both updates aim to integrate vintage analog characteristics into modern digital audio workstation environments.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/pspaudioware-updates-psp-classicq-to-v1-9-and-releases-psp-classicqlite-69641?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69641">kvraudio.com</a> | <a href="https://www.pspaudioware.com/products/psp-classicq">pspaudioware.com</a></p>
+<br clear="all" />
+
+<h2>Freqport Offers 50% Discount on FreqLift Plugin</h2>
+<p>Using the code FL1BP50VIP, BPB readers can purchase the FreqLift saturation and dynamics plugin for €49.50 instead of €99 through November 15, 2026. The software is compatible with macOS and Windows in VST3, AAX, and AU formats.</p><p>The plugin combines upward compression, tube saturation, and clipping, with settings for both single-band and two-band processing. While it functions as a standard software plugin, it can integrate with FreqTube FT1 hardware to utilize real tubes for saturation.</p>
+<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/freqlift-bpb/">bedroomproducersblog.com</a> | <a href="https://www.freqport.com/product/freqlift_saturation_dynamics_plugin/">freqport.com</a></p>
+<br clear="all" />
+
 <h2>Sinevibes Releases Malfunction v3.0 Circuit-Bent Filter Plugin</h2>
 <a name="story-26555"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsinevibesmalfunction-v3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sinevibes has released Malfunction version 3.0, a circuit-bent filter effect plugin for macOS, Windows, and Linux. The software uses an experimental algorithm that simulates tampered internal filter connections to generate distorted and glitchy textures.</p><p>The update includes a multi-mode state variable filter with five modes, two advanced LFOs with 15 waveforms, and 4x oversampling for aliasing suppression. Malfunction is available in VST3, AU, and AAX formats for $29.</p>
@@ -84,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26511"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-imano-mac-01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Imano is a synthesizer for Mac and iPad that utilizes Sample-Receiver synthesis. The engine employs a three-dimensional user interface where audio samples and "receivers" are positioned on a two-dimensional surface called "the Plane" to generate and warp sound.</p><p>The application supports custom audio files, built-in waveshapes, and eight LFOs for modulation. A free, feature-limited version is available, while the full version can be purchased for $29.00.</p>
 <p>Nov 5 · <a href="https://www.kvraudio.com/news/dstrtd-releases-imano-synth-for-mac-and-ipad-69609?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69609">kvraudio.com</a> | <a href="https://www.dstrtd.com/imano">dstrtd.com</a></p>
-<br clear="all" />
-
-<h2>Aurally Sound Releases Prism: Drums Audio-to-MIDI Plugin</h2>
-<a name="story-26510"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fprism_product_jpeg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Prism: Drums is a machine-learning plugin that converts acoustic drum recordings and loops into MIDI. It identifies nine drum components—including kick, snare, hi-hats, and various toms—to capture the timing and velocity of individual hits.</p><p>Available for Windows and macOS in VST3, AU, and AAX formats for a one-time fee of $79 USD, the tool includes a built-in MIDI editor and drum sampler. It supports ARA workflows in compatible hosts and can also function as a standard insert effect.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/aurally-sound-releases-prism-drums-audio-to-midi-plugin-aax-au-and-vst3-69617?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69617">kvraudio.com</a> | <a href="https://aurallysound.com/pages/prism-drums-audio-to-midi-for-drums">aurallysound.com</a></p>
-<br clear="all" />
-
-<h2>Universal Audio Releases Capitol Studios Room Modeling and Reverb Plug-in</h2>
-<a name="story-26482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuad_capitol_studios_gallery_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Universal Audio has released Capitol Studios, a native room modeling and reverb plug-in for macOS and Windows. The software emulates Capitol Studios A and B, including various microphones, consoles, outboard processors, and four underground echo chambers.</p><p>The plug-in features dynamic room modeling that allows users to move virtual microphones within the digital space to alter room response in real time. It includes microphone setups curated by Capitol engineer Steve Genewick and is priced at $249, with availability also included in the UAD Spark Studio subscription.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/universal-audio-releases-capitol-studios-room-modeling-and-reverb-plug-in-69628?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69628">kvraudio.com</a> | <a href="https://www.uaudio.com/products/capitol-studios">uaudio.com</a></p>
 <br clear="all" />
 
 ---

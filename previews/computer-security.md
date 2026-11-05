@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Soatok Examines History of Cryptography Conspiracy Theories and NSA Standards</h2>
 <a name="story-26450"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.quantamagazine.org%2Fwp-content%2Fuploads%2F2050%2F09%2FInterpolation-Applications_2880x1620_Lede-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cryptographer Soatok reviews the history of government-standardized cryptography and common conspiracy theories surrounding the National Security Agency and the National Institute of Standards and Technology. The post evaluates historical examples like DES, the Clipper Chip, and Dual_EC_DRBG to distinguish genuine security vulnerabilities from implausible paranoia.</p><p>The article highlights the tension between the NSA's dual missions in communications security and signals intelligence, discussing how historical compromises and backdoors were discovered or misunderstood by the broader cryptographic community.</p>
-<p>Nov 4 · <a href="https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/">soatok.blog</a> | <a href="https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is">lobsters</a></p>
+<p>Nov 4 · <a href="https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/">soatok.blog</a> | <a href="https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50380316">hacker news</a></p>
 <br clear="all" />
 
 <h2>Karthikey Hegde Details Discovery of ISP DNS Hijacking and Encrypted Solutions</h2>

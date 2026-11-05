@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Terence Eden Analyzes Lorem Ipsum and Test Pages on UK Government Websites</h2>
+<a name="story-26605"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshkspr.mobi%2Fblog%2Fwp-content%2Fuploads%2F2026%2F11%2Florem-ipsum-dolor-sit-amet-5-%25E2%2580%2593-Foreign-Commonwealth-Development-Office-Blogs.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Terence Eden examines how test pages, dummy data, and placeholder text frequently end up published on live UK government websites. By searching for common placeholder terms like "lorem ipsum," users can uncover forgotten pre-production environments, style guides, and outdated plugins left behind during development.</p><p>These accidental disclosures offer a glimpse into the development processes of various public sector bodies, including local councils and government departments. While some test entries are eventually locked down or removed, others persist indefinitely as permanent fixtures of live digital infrastructure.</p>
+<p>Nov 5 · <a href="https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/">shkspr.mobi</a> | <a href="https://lobste.rs/s/5xljpx/lorem_ipsum_dot_gov_dot_uk">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50371058">hacker news</a></p>
+<br clear="all" />
+
+<h2>Gleam Language Updates: Compiler Rewrite and Security Enhancements</h2>
+<a name="story-26604"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgleam.run%2Fimages%2Fnews%2Fgleam-v1.1-released%2Fimports.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Gleam's compiler has been updated to target Erlang abstract forms instead of source code, a change implemented in version 1.19. This transition increases compilation speed and improves debugging accuracy through enhanced metadata and source maps for both Erlang and JavaScript environments.</p><p>Security initiatives have included participating in the Microsoft Secure Open Source Fund and adopting Hex's new authentication system. Future technical goals involve developing a capability-based effect system to mitigate vulnerabilities like path traversal and adding further automated actions to the Gleam language server.</p>
+<p>Nov 5 · <a href="https://www.youtube.com/watch?v=Jm2HZhwreNs">youtube.com</a> | <a href="https://gleam.run/news/">gleam.run</a> | <a href="https://lobste.rs/s/afjqpg/gleam_programming_language_update">lobsters</a></p>
+<br clear="all" />
+
 <h2>Servo Releases Version 0.7.0 with New Web Platform Features</h2>
 <a name="story-26597"><img src="https://wsrv.nl/?url=https%3A%2F%2Fservo.org%2Fimg%2Fblog%2F2026-10-gary-banner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Servo version 0.7.0 includes 527 commits from September, introducing web platform features such as the `:checked` pseudoclass, the `user-select` property, and the `&lt;progress&gt;` element. The release also adds new DOM APIs, including CSS typed arithmetic, the `roundRect()` method for Canvas, and expanded SVG element support.</p><p>Improvements to performance and stability target reduced memory allocations, garbage collection interactions, and IPC overhead. Ongoing development includes advancements in closed captioning for video, WebGL2 conformance, and improved support for WYSWIG editors.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26385"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.interdb.jp%2Fpg%2Fpgsql08%2Ffig-8-16.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hironobu Suzuki, author of the widely referenced technical documentation "The Internals of PostgreSQL," has announced that he is fully recovered from a health-related stay in Japan and is open to new international career opportunities. He is currently seeking challenging database engineering tasks, roles offering visa sponsorship, or remote positions that support a digital nomad lifestyle.</p><p>Suzuki brings extensive experience as a software engineer, technical director, and former director of the Japan PostgreSQL Users Group. His comprehensive online reference work details core database subsystems ranging from buffer management and query processing to replication across multiple PostgreSQL versions.</p>
 <p>Nov 4 · <a href="https://www.interdb.jp/pg/index.html">interdb.jp</a> | <a href="https://news.ycombinator.com/item?id=50358702">hacker news</a></p>
-<br clear="all" />
-
-<h2>NetBSD 11.1 Released</h2>
-<a name="story-26380"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The NetBSD Project has released NetBSD 11.1, the first point release of the NetBSD 11 stable branch. This release focuses primarily on addressing security vulnerabilities and implementing bug fixes to improve system stability.</p><p>Key updates include OpenSSH 10.6, unbound 1.26.1, and security patches for brotli and libXfont2. The release also introduces enhanced support for sparc64 sensors and adds battery monitoring capabilities for Microsoft Surface Go 3 devices.</p>
-<p>Nov 3 · <a href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html">netbsd.org</a> | <a href="https://lobste.rs/s/siqsg7/announcing_netbsd_11_1">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50363808">hacker news</a></p>
-<br clear="all" />
-
-<h2>HackerTV Provides 24/7 Broadcasts of Hacker News Recommended Videos</h2>
-<a name="story-26376"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F88%2F96%2Fc5%2F8896c504174ab44cfe0a53db689fe177.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>HackerTV features continuous 24/7 video broadcasts based on content recommended by users on Hacker News. The service maintains a consistent broadcast schedule for all viewers across various channels.</p><p>Developed by Danny Salzman, the platform's catalog is seeded from HackerTube and built using the Hacker News archive. Content is updated weekly by filtering new HN comments through the HN Search API.</p>
-<p>Nov 3 · <a href="https://hackertv.org">hackertv.org</a> | <a href="https://news.ycombinator.com/item?id=50346755">hacker news</a></p>
 <br clear="all" />
 
 ---

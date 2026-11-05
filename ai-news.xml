@@ -3,7 +3,7 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-05T19:05:00+00:00</updated>
+  <updated>2026-11-05T20:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
@@ -119,9 +119,9 @@
     <link href="https://developer.apple.com/news/?id=gdk2umrf" rel="alternate" />
     <id>https://developer.apple.com/news/?id=gdk2umrf::v240</id>
     <published>2026-11-03T21:50:00+00:00</published>
-    <updated>2026-11-03T21:50:00+00:00</updated>
+    <updated>2026-11-05T20:29:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fanalyticsinsight%2F2026-06-10%2Fd0122r07%2FHow-to-Get-Apples-New-Siri-AI-in-iOS-27-Easy-Guide.jpg%3Fw%3D1200%26auto%3Dformat%2Ccompress%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://developer.apple.com/news/?id=gdk2umrf">developer.apple.com</a></small></p><hr/><p>Apple has released a Developer Preview for Siri AI, allowing developers to integrate their apps with the assistant using App Intents. Available in the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, the feature enables apps to surface content and actions through natural language, onscreen awareness, and personal context understanding.</p><p>The preview allows developers to build and refine experiences before App Store submission opens in the spring. Supported languages currently include English, French, Japanese, Korean, Portuguese, and Spanish, though the feature is unavailable in the EU and requires Apple Intelligence-compatible hardware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fanalyticsinsight%2F2026-06-10%2Fd0122r07%2FHow-to-Get-Apples-New-Siri-AI-in-iOS-27-Easy-Guide.jpg%3Fw%3D1200%26auto%3Dformat%2Ccompress%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 03:20 UTC | #26337</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://developer.apple.com/news/?id=gdk2umrf">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50373879">hacker news</a></small></p><hr/><p>Apple has released a Developer Preview for Siri AI, allowing developers to integrate their apps with the assistant using App Intents. Available in the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, the feature enables apps to surface content and actions through natural language, onscreen awareness, and personal context understanding.</p><p>The preview allows developers to build and refine experiences before App Store submission opens in the spring. Supported languages currently include English, French, Japanese, Korean, Portuguese, and Spanish, though the feature is unavailable in the EU and requires Apple Intelligence-compatible hardware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fanalyticsinsight%2F2026-06-10%2Fd0122r07%2FHow-to-Get-Apples-New-Siri-AI-in-iOS-27-Easy-Guide.jpg%3Fw%3D1200%26auto%3Dformat%2Ccompress%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 03:20 UTC | #26337</small>]]></content>
   </entry>
   <entry>
     <title>Google to Restrict Search Access for Schools That Block AI Tools</title>

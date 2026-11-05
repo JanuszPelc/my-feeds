@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Apple Opens Siri AI to Developers in iOS 27.3 Beta</h2>
 <a name="story-26337"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fanalyticsinsight%2F2026-06-10%2Fd0122r07%2FHow-to-Get-Apples-New-Siri-AI-in-iOS-27-Easy-Guide.jpg%3Fw%3D1200%26auto%3Dformat%2Ccompress%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has released a Developer Preview for Siri AI, allowing developers to integrate their apps with the assistant using App Intents. Available in the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, the feature enables apps to surface content and actions through natural language, onscreen awareness, and personal context understanding.</p><p>The preview allows developers to build and refine experiences before App Store submission opens in the spring. Supported languages currently include English, French, Japanese, Korean, Portuguese, and Spanish, though the feature is unavailable in the EU and requires Apple Intelligence-compatible hardware.</p>
-<p>Nov 3 · <a href="https://developer.apple.com/news/?id=gdk2umrf">developer.apple.com</a></p>
+<p>Nov 3 · <a href="https://developer.apple.com/news/?id=gdk2umrf">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50373879">hacker news</a></p>
 <br clear="all" />
 
 <h2>Google to Restrict Search Access for Schools That Block AI Tools</h2>
