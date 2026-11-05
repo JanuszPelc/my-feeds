@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>X Rolls Out Updated Web App With Performance Improvements</h2>
+<a name="story-26515"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFIAP3kvgNXmA%2Ffeedshare-shrink_800%2Ffeedshare-shrink_800%2F0%2F1702196163200%3Fe%3D2147483647%26v%3Dbeta%26t%3DwsjzQcXZXRJxZgkahKjbHdVRDisyVcI0iurajwCMo0g&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>X is rolling out a redesigned version of its web application for signed-in users on a country-by-country basis, aiming to significantly improve loading speeds. According to principal engineer Yagiz Nizipli, the update replaces the platform's three separate servers for users, search crawlers, and link previews with a single unified server.</p><p>The architectural changes reduce profile load times over slow connections from more than 22 seconds down to 2.7 seconds, as detailed in an engineering blog post. The updated interface was previously deployed for logged-out users and search engine crawlers, and early users have reported a responsive and polished experience.</p>
+<p>Nov 5 · <a href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster">theverge.com</a> | <a href="https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch">blog.x.com</a> | <a href="https://news.ycombinator.com/item?id=50370478">hacker news</a></p>
+<br clear="all" />
+
 <h2>Walker Playground Interactive Web Experiment</h2>
 <a name="story-26565"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcodelucky.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fcss-animation-name-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Walker Playground is an interactive web experiment that converts DOM elements into a 2D physics-based terrain for small characters called "walkers." Users can spawn walkers and interact with them by dragging or flicking them across the page's layout.</p><p>The physics engine utilizes CSS properties and browser behaviors, such as window resizing, to influence movement; resizing the window triggers a reflow that launches characters into the air. Web elements like text lines act as traversable floors, while buttons, borders, and cards serve as solid boundaries.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26361"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnighteye.app%2Fwp-content%2Fuploads%2F2019%2F03%2FSafariArrivedWithSafari-768x288.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Safari 27.3 beta introduces Adaptive Dark Mode, which automatically transforms light-themed websites into dark versions when enabled by the user. The feature uses a color matrix to invert luminosity while preserving hue and aims to maintain a WCAG 4.5:1 contrast ratio for text.</p><p>To protect user privacy, Safari prevents websites from detecting if the mode is active, ensuring JavaScript queries return original authored colors. The feature does not alter sites with explicit `color-scheme` declarations and allows developers to opt-out using the `light only` setting.</p>
 <p>Nov 3 · <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">webkit.org</a> | <a href="https://news.ycombinator.com/item?id=50358562">hacker news</a></p>
-<br clear="all" />
-
-<h2>Microsoft Enhances Windows 11 Performance for 8GB RAM Devices</h2>
-<a name="story-26320"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2023%2F02%2F8-windows-11-memory-compression-details.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Windows 11 updates in the 26H2 build are now targeting PCs with 8GB of RAM to improve speed, performance, and memory management. These optimizations are designed to maximize existing hardware efficiency and ensure core system tasks remain responsive during intensive multitasking.</p><p>The improvements utilize fine-tuned memory compression to keep up to 2GB more active data in RAM, reducing the need for disk swapping. Microsoft reports that these changes can increase multitasking speed by up to 40% and improve system interaction responsiveness by 20%. Additionally, memory usage has been reduced in Microsoft Edge, the Widgets app, and various Microsoft 365 applications.</p>
-<p>Nov 3 · <a href="https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/">zdnet.com</a> | <a href="https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/">blogs.windows.com</a></p>
 <br clear="all" />
 
 ---

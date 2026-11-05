@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>OpenAI to Acquire Developer Tools Startup Pierre Computer</h2>
 <a name="story-26400"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F4UHvmFzOTfTxvgzb6HHGbE%2F777fc088dd126fff783d2f26a97c451e%2FCodex_SDK_1x1.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has agreed to acquire Pierre Computer, a developer tools startup whose technology is already integrated into OpenAI's Codex code-generation model. Financial terms of the deal were not disclosed, and Pierre's open-source projects will continue to remain open-source.</p><p>The acquisition positions OpenAI to compete more directly with Microsoft-owned GitHub as AI agents assume a growing share of software development tasks. Alongside the deal, OpenAI recently unveiled Pando, an internal infrastructure system designed to manage the surge of AI-generated code.</p>
-<p>Nov 4 · <a href="https://www.axios.com/2026/11/04/openai-pierre-computer-github">axios.com</a></p>
+<p>Nov 4 · <a href="https://www.axios.com/2026/11/04/openai-pierre-computer-github">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50366863">hacker news</a></p>
 <br clear="all" />
 
 <h2>Tencent Releases Hy4 Open-Weight AI Model</h2>

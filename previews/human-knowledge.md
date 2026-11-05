@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>1,10-Phenanthroline Modifies Glass Structure During Manufacturing</h2>
+<a name="story-26540"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fmembranes%2Fmembranes-14-00099%2Farticle_deploy%2Fhtml%2Fimages%2Fmembranes-14-00099-g002.png%3F1714045975&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>During the melting process, the addition of 1,10-phenanthroline allows for the chemical restructuring of metal-organic framework (MOF) glasses. This molecule serves as a flux to lower required melting temperatures and as a chemical agent that reorganizes the coordination environment of metal atoms within the glass network.</p><p>This method prevents material decomposition typically caused by the high temperatures required to melt specialized glass components. The ability to tune properties like magnetism and light emission via this technique suggests potential applications in catalysis, gas storage, batteries, and optical technologies.</p>
+<p>Nov 5 · <a href="https://www.sciencedaily.com/releases/2026/11/261103003202.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41563-026-02712-5">nature.com</a></p>
+<br clear="all" />
+
 <h2>Homo erectus Tooth Proteins Suggest Interbreeding with Denisovans</h2>
 <a name="story-26541"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgreekreporter.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fsamples-of-the-middle-pleistocene-h-erectus-teeth-credit-qiaomei-fu-cc-by-nc-nd-40.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers extracted ancient proteins from 400,000-year-old Homo erectus tooth enamel found at the Zhoukoudian, Hexian, and Sunjiadong sites in China. The study identified a unique amino acid variant shared by these specimens and Denisovans, suggesting that H. erectus interbred with Denisovans in East Asia approximately 400,000 years ago.</p><p>This proteomic approach provides a method for extracting biological data from fossils too old for DNA analysis. The findings suggest that this genetic material was transferred from H. erectus to Denisovans and subsequently to modern human populations in the Philippines and India, supporting an evolutionary model defined by frequent interbreeding between archaic lineages.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26368"><img src="https://wsrv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F811Lm9shtVL._SL1500_.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer provides a derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence. The text explores the mathematical connections between major model families, including PCA, variational autoencoders, diffusion models, normalizing flows, GANs, and energy-based models.</p><p>This 195-page manuscript is designed as a foundation-building resource for researchers, practitioners, and students. The revised version includes integrated visual explanations intended to make the mathematical structures of generative modeling more accessible.</p>
 <p>Nov 3 · <a href="https://arxiv.org/abs/2605.29713">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=50358582">hacker news</a></p>
-<br clear="all" />
-
-<h2>Smithsonian Researchers Identify Chytrid Fungus as Cause of Historic Frog Declines in Brazil</h2>
-<a name="story-26284"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolossalfoundation.org%2Fwp-content%2Fuploads%2F2024%2F12%2FChytrid_Impact.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers from the Smithsonian's National Zoo and Conservation Biology Institute and Pennsylvania State University have identified the deadly chytrid fungus as the cause of historic amphibian declines in Brazil's Atlantic Forest. By analyzing preserved museum specimens collected at the Boracéia Biological Station before and after population collapses between 1979 and 1982, the team found that fungal infections surged concurrently with the disappearances.</p><p>The study reveals that while highly vulnerable species may have died too quickly to leave infected remains, more stable species carried the pathogen and likely developed greater tolerance over time. Modern field surveys conducted between 2022 and 2024 indicate that many local frog populations have since rebounded, providing valuable insights into how wildlife adapts to persistent fungal epidemics.</p>
-<p>Nov 3 · <a href="https://www.sciencedaily.com/releases/2026/11/261102202838.htm">sciencedaily.com</a> | <a href="https://www.si.edu/newsdesk/releases/museum-specimens-reveal-pathogen-behind-decades-old-mystery-of-disappearing-frogs">si.edu</a></p>
 <br clear="all" />
 
 ---

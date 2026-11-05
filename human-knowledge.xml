@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-05T14:50:00+00:00</updated>
+  <updated>2026-11-05T14:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>1,10-Phenanthroline Modifies Glass Structure During Manufacturing</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261103003202.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261103003202.htm::v240</id>
+    <published>2026-11-05T14:56:00+00:00</published>
+    <updated>2026-11-05T14:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fmembranes%2Fmembranes-14-00099%2Farticle_deploy%2Fhtml%2Fimages%2Fmembranes-14-00099-g002.png%3F1714045975&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261103003202.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41563-026-02712-5">nature.com</a></small></p><hr/><p>During the melting process, the addition of 1,10-phenanthroline allows for the chemical restructuring of metal-organic framework (MOF) glasses. This molecule serves as a flux to lower required melting temperatures and as a chemical agent that reorganizes the coordination environment of metal atoms within the glass network.</p><p>This method prevents material decomposition typically caused by the high temperatures required to melt specialized glass components. The ability to tune properties like magnetism and light emission via this technique suggests potential applications in catalysis, gas storage, batteries, and optical technologies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fmembranes%2Fmembranes-14-00099%2Farticle_deploy%2Fhtml%2Fimages%2Fmembranes-14-00099-g002.png%3F1714045975&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 18:59 UTC | #26540</small>]]></content>
+  </entry>
   <entry>
     <title>Homo erectus Tooth Proteins Suggest Interbreeding with Denisovans</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261102202836.htm" rel="alternate" />

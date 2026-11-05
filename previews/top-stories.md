@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;Binance Discloses North Korean Hackers Used Fake Job Interviews and LinkedIn in $6.3 Billion Heist</h2>
+<a name="story-26297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1XKzAW.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Binance revealed that North Korean hackers used social engineering, including fake LinkedIn recruitment and simulated job interviews, to trick an engineer into downloading malicious software during a $6.3 billion heist. The multi-month scheme also involved an internet ad campaign promoting a tampered version of the Homebrew software package to compromise developer systems.</p><p>The combination of these exploits allowed the attackers to infiltrate internal systems, take over multiple Binance wallets, and drain funds. Although withdrawals were temporarily halted and later restored, the company recovered a portion of the stolen assets with assistance from stablecoin issuers Tether and Circle.</p>
+<p>Nov 5 · <a href="https://fortune.com/2026/11/03/binance-hack-details-linkedin/">fortune.com</a> | <a href="https://news.ycombinator.com/item?id=50357080">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/computer-programming.png" width="28" align="texttop" /> &nbsp;The Origins and Early Development of BSD Unix</h2>
 <a name="story-26194"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In the late 1970s, Bill Joy and researchers at UC Berkeley created the Berkeley Software Distribution (BSD) by bundling a Pascal compiler, line editors, and other utilities as an add-on package for AT&amp;T Unix. By distributing these tools at cost, Berkeley fostered a tradition of sharing that helped spread Unix throughout universities and research institutions.</p><p>Following the release of the expanded 2BSD distribution, the acquisition of a VAX computer at Berkeley led graduate student Ozalp Babaoglu and Bill Joy to add virtual memory support to Unix 32/V. Their work culminated in 3BSD in December 1979, drawing the interest of DARPA and laying the groundwork for Unix's widespread adoption in government-funded research.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhazm.at%2Fmox%2Falgorithm%2Fstructural-algorithm%2Ftree%2Fb-epsilon-tree%2Fan-introduction-to-b-epsilon-trees-and-write-optimization%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Michael A. Bender and co-authors examine Bε-trees, write-optimized data structures designed to organize on-disk storage for file systems and databases. Providing a key-value API comparable to traditional B-trees, Bε-trees deliver enhanced performance for inserts, updates, and range queries.</p><p>The article contrasts the asymptotic performance and practical measurements of Bε-trees against standard B-trees and Log-Structured Merge trees (LSM-trees). It outlines how buffered internal nodes enable write efficiency, offering foundational insights to help developers design applications that maximize storage performance.</p>
 <p>Nov 4 · <a href="https://www.usenix.org/publications/login/oct15/bender">usenix.org</a> | <a href="https://lobste.rs/s/0ec9yk/introduction_b_trees_write_optimization">lobsters</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Neufangled Robotics Launches Stringman Room-Scale Cable Robot</h2>
-<a name="story-26351"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fnf-site-assets-prod-b%2Fassets%2Fexploded.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Neufangled Robotics has introduced Stringman, an open-source, ceiling-mounted cable-driven parallel robot designed for room-scale manipulation. Priced at $795, the system suspends a two-fingered gripper from four corner-anchored lines, using combined motor torque to achieve a higher payload capacity and broader workspace than traditional desktop robotic arms.</p><p>The OSHWA-certified hardware features published CAD files, PCBs, and control software compatible with frameworks like LeRobot, allowing users to operate it locally or integrate it with machine learning agents. Designed for home labs and classrooms, Stringman includes active swing cancellation, local network operation, and visual tagging capabilities to move items across entire rooms without occupying floor space.</p>
-<p>Nov 4 · <a href="https://neufangled.com/">neufangled.com</a> | <a href="https://news.ycombinator.com/item?id=50354358">hacker news</a></p>
 <br clear="all" />
 
 ---

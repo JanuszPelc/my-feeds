@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T14:49:00+00:00</updated>
+  <updated>2026-11-05T14:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Amazon and Uber Eats Partner for Prime Member Restaurant Delivery</title>
+    <link href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership" rel="alternate" />
+    <id>https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership::v240</id>
+    <published>2026-11-05T14:55:00+00:00</published>
+    <updated>2026-11-05T14:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F10919.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership">theverge.com</a> | <a href="https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery">aboutamazon.com</a></small></p><hr/><p>Amazon and Uber have partnered to make Uber Eats the official restaurant delivery provider for U.S. Amazon Prime members. Under the agreement, subscribers can order food through the Amazon app or website with $0 delivery fees on orders of $25 or more, bypassing the need for a separate Uber account.</p><p>This partnership returns Amazon to the restaurant delivery market after the company discontinued its internal Amazon Restaurants service. Uber gains access to Prime's massive user base to compete with market leader DoorDash, though customers will still be responsible for service fees, tips, and menu markups.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F10919.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 18:56 UTC | #26549</small>]]></content>
+  </entry>
+  <entry>
+    <title>UK AI Subscription Spending Surpasses £1 Billion as Claude Gains Market Share</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market::v240</id>
+    <published>2026-11-05T14:54:00+00:00</published>
+    <updated>2026-11-05T14:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.laozhang.ai%2Fposts%2Fen%2Fclaude-api-vs-subscription-cost%2Fimg%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market">bloomberg.com</a></small></p><hr/><p>UK consumer spending on artificial intelligence subscriptions has exceeded £1 billion annually, with approximately 5.1% of UK adults paying for subscriptions as of mid-2026. The findings are based on a study analyzing data from 14 million UK bank and card accounts.</p><p>The research indicates that Anthropic's Claude is rapidly closing the gap with OpenAI's ChatGPT in the UK market. Claude's share of directly billed consumer AI subscription spending reportedly rose from 7.4% in December 2025 to 29.4% in July 2026, while ChatGPT's market share declined from 73.5% to 52.5% during the same period.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.laozhang.ai%2Fposts%2Fen%2Fclaude-api-vs-subscription-cost%2Fimg%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 18:55 UTC | #26550</small>]]></content>
+  </entry>
   <entry>
     <title>Tech Executives and OpenAI Express Concern Over Anti-Data Center Election Results</title>
     <link href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&amp;reflink=desktopwebshare_permalink" rel="alternate" />

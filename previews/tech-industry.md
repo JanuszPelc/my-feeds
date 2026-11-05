@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Amazon and Uber Eats Partner for Prime Member Restaurant Delivery</h2>
+<a name="story-26549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F10919.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amazon and Uber have partnered to make Uber Eats the official restaurant delivery provider for U.S. Amazon Prime members. Under the agreement, subscribers can order food through the Amazon app or website with $0 delivery fees on orders of $25 or more, bypassing the need for a separate Uber account.</p><p>This partnership returns Amazon to the restaurant delivery market after the company discontinued its internal Amazon Restaurants service. Uber gains access to Prime's massive user base to compete with market leader DoorDash, though customers will still be responsible for service fees, tips, and menu markups.</p>
+<p>Nov 5 · <a href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership">theverge.com</a> | <a href="https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery">aboutamazon.com</a></p>
+<br clear="all" />
+
+<h2>UK AI Subscription Spending Surpasses £1 Billion as Claude Gains Market Share</h2>
+<a name="story-26550"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.laozhang.ai%2Fposts%2Fen%2Fclaude-api-vs-subscription-cost%2Fimg%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>UK consumer spending on artificial intelligence subscriptions has exceeded £1 billion annually, with approximately 5.1% of UK adults paying for subscriptions as of mid-2026. The findings are based on a study analyzing data from 14 million UK bank and card accounts.</p><p>The research indicates that Anthropic's Claude is rapidly closing the gap with OpenAI's ChatGPT in the UK market. Claude's share of directly billed consumer AI subscription spending reportedly rose from 7.4% in December 2025 to 29.4% in July 2026, while ChatGPT's market share declined from 73.5% to 52.5% during the same period.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Tech Executives and OpenAI Express Concern Over Anti-Data Center Election Results</h2>
 <a name="story-26516"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA20TTXb.img%3Fw%3D1280%26h%3D716%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tech executives gathered at an election-night event hosted by Nvidia CEO Jensen Huang expressed significant concern over local election results and ballot measures targeting data centers. The outcomes threaten to rein in the rapid expansion of artificial intelligence infrastructure across the United States.</p><p>Concurrently, senior leaders at OpenAI discussed whether the political resistance requires resetting expectations for the company's data center capacity and infrastructure plans by 2027. The growing local pushback highlights mounting community friction regarding the immense energy and land demands of upcoming AI projects.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26477"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.resultsense.com%2Fassets%2Fimg%2F2026-05-13-sovereign-ai-isomorphic-labs-investment-FK1L_H7v_xYSVM.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Inc.'s Isomorphic Labs is negotiating a funding round of approximately $5 billion at a valuation of around $50 billion. The Google DeepMind spinout develops artificial intelligence technologies designed to accelerate and transform drug discovery pipelines.</p><p>The potential financing follows a previous funding round earlier in the year, when the startup secured $2.1 billion in May. The ongoing discussions highlight continued large-scale capital deployment into AI-driven biopharmaceutical research.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Data Center Shares Fall as Investors Anticipate Slower AI Buildout Following Democratic Congressional Wins</h2>
-<a name="story-26476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F694940094001%2Fb0c689b2-e783-4607-b960-b4327aad016b%2F26b4abac-3c52-421b-9771-98b4d5a16ce8%2F1280x720%2Fmatch%2F896%2F500%2Fimage.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Data center and AI infrastructure stocks declined as investors anticipated a slower AI buildout following Democratic victories in the U.S. midterm elections. While broader Wall Street indices closed higher due to eased political uncertainty, the data center sector faced significant selling pressure.</p><p>Significant declines included Hut 8 (-23%), IREN (-11%), Core Scientific (-10%), and Applied Digital (-7%). The selloff reflects investor concerns that a Democratic-controlled Congress may introduce policies that could hamper the rapid expansion of AI-related computing infrastructure.</p>
-<p>Nov 5 · <a href="https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Meta Raises €9 Billion in Debut Euro Bond Sale After Record €53 Billion Demand</h2>
-<a name="story-26463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-11-04%2Fmosph2ne%2Fmeta-muse-ad-041126-01.jpg%3Fw%3D1200%26ar%3D40%3A21%26auto%3Dformat%2Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dhttps%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-08-19%2Fv2z58b9u%2Fbdnews24_default_social_strip.jpg%26overlay_position%3Dbottom%26overlay_width%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta Platforms raised €9 billion in its first euro-denominated bond sale after attracting a record €53 billion of investor orders. The company paid about 1.4 times the risk premium Alphabet offered on comparable bonds earlier in the week.</p><p>The six-part offering followed Meta’s $15 billion US bond sale and included maturities ranging from just over four years to more than 38 years. The debt is intended to help finance the company’s large-scale artificial-intelligence infrastructure investments.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

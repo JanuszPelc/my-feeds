@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>IRQ inc. Offers 40% Discount on Adeder Limiter and Enhancer</h2>
+<a name="story-26530"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fblack-friday-sale-badges-discount-labels-collection-variety-promotional-badges-tags-black-friday-featuring-432610179.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>IRQ inc. is running a Black Friday sale through December 4, 2026, offering its Adeder Limiter and Adeder Enhancer plugins at a 40% discount. Individual plugins are priced at $23.40, while the two-plugin bundle is available for $41.40.</p><p>The Adeder Limiter, designed by musician Kotobuki Hikaru, features a wide input gain range and a fixed 4,096-sample look-ahead. The Adeder Enhancer focuses on high-frequency enhancement for vocals and narration and is compatible with macOS and Windows in AU, VST3, and AAX formats.</p>
+<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/adeder-limiter-and-enhancer/">bedroomproducersblog.com</a> | <a href="https://irqinc.com/en/products/">irqinc.com</a></p>
+<br clear="all" />
+
+<h2>SudoMetalStudio Releases SMS-Anville Sampler</h2>
+<a name="story-26529"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsampler-arena-tab4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SudoMetalStudio has released SMS-Anville Sampler, a free, open-source plugin for Windows and Linux designed for real-time audio chopping. The sampler allows users to record incoming audio directly onto MIDI pads, enabling a live workflow for slicing audio into playable segments.</p><p>The plugin includes features for pitch and speed adjustment, envelope shaping, and a "Dirty" mode that simulates 12-bit resolution. The current v1.1.0 release provides 32-bit floating-point sample storage up to 96 kHz and utilizes dynamic memory allocation to allow for recordings longer than eight minutes.</p>
+<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/sms-anville-sampler/">bedroomproducersblog.com</a> | <a href="https://github.com/sirsipe/SMS-Plugins">github.com</a></p>
+<br clear="all" />
+
 <h2>Meat Beats Releases Sublime Free Bass Synthesizer</h2>
 <a name="story-26531"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F54d696e5e4b05ca7b54cff5c%2F122968ea-4a3b-48bf-a3e4-31e7148a4c5f%2FSubBoomBass%2B2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meat Beats has released Sublime, a free monophonic bass synthesizer for macOS and Windows. The plugin features 125 presets organized into five banks, targeting electronic genres such as house and garage. Sound manipulation options include harmonics, distortion, pitch sweeps, a tempo-synced LFO, and built-in effects such as tape hiss and a sidechain-style "pump" effect.</p><p>Available in VST3 and AU formats, the plugin supports Intel and Apple Silicon Macs. Users can save custom presets and assign knobs to MIDI controllers. The download is hosted on Gumroad.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26435"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnugen-audio_vislm-3-user-interface.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NUGEN Audio has released VisLM 3, the latest generation of its loudness metering and compliance software. The update introduces several major workflow enhancements, including automated stem monitoring across multiple plugin instances, support for up to 9.1.6 surround channels, and new measurement tools like loudness-to-dialogue ratio tracking.</p><p>Designed to help audio professionals manage increasingly complex mixing standards, VisLM 3 also adds timestamped comments via an updated flags system, quality control report exports, and built-in support for updated specifications including EBU R128 s4 and ATSC A/85:2026-07. Available immediately for $499, the plugin offers upgrade paths for existing users while retaining its core momentary, short-term, and True Peak measurement capabilities.</p>
 <p>Nov 4 · <a href="https://www.kvraudio.com/news/nugen-audio-releases-vislm-3-69613?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69613">kvraudio.com</a> | <a href="https://nugenaudio.com/vislm/">nugenaudio.com</a></p>
-<br clear="all" />
-
-<h2>Sonuscore Releases The Score Elements Free Cinematic Library for Kontakt Player</h2>
-<a name="story-26444"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkeep-forest.com%2Fupload%2Fmedialibrary%2F440%2F44094fe64877e6d8fc09ade349c086a4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sonuscore has released The Score Elements, a free cinematic scoring library for Native Instruments' Kontakt Player that transforms chords into complex orchestral arrangements. Based on the arrangement-driven workflow of the paid version, the plugin allows users to trigger multi-instrument Stories—animated musical sequences spanning orchestral, electronic, and world instruments—using single-chord inputs and mod wheel dynamics.</p><p>The library includes 13 genre-based Stories alongside two playable Cinematic Ensembles, featuring customizable slot effects, mixing controls, and independent rhythm adjustments. Operating within Kontakt Player 8.13.1 or newer, the instrument requires approximately 9 GB of storage and a 48ms track delay compensation to perfectly synchronize its internal sequencing engine with a digital audio workstation.</p>
-<p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/sonuscore-score-elements/">bedroomproducersblog.com</a> | <a href="https://www.sonuscore.com/shop/the-score-elements/">sonuscore.com</a></p>
-<br clear="all" />
-
-<h2>Cinesamples Releases Musio Studio Free Music-Writing Application</h2>
-<a name="story-26445"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2Fr8lA-oPZomLbqo6uIxzOGA%2F6004c934-2054-4700-9077-ce92c41f4300%2FbackgroundImages&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cinesamples has released Musio Studio, a free desktop application for writing and arranging music built specifically around its virtual instrument libraries and select partners. The software provides a dedicated environment supporting up to 512 audio and MIDI tracks, featuring an integrated piano roll optimized for orchestral articulations, an orchestral-grouped mixer, and scoring-to-video capabilities.</p><p>While the base application and a curated selection of free virtual instrument libraries are available at no cost, accessing the complete collection of over 3,600 instruments requires a paid monthly or annual subscription. The application also includes beta speech-recognition commands for hands-free navigation and automatic instrument assignment when importing external MIDI files, positioning it as a specialized sketching tool for media composers.</p>
-<p>Nov 4 · <a href="https://bedroomproducersblog.com/2026/11/04/musio-music-writing-app/">bedroomproducersblog.com</a> | <a href="https://musio.com/">musio.com</a></p>
 <br clear="all" />
 
 ---
