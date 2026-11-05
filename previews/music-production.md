@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Ueberschall Releases Disco and LoFi Loop Bundles for Elastik Player</h2>
+<a name="story-26573"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flofidisco-bundle-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ueberschall has released two new sample library collections, the Disco Bundle and the LoFi Bundle, designed for its Elastik loop player and Downloader app. The Disco Bundle includes 9 GB of content across four products—Disco Classics, Disco Classics 2, Electric Disco, and DiscoTape—featuring over 1,900 loops and samples split across 30 construction kits.</p><p>The LoFi Bundle offers approximately 15 GB of content combining four other libraries: LoFi Beats, LoFi Lounge, Noise Floor, and Jazz Trip. It incorporates over 3,200 loops and samples across 40 construction kits blending jazz, hip-hop, downtempo, and lounge elements. Both bundles are sold at discounted rates compared to purchasing the individual libraries separately.</p>
+<p>Nov 5 · <a href="https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-69642?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69642">kvraudio.com</a> | <a href="https://www.ueberschall.com/en/product/441/Disco-Bundle">ueberschall.com</a></p>
+<br clear="all" />
+
 <h2>Musical Arts School Releases Live Grand Light Free Steinway D Piano Library for Kontakt Player</h2>
 <a name="story-26591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2F8Dio-Launches-Free-Plucked-Grand-Piano-Library-for-Kontakt-770x403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Musical Arts School has released Live Grand Light, a free Steinway Model D virtual piano library for Kontakt 8 Player. The instrument was sampled at River Studios in Cologne using a custom-built robot to improve sampling consistency and accuracy. The free version includes the Una Corda preset and a ten-minute trial of all presets available in the paid Live Grand Modern D version.</p><p>The 15 GB library features 20 velocity layers, 55 dB of dynamic range, and AI-assisted sample optimization for resonance adjustments and error correction. While the current release focuses on the player's perspective with a single microphone position, additional microphone positions are planned for a future release.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26531"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F54d696e5e4b05ca7b54cff5c%2F122968ea-4a3b-48bf-a3e4-31e7148a4c5f%2FSubBoomBass%2B2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meat Beats has released Sublime, a free monophonic bass synthesizer for macOS and Windows. The plugin features 125 presets organized into five banks, targeting electronic genres such as house and garage. Sound manipulation options include harmonics, distortion, pitch sweeps, a tempo-synced LFO, and built-in effects such as tape hiss and a sidechain-style "pump" effect.</p><p>Available in VST3 and AU formats, the plugin supports Intel and Apple Silicon Macs. Users can save custom presets and assign knobs to MIDI controllers. The download is hosted on Gumroad.</p>
 <p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/meat-beats-sublime/">bedroomproducersblog.com</a> | <a href="https://meatbeats.com/p/sublime">meatbeats.com</a></p>
-<br clear="all" />
-
-<h2>Wavea Updates Flite to v2.2</h2>
-<a name="story-26532"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fflite.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Wavea has released Flite v2.2, introducing full pack building capabilities that allow users to export presets, samples, and artwork as single files. The update also includes a new UI Editor and new live performance controls, such as a Triangle, XY Pad, and Joystick.</p><p>Additional features include new waveforms and filters like Sharkfin, FoldTri, Notch, Morph, Phase, and Peak. The sampler has been upgraded with multi-zone editing, round robins, and improved import support for SFZ and Decent Sampler formats.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/wavea-updates-flite-to-v2-2-69637?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69637">kvraudio.com</a> | <a href="https://www.wavea.co/">wavea.co</a></p>
 <br clear="all" />
 
 ---
