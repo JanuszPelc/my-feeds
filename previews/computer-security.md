@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>GitHub Resolves Incident Affecting Pull Requests, Git Operations, and Issues</h2>
+<a name="story-26490"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHG7PgIXbgAUj75v.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GitHub resolved an incident on November 4, 2026, that caused service degradation and intermittent failures for Pull Requests, Git Operations, Issues, API Requests, and Actions. The disruption resulted in some requests being failed or delayed.</p><p>The issue was first identified around 09:49 UTC and reached mitigation by 11:50 UTC. GitHub intends to share a detailed root cause analysis once it is available.</p>
+<p>Nov 4 · <a href="https://www.githubstatus.com/incidents/smtdswd1h2w4">githubstatus.com</a> | <a href="https://news.ycombinator.com/item?id=50363378">hacker news</a></p>
+<br clear="all" />
+
 <h2>Layer3 Intel Reports Residential Proxy Activity on White House Network</h2>
 <a name="story-26465"><img src="https://wsrv.nl/?url=https%3A%2F%2Flayer3intel.com%2F_next%2Fimage%3Furl%3D%252F_next%252Fstatic%252Fmedia%252Feop_proxy_activity.01iwvfjkrr2z9.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Layer3 Intel's Residential Proxy Observatory recorded 236 residential proxy exits across six IP addresses on the Executive Office of the President network between October 5 and November 3, 2026. The activity involved 28 separate public proxy services and occurred primarily during evening hours, pointing to an internal device rather than a public guest network.</p><p>The pattern suggests an internal device running a proxy software development kit, which researchers note can pose security risks by potentially allowing lateral network access. In addition to the White House network, Layer3 Intel's global tracking identified residential proxy and anonymization activity in extremely remote regions, including Antarctica and Saint Helena.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26213"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.nns.ee%2Fimg%2F2026-11-02-renault-hack%2Fui.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A motorist discovered that changing the clock time on a 2014 Renault Latitude equipped with a TomTom Carminat LIVE head unit required a specialized navigation SD card. Because the original card was missing and the system enforced strict digital rights management, the built-in menus required to adjust the timezone were entirely inaccessible.</p><p>After reverse engineering the firmware, testing updates in a custom QEMU emulator, and working around read-only filesystem restrictions, the author gained arbitrary code execution. By leveraging a path traversal vulnerability in the unit's script parser to overwrite the Linux kernel's core_pattern, they triggered a controlled crash to execute a payload and manually patch the internal configuration file.</p>
 <p>Nov 2 · <a href="https://blog.nns.ee/2026/11/02/renault-hack/">blog.nns.ee</a> | <a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50339288">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ukraine and Russia Report Cyberattacks on Emergency Alert Apps</h2>
-<a name="story-26173"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-156449007%2Cwidth-1619%2Cheight-1088%2Cresizemode-75%2F156449007.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ukraine and Russia reported that their emergency alert and air raid mobile applications were targeted by cyberattacks late Sunday, resulting in false notifications sent to citizens. In Ukraine, the breach triggered spurious warnings concerning nuclear and chemical dangers in Kyiv.</p><p>The incidents unfolded as a temporary humanitarian ceasefire between the two countries concluded. Both nations acknowledged the system compromises, while officials worked to reassure the public and debunk the false emergency warnings.</p>
-<p>Nov 2 · <a href="https://www.bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

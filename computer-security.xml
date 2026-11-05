@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>GitHub Resolves Incident Affecting Pull Requests, Git Operations, and Issues</title>
+    <link href="https://www.githubstatus.com/incidents/smtdswd1h2w4" rel="alternate" />
+    <id>https://www.githubstatus.com/incidents/smtdswd1h2w4::v240</id>
+    <published>2026-11-04T21:30:00+00:00</published>
+    <updated>2026-11-04T21:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHG7PgIXbgAUj75v.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.githubstatus.com/incidents/smtdswd1h2w4">githubstatus.com</a> | <a href="https://news.ycombinator.com/item?id=50363378">hacker news</a></small></p><hr/><p>GitHub resolved an incident on November 4, 2026, that caused service degradation and intermittent failures for Pull Requests, Git Operations, Issues, API Requests, and Actions. The disruption resulted in some requests being failed or delayed.</p><p>The issue was first identified around 09:49 UTC and reached mitigation by 11:50 UTC. GitHub intends to share a detailed root cause analysis once it is available.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHG7PgIXbgAUj75v.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 03:11 UTC | #26490</small>]]></content>
+  </entry>
+  <entry>
     <title>Layer3 Intel Reports Residential Proxy Activity on White House Network</title>
     <link href="https://layer3intel.com/blog/residential-proxies-white-house-network" rel="alternate" />
     <id>https://layer3intel.com/blog/residential-proxies-white-house-network::v240</id>

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Uber Reports Low Usage of AI Agents for Rides and Food Orders</h2>
+<a name="story-26468"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkernel.news%2Fwp-content%2Fuploads%2F2026%2F05%2FUber-Earnings-Q2-2026-780x470.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Uber reported during its third-quarter 2026 earnings call that AI agent usage for transactions remains minimal, with only four rides booked via AI agents during the week of Halloween. While Uber Eats saw slightly higher volume with 500 AI-initiated orders, both figures are negligible compared to the company's 320 million total trips and orders during the same period.</p><p>This lack of adoption occurs despite growing industry interest in AI agents designed to handle consumer tasks. Uber CEO Dara Khosrowshahi noted that the company's existing mobile interfaces are already efficient, with typical orders taking under 90 seconds, but he remains optimistic that the expansion of AI assistant ecosystems will ultimately drive platform demand.</p>
+<p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/">techcrunch.com</a> | <a href="https://www.fool.com/earnings/call-transcripts/2026/11/04/uber-uber-q3-2026-earnings-call-transcript/">fool.com</a></p>
+<br clear="all" />
+
 <h2>AMD to Pay US$2.9 Billion for AI Chip Startup Taalas</h2>
 <a name="story-26461"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabit.ee%2Fimages%2Ftaalas-hc1-ai-chip-llama-neural-network-performance-startup-news-01.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AMD will pay approximately US$2.9 billion to acquire Toronto-based semiconductor startup Taalas Inc., a deal that includes US$1.4 billion subject to unspecified conditions. The acquisition aims to integrate Taalas's hardware-specific designs for AI inference into AMD’s future chipsets. Taalas's technology is optimized for large language models, such as Meta’s Llama.</p><p>This transaction is one of the largest recent acquisitions of a Canadian technology company and is part of AMD's strategy to compete with Nvidia in the AI processor market. Founded in 2023 by former AMD executives, Taalas had previously raised more than US$225 million in venture financing.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26382"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ai2.work%2Fheroes%2Fchina-races-to-dominate-embodied-ai-as-ev-makers-pivot-to-robots.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chinese embodied AI companies raised 93.5 billion yuan, equivalent to approximately $13 billion, across 322 financing deals in the first half of 2026. According to data from research firm ITjuzi, this represents a fivefold year-on-year increase in funding value and a substantial jump in deal activity.</p><p>The surge in investment underscores a strategic shift among domestic robotics manufacturers moving beyond physical hardware displays—such as running and backflips—toward the development of advanced AI software "brains." Industry stakeholders are increasingly prioritizing machine learning, autonomy, and cognitive capabilities to commercialize humanoid and specialized robots at scale.</p>
 <p>Nov 4 · <a href="https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Chinese AI Companies Expect Minimal Delivery on $70 Billion Nvidia Chip Orders</h2>
-<a name="story-26375"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmineshop.eu%2Fstorage%2Fblog-images%2F1823%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Major Chinese artificial intelligence developers, including Alibaba, Tencent, and ByteDance, anticipate receiving only about one percent of the six million Nvidia RTX Pro 5500 chips they have ordered over the coming months. The orders, valued at roughly $70 billion, fall drastically short of what Nvidia can supply as the company struggles with manufacturing constraints.</p><p>Global production capacity for the RTX Pro 5500 is severely limited, with overall production through 2027 expected to fall well short of total demand from Chinese firms. This supply bottleneck highlights the ongoing pressures and high-stakes competition surrounding advanced artificial intelligence hardware access in China amid international trade restrictions.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
