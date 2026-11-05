@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Tripwire Presents Expands Publishing Business to Support Smaller Independent Developers</h2>
+<a name="story-26460"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplayday.one%2Fwp-content%2Fuploads%2F2026%2F11%2FTripwire-Presents-Indies-Initiative-Key-Art-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tripwire Presents, the publishing division of Tripwire Interactive, has launched an initiative to provide scaled publishing support for smaller independent developers. The program helps indie titles connect with broader audiences by leveraging Tripwire's existing storefront relationships, promotional calendar guidance, and pricing expertise.</p><p>The initiative debuts with a lineup of five games, including The Boss Gangster: Criminal Empire, Starforged Legacy, One-Eyed Likho, Eslabong, and Mars Attracts. Tripwire aims to shine a spotlight on self-published indie titles that align with its fan base across different genres and platforms.</p>
+<p>Nov 4 · <a href="https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games">gamedeveloper.com</a></p>
+<br clear="all" />
+
 <h2>Valve Updates Steam Review Process to Address Submission Surge</h2>
 <a name="story-26358"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsteamcdn-a.akamaihd.net%2Fsteamcommunity%2Fpublic%2Fimages%2Fsteamworks_docs%2Fenglish%2FReleaseExampleDocs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Valve is adjusting its Steam game submission workflow to manage a significant rise in store and page review requests. Due to this volume, current review times have reached up to 12 business days, a departure from the standard 3-5 day window.</p><p>The company is introducing new checklist requirements to minimize re-reviews caused by basic functional issues. These updates include requiring developers to run their games through the Steam client for at least five minutes and ensuring that achievements and necessary redistributables, such as DirectX, are properly configured.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26191"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tuaw.com%2Fwp-content%2Fuploads%2F2024%2F08%2FiPad-on-robotic-arm.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple is developing a tabletop robotic device featuring a nine-inch screen mounted on a swiveling arm, according to reports by The Information. The product is targeted for a 2027 or 2028 release with an expected price of around $1,000.</p><p>The project forms part of an intensified push into robotics championed by Apple leadership, including CEO John Ternus. Development has faced internal re-envisionings and debates over specific features as the company seeks to integrate home automation and advanced voice assistant capabilities into a moving display.</p>
 <p>Nov 2 · <a href="https://www.theinformation.com/articles/inside-apples-slog-create-first-robot">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Nintendo Producer Eiji Aonuma Says Ocarina of Time Remake Teaches Junior Staff Classic Insights</h2>
-<a name="story-26199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2026%2F04%2Fwhat-the-zelda-ocarina-of-time-remake-needs.png%3Fw%3D1200%26h%3D675%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Series producer Eiji Aonuma stated that the upcoming remake of The Legend of Zelda: Ocarina of Time was developed partly to help junior staff members at Nintendo understand the structural foundations and design lessons of the 1998 classic. In an interview for Nintendo's "Ask the Developer" series, Aonuma noted that many current team members have only worked on recent titles and may lack firsthand experience with the original game.</p><p>The modern Zelda series has shifted from Ocarina of Time's linear, dungeon-focused progression toward the open-air exploration style seen in Breath of the Wild and Tears of the Kingdom. Aonuma hopes that rebuilding the classic game will inspire new insights among younger developers and offer players accustomed to open-world exploration a return to carefully paced, structured adventures.</p>
-<p>Nov 2 · <a href="https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights">gamedeveloper.com</a> | <a href="https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/">nintendo.com</a></p>
 <br clear="all" />
 
 ---
