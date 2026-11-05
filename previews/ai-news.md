@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Pangram Launches Pangram Image 1.0 and Image Flash 1.0 for AI Content Detection</h2>
+<a name="story-26439"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pangram.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.sanity.io%252Fimages%252F6vunltag%252Fproduction%252Fd7c9d0ad9cc0fcf85fcc18a8842d2ab8171b8593-2653x1196.png%253Fw%253D1200%2526q%253D85%2526auto%253Dformat%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pangram has released Pangram Image 1.0 and Pangram Image Flash 1.0, its new flagship models designed to detect AI-generated images and videos. Pangram Image 1.0 features heatmap output for localizing AI content within images, robustness against compression and edits, and a lower minimum resolution threshold of 256x256.</p><p>The companion Pangram Image Flash 1.0 model provides frame-by-frame analysis for frontier AI video generators. Along with the model releases, Pangram updated its API and integrated the detection technology into a Chrome extension to flag AI-generated content across social media and other online platforms.</p>
+<p>Nov 4 · <a href="https://www.pangram.com/blog/introducing-pangram-image-1-0">pangram.com</a> | <a href="https://news.ycombinator.com/item?id=50368458">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenAI to Acquire Developer Tools Startup Pierre Computer</h2>
 <a name="story-26400"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F4UHvmFzOTfTxvgzb6HHGbE%2F777fc088dd126fff783d2f26a97c451e%2FCodex_SDK_1x1.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has agreed to acquire Pierre Computer, a developer tools startup whose technology is already integrated into OpenAI's Codex code-generation model. Financial terms of the deal were not disclosed, and Pierre's open-source projects will continue to remain open-source.</p><p>The acquisition positions OpenAI to compete more directly with Microsoft-owned GitHub as AI agents assume a growing share of software development tasks. Alongside the deal, OpenAI recently unveiled Pando, an internal infrastructure system designed to manage the surge of AI-generated code.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26230"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-cms.claudeapi.com%2Fblog%2Fimages%2Fai-recursive-self-improvement-2028-prediction--cover-jfww.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's amended S-1A filing warns that the company is approaching recursive self-improvement (RSI), a state where AI-driven research significantly accelerates model development. While current models have not yet crossed this threshold, internal estimates indicate future models may imminently trigger "dramatically accelerated progress" under the company's Responsible Scaling Policy.</p><p>The company has already used AI to develop models with unpredicted capability leaps. To address potential safety and security risks from such accelerated progress, Anthropic is considering policy updates to maintain meaningful human supervision in the development of frontier models.</p>
 <p>Nov 2 · <a href="https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/">techcrunch.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm#i199fd6a8a0664d5da497db9a78cf0452_55">sec.gov</a> | <a href="https://news.ycombinator.com/item?id=50346858">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI Launches Grid Protectors Program</h2>
-<a name="story-26210"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.siemens-energy.com%2Fcontent%2Fdam%2Fsiemensenergy-aem%2Fhotspot-images%2FDatacenter__Landscape.jpg.transform%2F1280w%2Fimg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Grid Protectors Program is a national initiative designed to allow OpenAI's future data center campuses to reduce electricity consumption when the power grid is under strain. Through collaborations with utility providers, the program seeks to support grid reliability and protect consumer electricity costs.</p><p>The initiative's first implementation is planned for a campus in Effingham County, Georgia, which is expected to offer up to 1 gigawatt of flexible demand. This effort addresses the intersection of AI infrastructure expansion and power grid capacity constraints.</p>
-<p>Nov 2 · <a href="https://openai.com/index/grid-protectors-program">openai.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Nicholas Nethercote Details Rust Compiler Performance Improvements for November 2026</h2>
+<a name="story-26475"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.rust-lang.org%2Finside-rust%2F2020%2F11%2F11%2Fexploring-pgo-for-the-rust-compiler%2Frustc-perf-pgo-llvm-expanded.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nicholas Nethercote outlines recent performance optimization work on the Rust compiler conducted for Hexcat through November 2026. Key updates include a redesigned and more efficient compression scheme for compiler spans, micro-optimizations for span operations, single-entry caching for parent span lookups, and targeted instruction reductions for the in-development new trait solver on complex crates like Diesel.</p><p>Additional improvements feature metadata sparse encoding mechanisms that reduce peak memory and metadata sizes, along with code rearrangements to eliminate unnecessary work during early returns and metadata encoding. Overall benchmark results for the monthly period show a mean wall-time reduction of 2.85 percent and a mean max-RSS peak memory reduction of 4.46 percent across test suites.</p>
+<p>Nov 4 · <a href="https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html">nnethercote.github.io</a> | <a href="https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026">lobsters</a></p>
+<br clear="all" />
+
 <h2>Dennis Forbes Analyzes SQLite Performance Slowdown Caused by Zig Libc Rewrite</h2>
 <a name="story-26451"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmintcdn.com%2Fcodspeed%2FBdvfbpKO_S3Ha4vy%2Fguides%2Fbenchmarking-a-go-gin-api%2Fassets%2Fsqlite-regression-ui.png%3Ffit%3Dmax%26auto%3Dformat%26n%3DBdvfbpKO_S3Ha4vy%26q%3D85%26s%3Da9b94424ad0f97ff4b17a541f14a5bd8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Dennis Forbes encountered a severe performance regression when inserting large JSON datasets into SQLite via a Rust service, with operations taking minutes instead of milliseconds. The bottleneck was traced to CPU-bound string tokenization during cross-platform compilation using Zig's `cc` compiler.</p><p>The slowdown originated from a pure-Zig replacement of standard C library string functions like `strspn` within Zig's libc implementation. Unlike standard library versions, the rewritten function repeatedly measures the entire length of the string on each iteration, creating a quadratic complexity trap that dramatically degrades tokenization performance on large files.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26316"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pcjs.org%2Fblog%2Fimages%2Fxslt-deprecation.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer and designer David Bushell criticizes Google and other browser vendors for deprecating and removing native XSLT support, a change scheduled for late 2026 that will break existing XML workflows and his own project, xslt.rip.</p><p>Bushell argues that this decision violates the web standards community's long-standing social contract of backward compatibility. He also objects to Chromium-based browsers injecting warning banners onto XSLT-reliant pages, contending that vendors are improperly shifting the responsibility of broken web infrastructure onto site maintainers.</p>
 <p>Nov 3 · <a href="https://dbushell.com/2026/11/03/xslt-rip/">dbushell.com</a> | <a href="https://lobste.rs/s/chypzr/death_comes_for_xslt">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50355929">hacker news</a></p>
-<br clear="all" />
-
-<h2>An Introduction to Bε-trees and Write-Optimization</h2>
-<a name="story-26300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhazm.at%2Fmox%2Falgorithm%2Fstructural-algorithm%2Ftree%2Fb-epsilon-tree%2Fan-introduction-to-b-epsilon-trees-and-write-optimization%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Michael A. Bender and co-authors examine Bε-trees, write-optimized data structures designed to organize on-disk storage for file systems and databases. Providing a key-value API comparable to traditional B-trees, Bε-trees deliver enhanced performance for inserts, updates, and range queries.</p><p>The article contrasts the asymptotic performance and practical measurements of Bε-trees against standard B-trees and Log-Structured Merge trees (LSM-trees). It outlines how buffered internal nodes enable write efficiency, offering foundational insights to help developers design applications that maximize storage performance.</p>
-<p>Nov 3 · <a href="https://www.usenix.org/publications/login/oct15/bender">usenix.org</a> | <a href="https://lobste.rs/s/0ec9yk/introduction_b_trees_write_optimization">lobsters</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-04T20:50:00+00:00</updated>
+  <updated>2026-11-04T20:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Titan OS Raises $46 Million to Expand Smart TV Operating System</title>
+    <link href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/::v240</id>
+    <published>2026-11-04T20:57:00+00:00</published>
+    <updated>2026-11-04T20:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUK_Philips_Oct-Dec_26.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/">techcrunch.com</a></small></p><hr/><p>Barcelona-based smart TV operating system provider Titan OS has secured $46 million in a new funding round combining equity and debt. The financing, which brings the company's total funding to $110 million, includes debt facilities from BlackRock-managed funds alongside participation from existing backers Highland Europe and Mangrove Capital Partners.</p><p>The startup offers television manufacturers an operating system built around monetization through free ad-supported streaming television channels and targeted advertising. Titan OS currently serves 30 million users and has recently expanded its hardware partnerships to include brands such as Sharp, AOC, Vestel, and Skyworth, while Philips transitioned its 2026 models entirely to the platform.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUK_Philips_Oct-Dec_26.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 00:04 UTC | #26437</small>]]></content>
+  </entry>
   <entry>
     <title>T3 Financial Crime Unit Dissolved by Crypto Giants</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Titan OS Raises $46 Million to Expand Smart TV Operating System</h2>
+<a name="story-26437"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUK_Philips_Oct-Dec_26.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Barcelona-based smart TV operating system provider Titan OS has secured $46 million in a new funding round combining equity and debt. The financing, which brings the company's total funding to $110 million, includes debt facilities from BlackRock-managed funds alongside participation from existing backers Highland Europe and Mangrove Capital Partners.</p><p>The startup offers television manufacturers an operating system built around monetization through free ad-supported streaming television channels and targeted advertising. Titan OS currently serves 30 million users and has recently expanded its hardware partnerships to include brands such as Sharp, AOC, Vestel, and Skyworth, while Philips transitioned its 2026 models entirely to the platform.</p>
+<p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>T3 Financial Crime Unit Dissolved by Crypto Giants</h2>
 <a name="story-26427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcrispybull.com%2Fwp-content%2Fuploads%2F2025%2F10%2FTether-TRON-Financial-Crime-Unit.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The T3 Financial Crime Unit, a collaborative initiative established by Tron, Tether, Binance, and TRM Labs to combat illicit crypto activity, was quietly dissolved in August. The alliance disbanded following concerns over slow response times, despite having frozen approximately $250 million in suspicious assets during its operation.</p><p>The dissolution comes as the digital asset sector faces heightened security challenges, including major exploits and rising illicit transactions. The collapse of the joint task force highlights ongoing difficulties in coordinating rapid cross-firm responses among major cryptocurrency infrastructure providers to curb cybercrime.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartuprise.io%2Fwp-content%2Fuploads%2F2024%2F05%2FCA-based-Scale-AI-Secures-1-Billion-in-Series-F-Round-Funding.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>San Francisco-based AI inference startup Fal has secured $1.3 billion in a Series F funding round led by Bessemer Venture Partners. With participation from Nvidia, Sound Ventures, and T. Rowe Price, the investment doubles the company's valuation to $16 billion from its $8 billion valuation in April.</p>
 <p>Nov 3 · <a href="https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/">techcrunch.com</a> | <a href="https://fal.ai/blog/series-e-f">fal.ai</a></p>
-<br clear="all" />
-
-<h2>CrowdStrike Agrees to Acquire AI Security Startups Fiddler AI and Dreadnode</h2>
-<a name="story-26293"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhlSZiilfIqxd8NLAgUrBsPT8rRbHdChHNlc_Fy-lPOblDzUAKxihMDHvPbS2FC2Deo9kPKvxtW1a8q9L3v4Vb2iuBnYlMIqFYztC7h3EzVe1QtkVO73h7bs0_YhtALnWhHqCQs9NPzdPCjmPYGb9sN-ahZnzqWD_vPVR8rwU1b96_ylOM65h4-1I0iOms%2Fs512%2Funnamed%283%29.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CrowdStrike has agreed to acquire Fiddler AI for approximately $400 million and Dreadnode for approximately $95 million, primarily in cash. Fiddler AI provides monitoring capabilities for AI agents, while Dreadnode offers automated security testing tools for artificial intelligence systems.</p><p>The acquisitions come as organizations rapidly deploy AI agents ahead of establishing comprehensive security controls. By integrating these technologies into its Falcon platform, CrowdStrike aims to enhance enterprise visibility and trust in AI deployments.</p>
-<p>Nov 3 · <a href="https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e">wsj.com</a> | <a href="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-fiddler-to-deliver-agent-observability/">crowdstrike.com</a></p>
 <br clear="all" />
 
 ---
