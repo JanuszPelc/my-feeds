@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/computer-programming.png" width="28" align="texttop" /> &nbsp;Kagi Search Updates Bring Free Trial Searches and Android Redesign</h2>
+<a name="story-26620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fus.v-cdn.net%2F6036147%2Fuploads%2F3SRL2KVBUUEG%2Fkagi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kagi Search has updated its platform to allow non-registered users to perform up to 50 web searches without creating an account. The November 2026 release also introduces a redesigned home screen, rebuilt voice search, and new widgets for its Android application, alongside various performance improvements and bug fixes.</p><p>Additional updates span Kagi Assistant, Kagi News, and Kagi Translate, featuring improved voice input controls, clearer temporary thread indicators, and expanded language support. The release follows Kagi News being featured on Google Play and coincides with company commentary regarding school software policies.</p>
+<p>Nov 6 · <a href="https://kagi.com/changelog">kagi.com</a> | <a href="https://news.ycombinator.com/item?id=50383740">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;T3 Financial Crime Unit Dissolved by Crypto Giants</h2>
 <a name="story-26427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcrispybull.com%2Fwp-content%2Fuploads%2F2025%2F10%2FTether-TRON-Financial-Crime-Unit.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The T3 Financial Crime Unit, a collaborative initiative established by Tron, Tether, Binance, and TRM Labs to combat illicit crypto activity, was quietly dissolved in August. The alliance disbanded following concerns over slow response times, despite having frozen approximately $250 million in suspicious assets during its operation.</p><p>The dissolution comes as the digital asset sector faces heightened security challenges, including major exploits and rising illicit transactions. The collapse of the joint task force highlights ongoing difficulties in coordinating rapid cross-firm responses among major cryptocurrency infrastructure providers to curb cybercrime.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.semafor.com%2F979c48c4a511a88aca935f3bef3c0975ed97df05-2236x2492.png%3Fw%3D740%26q%3D75%26auto%3Dformat%26h%3D824&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Voters in more than 30 localities across nine states passed moratoriums, outright bans, and financial restrictions on data centers during Tuesday's elections. The widespread pushback highlights growing community resistance to the rapid expansion of artificial intelligence infrastructure and energy-intensive computing facilities.</p><p>Financial institutions and asset managers are increasingly treating local opposition as a credit risk for data center developments. In response to the mounting political and public pressure, technology companies are attempting to rebrand the facilities, while politicians across party lines face demands for stricter regulations.</p>
 <p>Nov 4 · <a href="https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures">semafor.com</a> | <a href="https://news.ycombinator.com/item?id=50365982">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Apple Begins Beta Testing Apple Watch Audio Intelligence Features</h2>
-<a name="story-26256"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FApple-Watch-Series-12-Sound-Recognition-260909.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has begun beta testing its new Audio Intelligence features for the Apple Watch, rolling them out to developers via the iOS 27.3 update. Initially announced for the Apple Watch Series 12 and Ultra 4, the suite includes four opt-in tools: sound recognition, song identification via Shazam, live conversation rewinds, and high-level conversation recaps.</p><p>The conversational features, Live Rewind and Siri Recaps, process audio using a combination of on-device S11 chip hardware, a secure enclave on the paired iPhone, and Apple’s Private Cloud Compute without saving raw audio or generating word-for-word transcripts. Live Rewind allows users to view a 15-second text snippet of recent speech by double-pressing the digital crown, while Siri Recaps summarizes meetings and discussions into concise bullet points that automatically delete after seven days if not saved.</p>
-<p>Nov 4 · <a href="https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

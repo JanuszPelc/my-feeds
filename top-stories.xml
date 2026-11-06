@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-06T07:37:00+00:00</updated>
+  <updated>2026-11-06T10:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Kagi Search Updates Bring Free Trial Searches and Android Redesign</title>
+    <link href="https://kagi.com/changelog" rel="alternate" />
+    <id>https://kagi.com/changelog::v240</id>
+    <published>2026-11-06T10:04:00+00:00</published>
+    <updated>2026-11-06T10:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fus.v-cdn.net%2F6036147%2Fuploads%2F3SRL2KVBUUEG%2Fkagi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://kagi.com/changelog">kagi.com</a> | <a href="https://news.ycombinator.com/item?id=50383740">hacker news</a></small></p><hr/><p>Kagi Search has updated its platform to allow non-registered users to perform up to 50 web searches without creating an account. The November 2026 release also introduces a redesigned home screen, rebuilt voice search, and new widgets for its Android application, alongside various performance improvements and bug fixes.</p><p>Additional updates span Kagi Assistant, Kagi News, and Kagi Translate, featuring improved voice input controls, clearer temporary thread indicators, and expanded language support. The release follows Kagi News being featured on Google Play and coincides with company commentary regarding school software policies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fus.v-cdn.net%2F6036147%2Fuploads%2F3SRL2KVBUUEG%2Fkagi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 22:52 UTC | #26620 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>T3 Financial Crime Unit Dissolved by Crypto Giants</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle" rel="alternate" />
