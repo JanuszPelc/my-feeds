@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-06T09:34:00+00:00</updated>
+  <updated>2026-11-06T09:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Linum Details $21,000 Training Run for Pyramid-JiT Text-to-Image Model</title>
+    <link href="https://www.linum.ai/field-notes/pjit-21k" rel="alternate" />
+    <id>https://www.linum.ai/field-notes/pjit-21k::v240</id>
+    <published>2026-11-06T09:42:00+00:00</published>
+    <updated>2026-11-06T09:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.linum.ai%2Fjit-ddt%2Fself-flow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.linum.ai/field-notes/pjit-21k">linum.ai</a> | <a href="https://news.ycombinator.com/item?id=50368208">hacker news</a></small></p><hr/><p>Linum, a two-person research lab, has detailed the training process and architecture of its Pyramid-JiT (P-JiT) text-to-image model, which cost approximately $21,000 in compute. The 2-billion-parameter model operates directly in pixel space using a 32x32 token reduction strategy, bypassing traditional variational autoencoders to slash attention bottlenecks and accelerate convergence.</p><p>The training regime spanned 610 million samples at 512 resolution followed by 50 million samples at 1024 resolution across 64 H100 GPUs. Built as a proof-of-concept for the lab's ultimate goal of creating efficient generative video models, the project demonstrates how pixel-space diffusion can effectively handle compression and generation simultaneously.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.linum.ai%2Fjit-ddt%2Fself-flow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 16:08 UTC | #26690</small>]]></content>
+  </entry>
   <entry>
     <title>NC State Researchers Identify Beetle Species Damaging Blueberry Roots</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261103003200.htm" rel="alternate" />
@@ -372,23 +381,5 @@
     <updated>2026-11-01T18:29:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fcollaborative-problem-solving-with-artificial-intelligence-mathematics_1022111-847.jpg%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/">terrytao.wordpress.com</a> | <a href="https://news.ycombinator.com/item?id=50328251">hacker news</a></small></p><hr/><p>Mathematician Frank Calegari published a guest post on Terence Tao's blog arguing that recent advancements in artificial intelligence—such as OpenAI's release of numerous research papers—fundamentally change the practice of mathematics. Calegari contends that while many mathematicians feel threatened or overwhelmed by AI's sudden capability to tackle major open problems, the mathematical community should instead adapt its reward structures, hiring practices, and educational focus toward broader exploration and conceptual understanding rather than mere proof-generation.</p><p>The essay draws parallels to historical events like the classification of finite simple groups, suggesting that artificial intelligence shifts the economics of what is considered difficult in research. To cope with these changes, Calegari proposes concrete reforms, including evaluating all academic work as potentially AI-assisted, placing less emphasis on publication counts, and fostering deeper personal interactions in academic hiring and graduate training.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fcollaborative-problem-solving-with-artificial-intelligence-mathematics_1022111-847.jpg%3Fw%3D2000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 23:16 UTC | #26125</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dr. Drang Analyzes Fourier Series and Gibbs Phenomenon in XKCD Comic</title>
-    <link href="https://leancrew.com/all-this/2026/10/xkcd-and-fourier/" rel="alternate" />
-    <id>https://leancrew.com/all-this/2026/10/xkcd-and-fourier/::v240</id>
-    <published>2026-11-01T16:05:00+00:00</published>
-    <updated>2026-11-01T16:05:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Fgravitational_square_wave.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://leancrew.com/all-this/2026/10/xkcd-and-fourier/">leancrew.com</a> | <a href="https://lobste.rs/s/mni8ri/xkcd_fourier">lobsters</a></small></p><hr/><p>Dr. Drang examines an XKCD comic depicting a gravitational square wave, using it to discuss the mathematical realities of Fourier series approximations. He notes that while the comic humorously applies wave mechanics, actual Fourier expansions of square waves suffer from the Gibbs phenomenon, where ringing artifacts persist at the discontinuities regardless of how many terms are added.</p><p>The author observes that technical knowledge can sometimes interfere with enjoying mathematical humor. By illustrating how the Gibbs phenomenon concentrates energy at the corners of a square wave rather than diminishing away, the post bridges theoretical mathematics with lighthearted commentary on physics.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Fgravitational_square_wave.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 19:09 UTC | #26110</small>]]></content>
-  </entry>
-  <entry>
-    <title>Everything Electric Podcast Features Oxford Professor Jan Rosenow on Electrification and Global Energy Use</title>
-    <link href="https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/" rel="alternate" />
-    <id>https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/::v240</id>
-    <published>2026-11-01T16:04:00+00:00</published>
-    <updated>2026-11-01T16:04:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffullycharged.show%2Fwp-content%2Fuploads%2F2026%2F04%2FBanner-why-electrification-could-cut-global-energy-use-in-half-pc361.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/">fullycharged.show</a> | <a href="https://news.ycombinator.com/item?id=50319110">hacker news</a></small></p><hr/><p>In episode 361 of the Everything Electric Podcast, host Robert Llewellyn interviews Jan Rosenow, a professor of energy and climate policy at Oxford University, regarding the potential of large-scale electrification to transform global energy demand. Rosenow notes that electricity currently accounts for only 20% of global energy consumption, leaving a hidden 80% of mobility and heating dominated by fossil fuels.</p><p>The discussion addresses how transitioning to electrification could cut total global energy demand in half by reducing the system-wide inefficiencies of fossil fuels. Additional topics include the comparative grid challenges posed by data centers and electric vehicles, the viability of battery material recycling, solar adoption trends in China, and the role of electrification in enhancing energy security.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffullycharged.show%2Fwp-content%2Fuploads%2F2026%2F04%2FBanner-why-electrification-could-cut-global-energy-use-in-half-pc361.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 18:54 UTC | #26111</small>]]></content>
   </entry>
 </feed>
