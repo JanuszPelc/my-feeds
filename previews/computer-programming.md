@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Datastar Hypermedia Framework Overview</h2>
+<a name="story-26725"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgopt.infoq.com%2Ffit-in%2F3000x4000%2Ffilters%3Aquality%2885%29%2Ffilters%3Ano_upscale%28%29%2Farticles%2Freactive-notification-system-server-sent-events%2Fen%2Fresources%2F9figure1-1732020429898.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Datastar is a hypermedia framework designed for building reactive and interactive web applications using server-sent events (SSE) and declarative HTML attributes. Unlike frameworks that synchronize client state with a server, Datastar keeps the state on the backend and streams updates directly to the browser through standard HTTP connections.</p><p>The framework favors multi-page applications over single-page applications, utilizing constraints like minimal JavaScript APIs and server-side DOM patching to simplify architecture. Its approach allows backend developers to build dynamic user interfaces entirely on the server, as demonstrated in implementations like the Instabooks application.</p>
+<p>Nov 6 · <a href="https://noteflakes.com/articles/2026-11-04-datastar">noteflakes.com</a> | <a href="https://lobste.rs/s/vbx0g4/look_at_datastar">lobsters</a></p>
+<br clear="all" />
+
 <h2>Invidious Instance Implements Go-Away Bot Protection Against AI Scrapers</h2>
 <p>The Invidious instance hosted on nadeko.net has implemented the go-away bot protection tool to block AI companies and automated scrapers from targeting its video watch pages. The measure was introduced after the Invidious API was disabled, prompting bots to shift their scraping activity directly to user-facing watch endpoints.</p><p>Visitors accessing the site are required to pass a JavaScript proof-of-work challenge to verify they are using standard web browsers rather than automated tools. Users encountering technical difficulties are advised to disable conflicting browser extensions and contact the site administrator with their request details.</p>
 <p>Nov 6 · <a href="https://inv.nadeko.net/watch?v=PeZNLvD4mds">inv.nadeko.net</a> | <a href="https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding">lobsters</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26597"><img src="https://wsrv.nl/?url=https%3A%2F%2Fservo.org%2Fimg%2Fblog%2F2026-10-gary-banner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Servo version 0.7.0 includes 527 commits from September, introducing web platform features such as the `:checked` pseudoclass, the `user-select` property, and the `&lt;progress&gt;` element. The release also adds new DOM APIs, including CSS typed arithmetic, the `roundRect()` method for Canvas, and expanded SVG element support.</p><p>Improvements to performance and stability target reduced memory allocations, garbage collection interactions, and IPC overhead. Ongoing development includes advancements in closed captioning for video, WebGL2 conformance, and improved support for WYSWIG editors.</p>
 <p>Nov 5 · <a href="https://servo.org/blog/2026/11/05/september-in-servo/">servo.org</a> | <a href="https://lobste.rs/s/u26wki/september_servo_progress_rounded">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50379576">hacker news</a></p>
-<br clear="all" />
-
-<h2>Discord Replaces Electron Framework with Rust for Desktop App</h2>
-<a name="story-26547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F24681191%2F115129604-31b75d00-9ff0-11eb-952d-77d04fae40f6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Discord is replacing its Electron-based desktop application with a new client written in the Rust programming language. This transition aims to improve performance and reduce memory consumption, addressing the high system resource usage associated with the current web-based framework.</p><p>Discord CTO Stanislav Vishnevskiy reported that early Windows builds using Rust have utilized roughly 290MB of RAM, a significant improvement over the 1GB or more often required by the existing application. The new architecture will enable mobile apps to share code with the desktop client via Rust while retaining native user interfaces.</p>
-<p>Nov 5 · <a href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app">theverge.com</a> | <a href="https://x.com/svishnevskiy/status/2118081920194203799">x.com</a> | <a href="https://news.ycombinator.com/item?id=50378625">hacker news</a></p>
 <br clear="all" />
 
 ---
