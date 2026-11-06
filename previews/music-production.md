@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Insektiq Releases Toniq Polyphonic Audio-to-MIDI Plugin</h2>
+<a name="story-26697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftoniq-kvr-news-v2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Insektiq has released Toniq, a polyphonic audio-to-MIDI plugin and standalone application available for macOS and Windows in AAX, AU, and VST3 formats. The software converts various audio sources—including full mixes, vocals, drums, and melodic parts—into multi-voice MIDI data complete with velocity information.</p><p>Toniq offers a free tier with no length or watermark limitations alongside an upgraded Pro tier priced at $129. The plugin supports ARA 2 integration for major digital audio workstations, allowing direct timeline reading, and includes features such as stem separation, a built-in synthesizer, and advanced note-level editing capabilities in the Pro version.</p>
+<p>Nov 6 · <a href="https://www.kvraudio.com/news/insektiq-releases-toniq---polyphonic-audio-to-midi-plug-in-for-macos-and-windows-aax-au-and-vst3-69652?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69652">kvraudio.com</a> | <a href="https://insektiq.com/download">insektiq.com</a></p>
+<br clear="all" />
+
 <h2>Chuck Sutton Releases Take 5: The Search For Sound Ableton Live Game</h2>
 <a name="story-26663"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTake-5-The-Search-For-Sound.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Producer Chuck Sutton has released Take 5: The Search For Sound, a five-minute audio-driven game built inside Ableton Live. Designed to help musicians break through creative blocks, the game completely removes visuals, immersing players in a non-visual sonic landscape where they explore environments, defeat enemies, and solve rhythmic puzzles using a keyboard or controller.</p><p>Conceived during an overnight flight when looking at a screen was impractical, the game generates unexpected melodies, synth sounds, and MIDI tracks as players navigate by sound alone. It aims to spark fresh musical ideas quickly before users return to their primary production projects, and is available now for $25.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26554"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpsp_classicqpsp_classicqex.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PSPaudioware has released version 1.9.0 of its ClassicQ and ClassicQex equalizer plug-ins alongside a new free plugin named PSP ClassicQlite. The v1.9.0 update introduces native Apple Silicon support, AAX and VST3 compatibility, PACE iLok licensing, an updated preset system, and high-resolution graphics.</p><p>Inspired by classic British console equalizers, PSP ClassicQlite features low- and high-frequency shelving filters with switchable Q, flexible midrange control, an adjustable high-pass filter, and the company's second-generation saturation algorithm. Both updates aim to integrate vintage analog characteristics into modern digital audio workstation environments.</p>
 <p>Nov 5 · <a href="https://www.kvraudio.com/news/pspaudioware-updates-psp-classicq-to-v1-9-and-releases-psp-classicqlite-69641?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69641">kvraudio.com</a> | <a href="https://www.pspaudioware.com/products/psp-classicq">pspaudioware.com</a></p>
-<br clear="all" />
-
-<h2>Freqport Offers 50% Discount on FreqLift Plugin</h2>
-<p>Using the code FL1BP50VIP, BPB readers can purchase the FreqLift saturation and dynamics plugin for €49.50 instead of €99 through November 15, 2026. The software is compatible with macOS and Windows in VST3, AAX, and AU formats.</p><p>The plugin combines upward compression, tube saturation, and clipping, with settings for both single-band and two-band processing. While it functions as a standard software plugin, it can integrate with FreqTube FT1 hardware to utilize real tubes for saturation.</p>
-<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/freqlift-bpb/">bedroomproducersblog.com</a> | <a href="https://www.freqport.com/product/freqlift_saturation_dynamics_plugin/">freqport.com</a></p>
 <br clear="all" />
 
 ---
