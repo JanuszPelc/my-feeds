@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Hackintosh Community Experiences Revival Through AI Tools</h2>
+<a name="story-26652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.naut.ca%2Fblog%2Fcontent%2Fimages%2F2026%2F11%2FScreenshot-2026-11-05-at-1.25.41-PM.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer and long-time contributor Yoonsik Park explores how the integration of AI coding assistants like Claude Code has revitalized the Hackintosh and HackiOS communities. Despite Apple's transition to ARM architecture and the official incompatibility of newer macOS releases with x86 hardware, developers are leveraging AI tools to rapidly create workarounds and ports.</p><p>Recent milestones driven by these advancements include running macOS 27 on Snapdragon laptops and ARM single-board computers, porting iOS to the Nintendo Switch OLED, and enabling support for Nvidia 50-series GPUs. These achievements indicate that AI-assisted reverse engineering is lowering traditional hardware barriers for running macOS on non-Apple systems.</p>
+<p>Nov 6 · <a href="https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/">naut.ca</a> | <a href="https://news.ycombinator.com/item?id=50383057">hacker news</a></p>
+<br clear="all" />
+
 <h2>Window Sweaters Adds Knitted Borders to macOS Windows</h2>
 <a name="story-26646"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fsaragordic%2Fwindow-sweaters%2Fraw%2Fmain%2Fdocs%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Window Sweaters is a macOS menu-bar application that adds decorative, knitted-style borders to application windows. The software provides custom color schemes for 37 specific applications and offers various patterns, such as a "Zigzag" style that derives colors from application icons.</p><p>Users can install the application via Homebrew or by downloading the release directly from GitHub. Because the app uses private macOS window APIs and is not yet notarized by Apple, users must manually grant it accessibility permissions and security clearance in System Settings to function.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26438"><img src="https://wsrv.nl/?url=https%3A%2F%2Fziglang.org%2Fdownload%2F0.9.0%2Fstage2-progress-dark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Zig project has released version 0.17.1, a bug fix update addressing more than 57 issues reported following the 0.17.0 release. The update focuses specifically on resolving regressions and upgrade blockers that affected users.</p><p>Most users who encountered obstacles while attempting to upgrade to version 0.17.0 should now be able to transition to the new patch release. Download links and updated documentation are available on the official Zig website.</p>
 <p>Nov 4 · <a href="https://ziglang.org/news/0.17.1-released/">ziglang.org</a> | <a href="https://lobste.rs/s/pa1411/zig_0_17_1_released">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50358320">hacker news</a></p>
-<br clear="all" />
-
-<h2>Neil Kakkar Winning Essay Examines Software Engineering Productivity in the AI Era</h2>
-<a name="story-26392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21N8p2%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F094d1c3e-53a2-443d-bc87-5eecbd3e3b5e_1920x566.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Software engineer Neil Kakkar won The Pragmatic Engineer's essay challenge with an analysis comparing his productivity across pre-AI and AI-native workplaces. Using data from his time at Bloomberg, PostHog, and AI startup Tano, Kakkar details an elevenfold increase in merged pull requests driven by the adoption of autonomous coding agents like Claude Code.</p><p>The transition to AI-native workflows eliminated traditional constraints such as human code reviews and extensive cross-team communication, replacing them with automated continuous integration checks and solo end-to-end feature ownership. While velocity surged, new challenges arose, including increased context switching, managing agent token limits, and addressing subtle logic errors introduced by automated generation.</p>
-<p>Nov 4 · <a href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing">newsletter.pragmaticengineer.com</a> | <a href="https://news.ycombinator.com/item?id=50356462">hacker news</a></p>
 <br clear="all" />
 
 ---
