@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Invidious Instance Implements Go-Away Bot Protection Against AI Scrapers</h2>
+<p>The Invidious instance hosted on nadeko.net has implemented the go-away bot protection tool to block AI companies and automated scrapers from targeting its video watch pages. The measure was introduced after the Invidious API was disabled, prompting bots to shift their scraping activity directly to user-facing watch endpoints.</p><p>Visitors accessing the site are required to pass a JavaScript proof-of-work challenge to verify they are using standard web browsers rather than automated tools. Users encountering technical difficulties are advised to disable conflicting browser extensions and contact the site administrator with their request details.</p>
+<p>Nov 6 · <a href="https://inv.nadeko.net/watch?v=PeZNLvD4mds">inv.nadeko.net</a> | <a href="https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding">lobsters</a></p>
+<br clear="all" />
+
 <h2>Chimera Linux Details Work to Enable Proprietary NVIDIA Drivers on Musl Distributions</h2>
 <a name="story-26703"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2024%26image%3Dgnome_software_nvidia&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chimera Linux developers have detailed ongoing work to enable proprietary NVIDIA drivers on musl-based Linux distributions, which traditionally lack full compatibility due to being built for glibc. The effort addresses fundamental architectural hurdles, including vendor-neutral OpenGL dispatch, missing compatibility symbols, and linker relocation differences.</p><p>Overcoming these limitations required adopting GLVND, updating the gcompat compatibility shim, patching the dynamic linker to support GNU indirect functions and static thread-local storage models, and creating a custom musl package variant. Testing with a legacy Maxwell-generation graphics card validated the approach and helped address subsequent startup stability issues.</p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F24681191%2F115129604-31b75d00-9ff0-11eb-952d-77d04fae40f6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Discord is replacing its Electron-based desktop application with a new client written in the Rust programming language. This transition aims to improve performance and reduce memory consumption, addressing the high system resource usage associated with the current web-based framework.</p><p>Discord CTO Stanislav Vishnevskiy reported that early Windows builds using Rust have utilized roughly 290MB of RAM, a significant improvement over the 1GB or more often required by the existing application. The new architecture will enable mobile apps to share code with the desktop client via Rust while retaining native user interfaces.</p>
 <p>Nov 5 · <a href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app">theverge.com</a> | <a href="https://x.com/svishnevskiy/status/2118081920194203799">x.com</a> | <a href="https://news.ycombinator.com/item?id=50378625">hacker news</a></p>
-<br clear="all" />
-
-<h2>X Rolls Out Updated Web App With Performance Improvements</h2>
-<a name="story-26515"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFIAP3kvgNXmA%2Ffeedshare-shrink_800%2Ffeedshare-shrink_800%2F0%2F1702196163200%3Fe%3D2147483647%26v%3Dbeta%26t%3DwsjzQcXZXRJxZgkahKjbHdVRDisyVcI0iurajwCMo0g&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>X is rolling out a redesigned version of its web application for signed-in users on a country-by-country basis, aiming to significantly improve loading speeds. According to principal engineer Yagiz Nizipli, the update replaces the platform's three separate servers for users, search crawlers, and link previews with a single unified server.</p><p>The architectural changes reduce profile load times over slow connections from more than 22 seconds down to 2.7 seconds, as detailed in an engineering blog post. The updated interface was previously deployed for logged-out users and search engine crawlers, and early users have reported a responsive and polished experience.</p>
-<p>Nov 5 · <a href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster">theverge.com</a> | <a href="https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch">blog.x.com</a> | <a href="https://news.ycombinator.com/item?id=50370478">hacker news</a></p>
 <br clear="all" />
 
 ---

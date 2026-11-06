@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>OXO Synth2 Free Synth1 Recreation Available for macOS and iPad</h2>
+<a name="story-26677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKWqXFLfuYpc%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A new free, open-source virtual analog synthesizer recreates the classic Synth1 for macOS and iPad. Developed by OXO Music, the plugin uses AI-assisted modeling to replicate the original's audio output and parameter behavior, providing a native Apple Silicon alternative for modern systems. It is compatible with macOS 14 and iPadOS 17 in VST3, AU, and AUv3 formats.</p><p>The engine features two oscillators, a sub oscillator, FM, ring modulation, hard sync, and five filter types. Users can import existing .sy1 patches and ZIP banks to maintain compatibility with legacy sound collections. A Windows version is currently in development.</p>
+<p>Nov 6 · <a href="https://bedroomproducersblog.com/2026/11/06/oxo-synth2/">bedroomproducersblog.com</a> | <a href="https://oxo-music.com/products/oxo_synth2">oxo-music.com</a></p>
+<br clear="all" />
+
 <h2>Acon Digital Launches Restoration Suite 3</h2>
 <a name="story-26676"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frestoration-suite-3-plugin-collection-16_9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Restoration Suite 3 toolkit features a new plug-in that automatically identifies audio defects and constructs a custom repair chain. By using an "Analyze" function, the software listens to a recording to detect issues such as broadband noise, hum, clicks, or clipping, then automatically configures the required modules and settings.</p><p>The suite includes updated versions of DeNoise 3, DeHum 3, DeClick 3, and DeClip 3, with DeNoise and DeHum introducing new machine learning–powered "Automatic" modes. The software is available as a standalone product with perpetual licensing or as part of the Acoustica 8 audio editor.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSplice-Create-DAW.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Splice has launched a beta version of Splice Create, a new digital audio workstation that integrates the company's catalog of royalty-free samples, virtual instruments, and plugins into a single production environment. The software allows users to search and audition sounds directly within the timeline to streamline the creative workflow.</p><p>To ease transitions from other software, Splice Create includes customizable keyboard shortcuts matching popular digital audio workstations like Ableton Live, FL Studio, and Pro Tools. The DAW also features an AI-powered creative assistant that supports voice and text commands for tasks such as project organization, harmonic sample matching, and production queries. The software is currently available for Mac users in beta.</p>
 <p>Nov 5 · <a href="https://musictech.com/news/music/splice-create-daw-announced/">musictech.com</a> | <a href="https://splice.com/blog/introducing-splice-create/">splice.com</a></p>
-<br clear="all" />
-
-<h2>GForce Releases Oberheim Matrix-12 Software Synthesizer</h2>
-<a name="story-26553"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmatrix-12_hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GForce Software has released the Oberheim Matrix-12 software instrument for macOS and Windows, developed in collaboration with Oberheim and original designer Marcus Ryle. The plugin emulates the 1985 flagship analog synthesizer, featuring twelve voices, modeled dual VCOs, and a fifteen-mode filter.</p><p>The software modernizes the original hardware's complex routing system with a visual interface that includes a live signal path flow diagram, a modulation matrix grid, and module-level scopes. Additional features comprise full MPE support, multi-zone keyboard mapping with micro arpeggiators, stereo delay, matrix reverb, and over 570 factory patches.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/gforce-releases-oberheim-matrix-12---official-matrix-12-and-xpander-software-vst-au-and-aax-69644?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69644">kvraudio.com</a> | <a href="https://www.gforcesoftware.com/gforce-releases-oberheim-matrix-12-the-only-official-matrix-12-and-xpander-software/">gforcesoftware.com</a></p>
 <br clear="all" />
 
 ---

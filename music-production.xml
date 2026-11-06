@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-06T15:13:00+00:00</updated>
+  <updated>2026-11-06T15:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>OXO Synth2 Free Synth1 Recreation Available for macOS and iPad</title>
+    <link href="https://bedroomproducersblog.com/2026/11/06/oxo-synth2/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/06/oxo-synth2/::v240</id>
+    <published>2026-11-06T15:17:00+00:00</published>
+    <updated>2026-11-06T15:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKWqXFLfuYpc%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/06/oxo-synth2/">bedroomproducersblog.com</a> | <a href="https://oxo-music.com/products/oxo_synth2">oxo-music.com</a></small></p><hr/><p>A new free, open-source virtual analog synthesizer recreates the classic Synth1 for macOS and iPad. Developed by OXO Music, the plugin uses AI-assisted modeling to replicate the original's audio output and parameter behavior, providing a native Apple Silicon alternative for modern systems. It is compatible with macOS 14 and iPadOS 17 in VST3, AU, and AUv3 formats.</p><p>The engine features two oscillators, a sub oscillator, FM, ring modulation, hard sync, and five filter types. Users can import existing .sy1 patches and ZIP banks to maintain compatibility with legacy sound collections. A Windows version is currently in development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKWqXFLfuYpc%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 19:15 UTC | #26677</small>]]></content>
+  </entry>
   <entry>
     <title>Acon Digital Launches Restoration Suite 3</title>
     <link href="https://www.kvraudio.com/news/acon-digital-launches-restoration-suite-3-69668?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69668" rel="alternate" />
