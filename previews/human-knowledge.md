@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Magnetic Fields May Allow White Dwarfs to Exceed the Chandrasekhar Limit</h2>
+<p>New simulations from the Indian Institute of Science (IISc) suggest that white dwarfs can exceed the 1.4 solar mass Chandrasekhar limit if they possess strong internal magnetic fields. As these stellar remnants accumulate matter from companion stars, increasing density strengthens their internal magnetic fields, providing the pressure necessary to counteract gravity and support masses as high as 2.4 solar masses.</p><p>This phenomenon may explain the unexpected brightness of certain Type Ia supernovae, which serve as "standardizable candles" for measuring cosmic expansion. By altering the traditional relationship between a white dwarf's mass and size, magnetic pressure offers a potential explanation for observed anomalies in stellar radii and the luminosity of exploding stars.</p>
+<p>Nov 6 · <a href="https://www.sciencedaily.com/releases/2026/11/261102202835.htm">sciencedaily.com</a></p>
+<br clear="all" />
+
 <h2>Oldest Direct Evidence of Psychoactive Cannabis Use Discovered in 2,800-Year-Old Siberian Tomb</h2>
 <a name="story-26600"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-05797ede-9019-487a-b847-5c0009c99475-1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Archaeologists have discovered the oldest direct evidence of psychoactive cannabis use in a 2,800-year-old royal Scythian tomb known as Tunnug 1 in Siberia. Excavations at the burial mound revealed over 1,400 cannabis seeds scattered around human remains, alongside cannabinoids such as THC detected directly within preserved human hair.</p><p>The findings confirm historical accounts from Herodotus regarding Scythian burial and purification rituals involving cannabis. Researchers plan to conduct further DNA analysis on the ancient seeds to explore the domestication history of the plant and potentially recover ancient genetic traits for modern medicinal or agricultural applications.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26411"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffigures.academia-assets.com%2F110919285%2Ffigure_002.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Using flexible, electrically charged molecular connectors instead of traditional rigid ligands allows for the creation of novel nanoparticle crystal structures. By permitting these connectors to bend and adjust during assembly, researchers can control the number of connections—or valency—each particle makes, facilitating the formation of more open and complex superlattices.</p><p>This discovery addresses a long-standing challenge in materials science where rigid connections often limited assembly to densely packed, uniform arrangements. This method enables the engineering of designer materials with tailored properties for use in electronics, medicine, energy storage, and chemical catalysis.</p>
 <p>Nov 4 · <a href="https://www.sciencedaily.com/releases/2026/11/261104012248.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41563-026-02787-0">nature.com</a></p>
-<br clear="all" />
-
-<h2>NASA Explores Commercial Servicing Options to Extend Hubble Space Telescope Life</h2>
-<a name="story-26409"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Ff8end8KkwPxqqntd6CZgQZ-1200-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>NASA has issued a Request for Information to evaluate whether commercial space companies can provide in-space servicing capabilities to extend the lifespan of the Hubble Space Telescope. The agency is seeking commercial solutions that could raise the telescope into a higher orbit, enhance its performance, or facilitate its safe disposal before atmospheric reentry becomes likely in the mid-2030s.</p><p>Operating in low Earth orbit without an onboard propulsion system, Hubble's altitude is gradually declining due to atmospheric drag. NASA expects the spacecraft to reenter Earth's atmosphere between 2033 and 2034, meaning any orbital boost mission would need to occur by 2032 to prevent atmospheric descent.</p>
-<p>Nov 4 · <a href="https://www.sciencedaily.com/releases/2026/11/261104012254.htm">sciencedaily.com</a> | <a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/">science.nasa.gov</a></p>
 <br clear="all" />
 
 ---
