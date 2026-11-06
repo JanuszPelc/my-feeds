@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Britain to Require Salary Disclosure in Job Advertisements</h2>
+<a name="story-26670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F1d7eb407f5be16fcf089861a9f52ef1e1ac023c4f665929d34bde0fe84bee61e%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05a3c56162e13ad80fef0f8d822b3daf.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Britain plans to introduce legislation requiring employers to publish salary information in job advertisements, as announced by Prime Minister Andy Burnham. The policy aims to empower jobseekers, reduce pay disparities, and help address broader employment challenges.</p><p>The mandate is designed to eliminate the traditional uncertainty applicants face regarding compensation when applying for roles. Further details on the upcoming legislation and its implementation timeline are expected to be brought forward soon.</p>
+<p>Nov 6 · <a href="https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50389222">hacker news</a></p>
+<br clear="all" />
+
 <h2>Airbnb Discloses Option to Invest in and License Tech From CEO Brian Chesky&#x27;s AI Startup</h2>
 <a name="story-26637"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdigitalmarketreports.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-48.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Airbnb disclosed in a regulatory filing that it has secured an option to invest in and license technology from a secretive artificial intelligence startup controlled by CEO Brian Chesky. Chesky has personally self-funded the AI lab so far and plans to continue financing its operations independently.</p><p>The venture represents Chesky’s direct entry into the artificial intelligence space, focusing on user interaction and interface design rather than standard text-based chatbots. Although the lab operates independently from Airbnb, the new disclosure establishes a formal framework for potential future commercial ties between the two entities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26544"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.revenuecat.com%2Fdocs%2Fassets%2Fimages%2Fretention-messaging-api-promotional-2-7bda5a71e94b605ce7df2b2c89068df2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple's new "Retention Messaging" feature allows developers to present personalized messages and special offers to users as they attempt to cancel an auto-renewable subscription. Configured via App Store Connect, developers can provide up to 10 unique messages per app, which may include text, images, or specific discounts intended to encourage users to maintain their subscriptions.</p><p>Unlike Apple's 2024 "Win-Back Offers," which target former subscribers after their service has ended, this tool reaches users during the active cancellation flow. Developers must request access to the Retention Messaging API to implement these features.</p>
 <p>Nov 5 · <a href="https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/">9to5mac.com</a> | <a href="https://developer.apple.com/news/?id=fk9ps3gv">developer.apple.com</a></p>
-<br clear="all" />
-
-<h2>Micron Pauses Work on $4.5 Billion Taiwan Plant After Labor Dispute</h2>
-<a name="story-26548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fm5YG7nxQFmanLkbviJBms-1920-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Micron Technology has suspended construction on its Fab 11E memory chip facility in Taoyuan, Taiwan, amid a protracted labor dispute. The project, budgeted between $3 billion and $4.5 billion, was previously scheduled to begin production in 2028.</p><p>The suspension follows mounting uncertainties surrounding union negotiations, including disagreements over profit-sharing terms. While the U.S. chipmaker has largely halted site work, limited activity continues to secure the facility, and the company has notified local officials and suppliers of the pause.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

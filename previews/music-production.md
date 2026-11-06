@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Algoriffix Releases Pitch Perfekt V2 with Vocal Transformer and Functional Harmony</h2>
+<a name="story-26668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpp-v2-1280x720.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Algoriffix has launched Pitch Perfekt V2, an updated version of its voice-to-MIDI plugin and standalone application that converts live vocals or audio recordings into MIDI data. The latest release introduces two premium capabilities: a Vocal Transformer for real-time live vocal shaping, and Functional Harmony for four-part melody harmonization during file conversion.</p><p>Additional updates in version 2 include refined pitch tracking, key-aware note names, a mains hum filter, and a revised graphical user interface. While the core application remains free, the new Vocal Transformer and Functional Harmony functions are offered as premium add-ons with seven-day trials, supporting VST3, AU, and AAX formats across Windows and macOS.</p>
+<p>Nov 6 · <a href="https://www.kvraudio.com/news/algoriffix-releases-pitch-perfekt-v2-with-vocal-transformer-and-functional-harmony-69664?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69664">kvraudio.com</a> | <a href="https://www.algoriffix.com/pitch-perfekt">algoriffix.com</a></p>
+<br clear="all" />
+
 <h2>ElevenLabs Enables Direct Publishing of AI-Generated Music to SoundCloud</h2>
 <a name="story-26561"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FElevenLabs-Eleven-Music-Royalty-Free-Commercially-Safe-2.thumb.jpg.74ad327298f506a7eed35520e56ff102.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Users of the ElevenMusic platform can now publish AI-generated tracks directly to SoundCloud through a new integration. As part of the partnership, SoundCloud Artist Pro subscribers will receive three months of ElevenMusic Pro, which includes features such as stem file splitting and increased monthly song generation limits.</p><p>The integration arrives as ElevenLabs reports over 25 million tracks created via its models. While SoundCloud is facilitating direct AI music distribution, other major streaming platforms like Deezer, Spotify, and YouTube have primarily focused on labeling or filtering AI-generated content.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FOvermono-Diamond-Cut%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Welsh electronic music duo Overmono have released Diamond Cut, a five-in-one bus processor developed in collaboration with Finnish plug-in company Project Miracle. Named after the duo's track of the same name, the plug-in combines a six-mode limiter, a tonal balancing EQ, soft saturation, a psychoacoustic bass enhancer, and a stereo width tool designed to mirror the group's mixing workflow.</p><p>Priced at £89/$109/€99, the software also features loudness metering, a preset browser, and options for oversampling and dithering. Project Miracle, founded in 2023 by music producers, software engineers, and designers, positions the tool to keep producers in a creative flow state while providing transparent transient preservation and heavy limiting.</p>
 <p>Nov 5 · <a href="https://musictech.com/news/gear/overmono-diamond-cut/">musictech.com</a> | <a href="https://www.projectmiracle.space/">projectmiracle.space</a></p>
-<br clear="all" />
-
-<h2>IRQ inc. Offers 40% Discount on Adeder Limiter and Enhancer</h2>
-<a name="story-26530"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fblack-friday-sale-badges-discount-labels-collection-variety-promotional-badges-tags-black-friday-featuring-432610179.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>IRQ inc. is running a Black Friday sale through December 4, 2026, offering its Adeder Limiter and Adeder Enhancer plugins at a 40% discount. Individual plugins are priced at $23.40, while the two-plugin bundle is available for $41.40.</p><p>The Adeder Limiter, designed by musician Kotobuki Hikaru, features a wide input gain range and a fixed 4,096-sample look-ahead. The Adeder Enhancer focuses on high-frequency enhancement for vocals and narration and is compatible with macOS and Windows in AU, VST3, and AAX formats.</p>
-<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/adeder-limiter-and-enhancer/">bedroomproducersblog.com</a> | <a href="https://irqinc.com/en/products/">irqinc.com</a></p>
 <br clear="all" />
 
 ---

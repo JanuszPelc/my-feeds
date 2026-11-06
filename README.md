@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/music-production.png" width="28" align="texttop" /> &nbsp;Pro Tools 2026.11 Introduces AI Stem Separation and Extensions</h2>
+<a name="story-26514"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Avid has introduced AI stem separation as a new Extension in Pro Tools 2026.11. This feature allows users to separate an audio recording into up to six component stems: vocals, drums, bass, guitar, keys, and other instruments.</p><p>The update also debuts a Pro Tools Extensions ecosystem, enabling third-party developers like Splice and SoundFlow to integrate specialized tools directly into the DAW. Other enhancements in this release include MIDI Polyphonic Expression (MPE) support and High DPI support for Windows.</p>
+<p>Nov 6 · <a href="https://musictech.com/news/pro-tools-now-features-ai-stem-separation/">musictech.com</a> | <a href="https://www.avid.com/resource-center/whats-new-in-pro-tools-202611">avid.com</a></p>
+<br clear="all" />
+
 <h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Anthropic Redacts Key Evidence From METR AI Assessment Report</h2>
 <a name="story-26616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWYa5p6aAAASBIq%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has redacted a significant portion of the most informative evidence from a 100-page assessment report submitted by METR. The evaluation was designed to determine the extent to which AI is accelerating AI research and development within Anthropic.</p><p>The redactions in the public version mean that readers must rely on METR's judgment rather than the raw data to interpret the findings. The assessment focused on whether Anthropic's internal capability growth has accelerated and how much of that acceleration is attributable to AI.</p>
@@ -101,12 +107,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26414"><img src="https://wsrv.nl/?url=https%3A%2F%2Finventure.com.ua%2Fupload%2Fpic2015%2FSequoia-Capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Venture capital firm Sequoia Capital is closing its London office, concluding its six-year physical presence in Europe. The Silicon Valley-based firm stated that it no longer requires a local office to support European startups and will instead manage investments from its Bay Area headquarters.</p><p>The closure is part of a broader corporate restructuring that includes raising approximately $10 billion in new funds, sunsetting its Arc accelerator and Scouts programs, and merging its early-stage and growth operations. While some London-based partners are relocating to California, others are choosing to remain in Europe to back regional founders independently.</p>
 <p>Nov 5 · <a href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat">pathfounders.com</a> | <a href="https://x.com/sequoia/status/2117961312143855764">x.com</a></p>
-<br clear="all" />
-
-<h2><img src="images/tech-policy.png" width="28" align="texttop" /> &nbsp;Democratic Gubernatorial Wins Threaten US AI Data Center Expansion with Increased Scrutiny</h2>
-<a name="story-26381"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxnews.com%2Ffoxnews.com%2Fcontent%2Fuploads%2F2025%2F09%2F1200%2F675%2Fai-data-center.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Democratic gubernatorial victories in Texas, Georgia, Ohio, and Pennsylvania threaten to subject roughly half of all proposed U.S. artificial intelligence data center additions to heightened regulatory scrutiny and local pushback. These political shifts introduce new hurdles for developers racing to build power-intensive infrastructure campuses to meet surging computational demands.</p><p>The anticipated regulatory friction follows mounting pressures from local power grid strains, escalating construction costs, and community resistance over water and electricity consumption. As state leadership changes, developers face a more complex operating landscape for securing permits and navigating regional energy mandates.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
