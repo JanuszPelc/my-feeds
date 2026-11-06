@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-06T06:30:00+00:00</updated>
+  <updated>2026-11-06T07:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>NASA's Neil Gehrels Swift Observatory Re-Enters Earth's Atmosphere After 22 Years</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261105224545.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261105224545.htm::v240</id>
+    <published>2026-11-06T07:13:00+00:00</published>
+    <updated>2026-11-06T07:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.ecoticias.com%2Fen%2Fwp-content%2Fuploads%2F2026%2F07%2Fnasa-neil-gehrels-swift-space-telescope-clean-room-prelaunch.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261105224545.htm">sciencedaily.com</a> | <a href="https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/">science.nasa.gov</a></small></p><hr/><p>NASA's Neil Gehrels Swift Observatory re-entered Earth's atmosphere over North Sumatra, Indonesia, after spending nearly 22 years in space. Launched in 2004 with an initial two-year lifespan, the multiwavelength space telescope was built to detect and investigate gamma-ray bursts and other high-energy cosmic explosions.</p><p>Throughout its extended operations, Swift's rapid-response capability enabled astronomers to redirect its instruments toward sudden celestial events and coordinate worldwide follow-up observations. While most of the spacecraft burned up during re-entry, its two decades of data collection substantially advanced the study of supermassive black holes, supernovae, and active galaxies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ecoticias.com%2Fen%2Fwp-content%2Fuploads%2F2026%2F07%2Fnasa-neil-gehrels-swift-space-telescope-clean-room-prelaunch.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 12:16 UTC | #26658</small>]]></content>
+  </entry>
   <entry>
     <title>Potential Sciences Launches With Funding to Advance Physics-Based AI Drug Discovery</title>
     <link href="https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/" rel="alternate" />
