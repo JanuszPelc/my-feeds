@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>X-87 256-Byte DOS Procedural Landscape Program Released</h2>
+<a name="story-26667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.onirom.fr%2Fwiki%2Fcodegolf%2Fx-87%2Fimages%2F0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>X-87 is a 256-byte DOS program created for Outline 2026 that renders a stylized, barren landscape using x86 and x87 floating-point math in real mode. Running via VESA 2 at 640x400 resolution in 32-bit color, the procedural graphics rely on mathematical oscillators developed from earlier p5.js sketches.</p><p>The development process spanned iterative prototyping in Forth and Gforth, translating vector-based sketches into stack-based FPU instructions, and optimizing code size to fit within the strict 256-byte constraint. The program incorporates dither-like colorization and ensures compatibility across emulators like DOSBox and Bochs through compressed loops and segment initialization tricks.</p>
+<p>Nov 6 · <a href="https://www.onirom.fr/wiki/codegolf/x-87/">onirom.fr</a> | <a href="https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes">lobsters</a></p>
+<br clear="all" />
+
 <h2>BUI Decouples Blender Interface into Standalone Multi-Language UI Library</h2>
 <a name="story-26666"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdevtalk.blender.org%2Fuploads%2Fdefault%2Foriginal%2F3X%2F0%2Fd%2F0d1d684ab8e8c6cb17e713cefe67a14ecb6c42d4.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>BUI is an open-source UI library that decouples Blender's GPU-accelerated interface from its core codebase to provide a standalone toolset for developers. It features native bindings for Python, Rust, JavaScript, React, C, C++, and Dear ImGui, allowing applications to utilize Blender's interface components and rendering performance without requiring Blender to be installed.</p><p>The library replicates Blender's core interaction rules, including continuous drag number fields, math expression evaluators, and fuzzy menu searches, while supporting legacy tkinter applications and modern web-like styling frameworks. Built for resource efficiency, BUI uses damage rendering and an optional GPU backend to deliver high frame rates with minimal CPU overhead.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2Fjsonv2%2Fapi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Go 1.27 introduces stable encoding/json/v2 and encoding/json/jsontext packages to address flaws in the original encoding/json implementation. The new packages resolve issues involving invalid UTF-8 acceptance, duplicate JSON member names, and performance limitations stemming from non-streaming marshaling and unmarshaling.</p><p>The API separates syntactic JSON processing in jsontext from semantic Go type mapping in json/v2. This architecture enables efficient streaming through MarshalerTo and UnmarshalerFrom interfaces and offers enhanced configurability through a variadic Options parameter that can be utilized by both standard functions and custom type methods.</p>
 <p>Nov 4 · <a href="https://go.dev/blog/jsonv2">go.dev</a> | <a href="https://news.ycombinator.com/item?id=50369106">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nicholas Nethercote Details Rust Compiler Performance Improvements for November 2026</h2>
-<a name="story-26475"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.rust-lang.org%2Finside-rust%2F2020%2F11%2F11%2Fexploring-pgo-for-the-rust-compiler%2Frustc-perf-pgo-llvm-expanded.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nicholas Nethercote outlines recent performance optimization work on the Rust compiler conducted for Hexcat through November 2026. Key updates include a redesigned and more efficient compression scheme for compiler spans, micro-optimizations for span operations, single-entry caching for parent span lookups, and targeted instruction reductions for the in-development new trait solver on complex crates like Diesel.</p><p>Additional improvements feature metadata sparse encoding mechanisms that reduce peak memory and metadata sizes, along with code rearrangements to eliminate unnecessary work during early returns and metadata encoding. Overall benchmark results for the monthly period show a mean wall-time reduction of 2.85 percent and a mean max-RSS peak memory reduction of 4.46 percent across test suites.</p>
-<p>Nov 4 · <a href="https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html">nnethercote.github.io</a> | <a href="https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50367007">hacker news</a></p>
 <br clear="all" />
 
 ---
