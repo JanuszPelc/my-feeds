@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Pauses Commercial Terms Update Following Backlash Over AI Training</h2>
+<a name="story-26610"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FSocial_Media_Kids_Trial_26050035832286.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta has indefinitely halted a planned update to its commercial terms that would have authorized the company to scrape content from business-related websites to train its generative AI models. Originally slated for October 30, the update was delayed to November 20 before being paused entirely to allow for stakeholder consultation.</p><p>The decision follows outcry from journalists and publishers who warned the new terms would allow Meta to harvest work from the open web. Regulatory scrutiny has also escalated, with a Norwegian court granting a temporary injunction and the UK Competition and Markets Authority launching an investigation into the proposed changes.</p>
+<p>Nov 5 · <a href="https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/">404media.co</a> | <a href="https://www.facebook.com/business/help/2481113349080785/">facebook.com</a></p>
+<br clear="all" />
+
 <h2>Meta Launches Muse Voice Video Chatting for US Users</h2>
 <a name="story-26606"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshiftdelete.net%2Fstatic%2Fimg%2Fcontent%2F26-11%2F05%2Fmeta-muse-voice.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has released Muse Voice in the United States, enabling video calls and live voice conversations with its Muse AI agent. The feature utilizes Muse Realtime Avatar and Muse Realtime Voice technology to power an animated avatar that uses gestures and expressions to match the tone of a conversation.</p><p>Users can customize the avatar, currently nicknamed Jolly, to look like a person, animal, or other character. While currently supported on mobile, web, and Mac, Meta plans to expand functionality to its AI Glasses and the upcoming Muse Charm wearable.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26506"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eesel.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcdn-public.eesel.ai%2F355ca1d8-3d7c-4618-973f-22c7b8780d42%2F48a0ef84-d2a4-48f0-9c4c-79c75fe7aa4d%2F9accf1eee6cc4dbabb580567eb3a30cc.png%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI President Greg Brockman reported a revenue inflection in the third quarter of 2026, fueled by agentic coding tools, ChatGPT Work, and the GPT-5.6 Sol model. This growth is driven by an expanding enterprise business segment.</p><p>The revenue surge follows a difficult first half of 2026, a period when the company struggled to compete with rival Anthropic for business customers. OpenAI now generates most of its revenue from enterprise sales and is reportedly preparing for an IPO in 2027.</p>
 <p>Nov 5 · <a href="https://www.wsj.com/tech/openai-had-rough-first-half-of-year-before-coding-takeoff-brockman-says-6c97d9e5?st=hL3kyT&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>AI Skill Requirements Rise in UK Entry-Level Job Market</h2>
-<a name="story-26505"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1%2AHF_7n1cU3lgEJfLjHFt3dw.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Adzuna reports that UK entry-level job postings mentioning artificial intelligence have nearly tripled since early 2025. Additionally, Indeed data shows that one in six vacancies in AI-exposed sectors now includes AI requirements, representing a twofold year-over-year increase.</p><p>This trend follows a broader decline in entry-level opportunities in the UK, which saw a 32% decrease in advertised positions since the launch of ChatGPT in late 2022. The growing demand for AI proficiency suggests that technical literacy is becoming a critical factor for young workers entering the workforce.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
