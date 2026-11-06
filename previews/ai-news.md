@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Unsloth Releases Dynamic V3.1 GGUFs for Qwen3.8-Flash-Next</h2>
+<a name="story-26682"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHQG-Srza0AEB0kf%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Unsloth has released Dynamic V3.1 GGUF quantizations for the Qwen3.8-Flash-Next model, reporting a 10 to 15 percent increase in accuracy alongside reduced token usage and faster processing speeds.</p><p>The update also introduces major platform enhancements across the Unsloth application, including improved Glass theme rendering, unified memory offloading for larger models, individual web browsers for separate chats, and faster image and video generation performance on multi-GPU hardware.</p>
+<p>Nov 6 · <a href="https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next-dynamic-v3.1">unsloth.ai</a></p>
+<br clear="all" />
+
 <h2>Runlayer Launches Interactive Model Context Protocol Explainer Guide</h2>
 <a name="story-26656"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F18%2F1a%2Ff7%2F181af7103af9799efd9397397a10bbd4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Runlayer has released MCP Explained, an interactive guide that illustrates how the Model Context Protocol connects artificial intelligence applications to external tools and data. The platform maps out every JSON-RPC message on the wire, detailing transports, capability negotiations, and interactions between AI hosts, servers, and models.</p><p>Aimed at developers building AI agents and applications, the resource provides step-by-step visualizations of authentication, prompt execution, and resource handling. By clarifying how models delegate tasks to servers without direct communication, the guide helps developers design and debug MCP-compliant integrations more effectively.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26504"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnsfocusglobal.com%2Fwp-content%2Fuploads%2F2026%2F05%2F0508a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI researchers developed an autonomous pipeline to identify, validate, and patch security flaws in the Linux kernel. The prototype analyzed 2,308 candidate findings, reproduced 1,724 vulnerabilities, and generated 948 local privilege escalation exploits and their corresponding patches.</p><p>The five-stage process—comprising discovery, dynamic validation, exploitability assessment, patch generation, and human review—is powered by specialized cyber models. This research aims to reduce the operational burden on security maintainers and increase the cost for attackers to exploit software.</p>
 <p>Nov 5 · <a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50372929">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ricursive Intelligence Releases Ripple-65B Preview for Agentic Coding</h2>
-<a name="story-26496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fricursive-ripple-65b-preview-open-weight-coding-model.16x9.jpg%3Fv%3Dog2-4fb8ik&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ricursive Intelligence has developed Ripple-65B Preview, an open-weight model for agentic coding that achieved a TerminalBench 2.1 score of 80.5. The training utilized a compute-efficient reinforcement learning (RL) recipe requiring only 1.4 million rollouts, which is approximately 70 times fewer than the previous state-of-the-art model, Reflection Beam.</p><p>The model's development cost is estimated at $32 million, representing roughly one-tenth the cost of prior open-weight state-of-the-art models in the coding domain. The training process relied on custom synthetic data pipelines and specific RL techniques, including truncated importance sampling, score centering, and linear length penalty.</p>
-<p>Nov 4 · <a href="https://www.ricursive.com/ripple">ricursive.com</a> | <a href="https://news.ycombinator.com/item?id=50369925">hacker news</a></p>
 <br clear="all" />
 
 ---

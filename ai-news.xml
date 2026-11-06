@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-06T07:06:00+00:00</updated>
+  <updated>2026-11-06T09:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Unsloth Releases Dynamic V3.1 GGUFs for Qwen3.8-Flash-Next</title>
+    <link href="https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next-dynamic-v3.1" rel="alternate" />
+    <id>https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next-dynamic-v3.1::v240</id>
+    <published>2026-11-06T09:36:00+00:00</published>
+    <updated>2026-11-06T09:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHQG-Srza0AEB0kf%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next-dynamic-v3.1">unsloth.ai</a></small></p><hr/><p>Unsloth has released Dynamic V3.1 GGUF quantizations for the Qwen3.8-Flash-Next model, reporting a 10 to 15 percent increase in accuracy alongside reduced token usage and faster processing speeds.</p><p>The update also introduces major platform enhancements across the Unsloth application, including improved Glass theme rendering, unified memory offloading for larger models, individual web browsers for separate chats, and faster image and video generation performance on multi-GPU hardware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHQG-Srza0AEB0kf%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 14:50 UTC | #26682</small>]]></content>
+  </entry>
   <entry>
     <title>Runlayer Launches Interactive Model Context Protocol Explainer Guide</title>
     <link href="https://mcp-explained.com/" rel="alternate" />
