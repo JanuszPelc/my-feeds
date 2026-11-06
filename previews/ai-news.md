@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Perplexity Launches Teammates AI Agents for Work</h2>
+<a name="story-26640"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eesel.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fwmeojibgfvjvinftolho.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic_assets%2Fblog-gen%2F363f97fd-5263-454d-9760-964145ba7fa7%26w%3D1680%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Perplexity has launched "Teammates," a new feature that provides always-on, persistent AI agents designed to handle ongoing work within a workspace. Built on top of Perplexity Computer, these agents can manage simultaneous, long-term tasks while inheriting the user's projects, skills, memory, and tool permissions.</p><p>Available exclusively on Perplexity's $200-per-month Max plan, Teammates operate in isolated desktops and browsers with individual threads and integrate with communication tools like Slack. The feature allows users to delegate complex responsibilities rather than coordinating individual tasks manually, positioning Perplexity alongside competing agent offerings from companies like OpenAI and Anthropic.</p>
+<p>Nov 6 · <a href="https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work">theverge.com</a> | <a href="https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work">perplexity.ai</a></p>
+<br clear="all" />
+
 <h2>Thinking Machines Lab Debuts Inkling 2 Small MoE Model</h2>
 <a name="story-26630"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F11%2F05185815%2Flibrary-thinking-machines-releases-inkling-2-small-scores-31-on-.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Thinking Machines Lab has debuted Inkling 2 Small, a Mixture-of-Experts (MoE) model featuring 594 billion total parameters and 17 billion active parameters. The model supports multimodal inputs, including images, and provides variable effort capabilities.</p><p>The model is currently accessible via the Thinking Machines Tinker platform, with weights planned for release next week following safety testing.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26439"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pangram.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.sanity.io%252Fimages%252F6vunltag%252Fproduction%252Fd7c9d0ad9cc0fcf85fcc18a8842d2ab8171b8593-2653x1196.png%253Fw%253D1200%2526q%253D85%2526auto%253Dformat%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pangram has released Pangram Image 1.0 and Pangram Image Flash 1.0, its new flagship models designed to detect AI-generated images and videos. Pangram Image 1.0 features heatmap output for localizing AI content within images, robustness against compression and edits, and a lower minimum resolution threshold of 256x256.</p><p>The companion Pangram Image Flash 1.0 model provides frame-by-frame analysis for frontier AI video generators. Along with the model releases, Pangram updated its API and integrated the detection technology into a Chrome extension to flag AI-generated content across social media and other online platforms.</p>
 <p>Nov 4 · <a href="https://www.pangram.com/blog/introducing-pangram-image-1-0">pangram.com</a> | <a href="https://news.ycombinator.com/item?id=50368458">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI to Acquire Developer Tools Startup Pierre Computer</h2>
-<a name="story-26400"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F4UHvmFzOTfTxvgzb6HHGbE%2F777fc088dd126fff783d2f26a97c451e%2FCodex_SDK_1x1.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI has agreed to acquire Pierre Computer, a developer tools startup whose technology is already integrated into OpenAI's Codex code-generation model. Financial terms of the deal were not disclosed, and Pierre's open-source projects will continue to remain open-source.</p><p>The acquisition positions OpenAI to compete more directly with Microsoft-owned GitHub as AI agents assume a growing share of software development tasks. Alongside the deal, OpenAI recently unveiled Pando, an internal infrastructure system designed to manage the surge of AI-generated code.</p>
-<p>Nov 4 · <a href="https://www.axios.com/2026/11/04/openai-pierre-computer-github">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50366863">hacker news</a></p>
 <br clear="all" />
 
 ---
