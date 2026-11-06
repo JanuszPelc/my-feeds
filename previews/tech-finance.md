@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nasdaq 100 and Philadelphia Semiconductor Index Plunge Amid AI Trade Concerns</h2>
+<a name="story-26618"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmicms.stonex.com%2Fsites%2Fdefault%2Ffiles%2Finline-images%2Fimage-20260428144325-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Nasdaq 100 fell 6%, wiping out $2.3 trillion in market value, while the Philadelphia semiconductor index dropped 12%. This technology sector selloff, the largest since 2020, was triggered by investor concerns regarding the artificial intelligence trade following Democratic victories in congressional elections.</p><p>The decline highlights growing anxiety over the long-term sustainability of AI-related capital expenditures and potential shifts in the political landscape. Semiconductor stocks bore the brunt of the volatility as investors exited positions in companies focused on AI infrastructure and data center construction.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Wonder Group Confidentially Files for U.S. Initial Public Offering</h2>
 <p>Food-tech and delivery startup Wonder Group has confidentially filed a draft registration statement on Form S-1 with the U.S. Securities and Exchange Commission for a proposed initial public offering of Class A common stock. Led by former Walmart executive Marc Lore, the company is preparing for a public market debut following significant venture backing and major expansions.</p><p>Founded in 2018, Wonder operates a vertically integrated delivery and restaurant platform that acquired Grubhub for $650 million and previously absorbed meal-kit provider Blue Apron. The company raised $650 million at a $9 billion pre-money valuation in July, positioning itself among the most heavily funded consumer food startups ahead of its planned stock market listing.</p>
 <p>Nov 5 · <a href="https://www.reuters.com/business/marc-lores-wonder-group-confidentially-files-us-ipo-2026-11-05/">reuters.com</a> | <a href="https://about.wonder.com/news/details/2026/Wonder-Announces-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering-2026-cXCTZHXMc2/default.aspx">about.wonder.com</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcrispybull.com%2Fwp-content%2Fuploads%2F2025%2F10%2FTether-TRON-Financial-Crime-Unit.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The T3 Financial Crime Unit, a collaborative initiative established by Tron, Tether, Binance, and TRM Labs to combat illicit crypto activity, was quietly dissolved in August. The alliance disbanded following concerns over slow response times, despite having frozen approximately $250 million in suspicious assets during its operation.</p><p>The dissolution comes as the digital asset sector faces heightened security challenges, including major exploits and rising illicit transactions. The collapse of the joint task force highlights ongoing difficulties in coordinating rapid cross-firm responses among major cryptocurrency infrastructure providers to curb cybercrime.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Crypto and AI Super PACs Lose Majority of Competitive 2026 Midterm Races</h2>
-<a name="story-26424"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.citationneeded.news%2Fcontent%2Fimages%2F2026%2F11%2Felection-outcomes-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Crypto and artificial intelligence companies spent approximately $250 million during the 2026 midterm elections to shape future industry regulations, but their super PACs experienced significant defeats in competitive races. Out of twelve competitive races called by early November, industry-backed candidates lost nine, with political action committees investing $74.7 million into losing campaigns compared to just $28.3 million on winning ones.</p><p>High-profile losses included the Ohio Senate race, where Democrat Sherrod Brown defeated a record $64 million crypto-funded effort to unseat him, alongside defeats in numerous other Senate and House contests. Despite these setbacks in battlegrounds, the industry maintained a superficially high win rate by heavily backing candidates in safe seats where victory was practically guaranteed.</p>
-<p>Nov 4 · <a href="https://www.citationneeded.news/2026-election-results/">citationneeded.news</a></p>
 <br clear="all" />
 
 ---
