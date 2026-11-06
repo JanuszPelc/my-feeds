@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Cyera Planning $800 Million Funding Round at $20 Billion Valuation</h2>
+<a name="story-26629"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F22xmfoma%2Fproduction%2F4842081e50ed1f3853ca75dd4886c58782f36918-1920x1080.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cybersecurity startup Cyera is seeking a $20 billion valuation in a planned $800 million funding round led by Cyberstarts. This proposed valuation is a significant increase from the $12 billion valuation recorded in June.</p><p>The funding follows a $600 million Series G and a $400 million extension from Goldman Sachs earlier this year. The scale of the raise suggests sustained investor appetite for the cybersecurity sector.</p>
+<p>Nov 6 · <a href="https://www.theinformation.com/articles/cyeras-800-million-haul-shows-cyber-fever-broken">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>New York Times Company in Advanced Talks to Acquire Letterboxd</h2>
 <a name="story-26627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The New York Times Company is in exclusive negotiations to acquire Letterboxd, a social network for film enthusiasts, for approximately $330 million. The proposed deal would likely see Letterboxd continue operating as a standalone site with its co-founders remaining in leadership positions.</p><p>The acquisition is part of the Times Company’s strategy to expand its portfolio of subscription and advertising-based digital products, following acquisitions like The Athletic and Wordle. By integrating Letterboxd’s 30 million users, the company aims to reach its goal of 15 million total subscribers by the end of 2027.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FSNAP-RESULTS%2Fakveoyxmjvr%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Snap Inc. shares fell more than 9% in after-hours trading after the company reported third-quarter daily active user growth that missed analyst estimates. While revenue rose 14% year-over-year to $1.72 billion, matching market expectations, the company reported 495 million daily active users compared to the 499 million projected.</p><p>The company reported a quarterly net income of $56 million and adjusted EBITDA of $383 million. Additionally, Snap recorded $210 million in operating cash flow and $164 million in free cash flow for the quarter.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates">bloomberg.com</a> | <a href="https://investor.snap.com/news/news-details/2026/Snap-Inc--Announces-Third-Quarter-2026-Financial-Results/default.aspx">investor.snap.com</a></p>
-<br clear="all" />
-
-<h2>Qualcomm Reports $10.3 Billion in Fourth-Quarter Revenue Amid Handset Slump</h2>
-<a name="story-26472"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2024%2F11%2FQualcomm-Q4-2024-earnings-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Fourth-quarter revenue fell 8% year-over-year to $10.3 billion, exceeding analyst estimates of $10.1 billion. Conversely, handset revenue dropped 26% to $5.14 billion, falling short of the projected $5.25 billion.</p><p>The semiconductor firm is looking to offset declining smartphone demand by expanding into new markets such as automotive. Despite the revenue beat, the company's stock dropped more than 5% after hours following a weak profit forecast.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump">bloomberg.com</a> | <a href="https://www.qualcomm.com/news/releases/2025/11/qualcomm-announces-fourth-quarter-and-fiscal-2025-results">qualcomm.com</a></p>
 <br clear="all" />
 
 ---
