@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Runlayer Launches Interactive Model Context Protocol Explainer Guide</title>
+    <link href="https://mcp-explained.com/" rel="alternate" />
+    <id>https://mcp-explained.com/::v240</id>
+    <published>2026-11-06T04:08:00+00:00</published>
+    <updated>2026-11-06T04:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F18%2F1a%2Ff7%2F181af7103af9799efd9397397a10bbd4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://mcp-explained.com/">mcp-explained.com</a> | <a href="https://news.ycombinator.com/item?id=50379249">hacker news</a></small></p><hr/><p>Runlayer has released MCP Explained, an interactive guide that illustrates how the Model Context Protocol connects artificial intelligence applications to external tools and data. The platform maps out every JSON-RPC message on the wire, detailing transports, capability negotiations, and interactions between AI hosts, servers, and models.</p><p>Aimed at developers building AI agents and applications, the resource provides step-by-step visualizations of authentication, prompt execution, and resource handling. By clarifying how models delegate tasks to servers without direct communication, the guide helps developers design and debug MCP-compliant integrations more effectively.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F18%2F1a%2Ff7%2F181af7103af9799efd9397397a10bbd4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 11:26 UTC | #26656</small>]]></content>
+  </entry>
+  <entry>
     <title>Google Launches Gemini Omni 1.2 Flash with 15-Second Video Support and Lower Pricing</title>
     <link href="https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/" rel="alternate" />
     <id>https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/::v240</id>

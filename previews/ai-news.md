@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Runlayer Launches Interactive Model Context Protocol Explainer Guide</h2>
+<a name="story-26656"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F18%2F1a%2Ff7%2F181af7103af9799efd9397397a10bbd4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Runlayer has released MCP Explained, an interactive guide that illustrates how the Model Context Protocol connects artificial intelligence applications to external tools and data. The platform maps out every JSON-RPC message on the wire, detailing transports, capability negotiations, and interactions between AI hosts, servers, and models.</p><p>Aimed at developers building AI agents and applications, the resource provides step-by-step visualizations of authentication, prompt execution, and resource handling. By clarifying how models delegate tasks to servers without direct communication, the guide helps developers design and debug MCP-compliant integrations more effectively.</p>
+<p>Nov 6 · <a href="https://mcp-explained.com/">mcp-explained.com</a> | <a href="https://news.ycombinator.com/item?id=50379249">hacker news</a></p>
+<br clear="all" />
+
 <h2>Google Launches Gemini Omni 1.2 Flash with 15-Second Video Support and Lower Pricing</h2>
 <a name="story-26642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.androidheadlines.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGoogle-Omni-1.2-Flash-AI-Video-Generator-Model-1420x799.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google DeepMind has released Gemini Omni 1.2 Flash to general availability, introducing native 15-second video clip generation and a 30 percent price reduction to $0.07 per second for 720p output. The multimodal model accepts text, image, video, and audio inputs, producing video clips with synchronized audio and applying a SynthID watermark to all outputs.</p><p>The update features multi-turn conversational editing, allowing users to modify specific elements like lighting, backgrounds, or aspect ratios step by step without regenerating entire clips. It also enhances reference image adherence and character consistency across camera angles, tailoring the model for commercial production workflows such as virtual try-ons and product advertisements.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fricursive-ripple-65b-preview-open-weight-coding-model.16x9.jpg%3Fv%3Dog2-4fb8ik&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ricursive Intelligence has developed Ripple-65B Preview, an open-weight model for agentic coding that achieved a TerminalBench 2.1 score of 80.5. The training utilized a compute-efficient reinforcement learning (RL) recipe requiring only 1.4 million rollouts, which is approximately 70 times fewer than the previous state-of-the-art model, Reflection Beam.</p><p>The model's development cost is estimated at $32 million, representing roughly one-tenth the cost of prior open-weight state-of-the-art models in the coding domain. The training process relied on custom synthetic data pipelines and specific RL techniques, including truncated importance sampling, score centering, and linear length penalty.</p>
 <p>Nov 4 · <a href="https://www.ricursive.com/ripple">ricursive.com</a> | <a href="https://news.ycombinator.com/item?id=50369925">hacker news</a></p>
-<br clear="all" />
-
-<h2>DuckDuckGo Pitches to Schools Following Google AI Policy Backlash</h2>
-<a name="story-26458"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwebpulsehq.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fgenerated-image-5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DuckDuckGo is positioning its search engine as an alternative for schools following Google’s policy update requiring educational institutions to accept AI features or lose access to Google Search entirely. DuckDuckGo executives have highlighted the company's privacy-focused features and provided deployment documentation to help schools switch their default search engines.</p><p>The push comes as educators and districts increasingly seek ways to completely remove artificial intelligence from the learning environment. While Google defended its decision by stating that AI tools like Gemini and Search are turned off by default for K-12 schools, its modern search infrastructure heavily incorporates AI overviews and conversational features that many schools wish to avoid.</p>
-<p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
