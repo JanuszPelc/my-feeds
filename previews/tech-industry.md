@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Launches Muse Voice Video Chatting for US Users</h2>
+<a name="story-26606"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshiftdelete.net%2Fstatic%2Fimg%2Fcontent%2F26-11%2F05%2Fmeta-muse-voice.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta has released Muse Voice in the United States, enabling video calls and live voice conversations with its Muse AI agent. The feature utilizes Muse Realtime Avatar and Muse Realtime Voice technology to power an animated avatar that uses gestures and expressions to match the tone of a conversation.</p><p>Users can customize the avatar, currently nicknamed Jolly, to look like a person, animal, or other character. While currently supported on mobile, web, and Mac, Meta plans to expand functionality to its AI Glasses and the upcoming Muse Charm wearable.</p>
+<p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/">techcrunch.com</a> | <a href="https://research.meta.ai/blog/bringing-your-muse-to-life">research.meta.ai</a></p>
+<br clear="all" />
+
 <h2>Microsoft Tightens Oversight of Neocloud Data Center Projects Amid Delays and Costs</h2>
 <a name="story-26578"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FXBoRee.3WAWRrhEdDmEdPA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU1MTtjZj13ZWJw%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fbc51d24e7e57b45becaba0417aee31b1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft is increasing oversight of its data center projects with upstart neocloud operators like IREN, Nebius, and Nscale, stepping away from ventures deemed risky amid rising costs and delivery delays. The company has committed tens of billions of dollars to these partners to secure artificial intelligence computing capacity.</p><p>The tighter scrutiny follows physical buildout delays and power constraints that contributed to a recent capital spending shortfall for Microsoft. While the cloud giant debates whether to pursue additional neocloud contracts, its total committed spending in this sector has surpassed $60 billion.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26505"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1%2AHF_7n1cU3lgEJfLjHFt3dw.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Adzuna reports that UK entry-level job postings mentioning artificial intelligence have nearly tripled since early 2025. Additionally, Indeed data shows that one in six vacancies in AI-exposed sectors now includes AI requirements, representing a twofold year-over-year increase.</p><p>This trend follows a broader decline in entry-level opportunities in the UK, which saw a 32% decrease in advertised positions since the launch of ChatGPT in late 2022. The growing demand for AI proficiency suggests that technical literacy is becoming a critical factor for young workers entering the workforce.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Samsung Ex-Employee Sentencing Highlights Intensifying Semiconductor Talent Rivalry and Trade Secret Enforcement</h2>
-<a name="story-26502"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabiedu.com%2Fwp-content%2Fuploads%2F2024%2F12%2Fabiedu-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A former Samsung Electronics employee was sentenced by the Seoul High Court to five years in prison for leaking DRAM process technology to Chinese memory chipmaker ChangXin Memory Technologies, or CXMT. The case underscores an escalating global competition for semiconductor engineering talent as Chinese manufacturers rapidly close technological gaps despite U.S. export restrictions.</p><p>Established chipmakers like Samsung are increasingly utilizing strict non-compete agreements, internal security measures, and legal protections to stem talent outflows to competitors such as CXMT and Micron. Meanwhile, legal experts note that protecting intangible manufacturing expertise and defining trade secrets remains a complex challenge across jurisdictions including South Korea, Taiwan, Singapore, and Hong Kong.</p>
-<p>Nov 5 · <a href="https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html">cnbc.com</a></p>
 <br clear="all" />
 
 ---
