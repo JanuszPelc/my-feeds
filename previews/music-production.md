@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Chuck Sutton Releases Take 5: The Search For Sound Ableton Live Game</h2>
+<a name="story-26663"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTake-5-The-Search-For-Sound.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Producer Chuck Sutton has released Take 5: The Search For Sound, a five-minute audio-driven game built inside Ableton Live. Designed to help musicians break through creative blocks, the game completely removes visuals, immersing players in a non-visual sonic landscape where they explore environments, defeat enemies, and solve rhythmic puzzles using a keyboard or controller.</p><p>Conceived during an overnight flight when looking at a screen was impractical, the game generates unexpected melodies, synth sounds, and MIDI tracks as players navigate by sound alone. It aims to spark fresh musical ideas quickly before users return to their primary production projects, and is available now for $25.</p>
+<p>Nov 6 · <a href="https://musictech.com/news/music/take-5-five-the-search-for-sound-ableton-live-game/">musictech.com</a> | <a href="https://takefive.quest/">takefive.quest</a></p>
+<br clear="all" />
+
 <h2>FMJ-Software Releases Awave Studio v12.17</h2>
 <a name="story-26653"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fawmain.1773337690.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>FMJ-Software has released version 12.17 of Awave Studio, an audio editor and format converter for sampled instruments and various audio file types. This maintenance release focuses primarily on bug fixes across the software's support for more than 400 different file formats.</p><p>In addition to format fixes, the update improves the overall stability of the built-in software synthesizer. Awave Studio functions as a multi-purpose tool capable of reading and converting a wide variety of audio formats from different platforms and hardware devices.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>Freqport Offers 50% Discount on FreqLift Plugin</h2>
 <p>Using the code FL1BP50VIP, BPB readers can purchase the FreqLift saturation and dynamics plugin for €49.50 instead of €99 through November 15, 2026. The software is compatible with macOS and Windows in VST3, AAX, and AU formats.</p><p>The plugin combines upward compression, tube saturation, and clipping, with settings for both single-band and two-band processing. While it functions as a standard software plugin, it can integrate with FreqTube FT1 hardware to utilize real tubes for saturation.</p>
 <p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/freqlift-bpb/">bedroomproducersblog.com</a> | <a href="https://www.freqport.com/product/freqlift_saturation_dynamics_plugin/">freqport.com</a></p>
-<br clear="all" />
-
-<h2>Sinevibes Releases Malfunction v3.0 Circuit-Bent Filter Plugin</h2>
-<a name="story-26555"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsinevibesmalfunction-v3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sinevibes has released Malfunction version 3.0, a circuit-bent filter effect plugin for macOS, Windows, and Linux. The software uses an experimental algorithm that simulates tampered internal filter connections to generate distorted and glitchy textures.</p><p>The update includes a multi-mode state variable filter with five modes, two advanced LFOs with 15 waveforms, and 4x oversampling for aliasing suppression. Malfunction is available in VST3, AU, and AAX formats for $29.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/sinevibes-releases-malfunction-v3-0-69639?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69639">kvraudio.com</a> | <a href="https://www.sinevibes.com/malfunction/">sinevibes.com</a></p>
 <br clear="all" />
 
 ---
