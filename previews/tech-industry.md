@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Airbnb Discloses Option to Invest in and License Tech From CEO Brian Chesky&#x27;s AI Startup</h2>
+<a name="story-26637"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdigitalmarketreports.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-48.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Airbnb disclosed in a regulatory filing that it has secured an option to invest in and license technology from a secretive artificial intelligence startup controlled by CEO Brian Chesky. Chesky has personally self-funded the AI lab so far and plans to continue financing its operations independently.</p><p>The venture represents Chesky’s direct entry into the artificial intelligence space, focusing on user interaction and interface design rather than standard text-based chatbots. Although the lab operates independently from Airbnb, the new disclosure establishes a formal framework for potential future commercial ties between the two entities.</p>
+<p>Nov 6 · <a href="https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup">theinformation.com</a></p>
+<br clear="all" />
+
+<h2>Mark Cuban Criticizes Meta Over AI Deepfake Scam Ads Following Internal Revenue Revelations</h2>
+<a name="story-26650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2Fef03018e0d56f1d86301b5666640b375c65417d9b1c1c25bb017f83d39552301%2Flightyear_networkapi%2Fresizefit_w960%253Bquality_80%253Bformat_webp%2Fhttps%253A%252F%252Fmedia.zenfs.com%252Fen%252Fmoneywise_327%252F892777675c4b84ce45a666a8bfe1fb93.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Billionaire investor Mark Cuban has criticized Meta for knowingly allowing AI deepfake scam ads to run across its platforms, noting that fraudulent promotions featuring his likeness for fake medical products frequently target vulnerable users. Cuban's comments align with internal Meta documents showing the company projected roughly $16 billion—about 10% of its annual revenue—would come from ads promoting scams and prohibited goods.</p><p>The leaked documents indicate that Meta's automated safety systems required a 95% certainty threshold before banning suspected scam accounts, allowing lower-risk fraud operations to continue paying higher ad rates. While a Meta spokesperson contested the company's internal estimates as selective and overly inclusive, the disclosures have drawn scrutiny from federal regulators including the Securities and Exchange Commission.</p>
+<p>Nov 6 · <a href="https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html">finance.yahoo.com</a> | <a href="https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50385870">hacker news</a></p>
+<br clear="all" />
+
 <h2>Thinking Machines Lab Nears $5 Billion Funding Round at $40 Billion Valuation</h2>
 <a name="story-26636"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aed09259270da3cc6668a8d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, is closing in on a $5 billion funding round led by Accel at a $40 billion pre-money valuation. The transaction is expected to close as soon as this week.</p><p>The new financing more than triples the company's previous $12 billion valuation from its seed round last year. The funding comes despite a significant talent exodus that saw several founding members depart for rival firms like Meta and OpenAI, as the startup continues developing tools for fine-tuning large language models.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fm5YG7nxQFmanLkbviJBms-1920-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Micron Technology has suspended construction on its Fab 11E memory chip facility in Taoyuan, Taiwan, amid a protracted labor dispute. The project, budgeted between $3 billion and $4.5 billion, was previously scheduled to begin production in 2028.</p><p>The suspension follows mounting uncertainties surrounding union negotiations, including disagreements over profit-sharing terms. While the U.S. chipmaker has largely halted site work, limited activity continues to secure the facility, and the company has notified local officials and suppliers of the pause.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Amazon and Uber Eats Partner for Prime Member Restaurant Delivery</h2>
-<a name="story-26549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F10919.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon and Uber have partnered to make Uber Eats the official restaurant delivery provider for U.S. Amazon Prime members. Under the agreement, subscribers can order food through the Amazon app or website with $0 delivery fees on orders of $25 or more, bypassing the need for a separate Uber account.</p><p>This partnership returns Amazon to the restaurant delivery market after the company discontinued its internal Amazon Restaurants service. Uber gains access to Prime's massive user base to compete with market leader DoorDash, though customers will still be responsible for service fees, tips, and menu markups.</p>
-<p>Nov 5 · <a href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership">theverge.com</a> | <a href="https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery">aboutamazon.com</a></p>
-<br clear="all" />
-
-<h2>UK AI Subscription Spending Surpasses £1 Billion as Claude Gains Market Share</h2>
-<a name="story-26550"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.laozhang.ai%2Fposts%2Fen%2Fclaude-api-vs-subscription-cost%2Fimg%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>UK consumer spending on artificial intelligence subscriptions has exceeded £1 billion annually, with approximately 5.1% of UK adults paying for subscriptions as of mid-2026. The findings are based on a study analyzing data from 14 million UK bank and card accounts.</p><p>The research indicates that Anthropic's Claude is rapidly closing the gap with OpenAI's ChatGPT in the UK market. Claude's share of directly billed consumer AI subscription spending reportedly rose from 7.4% in December 2025 to 29.4% in July 2026, while ChatGPT's market share declined from 73.5% to 52.5% during the same period.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
