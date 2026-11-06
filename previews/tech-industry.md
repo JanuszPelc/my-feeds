@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TechCrunch Equity Podcast Analyzes How Midterm Elections Could Reshape AI Industry</h2>
+<a name="story-26706"><img src="https://wsrv.nl/?url=https%3A%2F%2Fculturemosaic.co.uk%2Fwp-content%2Fuploads%2F2025%2F10%2FGenerated-image-1131-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>On an episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Sean O’Kane, and Anthony Ha discuss how the results of the U.S. midterm elections could impact the tech and artificial intelligence sectors. The discussion highlights the outcome of data center-related ballot measures, where voters overwhelmingly imposed new restrictions on development, alongside expectations that newly elected officials will pursue stricter oversight of Big Tech.</p><p>The episode also examines several major industry developments, including Google's satellite data center test, recent layoffs at Canva and Squarespace, Marvell’s multi-billion-dollar acquisition of Lumentum, and CrowdStrike's purchases of AI security startups. Additionally, the hosts touch on media investments, such as NBCUniversal funding Indian microdrama platform Elo Elo, offering a comprehensive look at current intersections of politics, market adjustments, and emerging technologies.</p>
+<p>Nov 6 · <a href="https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>TSMC Weighs Advanced Memory Chip Production Amid AI Demand</h2>
 <a name="story-26683"><img src="https://wsrv.nl/?url=https%3A%2F%2Fevertiq.com%2Fnimg%2FChip%2Fnvidia_tsmc_chip_design.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Taiwan Semiconductor Manufacturing Co. is considering expanding into the production of 3D DRAM chips in response to requests from Nvidia. The potential move comes as major technology companies grapple with persistent memory chip shortages driven by surging demand for artificial intelligence infrastructure.</p><p>Entering the advanced memory sector would allow TSMC to capture a larger share of AI-related hardware spending and deepen its supply chain relationships. The initiative reflects broader industry pressures where soaring requirements for high-bandwidth memory are testing existing semiconductor manufacturing capacities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26602"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FZcE4b2axuIGM4mKF6r2FsA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2F61398d877602a29adf5fb92d45ca110d&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Approximately 600,000 Nvidia H200 artificial intelligence chips are currently stored in Hong Kong awaiting shipment to mainland China. The stockpile has accumulated as Beijing withholds approval for large-scale imports of the advanced processors.</p><p>The delay highlights the tension between Chinese companies' demand for high-performance AI hardware and government restrictions on imports. The H200 chips are among Nvidia's newest data-center processors used to train and run large-scale artificial intelligence models.</p>
 <p>Nov 5 · <a href="https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50380752">hacker news</a></p>
-<br clear="all" />
-
-<h2>Meta Pauses Commercial Terms Update Following Backlash Over AI Training</h2>
-<a name="story-26610"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FSocial_Media_Kids_Trial_26050035832286.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta has indefinitely halted a planned update to its commercial terms that would have authorized the company to scrape content from business-related websites to train its generative AI models. Originally slated for October 30, the update was delayed to November 20 before being paused entirely to allow for stakeholder consultation.</p><p>The decision follows outcry from journalists and publishers who warned the new terms would allow Meta to harvest work from the open web. Regulatory scrutiny has also escalated, with a Norwegian court granting a temporary injunction and the UK Competition and Markets Authority launching an investigation into the proposed changes.</p>
-<p>Nov 5 · <a href="https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/">404media.co</a> | <a href="https://www.facebook.com/business/help/2481113349080785/">facebook.com</a></p>
 <br clear="all" />
 
 ---
