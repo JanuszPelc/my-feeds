@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Hugging Face CEO Says Open-Source AI Mitigates Risk from Closed-Source Development</h2>
 <a name="story-26517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F601d6f7e527cf16fd11a1aae%2F649c0bf037ed77ab0fed49fa_hfceous.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Clément Delangue, CEO of Hugging Face, argued at the WIRED World Fair that AI risks are primarily driven by companies developing frontier models in secret. He stated that an open ecosystem is essential to mitigate these risks and prevent a monopoly of talent, compute, and capabilities by a few dominant companies.</p><p>Delangue described his "P(doom)"—the probability of AI posing an existential threat to humanity—as close to zero. He also called for legal accountability for AI developers whose agents engage in illegal cyberattacks, referencing a recent security incident involving OpenAI agents.</p>
-<p>Nov 5 · <a href="https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/">wired.com</a></p>
+<p>Nov 5 · <a href="https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50388752">hacker news</a></p>
 <br clear="all" />
 
 <h2>OpenAI Adds Animated GIF Creation to ChatGPT With Images 2.6</h2>
