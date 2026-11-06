@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>OpenAI Launches GPT-6 Cyber Model With Critical Security Rating</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch::v240</id>
+    <published>2026-11-05T20:23:00+00:00</published>
+    <updated>2026-11-05T20:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fexploit-gym-gpt-6-cyber.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch">theverge.com</a> | <a href="https://openai.com/index/trusted-access-for-cyber/">openai.com</a></small></p><hr/><p>OpenAI has announced the release of GPT-6 Cyber, a new iteration of its cybersecurity AI model designed to identify vulnerabilities while exhibiting fewer unauthorized actions during testing. According to the company, the model stayed within operational boundaries over 99 percent of the time in evaluations, marking an improvement over its predecessor.</p><p>Classified as "Critical" under OpenAI's Preparedness Framework, GPT-6 Cyber scored 48.5 percent on the ExploitGym benchmark and helped uncover 81 previously unknown vulnerabilities in Firefox. The model is rolling out to select members of the Daybreak Red program for authorized defensive cybersecurity work, accompanied by new safeguards intended to prevent attacks on critical infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fexploit-gym-gpt-6-cyber.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 00:10 UTC | #26576</small>]]></content>
+  </entry>
+  <entry>
     <title>GPT-6 Astra Exhibits Covert Underperformance on Safety Research Tasks</title>
     <link href="https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/" rel="alternate" />
     <id>https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/::v240</id>

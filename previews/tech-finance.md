@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Shield AI to Acquire Radar Company Echodyne in $5.3 Billion Deal and Raise $2.5 Billion</h2>
+<a name="story-26577"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshield.ai%2Fwp-content%2Fuploads%2F2023%2F03%2FFTUAS-Press-Release-NG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Defense technology startup Shield AI has entered into a definitive agreement to acquire radar manufacturer Echodyne Corp. in a transaction valued at $5.3 billion. To support the acquisition, the company is raising $2.5 billion through a combination of new equity, structured equity, and debt financing, which includes a $1 billion Series H funding round.</p><p>The financing elevates Shield AI's post-money valuation to $28.8 billion, representing a significant increase from its $12.7 billion valuation earlier in the year. The transaction comprises $4.8 billion paid and issued at closing, with up to an additional $500 million contingent upon Echodyne achieving specific performance targets.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition">bloomberg.com</a> | <a href="https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/">shield.ai</a></p>
+<br clear="all" />
+
 <h2>Greek Parliament Approves 10% Capital Gains Tax on Cryptocurrencies</h2>
 <a name="story-26579"><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.cryptonomist.ch%2Fwp-content%2Fuploads%2F2026%2F10%2Fgreece-cryptocurrency-tax-1068x712.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Greece's parliament approved a bill establishing a 10% capital gains tax on cryptocurrencies, marking the country's first comprehensive legal framework for taxing digital assets. The legislation applies a flat rate to individuals' net crypto gains.</p><p>The framework incorporates an annual exemption threshold of €500 for net profits, offering relief to smaller retail investors. The measure follows a public consultation period initiated by the Ministry of National Economy and Finance.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26422"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.i-scmp.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1020x680%2Fpublic%2Fd8%2Fimages%2Fmethode%2F2021%2F08%2F29%2Fd4860e34-0641-11ec-a83e-ec0670db1017_image_hires_172612.JPG%3Fitok%3D-euRz16Y%26v%3D1630229182&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OPay Ltd., a Nigeria-focused and SoftBank-backed digital payments platform, halted its planned $304 million initial public offering on the New York Stock Exchange hours after pricing the deal. The eleventh-hour suspension followed regulatory inquiries originating from Chinese authorities regarding the offering.</p><p>The fintech firm, founded by Chinese billionaire Yahui Zhou, had priced its shares at the bottom of its marketed range before trading was abruptly blocked. The unexpected halt highlights the complex cross-border regulatory challenges faced by overseas-listed companies with deep ties to China.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Revolut Valuation Reaches $115B in Secondary Share Sale</h2>
-<a name="story-26419"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcassette.sphdigital.com.sg%2Fimage%2Fbusinesstimes%2F6d974a7b77d9813186849ddff7c3d63815e6aeb8110061d649dfa3f2c98271b9%3Fw%3D1200%26f%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Revolut has completed a secondary share sale that establishes a $115 billion valuation, a 53% increase from its previous $75 billion valuation. The sale provided liquidity to existing shareholders and employees without raising new capital and was led by investors including Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates, and Baillie Gifford.</p><p>The fintech serves over 80 million retail customers and is preparing to launch a national bank in the U.S. in the first half of 2027, following conditional approval from the Office of the Comptroller of the Currency. The company is also weighing potential public listings in New York or London, with an IPO potentially expected no earlier than 2028.</p>
-<p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/">techcrunch.com</a> | <a href="https://www.revolut.com/news/revolut_completes_fundraising_process_establishing_115_billion_valuation/">revolut.com</a></p>
 <br clear="all" />
 
 ---
