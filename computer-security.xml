@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-05T22:18:00+00:00</updated>
+  <updated>2026-11-05T22:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>SourceHut meta.sr.ht Registration Bypass Vulnerability (CVE-2026-121728)</title>
+    <link href="https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/" rel="alternate" />
+    <id>https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/::v240</id>
+    <published>2026-11-05T22:43:00+00:00</published>
+    <updated>2026-11-05T22:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.cyfirma.com%2Fmedia%2F2026%2F04%2Fwordpress11-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/">blog.arusekk.pl</a> | <a href="https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass">lobsters</a></small></p><hr/><p>A logic error in the SourceHut `meta.sr.ht` platform allows unauthenticated attackers to bypass disabled registration settings. The vulnerability, identified as CVE-2026-121728, occurs because the GraphQL backend's `/register/step2` endpoint fails to verify if registration is enabled, even when the frontend indicates that registration is closed. Attackers can bypass the restriction by using a CSRF token obtained from the `/login` endpoint.</p><p>The flaw was introduced during an architectural migration from Flask to a Go-based GraphQL backend, where the registration verification was omitted in the new implementation. The vulnerability affects versions 0.56.11 through 0.88.9. A fix has been released following the researcher's disclosure in November 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cyfirma.com%2Fmedia%2F2026%2F04%2Fwordpress11-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 04:06 UTC | #26641</small>]]></content>
+  </entry>
   <entry>
     <title>Claude Code Bug Report Reveals Account Email Exposure in User-Agent Headers</title>
     <link href="https://github.com/anthropics/claude-code/issues/107757" rel="alternate" />
