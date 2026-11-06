@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Anthropic Redacts Key Evidence From METR AI Assessment Report</h2>
+<a name="story-26616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWYa5p6aAAASBIq%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic has redacted a significant portion of the most informative evidence from a 100-page assessment report submitted by METR. The evaluation was designed to determine the extent to which AI is accelerating AI research and development within Anthropic.</p><p>The redactions in the public version mean that readers must rely on METR's judgment rather than the raw data to interpret the findings. The assessment focused on whether Anthropic's internal capability growth has accelerated and how much of that acceleration is attributable to AI.</p>
+<p>Nov 5 · <a href="https://x.com/metr_evals">x.com</a> | <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">metr.org</a> | <a href="https://news.ycombinator.com/item?id=50383902">hacker news</a></p>
+<br clear="all" />
+
 <h2>Airbnb to Launch AI Travel Agent in First Half of 2027</h2>
 <a name="story-26621"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F60f44b_392f73636b7f46a2b025a67f879c7719~mv2.png%2Fv1%2Ffill%2Fw_1000%2Ch_571%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2F60f44b_392f73636b7f46a2b025a67f879c7719~mv2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Airbnb plans to launch a specialized AI travel agent in the first half of 2027. The tool will use a "generative UI" approach to create real-time, personalized interfaces—incorporating maps, photos, and calendars—to respond to user queries rather than relying on a traditional text-heavy chatbot format.</p><p>The agent is designed to assist travelers throughout their entire trip, including managing reservations, handling payments, facilitating refunds, and providing 24-hour safety support. Airbnb intends to eventually expand the agent's capabilities to include booking services and experiences in addition to accommodations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26389"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.orcarouter.ai%2Fapi%2Fmedia%2Ffile%2F2-534.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tencent Holdings has released its Hy4 open-weight foundation model, marking the first time the company's AI system has entered the top tier of Chinese open-weight models. The release includes enhanced agentic capabilities, long-horizon task execution, and visual understanding.</p><p>The model builds upon earlier preview iterations and is designed to compete with leading domestic open-source rivals in China's rapidly evolving artificial intelligence sector. Tencent has also announced plans to launch a Flash version of the model in the near future.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best">bloomberg.com</a> | <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">tencent.com</a> | <a href="https://news.ycombinator.com/item?id=50383963">hacker news</a></p>
-<br clear="all" />
-
-<h2>Revolut Reduces AI Coding Inference Costs by 90% Using Self-Hosted Models</h2>
-<a name="story-26348"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWKmpSIaMAEIf5c%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Revolut has cut its AI coding inference costs by approximately 90% by replacing commercial services like Claude and Gemini with self-hosted models. Following the rollout of these tools to approximately 2,000 engineers, the company reported a 60% improvement in coding time and a 70% improvement in lead time.</p><p>The transition involved moving to GLM-5.3, which runs on 56 Nvidia B200 GPUs. Technical optimizations such as NVFP4 quantization, disaggregated prefill and decode, and hyperparameter tuning were implemented to maintain performance. The company employs a model router to direct vision queries to other services while using the self-hosted GLM for code generation.</p>
-<p>Nov 3 · <a href="https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345">theregister.com</a> | <a href="https://ai.engineer/nyc/2026/talks/revolut">ai.engineer</a> | <a href="https://news.ycombinator.com/item?id=50358388">hacker news</a></p>
 <br clear="all" />
 
 ---
