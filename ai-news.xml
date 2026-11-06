@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Thinking Machines Lab Debuts Inkling 2 Small MoE Model</title>
+    <link href="https://thinkingmachines.ai/" rel="alternate" />
+    <id>https://thinkingmachines.ai/::v240</id>
+    <published>2026-11-06T00:16:00+00:00</published>
+    <updated>2026-11-06T00:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F11%2F05185815%2Flibrary-thinking-machines-releases-inkling-2-small-scores-31-on-.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://thinkingmachines.ai/news/inkling-2-small/">thinkingmachines.ai</a> | <a href="https://news.ycombinator.com/item?id=50386338">hacker news</a></small></p><hr/><p>Thinking Machines Lab has debuted Inkling 2 Small, a Mixture-of-Experts (MoE) model featuring 594 billion total parameters and 17 billion active parameters. The model supports multimodal inputs, including images, and provides variable effort capabilities.</p><p>The model is currently accessible via the Thinking Machines Tinker platform, with weights planned for release next week following safety testing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F11%2F05185815%2Flibrary-thinking-machines-releases-inkling-2-small-scores-31-on-.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 07:20 UTC | #26630</small>]]></content>
+  </entry>
+  <entry>
     <title>Anthropic Redacts Key Evidence From METR AI Assessment Report</title>
     <link href="https://x.com/metr_evals" rel="alternate" />
     <id>https://x.com/metr_evals::v240</id>

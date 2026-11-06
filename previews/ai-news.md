@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Thinking Machines Lab Debuts Inkling 2 Small MoE Model</h2>
+<a name="story-26630"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cryptobriefing.com%2Fwp-content%2Fuploads%2F2026%2F11%2F05185815%2Flibrary-thinking-machines-releases-inkling-2-small-scores-31-on-.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Thinking Machines Lab has debuted Inkling 2 Small, a Mixture-of-Experts (MoE) model featuring 594 billion total parameters and 17 billion active parameters. The model supports multimodal inputs, including images, and provides variable effort capabilities.</p><p>The model is currently accessible via the Thinking Machines Tinker platform, with weights planned for release next week following safety testing.</p>
+<p>Nov 6 · <a href="https://thinkingmachines.ai/news/inkling-2-small/">thinkingmachines.ai</a> | <a href="https://news.ycombinator.com/item?id=50386338">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic Redacts Key Evidence From METR AI Assessment Report</h2>
 <a name="story-26616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWYa5p6aAAASBIq%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has redacted a significant portion of the most informative evidence from a 100-page assessment report submitted by METR. The evaluation was designed to determine the extent to which AI is accelerating AI research and development within Anthropic.</p><p>The redactions in the public version mean that readers must rely on METR's judgment rather than the raw data to interpret the findings. The assessment focused on whether Anthropic's internal capability growth has accelerated and how much of that acceleration is attributable to AI.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26400"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F4UHvmFzOTfTxvgzb6HHGbE%2F777fc088dd126fff783d2f26a97c451e%2FCodex_SDK_1x1.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has agreed to acquire Pierre Computer, a developer tools startup whose technology is already integrated into OpenAI's Codex code-generation model. Financial terms of the deal were not disclosed, and Pierre's open-source projects will continue to remain open-source.</p><p>The acquisition positions OpenAI to compete more directly with Microsoft-owned GitHub as AI agents assume a growing share of software development tasks. Alongside the deal, OpenAI recently unveiled Pando, an internal infrastructure system designed to manage the surge of AI-generated code.</p>
 <p>Nov 4 · <a href="https://www.axios.com/2026/11/04/openai-pierre-computer-github">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50366863">hacker news</a></p>
-<br clear="all" />
-
-<h2>Tencent Releases Hy4 Open-Weight AI Model</h2>
-<a name="story-26389"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.orcarouter.ai%2Fapi%2Fmedia%2Ffile%2F2-534.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tencent Holdings has released its Hy4 open-weight foundation model, marking the first time the company's AI system has entered the top tier of Chinese open-weight models. The release includes enhanced agentic capabilities, long-horizon task execution, and visual understanding.</p><p>The model builds upon earlier preview iterations and is designed to compete with leading domestic open-source rivals in China's rapidly evolving artificial intelligence sector. Tencent has also announced plans to launch a Flash version of the model in the near future.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best">bloomberg.com</a> | <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">tencent.com</a> | <a href="https://news.ycombinator.com/item?id=50383963">hacker news</a></p>
 <br clear="all" />
 
 ---
