@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>New York Times Company in Advanced Talks to Acquire Letterboxd</h2>
+<a name="story-26627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The New York Times Company is in exclusive negotiations to acquire Letterboxd, a social network for film enthusiasts, for approximately $330 million. The proposed deal would likely see Letterboxd continue operating as a standalone site with its co-founders remaining in leadership positions.</p><p>The acquisition is part of the Times Company’s strategy to expand its portfolio of subscription and advertising-based digital products, following acquisitions like The Athletic and Wordle. By integrating Letterboxd’s 30 million users, the company aims to reach its goal of 15 million total subscribers by the end of 2027.</p>
+<p>Nov 5 · <a href="https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&smid=url-share">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Cloudflare Raises Full-Year Guidance Following Strong Third Quarter Revenue Growth</h2>
 <a name="story-26624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quartr.com%2Fimages%2Freports%2Fcloudflare-inc-q3-2024-77c15283ffbbfda4%2F1.png%3Fref%3DbWFya2V0YmVhdA%3D%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cloudflare reported third-quarter revenue of $782.5 million, a 39% year-over-year increase that surpassed analyst estimates of $737.2 million. While the company recorded a $34.1 million net loss, it raised its full-year revenue guidance to approximately $2.96 billion.</p><p>Cloudflare's stock rose more than 14% in after-hours trading following the announcement. The company's improved outlook reflects expected sequential revenue growth through the fourth quarter.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26472"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2024%2F11%2FQualcomm-Q4-2024-earnings-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fourth-quarter revenue fell 8% year-over-year to $10.3 billion, exceeding analyst estimates of $10.1 billion. Conversely, handset revenue dropped 26% to $5.14 billion, falling short of the projected $5.25 billion.</p><p>The semiconductor firm is looking to offset declining smartphone demand by expanding into new markets such as automotive. Despite the revenue beat, the company's stock dropped more than 5% after hours following a weak profit forecast.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump">bloomberg.com</a> | <a href="https://www.qualcomm.com/news/releases/2025/11/qualcomm-announces-fourth-quarter-and-fiscal-2025-results">qualcomm.com</a></p>
-<br clear="all" />
-
-<h2>Arm Beats Second-Quarter Revenue Estimates</h2>
-<a name="story-26471"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.st-note.com%2Fimg%2F1762390785-4NA6bZqDkmT2n7tGusVfSBQ9.png%3Fwidth%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Arm Holdings exceeded Wall Street revenue estimates for the second quarter, reporting $1.44 billion in revenue, a 27% year-over-year increase. The growth was primarily driven by a 50% surge in licensing revenue.</p><p>The results reflect rising demand for Arm's chip designs within the artificial intelligence and data center sectors. While total revenue surpassed expectations, royalty revenue reached $670 million, falling short of the $720.8 million estimated by analysts.</p>
-<p>Nov 4 · <a href="https://www.reuters.com/business/arm-beats-second-quarter-revenue-estimates-ai-data-center-demand-2026-11-04/">reuters.com</a> | <a href="https://newsroom.arm.com/news/arm-q2-fye27-results">newsroom.arm.com</a></p>
 <br clear="all" />
 
 ---

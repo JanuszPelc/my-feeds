@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-05T20:05:00+00:00</updated>
+  <updated>2026-11-05T23:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Window Sweaters Adds Knitted Borders to macOS Windows</title>
+    <link href="https://github.com/saragordic/window-sweaters" rel="alternate" />
+    <id>https://github.com/saragordic/window-sweaters::v240</id>
+    <published>2026-11-05T23:18:00+00:00</published>
+    <updated>2026-11-05T23:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fsaragordic%2Fwindow-sweaters%2Fraw%2Fmain%2Fdocs%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/saragordic/window-sweaters">github.com</a> | <a href="https://news.ycombinator.com/item?id=50381383">hacker news</a></small></p><hr/><p>Window Sweaters is a macOS menu-bar application that adds decorative, knitted-style borders to application windows. The software provides custom color schemes for 37 specific applications and offers various patterns, such as a "Zigzag" style that derives colors from application icons.</p><p>Users can install the application via Homebrew or by downloading the release directly from GitHub. Because the app uses private macOS window APIs and is not yet notarized by Apple, users must manually grant it accessibility permissions and security clearance in System Settings to function.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fsaragordic%2Fwindow-sweaters%2Fraw%2Fmain%2Fdocs%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 06:40 UTC | #26646</small>]]></content>
+  </entry>
   <entry>
     <title>Kagi Search Updates Bring Free Trial Searches and Android Redesign</title>
     <link href="https://kagi.com/changelog" rel="alternate" />
