@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-06T02:26:00+00:00</updated>
+  <updated>2026-11-06T09:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Kalepa Raises $75 Million in Series B Funding Round at $470 Million Valuation</title>
+    <link href="https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/" rel="alternate" />
+    <id>https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/::v240</id>
+    <published>2026-11-06T09:29:00+00:00</published>
+    <updated>2026-11-06T09:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fkalepa-cofounders-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/">reuters.com</a> | <a href="https://kalepa.com/news-posts/kalepa-raises-75-million-series-b">kalepa.com</a></small></p><hr/><p>Insurance technology startup Kalepa has secured $75 million in a Series B funding round led by Updata Partners, bringing its total valuation to $470 million. The New York-based company provides an artificial intelligence platform designed to assist commercial insurers with underwriting, pricing, and portfolio management workflows.</p><p>The financing follows a period of rapid growth that saw the company triple both its revenue and customer count over the past year while maintaining positive cash flow. Kalepa plans to deploy the new capital to expand its artificial intelligence product suite, enter new geographic and industry markets, and double its headcount.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fkalepa-cofounders-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 13:59 UTC | #26648</small>]]></content>
+  </entry>
   <entry>
     <title>Monzo Explores £7.5B Fundraising Round Following Stalled Takeover and Stake Sale Talks</title>
     <link href="https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a" rel="alternate" />

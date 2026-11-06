@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Kalepa Raises $75 Million in Series B Funding Round at $470 Million Valuation</h2>
+<a name="story-26648"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fkalepa-cofounders-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Insurance technology startup Kalepa has secured $75 million in a Series B funding round led by Updata Partners, bringing its total valuation to $470 million. The New York-based company provides an artificial intelligence platform designed to assist commercial insurers with underwriting, pricing, and portfolio management workflows.</p><p>The financing follows a period of rapid growth that saw the company triple both its revenue and customer count over the past year while maintaining positive cash flow. Kalepa plans to deploy the new capital to expand its artificial intelligence product suite, enter new geographic and industry markets, and double its headcount.</p>
+<p>Nov 6 · <a href="https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/">reuters.com</a> | <a href="https://kalepa.com/news-posts/kalepa-raises-75-million-series-b">kalepa.com</a></p>
+<br clear="all" />
+
 <h2>Monzo Explores £7.5B Fundraising Round Following Stalled Takeover and Stake Sale Talks</h2>
 <a name="story-26638"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21QKkR%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59dba79-5521-45ad-8376-8c5e4d4f5de5_1536x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UK digital bank Monzo is exploring a new fundraising round targeting a valuation of roughly £7.5 billion. The shift comes after negotiations regarding a potential £10 billion acquisition by Brazil's Nubank collapsed and efforts to sell a stake to private equity groups stalled.</p><p>The neobank had previously weighed various buyout offers and major investments, but the breakdown of takeover talks has forced management to pivot toward securing traditional capital to fund its ongoing expansion plans.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26523"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2F8Dsr1sX4%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sony Group Corp. has raised its profit outlook after reporting second-quarter results that surpassed analyst estimates. The company posted revenue of approximately $21.7 billion and an operating profit of $3.94 billion, with PlayStation 5 hardware sales reaching 2.6 million units during the period.</p><p>The performance was driven by successful entertainment titles, including the Spider-Man franchise and increased demand for the PlayStation 5 Pro in the United States. This surge in hardware sales was significantly bolstered by consumer interest in Grand Theft Auto VI.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/sony-lifts-outlook-after-spider-man-and-playstation-fuel-growth?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg2NDYzMSwiZXhwIjoxNzk0NDY5NDMxLCJhcnRpY2xlSWQiOiJUTlVUVlFLSkg2VjgwMCIsImJjb25uZWN0SWQiOiJBRDcxOUY5NDBGRTk0MzNBOERCNzI2OEJDOTY3NzY3QyJ9.M7AhSTBnGpiFi78VkX2pOIEbJGwESbWuJsmtERzi5bo">bloomberg.com</a> | <a href="https://www.sony.com/en/SonyInfo/IR/library/er/archive.html">sony.com</a></p>
-<br clear="all" />
-
-<h2>Palo Alto Networks in Talks to Acquire Clutch Security for $500 Million</h2>
-<a name="story-26493"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFlzE4WqLv9Hg%2Ffeedshare-shrink_1280%2FB4DZZ9KYSeG0Ao-%2F0%2F1745856597555%3Fe%3D2147483647%26v%3Dbeta%26t%3Dt7Z2oDP8pT-nHdtYnUH1l_uo9UpsQ9JIPLo99Zj5adA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Palo Alto Networks is negotiating to acquire Israeli startup Clutch Security for approximately $500 million. The company develops software that tracks passwords used by AI agents to secure non-human identities.</p><p>The acquisition would expand Palo Alto Networks' ability to counter AI-driven threats. Clutch Security is a three-year-old startup that recently raised $20 million in Series A funding.</p>
-<p>Nov 5 · <a href="https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup">theinformation.com</a></p>
 <br clear="all" />
 
 ---
