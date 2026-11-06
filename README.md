@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Salon Ceases Publication After 31 Years</h2>
+<a name="story-26619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.template.net%2F370269%2FSalon-Closure-Notice-Template-edit-online-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Online news and culture magazine Salon has announced that it is ceasing publication after 31 years, citing the unsustainable business realities of independent digital journalism. Launched in November 1995, the site was an early pioneer of internet publishing, known for its distinct voice combining politics, criticism, and cultural commentary.</p><p>The closure marks the end of an influential era for digital media, during which Salon helped shape online journalism and provided a platform for unconventional perspectives. Management expressed gratitude to the founders, journalists, staff, and readers who contributed to the publication's legacy over three decades.</p>
+<p>Nov 6 · <a href="https://www.salon.com/2026/11/05/goodbye-from-salon/">salon.com</a> | <a href="https://news.ycombinator.com/item?id=50383739">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Tesla Plans to Wind Down Cybertruck Production at Texas Gigafactory in Mid-2027</h2>
 <a name="story-26654"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2023%2F07%2Fcybertruck-frame.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tesla plans to wind down production of the Cybertruck at its Gigafactory Texas in mid-2027 to accommodate increased manufacturing of the Cybercab. Chief Executive Officer Elon Musk announced the shift in a social media post, stating that the facility space is needed to ramp up output for the autonomous vehicle.</p><p>The announcement leaves open whether Cybertruck production will be relocated to another facility or phased out entirely following the mid-2027 wind-down. The Austin plant has served as the primary manufacturing hub for the electric pickup truck since its launch.</p>
@@ -101,12 +107,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26373"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.static-rmg.be%2Fa%2Fview%2Fq75%2Fw597%2Fh298%2F5080166%2F7744577-jpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The PHP2Shell vulnerability was tested through the "Steal My Bitcoin" experiment to determine if it was exploitable in a live environment and if AI could assist unskilled attackers. The challenge used a PHP website hosting a $500 bitcoin wallet and a binary that outputs the wallet's private key upon successful exploitation. Although one participant successfully exploited the server, the experiment found that unskilled attackers using AI were largely unsuccessful.</p><p>The experiment attracted approximately 120,000 unique visitors and generated 13 million HTTP requests. Out of 20,000 substantive attempts, only one participant successfully exfiltrated data. These results suggest that while the vulnerability is practical to exploit, the technical complexity of the attack limits success among non-experts, despite reports of its potential for widespread exploitation.</p>
 <p>Nov 5 · <a href="https://pavursec.com/blog/stealmybitcoin/">pavursec.com</a> | <a href="https://lobste.rs/s/fgucra/observations_from_running">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50321116">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/computer-security.png" width="28" align="texttop" /> &nbsp;OpenSSH on musl-based Linux Distributions Vulnerable to Password Bypass</h2>
-<a name="story-26524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenSSH installations running on musl libc—including Alpine, OpenWrt, and Buildroot—are vulnerable to a password bypass affecting accounts with no password (marked with '*' in /etc/shadow). When a password longer than 256 characters is provided, musl's crypt() function returns '*' due to a length limit in its SHA512 implementation, which OpenSSH incorrectly validates as a successful match.</p><p>The vulnerability specifically affects systems using musl that do not utilize PAM and have password authentication enabled. To mitigate this risk, users are advised to upgrade to OpenSSH 10.6p2 or disable password authentication in their SSH configuration.</p>
-<p>Nov 5 · <a href="https://sshhole.com">sshhole.com</a> | <a href="https://news.ycombinator.com/item?id=50378228">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-06T11:43:00+00:00</updated>
+  <updated>2026-11-06T15:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Vibe Together Multiplayer Browser Music Sandbox Launches in Beta</title>
+    <link href="https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/::v240</id>
+    <published>2026-11-06T15:10:00+00:00</published>
+    <updated>2026-11-06T15:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsm.ign.com%2Ft%2Fign_za%2Fvideo%2Fv%2Fvibe-toget%2Fvibe-together-official-announcement-trailer_h52p.600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/">bedroomproducersblog.com</a> | <a href="https://makevibestogether.com/">makevibestogether.com</a></small></p><hr/><p>Vibe Together is a browser-based multiplayer music sandbox developed by Manik Bhat that enables up to eight users to compose music collaboratively on a shared grid. Participants place and connect musical objects with wires to trigger sounds, utilizing distance for timing and color-coded pitch for melody creation.</p><p>The platform features a procedural music generation system, a custom synth engine supporting subtractive, wavetable, and FM synthesis, and arcade-inspired game modes. It operates on a free-to-start model with a $20 premium tier that unlocks unlimited saves and export capabilities, with a Steam edition planned for future release.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsm.ign.com%2Ft%2Fign_za%2Fvideo%2Fv%2Fvibe-toget%2Fvibe-together-official-announcement-trailer_h52p.600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 18:43 UTC | #26678</small>]]></content>
+  </entry>
   <entry>
     <title>Insektiq Releases Toniq Polyphonic Audio-to-MIDI Plugin</title>
     <link href="https://www.kvraudio.com/news/insektiq-releases-toniq---polyphonic-audio-to-midi-plug-in-for-macos-and-windows-aax-au-and-vst3-69652?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69652" rel="alternate" />

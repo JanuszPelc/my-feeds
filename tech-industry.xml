@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-06T15:04:00+00:00</updated>
+  <updated>2026-11-06T15:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Requires Chip Tracking for Southeast Asian Cloud Partners</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling::v240</id>
+    <published>2026-11-06T15:09:00+00:00</published>
+    <updated>2026-11-06T15:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fetimg.etb2bimg.com%2Fthumb%2Fmsid-130957243%2Cimgsize-66990%2Cwidth-1200%2Cheight%3D627%2Coverlay-ettelecom%2Cresizemode-75%2Fdevices%2Fus-investigates-nvidia-chip-smuggling-to-china-via-thailands-obon-corp.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling">bloomberg.com</a></small></p><hr/><p>Nvidia is requiring Southeast Asian cloud service providers seeking Nvidia Cloud Partner status to enroll in a tracking program that logs the physical locations of their AI accelerators. The measure is designed to monitor semiconductor deployments and curtail unauthorized smuggling into restricted markets.</p><p>The monitoring system utilizes GPU telemetry and confidential computing to track chip locations within regional data centers. This initiative comes as tech companies and regulators face mounting pressure to prevent high-performance AI hardware from being diverted through intermediary countries.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fetimg.etb2bimg.com%2Fthumb%2Fmsid-130957243%2Cimgsize-66990%2Cwidth-1200%2Cheight%3D627%2Coverlay-ettelecom%2Cresizemode-75%2Fdevices%2Fus-investigates-nvidia-chip-smuggling-to-china-via-thailands-obon-corp.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 18:43 UTC | #26662</small>]]></content>
+  </entry>
   <entry>
     <title>Physicl Raises $10 Million in Seed Funding for Robotics Simulation Platform</title>
     <link href="https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/" rel="alternate" />

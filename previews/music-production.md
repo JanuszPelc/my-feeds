@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Vibe Together Multiplayer Browser Music Sandbox Launches in Beta</h2>
+<a name="story-26678"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsm.ign.com%2Ft%2Fign_za%2Fvideo%2Fv%2Fvibe-toget%2Fvibe-together-official-announcement-trailer_h52p.600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Vibe Together is a browser-based multiplayer music sandbox developed by Manik Bhat that enables up to eight users to compose music collaboratively on a shared grid. Participants place and connect musical objects with wires to trigger sounds, utilizing distance for timing and color-coded pitch for melody creation.</p><p>The platform features a procedural music generation system, a custom synth engine supporting subtractive, wavetable, and FM synthesis, and arcade-inspired game modes. It operates on a free-to-start model with a $20 premium tier that unlocks unlimited saves and export capabilities, with a Steam edition planned for future release.</p>
+<p>Nov 6 · <a href="https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/">bedroomproducersblog.com</a> | <a href="https://makevibestogether.com/">makevibestogether.com</a></p>
+<br clear="all" />
+
 <h2>Insektiq Releases Toniq Polyphonic Audio-to-MIDI Plugin</h2>
 <a name="story-26697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftoniq-kvr-news-v2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Insektiq has released Toniq, a polyphonic audio-to-MIDI plugin and standalone application available for macOS and Windows in AAX, AU, and VST3 formats. The software converts various audio sources—including full mixes, vocals, drums, and melodic parts—into multi-voice MIDI data complete with velocity information.</p><p>Toniq offers a free tier with no length or watermark limitations alongside an upgraded Pro tier priced at $129. The plugin supports ARA 2 integration for major digital audio workstations, allowing direct timeline reading, and includes features such as stem separation, a built-in synthesizer, and advanced note-level editing capabilities in the Pro version.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-cdn.inc.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fvip%2F2025%2F06%2Finc-united-x-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>United Airlines is introducing a native Spotify app for seatback displays, enabling passengers to log into personal accounts to stream music, playlists, and video podcasts. The service is powered by Starlink’s satellite Wi-Fi, which is currently being rolled out across the airline's entire fleet.</p><p>This integration utilizes Starlink’s low Earth orbit satellite network to provide the high-speed, low-latency connectivity required for live streaming. The move shifts in-flight entertainment away from traditional models that rely on pre-stored, localized content toward a personalized, internet-connected experience.</p>
 <p>Nov 5 · <a href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi">theverge.com</a> | <a href="https://newsroom.spotify.com/2026-11-05/united-airlines-partnership-update/">newsroom.spotify.com</a></p>
-<br clear="all" />
-
-<h2>PSPaudioware Updates PSP ClassicQ to v1.9 and Releases PSP ClassicQlite</h2>
-<a name="story-26554"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpsp_classicqpsp_classicqex.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>PSPaudioware has released version 1.9.0 of its ClassicQ and ClassicQex equalizer plug-ins alongside a new free plugin named PSP ClassicQlite. The v1.9.0 update introduces native Apple Silicon support, AAX and VST3 compatibility, PACE iLok licensing, an updated preset system, and high-resolution graphics.</p><p>Inspired by classic British console equalizers, PSP ClassicQlite features low- and high-frequency shelving filters with switchable Q, flexible midrange control, an adjustable high-pass filter, and the company's second-generation saturation algorithm. Both updates aim to integrate vintage analog characteristics into modern digital audio workstation environments.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/pspaudioware-updates-psp-classicq-to-v1-9-and-releases-psp-classicqlite-69641?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69641">kvraudio.com</a> | <a href="https://www.pspaudioware.com/products/psp-classicq">pspaudioware.com</a></p>
 <br clear="all" />
 
 ---
