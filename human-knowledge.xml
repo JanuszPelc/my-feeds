@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-06T04:10:00+00:00</updated>
+  <updated>2026-11-06T06:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Potential Sciences Launches With Funding to Advance Physics-Based AI Drug Discovery</title>
+    <link href="https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/" rel="alternate" />
+    <id>https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/::v240</id>
+    <published>2026-11-06T06:30:00+00:00</published>
+    <updated>2026-11-06T06:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwondamo.io%2Fwp-content%2Fuploads%2F2026%2F04%2Fimage-15.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/">wired.com</a> | <a href="https://potentialsciences.com/">potentialsciences.com</a></small></p><hr/><p>British startup Potential Sciences has launched with an eight-figure seed funding round, including backing from the UK government’s Sovereign AI fund, to develop artificial intelligence systems for drug discovery. Rather than relying solely on limited experimental databases like the Protein Data Bank, the company plans to use physics-based simulations to generate vast synthetic datasets of molecular interactions.</p><p>By training AI models on these large-scale simulation datasets, Potential Sciences aims to better predict how chemical compounds behave and bind to disease-related proteins, potentially bypassing slow and costly laboratory experimentation. While experts note that simulation-based chemistry could revolutionize drug development if successful, the startup still faces significant competition and the fundamental challenges of testing drug safety and efficacy in vivo.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwondamo.io%2Fwp-content%2Fuploads%2F2026%2F04%2Fimage-15.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 12:05 UTC | #26643</small>]]></content>
+  </entry>
   <entry>
     <title>Magnetic Fields May Allow White Dwarfs to Exceed the Chandrasekhar Limit</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261102202835.htm" rel="alternate" />
@@ -355,14 +364,5 @@
     <updated>2026-11-01T16:04:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffullycharged.show%2Fwp-content%2Fuploads%2F2026%2F04%2FBanner-why-electrification-could-cut-global-energy-use-in-half-pc361.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/">fullycharged.show</a> | <a href="https://news.ycombinator.com/item?id=50319110">hacker news</a></small></p><hr/><p>In episode 361 of the Everything Electric Podcast, host Robert Llewellyn interviews Jan Rosenow, a professor of energy and climate policy at Oxford University, regarding the potential of large-scale electrification to transform global energy demand. Rosenow notes that electricity currently accounts for only 20% of global energy consumption, leaving a hidden 80% of mobility and heating dominated by fossil fuels.</p><p>The discussion addresses how transitioning to electrification could cut total global energy demand in half by reducing the system-wide inefficiencies of fossil fuels. Additional topics include the comparative grid challenges posed by data centers and electric vehicles, the viability of battery material recycling, solar adoption trends in China, and the role of electrification in enhancing energy security.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffullycharged.show%2Fwp-content%2Fuploads%2F2026%2F04%2FBanner-why-electrification-could-cut-global-energy-use-in-half-pc361.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 18:54 UTC | #26111</small>]]></content>
-  </entry>
-  <entry>
-    <title>University of Augsburg Researchers Develop Single-Molecule Archimedes' Screw</title>
-    <link href="https://www.sciencedaily.com/releases/2026/10/261030002940.htm" rel="alternate" />
-    <id>https://www.sciencedaily.com/releases/2026/10/261030002940.htm::v240</id>
-    <published>2026-11-01T11:56:00+00:00</published>
-    <updated>2026-11-01T11:56:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.europesays.com%2Fwp-content%2Fuploads%2F2026%2F11%2F1793534598.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261030002940.htm">sciencedaily.com</a> | <a href="https://www.uni-augsburg.de/en/campusleben/neuigkeiten/2026/10/22/archimedes-screw-made-from-a-single-molecule/">uni-augsburg.de</a></small></p><hr/><p>Researchers have developed a nanoscale molecular motor inspired by the ancient Archimedes' screw, using a spiral-shaped molecule suspended between gold tips that spins and reverses direction when driven by an electrical current. As electrons travel through the helical structure, they transfer angular momentum to induce continuous rotation.</p><p>Quantum mechanical simulations revealed that this rotation increases the molecule's electrical conductivity by up to a hundredfold, as the movement grants access to highly conductive structural positions normally avoided in a stationary state. This discovery establishes a novel operating principle for molecular electronics and microfluidics at the nanoscale.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.europesays.com%2Fwp-content%2Fuploads%2F2026%2F11%2F1793534598.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>1 Nov 2026, 17:13 UTC | #26094</small>]]></content>
   </entry>
 </feed>
