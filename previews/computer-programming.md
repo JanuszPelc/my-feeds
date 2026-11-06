@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>GitHub &#x27;Awesome&#x27; Repositories Are Losing Utility Due to Outdated Content and AI Submissions</h2>
+<p>GitHub repositories prefixed with "awesome," which historically served as curated collections of domain resources, are increasingly losing their utility. This decline is driven by lists becoming outdated faster than they are maintained and repositories being flooded with low-quality, AI-generated tool submissions via mass pull requests.</p><p>While some maintainers actively vet contributions to preserve quality, others inadvertently merge low-effort automated projects. As AI models improve at resource discovery and automated code generation, developers may increasingly rely on direct AI queries rather than traditional curated lists for domain-specific information.</p>
+<p>Nov 6 · <a href="https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/">erikgahner.github.io</a> | <a href="https://news.ycombinator.com/item?id=50377821">hacker news</a></p>
+<br clear="all" />
+
 <h2>X-87 256-Byte DOS Procedural Landscape Program Released</h2>
 <a name="story-26667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.onirom.fr%2Fwiki%2Fcodegolf%2Fx-87%2Fimages%2F0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>X-87 is a 256-byte DOS program created for Outline 2026 that renders a stylized, barren landscape using x86 and x87 floating-point math in real mode. Running via VESA 2 at 640x400 resolution in 32-bit color, the procedural graphics rely on mathematical oscillators developed from earlier p5.js sketches.</p><p>The development process spanned iterative prototyping in Forth and Gforth, translating vector-based sketches into stack-based FPU instructions, and optimizing code size to fit within the strict 256-byte constraint. The program incorporates dither-like colorization and ensures compatibility across emulators like DOSBox and Bochs through compressed loops and segment initialization tricks.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeclarative-dragging.github.io%2Fvideo-poster.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Declarative dragging is a model-driven approach that allows interface authors to build complex drag-and-drop interactions simply by specifying accessible future model states rather than writing custom geometry and animation code. The underlying engine speculatively renders target states to synthesize smooth, responsive interactions, removing much of the manual effort traditionally required in UI development.</p><p>Developed by researchers Joshua Horowitz, Andrew Blinn, and Jeffrey Heer, the technique is implemented in an open-source SVG library called Dragology and received a Best Paper Award at UIST 2026. The system supports composable behaviors and parallel representations, with applications ranging from mathematical visualization explorables and academic programming environments to 3D games.</p>
 <p>Nov 5 · <a href="https://declarative-dragging.github.io/">declarative-dragging.github.io</a> | <a href="https://lobste.rs/s/jplxxr/declarative_dragging">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50368481">hacker news</a></p>
-<br clear="all" />
-
-<h2>Go Releases encoding/json/v2 and encoding/json/jsontext Packages</h2>
-<a name="story-26498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2Fjsonv2%2Fapi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Go 1.27 introduces stable encoding/json/v2 and encoding/json/jsontext packages to address flaws in the original encoding/json implementation. The new packages resolve issues involving invalid UTF-8 acceptance, duplicate JSON member names, and performance limitations stemming from non-streaming marshaling and unmarshaling.</p><p>The API separates syntactic JSON processing in jsontext from semantic Go type mapping in json/v2. This architecture enables efficient streaming through MarshalerTo and UnmarshalerFrom interfaces and offers enhanced configurability through a variadic Options parameter that can be utilized by both standard functions and custom type methods.</p>
-<p>Nov 4 · <a href="https://go.dev/blog/jsonv2">go.dev</a> | <a href="https://news.ycombinator.com/item?id=50369106">hacker news</a></p>
 <br clear="all" />
 
 ---

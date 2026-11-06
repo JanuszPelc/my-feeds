@@ -3,9 +3,17 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-06T07:44:00+00:00</updated>
+  <updated>2026-11-06T07:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>GitHub 'Awesome' Repositories Are Losing Utility Due to Outdated Content and AI Submissions</title>
+    <link href="https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/" rel="alternate" />
+    <id>https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/::v240</id>
+    <published>2026-11-06T07:46:00+00:00</published>
+    <updated>2026-11-06T07:46:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/">erikgahner.github.io</a> | <a href="https://news.ycombinator.com/item?id=50377821">hacker news</a></small></p><hr/><p>GitHub repositories prefixed with "awesome," which historically served as curated collections of domain resources, are increasingly losing their utility. This decline is driven by lists becoming outdated faster than they are maintained and repositories being flooded with low-quality, AI-generated tool submissions via mass pull requests.</p><p>While some maintainers actively vet contributions to preserve quality, others inadvertently merge low-effort automated projects. As AI models improve at resource discovery and automated code generation, developers may increasingly rely on direct AI queries rather than traditional curated lists for domain-specific information.</p><hr/><small>6 Nov 2026, 12:57 UTC | #26669</small>]]></content>
+  </entry>
   <entry>
     <title>X-87 256-Byte DOS Procedural Landscape Program Released</title>
     <link href="https://www.onirom.fr/wiki/codegolf/x-87/" rel="alternate" />
