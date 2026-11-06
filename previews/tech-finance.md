@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Monzo Explores £7.5B Fundraising Round Following Stalled Takeover and Stake Sale Talks</h2>
+<a name="story-26638"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21QKkR%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59dba79-5521-45ad-8376-8c5e4d4f5de5_1536x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>UK digital bank Monzo is exploring a new fundraising round targeting a valuation of roughly £7.5 billion. The shift comes after negotiations regarding a potential £10 billion acquisition by Brazil's Nubank collapsed and efforts to sell a stake to private equity groups stalled.</p><p>The neobank had previously weighed various buyout offers and major investments, but the breakdown of takeover talks has forced management to pivot toward securing traditional capital to fund its ongoing expansion plans.</p>
+<p>Nov 6 · <a href="https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a">ft.com</a></p>
+<br clear="all" />
+
 <h2>Lyft Reports Third-Quarter Revenue of $1.82B and Net Loss</h2>
 <a name="story-26633"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2019%2F10%2FLyft-active-riders-trend.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lyft reported third-quarter revenue of $1.82 billion, an 8% year-over-year increase that fell short of analyst estimates of $1.92 billion. The company also reported a net loss of $0.03 per share, missing the anticipated profit of $0.20 per share.</p><p>The results were impacted by changes and settlements related to legal, tax, and regulatory reserves. Following the report, Lyft shares fell more than 8% in after-hours trading, even as the company achieved record levels of rides and gross bookings.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26493"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFlzE4WqLv9Hg%2Ffeedshare-shrink_1280%2FB4DZZ9KYSeG0Ao-%2F0%2F1745856597555%3Fe%3D2147483647%26v%3Dbeta%26t%3Dt7Z2oDP8pT-nHdtYnUH1l_uo9UpsQ9JIPLo99Zj5adA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Palo Alto Networks is negotiating to acquire Israeli startup Clutch Security for approximately $500 million. The company develops software that tracks passwords used by AI agents to secure non-human identities.</p><p>The acquisition would expand Palo Alto Networks' ability to counter AI-driven threats. Clutch Security is a three-year-old startup that recently raised $20 million in Series A funding.</p>
 <p>Nov 5 · <a href="https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Goldman Sachs and Apollo in Talks to Sell Portions of SpaceX Chip Financing</h2>
-<a name="story-26484"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F83b86a38-9a91-480d-9fa1-bb7224557cf3.png%2Fw%3D1024%2Cq%3D82%2Cf%3Dwebp%2Cfit%3Dinside%2Cno_enlarge%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Goldman Sachs Group Inc. and Apollo Global Management Inc. are negotiating with Wall Street investors to sell portions of a roughly $40 billion financing agreement arranged for SpaceX's artificial intelligence chips. The financial institutions are asking select investors to commit up to $500 million each ahead of a broader syndication process.</p><p>The underlying $40 billion master finance lease is structured to support SpaceX's infrastructure expansion, representing a massive debt commitment for GPU equipment. By syndicating parts of the package, the organizers are working to distribute the exposure across a wider pool of institutional participants.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
