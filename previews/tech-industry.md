@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Ramp Data Shows AI Spending Stalling as Token Volumes Rise</h2>
+<a name="story-26691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6967f926764ca5f34d2a7586%3Fwidth%3D600%26format%3Djpeg%26auto%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A new report from corporate card platform Ramp indicates that business spending on artificial intelligence flatlined over late summer despite rising token volumes. According to the data, token spend grew by only 1.5% across August and September, following a 42% jump in July, driven by increased price competition among model providers and more cost-conscious enterprise purchasing behaviors.</p><p>The slowdown coincides with preparations for Anthropic's initial public offering and a broader recalibration of growth expectations across the industry. While demand for AI remains high and token usage continues to climb, price cuts from major providers like OpenAI and Anthropic, combined with the adoption of efficient routing tools and cheaper open-source models, have compressed revenue growth for leading AI companies.</p>
+<p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">techcrunch.com</a> | <a href="https://ramp.com/data/ai-index-oct-2026">ramp.com</a></p>
+<br clear="all" />
+
 <h2>Amazon Launches Text-Based Alexa Shopping Feature</h2>
 <a name="story-26681"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAlexa-Shopping-Text-Hero.jpeg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is launching a new feature that allows select U.S. customers to interact with its Alexa AI agent via text messages to handle shopping tasks. Users can employ natural language queries to search for products, add items to their carts, make purchases, and manage orders.</p><p>The text-based shopping agent builds upon recent updates to Alexa, enabling it to manage lists, track prices, compare products across the web, and analyze user images to find similar clothing or items. The rollout comes ahead of the holiday shopping season and follows Amazon's decision to block third-party AI agents like Meta's Muse from querying its site.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26606"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshiftdelete.net%2Fstatic%2Fimg%2Fcontent%2F26-11%2F05%2Fmeta-muse-voice.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has released Muse Voice in the United States, enabling video calls and live voice conversations with its Muse AI agent. The feature utilizes Muse Realtime Avatar and Muse Realtime Voice technology to power an animated avatar that uses gestures and expressions to match the tone of a conversation.</p><p>Users can customize the avatar, currently nicknamed Jolly, to look like a person, animal, or other character. While currently supported on mobile, web, and Mac, Meta plans to expand functionality to its AI Glasses and the upcoming Muse Charm wearable.</p>
 <p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/">techcrunch.com</a> | <a href="https://research.meta.ai/blog/bringing-your-muse-to-life">research.meta.ai</a></p>
-<br clear="all" />
-
-<h2>Microsoft Tightens Oversight of Neocloud Data Center Projects Amid Delays and Costs</h2>
-<a name="story-26578"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FXBoRee.3WAWRrhEdDmEdPA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU1MTtjZj13ZWJw%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fbc51d24e7e57b45becaba0417aee31b1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft is increasing oversight of its data center projects with upstart neocloud operators like IREN, Nebius, and Nscale, stepping away from ventures deemed risky amid rising costs and delivery delays. The company has committed tens of billions of dollars to these partners to secure artificial intelligence computing capacity.</p><p>The tighter scrutiny follows physical buildout delays and power constraints that contributed to a recent capital spending shortfall for Microsoft. While the cloud giant debates whether to pursue additional neocloud contracts, its total committed spending in this sector has surpassed $60 billion.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
