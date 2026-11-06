@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Anthropic Redacts Key Evidence From METR AI Assessment Report</h2>
+<a name="story-26616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWYa5p6aAAASBIq%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic has redacted a significant portion of the most informative evidence from a 100-page assessment report submitted by METR. The evaluation was designed to determine the extent to which AI is accelerating AI research and development within Anthropic.</p><p>The redactions in the public version mean that readers must rely on METR's judgment rather than the raw data to interpret the findings. The assessment focused on whether Anthropic's internal capability growth has accelerated and how much of that acceleration is attributable to AI.</p>
+<p>Nov 6 · <a href="https://x.com/metr_evals">x.com</a> | <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">metr.org</a> | <a href="https://news.ycombinator.com/item?id=50383902">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;Kagi Search Updates Bring Free Trial Searches and Android Redesign</h2>
 <a name="story-26620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fus.v-cdn.net%2F6036147%2Fuploads%2F3SRL2KVBUUEG%2Fkagi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kagi Search has updated its platform to allow non-registered users to perform up to 50 web searches without creating an account. The November 2026 release also introduces a redesigned home screen, rebuilt voice search, and new widgets for its Android application, alongside various performance improvements and bug fixes.</p><p>Additional updates span Kagi Assistant, Kagi News, and Kagi Translate, featuring improved voice input controls, clearer temporary thread indicators, and expanded language support. The release follows Kagi News being featured on Google Play and coincides with company commentary regarding school software policies.</p>
@@ -101,12 +107,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26381"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxnews.com%2Ffoxnews.com%2Fcontent%2Fuploads%2F2025%2F09%2F1200%2F675%2Fai-data-center.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Democratic gubernatorial victories in Texas, Georgia, Ohio, and Pennsylvania threaten to subject roughly half of all proposed U.S. artificial intelligence data center additions to heightened regulatory scrutiny and local pushback. These political shifts introduce new hurdles for developers racing to build power-intensive infrastructure campuses to meet surging computational demands.</p><p>The anticipated regulatory friction follows mounting pressures from local power grid strains, escalating construction costs, and community resistance over water and electricity consumption. As state leadership changes, developers face a more complex operating landscape for securing permits and navigating regional energy mandates.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2><img src="images/tech-policy.png" width="28" align="texttop" /> &nbsp;US Voters Reject Data Centers in Local Ballot Measures</h2>
-<a name="story-26455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.semafor.com%2F979c48c4a511a88aca935f3bef3c0975ed97df05-2236x2492.png%3Fw%3D740%26q%3D75%26auto%3Dformat%26h%3D824&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Voters in more than 30 localities across nine states passed moratoriums, outright bans, and financial restrictions on data centers during Tuesday's elections. The widespread pushback highlights growing community resistance to the rapid expansion of artificial intelligence infrastructure and energy-intensive computing facilities.</p><p>Financial institutions and asset managers are increasingly treating local opposition as a credit risk for data center developments. In response to the mounting political and public pressure, technology companies are attempting to rebrand the facilities, while politicians across party lines face demands for stricter regulations.</p>
-<p>Nov 4 · <a href="https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures">semafor.com</a> | <a href="https://news.ycombinator.com/item?id=50365982">hacker news</a></p>
 <br clear="all" />
 
 ---
