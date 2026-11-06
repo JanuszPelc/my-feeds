@@ -3,9 +3,17 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-06T08:22:00+00:00</updated>
+  <updated>2026-11-06T09:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>NC State Researchers Identify Beetle Species Damaging Blueberry Roots</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261103003200.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261103003200.htm::v240</id>
+    <published>2026-11-06T09:34:00+00:00</published>
+    <updated>2026-11-06T09:34:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261103003200.htm">sciencedaily.com</a> | <a href="https://news.ncsu.edu/2026/06/scientists-identify-mystery-beetle-attacking-blueberry-farms-across-north-carolina/">news.ncsu.edu</a></small></p><hr/><p>Researchers at North Carolina State University have identified Prionus imbricornis, a species of longhorn beetle, as the underground pest damaging commercial blueberry roots in the state. By combining field trapping with genetic barcoding of subterranean larvae, scientists resolved a decade-old mystery regarding unidentified root-feeding insects in local blueberry fields.</p><p>While North Carolina is the first state to document P. imbricornis infesting blueberries, growers currently face a lack of approved insecticides specifically labeled to control the pest. Researchers are testing potential chemical treatments and timing application methods around the beetle's reproductive cycle to help farmers protect their crops.</p><hr/><small>6 Nov 2026, 14:38 UTC | #26661</small>]]></content>
+  </entry>
   <entry>
     <title>NASA Outlines November 2026 Skywatching Highlights Including Meteor Showers and Planetary Conjunction</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261105224547.htm" rel="alternate" />
