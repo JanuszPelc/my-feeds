@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-06T07:48:00+00:00</updated>
+  <updated>2026-11-06T08:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Yangtze Memory Technologies Targets 70% Homegrown Equipment for Fourth Chip Factory</title>
+    <link href="https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/::v240</id>
+    <published>2026-11-06T08:03:00+00:00</published>
+    <updated>2026-11-06T08:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpartofstyle.com%2Fwp-content%2Fuploads%2F2026%2F04%2FChina-Will-Double-Its-Chip-Making-Capacity-With-Three-New.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/">reuters.com</a></small></p><hr/><p>Yangtze Memory Technologies Co (YMTC) plans to source up to 70% of the equipment for its planned fourth memory chip factory from domestic suppliers. This target marks a substantial increase from just over 50% for its third factory, reflecting an accelerated push toward domestic self-reliance amid trade restrictions.</p><p>The fourth fab is scheduled to break ground in Wuhan, where YMTC is headquartered. The expanding production capacity underscores the company's continuous growth and its efforts to integrate more locally manufactured semiconductor tools into its advanced NAND flash memory production lines.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpartofstyle.com%2Fwp-content%2Fuploads%2F2026%2F04%2FChina-Will-Double-Its-Chip-Making-Capacity-With-Three-New.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 13:24 UTC | #26645</small>]]></content>
+  </entry>
   <entry>
     <title>Britain to Require Salary Disclosure in Job Advertisements</title>
     <link href="https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/" rel="alternate" />

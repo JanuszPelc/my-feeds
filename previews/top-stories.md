@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Meta Pauses Commercial Terms Update Following Backlash Over AI Training</h2>
+<a name="story-26610"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FSocial_Media_Kids_Trial_26050035832286.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta has indefinitely halted a planned update to its commercial terms that would have authorized the company to scrape content from business-related websites to train its generative AI models. Originally slated for October 30, the update was delayed to November 20 before being paused entirely to allow for stakeholder consultation.</p><p>The decision follows outcry from journalists and publishers who warned the new terms would allow Meta to harvest work from the open web. Regulatory scrutiny has also escalated, with a Norwegian court granting a temporary injunction and the UK Competition and Markets Authority launching an investigation into the proposed changes.</p>
+<p>Nov 6 · <a href="https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/">404media.co</a> | <a href="https://www.facebook.com/business/help/2481113349080785/">facebook.com</a></p>
+<br clear="all" />
+
 <h2><img src="../images/music-production.png" width="28" align="texttop" /> &nbsp;Pro Tools 2026.11 Introduces AI Stem Separation and Extensions</h2>
 <a name="story-26514"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Avid has introduced AI stem separation as a new Extension in Pro Tools 2026.11. This feature allows users to separate an audio recording into up to six component stems: vocals, drums, bass, guitar, keys, and other instruments.</p><p>The update also debuts a Pro Tools Extensions ecosystem, enabling third-party developers like Splice and SoundFlow to integrate specialized tools directly into the DAW. Other enhancements in this release include MIDI Polyphonic Expression (MPE) support and High DPI support for Windows.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26465"><img src="https://wsrv.nl/?url=https%3A%2F%2Flayer3intel.com%2F_next%2Fimage%3Furl%3D%252F_next%252Fstatic%252Fmedia%252Feop_proxy_activity.01iwvfjkrr2z9.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Layer3 Intel's Residential Proxy Observatory recorded 236 residential proxy exits across six IP addresses on the Executive Office of the President network between October 5 and November 3, 2026. The activity involved 28 separate public proxy services and occurred primarily during evening hours, pointing to an internal device rather than a public guest network.</p><p>The pattern suggests an internal device running a proxy software development kit, which researchers note can pose security risks by potentially allowing lateral network access. In addition to the White House network, Layer3 Intel's global tracking identified residential proxy and anonymization activity in extremely remote regions, including Antarctica and Saint Helena.</p>
 <p>Nov 5 · <a href="https://layer3intel.com/blog/residential-proxies-white-house-network">layer3intel.com</a> | <a href="https://news.ycombinator.com/item?id=50371246">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;Sequoia Capital Closes London Office and Restructures Investment Team</h2>
-<a name="story-26414"><img src="https://wsrv.nl/?url=https%3A%2F%2Finventure.com.ua%2Fupload%2Fpic2015%2FSequoia-Capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Venture capital firm Sequoia Capital is closing its London office, concluding its six-year physical presence in Europe. The Silicon Valley-based firm stated that it no longer requires a local office to support European startups and will instead manage investments from its Bay Area headquarters.</p><p>The closure is part of a broader corporate restructuring that includes raising approximately $10 billion in new funds, sunsetting its Arc accelerator and Scouts programs, and merging its early-stage and growth operations. While some London-based partners are relocating to California, others are choosing to remain in Europe to back regional founders independently.</p>
-<p>Nov 5 · <a href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat">pathfounders.com</a> | <a href="https://x.com/sequoia/status/2117961312143855764">x.com</a></p>
 <br clear="all" />
 
 ---

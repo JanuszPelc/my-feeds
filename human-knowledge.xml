@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-06T07:13:00+00:00</updated>
+  <updated>2026-11-06T08:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>NASA Outlines November 2026 Skywatching Highlights Including Meteor Showers and Planetary Conjunction</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261105224547.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261105224547.htm::v240</id>
+    <published>2026-11-06T08:22:00+00:00</published>
+    <updated>2026-11-06T08:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcontactarchive2in.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDesigner-2-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261105224547.htm">sciencedaily.com</a> | <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/">science.nasa.gov</a></small></p><hr/><p>NASA has detailed the major celestial events visible in November 2026, featuring three meteor showers, a close planetary alignment, and a historic deep-space milestone. Skywatchers can observe the Southern and Northern Taurid meteor showers peaking in early November—known for occasional bright fireballs—followed by the Leonids later in the month. Additionally, Mars and Jupiter will appear closely positioned in the southeastern sky before sunrise on November 15 and 16.</p><p>The month also marks a significant operational milestone for the Voyager 1 spacecraft, which is reaching a distance of one light-day from Earth, prompting NASA's Shine Bright for Voyager's Light-Day activation on November 17. The skywatching calendar concludes with a full supermoon on November 24, which initiates a sequence of three consecutive supermoons stretching into the winter months.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontactarchive2in.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDesigner-2-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 13:25 UTC | #26657</small>]]></content>
+  </entry>
   <entry>
     <title>NASA's Neil Gehrels Swift Observatory Re-Enters Earth's Atmosphere After 22 Years</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261105224545.htm" rel="alternate" />

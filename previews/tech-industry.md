@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Yangtze Memory Technologies Targets 70% Homegrown Equipment for Fourth Chip Factory</h2>
+<a name="story-26645"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpartofstyle.com%2Fwp-content%2Fuploads%2F2026%2F04%2FChina-Will-Double-Its-Chip-Making-Capacity-With-Three-New.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Yangtze Memory Technologies Co (YMTC) plans to source up to 70% of the equipment for its planned fourth memory chip factory from domestic suppliers. This target marks a substantial increase from just over 50% for its third factory, reflecting an accelerated push toward domestic self-reliance amid trade restrictions.</p><p>The fourth fab is scheduled to break ground in Wuhan, where YMTC is headquartered. The expanding production capacity underscores the company's continuous growth and its efforts to integrate more locally manufactured semiconductor tools into its advanced NAND flash memory production lines.</p>
+<p>Nov 6 · <a href="https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Britain to Require Salary Disclosure in Job Advertisements</h2>
 <a name="story-26670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F1d7eb407f5be16fcf089861a9f52ef1e1ac023c4f665929d34bde0fe84bee61e%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05a3c56162e13ad80fef0f8d822b3daf.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Britain plans to introduce legislation requiring employers to publish salary information in job advertisements, as announced by Prime Minister Andy Burnham. The policy aims to empower jobseekers, reduce pay disparities, and help address broader employment challenges.</p><p>The mandate is designed to eliminate the traditional uncertainty applicants face regarding compensation when applying for roles. Further details on the upcoming legislation and its implementation timeline are expected to be brought forward soon.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26614"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-us.googleusercontent.com%2FiT5HS1uPlY2T0YuT9vj6o6Vyi2_Lh2fH94V2j3NtZqVk30dJlnyRPkmkWYBDp7qkC2nuJmlVRBb1sw97QA12zjfBqsF_Qfw4LuSFm9KSZV2-zyRkdiVYeyeoGOpjY2Dgukb-RUX86rbbdi-eQq3ZZhs&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ACME Inc., a startup providing financial monitoring for small businesses, is recruiting a senior software line specialist with TypeScript expertise. This role is designed to address complex technical issues that AI agents cannot resolve through standard prompting, specifically focusing on errors that cause automated loops.</p><p>Responsibilities include performing deep-dive debugging through code inspection, log analysis, and database queries to resolve issues that disrupt agent-driven workflows. The position is structured as a single-threaded role dedicated to issue resolution and writing postmortems for AI training, rather than feature development.</p>
 <p>Nov 5 · <a href="https://lovro-bikic.github.io/software-line-specialist/">lovro-bikic.github.io</a> | <a href="https://lobste.rs/s/yoywed/software_line_specialist">lobsters</a></p>
-<br clear="all" />
-
-<h2>Apple Enables Developers to Offer Retention Messages and Discounts During Subscription Cancellation</h2>
-<a name="story-26544"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.revenuecat.com%2Fdocs%2Fassets%2Fimages%2Fretention-messaging-api-promotional-2-7bda5a71e94b605ce7df2b2c89068df2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple's new "Retention Messaging" feature allows developers to present personalized messages and special offers to users as they attempt to cancel an auto-renewable subscription. Configured via App Store Connect, developers can provide up to 10 unique messages per app, which may include text, images, or specific discounts intended to encourage users to maintain their subscriptions.</p><p>Unlike Apple's 2024 "Win-Back Offers," which target former subscribers after their service has ended, this tool reaches users during the active cancellation flow. Developers must request access to the Retention Messaging API to implement these features.</p>
-<p>Nov 5 · <a href="https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/">9to5mac.com</a> | <a href="https://developer.apple.com/news/?id=fk9ps3gv">developer.apple.com</a></p>
 <br clear="all" />
 
 ---
