@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Ex-Rockstar Director Obbe Vermeij Says AI Tools Could Accelerate Grand Theft Auto VI PC Ports</h2>
+<a name="story-26701"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fgta6-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Former Rockstar technical director Obbe Vermeij warns that emerging AI-powered reverse-engineering tools could enable third parties to port complex console games like Grand Theft Auto VI to PC. He suggests this capability might force developers to narrow the release window between console and PC editions to preempt unauthorized AI-generated ports.</p><p>Although converting a massive, highly detailed game via AI would incur significant token costs and produce a product inferior to an official release, Vermeij notes that modern AI coding harnesses permanently alter the security calculus for delayed platform releases. Rockstar has not officially announced a release date for a PC version, though reports indicate it could arrive in early 2027.</p>
+<p>Nov 6 · <a href="https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/">arstechnica.com</a></p>
+<br clear="all" />
+
 <h2>Jimmy Maher Analyzes the Design and Legacy of Deus Ex</h2>
 <a name="story-26716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.filfre.net%2Fwp-content%2Fuploads%2F2026%2F10%2F4601346-deus-ex-windows-front-cover-515x600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jimmy Maher’s retrospective on Ion Storm’s 2000 role-playing shooter Deus Ex examines both its celebrated status as an immersive sim masterpiece and the cultural hyperbole surrounding its legacy. Drawing on the design lineage of Looking Glass Studios and games like System Shock, the article explores how Deus Ex combined multi-variant problem solving with a traditional linear campaign structure.</p><p>The essay highlights the tension between the game's reputation as a prescient work of interactive philosophy and the pragmatic realities of its development. It details behind-the-scenes anecdotes, including Warren Spector's revelation at a 2017 Game Developers Conference postmortem that the protagonist's initials, J.C. Denton, originated from a playfully exasperated exclamation about a helpful friend rather than grand theological symbolism.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26358"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsteamcdn-a.akamaihd.net%2Fsteamcommunity%2Fpublic%2Fimages%2Fsteamworks_docs%2Fenglish%2FReleaseExampleDocs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Valve is adjusting its Steam game submission workflow to manage a significant rise in store and page review requests. Due to this volume, current review times have reached up to 12 business days, a departure from the standard 3-5 day window.</p><p>The company is introducing new checklist requirements to minimize re-reviews caused by basic functional issues. These updates include requiring developers to run their games through the Steam client for at least five minutes and ensuring that achievements and necessary redistributables, such as DirectX, are properly configured.</p>
 <p>Nov 3 · <a href="https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions">theverge.com</a> | <a href="https://steamcommunity.com/groups/steamworks/announcements/detail/696528162820984746?utm_source=SteamDB">steamcommunity.com</a></p>
-<br clear="all" />
-
-<h2>Ubisoft and Other Companies Bid to Acquire Microsoft&#x27;s Arkane Studios</h2>
-<a name="story-26345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthegeek.games%2Fwp-content%2Fuploads%2F2020%2F09%2Fthegeek-arkane-studios-games-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Multiple companies, including Ubisoft, have submitted offers to Microsoft to acquire Arkane Studios. The French developer is being considered for divestment by Microsoft's gaming division.</p><p>The studio is currently developing the upcoming title *Marvel's Blade*. Microsoft is reportedly exploring several options regarding the studio's future.</p>
-<p>Nov 3 · <a href="https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8&leadSource=article-gifting">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
