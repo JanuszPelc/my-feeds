@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T22:30:00+00:00</updated>
+  <updated>2026-11-05T22:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Proposes Retrofitting Brightspeed Buildings into AI Data Centers</title>
+    <link href="https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings" rel="alternate" />
+    <id>https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings::v240</id>
+    <published>2026-11-05T22:32:00+00:00</published>
+    <updated>2026-11-05T22:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fdata-center-nvidia-logo-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings">theinformation.com</a></small></p><hr/><p>Nvidia has approached Apollo Global Management regarding the retrofitting of more than 130 buildings owned by the ISP Brightspeed into a network of small AI data centers. This initiative aims to accelerate the deployment of Nvidia's chips by repurposing existing telecommunications infrastructure.</p><p>The project seeks to create a distributed network of data centers potentially spanning 20 U.S. states. This strategy is intended to bypass challenges associated with traditional data center expansion and address backlash regarding the construction of large-scale facilities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fdata-center-nvidia-logo-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 03:24 UTC | #26609</small>]]></content>
+  </entry>
   <entry>
     <title>Google Plans $17 Billion Data Center Investment in Wyoming</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center" rel="alternate" />

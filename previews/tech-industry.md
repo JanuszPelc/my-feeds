@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Proposes Retrofitting Brightspeed Buildings into AI Data Centers</h2>
+<a name="story-26609"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fdata-center-nvidia-logo-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia has approached Apollo Global Management regarding the retrofitting of more than 130 buildings owned by the ISP Brightspeed into a network of small AI data centers. This initiative aims to accelerate the deployment of Nvidia's chips by repurposing existing telecommunications infrastructure.</p><p>The project seeks to create a distributed network of data centers potentially spanning 20 U.S. states. This strategy is intended to bypass challenges associated with traditional data center expansion and address backlash regarding the construction of large-scale facilities.</p>
+<p>Nov 5 · <a href="https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Google Plans $17 Billion Data Center Investment in Wyoming</h2>
 <a name="story-26607"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt8eb3cdfc1fce5194%2Fblt2340fbce31dfa93f%2F66212fd7e8a6cce5b582ccb6%2Fmsft-quincy-phase2.jpg%3Fwidth%3D1280%26auto%3Dwebp%26quality%3D95%26format%3Djpg%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has announced a $17 billion investment to build its first data center in Wyoming, accompanied by commitments to cover all power consumption and establish a local community council. The project is designed to incorporate advanced power and emission-reduction technologies, including fuel cells and carbon capture.</p><p>The long-term development in Laramie County involves partnerships with energy providers like American Electric Power to support infrastructure needs while addressing local resource and growth concerns. Although the formal price tag and framework have been unveiled, construction timelines for the facility have not yet been detailed.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26516"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA20TTXb.img%3Fw%3D1280%26h%3D716%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tech executives gathered at an election-night event hosted by Nvidia CEO Jensen Huang expressed significant concern over local election results and ballot measures targeting data centers. The outcomes threaten to rein in the rapid expansion of artificial intelligence infrastructure across the United States.</p><p>Concurrently, senior leaders at OpenAI discussed whether the political resistance requires resetting expectations for the company's data center capacity and infrastructure plans by 2027. The growing local pushback highlights mounting community friction regarding the immense energy and land demands of upcoming AI projects.</p>
 <p>Nov 5 · <a href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>OpenAI Pledges New Policy Framework for Data Center Development</h2>
-<a name="story-26521"><img src="https://wsrv.nl/?url=https%3A%2F%2Fubos.tech%2Fwp-content%2Fuploads%2F2026%2F02%2Fubos-ai-image-1757.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI announced a new policy framework governing its data center development efforts, committing to avoid nondisclosure agreements during negotiations and ensure local residents do not shoulder electricity costs. The measures also include increased community input, published construction plans, and initiatives to reduce power usage on the grid.</p><p>The framework follows growing public resistance and political scrutiny regarding the heavy energy demands and infrastructure impact of artificial intelligence projects. By promising greater transparency and ratepayer protection, the company aims to address local concerns surrounding large-scale technological expansion.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry">bloomberg.com</a> | <a href="https://www.politico.com/news/2026/11/05/openai-new-policy-framework-data-centers-01150714">politico.com</a></p>
 <br clear="all" />
 
 ---
