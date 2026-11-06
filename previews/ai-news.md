@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Meta Introduces Spaces for Muse AI Agent Collaboration</h2>
+<a name="story-26711"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-06-at-10.11.06-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta has launched Spaces, a new feature for its Muse personal AI agents that enables users to create custom, goal-oriented project experiences. Operating from the interface sidebar, Spaces function as dedicated conversation tabs for specific tasks such as event planning, travel coordination, and project management.</p><p>The feature allows users to translate ideas described in chat into persistent trackers, planners, or project boards that integrate with third-party applications. Spaces can automatically update in the background with real-time information such as price changes or scheduling updates, following the recent rollout of Muse Voice and other expanding agentic capabilities.</p>
+<p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/">techcrunch.com</a> | <a href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/">about.fb.com</a></p>
+<br clear="all" />
+
 <h2>Underdog Demonstrates 32MB Speech Model</h2>
 <a name="story-26671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeep-diver.github.io%2Fneurips2024%2Fposters%2Foloqhrbxye%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Startup Underdog has released a browser-based demo showcasing Woof, a 32MB speech generation model designed to run locally on edge devices without an internet connection. The interactive game allows users to type text or adjust settings to hear audio generated entirely within the browser.</p><p>The open-download model features 31 million parameters and is part of Underdog's broader push to provide lightweight, locally hosted AI tools that prioritize user data privacy. This follows the company's previous release of Bark, a speech-to-text model also built for edge devices.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F601d6f7e527cf16fd11a1aae%2F649c0bf037ed77ab0fed49fa_hfceous.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Clément Delangue, CEO of Hugging Face, argued at the WIRED World Fair that AI risks are primarily driven by companies developing frontier models in secret. He stated that an open ecosystem is essential to mitigate these risks and prevent a monopoly of talent, compute, and capabilities by a few dominant companies.</p><p>Delangue described his "P(doom)"—the probability of AI posing an existential threat to humanity—as close to zero. He also called for legal accountability for AI developers whose agents engage in illegal cyberattacks, referencing a recent security incident involving OpenAI agents.</p>
 <p>Nov 5 · <a href="https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50388752">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI Adds Animated GIF Creation to ChatGPT With Images 2.6</h2>
-<a name="story-26479"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-site-assets.veed.io%2FGIF_Maker_be9920be29%2FGIF_Maker_be9920be29.png%3Fwidth%3D1280%26quality%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI has introduced animated GIF creation and editing capabilities to ChatGPT as part of its new Images 2.6 model update. Users can now generate GIFs from text prompts or uploaded photos, adjust animation speeds, and edit individual frames directly within the chatbot.</p><p>The update also brings faster image generation across ChatGPT and its API, with OpenAI reporting that users generate over 4 billion images per week. Images 2.6 is rolling out across web, desktop, and mobile applications, alongside new API controls such as GPT-Image-2.6 Flare and Sunburst.</p>
-<p>Nov 5 · <a href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6">theverge.com</a> | <a href="https://openai.com/index/introducing-images-2-6/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50372945">hacker news</a></p>
 <br clear="all" />
 
 ---
