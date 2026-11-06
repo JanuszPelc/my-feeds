@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Tesla Plans to Wind Down Cybertruck Production at Texas Gigafactory in Mid-2027</h2>
+<a name="story-26654"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2023%2F07%2Fcybertruck-frame.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tesla plans to wind down production of the Cybertruck at its Gigafactory Texas in mid-2027 to accommodate increased manufacturing of the Cybercab. Chief Executive Officer Elon Musk announced the shift in a social media post, stating that the facility space is needed to ramp up output for the autonomous vehicle.</p><p>The announcement leaves open whether Cybertruck production will be relocated to another facility or phased out entirely following the mid-2027 wind-down. The Austin plant has served as the primary manufacturing hub for the electric pickup truck since its launch.</p>
+<p>Nov 6 · <a href="https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98">ft.com</a> | <a href="https://x.com/elonmusk/status/2118591788701421573">x.com</a> | <a href="https://news.ycombinator.com/item?id=50393154">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft Overhauls Xbox PC, Web, and Cloud Apps With Faster Design</h2>
 <a name="story-26583"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FXBOX-PC-App-1.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft is redesigning its Xbox PC, web, and cloud applications to deliver a faster, simpler interface designed to feel more like a console dashboard. Xbox Insiders can test the updated PC app starting today, while the revised web experience and cloud gaming apps for supported TVs and VR headsets will roll out over the coming weeks.</p><p>According to Microsoft, the overhauled PC app launches up to 60 percent faster, with major improvements to page loading times, library organization, and controller usability. The updated interfaces also incorporate refined social features, custom dark and light modes, and high-contrast options to improve accessibility across devices.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26335"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt12187ea8048e058c%2F6aea3bf55b45830168759c60%2Fss_75b1cde9947eea89eed52cf8f6471683f2e666a9.1920x1080_%281%29.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Remedy Entertainment's Q3 2026 financial results reveal that approximately 50% of players purchasing Control Resonant were new to the franchise. The title generated €39.6 million in revenue, representing a 226% increase over the €12.2 million recorded in the same quarter of 2025. These earnings contributed to an EBITDA of €6.8 million and an operating profit of €0.6 million.</p><p>CEO Jean-Charles Gaudechon identified expanding the franchise's audience as a primary goal for the studio's first self-published title. The company also reported growing market traction among console players in Brazil and plans to leverage a substantial base of 2.4 million wishlists to drive long-term sales.</p>
 <p>Nov 3 · <a href="https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise">gamedeveloper.com</a> | <a href="https://investors.remedygames.com/files/documents/remedy-q3-2026-business-review.pdf">investors.remedygames.com</a></p>
-<br clear="all" />
-
-<h2>GTA VI Pre-load Requires Up to 212GB of Storage Space</h2>
-<a name="story-26315"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.headtopics.com%2Fimages%2F2026%2F11%2F3%2Fcollider%2Fgrand-theft-auto-vi-pre-load-dates-confirmed-for-n-grand-theft-auto-vi-pre-load-dates-confirmed-for-n-139E15C11BA8A41DCDA80A68A4185ECB.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rockstar Games has confirmed that the Grand Theft Auto VI pre-load file will require up to 212GB of storage space. Pre-loading begins November 10 for PlayStation 5 and Xbox Series X|S, with PlayStation users able to start at midnight local time and Xbox users at 12 AM GMT.</p><p>The game launches on November 19 for $79.99. Physical copies will only contain a digital download code, as the title is primarily available via digital download.</p>
-<p>Nov 3 · <a href="https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games">theverge.com</a> | <a href="https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10">rockstargames.com</a></p>
 <br clear="all" />
 
 ---

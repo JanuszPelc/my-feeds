@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Chimera Linux Details Work to Enable Proprietary NVIDIA Drivers on Musl Distributions</h2>
+<a name="story-26703"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2024%26image%3Dgnome_software_nvidia&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chimera Linux developers have detailed ongoing work to enable proprietary NVIDIA drivers on musl-based Linux distributions, which traditionally lack full compatibility due to being built for glibc. The effort addresses fundamental architectural hurdles, including vendor-neutral OpenGL dispatch, missing compatibility symbols, and linker relocation differences.</p><p>Overcoming these limitations required adopting GLVND, updating the gcompat compatibility shim, patching the dynamic linker to support GNU indirect functions and static thread-local storage models, and creating a custom musl package variant. Testing with a legacy Maxwell-generation graphics card validated the approach and helped address subsequent startup stability issues.</p>
+<p>Nov 6 · <a href="https://chimera-linux.org/news/2026/11/musl-nvidia.html">chimera-linux.org</a> | <a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers">lobsters</a></p>
+<br clear="all" />
+
 <h2>Clojure Distilled Functional Programming Guide</h2>
 <p>Clojure Distilled is an introductory programming guide designed to help developers transition from mainstream imperative languages to Clojure, a functional Lisp dialect. The guide emphasizes that learning Clojure is less about mastering its simple syntax and more about adopting new problem-solving methods rooted in functional programming principles.</p><p>The guide details core concepts such as immutability, pure functions, first-class functions, and higher-order functions like map and filter. It explains how immutable data structures and software transactional memory facilitate safe concurrency and parallelism without manual locking, while exploring Clojure's standard data types, syntax, and data-as-code philosophy.</p>
 <p>Nov 6 · <a href="https://yogthos.net/ClojureDistilled.html">yogthos.net</a> | <a href="https://lobste.rs/s/dxno99/clojure_distilled">lobsters</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26515"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFIAP3kvgNXmA%2Ffeedshare-shrink_800%2Ffeedshare-shrink_800%2F0%2F1702196163200%3Fe%3D2147483647%26v%3Dbeta%26t%3DwsjzQcXZXRJxZgkahKjbHdVRDisyVcI0iurajwCMo0g&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>X is rolling out a redesigned version of its web application for signed-in users on a country-by-country basis, aiming to significantly improve loading speeds. According to principal engineer Yagiz Nizipli, the update replaces the platform's three separate servers for users, search crawlers, and link previews with a single unified server.</p><p>The architectural changes reduce profile load times over slow connections from more than 22 seconds down to 2.7 seconds, as detailed in an engineering blog post. The updated interface was previously deployed for logged-out users and search engine crawlers, and early users have reported a responsive and polished experience.</p>
 <p>Nov 5 · <a href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster">theverge.com</a> | <a href="https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch">blog.x.com</a> | <a href="https://news.ycombinator.com/item?id=50370478">hacker news</a></p>
-<br clear="all" />
-
-<h2>Walker Playground Interactive Web Experiment</h2>
-<a name="story-26565"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcodelucky.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fcss-animation-name-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Walker Playground is an interactive web experiment that converts DOM elements into a 2D physics-based terrain for small characters called "walkers." Users can spawn walkers and interact with them by dragging or flicking them across the page's layout.</p><p>The physics engine utilizes CSS properties and browser behaviors, such as window resizing, to influence movement; resizing the window triggers a reflow that launches characters into the air. Web elements like text lines act as traversable floors, while buttons, borders, and cards serve as solid boundaries.</p>
-<p>Nov 5 · <a href="https://markblah.github.io/lemmings/">markblah.github.io</a> | <a href="https://news.ycombinator.com/item?id=50375354">hacker news</a></p>
 <br clear="all" />
 
 ---
