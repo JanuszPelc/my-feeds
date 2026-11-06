@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T22:28:00+00:00</updated>
+  <updated>2026-11-05T22:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Google Plans $17 Billion Data Center Investment in Wyoming</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center::v240</id>
+    <published>2026-11-05T22:30:00+00:00</published>
+    <updated>2026-11-05T22:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt8eb3cdfc1fce5194%2Fblt2340fbce31dfa93f%2F66212fd7e8a6cce5b582ccb6%2Fmsft-quincy-phase2.jpg%3Fwidth%3D1280%26auto%3Dwebp%26quality%3D95%26format%3Djpg%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center">bloomberg.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/">blog.google</a></small></p><hr/><p>Google has announced a $17 billion investment to build its first data center in Wyoming, accompanied by commitments to cover all power consumption and establish a local community council. The project is designed to incorporate advanced power and emission-reduction technologies, including fuel cells and carbon capture.</p><p>The long-term development in Laramie County involves partnerships with energy providers like American Electric Power to support infrastructure needs while addressing local resource and growth concerns. Although the formal price tag and framework have been unveiled, construction timelines for the facility have not yet been detailed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt8eb3cdfc1fce5194%2Fblt2340fbce31dfa93f%2F66212fd7e8a6cce5b582ccb6%2Fmsft-quincy-phase2.jpg%3Fwidth%3D1280%26auto%3Dwebp%26quality%3D95%26format%3Djpg%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 02:49 UTC | #26607</small>]]></content>
+  </entry>
   <entry>
     <title>600,000 Nvidia H200 Chips Await Shipment to China in Hong Kong</title>
     <link href="https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/" rel="alternate" />
