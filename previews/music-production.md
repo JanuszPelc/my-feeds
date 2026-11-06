@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>FMJ-Software Releases Awave Studio v12.17</h2>
+<a name="story-26653"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fawmain.1773337690.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>FMJ-Software has released version 12.17 of Awave Studio, an audio editor and format converter for sampled instruments and various audio file types. This maintenance release focuses primarily on bug fixes across the software's support for more than 400 different file formats.</p><p>In addition to format fixes, the update improves the overall stability of the built-in software synthesizer. Awave Studio functions as a multi-purpose tool capable of reading and converting a wide variety of audio formats from different platforms and hardware devices.</p>
+<p>Nov 6 · <a href="https://www.kvraudio.com/news/fmj-software-updates-awave-studio-to-v12-17-69670?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69670">kvraudio.com</a> | <a href="https://www.fmjsoft.com/awavestudio.html">fmjsoft.com</a></p>
+<br clear="all" />
+
 <h2>Algoriffix Releases Pitch Perfekt V2 with Vocal Transformer and Functional Harmony</h2>
 <a name="story-26668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpp-v2-1280x720.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Algoriffix has launched Pitch Perfekt V2, an updated version of its voice-to-MIDI plugin and standalone application that converts live vocals or audio recordings into MIDI data. The latest release introduces two premium capabilities: a Vocal Transformer for real-time live vocal shaping, and Functional Harmony for four-part melody harmonization during file conversion.</p><p>Additional updates in version 2 include refined pitch tracking, key-aware note names, a mains hum filter, and a revised graphical user interface. While the core application remains free, the new Vocal Transformer and Functional Harmony functions are offered as premium add-ons with seven-day trials, supporting VST3, AU, and AAX formats across Windows and macOS.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26555"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsinevibesmalfunction-v3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sinevibes has released Malfunction version 3.0, a circuit-bent filter effect plugin for macOS, Windows, and Linux. The software uses an experimental algorithm that simulates tampered internal filter connections to generate distorted and glitchy textures.</p><p>The update includes a multi-mode state variable filter with five modes, two advanced LFOs with 15 waveforms, and 4x oversampling for aliasing suppression. Malfunction is available in VST3, AU, and AAX formats for $29.</p>
 <p>Nov 5 · <a href="https://www.kvraudio.com/news/sinevibes-releases-malfunction-v3-0-69639?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69639">kvraudio.com</a> | <a href="https://www.sinevibes.com/malfunction/">sinevibes.com</a></p>
-<br clear="all" />
-
-<h2>Overmono and Project Miracle Release Diamond Cut Bus Processor</h2>
-<a name="story-26557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FOvermono-Diamond-Cut%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Welsh electronic music duo Overmono have released Diamond Cut, a five-in-one bus processor developed in collaboration with Finnish plug-in company Project Miracle. Named after the duo's track of the same name, the plug-in combines a six-mode limiter, a tonal balancing EQ, soft saturation, a psychoacoustic bass enhancer, and a stereo width tool designed to mirror the group's mixing workflow.</p><p>Priced at £89/$109/€99, the software also features loudness metering, a preset browser, and options for oversampling and dithering. Project Miracle, founded in 2023 by music producers, software engineers, and designers, positions the tool to keep producers in a creative flow state while providing transparent transient preservation and heavy limiting.</p>
-<p>Nov 5 · <a href="https://musictech.com/news/gear/overmono-diamond-cut/">musictech.com</a> | <a href="https://www.projectmiracle.space/">projectmiracle.space</a></p>
 <br clear="all" />
 
 ---
