@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Acon Digital Launches Restoration Suite 3</h2>
+<a name="story-26676"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frestoration-suite-3-plugin-collection-16_9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Restoration Suite 3 toolkit features a new plug-in that automatically identifies audio defects and constructs a custom repair chain. By using an "Analyze" function, the software listens to a recording to detect issues such as broadband noise, hum, clicks, or clipping, then automatically configures the required modules and settings.</p><p>The suite includes updated versions of DeNoise 3, DeHum 3, DeClick 3, and DeClip 3, with DeNoise and DeHum introducing new machine learning–powered "Automatic" modes. The software is available as a standalone product with perpetual licensing or as part of the Acoustica 8 audio editor.</p>
+<p>Nov 6 · <a href="https://www.kvraudio.com/news/acon-digital-launches-restoration-suite-3-69668?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69668">kvraudio.com</a> | <a href="https://acondigital.com/products/restoration-suite">acondigital.com</a></p>
+<br clear="all" />
+
 <h2>Vibe Together Multiplayer Browser Music Sandbox Launches in Beta</h2>
 <a name="story-26678"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsm.ign.com%2Ft%2Fign_za%2Fvideo%2Fv%2Fvibe-toget%2Fvibe-together-official-announcement-trailer_h52p.600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vibe Together is a browser-based multiplayer music sandbox developed by Manik Bhat that enables up to eight users to compose music collaboratively on a shared grid. Participants place and connect musical objects with wires to trigger sounds, utilizing distance for timing and color-coded pitch for melody creation.</p><p>The platform features a procedural music generation system, a custom synth engine supporting subtractive, wavetable, and FM synthesis, and arcade-inspired game modes. It operates on a free-to-start model with a $20 premium tier that unlocks unlimited saves and export capabilities, with a Steam edition planned for future release.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26553"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmatrix-12_hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GForce Software has released the Oberheim Matrix-12 software instrument for macOS and Windows, developed in collaboration with Oberheim and original designer Marcus Ryle. The plugin emulates the 1985 flagship analog synthesizer, featuring twelve voices, modeled dual VCOs, and a fifteen-mode filter.</p><p>The software modernizes the original hardware's complex routing system with a visual interface that includes a live signal path flow diagram, a modulation matrix grid, and module-level scopes. Additional features comprise full MPE support, multi-zone keyboard mapping with micro arpeggiators, stereo delay, matrix reverb, and over 570 factory patches.</p>
 <p>Nov 5 · <a href="https://www.kvraudio.com/news/gforce-releases-oberheim-matrix-12---official-matrix-12-and-xpander-software-vst-au-and-aax-69644?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69644">kvraudio.com</a> | <a href="https://www.gforcesoftware.com/gforce-releases-oberheim-matrix-12-the-only-official-matrix-12-and-xpander-software/">gforcesoftware.com</a></p>
-<br clear="all" />
-
-<h2>United Airlines Integrates Spotify Into Seatback Displays Using Starlink</h2>
-<a name="story-26543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-cdn.inc.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fvip%2F2025%2F06%2Finc-united-x-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>United Airlines is introducing a native Spotify app for seatback displays, enabling passengers to log into personal accounts to stream music, playlists, and video podcasts. The service is powered by Starlink’s satellite Wi-Fi, which is currently being rolled out across the airline's entire fleet.</p><p>This integration utilizes Starlink’s low Earth orbit satellite network to provide the high-speed, low-latency connectivity required for live streaming. The move shifts in-flight entertainment away from traditional models that rely on pre-stored, localized content toward a personalized, internet-connected experience.</p>
-<p>Nov 5 · <a href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi">theverge.com</a> | <a href="https://newsroom.spotify.com/2026-11-05/united-airlines-partnership-update/">newsroom.spotify.com</a></p>
 <br clear="all" />
 
 ---

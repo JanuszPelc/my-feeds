@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Democrats Prepare Congressional Investigations Into Apple, Meta, and Elon Musk-Led Companies</h2>
+<a name="story-26664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tekedia.com%2Fwp-content%2Fuploads%2Fasgarosforum%2F7368%2FScreenshot-2024-11-16-at-09.06.07.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Following their victories in capturing House and Senate majorities, congressional Democrats are laying the groundwork to launch investigations into several major American technology companies. Lawmakers are focusing their early probe targets on Apple, Meta, and businesses led by Elon Musk.</p><p>The planned oversight efforts have sparked a scramble among corporate executives who previously courted President Trump, placing high-profile technology leaders and their corporate donations under intense legislative scrutiny.</p>
+<p>Nov 6 · <a href="https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/">washingtonpost.com</a></p>
+<br clear="all" />
+
 <h2>House Republicans Request Nvidia CEO Jensen Huang Briefing on Reported Link to Chinese Intelligence Asset</h2>
 <a name="story-26617"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thestreet.com%2F.image%2FNDA6MDAwMDAwMDAzMDU1MzQ3%2Fjensen-huang-chief-executive-officer-of-nvidia-corp-speaks-during-a-bloomberg-television-interview-on-the-sidelines-of-the-dell-technologies-world-annual-convention-event-in-las-vegas-nevada-us-on-mon.jpg%3Fprofile%3Dw1536%26ar%3D4-3&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Three House Republican committee leaders have asked Nvidia CEO Jensen Huang to provide a closed-door briefing concerning his relationship with Megaspeed executive Alice Huang, who is reportedly a Chinese intelligence asset. The lawmakers, including the Chairmen of the House Foreign Affairs and Select Committees on China, cited concerns regarding the People's Republic of China's potential access to sensitive U.S. technology and information.</p><p>The request follows reports that U.S. intelligence identified Alice Huang as a Chinese citizen funneling information to Beijing and noted her close ties to the Nvidia CEO. Nvidia has countered that Huang's meetings with customers involve only ordinary business information and contain no sensitive trade secrets or national security data. The lawmakers have invited Huang to an in-person briefing on Nov. 18, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fslaynews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fjames-talarico-ken-paxton-texas-senate-race.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Democrat James Talarico has defeated Republican Ken Paxton in Texas, securing the state's first Democratic Senate seat in more than thirty years. The high-profile race drew intense national attention and massive financial contributions, most notably from billionaire Elon Musk.</p><p>Musk invested $47 million to support Paxton's campaign while frequently attacking Talarico and amplifying conspiracy theories against him. The historic win represents a significant political realignment in a state that has long functioned as a reliable Republican stronghold.</p>
 <p>Nov 4 · <a href="https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6">ft.com</a></p>
-<br clear="all" />
-
-<h2>Ohio Voters Reject AI Infrastructure Expansion in Midterm Ballot Measures</h2>
-<a name="story-26394"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2F85a%2Fb2c1c5c2af374f52af57ddcae54c6663%2F85abd2b080ff414884da64f9208a5a2d%2Fposter_98a320b3a0ac42c8b1266f1c8b7b74e9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ohio voters overwhelmingly rejected artificial intelligence infrastructure expansion during the midterm elections, with at least 14 municipalities passing bans or restrictions on data centers. Across 18 communities, residents voted on 21 ballot measures concerning data centers, adding to the state's existing 125 local moratoriums and reflecting broad national skepticism toward large-scale tech developments.</p><p>The opposition spans political lines, driven by concerns over environmental impacts, grid capacity, quality of life, and a lack of transparency from developers. While pro-AI groups such as Build American AI have poured millions into television advertisements promoting the economic benefits and job creation of data center investments, public polling indicates widespread local pushback against upcoming facilities and tax breaks.</p>
-<p>Nov 4 · <a href="https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/">fortune.com</a></p>
 <br clear="all" />
 
 ---
