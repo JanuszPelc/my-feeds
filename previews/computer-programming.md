@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Clojure Distilled Functional Programming Guide</h2>
+<p>Clojure Distilled is an introductory programming guide designed to help developers transition from mainstream imperative languages to Clojure, a functional Lisp dialect. The guide emphasizes that learning Clojure is less about mastering its simple syntax and more about adopting new problem-solving methods rooted in functional programming principles.</p><p>The guide details core concepts such as immutability, pure functions, first-class functions, and higher-order functions like map and filter. It explains how immutable data structures and software transactional memory facilitate safe concurrency and parallelism without manual locking, while exploring Clojure's standard data types, syntax, and data-as-code philosophy.</p>
+<p>Nov 6 · <a href="https://yogthos.net/ClojureDistilled.html">yogthos.net</a> | <a href="https://lobste.rs/s/dxno99/clojure_distilled">lobsters</a></p>
+<br clear="all" />
+
 <h2>GitHub &#x27;Awesome&#x27; Repositories Are Losing Utility Due to Outdated Content and AI Submissions</h2>
 <p>GitHub repositories prefixed with "awesome," which historically served as curated collections of domain resources, are increasingly losing their utility. This decline is driven by lists becoming outdated faster than they are maintained and repositories being flooded with low-quality, AI-generated tool submissions via mass pull requests.</p><p>While some maintainers actively vet contributions to preserve quality, others inadvertently merge low-effort automated projects. As AI models improve at resource discovery and automated code generation, developers may increasingly rely on direct AI queries rather than traditional curated lists for domain-specific information.</p>
 <p>Nov 6 · <a href="https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/">erikgahner.github.io</a> | <a href="https://news.ycombinator.com/item?id=50377821">hacker news</a></p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26565"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcodelucky.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fcss-animation-name-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Walker Playground is an interactive web experiment that converts DOM elements into a 2D physics-based terrain for small characters called "walkers." Users can spawn walkers and interact with them by dragging or flicking them across the page's layout.</p><p>The physics engine utilizes CSS properties and browser behaviors, such as window resizing, to influence movement; resizing the window triggers a reflow that launches characters into the air. Web elements like text lines act as traversable floors, while buttons, borders, and cards serve as solid boundaries.</p>
 <p>Nov 5 · <a href="https://markblah.github.io/lemmings/">markblah.github.io</a> | <a href="https://news.ycombinator.com/item?id=50375354">hacker news</a></p>
-<br clear="all" />
-
-<h2>Declarative Dragging Simplifies Drag-and-Drop Interface Design</h2>
-<a name="story-26508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeclarative-dragging.github.io%2Fvideo-poster.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Declarative dragging is a model-driven approach that allows interface authors to build complex drag-and-drop interactions simply by specifying accessible future model states rather than writing custom geometry and animation code. The underlying engine speculatively renders target states to synthesize smooth, responsive interactions, removing much of the manual effort traditionally required in UI development.</p><p>Developed by researchers Joshua Horowitz, Andrew Blinn, and Jeffrey Heer, the technique is implemented in an open-source SVG library called Dragology and received a Best Paper Award at UIST 2026. The system supports composable behaviors and parallel representations, with applications ranging from mathematical visualization explorables and academic programming environments to 3D games.</p>
-<p>Nov 5 · <a href="https://declarative-dragging.github.io/">declarative-dragging.github.io</a> | <a href="https://lobste.rs/s/jplxxr/declarative_dragging">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50368481">hacker news</a></p>
 <br clear="all" />
 
 ---
