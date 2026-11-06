@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Pwn.college Cybersecurity Education Platform Overview</h2>
+<a name="story-26699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpwn.college%2Fbelt%2Fwhite.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pwn.college is an open, hands-on cybersecurity education platform developed and maintained by hackers at Arizona State University. Designed to teach core computing and hacking skills through practical challenges, the platform allows users worldwide to progress through a belt-ranking system while interacting directly with terminal environments.</p><p>The platform powers a significant portion of Arizona State University's cybersecurity curriculum while remaining freely accessible to global participants. To protect the integrity of its academic grading materials and challenge structures, the platform requests that users refrain from publishing public writeups, walkthrough videos, or livestreams of solutions.</p>
+<p>Nov 6 · <a href="https://pwn.college/">pwn.college</a> | <a href="https://news.ycombinator.com/item?id=50387796">hacker news</a></p>
+<br clear="all" />
+
 <h2>ASN Bank Addresses Customer Inquiries Regarding Google Play Integrity and iDEAL Requirements</h2>
 <a name="story-26675"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQEKm3MI2JO6mQ%2Farticle-cover_image-shrink_720_1280%2FB4DZva7FS_HYAM-%2F0%2F1768904481783%3Fe%3D2147483647%26v%3Dbeta%26t%3DhfS5TcynYBbwxo46GZ4AoJ458iuflcZts5gie2G2doM&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ASN Bank has responded to customer complaints regarding its mobile application requiring Google Play Integrity checks for iDEAL and Wero payments. In a standardized reply to users, the bank explained that strict European regulations and high security standards for online payment methods necessitate device integrity and security validations.</p><p>The bank noted that alternative operating systems often bypass built-in system protections, preventing secure transaction guarantees under current joint payment frameworks. ASN Bank stated that while it is exploring future support for alternative operating systems with iDEAL partners, no guarantees or timelines can be provided at this time.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1XKzAW.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance revealed that North Korean hackers used social engineering, including fake LinkedIn recruitment and simulated job interviews, to trick an engineer into downloading malicious software during a $6.3 billion heist. The multi-month scheme also involved an internet ad campaign promoting a tampered version of the Homebrew software package to compromise developer systems.</p><p>The combination of these exploits allowed the attackers to infiltrate internal systems, take over multiple Binance wallets, and drain funds. Although withdrawals were temporarily halted and later restored, the company recovered a portion of the stolen assets with assistance from stablecoin issuers Tether and Circle.</p>
 <p>Nov 3 · <a href="https://fortune.com/2026/11/03/binance-hack-details-linkedin/">fortune.com</a> | <a href="https://news.ycombinator.com/item?id=50357080">hacker news</a></p>
-<br clear="all" />
-
-<h2>Namespace Details Datacenter Deployment of Custom MacBook Racks</h2>
-<a name="story-26340"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--ElpmzG0K--%2F187xm7bbkpv1fjpg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Namespace details the engineering and operational architecture behind deploying hundreds of MacBook Pros into custom datacenter racks to provide scalable macOS infrastructure for iOS development and coding agents. The post outlines how the company addresses hardware and firmware hurdles, including thermal management, IP KVM integration, and physical cable constraints.</p><p>Faced with severe Mac Mini supply chain backlogs and Apple's restriction limiting hosts to two macOS virtual machines, Namespace developed custom racking and automated build workflows. The system leverages Apple's Virtualization framework, a userspace TCP/IP stack from Google's gVisor project, and an internal OCI-based image registry to distribute multi-gigabyte disk images across the fleet efficiently.</p>
-<p>Nov 3 · <a href="https://namespace.so/blog/mac-at-any-scale">namespace.so</a> | <a href="https://news.ycombinator.com/item?id=50352758">hacker news</a></p>
 <br clear="all" />
 
 ---
