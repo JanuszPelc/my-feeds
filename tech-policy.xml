@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-06T15:12:00+00:00</updated>
+  <updated>2026-11-06T15:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>U.S. Congressional Democrats Prepare Cybersecurity Agenda Following Midterm Gains</title>
+    <link href="https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/" rel="alternate" />
+    <id>https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/::v240</id>
+    <published>2026-11-06T15:21:00+00:00</published>
+    <updated>2026-11-06T15:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.csoonline.com%2Fwp-content%2Fuploads%2F2023%2F06%2Funited_states_congress_capitol_building_by_uschools_gettyimages-157339678_abstract_security_by_damien_geso_gettyimages-1154038864_2400x1600-100852689-orig.jpg%3Fresize%3D1046%2C697%26quality%3D50%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/">cybersecuritydive.com</a></small></p><hr/><p>Following their midterm election gains and projected control of both chambers of Congress in January, Democrats plan to intensify oversight and legislative efforts surrounding federal cybersecurity. Key priorities include rebuilding the depleted workforce at the Cybersecurity and Infrastructure Security Agency (CISA), addressing artificial intelligence security risks, and reauthorizing expired threat-information-sharing laws and local grant programs.</p><p>Lawmakers intend to scrutinize CISA's operations, public-private partnerships, and regulatory implementation while pressing the administration on workforce cuts and agency funding. Experts anticipate that the new Democratic majority will adopt a more assertive approach to digital security hearings and investigations compared to the previous congressional posture.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.csoonline.com%2Fwp-content%2Fuploads%2F2023%2F06%2Funited_states_congress_capitol_building_by_uschools_gettyimages-157339678_abstract_security_by_damien_geso_gettyimages-1154038864_2400x1600-100852689-orig.jpg%3Fresize%3D1046%2C697%26quality%3D50%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 20:26 UTC | #26674</small>]]></content>
+  </entry>
   <entry>
     <title>Democrats Prepare Congressional Investigations Into Apple, Meta, and Elon Musk-Led Companies</title>
     <link href="https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/" rel="alternate" />

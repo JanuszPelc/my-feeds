@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>U.S. Congressional Democrats Prepare Cybersecurity Agenda Following Midterm Gains</h2>
+<a name="story-26674"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.csoonline.com%2Fwp-content%2Fuploads%2F2023%2F06%2Funited_states_congress_capitol_building_by_uschools_gettyimages-157339678_abstract_security_by_damien_geso_gettyimages-1154038864_2400x1600-100852689-orig.jpg%3Fresize%3D1046%2C697%26quality%3D50%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Following their midterm election gains and projected control of both chambers of Congress in January, Democrats plan to intensify oversight and legislative efforts surrounding federal cybersecurity. Key priorities include rebuilding the depleted workforce at the Cybersecurity and Infrastructure Security Agency (CISA), addressing artificial intelligence security risks, and reauthorizing expired threat-information-sharing laws and local grant programs.</p><p>Lawmakers intend to scrutinize CISA's operations, public-private partnerships, and regulatory implementation while pressing the administration on workforce cuts and agency funding. Experts anticipate that the new Democratic majority will adopt a more assertive approach to digital security hearings and investigations compared to the previous congressional posture.</p>
+<p>Nov 6 · <a href="https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/">cybersecuritydive.com</a></p>
+<br clear="all" />
+
 <h2>Democrats Prepare Congressional Investigations Into Apple, Meta, and Elon Musk-Led Companies</h2>
 <a name="story-26664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tekedia.com%2Fwp-content%2Fuploads%2Fasgarosforum%2F7368%2FScreenshot-2024-11-16-at-09.06.07.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Following their victories in capturing House and Senate majorities, congressional Democrats are laying the groundwork to launch investigations into several major American technology companies. Lawmakers are focusing their early probe targets on Apple, Meta, and businesses led by Elon Musk.</p><p>The planned oversight efforts have sparked a scramble among corporate executives who previously courted President Trump, placing high-profile technology leaders and their corporate donations under intense legislative scrutiny.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26391"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHK_F4x5bUAAhfps.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Recent legal shifts in Texas and Delaware have strengthened corporate defenses against shareholder litigation, positioning Elon Musk's proposed SpaceX-Tesla merger and Meta's new non-voting share plan to better fend off legal challenges. Diminishing shareholder rights in these key jurisdictions provide a more protective legal environment for corporate restructuring and governance changes.</p><p>These developments reflect a broader decade-long effort by high-profile executives to shield large technology and aerospace ventures from external shareholder interference and litigation. As corporate venues adapt to these shifts, the changes significantly alter the balance of power between controlling founders and minority investors.</p>
 <p>Nov 4 · <a href="https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364">ft.com</a></p>
-<br clear="all" />
-
-<h2>James Talarico Defeats Ken Paxton in Texas Senate Race</h2>
-<a name="story-26393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fslaynews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fjames-talarico-ken-paxton-texas-senate-race.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Democrat James Talarico has defeated Republican Ken Paxton in Texas, securing the state's first Democratic Senate seat in more than thirty years. The high-profile race drew intense national attention and massive financial contributions, most notably from billionaire Elon Musk.</p><p>Musk invested $47 million to support Paxton's campaign while frequently attacking Talarico and amplifying conspiracy theories against him. The historic win represents a significant political realignment in a state that has long functioned as a reliable Republican stronghold.</p>
-<p>Nov 4 · <a href="https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6">ft.com</a></p>
 <br clear="all" />
 
 ---
