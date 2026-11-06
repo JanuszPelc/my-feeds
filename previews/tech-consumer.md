@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Silver Lake and Saudi Arabia PIF Hold Acquisition Talks With Unity Software</h2>
+<a name="story-26707"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshiftdelete.net%2Fstatic%2Fimg%2Fcontent%2F26-11%2F06%2Funity-acquisition.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Unity Software is reportedly in discussions with a consortium of investors, including private equity firm Silver Lake and Saudi Arabia's Public Investment Fund, to explore a potential acquisition. The talks, first reported by Reuters, could result in a leveraged buyout of the game engine provider.</p><p>Both Silver Lake and the PIF recently finalized a leveraged buyout of Electronic Arts. Silver Lake already holds an eight percent stake in Unity, while the PIF has aggressively expanded its investments across the global video game and technology sectors.</p>
+<p>Nov 6 · <a href="https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition">gamedeveloper.com</a> | <a href="https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50394796">hacker news</a></p>
+<br clear="all" />
+
 <h2>Fox Closes $22 Billion Roku Acquisition Ahead of Schedule</h2>
 <a name="story-26685"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic-www.adweek.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2024%2F02%2FFox-News-Media.jpeg%3Fw%3D1239&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fox Corp. has officially completed its $22 billion acquisition of streaming platform Roku ahead of its previously anticipated 2027 timeline. Roku founder and CEO Anthony Wood will join the Fox board of directors and serve as co-chair of Fox Digital Platforms alongside Paul Cheesbrough, overseeing a newly combined division that includes Roku, Tubi, and other digital assets.</p><p>The transaction significantly expands Fox's presence in the free, ad-supported streaming market and digital video advertising space, uniting a platform with over 100 million households with Fox's media assets. Fox stated it intends to maintain Roku as an open ecosystem for the broader streaming industry while expecting to generate about $400 million in annualized cost synergies within two years.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26467"><img src="https://wsrv.nl/?url=https%3A%2F%2Fyoumobile.org%2Fwp-content%2Fuploads%2F2025%2F01%2FNothing-CEO-Carl-Pei-leaks-a-feature-coming-in-Nothing-OS-3.0-that-many-users-will-love-1-1024x576.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nothing CEO Carl Pei announced that the company's first "AI-native" product is scheduled to ship in December 2026. The device is described as a productivity tool that lacks a dedicated screen and is designed as hardware rather than a software application.</p><p>This approach diverges from current industry trends focusing on AI-enabled wearables like smart glasses or pins. While Nothing has previously discussed AI-linked earbuds and eyewear, the specific form factor and capabilities of this upcoming screenless device remain undisclosed.</p>
 <p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/">techcrunch.com</a> | <a href="https://x.com/getpeid/status/2117991714879410204">x.com</a></p>
-<br clear="all" />
-
-<h2>Tripwire Presents Expands Publishing Business to Support Smaller Independent Developers</h2>
-<a name="story-26460"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplayday.one%2Fwp-content%2Fuploads%2F2026%2F11%2FTripwire-Presents-Indies-Initiative-Key-Art-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tripwire Presents, the publishing division of Tripwire Interactive, has launched an initiative to provide scaled publishing support for smaller independent developers. The program helps indie titles connect with broader audiences by leveraging Tripwire's existing storefront relationships, promotional calendar guidance, and pricing expertise.</p><p>The initiative debuts with a lineup of five games, including The Boss Gangster: Criminal Empire, Starforged Legacy, One-Eyed Likho, Eslabong, and Mars Attracts. Tripwire aims to shine a spotlight on self-published indie titles that align with its fan base across different genres and platforms.</p>
-<p>Nov 4 · <a href="https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games">gamedeveloper.com</a></p>
 <br clear="all" />
 
 ---
