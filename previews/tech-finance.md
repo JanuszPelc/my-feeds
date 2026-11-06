@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Wonder Group Confidentially Files for U.S. Initial Public Offering</h2>
+<p>Food-tech and delivery startup Wonder Group has confidentially filed a draft registration statement on Form S-1 with the U.S. Securities and Exchange Commission for a proposed initial public offering of Class A common stock. Led by former Walmart executive Marc Lore, the company is preparing for a public market debut following significant venture backing and major expansions.</p><p>Founded in 2018, Wonder operates a vertically integrated delivery and restaurant platform that acquired Grubhub for $650 million and previously absorbed meal-kit provider Blue Apron. The company raised $650 million at a $9 billion pre-money valuation in July, positioning itself among the most heavily funded consumer food startups ahead of its planned stock market listing.</p>
+<p>Nov 5 · <a href="https://www.reuters.com/business/marc-lores-wonder-group-confidentially-files-us-ipo-2026-11-05/">reuters.com</a> | <a href="https://about.wonder.com/news/details/2026/Wonder-Announces-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering-2026-cXCTZHXMc2/default.aspx">about.wonder.com</a></p>
+<br clear="all" />
+
 <h2>Shield AI to Acquire Radar Company Echodyne in $5.3 Billion Deal and Raise $2.5 Billion</h2>
 <a name="story-26577"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshield.ai%2Fwp-content%2Fuploads%2F2023%2F03%2FFTUAS-Press-Release-NG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Defense technology startup Shield AI has entered into a definitive agreement to acquire radar manufacturer Echodyne Corp. in a transaction valued at $5.3 billion. To support the acquisition, the company is raising $2.5 billion through a combination of new equity, structured equity, and debt financing, which includes a $1 billion Series H funding round.</p><p>The financing elevates Shield AI's post-money valuation to $28.8 billion, representing a significant increase from its $12.7 billion valuation earlier in the year. The transaction comprises $4.8 billion paid and issued at closing, with up to an additional $500 million contingent upon Echodyne achieving specific performance targets.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26424"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.citationneeded.news%2Fcontent%2Fimages%2F2026%2F11%2Felection-outcomes-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Crypto and artificial intelligence companies spent approximately $250 million during the 2026 midterm elections to shape future industry regulations, but their super PACs experienced significant defeats in competitive races. Out of twelve competitive races called by early November, industry-backed candidates lost nine, with political action committees investing $74.7 million into losing campaigns compared to just $28.3 million on winning ones.</p><p>High-profile losses included the Ohio Senate race, where Democrat Sherrod Brown defeated a record $64 million crypto-funded effort to unseat him, alongside defeats in numerous other Senate and House contests. Despite these setbacks in battlegrounds, the industry maintained a superficially high win rate by heavily backing candidates in safe seats where victory was practically guaranteed.</p>
 <p>Nov 4 · <a href="https://www.citationneeded.news/2026-election-results/">citationneeded.news</a></p>
-<br clear="all" />
-
-<h2>OPay Halts $304 Million US IPO Following Regulatory Inquiry</h2>
-<a name="story-26422"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.i-scmp.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1020x680%2Fpublic%2Fd8%2Fimages%2Fmethode%2F2021%2F08%2F29%2Fd4860e34-0641-11ec-a83e-ec0670db1017_image_hires_172612.JPG%3Fitok%3D-euRz16Y%26v%3D1630229182&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OPay Ltd., a Nigeria-focused and SoftBank-backed digital payments platform, halted its planned $304 million initial public offering on the New York Stock Exchange hours after pricing the deal. The eleventh-hour suspension followed regulatory inquiries originating from Chinese authorities regarding the offering.</p><p>The fintech firm, founded by Chinese billionaire Yahui Zhou, had priced its shares at the bottom of its marketed range before trading was abruptly blocked. The unexpected halt highlights the complex cross-border regulatory challenges faced by overseas-listed companies with deep ties to China.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
