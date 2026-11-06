@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TSMC Weighs Advanced Memory Chip Production Amid AI Demand</h2>
+<a name="story-26683"><img src="https://wsrv.nl/?url=https%3A%2F%2Fevertiq.com%2Fnimg%2FChip%2Fnvidia_tsmc_chip_design.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Taiwan Semiconductor Manufacturing Co. is considering expanding into the production of 3D DRAM chips in response to requests from Nvidia. The potential move comes as major technology companies grapple with persistent memory chip shortages driven by surging demand for artificial intelligence infrastructure.</p><p>Entering the advanced memory sector would allow TSMC to capture a larger share of AI-related hardware spending and deepen its supply chain relationships. The initiative reflects broader industry pressures where soaring requirements for high-bandwidth memory are testing existing semiconductor manufacturing capacities.</p>
+<p>Nov 6 · <a href="https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Ramp Data Shows AI Spending Stalling as Token Volumes Rise</h2>
 <a name="story-26691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6967f926764ca5f34d2a7586%3Fwidth%3D600%26format%3Djpeg%26auto%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A new report from corporate card platform Ramp indicates that business spending on artificial intelligence flatlined over late summer despite rising token volumes. According to the data, token spend grew by only 1.5% across August and September, following a 42% jump in July, driven by increased price competition among model providers and more cost-conscious enterprise purchasing behaviors.</p><p>The slowdown coincides with preparations for Anthropic's initial public offering and a broader recalibration of growth expectations across the industry. While demand for AI remains high and token usage continues to climb, price cuts from major providers like OpenAI and Anthropic, combined with the adoption of efficient routing tools and cheaper open-source models, have compressed revenue growth for leading AI companies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26610"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FSocial_Media_Kids_Trial_26050035832286.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has indefinitely halted a planned update to its commercial terms that would have authorized the company to scrape content from business-related websites to train its generative AI models. Originally slated for October 30, the update was delayed to November 20 before being paused entirely to allow for stakeholder consultation.</p><p>The decision follows outcry from journalists and publishers who warned the new terms would allow Meta to harvest work from the open web. Regulatory scrutiny has also escalated, with a Norwegian court granting a temporary injunction and the UK Competition and Markets Authority launching an investigation into the proposed changes.</p>
 <p>Nov 5 · <a href="https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/">404media.co</a> | <a href="https://www.facebook.com/business/help/2481113349080785/">facebook.com</a></p>
-<br clear="all" />
-
-<h2>Meta Launches Muse Voice Video Chatting for US Users</h2>
-<a name="story-26606"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshiftdelete.net%2Fstatic%2Fimg%2Fcontent%2F26-11%2F05%2Fmeta-muse-voice.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta has released Muse Voice in the United States, enabling video calls and live voice conversations with its Muse AI agent. The feature utilizes Muse Realtime Avatar and Muse Realtime Voice technology to power an animated avatar that uses gestures and expressions to match the tone of a conversation.</p><p>Users can customize the avatar, currently nicknamed Jolly, to look like a person, animal, or other character. While currently supported on mobile, web, and Mac, Meta plans to expand functionality to its AI Glasses and the upcoming Muse Charm wearable.</p>
-<p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/">techcrunch.com</a> | <a href="https://research.meta.ai/blog/bringing-your-muse-to-life">research.meta.ai</a></p>
 <br clear="all" />
 
 ---
