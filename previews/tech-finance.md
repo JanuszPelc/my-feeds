@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Airbnb Reports 19% Third-Quarter Revenue Jump and Raises Full-Year Guidance</h2>
+<a name="story-26625"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.backlinko.com%2Fapp%2Fuploads%2F2021%2F06%2Fairbnb-revenue-1440x1094.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Airbnb reported third-quarter 2026 revenue of $4.87 billion, marking a 19% year-over-year increase that outpaced Wall Street estimates and represented its fastest growth rate in three years. The company posted earnings of $3.16 per share, beating consensus expectations, while nights and seats booked rose 16% to 155 million.</p><p>Chief Executive Officer Brian Chesky stated that the platform is back in growth mode, prompting management to raise its full-year 2026 revenue outlook for the third time. The stronger-than-expected financial performance drove Airbnb's stock higher in after-hours trading following the announcement.</p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode">bloomberg.com</a> | <a href="https://news.airbnb.com/airbnb-q3-2026-financial-results">news.airbnb.com</a></p>
+<br clear="all" />
+
 <h2>Nasdaq 100 and Philadelphia Semiconductor Index Plunge Amid AI Trade Concerns</h2>
 <a name="story-26618"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmicms.stonex.com%2Fsites%2Fdefault%2Ffiles%2Finline-images%2Fimage-20260428144325-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Nasdaq 100 fell 6%, wiping out $2.3 trillion in market value, while the Philadelphia semiconductor index dropped 12%. This technology sector selloff, the largest since 2020, was triggered by investor concerns regarding the artificial intelligence trade following Democratic victories in congressional elections.</p><p>The decline highlights growing anxiety over the long-term sustainability of AI-related capital expenditures and potential shifts in the political landscape. Semiconductor stocks bore the brunt of the volatility as investors exited positions in companies focused on AI infrastructure and data center construction.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26437"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUK_Philips_Oct-Dec_26.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Barcelona-based smart TV operating system provider Titan OS has secured $46 million in a new funding round combining equity and debt. The financing, which brings the company's total funding to $110 million, includes debt facilities from BlackRock-managed funds alongside participation from existing backers Highland Europe and Mangrove Capital Partners.</p><p>The startup offers television manufacturers an operating system built around monetization through free ad-supported streaming television channels and targeted advertising. Titan OS currently serves 30 million users and has recently expanded its hardware partnerships to include brands such as Sharp, AOC, Vestel, and Skyworth, while Philips transitioned its 2026 models entirely to the platform.</p>
 <p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>T3 Financial Crime Unit Dissolved by Crypto Giants</h2>
-<a name="story-26427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcrispybull.com%2Fwp-content%2Fuploads%2F2025%2F10%2FTether-TRON-Financial-Crime-Unit.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The T3 Financial Crime Unit, a collaborative initiative established by Tron, Tether, Binance, and TRM Labs to combat illicit crypto activity, was quietly dissolved in August. The alliance disbanded following concerns over slow response times, despite having frozen approximately $250 million in suspicious assets during its operation.</p><p>The dissolution comes as the digital asset sector faces heightened security challenges, including major exploits and rising illicit transactions. The collapse of the joint task force highlights ongoing difficulties in coordinating rapid cross-firm responses among major cryptocurrency infrastructure providers to curb cybercrime.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-05T22:47:00+00:00</updated>
+  <updated>2026-11-05T23:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Airbnb Reports 19% Third-Quarter Revenue Jump and Raises Full-Year Guidance</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode::v240</id>
+    <published>2026-11-05T23:11:00+00:00</published>
+    <updated>2026-11-05T23:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fapi.backlinko.com%2Fapp%2Fuploads%2F2021%2F06%2Fairbnb-revenue-1440x1094.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode">bloomberg.com</a> | <a href="https://news.airbnb.com/airbnb-q3-2026-financial-results">news.airbnb.com</a></small></p><hr/><p>Airbnb reported third-quarter 2026 revenue of $4.87 billion, marking a 19% year-over-year increase that outpaced Wall Street estimates and represented its fastest growth rate in three years. The company posted earnings of $3.16 per share, beating consensus expectations, while nights and seats booked rose 16% to 155 million.</p><p>Chief Executive Officer Brian Chesky stated that the platform is back in growth mode, prompting management to raise its full-year 2026 revenue outlook for the third time. The stronger-than-expected financial performance drove Airbnb's stock higher in after-hours trading following the announcement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.backlinko.com%2Fapp%2Fuploads%2F2021%2F06%2Fairbnb-revenue-1440x1094.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 06:13 UTC | #26625</small>]]></content>
+  </entry>
   <entry>
     <title>Nasdaq 100 and Philadelphia Semiconductor Index Plunge Amid AI Trade Concerns</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day" rel="alternate" />
