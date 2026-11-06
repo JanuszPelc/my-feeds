@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Jimmy Maher Analyzes the Design and Legacy of Deus Ex</h2>
+<a name="story-26716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.filfre.net%2Fwp-content%2Fuploads%2F2026%2F10%2F4601346-deus-ex-windows-front-cover-515x600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jimmy Maher’s retrospective on Ion Storm’s 2000 role-playing shooter Deus Ex examines both its celebrated status as an immersive sim masterpiece and the cultural hyperbole surrounding its legacy. Drawing on the design lineage of Looking Glass Studios and games like System Shock, the article explores how Deus Ex combined multi-variant problem solving with a traditional linear campaign structure.</p><p>The essay highlights the tension between the game's reputation as a prescient work of interactive philosophy and the pragmatic realities of its development. It details behind-the-scenes anecdotes, including Warren Spector's revelation at a 2017 Game Developers Conference postmortem that the protagonist's initials, J.C. Denton, originated from a playfully exasperated exclamation about a helpful friend rather than grand theological symbolism.</p>
+<p>Nov 6 · <a href="https://www.filfre.net/2026/11/deus-ex/">filfre.net</a> | <a href="https://news.ycombinator.com/item?id=50393758">hacker news</a></p>
+<br clear="all" />
+
 <h2>Tesla Plans to Wind Down Cybertruck Production at Texas Gigafactory in Mid-2027</h2>
 <a name="story-26654"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2023%2F07%2Fcybertruck-frame.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tesla plans to wind down production of the Cybertruck at its Gigafactory Texas in mid-2027 to accommodate increased manufacturing of the Cybercab. Chief Executive Officer Elon Musk announced the shift in a social media post, stating that the facility space is needed to ramp up output for the autonomous vehicle.</p><p>The announcement leaves open whether Cybertruck production will be relocated to another facility or phased out entirely following the mid-2027 wind-down. The Austin plant has served as the primary manufacturing hub for the electric pickup truck since its launch.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthegeek.games%2Fwp-content%2Fuploads%2F2020%2F09%2Fthegeek-arkane-studios-games-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple companies, including Ubisoft, have submitted offers to Microsoft to acquire Arkane Studios. The French developer is being considered for divestment by Microsoft's gaming division.</p><p>The studio is currently developing the upcoming title *Marvel's Blade*. Microsoft is reportedly exploring several options regarding the studio's future.</p>
 <p>Nov 3 · <a href="https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8&leadSource=article-gifting">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Remedy Entertainment Reports Half of Control Resonant Players are New to Franchise</h2>
-<a name="story-26335"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt12187ea8048e058c%2F6aea3bf55b45830168759c60%2Fss_75b1cde9947eea89eed52cf8f6471683f2e666a9.1920x1080_%281%29.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Remedy Entertainment's Q3 2026 financial results reveal that approximately 50% of players purchasing Control Resonant were new to the franchise. The title generated €39.6 million in revenue, representing a 226% increase over the €12.2 million recorded in the same quarter of 2025. These earnings contributed to an EBITDA of €6.8 million and an operating profit of €0.6 million.</p><p>CEO Jean-Charles Gaudechon identified expanding the franchise's audience as a primary goal for the studio's first self-published title. The company also reported growing market traction among console players in Brazil and plans to leverage a substantial base of 2.4 million wishlists to drive long-term sales.</p>
-<p>Nov 3 · <a href="https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise">gamedeveloper.com</a> | <a href="https://investors.remedygames.com/files/documents/remedy-q3-2026-business-review.pdf">investors.remedygames.com</a></p>
 <br clear="all" />
 
 ---
