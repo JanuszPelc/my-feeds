@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Fox Closes $22 Billion Roku Acquisition Ahead of Schedule</h2>
+<a name="story-26685"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic-www.adweek.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2024%2F02%2FFox-News-Media.jpeg%3Fw%3D1239&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Fox Corp. has officially completed its $22 billion acquisition of streaming platform Roku ahead of its previously anticipated 2027 timeline. Roku founder and CEO Anthony Wood will join the Fox board of directors and serve as co-chair of Fox Digital Platforms alongside Paul Cheesbrough, overseeing a newly combined division that includes Roku, Tubi, and other digital assets.</p><p>The transaction significantly expands Fox's presence in the free, ad-supported streaming market and digital video advertising space, uniting a platform with over 100 million households with Fox's media assets. Fox stated it intends to maintain Roku as an open ecosystem for the broader streaming industry while expecting to generate about $400 million in annualized cost synergies within two years.</p>
+<p>Nov 6 · <a href="https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/">variety.com</a></p>
+<br clear="all" />
+
 <h2>Ex-Rockstar Director Obbe Vermeij Says AI Tools Could Accelerate Grand Theft Auto VI PC Ports</h2>
 <a name="story-26701"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fgta6-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Former Rockstar technical director Obbe Vermeij warns that emerging AI-powered reverse-engineering tools could enable third parties to port complex console games like Grand Theft Auto VI to PC. He suggests this capability might force developers to narrow the release window between console and PC editions to preempt unauthorized AI-generated ports.</p><p>Although converting a massive, highly detailed game via AI would incur significant token costs and produce a product inferior to an official release, Vermeij notes that modern AI coding harnesses permanently alter the security calculus for delayed platform releases. Rockstar has not officially announced a release date for a PC version, though reports indicate it could arrive in early 2027.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26460"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplayday.one%2Fwp-content%2Fuploads%2F2026%2F11%2FTripwire-Presents-Indies-Initiative-Key-Art-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tripwire Presents, the publishing division of Tripwire Interactive, has launched an initiative to provide scaled publishing support for smaller independent developers. The program helps indie titles connect with broader audiences by leveraging Tripwire's existing storefront relationships, promotional calendar guidance, and pricing expertise.</p><p>The initiative debuts with a lineup of five games, including The Boss Gangster: Criminal Empire, Starforged Legacy, One-Eyed Likho, Eslabong, and Mars Attracts. Tripwire aims to shine a spotlight on self-published indie titles that align with its fan base across different genres and platforms.</p>
 <p>Nov 4 · <a href="https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games">gamedeveloper.com</a></p>
-<br clear="all" />
-
-<h2>Valve Updates Steam Review Process to Address Submission Surge</h2>
-<a name="story-26358"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsteamcdn-a.akamaihd.net%2Fsteamcommunity%2Fpublic%2Fimages%2Fsteamworks_docs%2Fenglish%2FReleaseExampleDocs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Valve is adjusting its Steam game submission workflow to manage a significant rise in store and page review requests. Due to this volume, current review times have reached up to 12 business days, a departure from the standard 3-5 day window.</p><p>The company is introducing new checklist requirements to minimize re-reviews caused by basic functional issues. These updates include requiring developers to run their games through the Steam client for at least five minutes and ensuring that achievements and necessary redistributables, such as DirectX, are properly configured.</p>
-<p>Nov 3 · <a href="https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions">theverge.com</a> | <a href="https://steamcommunity.com/groups/steamworks/announcements/detail/696528162820984746?utm_source=SteamDB">steamcommunity.com</a></p>
 <br clear="all" />
 
 ---
