@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Cloudflare Raises Full-Year Guidance Following Strong Third Quarter Revenue Growth</h2>
+<a name="story-26624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quartr.com%2Fimages%2Freports%2Fcloudflare-inc-q3-2024-77c15283ffbbfda4%2F1.png%3Fref%3DbWFya2V0YmVhdA%3D%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cloudflare reported third-quarter revenue of $782.5 million, a 39% year-over-year increase that surpassed analyst estimates of $737.2 million. While the company recorded a $34.1 million net loss, it raised its full-year revenue guidance to approximately $2.96 billion.</p><p>Cloudflare's stock rose more than 14% in after-hours trading following the announcement. The company's improved outlook reflects expected sequential revenue growth through the fourth quarter.</p>
+<p>Nov 5 · <a href="https://www.wsj.com/business/earnings/cloudflare-stock-surges-on-lifted-full-year-outlook-third-quarter-revenue-growth-984186bf">wsj.com</a> | <a href="https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-third-quarter-2026-financial-results/">cloudflare.com</a></p>
+<br clear="all" />
+
 <h2>Airbnb Reports 19% Third-Quarter Revenue Jump and Raises Full-Year Guidance</h2>
 <a name="story-26625"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.backlinko.com%2Fapp%2Fuploads%2F2021%2F06%2Fairbnb-revenue-1440x1094.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Airbnb reported third-quarter 2026 revenue of $4.87 billion, marking a 19% year-over-year increase that outpaced Wall Street estimates and represented its fastest growth rate in three years. The company posted earnings of $3.16 per share, beating consensus expectations, while nights and seats booked rose 16% to 155 million.</p><p>Chief Executive Officer Brian Chesky stated that the platform is back in growth mode, prompting management to raise its full-year 2026 revenue outlook for the third time. The stronger-than-expected financial performance drove Airbnb's stock higher in after-hours trading following the announcement.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26471"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.st-note.com%2Fimg%2F1762390785-4NA6bZqDkmT2n7tGusVfSBQ9.png%3Fwidth%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Arm Holdings exceeded Wall Street revenue estimates for the second quarter, reporting $1.44 billion in revenue, a 27% year-over-year increase. The growth was primarily driven by a 50% surge in licensing revenue.</p><p>The results reflect rising demand for Arm's chip designs within the artificial intelligence and data center sectors. While total revenue surpassed expectations, royalty revenue reached $670 million, falling short of the $720.8 million estimated by analysts.</p>
 <p>Nov 4 · <a href="https://www.reuters.com/business/arm-beats-second-quarter-revenue-estimates-ai-data-center-demand-2026-11-04/">reuters.com</a> | <a href="https://newsroom.arm.com/news/arm-q2-fye27-results">newsroom.arm.com</a></p>
-<br clear="all" />
-
-<h2>Titan OS Raises $46 Million to Expand Smart TV Operating System</h2>
-<a name="story-26437"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUK_Philips_Oct-Dec_26.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Barcelona-based smart TV operating system provider Titan OS has secured $46 million in a new funding round combining equity and debt. The financing, which brings the company's total funding to $110 million, includes debt facilities from BlackRock-managed funds alongside participation from existing backers Highland Europe and Mangrove Capital Partners.</p><p>The startup offers television manufacturers an operating system built around monetization through free ad-supported streaming television channels and targeted advertising. Titan OS currently serves 30 million users and has recently expanded its hardware partnerships to include brands such as Sharp, AOC, Vestel, and Skyworth, while Philips transitioned its 2026 models entirely to the platform.</p>
-<p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
