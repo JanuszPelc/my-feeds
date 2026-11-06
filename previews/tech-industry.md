@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Thinking Machines Lab Nears $5 Billion Funding Round at $40 Billion Valuation</h2>
+<a name="story-26636"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aed09259270da3cc6668a8d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI startup Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, is closing in on a $5 billion funding round led by Accel at a $40 billion pre-money valuation. The transaction is expected to close as soon as this week.</p><p>The new financing more than triples the company's previous $12 billion valuation from its seed round last year. The funding comes despite a significant talent exodus that saw several founding members depart for rival firms like Meta and OpenAI, as the startup continues developing tools for fine-tuning large language models.</p>
+<p>Nov 6 · <a href="https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11">businessinsider.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Proposes Retrofitting Brightspeed Buildings into AI Data Centers</h2>
 <a name="story-26609"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fdata-center-nvidia-logo-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia has approached Apollo Global Management regarding the retrofitting of more than 130 buildings owned by the ISP Brightspeed into a network of small AI data centers. This initiative aims to accelerate the deployment of Nvidia's chips by repurposing existing telecommunications infrastructure.</p><p>The project seeks to create a distributed network of data centers potentially spanning 20 U.S. states. This strategy is intended to bypass challenges associated with traditional data center expansion and address backlash regarding the construction of large-scale facilities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26550"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.laozhang.ai%2Fposts%2Fen%2Fclaude-api-vs-subscription-cost%2Fimg%2Fcover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UK consumer spending on artificial intelligence subscriptions has exceeded £1 billion annually, with approximately 5.1% of UK adults paying for subscriptions as of mid-2026. The findings are based on a study analyzing data from 14 million UK bank and card accounts.</p><p>The research indicates that Anthropic's Claude is rapidly closing the gap with OpenAI's ChatGPT in the UK market. Claude's share of directly billed consumer AI subscription spending reportedly rose from 7.4% in December 2025 to 29.4% in July 2026, while ChatGPT's market share declined from 73.5% to 52.5% during the same period.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Tech Executives and OpenAI Express Concern Over Anti-Data Center Election Results</h2>
-<a name="story-26516"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA20TTXb.img%3Fw%3D1280%26h%3D716%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tech executives gathered at an election-night event hosted by Nvidia CEO Jensen Huang expressed significant concern over local election results and ballot measures targeting data centers. The outcomes threaten to rein in the rapid expansion of artificial intelligence infrastructure across the United States.</p><p>Concurrently, senior leaders at OpenAI discussed whether the political resistance requires resetting expectations for the company's data center capacity and infrastructure plans by 2027. The growing local pushback highlights mounting community friction regarding the immense energy and land demands of upcoming AI projects.</p>
-<p>Nov 5 · <a href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T22:32:00+00:00</updated>
+  <updated>2026-11-06T01:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Thinking Machines Lab Nears $5 Billion Funding Round at $40 Billion Valuation</title>
+    <link href="https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11" rel="alternate" />
+    <id>https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11::v240</id>
+    <published>2026-11-06T01:16:00+00:00</published>
+    <updated>2026-11-06T01:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aed09259270da3cc6668a8d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11">businessinsider.com</a></small></p><hr/><p>AI startup Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, is closing in on a $5 billion funding round led by Accel at a $40 billion pre-money valuation. The transaction is expected to close as soon as this week.</p><p>The new financing more than triples the company's previous $12 billion valuation from its seed round last year. The funding comes despite a significant talent exodus that saw several founding members depart for rival firms like Meta and OpenAI, as the startup continues developing tools for fine-tuning large language models.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aed09259270da3cc6668a8d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 08:24 UTC | #26636</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Proposes Retrofitting Brightspeed Buildings into AI Data Centers</title>
     <link href="https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings" rel="alternate" />
