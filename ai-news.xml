@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Google Launches Gemini Omni 1.2 Flash with 15-Second Video Support and Lower Pricing</title>
+    <link href="https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/" rel="alternate" />
+    <id>https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/::v240</id>
+    <published>2026-11-06T04:06:00+00:00</published>
+    <updated>2026-11-06T04:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.androidheadlines.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGoogle-Omni-1.2-Flash-AI-Video-Generator-Model-1420x799.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/">the-decoder.com</a> | <a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50381613">hacker news</a></small></p><hr/><p>Google DeepMind has released Gemini Omni 1.2 Flash to general availability, introducing native 15-second video clip generation and a 30 percent price reduction to $0.07 per second for 720p output. The multimodal model accepts text, image, video, and audio inputs, producing video clips with synchronized audio and applying a SynthID watermark to all outputs.</p><p>The update features multi-turn conversational editing, allowing users to modify specific elements like lighting, backgrounds, or aspect ratios step by step without regenerating entire clips. It also enhances reference image adherence and character consistency across camera angles, tailoring the model for commercial production workflows such as virtual try-ons and product advertisements.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.androidheadlines.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGoogle-Omni-1.2-Flash-AI-Video-Generator-Model-1420x799.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 11:14 UTC | #26642</small>]]></content>
+  </entry>
+  <entry>
     <title>Perplexity Launches Teammates AI Agents for Work</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work" rel="alternate" />
     <id>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work::v240</id>

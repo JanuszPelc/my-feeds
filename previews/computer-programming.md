@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>GNU Mes 0.28 Released With Major Performance Improvements</h2>
+<a name="story-26655"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpikabu.ru%2Fcache.php%3Froute%3Dshare_preview%26story_id%3D7072373%26time%3D1574950380%26u%3DOpenNET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GNU Mes 0.28 has been released, marking the first official release led by co-maintainer Ekaitz Zárraga alongside Tim Sample after more than a year of development. The update introduces a significant rewrite of the core Scheme interpreter, shifting the macro expander entirely into Scheme and delivering up to a 40 percent reduction in execution time alongside R7RS-compliant multiple return values.</p><p>Key changes in version 0.28 include support for compiling Mes with both M2-Planet and MesCC in addition to GCC, improved RISC-V C library initialization, and a streamlined initialization driver that eliminates garbage collection overhead during boot. The release incorporates extensive history cleanups and fixes for continuation marks, providing a faster and more stable foundation for bootstrap processes.</p>
+<p>Nov 6 · <a href="https://ekaitz.elenq.tech/fasterMes10.html">ekaitz.elenq.tech</a> | <a href="https://lists.gnu.org/archive/html/info-gnu/2026-10/msg00005.html">lists.gnu.org</a> | <a href="https://lobste.rs/s/pqzdyt/gnu_mes_0_28_release">lobsters</a></p>
+<br clear="all" />
+
 <h2>Hackintosh Community Experiences Revival Through AI Tools</h2>
 <a name="story-26652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.naut.ca%2Fblog%2Fcontent%2Fimages%2F2026%2F11%2FScreenshot-2026-11-05-at-1.25.41-PM.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer and long-time contributor Yoonsik Park explores how the integration of AI coding assistants like Claude Code has revitalized the Hackintosh and HackiOS communities. Despite Apple's transition to ARM architecture and the official incompatibility of newer macOS releases with x86 hardware, developers are leveraging AI tools to rapidly create workarounds and ports.</p><p>Recent milestones driven by these advancements include running macOS 27 on Snapdragon laptops and ARM single-board computers, porting iOS to the Nintendo Switch OLED, and enabling support for Nvidia 50-series GPUs. These achievements indicate that AI-assisted reverse engineering is lowering traditional hardware barriers for running macOS on non-Apple systems.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26451"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmintcdn.com%2Fcodspeed%2FBdvfbpKO_S3Ha4vy%2Fguides%2Fbenchmarking-a-go-gin-api%2Fassets%2Fsqlite-regression-ui.png%3Ffit%3Dmax%26auto%3Dformat%26n%3DBdvfbpKO_S3Ha4vy%26q%3D85%26s%3Da9b94424ad0f97ff4b17a541f14a5bd8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Dennis Forbes encountered a severe performance regression when inserting large JSON datasets into SQLite via a Rust service, with operations taking minutes instead of milliseconds. The bottleneck was traced to CPU-bound string tokenization during cross-platform compilation using Zig's `cc` compiler.</p><p>The slowdown originated from a pure-Zig replacement of standard C library string functions like `strspn` within Zig's libc implementation. Unlike standard library versions, the rewritten function repeatedly measures the entire length of the string on each iteration, creating a quadratic complexity trap that dramatically degrades tokenization performance on large files.</p>
 <p>Nov 4 · <a href="https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/">dennisforbes.ca</a> | <a href="https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50247203">hacker news</a></p>
-<br clear="all" />
-
-<h2>Zig Programming Language Releases Version 0.17.1</h2>
-<a name="story-26438"><img src="https://wsrv.nl/?url=https%3A%2F%2Fziglang.org%2Fdownload%2F0.9.0%2Fstage2-progress-dark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Zig project has released version 0.17.1, a bug fix update addressing more than 57 issues reported following the 0.17.0 release. The update focuses specifically on resolving regressions and upgrade blockers that affected users.</p><p>Most users who encountered obstacles while attempting to upgrade to version 0.17.0 should now be able to transition to the new patch release. Download links and updated documentation are available on the official Zig website.</p>
-<p>Nov 4 · <a href="https://ziglang.org/news/0.17.1-released/">ziglang.org</a> | <a href="https://lobste.rs/s/pa1411/zig_0_17_1_released">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50358320">hacker news</a></p>
 <br clear="all" />
 
 ---
