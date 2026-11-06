@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Tencent Releases Hy4 Open-Weight AI Model</h2>
 <a name="story-26389"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.orcarouter.ai%2Fapi%2Fmedia%2Ffile%2F2-534.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tencent Holdings has released its Hy4 open-weight foundation model, marking the first time the company's AI system has entered the top tier of Chinese open-weight models. The release includes enhanced agentic capabilities, long-horizon task execution, and visual understanding.</p><p>The model builds upon earlier preview iterations and is designed to compete with leading domestic open-source rivals in China's rapidly evolving artificial intelligence sector. Tencent has also announced plans to launch a Flash version of the model in the near future.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best">bloomberg.com</a> | <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">tencent.com</a></p>
+<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best">bloomberg.com</a> | <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">tencent.com</a> | <a href="https://news.ycombinator.com/item?id=50383963">hacker news</a></p>
 <br clear="all" />
 
 <h2>Revolut Reduces AI Coding Inference Costs by 90% Using Self-Hosted Models</h2>

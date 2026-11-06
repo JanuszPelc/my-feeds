@@ -3,7 +3,7 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-06T00:25:00+00:00</updated>
+  <updated>2026-11-06T00:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
@@ -119,9 +119,9 @@
     <link href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best" rel="alternate" />
     <id>https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best::v240</id>
     <published>2026-11-04T14:12:00+00:00</published>
-    <updated>2026-11-04T14:12:00+00:00</updated>
+    <updated>2026-11-06T00:41:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcms.orcarouter.ai%2Fapi%2Fmedia%2Ffile%2F2-534.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best">bloomberg.com</a> | <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">tencent.com</a></small></p><hr/><p>Tencent Holdings has released its Hy4 open-weight foundation model, marking the first time the company's AI system has entered the top tier of Chinese open-weight models. The release includes enhanced agentic capabilities, long-horizon task execution, and visual understanding.</p><p>The model builds upon earlier preview iterations and is designed to compete with leading domestic open-source rivals in China's rapidly evolving artificial intelligence sector. Tencent has also announced plans to launch a Flash version of the model in the near future.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.orcarouter.ai%2Fapi%2Fmedia%2Ffile%2F2-534.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 18:04 UTC | #26389</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best">bloomberg.com</a> | <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">tencent.com</a> | <a href="https://news.ycombinator.com/item?id=50383963">hacker news</a></small></p><hr/><p>Tencent Holdings has released its Hy4 open-weight foundation model, marking the first time the company's AI system has entered the top tier of Chinese open-weight models. The release includes enhanced agentic capabilities, long-horizon task execution, and visual understanding.</p><p>The model builds upon earlier preview iterations and is designed to compete with leading domestic open-source rivals in China's rapidly evolving artificial intelligence sector. Tencent has also announced plans to launch a Flash version of the model in the near future.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.orcarouter.ai%2Fapi%2Fmedia%2Ffile%2F2-534.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 18:04 UTC | #26389</small>]]></content>
   </entry>
   <entry>
     <title>Revolut Reduces AI Coding Inference Costs by 90% Using Self-Hosted Models</title>

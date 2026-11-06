@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Microsoft Overhauls Xbox PC, Web, and Cloud Apps With Faster Design</h2>
+<a name="story-26583"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FXBOX-PC-App-1.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft is redesigning its Xbox PC, web, and cloud applications to deliver a faster, simpler interface designed to feel more like a console dashboard. Xbox Insiders can test the updated PC app starting today, while the revised web experience and cloud gaming apps for supported TVs and VR headsets will roll out over the coming weeks.</p><p>According to Microsoft, the overhauled PC app launches up to 60 percent faster, with major improvements to page loading times, library organization, and controller usability. The updated interfaces also incorporate refined social features, custom dark and light modes, and high-contrast options to improve accessibility across devices.</p>
+<p>Nov 5 · <a href="https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign">theverge.com</a> | <a href="https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/">news.xbox.com</a></p>
+<br clear="all" />
+
 <h2>Salon Ceases Publication After 31 Years</h2>
 <a name="story-26619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.template.net%2F370269%2FSalon-Closure-Notice-Template-edit-online-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Online news and culture magazine Salon has announced that it is ceasing publication after 31 years, citing the unsustainable business realities of independent digital journalism. Launched in November 1995, the site was an early pioneer of internet publishing, known for its distinct voice combining politics, criticism, and cultural commentary.</p><p>The closure marks the end of an influential era for digital media, during which Salon helped shape online journalism and provided a platform for unconventional perspectives. Management expressed gratitude to the founders, journalists, staff, and readers who contributed to the publication's legacy over three decades.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26315"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.headtopics.com%2Fimages%2F2026%2F11%2F3%2Fcollider%2Fgrand-theft-auto-vi-pre-load-dates-confirmed-for-n-grand-theft-auto-vi-pre-load-dates-confirmed-for-n-139E15C11BA8A41DCDA80A68A4185ECB.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rockstar Games has confirmed that the Grand Theft Auto VI pre-load file will require up to 212GB of storage space. Pre-loading begins November 10 for PlayStation 5 and Xbox Series X|S, with PlayStation users able to start at midnight local time and Xbox users at 12 AM GMT.</p><p>The game launches on November 19 for $79.99. Physical copies will only contain a digital download code, as the title is primarily available via digital download.</p>
 <p>Nov 3 · <a href="https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games">theverge.com</a> | <a href="https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10">rockstargames.com</a></p>
-<br clear="all" />
-
-<h2>Netflix Rolls Out AI Discover Tab for Mood-Based Recommendations</h2>
-<a name="story-26329"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAIDiscover-ProductDemo-1440x810-1.gif%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Netflix is rolling out an "AI Discover" tab on supported TVs, allowing users to find content through mood-based themes and personalized preferences. Initially launching to English-language users in the U.S., the feature uses a new intelligence layer to suggest shows and movies based on factors such as time constraints, trending content, and specific moods like "something light" or "family movie night."</p><p>The tab serves as a "test kitchen" for Netflix to experiment with new discovery methods before integrating them into the main experience. Users can fine-tune their suggestions via a "Tune Your Recommendations" button, which allows them to save or exclude specific titles to help the AI learn their viewing tastes in real-time.</p>
-<p>Nov 3 · <a href="https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/">techcrunch.com</a> | <a href="https://about.netflix.com/en/news/introducing-ai-discover">about.netflix.com</a></p>
 <br clear="all" />
 
 ---
