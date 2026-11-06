@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Plugin Boutique Launches Early Black Friday Sale With Discounts Up to 96 Percent</h2>
+<a name="story-26698"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBaby-Audio-Crystalline-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Plugin Boutique has launched its early Black Friday sale, offering discounts of up to 96 percent on virtual instruments, effects, and software bundles from developers including IK Multimedia, Baby Audio, Waves, and Universal Audio. The promotional event runs through November and December, featuring rotating expiration dates for individual manufacturer discounts.</p><p>Notable price reductions include Baby Audio's Crystalline reverb plugin reduced to £4, the Waves Platinum mix and master bundle, and IK Multimedia's Total VI MAX 2 virtual instrument collection marked down from £1,439.99 to £49.99 through November 30. Additional offers feature Universal Audio's Minimoog Model D and several curated UAD native plugin bundles available for limited windows.</p>
+<p>Nov 6 · <a href="https://musictech.com/news/gear/up-to-96-percent-off-plugin-boutique-early-black-friday-deals-2026/">musictech.com</a> | <a href="https://www.pluginboutique.com/deals/24387">pluginboutique.com</a></p>
+<br clear="all" />
+
 <h2>Native Instruments Releases Vertikal Virtual Grand Piano Instrument</h2>
 <a name="story-26688"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNative-Instruments-Vertikal-plugin.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Native Instruments and Galaxy Instruments have released Vertikal, a new virtual instrument for Kontakt 8 that captures the sound of a 4.5-meter-tall vertical concert grand piano. Recorded by the piano's owner, Nils Frahm, at Berlin's Funkhaus studio complex, the instrument replicates the acoustics of the monumental instrument's massive resonant body and strings.</p><p>Vertikal offers three performance modes—pure, felt, and felt-plus-cotton—allowing users to switch between clear and softened textures. It is powered by a redesigned Particles 2.0 engine featuring refined rhythm patterns, an expanded sound source library, precise pan and timbre controls, and motion modulation systems supporting polyphonic aftertouch.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26593"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2019%2F02%2FVerv_Screenshot2_2048x2048-993x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Puremagnetik has launched Studies, a modular plugin library containing three instruments and seven effects available completely free of charge. The system divides devices across two primary plugins, with Studies Instruments handling MIDI tracks and Studies Effects processing audio signals.</p><p>The free tier provides fully unlocked access to ten experimental devices, including the tape loop synth Verv, the noise generator Expanse, and the FM soundscape synth Darklands, alongside seven audio processors. An optional subscription expands the library to sixty total devices, and the base software supports VST2, VST3, and AU formats on macOS and Windows.</p>
 <p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/">bedroomproducersblog.com</a> | <a href="https://puremagnetik.com/products/studies-free">puremagnetik.com</a></p>
-<br clear="all" />
-
-<h2>Modartt Updates Pianoteq to v9.3 and Releases YFX Japanese Grand Expansion</h2>
-<a name="story-26568"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fyfx_header.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Modartt has released Pianoteq version 9.3, which includes the new YFX Japanese Grand instrument pack. This update also restores mic polar pattern displays in the Mics panel and addresses several bugs, including a memory leak and keyboard input issues in the Windows VST3 plugin.</p><p>The YFX Japanese Grand is a physically modeled grand piano designed for versatility in both live and studio environments. It is available as a paid expansion for €49 / $49 and can be evaluated within the updated software.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/modartt-updates-pianoteq-to-v9-3-and-releases-yfx-japanese-grand-piano-expansion-69645?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69645">kvraudio.com</a> | <a href="https://www.modartt.com/yfx">modartt.com</a></p>
 <br clear="all" />
 
 ---
