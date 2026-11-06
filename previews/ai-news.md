@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Underdog Demonstrates 32MB Speech Model</h2>
+<a name="story-26671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeep-diver.github.io%2Fneurips2024%2Fposters%2Foloqhrbxye%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Startup Underdog has released a browser-based demo showcasing Woof, a 32MB speech generation model designed to run locally on edge devices without an internet connection. The interactive game allows users to type text or adjust settings to hear audio generated entirely within the browser.</p><p>The open-download model features 31 million parameters and is part of Underdog's broader push to provide lightweight, locally hosted AI tools that prioritize user data privacy. This follows the company's previous release of Bark, a speech-to-text model also built for edge devices.</p>
+<p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/">techcrunch.com</a> | <a href="https://underdog.ai/escape">underdog.ai</a></p>
+<br clear="all" />
+
 <h2>Unsloth Releases Dynamic V3.1 GGUFs for Qwen3.8-Flash-Next</h2>
 <a name="story-26682"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHQG-Srza0AEB0kf%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unsloth has released Dynamic V3.1 GGUF quantizations for the Qwen3.8-Flash-Next model, reporting a 10 to 15 percent increase in accuracy alongside reduced token usage and faster processing speeds.</p><p>The update also introduces major platform enhancements across the Unsloth application, including improved Glass theme rendering, unified memory offloading for larger models, individual web browsers for separate chats, and faster image and video generation performance on multi-GPU hardware.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26479"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-site-assets.veed.io%2FGIF_Maker_be9920be29%2FGIF_Maker_be9920be29.png%3Fwidth%3D1280%26quality%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has introduced animated GIF creation and editing capabilities to ChatGPT as part of its new Images 2.6 model update. Users can now generate GIFs from text prompts or uploaded photos, adjust animation speeds, and edit individual frames directly within the chatbot.</p><p>The update also brings faster image generation across ChatGPT and its API, with OpenAI reporting that users generate over 4 billion images per week. Images 2.6 is rolling out across web, desktop, and mobile applications, alongside new API controls such as GPT-Image-2.6 Flare and Sunburst.</p>
 <p>Nov 5 · <a href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6">theverge.com</a> | <a href="https://openai.com/index/introducing-images-2-6/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50372945">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI Prototype Identifies and Patches Hundreds of Linux Kernel Vulnerabilities</h2>
-<a name="story-26504"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnsfocusglobal.com%2Fwp-content%2Fuploads%2F2026%2F05%2F0508a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI researchers developed an autonomous pipeline to identify, validate, and patch security flaws in the Linux kernel. The prototype analyzed 2,308 candidate findings, reproduced 1,724 vulnerabilities, and generated 948 local privilege escalation exploits and their corresponding patches.</p><p>The five-stage process—comprising discovery, dynamic validation, exploitability assessment, patch generation, and human review—is powered by specialized cyber models. This research aims to reduce the operational burden on security maintainers and increase the cost for attackers to exploit software.</p>
-<p>Nov 5 · <a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50372929">hacker news</a></p>
 <br clear="all" />
 
 ---

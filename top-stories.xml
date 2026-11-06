@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-06T17:11:00+00:00</updated>
+  <updated>2026-11-06T18:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Tesla Plans to Wind Down Cybertruck Production at Texas Gigafactory in Mid-2027</title>
+    <link href="https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98" rel="alternate" />
+    <id>https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98::v240</id>
+    <published>2026-11-06T18:08:00+00:00</published>
+    <updated>2026-11-06T18:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2023%2F07%2Fcybertruck-frame.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98">ft.com</a> | <a href="https://x.com/elonmusk/status/2118591788701421573">x.com</a> | <a href="https://news.ycombinator.com/item?id=50393154">hacker news</a></small></p><hr/><p>Tesla plans to wind down production of the Cybertruck at its Gigafactory Texas in mid-2027 to accommodate increased manufacturing of the Cybercab. Chief Executive Officer Elon Musk announced the shift in a social media post, stating that the facility space is needed to ramp up output for the autonomous vehicle.</p><p>The announcement leaves open whether Cybertruck production will be relocated to another facility or phased out entirely following the mid-2027 wind-down. The Austin plant has served as the primary manufacturing hub for the electric pickup truck since its launch.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2023%2F07%2Fcybertruck-frame.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 17:49 UTC | #26654 | d,hr</small>]]></content>
+  </entry>
   <entry>
     <title>Mark Cuban Criticizes Meta Over AI Deepfake Scam Ads Following Internal Revenue Revelations</title>
     <link href="https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html" rel="alternate" />
@@ -473,14 +482,5 @@
     <updated>2026-11-01T20:42:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews-pravda.com%2Fimg%2F20261031%2F82035a6900331972800bc4ed99426020.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://groups.google.com/g/golang-announce/c/PCoQcdxoScw">groups.google.com</a> | <a href="https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50298526">hacker news</a></small></p><hr/><p>The Go Security Team has issued guidance regarding CVE-2026-98432, a critical use-after-free vulnerability affecting IPv4 TCP connection handling in the Linux kernel that can allow remote code execution when Multipath TCP listeners are exposed. While upgrading to a patched kernel remains the definitive fix, Go 1.24 and later versions enable Multipath TCP by default for listen sockets on Linux, making programs potentially susceptible unless mitigated.</p><p>Developers can disable Multipath TCP globally at runtime using the "GODEBUG=multipathtcp=0" environment variable, at build time by adding "godebug multipathtcp=0" to a go.mod file, or explicitly per socket using Dialer and ListenConfig settings. However, the security team cautions that program-by-program mitigations are fragile and stresses that updating the kernel is the only complete remedy, noting that any future changes to Go's default behavior will be discussed publicly.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews-pravda.com%2Fimg%2F20261031%2F82035a6900331972800bc4ed99426020.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 14:54 UTC | #26027 | h,dr</small>]]></content>
-  </entry>
-  <entry>
-    <title>Big Tech Companies Return Smallest Share of Cash to Shareholders in 15 Years</title>
-    <link href="https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/" rel="alternate" />
-    <id>https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/::v240</id>
-    <published>2026-11-01T18:00:00+00:00</published>
-    <updated>2026-11-01T18:00:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/">reuters.com</a></small></p><hr/><p>Microsoft, Alphabet, Amazon, Meta, and Oracle distributed only 9.3% of their generated cash to shareholders in the first three quarters of 2026. This proportion is the lowest in 15 years, occurring even as these companies reached record cash generation levels.</p><p>The drop from 27.4% in 2025 is driven by heavy capital expenditures on artificial intelligence infrastructure. Although operating cash flow rose 29% to $542.9 billion, the intense AI spending cycle has significantly reduced the cash available for dividends and buybacks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FBRV-BRV%2FBRV-BRV%2Flgpdjlzewpo%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>31 Oct 2026, 02:42 UTC | #25989 | r,hd</small>]]></content>
   </entry>
 </feed>
