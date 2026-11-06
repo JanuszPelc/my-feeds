@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-05T22:27:00+00:00</updated>
+  <updated>2026-11-05T22:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>600,000 Nvidia H200 Chips Await Shipment to China in Hong Kong</title>
+    <link href="https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/::v240</id>
+    <published>2026-11-05T22:28:00+00:00</published>
+    <updated>2026-11-05T22:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FZcE4b2axuIGM4mKF6r2FsA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2F61398d877602a29adf5fb92d45ca110d&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50380752">hacker news</a></small></p><hr/><p>Approximately 600,000 Nvidia H200 artificial intelligence chips are currently stored in Hong Kong awaiting shipment to mainland China. The stockpile has accumulated as Beijing withholds approval for large-scale imports of the advanced processors.</p><p>The delay highlights the tension between Chinese companies' demand for high-performance AI hardware and government restrictions on imports. The H200 chips are among Nvidia's newest data-center processors used to train and run large-scale artificial intelligence models.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FZcE4b2axuIGM4mKF6r2FsA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2F61398d877602a29adf5fb92d45ca110d&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 02:32 UTC | #26602</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Pauses Commercial Terms Update Following Backlash Over AI Training</title>
     <link href="https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/" rel="alternate" />
