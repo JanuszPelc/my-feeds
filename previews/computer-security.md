@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Omdia Highlights Key Technology and Infrastructure Security Trends for 2027</h2>
+<a name="story-26739"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2026%2F02%2Fomdia-tablets-q4-2025.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Omdia has released a series of Trend Watch reports examining major technology, infrastructure security, and market shifts projected for 2027. The analyses cover accelerating demands for digital sovereignty, the commercial monetization of artificial intelligence, and the convergence of building automation with industrial control systems.</p><p>Additional reports explore network modernization challenges, including fiber infrastructure requirements for AI workloads, cybersecurity team restructuring, and smartphone financing dynamics in emerging markets. These insights aim to help enterprises navigate complex operational transitions and evaluate long-term technology investments.</p>
+<p>Nov 7 · <a href="https://omdia.tech.informa.com/">omdia.tech.informa.com</a></p>
+<br clear="all" />
+
 <h2>Analysis of Apple&#x27;s On-Device Personal Knowledge Graph and macOS Daemons</h2>
 <a name="story-26762"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F09%2Fget-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods%2Farticle%2FApple-Watch-Series-11_inline.jpg.large_2x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple’s macOS features background daemons like knowledgeconstructiond and intelligenceplatformd that automatically construct an on-device personal knowledge graph. The system cross-references local data sources—including contacts, calendar events, photos, messages, location signals, and device activity—to build a queryable repository of user relationships and behaviors.</p><p>Security researchers at Eighth Rank analyzed the underlying SQLite databases within the IntelligencePlatform directory, detailing the structure's entity classes and relationship predicates. To help users inspect what data is stored locally, the researchers also released an open-source tool called iKnow while highlighting potential privacy and security implications associated with comprehensive on-device data aggregation.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenSSH installations running on musl libc—including Alpine, OpenWrt, and Buildroot—are vulnerable to a password bypass affecting accounts with no password (marked with '*' in /etc/shadow). When a password longer than 256 characters is provided, musl's crypt() function returns '*' due to a length limit in its SHA512 implementation, which OpenSSH incorrectly validates as a successful match.</p><p>The vulnerability specifically affects systems using musl that do not utilize PAM and have password authentication enabled. To mitigate this risk, users are advised to upgrade to OpenSSH 10.6p2 or disable password authentication in their SSH configuration.</p>
 <p>Nov 5 · <a href="https://sshhole.com">sshhole.com</a> | <a href="https://news.ycombinator.com/item?id=50378228">hacker news</a></p>
-<br clear="all" />
-
-<h2>Debian Patches APT Vulnerability Allowing Root Code Execution</h2>
-<p>Debian released security advisory DSA-6607-1 to address CVE-2026-109518, a vulnerability in the APT package manager. A man-in-the-middle attacker can exploit improper file handling during resumed HTTP downloads to replace a package after verification, potentially enabling arbitrary code execution as root.</p><p>The flaw allows APT to merge two different package downloads if an HTTP redirect assigns them the same URI. For the Debian stable release (trixie), the issue is fixed in APT version 3.0.4. This update also addresses several out-of-bounds access issues.</p>
-<p>Nov 4 · <a href="https://lists.debian.org/debian-security-announce/2026/msg00526.html">lists.debian.org</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6607-1">security-tracker.debian.org</a> | <a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50366575">hacker news</a></p>
 <br clear="all" />
 
 ---

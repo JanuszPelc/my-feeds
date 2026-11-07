@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Omdia Reports Global Tablet Shipments Fell 23 Percent in Q3 2026</h2>
+<a name="story-26742"><img src="https://wsrv.nl/?url=https%3A%2F%2Fomdia.tech.informa.com%2F-%2Fmedia%2Ftech%2Fomdia%2Fmarketing%2Fpr%2F2026%2Fnov%2Fomdia-global-tablet-shipments-fall-23-to-32-million-in-q3-2026-gettyimages1147301914.jpg%3Frev%3Dd5df93a8e7b04bf6af59885020428c13&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Global tablet shipments dropped 23% year over year to 32 million units in the third quarter of 2026, reaching their lowest level in nearly three years, according to research from Omdia. The downturn was led by sharp contractions in the Middle East, China, and Western Europe, driven by persistent supply constraints and waning strategic priority from hardware vendors.</p><p>Apple and Samsung retained the top two spots in market share despite significant shipment declines of 28% and 22%, respectively. Lenovo was the sole top-five vendor to achieve growth, increasing shipments by 12% to capture a 12.7% market share, while Xiaomi and Huawei rounded out the top five amid an environment where recent flagship device launches failed to spur broader consumer demand.</p>
+<p>Nov 7 · <a href="https://omdia.tech.informa.com/pr/2026/nov/global-tablet-shipments-fall-23percent-to-32-million-in-q3-2026">omdia.tech.informa.com</a></p>
+<br clear="all" />
+
 <h2>Apple Announces Over 100,000 Apps Optimized for iPhone Duo</h2>
 <a name="story-26724"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theapplepost.com%2Fwp-content%2Fuploads%2F2026%2F10%2FiMessage.iPhoneDuo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The App Store now features over 100,000 apps built specifically for the iPhone Duo, two weeks after the foldable device's release. Thousands of new optimized apps are being added to the store each day.</p><p>Despite this availability, some applications still face layout and usability challenges on the new form factor. Instagram, for instance, has encountered interface issues despite holding Apple's "Made for iPhone Duo" designation.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FFDf4ZRTzzlizntGfGaRH1A--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--%2Fhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F351f9df0-0fe4-11f0-b7ed-d27e3588aec9&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nintendo reported a 16% year-over-year decrease in second-quarter net profit to $468 million. The decline was driven by rising Switch 2 component costs and a lack of major new game releases.</p><p>Switch 2 sales for the first half of fiscal year 2027 fell 37% year-over-year to 6.49 million units.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts">bloomberg.com</a> | <a href="https://www.nintendo.co.jp/ir/en/library/earnings/index.html">nintendo.co.jp</a></p>
-<br clear="all" />
-
-<h2>LEGO and Daft Punk Announce Partnership and Pyramid Stage Set</h2>
-<a name="story-26538"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FLEGO-x-Daft-Punk-Pyramid-Set.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The LEGO Group has announced a partnership with Daft Punk, featuring a set modeled after the duo's iconic pyramid stage from the 2007 "Alive" tour. The design is based on a 2020 LEGO Ideas submission created by a father and son from Luxembourg.</p><p>The collaboration will encompass various products, content, and brand experiences, with the set being featured in LEGO's 2026 holiday campaign. Further developments from the partnership are expected to arrive in 2027.</p>
-<p>Nov 5 · <a href="https://musictech.com/news/music/lego-daft-punk-pyramid-stage-set/">musictech.com</a> | <a href="https://www.lego.com/en-us/aboutus/news/2026/october/lego-group-and-daft-punk-partnership-announcement">lego.com</a></p>
 <br clear="all" />
 
 ---
