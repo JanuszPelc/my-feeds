@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>SAG-AFTRA Introduces Pre-Funding Pitch Interactive Media Agreement</h2>
+<a name="story-26714"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcmsproductions.com%2Fwp-content%2Fuploads%2F2025%2F07%2FSAGInteractiveMediaContractRates.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SAG-AFTRA has launched the Pre-Funding Pitch Interactive Media Agreement, a new framework that allows game developers to hire professional union actors for pre-production pitches and vertical slices. The agreement is designed to help teams secure publisher backing in a competitive market by utilizing professional voice and motion performance talent earlier in development.</p><p>Eligibility for the new contract is restricted to projects with no more than 30 percent of their initial production funding secured and explicitly prohibits commercial releases. Industry observers note that the initiative may also help developers avoid relying on generative AI voices during early prototyping phases.</p>
+<p>Nov 6 · <a href="https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches">gamedeveloper.com</a></p>
+<br clear="all" />
+
 <h2>Silver Lake and Saudi Arabia PIF Hold Acquisition Talks With Unity Software</h2>
 <a name="story-26707"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshiftdelete.net%2Fstatic%2Fimg%2Fcontent%2F26-11%2F06%2Funity-acquisition.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unity Software is reportedly in discussions with a consortium of investors, including private equity firm Silver Lake and Saudi Arabia's Public Investment Fund, to explore a potential acquisition. The talks, first reported by Reuters, could result in a leveraged buyout of the game engine provider.</p><p>Both Silver Lake and the PIF recently finalized a leveraged buyout of Electronic Arts. Silver Lake already holds an eight percent stake in Unity, while the PIF has aggressively expanded its investments across the global video game and technology sectors.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26474"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fswitchcarts-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Macronix, a major provider of ROM chips for Nintendo Switch cartridges, is phasing out its ROM production to shift manufacturing capacity toward NOR and NAND flash chips for the AI industry. The company announced in its third-quarter 2026 earnings report that its ROM business has "reached its end."</p><p>The exit may increase production costs for physical Switch and Switch 2 cartridges, potentially leading to higher retail prices for physical games. However, the impact could be mitigated by the continued growth of Nintendo's digital software sales, which accounted for 61.5 percent of the company's business in the second quarter of 2026.</p>
 <p>Nov 4 · <a href="https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/">arstechnica.com</a> | <a href="https://www.mxic.com.tw/en-us/about/news/Pages/20261027-EN.aspx">mxic.com.tw</a> | <a href="https://news.ycombinator.com/item?id=50373510">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nothing to Release Screenless AI-Native Product in December</h2>
-<a name="story-26467"><img src="https://wsrv.nl/?url=https%3A%2F%2Fyoumobile.org%2Fwp-content%2Fuploads%2F2025%2F01%2FNothing-CEO-Carl-Pei-leaks-a-feature-coming-in-Nothing-OS-3.0-that-many-users-will-love-1-1024x576.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nothing CEO Carl Pei announced that the company's first "AI-native" product is scheduled to ship in December 2026. The device is described as a productivity tool that lacks a dedicated screen and is designed as hardware rather than a software application.</p><p>This approach diverges from current industry trends focusing on AI-enabled wearables like smart glasses or pins. While Nothing has previously discussed AI-linked earbuds and eyewear, the specific form factor and capabilities of this upcoming screenless device remain undisclosed.</p>
-<p>Nov 4 · <a href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/">techcrunch.com</a> | <a href="https://x.com/getpeid/status/2117991714879410204">x.com</a></p>
 <br clear="all" />
 
 ---
