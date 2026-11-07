@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Research Reveals Apple iPhone Predictive Text Restricts Over 100,000 Words and Phrases</h2>
+<a name="story-26782"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.apple.com%2Fassets%2F65E21662495F1A6C8701F50A%2F65E21663EF8273BE1D0C2734%2Fen_US%2Fb7b184ab16935c992884d5a051ec1aa4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Independent research has uncovered a hard-coded grey list within Apple's iOS operating system containing more than 100,000 words and phrases restricted from iPhone predictive text and swipe-typing completions. The list encompasses terms related to drugs, sexual acts, and various politically sensitive phrases, requiring users to manually spell them out rather than relying on autocomplete suggestions.</p><p>Discovered by researcher Derik Kauffman, the restricted entries feature terms such as political names, regional disputes, and sensitive phrases across multiple languages. While Apple states that its keyboard is designed to avoid offensive or inappropriate suggestions, the hidden restrictions highlight how automated text systems manage potentially controversial content.</p>
+<p>Nov 7 · <a href="https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50406111">hacker news</a></p>
+<br clear="all" />
+
+<h2>U.S. Clears Nvidia H200 Chip Exports to Chinese Firms with Sanctioned Ties</h2>
+<a name="story-26763"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F07%2Fmultimedia%2F07dc-china-chips-01-fjhg%2F07dc-china-chips-01-fjhg-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The U.S. Commerce Department has approved dozens of Chinese companies to receive Nvidia's H200 AI chips, including firms with ties to entities under federal sanctions. One cleared firm, New Matrix, maintains a registered office in a Beijing industrial park that is currently an empty, unfinished space.</p><p>Chinese corporate records link New Matrix's owners to a private equity fund placed on a U.S. trade blacklist in 2024. The approval of these firms has raised concerns among technology experts regarding the effectiveness of national security reviews for advanced semiconductor exports.</p>
+<p>Nov 7 · <a href="https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Hungary Opens Communist-Era Secret Service Files and Releases Names of Former Agents</h2>
 <a name="story-26765"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.politico.eu%2Fcdn-cgi%2Fimage%2Fwidth%3D1160%2Cheight%3D747%2Cquality%3D80%2Conerror%3Dredirect%2Cformat%3Dauto%2Fwp-content%2Fuploads%2F2026%2F11%2F04%2FGettyImages-2299469363-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hungary has launched an online public database granting unrestricted access to communist-era state security records for the first time since the 1990 democratic transition. The newly accessible portal makes searchable the names and registration details of an estimated 50,000 to 60,000 former informants and agents from the one-party communist era.</p><p>The initiative follows a bill introduced by Prime Minister Peter Magyar in September to lift decades of restrictions that critics argued enabled political blackmail and secrecy. While the release includes names of politicians, clergy, and public figures, historians and officials note that the files are incomplete and urge the public to approach the sensitive historical records with caution and nuance.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26500"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F6%252F7%252F3%252F4%252F13404376-3-eng-GB%252F254f669b1742-1f.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Export controls on tungsten have disrupted the supply of micro drill bits essential for manufacturing printed circuit boards (PCBs) and chip substrates used in AI technology. These restrictions have driven a surge in prices for the critical tools required to produce high-end electronic components.</p><p>Tungsten carbide bits, such as those manufactured by Taiwan's Topoint, are vital for drilling the precision micro-holes used in modern AI hardware. The supply squeeze illustrates how geopolitical friction and mineral export restrictions are impacting the global semiconductor and tech manufacturing sectors.</p>
 <p>Nov 5 · <a href="https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain">asia.nikkei.com</a></p>
-<br clear="all" />
-
-<h2>China Blocks SoftBank&#x27;s $5.4 Billion Acquisition of ABB&#x27;s Robotics Division</h2>
-<a name="story-26494"><img src="https://wsrv.nl/?url=https%3A%2F%2Fyunpan.cdn.site.joinf.com%2F5469324759847321%2F54CjhcnpnF0.8001909569907562&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>China has informed SoftBank that it will not permit the $5.4 billion acquisition of ABB's robotics division to proceed. The decision is linked to China's role as the division's largest market, which includes significant manufacturing operations at a mega-factory in Pudong.</p><p>The outcome impacts SoftBank's strategic ambitions in the physical AI sector. The acquisition was intended to integrate ABB's robotics expertise with SoftBank's AI and next-generation computing capabilities.</p>
-<p>Nov 5 · <a href="https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4">ft.com</a></p>
-<br clear="all" />
-
-<h2>Democratic Congressional Control Could Intensify Regulation of AI Data Centers</h2>
-<a name="story-26486"><img src="https://wsrv.nl/?url=https%3A%2F%2Feskesthai.net%2Fwp-content%2Fuploads%2F2026%2F03%2Fimg_1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Following the 2026 midterm elections, where Democrats gained full control of Congress, the rapid expansion of AI data centers has become a significant political issue. Voter concerns regarding environmental impact, increasing utility costs, and local community agency are driving calls for stricter regulations and construction limits.</p><p>Legislative efforts like the AI Data Center Moratorium Act and the GRID Savings Act aim to pause new developments or prevent infrastructure costs from being passed to local ratepayers. Analysts suggest that Democratic gains in states like Georgia and Texas could result in significant construction delays and increased scrutiny of energy and land-use policies.</p>
-<p>Nov 5 · <a href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
