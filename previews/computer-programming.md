@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Red Blob Games Details Two-Dimensional Version Control Workflow with Jujutsu</h2>
+<a name="story-26775"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.redblobgames.com%2Fblog%2F2026-09-27-jujutsu-experience%2Fimages%2F2d-vc.png%3F2026-10-23-13-59-56&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Red Blob Games shares an experience report on using the Jujutsu version control system to manage a two-dimensional project history during a roguelike development challenge. By tracking both writer development time and reader-facing tutorial chapters simultaneously, the author leveraged Jujutsu's capability to automatically propagate changes forward and backward across commits.</p><p>The project required maintaining 14 sequential chapters of code alongside a primary development timeline, allowing for retroactive edits, structural code improvements across past chapters, and consistent commit descriptions. While the tool successfully streamlined complex history management and exported cleanly to Git, the author notes that its automated behaviors occasionally made it difficult to track background changes completely.</p>
+<p>Nov 7 · <a href="https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/">redblobgames.com</a> | <a href="https://lobste.rs/s/49o9f3/two_dimensional_version_control">lobsters</a></p>
+<br clear="all" />
+
 <h2>Meridian macOS Web Browser Built on GPUI and Servo</h2>
 <a name="story-26770"><img src="https://wsrv.nl/?url=https%3A%2F%2Fop.tngl.io%2Fmeridian%2Fassets%2Fmeridian-logo.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meridian is a customizable macOS web browser written in Rust and built on the GPUI framework and the Servo web rendering engine. Designed to handle lightweight websites efficiently, the browser provides features such as an address bar with typeahead, vertical and horizontal tabs, bookmarks, history, per-site zoom, and a dedicated reader mode.</p><p>The project relies on a separate bridging library called gpui-servo to integrate Servo as a standard GPUI component, enabling developers to build similar browser interfaces. Meridian can be installed using Nix via its repository on Tangled, where the source code and issue tracker are publicly hosted for community contributions.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.onirom.fr%2Fwiki%2Fcodegolf%2Fx-87%2Fimages%2F0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>X-87 is a 256-byte DOS program created for Outline 2026 that renders a stylized, barren landscape using x86 and x87 floating-point math in real mode. Running via VESA 2 at 640x400 resolution in 32-bit color, the procedural graphics rely on mathematical oscillators developed from earlier p5.js sketches.</p><p>The development process spanned iterative prototyping in Forth and Gforth, translating vector-based sketches into stack-based FPU instructions, and optimizing code size to fit within the strict 256-byte constraint. The program incorporates dither-like colorization and ensures compatibility across emulators like DOSBox and Bochs through compressed loops and segment initialization tricks.</p>
 <p>Nov 6 · <a href="https://www.onirom.fr/wiki/codegolf/x-87/">onirom.fr</a> | <a href="https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50390629">hacker news</a></p>
-<br clear="all" />
-
-<h2>BUI Decouples Blender Interface into Standalone Multi-Language UI Library</h2>
-<a name="story-26666"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdevtalk.blender.org%2Fuploads%2Fdefault%2Foriginal%2F3X%2F0%2Fd%2F0d1d684ab8e8c6cb17e713cefe67a14ecb6c42d4.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>BUI is an open-source UI library that decouples Blender's GPU-accelerated interface from its core codebase to provide a standalone toolset for developers. It features native bindings for Python, Rust, JavaScript, React, C, C++, and Dear ImGui, allowing applications to utilize Blender's interface components and rendering performance without requiring Blender to be installed.</p><p>The library replicates Blender's core interaction rules, including continuous drag number fields, math expression evaluators, and fuzzy menu searches, while supporting legacy tkinter applications and modern web-like styling frameworks. Built for resource efficiency, BUI uses damage rendering and an optional GPU backend to deliver high frame rates with minimal CPU overhead.</p>
-<p>Nov 6 · <a href="https://github.com/ppmpreetham/BUI">github.com</a> | <a href="https://news.ycombinator.com/item?id=50389333">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-07T10:38:00+00:00</updated>
+  <updated>2026-11-07T10:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Red Blob Games Details Two-Dimensional Version Control Workflow with Jujutsu</title>
+    <link href="https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/" rel="alternate" />
+    <id>https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/::v240</id>
+    <published>2026-11-07T10:54:00+00:00</published>
+    <updated>2026-11-07T10:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.redblobgames.com%2Fblog%2F2026-09-27-jujutsu-experience%2Fimages%2F2d-vc.png%3F2026-10-23-13-59-56&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/">redblobgames.com</a> | <a href="https://lobste.rs/s/49o9f3/two_dimensional_version_control">lobsters</a></small></p><hr/><p>Red Blob Games shares an experience report on using the Jujutsu version control system to manage a two-dimensional project history during a roguelike development challenge. By tracking both writer development time and reader-facing tutorial chapters simultaneously, the author leveraged Jujutsu's capability to automatically propagate changes forward and backward across commits.</p><p>The project required maintaining 14 sequential chapters of code alongside a primary development timeline, allowing for retroactive edits, structural code improvements across past chapters, and consistent commit descriptions. While the tool successfully streamlined complex history management and exported cleanly to Git, the author notes that its automated behaviors occasionally made it difficult to track background changes completely.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.redblobgames.com%2Fblog%2F2026-09-27-jujutsu-experience%2Fimages%2F2d-vc.png%3F2026-10-23-13-59-56&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 18:01 UTC | #26775</small>]]></content>
+  </entry>
   <entry>
     <title>Meridian macOS Web Browser Built on GPUI and Servo</title>
     <link href="https://op.tngl.io/meridian/" rel="alternate" />
