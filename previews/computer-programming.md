@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Need for Speed: Underground 2 Browser Port Now Available</h2>
+<a name="story-26764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Underground 2 Revived is a fan-made project that runs the 2004 PC racing game Need for Speed: Underground 2 directly in web browsers such as Chrome and Firefox. The port uses static WebAssembly recompilation to execute the original x86 game code, supporting widescreen resolutions up to 120 frames per second via WebGPU, along with standard peripherals like controllers, steering wheels, and touch controls.</p><p>The unofficial release features online multiplayer capabilities, including shared free-roam sessions and races with other players. Developed as a free browser-based experience with no microtransactions or paid perks, the project requires users to provide their own game files and includes built-in state saving through the in-game garage menu.</p>
+<p>Nov 7 · <a href="https://nfsu2.xyz/">nfsu2.xyz</a> | <a href="https://github.com/th0mk/nfsu2-web">github.com</a> | <a href="https://news.ycombinator.com/item?id=50403052">hacker news</a></p>
+<br clear="all" />
+
 <h2>Asahi Linux Details Apple Silicon Upstreaming and M3 Support in Linux 7.3 Progress Report</h2>
 <a name="story-26761"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F04%2Ffeatured-image-235.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Asahi Linux project has released its progress report for Linux 7.3, detailing major upstreaming milestones such as the inclusion of the macaudio and AVD drivers, initial Devicetree support for M4 and M5 silicon, and the general availability of M3 series hardware support. The report also covers advances in virtualization for reverse engineering newer Apple chips, initial M3 GPU initialization, and upstream-first Thunderbolt driver enablement.</p><p>Additional updates include performance improvements to the custom microphone beamformer, the release of Fedora Asahi Remix 45, and experimental testing of the Per Process Page Size (P3S) kernel patchset to run 4 KiB-page Windows games natively without virtual machines. These developments significantly narrow functional gaps for Linux on Apple Silicon while shifting several core components toward upstream-first development.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.naut.ca%2Fblog%2Fcontent%2Fimages%2F2026%2F11%2FScreenshot-2026-11-05-at-1.25.41-PM.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer and long-time contributor Yoonsik Park explores how the integration of AI coding assistants like Claude Code has revitalized the Hackintosh and HackiOS communities. Despite Apple's transition to ARM architecture and the official incompatibility of newer macOS releases with x86 hardware, developers are leveraging AI tools to rapidly create workarounds and ports.</p><p>Recent milestones driven by these advancements include running macOS 27 on Snapdragon laptops and ARM single-board computers, porting iOS to the Nintendo Switch OLED, and enabling support for Nvidia 50-series GPUs. These achievements indicate that AI-assisted reverse engineering is lowering traditional hardware barriers for running macOS on non-Apple systems.</p>
 <p>Nov 6 · <a href="https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/">naut.ca</a> | <a href="https://news.ycombinator.com/item?id=50383057">hacker news</a></p>
-<br clear="all" />
-
-<h2>Window Sweaters Adds Knitted Borders to macOS Windows</h2>
-<a name="story-26646"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fsaragordic%2Fwindow-sweaters%2Fraw%2Fmain%2Fdocs%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Window Sweaters is a macOS menu-bar application that adds decorative, knitted-style borders to application windows. The software provides custom color schemes for 37 specific applications and offers various patterns, such as a "Zigzag" style that derives colors from application icons.</p><p>Users can install the application via Homebrew or by downloading the release directly from GitHub. Because the app uses private macOS window APIs and is not yet notarized by Apple, users must manually grant it accessibility permissions and security clearance in System Settings to function.</p>
-<p>Nov 5 · <a href="https://github.com/saragordic/window-sweaters">github.com</a> | <a href="https://news.ycombinator.com/item?id=50381383">hacker news</a></p>
 <br clear="all" />
 
 ---
