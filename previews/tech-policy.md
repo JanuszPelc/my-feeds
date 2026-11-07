@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>SpaceX US Government Revenue to Fall Below 10%, Elon Musk Says</h2>
+<a name="story-26712"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWdHz9QboAAUV00%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Elon Musk stated that US government contracts will account for less than 10% of SpaceX's revenue during the current quarter, reflecting a significant decline from 16.6% in the previous quarter and roughly 20% in 2025. The shift highlights a decreasing reliance on public sector funding as commercial operations and other large-scale agreements expand.</p><p>The reduction in government contract share comes as commercial and corporate ventures, including AI computing arrangements, grow to comprise the vast majority of the company's business. Musk's remarks point to a broader transition in SpaceX's revenue streams away from its historical dependence on government-backed missions and programs.</p>
+<p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>DOJ Charges Three Foreign Nationals in $129M AI Impersonation Scheme</h2>
 <a name="story-26704"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcypfer.com%2Fwp-content%2Fuploads%2F2025%2F10%2Fceo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Federal prosecutors charged three foreign nationals—Jacob Soall, Sharon Hazan, and Guy Sheetrit—with orchestrating an international fraud scheme that used artificial intelligence to impersonate corporate executives and attorneys. Between July 2024 and February 2026, the group allegedly tricked employees at multiple global companies into wiring more than $129 million to accounts controlled by the conspirators.</p><p>The suspects reportedly used cloned voices and fabricated legal identities to convince accounting personnel to execute confidential financial transactions, subsequently laundering the stolen funds through cryptocurrency conversions. All three defendants face multiple counts of wire fraud, aggravated identity theft, and money laundering, with each charge carrying a maximum sentence of 20 years in prison.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26488"><img src="https://wsrv.nl/?url=https%3A%2F%2F99percentinvisible.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fgolden-gate-park-posts.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The San Francisco Municipal Transportation Agency (SFMTA) is officializing protected bike lanes near Golden Gate Park that were originally installed by the San Francisco Transformation Agency (SFMTrA). The group used traffic cones and soft-hit posts to create the lanes following two fatal hit-and-run collisions involving cyclists.</p><p>This decision deviates from standard municipal protocols, which typically require the removal of unauthorized roadway objects. The city's adoption of the installation suggests a willingness to incorporate community-led "tactical urbanism" into formal street safety and design processes.</p>
 <p>Nov 4 · <a href="https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/">99percentinvisible.org</a> | <a href="https://www.facebook.com/SFMTA.Livable.Streets/posts/a-new-bike-only-shortcut-into-and-out-of-golden-gate-park-is-up-and-running-at-7/1097189633653482/">facebook.com</a> | <a href="https://news.ycombinator.com/item?id=50366522">hacker news</a></p>
-<br clear="all" />
-
-<h2>US Voters Reject Data Centers in Local Ballot Measures</h2>
-<a name="story-26455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.semafor.com%2F979c48c4a511a88aca935f3bef3c0975ed97df05-2236x2492.png%3Fw%3D740%26q%3D75%26auto%3Dformat%26h%3D824&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Voters in more than 30 localities across nine states passed moratoriums, outright bans, and financial restrictions on data centers during Tuesday's elections. The widespread pushback highlights growing community resistance to the rapid expansion of artificial intelligence infrastructure and energy-intensive computing facilities.</p><p>Financial institutions and asset managers are increasingly treating local opposition as a credit risk for data center developments. In response to the mounting political and public pressure, technology companies are attempting to rebrand the facilities, while politicians across party lines face demands for stricter regulations.</p>
-<p>Nov 4 · <a href="https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures">semafor.com</a> | <a href="https://news.ycombinator.com/item?id=50365982">hacker news</a></p>
 <br clear="all" />
 
 ---
