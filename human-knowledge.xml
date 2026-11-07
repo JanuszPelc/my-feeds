@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-07T13:01:00+00:00</updated>
+  <updated>2026-11-07T13:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Arjun Panickssery Discusses AI Research and Development on LessWrong</title>
+    <link href="https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL" rel="alternate" />
+    <id>https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL::v240</id>
+    <published>2026-11-07T13:04:00+00:00</published>
+    <updated>2026-11-07T13:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FcQk9Zq68y7wKntju5oeDK82Nw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL">lesswrong.com</a> | <a href="https://news.ycombinator.com/item?id=50388513">hacker news</a></small></p><hr/><p>Arjun Panickssery has published a shortform post on LessWrong examining the nature and perceived ingenuity of artificial intelligence research and development. The discussion touches upon observations of model performance in side projects and tasks such as game engines and philosophy.</p><p>The post has generated community discussion regarding the practical capabilities and foundational limitations of current machine learning systems. Readers can consult the LessWrong platform for the complete commentary and ongoing responses.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FcQk9Zq68y7wKntju5oeDK82Nw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 20:27 UTC | #26778</small>]]></content>
+  </entry>
   <entry>
     <title>Study Attributes Origins of Earth's Great Unconformity to Mantle Dynamics</title>
     <link href="https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/" rel="alternate" />
