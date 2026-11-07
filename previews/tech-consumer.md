@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>EA Re-releases 25 Classic Games on Steam and GOG</h2>
 <a name="story-26721"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FEACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>EA has released 25 classic games on Steam and GOG, including remastered versions of several Wing Commander and Ultima series titles. The collection features updated versions of legacy software such as Road Rash and Privateer 2.</p><p>The remastering of the Wing Commander series involved digitizing original full-motion-video cutscenes discovered in EA's physical media archives. Senior producer Jim Vessella led the effort, which included coordinating contractors and community contributors to facilitate the restorations.</p>
-<p>Nov 6 · <a href="https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/">arstechnica.com</a> | <a href="https://www.ea.com/news/from-the-vault-to-your-library">ea.com</a></p>
+<p>Nov 6 · <a href="https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/">arstechnica.com</a> | <a href="https://www.ea.com/news/from-the-vault-to-your-library">ea.com</a> | <a href="https://news.ycombinator.com/item?id=50404545">hacker news</a></p>
 <br clear="all" />
 
 <h2>SAG-AFTRA Introduces Pre-Funding Pitch Interactive Media Agreement</h2>
