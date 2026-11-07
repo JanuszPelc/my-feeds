@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>UploadYourRam.org Satirical Platform Offers Mock RAM Donation Service</h2>
+<a name="story-26756"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-9gag-fun.9cache.com%2Fphoto%2FaW4N9d2_460s.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>UploadYourRam.org is a satirical website that mocks growing AI infrastructure demands by introducing a fictional service for users to upload and donate their idle computer memory. The project parodies industry commentary surrounding hardware efficiency and consumer guilt over unused resources.</p><p>The mock platform provides tiered donation options ranging from 2 GB to 16 GB, poking fun at the idea of offloading local hardware components to external needs. Developed by TheZoq2, the project's source code is publicly hosted on Codeberg.</p>
+<p>Nov 7 · <a href="https://uploadyourram.org/">uploadyourram.org</a> | <a href="https://lobste.rs/s/miazwz/uploadyourram_org">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50403214">hacker news</a></p>
+<br clear="all" />
+
 <h2>Internet-wide Scan Finds Services Listening on TCP Port 0</h2>
 <a name="story-26735"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXc4DMnG6Aoce7ehdqG2FG1sR0e6bkMMKvJ07X7VFhKHh0QgrVxxbJFdx9v9VgyZVU8YAt0XKkTg65R5rOfYI61f92YjDKOQWLD623vX2OAR0v9wmKvE1geunLbzdeX9hjc0fhsTsA%3Fkey%3DopCldyGYLT2fPepb4a7zb4uI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An internet-wide scan of IPv4 addresses for open TCP port 0 identified over one million responding hosts. While port 0 is a reserved value typically used by operating systems to assign ephemeral ports, raw-packet scanning tools can bypass kernel-level restrictions to detect active responses.</p><p>Findings included standard protocols like SSH, MySQL, and HTTP, as well as specialized industrial and building automation equipment such as Beckhoff PLCs, Gira HomeServers, and Trane Tracer Synchrony controllers. A high percentage of responding addresses were F5 BIG-IP load balancers.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26465"><img src="https://wsrv.nl/?url=https%3A%2F%2Flayer3intel.com%2F_next%2Fimage%3Furl%3D%252F_next%252Fstatic%252Fmedia%252Feop_proxy_activity.01iwvfjkrr2z9.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Layer3 Intel's Residential Proxy Observatory recorded 236 residential proxy exits across six IP addresses on the Executive Office of the President network between October 5 and November 3, 2026. The activity involved 28 separate public proxy services and occurred primarily during evening hours, pointing to an internal device rather than a public guest network.</p><p>The pattern suggests an internal device running a proxy software development kit, which researchers note can pose security risks by potentially allowing lateral network access. In addition to the White House network, Layer3 Intel's global tracking identified residential proxy and anonymization activity in extremely remote regions, including Antarctica and Saint Helena.</p>
 <p>Nov 4 · <a href="https://layer3intel.com/blog/residential-proxies-white-house-network">layer3intel.com</a> | <a href="https://news.ycombinator.com/item?id=50371246">hacker news</a></p>
-<br clear="all" />
-
-<h2>French Blood Establishment Refrigerators Affected by European Cyberattack Wave</h2>
-<a name="story-26416"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fhospital-s-blood-bank-storage-area-refrigerators-holding-bags-beautifully-composed-image-suitable-use-design-350423125.jpg%3Fw%3D576&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cold storage units operated by external providers for the French Blood Establishment (EFS) were compromised in a recent wave of European cyberattacks, with temperatures intentionally elevated. The breach affected three EFS preparation and distribution sites, threatening blood products, biobank samples, and frozen plasma intended for transfusions.</p><p>Surveillance systems triggered rapid alerts, allowing staff to bring equipment under control or take it offline before any blood products or samples were lost. The incident follows a broader series of remote hacks targeting supermarket refrigerators across France, Belgium, Sweden, and Finland, prompting the EFS to coordinate response efforts with the French National Cybersecurity Agency and the Ministry of Health.</p>
-<p>Nov 4 · <a href="https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html">cnbc.com</a></p>
 <br clear="all" />
 
 ---

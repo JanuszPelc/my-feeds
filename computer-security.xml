@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-06T23:58:00+00:00</updated>
+  <updated>2026-11-07T05:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>UploadYourRam.org Satirical Platform Offers Mock RAM Donation Service</title>
+    <link href="https://uploadyourram.org/" rel="alternate" />
+    <id>https://uploadyourram.org/::v240</id>
+    <published>2026-11-07T05:48:00+00:00</published>
+    <updated>2026-11-07T05:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-9gag-fun.9cache.com%2Fphoto%2FaW4N9d2_460s.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://uploadyourram.org/">uploadyourram.org</a> | <a href="https://lobste.rs/s/miazwz/uploadyourram_org">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50403214">hacker news</a></small></p><hr/><p>UploadYourRam.org is a satirical website that mocks growing AI infrastructure demands by introducing a fictional service for users to upload and donate their idle computer memory. The project parodies industry commentary surrounding hardware efficiency and consumer guilt over unused resources.</p><p>The mock platform provides tiered donation options ranging from 2 GB to 16 GB, poking fun at the idea of offloading local hardware components to external needs. Developed by TheZoq2, the project's source code is publicly hosted on Codeberg.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-9gag-fun.9cache.com%2Fphoto%2FaW4N9d2_460s.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 13:03 UTC | #26756</small>]]></content>
+  </entry>
   <entry>
     <title>Internet-wide Scan Finds Services Listening on TCP Port 0</title>
     <link href="https://acid.vegas/blog/the-port-that-does-not-exist/" rel="alternate" />
