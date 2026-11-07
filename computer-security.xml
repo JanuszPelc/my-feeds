@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-07T09:48:00+00:00</updated>
+  <updated>2026-11-07T09:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Meta Ray-Ban Smartglasses Hacked to Achieve Arbitrary Code Execution</title>
+    <link href="https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/" rel="alternate" />
+    <id>https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/::v240</id>
+    <published>2026-11-07T09:56:00+00:00</published>
+    <updated>2026-11-07T09:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.golem.de%2F2310%2F178741-408383-408380.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/">p0pcycle.com</a> | <a href="https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses">lobsters</a></small></p><hr/><p>A security researcher achieved arbitrary code execution on Meta Ray-Ban smartglasses by intercepting over-the-air firmware updates and deploying a custom application via the Device Access Toolkit. By hooking application methods with Frida, the researcher extracted full firmware images and established an interactive bind shell over a Wi-Fi Direct connection.</p><p>Although initial self-signing methods were later blocked in firmware version 127, the signature verification checks were bypassed by modifying feature flags within mobile configuration files. The vulnerabilities were reported to Meta through its bug bounty program and have since been addressed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.golem.de%2F2310%2F178741-408383-408380.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 15:22 UTC | #26766</small>]]></content>
+  </entry>
   <entry>
     <title>Omdia Highlights Key Technology and Infrastructure Security Trends for 2027</title>
     <link href="https://omdia.tech.informa.com/" rel="alternate" />

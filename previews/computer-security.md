@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Meta Ray-Ban Smartglasses Hacked to Achieve Arbitrary Code Execution</h2>
+<a name="story-26766"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.golem.de%2F2310%2F178741-408383-408380.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A security researcher achieved arbitrary code execution on Meta Ray-Ban smartglasses by intercepting over-the-air firmware updates and deploying a custom application via the Device Access Toolkit. By hooking application methods with Frida, the researcher extracted full firmware images and established an interactive bind shell over a Wi-Fi Direct connection.</p><p>Although initial self-signing methods were later blocked in firmware version 127, the signature verification checks were bypassed by modifying feature flags within mobile configuration files. The vulnerabilities were reported to Meta through its bug bounty program and have since been addressed.</p>
+<p>Nov 7 · <a href="https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/">p0pcycle.com</a> | <a href="https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses">lobsters</a></p>
+<br clear="all" />
+
 <h2>Omdia Highlights Key Technology and Infrastructure Security Trends for 2027</h2>
 <a name="story-26739"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2026%2F02%2Fomdia-tablets-q4-2025.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Omdia has released a series of Trend Watch reports examining major technology, infrastructure security, and market shifts projected for 2027. The analyses cover accelerating demands for digital sovereignty, the commercial monetization of artificial intelligence, and the convergence of building automation with industrial control systems.</p><p>Additional reports explore network modernization challenges, including fiber infrastructure requirements for AI workloads, cybersecurity team restructuring, and smartphone financing dynamics in emerging markets. These insights aim to help enterprises navigate complex operational transitions and evaluate long-term technology investments.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26522"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.telegraphindia.com%2Ftelegraph%2F2021%2FSep%2F1631708507_sunil-mittal-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sunil Mittal, founder of India's Airtel, asserts that OneWeb can establish a global satellite-internet network independent of the United States and China. The project is intended to provide a strategic alternative for nations seeking to avoid reliance on US or Chinese telecommunications infrastructure.</p><p>OneWeb is backed by Airtel and operates as a subsidiary of Eutelsat, positioning it to compete with Elon Musk's Starlink in the low Earth orbit (LEO) market. This initiative aligns with a broader global trend toward satellite sovereignty and independent connectivity solutions.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>OpenSSH on musl-based Linux Distributions Vulnerable to Password Bypass</h2>
-<a name="story-26524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenSSH installations running on musl libc—including Alpine, OpenWrt, and Buildroot—are vulnerable to a password bypass affecting accounts with no password (marked with '*' in /etc/shadow). When a password longer than 256 characters is provided, musl's crypt() function returns '*' due to a length limit in its SHA512 implementation, which OpenSSH incorrectly validates as a successful match.</p><p>The vulnerability specifically affects systems using musl that do not utilize PAM and have password authentication enabled. To mitigate this risk, users are advised to upgrade to OpenSSH 10.6p2 or disable password authentication in their SSH configuration.</p>
-<p>Nov 5 · <a href="https://sshhole.com">sshhole.com</a> | <a href="https://news.ycombinator.com/item?id=50378228">hacker news</a></p>
 <br clear="all" />
 
 ---

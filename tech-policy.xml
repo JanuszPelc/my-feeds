@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-07T06:36:00+00:00</updated>
+  <updated>2026-11-07T09:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Hungary Opens Communist-Era Secret Service Files and Releases Names of Former Agents</title>
+    <link href="https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed" rel="alternate" />
+    <id>https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed::v240</id>
+    <published>2026-11-07T09:55:00+00:00</published>
+    <updated>2026-11-07T09:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.politico.eu%2Fcdn-cgi%2Fimage%2Fwidth%3D1160%2Cheight%3D747%2Cquality%3D80%2Conerror%3Dredirect%2Cformat%3Dauto%2Fwp-content%2Fuploads%2F2026%2F11%2F04%2FGettyImages-2299469363-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed">euronews.com</a> | <a href="https://news.ycombinator.com/item?id=50383163">hacker news</a></small></p><hr/><p>Hungary has launched an online public database granting unrestricted access to communist-era state security records for the first time since the 1990 democratic transition. The newly accessible portal makes searchable the names and registration details of an estimated 50,000 to 60,000 former informants and agents from the one-party communist era.</p><p>The initiative follows a bill introduced by Prime Minister Peter Magyar in September to lift decades of restrictions that critics argued enabled political blackmail and secrecy. While the release includes names of politicians, clergy, and public figures, historians and officials note that the files are incomplete and urge the public to approach the sensitive historical records with caution and nuance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.politico.eu%2Fcdn-cgi%2Fimage%2Fwidth%3D1160%2Cheight%3D747%2Cquality%3D80%2Conerror%3Dredirect%2Cformat%3Dauto%2Fwp-content%2Fuploads%2F2026%2F11%2F04%2FGettyImages-2299469363-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 15:21 UTC | #26765</small>]]></content>
+  </entry>
   <entry>
     <title>Shenzhen Clears Out Illicit Markets Ahead of APEC Summit</title>
     <link href="https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862" rel="alternate" />
