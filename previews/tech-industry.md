@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Microsoft Winds Down Oracle Cloud AI Capacity Rental Deal</h2>
+<a name="story-26708"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftecknexus.com%2Fwp-content%2Fuploads%2F2025%2F07%2FOracle-OpenAi-Datacenter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft Corp. is winding down an agreement to rent AI computing capacity from Oracle Corp. after declining to renew their 2023 partnership. The decision stems from the hardware relying on older Nvidia chips, prompting Microsoft to reevaluate multi-billion-dollar cloud collaborations.</p><p>The phase-out reflects broader adjustments in how major technology companies manage and scale their AI infrastructure needs. As newer generations of hardware become available, companies are shifting away from older configurations to optimize performance and cost efficiency.</p>
+<p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>TechCrunch Equity Podcast Analyzes How Midterm Elections Could Reshape AI Industry</h2>
 <a name="story-26706"><img src="https://wsrv.nl/?url=https%3A%2F%2Fculturemosaic.co.uk%2Fwp-content%2Fuploads%2F2025%2F10%2FGenerated-image-1131-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>On an episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Sean O’Kane, and Anthony Ha discuss how the results of the U.S. midterm elections could impact the tech and artificial intelligence sectors. The discussion highlights the outcome of data center-related ballot measures, where voters overwhelmingly imposed new restrictions on development, alongside expectations that newly elected officials will pursue stricter oversight of Big Tech.</p><p>The episode also examines several major industry developments, including Google's satellite data center test, recent layoffs at Canva and Squarespace, Marvell’s multi-billion-dollar acquisition of Lumentum, and CrowdStrike's purchases of AI security startups. Additionally, the hosts touch on media investments, such as NBCUniversal funding Indian microdrama platform Elo Elo, offering a comprehensive look at current intersections of politics, market adjustments, and emerging technologies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26607"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt8eb3cdfc1fce5194%2Fblt2340fbce31dfa93f%2F66212fd7e8a6cce5b582ccb6%2Fmsft-quincy-phase2.jpg%3Fwidth%3D1280%26auto%3Dwebp%26quality%3D95%26format%3Djpg%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has announced a $17 billion investment to build its first data center in Wyoming, accompanied by commitments to cover all power consumption and establish a local community council. The project is designed to incorporate advanced power and emission-reduction technologies, including fuel cells and carbon capture.</p><p>The long-term development in Laramie County involves partnerships with energy providers like American Electric Power to support infrastructure needs while addressing local resource and growth concerns. Although the formal price tag and framework have been unveiled, construction timelines for the facility have not yet been detailed.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center">bloomberg.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/">blog.google</a></p>
-<br clear="all" />
-
-<h2>600,000 Nvidia H200 Chips Await Shipment to China in Hong Kong</h2>
-<a name="story-26602"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FZcE4b2axuIGM4mKF6r2FsA--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2F61398d877602a29adf5fb92d45ca110d&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Approximately 600,000 Nvidia H200 artificial intelligence chips are currently stored in Hong Kong awaiting shipment to mainland China. The stockpile has accumulated as Beijing withholds approval for large-scale imports of the advanced processors.</p><p>The delay highlights the tension between Chinese companies' demand for high-performance AI hardware and government restrictions on imports. The H200 chips are among Nvidia's newest data-center processors used to train and run large-scale artificial intelligence models.</p>
-<p>Nov 5 · <a href="https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50380752">hacker news</a></p>
 <br clear="all" />
 
 ---
