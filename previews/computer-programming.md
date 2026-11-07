@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Bryan Cantrill Discusses Software Abstraction and Complexity at Rust NYC</h2>
+<a name="story-26752"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.antoinebuteau.com%2Fcontent%2Fimages%2F2026%2F07%2Flessons-from-bryan-cantrill-optimized.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Oxide Computer Company co-founder Bryan Cantrill delivered a talk at a Rust NYC event exploring how software abstractions that prioritize developer convenience often shift complexity onto system operators. Drawing on his career spanning Sun Microsystems, Joyent, and Oxide, he examined how features like garbage collection, dynamic typing, and remote procedure calls can introduce leaky abstractions and accidental complexity into infrastructural software.</p><p>The discussion contrasts historical programming trade-offs with contemporary engineering challenges, touching on how system design choices affect production reliability and emergent behavior. The presentation, titled "Code Matters: Reflections on Rust in the LLM Age," forms part of ongoing community meetups examining modern systems programming practices and language evolution.</p>
+<p>Nov 7 · <a href="https://www.youtube.com/watch?v=5D7QPOIZ7gY">youtube.com</a> | <a href="https://lobste.rs/s/yomksa/reflections_on_rust_llm_age">lobsters</a></p>
+<br clear="all" />
+
 <h2>Libghostty 1.0 Released with Stable C ABI</h2>
 <p>Mitchell Hashimoto has released libghostty-vt 1.0, a portable, high-performance C library for terminal emulation extracted directly from the core of the Ghostty project. The 1.0 milestone establishes a stable C ABI and semantic versioning, ensuring long-term compatibility for dynamic linking and operating system distribution packaging.</p><p>The library has already achieved widespread production adoption across millions of users in applications such as JetBrains IDEs, Neovim, and various developer tools. Built with a minimal, permissively licensed dependency tree and extensive cross-platform support spanning Linux, macOS, Windows, mobile platforms, and WebAssembly, it provides a generalized foundation for building terminal software.</p>
 <p>Nov 6 · <a href="https://mitchellh.com/writing/libghostty-1-0">mitchellh.com</a> | <a href="https://lobste.rs/s/0ouxwf/libghostty_1_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50399933">hacker news</a></p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26605"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshkspr.mobi%2Fblog%2Fwp-content%2Fuploads%2F2026%2F11%2Florem-ipsum-dolor-sit-amet-5-%25E2%2580%2593-Foreign-Commonwealth-Development-Office-Blogs.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Terence Eden examines how test pages, dummy data, and placeholder text frequently end up published on live UK government websites. By searching for common placeholder terms like "lorem ipsum," users can uncover forgotten pre-production environments, style guides, and outdated plugins left behind during development.</p><p>These accidental disclosures offer a glimpse into the development processes of various public sector bodies, including local councils and government departments. While some test entries are eventually locked down or removed, others persist indefinitely as permanent fixtures of live digital infrastructure.</p>
 <p>Nov 5 · <a href="https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/">shkspr.mobi</a> | <a href="https://lobste.rs/s/5xljpx/lorem_ipsum_dot_gov_dot_uk">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50371058">hacker news</a></p>
-<br clear="all" />
-
-<h2>Gleam Language Updates: Compiler Rewrite and Security Enhancements</h2>
-<a name="story-26604"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgleam.run%2Fimages%2Fnews%2Fgleam-v1.1-released%2Fimports.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Gleam's compiler has been updated to target Erlang abstract forms instead of source code, a change implemented in version 1.19. This transition increases compilation speed and improves debugging accuracy through enhanced metadata and source maps for both Erlang and JavaScript environments.</p><p>Security initiatives have included participating in the Microsoft Secure Open Source Fund and adopting Hex's new authentication system. Future technical goals involve developing a capability-based effect system to mitigate vulnerabilities like path traversal and adding further automated actions to the Gleam language server.</p>
-<p>Nov 5 · <a href="https://www.youtube.com/watch?v=Jm2HZhwreNs">youtube.com</a> | <a href="https://gleam.run/news/">gleam.run</a> | <a href="https://lobste.rs/s/afjqpg/gleam_programming_language_update">lobsters</a></p>
 <br clear="all" />
 
 ---
