@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-07T18:16:00+00:00</updated>
+  <updated>2026-11-07T18:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Vincent Bernat Migrates Blog Infrastructure from AWS to Bunny CDN and DNS</title>
+    <link href="https://vincent.bernat.ch/en/blog/2026-bunny-geodns" rel="alternate" />
+    <id>https://vincent.bernat.ch/en/blog/2026-bunny-geodns::v240</id>
+    <published>2026-11-07T18:18:00+00:00</published>
+    <updated>2026-11-07T18:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://vincent.bernat.ch/en/blog/2026-bunny-geodns">vincent.bernat.ch</a> | <a href="https://lobste.rs/s/jsvlfm/scriptable_geodns_leaving_aws_for_bunny">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50394292">hacker news</a></small></p><hr/><p>Developer Vincent Bernat details his migration of his personal blog's infrastructure from Amazon CloudFront and Route 53 to Bunny CDN and Bunny DNS. Seeking to reduce high AWS costs while maintaining performance, he adopted Bunny DNS for its low pricing and scriptable DNS capabilities, which execute custom JavaScript queries to route visitors to optimal servers.</p><p>To handle fallback availability and varying geographic distances, Bernat implemented a hybrid JavaScript routing script that returns the two closest servers when they are nearby or a single server with a short time-to-live when distances differ significantly. Additionally, he replaced Route 53's role in handling ACME DNS-01 challenges by deploying Hickory DNS and deSEC to manage DNSSEC and dynamic updates, compensating for Bunny DNS's current limitations regarding DS records.</p><hr/><small>7 Nov 2026, 22:51 UTC | #26787</small>]]></content>
+  </entry>
   <entry>
     <title>Neil Brown Details Running Law Firm on Free Software in 2026 Update</title>
     <link href="https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/" rel="alternate" />
