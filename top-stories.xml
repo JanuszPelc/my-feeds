@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-07T15:22:00+00:00</updated>
+  <updated>2026-11-07T20:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Need for Speed: Underground 2 Browser Port Now Available</title>
+    <link href="https://nfsu2.xyz/" rel="alternate" />
+    <id>https://nfsu2.xyz/::v240</id>
+    <published>2026-11-07T20:49:00+00:00</published>
+    <updated>2026-11-07T20:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nfsu2.xyz/">nfsu2.xyz</a> | <a href="https://github.com/th0mk/nfsu2-web">github.com</a> | <a href="https://news.ycombinator.com/item?id=50403052">hacker news</a></small></p><hr/><p>Underground 2 Revived is a fan-made project that runs the 2004 PC racing game Need for Speed: Underground 2 directly in web browsers such as Chrome and Firefox. The port uses static WebAssembly recompilation to execute the original x86 game code, supporting widescreen resolutions up to 120 frames per second via WebGPU, along with standard peripherals like controllers, steering wheels, and touch controls.</p><p>The unofficial release features online multiplayer capabilities, including shared free-roam sessions and races with other players. Developed as a free browser-based experience with no microtransactions or paid perks, the project requires users to provide their own game files and includes built-in state saving through the in-game garage menu.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 14:47 UTC | #26764 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>ASN Bank Addresses Customer Inquiries Regarding Google Play Integrity and iDEAL Requirements</title>
     <link href="https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105" rel="alternate" />

@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;Need for Speed: Underground 2 Browser Port Now Available</h2>
+<a name="story-26764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Underground 2 Revived is a fan-made project that runs the 2004 PC racing game Need for Speed: Underground 2 directly in web browsers such as Chrome and Firefox. The port uses static WebAssembly recompilation to execute the original x86 game code, supporting widescreen resolutions up to 120 frames per second via WebGPU, along with standard peripherals like controllers, steering wheels, and touch controls.</p><p>The unofficial release features online multiplayer capabilities, including shared free-roam sessions and races with other players. Developed as a free browser-based experience with no microtransactions or paid perks, the project requires users to provide their own game files and includes built-in state saving through the in-game garage menu.</p>
+<p>Nov 7 · <a href="https://nfsu2.xyz/">nfsu2.xyz</a> | <a href="https://github.com/th0mk/nfsu2-web">github.com</a> | <a href="https://news.ycombinator.com/item?id=50403052">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/computer-security.png" width="28" align="texttop" /> &nbsp;ASN Bank Addresses Customer Inquiries Regarding Google Play Integrity and iDEAL Requirements</h2>
 <a name="story-26675"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQEKm3MI2JO6mQ%2Farticle-cover_image-shrink_720_1280%2FB4DZva7FS_HYAM-%2F0%2F1768904481783%3Fe%3D2147483647%26v%3Dbeta%26t%3DhfS5TcynYBbwxo46GZ4AoJ458iuflcZts5gie2G2doM&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ASN Bank has responded to customer complaints regarding its mobile application requiring Google Play Integrity checks for iDEAL and Wero payments. In a standardized reply to users, the bank explained that strict European regulations and high security standards for online payment methods necessitate device integrity and security validations.</p><p>The bank noted that alternative operating systems often bypass built-in system protections, preventing secure transaction guarantees under current joint payment frameworks. ASN Bank stated that while it is exploring future support for alternative operating systems with iDEAL partners, no guarantees or timelines can be provided at this time.</p>
@@ -100,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fus.v-cdn.net%2F6036147%2Fuploads%2F3SRL2KVBUUEG%2Fkagi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kagi Search has updated its platform to allow non-registered users to perform up to 50 web searches without creating an account. The November 2026 release also introduces a redesigned home screen, rebuilt voice search, and new widgets for its Android application, alongside various performance improvements and bug fixes.</p><p>Additional updates span Kagi Assistant, Kagi News, and Kagi Translate, featuring improved voice input controls, clearer temporary thread indicators, and expanded language support. The release follows Kagi News being featured on Google Play and coincides with company commentary regarding school software policies.</p>
 <p>Nov 6 · <a href="https://kagi.com/changelog">kagi.com</a> | <a href="https://news.ycombinator.com/item?id=50383740">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/tech-finance.png" width="28" align="texttop" /> &nbsp;T3 Financial Crime Unit Dissolved by Crypto Giants</h2>
-<a name="story-26427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcrispybull.com%2Fwp-content%2Fuploads%2F2025%2F10%2FTether-TRON-Financial-Crime-Unit.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The T3 Financial Crime Unit, a collaborative initiative established by Tron, Tether, Binance, and TRM Labs to combat illicit crypto activity, was quietly dissolved in August. The alliance disbanded following concerns over slow response times, despite having frozen approximately $250 million in suspicious assets during its operation.</p><p>The dissolution comes as the digital asset sector faces heightened security challenges, including major exploits and rising illicit transactions. The collapse of the joint task force highlights ongoing difficulties in coordinating rapid cross-firm responses among major cryptocurrency infrastructure providers to curb cybercrime.</p>
-<p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
