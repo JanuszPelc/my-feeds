@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Libghostty 1.0 Released with Stable C ABI</h2>
+<p>Mitchell Hashimoto has released libghostty-vt 1.0, a portable, high-performance C library for terminal emulation extracted directly from the core of the Ghostty project. The 1.0 milestone establishes a stable C ABI and semantic versioning, ensuring long-term compatibility for dynamic linking and operating system distribution packaging.</p><p>The library has already achieved widespread production adoption across millions of users in applications such as JetBrains IDEs, Neovim, and various developer tools. Built with a minimal, permissively licensed dependency tree and extensive cross-platform support spanning Linux, macOS, Windows, mobile platforms, and WebAssembly, it provides a generalized foundation for building terminal software.</p>
+<p>Nov 6 · <a href="https://mitchellh.com/writing/libghostty-1-0">mitchellh.com</a> | <a href="https://lobste.rs/s/0ouxwf/libghostty_1_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50399933">hacker news</a></p>
+<br clear="all" />
+
 <h2>Datastar Hypermedia Framework Overview</h2>
 <a name="story-26725"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgopt.infoq.com%2Ffit-in%2F3000x4000%2Ffilters%3Aquality%2885%29%2Ffilters%3Ano_upscale%28%29%2Farticles%2Freactive-notification-system-server-sent-events%2Fen%2Fresources%2F9figure1-1732020429898.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Datastar is a hypermedia framework designed for building reactive and interactive web applications using server-sent events (SSE) and declarative HTML attributes. Unlike frameworks that synchronize client state with a server, Datastar keeps the state on the backend and streams updates directly to the browser through standard HTTP connections.</p><p>The framework favors multi-page applications over single-page applications, utilizing constraints like minimal JavaScript APIs and server-side DOM patching to simplify architecture. Its approach allows backend developers to build dynamic user interfaces entirely on the server, as demonstrated in implementations like the Instabooks application.</p>
@@ -87,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26604"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgleam.run%2Fimages%2Fnews%2Fgleam-v1.1-released%2Fimports.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Gleam's compiler has been updated to target Erlang abstract forms instead of source code, a change implemented in version 1.19. This transition increases compilation speed and improves debugging accuracy through enhanced metadata and source maps for both Erlang and JavaScript environments.</p><p>Security initiatives have included participating in the Microsoft Secure Open Source Fund and adopting Hex's new authentication system. Future technical goals involve developing a capability-based effect system to mitigate vulnerabilities like path traversal and adding further automated actions to the Gleam language server.</p>
 <p>Nov 5 · <a href="https://www.youtube.com/watch?v=Jm2HZhwreNs">youtube.com</a> | <a href="https://gleam.run/news/">gleam.run</a> | <a href="https://lobste.rs/s/afjqpg/gleam_programming_language_update">lobsters</a></p>
-<br clear="all" />
-
-<h2>Servo Releases Version 0.7.0 with New Web Platform Features</h2>
-<a name="story-26597"><img src="https://wsrv.nl/?url=https%3A%2F%2Fservo.org%2Fimg%2Fblog%2F2026-10-gary-banner.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Servo version 0.7.0 includes 527 commits from September, introducing web platform features such as the `:checked` pseudoclass, the `user-select` property, and the `&lt;progress&gt;` element. The release also adds new DOM APIs, including CSS typed arithmetic, the `roundRect()` method for Canvas, and expanded SVG element support.</p><p>Improvements to performance and stability target reduced memory allocations, garbage collection interactions, and IPC overhead. Ongoing development includes advancements in closed captioning for video, WebGL2 conformance, and improved support for WYSWIG editors.</p>
-<p>Nov 5 · <a href="https://servo.org/blog/2026/11/05/september-in-servo/">servo.org</a> | <a href="https://lobste.rs/s/u26wki/september_servo_progress_rounded">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50379576">hacker news</a></p>
 <br clear="all" />
 
 ---
