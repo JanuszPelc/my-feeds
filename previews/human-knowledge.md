@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Wood Mackenzie Report Shows Sodium-Ion Batteries Approaching LFP Cost Parity</h2>
+<a name="story-26780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F01%2F42%2F57%2F12%2F1000_F_142571298_sDzlfZNF5pD46NqxdNI9EHNQOJ7oD7mw.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sodium-ion battery technology is entering commercial production with global supply agreements exceeding 70 GWh, according to a Wood Mackenzie analysis. Market leaders are projected to achieve cell-level cost parity with lithium iron phosphate (LFP) batteries by late 2026, driven by supply chain diversification and cold-weather performance benefits.</p><p>Although current global average upfront costs for sodium-ion systems remain higher at $229/kWh compared to approximately $200/kWh for LFP, the technology offers a potential 21% lower total cost of ownership over a 20-year project lifetime. Commercialization is advancing rapidly in China, supported by tax exemptions, while the United States and Europe are utilizing tariffs and regulatory requirements to foster domestic manufacturing and supply chain security.</p>
+<p>Nov 7 · <a href="https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/">pv-magazine.com</a> | <a href="https://www.woodmac.com/press-releases/sodium-ion-batteries-establish-a-foothold-as-a-lithium-alternative/">woodmac.com</a> | <a href="https://news.ycombinator.com/item?id=50399657">hacker news</a></p>
+<br clear="all" />
+
 <h2>Arjun Panickssery Discusses AI Research and Development on LessWrong</h2>
 <a name="story-26778"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FcQk9Zq68y7wKntju5oeDK82Nw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Arjun Panickssery has published a shortform post on LessWrong examining the nature and perceived ingenuity of artificial intelligence research and development. The discussion touches upon observations of model performance in side projects and tasks such as game engines and philosophy.</p><p>The post has generated community discussion regarding the practical capabilities and foundational limitations of current machine learning systems. Readers can consult the LessWrong platform for the complete commentary and ongoing responses.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <h2>Magnetic Fields May Allow White Dwarfs to Exceed the Chandrasekhar Limit</h2>
 <p>New simulations from the Indian Institute of Science (IISc) suggest that white dwarfs can exceed the 1.4 solar mass Chandrasekhar limit if they possess strong internal magnetic fields. As these stellar remnants accumulate matter from companion stars, increasing density strengthens their internal magnetic fields, providing the pressure necessary to counteract gravity and support masses as high as 2.4 solar masses.</p><p>This phenomenon may explain the unexpected brightness of certain Type Ia supernovae, which serve as "standardizable candles" for measuring cosmic expansion. By altering the traditional relationship between a white dwarf's mass and size, magnetic pressure offers a potential explanation for observed anomalies in stellar radii and the luminosity of exploding stars.</p>
 <p>Nov 6 · <a href="https://www.sciencedaily.com/releases/2026/11/261102202835.htm">sciencedaily.com</a></p>
-<br clear="all" />
-
-<h2>Oldest Direct Evidence of Psychoactive Cannabis Use Discovered in 2,800-Year-Old Siberian Tomb</h2>
-<a name="story-26600"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-05797ede-9019-487a-b847-5c0009c99475-1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Archaeologists have discovered the oldest direct evidence of psychoactive cannabis use in a 2,800-year-old royal Scythian tomb known as Tunnug 1 in Siberia. Excavations at the burial mound revealed over 1,400 cannabis seeds scattered around human remains, alongside cannabinoids such as THC detected directly within preserved human hair.</p><p>The findings confirm historical accounts from Herodotus regarding Scythian burial and purification rituals involving cannabis. Researchers plan to conduct further DNA analysis on the ancient seeds to explore the domestication history of the plant and potentially recover ancient genetic traits for modern medicinal or agricultural applications.</p>
-<p>Nov 5 · <a href="https://www.404media.co/oldest-evidence-of-getting-high-on-cannabis-discovered-in-2800-year-old-tomb/">404media.co</a> | <a href="https://www.science.org/doi/10.1126/science.aeg3800">science.org</a></p>
 <br clear="all" />
 
 ---

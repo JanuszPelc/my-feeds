@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-07T13:04:00+00:00</updated>
+  <updated>2026-11-07T18:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Wood Mackenzie Report Shows Sodium-Ion Batteries Approaching LFP Cost Parity</title>
+    <link href="https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/" rel="alternate" />
+    <id>https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/::v240</id>
+    <published>2026-11-07T18:05:00+00:00</published>
+    <updated>2026-11-07T18:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F01%2F42%2F57%2F12%2F1000_F_142571298_sDzlfZNF5pD46NqxdNI9EHNQOJ7oD7mw.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/">pv-magazine.com</a> | <a href="https://www.woodmac.com/press-releases/sodium-ion-batteries-establish-a-foothold-as-a-lithium-alternative/">woodmac.com</a> | <a href="https://news.ycombinator.com/item?id=50399657">hacker news</a></small></p><hr/><p>Sodium-ion battery technology is entering commercial production with global supply agreements exceeding 70 GWh, according to a Wood Mackenzie analysis. Market leaders are projected to achieve cell-level cost parity with lithium iron phosphate (LFP) batteries by late 2026, driven by supply chain diversification and cold-weather performance benefits.</p><p>Although current global average upfront costs for sodium-ion systems remain higher at $229/kWh compared to approximately $200/kWh for LFP, the technology offers a potential 21% lower total cost of ownership over a 20-year project lifetime. Commercialization is advancing rapidly in China, supported by tax exemptions, while the United States and Europe are utilizing tariffs and regulatory requirements to foster domestic manufacturing and supply chain security.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F01%2F42%2F57%2F12%2F1000_F_142571298_sDzlfZNF5pD46NqxdNI9EHNQOJ7oD7mw.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 21:13 UTC | #26780</small>]]></content>
+  </entry>
   <entry>
     <title>Arjun Panickssery Discusses AI Research and Development on LessWrong</title>
     <link href="https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL" rel="alternate" />
