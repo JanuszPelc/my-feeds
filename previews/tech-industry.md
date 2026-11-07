@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>European Commission Accuses TikTok of Violating Digital Services Act via Harmful Content &quot;Rabbit Holes&quot;</h2>
 <a name="story-26665"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.fastcompany.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fwp-cms-2%2F2025%2F02%2Fi-91286859-tiktok-web-browser_6ade9c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The European Commission has issued preliminary findings that TikTok violated the Digital Services Act (DSA) by using recommendation algorithms that drive users into "rabbit holes" of harmful content. The investigation found that TikTok's "For You" feed can repeatedly present users with videos related to sadness, self-harm, and body image issues based on implicit engagement signals.</p><p>This marks the first time EU regulators have directly challenged the engagement-based recommendation models of a major social media platform. If these findings are confirmed, TikTok faces potential fines of up to 6% of its annual global revenue.</p>
-<p>Nov 6 · <a href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation">therecord.media</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361">ec.europa.eu</a></p>
+<p>Nov 6 · <a href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation">therecord.media</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361">ec.europa.eu</a> | <a href="https://news.ycombinator.com/item?id=50400672">hacker news</a></p>
 <br clear="all" />
 
 <h2>Nvidia Requires Chip Tracking for Southeast Asian Cloud Partners</h2>

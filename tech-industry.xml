@@ -3,7 +3,7 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-07T01:30:00+00:00</updated>
+  <updated>2026-11-07T03:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
   <entry>
@@ -56,9 +56,9 @@
     <link href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation" rel="alternate" />
     <id>https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation::v240</id>
     <published>2026-11-06T15:16:00+00:00</published>
-    <updated>2026-11-06T15:16:00+00:00</updated>
+    <updated>2026-11-07T03:23:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.fastcompany.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fwp-cms-2%2F2025%2F02%2Fi-91286859-tiktok-web-browser_6ade9c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation">therecord.media</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361">ec.europa.eu</a></small></p><hr/><p>The European Commission has issued preliminary findings that TikTok violated the Digital Services Act (DSA) by using recommendation algorithms that drive users into "rabbit holes" of harmful content. The investigation found that TikTok's "For You" feed can repeatedly present users with videos related to sadness, self-harm, and body image issues based on implicit engagement signals.</p><p>This marks the first time EU regulators have directly challenged the engagement-based recommendation models of a major social media platform. If these findings are confirmed, TikTok faces potential fines of up to 6% of its annual global revenue.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.fastcompany.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fwp-cms-2%2F2025%2F02%2Fi-91286859-tiktok-web-browser_6ade9c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 19:13 UTC | #26665</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation">therecord.media</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361">ec.europa.eu</a> | <a href="https://news.ycombinator.com/item?id=50400672">hacker news</a></small></p><hr/><p>The European Commission has issued preliminary findings that TikTok violated the Digital Services Act (DSA) by using recommendation algorithms that drive users into "rabbit holes" of harmful content. The investigation found that TikTok's "For You" feed can repeatedly present users with videos related to sadness, self-harm, and body image issues based on implicit engagement signals.</p><p>This marks the first time EU regulators have directly challenged the engagement-based recommendation models of a major social media platform. If these findings are confirmed, TikTok faces potential fines of up to 6% of its annual global revenue.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.fastcompany.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fwp-cms-2%2F2025%2F02%2Fi-91286859-tiktok-web-browser_6ade9c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 19:13 UTC | #26665</small>]]></content>
   </entry>
   <entry>
     <title>Nvidia Requires Chip Tracking for Southeast Asian Cloud Partners</title>
