@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>EA Re-releases 25 Classic Games on Steam and GOG</h2>
+<a name="story-26721"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FEACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>EA has released 25 classic games on Steam and GOG, including remastered versions of several Wing Commander and Ultima series titles. The collection features updated versions of legacy software such as Road Rash and Privateer 2.</p><p>The remastering of the Wing Commander series involved digitizing original full-motion-video cutscenes discovered in EA's physical media archives. Senior producer Jim Vessella led the effort, which included coordinating contractors and community contributors to facilitate the restorations.</p>
+<p>Nov 6 · <a href="https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/">arstechnica.com</a> | <a href="https://www.ea.com/news/from-the-vault-to-your-library">ea.com</a></p>
+<br clear="all" />
+
 <h2>SAG-AFTRA Introduces Pre-Funding Pitch Interactive Media Agreement</h2>
 <a name="story-26714"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcmsproductions.com%2Fwp-content%2Fuploads%2F2025%2F07%2FSAGInteractiveMediaContractRates.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SAG-AFTRA has launched the Pre-Funding Pitch Interactive Media Agreement, a new framework that allows game developers to hire professional union actors for pre-production pitches and vertical slices. The agreement is designed to help teams secure publisher backing in a competitive market by utilizing professional voice and motion performance talent earlier in development.</p><p>Eligibility for the new contract is restricted to projects with no more than 30 percent of their initial production funding secured and explicitly prohibits commercial releases. Industry observers note that the initiative may also help developers avoid relying on generative AI voices during early prototyping phases.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26497"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxboxwire.thesourcemediaassets.com%2Fsites%2F2%2F2026%2F11%2FXBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Xbox Cloud Gaming is launching two preview features: a smartphone controller mode for supported Smart TVs and "Cloud Connect" for the Xbox Nano Controller. The smartphone mode enables Android and iOS users to control games via their phone's web browser, while Cloud Connect, available in the U.S., allows the Nano Controller to connect directly to cloud servers through Wi-Fi to reduce input latency.</p><p>Both features are currently in testing, so availability may vary based on the specific game, device, or region. Users can provide feedback through the mobile app, the Xbox Accessories app on PC, or directly through the Smart TV interface.</p>
 <p>Nov 5 · <a href="https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/">news.xbox.com</a></p>
-<br clear="all" />
-
-<h2>Macronix Exits ROM Chip Production, Impacting Nintendo&#x27;s Cartridge Supply</h2>
-<a name="story-26474"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fswitchcarts-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Macronix, a major provider of ROM chips for Nintendo Switch cartridges, is phasing out its ROM production to shift manufacturing capacity toward NOR and NAND flash chips for the AI industry. The company announced in its third-quarter 2026 earnings report that its ROM business has "reached its end."</p><p>The exit may increase production costs for physical Switch and Switch 2 cartridges, potentially leading to higher retail prices for physical games. However, the impact could be mitigated by the continued growth of Nintendo's digital software sales, which accounted for 61.5 percent of the company's business in the second quarter of 2026.</p>
-<p>Nov 4 · <a href="https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/">arstechnica.com</a> | <a href="https://www.mxic.com.tw/en-us/about/news/Pages/20261027-EN.aspx">mxic.com.tw</a> | <a href="https://news.ycombinator.com/item?id=50373510">hacker news</a></p>
 <br clear="all" />
 
 ---
