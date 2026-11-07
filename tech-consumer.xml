@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-06T23:50:00+00:00</updated>
+  <updated>2026-11-06T23:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Announces Over 100,000 Apps Optimized for iPhone Duo</title>
+    <link href="https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps" rel="alternate" />
+    <id>https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps::v240</id>
+    <published>2026-11-06T23:59:00+00:00</published>
+    <updated>2026-11-06T23:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.theapplepost.com%2Fwp-content%2Fuploads%2F2026%2F10%2FiMessage.iPhoneDuo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/">apple.com</a></small></p><hr/><p>The App Store now features over 100,000 apps built specifically for the iPhone Duo, two weeks after the foldable device's release. Thousands of new optimized apps are being added to the store each day.</p><p>Despite this availability, some applications still face layout and usability challenges on the new form factor. Instagram, for instance, has encountered interface issues despite holding Apple's "Made for iPhone Duo" designation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theapplepost.com%2Fwp-content%2Fuploads%2F2026%2F10%2FiMessage.iPhoneDuo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 06:39 UTC | #26724</small>]]></content>
+  </entry>
   <entry>
     <title>EA Re-releases 25 Classic Games on Steam and GOG</title>
     <link href="https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/" rel="alternate" />

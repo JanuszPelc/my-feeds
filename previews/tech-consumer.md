@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Apple Announces Over 100,000 Apps Optimized for iPhone Duo</h2>
+<a name="story-26724"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theapplepost.com%2Fwp-content%2Fuploads%2F2026%2F10%2FiMessage.iPhoneDuo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The App Store now features over 100,000 apps built specifically for the iPhone Duo, two weeks after the foldable device's release. Thousands of new optimized apps are being added to the store each day.</p><p>Despite this availability, some applications still face layout and usability challenges on the new form factor. Instagram, for instance, has encountered interface issues despite holding Apple's "Made for iPhone Duo" designation.</p>
+<p>Nov 6 · <a href="https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/">apple.com</a></p>
+<br clear="all" />
+
 <h2>EA Re-releases 25 Classic Games on Steam and GOG</h2>
 <a name="story-26721"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FEACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>EA has released 25 classic games on Steam and GOG, including remastered versions of several Wing Commander and Ultima series titles. The collection features updated versions of legacy software such as Road Rash and Privateer 2.</p><p>The remastering of the Wing Commander series involved digitizing original full-motion-video cutscenes discovered in EA's physical media archives. Senior producer Jim Vessella led the effort, which included coordinating contractors and community contributors to facilitate the restorations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26538"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FLEGO-x-Daft-Punk-Pyramid-Set.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The LEGO Group has announced a partnership with Daft Punk, featuring a set modeled after the duo's iconic pyramid stage from the 2007 "Alive" tour. The design is based on a 2020 LEGO Ideas submission created by a father and son from Luxembourg.</p><p>The collaboration will encompass various products, content, and brand experiences, with the set being featured in LEGO's 2026 holiday campaign. Further developments from the partnership are expected to arrive in 2027.</p>
 <p>Nov 5 · <a href="https://musictech.com/news/music/lego-daft-punk-pyramid-stage-set/">musictech.com</a> | <a href="https://www.lego.com/en-us/aboutus/news/2026/october/lego-group-and-daft-punk-partnership-announcement">lego.com</a></p>
-<br clear="all" />
-
-<h2>Xbox Cloud Gaming Introduces Smartphone Controller and Cloud Connect Previews</h2>
-<a name="story-26497"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxboxwire.thesourcemediaassets.com%2Fsites%2F2%2F2026%2F11%2FXBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Xbox Cloud Gaming is launching two preview features: a smartphone controller mode for supported Smart TVs and "Cloud Connect" for the Xbox Nano Controller. The smartphone mode enables Android and iOS users to control games via their phone's web browser, while Cloud Connect, available in the U.S., allows the Nano Controller to connect directly to cloud servers through Wi-Fi to reduce input latency.</p><p>Both features are currently in testing, so availability may vary based on the specific game, device, or region. Users can provide feedback through the mobile app, the Xbox Accessories app on PC, or directly through the Smart TV interface.</p>
-<p>Nov 5 · <a href="https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/">news.xbox.com</a></p>
 <br clear="all" />
 
 ---
