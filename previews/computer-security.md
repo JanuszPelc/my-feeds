@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>PWN Research Details Firecracker MicroVM Escape and Host Root Execution</h2>
+<a name="story-26759"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpwn.ai%2Fapi%2Fblog%2Fimages%2Ffirecracker-host-integration-dbdde36ef234.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>PWN Research published a technical write-up detailing a complete escape from an AWS Firecracker microVM (version 1.16.1), demonstrating how a guest can achieve root code execution on the host. By leveraging a previously established host memory access primitive, the technique identifies the Firecracker virtual machine monitor process, maps its virtual memory under ASLR, and locates the active vCPU thread's saved register frame.</p><p>The exploit intercepts the return from the KVM ioctl by modifying the saved instruction pointer and stack frame to execute custom host commands before seamlessly resuming normal operation. This compromise preserves guest responsiveness and process stability while highlighting critical security boundaries in container and microVM virtualization setups.</p>
+<p>Nov 7 · <a href="https://pwn.ai/blog/firecracker-escape">pwn.ai</a> | <a href="https://news.ycombinator.com/item?id=50397219">hacker news</a></p>
+<br clear="all" />
+
 <h2>UploadYourRam.org Satirical Platform Offers Mock RAM Donation Service</h2>
 <a name="story-26756"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-9gag-fun.9cache.com%2Fphoto%2FaW4N9d2_460s.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UploadYourRam.org is a satirical website that mocks growing AI infrastructure demands by introducing a fictional service for users to upload and donate their idle computer memory. The project parodies industry commentary surrounding hardware efficiency and consumer guilt over unused resources.</p><p>The mock platform provides tiered donation options ranging from 2 GB to 16 GB, poking fun at the idea of offloading local hardware components to external needs. Developed by TheZoq2, the project's source code is publicly hosted on Codeberg.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26490"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHG7PgIXbgAUj75v.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GitHub resolved an incident on November 4, 2026, that caused service degradation and intermittent failures for Pull Requests, Git Operations, Issues, API Requests, and Actions. The disruption resulted in some requests being failed or delayed.</p><p>The issue was first identified around 09:49 UTC and reached mitigation by 11:50 UTC. GitHub intends to share a detailed root cause analysis once it is available.</p>
 <p>Nov 4 · <a href="https://www.githubstatus.com/incidents/smtdswd1h2w4">githubstatus.com</a> | <a href="https://news.ycombinator.com/item?id=50363378">hacker news</a></p>
-<br clear="all" />
-
-<h2>Layer3 Intel Reports Residential Proxy Activity on White House Network</h2>
-<a name="story-26465"><img src="https://wsrv.nl/?url=https%3A%2F%2Flayer3intel.com%2F_next%2Fimage%3Furl%3D%252F_next%252Fstatic%252Fmedia%252Feop_proxy_activity.01iwvfjkrr2z9.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Layer3 Intel's Residential Proxy Observatory recorded 236 residential proxy exits across six IP addresses on the Executive Office of the President network between October 5 and November 3, 2026. The activity involved 28 separate public proxy services and occurred primarily during evening hours, pointing to an internal device rather than a public guest network.</p><p>The pattern suggests an internal device running a proxy software development kit, which researchers note can pose security risks by potentially allowing lateral network access. In addition to the White House network, Layer3 Intel's global tracking identified residential proxy and anonymization activity in extremely remote regions, including Antarctica and Saint Helena.</p>
-<p>Nov 4 · <a href="https://layer3intel.com/blog/residential-proxies-white-house-network">layer3intel.com</a> | <a href="https://news.ycombinator.com/item?id=50371246">hacker news</a></p>
 <br clear="all" />
 
 ---

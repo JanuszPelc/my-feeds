@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-07T05:48:00+00:00</updated>
+  <updated>2026-11-07T06:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>PWN Research Details Firecracker MicroVM Escape and Host Root Execution</title>
+    <link href="https://pwn.ai/blog/firecracker-escape" rel="alternate" />
+    <id>https://pwn.ai/blog/firecracker-escape::v240</id>
+    <published>2026-11-07T06:38:00+00:00</published>
+    <updated>2026-11-07T06:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpwn.ai%2Fapi%2Fblog%2Fimages%2Ffirecracker-host-integration-dbdde36ef234.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://pwn.ai/blog/firecracker-escape">pwn.ai</a> | <a href="https://news.ycombinator.com/item?id=50397219">hacker news</a></small></p><hr/><p>PWN Research published a technical write-up detailing a complete escape from an AWS Firecracker microVM (version 1.16.1), demonstrating how a guest can achieve root code execution on the host. By leveraging a previously established host memory access primitive, the technique identifies the Firecracker virtual machine monitor process, maps its virtual memory under ASLR, and locates the active vCPU thread's saved register frame.</p><p>The exploit intercepts the return from the KVM ioctl by modifying the saved instruction pointer and stack frame to execute custom host commands before seamlessly resuming normal operation. This compromise preserves guest responsiveness and process stability while highlighting critical security boundaries in container and microVM virtualization setups.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpwn.ai%2Fapi%2Fblog%2Fimages%2Ffirecracker-host-integration-dbdde36ef234.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 13:54 UTC | #26759</small>]]></content>
+  </entry>
   <entry>
     <title>UploadYourRam.org Satirical Platform Offers Mock RAM Donation Service</title>
     <link href="https://uploadyourram.org/" rel="alternate" />
