@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Deutsche Bank Says Data Center Restrictions Could Prevent AI Investment Bust</h2>
+<a name="story-26772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.okoone.com%2Fwp-content%2Fuploads%2F2025%2F03%2FStrategy-Trends-354.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Political restrictions on data-center development could safeguard the broader US economy against an artificial intelligence investment bust by pacing infrastructure growth over time. According to Deutsche Bank economists, local and state-level pushback is effectively weeding out financially unstable projects.</p><p>Although these hurdles introduce risks to a key driver of recent economic expansion, analysts suggest that slowing the pace of development reduces the likelihood of a disruptive market crash. Financial institutions have increasingly sought ways to hedge their exposure amid accelerated lending for cloud computing and artificial intelligence initiatives.</p>
+<p>Nov 7 · <a href="https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>John Langford Departs Microsoft and Declares AI Frontiers Group Closed</h2>
 <a name="story-26779"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2023%2F08%2F230821-cantwell-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft researcher John Langford has departed the company and announced the dissolution of AI Frontiers, the 50-person research sub-organization he helped co-found. The group was formed to organize coherent research efforts on agents and fundamental AI capabilities, but its trajectory changed following a September reorganization into Microsoft AI.</p><p>Langford cited an incompatible philosophy between his team's focus on foundational research and the scaling-only priorities of Microsoft AI's leadership, inherited from Inflection AI. He criticized the scaling-first mandate as short-sighted and expressed concern over Microsoft Research's ability to translate research into real-world applications, leading to his decision to leave.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26645"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpartofstyle.com%2Fwp-content%2Fuploads%2F2026%2F04%2FChina-Will-Double-Its-Chip-Making-Capacity-With-Three-New.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Yangtze Memory Technologies Co (YMTC) plans to source up to 70% of the equipment for its planned fourth memory chip factory from domestic suppliers. This target marks a substantial increase from just over 50% for its third factory, reflecting an accelerated push toward domestic self-reliance amid trade restrictions.</p><p>The fourth fab is scheduled to break ground in Wuhan, where YMTC is headquartered. The expanding production capacity underscores the company's continuous growth and its efforts to integrate more locally manufactured semiconductor tools into its advanced NAND flash memory production lines.</p>
 <p>Nov 6 · <a href="https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Britain to Require Salary Disclosure in Job Advertisements</h2>
-<a name="story-26670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F1d7eb407f5be16fcf089861a9f52ef1e1ac023c4f665929d34bde0fe84bee61e%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05a3c56162e13ad80fef0f8d822b3daf.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Britain plans to introduce legislation requiring employers to publish salary information in job advertisements, as announced by Prime Minister Andy Burnham. The policy aims to empower jobseekers, reduce pay disparities, and help address broader employment challenges.</p><p>The mandate is designed to eliminate the traditional uncertainty applicants face regarding compensation when applying for roles. Further details on the upcoming legislation and its implementation timeline are expected to be brought forward soon.</p>
-<p>Nov 6 · <a href="https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50389222">hacker news</a></p>
 <br clear="all" />
 
 ---
