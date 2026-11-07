@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>CesiumAstro Raises $730 Million to Fund Satellite Network Deployment</h2>
+<a name="story-26727"><img src="https://wsrv.nl/?url=https%3A%2F%2Fventureburn.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHTftsxxXcAAXSmb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>CesiumAstro has raised $730 million in a funding round that values the Austin-based satellite manufacturer at more than $4.5 billion. The company plans to use the capital to expand manufacturing capacity and deploy Synchronicity, a 737-satellite low-Earth orbit (LEO) constellation.</p><p>Designed to serve both commercial and defense missions, the constellation will operate at two different altitudes. This latest round brings the company's total funding to $1.4 billion.</p>
+<p>Nov 7 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Kalepa Raises $75 Million in Series B Funding Round at $470 Million Valuation</h2>
 <a name="story-26648"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fkalepa-cofounders-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Insurance technology startup Kalepa has secured $75 million in a Series B funding round led by Updata Partners, bringing its total valuation to $470 million. The New York-based company provides an artificial intelligence platform designed to assist commercial insurers with underwriting, pricing, and portfolio management workflows.</p><p>The financing follows a period of rapid growth that saw the company triple both its revenue and customer count over the past year while maintaining positive cash flow. Kalepa plans to deploy the new capital to expand its artificial intelligence product suite, enter new geographic and industry markets, and double its headcount.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26551"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F05%2Fsmall%2F4111748_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dropbox has entered an agreement to acquire cloud technology firm Tigris Data for $350 million, its largest acquisition to date. Expected to close in the fourth quarter of 2026, the deal is intended to bolster Dropbox's AI infrastructure and support the development of DBX Agent Cloud, a new storage platform designed for businesses and developers building AI models and agents.</p><p>DBX Agent Cloud will initially offer object storage compatible with Amazon S3, with planned expansions to support various content types including audio and video. The acquisition also facilitates broader AI integration within Dropbox, allowing users to perform file-based tasks using different AI models and connect content to third-party tools like ChatGPT and Claude. Tigris Data, founded by former Uber engineers, provides distributed storage technology that optimizes data placement to reduce latency and improve performance.</p>
 <p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/">techcrunch.com</a> | <a href="https://investors.dropbox.com/news-releases/news-release-details/dropbox-announces-plans-acquire-tigris-data-inc-and-unveils-dbx">investors.dropbox.com</a></p>
-<br clear="all" />
-
-<h2>Sony Raises Profit Outlook Following Strong PlayStation and Entertainment Sales</h2>
-<a name="story-26523"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2F8Dsr1sX4%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sony Group Corp. has raised its profit outlook after reporting second-quarter results that surpassed analyst estimates. The company posted revenue of approximately $21.7 billion and an operating profit of $3.94 billion, with PlayStation 5 hardware sales reaching 2.6 million units during the period.</p><p>The performance was driven by successful entertainment titles, including the Spider-Man franchise and increased demand for the PlayStation 5 Pro in the United States. This surge in hardware sales was significantly bolstered by consumer interest in Grand Theft Auto VI.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/sony-lifts-outlook-after-spider-man-and-playstation-fuel-growth?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg2NDYzMSwiZXhwIjoxNzk0NDY5NDMxLCJhcnRpY2xlSWQiOiJUTlVUVlFLSkg2VjgwMCIsImJjb25uZWN0SWQiOiJBRDcxOUY5NDBGRTk0MzNBOERCNzI2OEJDOTY3NzY3QyJ9.M7AhSTBnGpiFi78VkX2pOIEbJGwESbWuJsmtERzi5bo">bloomberg.com</a> | <a href="https://www.sony.com/en/SonyInfo/IR/library/er/archive.html">sony.com</a></p>
 <br clear="all" />
 
 ---

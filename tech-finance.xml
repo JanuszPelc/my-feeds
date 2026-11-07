@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-06T09:29:00+00:00</updated>
+  <updated>2026-11-07T01:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>CesiumAstro Raises $730 Million to Fund Satellite Network Deployment</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network::v240</id>
+    <published>2026-11-07T01:42:00+00:00</published>
+    <updated>2026-11-07T01:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fventureburn.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHTftsxxXcAAXSmb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network">bloomberg.com</a></small></p><hr/><p>CesiumAstro has raised $730 million in a funding round that values the Austin-based satellite manufacturer at more than $4.5 billion. The company plans to use the capital to expand manufacturing capacity and deploy Synchronicity, a 737-satellite low-Earth orbit (LEO) constellation.</p><p>Designed to serve both commercial and defense missions, the constellation will operate at two different altitudes. This latest round brings the company's total funding to $1.4 billion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fventureburn.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHTftsxxXcAAXSmb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 07:15 UTC | #26727</small>]]></content>
+  </entry>
   <entry>
     <title>Kalepa Raises $75 Million in Series B Funding Round at $470 Million Valuation</title>
     <link href="https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/" rel="alternate" />
