@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Asahi Linux Details Apple Silicon Upstreaming and M3 Support in Linux 7.3 Progress Report</h2>
+<a name="story-26761"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F04%2Ffeatured-image-235.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Asahi Linux project has released its progress report for Linux 7.3, detailing major upstreaming milestones such as the inclusion of the macaudio and AVD drivers, initial Devicetree support for M4 and M5 silicon, and the general availability of M3 series hardware support. The report also covers advances in virtualization for reverse engineering newer Apple chips, initial M3 GPU initialization, and upstream-first Thunderbolt driver enablement.</p><p>Additional updates include performance improvements to the custom microphone beamformer, the release of Fedora Asahi Remix 45, and experimental testing of the Per Process Page Size (P3S) kernel patchset to run 4 KiB-page Windows games natively without virtual machines. These developments significantly narrow functional gaps for Linux on Apple Silicon while shifting several core components toward upstream-first development.</p>
+<p>Nov 7 · <a href="https://asahilinux.org/2026/11/progress-report-7-3/">asahilinux.org</a> | <a href="https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50401867">hacker news</a></p>
+<br clear="all" />
+
 <h2>Huawei Unveils Qinyun HM650 Desktop With Domestic Components</h2>
 <a name="story-26737"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FBbZKH7oVJJxZUfojyaMAMQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Huawei has launched the Qinyun HM650 series desktop computers for enterprise and government users, powered by its proprietary HarmonyOS operating system and self-developed Kirin X90 processor. The device is built entirely with China-made components, marking the company's first desktop computer to receive domestic certification.</p><p>The release advances Huawei's ongoing push for technological self-reliance as it moves away from foreign hardware suppliers. Although the company highlights the system's domestic construction, the exact scope of the certification remains unclear.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26646"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fsaragordic%2Fwindow-sweaters%2Fraw%2Fmain%2Fdocs%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Window Sweaters is a macOS menu-bar application that adds decorative, knitted-style borders to application windows. The software provides custom color schemes for 37 specific applications and offers various patterns, such as a "Zigzag" style that derives colors from application icons.</p><p>Users can install the application via Homebrew or by downloading the release directly from GitHub. Because the app uses private macOS window APIs and is not yet notarized by Apple, users must manually grant it accessibility permissions and security clearance in System Settings to function.</p>
 <p>Nov 5 · <a href="https://github.com/saragordic/window-sweaters">github.com</a> | <a href="https://news.ycombinator.com/item?id=50381383">hacker news</a></p>
-<br clear="all" />
-
-<h2>Kagi Search Updates Bring Free Trial Searches and Android Redesign</h2>
-<a name="story-26620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fus.v-cdn.net%2F6036147%2Fuploads%2F3SRL2KVBUUEG%2Fkagi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kagi Search has updated its platform to allow non-registered users to perform up to 50 web searches without creating an account. The November 2026 release also introduces a redesigned home screen, rebuilt voice search, and new widgets for its Android application, alongside various performance improvements and bug fixes.</p><p>Additional updates span Kagi Assistant, Kagi News, and Kagi Translate, featuring improved voice input controls, clearer temporary thread indicators, and expanded language support. The release follows Kagi News being featured on Google Play and coincides with company commentary regarding school software policies.</p>
-<p>Nov 5 · <a href="https://kagi.com/changelog">kagi.com</a> | <a href="https://news.ycombinator.com/item?id=50383740">hacker news</a></p>
 <br clear="all" />
 
 ---

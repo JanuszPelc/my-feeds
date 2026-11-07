@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-07T06:26:00+00:00</updated>
+  <updated>2026-11-07T06:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Asahi Linux Details Apple Silicon Upstreaming and M3 Support in Linux 7.3 Progress Report</title>
+    <link href="https://asahilinux.org/2026/11/progress-report-7-3/" rel="alternate" />
+    <id>https://asahilinux.org/2026/11/progress-report-7-3/::v240</id>
+    <published>2026-11-07T06:42:00+00:00</published>
+    <updated>2026-11-07T06:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F04%2Ffeatured-image-235.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://asahilinux.org/2026/11/progress-report-7-3/">asahilinux.org</a> | <a href="https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50401867">hacker news</a></small></p><hr/><p>The Asahi Linux project has released its progress report for Linux 7.3, detailing major upstreaming milestones such as the inclusion of the macaudio and AVD drivers, initial Devicetree support for M4 and M5 silicon, and the general availability of M3 series hardware support. The report also covers advances in virtualization for reverse engineering newer Apple chips, initial M3 GPU initialization, and upstream-first Thunderbolt driver enablement.</p><p>Additional updates include performance improvements to the custom microphone beamformer, the release of Fedora Asahi Remix 45, and experimental testing of the Per Process Page Size (P3S) kernel patchset to run 4 KiB-page Windows games natively without virtual machines. These developments significantly narrow functional gaps for Linux on Apple Silicon while shifting several core components toward upstream-first development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F04%2Ffeatured-image-235.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 14:07 UTC | #26761</small>]]></content>
+  </entry>
   <entry>
     <title>Huawei Unveils Qinyun HM650 Desktop With Domestic Components</title>
     <link href="https://www.scmp.com/tech/tech-trends/article/3373435/no-intel-no-qualcomm-huawei-unveils-desktop-built-entirely-china-made-components" rel="alternate" />

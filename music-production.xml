@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-06T16:52:00+00:00</updated>
+  <updated>2026-11-07T06:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Metaebene Applications Launches Kugelblitz 3D Globe and Atlas App for Mac</title>
+    <link href="https://apps.metaebene.me/en/kugelblitz" rel="alternate" />
+    <id>https://apps.metaebene.me/en/kugelblitz::v240</id>
+    <published>2026-11-07T06:41:00+00:00</published>
+    <updated>2026-11-07T06:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fapps.metaebene.me%2Fmedia%2F4f0db9eb4fb9867834827fc6c42fca1a2dbec18027c8f03efb4c587277b52111%2Fmedium.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://apps.metaebene.me/en/kugelblitz">apps.metaebene.me</a> | <a href="https://news.ycombinator.com/item?id=50389370">hacker news</a></small></p><hr/><p>Kugelblitz is a macOS application developed by Metaebene that renders the Earth and neighboring celestial bodies as an interactive 3D globe and flat atlas using open geodata and OpenStreetMap tiles. Designed to run smoothly on Apple Silicon hardware, the software overlays aerial imagery, road maps, and topographic maps onto real terrain complete with 3D buildings.</p><p>The application includes support for external hardware controllers like the 3Dconnexion SpaceMouse, network-shared tile caching, Apple Vision Pro headset streaming, and historical data visualization for events such as solar eclipses and earthquakes. It operates entirely on freely available geodata sources without requiring user accounts or region-wide downloads.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fapps.metaebene.me%2Fmedia%2F4f0db9eb4fb9867834827fc6c42fca1a2dbec18027c8f03efb4c587277b52111%2Fmedium.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 14:06 UTC | #26760</small>]]></content>
+  </entry>
   <entry>
     <title>Plugin Boutique Launches Early Black Friday Sale With Discounts Up to 96 Percent</title>
     <link href="https://musictech.com/news/gear/up-to-96-percent-off-plugin-boutique-early-black-friday-deals-2026/" rel="alternate" />

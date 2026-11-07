@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Metaebene Applications Launches Kugelblitz 3D Globe and Atlas App for Mac</h2>
+<a name="story-26760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapps.metaebene.me%2Fmedia%2F4f0db9eb4fb9867834827fc6c42fca1a2dbec18027c8f03efb4c587277b52111%2Fmedium.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kugelblitz is a macOS application developed by Metaebene that renders the Earth and neighboring celestial bodies as an interactive 3D globe and flat atlas using open geodata and OpenStreetMap tiles. Designed to run smoothly on Apple Silicon hardware, the software overlays aerial imagery, road maps, and topographic maps onto real terrain complete with 3D buildings.</p><p>The application includes support for external hardware controllers like the 3Dconnexion SpaceMouse, network-shared tile caching, Apple Vision Pro headset streaming, and historical data visualization for events such as solar eclipses and earthquakes. It operates entirely on freely available geodata sources without requiring user accounts or region-wide downloads.</p>
+<p>Nov 7 · <a href="https://apps.metaebene.me/en/kugelblitz">apps.metaebene.me</a> | <a href="https://news.ycombinator.com/item?id=50389370">hacker news</a></p>
+<br clear="all" />
+
 <h2>Plugin Boutique Launches Early Black Friday Sale With Discounts Up to 96 Percent</h2>
 <a name="story-26698"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBaby-Audio-Crystalline-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Plugin Boutique has launched its early Black Friday sale, offering discounts of up to 96 percent on virtual instruments, effects, and software bundles from developers including IK Multimedia, Baby Audio, Waves, and Universal Audio. The promotional event runs through November and December, featuring rotating expiration dates for individual manufacturer discounts.</p><p>Notable price reductions include Baby Audio's Crystalline reverb plugin reduced to £4, the Waves Platinum mix and master bundle, and IK Multimedia's Total VI MAX 2 virtual instrument collection marked down from £1,439.99 to £49.99 through November 30. Additional offers feature Universal Audio's Minimoog Model D and several curated UAD native plugin bundles available for limited windows.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26592"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixdownmag.com.au%2Fwp-content%2Fuploads%2F2026%2F06%2FScreen-Shot-2026-06-29-at-2.36.07-pm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tracktion has released version 14.1 of its Waveform digital audio workstation, which includes updates for both the Free and Pro editions. The update introduces AI-driven features such as plugin generation and mix analysis, alongside a completely rebuilt export and rendering window designed for improved reliability and performance.</p><p>Users of Waveform Free now receive the Attracktive instrument player for free, while the Pro version gains advanced capabilities like AI-assisted mix analysis for loudness and spectral balance. The update also expands AI assistant flexibility by allowing local model integration via LM Studio or Ollama and provides improved interface customization through new light and dark themes.</p>
 <p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/">bedroomproducersblog.com</a> | <a href="https://www.tracktion.com/products/waveform-pro-whats-new">tracktion.com</a></p>
-<br clear="all" />
-
-<h2>Puremagnetik Releases Studies Plugin Library with Free Instruments and Effects</h2>
-<a name="story-26593"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2019%2F02%2FVerv_Screenshot2_2048x2048-993x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Puremagnetik has launched Studies, a modular plugin library containing three instruments and seven effects available completely free of charge. The system divides devices across two primary plugins, with Studies Instruments handling MIDI tracks and Studies Effects processing audio signals.</p><p>The free tier provides fully unlocked access to ten experimental devices, including the tape loop synth Verv, the noise generator Expanse, and the FM soundscape synth Darklands, alongside seven audio processors. An optional subscription expands the library to sixty total devices, and the base software supports VST2, VST3, and AU formats on macOS and Windows.</p>
-<p>Nov 5 · <a href="https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/">bedroomproducersblog.com</a> | <a href="https://puremagnetik.com/products/studies-free">puremagnetik.com</a></p>
 <br clear="all" />
 
 ---
