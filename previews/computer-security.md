@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Archiving and Managing Downloaded YouTube Videos on Personal Media Servers</h2>
+<a name="story-26639"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fcriminallyvulgar%2Fytdlp-sub-subs.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The article argues that users should download and archive their favourite YouTube content to protect against video deletion and the unreliability of the corporate internet. It emphasizes that basic tools make local archiving accessible for anyone wanting to retain permanent access to media they care about.</p><p>To manage a large collection across multiple playlists, the author details a personal homelab configuration using yt-dlp and ytdl-sub to structure downloads as television shows within a Jellyfin media server. Additionally, it discusses using Tdarr to re-encode video libraries into more storage-efficient formats like HEVC.</p>
+<p>Nov 6 · <a href="https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/">criminallyvulgar.dev</a> | <a href="https://news.ycombinator.com/item?id=50378571">hacker news</a></p>
+<br clear="all" />
+
 <h2>US Federal Aviation Administration to Phase Out Floppy Disks in Air Traffic Control by 2028</h2>
 <a name="story-26728"><img src="https://wsrv.nl/?url=https%3A%2F%2Fschiffsov.b-cdn.net%2Fwp-content%2Fuploads%2F2025%2F06%2Ffb-10.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Federal Aviation Administration announced plans to replace the outdated floppy disks used for weather and critical information across more than 400 air traffic control facilities by the end of 2028. The modernization effort will introduce the Enterprise Information Display System to unify legacy systems.</p><p>U.S. Transportation Secretary Sean P. Duffy emphasized the need to upgrade the country's aviation infrastructure with modern technology. The transition aims to improve safety and operational efficiency by retiring decades-old hardware still relied upon for essential data management.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26415"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftnsafety.com%2Fimages%2Fspacex-revolutionizes-mobile-connectivity-with-starlink-direct-to-cell-service.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Qualcomm has signed a multiyear agreement with SpaceX to supply Dragonwing hardware and network software for Starlink Mobile's planned nationwide terrestrial 5G network in the United States. Under the deal, Qualcomm will provide base station components for tens of thousands of cell sites to support SpaceX's entry into consumer mobile services.</p><p>Equipment deployment is scheduled to begin in 2027, positioning SpaceX to compete more directly with major domestic wireless carriers such as AT&amp;T, Verizon, and T-Mobile. Financial terms of the agreement were not disclosed by either company.</p>
 <p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network">bloomberg.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi">qualcomm.com</a></p>
-<br clear="all" />
-
-<h2>Soatok Examines History of Cryptography Conspiracy Theories and NSA Standards</h2>
-<a name="story-26450"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.quantamagazine.org%2Fwp-content%2Fuploads%2F2050%2F09%2FInterpolation-Applications_2880x1620_Lede-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cryptographer Soatok reviews the history of government-standardized cryptography and common conspiracy theories surrounding the National Security Agency and the National Institute of Standards and Technology. The post evaluates historical examples like DES, the Clipper Chip, and Dual_EC_DRBG to distinguish genuine security vulnerabilities from implausible paranoia.</p><p>The article highlights the tension between the NSA's dual missions in communications security and signals intelligence, discussing how historical compromises and backdoors were discovered or misunderstood by the broader cryptographic community.</p>
-<p>Nov 4 · <a href="https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/">soatok.blog</a> | <a href="https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50380316">hacker news</a></p>
 <br clear="all" />
 
 ---
