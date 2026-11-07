@@ -3,7 +3,7 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-07T18:03:00+00:00</updated>
+  <updated>2026-11-07T21:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
   <entry>
@@ -56,9 +56,9 @@
     <link href="https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity" rel="alternate" />
     <id>https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity::v240</id>
     <published>2026-11-06T19:54:00+00:00</published>
-    <updated>2026-11-06T19:54:00+00:00</updated>
+    <updated>2026-11-07T21:24:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftecknexus.com%2Fwp-content%2Fuploads%2F2025%2F07%2FOracle-OpenAi-Datacenter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity">bloomberg.com</a></small></p><hr/><p>Microsoft Corp. is winding down an agreement to rent AI computing capacity from Oracle Corp. after declining to renew their 2023 partnership. The decision stems from the hardware relying on older Nvidia chips, prompting Microsoft to reevaluate multi-billion-dollar cloud collaborations.</p><p>The phase-out reflects broader adjustments in how major technology companies manage and scale their AI infrastructure needs. As newer generations of hardware become available, companies are shifting away from older configurations to optimize performance and cost efficiency.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftecknexus.com%2Fwp-content%2Fuploads%2F2025%2F07%2FOracle-OpenAi-Datacenter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 01:09 UTC | #26708</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50398993">hacker news</a></small></p><hr/><p>Microsoft Corp. is winding down an agreement to rent AI computing capacity from Oracle Corp. after declining to renew their 2023 partnership. The decision stems from the hardware relying on older Nvidia chips, prompting Microsoft to reevaluate multi-billion-dollar cloud collaborations.</p><p>The phase-out reflects broader adjustments in how major technology companies manage and scale their AI infrastructure needs. As newer generations of hardware become available, companies are shifting away from older configurations to optimize performance and cost efficiency.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftecknexus.com%2Fwp-content%2Fuploads%2F2025%2F07%2FOracle-OpenAi-Datacenter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 01:09 UTC | #26708</small>]]></content>
   </entry>
   <entry>
     <title>TechCrunch Equity Podcast Analyzes How Midterm Elections Could Reshape AI Industry</title>
