@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Ocient Raises $100 Million in Series C Funding for Agentic AI Analytics</h2>
+<a name="story-26767"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0871%2F5413%2F1219%2Ffiles%2Fagentic-ai-vc-invest-yoy.png%3Fv%3D1771226864&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ocient Inc. has secured $100 million in a Series C funding round co-led by Boka Capital and OCA Ventures, bringing its total capital raised to $260 million. The Chicago-based data analytics provider plans to use the financing to accelerate the expansion of its OcientAIQ platform, which delivers petabyte-scale analytics and agentic artificial intelligence solutions.</p><p>The company anticipates its revenue will more than triple in the current fiscal year, driven largely by growing adoption among national security organizations and telecommunications providers seeking to process massive network and cybersecurity datasets without data sampling. To support this demand, Ocient has established a dedicated national security subsidiary and intends to expand its on-premises deployments and international footprint while scaling toward financial breakeven.</p>
+<p>Nov 7 · <a href="https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/">siliconangle.com</a></p>
+<br clear="all" />
+
 <h2>Sand.ai Raises $200M Series A Extension to Achieve Unicorn Status</h2>
 <a name="story-26733"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpayhip.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Fhttps%3A%2F%2Fpe56d.s3.amazonaws.com%2Fo_1j45gfk1c7bgksm15c519np1i3vi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chinese artificial intelligence video generation startup Sand.ai has completed a $200 million Series A extension funding round, pushing its valuation past $1 billion and achieving unicorn status. CoStone Capital and Wangsu Science &amp; Technology jointly led the financing, which included participation from state-owned entities and existing investors such as iMPC, CAS Star, and HyT Capital.</p><p>Founded in early 2024, the Beijing-based company develops autoregressive and audiovisual video generation models, including Magi-1, GAGA-1, and the research release MAGI-2 Preview. The newly secured capital will fund foundation model research and development, inference infrastructure, product iterations, and global market expansion as the company prepares to launch the official version of MAGI-2.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26562"><img src="https://wsrv.nl/?url=https%3A%2F%2Fphotos5.appleinsider.com%2Farchive%2Fgallery%2F11728-4863-Screen-Shot-2015-02-02-at-95850-AM-xl.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple plans to raise approximately $7 billion through its first investment-grade bond offering in more than a year. The proceeds are intended to fund share buybacks, dividends, and capital expenditures.</p><p>This issuance aligns with a broader trend of increased debt activity among major U.S. technology companies and marks a return to the bond market for the company after a period of limited issuance.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree">bloomberg.com</a> | <a href="https://bullfincher.io/companies/apple/report/2026-8-k-0000320193-26-000018">bullfincher.io</a></p>
-<br clear="all" />
-
-<h2>Zipline Raises $1.5B at $21.5B Valuation</h2>
-<a name="story-26563"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techbuzz.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1200%2Cquality%3D85%2Cformat%3Dauto%2Cfit%3Dcover%2Fhttps%3A%2F%2Fcharming-card-d91ad3487b.media.strapiapp.com%2Flarge_zipline_soars_to_21_5b_valuation_on_1_5b_raise_e64f8ffb60.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Zipline, an autonomous drone delivery startup, has raised $1.5 billion in a funding round that brings its valuation to $21.5 billion. This is a significant increase from the company's $7.85 billion valuation following a $600 million raise in January. Zipline plans to use the capital to expand its manufacturing operations within the United States.</p><p>The funding supports the expansion of Zipline's commercial services, including a partnership with Walmart to increase drone delivery sites. CEO Keller Cliffton stated that the rising valuation reflects growing market acceptance of autonomous delivery technologies.</p>
-<p>Nov 5 · <a href="https://www.wsj.com/business/drone-startup-zipline-raises-1-5-billion-at-21-5-billion-valuation-1d166eec?st=DJV1r5&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.zipline.com/newsroom/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network">zipline.com</a></p>
 <br clear="all" />
 
 ---

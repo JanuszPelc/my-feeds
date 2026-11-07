@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-07T18:13:00+00:00</updated>
+  <updated>2026-11-07T18:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Neil Brown Details Running Law Firm on Free Software in 2026 Update</title>
+    <link href="https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/" rel="alternate" />
+    <id>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/::v240</id>
+    <published>2026-11-07T18:16:00+00:00</published>
+    <updated>2026-11-07T18:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/">decoded.legal</a> | <a href="https://news.ycombinator.com/item?id=50403066">hacker news</a></small></p><hr/><p>English tech and telecoms lawyer Neil Brown has published his 2026 update on running his practice, decoded.legal, entirely on free and open-source software. The operational setup spans client-side tools running on Debian Linux and a comprehensive suite of self-hosted server applications.</p><p>Notable adjustments since his 2024 review include replacing Nextcloud with Syncthing for file synchronization, discontinuing a self-hosted Jitsi instance in favor of Signal, and maintaining a GrapheneOS mobile device while avoiding artificial intelligence tools entirely. The firm relies on terminal-heavy workflows, a ThinkPad hardware setup, and static site generation tools like BSSG.</p><hr/><small>7 Nov 2026, 22:40 UTC | #26786</small>]]></content>
+  </entry>
   <entry>
     <title>OpenStick $10 Homelab Setup and Software Stack</title>
     <link href="https://blog.bosscher.ch/posts/openstick/" rel="alternate" />

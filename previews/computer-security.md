@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Neil Brown Details Running Law Firm on Free Software in 2026 Update</h2>
+<p>English tech and telecoms lawyer Neil Brown has published his 2026 update on running his practice, decoded.legal, entirely on free and open-source software. The operational setup spans client-side tools running on Debian Linux and a comprehensive suite of self-hosted server applications.</p><p>Notable adjustments since his 2024 review include replacing Nextcloud with Syncthing for file synchronization, discontinuing a self-hosted Jitsi instance in favor of Signal, and maintaining a GrapheneOS mobile device while avoiding artificial intelligence tools entirely. The firm relies on terminal-heavy workflows, a ThinkPad hardware setup, and static site generation tools like BSSG.</p>
+<p>Nov 7 · <a href="https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/">decoded.legal</a> | <a href="https://news.ycombinator.com/item?id=50403066">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenStick $10 Homelab Setup and Software Stack</h2>
 <a name="story-26785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.bosscher.ch%2F_astro%2Fopenstick.nDFavhOI_1HBuYF.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Laurens Bosscher details a lightweight homelab configuration built around a 10-dollar OpenStick hardware device featuring 512 MB of RAM, four ARM Cortex-A53 cores, and 4 GB of eMMC flash running Debian. Despite its modest specifications and zero noise, the passively cooled device runs a full suite of containerized self-hosted services managed via Podman.</p><p>The software stack includes low-resource utilities such as CastSponsorSkip for YouTube sponsorship filtering, a custom fork of AdGuard Home for DNS-level ad blocking, Zeroclaw as an AI agent harness communicating through Telegram, and Cloudflare Tunnel for secure external access without exposed ports. Additional monitoring, management, and productivity tools like Beszel, Dozzle, Gatus, Fusion RSS, Shiori, and Diun operate efficiently within the hardware's strict memory constraints.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26641"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cyfirma.com%2Fmedia%2F2026%2F04%2Fwordpress11-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A logic error in the SourceHut `meta.sr.ht` platform allows unauthenticated attackers to bypass disabled registration settings. The vulnerability, identified as CVE-2026-121728, occurs because the GraphQL backend's `/register/step2` endpoint fails to verify if registration is enabled, even when the frontend indicates that registration is closed. Attackers can bypass the restriction by using a CSRF token obtained from the `/login` endpoint.</p><p>The flaw was introduced during an architectural migration from Flask to a Go-based GraphQL backend, where the registration verification was omitted in the new implementation. The vulnerability affects versions 0.56.11 through 0.88.9. A fix has been released following the researcher's disclosure in November 2026.</p>
 <p>Nov 5 · <a href="https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/">blog.arusekk.pl</a> | <a href="https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass">lobsters</a></p>
-<br clear="all" />
-
-<h2>Claude Code Bug Report Reveals Account Email Exposure in User-Agent Headers</h2>
-<a name="story-26628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.zhimg.com%2Fv2-cee876301d3a6c038767760dc50f14d0_1440w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A bug report filed on GitHub for Anthropic's Claude Code tool reveals that the application includes users' personal account email addresses in the User-Agent HTTP request headers during automated web searches. The user who reported the issue stated that this behavior unintentionally exposes sensitive personal information to third-party websites without proper user consent or opt-out controls.</p><p>The exposed email addresses can be collected by external sites and harvested by malicious actors, resulting in increased spam and heightened privacy risks. The discussion highlights growing developer scrutiny over how agentic coding tools handle user identifiers and telemetry data during external web interactions.</p>
-<p>Nov 5 · <a href="https://github.com/anthropics/claude-code/issues/107757">github.com</a> | <a href="https://news.ycombinator.com/item?id=50385272">hacker news</a></p>
 <br clear="all" />
 
 ---
