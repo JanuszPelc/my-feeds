@@ -3,9 +3,26 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-06T19:56:00+00:00</updated>
+  <updated>2026-11-07T02:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>University of Würzburg Chemists Isolate Stable Oxoboranes After 60 Years</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261103003205.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261103003205.htm::v240</id>
+    <published>2026-11-07T02:55:00+00:00</published>
+    <updated>2026-11-07T02:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fscx2.b-cdn.net%2Fgfx%2Fnews%2Fhires%2F2026%2Fchemists-discover-and.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261103003205.htm">sciencedaily.com</a></small></p><hr/><p>Researchers at the University of Würzburg have successfully synthesized and isolated oxoboranes, a class of reactive molecules featuring a triple bond between boron and oxygen that had eluded chemists for over 60 years. Led by Professor Holger Braunschweig, the team serendipitously produced the stable compounds while investigating reactions between diboracumulenes and ketones in the laboratory.</p><p>Long considered too unstable to isolate under ordinary conditions, oxoboranes were generated as unexpected orange and yellow crystalline solids using relatively simple starting materials. The approach successfully yielded three distinct oxoboranes with computational support from Tezpur University researchers, pointing toward potential new pathways for synthesizing other elusive chemical compounds across the periodic table.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx2.b-cdn.net%2Fgfx%2Fnews%2Fhires%2F2026%2Fchemists-discover-and.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 10:32 UTC | #26746</small>]]></content>
+  </entry>
+  <entry>
+    <title>Astronomers Discover Double Debris Rings Around White Dwarf J1328−1450</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261104012250.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261104012250.htm::v240</id>
+    <published>2026-11-07T02:54:00+00:00</published>
+    <updated>2026-11-07T02:54:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261104012250.htm">sciencedaily.com</a></small></p><hr/><p>Astronomers using the European Southern Observatory's Very Large Telescope have discovered two distinct rings of planetary debris surrounding the white dwarf J1328−1450. Unlike typical single-disc systems around dead stars, this structure features two stable, concentric rings separated by a gap, indicating a complex arrangement of rocky remnants.</p><p>Researchers suspect the double-ring configuration is maintained by two surviving planetary bodies acting as gravitational shepherds, one asteroid-sized and the other potentially as large as Pluto or the Moon. Chemical analysis shows the rings contain rocky planetary materials with distinct compositions, providing rare insight into the violent destruction of planetary systems and a potential preview of our Solar System's distant future.</p><hr/><small>7 Nov 2026, 10:29 UTC | #26745</small>]]></content>
+  </entry>
   <entry>
     <title>Physical Superintelligence Proves Aaronson-Ambainis Conjecture</title>
     <link href="https://psi.inc/research/aaronson-ambainis/" rel="alternate" />
