@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Analysis of Apple&#x27;s On-Device Personal Knowledge Graph and macOS Daemons</h2>
+<a name="story-26762"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F09%2Fget-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods%2Farticle%2FApple-Watch-Series-11_inline.jpg.large_2x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple’s macOS features background daemons like knowledgeconstructiond and intelligenceplatformd that automatically construct an on-device personal knowledge graph. The system cross-references local data sources—including contacts, calendar events, photos, messages, location signals, and device activity—to build a queryable repository of user relationships and behaviors.</p><p>Security researchers at Eighth Rank analyzed the underlying SQLite databases within the IntelligencePlatform directory, detailing the structure's entity classes and relationship predicates. To help users inspect what data is stored locally, the researchers also released an open-source tool called iKnow while highlighting potential privacy and security implications associated with comprehensive on-device data aggregation.</p>
+<p>Nov 7 · <a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">8rank.ai</a> | <a href="https://news.ycombinator.com/item?id=50403097">hacker news</a></p>
+<br clear="all" />
+
 <h2>PWN Research Details Firecracker MicroVM Escape and Host Root Execution</h2>
 <a name="story-26759"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpwn.ai%2Fapi%2Fblog%2Fimages%2Ffirecracker-host-integration-dbdde36ef234.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PWN Research published a technical write-up detailing a complete escape from an AWS Firecracker microVM (version 1.16.1), demonstrating how a guest can achieve root code execution on the host. By leveraging a previously established host memory access primitive, the technique identifies the Firecracker virtual machine monitor process, maps its virtual memory under ASLR, and locates the active vCPU thread's saved register frame.</p><p>The exploit intercepts the return from the KVM ioctl by modifying the saved instruction pointer and stack frame to execute custom host commands before seamlessly resuming normal operation. This compromise preserves guest responsiveness and process stability while highlighting critical security boundaries in container and microVM virtualization setups.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Debian Patches APT Vulnerability Allowing Root Code Execution</h2>
 <p>Debian released security advisory DSA-6607-1 to address CVE-2026-109518, a vulnerability in the APT package manager. A man-in-the-middle attacker can exploit improper file handling during resumed HTTP downloads to replace a package after verification, potentially enabling arbitrary code execution as root.</p><p>The flaw allows APT to merge two different package downloads if an HTTP redirect assigns them the same URI. For the Debian stable release (trixie), the issue is fixed in APT version 3.0.4. This update also addresses several out-of-bounds access issues.</p>
 <p>Nov 4 · <a href="https://lists.debian.org/debian-security-announce/2026/msg00526.html">lists.debian.org</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6607-1">security-tracker.debian.org</a> | <a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50366575">hacker news</a></p>
-<br clear="all" />
-
-<h2>GitHub Resolves Incident Affecting Pull Requests, Git Operations, and Issues</h2>
-<a name="story-26490"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHG7PgIXbgAUj75v.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GitHub resolved an incident on November 4, 2026, that caused service degradation and intermittent failures for Pull Requests, Git Operations, Issues, API Requests, and Actions. The disruption resulted in some requests being failed or delayed.</p><p>The issue was first identified around 09:49 UTC and reached mitigation by 11:50 UTC. GitHub intends to share a detailed root cause analysis once it is available.</p>
-<p>Nov 4 · <a href="https://www.githubstatus.com/incidents/smtdswd1h2w4">githubstatus.com</a> | <a href="https://news.ycombinator.com/item?id=50363378">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Rubin Observatory Discovers Two Milky Way Satellite Galaxies</h2>
+<a name="story-26744"><img src="https://wsrv.nl/?url=https%3A%2F%2Frubinobservatory.org%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2FRubin.canto.com%2Fdirect%2Fimage%2Fhrarstciph4ffdsts3jveq176c%2FQ4joXwX1ztcsjLCEF824lD7ctvo%2Fm800%2F2050%26w%3D3840%26q%3D85&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Astronomers using data from the Vera C. Rubin Observatory have discovered two previously unknown companions of the Milky Way: an ultra-faint dwarf galaxy named Aquarius IV and a star cluster named Rubin-GC1. Identified from preview observations covering just 7% of the night sky, these objects highlight the telescope's capacity to detect extremely faint stellar structures.</p><p>The findings suggest that hundreds of undiscovered satellite galaxies may surround the Milky Way, waiting to be revealed during the observatory's 10-year Legacy Survey of Space and Time. Uncovering these hidden companions could help researchers test models of galaxy formation, trace the Milky Way's assembly history, and investigate the distribution and nature of dark matter.</p>
+<p>Nov 7 · <a href="https://www.sciencedaily.com/releases/2026/11/261104012252.htm">sciencedaily.com</a></p>
+<br clear="all" />
+
 <h2>University of Würzburg Chemists Isolate Stable Oxoboranes After 60 Years</h2>
 <a name="story-26746"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx2.b-cdn.net%2Fgfx%2Fnews%2Fhires%2F2026%2Fchemists-discover-and.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at the University of Würzburg have successfully synthesized and isolated oxoboranes, a class of reactive molecules featuring a triple bond between boron and oxygen that had eluded chemists for over 60 years. Led by Professor Holger Braunschweig, the team serendipitously produced the stable compounds while investigating reactions between diboracumulenes and ketones in the laboratory.</p><p>Long considered too unstable to isolate under ordinary conditions, oxoboranes were generated as unexpected orange and yellow crystalline solids using relatively simple starting materials. The approach successfully yielded three distinct oxoboranes with computational support from Tezpur University researchers, pointing toward potential new pathways for synthesizing other elusive chemical compounds across the periodic table.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26546"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-articleLarge.png%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic CEO Dario Amodei's approach to artificial intelligence is shaped by his physics background and an early fascination with the technological singularity. His worldview is informed by rationalist communities and effective altruism forums, such as GiveWell and the "Accelerating Future" blog, which explore the potential for AI to transform humanity and its existential risks.</p><p>Amodei's philosophy, centered on mathematical reasoning and safety, comes as Anthropic prepares for a significant public listing. His perspective places him at the center of industry debates regarding the necessity of building AI systems that can be safely controlled to avoid catastrophic outcomes.</p>
 <p>Nov 5 · <a href="https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html?unlocked_article_code=1.OFE.CslN.usTW7cxPf_1Y&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>1,10-Phenanthroline Modifies Glass Structure During Manufacturing</h2>
-<a name="story-26540"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fmembranes%2Fmembranes-14-00099%2Farticle_deploy%2Fhtml%2Fimages%2Fmembranes-14-00099-g002.png%3F1714045975&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>During the melting process, the addition of 1,10-phenanthroline allows for the chemical restructuring of metal-organic framework (MOF) glasses. This molecule serves as a flux to lower required melting temperatures and as a chemical agent that reorganizes the coordination environment of metal atoms within the glass network.</p><p>This method prevents material decomposition typically caused by the high temperatures required to melt specialized glass components. The ability to tune properties like magnetism and light emission via this technique suggests potential applications in catalysis, gas storage, batteries, and optical technologies.</p>
-<p>Nov 5 · <a href="https://www.sciencedaily.com/releases/2026/11/261103003202.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41563-026-02712-5">nature.com</a></p>
 <br clear="all" />
 
 ---
