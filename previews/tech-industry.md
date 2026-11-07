@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Pursues IPO With Valuation Up to $1.75 Trillion</h2>
+<a name="story-26717"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHID5wUGWYAAiQDK.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic is moving forward with plans for an initial public offering before the Thanksgiving holiday this month. The company expects to raise $80 billion to $100 billion at a valuation between $1.25 trillion and $1.75 trillion.</p><p>This high-stakes listing is being pursued despite a recent downturn in technology stocks. The capital raise is intended to support the company's development and infrastructure investments.</p>
+<p>Nov 6 · <a href="https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452">ft.com</a></p>
+<br clear="all" />
+
 <h2>Microsoft Winds Down Oracle Cloud AI Capacity Rental Deal</h2>
 <a name="story-26708"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftecknexus.com%2Fwp-content%2Fuploads%2F2025%2F07%2FOracle-OpenAi-Datacenter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft Corp. is winding down an agreement to rent AI computing capacity from Oracle Corp. after declining to renew their 2023 partnership. The decision stems from the hardware relying on older Nvidia chips, prompting Microsoft to reevaluate multi-billion-dollar cloud collaborations.</p><p>The phase-out reflects broader adjustments in how major technology companies manage and scale their AI infrastructure needs. As newer generations of hardware become available, companies are shifting away from older configurations to optimize performance and cost efficiency.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26609"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fdata-center-nvidia-logo-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia has approached Apollo Global Management regarding the retrofitting of more than 130 buildings owned by the ISP Brightspeed into a network of small AI data centers. This initiative aims to accelerate the deployment of Nvidia's chips by repurposing existing telecommunications infrastructure.</p><p>The project seeks to create a distributed network of data centers potentially spanning 20 U.S. states. This strategy is intended to bypass challenges associated with traditional data center expansion and address backlash regarding the construction of large-scale facilities.</p>
 <p>Nov 5 · <a href="https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Google Plans $17 Billion Data Center Investment in Wyoming</h2>
-<a name="story-26607"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt8eb3cdfc1fce5194%2Fblt2340fbce31dfa93f%2F66212fd7e8a6cce5b582ccb6%2Fmsft-quincy-phase2.jpg%3Fwidth%3D1280%26auto%3Dwebp%26quality%3D95%26format%3Djpg%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has announced a $17 billion investment to build its first data center in Wyoming, accompanied by commitments to cover all power consumption and establish a local community council. The project is designed to incorporate advanced power and emission-reduction technologies, including fuel cells and carbon capture.</p><p>The long-term development in Laramie County involves partnerships with energy providers like American Electric Power to support infrastructure needs while addressing local resource and growth concerns. Although the formal price tag and framework have been unveiled, construction timelines for the facility have not yet been detailed.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center">bloomberg.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/">blog.google</a></p>
 <br clear="all" />
 
 ---
