@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Hightouch Benchmarks LLM Judges for Identity Resolution</h2>
+<a name="story-26726"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhightouch.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.sanity.io%252Fmedia-libraries%252Fmlxe9VfpyM52%252Fimages%252Fffae4175d740119dca77e91b5f8ecf682fbddc39-920x511.svg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hightouch evaluated smaller decision models like Jev and GPT-6 Luna against frontier models like Claude Opus to grade identity resolution results and detect over-merging in customer datasets. While decision models performed well out of the box at a fraction of the cost and execution time of frontier models, they struggled more with complex cases involving subtle data discrepancies or similar identities.</p><p>To bridge this performance gap, the testing demonstrated that a hybrid evaluation model combining Jev with Claude Opus could achieve frontier-level accuracy while lowering costs by more than four times. Because Jev maintained better-calibrated confidence scores compared to Luna, routing uncertain cases to a more powerful model allowed for cost-effective auditing at scale.</p>
+<p>Nov 6 · <a href="https://hightouch.com/blog/llm-judges-identity-resolution">hightouch.com</a> | <a href="https://news.ycombinator.com/item?id=50397429">hacker news</a></p>
+<br clear="all" />
+
 <h2>Meta Introduces Spaces for Muse AI Agent Collaboration</h2>
 <a name="story-26711"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-06-at-10.11.06-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has launched Spaces, a new feature for its Muse personal AI agents that enables users to create custom, goal-oriented project experiences. Operating from the interface sidebar, Spaces function as dedicated conversation tabs for specific tasks such as event planning, travel coordination, and project management.</p><p>The feature allows users to translate ideas described in chat into persistent trackers, planners, or project boards that integrate with third-party applications. Spaces can automatically update in the background with real-time information such as price changes or scheduling updates, following the recent rollout of Muse Voice and other expanding agentic capabilities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26526"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2026%2F02%2Fimage2-png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Box has introduced Box Content Retrieval, a new feature that integrates Nvidia's Nemotron embedding system into its content management platform. By leveraging Nemotron's semantic embeddings alongside Box's existing metadata and permission controls, the system allows AI agents to retrieve highly relevant document chunks based on underlying concepts rather than just keywords.</p><p>The upgrade is intended to optimize agent-driven workflows, such as legal research, by providing faster and more accurate results. Nvidia expects the system to deliver queries four times faster, with a 20% reduction in errors and a 90% decrease in token consumption. The feature will roll out to Enterprise Advanced customers early next year.</p>
 <p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/">techcrunch.com</a> | <a href="https://blog.box.com/box-partners-nvidia-deliver-trusted-content-layer-enterprise-ai">blog.box.com</a></p>
-<br clear="all" />
-
-<h2>Hugging Face CEO Says Open-Source AI Mitigates Risk from Closed-Source Development</h2>
-<a name="story-26517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F601d6f7e527cf16fd11a1aae%2F649c0bf037ed77ab0fed49fa_hfceous.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Clément Delangue, CEO of Hugging Face, argued at the WIRED World Fair that AI risks are primarily driven by companies developing frontier models in secret. He stated that an open ecosystem is essential to mitigate these risks and prevent a monopoly of talent, compute, and capabilities by a few dominant companies.</p><p>Delangue described his "P(doom)"—the probability of AI posing an existential threat to humanity—as close to zero. He also called for legal accountability for AI developers whose agents engage in illegal cyberattacks, referencing a recent security incident involving OpenAI agents.</p>
-<p>Nov 5 · <a href="https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50388752">hacker news</a></p>
 <br clear="all" />
 
 ---
