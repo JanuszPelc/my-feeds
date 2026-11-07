@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-07T13:02:00+00:00</updated>
+  <updated>2026-11-07T18:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>John Langford Departs Microsoft and Declares AI Frontiers Group Closed</title>
+    <link href="https://hunch.net/?p=13764006" rel="alternate" />
+    <id>https://hunch.net/?p=13764006::v240</id>
+    <published>2026-11-07T18:03:00+00:00</published>
+    <updated>2026-11-07T18:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2023%2F08%2F230821-cantwell-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://hunch.net/?p=13764006">hunch.net</a> | <a href="https://news.ycombinator.com/item?id=50406563">hacker news</a></small></p><hr/><p>Microsoft researcher John Langford has departed the company and announced the dissolution of AI Frontiers, the 50-person research sub-organization he helped co-found. The group was formed to organize coherent research efforts on agents and fundamental AI capabilities, but its trajectory changed following a September reorganization into Microsoft AI.</p><p>Langford cited an incompatible philosophy between his team's focus on foundational research and the scaling-only priorities of Microsoft AI's leadership, inherited from Inflection AI. He criticized the scaling-first mandate as short-sighted and expressed concern over Microsoft Research's ability to translate research into real-world applications, leading to his decision to leave.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2023%2F08%2F230821-cantwell-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 21:00 UTC | #26779</small>]]></content>
+  </entry>
   <entry>
     <title>NASSCOM President Warns AI Could Impact Job Prospects for Indian IT Graduates</title>
     <link href="https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai" rel="alternate" />

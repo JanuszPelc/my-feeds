@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>John Langford Departs Microsoft and Declares AI Frontiers Group Closed</h2>
+<a name="story-26779"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2023%2F08%2F230821-cantwell-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft researcher John Langford has departed the company and announced the dissolution of AI Frontiers, the 50-person research sub-organization he helped co-found. The group was formed to organize coherent research efforts on agents and fundamental AI capabilities, but its trajectory changed following a September reorganization into Microsoft AI.</p><p>Langford cited an incompatible philosophy between his team's focus on foundational research and the scaling-only priorities of Microsoft AI's leadership, inherited from Inflection AI. He criticized the scaling-first mandate as short-sighted and expressed concern over Microsoft Research's ability to translate research into real-world applications, leading to his decision to leave.</p>
+<p>Nov 7 · <a href="https://hunch.net/?p=13764006">hunch.net</a> | <a href="https://news.ycombinator.com/item?id=50406563">hacker news</a></p>
+<br clear="all" />
+
 <h2>NASSCOM President Warns AI Could Impact Job Prospects for Indian IT Graduates</h2>
 <a name="story-26751"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F0%252F8%252F2%252F5%252F13405280-1-eng-GB%252F6e4c759b0db5-GettyImages-2281719557-1-i.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rajesh Nambiar, president of NASSCOM, warns that recent college graduates in India may struggle to find technology jobs as artificial intelligence automates entry-level coding and software testing tasks.</p><p>The shift toward AI-driven automation suggests that India's technical education system requires a rapid overhaul to align graduate skills with changing industry needs.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F1d7eb407f5be16fcf089861a9f52ef1e1ac023c4f665929d34bde0fe84bee61e%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05a3c56162e13ad80fef0f8d822b3daf.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Britain plans to introduce legislation requiring employers to publish salary information in job advertisements, as announced by Prime Minister Andy Burnham. The policy aims to empower jobseekers, reduce pay disparities, and help address broader employment challenges.</p><p>The mandate is designed to eliminate the traditional uncertainty applicants face regarding compensation when applying for roles. Further details on the upcoming legislation and its implementation timeline are expected to be brought forward soon.</p>
 <p>Nov 6 · <a href="https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50389222">hacker news</a></p>
-<br clear="all" />
-
-<h2>Airbnb Discloses Option to Invest in and License Tech From CEO Brian Chesky&#x27;s AI Startup</h2>
-<a name="story-26637"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdigitalmarketreports.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-48.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Airbnb disclosed in a regulatory filing that it has secured an option to invest in and license technology from a secretive artificial intelligence startup controlled by CEO Brian Chesky. Chesky has personally self-funded the AI lab so far and plans to continue financing its operations independently.</p><p>The venture represents Chesky’s direct entry into the artificial intelligence space, focusing on user interaction and interface design rather than standard text-based chatbots. Although the lab operates independently from Airbnb, the new disclosure establishes a formal framework for potential future commercial ties between the two entities.</p>
-<p>Nov 6 · <a href="https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup">theinformation.com</a></p>
 <br clear="all" />
 
 ---
