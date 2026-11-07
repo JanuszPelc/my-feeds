@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Google Acquires Crusoe&#x27;s Wyoming Data Center Site</h2>
+<a name="story-26723"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.powermag.com%2Fwp-content%2Fuploads%2F2025%2F10%2Fgoogle-data-center-1024x1017.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google has acquired a data center site in southeast Wyoming from the AI infrastructure firm Crusoe. The deal concludes Crusoe’s pre-development engagement, which encompassed site selection, power strategy, and obtaining governmental approvals. This follows Alphabet Inc.’s recent commitment of $17 billion toward the project.</p><p>The acquisition occurs after Crusoe reportedly failed to secure long-term customers for the site, including Google. Google will now oversee the development and operation of the data center itself.</p>
+<p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched">bloomberg.com</a> | <a href="https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update">crusoe.ai</a> | <a href="https://news.ycombinator.com/item?id=50397711">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic Pursues IPO With Valuation Up to $1.75 Trillion</h2>
 <a name="story-26717"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHID5wUGWYAAiQDK.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic is moving forward with plans for an initial public offering before the Thanksgiving holiday this month. The company expects to raise $80 billion to $100 billion at a valuation between $1.25 trillion and $1.75 trillion.</p><p>This high-stakes listing is being pursued despite a recent downturn in technology stocks. The capital raise is intended to support the company's development and infrastructure investments.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26636"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aed09259270da3cc6668a8d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, is closing in on a $5 billion funding round led by Accel at a $40 billion pre-money valuation. The transaction is expected to close as soon as this week.</p><p>The new financing more than triples the company's previous $12 billion valuation from its seed round last year. The funding comes despite a significant talent exodus that saw several founding members depart for rival firms like Meta and OpenAI, as the startup continues developing tools for fine-tuning large language models.</p>
 <p>Nov 6 · <a href="https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11">businessinsider.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Proposes Retrofitting Brightspeed Buildings into AI Data Centers</h2>
-<a name="story-26609"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fdata-center-nvidia-logo-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia has approached Apollo Global Management regarding the retrofitting of more than 130 buildings owned by the ISP Brightspeed into a network of small AI data centers. This initiative aims to accelerate the deployment of Nvidia's chips by repurposing existing telecommunications infrastructure.</p><p>The project seeks to create a distributed network of data centers potentially spanning 20 U.S. states. This strategy is intended to bypass challenges associated with traditional data center expansion and address backlash regarding the construction of large-scale facilities.</p>
-<p>Nov 5 · <a href="https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings">theinformation.com</a></p>
 <br clear="all" />
 
 ---

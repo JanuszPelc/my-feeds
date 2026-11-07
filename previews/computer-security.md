@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Internet-wide Scan Finds Services Listening on TCP Port 0</h2>
+<a name="story-26735"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXc4DMnG6Aoce7ehdqG2FG1sR0e6bkMMKvJ07X7VFhKHh0QgrVxxbJFdx9v9VgyZVU8YAt0XKkTg65R5rOfYI61f92YjDKOQWLD623vX2OAR0v9wmKvE1geunLbzdeX9hjc0fhsTsA%3Fkey%3DopCldyGYLT2fPepb4a7zb4uI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An internet-wide scan of IPv4 addresses for open TCP port 0 identified over one million responding hosts. While port 0 is a reserved value typically used by operating systems to assign ephemeral ports, raw-packet scanning tools can bypass kernel-level restrictions to detect active responses.</p><p>Findings included standard protocols like SSH, MySQL, and HTTP, as well as specialized industrial and building automation equipment such as Beckhoff PLCs, Gira HomeServers, and Trane Tracer Synchrony controllers. A high percentage of responding addresses were F5 BIG-IP load balancers.</p>
+<p>Nov 6 · <a href="https://acid.vegas/blog/the-port-that-does-not-exist/">acid.vegas</a> | <a href="https://lobste.rs/s/osqswf/port_does_not_exist">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50399587">hacker news</a></p>
+<br clear="all" />
+
 <h2>Archiving and Managing Downloaded YouTube Videos on Personal Media Servers</h2>
 <a name="story-26639"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbear-images.sfo2.cdn.digitaloceanspaces.com%2Fcriminallyvulgar%2Fytdlp-sub-subs.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The article argues that users should download and archive their favourite YouTube content to protect against video deletion and the unreliability of the corporate internet. It emphasizes that basic tools make local archiving accessible for anyone wanting to retain permanent access to media they care about.</p><p>To manage a large collection across multiple playlists, the author details a personal homelab configuration using yt-dlp and ytdl-sub to structure downloads as television shows within a Jellyfin media server. Additionally, it discusses using Tdarr to re-encode video libraries into more storage-efficient formats like HEVC.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26416"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fhospital-s-blood-bank-storage-area-refrigerators-holding-bags-beautifully-composed-image-suitable-use-design-350423125.jpg%3Fw%3D576&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cold storage units operated by external providers for the French Blood Establishment (EFS) were compromised in a recent wave of European cyberattacks, with temperatures intentionally elevated. The breach affected three EFS preparation and distribution sites, threatening blood products, biobank samples, and frozen plasma intended for transfusions.</p><p>Surveillance systems triggered rapid alerts, allowing staff to bring equipment under control or take it offline before any blood products or samples were lost. The incident follows a broader series of remote hacks targeting supermarket refrigerators across France, Belgium, Sweden, and Finland, prompting the EFS to coordinate response efforts with the French National Cybersecurity Agency and the Ministry of Health.</p>
 <p>Nov 4 · <a href="https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html">cnbc.com</a></p>
-<br clear="all" />
-
-<h2>Qualcomm Signs Multiyear Agreement to Supply Equipment for SpaceX Mobile Network</h2>
-<a name="story-26415"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftnsafety.com%2Fimages%2Fspacex-revolutionizes-mobile-connectivity-with-starlink-direct-to-cell-service.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Qualcomm has signed a multiyear agreement with SpaceX to supply Dragonwing hardware and network software for Starlink Mobile's planned nationwide terrestrial 5G network in the United States. Under the deal, Qualcomm will provide base station components for tens of thousands of cell sites to support SpaceX's entry into consumer mobile services.</p><p>Equipment deployment is scheduled to begin in 2027, positioning SpaceX to compete more directly with major domestic wireless carriers such as AT&amp;T, Verizon, and T-Mobile. Financial terms of the agreement were not disclosed by either company.</p>
-<p>Nov 4 · <a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network">bloomberg.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi">qualcomm.com</a></p>
 <br clear="all" />
 
 ---
