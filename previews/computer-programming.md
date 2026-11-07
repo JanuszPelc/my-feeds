@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Meridian macOS Web Browser Built on GPUI and Servo</h2>
+<a name="story-26770"><img src="https://wsrv.nl/?url=https%3A%2F%2Fop.tngl.io%2Fmeridian%2Fassets%2Fmeridian-logo.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meridian is a customizable macOS web browser written in Rust and built on the GPUI framework and the Servo web rendering engine. Designed to handle lightweight websites efficiently, the browser provides features such as an address bar with typeahead, vertical and horizontal tabs, bookmarks, history, per-site zoom, and a dedicated reader mode.</p><p>The project relies on a separate bridging library called gpui-servo to integrate Servo as a standard GPUI component, enabling developers to build similar browser interfaces. Meridian can be installed using Nix via its repository on Tangled, where the source code and issue tracker are publicly hosted for community contributions.</p>
+<p>Nov 7 · <a href="https://op.tngl.io/meridian/">op.tngl.io</a> | <a href="https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built">lobsters</a></p>
+<br clear="all" />
+
+<h2>Kevin Boone Publishes Bare-Metal Programming Using UEFI Article Series</h2>
+<a name="story-26768"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcselectricalandelectronics.com%2Fwp-content%2Fuploads%2F2025%2F03%2FDifference-Between-Typical-And-Bare-Metal-Programming-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kevin Boone's tutorial series guides experienced Linux developers through building bare-metal applications for UEFI-based PC hardware. Assuming no prior knowledge of UEFI, the guides explain the complete workflow from a Linux workstation.</p><p>The sequential articles cover necessary software tools, compilation and linking processes, creating bootable USB flash or DVD images, and file management utilizing the UEFI Simple File Protocol.</p>
+<p>Nov 7 · <a href="https://kevinboone.me/efitest_index.html">kevinboone.me</a> | <a href="https://news.ycombinator.com/item?id=50394855">hacker news</a></p>
+<br clear="all" />
+
 <h2>Need for Speed: Underground 2 Browser Port Now Available</h2>
 <a name="story-26764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Underground 2 Revived is a fan-made project that runs the 2004 PC racing game Need for Speed: Underground 2 directly in web browsers such as Chrome and Firefox. The port uses static WebAssembly recompilation to execute the original x86 game code, supporting widescreen resolutions up to 120 frames per second via WebGPU, along with standard peripherals like controllers, steering wheels, and touch controls.</p><p>The unofficial release features online multiplayer capabilities, including shared free-roam sessions and races with other players. Developed as a free browser-based experience with no microtransactions or paid perks, the project requires users to provide their own game files and includes built-in state saving through the in-game garage menu.</p>
@@ -80,18 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26666"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdevtalk.blender.org%2Fuploads%2Fdefault%2Foriginal%2F3X%2F0%2Fd%2F0d1d684ab8e8c6cb17e713cefe67a14ecb6c42d4.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>BUI is an open-source UI library that decouples Blender's GPU-accelerated interface from its core codebase to provide a standalone toolset for developers. It features native bindings for Python, Rust, JavaScript, React, C, C++, and Dear ImGui, allowing applications to utilize Blender's interface components and rendering performance without requiring Blender to be installed.</p><p>The library replicates Blender's core interaction rules, including continuous drag number fields, math expression evaluators, and fuzzy menu searches, while supporting legacy tkinter applications and modern web-like styling frameworks. Built for resource efficiency, BUI uses damage rendering and an optional GPU backend to deliver high frame rates with minimal CPU overhead.</p>
 <p>Nov 6 · <a href="https://github.com/ppmpreetham/BUI">github.com</a> | <a href="https://news.ycombinator.com/item?id=50389333">hacker news</a></p>
-<br clear="all" />
-
-<h2>GNU Mes 0.28 Released With Major Performance Improvements</h2>
-<a name="story-26655"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpikabu.ru%2Fcache.php%3Froute%3Dshare_preview%26story_id%3D7072373%26time%3D1574950380%26u%3DOpenNET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GNU Mes 0.28 has been released, marking the first official release led by co-maintainer Ekaitz Zárraga alongside Tim Sample after more than a year of development. The update introduces a significant rewrite of the core Scheme interpreter, shifting the macro expander entirely into Scheme and delivering up to a 40 percent reduction in execution time alongside R7RS-compliant multiple return values.</p><p>Key changes in version 0.28 include support for compiling Mes with both M2-Planet and MesCC in addition to GCC, improved RISC-V C library initialization, and a streamlined initialization driver that eliminates garbage collection overhead during boot. The release incorporates extensive history cleanups and fixes for continuation marks, providing a faster and more stable foundation for bootstrap processes.</p>
-<p>Nov 6 · <a href="https://ekaitz.elenq.tech/fasterMes10.html">ekaitz.elenq.tech</a> | <a href="https://lists.gnu.org/archive/html/info-gnu/2026-10/msg00005.html">lists.gnu.org</a> | <a href="https://lobste.rs/s/pqzdyt/gnu_mes_0_28_release">lobsters</a></p>
-<br clear="all" />
-
-<h2>Hackintosh Community Experiences Revival Through AI Tools</h2>
-<a name="story-26652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.naut.ca%2Fblog%2Fcontent%2Fimages%2F2026%2F11%2FScreenshot-2026-11-05-at-1.25.41-PM.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer and long-time contributor Yoonsik Park explores how the integration of AI coding assistants like Claude Code has revitalized the Hackintosh and HackiOS communities. Despite Apple's transition to ARM architecture and the official incompatibility of newer macOS releases with x86 hardware, developers are leveraging AI tools to rapidly create workarounds and ports.</p><p>Recent milestones driven by these advancements include running macOS 27 on Snapdragon laptops and ARM single-board computers, porting iOS to the Nintendo Switch OLED, and enabling support for Nvidia 50-series GPUs. These achievements indicate that AI-assisted reverse engineering is lowering traditional hardware barriers for running macOS on non-Apple systems.</p>
-<p>Nov 6 · <a href="https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/">naut.ca</a> | <a href="https://news.ycombinator.com/item?id=50383057">hacker news</a></p>
 <br clear="all" />
 
 ---

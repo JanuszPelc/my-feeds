@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Polyend Patch Modular Effects Sample Pack Available Free</h2>
+<a name="story-26755"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdm.link%2Fapp%2Fuploads%2F2019%2F05%2FDSC02828.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bedroom Producers Blog features a free sample pack from Polyend, offering modular effects designed for electronic music producers and sound designers. The collection provides a variety of distinctive audio textures and processing elements that can be integrated into digital audio workstations.</p><p>The sound pack is made available for download through promotional offers covered on the blog, catering to producers seeking unique hardware-derived sounds without additional cost.</p>
+<p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/polyend-patch/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
+<h2>ILIO Adds 2,000 Free Licenses for Low End Theory 2 Sound Pack</h2>
+<a name="story-26747"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fs5AVH9RqEUM%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ILIO has released an additional 2,000 free licenses for the Low End Theory 2 sound pack, a 100-preset collection created by Sean Divine for use with the free AAS Player. The follow-up batch provides another opportunity for users who missed the initial giveaway.</p><p>Designed for hip-hop, trap, and electronic music production, the pack includes basses, leads, keys, pads, and drum sounds. The licenses are available on a first-come, first-served basis through ILIO's registration page, supporting macOS and Windows systems.</p>
+<p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/aas-player-giveaway">ilio.com</a></p>
+<br clear="all" />
+
+<h2>Krotos Offers Dehumaniser Simple Monsters and Starter Sound Library Free</h2>
+<a name="story-26748"><img src="https://wsrv.nl/?url=https%3A%2F%2Fudiaudio.com%2Fcdn%2Fshop%2Ffiles%2Fpv-2790-Dehumaniser_Simple_Monsters-gui-2.jpg%3Fv%3D1724580992%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Krotos is offering the Dehumaniser Simple Monsters voice-processing plugin and the 10.5 GB Krotos Starter Sound Effects Library as a free bundle until November 11, 2026. The promotional offer requires completing checkout on the official site without a purchase or ongoing subscription, providing both products permanently after registration.</p><p>Simple Monsters uses Dehumaniser 2 technology to convert speech into creature and robot voices in real time using adjustable parameters like size and fury alongside an X/Y pad. The accompanying sound library includes nearly 4,000 royalty-free WAV files covering everyday recordings, ambiences, and sci-fi elements equipped with embedded metadata for audio management software.</p>
+<p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/krotos-simple-monsters-free/">bedroomproducersblog.com</a> | <a href="https://krotos.studio/free-bundle">krotos.studio</a></p>
+<br clear="all" />
+
 <h2>NOMN Develops Bubble Synthesizer and Spatial Audio Plugins</h2>
 <a name="story-26749"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixelite.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-1jpg-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NOMN is a Tokyo-based software studio that produces minimalist music production plugins, including a physical-modeling bubble synthesizer, a multi-layer MIDI generator, spatial processing tools, and a remote browser-based listening service. Its software features custom visual interfaces with support for formats such as VST3, AU, and MPE.</p><p>The studio's device lineup includes FOAM for modeling acoustic bubble dynamics, RESERVOIR for algorithmic MIDI composition using multiple rhythm engines, ANTIVERB for reflection-based density layering, and CHAKRABOOST for multi-band spatial panning. Priced between ¥7,777 and ¥11,111 with 14-day trials available, the plugins operate on macOS and Windows.</p>
@@ -78,24 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpp-v2-1280x720.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Algoriffix has launched Pitch Perfekt V2, an updated version of its voice-to-MIDI plugin and standalone application that converts live vocals or audio recordings into MIDI data. The latest release introduces two premium capabilities: a Vocal Transformer for real-time live vocal shaping, and Functional Harmony for four-part melody harmonization during file conversion.</p><p>Additional updates in version 2 include refined pitch tracking, key-aware note names, a mains hum filter, and a revised graphical user interface. While the core application remains free, the new Vocal Transformer and Functional Harmony functions are offered as premium add-ons with seven-day trials, supporting VST3, AU, and AAX formats across Windows and macOS.</p>
 <p>Nov 6 · <a href="https://www.kvraudio.com/news/algoriffix-releases-pitch-perfekt-v2-with-vocal-transformer-and-functional-harmony-69664?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69664">kvraudio.com</a> | <a href="https://www.algoriffix.com/pitch-perfekt">algoriffix.com</a></p>
-<br clear="all" />
-
-<h2>ElevenLabs Enables Direct Publishing of AI-Generated Music to SoundCloud</h2>
-<a name="story-26561"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FElevenLabs-Eleven-Music-Royalty-Free-Commercially-Safe-2.thumb.jpg.74ad327298f506a7eed35520e56ff102.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Users of the ElevenMusic platform can now publish AI-generated tracks directly to SoundCloud through a new integration. As part of the partnership, SoundCloud Artist Pro subscribers will receive three months of ElevenMusic Pro, which includes features such as stem file splitting and increased monthly song generation limits.</p><p>The integration arrives as ElevenLabs reports over 25 million tracks created via its models. While SoundCloud is facilitating direct AI music distribution, other major streaming platforms like Deezer, Spotify, and YouTube have primarily focused on labeling or filtering AI-generated content.</p>
-<p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>JBL Professional Introduces 3 Series MkIII Studio Monitors</h2>
-<a name="story-26582"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJBL-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>JBL Professional has announced the launch of its 3 Series MkIII line of powered studio monitors, featuring an extensive redesign of the popular budget-friendly platform. The new lineup includes the 305P MkIII, 306P MkIII, and 308P MkIII two-way monitors with driver sizes ranging from 5 to 8 inches, along with the matching 310S MkIII powered subwoofer.</p><p>This generation marks the first time the series utilizes Class D amplification, which delivers higher output volume, increased headroom, and reduced functional noise. The monitors also feature rebuilt tweeters and woofers, updated Image Control Waveguides, integrated mounting provisions, and four one-touch room controls providing 81 corrective EQ combinations without requiring external software.</p>
-<p>Nov 5 · <a href="https://musictech.com/news/gear/jbl-3-series-mkiii/">musictech.com</a> | <a href="https://jblpro.com/en/news/jbl-professional-introduces-3-series-mkiii-powered-studio-monitors-and-subwoofer">jblpro.com</a></p>
-<br clear="all" />
-
-<h2>Ueberschall Releases Disco and LoFi Loop Bundles for Elastik Player</h2>
-<a name="story-26573"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flofidisco-bundle-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ueberschall has released two new sample library collections, the Disco Bundle and the LoFi Bundle, designed for its Elastik loop player and Downloader app. The Disco Bundle includes 9 GB of content across four products—Disco Classics, Disco Classics 2, Electric Disco, and DiscoTape—featuring over 1,900 loops and samples split across 30 construction kits.</p><p>The LoFi Bundle offers approximately 15 GB of content combining four other libraries: LoFi Beats, LoFi Lounge, Noise Floor, and Jazz Trip. It incorporates over 3,200 loops and samples across 40 construction kits blending jazz, hip-hop, downtempo, and lounge elements. Both bundles are sold at discounted rates compared to purchasing the individual libraries separately.</p>
-<p>Nov 5 · <a href="https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-69642?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69642">kvraudio.com</a> | <a href="https://www.ueberschall.com/en/product/441/Disco-Bundle">ueberschall.com</a></p>
 <br clear="all" />
 
 ---

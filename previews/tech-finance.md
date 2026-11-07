@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Nasdaq 100 and Philadelphia Semiconductor Index Plunge Amid AI Trade Concerns</h2>
 <a name="story-26618"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmicms.stonex.com%2Fsites%2Fdefault%2Ffiles%2Finline-images%2Fimage-20260428144325-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Nasdaq 100 fell 6%, wiping out $2.3 trillion in market value, while the Philadelphia semiconductor index dropped 12%. This technology sector selloff, the largest since 2020, was triggered by investor concerns regarding the artificial intelligence trade following Democratic victories in congressional elections.</p><p>The decline highlights growing anxiety over the long-term sustainability of AI-related capital expenditures and potential shifts in the political landscape. Semiconductor stocks bore the brunt of the volatility as investors exited positions in companies focused on AI infrastructure and data center construction.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day">bloomberg.com</a></p>
+<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50381623">hacker news</a></p>
 <br clear="all" />
 
 <h2>Wonder Group Confidentially Files for U.S. Initial Public Offering</h2>
