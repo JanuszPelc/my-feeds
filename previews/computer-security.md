@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>OpenStick $10 Homelab Setup and Software Stack</h2>
+<a name="story-26785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.bosscher.ch%2F_astro%2Fopenstick.nDFavhOI_1HBuYF.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Laurens Bosscher details a lightweight homelab configuration built around a 10-dollar OpenStick hardware device featuring 512 MB of RAM, four ARM Cortex-A53 cores, and 4 GB of eMMC flash running Debian. Despite its modest specifications and zero noise, the passively cooled device runs a full suite of containerized self-hosted services managed via Podman.</p><p>The software stack includes low-resource utilities such as CastSponsorSkip for YouTube sponsorship filtering, a custom fork of AdGuard Home for DNS-level ad blocking, Zeroclaw as an AI agent harness communicating through Telegram, and Cloudflare Tunnel for secure external access without exposed ports. Additional monitoring, management, and productivity tools like Beszel, Dozzle, Gatus, Fusion RSS, Shiori, and Diun operate efficiently within the hardware's strict memory constraints.</p>
+<p>Nov 7 · <a href="https://blog.bosscher.ch/posts/openstick/">blog.bosscher.ch</a> | <a href="https://news.ycombinator.com/item?id=50406670">hacker news</a></p>
+<br clear="all" />
+
 <h2>Meta Ray-Ban Smartglasses Hacked to Achieve Arbitrary Code Execution</h2>
 <a name="story-26766"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.golem.de%2F2310%2F178741-408383-408380.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A security researcher achieved arbitrary code execution on Meta Ray-Ban smartglasses by intercepting over-the-air firmware updates and deploying a custom application via the Device Access Toolkit. By hooking application methods with Frida, the researcher extracted full firmware images and established an interactive bind shell over a Wi-Fi Direct connection.</p><p>Although initial self-signing methods were later blocked in firmware version 127, the signature verification checks were bypassed by modifying feature flags within mobile configuration files. The vulnerabilities were reported to Meta through its bug bounty program and have since been addressed.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.zhimg.com%2Fv2-cee876301d3a6c038767760dc50f14d0_1440w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A bug report filed on GitHub for Anthropic's Claude Code tool reveals that the application includes users' personal account email addresses in the User-Agent HTTP request headers during automated web searches. The user who reported the issue stated that this behavior unintentionally exposes sensitive personal information to third-party websites without proper user consent or opt-out controls.</p><p>The exposed email addresses can be collected by external sites and harvested by malicious actors, resulting in increased spam and heightened privacy risks. The discussion highlights growing developer scrutiny over how agentic coding tools handle user identifiers and telemetry data during external web interactions.</p>
 <p>Nov 5 · <a href="https://github.com/anthropics/claude-code/issues/107757">github.com</a> | <a href="https://news.ycombinator.com/item?id=50385272">hacker news</a></p>
-<br clear="all" />
-
-<h2>Sunil Mittal Positions OneWeb as Independent Alternative to US and China</h2>
-<a name="story-26522"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.telegraphindia.com%2Ftelegraph%2F2021%2FSep%2F1631708507_sunil-mittal-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sunil Mittal, founder of India's Airtel, asserts that OneWeb can establish a global satellite-internet network independent of the United States and China. The project is intended to provide a strategic alternative for nations seeking to avoid reliance on US or Chinese telecommunications infrastructure.</p><p>OneWeb is backed by Airtel and operates as a subsidiary of Eutelsat, positioning it to compete with Elon Musk's Starlink in the low Earth orbit (LEO) market. This initiative aligns with a broader global trend toward satellite sovereignty and independent connectivity solutions.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
