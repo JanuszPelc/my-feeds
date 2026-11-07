@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-07T01:42:00+00:00</updated>
+  <updated>2026-11-07T05:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Sand.ai Raises $200M Series A Extension to Achieve Unicorn Status</title>
+    <link href="https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283/" rel="alternate" />
+    <id>https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283/::v240</id>
+    <published>2026-11-07T05:46:00+00:00</published>
+    <updated>2026-11-07T05:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpayhip.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Fhttps%3A%2F%2Fpe56d.s3.amazonaws.com%2Fo_1j45gfk1c7bgksm15c519np1i3vi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283/">dealstreetasia.com</a></small></p><hr/><p>Chinese artificial intelligence video generation startup Sand.ai has completed a $200 million Series A extension funding round, pushing its valuation past $1 billion and achieving unicorn status. CoStone Capital and Wangsu Science &amp; Technology jointly led the financing, which included participation from state-owned entities and existing investors such as iMPC, CAS Star, and HyT Capital.</p><p>Founded in early 2024, the Beijing-based company develops autoregressive and audiovisual video generation models, including Magi-1, GAGA-1, and the research release MAGI-2 Preview. The newly secured capital will fund foundation model research and development, inference infrastructure, product iterations, and global market expansion as the company prepares to launch the official version of MAGI-2.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpayhip.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Fhttps%3A%2F%2Fpe56d.s3.amazonaws.com%2Fo_1j45gfk1c7bgksm15c519np1i3vi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 12:51 UTC | #26733</small>]]></content>
+  </entry>
   <entry>
     <title>CesiumAstro Raises $730 Million to Fund Satellite Network Deployment</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network" rel="alternate" />
