@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>X-87 256-Byte DOS Procedural Landscape Program Released</h2>
 <a name="story-26667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.onirom.fr%2Fwiki%2Fcodegolf%2Fx-87%2Fimages%2F0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>X-87 is a 256-byte DOS program created for Outline 2026 that renders a stylized, barren landscape using x86 and x87 floating-point math in real mode. Running via VESA 2 at 640x400 resolution in 32-bit color, the procedural graphics rely on mathematical oscillators developed from earlier p5.js sketches.</p><p>The development process spanned iterative prototyping in Forth and Gforth, translating vector-based sketches into stack-based FPU instructions, and optimizing code size to fit within the strict 256-byte constraint. The program incorporates dither-like colorization and ensures compatibility across emulators like DOSBox and Bochs through compressed loops and segment initialization tricks.</p>
-<p>Nov 6 · <a href="https://www.onirom.fr/wiki/codegolf/x-87/">onirom.fr</a> | <a href="https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes">lobsters</a></p>
+<p>Nov 6 · <a href="https://www.onirom.fr/wiki/codegolf/x-87/">onirom.fr</a> | <a href="https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50390629">hacker news</a></p>
 <br clear="all" />
 
 <h2>BUI Decouples Blender Interface into Standalone Multi-Language UI Library</h2>
