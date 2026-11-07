@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Physical Superintelligence Proves Aaronson-Ambainis Conjecture</h2>
+<a name="story-26715"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWc-Q1jWAAAndhW%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Physical Superintelligence (PSI) has formally proven the Aaronson-Ambainis conjecture, settling a fundamental open problem in quantum complexity theory regarding whether quantum computers can achieve exponential speedups on random inputs. Using an internal research system powered by an unreleased Anthropic model, PSI generated a proof that was successfully checked and accepted by the Lean proof assistant.</p><p>Open since 2008, the conjecture established that if certain polynomial conditions hold, ordinary computers can simulate quantum probability estimates without exponential overhead, implying that quantum speedups require structural patterns like those in Shor's algorithm. Stanford researchers who recently proved a special case of the prediction are currently reviewing the full proof, which builds upon prior work in boolean function analysis and probabilistic combinatorics.</p>
+<p>Nov 6 · <a href="https://psi.inc/research/aaronson-ambainis/">psi.inc</a> | <a href="https://news.ycombinator.com/item?id=50393770">hacker news</a></p>
+<br clear="all" />
+
 <h2>Curtin University Researchers Find Heme Signatures in 115-Million-Year-Old Dinosaur Bones</h2>
 <a name="story-26660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sci.news%2Fimages%2Fenlarge14%2Fimage_15169e-Aratasaurus-museunacionali.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at Curtin University and international partners have discovered fossilized red blood cells and chemical evidence of heme molecules inside the 115-million-year-old bones of the theropod dinosaur Aratasaurus museunacionali. Published in the Proceedings of the National Academy of Sciences, the findings provide definitive chemical confirmation of hemoglobin-derived molecules persisting across deep geological time.</p><p>The extraordinary preservation is attributed to stabilization by the mineral hausmannite and rapid burial in low-oxygen sediment. The discovery challenges long-held assumptions regarding the durability of biological molecules and opens new avenues for molecular paleontology, evolutionary physiology, and astrobiology research.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26527"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E12AQFRZuSuq0uvAg%2Farticle-cover_image-shrink_720_1280%2FB4EZVONxrJHgAQ-%2F0%2F1740773993261%3Fe%3D2147483647%26v%3Dbeta%26t%3DXl3sYP-h7TJoEOQWkupFrQpPcyzrBmOqTEnhOoSlPH4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A San Francisco-based startup is offering $1 million in prizes to solve five major unsolved problems in materials science. Discovered Materials aims to use these challenges as benchmarks to track the progress of frontier AI models in mastering complex physical phenomena.</p><p>The competition focuses on topics including explaining cuprate superconductivity and developing numerical methods to predict semiconductor interface structures and thermal properties. The company, which is part of Y Combinator's spring 2026 batch, focuses on discovering new materials for advanced semiconductor manufacturing.</p>
 <p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Osteocytes Release Anti-Aging Proteins in Response to Mechanical Strain</h2>
-<a name="story-26177"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F8b4bf480e2341986cb94488c0e0cdb2640d8b2bf%2F4-Figure3-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mechanical strain on bones triggers osteocytes to secrete proteins that slow aging and extend lifespan. In mice, applying gentle pressure to leg bones through dynamic tibial axial loading (DTAL) extended lifespan by approximately three months and improved organ health, memory, and reflexes.</p><p>The research identifies the PIEZO1 protein as essential for osteocytes to sense mechanical forces. While these results are currently limited to rodents, researchers suggest that high-impact or resistance-based exercises may provide systemic anti-aging benefits in humans.</p>
-<p>Nov 5 · <a href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span">science.org</a> | <a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00433-X">cell.com</a> | <a href="https://news.ycombinator.com/item?id=50331957">hacker news</a></p>
 <br clear="all" />
 
 ---

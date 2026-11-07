@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-06T11:29:00+00:00</updated>
+  <updated>2026-11-06T19:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Physical Superintelligence Proves Aaronson-Ambainis Conjecture</title>
+    <link href="https://psi.inc/research/aaronson-ambainis/" rel="alternate" />
+    <id>https://psi.inc/research/aaronson-ambainis/::v240</id>
+    <published>2026-11-06T19:56:00+00:00</published>
+    <updated>2026-11-06T19:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWc-Q1jWAAAndhW%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://psi.inc/research/aaronson-ambainis/">psi.inc</a> | <a href="https://news.ycombinator.com/item?id=50393770">hacker news</a></small></p><hr/><p>Physical Superintelligence (PSI) has formally proven the Aaronson-Ambainis conjecture, settling a fundamental open problem in quantum complexity theory regarding whether quantum computers can achieve exponential speedups on random inputs. Using an internal research system powered by an unreleased Anthropic model, PSI generated a proof that was successfully checked and accepted by the Lean proof assistant.</p><p>Open since 2008, the conjecture established that if certain polynomial conditions hold, ordinary computers can simulate quantum probability estimates without exponential overhead, implying that quantum speedups require structural patterns like those in Shor's algorithm. Stanford researchers who recently proved a special case of the prediction are currently reviewing the full proof, which builds upon prior work in boolean function analysis and probabilistic combinatorics.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWc-Q1jWAAAndhW%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 02:37 UTC | #26715</small>]]></content>
+  </entry>
   <entry>
     <title>Curtin University Researchers Find Heme Signatures in 115-Million-Year-Old Dinosaur Bones</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261105224542.htm" rel="alternate" />
