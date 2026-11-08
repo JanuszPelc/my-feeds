@@ -461,22 +461,4 @@
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.interdb.jp%2Fpg%2Fpgsql08%2Ffig-8-16.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.interdb.jp/pg/index.html">interdb.jp</a> | <a href="https://news.ycombinator.com/item?id=50358702">hacker news</a></small></p><hr/><p>Hironobu Suzuki, author of the widely referenced technical documentation "The Internals of PostgreSQL," has announced that he is fully recovered from a health-related stay in Japan and is open to new international career opportunities. He is currently seeking challenging database engineering tasks, roles offering visa sponsorship, or remote positions that support a digital nomad lifestyle.</p><p>Suzuki brings extensive experience as a software engineer, technical director, and former director of the Japan PostgreSQL Users Group. His comprehensive online reference work details core database subsystems ranging from buffer management and query processing to replication across multiple PostgreSQL versions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.interdb.jp%2Fpg%2Fpgsql08%2Ffig-8-16.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 11:32 UTC | #26385</small>]]></content>
   </entry>
-  <entry>
-    <title>NetBSD 11.1 Released</title>
-    <link href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html" rel="alternate" />
-    <id>https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html::v240</id>
-    <published>2026-11-03T23:54:00+00:00</published>
-    <updated>2026-11-04T15:41:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html">netbsd.org</a> | <a href="https://lobste.rs/s/siqsg7/announcing_netbsd_11_1">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50363808">hacker news</a></small></p><hr/><p>The NetBSD Project has released NetBSD 11.1, the first point release of the NetBSD 11 stable branch. This release focuses primarily on addressing security vulnerabilities and implementing bug fixes to improve system stability.</p><p>Key updates include OpenSSH 10.6, unbound 1.26.1, and security patches for brotli and libXfont2. The release also introduces enhanced support for sparc64 sensors and adds battery monitoring capabilities for Microsoft Surface Go 3 devices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Fgraphs%2Fold-release-branches.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 06:58 UTC | #26380</small>]]></content>
-  </entry>
-  <entry>
-    <title>HackerTV Provides 24/7 Broadcasts of Hacker News Recommended Videos</title>
-    <link href="https://hackertv.org" rel="alternate" />
-    <id>https://hackertv.org::v240</id>
-    <published>2026-11-03T23:51:00+00:00</published>
-    <updated>2026-11-03T23:51:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F88%2F96%2Fc5%2F8896c504174ab44cfe0a53db689fe177.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://hackertv.org">hackertv.org</a> | <a href="https://news.ycombinator.com/item?id=50346755">hacker news</a></small></p><hr/><p>HackerTV features continuous 24/7 video broadcasts based on content recommended by users on Hacker News. The service maintains a consistent broadcast schedule for all viewers across various channels.</p><p>Developed by Danny Salzman, the platform's catalog is seeded from HackerTube and built using the Hacker News archive. Content is updated weekly by filtering new HN comments through the HN Search API.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F88%2F96%2Fc5%2F8896c504174ab44cfe0a53db689fe177.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 06:28 UTC | #26376</small>]]></content>
-  </entry>
 </feed>
