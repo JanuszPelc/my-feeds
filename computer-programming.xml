@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-07T22:15:00+00:00</updated>
+  <updated>2026-11-08T03:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Caleb Software Details Migration From Claude Code to Pi</title>
+    <link href="https://caleb.software/posts/claude-to-pi.html" rel="alternate" />
+    <id>https://caleb.software/posts/claude-to-pi.html::v240</id>
+    <published>2026-11-08T03:12:00+00:00</published>
+    <updated>2026-11-08T03:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F04%2Fc864a5ef-linkedin-claude-code-post-1024x1024.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://caleb.software/posts/claude-to-pi.html">caleb.software</a> | <a href="https://news.ycombinator.com/item?id=50410107">hacker news</a></small></p><hr/><p>Caleb Software details the decision to replace Claude Code with Pi as a primary coding harness, driven by growing frustrations regarding software stability, user interface limitations, and frequent tool prompt updates. Specific issues with Claude Code included restricted multi-tab IDE integration in VSCode, frequent system prompt revisions, and excessive token overhead in default tool descriptions.</p><p>In contrast, the migration to Pi offered a minimalist, stable, and highly customizable alternative that allowed the author to quickly implement custom extensions for multi-tab support. While acknowledging Claude Code's pioneering role in AI-assisted development, the post highlights the need for stricter product direction and stability over rapid feature expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F04%2Fc864a5ef-linkedin-claude-code-post-1024x1024.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 08:27 UTC | #26804</small>]]></content>
+  </entry>
   <entry>
     <title>Pine64 Ox64 RISC-V Single-Board Computer Setup Guide: Part 1</title>
     <link href="https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html" rel="alternate" />

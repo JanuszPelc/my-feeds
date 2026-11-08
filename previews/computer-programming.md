@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Caleb Software Details Migration From Claude Code to Pi</h2>
+<a name="story-26804"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F04%2Fc864a5ef-linkedin-claude-code-post-1024x1024.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Caleb Software details the decision to replace Claude Code with Pi as a primary coding harness, driven by growing frustrations regarding software stability, user interface limitations, and frequent tool prompt updates. Specific issues with Claude Code included restricted multi-tab IDE integration in VSCode, frequent system prompt revisions, and excessive token overhead in default tool descriptions.</p><p>In contrast, the migration to Pi offered a minimalist, stable, and highly customizable alternative that allowed the author to quickly implement custom extensions for multi-tab support. While acknowledging Claude Code's pioneering role in AI-assisted development, the post highlights the need for stricter product direction and stability over rapid feature expansion.</p>
+<p>Nov 8 · <a href="https://caleb.software/posts/claude-to-pi.html">caleb.software</a> | <a href="https://news.ycombinator.com/item?id=50410107">hacker news</a></p>
+<br clear="all" />
+
 <h2>Pine64 Ox64 RISC-V Single-Board Computer Setup Guide: Part 1</h2>
 <a name="story-26797"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiMR6WHmKku5veDN9XI3ZTSOw9dSsNTbCsuJ6LSSxejLaYPTO-V71zPoc_-fpF0QYx260DGx5RSEsx58z-xxsujTZLugdjAs_7uaG6YZMdHBxrGaxlx9Q-H-NYszKY7-pvv1bfxEtmH1C3HZSoVBlkm5kdangQQyXUyRGFX8ja04tWg6ZzwsNs_9DuJJA%2Fs3114%2Fox64.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Pine64 Ox64 is an $8 RISC-V single-board computer featuring multiple cores capable of running Linux, though early hardware versions lack working Ethernet, Wi-Fi, and SD card support. Setting up the device presents several engineering hurdles, including the lack of native USB programming and compatibility issues with standard flashing tools on Linux.</p><p>To overcome these obstacles, the author configures an Adafruit KB2040 microcontroller as a serial bridge between a PC and the Ox64's UART pins. After modifying the Python-based flash tool to remove conflicting RTS and DTR control signals, the author successfully flashes the initial M0 core firmware and establishes serial communication with the board.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26703"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2024%26image%3Dgnome_software_nvidia&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chimera Linux developers have detailed ongoing work to enable proprietary NVIDIA drivers on musl-based Linux distributions, which traditionally lack full compatibility due to being built for glibc. The effort addresses fundamental architectural hurdles, including vendor-neutral OpenGL dispatch, missing compatibility symbols, and linker relocation differences.</p><p>Overcoming these limitations required adopting GLVND, updating the gcompat compatibility shim, patching the dynamic linker to support GNU indirect functions and static thread-local storage models, and creating a custom musl package variant. Testing with a legacy Maxwell-generation graphics card validated the approach and helped address subsequent startup stability issues.</p>
 <p>Nov 6 · <a href="https://chimera-linux.org/news/2026/11/musl-nvidia.html">chimera-linux.org</a> | <a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers">lobsters</a></p>
-<br clear="all" />
-
-<h2>Clojure Distilled Functional Programming Guide</h2>
-<p>Clojure Distilled is an introductory programming guide designed to help developers transition from mainstream imperative languages to Clojure, a functional Lisp dialect. The guide emphasizes that learning Clojure is less about mastering its simple syntax and more about adopting new problem-solving methods rooted in functional programming principles.</p><p>The guide details core concepts such as immutability, pure functions, first-class functions, and higher-order functions like map and filter. It explains how immutable data structures and software transactional memory facilitate safe concurrency and parallelism without manual locking, while exploring Clojure's standard data types, syntax, and data-as-code philosophy.</p>
-<p>Nov 6 · <a href="https://yogthos.net/ClojureDistilled.html">yogthos.net</a> | <a href="https://lobste.rs/s/dxno99/clojure_distilled">lobsters</a></p>
 <br clear="all" />
 
 ---
