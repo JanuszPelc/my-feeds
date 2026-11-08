@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T08:19:00+00:00</updated>
+  <updated>2026-11-08T11:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Rune Native GPU-Rendered Rust UI Framework</title>
+    <link href="https://github.com/anomalyco/rune" rel="alternate" />
+    <id>https://github.com/anomalyco/rune::v240</id>
+    <published>2026-11-08T11:28:00+00:00</published>
+    <updated>2026-11-08T11:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.rerun.io%2Fcustom_view%2F61089d7178b3bd7f9e3de36ee9c00e5fdf1c6f76%2Ffull.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/anomalyco/rune">github.com</a> | <a href="https://news.ycombinator.com/item?id=50394569">hacker news</a></small></p><hr/><p>Rune is a native, GPU-rendered user interface framework written in Rust that supports macOS, Windows, Linux, and the web. Built with its own renderer, text engine, layout system, and spring physics, the framework provides a comprehensive foundation for building cross-platform applications.</p><p>The framework is designed to run headlessly, enabling automated coding agents to render applications to PNG images, inspect element trees, and drive interfaces using scripted input. Currently available as a pre-release project on GitHub, Rune includes custom UI components, built-in visual effects, and a variety of code examples.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.rerun.io%2Fcustom_view%2F61089d7178b3bd7f9e3de36ee9c00e5fdf1c6f76%2Ffull.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 16:10 UTC | #26825</small>]]></content>
+  </entry>
   <entry>
     <title>Analysis of Deno Security Model and Permission System Limitations</title>
     <link href="https://goldstein.lol/posts/deno-security/" rel="alternate" />

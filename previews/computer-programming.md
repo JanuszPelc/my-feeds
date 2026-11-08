@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Rune Native GPU-Rendered Rust UI Framework</h2>
+<a name="story-26825"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.rerun.io%2Fcustom_view%2F61089d7178b3bd7f9e3de36ee9c00e5fdf1c6f76%2Ffull.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rune is a native, GPU-rendered user interface framework written in Rust that supports macOS, Windows, Linux, and the web. Built with its own renderer, text engine, layout system, and spring physics, the framework provides a comprehensive foundation for building cross-platform applications.</p><p>The framework is designed to run headlessly, enabling automated coding agents to render applications to PNG images, inspect element trees, and drive interfaces using scripted input. Currently available as a pre-release project on GitHub, Rune includes custom UI components, built-in visual effects, and a variety of code examples.</p>
+<p>Nov 8 · <a href="https://github.com/anomalyco/rune">github.com</a> | <a href="https://news.ycombinator.com/item?id=50394569">hacker news</a></p>
+<br clear="all" />
+
 <h2>Analysis of Deno Security Model and Permission System Limitations</h2>
 <a name="story-26818"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai.devtheworld.jp%2Fposts%2Fdeno-ai-modules-secure-runtime%2Fdeno-permission-model.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An essay by developer Goldstein critiques the Deno JavaScript runtime's security model, arguing that its built-in permission system is fundamentally flawed and provides a false sense of security. The piece details how Deno's approach emulates operating system security controls at the standard library level rather than properly sandboxing the underlying process.</p><p>The analysis highlights specific attack vectors, including terminal prompt manipulation via in-band data streams and bypasses of granular execution permissions like `--allow-run` through environment variables such as `PATH` and `LD_PRELOAD`. Because most system binaries and editors are highly configurable, relying on partial runtime restrictions is insufficient, leading the author to recommend traditional OS-level sandboxing tools like bubblewrap instead of Deno's runtime permissions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26737"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FBbZKH7oVJJxZUfojyaMAMQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Huawei has launched the Qinyun HM650 series desktop computers for enterprise and government users, powered by its proprietary HarmonyOS operating system and self-developed Kirin X90 processor. The device is built entirely with China-made components, marking the company's first desktop computer to receive domestic certification.</p><p>The release advances Huawei's ongoing push for technological self-reliance as it moves away from foreign hardware suppliers. Although the company highlights the system's domestic construction, the exact scope of the certification remains unclear.</p>
 <p>Nov 7 · <a href="https://www.scmp.com/tech/tech-trends/article/3373435/no-intel-no-qualcomm-huawei-unveils-desktop-built-entirely-china-made-components">scmp.com</a> | <a href="https://news.ycombinator.com/item?id=50386716">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ultra Low Complexity Audio Codec Adapted for Nintendo 64</h2>
-<a name="story-26758"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.zhimg.com%2Fv2-caa2cff78b925a2d5a6273889fec239a_1440w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Dominic Szablewski details how the Ultra Low Complexity Codec (ULC), originally created by Aikku93 for the Game Boy Advance, provides an efficient audio compression solution for the Nintendo 64. The full-band transform codec avoids the heavy computational overhead of formats like Opus or MP3 by using a simple nibble-based packaging structure instead of complex entropy decoding.</p><p>By refactoring the decoder into 16-bit fixed point and porting the Modified Discrete Cosine Transform to the N64's vector coprocessor using MIPS assembly, the system achieves 44,100 Hz stereo playback with near-Opus quality. Integrated into the open-source Libdragon environment, the codec operates transparently while consuming only about 4% of the console's CPU time and 5% of its RSP processing time, enabling high-quality background music and voice audio during gameplay.</p>
-<p>Nov 7 · <a href="https://phoboslab.org/log/2026/11/n64-ulc-codec">phoboslab.org</a> | <a href="https://news.ycombinator.com/item?id=50378508">hacker news</a></p>
 <br clear="all" />
 
 ---
