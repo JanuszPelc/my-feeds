@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Michael Lynch Details MustCreate Pattern for Go Tests</h2>
+<a name="story-26789"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F104193.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Michael Lynch details the "MustCreate" pattern, a generic helper approach designed to eliminate repetitive error-checking boilerplate in Go unit tests. Rather than writing individual wrapper functions for every constructor that returns a value and an error, developers can implement a single generic helper to validate test inputs cleanly.</p><p>The pattern leverages Go generics to accept arbitrary input types and constructor functions, reducing codebase clutter. For constructors that take multiple parameters, developers can extend the concept with a corresponding `MustCreate2` helper to maintain concise and readable test assertions.</p>
+<p>Nov 7 · <a href="https://mtlynch.io/notes/go-must-create-pattern/">mtlynch.io</a> | <a href="https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests">lobsters</a></p>
+<br clear="all" />
+
 <h2>Red Blob Games Details Two-Dimensional Version Control Workflow with Jujutsu</h2>
 <a name="story-26775"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.redblobgames.com%2Fblog%2F2026-09-27-jujutsu-experience%2Fimages%2F2d-vc.png%3F2026-10-23-13-59-56&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Red Blob Games shares an experience report on using the Jujutsu version control system to manage a two-dimensional project history during a roguelike development challenge. By tracking both writer development time and reader-facing tutorial chapters simultaneously, the author leveraged Jujutsu's capability to automatically propagate changes forward and backward across commits.</p><p>The project required maintaining 14 sequential chapters of code alongside a primary development timeline, allowing for retroactive edits, structural code improvements across past chapters, and consistent commit descriptions. While the tool successfully streamlined complex history management and exported cleanly to Git, the author notes that its automated behaviors occasionally made it difficult to track background changes completely.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>GitHub &#x27;Awesome&#x27; Repositories Are Losing Utility Due to Outdated Content and AI Submissions</h2>
 <p>GitHub repositories prefixed with "awesome," which historically served as curated collections of domain resources, are increasingly losing their utility. This decline is driven by lists becoming outdated faster than they are maintained and repositories being flooded with low-quality, AI-generated tool submissions via mass pull requests.</p><p>While some maintainers actively vet contributions to preserve quality, others inadvertently merge low-effort automated projects. As AI models improve at resource discovery and automated code generation, developers may increasingly rely on direct AI queries rather than traditional curated lists for domain-specific information.</p>
 <p>Nov 6 · <a href="https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/">erikgahner.github.io</a> | <a href="https://news.ycombinator.com/item?id=50377821">hacker news</a></p>
-<br clear="all" />
-
-<h2>X-87 256-Byte DOS Procedural Landscape Program Released</h2>
-<a name="story-26667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.onirom.fr%2Fwiki%2Fcodegolf%2Fx-87%2Fimages%2F0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>X-87 is a 256-byte DOS program created for Outline 2026 that renders a stylized, barren landscape using x86 and x87 floating-point math in real mode. Running via VESA 2 at 640x400 resolution in 32-bit color, the procedural graphics rely on mathematical oscillators developed from earlier p5.js sketches.</p><p>The development process spanned iterative prototyping in Forth and Gforth, translating vector-based sketches into stack-based FPU instructions, and optimizing code size to fit within the strict 256-byte constraint. The program incorporates dither-like colorization and ensures compatibility across emulators like DOSBox and Bochs through compressed loops and segment initialization tricks.</p>
-<p>Nov 6 · <a href="https://www.onirom.fr/wiki/codegolf/x-87/">onirom.fr</a> | <a href="https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50390629">hacker news</a></p>
 <br clear="all" />
 
 ---
