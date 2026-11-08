@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T03:21:00+00:00</updated>
+  <updated>2026-11-08T05:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Devvm Open-Source Tool Provides Isolated Sandboxes for Project Toolchains and Coding Agents</title>
+    <link href="https://devvm.dev/" rel="alternate" />
+    <id>https://devvm.dev/::v240</id>
+    <published>2026-11-08T05:58:00+00:00</published>
+    <updated>2026-11-08T05:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21wp5e%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67de18b9-8dac-40f9-a343-9b317f059157_940x778.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://devvm.dev/">devvm.dev</a> | <a href="https://news.ycombinator.com/item?id=50395450">hacker news</a></small></p><hr/><p>Devvm is a free, open-source utility that creates isolated virtual machine sandboxes tailored to specific project toolchains and coding agents such as Claude Code, Codex, and opencode. Operating on macOS and Linux through Lima, the tool automatically detects required toolchains, forwards ports, maps local git credentials, and restricts the environment to mitigate security risks like prompt injections and supply chain attacks.</p><p>Designed to reduce setup overhead, devvm provisions a base image that allows subsequent virtual machines to spin up in seconds while sharing toolchain binaries read-only. It supports customizable layers, strict network allowlists, and integration with standard .devcontainer.json configurations, ensuring that automated coding agents operate securely without exposing sensitive local machine credentials or history.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21wp5e%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67de18b9-8dac-40f9-a343-9b317f059157_940x778.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 13:18 UTC | #26817</small>]]></content>
+  </entry>
   <entry>
     <title>Daniel Wayne Armstrong Details NetBSD 11.0 to 11.1 Upgrade Process</title>
     <link href="https://www.dwarmstrong.org/netbsd-upgrade/" rel="alternate" />
