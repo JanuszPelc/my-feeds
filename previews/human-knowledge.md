@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Writing as a Thinking Tool</h2>
+<a name="story-26837"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-2-f.scribdassets.com%2Fimg%2Fdocument%2F823823311%2Foriginal%2Fcb89eeadce%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The article examines writing not merely as a communication medium but as a fundamental cognitive tool that expands human problem-solving capacity by externalizing thoughts. Drawing parallels to computational limits and external memory algorithms, the author argues that the physical act of drafting and organizing text transforms vague intuitions into fully realized concepts.</p><p>Providing practical advice for structuring the writing process, the piece emphasizes bulk generation, rigorous editing, simple prose, and consistent scheduling. Furthermore, it warns that outsourcing text creation to large language models undermines personal reasoning, making independent writing an increasingly vital comparative advantage.</p>
+<p>Nov 8 · <a href="https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html">muratbuffalo.blogspot.com</a> | <a href="https://news.ycombinator.com/item?id=50412067">hacker news</a></p>
+<br clear="all" />
+
 <h2>Paul Dirac&#x27;s Mathematical Formula for Making Any Integer with Four 2s</h2>
 <a name="story-26827"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D10AQF6jT0ZbJqoEA%2Fimage-shrink_800%2FB4DZVSsDA3G4Ag-%2F0%2F1740849033831%3Fe%3D2147483647%26v%3Dbeta%26t%3DAMXJEOZ4SMr7uN9ARv5smW0gnU5Ddi5hQvj9IT_ZvdE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Eli Bendersky examines the mathematical puzzle of generating any target natural number using exactly four instances of the digit 2 and basic operations. While advanced mathematical tools like factorials, the Gamma function, and complex numbers can help solve specific numbers, physicist Paul Dirac devised a general solution that applies to any integer.</p><p>Dirac's method utilizes nested square roots and base-2 logarithms to construct a universal formula. By substituting the number 2 with the square root of 4, the approach strictly adheres to the puzzle's constraint of using four 2s, providing a systematic solution to a problem historically popular among mathematicians.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sci.news%2Fimages%2Fenlarge14%2Fimage_15169e-Aratasaurus-museunacionali.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at Curtin University and international partners have discovered fossilized red blood cells and chemical evidence of heme molecules inside the 115-million-year-old bones of the theropod dinosaur Aratasaurus museunacionali. Published in the Proceedings of the National Academy of Sciences, the findings provide definitive chemical confirmation of hemoglobin-derived molecules persisting across deep geological time.</p><p>The extraordinary preservation is attributed to stabilization by the mineral hausmannite and rapid burial in low-oxygen sediment. The discovery challenges long-held assumptions regarding the durability of biological molecules and opens new avenues for molecular paleontology, evolutionary physiology, and astrobiology research.</p>
 <p>Nov 6 · <a href="https://www.sciencedaily.com/releases/2026/11/261105224542.htm">sciencedaily.com</a> | <a href="https://www.pnas.org/doi/10.1073/pnas.2614248123">pnas.org</a> | <a href="https://news.ycombinator.com/item?id=50358138">hacker news</a></p>
-<br clear="all" />
-
-<h2>Linum Details $21,000 Training Run for Pyramid-JiT Text-to-Image Model</h2>
-<a name="story-26690"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.linum.ai%2Fjit-ddt%2Fself-flow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Linum, a two-person research lab, has detailed the training process and architecture of its Pyramid-JiT (P-JiT) text-to-image model, which cost approximately $21,000 in compute. The 2-billion-parameter model operates directly in pixel space using a 32x32 token reduction strategy, bypassing traditional variational autoencoders to slash attention bottlenecks and accelerate convergence.</p><p>The training regime spanned 610 million samples at 512 resolution followed by 50 million samples at 1024 resolution across 64 H100 GPUs. Built as a proof-of-concept for the lab's ultimate goal of creating efficient generative video models, the project demonstrates how pixel-space diffusion can effectively handle compression and generation simultaneously.</p>
-<p>Nov 6 · <a href="https://www.linum.ai/field-notes/pjit-21k">linum.ai</a> | <a href="https://news.ycombinator.com/item?id=50368208">hacker news</a></p>
 <br clear="all" />
 
 ---

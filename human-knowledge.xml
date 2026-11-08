@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-08T11:32:00+00:00</updated>
+  <updated>2026-11-08T16:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Writing as a Thinking Tool</title>
+    <link href="https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html" rel="alternate" />
+    <id>https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html::v240</id>
+    <published>2026-11-08T16:12:00+00:00</published>
+    <updated>2026-11-08T16:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-2-f.scribdassets.com%2Fimg%2Fdocument%2F823823311%2Foriginal%2Fcb89eeadce%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html">muratbuffalo.blogspot.com</a> | <a href="https://news.ycombinator.com/item?id=50412067">hacker news</a></small></p><hr/><p>The article examines writing not merely as a communication medium but as a fundamental cognitive tool that expands human problem-solving capacity by externalizing thoughts. Drawing parallels to computational limits and external memory algorithms, the author argues that the physical act of drafting and organizing text transforms vague intuitions into fully realized concepts.</p><p>Providing practical advice for structuring the writing process, the piece emphasizes bulk generation, rigorous editing, simple prose, and consistent scheduling. Furthermore, it warns that outsourcing text creation to large language models undermines personal reasoning, making independent writing an increasingly vital comparative advantage.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-2-f.scribdassets.com%2Fimg%2Fdocument%2F823823311%2Foriginal%2Fcb89eeadce%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 19:21 UTC | #26837</small>]]></content>
+  </entry>
   <entry>
     <title>Paul Dirac's Mathematical Formula for Making Any Integer with Four 2s</title>
     <link href="https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/" rel="alternate" />
