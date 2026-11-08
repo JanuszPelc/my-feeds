@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>NVIDIA Board of Directors Initiates Independent Investigation Involving CEO Jensen Huang</h2>
+<a name="story-26845"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F89d109cd-caa2-4844-a77e-6d19af37e389.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The NVIDIA Board of Directors is initiating an independent investigation following recent reports that co-founder and CEO Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors, assisted by outside counsel, will oversee the inquiry to examine all available information regarding the matter.</p><p>While the board states it has no reason to believe that national security or NVIDIA secrets were compromised, it emphasizes that U.S. national and economic security remains a top priority. Jensen Huang fully supports the review and is cooperating with the board as the investigation proceeds.</p>
+<p>Nov 8 · <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">nvidianews.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50416801">hacker news</a></p>
+<br clear="all" />
+
 <h2>Tesla Lacks Successful New Product Launches Since JB Straubel Stepped Down as CTO</h2>
 <a name="story-26832"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcleantechnica.com%2Fwp-content%2Fuploads%2F2025%2F02%2FTesla-Cybertruck-Broken-Windows-Elon-Musk-Unveiling-event-KYLE-FIELD-CleanTechnica-watermark.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of Tesla’s vehicle lineup highlights a lack of major, successful new product launches since JB Straubel stepped down as chief technology officer in July 2019. While earlier models like the Model S, Model X, Model 3, and Model Y established the company as an automotive force, subsequent entries such as the Cybertruck have faced severe commercial struggles and multi-billion-dollar net project losses.</p><p>Straubel’s departure coincided with the finalization of the Model Y and the Megapack, after which Tesla's development trajectory shifted away from mass-market affordability and practical engineering oversight. The upcoming Cybercab will test whether the company can reverse this trend, as observers continue to evaluate the long-term impact of losing Straubel's technical leadership and moderating influence on product development.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26683"><img src="https://wsrv.nl/?url=https%3A%2F%2Fevertiq.com%2Fnimg%2FChip%2Fnvidia_tsmc_chip_design.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Taiwan Semiconductor Manufacturing Co. is considering expanding into the production of 3D DRAM chips in response to requests from Nvidia. The potential move comes as major technology companies grapple with persistent memory chip shortages driven by surging demand for artificial intelligence infrastructure.</p><p>Entering the advanced memory sector would allow TSMC to capture a larger share of AI-related hardware spending and deepen its supply chain relationships. The initiative reflects broader industry pressures where soaring requirements for high-bandwidth memory are testing existing semiconductor manufacturing capacities.</p>
 <p>Nov 6 · <a href="https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Ramp Data Shows AI Spending Stalling as Token Volumes Rise</h2>
-<a name="story-26691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6967f926764ca5f34d2a7586%3Fwidth%3D600%26format%3Djpeg%26auto%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A new report from corporate card platform Ramp indicates that business spending on artificial intelligence flatlined over late summer despite rising token volumes. According to the data, token spend grew by only 1.5% across August and September, following a 42% jump in July, driven by increased price competition among model providers and more cost-conscious enterprise purchasing behaviors.</p><p>The slowdown coincides with preparations for Anthropic's initial public offering and a broader recalibration of growth expectations across the industry. While demand for AI remains high and token usage continues to climb, price cuts from major providers like OpenAI and Anthropic, combined with the adoption of efficient routing tools and cheaper open-source models, have compressed revenue growth for leading AI companies.</p>
-<p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">techcrunch.com</a> | <a href="https://ramp.com/data/ai-index-oct-2026">ramp.com</a></p>
 <br clear="all" />
 
 ---

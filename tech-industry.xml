@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-08T16:08:00+00:00</updated>
+  <updated>2026-11-08T20:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>NVIDIA Board of Directors Initiates Independent Investigation Involving CEO Jensen Huang</title>
+    <link href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors" rel="alternate" />
+    <id>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors::v240</id>
+    <published>2026-11-08T20:27:00+00:00</published>
+    <updated>2026-11-08T20:27:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F89d109cd-caa2-4844-a77e-6d19af37e389.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">nvidianews.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50416801">hacker news</a></small></p><hr/><p>The NVIDIA Board of Directors is initiating an independent investigation following recent reports that co-founder and CEO Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors, assisted by outside counsel, will oversee the inquiry to examine all available information regarding the matter.</p><p>While the board states it has no reason to believe that national security or NVIDIA secrets were compromised, it emphasizes that U.S. national and economic security remains a top priority. Jensen Huang fully supports the review and is cooperating with the board as the investigation proceeds.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F89d109cd-caa2-4844-a77e-6d19af37e389.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 21:33 UTC | #26845</small>]]></content>
+  </entry>
   <entry>
     <title>Tesla Lacks Successful New Product Launches Since JB Straubel Stepped Down as CTO</title>
     <link href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/" rel="alternate" />
