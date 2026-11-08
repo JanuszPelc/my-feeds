@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>systemd Integrates Rust Support for Leaf Components</h2>
+<a name="story-26834"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FGuillaumeGomez%2Fsystemd-manager%2Fraw%2Fmain%2Fscreenshot-analyze.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>systemd has merged support for the Rust programming language, enabling developers to write leaf components in Rust alongside C. While individual binaries can now be implemented in Rust, root components within the core libsystemd-shared.so library remain C-only due to the lack of first-class shared library support and a stable ABI in Rust.</p><p>The project's integration strategy adheres to strict design principles, including maintaining uniform access to core systemd APIs, enforcing identical binary behavior, utilizing the Meson build system instead of Cargo, and bypassing both the Rust standard library and panic-based allocators. Rust support remains optional to ensure systemd fully functions on architectures where Rust is not available.</p>
+<p>Nov 8 · <a href="https://amutable.com/blog/systemd-loves-rust">amutable.com</a> | <a href="https://lobste.rs/s/62loik/systemd_loves_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50360296">hacker news</a></p>
+<br clear="all" />
+
+<h2>GitHub Introduces New Pull Request Overview Page in Public Preview</h2>
+<a name="story-26833"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F35becfa5-7fe4-4ab3-8c80-df8348fa41f7&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GitHub has launched an opt-in public preview of a redesigned pull request overview page intended to streamline merge status checks and next steps. The layout places merge readiness indicators, checks, comments, and recent activity into a compact summary at the top of the interface.</p><p>The update aims to eliminate excessive scrolling through lengthy comment timelines by providing immediate visibility into blocking items and required actions. Additionally, the preview introduces new conversation filters, chronological comment sorting, and header controls that allow users to manage reviews and track project activity more efficiently.</p>
+<p>Nov 8 · <a href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/">github.blog</a> | <a href="https://news.ycombinator.com/item?id=50408931">hacker news</a></p>
+<br clear="all" />
+
 <h2>Technical Overview of Email Architecture, SMTP, and Message Formats</h2>
 <a name="story-26830"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4160909%2Fslide22-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An architectural and technical breakdown of how email functions examines the roles of mail user agents, transfer agents, and delivery agents within the Simple Mail Transfer Protocol framework. It details the step-by-step transmission process, covering domain name system mail exchange lookups, connection handshakes, and command-and-response interactions between servers.</p><p>The overview also addresses sender authentication mechanisms such as the Sender Policy Framework and DomainKeys Identified Mail, along with historical message formatting standards including multipurpose internet mail extensions, quoted-printable encoding, and base64. It highlights how legacy design constraints and modern security requirements continue to shape email delivery infrastructure.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26770"><img src="https://wsrv.nl/?url=https%3A%2F%2Fop.tngl.io%2Fmeridian%2Fassets%2Fmeridian-logo.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meridian is a customizable macOS web browser written in Rust and built on the GPUI framework and the Servo web rendering engine. Designed to handle lightweight websites efficiently, the browser provides features such as an address bar with typeahead, vertical and horizontal tabs, bookmarks, history, per-site zoom, and a dedicated reader mode.</p><p>The project relies on a separate bridging library called gpui-servo to integrate Servo as a standard GPUI component, enabling developers to build similar browser interfaces. Meridian can be installed using Nix via its repository on Tangled, where the source code and issue tracker are publicly hosted for community contributions.</p>
 <p>Nov 7 · <a href="https://op.tngl.io/meridian/">op.tngl.io</a> | <a href="https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built">lobsters</a></p>
-<br clear="all" />
-
-<h2>Kevin Boone Publishes Bare-Metal Programming Using UEFI Article Series</h2>
-<a name="story-26768"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcselectricalandelectronics.com%2Fwp-content%2Fuploads%2F2025%2F03%2FDifference-Between-Typical-And-Bare-Metal-Programming-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kevin Boone's tutorial series guides experienced Linux developers through building bare-metal applications for UEFI-based PC hardware. Assuming no prior knowledge of UEFI, the guides explain the complete workflow from a Linux workstation.</p><p>The sequential articles cover necessary software tools, compilation and linking processes, creating bootable USB flash or DVD images, and file management utilizing the UEFI Simple File Protocol.</p>
-<p>Nov 7 · <a href="https://kevinboone.me/efitest_index.html">kevinboone.me</a> | <a href="https://news.ycombinator.com/item?id=50394855">hacker news</a></p>
-<br clear="all" />
-
-<h2>Need for Speed: Underground 2 Browser Port Now Available</h2>
-<a name="story-26764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Underground 2 Revived is a fan-made project that runs the 2004 PC racing game Need for Speed: Underground 2 directly in web browsers such as Chrome and Firefox. The port uses static WebAssembly recompilation to execute the original x86 game code, supporting widescreen resolutions up to 120 frames per second via WebGPU, along with standard peripherals like controllers, steering wheels, and touch controls.</p><p>The unofficial release features online multiplayer capabilities, including shared free-roam sessions and races with other players. Developed as a free browser-based experience with no microtransactions or paid perks, the project requires users to provide their own game files and includes built-in state saving through the in-game garage menu.</p>
-<p>Nov 7 · <a href="https://nfsu2.xyz/">nfsu2.xyz</a> | <a href="https://github.com/th0mk/nfsu2-web">github.com</a> | <a href="https://news.ycombinator.com/item?id=50403052">hacker news</a></p>
 <br clear="all" />
 
 ---
