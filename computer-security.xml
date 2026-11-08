@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-07T22:48:00+00:00</updated>
+  <updated>2026-11-08T03:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Scott Helme Identifies 15,579 Websites Infected with Malicious JavaScript</title>
+    <link href="https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/" rel="alternate" />
+    <id>https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/::v240</id>
+    <published>2026-11-08T03:19:00+00:00</published>
+    <updated>2026-11-08T03:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2Fee%2F88%2Fee889f88-37ef-43e5-9180-f9b88ee6261d%2Fcontent%2Fimages%2F2026%2F11%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/">scotthelme.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50396064">hacker news</a></small></p><hr/><p>Security researcher Scott Helme has identified 15,579 unique websites currently infected with malicious JavaScript threats, including Magecart credit card skimmers, ClickFix malware, and device exploits. These compromised domains collectively generate an estimated 135 million visits every month, exposing innocent users to significant security risks while the site owners remain largely unaware.</p><p>Responsible disclosure has proved exceptionally difficult due to the sheer scale of infections, unhelpful post-GDPR WHOIS data, and websites hidden behind CDN providers. Helme notes that publicly releasing the list risks devastating blocklisting or exposing vulnerable targets to further attacks, leaving mass email campaigns impractical and prompting a call for industry suggestions or CERT intervention.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2Fee%2F88%2Fee889f88-37ef-43e5-9180-f9b88ee6261d%2Fcontent%2Fimages%2F2026%2F11%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 10:32 UTC | #26807</small>]]></content>
+  </entry>
   <entry>
     <title>Coldframe Honeypot Simulates Supermarket Refrigeration Controllers</title>
     <link href="https://github.com/hedgerow-dev/coldframe" rel="alternate" />
