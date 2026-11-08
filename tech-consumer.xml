@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-07T19:30:00+00:00</updated>
+  <updated>2026-11-08T11:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Retrospective Look at the TV Series Person of Interest</title>
+    <link href="https://krthr.co/person-of-interest/" rel="alternate" />
+    <id>https://krthr.co/person-of-interest/::v240</id>
+    <published>2026-11-08T11:24:00+00:00</published>
+    <updated>2026-11-08T11:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FffdcU736dFvEI2FZunfE19AxRWU.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://krthr.co/person-of-interest/">krthr.co</a> | <a href="https://news.ycombinator.com/item?id=50412318">hacker news</a></small></p><hr/><p>An author reflects on recently watching the television series Person of Interest, noting its enduring relevance fifteen years after its initial broadcast. The viewing experience evokes memories of early 2010s internet culture, including online forums, the SOPA and PIPA legislative debates, and the closure of Megaupload.</p><p>The post highlights how the show's central premise—a mass surveillance system known as the Machine—feels increasingly aligned with modern technological reality rather than science fiction. The author concludes that the series has aged remarkably well, prompting strong nostalgia for the era when their interest in computing first began.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FffdcU736dFvEI2FZunfE19AxRWU.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 15:09 UTC | #26821</small>]]></content>
+  </entry>
   <entry>
     <title>Omdia Reports Global Tablet Shipments Fell 23 Percent in Q3 2026</title>
     <link href="https://omdia.tech.informa.com/pr/2026/nov/global-tablet-shipments-fall-23percent-to-32-million-in-q3-2026" rel="alternate" />

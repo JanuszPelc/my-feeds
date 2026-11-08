@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Retrospective Look at the TV Series Person of Interest</h2>
+<a name="story-26821"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FffdcU736dFvEI2FZunfE19AxRWU.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An author reflects on recently watching the television series Person of Interest, noting its enduring relevance fifteen years after its initial broadcast. The viewing experience evokes memories of early 2010s internet culture, including online forums, the SOPA and PIPA legislative debates, and the closure of Megaupload.</p><p>The post highlights how the show's central premise—a mass surveillance system known as the Machine—feels increasingly aligned with modern technological reality rather than science fiction. The author concludes that the series has aged remarkably well, prompting strong nostalgia for the era when their interest in computing first began.</p>
+<p>Nov 8 · <a href="https://krthr.co/person-of-interest/">krthr.co</a> | <a href="https://news.ycombinator.com/item?id=50412318">hacker news</a></p>
+<br clear="all" />
+
 <h2>Omdia Reports Global Tablet Shipments Fell 23 Percent in Q3 2026</h2>
 <a name="story-26742"><img src="https://wsrv.nl/?url=https%3A%2F%2Fomdia.tech.informa.com%2F-%2Fmedia%2Ftech%2Fomdia%2Fmarketing%2Fpr%2F2026%2Fnov%2Fomdia-global-tablet-shipments-fall-23-to-32-million-in-q3-2026-gettyimages1147301914.jpg%3Frev%3Dd5df93a8e7b04bf6af59885020428c13&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Global tablet shipments dropped 23% year over year to 32 million units in the third quarter of 2026, reaching their lowest level in nearly three years, according to research from Omdia. The downturn was led by sharp contractions in the Middle East, China, and Western Europe, driven by persistent supply constraints and waning strategic priority from hardware vendors.</p><p>Apple and Samsung retained the top two spots in market share despite significant shipment declines of 28% and 22%, respectively. Lenovo was the sole top-five vendor to achieve growth, increasing shipments by 12% to capture a 12.7% market share, while Xiaomi and Huawei rounded out the top five amid an environment where recent flagship device launches failed to spur broader consumer demand.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26552"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAina-Voice-notes.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hardware startup Aina has released a $399 smart ring designed to serve as a physical controller for AI agents and desktop applications. The titanium wearable features a built-in screen, a miniature joystick, a microphone, and a speaker, allowing users to issue voice prompts, dictate notes, view phone notifications, and handle voice calls.</p><p>Pre-orders for the device opened at an early-bird price of $399 before increasing to $499, with global shipping scheduled to begin in January 2027. The ring supports contextual shortcuts and gestures tailored for platforms like macOS and mobile devices, positioning itself as a tactile command hub for users interacting with proactive artificial intelligence agents.</p>
 <p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/">techcrunch.com</a> | <a href="https://markets.businessinsider.com/news/stocks/aina-unveils-its-new-interface-an-ai-ring-that-predicts-and-surfaces-what-you-need-before-you-ask-1036723032?op=1">markets.businessinsider.com</a></p>
-<br clear="all" />
-
-<h2>Nintendo Quarterly Profit Declines Amid Rising Switch 2 Component Costs</h2>
-<a name="story-26519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FFDf4ZRTzzlizntGfGaRH1A--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--%2Fhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F351f9df0-0fe4-11f0-b7ed-d27e3588aec9&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nintendo reported a 16% year-over-year decrease in second-quarter net profit to $468 million. The decline was driven by rising Switch 2 component costs and a lack of major new game releases.</p><p>Switch 2 sales for the first half of fiscal year 2027 fell 37% year-over-year to 6.49 million units.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts">bloomberg.com</a> | <a href="https://www.nintendo.co.jp/ir/en/library/earnings/index.html">nintendo.co.jp</a></p>
 <br clear="all" />
 
 ---
