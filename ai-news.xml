@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-08T11:35:00+00:00</updated>
+  <updated>2026-11-08T16:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Anthropic Details Components and Architecture of AI Agent Memory</title>
+    <link href="https://www.anthropic.com/research/components-of-agent-memory" rel="alternate" />
+    <id>https://www.anthropic.com/research/components-of-agent-memory::v240</id>
+    <published>2026-11-08T16:10:00+00:00</published>
+    <updated>2026-11-08T16:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1%2A2SfYB4HAEDKwNks314Hz-A.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.anthropic.com/research/components-of-agent-memory">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50402212">hacker news</a></small></p><hr/><p>Anthropic details the architectural components required for effective AI agent memory, drawing parallels between human memory consolidation and large language model frameworks. The research outlines how agents capture interactions as persistent notes, make predictions about future needs, and use offline processing known as dreaming to organize, correct, and represent knowledge across sessions.</p><p>Evaluating performance on long-horizon benchmarks and games like Pokémon Red, Anthropic found that models with strong salience judgment perform better when given the freedom to curate their own memory files rather than adhering to rigid rules. Additionally, utilizing sleep-time compute to synthesize information into structured representations like wikis significantly improves performance and token efficiency when querying large document corpuses.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1%2A2SfYB4HAEDKwNks314Hz-A.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 18:42 UTC | #26835</small>]]></content>
+  </entry>
   <entry>
     <title>Llama-Modchip v2.4.0 Released for Running Large Models on Consumer CPUs</title>
     <link href="https://github.com/synchopate/llama-modchip" rel="alternate" />
