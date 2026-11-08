@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-08T08:21:00+00:00</updated>
+  <updated>2026-11-08T08:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Federal Court Approves RealPage Antitrust Settlements Totaling Nearly $360 Million for Renters</title>
+    <link href="https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/" rel="alternate" />
+    <id>https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/::v240</id>
+    <published>2026-11-08T08:25:00+00:00</published>
+    <updated>2026-11-08T08:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fevanstonroundtable.com%2Fwp-content%2Fuploads%2F2025%2F04%2FYieldStar-1024x481.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/">multifamilydive.com</a> | <a href="https://www.documentcloud.org/documents/28862184-us-dis-tnmd-3-23md3071-d47429662e75265-notice-of-filing-by-mdl-3071-plaintiffs-re-1552-in/">documentcloud.org</a> | <a href="https://news.ycombinator.com/item?id=50399991">hacker news</a></small></p><hr/><p>A federal court has approved class-action settlements totaling nearly $360 million in the antitrust litigation against RealPage Inc. and dozens of major apartment owners and operators over algorithmic rent-setting. The settlements resolve claims that the companies colluded to inflate rent prices beyond free-market levels using RealPage software, though the defendants admitted no fault or liability.</p><p>Under the terms of the agreement, settling defendants must stop providing nonpublic data to RealPage and cease using competitor data in pricing recommendations. While the federal litigation concludes for participating defendants, state attorneys general from several jurisdictions unsuccessfully opposed the settlements, arguing they could interfere with ongoing state-level antitrust lawsuits.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fevanstonroundtable.com%2Fwp-content%2Fuploads%2F2025%2F04%2FYieldStar-1024x481.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 14:46 UTC | #26820</small>]]></content>
+  </entry>
   <entry>
     <title>Leaked Documents Show Cisco Maintained and Expanded Israeli Military Deals During Gaza War</title>
     <link href="https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine" rel="alternate" />
