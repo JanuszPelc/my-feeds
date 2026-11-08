@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>REV-246 Free EMT-Inspired Reverb Plugin Released</h2>
+<a name="story-26823"><img src="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--lmprf3lN--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Fa25d71b2-b5ed-404e-b705-ad2d742cfba8.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Leigh Pierce has released REV-246, a free, open-source digital reverb plugin inspired by the EMT 246 hardware processor for macOS, Windows, and Linux. The plugin includes five EMT 246-inspired programs, an EMT 250-based algorithm, and tail lengths reaching up to 20 seconds, modeled after the physical unit's interface layout with six levers and readouts.</p><p>Additional features include a 16-bit lo-fi precision mode that introduces noise and clipping, an XFMR switch for low-frequency transformer coloration, a built-in ducker, and stereo width controls. Available in VST3 and AU formats, the plugin provides 65 factory presets, true stereo routing, and roughly one millisecond of latency.</p>
+<p>Nov 8 · <a href="https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/tehguitarist/REV-246">github.com</a></p>
+<br clear="all" />
+
 <h2>Tinyant Releases Purpl Free Chorus and Shimmer Reverb Plugin</h2>
 <a name="story-26815"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPR1mfChU4FI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Anant of tinyant has released Purpl, a free chorus and shimmer reverb audio plugin designed for Windows and Linux systems. Built over the course of a year without the use of artificial intelligence tools, the plugin combines a chorus effect with a reactive shimmer reverb tail.</p><p>Purpl includes specialized controls such as Day and Night buttons that alter the pitch and tail characteristics of the shimmer effect, alongside a Bloom feature that responds to sustained notes. Additional parameters include Breathe for ducking the wet signal and Burn for adding crunch, with the plugin available in VST3 and CLAP formats.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftoniq-kvr-news-v2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Insektiq has released Toniq, a polyphonic audio-to-MIDI plugin and standalone application available for macOS and Windows in AAX, AU, and VST3 formats. The software converts various audio sources—including full mixes, vocals, drums, and melodic parts—into multi-voice MIDI data complete with velocity information.</p><p>Toniq offers a free tier with no length or watermark limitations alongside an upgraded Pro tier priced at $129. The plugin supports ARA 2 integration for major digital audio workstations, allowing direct timeline reading, and includes features such as stem separation, a built-in synthesizer, and advanced note-level editing capabilities in the Pro version.</p>
 <p>Nov 6 · <a href="https://www.kvraudio.com/news/insektiq-releases-toniq---polyphonic-audio-to-midi-plug-in-for-macos-and-windows-aax-au-and-vst3-69652?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69652">kvraudio.com</a> | <a href="https://insektiq.com/download">insektiq.com</a></p>
-<br clear="all" />
-
-<h2>Chuck Sutton Releases Take 5: The Search For Sound Ableton Live Game</h2>
-<a name="story-26663"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTake-5-The-Search-For-Sound.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Producer Chuck Sutton has released Take 5: The Search For Sound, a five-minute audio-driven game built inside Ableton Live. Designed to help musicians break through creative blocks, the game completely removes visuals, immersing players in a non-visual sonic landscape where they explore environments, defeat enemies, and solve rhythmic puzzles using a keyboard or controller.</p><p>Conceived during an overnight flight when looking at a screen was impractical, the game generates unexpected melodies, synth sounds, and MIDI tracks as players navigate by sound alone. It aims to spark fresh musical ideas quickly before users return to their primary production projects, and is available now for $25.</p>
-<p>Nov 6 · <a href="https://musictech.com/news/music/take-5-five-the-search-for-sound-ableton-live-game/">musictech.com</a> | <a href="https://takefive.quest/">takefive.quest</a></p>
 <br clear="all" />
 
 ---

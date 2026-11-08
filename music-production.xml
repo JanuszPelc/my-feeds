@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-08T11:29:00+00:00</updated>
+  <updated>2026-11-08T18:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>REV-246 Free EMT-Inspired Reverb Plugin Released</title>
+    <link href="https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/::v240</id>
+    <published>2026-11-08T18:19:00+00:00</published>
+    <updated>2026-11-08T18:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--lmprf3lN--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Fa25d71b2-b5ed-404e-b705-ad2d742cfba8.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/tehguitarist/REV-246">github.com</a></small></p><hr/><p>Developer Leigh Pierce has released REV-246, a free, open-source digital reverb plugin inspired by the EMT 246 hardware processor for macOS, Windows, and Linux. The plugin includes five EMT 246-inspired programs, an EMT 250-based algorithm, and tail lengths reaching up to 20 seconds, modeled after the physical unit's interface layout with six levers and readouts.</p><p>Additional features include a 16-bit lo-fi precision mode that introduces noise and clipping, an XFMR switch for low-frequency transformer coloration, a built-in ducker, and stereo width controls. Available in VST3 and AU formats, the plugin provides 65 factory presets, true stereo routing, and roughly one millisecond of latency.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--lmprf3lN--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Fa25d71b2-b5ed-404e-b705-ad2d742cfba8.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 20:08 UTC | #26823</small>]]></content>
+  </entry>
   <entry>
     <title>Tinyant Releases Purpl Free Chorus and Shimmer Reverb Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/" rel="alternate" />
