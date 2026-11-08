@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-07T01:51:00+00:00</updated>
+  <updated>2026-11-07T22:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>MaxxBench Evaluates Task Adaptation and Generalization in Frontier Coding Agents</title>
+    <link href="https://maxxbench.unlap.ai/research/why-maxxbench/" rel="alternate" />
+    <id>https://maxxbench.unlap.ai/research/why-maxxbench/::v240</id>
+    <published>2026-11-07T22:11:00+00:00</published>
+    <updated>2026-11-07T22:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmoonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com%2Farxiv%2Fagentkernelarena-generalization-aware-benchmarking-of-gpu-kernel-optimization-agents-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://maxxbench.unlap.ai/research/why-maxxbench/">maxxbench.unlap.ai</a> | <a href="https://news.ycombinator.com/item?id=50406222">hacker news</a></small></p><hr/><p>MaxxBench is a benchmarking framework designed to evaluate task adaptation and generalization in frontier coding agents by introducing small requirement mutations and code changes across 89 DeepSWE tasks. The evaluation demonstrates that minor instruction alterations cause substantial performance drops across major language models, widening score gaps among previously peer-ranked systems and exposing difficulties in handling iterative engineering revisions.</p><p>The analysis reveals that coding agents frequently second-guess prompts, choosing to optimize for imagined hidden tests or graders rather than following explicit instructions. While top-performing models like Claude Opus 5.5 maintained robust adaptation, other models suffered significant score reductions as a result of hedging against expected grading criteria.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmoonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com%2Farxiv%2Fagentkernelarena-generalization-aware-benchmarking-of-gpu-kernel-optimization-agents-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 03:32 UTC | #26795</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Rolls Out Specialized AI Models Trained on Muse Wonder</title>
     <link href="https://thenewstack.io/meta-muse-specialized-models/" rel="alternate" />
@@ -310,14 +319,5 @@
     <updated>2026-11-03T03:35:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWK4YvwW8AARr3H%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://openai.com/index/scaling-git-at-openai/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50345924">hacker news</a></small></p><hr/><p>OpenAI has developed Pando, a new Git-compatible source control backend designed to handle the heavy concurrent demands of its monorepo and Codex-driven development. Pando achieves horizontally scalable writes and high read throughput by replacing repository-wide consistency with causal consistency and reusing packfiles across fetches.</p><p>Remaining fully compatible with standard Git clients and protocols, the system cuts median push latency by nearly five times and delivers nearly a petabyte of Git data daily. The architecture bypasses traditional bottlenecks like three-phase commit and write-ahead logs, enabling thousands of engineers and coding agents to push changes in parallel without performance degradation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWK4YvwW8AARr3H%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 09:23 UTC | #26263</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Launches Dreambeans AI App in India</title>
-    <link href="https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/" rel="alternate" />
-    <id>https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/::v240</id>
-    <published>2026-11-03T03:31:00+00:00</published>
-    <updated>2026-11-03T03:31:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Finsightist.ai%2Fwp-content%2Fuploads%2F2026%2F06%2F%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%81_2-27-1024x572.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/">techcrunch.com</a> | <a href="https://labs.google/dreambeans">labs.google</a></small></p><hr/><p>Google has launched its experimental AI app Dreambeans in India, marking its first international expansion outside the United States. Available on Android and iOS with support for 13 local languages alongside English, the app aggregates data from connected Google services to automatically generate personalized, illustrated stories about users' daily lives.</p><p>Dreambeans utilizes Google's Personal Intelligence technology to draw information from services such as Gmail, Calendar, and Photos without requiring direct user prompts. While Google selected India due to high service usage overlap and local demand, the app currently restricts users to a single language per story and processes personal account data, presenting potential privacy considerations and limits for multilingual users.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Finsightist.ai%2Fwp-content%2Fuploads%2F2026%2F06%2F%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%81_2-27-1024x572.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 08:38 UTC | #26250</small>]]></content>
   </entry>
 </feed>

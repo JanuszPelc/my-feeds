@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Apiiro Examines Security Risks of Coding Agents Leaking Secrets on GitHub</h2>
+<a name="story-26796"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northdoor.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2FAI-Coding-Agents-infographic-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apiiro examines the security implications of AI coding agents inadvertently leaking sensitive credentials and secrets to platforms like GitHub. The post explores how automated development tools and agentic workflows can introduce new vulnerabilities when handling sensitive information without adequate guardrails.</p><p>The discussion highlights the challenges organizations face in securing AI-driven development environments where autonomous agents interact with code repositories. It underscores the need for robust control planes and security monitoring to prevent accidental data exposure during automated coding tasks.</p>
+<p>Nov 7 · <a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again">apiiro.com</a> | <a href="https://news.ycombinator.com/item?id=50407882">hacker news</a></p>
+<br clear="all" />
+
 <h2>Vincent Bernat Migrates Blog Infrastructure from AWS to Bunny CDN and DNS</h2>
 <p>Developer Vincent Bernat details his migration of his personal blog's infrastructure from Amazon CloudFront and Route 53 to Bunny CDN and Bunny DNS. Seeking to reduce high AWS costs while maintaining performance, he adopted Bunny DNS for its low pricing and scriptable DNS capabilities, which execute custom JavaScript queries to route visitors to optimal servers.</p><p>To handle fallback availability and varying geographic distances, Bernat implemented a hybrid JavaScript routing script that returns the two closest servers when they are nearby or a single server with a short time-to-live when distances differ significantly. Additionally, he replaced Route 53's role in handling ACME DNS-01 challenges by deploying Hickory DNS and deSEC to manage DNSSEC and dynamic updates, compensating for Bunny DNS's current limitations regarding DS records.</p>
 <p>Nov 7 · <a href="https://vincent.bernat.ch/en/blog/2026-bunny-geodns">vincent.bernat.ch</a> | <a href="https://lobste.rs/s/jsvlfm/scriptable_geodns_leaving_aws_for_bunny">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50394292">hacker news</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpwn.college%2Fbelt%2Fwhite.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pwn.college is an open, hands-on cybersecurity education platform developed and maintained by hackers at Arizona State University. Designed to teach core computing and hacking skills through practical challenges, the platform allows users worldwide to progress through a belt-ranking system while interacting directly with terminal environments.</p><p>The platform powers a significant portion of Arizona State University's cybersecurity curriculum while remaining freely accessible to global participants. To protect the integrity of its academic grading materials and challenge structures, the platform requests that users refrain from publishing public writeups, walkthrough videos, or livestreams of solutions.</p>
 <p>Nov 6 · <a href="https://pwn.college/">pwn.college</a> | <a href="https://news.ycombinator.com/item?id=50387796">hacker news</a></p>
-<br clear="all" />
-
-<h2>ASN Bank Addresses Customer Inquiries Regarding Google Play Integrity and iDEAL Requirements</h2>
-<a name="story-26675"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQEKm3MI2JO6mQ%2Farticle-cover_image-shrink_720_1280%2FB4DZva7FS_HYAM-%2F0%2F1768904481783%3Fe%3D2147483647%26v%3Dbeta%26t%3DhfS5TcynYBbwxo46GZ4AoJ458iuflcZts5gie2G2doM&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ASN Bank has responded to customer complaints regarding its mobile application requiring Google Play Integrity checks for iDEAL and Wero payments. In a standardized reply to users, the bank explained that strict European regulations and high security standards for online payment methods necessitate device integrity and security validations.</p><p>The bank noted that alternative operating systems often bypass built-in system protections, preventing secure transaction guarantees under current joint payment frameworks. ASN Bank stated that while it is exploring future support for alternative operating systems with iDEAL partners, no guarantees or timelines can be provided at this time.</p>
-<p>Nov 6 · <a href="https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105">github.com</a> | <a href="https://news.ycombinator.com/item?id=50390124">hacker news</a></p>
 <br clear="all" />
 
 ---
