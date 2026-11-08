@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Pine64 Ox64 RISC-V Single-Board Computer Setup Guide: Part 1</h2>
+<a name="story-26797"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiMR6WHmKku5veDN9XI3ZTSOw9dSsNTbCsuJ6LSSxejLaYPTO-V71zPoc_-fpF0QYx260DGx5RSEsx58z-xxsujTZLugdjAs_7uaG6YZMdHBxrGaxlx9Q-H-NYszKY7-pvv1bfxEtmH1C3HZSoVBlkm5kdangQQyXUyRGFX8ja04tWg6ZzwsNs_9DuJJA%2Fs3114%2Fox64.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Pine64 Ox64 is an $8 RISC-V single-board computer featuring multiple cores capable of running Linux, though early hardware versions lack working Ethernet, Wi-Fi, and SD card support. Setting up the device presents several engineering hurdles, including the lack of native USB programming and compatibility issues with standard flashing tools on Linux.</p><p>To overcome these obstacles, the author configures an Adafruit KB2040 microcontroller as a serial bridge between a PC and the Ox64's UART pins. After modifying the Python-based flash tool to remove conflicting RTS and DTR control signals, the author successfully flashes the initial M0 core firmware and establishes serial communication with the board.</p>
+<p>Nov 7 · <a href="https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html">thelittleengineerthatcould.blogspot.com</a> | <a href="https://news.ycombinator.com/item?id=50404599">hacker news</a></p>
+<br clear="all" />
+
 <h2>Michael Lynch Details MustCreate Pattern for Go Tests</h2>
 <a name="story-26789"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F104193.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Michael Lynch details the "MustCreate" pattern, a generic helper approach designed to eliminate repetitive error-checking boilerplate in Go unit tests. Rather than writing individual wrapper functions for every constructor that returns a value and an error, developers can implement a single generic helper to validate test inputs cleanly.</p><p>The pattern leverages Go generics to accept arbitrary input types and constructor functions, reducing codebase clutter. For constructors that take multiple parameters, developers can extend the concept with a corresponding `MustCreate2` helper to maintain concise and readable test assertions.</p>
@@ -87,11 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Clojure Distilled Functional Programming Guide</h2>
 <p>Clojure Distilled is an introductory programming guide designed to help developers transition from mainstream imperative languages to Clojure, a functional Lisp dialect. The guide emphasizes that learning Clojure is less about mastering its simple syntax and more about adopting new problem-solving methods rooted in functional programming principles.</p><p>The guide details core concepts such as immutability, pure functions, first-class functions, and higher-order functions like map and filter. It explains how immutable data structures and software transactional memory facilitate safe concurrency and parallelism without manual locking, while exploring Clojure's standard data types, syntax, and data-as-code philosophy.</p>
 <p>Nov 6 · <a href="https://yogthos.net/ClojureDistilled.html">yogthos.net</a> | <a href="https://lobste.rs/s/dxno99/clojure_distilled">lobsters</a></p>
-<br clear="all" />
-
-<h2>GitHub &#x27;Awesome&#x27; Repositories Are Losing Utility Due to Outdated Content and AI Submissions</h2>
-<p>GitHub repositories prefixed with "awesome," which historically served as curated collections of domain resources, are increasingly losing their utility. This decline is driven by lists becoming outdated faster than they are maintained and repositories being flooded with low-quality, AI-generated tool submissions via mass pull requests.</p><p>While some maintainers actively vet contributions to preserve quality, others inadvertently merge low-effort automated projects. As AI models improve at resource discovery and automated code generation, developers may increasingly rely on direct AI queries rather than traditional curated lists for domain-specific information.</p>
-<p>Nov 6 · <a href="https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/">erikgahner.github.io</a> | <a href="https://news.ycombinator.com/item?id=50377821">hacker news</a></p>
 <br clear="all" />
 
 ---
