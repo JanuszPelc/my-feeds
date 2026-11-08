@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Binance Names Justin Yek as New CFO as Kaiser Ng Departs</h2>
+<a name="story-26776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.galleries.smcloud.net%2Fthumbs%2Fgf-UEvD-QMzA-62kc_binance-9-j.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Binance Holdings Ltd. announced that Chief Financial Officer Kaiser Ng is stepping down to pursue a new venture, with Justin Yek appointed to succeed him under a six-month transition plan.</p><p>The leadership change follows a major security breach in which hackers stole more than $6 billion from the cryptocurrency exchange, marking a notable executive transition amid the fallout from the massive heist.</p>
+<p>Nov 7 · <a href="https://www.bloomberg.com/news/articles/2026-11-07/binance-says-kaiser-ng-leaving-names-justin-yek-new-cfo">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Deutsche Bank Says Data Center Restrictions Could Prevent AI Investment Bust</h2>
 <a name="story-26772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.okoone.com%2Fwp-content%2Fuploads%2F2025%2F03%2FStrategy-Trends-354.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Political restrictions on data-center development could safeguard the broader US economy against an artificial intelligence investment bust by pacing infrastructure growth over time. According to Deutsche Bank economists, local and state-level pushback is effectively weeding out financially unstable projects.</p><p>Although these hurdles introduce risks to a key driver of recent economic expansion, analysts suggest that slowing the pace of development reduces the likelihood of a disruptive market crash. Financial institutions have increasingly sought ways to hedge their exposure amid accelerated lending for cloud computing and artificial intelligence initiatives.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26672"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2025%2F03%2Fov-openusd-robotics-featured-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Physicl has secured $10 million in seed funding led by Inovia Capital to develop high-fidelity 3D simulations for training physical AI and robotics models. Founded by Alex de Vigan, the startup utilizes a technical stack originally built for e-commerce 3D modeling to convert unstructured real-world data into accurate physical environments.</p><p>Alongside the funding, Physicl is launching a product called Studio, which provides thousands of 3D environments and assets to help developers generate synthetic training data and address edge cases in robot manipulation. The company aims to provide automated tooling that allows AI models to dynamically request and generate training data based on current performance gaps.</p>
 <p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/">techcrunch.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/06/3397485/0/en/Physicl-Raises-10-Million-to-Solve-Physical-AI-s-Edge-Case-Gap.html">globenewswire.com</a></p>
-<br clear="all" />
-
-<h2>Yangtze Memory Technologies Targets 70% Homegrown Equipment for Fourth Chip Factory</h2>
-<a name="story-26645"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpartofstyle.com%2Fwp-content%2Fuploads%2F2026%2F04%2FChina-Will-Double-Its-Chip-Making-Capacity-With-Three-New.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Yangtze Memory Technologies Co (YMTC) plans to source up to 70% of the equipment for its planned fourth memory chip factory from domestic suppliers. This target marks a substantial increase from just over 50% for its third factory, reflecting an accelerated push toward domestic self-reliance amid trade restrictions.</p><p>The fourth fab is scheduled to break ground in Wuhan, where YMTC is headquartered. The expanding production capacity underscores the company's continuous growth and its efforts to integrate more locally manufactured semiconductor tools into its advanced NAND flash memory production lines.</p>
-<p>Nov 6 · <a href="https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/">reuters.com</a></p>
 <br clear="all" />
 
 ---
