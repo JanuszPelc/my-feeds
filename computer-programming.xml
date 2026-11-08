@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T03:16:00+00:00</updated>
+  <updated>2026-11-08T03:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Daniel Wayne Armstrong Details NetBSD 11.0 to 11.1 Upgrade Process</title>
+    <link href="https://www.dwarmstrong.org/netbsd-upgrade/" rel="alternate" />
+    <id>https://www.dwarmstrong.org/netbsd-upgrade/::v240</id>
+    <published>2026-11-08T03:21:00+00:00</published>
+    <updated>2026-11-08T03:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fguide%2Finstall-images%2Fup-complete.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.dwarmstrong.org/netbsd-upgrade/">dwarmstrong.org</a> | <a href="https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50407533">hacker news</a></small></p><hr/><p>Daniel Wayne Armstrong documents his experience upgrading an amd64 system from NetBSD 11.0 to 11.1 using the sysupgrade utility. The procedure involves installing the sysupgrade package, executing an automated command to fetch and unpack the kernel and system sets, and reviewing configuration diffs for files like passwd and sshd_config.</p><p>The upgrade encountered a minor postinstall failure with opensslcertsrehash, which was resolved by clearing the legacy certificate cache and rebuilding hashes using certctl. Additionally, the process requires updating package repositories in pkgin to point to the new version release.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fguide%2Finstall-images%2Fup-complete.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 10:55 UTC | #26808</small>]]></content>
+  </entry>
   <entry>
     <title>OpenBSD Top Command Adds Flag to Display Chroot, Pledge, and Unveil Status</title>
     <link href="https://undeadly.org/cgi?action=article;sid=20261106104957" rel="alternate" />

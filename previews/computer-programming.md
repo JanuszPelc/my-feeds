@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Daniel Wayne Armstrong Details NetBSD 11.0 to 11.1 Upgrade Process</h2>
+<a name="story-26808"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fguide%2Finstall-images%2Fup-complete.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Daniel Wayne Armstrong documents his experience upgrading an amd64 system from NetBSD 11.0 to 11.1 using the sysupgrade utility. The procedure involves installing the sysupgrade package, executing an automated command to fetch and unpack the kernel and system sets, and reviewing configuration diffs for files like passwd and sshd_config.</p><p>The upgrade encountered a minor postinstall failure with opensslcertsrehash, which was resolved by clearing the legacy certificate cache and rebuilding hashes using certctl. Additionally, the process requires updating package repositories in pkgin to point to the new version release.</p>
+<p>Nov 8 · <a href="https://www.dwarmstrong.org/netbsd-upgrade/">dwarmstrong.org</a> | <a href="https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50407533">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenBSD Top Command Adds Flag to Display Chroot, Pledge, and Unveil Status</h2>
 <a name="story-26806"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fmy-first-running-v0-inb2xhsqotnc1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D737fb67abd2f1a7cd960e9183303f4699e061708&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenBSD has updated its top(1) command with a new -Q flag designed to display each process's utilization of chroot(2), pledge(2), and unveil(2) security facilities. Developed by Klemens Nanni, the feature replaces the TIME column in the utility's display with privilege state information to help system administrators easily track privilege-aware programs.</p><p>Previously, auditing privilege states required less ergonomic alternatives such as using ps(1) combined with tree-mode or watch(1). The addition provides a more direct monitoring tool for systems relying on OpenBSD's kernel-enforced security mitigations, requiring users to install a recent snapshot to access the functionality.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Libghostty 1.0 Released with Stable C ABI</h2>
 <p>Mitchell Hashimoto has released libghostty-vt 1.0, a portable, high-performance C library for terminal emulation extracted directly from the core of the Ghostty project. The 1.0 milestone establishes a stable C ABI and semantic versioning, ensuring long-term compatibility for dynamic linking and operating system distribution packaging.</p><p>The library has already achieved widespread production adoption across millions of users in applications such as JetBrains IDEs, Neovim, and various developer tools. Built with a minimal, permissively licensed dependency tree and extensive cross-platform support spanning Linux, macOS, Windows, mobile platforms, and WebAssembly, it provides a generalized foundation for building terminal software.</p>
 <p>Nov 6 · <a href="https://mitchellh.com/writing/libghostty-1-0">mitchellh.com</a> | <a href="https://lobste.rs/s/0ouxwf/libghostty_1_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50399933">hacker news</a></p>
-<br clear="all" />
-
-<h2>Datastar Hypermedia Framework Overview</h2>
-<a name="story-26725"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgopt.infoq.com%2Ffit-in%2F3000x4000%2Ffilters%3Aquality%2885%29%2Ffilters%3Ano_upscale%28%29%2Farticles%2Freactive-notification-system-server-sent-events%2Fen%2Fresources%2F9figure1-1732020429898.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Datastar is a hypermedia framework designed for building reactive and interactive web applications using server-sent events (SSE) and declarative HTML attributes. Unlike frameworks that synchronize client state with a server, Datastar keeps the state on the backend and streams updates directly to the browser through standard HTTP connections.</p><p>The framework favors multi-page applications over single-page applications, utilizing constraints like minimal JavaScript APIs and server-side DOM patching to simplify architecture. Its approach allows backend developers to build dynamic user interfaces entirely on the server, as demonstrated in implementations like the Instabooks application.</p>
-<p>Nov 6 · <a href="https://noteflakes.com/articles/2026-11-04-datastar">noteflakes.com</a> | <a href="https://lobste.rs/s/vbx0g4/look_at_datastar">lobsters</a></p>
 <br clear="all" />
 
 ---
