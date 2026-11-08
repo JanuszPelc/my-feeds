@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Apple Saved $2.7 Billion in Taxes via Singapore Disclosures Show</h2>
+<a name="story-26798"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fcba7541e-fa92-11e5-b3f6-11d5706b613b%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple saved $2.7 billion in taxes this year by routing up to $50 billion in profits through Singapore, surpassing the $2.6 billion saved via Ireland. Singapore has thus overtaken Ireland as the iPhone maker's largest tax shelter, according to recent corporate disclosures.</p><p>The shift highlights how multinational corporations adapt their profit-routing structures in response to changing international tax landscapes and regulatory pressures, particularly as traditional European havens face heightened scrutiny.</p>
+<p>Nov 8 · <a href="https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede">ft.com</a></p>
+<br clear="all" />
+
 <h2>Ocient Raises $100 Million in Series C Funding for Agentic AI Analytics</h2>
 <a name="story-26767"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0871%2F5413%2F1219%2Ffiles%2Fagentic-ai-vc-invest-yoy.png%3Fv%3D1771226864&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ocient Inc. has secured $100 million in a Series C funding round co-led by Boka Capital and OCA Ventures, bringing its total capital raised to $260 million. The Chicago-based data analytics provider plans to use the financing to accelerate the expansion of its OcientAIQ platform, which delivers petabyte-scale analytics and agentic artificial intelligence solutions.</p><p>The company anticipates its revenue will more than triple in the current fiscal year, driven largely by growing adoption among national security organizations and telecommunications providers seeking to process massive network and cybersecurity datasets without data sampling. To support this demand, Ocient has established a dedicated national security subsidiary and intends to expand its on-premises deployments and international footprint while scaling toward financial breakeven.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26579"><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.cryptonomist.ch%2Fwp-content%2Fuploads%2F2026%2F10%2Fgreece-cryptocurrency-tax-1068x712.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Greece's parliament approved a bill establishing a 10% capital gains tax on cryptocurrencies, marking the country's first comprehensive legal framework for taxing digital assets. The legislation applies a flat rate to individuals' net crypto gains.</p><p>The framework incorporates an annual exemption threshold of €500 for net profits, offering relief to smaller retail investors. The measure follows a public consultation period initiated by the Ministry of National Economy and Finance.</p>
 <p>Nov 5 · <a href="https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Apple Plans $7 Billion Investment-Grade Bond Offering</h2>
-<a name="story-26562"><img src="https://wsrv.nl/?url=https%3A%2F%2Fphotos5.appleinsider.com%2Farchive%2Fgallery%2F11728-4863-Screen-Shot-2015-02-02-at-95850-AM-xl.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple plans to raise approximately $7 billion through its first investment-grade bond offering in more than a year. The proceeds are intended to fund share buybacks, dividends, and capital expenditures.</p><p>This issuance aligns with a broader trend of increased debt activity among major U.S. technology companies and marks a return to the bond market for the company after a period of limited issuance.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree">bloomberg.com</a> | <a href="https://bullfincher.io/companies/apple/report/2026-8-k-0000320193-26-000018">bullfincher.io</a></p>
 <br clear="all" />
 
 ---
