@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T11:33:00+00:00</updated>
+  <updated>2026-11-08T12:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Technical Overview of Email Architecture, SMTP, and Message Formats</title>
+    <link href="https://maurycyz.com/misc/email/" rel="alternate" />
+    <id>https://maurycyz.com/misc/email/::v240</id>
+    <published>2026-11-08T12:54:00+00:00</published>
+    <updated>2026-11-08T12:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4160909%2Fslide22-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://maurycyz.com/misc/email/">maurycyz.com</a> | <a href="https://lobste.rs/s/jnz4v5/bit_about_email">lobsters</a></small></p><hr/><p>An architectural and technical breakdown of how email functions examines the roles of mail user agents, transfer agents, and delivery agents within the Simple Mail Transfer Protocol framework. It details the step-by-step transmission process, covering domain name system mail exchange lookups, connection handshakes, and command-and-response interactions between servers.</p><p>The overview also addresses sender authentication mechanisms such as the Sender Policy Framework and DomainKeys Identified Mail, along with historical message formatting standards including multipurpose internet mail extensions, quoted-printable encoding, and base64. It highlights how legacy design constraints and modern security requirements continue to shape email delivery infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4160909%2Fslide22-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 17:40 UTC | #26830</small>]]></content>
+  </entry>
   <entry>
     <title>Examining Nondeterminism in the Futhark Programming Language</title>
     <link href="https://futhark-lang.org/blog/2026-11-04-nondeterminism.html" rel="alternate" />
