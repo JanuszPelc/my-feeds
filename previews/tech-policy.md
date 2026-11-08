@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Nvidia CEO Jensen Huang Sends Letter to Staff Regarding Relationship and Board Investigation</h2>
+<p>Nvidia CEO Jensen Huang admitted to a romantic relationship with a suspected Chinese spy in a company-wide message, apologizing to his family and pledging full cooperation with an independent board investigation.</p><p>The email addresses national security concerns and family privacy while a company representative confirmed that Huang will continue leading Nvidia without interruption as the investigation proceeds.</p>
+<p>Nov 8 · <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
+<br clear="all" />
+
 <h2>Crypto Industry Faces Potential Congressional Inquiries Following Democratic Midterm Victories</h2>
 <a name="story-26801"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2Fceea2f7497e2a688a44ca48de010e085cd12e270f43e1699800bf7fa0a0a4af0%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F0b5a6a18d077507082df0024fe86eb6b&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The cryptocurrency industry is facing potential regulatory and congressional scrutiny following Democratic victories in the US midterm elections. Democratic lawmakers have vowed to launch investigations into the Trump family and its financial ties to the digital asset sector.</p><p>The prospective inquiries highlight growing political friction surrounding the intersection of political leadership and the expanding cryptocurrency market. Industry stakeholders are bracing for increased oversight and potential legislative headwinds as lawmakers target conflicts of interest and policy influence.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tekedia.com%2Fwp-content%2Fuploads%2Fasgarosforum%2F7368%2FScreenshot-2024-11-16-at-09.06.07.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Following their victories in capturing House and Senate majorities, congressional Democrats are laying the groundwork to launch investigations into several major American technology companies. Lawmakers are focusing their early probe targets on Apple, Meta, and businesses led by Elon Musk.</p><p>The planned oversight efforts have sparked a scramble among corporate executives who previously courted President Trump, placing high-profile technology leaders and their corporate donations under intense legislative scrutiny.</p>
 <p>Nov 6 · <a href="https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/">washingtonpost.com</a> | <a href="https://news.ycombinator.com/item?id=50397102">hacker news</a></p>
-<br clear="all" />
-
-<h2>House Republicans Request Nvidia CEO Jensen Huang Briefing on Reported Link to Chinese Intelligence Asset</h2>
-<a name="story-26617"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thestreet.com%2F.image%2FNDA6MDAwMDAwMDAzMDU1MzQ3%2Fjensen-huang-chief-executive-officer-of-nvidia-corp-speaks-during-a-bloomberg-television-interview-on-the-sidelines-of-the-dell-technologies-world-annual-convention-event-in-las-vegas-nevada-us-on-mon.jpg%3Fprofile%3Dw1536%26ar%3D4-3&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Three House Republican committee leaders have asked Nvidia CEO Jensen Huang to provide a closed-door briefing concerning his relationship with Megaspeed executive Alice Huang, who is reportedly a Chinese intelligence asset. The lawmakers, including the Chairmen of the House Foreign Affairs and Select Committees on China, cited concerns regarding the People's Republic of China's potential access to sensitive U.S. technology and information.</p><p>The request follows reports that U.S. intelligence identified Alice Huang as a Chinese citizen funneling information to Beijing and noted her close ties to the Nvidia CEO. Nvidia has countered that Huang's meetings with customers involve only ordinary business information and contain no sensitive trade secrets or national security data. The lawmakers have invited Huang to an in-person briefing on Nov. 18, 2026.</p>
-<p>Nov 5 · <a href="https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html">cnbc.com</a> | <a href="https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset">foreignaffairs.house.gov</a></p>
 <br clear="all" />
 
 ---

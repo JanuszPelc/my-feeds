@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Running NetBSD 11 Desktop on a Raspberry Pi 4</h2>
+<a name="story-26852"><img src="https://wsrv.nl/?url=https%3A%2F%2Fb2c-contenthub.com%2Fwp-content%2Fuploads%2F2023%2F11%2FRaspberry-Pi-Imager.png%3Fquality%3D50%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>This article provides a step-by-step guide for installing and configuring a NetBSD 11 desktop environment on a Raspberry Pi 4. It covers preparing the arm64 image, installing the UEFI firmware, configuring Wi-Fi connectivity, and setting up binary package management via pkgin.</p><p>Additional instructions detail the installation of X11 and the NsCDE desktop environment to build a functional graphical user interface. The walkthrough offers practical tips for configuring user privileges, shell environments, and necessary applications to make the operating system usable.</p>
+<p>Nov 8 · <a href="https://neongd.com/articles/netbsd11-rpi4.gmi">neongd.com</a> | <a href="https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4">lobsters</a></p>
+<br clear="all" />
+
 <h2>Goldman Sachs Restricts Claude Code Access to Engineers</h2>
 <a name="story-26838"><img src="https://wsrv.nl/?url=https%3A%2F%2Finfosecbulletin.com%2Fwp-content%2Fuploads%2F2026%2F04%2F47-1536x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Goldman Sachs has updated its internal guidance to restrict Anthropic's Claude Code and Microsoft's GitHub coding agents exclusively to its software engineers, cutting off traders and bankers who previously used the tools for tasks like market modeling and tracking client flows. The policy change reverses earlier internal encouragement of non-technical staff building custom tools and addresses growing concerns over unreviewed code, information barriers, and operational risks on trading desks.</p><p>The restriction follows similar measures taken across the financial sector regarding autonomous third-party coding tools, even as Goldman Sachs maintains a close commercial relationship with Anthropic and serves as a lead underwriter for its upcoming IPO. While quantitative researchers and software engineers retain full access to the coding agents, non-technical employees must now rely on approved internal platforms that incorporate stricter compliance controls.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26789"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F104193.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Michael Lynch details the "MustCreate" pattern, a generic helper approach designed to eliminate repetitive error-checking boilerplate in Go unit tests. Rather than writing individual wrapper functions for every constructor that returns a value and an error, developers can implement a single generic helper to validate test inputs cleanly.</p><p>The pattern leverages Go generics to accept arbitrary input types and constructor functions, reducing codebase clutter. For constructors that take multiple parameters, developers can extend the concept with a corresponding `MustCreate2` helper to maintain concise and readable test assertions.</p>
 <p>Nov 7 · <a href="https://mtlynch.io/notes/go-must-create-pattern/">mtlynch.io</a> | <a href="https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests">lobsters</a></p>
-<br clear="all" />
-
-<h2>Red Blob Games Details Two-Dimensional Version Control Workflow with Jujutsu</h2>
-<a name="story-26775"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.redblobgames.com%2Fblog%2F2026-09-27-jujutsu-experience%2Fimages%2F2d-vc.png%3F2026-10-23-13-59-56&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Red Blob Games shares an experience report on using the Jujutsu version control system to manage a two-dimensional project history during a roguelike development challenge. By tracking both writer development time and reader-facing tutorial chapters simultaneously, the author leveraged Jujutsu's capability to automatically propagate changes forward and backward across commits.</p><p>The project required maintaining 14 sequential chapters of code alongside a primary development timeline, allowing for retroactive edits, structural code improvements across past chapters, and consistent commit descriptions. While the tool successfully streamlined complex history management and exported cleanly to Git, the author notes that its automated behaviors occasionally made it difficult to track background changes completely.</p>
-<p>Nov 7 · <a href="https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/">redblobgames.com</a> | <a href="https://lobste.rs/s/49o9f3/two_dimensional_version_control">lobsters</a></p>
 <br clear="all" />
 
 ---
