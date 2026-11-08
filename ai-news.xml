@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-07T22:11:00+00:00</updated>
+  <updated>2026-11-08T08:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Nous Research Releases Arete-27B Model to Reinforce Western Values</title>
+    <link href="https://nousresearch.com/arete" rel="alternate" />
+    <id>https://nousresearch.com/arete::v240</id>
+    <published>2026-11-08T08:16:00+00:00</published>
+    <updated>2026-11-08T08:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQF0xmCxWXR8OQ%2Ffeedshare-shrink_800%2FB56ZyQqrolIcAg-%2F0%2F1771953634863%3Fe%3D2147483647%26v%3Dbeta%26t%3DuhPFmPfAelr1xxIozLAktnOHzD3C3vvTdfi77ZFtfqo&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nousresearch.com/arete">nousresearch.com</a> | <a href="https://news.ycombinator.com/item?id=50402369">hacker news</a></small></p><hr/><p>Nous Research has introduced Arete-27B, a post-trained variant of Alibaba's Qwen3.8-27B open-weight language model designed to mitigate state-aligned biases and reinforce Western values. The organization fine-tuned the model on roughly 52.8 million tokens using supervised data spanning seven value categories, including freedom of expression and democracy.</p><p>To measure effectiveness, Nous Research built an 803-prompt evaluation framework assessing factual recall and propaganda framing. Testing showed that Arete-27B reduced answers containing state-aligned phrasing from 22 percent to 1 percent while preserving the base model's agentic and coding performance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQF0xmCxWXR8OQ%2Ffeedshare-shrink_800%2FB56ZyQqrolIcAg-%2F0%2F1771953634863%3Fe%3D2147483647%26v%3Dbeta%26t%3DuhPFmPfAelr1xxIozLAktnOHzD3C3vvTdfi77ZFtfqo&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 13:30 UTC | #26800</small>]]></content>
+  </entry>
   <entry>
     <title>MaxxBench Evaluates Task Adaptation and Generalization in Frontier Coding Agents</title>
     <link href="https://maxxbench.unlap.ai/research/why-maxxbench/" rel="alternate" />
