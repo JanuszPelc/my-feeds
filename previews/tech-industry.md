@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Southeast Asia Datacentre Expansion Faces Delays Amid Resource and Regulatory Pressures</h2>
+<a name="story-26783"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmssb-media.xcms.io%2Fpublisher-c1a3f893382d2b2f8a9aa22a654d9c97%2F2025%2F09%2Fe6c395837ded68f038ef4a33257eabd0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Southeast Asian nations, including Thailand and Indonesia, have paused or tightened approvals for numerous datacentre projects as a surge in artificial intelligence infrastructure strains local resources. Driven by rapid growth in the Asia-Pacific region, countries across the region are confronting severe challenges related to heavy electricity consumption and high water usage for cooling facilities.</p><p>While hubs like Malaysia's Johor state have attracted massive investments, local communities and authorities are increasingly pushing back due to environmental concerns, grid bottlenecks, and strained water reservoirs. In response, governments are implementing stricter regulatory frameworks, higher utility tariffs, and resource-efficiency mandates to manage the rapid expansion.</p>
+<p>Nov 7 · <a href="https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia">theguardian.com</a></p>
+<br clear="all" />
+
 <h2>Binance Names Justin Yek as New CFO as Kaiser Ng Departs</h2>
 <a name="story-26776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.galleries.smcloud.net%2Fthumbs%2Fgf-UEvD-QMzA-62kc_binance-9-j.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance Holdings Ltd. announced that Chief Financial Officer Kaiser Ng is stepping down to pursue a new venture, with Justin Yek appointed to succeed him under a six-month transition plan.</p><p>The leadership change follows a major security breach in which hackers stole more than $6 billion from the cryptocurrency exchange, marking a notable executive transition amid the fallout from the massive heist.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fetimg.etb2bimg.com%2Fthumb%2Fmsid-130957243%2Cimgsize-66990%2Cwidth-1200%2Cheight%3D627%2Coverlay-ettelecom%2Cresizemode-75%2Fdevices%2Fus-investigates-nvidia-chip-smuggling-to-china-via-thailands-obon-corp.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia is requiring Southeast Asian cloud service providers seeking Nvidia Cloud Partner status to enroll in a tracking program that logs the physical locations of their AI accelerators. The measure is designed to monitor semiconductor deployments and curtail unauthorized smuggling into restricted markets.</p><p>The monitoring system utilizes GPU telemetry and confidential computing to track chip locations within regional data centers. This initiative comes as tech companies and regulators face mounting pressure to prevent high-performance AI hardware from being diverted through intermediary countries.</p>
 <p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Physicl Raises $10 Million in Seed Funding for Robotics Simulation Platform</h2>
-<a name="story-26672"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2025%2F03%2Fov-openusd-robotics-featured-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Physicl has secured $10 million in seed funding led by Inovia Capital to develop high-fidelity 3D simulations for training physical AI and robotics models. Founded by Alex de Vigan, the startup utilizes a technical stack originally built for e-commerce 3D modeling to convert unstructured real-world data into accurate physical environments.</p><p>Alongside the funding, Physicl is launching a product called Studio, which provides thousands of 3D environments and assets to help developers generate synthetic training data and address edge cases in robot manipulation. The company aims to provide automated tooling that allows AI models to dynamically request and generate training data based on current performance gaps.</p>
-<p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/">techcrunch.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/06/3397485/0/en/Physicl-Raises-10-Million-to-Solve-Physical-AI-s-Edge-Case-Gap.html">globenewswire.com</a></p>
 <br clear="all" />
 
 ---

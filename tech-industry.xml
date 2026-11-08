@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-07T21:24:00+00:00</updated>
+  <updated>2026-11-07T22:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Southeast Asia Datacentre Expansion Faces Delays Amid Resource and Regulatory Pressures</title>
+    <link href="https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia" rel="alternate" />
+    <id>https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia::v240</id>
+    <published>2026-11-07T22:13:00+00:00</published>
+    <updated>2026-11-07T22:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmssb-media.xcms.io%2Fpublisher-c1a3f893382d2b2f8a9aa22a654d9c97%2F2025%2F09%2Fe6c395837ded68f038ef4a33257eabd0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia">theguardian.com</a></small></p><hr/><p>Southeast Asian nations, including Thailand and Indonesia, have paused or tightened approvals for numerous datacentre projects as a surge in artificial intelligence infrastructure strains local resources. Driven by rapid growth in the Asia-Pacific region, countries across the region are confronting severe challenges related to heavy electricity consumption and high water usage for cooling facilities.</p><p>While hubs like Malaysia's Johor state have attracted massive investments, local communities and authorities are increasingly pushing back due to environmental concerns, grid bottlenecks, and strained water reservoirs. In response, governments are implementing stricter regulatory frameworks, higher utility tariffs, and resource-efficiency mandates to manage the rapid expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmssb-media.xcms.io%2Fpublisher-c1a3f893382d2b2f8a9aa22a654d9c97%2F2025%2F09%2Fe6c395837ded68f038ef4a33257eabd0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 04:49 UTC | #26783</small>]]></content>
+  </entry>
   <entry>
     <title>Binance Names Justin Yek as New CFO as Kaiser Ng Departs</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-07/binance-says-kaiser-ng-leaving-names-justin-yek-new-cfo" rel="alternate" />
