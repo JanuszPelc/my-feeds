@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Kevin Boone Reflects on Borland Turbo Pascal 7 and Windows 3.1 Development</h2>
+<a name="story-26805"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwinworldpc.com%2Fres%2Fimg%2Fscreenshots%2F967c1c190fa98b954e706b532193194d0bac135b24e577a11cf12325aeba31cb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Borland Turbo Pascal 7, also known as Turbo Pascal for Windows 1.5, combined a high-speed in-memory compiler, object-oriented libraries, and a seamless integrated development environment to make early Windows programming accessible and efficient. Its design roots in CP/M allowed it to run exceptionally well on constrained hardware, making it a favorite tool for developers transitioning from MS-DOS to Windows 3.1 during the 1990s.</p><p>The tool eventually declined due to the rise of the C programming language, improvements to Microsoft's own development tools, and the popularity of Visual Basic for smaller-scale applications. While modern systems possess vastly superior hardware resources, the author argues that the loss of the resource-conscious programming skills required by tools like Turbo Pascal reflects a broader shift toward bloat and semi-skilled software development.</p>
+<p>Nov 8 · <a href="https://kevinboone.me/tpwin.html">kevinboone.me</a> | <a href="https://news.ycombinator.com/item?id=50405678">hacker news</a></p>
+<br clear="all" />
+
 <h2>Caleb Software Details Migration From Claude Code to Pi</h2>
 <a name="story-26804"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F04%2Fc864a5ef-linkedin-claude-code-post-1024x1024.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Caleb Software details the decision to replace Claude Code with Pi as a primary coding harness, driven by growing frustrations regarding software stability, user interface limitations, and frequent tool prompt updates. Specific issues with Claude Code included restricted multi-tab IDE integration in VSCode, frequent system prompt revisions, and excessive token overhead in default tool descriptions.</p><p>In contrast, the migration to Pi offered a minimalist, stable, and highly customizable alternative that allowed the author to quickly implement custom extensions for multi-tab support. While acknowledging Claude Code's pioneering role in AI-assisted development, the post highlights the need for stricter product direction and stability over rapid feature expansion.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Invidious Instance Implements Go-Away Bot Protection Against AI Scrapers</h2>
 <p>The Invidious instance hosted on nadeko.net has implemented the go-away bot protection tool to block AI companies and automated scrapers from targeting its video watch pages. The measure was introduced after the Invidious API was disabled, prompting bots to shift their scraping activity directly to user-facing watch endpoints.</p><p>Visitors accessing the site are required to pass a JavaScript proof-of-work challenge to verify they are using standard web browsers rather than automated tools. Users encountering technical difficulties are advised to disable conflicting browser extensions and contact the site administrator with their request details.</p>
 <p>Nov 6 · <a href="https://inv.nadeko.net/watch?v=PeZNLvD4mds">inv.nadeko.net</a> | <a href="https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding">lobsters</a></p>
-<br clear="all" />
-
-<h2>Chimera Linux Details Work to Enable Proprietary NVIDIA Drivers on Musl Distributions</h2>
-<a name="story-26703"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2024%26image%3Dgnome_software_nvidia&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Chimera Linux developers have detailed ongoing work to enable proprietary NVIDIA drivers on musl-based Linux distributions, which traditionally lack full compatibility due to being built for glibc. The effort addresses fundamental architectural hurdles, including vendor-neutral OpenGL dispatch, missing compatibility symbols, and linker relocation differences.</p><p>Overcoming these limitations required adopting GLVND, updating the gcompat compatibility shim, patching the dynamic linker to support GNU indirect functions and static thread-local storage models, and creating a custom musl package variant. Testing with a legacy Maxwell-generation graphics card validated the approach and helped address subsequent startup stability issues.</p>
-<p>Nov 6 · <a href="https://chimera-linux.org/news/2026/11/musl-nvidia.html">chimera-linux.org</a> | <a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers">lobsters</a></p>
 <br clear="all" />
 
 ---

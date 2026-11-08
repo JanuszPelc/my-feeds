@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T03:12:00+00:00</updated>
+  <updated>2026-11-08T03:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Kevin Boone Reflects on Borland Turbo Pascal 7 and Windows 3.1 Development</title>
+    <link href="https://kevinboone.me/tpwin.html" rel="alternate" />
+    <id>https://kevinboone.me/tpwin.html::v240</id>
+    <published>2026-11-08T03:14:00+00:00</published>
+    <updated>2026-11-08T03:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwinworldpc.com%2Fres%2Fimg%2Fscreenshots%2F967c1c190fa98b954e706b532193194d0bac135b24e577a11cf12325aeba31cb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://kevinboone.me/tpwin.html">kevinboone.me</a> | <a href="https://news.ycombinator.com/item?id=50405678">hacker news</a></small></p><hr/><p>Borland Turbo Pascal 7, also known as Turbo Pascal for Windows 1.5, combined a high-speed in-memory compiler, object-oriented libraries, and a seamless integrated development environment to make early Windows programming accessible and efficient. Its design roots in CP/M allowed it to run exceptionally well on constrained hardware, making it a favorite tool for developers transitioning from MS-DOS to Windows 3.1 during the 1990s.</p><p>The tool eventually declined due to the rise of the C programming language, improvements to Microsoft's own development tools, and the popularity of Visual Basic for smaller-scale applications. While modern systems possess vastly superior hardware resources, the author argues that the loss of the resource-conscious programming skills required by tools like Turbo Pascal reflects a broader shift toward bloat and semi-skilled software development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwinworldpc.com%2Fres%2Fimg%2Fscreenshots%2F967c1c190fa98b954e706b532193194d0bac135b24e577a11cf12325aeba31cb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 08:52 UTC | #26805</small>]]></content>
+  </entry>
   <entry>
     <title>Caleb Software Details Migration From Claude Code to Pi</title>
     <link href="https://caleb.software/posts/claude-to-pi.html" rel="alternate" />
