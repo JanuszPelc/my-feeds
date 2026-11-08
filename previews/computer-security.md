@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Coldframe Honeypot Simulates Supermarket Refrigeration Controllers</h2>
+<a name="story-26799"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.staticscd.com%2Fuploads%2F176975%2Fcart%2Fresources%2F20251104%2F4940D7BF-E3DF-1616-BF41-010760F69B87.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Coldframe is a single-file Python honeypot designed to mimic internet-facing supermarket refrigeration supervisors, such as the Danfoss AK-SM 800A and Copeland/Dixell XWEB EVO. It simulates realistic web interfaces, login behaviors, and specific vulnerabilities to capture connection data, credential attempts, and public exploit payloads.</p><p>Operating with minimal dependencies, the tool includes configurable personas that replicate server headers, certificate attributes, and optional Modbus TCP services. It logs interactions to a JSON lines file and provides a summary script for analysis while keeping operations isolated and safe from executing malicious inputs.</p>
+<p>Nov 7 · <a href="https://github.com/hedgerow-dev/coldframe">github.com</a> | <a href="https://news.ycombinator.com/item?id=50406292">hacker news</a></p>
+<br clear="all" />
+
 <h2>Apiiro Examines Security Risks of Coding Agents Leaking Secrets on GitHub</h2>
 <a name="story-26796"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northdoor.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2FAI-Coding-Agents-infographic-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apiiro examines the security implications of AI coding agents inadvertently leaking sensitive credentials and secrets to platforms like GitHub. The post explores how automated development tools and agentic workflows can introduce new vulnerabilities when handling sensitive information without adequate guardrails.</p><p>The discussion highlights the challenges organizations face in securing AI-driven development environments where autonomous agents interact with code repositories. It underscores the need for robust control planes and security monitoring to prevent accidental data exposure during automated coding tasks.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26709"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIDFeAj1yEgk%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8%3D%26rs%3DAOn4CLC_vvGOad-ic5J3TVY642N3zjYwbw&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An essay published by The MIT Press Reader explores commons-based peer production, examining how decentralized volunteer communities construct and maintain critical online resources. It highlights projects such as Linux and Wikipedia as prime examples of collaborative systems that bypass traditional corporate and government hierarchies.</p><p>The concept of commons-based peer production describes large-scale, open-ended cooperative networks that operate independently of traditional market structures. These initiatives demonstrate how collective participation can successfully manage complex technical and informational projects on a global scale.</p>
 <p>Nov 6 · <a href="https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/">thereader.mitpress.mit.edu</a> | <a href="https://news.ycombinator.com/item?id=50388122">hacker news</a></p>
-<br clear="all" />
-
-<h2>Pwn.college Cybersecurity Education Platform Overview</h2>
-<a name="story-26699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpwn.college%2Fbelt%2Fwhite.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Pwn.college is an open, hands-on cybersecurity education platform developed and maintained by hackers at Arizona State University. Designed to teach core computing and hacking skills through practical challenges, the platform allows users worldwide to progress through a belt-ranking system while interacting directly with terminal environments.</p><p>The platform powers a significant portion of Arizona State University's cybersecurity curriculum while remaining freely accessible to global participants. To protect the integrity of its academic grading materials and challenge structures, the platform requests that users refrain from publishing public writeups, walkthrough videos, or livestreams of solutions.</p>
-<p>Nov 6 · <a href="https://pwn.college/">pwn.college</a> | <a href="https://news.ycombinator.com/item?id=50387796">hacker news</a></p>
 <br clear="all" />
 
 ---

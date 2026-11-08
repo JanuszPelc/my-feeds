@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-07T22:12:00+00:00</updated>
+  <updated>2026-11-07T22:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Coldframe Honeypot Simulates Supermarket Refrigeration Controllers</title>
+    <link href="https://github.com/hedgerow-dev/coldframe" rel="alternate" />
+    <id>https://github.com/hedgerow-dev/coldframe::v240</id>
+    <published>2026-11-07T22:48:00+00:00</published>
+    <updated>2026-11-07T22:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.staticscd.com%2Fuploads%2F176975%2Fcart%2Fresources%2F20251104%2F4940D7BF-E3DF-1616-BF41-010760F69B87.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/hedgerow-dev/coldframe">github.com</a> | <a href="https://news.ycombinator.com/item?id=50406292">hacker news</a></small></p><hr/><p>Coldframe is a single-file Python honeypot designed to mimic internet-facing supermarket refrigeration supervisors, such as the Danfoss AK-SM 800A and Copeland/Dixell XWEB EVO. It simulates realistic web interfaces, login behaviors, and specific vulnerabilities to capture connection data, credential attempts, and public exploit payloads.</p><p>Operating with minimal dependencies, the tool includes configurable personas that replicate server headers, certificate attributes, and optional Modbus TCP services. It logs interactions to a JSON lines file and provides a summary script for analysis while keeping operations isolated and safe from executing malicious inputs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.staticscd.com%2Fuploads%2F176975%2Fcart%2Fresources%2F20251104%2F4940D7BF-E3DF-1616-BF41-010760F69B87.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 06:35 UTC | #26799</small>]]></content>
+  </entry>
   <entry>
     <title>Apiiro Examines Security Risks of Coding Agents Leaking Secrets on GitHub</title>
     <link href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again" rel="alternate" />
