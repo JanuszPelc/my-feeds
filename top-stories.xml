@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-08T22:41:00+00:00</updated>
+  <updated>2026-11-08T23:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Hightouch Benchmarks LLM Judges for Identity Resolution</title>
+    <link href="https://hightouch.com/blog/llm-judges-identity-resolution" rel="alternate" />
+    <id>https://hightouch.com/blog/llm-judges-identity-resolution::v240</id>
+    <published>2026-11-08T23:28:00+00:00</published>
+    <updated>2026-11-08T23:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhightouch.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.sanity.io%252Fmedia-libraries%252Fmlxe9VfpyM52%252Fimages%252Fffae4175d740119dca77e91b5f8ecf682fbddc39-920x511.svg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://hightouch.com/blog/llm-judges-identity-resolution">hightouch.com</a> | <a href="https://news.ycombinator.com/item?id=50397429">hacker news</a></small></p><hr/><p>Hightouch evaluated smaller decision models like Jev and GPT-6 Luna against frontier models like Claude Opus to grade identity resolution results and detect over-merging in customer datasets. While decision models performed well out of the box at a fraction of the cost and execution time of frontier models, they struggled more with complex cases involving subtle data discrepancies or similar identities.</p><p>To bridge this performance gap, the testing demonstrated that a hybrid evaluation model combining Jev with Claude Opus could achieve frontier-level accuracy while lowering costs by more than four times. Because Jev maintained better-calibrated confidence scores compared to Luna, routing uncertain cases to a more powerful model allowed for cost-effective auditing at scale.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhightouch.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.sanity.io%252Fmedia-libraries%252Fmlxe9VfpyM52%252Fimages%252Fffae4175d740119dca77e91b5f8ecf682fbddc39-920x511.svg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 00:09 UTC | #26726 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>Federal Court Approves RealPage Antitrust Settlements Totaling Nearly $360 Million for Renters</title>
     <link href="https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/" rel="alternate" />
