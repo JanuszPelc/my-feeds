@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-07T18:09:00+00:00</updated>
+  <updated>2026-11-07T22:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>US Treasury Moves to Cut Off Crypto Exchange MEXC Over Alleged Illicit Flows</title>
+    <link href="https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows" rel="alternate" />
+    <id>https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows::v240</id>
+    <published>2026-11-07T22:46:00+00:00</published>
+    <updated>2026-11-07T22:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcoin360.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcdn.coin360.com%2F06ccce72_13d1_4f6b_b68d_1fd9b11ddee1_639fa343ab.webp%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows">coindesk.com</a></small></p><hr/><p>The U.S. Treasury has initiated steps to bar cryptocurrency exchange MEXC from the U.S. financial system, citing allegations that the platform processed more than $16 billion in illicit transactions. According to the enforcement action, these flows include funds linked to sanctions evasion efforts by entities in Russia and Iran.</p><p>The move represents a significant escalation in regulatory scrutiny directed at offshore digital asset platforms operating without strict compliance controls. MEXC faces mounting pressure as authorities target international exchanges facilitating transactions that bypass global financial restrictions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcoin360.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcdn.coin360.com%2F06ccce72_13d1_4f6b_b68d_1fd9b11ddee1_639fa343ab.webp%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 05:46 UTC | #26788</small>]]></content>
+  </entry>
   <entry>
     <title>Research Reveals Apple iPhone Predictive Text Restricts Over 100,000 Words and Phrases</title>
     <link href="https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you" rel="alternate" />
