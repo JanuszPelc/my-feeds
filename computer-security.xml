@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-08T08:22:00+00:00</updated>
+  <updated>2026-11-08T20:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Outlook.com Begins Rejecting Emails From Domains Without DMARC Records</title>
+    <link href="https://mailroute.net/blog/outlook-rejecting-email-without-dmarc" rel="alternate" />
+    <id>https://mailroute.net/blog/outlook-rejecting-email-without-dmarc::v240</id>
+    <published>2026-11-08T20:33:00+00:00</published>
+    <updated>2026-11-08T20:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.mdaemon.com%2Fhs-fs%2Fhubfs%2FDMARC.png%3Fwidth%3D1280%26height%3D720%26name%3DDMARC.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://mailroute.net/blog/outlook-rejecting-email-without-dmarc">mailroute.net</a> | <a href="https://news.ycombinator.com/item?id=50416158">hacker news</a></small></p><hr/><p>Since early November 2026, Microsoft's consumer email services—including Outlook.com, Hotmail, Live, and MSN—have begun rejecting emails from domains that lack a published DMARC record. Unlike previous rules targeting high-volume bulk senders, this enforcement affects low-volume and individual senders, causing intermittent message bounces without public announcements from Microsoft.</p><p>Affected domains typically receive a "550 5.7.1 Message rejected" error even if SPF and DKIM are properly configured. Because Microsoft only rejects a portion of mail from non-compliant domains, the issue often goes unnoticed by senders. The problem can be resolved by publishing a basic DMARC TXT record with a policy set to none, provided that SPF or DKIM aligns with the sender's From address.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mdaemon.com%2Fhs-fs%2Fhubfs%2FDMARC.png%3Fwidth%3D1280%26height%3D720%26name%3DDMARC.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 23:16 UTC | #26850</small>]]></content>
+  </entry>
   <entry>
     <title>Unconventional IPv4 Addressing and IDNA Mapping Quirks in getaddrinfo</title>
     <link href="https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/" rel="alternate" />
