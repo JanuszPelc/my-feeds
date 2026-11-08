@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T03:14:00+00:00</updated>
+  <updated>2026-11-08T03:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>OpenBSD Top Command Adds Flag to Display Chroot, Pledge, and Unveil Status</title>
+    <link href="https://undeadly.org/cgi?action=article;sid=20261106104957" rel="alternate" />
+    <id>https://undeadly.org/cgi?action=article;sid=20261106104957::v240</id>
+    <published>2026-11-08T03:16:00+00:00</published>
+    <updated>2026-11-08T03:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fmy-first-running-v0-inb2xhsqotnc1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D737fb67abd2f1a7cd960e9183303f4699e061708&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://undeadly.org/cgi?action=article;sid=20261106104957">undeadly.org</a> | <a href="https://marc.info/?l=openbsd-cvs&m=179390106687646&w=2">marc.info</a> | <a href="https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge">lobsters</a></small></p><hr/><p>OpenBSD has updated its top(1) command with a new -Q flag designed to display each process's utilization of chroot(2), pledge(2), and unveil(2) security facilities. Developed by Klemens Nanni, the feature replaces the TIME column in the utility's display with privilege state information to help system administrators easily track privilege-aware programs.</p><p>Previously, auditing privilege states required less ergonomic alternatives such as using ps(1) combined with tree-mode or watch(1). The addition provides a more direct monitoring tool for systems relying on OpenBSD's kernel-enforced security mitigations, requiring users to install a recent snapshot to access the functionality.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fmy-first-running-v0-inb2xhsqotnc1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D737fb67abd2f1a7cd960e9183303f4699e061708&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 09:37 UTC | #26806</small>]]></content>
+  </entry>
   <entry>
     <title>Kevin Boone Reflects on Borland Turbo Pascal 7 and Windows 3.1 Development</title>
     <link href="https://kevinboone.me/tpwin.html" rel="alternate" />
