@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T11:28:00+00:00</updated>
+  <updated>2026-11-08T11:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Examining Nondeterminism in the Futhark Programming Language</title>
+    <link href="https://futhark-lang.org/blog/2026-11-04-nondeterminism.html" rel="alternate" />
+    <id>https://futhark-lang.org/blog/2026-11-04-nondeterminism.html::v240</id>
+    <published>2026-11-08T11:33:00+00:00</published>
+    <updated>2026-11-08T11:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2F1216jmicro01-221124044524-d404c711%2F85%2FDESIGN-OF-DOUBLE-PRECISION-FLOATING-POINT-MULTIPLICATION-ALGORITHM-WITH-VECTOR-SUPPORT-2-638.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://futhark-lang.org/blog/2026-11-04-nondeterminism.html">futhark-lang.org</a> | <a href="https://lobste.rs/s/4lgvnf/nondeterminism_futhark">lobsters</a></small></p><hr/><p>The Futhark programming language blog examines the origins of nondeterminism within its parallel execution model, identifying two primary sources: language abuse through unsafe constructs like unchecked scatter operations, and floating-point roundoff errors caused by non-associative operations. While Futhark is generally characterized as a deterministic language, parallel reductions and scans alter the order of floating-point additions depending on hardware schedules, leading to replayable or approximate results.</p><p>Although fully deterministic implementations—such as tree-based summation—are possible, they incur significant performance penalties compared to hardware-optimized routines that rely on atomic instructions or backend-specific chunking. The post highlights that sacrificing strict determinism is a deliberate design choice required to maintain high performance on modern parallel hardware, balancing numerical consistency against execution speed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2F1216jmicro01-221124044524-d404c711%2F85%2FDESIGN-OF-DOUBLE-PRECISION-FLOATING-POINT-MULTIPLICATION-ALGORITHM-WITH-VECTOR-SUPPORT-2-638.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 16:38 UTC | #26828</small>]]></content>
+  </entry>
   <entry>
     <title>Rune Native GPU-Rendered Rust UI Framework</title>
     <link href="https://github.com/anomalyco/rune" rel="alternate" />
