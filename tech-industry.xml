@@ -3,9 +3,17 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-07T22:13:00+00:00</updated>
+  <updated>2026-11-08T08:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Environmental Groups Embrace Artificial Intelligence While Warning of Data Center Impacts</title>
+    <link href="https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/" rel="alternate" />
+    <id>https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/::v240</id>
+    <published>2026-11-08T08:23:00+00:00</published>
+    <updated>2026-11-08T08:23:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/">reuters.com</a></small></p><hr/><p>Environmental organizations worldwide are increasingly adopting artificial intelligence tools to support their conservation and climate efforts, utilizing the technology to analyze complex climate data, monitor forest fires, and track endangered wildlife populations.</p><p>At the same time, these groups continue to voice strong concerns regarding the environmental toll of the AI industry, pointing to the substantial energy and water consumption required to power and cool rapidly expanding data centers.</p><hr/><small>8 Nov 2026, 14:13 UTC | #26803</small>]]></content>
+  </entry>
   <entry>
     <title>Southeast Asia Datacentre Expansion Faces Delays Amid Resource and Regulatory Pressures</title>
     <link href="https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia" rel="alternate" />

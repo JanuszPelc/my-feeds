@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Environmental Groups Embrace Artificial Intelligence While Warning of Data Center Impacts</h2>
+<p>Environmental organizations worldwide are increasingly adopting artificial intelligence tools to support their conservation and climate efforts, utilizing the technology to analyze complex climate data, monitor forest fires, and track endangered wildlife populations.</p><p>At the same time, these groups continue to voice strong concerns regarding the environmental toll of the AI industry, pointing to the substantial energy and water consumption required to power and cool rapidly expanding data centers.</p>
+<p>Nov 8 · <a href="https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Southeast Asia Datacentre Expansion Faces Delays Amid Resource and Regulatory Pressures</h2>
 <a name="story-26783"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmssb-media.xcms.io%2Fpublisher-c1a3f893382d2b2f8a9aa22a654d9c97%2F2025%2F09%2Fe6c395837ded68f038ef4a33257eabd0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Southeast Asian nations, including Thailand and Indonesia, have paused or tightened approvals for numerous datacentre projects as a surge in artificial intelligence infrastructure strains local resources. Driven by rapid growth in the Asia-Pacific region, countries across the region are confronting severe challenges related to heavy electricity consumption and high water usage for cooling facilities.</p><p>While hubs like Malaysia's Johor state have attracted massive investments, local communities and authorities are increasingly pushing back due to environmental concerns, grid bottlenecks, and strained water reservoirs. In response, governments are implementing stricter regulatory frameworks, higher utility tariffs, and resource-efficiency mandates to manage the rapid expansion.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26665"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.fastcompany.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fwp-cms-2%2F2025%2F02%2Fi-91286859-tiktok-web-browser_6ade9c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The European Commission has issued preliminary findings that TikTok violated the Digital Services Act (DSA) by using recommendation algorithms that drive users into "rabbit holes" of harmful content. The investigation found that TikTok's "For You" feed can repeatedly present users with videos related to sadness, self-harm, and body image issues based on implicit engagement signals.</p><p>This marks the first time EU regulators have directly challenged the engagement-based recommendation models of a major social media platform. If these findings are confirmed, TikTok faces potential fines of up to 6% of its annual global revenue.</p>
 <p>Nov 6 · <a href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation">therecord.media</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361">ec.europa.eu</a> | <a href="https://news.ycombinator.com/item?id=50400672">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nvidia Requires Chip Tracking for Southeast Asian Cloud Partners</h2>
-<a name="story-26662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fetimg.etb2bimg.com%2Fthumb%2Fmsid-130957243%2Cimgsize-66990%2Cwidth-1200%2Cheight%3D627%2Coverlay-ettelecom%2Cresizemode-75%2Fdevices%2Fus-investigates-nvidia-chip-smuggling-to-china-via-thailands-obon-corp.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia is requiring Southeast Asian cloud service providers seeking Nvidia Cloud Partner status to enroll in a tracking program that logs the physical locations of their AI accelerators. The measure is designed to monitor semiconductor deployments and curtail unauthorized smuggling into restricted markets.</p><p>The monitoring system utilizes GPU telemetry and confidential computing to track chip locations within regional data centers. This initiative comes as tech companies and regulators face mounting pressure to prevent high-performance AI hardware from being diverted through intermediary countries.</p>
-<p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
