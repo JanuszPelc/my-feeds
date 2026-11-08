@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-08T12:44:00+00:00</updated>
+  <updated>2026-11-08T14:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>OpenStick $10 Homelab Setup and Software Stack</title>
+    <link href="https://blog.bosscher.ch/posts/openstick/" rel="alternate" />
+    <id>https://blog.bosscher.ch/posts/openstick/::v240</id>
+    <published>2026-11-08T14:02:00+00:00</published>
+    <updated>2026-11-08T14:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.bosscher.ch%2F_astro%2Fopenstick.nDFavhOI_1HBuYF.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.bosscher.ch/posts/openstick/">blog.bosscher.ch</a> | <a href="https://news.ycombinator.com/item?id=50406670">hacker news</a></small></p><hr/><p>Developer Laurens Bosscher details a lightweight homelab configuration built around a 10-dollar OpenStick hardware device featuring 512 MB of RAM, four ARM Cortex-A53 cores, and 4 GB of eMMC flash running Debian. Despite its modest specifications and zero noise, the passively cooled device runs a full suite of containerized self-hosted services managed via Podman.</p><p>The software stack includes low-resource utilities such as CastSponsorSkip for YouTube sponsorship filtering, a custom fork of AdGuard Home for DNS-level ad blocking, Zeroclaw as an AI agent harness communicating through Telegram, and Cloudflare Tunnel for secure external access without exposed ports. Additional monitoring, management, and productivity tools like Beszel, Dozzle, Gatus, Fusion RSS, Shiori, and Diun operate efficiently within the hardware's strict memory constraints.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.bosscher.ch%2F_astro%2Fopenstick.nDFavhOI_1HBuYF.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 22:28 UTC | #26785 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>University of Würzburg Chemists Isolate Stable Oxoboranes After 60 Years</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261103003205.htm" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-08T03:17:00+00:00</updated>
+  <updated>2026-11-08T08:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Leaked Documents Show Cisco Maintained and Expanded Israeli Military Deals During Gaza War</title>
+    <link href="https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine" rel="alternate" />
+    <id>https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine::v240</id>
+    <published>2026-11-08T08:21:00+00:00</published>
+    <updated>2026-11-08T08:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50407551">hacker news</a></small></p><hr/><p>Leaked internal documents reveal that multinational tech conglomerate Cisco worked to repair and expand its technological infrastructure contracts with the Israeli military following technical outages during the war in Gaza. Israel’s military intelligence contracts generated approximately $67m over three years, while Cisco subsidiary Splunk also sought to join the controversial cloud computing project known as Project Nimbus.</p><p>The disclosures have intensified internal dissent among Cisco employees, with worker advocacy groups accusing the company of contradicting its corporate ethics and acting as an instrument of military operations. The controversy coincides with a shareholder push for an independent human rights assessment and follows a recent Equal Employment Opportunity Commission finding regarding a hostile work environment for Palestinian, Arab, and Muslim employees at the company.</p><hr/><small>8 Nov 2026, 13:56 UTC | #26802</small>]]></content>
+  </entry>
   <entry>
     <title>Calder McHugh and Alec Hernandez on How Artificial Intelligence Became a Major Issue in the 2026 Midterms</title>
     <link href="https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312" rel="alternate" />

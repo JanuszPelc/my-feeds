@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-08T03:49:00+00:00</updated>
+  <updated>2026-11-08T08:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Unconventional IPv4 Addressing and IDNA Mapping Quirks in getaddrinfo</title>
+    <link href="https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/" rel="alternate" />
+    <id>https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/::v240</id>
+    <published>2026-11-08T08:22:00+00:00</published>
+    <updated>2026-11-08T08:22:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/">acid.vegas</a> | <a href="https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50391878">hacker news</a></small></p><hr/><p>An analysis of glibc's getaddrinfo implementation demonstrates how combining the AI_IDN flag with UTS #46 Unicode mapping enables unorthodox characters—including mathematical alphabets, fullwidth digits, circled numbers, and invisible spaces—to translate into valid IPv4 addresses. Because Internationalized Domain Name conversion executes prior to the numeric address parser, various non-standard formats, mixed bases, and lookalike strings successfully resolve to standard IP destinations.</p><p>This behavior exposes vulnerabilities in security mechanisms such as SSRF filters, blocklists, and input validators that inspect raw strings instead of resolved endpoints. Attackers can exploit these parsing discrepancies and URL formatting conventions to disguise malicious destinations behind familiar domains or seemingly inert text, highlighting the importance of verifying fully resolved IP addresses rather than raw string inputs.</p><hr/><small>8 Nov 2026, 14:02 UTC | #26819</small>]]></content>
+  </entry>
   <entry>
     <title>Josh Bressers Advocates for Public Vulnerability Disclosure Policies in Open Source</title>
     <link href="https://opensourcesecurity.io/2026/10-embargo/" rel="alternate" />
