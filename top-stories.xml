@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-08T18:05:00+00:00</updated>
+  <updated>2026-11-08T20:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Apple Saved $2.7 Billion in Taxes via Singapore Disclosures Show</title>
+    <link href="https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede" rel="alternate" />
+    <id>https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede::v240</id>
+    <published>2026-11-08T20:57:00+00:00</published>
+    <updated>2026-11-08T20:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fcba7541e-fa92-11e5-b3f6-11d5706b613b%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede">ft.com</a></small></p><hr/><p>Apple saved $2.7 billion in taxes this year by routing up to $50 billion in profits through Singapore, surpassing the $2.6 billion saved via Ireland. Singapore has thus overtaken Ireland as the iPhone maker's largest tax shelter, according to recent corporate disclosures.</p><p>The shift highlights how multinational corporations adapt their profit-routing structures in response to changing international tax landscapes and regulatory pressures, particularly as traditional European havens face heightened scrutiny.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fcba7541e-fa92-11e5-b3f6-11d5706b613b%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 12:56 UTC | #26798 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Asahi Linux Details Apple Silicon Upstreaming and M3 Support in Linux 7.3 Progress Report</title>
     <link href="https://asahilinux.org/2026/11/progress-report-7-3/" rel="alternate" />
