@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T17:51:00+00:00</updated>
+  <updated>2026-11-08T18:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Goldman Sachs Restricts Claude Code Access to Engineers</title>
+    <link href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers" rel="alternate" />
+    <id>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers::v240</id>
+    <published>2026-11-08T18:17:00+00:00</published>
+    <updated>2026-11-08T18:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Finfosecbulletin.com%2Fwp-content%2Fuploads%2F2026%2F04%2F47-1536x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">thestateofai.com</a> | <a href="https://www.fa-mag.com/news/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-89026.html">fa-mag.com</a> | <a href="https://news.ycombinator.com/item?id=50415628">hacker news</a></small></p><hr/><p>Goldman Sachs has updated its internal guidance to restrict Anthropic's Claude Code and Microsoft's GitHub coding agents exclusively to its software engineers, cutting off traders and bankers who previously used the tools for tasks like market modeling and tracking client flows. The policy change reverses earlier internal encouragement of non-technical staff building custom tools and addresses growing concerns over unreviewed code, information barriers, and operational risks on trading desks.</p><p>The restriction follows similar measures taken across the financial sector regarding autonomous third-party coding tools, even as Goldman Sachs maintains a close commercial relationship with Anthropic and serves as a lead underwriter for its upcoming IPO. While quantitative researchers and software engineers retain full access to the coding agents, non-technical employees must now rely on approved internal platforms that incorporate stricter compliance controls.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Finfosecbulletin.com%2Fwp-content%2Fuploads%2F2026%2F04%2F47-1536x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 19:45 UTC | #26838</small>]]></content>
+  </entry>
   <entry>
     <title>systemd Integrates Rust Support for Leaf Components</title>
     <link href="https://amutable.com/blog/systemd-loves-rust" rel="alternate" />
