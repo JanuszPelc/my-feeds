@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-08T18:23:00+00:00</updated>
+  <updated>2026-11-08T20:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Iain Kay Releases 'Ram Altman' Linux Script to Monitor Unused RAM</title>
+    <link href="https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/" rel="alternate" />
+    <id>https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/::v240</id>
+    <published>2026-11-08T20:30:00+00:00</published>
+    <updated>2026-11-08T20:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Frespawnfirst.com%2Fwp-content%2Fuploads%2F2026%2F11%2FRam-idle-sam-altman-849x1080.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/">respawnfirst.com</a> | <a href="https://github.com/IainKay/ram-altman">github.com</a> | <a href="https://news.ycombinator.com/item?id=50415172">hacker news</a></small></p><hr/><p>Open-source developer Iain Kay has created a BASH script for Linux systems called "Ram Altman" that monitors a computer's idle RAM and sends automated reports. The script uses a rotating bank of sarcastic email templates to notify recipients when a system's unused memory exceeds ten percent, mocking recent comments by OpenAI CEO Sam Altman regarding AI infrastructure resource needs.</p><p>Designed with built-in safeguards, the repository features a dry-run flag and local test suite to prevent accidental mail-spoofing or denial-of-service issues against external servers. The project emerged following widespread public backlash against Altman's statements prioritizing AI data center resource consumption over consumer hardware availability.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Frespawnfirst.com%2Fwp-content%2Fuploads%2F2026%2F11%2FRam-idle-sam-altman-849x1080.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 21:57 UTC | #26847</small>]]></content>
+  </entry>
   <entry>
     <title>LoreKit Blog: AI Agent Memory Needs an OpenTelemetry-Style Standard</title>
     <link href="https://www.lorekit.io/blog/open-agent-memory-format" rel="alternate" />
@@ -292,23 +301,5 @@
     <updated>2026-11-03T22:42:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.huggingnews.com%2Fstory-media%2F2117517772041158981%2FHWLvJ8eXQAA6RUc-small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/">techcrunch.com</a> | <a href="https://www.anthropic.com/research/provable-inference">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50348831">hacker news</a></small></p><hr/><p>Anthropic has released FlashProve, an open-source research prototype designed to provide cryptographic proof that a specific AI model produced a given output. Using "provable inference," the system allows users to mathematically verify a model's identity without requiring the disclosure of the model's private weights.</p><p>This technology aims to prevent providers from swapping high-end models for cheaper versions to cut costs or using more expensive models to falsely inflate performance results. It could also enable third parties to verify claims that specific tasks were completed using frontier models. Anthropic has released technical specifications and working code as part of this ongoing research effort.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.huggingnews.com%2Fstory-media%2F2117517772041158981%2FHWLvJ8eXQAA6RUc-small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 03:48 UTC | #26353</small>]]></content>
-  </entry>
-  <entry>
-    <title>CrowdStrike Launches AI Kill Switch to Control Rogue Agents</title>
-    <link href="https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html::v240</id>
-    <published>2026-11-03T21:51:00+00:00</published>
-    <updated>2026-11-03T21:51:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fcrowdstrike-adds-ai-kill-switch-to-falcon-guardian-for-rogue-agents.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html">cnbc.com</a> | <a href="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-introduces-ai-kill-switch-for-ai-safety/">crowdstrike.com</a></small></p><hr/><p>CrowdStrike has launched an AI kill switch within its Falcon Guardian platform, allowing security teams to terminate rogue AI agents and block their enterprise network access. The tool functions as a digital circuit breaker that requires human intervention to cut off an agent's access to the AI models influencing its decisions without deleting the agent's underlying code.</p><p>The announcement follows high-profile cyberattacks and discussions regarding bipartisan U.S. legislation that would mandate shutdown capabilities in AI models. To bolster its AI security ecosystem, CrowdStrike also announced plans to acquire observability startup Fiddler AI and security testing firm Dreadnode.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fcrowdstrike-adds-ai-kill-switch-to-falcon-guardian-for-rogue-agents.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 03:32 UTC | #26338</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Opens Siri AI to Developers in iOS 27.3 Beta</title>
-    <link href="https://developer.apple.com/news/?id=gdk2umrf" rel="alternate" />
-    <id>https://developer.apple.com/news/?id=gdk2umrf::v240</id>
-    <published>2026-11-03T21:50:00+00:00</published>
-    <updated>2026-11-05T20:29:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fanalyticsinsight%2F2026-06-10%2Fd0122r07%2FHow-to-Get-Apples-New-Siri-AI-in-iOS-27-Easy-Guide.jpg%3Fw%3D1200%26auto%3Dformat%2Ccompress%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://developer.apple.com/news/?id=gdk2umrf">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50373879">hacker news</a></small></p><hr/><p>Apple has released a Developer Preview for Siri AI, allowing developers to integrate their apps with the assistant using App Intents. Available in the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, the feature enables apps to surface content and actions through natural language, onscreen awareness, and personal context understanding.</p><p>The preview allows developers to build and refine experiences before App Store submission opens in the spring. Supported languages currently include English, French, Japanese, Korean, Portuguese, and Spanish, though the feature is unavailable in the EU and requires Apple Intelligence-compatible hardware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fanalyticsinsight%2F2026-06-10%2Fd0122r07%2FHow-to-Get-Apples-New-Siri-AI-in-iOS-27-Easy-Guide.jpg%3Fw%3D1200%26auto%3Dformat%2Ccompress%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 03:20 UTC | #26337</small>]]></content>
   </entry>
 </feed>

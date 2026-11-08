@@ -470,13 +470,4 @@
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F88%2F96%2Fc5%2F8896c504174ab44cfe0a53db689fe177.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://hackertv.org">hackertv.org</a> | <a href="https://news.ycombinator.com/item?id=50346755">hacker news</a></small></p><hr/><p>HackerTV features continuous 24/7 video broadcasts based on content recommended by users on Hacker News. The service maintains a consistent broadcast schedule for all viewers across various channels.</p><p>Developed by Danny Salzman, the platform's catalog is seeded from HackerTube and built using the Hacker News archive. Content is updated weekly by filtering new HN comments through the HN Search API.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F88%2F96%2Fc5%2F8896c504174ab44cfe0a53db689fe177.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 06:28 UTC | #26376</small>]]></content>
   </entry>
-  <entry>
-    <title>Kitty Terminal Emulator Releases Version 0.50.0</title>
-    <link href="https://sw.kovidgoyal.net/kitty/changelog/#id1" rel="alternate" />
-    <id>https://sw.kovidgoyal.net/kitty/changelog/#id1::v240</id>
-    <published>2026-11-03T21:49:00+00:00</published>
-    <updated>2026-11-04T07:02:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://sw.kovidgoyal.net/kitty/changelog/#id1">sw.kovidgoyal.net</a> | <a href="https://lobste.rs/s/gwyv50/kitty_0_50_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50359709">hacker news</a></small></p><hr/><p>Kitty version 0.50.0 introduces window docking to edges, session restoration after logout, and Wayland improvements including native decorations and touchscreen support. New custom shaders allow for particle effects controlled by key presses, and the terminal now supports the Program Status Protocol.</p><p>Updates include tab-based workspace functionality, automatic system-wide color theme switching, and improved layout border alignment. Performance optimizations were added for the GPU sprite cache and general rendering.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.terminaltrove.com%2Fm%2F02338020-b38b-4c14-b6da-4bf466607010.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 02:53 UTC | #26366</small>]]></content>
-  </entry>
 </feed>
