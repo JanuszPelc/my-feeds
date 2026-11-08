@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-08T03:47:00+00:00</updated>
+  <updated>2026-11-08T11:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Sandia National Laboratories Study Shows Asteroid Shape Alters Nuclear Deflection Success</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261106174532.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261106174532.htm::v240</id>
+    <published>2026-11-08T11:26:00+00:00</published>
+    <updated>2026-11-08T11:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.telegraphindia.com%2Ftelegraph%2F2024%2FSep%2F1727223146_new-project-2024-09-25t051340-452.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261106174532.htm">sciencedaily.com</a> | <a href="https://newsreleases.sandia.gov/asteroid-defense-hits-a-lump-in-the-road/">newsreleases.sandia.gov</a></small></p><hr/><p>Researchers at Sandia National Laboratories have developed a new computer model to simulate asteroid deflection using nuclear X-ray bursts while accounting for irregular, non-spherical shapes. Published in the journal Icarus, the study reveals that the direction of a nuclear blast can cause up to a fivefold difference in deflection velocity and a seventeenfold difference in rotational changes depending on an asteroid's specific surface geometry.</p><p>Previous models typically treated asteroids as spheres to simplify calculations, overlooking how real-world surface irregularities alter physical responses to radiation. While the enhanced simulation tool significantly improves prediction speed and accuracy, researchers note that further development is required to model complete asteroid fragmentation and overcome the logistical challenges of precise in-space targeting.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.telegraphindia.com%2Ftelegraph%2F2024%2FSep%2F1727223146_new-project-2024-09-25t051340-452.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 15:21 UTC | #26810</small>]]></content>
+  </entry>
   <entry>
     <title>European XFEL Researchers Achieve Record-Breaking X-Ray Intensity</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261104012329.htm" rel="alternate" />
