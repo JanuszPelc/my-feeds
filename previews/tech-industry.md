@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Purchases 1.7GW of Gas-Fired Generators in $3.4 Billion Deal</h2>
+<a name="story-26822"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techflowpost.com%2Ffavicon%2Ftwitter-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence lab Anthropic has agreed to purchase commitments for 1.7 gigawatts of gas-fired power generation equipment from supplier OnePWR for $3.4 billion. The transaction represents the largest known procurement of power hardware by an artificial intelligence company as the sector grapples with severe energy constraints for expanding data centers.</p><p>By bypassing traditional utility suppliers to secure dedicated generation capacity, Anthropic underscores the extreme power demands required to train and operate advanced AI models. The deal exemplifies a wider strategy among major tech firms seeking direct ownership and control of energy infrastructure to circumvent overloaded public power grids.</p>
+<p>Nov 8 · <a href="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50412760">hacker news</a></p>
+<br clear="all" />
+
 <h2>NVIDIA Board of Directors Initiates Independent Investigation Involving CEO Jensen Huang</h2>
 <a name="story-26845"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F89d109cd-caa2-4844-a77e-6d19af37e389.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The NVIDIA Board of Directors is initiating an independent investigation following recent reports that co-founder and CEO Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors, assisted by outside counsel, will oversee the inquiry to examine all available information regarding the matter.</p><p>While the board states it has no reason to believe that national security or NVIDIA secrets were compromised, it emphasizes that U.S. national and economic security remains a top priority. Jensen Huang fully supports the review and is cooperating with the board as the investigation proceeds.</p>
@@ -23,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>SemiAnalysis Visits Envision Galaxy AI Datacenter Campus in Inner Mongolia</h2>
 <a name="story-26809"><img src="https://wsrv.nl/?url=https%3A%2F%2Funbiasedheadlines.com%2Fimages%2Farticles%2Fchina-opens-2-gigawatt-ai-data-center-in-inner-mongolia-built-to-run-1-million-gpus.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers from SemiAnalysis toured the Galaxy AI datacenter campus in Ulanqab, Inner Mongolia, a gigawatt-scale project developed by renewable energy company Envision Group. Planned for up to 800 megawatts of IT capacity, the campus integrates dedicated wind generation, solid-state transformers, and local battery storage to supply low-cost power for artificial intelligence infrastructure.</p><p>The facility operates under a source-grid-load-storage model, linking wind farms directly to the datacenter via dedicated power lines to secure fixed-cost green energy. Envision's deep vertical integration—manufacturing its own wind turbines, power electronics, and battery systems—reflects a broader trend among industrial firms in China entering the AI infrastructure sector.</p>
-<p>Nov 8 · <a href="https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner">newsletter.semianalysis.com</a></p>
+<p>Nov 8 · <a href="https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner">newsletter.semianalysis.com</a> | <a href="https://news.ycombinator.com/item?id=50411720">hacker news</a></p>
 <br clear="all" />
 
 <h2>Environmental Groups Embrace Artificial Intelligence While Warning of Data Center Impacts</h2>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26706"><img src="https://wsrv.nl/?url=https%3A%2F%2Fculturemosaic.co.uk%2Fwp-content%2Fuploads%2F2025%2F10%2FGenerated-image-1131-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>On an episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Sean O’Kane, and Anthony Ha discuss how the results of the U.S. midterm elections could impact the tech and artificial intelligence sectors. The discussion highlights the outcome of data center-related ballot measures, where voters overwhelmingly imposed new restrictions on development, alongside expectations that newly elected officials will pursue stricter oversight of Big Tech.</p><p>The episode also examines several major industry developments, including Google's satellite data center test, recent layoffs at Canva and Squarespace, Marvell’s multi-billion-dollar acquisition of Lumentum, and CrowdStrike's purchases of AI security startups. Additionally, the hosts touch on media investments, such as NBCUniversal funding Indian microdrama platform Elo Elo, offering a comprehensive look at current intersections of politics, market adjustments, and emerging technologies.</p>
 <p>Nov 6 · <a href="https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>TSMC Weighs Advanced Memory Chip Production Amid AI Demand</h2>
-<a name="story-26683"><img src="https://wsrv.nl/?url=https%3A%2F%2Fevertiq.com%2Fnimg%2FChip%2Fnvidia_tsmc_chip_design.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Taiwan Semiconductor Manufacturing Co. is considering expanding into the production of 3D DRAM chips in response to requests from Nvidia. The potential move comes as major technology companies grapple with persistent memory chip shortages driven by surging demand for artificial intelligence infrastructure.</p><p>Entering the advanced memory sector would allow TSMC to capture a larger share of AI-related hardware spending and deepen its supply chain relationships. The initiative reflects broader industry pressures where soaring requirements for high-bandwidth memory are testing existing semiconductor manufacturing capacities.</p>
-<p>Nov 6 · <a href="https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending">theinformation.com</a></p>
 <br clear="all" />
 
 ---

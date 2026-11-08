@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-08T20:27:00+00:00</updated>
+  <updated>2026-11-08T22:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Anthropic Purchases 1.7GW of Gas-Fired Generators in $3.4 Billion Deal</title>
+    <link href="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0" rel="alternate" />
+    <id>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0::v240</id>
+    <published>2026-11-08T20:31:00+00:00</published>
+    <updated>2026-11-08T20:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.techflowpost.com%2Ffavicon%2Ftwitter-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50412760">hacker news</a></small></p><hr/><p>Artificial intelligence lab Anthropic has agreed to purchase commitments for 1.7 gigawatts of gas-fired power generation equipment from supplier OnePWR for $3.4 billion. The transaction represents the largest known procurement of power hardware by an artificial intelligence company as the sector grapples with severe energy constraints for expanding data centers.</p><p>By bypassing traditional utility suppliers to secure dedicated generation capacity, Anthropic underscores the extreme power demands required to train and operate advanced AI models. The deal exemplifies a wider strategy among major tech firms seeking direct ownership and control of energy infrastructure to circumvent overloaded public power grids.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techflowpost.com%2Ffavicon%2Ftwitter-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 22:09 UTC | #26822</small>]]></content>
+  </entry>
   <entry>
     <title>NVIDIA Board of Directors Initiates Independent Investigation Involving CEO Jensen Huang</title>
     <link href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors" rel="alternate" />
@@ -29,9 +38,9 @@
     <link href="https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner" rel="alternate" />
     <id>https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner::v240</id>
     <published>2026-11-08T12:57:00+00:00</published>
-    <updated>2026-11-08T12:57:00+00:00</updated>
+    <updated>2026-11-08T22:09:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Funbiasedheadlines.com%2Fimages%2Farticles%2Fchina-opens-2-gigawatt-ai-data-center-in-inner-mongolia-built-to-run-1-million-gpus.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner">newsletter.semianalysis.com</a></small></p><hr/><p>Researchers from SemiAnalysis toured the Galaxy AI datacenter campus in Ulanqab, Inner Mongolia, a gigawatt-scale project developed by renewable energy company Envision Group. Planned for up to 800 megawatts of IT capacity, the campus integrates dedicated wind generation, solid-state transformers, and local battery storage to supply low-cost power for artificial intelligence infrastructure.</p><p>The facility operates under a source-grid-load-storage model, linking wind farms directly to the datacenter via dedicated power lines to secure fixed-cost green energy. Envision's deep vertical integration—manufacturing its own wind turbines, power electronics, and battery systems—reflects a broader trend among industrial firms in China entering the AI infrastructure sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Funbiasedheadlines.com%2Fimages%2Farticles%2Fchina-opens-2-gigawatt-ai-data-center-in-inner-mongolia-built-to-run-1-million-gpus.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 18:03 UTC | #26809</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner">newsletter.semianalysis.com</a> | <a href="https://news.ycombinator.com/item?id=50411720">hacker news</a></small></p><hr/><p>Researchers from SemiAnalysis toured the Galaxy AI datacenter campus in Ulanqab, Inner Mongolia, a gigawatt-scale project developed by renewable energy company Envision Group. Planned for up to 800 megawatts of IT capacity, the campus integrates dedicated wind generation, solid-state transformers, and local battery storage to supply low-cost power for artificial intelligence infrastructure.</p><p>The facility operates under a source-grid-load-storage model, linking wind farms directly to the datacenter via dedicated power lines to secure fixed-cost green energy. Envision's deep vertical integration—manufacturing its own wind turbines, power electronics, and battery systems—reflects a broader trend among industrial firms in China entering the AI infrastructure sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Funbiasedheadlines.com%2Fimages%2Farticles%2Fchina-opens-2-gigawatt-ai-data-center-in-inner-mongolia-built-to-run-1-million-gpus.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 18:03 UTC | #26809</small>]]></content>
   </entry>
   <entry>
     <title>Environmental Groups Embrace Artificial Intelligence While Warning of Data Center Impacts</title>
