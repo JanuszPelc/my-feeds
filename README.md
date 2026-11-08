@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/tech-policy.png" width="28" align="texttop" /> &nbsp;Hungary Opens Communist-Era Secret Service Files and Releases Names of Former Agents</h2>
+<a name="story-26765"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.politico.eu%2Fcdn-cgi%2Fimage%2Fwidth%3D1160%2Cheight%3D747%2Cquality%3D80%2Conerror%3Dredirect%2Cformat%3Dauto%2Fwp-content%2Fuploads%2F2026%2F11%2F04%2FGettyImages-2299469363-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hungary has launched an online public database granting unrestricted access to communist-era state security records for the first time since the 1990 democratic transition. The newly accessible portal makes searchable the names and registration details of an estimated 50,000 to 60,000 former informants and agents from the one-party communist era.</p><p>The initiative follows a bill introduced by Prime Minister Peter Magyar in September to lift decades of restrictions that critics argued enabled political blackmail and secrecy. While the release includes names of politicians, clergy, and public figures, historians and officials note that the files are incomplete and urge the public to approach the sensitive historical records with caution and nuance.</p>
+<p>Nov 8 · <a href="https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed">euronews.com</a> | <a href="https://news.ycombinator.com/item?id=50383163">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;Need for Speed: Underground 2 Browser Port Now Available</h2>
 <a name="story-26764"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Underground 2 Revived is a fan-made project that runs the 2004 PC racing game Need for Speed: Underground 2 directly in web browsers such as Chrome and Firefox. The port uses static WebAssembly recompilation to execute the original x86 game code, supporting widescreen resolutions up to 120 frames per second via WebGPU, along with standard peripherals like controllers, steering wheels, and touch controls.</p><p>The unofficial release features online multiplayer capabilities, including shared free-roam sessions and races with other players. Developed as a free browser-based experience with no microtransactions or paid perks, the project requires users to provide their own game files and includes built-in state saving through the in-game garage menu.</p>
@@ -100,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWYa5p6aAAASBIq%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has redacted a significant portion of the most informative evidence from a 100-page assessment report submitted by METR. The evaluation was designed to determine the extent to which AI is accelerating AI research and development within Anthropic.</p><p>The redactions in the public version mean that readers must rely on METR's judgment rather than the raw data to interpret the findings. The assessment focused on whether Anthropic's internal capability growth has accelerated and how much of that acceleration is attributable to AI.</p>
 <p>Nov 6 · <a href="https://x.com/metr_evals">x.com</a> | <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">metr.org</a> | <a href="https://news.ycombinator.com/item?id=50383902">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;Kagi Search Updates Bring Free Trial Searches and Android Redesign</h2>
-<a name="story-26620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fus.v-cdn.net%2F6036147%2Fuploads%2F3SRL2KVBUUEG%2Fkagi.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kagi Search has updated its platform to allow non-registered users to perform up to 50 web searches without creating an account. The November 2026 release also introduces a redesigned home screen, rebuilt voice search, and new widgets for its Android application, alongside various performance improvements and bug fixes.</p><p>Additional updates span Kagi Assistant, Kagi News, and Kagi Translate, featuring improved voice input controls, clearer temporary thread indicators, and expanded language support. The release follows Kagi News being featured on Google Play and coincides with company commentary regarding school software policies.</p>
-<p>Nov 6 · <a href="https://kagi.com/changelog">kagi.com</a> | <a href="https://news.ycombinator.com/item?id=50383740">hacker news</a></p>
 <br clear="all" />
 
 ---
