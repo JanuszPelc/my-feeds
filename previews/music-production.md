@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Tinyant Releases Purpl Free Chorus and Shimmer Reverb Plugin</h2>
+<a name="story-26815"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPR1mfChU4FI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Anant of tinyant has released Purpl, a free chorus and shimmer reverb audio plugin designed for Windows and Linux systems. Built over the course of a year without the use of artificial intelligence tools, the plugin combines a chorus effect with a reactive shimmer reverb tail.</p><p>Purpl includes specialized controls such as Day and Night buttons that alter the pitch and tail characteristics of the shimmer effect, alongside a Bloom feature that responds to sustained notes. Additional parameters include Breathe for ducking the wet signal and Burn for adding crunch, with the plugin available in VST3 and CLAP formats.</p>
+<p>Nov 8 · <a href="https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/">bedroomproducersblog.com</a> | <a href="https://tinyantproductions.com/purpl">tinyantproductions.com</a></p>
+<br clear="all" />
+
 <h2>Flame Sound Launches Black Friday Sale with Everything Bundle for $49</h2>
 <a name="story-26754"><img src="https://wsrv.nl/?url=https%3A%2F%2Fflamesound.com%2Fimages%2Fvatra%2Fvatra-render-front.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Flame Sound has launched its 2026 Black Friday sale, running from November 6 through December 1, offering discounted pricing across its audio plugins and sound libraries. Key promotions include the VATRA mix finisher plugin reduced to $39 and an Everything Bundle priced at $49.</p><p>The Everything Bundle combines VATRA with six sound libraries—Inferno, Firestarter, Heatwave, Human Voices, Fureimu, and Pyro—providing a combined value of $361. Additional discounts include the Ultimate Cinematic Bundle for $29 and the Firestarter library for $9, with all offers expiring on December 1, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26663"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTake-5-The-Search-For-Sound.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Producer Chuck Sutton has released Take 5: The Search For Sound, a five-minute audio-driven game built inside Ableton Live. Designed to help musicians break through creative blocks, the game completely removes visuals, immersing players in a non-visual sonic landscape where they explore environments, defeat enemies, and solve rhythmic puzzles using a keyboard or controller.</p><p>Conceived during an overnight flight when looking at a screen was impractical, the game generates unexpected melodies, synth sounds, and MIDI tracks as players navigate by sound alone. It aims to spark fresh musical ideas quickly before users return to their primary production projects, and is available now for $25.</p>
 <p>Nov 6 · <a href="https://musictech.com/news/music/take-5-five-the-search-for-sound-ableton-live-game/">musictech.com</a> | <a href="https://takefive.quest/">takefive.quest</a></p>
-<br clear="all" />
-
-<h2>FMJ-Software Releases Awave Studio v12.17</h2>
-<a name="story-26653"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fawmain.1773337690.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>FMJ-Software has released version 12.17 of Awave Studio, an audio editor and format converter for sampled instruments and various audio file types. This maintenance release focuses primarily on bug fixes across the software's support for more than 400 different file formats.</p><p>In addition to format fixes, the update improves the overall stability of the built-in software synthesizer. Awave Studio functions as a multi-purpose tool capable of reading and converting a wide variety of audio formats from different platforms and hardware devices.</p>
-<p>Nov 6 · <a href="https://www.kvraudio.com/news/fmj-software-updates-awave-studio-to-v12-17-69670?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69670">kvraudio.com</a> | <a href="https://www.fmjsoft.com/awavestudio.html">fmjsoft.com</a></p>
 <br clear="all" />
 
 ---
