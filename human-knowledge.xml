@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-09T05:33:00+00:00</updated>
+  <updated>2026-11-09T09:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>NASA Details Artemis Program Updates for 2028 Lunar Landing Mission</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261108233054.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261108233054.htm::v240</id>
+    <published>2026-11-09T09:14:00+00:00</published>
+    <updated>2026-11-09T09:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fscitechdaily.com%2Fimages%2FArtemis-IV-Mission-Map-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261108233054.htm">sciencedaily.com</a> | <a href="https://www.nasa.gov/humans-in-space/artemis/">nasa.gov</a></small></p><hr/><p>NASA has outlined updated plans for the Artemis program, aiming to return American astronauts to the Moon by 2028 under the Artemis IV mission. The revised strategy involves an Earth-orbit test flight designated Artemis III in 2027, where four astronauts will dock with prototype lunar landers developed by SpaceX and Blue Origin.</p><p>The agency is also shortening rocket preparation timelines, pursuing alternative upper stages for the Space Launch System, and collaborating with Axiom Space on a lighter spacesuit designed specifically for initial lunar surface excursions. These measures are intended to reduce technical risks, lower costs, and establish an enduring human presence on the Moon to support future exploration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fscitechdaily.com%2Fimages%2FArtemis-IV-Mission-Map-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 14:15 UTC | #26899</small>]]></content>
+  </entry>
   <entry>
     <title>DNA Analysis of Shroud of Turin Reveals Complex Biological History</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261108202703.htm" rel="alternate" />
