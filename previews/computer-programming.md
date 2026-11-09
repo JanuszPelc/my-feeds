@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Sergey Kuhne Implements Git-Based Priority Queue to Manage AI Coding Agents</h2>
+<a name="story-26864"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.vertechacademy.com%2Fimages%2Fblog%2Fhow-to-use-ai-coding-assignments-without-cheating%2Fgit-ai-coding-workflow.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Software developer Sergey Kuhne has developed a git-based priority queue workflow to mitigate cognitive overload and context fragmentation when managing multiple AI coding agent threads. By storing ticket states as markdown files directly within a repository and using automated scripts to generate a centralized owner inbox, the system isolates decision-making from execution.</p><p>The workflow uses a single viewer page mirrored from git, allowing the developer to review, decide on, and close one ticket at a time without retaining multiple open threads in working memory. While the setup requires ongoing tooling refinement to prevent infinite loops and reduce loading latency, it provides a structured alternative to standard terminal multitasking.</p>
+<p>Nov 8 · <a href="https://sergeykuhne.com/blog/fighting-ai-brain-fry">sergeykuhne.com</a> | <a href="https://news.ycombinator.com/item?id=50416363">hacker news</a></p>
+<br clear="all" />
+
 <h2>KetchUp Open-Source 3D Woodworking and Furniture Design App Available</h2>
 <a name="story-26856"><img src="https://wsrv.nl/?url=https%3A%2F%2Fketchup3d.github.io%2Fapp%2Fassets%2Fscreenshots%2Fketchup.jpg%3Fv%3D0.6.5-r2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>KetchUp is a free, open-source 3D modeling application built with Rust and WebGPU, designed specifically for woodworking and furniture planning. The software enables users to sketch shapes, apply exact measurements, and organize complex assemblies using groups, components, and tags prior to construction.</p><p>The application runs natively on Windows, macOS, and Linux, or directly within compatible desktop web browsers without requiring an account or cloud storage. It supports local autosaving, importing SketchUp geometry, exporting Wavefront OBJ files, and saving portable project files directly to the user's device.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26805"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwinworldpc.com%2Fres%2Fimg%2Fscreenshots%2F967c1c190fa98b954e706b532193194d0bac135b24e577a11cf12325aeba31cb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Borland Turbo Pascal 7, also known as Turbo Pascal for Windows 1.5, combined a high-speed in-memory compiler, object-oriented libraries, and a seamless integrated development environment to make early Windows programming accessible and efficient. Its design roots in CP/M allowed it to run exceptionally well on constrained hardware, making it a favorite tool for developers transitioning from MS-DOS to Windows 3.1 during the 1990s.</p><p>The tool eventually declined due to the rise of the C programming language, improvements to Microsoft's own development tools, and the popularity of Visual Basic for smaller-scale applications. While modern systems possess vastly superior hardware resources, the author argues that the loss of the resource-conscious programming skills required by tools like Turbo Pascal reflects a broader shift toward bloat and semi-skilled software development.</p>
 <p>Nov 8 · <a href="https://kevinboone.me/tpwin.html">kevinboone.me</a> | <a href="https://news.ycombinator.com/item?id=50405678">hacker news</a></p>
-<br clear="all" />
-
-<h2>Caleb Software Details Migration From Claude Code to Pi</h2>
-<a name="story-26804"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F04%2Fc864a5ef-linkedin-claude-code-post-1024x1024.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Caleb Software details the decision to replace Claude Code with Pi as a primary coding harness, driven by growing frustrations regarding software stability, user interface limitations, and frequent tool prompt updates. Specific issues with Claude Code included restricted multi-tab IDE integration in VSCode, frequent system prompt revisions, and excessive token overhead in default tool descriptions.</p><p>In contrast, the migration to Pi offered a minimalist, stable, and highly customizable alternative that allowed the author to quickly implement custom extensions for multi-tab support. While acknowledging Claude Code's pioneering role in AI-assisted development, the post highlights the need for stricter product direction and stability over rapid feature expansion.</p>
-<p>Nov 8 · <a href="https://caleb.software/posts/claude-to-pi.html">caleb.software</a> | <a href="https://news.ycombinator.com/item?id=50410107">hacker news</a></p>
 <br clear="all" />
 
 ---

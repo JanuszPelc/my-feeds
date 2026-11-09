@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-08T22:36:00+00:00</updated>
+  <updated>2026-11-08T22:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Sergey Kuhne Implements Git-Based Priority Queue to Manage AI Coding Agents</title>
+    <link href="https://sergeykuhne.com/blog/fighting-ai-brain-fry" rel="alternate" />
+    <id>https://sergeykuhne.com/blog/fighting-ai-brain-fry::v240</id>
+    <published>2026-11-08T22:48:00+00:00</published>
+    <updated>2026-11-08T22:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.vertechacademy.com%2Fimages%2Fblog%2Fhow-to-use-ai-coding-assignments-without-cheating%2Fgit-ai-coding-workflow.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://sergeykuhne.com/blog/fighting-ai-brain-fry">sergeykuhne.com</a> | <a href="https://news.ycombinator.com/item?id=50416363">hacker news</a></small></p><hr/><p>Software developer Sergey Kuhne has developed a git-based priority queue workflow to mitigate cognitive overload and context fragmentation when managing multiple AI coding agent threads. By storing ticket states as markdown files directly within a repository and using automated scripts to generate a centralized owner inbox, the system isolates decision-making from execution.</p><p>The workflow uses a single viewer page mirrored from git, allowing the developer to review, decide on, and close one ticket at a time without retaining multiple open threads in working memory. While the setup requires ongoing tooling refinement to prevent infinite loops and reduce loading latency, it provides a structured alternative to standard terminal multitasking.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.vertechacademy.com%2Fimages%2Fblog%2Fhow-to-use-ai-coding-assignments-without-cheating%2Fgit-ai-coding-workflow.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 04:11 UTC | #26864</small>]]></content>
+  </entry>
   <entry>
     <title>KetchUp Open-Source 3D Woodworking and Furniture Design App Available</title>
     <link href="https://ketchup3d.github.io/app/" rel="alternate" />
