@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>U.S. Clears Nvidia H200 Chip Exports to Chinese Firms with Sanctioned Ties</h2>
 <a name="story-26763"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F07%2Fmultimedia%2F07dc-china-chips-01-fjhg%2F07dc-china-chips-01-fjhg-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Commerce Department has approved dozens of Chinese companies to receive Nvidia's H200 AI chips, including firms with ties to entities under federal sanctions. One cleared firm, New Matrix, maintains a registered office in a Beijing industrial park that is currently an empty, unfinished space.</p><p>Chinese corporate records link New Matrix's owners to a private equity fund placed on a U.S. trade blacklist in 2024. The approval of these firms has raised concerns among technology experts regarding the effectiveness of national security reviews for advanced semiconductor exports.</p>
-<p>Nov 7 · <a href="https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html">nytimes.com</a></p>
+<p>Nov 7 · <a href="https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50417488">hacker news</a></p>
 <br clear="all" />
 
 <h2>Hungary Opens Communist-Era Secret Service Files and Releases Names of Former Agents</h2>
