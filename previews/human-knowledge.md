@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Laimosemion laranja: New Orange-Marked Amazon Killifish Species Discovered</h2>
+<p>Researchers in Brazil have discovered a new species of killifish, named Laimosemion laranja, in the Rio Cajari drainage of northern Amapá state. Measuring under three centimeters, the tiny freshwater fish features distinctive bright orange markings on its body and was confirmed as a new species through morphological and mitochondrial DNA analyses.</p><p>Found in only three small forest pools with a total known range of about 25 square kilometers, the species faces severe pressure from deforestation, mining, and urban development. Because of its highly restricted habitat and multiple local threats, researchers recommend classifying it as endangered and expanding nearby reserve boundaries to protect its environment.</p>
+<p>Nov 8 · <a href="https://www.sciencedaily.com/releases/2026/11/261104084019.htm">sciencedaily.com</a></p>
+<br clear="all" />
+
 <h2>McGill University Researchers Propose &#x27;Biotic Inflection&#x27; Model for Evolutionary Transitions</h2>
 <a name="story-26859"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.frontiersin.org%2Ffiles%2FArticles%2F1848892%2Fxml-images%2Ffevo-14-1848892-g005.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers from McGill University and the Centro de Investigaciones Paleontológicas have proposed a new evolutionary model called a "Biotic Inflection" following an analysis of fossils from Colombia's Paja Formation. The concept describes an evolutionary turning point where older animal lineages nearing extinction coexist and overlap with newer groups that are beginning to diversify, occurring independently of mass extinction events.</p><p>The findings are based on the Paja Formation's exceptionally rich Early Cretaceous marine ecosystem, which preserves surviving Jurassic lineages alongside emerging Cretaceous groups, including giant marine reptiles, turtles, and sharks. The researchers attribute this rare coexistence to favorable environmental conditions such as warm greenhouse temperatures, high sea levels, nutrient-rich coastal waters, and newly opened ocean connections between the eastern Pacific and early Atlantic.</p>
@@ -90,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26746"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx2.b-cdn.net%2Fgfx%2Fnews%2Fhires%2F2026%2Fchemists-discover-and.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at the University of Würzburg have successfully synthesized and isolated oxoboranes, a class of reactive molecules featuring a triple bond between boron and oxygen that had eluded chemists for over 60 years. Led by Professor Holger Braunschweig, the team serendipitously produced the stable compounds while investigating reactions between diboracumulenes and ketones in the laboratory.</p><p>Long considered too unstable to isolate under ordinary conditions, oxoboranes were generated as unexpected orange and yellow crystalline solids using relatively simple starting materials. The approach successfully yielded three distinct oxoboranes with computational support from Tezpur University researchers, pointing toward potential new pathways for synthesizing other elusive chemical compounds across the periodic table.</p>
 <p>Nov 7 · <a href="https://www.sciencedaily.com/releases/2026/11/261103003205.htm">sciencedaily.com</a></p>
-<br clear="all" />
-
-<h2>Astronomers Discover Double Debris Rings Around White Dwarf J1328−1450</h2>
-<p>Astronomers using the European Southern Observatory's Very Large Telescope have discovered two distinct rings of planetary debris surrounding the white dwarf J1328−1450. Unlike typical single-disc systems around dead stars, this structure features two stable, concentric rings separated by a gap, indicating a complex arrangement of rocky remnants.</p><p>Researchers suspect the double-ring configuration is maintained by two surviving planetary bodies acting as gravitational shepherds, one asteroid-sized and the other potentially as large as Pluto or the Moon. Chemical analysis shows the rings contain rocky planetary materials with distinct compositions, providing rare insight into the violent destruction of planetary systems and a potential preview of our Solar System's distant future.</p>
-<p>Nov 7 · <a href="https://www.sciencedaily.com/releases/2026/11/261104012250.htm">sciencedaily.com</a></p>
 <br clear="all" />
 
 ---

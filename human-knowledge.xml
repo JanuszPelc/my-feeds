@@ -3,9 +3,17 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-08T22:46:00+00:00</updated>
+  <updated>2026-11-08T23:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Laimosemion laranja: New Orange-Marked Amazon Killifish Species Discovered</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261104084019.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261104084019.htm::v240</id>
+    <published>2026-11-08T23:57:00+00:00</published>
+    <updated>2026-11-08T23:57:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261104084019.htm">sciencedaily.com</a></small></p><hr/><p>Researchers in Brazil have discovered a new species of killifish, named Laimosemion laranja, in the Rio Cajari drainage of northern Amapá state. Measuring under three centimeters, the tiny freshwater fish features distinctive bright orange markings on its body and was confirmed as a new species through morphological and mitochondrial DNA analyses.</p><p>Found in only three small forest pools with a total known range of about 25 square kilometers, the species faces severe pressure from deforestation, mining, and urban development. Because of its highly restricted habitat and multiple local threats, researchers recommend classifying it as endangered and expanding nearby reserve boundaries to protect its environment.</p><hr/><small>9 Nov 2026, 05:01 UTC | #26861</small>]]></content>
+  </entry>
   <entry>
     <title>McGill University Researchers Propose 'Biotic Inflection' Model for Evolutionary Transitions</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261106174535.htm" rel="alternate" />
