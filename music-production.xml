@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-09T15:37:00+00:00</updated>
+  <updated>2026-11-09T15:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Positive Grid Adds NAM Capture Support to BIAS X</title>
+    <link href="https://www.kvraudio.com/news/positive-grid-adds-support-for-nam-capture-to-bias-x-1-3-69713?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69713" rel="alternate" />
+    <id>https://www.kvraudio.com/news/positive-grid-adds-support-for-nam-capture-to-bias-x-1-3-69713?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69713::v240</id>
+    <published>2026-11-09T15:52:00+00:00</published>
+    <updated>2026-11-09T15:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbias-x-nam-menu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/positive-grid-adds-support-for-nam-capture-to-bias-x-1-3-69713?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69713">kvraudio.com</a> | <a href="https://www.positivegrid.com/pages/bias-x">positivegrid.com</a></small></p><hr/><p>Positive Grid has updated BIAS X to version 1.3, introducing support for loading Neural Amp Modeler (NAM) captures directly into the software.</p><p>Once loaded into the amp slot, these captures can be used in conjunction with BIAS X's effects and tone control parameters.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbias-x-nam-menu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 20:52 UTC | #26931</small>]]></content>
+  </entry>
   <entry>
     <title>Sennheiser Announces Scenico and Polifonia In-Car Audio Technologies</title>
     <link href="https://musictech.com/news/gear/sennheiser-scenico-polifonia/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Positive Grid Adds NAM Capture Support to BIAS X</h2>
+<a name="story-26931"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbias-x-nam-menu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Positive Grid has updated BIAS X to version 1.3, introducing support for loading Neural Amp Modeler (NAM) captures directly into the software.</p><p>Once loaded into the amp slot, these captures can be used in conjunction with BIAS X's effects and tone control parameters.</p>
+<p>Nov 9 · <a href="https://www.kvraudio.com/news/positive-grid-adds-support-for-nam-capture-to-bias-x-1-3-69713?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69713">kvraudio.com</a> | <a href="https://www.positivegrid.com/pages/bias-x">positivegrid.com</a></p>
+<br clear="all" />
+
 <h2>Sennheiser Announces Scenico and Polifonia In-Car Audio Technologies</h2>
 <a name="story-26928"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSennheiser-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sennheiser Mobility has unveiled Scenico and Polifonia, two software modules designed for automotive manufacturers to enhance in-car audio. Scenico uses AMBEO technology to deliver immersive sound via dashboard-integrated transducers, which may allow for the removal of door speakers to increase design flexibility and ease recycling. Polifonia employs headrest speakers and noise cancellation to create personalized audio zones for each seat.</p><p>These technologies enable acoustic separation between occupants, such as allowing a driver to hear navigation guidance without disturbing passengers listening to music. Sennheiser is currently inviting car brands to request demonstrations of these technologies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26823"><img src="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--lmprf3lN--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Fa25d71b2-b5ed-404e-b705-ad2d742cfba8.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Leigh Pierce has released REV-246, a free, open-source digital reverb plugin inspired by the EMT 246 hardware processor for macOS, Windows, and Linux. The plugin includes five EMT 246-inspired programs, an EMT 250-based algorithm, and tail lengths reaching up to 20 seconds, modeled after the physical unit's interface layout with six levers and readouts.</p><p>Additional features include a 16-bit lo-fi precision mode that introduces noise and clipping, an XFMR switch for low-frequency transformer coloration, a built-in ducker, and stereo width controls. Available in VST3 and AU formats, the plugin provides 65 factory presets, true stereo routing, and roughly one millisecond of latency.</p>
 <p>Nov 8 · <a href="https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/tehguitarist/REV-246">github.com</a></p>
-<br clear="all" />
-
-<h2>Tinyant Releases Purpl Free Chorus and Shimmer Reverb Plugin</h2>
-<a name="story-26815"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPR1mfChU4FI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Anant of tinyant has released Purpl, a free chorus and shimmer reverb audio plugin designed for Windows and Linux systems. Built over the course of a year without the use of artificial intelligence tools, the plugin combines a chorus effect with a reactive shimmer reverb tail.</p><p>Purpl includes specialized controls such as Day and Night buttons that alter the pitch and tail characteristics of the shimmer effect, alongside a Bloom feature that responds to sustained notes. Additional parameters include Breathe for ducking the wet signal and Burn for adding crunch, with the plugin available in VST3 and CLAP formats.</p>
-<p>Nov 8 · <a href="https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/">bedroomproducersblog.com</a> | <a href="https://tinyantproductions.com/purpl">tinyantproductions.com</a></p>
 <br clear="all" />
 
 ---
