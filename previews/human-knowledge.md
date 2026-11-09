@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Scripps Institution of Oceanography Identifies Viscosity of Marine Snow as Carbon Transport Factor</h2>
+<a name="story-26860"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.sciencedaily.com%2Fimages%2F1920%2Fviscous-marine-snow-particles.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers at UC San Diego's Scripps Institution of Oceanography and the University of Lincoln have found that the viscosity of marine snow—the sinking clumps of organic debris in the ocean—significantly affects how much carbon reaches the deep seafloor. Using 3D confocal microscopy and fluorescent molecules, the team observed that stickier, more viscous particles resist bacterial degradation longer, allowing them to transport up to six times more carbon into the deep ocean than thinner particles.</p><p>The findings, published in Science with a companion study in Nature Communications, reveal a complex microscopic landscape in ocean mucus that governs how bacteria interact with organic matter. This improved understanding of marine snow dynamics helps clarify a long-standing puzzle in the global carbon cycle and offers insights into other biological systems where bacteria encounter mucus, such as coral reefs and human digestive tracts.</p>
+<p>Nov 9 · <a href="https://www.sciencedaily.com/releases/2026/11/261105224558.htm">sciencedaily.com</a></p>
+<br clear="all" />
+
 <h2>Laimosemion laranja: New Orange-Marked Amazon Killifish Species Discovered</h2>
 <p>Researchers in Brazil have discovered a new species of killifish, named Laimosemion laranja, in the Rio Cajari drainage of northern Amapá state. Measuring under three centimeters, the tiny freshwater fish features distinctive bright orange markings on its body and was confirmed as a new species through morphological and mitochondrial DNA analyses.</p><p>Found in only three small forest pools with a total known range of about 25 square kilometers, the species faces severe pressure from deforestation, mining, and urban development. Because of its highly restricted habitat and multiple local threats, researchers recommend classifying it as endangered and expanding nearby reserve boundaries to protect its environment.</p>
 <p>Nov 8 · <a href="https://www.sciencedaily.com/releases/2026/11/261104084019.htm">sciencedaily.com</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26744"><img src="https://wsrv.nl/?url=https%3A%2F%2Frubinobservatory.org%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2FRubin.canto.com%2Fdirect%2Fimage%2Fhrarstciph4ffdsts3jveq176c%2FQ4joXwX1ztcsjLCEF824lD7ctvo%2Fm800%2F2050%26w%3D3840%26q%3D85&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Astronomers using data from the Vera C. Rubin Observatory have discovered two previously unknown companions of the Milky Way: an ultra-faint dwarf galaxy named Aquarius IV and a star cluster named Rubin-GC1. Identified from preview observations covering just 7% of the night sky, these objects highlight the telescope's capacity to detect extremely faint stellar structures.</p><p>The findings suggest that hundreds of undiscovered satellite galaxies may surround the Milky Way, waiting to be revealed during the observatory's 10-year Legacy Survey of Space and Time. Uncovering these hidden companions could help researchers test models of galaxy formation, trace the Milky Way's assembly history, and investigate the distribution and nature of dark matter.</p>
 <p>Nov 7 · <a href="https://www.sciencedaily.com/releases/2026/11/261104012252.htm">sciencedaily.com</a></p>
-<br clear="all" />
-
-<h2>University of Würzburg Chemists Isolate Stable Oxoboranes After 60 Years</h2>
-<a name="story-26746"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx2.b-cdn.net%2Fgfx%2Fnews%2Fhires%2F2026%2Fchemists-discover-and.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers at the University of Würzburg have successfully synthesized and isolated oxoboranes, a class of reactive molecules featuring a triple bond between boron and oxygen that had eluded chemists for over 60 years. Led by Professor Holger Braunschweig, the team serendipitously produced the stable compounds while investigating reactions between diboracumulenes and ketones in the laboratory.</p><p>Long considered too unstable to isolate under ordinary conditions, oxoboranes were generated as unexpected orange and yellow crystalline solids using relatively simple starting materials. The approach successfully yielded three distinct oxoboranes with computational support from Tezpur University researchers, pointing toward potential new pathways for synthesizing other elusive chemical compounds across the periodic table.</p>
-<p>Nov 7 · <a href="https://www.sciencedaily.com/releases/2026/11/261103003205.htm">sciencedaily.com</a></p>
 <br clear="all" />
 
 ---
