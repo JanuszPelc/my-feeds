@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>KetchUp Open-Source 3D Woodworking and Furniture Design App Available</h2>
+<a name="story-26856"><img src="https://wsrv.nl/?url=https%3A%2F%2Fketchup3d.github.io%2Fapp%2Fassets%2Fscreenshots%2Fketchup.jpg%3Fv%3D0.6.5-r2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>KetchUp is a free, open-source 3D modeling application built with Rust and WebGPU, designed specifically for woodworking and furniture planning. The software enables users to sketch shapes, apply exact measurements, and organize complex assemblies using groups, components, and tags prior to construction.</p><p>The application runs natively on Windows, macOS, and Linux, or directly within compatible desktop web browsers without requiring an account or cloud storage. It supports local autosaving, importing SketchUp geometry, exporting Wavefront OBJ files, and saving portable project files directly to the user's device.</p>
+<p>Nov 8 · <a href="https://ketchup3d.github.io/app/">ketchup3d.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418176">hacker news</a></p>
+<br clear="all" />
+
 <h2>Dux Modular Shell 2.1 Released with Video Wallpapers and Updated System Monitor</h2>
 <a name="story-26854"><img src="https://wsrv.nl/?url=https%3A%2F%2Flinuxiac.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fdux21-interface-density.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dux Modular Shell version 2.1, codenamed Stormborn, is now available for Wayland compositors including Hyprland, Niri, and Sway. The update introduces a new system monitor, video wallpaper support, a revamped media player, interface density controls, and various enhancements to the Dux file manager.</p><p>Designed as an open-source desktop suite, Dux features dynamic application theming that automatically matches GTK, Qt, and terminal environments using a custom 16-color palette algorithm. The ecosystem also incorporates specialized modules for process monitoring, greeter management, fast file searching, and multi-provider calendar integration.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26804"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmer.vin%2Fwp-content%2Fuploads%2F2026%2F04%2Fc864a5ef-linkedin-claude-code-post-1024x1024.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Caleb Software details the decision to replace Claude Code with Pi as a primary coding harness, driven by growing frustrations regarding software stability, user interface limitations, and frequent tool prompt updates. Specific issues with Claude Code included restricted multi-tab IDE integration in VSCode, frequent system prompt revisions, and excessive token overhead in default tool descriptions.</p><p>In contrast, the migration to Pi offered a minimalist, stable, and highly customizable alternative that allowed the author to quickly implement custom extensions for multi-tab support. While acknowledging Claude Code's pioneering role in AI-assisted development, the post highlights the need for stricter product direction and stability over rapid feature expansion.</p>
 <p>Nov 8 · <a href="https://caleb.software/posts/claude-to-pi.html">caleb.software</a> | <a href="https://news.ycombinator.com/item?id=50410107">hacker news</a></p>
-<br clear="all" />
-
-<h2>Pine64 Ox64 RISC-V Single-Board Computer Setup Guide: Part 1</h2>
-<a name="story-26797"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiMR6WHmKku5veDN9XI3ZTSOw9dSsNTbCsuJ6LSSxejLaYPTO-V71zPoc_-fpF0QYx260DGx5RSEsx58z-xxsujTZLugdjAs_7uaG6YZMdHBxrGaxlx9Q-H-NYszKY7-pvv1bfxEtmH1C3HZSoVBlkm5kdangQQyXUyRGFX8ja04tWg6ZzwsNs_9DuJJA%2Fs3114%2Fox64.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Pine64 Ox64 is an $8 RISC-V single-board computer featuring multiple cores capable of running Linux, though early hardware versions lack working Ethernet, Wi-Fi, and SD card support. Setting up the device presents several engineering hurdles, including the lack of native USB programming and compatibility issues with standard flashing tools on Linux.</p><p>To overcome these obstacles, the author configures an Adafruit KB2040 microcontroller as a serial bridge between a PC and the Ox64's UART pins. After modifying the Python-based flash tool to remove conflicting RTS and DTR control signals, the author successfully flashes the initial M0 core firmware and establishes serial communication with the board.</p>
-<p>Nov 7 · <a href="https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html">thelittleengineerthatcould.blogspot.com</a> | <a href="https://news.ycombinator.com/item?id=50404599">hacker news</a></p>
 <br clear="all" />
 
 ---
