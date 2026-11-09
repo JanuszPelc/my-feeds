@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-08T22:09:00+00:00</updated>
+  <updated>2026-11-08T22:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>AI Companies Sell Over $300 Billion in Stock in 2026</title>
+    <link href="https://www.theinformation.com/articles/ai-stock-can-market-absorb" rel="alternate" />
+    <id>https://www.theinformation.com/articles/ai-stock-can-market-absorb::v240</id>
+    <published>2026-11-08T22:24:00+00:00</published>
+    <updated>2026-11-08T22:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F2522257153%2Fdisplay_1500%2Fstock-photo-artificial-intelligence-open-ai-stocks-market-2522257153.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/ai-stock-can-market-absorb">theinformation.com</a></small></p><hr/><p>Artificial intelligence companies sold or priced more than $300 billion worth of stock in 2026, excluding Anthropic's initial public offering, with an additional $100 billion planned. Recent volatile trading in AI-related equities has highlighted growing questions about the market's capacity to absorb further share offerings.</p><p>The heavy volume of issuance reflects surging capital demands across the artificial intelligence sector as firms fund extensive infrastructure and development. Market observers are closely monitoring whether investor appetite can sustain the upcoming pipeline of stock sales without triggering broader sector pullbacks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F2522257153%2Fdisplay_1500%2Fstock-photo-artificial-intelligence-open-ai-stocks-market-2522257153.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 00:55 UTC | #26831</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Purchases 1.7GW of Gas-Fired Generators in $3.4 Billion Deal</title>
     <link href="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0" rel="alternate" />

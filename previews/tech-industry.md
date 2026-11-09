@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>AI Companies Sell Over $300 Billion in Stock in 2026</h2>
+<a name="story-26831"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F2522257153%2Fdisplay_1500%2Fstock-photo-artificial-intelligence-open-ai-stocks-market-2522257153.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence companies sold or priced more than $300 billion worth of stock in 2026, excluding Anthropic's initial public offering, with an additional $100 billion planned. Recent volatile trading in AI-related equities has highlighted growing questions about the market's capacity to absorb further share offerings.</p><p>The heavy volume of issuance reflects surging capital demands across the artificial intelligence sector as firms fund extensive infrastructure and development. Market observers are closely monitoring whether investor appetite can sustain the upcoming pipeline of stock sales without triggering broader sector pullbacks.</p>
+<p>Nov 8 · <a href="https://www.theinformation.com/articles/ai-stock-can-market-absorb">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Purchases 1.7GW of Gas-Fired Generators in $3.4 Billion Deal</h2>
 <a name="story-26822"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techflowpost.com%2Ffavicon%2Ftwitter-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence lab Anthropic has agreed to purchase commitments for 1.7 gigawatts of gas-fired power generation equipment from supplier OnePWR for $3.4 billion. The transaction represents the largest known procurement of power hardware by an artificial intelligence company as the sector grapples with severe energy constraints for expanding data centers.</p><p>By bypassing traditional utility suppliers to secure dedicated generation capacity, Anthropic underscores the extreme power demands required to train and operate advanced AI models. The deal exemplifies a wider strategy among major tech firms seeking direct ownership and control of energy infrastructure to circumvent overloaded public power grids.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26708"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftecknexus.com%2Fwp-content%2Fuploads%2F2025%2F07%2FOracle-OpenAi-Datacenter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft Corp. is winding down an agreement to rent AI computing capacity from Oracle Corp. after declining to renew their 2023 partnership. The decision stems from the hardware relying on older Nvidia chips, prompting Microsoft to reevaluate multi-billion-dollar cloud collaborations.</p><p>The phase-out reflects broader adjustments in how major technology companies manage and scale their AI infrastructure needs. As newer generations of hardware become available, companies are shifting away from older configurations to optimize performance and cost efficiency.</p>
 <p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50398993">hacker news</a></p>
-<br clear="all" />
-
-<h2>TechCrunch Equity Podcast Analyzes How Midterm Elections Could Reshape AI Industry</h2>
-<a name="story-26706"><img src="https://wsrv.nl/?url=https%3A%2F%2Fculturemosaic.co.uk%2Fwp-content%2Fuploads%2F2025%2F10%2FGenerated-image-1131-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>On an episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Sean O’Kane, and Anthony Ha discuss how the results of the U.S. midterm elections could impact the tech and artificial intelligence sectors. The discussion highlights the outcome of data center-related ballot measures, where voters overwhelmingly imposed new restrictions on development, alongside expectations that newly elected officials will pursue stricter oversight of Big Tech.</p><p>The episode also examines several major industry developments, including Google's satellite data center test, recent layoffs at Canva and Squarespace, Marvell’s multi-billion-dollar acquisition of Lumentum, and CrowdStrike's purchases of AI security startups. Additionally, the hosts touch on media investments, such as NBCUniversal funding Indian microdrama platform Elo Elo, offering a comprehensive look at current intersections of politics, market adjustments, and emerging technologies.</p>
-<p>Nov 6 · <a href="https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
