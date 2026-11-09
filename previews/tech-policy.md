@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>U.S. AI Safety Center Staff Shift Reporting to White House Amid Leadership Vacancy</h2>
 <a name="story-26849"><img src="https://wsrv.nl/?url=https%3A%2F%2Fismg-cdn.nyc3.cdn.digitaloceanspaces.com%2Farticles%2Fus-to-set-up-new-ai-safety-institute-showcase_image-1-a-23460.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Staff members at the Center for Advancing Innovation and Standards for Super Intelligence—an independent U.S. Commerce Department division tasked with evaluating artificial intelligence safety—have been asked to informally report to a White House office. The division currently lacks a permanent director following multiple recent departures and has halted the publication of its research findings.</p><p>Critics express concern that the new arrangement could politicize safety oversight or soften findings to favor the tech industry, which largely relies on self-regulation under President Donald Trump’s administration. Meanwhile, supporters argue the shift could bring greater prominence and resources to the small federal division as rapid advancements in autonomous AI agents outpace independent government evaluation capabilities.</p>
-<p>Nov 9 · <a href="https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13">apnews.com</a></p>
+<p>Nov 9 · <a href="https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13">apnews.com</a> | <a href="https://news.ycombinator.com/item?id=50419747">hacker news</a></p>
 <br clear="all" />
 
 <h2>Nvidia CEO Jensen Huang Sends Letter to Staff Regarding Relationship and Board Investigation</h2>
