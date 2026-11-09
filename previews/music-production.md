@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Force56 Audio Software Releases Drumod4 Drums VST Plugin</h2>
+<a name="story-26921"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdrumod4-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Force56 Audio Software has released Drumod4 Drums VST, a sample-based virtual instrument modeled after the classic Alesis D4 digital drum module. Available for Windows and macOS in VST3, Audio Unit, and standalone formats, the plugin features all 500 original percussion sounds and 21 factory drum kits from the hardware unit.</p><p>The plugin provides 12 playable pads with independent volume, pan, and tuning controls, along with support for custom kit creation, MIDI, and DAW automation. Priced at $39, the instrument is designed to bring early-90s hardware workflows into modern digital audio workstations without requiring external sample libraries.</p>
+<p>Nov 9 · <a href="https://www.kvraudio.com/news/force56-audio-software-releases-drumod4-drums-vst---alesis-d4-inspired-drum-module-plugin-vst3-and-au-69711?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69711">kvraudio.com</a> | <a href="https://www.force56audio.com/en/products/drumod4/?utm_source=kvraudio.com&utm_medium=referral&utm_campaign=drumod4_launch">force56audio.com</a></p>
+<br clear="all" />
+
 <h2>Pulsar Modular Releases Q Bit Free Bitcrusher Plugin</h2>
 <a name="story-26918"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMZRijk3Mj0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pulsar Modular has released Q Bit, a free bitcrusher plugin for macOS, Windows, Linux, and iOS that combines digital distortion with a rhythmic Time Hold effect. Alongside standard linear bit depth and sample rate reduction down to 2 bits and 2 kHz, the plugin features specialized emulation modes including SP-1200, M.93, and ZX Spectrum 128.</p><p>The Hold function allows users to freeze audio snippets for rhythmic pulsing or slapback effects, with options to sync timing to host tempo or run in free mode. Desktop versions require a free license key and periodic online activation, while the iOS version operates as a standalone app or AUv3 plugin without activation.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26747"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fs5AVH9RqEUM%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ILIO has released an additional 2,000 free licenses for the Low End Theory 2 sound pack, a 100-preset collection created by Sean Divine for use with the free AAS Player. The follow-up batch provides another opportunity for users who missed the initial giveaway.</p><p>Designed for hip-hop, trap, and electronic music production, the pack includes basses, leads, keys, pads, and drum sounds. The licenses are available on a first-come, first-served basis through ILIO's registration page, supporting macOS and Windows systems.</p>
 <p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/aas-player-giveaway">ilio.com</a></p>
-<br clear="all" />
-
-<h2>Krotos Offers Dehumaniser Simple Monsters and Starter Sound Library Free</h2>
-<a name="story-26748"><img src="https://wsrv.nl/?url=https%3A%2F%2Fudiaudio.com%2Fcdn%2Fshop%2Ffiles%2Fpv-2790-Dehumaniser_Simple_Monsters-gui-2.jpg%3Fv%3D1724580992%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Krotos is offering the Dehumaniser Simple Monsters voice-processing plugin and the 10.5 GB Krotos Starter Sound Effects Library as a free bundle until November 11, 2026. The promotional offer requires completing checkout on the official site without a purchase or ongoing subscription, providing both products permanently after registration.</p><p>Simple Monsters uses Dehumaniser 2 technology to convert speech into creature and robot voices in real time using adjustable parameters like size and fury alongside an X/Y pad. The accompanying sound library includes nearly 4,000 royalty-free WAV files covering everyday recordings, ambiences, and sci-fi elements equipped with embedded metadata for audio management software.</p>
-<p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/krotos-simple-monsters-free/">bedroomproducersblog.com</a> | <a href="https://krotos.studio/free-bundle">krotos.studio</a></p>
 <br clear="all" />
 
 ---

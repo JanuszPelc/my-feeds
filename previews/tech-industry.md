@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Harwood Voters Reject Measure Opposing Applied Digital Data Center</h2>
+<p>Residents in Harwood, North Dakota, have declined a ballot measure intended to block the construction of a $3 billion data center by Applied Digital. The facility is expected to become operational in 2027.</p><p>This outcome contrasts with a growing national trend of voters expressing opposition toward large-scale data center projects used to power artificial intelligence.</p>
+<p>Nov 9 · <a href="https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/">washingtonpost.com</a></p>
+<br clear="all" />
+
 <h2>EU Assessment Finds Russian Network Exploited French Riots on Social Media</h2>
 <a name="story-26894"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1JEmWs.img%3Fw%3D1920%26h%3D1280%26m%3D4%26q%3D81&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An internal European Union assessment reveals that a covert Russian network known as "Operation Overload" opportunistically exploited riots in France by using social media to spread fabricated videos impersonating Western media outlets. The campaign sought to blame the unrest on uncontrolled immigration and portray the French government as having lost control of public order.</p><p>Active since September 2023, the operation has targeted Western public figures, institutions, and media outlets to discredit support for Ukraine and promote pro-Russian narratives. French authorities and watchdogs have previously tracked similar coordinated disinformation efforts designed to amplify social division and political unrest during sensitive public events.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Environmental Groups Embrace Artificial Intelligence While Warning of Data Center Impacts</h2>
 <p>Environmental organizations worldwide are increasingly adopting artificial intelligence tools to support their conservation and climate efforts, utilizing the technology to analyze complex climate data, monitor forest fires, and track endangered wildlife populations.</p><p>At the same time, these groups continue to voice strong concerns regarding the environmental toll of the AI industry, pointing to the substantial energy and water consumption required to power and cool rapidly expanding data centers.</p>
 <p>Nov 8 · <a href="https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Southeast Asia Datacentre Expansion Faces Delays Amid Resource and Regulatory Pressures</h2>
-<a name="story-26783"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmssb-media.xcms.io%2Fpublisher-c1a3f893382d2b2f8a9aa22a654d9c97%2F2025%2F09%2Fe6c395837ded68f038ef4a33257eabd0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Southeast Asian nations, including Thailand and Indonesia, have paused or tightened approvals for numerous datacentre projects as a surge in artificial intelligence infrastructure strains local resources. Driven by rapid growth in the Asia-Pacific region, countries across the region are confronting severe challenges related to heavy electricity consumption and high water usage for cooling facilities.</p><p>While hubs like Malaysia's Johor state have attracted massive investments, local communities and authorities are increasingly pushing back due to environmental concerns, grid bottlenecks, and strained water reservoirs. In response, governments are implementing stricter regulatory frameworks, higher utility tariffs, and resource-efficiency mandates to manage the rapid expansion.</p>
-<p>Nov 7 · <a href="https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia">theguardian.com</a></p>
 <br clear="all" />
 
 ---

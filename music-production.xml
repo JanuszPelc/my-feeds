@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-09T12:28:00+00:00</updated>
+  <updated>2026-11-09T14:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Force56 Audio Software Releases Drumod4 Drums VST Plugin</title>
+    <link href="https://www.kvraudio.com/news/force56-audio-software-releases-drumod4-drums-vst---alesis-d4-inspired-drum-module-plugin-vst3-and-au-69711?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69711" rel="alternate" />
+    <id>https://www.kvraudio.com/news/force56-audio-software-releases-drumod4-drums-vst---alesis-d4-inspired-drum-module-plugin-vst3-and-au-69711?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69711::v240</id>
+    <published>2026-11-09T14:04:00+00:00</published>
+    <updated>2026-11-09T14:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdrumod4-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/force56-audio-software-releases-drumod4-drums-vst---alesis-d4-inspired-drum-module-plugin-vst3-and-au-69711?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69711">kvraudio.com</a> | <a href="https://www.force56audio.com/en/products/drumod4/?utm_source=kvraudio.com&utm_medium=referral&utm_campaign=drumod4_launch">force56audio.com</a></small></p><hr/><p>Force56 Audio Software has released Drumod4 Drums VST, a sample-based virtual instrument modeled after the classic Alesis D4 digital drum module. Available for Windows and macOS in VST3, Audio Unit, and standalone formats, the plugin features all 500 original percussion sounds and 21 factory drum kits from the hardware unit.</p><p>The plugin provides 12 playable pads with independent volume, pan, and tuning controls, along with support for custom kit creation, MIDI, and DAW automation. Priced at $39, the instrument is designed to bring early-90s hardware workflows into modern digital audio workstations without requiring external sample libraries.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdrumod4-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 19:07 UTC | #26921</small>]]></content>
+  </entry>
   <entry>
     <title>Pulsar Modular Releases Q Bit Free Bitcrusher Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/11/09/pulsar-modular-qbit/" rel="alternate" />

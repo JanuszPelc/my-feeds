@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Automattic Launches Spacefast to Deploy Vibe-Coded Applications</h2>
+<a name="story-26919"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.cloudflare.com%2F_image%3Fhref%3Dhttps%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01KW4684TGVTR7TBTACDSW78V1.png%26w%3D1080%26h%3D450%26f%3Dwebp%26fit%3Dcover%26position%3Dcenter&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Automattic has launched Spacefast, a platform that provides the backend infrastructure for "vibe-coded" websites and applications. The service includes databases, authentication, file uploads, email capabilities, and analytics to transform AI-generated code into functional, deployable web services.</p><p>Users can connect Spacefast to AI agents such as ChatGPT and Claude or link it to Git repositories. The service competes with platforms like Lovable and Emergent by integrating with Automattic’s existing WordPress and WooCommerce ecosystems to serve developers and enterprises looking to consolidate AI-driven development workflows.</p>
+<p>Nov 9 · <a href="https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/">techcrunch.com</a> | <a href="https://spacefast.com/">spacefast.com</a> | <a href="https://news.ycombinator.com/item?id=50425905">hacker news</a></p>
+<br clear="all" />
+
 <h2>DeepSeek Open-Source Agent Platform Harness Reaches 1.54 Million Daily Users</h2>
 <p>DeepSeek reported that its open-source AI agent platform, Harness, reached 1.54 million daily active users on November 4, achieving the milestone less than three months after its launch.</p><p>The platform currently consumes approximately 92 trillion tokens per day, translating to roughly 60 million tokens per user, highlighting the heavy computational demand of its agent workloads.</p>
 <p>Nov 8 · <a href="https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users">bloomberg.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26682"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHQG-Srza0AEB0kf%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unsloth has released Dynamic V3.1 GGUF quantizations for the Qwen3.8-Flash-Next model, reporting a 10 to 15 percent increase in accuracy alongside reduced token usage and faster processing speeds.</p><p>The update also introduces major platform enhancements across the Unsloth application, including improved Glass theme rendering, unified memory offloading for larger models, individual web browsers for separate chats, and faster image and video generation performance on multi-GPU hardware.</p>
 <p>Nov 6 · <a href="https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next-dynamic-v3.1">unsloth.ai</a></p>
-<br clear="all" />
-
-<h2>Runlayer Launches Interactive Model Context Protocol Explainer Guide</h2>
-<a name="story-26656"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F18%2F1a%2Ff7%2F181af7103af9799efd9397397a10bbd4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Runlayer has released MCP Explained, an interactive guide that illustrates how the Model Context Protocol connects artificial intelligence applications to external tools and data. The platform maps out every JSON-RPC message on the wire, detailing transports, capability negotiations, and interactions between AI hosts, servers, and models.</p><p>Aimed at developers building AI agents and applications, the resource provides step-by-step visualizations of authentication, prompt execution, and resource handling. By clarifying how models delegate tasks to servers without direct communication, the guide helps developers design and debug MCP-compliant integrations more effectively.</p>
-<p>Nov 6 · <a href="https://mcp-explained.com/">mcp-explained.com</a> | <a href="https://news.ycombinator.com/item?id=50379249">hacker news</a></p>
 <br clear="all" />
 
 ---

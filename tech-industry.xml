@@ -3,9 +3,17 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-09T12:33:00+00:00</updated>
+  <updated>2026-11-09T12:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Harwood Voters Reject Measure Opposing Applied Digital Data Center</title>
+    <link href="https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/" rel="alternate" />
+    <id>https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/::v240</id>
+    <published>2026-11-09T12:39:00+00:00</published>
+    <updated>2026-11-09T12:39:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/">washingtonpost.com</a></small></p><hr/><p>Residents in Harwood, North Dakota, have declined a ballot measure intended to block the construction of a $3 billion data center by Applied Digital. The facility is expected to become operational in 2027.</p><p>This outcome contrasts with a growing national trend of voters expressing opposition toward large-scale data center projects used to power artificial intelligence.</p><hr/><small>9 Nov 2026, 19:06 UTC | #26911</small>]]></content>
+  </entry>
   <entry>
     <title>EU Assessment Finds Russian Network Exploited French Riots on Social Media</title>
     <link href="https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/" rel="alternate" />
