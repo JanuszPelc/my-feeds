@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Google Unveils TPU 8tx and TPU 8i Max AI Chips</h2>
+<a name="story-26915"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F4_v1_nUZDsJM.max-1800x1800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google is introducing two new specialized AI chips: the TPU 8tx, designed to be paired with AMD CPUs, and the TPU 8i Max, a dual-chip package optimized for long-context window tasks.</p><p>The TPU 8i Max is scheduled for launch in 2027. This expansion of the TPU lineup is part of Google's effort to bolster its AI hardware capabilities and increase competition with Nvidia.</p>
+<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Retrospective Look at the TV Series Person of Interest</h2>
 <a name="story-26821"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FffdcU736dFvEI2FZunfE19AxRWU.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An author reflects on recently watching the television series Person of Interest, noting its enduring relevance fifteen years after its initial broadcast. The viewing experience evokes memories of early 2010s internet culture, including online forums, the SOPA and PIPA legislative debates, and the closure of Megaupload.</p><p>The post highlights how the show's central premise—a mass surveillance system known as the Machine—feels increasingly aligned with modern technological reality rather than science fiction. The author concludes that the series has aged remarkably well, prompting strong nostalgia for the era when their interest in computing first began.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26608"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.extremetech.com%2Fimagery%2Fcontent-types%2F00cdIz3w68zzcixocVRr6cx%2Fhero-image.fill.size_1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The motorola signature 27 is a flagship smartphone from Motorola featuring a Snapdragon 8 Elite Extreme Gen 6 processor and an Extreme AMOLED Duo Tandem display. The device is the first non-Pixel smartphone to support GrapheneOS.</p><p>The phone features a 7000mAh battery with 90W wired and 50W wireless charging, a multi-lens camera system, and AI tools including Gemini Intelligence and Motorola Qira. It is built with a ceramic and glass construction with IP68 and IP69 ratings and has a starting MSRP of $1,599.</p>
 <p>Nov 5 · <a href="https://motorolanews.com/motorola-signature-27-2/">motorolanews.com</a> | <a href="https://news.ycombinator.com/item?id=50380810">hacker news</a></p>
-<br clear="all" />
-
-<h2>Aina Releases $399 AI Smart Ring With Screen, Joystick, and Microphone</h2>
-<a name="story-26552"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAina-Voice-notes.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hardware startup Aina has released a $399 smart ring designed to serve as a physical controller for AI agents and desktop applications. The titanium wearable features a built-in screen, a miniature joystick, a microphone, and a speaker, allowing users to issue voice prompts, dictate notes, view phone notifications, and handle voice calls.</p><p>Pre-orders for the device opened at an early-bird price of $399 before increasing to $499, with global shipping scheduled to begin in January 2027. The ring supports contextual shortcuts and gestures tailored for platforms like macOS and mobile devices, positioning itself as a tactile command hub for users interacting with proactive artificial intelligence agents.</p>
-<p>Nov 5 · <a href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/">techcrunch.com</a> | <a href="https://markets.businessinsider.com/news/stocks/aina-unveils-its-new-interface-an-ai-ring-that-predicts-and-surfaces-what-you-need-before-you-ask-1036723032?op=1">markets.businessinsider.com</a></p>
 <br clear="all" />
 
 ---
