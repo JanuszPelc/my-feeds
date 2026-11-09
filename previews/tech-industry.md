@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Alphabet&#x27;s Wing to Build Drone Manufacturing Facility in Texas</h2>
+<a name="story-26908"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-07812110%3Fwidth%3D700%26height%3D468&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alphabet's Wing plans to invest up to $125 million over the next two years to build a 15,000-square-foot facility in Fort Worth, Texas. The site will be used to produce tens of thousands of delivery drones.</p><p>The investment aims to scale production capacity to support the expansion of the company's drone delivery services.</p>
+<p>Nov 9 · <a href="https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?st=mg2s23&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
+<h2>Meta Expands Instagram AI Age Detection Globally</h2>
+<a name="story-26909"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Froblox-launches-ai-video-selfie-age-verification-trusted-connections-parental-5ceeaafa%2Fe3ca9a53f6ddd0a28b21402ea7ee9d90881cfe9ee764e65aaed9600522d629de.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta is deploying AI-powered age estimation technology to Instagram users worldwide to identify teenagers who have misreported their age. This initiative aims to automatically enroll millions of users into "Teen Account" protections, which feature private settings by default, limited content visibility, and restrictions on direct messages from strangers.</p><p>The system analyzes various signals, including interaction patterns, birthday messages, and visual cues such as bone structure and height. This expansion follows a $17.1 billion lawsuit settlement in August concerning Meta's age verification and teen safety practices.</p>
+<p>Nov 9 · <a href="https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion">theverge.com</a> | <a href="https://about.fb.com/news/2026/11/expanding-teen-account-protections-around-the-world/">about.fb.com</a></p>
+<br clear="all" />
+
 <h2>Harwood Voters Reject Measure Opposing Applied Digital Data Center</h2>
 <p>Residents in Harwood, North Dakota, have declined a ballot measure intended to block the construction of a $3 billion data center by Applied Digital. The facility is expected to become operational in 2027.</p><p>This outcome contrasts with a growing national trend of voters expressing opposition toward large-scale data center projects used to power artificial intelligence.</p>
 <p>Nov 9 · <a href="https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/">washingtonpost.com</a></p>
@@ -83,17 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26832"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcleantechnica.com%2Fwp-content%2Fuploads%2F2025%2F02%2FTesla-Cybertruck-Broken-Windows-Elon-Musk-Unveiling-event-KYLE-FIELD-CleanTechnica-watermark.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of Tesla’s vehicle lineup highlights a lack of major, successful new product launches since JB Straubel stepped down as chief technology officer in July 2019. While earlier models like the Model S, Model X, Model 3, and Model Y established the company as an automotive force, subsequent entries such as the Cybertruck have faced severe commercial struggles and multi-billion-dollar net project losses.</p><p>Straubel’s departure coincided with the finalization of the Model Y and the Megapack, after which Tesla's development trajectory shifted away from mass-market affordability and practical engineering oversight. The upcoming Cybercab will test whether the company can reverse this trend, as observers continue to evaluate the long-term impact of losing Straubel's technical leadership and moderating influence on product development.</p>
 <p>Nov 8 · <a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/">cleantechnica.com</a> | <a href="https://news.ycombinator.com/item?id=50414427">hacker news</a></p>
-<br clear="all" />
-
-<h2>SemiAnalysis Visits Envision Galaxy AI Datacenter Campus in Inner Mongolia</h2>
-<a name="story-26809"><img src="https://wsrv.nl/?url=https%3A%2F%2Funbiasedheadlines.com%2Fimages%2Farticles%2Fchina-opens-2-gigawatt-ai-data-center-in-inner-mongolia-built-to-run-1-million-gpus.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers from SemiAnalysis toured the Galaxy AI datacenter campus in Ulanqab, Inner Mongolia, a gigawatt-scale project developed by renewable energy company Envision Group. Planned for up to 800 megawatts of IT capacity, the campus integrates dedicated wind generation, solid-state transformers, and local battery storage to supply low-cost power for artificial intelligence infrastructure.</p><p>The facility operates under a source-grid-load-storage model, linking wind farms directly to the datacenter via dedicated power lines to secure fixed-cost green energy. Envision's deep vertical integration—manufacturing its own wind turbines, power electronics, and battery systems—reflects a broader trend among industrial firms in China entering the AI infrastructure sector.</p>
-<p>Nov 8 · <a href="https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner">newsletter.semianalysis.com</a> | <a href="https://news.ycombinator.com/item?id=50411720">hacker news</a></p>
-<br clear="all" />
-
-<h2>Environmental Groups Embrace Artificial Intelligence While Warning of Data Center Impacts</h2>
-<p>Environmental organizations worldwide are increasingly adopting artificial intelligence tools to support their conservation and climate efforts, utilizing the technology to analyze complex climate data, monitor forest fires, and track endangered wildlife populations.</p><p>At the same time, these groups continue to voice strong concerns regarding the environmental toll of the AI industry, pointing to the substantial energy and water consumption required to power and cool rapidly expanding data centers.</p>
-<p>Nov 8 · <a href="https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/">reuters.com</a></p>
 <br clear="all" />
 
 ---

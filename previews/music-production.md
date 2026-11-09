@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>BPB Reader Poll Reveals Attitudes Toward AI in Music Software</h2>
+<a name="story-26924"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.imgix.net%2F2026%2F01%2Fai-tools-music-producers-actually-use-2026.png%3Fauto%3Dcompress%2Cformat%26w%3D1072&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A poll of over 2,000 Bedroom Producers Blog (BPB) readers shows a preference for AI tools designed for specific technical tasks—such as stem separation, noise removal, and code assistance—while expressing strong opposition to AI music generators. Approximately 89% of respondents support AI-related coverage, but 88% rejected tools that generate finished songs from text prompts.</p><p>The results highlight concerns regarding software quality, maintenance, and the ethical use of training data. While some producers utilize AI for specific workflow benefits or accessibility, the consensus favors tools that assist the creative process rather than replacing the musician.</p>
+<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
 <h2>Force56 Audio Software Releases Drumod4 Drums VST Plugin</h2>
 <a name="story-26921"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdrumod4-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Force56 Audio Software has released Drumod4 Drums VST, a sample-based virtual instrument modeled after the classic Alesis D4 digital drum module. Available for Windows and macOS in VST3, Audio Unit, and standalone formats, the plugin features all 500 original percussion sounds and 21 factory drum kits from the hardware unit.</p><p>The plugin provides 12 playable pads with independent volume, pan, and tuning controls, along with support for custom kit creation, MIDI, and DAW automation. Priced at $39, the instrument is designed to bring early-90s hardware workflows into modern digital audio workstations without requiring external sample libraries.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26755"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdm.link%2Fapp%2Fuploads%2F2019%2F05%2FDSC02828.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bedroom Producers Blog features a free sample pack from Polyend, offering modular effects designed for electronic music producers and sound designers. The collection provides a variety of distinctive audio textures and processing elements that can be integrated into digital audio workstations.</p><p>The sound pack is made available for download through promotional offers covered on the blog, catering to producers seeking unique hardware-derived sounds without additional cost.</p>
 <p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/polyend-patch/">bedroomproducersblog.com</a></p>
-<br clear="all" />
-
-<h2>ILIO Adds 2,000 Free Licenses for Low End Theory 2 Sound Pack</h2>
-<a name="story-26747"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fs5AVH9RqEUM%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ILIO has released an additional 2,000 free licenses for the Low End Theory 2 sound pack, a 100-preset collection created by Sean Divine for use with the free AAS Player. The follow-up batch provides another opportunity for users who missed the initial giveaway.</p><p>Designed for hip-hop, trap, and electronic music production, the pack includes basses, leads, keys, pads, and drum sounds. The licenses are available on a first-come, first-served basis through ILIO's registration page, supporting macOS and Windows systems.</p>
-<p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/aas-player-giveaway">ilio.com</a></p>
 <br clear="all" />
 
 ---
