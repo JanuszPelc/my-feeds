@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>US OCC Grants Coinbase Final Approval for Trust Bank Charter</h2>
+<p>The US Office of the Comptroller of the Currency has granted Coinbase Global Inc. full approval for a trust bank charter. The regulatory decision marks a major milestone for the cryptocurrency exchange as it seeks to deepen its integration into traditional financial infrastructure.</p><p>According to sources familiar with the matter, the charter could significantly expand the company's stablecoin operations and enable it to directly issue stablecoins. The development comes as regulators increasingly shape the operational boundaries for major digital asset firms in the United States.</p>
+<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Apple Saved $2.7 Billion in Taxes via Singapore Disclosures Show</h2>
 <a name="story-26798"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fcba7541e-fa92-11e5-b3f6-11d5706b613b%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple saved $2.7 billion in taxes this year by routing up to $50 billion in profits through Singapore, surpassing the $2.6 billion saved via Ireland. Singapore has thus overtaken Ireland as the iPhone maker's largest tax shelter, according to recent corporate disclosures.</p><p>The shift highlights how multinational corporations adapt their profit-routing structures in response to changing international tax landscapes and regulatory pressures, particularly as traditional European havens face heightened scrutiny.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26577"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshield.ai%2Fwp-content%2Fuploads%2F2023%2F03%2FFTUAS-Press-Release-NG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Defense technology startup Shield AI has entered into a definitive agreement to acquire radar manufacturer Echodyne Corp. in a transaction valued at $5.3 billion. To support the acquisition, the company is raising $2.5 billion through a combination of new equity, structured equity, and debt financing, which includes a $1 billion Series H funding round.</p><p>The financing elevates Shield AI's post-money valuation to $28.8 billion, representing a significant increase from its $12.7 billion valuation earlier in the year. The transaction comprises $4.8 billion paid and issued at closing, with up to an additional $500 million contingent upon Echodyne achieving specific performance targets.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition">bloomberg.com</a> | <a href="https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/">shield.ai</a></p>
-<br clear="all" />
-
-<h2>Greek Parliament Approves 10% Capital Gains Tax on Cryptocurrencies</h2>
-<a name="story-26579"><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.cryptonomist.ch%2Fwp-content%2Fuploads%2F2026%2F10%2Fgreece-cryptocurrency-tax-1068x712.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Greece's parliament approved a bill establishing a 10% capital gains tax on cryptocurrencies, marking the country's first comprehensive legal framework for taxing digital assets. The legislation applies a flat rate to individuals' net crypto gains.</p><p>The framework incorporates an annual exemption threshold of €500 for net profits, offering relief to smaller retail investors. The measure follows a public consultation period initiated by the Ministry of National Economy and Finance.</p>
-<p>Nov 5 · <a href="https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/">reuters.com</a></p>
 <br clear="all" />
 
 ---

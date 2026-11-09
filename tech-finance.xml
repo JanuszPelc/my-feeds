@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-08T05:56:00+00:00</updated>
+  <updated>2026-11-09T12:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>US OCC Grants Coinbase Final Approval for Trust Bank Charter</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter::v240</id>
+    <published>2026-11-09T12:37:00+00:00</published>
+    <updated>2026-11-09T12:37:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter">bloomberg.com</a></small></p><hr/><p>The US Office of the Comptroller of the Currency has granted Coinbase Global Inc. full approval for a trust bank charter. The regulatory decision marks a major milestone for the cryptocurrency exchange as it seeks to deepen its integration into traditional financial infrastructure.</p><p>According to sources familiar with the matter, the charter could significantly expand the company's stablecoin operations and enable it to directly issue stablecoins. The development comes as regulators increasingly shape the operational boundaries for major digital asset firms in the United States.</p><hr/><small>9 Nov 2026, 18:47 UTC | #26904</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Saved $2.7 Billion in Taxes via Singapore Disclosures Show</title>
     <link href="https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede" rel="alternate" />

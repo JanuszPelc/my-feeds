@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-09T07:01:00+00:00</updated>
+  <updated>2026-11-09T12:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Energy Consumption for Building Linux Distribution Packages Measured</title>
+    <link href="https://www.wezm.net/v2/posts/2026/distro-energy-use/" rel="alternate" />
+    <id>https://www.wezm.net/v2/posts/2026/distro-energy-use/::v240</id>
+    <published>2026-11-09T12:38:00+00:00</published>
+    <updated>2026-11-09T12:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.wezm.net%2Fv2%2Fposts%2F2026%2Fdistro-energy-use%2Fbento-slide.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wezm.net/v2/posts/2026/distro-energy-use/">wezm.net</a> | <a href="https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro">lobsters</a></small></p><hr/><p>An analysis of infrastructure energy use for Casuarina Linux reveals that running a dedicated build server over a seven-month period consumed 98.4 kWh of electricity. The server, equipped with an AMD Ryzen 9 5950X processor, handled roughly 5,200 package builds while being powered down manually when idle.</p><p>The total electricity cost amounted to roughly AU$32.47 under a renewable energy plan, translating to slightly under AU$5 per month. This figure excludes initial package compilation on a separate desktop workstation and potential offsets from rooftop solar generation, with individual package build times peaking at under four hours for Chromium.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wezm.net%2Fv2%2Fposts%2F2026%2Fdistro-energy-use%2Fbento-slide.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 18:50 UTC | #26952</small>]]></content>
+  </entry>
   <entry>
     <title>Google Releases November Update for Googlebook with Performance and Stability Improvements</title>
     <link href="https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone" rel="alternate" />

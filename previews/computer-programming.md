@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Energy Consumption for Building Linux Distribution Packages Measured</h2>
+<a name="story-26952"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wezm.net%2Fv2%2Fposts%2F2026%2Fdistro-energy-use%2Fbento-slide.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An analysis of infrastructure energy use for Casuarina Linux reveals that running a dedicated build server over a seven-month period consumed 98.4 kWh of electricity. The server, equipped with an AMD Ryzen 9 5950X processor, handled roughly 5,200 package builds while being powered down manually when idle.</p><p>The total electricity cost amounted to roughly AU$32.47 under a renewable energy plan, translating to slightly under AU$5 per month. This figure excludes initial package compilation on a separate desktop workstation and potential offsets from rooftop solar generation, with individual package build times peaking at under four hours for Chromium.</p>
+<p>Nov 9 · <a href="https://www.wezm.net/v2/posts/2026/distro-energy-use/">wezm.net</a> | <a href="https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro">lobsters</a></p>
+<br clear="all" />
+
 <h2>Google Releases November Update for Googlebook with Performance and Stability Improvements</h2>
 <a name="story-26876"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FVHLrEQnyFyGbeSJfvGvR3N.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is rolling out the November update for Googlebook, bringing significant performance, stability, and memory management optimizations. The update refines NPU drivers and AICore memory handling, freeing up to 6GB of system RAM to improve multitasking and prevent unexpected Chrome crashes under heavy workloads.</p><p>The release also fixes several hardware and software bugs across supported models from manufacturers like Acer, ASUS, and Lenovo, including issues with tablet mode input loss, Zoom virtual background crashes, and black screens on DRM-protected external displays. Additionally, it includes Linux terminal and security enhancements, incorporating the November 2026 Android security patch and an updated Linux kernel.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26828"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2F1216jmicro01-221124044524-d404c711%2F85%2FDESIGN-OF-DOUBLE-PRECISION-FLOATING-POINT-MULTIPLICATION-ALGORITHM-WITH-VECTOR-SUPPORT-2-638.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Futhark programming language blog examines the origins of nondeterminism within its parallel execution model, identifying two primary sources: language abuse through unsafe constructs like unchecked scatter operations, and floating-point roundoff errors caused by non-associative operations. While Futhark is generally characterized as a deterministic language, parallel reductions and scans alter the order of floating-point additions depending on hardware schedules, leading to replayable or approximate results.</p><p>Although fully deterministic implementations—such as tree-based summation—are possible, they incur significant performance penalties compared to hardware-optimized routines that rely on atomic instructions or backend-specific chunking. The post highlights that sacrificing strict determinism is a deliberate design choice required to maintain high performance on modern parallel hardware, balancing numerical consistency against execution speed.</p>
 <p>Nov 8 · <a href="https://futhark-lang.org/blog/2026-11-04-nondeterminism.html">futhark-lang.org</a> | <a href="https://lobste.rs/s/4lgvnf/nondeterminism_futhark">lobsters</a></p>
-<br clear="all" />
-
-<h2>Rune Native GPU-Rendered Rust UI Framework</h2>
-<a name="story-26825"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.rerun.io%2Fcustom_view%2F61089d7178b3bd7f9e3de36ee9c00e5fdf1c6f76%2Ffull.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rune is a native, GPU-rendered user interface framework written in Rust that supports macOS, Windows, Linux, and the web. Built with its own renderer, text engine, layout system, and spring physics, the framework provides a comprehensive foundation for building cross-platform applications.</p><p>The framework is designed to run headlessly, enabling automated coding agents to render applications to PNG images, inspect element trees, and drive interfaces using scripted input. Currently available as a pre-release project on GitHub, Rune includes custom UI components, built-in visual effects, and a variety of code examples.</p>
-<p>Nov 8 · <a href="https://github.com/anomalyco/rune">github.com</a> | <a href="https://news.ycombinator.com/item?id=50394569">hacker news</a></p>
 <br clear="all" />
 
 ---
