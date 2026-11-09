@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>discoDSP Updates TED-8, Discovery Pro, and Retromulator</h2>
+<a name="story-26880"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fted8_matrix.1792857894.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>discoDSP has released TED-8 1.5, introducing a piano roll editor for the sequencer, phrase generators, MIDI file support, and arpeggiator modes from the TEO-5. The update also features a recalibrated sound profile and is available free to existing customers.</p><p>Alongside TED-8, the company updated Discovery Pro to version 9.10 with the Nordic 1 filter, Nord Lead 1 SysEx import and export, and CPU-efficient layer quality modes, while also updating Retromulator to version 2.3.</p>
+<p>Nov 9 · <a href="https://www.kvraudio.com/news/discodsp-updates-ted-8-discovery-pro-synths-and-retromulator-multi-core-plugin-69699?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69699">kvraudio.com</a></p>
+<br clear="all" />
+
 <h2>MOK Updates Filtryg to v1.2.2 with Windows ARM Support</h2>
 <a name="story-26887"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffiltryg_1_main_product_photo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Media Overkill has released version 1.2.2 of its Filtryg dual filter plugin as a free update for current users. The new version introduces support for Windows ARM64X and provides a generic Linux tarball download option alongside the standard Debian installer package.</p><p>Additional changes in v1.2.2 include framework updates for Juce and AAX, various under-the-hood bug fixes, and updated user manuals. The update also moves theme files to the user preferences folder on disk, allowing them to be customized with an optional file-change monitoring feature in the theme menu.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26676"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frestoration-suite-3-plugin-collection-16_9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Restoration Suite 3 toolkit features a new plug-in that automatically identifies audio defects and constructs a custom repair chain. By using an "Analyze" function, the software listens to a recording to detect issues such as broadband noise, hum, clicks, or clipping, then automatically configures the required modules and settings.</p><p>The suite includes updated versions of DeNoise 3, DeHum 3, DeClick 3, and DeClip 3, with DeNoise and DeHum introducing new machine learning–powered "Automatic" modes. The software is available as a standalone product with perpetual licensing or as part of the Acoustica 8 audio editor.</p>
 <p>Nov 6 · <a href="https://www.kvraudio.com/news/acon-digital-launches-restoration-suite-3-69668?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69668">kvraudio.com</a> | <a href="https://acondigital.com/products/restoration-suite">acondigital.com</a></p>
-<br clear="all" />
-
-<h2>Vibe Together Multiplayer Browser Music Sandbox Launches in Beta</h2>
-<a name="story-26678"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsm.ign.com%2Ft%2Fign_za%2Fvideo%2Fv%2Fvibe-toget%2Fvibe-together-official-announcement-trailer_h52p.600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Vibe Together is a browser-based multiplayer music sandbox developed by Manik Bhat that enables up to eight users to compose music collaboratively on a shared grid. Participants place and connect musical objects with wires to trigger sounds, utilizing distance for timing and color-coded pitch for melody creation.</p><p>The platform features a procedural music generation system, a custom synth engine supporting subtractive, wavetable, and FM synthesis, and arcade-inspired game modes. It operates on a free-to-start model with a $20 premium tier that unlocks unlimited saves and export capabilities, with a Steam edition planned for future release.</p>
-<p>Nov 6 · <a href="https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/">bedroomproducersblog.com</a> | <a href="https://makevibestogether.com/">makevibestogether.com</a></p>
 <br clear="all" />
 
 ---
