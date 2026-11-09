@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>EU Sues IBM, Atos, and Leonardo Over Smart Border System Delays</h2>
+<a name="story-26890"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbritainherald.com%2Fwp-content%2Fuploads%2F2026%2F04%2FEU-Entry-Exit-System-border-delays-Imaage-Via-Zurich-Airport.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The European Union has filed a lawsuit in Estonia against IBM, French IT group Atos, and Italian contractor Leonardo over repeated delays in developing its Entry/Exit System. The technological setbacks and implementation failures associated with the smart border project have triggered widespread travel chaos and border congestion across member states.</p><p>The litigation highlights increasing institutional frustration over accountability and delivery timelines for major public-sector digital infrastructure. The automated border management system is designed to track non-EU travelers, but its rocky rollout has repeatedly disrupted transport networks and passenger processing.</p>
+<p>Nov 9 · <a href="https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301">ft.com</a></p>
+<br clear="all" />
+
+<h2>Chinese Media Dismisses Spy Claims Involving Nvidia CEO Jensen Huang</h2>
+<a name="story-26884"><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2Fb95d%2Flive%2Fc37c6b00-93b5-11f0-af04-cd07e8e3d1e7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese media outlets have dismissed allegations linking Beijing to an espionage controversy involving Nvidia Corp. Chief Executive Officer Jensen Huang, rejecting reports from US media as fabricated narratives.</p><p>The commentary warned that propagating such unverified spy claims risks damaging bilateral trade relations and technological cooperation between the United States and China.</p>
+<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Donald Trump Discusses Midterm Election Defeat and Policy in 60 Minutes Interview</h2>
 <a name="story-26871"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F65e5ae1fb7482afd48d22155%2F673e7a74b3595cc05a8a47f6_Untitled-design-97-1-scaled.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CBS News has published the transcript of a post-midterm interview with President Donald Trump following significant Republican losses in the congressional elections. Conducted by Ross Douthat and other correspondents, the conversation covers the administration's electoral setbacks, voter dissatisfaction with economic conditions, and potential paths forward with a Democratic congressional majority.</p><p>During the interview, Trump reflects on the factors contributing to the midterm results, including the political fallout from foreign conflicts and his deportation policies. He also expresses openness to bipartisan cooperation on immigration reform, while discussing potential cabinet adjustments and defense decisions following the midterms.</p>
@@ -82,18 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26765"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.politico.eu%2Fcdn-cgi%2Fimage%2Fwidth%3D1160%2Cheight%3D747%2Cquality%3D80%2Conerror%3Dredirect%2Cformat%3Dauto%2Fwp-content%2Fuploads%2F2026%2F11%2F04%2FGettyImages-2299469363-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hungary has launched an online public database granting unrestricted access to communist-era state security records for the first time since the 1990 democratic transition. The newly accessible portal makes searchable the names and registration details of an estimated 50,000 to 60,000 former informants and agents from the one-party communist era.</p><p>The initiative follows a bill introduced by Prime Minister Peter Magyar in September to lift decades of restrictions that critics argued enabled political blackmail and secrecy. While the release includes names of politicians, clergy, and public figures, historians and officials note that the files are incomplete and urge the public to approach the sensitive historical records with caution and nuance.</p>
 <p>Nov 7 · <a href="https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed">euronews.com</a> | <a href="https://news.ycombinator.com/item?id=50383163">hacker news</a></p>
-<br clear="all" />
-
-<h2>Shenzhen Clears Out Illicit Markets Ahead of APEC Summit</h2>
-<a name="story-26736"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F08%2F01%2Fmultimedia%2F00trade-bans-takeaways-jgmb%2F00trade-bans-takeaways-jgmb-facebookJumbo.jpg%3Fyear%3D2024%26h%3D549%26w%3D1050%26s%3Dc46970be5263cebcb590f24c80c5cedff63e01105e291705b5bdb82b83ccad78%26k%3DZQJBKqZ0VN&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Shenzhen is clearing out its underground markets for smuggled computer chips, stolen iPhones, dual-use drones, and counterfeit goods as the Chinese megacity prepares to host the upcoming Asia-Pacific Economic Cooperation summit. Authorities are stepping up security and sweeping illegitimate trade out of sight to welcome international leaders and delegates.</p><p>The cleanup reflects a broader push by the southern tech hub to overhaul its infrastructure, safety standards, and visitor services ahead of the major diplomatic event. While the crackdown targets long-standing gray-market hubs that handle high-value contraband, questions remain about how enduring these security and aesthetic changes will be once the summit concludes.</p>
-<p>Nov 7 · <a href="https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862">ft.com</a></p>
-<br clear="all" />
-
-<h2>SpaceX US Government Revenue to Fall Below 10%, Elon Musk Says</h2>
-<a name="story-26712"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWdHz9QboAAUV00%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Elon Musk stated that US government contracts will account for less than 10% of SpaceX's revenue during the current quarter, reflecting a significant decline from 16.6% in the previous quarter and roughly 20% in 2025. The shift highlights a decreasing reliance on public sector funding as commercial operations and other large-scale agreements expand.</p><p>The reduction in government contract share comes as commercial and corporate ventures, including AI computing arrangements, grow to comprise the vast majority of the company's business. Musk's remarks point to a broader transition in SpaceX's revenue streams away from its historical dependence on government-backed missions and programs.</p>
-<p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
