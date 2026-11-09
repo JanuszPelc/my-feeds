@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-08T22:44:00+00:00</updated>
+  <updated>2026-11-08T22:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>McGill University Researchers Propose 'Biotic Inflection' Model for Evolutionary Transitions</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261106174535.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261106174535.htm::v240</id>
+    <published>2026-11-08T22:46:00+00:00</published>
+    <updated>2026-11-08T22:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.frontiersin.org%2Ffiles%2FArticles%2F1848892%2Fxml-images%2Ffevo-14-1848892-g005.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261106174535.htm">sciencedaily.com</a></small></p><hr/><p>Researchers from McGill University and the Centro de Investigaciones Paleontológicas have proposed a new evolutionary model called a "Biotic Inflection" following an analysis of fossils from Colombia's Paja Formation. The concept describes an evolutionary turning point where older animal lineages nearing extinction coexist and overlap with newer groups that are beginning to diversify, occurring independently of mass extinction events.</p><p>The findings are based on the Paja Formation's exceptionally rich Early Cretaceous marine ecosystem, which preserves surviving Jurassic lineages alongside emerging Cretaceous groups, including giant marine reptiles, turtles, and sharks. The researchers attribute this rare coexistence to favorable environmental conditions such as warm greenhouse temperatures, high sea levels, nutrient-rich coastal waters, and newly opened ocean connections between the eastern Pacific and early Atlantic.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.frontiersin.org%2Ffiles%2FArticles%2F1848892%2Fxml-images%2Ffevo-14-1848892-g005.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 03:58 UTC | #26859</small>]]></content>
+  </entry>
   <entry>
     <title>Luca Comisso and Felipe A. Asenjo Uncover Gravitational Reconnection in Einstein's Equations</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261104084011.htm" rel="alternate" />
