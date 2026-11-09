@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-09T14:11:00+00:00</updated>
+  <updated>2026-11-09T15:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Parallel Minds Releases Atavism Spectral Effect for iPad</title>
+    <link href="https://www.kvraudio.com/news/parallel-minds-releases-atavism-spectral-effect-for-ipad-auv3-69707?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69707" rel="alternate" />
+    <id>https://www.kvraudio.com/news/parallel-minds-releases-atavism-spectral-effect-for-ipad-auv3-69707?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69707::v240</id>
+    <published>2026-11-09T15:01:00+00:00</published>
+    <updated>2026-11-09T15:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fatavism-ipad-kvr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/parallel-minds-releases-atavism-spectral-effect-for-ipad-auv3-69707?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69707">kvraudio.com</a> | <a href="https://parallel-minds.studio/products/atavism">parallel-minds.studio</a></small></p><hr/><p>Parallel Minds has released Atavism for iPad as an AUv3 spectral effect plug-in. The tool transforms audio tracks, voices, or melodies into harmonic pads that remain in the song's key during chord changes. It can be utilized on individual tracks, buses, or the master output within a host application.</p><p>Features include a primary blending knob to transition from the original track to the spectral pad, pulsation modulation, a shimmer effect for upper octaves, and dedicated low and high cut filters. The plugin is available for a one-time purchase of $4.99 / 4.99€ on the App Store and requires iPadOS 15 or later.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fatavism-ipad-kvr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 20:18 UTC | #26925</small>]]></content>
+  </entry>
   <entry>
     <title>BPB Reader Poll Reveals Attitudes Toward AI in Music Software</title>
     <link href="https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/" rel="alternate" />
