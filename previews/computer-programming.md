@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Technical Overview of Email Architecture, SMTP, and Message Formats</h2>
 <a name="story-26830"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4160909%2Fslide22-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An architectural and technical breakdown of how email functions examines the roles of mail user agents, transfer agents, and delivery agents within the Simple Mail Transfer Protocol framework. It details the step-by-step transmission process, covering domain name system mail exchange lookups, connection handshakes, and command-and-response interactions between servers.</p><p>The overview also addresses sender authentication mechanisms such as the Sender Policy Framework and DomainKeys Identified Mail, along with historical message formatting standards including multipurpose internet mail extensions, quoted-printable encoding, and base64. It highlights how legacy design constraints and modern security requirements continue to shape email delivery infrastructure.</p>
-<p>Nov 8 · <a href="https://maurycyz.com/misc/email/">maurycyz.com</a> | <a href="https://lobste.rs/s/jnz4v5/bit_about_email">lobsters</a></p>
+<p>Nov 8 · <a href="https://maurycyz.com/misc/email/">maurycyz.com</a> | <a href="https://lobste.rs/s/jnz4v5/bit_about_email">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50420383">hacker news</a></p>
 <br clear="all" />
 
 <h2>Examining Nondeterminism in the Futhark Programming Language</h2>
