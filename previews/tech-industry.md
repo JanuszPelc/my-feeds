@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>US Professional Services Add 70,000 Jobs in October Amid AI Growth Concerns</h2>
+<a name="story-26848"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftax.thomsonreuters.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F17%2F2024%2F08%2FTR4398851_05G_1920x2241.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>US professional services added 70,000 jobs in October, reaching the highest monthly total since July 2022. Sectors heavily exposed to artificial intelligence, including consulting, legal services, and accounting, all experienced employment growth despite ongoing concerns regarding AI-driven job displacement.</p><p>The hiring figures counter widespread anxieties that automation and generative AI would rapidly eliminate white-collar professional roles. Strong employment gains at law offices and consulting firms indicate that technology adoption is currently expanding workforce demand rather than immediately replacing human labor in these industries.</p>
+<p>Nov 8 · <a href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4">wsj.com</a></p>
+<br clear="all" />
+
 <h2>AI Companies Sell Over $300 Billion in Stock in 2026</h2>
 <a name="story-26831"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F2522257153%2Fdisplay_1500%2Fstock-photo-artificial-intelligence-open-ai-stocks-market-2522257153.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence companies sold or priced more than $300 billion worth of stock in 2026, excluding Anthropic's initial public offering, with an additional $100 billion planned. Recent volatile trading in AI-related equities has highlighted growing questions about the market's capacity to absorb further share offerings.</p><p>The heavy volume of issuance reflects surging capital demands across the artificial intelligence sector as firms fund extensive infrastructure and development. Market observers are closely monitoring whether investor appetite can sustain the upcoming pipeline of stock sales without triggering broader sector pullbacks.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26717"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHID5wUGWYAAiQDK.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic is moving forward with plans for an initial public offering before the Thanksgiving holiday this month. The company expects to raise $80 billion to $100 billion at a valuation between $1.25 trillion and $1.75 trillion.</p><p>This high-stakes listing is being pursued despite a recent downturn in technology stocks. The capital raise is intended to support the company's development and infrastructure investments.</p>
 <p>Nov 6 · <a href="https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452">ft.com</a></p>
-<br clear="all" />
-
-<h2>Microsoft Winds Down Oracle Cloud AI Capacity Rental Deal</h2>
-<a name="story-26708"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftecknexus.com%2Fwp-content%2Fuploads%2F2025%2F07%2FOracle-OpenAi-Datacenter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft Corp. is winding down an agreement to rent AI computing capacity from Oracle Corp. after declining to renew their 2023 partnership. The decision stems from the hardware relying on older Nvidia chips, prompting Microsoft to reevaluate multi-billion-dollar cloud collaborations.</p><p>The phase-out reflects broader adjustments in how major technology companies manage and scale their AI infrastructure needs. As newer generations of hardware become available, companies are shifting away from older configurations to optimize performance and cost efficiency.</p>
-<p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50398993">hacker news</a></p>
 <br clear="all" />
 
 ---

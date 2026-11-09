@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-08T22:24:00+00:00</updated>
+  <updated>2026-11-08T22:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>US Professional Services Add 70,000 Jobs in October Amid AI Growth Concerns</title>
+    <link href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4" rel="alternate" />
+    <id>https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4::v240</id>
+    <published>2026-11-08T22:53:00+00:00</published>
+    <updated>2026-11-08T22:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftax.thomsonreuters.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F17%2F2024%2F08%2FTR4398851_05G_1920x2241.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4">wsj.com</a></small></p><hr/><p>US professional services added 70,000 jobs in October, reaching the highest monthly total since July 2022. Sectors heavily exposed to artificial intelligence, including consulting, legal services, and accounting, all experienced employment growth despite ongoing concerns regarding AI-driven job displacement.</p><p>The hiring figures counter widespread anxieties that automation and generative AI would rapidly eliminate white-collar professional roles. Strong employment gains at law offices and consulting firms indicate that technology adoption is currently expanding workforce demand rather than immediately replacing human labor in these industries.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftax.thomsonreuters.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F17%2F2024%2F08%2FTR4398851_05G_1920x2241.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 04:50 UTC | #26848</small>]]></content>
+  </entry>
   <entry>
     <title>AI Companies Sell Over $300 Billion in Stock in 2026</title>
     <link href="https://www.theinformation.com/articles/ai-stock-can-market-absorb" rel="alternate" />
