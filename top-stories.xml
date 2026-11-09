@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-09T08:53:00+00:00</updated>
+  <updated>2026-11-09T13:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>KetchUp Open-Source 3D Woodworking and Furniture Design App Available</title>
+    <link href="https://ketchup3d.github.io/app/" rel="alternate" />
+    <id>https://ketchup3d.github.io/app/::v240</id>
+    <published>2026-11-09T13:25:00+00:00</published>
+    <updated>2026-11-09T13:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fketchup3d.github.io%2Fapp%2Fassets%2Fscreenshots%2Fketchup.jpg%3Fv%3D0.6.5-r2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ketchup3d.github.io/app/">ketchup3d.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418176">hacker news</a></small></p><hr/><p>KetchUp is a free, open-source 3D modeling application built with Rust and WebGPU, designed specifically for woodworking and furniture planning. The software enables users to sketch shapes, apply exact measurements, and organize complex assemblies using groups, components, and tags prior to construction.</p><p>The application runs natively on Windows, macOS, and Linux, or directly within compatible desktop web browsers without requiring an account or cloud storage. It supports local autosaving, importing SketchUp geometry, exporting Wavefront OBJ files, and saving portable project files directly to the user's device.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fketchup3d.github.io%2Fapp%2Fassets%2Fscreenshots%2Fketchup.jpg%3Fv%3D0.6.5-r2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 01:34 UTC | #26856 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>Apiiro Examines Security Risks of Coding Agents Leaking Secrets on GitHub</title>
     <link href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again" rel="alternate" />
@@ -471,14 +480,5 @@
     <updated>2026-11-04T17:27:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhazm.at%2Fmox%2Falgorithm%2Fstructural-algorithm%2Ftree%2Fb-epsilon-tree%2Fan-introduction-to-b-epsilon-trees-and-write-optimization%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.usenix.org/publications/login/oct15/bender">usenix.org</a> | <a href="https://lobste.rs/s/0ec9yk/introduction_b_trees_write_optimization">lobsters</a></small></p><hr/><p>Michael A. Bender and co-authors examine Bε-trees, write-optimized data structures designed to organize on-disk storage for file systems and databases. Providing a key-value API comparable to traditional B-trees, Bε-trees deliver enhanced performance for inserts, updates, and range queries.</p><p>The article contrasts the asymptotic performance and practical measurements of Bε-trees against standard B-trees and Log-Structured Merge trees (LSM-trees). It outlines how buffered internal nodes enable write efficiency, offering foundational insights to help developers design applications that maximize storage performance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhazm.at%2Fmox%2Falgorithm%2Fstructural-algorithm%2Ftree%2Fb-epsilon-tree%2Fan-introduction-to-b-epsilon-trees-and-write-optimization%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 16:32 UTC | #26300 | r,hd</small>]]></content>
-  </entry>
-  <entry>
-    <title>Neufangled Robotics Launches Stringman Room-Scale Cable Robot</title>
-    <link href="https://neufangled.com/" rel="alternate" />
-    <id>https://neufangled.com/::v240</id>
-    <published>2026-11-04T13:24:00+00:00</published>
-    <updated>2026-11-04T13:24:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fnf-site-assets-prod-b%2Fassets%2Fexploded.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://neufangled.com/">neufangled.com</a> | <a href="https://news.ycombinator.com/item?id=50354358">hacker news</a></small></p><hr/><p>Neufangled Robotics has introduced Stringman, an open-source, ceiling-mounted cable-driven parallel robot designed for room-scale manipulation. Priced at $795, the system suspends a two-fingered gripper from four corner-anchored lines, using combined motor torque to achieve a higher payload capacity and broader workspace than traditional desktop robotic arms.</p><p>The OSHWA-certified hardware features published CAD files, PCBs, and control software compatible with frameworks like LeRobot, allowing users to operate it locally or integrate it with machine learning agents. Designed for home labs and classrooms, Stringman includes active swing cancellation, local network operation, and visual tagging capabilities to move items across entire rooms without occupying floor space.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fnf-site-assets-prod-b%2Fassets%2Fexploded.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 22:42 UTC | #26351 | h,dr</small>]]></content>
   </entry>
 </feed>
