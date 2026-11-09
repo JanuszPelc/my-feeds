@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Marula Music Updates Spek and Veld</h2>
+<a name="story-26883"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvelkd-ui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Marula Music has released updates for two of its audio plugins, introducing new processing features and performance improvements. Spek version 1.0.4 adds automatic gain compensation to help users evaluate saturation changes without loudness bias, while Veld version 1.1 brings a decoupled mode with independent stereo engines for each of its four bands.</p><p>In Veld's decoupled mode, users can apply different stereo widening methods such as Haas, Allpass, Velvet, and Chorus across separate frequency ranges, alongside per-band dynamic width transient detection and phase limiting. Spek's new Auto Gain Control continuously monitors input and output levels, adjusting output gain dynamically when settings like Drive, Character, and Bias are modified. Both updates are available immediately from the developer's website.</p>
+<p>Nov 9 · <a href="https://www.kvraudio.com/news/marula-music-updates-spek-to-1-0-4-and-veld-to-1-1-69704?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69704">kvraudio.com</a> | <a href="https://www.marulamusic.com/signal/veld-1-1-spek-agc-update/">marulamusic.com</a></p>
+<br clear="all" />
+
 <h2>Neumann Details Development and Design of KH 310 II and KH 350 Studio Monitors</h2>
 <a name="story-26879"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMT-HERO-NEUMANN-KH-SERIES-CREDIT-SIMON-VINALL%402560x1707.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Neumann product marketing manager Rune Jacobsen details the design, manufacturing standards, and engineering philosophy behind the brand's KH 310 II and KH 350 three-way studio monitors. Tracing the lineup's lineage back to Klein and Hummel, Jacobsen explains how Neumann maintains strict in-house component design and tight production tolerances to ensure consistent acoustic measurements across units.</p><p>Aimed at professional mixing, mastering, and immersive audio setups, the KH 310 II and KH 350 feature integrated DSP and compatibility with Neumann's MA 1 Automatic Monitor Alignment software for room calibration. Although positioned at a high price point, the speakers prioritize a flat, uncolored frequency response and long-term reliability over commercial sound-boosting trends.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26688"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNative-Instruments-Vertikal-plugin.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Native Instruments and Galaxy Instruments have released Vertikal, a new virtual instrument for Kontakt 8 that captures the sound of a 4.5-meter-tall vertical concert grand piano. Recorded by the piano's owner, Nils Frahm, at Berlin's Funkhaus studio complex, the instrument replicates the acoustics of the monumental instrument's massive resonant body and strings.</p><p>Vertikal offers three performance modes—pure, felt, and felt-plus-cotton—allowing users to switch between clear and softened textures. It is powered by a redesigned Particles 2.0 engine featuring refined rhythm patterns, an expanded sound source library, precise pan and timbre controls, and motion modulation systems supporting polyphonic aftertouch.</p>
 <p>Nov 6 · <a href="https://musictech.com/news/music/native-instruments-vertikal-grand-piano-virtual/">musictech.com</a> | <a href="https://www.native-instruments.com/products/vertikal">native-instruments.com</a></p>
-<br clear="all" />
-
-<h2>OXO Synth2 Free Synth1 Recreation Available for macOS and iPad</h2>
-<a name="story-26677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKWqXFLfuYpc%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A new free, open-source virtual analog synthesizer recreates the classic Synth1 for macOS and iPad. Developed by OXO Music, the plugin uses AI-assisted modeling to replicate the original's audio output and parameter behavior, providing a native Apple Silicon alternative for modern systems. It is compatible with macOS 14 and iPadOS 17 in VST3, AU, and AUv3 formats.</p><p>The engine features two oscillators, a sub oscillator, FM, ring modulation, hard sync, and five filter types. Users can import existing .sy1 patches and ZIP banks to maintain compatibility with legacy sound collections. A Windows version is currently in development.</p>
-<p>Nov 6 · <a href="https://bedroomproducersblog.com/2026/11/06/oxo-synth2/">bedroomproducersblog.com</a> | <a href="https://oxo-music.com/products/oxo_synth2">oxo-music.com</a></p>
 <br clear="all" />
 
 ---

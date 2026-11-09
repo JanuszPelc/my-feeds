@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-09T08:31:00+00:00</updated>
+  <updated>2026-11-09T09:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Marula Music Updates Spek and Veld</title>
+    <link href="https://www.kvraudio.com/news/marula-music-updates-spek-to-1-0-4-and-veld-to-1-1-69704?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69704" rel="alternate" />
+    <id>https://www.kvraudio.com/news/marula-music-updates-spek-to-1-0-4-and-veld-to-1-1-69704?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69704::v240</id>
+    <published>2026-11-09T09:03:00+00:00</published>
+    <updated>2026-11-09T09:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvelkd-ui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/marula-music-updates-spek-to-1-0-4-and-veld-to-1-1-69704?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69704">kvraudio.com</a> | <a href="https://www.marulamusic.com/signal/veld-1-1-spek-agc-update/">marulamusic.com</a></small></p><hr/><p>Marula Music has released updates for two of its audio plugins, introducing new processing features and performance improvements. Spek version 1.0.4 adds automatic gain compensation to help users evaluate saturation changes without loudness bias, while Veld version 1.1 brings a decoupled mode with independent stereo engines for each of its four bands.</p><p>In Veld's decoupled mode, users can apply different stereo widening methods such as Haas, Allpass, Velvet, and Chorus across separate frequency ranges, alongside per-band dynamic width transient detection and phase limiting. Spek's new Auto Gain Control continuously monitors input and output levels, adjusting output gain dynamically when settings like Drive, Character, and Bias are modified. Both updates are available immediately from the developer's website.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvelkd-ui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 14:02 UTC | #26883</small>]]></content>
+  </entry>
   <entry>
     <title>Neumann Details Development and Design of KH 310 II and KH 350 Studio Monitors</title>
     <link href="https://musictech.com/features/interviews/neumann-kh-series/" rel="alternate" />
