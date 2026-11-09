@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Pulsar Modular Releases Q Bit Free Bitcrusher Plugin</h2>
+<a name="story-26918"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMZRijk3Mj0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pulsar Modular has released Q Bit, a free bitcrusher plugin for macOS, Windows, Linux, and iOS that combines digital distortion with a rhythmic Time Hold effect. Alongside standard linear bit depth and sample rate reduction down to 2 bits and 2 kHz, the plugin features specialized emulation modes including SP-1200, M.93, and ZX Spectrum 128.</p><p>The Hold function allows users to freeze audio snippets for rhythmic pulsing or slapback effects, with options to sync timing to host tempo or run in free mode. Desktop versions require a free license key and periodic online activation, while the iOS version operates as a standalone app or AUv3 plugin without activation.</p>
+<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/pulsar-modular-qbit/">bedroomproducersblog.com</a> | <a href="https://www.pulsarmodular.com/product/q-bit/">pulsarmodular.com</a></p>
+<br clear="all" />
+
 <h2>Unusable Engineering Releases Currents and Nostalgia Synthesizer Plugin</h2>
 <a name="story-26907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcurrents-and-head2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unusable Engineering has released Currents &amp; Nostalgia, a six-voice virtual analogue synthesizer plugin for macOS and Windows. The instrument is built around two circuit-modelled oscillators derived from an original saw-core hardware design by company founder Rasmus Nyåker, paired with a saturating waveform mixer and low-pass and high-pass filters.</p><p>The software features a subtractive architecture enhanced by two independent eight-slot systems for the oscillator and filter parameters, allowing users to sequence parameter states at audio rates without separate modulation programming. Available in AU and VST3 formats, the plugin includes 350 factory presets and is priced at €89.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26748"><img src="https://wsrv.nl/?url=https%3A%2F%2Fudiaudio.com%2Fcdn%2Fshop%2Ffiles%2Fpv-2790-Dehumaniser_Simple_Monsters-gui-2.jpg%3Fv%3D1724580992%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Krotos is offering the Dehumaniser Simple Monsters voice-processing plugin and the 10.5 GB Krotos Starter Sound Effects Library as a free bundle until November 11, 2026. The promotional offer requires completing checkout on the official site without a purchase or ongoing subscription, providing both products permanently after registration.</p><p>Simple Monsters uses Dehumaniser 2 technology to convert speech into creature and robot voices in real time using adjustable parameters like size and fury alongside an X/Y pad. The accompanying sound library includes nearly 4,000 royalty-free WAV files covering everyday recordings, ambiences, and sci-fi elements equipped with embedded metadata for audio management software.</p>
 <p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/krotos-simple-monsters-free/">bedroomproducersblog.com</a> | <a href="https://krotos.studio/free-bundle">krotos.studio</a></p>
-<br clear="all" />
-
-<h2>NOMN Develops Bubble Synthesizer and Spatial Audio Plugins</h2>
-<a name="story-26749"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixelite.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-1jpg-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>NOMN is a Tokyo-based software studio that produces minimalist music production plugins, including a physical-modeling bubble synthesizer, a multi-layer MIDI generator, spatial processing tools, and a remote browser-based listening service. Its software features custom visual interfaces with support for formats such as VST3, AU, and MPE.</p><p>The studio's device lineup includes FOAM for modeling acoustic bubble dynamics, RESERVOIR for algorithmic MIDI composition using multiple rhythm engines, ANTIVERB for reflection-based density layering, and CHAKRABOOST for multi-band spatial panning. Priced between ¥7,777 and ¥11,111 with 14-day trials available, the plugins operate on macOS and Windows.</p>
-<p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/nomn-tokyo-studio/">bedroomproducersblog.com</a> | <a href="https://nomn.jp/en/">nomn.jp</a></p>
 <br clear="all" />
 
 ---
