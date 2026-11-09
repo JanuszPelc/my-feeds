@@ -3,9 +3,53 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-09T16:06:00+00:00</updated>
+  <updated>2026-11-09T17:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Maono Releases PD500W Hybrid Microphone</title>
+    <link href="https://musictech.com/news/gear/maono-pd500w-available-now/" rel="alternate" />
+    <id>https://musictech.com/news/gear/maono-pd500w-available-now/::v240</id>
+    <published>2026-11-09T17:24:00+00:00</published>
+    <updated>2026-11-09T17:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F06%2FMaono-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/maono-pd500w-available-now/">musictech.com</a> | <a href="https://www.maono.com/products/maono-pd500w-hybrid-microphone-for-podcast">maono.com</a></small></p><hr/><p>Maono has launched the PD500W hybrid microphone for content creators following a successful crowdfunding campaign. The device features 2.4GHz wireless, USB-C, and XLR connectivity, alongside 32GB of onboard storage that supports 24-bit or 32-bit float audio recording.</p><p>Designed for podcasting, streaming, and video production, the microphone integrates with MaonoLink software to provide AI-powered transcription and summarization. It is available via the Maono website and Amazon US in a $399 Basic Version or a $429 Desk Stand Bundle.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F06%2FMaono-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:34 UTC | #26946</small>]]></content>
+  </entry>
+  <entry>
+    <title>Never Found Audio Releases MG-Mini Free MIDI Grabber Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/::v240</id>
+    <published>2026-11-09T17:13:00+00:00</published>
+    <updated>2026-11-09T17:13:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/">bedroomproducersblog.com</a> | <a href="https://neverfoundaudio.com/mg-mini">neverfoundaudio.com</a></small></p><hr/><p>Never Found Audio has released MG-Mini, a free MIDI grabber plugin for Windows. Available in VST3 and Standalone formats, the plugin captures audio input in the background and converts it to MIDI data via a "Grab" button. It supports both single-note (Single Line) and chord-based (Full Stack) modes, and users can drag audio files directly into the interface for conversion.</p><p>The lightweight tool is designed for Windows 10 or later, though a macOS version is currently unavailable. To access the software, users must provide an email address to receive the download link. The developer intentionally omitted features such as note editing and harmonic analysis to maintain a small software footprint.</p><hr/><small>9 Nov 2026, 23:33 UTC | #26944</small>]]></content>
+  </entry>
+  <entry>
+    <title>SSL Blitzer Compressor on Sale at Plugin Boutique</title>
+    <link href="https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/::v240</id>
+    <published>2026-11-09T17:03:00+00:00</published>
+    <updated>2026-11-09T17:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJwrWXTV2PL0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=5241029371df5">pluginboutique.com</a></small></p><hr/><p>Solid State Logic’s SSL Blitzer compressor is available for $19.99 at Plugin Boutique until November 30, discounted from its standard $99 price.</p><p>The plugin combines compression, harmonic drive, and transient shaping, with modes inspired by hardware like the 1176 and LA-2A. Qualifying purchases include a free gift, such as UVI Tape Suite or Excite Audio Evolve Elastic Lite, and the software is compatible with macOS and Windows in VST3, AU, and AAX formats.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJwrWXTV2PL0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:31 UTC | #26945</small>]]></content>
+  </entry>
+  <entry>
+    <title>quietformat Releases Cernion Wavetable Synthesizer</title>
+    <link href="https://www.kvraudio.com/news/quietformat-releases-cernion-wavetable-synthesizer-with-full-mpe-and-cernion-fx-au-and-vst3-69708?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69708" rel="alternate" />
+    <id>https://www.kvraudio.com/news/quietformat-releases-cernion-wavetable-synthesizer-with-full-mpe-and-cernion-fx-au-and-vst3-69708?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69708::v240</id>
+    <published>2026-11-09T17:01:00+00:00</published>
+    <updated>2026-11-09T17:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcernion_v1-0-0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/quietformat-releases-cernion-wavetable-synthesizer-with-full-mpe-and-cernion-fx-au-and-vst3-69708?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69708">kvraudio.com</a> | <a href="https://www.quietformat.com/cernion">quietformat.com</a></small></p><hr/><p>quietformat has released Cernion, a wavetable synthesizer featuring full MPE support and custom waveform editing for up to 256 frames. The package includes Cernion FX, a companion effect plugin designed to apply the synthesizer's modulation and effect processing to external audio and other instruments.</p><p>The software provides extensive modulation via LFOs, envelopes, an XY pad, and a modulation matrix, plus two distinct arpeggiators. It is available on macOS and Windows with an introductory price of $99.99 through December 9, 2026, or via a monthly "Subscribe to Own" model.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcernion_v1-0-0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:28 UTC | #26941</small>]]></content>
+  </entry>
+  <entry>
+    <title>MusicDevelopments Updates RapidComposer to v6.3</title>
+    <link href="https://www.kvraudio.com/news/musicdevelopments-updates-rapidcomposer-to-v6-3-69706?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69706" rel="alternate" />
+    <id>https://www.kvraudio.com/news/musicdevelopments-updates-rapidcomposer-to-v6-3-69706?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69706::v240</id>
+    <published>2026-11-09T16:17:00+00:00</published>
+    <updated>2026-11-09T16:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frc6_2026-10-23_163153.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/musicdevelopments-updates-rapidcomposer-to-v6-3-69706?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69706">kvraudio.com</a> | <a href="https://www.musicdevelopments.com/">musicdevelopments.com</a></small></p><hr/><p>RapidComposer v6.3 for Windows and macOS features a new Chords Play Mode in Live mode, allowing real-time performance via a split keyboard. Users can hold chord notes with one hand while triggering musical phrases with the other that automatically follow the played chords.</p><p>The update also introduces a Melody Call &amp; Response generator, modernized note editing via CAPS LOCK, and new Dark and Light interface themes. Other enhancements include velocity filters, improved scene organization, new keyboard shortcuts, and various stability fixes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frc6_2026-10-23_163153.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:22 UTC | #26937</small>]]></content>
+  </entry>
   <entry>
     <title>Vienna Symphonic Library Releases Vienna Performer</title>
     <link href="https://www.kvraudio.com/news/vienna-symphonic-library-releases-vienna-performer-69663?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69663" rel="alternate" />

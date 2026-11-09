@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Spines Raises $64 Million to Expand AI-Powered Publishing Platform</h2>
+<a name="story-26922"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spines.com%2Fwp-content%2Fuploads%2F2025%2F04%2Fhome.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Israeli AI publishing company Spines has raised $64 million, including $29 million in equity led by Zeev Ventures and $35 million in debt financing from Twelve. The platform uses AI to perform editing, proofreading, cover design, and layout, enabling amateur authors to distribute books in digital, print, and audio formats.</p><p>The company's annual recurring revenue has grown from $3.5 million to $50 million over the last two years, supporting a portfolio of 8,000 authors. While Spines uses technology to detect and block AI-generated manuscripts, it offers AI-driven audiobook narration and plans to expand its language support to 20 languages within the next six months.</p>
+<p>Nov 9 · <a href="https://en.globes.co.il/en/article-israeli-ai-publishing-co-spines-raises-64m-1001562574">en.globes.co.il</a> | <a href="https://spines.com/">spines.com</a></p>
+<br clear="all" />
+
 <h2>Nominal Raises $240M at $3B Valuation</h2>
 <a name="story-26917"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FAHwMcjh_y9I%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nominal, a startup developing software to increase efficiency in hardware manufacturing, has secured $240 million in new funding, bringing its valuation to $3 billion.</p><p>This follows an $80 million funding round in March that valued the company at $1 billion.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26618"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmicms.stonex.com%2Fsites%2Fdefault%2Ffiles%2Finline-images%2Fimage-20260428144325-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Nasdaq 100 fell 6%, wiping out $2.3 trillion in market value, while the Philadelphia semiconductor index dropped 12%. This technology sector selloff, the largest since 2020, was triggered by investor concerns regarding the artificial intelligence trade following Democratic victories in congressional elections.</p><p>The decline highlights growing anxiety over the long-term sustainability of AI-related capital expenditures and potential shifts in the political landscape. Semiconductor stocks bore the brunt of the volatility as investors exited positions in companies focused on AI infrastructure and data center construction.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50381623">hacker news</a></p>
-<br clear="all" />
-
-<h2>Wonder Group Confidentially Files for U.S. Initial Public Offering</h2>
-<p>Food-tech and delivery startup Wonder Group has confidentially filed a draft registration statement on Form S-1 with the U.S. Securities and Exchange Commission for a proposed initial public offering of Class A common stock. Led by former Walmart executive Marc Lore, the company is preparing for a public market debut following significant venture backing and major expansions.</p><p>Founded in 2018, Wonder operates a vertically integrated delivery and restaurant platform that acquired Grubhub for $650 million and previously absorbed meal-kit provider Blue Apron. The company raised $650 million at a $9 billion pre-money valuation in July, positioning itself among the most heavily funded consumer food startups ahead of its planned stock market listing.</p>
-<p>Nov 5 · <a href="https://www.reuters.com/business/marc-lores-wonder-group-confidentially-files-us-ipo-2026-11-05/">reuters.com</a> | <a href="https://about.wonder.com/news/details/2026/Wonder-Announces-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering-2026-cXCTZHXMc2/default.aspx">about.wonder.com</a></p>
 <br clear="all" />
 
 ---

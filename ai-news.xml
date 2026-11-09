@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-09T15:55:00+00:00</updated>
+  <updated>2026-11-09T23:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Disney and Adobe Partner to Develop Proprietary Generative AI Models</title>
+    <link href="https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership" rel="alternate" />
+    <id>https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership::v240</id>
+    <published>2026-11-09T16:13:00+00:00</published>
+    <updated>2026-11-09T16:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblooloop.com%2Fmedia-library%2Fillustration-of-a-decorative-ride-seat-at-disney-with-floral-patterns-and-a-reference-sketch.png%3Fid%3D66949308%26width%3D980&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership">theverge.com</a> | <a href="https://www.businesswire.com/news/home/20261109707511/en/Adobe-and-The-Walt-Disney-Company-Announce-Multi-Year-Strategic-Alliance-to-Support-Disney-Innovation-with-New-AI-Powered-Tools">businesswire.com</a></small></p><hr/><p>The new multiyear partnership will see Adobe and Disney develop proprietary "artist-led" generative AI models via Adobe Firefly Foundry. These tools will be trained on Disney's unique intellectual property—including character attributes, environments, and visual styles—to generate commercially safe, production-ready content for Walt Disney Studios, ESPN, theme parks, and cruise lines.</p><p>The collaboration grants Disney early access to Adobe’s emerging technologies to optimize creative workflows and enhance fan engagement, expanding an existing relationship where Disney Imagineering already uses the Firefly platform. This move follows Disney's previous involvement with OpenAI and Character.AI, occurring as the company reportedly targets significant cost-cutting and staff layoffs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblooloop.com%2Fmedia-library%2Fillustration-of-a-decorative-ride-seat-at-disney-with-floral-patterns-and-a-reference-sketch.png%3Fid%3D66949308%26width%3D980&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:17 UTC | #26932</small>]]></content>
+  </entry>
+  <entry>
+    <title>Medium Launches TK Note-Taking and Private Blogging App</title>
+    <link href="https://www.theverge.com/tech/1029676/medium-tk-notes-app" rel="alternate" />
+    <id>https://www.theverge.com/tech/1029676/medium-tk-notes-app::v240</id>
+    <published>2026-11-09T16:09:00+00:00</published>
+    <updated>2026-11-09T16:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FTK-notes.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1029676/medium-tk-notes-app">theverge.com</a> | <a href="https://medium.com/blog/tk-a-new-private-notebook-app-from-medium-13d3d6efdce1">medium.com</a></small></p><hr/><p>This new application from Medium integrates note-taking and journaling with private social networking features. Users can employ AI to organize their writing and utilize "Libraries"—private, group-based spaces for sharing content and collaborating via links or email. The service is available to existing Medium members on web, Android, and iOS, with a native desktop version in development.</p><p>The shift reflects Medium's strategy to move away from ad-supported models and a reliance on search engine traffic. By emphasizing private communities and direct feedback over public pageviews, the company aims to insulate itself from the impact of Google's algorithm changes and the rise of AI-driven content scraping.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FTK-notes.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:11 UTC | #26927</small>]]></content>
+  </entry>
   <entry>
     <title>Shane Melaugh Reports Reasoning Shift in Claude Opus 5.5 Sessions</title>
     <link href="https://twitter.com/shanemelaugh/status/2119192075505893695" rel="alternate" />
@@ -100,8 +118,8 @@
     <link href="https://thenewstack.io/meta-muse-specialized-models/" rel="alternate" />
     <id>https://thenewstack.io/meta-muse-specialized-models/::v240</id>
     <published>2026-11-07T01:51:00+00:00</published>
-    <updated>2026-11-07T01:51:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://thenewstack.io/meta-muse-specialized-models/">thenewstack.io</a> | <a href="https://research.meta.ai/blog/specialized-models-for-muse-and-metaai">research.meta.ai</a></small></p><hr/><p>Meta is rolling out new specialized AI models trained using its frontier Muse Wonder model to all users of its Muse agent and Meta AI. While subscribers retain access to Wonder for more demanding tasks, these lighter models bring agentic capabilities to a broader consumer audience.</p><p>The new models incorporate two key features previously introduced with Wonder: Active Memory, which enables agents to reason across time and retain relevant context across conversations, and Active Focus, which helps them recover from real-world bottlenecks and handle mid-task corrections. By leveraging a frontier model to train specialized alternatives, Meta aims to provide cost-effective, task-specific performance for personal assistants across its apps.</p><hr/><small>7 Nov 2026, 09:00 UTC | #26730</small>]]></content>
+    <updated>2026-11-09T23:36:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://thenewstack.io/meta-muse-specialized-models/">thenewstack.io</a> | <a href="https://research.meta.ai/blog/specialized-models-for-muse-and-metaai">research.meta.ai</a> | <a href="https://news.ycombinator.com/item?id=50429225">hacker news</a></small></p><hr/><p>Meta is rolling out new specialized AI models trained using its frontier Muse Wonder model to all users of its Muse agent and Meta AI. While subscribers retain access to Wonder for more demanding tasks, these lighter models bring agentic capabilities to a broader consumer audience.</p><p>The new models incorporate two key features previously introduced with Wonder: Active Memory, which enables agents to reason across time and retain relevant context across conversations, and Active Focus, which helps them recover from real-world bottlenecks and handle mid-task corrections. By leveraging a frontier model to train specialized alternatives, Meta aims to provide cost-effective, task-specific performance for personal assistants across its apps.</p><hr/><small>7 Nov 2026, 09:00 UTC | #26730</small>]]></content>
   </entry>
   <entry>
     <title>METR Report Finds AI is Accelerating AI Research at Anthropic</title>
@@ -273,14 +291,5 @@
     <updated>2026-11-05T01:30:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnsfocusglobal.com%2Fwp-content%2Fuploads%2F2026%2F05%2F0508a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50372929">hacker news</a></small></p><hr/><p>OpenAI researchers developed an autonomous pipeline to identify, validate, and patch security flaws in the Linux kernel. The prototype analyzed 2,308 candidate findings, reproduced 1,724 vulnerabilities, and generated 948 local privilege escalation exploits and their corresponding patches.</p><p>The five-stage process—comprising discovery, dynamic validation, exploitability assessment, patch generation, and human review—is powered by specialized cyber models. This research aims to reduce the operational burden on security maintainers and increase the cost for attackers to exploit software.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnsfocusglobal.com%2Fwp-content%2Fuploads%2F2026%2F05%2F0508a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 07:13 UTC | #26504</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ricursive Intelligence Releases Ripple-65B Preview for Agentic Coding</title>
-    <link href="https://www.ricursive.com/ripple" rel="alternate" />
-    <id>https://www.ricursive.com/ripple::v240</id>
-    <published>2026-11-04T22:53:00+00:00</published>
-    <updated>2026-11-04T22:53:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fricursive-ripple-65b-preview-open-weight-coding-model.16x9.jpg%3Fv%3Dog2-4fb8ik&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ricursive.com/ripple">ricursive.com</a> | <a href="https://news.ycombinator.com/item?id=50369925">hacker news</a></small></p><hr/><p>Ricursive Intelligence has developed Ripple-65B Preview, an open-weight model for agentic coding that achieved a TerminalBench 2.1 score of 80.5. The training utilized a compute-efficient reinforcement learning (RL) recipe requiring only 1.4 million rollouts, which is approximately 70 times fewer than the previous state-of-the-art model, Reflection Beam.</p><p>The model's development cost is estimated at $32 million, representing roughly one-tenth the cost of prior open-weight state-of-the-art models in the coding domain. The training process relied on custom synthetic data pipelines and specific RL techniques, including truncated importance sampling, score centering, and linear length penalty.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fruntimewire.com%2Fog%2Fricursive-ripple-65b-preview-open-weight-coding-model.16x9.jpg%3Fv%3Dog2-4fb8ik&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 05:09 UTC | #26496</small>]]></content>
   </entry>
 </feed>

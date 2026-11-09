@@ -8,6 +8,22 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Donald Tang Discusses Stepping Down from Shein</h2>
+<p>Former Shein Executive Chair Donald Tang states his decision to resign was a personal choice made weeks before the company's troubled initial public offering (IPO). He addresses recent fluctuations in Shein's valuation and the circumstances surrounding his departure from the fast-fashion retailer.</p><p>The interview provides insight into leadership transitions at Shein as the company navigates valuation challenges and its ongoing pursuit of a public listing. Tang's remarks offer perspective on the strategic pressures facing the retailer during a period of market volatility.</p>
+<p>Nov 9 · <a href="https://www.ft.com/content/109aa143-93b4-4b39-9ccd-4ae5a0cf3004">ft.com</a></p>
+<br clear="all" />
+
+<h2>EU Proposes Digital Fairness Act Targeting Addictive Social Media and AI Bots</h2>
+<p>The European Union is drafting the Digital Fairness Act to regulate addictive social media features and AI chatbots that simulate human relationships. The proposed law would require tech companies to allow adult users to disable features designed to maximize engagement.</p><p>The legislation seeks to mitigate the psychological effects of certain digital design patterns and interactive AI models. If passed, it will force significant changes to how social media platforms and AI developers structure user interactions.</p>
+<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50427605">hacker news</a></p>
+<br clear="all" />
+
+<h2>Nvidia CEO Jensen Huang Hired Crisis PR Firm Risa Heller Last Year</h2>
+<a name="story-26926"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af1d38e0949f43953b8f9d7%2F191%3A100%2Fw_1280%2Cc_limit%2FJensen%2BHuang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia CEO Jensen Huang retained the crisis communications firm Heller in October 2025, a year before publicly admitting to an extramarital affair with a woman identified by US intelligence as a Chinese spy. The firm, founded by Risa Heller and known for handling high-profile personal controversies, was initially believed to have been hired for family matters before its role expanded to include press inquiries for Huang.</p><p>The engagement followed an investigative report detailing Huang’s business connections to a chip buyer linked to Chinese export evasion inquiries. Following Huang's acknowledgment of the affair and the announcement of an independent board investigation, Nvidia stated that it has found no evidence that national security or confidential company information was compromised.</p>
+<p>Nov 9 · <a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/">wired.com</a></p>
+<br clear="all" />
+
 <h2>Alphabet&#x27;s Wing to Build Drone Manufacturing Facility in Texas</h2>
 <a name="story-26908"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-07812110%3Fwidth%3D700%26height%3D468&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet's Wing plans to invest up to $125 million over the next two years to build a 15,000-square-foot facility in Fort Worth, Texas. The site will be used to produce tens of thousands of delivery drones.</p><p>The investment aims to scale production capacity to support the expansion of the company's drone delivery services.</p>
@@ -77,24 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26831"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F2522257153%2Fdisplay_1500%2Fstock-photo-artificial-intelligence-open-ai-stocks-market-2522257153.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence companies sold or priced more than $300 billion worth of stock in 2026, excluding Anthropic's initial public offering, with an additional $100 billion planned. Recent volatile trading in AI-related equities has highlighted growing questions about the market's capacity to absorb further share offerings.</p><p>The heavy volume of issuance reflects surging capital demands across the artificial intelligence sector as firms fund extensive infrastructure and development. Market observers are closely monitoring whether investor appetite can sustain the upcoming pipeline of stock sales without triggering broader sector pullbacks.</p>
 <p>Nov 8 · <a href="https://www.theinformation.com/articles/ai-stock-can-market-absorb">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Purchases 1.7GW of Gas-Fired Generators in $3.4 Billion Deal</h2>
-<a name="story-26822"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techflowpost.com%2Ffavicon%2Ftwitter-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Artificial intelligence lab Anthropic has agreed to purchase commitments for 1.7 gigawatts of gas-fired power generation equipment from supplier OnePWR for $3.4 billion. The transaction represents the largest known procurement of power hardware by an artificial intelligence company as the sector grapples with severe energy constraints for expanding data centers.</p><p>By bypassing traditional utility suppliers to secure dedicated generation capacity, Anthropic underscores the extreme power demands required to train and operate advanced AI models. The deal exemplifies a wider strategy among major tech firms seeking direct ownership and control of energy infrastructure to circumvent overloaded public power grids.</p>
-<p>Nov 8 · <a href="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50412760">hacker news</a></p>
-<br clear="all" />
-
-<h2>NVIDIA Board of Directors Initiates Independent Investigation Involving CEO Jensen Huang</h2>
-<a name="story-26845"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F89d109cd-caa2-4844-a77e-6d19af37e389.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The NVIDIA Board of Directors is initiating an independent investigation following recent reports that co-founder and CEO Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors, assisted by outside counsel, will oversee the inquiry to examine all available information regarding the matter.</p><p>While the board states it has no reason to believe that national security or NVIDIA secrets were compromised, it emphasizes that U.S. national and economic security remains a top priority. Jensen Huang fully supports the review and is cooperating with the board as the investigation proceeds.</p>
-<p>Nov 8 · <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">nvidianews.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50416801">hacker news</a></p>
-<br clear="all" />
-
-<h2>Tesla Lacks Successful New Product Launches Since JB Straubel Stepped Down as CTO</h2>
-<a name="story-26832"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcleantechnica.com%2Fwp-content%2Fuploads%2F2025%2F02%2FTesla-Cybertruck-Broken-Windows-Elon-Musk-Unveiling-event-KYLE-FIELD-CleanTechnica-watermark.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An analysis of Tesla’s vehicle lineup highlights a lack of major, successful new product launches since JB Straubel stepped down as chief technology officer in July 2019. While earlier models like the Model S, Model X, Model 3, and Model Y established the company as an automotive force, subsequent entries such as the Cybertruck have faced severe commercial struggles and multi-billion-dollar net project losses.</p><p>Straubel’s departure coincided with the finalization of the Model Y and the Megapack, after which Tesla's development trajectory shifted away from mass-market affordability and practical engineering oversight. The upcoming Cybercab will test whether the company can reverse this trend, as observers continue to evaluate the long-term impact of losing Straubel's technical leadership and moderating influence on product development.</p>
-<p>Nov 8 · <a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/">cleantechnica.com</a> | <a href="https://news.ycombinator.com/item?id=50414427">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,27 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-09T14:27:00+00:00</updated>
+  <updated>2026-11-09T17:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Bit Reactor Lays Off Unspecified Number of Staff</title>
+    <link href="https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff::v240</id>
+    <published>2026-11-09T17:31:00+00:00</published>
+    <updated>2026-11-09T17:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt3701c4dcdeecdcab%2F6af1ee7a91f097778ae4f4ad%2Fstarwarszerocompanysteam.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff">gamedeveloper.com</a></small></p><hr/><p>Bit Reactor, the developer of Star Wars Zero Company, has laid off an unspecified number of employees. This follows a previous furlough in August and a partial rehire of staff in October.</p><p>Alinea Analytics estimated Star Wars Zero Company sold approximately one million copies by late September, though official sales data is unavailable since Electronic Arts was taken private. The studio recently released a 1.2 update, but has provided little information regarding the game's ongoing development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt3701c4dcdeecdcab%2F6af1ee7a91f097778ae4f4ad%2Fstarwarszerocompanysteam.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:35 UTC | #26947</small>]]></content>
+  </entry>
+  <entry>
+    <title>World of Warcraft: Forever Breaks Peak Concurrent and Returning Player Records at Launch</title>
+    <link href="https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers" rel="alternate" />
+    <id>https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers::v240</id>
+    <published>2026-11-09T16:40:00+00:00</published>
+    <updated>2026-11-09T16:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltf906d4df85e7ab85%2F6af1f3c7c2a5a2122223e928%2Fworldofwarcraftforever.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers">gamedeveloper.com</a> | <a href="https://bsky.app/profile/worldofwarcraft.blizzard.com/post/3mzoudcfxws2t">bsky.app</a></small></p><hr/><p>Blizzard Entertainment reports that the game's launch has exceeded previous player-count milestones, specifically for peak concurrent users and returning players. This version of the MMORPG rebuilds the original setting and first-year gameplay while introducing new content and character races.</p><p>The launch resulted in the highest number of returning players in the game's history. The project integrates new storylines and features into the foundation of the original title.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltf906d4df85e7ab85%2F6af1f3c7c2a5a2122223e928%2Fworldofwarcraftforever.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:24 UTC | #26939</small>]]></content>
+  </entry>
   <entry>
     <title>Google Unveils TPU 8tx and TPU 8i Max AI Chips</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems" rel="alternate" />
@@ -176,23 +194,5 @@
     <updated>2026-11-05T05:21:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fxboxwire.thesourcemediaassets.com%2Fsites%2F2%2F2026%2F11%2FXBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/">news.xbox.com</a></small></p><hr/><p>Xbox Cloud Gaming is launching two preview features: a smartphone controller mode for supported Smart TVs and "Cloud Connect" for the Xbox Nano Controller. The smartphone mode enables Android and iOS users to control games via their phone's web browser, while Cloud Connect, available in the U.S., allows the Nano Controller to connect directly to cloud servers through Wi-Fi to reduce input latency.</p><p>Both features are currently in testing, so availability may vary based on the specific game, device, or region. Users can provide feedback through the mobile app, the Xbox Accessories app on PC, or directly through the Smart TV interface.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fxboxwire.thesourcemediaassets.com%2Fsites%2F2%2F2026%2F11%2FXBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:20 UTC | #26497</small>]]></content>
-  </entry>
-  <entry>
-    <title>Macronix Exits ROM Chip Production, Impacting Nintendo's Cartridge Supply</title>
-    <link href="https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/" rel="alternate" />
-    <id>https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/::v240</id>
-    <published>2026-11-04T22:48:00+00:00</published>
-    <updated>2026-11-04T22:48:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fswitchcarts-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/">arstechnica.com</a> | <a href="https://www.mxic.com.tw/en-us/about/news/Pages/20261027-EN.aspx">mxic.com.tw</a> | <a href="https://news.ycombinator.com/item?id=50373510">hacker news</a></small></p><hr/><p>Macronix, a major provider of ROM chips for Nintendo Switch cartridges, is phasing out its ROM production to shift manufacturing capacity toward NOR and NAND flash chips for the AI industry. The company announced in its third-quarter 2026 earnings report that its ROM business has "reached its end."</p><p>The exit may increase production costs for physical Switch and Switch 2 cartridges, potentially leading to higher retail prices for physical games. However, the impact could be mitigated by the continued growth of Nintendo's digital software sales, which accounted for 61.5 percent of the company's business in the second quarter of 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fswitchcarts-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 04:00 UTC | #26474</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nothing to Release Screenless AI-Native Product in December</title>
-    <link href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/" rel="alternate" />
-    <id>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/::v240</id>
-    <published>2026-11-04T22:14:00+00:00</published>
-    <updated>2026-11-04T22:14:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fyoumobile.org%2Fwp-content%2Fuploads%2F2025%2F01%2FNothing-CEO-Carl-Pei-leaks-a-feature-coming-in-Nothing-OS-3.0-that-many-users-will-love-1-1024x576.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/">techcrunch.com</a> | <a href="https://x.com/getpeid/status/2117991714879410204">x.com</a></small></p><hr/><p>Nothing CEO Carl Pei announced that the company's first "AI-native" product is scheduled to ship in December 2026. The device is described as a productivity tool that lacks a dedicated screen and is designed as hardware rather than a software application.</p><p>This approach diverges from current industry trends focusing on AI-enabled wearables like smart glasses or pins. While Nothing has previously discussed AI-linked earbuds and eyewear, the specific form factor and capabilities of this upcoming screenless device remain undisclosed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fyoumobile.org%2Fwp-content%2Fuploads%2F2025%2F01%2FNothing-CEO-Carl-Pei-leaks-a-feature-coming-in-Nothing-OS-3.0-that-many-users-will-love-1-1024x576.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 03:32 UTC | #26467</small>]]></content>
   </entry>
 </feed>

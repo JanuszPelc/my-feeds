@@ -8,6 +8,35 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Maono Releases PD500W Hybrid Microphone</h2>
+<a name="story-26946"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F06%2FMaono-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Maono has launched the PD500W hybrid microphone for content creators following a successful crowdfunding campaign. The device features 2.4GHz wireless, USB-C, and XLR connectivity, alongside 32GB of onboard storage that supports 24-bit or 32-bit float audio recording.</p><p>Designed for podcasting, streaming, and video production, the microphone integrates with MaonoLink software to provide AI-powered transcription and summarization. It is available via the Maono website and Amazon US in a $399 Basic Version or a $429 Desk Stand Bundle.</p>
+<p>Nov 9 · <a href="https://musictech.com/news/gear/maono-pd500w-available-now/">musictech.com</a> | <a href="https://www.maono.com/products/maono-pd500w-hybrid-microphone-for-podcast">maono.com</a></p>
+<br clear="all" />
+
+<h2>Never Found Audio Releases MG-Mini Free MIDI Grabber Plugin</h2>
+<p>Never Found Audio has released MG-Mini, a free MIDI grabber plugin for Windows. Available in VST3 and Standalone formats, the plugin captures audio input in the background and converts it to MIDI data via a "Grab" button. It supports both single-note (Single Line) and chord-based (Full Stack) modes, and users can drag audio files directly into the interface for conversion.</p><p>The lightweight tool is designed for Windows 10 or later, though a macOS version is currently unavailable. To access the software, users must provide an email address to receive the download link. The developer intentionally omitted features such as note editing and harmonic analysis to maintain a small software footprint.</p>
+<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/">bedroomproducersblog.com</a> | <a href="https://neverfoundaudio.com/mg-mini">neverfoundaudio.com</a></p>
+<br clear="all" />
+
+<h2>SSL Blitzer Compressor on Sale at Plugin Boutique</h2>
+<a name="story-26945"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJwrWXTV2PL0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Solid State Logic’s SSL Blitzer compressor is available for $19.99 at Plugin Boutique until November 30, discounted from its standard $99 price.</p><p>The plugin combines compression, harmonic drive, and transient shaping, with modes inspired by hardware like the 1176 and LA-2A. Qualifying purchases include a free gift, such as UVI Tape Suite or Excite Audio Evolve Elastic Lite, and the software is compatible with macOS and Windows in VST3, AU, and AAX formats.</p>
+<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=5241029371df5">pluginboutique.com</a></p>
+<br clear="all" />
+
+<h2>quietformat Releases Cernion Wavetable Synthesizer</h2>
+<a name="story-26941"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcernion_v1-0-0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>quietformat has released Cernion, a wavetable synthesizer featuring full MPE support and custom waveform editing for up to 256 frames. The package includes Cernion FX, a companion effect plugin designed to apply the synthesizer's modulation and effect processing to external audio and other instruments.</p><p>The software provides extensive modulation via LFOs, envelopes, an XY pad, and a modulation matrix, plus two distinct arpeggiators. It is available on macOS and Windows with an introductory price of $99.99 through December 9, 2026, or via a monthly "Subscribe to Own" model.</p>
+<p>Nov 9 · <a href="https://www.kvraudio.com/news/quietformat-releases-cernion-wavetable-synthesizer-with-full-mpe-and-cernion-fx-au-and-vst3-69708?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69708">kvraudio.com</a> | <a href="https://www.quietformat.com/cernion">quietformat.com</a></p>
+<br clear="all" />
+
+<h2>MusicDevelopments Updates RapidComposer to v6.3</h2>
+<a name="story-26937"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frc6_2026-10-23_163153.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>RapidComposer v6.3 for Windows and macOS features a new Chords Play Mode in Live mode, allowing real-time performance via a split keyboard. Users can hold chord notes with one hand while triggering musical phrases with the other that automatically follow the played chords.</p><p>The update also introduces a Melody Call &amp; Response generator, modernized note editing via CAPS LOCK, and new Dark and Light interface themes. Other enhancements include velocity filters, improved scene organization, new keyboard shortcuts, and various stability fixes.</p>
+<p>Nov 9 · <a href="https://www.kvraudio.com/news/musicdevelopments-updates-rapidcomposer-to-v6-3-69706?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69706">kvraudio.com</a> | <a href="https://www.musicdevelopments.com/">musicdevelopments.com</a></p>
+<br clear="all" />
+
 <h2>Vienna Symphonic Library Releases Vienna Performer</h2>
 <a name="story-26934"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvsl_viennaperformer_gui1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vienna Symphonic Library (VSL) has released Vienna Performer, a plugin that converts written musical notes into audio performances. The software uses AI models trained on recordings from the Vienna Synchron Orchestra to apply specific articulations, phrasing, and acoustic characteristics to user-provided MIDI or notation data.</p><p>The launch includes nine instruments, including solo flute, clarinet, and horn, as well as various string ensembles. Available on macOS and Windows in VST, VST3, AU, and AAX formats, the plugin is accessible via a subscription model tiered by monthly "render minutes" and requires an internet connection.</p>
@@ -66,36 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26897"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmela_80_promo_image.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nikolozi has released Mela version 8.0, a major update for its modular AUv3 plug-in on macOS and iOS. The release introduces adaptive layouts for iPhones, a module selector toggle with vertically scrolling submodules, and expanded context menus for streamlined navigation and patch management.</p><p>Additional enhancements include translucent lane scrolling controls, a new "Always Discard" option for faster patch auditioning, and updated system requirements mandating iOS/iPadOS 26 or macOS 26 with Apple Silicon. Mela is available as a free download with individual module collections priced separately.</p>
 <p>Nov 9 · <a href="https://www.kvraudio.com/news/nikolozi-releases-mela-v8-0-for-macos-and-ios-69693?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69693">kvraudio.com</a> | <a href="https://apps.apple.com/app/mela-auv3-synth-fx-midi/id1668299428">apps.apple.com</a></p>
-<br clear="all" />
-
-<h2>Rockheyday Releases Smooth 7 Dynamic Equalizer Plugin</h2>
-<a name="story-26898"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsmooth7a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rockheyday has released Smooth 7, a 7-band dynamic equalizer plugin available in AU and VST3 formats for macOS and Windows. The processor combines zero-latency minimum-phase filtering with an intuitive node-based workflow to perform frequency control, resonance suppression, and selective compression.</p><p>The plugin features draggable EQ nodes, per-band soft-knee ballistics, an integrated tape-analog transformer saturation stage, and dual-layer spectral metering with adaptive FFT. It supports sample rates ranging from 44.1 kHz to over 192 kHz and is currently available at a promotional launch price through December 3.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/rockheyday-releases-smooth-7---dynamic-equalizer-plugin-au-and-vst3-69698?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69698">kvraudio.com</a> | <a href="https://rockheyday.gumroad.com/l/smooth7">rockheyday.gumroad.com</a></p>
-<br clear="all" />
-
-<h2>Marula Music Updates Spek and Veld</h2>
-<a name="story-26883"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvelkd-ui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Marula Music has released updates for two of its audio plugins, introducing new processing features and performance improvements. Spek version 1.0.4 adds automatic gain compensation to help users evaluate saturation changes without loudness bias, while Veld version 1.1 brings a decoupled mode with independent stereo engines for each of its four bands.</p><p>In Veld's decoupled mode, users can apply different stereo widening methods such as Haas, Allpass, Velvet, and Chorus across separate frequency ranges, alongside per-band dynamic width transient detection and phase limiting. Spek's new Auto Gain Control continuously monitors input and output levels, adjusting output gain dynamically when settings like Drive, Character, and Bias are modified. Both updates are available immediately from the developer's website.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/marula-music-updates-spek-to-1-0-4-and-veld-to-1-1-69704?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69704">kvraudio.com</a> | <a href="https://www.marulamusic.com/signal/veld-1-1-spek-agc-update/">marulamusic.com</a></p>
-<br clear="all" />
-
-<h2>Neumann Details Development and Design of KH 310 II and KH 350 Studio Monitors</h2>
-<a name="story-26879"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMT-HERO-NEUMANN-KH-SERIES-CREDIT-SIMON-VINALL%402560x1707.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Neumann product marketing manager Rune Jacobsen details the design, manufacturing standards, and engineering philosophy behind the brand's KH 310 II and KH 350 three-way studio monitors. Tracing the lineup's lineage back to Klein and Hummel, Jacobsen explains how Neumann maintains strict in-house component design and tight production tolerances to ensure consistent acoustic measurements across units.</p><p>Aimed at professional mixing, mastering, and immersive audio setups, the KH 310 II and KH 350 feature integrated DSP and compatibility with Neumann's MA 1 Automatic Monitor Alignment software for room calibration. Although positioned at a high price point, the speakers prioritize a flat, uncolored frequency response and long-term reliability over commercial sound-boosting trends.</p>
-<p>Nov 9 · <a href="https://musictech.com/features/interviews/neumann-kh-series/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>discoDSP Updates TED-8, Discovery Pro, and Retromulator</h2>
-<a name="story-26880"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fted8_matrix.1792857894.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>discoDSP has released TED-8 1.5, introducing a piano roll editor for the sequencer, phrase generators, MIDI file support, and arpeggiator modes from the TEO-5. The update also features a recalibrated sound profile and is available free to existing customers.</p><p>Alongside TED-8, the company updated Discovery Pro to version 9.10 with the Nordic 1 filter, Nord Lead 1 SysEx import and export, and CPU-efficient layer quality modes, while also updating Retromulator to version 2.3.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/discodsp-updates-ted-8-discovery-pro-synths-and-retromulator-multi-core-plugin-69699?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69699">kvraudio.com</a></p>
-<br clear="all" />
-
-<h2>MOK Updates Filtryg to v1.2.2 with Windows ARM Support</h2>
-<a name="story-26887"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffiltryg_1_main_product_photo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Media Overkill has released version 1.2.2 of its Filtryg dual filter plugin as a free update for current users. The new version introduces support for Windows ARM64X and provides a generic Linux tarball download option alongside the standard Debian installer package.</p><p>Additional changes in v1.2.2 include framework updates for Juce and AAX, various under-the-hood bug fixes, and updated user manuals. The update also moves theme files to the user preferences folder on disk, allowing them to be customized with an optional file-change monitoring feature in the theme menu.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/mok-updates-filtryg-to-v1-2-2-with-windows-arm-support-69685?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69685">kvraudio.com</a> | <a href="https://mediaoverkill.com/filtryg">mediaoverkill.com</a></p>
 <br clear="all" />
 
 ---

@@ -272,21 +272,4 @@
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://sshhole.com">sshhole.com</a> | <a href="https://news.ycombinator.com/item?id=50378228">hacker news</a></small></p><hr/><p>OpenSSH installations running on musl libc—including Alpine, OpenWrt, and Buildroot—are vulnerable to a password bypass affecting accounts with no password (marked with '*' in /etc/shadow). When a password longer than 256 characters is provided, musl's crypt() function returns '*' due to a length limit in its SHA512 implementation, which OpenSSH incorrectly validates as a successful match.</p><p>The vulnerability specifically affects systems using musl that do not utilize PAM and have password authentication enabled. To mitigate this risk, users are advised to upgrade to OpenSSH 10.6p2 or disable password authentication in their SSH configuration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe-ZwtnhSyFE%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:37 UTC | #26524</small>]]></content>
   </entry>
-  <entry>
-    <title>Debian Patches APT Vulnerability Allowing Root Code Execution</title>
-    <link href="https://lists.debian.org/debian-security-announce/2026/msg00526.html" rel="alternate" />
-    <id>https://lists.debian.org/debian-security-announce/2026/msg00526.html::v240</id>
-    <published>2026-11-04T22:00:00+00:00</published>
-    <updated>2026-11-04T22:00:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://lists.debian.org/debian-security-announce/2026/msg00526.html">lists.debian.org</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6607-1">security-tracker.debian.org</a> | <a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50366575">hacker news</a></small></p><hr/><p>Debian released security advisory DSA-6607-1 to address CVE-2026-109518, a vulnerability in the APT package manager. A man-in-the-middle attacker can exploit improper file handling during resumed HTTP downloads to replace a package after verification, potentially enabling arbitrary code execution as root.</p><p>The flaw allows APT to merge two different package downloads if an HTTP redirect assigns them the same URI. For the Debian stable release (trixie), the issue is fixed in APT version 3.0.4. This update also addresses several out-of-bounds access issues.</p><hr/><small>5 Nov 2026, 03:30 UTC | #26491</small>]]></content>
-  </entry>
-  <entry>
-    <title>GitHub Resolves Incident Affecting Pull Requests, Git Operations, and Issues</title>
-    <link href="https://www.githubstatus.com/incidents/smtdswd1h2w4" rel="alternate" />
-    <id>https://www.githubstatus.com/incidents/smtdswd1h2w4::v240</id>
-    <published>2026-11-04T21:30:00+00:00</published>
-    <updated>2026-11-04T21:30:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHG7PgIXbgAUj75v.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.githubstatus.com/incidents/smtdswd1h2w4">githubstatus.com</a> | <a href="https://news.ycombinator.com/item?id=50363378">hacker news</a></small></p><hr/><p>GitHub resolved an incident on November 4, 2026, that caused service degradation and intermittent failures for Pull Requests, Git Operations, Issues, API Requests, and Actions. The disruption resulted in some requests being failed or delayed.</p><p>The issue was first identified around 09:49 UTC and reached mitigation by 11:50 UTC. GitHub intends to share a detailed root cause analysis once it is available.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHG7PgIXbgAUj75v.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 03:11 UTC | #26490</small>]]></content>
-  </entry>
 </feed>

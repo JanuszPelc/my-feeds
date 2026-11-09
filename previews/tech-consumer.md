@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Bit Reactor Lays Off Unspecified Number of Staff</h2>
+<a name="story-26947"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt3701c4dcdeecdcab%2F6af1ee7a91f097778ae4f4ad%2Fstarwarszerocompanysteam.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bit Reactor, the developer of Star Wars Zero Company, has laid off an unspecified number of employees. This follows a previous furlough in August and a partial rehire of staff in October.</p><p>Alinea Analytics estimated Star Wars Zero Company sold approximately one million copies by late September, though official sales data is unavailable since Electronic Arts was taken private. The studio recently released a 1.2 update, but has provided little information regarding the game's ongoing development.</p>
+<p>Nov 9 · <a href="https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff">gamedeveloper.com</a></p>
+<br clear="all" />
+
+<h2>World of Warcraft: Forever Breaks Peak Concurrent and Returning Player Records at Launch</h2>
+<a name="story-26939"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltf906d4df85e7ab85%2F6af1f3c7c2a5a2122223e928%2Fworldofwarcraftforever.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Blizzard Entertainment reports that the game's launch has exceeded previous player-count milestones, specifically for peak concurrent users and returning players. This version of the MMORPG rebuilds the original setting and first-year gameplay while introducing new content and character races.</p><p>The launch resulted in the highest number of returning players in the game's history. The project integrates new storylines and features into the foundation of the original title.</p>
+<p>Nov 9 · <a href="https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers">gamedeveloper.com</a> | <a href="https://bsky.app/profile/worldofwarcraft.blizzard.com/post/3mzoudcfxws2t">bsky.app</a></p>
+<br clear="all" />
+
 <h2>Google Unveils TPU 8tx and TPU 8i Max AI Chips</h2>
 <a name="story-26915"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F4_v1_nUZDsJM.max-1800x1800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is introducing two new specialized AI chips: the TPU 8tx, designed to be paired with AMD CPUs, and the TPU 8i Max, a dual-chip package optimized for long-context window tasks.</p><p>The TPU 8i Max is scheduled for launch in 2027. This expansion of the TPU lineup is part of Google's effort to bolster its AI hardware capabilities and increase competition with Nvidia.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.template.net%2F370269%2FSalon-Closure-Notice-Template-edit-online-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Online news and culture magazine Salon has announced that it is ceasing publication after 31 years, citing the unsustainable business realities of independent digital journalism. Launched in November 1995, the site was an early pioneer of internet publishing, known for its distinct voice combining politics, criticism, and cultural commentary.</p><p>The closure marks the end of an influential era for digital media, during which Salon helped shape online journalism and provided a platform for unconventional perspectives. Management expressed gratitude to the founders, journalists, staff, and readers who contributed to the publication's legacy over three decades.</p>
 <p>Nov 5 · <a href="https://www.salon.com/2026/11/05/goodbye-from-salon/">salon.com</a> | <a href="https://news.ycombinator.com/item?id=50383739">hacker news</a></p>
-<br clear="all" />
-
-<h2>Reddit User Demonstrates Setup to Apply Nvidia DLSS 5 to Console Grand Theft Auto VI Footage</h2>
-<a name="story-26595"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fgta6dlss-1152x648.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A Reddit user has outlined a setup that routes PlayStation 5 gameplay through a capture card and a PC running the open-source Veyra tool, applying Nvidia's DLSS 5 neural rendering and frame generation to upscale console video output.</p><p>By testing the setup on the Grand Theft Auto VI extended look trailer, the experiment successfully increased the source frame rate from 30 fps to 90 fps while sharpening background elements and lighting, though it also introduced visual artifacts and a slightly washed-out appearance.</p>
-<p>Nov 5 · <a href="https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/">arstechnica.com</a></p>
-<br clear="all" />
-
-<h2>Motorola Announces motorola signature 27</h2>
-<a name="story-26608"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.extremetech.com%2Fimagery%2Fcontent-types%2F00cdIz3w68zzcixocVRr6cx%2Fhero-image.fill.size_1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The motorola signature 27 is a flagship smartphone from Motorola featuring a Snapdragon 8 Elite Extreme Gen 6 processor and an Extreme AMOLED Duo Tandem display. The device is the first non-Pixel smartphone to support GrapheneOS.</p><p>The phone features a 7000mAh battery with 90W wired and 50W wireless charging, a multi-lens camera system, and AI tools including Gemini Intelligence and Motorola Qira. It is built with a ceramic and glass construction with IP68 and IP69 ratings and has a starting MSRP of $1,599.</p>
-<p>Nov 5 · <a href="https://motorolanews.com/motorola-signature-27-2/">motorolanews.com</a> | <a href="https://news.ycombinator.com/item?id=50380810">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Disney and Adobe Partner to Develop Proprietary Generative AI Models</h2>
+<a name="story-26932"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblooloop.com%2Fmedia-library%2Fillustration-of-a-decorative-ride-seat-at-disney-with-floral-patterns-and-a-reference-sketch.png%3Fid%3D66949308%26width%3D980&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The new multiyear partnership will see Adobe and Disney develop proprietary "artist-led" generative AI models via Adobe Firefly Foundry. These tools will be trained on Disney's unique intellectual property—including character attributes, environments, and visual styles—to generate commercially safe, production-ready content for Walt Disney Studios, ESPN, theme parks, and cruise lines.</p><p>The collaboration grants Disney early access to Adobe’s emerging technologies to optimize creative workflows and enhance fan engagement, expanding an existing relationship where Disney Imagineering already uses the Firefly platform. This move follows Disney's previous involvement with OpenAI and Character.AI, occurring as the company reportedly targets significant cost-cutting and staff layoffs.</p>
+<p>Nov 9 · <a href="https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership">theverge.com</a> | <a href="https://www.businesswire.com/news/home/20261109707511/en/Adobe-and-The-Walt-Disney-Company-Announce-Multi-Year-Strategic-Alliance-to-Support-Disney-Innovation-with-New-AI-Powered-Tools">businesswire.com</a></p>
+<br clear="all" />
+
+<h2>Medium Launches TK Note-Taking and Private Blogging App</h2>
+<a name="story-26927"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FTK-notes.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>This new application from Medium integrates note-taking and journaling with private social networking features. Users can employ AI to organize their writing and utilize "Libraries"—private, group-based spaces for sharing content and collaborating via links or email. The service is available to existing Medium members on web, Android, and iOS, with a native desktop version in development.</p><p>The shift reflects Medium's strategy to move away from ad-supported models and a reliance on search engine traffic. By emphasizing private communities and direct feedback over public pageviews, the company aims to insulate itself from the impact of Google's algorithm changes and the rise of AI-driven content scraping.</p>
+<p>Nov 9 · <a href="https://www.theverge.com/tech/1029676/medium-tk-notes-app">theverge.com</a> | <a href="https://medium.com/blog/tk-a-new-private-notebook-app-from-medium-13d3d6efdce1">medium.com</a></p>
+<br clear="all" />
+
 <h2>Shane Melaugh Reports Reasoning Shift in Claude Opus 5.5 Sessions</h2>
 <a name="story-26961"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Flesswrong-2-0%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1%2FmirroredImages%2Fq5ejXr4CRuPxkgzJD%2Ff2kkahak3sik7cmswpwt&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Shane Melaugh reports that an analysis of 1,400 Claude Code sessions reveals a distinct shift in the reasoning behavior of Claude Opus 5.5 beginning on November 3.</p><p>Despite the model's identifier remaining unchanged, the abrupt alteration in its operational and reasoning patterns suggests an unannounced backend modification or performance adjustment by the developer.</p>
@@ -69,7 +81,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 
 <h2>Meta Rolls Out Specialized AI Models Trained on Muse Wonder</h2>
 <p>Meta is rolling out new specialized AI models trained using its frontier Muse Wonder model to all users of its Muse agent and Meta AI. While subscribers retain access to Wonder for more demanding tasks, these lighter models bring agentic capabilities to a broader consumer audience.</p><p>The new models incorporate two key features previously introduced with Wonder: Active Memory, which enables agents to reason across time and retain relevant context across conversations, and Active Focus, which helps them recover from real-world bottlenecks and handle mid-task corrections. By leveraging a frontier model to train specialized alternatives, Meta aims to provide cost-effective, task-specific performance for personal assistants across its apps.</p>
-<p>Nov 7 · <a href="https://thenewstack.io/meta-muse-specialized-models/">thenewstack.io</a> | <a href="https://research.meta.ai/blog/specialized-models-for-muse-and-metaai">research.meta.ai</a></p>
+<p>Nov 7 · <a href="https://thenewstack.io/meta-muse-specialized-models/">thenewstack.io</a> | <a href="https://research.meta.ai/blog/specialized-models-for-muse-and-metaai">research.meta.ai</a> | <a href="https://news.ycombinator.com/item?id=50429225">hacker news</a></p>
 <br clear="all" />
 
 <h2>METR Report Finds AI is Accelerating AI Research at Anthropic</h2>
@@ -82,18 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26726"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhightouch.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.sanity.io%252Fmedia-libraries%252Fmlxe9VfpyM52%252Fimages%252Fffae4175d740119dca77e91b5f8ecf682fbddc39-920x511.svg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hightouch evaluated smaller decision models like Jev and GPT-6 Luna against frontier models like Claude Opus to grade identity resolution results and detect over-merging in customer datasets. While decision models performed well out of the box at a fraction of the cost and execution time of frontier models, they struggled more with complex cases involving subtle data discrepancies or similar identities.</p><p>To bridge this performance gap, the testing demonstrated that a hybrid evaluation model combining Jev with Claude Opus could achieve frontier-level accuracy while lowering costs by more than four times. Because Jev maintained better-calibrated confidence scores compared to Luna, routing uncertain cases to a more powerful model allowed for cost-effective auditing at scale.</p>
 <p>Nov 6 · <a href="https://hightouch.com/blog/llm-judges-identity-resolution">hightouch.com</a> | <a href="https://news.ycombinator.com/item?id=50397429">hacker news</a></p>
-<br clear="all" />
-
-<h2>Meta Introduces Spaces for Muse AI Agent Collaboration</h2>
-<a name="story-26711"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-06-at-10.11.06-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta has launched Spaces, a new feature for its Muse personal AI agents that enables users to create custom, goal-oriented project experiences. Operating from the interface sidebar, Spaces function as dedicated conversation tabs for specific tasks such as event planning, travel coordination, and project management.</p><p>The feature allows users to translate ideas described in chat into persistent trackers, planners, or project boards that integrate with third-party applications. Spaces can automatically update in the background with real-time information such as price changes or scheduling updates, following the recent rollout of Muse Voice and other expanding agentic capabilities.</p>
-<p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/">techcrunch.com</a> | <a href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/">about.fb.com</a></p>
-<br clear="all" />
-
-<h2>Underdog Demonstrates 32MB Speech Model</h2>
-<a name="story-26671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeep-diver.github.io%2Fneurips2024%2Fposters%2Foloqhrbxye%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Startup Underdog has released a browser-based demo showcasing Woof, a 32MB speech generation model designed to run locally on edge devices without an internet connection. The interactive game allows users to type text or adjust settings to hear audio generated entirely within the browser.</p><p>The open-download model features 31 million parameters and is part of Underdog's broader push to provide lightweight, locally hosted AI tools that prioritize user data privacy. This follows the company's previous release of Bark, a speech-to-text model also built for edge devices.</p>
-<p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/">techcrunch.com</a> | <a href="https://underdog.ai/escape">underdog.ai</a></p>
 <br clear="all" />
 
 ---
