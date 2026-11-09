@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Senior Director Madison Huang Cancels Seoul Appearance</h2>
+<a name="story-26892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbionewsly.com%2Fwp-content%2Fuploads%2F2025%2F09%2Ffa3cd730-d178-42ca-a1f4-b9d5de6eca88.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia Senior Director Madison Huang has canceled a high-profile appearance in Seoul due to a family matter, disrupting plans to highlight the company's partnerships with key South Korean artificial intelligence firms. Huang, the daughter of Nvidia co-founder Jensen Huang, had been scheduled to participate in events showcasing deepening technological ties in the region.</p><p>The cancellation impacts scheduled engagements meant to reinforce collaborative efforts between the chipmaker and major local technology stakeholders. Nvidia's expanding footprint in South Korea's AI sector remains a focal point for industry observers following the abrupt change in schedule.</p>
+<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Pilita Clark Discusses Challenges of Manager Compensation in the Age of AI Agents</h2>
 <a name="story-26881"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgetstello.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FChatGPT-Image-Apr-29-2026-01_24_08-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Financial Times columnist Pilita Clark examines how the adoption of artificial intelligence agents to replace human employees is complicating traditional corporate compensation structures. Because managerial grades and pay have historically depended on the size of a human headcount, organizations face a new dilemma when managers oversee automated software tools instead of traditional teams.</p><p>The emerging issue highlights broader challenges as businesses integrate automation into human resources and leadership metrics. Traditional benchmarks for evaluating managerial influence and compensation may require significant restructuring to account for productivity driven by digital agents rather than large groups of direct reports.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.galleries.smcloud.net%2Fthumbs%2Fgf-UEvD-QMzA-62kc_binance-9-j.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance Holdings Ltd. announced that Chief Financial Officer Kaiser Ng is stepping down to pursue a new venture, with Justin Yek appointed to succeed him under a six-month transition plan.</p><p>The leadership change follows a major security breach in which hackers stole more than $6 billion from the cryptocurrency exchange, marking a notable executive transition amid the fallout from the massive heist.</p>
 <p>Nov 7 · <a href="https://www.bloomberg.com/news/articles/2026-11-07/binance-says-kaiser-ng-leaving-names-justin-yek-new-cfo">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Deutsche Bank Says Data Center Restrictions Could Prevent AI Investment Bust</h2>
-<a name="story-26772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.okoone.com%2Fwp-content%2Fuploads%2F2025%2F03%2FStrategy-Trends-354.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Political restrictions on data-center development could safeguard the broader US economy against an artificial intelligence investment bust by pacing infrastructure growth over time. According to Deutsche Bank economists, local and state-level pushback is effectively weeding out financially unstable projects.</p><p>Although these hurdles introduce risks to a key driver of recent economic expansion, analysts suggest that slowing the pace of development reduces the likelihood of a disruptive market crash. Financial institutions have increasingly sought ways to hedge their exposure amid accelerated lending for cloud computing and artificial intelligence initiatives.</p>
-<p>Nov 7 · <a href="https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
