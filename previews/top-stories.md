@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Nvidia CEO Jensen Huang Sends Letter to Staff Regarding Relationship and Board Investigation</h2>
+<p>Nvidia CEO Jensen Huang admitted to a romantic relationship with a suspected Chinese spy in a company-wide message, apologizing to his family and pledging full cooperation with an independent board investigation.</p><p>The email addresses national security concerns and family privacy while a company representative confirmed that Huang will continue leading Nvidia without interruption as the investigation proceeds.</p>
+<p>Nov 9 · <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;NVIDIA Board of Directors Initiates Independent Investigation Involving CEO Jensen Huang</h2>
 <a name="story-26845"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F89d109cd-caa2-4844-a77e-6d19af37e389.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The NVIDIA Board of Directors is initiating an independent investigation following recent reports that co-founder and CEO Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors, assisted by outside counsel, will oversee the inquiry to examine all available information regarding the matter.</p><p>While the board states it has no reason to believe that national security or NVIDIA secrets were compromised, it emphasizes that U.S. national and economic security remains a top priority. Jensen Huang fully supports the review and is cooperating with the board as the investigation proceeds.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.filfre.net%2Fwp-content%2Fuploads%2F2026%2F10%2F4601346-deus-ex-windows-front-cover-515x600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jimmy Maher’s retrospective on Ion Storm’s 2000 role-playing shooter Deus Ex examines both its celebrated status as an immersive sim masterpiece and the cultural hyperbole surrounding its legacy. Drawing on the design lineage of Looking Glass Studios and games like System Shock, the article explores how Deus Ex combined multi-variant problem solving with a traditional linear campaign structure.</p><p>The essay highlights the tension between the game's reputation as a prescient work of interactive philosophy and the pragmatic realities of its development. It details behind-the-scenes anecdotes, including Warren Spector's revelation at a 2017 Game Developers Conference postmortem that the protagonist's initials, J.C. Denton, originated from a playfully exasperated exclamation about a helpful friend rather than grand theological symbolism.</p>
 <p>Nov 8 · <a href="https://www.filfre.net/2026/11/deus-ex/">filfre.net</a> | <a href="https://news.ycombinator.com/item?id=50393758">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Omdia Reports Global Tablet Shipments Fell 23 Percent in Q3 2026</h2>
-<a name="story-26742"><img src="https://wsrv.nl/?url=https%3A%2F%2Fomdia.tech.informa.com%2F-%2Fmedia%2Ftech%2Fomdia%2Fmarketing%2Fpr%2F2026%2Fnov%2Fomdia-global-tablet-shipments-fall-23-to-32-million-in-q3-2026-gettyimages1147301914.jpg%3Frev%3Dd5df93a8e7b04bf6af59885020428c13&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Global tablet shipments dropped 23% year over year to 32 million units in the third quarter of 2026, reaching their lowest level in nearly three years, according to research from Omdia. The downturn was led by sharp contractions in the Middle East, China, and Western Europe, driven by persistent supply constraints and waning strategic priority from hardware vendors.</p><p>Apple and Samsung retained the top two spots in market share despite significant shipment declines of 28% and 22%, respectively. Lenovo was the sole top-five vendor to achieve growth, increasing shipments by 12% to capture a 12.7% market share, while Xiaomi and Huawei rounded out the top five amid an environment where recent flagship device launches failed to spur broader consumer demand.</p>
-<p>Nov 8 · <a href="https://omdia.tech.informa.com/pr/2026/nov/global-tablet-shipments-fall-23percent-to-32-million-in-q3-2026">omdia.tech.informa.com</a></p>
 <br clear="all" />
 
 ---
