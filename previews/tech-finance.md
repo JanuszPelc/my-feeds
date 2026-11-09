@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nominal Raises $240M at $3B Valuation</h2>
+<a name="story-26917"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FAHwMcjh_y9I%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nominal, a startup developing software to increase efficiency in hardware manufacturing, has secured $240 million in new funding, bringing its valuation to $3 billion.</p><p>This follows an $80 million funding round in March that valued the company at $1 billion.</p>
+<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/hardware-testing-startup-nominal-valued-at-3-billion-in-round">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>US OCC Grants Coinbase Final Approval for Trust Bank Charter</h2>
 <p>The US Office of the Comptroller of the Currency has granted Coinbase Global Inc. full approval for a trust bank charter. The regulatory decision marks a major milestone for the cryptocurrency exchange as it seeks to deepen its integration into traditional financial infrastructure.</p><p>According to sources familiar with the matter, the charter could significantly expand the company's stablecoin operations and enable it to directly issue stablecoins. The development comes as regulators increasingly shape the operational boundaries for major digital asset firms in the United States.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter">bloomberg.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Wonder Group Confidentially Files for U.S. Initial Public Offering</h2>
 <p>Food-tech and delivery startup Wonder Group has confidentially filed a draft registration statement on Form S-1 with the U.S. Securities and Exchange Commission for a proposed initial public offering of Class A common stock. Led by former Walmart executive Marc Lore, the company is preparing for a public market debut following significant venture backing and major expansions.</p><p>Founded in 2018, Wonder operates a vertically integrated delivery and restaurant platform that acquired Grubhub for $650 million and previously absorbed meal-kit provider Blue Apron. The company raised $650 million at a $9 billion pre-money valuation in July, positioning itself among the most heavily funded consumer food startups ahead of its planned stock market listing.</p>
 <p>Nov 5 · <a href="https://www.reuters.com/business/marc-lores-wonder-group-confidentially-files-us-ipo-2026-11-05/">reuters.com</a> | <a href="https://about.wonder.com/news/details/2026/Wonder-Announces-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering-2026-cXCTZHXMc2/default.aspx">about.wonder.com</a></p>
-<br clear="all" />
-
-<h2>Shield AI to Acquire Radar Company Echodyne in $5.3 Billion Deal and Raise $2.5 Billion</h2>
-<a name="story-26577"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshield.ai%2Fwp-content%2Fuploads%2F2023%2F03%2FFTUAS-Press-Release-NG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Defense technology startup Shield AI has entered into a definitive agreement to acquire radar manufacturer Echodyne Corp. in a transaction valued at $5.3 billion. To support the acquisition, the company is raising $2.5 billion through a combination of new equity, structured equity, and debt financing, which includes a $1 billion Series H funding round.</p><p>The financing elevates Shield AI's post-money valuation to $28.8 billion, representing a significant increase from its $12.7 billion valuation earlier in the year. The transaction comprises $4.8 billion paid and issued at closing, with up to an additional $500 million contingent upon Echodyne achieving specific performance targets.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition">bloomberg.com</a> | <a href="https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/">shield.ai</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sennheiser Announces Scenico and Polifonia In-Car Audio Technologies</h2>
+<a name="story-26928"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSennheiser-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sennheiser Mobility has unveiled Scenico and Polifonia, two software modules designed for automotive manufacturers to enhance in-car audio. Scenico uses AMBEO technology to deliver immersive sound via dashboard-integrated transducers, which may allow for the removal of door speakers to increase design flexibility and ease recycling. Polifonia employs headrest speakers and noise cancellation to create personalized audio zones for each seat.</p><p>These technologies enable acoustic separation between occupants, such as allowing a driver to hear navigation guidance without disturbing passengers listening to music. Sennheiser is currently inviting car brands to request demonstrations of these technologies.</p>
+<p>Nov 9 · <a href="https://musictech.com/news/gear/sennheiser-scenico-polifonia/">musictech.com</a> | <a href="https://newsroom.sennheiser.com/sennheiser-debuts-scenico-and-polifonia-advancing-immersive-in-car-sound-reproduction-and-personalized-audio-delivery">newsroom.sennheiser.com</a></p>
+<br clear="all" />
+
 <h2>Parallel Minds Releases Atavism Spectral Effect for iPad</h2>
 <a name="story-26925"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fatavism-ipad-kvr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Parallel Minds has released Atavism for iPad as an AUv3 spectral effect plug-in. The tool transforms audio tracks, voices, or melodies into harmonic pads that remain in the song's key during chord changes. It can be utilized on individual tracks, buses, or the master output within a host application.</p><p>Features include a primary blending knob to transition from the original track to the spectral pad, pulsation modulation, a shimmer effect for upper octaves, and dedicated low and high cut filters. The plugin is available for a one-time purchase of $4.99 / 4.99€ on the App Store and requires iPadOS 15 or later.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26815"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPR1mfChU4FI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Anant of tinyant has released Purpl, a free chorus and shimmer reverb audio plugin designed for Windows and Linux systems. Built over the course of a year without the use of artificial intelligence tools, the plugin combines a chorus effect with a reactive shimmer reverb tail.</p><p>Purpl includes specialized controls such as Day and Night buttons that alter the pitch and tail characteristics of the shimmer effect, alongside a Bloom feature that responds to sustained notes. Additional parameters include Breathe for ducking the wet signal and Burn for adding crunch, with the plugin available in VST3 and CLAP formats.</p>
 <p>Nov 8 · <a href="https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/">bedroomproducersblog.com</a> | <a href="https://tinyantproductions.com/purpl">tinyantproductions.com</a></p>
-<br clear="all" />
-
-<h2>Flame Sound Launches Black Friday Sale with Everything Bundle for $49</h2>
-<a name="story-26754"><img src="https://wsrv.nl/?url=https%3A%2F%2Fflamesound.com%2Fimages%2Fvatra%2Fvatra-render-front.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Flame Sound has launched its 2026 Black Friday sale, running from November 6 through December 1, offering discounted pricing across its audio plugins and sound libraries. Key promotions include the VATRA mix finisher plugin reduced to $39 and an Everything Bundle priced at $49.</p><p>The Everything Bundle combines VATRA with six sound libraries—Inferno, Firestarter, Heatwave, Human Voices, Fureimu, and Pyro—providing a combined value of $361. Additional discounts include the Ultimate Cinematic Bundle for $29 and the Firestarter library for $9, with all offers expiring on December 1, 2026.</p>
-<p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/flame-sound-black-friday-2026/">bedroomproducersblog.com</a></p>
 <br clear="all" />
 
 ---
