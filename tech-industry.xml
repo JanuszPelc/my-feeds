@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-09T06:59:00+00:00</updated>
+  <updated>2026-11-09T10:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Pilita Clark Discusses Challenges of Manager Compensation in the Age of AI Agents</title>
+    <link href="https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682" rel="alternate" />
+    <id>https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682::v240</id>
+    <published>2026-11-09T10:04:00+00:00</published>
+    <updated>2026-11-09T10:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgetstello.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FChatGPT-Image-Apr-29-2026-01_24_08-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682">ft.com</a></small></p><hr/><p>Financial Times columnist Pilita Clark examines how the adoption of artificial intelligence agents to replace human employees is complicating traditional corporate compensation structures. Because managerial grades and pay have historically depended on the size of a human headcount, organizations face a new dilemma when managers oversee automated software tools instead of traditional teams.</p><p>The emerging issue highlights broader challenges as businesses integrate automation into human resources and leadership metrics. Traditional benchmarks for evaluating managerial influence and compensation may require significant restructuring to account for productivity driven by digital agents rather than large groups of direct reports.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgetstello.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FChatGPT-Image-Apr-29-2026-01_24_08-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 16:02 UTC | #26881</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ada Support Agrees to Merge with Dialpad in $600-Million Deal</title>
+    <link href="https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger/" rel="alternate" />
+    <id>https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger/::v240</id>
+    <published>2026-11-09T10:03:00+00:00</published>
+    <updated>2026-11-09T10:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.theglobeandmail.com%2Fresizer%2Fv2%2FRNI5MNSO4NF4ZE3TCMIABAVS3M.jpg%3Fauth%3D29e6a2b5956d0a7c56296e562b3ef85388b4489f00bcc23b8ca0b9e6af1166f2%26width%3D600%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger/">theglobeandmail.com</a></small></p><hr/><p>Toronto-based artificial intelligence customer service firm Ada Support Inc. has agreed to combine with U.S. software company Dialpad Inc. in an all-share transaction valuing the Canadian enterprise at approximately $600-million. The deal follows a series of workforce reductions and cost-cutting measures at Ada as the company navigated a depressed valuation environment and shifting market dynamics for legacy software providers.</p><p>Founded in 2016, Ada previously achieved unicorn status with a US$1.2-billion valuation during the pandemic-era technology boom before transitioning its technology stack to large language models and voice agents. Dialpad, a San Francisco Bay Area contact-centre software provider backed by prominent investors including Andreessen Horowitz and Google Ventures, launched its own agentic AI platform last October, bringing larger scale and enterprise telephony capabilities to the combined entity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theglobeandmail.com%2Fresizer%2Fv2%2FRNI5MNSO4NF4ZE3TCMIABAVS3M.jpg%3Fauth%3D29e6a2b5956d0a7c56296e562b3ef85388b4489f00bcc23b8ca0b9e6af1166f2%26width%3D600%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 16:01 UTC | #26882</small>]]></content>
+  </entry>
   <entry>
     <title>ByteDance Weighs Expansion of Ceara Data Center Project in Brazil</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil" rel="alternate" />

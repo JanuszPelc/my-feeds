@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Pilita Clark Discusses Challenges of Manager Compensation in the Age of AI Agents</h2>
+<a name="story-26881"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgetstello.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FChatGPT-Image-Apr-29-2026-01_24_08-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Financial Times columnist Pilita Clark examines how the adoption of artificial intelligence agents to replace human employees is complicating traditional corporate compensation structures. Because managerial grades and pay have historically depended on the size of a human headcount, organizations face a new dilemma when managers oversee automated software tools instead of traditional teams.</p><p>The emerging issue highlights broader challenges as businesses integrate automation into human resources and leadership metrics. Traditional benchmarks for evaluating managerial influence and compensation may require significant restructuring to account for productivity driven by digital agents rather than large groups of direct reports.</p>
+<p>Nov 9 · <a href="https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682">ft.com</a></p>
+<br clear="all" />
+
+<h2>Ada Support Agrees to Merge with Dialpad in $600-Million Deal</h2>
+<a name="story-26882"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theglobeandmail.com%2Fresizer%2Fv2%2FRNI5MNSO4NF4ZE3TCMIABAVS3M.jpg%3Fauth%3D29e6a2b5956d0a7c56296e562b3ef85388b4489f00bcc23b8ca0b9e6af1166f2%26width%3D600%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Toronto-based artificial intelligence customer service firm Ada Support Inc. has agreed to combine with U.S. software company Dialpad Inc. in an all-share transaction valuing the Canadian enterprise at approximately $600-million. The deal follows a series of workforce reductions and cost-cutting measures at Ada as the company navigated a depressed valuation environment and shifting market dynamics for legacy software providers.</p><p>Founded in 2016, Ada previously achieved unicorn status with a US$1.2-billion valuation during the pandemic-era technology boom before transitioning its technology stack to large language models and voice agents. Dialpad, a San Francisco Bay Area contact-centre software provider backed by prominent investors including Andreessen Horowitz and Google Ventures, launched its own agentic AI platform last October, bringing larger scale and enterprise telephony capabilities to the combined entity.</p>
+<p>Nov 9 · <a href="https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger/">theglobeandmail.com</a></p>
+<br clear="all" />
+
 <h2>ByteDance Weighs Expansion of Ceara Data Center Project in Brazil</h2>
 <a name="story-26873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnanthavictor.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fimage-20.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TikTok parent company ByteDance is considering an expansion of its data center project in Ceara, Brazil, by adding a second phase larger than its ongoing $10 billion, 300-megawatt development. According to sources familiar with the matter, the potential new phase aims to further scale up the company's digital infrastructure capacity in northeastern Brazil.</p><p>The ongoing initial project represents a major foreign infrastructure investment in the region, utilizing local renewable energy sources. A second phase exceeding the current scale highlights ByteDance's growing long-term commitment to expanding its operational footprint in Latin America.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.okoone.com%2Fwp-content%2Fuploads%2F2025%2F03%2FStrategy-Trends-354.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Political restrictions on data-center development could safeguard the broader US economy against an artificial intelligence investment bust by pacing infrastructure growth over time. According to Deutsche Bank economists, local and state-level pushback is effectively weeding out financially unstable projects.</p><p>Although these hurdles introduce risks to a key driver of recent economic expansion, analysts suggest that slowing the pace of development reduces the likelihood of a disruptive market crash. Financial institutions have increasingly sought ways to hedge their exposure amid accelerated lending for cloud computing and artificial intelligence initiatives.</p>
 <p>Nov 7 · <a href="https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>John Langford Departs Microsoft and Declares AI Frontiers Group Closed</h2>
-<a name="story-26779"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2023%2F08%2F230821-cantwell-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft researcher John Langford has departed the company and announced the dissolution of AI Frontiers, the 50-person research sub-organization he helped co-found. The group was formed to organize coherent research efforts on agents and fundamental AI capabilities, but its trajectory changed following a September reorganization into Microsoft AI.</p><p>Langford cited an incompatible philosophy between his team's focus on foundational research and the scaling-only priorities of Microsoft AI's leadership, inherited from Inflection AI. He criticized the scaling-first mandate as short-sighted and expressed concern over Microsoft Research's ability to translate research into real-world applications, leading to his decision to leave.</p>
-<p>Nov 7 · <a href="https://hunch.net/?p=13764006">hunch.net</a> | <a href="https://news.ycombinator.com/item?id=50406563">hacker news</a></p>
-<br clear="all" />
-
-<h2>NASSCOM President Warns AI Could Impact Job Prospects for Indian IT Graduates</h2>
-<a name="story-26751"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F0%252F8%252F2%252F5%252F13405280-1-eng-GB%252F6e4c759b0db5-GettyImages-2281719557-1-i.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rajesh Nambiar, president of NASSCOM, warns that recent college graduates in India may struggle to find technology jobs as artificial intelligence automates entry-level coding and software testing tasks.</p><p>The shift toward AI-driven automation suggests that India's technical education system requires a rapid overhaul to align graduate skills with changing industry needs.</p>
-<p>Nov 7 · <a href="https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai">asia.nikkei.com</a></p>
 <br clear="all" />
 
 ---
