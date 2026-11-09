@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-09T07:00:00+00:00</updated>
+  <updated>2026-11-09T11:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Russia's Rassvet Satellite Network Could Come Online by 2027</title>
+    <link href="https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0" rel="alternate" />
+    <id>https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0::v240</id>
+    <published>2026-11-09T11:52:00+00:00</published>
+    <updated>2026-11-09T11:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftopcor.ru%2Fuploads%2Fposts%2F2026-03%2F1ca155670e_60c023af-5e42-4047-ad0e-9a69c9ff226d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0">ft.com</a></small></p><hr/><p>Analysts warn that Russia's Rassvet broadband satellite network could become operational as early as 2027 following a troubled development phase. The space project is expected to enhance Russia's military capabilities by facilitating more precise and destructive drone strikes deep within Ukraine.</p><p>The constellation is designed to provide high-speed, secure orbital internet connectivity, addressing critical communication gaps for Russian forces. Observers note that deploying the network will significantly bolster Moscow's digital sovereignty and long-term tactical coordination on the battlefield.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftopcor.ru%2Fuploads%2Fposts%2F2026-03%2F1ca155670e_60c023af-5e42-4047-ad0e-9a69c9ff226d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 17:09 UTC | #26888</small>]]></content>
+  </entry>
   <entry>
     <title>Julio Merino Launches ZKeys for Unattended Reboots of Encrypted Disks</title>
     <link href="https://jmmv.dev/2026/11/zkeys-intro.html" rel="alternate" />

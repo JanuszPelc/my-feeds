@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Russia&#x27;s Rassvet Satellite Network Could Come Online by 2027</h2>
+<a name="story-26888"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftopcor.ru%2Fuploads%2Fposts%2F2026-03%2F1ca155670e_60c023af-5e42-4047-ad0e-9a69c9ff226d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Analysts warn that Russia's Rassvet broadband satellite network could become operational as early as 2027 following a troubled development phase. The space project is expected to enhance Russia's military capabilities by facilitating more precise and destructive drone strikes deep within Ukraine.</p><p>The constellation is designed to provide high-speed, secure orbital internet connectivity, addressing critical communication gaps for Russian forces. Observers note that deploying the network will significantly bolster Moscow's digital sovereignty and long-term tactical coordination on the battlefield.</p>
+<p>Nov 9 · <a href="https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0">ft.com</a></p>
+<br clear="all" />
+
 <h2>Julio Merino Launches ZKeys for Unattended Reboots of Encrypted Disks</h2>
 <a name="story-26914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fextradisks.com%2Fimages%2Fextradisksencrypteddisk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Julio Merino has introduced ZKeys, a managed service designed to enable unattended, passwordless reboots for machines with encrypted disks without compromising data security. The service stores half of an encryption passphrase remotely while the other half remains on the client machine, requiring periodic keepalive pings over HTTPS to keep the volume unlocked.</p><p>If a client machine goes offline for an extended period—such as during a physical theft—the server automatically locks access to the key, preventing unauthorized data recovery. The open-source client currently includes integration support for FreeBSD and Fedora, relying on a split-key architecture and encryption at rest to protect against server compromises.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26766"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.golem.de%2F2310%2F178741-408383-408380.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A security researcher achieved arbitrary code execution on Meta Ray-Ban smartglasses by intercepting over-the-air firmware updates and deploying a custom application via the Device Access Toolkit. By hooking application methods with Frida, the researcher extracted full firmware images and established an interactive bind shell over a Wi-Fi Direct connection.</p><p>Although initial self-signing methods were later blocked in firmware version 127, the signature verification checks were bypassed by modifying feature flags within mobile configuration files. The vulnerabilities were reported to Meta through its bug bounty program and have since been addressed.</p>
 <p>Nov 7 · <a href="https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/">p0pcycle.com</a> | <a href="https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses">lobsters</a></p>
-<br clear="all" />
-
-<h2>Omdia Highlights Key Technology and Infrastructure Security Trends for 2027</h2>
-<a name="story-26739"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2026%2F02%2Fomdia-tablets-q4-2025.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Omdia has released a series of Trend Watch reports examining major technology, infrastructure security, and market shifts projected for 2027. The analyses cover accelerating demands for digital sovereignty, the commercial monetization of artificial intelligence, and the convergence of building automation with industrial control systems.</p><p>Additional reports explore network modernization challenges, including fiber infrastructure requirements for AI workloads, cybersecurity team restructuring, and smartphone financing dynamics in emerging markets. These insights aim to help enterprises navigate complex operational transitions and evaluate long-term technology investments.</p>
-<p>Nov 7 · <a href="https://omdia.tech.informa.com/">omdia.tech.informa.com</a></p>
 <br clear="all" />
 
 ---
