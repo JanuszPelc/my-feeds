@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>ByteDance Weighs Expansion of Ceara Data Center Project in Brazil</h2>
+<a name="story-26873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnanthavictor.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fimage-20.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>TikTok parent company ByteDance is considering an expansion of its data center project in Ceara, Brazil, by adding a second phase larger than its ongoing $10 billion, 300-megawatt development. According to sources familiar with the matter, the potential new phase aims to further scale up the company's digital infrastructure capacity in northeastern Brazil.</p><p>The ongoing initial project represents a major foreign infrastructure investment in the region, utilizing local renewable energy sources. A second phase exceeding the current scale highlights ByteDance's growing long-term commitment to expanding its operational footprint in Latin America.</p>
+<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Amazon Develops New Home Robot Following Astro Struggles and Fauna Robotics Acquisition</h2>
 <a name="story-26862"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cnn.com%2Fapi%2Fv1%2Fimages%2Fstellar%2Fprod%2F210928125815-1-amazon-astro.jpg%3Fq%3Dx_0%2Cy_0%2Ch_2268%2Cw_4030%2Cc_fill&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is developing a new household robot through its Personal Robotics Group following the limited rollout and commercial struggles of its Astro device. The company has redeployed engineers, hired an MIT roboticist, and acquired humanoid startup Fauna Robotics to tackle the technical challenges of creating consumer robots for dynamic home environments.</p><p>While Astro was largely restricted to an invite-only release and viewed by some owners as a costly novelty, advancements in artificial intelligence, sensors, and actuators are driving renewed industry interest in personal robotics. Amazon aims to leverage these technological leaps and lessons from its vast warehouse automation network to build a functional household robot, competing alongside other tech firms exploring the emerging market.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26751"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F0%252F8%252F2%252F5%252F13405280-1-eng-GB%252F6e4c759b0db5-GettyImages-2281719557-1-i.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rajesh Nambiar, president of NASSCOM, warns that recent college graduates in India may struggle to find technology jobs as artificial intelligence automates entry-level coding and software testing tasks.</p><p>The shift toward AI-driven automation suggests that India's technical education system requires a rapid overhaul to align graduate skills with changing industry needs.</p>
 <p>Nov 7 · <a href="https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai">asia.nikkei.com</a></p>
-<br clear="all" />
-
-<h2>Axon Announces $1.2 Billion Investment in Drone Manufacturer Skydio</h2>
-<a name="story-26734"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmgxz50fq%2F~production-v3%2F607ebf3fdd154beeaa1e1abcfb6b18aaad947df4-5184x3888.jpg%3Fw%3D3000%26fit%3Dmax%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Public safety technology company Axon has announced an additional $1.2 billion investment in drone manufacturer Skydio, deepening a strategic partnership following discussions of a full acquisition. The agreement values Skydio at $5.2 billion pre-money and increases Axon's fully diluted stake to roughly 37 percent while making Axon the company's exclusive public safety distributor in the United States and Canada.</p><p>The massive funding round aims to accelerate the integration of autonomous drones into first-responder workflows. By combining Axon's public safety software network with Skydio's advanced aerial robotics, the partnership intends to expand the deployment of "drone as a first responder" programs across law enforcement agencies.</p>
-<p>Nov 7 · <a href="https://resiliencemedia.co/">resiliencemedia.co</a> | <a href="https://www.prnewswire.com/news-releases/axon-invests-1-2-billion-in-skydio-to-build-the-future-of-drone-as-first-responder-302930993.html">prnewswire.com</a></p>
 <br clear="all" />
 
 ---

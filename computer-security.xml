@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-09T05:28:00+00:00</updated>
+  <updated>2026-11-09T07:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Julio Merino Launches ZKeys for Unattended Reboots of Encrypted Disks</title>
+    <link href="https://jmmv.dev/2026/11/zkeys-intro.html" rel="alternate" />
+    <id>https://jmmv.dev/2026/11/zkeys-intro.html::v240</id>
+    <published>2026-11-09T07:00:00+00:00</published>
+    <updated>2026-11-09T07:00:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fextradisks.com%2Fimages%2Fextradisksencrypteddisk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jmmv.dev/2026/11/zkeys-intro.html">jmmv.dev</a> | <a href="https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks">lobsters</a></small></p><hr/><p>Julio Merino has introduced ZKeys, a managed service designed to enable unattended, passwordless reboots for machines with encrypted disks without compromising data security. The service stores half of an encryption passphrase remotely while the other half remains on the client machine, requiring periodic keepalive pings over HTTPS to keep the volume unlocked.</p><p>If a client machine goes offline for an extended period—such as during a physical theft—the server automatically locks access to the key, preventing unauthorized data recovery. The open-source client currently includes integration support for FreeBSD and Fedora, relying on a split-key architecture and encryption at rest to protect against server compromises.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fextradisks.com%2Fimages%2Fextradisksencrypteddisk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 13:12 UTC | #26914</small>]]></content>
+  </entry>
   <entry>
     <title>Alex Stamos Discusses the Impact of Artificial Intelligence on Cybersecurity</title>
     <link href="https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos" rel="alternate" />
