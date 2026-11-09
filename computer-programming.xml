@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-09T05:54:00+00:00</updated>
+  <updated>2026-11-09T07:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Google Releases November Update for Googlebook with Performance and Stability Improvements</title>
+    <link href="https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone" rel="alternate" />
+    <id>https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone::v240</id>
+    <published>2026-11-09T07:01:00+00:00</published>
+    <updated>2026-11-09T07:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FVHLrEQnyFyGbeSJfvGvR3N.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone">androidcentral.com</a></small></p><hr/><p>Google is rolling out the November update for Googlebook, bringing significant performance, stability, and memory management optimizations. The update refines NPU drivers and AICore memory handling, freeing up to 6GB of system RAM to improve multitasking and prevent unexpected Chrome crashes under heavy workloads.</p><p>The release also fixes several hardware and software bugs across supported models from manufacturers like Acer, ASUS, and Lenovo, including issues with tablet mode input loss, Zoom virtual background crashes, and black screens on DRM-protected external displays. Additionally, it includes Linux terminal and security enhancements, incorporating the November 2026 Android security patch and an updated Linux kernel.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FVHLrEQnyFyGbeSJfvGvR3N.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 13:35 UTC | #26876</small>]]></content>
+  </entry>
   <entry>
     <title>Redox OS Adds Virtio-FS Driver and Cloud Hypervisor Support</title>
     <link href="https://www.redox-os.org/news/virtualized-redox/" rel="alternate" />

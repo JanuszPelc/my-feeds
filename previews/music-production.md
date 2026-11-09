@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Neumann Details Development and Design of KH 310 II and KH 350 Studio Monitors</h2>
+<a name="story-26879"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMT-HERO-NEUMANN-KH-SERIES-CREDIT-SIMON-VINALL%402560x1707.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Neumann product marketing manager Rune Jacobsen details the design, manufacturing standards, and engineering philosophy behind the brand's KH 310 II and KH 350 three-way studio monitors. Tracing the lineup's lineage back to Klein and Hummel, Jacobsen explains how Neumann maintains strict in-house component design and tight production tolerances to ensure consistent acoustic measurements across units.</p><p>Aimed at professional mixing, mastering, and immersive audio setups, the KH 310 II and KH 350 feature integrated DSP and compatibility with Neumann's MA 1 Automatic Monitor Alignment software for room calibration. Although positioned at a high price point, the speakers prioritize a flat, uncolored frequency response and long-term reliability over commercial sound-boosting trends.</p>
+<p>Nov 9 · <a href="https://musictech.com/features/interviews/neumann-kh-series/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>discoDSP Updates TED-8, Discovery Pro, and Retromulator</h2>
 <a name="story-26880"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fted8_matrix.1792857894.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>discoDSP has released TED-8 1.5, introducing a piano roll editor for the sequencer, phrase generators, MIDI file support, and arpeggiator modes from the TEO-5. The update also features a recalibrated sound profile and is available free to existing customers.</p><p>Alongside TED-8, the company updated Discovery Pro to version 9.10 with the Nordic 1 filter, Nord Lead 1 SysEx import and export, and CPU-efficient layer quality modes, while also updating Retromulator to version 2.3.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKWqXFLfuYpc%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A new free, open-source virtual analog synthesizer recreates the classic Synth1 for macOS and iPad. Developed by OXO Music, the plugin uses AI-assisted modeling to replicate the original's audio output and parameter behavior, providing a native Apple Silicon alternative for modern systems. It is compatible with macOS 14 and iPadOS 17 in VST3, AU, and AUv3 formats.</p><p>The engine features two oscillators, a sub oscillator, FM, ring modulation, hard sync, and five filter types. Users can import existing .sy1 patches and ZIP banks to maintain compatibility with legacy sound collections. A Windows version is currently in development.</p>
 <p>Nov 6 · <a href="https://bedroomproducersblog.com/2026/11/06/oxo-synth2/">bedroomproducersblog.com</a> | <a href="https://oxo-music.com/products/oxo_synth2">oxo-music.com</a></p>
-<br clear="all" />
-
-<h2>Acon Digital Launches Restoration Suite 3</h2>
-<a name="story-26676"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frestoration-suite-3-plugin-collection-16_9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Restoration Suite 3 toolkit features a new plug-in that automatically identifies audio defects and constructs a custom repair chain. By using an "Analyze" function, the software listens to a recording to detect issues such as broadband noise, hum, clicks, or clipping, then automatically configures the required modules and settings.</p><p>The suite includes updated versions of DeNoise 3, DeHum 3, DeClick 3, and DeClip 3, with DeNoise and DeHum introducing new machine learning–powered "Automatic" modes. The software is available as a standalone product with perpetual licensing or as part of the Acoustica 8 audio editor.</p>
-<p>Nov 6 · <a href="https://www.kvraudio.com/news/acon-digital-launches-restoration-suite-3-69668?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69668">kvraudio.com</a> | <a href="https://acondigital.com/products/restoration-suite">acondigital.com</a></p>
 <br clear="all" />
 
 ---
