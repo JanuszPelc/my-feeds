@@ -470,13 +470,4 @@
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fjklintan.github.io%2Fimg%2Fprojects%2FclothDemo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://mrdoob.github.io/codevember-2026/01/">mrdoob.github.io</a> | <a href="https://news.ycombinator.com/item?id=50361268">hacker news</a></small></p><hr/><p>Mr.doob has released "Fold" as his first entry for Codevember 2026, featuring an interactive Three.js scene where a continuous sheet of translucent plastic pours down and folds onto a studio floor.</p><p>Users can interact with the simulation by dragging the cloth or pressing the spacebar to pause the movement, showcasing real-time physics and rendering performance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fjklintan.github.io%2Fimg%2Fprojects%2FclothDemo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 13:03 UTC | #26402</small>]]></content>
   </entry>
-  <entry>
-    <title>PostgreSQL Expert Hironobu Suzuki Seeks International Engineering Roles</title>
-    <link href="https://www.interdb.jp/pg/index.html" rel="alternate" />
-    <id>https://www.interdb.jp/pg/index.html::v240</id>
-    <published>2026-11-04T03:00:00+00:00</published>
-    <updated>2026-11-04T03:00:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.interdb.jp%2Fpg%2Fpgsql08%2Ffig-8-16.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.interdb.jp/pg/index.html">interdb.jp</a> | <a href="https://news.ycombinator.com/item?id=50358702">hacker news</a></small></p><hr/><p>Hironobu Suzuki, author of the widely referenced technical documentation "The Internals of PostgreSQL," has announced that he is fully recovered from a health-related stay in Japan and is open to new international career opportunities. He is currently seeking challenging database engineering tasks, roles offering visa sponsorship, or remote positions that support a digital nomad lifestyle.</p><p>Suzuki brings extensive experience as a software engineer, technical director, and former director of the Japan PostgreSQL Users Group. His comprehensive online reference work details core database subsystems ranging from buffer management and query processing to replication across multiple PostgreSQL versions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.interdb.jp%2Fpg%2Fpgsql08%2Ffig-8-16.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 11:32 UTC | #26385</small>]]></content>
-  </entry>
 </feed>
