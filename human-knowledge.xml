@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-08T16:12:00+00:00</updated>
+  <updated>2026-11-08T22:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Luca Comisso and Felipe A. Asenjo Uncover Gravitational Reconnection in Einstein's Equations</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261104084011.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261104084011.htm::v240</id>
+    <published>2026-11-08T22:44:00+00:00</published>
+    <updated>2026-11-08T22:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.worldsciencefestival.com%2Fwp-content%2Fuploads%2F2017%2F03%2FEinstein-field-equations_w-bug.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261104084011.htm">sciencedaily.com</a></small></p><hr/><p>Physicists Luca Comisso and Felipe A. Asenjo have identified a mathematical phenomenon in Albert Einstein’s general relativity equations known as "gravitational reconnection." By examining space-time through a formulation analogous to plasma physics, their research demonstrates that gravitational field structures can break and reconnect, providing a mechanism for energy to flow from gravity into matter.</p><p>Although gravity operates in four-dimensional space-time as field sheets rather than the individual field lines typical of magnetic reconnection, these mathematical constraints reveal hidden rules governing space-time geometry. The theoretical framework offers new perspectives on extreme cosmic environments such as merging black holes, and researchers plan to investigate whether the process produces recognizable signatures in gravitational wave signals.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.worldsciencefestival.com%2Fwp-content%2Fuploads%2F2017%2F03%2FEinstein-field-equations_w-bug.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 03:46 UTC | #26858</small>]]></content>
+  </entry>
   <entry>
     <title>Writing as a Thinking Tool</title>
     <link href="https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html" rel="alternate" />
