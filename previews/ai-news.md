@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Shane Melaugh Reports Reasoning Shift in Claude Opus 5.5 Sessions</h2>
+<a name="story-26961"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Flesswrong-2-0%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1%2FmirroredImages%2Fq5ejXr4CRuPxkgzJD%2Ff2kkahak3sik7cmswpwt&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Shane Melaugh reports that an analysis of 1,400 Claude Code sessions reveals a distinct shift in the reasoning behavior of Claude Opus 5.5 beginning on November 3.</p><p>Despite the model's identifier remaining unchanged, the abrupt alteration in its operational and reasoning patterns suggests an unannounced backend modification or performance adjustment by the developer.</p>
+<p>Nov 9 · <a href="https://twitter.com/shanemelaugh/status/2119192075505893695">x.com</a> | <a href="https://news.ycombinator.com/item?id=50422069">hacker news</a></p>
+<br clear="all" />
+
 <h2>Automattic Launches Spacefast to Deploy Vibe-Coded Applications</h2>
 <a name="story-26919"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.cloudflare.com%2F_image%3Fhref%3Dhttps%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01KW4684TGVTR7TBTACDSW78V1.png%26w%3D1080%26h%3D450%26f%3Dwebp%26fit%3Dcover%26position%3Dcenter&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Automattic has launched Spacefast, a platform that provides the backend infrastructure for "vibe-coded" websites and applications. The service includes databases, authentication, file uploads, email capabilities, and analytics to transform AI-generated code into functional, deployable web services.</p><p>Users can connect Spacefast to AI agents such as ChatGPT and Claude or link it to Git repositories. The service competes with platforms like Lovable and Emergent by integrating with Automattic’s existing WordPress and WooCommerce ecosystems to serve developers and enterprises looking to consolidate AI-driven development workflows.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeep-diver.github.io%2Fneurips2024%2Fposters%2Foloqhrbxye%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Startup Underdog has released a browser-based demo showcasing Woof, a 32MB speech generation model designed to run locally on edge devices without an internet connection. The interactive game allows users to type text or adjust settings to hear audio generated entirely within the browser.</p><p>The open-download model features 31 million parameters and is part of Underdog's broader push to provide lightweight, locally hosted AI tools that prioritize user data privacy. This follows the company's previous release of Bark, a speech-to-text model also built for edge devices.</p>
 <p>Nov 6 · <a href="https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/">techcrunch.com</a> | <a href="https://underdog.ai/escape">underdog.ai</a></p>
-<br clear="all" />
-
-<h2>Unsloth Releases Dynamic V3.1 GGUFs for Qwen3.8-Flash-Next</h2>
-<a name="story-26682"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHQG-Srza0AEB0kf%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Unsloth has released Dynamic V3.1 GGUF quantizations for the Qwen3.8-Flash-Next model, reporting a 10 to 15 percent increase in accuracy alongside reduced token usage and faster processing speeds.</p><p>The update also introduces major platform enhancements across the Unsloth application, including improved Glass theme rendering, unified memory offloading for larger models, individual web browsers for separate chats, and faster image and video generation performance on multi-GPU hardware.</p>
-<p>Nov 6 · <a href="https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next-dynamic-v3.1">unsloth.ai</a></p>
 <br clear="all" />
 
 ---

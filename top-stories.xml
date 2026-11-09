@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-09T18:19:00+00:00</updated>
+  <updated>2026-11-09T21:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Native Instruments Releases Vertikal Virtual Grand Piano Instrument</title>
+    <link href="https://musictech.com/news/music/native-instruments-vertikal-grand-piano-virtual/" rel="alternate" />
+    <id>https://musictech.com/news/music/native-instruments-vertikal-grand-piano-virtual/::v240</id>
+    <published>2026-11-09T21:19:00+00:00</published>
+    <updated>2026-11-09T21:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNative-Instruments-Vertikal-plugin.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/music/native-instruments-vertikal-grand-piano-virtual/">musictech.com</a> | <a href="https://www.native-instruments.com/products/vertikal">native-instruments.com</a></small></p><hr/><p>Native Instruments and Galaxy Instruments have released Vertikal, a new virtual instrument for Kontakt 8 that captures the sound of a 4.5-meter-tall vertical concert grand piano. Recorded by the piano's owner, Nils Frahm, at Berlin's Funkhaus studio complex, the instrument replicates the acoustics of the monumental instrument's massive resonant body and strings.</p><p>Vertikal offers three performance modes—pure, felt, and felt-plus-cotton—allowing users to switch between clear and softened textures. It is powered by a redesigned Particles 2.0 engine featuring refined rhythm patterns, an expanded sound source library, precise pan and timbre controls, and motion modulation systems supporting polyphonic aftertouch.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNative-Instruments-Vertikal-plugin.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 20:52 UTC | #26688 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Scripps Institution of Oceanography Identifies Viscosity of Marine Snow as Carbon Transport Factor</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261105224558.htm" rel="alternate" />

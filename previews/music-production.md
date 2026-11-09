@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Vienna Symphonic Library Releases Vienna Performer</h2>
+<a name="story-26934"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvsl_viennaperformer_gui1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Vienna Symphonic Library (VSL) has released Vienna Performer, a plugin that converts written musical notes into audio performances. The software uses AI models trained on recordings from the Vienna Synchron Orchestra to apply specific articulations, phrasing, and acoustic characteristics to user-provided MIDI or notation data.</p><p>The launch includes nine instruments, including solo flute, clarinet, and horn, as well as various string ensembles. Available on macOS and Windows in VST, VST3, AU, and AAX formats, the plugin is accessible via a subscription model tiered by monthly "render minutes" and requires an internet connection.</p>
+<p>Nov 9 · <a href="https://www.kvraudio.com/news/vienna-symphonic-library-releases-vienna-performer-69663?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69663">kvraudio.com</a> | <a href="https://www.vsl.co.at/vienna-performer">vsl.co.at</a></p>
+<br clear="all" />
+
 <h2>Positive Grid Adds NAM Capture Support to BIAS X</h2>
 <a name="story-26931"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbias-x-nam-menu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Positive Grid has updated BIAS X to version 1.3, introducing support for loading Neural Amp Modeler (NAM) captures directly into the software.</p><p>Once loaded into the amp slot, these captures can be used in conjunction with BIAS X's effects and tone control parameters.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26887"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffiltryg_1_main_product_photo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Media Overkill has released version 1.2.2 of its Filtryg dual filter plugin as a free update for current users. The new version introduces support for Windows ARM64X and provides a generic Linux tarball download option alongside the standard Debian installer package.</p><p>Additional changes in v1.2.2 include framework updates for Juce and AAX, various under-the-hood bug fixes, and updated user manuals. The update also moves theme files to the user preferences folder on disk, allowing them to be customized with an optional file-change monitoring feature in the theme menu.</p>
 <p>Nov 9 · <a href="https://www.kvraudio.com/news/mok-updates-filtryg-to-v1-2-2-with-windows-arm-support-69685?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69685">kvraudio.com</a> | <a href="https://mediaoverkill.com/filtryg">mediaoverkill.com</a></p>
-<br clear="all" />
-
-<h2>REV-246 Free EMT-Inspired Reverb Plugin Released</h2>
-<a name="story-26823"><img src="https://wsrv.nl/?url=https%3A%2F%2Frvb-img.reverb.com%2Fi%2Fs--lmprf3lN--%2Fquality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Fa25d71b2-b5ed-404e-b705-ad2d742cfba8.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Leigh Pierce has released REV-246, a free, open-source digital reverb plugin inspired by the EMT 246 hardware processor for macOS, Windows, and Linux. The plugin includes five EMT 246-inspired programs, an EMT 250-based algorithm, and tail lengths reaching up to 20 seconds, modeled after the physical unit's interface layout with six levers and readouts.</p><p>Additional features include a 16-bit lo-fi precision mode that introduces noise and clipping, an XFMR switch for low-frequency transformer coloration, a built-in ducker, and stereo width controls. Available in VST3 and AU formats, the plugin provides 65 factory presets, true stereo routing, and roughly one millisecond of latency.</p>
-<p>Nov 8 · <a href="https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/tehguitarist/REV-246">github.com</a></p>
 <br clear="all" />
 
 ---
