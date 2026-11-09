@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;Apiiro Examines Security Risks of Coding Agents Leaking Secrets on GitHub</h2>
+<a name="story-26796"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northdoor.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2FAI-Coding-Agents-infographic-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apiiro examines the security implications of AI coding agents inadvertently leaking sensitive credentials and secrets to platforms like GitHub. The post explores how automated development tools and agentic workflows can introduce new vulnerabilities when handling sensitive information without adequate guardrails.</p><p>The discussion highlights the challenges organizations face in securing AI-driven development environments where autonomous agents interact with code repositories. It underscores the need for robust control planes and security monitoring to prevent accidental data exposure during automated coding tasks.</p>
+<p>Nov 9 · <a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again">apiiro.com</a> | <a href="https://news.ycombinator.com/item?id=50407882">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Nvidia CEO Jensen Huang Sends Letter to Staff Regarding Relationship and Board Investigation</h2>
 <p>Nvidia CEO Jensen Huang admitted to a romantic relationship with a suspected Chinese spy in a company-wide message, apologizing to his family and pledging full cooperation with an independent board investigation.</p><p>The email addresses national security concerns and family privacy while a company representative confirmed that Huang will continue leading Nvidia without interruption as the investigation proceeds.</p>
 <p>Nov 9 · <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26762"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F09%2Fget-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods%2Farticle%2FApple-Watch-Series-11_inline.jpg.large_2x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple’s macOS features background daemons like knowledgeconstructiond and intelligenceplatformd that automatically construct an on-device personal knowledge graph. The system cross-references local data sources—including contacts, calendar events, photos, messages, location signals, and device activity—to build a queryable repository of user relationships and behaviors.</p><p>Security researchers at Eighth Rank analyzed the underlying SQLite databases within the IntelligencePlatform directory, detailing the structure's entity classes and relationship predicates. To help users inspect what data is stored locally, the researchers also released an open-source tool called iKnow while highlighting potential privacy and security implications associated with comprehensive on-device data aggregation.</p>
 <p>Nov 8 · <a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">8rank.ai</a> | <a href="https://news.ycombinator.com/item?id=50403097">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Jimmy Maher Analyzes the Design and Legacy of Deus Ex</h2>
-<a name="story-26716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.filfre.net%2Fwp-content%2Fuploads%2F2026%2F10%2F4601346-deus-ex-windows-front-cover-515x600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jimmy Maher’s retrospective on Ion Storm’s 2000 role-playing shooter Deus Ex examines both its celebrated status as an immersive sim masterpiece and the cultural hyperbole surrounding its legacy. Drawing on the design lineage of Looking Glass Studios and games like System Shock, the article explores how Deus Ex combined multi-variant problem solving with a traditional linear campaign structure.</p><p>The essay highlights the tension between the game's reputation as a prescient work of interactive philosophy and the pragmatic realities of its development. It details behind-the-scenes anecdotes, including Warren Spector's revelation at a 2017 Game Developers Conference postmortem that the protagonist's initials, J.C. Denton, originated from a playfully exasperated exclamation about a helpful friend rather than grand theological symbolism.</p>
-<p>Nov 8 · <a href="https://www.filfre.net/2026/11/deus-ex/">filfre.net</a> | <a href="https://news.ycombinator.com/item?id=50393758">hacker news</a></p>
 <br clear="all" />
 
 ---

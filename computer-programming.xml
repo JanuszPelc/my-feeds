@@ -7,6 +7,23 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Project Steadfast Developed as General-Purpose Macro Tool for Ruby</title>
+    <link href="https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast" rel="alternate" />
+    <id>https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast::v240</id>
+    <published>2026-11-09T02:12:00+00:00</published>
+    <updated>2026-11-09T02:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fforums-cdn.chiefarchitect.com%2Fchieftalk%2Fmonthly_2024_10%2Fimage.png.1a0e0fc36f502622d4d9cf6be7f1efd9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast">noteflakes.com</a> | <a href="https://lobste.rs/s/5cavvx/introducing_project_steadfast">lobsters</a></small></p><hr/><p>The author is developing Project Steadfast, a general-purpose macro tool for Ruby that implements quote and unquote mechanisms to manipulate and generate abstract syntax trees at runtime. The project aims to provide a cleaner alternative to runtime code evaluation via strings, streamlining complex metaprogramming use cases such as domain-specific language compilation and code unrolling.</p><p>Funded by a Ruby Association grant with Yukihiro Matsumoto serving as a mentor, the project builds on the author's previous work with the Sirop AST converter and the Papercraft library. Scheduled for completion in March 2027, the development will explore integrating these macro tools into popular gems like ERB, ActiveRecord, and Roda, with ongoing updates hosted in an open-source repository.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fforums-cdn.chiefarchitect.com%2Fchieftalk%2Fmonthly_2024_10%2Fimage.png.1a0e0fc36f502622d4d9cf6be7f1efd9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 08:51 UTC | #26878</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nspawn 3.0 Released With Docker-Compatible Engine API</title>
+    <link href="https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/" rel="alternate" />
+    <id>https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/::v240</id>
+    <published>2026-11-09T02:11:00+00:00</published>
+    <updated>2026-11-09T02:11:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/">blog.nspawn.org</a> | <a href="https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api">lobsters</a></small></p><hr/><p>Nspawn 3.0 introduces a Docker-compatible Engine API operating onkes the host via a dedicated socket, enabling tools like the standard docker command-line utility and GitLab Runner to manage systemd-nspawn containers. The release provides compatibility with API versions from 1.24 to 1.51, supporting core container operations, image pulls, and network and volume management.</p><p>Subsequent updates, including versions 3.1.0 and 3.2.0, build on this foundation by adding device cgroup rule configuration and streamlining local image and machine naming conventions across commands. While certain advanced features like image builds and container renames remain unsupported, the tool offers a structured alternative for container administration using existing Docker-compatible workflows.</p><hr/><small>9 Nov 2026, 08:46 UTC | #26877</small>]]></content>
+  </entry>
+  <entry>
     <title>Inform 7 Programming Language</title>
     <link href="https://ganelson.github.io/inform-website/" rel="alternate" />
     <id>https://ganelson.github.io/inform-website/::v240</id>
