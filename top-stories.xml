@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-09T16:58:00+00:00</updated>
+  <updated>2026-11-09T18:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Scripps Institution of Oceanography Identifies Viscosity of Marine Snow as Carbon Transport Factor</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261105224558.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261105224558.htm::v240</id>
+    <published>2026-11-09T18:19:00+00:00</published>
+    <updated>2026-11-09T18:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.sciencedaily.com%2Fimages%2F1920%2Fviscous-marine-snow-particles.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261105224558.htm">sciencedaily.com</a></small></p><hr/><p>Researchers at UC San Diego's Scripps Institution of Oceanography and the University of Lincoln have found that the viscosity of marine snow—the sinking clumps of organic debris in the ocean—significantly affects how much carbon reaches the deep seafloor. Using 3D confocal microscopy and fluorescent molecules, the team observed that stickier, more viscous particles resist bacterial degradation longer, allowing them to transport up to six times more carbon into the deep ocean than thinner particles.</p><p>The findings, published in Science with a companion study in Nature Communications, reveal a complex microscopic landscape in ocean mucus that governs how bacteria interact with organic matter. This improved understanding of marine snow dynamics helps clarify a long-standing puzzle in the global carbon cycle and offers insights into other biological systems where bacteria encounter mucus, such as coral reefs and human digestive tracts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.sciencedaily.com%2Fimages%2F1920%2Fviscous-marine-snow-particles.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 06:20 UTC | #26860 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>United Airlines Integrates Spotify Into Seatback Displays Using Starlink</title>
     <link href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi" rel="alternate" />
@@ -489,14 +498,5 @@
     <updated>2026-11-04T19:27:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html">cnbc.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results">ir.amd.com</a> | <a href="https://news.ycombinator.com/item?id=50367125">hacker news</a></small></p><hr/><p>AMD reported third-quarter revenue of $13.38 billion, a 45% increase from the previous year, exceeding analyst expectations of $13.09 billion. Adjusted earnings per share reached $2.09, surpassing the $1.95 consensus. Data center revenue nearly doubled, now accounting for 64% of the company's total revenue.</p><p>Growth in the data center unit was driven by demand for server CPUs used in agentic AI applications. Conversely, the gaming and PC segments faced headwinds, with combined revenue for those segments falling 8% year-over-year, including a 40% drop in gaming revenue. AMD projects fourth-quarter revenue to be approximately $17 billion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.jonpeddie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FAMD_Q324_004.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 04:35 UTC | #26346 | d,hr</small>]]></content>
-  </entry>
-  <entry>
-    <title>Data Centers Emerge as Midterm Election Issue in Brooklyn and Nationwide</title>
-    <link href="https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/::v240</id>
-    <published>2026-11-04T18:11:00+00:00</published>
-    <updated>2026-11-04T18:11:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59607602%3Fwidth%3D640%26height%3D427&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50364943">hacker news</a></small></p><hr/><p>At a recent midterm election event in Brooklyn hosted by the media company Newsreel, discussions repeatedly centered on artificial intelligence and the rapid expansion of data centers. Speakers and attendees highlighted how local community opposition, environmental concerns, and economic anxieties surrounding these facilities have transformed them into a major ballot-box issue ahead of the November 3 elections.</p><p>Recent reports indicate that billions of dollars in data center projects have faced delays, stalls, or blocks due to political pushback across multiple states. Observers note that these massive facilities have become physical symbols of broader public frustration with the tech industry, touching on tensions over corporate accountability, a lack of local consent, and the distribution of economic benefits.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59607602%3Fwidth%3D640%26height%3D427&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 20:19 UTC | #26218 | d,hr</small>]]></content>
   </entry>
 </feed>

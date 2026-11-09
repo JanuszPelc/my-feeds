@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-09T12:30:00+00:00</updated>
+  <updated>2026-11-09T12:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>EU Assessment Finds Russian Network Exploited French Riots on Social Media</title>
+    <link href="https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/" rel="alternate" />
+    <id>https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/::v240</id>
+    <published>2026-11-09T12:33:00+00:00</published>
+    <updated>2026-11-09T12:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1JEmWs.img%3Fw%3D1920%26h%3D1280%26m%3D4%26q%3D81&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50424396">hacker news</a></small></p><hr/><p>An internal European Union assessment reveals that a covert Russian network known as "Operation Overload" opportunistically exploited riots in France by using social media to spread fabricated videos impersonating Western media outlets. The campaign sought to blame the unrest on uncontrolled immigration and portray the French government as having lost control of public order.</p><p>Active since September 2023, the operation has targeted Western public figures, institutions, and media outlets to discredit support for Ukraine and promote pro-Russian narratives. French authorities and watchdogs have previously tracked similar coordinated disinformation efforts designed to amplify social division and political unrest during sensitive public events.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1JEmWs.img%3Fw%3D1920%26h%3D1280%26m%3D4%26q%3D81&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 18:18 UTC | #26894</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Senior Director Madison Huang Cancels Seoul Appearance</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray" rel="alternate" />

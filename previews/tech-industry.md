@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>EU Assessment Finds Russian Network Exploited French Riots on Social Media</h2>
+<a name="story-26894"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1JEmWs.img%3Fw%3D1920%26h%3D1280%26m%3D4%26q%3D81&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An internal European Union assessment reveals that a covert Russian network known as "Operation Overload" opportunistically exploited riots in France by using social media to spread fabricated videos impersonating Western media outlets. The campaign sought to blame the unrest on uncontrolled immigration and portray the French government as having lost control of public order.</p><p>Active since September 2023, the operation has targeted Western public figures, institutions, and media outlets to discredit support for Ukraine and promote pro-Russian narratives. French authorities and watchdogs have previously tracked similar coordinated disinformation efforts designed to amplify social division and political unrest during sensitive public events.</p>
+<p>Nov 9 · <a href="https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50424396">hacker news</a></p>
+<br clear="all" />
+
 <h2>Nvidia Senior Director Madison Huang Cancels Seoul Appearance</h2>
 <a name="story-26892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbionewsly.com%2Fwp-content%2Fuploads%2F2025%2F09%2Ffa3cd730-d178-42ca-a1f4-b9d5de6eca88.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia Senior Director Madison Huang has canceled a high-profile appearance in Seoul due to a family matter, disrupting plans to highlight the company's partnerships with key South Korean artificial intelligence firms. Huang, the daughter of Nvidia co-founder Jensen Huang, had been scheduled to participate in events showcasing deepening technological ties in the region.</p><p>The cancellation impacts scheduled engagements meant to reinforce collaborative efforts between the chipmaker and major local technology stakeholders. Nvidia's expanding footprint in South Korea's AI sector remains a focal point for industry observers following the abrupt change in schedule.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26783"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmssb-media.xcms.io%2Fpublisher-c1a3f893382d2b2f8a9aa22a654d9c97%2F2025%2F09%2Fe6c395837ded68f038ef4a33257eabd0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Southeast Asian nations, including Thailand and Indonesia, have paused or tightened approvals for numerous datacentre projects as a surge in artificial intelligence infrastructure strains local resources. Driven by rapid growth in the Asia-Pacific region, countries across the region are confronting severe challenges related to heavy electricity consumption and high water usage for cooling facilities.</p><p>While hubs like Malaysia's Johor state have attracted massive investments, local communities and authorities are increasingly pushing back due to environmental concerns, grid bottlenecks, and strained water reservoirs. In response, governments are implementing stricter regulatory frameworks, higher utility tariffs, and resource-efficiency mandates to manage the rapid expansion.</p>
 <p>Nov 7 · <a href="https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia">theguardian.com</a></p>
-<br clear="all" />
-
-<h2>Binance Names Justin Yek as New CFO as Kaiser Ng Departs</h2>
-<a name="story-26776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.galleries.smcloud.net%2Fthumbs%2Fgf-UEvD-QMzA-62kc_binance-9-j.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Binance Holdings Ltd. announced that Chief Financial Officer Kaiser Ng is stepping down to pursue a new venture, with Justin Yek appointed to succeed him under a six-month transition plan.</p><p>The leadership change follows a major security breach in which hackers stole more than $6 billion from the cryptocurrency exchange, marking a notable executive transition amid the fallout from the massive heist.</p>
-<p>Nov 7 · <a href="https://www.bloomberg.com/news/articles/2026-11-07/binance-says-kaiser-ng-leaving-names-justin-yek-new-cfo">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
