@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-09T11:35:00+00:00</updated>
+  <updated>2026-11-09T11:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Unusable Engineering Releases Currents and Nostalgia Synthesizer Plugin</title>
+    <link href="https://www.kvraudio.com/news/unusable-engineering-releases-currents-and-nostalgia-synthesizer-plugin-au-and-vst3-69692?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69692" rel="alternate" />
+    <id>https://www.kvraudio.com/news/unusable-engineering-releases-currents-and-nostalgia-synthesizer-plugin-au-and-vst3-69692?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69692::v240</id>
+    <published>2026-11-09T11:51:00+00:00</published>
+    <updated>2026-11-09T11:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcurrents-and-head2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/unusable-engineering-releases-currents-and-nostalgia-synthesizer-plugin-au-and-vst3-69692?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69692">kvraudio.com</a> | <a href="https://www.unusable.net/synthesizers/currents-and-nostalgia/">unusable.net</a></small></p><hr/><p>Unusable Engineering has released Currents &amp; Nostalgia, a six-voice virtual analogue synthesizer plugin for macOS and Windows. The instrument is built around two circuit-modelled oscillators derived from an original saw-core hardware design by company founder Rasmus Nyåker, paired with a saturating waveform mixer and low-pass and high-pass filters.</p><p>The software features a subtractive architecture enhanced by two independent eight-slot systems for the oscillator and filter parameters, allowing users to sequence parameter states at audio rates without separate modulation programming. Available in AU and VST3 formats, the plugin includes 350 factory presets and is priced at €89.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcurrents-and-head2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 16:57 UTC | #26907</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tuned Plugins Releases Vocal Essentials Bundle V2</title>
+    <link href="https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/::v240</id>
+    <published>2026-11-09T11:42:00+00:00</published>
+    <updated>2026-11-09T11:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffr.moogaudio.com%2Fcdn%2Fshop%2Ffiles%2FTuned-Plugins_Vocal-Essentials_Bundle_800x.jpg%3Fv%3D1772469913&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/">bedroomproducersblog.com</a> | <a href="https://tunedplugins.com/products/vocal-essentials-bundle-v2">tunedplugins.com</a></small></p><hr/><p>Tuned Plugins has released Vocal Essentials Bundle V2, a collection of four updated vocal effects for macOS and Windows, available at a launch price of $9.99 as part of its "F*CK AI SLOP" campaign. The campaign serves as a pushback against rushed plugins created using artificial intelligence to replace traditional craftsmanship and thoughtful audio development.</p><p>The bundle includes VocalTune V2, Vocal Chain V2, Tuned Reverb V2, and Smooth Sibilance V2, all featuring redesigned user interfaces, updated digital signal processing, searchable preset browsers, and Smart Gain loudness matching. The plugins support VST3, AAX, and AU formats and require macOS 11 or Windows 10 or newer.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffr.moogaudio.com%2Fcdn%2Fshop%2Ffiles%2FTuned-Plugins_Vocal-Essentials_Bundle_800x.jpg%3Fv%3D1772469913&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 16:56 UTC | #26906</small>]]></content>
+  </entry>
   <entry>
     <title>Nikolozi Releases Mela v8.0 for macOS and iOS</title>
     <link href="https://www.kvraudio.com/news/nikolozi-releases-mela-v8-0-for-macos-and-ios-69693?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69693" rel="alternate" />
@@ -472,14 +490,5 @@
     <updated>2026-11-05T00:50:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt769_metalmachine2ezx_top-image.1793839902.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/toontrack-releases-metal-machine-2-ezx-by-andy-sneap-69626?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69626">kvraudio.com</a> | <a href="https://www.toontrack.com/product/metal-machine-2-ezx/">toontrack.com</a></small></p><hr/><p>Metal Machine 2 EZX is a drum expansion for EZdrummer 3 and Superior Drummer 3, produced by Andy Sneap at Backstage Recording Studio. The library is designed as a companion to the original Metal Machine EZX released in 2011.</p><p>The expansion includes three kits representing the 1990s, 2010s, and 2020s, targeting traditional, progressive, and extreme metal genres. Sampling and MIDI grooves were performed by Dan Wilding of Carcass, and the product is priced at $89 USD.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt769_metalmachine2ezx_top-image.1793839902.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 05:57 UTC | #26480</small>]]></content>
-  </entry>
-  <entry>
-    <title>NUGEN Audio Releases VisLM 3 Loudness Metering Plugin</title>
-    <link href="https://www.kvraudio.com/news/nugen-audio-releases-vislm-3-69613?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69613" rel="alternate" />
-    <id>https://www.kvraudio.com/news/nugen-audio-releases-vislm-3-69613?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69613::v240</id>
-    <published>2026-11-04T16:49:00+00:00</published>
-    <updated>2026-11-04T16:49:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnugen-audio_vislm-3-user-interface.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/nugen-audio-releases-vislm-3-69613?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69613">kvraudio.com</a> | <a href="https://nugenaudio.com/vislm/">nugenaudio.com</a></small></p><hr/><p>NUGEN Audio has released VisLM 3, the latest generation of its loudness metering and compliance software. The update introduces several major workflow enhancements, including automated stem monitoring across multiple plugin instances, support for up to 9.1.6 surround channels, and new measurement tools like loudness-to-dialogue ratio tracking.</p><p>Designed to help audio professionals manage increasingly complex mixing standards, VisLM 3 also adds timestamped comments via an updated flags system, quality control report exports, and built-in support for updated specifications including EBU R128 s4 and ATSC A/85:2026-07. Available immediately for $499, the plugin offers upgrade paths for existing users while retaining its core momentary, short-term, and True Peak measurement capabilities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnugen-audio_vislm-3-user-interface.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>4 Nov 2026, 22:27 UTC | #26435</small>]]></content>
   </entry>
 </feed>

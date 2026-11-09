@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Unusable Engineering Releases Currents and Nostalgia Synthesizer Plugin</h2>
+<a name="story-26907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcurrents-and-head2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Unusable Engineering has released Currents &amp; Nostalgia, a six-voice virtual analogue synthesizer plugin for macOS and Windows. The instrument is built around two circuit-modelled oscillators derived from an original saw-core hardware design by company founder Rasmus Nyåker, paired with a saturating waveform mixer and low-pass and high-pass filters.</p><p>The software features a subtractive architecture enhanced by two independent eight-slot systems for the oscillator and filter parameters, allowing users to sequence parameter states at audio rates without separate modulation programming. Available in AU and VST3 formats, the plugin includes 350 factory presets and is priced at €89.</p>
+<p>Nov 9 · <a href="https://www.kvraudio.com/news/unusable-engineering-releases-currents-and-nostalgia-synthesizer-plugin-au-and-vst3-69692?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69692">kvraudio.com</a> | <a href="https://www.unusable.net/synthesizers/currents-and-nostalgia/">unusable.net</a></p>
+<br clear="all" />
+
+<h2>Tuned Plugins Releases Vocal Essentials Bundle V2</h2>
+<a name="story-26906"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffr.moogaudio.com%2Fcdn%2Fshop%2Ffiles%2FTuned-Plugins_Vocal-Essentials_Bundle_800x.jpg%3Fv%3D1772469913&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tuned Plugins has released Vocal Essentials Bundle V2, a collection of four updated vocal effects for macOS and Windows, available at a launch price of $9.99 as part of its "F*CK AI SLOP" campaign. The campaign serves as a pushback against rushed plugins created using artificial intelligence to replace traditional craftsmanship and thoughtful audio development.</p><p>The bundle includes VocalTune V2, Vocal Chain V2, Tuned Reverb V2, and Smooth Sibilance V2, all featuring redesigned user interfaces, updated digital signal processing, searchable preset browsers, and Smart Gain loudness matching. The plugins support VST3, AAX, and AU formats and require macOS 11 or Windows 10 or newer.</p>
+<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/">bedroomproducersblog.com</a> | <a href="https://tunedplugins.com/products/vocal-essentials-bundle-v2">tunedplugins.com</a></p>
+<br clear="all" />
+
 <h2>Nikolozi Releases Mela v8.0 for macOS and iOS</h2>
 <a name="story-26897"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmela_80_promo_image.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nikolozi has released Mela version 8.0, a major update for its modular AUv3 plug-in on macOS and iOS. The release introduces adaptive layouts for iPhones, a module selector toggle with vertically scrolling submodules, and expanded context menus for streamlined navigation and patch management.</p><p>Additional enhancements include translucent lane scrolling controls, a new "Always Discard" option for faster patch auditioning, and updated system requirements mandating iOS/iPadOS 26 or macOS 26 with Apple Silicon. Mela is available as a free download with individual module collections priced separately.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26749"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixelite.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-1jpg-1024x576.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NOMN is a Tokyo-based software studio that produces minimalist music production plugins, including a physical-modeling bubble synthesizer, a multi-layer MIDI generator, spatial processing tools, and a remote browser-based listening service. Its software features custom visual interfaces with support for formats such as VST3, AU, and MPE.</p><p>The studio's device lineup includes FOAM for modeling acoustic bubble dynamics, RESERVOIR for algorithmic MIDI composition using multiple rhythm engines, ANTIVERB for reflection-based density layering, and CHAKRABOOST for multi-band spatial panning. Priced between ¥7,777 and ¥11,111 with 14-day trials available, the plugins operate on macOS and Windows.</p>
 <p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/nomn-tokyo-studio/">bedroomproducersblog.com</a> | <a href="https://nomn.jp/en/">nomn.jp</a></p>
-<br clear="all" />
-
-<h2>Glow Shrimp Limiter Plugin Now Available Free</h2>
-<a name="story-26750"><img src="https://wsrv.nl/?url=https%3A%2F%2Fglowshrimpsoftware.com%2FgslGuiWumbo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Jesse Hufstetler’s Glow Shrimp Limiter is now available as a free download after previously being offered as commercial software. Originally developed in 2019 to reduce CPU usage and serve as a replacement for older 32-bit limiters within a REAPER workflow, the plugin features a minimalist interface with only gain and ceiling controls, alongside two switchable filters.</p><p>The Windows release includes both 32-bit and 64-bit VST2 and VST3 formats via a direct ZIP archive download without requiring an account or installer. However, users have noted compatibility and licensing hurdles with the older macOS build, and the interface omits standard visual aids like gain-reduction meters or loudness displays.</p>
-<p>Nov 7 · <a href="https://bedroomproducersblog.com/2026/11/07/glow-shrimp-limiter/">bedroomproducersblog.com</a> | <a href="https://glowshrimpsoftware.com/gsLimiter.html">glowshrimpsoftware.com</a></p>
-<br clear="all" />
-
-<h2>Metaebene Applications Launches Kugelblitz 3D Globe and Atlas App for Mac</h2>
-<a name="story-26760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapps.metaebene.me%2Fmedia%2F4f0db9eb4fb9867834827fc6c42fca1a2dbec18027c8f03efb4c587277b52111%2Fmedium.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kugelblitz is a macOS application developed by Metaebene that renders the Earth and neighboring celestial bodies as an interactive 3D globe and flat atlas using open geodata and OpenStreetMap tiles. Designed to run smoothly on Apple Silicon hardware, the software overlays aerial imagery, road maps, and topographic maps onto real terrain complete with 3D buildings.</p><p>The application includes support for external hardware controllers like the 3Dconnexion SpaceMouse, network-shared tile caching, Apple Vision Pro headset streaming, and historical data visualization for events such as solar eclipses and earthquakes. It operates entirely on freely available geodata sources without requiring user accounts or region-wide downloads.</p>
-<p>Nov 7 · <a href="https://apps.metaebene.me/en/kugelblitz">apps.metaebene.me</a> | <a href="https://news.ycombinator.com/item?id=50389370">hacker news</a></p>
 <br clear="all" />
 
 ---
