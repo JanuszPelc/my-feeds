@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>THORChain Continues Processing Stolen Crypto Despite Law Enforcement Warnings</h2>
+<p>Cryptocurrency platforms like THORChain are facilitating the laundering of billions of dollars by hackers, including massive loot from recent major exploits. Despite pleas from the FBI, THORChain has begun moving funds associated with the Binance hack, maintaining that its decentralized nature prevents it from blocking such transfers.</p><p>Investigators face mounting challenges as these services continue to process illicit transactions, with THORChain alone handling roughly $1 billion in stolen Bybit funds in 2025 while generating millions in fees. The situation highlights the ongoing friction between law enforcement agencies and automated, cross-chain protocols that lack central authorities to freeze or intercept stolen assets.</p>
+<p>Nov 9 · <a href="https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737?st=3WgKBC&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Outlook.com Begins Rejecting Emails From Domains Without DMARC Records</h2>
 <a name="story-26850"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mdaemon.com%2Fhs-fs%2Fhubfs%2FDMARC.png%3Fwidth%3D1280%26height%3D720%26name%3DDMARC.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Since early November 2026, Microsoft's consumer email services—including Outlook.com, Hotmail, Live, and MSN—have begun rejecting emails from domains that lack a published DMARC record. Unlike previous rules targeting high-volume bulk senders, this enforcement affects low-volume and individual senders, causing intermittent message bounces without public announcements from Microsoft.</p><p>Affected domains typically receive a "550 5.7.1 Message rejected" error even if SPF and DKIM are properly configured. Because Microsoft only rejects a portion of mail from non-compliant domains, the issue often goes unnoticed by senders. The problem can be resolved by publishing a basic DMARC TXT record with a policy set to none, provided that SPF or DKIM aligns with the sender's From address.</p>
@@ -87,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26756"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-9gag-fun.9cache.com%2Fphoto%2FaW4N9d2_460s.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UploadYourRam.org is a satirical website that mocks growing AI infrastructure demands by introducing a fictional service for users to upload and donate their idle computer memory. The project parodies industry commentary surrounding hardware efficiency and consumer guilt over unused resources.</p><p>The mock platform provides tiered donation options ranging from 2 GB to 16 GB, poking fun at the idea of offloading local hardware components to external needs. Developed by TheZoq2, the project's source code is publicly hosted on Codeberg.</p>
 <p>Nov 7 · <a href="https://uploadyourram.org/">uploadyourram.org</a> | <a href="https://lobste.rs/s/miazwz/uploadyourram_org">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50403214">hacker news</a></p>
-<br clear="all" />
-
-<h2>Internet-wide Scan Finds Services Listening on TCP Port 0</h2>
-<a name="story-26735"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXc4DMnG6Aoce7ehdqG2FG1sR0e6bkMMKvJ07X7VFhKHh0QgrVxxbJFdx9v9VgyZVU8YAt0XKkTg65R5rOfYI61f92YjDKOQWLD623vX2OAR0v9wmKvE1geunLbzdeX9hjc0fhsTsA%3Fkey%3DopCldyGYLT2fPepb4a7zb4uI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An internet-wide scan of IPv4 addresses for open TCP port 0 identified over one million responding hosts. While port 0 is a reserved value typically used by operating systems to assign ephemeral ports, raw-packet scanning tools can bypass kernel-level restrictions to detect active responses.</p><p>Findings included standard protocols like SSH, MySQL, and HTTP, as well as specialized industrial and building automation equipment such as Beckhoff PLCs, Gira HomeServers, and Trane Tracer Synchrony controllers. A high percentage of responding addresses were F5 BIG-IP load balancers.</p>
-<p>Nov 6 · <a href="https://acid.vegas/blog/the-port-that-does-not-exist/">acid.vegas</a> | <a href="https://lobste.rs/s/osqswf/port_does_not_exist">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50399587">hacker news</a></p>
 <br clear="all" />
 
 ---
