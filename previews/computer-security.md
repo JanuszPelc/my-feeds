@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Researchers Disclose Connected Car Vulnerabilities Enabling Remote Vehicle Control</h2>
+<a name="story-26874"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.vicone.com%2Farchives%2Fvicone%2Fimages%2FSmart-Cockpit-Attack-Flow-Figure-2NmNzMSv.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers Shubham Shah and Sam Curry discovered severe security vulnerabilities in a major automaker's connected car platform that could allow remote vehicle unlocking and account takeovers. By exploiting publicly exposed administrative tools, insecure identity management instances, and hardcoded credentials, the researchers chained together vehicle registration numbers, VINs, and user identifiers to generate valid access tokens.</p><p>The attack chain bypassed web application firewalls and multi-factor authentication mechanisms, granting unauthorized control over connected vehicles and sensitive customer data. The findings highlight significant security risks in the connected vehicle infrastructure of modern automotive manufacturers, emphasizing the dangers of exposing internal administration endpoints and sensitive API keys on the public internet.</p>
+<p>Nov 9 · <a href="https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/">shubs.io</a> | <a href="https://news.ycombinator.com/item?id=50419215">hacker news</a></p>
+<br clear="all" />
+
 <h2>THORChain Continues Processing Stolen Crypto Despite Law Enforcement Warnings</h2>
 <p>Cryptocurrency platforms like THORChain are facilitating the laundering of billions of dollars by hackers, including massive loot from recent major exploits. Despite pleas from the FBI, THORChain has begun moving funds associated with the Binance hack, maintaining that its decentralized nature prevents it from blocking such transfers.</p><p>Investigators face mounting challenges as these services continue to process illicit transactions, with THORChain alone handling roughly $1 billion in stolen Bybit funds in 2025 while generating millions in fees. The situation highlights the ongoing friction between law enforcement agencies and automated, cross-chain protocols that lack central authorities to freeze or intercept stolen assets.</p>
 <p>Nov 9 · <a href="https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737?st=3WgKBC&reflink=desktopwebshare_permalink">wsj.com</a></p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26759"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpwn.ai%2Fapi%2Fblog%2Fimages%2Ffirecracker-host-integration-dbdde36ef234.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PWN Research published a technical write-up detailing a complete escape from an AWS Firecracker microVM (version 1.16.1), demonstrating how a guest can achieve root code execution on the host. By leveraging a previously established host memory access primitive, the technique identifies the Firecracker virtual machine monitor process, maps its virtual memory under ASLR, and locates the active vCPU thread's saved register frame.</p><p>The exploit intercepts the return from the KVM ioctl by modifying the saved instruction pointer and stack frame to execute custom host commands before seamlessly resuming normal operation. This compromise preserves guest responsiveness and process stability while highlighting critical security boundaries in container and microVM virtualization setups.</p>
 <p>Nov 7 · <a href="https://pwn.ai/blog/firecracker-escape">pwn.ai</a> | <a href="https://news.ycombinator.com/item?id=50397219">hacker news</a></p>
-<br clear="all" />
-
-<h2>UploadYourRam.org Satirical Platform Offers Mock RAM Donation Service</h2>
-<a name="story-26756"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-9gag-fun.9cache.com%2Fphoto%2FaW4N9d2_460s.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>UploadYourRam.org is a satirical website that mocks growing AI infrastructure demands by introducing a fictional service for users to upload and donate their idle computer memory. The project parodies industry commentary surrounding hardware efficiency and consumer guilt over unused resources.</p><p>The mock platform provides tiered donation options ranging from 2 GB to 16 GB, poking fun at the idea of offloading local hardware components to external needs. Developed by TheZoq2, the project's source code is publicly hosted on Codeberg.</p>
-<p>Nov 7 · <a href="https://uploadyourram.org/">uploadyourram.org</a> | <a href="https://lobste.rs/s/miazwz/uploadyourram_org">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50403214">hacker news</a></p>
 <br clear="all" />
 
 ---

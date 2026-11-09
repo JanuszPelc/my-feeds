@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>U.S. AI Safety Center Staff Shift Reporting to White House Amid Leadership Vacancy</h2>
+<a name="story-26849"><img src="https://wsrv.nl/?url=https%3A%2F%2Fismg-cdn.nyc3.cdn.digitaloceanspaces.com%2Farticles%2Fus-to-set-up-new-ai-safety-institute-showcase_image-1-a-23460.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Staff members at the Center for Advancing Innovation and Standards for Super Intelligence—an independent U.S. Commerce Department division tasked with evaluating artificial intelligence safety—have been asked to informally report to a White House office. The division currently lacks a permanent director following multiple recent departures and has halted the publication of its research findings.</p><p>Critics express concern that the new arrangement could politicize safety oversight or soften findings to favor the tech industry, which largely relies on self-regulation under President Donald Trump’s administration. Meanwhile, supporters argue the shift could bring greater prominence and resources to the small federal division as rapid advancements in autonomous AI agents outpace independent government evaluation capabilities.</p>
+<p>Nov 9 · <a href="https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13">apnews.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia CEO Jensen Huang Sends Letter to Staff Regarding Relationship and Board Investigation</h2>
 <p>Nvidia CEO Jensen Huang admitted to a romantic relationship with a suspected Chinese spy in a company-wide message, apologizing to his family and pledging full cooperation with an independent board investigation.</p><p>The email addresses national security concerns and family privacy while a company representative confirmed that Huang will continue leading Nvidia without interruption as the investigation proceeds.</p>
 <p>Nov 8 · <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26674"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.csoonline.com%2Fwp-content%2Fuploads%2F2023%2F06%2Funited_states_congress_capitol_building_by_uschools_gettyimages-157339678_abstract_security_by_damien_geso_gettyimages-1154038864_2400x1600-100852689-orig.jpg%3Fresize%3D1046%2C697%26quality%3D50%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Following their midterm election gains and projected control of both chambers of Congress in January, Democrats plan to intensify oversight and legislative efforts surrounding federal cybersecurity. Key priorities include rebuilding the depleted workforce at the Cybersecurity and Infrastructure Security Agency (CISA), addressing artificial intelligence security risks, and reauthorizing expired threat-information-sharing laws and local grant programs.</p><p>Lawmakers intend to scrutinize CISA's operations, public-private partnerships, and regulatory implementation while pressing the administration on workforce cuts and agency funding. Experts anticipate that the new Democratic majority will adopt a more assertive approach to digital security hearings and investigations compared to the previous congressional posture.</p>
 <p>Nov 6 · <a href="https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/">cybersecuritydive.com</a></p>
-<br clear="all" />
-
-<h2>Democrats Prepare Congressional Investigations Into Apple, Meta, and Elon Musk-Led Companies</h2>
-<a name="story-26664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tekedia.com%2Fwp-content%2Fuploads%2Fasgarosforum%2F7368%2FScreenshot-2024-11-16-at-09.06.07.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Following their victories in capturing House and Senate majorities, congressional Democrats are laying the groundwork to launch investigations into several major American technology companies. Lawmakers are focusing their early probe targets on Apple, Meta, and businesses led by Elon Musk.</p><p>The planned oversight efforts have sparked a scramble among corporate executives who previously courted President Trump, placing high-profile technology leaders and their corporate donations under intense legislative scrutiny.</p>
-<p>Nov 6 · <a href="https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/">washingtonpost.com</a> | <a href="https://news.ycombinator.com/item?id=50397102">hacker news</a></p>
 <br clear="all" />
 
 ---
