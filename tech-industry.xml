@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-09T01:59:00+00:00</updated>
+  <updated>2026-11-09T02:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Amazon Develops New Home Robot Following Astro Struggles and Fauna Robotics Acquisition</title>
+    <link href="https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html::v240</id>
+    <published>2026-11-09T02:21:00+00:00</published>
+    <updated>2026-11-09T02:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cnn.com%2Fapi%2Fv1%2Fimages%2Fstellar%2Fprod%2F210928125815-1-amazon-astro.jpg%3Fq%3Dx_0%2Cy_0%2Ch_2268%2Cw_4030%2Cc_fill&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html">cnbc.com</a></small></p><hr/><p>Amazon is developing a new household robot through its Personal Robotics Group following the limited rollout and commercial struggles of its Astro device. The company has redeployed engineers, hired an MIT roboticist, and acquired humanoid startup Fauna Robotics to tackle the technical challenges of creating consumer robots for dynamic home environments.</p><p>While Astro was largely restricted to an invite-only release and viewed by some owners as a costly novelty, advancements in artificial intelligence, sensors, and actuators are driving renewed industry interest in personal robotics. Amazon aims to leverage these technological leaps and lessons from its vast warehouse automation network to build a functional household robot, competing alongside other tech firms exploring the emerging market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cnn.com%2Fapi%2Fv1%2Fimages%2Fstellar%2Fprod%2F210928125815-1-amazon-astro.jpg%3Fq%3Dx_0%2Cy_0%2Ch_2268%2Cw_4030%2Cc_fill&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 09:32 UTC | #26862</small>]]></content>
+  </entry>
   <entry>
     <title>Harvest Time-Tracking Software Faces Criticism Over Steep Price Increases</title>
     <link href="https://aphyr.com/posts/427-rip-harvest" rel="alternate" />

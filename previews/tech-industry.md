@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Amazon Develops New Home Robot Following Astro Struggles and Fauna Robotics Acquisition</h2>
+<a name="story-26862"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cnn.com%2Fapi%2Fv1%2Fimages%2Fstellar%2Fprod%2F210928125815-1-amazon-astro.jpg%3Fq%3Dx_0%2Cy_0%2Ch_2268%2Cw_4030%2Cc_fill&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amazon is developing a new household robot through its Personal Robotics Group following the limited rollout and commercial struggles of its Astro device. The company has redeployed engineers, hired an MIT roboticist, and acquired humanoid startup Fauna Robotics to tackle the technical challenges of creating consumer robots for dynamic home environments.</p><p>While Astro was largely restricted to an invite-only release and viewed by some owners as a costly novelty, advancements in artificial intelligence, sensors, and actuators are driving renewed industry interest in personal robotics. Amazon aims to leverage these technological leaps and lessons from its vast warehouse automation network to build a functional household robot, competing alongside other tech firms exploring the emerging market.</p>
+<p>Nov 9 · <a href="https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html">cnbc.com</a></p>
+<br clear="all" />
+
 <h2>Harvest Time-Tracking Software Faces Criticism Over Steep Price Increases</h2>
 <a name="story-26870"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.hubspot.com%2Fhs-fs%2Fhubfs%2Fharvest-invoice-software.jpg%3Fwidth%3D650%26name%3Dharvest-invoice-software.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Independent contractor and developer Kyle Kingsbury criticizes the time-tracking and invoicing service Harvest following its acquisition by Bending Spoons. Kingsbury reports that his monthly subscription cost increased from roughly $13 to over $133 after being moved to a new enterprise plan, while lower-tier options introduce extra transaction fees.</p><p>The author notes that customer support inquiries are now handled by automated large language models instead of human staff. The changes have prompted long-time users to seek alternative small-business invoicing and bookkeeping software.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26734"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fmgxz50fq%2F~production-v3%2F607ebf3fdd154beeaa1e1abcfb6b18aaad947df4-5184x3888.jpg%3Fw%3D3000%26fit%3Dmax%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Public safety technology company Axon has announced an additional $1.2 billion investment in drone manufacturer Skydio, deepening a strategic partnership following discussions of a full acquisition. The agreement values Skydio at $5.2 billion pre-money and increases Axon's fully diluted stake to roughly 37 percent while making Axon the company's exclusive public safety distributor in the United States and Canada.</p><p>The massive funding round aims to accelerate the integration of autonomous drones into first-responder workflows. By combining Axon's public safety software network with Skydio's advanced aerial robotics, the partnership intends to expand the deployment of "drone as a first responder" programs across law enforcement agencies.</p>
 <p>Nov 7 · <a href="https://resiliencemedia.co/">resiliencemedia.co</a> | <a href="https://www.prnewswire.com/news-releases/axon-invests-1-2-billion-in-skydio-to-build-the-future-of-drone-as-first-responder-302930993.html">prnewswire.com</a></p>
-<br clear="all" />
-
-<h2>Google Acquires Crusoe&#x27;s Wyoming Data Center Site</h2>
-<a name="story-26723"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.powermag.com%2Fwp-content%2Fuploads%2F2025%2F10%2Fgoogle-data-center-1024x1017.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has acquired a data center site in southeast Wyoming from the AI infrastructure firm Crusoe. The deal concludes Crusoe’s pre-development engagement, which encompassed site selection, power strategy, and obtaining governmental approvals. This follows Alphabet Inc.’s recent commitment of $17 billion toward the project.</p><p>The acquisition occurs after Crusoe reportedly failed to secure long-term customers for the site, including Google. Google will now oversee the development and operation of the data center itself.</p>
-<p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched">bloomberg.com</a> | <a href="https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update">crusoe.ai</a> | <a href="https://news.ycombinator.com/item?id=50397711">hacker news</a></p>
 <br clear="all" />
 
 ---
