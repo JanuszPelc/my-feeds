@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Dux Modular Shell 2.1 Released with Video Wallpapers and Updated System Monitor</h2>
+<a name="story-26854"><img src="https://wsrv.nl/?url=https%3A%2F%2Flinuxiac.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fdux21-interface-density.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dux Modular Shell version 2.1, codenamed Stormborn, is now available for Wayland compositors including Hyprland, Niri, and Sway. The update introduces a new system monitor, video wallpaper support, a revamped media player, interface density controls, and various enhancements to the Dux file manager.</p><p>Designed as an open-source desktop suite, Dux features dynamic application theming that automatically matches GTK, Qt, and terminal environments using a custom 16-color palette algorithm. The ecosystem also incorporates specialized modules for process monitoring, greeter management, fast file searching, and multi-provider calendar integration.</p>
+<p>Nov 8 · <a href="https://duxlabs.dev/">duxlabs.dev</a> | <a href="https://news.ycombinator.com/item?id=50416053">hacker news</a></p>
+<br clear="all" />
+
 <h2>Running NetBSD 11 Desktop on a Raspberry Pi 4</h2>
 <a name="story-26852"><img src="https://wsrv.nl/?url=https%3A%2F%2Fb2c-contenthub.com%2Fwp-content%2Fuploads%2F2023%2F11%2FRaspberry-Pi-Imager.png%3Fquality%3D50%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This article provides a step-by-step guide for installing and configuring a NetBSD 11 desktop environment on a Raspberry Pi 4. It covers preparing the arm64 image, installing the UEFI firmware, configuring Wi-Fi connectivity, and setting up binary package management via pkgin.</p><p>Additional instructions detail the installation of X11 and the NsCDE desktop environment to build a functional graphical user interface. The walkthrough offers practical tips for configuring user privileges, shell environments, and necessary applications to make the operating system usable.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26797"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiMR6WHmKku5veDN9XI3ZTSOw9dSsNTbCsuJ6LSSxejLaYPTO-V71zPoc_-fpF0QYx260DGx5RSEsx58z-xxsujTZLugdjAs_7uaG6YZMdHBxrGaxlx9Q-H-NYszKY7-pvv1bfxEtmH1C3HZSoVBlkm5kdangQQyXUyRGFX8ja04tWg6ZzwsNs_9DuJJA%2Fs3114%2Fox64.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Pine64 Ox64 is an $8 RISC-V single-board computer featuring multiple cores capable of running Linux, though early hardware versions lack working Ethernet, Wi-Fi, and SD card support. Setting up the device presents several engineering hurdles, including the lack of native USB programming and compatibility issues with standard flashing tools on Linux.</p><p>To overcome these obstacles, the author configures an Adafruit KB2040 microcontroller as a serial bridge between a PC and the Ox64's UART pins. After modifying the Python-based flash tool to remove conflicting RTS and DTR control signals, the author successfully flashes the initial M0 core firmware and establishes serial communication with the board.</p>
 <p>Nov 7 · <a href="https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html">thelittleengineerthatcould.blogspot.com</a> | <a href="https://news.ycombinator.com/item?id=50404599">hacker news</a></p>
-<br clear="all" />
-
-<h2>Michael Lynch Details MustCreate Pattern for Go Tests</h2>
-<a name="story-26789"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F104193.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Michael Lynch details the "MustCreate" pattern, a generic helper approach designed to eliminate repetitive error-checking boilerplate in Go unit tests. Rather than writing individual wrapper functions for every constructor that returns a value and an error, developers can implement a single generic helper to validate test inputs cleanly.</p><p>The pattern leverages Go generics to accept arbitrary input types and constructor functions, reducing codebase clutter. For constructors that take multiple parameters, developers can extend the concept with a corresponding `MustCreate2` helper to maintain concise and readable test assertions.</p>
-<p>Nov 7 · <a href="https://mtlynch.io/notes/go-must-create-pattern/">mtlynch.io</a> | <a href="https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests">lobsters</a></p>
 <br clear="all" />
 
 ---
