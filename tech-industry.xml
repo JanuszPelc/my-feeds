@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-08T22:53:00+00:00</updated>
+  <updated>2026-11-09T01:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Harvest Time-Tracking Software Faces Criticism Over Steep Price Increases</title>
+    <link href="https://aphyr.com/posts/427-rip-harvest" rel="alternate" />
+    <id>https://aphyr.com/posts/427-rip-harvest::v240</id>
+    <published>2026-11-09T01:59:00+00:00</published>
+    <updated>2026-11-09T01:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.hubspot.com%2Fhs-fs%2Fhubfs%2Fharvest-invoice-software.jpg%3Fwidth%3D650%26name%3Dharvest-invoice-software.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://aphyr.com/posts/427-rip-harvest">aphyr.com</a> | <a href="https://news.ycombinator.com/item?id=50420035">hacker news</a></small></p><hr/><p>Independent contractor and developer Kyle Kingsbury criticizes the time-tracking and invoicing service Harvest following its acquisition by Bending Spoons. Kingsbury reports that his monthly subscription cost increased from roughly $13 to over $133 after being moved to a new enterprise plan, while lower-tier options introduce extra transaction fees.</p><p>The author notes that customer support inquiries are now handled by automated large language models instead of human staff. The changes have prompted long-time users to seek alternative small-business invoicing and bookkeeping software.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.hubspot.com%2Fhs-fs%2Fhubfs%2Fharvest-invoice-software.jpg%3Fwidth%3D650%26name%3Dharvest-invoice-software.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 05:26 UTC | #26870</small>]]></content>
+  </entry>
   <entry>
     <title>US Professional Services Add 70,000 Jobs in October Amid AI Growth Concerns</title>
     <link href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Harvest Time-Tracking Software Faces Criticism Over Steep Price Increases</h2>
+<a name="story-26870"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.hubspot.com%2Fhs-fs%2Fhubfs%2Fharvest-invoice-software.jpg%3Fwidth%3D650%26name%3Dharvest-invoice-software.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Independent contractor and developer Kyle Kingsbury criticizes the time-tracking and invoicing service Harvest following its acquisition by Bending Spoons. Kingsbury reports that his monthly subscription cost increased from roughly $13 to over $133 after being moved to a new enterprise plan, while lower-tier options introduce extra transaction fees.</p><p>The author notes that customer support inquiries are now handled by automated large language models instead of human staff. The changes have prompted long-time users to seek alternative small-business invoicing and bookkeeping software.</p>
+<p>Nov 9 · <a href="https://aphyr.com/posts/427-rip-harvest">aphyr.com</a> | <a href="https://news.ycombinator.com/item?id=50420035">hacker news</a></p>
+<br clear="all" />
+
 <h2>US Professional Services Add 70,000 Jobs in October Amid AI Growth Concerns</h2>
 <a name="story-26848"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftax.thomsonreuters.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F17%2F2024%2F08%2FTR4398851_05G_1920x2241.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US professional services added 70,000 jobs in October, reaching the highest monthly total since July 2022. Sectors heavily exposed to artificial intelligence, including consulting, legal services, and accounting, all experienced employment growth despite ongoing concerns regarding AI-driven job displacement.</p><p>The hiring figures counter widespread anxieties that automation and generative AI would rapidly eliminate white-collar professional roles. Strong employment gains at law offices and consulting firms indicate that technology adoption is currently expanding workforce demand rather than immediately replacing human labor in these industries.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26723"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.powermag.com%2Fwp-content%2Fuploads%2F2025%2F10%2Fgoogle-data-center-1024x1017.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has acquired a data center site in southeast Wyoming from the AI infrastructure firm Crusoe. The deal concludes Crusoe’s pre-development engagement, which encompassed site selection, power strategy, and obtaining governmental approvals. This follows Alphabet Inc.’s recent commitment of $17 billion toward the project.</p><p>The acquisition occurs after Crusoe reportedly failed to secure long-term customers for the site, including Google. Google will now oversee the development and operation of the data center itself.</p>
 <p>Nov 6 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched">bloomberg.com</a> | <a href="https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update">crusoe.ai</a> | <a href="https://news.ycombinator.com/item?id=50397711">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Pursues IPO With Valuation Up to $1.75 Trillion</h2>
-<a name="story-26717"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHID5wUGWYAAiQDK.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic is moving forward with plans for an initial public offering before the Thanksgiving holiday this month. The company expects to raise $80 billion to $100 billion at a valuation between $1.25 trillion and $1.75 trillion.</p><p>This high-stakes listing is being pursued despite a recent downturn in technology stocks. The capital raise is intended to support the company's development and infrastructure investments.</p>
-<p>Nov 6 · <a href="https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452">ft.com</a></p>
 <br clear="all" />
 
 ---
