@@ -3,9 +3,35 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-10T10:51:00+00:00</updated>
+  <updated>2026-11-10T11:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>noshigeSound Releases noshige73 LITE Free 1073-Style EQ Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/::v240</id>
+    <published>2026-11-10T11:58:00+00:00</published>
+    <updated>2026-11-10T11:58:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/">bedroomproducersblog.com</a> | <a href="https://noshigesound.com/products/noshige73">noshigesound.com</a></small></p><hr/><p>noshigeSound has released noshige73 LITE, a free, 1073-style console equalizer plugin available for macOS and Windows in VST3, AU, and AAX formats. The processor includes a fixed high shelf, four low-shelf frequencies, six selectable mid frequencies, a high-pass filter, and an interactive graphical EQ display.</p><p>While sharing features with the paid PRO version, the LITE edition employs a smaller emulation model. The plugin is resource-intensive, though users can offload processing to a compatible GPU to reduce CPU load under specific buffer constraints.</p><hr/><small>10 Nov 2026, 17:06 UTC | #27018</small>]]></content>
+  </entry>
+  <entry>
+    <title>Golden DSP Releases Pyrosphere Phase Dispersion Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/10/golden-dsp-pyrosphere/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/10/golden-dsp-pyrosphere/::v240</id>
+    <published>2026-11-10T11:50:00+00:00</published>
+    <updated>2026-11-10T11:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fav3iBwcWEUhNVLJbLhaTjU-970-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/10/golden-dsp-pyrosphere/">bedroomproducersblog.com</a> | <a href="https://goldendsp.com/b/pyrosphere">goldendsp.com</a></small></p><hr/><p>Golden DSP has introduced Pyrosphere, a new phase dispersion audio plugin for macOS and Windows that merges transient shaping, compression, and saturation features. Alongside its release, the developer is hosting a giveaway for ten copies on Bedroom Producers Blog and offering an introductory discount.</p><p>Pyrosphere is designed for experimental sound design and detailed transient manipulation, allowing users to stretch attacks or reverse audio across specific frequency bands. The plugin includes five drive modes, a macro compressor control, assignable modulators, and 148 factory presets supporting VST3, AU, and AAX formats.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fav3iBwcWEUhNVLJbLhaTjU-970-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 17:05 UTC | #27019</small>]]></content>
+  </entry>
+  <entry>
+    <title>Audioblast Releases MBD4 Multiband Distortion and Compression Plugin</title>
+    <link href="https://www.kvraudio.com/news/audioblast-release-mbd4-for-macos-and-windows-vst-au-and-aax-69545?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69545" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audioblast-release-mbd4-for-macos-and-windows-vst-au-and-aax-69545?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69545::v240</id>
+    <published>2026-11-10T11:43:00+00:00</published>
+    <updated>2026-11-10T11:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmbd4-ui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/audioblast-release-mbd4-for-macos-and-windows-vst-au-and-aax-69545?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69545">kvraudio.com</a> | <a href="https://www.audioblast.me/product/mbd4-multiband-distortion-compression/">audioblast.me</a></small></p><hr/><p>Audioblast has released MBD4, a multiband distortion and compression effect plugin designed for macOS and Windows in VST, AU, and AAX formats. Aimed primarily at creative sound design rather than transparent processing, the plugin features four independent adjustable bands.</p><p>Each band includes stereo link compression and a choice of 32 distortion types that can be routed pre- or post-effect. The software also provides 128 factory presets and a resizable user interface, and is available for purchase at 59€.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmbd4-ui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 17:04 UTC | #27006</small>]]></content>
+  </entry>
   <entry>
     <title>The Midnight Discusses Studio Gear and Production on My Forever Studio Podcast</title>
     <link href="https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/" rel="alternate" />
@@ -399,14 +425,5 @@
     <updated>2026-11-05T17:16:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJBL-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/jbl-3-series-mkiii/">musictech.com</a> | <a href="https://jblpro.com/en/news/jbl-professional-introduces-3-series-mkiii-powered-studio-monitors-and-subwoofer">jblpro.com</a></small></p><hr/><p>JBL Professional has announced the launch of its 3 Series MkIII line of powered studio monitors, featuring an extensive redesign of the popular budget-friendly platform. The new lineup includes the 305P MkIII, 306P MkIII, and 308P MkIII two-way monitors with driver sizes ranging from 5 to 8 inches, along with the matching 310S MkIII powered subwoofer.</p><p>This generation marks the first time the series utilizes Class D amplification, which delivers higher output volume, increased headroom, and reduced functional noise. The monitors also feature rebuilt tweeters and woofers, updated Image Control Waveguides, integrated mounting provisions, and four one-touch room controls providing 81 corrective EQ combinations without requiring external software.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJBL-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 22:17 UTC | #26582</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ueberschall Releases Disco and LoFi Loop Bundles for Elastik Player</title>
-    <link href="https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-69642?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69642" rel="alternate" />
-    <id>https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-69642?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69642::v240</id>
-    <published>2026-11-05T17:04:00+00:00</published>
-    <updated>2026-11-05T17:04:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flofidisco-bundle-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-69642?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69642">kvraudio.com</a> | <a href="https://www.ueberschall.com/en/product/441/Disco-Bundle">ueberschall.com</a></small></p><hr/><p>Ueberschall has released two new sample library collections, the Disco Bundle and the LoFi Bundle, designed for its Elastik loop player and Downloader app. The Disco Bundle includes 9 GB of content across four products—Disco Classics, Disco Classics 2, Electric Disco, and DiscoTape—featuring over 1,900 loops and samples split across 30 construction kits.</p><p>The LoFi Bundle offers approximately 15 GB of content combining four other libraries: LoFi Beats, LoFi Lounge, Noise Floor, and Jazz Trip. It incorporates over 3,200 loops and samples across 40 construction kits blending jazz, hip-hop, downtempo, and lounge elements. Both bundles are sold at discounted rates compared to purchasing the individual libraries separately.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flofidisco-bundle-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 22:04 UTC | #26573</small>]]></content>
   </entry>
 </feed>

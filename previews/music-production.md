@@ -8,6 +8,23 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>noshigeSound Releases noshige73 LITE Free 1073-Style EQ Plugin</h2>
+<p>noshigeSound has released noshige73 LITE, a free, 1073-style console equalizer plugin available for macOS and Windows in VST3, AU, and AAX formats. The processor includes a fixed high shelf, four low-shelf frequencies, six selectable mid frequencies, a high-pass filter, and an interactive graphical EQ display.</p><p>While sharing features with the paid PRO version, the LITE edition employs a smaller emulation model. The plugin is resource-intensive, though users can offload processing to a compatible GPU to reduce CPU load under specific buffer constraints.</p>
+<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/">bedroomproducersblog.com</a> | <a href="https://noshigesound.com/products/noshige73">noshigesound.com</a></p>
+<br clear="all" />
+
+<h2>Golden DSP Releases Pyrosphere Phase Dispersion Plugin</h2>
+<a name="story-27019"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fav3iBwcWEUhNVLJbLhaTjU-970-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Golden DSP has introduced Pyrosphere, a new phase dispersion audio plugin for macOS and Windows that merges transient shaping, compression, and saturation features. Alongside its release, the developer is hosting a giveaway for ten copies on Bedroom Producers Blog and offering an introductory discount.</p><p>Pyrosphere is designed for experimental sound design and detailed transient manipulation, allowing users to stretch attacks or reverse audio across specific frequency bands. The plugin includes five drive modes, a macro compressor control, assignable modulators, and 148 factory presets supporting VST3, AU, and AAX formats.</p>
+<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/golden-dsp-pyrosphere/">bedroomproducersblog.com</a> | <a href="https://goldendsp.com/b/pyrosphere">goldendsp.com</a></p>
+<br clear="all" />
+
+<h2>Audioblast Releases MBD4 Multiband Distortion and Compression Plugin</h2>
+<a name="story-27006"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmbd4-ui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audioblast has released MBD4, a multiband distortion and compression effect plugin designed for macOS and Windows in VST, AU, and AAX formats. Aimed primarily at creative sound design rather than transparent processing, the plugin features four independent adjustable bands.</p><p>Each band includes stereo link compression and a choice of 32 distortion types that can be routed pre- or post-effect. The software also provides 128 factory presets and a resizable user interface, and is available for purchase at 59€.</p>
+<p>Nov 10 · <a href="https://www.kvraudio.com/news/audioblast-release-mbd4-for-macos-and-windows-vst-au-and-aax-69545?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69545">kvraudio.com</a> | <a href="https://www.audioblast.me/product/mbd4-multiband-distortion-compression/">audioblast.me</a></p>
+<br clear="all" />
+
 <h2>The Midnight Discusses Studio Gear and Production on My Forever Studio Podcast</h2>
 <a name="story-27000"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmfs-ep-8-midnight-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Synthwave duo The Midnight, consisting of Tyler Lyle and Tim McEwan, appears on episode 91 of the *My Forever Studio* podcast. The guests discuss their essential analogue synthesizers, microphones, and the items they would include in a permanent studio setup.</p><p>The episode explores how the duo handles remote collaboration across the United States and their balance of hardware and software production. They also highlight the specific affordable plugins used to achieve their signature retro-futuristic production style.</p>
@@ -76,24 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26928"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSennheiser-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sennheiser Mobility has unveiled Scenico and Polifonia, two software modules designed for automotive manufacturers to enhance in-car audio. Scenico uses AMBEO technology to deliver immersive sound via dashboard-integrated transducers, which may allow for the removal of door speakers to increase design flexibility and ease recycling. Polifonia employs headrest speakers and noise cancellation to create personalized audio zones for each seat.</p><p>These technologies enable acoustic separation between occupants, such as allowing a driver to hear navigation guidance without disturbing passengers listening to music. Sennheiser is currently inviting car brands to request demonstrations of these technologies.</p>
 <p>Nov 9 · <a href="https://musictech.com/news/gear/sennheiser-scenico-polifonia/">musictech.com</a> | <a href="https://newsroom.sennheiser.com/sennheiser-debuts-scenico-and-polifonia-advancing-immersive-in-car-sound-reproduction-and-personalized-audio-delivery">newsroom.sennheiser.com</a></p>
-<br clear="all" />
-
-<h2>Parallel Minds Releases Atavism Spectral Effect for iPad</h2>
-<a name="story-26925"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fatavism-ipad-kvr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Parallel Minds has released Atavism for iPad as an AUv3 spectral effect plug-in. The tool transforms audio tracks, voices, or melodies into harmonic pads that remain in the song's key during chord changes. It can be utilized on individual tracks, buses, or the master output within a host application.</p><p>Features include a primary blending knob to transition from the original track to the spectral pad, pulsation modulation, a shimmer effect for upper octaves, and dedicated low and high cut filters. The plugin is available for a one-time purchase of $4.99 / 4.99€ on the App Store and requires iPadOS 15 or later.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/parallel-minds-releases-atavism-spectral-effect-for-ipad-auv3-69707?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69707">kvraudio.com</a> | <a href="https://parallel-minds.studio/products/atavism">parallel-minds.studio</a></p>
-<br clear="all" />
-
-<h2>BPB Reader Poll Reveals Attitudes Toward AI in Music Software</h2>
-<a name="story-26924"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.imgix.net%2F2026%2F01%2Fai-tools-music-producers-actually-use-2026.png%3Fauto%3Dcompress%2Cformat%26w%3D1072&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A poll of over 2,000 Bedroom Producers Blog (BPB) readers shows a preference for AI tools designed for specific technical tasks—such as stem separation, noise removal, and code assistance—while expressing strong opposition to AI music generators. Approximately 89% of respondents support AI-related coverage, but 88% rejected tools that generate finished songs from text prompts.</p><p>The results highlight concerns regarding software quality, maintenance, and the ethical use of training data. While some producers utilize AI for specific workflow benefits or accessibility, the consensus favors tools that assist the creative process rather than replacing the musician.</p>
-<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/">bedroomproducersblog.com</a></p>
-<br clear="all" />
-
-<h2>Force56 Audio Software Releases Drumod4 Drums VST Plugin</h2>
-<a name="story-26921"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdrumod4-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Force56 Audio Software has released Drumod4 Drums VST, a sample-based virtual instrument modeled after the classic Alesis D4 digital drum module. Available for Windows and macOS in VST3, Audio Unit, and standalone formats, the plugin features all 500 original percussion sounds and 21 factory drum kits from the hardware unit.</p><p>The plugin provides 12 playable pads with independent volume, pan, and tuning controls, along with support for custom kit creation, MIDI, and DAW automation. Priced at $39, the instrument is designed to bring early-90s hardware workflows into modern digital audio workstations without requiring external sample libraries.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/force56-audio-software-releases-drumod4-drums-vst---alesis-d4-inspired-drum-module-plugin-vst3-and-au-69711?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69711">kvraudio.com</a> | <a href="https://www.force56audio.com/en/products/drumod4/?utm_source=kvraudio.com&utm_medium=referral&utm_campaign=drumod4_launch">force56audio.com</a></p>
 <br clear="all" />
 
 ---
