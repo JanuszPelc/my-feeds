@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Targets Up to $64.4 Billion in Initial Public Offering</h2>
+<a name="story-27010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p>
+<p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>SoftBank Reports $7 Billion Second-Quarter Net Loss Amid Tech Selloff</h2>
 <a name="story-26990"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8pOzIi-T4VY%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SoftBank reported a fiscal second-quarter net loss of 1.12 trillion yen ($7 billion), shifting away from a net profit of 2.5 trillion yen a year earlier due to a broader technology selloff. Despite the loss, quarterly revenue reached 2.22 trillion yen, outperforming LSEG estimates of 2.02 trillion yen, while company shares closed 13.9% higher following a tech rebound on Wall Street.</p><p>The Japanese conglomerate has increasingly focused its strategy on artificial intelligence, highlighted by a recent $30 billion follow-on investment in OpenAI that brings its total commitment to $64.6 billion. Additionally, SoftBank announced a partnership with Grab and Malaysia's PETROS to commit $1.85 billion in initial capital toward developing AI infrastructure in Malaysia.</p>
@@ -87,11 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26909"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Froblox-launches-ai-video-selfie-age-verification-trusted-connections-parental-5ceeaafa%2Fe3ca9a53f6ddd0a28b21402ea7ee9d90881cfe9ee764e65aaed9600522d629de.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta is deploying AI-powered age estimation technology to Instagram users worldwide to identify teenagers who have misreported their age. This initiative aims to automatically enroll millions of users into "Teen Account" protections, which feature private settings by default, limited content visibility, and restrictions on direct messages from strangers.</p><p>The system analyzes various signals, including interaction patterns, birthday messages, and visual cues such as bone structure and height. This expansion follows a $17.1 billion lawsuit settlement in August concerning Meta's age verification and teen safety practices.</p>
 <p>Nov 9 · <a href="https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion">theverge.com</a> | <a href="https://about.fb.com/news/2026/11/expanding-teen-account-protections-around-the-world/">about.fb.com</a></p>
-<br clear="all" />
-
-<h2>Harwood Voters Reject Measure Opposing Applied Digital Data Center</h2>
-<p>Residents in Harwood, North Dakota, have declined a ballot measure intended to block the construction of a $3 billion data center by Applied Digital. The facility is expected to become operational in 2027.</p><p>This outcome contrasts with a growing national trend of voters expressing opposition toward large-scale data center projects used to power artificial intelligence.</p>
-<p>Nov 9 · <a href="https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/">washingtonpost.com</a></p>
 <br clear="all" />
 
 ---

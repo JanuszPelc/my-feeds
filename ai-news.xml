@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-10T12:16:00+00:00</updated>
+  <updated>2026-11-10T13:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Ethan Mollick Examines Claude Fable 5.2 and Jagged AGI</title>
+    <link href="https://www.oneusefulthing.org/p/fable-52-and-jagged-agi" rel="alternate" />
+    <id>https://www.oneusefulthing.org/p/fable-52-and-jagged-agi::v240</id>
+    <published>2026-11-10T13:02:00+00:00</published>
+    <updated>2026-11-10T13:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-iyj%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F03391f04-94fc-4664-9f3e-4d144cd97ac0_1560x1136.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.oneusefulthing.org/p/fable-52-and-jagged-agi">oneusefulthing.org</a> | <a href="https://news.ycombinator.com/item?id=50431344">hacker news</a></small></p><hr/><p>Ethan Mollick tests Anthropic's Claude Fable 5.2 model to evaluate whether advanced AI has crossed the threshold into Artificial General Intelligence. He characterizes the model's capabilities as "Jagged AGI," noting that while it excels at complex, multi-step tasks such as hardware hacking, business concept design, historical curriculum recreation, and empirical research, notable deficiencies persist in taste, judgment, and autonomous execution.</p><p>Across multiple experiments, Fable 5.2 successfully coordinated multi-agent workflows and generated intricate interactive applications and 3D web environments from brief prompts. However, Mollick emphasizes that these outputs require human intervention to correct structural errors, refine tone, and verify findings, illustrating how AI accelerates creation far faster than humans can thoroughly review or consume it.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-iyj%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F03391f04-94fc-4664-9f3e-4d144cd97ac0_1560x1136.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 18:29 UTC | #27004</small>]]></content>
+  </entry>
   <entry>
     <title>Meituan Releases Open Weights for LongCat-2.5 LLM</title>
     <link href="https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license" rel="alternate" />
