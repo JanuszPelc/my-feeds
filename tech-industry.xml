@@ -3,7 +3,7 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-09T22:48:00+00:00</updated>
+  <updated>2026-11-10T04:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
   <entry>
@@ -63,9 +63,9 @@
     <link href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/" rel="alternate" />
     <id>https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/::v240</id>
     <published>2026-11-09T16:08:00+00:00</published>
-    <updated>2026-11-09T16:08:00+00:00</updated>
+    <updated>2026-11-10T04:36:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af1d38e0949f43953b8f9d7%2F191%3A100%2Fw_1280%2Cc_limit%2FJensen%2BHuang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/">wired.com</a></small></p><hr/><p>Nvidia CEO Jensen Huang retained the crisis communications firm Heller in October 2025, a year before publicly admitting to an extramarital affair with a woman identified by US intelligence as a Chinese spy. The firm, founded by Risa Heller and known for handling high-profile personal controversies, was initially believed to have been hired for family matters before its role expanded to include press inquiries for Huang.</p><p>The engagement followed an investigative report detailing Huang’s business connections to a chip buyer linked to Chinese export evasion inquiries. Following Huang's acknowledgment of the affair and the announcement of an independent board investigation, Nvidia stated that it has found no evidence that national security or confidential company information was compromised.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af1d38e0949f43953b8f9d7%2F191%3A100%2Fw_1280%2Cc_limit%2FJensen%2BHuang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:10 UTC | #26926</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50416801">hacker news</a></small></p><hr/><p>Nvidia CEO Jensen Huang retained the crisis communications firm Heller in October 2025, a year before publicly admitting to an extramarital affair with a woman identified by US intelligence as a Chinese spy. The firm, founded by Risa Heller and known for handling high-profile personal controversies, was initially believed to have been hired for family matters before its role expanded to include press inquiries for Huang.</p><p>The engagement followed an investigative report detailing Huang’s business connections to a chip buyer linked to Chinese export evasion inquiries. Following Huang's acknowledgment of the affair and the announcement of an independent board investigation, Nvidia stated that it has found no evidence that national security or confidential company information was compromised.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af1d38e0949f43953b8f9d7%2F191%3A100%2Fw_1280%2Cc_limit%2FJensen%2BHuang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 23:10 UTC | #26926</small>]]></content>
   </entry>
   <entry>
     <title>Alphabet's Wing to Build Drone Manufacturing Facility in Texas</title>
@@ -604,14 +604,5 @@
     <updated>2026-11-05T05:46:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.northamericaoutlookmag.com%2Fmedia%2FNscale-featured-2-1-jpg.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8">ft.com</a></small></p><hr/><p>The US software giant has declined to exercise an option to more than double its existing contract to rent computing power from Nscale at a Texas data center. This decision denies the UK-based startup a significant boost to its revenue and infrastructure scale.</p><p>The setback occurs as Nscale prepares for a projected $35 billion initial public offering. The contract expansion would have provided substantial additional computing capacity for AI workloads at the Texas site.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northamericaoutlookmag.com%2Fmedia%2FNscale-featured-2-1-jpg.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 14:22 UTC | #26499</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta to Stop Naming AI Models After Fruit</title>
-    <link href="https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11" rel="alternate" />
-    <id>https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11::v240</id>
-    <published>2026-11-05T04:36:00+00:00</published>
-    <updated>2026-11-05T04:36:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6ad8f722dc67b5b4d01f61c0%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11">businessinsider.com</a></small></p><hr/><p>Meta has internally decided to move away from fruit-based codenames for its artificial intelligence models to better align its branding with its high-level AI ambitions. Previous internal names included "Watermelon," "Avocado," and "Mango."</p><p>This transition mirrors an industry trend where developers are shifting from casual, grocery-themed names toward more formal identifiers, such as Anthropic's "Mythos." Other tech companies have previously used food-related names, including OpenAI's "Garlic" and Google's "Nano Banana" image generator.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6ad8f722dc67b5b4d01f61c0%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 11:48 UTC | #26495</small>]]></content>
   </entry>
 </feed>

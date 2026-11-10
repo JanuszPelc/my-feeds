@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Nvidia CEO Jensen Huang Hired Crisis PR Firm Risa Heller Last Year</h2>
 <a name="story-26926"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af1d38e0949f43953b8f9d7%2F191%3A100%2Fw_1280%2Cc_limit%2FJensen%2BHuang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia CEO Jensen Huang retained the crisis communications firm Heller in October 2025, a year before publicly admitting to an extramarital affair with a woman identified by US intelligence as a Chinese spy. The firm, founded by Risa Heller and known for handling high-profile personal controversies, was initially believed to have been hired for family matters before its role expanded to include press inquiries for Huang.</p><p>The engagement followed an investigative report detailing Huang’s business connections to a chip buyer linked to Chinese export evasion inquiries. Following Huang's acknowledgment of the affair and the announcement of an independent board investigation, Nvidia stated that it has found no evidence that national security or confidential company information was compromised.</p>
-<p>Nov 9 · <a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/">wired.com</a></p>
+<p>Nov 9 · <a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50416801">hacker news</a></p>
 <br clear="all" />
 
 <h2>Alphabet&#x27;s Wing to Build Drone Manufacturing Facility in Texas</h2>
