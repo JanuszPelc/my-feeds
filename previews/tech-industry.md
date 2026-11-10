@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>IBM Ends Immigration Sponsorship for Most Roles in IBM Consulting</h2>
+<a name="story-27049"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.firstpost.com%2Fuploads%2F2026%2F07%2FIBM-NEW-2026-07-53b29fda659c60e762b083dfa30e4a0b.jpg%3Fim%3DResize%2Cwidth%3D720%2Caspect%3Dfit%2Ctype%3Dnormal&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>IBM is ending H-1B and green card sponsorships for most roles within its largest division, IBM Consulting.</p><p>Affected employees may continue working for the company in roles outside the United States or choose to leave the organization.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/ibm-to-end-immigration-sponsorship-for-roles-in-biggest-unit">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Goldman Sachs Forecasts Anthropic Revenue to Exceed $600 Billion by 2030</h2>
 <a name="story-27050"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftii.imgix.net%2Farticle%2Fpictures%2Fnewsletters-production%2F570d4d27-bc9c-4083-bf21-d7f384db47df-9ckkkr.png%3Fauto%3Dcompress&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Goldman Sachs expects the AI startup Anthropic to generate approximately $52 billion in revenue by 2026, with projections rising to over $600 billion by 2030. The bank also anticipates the company will achieve operating profit in 2029 and reach positive free cash flow by 2030.</p><p>The forecasts suggest a rapid expansion of the company's revenue and scale within the artificial intelligence sector. These projections indicate that the firm would achieve operating profitability and positive cash flow by the end of the decade.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26948"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.roic.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1280%2Cformat%3Dwebp%2Cquality%3D75%2Fhttps%3A%2F%2Fimg.roic.ai%2Fnews%2Fuber-eyes-acquisition-of-parking-app-spothero-to-expand-mobility-ecosystem-12-31-2025.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Drivers can now find, reserve, and pay for parking in garages and lots through a new Uber in-app feature. Following the company's acquisition of SpotHero, the service integrates over 13,000 facilities across 400 cities, initially rolling out in 15 markets including New York City and Chicago. The feature supports filtering for self-park or valet options and facilitates entry via QR codes or automatic license plate scanning.</p><p>The service supports Uber’s long-term autonomous vehicle strategy, with plans to use these facilities as holding areas for robotaxis to reduce urban traffic and emissions. Uber One subscribers can earn 10 percent back in account credits on parking reservations. This expansion reflects a strategic push to control urban mobility infrastructure to serve both personal commuters and future autonomous fleets.</p>
 <p>Nov 9 · <a href="https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFFQ1lZV0Qzb3giLCJwIjoiL3RyYW5zcG9ydGF0aW9uLzEwMjk3NzYvdWJlci1wYXJraW5nLWxhdW5jaC1zcG90aGVyby1yb2JvdGF4aXMiLCJleHAiOjE3OTQ2NzYzNTQsImlhdCI6MTc5NDI0NDM1NH0.JUsFbrRZz5ePB1fjQjTRmwfyAeJmvNtx7EBTJCcsBFA&utm_medium=gift-link">theverge.com</a></p>
-<br clear="all" />
-
-<h2>Matteo Raso Challenges the Notion of an AI Industry Bubble</h2>
-<a name="story-26969"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdyd911kmh%2Fimage%2Fupload%2Fv1676548360%2FOpen_AI_Products_618960c677.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Matteo Raso argues that the AI industry is not in a speculative bubble, contending that massive capital expenditures for data centers are one-off infrastructure investments rather than unsustainable operating costs. He cites rapid revenue growth in companies like Anthropic as evidence that the industry is transitioning from heavy investment to high profitability.</p><p>The analysis highlights that major players such as Alphabet, Meta, and NVIDIA maintain stable price-to-earnings ratios, suggesting valuations are supported by actual earnings rather than pure speculation. While acknowledging risks like high debt and regulatory hurdles, the author posits that widespread adoption and massive unmet demand will likely sustain the industry's growth.</p>
-<p>Nov 9 · <a href="https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists">matteoraso.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418975">hacker news</a></p>
 <br clear="all" />
 
 ---

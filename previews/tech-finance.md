@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Mercor Raises $750 Million in Series D Funding at $20 Billion Valuation</h2>
+<p>The AI training startup Mercor raised $750 million in a Series D funding round, valuing the company at $20 billion. This is an increase from its $10 billion valuation in October 2025.</p><p>Investors in the round include Benchmark, General Catalyst, and Nvidia.</p>
+<p>Nov 10 · <a href="https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Bay Secures $50 Million to Protect AI Agents</h2>
 <a name="story-27036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQH5Bilewqz9dQ%2Farticle-cover_image-shrink_720_1280%2FB4DZXbZ1N3HIAI-%2F0%2F1743142758126%3Fe%3D2147483647%26v%3Dbeta%26t%3Dc2liLWp1zbr0HpTTL6hWr6-guIOCTqqRy6v8VBNfwus&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The agentic cybersecurity startup Bay has emerged from stealth following a $50 million funding round. The company provides security, control, and accountability for enterprise AI agents.</p><p>CEO Yuval Zacharia confirmed the news, noting the increasing need for reliable security as AI agents proliferate across corporate environments.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26633"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2019%2F10%2FLyft-active-riders-trend.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lyft reported third-quarter revenue of $1.82 billion, an 8% year-over-year increase that fell short of analyst estimates of $1.92 billion. The company also reported a net loss of $0.03 per share, missing the anticipated profit of $0.20 per share.</p><p>The results were impacted by changes and settlements related to legal, tax, and regulatory reserves. Following the report, Lyft shares fell more than 8% in after-hours trading, even as the company achieved record levels of rides and gross bookings.</p>
 <p>Nov 6 · <a href="https://www.wsj.com/business/earnings/lyfts-bookings-rise-on-strength-in-partnerships-new-products-d8953f77">wsj.com</a> | <a href="https://investor.lyft.com/news-events-presentations/press-releases/detail/210/lyft-reports-strong-q3-2026-results">investor.lyft.com</a></p>
-<br clear="all" />
-
-<h2>Cyera Planning $800 Million Funding Round at $20 Billion Valuation</h2>
-<a name="story-26629"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F22xmfoma%2Fproduction%2F4842081e50ed1f3853ca75dd4886c58782f36918-1920x1080.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cybersecurity startup Cyera is seeking a $20 billion valuation in a planned $800 million funding round led by Cyberstarts. This proposed valuation is a significant increase from the $12 billion valuation recorded in June.</p><p>The funding follows a $600 million Series G and a $400 million extension from Goldman Sachs earlier this year. The scale of the raise suggests sustained investor appetite for the cybersecurity sector.</p>
-<p>Nov 6 · <a href="https://www.theinformation.com/articles/cyeras-800-million-haul-shows-cyber-fever-broken">theinformation.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-10T16:05:00+00:00</updated>
+  <updated>2026-11-10T17:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Mercor Raises $750 Million in Series D Funding at $20 Billion Valuation</title>
+    <link href="https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/" rel="alternate" />
+    <id>https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/::v240</id>
+    <published>2026-11-10T17:54:00+00:00</published>
+    <updated>2026-11-10T17:54:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/">reuters.com</a></small></p><hr/><p>The AI training startup Mercor raised $750 million in a Series D funding round, valuing the company at $20 billion. This is an increase from its $10 billion valuation in October 2025.</p><p>Investors in the round include Benchmark, General Catalyst, and Nvidia.</p><hr/><small>10 Nov 2026, 23:31 UTC | #27048</small>]]></content>
+  </entry>
   <entry>
     <title>Bay Secures $50 Million to Protect AI Agents</title>
     <link href="https://www.axios.com/pro/enterprise-software-deals/2026/11/10/agentic-security-bay-battery" rel="alternate" />
@@ -139,14 +147,5 @@
     <updated>2026-11-06T00:21:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F22xmfoma%2Fproduction%2F4842081e50ed1f3853ca75dd4886c58782f36918-1920x1080.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/cyeras-800-million-haul-shows-cyber-fever-broken">theinformation.com</a></small></p><hr/><p>Cybersecurity startup Cyera is seeking a $20 billion valuation in a planned $800 million funding round led by Cyberstarts. This proposed valuation is a significant increase from the $12 billion valuation recorded in June.</p><p>The funding follows a $600 million Series G and a $400 million extension from Goldman Sachs earlier this year. The scale of the raise suggests sustained investor appetite for the cybersecurity sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F22xmfoma%2Fproduction%2F4842081e50ed1f3853ca75dd4886c58782f36918-1920x1080.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 07:33 UTC | #26629</small>]]></content>
-  </entry>
-  <entry>
-    <title>New York Times Company in Advanced Talks to Acquire Letterboxd</title>
-    <link href="https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&amp;smid=url-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&amp;smid=url-share::v240</id>
-    <published>2026-11-05T23:31:00+00:00</published>
-    <updated>2026-11-05T23:31:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&smid=url-share">nytimes.com</a></small></p><hr/><p>The New York Times Company is in exclusive negotiations to acquire Letterboxd, a social network for film enthusiasts, for approximately $330 million. The proposed deal would likely see Letterboxd continue operating as a standalone site with its co-founders remaining in leadership positions.</p><p>The acquisition is part of the Times Company’s strategy to expand its portfolio of subscription and advertising-based digital products, following acquisitions like The Athletic and Wordle. By integrating Letterboxd’s 30 million users, the company aims to reach its goal of 15 million total subscribers by the end of 2027.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 06:41 UTC | #26627</small>]]></content>
   </entry>
 </feed>
