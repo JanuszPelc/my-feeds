@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-10T05:46:00+00:00</updated>
+  <updated>2026-11-10T08:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>BPB Reader Poll Reveals Attitudes Toward AI in Music Software</title>
+    <link href="https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/::v240</id>
+    <published>2026-11-10T08:22:00+00:00</published>
+    <updated>2026-11-10T08:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.imgix.net%2F2026%2F01%2Fai-tools-music-producers-actually-use-2026.png%3Fauto%3Dcompress%2Cformat%26w%3D1072&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/">bedroomproducersblog.com</a></small></p><hr/><p>A poll of over 2,000 Bedroom Producers Blog (BPB) readers shows a preference for AI tools designed for specific technical tasks—such as stem separation, noise removal, and code assistance—while expressing strong opposition to AI music generators. Approximately 89% of respondents support AI-related coverage, but 88% rejected tools that generate finished songs from text prompts.</p><p>The results highlight concerns regarding software quality, maintenance, and the ethical use of training data. While some producers utilize AI for specific workflow benefits or accessibility, the consensus favors tools that assist the creative process rather than replacing the musician.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.imgix.net%2F2026%2F01%2Fai-tools-music-producers-actually-use-2026.png%3Fauto%3Dcompress%2Cformat%26w%3D1072&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 19:36 UTC | #26924 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Cary Institute Study Links Acorns and Mouse Populations to Lyme Disease Risk</title>
     <link href="https://www.sciencedaily.com/releases/2026/11/261106174518.htm" rel="alternate" />

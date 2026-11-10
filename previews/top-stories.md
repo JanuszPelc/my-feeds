@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/music-production.png" width="28" align="texttop" /> &nbsp;BPB Reader Poll Reveals Attitudes Toward AI in Music Software</h2>
+<a name="story-26924"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.imgix.net%2F2026%2F01%2Fai-tools-music-producers-actually-use-2026.png%3Fauto%3Dcompress%2Cformat%26w%3D1072&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A poll of over 2,000 Bedroom Producers Blog (BPB) readers shows a preference for AI tools designed for specific technical tasks—such as stem separation, noise removal, and code assistance—while expressing strong opposition to AI music generators. Approximately 89% of respondents support AI-related coverage, but 88% rejected tools that generate finished songs from text prompts.</p><p>The results highlight concerns regarding software quality, maintenance, and the ethical use of training data. While some producers utilize AI for specific workflow benefits or accessibility, the consensus favors tools that assist the creative process rather than replacing the musician.</p>
+<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
 <h2><img src="../images/human-knowledge.png" width="28" align="texttop" /> &nbsp;Cary Institute Study Links Acorns and Mouse Populations to Lyme Disease Risk</h2>
 <a name="story-26902"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.globallymealliance.org%2Fhubfs%2FImported_Blog_Media%2Fnews_acorns_lyme_ostfeld.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A 35-year ecological study conducted by researchers at the Cary Institute of Ecosystem Studies, published in the Proceedings of the National Academy of Sciences, reveals that white-footed mouse populations and oak tree acorn production are significantly stronger predictors of nymphal tick abundance than white-tailed deer populations. The long-term data show that heavy acorn crops provide abundant food for forest rodents, enabling mouse populations to surge and subsequently drive up nymphal tick numbers two years later.</p><p>Despite the clear link between mice and overall tick abundance, high mouse populations do not consistently predict a higher proportion of infected ticks, as other lesser-transmitting host species dilute the pathogen's prevalence within the ecosystem. Furthermore, the findings indicate that blacklegged ticks survive temperature extremes more effectively than previously assumed by sheltering in soil and leaf litter, complicating traditional assumptions about how weather and deer impact Lyme disease exposure.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Nvidia CEO Jensen Huang Sends Letter to Staff Regarding Relationship and Board Investigation</h2>
 <p>Nvidia CEO Jensen Huang admitted to a romantic relationship with a suspected Chinese spy in a company-wide message, apologizing to his family and pledging full cooperation with an independent board investigation.</p><p>The email addresses national security concerns and family privacy while a company representative confirmed that Huang will continue leading Nvidia without interruption as the investigation proceeds.</p>
 <p>Nov 9 · <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;NVIDIA Board of Directors Initiates Independent Investigation Involving CEO Jensen Huang</h2>
-<a name="story-26845"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagecodex.com%2Fv1%2Fcoinpaper%2Fmedia%2F89d109cd-caa2-4844-a77e-6d19af37e389.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The NVIDIA Board of Directors is initiating an independent investigation following recent reports that co-founder and CEO Jensen Huang was the target of a foreign intelligence effort. A committee of independent directors, assisted by outside counsel, will oversee the inquiry to examine all available information regarding the matter.</p><p>While the board states it has no reason to believe that national security or NVIDIA secrets were compromised, it emphasizes that U.S. national and economic security remains a top priority. Jensen Huang fully supports the review and is cooperating with the board as the investigation proceeds.</p>
-<p>Nov 9 · <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">nvidianews.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50416801">hacker news</a></p>
 <br clear="all" />
 
 ---
