@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>China&#x27;s Trade Surplus Reaches $1.04 Trillion in First 10 Months of 2026</h2>
+<a name="story-26997"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fchina-mapa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>China's trade surplus reached $1.04 trillion during the first ten months of 2026, marking the second consecutive year the figure has exceeded $1 trillion. The surplus was driven by a surge in exports related to the global competition to build artificial intelligence infrastructure.</p><p>These AI-driven technology exports helped offset weakness in domestic demand within China. The increase in tech-related sales has played a critical role in sustaining the country's trade balance despite internal economic challenges.</p>
+<p>Nov 10 · <a href="https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Moonshot Rents Nvidia B300 AI Chips in China, Filings Show</h2>
 <p>Moonshot AI signed an agreement in August to rent 32 China-based Super Micro servers equipped with Nvidia's advanced B300 processors, according to regulatory filings in Beijing.</p><p>The transaction could potentially breach US export restrictions governing the deployment of high-performance semiconductor technology in China, highlighting ongoing challenges in enforcing cross-border hardware controls.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show">bloomberg.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26857"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJBJFWFF3NZM27EXOSPW7ESWQFY.jpg%3Fauth%3D6cb18c6d60c128697e80cd33ae40633543787f03203a16fdd49caf1744c4c117%26width%3D1080%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump defended Nvidia Chief Executive Officer Jensen Huang, describing him as a fine person and asserting that he should remain in his role following reports regarding an affair with a foreign intelligence operative. Trump stated that he had not heard of any wrongdoing by Huang, coming shortly after Nvidia announced an independent investigation into the matter.</p><p>The semiconductor giant launched the probe after concerns arose that Huang had been the target of a foreign intelligence effort. The investigation and subsequent political defense highlight the intense scrutiny surrounding leadership at major artificial intelligence hardware firms amid heightened geopolitical sensitivities over technology supply chains.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-08/trump-defends-nvidia-s-huang-after-he-admits-affair-with-spy">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>U.S. AI Safety Center Staff Shift Reporting to White House Amid Leadership Vacancy</h2>
-<a name="story-26849"><img src="https://wsrv.nl/?url=https%3A%2F%2Fismg-cdn.nyc3.cdn.digitaloceanspaces.com%2Farticles%2Fus-to-set-up-new-ai-safety-institute-showcase_image-1-a-23460.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Staff members at the Center for Advancing Innovation and Standards for Super Intelligence—an independent U.S. Commerce Department division tasked with evaluating artificial intelligence safety—have been asked to informally report to a White House office. The division currently lacks a permanent director following multiple recent departures and has halted the publication of its research findings.</p><p>Critics express concern that the new arrangement could politicize safety oversight or soften findings to favor the tech industry, which largely relies on self-regulation under President Donald Trump’s administration. Meanwhile, supporters argue the shift could bring greater prominence and resources to the small federal division as rapid advancements in autonomous AI agents outpace independent government evaluation capabilities.</p>
-<p>Nov 9 · <a href="https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13">apnews.com</a> | <a href="https://news.ycombinator.com/item?id=50419747">hacker news</a></p>
 <br clear="all" />
 
 ---
