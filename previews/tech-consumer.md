@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Take-Two Q2 Net Bookings Fall 18% as NBA 2K27 Sales Miss Due to GTA VI</h2>
+<a name="story-26971"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgameworldobserver.com%2Fwp-content%2Fuploads%2F2024%2F11%2Ftake-two-q2-revenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Take-Two Interactive reported an 18% year-over-year decrease in Q2 total net bookings to $1.6 billion, falling short of the $1.65 billion expected by analysts. The publisher noted that sales for NBA 2K27 missed forecasts, a decline it attributed in part to the anticipation surrounding Grand Theft Auto VI.</p><p>While facing the quarterly miss, Take-Two reiterated its financial outlook for fiscal year 2027. The results highlight the internal competition between high-profile franchises, as the massive scale of the Grand Theft Auto series can impact the sales performance of other major releases.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI1OTA1NywiZXhwIjoxNzk0ODYzODU3LCJhcnRpY2xlSWQiOiJUTzk3MUlSS1YyVFgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.7qxMeG6waZ1GVSttF6yc1ynA0S0JipX_HyL5oimnEiU">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Bit Reactor Lays Off Unspecified Number of Staff</h2>
 <a name="story-26947"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt3701c4dcdeecdcab%2F6af1ee7a91f097778ae4f4ad%2Fstarwarszerocompanysteam.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bit Reactor, the developer of Star Wars Zero Company, has laid off an unspecified number of employees. This follows a previous furlough in August and a partial rehire of staff in October.</p><p>Alinea Analytics estimated Star Wars Zero Company sold approximately one million copies by late September, though official sales data is unavailable since Electronic Arts was taken private. The studio recently released a 1.2 update, but has provided little information regarding the game's ongoing development.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26583"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FXBOX-PC-App-1.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft is redesigning its Xbox PC, web, and cloud applications to deliver a faster, simpler interface designed to feel more like a console dashboard. Xbox Insiders can test the updated PC app starting today, while the revised web experience and cloud gaming apps for supported TVs and VR headsets will roll out over the coming weeks.</p><p>According to Microsoft, the overhauled PC app launches up to 60 percent faster, with major improvements to page loading times, library organization, and controller usability. The updated interfaces also incorporate refined social features, custom dark and light modes, and high-contrast options to improve accessibility across devices.</p>
 <p>Nov 5 · <a href="https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign">theverge.com</a> | <a href="https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/">news.xbox.com</a></p>
-<br clear="all" />
-
-<h2>Salon Ceases Publication After 31 Years</h2>
-<a name="story-26619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.template.net%2F370269%2FSalon-Closure-Notice-Template-edit-online-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Online news and culture magazine Salon has announced that it is ceasing publication after 31 years, citing the unsustainable business realities of independent digital journalism. Launched in November 1995, the site was an early pioneer of internet publishing, known for its distinct voice combining politics, criticism, and cultural commentary.</p><p>The closure marks the end of an influential era for digital media, during which Salon helped shape online journalism and provided a platform for unconventional perspectives. Management expressed gratitude to the founders, journalists, staff, and readers who contributed to the publication's legacy over three decades.</p>
-<p>Nov 5 · <a href="https://www.salon.com/2026/11/05/goodbye-from-salon/">salon.com</a> | <a href="https://news.ycombinator.com/item?id=50383739">hacker news</a></p>
 <br clear="all" />
 
 ---
