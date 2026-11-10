@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Otter.ai Expands Multilingual Transcription to Over 30 Languages</title>
+    <link href="https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/::v240</id>
+    <published>2026-11-10T07:01:00+00:00</published>
+    <updated>2026-11-10T07:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/">techcrunch.com</a> | <a href="https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities">otter.ai</a></small></p><hr/><p>Otter.ai has announced an expansion of its AI-powered note-taking platform to support 31 languages, introducing a new multilingual transcription feature capable of tracking conversations as speakers switch languages in real time. The update aims to remove communication barriers for international teams by automatically detecting language changes without requiring manual user adjustments.</p><p>The company is rolling out support for 27 new languages, with 13 currently available—including Mandarin Chinese, Korean, German, and Portuguese—and 14 more scheduled for release soon. These models were built using Otter's own speech technology, trained on public datasets and verified with the help of native-speaking volunteers.</p><hr/><small>10 Nov 2026, 12:29 UTC | #26989</small>]]></content>
+  </entry>
+  <entry>
     <title>Google Gemini Routes Personal Drive Files and Emails to Human Reviewers</title>
     <link href="https://github.com/thisisme6598/gemini_files/" rel="alternate" />
     <id>https://github.com/thisisme6598/gemini_files/::v240</id>
