@@ -8,6 +8,17 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Plans to Move Forward with IPO</h2>
+<a name="story-26973"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260415%2Fanthropic-openai-ipo-valuation-800-billion-3-fa8f7f698a2541bdb92d63ec62135f27.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic intends to set a valuation range this week and begin trading as early as next week to move forward with its initial public offering. The decision comes despite recent market volatility and scrutiny surrounding prominent figures in the AI industry.</p><p>Investors are viewing the company's valuation as a gauge for the AI market's health, with targets reportedly between $1.5 trillion and $2 trillion. This follows a recent $1.25 trillion valuation for competitor OpenAI.</p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/">techcrunch.com</a> | <a href="https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c">wsj.com</a></p>
+<br clear="all" />
+
+<h2>Payments Canada Launches Canada’s Real-Time Rail</h2>
+<p>Payments Canada announced the launch of Canada’s Real-Time Rail, a national payment system designed to clear and settle payments securely in real time, 24 hours a day, every day of the year. The infrastructure will support financial institutions, credit unions and payment service providers through existing banking and payment channels.</p><p>The system uses ISO 20022 data-rich messaging and includes centralized fraud safeguards such as payee confirmation, fraud scoring and risk reporting. Its rollout will expand in phases, with additional participants expected to join in the coming months and availability projected to reach more than nine in 10 Canadians within the first year.</p>
+<p>Nov 9 · <a href="https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy">payments.ca</a> | <a href="https://news.ycombinator.com/item?id=50427362">hacker news</a></p>
+<br clear="all" />
+
 <h2>SpaceX Plans $24 Billion Data Center and Gas-Fired Power Plant in Texas</h2>
 <a name="story-26962"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fcdn%2Fs3%2Fuploads%2Fgetty_images%2F2298777271%2Fimage_2298777271.jpg%3Fio%3Dgetty-c-w630&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The company intends to construct, own, and operate a gas-fired power plant and a supercomputing facility at its Starbase, Texas, site. According to a public hearing notice, the initial phases of the project will involve approximately $24 billion in investment.</p><p>The facility is designed to support company operations within its Starbase headquarters. This expansion represents a major move into large-scale energy and high-performance computing infrastructure.</p>
@@ -81,18 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26881"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgetstello.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FChatGPT-Image-Apr-29-2026-01_24_08-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Financial Times columnist Pilita Clark examines how the adoption of artificial intelligence agents to replace human employees is complicating traditional corporate compensation structures. Because managerial grades and pay have historically depended on the size of a human headcount, organizations face a new dilemma when managers oversee automated software tools instead of traditional teams.</p><p>The emerging issue highlights broader challenges as businesses integrate automation into human resources and leadership metrics. Traditional benchmarks for evaluating managerial influence and compensation may require significant restructuring to account for productivity driven by digital agents rather than large groups of direct reports.</p>
 <p>Nov 9 · <a href="https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682">ft.com</a></p>
-<br clear="all" />
-
-<h2>Ada Support Agrees to Merge with Dialpad in $600-Million Deal</h2>
-<a name="story-26882"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theglobeandmail.com%2Fresizer%2Fv2%2FRNI5MNSO4NF4ZE3TCMIABAVS3M.jpg%3Fauth%3D29e6a2b5956d0a7c56296e562b3ef85388b4489f00bcc23b8ca0b9e6af1166f2%26width%3D600%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Toronto-based artificial intelligence customer service firm Ada Support Inc. has agreed to combine with U.S. software company Dialpad Inc. in an all-share transaction valuing the Canadian enterprise at approximately $600-million. The deal follows a series of workforce reductions and cost-cutting measures at Ada as the company navigated a depressed valuation environment and shifting market dynamics for legacy software providers.</p><p>Founded in 2016, Ada previously achieved unicorn status with a US$1.2-billion valuation during the pandemic-era technology boom before transitioning its technology stack to large language models and voice agents. Dialpad, a San Francisco Bay Area contact-centre software provider backed by prominent investors including Andreessen Horowitz and Google Ventures, launched its own agentic AI platform last October, bringing larger scale and enterprise telephony capabilities to the combined entity.</p>
-<p>Nov 9 · <a href="https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger/">theglobeandmail.com</a></p>
-<br clear="all" />
-
-<h2>ByteDance Weighs Expansion of Ceara Data Center Project in Brazil</h2>
-<a name="story-26873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnanthavictor.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fimage-20.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>TikTok parent company ByteDance is considering an expansion of its data center project in Ceara, Brazil, by adding a second phase larger than its ongoing $10 billion, 300-megawatt development. According to sources familiar with the matter, the potential new phase aims to further scale up the company's digital infrastructure capacity in northeastern Brazil.</p><p>The ongoing initial project represents a major foreign infrastructure investment in the region, utilizing local renewable energy sources. A second phase exceeding the current scale highlights ByteDance's growing long-term commitment to expanding its operational footprint in Latin America.</p>
-<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
