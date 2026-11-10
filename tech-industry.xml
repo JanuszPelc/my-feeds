@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-09T20:10:00+00:00</updated>
+  <updated>2026-11-09T22:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>SpaceX Plans $24 Billion Data Center and Gas-Fired Power Plant in Texas</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-09/spacex-plans-24-billion-data-center-and-gas-plant-in-texas" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-09/spacex-plans-24-billion-data-center-and-gas-plant-in-texas::v240</id>
+    <published>2026-11-09T22:48:00+00:00</published>
+    <updated>2026-11-09T22:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fcdn%2Fs3%2Fuploads%2Fgetty_images%2F2298777271%2Fimage_2298777271.jpg%3Fio%3Dgetty-c-w630&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-09/spacex-plans-24-billion-data-center-and-gas-plant-in-texas">bloomberg.com</a></small></p><hr/><p>The company intends to construct, own, and operate a gas-fired power plant and a supercomputing facility at its Starbase, Texas, site. According to a public hearing notice, the initial phases of the project will involve approximately $24 billion in investment.</p><p>The facility is designed to support company operations within its Starbase headquarters. This expansion represents a major move into large-scale energy and high-performance computing infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fcdn%2Fs3%2Fuploads%2Fgetty_images%2F2298777271%2Fimage_2298777271.jpg%3Fio%3Dgetty-c-w630&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 04:05 UTC | #26962</small>]]></content>
+  </entry>
   <entry>
     <title>Jensen Huang Withdraws From ElevenLabs Summit Amid Nvidia Investigation</title>
     <link href="https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/" rel="alternate" />
