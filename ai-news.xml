@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Meituan Releases Open Weights for LongCat-2.5 LLM</title>
+    <link href="https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license" rel="alternate" />
+    <id>https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license::v240</id>
+    <published>2026-11-10T09:06:00+00:00</published>
+    <updated>2026-11-10T09:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F07%2Ffeatured-image-104-800x400.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license">venturebeat.com</a> | <a href="https://longcat.ai/blog/longcat-2.5/">longcat.ai</a> | <a href="https://news.ycombinator.com/item?id=50337716">hacker news</a></small></p><hr/><p>Meituan has released the open weights for LongCat-2.5, a 1.6-trillion-parameter mixture-of-experts large language model built for long-horizon agentic tasks and native vision understanding. The model weights were made available under a permissive MIT license following the initial unveiling on November 1.</p><p>LongCat-2.5 processes visual and textual inputs in a unified token-based format by translating visual signals into multi-level discrete tokens. This architecture delivers advanced performance in visual coding, creative design, and 3D tasks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F07%2Ffeatured-image-104-800x400.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 16:02 UTC | #26994</small>]]></content>
+  </entry>
+  <entry>
     <title>Otter.ai Expands Multilingual Transcription to Over 30 Languages</title>
     <link href="https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/" rel="alternate" />
     <id>https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/::v240</id>

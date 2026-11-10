@@ -8,6 +8,17 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>The Midnight Discusses Studio Gear and Production on My Forever Studio Podcast</h2>
+<a name="story-27000"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmfs-ep-8-midnight-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Synthwave duo The Midnight, consisting of Tyler Lyle and Tim McEwan, appears on episode 91 of the *My Forever Studio* podcast. The guests discuss their essential analogue synthesizers, microphones, and the items they would include in a permanent studio setup.</p><p>The episode explores how the duo handles remote collaboration across the United States and their balance of hardware and software production. They also highlight the specific affordable plugins used to achieve their signature retro-futuristic production style.</p>
+<p>Nov 10 · <a href="https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/">musictech.com</a></p>
+<br clear="all" />
+
+<h2>DJW Audio Releases Free DW-303 Bass Synthesizer Plugin</h2>
+<p>DJW Audio has released DW-303, a free, open-source TB-303-style bass synthesizer and step sequencer available for macOS, Windows, and Linux. The instrument models the original hardware's oscillator, filter, envelopes, accent, and slide circuits based on schematic analysis and hardware measurements.</p><p>The plugin features a 16-step hardware-style sequencer supporting pattern chaining, MIDI clock synchronization, and a standalone application mode that accepts MIDI input. It is distributed in VST3, CLAP, AU, AAX, and LV2 formats across supported platforms, requiring no license key or activation.</p>
+<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/">bedroomproducersblog.com</a> | <a href="https://djwaudio.co/#dw-303">djwaudio.co</a></p>
+<br clear="all" />
+
 <h2>Audiofile Engineering Releases SoundEdit and Updates Fidelia to v2.13 and v2.1</h2>
 <a name="story-26995"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsoundedit-1-1-slices.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audiofile Engineering has released SoundEdit, a new audio editor and sample manager for macOS, alongside major updates to its Fidelia music player for macOS, iOS, and iPadOS. SoundEdit features folder-based library management with automatic audio measurement, zero-crossing recording, hardware integration with Teenage Engineering devices, batch processing, and an optional Model Context Protocol server for AI agent editing.</p><p>Fidelia version 2.13 for macOS introduces watched folders, high-resolution playback metrics columns, and an AI-compatible MCP server, while version 2.1 for iOS and iPadOS adds the Bridge feature for remote library streaming over home networks or VPNs, with CarPlay support. Both applications are available as free downloads with 14-day trials, with full licenses and network playback features offered as paid additions.</p>
@@ -83,18 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26921"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdrumod4-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Force56 Audio Software has released Drumod4 Drums VST, a sample-based virtual instrument modeled after the classic Alesis D4 digital drum module. Available for Windows and macOS in VST3, Audio Unit, and standalone formats, the plugin features all 500 original percussion sounds and 21 factory drum kits from the hardware unit.</p><p>The plugin provides 12 playable pads with independent volume, pan, and tuning controls, along with support for custom kit creation, MIDI, and DAW automation. Priced at $39, the instrument is designed to bring early-90s hardware workflows into modern digital audio workstations without requiring external sample libraries.</p>
 <p>Nov 9 · <a href="https://www.kvraudio.com/news/force56-audio-software-releases-drumod4-drums-vst---alesis-d4-inspired-drum-module-plugin-vst3-and-au-69711?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69711">kvraudio.com</a> | <a href="https://www.force56audio.com/en/products/drumod4/?utm_source=kvraudio.com&utm_medium=referral&utm_campaign=drumod4_launch">force56audio.com</a></p>
-<br clear="all" />
-
-<h2>Pulsar Modular Releases Q Bit Free Bitcrusher Plugin</h2>
-<a name="story-26918"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMZRijk3Mj0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Pulsar Modular has released Q Bit, a free bitcrusher plugin for macOS, Windows, Linux, and iOS that combines digital distortion with a rhythmic Time Hold effect. Alongside standard linear bit depth and sample rate reduction down to 2 bits and 2 kHz, the plugin features specialized emulation modes including SP-1200, M.93, and ZX Spectrum 128.</p><p>The Hold function allows users to freeze audio snippets for rhythmic pulsing or slapback effects, with options to sync timing to host tempo or run in free mode. Desktop versions require a free license key and periodic online activation, while the iOS version operates as a standalone app or AUv3 plugin without activation.</p>
-<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/pulsar-modular-qbit/">bedroomproducersblog.com</a> | <a href="https://www.pulsarmodular.com/product/q-bit/">pulsarmodular.com</a></p>
-<br clear="all" />
-
-<h2>Unusable Engineering Releases Currents and Nostalgia Synthesizer Plugin</h2>
-<a name="story-26907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcurrents-and-head2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Unusable Engineering has released Currents &amp; Nostalgia, a six-voice virtual analogue synthesizer plugin for macOS and Windows. The instrument is built around two circuit-modelled oscillators derived from an original saw-core hardware design by company founder Rasmus Nyåker, paired with a saturating waveform mixer and low-pass and high-pass filters.</p><p>The software features a subtractive architecture enhanced by two independent eight-slot systems for the oscillator and filter parameters, allowing users to sequence parameter states at audio rates without separate modulation programming. Available in AU and VST3 formats, the plugin includes 350 factory presets and is priced at €89.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/unusable-engineering-releases-currents-and-nostalgia-synthesizer-plugin-au-and-vst3-69692?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69692">kvraudio.com</a> | <a href="https://www.unusable.net/synthesizers/currents-and-nostalgia/">unusable.net</a></p>
 <br clear="all" />
 
 ---

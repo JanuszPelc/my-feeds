@@ -3,9 +3,26 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-10T09:04:00+00:00</updated>
+  <updated>2026-11-10T10:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>The Midnight Discusses Studio Gear and Production on My Forever Studio Podcast</title>
+    <link href="https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/" rel="alternate" />
+    <id>https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/::v240</id>
+    <published>2026-11-10T10:51:00+00:00</published>
+    <updated>2026-11-10T10:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmfs-ep-8-midnight-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/">musictech.com</a></small></p><hr/><p>Synthwave duo The Midnight, consisting of Tyler Lyle and Tim McEwan, appears on episode 91 of the *My Forever Studio* podcast. The guests discuss their essential analogue synthesizers, microphones, and the items they would include in a permanent studio setup.</p><p>The episode explores how the duo handles remote collaboration across the United States and their balance of hardware and software production. They also highlight the specific affordable plugins used to achieve their signature retro-futuristic production style.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmfs-ep-8-midnight-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 16:04 UTC | #27000</small>]]></content>
+  </entry>
+  <entry>
+    <title>DJW Audio Releases Free DW-303 Bass Synthesizer Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/::v240</id>
+    <published>2026-11-10T10:50:00+00:00</published>
+    <updated>2026-11-10T10:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/">bedroomproducersblog.com</a> | <a href="https://djwaudio.co/#dw-303">djwaudio.co</a></small></p><hr/><p>DJW Audio has released DW-303, a free, open-source TB-303-style bass synthesizer and step sequencer available for macOS, Windows, and Linux. The instrument models the original hardware's oscillator, filter, envelopes, accent, and slide circuits based on schematic analysis and hardware measurements.</p><p>The plugin features a 16-step hardware-style sequencer supporting pattern chaining, MIDI clock synchronization, and a standalone application mode that accepts MIDI input. It is distributed in VST3, CLAP, AU, AAX, and LV2 formats across supported platforms, requiring no license key or activation.</p><hr/><small>10 Nov 2026, 16:03 UTC | #27005</small>]]></content>
+  </entry>
   <entry>
     <title>Audiofile Engineering Releases SoundEdit and Updates Fidelia to v2.13 and v2.1</title>
     <link href="https://www.kvraudio.com/news/audiofile-engineering-releases-soundedit-and-updates-fidelia-to-v2-13-for-macos-and-v2-1-for-ios-69683?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69683" rel="alternate" />
@@ -400,23 +417,5 @@
     <updated>2026-11-05T16:23:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2F8Dio-Launches-Free-Plucked-Grand-Piano-Library-for-Kontakt-770x403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/05/musical-arts-school-live-grand-light/">bedroomproducersblog.com</a> | <a href="https://www.musical-arts-school.com/piano-vst-plugins/live-grand-modern-d.htm">musical-arts-school.com</a></small></p><hr/><p>Musical Arts School has released Live Grand Light, a free Steinway Model D virtual piano library for Kontakt 8 Player. The instrument was sampled at River Studios in Cologne using a custom-built robot to improve sampling consistency and accuracy. The free version includes the Una Corda preset and a ten-minute trial of all presets available in the paid Live Grand Modern D version.</p><p>The 15 GB library features 20 velocity layers, 55 dB of dynamic range, and AI-assisted sample optimization for resonance adjustments and error correction. While the current release focuses on the player's perspective with a single microphone position, additional microphone positions are planned for a future release.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2F8Dio-Launches-Free-Plucked-Grand-Piano-Library-for-Kontakt-770x403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 21:44 UTC | #26591</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tracktion Waveform 14.1 Introduces AI Plugin Generation and Mix Analysis</title>
-    <link href="https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/::v240</id>
-    <published>2026-11-05T16:14:00+00:00</published>
-    <updated>2026-11-05T16:14:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmixdownmag.com.au%2Fwp-content%2Fuploads%2F2026%2F06%2FScreen-Shot-2026-06-29-at-2.36.07-pm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/">bedroomproducersblog.com</a> | <a href="https://www.tracktion.com/products/waveform-pro-whats-new">tracktion.com</a></small></p><hr/><p>Tracktion has released version 14.1 of its Waveform digital audio workstation, which includes updates for both the Free and Pro editions. The update introduces AI-driven features such as plugin generation and mix analysis, alongside a completely rebuilt export and rendering window designed for improved reliability and performance.</p><p>Users of Waveform Free now receive the Attracktive instrument player for free, while the Pro version gains advanced capabilities like AI-assisted mix analysis for loudness and spectral balance. The update also expands AI assistant flexibility by allowing local model integration via LM Studio or Ollama and provides improved interface customization through new light and dark themes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmixdownmag.com.au%2Fwp-content%2Fuploads%2F2026%2F06%2FScreen-Shot-2026-06-29-at-2.36.07-pm.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 21:24 UTC | #26592</small>]]></content>
-  </entry>
-  <entry>
-    <title>Puremagnetik Releases Studies Plugin Library with Free Instruments and Effects</title>
-    <link href="https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/::v240</id>
-    <published>2026-11-05T16:06:00+00:00</published>
-    <updated>2026-11-05T16:06:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2019%2F02%2FVerv_Screenshot2_2048x2048-993x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/">bedroomproducersblog.com</a> | <a href="https://puremagnetik.com/products/studies-free">puremagnetik.com</a></small></p><hr/><p>Puremagnetik has launched Studies, a modular plugin library containing three instruments and seven effects available completely free of charge. The system divides devices across two primary plugins, with Studies Instruments handling MIDI tracks and Studies Effects processing audio signals.</p><p>The free tier provides fully unlocked access to ten experimental devices, including the tape loop synth Verv, the noise generator Expanse, and the FM soundscape synth Darklands, alongside seven audio processors. An optional subscription expands the library to sixty total devices, and the base software supports VST2, VST3, and AU formats on macOS and Windows.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2019%2F02%2FVerv_Screenshot2_2048x2048-993x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 21:23 UTC | #26593</small>]]></content>
   </entry>
 </feed>
