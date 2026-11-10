@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Amazon Replaces Claude Sonnet 4.6 with Strands Decider for Internal Ticket Labeling</h2>
+<a name="story-27085"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eesel.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fwmeojibgfvjvinftolho.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic_assets%2Fblog-gen%2F8a5ea7e3-c792-48e9-a2ab-b082aa5bb039%26w%3D1680%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amazon and AWS engineers replaced Claude Sonnet 4.6 with the Strands Decider E4B decision model to label tickets within an internal system. This transition reduced token costs by approximately 98% and decreased average call latency from 4,215 ms to 897 ms. The model maps various ticket types, such as customer escalations and security findings, into a fixed set of 20 categories.</p><p>The efficiency gains result from the decision model returning a single choice rather than a full JSON object and utilizing significantly shorter prompts. The implementation utilizes AWS services such as SageMaker, SQS, and Lambda, and was validated through a three-way deployment process that ran both models in parallel to compare accuracy before fully transitioning.</p>
+<p>Nov 10 · <a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">strandsagents.com</a> | <a href="https://news.ycombinator.com/item?id=50436640">hacker news</a></p>
+<br clear="all" />
+
 <h2>Fireworks Reports Cyberattack Affecting Customer Data and AI Model Weights</h2>
 <a name="story-26968"><img src="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fjpg%2F12%2F56%2F20%2F26%2F1000_F_1256202604_8njs6FaKJy8fSmzNdYO3kEzLyTKWqGTD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hackers accessed customer datasets, billing information, and incomplete model weights at AI infrastructure provider Fireworks during a cyberattack over the past month.</p><p>Two customers have already begun transitioning their business operations away from the company's systems in response to the security breach.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26807"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2Fee%2F88%2Fee889f88-37ef-43e5-9180-f9b88ee6261d%2Fcontent%2Fimages%2F2026%2F11%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researcher Scott Helme has identified 15,579 unique websites currently infected with malicious JavaScript threats, including Magecart credit card skimmers, ClickFix malware, and device exploits. These compromised domains collectively generate an estimated 135 million visits every month, exposing innocent users to significant security risks while the site owners remain largely unaware.</p><p>Responsible disclosure has proved exceptionally difficult due to the sheer scale of infections, unhelpful post-GDPR WHOIS data, and websites hidden behind CDN providers. Helme notes that publicly releasing the list risks devastating blocklisting or exposing vulnerable targets to further attacks, leaving mass email campaigns impractical and prompting a call for industry suggestions or CERT intervention.</p>
 <p>Nov 8 · <a href="https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/">scotthelme.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50396064">hacker news</a></p>
-<br clear="all" />
-
-<h2>Coldframe Honeypot Simulates Supermarket Refrigeration Controllers</h2>
-<a name="story-26799"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.staticscd.com%2Fuploads%2F176975%2Fcart%2Fresources%2F20251104%2F4940D7BF-E3DF-1616-BF41-010760F69B87.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Coldframe is a single-file Python honeypot designed to mimic internet-facing supermarket refrigeration supervisors, such as the Danfoss AK-SM 800A and Copeland/Dixell XWEB EVO. It simulates realistic web interfaces, login behaviors, and specific vulnerabilities to capture connection data, credential attempts, and public exploit payloads.</p><p>Operating with minimal dependencies, the tool includes configurable personas that replicate server headers, certificate attributes, and optional Modbus TCP services. It logs interactions to a JSON lines file and provides a summary script for analysis while keeping operations isolated and safe from executing malicious inputs.</p>
-<p>Nov 7 · <a href="https://github.com/hedgerow-dev/coldframe">github.com</a> | <a href="https://news.ycombinator.com/item?id=50406292">hacker news</a></p>
 <br clear="all" />
 
 ---

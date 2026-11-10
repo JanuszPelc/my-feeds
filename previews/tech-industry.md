@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Path Robotics Raises $300M in Series E Funding at $2.45B Valuation</h2>
+<a name="story-27037"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaiinsider.tech%2Fwp-content%2Fuploads%2F2026%2F11%2FPath-Robotics-Co-founders-CEO-Andy-Lonsberry-Left-and-CTO-Alex-Lonsberry-Right-crp-1-1536x887.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Path Robotics has secured $300 million in a Series E funding round, bringing its total funding to approximately $610 million. The investment values the startup at $2.45 billion.</p><p>The company develops software for autonomous manufacturing robots. This funding round quadruples the company's valuation.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Alibaba&#x27;s T-Head Chip Design Unit Files for Hong Kong Listing</h2>
 <a name="story-27025"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2Fx56bJiehmykJjDwtgpPMulNiER9Jd2icD1kDVfQnyZ0%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzM4Y2JiNTM3LWE3ODgtNGYzMi05MWZjLWY2YTg1ZmZlYjFmYl8xNzk0MjEzMTIyX2RlZmF1bHQuanBn.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The semiconductor design subsidiary T-Head filed for a Hong Kong listing on September 11 after receiving regulatory clearance. The unit will remain a subsidiary of Alibaba Group Holding Ltd.</p><p>This filing advances a proposed spin-off of the company's chip design operations.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26926"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af1d38e0949f43953b8f9d7%2F191%3A100%2Fw_1280%2Cc_limit%2FJensen%2BHuang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia CEO Jensen Huang retained the crisis communications firm Heller in October 2025, a year before publicly admitting to an extramarital affair with a woman identified by US intelligence as a Chinese spy. The firm, founded by Risa Heller and known for handling high-profile personal controversies, was initially believed to have been hired for family matters before its role expanded to include press inquiries for Huang.</p><p>The engagement followed an investigative report detailing Huang’s business connections to a chip buyer linked to Chinese export evasion inquiries. Following Huang's acknowledgment of the affair and the announcement of an independent board investigation, Nvidia stated that it has found no evidence that national security or confidential company information was compromised.</p>
 <p>Nov 9 · <a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50416801">hacker news</a></p>
-<br clear="all" />
-
-<h2>Alphabet&#x27;s Wing to Build Drone Manufacturing Facility in Texas</h2>
-<a name="story-26908"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-07812110%3Fwidth%3D700%26height%3D468&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet's Wing plans to invest up to $125 million over the next two years to build a 15,000-square-foot facility in Fort Worth, Texas. The site will be used to produce tens of thousands of delivery drones.</p><p>The investment aims to scale production capacity to support the expansion of the company's drone delivery services.</p>
-<p>Nov 9 · <a href="https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?st=mg2s23&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---
