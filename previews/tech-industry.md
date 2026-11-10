@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Jensen Huang Withdraws From ElevenLabs Summit Amid Nvidia Investigation</h2>
+<a name="story-26958"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.mathrubhumi.com%2Fview%2FacePublic%2Falias%2Fcontentid%2F1p74sr95ut0liothbnz%2F0%2Fjensen-huang-jpg.webp%3Ff%3D3%3A2%26q%3D0.75%26w%3D900&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia CEO Jensen Huang has withdrawn from the ElevenLabs Summit in New York and the Anthropic CEO Forum. The decision follows his admission of an extramarital affair and an ongoing Nvidia investigation into his relationship with a suspected Chinese spy.</p><p>The controversy has raised questions regarding Huang's continued leadership and Nvidia's strategic interests in China. ElevenLabs, an Nvidia-backed company, confirmed the cancellation on Monday, and Huang has issued a public apology.</p>
+<p>Nov 9 · <a href="https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Uber Launches Uber Parking</h2>
 <a name="story-26948"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.roic.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1280%2Cformat%3Dwebp%2Cquality%3D75%2Fhttps%3A%2F%2Fimg.roic.ai%2Fnews%2Fuber-eyes-acquisition-of-parking-app-spothero-to-expand-mobility-ecosystem-12-31-2025.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Drivers can now find, reserve, and pay for parking in garages and lots through a new Uber in-app feature. Following the company's acquisition of SpotHero, the service integrates over 13,000 facilities across 400 cities, initially rolling out in 15 markets including New York City and Chicago. The feature supports filtering for self-park or valet options and facilitates entry via QR codes or automatic license plate scanning.</p><p>The service supports Uber’s long-term autonomous vehicle strategy, with plans to use these facilities as holding areas for robotaxis to reduce urban traffic and emissions. Uber One subscribers can earn 10 percent back in account credits on parking reservations. This expansion reflects a strategic push to control urban mobility infrastructure to serve both personal commuters and future autonomous fleets.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26862"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cnn.com%2Fapi%2Fv1%2Fimages%2Fstellar%2Fprod%2F210928125815-1-amazon-astro.jpg%3Fq%3Dx_0%2Cy_0%2Ch_2268%2Cw_4030%2Cc_fill&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is developing a new household robot through its Personal Robotics Group following the limited rollout and commercial struggles of its Astro device. The company has redeployed engineers, hired an MIT roboticist, and acquired humanoid startup Fauna Robotics to tackle the technical challenges of creating consumer robots for dynamic home environments.</p><p>While Astro was largely restricted to an invite-only release and viewed by some owners as a costly novelty, advancements in artificial intelligence, sensors, and actuators are driving renewed industry interest in personal robotics. Amazon aims to leverage these technological leaps and lessons from its vast warehouse automation network to build a functional household robot, competing alongside other tech firms exploring the emerging market.</p>
 <p>Nov 9 · <a href="https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html">cnbc.com</a></p>
-<br clear="all" />
-
-<h2>Harvest Time-Tracking Software Faces Criticism Over Steep Price Increases</h2>
-<a name="story-26870"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.hubspot.com%2Fhs-fs%2Fhubfs%2Fharvest-invoice-software.jpg%3Fwidth%3D650%26name%3Dharvest-invoice-software.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Independent contractor and developer Kyle Kingsbury criticizes the time-tracking and invoicing service Harvest following its acquisition by Bending Spoons. Kingsbury reports that his monthly subscription cost increased from roughly $13 to over $133 after being moved to a new enterprise plan, while lower-tier options introduce extra transaction fees.</p><p>The author notes that customer support inquiries are now handled by automated large language models instead of human staff. The changes have prompted long-time users to seek alternative small-business invoicing and bookkeeping software.</p>
-<p>Nov 9 · <a href="https://aphyr.com/posts/427-rip-harvest">aphyr.com</a> | <a href="https://news.ycombinator.com/item?id=50420035">hacker news</a></p>
 <br clear="all" />
 
 ---
