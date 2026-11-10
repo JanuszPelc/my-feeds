@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Google Unveils TPU 8tx and TPU 8i Max AI Chips</h2>
+<a name="story-26915"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F4_v1_nUZDsJM.max-1800x1800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google is introducing two new specialized AI chips: the TPU 8tx, designed to be paired with AMD CPUs, and the TPU 8i Max, a dual-chip package optimized for long-context window tasks.</p><p>The TPU 8i Max is scheduled for launch in 2027. This expansion of the TPU lineup is part of Google's effort to bolster its AI hardware capabilities and increase competition with Nvidia.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50432831">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Anthropic Targets Up to $64.4 Billion in Initial Public Offering</h2>
 <a name="story-27010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-cdn.inc.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fvip%2F2025%2F06%2Finc-united-x-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>United Airlines is introducing a native Spotify app for seatback displays, enabling passengers to log into personal accounts to stream music, playlists, and video podcasts. The service is powered by Starlink’s satellite Wi-Fi, which is currently being rolled out across the airline's entire fleet.</p><p>This integration utilizes Starlink’s low Earth orbit satellite network to provide the high-speed, low-latency connectivity required for live streaming. The move shifts in-flight entertainment away from traditional models that rely on pre-stored, localized content toward a personalized, internet-connected experience.</p>
 <p>Nov 9 · <a href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi">theverge.com</a> | <a href="https://newsroom.spotify.com/2026-11-05/united-airlines-partnership-update/">newsroom.spotify.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;US Professional Services Add 70,000 Jobs in October Amid AI Growth Concerns</h2>
-<a name="story-26848"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftax.thomsonreuters.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F17%2F2024%2F08%2FTR4398851_05G_1920x2241.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>US professional services added 70,000 jobs in October, reaching the highest monthly total since July 2022. Sectors heavily exposed to artificial intelligence, including consulting, legal services, and accounting, all experienced employment growth despite ongoing concerns regarding AI-driven job displacement.</p><p>The hiring figures counter widespread anxieties that automation and generative AI would rapidly eliminate white-collar professional roles. Strong employment gains at law offices and consulting firms indicate that technology adoption is currently expanding workforce demand rather than immediately replacing human labor in these industries.</p>
-<p>Nov 9 · <a href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4">wsj.com</a></p>
 <br clear="all" />
 
 ---
