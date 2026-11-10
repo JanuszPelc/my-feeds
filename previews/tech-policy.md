@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>US DOJ Sues Lyft Alleging Disability Discrimination</h2>
+<a name="story-26980"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thethinkingconservative.com%2Fwp-content%2Fuploads%2F2024%2F04%2FDOJ-1080x720-1-1068x712.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The US Department of Justice has filed a lawsuit against Lyft, alleging the company discriminated against passengers with disabilities. The complaint claims Lyft denied rides to individuals using wheelchairs or those accompanied by service dogs.</p><p>The DOJ is seeking $53 million in compensation through the legal action. Lyft has disputed the allegations.</p>
+<p>Nov 10 · <a href="https://www.reuters.com/world/us-sues-lyft-alleges-it-denied-rides-passengers-with-service-dogs-wheelchairs-2026-11-10/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Trump Says FBI Is Investigating Nvidia CEO Jensen Huang Over Affair With Alleged Chinese Agent</h2>
 <a name="story-26966"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJBJFWFF3NZM27EXOSPW7ESWQFY.jpg%3Fauth%3D6cb18c6d60c128697e80cd33ae40633543787f03203a16fdd49caf1744c4c117%26width%3D1200%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump announced Monday that the FBI is investigating Nvidia CEO Jensen Huang regarding an affair with an alleged Chinese government agent. Huang has acknowledged the relationship in an open letter, pledging to cooperate with investigators and protect national security.</p><p>The incident has triggered an independent investigation by Nvidia to determine if the CEO was the target of a foreign intelligence effort. Congressional leaders are also seeking a briefing to evaluate the security of advanced artificial intelligence technology and the potential for compromised intelligence.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26801"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2Fceea2f7497e2a688a44ca48de010e085cd12e270f43e1699800bf7fa0a0a4af0%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F0b5a6a18d077507082df0024fe86eb6b&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The cryptocurrency industry is facing potential regulatory and congressional scrutiny following Democratic victories in the US midterm elections. Democratic lawmakers have vowed to launch investigations into the Trump family and its financial ties to the digital asset sector.</p><p>The prospective inquiries highlight growing political friction surrounding the intersection of political leadership and the expanding cryptocurrency market. Industry stakeholders are bracing for increased oversight and potential legislative headwinds as lawmakers target conflicts of interest and policy influence.</p>
 <p>Nov 8 · <a href="https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50411093">hacker news</a></p>
-<br clear="all" />
-
-<h2>Federal Court Approves RealPage Antitrust Settlements Totaling Nearly $360 Million for Renters</h2>
-<a name="story-26820"><img src="https://wsrv.nl/?url=https%3A%2F%2Fevanstonroundtable.com%2Fwp-content%2Fuploads%2F2025%2F04%2FYieldStar-1024x481.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A federal court has approved class-action settlements totaling nearly $360 million in the antitrust litigation against RealPage Inc. and dozens of major apartment owners and operators over algorithmic rent-setting. The settlements resolve claims that the companies colluded to inflate rent prices beyond free-market levels using RealPage software, though the defendants admitted no fault or liability.</p><p>Under the terms of the agreement, settling defendants must stop providing nonpublic data to RealPage and cease using competitor data in pricing recommendations. While the federal litigation concludes for participating defendants, state attorneys general from several jurisdictions unsuccessfully opposed the settlements, arguing they could interfere with ongoing state-level antitrust lawsuits.</p>
-<p>Nov 8 · <a href="https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/">multifamilydive.com</a> | <a href="https://www.documentcloud.org/documents/28862184-us-dis-tnmd-3-23md3071-d47429662e75265-notice-of-filing-by-mdl-3071-plaintiffs-re-1552-in/">documentcloud.org</a> | <a href="https://news.ycombinator.com/item?id=50399991">hacker news</a></p>
 <br clear="all" />
 
 ---
