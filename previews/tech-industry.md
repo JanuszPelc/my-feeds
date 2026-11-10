@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Aims to Raise Up to $69.3 Billion in IPO Filing Details</h2>
+<a name="story-26976"><img src="https://wsrv.nl/?url=https%3A%2F%2Fboringdude.in%2Fwp-content%2Fuploads%2F2026%2F06%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence company Anthropic briefly distributed and then retracted details regarding its upcoming initial public offering to bankers, revealing plans to raise up to $69.3 billion. The figures outline the scale of the anticipated stock market debut for the generative AI developer amid high market interest.</p><p>The leaked information provides a rare look into the financial targets behind one of the largest potential public listings in the technology sector. Anthropic's valuation and fundraising goals have drawn intense scrutiny from investors tracking the commercial trajectory of foundational AI model providers.</p>
+<p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></p>
+<br clear="all" />
+
 <h2>Paul Cochrane Defends &quot;Buy Me a Coffee&quot; Links on Personal Blogs</h2>
 <a name="story-26992"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpeateasea.de%2Fassets%2Fimages%2Fchefpresso-cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Paul Cochrane argues that "buy me a coffee" links on personal blogs serve as important tools for recognition and feedback rather than primary revenue streams. He addresses concerns about the increasing monetization of the internet by framing these links as a form of social validation.</p><p>Using a street busker as an analogy, Cochrane explains that such links allow readers to express appreciation without being obligated to pay. He notes that for many small creators, the psychological benefit of knowing their work is valued often outweighs the financial contribution itself.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26894"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1JEmWs.img%3Fw%3D1920%26h%3D1280%26m%3D4%26q%3D81&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An internal European Union assessment reveals that a covert Russian network known as "Operation Overload" opportunistically exploited riots in France by using social media to spread fabricated videos impersonating Western media outlets. The campaign sought to blame the unrest on uncontrolled immigration and portray the French government as having lost control of public order.</p><p>Active since September 2023, the operation has targeted Western public figures, institutions, and media outlets to discredit support for Ukraine and promote pro-Russian narratives. French authorities and watchdogs have previously tracked similar coordinated disinformation efforts designed to amplify social division and political unrest during sensitive public events.</p>
 <p>Nov 9 · <a href="https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50424396">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nvidia Senior Director Madison Huang Cancels Seoul Appearance</h2>
-<a name="story-26892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbionewsly.com%2Fwp-content%2Fuploads%2F2025%2F09%2Ffa3cd730-d178-42ca-a1f4-b9d5de6eca88.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia Senior Director Madison Huang has canceled a high-profile appearance in Seoul due to a family matter, disrupting plans to highlight the company's partnerships with key South Korean artificial intelligence firms. Huang, the daughter of Nvidia co-founder Jensen Huang, had been scheduled to participate in events showcasing deepening technological ties in the region.</p><p>The cancellation impacts scheduled engagements meant to reinforce collaborative efforts between the chipmaker and major local technology stakeholders. Nvidia's expanding footprint in South Korea's AI sector remains a focal point for industry observers following the abrupt change in schedule.</p>
-<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
