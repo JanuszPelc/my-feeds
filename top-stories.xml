@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-10T02:54:00+00:00</updated>
+  <updated>2026-11-10T05:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Cary Institute Study Links Acorns and Mouse Populations to Lyme Disease Risk</title>
+    <link href="https://www.sciencedaily.com/releases/2026/11/261106174518.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/11/261106174518.htm::v240</id>
+    <published>2026-11-10T05:46:00+00:00</published>
+    <updated>2026-11-10T05:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.globallymealliance.org%2Fhubfs%2FImported_Blog_Media%2Fnews_acorns_lyme_ostfeld.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261106174518.htm">sciencedaily.com</a></small></p><hr/><p>A 35-year ecological study conducted by researchers at the Cary Institute of Ecosystem Studies, published in the Proceedings of the National Academy of Sciences, reveals that white-footed mouse populations and oak tree acorn production are significantly stronger predictors of nymphal tick abundance than white-tailed deer populations. The long-term data show that heavy acorn crops provide abundant food for forest rodents, enabling mouse populations to surge and subsequently drive up nymphal tick numbers two years later.</p><p>Despite the clear link between mice and overall tick abundance, high mouse populations do not consistently predict a higher proportion of infected ticks, as other lesser-transmitting host species dilute the pathogen's prevalence within the ecosystem. Furthermore, the findings indicate that blacklegged ticks survive temperature extremes more effectively than previously assumed by sheltering in soil and leaf litter, complicating traditional assumptions about how weather and deer impact Lyme disease exposure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.globallymealliance.org%2Fhubfs%2FImported_Blog_Media%2Fnews_acorns_lyme_ostfeld.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 16:02 UTC | #26902 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Neumann Details Development and Design of KH 310 II and KH 350 Studio Monitors</title>
     <link href="https://musictech.com/features/interviews/neumann-kh-series/" rel="alternate" />
