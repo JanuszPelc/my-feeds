@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Alan R. Pearlman Foundation Releases Starpath Vol. 1 for KORG ARP2600</h2>
+<a name="story-27066"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fstarpath-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Starpath Vol. 1 is a collection of 200 patches for the KORG ARP2600, created by Scott McAuley Sounds and James Dyson. The sound bank features basses, leads, pads, keys, arpeggios, sequences, and strings designed for electronic dance music, film scoring, and other production environments.</p><p>Most patches support polyphonic aftertouch and utilize the instrument's 16-voice polyphony. The $39.99 release supports the Foundation's archiving efforts and its ARPs for All program, which provides musicians with access to vintage ARP synthesizers.</p>
+<p>Nov 10 · <a href="https://www.kvraudio.com/news/arp-foundation-releases-starpath-vol-1-for-korg-arp2600-69746?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69746">kvraudio.com</a> | <a href="https://alanrpearlmanfoundation.org/product/starpath-vol-1/">alanrpearlmanfoundation.org</a></p>
+<br clear="all" />
+
 <h2>Toontrack Releases Neon Void EKX for EZkeys 2</h2>
 <a name="story-27056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt761_neonvoidekx_top-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Neon Void EKX is a sound expansion for EZkeys 2 that focuses on darkwave, industrial metal, and cinematic sound design. The library includes 67 playable presets—covering keys, pads, textures, leads, and basses—alongside various cinematic effects like subs, impacts, hits, and risers.</p><p>The sound library was created using classic hardware, modular synthesis, and foley recordings processed through granular effects and distortion. To complement the presets, the expansion also includes a library of MIDI patterns and specifically developed song arrangements. The software is available for $89.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27007"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcinescapespro-ios-f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rast Sound has released Cinescapes Pro for iPhone and iPad, adapting its cinematic soundscape instrument for touch interfaces with dedicated layouts for each device. The app features 34 scenes, 160 main-layer sounds, sound shuffling, and movement controls, alongside WAV recording, MIDI export, and an AUv3 instrument extension.</p><p>The application is free to download with three scenes and corresponding sounds included. Users can unlock the full version through a one-time in-app purchase priced at $29.99 or €29.99, with no subscription required.</p>
 <p>Nov 10 · <a href="https://www.kvraudio.com/news/rast-sound-releases-cinescapes-pro-for-ios-and-ipados-69719?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69719">kvraudio.com</a> | <a href="https://rastsound.com/apps/cinescapes/">rastsound.com</a></p>
-<br clear="all" />
-
-<h2>Maono Releases PD500W Hybrid Microphone</h2>
-<a name="story-26946"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F06%2FMaono-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Maono has launched the PD500W hybrid microphone for content creators following a successful crowdfunding campaign. The device features 2.4GHz wireless, USB-C, and XLR connectivity, alongside 32GB of onboard storage that supports 24-bit or 32-bit float audio recording.</p><p>Designed for podcasting, streaming, and video production, the microphone integrates with MaonoLink software to provide AI-powered transcription and summarization. It is available via the Maono website and Amazon US in a $399 Basic Version or a $429 Desk Stand Bundle.</p>
-<p>Nov 9 · <a href="https://musictech.com/news/gear/maono-pd500w-available-now/">musictech.com</a> | <a href="https://www.maono.com/products/maono-pd500w-hybrid-microphone-for-podcast">maono.com</a></p>
 <br clear="all" />
 
 ---

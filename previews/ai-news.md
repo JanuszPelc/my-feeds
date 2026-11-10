@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Autark Enables Autonomous Collaboration Among AI Agents</h2>
+<a name="story-27065"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2F23aumh6u8s0i%2F4LrNhImjPcdPVpmCIrhlG9%2F4efed8dfb26630e6cf48b4a478a1f550%2Fgenai-tool-calling-intro.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Autark is an open-source tool created by Austrian developer Stanislaus Hees that enables AI agents to operate as an autonomous virtual team. The system employs a manager agent to delegate tasks from an inbox to specialized agents, which can be triggered by schedules, timers, or specific events rather than requiring constant manual prompts. The tool is model-agnostic and supports OpenAI Codex, Claude Code, Gemini CLI, and various local models.</p><p>Because Autark operates without sandboxing or permission gates, agents run with the user's machine privileges and can perform actions like file manipulation or accessing SSH keys. Since the tool does not enforce technical security boundaries, users are responsible for establishing their own guardrails to prevent agents from accessing sensitive data or incurring unexpected costs. The software is available on GitHub under an Apache license and supports self-hosting.</p>
+<p>Nov 10 · <a href="https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841">theregister.com</a> | <a href="https://openautark.com/">openautark.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Launches Claude Meetings, Whiteboards, and Sheets</h2>
 <a name="story-27055"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Whiteboards-1.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has launched Claude Meetings, Claude Whiteboards, and Claude Sheets. Claude Meetings joins video calls to draft real-time plans, timelines, and meeting notes. Claude Whiteboards provides a collaborative visual workspace, while Claude Sheets allows teams to collaboratively create and edit spreadsheets with AI assistance.</p><p>These updates follow similar workplace tool releases from OpenAI and Meta as companies compete to build AI-driven office suites. Anthropic also announced the general availability of Claude Data and introduced interactive connectors that allow users to operate third-party applications, including Adobe, Atlassian, and HubSpot, directly within Claude.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26927"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FTK-notes.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This new application from Medium integrates note-taking and journaling with private social networking features. Users can employ AI to organize their writing and utilize "Libraries"—private, group-based spaces for sharing content and collaborating via links or email. The service is available to existing Medium members on web, Android, and iOS, with a native desktop version in development.</p><p>The shift reflects Medium's strategy to move away from ad-supported models and a reliance on search engine traffic. By emphasizing private communities and direct feedback over public pageviews, the company aims to insulate itself from the impact of Google's algorithm changes and the rise of AI-driven content scraping.</p>
 <p>Nov 9 · <a href="https://www.theverge.com/tech/1029676/medium-tk-notes-app">theverge.com</a> | <a href="https://medium.com/blog/tk-a-new-private-notebook-app-from-medium-13d3d6efdce1">medium.com</a></p>
-<br clear="all" />
-
-<h2>Shane Melaugh Reports Reasoning Shift in Claude Opus 5.5 Sessions</h2>
-<a name="story-26961"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Flesswrong-2-0%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1%2FmirroredImages%2Fq5ejXr4CRuPxkgzJD%2Ff2kkahak3sik7cmswpwt&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Shane Melaugh reports that an analysis of 1,400 Claude Code sessions reveals a distinct shift in the reasoning behavior of Claude Opus 5.5 beginning on November 3.</p><p>Despite the model's identifier remaining unchanged, the abrupt alteration in its operational and reasoning patterns suggests an unannounced backend modification or performance adjustment by the developer.</p>
-<p>Nov 9 · <a href="https://twitter.com/shanemelaugh/status/2119192075505893695">x.com</a> | <a href="https://news.ycombinator.com/item?id=50422069">hacker news</a></p>
 <br clear="all" />
 
 ---
