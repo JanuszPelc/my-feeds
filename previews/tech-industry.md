@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Matteo Raso Challenges the Notion of an AI Industry Bubble</h2>
+<a name="story-26969"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdyd911kmh%2Fimage%2Fupload%2Fv1676548360%2FOpen_AI_Products_618960c677.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Matteo Raso argues that the AI industry is not in a speculative bubble, contending that massive capital expenditures for data centers are one-off infrastructure investments rather than unsustainable operating costs. He cites rapid revenue growth in companies like Anthropic as evidence that the industry is transitioning from heavy investment to high profitability.</p><p>The analysis highlights that major players such as Alphabet, Meta, and NVIDIA maintain stable price-to-earnings ratios, suggesting valuations are supported by actual earnings rather than pure speculation. While acknowledging risks like high debt and regulatory hurdles, the author posits that widespread adoption and massive unmet demand will likely sustain the industry's growth.</p>
+<p>Nov 9 · <a href="https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists">matteoraso.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418975">hacker news</a></p>
+<br clear="all" />
+
 <h2>Donald Tang Discusses Stepping Down from Shein</h2>
 <p>Former Shein Executive Chair Donald Tang states his decision to resign was a personal choice made weeks before the company's troubled initial public offering (IPO). He addresses recent fluctuations in Shein's valuation and the circumstances surrounding his departure from the fast-fashion retailer.</p><p>The interview provides insight into leadership transitions at Shein as the company navigates valuation challenges and its ongoing pursuit of a public listing. Tang's remarks offer perspective on the strategic pressures facing the retailer during a period of market volatility.</p>
 <p>Nov 9 · <a href="https://www.ft.com/content/109aa143-93b4-4b39-9ccd-4ae5a0cf3004">ft.com</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26848"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftax.thomsonreuters.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F17%2F2024%2F08%2FTR4398851_05G_1920x2241.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US professional services added 70,000 jobs in October, reaching the highest monthly total since July 2022. Sectors heavily exposed to artificial intelligence, including consulting, legal services, and accounting, all experienced employment growth despite ongoing concerns regarding AI-driven job displacement.</p><p>The hiring figures counter widespread anxieties that automation and generative AI would rapidly eliminate white-collar professional roles. Strong employment gains at law offices and consulting firms indicate that technology adoption is currently expanding workforce demand rather than immediately replacing human labor in these industries.</p>
 <p>Nov 8 · <a href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4">wsj.com</a></p>
-<br clear="all" />
-
-<h2>AI Companies Sell Over $300 Billion in Stock in 2026</h2>
-<a name="story-26831"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F2522257153%2Fdisplay_1500%2Fstock-photo-artificial-intelligence-open-ai-stocks-market-2522257153.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Artificial intelligence companies sold or priced more than $300 billion worth of stock in 2026, excluding Anthropic's initial public offering, with an additional $100 billion planned. Recent volatile trading in AI-related equities has highlighted growing questions about the market's capacity to absorb further share offerings.</p><p>The heavy volume of issuance reflects surging capital demands across the artificial intelligence sector as firms fund extensive infrastructure and development. Market observers are closely monitoring whether investor appetite can sustain the upcoming pipeline of stock sales without triggering broader sector pullbacks.</p>
-<p>Nov 8 · <a href="https://www.theinformation.com/articles/ai-stock-can-market-absorb">theinformation.com</a></p>
 <br clear="all" />
 
 ---

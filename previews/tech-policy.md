@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Nvidia Intervention Prompted Transfer of Chip Smuggling Probe to Justice Department</h2>
+<a name="story-26938"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F09%2Fmultimedia%2F09dc-commerce-megaspeed-qmlg%2F09dc-commerce-megaspeed-qmlg-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A Commerce Department investigation into Megaspeed, a Singaporean firm suspected of smuggling Nvidia artificial intelligence chips into China, was transferred to the Justice Department after Nvidia’s general counsel contacted department officials. The intervention has prompted concerns among some government officials that the outreach may have improperly influenced the inquiry.</p><p>The probe focused on Megaspeed, whose executive is suspected of being a Chinese spy with whom Nvidia CEO Jensen Huang had a personal relationship. Following these revelations, Nvidia announced it is opening an investigation into Huang.</p>
+<p>Nov 9 · <a href="https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8&smid=url-share">nytimes.com</a></p>
+<br clear="all" />
+
+<h2>Trump Discusses AI Safety and DOJ Actions in 60 Minutes Interview</h2>
+<a name="story-26935"><img src="https://wsrv.nl/?url=https%3A%2F%2Fam13.mediaite.com%2Fmed%2Fcnt%2Fuploads%2F2024%2F10%2FScreenshot-2024-10-01-at-5.49.49-PM.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Trump stated in a 60 Minutes interview that AI risks are manageable and currently under management by the Department of Justice. He alleged that the DOJ recently threatened an unnamed leader of a major AI company with arrest, a move he claims successfully altered the company's direction.</p><p>While expressing willingness to cooperate with Democrats on AI safety, Trump emphasized that the United States must maintain its technological lead over China. He also addressed the concept of "super intelligence," suggesting that Chinese AI development operates without the guardrails present in the U.S.</p>
+<p>Nov 9 · <a href="https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai">theverge.com</a> | <a href="https://www.youtube.com/watch?v=m2aC8lAOQbg">youtube.com</a></p>
+<br clear="all" />
+
 <h2>Amsterdam Police Arrest Protesters at Microsoft Data Center Construction Site</h2>
 <a name="story-26896"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gTAi2.img%3Fw%3D1600%26h%3D1000%26m%3D4%26q%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amsterdam police arrested 150 to 200 protesters for trespassing at a Microsoft data center construction site. While many participants were peaceful, authorities reported that some individuals entered the site violently, prompting police intervention and the seizure of break-in tools and suspected stolen construction materials.</p><p>The "Stop Dirty Data Centers" coalition organized the protest to demand a halt to the expansion of AI data centers. In addition to the arrests, officials reported that the construction site sustained vandalism and property damage.</p>
@@ -82,18 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26788"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcoin360.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcdn.coin360.com%2F06ccce72_13d1_4f6b_b68d_1fd9b11ddee1_639fa343ab.webp%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Treasury has initiated steps to bar cryptocurrency exchange MEXC from the U.S. financial system, citing allegations that the platform processed more than $16 billion in illicit transactions. According to the enforcement action, these flows include funds linked to sanctions evasion efforts by entities in Russia and Iran.</p><p>The move represents a significant escalation in regulatory scrutiny directed at offshore digital asset platforms operating without strict compliance controls. MEXC faces mounting pressure as authorities target international exchanges facilitating transactions that bypass global financial restrictions.</p>
 <p>Nov 7 · <a href="https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows">coindesk.com</a></p>
-<br clear="all" />
-
-<h2>Research Reveals Apple iPhone Predictive Text Restricts Over 100,000 Words and Phrases</h2>
-<a name="story-26782"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.apple.com%2Fassets%2F65E21662495F1A6C8701F50A%2F65E21663EF8273BE1D0C2734%2Fen_US%2Fb7b184ab16935c992884d5a051ec1aa4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Independent research has uncovered a hard-coded grey list within Apple's iOS operating system containing more than 100,000 words and phrases restricted from iPhone predictive text and swipe-typing completions. The list encompasses terms related to drugs, sexual acts, and various politically sensitive phrases, requiring users to manually spell them out rather than relying on autocomplete suggestions.</p><p>Discovered by researcher Derik Kauffman, the restricted entries feature terms such as political names, regional disputes, and sensitive phrases across multiple languages. While Apple states that its keyboard is designed to avoid offensive or inappropriate suggestions, the hidden restrictions highlight how automated text systems manage potentially controversial content.</p>
-<p>Nov 7 · <a href="https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50406111">hacker news</a></p>
-<br clear="all" />
-
-<h2>U.S. Clears Nvidia H200 Chip Exports to Chinese Firms with Sanctioned Ties</h2>
-<a name="story-26763"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F07%2Fmultimedia%2F07dc-china-chips-01-fjhg%2F07dc-china-chips-01-fjhg-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Commerce Department has approved dozens of Chinese companies to receive Nvidia's H200 AI chips, including firms with ties to entities under federal sanctions. One cleared firm, New Matrix, maintains a registered office in a Beijing industrial park that is currently an empty, unfinished space.</p><p>Chinese corporate records link New Matrix's owners to a private equity fund placed on a U.S. trade blacklist in 2024. The approval of these firms has raised concerns among technology experts regarding the effectiveness of national security reviews for advanced semiconductor exports.</p>
-<p>Nov 7 · <a href="https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50417488">hacker news</a></p>
 <br clear="all" />
 
 ---

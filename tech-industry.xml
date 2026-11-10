@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-09T16:14:00+00:00</updated>
+  <updated>2026-11-09T18:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Matteo Raso Challenges the Notion of an AI Industry Bubble</title>
+    <link href="https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists" rel="alternate" />
+    <id>https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists::v240</id>
+    <published>2026-11-09T18:05:00+00:00</published>
+    <updated>2026-11-09T18:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdyd911kmh%2Fimage%2Fupload%2Fv1676548360%2FOpen_AI_Products_618960c677.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists">matteoraso.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418975">hacker news</a></small></p><hr/><p>Matteo Raso argues that the AI industry is not in a speculative bubble, contending that massive capital expenditures for data centers are one-off infrastructure investments rather than unsustainable operating costs. He cites rapid revenue growth in companies like Anthropic as evidence that the industry is transitioning from heavy investment to high profitability.</p><p>The analysis highlights that major players such as Alphabet, Meta, and NVIDIA maintain stable price-to-earnings ratios, suggesting valuations are supported by actual earnings rather than pure speculation. While acknowledging risks like high debt and regulatory hurdles, the author posits that widespread adoption and massive unmet demand will likely sustain the industry's growth.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdyd911kmh%2Fimage%2Fupload%2Fv1676548360%2FOpen_AI_Products_618960c677.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 00:11 UTC | #26969</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Tang Discusses Stepping Down from Shein</title>
     <link href="https://www.ft.com/content/109aa143-93b4-4b39-9ccd-4ae5a0cf3004" rel="alternate" />
