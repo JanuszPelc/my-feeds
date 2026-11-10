@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>SoftBank Reports $7 Billion Second-Quarter Net Loss Amid Tech Selloff</h2>
+<a name="story-26990"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8pOzIi-T4VY%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SoftBank reported a fiscal second-quarter net loss of 1.12 trillion yen ($7 billion), shifting away from a net profit of 2.5 trillion yen a year earlier due to a broader technology selloff. Despite the loss, quarterly revenue reached 2.22 trillion yen, outperforming LSEG estimates of 2.02 trillion yen, while company shares closed 13.9% higher following a tech rebound on Wall Street.</p><p>The Japanese conglomerate has increasingly focused its strategy on artificial intelligence, highlighted by a recent $30 billion follow-on investment in OpenAI that brings its total commitment to $64.6 billion. Additionally, SoftBank announced a partnership with Grab and Malaysia's PETROS to commit $1.85 billion in initial capital toward developing AI infrastructure in Malaysia.</p>
+<p>Nov 10 · <a href="https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html">cnbc.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Aims to Raise Up to $69.3 Billion in IPO Filing Details</h2>
 <a name="story-26976"><img src="https://wsrv.nl/?url=https%3A%2F%2Fboringdude.in%2Fwp-content%2Fuploads%2F2026%2F06%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence company Anthropic briefly distributed and then retracted details regarding its upcoming initial public offering to bankers, revealing plans to raise up to $69.3 billion. The figures outline the scale of the anticipated stock market debut for the generative AI developer amid high market interest.</p><p>The leaked information provides a rare look into the financial targets behind one of the largest potential public listings in the technology sector. Anthropic's valuation and fundraising goals have drawn intense scrutiny from investors tracking the commercial trajectory of foundational AI model providers.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Harwood Voters Reject Measure Opposing Applied Digital Data Center</h2>
 <p>Residents in Harwood, North Dakota, have declined a ballot measure intended to block the construction of a $3 billion data center by Applied Digital. The facility is expected to become operational in 2027.</p><p>This outcome contrasts with a growing national trend of voters expressing opposition toward large-scale data center projects used to power artificial intelligence.</p>
 <p>Nov 9 · <a href="https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/">washingtonpost.com</a></p>
-<br clear="all" />
-
-<h2>EU Assessment Finds Russian Network Exploited French Riots on Social Media</h2>
-<a name="story-26894"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1JEmWs.img%3Fw%3D1920%26h%3D1280%26m%3D4%26q%3D81&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An internal European Union assessment reveals that a covert Russian network known as "Operation Overload" opportunistically exploited riots in France by using social media to spread fabricated videos impersonating Western media outlets. The campaign sought to blame the unrest on uncontrolled immigration and portray the French government as having lost control of public order.</p><p>Active since September 2023, the operation has targeted Western public figures, institutions, and media outlets to discredit support for Ukraine and promote pro-Russian narratives. French authorities and watchdogs have previously tracked similar coordinated disinformation efforts designed to amplify social division and political unrest during sensitive public events.</p>
-<p>Nov 9 · <a href="https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50424396">hacker news</a></p>
 <br clear="all" />
 
 ---
