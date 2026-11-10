@@ -3,9 +3,26 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-09T18:30:00+00:00</updated>
+  <updated>2026-11-09T20:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Drivers and Risks of Connectivity in Operational Technology Environments</title>
+    <link href="https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/" rel="alternate" />
+    <id>https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/::v240</id>
+    <published>2026-11-09T20:13:00+00:00</published>
+    <updated>2026-11-09T20:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwaterprojectsonline.com%2Fwp-content%2Fuploads%2Farticle_photos%2F2019%2F2019_severn_trent_brp_wtw_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/">tisiphone.net</a> | <a href="https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50432656">hacker news</a></small></p><hr/><p>Operational Technology (OT) and Industrial Control Systems (ICS) are integrated into networks to improve efficiency and reduce costs, despite increasing cybersecurity risks. This shift was driven by IT/OT convergence, where bespoke serial-based systems were replaced by standardized Ethernet-based architectures to facilitate easier technical support and logistics.</p><p>Connectivity is further driven by the need for real-time telemetry in distributed infrastructure like renewable energy grids and the requirement for remote maintenance by Original Equipment Manufacturers (OEMs). Implementing security upgrades remains difficult due to the high cost of equipment replacement, the long lifecycles of legacy hardware, and the operational risks associated with modifying critical control systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwaterprojectsonline.com%2Fwp-content%2Fuploads%2Farticle_photos%2F2019%2F2019_severn_trent_brp_wtw_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 01:44 UTC | #26972</small>]]></content>
+  </entry>
+  <entry>
+    <title>Hackers Use NEAR Memecoins to Launder $430,000 from Binance Heist</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto::v240</id>
+    <published>2026-11-09T20:12:00+00:00</published>
+    <updated>2026-11-09T20:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto">bloomberg.com</a> | <a href="https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/">elliptic.co</a></small></p><hr/><p>Hackers responsible for the $6.3 billion Binance heist used at least six memecoins on the NEAR blockchain to launder approximately $430,000 in stolen cryptocurrency. Blockchain analysis firm Elliptic reported that the attackers created these disposable tokens and liquidity pools to obscure the movement of funds.</p><p>The laundering operation involved moving roughly 117,000 NEAR tokens. This tactic reflects a broader trend where attackers utilize various blockchain networks, such as Tron and Solana, to move illicit proceeds from large-scale crypto thefts.</p><hr/><small>10 Nov 2026, 01:38 UTC | #26953</small>]]></content>
+  </entry>
   <entry>
     <title>French Officials Suspect Iran's Revolutionary Guards of Hacking Commercial Refrigerators</title>
     <link href="https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/" rel="alternate" />

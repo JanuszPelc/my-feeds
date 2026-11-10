@@ -8,6 +8,17 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Drivers and Risks of Connectivity in Operational Technology Environments</h2>
+<a name="story-26972"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwaterprojectsonline.com%2Fwp-content%2Fuploads%2Farticle_photos%2F2019%2F2019_severn_trent_brp_wtw_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Operational Technology (OT) and Industrial Control Systems (ICS) are integrated into networks to improve efficiency and reduce costs, despite increasing cybersecurity risks. This shift was driven by IT/OT convergence, where bespoke serial-based systems were replaced by standardized Ethernet-based architectures to facilitate easier technical support and logistics.</p><p>Connectivity is further driven by the need for real-time telemetry in distributed infrastructure like renewable energy grids and the requirement for remote maintenance by Original Equipment Manufacturers (OEMs). Implementing security upgrades remains difficult due to the high cost of equipment replacement, the long lifecycles of legacy hardware, and the operational risks associated with modifying critical control systems.</p>
+<p>Nov 9 · <a href="https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/">tisiphone.net</a> | <a href="https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50432656">hacker news</a></p>
+<br clear="all" />
+
+<h2>Hackers Use NEAR Memecoins to Launder $430,000 from Binance Heist</h2>
+<p>Hackers responsible for the $6.3 billion Binance heist used at least six memecoins on the NEAR blockchain to launder approximately $430,000 in stolen cryptocurrency. Blockchain analysis firm Elliptic reported that the attackers created these disposable tokens and liquidity pools to obscure the movement of funds.</p><p>The laundering operation involved moving roughly 117,000 NEAR tokens. This tactic reflects a broader trend where attackers utilize various blockchain networks, such as Tron and Solana, to move illicit proceeds from large-scale crypto thefts.</p>
+<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto">bloomberg.com</a> | <a href="https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/">elliptic.co</a></p>
+<br clear="all" />
+
 <h2>French Officials Suspect Iran&#x27;s Revolutionary Guards of Hacking Commercial Refrigerators</h2>
 <a name="story-26942"><img src="https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F66kk9kpTURBXy81ZTdiODE3OTlkYmNkYmVkM2YyOThjMDk3OTc4OTBlMy5qcGeSlQMAPs0H0M0EZZMFzQSwzQJY3gABoTAB&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Iranian Revolutionary Guards are suspected of orchestrating cyberattacks that disabled commercial refrigerators and freezers across France in October. French officials issued the accusation following an investigation into the widespread cooling system failures.</p><p>The disruptions targeted infrastructure essential to the food supply chain. This incident follows a pattern of cyber provocations attributed to Iranian-linked entities targeting European interests.</p>
@@ -81,17 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Vincent Bernat Migrates Blog Infrastructure from AWS to Bunny CDN and DNS</h2>
 <p>Developer Vincent Bernat details his migration of his personal blog's infrastructure from Amazon CloudFront and Route 53 to Bunny CDN and Bunny DNS. Seeking to reduce high AWS costs while maintaining performance, he adopted Bunny DNS for its low pricing and scriptable DNS capabilities, which execute custom JavaScript queries to route visitors to optimal servers.</p><p>To handle fallback availability and varying geographic distances, Bernat implemented a hybrid JavaScript routing script that returns the two closest servers when they are nearby or a single server with a short time-to-live when distances differ significantly. Additionally, he replaced Route 53's role in handling ACME DNS-01 challenges by deploying Hickory DNS and deSEC to manage DNSSEC and dynamic updates, compensating for Bunny DNS's current limitations regarding DS records.</p>
 <p>Nov 7 · <a href="https://vincent.bernat.ch/en/blog/2026-bunny-geodns">vincent.bernat.ch</a> | <a href="https://lobste.rs/s/jsvlfm/scriptable_geodns_leaving_aws_for_bunny">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50394292">hacker news</a></p>
-<br clear="all" />
-
-<h2>Neil Brown Details Running Law Firm on Free Software in 2026 Update</h2>
-<p>English tech and telecoms lawyer Neil Brown has published his 2026 update on running his practice, decoded.legal, entirely on free and open-source software. The operational setup spans client-side tools running on Debian Linux and a comprehensive suite of self-hosted server applications.</p><p>Notable adjustments since his 2024 review include replacing Nextcloud with Syncthing for file synchronization, discontinuing a self-hosted Jitsi instance in favor of Signal, and maintaining a GrapheneOS mobile device while avoiding artificial intelligence tools entirely. The firm relies on terminal-heavy workflows, a ThinkPad hardware setup, and static site generation tools like BSSG.</p>
-<p>Nov 7 · <a href="https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/">decoded.legal</a> | <a href="https://news.ycombinator.com/item?id=50403066">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenStick $10 Homelab Setup and Software Stack</h2>
-<a name="story-26785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.bosscher.ch%2F_astro%2Fopenstick.nDFavhOI_1HBuYF.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Laurens Bosscher details a lightweight homelab configuration built around a 10-dollar OpenStick hardware device featuring 512 MB of RAM, four ARM Cortex-A53 cores, and 4 GB of eMMC flash running Debian. Despite its modest specifications and zero noise, the passively cooled device runs a full suite of containerized self-hosted services managed via Podman.</p><p>The software stack includes low-resource utilities such as CastSponsorSkip for YouTube sponsorship filtering, a custom fork of AdGuard Home for DNS-level ad blocking, Zeroclaw as an AI agent harness communicating through Telegram, and Cloudflare Tunnel for secure external access without exposed ports. Additional monitoring, management, and productivity tools like Beszel, Dozzle, Gatus, Fusion RSS, Shiori, and Diun operate efficiently within the hardware's strict memory constraints.</p>
-<p>Nov 7 · <a href="https://blog.bosscher.ch/posts/openstick/">blog.bosscher.ch</a> | <a href="https://news.ycombinator.com/item?id=50406670">hacker news</a></p>
 <br clear="all" />
 
 ---
