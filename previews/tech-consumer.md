@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grand Theft Auto VI to Support Xbox Cloud Gaming on Xbox One and Series X/S</h2>
+<a name="story-27039"><img src="https://wsrv.nl/?url=https%3A%2F%2Flaimingakonsole.lt%2Fcdn%2Fshop%2Ffiles%2Fseriexgta-2j8mwtgiig.webp%3Fv%3D1774882331%26width%3D1445&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Xbox Cloud Gaming will support Grand Theft Auto VI on Xbox One and Series X/S consoles upon its launch next week. This allows Xbox One users to stream the game using Xbox Series S graphics settings, though the service is restricted to Xbox hardware rather than being available on PC, web, or TVs.</p><p>Microsoft holds effective cloud streaming exclusivity on Xbox hardware during the launch period, though Rockstar Games confirmed the game will also support Remote Play on PlayStation and Xbox consoles. The title will run at 30fps on PS5, PS5 Pro, and Xbox Series X/S, with the PS5 Pro version offering ray-traced shadows and PlayStation Spectral Super Resolution (PSSR) support.</p>
+<p>Nov 10 · <a href="https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support">theverge.com</a> | <a href="https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now">rockstargames.com</a></p>
+<br clear="all" />
+
 <h2>Ring Launches Home Security Drone and Enterprise Security Robot</h2>
 <a name="story-27058"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcapwolf.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fring-drone-cam-and-rover-robot-transform-home-security-768x429.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ring, the Amazon-owned home security company, has launched a new robotics division featuring a home security drone and an enterprise security robot. The Ring Drone Cam is a 2K flying indoor security camera designed to patrol homes autonomously or integrate with Ring alarm systems, while the Ring Rover Cam is a 4K roving robot built for businesses with adjustable periscope cameras and two-way audio.</p><p>Both devices are powered by Ring's proprietary AI Pilot system to autonomously map spaces and navigate environments. The enterprise Rover robot is scheduled for release on December 16 at a price of $1,000, followed by the drone on January 27 for $270, with both utilizing advanced encryption for recorded footage amid ongoing privacy scrutiny surrounding the brand's surveillance products.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26685"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic-www.adweek.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2024%2F02%2FFox-News-Media.jpeg%3Fw%3D1239&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fox Corp. has officially completed its $22 billion acquisition of streaming platform Roku ahead of its previously anticipated 2027 timeline. Roku founder and CEO Anthony Wood will join the Fox board of directors and serve as co-chair of Fox Digital Platforms alongside Paul Cheesbrough, overseeing a newly combined division that includes Roku, Tubi, and other digital assets.</p><p>The transaction significantly expands Fox's presence in the free, ad-supported streaming market and digital video advertising space, uniting a platform with over 100 million households with Fox's media assets. Fox stated it intends to maintain Roku as an open ecosystem for the broader streaming industry while expecting to generate about $400 million in annualized cost synergies within two years.</p>
 <p>Nov 6 · <a href="https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/">variety.com</a></p>
-<br clear="all" />
-
-<h2>Ex-Rockstar Director Obbe Vermeij Says AI Tools Could Accelerate Grand Theft Auto VI PC Ports</h2>
-<a name="story-26701"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fgta6-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Former Rockstar technical director Obbe Vermeij warns that emerging AI-powered reverse-engineering tools could enable third parties to port complex console games like Grand Theft Auto VI to PC. He suggests this capability might force developers to narrow the release window between console and PC editions to preempt unauthorized AI-generated ports.</p><p>Although converting a massive, highly detailed game via AI would incur significant token costs and produce a product inferior to an official release, Vermeij notes that modern AI coding harnesses permanently alter the security calculus for delayed platform releases. Rockstar has not officially announced a release date for a PC version, though reports indicate it could arrive in early 2027.</p>
-<p>Nov 6 · <a href="https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/">arstechnica.com</a></p>
 <br clear="all" />
 
 ---

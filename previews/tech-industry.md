@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TSMC to Invest up to $1 Billion in Anthropic and OpenAI</h2>
+<p>TSMC intends to allocate up to $500 million each to Anthropic and OpenAI via IPO-priced shares and preferred stock. This $1 billion total investment is designed to meet the growing long-term demand for AI technology.</p><p>The move underscores the strategic interdependence between semiconductor manufacturers and leading artificial intelligence developers. Through these equity positions, TSMC aims to solidify its role within the global AI ecosystem.</p>
+<p>Nov 10 · <a href="https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Path Robotics Raises $300M in Series E Funding at $2.45B Valuation</h2>
 <a name="story-27037"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaiinsider.tech%2Fwp-content%2Fuploads%2F2026%2F11%2FPath-Robotics-Co-founders-CEO-Andy-Lonsberry-Left-and-CTO-Alex-Lonsberry-Right-crp-1-1536x887.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Path Robotics has secured $300 million in a Series E funding round, bringing its total funding to approximately $610 million. The investment values the startup at $2.45 billion.</p><p>The company develops software for autonomous manufacturing robots. This funding round quadruples the company's valuation.</p>
@@ -87,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>EU Proposes Digital Fairness Act Targeting Addictive Social Media and AI Bots</h2>
 <p>The European Union is drafting the Digital Fairness Act to regulate addictive social media features and AI chatbots that simulate human relationships. The proposed law would require tech companies to allow adult users to disable features designed to maximize engagement.</p><p>The legislation seeks to mitigate the psychological effects of certain digital design patterns and interactive AI models. If passed, it will force significant changes to how social media platforms and AI developers structure user interactions.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50427605">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nvidia CEO Jensen Huang Hired Crisis PR Firm Risa Heller Last Year</h2>
-<a name="story-26926"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af1d38e0949f43953b8f9d7%2F191%3A100%2Fw_1280%2Cc_limit%2FJensen%2BHuang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia CEO Jensen Huang retained the crisis communications firm Heller in October 2025, a year before publicly admitting to an extramarital affair with a woman identified by US intelligence as a Chinese spy. The firm, founded by Risa Heller and known for handling high-profile personal controversies, was initially believed to have been hired for family matters before its role expanded to include press inquiries for Huang.</p><p>The engagement followed an investigative report detailing Huang’s business connections to a chip buyer linked to Chinese export evasion inquiries. Following Huang's acknowledgment of the affair and the announcement of an independent board investigation, Nvidia stated that it has found no evidence that national security or confidential company information was compromised.</p>
-<p>Nov 9 · <a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50416801">hacker news</a></p>
 <br clear="all" />
 
 ---

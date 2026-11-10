@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Julia Desmazes Designs Networking Switch ASIC Chip in Four Days</title>
+    <link href="https://essenceia.github.io/projects/expresso/" rel="alternate" />
+    <id>https://essenceia.github.io/projects/expresso/::v240</id>
+    <published>2026-11-10T16:12:00+00:00</published>
+    <updated>2026-11-10T16:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fessenceia.github.io%2Fprojects%2Fexpresso%2Ffeature.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://essenceia.github.io/projects/expresso/">essenceia.github.io</a> | <a href="https://lobste.rs/s/n8reli/building_networking_switch_asic_chip">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50433682">hacker news</a></small></p><hr/><p>Julia Desmazes describes the design of a networking switch ASIC chip completed within a 96-hour deadline. The project uses the GlobalFoundries 180nm process via wafer.space and is part of a larger initiative to build open-source networking equipment, with the ultimate goal of creating a full router.</p><p>The article examines technical aspects of semiconductor fabrication, including area optimization for yield, dicing, and packaging options like wire bonding and chip-on-board. It also discusses the importance of pin architecture in supporting an RMII interface for Ethernet port communication.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fessenceia.github.io%2Fprojects%2Fexpresso%2Ffeature.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 22:16 UTC | #27088</small>]]></content>
+  </entry>
+  <entry>
     <title>Kora Systems Unveils Linux-Based AI Desktop Operating System</title>
     <link href="https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/" rel="alternate" />
     <id>https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/::v240</id>

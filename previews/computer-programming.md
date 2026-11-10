@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Julia Desmazes Designs Networking Switch ASIC Chip in Four Days</h2>
+<a name="story-27088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fessenceia.github.io%2Fprojects%2Fexpresso%2Ffeature.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Julia Desmazes describes the design of a networking switch ASIC chip completed within a 96-hour deadline. The project uses the GlobalFoundries 180nm process via wafer.space and is part of a larger initiative to build open-source networking equipment, with the ultimate goal of creating a full router.</p><p>The article examines technical aspects of semiconductor fabrication, including area optimization for yield, dicing, and packaging options like wire bonding and chip-on-board. It also discusses the importance of pin architecture in supporting an RMII interface for Ethernet port communication.</p>
+<p>Nov 10 · <a href="https://essenceia.github.io/projects/expresso/">essenceia.github.io</a> | <a href="https://lobste.rs/s/n8reli/building_networking_switch_asic_chip">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50433682">hacker news</a></p>
+<br clear="all" />
+
 <h2>Kora Systems Unveils Linux-Based AI Desktop Operating System</h2>
 <a name="story-27031"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fkora-os-chord-chat-client.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kora Systems, founded by Cyanogen co-founder Kirt McMaster, has unveiled a Linux-based desktop operating system designed to integrate artificial intelligence models and autonomous agents directly into the computing experience. Scheduled for release in 2027, the free operating system will support Intel, AMD, and Qualcomm Snapdragon processors, enabling AI agents to work across applications and manage files without app-specific boundaries.</p><p>Formerly known as the gaming operating system company Playtron, the Palo Alto-based firm rebranded to focus on AI and is collaborating with Qualcomm and Saudi AI company Humain to optimize the software for Snapdragon hardware, including an enterprise version called Humain OS. The company plans to monetize the platform through subscriptions bundling access to frontier AI models and agentic services.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26856"><img src="https://wsrv.nl/?url=https%3A%2F%2Fketchup3d.github.io%2Fapp%2Fassets%2Fscreenshots%2Fketchup.jpg%3Fv%3D0.6.5-r2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>KetchUp is a free, open-source 3D modeling application built with Rust and WebGPU, designed specifically for woodworking and furniture planning. The software enables users to sketch shapes, apply exact measurements, and organize complex assemblies using groups, components, and tags prior to construction.</p><p>The application runs natively on Windows, macOS, and Linux, or directly within compatible desktop web browsers without requiring an account or cloud storage. It supports local autosaving, importing SketchUp geometry, exporting Wavefront OBJ files, and saving portable project files directly to the user's device.</p>
 <p>Nov 8 · <a href="https://ketchup3d.github.io/app/">ketchup3d.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418176">hacker news</a></p>
-<br clear="all" />
-
-<h2>Dux Modular Shell 2.1 Released with Video Wallpapers and Updated System Monitor</h2>
-<a name="story-26854"><img src="https://wsrv.nl/?url=https%3A%2F%2Flinuxiac.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fdux21-interface-density.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Dux Modular Shell version 2.1, codenamed Stormborn, is now available for Wayland compositors including Hyprland, Niri, and Sway. The update introduces a new system monitor, video wallpaper support, a revamped media player, interface density controls, and various enhancements to the Dux file manager.</p><p>Designed as an open-source desktop suite, Dux features dynamic application theming that automatically matches GTK, Qt, and terminal environments using a custom 16-color palette algorithm. The ecosystem also incorporates specialized modules for process monitoring, greeter management, fast file searching, and multi-provider calendar integration.</p>
-<p>Nov 8 · <a href="https://duxlabs.dev/">duxlabs.dev</a> | <a href="https://news.ycombinator.com/item?id=50416053">hacker news</a></p>
 <br clear="all" />
 
 ---

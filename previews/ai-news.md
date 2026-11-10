@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Anthropic&#x27;s Fable 5.2 Completes 41% of Real Freelance Jobs</h2>
+<a name="story-27041"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthe-decoder.com%2Fwp-content%2Fuploads%2F2026%2F11%2FRLI-Bench-Fable5-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic's Fable 5.2 AI agent has achieved a 41.3% success rate on the Remote Labor Index (RLI), completing over 40% of real-world freelance tasks. This represents a significant increase from the 2.5% success rate recorded for leading AI agents one year ago. The agent demonstrated particularly strong performance in audio and music editing, architectural design, and 3D modeling.</p><p>The RLI benchmark evaluates agents using 240 professional projects from Upwork, with a combined value of approximately $144,000. To succeed, agents must use professional software like Blender and Audacity to complete complex, end-to-end assignments in a virtual workspace. Results are manually verified by human experts, as automated AI reviewers have proven unable to detect technical flaws in complex professional files.</p>
+<p>Nov 10 · <a href="https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/">the-decoder.com</a> | <a href="https://labs.scale.com/papers/rli">labs.scale.com</a></p>
+<br clear="all" />
+
 <h2>Meta Launches Muse AI Agent for Apple Watch and Wear OS</h2>
 <a name="story-27043"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fresizemode-4%2Cmsid-135700396%2Cimgsize-77638%2Cwidth-1200%2F135700396.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has released its Muse AI agent for Apple Watch and Android’s Wear OS, allowing users to interact with the assistant via voice, text, or dictation directly on their smartwatches. This expansion follows the recent launch of a dedicated iPad app for the service.</p><p>The AI agent uses personalized avatars to assist with tasks such as managing emails, scheduling meetings, and booking reservations. Muse has achieved significant scale, recording over 10 million U.S. downloads within 40 days of its App Store debut.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26919"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.cloudflare.com%2F_image%3Fhref%3Dhttps%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01KW4684TGVTR7TBTACDSW78V1.png%26w%3D1080%26h%3D450%26f%3Dwebp%26fit%3Dcover%26position%3Dcenter&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Automattic has launched Spacefast, a platform that provides the backend infrastructure for "vibe-coded" websites and applications. The service includes databases, authentication, file uploads, email capabilities, and analytics to transform AI-generated code into functional, deployable web services.</p><p>Users can connect Spacefast to AI agents such as ChatGPT and Claude or link it to Git repositories. The service competes with platforms like Lovable and Emergent by integrating with Automattic’s existing WordPress and WooCommerce ecosystems to serve developers and enterprises looking to consolidate AI-driven development workflows.</p>
 <p>Nov 9 · <a href="https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/">techcrunch.com</a> | <a href="https://spacefast.com/">spacefast.com</a> | <a href="https://news.ycombinator.com/item?id=50425905">hacker news</a></p>
-<br clear="all" />
-
-<h2>DeepSeek Open-Source Agent Platform Harness Reaches 1.54 Million Daily Users</h2>
-<p>DeepSeek reported that its open-source AI agent platform, Harness, reached 1.54 million daily active users on November 4, achieving the milestone less than three months after its launch.</p><p>The platform currently consumes approximately 92 trillion tokens per day, translating to roughly 60 million tokens per user, highlighting the heavy computational demand of its agent workloads.</p>
-<p>Nov 8 · <a href="https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
