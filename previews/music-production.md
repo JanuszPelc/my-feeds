@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Audio Hertz Releases Soklo GS-5 Guitar Synth</h2>
+<a name="story-27045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsoklo-gs-5-gui-3d.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audio Hertz has released the Soklo GS-5 Guitar Synth, a plugin developed in collaboration with experimental guitarist Soklo. The software uses pitch detection and resynthesis to track single guitar notes directly from audio without the need for MIDI pickups, supporting bends, slides, and vibrato with approximately 12 ms latency.</p><p>The plugin features five synth engines—Deep, Vintage, Solo, Strings, and Harmony—and includes built-in effects such as distortion, bitcrush, and gated reverb. It is available for macOS and Windows in VST3, AU, and AAX formats, with an introductory price of $39 USD.</p>
+<p>Nov 10 · <a href="https://www.kvraudio.com/news/audio-hertz-releases-soklo-gs-5-guitar-synth-vst3-au-aax-69723?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69723">kvraudio.com</a> | <a href="https://audiohertz.com/product/soklo-gs-5/">audiohertz.com</a></p>
+<br clear="all" />
+
 <h2>Spotify Adds New Personalities and Commentary Controls to AI DJ</h2>
 <a name="story-27030"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audkit.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fai-dj-on-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Spotify is updating its AI DJ feature to include new voices and personalities, as well as an option to limit commentary between songs. Premium subscribers can choose from seven English accents—including British, American, Irish, Australian, and Indian—and two Spanish voices. The update also allows users to toggle off the AI's verbal explanations and introductions to reduce interruptions.</p><p>These changes are rolling out to Premium users in over 95 global markets. New English voice personalities include options like Casey, Tess, and Lane, while the Spanish options include Nico and Fabi. This feature update follows Spotify's recent expansion into AI, which includes conversational music assistants and AI-powered playlist tools.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>Never Found Audio Releases MG-Mini Free MIDI Grabber Plugin</h2>
 <p>Never Found Audio has released MG-Mini, a free MIDI grabber plugin for Windows. Available in VST3 and Standalone formats, the plugin captures audio input in the background and converts it to MIDI data via a "Grab" button. It supports both single-note (Single Line) and chord-based (Full Stack) modes, and users can drag audio files directly into the interface for conversion.</p><p>The lightweight tool is designed for Windows 10 or later, though a macOS version is currently unavailable. To access the software, users must provide an email address to receive the download link. The developer intentionally omitted features such as note editing and harmonic analysis to maintain a small software footprint.</p>
 <p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/">bedroomproducersblog.com</a> | <a href="https://neverfoundaudio.com/mg-mini">neverfoundaudio.com</a></p>
-<br clear="all" />
-
-<h2>SSL Blitzer Compressor on Sale at Plugin Boutique</h2>
-<a name="story-26945"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJwrWXTV2PL0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Solid State Logic’s SSL Blitzer compressor is available for $19.99 at Plugin Boutique until November 30, discounted from its standard $99 price.</p><p>The plugin combines compression, harmonic drive, and transient shaping, with modes inspired by hardware like the 1176 and LA-2A. Qualifying purchases include a free gift, such as UVI Tape Suite or Excite Audio Evolve Elastic Lite, and the software is compatible with macOS and Windows in VST3, AU, and AAX formats.</p>
-<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=5241029371df5">pluginboutique.com</a></p>
 <br clear="all" />
 
 ---
