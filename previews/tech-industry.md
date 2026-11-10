@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Goldman Sachs Forecasts Anthropic Revenue to Exceed $600 Billion by 2030</h2>
+<a name="story-27050"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftii.imgix.net%2Farticle%2Fpictures%2Fnewsletters-production%2F570d4d27-bc9c-4083-bf21-d7f384db47df-9ckkkr.png%3Fauto%3Dcompress&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Goldman Sachs expects the AI startup Anthropic to generate approximately $52 billion in revenue by 2026, with projections rising to over $600 billion by 2030. The bank also anticipates the company will achieve operating profit in 2029 and reach positive free cash flow by 2030.</p><p>The forecasts suggest a rapid expansion of the company's revenue and scale within the artificial intelligence sector. These projections indicate that the firm would achieve operating profitability and positive cash flow by the end of the decade.</p>
+<p>Nov 10 · <a href="https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58">ft.com</a></p>
+<br clear="all" />
+
 <h2>Reddit Launches Reddit Reviews Product Hub</h2>
 <a name="story-27042"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F08%2Fa-product-review-page-with-ai-generated-content-highlighted.jpg%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reddit is launching "Reddit Reviews," a product hub that uses AI to aggregate and organize discussions from various subreddits into centralized pages. The initial rollout covers 10,000 items in the electronics, health and beauty, home and garden, and fashion categories. These pages will feature sentiment ratings, pros and cons, and tools to filter discussions by specific attributes, such as noise cancellation features.</p><p>This initiative aims to formalize Reddit's commercial presence, as the company has previously noted that 40 percent of its conversations are commercial in nature. The tool positions Reddit as an alternative to traditional review publications and AI-driven search engines by highlighting human-driven discussions. To maintain authenticity, Reddit will not take commissions from retailer links and is increasing its crackdown on brand astroturfing and fake reviews.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26969"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdyd911kmh%2Fimage%2Fupload%2Fv1676548360%2FOpen_AI_Products_618960c677.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Matteo Raso argues that the AI industry is not in a speculative bubble, contending that massive capital expenditures for data centers are one-off infrastructure investments rather than unsustainable operating costs. He cites rapid revenue growth in companies like Anthropic as evidence that the industry is transitioning from heavy investment to high profitability.</p><p>The analysis highlights that major players such as Alphabet, Meta, and NVIDIA maintain stable price-to-earnings ratios, suggesting valuations are supported by actual earnings rather than pure speculation. While acknowledging risks like high debt and regulatory hurdles, the author posits that widespread adoption and massive unmet demand will likely sustain the industry's growth.</p>
 <p>Nov 9 · <a href="https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists">matteoraso.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418975">hacker news</a></p>
-<br clear="all" />
-
-<h2>Donald Tang Discusses Stepping Down from Shein</h2>
-<p>Former Shein Executive Chair Donald Tang states his decision to resign was a personal choice made weeks before the company's troubled initial public offering (IPO). He addresses recent fluctuations in Shein's valuation and the circumstances surrounding his departure from the fast-fashion retailer.</p><p>The interview provides insight into leadership transitions at Shein as the company navigates valuation challenges and its ongoing pursuit of a public listing. Tang's remarks offer perspective on the strategic pressures facing the retailer during a period of market volatility.</p>
-<p>Nov 9 · <a href="https://www.ft.com/content/109aa143-93b4-4b39-9ccd-4ae5a0cf3004">ft.com</a></p>
 <br clear="all" />
 
 ---
