@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Terminal2Shell Described as Design-Level Vulnerability in Terminal Emulators</h2>
+<a name="story-26983"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcomputerscience.chemeketa.edu%2FCS205%2F_images%2Fterminal-emulator.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Terminal2Shell is described as a design-level vulnerability in terminal emulators that provides instant shell access upon launching a terminal application. The flaw stems from the terminal's standard function of spawning a shell process connected to the user's keyboard, allowing for the execution of arbitrary commands with the privileges of the logged-in user. Affected systems include macOS, Linux, Windows, and various BSD distributions.</p><p>No vendor patches are currently available to remediate this vulnerability. Suggested mitigations include avoiding terminal applications, closing terminals immediately after use, or setting the shell to `/bin/false`. The article includes a working proof of concept and a historical timeline of shell implementations.</p>
+<p>Nov 9 · <a href="https://terminal2shell.com/">terminal2shell.com</a> | <a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50426769">hacker news</a></p>
+<br clear="all" />
+
 <h2>Foldable Flight Offers Paper Airplane Templates and Products</h2>
 <a name="story-26974"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.etsystatic.com%2F18689648%2Fr%2Fil%2F54e6df%2F2357008504%2Fil_1588xN.2357008504_fote.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Foldable Flight provides a collection of paper airplane designs, including models like Firefly 5, Unite, and Arrowhead. The site offers templates for different paper types, such as A4, US Letter, and square, while providing performance metrics for speed, glide, and accuracy.</p><p>Certain designs are associated with flight records, such as Firefly 5 and the Unite model, which holds a world record for time aloft at 31.2 seconds. The collection includes models for various skill levels and designs inspired by aircraft like the SU-27 and F-14 Tomcat.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26833"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F35becfa5-7fe4-4ab3-8c80-df8348fa41f7&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GitHub has launched an opt-in public preview of a redesigned pull request overview page intended to streamline merge status checks and next steps. The layout places merge readiness indicators, checks, comments, and recent activity into a compact summary at the top of the interface.</p><p>The update aims to eliminate excessive scrolling through lengthy comment timelines by providing immediate visibility into blocking items and required actions. Additionally, the preview introduces new conversation filters, chronological comment sorting, and header controls that allow users to manage reviews and track project activity more efficiently.</p>
 <p>Nov 8 · <a href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/">github.blog</a> | <a href="https://news.ycombinator.com/item?id=50408931">hacker news</a></p>
-<br clear="all" />
-
-<h2>Technical Overview of Email Architecture, SMTP, and Message Formats</h2>
-<a name="story-26830"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4160909%2Fslide22-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An architectural and technical breakdown of how email functions examines the roles of mail user agents, transfer agents, and delivery agents within the Simple Mail Transfer Protocol framework. It details the step-by-step transmission process, covering domain name system mail exchange lookups, connection handshakes, and command-and-response interactions between servers.</p><p>The overview also addresses sender authentication mechanisms such as the Sender Policy Framework and DomainKeys Identified Mail, along with historical message formatting standards including multipurpose internet mail extensions, quoted-printable encoding, and base64. It highlights how legacy design constraints and modern security requirements continue to shape email delivery infrastructure.</p>
-<p>Nov 8 · <a href="https://maurycyz.com/misc/email/">maurycyz.com</a> | <a href="https://lobste.rs/s/jnz4v5/bit_about_email">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50420383">hacker news</a></p>
 <br clear="all" />
 
 ---

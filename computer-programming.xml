@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-09T20:17:00+00:00</updated>
+  <updated>2026-11-09T23:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Terminal2Shell Described as Design-Level Vulnerability in Terminal Emulators</title>
+    <link href="https://terminal2shell.com/" rel="alternate" />
+    <id>https://terminal2shell.com/::v240</id>
+    <published>2026-11-09T23:32:00+00:00</published>
+    <updated>2026-11-09T23:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcomputerscience.chemeketa.edu%2FCS205%2F_images%2Fterminal-emulator.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://terminal2shell.com/">terminal2shell.com</a> | <a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50426769">hacker news</a></small></p><hr/><p>Terminal2Shell is described as a design-level vulnerability in terminal emulators that provides instant shell access upon launching a terminal application. The flaw stems from the terminal's standard function of spawning a shell process connected to the user's keyboard, allowing for the execution of arbitrary commands with the privileges of the logged-in user. Affected systems include macOS, Linux, Windows, and various BSD distributions.</p><p>No vendor patches are currently available to remediate this vulnerability. Suggested mitigations include avoiding terminal applications, closing terminals immediately after use, or setting the shell to `/bin/false`. The article includes a working proof of concept and a historical timeline of shell implementations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcomputerscience.chemeketa.edu%2FCS205%2F_images%2Fterminal-emulator.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 05:18 UTC | #26983</small>]]></content>
+  </entry>
   <entry>
     <title>Foldable Flight Offers Paper Airplane Templates and Products</title>
     <link href="https://www.foldableflight.com" rel="alternate" />
