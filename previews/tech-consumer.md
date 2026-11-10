@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Valve Adds Steam Deck Average FPS Data to Steam Store Pages</h2>
+<a name="story-27063"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2023%2F11%2FIMG_8144-scaled-1152x648-1794329069.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Valve has begun displaying average frame rate data and histograms for the Steam Deck and Steam Deck OLED on various Steam Store pages. This information is compiled from anonymized, opt-in player statistics collected since February and is intended to supplement the "Steam Deck Verified" program by providing more granular performance expectations.</p><p>While Valve notes that user settings like VSync or frame rate limits can influence the accuracy of these measurements, the data helps players distinguish between performance levels in "Verified" titles and provides insight into how well "Unsupported" games actually run on the handheld hardware.</p>
+<p>Nov 10 · <a href="https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/">arstechnica.com</a> | <a href="https://steamcommunity.com/games/593110/announcements/detail/685269801333948420">steamcommunity.com</a></p>
+<br clear="all" />
+
 <h2>Grand Theft Auto VI to Support Xbox Cloud Gaming on Xbox One and Series X/S</h2>
 <a name="story-27039"><img src="https://wsrv.nl/?url=https%3A%2F%2Flaimingakonsole.lt%2Fcdn%2Fshop%2Ffiles%2Fseriexgta-2j8mwtgiig.webp%3Fv%3D1774882331%26width%3D1445&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Xbox Cloud Gaming will support Grand Theft Auto VI on Xbox One and Series X/S consoles upon its launch next week. This allows Xbox One users to stream the game using Xbox Series S graphics settings, though the service is restricted to Xbox hardware rather than being available on PC, web, or TVs.</p><p>Microsoft holds effective cloud streaming exclusivity on Xbox hardware during the launch period, though Rockstar Games confirmed the game will also support Remote Play on PlayStation and Xbox consoles. The title will run at 30fps on PS5, PS5 Pro, and Xbox Series X/S, with the PS5 Pro version offering ray-traced shadows and PlayStation Spectral Super Resolution (PSSR) support.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26707"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshiftdelete.net%2Fstatic%2Fimg%2Fcontent%2F26-11%2F06%2Funity-acquisition.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unity Software is reportedly in discussions with a consortium of investors, including private equity firm Silver Lake and Saudi Arabia's Public Investment Fund, to explore a potential acquisition. The talks, first reported by Reuters, could result in a leveraged buyout of the game engine provider.</p><p>Both Silver Lake and the PIF recently finalized a leveraged buyout of Electronic Arts. Silver Lake already holds an eight percent stake in Unity, while the PIF has aggressively expanded its investments across the global video game and technology sectors.</p>
 <p>Nov 6 · <a href="https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition">gamedeveloper.com</a> | <a href="https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50394796">hacker news</a></p>
-<br clear="all" />
-
-<h2>Fox Closes $22 Billion Roku Acquisition Ahead of Schedule</h2>
-<a name="story-26685"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic-www.adweek.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2024%2F02%2FFox-News-Media.jpeg%3Fw%3D1239&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Fox Corp. has officially completed its $22 billion acquisition of streaming platform Roku ahead of its previously anticipated 2027 timeline. Roku founder and CEO Anthony Wood will join the Fox board of directors and serve as co-chair of Fox Digital Platforms alongside Paul Cheesbrough, overseeing a newly combined division that includes Roku, Tubi, and other digital assets.</p><p>The transaction significantly expands Fox's presence in the free, ad-supported streaming market and digital video advertising space, uniting a platform with over 100 million households with Fox's media assets. Fox stated it intends to maintain Roku as an open ecosystem for the broader streaming industry while expecting to generate about $400 million in annualized cost synergies within two years.</p>
-<p>Nov 6 · <a href="https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/">variety.com</a></p>
 <br clear="all" />
 
 ---

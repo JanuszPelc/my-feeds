@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Reddit Launches Reddit Reviews Product Hub</h2>
+<a name="story-27042"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F08%2Fa-product-review-page-with-ai-generated-content-highlighted.jpg%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Reddit is launching "Reddit Reviews," a product hub that uses AI to aggregate and organize discussions from various subreddits into centralized pages. The initial rollout covers 10,000 items in the electronics, health and beauty, home and garden, and fashion categories. These pages will feature sentiment ratings, pros and cons, and tools to filter discussions by specific attributes, such as noise cancellation features.</p><p>This initiative aims to formalize Reddit's commercial presence, as the company has previously noted that 40 percent of its conversations are commercial in nature. The tool positions Reddit as an alternative to traditional review publications and AI-driven search engines by highlighting human-driven discussions. To maintain authenticity, Reddit will not take commissions from retailer links and is increasing its crackdown on brand astroturfing and fake reviews.</p>
+<p>Nov 10 · <a href="https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping">theverge.com</a> | <a href="https://redditinc.com/news/introducing-reddit-reviews">redditinc.com</a> | <a href="https://news.ycombinator.com/item?id=50441747">hacker news</a></p>
+<br clear="all" />
+
 <h2>TSMC to Invest up to $1 Billion in Anthropic and OpenAI</h2>
 <p>TSMC intends to allocate up to $500 million each to Anthropic and OpenAI via IPO-priced shares and preferred stock. This $1 billion total investment is designed to meet the growing long-term demand for AI technology.</p><p>The move underscores the strategic interdependence between semiconductor manufacturers and leading artificial intelligence developers. Through these equity positions, TSMC aims to solidify its role within the global AI ecosystem.</p>
 <p>Nov 10 · <a href="https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/">reuters.com</a></p>
@@ -87,11 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Donald Tang Discusses Stepping Down from Shein</h2>
 <p>Former Shein Executive Chair Donald Tang states his decision to resign was a personal choice made weeks before the company's troubled initial public offering (IPO). He addresses recent fluctuations in Shein's valuation and the circumstances surrounding his departure from the fast-fashion retailer.</p><p>The interview provides insight into leadership transitions at Shein as the company navigates valuation challenges and its ongoing pursuit of a public listing. Tang's remarks offer perspective on the strategic pressures facing the retailer during a period of market volatility.</p>
 <p>Nov 9 · <a href="https://www.ft.com/content/109aa143-93b4-4b39-9ccd-4ae5a0cf3004">ft.com</a></p>
-<br clear="all" />
-
-<h2>EU Proposes Digital Fairness Act Targeting Addictive Social Media and AI Bots</h2>
-<p>The European Union is drafting the Digital Fairness Act to regulate addictive social media features and AI chatbots that simulate human relationships. The proposed law would require tech companies to allow adult users to disable features designed to maximize engagement.</p><p>The legislation seeks to mitigate the psychological effects of certain digital design patterns and interactive AI models. If passed, it will force significant changes to how social media platforms and AI developers structure user interactions.</p>
-<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50427605">hacker news</a></p>
 <br clear="all" />
 
 ---
