@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Toontrack Releases Neon Void EKX for EZkeys 2</h2>
+<a name="story-27056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt761_neonvoidekx_top-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Neon Void EKX is a sound expansion for EZkeys 2 that focuses on darkwave, industrial metal, and cinematic sound design. The library includes 67 playable presets—covering keys, pads, textures, leads, and basses—alongside various cinematic effects like subs, impacts, hits, and risers.</p><p>The sound library was created using classic hardware, modular synthesis, and foley recordings processed through granular effects and distortion. To complement the presets, the expansion also includes a library of MIDI patterns and specifically developed song arrangements. The software is available for $89.</p>
+<p>Nov 10 · <a href="https://www.kvraudio.com/news/toontrack-releases-neon-void-ekx-for-ezkeys-2-69745?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69745">kvraudio.com</a> | <a href="https://www.toontrack.com/product/neon-void-ekx/">toontrack.com</a></p>
+<br clear="all" />
+
 <h2>Audio Hertz Releases Soklo GS-5 Guitar Synth</h2>
 <a name="story-27045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsoklo-gs-5-gui-3d.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio Hertz has released the Soklo GS-5 Guitar Synth, a plugin developed in collaboration with experimental guitarist Soklo. The software uses pitch detection and resynthesis to track single guitar notes directly from audio without the need for MIDI pickups, supporting bends, slides, and vibrato with approximately 12 ms latency.</p><p>The plugin features five synth engines—Deep, Vintage, Solo, Strings, and Harmony—and includes built-in effects such as distortion, bitcrush, and gated reverb. It is available for macOS and Windows in VST3, AU, and AAX formats, with an introductory price of $39 USD.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26946"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F06%2FMaono-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Maono has launched the PD500W hybrid microphone for content creators following a successful crowdfunding campaign. The device features 2.4GHz wireless, USB-C, and XLR connectivity, alongside 32GB of onboard storage that supports 24-bit or 32-bit float audio recording.</p><p>Designed for podcasting, streaming, and video production, the microphone integrates with MaonoLink software to provide AI-powered transcription and summarization. It is available via the Maono website and Amazon US in a $399 Basic Version or a $429 Desk Stand Bundle.</p>
 <p>Nov 9 · <a href="https://musictech.com/news/gear/maono-pd500w-available-now/">musictech.com</a> | <a href="https://www.maono.com/products/maono-pd500w-hybrid-microphone-for-podcast">maono.com</a></p>
-<br clear="all" />
-
-<h2>Never Found Audio Releases MG-Mini Free MIDI Grabber Plugin</h2>
-<p>Never Found Audio has released MG-Mini, a free MIDI grabber plugin for Windows. Available in VST3 and Standalone formats, the plugin captures audio input in the background and converts it to MIDI data via a "Grab" button. It supports both single-note (Single Line) and chord-based (Full Stack) modes, and users can drag audio files directly into the interface for conversion.</p><p>The lightweight tool is designed for Windows 10 or later, though a macOS version is currently unavailable. To access the software, users must provide an email address to receive the download link. The developer intentionally omitted features such as note editing and harmonic analysis to maintain a small software footprint.</p>
-<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/">bedroomproducersblog.com</a> | <a href="https://neverfoundaudio.com/mg-mini">neverfoundaudio.com</a></p>
 <br clear="all" />
 
 ---
