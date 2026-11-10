@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Ring Launches Home Security Drone and Enterprise Security Robot</h2>
+<a name="story-27058"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcapwolf.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fring-drone-cam-and-rover-robot-transform-home-security-768x429.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ring, the Amazon-owned home security company, has launched a new robotics division featuring a home security drone and an enterprise security robot. The Ring Drone Cam is a 2K flying indoor security camera designed to patrol homes autonomously or integrate with Ring alarm systems, while the Ring Rover Cam is a 4K roving robot built for businesses with adjustable periscope cameras and two-way audio.</p><p>Both devices are powered by Ring's proprietary AI Pilot system to autonomously map spaces and navigate environments. The enterprise Rover robot is scheduled for release on December 16 at a price of $1,000, followed by the drone on January 27 for $270, with both utilizing advanced encryption for recorded footage amid ongoing privacy scrutiny surrounding the brand's surveillance products.</p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/">techcrunch.com</a></p>
+<br clear="all" />
+
+<h2>BT CEO Allison Kirkby Says Starlink Deal is Ready to Launch Pending Ukraine Fallout</h2>
+<a name="story-27009"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.telecomtv.com%2Fassets%2Ftelecomtv%2Fallison-kirkby-16781.jpg%3Fw%3D896%26h%3D504%26crop%3Dauto&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>BT chief executive Allison Kirkby stated that a partnership agreement with SpaceX's Starlink is fully prepared for launch, but the telecommunications company is exercising caution regarding public perception. The hesitation follows controversy surrounding Starlink service cutoffs in Ukraine and subsequent battlefield disruptions.</p><p>Kirkby noted that the rollout will remain on hold until the current public scrutiny and controversy surrounding the satellite service subside. The potential deal would expand BT's connectivity options, but management wants to ensure the association does not negatively impact the company's reputation.</p>
+<p>Nov 10 · <a href="https://www.ft.com/content/2bb44a56-abbe-432a-8205-5e28a0a2e839">ft.com</a></p>
+<br clear="all" />
+
 <h2>Gadhouse Releases Eric CD Player with Bluetooth and Portable Playback</h2>
 <a name="story-27013"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGadhouse-Eric%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Gadhouse has introduced the Eric CD Player, a portable and wall-mountable audio device designed to support standard CDs and HQCDs. The unit features built-in FM radio, Bluetooth connectivity, a 3.5mm headphone output, and an auxiliary output for integration with home audio systems.</p><p>The player weighs 308 grams, incorporates anti-skip technology, and provides up to four hours of battery life through USB-C charging. Supporting CD-R, CD-RW, WMA, and MP3 playback, the Eric is currently available in an ivory finish for $84.50 or £59.99, with more color options expected in 2027.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26701"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fgta6-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Former Rockstar technical director Obbe Vermeij warns that emerging AI-powered reverse-engineering tools could enable third parties to port complex console games like Grand Theft Auto VI to PC. He suggests this capability might force developers to narrow the release window between console and PC editions to preempt unauthorized AI-generated ports.</p><p>Although converting a massive, highly detailed game via AI would incur significant token costs and produce a product inferior to an official release, Vermeij notes that modern AI coding harnesses permanently alter the security calculus for delayed platform releases. Rockstar has not officially announced a release date for a PC version, though reports indicate it could arrive in early 2027.</p>
 <p>Nov 6 · <a href="https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/">arstechnica.com</a></p>
-<br clear="all" />
-
-<h2>Jimmy Maher Analyzes the Design and Legacy of Deus Ex</h2>
-<a name="story-26716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.filfre.net%2Fwp-content%2Fuploads%2F2026%2F10%2F4601346-deus-ex-windows-front-cover-515x600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jimmy Maher’s retrospective on Ion Storm’s 2000 role-playing shooter Deus Ex examines both its celebrated status as an immersive sim masterpiece and the cultural hyperbole surrounding its legacy. Drawing on the design lineage of Looking Glass Studios and games like System Shock, the article explores how Deus Ex combined multi-variant problem solving with a traditional linear campaign structure.</p><p>The essay highlights the tension between the game's reputation as a prescient work of interactive philosophy and the pragmatic realities of its development. It details behind-the-scenes anecdotes, including Warren Spector's revelation at a 2017 Game Developers Conference postmortem that the protagonist's initials, J.C. Denton, originated from a playfully exasperated exclamation about a helpful friend rather than grand theological symbolism.</p>
-<p>Nov 6 · <a href="https://www.filfre.net/2026/11/deus-ex/">filfre.net</a> | <a href="https://news.ycombinator.com/item?id=50393758">hacker news</a></p>
-<br clear="all" />
-
-<h2>Tesla Plans to Wind Down Cybertruck Production at Texas Gigafactory in Mid-2027</h2>
-<a name="story-26654"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2023%2F07%2Fcybertruck-frame.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tesla plans to wind down production of the Cybertruck at its Gigafactory Texas in mid-2027 to accommodate increased manufacturing of the Cybercab. Chief Executive Officer Elon Musk announced the shift in a social media post, stating that the facility space is needed to ramp up output for the autonomous vehicle.</p><p>The announcement leaves open whether Cybertruck production will be relocated to another facility or phased out entirely following the mid-2027 wind-down. The Austin plant has served as the primary manufacturing hub for the electric pickup truck since its launch.</p>
-<p>Nov 6 · <a href="https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98">ft.com</a> | <a href="https://x.com/elonmusk/status/2118591788701421573">x.com</a> | <a href="https://news.ycombinator.com/item?id=50393154">hacker news</a></p>
 <br clear="all" />
 
 ---

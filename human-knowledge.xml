@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-10T10:54:00+00:00</updated>
+  <updated>2026-11-10T13:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Biomarkers and 'Cell Villages' as Tools for Predicting Disease Vulnerability</title>
+    <link href="https://theconversation.com/what-are-biomarkers-a-biologist-explains-how-doctors-measure-your-health-and-how-combining-cells-from-different-people-can-find-new-markers-292083" rel="alternate" />
+    <id>https://theconversation.com/what-are-biomarkers-a-biologist-explains-how-doctors-measure-your-health-and-how-combining-cells-from-different-people-can-find-new-markers-292083::v240</id>
+    <published>2026-11-10T13:37:00+00:00</published>
+    <updated>2026-11-10T13:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770382%2Foriginal%2Ffile-20261105-64-rwx1pf.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/what-are-biomarkers-a-biologist-explains-how-doctors-measure-your-health-and-how-combining-cells-from-different-people-can-find-new-markers-292083">theconversation.com</a></small></p><hr/><p>Measurable biological indicators, such as heart rate, white blood cell counts, and genetic variants, serve as critical tools for assessing current and future health. Traditionally, researchers identify these markers by comparing biological differences between different groups or individuals over time to understand disease susceptibility.</p><p>Using stem cell technology, scientists are creating "cell villages" by pooling brain cells from hundreds of donors into single culture dishes. This method allows for the observation of how diverse cells respond to environmental stressors like toxins or viruses, facilitating the creation of an atlas to predict individual vulnerability to various diseases.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770382%2Foriginal%2Ffile-20261105-64-rwx1pf.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 18:47 UTC | #27032</small>]]></content>
+  </entry>
   <entry>
     <title>e-means Algorithm Achieves Faster K-Means Clustering</title>
     <link href="https://e-means.github.io/" rel="alternate" />
