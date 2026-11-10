@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Google Gemini Routes Personal Drive Files and Emails to Human Reviewers</h2>
+<a name="story-26999"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA228hZP.img%3Fw%3D768%26h%3D457%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Documentation published on GitHub details how Google's Gemini AI with Connected Apps enabled can autonomously route personal Gmail and Google Drive files into human review pipelines. This ingestion occurs probabilistically during background conversations without requiring explicit user tags, contradicting earlier privacy commitments.</p><p>Testing demonstrates that background tool calls can extract partial quotes or ingest full, unredacted documents containing sensitive personally identifiable information into session contexts. Automated deidentification systems often fail to properly scrub narrative data like account numbers and transaction details, meaning private user files may be exposed to human contractors.</p>
+<p>Nov 10 · <a href="https://github.com/thisisme6598/gemini_files/">github.com</a> | <a href="https://news.ycombinator.com/item?id=50429426">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;USPS Provides National ZIP Code Boundary Data on PostalPro</h2>
 <a name="story-26996"><img src="https://wsrv.nl/?url=https%3A%2F%2Fadamsprintablemap.net%2Fwp-content%2Fuploads%2F2022%2F09%2Fusps-zip-code-map-by-state-printable-map-768x526.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>USPS ZIP Code Boundaries is a national mapping dataset that utilizes delivery address and location information to provide accurate geographic boundaries. The data reflects temporal fluctuations caused by changing delivery distribution for new or modified locations.</p><p>Offered through PostalPro in Internal, Enterprise, and Publication tiers with four quarterly updates, the dataset serves industries such as mapping, real estate, logistics, and insurance. It enables users to incorporate polygon data for demographic analysis, optimize routing, and update existing geographic information systems.</p>
@@ -100,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26856"><img src="https://wsrv.nl/?url=https%3A%2F%2Fketchup3d.github.io%2Fapp%2Fassets%2Fscreenshots%2Fketchup.jpg%3Fv%3D0.6.5-r2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>KetchUp is a free, open-source 3D modeling application built with Rust and WebGPU, designed specifically for woodworking and furniture planning. The software enables users to sketch shapes, apply exact measurements, and organize complex assemblies using groups, components, and tags prior to construction.</p><p>The application runs natively on Windows, macOS, and Linux, or directly within compatible desktop web browsers without requiring an account or cloud storage. It supports local autosaving, importing SketchUp geometry, exporting Wavefront OBJ files, and saving portable project files directly to the user's device.</p>
 <p>Nov 9 · <a href="https://ketchup3d.github.io/app/">ketchup3d.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418176">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/computer-security.png" width="28" align="texttop" /> &nbsp;Apiiro Examines Security Risks of Coding Agents Leaking Secrets on GitHub</h2>
-<a name="story-26796"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northdoor.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2FAI-Coding-Agents-infographic-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apiiro examines the security implications of AI coding agents inadvertently leaking sensitive credentials and secrets to platforms like GitHub. The post explores how automated development tools and agentic workflows can introduce new vulnerabilities when handling sensitive information without adequate guardrails.</p><p>The discussion highlights the challenges organizations face in securing AI-driven development environments where autonomous agents interact with code repositories. It underscores the need for robust control planes and security monitoring to prevent accidental data exposure during automated coding tasks.</p>
-<p>Nov 9 · <a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again">apiiro.com</a> | <a href="https://news.ycombinator.com/item?id=50407882">hacker news</a></p>
 <br clear="all" />
 
 ---
