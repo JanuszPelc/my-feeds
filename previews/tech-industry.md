@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Paul Cochrane Defends &quot;Buy Me a Coffee&quot; Links on Personal Blogs</h2>
+<a name="story-26992"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpeateasea.de%2Fassets%2Fimages%2Fchefpresso-cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Paul Cochrane argues that "buy me a coffee" links on personal blogs serve as important tools for recognition and feedback rather than primary revenue streams. He addresses concerns about the increasing monetization of the internet by framing these links as a form of social validation.</p><p>Using a street busker as an analogy, Cochrane explains that such links allow readers to express appreciation without being obligated to pay. He notes that for many small creators, the psychological benefit of knowing their work is valued often outweighs the financial contribution itself.</p>
+<p>Nov 10 · <a href="https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/">peateasea.de</a> | <a href="https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee">lobsters</a></p>
+<br clear="all" />
+
 <h2>Anthropic Plans to Move Forward with IPO</h2>
 <a name="story-26973"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260415%2Fanthropic-openai-ipo-valuation-800-billion-3-fa8f7f698a2541bdb92d63ec62135f27.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic intends to set a valuation range this week and begin trading as early as next week to move forward with its initial public offering. The decision comes despite recent market volatility and scrutiny surrounding prominent figures in the AI industry.</p><p>Investors are viewing the company's valuation as a gauge for the AI market's health, with targets reportedly between $1.5 trillion and $2 trillion. This follows a recent $1.25 trillion valuation for competitor OpenAI.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbionewsly.com%2Fwp-content%2Fuploads%2F2025%2F09%2Ffa3cd730-d178-42ca-a1f4-b9d5de6eca88.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia Senior Director Madison Huang has canceled a high-profile appearance in Seoul due to a family matter, disrupting plans to highlight the company's partnerships with key South Korean artificial intelligence firms. Huang, the daughter of Nvidia co-founder Jensen Huang, had been scheduled to participate in events showcasing deepening technological ties in the region.</p><p>The cancellation impacts scheduled engagements meant to reinforce collaborative efforts between the chipmaker and major local technology stakeholders. Nvidia's expanding footprint in South Korea's AI sector remains a focal point for industry observers following the abrupt change in schedule.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Pilita Clark Discusses Challenges of Manager Compensation in the Age of AI Agents</h2>
-<a name="story-26881"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgetstello.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FChatGPT-Image-Apr-29-2026-01_24_08-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Financial Times columnist Pilita Clark examines how the adoption of artificial intelligence agents to replace human employees is complicating traditional corporate compensation structures. Because managerial grades and pay have historically depended on the size of a human headcount, organizations face a new dilemma when managers oversee automated software tools instead of traditional teams.</p><p>The emerging issue highlights broader challenges as businesses integrate automation into human resources and leadership metrics. Traditional benchmarks for evaluating managerial influence and compensation may require significant restructuring to account for productivity driven by digital agents rather than large groups of direct reports.</p>
-<p>Nov 9 · <a href="https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682">ft.com</a></p>
 <br clear="all" />
 
 ---
