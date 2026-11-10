@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Noizplay Updates nyVERB Core to v1.2.2</h2>
+<a name="story-27011"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnyverb-core-overview.1794310692.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>noizplay has released version 1.2.2 of nyVERB core, the free edition of its reverb plugin. The update introduces six customizable profiles—room, drums, vocal, plate, wash, and sync—that dictate how the single space knob controls the engine's behavior.</p><p>The new sync profile synchronizes decay and pre-delay parameters to the host project's tempo, ranging from 1/16 to 2 bars. Additionally, version 1.2.2 includes an optional update check and stability fixes, with sessions saved in older versions defaulting to the room profile.</p>
+<p>Nov 10 · <a href="https://www.kvraudio.com/news/noizplay-updates-nyverb-core-to-v1-2-2-69730?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69730">kvraudio.com</a> | <a href="https://noizplay.com/nyverb-core/">noizplay.com</a></p>
+<br clear="all" />
+
+<h2>DirektDSP Releases Polygraph Real-Time Audio-to-MIDI Plugin</h2>
+<a name="story-27012"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsocial-card.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DirektDSP has released Polygraph, a real-time, polyphonic audio-to-MIDI plugin designed for instruments like electric guitars, pianos, and synthesizers. The software converts live audio input into MIDI data, supporting complex tracking for chords, single notes, bends, and re-plucks.</p><p>The plugin includes a dedicated lead mode for single-note tracking with full pitch bend and MPE support, alongside a Scale Lock feature that restricts output MIDI to 12 predefined scales or custom notes. It also features a built-in synthesizer with five waveforms and an ADSR envelope, and is available for Windows, macOS, and Linux in VST3, AU, CLAP, and standalone formats.</p>
+<p>Nov 10 · <a href="https://www.kvraudio.com/news/direktdsp-releases-polygraph---real-time-audio-to-midi-plugin-for-windows-macos-linux-au-clap-and-vst3-69718?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69718">kvraudio.com</a> | <a href="https://direktdsp.com/products/polygraph">direktdsp.com</a></p>
+<br clear="all" />
+
 <h2>noshigeSound Releases noshige73 LITE Free 1073-Style EQ Plugin</h2>
 <p>noshigeSound has released noshige73 LITE, a free, 1073-style console equalizer plugin available for macOS and Windows in VST3, AU, and AAX formats. The processor includes a fixed high shelf, four low-shelf frequencies, six selectable mid frequencies, a high-pass filter, and an interactive graphical EQ display.</p><p>While sharing features with the paid PRO version, the LITE edition employs a smaller emulation model. The plugin is resource-intensive, though users can offload processing to a compatible GPU to reduce CPU load under specific buffer constraints.</p>
 <p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/">bedroomproducersblog.com</a> | <a href="https://noshigesound.com/products/noshige73">noshigesound.com</a></p>
@@ -81,18 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26934"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvsl_viennaperformer_gui1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vienna Symphonic Library (VSL) has released Vienna Performer, a plugin that converts written musical notes into audio performances. The software uses AI models trained on recordings from the Vienna Synchron Orchestra to apply specific articulations, phrasing, and acoustic characteristics to user-provided MIDI or notation data.</p><p>The launch includes nine instruments, including solo flute, clarinet, and horn, as well as various string ensembles. Available on macOS and Windows in VST, VST3, AU, and AAX formats, the plugin is accessible via a subscription model tiered by monthly "render minutes" and requires an internet connection.</p>
 <p>Nov 9 · <a href="https://www.kvraudio.com/news/vienna-symphonic-library-releases-vienna-performer-69663?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69663">kvraudio.com</a> | <a href="https://www.vsl.co.at/vienna-performer">vsl.co.at</a></p>
-<br clear="all" />
-
-<h2>Positive Grid Adds NAM Capture Support to BIAS X</h2>
-<a name="story-26931"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbias-x-nam-menu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Positive Grid has updated BIAS X to version 1.3, introducing support for loading Neural Amp Modeler (NAM) captures directly into the software.</p><p>Once loaded into the amp slot, these captures can be used in conjunction with BIAS X's effects and tone control parameters.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/positive-grid-adds-support-for-nam-capture-to-bias-x-1-3-69713?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69713">kvraudio.com</a> | <a href="https://www.positivegrid.com/pages/bias-x">positivegrid.com</a></p>
-<br clear="all" />
-
-<h2>Sennheiser Announces Scenico and Polifonia In-Car Audio Technologies</h2>
-<a name="story-26928"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSennheiser-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sennheiser Mobility has unveiled Scenico and Polifonia, two software modules designed for automotive manufacturers to enhance in-car audio. Scenico uses AMBEO technology to deliver immersive sound via dashboard-integrated transducers, which may allow for the removal of door speakers to increase design flexibility and ease recycling. Polifonia employs headrest speakers and noise cancellation to create personalized audio zones for each seat.</p><p>These technologies enable acoustic separation between occupants, such as allowing a driver to hear navigation guidance without disturbing passengers listening to music. Sennheiser is currently inviting car brands to request demonstrations of these technologies.</p>
-<p>Nov 9 · <a href="https://musictech.com/news/gear/sennheiser-scenico-polifonia/">musictech.com</a> | <a href="https://newsroom.sennheiser.com/sennheiser-debuts-scenico-and-polifonia-advancing-immersive-in-car-sound-reproduction-and-personalized-audio-delivery">newsroom.sennheiser.com</a></p>
 <br clear="all" />
 
 ---

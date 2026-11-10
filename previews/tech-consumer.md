@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Gadhouse Releases Eric CD Player with Bluetooth and Portable Playback</h2>
+<a name="story-27013"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGadhouse-Eric%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Gadhouse has introduced the Eric CD Player, a portable and wall-mountable audio device designed to support standard CDs and HQCDs. The unit features built-in FM radio, Bluetooth connectivity, a 3.5mm headphone output, and an auxiliary output for integration with home audio systems.</p><p>The player weighs 308 grams, incorporates anti-skip technology, and provides up to four hours of battery life through USB-C charging. Supporting CD-R, CD-RW, WMA, and MP3 playback, the Eric is currently available in an ivory finish for $84.50 or £59.99, with more color options expected in 2027.</p>
+<p>Nov 10 · <a href="https://musictech.com/news/gear/gadhouse-eric/">musictech.com</a> | <a href="https://cd.gadhouse.com/">cd.gadhouse.com</a></p>
+<br clear="all" />
+
 <h2>Take-Two Q2 Net Bookings Fall 18% as NBA 2K27 Sales Miss Due to GTA VI</h2>
 <a name="story-26971"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgameworldobserver.com%2Fwp-content%2Fuploads%2F2024%2F11%2Ftake-two-q2-revenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Take-Two Interactive reported an 18% year-over-year decrease in Q2 total net bookings to $1.6 billion, falling short of the $1.65 billion expected by analysts. The publisher noted that sales for NBA 2K27 missed forecasts, a decline it attributed in part to the anticipation surrounding Grand Theft Auto VI.</p><p>While facing the quarterly miss, Take-Two reiterated its financial outlook for fiscal year 2027. The results highlight the internal competition between high-profile franchises, as the massive scale of the Grand Theft Auto series can impact the sales performance of other major releases.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26654"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2023%2F07%2Fcybertruck-frame.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tesla plans to wind down production of the Cybertruck at its Gigafactory Texas in mid-2027 to accommodate increased manufacturing of the Cybercab. Chief Executive Officer Elon Musk announced the shift in a social media post, stating that the facility space is needed to ramp up output for the autonomous vehicle.</p><p>The announcement leaves open whether Cybertruck production will be relocated to another facility or phased out entirely following the mid-2027 wind-down. The Austin plant has served as the primary manufacturing hub for the electric pickup truck since its launch.</p>
 <p>Nov 6 · <a href="https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98">ft.com</a> | <a href="https://x.com/elonmusk/status/2118591788701421573">x.com</a> | <a href="https://news.ycombinator.com/item?id=50393154">hacker news</a></p>
-<br clear="all" />
-
-<h2>Microsoft Overhauls Xbox PC, Web, and Cloud Apps With Faster Design</h2>
-<a name="story-26583"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FXBOX-PC-App-1.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft is redesigning its Xbox PC, web, and cloud applications to deliver a faster, simpler interface designed to feel more like a console dashboard. Xbox Insiders can test the updated PC app starting today, while the revised web experience and cloud gaming apps for supported TVs and VR headsets will roll out over the coming weeks.</p><p>According to Microsoft, the overhauled PC app launches up to 60 percent faster, with major improvements to page loading times, library organization, and controller usability. The updated interfaces also incorporate refined social features, custom dark and light modes, and high-contrast options to improve accessibility across devices.</p>
-<p>Nov 5 · <a href="https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign">theverge.com</a> | <a href="https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/">news.xbox.com</a></p>
 <br clear="all" />
 
 ---
