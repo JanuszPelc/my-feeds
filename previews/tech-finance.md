@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>GeniosAI Raises $19.1 Million in Combined Seed and Series A Funding</h2>
+<a name="story-26988"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.axios.com%2F787r_RTLxNAUMLwN_6NXNwoeF0g%3D%2F0x0%3A1920x1080%2F1920x1080%2F2025%2F10%2F27%2F1761605405613.jpeg%3Fw%3D828&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GeniosAI, a developer of artificial intelligence software for financial analysis and modeling, has secured $19.1 million in combined seed and Series A funding. CEO PD Singh announced the round, noting the capital will support the company's growth.</p><p>The funding highlights growing demand for AI tools that can verify underlying numbers and assumptions before financial institutions make decisions. Finance teams increasingly rely on verifiable models to ensure accuracy in automated market and corporate analysis.</p>
+<p>Nov 10 · <a href="https://www.axios.com/pro/fintech-deals/2026/11/09/geniosai-19-1m-factset-financial-analysis-ai">axios.com</a></p>
+<br clear="all" />
+
 <h2>Trump Media &amp; Technology Group Reports Q3 Profit on Digital Asset Gains</h2>
 <a name="story-26978"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5FfE.img%3Fw%3D768%26h%3D512%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Trump Media &amp; Technology Group reported a net profit of $409.7 million for the third quarter of 2026, reversing a $54.8 million loss from the same period the previous year. The company's financial turnaround was primarily driven by non-cash realized and unrealized gains on digital assets and equity securities.</p><p>During the quarter, the parent company of Truth Social generated approximately $3 million in revenue, marking a significant increase year-over-year that was largely fueled by subscription growth from Truth API and Truth+. The financial results arrive ahead of a planned merger between Trump Media and TAE Technologies.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The New York Times Company is in exclusive negotiations to acquire Letterboxd, a social network for film enthusiasts, for approximately $330 million. The proposed deal would likely see Letterboxd continue operating as a standalone site with its co-founders remaining in leadership positions.</p><p>The acquisition is part of the Times Company’s strategy to expand its portfolio of subscription and advertising-based digital products, following acquisitions like The Athletic and Wordle. By integrating Letterboxd’s 30 million users, the company aims to reach its goal of 15 million total subscribers by the end of 2027.</p>
 <p>Nov 5 · <a href="https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Cloudflare Raises Full-Year Guidance Following Strong Third Quarter Revenue Growth</h2>
-<a name="story-26624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quartr.com%2Fimages%2Freports%2Fcloudflare-inc-q3-2024-77c15283ffbbfda4%2F1.png%3Fref%3DbWFya2V0YmVhdA%3D%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cloudflare reported third-quarter revenue of $782.5 million, a 39% year-over-year increase that surpassed analyst estimates of $737.2 million. While the company recorded a $34.1 million net loss, it raised its full-year revenue guidance to approximately $2.96 billion.</p><p>Cloudflare's stock rose more than 14% in after-hours trading following the announcement. The company's improved outlook reflects expected sequential revenue growth through the fourth quarter.</p>
-<p>Nov 5 · <a href="https://www.wsj.com/business/earnings/cloudflare-stock-surges-on-lifted-full-year-outlook-third-quarter-revenue-growth-984186bf">wsj.com</a> | <a href="https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-third-quarter-2026-financial-results/">cloudflare.com</a></p>
 <br clear="all" />
 
 ---

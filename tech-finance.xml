@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-10T03:02:00+00:00</updated>
+  <updated>2026-11-10T07:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>GeniosAI Raises $19.1 Million in Combined Seed and Series A Funding</title>
+    <link href="https://www.axios.com/pro/fintech-deals/2026/11/09/geniosai-19-1m-factset-financial-analysis-ai" rel="alternate" />
+    <id>https://www.axios.com/pro/fintech-deals/2026/11/09/geniosai-19-1m-factset-financial-analysis-ai::v240</id>
+    <published>2026-11-10T07:07:00+00:00</published>
+    <updated>2026-11-10T07:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.axios.com%2F787r_RTLxNAUMLwN_6NXNwoeF0g%3D%2F0x0%3A1920x1080%2F1920x1080%2F2025%2F10%2F27%2F1761605405613.jpeg%3Fw%3D828&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/11/09/geniosai-19-1m-factset-financial-analysis-ai">axios.com</a></small></p><hr/><p>GeniosAI, a developer of artificial intelligence software for financial analysis and modeling, has secured $19.1 million in combined seed and Series A funding. CEO PD Singh announced the round, noting the capital will support the company's growth.</p><p>The funding highlights growing demand for AI tools that can verify underlying numbers and assumptions before financial institutions make decisions. Finance teams increasingly rely on verifiable models to ensure accuracy in automated market and corporate analysis.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.axios.com%2F787r_RTLxNAUMLwN_6NXNwoeF0g%3D%2F0x0%3A1920x1080%2F1920x1080%2F2025%2F10%2F27%2F1761605405613.jpeg%3Fw%3D828&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 14:02 UTC | #26988</small>]]></content>
+  </entry>
   <entry>
     <title>Trump Media &amp; Technology Group Reports Q3 Profit on Digital Asset Gains</title>
     <link href="https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c" rel="alternate" />
