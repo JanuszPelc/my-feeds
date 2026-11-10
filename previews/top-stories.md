@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/computer-programming.png" width="28" align="texttop" /> &nbsp;USPS Provides National ZIP Code Boundary Data on PostalPro</h2>
+<a name="story-26996"><img src="https://wsrv.nl/?url=https%3A%2F%2Fadamsprintablemap.net%2Fwp-content%2Fuploads%2F2022%2F09%2Fusps-zip-code-map-by-state-printable-map-768x526.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>USPS ZIP Code Boundaries is a national mapping dataset that utilizes delivery address and location information to provide accurate geographic boundaries. The data reflects temporal fluctuations caused by changing delivery distribution for new or modified locations.</p><p>Offered through PostalPro in Internal, Enterprise, and Publication tiers with four quarterly updates, the dataset serves industries such as mapping, real estate, logistics, and insurance. It enables users to incorporate polygon data for demographic analysis, optimize routing, and update existing geographic information systems.</p>
+<p>Nov 10 · <a href="https://postalpro.usps.com/zcb">postalpro.usps.com</a> | <a href="https://news.ycombinator.com/item?id=50431058">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/music-production.png" width="28" align="texttop" /> &nbsp;BPB Reader Poll Reveals Attitudes Toward AI in Music Software</h2>
 <a name="story-26924"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.imgix.net%2F2026%2F01%2Fai-tools-music-producers-actually-use-2026.png%3Fauto%3Dcompress%2Cformat%26w%3D1072&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A poll of over 2,000 Bedroom Producers Blog (BPB) readers shows a preference for AI tools designed for specific technical tasks—such as stem separation, noise removal, and code assistance—while expressing strong opposition to AI music generators. Approximately 89% of respondents support AI-related coverage, but 88% rejected tools that generate finished songs from text prompts.</p><p>The results highlight concerns regarding software quality, maintenance, and the ethical use of training data. While some producers utilize AI for specific workflow benefits or accessibility, the consensus favors tools that assist the creative process rather than replacing the musician.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26796"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northdoor.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2FAI-Coding-Agents-infographic-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apiiro examines the security implications of AI coding agents inadvertently leaking sensitive credentials and secrets to platforms like GitHub. The post explores how automated development tools and agentic workflows can introduce new vulnerabilities when handling sensitive information without adequate guardrails.</p><p>The discussion highlights the challenges organizations face in securing AI-driven development environments where autonomous agents interact with code repositories. It underscores the need for robust control planes and security monitoring to prevent accidental data exposure during automated coding tasks.</p>
 <p>Nov 9 · <a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again">apiiro.com</a> | <a href="https://news.ycombinator.com/item?id=50407882">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Nvidia CEO Jensen Huang Sends Letter to Staff Regarding Relationship and Board Investigation</h2>
-<p>Nvidia CEO Jensen Huang admitted to a romantic relationship with a suspected Chinese spy in a company-wide message, apologizing to his family and pledging full cooperation with an independent board investigation.</p><p>The email addresses national security concerns and family privacy while a company representative confirmed that Huang will continue leading Nvidia without interruption as the investigation proceeds.</p>
-<p>Nov 9 · <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
 <br clear="all" />
 
 ---
