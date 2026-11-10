@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Trump Media &amp; Technology Group Reports Q3 Profit on Digital Asset Gains</h2>
+<a name="story-26978"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5FfE.img%3Fw%3D768%26h%3D512%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Trump Media &amp; Technology Group reported a net profit of $409.7 million for the third quarter of 2026, reversing a $54.8 million loss from the same period the previous year. The company's financial turnaround was primarily driven by non-cash realized and unrealized gains on digital assets and equity securities.</p><p>During the quarter, the parent company of Truth Social generated approximately $3 million in revenue, marking a significant increase year-over-year that was largely fueled by subscription growth from Truth API and Truth+. The financial results arrive ahead of a planned merger between Trump Media and TAE Technologies.</p>
+<p>Nov 10 · <a href="https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Mavria Raises $130M at $1B Valuation for Modular Data Centers</h2>
 <a name="story-26955"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dcntglobal.com%2Fwp-content%2Fuploads%2F2025%2F11%2FPrefabricated-Modular-Data-Center.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mavria has secured $130 million in pre-seed and seed funding to develop modular data centers capable of being transported by truck. This funding round, led by Paradigm, establishes a $1 billion valuation for the company.</p><p>The modular design aims to simplify the deployment of data center infrastructure through scalable, shippable units. This approach provides a flexible alternative to traditional, site-built data center construction.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.quartr.com%2Fimages%2Freports%2Fcloudflare-inc-q3-2024-77c15283ffbbfda4%2F1.png%3Fref%3DbWFya2V0YmVhdA%3D%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cloudflare reported third-quarter revenue of $782.5 million, a 39% year-over-year increase that surpassed analyst estimates of $737.2 million. While the company recorded a $34.1 million net loss, it raised its full-year revenue guidance to approximately $2.96 billion.</p><p>Cloudflare's stock rose more than 14% in after-hours trading following the announcement. The company's improved outlook reflects expected sequential revenue growth through the fourth quarter.</p>
 <p>Nov 5 · <a href="https://www.wsj.com/business/earnings/cloudflare-stock-surges-on-lifted-full-year-outlook-third-quarter-revenue-growth-984186bf">wsj.com</a> | <a href="https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-third-quarter-2026-financial-results/">cloudflare.com</a></p>
-<br clear="all" />
-
-<h2>Airbnb Reports 19% Third-Quarter Revenue Jump and Raises Full-Year Guidance</h2>
-<a name="story-26625"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.backlinko.com%2Fapp%2Fuploads%2F2021%2F06%2Fairbnb-revenue-1440x1094.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Airbnb reported third-quarter 2026 revenue of $4.87 billion, marking a 19% year-over-year increase that outpaced Wall Street estimates and represented its fastest growth rate in three years. The company posted earnings of $3.16 per share, beating consensus expectations, while nights and seats booked rose 16% to 155 million.</p><p>Chief Executive Officer Brian Chesky stated that the platform is back in growth mode, prompting management to raise its full-year 2026 revenue outlook for the third time. The stronger-than-expected financial performance drove Airbnb's stock higher in after-hours trading following the announcement.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode">bloomberg.com</a> | <a href="https://news.airbnb.com/airbnb-q3-2026-financial-results">news.airbnb.com</a></p>
 <br clear="all" />
 
 ---

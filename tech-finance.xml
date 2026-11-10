@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-09T20:16:00+00:00</updated>
+  <updated>2026-11-10T03:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Trump Media &amp; Technology Group Reports Q3 Profit on Digital Asset Gains</title>
+    <link href="https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c" rel="alternate" />
+    <id>https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c::v240</id>
+    <published>2026-11-10T03:02:00+00:00</published>
+    <updated>2026-11-10T03:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5FfE.img%3Fw%3D768%26h%3D512%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c">wsj.com</a></small></p><hr/><p>Trump Media &amp; Technology Group reported a net profit of $409.7 million for the third quarter of 2026, reversing a $54.8 million loss from the same period the previous year. The company's financial turnaround was primarily driven by non-cash realized and unrealized gains on digital assets and equity securities.</p><p>During the quarter, the parent company of Truth Social generated approximately $3 million in revenue, marking a significant increase year-over-year that was largely fueled by subscription growth from Truth API and Truth+. The financial results arrive ahead of a planned merger between Trump Media and TAE Technologies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5FfE.img%3Fw%3D768%26h%3D512%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 10:05 UTC | #26978</small>]]></content>
+  </entry>
   <entry>
     <title>Mavria Raises $130M at $1B Valuation for Modular Data Centers</title>
     <link href="https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2" rel="alternate" />
