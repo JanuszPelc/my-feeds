@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Anthropic Targets Up to $64.4 Billion in Initial Public Offering</h2>
 <a name="story-27010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p>
-<p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/">reuters.com</a></p>
+<p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></p>
 <br clear="all" />
 
 <h2>SoftBank Reports $7 Billion Second-Quarter Net Loss Amid Tech Selloff</h2>

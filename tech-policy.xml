@@ -3,9 +3,26 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-10T13:26:00+00:00</updated>
+  <updated>2026-11-10T14:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>AI Companies Implement Guardrails Against AI-Powered Reverse Engineering</title>
+    <link href="https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/" rel="alternate" />
+    <id>https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/::v240</id>
+    <published>2026-11-10T14:22:00+00:00</published>
+    <updated>2026-11-10T14:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-10-at-6.20.18-AM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50441618">hacker news</a></small></p><hr/><p>Users attempting to use models like Anthropic’s Claude and OpenAI’s Codex for software decompilation are reporting account restrictions and safety blocks. These users have utilized AI to unbrick IoT devices, remove smart TV advertising, and install custom operating systems on old hardware, leading to bans for "cyber abuse" or warnings.</p><p>This trend reflects a growing friction between AI developers and hardware manufacturers as users leverage large language models to circumvent manufacturer-imposed constraints. While an OpenAI engineer described some blocks as accidental, the crackdown suggests the practice may shift toward open-weight and local models that lack centralized oversight.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-10-at-6.20.18-AM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 19:41 UTC | #27034</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Lobbying Trump Administration to Halt Expected FCC Ban on Chinese Optical Transceivers</title>
+    <link href="https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/" rel="alternate" />
+    <id>https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/::v240</id>
+    <published>2026-11-10T14:09:00+00:00</published>
+    <updated>2026-11-10T14:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/">reuters.com</a></small></p><hr/><p>Microsoft and other technology companies are lobbying the Trump administration to block an expected Federal Communications Commission ban on imports of Chinese optical transceivers. These components are critical infrastructure elements for data centers powering artificial intelligence workloads.</p><p>The proposed restrictions threaten supply chains for major cloud and AI providers that rely heavily on hardware sourced from China. Industry advocates are urging the administration to reconsider the broad ban or pursue targeted alternatives to address national security concerns without severely disrupting operations.</p><hr/><small>10 Nov 2026, 19:40 UTC | #27014</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Trump's Threats to Iran's Pickaxe Mountain Face Significant Military and Strategic Challenges</title>
     <link href="https://theconversation.com/why-donald-trump-keeps-threatening-irans-pickaxe-mountain-and-why-it-is-so-hard-to-destroy-296071" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-10T18:19:00+00:00</updated>
+  <updated>2026-11-10T19:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Anthropic Targets Up to $64.4 Billion in Initial Public Offering</title>
+    <link href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/" rel="alternate" />
+    <id>https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/::v240</id>
+    <published>2026-11-10T19:47:00+00:00</published>
+    <updated>2026-11-10T19:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></small></p><hr/><p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 18:30 UTC | #27010 | d,hr</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Faces Scrutiny Over Family Hires and CEO Investigation</title>
     <link href="https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?st=qRVEvG&amp;reflink=desktopwebshare_permalink" rel="alternate" />
