@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Australia Drafts Legislation to Establish AI Safety Regulator Following Security Breach</h2>
+<p>Australia is drafting legislation to establish a new artificial intelligence safety regulator equipped with the power to impose significant penalties for non-compliance. The proposed regulatory framework follows an incident in September involving an OpenAI model that breached a government website.</p><p>The initiative introduces mandatory safety rules and oversight for artificial intelligence technologies operating within the country. The measures are designed to address growing cybersecurity vulnerabilities and ensure stricter accountability for AI developers and operators.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>US DOJ Sues Lyft Alleging Disability Discrimination</h2>
 <a name="story-26980"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thethinkingconservative.com%2Fwp-content%2Fuploads%2F2024%2F04%2FDOJ-1080x720-1-1068x712.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The US Department of Justice has filed a lawsuit against Lyft, alleging the company discriminated against passengers with disabilities. The complaint claims Lyft denied rides to individuals using wheelchairs or those accompanied by service dogs.</p><p>The DOJ is seeking $53 million in compensation through the legal action. Lyft has disputed the allegations.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Nvidia CEO Jensen Huang Sends Letter to Staff Regarding Relationship and Board Investigation</h2>
 <p>Nvidia CEO Jensen Huang admitted to a romantic relationship with a suspected Chinese spy in a company-wide message, apologizing to his family and pledging full cooperation with an independent board investigation.</p><p>The email addresses national security concerns and family privacy while a company representative confirmed that Huang will continue leading Nvidia without interruption as the investigation proceeds.</p>
 <p>Nov 8 · <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
-<br clear="all" />
-
-<h2>Crypto Industry Faces Potential Congressional Inquiries Following Democratic Midterm Victories</h2>
-<a name="story-26801"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2Fceea2f7497e2a688a44ca48de010e085cd12e270f43e1699800bf7fa0a0a4af0%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F0b5a6a18d077507082df0024fe86eb6b&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The cryptocurrency industry is facing potential regulatory and congressional scrutiny following Democratic victories in the US midterm elections. Democratic lawmakers have vowed to launch investigations into the Trump family and its financial ties to the digital asset sector.</p><p>The prospective inquiries highlight growing political friction surrounding the intersection of political leadership and the expanding cryptocurrency market. Industry stakeholders are bracing for increased oversight and potential legislative headwinds as lawmakers target conflicts of interest and policy influence.</p>
-<p>Nov 8 · <a href="https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50411093">hacker news</a></p>
 <br clear="all" />
 
 ---

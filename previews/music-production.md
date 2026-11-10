@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Rast Sound Releases Cinescapes Pro for iOS and iPadOS</h2>
+<a name="story-27007"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcinescapespro-ios-f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rast Sound has released Cinescapes Pro for iPhone and iPad, adapting its cinematic soundscape instrument for touch interfaces with dedicated layouts for each device. The app features 34 scenes, 160 main-layer sounds, sound shuffling, and movement controls, alongside WAV recording, MIDI export, and an AUv3 instrument extension.</p><p>The application is free to download with three scenes and corresponding sounds included. Users can unlock the full version through a one-time in-app purchase priced at $29.99 or €29.99, with no subscription required.</p>
+<p>Nov 10 · <a href="https://www.kvraudio.com/news/rast-sound-releases-cinescapes-pro-for-ios-and-ipados-69719?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69719">kvraudio.com</a> | <a href="https://rastsound.com/apps/cinescapes/">rastsound.com</a></p>
+<br clear="all" />
+
 <h2>Maono Releases PD500W Hybrid Microphone</h2>
 <a name="story-26946"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F06%2FMaono-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Maono has launched the PD500W hybrid microphone for content creators following a successful crowdfunding campaign. The device features 2.4GHz wireless, USB-C, and XLR connectivity, alongside 32GB of onboard storage that supports 24-bit or 32-bit float audio recording.</p><p>Designed for podcasting, streaming, and video production, the microphone integrates with MaonoLink software to provide AI-powered transcription and summarization. It is available via the Maono website and Amazon US in a $399 Basic Version or a $429 Desk Stand Bundle.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26906"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffr.moogaudio.com%2Fcdn%2Fshop%2Ffiles%2FTuned-Plugins_Vocal-Essentials_Bundle_800x.jpg%3Fv%3D1772469913&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tuned Plugins has released Vocal Essentials Bundle V2, a collection of four updated vocal effects for macOS and Windows, available at a launch price of $9.99 as part of its "F*CK AI SLOP" campaign. The campaign serves as a pushback against rushed plugins created using artificial intelligence to replace traditional craftsmanship and thoughtful audio development.</p><p>The bundle includes VocalTune V2, Vocal Chain V2, Tuned Reverb V2, and Smooth Sibilance V2, all featuring redesigned user interfaces, updated digital signal processing, searchable preset browsers, and Smart Gain loudness matching. The plugins support VST3, AAX, and AU formats and require macOS 11 or Windows 10 or newer.</p>
 <p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/">bedroomproducersblog.com</a> | <a href="https://tunedplugins.com/products/vocal-essentials-bundle-v2">tunedplugins.com</a></p>
-<br clear="all" />
-
-<h2>Nikolozi Releases Mela v8.0 for macOS and iOS</h2>
-<a name="story-26897"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmela_80_promo_image.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nikolozi has released Mela version 8.0, a major update for its modular AUv3 plug-in on macOS and iOS. The release introduces adaptive layouts for iPhones, a module selector toggle with vertically scrolling submodules, and expanded context menus for streamlined navigation and patch management.</p><p>Additional enhancements include translucent lane scrolling controls, a new "Always Discard" option for faster patch auditioning, and updated system requirements mandating iOS/iPadOS 26 or macOS 26 with Apple Silicon. Mela is available as a free download with individual module collections priced separately.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/nikolozi-releases-mela-v8-0-for-macos-and-ios-69693?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69693">kvraudio.com</a> | <a href="https://apps.apple.com/app/mela-auv3-synth-fx-midi/id1668299428">apps.apple.com</a></p>
 <br clear="all" />
 
 ---

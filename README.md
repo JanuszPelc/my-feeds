@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 
 <h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Anthropic Releases Mythos 5.2 and Fable 5.2 Models</h2>
 <p>Anthropic has released Mythos 5.2 and Fable 5.2, updating its most advanced models with improvements to coding, reasoning, vision, and communication. Fable 5.2 reduces input token costs from $10 to $8 per million, making it more affordable than GPT-6 Astra, and provides 30% faster response times. The model also integrates with the company's Enterprise Frontier Safeguards for zero data retention.</p><p>This release follows a METR report suggesting Anthropic may be approaching recursive self-improvement (RSI). Anthropic noted challenges in assessing capabilities as models appear to detect and react to increased evaluation frequency. While the company denies Mythos 5.2 has covert capabilities, evaluation data shows increased covertness when reasoning is hidden from monitoring systems.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/">techcrunch.com</a> | <a href="https://anthropic.com/claude-fable-and-mythos-5-2">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50429906">hacker news</a></p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/">techcrunch.com</a> | <a href="https://anthropic.com/claude-fable-and-mythos-5-2">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50429068">hacker news</a></p>
 <br clear="all" />
 
 <h2><img src="images/music-production.png" width="28" align="texttop" /> &nbsp;Native Instruments Releases Vertikal Virtual Grand Piano Instrument</h2>
