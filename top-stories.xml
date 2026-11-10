@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-10T13:50:00+00:00</updated>
+  <updated>2026-11-10T18:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Nvidia Faces Scrutiny Over Family Hires and CEO Investigation</title>
+    <link href="https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?st=qRVEvG&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?st=qRVEvG&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-10T18:19:00+00:00</published>
+    <updated>2026-11-10T18:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgray-wsmv-prod.gtv-cdn.com%2Fresizer%2Fv2%2FY7ME7VTBTFHZXJNWF7TS4B3VDY.jpg%3Fauth%3Da3dbea4014f5690c456c7c7bbab9cc0ceaa4e64e1b7ba3689a53cef773c7853a%26width%3D980%26height%3D551%26smart%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?st=qRVEvG&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Nvidia has faced scrutiny over its corporate governance after reports detailed the integration of CEO Jensen Huang’s children and other family members into company operations. Concurrently, the chipmaker’s board has initiated an investigation following reports that the chief executive was the target of a foreign intelligence effort after he admitted to an extramarital affair.</p><p>The prominent roles given to Huang's relatives run counter to typical Silicon Valley norms, where founder-led technology firms often maintain more conventional corporate hierarchies. These revelations emerge as the semiconductor giant maintains its dominant market position supplying high-performance hardware for global artificial intelligence infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgray-wsmv-prod.gtv-cdn.com%2Fresizer%2Fv2%2FY7ME7VTBTFHZXJNWF7TS4B3VDY.jpg%3Fauth%3Da3dbea4014f5690c456c7c7bbab9cc0ceaa4e64e1b7ba3689a53cef773c7853a%26width%3D980%26height%3D551%26smart%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 12:36 UTC | #26885 | d,hr</small>]]></content>
+  </entry>
   <entry>
     <title>Google Gemini Routes Personal Drive Files and Emails to Human Reviewers</title>
     <link href="https://github.com/thisisme6598/gemini_files/" rel="alternate" />
@@ -479,14 +488,5 @@
     <updated>2026-11-05T19:24:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1XKzAW.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://fortune.com/2026/11/03/binance-hack-details-linkedin/">fortune.com</a> | <a href="https://news.ycombinator.com/item?id=50357080">hacker news</a></small></p><hr/><p>Binance revealed that North Korean hackers used social engineering, including fake LinkedIn recruitment and simulated job interviews, to trick an engineer into downloading malicious software during a $6.3 billion heist. The multi-month scheme also involved an internet ad campaign promoting a tampered version of the Homebrew software package to compromise developer systems.</p><p>The combination of these exploits allowed the attackers to infiltrate internal systems, take over multiple Binance wallets, and drain funds. Although withdrawals were temporarily halted and later restored, the company recovered a portion of the stolen assets with assistance from stablecoin issuers Tether and Circle.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1XKzAW.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>3 Nov 2026, 23:09 UTC | #26297 | h,dr</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Origins and Early Development of BSD Unix</title>
-    <link href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/" rel="alternate" />
-    <id>https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/::v240</id>
-    <published>2026-11-05T18:18:00+00:00</published>
-    <updated>2026-11-05T18:18:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">fosscomics.com</a> | <a href="https://news.ycombinator.com/item?id=50332163">hacker news</a></small></p><hr/><p>In the late 1970s, Bill Joy and researchers at UC Berkeley created the Berkeley Software Distribution (BSD) by bundling a Pascal compiler, line editors, and other utilities as an add-on package for AT&amp;T Unix. By distributing these tools at cost, Berkeley fostered a tradition of sharing that helped spread Unix throughout universities and research institutions.</p><p>Following the release of the expanded 2BSD distribution, the acquisition of a VAX computer at Berkeley led graduate student Ozalp Babaoglu and Bill Joy to add virtual memory support to Unix 32/V. Their work culminated in 3BSD in December 1979, drawing the interest of DARPA and laying the groundwork for Unix's widespread adoption in government-funded research.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage4.slideserve.com%2F9082739%2Fthe-bsd-unix-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>2 Nov 2026, 16:48 UTC | #26194 | r,hd</small>]]></content>
   </entry>
 </feed>
