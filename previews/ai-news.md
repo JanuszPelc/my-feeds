@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Meta Launches Muse AI Agent for Apple Watch and Wear OS</h2>
+<a name="story-27043"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fresizemode-4%2Cmsid-135700396%2Cimgsize-77638%2Cwidth-1200%2F135700396.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta has released its Muse AI agent for Apple Watch and Android’s Wear OS, allowing users to interact with the assistant via voice, text, or dictation directly on their smartwatches. This expansion follows the recent launch of a dedicated iPad app for the service.</p><p>The AI agent uses personalized avatars to assist with tasks such as managing emails, scheduling meetings, and booking reservations. Muse has achieved significant scale, recording over 10 million U.S. downloads within 40 days of its App Store debut.</p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/">techcrunch.com</a> | <a href="https://x.com/muse/status/2119919277692383330?s=46">x.com</a></p>
+<br clear="all" />
+
 <h2>Adobe Expands Product AI Features and Introduces Local Model Context Protocol Support</h2>
 <a name="story-27028"><img src="https://wsrv.nl/?url=https%3A%2F%2Fas2.ftcdn.net%2Fjpg%2F18%2F83%2F90%2F79%2F1000_F_1883907902_NtxTIS5OSK0p9hxplLLLMgTYGSCQFjT5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Adobe announced a broad expansion of artificial intelligence capabilities across its Creative Cloud applications, including Photoshop, Premiere, Illustrator, and InDesign, during its MAX event in Miami. The updates introduce new tools such as a prototyping builder, professional color grading, relighting, and video object removal, alongside a local Model Context Protocol (MCP) designed to let external chatbots like ChatGPT and Claude interact directly with Adobe features.</p><p>The company is also integrating new image and video enhancement models from its recent acquisition, Topaz Labs, while expanding its Firefly platform with proactive agents and automated assembly features. The rollout of local MCP endpoints allows users to incorporate Creative Cloud functions into external workflows, though industry observers have raised questions regarding the protocol's governance and design.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>DeepSeek Open-Source Agent Platform Harness Reaches 1.54 Million Daily Users</h2>
 <p>DeepSeek reported that its open-source AI agent platform, Harness, reached 1.54 million daily active users on November 4, achieving the milestone less than three months after its launch.</p><p>The platform currently consumes approximately 92 trillion tokens per day, translating to roughly 60 million tokens per user, highlighting the heavy computational demand of its agent workloads.</p>
 <p>Nov 8 · <a href="https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Apple Reportedly Explores Transforming Siri Into Agentic AI With Greater Urgency</h2>
-<a name="story-26826"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspecialarad.ro%2Fwp-content%2Fuploads%2F2026%2F01%2Fapple-introduces-ai-chatbot-campos-to-transform-siri-experience-1060x540.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple is reportedly increasing the urgency of its artificial intelligence development, with leadership pressing to evolve Siri into a true AI agent rather than relying on incremental feature tweaks. The initiative involves internal efforts to move beyond current limitations toward advanced, agentic capabilities.</p><p>This push highlights the company's broader strategy to enhance its competitive standing in the generative AI market. Evolving Siri into a comprehensive agent is expected to heavily influence upcoming software updates and platform roadmaps.</p>
-<p>Nov 8 · <a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE1MTkyNCwiZXhwIjoxNzk0NzU2NzI0LCJhcnRpY2xlSWQiOiJUTzZWMDFLSUpIOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.36GAnE9alr4yBWfCUoJj6dU23ilQniOVEFSDSuoUVms">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Alibaba&#x27;s T-Head Chip Design Unit Files for Hong Kong Listing</h2>
+<a name="story-27025"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2Fx56bJiehmykJjDwtgpPMulNiER9Jd2icD1kDVfQnyZ0%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzM4Y2JiNTM3LWE3ODgtNGYzMi05MWZjLWY2YTg1ZmZlYjFmYl8xNzk0MjEzMTIyX2RlZmF1bHQuanBn.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The semiconductor design subsidiary T-Head filed for a Hong Kong listing on September 11 after receiving regulatory clearance. The unit will remain a subsidiary of Alibaba Group Holding Ltd.</p><p>This filing advances a proposed spin-off of the company's chip design operations.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Targets Up to $64.4 Billion in Initial Public Offering</h2>
 <a name="story-27010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26908"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-07812110%3Fwidth%3D700%26height%3D468&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet's Wing plans to invest up to $125 million over the next two years to build a 15,000-square-foot facility in Fort Worth, Texas. The site will be used to produce tens of thousands of delivery drones.</p><p>The investment aims to scale production capacity to support the expansion of the company's drone delivery services.</p>
 <p>Nov 9 · <a href="https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?st=mg2s23&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Meta Expands Instagram AI Age Detection Globally</h2>
-<a name="story-26909"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Froblox-launches-ai-video-selfie-age-verification-trusted-connections-parental-5ceeaafa%2Fe3ca9a53f6ddd0a28b21402ea7ee9d90881cfe9ee764e65aaed9600522d629de.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta is deploying AI-powered age estimation technology to Instagram users worldwide to identify teenagers who have misreported their age. This initiative aims to automatically enroll millions of users into "Teen Account" protections, which feature private settings by default, limited content visibility, and restrictions on direct messages from strangers.</p><p>The system analyzes various signals, including interaction patterns, birthday messages, and visual cues such as bone structure and height. This expansion follows a $17.1 billion lawsuit settlement in August concerning Meta's age verification and teen safety practices.</p>
-<p>Nov 9 · <a href="https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion">theverge.com</a> | <a href="https://about.fb.com/news/2026/11/expanding-teen-account-protections-around-the-world/">about.fb.com</a></p>
 <br clear="all" />
 
 ---
