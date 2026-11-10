@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-10T12:39:00+00:00</updated>
+  <updated>2026-11-10T14:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Spotify Adds New Personalities and Commentary Controls to AI DJ</title>
+    <link href="https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/::v240</id>
+    <published>2026-11-10T14:03:00+00:00</published>
+    <updated>2026-11-10T14:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.audkit.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fai-dj-on-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/">techcrunch.com</a></small></p><hr/><p>Spotify is updating its AI DJ feature to include new voices and personalities, as well as an option to limit commentary between songs. Premium subscribers can choose from seven English accents—including British, American, Irish, Australian, and Indian—and two Spanish voices. The update also allows users to toggle off the AI's verbal explanations and introductions to reduce interruptions.</p><p>These changes are rolling out to Premium users in over 95 global markets. New English voice personalities include options like Casey, Tess, and Lane, while the Spanish options include Nico and Fabi. This feature update follows Spotify's recent expansion into AI, which includes conversational music assistants and AI-powered playlist tools.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audkit.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fai-dj-on-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 19:15 UTC | #27030</small>]]></content>
+  </entry>
   <entry>
     <title>Fuse Audio Labs Releases Amber Drive Free British Guitar Amp Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/" rel="alternate" />

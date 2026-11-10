@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Spotify Adds New Personalities and Commentary Controls to AI DJ</h2>
+<a name="story-27030"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audkit.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fai-dj-on-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Spotify is updating its AI DJ feature to include new voices and personalities, as well as an option to limit commentary between songs. Premium subscribers can choose from seven English accents—including British, American, Irish, Australian, and Indian—and two Spanish voices. The update also allows users to toggle off the AI's verbal explanations and introductions to reduce interruptions.</p><p>These changes are rolling out to Premium users in over 95 global markets. New English voice personalities include options like Casey, Tess, and Lane, while the Spanish options include Nico and Fabi. This feature update follows Spotify's recent expansion into AI, which includes conversational music assistants and AI-powered playlist tools.</p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Fuse Audio Labs Releases Amber Drive Free British Guitar Amp Plugin</h2>
 <a name="story-27023"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8TVWqmo1sPU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fuse Audio Labs has released Amber Drive, a free British-style guitar amp plugin available for macOS and Windows. The software models cascading 12AX7 preamp stages, an EL84 output section, and a passive tone stack to emulate medium-gain amplifier tones ranging from clean sounds to crunchy distortion.</p><p>The plugin features a streamlined interface with three primary controls for gain, tone, and volume, alongside a built-in cabinet simulation that can be bypassed in favor of external impulse responses. Designed with zero latency and low CPU consumption, Amber Drive supports VST2, VST3, AAX, and AU formats and requires a free user account on the developer's website for download.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26945"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJwrWXTV2PL0%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Solid State Logic’s SSL Blitzer compressor is available for $19.99 at Plugin Boutique until November 30, discounted from its standard $99 price.</p><p>The plugin combines compression, harmonic drive, and transient shaping, with modes inspired by hardware like the 1176 and LA-2A. Qualifying purchases include a free gift, such as UVI Tape Suite or Excite Audio Evolve Elastic Lite, and the software is compatible with macOS and Windows in VST3, AU, and AAX formats.</p>
 <p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=5241029371df5">pluginboutique.com</a></p>
-<br clear="all" />
-
-<h2>quietformat Releases Cernion Wavetable Synthesizer</h2>
-<a name="story-26941"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcernion_v1-0-0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>quietformat has released Cernion, a wavetable synthesizer featuring full MPE support and custom waveform editing for up to 256 frames. The package includes Cernion FX, a companion effect plugin designed to apply the synthesizer's modulation and effect processing to external audio and other instruments.</p><p>The software provides extensive modulation via LFOs, envelopes, an XY pad, and a modulation matrix, plus two distinct arpeggiators. It is available on macOS and Windows with an introductory price of $99.99 through December 9, 2026, or via a monthly "Subscribe to Own" model.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/quietformat-releases-cernion-wavetable-synthesizer-with-full-mpe-and-cernion-fx-au-and-vst3-69708?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69708">kvraudio.com</a> | <a href="https://www.quietformat.com/cernion">quietformat.com</a></p>
 <br clear="all" />
 
 ---
