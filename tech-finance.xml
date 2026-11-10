@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-09T16:07:00+00:00</updated>
+  <updated>2026-11-09T20:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Mavria Raises $130M at $1B Valuation for Modular Data Centers</title>
+    <link href="https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2" rel="alternate" />
+    <id>https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2::v240</id>
+    <published>2026-11-09T20:16:00+00:00</published>
+    <updated>2026-11-09T20:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.dcntglobal.com%2Fwp-content%2Fuploads%2F2025%2F11%2FPrefabricated-Modular-Data-Center.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2">wsj.com</a></small></p><hr/><p>Mavria has secured $130 million in pre-seed and seed funding to develop modular data centers capable of being transported by truck. This funding round, led by Paradigm, establishes a $1 billion valuation for the company.</p><p>The modular design aims to simplify the deployment of data center infrastructure through scalable, shippable units. This approach provides a flexible alternative to traditional, site-built data center construction.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dcntglobal.com%2Fwp-content%2Fuploads%2F2025%2F11%2FPrefabricated-Modular-Data-Center.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 01:59 UTC | #26955</small>]]></content>
+  </entry>
   <entry>
     <title>Spines Raises $64 Million to Expand AI-Powered Publishing Platform</title>
     <link href="https://en.globes.co.il/en/article-israeli-ai-publishing-co-spines-raises-64m-1001562574" rel="alternate" />

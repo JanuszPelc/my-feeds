@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Foldable Flight Offers Paper Airplane Templates and Products</h2>
+<a name="story-26974"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.etsystatic.com%2F18689648%2Fr%2Fil%2F54e6df%2F2357008504%2Fil_1588xN.2357008504_fote.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Foldable Flight provides a collection of paper airplane designs, including models like Firefly 5, Unite, and Arrowhead. The site offers templates for different paper types, such as A4, US Letter, and square, while providing performance metrics for speed, glide, and accuracy.</p><p>Certain designs are associated with flight records, such as Firefly 5 and the Unite model, which holds a world record for time aloft at 31.2 seconds. The collection includes models for various skill levels and designs inspired by aircraft like the SU-27 and F-14 Tomcat.</p>
+<p>Nov 9 · <a href="https://www.foldableflight.com">foldableflight.com</a> | <a href="https://news.ycombinator.com/item?id=50424581">hacker news</a></p>
+<br clear="all" />
+
 <h2>Energy Consumption for Building Linux Distribution Packages Measured</h2>
 <a name="story-26952"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wezm.net%2Fv2%2Fposts%2F2026%2Fdistro-energy-use%2Fbento-slide.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of infrastructure energy use for Casuarina Linux reveals that running a dedicated build server over a seven-month period consumed 98.4 kWh of electricity. The server, equipped with an AMD Ryzen 9 5950X processor, handled roughly 5,200 package builds while being powered down manually when idle.</p><p>The total electricity cost amounted to roughly AU$32.47 under a renewable energy plan, translating to slightly under AU$5 per month. This figure excludes initial package compilation on a separate desktop workstation and potential offsets from rooftop solar generation, with individual package build times peaking at under four hours for Chromium.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26830"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4160909%2Fslide22-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An architectural and technical breakdown of how email functions examines the roles of mail user agents, transfer agents, and delivery agents within the Simple Mail Transfer Protocol framework. It details the step-by-step transmission process, covering domain name system mail exchange lookups, connection handshakes, and command-and-response interactions between servers.</p><p>The overview also addresses sender authentication mechanisms such as the Sender Policy Framework and DomainKeys Identified Mail, along with historical message formatting standards including multipurpose internet mail extensions, quoted-printable encoding, and base64. It highlights how legacy design constraints and modern security requirements continue to shape email delivery infrastructure.</p>
 <p>Nov 8 · <a href="https://maurycyz.com/misc/email/">maurycyz.com</a> | <a href="https://lobste.rs/s/jnz4v5/bit_about_email">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50420383">hacker news</a></p>
-<br clear="all" />
-
-<h2>Examining Nondeterminism in the Futhark Programming Language</h2>
-<a name="story-26828"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2F1216jmicro01-221124044524-d404c711%2F85%2FDESIGN-OF-DOUBLE-PRECISION-FLOATING-POINT-MULTIPLICATION-ALGORITHM-WITH-VECTOR-SUPPORT-2-638.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Futhark programming language blog examines the origins of nondeterminism within its parallel execution model, identifying two primary sources: language abuse through unsafe constructs like unchecked scatter operations, and floating-point roundoff errors caused by non-associative operations. While Futhark is generally characterized as a deterministic language, parallel reductions and scans alter the order of floating-point additions depending on hardware schedules, leading to replayable or approximate results.</p><p>Although fully deterministic implementations—such as tree-based summation—are possible, they incur significant performance penalties compared to hardware-optimized routines that rely on atomic instructions or backend-specific chunking. The post highlights that sacrificing strict determinism is a deliberate design choice required to maintain high performance on modern parallel hardware, balancing numerical consistency against execution speed.</p>
-<p>Nov 8 · <a href="https://futhark-lang.org/blog/2026-11-04-nondeterminism.html">futhark-lang.org</a> | <a href="https://lobste.rs/s/4lgvnf/nondeterminism_futhark">lobsters</a></p>
 <br clear="all" />
 
 ---

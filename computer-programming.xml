@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-09T12:38:00+00:00</updated>
+  <updated>2026-11-09T20:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Foldable Flight Offers Paper Airplane Templates and Products</title>
+    <link href="https://www.foldableflight.com" rel="alternate" />
+    <id>https://www.foldableflight.com::v240</id>
+    <published>2026-11-09T20:17:00+00:00</published>
+    <updated>2026-11-09T20:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.etsystatic.com%2F18689648%2Fr%2Fil%2F54e6df%2F2357008504%2Fil_1588xN.2357008504_fote.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.foldableflight.com">foldableflight.com</a> | <a href="https://news.ycombinator.com/item?id=50424581">hacker news</a></small></p><hr/><p>Foldable Flight provides a collection of paper airplane designs, including models like Firefly 5, Unite, and Arrowhead. The site offers templates for different paper types, such as A4, US Letter, and square, while providing performance metrics for speed, glide, and accuracy.</p><p>Certain designs are associated with flight records, such as Firefly 5 and the Unite model, which holds a world record for time aloft at 31.2 seconds. The collection includes models for various skill levels and designs inspired by aircraft like the SU-27 and F-14 Tomcat.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.etsystatic.com%2F18689648%2Fr%2Fil%2F54e6df%2F2357008504%2Fil_1588xN.2357008504_fote.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 02:08 UTC | #26974</small>]]></content>
+  </entry>
   <entry>
     <title>Energy Consumption for Building Linux Distribution Packages Measured</title>
     <link href="https://www.wezm.net/v2/posts/2026/distro-energy-use/" rel="alternate" />

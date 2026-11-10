@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Mavria Raises $130M at $1B Valuation for Modular Data Centers</h2>
+<a name="story-26955"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dcntglobal.com%2Fwp-content%2Fuploads%2F2025%2F11%2FPrefabricated-Modular-Data-Center.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mavria has secured $130 million in pre-seed and seed funding to develop modular data centers capable of being transported by truck. This funding round, led by Paradigm, establishes a $1 billion valuation for the company.</p><p>The modular design aims to simplify the deployment of data center infrastructure through scalable, shippable units. This approach provides a flexible alternative to traditional, site-built data center construction.</p>
+<p>Nov 9 · <a href="https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Spines Raises $64 Million to Expand AI-Powered Publishing Platform</h2>
 <a name="story-26922"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spines.com%2Fwp-content%2Fuploads%2F2025%2F04%2Fhome.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Israeli AI publishing company Spines has raised $64 million, including $29 million in equity led by Zeev Ventures and $35 million in debt financing from Twelve. The platform uses AI to perform editing, proofreading, cover design, and layout, enabling amateur authors to distribute books in digital, print, and audio formats.</p><p>The company's annual recurring revenue has grown from $3.5 million to $50 million over the last two years, supporting a portfolio of 8,000 authors. While Spines uses technology to detect and block AI-generated manuscripts, it offers AI-driven audiobook narration and plans to expand its language support to 20 languages within the next six months.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26625"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.backlinko.com%2Fapp%2Fuploads%2F2021%2F06%2Fairbnb-revenue-1440x1094.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Airbnb reported third-quarter 2026 revenue of $4.87 billion, marking a 19% year-over-year increase that outpaced Wall Street estimates and represented its fastest growth rate in three years. The company posted earnings of $3.16 per share, beating consensus expectations, while nights and seats booked rose 16% to 155 million.</p><p>Chief Executive Officer Brian Chesky stated that the platform is back in growth mode, prompting management to raise its full-year 2026 revenue outlook for the third time. The stronger-than-expected financial performance drove Airbnb's stock higher in after-hours trading following the announcement.</p>
 <p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode">bloomberg.com</a> | <a href="https://news.airbnb.com/airbnb-q3-2026-financial-results">news.airbnb.com</a></p>
-<br clear="all" />
-
-<h2>Nasdaq 100 and Philadelphia Semiconductor Index Plunge Amid AI Trade Concerns</h2>
-<a name="story-26618"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmicms.stonex.com%2Fsites%2Fdefault%2Ffiles%2Finline-images%2Fimage-20260428144325-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Nasdaq 100 fell 6%, wiping out $2.3 trillion in market value, while the Philadelphia semiconductor index dropped 12%. This technology sector selloff, the largest since 2020, was triggered by investor concerns regarding the artificial intelligence trade following Democratic victories in congressional elections.</p><p>The decline highlights growing anxiety over the long-term sustainability of AI-related capital expenditures and potential shifts in the political landscape. Semiconductor stocks bore the brunt of the volatility as investors exited positions in companies focused on AI infrastructure and data center construction.</p>
-<p>Nov 5 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50381623">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-10T01:02:00+00:00</updated>
+  <updated>2026-11-10T02:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Foldable Flight Offers Paper Airplane Templates and Products</title>
+    <link href="https://www.foldableflight.com" rel="alternate" />
+    <id>https://www.foldableflight.com::v240</id>
+    <published>2026-11-10T02:16:00+00:00</published>
+    <updated>2026-11-10T02:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.etsystatic.com%2F18689648%2Fr%2Fil%2F54e6df%2F2357008504%2Fil_1588xN.2357008504_fote.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.foldableflight.com">foldableflight.com</a> | <a href="https://news.ycombinator.com/item?id=50424581">hacker news</a></small></p><hr/><p>Foldable Flight provides a collection of paper airplane designs, including models like Firefly 5, Unite, and Arrowhead. The site offers templates for different paper types, such as A4, US Letter, and square, while providing performance metrics for speed, glide, and accuracy.</p><p>Certain designs are associated with flight records, such as Firefly 5 and the Unite model, which holds a world record for time aloft at 31.2 seconds. The collection includes models for various skill levels and designs inspired by aircraft like the SU-27 and F-14 Tomcat.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.etsystatic.com%2F18689648%2Fr%2Fil%2F54e6df%2F2357008504%2Fil_1588xN.2357008504_fote.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 02:08 UTC | #26974 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>METR Report Finds AI is Accelerating AI Research at Anthropic</title>
     <link href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai" rel="alternate" />

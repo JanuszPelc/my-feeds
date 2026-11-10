@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Charleston Man Arrested for Leaving 6-Year-Old Daughter Unattended in Target Line for Pokémon Cards</h2>
+<a name="story-26960"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fphoto-1647892591711-f310c2a3ab7c.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>John-Michael Dooley was charged with unlawful conduct toward a child after leaving his 6-year-old daughter alone in a Target line for over an hour. The incident occurred at 1 a.m. in Charleston, South Carolina, as Dooley reportedly left the child to secure his position for new Pokémon card releases.</p><p>Witnesses reported that Dooley asked the girl if she "had the gun" before his departure, though police found only a pillow and a green blanket in her possession. Bystanders contacted law enforcement after Dooley failed to return, leading to his arrest when he reappeared at the store.</p>
+<p>Nov 9 · <a href="https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/">404media.co</a> | <a href="https://www.charleston-sc.gov/m/newsflash/home/detail/1761?ref=404media.co">charleston-sc.gov</a></p>
+<br clear="all" />
+
 <h2>Nvidia Intervention Prompted Transfer of Chip Smuggling Probe to Justice Department</h2>
 <a name="story-26938"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F09%2Fmultimedia%2F09dc-commerce-megaspeed-qmlg%2F09dc-commerce-megaspeed-qmlg-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Commerce Department investigation into Megaspeed, a Singaporean firm suspected of smuggling Nvidia artificial intelligence chips into China, was transferred to the Justice Department after Nvidia’s general counsel contacted department officials. The intervention has prompted concerns among some government officials that the outreach may have improperly influenced the inquiry.</p><p>The probe focused on Megaspeed, whose executive is suspected of being a Chinese spy with whom Nvidia CEO Jensen Huang had a personal relationship. Following these revelations, Nvidia announced it is opening an investigation into Huang.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26794"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgeng.jagran.com%2Fimages%2F2025%2F08%2F05%2Farticle%2Fimage%2Fartificial-intelligence_reuters-1754399937398.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence transformed from a long-term policy discussion into a major electoral issue ahead of the 2026 midterms, driven by a legislative battle over federal preemption of state AI rules. When pro-industry tech figures launched a super PAC to thwart regulation, an opposing coalition of tech policy veterans, consumer advocates, and effective altruists mobilized voters and candidates around AI safety.</p><p>The resulting political mobilization flooded congressional races with pro-safety funding and reshaped campaign messaging in both parties. Despite internal ideological differences among coalition leaders like Brad Carson, Jay Shooster, and Rishi Bharwani, their collective efforts successfully countered industry lobbying and established AI safety as a prominent national political issue.</p>
 <p>Nov 8 · <a href="https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312">politico.com</a></p>
-<br clear="all" />
-
-<h2>US Treasury Moves to Cut Off Crypto Exchange MEXC Over Alleged Illicit Flows</h2>
-<a name="story-26788"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcoin360.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcdn.coin360.com%2F06ccce72_13d1_4f6b_b68d_1fd9b11ddee1_639fa343ab.webp%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Treasury has initiated steps to bar cryptocurrency exchange MEXC from the U.S. financial system, citing allegations that the platform processed more than $16 billion in illicit transactions. According to the enforcement action, these flows include funds linked to sanctions evasion efforts by entities in Russia and Iran.</p><p>The move represents a significant escalation in regulatory scrutiny directed at offshore digital asset platforms operating without strict compliance controls. MEXC faces mounting pressure as authorities target international exchanges facilitating transactions that bypass global financial restrictions.</p>
-<p>Nov 7 · <a href="https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows">coindesk.com</a></p>
 <br clear="all" />
 
 ---
