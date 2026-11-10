@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-09T20:18:00+00:00</updated>
+  <updated>2026-11-09T22:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Fireworks Reports Cyberattack Affecting Customer Data and AI Model Weights</title>
+    <link href="https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/" rel="alternate" />
+    <id>https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/::v240</id>
+    <published>2026-11-09T22:49:00+00:00</published>
+    <updated>2026-11-09T22:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fjpg%2F12%2F56%2F20%2F26%2F1000_F_1256202604_8njs6FaKJy8fSmzNdYO3kEzLyTKWqGTD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/">forbes.com</a> | <a href="https://news.ycombinator.com/item?id=50430783">hacker news</a></small></p><hr/><p>Hackers accessed customer datasets, billing information, and incomplete model weights at AI infrastructure provider Fireworks during a cyberattack over the past month.</p><p>Two customers have already begun transitioning their business operations away from the company's systems in response to the security breach.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fjpg%2F12%2F56%2F20%2F26%2F1000_F_1256202604_8njs6FaKJy8fSmzNdYO3kEzLyTKWqGTD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 04:21 UTC | #26968</small>]]></content>
+  </entry>
   <entry>
     <title>Maurycyz Demonstrates Method for Embedding Messages in RSA Public Keys</title>
     <link href="https://maurycyz.com/projects/badcert/" rel="alternate" />

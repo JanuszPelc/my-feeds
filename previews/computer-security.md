@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Fireworks Reports Cyberattack Affecting Customer Data and AI Model Weights</h2>
+<a name="story-26968"><img src="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fjpg%2F12%2F56%2F20%2F26%2F1000_F_1256202604_8njs6FaKJy8fSmzNdYO3kEzLyTKWqGTD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hackers accessed customer datasets, billing information, and incomplete model weights at AI infrastructure provider Fireworks during a cyberattack over the past month.</p><p>Two customers have already begun transitioning their business operations away from the company's systems in response to the security breach.</p>
+<p>Nov 9 · <a href="https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/">forbes.com</a> | <a href="https://news.ycombinator.com/item?id=50430783">hacker news</a></p>
+<br clear="all" />
+
 <h2>Maurycyz Demonstrates Method for Embedding Messages in RSA Public Keys</h2>
 <a name="story-26975"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F953%2F953465fa-0f83-4ed1-80a1-e51a8e96df61%2FphpCpfLgU&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Maurycyz describes a method for embedding text messages within the modulus of RSA public keys used in SSL/TLS certificates. By modifying the bytes of a target modulus to include a message and then finding a nearby prime factor, a user can create a valid public key that can be signed by a Certificate Authority while concealing the hidden text in its base64-encoded representation.</p><p>The implementation involves finding a new prime factor that is close enough to the ideal quotient to maintain a valid modulus. Although this technique reduces the entropy of the private key, the author notes that the certificates remain secure for public web use due to the forward secrecy provided by modern TLS protocols.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26799"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.staticscd.com%2Fuploads%2F176975%2Fcart%2Fresources%2F20251104%2F4940D7BF-E3DF-1616-BF41-010760F69B87.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Coldframe is a single-file Python honeypot designed to mimic internet-facing supermarket refrigeration supervisors, such as the Danfoss AK-SM 800A and Copeland/Dixell XWEB EVO. It simulates realistic web interfaces, login behaviors, and specific vulnerabilities to capture connection data, credential attempts, and public exploit payloads.</p><p>Operating with minimal dependencies, the tool includes configurable personas that replicate server headers, certificate attributes, and optional Modbus TCP services. It logs interactions to a JSON lines file and provides a summary script for analysis while keeping operations isolated and safe from executing malicious inputs.</p>
 <p>Nov 7 · <a href="https://github.com/hedgerow-dev/coldframe">github.com</a> | <a href="https://news.ycombinator.com/item?id=50406292">hacker news</a></p>
-<br clear="all" />
-
-<h2>Apiiro Examines Security Risks of Coding Agents Leaking Secrets on GitHub</h2>
-<a name="story-26796"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northdoor.co.uk%2Fwp-content%2Fuploads%2F2026%2F04%2FAI-Coding-Agents-infographic-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apiiro examines the security implications of AI coding agents inadvertently leaking sensitive credentials and secrets to platforms like GitHub. The post explores how automated development tools and agentic workflows can introduce new vulnerabilities when handling sensitive information without adequate guardrails.</p><p>The discussion highlights the challenges organizations face in securing AI-driven development environments where autonomous agents interact with code repositories. It underscores the need for robust control planes and security monitoring to prevent accidental data exposure during automated coding tasks.</p>
-<p>Nov 7 · <a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again">apiiro.com</a> | <a href="https://news.ycombinator.com/item?id=50407882">hacker news</a></p>
 <br clear="all" />
 
 ---
