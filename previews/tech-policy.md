@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Nvidia Intervention Prompted Transfer of Chip Smuggling Probe to Justice Department</h2>
 <a name="story-26938"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F09%2Fmultimedia%2F09dc-commerce-megaspeed-qmlg%2F09dc-commerce-megaspeed-qmlg-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Commerce Department investigation into Megaspeed, a Singaporean firm suspected of smuggling Nvidia artificial intelligence chips into China, was transferred to the Justice Department after Nvidia’s general counsel contacted department officials. The intervention has prompted concerns among some government officials that the outreach may have improperly influenced the inquiry.</p><p>The probe focused on Megaspeed, whose executive is suspected of being a Chinese spy with whom Nvidia CEO Jensen Huang had a personal relationship. Following these revelations, Nvidia announced it is opening an investigation into Huang.</p>
-<p>Nov 9 · <a href="https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8&smid=url-share">nytimes.com</a></p>
+<p>Nov 9 · <a href="https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8&smid=url-share">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50433440">hacker news</a></p>
 <br clear="all" />
 
 <h2>Trump Discusses AI Safety and DOJ Actions in 60 Minutes Interview</h2>
