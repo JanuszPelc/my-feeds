@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Running NetBSD 11 Desktop on a Raspberry Pi 4</h2>
 <a name="story-26852"><img src="https://wsrv.nl/?url=https%3A%2F%2Fb2c-contenthub.com%2Fwp-content%2Fuploads%2F2023%2F11%2FRaspberry-Pi-Imager.png%3Fquality%3D50%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This article provides a step-by-step guide for installing and configuring a NetBSD 11 desktop environment on a Raspberry Pi 4. It covers preparing the arm64 image, installing the UEFI firmware, configuring Wi-Fi connectivity, and setting up binary package management via pkgin.</p><p>Additional instructions detail the installation of X11 and the NsCDE desktop environment to build a functional graphical user interface. The walkthrough offers practical tips for configuring user privileges, shell environments, and necessary applications to make the operating system usable.</p>
-<p>Nov 8 · <a href="https://neongd.com/articles/netbsd11-rpi4.gmi">neongd.com</a> | <a href="https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4">lobsters</a></p>
+<p>Nov 8 · <a href="https://neongd.com/articles/netbsd11-rpi4.gmi">neongd.com</a> | <a href="https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50412554">hacker news</a></p>
 <br clear="all" />
 
 <h2>Goldman Sachs Restricts Claude Code Access to Engineers</h2>

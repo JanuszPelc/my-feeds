@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Fuse Audio Labs Releases Amber Drive Free British Guitar Amp Plugin</h2>
+<a name="story-27023"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8TVWqmo1sPU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Fuse Audio Labs has released Amber Drive, a free British-style guitar amp plugin available for macOS and Windows. The software models cascading 12AX7 preamp stages, an EL84 output section, and a passive tone stack to emulate medium-gain amplifier tones ranging from clean sounds to crunchy distortion.</p><p>The plugin features a streamlined interface with three primary controls for gain, tone, and volume, alongside a built-in cabinet simulation that can be bypassed in favor of external impulse responses. Designed with zero latency and low CPU consumption, Amber Drive supports VST2, VST3, AAX, and AU formats and requires a free user account on the developer's website for download.</p>
+<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/">bedroomproducersblog.com</a> | <a href="https://fuseaudiolabs.com/#/pages/product?id=301122043">fuseaudiolabs.com</a></p>
+<br clear="all" />
+
+<h2>Audio Spices Offers Black Pepper Pitch Delay Plugin Free for Black Friday</h2>
+<a name="story-27017"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FAudio-Spices-Black-Pepper.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audio Spices has opened registration for a free copy of Black Pepper, its pitch-shifting delay plugin for macOS and Windows. Users can sign up on the company's website by November 26 to receive the plugin via email on Black Friday, November 27.</p><p>Normally priced at $59.99, the plugin features pitch control, a Climb function for stepping repeats up or down, tempo sync, stereo ping-pong bouncing, tape-style wobble, and filter controls. It is available in VST3, AU, and AAX formats and requires activation through an Audio Spices account.</p>
+<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/audio-spices-black-pepper/">bedroomproducersblog.com</a> | <a href="https://audio-spices.com/free-spice">audio-spices.com</a></p>
+<br clear="all" />
+
 <h2>Noizplay Updates nyVERB Core to v1.2.2</h2>
 <a name="story-27011"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnyverb-core-overview.1794310692.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>noizplay has released version 1.2.2 of nyVERB core, the free edition of its reverb plugin. The update introduces six customizable profiles—room, drums, vocal, plate, wash, and sync—that dictate how the single space knob controls the engine's behavior.</p><p>The new sync profile synchronizes decay and pre-delay parameters to the host project's tempo, ranging from 1/16 to 2 bars. Additionally, version 1.2.2 includes an optional update check and stability fixes, with sessions saved in older versions defaulting to the room profile.</p>
@@ -81,18 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26941"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcernion_v1-0-0.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>quietformat has released Cernion, a wavetable synthesizer featuring full MPE support and custom waveform editing for up to 256 frames. The package includes Cernion FX, a companion effect plugin designed to apply the synthesizer's modulation and effect processing to external audio and other instruments.</p><p>The software provides extensive modulation via LFOs, envelopes, an XY pad, and a modulation matrix, plus two distinct arpeggiators. It is available on macOS and Windows with an introductory price of $99.99 through December 9, 2026, or via a monthly "Subscribe to Own" model.</p>
 <p>Nov 9 · <a href="https://www.kvraudio.com/news/quietformat-releases-cernion-wavetable-synthesizer-with-full-mpe-and-cernion-fx-au-and-vst3-69708?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69708">kvraudio.com</a> | <a href="https://www.quietformat.com/cernion">quietformat.com</a></p>
-<br clear="all" />
-
-<h2>MusicDevelopments Updates RapidComposer to v6.3</h2>
-<a name="story-26937"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frc6_2026-10-23_163153.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>RapidComposer v6.3 for Windows and macOS features a new Chords Play Mode in Live mode, allowing real-time performance via a split keyboard. Users can hold chord notes with one hand while triggering musical phrases with the other that automatically follow the played chords.</p><p>The update also introduces a Melody Call &amp; Response generator, modernized note editing via CAPS LOCK, and new Dark and Light interface themes. Other enhancements include velocity filters, improved scene organization, new keyboard shortcuts, and various stability fixes.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/musicdevelopments-updates-rapidcomposer-to-v6-3-69706?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69706">kvraudio.com</a> | <a href="https://www.musicdevelopments.com/">musicdevelopments.com</a></p>
-<br clear="all" />
-
-<h2>Vienna Symphonic Library Releases Vienna Performer</h2>
-<a name="story-26934"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvsl_viennaperformer_gui1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Vienna Symphonic Library (VSL) has released Vienna Performer, a plugin that converts written musical notes into audio performances. The software uses AI models trained on recordings from the Vienna Synchron Orchestra to apply specific articulations, phrasing, and acoustic characteristics to user-provided MIDI or notation data.</p><p>The launch includes nine instruments, including solo flute, clarinet, and horn, as well as various string ensembles. Available on macOS and Windows in VST, VST3, AU, and AAX formats, the plugin is accessible via a subscription model tiered by monthly "render minutes" and requires an internet connection.</p>
-<p>Nov 9 · <a href="https://www.kvraudio.com/news/vienna-symphonic-library-releases-vienna-performer-69663?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69663">kvraudio.com</a> | <a href="https://www.vsl.co.at/vienna-performer">vsl.co.at</a></p>
 <br clear="all" />
 
 ---
