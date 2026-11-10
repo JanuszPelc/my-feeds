@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-09T18:05:00+00:00</updated>
+  <updated>2026-11-09T18:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Uber Launches Uber Parking</title>
+    <link href="https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFFQ1lZV0Qzb3giLCJwIjoiL3RyYW5zcG9ydGF0aW9uLzEwMjk3NzYvdWJlci1wYXJraW5nLWxhdW5jaC1zcG90aGVyby1yb2JvdGF4aXMiLCJleHAiOjE3OTQ2NzYzNTQsImlhdCI6MTc5NDI0NDM1NH0.JUsFbrRZz5ePB1fjQjTRmwfyAeJmvNtx7EBTJCcsBFA&amp;utm_medium=gift-link" rel="alternate" />
+    <id>https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFFQ1lZV0Qzb3giLCJwIjoiL3RyYW5zcG9ydGF0aW9uLzEwMjk3NzYvdWJlci1wYXJraW5nLWxhdW5jaC1zcG90aGVyby1yb2JvdGF4aXMiLCJleHAiOjE3OTQ2NzYzNTQsImlhdCI6MTc5NDI0NDM1NH0.JUsFbrRZz5ePB1fjQjTRmwfyAeJmvNtx7EBTJCcsBFA&amp;utm_medium=gift-link::v240</id>
+    <published>2026-11-09T18:31:00+00:00</published>
+    <updated>2026-11-09T18:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.roic.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1280%2Cformat%3Dwebp%2Cquality%3D75%2Fhttps%3A%2F%2Fimg.roic.ai%2Fnews%2Fuber-eyes-acquisition-of-parking-app-spothero-to-expand-mobility-ecosystem-12-31-2025.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFFQ1lZV0Qzb3giLCJwIjoiL3RyYW5zcG9ydGF0aW9uLzEwMjk3NzYvdWJlci1wYXJraW5nLWxhdW5jaC1zcG90aGVyby1yb2JvdGF4aXMiLCJleHAiOjE3OTQ2NzYzNTQsImlhdCI6MTc5NDI0NDM1NH0.JUsFbrRZz5ePB1fjQjTRmwfyAeJmvNtx7EBTJCcsBFA&utm_medium=gift-link">theverge.com</a></small></p><hr/><p>Drivers can now find, reserve, and pay for parking in garages and lots through a new Uber in-app feature. Following the company's acquisition of SpotHero, the service integrates over 13,000 facilities across 400 cities, initially rolling out in 15 markets including New York City and Chicago. The feature supports filtering for self-park or valet options and facilitates entry via QR codes or automatic license plate scanning.</p><p>The service supports Uber’s long-term autonomous vehicle strategy, with plans to use these facilities as holding areas for robotaxis to reduce urban traffic and emissions. Uber One subscribers can earn 10 percent back in account credits on parking reservations. This expansion reflects a strategic push to control urban mobility infrastructure to serve both personal commuters and future autonomous fleets.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.roic.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1280%2Cformat%3Dwebp%2Cquality%3D75%2Fhttps%3A%2F%2Fimg.roic.ai%2Fnews%2Fuber-eyes-acquisition-of-parking-app-spothero-to-expand-mobility-ecosystem-12-31-2025.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 00:37 UTC | #26948</small>]]></content>
+  </entry>
   <entry>
     <title>Matteo Raso Challenges the Notion of an AI Industry Bubble</title>
     <link href="https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists" rel="alternate" />

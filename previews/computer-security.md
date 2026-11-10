@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>French Officials Suspect Iran&#x27;s Revolutionary Guards of Hacking Commercial Refrigerators</h2>
+<a name="story-26942"><img src="https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F66kk9kpTURBXy81ZTdiODE3OTlkYmNkYmVkM2YyOThjMDk3OTc4OTBlMy5qcGeSlQMAPs0H0M0EZZMFzQSwzQJY3gABoTAB&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Iranian Revolutionary Guards are suspected of orchestrating cyberattacks that disabled commercial refrigerators and freezers across France in October. French officials issued the accusation following an investigation into the widespread cooling system failures.</p><p>The disruptions targeted infrastructure essential to the food supply chain. This incident follows a pattern of cyber provocations attributed to Iranian-linked entities targeting European interests.</p>
+<p>Nov 9 · <a href="https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50427517">hacker news</a></p>
+<br clear="all" />
+
 <h2>Russia&#x27;s Rassvet Satellite Network Could Come Online by 2027</h2>
 <a name="story-26888"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftopcor.ru%2Fuploads%2Fposts%2F2026-03%2F1ca155670e_60c023af-5e42-4047-ad0e-9a69c9ff226d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Analysts warn that Russia's Rassvet broadband satellite network could become operational as early as 2027 following a troubled development phase. The space project is expected to enhance Russia's military capabilities by facilitating more precise and destructive drone strikes deep within Ukraine.</p><p>The constellation is designed to provide high-speed, secure orbital internet connectivity, addressing critical communication gaps for Russian forces. Observers note that deploying the network will significantly bolster Moscow's digital sovereignty and long-term tactical coordination on the battlefield.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.bosscher.ch%2F_astro%2Fopenstick.nDFavhOI_1HBuYF.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Laurens Bosscher details a lightweight homelab configuration built around a 10-dollar OpenStick hardware device featuring 512 MB of RAM, four ARM Cortex-A53 cores, and 4 GB of eMMC flash running Debian. Despite its modest specifications and zero noise, the passively cooled device runs a full suite of containerized self-hosted services managed via Podman.</p><p>The software stack includes low-resource utilities such as CastSponsorSkip for YouTube sponsorship filtering, a custom fork of AdGuard Home for DNS-level ad blocking, Zeroclaw as an AI agent harness communicating through Telegram, and Cloudflare Tunnel for secure external access without exposed ports. Additional monitoring, management, and productivity tools like Beszel, Dozzle, Gatus, Fusion RSS, Shiori, and Diun operate efficiently within the hardware's strict memory constraints.</p>
 <p>Nov 7 · <a href="https://blog.bosscher.ch/posts/openstick/">blog.bosscher.ch</a> | <a href="https://news.ycombinator.com/item?id=50406670">hacker news</a></p>
-<br clear="all" />
-
-<h2>Meta Ray-Ban Smartglasses Hacked to Achieve Arbitrary Code Execution</h2>
-<a name="story-26766"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.golem.de%2F2310%2F178741-408383-408380.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A security researcher achieved arbitrary code execution on Meta Ray-Ban smartglasses by intercepting over-the-air firmware updates and deploying a custom application via the Device Access Toolkit. By hooking application methods with Frida, the researcher extracted full firmware images and established an interactive bind shell over a Wi-Fi Direct connection.</p><p>Although initial self-signing methods were later blocked in firmware version 127, the signature verification checks were bypassed by modifying feature flags within mobile configuration files. The vulnerabilities were reported to Meta through its bug bounty program and have since been addressed.</p>
-<p>Nov 7 · <a href="https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/">p0pcycle.com</a> | <a href="https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses">lobsters</a></p>
 <br clear="all" />
 
 ---
