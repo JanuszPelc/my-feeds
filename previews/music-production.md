@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Audiofile Engineering Releases SoundEdit and Updates Fidelia to v2.13 and v2.1</h2>
+<a name="story-26995"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsoundedit-1-1-slices.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audiofile Engineering has released SoundEdit, a new audio editor and sample manager for macOS, alongside major updates to its Fidelia music player for macOS, iOS, and iPadOS. SoundEdit features folder-based library management with automatic audio measurement, zero-crossing recording, hardware integration with Teenage Engineering devices, batch processing, and an optional Model Context Protocol server for AI agent editing.</p><p>Fidelia version 2.13 for macOS introduces watched folders, high-resolution playback metrics columns, and an AI-compatible MCP server, while version 2.1 for iOS and iPadOS adds the Bridge feature for remote library streaming over home networks or VPNs, with CarPlay support. Both applications are available as free downloads with 14-day trials, with full licenses and network playback features offered as paid additions.</p>
+<p>Nov 10 · <a href="https://www.kvraudio.com/news/audiofile-engineering-releases-soundedit-and-updates-fidelia-to-v2-13-for-macos-and-v2-1-for-ios-69683?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69683">kvraudio.com</a> | <a href="https://audiofile.engineering/apps/">audiofile.engineering</a></p>
+<br clear="all" />
+
 <h2>Rast Sound Releases Cinescapes Pro for iOS and iPadOS</h2>
 <a name="story-27007"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcinescapespro-ios-f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rast Sound has released Cinescapes Pro for iPhone and iPad, adapting its cinematic soundscape instrument for touch interfaces with dedicated layouts for each device. The app features 34 scenes, 160 main-layer sounds, sound shuffling, and movement controls, alongside WAV recording, MIDI export, and an AUv3 instrument extension.</p><p>The application is free to download with three scenes and corresponding sounds included. Users can unlock the full version through a one-time in-app purchase priced at $29.99 or €29.99, with no subscription required.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcurrents-and-head2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unusable Engineering has released Currents &amp; Nostalgia, a six-voice virtual analogue synthesizer plugin for macOS and Windows. The instrument is built around two circuit-modelled oscillators derived from an original saw-core hardware design by company founder Rasmus Nyåker, paired with a saturating waveform mixer and low-pass and high-pass filters.</p><p>The software features a subtractive architecture enhanced by two independent eight-slot systems for the oscillator and filter parameters, allowing users to sequence parameter states at audio rates without separate modulation programming. Available in AU and VST3 formats, the plugin includes 350 factory presets and is priced at €89.</p>
 <p>Nov 9 · <a href="https://www.kvraudio.com/news/unusable-engineering-releases-currents-and-nostalgia-synthesizer-plugin-au-and-vst3-69692?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69692">kvraudio.com</a> | <a href="https://www.unusable.net/synthesizers/currents-and-nostalgia/">unusable.net</a></p>
-<br clear="all" />
-
-<h2>Tuned Plugins Releases Vocal Essentials Bundle V2</h2>
-<a name="story-26906"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffr.moogaudio.com%2Fcdn%2Fshop%2Ffiles%2FTuned-Plugins_Vocal-Essentials_Bundle_800x.jpg%3Fv%3D1772469913&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tuned Plugins has released Vocal Essentials Bundle V2, a collection of four updated vocal effects for macOS and Windows, available at a launch price of $9.99 as part of its "F*CK AI SLOP" campaign. The campaign serves as a pushback against rushed plugins created using artificial intelligence to replace traditional craftsmanship and thoughtful audio development.</p><p>The bundle includes VocalTune V2, Vocal Chain V2, Tuned Reverb V2, and Smooth Sibilance V2, all featuring redesigned user interfaces, updated digital signal processing, searchable preset browsers, and Smart Gain loudness matching. The plugins support VST3, AAX, and AU formats and require macOS 11 or Windows 10 or newer.</p>
-<p>Nov 9 · <a href="https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/">bedroomproducersblog.com</a> | <a href="https://tunedplugins.com/products/vocal-essentials-bundle-v2">tunedplugins.com</a></p>
 <br clear="all" />
 
 ---
