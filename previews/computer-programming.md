@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Apple Support Community Forums to Permanently Close on November 20</h2>
+<a name="story-27120"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-1-f.scribdassets.com%2Fimg%2Fdocument%2F502643974%2Foriginal%2F09358ba87b%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple has announced that its official support community forums will permanently shut down on November 20, 2026. The platform, which has operated in various forms since at least 1998, has transitioned into a read-only state that no longer accepts new user posts or replies.</p><p>Visitors attempting to access the discussion portal are greeted by a closing notice directing them to the main Apple Support website for product guidance. While the platform has historically been branded as the Apple Support Community, the shutdown notice specifically references the "AppleCare Support Community," and ongoing access appears restricted to internal accounts.</p>
+<p>Nov 11 · <a href="https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/">9to5mac.com</a></p>
+<br clear="all" />
+
 <h2>Migrating to Hardware-Backed SSH Keys Using YubiKey, TPM, and Apple Secure Enclave</h2>
 <a name="story-27132"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ctrlops.io%2Fblog%2Fssh-key-management-best-practices%2FStandard-SSH-Keys-vs-FIDO2-Hardware-Keys.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An administrator documents the transition away from traditional on-disk SSH keys by utilizing hardware-backed security methods, achieving the goal of storing key material without unprotected files on disk. The methods explored include using native ed25519-sk keys with a YubiKey, setting up TPM-backed keys via ssh-tpm-agent, and configuring Apple Secure Enclave identities on macOS.</p><p>The guide provides practical instructions, command-line examples, and operational caveats for each hardware approach, including handling unattended use cases and limitations such as Touch ID behavior in clamshell mode. While hardware-resident keys eliminate the risk of key exfiltration from disk, the author emphasizes the importance of maintaining redundancy to prevent lockout due to hardware loss or failure.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26983"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcomputerscience.chemeketa.edu%2FCS205%2F_images%2Fterminal-emulator.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Terminal2Shell is described as a design-level vulnerability in terminal emulators that provides instant shell access upon launching a terminal application. The flaw stems from the terminal's standard function of spawning a shell process connected to the user's keyboard, allowing for the execution of arbitrary commands with the privileges of the logged-in user. Affected systems include macOS, Linux, Windows, and various BSD distributions.</p><p>No vendor patches are currently available to remediate this vulnerability. Suggested mitigations include avoiding terminal applications, closing terminals immediately after use, or setting the shell to `/bin/false`. The article includes a working proof of concept and a historical timeline of shell implementations.</p>
 <p>Nov 9 · <a href="https://terminal2shell.com/">terminal2shell.com</a> | <a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50426769">hacker news</a></p>
-<br clear="all" />
-
-<h2>Foldable Flight Offers Paper Airplane Templates and Products</h2>
-<a name="story-26974"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.etsystatic.com%2F18689648%2Fr%2Fil%2F54e6df%2F2357008504%2Fil_1588xN.2357008504_fote.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Foldable Flight provides a collection of paper airplane designs, including models like Firefly 5, Unite, and Arrowhead. The site offers templates for different paper types, such as A4, US Letter, and square, while providing performance metrics for speed, glide, and accuracy.</p><p>Certain designs are associated with flight records, such as Firefly 5 and the Unite model, which holds a world record for time aloft at 31.2 seconds. The collection includes models for various skill levels and designs inspired by aircraft like the SU-27 and F-14 Tomcat.</p>
-<p>Nov 9 · <a href="https://www.foldableflight.com">foldableflight.com</a> | <a href="https://news.ycombinator.com/item?id=50424581">hacker news</a></p>
 <br clear="all" />
 
 ---
