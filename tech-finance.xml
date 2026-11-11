@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-10T18:52:00+00:00</updated>
+  <updated>2026-11-10T20:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Alta Raises $47.5 Million Series A to Build Financial Institution Blockchain</title>
+    <link href="https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244" rel="alternate" />
+    <id>https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244::v240</id>
+    <published>2026-11-10T20:00:00+00:00</published>
+    <updated>2026-11-10T20:00:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fjrfm%2Fjrfm-17-00054%2Farticle_deploy%2Fhtml%2Fimages%2Fjrfm-17-00054-g001.png%3F1706707486&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244">theblock.co</a> | <a href="https://www.globenewswire.com/news-release/2026/11/10/3399854/0/en/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain.html">globenewswire.com</a></small></p><hr/><p>Alta has raised $47.5 million in a Series A funding round led by Index Ventures to develop blockchain infrastructure for banks and payment companies. This brings the startup's total funding to $80 million, including $32.5 million previously raised in seed funding.</p><p>The company is building a blockchain with integrated privacy and compliance controls designed to meet the specific requirements of global financial institutions. Alta has partnered with payments firm Airwallex to connect its blockchain to payment networks for stablecoin and fiat transfers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fjrfm%2Fjrfm-17-00054%2Farticle_deploy%2Fhtml%2Fimages%2Fjrfm-17-00054-g001.png%3F1706707486&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 01:41 UTC | #27067</small>]]></content>
+  </entry>
   <entry>
     <title>Dreeze Secures $33 Million in Seed Funding for Cloud Application Recovery</title>
     <link href="https://www.calcalistech.com/ctechnews/article/rkkeose0fe" rel="alternate" />

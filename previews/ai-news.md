@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>OpenAI Launches Business Hub and Business Profiles for ChatGPT</h2>
 <a name="story-27070"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-10-at-9.25.01-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has launched Business Hub, a beta feature allowing companies to create and verify business profiles within ChatGPT. Through this platform, enterprises can manage information regarding their products and services and deploy specialized business agents to answer user queries.</p><p>The initiative provides businesses with analytics, including metrics for profile views, mentions, and website clicks. This strategic shift moves ChatGPT toward a consumer discovery engine model similar to Google, following previous unsuccessful attempts to build a direct e-commerce hub.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/">techcrunch.com</a></p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50443944">hacker news</a></p>
 <br clear="all" />
 
 <h2>Claude Fable 5.2 Generates Fully Functional Video Game from Hand-Drawn Designs</h2>
