@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Game Sound Con 2026 Explores AI Integration and Audio Design Trends</h2>
+<a name="story-27192"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fgame-sound-con-malleant%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Game Sound Con celebrated its 18th annual event in Los Angeles, bringing together video game composers, sound designers, and industry professionals for two days of panels, workshops, and product demonstrations. Key sessions featured representatives from major developers like Valve and Insomniac Games, alongside prominent composers discussing the practical realities of crafting interactive audio for the gaming market.</p><p>Discussions at the conference heavily focused on the implications of artificial intelligence in audio production, with speakers addressing the differing impacts on recorded music versus complex game scoring. Additional panels highlighted evolving technical trends, including the push toward streamlined workflows, the integration of music and sound systems in middleware, and fan expectations when adapting classic game soundtracks for modern remakes.</p>
+<p>Nov 11 · <a href="https://musictech.com/news/events/games-sound-con-2026/">musictech.com</a> | <a href="https://www.gamesoundcon.com/">gamesoundcon.com</a></p>
+<br clear="all" />
+
 <h2>PlayStation Cancels Fairgames Multiplayer Shooter</h2>
 <a name="story-27182"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltb27383992a2f7963%2F6af491faddd4d326961f9898%2Ffairgames.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sony has cancelled the multiplayer heist shooter Fairgames, ending its development at Haven Studios. A Sony spokesperson stated that the studio will not face layoffs, as staff will instead transition to support roles for other PlayStation studios.</p><p>The game was first announced in May 2023 and was Haven Studios' only project since the developer was acquired by PlayStation in 2022. The cancellation follows a series of challenges for PlayStation's live-service gaming initiatives.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26947"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt3701c4dcdeecdcab%2F6af1ee7a91f097778ae4f4ad%2Fstarwarszerocompanysteam.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bit Reactor, the developer of Star Wars Zero Company, has laid off an unspecified number of employees. This follows a previous furlough in August and a partial rehire of staff in October.</p><p>Alinea Analytics estimated Star Wars Zero Company sold approximately one million copies by late September, though official sales data is unavailable since Electronic Arts was taken private. The studio recently released a 1.2 update, but has provided little information regarding the game's ongoing development.</p>
 <p>Nov 9 · <a href="https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff">gamedeveloper.com</a></p>
-<br clear="all" />
-
-<h2>World of Warcraft: Forever Breaks Peak Concurrent and Returning Player Records at Launch</h2>
-<a name="story-26939"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltf906d4df85e7ab85%2F6af1f3c7c2a5a2122223e928%2Fworldofwarcraftforever.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Blizzard Entertainment reports that the game's launch has exceeded previous player-count milestones, specifically for peak concurrent users and returning players. This version of the MMORPG rebuilds the original setting and first-year gameplay while introducing new content and character races.</p><p>The launch resulted in the highest number of returning players in the game's history. The project integrates new storylines and features into the foundation of the original title.</p>
-<p>Nov 9 · <a href="https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers">gamedeveloper.com</a> | <a href="https://bsky.app/profile/worldofwarcraft.blizzard.com/post/3mzoudcfxws2t">bsky.app</a></p>
 <br clear="all" />
 
 ---

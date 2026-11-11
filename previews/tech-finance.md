@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Edelbyte Raises $70 Million for AI Agent Data Analytics Platform</h2>
+<p>Edelbyte, a company based in Tel Aviv and San Francisco, has emerged from stealth with $70 million in combined seed and Series A funding. The company is developing a data analytics platform specifically optimized for AI agents.</p><p>The technology is designed to reimagine big data analytics to meet the requirements of AI agents.</p>
+<p>Nov 11 · <a href="https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/">forbes.com</a></p>
+<br clear="all" />
+
 <h2>Rox Raises $100 Million in Series B Funding at $1.3 Billion Valuation</h2>
 <a name="story-27168"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fwp-content%2Fuploads%2F2026%2F03%2F1773364582_1759957602099.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rox, an AI sales startup, has raised $100 million in Series B funding at a $1.3 billion valuation. General Catalyst and March Capital co-led the round, which included participation from Sequoia, GV, and Prosperity7. The company provides AI agents designed to automate sales workflows, including account research, lead prioritization, and outreach preparation.</p><p>Founded by former New Relic executive Ishan Mukherjee, Rox aims to compete with established CRM providers like Salesforce by building an AI-native platform rather than retrofitting legacy software. The leadership team includes former employees from AWS and Google, along with a Stanford AI Lab professor. Rox reported a tenfold increase in annual recurring revenue since its launch and intends to use the capital to expand its U.S. commercial and marketing teams.</p>
@@ -88,11 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Dreeze Secures $33 Million in Seed Funding for Cloud Application Recovery</h2>
 <p>Dreeze, an Israeli cloud recovery startup founded by the creators of Zerto, has raised $33 million in a seed funding round led by Norwest and Bessemer Venture Partners. The company develops technology designed to restore entire cloud applications and their dependencies—including infrastructure, configurations, and credentials—to ensure businesses can resume operations more effectively than traditional data-only backup systems.</p><p>Co-founded by Ziv and Oded Kedem and Avi Raichel, Dreeze currently employs approximately 70 people across Israel and the United States. Ziv Kedem previously co-founded Kashya and Zerto, the latter of which was acquired by Hewlett Packard Enterprise in 2021 for $374 million.</p>
 <p>Nov 10 · <a href="https://www.calcalistech.com/ctechnews/article/rkkeose0fe">calcalistech.com</a></p>
-<br clear="all" />
-
-<h2>Mercor Raises $750 Million in Series D Funding at $20 Billion Valuation</h2>
-<p>The AI training startup Mercor raised $750 million in a Series D funding round, valuing the company at $20 billion. This is an increase from its $10 billion valuation in October 2025.</p><p>Investors in the round include Benchmark, General Catalyst, and Nvidia.</p>
-<p>Nov 10 · <a href="https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/">reuters.com</a></p>
 <br clear="all" />
 
 ---
