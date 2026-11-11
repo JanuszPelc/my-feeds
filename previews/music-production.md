@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>GenuineSoundware Releases MIDI-AXE Free MIDI Monitor and Toolbox</h2>
+<a name="story-27162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmidi-axe_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GenuineSoundware has released MIDI-AXE, a free MIDI monitor, router, and toolbox application for Windows and macOS. The software includes a color-coded MIDI monitor with hexadecimal and decimal displays, a complete SysEx view, a routing matrix, a SysEx librarian, and a MIDI Clock/MTC monitor and generator.</p><p>Additional features comprise an on-screen keyboard, 16 assignable controller sliders, and a built-in SoundFont player with ASIO support. The scalable interface provides light and dark themes, dockable and floating windows, and automatic USB device reconnection across sessions.</p>
+<p>Nov 11 · <a href="https://www.kvraudio.com/news/genuinesoundware-releases-midi-axe---free-midi-monitor-router-and-toolbox-for-windows-and-macos-69755?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69755">kvraudio.com</a> | <a href="https://www.genuinesoundware.com/?a=page&p=MIDI-AXE">genuinesoundware.com</a></p>
+<br clear="all" />
+
+<h2>Song Athletics Makes OSS Sampler Plugin Free</h2>
+<a name="story-27171"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FBk33bCg3DWR4q7CYg3557j.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The OSS one-shot sampler plugin is now free for macOS and Windows users. The tool maps individual samples across a keyboard to enable melodic and chordal playback and includes features such as random sample selection and integrated delay effects.</p><p>Available in VST3 and AU formats, the plugin allows users to load custom sample folders or use the included demo pack. It features controls for amplitude envelopes and delay, and provides customization options for interface colors and background images.</p>
+<p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/song-athletics-oss-free/">bedroomproducersblog.com</a> | <a href="https://songathletics.com/products/oss">songathletics.com</a></p>
+<br clear="all" />
+
 <h2>Numerical Audio Updates Konstrukt to v1.2 for iPad and iPhone</h2>
 <a name="story-27156"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F01-hero_konstrukt.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Numerical Audio has released version 1.2 of its iOS music toolkit and renamed the app from MIDIRack to Konstrukt. The update introduces third-party AUv3 plug-in hosting, an audio path managed through a new Rack page, additional sequencers, and the ability to save custom graph editor nodes as reusable fragments.</p><p>The free update for existing users includes channel strips with insert effects and sidechain routing, 24-bit WAV recording, Ableton Link support, and new sequencing tools like Drum Grid and Stage Seq. Konstrukt is available as a standalone app and AUv3 plug-in for iPad and iPhone running iOS or iPadOS 17 or later.</p>
@@ -84,17 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27011"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnyverb-core-overview.1794310692.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>noizplay has released version 1.2.2 of nyVERB core, the free edition of its reverb plugin. The update introduces six customizable profiles—room, drums, vocal, plate, wash, and sync—that dictate how the single space knob controls the engine's behavior.</p><p>The new sync profile synchronizes decay and pre-delay parameters to the host project's tempo, ranging from 1/16 to 2 bars. Additionally, version 1.2.2 includes an optional update check and stability fixes, with sessions saved in older versions defaulting to the room profile.</p>
 <p>Nov 10 · <a href="https://www.kvraudio.com/news/noizplay-updates-nyverb-core-to-v1-2-2-69730?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69730">kvraudio.com</a> | <a href="https://noizplay.com/nyverb-core/">noizplay.com</a></p>
-<br clear="all" />
-
-<h2>DirektDSP Releases Polygraph Real-Time Audio-to-MIDI Plugin</h2>
-<a name="story-27012"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsocial-card.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DirektDSP has released Polygraph, a real-time, polyphonic audio-to-MIDI plugin designed for instruments like electric guitars, pianos, and synthesizers. The software converts live audio input into MIDI data, supporting complex tracking for chords, single notes, bends, and re-plucks.</p><p>The plugin includes a dedicated lead mode for single-note tracking with full pitch bend and MPE support, alongside a Scale Lock feature that restricts output MIDI to 12 predefined scales or custom notes. It also features a built-in synthesizer with five waveforms and an ADSR envelope, and is available for Windows, macOS, and Linux in VST3, AU, CLAP, and standalone formats.</p>
-<p>Nov 10 · <a href="https://www.kvraudio.com/news/direktdsp-releases-polygraph---real-time-audio-to-midi-plugin-for-windows-macos-linux-au-clap-and-vst3-69718?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69718">kvraudio.com</a> | <a href="https://direktdsp.com/products/polygraph">direktdsp.com</a></p>
-<br clear="all" />
-
-<h2>noshigeSound Releases noshige73 LITE Free 1073-Style EQ Plugin</h2>
-<p>noshigeSound has released noshige73 LITE, a free, 1073-style console equalizer plugin available for macOS and Windows in VST3, AU, and AAX formats. The processor includes a fixed high shelf, four low-shelf frequencies, six selectable mid frequencies, a high-pass filter, and an interactive graphical EQ display.</p><p>While sharing features with the paid PRO version, the LITE edition employs a smaller emulation model. The plugin is resource-intensive, though users can offload processing to a compatible GPU to reduce CPU load under specific buffer constraints.</p>
-<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/">bedroomproducersblog.com</a> | <a href="https://noshigesound.com/products/noshige73">noshigesound.com</a></p>
 <br clear="all" />
 
 ---

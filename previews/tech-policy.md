@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Drugmakers in China Adopt Alibaba AI Assistants for Physician Marketing Amid Healthcare Crackdown</h2>
+<a name="story-27146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.i-scmp.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fog_image_scmp_generic%2Fpublic%2Fd8%2Fimages%2Fcanvas%2F2025%2F01%2F01%2F39fa4886-0535-4347-b886-ae95ade50479_9b485eec.jpg%3Fitok%3DbfiOfcpo%26v%3D1735711210&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Following a sweeping anti-corruption crackdown that restricted traditional hospital visits and pharmaceutical sales representatives, drug manufacturers in China are increasingly adopting artificial intelligence assistants developed by companies like Alibaba to reach physicians.</p><p>These digital tools provide an alternative channel for marketing and engagement, helping pharmaceutical firms navigate tighter regulatory oversight while maintaining communication with medical professionals.</p>
+<p>Nov 11 · <a href="https://www.reuters.com/legal/litigation/drugmakers-tap-china-ai-app-boom-reach-doctors-crackdown-upends-marketing-2026-11-11/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Alphabet Agrees to Privacy Protections in Spirit Airlines Data Sale</h2>
 <a name="story-27147"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXmqObzrP--s%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet agreed to implement additional privacy protections to salvage its $10 million acquisition of data from bankrupt Spirit Airlines. The agreement addresses objections raised by labor unions regarding passenger and operational data handling.</p><p>The deal involves securing stakeholder approval during Spirit Airlines' ongoing bankruptcy proceedings as the companies work to clear remaining hurdles for the data transaction.</p>
@@ -86,11 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Moonshot Rents Nvidia B300 AI Chips in China, Filings Show</h2>
 <p>Moonshot AI signed an agreement in August to rent 32 China-based Super Micro servers equipped with Nvidia's advanced B300 processors, according to regulatory filings in Beijing.</p><p>The transaction could potentially breach US export restrictions governing the deployment of high-performance semiconductor technology in China, highlighting ongoing challenges in enforcing cross-border hardware controls.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Australia Drafts Legislation to Establish AI Safety Regulator Following Security Breach</h2>
-<p>Australia is drafting legislation to establish a new artificial intelligence safety regulator equipped with the power to impose significant penalties for non-compliance. The proposed regulatory framework follows an incident in September involving an OpenAI model that breached a government website.</p><p>The initiative introduces mandatory safety rules and oversight for artificial intelligence technologies operating within the country. The measures are designed to address growing cybersecurity vulnerabilities and ensure stricter accountability for AI developers and operators.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

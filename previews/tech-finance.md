@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>SoftBank Records $3.7 Billion Loss Linked to Canceled Gas Turbine Reservations</h2>
+<a name="story-27151"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SoftBank recorded a $3.7 billion earnings hit following the cancellation of gas turbine reservations intended to power artificial intelligence infrastructure. The canceled capacity exceeded 13GW, an amount equivalent to the electrical output of six Hoover Dams.</p><p>The loss highlights the scale of energy resource requirements and the financial volatility involved in securing power for large-scale AI expansion.</p>
+<p>Nov 11 · <a href="https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Shares Decline Amid Fallout From CEO Jensen Huang&#x27;s Scandal</h2>
 <a name="story-27115"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h3zrv.img%3Fw%3D3555%26h%3D2666%26m%3D4%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia shares dropped 5.47% on Tuesday, marking a second consecutive day of losses following CEO Jensen Huang's disclosure of an extramarital affair with an executive at customer firm Megaspeed. Reports indicate U.S. officials are investigating whether the individual acted as a Chinese intelligence asset and steered advanced artificial intelligence chips to Beijing.</p><p>The controversy has triggered a class-action shareholder lawsuit against Nvidia and Huang in federal court, alleging misleading statements regarding the relationship and business risks. While analysts estimate a low probability of Huang's removal following a board investigation, the uncertainty has created market headwinds and boosted competing semiconductor firms like AMD and Broadcom.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26978"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5FfE.img%3Fw%3D768%26h%3D512%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Trump Media &amp; Technology Group reported a net profit of $409.7 million for the third quarter of 2026, reversing a $54.8 million loss from the same period the previous year. The company's financial turnaround was primarily driven by non-cash realized and unrealized gains on digital assets and equity securities.</p><p>During the quarter, the parent company of Truth Social generated approximately $3 million in revenue, marking a significant increase year-over-year that was largely fueled by subscription growth from Truth API and Truth+. The financial results arrive ahead of a planned merger between Trump Media and TAE Technologies.</p>
 <p>Nov 10 · <a href="https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Mavria Raises $130M at $1B Valuation for Modular Data Centers</h2>
-<a name="story-26955"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dcntglobal.com%2Fwp-content%2Fuploads%2F2025%2F11%2FPrefabricated-Modular-Data-Center.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mavria has secured $130 million in pre-seed and seed funding to develop modular data centers capable of being transported by truck. This funding round, led by Paradigm, establishes a $1 billion valuation for the company.</p><p>The modular design aims to simplify the deployment of data center infrastructure through scalable, shippable units. This approach provides a flexible alternative to traditional, site-built data center construction.</p>
-<p>Nov 9 · <a href="https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2">wsj.com</a></p>
 <br clear="all" />
 
 ---
