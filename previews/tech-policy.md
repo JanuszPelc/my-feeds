@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Jensen Huang&#x27;s Evolving Stance on China and Export Controls</h2>
+<a name="story-27164"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.semafor.com%2F852581033a506a44fc81bb4f668130d01df0788e-1840x1924.png%3Fw%3D740%26q%3D75%26auto%3Dformat%26h%3D773&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Analysis of 42 podcast interviews shows that Jensen Huang’s rhetoric regarding China and US chip export controls shifted following 2025 US restrictions on Nvidia’s China-specific products. Huang moved from a position of neutral compliance to expressing criticism of trade curbs and highlighting the strengths of China's AI research and manufacturing.</p><p>The shift occurred alongside investigations by Nvidia's board and Congress into Huang's personal conduct. These inquiries follow an affair with a Singapore-based executive suspected of having ties to Beijing, and Congress is planning hearings on the matter.</p>
+<p>Nov 11 · <a href="https://www.semafor.com/article/11/11/2026/tracking-how-jensen-huang-changed-his-stance-on-china">semafor.com</a> | <a href="https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang">cnn.com</a></p>
+<br clear="all" />
+
 <h2>Drugmakers in China Adopt Alibaba AI Assistants for Physician Marketing Amid Healthcare Crackdown</h2>
 <a name="story-27146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.i-scmp.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fog_image_scmp_generic%2Fpublic%2Fd8%2Fimages%2Fcanvas%2F2025%2F01%2F01%2F39fa4886-0535-4347-b886-ae95ade50479_9b485eec.jpg%3Fitok%3DbfiOfcpo%26v%3D1735711210&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Following a sweeping anti-corruption crackdown that restricted traditional hospital visits and pharmaceutical sales representatives, drug manufacturers in China are increasingly adopting artificial intelligence assistants developed by companies like Alibaba to reach physicians.</p><p>These digital tools provide an alternative channel for marketing and engagement, helping pharmaceutical firms navigate tighter regulatory oversight while maintaining communication with medical professionals.</p>
@@ -87,11 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26997"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fchina-mapa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>China's trade surplus reached $1.04 trillion during the first ten months of 2026, marking the second consecutive year the figure has exceeded $1 trillion. The surplus was driven by a surge in exports related to the global competition to build artificial intelligence infrastructure.</p><p>These AI-driven technology exports helped offset weakness in domestic demand within China. The increase in tech-related sales has played a critical role in sustaining the country's trade balance despite internal economic challenges.</p>
 <p>Nov 10 · <a href="https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Moonshot Rents Nvidia B300 AI Chips in China, Filings Show</h2>
-<p>Moonshot AI signed an agreement in August to rent 32 China-based Super Micro servers equipped with Nvidia's advanced B300 processors, according to regulatory filings in Beijing.</p><p>The transaction could potentially breach US export restrictions governing the deployment of high-performance semiconductor technology in China, highlighting ongoing challenges in enforcing cross-border hardware controls.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
