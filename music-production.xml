@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-11T09:05:00+00:00</updated>
+  <updated>2026-11-11T09:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Reasonable Audio Releases Preamble Free Preamp Distortion Plugin</title>
+    <link href="https://www.kvraudio.com/news/reasonable-audio-releases-preamble---free-preamp-distortion-plug-in-aax-au-clap-and-vst3-69753?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69753" rel="alternate" />
+    <id>https://www.kvraudio.com/news/reasonable-audio-releases-preamble---free-preamp-distortion-plug-in-aax-au-clap-and-vst3-69753?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69753::v240</id>
+    <published>2026-11-11T09:12:00+00:00</published>
+    <updated>2026-11-11T09:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpreamble-ui-light.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/reasonable-audio-releases-preamble---free-preamp-distortion-plug-in-aax-au-clap-and-vst3-69753?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69753">kvraudio.com</a> | <a href="https://reasonableaudio.com/preamble">reasonableaudio.com</a></small></p><hr/><p>Reasonable Audio has released Preamble, a free preamp distortion plug-in modeled after the input stage of a bucket-brigade delay pedal. Available in VST3, AU, CLAP, and AAX formats for Windows, macOS, and Linux, the software is designed to shape audio dynamics and add saturation prior to subsequent processing stages.</p><p>Developed using neural models trained on the original hardware, Preamble features adjustable input-driven saturation and compression, autogain, low-cut and high-cut filters, a dry/wet mix control, and selectable oversampling. An iOS version in AUv3 format is planned for release at a later date.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpreamble-ui-light.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 14:25 UTC | #27134</small>]]></content>
+  </entry>
   <entry>
     <title>UVI Releases Twin 88 Keys Acoustic and Electric Piano Instrument</title>
     <link href="https://www.kvraudio.com/news/uvi-releases-twin-88-keys---acoustic-and-electric-piano-together-69739?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69739" rel="alternate" />

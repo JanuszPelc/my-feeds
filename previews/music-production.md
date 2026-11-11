@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Reasonable Audio Releases Preamble Free Preamp Distortion Plugin</h2>
+<a name="story-27134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpreamble-ui-light.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Reasonable Audio has released Preamble, a free preamp distortion plug-in modeled after the input stage of a bucket-brigade delay pedal. Available in VST3, AU, CLAP, and AAX formats for Windows, macOS, and Linux, the software is designed to shape audio dynamics and add saturation prior to subsequent processing stages.</p><p>Developed using neural models trained on the original hardware, Preamble features adjustable input-driven saturation and compression, autogain, low-cut and high-cut filters, a dry/wet mix control, and selectable oversampling. An iOS version in AUv3 format is planned for release at a later date.</p>
+<p>Nov 11 · <a href="https://www.kvraudio.com/news/reasonable-audio-releases-preamble---free-preamp-distortion-plug-in-aax-au-clap-and-vst3-69753?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69753">kvraudio.com</a> | <a href="https://reasonableaudio.com/preamble">reasonableaudio.com</a></p>
+<br clear="all" />
+
 <h2>UVI Releases Twin 88 Keys Acoustic and Electric Piano Instrument</h2>
 <a name="story-27135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin88keys_bannerkvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UVI has released Twin 88 Keys, a virtual instrument combining a concert grand piano and a vintage electric piano into a single interface. The grand piano is based on a CFX recorded in California, while the electric piano was sampled in Paris across its full dynamic range.</p><p>Players can combine the two instruments using velocity blending, keyboard splits, tone blending, or continuous crossfading. Each piano features independent microphone controls, filters, EQ, modulation, and effects processing, alongside support for the free UVI Player and Falcon software.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27000"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmfs-ep-8-midnight-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Synthwave duo The Midnight, consisting of Tyler Lyle and Tim McEwan, appears on episode 91 of the *My Forever Studio* podcast. The guests discuss their essential analogue synthesizers, microphones, and the items they would include in a permanent studio setup.</p><p>The episode explores how the duo handles remote collaboration across the United States and their balance of hardware and software production. They also highlight the specific affordable plugins used to achieve their signature retro-futuristic production style.</p>
 <p>Nov 10 · <a href="https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>DJW Audio Releases Free DW-303 Bass Synthesizer Plugin</h2>
-<p>DJW Audio has released DW-303, a free, open-source TB-303-style bass synthesizer and step sequencer available for macOS, Windows, and Linux. The instrument models the original hardware's oscillator, filter, envelopes, accent, and slide circuits based on schematic analysis and hardware measurements.</p><p>The plugin features a 16-step hardware-style sequencer supporting pattern chaining, MIDI clock synchronization, and a standalone application mode that accepts MIDI input. It is distributed in VST3, CLAP, AU, AAX, and LV2 formats across supported platforms, requiring no license key or activation.</p>
-<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/">bedroomproducersblog.com</a> | <a href="https://djwaudio.co/#dw-303">djwaudio.co</a></p>
 <br clear="all" />
 
 ---
