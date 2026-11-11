@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-11T15:14:00+00:00</updated>
+  <updated>2026-11-11T16:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Rox Raises $100 Million in Series B Funding at $1.3 Billion Valuation</title>
+    <link href="https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/" rel="alternate" />
+    <id>https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/::v240</id>
+    <published>2026-11-11T16:21:00+00:00</published>
+    <updated>2026-11-11T16:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fwp-content%2Fuploads%2F2026%2F03%2F1773364582_1759957602099.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/">fortune.com</a></small></p><hr/><p>Rox, an AI sales startup, has raised $100 million in Series B funding at a $1.3 billion valuation. General Catalyst and March Capital co-led the round, which included participation from Sequoia, GV, and Prosperity7. The company provides AI agents designed to automate sales workflows, including account research, lead prioritization, and outreach preparation.</p><p>Founded by former New Relic executive Ishan Mukherjee, Rox aims to compete with established CRM providers like Salesforce by building an AI-native platform rather than retrofitting legacy software. The leadership team includes former employees from AWS and Google, along with a Stanford AI Lab professor. Rox reported a tenfold increase in annual recurring revenue since its launch and intends to use the capital to expand its U.S. commercial and marketing teams.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fwp-content%2Fuploads%2F2026%2F03%2F1773364582_1759957602099.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 21:54 UTC | #27168</small>]]></content>
+  </entry>
   <entry>
     <title>Fractile Raises $720M at $7B Valuation for AI Chips</title>
     <link href="https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25" rel="alternate" />

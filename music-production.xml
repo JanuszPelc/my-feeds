@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-11T15:05:00+00:00</updated>
+  <updated>2026-11-11T16:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>AlphaTheta Unveils DJM-A7 Four-Channel Mixer</title>
+    <link href="https://musictech.com/news/gear/djm-a7-alphatheta-mixer/" rel="alternate" />
+    <id>https://musictech.com/news/gear/djm-a7-alphatheta-mixer/::v240</id>
+    <published>2026-11-11T16:48:00+00:00</published>
+    <updated>2026-11-11T16:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAlphaTheta-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/djm-a7-alphatheta-mixer/">musictech.com</a> | <a href="https://alphatheta.com/en/product/dj-mixer/djm-a7/black/">alphatheta.com</a></small></p><hr/><p>AlphaTheta has announced the DJM-A7, a four-channel mixer intended as a budget-friendly alternative to the DJM-A9. It includes 45 mm channel faders, USB Type-C ports, and compatibility with rekordbox, djay Pro, djay for iOS, and Serato DJ Pro.</p><p>Key features include a Master Texture tool for acoustic room analysis and a Split Filter for shaping midranges. The mixer also supports SonicLink for low-latency wireless monitoring and Link Cue for private track previews on compatible multi players.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAlphaTheta-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 21:55 UTC | #27188</small>]]></content>
+  </entry>
   <entry>
     <title>Sample Roll CRTE Granular Instrument Giveaway Announced</title>
     <link href="https://bedroomproducersblog.com/2026/11/11/sample-roll-crte-giveaway/" rel="alternate" />

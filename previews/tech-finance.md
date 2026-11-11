@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Rox Raises $100 Million in Series B Funding at $1.3 Billion Valuation</h2>
+<a name="story-27168"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fwp-content%2Fuploads%2F2026%2F03%2F1773364582_1759957602099.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rox, an AI sales startup, has raised $100 million in Series B funding at a $1.3 billion valuation. General Catalyst and March Capital co-led the round, which included participation from Sequoia, GV, and Prosperity7. The company provides AI agents designed to automate sales workflows, including account research, lead prioritization, and outreach preparation.</p><p>Founded by former New Relic executive Ishan Mukherjee, Rox aims to compete with established CRM providers like Salesforce by building an AI-native platform rather than retrofitting legacy software. The leadership team includes former employees from AWS and Google, along with a Stanford AI Lab professor. Rox reported a tenfold increase in annual recurring revenue since its launch and intends to use the capital to expand its U.S. commercial and marketing teams.</p>
+<p>Nov 11 · <a href="https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/">fortune.com</a></p>
+<br clear="all" />
+
 <h2>Fractile Raises $720M at $7B Valuation for AI Chips</h2>
 <p>London-based AI chip startup Fractile has raised $720 million in a funding round backed by investors including Thrive and Founders Fund. The financing values the company at approximately $7 billion post-money.</p><p>This valuation marks a significant increase from its roughly $1.1 billion valuation earlier in May. Fractile is part of a growing group of startups developing custom semiconductors designed specifically for artificial intelligence workloads.</p>
 <p>Nov 11 · <a href="https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25">ft.com</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Mercor Raises $750 Million in Series D Funding at $20 Billion Valuation</h2>
 <p>The AI training startup Mercor raised $750 million in a Series D funding round, valuing the company at $20 billion. This is an increase from its $10 billion valuation in October 2025.</p><p>Investors in the round include Benchmark, General Catalyst, and Nvidia.</p>
 <p>Nov 10 · <a href="https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Bay Secures $50 Million to Protect AI Agents</h2>
-<a name="story-27036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQH5Bilewqz9dQ%2Farticle-cover_image-shrink_720_1280%2FB4DZXbZ1N3HIAI-%2F0%2F1743142758126%3Fe%3D2147483647%26v%3Dbeta%26t%3Dc2liLWp1zbr0HpTTL6hWr6-guIOCTqqRy6v8VBNfwus&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The agentic cybersecurity startup Bay has emerged from stealth following a $50 million funding round. The company provides security, control, and accountability for enterprise AI agents.</p><p>CEO Yuval Zacharia confirmed the news, noting the increasing need for reliable security as AI agents proliferate across corporate environments.</p>
-<p>Nov 10 · <a href="https://www.axios.com/pro/enterprise-software-deals/2026/11/10/agentic-security-bay-battery">axios.com</a></p>
 <br clear="all" />
 
 ---
