@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Databricks Updates AI Agent Genie for Multi-Step Enterprise Tasks</h2>
+<a name="story-27176"><img src="https://wsrv.nl/?url=https%3A%2F%2Frapl.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FGenie-Dashboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Databricks has unveiled an updated version of its AI agent, Genie, designed to perform unsupervised, multi-step jobs using a custom-built data ontology. CEO Ali Ghodsi demonstrated internal use cases, including analyzing employee satisfaction surveys, summarizing poorly executed sales calls, and preparing for interviews.</p><p>Ghodsi noted that the tool helps executive leadership bypass institutional filtering to surface critical feedback and unvarnished truths within large organizations exceeding Dunbar’s number. To manage potential enterprise AI costs and usage limits, Databricks integrates the agent with its Unity Gateway product.</p>
+<p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>House House Discloses AI Use in Big Walk Development</h2>
 <a name="story-27153"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheoutpost.ai%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_545603_big_walk_house_house_1794312350711_807a1bb8a5.jpg%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer House House has revealed that it used large language models sparingly during the final stages of developing Big Walk, sparking intense debate among Independent Games Festival jurors. The studio stated that LLMs accounted for well under 0.1% of the game's code and were exclusively used to help troubleshoot difficult technical bugs and third-party code issues.</p><p>While acknowledging that the disclosure might contribute to the normalization of generative AI, House House defended the tool's limited implementation to solve an otherwise intractable Unity rendering problem. The studio also noted that the game was developed without an internal AI usage policy, admitting that this lack of oversight was a failure it intends to address in the future.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Otter.ai Expands Multilingual Transcription to Over 30 Languages</h2>
 <p>Otter.ai has announced an expansion of its AI-powered note-taking platform to support 31 languages, introducing a new multilingual transcription feature capable of tracking conversations as speakers switch languages in real time. The update aims to remove communication barriers for international teams by automatically detecting language changes without requiring manual user adjustments.</p><p>The company is rolling out support for 27 new languages, with 13 currently available—including Mandarin Chinese, Korean, German, and Portuguese—and 14 more scheduled for release soon. These models were built using Otter's own speech technology, trained on public datasets and verified with the help of native-speaking volunteers.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/">techcrunch.com</a> | <a href="https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities">otter.ai</a></p>
-<br clear="all" />
-
-<h2>Google Gemini Routes Personal Drive Files and Emails to Human Reviewers</h2>
-<a name="story-26999"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA228hZP.img%3Fw%3D768%26h%3D457%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Documentation published on GitHub details how Google's Gemini AI with Connected Apps enabled can autonomously route personal Gmail and Google Drive files into human review pipelines. This ingestion occurs probabilistically during background conversations without requiring explicit user tags, contradicting earlier privacy commitments.</p><p>Testing demonstrates that background tool calls can extract partial quotes or ingest full, unredacted documents containing sensitive personally identifiable information into session contexts. Automated deidentification systems often fail to properly scrub narrative data like account numbers and transaction details, meaning private user files may be exposed to human contractors.</p>
-<p>Nov 10 · <a href="https://github.com/thisisme6598/gemini_files/">github.com</a> | <a href="https://news.ycombinator.com/item?id=50429426">hacker news</a></p>
 <br clear="all" />
 
 ---

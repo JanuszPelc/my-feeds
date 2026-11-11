@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sample Roll CRTE Granular Instrument Giveaway Announced</h2>
+<a name="story-27186"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrfObo84S8Go%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bedroom Producers Blog and Sample Roll are hosting a giveaway offering one free license for CRTE, a granular and wavetable instrument designed for macOS and Windows. Participants can enter by leaving a comment on the announcement post before November 17, 2026, with a winner to be chosen at random.</p><p>CRTE is designed to turn folders of melodic samples into playable instruments by mapping similar sounds together and utilizing up to three movable selection circles for combining audio. The instrument features ten playback types, an optional synth layer with wavetable creation, a vocoder, chord triggers, an arpeggiator, and built-in effects.</p>
+<p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/sample-roll-crte-giveaway/">bedroomproducersblog.com</a> | <a href="https://sampleroll.com/crte">sampleroll.com</a></p>
+<br clear="all" />
+
+<h2>ZAK Sound Releases Protonium for Raizes Player</h2>
+<a name="story-27172"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fprotonium-gui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ZAK Sound has released Protonium, a wavetable instrument designed for cinematic scoring, sci-fi soundtracks, and electronic music production. Created by sound designer Ryan Baxter using wavetables developed by ZAK Sound, the instrument features a sound palette comprising dark pads, evolving textures, rhythmic pulses, sequences, and playable synths.</p><p>The library includes 30 presets, 31 wavetables, and 30 MIDI files. Protonium is available at an introductory price of $16.80 until November 16, 2026, before increasing to its regular price of $24, and requires the free Raizes Player version 1.4.0 or later on Windows, macOS, Linux, and iPad.</p>
+<p>Nov 11 · <a href="https://www.kvraudio.com/news/zak-sound-releases-protonium-for-raizes-player-69748?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69748">kvraudio.com</a> | <a href="https://zaksound.com/protonium">zaksound.com</a></p>
+<br clear="all" />
+
 <h2>Sunfish Software Releases Fandust Free Lo-Fi Plugin</h2>
 <p>Sunfish Software has released Fandust, a free lo-fi audio effect plugin for macOS, Windows, and Linux featuring a Windows 98-inspired graphical user interface. Designed for vaporwave and slowed-and-reverb production, the effect combines pitch shifting, tape wear, time stretching, and a long reverb.</p><p>Users can adjust the slow control to drop speed and pitch together or use a separate stretch mode to slow down audio playback without altering pitch. Additional features include tape flutter, detune, tape saturation, smear, and a freeze option for the reverb tail, with installation requiring a free Sunfish account for activation.</p>
 <p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/sunfish-software-fandust/">bedroomproducersblog.com</a> | <a href="https://sunfish.software/">sunfish.software</a></p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsoklo-gs-5-gui-3d.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio Hertz has released the Soklo GS-5 Guitar Synth, a plugin developed in collaboration with experimental guitarist Soklo. The software uses pitch detection and resynthesis to track single guitar notes directly from audio without the need for MIDI pickups, supporting bends, slides, and vibrato with approximately 12 ms latency.</p><p>The plugin features five synth engines—Deep, Vintage, Solo, Strings, and Harmony—and includes built-in effects such as distortion, bitcrush, and gated reverb. It is available for macOS and Windows in VST3, AU, and AAX formats, with an introductory price of $39 USD.</p>
 <p>Nov 10 · <a href="https://www.kvraudio.com/news/audio-hertz-releases-soklo-gs-5-guitar-synth-vst3-au-aax-69723?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69723">kvraudio.com</a> | <a href="https://audiohertz.com/product/soklo-gs-5/">audiohertz.com</a></p>
-<br clear="all" />
-
-<h2>Spotify Adds New Personalities and Commentary Controls to AI DJ</h2>
-<a name="story-27030"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audkit.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fai-dj-on-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Spotify is updating its AI DJ feature to include new voices and personalities, as well as an option to limit commentary between songs. Premium subscribers can choose from seven English accents—including British, American, Irish, Australian, and Indian—and two Spanish voices. The update also allows users to toggle off the AI's verbal explanations and introductions to reduce interruptions.</p><p>These changes are rolling out to Premium users in over 95 global markets. New English voice personalities include options like Casey, Tess, and Lane, while the Spanish options include Nico and Fabi. This feature update follows Spotify's recent expansion into AI, which includes conversational music assistants and AI-powered playlist tools.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Fuse Audio Labs Releases Amber Drive Free British Guitar Amp Plugin</h2>
-<a name="story-27023"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8TVWqmo1sPU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Fuse Audio Labs has released Amber Drive, a free British-style guitar amp plugin available for macOS and Windows. The software models cascading 12AX7 preamp stages, an EL84 output section, and a passive tone stack to emulate medium-gain amplifier tones ranging from clean sounds to crunchy distortion.</p><p>The plugin features a streamlined interface with three primary controls for gain, tone, and volume, alongside a built-in cabinet simulation that can be bypassed in favor of external impulse responses. Designed with zero latency and low CPU consumption, Amber Drive supports VST2, VST3, AAX, and AU formats and requires a free user account on the developer's website for download.</p>
-<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/">bedroomproducersblog.com</a> | <a href="https://fuseaudiolabs.com/#/pages/product?id=301122043">fuseaudiolabs.com</a></p>
 <br clear="all" />
 
 ---

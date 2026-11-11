@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-11T14:24:00+00:00</updated>
+  <updated>2026-11-11T15:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Databricks Updates AI Agent Genie for Multi-Step Enterprise Tasks</title>
+    <link href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/::v240</id>
+    <published>2026-11-11T15:03:00+00:00</published>
+    <updated>2026-11-11T15:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Frapl.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FGenie-Dashboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/">techcrunch.com</a></small></p><hr/><p>Databricks has unveiled an updated version of its AI agent, Genie, designed to perform unsupervised, multi-step jobs using a custom-built data ontology. CEO Ali Ghodsi demonstrated internal use cases, including analyzing employee satisfaction surveys, summarizing poorly executed sales calls, and preparing for interviews.</p><p>Ghodsi noted that the tool helps executive leadership bypass institutional filtering to surface critical feedback and unvarnished truths within large organizations exceeding Dunbar’s number. To manage potential enterprise AI costs and usage limits, Databricks integrates the agent with its Unity Gateway product.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Frapl.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FGenie-Dashboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 20:14 UTC | #27176</small>]]></content>
+  </entry>
   <entry>
     <title>House House Discloses AI Use in Big Walk Development</title>
     <link href="https://aftermath.site/big-walk-ai-igf-jurors-controversy/" rel="alternate" />
