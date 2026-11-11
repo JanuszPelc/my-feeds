@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nvidia Shares Decline Amid Fallout From CEO Jensen Huang&#x27;s Scandal</h2>
+<a name="story-27115"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h3zrv.img%3Fw%3D3555%26h%3D2666%26m%3D4%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia shares dropped 5.47% on Tuesday, marking a second consecutive day of losses following CEO Jensen Huang's disclosure of an extramarital affair with an executive at customer firm Megaspeed. Reports indicate U.S. officials are investigating whether the individual acted as a Chinese intelligence asset and steered advanced artificial intelligence chips to Beijing.</p><p>The controversy has triggered a class-action shareholder lawsuit against Nvidia and Huang in federal court, alleging misleading statements regarding the relationship and business risks. While analysts estimate a low probability of Huang's removal following a board investigation, the uncertainty has created market headwinds and boosted competing semiconductor firms like AMD and Broadcom.</p>
+<p>Nov 11 · <a href="https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html">cnbc.com</a></p>
+<br clear="all" />
+
 <h2>CFTC Poised to Bring Charges Against Prediction Market Kalshi</h2>
 <a name="story-27113"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptotimes.io%2Fwp-content%2Fuploads%2F2026%2F05%2FCFTC-Backs-Kalshi-Against-Ohio-in-Escalating-Prediction-Market-Turf-War.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Commodity Futures Trading Commission is preparing potential charges against prediction market Kalshi over whether the company failed to properly notify the agency regarding dozens of new product contracts. The impending enforcement action, revealed by a source familiar with the unannounced probe, could lead to formal charges or a settlement.</p><p>A Kalshi spokesperson described the dispute as a procedural error involving contract submissions, noting that many of the affected contracts were not live and that the company is actively resolving the matter. Kalshi maintains that its offerings are traditional derivatives rather than wagers.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26955"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dcntglobal.com%2Fwp-content%2Fuploads%2F2025%2F11%2FPrefabricated-Modular-Data-Center.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mavria has secured $130 million in pre-seed and seed funding to develop modular data centers capable of being transported by truck. This funding round, led by Paradigm, establishes a $1 billion valuation for the company.</p><p>The modular design aims to simplify the deployment of data center infrastructure through scalable, shippable units. This approach provides a flexible alternative to traditional, site-built data center construction.</p>
 <p>Nov 9 · <a href="https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Spines Raises $64 Million to Expand AI-Powered Publishing Platform</h2>
-<a name="story-26922"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spines.com%2Fwp-content%2Fuploads%2F2025%2F04%2Fhome.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Israeli AI publishing company Spines has raised $64 million, including $29 million in equity led by Zeev Ventures and $35 million in debt financing from Twelve. The platform uses AI to perform editing, proofreading, cover design, and layout, enabling amateur authors to distribute books in digital, print, and audio formats.</p><p>The company's annual recurring revenue has grown from $3.5 million to $50 million over the last two years, supporting a portfolio of 8,000 authors. While Spines uses technology to detect and block AI-generated manuscripts, it offers AI-driven audiobook narration and plans to expand its language support to 20 languages within the next six months.</p>
-<p>Nov 9 · <a href="https://en.globes.co.il/en/article-israeli-ai-publishing-co-spines-raises-64m-1001562574">en.globes.co.il</a> | <a href="https://spines.com/">spines.com</a></p>
 <br clear="all" />
 
 ---
