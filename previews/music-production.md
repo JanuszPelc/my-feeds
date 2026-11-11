@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Warsaw Wave Releases Revolt Patchable Synth Plugin</h2>
+<a name="story-27187"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frvps_main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Warsaw Wave has released Revolt Patchable Synth, a software synthesizer for Windows, macOS, and Linux available in AU, LV2, and VST3 plugin formats. The instrument combines analog-style, wavetable, and noise oscillators with multimode filters and modulation capabilities within a flexible, configurable panel layout.</p><p>The synth features eight assignable modulator slots—each supporting an envelope, LFO, or noise LFO—alongside an auto-focusing modulation matrix, patch cables that can be toggled on or off, and MPE expression support. It also includes four reorderable effect panels with reverb, delay, chorus, flanger, distortion, and bitcrusher options.</p>
+<p>Nov 11 · <a href="https://www.kvraudio.com/news/warsaw-wave-releases-revolt-patchable-synth-au-lv2-and-vst3-69500?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69500">kvraudio.com</a> | <a href="https://warsaw-wave.com/">warsaw-wave.com</a></p>
+<br clear="all" />
+
 <h2>Producer Daramola Discusses Studio Gear and Production Philosophy</h2>
 <a name="story-27143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27019"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fav3iBwcWEUhNVLJbLhaTjU-970-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Golden DSP has introduced Pyrosphere, a new phase dispersion audio plugin for macOS and Windows that merges transient shaping, compression, and saturation features. Alongside its release, the developer is hosting a giveaway for ten copies on Bedroom Producers Blog and offering an introductory discount.</p><p>Pyrosphere is designed for experimental sound design and detailed transient manipulation, allowing users to stretch attacks or reverse audio across specific frequency bands. The plugin includes five drive modes, a macro compressor control, assignable modulators, and 148 factory presets supporting VST3, AU, and AAX formats.</p>
 <p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/golden-dsp-pyrosphere/">bedroomproducersblog.com</a> | <a href="https://goldendsp.com/b/pyrosphere">goldendsp.com</a></p>
-<br clear="all" />
-
-<h2>Audioblast Releases MBD4 Multiband Distortion and Compression Plugin</h2>
-<a name="story-27006"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmbd4-ui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audioblast has released MBD4, a multiband distortion and compression effect plugin designed for macOS and Windows in VST, AU, and AAX formats. Aimed primarily at creative sound design rather than transparent processing, the plugin features four independent adjustable bands.</p><p>Each band includes stereo link compression and a choice of 32 distortion types that can be routed pre- or post-effect. The software also provides 128 factory presets and a resizable user interface, and is available for purchase at 59€.</p>
-<p>Nov 10 · <a href="https://www.kvraudio.com/news/audioblast-release-mbd4-for-macos-and-windows-vst-au-and-aax-69545?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69545">kvraudio.com</a> | <a href="https://www.audioblast.me/product/mbd4-multiband-distortion-compression/">audioblast.me</a></p>
 <br clear="all" />
 
 ---

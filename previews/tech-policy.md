@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>PLA-Linked Chinese University Purchased Nvidia H200 Chips Despite US Blacklist</h2>
 <a name="story-27122"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.xdaimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Fnvidia-titan-z-dual-gpu-design.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Records show that China's Northwestern Polytechnical University, an institution with close ties to the People's Liberation Army, acquired Nvidia H200 artificial intelligence chips. The purchase occurred despite the university being placed on a United States export blacklist designed to restrict access to advanced American technology.</p><p>The acquisition highlights ongoing challenges in enforcing U.S. export controls on high-performance semiconductors destined for Chinese entities. The H200 is among Nvidia's advanced processors, making it a critical asset for military and research applications restricted by trade regulations.</p>
-<p>Nov 11 · <a href="https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/">reuters.com</a></p>
+<p>Nov 11 · <a href="https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50453301">hacker news</a></p>
 <br clear="all" />
 
 <h2>Nvidia Faces New Washington Chip Restrictions Following CEO Spy Scandal</h2>
