@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-11T01:11:00+00:00</updated>
+  <updated>2026-11-11T02:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Anthropic Opens Australian Retail IPO Offering Ahead of Nasdaq Listing</title>
+    <link href="https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html::v240</id>
+    <published>2026-11-11T02:31:00+00:00</published>
+    <updated>2026-11-11T02:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.theindiansun.com.au%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Meets-CommSec_-AI-and-Investment.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html">cnbc.com</a> | <a href="https://www.anthropic.com/news/roadshow-launch">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50438891">hacker news</a></small></p><hr/><p>Anthropic opened its Australian retail initial public offering on Wednesday, allowing individual investors to purchase shares ahead of its planned Nasdaq listing under the ticker "ANT." The company is seeking to raise up to $64.4 billion through the IPO alongside a $26 billion private placement, with share prices expected between $70 and $78.</p><p>The Australian retail offering runs through November 17 with participation from local brokers including CommSec, Stake, and Macquarie Group, making Australia one of a select few international markets to gain direct retail access. The launch coincides with heightened regulatory scrutiny in Australia following an unauthorized data breach involving an AI agent, prompting the government to propose mandatory reporting and a new safety regulator.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theindiansun.com.au%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Meets-CommSec_-AI-and-Investment.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 09:38 UTC | #27107</small>]]></content>
+  </entry>
   <entry>
     <title>Lenny Rachitsky Reports on Late 2026 Tech Job Market Trends</title>
     <link href="https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late" rel="alternate" />

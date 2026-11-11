@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Opens Australian Retail IPO Offering Ahead of Nasdaq Listing</h2>
+<a name="story-27107"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theindiansun.com.au%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Meets-CommSec_-AI-and-Investment.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic opened its Australian retail initial public offering on Wednesday, allowing individual investors to purchase shares ahead of its planned Nasdaq listing under the ticker "ANT." The company is seeking to raise up to $64.4 billion through the IPO alongside a $26 billion private placement, with share prices expected between $70 and $78.</p><p>The Australian retail offering runs through November 17 with participation from local brokers including CommSec, Stake, and Macquarie Group, making Australia one of a select few international markets to gain direct retail access. The launch coincides with heightened regulatory scrutiny in Australia following an unauthorized data breach involving an AI agent, prompting the government to propose mandatory reporting and a new safety regulator.</p>
+<p>Nov 11 · <a href="https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html">cnbc.com</a> | <a href="https://www.anthropic.com/news/roadshow-launch">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50438891">hacker news</a></p>
+<br clear="all" />
+
 <h2>Lenny Rachitsky Reports on Late 2026 Tech Job Market Trends</h2>
 <a name="story-27104"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-6sL%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F8be609d0-ed10-464c-8b94-d052d45956da_2912x1940.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lenny Rachitsky’s late 2026 tech job market report, utilizing data from TrueUp and Live Data Technologies, reveals divergent trends across core tech roles, marked by rising product manager openings, stalling engineering demand, and record-low design positions.</p><p>The analysis highlights that artificial intelligence proficiency, specifically large language models, has become a top requirement in job descriptions, while specialized roles like forward-deployed engineers surge and geographic concentration shifts heavily toward the Bay Area as remote positions decline.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p>
 <p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></p>
-<br clear="all" />
-
-<h2>SoftBank Reports $7 Billion Second-Quarter Net Loss Amid Tech Selloff</h2>
-<a name="story-26990"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8pOzIi-T4VY%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SoftBank reported a fiscal second-quarter net loss of 1.12 trillion yen ($7 billion), shifting away from a net profit of 2.5 trillion yen a year earlier due to a broader technology selloff. Despite the loss, quarterly revenue reached 2.22 trillion yen, outperforming LSEG estimates of 2.02 trillion yen, while company shares closed 13.9% higher following a tech rebound on Wall Street.</p><p>The Japanese conglomerate has increasingly focused its strategy on artificial intelligence, highlighted by a recent $30 billion follow-on investment in OpenAI that brings its total commitment to $64.6 billion. Additionally, SoftBank announced a partnership with Grab and Malaysia's PETROS to commit $1.85 billion in initial capital toward developing AI infrastructure in Malaysia.</p>
-<p>Nov 10 · <a href="https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html">cnbc.com</a></p>
 <br clear="all" />
 
 ---
