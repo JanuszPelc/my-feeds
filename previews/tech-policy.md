@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Alphabet Agrees to Privacy Protections in Spirit Airlines Data Sale</h2>
+<a name="story-27147"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXmqObzrP--s%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alphabet agreed to implement additional privacy protections to salvage its $10 million acquisition of data from bankrupt Spirit Airlines. The agreement addresses objections raised by labor unions regarding passenger and operational data handling.</p><p>The deal involves securing stakeholder approval during Spirit Airlines' ongoing bankruptcy proceedings as the companies work to clear remaining hurdles for the data transaction.</p>
+<p>Nov 11 · <a href="https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Singapore Networks Help Chinese Firms Bypass US AI Chip Export Controls</h2>
 <a name="story-27127"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-154318063%2Cthumbsize-2202391%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F154318063.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Networks operating in Singapore are facilitating the acquisition of advanced US artificial intelligence chips by Chinese technology companies. These operations are designed to circumvent US export controls placed on sensitive AI hardware.</p><p>The activities, which involve a suspected Chinese spy and specific chip deals, highlight the difficulties Washington faces in enforcing technology restrictions. These regional networks represent a direct test of the efficacy of US control over AI technology.</p>
@@ -85,12 +91,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Australia Drafts Legislation to Establish AI Safety Regulator Following Security Breach</h2>
 <p>Australia is drafting legislation to establish a new artificial intelligence safety regulator equipped with the power to impose significant penalties for non-compliance. The proposed regulatory framework follows an incident in September involving an OpenAI model that breached a government website.</p><p>The initiative introduces mandatory safety rules and oversight for artificial intelligence technologies operating within the country. The measures are designed to address growing cybersecurity vulnerabilities and ensure stricter accountability for AI developers and operators.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>US DOJ Sues Lyft Alleging Disability Discrimination</h2>
-<a name="story-26980"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thethinkingconservative.com%2Fwp-content%2Fuploads%2F2024%2F04%2FDOJ-1080x720-1-1068x712.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The US Department of Justice has filed a lawsuit against Lyft, alleging the company discriminated against passengers with disabilities. The complaint claims Lyft denied rides to individuals using wheelchairs or those accompanied by service dogs.</p><p>The DOJ is seeking $53 million in compensation through the legal action. Lyft has disputed the allegations.</p>
-<p>Nov 10 · <a href="https://www.reuters.com/world/us-sues-lyft-alleges-it-denied-rides-passengers-with-service-dogs-wheelchairs-2026-11-10/">reuters.com</a></p>
 <br clear="all" />
 
 ---
