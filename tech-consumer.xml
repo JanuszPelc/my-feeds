@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-10T21:01:00+00:00</updated>
+  <updated>2026-11-10T21:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Google Fi Introduces Automatic Carrier Switching and Wi-Fi Auto-Connect+</title>
+    <link href="https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/" rel="alternate" />
+    <id>https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/::v240</id>
+    <published>2026-11-10T21:12:00+00:00</published>
+    <updated>2026-11-10T21:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fgoogle-fi-announces-super-network-automatic-carrier-switching-for-improved-speed-and-reception%2Fintro-1794323524.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/">engadget.com</a></small></p><hr/><p>A new "super network" feature from Google Fi enables phones to automatically switch between two different carriers to mitigate connection issues caused by signal dead zones or congestion. The rollout begins with Pixel 9 and newer models using eSIMs, with wider availability expected in 2027. The update also introduces Wi-Fi Auto-Connect+, which switches devices to secure Wi-Fi in areas with poor cellular coverage.</p><p>Both features are included at no extra cost for Unlimited Premium and Flexible plan subscribers and will function in over 200 international destinations. Google Fi is also deploying "Ask Fi," an AI-powered support agent within its app to assist with billing and technical troubleshooting. Promotional offers accompanying the launch include rebates for the Pixel 11 Pro for new subscribers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fgoogle-fi-announces-super-network-automatic-carrier-switching-for-improved-speed-and-reception%2Fintro-1794323524.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 02:49 UTC | #27073</small>]]></content>
+  </entry>
   <entry>
     <title>Valve Adds Steam Deck Average FPS Data to Steam Store Pages</title>
     <link href="https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/" rel="alternate" />
