@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Val Town to Wind Down Operations</h2>
+<a name="story-27139"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2FucJpyG2KeBV3j55SXwy6sQ%2Faicrier%2Fpost%2F64e2c4c6-dafe-48f3-a803-74acbb5eba1d%2Fpublic&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Val Town is shutting down its cloud computing platform after four years, citing an inability to compete in the market. The company has paused billing immediately while servicing existing subscriptions for free and offering migration guides to alternative hosting providers such as Cloudflare, Vercel, Netlify, and Render.</p><p>The phased wind-down ends new signups and upgrades immediately, transitions the service to read-only mode on December 10, 2026, and shuts down all remaining services on January 10, 2027, before open-sourcing the platform on February 1, 2027. Annual plan subscribers will receive partial refunds for their pre-paid subscriptions.</p>
+<p>Nov 11 · <a href="https://blog.val.town/winding-down">blog.val.town</a> | <a href="https://news.ycombinator.com/item?id=50443427">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic Opens Australian Retail IPO Offering Ahead of Nasdaq Listing</h2>
 <a name="story-27107"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theindiansun.com.au%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Meets-CommSec_-AI-and-Investment.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic opened its Australian retail initial public offering on Wednesday, allowing individual investors to purchase shares ahead of its planned Nasdaq listing under the ticker "ANT." The company is seeking to raise up to $64.4 billion through the IPO alongside a $26 billion private placement, with share prices expected between $70 and $78.</p><p>The Australian retail offering runs through November 17 with participation from local brokers including CommSec, Stake, and Macquarie Group, making Australia one of a select few international markets to gain direct retail access. The launch coincides with heightened regulatory scrutiny in Australia following an unauthorized data breach involving an AI agent, prompting the government to propose mandatory reporting and a new safety regulator.</p>
@@ -70,7 +76,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Reddit Launches Reddit Reviews Product Hub</h2>
 <a name="story-27042"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F08%2Fa-product-review-page-with-ai-generated-content-highlighted.jpg%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reddit is launching "Reddit Reviews," a product hub that uses AI to aggregate and organize discussions from various subreddits into centralized pages. The initial rollout covers 10,000 items in the electronics, health and beauty, home and garden, and fashion categories. These pages will feature sentiment ratings, pros and cons, and tools to filter discussions by specific attributes, such as noise cancellation features.</p><p>This initiative aims to formalize Reddit's commercial presence, as the company has previously noted that 40 percent of its conversations are commercial in nature. The tool positions Reddit as an alternative to traditional review publications and AI-driven search engines by highlighting human-driven discussions. To maintain authenticity, Reddit will not take commissions from retailer links and is increasing its crackdown on brand astroturfing and fake reviews.</p>
-<p>Nov 10 · <a href="https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping">theverge.com</a> | <a href="https://redditinc.com/news/introducing-reddit-reviews">redditinc.com</a> | <a href="https://news.ycombinator.com/item?id=50441747">hacker news</a></p>
+<p>Nov 10 · <a href="https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping">theverge.com</a> | <a href="https://redditinc.com/news/introducing-reddit-reviews">redditinc.com</a> | <a href="https://news.ycombinator.com/item?id=50448896">hacker news</a></p>
 <br clear="all" />
 
 <h2>TSMC to Invest up to $1 Billion in Anthropic and OpenAI</h2>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27025"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2Fx56bJiehmykJjDwtgpPMulNiER9Jd2icD1kDVfQnyZ0%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzM4Y2JiNTM3LWE3ODgtNGYzMi05MWZjLWY2YTg1ZmZlYjFmYl8xNzk0MjEzMTIyX2RlZmF1bHQuanBn.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The semiconductor design subsidiary T-Head filed for a Hong Kong listing on September 11 after receiving regulatory clearance. The unit will remain a subsidiary of Alibaba Group Holding Ltd.</p><p>This filing advances a proposed spin-off of the company's chip design operations.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Targets Up to $64.4 Billion in Initial Public Offering</h2>
-<a name="story-27010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p>
-<p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></p>
 <br clear="all" />
 
 ---
