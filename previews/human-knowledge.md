@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Office for Students Warns AI Threatens University Coursework Assessment</h2>
+<a name="story-27138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fproofademic.ai%2Fwp-content%2Fuploads%2F2025%2F11%2Fai-detection-in-school-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>England’s higher education regulator, the Office for Students, warns that the widespread use of generative AI in essays and dissertations threatens the credibility of university degrees, making traditional coursework assessment nearly impossible.</p><p>Drawing on a joint investigation with Advance HE that surveyed over 300 students and staff, the regulator urges institutions to adopt traditional in-person exams, oral vivas, and process-based evaluations, warning that failing to address AI misuse could lead to regulatory sanctions.</p>
+<p>Nov 11 · <a href="https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator">theguardian.com</a></p>
+<br clear="all" />
+
 <h2>Jaron Lanier: Silicon Valley Is Sabotaging Itself With A.I. Doom Rhetoric</h2>
 <a name="story-27131"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F09%2Fopinion%2F09lanier%2F09lanier-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In a guest essay, computer scientist Jaron Lanier argues that Silicon Valley is undermining public support for artificial intelligence by promoting alarmist narratives about existential risks rather than focusing on practical benefits. He compares the current backlash against A.I. to the public rejection of virtual reality a decade ago, which was similarly alienated by overblown tech leader proclamations.</p><p>Lanier contends that framing A.I. as a conscious entity or an existential threat creates unnecessary fear and hostility, pointing to corporate warnings and careless data center expansion as self-sabotage. Instead, he advocates treating A.I. as a tool—akin to a sophisticated calculator—to ensure safer development and a more constructive public reception.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <h2>Laimosemion laranja: New Orange-Marked Amazon Killifish Species Discovered</h2>
 <p>Researchers in Brazil have discovered a new species of killifish, named Laimosemion laranja, in the Rio Cajari drainage of northern Amapá state. Measuring under three centimeters, the tiny freshwater fish features distinctive bright orange markings on its body and was confirmed as a new species through morphological and mitochondrial DNA analyses.</p><p>Found in only three small forest pools with a total known range of about 25 square kilometers, the species faces severe pressure from deforestation, mining, and urban development. Because of its highly restricted habitat and multiple local threats, researchers recommend classifying it as endangered and expanding nearby reserve boundaries to protect its environment.</p>
 <p>Nov 8 · <a href="https://www.sciencedaily.com/releases/2026/11/261104084019.htm">sciencedaily.com</a></p>
-<br clear="all" />
-
-<h2>McGill University Researchers Propose &#x27;Biotic Inflection&#x27; Model for Evolutionary Transitions</h2>
-<a name="story-26859"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.frontiersin.org%2Ffiles%2FArticles%2F1848892%2Fxml-images%2Ffevo-14-1848892-g005.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers from McGill University and the Centro de Investigaciones Paleontológicas have proposed a new evolutionary model called a "Biotic Inflection" following an analysis of fossils from Colombia's Paja Formation. The concept describes an evolutionary turning point where older animal lineages nearing extinction coexist and overlap with newer groups that are beginning to diversify, occurring independently of mass extinction events.</p><p>The findings are based on the Paja Formation's exceptionally rich Early Cretaceous marine ecosystem, which preserves surviving Jurassic lineages alongside emerging Cretaceous groups, including giant marine reptiles, turtles, and sharks. The researchers attribute this rare coexistence to favorable environmental conditions such as warm greenhouse temperatures, high sea levels, nutrient-rich coastal waters, and newly opened ocean connections between the eastern Pacific and early Atlantic.</p>
-<p>Nov 8 · <a href="https://www.sciencedaily.com/releases/2026/11/261106174535.htm">sciencedaily.com</a></p>
 <br clear="all" />
 
 ---

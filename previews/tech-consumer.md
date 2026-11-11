@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>iFixit Teardown of MacBook Pro with PROLED XDR Reveals Glowing Apple Mechanism</h2>
+<a name="story-27140"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F10161844%2FApple-lid-cutout_b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>iFixit has published a teardown of Apple's new MacBook Pro with PROLED XDR, offering a detailed look at its tandem OLED display and the four-LED lighting strip responsible for illuminating the newly restored glowing Apple logo. The investigation examines how the laptop achieves a lighter chassis design while introducing a touchscreen and retaining functional Touch ID compatibility during logic board swaps.</p><p>Despite improvements such as streamlined lid replacement and reliable hardware swapping, the teardown highlights that components like fans and USB-C ports remain buried beneath the logic board. The device ultimately earned a repairability score of 5 out of 10, constrained by design elements like soldered storage and a keyboard integrated into the top case.</p>
+<p>Nov 11 · <a href="https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple">ifixit.com</a></p>
+<br clear="all" />
+
 <h2>Nintendo Sells 5.2 Million Copies of Zelda Remake in Four Days</h2>
 <a name="story-27129"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F01Kaa5dgZRJ83FMF7dy7muy-1.fit_lim.v1742937201.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nintendo sold 5.2 million copies of its The Legend of Zelda: Ocarina of Time remake within four days of its release. The strong debut establishes the title as an immediate commercial success on the market.</p><p>The sales milestone provides the Switch 2 console with a major blockbuster release following its rollout. The rapid adoption of the remake highlights the enduring popularity of the classic 1998 title among both longtime fans and new players.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26915"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F4_v1_nUZDsJM.max-1800x1800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is introducing two new specialized AI chips: the TPU 8tx, designed to be paired with AMD CPUs, and the TPU 8i Max, a dual-chip package optimized for long-context window tasks.</p><p>The TPU 8i Max is scheduled for launch in 2027. This expansion of the TPU lineup is part of Google's effort to bolster its AI hardware capabilities and increase competition with Nvidia.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50432831">hacker news</a></p>
-<br clear="all" />
-
-<h2>Retrospective Look at the TV Series Person of Interest</h2>
-<a name="story-26821"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FffdcU736dFvEI2FZunfE19AxRWU.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An author reflects on recently watching the television series Person of Interest, noting its enduring relevance fifteen years after its initial broadcast. The viewing experience evokes memories of early 2010s internet culture, including online forums, the SOPA and PIPA legislative debates, and the closure of Megaupload.</p><p>The post highlights how the show's central premise—a mass surveillance system known as the Machine—feels increasingly aligned with modern technological reality rather than science fiction. The author concludes that the series has aged remarkably well, prompting strong nostalgia for the era when their interest in computing first began.</p>
-<p>Nov 8 · <a href="https://krthr.co/person-of-interest/">krthr.co</a> | <a href="https://news.ycombinator.com/item?id=50412318">hacker news</a></p>
 <br clear="all" />
 
 ---

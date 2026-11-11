@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-11T11:23:00+00:00</updated>
+  <updated>2026-11-11T12:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Numerical Audio Updates Konstrukt to v1.2 for iPad and iPhone</title>
+    <link href="https://www.kvraudio.com/news/numerical-updates-konstrukt-to-v1-2-formerly-midirack-for-ipad-and-iphone---auv3-plug-in-hosting-a-rack-new-sequencers-and-fragments-69735?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69735" rel="alternate" />
+    <id>https://www.kvraudio.com/news/numerical-updates-konstrukt-to-v1-2-formerly-midirack-for-ipad-and-iphone---auv3-plug-in-hosting-a-rack-new-sequencers-and-fragments-69735?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69735::v240</id>
+    <published>2026-11-11T12:54:00+00:00</published>
+    <updated>2026-11-11T12:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F01-hero_konstrukt.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/numerical-updates-konstrukt-to-v1-2-formerly-midirack-for-ipad-and-iphone---auv3-plug-in-hosting-a-rack-new-sequencers-and-fragments-69735?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69735">kvraudio.com</a> | <a href="https://numericalaudio.com/konstrukt">numericalaudio.com</a></small></p><hr/><p>Numerical Audio has released version 1.2 of its iOS music toolkit and renamed the app from MIDIRack to Konstrukt. The update introduces third-party AUv3 plug-in hosting, an audio path managed through a new Rack page, additional sequencers, and the ability to save custom graph editor nodes as reusable fragments.</p><p>The free update for existing users includes channel strips with insert effects and sidechain routing, 24-bit WAV recording, Ableton Link support, and new sequencing tools like Drum Grid and Stage Seq. Konstrukt is available as a standalone app and AUv3 plug-in for iPad and iPhone running iOS or iPadOS 17 or later.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F01-hero_konstrukt.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 18:03 UTC | #27156</small>]]></content>
+  </entry>
   <entry>
     <title>Warsaw Wave Releases Revolt Patchable Synth Plugin</title>
     <link href="https://www.kvraudio.com/news/warsaw-wave-releases-revolt-patchable-synth-au-lv2-and-vst3-69500?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69500" rel="alternate" />

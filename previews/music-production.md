@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Numerical Audio Updates Konstrukt to v1.2 for iPad and iPhone</h2>
+<a name="story-27156"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F01-hero_konstrukt.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Numerical Audio has released version 1.2 of its iOS music toolkit and renamed the app from MIDIRack to Konstrukt. The update introduces third-party AUv3 plug-in hosting, an audio path managed through a new Rack page, additional sequencers, and the ability to save custom graph editor nodes as reusable fragments.</p><p>The free update for existing users includes channel strips with insert effects and sidechain routing, 24-bit WAV recording, Ableton Link support, and new sequencing tools like Drum Grid and Stage Seq. Konstrukt is available as a standalone app and AUv3 plug-in for iPad and iPhone running iOS or iPadOS 17 or later.</p>
+<p>Nov 11 · <a href="https://www.kvraudio.com/news/numerical-updates-konstrukt-to-v1-2-formerly-midirack-for-ipad-and-iphone---auv3-plug-in-hosting-a-rack-new-sequencers-and-fragments-69735?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69735">kvraudio.com</a> | <a href="https://numericalaudio.com/konstrukt">numericalaudio.com</a></p>
+<br clear="all" />
+
 <h2>Warsaw Wave Releases Revolt Patchable Synth Plugin</h2>
 <a name="story-27187"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frvps_main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Warsaw Wave has released Revolt Patchable Synth, a software synthesizer for Windows, macOS, and Linux available in AU, LV2, and VST3 plugin formats. The instrument combines analog-style, wavetable, and noise oscillators with multimode filters and modulation capabilities within a flexible, configurable panel layout.</p><p>The synth features eight assignable modulator slots—each supporting an envelope, LFO, or noise LFO—alongside an auto-focusing modulation matrix, patch cables that can be toggled on or off, and MPE expression support. It also includes four reorderable effect panels with reverb, delay, chorus, flanger, distortion, and bitcrusher options.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>noshigeSound Releases noshige73 LITE Free 1073-Style EQ Plugin</h2>
 <p>noshigeSound has released noshige73 LITE, a free, 1073-style console equalizer plugin available for macOS and Windows in VST3, AU, and AAX formats. The processor includes a fixed high shelf, four low-shelf frequencies, six selectable mid frequencies, a high-pass filter, and an interactive graphical EQ display.</p><p>While sharing features with the paid PRO version, the LITE edition employs a smaller emulation model. The plugin is resource-intensive, though users can offload processing to a compatible GPU to reduce CPU load under specific buffer constraints.</p>
 <p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/">bedroomproducersblog.com</a> | <a href="https://noshigesound.com/products/noshige73">noshigesound.com</a></p>
-<br clear="all" />
-
-<h2>Golden DSP Releases Pyrosphere Phase Dispersion Plugin</h2>
-<a name="story-27019"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fav3iBwcWEUhNVLJbLhaTjU-970-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Golden DSP has introduced Pyrosphere, a new phase dispersion audio plugin for macOS and Windows that merges transient shaping, compression, and saturation features. Alongside its release, the developer is hosting a giveaway for ten copies on Bedroom Producers Blog and offering an introductory discount.</p><p>Pyrosphere is designed for experimental sound design and detailed transient manipulation, allowing users to stretch attacks or reverse audio across specific frequency bands. The plugin includes five drive modes, a macro compressor control, assignable modulators, and 148 factory presets supporting VST3, AU, and AAX formats.</p>
-<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/golden-dsp-pyrosphere/">bedroomproducersblog.com</a> | <a href="https://goldendsp.com/b/pyrosphere">goldendsp.com</a></p>
 <br clear="all" />
 
 ---
