@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Daniel Stenberg Marks 30 Years of Internet Transfers With Curl</title>
+    <link href="https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/" rel="alternate" />
+    <id>https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/::v240</id>
+    <published>2026-11-11T09:52:00+00:00</published>
+    <updated>2026-11-11T09:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fapi.star-history.com%2Fog%3Frepos%3Dcurl%2Fcurl&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50448505">hacker news</a></small></p><hr/><p>Daniel Stenberg reflects on the 30-year history of curl, which began on November 11, 1996, when Brazilian student Rafael Sagula published a basic HTTP download tool called httpget. Stenberg took over maintenance of the software, expanded its protocol support, renamed it to cURL, and introduced libcurl in 2000 to allow other programs to handle internet transfers.</p><p>Over the decades, curl has evolved from a hobby project powering an IRC currency bot into a cornerstone of global internet infrastructure, running in an estimated 30 billion installations. Stenberg attributes the project's longevity to continuous code refactoring, strict backward compatibility, and an independent open-source model.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.star-history.com%2Fog%3Frepos%3Dcurl%2Fcurl&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 16:14 UTC | #27178</small>]]></content>
+  </entry>
+  <entry>
     <title>Go Programming Language Marks 17th Anniversary with Major Tooling and Runtime Updates</title>
     <link href="https://go.dev/blog/17years" rel="alternate" />
     <id>https://go.dev/blog/17years::v240</id>
