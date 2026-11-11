@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-10T23:57:00+00:00</updated>
+  <updated>2026-11-11T01:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Migrating to Hardware-Backed SSH Keys Using YubiKey, TPM, and Apple Secure Enclave</title>
+    <link href="https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/" rel="alternate" />
+    <id>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/::v240</id>
+    <published>2026-11-11T01:13:00+00:00</published>
+    <updated>2026-11-11T01:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ctrlops.io%2Fblog%2Fssh-key-management-best-practices%2FStandard-SSH-Keys-vs-FIDO2-Hardware-Keys.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/">blog.infected.systems</a> | <a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50382401">hacker news</a></small></p><hr/><p>An administrator documents the transition away from traditional on-disk SSH keys by utilizing hardware-backed security methods, achieving the goal of storing key material without unprotected files on disk. The methods explored include using native ed25519-sk keys with a YubiKey, setting up TPM-backed keys via ssh-tpm-agent, and configuring Apple Secure Enclave identities on macOS.</p><p>The guide provides practical instructions, command-line examples, and operational caveats for each hardware approach, including handling unattended use cases and limitations such as Touch ID behavior in clamshell mode. While hardware-resident keys eliminate the risk of key exfiltration from disk, the author emphasizes the importance of maintaining redundancy to prevent lockout due to hardware loss or failure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ctrlops.io%2Fblog%2Fssh-key-management-best-practices%2FStandard-SSH-Keys-vs-FIDO2-Hardware-Keys.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 08:43 UTC | #27132</small>]]></content>
+  </entry>
   <entry>
     <title>AI Usage Leads to Fragile Codebases</title>
     <link href="https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/" rel="alternate" />

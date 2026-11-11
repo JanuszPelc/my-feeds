@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Migrating to Hardware-Backed SSH Keys Using YubiKey, TPM, and Apple Secure Enclave</h2>
+<a name="story-27132"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ctrlops.io%2Fblog%2Fssh-key-management-best-practices%2FStandard-SSH-Keys-vs-FIDO2-Hardware-Keys.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An administrator documents the transition away from traditional on-disk SSH keys by utilizing hardware-backed security methods, achieving the goal of storing key material without unprotected files on disk. The methods explored include using native ed25519-sk keys with a YubiKey, setting up TPM-backed keys via ssh-tpm-agent, and configuring Apple Secure Enclave identities on macOS.</p><p>The guide provides practical instructions, command-line examples, and operational caveats for each hardware approach, including handling unattended use cases and limitations such as Touch ID behavior in clamshell mode. While hardware-resident keys eliminate the risk of key exfiltration from disk, the author emphasizes the importance of maintaining redundancy to prevent lockout due to hardware loss or failure.</p>
+<p>Nov 11 · <a href="https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/">blog.infected.systems</a> | <a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50382401">hacker news</a></p>
+<br clear="all" />
+
 <h2>AI Usage Leads to Fragile Codebases</h2>
 <a name="story-27121"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.evanxmerz.com%2Fimages%2Fai-codebases-are-a-house-of-cards.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Heavy reliance on AI for code generation produces fragile codebases through shallow automated tests, excessive complexity, and reduced human comprehension. The rapid speed of AI output often exceeds the capacity for thorough human review, leading to significant accumulated technical debt.</p><p>These issues manifest as more frequent system incidents, slower recovery times, and errors that are only detectable by end users. High-quality software requires human oversight to ensure products remain maintainable and optimized for human users.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26974"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.etsystatic.com%2F18689648%2Fr%2Fil%2F54e6df%2F2357008504%2Fil_1588xN.2357008504_fote.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Foldable Flight provides a collection of paper airplane designs, including models like Firefly 5, Unite, and Arrowhead. The site offers templates for different paper types, such as A4, US Letter, and square, while providing performance metrics for speed, glide, and accuracy.</p><p>Certain designs are associated with flight records, such as Firefly 5 and the Unite model, which holds a world record for time aloft at 31.2 seconds. The collection includes models for various skill levels and designs inspired by aircraft like the SU-27 and F-14 Tomcat.</p>
 <p>Nov 9 · <a href="https://www.foldableflight.com">foldableflight.com</a> | <a href="https://news.ycombinator.com/item?id=50424581">hacker news</a></p>
-<br clear="all" />
-
-<h2>Energy Consumption for Building Linux Distribution Packages Measured</h2>
-<a name="story-26952"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wezm.net%2Fv2%2Fposts%2F2026%2Fdistro-energy-use%2Fbento-slide.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An analysis of infrastructure energy use for Casuarina Linux reveals that running a dedicated build server over a seven-month period consumed 98.4 kWh of electricity. The server, equipped with an AMD Ryzen 9 5950X processor, handled roughly 5,200 package builds while being powered down manually when idle.</p><p>The total electricity cost amounted to roughly AU$32.47 under a renewable energy plan, translating to slightly under AU$5 per month. This figure excludes initial package compilation on a separate desktop workstation and potential offsets from rooftop solar generation, with individual package build times peaking at under four hours for Chromium.</p>
-<p>Nov 9 · <a href="https://www.wezm.net/v2/posts/2026/distro-energy-use/">wezm.net</a> | <a href="https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro">lobsters</a></p>
 <br clear="all" />
 
 ---
