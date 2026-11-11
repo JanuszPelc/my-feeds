@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Graphon Labs Raises $35 Million for AI Agent Memory Software</h2>
+<a name="story-27080"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6af268b88f37e8e0b5baba7d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Graphon Labs raised a $35 million Series A led by RRE Ventures to develop software that helps AI agents store and retrieve information over time. Its system maps relationships, sources, and changes across documents, videos, and images instead of treating data as isolated snippets.</p><p>The 20-person San Francisco company says its technology is used by the San Francisco 49ers and HP, and targets developers and data-intensive enterprises. Graphon plans to use the funding to hire engineers, researchers, and go-to-market staff while remaining focused on enterprise customers before expanding toward personal devices and consumer products.</p>
+<p>Nov 10 · <a href="https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10">businessinsider.com</a> | <a href="https://www.businesswire.com/news/home/20261110959095/en/">businesswire.com</a></p>
+<br clear="all" />
+
 <h2>Clara Raises $105 Million to Expand Latin American Spend Management Platform</h2>
 <a name="story-27075"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEp9cYQa5Iqzg%2Ffeedshare-shrink_800%2FB56ZaRcV6QGkAg-%2F0%2F1746196850793%3Fe%3D2147483647%26v%3Dbeta%26t%3DR2ssU-oh97RG3GSXSX4wKhikBuFfwl5D3DCgVUepQQE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The São Paulo-based fintech has secured $105 million in combined equity and growth financing. This includes a $65 million Series C round and a $40 million renewal of existing growth capital.</p><p>Funds are earmarked for scaling sales and engineering teams and building an AI-driven financial operating system. The company also plans to enter new markets and broaden its offerings for corporate clients.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26767"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0871%2F5413%2F1219%2Ffiles%2Fagentic-ai-vc-invest-yoy.png%3Fv%3D1771226864&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ocient Inc. has secured $100 million in a Series C funding round co-led by Boka Capital and OCA Ventures, bringing its total capital raised to $260 million. The Chicago-based data analytics provider plans to use the financing to accelerate the expansion of its OcientAIQ platform, which delivers petabyte-scale analytics and agentic artificial intelligence solutions.</p><p>The company anticipates its revenue will more than triple in the current fiscal year, driven largely by growing adoption among national security organizations and telecommunications providers seeking to process massive network and cybersecurity datasets without data sampling. To support this demand, Ocient has established a dedicated national security subsidiary and intends to expand its on-premises deployments and international footprint while scaling toward financial breakeven.</p>
 <p>Nov 7 · <a href="https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/">siliconangle.com</a></p>
-<br clear="all" />
-
-<h2>Sand.ai Raises $200M Series A Extension to Achieve Unicorn Status</h2>
-<a name="story-26733"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpayhip.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Fhttps%3A%2F%2Fpe56d.s3.amazonaws.com%2Fo_1j45gfk1c7bgksm15c519np1i3vi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Chinese artificial intelligence video generation startup Sand.ai has completed a $200 million Series A extension funding round, pushing its valuation past $1 billion and achieving unicorn status. CoStone Capital and Wangsu Science &amp; Technology jointly led the financing, which included participation from state-owned entities and existing investors such as iMPC, CAS Star, and HyT Capital.</p><p>Founded in early 2024, the Beijing-based company develops autoregressive and audiovisual video generation models, including Magi-1, GAGA-1, and the research release MAGI-2 Preview. The newly secured capital will fund foundation model research and development, inference infrastructure, product iterations, and global market expansion as the company prepares to launch the official version of MAGI-2.</p>
-<p>Nov 7 · <a href="https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283/">dealstreetasia.com</a></p>
 <br clear="all" />
 
 ---
