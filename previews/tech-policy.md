@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Palantir CEO Alex Karp Outlines Progressive Philosophy and Acknowledges ICE Missteps</h2>
+<a name="story-27166"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F69865ab7b845608c2949ef91%2F191%3A100%2Fw_1280%2Cc_limit%2FPalantir-CEO-Alex-Karp-Speaks-to-Employees-About-Their-Work-With-ICE-Business-2256666945.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Following the U.S. midterms, Palantir CEO Alex Karp has shifted his political alignment toward Democrats, characterizing his personal philosophy as progressive. During recent remarks, he also acknowledged enforcement missteps by Immigration and Customs Enforcement, a prominent federal partner of the data analytics company.</p><p>The pivot highlights a notable strategic realignment among high-profile technology leaders following recent electoral shifts. Palantir has historically faced sustained criticism and scrutiny over its federal contracts and immigration enforcement software, making Karp's public concessions and repositioning a departure from traditional industry stances.</p>
+<p>Nov 11 · <a href="https://www.politico.com/newsletters/playbook/2026/11/11/the-tech-right-pivots-left-01160648">politico.com</a></p>
+<br clear="all" />
+
 <h2>Jensen Huang&#x27;s Evolving Stance on China and Export Controls</h2>
 <a name="story-27164"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.semafor.com%2F852581033a506a44fc81bb4f668130d01df0788e-1840x1924.png%3Fw%3D740%26q%3D75%26auto%3Dformat%26h%3D773&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Analysis of 42 podcast interviews shows that Jensen Huang’s rhetoric regarding China and US chip export controls shifted following 2025 US restrictions on Nvidia’s China-specific products. Huang moved from a position of neutral compliance to expressing criticism of trade curbs and highlighting the strengths of China's AI research and manufacturing.</p><p>The shift occurred alongside investigations by Nvidia's board and Congress into Huang's personal conduct. These inquiries follow an affair with a Singapore-based executive suspected of having ties to Beijing, and Congress is planning hearings on the matter.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27024"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770799%2Foriginal%2Ffile-20261109-64-w18nd4.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump has repeatedly threatened to strike Pickaxe Mountain, a deeply buried underground facility near Iran’s Natanz nuclear complex, as he seeks a way to end the conflict following political setbacks in congressional elections. Constructed deep within dense granite following a series of explosions in 2020, the site is significantly harder to destroy than traditional targets, testing the limits of American conventional bunker-busters like the GBU-57.</p><p>While a strike on the facility's entrances could offer the Trump administration a pretext to claim victory and withdraw from the conflict, the actual contents and the status of any potential uranium enrichment remain unverified by international inspectors. Furthermore, a military operation against Pickaxe Mountain would leave broader regional issues, such as shipping disputes through the Strait of Hormuz and ongoing nuclear disagreements, entirely unresolved.</p>
 <p>Nov 10 · <a href="https://theconversation.com/why-donald-trump-keeps-threatening-irans-pickaxe-mountain-and-why-it-is-so-hard-to-destroy-296071">theconversation.com</a></p>
-<br clear="all" />
-
-<h2>China&#x27;s Trade Surplus Reaches $1.04 Trillion in First 10 Months of 2026</h2>
-<a name="story-26997"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fchina-mapa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>China's trade surplus reached $1.04 trillion during the first ten months of 2026, marking the second consecutive year the figure has exceeded $1 trillion. The surplus was driven by a surge in exports related to the global competition to build artificial intelligence infrastructure.</p><p>These AI-driven technology exports helped offset weakness in domestic demand within China. The increase in tech-related sales has played a critical role in sustaining the country's trade balance despite internal economic challenges.</p>
-<p>Nov 10 · <a href="https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/">reuters.com</a></p>
 <br clear="all" />
 
 ---

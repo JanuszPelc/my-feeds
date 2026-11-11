@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-11T12:06:00+00:00</updated>
+  <updated>2026-11-11T16:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>PlayStation Cancels Fairgames Multiplayer Shooter</title>
+    <link href="https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains" rel="alternate" />
+    <id>https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains::v240</id>
+    <published>2026-11-11T16:20:00+00:00</published>
+    <updated>2026-11-11T16:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltb27383992a2f7963%2F6af491faddd4d326961f9898%2Ffairgames.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains">gamedeveloper.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDM0MzEyMSwiZXhwIjoxNzk0OTQ3OTIxLCJhcnRpY2xlSWQiOiJUT0IwMDNLSVVQVEwwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.0VitdVcIPZb98kOClbou7VJYMIEblBJyP0spzGGfRQ4&leadSource=article-gifting">bloomberg.com</a></small></p><hr/><p>Sony has cancelled the multiplayer heist shooter Fairgames, ending its development at Haven Studios. A Sony spokesperson stated that the studio will not face layoffs, as staff will instead transition to support roles for other PlayStation studios.</p><p>The game was first announced in May 2023 and was Haven Studios' only project since the developer was acquired by PlayStation in 2022. The cancellation follows a series of challenges for PlayStation's live-service gaming initiatives.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltb27383992a2f7963%2F6af491faddd4d326961f9898%2Ffairgames.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 21:41 UTC | #27182</small>]]></content>
+  </entry>
   <entry>
     <title>iFixit Teardown of MacBook Pro with PROLED XDR Reveals Glowing Apple Mechanism</title>
     <link href="https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Executive Misconduct in Semiconductor Industry Linked to Espionage Risks</h2>
+<a name="story-27180"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.britannica.com%2F60%2F257460-050-62FF74CB%2FNVIDIA-Jensen-Huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Executive misconduct in the semiconductor industry is linked to risks of economic espionage by state-sponsored actors. Nate Singer of Heron Intelligence reports that many instances of senior-level behavioral issues remain hidden from the public despite increasing pressure to protect trade secrets.</p><p>Historical cases involving TSMC and other manufacturers illustrate the sector's vulnerability to intellectual property theft. Experts suggest that personal indiscretions can be exploited to facilitate the infiltration of critical technology firms.</p>
+<p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50455179">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft FORGE Lab Identifies Memory Safety Issues in Rust Standard Library</h2>
 <a name="story-27179"><img src="https://wsrv.nl/?url=https%3A%2F%2Fforge-blog.github.io%2Fposts%2Frust-std-memory-safety%2Fpanic-safety.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at Microsoft's FORGE Lab have uncovered multiple memory safety vulnerabilities within Rust's core and standard libraries, demonstrating how code written entirely in safe Rust can occasionally trigger undefined behavior. Utilizing an AI-powered vulnerability scanner, the investigation revealed three recurring patterns of misplaced trust in unsafe code: trusting code not to panic, assuming user-provided implementations are correct, and relying blindly on underlying system behaviors.</p><p>These findings illustrate the inherent difficulties of maintaining soundness in unsafe blocks that underpin safe APIs across widely used programming languages. As Rust becomes increasingly integrated into critical infrastructure, identifying and addressing these edge cases in foundational libraries remains vital for maintaining overall software security.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26888"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftopcor.ru%2Fuploads%2Fposts%2F2026-03%2F1ca155670e_60c023af-5e42-4047-ad0e-9a69c9ff226d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Analysts warn that Russia's Rassvet broadband satellite network could become operational as early as 2027 following a troubled development phase. The space project is expected to enhance Russia's military capabilities by facilitating more precise and destructive drone strikes deep within Ukraine.</p><p>The constellation is designed to provide high-speed, secure orbital internet connectivity, addressing critical communication gaps for Russian forces. Observers note that deploying the network will significantly bolster Moscow's digital sovereignty and long-term tactical coordination on the battlefield.</p>
 <p>Nov 9 · <a href="https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0">ft.com</a></p>
-<br clear="all" />
-
-<h2>Julio Merino Launches ZKeys for Unattended Reboots of Encrypted Disks</h2>
-<a name="story-26914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fextradisks.com%2Fimages%2Fextradisksencrypteddisk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Julio Merino has introduced ZKeys, a managed service designed to enable unattended, passwordless reboots for machines with encrypted disks without compromising data security. The service stores half of an encryption passphrase remotely while the other half remains on the client machine, requiring periodic keepalive pings over HTTPS to keep the volume unlocked.</p><p>If a client machine goes offline for an extended period—such as during a physical theft—the server automatically locks access to the key, preventing unauthorized data recovery. The open-source client currently includes integration support for FreeBSD and Fedora, relying on a split-key architecture and encryption at rest to protect against server compromises.</p>
-<p>Nov 9 · <a href="https://jmmv.dev/2026/11/zkeys-intro.html">jmmv.dev</a> | <a href="https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks">lobsters</a></p>
 <br clear="all" />
 
 ---

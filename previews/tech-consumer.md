@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>PlayStation Cancels Fairgames Multiplayer Shooter</h2>
+<a name="story-27182"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltb27383992a2f7963%2F6af491faddd4d326961f9898%2Ffairgames.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sony has cancelled the multiplayer heist shooter Fairgames, ending its development at Haven Studios. A Sony spokesperson stated that the studio will not face layoffs, as staff will instead transition to support roles for other PlayStation studios.</p><p>The game was first announced in May 2023 and was Haven Studios' only project since the developer was acquired by PlayStation in 2022. The cancellation follows a series of challenges for PlayStation's live-service gaming initiatives.</p>
+<p>Nov 11 · <a href="https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains">gamedeveloper.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDM0MzEyMSwiZXhwIjoxNzk0OTQ3OTIxLCJhcnRpY2xlSWQiOiJUT0IwMDNLSVVQVEwwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.0VitdVcIPZb98kOClbou7VJYMIEblBJyP0spzGGfRQ4&leadSource=article-gifting">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>iFixit Teardown of MacBook Pro with PROLED XDR Reveals Glowing Apple Mechanism</h2>
 <a name="story-27140"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F10161844%2FApple-lid-cutout_b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>iFixit has published a teardown of Apple's new MacBook Pro with PROLED XDR, offering a detailed look at its tandem OLED display and the four-LED lighting strip responsible for illuminating the newly restored glowing Apple logo. The investigation examines how the laptop achieves a lighter chassis design while introducing a touchscreen and retaining functional Touch ID compatibility during logic board swaps.</p><p>Despite improvements such as streamlined lid replacement and reliable hardware swapping, the teardown highlights that components like fans and USB-C ports remain buried beneath the logic board. The device ultimately earned a repairability score of 5 out of 10, constrained by design elements like soldered storage and a keyboard integrated into the top case.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26939"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltf906d4df85e7ab85%2F6af1f3c7c2a5a2122223e928%2Fworldofwarcraftforever.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Blizzard Entertainment reports that the game's launch has exceeded previous player-count milestones, specifically for peak concurrent users and returning players. This version of the MMORPG rebuilds the original setting and first-year gameplay while introducing new content and character races.</p><p>The launch resulted in the highest number of returning players in the game's history. The project integrates new storylines and features into the foundation of the original title.</p>
 <p>Nov 9 · <a href="https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers">gamedeveloper.com</a> | <a href="https://bsky.app/profile/worldofwarcraft.blizzard.com/post/3mzoudcfxws2t">bsky.app</a></p>
-<br clear="all" />
-
-<h2>Google Unveils TPU 8tx and TPU 8i Max AI Chips</h2>
-<a name="story-26915"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F4_v1_nUZDsJM.max-1800x1800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google is introducing two new specialized AI chips: the TPU 8tx, designed to be paired with AMD CPUs, and the TPU 8i Max, a dual-chip package optimized for long-context window tasks.</p><p>The TPU 8i Max is scheduled for launch in 2027. This expansion of the TPU lineup is part of Google's effort to bolster its AI hardware capabilities and increase competition with Nvidia.</p>
-<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50432831">hacker news</a></p>
 <br clear="all" />
 
 ---
