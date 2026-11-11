@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-10T23:06:00+00:00</updated>
+  <updated>2026-11-10T23:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Blender 5.3 Release Features</title>
+    <link href="https://www.blender.org/download/releases/5-3/" rel="alternate" />
+    <id>https://www.blender.org/download/releases/5-3/::v240</id>
+    <published>2026-11-10T23:55:00+00:00</published>
+    <updated>2026-11-10T23:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.blender.org%2Fwp-content%2Fuploads%2F2025%2F11%2Fgaussian_splatting-nunchuck.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.blender.org/download/releases/5-3/">blender.org</a> | <a href="https://news.ycombinator.com/item?id=50442426">hacker news</a></small></p><hr/><p>Blender 5.3 introduces native support for 3D Gaussian Splatting, allowing users to import, process, and render these point-cloud-based scenes in EEVEE, Cycles, and Workbench. The release also includes Cycles dispersion for the Principled BSDF, NVIDIA DLSS 4.5 Ray Reconstruction denoising, and a new Project management system for organizing files and resources.</p><p>Other updates include material lighting nodes for stylized shading, panoramic camera support in EEVEE, and expanded compositing capabilities featuring scene effects and Geometry Nodes. Grease Pencil has been updated with new selection and carving tools, while the Video Sequencer now supports ripple editing and OpenTimelineIO.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blender.org%2Fwp-content%2Fuploads%2F2025%2F11%2Fgaussian_splatting-nunchuck.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 05:51 UTC | #27119</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Announces .NET 11</title>
     <link href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/" rel="alternate" />

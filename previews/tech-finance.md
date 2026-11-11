@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Vinod Khosla Backs Coframe to Develop AI-Powered Personalized Websites</h2>
+<a name="story-27092"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aee5a1e8f37e8e0b5baaf44%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Coframe, an AI startup focused on creating personalized web experiences, has raised $25 million in a Series A funding round co-led by Khosla Ventures and Hanabi Capital. The startup aims to replace static websites with a "living internet" where page content is dynamically customized for each individual visitor through generative AI.</p><p>Founded by AI researcher Josh Payne, Coframe reports generating more than $300 million in incremental revenue for clients including Dropbox and Cash App. Investor Vinod Khosla suggests that AI-enabled customization will address browsing inefficiencies, such as the experience on Amazon, by providing more relevant, user-specific content.</p>
+<p>Nov 10 · <a href="https://www.businessinsider.com/khosla-doubles-down-on-coframe-to-build-a-living-internet-2026-11">businessinsider.com</a></p>
+<br clear="all" />
+
 <h2>CoreWeave Surpasses Q3 Revenue Estimates and Raises 2026 Guidance</h2>
 <a name="story-27089"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmultilingual.mocortech.com%2Fcms-content-file%2F2026-11-10%2FF20261110172516056sOdprw7KVIAyQd&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CoreWeave reported third-quarter revenue of $3.66 billion, exceeding expectations of $3.55 billion and marking a 168% increase year-over-year. The company also lifted its 2026 revenue guidance to a range of $13 billion to $13.3 billion.</p><p>Despite reporting a net loss of $709 million, the company reported a revenue backlog of $132.5 billion. These results arrive as the company carries nearly $47 billion in debt amidst volatility in the AI infrastructure market.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>US OCC Grants Coinbase Final Approval for Trust Bank Charter</h2>
 <p>The US Office of the Comptroller of the Currency has granted Coinbase Global Inc. full approval for a trust bank charter. The regulatory decision marks a major milestone for the cryptocurrency exchange as it seeks to deepen its integration into traditional financial infrastructure.</p><p>According to sources familiar with the matter, the charter could significantly expand the company's stablecoin operations and enable it to directly issue stablecoins. The development comes as regulators increasingly shape the operational boundaries for major digital asset firms in the United States.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Apple Saved $2.7 Billion in Taxes via Singapore Disclosures Show</h2>
-<a name="story-26798"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fcba7541e-fa92-11e5-b3f6-11d5706b613b%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple saved $2.7 billion in taxes this year by routing up to $50 billion in profits through Singapore, surpassing the $2.6 billion saved via Ireland. Singapore has thus overtaken Ireland as the iPhone maker's largest tax shelter, according to recent corporate disclosures.</p><p>The shift highlights how multinational corporations adapt their profit-routing structures in response to changing international tax landscapes and regulatory pressures, particularly as traditional European havens face heightened scrutiny.</p>
-<p>Nov 8 · <a href="https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede">ft.com</a></p>
 <br clear="all" />
 
 ---

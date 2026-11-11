@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Blender 5.3 Release Features</h2>
+<a name="story-27119"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blender.org%2Fwp-content%2Fuploads%2F2025%2F11%2Fgaussian_splatting-nunchuck.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Blender 5.3 introduces native support for 3D Gaussian Splatting, allowing users to import, process, and render these point-cloud-based scenes in EEVEE, Cycles, and Workbench. The release also includes Cycles dispersion for the Principled BSDF, NVIDIA DLSS 4.5 Ray Reconstruction denoising, and a new Project management system for organizing files and resources.</p><p>Other updates include material lighting nodes for stylized shading, panoramic camera support in EEVEE, and expanded compositing capabilities featuring scene effects and Geometry Nodes. Grease Pencil has been updated with new selection and carving tools, while the Video Sequencer now supports ripple editing and OpenTimelineIO.</p>
+<p>Nov 10 · <a href="https://www.blender.org/download/releases/5-3/">blender.org</a> | <a href="https://news.ycombinator.com/item?id=50442426">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft Announces .NET 11</h2>
 <a name="story-27114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQH3EDoFJzMH6g%2Ffeedshare-shrink_800%2FB4EZxTNwL8GYAg-%2F0%2F1770922640532%3Fe%3D2147483647%26v%3Dbeta%26t%3DX5-fYnyqdvmSg11GVyIlOqbc-SJV2HJw3IFXKgY-mpQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft has released .NET 11, a Standard Term Support (STS) release providing two years of support. The update includes improvements to C# 15, ASP.NET Core, .NET MAUI, and the .NET runtime, aimed at increasing performance and developer productivity.</p><p>Key updates include C# 15 union types, a Native AOT CLI host, and expanded AI integration via the Microsoft Agent Framework and Microsoft.Extensions.AI. Other features include JIT compiler optimizations, Zstandard compression in libraries, and experimental vector search support in Entity Framework Core 11.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26876"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FVHLrEQnyFyGbeSJfvGvR3N.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is rolling out the November update for Googlebook, bringing significant performance, stability, and memory management optimizations. The update refines NPU drivers and AICore memory handling, freeing up to 6GB of system RAM to improve multitasking and prevent unexpected Chrome crashes under heavy workloads.</p><p>The release also fixes several hardware and software bugs across supported models from manufacturers like Acer, ASUS, and Lenovo, including issues with tablet mode input loss, Zoom virtual background crashes, and black screens on DRM-protected external displays. Additionally, it includes Linux terminal and security enhancements, incorporating the November 2026 Android security patch and an updated Linux kernel.</p>
 <p>Nov 9 · <a href="https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone">androidcentral.com</a></p>
-<br clear="all" />
-
-<h2>Redox OS Adds Virtio-FS Driver and Cloud Hypervisor Support</h2>
-<a name="story-26895"><img src="https://wsrv.nl/?url=https%3A%2F%2Fubunlog.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fredox-os-imagen-destacada-blog-ubunlog.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Redox OS developer MJ Pooladkhay details recent progress in running Redox as a virtualized guest, highlighting the implementation of a Virtio-FS driver and successful boots into a shell on Cloud Hypervisor. Funded by NGI Zero Commons and NLnet, the project aims to position the memory-safe microkernel operating system as a secure platform for cloud servers and microservices.</p><p>Running Redox on modern cloud hypervisors required removing legacy PC hardware dependencies, such as updating transitional VirtIO device matching, routing legacy interrupts through the I/O APIC, and implementing a replacement for missing timer hardware using the CPU local APIC timer. Remaining goals under the development grant include eliminating further legacy platform assumptions, enabling software-controlled shutdown, and eventually exploring Redox's potential to act as a virtual machine host.</p>
-<p>Nov 9 · <a href="https://www.redox-os.org/news/virtualized-redox/">redox-os.org</a> | <a href="https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud">lobsters</a></p>
 <br clear="all" />
 
 ---
