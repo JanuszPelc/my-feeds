@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-11T14:23:00+00:00</updated>
+  <updated>2026-11-11T14:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Anthropic CEO Dario Amodei Predicts Disease Eradication Within a Decade</title>
+    <link href="https://x.com/firesidealpha" rel="alternate" />
+    <id>https://x.com/firesidealpha::v240</id>
+    <published>2026-11-11T14:25:00+00:00</published>
+    <updated>2026-11-11T14:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256654494-e1769534959678.jpg%3Fw%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://x.com/firesidealpha">x.com</a></small></p><hr/><p>During Anthropic's initial public offering roadshow video, CEO Dario Amodei projected that major medical conditions including cancer, Alzheimer's, heart disease, and mental illness will become relics of the past in less than a decade. He asserted that rapid advancements in artificial intelligence could enable humanity to create an "age of miracles."</p><p>The comments emerged as Anthropic advances toward a major public offering, underscoring the company's ambitious outlook on the societal impact of frontier AI systems. Such projections reflect broader industry expectations that advanced AI models will dramatically accelerate breakthroughs in medical and scientific research.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256654494-e1769534959678.jpg%3Fw%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:57 UTC | #27157</small>]]></content>
+  </entry>
   <entry>
     <title>Heinz von Foerster’s 1960 Doomsday Prediction Offers Lessons for Modern Scientific Forecasting</title>
     <link href="https://theconversation.com/why-the-doomsday-prediction-of-1960-matters-today-295817" rel="alternate" />
@@ -281,14 +290,5 @@
     <published>2026-11-07T02:54:00+00:00</published>
     <updated>2026-11-07T02:54:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/11/261104012250.htm">sciencedaily.com</a></small></p><hr/><p>Astronomers using the European Southern Observatory's Very Large Telescope have discovered two distinct rings of planetary debris surrounding the white dwarf J1328−1450. Unlike typical single-disc systems around dead stars, this structure features two stable, concentric rings separated by a gap, indicating a complex arrangement of rocky remnants.</p><p>Researchers suspect the double-ring configuration is maintained by two surviving planetary bodies acting as gravitational shepherds, one asteroid-sized and the other potentially as large as Pluto or the Moon. Chemical analysis shows the rings contain rocky planetary materials with distinct compositions, providing rare insight into the violent destruction of planetary systems and a potential preview of our Solar System's distant future.</p><hr/><small>7 Nov 2026, 10:29 UTC | #26745</small>]]></content>
-  </entry>
-  <entry>
-    <title>Physical Superintelligence Proves Aaronson-Ambainis Conjecture</title>
-    <link href="https://psi.inc/research/aaronson-ambainis/" rel="alternate" />
-    <id>https://psi.inc/research/aaronson-ambainis/::v240</id>
-    <published>2026-11-06T19:56:00+00:00</published>
-    <updated>2026-11-06T19:56:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWc-Q1jWAAAndhW%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://psi.inc/research/aaronson-ambainis/">psi.inc</a> | <a href="https://news.ycombinator.com/item?id=50393770">hacker news</a></small></p><hr/><p>Physical Superintelligence (PSI) has formally proven the Aaronson-Ambainis conjecture, settling a fundamental open problem in quantum complexity theory regarding whether quantum computers can achieve exponential speedups on random inputs. Using an internal research system powered by an unreleased Anthropic model, PSI generated a proof that was successfully checked and accepted by the Lean proof assistant.</p><p>Open since 2008, the conjecture established that if certain polynomial conditions hold, ordinary computers can simulate quantum probability estimates without exponential overhead, implying that quantum speedups require structural patterns like those in Shor's algorithm. Stanford researchers who recently proved a special case of the prediction are currently reviewing the full proof, which builds upon prior work in boolean function analysis and probabilistic combinatorics.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWc-Q1jWAAAndhW%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 02:37 UTC | #26715</small>]]></content>
   </entry>
 </feed>

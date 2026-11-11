@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>House House Discloses AI Use in Big Walk Development</h2>
+<a name="story-27153"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheoutpost.ai%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_545603_big_walk_house_house_1794312350711_807a1bb8a5.jpg%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer House House has revealed that it used large language models sparingly during the final stages of developing Big Walk, sparking intense debate among Independent Games Festival jurors. The studio stated that LLMs accounted for well under 0.1% of the game's code and were exclusively used to help troubleshoot difficult technical bugs and third-party code issues.</p><p>While acknowledging that the disclosure might contribute to the normalization of generative AI, House House defended the tool's limited implementation to solve an otherwise intractable Unity rendering problem. The studio also noted that the game was developed without an internal AI usage policy, admitting that this lack of oversight was a failure it intends to address in the future.</p>
+<p>Nov 11 · <a href="https://aftermath.site/big-walk-ai-igf-jurors-controversy/">aftermath.site</a></p>
+<br clear="all" />
+
 <h2>Helsing Launches Clarity Intelligence Platform</h2>
 <a name="story-27154"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.medianama.com%2Fwp-content%2Fuploads%2F2026%2F01%2FUS-Military-AI-Agents-1-e1768562134951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>German defense technology company Helsing has launched Clarity, an intelligence platform designed to help armed forces process battlefield data and execute operations using military-customized AI agents. Pitched as a sovereign, AI-native alternative to platforms like Palantir’s Maven, the system integrates data from disparate sources such as satellites, sensors, and drones to accelerate threat identification and counteractions.</p><p>The platform addresses the growing challenge of cognitive overload in modern warfare, where military personnel struggle to manage vast inflows of real-time intelligence. While Helsing emphasizes data governance and sovereign European control, the deployment of autonomous agentic AI in combat environments also raises questions regarding reliability and safety in high-stakes military contexts.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26999"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA228hZP.img%3Fw%3D768%26h%3D457%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Documentation published on GitHub details how Google's Gemini AI with Connected Apps enabled can autonomously route personal Gmail and Google Drive files into human review pipelines. This ingestion occurs probabilistically during background conversations without requiring explicit user tags, contradicting earlier privacy commitments.</p><p>Testing demonstrates that background tool calls can extract partial quotes or ingest full, unredacted documents containing sensitive personally identifiable information into session contexts. Automated deidentification systems often fail to properly scrub narrative data like account numbers and transaction details, meaning private user files may be exposed to human contractors.</p>
 <p>Nov 10 · <a href="https://github.com/thisisme6598/gemini_files/">github.com</a> | <a href="https://news.ycombinator.com/item?id=50429426">hacker news</a></p>
-<br clear="all" />
-
-<h2>Apple Launches $50 Intelligence Usage Packs for Select AI Features</h2>
-<a name="story-26965"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fassets-www%2Fen_WW%2Fmac%2Fog%2Fmac_og_b19b72d52.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has introduced $49.99 one-time purchases to allow for expanded usage of select AI features. Currently limited to Logic Pro, these packs permit users to exceed monthly usage limits for AI-driven tools.</p><p>Unlike typical subscription-based models, these packs do not support Family Sharing and are tied to the purchaser's Apple Account. Unused capacity rolls over monthly but expires 12 months after purchase. Apple plans to extend this model to other Creator Studio apps like Final Cut Pro and the iWork suite, with potential future availability for Siri and other system-wide AI features.</p>
-<p>Nov 9 · <a href="https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/">9to5mac.com</a> | <a href="https://www.apple.com/legal/internet-services/intelligence-usage-pack/en/">apple.com</a></p>
 <br clear="all" />
 
 ---

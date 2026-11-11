@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-11T14:04:00+00:00</updated>
+  <updated>2026-11-11T14:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>House House Discloses AI Use in Big Walk Development</title>
+    <link href="https://aftermath.site/big-walk-ai-igf-jurors-controversy/" rel="alternate" />
+    <id>https://aftermath.site/big-walk-ai-igf-jurors-controversy/::v240</id>
+    <published>2026-11-11T14:24:00+00:00</published>
+    <updated>2026-11-11T14:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftheoutpost.ai%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_545603_big_walk_house_house_1794312350711_807a1bb8a5.jpg%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://aftermath.site/big-walk-ai-igf-jurors-controversy/">aftermath.site</a></small></p><hr/><p>Developer House House has revealed that it used large language models sparingly during the final stages of developing Big Walk, sparking intense debate among Independent Games Festival jurors. The studio stated that LLMs accounted for well under 0.1% of the game's code and were exclusively used to help troubleshoot difficult technical bugs and third-party code issues.</p><p>While acknowledging that the disclosure might contribute to the normalization of generative AI, House House defended the tool's limited implementation to solve an otherwise intractable Unity rendering problem. The studio also noted that the game was developed without an internal AI usage policy, admitting that this lack of oversight was a failure it intends to address in the future.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheoutpost.ai%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_545603_big_walk_house_house_1794312350711_807a1bb8a5.jpg%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:56 UTC | #27153</small>]]></content>
+  </entry>
   <entry>
     <title>Helsing Launches Clarity Intelligence Platform</title>
     <link href="https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/" rel="alternate" />
@@ -280,14 +289,5 @@
     <updated>2026-11-07T00:02:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21hcJn%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F40ef3251-b0ed-4ed8-bb5f-649bfccc7563_1880x1561.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai">planned-obsolescence.org</a> | <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">metr.org</a> | <a href="https://news.ycombinator.com/item?id=50397994">hacker news</a></small></p><hr/><p>A METR report finds that Anthropic's AI capabilities progress doubled between October 2025 and October 2026 compared to the previous year. This acceleration is primarily driven by AI automation within the research and development process rather than increases in compute or human headcount.</p><p>This trend implies a significant productivity boost for human researchers, with potential labor efficiency increases reaching as high as 10x. If this acceleration continues to compound, it could result in an intelligence explosion and much shorter timelines for superintelligence.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21hcJn%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F40ef3251-b0ed-4ed8-bb5f-649bfccc7563_1880x1561.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 07:01 UTC | #26738</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hightouch Benchmarks LLM Judges for Identity Resolution</title>
-    <link href="https://hightouch.com/blog/llm-judges-identity-resolution" rel="alternate" />
-    <id>https://hightouch.com/blog/llm-judges-identity-resolution::v240</id>
-    <published>2026-11-06T19:49:00+00:00</published>
-    <updated>2026-11-06T19:49:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhightouch.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.sanity.io%252Fmedia-libraries%252Fmlxe9VfpyM52%252Fimages%252Fffae4175d740119dca77e91b5f8ecf682fbddc39-920x511.svg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://hightouch.com/blog/llm-judges-identity-resolution">hightouch.com</a> | <a href="https://news.ycombinator.com/item?id=50397429">hacker news</a></small></p><hr/><p>Hightouch evaluated smaller decision models like Jev and GPT-6 Luna against frontier models like Claude Opus to grade identity resolution results and detect over-merging in customer datasets. While decision models performed well out of the box at a fraction of the cost and execution time of frontier models, they struggled more with complex cases involving subtle data discrepancies or similar identities.</p><p>To bridge this performance gap, the testing demonstrated that a hybrid evaluation model combining Jev with Claude Opus could achieve frontier-level accuracy while lowering costs by more than four times. Because Jev maintained better-calibrated confidence scores compared to Luna, routing uncertain cases to a more powerful model allowed for cost-effective auditing at scale.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhightouch.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.sanity.io%252Fmedia-libraries%252Fmlxe9VfpyM52%252Fimages%252Fffae4175d740119dca77e91b5f8ecf682fbddc39-920x511.svg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 00:09 UTC | #26726</small>]]></content>
   </entry>
 </feed>
