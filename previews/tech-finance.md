@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>CFTC Poised to Bring Charges Against Prediction Market Kalshi</h2>
+<a name="story-27113"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptotimes.io%2Fwp-content%2Fuploads%2F2026%2F05%2FCFTC-Backs-Kalshi-Against-Ohio-in-Escalating-Prediction-Market-Turf-War.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Commodity Futures Trading Commission is preparing potential charges against prediction market Kalshi over whether the company failed to properly notify the agency regarding dozens of new product contracts. The impending enforcement action, revealed by a source familiar with the unannounced probe, could lead to formal charges or a settlement.</p><p>A Kalshi spokesperson described the dispute as a procedural error involving contract submissions, noting that many of the affected contracts were not live and that the company is actively resolving the matter. Kalshi maintains that its offerings are traditional derivatives rather than wagers.</p>
+<p>Nov 11 · <a href="https://www.politico.com/news/2026/11/10/regulator-charges-prediction-market-kalshi-01159140">politico.com</a></p>
+<br clear="all" />
+
 <h2>Daylight Raises $80 Million Series B Led by Goldman Sachs Alternatives</h2>
 <a name="story-27099"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsg-imgs.dealroom.co%2F996020c111dd0c2693d06b114945ad51.jpg%3Fauto%3Dcompress%26cs%3Dorigin&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Daylight, a New York-based cybersecurity startup, has raised $80 million in a Series B funding round at an estimated $400 million valuation. The investment was led by Goldman Sachs Alternatives.</p><p>The company provides AI-powered managed security services. This funding highlights growing demand for security platforms that integrate AI agents with human expert oversight.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26922"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spines.com%2Fwp-content%2Fuploads%2F2025%2F04%2Fhome.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Israeli AI publishing company Spines has raised $64 million, including $29 million in equity led by Zeev Ventures and $35 million in debt financing from Twelve. The platform uses AI to perform editing, proofreading, cover design, and layout, enabling amateur authors to distribute books in digital, print, and audio formats.</p><p>The company's annual recurring revenue has grown from $3.5 million to $50 million over the last two years, supporting a portfolio of 8,000 authors. While Spines uses technology to detect and block AI-generated manuscripts, it offers AI-driven audiobook narration and plans to expand its language support to 20 languages within the next six months.</p>
 <p>Nov 9 · <a href="https://en.globes.co.il/en/article-israeli-ai-publishing-co-spines-raises-64m-1001562574">en.globes.co.il</a> | <a href="https://spines.com/">spines.com</a></p>
-<br clear="all" />
-
-<h2>Nominal Raises $240M at $3B Valuation</h2>
-<a name="story-26917"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FAHwMcjh_y9I%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nominal, a startup developing software to increase efficiency in hardware manufacturing, has secured $240 million in new funding, bringing its valuation to $3 billion.</p><p>This follows an $80 million funding round in March that valued the company at $1 billion.</p>
-<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/hardware-testing-startup-nominal-valued-at-3-billion-in-round">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
