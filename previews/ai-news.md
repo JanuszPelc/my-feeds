@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google DeepMind Releases AlphaGenome 2 to Predict Cellular Effects of DNA Variants</h2>
+<a name="story-27175"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a95f49-c0c5-47d1-9c39-c38db29ab327_1024x660.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google DeepMind has released AlphaGenome 2, an AI model designed to predict how genetic variants affect specific cell types and biological states. Trained on over 100 million cell profiles across 68 tissues, the model accounts for how genes are switched on or off within different cells to provide a more granular view of genetic impact than previous models.</p><p>AlphaGenome 2 identifies nearly twice as many variants affecting gene expression as its predecessor and can predict effects on new cell types without retraining. While more computationally intensive, the model is available for non-commercial research via API to help scientists link genetic variants to specific cellular diseases.</p>
+<p>Nov 11 · <a href="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model">theverge.com</a> | <a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">deepmind.google</a> | <a href="https://news.ycombinator.com/item?id=50454306">hacker news</a></p>
+<br clear="all" />
+
 <h2>Databricks Updates AI Agent Genie for Multi-Step Enterprise Tasks</h2>
 <a name="story-27176"><img src="https://wsrv.nl/?url=https%3A%2F%2Frapl.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FGenie-Dashboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Databricks has unveiled an updated version of its AI agent, Genie, designed to perform unsupervised, multi-step jobs using a custom-built data ontology. CEO Ali Ghodsi demonstrated internal use cases, including analyzing employee satisfaction surveys, summarizing poorly executed sales calls, and preparing for interviews.</p><p>Ghodsi noted that the tool helps executive leadership bypass institutional filtering to surface critical feedback and unvarnished truths within large organizations exceeding Dunbar’s number. To manage potential enterprise AI costs and usage limits, Databricks integrates the agent with its Unity Gateway product.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26994"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F07%2Ffeatured-image-104-800x400.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meituan has released the open weights for LongCat-2.5, a 1.6-trillion-parameter mixture-of-experts large language model built for long-horizon agentic tasks and native vision understanding. The model weights were made available under a permissive MIT license following the initial unveiling on November 1.</p><p>LongCat-2.5 processes visual and textual inputs in a unified token-based format by translating visual signals into multi-level discrete tokens. This architecture delivers advanced performance in visual coding, creative design, and 3D tasks.</p>
 <p>Nov 10 · <a href="https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license">venturebeat.com</a> | <a href="https://longcat.ai/blog/longcat-2.5/">longcat.ai</a> | <a href="https://news.ycombinator.com/item?id=50337716">hacker news</a></p>
-<br clear="all" />
-
-<h2>Otter.ai Expands Multilingual Transcription to Over 30 Languages</h2>
-<p>Otter.ai has announced an expansion of its AI-powered note-taking platform to support 31 languages, introducing a new multilingual transcription feature capable of tracking conversations as speakers switch languages in real time. The update aims to remove communication barriers for international teams by automatically detecting language changes without requiring manual user adjustments.</p><p>The company is rolling out support for 27 new languages, with 13 currently available—including Mandarin Chinese, Korean, German, and Portuguese—and 14 more scheduled for release soon. These models were built using Otter's own speech technology, trained on public datasets and verified with the help of native-speaking volunteers.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/">techcrunch.com</a> | <a href="https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities">otter.ai</a></p>
 <br clear="all" />
 
 ---

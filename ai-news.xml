@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-11T15:03:00+00:00</updated>
+  <updated>2026-11-11T16:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Google DeepMind Releases AlphaGenome 2 to Predict Cellular Effects of DNA Variants</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model::v240</id>
+    <published>2026-11-11T16:49:00+00:00</published>
+    <updated>2026-11-11T16:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a95f49-c0c5-47d1-9c39-c38db29ab327_1024x660.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model">theverge.com</a> | <a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">deepmind.google</a> | <a href="https://news.ycombinator.com/item?id=50454306">hacker news</a></small></p><hr/><p>Google DeepMind has released AlphaGenome 2, an AI model designed to predict how genetic variants affect specific cell types and biological states. Trained on over 100 million cell profiles across 68 tissues, the model accounts for how genes are switched on or off within different cells to provide a more granular view of genetic impact than previous models.</p><p>AlphaGenome 2 identifies nearly twice as many variants affecting gene expression as its predecessor and can predict effects on new cell types without retraining. While more computationally intensive, the model is available for non-commercial research via API to help scientists link genetic variants to specific cellular diseases.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a95f49-c0c5-47d1-9c39-c38db29ab327_1024x660.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 22:22 UTC | #27175</small>]]></content>
+  </entry>
   <entry>
     <title>Databricks Updates AI Agent Genie for Multi-Step Enterprise Tasks</title>
     <link href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/" rel="alternate" />
