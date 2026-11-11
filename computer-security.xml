@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-11T00:03:00+00:00</updated>
+  <updated>2026-11-11T00:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>AMD Zen 6 EPYC 'Venice' Architecture and Performance Benchmarks</title>
+    <link href="https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera" rel="alternate" />
+    <id>https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera::v240</id>
+    <published>2026-11-11T00:26:00+00:00</published>
+    <updated>2026-11-11T00:26:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera">tomshardware.com</a></small></p><hr/><p>AMD's Zen 6 EPYC "Venice" CPUs feature a redesigned architecture built on TSMC's N2P process. Benchmarking of the EPYC 9686F and a dual EPYC 9996 configuration—totaling 1,024 threads—shows performance increases of up to 93% generation-on-generation.</p><hr/><small>11 Nov 2026, 07:31 UTC | #27102</small>]]></content>
+  </entry>
   <entry>
     <title>Railway Suffers Security Breach Resulting in $740,000 in Fraudulent AI Charges</title>
     <link href="https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/" rel="alternate" />

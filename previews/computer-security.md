@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>AMD Zen 6 EPYC &#x27;Venice&#x27; Architecture and Performance Benchmarks</h2>
+<p>AMD's Zen 6 EPYC "Venice" CPUs feature a redesigned architecture built on TSMC's N2P process. Benchmarking of the EPYC 9686F and a dual EPYC 9996 configuration—totaling 1,024 threads—shows performance increases of up to 93% generation-on-generation.</p>
+<p>Nov 11 · <a href="https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera">tomshardware.com</a></p>
+<br clear="all" />
+
 <h2>Railway Suffers Security Breach Resulting in $740,000 in Fraudulent AI Charges</h2>
 <a name="story-27096"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F4ZEKSAGFCJNLVLOIDT5IG57SRM.jpg%3Fauth%3D0019929fc187564682943c3cae86e58adc1b739c55a64741d180fbe020a69cf1%26width%3D1080%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cloud hosting provider Railway reported a security breach where attackers exploited vulnerabilities in its build infrastructure to steal customer authentication secrets. The incident resulted in approximately $740,000 in fraudulent AI usage charges and potentially exposed credentials for up to 100,000 workspaces. The attackers used AI-powered agents to navigate the infrastructure, specifically targeting AI provider, cloud, database, and payment service credentials.</p><p>The breach is part of a campaign targeting AI development platforms known as "Black October," which has also impacted Northflank, OpenCode, Warp, and Lightning AI. Railway has remediated the vulnerabilities and is working with service providers to reimburse customers for the unauthorized charges.</p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>THORChain Continues Processing Stolen Crypto Despite Law Enforcement Warnings</h2>
 <p>Cryptocurrency platforms like THORChain are facilitating the laundering of billions of dollars by hackers, including massive loot from recent major exploits. Despite pleas from the FBI, THORChain has begun moving funds associated with the Binance hack, maintaining that its decentralized nature prevents it from blocking such transfers.</p><p>Investigators face mounting challenges as these services continue to process illicit transactions, with THORChain alone handling roughly $1 billion in stolen Bybit funds in 2025 while generating millions in fees. The situation highlights the ongoing friction between law enforcement agencies and automated, cross-chain protocols that lack central authorities to freeze or intercept stolen assets.</p>
 <p>Nov 9 · <a href="https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737?st=3WgKBC&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Outlook.com Begins Rejecting Emails From Domains Without DMARC Records</h2>
-<a name="story-26850"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.mdaemon.com%2Fhs-fs%2Fhubfs%2FDMARC.png%3Fwidth%3D1280%26height%3D720%26name%3DDMARC.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Since early November 2026, Microsoft's consumer email services—including Outlook.com, Hotmail, Live, and MSN—have begun rejecting emails from domains that lack a published DMARC record. Unlike previous rules targeting high-volume bulk senders, this enforcement affects low-volume and individual senders, causing intermittent message bounces without public announcements from Microsoft.</p><p>Affected domains typically receive a "550 5.7.1 Message rejected" error even if SPF and DKIM are properly configured. Because Microsoft only rejects a portion of mail from non-compliant domains, the issue often goes unnoticed by senders. The problem can be resolved by publishing a basic DMARC TXT record with a policy set to none, provided that SPF or DKIM aligns with the sender's From address.</p>
-<p>Nov 8 · <a href="https://mailroute.net/blog/outlook-rejecting-email-without-dmarc">mailroute.net</a> | <a href="https://news.ycombinator.com/item?id=50416158">hacker news</a></p>
 <br clear="all" />
 
 ---
