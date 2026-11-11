@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-11T00:26:00+00:00</updated>
+  <updated>2026-11-11T03:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>VulnCheck Analyzes Seven-Month Results of Anthropic Project Glasswing</title>
+    <link href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update" rel="alternate" />
+    <id>https://www.vulncheck.com/blog/anthropic-glasswing-november-update::v240</id>
+    <published>2026-11-11T03:25:00+00:00</published>
+    <updated>2026-11-11T03:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQEt51Q4QgPFTg%2Farticle-cover_image-shrink_720_1280%2FB56Z1u_hv5JkAM-%2F0%2F1775683644454%3Fe%3D2147483647%26v%3Dbeta%26t%3DRk2o8Qn543Sta5eb8oE0oBXTIk0hCbEGklNf1Qsk5S4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update">vulncheck.com</a> | <a href="https://news.ycombinator.com/item?id=50447074">hacker news</a></small></p><hr/><p>Seven months after the launch of Anthropic's Project Glasswing, security firm VulnCheck has tracked 442 CVEs attributable to the initiative, representing roughly 0.5% of all CVEs published in 2026. Only two of these findings have been identified as exploited in the wild, while Anthropic's public vulnerability ledger shows high numbers of unverified findings, duplicates, and withdrawals alongside stalled remediation fixes.</p><p>The analysis notes that Anthropic's shift toward an automated open-source software scanner has largely moved the triage burden onto open-source maintainers. Recent vulnerability batches sent to the curl project yielded a high proportion of false positives or low-severity issues, raising questions about the accuracy and practical utility of model-generated security reports.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQEt51Q4QgPFTg%2Farticle-cover_image-shrink_720_1280%2FB56Z1u_hv5JkAM-%2F0%2F1775683644454%3Fe%3D2147483647%26v%3Dbeta%26t%3DRk2o8Qn543Sta5eb8oE0oBXTIk0hCbEGklNf1Qsk5S4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 11:07 UTC | #27141</small>]]></content>
+  </entry>
   <entry>
     <title>AMD Zen 6 EPYC 'Venice' Architecture and Performance Benchmarks</title>
     <link href="https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera" rel="alternate" />

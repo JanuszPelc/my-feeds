@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>VulnCheck Analyzes Seven-Month Results of Anthropic Project Glasswing</h2>
+<a name="story-27141"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQEt51Q4QgPFTg%2Farticle-cover_image-shrink_720_1280%2FB56Z1u_hv5JkAM-%2F0%2F1775683644454%3Fe%3D2147483647%26v%3Dbeta%26t%3DRk2o8Qn543Sta5eb8oE0oBXTIk0hCbEGklNf1Qsk5S4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Seven months after the launch of Anthropic's Project Glasswing, security firm VulnCheck has tracked 442 CVEs attributable to the initiative, representing roughly 0.5% of all CVEs published in 2026. Only two of these findings have been identified as exploited in the wild, while Anthropic's public vulnerability ledger shows high numbers of unverified findings, duplicates, and withdrawals alongside stalled remediation fixes.</p><p>The analysis notes that Anthropic's shift toward an automated open-source software scanner has largely moved the triage burden onto open-source maintainers. Recent vulnerability batches sent to the curl project yielded a high proportion of false positives or low-severity issues, raising questions about the accuracy and practical utility of model-generated security reports.</p>
+<p>Nov 11 · <a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update">vulncheck.com</a> | <a href="https://news.ycombinator.com/item?id=50447074">hacker news</a></p>
+<br clear="all" />
+
 <h2>AMD Zen 6 EPYC &#x27;Venice&#x27; Architecture and Performance Benchmarks</h2>
 <p>AMD's Zen 6 EPYC "Venice" CPUs feature a redesigned architecture built on TSMC's N2P process. Benchmarking of the EPYC 9686F and a dual EPYC 9996 configuration—totaling 1,024 threads—shows performance increases of up to 93% generation-on-generation.</p>
 <p>Nov 11 · <a href="https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera">tomshardware.com</a></p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26874"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.vicone.com%2Farchives%2Fvicone%2Fimages%2FSmart-Cockpit-Attack-Flow-Figure-2NmNzMSv.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers Shubham Shah and Sam Curry discovered severe security vulnerabilities in a major automaker's connected car platform that could allow remote vehicle unlocking and account takeovers. By exploiting publicly exposed administrative tools, insecure identity management instances, and hardcoded credentials, the researchers chained together vehicle registration numbers, VINs, and user identifiers to generate valid access tokens.</p><p>The attack chain bypassed web application firewalls and multi-factor authentication mechanisms, granting unauthorized control over connected vehicles and sensitive customer data. The findings highlight significant security risks in the connected vehicle infrastructure of modern automotive manufacturers, emphasizing the dangers of exposing internal administration endpoints and sensitive API keys on the public internet.</p>
 <p>Nov 9 · <a href="https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/">shubs.io</a> | <a href="https://news.ycombinator.com/item?id=50419215">hacker news</a></p>
-<br clear="all" />
-
-<h2>THORChain Continues Processing Stolen Crypto Despite Law Enforcement Warnings</h2>
-<p>Cryptocurrency platforms like THORChain are facilitating the laundering of billions of dollars by hackers, including massive loot from recent major exploits. Despite pleas from the FBI, THORChain has begun moving funds associated with the Binance hack, maintaining that its decentralized nature prevents it from blocking such transfers.</p><p>Investigators face mounting challenges as these services continue to process illicit transactions, with THORChain alone handling roughly $1 billion in stolen Bybit funds in 2025 while generating millions in fees. The situation highlights the ongoing friction between law enforcement agencies and automated, cross-chain protocols that lack central authorities to freeze or intercept stolen assets.</p>
-<p>Nov 9 · <a href="https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737?st=3WgKBC&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---
