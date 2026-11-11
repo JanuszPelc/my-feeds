@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-10T21:19:00+00:00</updated>
+  <updated>2026-11-10T23:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Synaptics Patent Claims Halt Development of Vino DisplayLink Driver</title>
+    <link href="https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/" rel="alternate" />
+    <id>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/::v240</id>
+    <published>2026-11-10T23:52:00+00:00</published>
+    <updated>2026-11-10T23:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2026%26image%3Dno_vino&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/">lwn.net</a> | <a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50443824">hacker news</a></small></p><hr/><p>Synaptics has used patent infringement claims to halt the development of Vino, an open-source Rust-based driver for DisplayLink docking stations on Linux. Seeking to improve performance over proprietary vendor software, developer Mike Lothian attempted to reverse-engineer the DisplayLink DL3 protocol. Synaptics issued cease-and-desist notices alleging infringement of a vast patent portfolio and demanded the removal of all related code and public discussion.</p><p>Although Lothian is an Open Invention Network (OIN) licensee, OIN concluded its patent protections do not extend to the specific codecs used in the driver. Consequently, Lothian has taken down the project's GitHub repository to avoid potential litigation. The dispute underscores the ongoing risks for open-source developers implementing proprietary hardware protocols.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2026%26image%3Dno_vino&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 05:33 UTC | #27117</small>]]></content>
+  </entry>
   <entry>
     <title>Cubist Accuses Former Analyst of Stealing Code Using AI</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code" rel="alternate" />

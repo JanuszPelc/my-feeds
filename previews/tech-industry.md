@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>NSA and US Cyber Command Face Congressional Scrutiny Over Employee Suicides</h2>
+<a name="story-27091"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsmarthernews.com%2Fwp-content%2Fuploads%2F2024%2F02%2FIMG_3756.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>At least 11 National Security Agency and US Cyber Command employees died by suicide in the 12 months leading up to September, prompting inquiries from the White House and Congress.</p><p>The deaths have triggered scrutiny regarding agency culture and the availability of mental health resources for intelligence personnel. Congressional oversight is expected to examine the circumstances of the deaths and the welfare of agency staff.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/more-suicides-at-spy-cyber-agencies-scrutinized-by-congress">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia to Invest $10 Billion in Anthropic Amid Planned IPO</h2>
 <a name="story-27082"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd.techtimes.co.uk%2Fen%2Ffull%2F1820588%2Fnvidia.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic is preparing an initial public offering that could value the company at up to $1.4 trillion. As part of the deal, Nvidia plans to invest approximately $10 billion in the AI software company immediately following the IPO, representing about 10 percent of the total cash Anthropic expects to raise this month.</p><p>The investment marks a significant shift for the two companies, which have historically maintained distance and clashed over U.S. government regulation of AI technology. The move underscores the deepening financial ties between AI software developers and the hardware providers powering the sector.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26976"><img src="https://wsrv.nl/?url=https%3A%2F%2Fboringdude.in%2Fwp-content%2Fuploads%2F2026%2F06%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence company Anthropic briefly distributed and then retracted details regarding its upcoming initial public offering to bankers, revealing plans to raise up to $69.3 billion. The figures outline the scale of the anticipated stock market debut for the generative AI developer amid high market interest.</p><p>The leaked information provides a rare look into the financial targets behind one of the largest potential public listings in the technology sector. Anthropic's valuation and fundraising goals have drawn intense scrutiny from investors tracking the commercial trajectory of foundational AI model providers.</p>
 <p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></p>
-<br clear="all" />
-
-<h2>Paul Cochrane Defends &quot;Buy Me a Coffee&quot; Links on Personal Blogs</h2>
-<a name="story-26992"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpeateasea.de%2Fassets%2Fimages%2Fchefpresso-cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Paul Cochrane argues that "buy me a coffee" links on personal blogs serve as important tools for recognition and feedback rather than primary revenue streams. He addresses concerns about the increasing monetization of the internet by framing these links as a form of social validation.</p><p>Using a street busker as an analogy, Cochrane explains that such links allow readers to express appreciation without being obligated to pay. He notes that for many small creators, the psychological benefit of knowing their work is valued often outweighs the financial contribution itself.</p>
-<p>Nov 10 · <a href="https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/">peateasea.de</a> | <a href="https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee">lobsters</a></p>
 <br clear="all" />
 
 ---

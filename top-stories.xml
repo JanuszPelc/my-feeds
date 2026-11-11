@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-11T05:08:00+00:00</updated>
+  <updated>2026-11-11T05:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Verisign Retracts Plan to Terminate .name Domains and Email Redirects</title>
+    <link href="https://neil.fraser.name/news/2026/11/10/" rel="alternate" />
+    <id>https://neil.fraser.name/news/2026/11/10/::v240</id>
+    <published>2026-11-11T05:35:00+00:00</published>
+    <updated>2026-11-11T05:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.ionos.ca%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Finteraction-between-icann-registries-registrars-us.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://neil.fraser.name/news/2026/11/10/">neil.fraser.name</a> | <a href="https://itp.cdn.icann.org/en/files/consensus-policies/kane-to-fessenden-05-11-2026-en.pdf">itp.cdn.icann.org</a> | <a href="https://lobste.rs/s/vkkbwo/name_grandfathered">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50442736">hacker news</a></small></p><hr/><p>Verisign has cancelled an initiative to terminate approximately 22,000 .name domain registrations and their associated email redirects. While new registrations for third-level .name domains will be closed, all existing domains and email services will be grandfathered and remain active indefinitely.</p><p>The decision follows a series of legal challenges and advocacy efforts aimed at preventing the termination. The move adheres to ICANN consensus policies, ensuring continued service for current .name domain holders.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ionos.ca%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Finteraction-between-icann-registries-registrars-us.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 05:27 UTC | #27116 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Launches Claude Meetings, Whiteboards, and Sheets</title>
     <link href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/" rel="alternate" />

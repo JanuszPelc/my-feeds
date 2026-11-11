@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Synaptics Patent Claims Halt Development of Vino DisplayLink Driver</h2>
+<a name="story-27117"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2026%26image%3Dno_vino&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Synaptics has used patent infringement claims to halt the development of Vino, an open-source Rust-based driver for DisplayLink docking stations on Linux. Seeking to improve performance over proprietary vendor software, developer Mike Lothian attempted to reverse-engineer the DisplayLink DL3 protocol. Synaptics issued cease-and-desist notices alleging infringement of a vast patent portfolio and demanded the removal of all related code and public discussion.</p><p>Although Lothian is an Open Invention Network (OIN) licensee, OIN concluded its patent protections do not extend to the specific codecs used in the driver. Consequently, Lothian has taken down the project's GitHub repository to avoid potential litigation. The dispute underscores the ongoing risks for open-source developers implementing proprietary hardware protocols.</p>
+<p>Nov 10 · <a href="https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/">lwn.net</a> | <a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50443824">hacker news</a></p>
+<br clear="all" />
+
 <h2>Cubist Accuses Former Analyst of Stealing Code Using AI</h2>
 <p>Cubist, the quantitative trading arm of Point72 Asset Management, has filed a lawsuit alleging a former lead research analyst used AI tools to steal proprietary source code. The complaint claims the analyst utilized Anthropic's Claude and OpenAI's Codex to misappropriate company intellectual property before moving to a competitor.</p><p>The litigation highlights the risks large language models pose to corporate data security in the financial sector. The case examines how generative artificial intelligence can be leveraged to facilitate the unauthorized transfer of sensitive technical assets.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code">bloomberg.com</a></p>
@@ -85,12 +91,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26935"><img src="https://wsrv.nl/?url=https%3A%2F%2Fam13.mediaite.com%2Fmed%2Fcnt%2Fuploads%2F2024%2F10%2FScreenshot-2024-10-01-at-5.49.49-PM.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Trump stated in a 60 Minutes interview that AI risks are manageable and currently under management by the Department of Justice. He alleged that the DOJ recently threatened an unnamed leader of a major AI company with arrest, a move he claims successfully altered the company's direction.</p><p>While expressing willingness to cooperate with Democrats on AI safety, Trump emphasized that the United States must maintain its technological lead over China. He also addressed the concept of "super intelligence," suggesting that Chinese AI development operates without the guardrails present in the U.S.</p>
 <p>Nov 9 · <a href="https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai">theverge.com</a> | <a href="https://www.youtube.com/watch?v=m2aC8lAOQbg">youtube.com</a></p>
-<br clear="all" />
-
-<h2>Amsterdam Police Arrest Protesters at Microsoft Data Center Construction Site</h2>
-<a name="story-26896"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gTAi2.img%3Fw%3D1600%26h%3D1000%26m%3D4%26q%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amsterdam police arrested 150 to 200 protesters for trespassing at a Microsoft data center construction site. While many participants were peaceful, authorities reported that some individuals entered the site violently, prompting police intervention and the seizure of break-in tools and suspected stolen construction materials.</p><p>The "Stop Dirty Data Centers" coalition organized the protest to demand a halt to the expansion of AI data centers. In addition to the arrests, officials reported that the construction site sustained vandalism and property damage.</p>
-<p>Nov 9 · <a href="https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site">tomshardware.com</a></p>
 <br clear="all" />
 
 ---
