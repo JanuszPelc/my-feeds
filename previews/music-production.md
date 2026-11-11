@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Augmatic GRE 2.0 Released with Harmonic Drumming and Launch Discount</h2>
+<a name="story-27170"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzRxKNaqOdVg%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Augmatic Audio has released version 2.0 of its generative MIDI drum sequencer and arpeggiator, Augmatic GRE, alongside a limited-time 50% discount. The software combines a Topographic engine inspired by Mutable Instruments Grids with a Euclidean engine, allowing users to blend rhythms across six primary and three accent channels.</p><p>Version 2.0 introduces a Harmonic Drumming feature that translates MIDI chord input into melodies, basslines, and arpeggios synchronized with the drum patterns. Additional updates include linear drumming priority controls, velocity shaping, and four switchable MIDI kit mappings. The plugin is available for Windows and macOS as VST3, CLAP, and standalone formats, as well as an AUv3 and standalone app for iOS.</p>
+<p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/augmatic-gre-discount/">bedroomproducersblog.com</a> | <a href="https://augmaticaudio.com/gre/">augmaticaudio.com</a></p>
+<br clear="all" />
+
 <h2>GenuineSoundware Releases MIDI-AXE Free MIDI Monitor and Toolbox</h2>
 <a name="story-27162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmidi-axe_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GenuineSoundware has released MIDI-AXE, a free MIDI monitor, router, and toolbox application for Windows and macOS. The software includes a color-coded MIDI monitor with hexadecimal and decimal displays, a complete SysEx view, a routing matrix, a SysEx librarian, and a MIDI Clock/MTC monitor and generator.</p><p>Additional features comprise an on-screen keyboard, 16 assignable controller sliders, and a built-in SoundFont player with ASIO support. The scalable interface provides light and dark themes, dockable and floating windows, and automatic USB device reconnection across sessions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27017"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FAudio-Spices-Black-Pepper.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio Spices has opened registration for a free copy of Black Pepper, its pitch-shifting delay plugin for macOS and Windows. Users can sign up on the company's website by November 26 to receive the plugin via email on Black Friday, November 27.</p><p>Normally priced at $59.99, the plugin features pitch control, a Climb function for stepping repeats up or down, tempo sync, stereo ping-pong bouncing, tape-style wobble, and filter controls. It is available in VST3, AU, and AAX formats and requires activation through an Audio Spices account.</p>
 <p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/audio-spices-black-pepper/">bedroomproducersblog.com</a> | <a href="https://audio-spices.com/free-spice">audio-spices.com</a></p>
-<br clear="all" />
-
-<h2>Noizplay Updates nyVERB Core to v1.2.2</h2>
-<a name="story-27011"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnyverb-core-overview.1794310692.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>noizplay has released version 1.2.2 of nyVERB core, the free edition of its reverb plugin. The update introduces six customizable profiles—room, drums, vocal, plate, wash, and sync—that dictate how the single space knob controls the engine's behavior.</p><p>The new sync profile synchronizes decay and pre-delay parameters to the host project's tempo, ranging from 1/16 to 2 bars. Additionally, version 1.2.2 includes an optional update check and stability fixes, with sessions saved in older versions defaulting to the room profile.</p>
-<p>Nov 10 · <a href="https://www.kvraudio.com/news/noizplay-updates-nyverb-core-to-v1-2-2-69730?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69730">kvraudio.com</a> | <a href="https://noizplay.com/nyverb-core/">noizplay.com</a></p>
 <br clear="all" />
 
 ---
