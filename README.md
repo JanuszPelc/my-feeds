@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Anthropic Launches Claude Meetings, Whiteboards, and Sheets</h2>
+<a name="story-27055"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Whiteboards-1.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic has launched Claude Meetings, Claude Whiteboards, and Claude Sheets. Claude Meetings joins video calls to draft real-time plans, timelines, and meeting notes. Claude Whiteboards provides a collaborative visual workspace, while Claude Sheets allows teams to collaboratively create and edit spreadsheets with AI assistance.</p><p>These updates follow similar workplace tool releases from OpenAI and Meta as companies compete to build AI-driven office suites. Anthropic also announced the general availability of Claude Data and introduced interactive connectors that allow users to operate third-party applications, including Adobe, Atlassian, and HubSpot, directly within Claude.</p>
+<p>Nov 11 · <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50443448">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Google Unveils TPU 8tx and TPU 8i Max AI Chips</h2>
 <a name="story-26915"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F4_v1_nUZDsJM.max-1800x1800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is introducing two new specialized AI chips: the TPU 8tx, designed to be paired with AMD CPUs, and the TPU 8i Max, a dual-chip package optimized for long-context window tasks.</p><p>The TPU 8i Max is scheduled for launch in 2027. This expansion of the TPU lineup is part of Google's effort to bolster its AI hardware capabilities and increase competition with Nvidia.</p>
@@ -100,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26860"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.sciencedaily.com%2Fimages%2F1920%2Fviscous-marine-snow-particles.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at UC San Diego's Scripps Institution of Oceanography and the University of Lincoln have found that the viscosity of marine snow—the sinking clumps of organic debris in the ocean—significantly affects how much carbon reaches the deep seafloor. Using 3D confocal microscopy and fluorescent molecules, the team observed that stickier, more viscous particles resist bacterial degradation longer, allowing them to transport up to six times more carbon into the deep ocean than thinner particles.</p><p>The findings, published in Science with a companion study in Nature Communications, reveal a complex microscopic landscape in ocean mucus that governs how bacteria interact with organic matter. This improved understanding of marine snow dynamics helps clarify a long-standing puzzle in the global carbon cycle and offers insights into other biological systems where bacteria encounter mucus, such as coral reefs and human digestive tracts.</p>
 <p>Nov 9 · <a href="https://www.sciencedaily.com/releases/2026/11/261105224558.htm">sciencedaily.com</a> | <a href="https://news.ycombinator.com/item?id=50443111">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/music-production.png" width="28" align="texttop" /> &nbsp;United Airlines Integrates Spotify Into Seatback Displays Using Starlink</h2>
-<a name="story-26543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-cdn.inc.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fvip%2F2025%2F06%2Finc-united-x-spotify.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>United Airlines is introducing a native Spotify app for seatback displays, enabling passengers to log into personal accounts to stream music, playlists, and video podcasts. The service is powered by Starlink’s satellite Wi-Fi, which is currently being rolled out across the airline's entire fleet.</p><p>This integration utilizes Starlink’s low Earth orbit satellite network to provide the high-speed, low-latency connectivity required for live streaming. The move shifts in-flight entertainment away from traditional models that rely on pre-stored, localized content toward a personalized, internet-connected experience.</p>
-<p>Nov 9 · <a href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi">theverge.com</a> | <a href="https://newsroom.spotify.com/2026-11-05/united-airlines-partnership-update/">newsroom.spotify.com</a></p>
 <br clear="all" />
 
 ---
