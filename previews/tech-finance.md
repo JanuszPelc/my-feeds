@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Clara Raises $105 Million to Expand Latin American Spend Management Platform</h2>
+<a name="story-27075"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEp9cYQa5Iqzg%2Ffeedshare-shrink_800%2FB56ZaRcV6QGkAg-%2F0%2F1746196850793%3Fe%3D2147483647%26v%3Dbeta%26t%3DR2ssU-oh97RG3GSXSX4wKhikBuFfwl5D3DCgVUepQQE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The São Paulo-based fintech has secured $105 million in combined equity and growth financing. This includes a $65 million Series C round and a $40 million renewal of existing growth capital.</p><p>Funds are earmarked for scaling sales and engineering teams and building an AI-driven financial operating system. The company also plans to enter new markets and broaden its offerings for corporate clients.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth">bloomberg.com</a> | <a href="https://www.clara.com/resources/newsroom/clara-raises-105-million-series-c-and-growth-financing">clara.com</a></p>
+<br clear="all" />
+
 <h2>Goldman Sachs and Citigroup Lead 21-Bank Consortium in $270 Million Stablecoin Commitment</h2>
 <a name="story-27071"><img src="https://wsrv.nl/?url=https%3A%2F%2Fholder.io%2Fwp-content%2Fuploads%2F2025%2F09%2FEuro-Stablecoin-Set-for-2026-Launch-as-9-Banks-Unite-E28093-Best-Wallet-Token-BEST-Emerges-a-Presale-Winner.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A 21-bank consortium, including Goldman Sachs Group Inc., Citigroup Inc., Banco Santander SA, and Deutsche Bank AG, has committed approximately $270 million to fund a stablecoin venture for five years. The initiative was originally announced in September.</p><p>This substantial financial commitment reflects increasing involvement from major global financial institutions in the stablecoin sector. The multi-year funding plan points toward long-term strategic interest in digital asset infrastructure.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26733"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpayhip.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Fhttps%3A%2F%2Fpe56d.s3.amazonaws.com%2Fo_1j45gfk1c7bgksm15c519np1i3vi.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chinese artificial intelligence video generation startup Sand.ai has completed a $200 million Series A extension funding round, pushing its valuation past $1 billion and achieving unicorn status. CoStone Capital and Wangsu Science &amp; Technology jointly led the financing, which included participation from state-owned entities and existing investors such as iMPC, CAS Star, and HyT Capital.</p><p>Founded in early 2024, the Beijing-based company develops autoregressive and audiovisual video generation models, including Magi-1, GAGA-1, and the research release MAGI-2 Preview. The newly secured capital will fund foundation model research and development, inference infrastructure, product iterations, and global market expansion as the company prepares to launch the official version of MAGI-2.</p>
 <p>Nov 7 · <a href="https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283/">dealstreetasia.com</a></p>
-<br clear="all" />
-
-<h2>CesiumAstro Raises $730 Million to Fund Satellite Network Deployment</h2>
-<a name="story-26727"><img src="https://wsrv.nl/?url=https%3A%2F%2Fventureburn.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHTftsxxXcAAXSmb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CesiumAstro has raised $730 million in a funding round that values the Austin-based satellite manufacturer at more than $4.5 billion. The company plans to use the capital to expand manufacturing capacity and deploy Synchronicity, a 737-satellite low-Earth orbit (LEO) constellation.</p><p>Designed to serve both commercial and defense missions, the constellation will operate at two different altitudes. This latest round brings the company's total funding to $1.4 billion.</p>
-<p>Nov 7 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

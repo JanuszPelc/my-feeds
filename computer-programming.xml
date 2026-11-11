@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-10T20:56:00+00:00</updated>
+  <updated>2026-11-10T21:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Complex Tar Archive Produces Inconsistent Extraction Results Across Utilities</title>
+    <link href="https://stoppels.ch/2026/11/07/the-hardest-tarball.html" rel="alternate" />
+    <id>https://stoppels.ch/2026/11/07/the-hardest-tarball.html::v240</id>
+    <published>2026-11-10T21:20:00+00:00</published>
+    <updated>2026-11-10T21:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FjGJZ48dPYyNVJSGa6mzMbh.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://stoppels.ch/2026/11/07/the-hardest-tarball.html">stoppels.ch</a> | <a href="https://lobste.rs/s/t7qkjb/hardest_tarball">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50441338">hacker news</a></small></p><hr/><p>A GNU tar archive utilizing pax headers, hard links, and size overrides produces eight different extraction outcomes depending on the software used. The file structure exploits inconsistencies in how various utilities process metadata and data blocks.</p><p>Extraction outcomes vary widely across tools like bsdtar, 7-Zip, and Java's Commons Compress, resulting in missing files, unexpected files, or incorrect data. This archive is part of a larger collection of 134 test cases in the haampie/tar-minefield test suite used to categorize how tarball implementations handle complex file structures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FjGJZ48dPYyNVJSGa6mzMbh.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 03:19 UTC | #27110</small>]]></content>
+  </entry>
   <entry>
     <title>GenDB-V Speedups Attributed to Benchmark Overfitting</title>
     <link href="https://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html" rel="alternate" />
@@ -441,14 +450,5 @@
     <updated>2026-11-06T07:41:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdevtalk.blender.org%2Fuploads%2Fdefault%2Foriginal%2F3X%2F0%2Fd%2F0d1d684ab8e8c6cb17e713cefe67a14ecb6c42d4.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/ppmpreetham/BUI">github.com</a> | <a href="https://news.ycombinator.com/item?id=50389333">hacker news</a></small></p><hr/><p>BUI is an open-source UI library that decouples Blender's GPU-accelerated interface from its core codebase to provide a standalone toolset for developers. It features native bindings for Python, Rust, JavaScript, React, C, C++, and Dear ImGui, allowing applications to utilize Blender's interface components and rendering performance without requiring Blender to be installed.</p><p>The library replicates Blender's core interaction rules, including continuous drag number fields, math expression evaluators, and fuzzy menu searches, while supporting legacy tkinter applications and modern web-like styling frameworks. Built for resource efficiency, BUI uses damage rendering and an optional GPU backend to deliver high frame rates with minimal CPU overhead.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdevtalk.blender.org%2Fuploads%2Fdefault%2Foriginal%2F3X%2F0%2Fd%2F0d1d684ab8e8c6cb17e713cefe67a14ecb6c42d4.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 12:32 UTC | #26666</small>]]></content>
-  </entry>
-  <entry>
-    <title>GNU Mes 0.28 Released With Major Performance Improvements</title>
-    <link href="https://ekaitz.elenq.tech/fasterMes10.html" rel="alternate" />
-    <id>https://ekaitz.elenq.tech/fasterMes10.html::v240</id>
-    <published>2026-11-06T03:18:00+00:00</published>
-    <updated>2026-11-06T03:18:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpikabu.ru%2Fcache.php%3Froute%3Dshare_preview%26story_id%3D7072373%26time%3D1574950380%26u%3DOpenNET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://ekaitz.elenq.tech/fasterMes10.html">ekaitz.elenq.tech</a> | <a href="https://lists.gnu.org/archive/html/info-gnu/2026-10/msg00005.html">lists.gnu.org</a> | <a href="https://lobste.rs/s/pqzdyt/gnu_mes_0_28_release">lobsters</a></small></p><hr/><p>GNU Mes 0.28 has been released, marking the first official release led by co-maintainer Ekaitz Zárraga alongside Tim Sample after more than a year of development. The update introduces a significant rewrite of the core Scheme interpreter, shifting the macro expander entirely into Scheme and delivering up to a 40 percent reduction in execution time alongside R7RS-compliant multiple return values.</p><p>Key changes in version 0.28 include support for compiling Mes with both M2-Planet and MesCC in addition to GCC, improved RISC-V C library initialization, and a streamlined initialization driver that eliminates garbage collection overhead during boot. The release incorporates extensive history cleanups and fixes for continuation marks, providing a faster and more stable foundation for bootstrap processes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpikabu.ru%2Fcache.php%3Froute%3Dshare_preview%26story_id%3D7072373%26time%3D1574950380%26u%3DOpenNET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 11:13 UTC | #26655</small>]]></content>
   </entry>
 </feed>

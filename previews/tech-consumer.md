@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>SpaceX Announces Starlink Mini 2 with Integrated Swappable Battery</h2>
+<p>SpaceX has announced the Starlink Mini 2, a laptop-sized satellite internet terminal that integrates a dish, Wi-Fi router, and an internal battery into a single device. The terminal supports hot-swapping additional batteries to extend operation beyond its standard 4.5-hour charge and can also be powered via a 60W USB-C connection.</p><p>Priced at $999, the unit includes a year of Roam Unlimited service and maintains an IP67 rating for dust and water resistance. Despite the added battery weight, the Mini 2 is thinner than the original Mini, measuring 23.1mm thick compared to the previous version's 38.5mm.</p>
+<p>Nov 10 · <a href="https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery">theverge.com</a> | <a href="https://starlink.com/mini-2">starlink.com</a> | <a href="https://news.ycombinator.com/item?id=50444129">hacker news</a></p>
+<br clear="all" />
+
 <h2>Google Fi Introduces Automatic Carrier Switching and Wi-Fi Auto-Connect+</h2>
 <a name="story-27073"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fgoogle-fi-announces-super-network-automatic-carrier-switching-for-improved-speed-and-reception%2Fintro-1794323524.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A new "super network" feature from Google Fi enables phones to automatically switch between two different carriers to mitigate connection issues caused by signal dead zones or congestion. The rollout begins with Pixel 9 and newer models using eSIMs, with wider availability expected in 2027. The update also introduces Wi-Fi Auto-Connect+, which switches devices to secure Wi-Fi in areas with poor cellular coverage.</p><p>Both features are included at no extra cost for Unlimited Premium and Flexible plan subscribers and will function in over 200 international destinations. Google Fi is also deploying "Ask Fi," an AI-powered support agent within its app to assist with billing and technical troubleshooting. Promotional offers accompanying the launch include rebates for the Pixel 11 Pro for new subscribers.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26721"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FEACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>EA has released 25 classic games on Steam and GOG, including remastered versions of several Wing Commander and Ultima series titles. The collection features updated versions of legacy software such as Road Rash and Privateer 2.</p><p>The remastering of the Wing Commander series involved digitizing original full-motion-video cutscenes discovered in EA's physical media archives. Senior producer Jim Vessella led the effort, which included coordinating contractors and community contributors to facilitate the restorations.</p>
 <p>Nov 6 · <a href="https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/">arstechnica.com</a> | <a href="https://www.ea.com/news/from-the-vault-to-your-library">ea.com</a> | <a href="https://news.ycombinator.com/item?id=50404545">hacker news</a></p>
-<br clear="all" />
-
-<h2>SAG-AFTRA Introduces Pre-Funding Pitch Interactive Media Agreement</h2>
-<a name="story-26714"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcmsproductions.com%2Fwp-content%2Fuploads%2F2025%2F07%2FSAGInteractiveMediaContractRates.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SAG-AFTRA has launched the Pre-Funding Pitch Interactive Media Agreement, a new framework that allows game developers to hire professional union actors for pre-production pitches and vertical slices. The agreement is designed to help teams secure publisher backing in a competitive market by utilizing professional voice and motion performance talent earlier in development.</p><p>Eligibility for the new contract is restricted to projects with no more than 30 percent of their initial production funding secured and explicitly prohibits commercial releases. Industry observers note that the initiative may also help developers avoid relying on generative AI voices during early prototyping phases.</p>
-<p>Nov 6 · <a href="https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches">gamedeveloper.com</a></p>
 <br clear="all" />
 
 ---

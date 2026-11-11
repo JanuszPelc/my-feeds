@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Cubist Accuses Former Analyst of Stealing Code Using AI</h2>
+<p>Cubist, the quantitative trading arm of Point72 Asset Management, has filed a lawsuit alleging a former lead research analyst used AI tools to steal proprietary source code. The complaint claims the analyst utilized Anthropic's Claude and OpenAI's Codex to misappropriate company intellectual property before moving to a competitor.</p><p>The litigation highlights the risks large language models pose to corporate data security in the financial sector. The case examines how generative artificial intelligence can be leveraged to facilitate the unauthorized transfer of sensitive technical assets.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>New York Launches State AI Testing and Safety Training Program</h2>
 <p>Governor Kathy Hochul is establishing a state-level program to independently test artificial intelligence systems and train AI safety experts. The initiative is funded by $30 million from Bloomberg co-founder Tom Secunda alongside $25 million from New York state and SUNY.</p><p>The center is expected to launch before the RAISE Act takes effect on January 1, which will require AI companies in New York to submit safety frameworks for scrutiny. The program responds to a lack of federal AI safety safeguards and increasing concerns regarding AI model vulnerabilities.</p>
 <p>Nov 10 · <a href="https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713">politico.com</a> | <a href="https://news.ycombinator.com/item?id=50443606">hacker news</a></p>
@@ -86,12 +91,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26896"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2gTAi2.img%3Fw%3D1600%26h%3D1000%26m%3D4%26q%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amsterdam police arrested 150 to 200 protesters for trespassing at a Microsoft data center construction site. While many participants were peaceful, authorities reported that some individuals entered the site violently, prompting police intervention and the seizure of break-in tools and suspected stolen construction materials.</p><p>The "Stop Dirty Data Centers" coalition organized the protest to demand a halt to the expansion of AI data centers. In addition to the arrests, officials reported that the construction site sustained vandalism and property damage.</p>
 <p>Nov 9 · <a href="https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site">tomshardware.com</a></p>
-<br clear="all" />
-
-<h2>EU Sues IBM, Atos, and Leonardo Over Smart Border System Delays</h2>
-<a name="story-26890"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbritainherald.com%2Fwp-content%2Fuploads%2F2026%2F04%2FEU-Entry-Exit-System-border-delays-Imaage-Via-Zurich-Airport.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The European Union has filed a lawsuit in Estonia against IBM, French IT group Atos, and Italian contractor Leonardo over repeated delays in developing its Entry/Exit System. The technological setbacks and implementation failures associated with the smart border project have triggered widespread travel chaos and border congestion across member states.</p><p>The litigation highlights increasing institutional frustration over accountability and delivery timelines for major public-sector digital infrastructure. The automated border management system is designed to track non-EU travelers, but its rocky rollout has repeatedly disrupted transport networks and passenger processing.</p>
-<p>Nov 9 · <a href="https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301">ft.com</a></p>
 <br clear="all" />
 
 ---

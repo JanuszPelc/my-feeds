@@ -3,9 +3,17 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-10T21:12:00+00:00</updated>
+  <updated>2026-11-10T21:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>SpaceX Announces Starlink Mini 2 with Integrated Swappable Battery</title>
+    <link href="https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery" rel="alternate" />
+    <id>https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery::v240</id>
+    <published>2026-11-10T21:18:00+00:00</published>
+    <updated>2026-11-10T21:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery">theverge.com</a> | <a href="https://starlink.com/mini-2">starlink.com</a> | <a href="https://news.ycombinator.com/item?id=50444129">hacker news</a></small></p><hr/><p>SpaceX has announced the Starlink Mini 2, a laptop-sized satellite internet terminal that integrates a dish, Wi-Fi router, and an internal battery into a single device. The terminal supports hot-swapping additional batteries to extend operation beyond its standard 4.5-hour charge and can also be powered via a 60W USB-C connection.</p><p>Priced at $999, the unit includes a year of Roam Unlimited service and maintains an IP67 rating for dust and water resistance. Despite the added battery weight, the Mini 2 is thinner than the original Mini, measuring 23.1mm thick compared to the previous version's 38.5mm.</p><hr/><small>11 Nov 2026, 03:11 UTC | #27079</small>]]></content>
+  </entry>
   <entry>
     <title>Google Fi Introduces Automatic Carrier Switching and Wi-Fi Auto-Connect+</title>
     <link href="https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/" rel="alternate" />

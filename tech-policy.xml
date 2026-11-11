@@ -3,9 +3,17 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-10T20:19:00+00:00</updated>
+  <updated>2026-11-10T21:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Cubist Accuses Former Analyst of Stealing Code Using AI</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code::v240</id>
+    <published>2026-11-10T21:19:00+00:00</published>
+    <updated>2026-11-10T21:19:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code">bloomberg.com</a></small></p><hr/><p>Cubist, the quantitative trading arm of Point72 Asset Management, has filed a lawsuit alleging a former lead research analyst used AI tools to steal proprietary source code. The complaint claims the analyst utilized Anthropic's Claude and OpenAI's Codex to misappropriate company intellectual property before moving to a competitor.</p><p>The litigation highlights the risks large language models pose to corporate data security in the financial sector. The case examines how generative artificial intelligence can be leveraged to facilitate the unauthorized transfer of sensitive technical assets.</p><hr/><small>11 Nov 2026, 03:12 UTC | #27078</small>]]></content>
+  </entry>
   <entry>
     <title>New York Launches State AI Testing and Safety Training Program</title>
     <link href="https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713" rel="alternate" />

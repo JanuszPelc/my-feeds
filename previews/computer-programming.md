@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Complex Tar Archive Produces Inconsistent Extraction Results Across Utilities</h2>
+<a name="story-27110"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FjGJZ48dPYyNVJSGa6mzMbh.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A GNU tar archive utilizing pax headers, hard links, and size overrides produces eight different extraction outcomes depending on the software used. The file structure exploits inconsistencies in how various utilities process metadata and data blocks.</p><p>Extraction outcomes vary widely across tools like bsdtar, 7-Zip, and Java's Commons Compress, resulting in missing files, unexpected files, or incorrect data. This archive is part of a larger collection of 134 test cases in the haampie/tar-minefield test suite used to categorize how tarball implementations handle complex file structures.</p>
+<p>Nov 10 · <a href="https://stoppels.ch/2026/11/07/the-hardest-tarball.html">stoppels.ch</a> | <a href="https://lobste.rs/s/t7qkjb/hardest_tarball">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50441338">hacker news</a></p>
+<br clear="all" />
+
 <h2>GenDB-V Speedups Attributed to Benchmark Overfitting</h2>
 <a name="story-27106"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F5d7b77b063a9066d83e1209c%2F62c858790e1ce4ff4b334415_HERO.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The GenDB-V system reports performance improvements of 22x to 61x over database engines like Umbra and DuckDB. These gains appear to stem from AI-driven overfitting, where the system uses handcrafted auxiliary data structures and hard-coded knowledge of the TPC-H data generator's layout to optimize for specific benchmark queries.</p><p>While the system is formally verified, its reliance on these specific data patterns may make it impractical for real-world use. The author argues that even minor data modifications, such as inserting or deleting a tuple, could force the system into inefficient fallback execution paths, making it unsuitable for dynamic production environments.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Nspawn 3.0 Released With Docker-Compatible Engine API</h2>
 <p>Nspawn 3.0 introduces a Docker-compatible Engine API operating onkes the host via a dedicated socket, enabling tools like the standard docker command-line utility and GitLab Runner to manage systemd-nspawn containers. The release provides compatibility with API versions from 1.24 to 1.51, supporting core container operations, image pulls, and network and volume management.</p><p>Subsequent updates, including versions 3.1.0 and 3.2.0, build on this foundation by adding device cgroup rule configuration and streamlining local image and machine naming conventions across commands. While certain advanced features like image builds and container renames remain unsupported, the tool offers a structured alternative for container administration using existing Docker-compatible workflows.</p>
 <p>Nov 9 · <a href="https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/">blog.nspawn.org</a> | <a href="https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api">lobsters</a></p>
-<br clear="all" />
-
-<h2>Inform 7 Programming Language</h2>
-<a name="story-26867"><img src="https://wsrv.nl/?url=https%3A%2F%2Fganelson.github.io%2Finform-website%2Fassets%2Fimages%2Ficon.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Inform is a natural language programming language designed for creating interactive fiction, drawing on concepts from linguistics and literate programming. Created in April 2006 and open-sourced in April 2022, it is widely utilized for literary writing, game industry prototyping, and educational digital narrative courses.</p><p>The platform's official website provides access to language documentation, the latest application releases for macOS, Windows, and Linux, and source code repositories. Additionally, it links to community resources such as the Interactive Fiction Community Forum, the Interactive Fiction Database, and various authoring tools and conferences.</p>
-<p>Nov 8 · <a href="https://ganelson.github.io/inform-website/">ganelson.github.io</a> | <a href="https://lobste.rs/s/immpvk/inform_is_programming_language_for">lobsters</a></p>
 <br clear="all" />
 
 ---

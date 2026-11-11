@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-10T20:03:00+00:00</updated>
+  <updated>2026-11-10T21:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Clara Raises $105 Million to Expand Latin American Spend Management Platform</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth::v240</id>
+    <published>2026-11-10T21:17:00+00:00</published>
+    <updated>2026-11-10T21:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEp9cYQa5Iqzg%2Ffeedshare-shrink_800%2FB56ZaRcV6QGkAg-%2F0%2F1746196850793%3Fe%3D2147483647%26v%3Dbeta%26t%3DR2ssU-oh97RG3GSXSX4wKhikBuFfwl5D3DCgVUepQQE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth">bloomberg.com</a> | <a href="https://www.clara.com/resources/newsroom/clara-raises-105-million-series-c-and-growth-financing">clara.com</a></small></p><hr/><p>The São Paulo-based fintech has secured $105 million in combined equity and growth financing. This includes a $65 million Series C round and a $40 million renewal of existing growth capital.</p><p>Funds are earmarked for scaling sales and engineering teams and building an AI-driven financial operating system. The company also plans to enter new markets and broaden its offerings for corporate clients.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEp9cYQa5Iqzg%2Ffeedshare-shrink_800%2FB56ZaRcV6QGkAg-%2F0%2F1746196850793%3Fe%3D2147483647%26v%3Dbeta%26t%3DR2ssU-oh97RG3GSXSX4wKhikBuFfwl5D3DCgVUepQQE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 03:10 UTC | #27075</small>]]></content>
+  </entry>
   <entry>
     <title>Goldman Sachs and Citigroup Lead 21-Bank Consortium in $270 Million Stablecoin Commitment</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing" rel="alternate" />
