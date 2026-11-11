@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Daylight Raises $80 Million Series B Led by Goldman Sachs Alternatives</h2>
+<a name="story-27099"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsg-imgs.dealroom.co%2F996020c111dd0c2693d06b114945ad51.jpg%3Fauto%3Dcompress%26cs%3Dorigin&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Daylight, a New York-based cybersecurity startup, has raised $80 million in a Series B funding round at an estimated $400 million valuation. The investment was led by Goldman Sachs Alternatives.</p><p>The company provides AI-powered managed security services. This funding highlights growing demand for security platforms that integrate AI agents with human expert oversight.</p>
+<p>Nov 11 · <a href="https://www.wsj.com/pro/private-equity/goldman-leads-investment-in-cybersecurity-startup-at-400-million-valuation-648c54b7">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Vinod Khosla Backs Coframe to Develop AI-Powered Personalized Websites</h2>
 <a name="story-27092"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aee5a1e8f37e8e0b5baaf44%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Coframe, an AI startup focused on creating personalized web experiences, has raised $25 million in a Series A funding round co-led by Khosla Ventures and Hanabi Capital. The startup aims to replace static websites with a "living internet" where page content is dynamically customized for each individual visitor through generative AI.</p><p>Founded by AI researcher Josh Payne, Coframe reports generating more than $300 million in incremental revenue for clients including Dropbox and Cash App. Investor Vinod Khosla suggests that AI-enabled customization will address browsing inefficiencies, such as the experience on Amazon, by providing more relevant, user-specific content.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26917"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FAHwMcjh_y9I%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nominal, a startup developing software to increase efficiency in hardware manufacturing, has secured $240 million in new funding, bringing its valuation to $3 billion.</p><p>This follows an $80 million funding round in March that valued the company at $1 billion.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/hardware-testing-startup-nominal-valued-at-3-billion-in-round">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>US OCC Grants Coinbase Final Approval for Trust Bank Charter</h2>
-<p>The US Office of the Comptroller of the Currency has granted Coinbase Global Inc. full approval for a trust bank charter. The regulatory decision marks a major milestone for the cryptocurrency exchange as it seeks to deepen its integration into traditional financial infrastructure.</p><p>According to sources familiar with the matter, the charter could significantly expand the company's stablecoin operations and enable it to directly issue stablecoins. The development comes as regulators increasingly shape the operational boundaries for major digital asset firms in the United States.</p>
-<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
