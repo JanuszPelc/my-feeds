@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Fractile Raises $720M at $7B Valuation for AI Chips</h2>
+<p>London-based AI chip startup Fractile has raised $720 million in a funding round backed by investors including Thrive and Founders Fund. The financing values the company at approximately $7 billion post-money.</p><p>This valuation marks a significant increase from its roughly $1.1 billion valuation earlier in May. Fractile is part of a growing group of startups developing custom semiconductors designed specifically for artificial intelligence workloads.</p>
+<p>Nov 11 · <a href="https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25">ft.com</a></p>
+<br clear="all" />
+
 <h2>Plurai Raises $13 Million in Seed Funding for AI Agent Simulation Platform</h2>
 <a name="story-27167"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQHEzSnxlM8uWw%2Ffeedshare-shrink_800%2FB4DZUa453.HAAg-%2F0%2F1739912880985%3Fe%3D2147483647%26v%3Dbeta%26t%3D_1Dc8bFlebSORLcfgF4lLVGMfcOE-TfvWRprEhYn-Cc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Startup Plurai has raised $13 million in a seed funding round led by Team8 to help make enterprise AI agents more reliable. Co-founded by veterans of autonomous driving technology, the company applies simulation techniques originally developed for self-driving cars to model complex corporate workflows, evaluate agent behavior, and address edge cases before deployment.</p><p>Plurai creates digital twins of a company's electronic systems to map agent data flows and post-train smaller, open-weight models tailored to specific business policies. According to the company, this simulation-driven approach improves agent reliability while significantly reducing operational costs compared to standard frontier language models.</p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQH5Bilewqz9dQ%2Farticle-cover_image-shrink_720_1280%2FB4DZXbZ1N3HIAI-%2F0%2F1743142758126%3Fe%3D2147483647%26v%3Dbeta%26t%3Dc2liLWp1zbr0HpTTL6hWr6-guIOCTqqRy6v8VBNfwus&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The agentic cybersecurity startup Bay has emerged from stealth following a $50 million funding round. The company provides security, control, and accountability for enterprise AI agents.</p><p>CEO Yuval Zacharia confirmed the news, noting the increasing need for reliable security as AI agents proliferate across corporate environments.</p>
 <p>Nov 10 · <a href="https://www.axios.com/pro/enterprise-software-deals/2026/11/10/agentic-security-bay-battery">axios.com</a></p>
-<br clear="all" />
-
-<h2>GeniosAI Raises $19.1 Million in Combined Seed and Series A Funding</h2>
-<a name="story-26988"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.axios.com%2F787r_RTLxNAUMLwN_6NXNwoeF0g%3D%2F0x0%3A1920x1080%2F1920x1080%2F2025%2F10%2F27%2F1761605405613.jpeg%3Fw%3D828&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GeniosAI, a developer of artificial intelligence software for financial analysis and modeling, has secured $19.1 million in combined seed and Series A funding. CEO PD Singh announced the round, noting the capital will support the company's growth.</p><p>The funding highlights growing demand for AI tools that can verify underlying numbers and assumptions before financial institutions make decisions. Finance teams increasingly rely on verifiable models to ensure accuracy in automated market and corporate analysis.</p>
-<p>Nov 10 · <a href="https://www.axios.com/pro/fintech-deals/2026/11/09/geniosai-19-1m-factset-financial-analysis-ai">axios.com</a></p>
 <br clear="all" />
 
 ---

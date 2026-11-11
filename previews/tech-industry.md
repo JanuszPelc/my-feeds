@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic IPO Receives Multiple Times the Available Orders</h2>
+<a name="story-27163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA22rBzq.img%3Fw%3D768%26h%3D576%26m%3D6%26x%3D498%26y%3D393%26s%3D316%26d%3D55&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic's initial public offering has drawn demand exceeding the available shares by multiple times, according to sources familiar with the matter. CEO Dario Amodei and JPMorgan CEO Jamie Dimon are scheduled to participate in a livestream event this Friday.</p><p>The significant interest in the IPO follows reports that the company is targeting a valuation of over $1 trillion. The upcoming appearance by Amodei and Dimon is expected to highlight the role of artificial intelligence within the financial sector.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed">bloomberg.com</a></p>
+<br clear="all" />
+
+<h2>Torus Raises $500 Million Series C Led by Magnetar for Modular AI Data Centers</h2>
+<a name="story-27160"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthebusinessdownload.com%2Fwp-content%2Fuploads%2F2024%2F04%2F1709921408-torus_fessbess-exterior-1_4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Salt Lake City-based energy storage startup Torus has raised $500 million in a Series C funding round led by Magnetar. The capital will be used to launch a new line of shipping container-sized modular AI data centers ranging from 1 megawatt to 20 megawatts in capacity.</p><p>The initiative addresses the surging infrastructure and power demands of the artificial intelligence sector by combining localized energy storage with rapid, scalable deployment. The modular container units enable faster setup and flexible power management compared to conventional data center construction.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>All-In Podcast Hosts Discuss Public Anger and Election Results</h2>
 <a name="story-27173"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-11-at-6.57.34-AM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In a post-election episode, the hosts of the All-In podcast—David Sacks, Chamath Palihapitiya, Jason Calacanis, and David Friedberg—discussed the widespread public anger and economic discontent that influenced recent elections, while grappling with widespread criticism of elite tech figures. Throughout the broadcast, the hosts debated whether populist frustration stems from actual economic hardship or a failure of public perception.</p><p>While acknowledging that asset owners have disproportionately benefited from monetary policy, the hosts largely attributed public frustration to narrative issues rather than systemic inequality. The discussion highlighted a significant disconnect between Silicon Valley figures and the financial realities experienced by average Americans, including housing affordability crises and skepticism toward emerging technologies like data centers and artificial intelligence.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2fQUHX.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D98&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Oura is acquiring AI-native primary care startup Counsel Health for $625 million. The deal aims to integrate Counsel Health's AI-powered medical platform into the Oura app, providing users with personalized medical advice and physician consultations.</p><p>The acquisition is expected to close by the end of 2027 and will see Counsel Health CEO Muthu Alagappan join Oura as chief clinical AI officer. This move follows Oura's decision to indefinitely postpone its planned $2.2 billion IPO and comes amid a 153% year-over-year revenue increase for the quarter ending September 30, 2026.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/">techcrunch.com</a> | <a href="https://www.businesswire.com/news/home/20261110737835/en/Oura-to-Acquire-Counsel-Health-Advancing-Vision-for-More-Connected-Personalized-Healthcare">businesswire.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Co-founders to Sell $1.75 Billion in Stock During Upcoming IPO</h2>
-<a name="story-27051"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmoneymint.co.in%2Fwp-content%2Fuploads%2F2026%2F02%2FAnthropic-Stock-IPO-Status-Investment-Guide-2026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic's seven co-founders will sell a combined $1.75 billion in stock as part of the company's initial public offering next week. According to an updated S-1 prospectus, each founder is offering shares valued at approximately $250 million at the midpoint of the IPO price range.</p><p>The secondary share sale is part of a larger blockbuster IPO for the artificial intelligence company. The updated filing provides specific details regarding the founders' offerings prior to the company's public debut.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/anthropic-founders-to-cash-out-1-75-billion-in-blockbuster-ipo">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>IBM Ends Immigration Sponsorship for Most Roles in IBM Consulting</h2>
-<a name="story-27049"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.firstpost.com%2Fuploads%2F2026%2F07%2FIBM-NEW-2026-07-53b29fda659c60e762b083dfa30e4a0b.jpg%3Fim%3DResize%2Cwidth%3D720%2Caspect%3Dfit%2Ctype%3Dnormal&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>IBM is ending H-1B and green card sponsorships for most roles within its largest division, IBM Consulting.</p><p>Affected employees may continue working for the company in roles outside the United States or choose to leave the organization.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/ibm-to-end-immigration-sponsorship-for-roles-in-biggest-unit">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
