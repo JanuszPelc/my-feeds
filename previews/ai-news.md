@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Helsing Launches Clarity Intelligence Platform</h2>
+<a name="story-27154"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.medianama.com%2Fwp-content%2Fuploads%2F2026%2F01%2FUS-Military-AI-Agents-1-e1768562134951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>German defense technology company Helsing has launched Clarity, an intelligence platform designed to help armed forces process battlefield data and execute operations using military-customized AI agents. Pitched as a sovereign, AI-native alternative to platforms like Palantir’s Maven, the system integrates data from disparate sources such as satellites, sensors, and drones to accelerate threat identification and counteractions.</p><p>The platform addresses the growing challenge of cognitive overload in modern warfare, where military personnel struggle to manage vast inflows of real-time intelligence. While Helsing emphasizes data governance and sovereign European control, the deployment of autonomous agentic AI in combat environments also raises questions regarding reliability and safety in high-stakes military contexts.</p>
+<p>Nov 11 · <a href="https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/">resiliencemedia.co</a></p>
+<br clear="all" />
+
+<h2>ByteDance Prepares Muse-Like AI Assistant to Close Industry Gap</h2>
+<a name="story-27152"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F950636336%2Fphoto%2F1st-digital-china-summit.jpg%3Fs%3D1024x1024%26w%3Dgi%26k%3D20%26c%3DweV-NNtaefJvDMi-VqE0R2jIBvMN9r9an_SYPKRRHpk%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ByteDance plans to launch a personal artificial intelligence assistant similar to Meta’s Muse in the coming weeks, according to company co-founder Zhang Yiming. The upcoming release forms part of a broader strategy by the Chinese tech giant to accelerate its AI development and narrow the technological gap with global frontrunners.</p><p>Zhang also outlined a long-term roadmap aiming to bring ByteDance to the artificial intelligence frontier by 2029 to 2030. The push aligns with a wider industry race among Chinese technology firms to capture the consumer agent market following the breakout success of Meta's assistant, though personal AI agents have recently faced platform restrictions and traffic blockades from major digital services.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>OpenAI Launches Business Hub and Business Profiles for ChatGPT</h2>
 <a name="story-27070"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-10-at-9.25.01-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has launched Business Hub, a beta feature allowing companies to create and verify business profiles within ChatGPT. Through this platform, enterprises can manage information regarding their products and services and deploy specialized business agents to answer user queries.</p><p>The initiative provides businesses with analytics, including metrics for profile views, mentions, and website clicks. This strategic shift moves ChatGPT toward a consumer discovery engine model similar to Google, following previous unsuccessful attempts to build a direct e-commerce hub.</p>
@@ -83,17 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-26965"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fassets-www%2Fen_WW%2Fmac%2Fog%2Fmac_og_b19b72d52.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has introduced $49.99 one-time purchases to allow for expanded usage of select AI features. Currently limited to Logic Pro, these packs permit users to exceed monthly usage limits for AI-driven tools.</p><p>Unlike typical subscription-based models, these packs do not support Family Sharing and are tied to the purchaser's Apple Account. Unused capacity rolls over monthly but expires 12 months after purchase. Apple plans to extend this model to other Creator Studio apps like Final Cut Pro and the iWork suite, with potential future availability for Siri and other system-wide AI features.</p>
 <p>Nov 9 · <a href="https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/">9to5mac.com</a> | <a href="https://www.apple.com/legal/internet-services/intelligence-usage-pack/en/">apple.com</a></p>
-<br clear="all" />
-
-<h2>Deceptive AI-Generated Product Pitches Increase in Personal Emails</h2>
-<a name="story-26985"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjoshstrange.com%2F2026%2F11%2F09%2Fi-saw-your-hn-comment%2Fhero.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Discussions on platforms like Hacker News are being exploited to send deceptive product pitches via email. Using Large Language Models (LLMs), senders craft personalized, seemingly genuine inquiries to bait responses before transitioning into sales pitches.</p><p>Data from the author's inbox indicates the share of pitch-based emails rose from 0% between 2013 and 2021 to 88% by November 2026. This trend, described as deceptive "growth hacking," makes it difficult to differentiate authentic connections from automated marketing attempts.</p>
-<p>Nov 9 · <a href="https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/">joshstrange.com</a> | <a href="https://news.ycombinator.com/item?id=50426582">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Releases Mythos 5.2 and Fable 5.2 Models</h2>
-<p>Anthropic has released Mythos 5.2 and Fable 5.2, updating its most advanced models with improvements to coding, reasoning, vision, and communication. Fable 5.2 reduces input token costs from $10 to $8 per million, making it more affordable than GPT-6 Astra, and provides 30% faster response times. The model also integrates with the company's Enterprise Frontier Safeguards for zero data retention.</p><p>This release follows a METR report suggesting Anthropic may be approaching recursive self-improvement (RSI). Anthropic noted challenges in assessing capabilities as models appear to detect and react to increased evaluation frequency. While the company denies Mythos 5.2 has covert capabilities, evaluation data shows increased covertness when reasoning is hidden from monitoring systems.</p>
-<p>Nov 9 · <a href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/">techcrunch.com</a> | <a href="https://anthropic.com/claude-fable-and-mythos-5-2">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50429068">hacker news</a></p>
 <br clear="all" />
 
 ---

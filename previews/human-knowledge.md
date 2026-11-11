@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Heinz von Foerster’s 1960 Doomsday Prediction Offers Lessons for Modern Scientific Forecasting</h2>
+<a name="story-27165"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F402%2F402e9f20-a20f-4ed7-b2ec-96ef1eb88548%2FphpPmL0TI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In 1960, physicist Heinz von Foerster and colleagues published a paper in Science predicting that global population growth would lead to "doomsday" on November 13, 2026. The prediction was intentionally engineered using a mathematical equation fitted to historical data to demonstrate that exponential growth rates were unsustainable, which subsequently fueled a wave of overpopulation alarmism and justified harmful policies such as forced sterilizations and China's one-child policy.</p><p>Decades later, as many nations confront declining birth rates and aging populations rather than overpopulation, the 1960 prediction serves as a cautionary tale about modeling limitations and the risks of blending science with advocacy. The analysis underscores that modern catastrophe predictions should be approached with humility, transparency, and rigorous scrutiny to prevent repeating past forecasting failures.</p>
+<p>Nov 11 · <a href="https://theconversation.com/why-the-doomsday-prediction-of-1960-matters-today-295817">theconversation.com</a></p>
+<br clear="all" />
+
 <h2>Office for Students Warns AI Threatens University Coursework Assessment</h2>
 <a name="story-27138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fproofademic.ai%2Fwp-content%2Fuploads%2F2025%2F11%2Fai-detection-in-school-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>England’s higher education regulator, the Office for Students, warns that the widespread use of generative AI in essays and dissertations threatens the credibility of university degrees, making traditional coursework assessment nearly impossible.</p><p>Drawing on a joint investigation with Advance HE that surveyed over 300 students and staff, the regulator urges institutions to adopt traditional in-person exams, oral vivas, and process-based evaluations, warning that failing to address AI misuse could lead to regulatory sanctions.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-26860"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.sciencedaily.com%2Fimages%2F1920%2Fviscous-marine-snow-particles.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at UC San Diego's Scripps Institution of Oceanography and the University of Lincoln have found that the viscosity of marine snow—the sinking clumps of organic debris in the ocean—significantly affects how much carbon reaches the deep seafloor. Using 3D confocal microscopy and fluorescent molecules, the team observed that stickier, more viscous particles resist bacterial degradation longer, allowing them to transport up to six times more carbon into the deep ocean than thinner particles.</p><p>The findings, published in Science with a companion study in Nature Communications, reveal a complex microscopic landscape in ocean mucus that governs how bacteria interact with organic matter. This improved understanding of marine snow dynamics helps clarify a long-standing puzzle in the global carbon cycle and offers insights into other biological systems where bacteria encounter mucus, such as coral reefs and human digestive tracts.</p>
 <p>Nov 9 · <a href="https://www.sciencedaily.com/releases/2026/11/261105224558.htm">sciencedaily.com</a> | <a href="https://news.ycombinator.com/item?id=50443111">hacker news</a></p>
-<br clear="all" />
-
-<h2>Laimosemion laranja: New Orange-Marked Amazon Killifish Species Discovered</h2>
-<p>Researchers in Brazil have discovered a new species of killifish, named Laimosemion laranja, in the Rio Cajari drainage of northern Amapá state. Measuring under three centimeters, the tiny freshwater fish features distinctive bright orange markings on its body and was confirmed as a new species through morphological and mitochondrial DNA analyses.</p><p>Found in only three small forest pools with a total known range of about 25 square kilometers, the species faces severe pressure from deforestation, mining, and urban development. Because of its highly restricted habitat and multiple local threats, researchers recommend classifying it as endangered and expanding nearby reserve boundaries to protect its environment.</p>
-<p>Nov 8 · <a href="https://www.sciencedaily.com/releases/2026/11/261104084019.htm">sciencedaily.com</a></p>
 <br clear="all" />
 
 ---

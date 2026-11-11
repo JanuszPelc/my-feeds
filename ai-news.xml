@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-11T02:54:00+00:00</updated>
+  <updated>2026-11-11T14:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Helsing Launches Clarity Intelligence Platform</title>
+    <link href="https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/" rel="alternate" />
+    <id>https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/::v240</id>
+    <published>2026-11-11T14:04:00+00:00</published>
+    <updated>2026-11-11T14:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.medianama.com%2Fwp-content%2Fuploads%2F2026%2F01%2FUS-Military-AI-Agents-1-e1768562134951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/">resiliencemedia.co</a></small></p><hr/><p>German defense technology company Helsing has launched Clarity, an intelligence platform designed to help armed forces process battlefield data and execute operations using military-customized AI agents. Pitched as a sovereign, AI-native alternative to platforms like Palantir’s Maven, the system integrates data from disparate sources such as satellites, sensors, and drones to accelerate threat identification and counteractions.</p><p>The platform addresses the growing challenge of cognitive overload in modern warfare, where military personnel struggle to manage vast inflows of real-time intelligence. While Helsing emphasizes data governance and sovereign European control, the deployment of autonomous agentic AI in combat environments also raises questions regarding reliability and safety in high-stakes military contexts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.medianama.com%2Fwp-content%2Fuploads%2F2026%2F01%2FUS-Military-AI-Agents-1-e1768562134951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:40 UTC | #27154</small>]]></content>
+  </entry>
+  <entry>
+    <title>ByteDance Prepares Muse-Like AI Assistant to Close Industry Gap</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap::v240</id>
+    <published>2026-11-11T14:03:00+00:00</published>
+    <updated>2026-11-11T14:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F950636336%2Fphoto%2F1st-digital-china-summit.jpg%3Fs%3D1024x1024%26w%3Dgi%26k%3D20%26c%3DweV-NNtaefJvDMi-VqE0R2jIBvMN9r9an_SYPKRRHpk%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap">bloomberg.com</a></small></p><hr/><p>ByteDance plans to launch a personal artificial intelligence assistant similar to Meta’s Muse in the coming weeks, according to company co-founder Zhang Yiming. The upcoming release forms part of a broader strategy by the Chinese tech giant to accelerate its AI development and narrow the technological gap with global frontrunners.</p><p>Zhang also outlined a long-term roadmap aiming to bring ByteDance to the artificial intelligence frontier by 2029 to 2030. The push aligns with a wider industry race among Chinese technology firms to capture the consumer agent market following the breakout success of Meta's assistant, though personal AI agents have recently faced platform restrictions and traffic blockades from major digital services.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F950636336%2Fphoto%2F1st-digital-china-summit.jpg%3Fs%3D1024x1024%26w%3Dgi%26k%3D20%26c%3DweV-NNtaefJvDMi-VqE0R2jIBvMN9r9an_SYPKRRHpk%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:39 UTC | #27152</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Launches Business Hub and Business Profiles for ChatGPT</title>
     <link href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/" rel="alternate" />

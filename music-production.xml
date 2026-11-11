@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-11T13:59:00+00:00</updated>
+  <updated>2026-11-11T14:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Sunfish Software Releases Fandust Free Lo-Fi Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/11/sunfish-software-fandust/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/11/sunfish-software-fandust/::v240</id>
+    <published>2026-11-11T14:18:00+00:00</published>
+    <updated>2026-11-11T14:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/11/sunfish-software-fandust/">bedroomproducersblog.com</a> | <a href="https://sunfish.software/">sunfish.software</a></small></p><hr/><p>Sunfish Software has released Fandust, a free lo-fi audio effect plugin for macOS, Windows, and Linux featuring a Windows 98-inspired graphical user interface. Designed for vaporwave and slowed-and-reverb production, the effect combines pitch shifting, tape wear, time stretching, and a long reverb.</p><p>Users can adjust the slow control to drop speed and pitch together or use a separate stretch mode to slow down audio playback without altering pitch. Additional features include tape flutter, detune, tape saturation, smear, and a freeze option for the reverb tail, with installation requiring a free Sunfish account for activation.</p><hr/><small>11 Nov 2026, 19:40 UTC | #27169</small>]]></content>
+  </entry>
   <entry>
     <title>Augmatic GRE 2.0 Released with Harmonic Drumming and Launch Discount</title>
     <link href="https://bedroomproducersblog.com/2026/11/11/augmatic-gre-discount/" rel="alternate" />

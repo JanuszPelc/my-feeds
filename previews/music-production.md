@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sunfish Software Releases Fandust Free Lo-Fi Plugin</h2>
+<p>Sunfish Software has released Fandust, a free lo-fi audio effect plugin for macOS, Windows, and Linux featuring a Windows 98-inspired graphical user interface. Designed for vaporwave and slowed-and-reverb production, the effect combines pitch shifting, tape wear, time stretching, and a long reverb.</p><p>Users can adjust the slow control to drop speed and pitch together or use a separate stretch mode to slow down audio playback without altering pitch. Additional features include tape flutter, detune, tape saturation, smear, and a freeze option for the reverb tail, with installation requiring a free Sunfish account for activation.</p>
+<p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/sunfish-software-fandust/">bedroomproducersblog.com</a> | <a href="https://sunfish.software/">sunfish.software</a></p>
+<br clear="all" />
+
 <h2>Augmatic GRE 2.0 Released with Harmonic Drumming and Launch Discount</h2>
 <a name="story-27170"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzRxKNaqOdVg%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Augmatic Audio has released version 2.0 of its generative MIDI drum sequencer and arpeggiator, Augmatic GRE, alongside a limited-time 50% discount. The software combines a Topographic engine inspired by Mutable Instruments Grids with a Euclidean engine, allowing users to blend rhythms across six primary and three accent channels.</p><p>Version 2.0 introduces a Harmonic Drumming feature that translates MIDI chord input into melodies, basslines, and arpeggios synchronized with the drum patterns. Additional updates include linear drumming priority controls, velocity shaping, and four switchable MIDI kit mappings. The plugin is available for Windows and macOS as VST3, CLAP, and standalone formats, as well as an AUv3 and standalone app for iOS.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27023"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8TVWqmo1sPU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fuse Audio Labs has released Amber Drive, a free British-style guitar amp plugin available for macOS and Windows. The software models cascading 12AX7 preamp stages, an EL84 output section, and a passive tone stack to emulate medium-gain amplifier tones ranging from clean sounds to crunchy distortion.</p><p>The plugin features a streamlined interface with three primary controls for gain, tone, and volume, alongside a built-in cabinet simulation that can be bypassed in favor of external impulse responses. Designed with zero latency and low CPU consumption, Amber Drive supports VST2, VST3, AAX, and AU formats and requires a free user account on the developer's website for download.</p>
 <p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/">bedroomproducersblog.com</a> | <a href="https://fuseaudiolabs.com/#/pages/product?id=301122043">fuseaudiolabs.com</a></p>
-<br clear="all" />
-
-<h2>Audio Spices Offers Black Pepper Pitch Delay Plugin Free for Black Friday</h2>
-<a name="story-27017"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FAudio-Spices-Black-Pepper.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audio Spices has opened registration for a free copy of Black Pepper, its pitch-shifting delay plugin for macOS and Windows. Users can sign up on the company's website by November 26 to receive the plugin via email on Black Friday, November 27.</p><p>Normally priced at $59.99, the plugin features pitch control, a Climb function for stepping repeats up or down, tempo sync, stereo ping-pong bouncing, tape-style wobble, and filter controls. It is available in VST3, AU, and AAX formats and requires activation through an Audio Spices account.</p>
-<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/audio-spices-black-pepper/">bedroomproducersblog.com</a> | <a href="https://audio-spices.com/free-spice">audio-spices.com</a></p>
 <br clear="all" />
 
 ---

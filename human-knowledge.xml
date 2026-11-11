@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-11T12:04:00+00:00</updated>
+  <updated>2026-11-11T14:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Heinz von Foerster’s 1960 Doomsday Prediction Offers Lessons for Modern Scientific Forecasting</title>
+    <link href="https://theconversation.com/why-the-doomsday-prediction-of-1960-matters-today-295817" rel="alternate" />
+    <id>https://theconversation.com/why-the-doomsday-prediction-of-1960-matters-today-295817::v240</id>
+    <published>2026-11-11T14:23:00+00:00</published>
+    <updated>2026-11-11T14:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F402%2F402e9f20-a20f-4ed7-b2ec-96ef1eb88548%2FphpPmL0TI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/why-the-doomsday-prediction-of-1960-matters-today-295817">theconversation.com</a></small></p><hr/><p>In 1960, physicist Heinz von Foerster and colleagues published a paper in Science predicting that global population growth would lead to "doomsday" on November 13, 2026. The prediction was intentionally engineered using a mathematical equation fitted to historical data to demonstrate that exponential growth rates were unsustainable, which subsequently fueled a wave of overpopulation alarmism and justified harmful policies such as forced sterilizations and China's one-child policy.</p><p>Decades later, as many nations confront declining birth rates and aging populations rather than overpopulation, the 1960 prediction serves as a cautionary tale about modeling limitations and the risks of blending science with advocacy. The analysis underscores that modern catastrophe predictions should be approached with humility, transparency, and rigorous scrutiny to prevent repeating past forecasting failures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F402%2F402e9f20-a20f-4ed7-b2ec-96ef1eb88548%2FphpPmL0TI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:40 UTC | #27165</small>]]></content>
+  </entry>
   <entry>
     <title>Office for Students Warns AI Threatens University Coursework Assessment</title>
     <link href="https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator" rel="alternate" />
