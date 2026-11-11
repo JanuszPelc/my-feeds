@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>AI Usage Leads to Fragile Codebases</h2>
+<a name="story-27121"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.evanxmerz.com%2Fimages%2Fai-codebases-are-a-house-of-cards.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Heavy reliance on AI for code generation produces fragile codebases through shallow automated tests, excessive complexity, and reduced human comprehension. The rapid speed of AI output often exceeds the capacity for thorough human review, leading to significant accumulated technical debt.</p><p>These issues manifest as more frequent system incidents, slower recovery times, and errors that are only detectable by end users. High-quality software requires human oversight to ensure products remain maintainable and optimized for human users.</p>
+<p>Nov 10 · <a href="https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/">evanxmerz.com</a> | <a href="https://news.ycombinator.com/item?id=50438318">hacker news</a></p>
+<br clear="all" />
+
 <h2>Blender 5.3 Release Features</h2>
 <a name="story-27119"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blender.org%2Fwp-content%2Fuploads%2F2025%2F11%2Fgaussian_splatting-nunchuck.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Blender 5.3 introduces native support for 3D Gaussian Splatting, allowing users to import, process, and render these point-cloud-based scenes in EEVEE, Cycles, and Workbench. The release also includes Cycles dispersion for the Principled BSDF, NVIDIA DLSS 4.5 Ray Reconstruction denoising, and a new Project management system for organizing files and resources.</p><p>Other updates include material lighting nodes for stylized shading, panoramic camera support in EEVEE, and expanded compositing capabilities featuring scene effects and Geometry Nodes. Grease Pencil has been updated with new selection and carving tools, while the Video Sequencer now supports ripple editing and OpenTimelineIO.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26952"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wezm.net%2Fv2%2Fposts%2F2026%2Fdistro-energy-use%2Fbento-slide.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of infrastructure energy use for Casuarina Linux reveals that running a dedicated build server over a seven-month period consumed 98.4 kWh of electricity. The server, equipped with an AMD Ryzen 9 5950X processor, handled roughly 5,200 package builds while being powered down manually when idle.</p><p>The total electricity cost amounted to roughly AU$32.47 under a renewable energy plan, translating to slightly under AU$5 per month. This figure excludes initial package compilation on a separate desktop workstation and potential offsets from rooftop solar generation, with individual package build times peaking at under four hours for Chromium.</p>
 <p>Nov 9 · <a href="https://www.wezm.net/v2/posts/2026/distro-energy-use/">wezm.net</a> | <a href="https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro">lobsters</a></p>
-<br clear="all" />
-
-<h2>Google Releases November Update for Googlebook with Performance and Stability Improvements</h2>
-<a name="story-26876"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FVHLrEQnyFyGbeSJfvGvR3N.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google is rolling out the November update for Googlebook, bringing significant performance, stability, and memory management optimizations. The update refines NPU drivers and AICore memory handling, freeing up to 6GB of system RAM to improve multitasking and prevent unexpected Chrome crashes under heavy workloads.</p><p>The release also fixes several hardware and software bugs across supported models from manufacturers like Acer, ASUS, and Lenovo, including issues with tablet mode input loss, Zoom virtual background crashes, and black screens on DRM-protected external displays. Additionally, it includes Linux terminal and security enhancements, incorporating the November 2026 Android security patch and an updated Linux kernel.</p>
-<p>Nov 9 · <a href="https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone">androidcentral.com</a></p>
 <br clear="all" />
 
 ---
