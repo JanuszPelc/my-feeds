@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Toyota Revives Scion Brand with KEI-01 Utility Truck</h2>
+<a name="story-27136"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages-stag.jazelc.com%2Fuploads%2Ftheautopian-m2en%2Fscion_truck_a.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Labeled a "freedom lab" for experimental mobility, the newly announced "Scion by Toyota" brand will focus on unconventional vehicle design. Its first U.S. production model is the KEI-01, an ultra-compact utility truck derived from the Toyota Pixis and Daihatsu Hijet Jumbo Cab.</p><p>The KEI-01 features a 660cc engine and is limited to roads with speed limits below 35 mph due to low-speed vehicle safety certifications. Toyota plans to roll out a low-volume pilot program for fleet usage in late 2027. Other unveiled concepts include the SxS side-by-side and the BKE personal mobility vehicle.</p>
+<p>Nov 11 · <a href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/">theautopian.com</a> | <a href="https://news.ycombinator.com/item?id=50445401">hacker news</a></p>
+<br clear="all" />
+
 <h2>US Publishers Lose Ground to Chinese Rivals in Mobile Gaming Market</h2>
 <a name="story-27108"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gizmochina.com%2Fwp-content%2Fuploads%2F2020%2F07%2F20200708_122320_465.jpg%3Fx70461&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US-based video game publishers are losing market share in the $121 billion global mobile gaming sector to Chinese competitors. Chinese studios have increasingly outpaced American counterparts by producing games more quickly, at a lower cost, and with higher profitability.</p><p>Popular titles such as Honor of Kings and Whiteout Survival exemplify the shift, highlighting the advanced operational capabilities and rapid development cycles of Chinese developers. This dynamic has allowed Chinese firms to seize leadership in a lucrative market previously dominated by US companies.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26742"><img src="https://wsrv.nl/?url=https%3A%2F%2Fomdia.tech.informa.com%2F-%2Fmedia%2Ftech%2Fomdia%2Fmarketing%2Fpr%2F2026%2Fnov%2Fomdia-global-tablet-shipments-fall-23-to-32-million-in-q3-2026-gettyimages1147301914.jpg%3Frev%3Dd5df93a8e7b04bf6af59885020428c13&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Global tablet shipments dropped 23% year over year to 32 million units in the third quarter of 2026, reaching their lowest level in nearly three years, according to research from Omdia. The downturn was led by sharp contractions in the Middle East, China, and Western Europe, driven by persistent supply constraints and waning strategic priority from hardware vendors.</p><p>Apple and Samsung retained the top two spots in market share despite significant shipment declines of 28% and 22%, respectively. Lenovo was the sole top-five vendor to achieve growth, increasing shipments by 12% to capture a 12.7% market share, while Xiaomi and Huawei rounded out the top five amid an environment where recent flagship device launches failed to spur broader consumer demand.</p>
 <p>Nov 7 · <a href="https://omdia.tech.informa.com/pr/2026/nov/global-tablet-shipments-fall-23percent-to-32-million-in-q3-2026">omdia.tech.informa.com</a></p>
-<br clear="all" />
-
-<h2>Apple Announces Over 100,000 Apps Optimized for iPhone Duo</h2>
-<a name="story-26724"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theapplepost.com%2Fwp-content%2Fuploads%2F2026%2F10%2FiMessage.iPhoneDuo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The App Store now features over 100,000 apps built specifically for the iPhone Duo, two weeks after the foldable device's release. Thousands of new optimized apps are being added to the store each day.</p><p>Despite this availability, some applications still face layout and usability challenges on the new form factor. Instagram, for instance, has encountered interface issues despite holding Apple's "Made for iPhone Duo" designation.</p>
-<p>Nov 6 · <a href="https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/">apple.com</a></p>
 <br clear="all" />
 
 ---
