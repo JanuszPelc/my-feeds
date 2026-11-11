@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>PLA-Linked Chinese University Purchased Nvidia H200 Chips Despite US Blacklist</h2>
+<a name="story-27122"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.xdaimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Fnvidia-titan-z-dual-gpu-design.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Records show that China's Northwestern Polytechnical University, an institution with close ties to the People's Liberation Army, acquired Nvidia H200 artificial intelligence chips. The purchase occurred despite the university being placed on a United States export blacklist designed to restrict access to advanced American technology.</p><p>The acquisition highlights ongoing challenges in enforcing U.S. export controls on high-performance semiconductors destined for Chinese entities. The H200 is among Nvidia's advanced processors, making it a critical asset for military and research applications restricted by trade regulations.</p>
+<p>Nov 11 · <a href="https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Faces New Washington Chip Restrictions Following CEO Spy Scandal</h2>
 <a name="story-27118"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1809366%2Fjensen-huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An espionage scandal involving Nvidia CEO Jensen Huang has increased the likelihood that Congress will enact new restrictions on chip sales to China as part of the upcoming National Defense Authorization Act.</p><p>Lawmakers pushing for the limits argue that selling high-power chips to China creates national security risks, prompting Nvidia to adjust its lobbying strategy to rely on tech sector allies and major customers while the Chip Security Act emerges as a likely addition to the year-end defense package.</p>
@@ -85,12 +91,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26966"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJBJFWFF3NZM27EXOSPW7ESWQFY.jpg%3Fauth%3D6cb18c6d60c128697e80cd33ae40633543787f03203a16fdd49caf1744c4c117%26width%3D1200%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump announced Monday that the FBI is investigating Nvidia CEO Jensen Huang regarding an affair with an alleged Chinese government agent. Huang has acknowledged the relationship in an open letter, pledging to cooperate with investigators and protect national security.</p><p>The incident has triggered an independent investigation by Nvidia to determine if the CEO was the target of a foreign intelligence effort. Congressional leaders are also seeking a briefing to evaluate the security of advanced artificial intelligence technology and the potential for compromised intelligence.</p>
 <p>Nov 9 · <a href="https://apnews.com/article/china-denies-spy-jensen-huang-nvidia-3345b9f05c54d58909e88f6dcb9c1cd8">apnews.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Faces Potential Securities Fraud Lawsuits Following Probe Into CEO&#x27;s Ties to Intelligence Target</h2>
-<a name="story-26964"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.khoahocdoisong.vn%2Fimages%2F8ac35c26b9ee34ca8e0cd1041be7c18a65a05f284a660115194ea261381b790718cdce39736a23a05df25276552fc8fc%2Fg23g-f4acaayrtk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia's stock fell more than 4% following a board investigation into CEO Jensen Huang's relationship with Alice Huang, an executive at Singapore-based Megaspeed. U.S. intelligence has reportedly monitored Huang for suspected ties to China, leading several law firms, including Schall, Brown &amp; Schwartz and Rosen Law Firm, to investigate whether Nvidia failed to disclose material information to investors.</p><p>Legal experts suggest plaintiffs may pursue "fraud on the market" claims, arguing that Nvidia's public statements regarding the nature of the relationship were misleading. Because Huang's knowledge is legally imputed to the company, a failure to disclose these risks could result in significant damages given Nvidia's market valuation. The investigation also raises potential liability for the board regarding its corporate governance and oversight duties.</p>
-<p>Nov 9 · <a href="https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
