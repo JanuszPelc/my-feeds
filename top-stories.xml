@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-11T06:48:00+00:00</updated>
+  <updated>2026-11-11T12:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>New York Implements AI Safety and Transparency Mandates for Large Developers</title>
+    <link href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/::v240</id>
+    <published>2026-11-11T12:33:00+00:00</published>
+    <updated>2026-11-11T12:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2026-03-03%2FUS-State-Dept-switches-to-OpenAI-chatbot-as-agencies-drop-Anthropic-1LcPOS689Ik%2Fimg%2F872c8a683bbe44379c63e75701bd306a%2F872c8a683bbe44379c63e75701bd306a-750.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">techcrunch.com</a></small></p><hr/><p>New York has launched a registration portal for large frontier AI developers as part of the implementation of the RAISE Act. Companies with annual revenues exceeding $500 million, including major players like OpenAI and Anthropic, must register by January 1, 2027. The law mandates that these organizations publish safety frameworks, report critical safety incidents within 72 hours, and issue public model transparency reports.</p><p>The Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will oversee compliance, with penalties for violations reaching up to $3 million. To support these efforts, Governor Kathy Hochul has launched the New York Center for AI Responsibility and Research at SUNY Binghamton to independently evaluate the safety and operation of advanced AI systems. These requirements mirror similar transparency and safety laws recently passed in California and Illinois.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2026-03-03%2FUS-State-Dept-switches-to-OpenAI-chatbot-as-agencies-drop-Anthropic-1LcPOS689Ik%2Fimg%2F872c8a683bbe44379c63e75701bd306a%2F872c8a683bbe44379c63e75701bd306a-750.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 02:02 UTC | #27081 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Spencer Kittleson Outlines Principles for Local-First Home Automation</title>
     <link href="https://docodethatmatters.com/home-automation-overnight-success/" rel="alternate" />
@@ -470,14 +479,5 @@
     <updated>2026-11-06T13:13:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/pro-tools-now-features-ai-stem-separation/">musictech.com</a> | <a href="https://www.avid.com/resource-center/whats-new-in-pro-tools-202611">avid.com</a></small></p><hr/><p>Avid has introduced AI stem separation as a new Extension in Pro Tools 2026.11. This feature allows users to separate an audio recording into up to six component stems: vocals, drums, bass, guitar, keys, and other instruments.</p><p>The update also debuts a Pro Tools Extensions ecosystem, enabling third-party developers like Splice and SoundFlow to integrate specialized tools directly into the DAW. Other enhancements in this release include MIDI Polyphonic Expression (MPE) support and High DPI support for Windows.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FPro-Tools-Stem-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>5 Nov 2026, 16:33 UTC | #26514 | r,hd</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Redacts Key Evidence From METR AI Assessment Report</title>
-    <link href="https://x.com/metr_evals" rel="alternate" />
-    <id>https://x.com/metr_evals::v240</id>
-    <published>2026-11-06T12:33:00+00:00</published>
-    <updated>2026-11-06T12:33:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWYa5p6aAAASBIq%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://x.com/metr_evals">x.com</a> | <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">metr.org</a> | <a href="https://news.ycombinator.com/item?id=50383902">hacker news</a></small></p><hr/><p>Anthropic has redacted a significant portion of the most informative evidence from a 100-page assessment report submitted by METR. The evaluation was designed to determine the extent to which AI is accelerating AI research and development within Anthropic.</p><p>The redactions in the public version mean that readers must rely on METR's judgment rather than the raw data to interpret the findings. The assessment focused on whether Anthropic's internal capability growth has accelerated and how much of that acceleration is attributable to AI.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHWYa5p6aAAASBIq%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 04:32 UTC | #26616 | r,hd</small>]]></content>
   </entry>
 </feed>
