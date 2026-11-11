@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Anthropic Launches Claude Meetings, Whiteboards, and Sheets</h2>
 <a name="story-27055"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Whiteboards-1.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has launched Claude Meetings, Claude Whiteboards, and Claude Sheets. Claude Meetings joins video calls to draft real-time plans, timelines, and meeting notes. Claude Whiteboards provides a collaborative visual workspace, while Claude Sheets allows teams to collaboratively create and edit spreadsheets with AI assistance.</p><p>These updates follow similar workplace tool releases from OpenAI and Meta as companies compete to build AI-driven office suites. Anthropic also announced the general availability of Claude Data and introduced interactive connectors that allow users to operate third-party applications, including Adobe, Atlassian, and HubSpot, directly within Claude.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">techcrunch.com</a></p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50443448">hacker news</a></p>
 <br clear="all" />
 
 <h2>Anthropic&#x27;s Fable 5.2 Completes 41% of Real Freelance Jobs</h2>
