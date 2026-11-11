@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-10T23:49:00+00:00</updated>
+  <updated>2026-11-11T01:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Lenny Rachitsky Reports on Late 2026 Tech Job Market Trends</title>
+    <link href="https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late" rel="alternate" />
+    <id>https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late::v240</id>
+    <published>2026-11-11T01:11:00+00:00</published>
+    <updated>2026-11-11T01:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-6sL%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F8be609d0-ed10-464c-8b94-d052d45956da_2912x1940.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late">lennysnewsletter.com</a></small></p><hr/><p>Lenny Rachitsky’s late 2026 tech job market report, utilizing data from TrueUp and Live Data Technologies, reveals divergent trends across core tech roles, marked by rising product manager openings, stalling engineering demand, and record-low design positions.</p><p>The analysis highlights that artificial intelligence proficiency, specifically large language models, has become a top requirement in job descriptions, while specialized roles like forward-deployed engineers surge and geographic concentration shifts heavily toward the Bay Area as remote positions decline.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-6sL%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F8be609d0-ed10-464c-8b94-d052d45956da_2912x1940.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 08:20 UTC | #27104</small>]]></content>
+  </entry>
   <entry>
     <title>NSA and US Cyber Command Face Congressional Scrutiny Over Employee Suicides</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-10/more-suicides-at-spy-cyber-agencies-scrutinized-by-congress" rel="alternate" />

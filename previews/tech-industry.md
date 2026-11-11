@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Lenny Rachitsky Reports on Late 2026 Tech Job Market Trends</h2>
+<a name="story-27104"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-6sL%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F8be609d0-ed10-464c-8b94-d052d45956da_2912x1940.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Lenny Rachitsky’s late 2026 tech job market report, utilizing data from TrueUp and Live Data Technologies, reveals divergent trends across core tech roles, marked by rising product manager openings, stalling engineering demand, and record-low design positions.</p><p>The analysis highlights that artificial intelligence proficiency, specifically large language models, has become a top requirement in job descriptions, while specialized roles like forward-deployed engineers surge and geographic concentration shifts heavily toward the Bay Area as remote positions decline.</p>
+<p>Nov 11 · <a href="https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late">lennysnewsletter.com</a></p>
+<br clear="all" />
+
 <h2>NSA and US Cyber Command Face Congressional Scrutiny Over Employee Suicides</h2>
 <a name="story-27091"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsmarthernews.com%2Fwp-content%2Fuploads%2F2024%2F02%2FIMG_3756.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>At least 11 National Security Agency and US Cyber Command employees died by suicide in the 12 months leading up to September, prompting inquiries from the White House and Congress.</p><p>The deaths have triggered scrutiny regarding agency culture and the availability of mental health resources for intelligence personnel. Congressional oversight is expected to examine the circumstances of the deaths and the welfare of agency staff.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26990"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8pOzIi-T4VY%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SoftBank reported a fiscal second-quarter net loss of 1.12 trillion yen ($7 billion), shifting away from a net profit of 2.5 trillion yen a year earlier due to a broader technology selloff. Despite the loss, quarterly revenue reached 2.22 trillion yen, outperforming LSEG estimates of 2.02 trillion yen, while company shares closed 13.9% higher following a tech rebound on Wall Street.</p><p>The Japanese conglomerate has increasingly focused its strategy on artificial intelligence, highlighted by a recent $30 billion follow-on investment in OpenAI that brings its total commitment to $64.6 billion. Additionally, SoftBank announced a partnership with Grab and Malaysia's PETROS to commit $1.85 billion in initial capital toward developing AI infrastructure in Malaysia.</p>
 <p>Nov 10 · <a href="https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html">cnbc.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Aims to Raise Up to $69.3 Billion in IPO Filing Details</h2>
-<a name="story-26976"><img src="https://wsrv.nl/?url=https%3A%2F%2Fboringdude.in%2Fwp-content%2Fuploads%2F2026%2F06%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Artificial intelligence company Anthropic briefly distributed and then retracted details regarding its upcoming initial public offering to bankers, revealing plans to raise up to $69.3 billion. The figures outline the scale of the anticipated stock market debut for the generative AI developer amid high market interest.</p><p>The leaked information provides a rare look into the financial targets behind one of the largest potential public listings in the technology sector. Anthropic's valuation and fundraising goals have drawn intense scrutiny from investors tracking the commercial trajectory of foundational AI model providers.</p>
-<p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></p>
 <br clear="all" />
 
 ---
