@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-11T07:32:00+00:00</updated>
+  <updated>2026-11-11T07:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Go Programming Language Marks 17th Anniversary with Major Tooling and Runtime Updates</title>
+    <link href="https://go.dev/blog/17years" rel="alternate" />
+    <id>https://go.dev/blog/17years::v240</id>
+    <published>2026-11-11T07:34:00+00:00</published>
+    <updated>2026-11-11T07:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2F17years%2Fgo17.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://go.dev/blog/17years">go.dev</a> | <a href="https://lobste.rs/s/idktfu/go_turns_17">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50447829">hacker news</a></small></p><hr/><p>Celebrating its seventeenth anniversary, the Go project highlights major additions introduced across recent Go 1.26 and Go 1.27 releases, including generic methods, struct literal extensions, and the general availability of the revamped encoding/json/v2 package. These updates aim to address long-standing language restrictions while maintaining strict backward compatibility for large-scale production systems.</p><p>Additional updates feature the Green Tea garbage collector becoming default, experimental SIMD packages for hardware optimization, post-quantum cryptography integration, and a completely overhauled go fix command designed to help human developers and AI coding assistants adopt modern Go idioms. The platform also expanded security defenses, including a rapid URGENT track release to address weak private keys during the eMudhra certificate incident.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2F17years%2Fgo17.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 13:01 UTC | #27155</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Support Community Forums to Permanently Close on November 20</title>
     <link href="https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/" rel="alternate" />
