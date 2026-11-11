@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-11T00:28:00+00:00</updated>
+  <updated>2026-11-11T03:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Nima Momeni Sentenced to 16 Years to Life for Murder of Cash App Founder Bob Lee</title>
+    <link href="https://www.nytimes.com/2026/11/10/us/bob-lee-cash-app-murder-sentencing.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/10/us/bob-lee-cash-app-murder-sentencing.html::v240</id>
+    <published>2026-11-11T03:21:00+00:00</published>
+    <updated>2026-11-11T03:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F12%2F11%2Fmultimedia%2F10nat-boblee-killing%2F00nat-boblee-verdict-tlfq-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/10/us/bob-lee-cash-app-murder-sentencing.html">nytimes.com</a></small></p><hr/><p>Nima Momeni was sentenced to 16 years to life in prison for the 2023 stabbing death of Cash App founder Bob Lee. San Francisco Superior Court Judge Alexandra Gordon handed down the sentence and denied a defense request for a new trial following Momeni's second-degree murder conviction.</p><p>The April 2023 killing initially sparked widespread public anxiety and criticism from tech leaders regarding crime and safety in San Francisco. However, trial evidence revealed the murder stemmed from personal disputes within the local party and drug culture rather than random street violence, and Momeni is expected to appeal the verdict.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F12%2F11%2Fmultimedia%2F10nat-boblee-killing%2F00nat-boblee-verdict-tlfq-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 10:29 UTC | #27111</small>]]></content>
+  </entry>
   <entry>
     <title>Jvoisin Discusses Weird Licenses and the Limitations of Modern Open Source</title>
     <link href="https://dustri.org/b/weird-licenses-and-the-new-open-source.html" rel="alternate" />
