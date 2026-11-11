@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-10T21:20:00+00:00</updated>
+  <updated>2026-11-10T21:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ben Joffe Shares Optimized Gregorian Easter Algorithm</title>
+    <link href="https://www.benjoffe.com/fast-easter" rel="alternate" />
+    <id>https://www.benjoffe.com/fast-easter::v240</id>
+    <published>2026-11-10T21:25:00+00:00</published>
+    <updated>2026-11-10T21:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1223515%2Fapplying-algorithms-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.benjoffe.com/fast-easter">benjoffe.com</a> | <a href="https://lobste.rs/s/alijyg/faster_easter_date_function">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50438111">hacker news</a></small></p><hr/><p>Ben Joffe has developed an optimized algorithm for calculating the date of Gregorian Easter. The function is designed for high execution speed and a minimal binary footprint by using only five multiplications and bitwise operations. It remains accurate over a range of approximately ±10 million years, ensuring compatibility with 32-bit signed "rata die" date systems.</p><p>The optimization utilizes techniques such as aggressive constant folding, fixed-point multiplication to replace modulo operations, and the "mod-pad" method for modulo 30. These methods are designed to maximize hardware efficiency, such as leveraging x86 LEA instructions to avoid costly negation operations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1223515%2Fapplying-algorithms-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 03:50 UTC | #27112</small>]]></content>
+  </entry>
   <entry>
     <title>Complex Tar Archive Produces Inconsistent Extraction Results Across Utilities</title>
     <link href="https://stoppels.ch/2026/11/07/the-hardest-tarball.html" rel="alternate" />

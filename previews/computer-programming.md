@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Ben Joffe Shares Optimized Gregorian Easter Algorithm</h2>
+<a name="story-27112"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1223515%2Fapplying-algorithms-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ben Joffe has developed an optimized algorithm for calculating the date of Gregorian Easter. The function is designed for high execution speed and a minimal binary footprint by using only five multiplications and bitwise operations. It remains accurate over a range of approximately ±10 million years, ensuring compatibility with 32-bit signed "rata die" date systems.</p><p>The optimization utilizes techniques such as aggressive constant folding, fixed-point multiplication to replace modulo operations, and the "mod-pad" method for modulo 30. These methods are designed to maximize hardware efficiency, such as leveraging x86 LEA instructions to avoid costly negation operations.</p>
+<p>Nov 10 · <a href="https://www.benjoffe.com/fast-easter">benjoffe.com</a> | <a href="https://lobste.rs/s/alijyg/faster_easter_date_function">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50438111">hacker news</a></p>
+<br clear="all" />
+
 <h2>Complex Tar Archive Produces Inconsistent Extraction Results Across Utilities</h2>
 <a name="story-27110"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FjGJZ48dPYyNVJSGa6mzMbh.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A GNU tar archive utilizing pax headers, hard links, and size overrides produces eight different extraction outcomes depending on the software used. The file structure exploits inconsistencies in how various utilities process metadata and data blocks.</p><p>Extraction outcomes vary widely across tools like bsdtar, 7-Zip, and Java's Commons Compress, resulting in missing files, unexpected files, or incorrect data. This archive is part of a larger collection of 134 test cases in the haampie/tar-minefield test suite used to categorize how tarball implementations handle complex file structures.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26878"><img src="https://wsrv.nl/?url=https%3A%2F%2Fforums-cdn.chiefarchitect.com%2Fchieftalk%2Fmonthly_2024_10%2Fimage.png.1a0e0fc36f502622d4d9cf6be7f1efd9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The author is developing Project Steadfast, a general-purpose macro tool for Ruby that implements quote and unquote mechanisms to manipulate and generate abstract syntax trees at runtime. The project aims to provide a cleaner alternative to runtime code evaluation via strings, streamlining complex metaprogramming use cases such as domain-specific language compilation and code unrolling.</p><p>Funded by a Ruby Association grant with Yukihiro Matsumoto serving as a mentor, the project builds on the author's previous work with the Sirop AST converter and the Papercraft library. Scheduled for completion in March 2027, the development will explore integrating these macro tools into popular gems like ERB, ActiveRecord, and Roda, with ongoing updates hosted in an open-source repository.</p>
 <p>Nov 9 · <a href="https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast">noteflakes.com</a> | <a href="https://lobste.rs/s/5cavvx/introducing_project_steadfast">lobsters</a></p>
-<br clear="all" />
-
-<h2>Nspawn 3.0 Released With Docker-Compatible Engine API</h2>
-<p>Nspawn 3.0 introduces a Docker-compatible Engine API operating onkes the host via a dedicated socket, enabling tools like the standard docker command-line utility and GitLab Runner to manage systemd-nspawn containers. The release provides compatibility with API versions from 1.24 to 1.51, supporting core container operations, image pulls, and network and volume management.</p><p>Subsequent updates, including versions 3.1.0 and 3.2.0, build on this foundation by adding device cgroup rule configuration and streamlining local image and machine naming conventions across commands. While certain advanced features like image builds and container renames remain unsupported, the tool offers a structured alternative for container administration using existing Docker-compatible workflows.</p>
-<p>Nov 9 · <a href="https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/">blog.nspawn.org</a> | <a href="https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api">lobsters</a></p>
 <br clear="all" />
 
 ---
