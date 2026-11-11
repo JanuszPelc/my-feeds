@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-10T17:55:00+00:00</updated>
+  <updated>2026-11-10T20:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Automating Open Graph Image Generation with Astro and Typst</title>
+    <link href="https://eaj.no/posts/open-graph-images-with-typst/" rel="alternate" />
+    <id>https://eaj.no/posts/open-graph-images-with-typst/::v240</id>
+    <published>2026-11-10T20:04:00+00:00</published>
+    <updated>2026-11-10T20:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feaj.no%2Fposts%2Fopen-graph-images-with-typst%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://eaj.no/posts/open-graph-images-with-typst/">eaj.no</a> | <a href="https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst">lobsters</a></small></p><hr/><p>Erik André Jakobsen outlines a method for automating the creation of Open Graph images using the Astro static site generator and the Typst document generator. This pipeline uses the Typst CLI to render themed markup templates into PNG files during the build process, passing post titles as dynamic input variables.</p><p>The workflow integrates Astro's Content Collections and API routes to programmatically generate a unique image for every article. To prevent social media platforms from serving stale, cached images, the approach employs a cache-busting strategy that appends a SHA-256 hash of the template and title as a query parameter.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feaj.no%2Fposts%2Fopen-graph-images-with-typst%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 01:59 UTC | #27105</small>]]></content>
+  </entry>
   <entry>
     <title>Julia Desmazes Designs Networking Switch ASIC Chip in Four Days</title>
     <link href="https://essenceia.github.io/projects/expresso/" rel="alternate" />

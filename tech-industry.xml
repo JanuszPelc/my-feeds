@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-10T19:39:00+00:00</updated>
+  <updated>2026-11-10T20:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>New York Implements AI Safety and Transparency Mandates for Large Developers</title>
+    <link href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/::v240</id>
+    <published>2026-11-10T20:53:00+00:00</published>
+    <updated>2026-11-10T20:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2026-03-03%2FUS-State-Dept-switches-to-OpenAI-chatbot-as-agencies-drop-Anthropic-1LcPOS689Ik%2Fimg%2F872c8a683bbe44379c63e75701bd306a%2F872c8a683bbe44379c63e75701bd306a-750.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">techcrunch.com</a></small></p><hr/><p>New York has launched a registration portal for large frontier AI developers as part of the implementation of the RAISE Act. Companies with annual revenues exceeding $500 million, including major players like OpenAI and Anthropic, must register by January 1, 2027. The law mandates that these organizations publish safety frameworks, report critical safety incidents within 72 hours, and issue public model transparency reports.</p><p>The Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will oversee compliance, with penalties for violations reaching up to $3 million. To support these efforts, Governor Kathy Hochul has launched the New York Center for AI Responsibility and Research at SUNY Binghamton to independently evaluate the safety and operation of advanced AI systems. These requirements mirror similar transparency and safety laws recently passed in California and Illinois.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2026-03-03%2FUS-State-Dept-switches-to-OpenAI-chatbot-as-agencies-drop-Anthropic-1LcPOS689Ik%2Fimg%2F872c8a683bbe44379c63e75701bd306a%2F872c8a683bbe44379c63e75701bd306a-750.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 02:02 UTC | #27081</small>]]></content>
+  </entry>
   <entry>
     <title>Oura to acquire Counsel Health for $625 million</title>
     <link href="https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/" rel="alternate" />
@@ -503,14 +512,5 @@
     <updated>2026-11-06T07:48:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F1d7eb407f5be16fcf089861a9f52ef1e1ac023c4f665929d34bde0fe84bee61e%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05a3c56162e13ad80fef0f8d822b3daf.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50389222">hacker news</a></small></p><hr/><p>Britain plans to introduce legislation requiring employers to publish salary information in job advertisements, as announced by Prime Minister Andy Burnham. The policy aims to empower jobseekers, reduce pay disparities, and help address broader employment challenges.</p><p>The mandate is designed to eliminate the traditional uncertainty applicants face regarding compensation when applying for roles. Further details on the upcoming legislation and its implementation timeline are expected to be brought forward soon.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F1d7eb407f5be16fcf089861a9f52ef1e1ac023c4f665929d34bde0fe84bee61e%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05a3c56162e13ad80fef0f8d822b3daf.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 13:09 UTC | #26670</small>]]></content>
-  </entry>
-  <entry>
-    <title>Airbnb Discloses Option to Invest in and License Tech From CEO Brian Chesky's AI Startup</title>
-    <link href="https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup" rel="alternate" />
-    <id>https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup::v240</id>
-    <published>2026-11-06T01:51:00+00:00</published>
-    <updated>2026-11-06T01:51:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdigitalmarketreports.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-48.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup">theinformation.com</a></small></p><hr/><p>Airbnb disclosed in a regulatory filing that it has secured an option to invest in and license technology from a secretive artificial intelligence startup controlled by CEO Brian Chesky. Chesky has personally self-funded the AI lab so far and plans to continue financing its operations independently.</p><p>The venture represents Chesky’s direct entry into the artificial intelligence space, focusing on user interaction and interface design rather than standard text-based chatbots. Although the lab operates independently from Airbnb, the new disclosure establishes a formal framework for potential future commercial ties between the two entities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdigitalmarketreports.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-48.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 08:58 UTC | #26637</small>]]></content>
   </entry>
 </feed>

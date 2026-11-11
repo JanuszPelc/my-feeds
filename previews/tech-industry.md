@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>New York Implements AI Safety and Transparency Mandates for Large Developers</h2>
+<a name="story-27081"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2026-03-03%2FUS-State-Dept-switches-to-OpenAI-chatbot-as-agencies-drop-Anthropic-1LcPOS689Ik%2Fimg%2F872c8a683bbe44379c63e75701bd306a%2F872c8a683bbe44379c63e75701bd306a-750.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>New York has launched a registration portal for large frontier AI developers as part of the implementation of the RAISE Act. Companies with annual revenues exceeding $500 million, including major players like OpenAI and Anthropic, must register by January 1, 2027. The law mandates that these organizations publish safety frameworks, report critical safety incidents within 72 hours, and issue public model transparency reports.</p><p>The Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will oversee compliance, with penalties for violations reaching up to $3 million. To support these efforts, Governor Kathy Hochul has launched the New York Center for AI Responsibility and Research at SUNY Binghamton to independently evaluate the safety and operation of advanced AI systems. These requirements mirror similar transparency and safety laws recently passed in California and Illinois.</p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Oura to acquire Counsel Health for $625 million</h2>
 <a name="story-27072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2fQUHX.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D98&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Oura is acquiring AI-native primary care startup Counsel Health for $625 million. The deal aims to integrate Counsel Health's AI-powered medical platform into the Oura app, providing users with personalized medical advice and physician consultations.</p><p>The acquisition is expected to close by the end of 2027 and will see Counsel Health CEO Muthu Alagappan join Oura as chief clinical AI officer. This move follows Oura's decision to indefinitely postpone its planned $2.2 billion IPO and comes amid a 153% year-over-year revenue increase for the quarter ending September 30, 2026.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Payments Canada Launches Canada’s Real-Time Rail</h2>
 <p>Payments Canada announced the launch of Canada’s Real-Time Rail, a national payment system designed to clear and settle payments securely in real time, 24 hours a day, every day of the year. The infrastructure will support financial institutions, credit unions and payment service providers through existing banking and payment channels.</p><p>The system uses ISO 20022 data-rich messaging and includes centralized fraud safeguards such as payee confirmation, fraud scoring and risk reporting. Its rollout will expand in phases, with additional participants expected to join in the coming months and availability projected to reach more than nine in 10 Canadians within the first year.</p>
 <p>Nov 9 · <a href="https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy">payments.ca</a> | <a href="https://news.ycombinator.com/item?id=50427362">hacker news</a></p>
-<br clear="all" />
-
-<h2>SpaceX Plans $24 Billion Data Center and Gas-Fired Power Plant in Texas</h2>
-<a name="story-26962"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fcdn%2Fs3%2Fuploads%2Fgetty_images%2F2298777271%2Fimage_2298777271.jpg%3Fio%3Dgetty-c-w630&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The company intends to construct, own, and operate a gas-fired power plant and a supercomputing facility at its Starbase, Texas, site. According to a public hearing notice, the initial phases of the project will involve approximately $24 billion in investment.</p><p>The facility is designed to support company operations within its Starbase headquarters. This expansion represents a major move into large-scale energy and high-performance computing infrastructure.</p>
-<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/spacex-plans-24-billion-data-center-and-gas-plant-in-texas">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

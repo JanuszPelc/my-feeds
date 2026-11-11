@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Goldman Sachs and Citigroup Lead 21-Bank Consortium in $270 Million Stablecoin Commitment</h2>
+<a name="story-27071"><img src="https://wsrv.nl/?url=https%3A%2F%2Fholder.io%2Fwp-content%2Fuploads%2F2025%2F09%2FEuro-Stablecoin-Set-for-2026-Launch-as-9-Banks-Unite-E28093-Best-Wallet-Token-BEST-Emerges-a-Presale-Winner.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A 21-bank consortium, including Goldman Sachs Group Inc., Citigroup Inc., Banco Santander SA, and Deutsche Bank AG, has committed approximately $270 million to fund a stablecoin venture for five years. The initiative was originally announced in September.</p><p>This substantial financial commitment reflects increasing involvement from major global financial institutions in the stablecoin sector. The multi-year funding plan points toward long-term strategic interest in digital asset infrastructure.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Alta Raises $47.5 Million Series A to Build Financial Institution Blockchain</h2>
 <a name="story-27067"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fjrfm%2Fjrfm-17-00054%2Farticle_deploy%2Fhtml%2Fimages%2Fjrfm-17-00054-g001.png%3F1706707486&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alta has raised $47.5 million in a Series A funding round led by Index Ventures to develop blockchain infrastructure for banks and payment companies. This brings the startup's total funding to $80 million, including $32.5 million previously raised in seed funding.</p><p>The company is building a blockchain with integrated privacy and compliance controls designed to meet the specific requirements of global financial institutions. Alta has partnered with payments firm Airwallex to connect its blockchain to payment networks for stablecoin and fiat transfers.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26727"><img src="https://wsrv.nl/?url=https%3A%2F%2Fventureburn.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHTftsxxXcAAXSmb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CesiumAstro has raised $730 million in a funding round that values the Austin-based satellite manufacturer at more than $4.5 billion. The company plans to use the capital to expand manufacturing capacity and deploy Synchronicity, a 737-satellite low-Earth orbit (LEO) constellation.</p><p>Designed to serve both commercial and defense missions, the constellation will operate at two different altitudes. This latest round brings the company's total funding to $1.4 billion.</p>
 <p>Nov 7 · <a href="https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Kalepa Raises $75 Million in Series B Funding Round at $470 Million Valuation</h2>
-<a name="story-26648"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fkalepa-cofounders-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Insurance technology startup Kalepa has secured $75 million in a Series B funding round led by Updata Partners, bringing its total valuation to $470 million. The New York-based company provides an artificial intelligence platform designed to assist commercial insurers with underwriting, pricing, and portfolio management workflows.</p><p>The financing follows a period of rapid growth that saw the company triple both its revenue and customer count over the past year while maintaining positive cash flow. Kalepa plans to deploy the new capital to expand its artificial intelligence product suite, enter new geographic and industry markets, and double its headcount.</p>
-<p>Nov 6 · <a href="https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/">reuters.com</a> | <a href="https://kalepa.com/news-posts/kalepa-raises-75-million-series-b">kalepa.com</a></p>
 <br clear="all" />
 
 ---

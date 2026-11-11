@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-10T20:00:00+00:00</updated>
+  <updated>2026-11-10T20:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Goldman Sachs and Citigroup Lead 21-Bank Consortium in $270 Million Stablecoin Commitment</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing::v240</id>
+    <published>2026-11-10T20:03:00+00:00</published>
+    <updated>2026-11-10T20:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fholder.io%2Fwp-content%2Fuploads%2F2025%2F09%2FEuro-Stablecoin-Set-for-2026-Launch-as-9-Banks-Unite-E28093-Best-Wallet-Token-BEST-Emerges-a-Presale-Winner.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing">bloomberg.com</a></small></p><hr/><p>A 21-bank consortium, including Goldman Sachs Group Inc., Citigroup Inc., Banco Santander SA, and Deutsche Bank AG, has committed approximately $270 million to fund a stablecoin venture for five years. The initiative was originally announced in September.</p><p>This substantial financial commitment reflects increasing involvement from major global financial institutions in the stablecoin sector. The multi-year funding plan points toward long-term strategic interest in digital asset infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fholder.io%2Fwp-content%2Fuploads%2F2025%2F09%2FEuro-Stablecoin-Set-for-2026-Launch-as-9-Banks-Unite-E28093-Best-Wallet-Token-BEST-Emerges-a-Presale-Winner.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 01:54 UTC | #27071</small>]]></content>
+  </entry>
   <entry>
     <title>Alta Raises $47.5 Million Series A to Build Financial Institution Blockchain</title>
     <link href="https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244" rel="alternate" />

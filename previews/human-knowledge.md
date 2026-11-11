@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 
 <h2>University of Warsaw and International Team Demonstrate Room-Temperature Quantum Supersolid</h2>
 <p>An international research team has demonstrated a quantum supersolid—a state of matter combining the orderly crystal structure of a solid with the frictionless flow of a superfluid—at room temperature. Rather than using ultracold atomic systems, the scientists generated hybrid quasiparticles called exciton polaritons by coupling light and matter inside an organic semiconductor and liquid-crystal microcavity.</p><p>Published in Science Advances, the findings involve collaborators from the University of Warsaw, the Military University of Technology, IBM Research Zurich, and CNRS. The team identified the supersolid phase by observing spontaneous symmetry breaking and regularly spaced density variations in the emitted light. The platform's ability to operate at room temperature and offer electrical tunability provides a versatile tool for exploring exotic quantum phenomena and advancing future optical computing technologies.</p>
-<p>Nov 9 · <a href="https://www.sciencedaily.com/releases/2026/11/261105224536.htm">sciencedaily.com</a></p>
+<p>Nov 9 · <a href="https://www.sciencedaily.com/releases/2026/11/261105224536.htm">sciencedaily.com</a> | <a href="https://news.ycombinator.com/item?id=50443111">hacker news</a></p>
 <br clear="all" />
 
 <h2>Cary Institute Study Links Acorns and Mouse Populations to Lyme Disease Risk</h2>
