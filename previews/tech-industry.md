@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Rapidus Likely to Miss Mass Production Deadline for 2nm Chips</h2>
+<a name="story-27126"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08ab00b6-1ad5-4b16-bdfc-30a50368c303_1192x671.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Japanese government-backed semiconductor startup Rapidus Corp. is reportedly falling behind schedule on its goal to begin mass-producing 2nm chips by March 2028. According to sources familiar with the matter, the company has not yet produced functioning static random-access memory (SRAM), a critical milestone that needed to be completed by the summer of 2026.</p><p>The delay poses a significant challenge to Japan's ambitions to revive its domestic semiconductor manufacturing industry and compete with global foundry leaders. Rapidus has been banking on rapid technological development and heavy state backing to close the gap in cutting-edge chip fabrication, making the timeline for its pilot and mass production lines a focal point for industry observers.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/japan-s-rapidus-is-said-likely-to-miss-mass-production-deadline?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI4NDc3MCwiZXhwIjoxNzk0ODg5NTcwLCJhcnRpY2xlSWQiOiJUTzRXWU1UOU5KTFMwMCIsImJjb25uZWN0SWQiOiJBRDcxOUY5NDBGRTk0MzNBOERCNzI2OEJDOTY3NzY3QyJ9.Xq11uN4ErgBDAumBnQgpBFOKvDFLrHVaUkOr6YY7ogM">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Val Town to Wind Down Operations</h2>
 <a name="story-27139"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2FucJpyG2KeBV3j55SXwy6sQ%2Faicrier%2Fpost%2F64e2c4c6-dafe-48f3-a803-74acbb5eba1d%2Fpublic&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Val Town is shutting down its cloud computing platform after four years, citing an inability to compete in the market. The company has paused billing immediately while servicing existing subscriptions for free and offering migration guides to alternative hosting providers such as Cloudflare, Vercel, Netlify, and Render.</p><p>The phased wind-down ends new signups and upgrades immediately, transitions the service to read-only mode on December 10, 2026, and shuts down all remaining services on January 10, 2027, before open-sourcing the platform on February 1, 2027. Annual plan subscribers will receive partial refunds for their pre-paid subscriptions.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27037"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaiinsider.tech%2Fwp-content%2Fuploads%2F2026%2F11%2FPath-Robotics-Co-founders-CEO-Andy-Lonsberry-Left-and-CTO-Alex-Lonsberry-Right-crp-1-1536x887.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Path Robotics has secured $300 million in a Series E funding round, bringing its total funding to approximately $610 million. The investment values the startup at $2.45 billion.</p><p>The company develops software for autonomous manufacturing robots. This funding round quadruples the company's valuation.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Alibaba&#x27;s T-Head Chip Design Unit Files for Hong Kong Listing</h2>
-<a name="story-27025"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2Fx56bJiehmykJjDwtgpPMulNiER9Jd2icD1kDVfQnyZ0%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzM4Y2JiNTM3LWE3ODgtNGYzMi05MWZjLWY2YTg1ZmZlYjFmYl8xNzk0MjEzMTIyX2RlZmF1bHQuanBn.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The semiconductor design subsidiary T-Head filed for a Hong Kong listing on September 11 after receiving regulatory clearance. The unit will remain a subsidiary of Alibaba Group Holding Ltd.</p><p>This filing advances a proposed spin-off of the company's chip design operations.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
