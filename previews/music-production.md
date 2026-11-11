@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Anukari Updates 3D Physics Synthesizer to Version 1.1</h2>
+<a name="story-27133"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanukari-1-1-doppler-fly-by.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anukari has released version 1.1 of its 3D physics-based synthesizer, introducing a range of user-requested features including new resonators, a mouthpiece exciter, and over 1,000 factory presets. The update expands the software's physical modeling capabilities by adding strings, bars, plates, membranes, tubes, and bells that interact directly within the mass-and-spring simulation.</p><p>Additional enhancements in version 1.1 include updated physical models for bows, mallets, and plectrums, collision-capable spring types for effects like wind chimes, and the Modulosphere for spatial modulation. The release also incorporates shape-generation tools, MIDI Control Protocol support for external AI assistants, a redesigned preset browser, legato and glide controls, and optimized CPU performance.</p>
+<p>Nov 11 · <a href="https://www.kvraudio.com/news/anukari-updates-its-3d-physics-synthesizer-to-v1-1-with-resonators-a-mouthpiece-exciter-and-1-000-and-presets-69741?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69741">kvraudio.com</a> | <a href="https://anukari.com/">anukari.com</a></p>
+<br clear="all" />
+
 <h2>Alan R. Pearlman Foundation Releases Starpath Vol. 1 for KORG ARP2600</h2>
 <a name="story-27066"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fstarpath-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Starpath Vol. 1 is a collection of 200 patches for the KORG ARP2600, created by Scott McAuley Sounds and James Dyson. The sound bank features basses, leads, pads, keys, arpeggios, sequences, and strings designed for electronic dance music, film scoring, and other production environments.</p><p>Most patches support polyphonic aftertouch and utilize the instrument's 16-voice polyphony. The $39.99 release supports the Foundation's archiving efforts and its ARPs for All program, which provides musicians with access to vintage ARP synthesizers.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-26995"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsoundedit-1-1-slices.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audiofile Engineering has released SoundEdit, a new audio editor and sample manager for macOS, alongside major updates to its Fidelia music player for macOS, iOS, and iPadOS. SoundEdit features folder-based library management with automatic audio measurement, zero-crossing recording, hardware integration with Teenage Engineering devices, batch processing, and an optional Model Context Protocol server for AI agent editing.</p><p>Fidelia version 2.13 for macOS introduces watched folders, high-resolution playback metrics columns, and an AI-compatible MCP server, while version 2.1 for iOS and iPadOS adds the Bridge feature for remote library streaming over home networks or VPNs, with CarPlay support. Both applications are available as free downloads with 14-day trials, with full licenses and network playback features offered as paid additions.</p>
 <p>Nov 10 · <a href="https://www.kvraudio.com/news/audiofile-engineering-releases-soundedit-and-updates-fidelia-to-v2-13-for-macos-and-v2-1-for-ios-69683?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69683">kvraudio.com</a> | <a href="https://audiofile.engineering/apps/">audiofile.engineering</a></p>
-<br clear="all" />
-
-<h2>Rast Sound Releases Cinescapes Pro for iOS and iPadOS</h2>
-<a name="story-27007"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcinescapespro-ios-f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rast Sound has released Cinescapes Pro for iPhone and iPad, adapting its cinematic soundscape instrument for touch interfaces with dedicated layouts for each device. The app features 34 scenes, 160 main-layer sounds, sound shuffling, and movement controls, alongside WAV recording, MIDI export, and an AUv3 instrument extension.</p><p>The application is free to download with three scenes and corresponding sounds included. Users can unlock the full version through a one-time in-app purchase priced at $29.99 or €29.99, with no subscription required.</p>
-<p>Nov 10 · <a href="https://www.kvraudio.com/news/rast-sound-releases-cinescapes-pro-for-ios-and-ipados-69719?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69719">kvraudio.com</a> | <a href="https://rastsound.com/apps/cinescapes/">rastsound.com</a></p>
 <br clear="all" />
 
 ---
