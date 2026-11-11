@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Producer Daramola Discusses Studio Gear and Production Philosophy</h2>
+<a name="story-27143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p>
+<p>Nov 11 · <a href="https://musictech.com/features/interviews/daramol-interview/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>Reasonable Audio Releases Preamble Free Preamp Distortion Plugin</h2>
 <a name="story-27134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpreamble-ui-light.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reasonable Audio has released Preamble, a free preamp distortion plug-in modeled after the input stage of a bucket-brigade delay pedal. Available in VST3, AU, CLAP, and AAX formats for Windows, macOS, and Linux, the software is designed to shape audio dynamics and add saturation prior to subsequent processing stages.</p><p>Developed using neural models trained on the original hardware, Preamble features adjustable input-driven saturation and compression, autogain, low-cut and high-cut filters, a dry/wet mix control, and selectable oversampling. An iOS version in AUv3 format is planned for release at a later date.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27006"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmbd4-ui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audioblast has released MBD4, a multiband distortion and compression effect plugin designed for macOS and Windows in VST, AU, and AAX formats. Aimed primarily at creative sound design rather than transparent processing, the plugin features four independent adjustable bands.</p><p>Each band includes stereo link compression and a choice of 32 distortion types that can be routed pre- or post-effect. The software also provides 128 factory presets and a resizable user interface, and is available for purchase at 59€.</p>
 <p>Nov 10 · <a href="https://www.kvraudio.com/news/audioblast-release-mbd4-for-macos-and-windows-vst-au-and-aax-69545?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69545">kvraudio.com</a> | <a href="https://www.audioblast.me/product/mbd4-multiband-distortion-compression/">audioblast.me</a></p>
-<br clear="all" />
-
-<h2>The Midnight Discusses Studio Gear and Production on My Forever Studio Podcast</h2>
-<a name="story-27000"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmfs-ep-8-midnight-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Synthwave duo The Midnight, consisting of Tyler Lyle and Tim McEwan, appears on episode 91 of the *My Forever Studio* podcast. The guests discuss their essential analogue synthesizers, microphones, and the items they would include in a permanent studio setup.</p><p>The episode explores how the duo handles remote collaboration across the United States and their balance of hardware and software production. They also highlight the specific affordable plugins used to achieve their signature retro-futuristic production style.</p>
-<p>Nov 10 · <a href="https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/">musictech.com</a></p>
 <br clear="all" />
 
 ---
