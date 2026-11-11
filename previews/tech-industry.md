@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>OpenAI Acquires AI Travel Startup Odessia</h2>
+<p>OpenAI has acquired AI travel agent startup Odessia, founded by former Sonder CEO Francis Davidson. As part of the deal, Odessia's standalone service is shutting down, and Davidson is joining OpenAI to assist with the development of travel-related AI capabilities.</p><p>Odessia, which raised $6 million in pre-seed funding led by Sequoia, launched its service approximately five months ago. The move follows OpenAI's identification of travel as a primary use case for its ChatGPT agents and comes after Davidson's previous company, Sonder, underwent bankruptcy and winding down.</p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/">techcrunch.com</a> | <a href="https://www.linkedin.com/pulse/openai-acquires-odessia-francis-davidson-yolcc">linkedin.com</a></p>
+<br clear="all" />
+
 <h2>New York Implements AI Safety and Transparency Mandates for Large Developers</h2>
 <a name="story-27081"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2026-03-03%2FUS-State-Dept-switches-to-OpenAI-chatbot-as-agencies-drop-Anthropic-1LcPOS689Ik%2Fimg%2F872c8a683bbe44379c63e75701bd306a%2F872c8a683bbe44379c63e75701bd306a-750.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>New York has launched a registration portal for large frontier AI developers as part of the implementation of the RAISE Act. Companies with annual revenues exceeding $500 million, including major players like OpenAI and Anthropic, must register by January 1, 2027. The law mandates that these organizations publish safety frameworks, report critical safety incidents within 72 hours, and issue public model transparency reports.</p><p>The Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will oversee compliance, with penalties for violations reaching up to $3 million. To support these efforts, Governor Kathy Hochul has launched the New York Center for AI Responsibility and Research at SUNY Binghamton to independently evaluate the safety and operation of advanced AI systems. These requirements mirror similar transparency and safety laws recently passed in California and Illinois.</p>
@@ -89,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26973"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260415%2Fanthropic-openai-ipo-valuation-800-billion-3-fa8f7f698a2541bdb92d63ec62135f27.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic intends to set a valuation range this week and begin trading as early as next week to move forward with its initial public offering. The decision comes despite recent market volatility and scrutiny surrounding prominent figures in the AI industry.</p><p>Investors are viewing the company's valuation as a gauge for the AI market's health, with targets reportedly between $1.5 trillion and $2 trillion. This follows a recent $1.25 trillion valuation for competitor OpenAI.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/">techcrunch.com</a> | <a href="https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Payments Canada Launches Canada’s Real-Time Rail</h2>
-<p>Payments Canada announced the launch of Canada’s Real-Time Rail, a national payment system designed to clear and settle payments securely in real time, 24 hours a day, every day of the year. The infrastructure will support financial institutions, credit unions and payment service providers through existing banking and payment channels.</p><p>The system uses ISO 20022 data-rich messaging and includes centralized fraud safeguards such as payee confirmation, fraud scoring and risk reporting. Its rollout will expand in phases, with additional participants expected to join in the coming months and availability projected to reach more than nine in 10 Canadians within the first year.</p>
-<p>Nov 9 · <a href="https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy">payments.ca</a> | <a href="https://news.ycombinator.com/item?id=50427362">hacker news</a></p>
 <br clear="all" />
 
 ---

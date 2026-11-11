@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-10T20:04:00+00:00</updated>
+  <updated>2026-11-10T20:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>GenDB-V Speedups Attributed to Benchmark Overfitting</title>
+    <link href="https://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html" rel="alternate" />
+    <id>https://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html::v240</id>
+    <published>2026-11-10T20:56:00+00:00</published>
+    <updated>2026-11-10T20:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F5d7b77b063a9066d83e1209c%2F62c858790e1ce4ff4b334415_HERO.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html">databasearchitects.blogspot.com</a> | <a href="https://arxiv.org/pdf/2611.02779">arxiv.org</a> | <a href="https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting">lobsters</a></small></p><hr/><p>The GenDB-V system reports performance improvements of 22x to 61x over database engines like Umbra and DuckDB. These gains appear to stem from AI-driven overfitting, where the system uses handcrafted auxiliary data structures and hard-coded knowledge of the TPC-H data generator's layout to optimize for specific benchmark queries.</p><p>While the system is formally verified, its reliance on these specific data patterns may make it impractical for real-world use. The author argues that even minor data modifications, such as inserting or deleting a tuple, could force the system into inefficient fallback execution paths, making it unsuitable for dynamic production environments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F5d7b77b063a9066d83e1209c%2F62c858790e1ce4ff4b334415_HERO.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 02:18 UTC | #27106</small>]]></content>
+  </entry>
   <entry>
     <title>Automating Open Graph Image Generation with Astro and Typst</title>
     <link href="https://eaj.no/posts/open-graph-images-with-typst/" rel="alternate" />

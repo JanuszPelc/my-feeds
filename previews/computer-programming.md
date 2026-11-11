@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>GenDB-V Speedups Attributed to Benchmark Overfitting</h2>
+<a name="story-27106"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F5d7b77b063a9066d83e1209c%2F62c858790e1ce4ff4b334415_HERO.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The GenDB-V system reports performance improvements of 22x to 61x over database engines like Umbra and DuckDB. These gains appear to stem from AI-driven overfitting, where the system uses handcrafted auxiliary data structures and hard-coded knowledge of the TPC-H data generator's layout to optimize for specific benchmark queries.</p><p>While the system is formally verified, its reliance on these specific data patterns may make it impractical for real-world use. The author argues that even minor data modifications, such as inserting or deleting a tuple, could force the system into inefficient fallback execution paths, making it unsuitable for dynamic production environments.</p>
+<p>Nov 10 · <a href="https://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html">databasearchitects.blogspot.com</a> | <a href="https://arxiv.org/pdf/2611.02779">arxiv.org</a> | <a href="https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting">lobsters</a></p>
+<br clear="all" />
+
 <h2>Automating Open Graph Image Generation with Astro and Typst</h2>
 <a name="story-27105"><img src="https://wsrv.nl/?url=https%3A%2F%2Feaj.no%2Fposts%2Fopen-graph-images-with-typst%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Erik André Jakobsen outlines a method for automating the creation of Open Graph images using the Astro static site generator and the Typst document generator. This pipeline uses the Typst CLI to render themed markup templates into PNG files during the build process, passing post titles as dynamic input variables.</p><p>The workflow integrates Astro's Content Collections and API routes to programmatically generate a unique image for every article. To prevent social media platforms from serving stale, cached images, the approach employs a cache-busting strategy that appends a SHA-256 hash of the template and title as a query parameter.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-26867"><img src="https://wsrv.nl/?url=https%3A%2F%2Fganelson.github.io%2Finform-website%2Fassets%2Fimages%2Ficon.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Inform is a natural language programming language designed for creating interactive fiction, drawing on concepts from linguistics and literate programming. Created in April 2006 and open-sourced in April 2022, it is widely utilized for literary writing, game industry prototyping, and educational digital narrative courses.</p><p>The platform's official website provides access to language documentation, the latest application releases for macOS, Windows, and Linux, and source code repositories. Additionally, it links to community resources such as the Interactive Fiction Community Forum, the Interactive Fiction Database, and various authoring tools and conferences.</p>
 <p>Nov 8 · <a href="https://ganelson.github.io/inform-website/">ganelson.github.io</a> | <a href="https://lobste.rs/s/immpvk/inform_is_programming_language_for">lobsters</a></p>
-<br clear="all" />
-
-<h2>Sergey Kuhne Implements Git-Based Priority Queue to Manage AI Coding Agents</h2>
-<a name="story-26864"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.vertechacademy.com%2Fimages%2Fblog%2Fhow-to-use-ai-coding-assignments-without-cheating%2Fgit-ai-coding-workflow.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Software developer Sergey Kuhne has developed a git-based priority queue workflow to mitigate cognitive overload and context fragmentation when managing multiple AI coding agent threads. By storing ticket states as markdown files directly within a repository and using automated scripts to generate a centralized owner inbox, the system isolates decision-making from execution.</p><p>The workflow uses a single viewer page mirrored from git, allowing the developer to review, decide on, and close one ticket at a time without retaining multiple open threads in working memory. While the setup requires ongoing tooling refinement to prevent infinite loops and reduce loading latency, it provides a structured alternative to standard terminal multitasking.</p>
-<p>Nov 8 · <a href="https://sergeykuhne.com/blog/fighting-ai-brain-fry">sergeykuhne.com</a> | <a href="https://news.ycombinator.com/item?id=50416363">hacker news</a></p>
 <br clear="all" />
 
 ---
