@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-10T21:23:00+00:00</updated>
+  <updated>2026-11-10T23:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>CoreWeave Surpasses Q3 Revenue Estimates and Raises 2026 Guidance</title>
+    <link href="https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html::v240</id>
+    <published>2026-11-10T23:04:00+00:00</published>
+    <updated>2026-11-10T23:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmultilingual.mocortech.com%2Fcms-content-file%2F2026-11-10%2FF20261110172516056sOdprw7KVIAyQd&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx">investors.coreweave.com</a></small></p><hr/><p>CoreWeave reported third-quarter revenue of $3.66 billion, exceeding expectations of $3.55 billion and marking a 168% increase year-over-year. The company also lifted its 2026 revenue guidance to a range of $13 billion to $13.3 billion.</p><p>Despite reporting a net loss of $709 million, the company reported a revenue backlog of $132.5 billion. These results arrive as the company carries nearly $47 billion in debt amidst volatility in the AI infrastructure market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmultilingual.mocortech.com%2Fcms-content-file%2F2026-11-10%2FF20261110172516056sOdprw7KVIAyQd&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 04:46 UTC | #27089</small>]]></content>
+  </entry>
   <entry>
     <title>Graphon Labs Raises $35 Million for AI Agent Memory Software</title>
     <link href="https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>CoreWeave Surpasses Q3 Revenue Estimates and Raises 2026 Guidance</h2>
+<a name="story-27089"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmultilingual.mocortech.com%2Fcms-content-file%2F2026-11-10%2FF20261110172516056sOdprw7KVIAyQd&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>CoreWeave reported third-quarter revenue of $3.66 billion, exceeding expectations of $3.55 billion and marking a 168% increase year-over-year. The company also lifted its 2026 revenue guidance to a range of $13 billion to $13.3 billion.</p><p>Despite reporting a net loss of $709 million, the company reported a revenue backlog of $132.5 billion. These results arrive as the company carries nearly $47 billion in debt amidst volatility in the AI infrastructure market.</p>
+<p>Nov 10 · <a href="https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx">investors.coreweave.com</a></p>
+<br clear="all" />
+
 <h2>Graphon Labs Raises $35 Million for AI Agent Memory Software</h2>
 <a name="story-27080"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6af268b88f37e8e0b5baba7d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Graphon Labs raised a $35 million Series A led by RRE Ventures to develop software that helps AI agents store and retrieve information over time. Its system maps relationships, sources, and changes across documents, videos, and images instead of treating data as isolated snippets.</p><p>The 20-person San Francisco company says its technology is used by the San Francisco 49ers and HP, and targets developers and data-intensive enterprises. Graphon plans to use the funding to hire engineers, researchers, and go-to-market staff while remaining focused on enterprise customers before expanding toward personal devices and consumer products.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26798"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fcba7541e-fa92-11e5-b3f6-11d5706b613b%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple saved $2.7 billion in taxes this year by routing up to $50 billion in profits through Singapore, surpassing the $2.6 billion saved via Ireland. Singapore has thus overtaken Ireland as the iPhone maker's largest tax shelter, according to recent corporate disclosures.</p><p>The shift highlights how multinational corporations adapt their profit-routing structures in response to changing international tax landscapes and regulatory pressures, particularly as traditional European havens face heightened scrutiny.</p>
 <p>Nov 8 · <a href="https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede">ft.com</a></p>
-<br clear="all" />
-
-<h2>Ocient Raises $100 Million in Series C Funding for Agentic AI Analytics</h2>
-<a name="story-26767"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0871%2F5413%2F1219%2Ffiles%2Fagentic-ai-vc-invest-yoy.png%3Fv%3D1771226864&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ocient Inc. has secured $100 million in a Series C funding round co-led by Boka Capital and OCA Ventures, bringing its total capital raised to $260 million. The Chicago-based data analytics provider plans to use the financing to accelerate the expansion of its OcientAIQ platform, which delivers petabyte-scale analytics and agentic artificial intelligence solutions.</p><p>The company anticipates its revenue will more than triple in the current fiscal year, driven largely by growing adoption among national security organizations and telecommunications providers seeking to process massive network and cybersecurity datasets without data sampling. To support this demand, Ocient has established a dedicated national security subsidiary and intends to expand its on-premises deployments and international footprint while scaling toward financial breakeven.</p>
-<p>Nov 7 · <a href="https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/">siliconangle.com</a></p>
 <br clear="all" />
 
 ---
