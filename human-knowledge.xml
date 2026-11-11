@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-11T02:02:00+00:00</updated>
+  <updated>2026-11-11T09:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Jaron Lanier: Silicon Valley Is Sabotaging Itself With A.I. Doom Rhetoric</title>
+    <link href="https://www.nytimes.com/2026/11/09/opinion/ai-anthropic-doom-conscious.html?unlocked_article_code=1.PlE.e7Fx.YuauO1QXRsR3&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/09/opinion/ai-anthropic-doom-conscious.html?unlocked_article_code=1.PlE.e7Fx.YuauO1QXRsR3&amp;smid=url-share::v240</id>
+    <published>2026-11-11T09:14:00+00:00</published>
+    <updated>2026-11-11T09:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F09%2Fopinion%2F09lanier%2F09lanier-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/09/opinion/ai-anthropic-doom-conscious.html?unlocked_article_code=1.PlE.e7Fx.YuauO1QXRsR3&smid=url-share">nytimes.com</a></small></p><hr/><p>In a guest essay, computer scientist Jaron Lanier argues that Silicon Valley is undermining public support for artificial intelligence by promoting alarmist narratives about existential risks rather than focusing on practical benefits. He compares the current backlash against A.I. to the public rejection of virtual reality a decade ago, which was similarly alienated by overblown tech leader proclamations.</p><p>Lanier contends that framing A.I. as a conscious entity or an existential threat creates unnecessary fear and hostility, pointing to corporate warnings and careless data center expansion as self-sabotage. Instead, he advocates treating A.I. as a tool—akin to a sophisticated calculator—to ensure safer development and a more constructive public reception.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F09%2Fopinion%2F09lanier%2F09lanier-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 15:00 UTC | #27131</small>]]></content>
+  </entry>
   <entry>
     <title>AI Futures Forecasts Superhuman AI Researcher Arrival in 2027</title>
     <link href="https://blog.aifutures.org/p/q35-timelines-update-looks-like-the" rel="alternate" />
