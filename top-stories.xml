@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-11T05:35:00+00:00</updated>
+  <updated>2026-11-11T06:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Spencer Kittleson Outlines Principles for Local-First Home Automation</title>
+    <link href="https://docodethatmatters.com/home-automation-overnight-success/" rel="alternate" />
+    <id>https://docodethatmatters.com/home-automation-overnight-success/::v240</id>
+    <published>2026-11-11T06:48:00+00:00</published>
+    <updated>2026-11-11T06:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdocodethatmatters.com%2Fimages%2Fhome-automation%2Ft1-07.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://docodethatmatters.com/home-automation-overnight-success/">docodethatmatters.com</a> | <a href="https://news.ycombinator.com/item?id=50441707">hacker news</a></small></p><hr/><p>This article outlines a framework for building reliable home automation systems that operate independently of internet connectivity. To avoid vendor lock-in and service outages, the author utilizes local hardware and protocols such as Tasmota, MQTT, and Node-RED, ensuring core house functions remain operational without cloud access.</p><p>The author details eleven specific rules developed over ten years, ranging from maintaining manual control redundancy to requiring APIs with local logs. The piece also presents content from two talks, covering the complexities of scaling automation for multi-user households and managing device conflicts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocodethatmatters.com%2Fimages%2Fhome-automation%2Ft1-07.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 06:45 UTC | #27124 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>Verisign Retracts Plan to Terminate .name Domains and Email Redirects</title>
     <link href="https://neil.fraser.name/news/2026/11/10/" rel="alternate" />

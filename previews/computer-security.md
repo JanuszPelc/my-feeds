@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Spencer Kittleson Outlines Principles for Local-First Home Automation</h2>
+<a name="story-27124"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocodethatmatters.com%2Fimages%2Fhome-automation%2Ft1-07.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>This article outlines a framework for building reliable home automation systems that operate independently of internet connectivity. To avoid vendor lock-in and service outages, the author utilizes local hardware and protocols such as Tasmota, MQTT, and Node-RED, ensuring core house functions remain operational without cloud access.</p><p>The author details eleven specific rules developed over ten years, ranging from maintaining manual control redundancy to requiring APIs with local logs. The piece also presents content from two talks, covering the complexities of scaling automation for multi-user households and managing device conflicts.</p>
+<p>Nov 11 · <a href="https://docodethatmatters.com/home-automation-overnight-success/">docodethatmatters.com</a> | <a href="https://news.ycombinator.com/item?id=50441707">hacker news</a></p>
+<br clear="all" />
+
 <h2>Verisign Retracts Plan to Terminate .name Domains and Email Redirects</h2>
 <a name="story-27116"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ionos.ca%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Finteraction-between-icann-registries-registrars-us.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Verisign has cancelled an initiative to terminate approximately 22,000 .name domain registrations and their associated email redirects. While new registrations for third-level .name domains will be closed, all existing domains and email services will be grandfathered and remain active indefinitely.</p><p>The decision follows a series of legal challenges and advocacy efforts aimed at preventing the termination. The move adheres to ICANN consensus policies, ensuring continued service for current .name domain holders.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Unconventional IPv4 Addressing and IDNA Mapping Quirks in getaddrinfo</h2>
 <p>An analysis of glibc's getaddrinfo implementation demonstrates how combining the AI_IDN flag with UTS #46 Unicode mapping enables unorthodox characters—including mathematical alphabets, fullwidth digits, circled numbers, and invisible spaces—to translate into valid IPv4 addresses. Because Internationalized Domain Name conversion executes prior to the numeric address parser, various non-standard formats, mixed bases, and lookalike strings successfully resolve to standard IP destinations.</p><p>This behavior exposes vulnerabilities in security mechanisms such as SSRF filters, blocklists, and input validators that inspect raw strings instead of resolved endpoints. Attackers can exploit these parsing discrepancies and URL formatting conventions to disguise malicious destinations behind familiar domains or seemingly inert text, highlighting the importance of verifying fully resolved IP addresses rather than raw string inputs.</p>
 <p>Nov 8 · <a href="https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/">acid.vegas</a> | <a href="https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50391878">hacker news</a></p>
-<br clear="all" />
-
-<h2>Josh Bressers Advocates for Public Vulnerability Disclosure Policies in Open Source</h2>
-<a name="story-26816"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenssf.org%2Fwp-content%2Fuploads%2F2021%2F09%2FScreen-Shot-2021-09-24-at-11.18.37-AM-1024x714-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Security researcher Josh Bressers argues that open source developers should consider abandoning private vulnerability embargoes for low and medium-severity issues, pointing to Curl's recent policy change as a model. Bressers notes that maintaining private embargoes imposes significant mental and technical burdens on volunteer maintainers who are already overwhelmed by a surge in vulnerability reports.</p><p>While public vulnerability disclosures may introduce initial compliance and patching challenges, Bressers emphasizes that open source software is provided "as is" and developers are not obligated to shoulder the stress of traditional secret coordination. By shifting low and medium-risk bugs directly to public issue trackers, projects can alleviate developer burnout and better align with risk-based prioritization frameworks like CISA BoD 26-04.</p>
-<p>Nov 8 · <a href="https://opensourcesecurity.io/2026/10-embargo/">opensourcesecurity.io</a> | <a href="https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not">lobsters</a></p>
 <br clear="all" />
 
 ---
