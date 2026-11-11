@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>US Publishers Lose Ground to Chinese Rivals in Mobile Gaming Market</h2>
+<a name="story-27108"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gizmochina.com%2Fwp-content%2Fuploads%2F2020%2F07%2F20200708_122320_465.jpg%3Fx70461&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>US-based video game publishers are losing market share in the $121 billion global mobile gaming sector to Chinese competitors. Chinese studios have increasingly outpaced American counterparts by producing games more quickly, at a lower cost, and with higher profitability.</p><p>Popular titles such as Honor of Kings and Whiteout Survival exemplify the shift, highlighting the advanced operational capabilities and rapid development cycles of Chinese developers. This dynamic has allowed Chinese firms to seize leadership in a lucrative market previously dominated by US companies.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/features/2026-11-10/honor-of-kings-whiteout-survival-help-china-seize-mobile-gaming-crown-from-us?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDM1MzAxMSwiZXhwIjoxNzk0OTU3ODExLCJhcnRpY2xlSWQiOiJUT0I2SzVLR1pBTFkwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.ObRjv2f1_O3nCF6u3SBgzSlvsb2s-NJZynZl8Y_mTx8">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>SpaceX Announces Starlink Mini 2 with Integrated Swappable Battery</h2>
 <p>SpaceX has announced the Starlink Mini 2, a laptop-sized satellite internet terminal that integrates a dish, Wi-Fi router, and an internal battery into a single device. The terminal supports hot-swapping additional batteries to extend operation beyond its standard 4.5-hour charge and can also be powered via a 60W USB-C connection.</p><p>Priced at $999, the unit includes a year of Roam Unlimited service and maintains an IP67 rating for dust and water resistance. Despite the added battery weight, the Mini 2 is thinner than the original Mini, measuring 23.1mm thick compared to the previous version's 38.5mm.</p>
 <p>Nov 10 · <a href="https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery">theverge.com</a> | <a href="https://starlink.com/mini-2">starlink.com</a> | <a href="https://news.ycombinator.com/item?id=50444129">hacker news</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26724"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theapplepost.com%2Fwp-content%2Fuploads%2F2026%2F10%2FiMessage.iPhoneDuo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The App Store now features over 100,000 apps built specifically for the iPhone Duo, two weeks after the foldable device's release. Thousands of new optimized apps are being added to the store each day.</p><p>Despite this availability, some applications still face layout and usability challenges on the new form factor. Instagram, for instance, has encountered interface issues despite holding Apple's "Made for iPhone Duo" designation.</p>
 <p>Nov 6 · <a href="https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/">apple.com</a></p>
-<br clear="all" />
-
-<h2>EA Re-releases 25 Classic Games on Steam and GOG</h2>
-<a name="story-26721"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FEACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>EA has released 25 classic games on Steam and GOG, including remastered versions of several Wing Commander and Ultima series titles. The collection features updated versions of legacy software such as Road Rash and Privateer 2.</p><p>The remastering of the Wing Commander series involved digitizing original full-motion-video cutscenes discovered in EA's physical media archives. Senior producer Jim Vessella led the effort, which included coordinating contractors and community contributors to facilitate the restorations.</p>
-<p>Nov 6 · <a href="https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/">arstechnica.com</a> | <a href="https://www.ea.com/news/from-the-vault-to-your-library">ea.com</a> | <a href="https://news.ycombinator.com/item?id=50404545">hacker news</a></p>
 <br clear="all" />
 
 ---
