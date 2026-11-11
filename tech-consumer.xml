@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-11T02:33:00+00:00</updated>
+  <updated>2026-11-11T09:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Nintendo Sells 5.2 Million Copies of Zelda Remake in Four Days</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days::v240</id>
+    <published>2026-11-11T09:13:00+00:00</published>
+    <updated>2026-11-11T09:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F01Kaa5dgZRJ83FMF7dy7muy-1.fit_lim.v1742937201.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days">bloomberg.com</a></small></p><hr/><p>Nintendo sold 5.2 million copies of its The Legend of Zelda: Ocarina of Time remake within four days of its release. The strong debut establishes the title as an immediate commercial success on the market.</p><p>The sales milestone provides the Switch 2 console with a major blockbuster release following its rollout. The rapid adoption of the remake highlights the enduring popularity of the classic 1998 title among both longtime fans and new players.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F01Kaa5dgZRJ83FMF7dy7muy-1.fit_lim.v1742937201.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 14:44 UTC | #27129</small>]]></content>
+  </entry>
   <entry>
     <title>Toyota Revives Scion Brand with KEI-01 Utility Truck</title>
     <link href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/" rel="alternate" />

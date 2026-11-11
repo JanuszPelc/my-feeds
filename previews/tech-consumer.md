@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Nintendo Sells 5.2 Million Copies of Zelda Remake in Four Days</h2>
+<a name="story-27129"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F01Kaa5dgZRJ83FMF7dy7muy-1.fit_lim.v1742937201.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nintendo sold 5.2 million copies of its The Legend of Zelda: Ocarina of Time remake within four days of its release. The strong debut establishes the title as an immediate commercial success on the market.</p><p>The sales milestone provides the Switch 2 console with a major blockbuster release following its rollout. The rapid adoption of the remake highlights the enduring popularity of the classic 1998 title among both longtime fans and new players.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Toyota Revives Scion Brand with KEI-01 Utility Truck</h2>
 <a name="story-27136"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages-stag.jazelc.com%2Fuploads%2Ftheautopian-m2en%2Fscion_truck_a.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Labeled a "freedom lab" for experimental mobility, the newly announced "Scion by Toyota" brand will focus on unconventional vehicle design. Its first U.S. production model is the KEI-01, an ultra-compact utility truck derived from the Toyota Pixis and Daihatsu Hijet Jumbo Cab.</p><p>The KEI-01 features a 660cc engine and is limited to roads with speed limits below 35 mph due to low-speed vehicle safety certifications. Toyota plans to roll out a low-volume pilot program for fleet usage in late 2027. Other unveiled concepts include the SxS side-by-side and the BKE personal mobility vehicle.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-26821"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FffdcU736dFvEI2FZunfE19AxRWU.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An author reflects on recently watching the television series Person of Interest, noting its enduring relevance fifteen years after its initial broadcast. The viewing experience evokes memories of early 2010s internet culture, including online forums, the SOPA and PIPA legislative debates, and the closure of Megaupload.</p><p>The post highlights how the show's central premise—a mass surveillance system known as the Machine—feels increasingly aligned with modern technological reality rather than science fiction. The author concludes that the series has aged remarkably well, prompting strong nostalgia for the era when their interest in computing first began.</p>
 <p>Nov 8 · <a href="https://krthr.co/person-of-interest/">krthr.co</a> | <a href="https://news.ycombinator.com/item?id=50412318">hacker news</a></p>
-<br clear="all" />
-
-<h2>Omdia Reports Global Tablet Shipments Fell 23 Percent in Q3 2026</h2>
-<a name="story-26742"><img src="https://wsrv.nl/?url=https%3A%2F%2Fomdia.tech.informa.com%2F-%2Fmedia%2Ftech%2Fomdia%2Fmarketing%2Fpr%2F2026%2Fnov%2Fomdia-global-tablet-shipments-fall-23-to-32-million-in-q3-2026-gettyimages1147301914.jpg%3Frev%3Dd5df93a8e7b04bf6af59885020428c13&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Global tablet shipments dropped 23% year over year to 32 million units in the third quarter of 2026, reaching their lowest level in nearly three years, according to research from Omdia. The downturn was led by sharp contractions in the Middle East, China, and Western Europe, driven by persistent supply constraints and waning strategic priority from hardware vendors.</p><p>Apple and Samsung retained the top two spots in market share despite significant shipment declines of 28% and 22%, respectively. Lenovo was the sole top-five vendor to achieve growth, increasing shipments by 12% to capture a 12.7% market share, while Xiaomi and Huawei rounded out the top five amid an environment where recent flagship device launches failed to spur broader consumer demand.</p>
-<p>Nov 7 · <a href="https://omdia.tech.informa.com/pr/2026/nov/global-tablet-shipments-fall-23percent-to-32-million-in-q3-2026">omdia.tech.informa.com</a></p>
 <br clear="all" />
 
 ---
