@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>UK Government Social Media Ban Proposals Could Cover YouTube Kids and Spotify</h2>
+<a name="story-27145"><img src="https://wsrv.nl/?url=https%3A%2F%2Finterestingengineering.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcms.interestingengineering.com%2Fwp-content%2Fuploads%2F2025%2F12%2FIE-Photo-2.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Proposed UK regulations for the upcoming under-16s social media ban could inadvertently encompass up to 150 platforms, including YouTube Kids, Lego Play, and Spotify, due to a broad working definition focused on recommender systems and user-generated content.</p><p>Ministers intend to adopt a comprehensive approach to prevent workarounds, with regulations expected to be laid in parliament in December ahead of a March rollout. Tech companies and industry groups have raised concerns that removing essential recommender algorithms would render their platforms unworkable, while future tranches of regulations could target e-commerce sites like Vinted and eBay over messaging capabilities.</p>
+<p>Nov 11 · <a href="https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids">theguardian.com</a></p>
+<br clear="all" />
+
+<h2>China Singles Day Festival Tests AI E-Commerce Selling Power</h2>
+<a name="story-27142"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-qwen_generated_1764456652643.jpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI-driven e-commerce adoption saw significant growth during China's month-long Singles Day shopping festival, with overall event sales rising 2.4% between October 7 and October 31. The festival served as a major testbed for artificial intelligence applications in retail and consumer engagement.</p><p>Retailers increasingly relied on AI tools for automated marketing, customer service, and sales forecasting to capture consumer spending during the extended promotional period. The performance highlights the broader integration of automated technologies within major retail markets in China.</p>
+<p>Nov 11 · <a href="https://www.reuters.com/business/retail-consumer/chinas-singles-day-shopping-festival-puts-ai-selling-power-test-2026-11-11/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Rapidus Likely to Miss Mass Production Deadline for 2nm Chips</h2>
 <a name="story-27126"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08ab00b6-1ad5-4b16-bdfc-30a50368c303_1192x671.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Japanese government-backed semiconductor startup Rapidus Corp. is reportedly falling behind schedule on its goal to begin mass-producing 2nm chips by March 2028. According to sources familiar with the matter, the company has not yet produced functioning static random-access memory (SRAM), a critical milestone that needed to be completed by the summer of 2026.</p><p>The delay poses a significant challenge to Japan's ambitions to revive its domestic semiconductor manufacturing industry and compete with global foundry leaders. Rapidus has been banking on rapid technological development and heavy state backing to close the gap in cutting-edge chip fabrication, making the timeline for its pilot and mass production lines a focal point for industry observers.</p>
@@ -83,17 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27042"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F08%2Fa-product-review-page-with-ai-generated-content-highlighted.jpg%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reddit is launching "Reddit Reviews," a product hub that uses AI to aggregate and organize discussions from various subreddits into centralized pages. The initial rollout covers 10,000 items in the electronics, health and beauty, home and garden, and fashion categories. These pages will feature sentiment ratings, pros and cons, and tools to filter discussions by specific attributes, such as noise cancellation features.</p><p>This initiative aims to formalize Reddit's commercial presence, as the company has previously noted that 40 percent of its conversations are commercial in nature. The tool positions Reddit as an alternative to traditional review publications and AI-driven search engines by highlighting human-driven discussions. To maintain authenticity, Reddit will not take commissions from retailer links and is increasing its crackdown on brand astroturfing and fake reviews.</p>
 <p>Nov 10 · <a href="https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping">theverge.com</a> | <a href="https://redditinc.com/news/introducing-reddit-reviews">redditinc.com</a> | <a href="https://news.ycombinator.com/item?id=50448896">hacker news</a></p>
-<br clear="all" />
-
-<h2>TSMC to Invest up to $1 Billion in Anthropic and OpenAI</h2>
-<p>TSMC intends to allocate up to $500 million each to Anthropic and OpenAI via IPO-priced shares and preferred stock. This $1 billion total investment is designed to meet the growing long-term demand for AI technology.</p><p>The move underscores the strategic interdependence between semiconductor manufacturers and leading artificial intelligence developers. Through these equity positions, TSMC aims to solidify its role within the global AI ecosystem.</p>
-<p>Nov 10 · <a href="https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Path Robotics Raises $300M in Series E Funding at $2.45B Valuation</h2>
-<a name="story-27037"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaiinsider.tech%2Fwp-content%2Fuploads%2F2026%2F11%2FPath-Robotics-Co-founders-CEO-Andy-Lonsberry-Left-and-CTO-Alex-Lonsberry-Right-crp-1-1536x887.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Path Robotics has secured $300 million in a Series E funding round, bringing its total funding to approximately $610 million. The investment values the startup at $2.45 billion.</p><p>The company develops software for autonomous manufacturing robots. This funding round quadruples the company's valuation.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
