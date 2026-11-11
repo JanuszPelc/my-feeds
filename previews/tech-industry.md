@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta&#x27;s Santosh Janardhan to Step Down in 2027</h2>
+<a name="story-27190"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.ahmedabadmirror.com%2Fam%2Fuploads%2FmediaGallery%2Fimage%2F1654765605199.jpg-org&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Santosh Janardhan, Meta's head of infrastructure and co-head of engineering, plans to depart the company in early 2027. Dave Brown is slated to succeed him.</p><p>This leadership transition arrives as Meta continues its ongoing developments in infrastructure and engineering.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic IPO Receives Multiple Times the Available Orders</h2>
 <a name="story-27163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA22rBzq.img%3Fw%3D768%26h%3D576%26m%3D6%26x%3D498%26y%3D393%26s%3D316%26d%3D55&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's initial public offering has drawn demand exceeding the available shares by multiple times, according to sources familiar with the matter. CEO Dario Amodei and JPMorgan CEO Jamie Dimon are scheduled to participate in a livestream event this Friday.</p><p>The significant interest in the IPO follows reports that the company is targeting a valuation of over $1 trillion. The upcoming appearance by Amodei and Dimon is expected to highlight the role of artificial intelligence within the financial sector.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27081"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2026-03-03%2FUS-State-Dept-switches-to-OpenAI-chatbot-as-agencies-drop-Anthropic-1LcPOS689Ik%2Fimg%2F872c8a683bbe44379c63e75701bd306a%2F872c8a683bbe44379c63e75701bd306a-750.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>New York has launched a registration portal for large frontier AI developers as part of the implementation of the RAISE Act. Companies with annual revenues exceeding $500 million, including major players like OpenAI and Anthropic, must register by January 1, 2027. The law mandates that these organizations publish safety frameworks, report critical safety incidents within 72 hours, and issue public model transparency reports.</p><p>The Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will oversee compliance, with penalties for violations reaching up to $3 million. To support these efforts, Governor Kathy Hochul has launched the New York Center for AI Responsibility and Research at SUNY Binghamton to independently evaluate the safety and operation of advanced AI systems. These requirements mirror similar transparency and safety laws recently passed in California and Illinois.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Oura to acquire Counsel Health for $625 million</h2>
-<a name="story-27072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2fQUHX.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D98&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Oura is acquiring AI-native primary care startup Counsel Health for $625 million. The deal aims to integrate Counsel Health's AI-powered medical platform into the Oura app, providing users with personalized medical advice and physician consultations.</p><p>The acquisition is expected to close by the end of 2027 and will see Counsel Health CEO Muthu Alagappan join Oura as chief clinical AI officer. This move follows Oura's decision to indefinitely postpone its planned $2.2 billion IPO and comes amid a 153% year-over-year revenue increase for the quarter ending September 30, 2026.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/">techcrunch.com</a> | <a href="https://www.businesswire.com/news/home/20261110737835/en/Oura-to-Acquire-Counsel-Health-Advancing-Vision-for-More-Connected-Personalized-Healthcare">businesswire.com</a></p>
 <br clear="all" />
 
 ---

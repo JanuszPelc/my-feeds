@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Imprint Raises $130 Million at $1.88 Billion Valuation</h2>
+<a name="story-27184"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21RN6C%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa4bcb6bf-6b68-4c36-91ef-7ac1d2d26308_3225x2150.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Imprint, a fintech provider of co-branded credit cards, has raised $130 million in new funding at an $1.88 billion valuation. The funding round included new investor Positive Sum, alongside existing backers Ribbit, Thrive, Kleiner Perkins, and Khosla Ventures.</p><p>The company has grown its cardholder base to over two million and serves clients including Albertsons, Kroger, Shell, and Fanatics. Imprint projects approximately $400 million in GAAP revenue by the end of the year, representing a 150% increase.</p>
+<p>Nov 11 · <a href="https://www.upstartsmedia.com/p/fintech-imprint-raises-130m">upstartsmedia.com</a></p>
+<br clear="all" />
+
 <h2>Edelbyte Raises $70 Million for AI Agent Data Analytics Platform</h2>
 <p>Edelbyte, a company based in Tel Aviv and San Francisco, has emerged from stealth with $70 million in combined seed and Series A funding. The company is developing a data analytics platform specifically optimized for AI agents.</p><p>The technology is designed to reimagine big data analytics to meet the requirements of AI agents.</p>
 <p>Nov 11 · <a href="https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/">forbes.com</a></p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27067"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fjrfm%2Fjrfm-17-00054%2Farticle_deploy%2Fhtml%2Fimages%2Fjrfm-17-00054-g001.png%3F1706707486&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alta has raised $47.5 million in a Series A funding round led by Index Ventures to develop blockchain infrastructure for banks and payment companies. This brings the startup's total funding to $80 million, including $32.5 million previously raised in seed funding.</p><p>The company is building a blockchain with integrated privacy and compliance controls designed to meet the specific requirements of global financial institutions. Alta has partnered with payments firm Airwallex to connect its blockchain to payment networks for stablecoin and fiat transfers.</p>
 <p>Nov 10 · <a href="https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244">theblock.co</a> | <a href="https://www.globenewswire.com/news-release/2026/11/10/3399854/0/en/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain.html">globenewswire.com</a></p>
-<br clear="all" />
-
-<h2>Dreeze Secures $33 Million in Seed Funding for Cloud Application Recovery</h2>
-<p>Dreeze, an Israeli cloud recovery startup founded by the creators of Zerto, has raised $33 million in a seed funding round led by Norwest and Bessemer Venture Partners. The company develops technology designed to restore entire cloud applications and their dependencies—including infrastructure, configurations, and credentials—to ensure businesses can resume operations more effectively than traditional data-only backup systems.</p><p>Co-founded by Ziv and Oded Kedem and Avi Raichel, Dreeze currently employs approximately 70 people across Israel and the United States. Ziv Kedem previously co-founded Kashya and Zerto, the latter of which was acquired by Hewlett Packard Enterprise in 2021 for $374 million.</p>
-<p>Nov 10 · <a href="https://www.calcalistech.com/ctechnews/article/rkkeose0fe">calcalistech.com</a></p>
 <br clear="all" />
 
 ---
