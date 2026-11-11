@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-10T23:52:00+00:00</updated>
+  <updated>2026-11-11T00:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Jvoisin Discusses Weird Licenses and the Limitations of Modern Open Source</title>
+    <link href="https://dustri.org/b/weird-licenses-and-the-new-open-source.html" rel="alternate" />
+    <id>https://dustri.org/b/weird-licenses-and-the-new-open-source.html::v240</id>
+    <published>2026-11-11T00:28:00+00:00</published>
+    <updated>2026-11-11T00:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fkodekloud.com%2Fkk-media%2Fimage%2Fupload%2Fv1752868051%2Fnotes-assets%2Fimages%2FAZ-400-Designing-and-Implementing-Microsoft-DevOps-Solutions-Working-with-open-source-software%2Fopen-source-licenses-categorization-diagram.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dustri.org/b/weird-licenses-and-the-new-open-source.html">dustri.org</a> | <a href="https://lobste.rs/s/kqjcnb/weird_licenses_new_open_source">lobsters</a></small></p><hr/><p>Software developer jvoisin examines the challenges facing the open-source software ecosystem, arguing that traditional free software models have failed to prevent large corporations and cloud providers from exploiting unpaid labor without contributing back. The essay points to the rise of non-standard and restrictive licenses, such as those that prohibit military use or restrict deployment by large organizations, as a response to the current state of the industry.</p><p>While these alternative agreements violate standard definitions of free software by restricting usage or user freedom, the author suggests they function as intentional statements against corporate co-optation and unethical applications. The piece concludes that adopting quirkier, custom licensing models could help protect developer efforts and support smaller, community-focused software governance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fkodekloud.com%2Fkk-media%2Fimage%2Fupload%2Fv1752868051%2Fnotes-assets%2Fimages%2FAZ-400-Designing-and-Implementing-Microsoft-DevOps-Solutions-Working-with-open-source-software%2Fopen-source-licenses-categorization-diagram.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 08:06 UTC | #27130</small>]]></content>
+  </entry>
   <entry>
     <title>Synaptics Patent Claims Halt Development of Vino DisplayLink Driver</title>
     <link href="https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/" rel="alternate" />
