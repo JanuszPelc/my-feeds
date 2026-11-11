@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia to Invest $10 Billion in Anthropic Amid Planned IPO</h2>
+<a name="story-27082"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd.techtimes.co.uk%2Fen%2Ffull%2F1820588%2Fnvidia.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic is preparing an initial public offering that could value the company at up to $1.4 trillion. As part of the deal, Nvidia plans to invest approximately $10 billion in the AI software company immediately following the IPO, representing about 10 percent of the total cash Anthropic expects to raise this month.</p><p>The investment marks a significant shift for the two companies, which have historically maintained distance and clashed over U.S. government regulation of AI technology. The move underscores the deepening financial ties between AI software developers and the hardware providers powering the sector.</p>
+<p>Nov 10 · <a href="https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>OpenAI Acquires AI Travel Startup Odessia</h2>
 <p>OpenAI has acquired AI travel agent startup Odessia, founded by former Sonder CEO Francis Davidson. As part of the deal, Odessia's standalone service is shutting down, and Davidson is joining OpenAI to assist with the development of travel-related AI capabilities.</p><p>Odessia, which raised $6 million in pre-seed funding led by Sequoia, launched its service approximately five months ago. The move follows OpenAI's identification of travel as a primary use case for its ChatGPT agents and comes after Davidson's previous company, Sonder, underwent bankruptcy and winding down.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/">techcrunch.com</a> | <a href="https://www.linkedin.com/pulse/openai-acquires-odessia-francis-davidson-yolcc">linkedin.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26992"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpeateasea.de%2Fassets%2Fimages%2Fchefpresso-cover.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Paul Cochrane argues that "buy me a coffee" links on personal blogs serve as important tools for recognition and feedback rather than primary revenue streams. He addresses concerns about the increasing monetization of the internet by framing these links as a form of social validation.</p><p>Using a street busker as an analogy, Cochrane explains that such links allow readers to express appreciation without being obligated to pay. He notes that for many small creators, the psychological benefit of knowing their work is valued often outweighs the financial contribution itself.</p>
 <p>Nov 10 · <a href="https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/">peateasea.de</a> | <a href="https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee">lobsters</a></p>
-<br clear="all" />
-
-<h2>Anthropic Plans to Move Forward with IPO</h2>
-<a name="story-26973"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260415%2Fanthropic-openai-ipo-valuation-800-billion-3-fa8f7f698a2541bdb92d63ec62135f27.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic intends to set a valuation range this week and begin trading as early as next week to move forward with its initial public offering. The decision comes despite recent market volatility and scrutiny surrounding prominent figures in the AI industry.</p><p>Investors are viewing the company's valuation as a gauge for the AI market's health, with targets reportedly between $1.5 trillion and $2 trillion. This follows a recent $1.25 trillion valuation for competitor OpenAI.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/">techcrunch.com</a> | <a href="https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c">wsj.com</a></p>
 <br clear="all" />
 
 ---
