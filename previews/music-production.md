@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>UVI Releases Twin 88 Keys Acoustic and Electric Piano Instrument</h2>
+<a name="story-27135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin88keys_bannerkvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>UVI has released Twin 88 Keys, a virtual instrument combining a concert grand piano and a vintage electric piano into a single interface. The grand piano is based on a CFX recorded in California, while the electric piano was sampled in Paris across its full dynamic range.</p><p>Players can combine the two instruments using velocity blending, keyboard splits, tone blending, or continuous crossfading. Each piano features independent microphone controls, filters, EQ, modulation, and effects processing, alongside support for the free UVI Player and Falcon software.</p>
+<p>Nov 11 · <a href="https://www.kvraudio.com/news/uvi-releases-twin-88-keys---acoustic-and-electric-piano-together-69739?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69739">kvraudio.com</a> | <a href="https://www.uvi.net/twin-88-keys">uvi.net</a></p>
+<br clear="all" />
+
 <h2>Anukari Updates 3D Physics Synthesizer to Version 1.1</h2>
 <a name="story-27133"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanukari-1-1-doppler-fly-by.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anukari has released version 1.1 of its 3D physics-based synthesizer, introducing a range of user-requested features including new resonators, a mouthpiece exciter, and over 1,000 factory presets. The update expands the software's physical modeling capabilities by adding strings, bars, plates, membranes, tubes, and bells that interact directly within the mass-and-spring simulation.</p><p>Additional enhancements in version 1.1 include updated physical models for bows, mallets, and plectrums, collision-capable spring types for effects like wind chimes, and the Modulosphere for spatial modulation. The release also incorporates shape-generation tools, MIDI Control Protocol support for external AI assistants, a redesigned preset browser, legato and glide controls, and optimized CPU performance.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>DJW Audio Releases Free DW-303 Bass Synthesizer Plugin</h2>
 <p>DJW Audio has released DW-303, a free, open-source TB-303-style bass synthesizer and step sequencer available for macOS, Windows, and Linux. The instrument models the original hardware's oscillator, filter, envelopes, accent, and slide circuits based on schematic analysis and hardware measurements.</p><p>The plugin features a 16-step hardware-style sequencer supporting pattern chaining, MIDI clock synchronization, and a standalone application mode that accepts MIDI input. It is distributed in VST3, CLAP, AU, AAX, and LV2 formats across supported platforms, requiring no license key or activation.</p>
 <p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/">bedroomproducersblog.com</a> | <a href="https://djwaudio.co/#dw-303">djwaudio.co</a></p>
-<br clear="all" />
-
-<h2>Audiofile Engineering Releases SoundEdit and Updates Fidelia to v2.13 and v2.1</h2>
-<a name="story-26995"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsoundedit-1-1-slices.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audiofile Engineering has released SoundEdit, a new audio editor and sample manager for macOS, alongside major updates to its Fidelia music player for macOS, iOS, and iPadOS. SoundEdit features folder-based library management with automatic audio measurement, zero-crossing recording, hardware integration with Teenage Engineering devices, batch processing, and an optional Model Context Protocol server for AI agent editing.</p><p>Fidelia version 2.13 for macOS introduces watched folders, high-resolution playback metrics columns, and an AI-compatible MCP server, while version 2.1 for iOS and iPadOS adds the Bridge feature for remote library streaming over home networks or VPNs, with CarPlay support. Both applications are available as free downloads with 14-day trials, with full licenses and network playback features offered as paid additions.</p>
-<p>Nov 10 · <a href="https://www.kvraudio.com/news/audiofile-engineering-releases-soundedit-and-updates-fidelia-to-v2-13-for-macos-and-v2-1-for-ios-69683?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69683">kvraudio.com</a> | <a href="https://audiofile.engineering/apps/">audiofile.engineering</a></p>
 <br clear="all" />
 
 ---

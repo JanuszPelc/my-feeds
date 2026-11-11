@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Singapore Networks Help Chinese Firms Bypass US AI Chip Export Controls</h2>
+<a name="story-27127"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-154318063%2Cthumbsize-2202391%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F154318063.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Networks operating in Singapore are facilitating the acquisition of advanced US artificial intelligence chips by Chinese technology companies. These operations are designed to circumvent US export controls placed on sensitive AI hardware.</p><p>The activities, which involve a suspected Chinese spy and specific chip deals, highlight the difficulties Washington faces in enforcing technology restrictions. These regional networks represent a direct test of the efficacy of US control over AI technology.</p>
+<p>Nov 11 · <a href="https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244">ft.com</a></p>
+<br clear="all" />
+
 <h2>PLA-Linked Chinese University Purchased Nvidia H200 Chips Despite US Blacklist</h2>
 <a name="story-27122"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.xdaimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Fnvidia-titan-z-dual-gpu-design.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Records show that China's Northwestern Polytechnical University, an institution with close ties to the People's Liberation Army, acquired Nvidia H200 artificial intelligence chips. The purchase occurred despite the university being placed on a United States export blacklist designed to restrict access to advanced American technology.</p><p>The acquisition highlights ongoing challenges in enforcing U.S. export controls on high-performance semiconductors destined for Chinese entities. The H200 is among Nvidia's advanced processors, making it a critical asset for military and research applications restricted by trade regulations.</p>
@@ -85,12 +91,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26980"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thethinkingconservative.com%2Fwp-content%2Fuploads%2F2024%2F04%2FDOJ-1080x720-1-1068x712.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The US Department of Justice has filed a lawsuit against Lyft, alleging the company discriminated against passengers with disabilities. The complaint claims Lyft denied rides to individuals using wheelchairs or those accompanied by service dogs.</p><p>The DOJ is seeking $53 million in compensation through the legal action. Lyft has disputed the allegations.</p>
 <p>Nov 10 · <a href="https://www.reuters.com/world/us-sues-lyft-alleges-it-denied-rides-passengers-with-service-dogs-wheelchairs-2026-11-10/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Trump Says FBI Is Investigating Nvidia CEO Jensen Huang Over Affair With Alleged Chinese Agent</h2>
-<a name="story-26966"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJBJFWFF3NZM27EXOSPW7ESWQFY.jpg%3Fauth%3D6cb18c6d60c128697e80cd33ae40633543787f03203a16fdd49caf1744c4c117%26width%3D1200%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>President Donald Trump announced Monday that the FBI is investigating Nvidia CEO Jensen Huang regarding an affair with an alleged Chinese government agent. Huang has acknowledged the relationship in an open letter, pledging to cooperate with investigators and protect national security.</p><p>The incident has triggered an independent investigation by Nvidia to determine if the CEO was the target of a foreign intelligence effort. Congressional leaders are also seeking a briefing to evaluate the security of advanced artificial intelligence technology and the potential for compromised intelligence.</p>
-<p>Nov 9 · <a href="https://apnews.com/article/china-denies-spy-jensen-huang-nvidia-3345b9f05c54d58909e88f6dcb9c1cd8">apnews.com</a></p>
 <br clear="all" />
 
 ---
