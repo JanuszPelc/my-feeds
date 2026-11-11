@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Co-founders to Sell $1.75 Billion in Stock During Upcoming IPO</h2>
+<a name="story-27051"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmoneymint.co.in%2Fwp-content%2Fuploads%2F2026%2F02%2FAnthropic-Stock-IPO-Status-Investment-Guide-2026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic's seven co-founders will sell a combined $1.75 billion in stock as part of the company's initial public offering next week. According to an updated S-1 prospectus, each founder is offering shares valued at approximately $250 million at the midpoint of the IPO price range.</p><p>The secondary share sale is part of a larger blockbuster IPO for the artificial intelligence company. The updated filing provides specific details regarding the founders' offerings prior to the company's public debut.</p>
+<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/anthropic-founders-to-cash-out-1-75-billion-in-blockbuster-ipo">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>IBM Ends Immigration Sponsorship for Most Roles in IBM Consulting</h2>
 <a name="story-27049"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.firstpost.com%2Fuploads%2F2026%2F07%2FIBM-NEW-2026-07-53b29fda659c60e762b083dfa30e4a0b.jpg%3Fim%3DResize%2Cwidth%3D720%2Caspect%3Dfit%2Ctype%3Dnormal&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>IBM is ending H-1B and green card sponsorships for most roles within its largest division, IBM Consulting.</p><p>Affected employees may continue working for the company in roles outside the United States or choose to leave the organization.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26958"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.mathrubhumi.com%2Fview%2FacePublic%2Falias%2Fcontentid%2F1p74sr95ut0liothbnz%2F0%2Fjensen-huang-jpg.webp%3Ff%3D3%3A2%26q%3D0.75%26w%3D900&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia CEO Jensen Huang has withdrawn from the ElevenLabs Summit in New York and the Anthropic CEO Forum. The decision follows his admission of an extramarital affair and an ongoing Nvidia investigation into his relationship with a suspected Chinese spy.</p><p>The controversy has raised questions regarding Huang's continued leadership and Nvidia's strategic interests in China. ElevenLabs, an Nvidia-backed company, confirmed the cancellation on Monday, and Huang has issued a public apology.</p>
 <p>Nov 9 · <a href="https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Uber Launches Uber Parking</h2>
-<a name="story-26948"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.roic.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1280%2Cformat%3Dwebp%2Cquality%3D75%2Fhttps%3A%2F%2Fimg.roic.ai%2Fnews%2Fuber-eyes-acquisition-of-parking-app-spothero-to-expand-mobility-ecosystem-12-31-2025.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Drivers can now find, reserve, and pay for parking in garages and lots through a new Uber in-app feature. Following the company's acquisition of SpotHero, the service integrates over 13,000 facilities across 400 cities, initially rolling out in 15 markets including New York City and Chicago. The feature supports filtering for self-park or valet options and facilitates entry via QR codes or automatic license plate scanning.</p><p>The service supports Uber’s long-term autonomous vehicle strategy, with plans to use these facilities as holding areas for robotaxis to reduce urban traffic and emissions. Uber One subscribers can earn 10 percent back in account credits on parking reservations. This expansion reflects a strategic push to control urban mobility infrastructure to serve both personal commuters and future autonomous fleets.</p>
-<p>Nov 9 · <a href="https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFFQ1lZV0Qzb3giLCJwIjoiL3RyYW5zcG9ydGF0aW9uLzEwMjk3NzYvdWJlci1wYXJraW5nLWxhdW5jaC1zcG90aGVyby1yb2JvdGF4aXMiLCJleHAiOjE3OTQ2NzYzNTQsImlhdCI6MTc5NDI0NDM1NH0.JUsFbrRZz5ePB1fjQjTRmwfyAeJmvNtx7EBTJCcsBFA&utm_medium=gift-link">theverge.com</a></p>
 <br clear="all" />
 
 ---
