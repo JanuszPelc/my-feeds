@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Oura to acquire Counsel Health for $625 million</h2>
+<a name="story-27072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2fQUHX.img%3Fw%3D1536%26h%3D1024%26m%3D4%26q%3D98&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Oura is acquiring AI-native primary care startup Counsel Health for $625 million. The deal aims to integrate Counsel Health's AI-powered medical platform into the Oura app, providing users with personalized medical advice and physician consultations.</p><p>The acquisition is expected to close by the end of 2027 and will see Counsel Health CEO Muthu Alagappan join Oura as chief clinical AI officer. This move follows Oura's decision to indefinitely postpone its planned $2.2 billion IPO and comes amid a 153% year-over-year revenue increase for the quarter ending September 30, 2026.</p>
+<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/">techcrunch.com</a> | <a href="https://www.businesswire.com/news/home/20261110737835/en/Oura-to-Acquire-Counsel-Health-Advancing-Vision-for-More-Connected-Personalized-Healthcare">businesswire.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Co-founders to Sell $1.75 Billion in Stock During Upcoming IPO</h2>
 <a name="story-27051"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmoneymint.co.in%2Fwp-content%2Fuploads%2F2026%2F02%2FAnthropic-Stock-IPO-Status-Investment-Guide-2026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's seven co-founders will sell a combined $1.75 billion in stock as part of the company's initial public offering next week. According to an updated S-1 prospectus, each founder is offering shares valued at approximately $250 million at the midpoint of the IPO price range.</p><p>The secondary share sale is part of a larger blockbuster IPO for the artificial intelligence company. The updated filing provides specific details regarding the founders' offerings prior to the company's public debut.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-26962"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fcdn%2Fs3%2Fuploads%2Fgetty_images%2F2298777271%2Fimage_2298777271.jpg%3Fio%3Dgetty-c-w630&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The company intends to construct, own, and operate a gas-fired power plant and a supercomputing facility at its Starbase, Texas, site. According to a public hearing notice, the initial phases of the project will involve approximately $24 billion in investment.</p><p>The facility is designed to support company operations within its Starbase headquarters. This expansion represents a major move into large-scale energy and high-performance computing infrastructure.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/spacex-plans-24-billion-data-center-and-gas-plant-in-texas">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Jensen Huang Withdraws From ElevenLabs Summit Amid Nvidia Investigation</h2>
-<a name="story-26958"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.mathrubhumi.com%2Fview%2FacePublic%2Falias%2Fcontentid%2F1p74sr95ut0liothbnz%2F0%2Fjensen-huang-jpg.webp%3Ff%3D3%3A2%26q%3D0.75%26w%3D900&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia CEO Jensen Huang has withdrawn from the ElevenLabs Summit in New York and the Anthropic CEO Forum. The decision follows his admission of an extramarital affair and an ongoing Nvidia investigation into his relationship with a suspected Chinese spy.</p><p>The controversy has raised questions regarding Huang's continued leadership and Nvidia's strategic interests in China. ElevenLabs, an Nvidia-backed company, confirmed the cancellation on Monday, and Huang has issued a public apology.</p>
-<p>Nov 9 · <a href="https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

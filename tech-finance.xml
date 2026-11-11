@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-10T17:54:00+00:00</updated>
+  <updated>2026-11-10T18:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Dreeze Secures $33 Million in Seed Funding for Cloud Application Recovery</title>
+    <link href="https://www.calcalistech.com/ctechnews/article/rkkeose0fe" rel="alternate" />
+    <id>https://www.calcalistech.com/ctechnews/article/rkkeose0fe::v240</id>
+    <published>2026-11-10T18:52:00+00:00</published>
+    <updated>2026-11-10T18:52:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.calcalistech.com/ctechnews/article/rkkeose0fe">calcalistech.com</a></small></p><hr/><p>Dreeze, an Israeli cloud recovery startup founded by the creators of Zerto, has raised $33 million in a seed funding round led by Norwest and Bessemer Venture Partners. The company develops technology designed to restore entire cloud applications and their dependencies—including infrastructure, configurations, and credentials—to ensure businesses can resume operations more effectively than traditional data-only backup systems.</p><p>Co-founded by Ziv and Oded Kedem and Avi Raichel, Dreeze currently employs approximately 70 people across Israel and the United States. Ziv Kedem previously co-founded Kashya and Zerto, the latter of which was acquired by Hewlett Packard Enterprise in 2021 for $374 million.</p><hr/><small>11 Nov 2026, 00:29 UTC | #27054</small>]]></content>
+  </entry>
   <entry>
     <title>Mercor Raises $750 Million in Series D Funding at $20 Billion Valuation</title>
     <link href="https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/" rel="alternate" />
@@ -138,14 +146,5 @@
     <updated>2026-11-06T00:46:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2019%2F10%2FLyft-active-riders-trend.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/earnings/lyfts-bookings-rise-on-strength-in-partnerships-new-products-d8953f77">wsj.com</a> | <a href="https://investor.lyft.com/news-events-presentations/press-releases/detail/210/lyft-reports-strong-q3-2026-results">investor.lyft.com</a></small></p><hr/><p>Lyft reported third-quarter revenue of $1.82 billion, an 8% year-over-year increase that fell short of analyst estimates of $1.92 billion. The company also reported a net loss of $0.03 per share, missing the anticipated profit of $0.20 per share.</p><p>The results were impacted by changes and settlements related to legal, tax, and regulatory reserves. Following the report, Lyft shares fell more than 8% in after-hours trading, even as the company achieved record levels of rides and gross bookings.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2019%2F10%2FLyft-active-riders-trend.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 07:51 UTC | #26633</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cyera Planning $800 Million Funding Round at $20 Billion Valuation</title>
-    <link href="https://www.theinformation.com/articles/cyeras-800-million-haul-shows-cyber-fever-broken" rel="alternate" />
-    <id>https://www.theinformation.com/articles/cyeras-800-million-haul-shows-cyber-fever-broken::v240</id>
-    <published>2026-11-06T00:21:00+00:00</published>
-    <updated>2026-11-06T00:21:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F22xmfoma%2Fproduction%2F4842081e50ed1f3853ca75dd4886c58782f36918-1920x1080.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/cyeras-800-million-haul-shows-cyber-fever-broken">theinformation.com</a></small></p><hr/><p>Cybersecurity startup Cyera is seeking a $20 billion valuation in a planned $800 million funding round led by Cyberstarts. This proposed valuation is a significant increase from the $12 billion valuation recorded in June.</p><p>The funding follows a $600 million Series G and a $400 million extension from Goldman Sachs earlier this year. The scale of the raise suggests sustained investor appetite for the cybersecurity sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F22xmfoma%2Fproduction%2F4842081e50ed1f3853ca75dd4886c58782f36918-1920x1080.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 07:33 UTC | #26629</small>]]></content>
   </entry>
 </feed>

@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Dreeze Secures $33 Million in Seed Funding for Cloud Application Recovery</h2>
+<p>Dreeze, an Israeli cloud recovery startup founded by the creators of Zerto, has raised $33 million in a seed funding round led by Norwest and Bessemer Venture Partners. The company develops technology designed to restore entire cloud applications and their dependencies—including infrastructure, configurations, and credentials—to ensure businesses can resume operations more effectively than traditional data-only backup systems.</p><p>Co-founded by Ziv and Oded Kedem and Avi Raichel, Dreeze currently employs approximately 70 people across Israel and the United States. Ziv Kedem previously co-founded Kashya and Zerto, the latter of which was acquired by Hewlett Packard Enterprise in 2021 for $374 million.</p>
+<p>Nov 10 · <a href="https://www.calcalistech.com/ctechnews/article/rkkeose0fe">calcalistech.com</a></p>
+<br clear="all" />
+
 <h2>Mercor Raises $750 Million in Series D Funding at $20 Billion Valuation</h2>
 <p>The AI training startup Mercor raised $750 million in a Series D funding round, valuing the company at $20 billion. This is an increase from its $10 billion valuation in October 2025.</p><p>Investors in the round include Benchmark, General Catalyst, and Nvidia.</p>
 <p>Nov 10 · <a href="https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/">reuters.com</a></p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-26638"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21QKkR%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59dba79-5521-45ad-8376-8c5e4d4f5de5_1536x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UK digital bank Monzo is exploring a new fundraising round targeting a valuation of roughly £7.5 billion. The shift comes after negotiations regarding a potential £10 billion acquisition by Brazil's Nubank collapsed and efforts to sell a stake to private equity groups stalled.</p><p>The neobank had previously weighed various buyout offers and major investments, but the breakdown of takeover talks has forced management to pivot toward securing traditional capital to fund its ongoing expansion plans.</p>
 <p>Nov 6 · <a href="https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a">ft.com</a></p>
-<br clear="all" />
-
-<h2>Lyft Reports Third-Quarter Revenue of $1.82B and Net Loss</h2>
-<a name="story-26633"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.news.alphastreet.com%2Fwp-content%2Fuploads%2F2019%2F10%2FLyft-active-riders-trend.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Lyft reported third-quarter revenue of $1.82 billion, an 8% year-over-year increase that fell short of analyst estimates of $1.92 billion. The company also reported a net loss of $0.03 per share, missing the anticipated profit of $0.20 per share.</p><p>The results were impacted by changes and settlements related to legal, tax, and regulatory reserves. Following the report, Lyft shares fell more than 8% in after-hours trading, even as the company achieved record levels of rides and gross bookings.</p>
-<p>Nov 6 · <a href="https://www.wsj.com/business/earnings/lyfts-bookings-rise-on-strength-in-partnerships-new-products-d8953f77">wsj.com</a> | <a href="https://investor.lyft.com/news-events-presentations/press-releases/detail/210/lyft-reports-strong-q3-2026-results">investor.lyft.com</a></p>
 <br clear="all" />
 
 ---

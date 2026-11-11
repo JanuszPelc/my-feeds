@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>New York Launches State AI Testing and Safety Training Program</h2>
+<p>Governor Kathy Hochul is establishing a state-level program to independently test artificial intelligence systems and train AI safety experts. The initiative is funded by $30 million from Bloomberg co-founder Tom Secunda alongside $25 million from New York state and SUNY.</p><p>The center is expected to launch before the RAISE Act takes effect on January 1, which will require AI companies in New York to submit safety frameworks for scrutiny. The program responds to a lack of federal AI safety safeguards and increasing concerns regarding AI model vulnerabilities.</p>
+<p>Nov 10 · <a href="https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713">politico.com</a> | <a href="https://news.ycombinator.com/item?id=50443606">hacker news</a></p>
+<br clear="all" />
+
 <h2>AI Companies Implement Guardrails Against AI-Powered Reverse Engineering</h2>
 <a name="story-27034"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-10-at-6.20.18-AM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Users attempting to use models like Anthropic’s Claude and OpenAI’s Codex for software decompilation are reporting account restrictions and safety blocks. These users have utilized AI to unbrick IoT devices, remove smart TV advertising, and install custom operating systems on old hardware, leading to bans for "cyber abuse" or warnings.</p><p>This trend reflects a growing friction between AI developers and hardware manufacturers as users leverage large language models to circumvent manufacturer-imposed constraints. While an OpenAI engineer described some blocks as accidental, the crackdown suggests the practice may shift toward open-weight and local models that lack centralized oversight.</p>
@@ -87,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-26890"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbritainherald.com%2Fwp-content%2Fuploads%2F2026%2F04%2FEU-Entry-Exit-System-border-delays-Imaage-Via-Zurich-Airport.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The European Union has filed a lawsuit in Estonia against IBM, French IT group Atos, and Italian contractor Leonardo over repeated delays in developing its Entry/Exit System. The technological setbacks and implementation failures associated with the smart border project have triggered widespread travel chaos and border congestion across member states.</p><p>The litigation highlights increasing institutional frustration over accountability and delivery timelines for major public-sector digital infrastructure. The automated border management system is designed to track non-EU travelers, but its rocky rollout has repeatedly disrupted transport networks and passenger processing.</p>
 <p>Nov 9 · <a href="https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301">ft.com</a></p>
-<br clear="all" />
-
-<h2>Chinese Media Dismisses Spy Claims Involving Nvidia CEO Jensen Huang</h2>
-<a name="story-26884"><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2Fb95d%2Flive%2Fc37c6b00-93b5-11f0-af04-cd07e8e3d1e7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Chinese media outlets have dismissed allegations linking Beijing to an espionage controversy involving Nvidia Corp. Chief Executive Officer Jensen Huang, rejecting reports from US media as fabricated narratives.</p><p>The commentary warned that propagating such unverified spy claims risks damaging bilateral trade relations and technological cooperation between the United States and China.</p>
-<p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
