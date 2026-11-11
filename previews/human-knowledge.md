@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <h2>Office for Students Warns AI Threatens University Coursework Assessment</h2>
 <a name="story-27138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fproofademic.ai%2Fwp-content%2Fuploads%2F2025%2F11%2Fai-detection-in-school-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>England’s higher education regulator, the Office for Students, warns that the widespread use of generative AI in essays and dissertations threatens the credibility of university degrees, making traditional coursework assessment nearly impossible.</p><p>Drawing on a joint investigation with Advance HE that surveyed over 300 students and staff, the regulator urges institutions to adopt traditional in-person exams, oral vivas, and process-based evaluations, warning that failing to address AI misuse could lead to regulatory sanctions.</p>
-<p>Nov 11 · <a href="https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator">theguardian.com</a></p>
+<p>Nov 11 · <a href="https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50458512">hacker news</a></p>
 <br clear="all" />
 
 <h2>Jaron Lanier: Silicon Valley Is Sabotaging Itself With A.I. Doom Rhetoric</h2>
