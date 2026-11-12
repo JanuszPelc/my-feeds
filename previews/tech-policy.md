@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>United Airlines to Block Personal AI Assistants from Booking Flights</h2>
 <a name="story-27199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2026%2F01%2FAI-Agent-Travel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The carrier intends to prevent automated agents from completing flight reservations, citing data privacy concerns and potential violations of FAA and DOT regulations. This decision is driven by a desire to avoid introducing unauthorized middlemen into the booking process.</p><p>The move highlights the growing tension between traditional service models and the rise of autonomous AI agents in consumer sectors. By restricting these bots, United aims to maintain direct oversight of the customer transaction and data security.</p>
-<p>Nov 11 · <a href="https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50456474">hacker news</a></p>
+<p>Nov 11 · <a href="https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50458900">hacker news</a></p>
 <br clear="all" />
 
 <h2>Nick Clegg Argues Silicon Valley&#x27;s Political Alignment with Trump Was a Miscalculation</h2>
