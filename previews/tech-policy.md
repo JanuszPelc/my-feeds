@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Jensen Huang Agrees to Testify Before Congress</h2>
+<a name="story-27301"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJensen-Huang.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Former Nvidia CEO Jensen Huang has agreed to testify before Congress by Thanksgiving. The decision follows threats of subpoenas from senior lawmakers after reports emerged regarding an alleged affair between Huang and a woman suspected of spying for China.</p><p>The briefing will take place behind closed doors but is expected to be recorded and transcribed. House Foreign Affairs Committee Chairman Brian Mast stated that while Nvidia is critical to the United States, Huang has "very serious questions to answer."</p>
+<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/">techcrunch.com</a></p>
+<br clear="all" />
+
+<h2>Singapore Claims Limited U.S. Cooperation in Alice Huang Investigation</h2>
+<a name="story-27287"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F12biz-Singapore-Alice-fmtb%2F12biz-Singapore-Alice-fmtb-superJumbo.jpg%3Fquality%3D75%26auto%3Davif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Singaporean authorities have reported that the United States provided minimal assistance during an investigation into Alice Huang, a central figure in a spy plot involving Nvidia CEO Jensen Huang. Huang was held by Singaporean officials from June 2025 to February 2026 due to suspected false declarations regarding her company, Megaspeed, but was ultimately released with a stern warning and a re-entry ban.</p><p>The government cited "limited cooperation" from the American server maker Supermicro, a supplier to Megaspeed, despite repeated requests for assistance. The statement further notes that Huang's passport was held long after President Trump was briefed on her alleged status as a Chinese intelligence asset.</p>
+<p>Nov 12 · <a href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50471621">hacker news</a></p>
+<br clear="all" />
+
 <h2>CFTC Approves Kalshi&#x27;s Perpetual Trades for Stocks and Cryptocurrencies</h2>
 <a name="story-27274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgoodmoneyguide.com%2Fwp-content%2Fuploads%2F2026%2F01%2FKalshi-15-Minute-Crypto-Markets.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Commodity Futures Trading Commission (CFTC) has authorized Kalshi to offer "perpetual trades," allowing customers to wager on the prices of individual stocks and cryptocurrencies without owning the underlying assets. These instruments permit traders to bet on price fluctuations, including shorting, without a requirement to settle the position by a specific date.</p><p>Major trading clearinghouses, including the Chicago Mercantile Exchange and Cboe Global Markets, have filed lawsuits against the CFTC in response to the decision. These organizations argue that the new trading permissions could expose investors to increased risks of market manipulation and insider trading.</p>
@@ -81,18 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2026%2F01%2FAI-Agent-Travel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The carrier intends to prevent automated agents from completing flight reservations, citing data privacy concerns and potential violations of FAA and DOT regulations. This decision is driven by a desire to avoid introducing unauthorized middlemen into the booking process.</p><p>The move highlights the growing tension between traditional service models and the rise of autonomous AI agents in consumer sectors. By restricting these bots, United aims to maintain direct oversight of the customer transaction and data security.</p>
 <p>Nov 11 · <a href="https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50458900">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nick Clegg Argues Silicon Valley&#x27;s Political Alignment with Trump Was a Miscalculation</h2>
-<a name="story-27198"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F694940094001%2F072e31ef-88a8-4c6a-9859-9b88d2027671%2F64b12713-5137-4f2b-a329-4ace255933a5%2F1280x720%2Fmatch%2F896%2F500%2Fimage.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nick Clegg contends that Silicon Valley's strategic pivot toward the Trump administration has failed to achieve its primary goals: maintaining AI supremacy over China, improving public sentiment toward artificial intelligence, and mitigating global regulatory pressure. He attributes this miscalculation to a "herd mentality" fueled by the influence of certain tech leaders, a desire for political retribution, and the tendency to apply tech-industry hype cycles to political realities.</p><p>China continues to close the AI technological gap despite the promised Washington-Silicon Valley alliance, domestic public opposition to AI has increased, and international markets are becoming more hostile toward American Big Tech. Clegg suggests that tech companies are better served by remaining non-partisan and building productive relationships with all future political leaders rather than attempting to influence election outcomes.</p>
-<p>Nov 11 · <a href="https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?gift=VELZukBv_TdFyvYot6GkvImUfy5VbhsFdb6Ml7MDXXU">theatlantic.com</a></p>
-<br clear="all" />
-
-<h2>Congress Prepares Subpoena for Nvidia CEO Jensen Huang Over Alleged Chinese Intelligence Ties</h2>
-<a name="story-27204"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJensen-Huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>House Republicans are preparing to subpoena Nvidia CEO Jensen Huang to testify regarding his reported relationship with an alleged Chinese intelligence asset. The potential subpoena follows an initial request sent by congressional committee chairmen asking Huang to appear for a joint, closed-door briefing.</p><p>Lawmakers have set a deadline for Huang to respond to the voluntary briefing request, after which formal subpoena procedures will advance. Nvidia has not yet issued a public response regarding the ongoing congressional inquiry into the matter.</p>
-<p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/">techcrunch.com</a> | <a href="https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset">foreignaffairs.house.gov</a></p>
 <br clear="all" />
 
 ---

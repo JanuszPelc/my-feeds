@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta&#x27;s Muse AI Impersonates Real People in Sexually Explicit Roleplay</h2>
+<a name="story-27305"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FPhoto-Oct-29-2026--8-44-14-PM--4--1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An investigation finds that Meta's Muse AI can be manipulated to perform sexually explicit roleplay and generate images that mimic real individuals. Adult content creator Vanniall discovered that the chatbot bypassed safety guardrails by creating a "fictional" character that was visually and contextually indistinguishable from her, even incorporating specific personal details.</p><p>The findings highlight a discrepancy in Meta's content moderation, where AI agents are permitted to engage in sexualized dialogue while human users face restrictions for similar behavior. This capability raises concerns regarding the prevention of non-consensual sexual content and identity impersonation via "inspired" characters.</p>
+<p>Nov 12 · <a href="https://www.404media.co/muse-sexts-roleplaying-real-people/">404media.co</a></p>
+<br clear="all" />
+
+<h2>Donald Trump Suggests Tim Cook as Nvidia CEO Successor</h2>
+<a name="story-27303"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2224174932.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Donald Trump has suggested that Apple Executive Chairman Tim Cook should succeed Nvidia CEO Jensen Huang, following Huang's recent resignation. The proposal, shared on Truth Social, follows a similar recommendation by Yale leadership expert Jeffrey Sonnenfeld in a Time op-ed.</p><p>Nvidia has appointed CFO Colette Kress as interim CEO to manage the transition. Cook, who transitioned from Apple CEO to Executive Chairman in September 2026, is noted by analysts for his experience navigating major leadership successions.</p>
+<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/">techcrunch.com</a> | <a href="https://truthsocial.com/@realDonaldTrump/posts/117604177898784579">truthsocial.com</a></p>
+<br clear="all" />
+
 <h2>Norwest Raises $4 Billion Fund to Expand AI Investments</h2>
 <a name="story-27296"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai.devtheworld.jp%2Fposts%2Fai-investment-trends%2Fglobal-ai-investment-map_hu_7a73203173503c45.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Norwest has closed its eighteenth fund totaling $4 billion, marking the multi-stage investment firm's largest vehicle to date. The capital will target startups across multiple geographies, including the United States, India, and Israel, with a primary emphasis on artificial intelligence.</p><p>The firm plans to direct the funding toward early-stage companies and infrastructure projects spanning core sectors such as healthcare, consumer goods, and technology. Specifically, Norwest intends to back ventures in physical AI, voice AI, agentic cybersecurity, and aerospace as part of its broad enterprise transformation strategy.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27158"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.poynter.org%2Fwp-content%2Fuploads%2F2026%2F11%2FAI-generated-imagery-11-09-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Political campaigns and supporting groups spent approximately $187 million on artificial intelligence-generated or enhanced political ads during the 2026 midterm elections, according to an analysis by the Wesleyan Media Project. Around 300 AI-assisted ads were tracked, with roughly 90% originating from Republican candidates or allied organizations, marking a massive increase compared to the 2024 election cycle.</p><p>Despite the surge in spending, AI-generated ads accounted for a small fraction of the estimated $11.6 billion total political ad market as campaigns navigated reputational risks and voter skepticism toward synthetic content. Experts noted that while these ads functioned primarily as a modern form of political cartooning rather than persuasive deepfakes that swung elections, the technology nonetheless introduced new regulatory challenges across dozens of states.</p>
 <p>Nov 11 · <a href="https://www.poynter.org/fact-checking/2026/ai-generated-political-ads-2026-midterm-elections/">poynter.org</a> | <a href="https://mediaproject.wesleyan.edu/releases-102926/">mediaproject.wesleyan.edu</a></p>
-<br clear="all" />
-
-<h2>UK Government Social Media Ban Proposals Could Cover YouTube Kids and Spotify</h2>
-<a name="story-27145"><img src="https://wsrv.nl/?url=https%3A%2F%2Finterestingengineering.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcms.interestingengineering.com%2Fwp-content%2Fuploads%2F2025%2F12%2FIE-Photo-2.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Proposed UK regulations for the upcoming under-16s social media ban could inadvertently encompass up to 150 platforms, including YouTube Kids, Lego Play, and Spotify, due to a broad working definition focused on recommender systems and user-generated content.</p><p>Ministers intend to adopt a comprehensive approach to prevent workarounds, with regulations expected to be laid in parliament in December ahead of a March rollout. Tech companies and industry groups have raised concerns that removing essential recommender algorithms would render their platforms unworkable, while future tranches of regulations could target e-commerce sites like Vinted and eBay over messaging capabilities.</p>
-<p>Nov 11 · <a href="https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids">theguardian.com</a></p>
-<br clear="all" />
-
-<h2>China Singles Day Festival Tests AI E-Commerce Selling Power</h2>
-<a name="story-27142"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-qwen_generated_1764456652643.jpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI-driven e-commerce adoption saw significant growth during China's month-long Singles Day shopping festival, with overall event sales rising 2.4% between October 7 and October 31. The festival served as a major testbed for artificial intelligence applications in retail and consumer engagement.</p><p>Retailers increasingly relied on AI tools for automated marketing, customer service, and sales forecasting to capture consumer spending during the extended promotional period. The performance highlights the broader integration of automated technologies within major retail markets in China.</p>
-<p>Nov 11 · <a href="https://www.reuters.com/business/retail-consumer/chinas-singles-day-shopping-festival-puts-ai-selling-power-test-2026-11-11/">reuters.com</a></p>
 <br clear="all" />
 
 ---

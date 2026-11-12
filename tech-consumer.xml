@@ -3,9 +3,27 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-12T00:46:00+00:00</updated>
+  <updated>2026-11-12T15:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Google and Samsung Launch Android XR Smart Glasses With Warby Parker and Gentle Monster</title>
+    <link href="https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/" rel="alternate" />
+    <id>https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/::v240</id>
+    <published>2026-11-12T15:53:00+00:00</published>
+    <updated>2026-11-12T15:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af47aa0e19a3e976bf95d8a%2F1%3A1%2Fw_2560%252Cc_limit%2FDSC_0094.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/">wired.com</a></small></p><hr/><p>Google and Samsung have launched their collaborative Intelligent Eyewear powered by the Android XR platform, with design and retail support from Warby Parker and Gentle Monster. Preorders are open now starting at $395 for Warby Parker frames and $449 for Gentle Monster designs, with general sales beginning December 10.</p><p>The hardware weighs 41 grams and features a 12-megapixel camera, a nine-hour battery life, and integration with the Gemini assistant via the new "Hey Gemini" hotword. Initially compatible only with select Google Pixel, Samsung Galaxy, and iPhone models, the glasses incorporate various privacy safeguards—such as automatic face redaction and camera recording limits—while future iterations featuring built-in lens displays remain in development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af47aa0e19a3e976bf95d8a%2F1%3A1%2Fw_2560%252Cc_limit%2FDSC_0094.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 21:47 UTC | #27282</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple HomeView Smart Display Review</title>
+    <link href="https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit" rel="alternate" />
+    <id>https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit::v240</id>
+    <published>2026-11-12T15:52:00+00:00</published>
+    <updated>2026-11-12T15:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F268864_Smart_home_photos_HMCRAE71.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C16.642156862745%252C100%252C66.71568627451%26w%3D2400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/">apple.com</a></small></p><hr/><p>Apple's HomeView is a 7-inch smart display that functions as an Apple Home hub featuring integrated Siri AI and a Center Stage camera. The device provides smart home control through Thread and Matter support, offers hands-free kitchen assistance, and can serve as a communal extension of an iPhone for accessing messages, calendars, and reminders.</p><p>While the display provides high-quality audio and responsive smart home management, it presents privacy concerns due to the ease with which personal iPhone data can be accessed on a shared device. Additionally, the hardware lacks physical volume and mute buttons, relying entirely on the touchscreen or linked mobile devices for adjustments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F268864_Smart_home_photos_HMCRAE71.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C16.642156862745%252C100%252C66.71568627451%26w%3D2400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 21:46 UTC | #27283</small>]]></content>
+  </entry>
   <entry>
     <title>Roku Exits Smart Home Business to Focus on Core Streaming</title>
     <link href="https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business" rel="alternate" />
