@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Voltage Glitching Unlocks NVIDIA A100 Features on CMP 170HX Mining Card</h2>
+<a name="story-27225"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.lavx.hu%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnews.lavx.hu%2Fapi%2Fmedia%2Ffile%2Fkate-uses-voltage-glitching-to-turn-a-cmp-170hx-mining-card-into-an-a100-class-gpu_gen_1794401363792-1200x630.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A voltage fault injection vulnerability discovered in the NVIDIA GA100 die allows operators to blow arbitrary fuses, enabling the conversion of CMP 170HX mining cards into A100-class GPUs. This process unlocks additional streaming multiprocessors (SMs), expands framebuffer capacity to up to 80GB, and enables restricted features including NVLink, PCIe Gen4, and Multi-Instance GPU (MIG) support.</p><p>The exploit targets "fuseless fuses" within the GA100 fuse controller that can be rewritten to bypass product segmentation. Unlocked cards have demonstrated performance approximately 1.2 times faster than retail A100 models by enabling all functional SMs on the die. The findings were disclosed to NVIDIA's product security team prior to publication.</p>
+<p>Nov 11 · <a href="https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/">blog.kate.land</a> | <a href="https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50451903">hacker news</a></p>
+<br clear="all" />
+
 <h2>IBM Quantum Announces Nighthawk r3 Processor</h2>
 <p>IBM announced the Nighthawk r3 quantum processor, designed to perform up to 10,000 operations using 520 programmable qubits and 2,034 physical quantum components. This architecture utilizes high-speed qubit reset technology to reduce qubit priming times from 200 milliseconds to approximately 25 nanoseconds.</p><p>IBM plans to link two r3 processors in 2027 to create a system capable of exceeding 1,000 qubits. The IBM Quantum Platform will also integrate quantum workflows with high-performance classical computing resources and provide pulse-level access to facilitate advanced quantum error correction.</p>
 <p>Nov 11 · <a href="https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/">siliconangle.com</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Hackers Use NEAR Memecoins to Launder $430,000 from Binance Heist</h2>
 <p>Hackers responsible for the $6.3 billion Binance heist used at least six memecoins on the NEAR blockchain to launder approximately $430,000 in stolen cryptocurrency. Blockchain analysis firm Elliptic reported that the attackers created these disposable tokens and liquidity pools to obscure the movement of funds.</p><p>The laundering operation involved moving roughly 117,000 NEAR tokens. This tactic reflects a broader trend where attackers utilize various blockchain networks, such as Tron and Solana, to move illicit proceeds from large-scale crypto thefts.</p>
 <p>Nov 9 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto">bloomberg.com</a> | <a href="https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/">elliptic.co</a></p>
-<br clear="all" />
-
-<h2>French Officials Suspect Iran&#x27;s Revolutionary Guards of Hacking Commercial Refrigerators</h2>
-<a name="story-26942"><img src="https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F66kk9kpTURBXy81ZTdiODE3OTlkYmNkYmVkM2YyOThjMDk3OTc4OTBlMy5qcGeSlQMAPs0H0M0EZZMFzQSwzQJY3gABoTAB&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Iranian Revolutionary Guards are suspected of orchestrating cyberattacks that disabled commercial refrigerators and freezers across France in October. French officials issued the accusation following an investigation into the widespread cooling system failures.</p><p>The disruptions targeted infrastructure essential to the food supply chain. This incident follows a pattern of cyber provocations attributed to Iranian-linked entities targeting European interests.</p>
-<p>Nov 9 · <a href="https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50427517">hacker news</a></p>
 <br clear="all" />
 
 ---

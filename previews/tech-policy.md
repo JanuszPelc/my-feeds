@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>United Airlines to Block Personal AI Assistants from Booking Flights</h2>
+<a name="story-27199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2026%2F01%2FAI-Agent-Travel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The carrier intends to prevent automated agents from completing flight reservations, citing data privacy concerns and potential violations of FAA and DOT regulations. This decision is driven by a desire to avoid introducing unauthorized middlemen into the booking process.</p><p>The move highlights the growing tension between traditional service models and the rise of autonomous AI agents in consumer sectors. By restricting these bots, United aims to maintain direct oversight of the customer transaction and data security.</p>
+<p>Nov 11 · <a href="https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50456474">hacker news</a></p>
+<br clear="all" />
+
 <h2>Nick Clegg Argues Silicon Valley&#x27;s Political Alignment with Trump Was a Miscalculation</h2>
 <a name="story-27198"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F694940094001%2F072e31ef-88a8-4c6a-9859-9b88d2027671%2F64b12713-5137-4f2b-a329-4ace255933a5%2F1280x720%2Fmatch%2F896%2F500%2Fimage.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nick Clegg contends that Silicon Valley's strategic pivot toward the Trump administration has failed to achieve its primary goals: maintaining AI supremacy over China, improving public sentiment toward artificial intelligence, and mitigating global regulatory pressure. He attributes this miscalculation to a "herd mentality" fueled by the influence of certain tech leaders, a desire for political retribution, and the tendency to apply tech-industry hype cycles to political realities.</p><p>China continues to close the AI technological gap despite the promised Washington-Silicon Valley alliance, domestic public opposition to AI has increased, and international markets are becoming more hostile toward American Big Tech. Clegg suggests that tech companies are better served by remaining non-partisan and building productive relationships with all future political leaders rather than attempting to influence election outcomes.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Cubist Accuses Former Analyst of Stealing Code Using AI</h2>
 <p>Cubist, the quantitative trading arm of Point72 Asset Management, has filed a lawsuit alleging a former lead research analyst used AI tools to steal proprietary source code. The complaint claims the analyst utilized Anthropic's Claude and OpenAI's Codex to misappropriate company intellectual property before moving to a competitor.</p><p>The litigation highlights the risks large language models pose to corporate data security in the financial sector. The case examines how generative artificial intelligence can be leveraged to facilitate the unauthorized transfer of sensitive technical assets.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>New York Launches State AI Testing and Safety Training Program</h2>
-<p>Governor Kathy Hochul is establishing a state-level program to independently test artificial intelligence systems and train AI safety experts. The initiative is funded by $30 million from Bloomberg co-founder Tom Secunda alongside $25 million from New York state and SUNY.</p><p>The center is expected to launch before the RAISE Act takes effect on January 1, which will require AI companies in New York to submit safety frameworks for scrutiny. The program responds to a lack of federal AI safety safeguards and increasing concerns regarding AI model vulnerabilities.</p>
-<p>Nov 10 · <a href="https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713">politico.com</a> | <a href="https://news.ycombinator.com/item?id=50443606">hacker news</a></p>
 <br clear="all" />
 
 ---
