@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Yamaha Releases Vocaloid7</h2>
+<a name="story-27266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvocaloid7-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Vocaloid7, the first major update to Yamaha's vocal synthesis software in four years, features an enhanced Vocaloid:AI engine for more natural expression. The update also introduces a "Voice Type" feature, allowing users to switch between different vocal characteristics within a single Voice Bank.</p><p>The software includes the "asa" voicebank and offers enhanced integration with Cubase, enabling note and lyric input directly within the Cubase Key Editor. It is available for macOS and Windows in standalone, VST3, AU, and ARA2 formats, with upgrade paths available for users of Vocaloid3 through Vocaloid6.</p>
+<p>Nov 12 · <a href="https://www.kvraudio.com/news/yamaha-releases-vocaloid7-69778?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69778">kvraudio.com</a> | <a href="https://www.vocaloid.com/en">vocaloid.com</a></p>
+<br clear="all" />
+
 <h2>Drops Music-Sharing App Enters Preview on iOS and Android</h2>
 <a name="story-27257"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDrops-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Drops is a music-sharing application designed to facilitate the sharing of 30-second song snippets paired with visual content. Developed by HARMAN, the platform utilizes a vast music library through licensing agreements with Universal Music Group, Beggars Group, Symphonic Distribution, EMPIRE, and UnitedMasters.</p><p>The app focuses on social discovery, allowing users to follow others and view feeds of human-curated music recommendations. It is currently available in preview mode on both iOS and Android platforms.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpreamble-ui-light.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reasonable Audio has released Preamble, a free preamp distortion plug-in modeled after the input stage of a bucket-brigade delay pedal. Available in VST3, AU, CLAP, and AAX formats for Windows, macOS, and Linux, the software is designed to shape audio dynamics and add saturation prior to subsequent processing stages.</p><p>Developed using neural models trained on the original hardware, Preamble features adjustable input-driven saturation and compression, autogain, low-cut and high-cut filters, a dry/wet mix control, and selectable oversampling. An iOS version in AUv3 format is planned for release at a later date.</p>
 <p>Nov 11 · <a href="https://www.kvraudio.com/news/reasonable-audio-releases-preamble---free-preamp-distortion-plug-in-aax-au-clap-and-vst3-69753?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69753">kvraudio.com</a> | <a href="https://reasonableaudio.com/preamble">reasonableaudio.com</a></p>
-<br clear="all" />
-
-<h2>UVI Releases Twin 88 Keys Acoustic and Electric Piano Instrument</h2>
-<a name="story-27135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin88keys_bannerkvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>UVI has released Twin 88 Keys, a virtual instrument combining a concert grand piano and a vintage electric piano into a single interface. The grand piano is based on a CFX recorded in California, while the electric piano was sampled in Paris across its full dynamic range.</p><p>Players can combine the two instruments using velocity blending, keyboard splits, tone blending, or continuous crossfading. Each piano features independent microphone controls, filters, EQ, modulation, and effects processing, alongside support for the free UVI Player and Falcon software.</p>
-<p>Nov 11 · <a href="https://www.kvraudio.com/news/uvi-releases-twin-88-keys---acoustic-and-electric-piano-together-69739?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69739">kvraudio.com</a> | <a href="https://www.uvi.net/twin-88-keys">uvi.net</a></p>
 <br clear="all" />
 
 ---

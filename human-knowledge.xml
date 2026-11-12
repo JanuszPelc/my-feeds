@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-12T06:56:00+00:00</updated>
+  <updated>2026-11-12T11:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>UK Scientists Assist MMX Mission with Phobos Soil Sampling</title>
+    <link href="https://theconversation.com/how-uk-scientists-are-helping-the-mmx-space-mission-grab-the-best-sample-of-soil-from-mars-moon-phobos-295329" rel="alternate" />
+    <id>https://theconversation.com/how-uk-scientists-are-helping-the-mmx-space-mission-grab-the-best-sample-of-soil-from-mars-moon-phobos-295329::v240</id>
+    <published>2026-11-12T11:49:00+00:00</published>
+    <updated>2026-11-12T11:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F768934%2Foriginal%2Ffile-20261028-52-vw1274.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/how-uk-scientists-are-helping-the-mmx-space-mission-grab-the-best-sample-of-soil-from-mars-moon-phobos-295329">theconversation.com</a></small></p><hr/><p>The Japanese Martian Moons Exploration (MMX) mission aims to determine whether Mars' moon Phobos originated as a captured asteroid or from debris produced by a giant impact on Mars. UK scientists are conducting laboratory experiments using light-gas guns to simulate space impacts, assisting in the interpretation of soil samples the spacecraft will collect.</p><p>These simulations investigate how material from Mars or other asteroids might deposit on Phobos' surface. By modeling crater formation and material deposition across various impact velocities, researchers hope to identify exogenous material to help distinguish between competing origin theories.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F768934%2Foriginal%2Ffile-20261028-52-vw1274.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 17:04 UTC | #27272</small>]]></content>
+  </entry>
   <entry>
     <title>Radical Numerics Launches Omnii Defense to Identify Pathogens</title>
     <link href="https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/" rel="alternate" />
