@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>House House Discloses AI Use in Big Walk Development</h2>
 <a name="story-27153"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheoutpost.ai%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_545603_big_walk_house_house_1794312350711_807a1bb8a5.jpg%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer House House has revealed that it used large language models sparingly during the final stages of developing Big Walk, sparking intense debate among Independent Games Festival jurors. The studio stated that LLMs accounted for well under 0.1% of the game's code and were exclusively used to help troubleshoot difficult technical bugs and third-party code issues.</p><p>While acknowledging that the disclosure might contribute to the normalization of generative AI, House House defended the tool's limited implementation to solve an otherwise intractable Unity rendering problem. The studio also noted that the game was developed without an internal AI usage policy, admitting that this lack of oversight was a failure it intends to address in the future.</p>
-<p>Nov 11 · <a href="https://aftermath.site/big-walk-ai-igf-jurors-controversy/">aftermath.site</a></p>
+<p>Nov 11 · <a href="https://aftermath.site/big-walk-ai-igf-jurors-controversy/">aftermath.site</a> | <a href="https://news.ycombinator.com/item?id=50457469">hacker news</a></p>
 <br clear="all" />
 
 <h2>Helsing Launches Clarity Intelligence Platform</h2>

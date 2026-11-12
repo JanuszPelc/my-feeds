@@ -3,9 +3,27 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-11T12:33:00+00:00</updated>
+  <updated>2026-11-12T00:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>VulnCheck Analyzes Seven-Month Results of Anthropic Project Glasswing</title>
+    <link href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update" rel="alternate" />
+    <id>https://www.vulncheck.com/blog/anthropic-glasswing-november-update::v240</id>
+    <published>2026-11-12T00:06:00+00:00</published>
+    <updated>2026-11-12T00:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQEt51Q4QgPFTg%2Farticle-cover_image-shrink_720_1280%2FB56Z1u_hv5JkAM-%2F0%2F1775683644454%3Fe%3D2147483647%26v%3Dbeta%26t%3DRk2o8Qn543Sta5eb8oE0oBXTIk0hCbEGklNf1Qsk5S4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update">vulncheck.com</a> | <a href="https://news.ycombinator.com/item?id=50447074">hacker news</a></small></p><hr/><p>Seven months after the launch of Anthropic's Project Glasswing, security firm VulnCheck has tracked 442 CVEs attributable to the initiative, representing roughly 0.5% of all CVEs published in 2026. Only two of these findings have been identified as exploited in the wild, while Anthropic's public vulnerability ledger shows high numbers of unverified findings, duplicates, and withdrawals alongside stalled remediation fixes.</p><p>The analysis notes that Anthropic's shift toward an automated open-source software scanner has largely moved the triage burden onto open-source maintainers. Recent vulnerability batches sent to the curl project yielded a high proportion of false positives or low-severity issues, raising questions about the accuracy and practical utility of model-generated security reports.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQEt51Q4QgPFTg%2Farticle-cover_image-shrink_720_1280%2FB56Z1u_hv5JkAM-%2F0%2F1775683644454%3Fe%3D2147483647%26v%3Dbeta%26t%3DRk2o8Qn543Sta5eb8oE0oBXTIk0hCbEGklNf1Qsk5S4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 11:07 UTC | #27141 | r,hd</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google DeepMind Uses AI Tool AlphaProof Code to Formally Verify Signal Protocol</title>
+    <link href="https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/" rel="alternate" />
+    <id>https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/::v240</id>
+    <published>2026-11-12T00:06:00+00:00</published>
+    <updated>2026-11-12T00:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwp.doc.ic.ac.uk%2Fcheddarhub%2Fwp-content%2Fuploads%2Fsites%2F168%2FResearchers-present-the-use-of-formal-verification-in-security-protocols-and-O-RAN-at-SEFM24-DataMod24-and-IRC-CSS-1536x563.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50439193">hacker news</a></small></p><hr/><p>Google DeepMind researchers have used a new agentic AI framework called AlphaProof Code to formally verify key cryptographic guarantees of the Signal messaging protocol. Conducted as a four-week proof-of-concept project, the evaluation independently validated the encryption used across major communication platforms like Signal, Google Messages, and WhatsApp without discovering any new vulnerabilities.</p><p>While the tool successfully identified known vulnerabilities in older protocol versions, researchers and industry experts emphasize that scaling AI-driven formal verification to entire software codebases remains a significant challenge. DeepMind is releasing the specifications and proofs developed during the project to support broader cryptographic security efforts, though the commercial viability and costs of the technology are not yet clear.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwp.doc.ic.ac.uk%2Fcheddarhub%2Fwp-content%2Fuploads%2Fsites%2F168%2FResearchers-present-the-use-of-formal-verification-in-security-protocols-and-O-RAN-at-SEFM24-DataMod24-and-IRC-CSS-1536x563.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 19:10 UTC | #27016 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>New York Implements AI Safety and Transparency Mandates for Large Developers</title>
     <link href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/" rel="alternate" />
