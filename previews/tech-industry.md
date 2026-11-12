@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Agile Robots Raises $500 Million in SoftBank-Led Funding Round</h2>
+<a name="story-27246"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiVij4XaG1fOo%2Fv1%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Munich-based robotics maker Agile Robots has raised $500 million in a funding round led by SoftBank Group, bringing its valuation to $8.5 billion. The company specializes in developing humanoids, mobile robots, robotic arms, and proprietary control software.</p><p>The investment highlights SoftBank's continued financial backing of artificial intelligence and robotics hardware development. Agile Robots previously secured notable venture funding, including a $220 million Series C round, to expand its commercial deployment and technological infrastructure globally.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/softbank-backs-agile-robots-in-500-million-humanoid-push">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>TechCrunch Evaluates Potential Successors for Nvidia CEO Jensen Huang</h2>
 <a name="story-27230"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvisionarycios.com%2Fwp-content%2Fuploads%2F2026%2F02%2FV-CIO-Nvidia-CEO-Jensen-Huang-Says-AI-Will-Not-Replace-Software-or-Jobs-Source-bloomberg.com-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amid mounting scrutiny surrounding Nvidia CEO Jensen Huang and an absence of a formal succession plan, industry observers have begun speculating on potential replacements for the chipmaker's long-serving leader. The leadership uncertainty follows recent reports detailing executive controversies and investigations into the company's inner circle.</p><p>Potential candidates discussed range from external semiconductor executives like AMD CEO Lisa Su and Intel’s Lip-Bu Tan to internal engineering leaders such as Nvidia hardware vice president Ian Buck. While some commentators have suggested alternative figures or insiders, the lack of an obvious designated successor highlights key-person risks for one of the world's most valuable technology companies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27104"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-6sL%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F8be609d0-ed10-464c-8b94-d052d45956da_2912x1940.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lenny Rachitsky’s late 2026 tech job market report, utilizing data from TrueUp and Live Data Technologies, reveals divergent trends across core tech roles, marked by rising product manager openings, stalling engineering demand, and record-low design positions.</p><p>The analysis highlights that artificial intelligence proficiency, specifically large language models, has become a top requirement in job descriptions, while specialized roles like forward-deployed engineers surge and geographic concentration shifts heavily toward the Bay Area as remote positions decline.</p>
 <p>Nov 11 · <a href="https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late">lennysnewsletter.com</a></p>
-<br clear="all" />
-
-<h2>NSA and US Cyber Command Face Congressional Scrutiny Over Employee Suicides</h2>
-<a name="story-27091"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsmarthernews.com%2Fwp-content%2Fuploads%2F2024%2F02%2FIMG_3756.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>At least 11 National Security Agency and US Cyber Command employees died by suicide in the 12 months leading up to September, prompting inquiries from the White House and Congress.</p><p>The deaths have triggered scrutiny regarding agency culture and the availability of mental health resources for intelligence personnel. Congressional oversight is expected to examine the circumstances of the deaths and the welfare of agency staff.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/more-suicides-at-spy-cyber-agencies-scrutinized-by-congress">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
