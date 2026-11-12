@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Tim Peters, Python Contributor and Author of the Zen of Python, Dies</h2>
+<a name="story-27228"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-blog.adafruit.com%2Fuploads%2F2026%2F11%2Ftim-peters-has-died-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tim Peters, a central figure in the Python programming community and author of the "Zen of Python" (PEP 20), died on July 15, 2026. He was a key contributor to the language's early design and core development, working closely with creator Guido van Rossum.</p><p>Peters also designed the Timsort sorting algorithm, which has been adopted by Java and Android. He served as a director of the Python Software Foundation from 2001 to 2014 and was widely recognized for his technical expertise and mentorship within the Python community.</p>
+<p>Nov 11 · <a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">discuss.python.org</a> | <a href="https://www.bratleyfamilyfuneralhomes.com/obituary/timothy-peters">bratleyfamilyfuneralhomes.com</a> | <a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50450488">hacker news</a></p>
+<br clear="all" />
+
 <h2>Daniel Stenberg Marks 30 Years of Internet Transfers With Curl</h2>
 <a name="story-27178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.star-history.com%2Fog%3Frepos%3Dcurl%2Fcurl&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Daniel Stenberg reflects on the 30-year history of curl, which began on November 11, 1996, when Brazilian student Rafael Sagula published a basic HTTP download tool called httpget. Stenberg took over maintenance of the software, expanded its protocol support, renamed it to cURL, and introduced libcurl in 2000 to allow other programs to handle internet transfers.</p><p>Over the decades, curl has evolved from a hobby project powering an IRC currency bot into a cornerstone of global internet infrastructure, running in an estimated 30 billion installations. Stenberg attributes the project's longevity to continuous code refactoring, strict backward compatibility, and an independent open-source model.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27068"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshkspr.mobi%2Fblog%2Fwp-content%2Fuploads%2F2026%2F11%2FBandwidth.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Terence Eden created a lightweight bot-blocking system called B6 that significantly reduced automated scraping traffic on his website, OpenBenches.org. The tool combines a hidden honeypot link with server-level configuration rules to automatically log and permanently block the IP addresses of any automated crawlers that access the restricted path.</p><p>B6 operates by embedding a hidden link into every page and updating the site's .htaccess file to deny future access from triggering IP addresses. While the blunt approach successfully dropped daily bandwidth usage and caught hundreds of bots within a week, the author notes potential limitations, including the risk of blocking innocent users if IP addresses are reassigned or if crawlers rapidly rotate addresses.</p>
 <p>Nov 10 · <a href="https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/">shkspr.mobi</a> | <a href="https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50435925">hacker news</a></p>
-<br clear="all" />
-
-<h2>USPS Provides National ZIP Code Boundary Data on PostalPro</h2>
-<a name="story-26996"><img src="https://wsrv.nl/?url=https%3A%2F%2Fadamsprintablemap.net%2Fwp-content%2Fuploads%2F2022%2F09%2Fusps-zip-code-map-by-state-printable-map-768x526.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>USPS ZIP Code Boundaries is a national mapping dataset that utilizes delivery address and location information to provide accurate geographic boundaries. The data reflects temporal fluctuations caused by changing delivery distribution for new or modified locations.</p><p>Offered through PostalPro in Internal, Enterprise, and Publication tiers with four quarterly updates, the dataset serves industries such as mapping, real estate, logistics, and insurance. It enables users to incorporate polygon data for demographic analysis, optimize routing, and update existing geographic information systems.</p>
-<p>Nov 10 · <a href="https://postalpro.usps.com/zcb">postalpro.usps.com</a> | <a href="https://news.ycombinator.com/item?id=50431058">hacker news</a></p>
 <br clear="all" />
 
 ---

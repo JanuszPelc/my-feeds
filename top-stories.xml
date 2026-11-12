@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-12T00:06:00+00:00</updated>
+  <updated>2026-11-12T03:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Tim Peters, Python Contributor and Author of the Zen of Python, Dies</title>
+    <link href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028" rel="alternate" />
+    <id>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028::v240</id>
+    <published>2026-11-12T03:06:00+00:00</published>
+    <updated>2026-11-12T03:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn-blog.adafruit.com%2Fuploads%2F2026%2F11%2Ftim-peters-has-died-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">discuss.python.org</a> | <a href="https://www.bratleyfamilyfuneralhomes.com/obituary/timothy-peters">bratleyfamilyfuneralhomes.com</a> | <a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50450488">hacker news</a></small></p><hr/><p>Tim Peters, a central figure in the Python programming community and author of the "Zen of Python" (PEP 20), died on July 15, 2026. He was a key contributor to the language's early design and core development, working closely with creator Guido van Rossum.</p><p>Peters also designed the Timsort sorting algorithm, which has been adopted by Java and Android. He served as a director of the Python Software Foundation from 2001 to 2014 and was widely recognized for his technical expertise and mentorship within the Python community.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-blog.adafruit.com%2Fuploads%2F2026%2F11%2Ftim-peters-has-died-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 03:02 UTC | #27228 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>VulnCheck Analyzes Seven-Month Results of Anthropic Project Glasswing</title>
     <link href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update" rel="alternate" />
