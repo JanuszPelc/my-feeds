@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-12T16:26:00+00:00</updated>
+  <updated>2026-11-12T17:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Hugging Face CEO Clément Delangue Vows to Support Open-Source AI After Jensen Huang's Departure</title>
+    <link href="https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/::v240</id>
+    <published>2026-11-12T17:37:00+00:00</published>
+    <updated>2026-11-12T17:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fcouples-hugging-pictures-9oj4exqccftul95f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50471673">hacker news</a></small></p><hr/><p>Hugging Face CEO Clément Delangue has pledged to continue advocating for open-source AI following the departure of Nvidia CEO Jensen Huang. This commitment comes as Nvidia's pending $12.9 billion acquisition of Hugging Face remains scheduled to close in the first half of 2027.</p><p>Huang was a prominent supporter of open-weight models, leading to industry concerns about the platform's future direction under Nvidia's leadership. The acquisition is currently facing antitrust scrutiny from the U.S. Department of Justice regarding its potential impact on competition within the AI market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fcouples-hugging-pictures-9oj4exqccftul95f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 23:28 UTC | #27316</small>]]></content>
+  </entry>
+  <entry>
+    <title>Firms Linked to Alice Huang Invest in DeepSeek to Secure Nvidia Blackwell Chips</title>
+    <link href="https://www.theinformation.com/articles/alice-huangs-companies-invested-deepseek-promising-nvidia-chips" rel="alternate" />
+    <id>https://www.theinformation.com/articles/alice-huangs-companies-invested-deepseek-promising-nvidia-chips::v240</id>
+    <published>2026-11-12T17:33:00+00:00</published>
+    <updated>2026-11-12T17:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1WYf0r.img%3Fw%3D1024%26h%3D683%26m%3D4%26q%3D81&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/alice-huangs-companies-invested-deepseek-promising-nvidia-chips">theinformation.com</a></small></p><hr/><p>Investments from companies tied to Alice Huang aim to facilitate the delivery of Nvidia's Blackwell chips to DeepSeek. These advanced AI semiconductors are currently prohibited from being sold to China under U.S. export restrictions.</p><p>The move is part of an effort to secure high-performance hardware for DeepSeek's AI operations through indirect channels. This follows allegations that Huang, an alleged Chinese spy, had a romantic relationship with former Nvidia CEO Jensen Huang.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1WYf0r.img%3Fw%3D1024%26h%3D683%26m%3D4%26q%3D81&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 23:20 UTC | #27298</small>]]></content>
+  </entry>
   <entry>
     <title>Meta's Muse AI Impersonates Real People in Sexually Explicit Roleplay</title>
     <link href="https://www.404media.co/muse-sexts-roleplaying-real-people/" rel="alternate" />
