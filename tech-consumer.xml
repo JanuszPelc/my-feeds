@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-11T19:16:00+00:00</updated>
+  <updated>2026-11-12T00:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Roku Exits Smart Home Business to Focus on Core Streaming</title>
+    <link href="https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business" rel="alternate" />
+    <id>https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business::v240</id>
+    <published>2026-11-12T00:46:00+00:00</published>
+    <updated>2026-11-12T00:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F10%2Froku-smart-home-app.jpg%3Fq%3D50%26fit%3Dcrop%26w%3D825%26dpr%3D1.5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business">lowpass.cc</a></small></p><hr/><p>Streaming device manufacturer Roku is discontinuing its smart home hardware line, winding down sales while maintaining ongoing support and services for existing devices. A company spokesperson confirmed the shift as part of a renewed focus on its core streaming platform.</p><p>The decision follows months of declining inventory on the company's website and coincides with the closing of Fox's acquisition of Roku. Remaining items, such as indoor cameras and video doorbells, have been marked down as special offers or routed through surplus asset liquidators.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F10%2Froku-smart-home-app.jpg%3Fq%3D50%26fit%3Dcrop%26w%3D825%26dpr%3D1.5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 08:06 UTC | #27224</small>]]></content>
+  </entry>
   <entry>
     <title>PlayStation 5 Reaches 100 Million Units Shipped</title>
     <link href="https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles" rel="alternate" />

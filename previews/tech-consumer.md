@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Roku Exits Smart Home Business to Focus on Core Streaming</h2>
+<a name="story-27224"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F10%2Froku-smart-home-app.jpg%3Fq%3D50%26fit%3Dcrop%26w%3D825%26dpr%3D1.5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Streaming device manufacturer Roku is discontinuing its smart home hardware line, winding down sales while maintaining ongoing support and services for existing devices. A company spokesperson confirmed the shift as part of a renewed focus on its core streaming platform.</p><p>The decision follows months of declining inventory on the company's website and coincides with the closing of Fox's acquisition of Roku. Remaining items, such as indoor cameras and video doorbells, have been marked down as special offers or routed through surplus asset liquidators.</p>
+<p>Nov 12 · <a href="https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business">lowpass.cc</a></p>
+<br clear="all" />
+
 <h2>PlayStation 5 Reaches 100 Million Units Shipped</h2>
 <a name="story-27200"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte4c604a2b857d10c%2F69c67f33e4404f7a8b748017%2FPS5_Header.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>As of November 10, 2026, PlayStation 5 shipments have exceeded 100 million units, according to Sony Interactive Entertainment's official sales data.</p><p>This achievement places the console among the highest-selling home systems, joining the original PlayStation, PlayStation 2, and PlayStation 4, as well as the Nintendo Wii and Nintendo Switch.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27009"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.telecomtv.com%2Fassets%2Ftelecomtv%2Fallison-kirkby-16781.jpg%3Fw%3D896%26h%3D504%26crop%3Dauto&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>BT chief executive Allison Kirkby stated that a partnership agreement with SpaceX's Starlink is fully prepared for launch, but the telecommunications company is exercising caution regarding public perception. The hesitation follows controversy surrounding Starlink service cutoffs in Ukraine and subsequent battlefield disruptions.</p><p>Kirkby noted that the rollout will remain on hold until the current public scrutiny and controversy surrounding the satellite service subside. The potential deal would expand BT's connectivity options, but management wants to ensure the association does not negatively impact the company's reputation.</p>
 <p>Nov 10 · <a href="https://www.ft.com/content/2bb44a56-abbe-432a-8205-5e28a0a2e839">ft.com</a></p>
-<br clear="all" />
-
-<h2>Gadhouse Releases Eric CD Player with Bluetooth and Portable Playback</h2>
-<a name="story-27013"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGadhouse-Eric%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Gadhouse has introduced the Eric CD Player, a portable and wall-mountable audio device designed to support standard CDs and HQCDs. The unit features built-in FM radio, Bluetooth connectivity, a 3.5mm headphone output, and an auxiliary output for integration with home audio systems.</p><p>The player weighs 308 grams, incorporates anti-skip technology, and provides up to four hours of battery life through USB-C charging. Supporting CD-R, CD-RW, WMA, and MP3 playback, the Eric is currently available in an ivory finish for $84.50 or £59.99, with more color options expected in 2027.</p>
-<p>Nov 10 · <a href="https://musictech.com/news/gear/gadhouse-eric/">musictech.com</a> | <a href="https://cd.gadhouse.com/">cd.gadhouse.com</a></p>
 <br clear="all" />
 
 ---
