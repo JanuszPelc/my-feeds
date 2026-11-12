@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TechCrunch Evaluates Potential Successors for Nvidia CEO Jensen Huang</h2>
+<a name="story-27230"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvisionarycios.com%2Fwp-content%2Fuploads%2F2026%2F02%2FV-CIO-Nvidia-CEO-Jensen-Huang-Says-AI-Will-Not-Replace-Software-or-Jobs-Source-bloomberg.com-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amid mounting scrutiny surrounding Nvidia CEO Jensen Huang and an absence of a formal succession plan, industry observers have begun speculating on potential replacements for the chipmaker's long-serving leader. The leadership uncertainty follows recent reports detailing executive controversies and investigations into the company's inner circle.</p><p>Potential candidates discussed range from external semiconductor executives like AMD CEO Lisa Su and Intel’s Lip-Bu Tan to internal engineering leaders such as Nvidia hardware vice president Ian Buck. While some commentators have suggested alternative figures or insiders, the lack of an obvious designated successor highlights key-person risks for one of the world's most valuable technology companies.</p>
+<p>Nov 12 · <a href="https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Jensen Huang Accused of Affair with Nvidia Executive</h2>
 <a name="story-27218"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGettyImages-2294936867.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia CEO Jensen Huang is accused of an extramarital affair with Kimberly Powell, the company's vice president of healthcare. The New York Times reports that five employees claim to have seen video of the pair behaving affectionately at a San Jose hotel earlier this year.</p><p>This follows Huang's previously admitted affair with a woman accused of being a Chinese spy. Nvidia's board has launched an investigation, and the Wall Street Journal reports the company is preparing to oust the founder. House Republicans are considering subpoenaing Huang regarding the previous spy-related allegations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27091"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsmarthernews.com%2Fwp-content%2Fuploads%2F2024%2F02%2FIMG_3756.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>At least 11 National Security Agency and US Cyber Command employees died by suicide in the 12 months leading up to September, prompting inquiries from the White House and Congress.</p><p>The deaths have triggered scrutiny regarding agency culture and the availability of mental health resources for intelligence personnel. Congressional oversight is expected to examine the circumstances of the deaths and the welfare of agency staff.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/more-suicides-at-spy-cyber-agencies-scrutinized-by-congress">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia to Invest $10 Billion in Anthropic Amid Planned IPO</h2>
-<a name="story-27082"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd.techtimes.co.uk%2Fen%2Ffull%2F1820588%2Fnvidia.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic is preparing an initial public offering that could value the company at up to $1.4 trillion. As part of the deal, Nvidia plans to invest approximately $10 billion in the AI software company immediately following the IPO, representing about 10 percent of the total cash Anthropic expects to raise this month.</p><p>The investment marks a significant shift for the two companies, which have historically maintained distance and clashed over U.S. government regulation of AI technology. The move underscores the deepening financial ties between AI software developers and the hardware providers powering the sector.</p>
-<p>Nov 10 · <a href="https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html">nytimes.com</a></p>
 <br clear="all" />
 
 ---
