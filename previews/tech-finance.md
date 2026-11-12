@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>SE3 Raises $30 Million in Series A Funding for Military Drone AI Software</h2>
+<a name="story-27276"><img src="https://wsrv.nl/?url=https%3A%2F%2Funidir.org%2Fwp-content%2Fuploads%2F2023%2F10%2Fmilitary-drone-flights-training-ground-generative-ai.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Munich-based startup SE3 has raised $30 million in a Series A funding round led by Accel, with participation from Keen, Lakestar, and Seedcamp. The company develops artificial intelligence software that fuses video and sensor feeds from multiple unmanned military systems into a unified 3D battlefield map, enabling soldiers to query tactical information and issue voice commands in plain language.</p><p>Founded by former Tesla and Nvidia researchers who spun out of the Technical University of Munich, SE3 combines classical computer vision algorithms with large language model interfaces to handle tasks like GPS-denied navigation and drone swarming. The company has already deployed its technology in Ukraine and holds development contracts with the German armed forces, with plans to expand its headcount and open offices across Europe using the new capital.</p>
+<p>Nov 12 · <a href="https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/">fortune.com</a></p>
+<br clear="all" />
+
 <h2>Q-Ctrl Raises $290 Million in Funding Valuing Startup at Over $1 Billion</h2>
 <p>Australian quantum software startup Q-Ctrl has raised $290 million in a funding round led by Salesforce Ventures, pushing its valuation past $1 billion. The company develops quantum-enabled sensors designed to assist ships and aircraft with navigation during GPS outages.</p><p>The funding round also received backing from Jared Kushner’s Affinity Partners. Q-Ctrl focuses on applying quantum technology to solve control engineering problems and enhance navigation resilience.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round">bloomberg.com</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27167"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQHEzSnxlM8uWw%2Ffeedshare-shrink_800%2FB4DZUa453.HAAg-%2F0%2F1739912880985%3Fe%3D2147483647%26v%3Dbeta%26t%3D_1Dc8bFlebSORLcfgF4lLVGMfcOE-TfvWRprEhYn-Cc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Startup Plurai has raised $13 million in a seed funding round led by Team8 to help make enterprise AI agents more reliable. Co-founded by veterans of autonomous driving technology, the company applies simulation techniques originally developed for self-driving cars to model complex corporate workflows, evaluate agent behavior, and address edge cases before deployment.</p><p>Plurai creates digital twins of a company's electronic systems to map agent data flows and post-train smaller, open-weight models tailored to specific business policies. According to the company, this simulation-driven approach improves agent reliability while significantly reducing operational costs compared to standard frontier language models.</p>
 <p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>SoftBank Records $3.7 Billion Loss Linked to Canceled Gas Turbine Reservations</h2>
-<a name="story-27151"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SoftBank recorded a $3.7 billion earnings hit following the cancellation of gas turbine reservations intended to power artificial intelligence infrastructure. The canceled capacity exceeded 13GW, an amount equivalent to the electrical output of six Hoover Dams.</p><p>The loss highlights the scale of energy resource requirements and the financial volatility involved in securing power for large-scale AI expansion.</p>
-<p>Nov 11 · <a href="https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---

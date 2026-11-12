@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-12T14:33:00+00:00</updated>
+  <updated>2026-11-12T15:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Norwest Raises $4 Billion Fund to Expand AI Investments</title>
+    <link href="https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/::v240</id>
+    <published>2026-11-12T15:19:00+00:00</published>
+    <updated>2026-11-12T15:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fai.devtheworld.jp%2Fposts%2Fai-investment-trends%2Fglobal-ai-investment-map_hu_7a73203173503c45.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/">techcrunch.com</a></small></p><hr/><p>Norwest has closed its eighteenth fund totaling $4 billion, marking the multi-stage investment firm's largest vehicle to date. The capital will target startups across multiple geographies, including the United States, India, and Israel, with a primary emphasis on artificial intelligence.</p><p>The firm plans to direct the funding toward early-stage companies and infrastructure projects spanning core sectors such as healthcare, consumer goods, and technology. Specifically, Norwest intends to back ventures in physical AI, voice AI, agentic cybersecurity, and aerospace as part of its broad enterprise transformation strategy.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fai.devtheworld.jp%2Fposts%2Fai-investment-trends%2Fglobal-ai-investment-map_hu_7a73203173503c45.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 21:08 UTC | #27296</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Resigns Amid Investigation Into Affair and National Security Concerns</title>
     <link href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/" rel="alternate" />

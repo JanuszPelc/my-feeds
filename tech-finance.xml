@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-12T12:44:00+00:00</updated>
+  <updated>2026-11-12T14:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>SE3 Raises $30 Million in Series A Funding for Military Drone AI Software</title>
+    <link href="https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/" rel="alternate" />
+    <id>https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/::v240</id>
+    <published>2026-11-12T14:41:00+00:00</published>
+    <updated>2026-11-12T14:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Funidir.org%2Fwp-content%2Fuploads%2F2023%2F10%2Fmilitary-drone-flights-training-ground-generative-ai.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/">fortune.com</a></small></p><hr/><p>Munich-based startup SE3 has raised $30 million in a Series A funding round led by Accel, with participation from Keen, Lakestar, and Seedcamp. The company develops artificial intelligence software that fuses video and sensor feeds from multiple unmanned military systems into a unified 3D battlefield map, enabling soldiers to query tactical information and issue voice commands in plain language.</p><p>Founded by former Tesla and Nvidia researchers who spun out of the Technical University of Munich, SE3 combines classical computer vision algorithms with large language model interfaces to handle tasks like GPS-denied navigation and drone swarming. The company has already deployed its technology in Ukraine and holds development contracts with the German armed forces, with plans to expand its headcount and open offices across Europe using the new capital.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Funidir.org%2Fwp-content%2Fuploads%2F2023%2F10%2Fmilitary-drone-flights-training-ground-generative-ai.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 20:55 UTC | #27276</small>]]></content>
+  </entry>
   <entry>
     <title>Q-Ctrl Raises $290 Million in Funding Valuing Startup at Over $1 Billion</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round" rel="alternate" />

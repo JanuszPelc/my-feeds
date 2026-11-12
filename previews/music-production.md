@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Digital Audio Workstation Cost Models and Subscription Trends Examined</h2>
+<a name="story-27297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFender-Studio-Pro-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The music technology industry has experienced a significant shift in digital audio workstation (DAW) pricing, as corporate acquisitions and venture capital influence drive platforms toward subscription funnels and tiered licensing models. While traditional perpetual licenses offered permanent ownership, modern cost structures often position perpetual versions as middle-tier options behind feature-gated subscriptions.</p><p>Examining industry practices across major brands such as Fender, LANDR, Steinberg, and Avid highlights a growing tension between corporate profitability goals and user community loyalty. Although subscription models provide stable revenue for ongoing product development, they risk alienating independent creators and freelancers, prompting many users to seek alternative platforms with more transparent and flexible pricing.</p>
+<p>Nov 12 · <a href="https://musictech.com/features/interviews/daw-cost-model/">musictech.com</a></p>
+<br clear="all" />
+
+<h2>Two Notes Audio Engineering Updates Genome to v2.2 with Live Mode</h2>
+<a name="story-27290"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgenome_post_social_tn.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Two Notes Audio Engineering has released Genome v2.2, introducing a dedicated Live Mode designed for real-time rig control across desktop and iOS platforms. The update adds Setlist, Scene, and Custom views, allowing users to consolidate rigs, manage multiple states within a single rig with gapless switching and preserved effect tails, and build customizable control layouts.</p><p>Additionally, version 2.2 brings AUv3 plugin support to iOS versions of Genome, enabling use within compatible iPad digital audio workstations. The release also incorporates preset-based spillover for smooth transitions between rigs, a system-wide Global EQ, and several bug fixes addressing MIDI CC control, audio clicks during effect disengagement, and amplifier component noise.</p>
+<p>Nov 12 · <a href="https://www.kvraudio.com/news/two-notes-audio-engineering-updates-genome-to-v2-2---live-mode-69783?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69783">kvraudio.com</a> | <a href="https://www.two-notes.com/en">two-notes.com</a></p>
+<br clear="all" />
+
+<h2>Igor Vasiliev Updates HollowTone to v1.1 for iOS and macOS</h2>
+<a name="story-27340"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-3-02-landscape-ipad-1024x768.1792409767.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Igor Vasiliev has released version 1.1 of HollowTone, a procedural ambient audio instrument designed for iOS and macOS. The update introduces independent output channel routing for each layer, expanded harmonic display options across all ratio values, and a new reset ratio command.</p><p>The multi-channel routing capability allows users to process individual layers with distinct effects inside a host application. Priced at $14.99, HollowTone generates evolving ambient soundscapes using the HollowPulse and VeilBreath engines, supporting microtonal adjustments via fine-tuning controls.</p>
+<p>Nov 12 · <a href="https://www.kvraudio.com/news/igor-vasiliev-updates-hollowtone---deep-ambient-worlds-app-to-v1-1-for-ios-and-macos-69777?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69777">kvraudio.com</a> | <a href="https://apps.apple.com/app/hollowtone/id6762177498">apps.apple.com</a></p>
+<br clear="all" />
+
 <h2>Lese Releases Herman Iterative Reverb Plugin</h2>
 <a name="story-27291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fherman.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lese has released Herman, an iterative reverb plugin available in VST3, AU, and AAX formats for macOS and Windows. Built around recursive processing concepts, the plugin features an all-original topology designed to create complex sonic landscapes.</p><p>Herman incorporates internal contour processors on each feedback line paired with a gain-protecting system to shape reverb tails over time. Additional features include sound-reactive visualizers that subtly adjust internal parameters, four Illusion models, MIDI control capabilities for performance features like Bloom, and a retail price of $55.</p>
@@ -78,23 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27172"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fprotonium-gui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ZAK Sound has released Protonium, a wavetable instrument designed for cinematic scoring, sci-fi soundtracks, and electronic music production. Created by sound designer Ryan Baxter using wavetables developed by ZAK Sound, the instrument features a sound palette comprising dark pads, evolving textures, rhythmic pulses, sequences, and playable synths.</p><p>The library includes 30 presets, 31 wavetables, and 30 MIDI files. Protonium is available at an introductory price of $16.80 until November 16, 2026, before increasing to its regular price of $24, and requires the free Raizes Player version 1.4.0 or later on Windows, macOS, Linux, and iPad.</p>
 <p>Nov 11 · <a href="https://www.kvraudio.com/news/zak-sound-releases-protonium-for-raizes-player-69748?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69748">kvraudio.com</a> | <a href="https://zaksound.com/protonium">zaksound.com</a></p>
-<br clear="all" />
-
-<h2>Sunfish Software Releases Fandust Free Lo-Fi Plugin</h2>
-<p>Sunfish Software has released Fandust, a free lo-fi audio effect plugin for macOS, Windows, and Linux featuring a Windows 98-inspired graphical user interface. Designed for vaporwave and slowed-and-reverb production, the effect combines pitch shifting, tape wear, time stretching, and a long reverb.</p><p>Users can adjust the slow control to drop speed and pitch together or use a separate stretch mode to slow down audio playback without altering pitch. Additional features include tape flutter, detune, tape saturation, smear, and a freeze option for the reverb tail, with installation requiring a free Sunfish account for activation.</p>
-<p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/sunfish-software-fandust/">bedroomproducersblog.com</a> | <a href="https://sunfish.software/">sunfish.software</a></p>
-<br clear="all" />
-
-<h2>Augmatic GRE 2.0 Released with Harmonic Drumming and Launch Discount</h2>
-<a name="story-27170"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzRxKNaqOdVg%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Augmatic Audio has released version 2.0 of its generative MIDI drum sequencer and arpeggiator, Augmatic GRE, alongside a limited-time 50% discount. The software combines a Topographic engine inspired by Mutable Instruments Grids with a Euclidean engine, allowing users to blend rhythms across six primary and three accent channels.</p><p>Version 2.0 introduces a Harmonic Drumming feature that translates MIDI chord input into melodies, basslines, and arpeggios synchronized with the drum patterns. Additional updates include linear drumming priority controls, velocity shaping, and four switchable MIDI kit mappings. The plugin is available for Windows and macOS as VST3, CLAP, and standalone formats, as well as an AUv3 and standalone app for iOS.</p>
-<p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/augmatic-gre-discount/">bedroomproducersblog.com</a> | <a href="https://augmaticaudio.com/gre/">augmaticaudio.com</a></p>
-<br clear="all" />
-
-<h2>GenuineSoundware Releases MIDI-AXE Free MIDI Monitor and Toolbox</h2>
-<a name="story-27162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmidi-axe_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GenuineSoundware has released MIDI-AXE, a free MIDI monitor, router, and toolbox application for Windows and macOS. The software includes a color-coded MIDI monitor with hexadecimal and decimal displays, a complete SysEx view, a routing matrix, a SysEx librarian, and a MIDI Clock/MTC monitor and generator.</p><p>Additional features comprise an on-screen keyboard, 16 assignable controller sliders, and a built-in SoundFont player with ASIO support. The scalable interface provides light and dark themes, dockable and floating windows, and automatic USB device reconnection across sessions.</p>
-<p>Nov 11 · <a href="https://www.kvraudio.com/news/genuinesoundware-releases-midi-axe---free-midi-monitor-router-and-toolbox-for-windows-and-macos-69755?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69755">kvraudio.com</a> | <a href="https://www.genuinesoundware.com/?a=page&p=MIDI-AXE">genuinesoundware.com</a></p>
 <br clear="all" />
 
 ---

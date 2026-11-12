@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-12T14:38:00+00:00</updated>
+  <updated>2026-11-12T15:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Digital Audio Workstation Cost Models and Subscription Trends Examined</title>
+    <link href="https://musictech.com/features/interviews/daw-cost-model/" rel="alternate" />
+    <id>https://musictech.com/features/interviews/daw-cost-model/::v240</id>
+    <published>2026-11-12T15:51:00+00:00</published>
+    <updated>2026-11-12T15:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFender-Studio-Pro-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/features/interviews/daw-cost-model/">musictech.com</a></small></p><hr/><p>The music technology industry has experienced a significant shift in digital audio workstation (DAW) pricing, as corporate acquisitions and venture capital influence drive platforms toward subscription funnels and tiered licensing models. While traditional perpetual licenses offered permanent ownership, modern cost structures often position perpetual versions as middle-tier options behind feature-gated subscriptions.</p><p>Examining industry practices across major brands such as Fender, LANDR, Steinberg, and Avid highlights a growing tension between corporate profitability goals and user community loyalty. Although subscription models provide stable revenue for ongoing product development, they risk alienating independent creators and freelancers, prompting many users to seek alternative platforms with more transparent and flexible pricing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFender-Studio-Pro-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 21:09 UTC | #27297</small>]]></content>
+  </entry>
+  <entry>
+    <title>Two Notes Audio Engineering Updates Genome to v2.2 with Live Mode</title>
+    <link href="https://www.kvraudio.com/news/two-notes-audio-engineering-updates-genome-to-v2-2---live-mode-69783?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69783" rel="alternate" />
+    <id>https://www.kvraudio.com/news/two-notes-audio-engineering-updates-genome-to-v2-2---live-mode-69783?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69783::v240</id>
+    <published>2026-11-12T14:54:00+00:00</published>
+    <updated>2026-11-12T14:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgenome_post_social_tn.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/two-notes-audio-engineering-updates-genome-to-v2-2---live-mode-69783?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69783">kvraudio.com</a> | <a href="https://www.two-notes.com/en">two-notes.com</a></small></p><hr/><p>Two Notes Audio Engineering has released Genome v2.2, introducing a dedicated Live Mode designed for real-time rig control across desktop and iOS platforms. The update adds Setlist, Scene, and Custom views, allowing users to consolidate rigs, manage multiple states within a single rig with gapless switching and preserved effect tails, and build customizable control layouts.</p><p>Additionally, version 2.2 brings AUv3 plugin support to iOS versions of Genome, enabling use within compatible iPad digital audio workstations. The release also incorporates preset-based spillover for smooth transitions between rigs, a system-wide Global EQ, and several bug fixes addressing MIDI CC control, audio clicks during effect disengagement, and amplifier component noise.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgenome_post_social_tn.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 21:05 UTC | #27290</small>]]></content>
+  </entry>
+  <entry>
+    <title>Igor Vasiliev Updates HollowTone to v1.1 for iOS and macOS</title>
+    <link href="https://www.kvraudio.com/news/igor-vasiliev-updates-hollowtone---deep-ambient-worlds-app-to-v1-1-for-ios-and-macos-69777?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69777" rel="alternate" />
+    <id>https://www.kvraudio.com/news/igor-vasiliev-updates-hollowtone---deep-ambient-worlds-app-to-v1-1-for-ios-and-macos-69777?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69777::v240</id>
+    <published>2026-11-12T14:43:00+00:00</published>
+    <updated>2026-11-12T14:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-3-02-landscape-ipad-1024x768.1792409767.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/igor-vasiliev-updates-hollowtone---deep-ambient-worlds-app-to-v1-1-for-ios-and-macos-69777?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69777">kvraudio.com</a> | <a href="https://apps.apple.com/app/hollowtone/id6762177498">apps.apple.com</a></small></p><hr/><p>Developer Igor Vasiliev has released version 1.1 of HollowTone, a procedural ambient audio instrument designed for iOS and macOS. The update introduces independent output channel routing for each layer, expanded harmonic display options across all ratio values, and a new reset ratio command.</p><p>The multi-channel routing capability allows users to process individual layers with distinct effects inside a host application. Priced at $14.99, HollowTone generates evolving ambient soundscapes using the HollowPulse and VeilBreath engines, supporting microtonal adjustments via fine-tuning controls.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-3-02-landscape-ipad-1024x768.1792409767.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 21:04 UTC | #27340</small>]]></content>
+  </entry>
   <entry>
     <title>Lese Releases Herman Iterative Reverb Plugin</title>
     <link href="https://www.kvraudio.com/news/lese-releases-herman-iterative-reverb-plugin-vst3-au-and-aax-69782?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69782" rel="alternate" />

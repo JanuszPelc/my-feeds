@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-12T20:44:00+00:00</updated>
+  <updated>2026-11-12T21:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Resigns Amid Investigation Into Affair and National Security Concerns</title>
+    <link href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/::v240</id>
+    <published>2026-11-12T21:35:00+00:00</published>
+    <updated>2026-11-12T21:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.tweaktown.com%2Fnews%2F1%2F0%2F100501_651156165_nvidia-ceo-jensen-huang-touts-the-beginning-of-new-industrial-revolution_full.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">techcrunch.com</a> | <a href="https://nvidianews.nvidia.com/news/a-message-to-our-company">nvidianews.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></small></p><hr/><p>Nvidia co-founder and CEO Jensen Huang has resigned following revelations regarding an extramarital relationship with Alice Huang, an executive at Singapore-based AI infrastructure firm Megaspeed whom U.S. officials allege is a Chinese spy. The controversy has triggered federal export and national security investigations, internal scrutiny by Nvidia's board of directors, and congressional demands for official briefings.</p><p>In the wake of Huang's resignation, Nvidia appointed CFO Colette Kress as interim CEO and Harvey C. Jones as the board's first-ever chair. Additional reports indicate that Huang also engaged in a relationship with an internal executive who reported directly to him, further compounding corporate governance pressures amid intense global competition over advanced AI hardware markets.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.tweaktown.com%2Fnews%2F1%2F0%2F100501_651156165_nvidia-ceo-jensen-huang-touts-the-beginning-of-new-industrial-revolution_full.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 20:10 UTC | #27284 | d,hr</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Replaces Claude Sonnet 4.6 with Strands Decider for Internal Ticket Labeling</title>
     <link href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/" rel="alternate" />
@@ -479,14 +488,5 @@
     <updated>2026-11-08T02:21:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.politico.eu%2Fcdn-cgi%2Fimage%2Fwidth%3D1160%2Cheight%3D747%2Cquality%3D80%2Conerror%3Dredirect%2Cformat%3Dauto%2Fwp-content%2Fuploads%2F2026%2F11%2F04%2FGettyImages-2299469363-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed">euronews.com</a> | <a href="https://news.ycombinator.com/item?id=50383163">hacker news</a></small></p><hr/><p>Hungary has launched an online public database granting unrestricted access to communist-era state security records for the first time since the 1990 democratic transition. The newly accessible portal makes searchable the names and registration details of an estimated 50,000 to 60,000 former informants and agents from the one-party communist era.</p><p>The initiative follows a bill introduced by Prime Minister Peter Magyar in September to lift decades of restrictions that critics argued enabled political blackmail and secrecy. While the release includes names of politicians, clergy, and public figures, historians and officials note that the files are incomplete and urge the public to approach the sensitive historical records with caution and nuance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.politico.eu%2Fcdn-cgi%2Fimage%2Fwidth%3D1160%2Cheight%3D747%2Cquality%3D80%2Conerror%3Dredirect%2Cformat%3Dauto%2Fwp-content%2Fuploads%2F2026%2F11%2F04%2FGettyImages-2299469363-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 15:21 UTC | #26765 | r,hd</small>]]></content>
-  </entry>
-  <entry>
-    <title>Need for Speed: Underground 2 Browser Port Now Available</title>
-    <link href="https://nfsu2.xyz/" rel="alternate" />
-    <id>https://nfsu2.xyz/::v240</id>
-    <published>2026-11-07T20:49:00+00:00</published>
-    <updated>2026-11-07T20:49:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://nfsu2.xyz/">nfsu2.xyz</a> | <a href="https://github.com/th0mk/nfsu2-web">github.com</a> | <a href="https://news.ycombinator.com/item?id=50403052">hacker news</a></small></p><hr/><p>Underground 2 Revived is a fan-made project that runs the 2004 PC racing game Need for Speed: Underground 2 directly in web browsers such as Chrome and Firefox. The port uses static WebAssembly recompilation to execute the original x86 game code, supporting widescreen resolutions up to 120 frames per second via WebGPU, along with standard peripherals like controllers, steering wheels, and touch controls.</p><p>The unofficial release features online multiplayer capabilities, including shared free-roam sessions and races with other players. Developed as a free browser-based experience with no microtransactions or paid perks, the project requires users to provide their own game files and includes built-in state saving through the in-game garage menu.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn2.steamgriddb.com%2Fgrid%2F22638c1aeaa65bd2ac0d6431f44f9813.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 14:47 UTC | #26764 | h,dr</small>]]></content>
   </entry>
 </feed>
