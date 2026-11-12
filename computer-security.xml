@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-11T21:55:00+00:00</updated>
+  <updated>2026-11-11T23:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Jane Street Systems Engineer Recounts Near-Loss of NYC Datacenter Due to False Smoke Alarm</title>
+    <link href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/" rel="alternate" />
+    <id>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/::v240</id>
+    <published>2026-11-11T23:33:00+00:00</published>
+    <updated>2026-11-11T23:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50455394">hacker news</a></small></p><hr/><p>A Jane Street systems engineer describes a near-catastrophic incident at the firm's New York City datacenter in 1 New York Plaza. A false smoke alarm, triggered by dust from nearby construction, caused the cooling systems to shut down, risking a situation where rising temperatures would trigger heat-sensitive sprinklers and flood the server room.</p><p>To prevent equipment destruction, the engineer manually disconnected power to all servers before temperatures exceeded critical thresholds. The incident led the systems team to implement a more reliable temperature monitoring system written in OCaml that queries individual Linux servers to detect cooling failures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 04:57 UTC | #27236</small>]]></content>
+  </entry>
   <entry>
     <title>Voltage Glitching Unlocks NVIDIA A100 Features on CMP 170HX Mining Card</title>
     <link href="https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/" rel="alternate" />

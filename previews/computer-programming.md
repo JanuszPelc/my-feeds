@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Sand Hyper-Realistic Browser-Based Sand Simulator</h2>
+<a name="story-27235"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F2137280%2Fss_4ba78597ebd8572a36a85060cd1043a2aad5f469.1920x1080.jpg%3Ft%3D1692209762&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A hyper-realistic sand simulator built with WebGL2 and JavaScript is accessible via web browsers on desktops, tablets, and mobile devices.</p><p>The simulation allows users to interact with the grains by pushing them with a finger, tilting the device to induce sliding, or shaking it to scatter the sand.</p>
+<p>Nov 11 · <a href="https://av.github.io/safe-sand/">av.github.io</a> | <a href="https://news.ycombinator.com/item?id=50453288">hacker news</a></p>
+<br clear="all" />
+
 <h2>Rust Project Announces Google Summer of Code 2026 Results</h2>
 <p>All 13 projects participating in the Google Summer of Code (GSoC) 2026 for the Rust Project were successfully completed and passed their final evaluations. Contributions included improvements to GPU offloading, adding WebAssembly linking support to the Wild linker, and implementing new language features such as `impl` and `mut` restrictions.</p><p>The program serves as a primary pipeline for introducing new contributors to the Rust community. Several project outcomes, including work on the `std::autodiff` and `std::offload` modules, are available in the Rust `nightly` compiler channel.</p>
 <p>Nov 11 · <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/uz2j2h/google_summer_code_2026_results">lobsters</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fessenceia.github.io%2Fprojects%2Fexpresso%2Ffeature.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Julia Desmazes describes the design of a networking switch ASIC chip completed within a 96-hour deadline. The project uses the GlobalFoundries 180nm process via wafer.space and is part of a larger initiative to build open-source networking equipment, with the ultimate goal of creating a full router.</p><p>The article examines technical aspects of semiconductor fabrication, including area optimization for yield, dicing, and packaging options like wire bonding and chip-on-board. It also discusses the importance of pin architecture in supporting an RMII interface for Ethernet port communication.</p>
 <p>Nov 10 · <a href="https://essenceia.github.io/projects/expresso/">essenceia.github.io</a> | <a href="https://lobste.rs/s/n8reli/building_networking_switch_asic_chip">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50433682">hacker news</a></p>
-<br clear="all" />
-
-<h2>Kora Systems Unveils Linux-Based AI Desktop Operating System</h2>
-<a name="story-27031"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fkora-os-chord-chat-client.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kora Systems, founded by Cyanogen co-founder Kirt McMaster, has unveiled a Linux-based desktop operating system designed to integrate artificial intelligence models and autonomous agents directly into the computing experience. Scheduled for release in 2027, the free operating system will support Intel, AMD, and Qualcomm Snapdragon processors, enabling AI agents to work across applications and manage files without app-specific boundaries.</p><p>Formerly known as the gaming operating system company Playtron, the Palo Alto-based firm rebranded to focus on AI and is collaborating with Qualcomm and Saudi AI company Humain to optimize the software for Snapdragon hardware, including an enterprise version called Humain OS. The company plans to monetize the platform through subscriptions bundling access to frontier AI models and agentic services.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/">techcrunch.com</a> | <a href="https://kora.fun/">kora.fun</a></p>
 <br clear="all" />
 
 ---
