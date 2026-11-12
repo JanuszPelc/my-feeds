@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-12T03:23:00+00:00</updated>
+  <updated>2026-11-12T09:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>MB Big Biznis Releases qkit Always-Recording Looper Plugin</title>
+    <link href="https://www.kvraudio.com/news/mb-big-biznis-releases-qkit---always-recording-looper-plugin-au-and-vst3-69772?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69772" rel="alternate" />
+    <id>https://www.kvraudio.com/news/mb-big-biznis-releases-qkit---always-recording-looper-plugin-au-and-vst3-69772?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69772::v240</id>
+    <published>2026-11-12T09:31:00+00:00</published>
+    <updated>2026-11-12T09:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-at-08-24-30-compressed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/mb-big-biznis-releases-qkit---always-recording-looper-plugin-au-and-vst3-69772?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69772">kvraudio.com</a> | <a href="https://qkitlabs.com/qkit">qkitlabs.com</a></small></p><hr/><p>MB Big Biznis has released qkit, a live-looping plugin for macOS and Windows available in AU and VST3 formats. The software continuously listens to audio input, allowing users to capture recent performances retroactively or arm new takes that lock directly to a DAW's beat.</p><p>qkit supports up to 32 simultaneous loops per instance with individual controls for feedback, overdub layers, and routing across eight auxiliary outputs. Designed for both studio and stage use, the plugin features zero-latency processing, MIDI and OSC control mapping, Ableton Link integration, and time-stretching or varispeed pitch tracking.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-at-08-24-30-compressed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 14:40 UTC | #27252</small>]]></content>
+  </entry>
   <entry>
     <title>Arvital Audio Updates AudioRoute to Version 1.2.13</title>
     <link href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-13-69765?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69765" rel="alternate" />

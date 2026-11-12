@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>MB Big Biznis Releases qkit Always-Recording Looper Plugin</h2>
+<a name="story-27252"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-at-08-24-30-compressed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>MB Big Biznis has released qkit, a live-looping plugin for macOS and Windows available in AU and VST3 formats. The software continuously listens to audio input, allowing users to capture recent performances retroactively or arm new takes that lock directly to a DAW's beat.</p><p>qkit supports up to 32 simultaneous loops per instance with individual controls for feedback, overdub layers, and routing across eight auxiliary outputs. Designed for both studio and stage use, the plugin features zero-latency processing, MIDI and OSC control mapping, Ableton Link integration, and time-stretching or varispeed pitch tracking.</p>
+<p>Nov 12 · <a href="https://www.kvraudio.com/news/mb-big-biznis-releases-qkit---always-recording-looper-plugin-au-and-vst3-69772?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69772">kvraudio.com</a> | <a href="https://qkitlabs.com/qkit">qkitlabs.com</a></p>
+<br clear="all" />
+
 <h2>Arvital Audio Updates AudioRoute to Version 1.2.13</h2>
 <a name="story-27251"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-plugin-logic-source.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Arvital Audio has released version 1.2.13 of AudioRoute, its system audio capture tool for macOS and Windows. The update introduces a redesigned take-management system where recorded audio clips are retained in a session list beneath the waveform, preventing automatic deletion and allowing users to drag multiple takes into their digital audio workstation.</p><p>Additional improvements rolled out across recent minor updates include automatic tempo and key detection for recordings longer than six seconds, clearer guidance for plug-in modes, and more resilient handling of audio device reconnections and sample rate changes. AudioRoute is available as a free update for existing users, priced at 39 euros for new licenses, and supports VST3, AU, and AAX formats.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27133"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanukari-1-1-doppler-fly-by.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anukari has released version 1.1 of its 3D physics-based synthesizer, introducing a range of user-requested features including new resonators, a mouthpiece exciter, and over 1,000 factory presets. The update expands the software's physical modeling capabilities by adding strings, bars, plates, membranes, tubes, and bells that interact directly within the mass-and-spring simulation.</p><p>Additional enhancements in version 1.1 include updated physical models for bows, mallets, and plectrums, collision-capable spring types for effects like wind chimes, and the Modulosphere for spatial modulation. The release also incorporates shape-generation tools, MIDI Control Protocol support for external AI assistants, a redesigned preset browser, legato and glide controls, and optimized CPU performance.</p>
 <p>Nov 11 · <a href="https://www.kvraudio.com/news/anukari-updates-its-3d-physics-synthesizer-to-v1-1-with-resonators-a-mouthpiece-exciter-and-1-000-and-presets-69741?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69741">kvraudio.com</a> | <a href="https://anukari.com/">anukari.com</a></p>
-<br clear="all" />
-
-<h2>Alan R. Pearlman Foundation Releases Starpath Vol. 1 for KORG ARP2600</h2>
-<a name="story-27066"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fstarpath-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Starpath Vol. 1 is a collection of 200 patches for the KORG ARP2600, created by Scott McAuley Sounds and James Dyson. The sound bank features basses, leads, pads, keys, arpeggios, sequences, and strings designed for electronic dance music, film scoring, and other production environments.</p><p>Most patches support polyphonic aftertouch and utilize the instrument's 16-voice polyphony. The $39.99 release supports the Foundation's archiving efforts and its ARPs for All program, which provides musicians with access to vintage ARP synthesizers.</p>
-<p>Nov 10 · <a href="https://www.kvraudio.com/news/arp-foundation-releases-starpath-vol-1-for-korg-arp2600-69746?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69746">kvraudio.com</a> | <a href="https://alanrpearlmanfoundation.org/product/starpath-vol-1/">alanrpearlmanfoundation.org</a></p>
 <br clear="all" />
 
 ---
