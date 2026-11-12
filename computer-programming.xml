@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-11T23:32:00+00:00</updated>
+  <updated>2026-11-11T23:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>GitHub Actions Supports Workflow Lockfiles</title>
+    <link href="https://hugovk.dev/blog/2026/lock-github-actions/" rel="alternate" />
+    <id>https://hugovk.dev/blog/2026/lock-github-actions/::v240</id>
+    <published>2026-11-11T23:59:00+00:00</published>
+    <updated>2026-11-11T23:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.den.dev%2Fimages%2Fpostmedia%2Fdocs-github-actions%2Fworkflow-init.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://hugovk.dev/blog/2026/lock-github-actions/">hugovk.dev</a> | <a href="https://github.blog/changelog/2026-10-28-github-actions-workflow-lockfiles-are-generally-available/">github.blog</a> | <a href="https://lobste.rs/s/v3uidx/lock_your_github_actions">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50459485">hacker news</a></small></p><hr/><p>GitHub Actions now supports workflow lockfiles, allowing developers to use version tags in workflow files while maintaining the security of immutable commit SHAs. This mechanism helps prevent supply-chain attacks where mutable tags are redirected to malicious code.</p><p>Users can manage these files using the `gh-actions-lock` extension for the GitHub CLI to generate and update `.github/workflows/actions.lock` files. The solution is compatible with automated dependency update tools like Dependabot and Renovate, and can be verified in continuous integration to ensure lockfiles remain synchronized with workflow definitions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.den.dev%2Fimages%2Fpostmedia%2Fdocs-github-actions%2Fworkflow-init.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 06:03 UTC | #27239</small>]]></content>
+  </entry>
   <entry>
     <title>Sand Hyper-Realistic Browser-Based Sand Simulator</title>
     <link href="https://av.github.io/safe-sand/" rel="alternate" />
@@ -462,14 +471,5 @@
     <updated>2026-11-07T06:26:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FBbZKH7oVJJxZUfojyaMAMQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.scmp.com/tech/tech-trends/article/3373435/no-intel-no-qualcomm-huawei-unveils-desktop-built-entirely-china-made-components">scmp.com</a> | <a href="https://news.ycombinator.com/item?id=50386716">hacker news</a></small></p><hr/><p>Huawei has launched the Qinyun HM650 series desktop computers for enterprise and government users, powered by its proprietary HarmonyOS operating system and self-developed Kirin X90 processor. The device is built entirely with China-made components, marking the company's first desktop computer to receive domestic certification.</p><p>The release advances Huawei's ongoing push for technological self-reliance as it moves away from foreign hardware suppliers. Although the company highlights the system's domestic construction, the exact scope of the certification remains unclear.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FBbZKH7oVJJxZUfojyaMAMQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 13:31 UTC | #26737</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ultra Low Complexity Audio Codec Adapted for Nintendo 64</title>
-    <link href="https://phoboslab.org/log/2026/11/n64-ulc-codec" rel="alternate" />
-    <id>https://phoboslab.org/log/2026/11/n64-ulc-codec::v240</id>
-    <published>2026-11-07T06:05:00+00:00</published>
-    <updated>2026-11-07T06:05:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpic1.zhimg.com%2Fv2-caa2cff78b925a2d5a6273889fec239a_1440w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://phoboslab.org/log/2026/11/n64-ulc-codec">phoboslab.org</a> | <a href="https://news.ycombinator.com/item?id=50378508">hacker news</a></small></p><hr/><p>Developer Dominic Szablewski details how the Ultra Low Complexity Codec (ULC), originally created by Aikku93 for the Game Boy Advance, provides an efficient audio compression solution for the Nintendo 64. The full-band transform codec avoids the heavy computational overhead of formats like Opus or MP3 by using a simple nibble-based packaging structure instead of complex entropy decoding.</p><p>By refactoring the decoder into 16-bit fixed point and porting the Modified Discrete Cosine Transform to the N64's vector coprocessor using MIPS assembly, the system achieves 44,100 Hz stereo playback with near-Opus quality. Integrated into the open-source Libdragon environment, the codec operates transparently while consuming only about 4% of the console's CPU time and 5% of its RSP processing time, enabling high-quality background music and voice audio during gameplay.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.zhimg.com%2Fv2-caa2cff78b925a2d5a6273889fec239a_1440w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>7 Nov 2026, 13:30 UTC | #26758</small>]]></content>
   </entry>
 </feed>

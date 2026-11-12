@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/ai-news.png" width="28" align="texttop" /> &nbsp;AWS Releases Free Local Emulator Built by AI Agents</h2>
+<a name="story-27210"><img src="https://wsrv.nl/?url=https%3A%2F%2Fclarusway.com%2Fwp-content%2Fuploads%2F2024%2F08%2Faws-benefits-1024x511.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AWS has released AWS Emulator, a free tool that simulates over 200 AWS services locally to facilitate testing without network connectivity or cloud costs. The emulator was built entirely by autonomous AI agents using Amazon Bedrock AgentCore, employing specialized agents to write code, execute fidelity tests, and automatically fix errors.</p><p>This tool aims to mitigate the high costs and latency introduced by AI coding agents that require rapid, repetitive testing cycles against live cloud environments. Although it provides a local environment for development, current versions do not yet simulate service outages, throttling, or regional feature variations.</p>
+<p>Nov 12 · <a href="https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/">geekwire.com</a> | <a href="https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator">aboutamazon.com</a> | <a href="https://news.ycombinator.com/item?id=50456319">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Jensen Huang Accused of Affair with Nvidia Executive</h2>
 <a name="story-27218"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGettyImages-2294936867.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia CEO Jensen Huang is accused of an extramarital affair with Kimberly Powell, the company's vice president of healthcare. The New York Times reports that five employees claim to have seen video of the pair behaving affectionately at a San Jose hotel earlier this year.</p><p>This follows Huang's previously admitted affair with a woman accused of being a Chinese spy. Nvidia's board has launched an investigation, and the Wall Street Journal reports the company is preparing to oust the founder. House Republicans are considering subpoenaing Huang regarding the previous spy-related allegations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26996"><img src="https://wsrv.nl/?url=https%3A%2F%2Fadamsprintablemap.net%2Fwp-content%2Fuploads%2F2022%2F09%2Fusps-zip-code-map-by-state-printable-map-768x526.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>USPS ZIP Code Boundaries is a national mapping dataset that utilizes delivery address and location information to provide accurate geographic boundaries. The data reflects temporal fluctuations caused by changing delivery distribution for new or modified locations.</p><p>Offered through PostalPro in Internal, Enterprise, and Publication tiers with four quarterly updates, the dataset serves industries such as mapping, real estate, logistics, and insurance. It enables users to incorporate polygon data for demographic analysis, optimize routing, and update existing geographic information systems.</p>
 <p>Nov 10 · <a href="https://postalpro.usps.com/zcb">postalpro.usps.com</a> | <a href="https://news.ycombinator.com/item?id=50431058">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/music-production.png" width="28" align="texttop" /> &nbsp;BPB Reader Poll Reveals Attitudes Toward AI in Music Software</h2>
-<a name="story-26924"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.imgix.net%2F2026%2F01%2Fai-tools-music-producers-actually-use-2026.png%3Fauto%3Dcompress%2Cformat%26w%3D1072&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A poll of over 2,000 Bedroom Producers Blog (BPB) readers shows a preference for AI tools designed for specific technical tasks—such as stem separation, noise removal, and code assistance—while expressing strong opposition to AI music generators. Approximately 89% of respondents support AI-related coverage, but 88% rejected tools that generate finished songs from text prompts.</p><p>The results highlight concerns regarding software quality, maintenance, and the ethical use of training data. While some producers utilize AI for specific workflow benefits or accessibility, the consensus favors tools that assist the creative process rather than replacing the musician.</p>
-<p>Nov 10 · <a href="https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/">bedroomproducersblog.com</a></p>
 <br clear="all" />
 
 ---

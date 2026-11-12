@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-11T20:28:00+00:00</updated>
+  <updated>2026-11-11T23:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Scott Bessent Confronts Howard Lutnick Over Megaspeed China Chip Concerns</title>
+    <link href="https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips" rel="alternate" />
+    <id>https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips::v240</id>
+    <published>2026-11-11T23:57:00+00:00</published>
+    <updated>2026-11-11T23:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F90bea3a8ae9219ba6e8db8953643ebd93ff54fce6b005ddbcd15e61691cac716%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7b815a81fdb14103a258d02bd553c371.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips">axios.com</a></small></p><hr/><p>The failure to place Nvidia customer Megaspeed on the U.S. entity list led to a confrontation in the White House Situation Room between Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick. Megaspeed is accused of illegally diverting sensitive AI chips to China. During the meeting, Bessent questioned Lutnick on why the company had not been blacklisted, to which Lutnick reportedly replied he would look into it.</p><p>This clash underscores growing tension within the administration regarding the enforcement of export restrictions and trade policy toward China. Although intelligence officials have reportedly pressured the Commerce Department to blacklist Megaspeed since 2025, the department has not added any new companies to its Entity List in over a year. The scrutiny follows reports involving Nvidia CEO Jensen Huang and a Megaspeed employee suspected of being a Chinese spy.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F90bea3a8ae9219ba6e8db8953643ebd93ff54fce6b005ddbcd15e61691cac716%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7b815a81fdb14103a258d02bd553c371.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 05:53 UTC | #27216</small>]]></content>
+  </entry>
   <entry>
     <title>TV Manufacturers Respond to Data Collection Questions</title>
     <link href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>GitHub Actions Supports Workflow Lockfiles</h2>
+<a name="story-27239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.den.dev%2Fimages%2Fpostmedia%2Fdocs-github-actions%2Fworkflow-init.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GitHub Actions now supports workflow lockfiles, allowing developers to use version tags in workflow files while maintaining the security of immutable commit SHAs. This mechanism helps prevent supply-chain attacks where mutable tags are redirected to malicious code.</p><p>Users can manage these files using the `gh-actions-lock` extension for the GitHub CLI to generate and update `.github/workflows/actions.lock` files. The solution is compatible with automated dependency update tools like Dependabot and Renovate, and can be verified in continuous integration to ensure lockfiles remain synchronized with workflow definitions.</p>
+<p>Nov 11 · <a href="https://hugovk.dev/blog/2026/lock-github-actions/">hugovk.dev</a> | <a href="https://github.blog/changelog/2026-10-28-github-actions-workflow-lockfiles-are-generally-available/">github.blog</a> | <a href="https://lobste.rs/s/v3uidx/lock_your_github_actions">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50459485">hacker news</a></p>
+<br clear="all" />
+
 <h2>Sand Hyper-Realistic Browser-Based Sand Simulator</h2>
 <a name="story-27235"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F2137280%2Fss_4ba78597ebd8572a36a85060cd1043a2aad5f469.1920x1080.jpg%3Ft%3D1692209762&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A hyper-realistic sand simulator built with WebGL2 and JavaScript is accessible via web browsers on desktops, tablets, and mobile devices.</p><p>The simulation allows users to interact with the grains by pushing them with a finger, tilting the device to induce sliding, or shaking it to scatter the sand.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27105"><img src="https://wsrv.nl/?url=https%3A%2F%2Feaj.no%2Fposts%2Fopen-graph-images-with-typst%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Erik André Jakobsen outlines a method for automating the creation of Open Graph images using the Astro static site generator and the Typst document generator. This pipeline uses the Typst CLI to render themed markup templates into PNG files during the build process, passing post titles as dynamic input variables.</p><p>The workflow integrates Astro's Content Collections and API routes to programmatically generate a unique image for every article. To prevent social media platforms from serving stale, cached images, the approach employs a cache-busting strategy that appends a SHA-256 hash of the template and title as a query parameter.</p>
 <p>Nov 10 · <a href="https://eaj.no/posts/open-graph-images-with-typst/">eaj.no</a> | <a href="https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst">lobsters</a></p>
-<br clear="all" />
-
-<h2>Julia Desmazes Designs Networking Switch ASIC Chip in Four Days</h2>
-<a name="story-27088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fessenceia.github.io%2Fprojects%2Fexpresso%2Ffeature.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Julia Desmazes describes the design of a networking switch ASIC chip completed within a 96-hour deadline. The project uses the GlobalFoundries 180nm process via wafer.space and is part of a larger initiative to build open-source networking equipment, with the ultimate goal of creating a full router.</p><p>The article examines technical aspects of semiconductor fabrication, including area optimization for yield, dicing, and packaging options like wire bonding and chip-on-board. It also discusses the importance of pin architecture in supporting an RMII interface for Ethernet port communication.</p>
-<p>Nov 10 · <a href="https://essenceia.github.io/projects/expresso/">essenceia.github.io</a> | <a href="https://lobste.rs/s/n8reli/building_networking_switch_asic_chip">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50433682">hacker news</a></p>
 <br clear="all" />
 
 ---
