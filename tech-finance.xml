@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-11T21:01:00+00:00</updated>
+  <updated>2026-11-12T00:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>CoreWeave Plans $4 Billion Investment-Grade Loan</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan::v240</id>
+    <published>2026-11-12T00:01:00+00:00</published>
+    <updated>2026-11-12T00:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan">bloomberg.com</a></small></p><hr/><p>CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering, potentially as early as next week. The AI computing supplier expects the loan to yield between 7% and 7.5%, which is approximately half the yield of its existing junk bonds.</p><p>The financing is intended to support the company's growth. Moving to investment-grade debt could significantly reduce CoreWeave's cost of capital compared to its previous high-yield debt issuances.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 07:01 UTC | #27222</small>]]></content>
+  </entry>
   <entry>
     <title>OKXICE Plans US Tokenized Stock Venue Launch Amid Corporate Backlash</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-11/crypto-s-bid-to-shake-up-stock-trading-revs-up-despite-backlash" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>CoreWeave Plans $4 Billion Investment-Grade Loan</h2>
+<a name="story-27222"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering, potentially as early as next week. The AI computing supplier expects the loan to yield between 7% and 7.5%, which is approximately half the yield of its existing junk bonds.</p><p>The financing is intended to support the company's growth. Moving to investment-grade debt could significantly reduce CoreWeave's cost of capital compared to its previous high-yield debt issuances.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>OKXICE Plans US Tokenized Stock Venue Launch Amid Corporate Backlash</h2>
 <a name="story-27212"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.staticimg.com%2Fcms%2Fmedia%2FrNEr8eW6aBKal85AoG8ItHMfMFoe4bjCMFmeZIJeq.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Scheduled for launch on November 23, the OKX and ICE joint venture OKXICE intends to list over 70 assets on a new US tokenized stock venue. The project faces significant opposition, as 56 of the 62 companies targeted for tokenized trading have expressed objections.</p><p>This expansion represents an effort by crypto-industry players to capture a share of the US stock market. The push for tokenized equity trading continues despite active pushback from many of the corporate entities whose shares are being targeted.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27080"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6af268b88f37e8e0b5baba7d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Graphon Labs raised a $35 million Series A led by RRE Ventures to develop software that helps AI agents store and retrieve information over time. Its system maps relationships, sources, and changes across documents, videos, and images instead of treating data as isolated snippets.</p><p>The 20-person San Francisco company says its technology is used by the San Francisco 49ers and HP, and targets developers and data-intensive enterprises. Graphon plans to use the funding to hire engineers, researchers, and go-to-market staff while remaining focused on enterprise customers before expanding toward personal devices and consumer products.</p>
 <p>Nov 10 · <a href="https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10">businessinsider.com</a> | <a href="https://www.businesswire.com/news/home/20261110959095/en/">businesswire.com</a></p>
-<br clear="all" />
-
-<h2>Clara Raises $105 Million to Expand Latin American Spend Management Platform</h2>
-<a name="story-27075"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEp9cYQa5Iqzg%2Ffeedshare-shrink_800%2FB56ZaRcV6QGkAg-%2F0%2F1746196850793%3Fe%3D2147483647%26v%3Dbeta%26t%3DR2ssU-oh97RG3GSXSX4wKhikBuFfwl5D3DCgVUepQQE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The São Paulo-based fintech has secured $105 million in combined equity and growth financing. This includes a $65 million Series C round and a $40 million renewal of existing growth capital.</p><p>Funds are earmarked for scaling sales and engineering teams and building an AI-driven financial operating system. The company also plans to enter new markets and broaden its offerings for corporate clients.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth">bloomberg.com</a> | <a href="https://www.clara.com/resources/newsroom/clara-raises-105-million-series-c-and-growth-financing">clara.com</a></p>
 <br clear="all" />
 
 ---
