@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Lyra Rebane Explains How Bug Tracker Error and AI Aggregators Created False Millionaire Claims</h2>
+<a name="story-27250"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvpncentral.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGoogle-Publishes-Chromium-Exploit-Code-1024x576-1-700x394.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Security researcher Lyra Rebane explains how an administrative error that mistakenly granted her edit access to a Google Buganizer issue allowed her to modify her own Chromium bug bounty reward to over $1.3 million as a joke on X.</p><p>Although she quickly clarified that the change was unauthorized and unpaid, automated AI-generated news aggregators and Google's AI Overview treated the satirical post as fact, illustrating vulnerabilities in modern information ecosystems.</p>
+<p>Nov 12 · <a href="https://lyra.horse/blog/2026/11/disinformation-machine/">lyra.horse</a> | <a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50460254">hacker news</a></p>
+<br clear="all" />
+
 <h2>Jane Street Systems Engineer Recounts Near-Loss of NYC Datacenter Due to False Smoke Alarm</h2>
 <a name="story-27236"><img src="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Jane Street systems engineer describes a near-catastrophic incident at the firm's New York City datacenter in 1 New York Plaza. A false smoke alarm, triggered by dust from nearby construction, caused the cooling systems to shut down, risking a situation where rising temperatures would trigger heat-sensitive sprinklers and flood the server room.</p><p>To prevent equipment destruction, the engineer manually disconnected power to all servers before temperatures exceeded critical thresholds. The incident led the systems team to implement a more reliable temperature monitoring system written in OCaml that queries individual Linux servers to detect cooling failures.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26975"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F953%2F953465fa-0f83-4ed1-80a1-e51a8e96df61%2FphpCpfLgU&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Maurycyz describes a method for embedding text messages within the modulus of RSA public keys used in SSL/TLS certificates. By modifying the bytes of a target modulus to include a message and then finding a nearby prime factor, a user can create a valid public key that can be signed by a Certificate Authority while concealing the hidden text in its base64-encoded representation.</p><p>The implementation involves finding a new prime factor that is close enough to the ideal quotient to maintain a valid modulus. Although this technique reduces the entropy of the private key, the author notes that the certificates remain secure for public web use due to the forward secrecy provided by modern TLS protocols.</p>
 <p>Nov 9 · <a href="https://maurycyz.com/projects/badcert/">maurycyz.com</a> | <a href="https://lobste.rs/s/txkq8s/horrible_public_key_tricks">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50434264">hacker news</a></p>
-<br clear="all" />
-
-<h2>Drivers and Risks of Connectivity in Operational Technology Environments</h2>
-<a name="story-26972"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwaterprojectsonline.com%2Fwp-content%2Fuploads%2Farticle_photos%2F2019%2F2019_severn_trent_brp_wtw_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Operational Technology (OT) and Industrial Control Systems (ICS) are integrated into networks to improve efficiency and reduce costs, despite increasing cybersecurity risks. This shift was driven by IT/OT convergence, where bespoke serial-based systems were replaced by standardized Ethernet-based architectures to facilitate easier technical support and logistics.</p><p>Connectivity is further driven by the need for real-time telemetry in distributed infrastructure like renewable energy grids and the requirement for remote maintenance by Original Equipment Manufacturers (OEMs). Implementing security upgrades remains difficult due to the high cost of equipment replacement, the long lifecycles of legacy hardware, and the operational risks associated with modifying critical control systems.</p>
-<p>Nov 9 · <a href="https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/">tisiphone.net</a> | <a href="https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50432656">hacker news</a></p>
 <br clear="all" />
 
 ---

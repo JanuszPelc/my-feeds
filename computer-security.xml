@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-11T23:33:00+00:00</updated>
+  <updated>2026-11-12T03:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Lyra Rebane Explains How Bug Tracker Error and AI Aggregators Created False Millionaire Claims</title>
+    <link href="https://lyra.horse/blog/2026/11/disinformation-machine/" rel="alternate" />
+    <id>https://lyra.horse/blog/2026/11/disinformation-machine/::v240</id>
+    <published>2026-11-12T03:21:00+00:00</published>
+    <updated>2026-11-12T03:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvpncentral.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGoogle-Publishes-Chromium-Exploit-Code-1024x576-1-700x394.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lyra.horse/blog/2026/11/disinformation-machine/">lyra.horse</a> | <a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50460254">hacker news</a></small></p><hr/><p>Security researcher Lyra Rebane explains how an administrative error that mistakenly granted her edit access to a Google Buganizer issue allowed her to modify her own Chromium bug bounty reward to over $1.3 million as a joke on X.</p><p>Although she quickly clarified that the change was unauthorized and unpaid, automated AI-generated news aggregators and Google's AI Overview treated the satirical post as fact, illustrating vulnerabilities in modern information ecosystems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvpncentral.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGoogle-Publishes-Chromium-Exploit-Code-1024x576-1-700x394.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 09:12 UTC | #27250</small>]]></content>
+  </entry>
   <entry>
     <title>Jane Street Systems Engineer Recounts Near-Loss of NYC Datacenter Due to False Smoke Alarm</title>
     <link href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/" rel="alternate" />
