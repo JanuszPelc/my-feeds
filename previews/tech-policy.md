@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Senators Request Preservation of Documents Regarding Nvidia China Exports and Jensen Huang&#x27;s Affair</h2>
+<a name="story-27242"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2219673294.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Senators Elizabeth Warren and Chris Coons have requested that the Trump administration preserve all records concerning Nvidia's chip exports to China and an affair involving CEO Jensen Huang. This move serves as a preliminary step that often precedes formal congressional investigations.</p><p>The inquiry targets the geopolitical implications of semiconductor trade and the personal conduct of Nvidia's leadership.</p>
+<p>Nov 12 · <a href="https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?st=XVfMWZ&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
+<h2>Senators Elizabeth Warren and Chris Coons Request Preservation of Nvidia China Records</h2>
+<a name="story-27227"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.particlenews.com%2Fimg%2Fid%2F1dX7OR_1B0CsfZH00&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Senators Elizabeth Warren and Chris Coons have urged the Trump administration to preserve all records and communications related to Nvidia's semiconductor exports to China and associated policy decisions. The request serves as a preliminary step often preceding formal congressional oversight and investigations into trade permissions granted for advanced technology.</p><p>Lawmakers have increasingly scrutinized federal decisions surrounding high-performance chip shipments amid evolving national security and foreign trade policies. The document preservation demand highlights ongoing legislative interest in executive branch oversight regarding critical technology transfers to overseas markets.</p>
+<p>Nov 12 · <a href="https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Megaspeed Founder Alice Huang Returns to Beijing Amid Nvidia Investigation</h2>
 <a name="story-27226"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AktE7Ip1uz3aP4R_6I1X8Kg.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Megaspeed founder Alice Huang has returned to China and is residing in Beijing with the awareness of security officials. Huang sits at the center of a corporate and geopolitical firestorm involving Nvidia Corp. Chief Executive Officer Jensen Huang, following scrutiny over her alleged ties to Chinese intelligence and allegations that her firm facilitated the transfer of restricted Nvidia AI processors to China.</p><p>The unfolding scandal has placed intense pressure on Singapore-based cloud computing provider Megaspeed and its massive procurement of advanced Nvidia hardware. Investigators are closely examining the company's supply chains, trade routes, and international operations, compounding regulatory and governance challenges for Nvidia.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27122"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.xdaimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Fnvidia-titan-z-dual-gpu-design.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Records show that China's Northwestern Polytechnical University, an institution with close ties to the People's Liberation Army, acquired Nvidia H200 artificial intelligence chips. The purchase occurred despite the university being placed on a United States export blacklist designed to restrict access to advanced American technology.</p><p>The acquisition highlights ongoing challenges in enforcing U.S. export controls on high-performance semiconductors destined for Chinese entities. The H200 is among Nvidia's advanced processors, making it a critical asset for military and research applications restricted by trade regulations.</p>
 <p>Nov 11 · <a href="https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50453301">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nvidia Faces New Washington Chip Restrictions Following CEO Spy Scandal</h2>
-<a name="story-27118"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1809366%2Fjensen-huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An espionage scandal involving Nvidia CEO Jensen Huang has increased the likelihood that Congress will enact new restrictions on chip sales to China as part of the upcoming National Defense Authorization Act.</p><p>Lawmakers pushing for the limits argue that selling high-power chips to China creates national security risks, prompting Nvidia to adjust its lobbying strategy to rely on tech sector allies and major customers while the Chip Security Act emerges as a likely addition to the year-end defense package.</p>
-<p>Nov 11 · <a href="https://www.politico.com/news/2026/11/10/nvidia-ceos-spy-scandal-tilts-capitol-hills-chip-fight-01160548">politico.com</a> | <a href="https://news.ycombinator.com/item?id=50450055">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nima Momeni Sentenced to 16 Years to Life for Murder of Cash App Founder Bob Lee</h2>
-<a name="story-27111"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F12%2F11%2Fmultimedia%2F10nat-boblee-killing%2F00nat-boblee-verdict-tlfq-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nima Momeni was sentenced to 16 years to life in prison for the 2023 stabbing death of Cash App founder Bob Lee. San Francisco Superior Court Judge Alexandra Gordon handed down the sentence and denied a defense request for a new trial following Momeni's second-degree murder conviction.</p><p>The April 2023 killing initially sparked widespread public anxiety and criticism from tech leaders regarding crime and safety in San Francisco. However, trial evidence revealed the murder stemmed from personal disputes within the local party and drug culture rather than random street violence, and Momeni is expected to appeal the verdict.</p>
-<p>Nov 11 · <a href="https://www.nytimes.com/2026/11/10/us/bob-lee-cash-app-murder-sentencing.html">nytimes.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-12T09:34:00+00:00</updated>
+  <updated>2026-11-12T09:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>EU Sues IBM, Atos, and Leonardo Over Smart Border System Delays</title>
+    <link href="https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301" rel="alternate" />
+    <id>https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301::v240</id>
+    <published>2026-11-12T09:50:00+00:00</published>
+    <updated>2026-11-12T09:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbritainherald.com%2Fwp-content%2Fuploads%2F2026%2F04%2FEU-Entry-Exit-System-border-delays-Imaage-Via-Zurich-Airport.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301">ft.com</a></small></p><hr/><p>The European Union has filed a lawsuit in Estonia against IBM, French IT group Atos, and Italian contractor Leonardo over repeated delays in developing its Entry/Exit System. The technological setbacks and implementation failures associated with the smart border project have triggered widespread travel chaos and border congestion across member states.</p><p>The litigation highlights increasing institutional frustration over accountability and delivery timelines for major public-sector digital infrastructure. The automated border management system is designed to track non-EU travelers, but its rocky rollout has repeatedly disrupted transport networks and passenger processing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbritainherald.com%2Fwp-content%2Fuploads%2F2026%2F04%2FEU-Entry-Exit-System-border-delays-Imaage-Via-Zurich-Airport.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 16:37 UTC | #26890 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>iFixit Teardown of MacBook Pro with PROLED XDR Reveals Glowing Apple Mechanism</title>
     <link href="https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple" rel="alternate" />
@@ -470,14 +479,5 @@
     <published>2026-11-07T10:33:00+00:00</published>
     <updated>2026-11-07T10:33:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://mitchellh.com/writing/libghostty-1-0">mitchellh.com</a> | <a href="https://lobste.rs/s/0ouxwf/libghostty_1_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50399933">hacker news</a></small></p><hr/><p>Mitchell Hashimoto has released libghostty-vt 1.0, a portable, high-performance C library for terminal emulation extracted directly from the core of the Ghostty project. The 1.0 milestone establishes a stable C ABI and semantic versioning, ensuring long-term compatibility for dynamic linking and operating system distribution packaging.</p><p>The library has already achieved widespread production adoption across millions of users in applications such as JetBrains IDEs, Neovim, and various developer tools. Built with a minimal, permissively licensed dependency tree and extensive cross-platform support spanning Linux, macOS, Windows, mobile platforms, and WebAssembly, it provides a generalized foundation for building terminal software.</p><hr/><small>7 Nov 2026, 02:48 UTC | #26731 | h,dr</small>]]></content>
-  </entry>
-  <entry>
-    <title>European Commission Accuses TikTok of Violating Digital Services Act via Harmful Content "Rabbit Holes"</title>
-    <link href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation" rel="alternate" />
-    <id>https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation::v240</id>
-    <published>2026-11-07T09:44:00+00:00</published>
-    <updated>2026-11-07T09:44:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.fastcompany.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fwp-cms-2%2F2025%2F02%2Fi-91286859-tiktok-web-browser_6ade9c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation">therecord.media</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361">ec.europa.eu</a> | <a href="https://news.ycombinator.com/item?id=50400672">hacker news</a></small></p><hr/><p>The European Commission has issued preliminary findings that TikTok violated the Digital Services Act (DSA) by using recommendation algorithms that drive users into "rabbit holes" of harmful content. The investigation found that TikTok's "For You" feed can repeatedly present users with videos related to sadness, self-harm, and body image issues based on implicit engagement signals.</p><p>This marks the first time EU regulators have directly challenged the engagement-based recommendation models of a major social media platform. If these findings are confirmed, TikTok faces potential fines of up to 6% of its annual global revenue.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.fastcompany.com%2Fimage%2Fupload%2Ff_webp%2Cq_auto%2Cc_fit%2Cw_1024%2Ch_1024%2Fwp-cms-2%2F2025%2F02%2Fi-91286859-tiktok-web-browser_6ade9c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>6 Nov 2026, 19:13 UTC | #26665 | r,hd</small>]]></content>
   </entry>
 </feed>

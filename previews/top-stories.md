@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;EU Sues IBM, Atos, and Leonardo Over Smart Border System Delays</h2>
+<a name="story-26890"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbritainherald.com%2Fwp-content%2Fuploads%2F2026%2F04%2FEU-Entry-Exit-System-border-delays-Imaage-Via-Zurich-Airport.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The European Union has filed a lawsuit in Estonia against IBM, French IT group Atos, and Italian contractor Leonardo over repeated delays in developing its Entry/Exit System. The technological setbacks and implementation failures associated with the smart border project have triggered widespread travel chaos and border congestion across member states.</p><p>The litigation highlights increasing institutional frustration over accountability and delivery timelines for major public-sector digital infrastructure. The automated border management system is designed to track non-EU travelers, but its rocky rollout has repeatedly disrupted transport networks and passenger processing.</p>
+<p>Nov 12 · <a href="https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301">ft.com</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;iFixit Teardown of MacBook Pro with PROLED XDR Reveals Glowing Apple Mechanism</h2>
 <a name="story-27140"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F10161844%2FApple-lid-cutout_b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>iFixit has published a teardown of Apple's new MacBook Pro with PROLED XDR, offering a detailed look at its tandem OLED display and the four-LED lighting strip responsible for illuminating the newly restored glowing Apple logo. The investigation examines how the laptop achieves a lighter chassis design while introducing a touchscreen and retaining functional Touch ID compatibility during logic board swaps.</p><p>Despite improvements such as streamlined lid replacement and reliable hardware swapping, the teardown highlights that components like fans and USB-C ports remain buried beneath the logic board. The device ultimately earned a repairability score of 5 out of 10, constrained by design elements like soldered storage and a keyboard integrated into the top case.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26915"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F4_v1_nUZDsJM.max-1800x1800.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is introducing two new specialized AI chips: the TPU 8tx, designed to be paired with AMD CPUs, and the TPU 8i Max, a dual-chip package optimized for long-context window tasks.</p><p>The TPU 8i Max is scheduled for launch in 2027. This expansion of the TPU lineup is part of Google's effort to bolster its AI hardware capabilities and increase competition with Nvidia.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50432831">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Anthropic Targets Up to $64.4 Billion in Initial Public Offering</h2>
-<a name="story-27010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p>
-<p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></p>
 <br clear="all" />
 
 ---
