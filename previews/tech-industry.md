@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Jensen Huang Accused of Affair with Nvidia Executive</h2>
+<a name="story-27218"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGettyImages-2294936867.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia CEO Jensen Huang is accused of an extramarital affair with Kimberly Powell, the company's vice president of healthcare. The New York Times reports that five employees claim to have seen video of the pair behaving affectionately at a San Jose hotel earlier this year.</p><p>This follows Huang's previously admitted affair with a woman accused of being a Chinese spy. Nvidia's board has launched an investigation, and the Wall Street Journal reports the company is preparing to oust the founder. House Republicans are considering subpoenaing Huang regarding the previous spy-related allegations.</p>
+<p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50459321">hacker news</a></p>
+<br clear="all" />
+
 <h2>TechCrunch&#x27;s Equity Podcast Discusses Data Center Construction Challenges</h2>
 <a name="story-27209"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechdecent.com%2Fwp-content%2Fuploads%2FChatGPT-2026-04-05T161756.761.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Many announced data center projects may never be constructed despite massive AI infrastructure investment, according to Brent Nelson of Ascend Analytics on TechCrunch's Equity podcast.</p><p>Obstacles including local opposition, permitting delays, and electricity scarcity make it increasingly important to distinguish realistic construction plans from speculative ones.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27082"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd.techtimes.co.uk%2Fen%2Ffull%2F1820588%2Fnvidia.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic is preparing an initial public offering that could value the company at up to $1.4 trillion. As part of the deal, Nvidia plans to invest approximately $10 billion in the AI software company immediately following the IPO, representing about 10 percent of the total cash Anthropic expects to raise this month.</p><p>The investment marks a significant shift for the two companies, which have historically maintained distance and clashed over U.S. government regulation of AI technology. The move underscores the deepening financial ties between AI software developers and the hardware providers powering the sector.</p>
 <p>Nov 10 · <a href="https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>OpenAI Acquires AI Travel Startup Odessia</h2>
-<p>OpenAI has acquired AI travel agent startup Odessia, founded by former Sonder CEO Francis Davidson. As part of the deal, Odessia's standalone service is shutting down, and Davidson is joining OpenAI to assist with the development of travel-related AI capabilities.</p><p>Odessia, which raised $6 million in pre-seed funding led by Sequoia, launched its service approximately five months ago. The move follows OpenAI's identification of travel as a primary use case for its ChatGPT agents and comes after Davidson's previous company, Sonder, underwent bankruptcy and winding down.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/">techcrunch.com</a> | <a href="https://www.linkedin.com/pulse/openai-acquires-odessia-francis-davidson-yolcc">linkedin.com</a></p>
 <br clear="all" />
 
 ---
