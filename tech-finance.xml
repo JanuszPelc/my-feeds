@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-12T00:01:00+00:00</updated>
+  <updated>2026-11-12T05:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Stops Reporting Singapore Revenue Following Megaspeed Blocklisting</title>
+    <link href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5" rel="alternate" />
+    <id>https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5::v240</id>
+    <published>2026-11-12T05:36:00+00:00</published>
+    <updated>2026-11-12T05:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5">wsj.com</a></small></p><hr/><p>Nvidia ceased reporting its revenue from Singapore after the quarter ending in July 2025, a period when Singapore accounted for 22% of the company's total sales. The change in reporting followed Nvidia's decision to place Singapore-based cloud computing firm Megaspeed on a blocklist amid escalating international scrutiny and probes involving billions of dollars in AI chip purchases.</p><p>Megaspeed has drawn intense scrutiny regarding its massive acquisitions of Nvidia technology through secondary markets and overseas units like Speedmatrix in Malaysia. The shifting transparency surrounding Nvidia's regional sales figures deepens ongoing questions regarding the distribution paths and ultimate destinations of advanced AI hardware flowing into Southeast Asia.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 12:39 UTC | #27241</small>]]></content>
+  </entry>
   <entry>
     <title>CoreWeave Plans $4 Billion Investment-Grade Loan</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan" rel="alternate" />

@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Jensen Huang Accused of Affair with Nvidia Executive</h2>
 <a name="story-27218"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGettyImages-2294936867.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia CEO Jensen Huang is accused of an extramarital affair with Kimberly Powell, the company's vice president of healthcare. The New York Times reports that five employees claim to have seen video of the pair behaving affectionately at a San Jose hotel earlier this year.</p><p>This follows Huang's previously admitted affair with a woman accused of being a Chinese spy. Nvidia's board has launched an investigation, and the Wall Street Journal reports the company is preparing to oust the founder. House Republicans are considering subpoenaing Huang regarding the previous spy-related allegations.</p>
-<p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50459321">hacker news</a></p>
+<p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50459703">hacker news</a></p>
 <br clear="all" />
 
 <h2>TechCrunch&#x27;s Equity Podcast Discusses Data Center Construction Challenges</h2>

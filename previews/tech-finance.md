@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nvidia Stops Reporting Singapore Revenue Following Megaspeed Blocklisting</h2>
+<a name="story-27241"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia ceased reporting its revenue from Singapore after the quarter ending in July 2025, a period when Singapore accounted for 22% of the company's total sales. The change in reporting followed Nvidia's decision to place Singapore-based cloud computing firm Megaspeed on a blocklist amid escalating international scrutiny and probes involving billions of dollars in AI chip purchases.</p><p>Megaspeed has drawn intense scrutiny regarding its massive acquisitions of Nvidia technology through secondary markets and overseas units like Speedmatrix in Malaysia. The shifting transparency surrounding Nvidia's regional sales figures deepens ongoing questions regarding the distribution paths and ultimate destinations of advanced AI hardware flowing into Southeast Asia.</p>
+<p>Nov 12 · <a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5">wsj.com</a></p>
+<br clear="all" />
+
 <h2>CoreWeave Plans $4 Billion Investment-Grade Loan</h2>
 <a name="story-27222"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering, potentially as early as next week. The AI computing supplier expects the loan to yield between 7% and 7.5%, which is approximately half the yield of its existing junk bonds.</p><p>The financing is intended to support the company's growth. Moving to investment-grade debt could significantly reduce CoreWeave's cost of capital compared to its previous high-yield debt issuances.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27089"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmultilingual.mocortech.com%2Fcms-content-file%2F2026-11-10%2FF20261110172516056sOdprw7KVIAyQd&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CoreWeave reported third-quarter revenue of $3.66 billion, exceeding expectations of $3.55 billion and marking a 168% increase year-over-year. The company also lifted its 2026 revenue guidance to a range of $13 billion to $13.3 billion.</p><p>Despite reporting a net loss of $709 million, the company reported a revenue backlog of $132.5 billion. These results arrive as the company carries nearly $47 billion in debt amidst volatility in the AI infrastructure market.</p>
 <p>Nov 10 · <a href="https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx">investors.coreweave.com</a></p>
-<br clear="all" />
-
-<h2>Graphon Labs Raises $35 Million for AI Agent Memory Software</h2>
-<a name="story-27080"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6af268b88f37e8e0b5baba7d%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Graphon Labs raised a $35 million Series A led by RRE Ventures to develop software that helps AI agents store and retrieve information over time. Its system maps relationships, sources, and changes across documents, videos, and images instead of treating data as isolated snippets.</p><p>The 20-person San Francisco company says its technology is used by the San Francisco 49ers and HP, and targets developers and data-intensive enterprises. Graphon plans to use the funding to hire engineers, researchers, and go-to-market staff while remaining focused on enterprise customers before expanding toward personal devices and consumer products.</p>
-<p>Nov 10 · <a href="https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10">businessinsider.com</a> | <a href="https://www.businesswire.com/news/home/20261110959095/en/">businesswire.com</a></p>
 <br clear="all" />
 
 ---
