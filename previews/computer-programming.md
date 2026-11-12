@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>C++26 Standard Fails National Bodies Vote</h2>
+<a name="story-27245"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E12AQEmdSkE_4eHxQ%2Farticle-cover_image-shrink_600_2000%2Farticle-cover_image-shrink_600_2000%2F0%2F1729503918002%3Fe%3D2147483647%26v%3Dbeta%26t%3DAxtyEcgxkfv9yvtXg1B79jIU8Jx-1FLY0SFzR9X9rqg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The C++26 standard draft has failed to pass approval from national bodies for the first time in the language's history. The rejection was triggered by disagreement over the 'Contracts' feature, which failed to meet the required voting thresholds for both P-members and national member bodies.</p><p>The failure follows long-standing internal conflicts within the C++ Standards Committee (WG21) over the implementation of runtime contract enforcement. While the committee had previously voted to include the feature, various national bodies and prominent language experts raised concerns regarding its technical complexity and potential for inconsistent enforcement.</p>
+<p>Nov 12 · <a href="https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/">herecomesthemoon.net</a> | <a href="https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-share-7519795139859517440-AOth/">linkedin.com</a> | <a href="https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass">lobsters</a></p>
+<br clear="all" />
+
 <h2>GitHub Actions Supports Workflow Lockfiles</h2>
 <a name="story-27239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.den.dev%2Fimages%2Fpostmedia%2Fdocs-github-actions%2Fworkflow-init.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GitHub Actions now supports workflow lockfiles, allowing developers to use version tags in workflow files while maintaining the security of immutable commit SHAs. This mechanism helps prevent supply-chain attacks where mutable tags are redirected to malicious code.</p><p>Users can manage these files using the `gh-actions-lock` extension for the GitHub CLI to generate and update `.github/workflows/actions.lock` files. The solution is compatible with automated dependency update tools like Dependabot and Renovate, and can be verified in continuous integration to ensure lockfiles remain synchronized with workflow definitions.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27106"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F5d7b77b063a9066d83e1209c%2F62c858790e1ce4ff4b334415_HERO.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The GenDB-V system reports performance improvements of 22x to 61x over database engines like Umbra and DuckDB. These gains appear to stem from AI-driven overfitting, where the system uses handcrafted auxiliary data structures and hard-coded knowledge of the TPC-H data generator's layout to optimize for specific benchmark queries.</p><p>While the system is formally verified, its reliance on these specific data patterns may make it impractical for real-world use. The author argues that even minor data modifications, such as inserting or deleting a tuple, could force the system into inefficient fallback execution paths, making it unsuitable for dynamic production environments.</p>
 <p>Nov 10 · <a href="https://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html">databasearchitects.blogspot.com</a> | <a href="https://arxiv.org/pdf/2611.02779">arxiv.org</a> | <a href="https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50452496">hacker news</a></p>
-<br clear="all" />
-
-<h2>Automating Open Graph Image Generation with Astro and Typst</h2>
-<a name="story-27105"><img src="https://wsrv.nl/?url=https%3A%2F%2Feaj.no%2Fposts%2Fopen-graph-images-with-typst%2Fog.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Erik André Jakobsen outlines a method for automating the creation of Open Graph images using the Astro static site generator and the Typst document generator. This pipeline uses the Typst CLI to render themed markup templates into PNG files during the build process, passing post titles as dynamic input variables.</p><p>The workflow integrates Astro's Content Collections and API routes to programmatically generate a unique image for every article. To prevent social media platforms from serving stale, cached images, the approach employs a cache-busting strategy that appends a SHA-256 hash of the template and title as a query parameter.</p>
-<p>Nov 10 · <a href="https://eaj.no/posts/open-graph-images-with-typst/">eaj.no</a> | <a href="https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst">lobsters</a></p>
 <br clear="all" />
 
 ---
