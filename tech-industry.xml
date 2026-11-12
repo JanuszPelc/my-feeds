@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-11T17:41:00+00:00</updated>
+  <updated>2026-11-11T20:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>TechCrunch's Equity Podcast Discusses Data Center Construction Challenges</title>
+    <link href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/" rel="alternate" />
+    <id>https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/::v240</id>
+    <published>2026-11-11T20:16:00+00:00</published>
+    <updated>2026-11-11T20:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechdecent.com%2Fwp-content%2Fuploads%2FChatGPT-2026-04-05T161756.761.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/">techcrunch.com</a></small></p><hr/><p>Many announced data center projects may never be constructed despite massive AI infrastructure investment, according to Brent Nelson of Ascend Analytics on TechCrunch's Equity podcast.</p><p>Obstacles including local opposition, permitting delays, and electricity scarcity make it increasingly important to distinguish realistic construction plans from speculative ones.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechdecent.com%2Fwp-content%2Fuploads%2FChatGPT-2026-04-05T161756.761.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 01:24 UTC | #27209</small>]]></content>
+  </entry>
   <entry>
     <title>Meta's Santosh Janardhan to Step Down in 2027</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027" rel="alternate" />

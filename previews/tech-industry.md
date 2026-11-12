@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TechCrunch&#x27;s Equity Podcast Discusses Data Center Construction Challenges</h2>
+<a name="story-27209"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechdecent.com%2Fwp-content%2Fuploads%2FChatGPT-2026-04-05T161756.761.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Many announced data center projects may never be constructed despite massive AI infrastructure investment, according to Brent Nelson of Ascend Analytics on TechCrunch's Equity podcast.</p><p>Obstacles including local opposition, permitting delays, and electricity scarcity make it increasingly important to distinguish realistic construction plans from speculative ones.</p>
+<p>Nov 11 · <a href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Meta&#x27;s Santosh Janardhan to Step Down in 2027</h2>
 <a name="story-27190"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.ahmedabadmirror.com%2Fam%2Fuploads%2FmediaGallery%2Fimage%2F1654765605199.jpg-org&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Santosh Janardhan, Meta's head of infrastructure and co-head of engineering, plans to depart the company in early 2027. Dave Brown is slated to succeed him.</p><p>This leadership transition arrives as Meta continues its ongoing developments in infrastructure and engineering.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>OpenAI Acquires AI Travel Startup Odessia</h2>
 <p>OpenAI has acquired AI travel agent startup Odessia, founded by former Sonder CEO Francis Davidson. As part of the deal, Odessia's standalone service is shutting down, and Davidson is joining OpenAI to assist with the development of travel-related AI capabilities.</p><p>Odessia, which raised $6 million in pre-seed funding led by Sequoia, launched its service approximately five months ago. The move follows OpenAI's identification of travel as a primary use case for its ChatGPT agents and comes after Davidson's previous company, Sonder, underwent bankruptcy and winding down.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/">techcrunch.com</a> | <a href="https://www.linkedin.com/pulse/openai-acquires-odessia-francis-davidson-yolcc">linkedin.com</a></p>
-<br clear="all" />
-
-<h2>New York Implements AI Safety and Transparency Mandates for Large Developers</h2>
-<a name="story-27081"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2026-03-03%2FUS-State-Dept-switches-to-OpenAI-chatbot-as-agencies-drop-Anthropic-1LcPOS689Ik%2Fimg%2F872c8a683bbe44379c63e75701bd306a%2F872c8a683bbe44379c63e75701bd306a-750.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>New York has launched a registration portal for large frontier AI developers as part of the implementation of the RAISE Act. Companies with annual revenues exceeding $500 million, including major players like OpenAI and Anthropic, must register by January 1, 2027. The law mandates that these organizations publish safety frameworks, report critical safety incidents within 72 hours, and issue public model transparency reports.</p><p>The Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will oversee compliance, with penalties for violations reaching up to $3 million. To support these efforts, Governor Kathy Hochul has launched the New York Center for AI Responsibility and Research at SUNY Binghamton to independently evaluate the safety and operation of advanced AI systems. These requirements mirror similar transparency and safety laws recently passed in California and Illinois.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
