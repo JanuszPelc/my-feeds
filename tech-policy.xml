@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-11T23:57:00+00:00</updated>
+  <updated>2026-11-12T03:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Megaspeed Founder Alice Huang Returns to Beijing Amid Nvidia Investigation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing::v240</id>
+    <published>2026-11-12T03:18:00+00:00</published>
+    <updated>2026-11-12T03:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AktE7Ip1uz3aP4R_6I1X8Kg.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing">bloomberg.com</a></small></p><hr/><p>Megaspeed founder Alice Huang has returned to China and is residing in Beijing with the awareness of security officials. Huang sits at the center of a corporate and geopolitical firestorm involving Nvidia Corp. Chief Executive Officer Jensen Huang, following scrutiny over her alleged ties to Chinese intelligence and allegations that her firm facilitated the transfer of restricted Nvidia AI processors to China.</p><p>The unfolding scandal has placed intense pressure on Singapore-based cloud computing provider Megaspeed and its massive procurement of advanced Nvidia hardware. Investigators are closely examining the company's supply chains, trade routes, and international operations, compounding regulatory and governance challenges for Nvidia.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AktE7Ip1uz3aP4R_6I1X8Kg.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 08:53 UTC | #27226</small>]]></content>
+  </entry>
   <entry>
     <title>Scott Bessent Confronts Howard Lutnick Over Megaspeed China Chip Concerns</title>
     <link href="https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips" rel="alternate" />
