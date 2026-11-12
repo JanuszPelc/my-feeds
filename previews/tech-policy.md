@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>TV Manufacturers Respond to Data Collection Questions</h2>
+<p>An investigation into the privacy practices of television and streaming device manufacturers reveals varying levels of transparency regarding data collection. Companies including Amazon, Apple, Google, LG, Roku, Samsung, and TCL provided responses to 17 questions regarding audio monitoring, screen recording, and viewing history, while others like Hisense and Sony declined to answer.</p><p>The findings highlight how manufacturers utilize voice assistance and Automatic Content Recognition (ACR) to track user habits. While several companies state that data collection is opt-in or limited to active user prompts, the report notes that opting out of certain features may not be entirely effective in preventing data transmission.</p>
+<p>Nov 11 · <a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50453474">hacker news</a></p>
+<br clear="all" />
+
 <h2>United Airlines to Block Personal AI Assistants from Booking Flights</h2>
 <a name="story-27199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2026%2F01%2FAI-Agent-Travel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The carrier intends to prevent automated agents from completing flight reservations, citing data privacy concerns and potential violations of FAA and DOT regulations. This decision is driven by a desire to avoid introducing unauthorized middlemen into the booking process.</p><p>The move highlights the growing tension between traditional service models and the rise of autonomous AI agents in consumer sectors. By restricting these bots, United aims to maintain direct oversight of the customer transaction and data security.</p>
@@ -90,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27117"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2026%26image%3Dno_vino&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Synaptics has used patent infringement claims to halt the development of Vino, an open-source Rust-based driver for DisplayLink docking stations on Linux. Seeking to improve performance over proprietary vendor software, developer Mike Lothian attempted to reverse-engineer the DisplayLink DL3 protocol. Synaptics issued cease-and-desist notices alleging infringement of a vast patent portfolio and demanded the removal of all related code and public discussion.</p><p>Although Lothian is an Open Invention Network (OIN) licensee, OIN concluded its patent protections do not extend to the specific codecs used in the driver. Consequently, Lothian has taken down the project's GitHub repository to avoid potential litigation. The dispute underscores the ongoing risks for open-source developers implementing proprietary hardware protocols.</p>
 <p>Nov 10 · <a href="https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/">lwn.net</a> | <a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50443824">hacker news</a></p>
-<br clear="all" />
-
-<h2>Cubist Accuses Former Analyst of Stealing Code Using AI</h2>
-<p>Cubist, the quantitative trading arm of Point72 Asset Management, has filed a lawsuit alleging a former lead research analyst used AI tools to steal proprietary source code. The complaint claims the analyst utilized Anthropic's Claude and OpenAI's Codex to misappropriate company intellectual property before moving to a competitor.</p><p>The litigation highlights the risks large language models pose to corporate data security in the financial sector. The case examines how generative artificial intelligence can be leveraged to facilitate the unauthorized transfer of sensitive technical assets.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,17 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-11T20:19:00+00:00</updated>
+  <updated>2026-11-11T20:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>TV Manufacturers Respond to Data Collection Questions</title>
+    <link href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions" rel="alternate" />
+    <id>https://www.theverge.com/tech/1012372/tv-privacy-acr-questions::v240</id>
+    <published>2026-11-11T20:28:00+00:00</published>
+    <updated>2026-11-11T20:28:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50453474">hacker news</a></small></p><hr/><p>An investigation into the privacy practices of television and streaming device manufacturers reveals varying levels of transparency regarding data collection. Companies including Amazon, Apple, Google, LG, Roku, Samsung, and TCL provided responses to 17 questions regarding audio monitoring, screen recording, and viewing history, while others like Hisense and Sony declined to answer.</p><p>The findings highlight how manufacturers utilize voice assistance and Automatic Content Recognition (ACR) to track user habits. While several companies state that data collection is opt-in or limited to active user prompts, the report notes that opting out of certain features may not be entirely effective in preventing data transmission.</p><hr/><small>12 Nov 2026, 03:51 UTC | #27232</small>]]></content>
+  </entry>
   <entry>
     <title>United Airlines to Block Personal AI Assistants from Booking Flights</title>
     <link href="https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38" rel="alternate" />

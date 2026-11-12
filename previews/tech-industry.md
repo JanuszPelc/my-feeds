@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Meta&#x27;s Santosh Janardhan to Step Down in 2027</h2>
 <a name="story-27190"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.ahmedabadmirror.com%2Fam%2Fuploads%2FmediaGallery%2Fimage%2F1654765605199.jpg-org&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Santosh Janardhan, Meta's head of infrastructure and co-head of engineering, plans to depart the company in early 2027. Dave Brown is slated to succeed him.</p><p>This leadership transition arrives as Meta continues its ongoing developments in infrastructure and engineering.</p>
-<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027">bloomberg.com</a></p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50456964">hacker news</a></p>
 <br clear="all" />
 
 <h2>Anthropic IPO Receives Multiple Times the Available Orders</h2>
