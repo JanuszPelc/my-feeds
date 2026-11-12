@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-12T07:32:00+00:00</updated>
+  <updated>2026-11-12T08:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Pietro Miotti's AI Agents Rediscover Maya Site Using NASA Lidar Data</title>
+    <link href="https://pietromiotti.com/latest/maya-site" rel="alternate" />
+    <id>https://pietromiotti.com/latest/maya-site::v240</id>
+    <published>2026-11-12T08:31:00+00:00</published>
+    <updated>2026-11-12T08:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fapartmentseo.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fshutterstock_2253228203.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://pietromiotti.com/latest/maya-site">pietromiotti.com</a> | <a href="https://news.ycombinator.com/item?id=50452455">hacker news</a></small></p><hr/><p>Technologist and traveler Pietro Miotti deployed a network of AI agents to analyze NASA lidar data of Mexican jungles, resulting in the rediscovery of an unmapped Classic-period Maya civic center within 72 hours. The agents processed approximately 1,200 square kilometers of jungle canopy data to identify structured anomalies, flagging a clifftop site featuring a plaza, a pyramid, a courtyard, and a potential reservoir.</p><p>After Miotti submitted a formal report detailing the findings to Mexico’s National Institute of Anthropology and History, officials confirmed the coordinates did not match their active register, though subsequent literature checks revealed professional archaeologists had independently mapped the same location. Miotti notes the exercise demonstrates how autonomous agents can lower barriers to geographic and archaeological exploration by automating visual analysis of remote survey data.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fapartmentseo.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fshutterstock_2253228203.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 08:30 UTC | #27248 | h,dr</small>]]></content>
+  </entry>
   <entry>
     <title>AWS Releases Free Local Emulator Built by AI Agents</title>
     <link href="https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/" rel="alternate" />

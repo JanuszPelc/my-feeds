@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/human-knowledge.png" width="28" align="texttop" /> &nbsp;Pietro Miotti&#x27;s AI Agents Rediscover Maya Site Using NASA Lidar Data</h2>
+<a name="story-27248"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapartmentseo.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fshutterstock_2253228203.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Technologist and traveler Pietro Miotti deployed a network of AI agents to analyze NASA lidar data of Mexican jungles, resulting in the rediscovery of an unmapped Classic-period Maya civic center within 72 hours. The agents processed approximately 1,200 square kilometers of jungle canopy data to identify structured anomalies, flagging a clifftop site featuring a plaza, a pyramid, a courtyard, and a potential reservoir.</p><p>After Miotti submitted a formal report detailing the findings to Mexico’s National Institute of Anthropology and History, officials confirmed the coordinates did not match their active register, though subsequent literature checks revealed professional archaeologists had independently mapped the same location. Miotti notes the exercise demonstrates how autonomous agents can lower barriers to geographic and archaeological exploration by automating visual analysis of remote survey data.</p>
+<p>Nov 12 · <a href="https://pietromiotti.com/latest/maya-site">pietromiotti.com</a> | <a href="https://news.ycombinator.com/item?id=50452455">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/ai-news.png" width="28" align="texttop" /> &nbsp;AWS Releases Free Local Emulator Built by AI Agents</h2>
 <a name="story-27210"><img src="https://wsrv.nl/?url=https%3A%2F%2Fclarusway.com%2Fwp-content%2Fuploads%2F2024%2F08%2Faws-benefits-1024x511.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AWS has released AWS Emulator, a free tool that simulates over 200 AWS services locally to facilitate testing without network connectivity or cloud costs. The emulator was built entirely by autonomous AI agents using Amazon Bedrock AgentCore, employing specialized agents to write code, execute fidelity tests, and automatically fix errors.</p><p>This tool aims to mitigate the high costs and latency introduced by AI coding agents that require rapid, repetitive testing cycles against live cloud environments. Although it provides a local environment for development, current versions do not yet simulate service outages, throttling, or regional feature variations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-26999"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA228hZP.img%3Fw%3D768%26h%3D457%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Documentation published on GitHub details how Google's Gemini AI with Connected Apps enabled can autonomously route personal Gmail and Google Drive files into human review pipelines. This ingestion occurs probabilistically during background conversations without requiring explicit user tags, contradicting earlier privacy commitments.</p><p>Testing demonstrates that background tool calls can extract partial quotes or ingest full, unredacted documents containing sensitive personally identifiable information into session contexts. Automated deidentification systems often fail to properly scrub narrative data like account numbers and transaction details, meaning private user files may be exposed to human contractors.</p>
 <p>Nov 10 · <a href="https://github.com/thisisme6598/gemini_files/">github.com</a> | <a href="https://news.ycombinator.com/item?id=50429426">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/computer-programming.png" width="28" align="texttop" /> &nbsp;USPS Provides National ZIP Code Boundary Data on PostalPro</h2>
-<a name="story-26996"><img src="https://wsrv.nl/?url=https%3A%2F%2Fadamsprintablemap.net%2Fwp-content%2Fuploads%2F2022%2F09%2Fusps-zip-code-map-by-state-printable-map-768x526.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>USPS ZIP Code Boundaries is a national mapping dataset that utilizes delivery address and location information to provide accurate geographic boundaries. The data reflects temporal fluctuations caused by changing delivery distribution for new or modified locations.</p><p>Offered through PostalPro in Internal, Enterprise, and Publication tiers with four quarterly updates, the dataset serves industries such as mapping, real estate, logistics, and insurance. It enables users to incorporate polygon data for demographic analysis, optimize routing, and update existing geographic information systems.</p>
-<p>Nov 10 · <a href="https://postalpro.usps.com/zcb">postalpro.usps.com</a> | <a href="https://news.ycombinator.com/item?id=50431058">hacker news</a></p>
 <br clear="all" />
 
 ---
