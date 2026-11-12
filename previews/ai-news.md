@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google Introduces Gemini Decisions API and Gemini Decision 1 Model</h2>
+<a name="story-27202"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fdecisions-architecture_f0NFXU9.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google has introduced the Gemini Decisions API and the Gemini Decision 1 model to facilitate fast, closed-set multimodal evaluations. The API supports up to 1,000 questions—including yes/no, multiple-choice, and rubric-based scoring—per single request across text, images, audio, video, and PDFs.</p><p>The API is designed for low-latency tasks like model routing and policy checks, returning probabilities and confidence scores in 150-250 ms. It is priced at $0.10 per 1 million input tokens, with no billing for output tokens.</p>
+<p>Nov 11 · <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50456791">hacker news</a></p>
+<br clear="all" />
+
 <h2>Google DeepMind Releases AlphaGenome 2 to Predict Cellular Effects of DNA Variants</h2>
 <a name="story-27175"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a95f49-c0c5-47d1-9c39-c38db29ab327_1024x660.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google DeepMind has released AlphaGenome 2, an AI model designed to predict how genetic variants affect specific cell types and biological states. Trained on over 100 million cell profiles across 68 tissues, the model accounts for how genes are switched on or off within different cells to provide a more granular view of genetic impact than previous models.</p><p>AlphaGenome 2 identifies nearly twice as many variants affecting gene expression as its predecessor and can predict effects on new cell types without retraining. While more computationally intensive, the model is available for non-commercial research via API to help scientists link genetic variants to specific cellular diseases.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27004"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-iyj%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F03391f04-94fc-4664-9f3e-4d144cd97ac0_1560x1136.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ethan Mollick tests Anthropic's Claude Fable 5.2 model to evaluate whether advanced AI has crossed the threshold into Artificial General Intelligence. He characterizes the model's capabilities as "Jagged AGI," noting that while it excels at complex, multi-step tasks such as hardware hacking, business concept design, historical curriculum recreation, and empirical research, notable deficiencies persist in taste, judgment, and autonomous execution.</p><p>Across multiple experiments, Fable 5.2 successfully coordinated multi-agent workflows and generated intricate interactive applications and 3D web environments from brief prompts. However, Mollick emphasizes that these outputs require human intervention to correct structural errors, refine tone, and verify findings, illustrating how AI accelerates creation far faster than humans can thoroughly review or consume it.</p>
 <p>Nov 10 · <a href="https://www.oneusefulthing.org/p/fable-52-and-jagged-agi">oneusefulthing.org</a> | <a href="https://news.ycombinator.com/item?id=50431344">hacker news</a></p>
-<br clear="all" />
-
-<h2>Meituan Releases Open Weights for LongCat-2.5 LLM</h2>
-<a name="story-26994"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F07%2Ffeatured-image-104-800x400.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meituan has released the open weights for LongCat-2.5, a 1.6-trillion-parameter mixture-of-experts large language model built for long-horizon agentic tasks and native vision understanding. The model weights were made available under a permissive MIT license following the initial unveiling on November 1.</p><p>LongCat-2.5 processes visual and textual inputs in a unified token-based format by translating visual signals into multi-level discrete tokens. This architecture delivers advanced performance in visual coding, creative design, and 3D tasks.</p>
-<p>Nov 10 · <a href="https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license">venturebeat.com</a> | <a href="https://longcat.ai/blog/longcat-2.5/">longcat.ai</a> | <a href="https://news.ycombinator.com/item?id=50337716">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Google Introduces Gemini Decisions API and Gemini Decision 1 Model</title>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/" rel="alternate" />
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/::v240</id>
+    <published>2026-11-11T20:22:00+00:00</published>
+    <updated>2026-11-11T20:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fdecisions-architecture_f0NFXU9.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50456791">hacker news</a></small></p><hr/><p>Google has introduced the Gemini Decisions API and the Gemini Decision 1 model to facilitate fast, closed-set multimodal evaluations. The API supports up to 1,000 questions—including yes/no, multiple-choice, and rubric-based scoring—per single request across text, images, audio, video, and PDFs.</p><p>The API is designed for low-latency tasks like model routing and policy checks, returning probabilities and confidence scores in 150-250 ms. It is priced at $0.10 per 1 million input tokens, with no billing for output tokens.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fdecisions-architecture_f0NFXU9.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 02:11 UTC | #27202</small>]]></content>
+  </entry>
+  <entry>
     <title>Google DeepMind Releases AlphaGenome 2 to Predict Cellular Effects of DNA Variants</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model" rel="alternate" />
     <id>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model::v240</id>
