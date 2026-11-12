@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Chinese AI Firms Rush to Secure Overseas Nvidia Compute Capacity Amid Spy Scandal Fears</h2>
+<a name="story-27243"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspectrum.ieee.org%2Fmedia-library%2Fpeople-at-an-ai-conference-stop-to-look-at-a-display-of-servers-that-stretches-across-the-room.jpg%3Fid%3D62132455%26width%3D980&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese artificial intelligence companies are actively seeking to rent Nvidia-powered computing capacity at data centers located outside China. The surge in demand is driven by growing concerns that the United States will implement tighter export restrictions on advanced semiconductor technology.</p><p>The anxiety among Chinese tech firms escalated following a spy scandal involving Nvidia CEO Jensen Huang. Companies are rushing to secure necessary processing power abroad to mitigate potential regulatory fallout and ensure the continuity of their AI development projects.</p>
+<p>Nov 12 · <a href="https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Trump Officials Questioned Nvidia CEO Jensen Huang Over China Chip Sales Lobbying</h2>
 <a name="story-27234"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1PHWe8.img%3Fw%3D768%26h%3D432%26m%3D6%26x%3D550%26y%3D209%26s%3D147%26d%3D147&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Some Trump administration officials raised concerns regarding Nvidia CEO Jensen Huang's lobbying efforts to permit increased semiconductor sales to China, even prior to revelations regarding his affair with Alice Huang. U.S. officials have repeatedly scrutinized Huang's close relationship with the president and his stance on trade with China.</p><p>The controversy highlights ongoing tensions within the administration regarding technology export controls and national security interests. As Nvidia navigates regulatory scrutiny, these developments underscore the complex intersection of corporate lobbying, executive influence, and geopolitical policy involving major tech executives.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.i-scmp.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fog_image_scmp_generic%2Fpublic%2Fd8%2Fimages%2Fcanvas%2F2025%2F01%2F01%2F39fa4886-0535-4347-b886-ae95ade50479_9b485eec.jpg%3Fitok%3DbfiOfcpo%26v%3D1735711210&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Following a sweeping anti-corruption crackdown that restricted traditional hospital visits and pharmaceutical sales representatives, drug manufacturers in China are increasingly adopting artificial intelligence assistants developed by companies like Alibaba to reach physicians.</p><p>These digital tools provide an alternative channel for marketing and engagement, helping pharmaceutical firms navigate tighter regulatory oversight while maintaining communication with medical professionals.</p>
 <p>Nov 11 · <a href="https://www.reuters.com/legal/litigation/drugmakers-tap-china-ai-app-boom-reach-doctors-crackdown-upends-marketing-2026-11-11/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Alphabet Agrees to Privacy Protections in Spirit Airlines Data Sale</h2>
-<a name="story-27147"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXmqObzrP--s%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet agreed to implement additional privacy protections to salvage its $10 million acquisition of data from bankrupt Spirit Airlines. The agreement addresses objections raised by labor unions regarding passenger and operational data handling.</p><p>The deal involves securing stakeholder approval during Spirit Airlines' ongoing bankruptcy proceedings as the companies work to clear remaining hurdles for the data transaction.</p>
-<p>Nov 11 · <a href="https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4">wsj.com</a></p>
 <br clear="all" />
 
 ---
