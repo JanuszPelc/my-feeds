@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-12T03:21:00+00:00</updated>
+  <updated>2026-11-12T05:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Danbooru Details Security Incident and Week-Long Downtime Following Malicious Flash Upload</title>
+    <link href="https://danbooru.donmai.us/forum_topics/38685.html" rel="alternate" />
+    <id>https://danbooru.donmai.us/forum_topics/38685.html::v240</id>
+    <published>2026-11-12T05:38:00+00:00</published>
+    <updated>2026-11-12T05:38:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://danbooru.donmai.us/forum_topics/38685.html">danbooru.donmai.us</a> | <a href="https://lobste.rs/s/wfr0b4/about_downtime_security_incident">lobsters</a></small></p><hr/><p>Danbooru experienced a week-long downtime following a security incident on November 4, when an attacker uploaded a malicious Flash post containing an XSS worm. The site was shut down within six minutes, limiting actual damage, though the worm harvested IP addresses and temporarily hijacked user accounts that viewed the infected posts.</p><p>The attacker exploited a pull request that accidentally re-enabled Flash file uploads and utilized large language models to identify vulnerabilities. During the outage, administrators patched the security gaps, performed server maintenance, and advised users to secure their accounts by changing passwords and enabling two-factor authentication.</p><hr/><small>12 Nov 2026, 13:06 UTC | #27275</small>]]></content>
+  </entry>
   <entry>
     <title>Lyra Rebane Explains How Bug Tracker Error and AI Aggregators Created False Millionaire Claims</title>
     <link href="https://lyra.horse/blog/2026/11/disinformation-machine/" rel="alternate" />

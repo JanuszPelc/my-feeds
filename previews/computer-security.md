@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Danbooru Details Security Incident and Week-Long Downtime Following Malicious Flash Upload</h2>
+<p>Danbooru experienced a week-long downtime following a security incident on November 4, when an attacker uploaded a malicious Flash post containing an XSS worm. The site was shut down within six minutes, limiting actual damage, though the worm harvested IP addresses and temporarily hijacked user accounts that viewed the infected posts.</p><p>The attacker exploited a pull request that accidentally re-enabled Flash file uploads and utilized large language models to identify vulnerabilities. During the outage, administrators patched the security gaps, performed server maintenance, and advised users to secure their accounts by changing passwords and enabling two-factor authentication.</p>
+<p>Nov 12 · <a href="https://danbooru.donmai.us/forum_topics/38685.html">danbooru.donmai.us</a> | <a href="https://lobste.rs/s/wfr0b4/about_downtime_security_incident">lobsters</a></p>
+<br clear="all" />
+
 <h2>Lyra Rebane Explains How Bug Tracker Error and AI Aggregators Created False Millionaire Claims</h2>
 <a name="story-27250"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvpncentral.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGoogle-Publishes-Chromium-Exploit-Code-1024x576-1-700x394.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researcher Lyra Rebane explains how an administrative error that mistakenly granted her edit access to a Google Buganizer issue allowed her to modify her own Chromium bug bounty reward to over $1.3 million as a joke on X.</p><p>Although she quickly clarified that the change was unauthorized and unpaid, automated AI-generated news aggregators and Google's AI Overview treated the satirical post as fact, illustrating vulnerabilities in modern information ecosystems.</p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26968"><img src="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fjpg%2F12%2F56%2F20%2F26%2F1000_F_1256202604_8njs6FaKJy8fSmzNdYO3kEzLyTKWqGTD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hackers accessed customer datasets, billing information, and incomplete model weights at AI infrastructure provider Fireworks during a cyberattack over the past month.</p><p>Two customers have already begun transitioning their business operations away from the company's systems in response to the security breach.</p>
 <p>Nov 9 · <a href="https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/">forbes.com</a> | <a href="https://news.ycombinator.com/item?id=50430783">hacker news</a></p>
-<br clear="all" />
-
-<h2>Maurycyz Demonstrates Method for Embedding Messages in RSA Public Keys</h2>
-<a name="story-26975"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F953%2F953465fa-0f83-4ed1-80a1-e51a8e96df61%2FphpCpfLgU&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Maurycyz describes a method for embedding text messages within the modulus of RSA public keys used in SSL/TLS certificates. By modifying the bytes of a target modulus to include a message and then finding a nearby prime factor, a user can create a valid public key that can be signed by a Certificate Authority while concealing the hidden text in its base64-encoded representation.</p><p>The implementation involves finding a new prime factor that is close enough to the ideal quotient to maintain a valid modulus. Although this technique reduces the entropy of the private key, the author notes that the certificates remain secure for public web use due to the forward secrecy provided by modern TLS protocols.</p>
-<p>Nov 9 · <a href="https://maurycyz.com/projects/badcert/">maurycyz.com</a> | <a href="https://lobste.rs/s/txkq8s/horrible_public_key_tricks">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50434264">hacker news</a></p>
 <br clear="all" />
 
 ---
