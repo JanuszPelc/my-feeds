@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-12T11:29:00+00:00</updated>
+  <updated>2026-11-12T12:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>KOMA Elektronik and Passepartout Duo Announce Haloplane Sampler and Wavetable Synthesizer</title>
+    <link href="https://musictech.com/news/gear/haloplane/" rel="alternate" />
+    <id>https://musictech.com/news/gear/haloplane/::v240</id>
+    <published>2026-11-12T12:31:00+00:00</published>
+    <updated>2026-11-12T12:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHaloplane-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/haloplane/">musictech.com</a> | <a href="https://chromaplane.co/haloplane">chromaplane.co</a></small></p><hr/><p>KOMA Elektronik and Passepartout Duo have unveiled the Haloplane, a compact micro-loop sampler and wavetable synthesizer that uses electromagnetic fields for sound manipulation. Users control the audio by moving electromagnetic pickups across the device's frame to alter sound or create complex sequences.</p><p>The hardware includes a built-in microphone, line-in, a speaker, and Wi-Fi connectivity, with a companion app available for parameter control. It also features built-in wavetables and supports an optional Doppeldisk pickup for expanded sound capabilities. Pre-orders are currently available through a tiered pricing model, with shipping expected in early 2027.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHaloplane-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 18:25 UTC | #27271</small>]]></content>
+  </entry>
   <entry>
     <title>Yamaha Releases Vocaloid7</title>
     <link href="https://www.kvraudio.com/news/yamaha-releases-vocaloid7-69778?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69778" rel="alternate" />

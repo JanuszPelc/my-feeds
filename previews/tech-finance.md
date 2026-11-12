@@ -8,6 +8,30 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>SMIC Reports Record Third-Quarter Revenue and Increased Net Profit</h2>
+<a name="story-27259"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.trendforce.com%2Fblog%2Fwp-content%2Fuploads%2F2024%2F11%2F08131351%2FSMIC-Q324-Revenue-1024x536.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SMIC, China's largest contract chip manufacturer, reported third-quarter revenue of approximately $3.19 billion, a 34% increase year-over-year. Net profit for the period rose 123% to about $428.4 million, surpassing analyst estimates of $396.8 million.</p><p>The company's gross margin reached 29.9%, exceeding its guidance of 26% to 28%. This performance was attributed to spillover effects from the artificial intelligence sector.</p>
+<p>Nov 12 · <a href="https://www.wsj.com/business/earnings/chinas-smic-doubles-profit-posts-record-revenue-on-ai-spillover-effects-0606debc?st=4BA8bL&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
+<h2>Uforce Raises $700M at $6B Valuation Co-Led by UK National Wealth Fund</h2>
+<a name="story-27260"><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.hvylya.net%2Fimages%2F2026%2F03%2F07%2FiHuDrwaEBijkJRCqgeNm52Ey20euLy6M44eo3QFa.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The London-based manufacturer of unmanned air, sea, and land vehicles, Uforce, has secured $700 million in financing co-led by Valor Equity and the UK National Wealth Fund. The funding round places the startup's valuation at $6 billion.</p><p>This investment marks the largest defense sector commitment by the UK National Wealth Fund. Uforce was originally established in Ukraine.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/drone-startup-uforce-valued-at-6-billion-with-uk-wealth-fund-backing">bloomberg.com</a></p>
+<br clear="all" />
+
+<h2>Foxconn Beats Q3 Profit Estimates on AI and iPhone Demand</h2>
+<a name="story-27256"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.magica.com%2Fblog%2Fai-news%2F2026-10-05%2F15-foxconn-beats-q3-revenue-forecasts-with-47-1-growth%2F5b8736fe5be5d9971497a71e001cfe768231b6d4b8802a2df18d7769ddbf351c.png%3Fv%3D5b8736fe5be5d9971497a71e001cfe768231b6d4b8802a2df18d7769ddbf351c&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hon Hai Precision Industry Co. reported third-quarter revenue of approximately $95.4 billion, a 47% increase year-over-year, and net income of $2.4 billion, up 34%. The results exceeded market estimates driven by surging demand for artificial intelligence hardware and Apple's iPhone products.</p><p>This growth reflects the company's expanding role in the global AI supply chain. Foxconn forecasts strong sales growth through 2027, citing sustained worldwide investment in AI technologies.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/nvidia-partner-hon-hai-beats-profit-estimates-on-ai-iphone-duo">bloomberg.com</a> | <a href="https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1888">foxconn.com</a></p>
+<br clear="all" />
+
+<h2>Lumbra Raises $25 Million Series A to Scale Agentic AI for High-Consequence Environments</h2>
+<a name="story-27254"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.streebo.com%2Fwp-content%2Fthemes%2Fstreebo%2Fimages%2Fatc%2Fai_orchestration%2Fimg9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence startup Lumbra Inc. has raised $25 million in a Series A funding round co-led by Point72 Ventures and Ansa Capital, with participation from Costanoa. The company develops LumbraOS, a model-neutral platform designed to orchestrate autonomous AI agents within ultra-secure and high-consequence computing environments like the U.S. intelligence community.</p><p>Founded by former intelligence and special forces officers, Lumbra built its platform with components for agent orchestration, dynamic knowledge graphs, and governance enforcement. Following early adoption within classified government networks, the startup plans to use the new capital to expand its engineering team and scale its enterprise offerings into high-stakes sectors such as healthcare and finance.</p>
+<p>Nov 12 · <a href="https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents/">siliconangle.com</a> | <a href="https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-$25M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments">businesswire.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Stops Reporting Singapore Revenue Following Megaspeed Blocklisting</h2>
 <a name="story-27241"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia ceased reporting its revenue from Singapore after the quarter ending in July 2025, a period when Singapore accounted for 22% of the company's total sales. The change in reporting followed Nvidia's decision to place Singapore-based cloud computing firm Megaspeed on a blocklist amid escalating international scrutiny and probes involving billions of dollars in AI chip purchases.</p><p>Megaspeed has drawn intense scrutiny regarding its massive acquisitions of Nvidia technology through secondary markets and overseas units like Speedmatrix in Malaysia. The shifting transparency surrounding Nvidia's regional sales figures deepens ongoing questions regarding the distribution paths and ultimate destinations of advanced AI hardware flowing into Southeast Asia.</p>
@@ -70,30 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27115"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h3zrv.img%3Fw%3D3555%26h%3D2666%26m%3D4%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia shares dropped 5.47% on Tuesday, marking a second consecutive day of losses following CEO Jensen Huang's disclosure of an extramarital affair with an executive at customer firm Megaspeed. Reports indicate U.S. officials are investigating whether the individual acted as a Chinese intelligence asset and steered advanced artificial intelligence chips to Beijing.</p><p>The controversy has triggered a class-action shareholder lawsuit against Nvidia and Huang in federal court, alleging misleading statements regarding the relationship and business risks. While analysts estimate a low probability of Huang's removal following a board investigation, the uncertainty has created market headwinds and boosted competing semiconductor firms like AMD and Broadcom.</p>
 <p>Nov 11 · <a href="https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html">cnbc.com</a></p>
-<br clear="all" />
-
-<h2>CFTC Poised to Bring Charges Against Prediction Market Kalshi</h2>
-<a name="story-27113"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cryptotimes.io%2Fwp-content%2Fuploads%2F2026%2F05%2FCFTC-Backs-Kalshi-Against-Ohio-in-Escalating-Prediction-Market-Turf-War.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Commodity Futures Trading Commission is preparing potential charges against prediction market Kalshi over whether the company failed to properly notify the agency regarding dozens of new product contracts. The impending enforcement action, revealed by a source familiar with the unannounced probe, could lead to formal charges or a settlement.</p><p>A Kalshi spokesperson described the dispute as a procedural error involving contract submissions, noting that many of the affected contracts were not live and that the company is actively resolving the matter. Kalshi maintains that its offerings are traditional derivatives rather than wagers.</p>
-<p>Nov 11 · <a href="https://www.politico.com/news/2026/11/10/regulator-charges-prediction-market-kalshi-01159140">politico.com</a></p>
-<br clear="all" />
-
-<h2>Daylight Raises $80 Million Series B Led by Goldman Sachs Alternatives</h2>
-<a name="story-27099"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsg-imgs.dealroom.co%2F996020c111dd0c2693d06b114945ad51.jpg%3Fauto%3Dcompress%26cs%3Dorigin&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Daylight, a New York-based cybersecurity startup, has raised $80 million in a Series B funding round at an estimated $400 million valuation. The investment was led by Goldman Sachs Alternatives.</p><p>The company provides AI-powered managed security services. This funding highlights growing demand for security platforms that integrate AI agents with human expert oversight.</p>
-<p>Nov 11 · <a href="https://www.wsj.com/pro/private-equity/goldman-leads-investment-in-cybersecurity-startup-at-400-million-valuation-648c54b7">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Vinod Khosla Backs Coframe to Develop AI-Powered Personalized Websites</h2>
-<a name="story-27092"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aee5a1e8f37e8e0b5baaf44%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Coframe, an AI startup focused on creating personalized web experiences, has raised $25 million in a Series A funding round co-led by Khosla Ventures and Hanabi Capital. The startup aims to replace static websites with a "living internet" where page content is dynamically customized for each individual visitor through generative AI.</p><p>Founded by AI researcher Josh Payne, Coframe reports generating more than $300 million in incremental revenue for clients including Dropbox and Cash App. Investor Vinod Khosla suggests that AI-enabled customization will address browsing inefficiencies, such as the experience on Amazon, by providing more relevant, user-specific content.</p>
-<p>Nov 10 · <a href="https://www.businessinsider.com/khosla-doubles-down-on-coframe-to-build-a-living-internet-2026-11">businessinsider.com</a></p>
-<br clear="all" />
-
-<h2>CoreWeave Surpasses Q3 Revenue Estimates and Raises 2026 Guidance</h2>
-<a name="story-27089"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmultilingual.mocortech.com%2Fcms-content-file%2F2026-11-10%2FF20261110172516056sOdprw7KVIAyQd&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CoreWeave reported third-quarter revenue of $3.66 billion, exceeding expectations of $3.55 billion and marking a 168% increase year-over-year. The company also lifted its 2026 revenue guidance to a range of $13 billion to $13.3 billion.</p><p>Despite reporting a net loss of $709 million, the company reported a revenue backlog of $132.5 billion. These results arrive as the company carries nearly $47 billion in debt amidst volatility in the AI infrastructure market.</p>
-<p>Nov 10 · <a href="https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx">investors.coreweave.com</a></p>
 <br clear="all" />
 
 ---

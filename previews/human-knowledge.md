@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>The Debate Over AI Handoverism and Human Agency</h2>
+<a name="story-27255"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbucket-image.inkmaginecms.com%2Fversion%2Fdesktop%2F9dde7c0f-a597-445c-80dd-9a93db8a4006%2Fimage%2F2025%2F09%2Fab0a885f-b501-4be7-bd60-9b68d2711e77.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The article explores "handoverism," a concept where humanity cedes control of its future to benevolent superintelligent AI. This viewpoint is becoming increasingly prevalent in discussions among AI safety researchers and developers at major laboratories, with some even suggesting that humans may serve merely as a biological "bootloader" for their technological successors.</p><p>The text examines various scenarios, including the gradual transfer of responsibility outlined in the AI 2040 proposal and the idea of a "Godlike" AI directing society. While some AI leaders express openness to these transitions, the article highlights profound uncertainty regarding the future of human democracy, agency, and labor in a world potentially governed by superintelligence.</p>
+<p>Nov 12 · <a href="https://www.writingruxandrabio.com/p/handing-over-humanity">writingruxandrabio.com</a></p>
+<br clear="all" />
+
 <h2>UK Scientists Assist MMX Mission with Phobos Soil Sampling</h2>
 <a name="story-27272"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F768934%2Foriginal%2Ffile-20261028-52-vw1274.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Japanese Martian Moons Exploration (MMX) mission aims to determine whether Mars' moon Phobos originated as a captured asteroid or from debris produced by a giant impact on Mars. UK scientists are conducting laboratory experiments using light-gas guns to simulate space impacts, assisting in the interpretation of soil samples the spacecraft will collect.</p><p>These simulations investigate how material from Mars or other asteroids might deposit on Phobos' surface. By modeling crater formation and material deposition across various impact velocities, researchers hope to identify exogenous material to help distinguish between competing origin theories.</p>
@@ -53,7 +59,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <h2>Office for Students Warns AI Threatens University Coursework Assessment</h2>
 <a name="story-27138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fproofademic.ai%2Fwp-content%2Fuploads%2F2025%2F11%2Fai-detection-in-school-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>England’s higher education regulator, the Office for Students, warns that the widespread use of generative AI in essays and dissertations threatens the credibility of university degrees, making traditional coursework assessment nearly impossible.</p><p>Drawing on a joint investigation with Advance HE that surveyed over 300 students and staff, the regulator urges institutions to adopt traditional in-person exams, oral vivas, and process-based evaluations, warning that failing to address AI misuse could lead to regulatory sanctions.</p>
-<p>Nov 11 · <a href="https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50458512">hacker news</a></p>
+<p>Nov 11 · <a href="https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50465844">hacker news</a></p>
 <br clear="all" />
 
 <h2>Jaron Lanier: Silicon Valley Is Sabotaging Itself With A.I. Doom Rhetoric</h2>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-27020"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe1TAHDBeRJ0%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Recent excavations at the Caherconnell Cashel ringfort in western Ireland have uncovered rare artifacts illuminating the recreational and intellectual pursuits of its wealthy medieval inhabitants. Occupied from the late 10th century to the early 17th century, the site yielded physical evidence of game playing, literacy, and music, challenging traditional portrayals of medieval life as dominated exclusively by farming and warfare.</p><p>Notable discoveries include an 11th-century bone and bronze pen that points to early secular literacy outside of monastic settings, alongside antler gaming pieces used for the Viking-era board game hnefatafl. Archaeologists also recovered bone and bronze tuning pegs from stringed instruments, indicating that music and poetry formed an integral part of domestic and social life at the well-preserved stone farmstead.</p>
 <p>Nov 10 · <a href="https://theconversation.com/archaeological-finds-at-an-irish-fort-reveal-insights-into-the-finer-side-of-medieval-life-295239">theconversation.com</a></p>
-<br clear="all" />
-
-<h2>University of Warsaw and International Team Demonstrate Room-Temperature Quantum Supersolid</h2>
-<p>An international research team has demonstrated a quantum supersolid—a state of matter combining the orderly crystal structure of a solid with the frictionless flow of a superfluid—at room temperature. Rather than using ultracold atomic systems, the scientists generated hybrid quasiparticles called exciton polaritons by coupling light and matter inside an organic semiconductor and liquid-crystal microcavity.</p><p>Published in Science Advances, the findings involve collaborators from the University of Warsaw, the Military University of Technology, IBM Research Zurich, and CNRS. The team identified the supersolid phase by observing spontaneous symmetry breaking and regularly spaced density variations in the emitted light. The platform's ability to operate at room temperature and offer electrical tunability provides a versatile tool for exploring exotic quantum phenomena and advancing future optical computing technologies.</p>
-<p>Nov 9 · <a href="https://www.sciencedaily.com/releases/2026/11/261105224536.htm">sciencedaily.com</a> | <a href="https://news.ycombinator.com/item?id=50443111">hacker news</a></p>
 <br clear="all" />
 
 ---

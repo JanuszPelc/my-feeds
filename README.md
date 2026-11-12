@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/music-production.png" width="28" align="texttop" /> &nbsp;Producer Daramola Discusses Studio Gear and Production Philosophy</h2>
+<a name="story-27143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p>
+<p>Nov 12 · <a href="https://musictech.com/features/interviews/daramol-interview/">musictech.com</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-policy.png" width="28" align="texttop" /> &nbsp;TV Manufacturers Respond to Data Collection Questions</h2>
 <p>An investigation into the privacy practices of television and streaming device manufacturers reveals varying levels of transparency regarding data collection. Companies including Amazon, Apple, Google, LG, Roku, Samsung, and TCL provided responses to 17 questions regarding audio monitoring, screen recording, and viewing history, while others like Hisense and Sony declined to answer.</p><p>The findings highlight how manufacturers utilize voice assistance and Automatic Content Recognition (ACR) to track user habits. While several companies state that data collection is opt-in or limited to active user prompts, the report notes that opting out of certain features may not be entirely effective in preventing data transmission.</p>
 <p>Nov 12 · <a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50453474">hacker news</a></p>
@@ -100,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27116"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ionos.ca%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Finteraction-between-icann-registries-registrars-us.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Verisign has cancelled an initiative to terminate approximately 22,000 .name domain registrations and their associated email redirects. While new registrations for third-level .name domains will be closed, all existing domains and email services will be grandfathered and remain active indefinitely.</p><p>The decision follows a series of legal challenges and advocacy efforts aimed at preventing the termination. The move adheres to ICANN consensus policies, ensuring continued service for current .name domain holders.</p>
 <p>Nov 11 · <a href="https://neil.fraser.name/news/2026/11/10/">neil.fraser.name</a> | <a href="https://itp.cdn.icann.org/en/files/consensus-policies/kane-to-fessenden-05-11-2026-en.pdf">itp.cdn.icann.org</a> | <a href="https://lobste.rs/s/vkkbwo/name_grandfathered">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50442736">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Anthropic Launches Claude Meetings, Whiteboards, and Sheets</h2>
-<a name="story-27055"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Whiteboards-1.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic has launched Claude Meetings, Claude Whiteboards, and Claude Sheets. Claude Meetings joins video calls to draft real-time plans, timelines, and meeting notes. Claude Whiteboards provides a collaborative visual workspace, while Claude Sheets allows teams to collaboratively create and edit spreadsheets with AI assistance.</p><p>These updates follow similar workplace tool releases from OpenAI and Meta as companies compete to build AI-driven office suites. Anthropic also announced the general availability of Claude Data and introduced interactive connectors that allow users to operate third-party applications, including Adobe, Atlassian, and HubSpot, directly within Claude.</p>
-<p>Nov 11 · <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50443448">hacker news</a></p>
 <br clear="all" />
 
 ---

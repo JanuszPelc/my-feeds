@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>KOMA Elektronik and Passepartout Duo Announce Haloplane Sampler and Wavetable Synthesizer</h2>
+<a name="story-27271"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHaloplane-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>KOMA Elektronik and Passepartout Duo have unveiled the Haloplane, a compact micro-loop sampler and wavetable synthesizer that uses electromagnetic fields for sound manipulation. Users control the audio by moving electromagnetic pickups across the device's frame to alter sound or create complex sequences.</p><p>The hardware includes a built-in microphone, line-in, a speaker, and Wi-Fi connectivity, with a companion app available for parameter control. It also features built-in wavetables and supports an optional Doppeldisk pickup for expanded sound capabilities. Pre-orders are currently available through a tiered pricing model, with shipping expected in early 2027.</p>
+<p>Nov 12 · <a href="https://musictech.com/news/gear/haloplane/">musictech.com</a> | <a href="https://chromaplane.co/haloplane">chromaplane.co</a></p>
+<br clear="all" />
+
 <h2>Yamaha Releases Vocaloid7</h2>
 <a name="story-27266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvocaloid7-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vocaloid7, the first major update to Yamaha's vocal synthesis software in four years, features an enhanced Vocaloid:AI engine for more natural expression. The update also introduces a "Voice Type" feature, allowing users to switch between different vocal characteristics within a single Voice Bank.</p><p>The software includes the "asa" voicebank and offers enhanced integration with Cubase, enabling note and lyric input directly within the Cubase Key Editor. It is available for macOS and Windows in standalone, VST3, AU, and ARA2 formats, with upgrade paths available for users of Vocaloid3 through Vocaloid6.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p>
 <p>Nov 11 · <a href="https://musictech.com/features/interviews/daramol-interview/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>Reasonable Audio Releases Preamble Free Preamp Distortion Plugin</h2>
-<a name="story-27134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpreamble-ui-light.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Reasonable Audio has released Preamble, a free preamp distortion plug-in modeled after the input stage of a bucket-brigade delay pedal. Available in VST3, AU, CLAP, and AAX formats for Windows, macOS, and Linux, the software is designed to shape audio dynamics and add saturation prior to subsequent processing stages.</p><p>Developed using neural models trained on the original hardware, Preamble features adjustable input-driven saturation and compression, autogain, low-cut and high-cut filters, a dry/wet mix control, and selectable oversampling. An iOS version in AUv3 format is planned for release at a later date.</p>
-<p>Nov 11 · <a href="https://www.kvraudio.com/news/reasonable-audio-releases-preamble---free-preamp-distortion-plug-in-aax-au-clap-and-vst3-69753?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69753">kvraudio.com</a> | <a href="https://reasonableaudio.com/preamble">reasonableaudio.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Pony Ma to Allocate Half of Tencent Workforce to AI-Native Businesses</h2>
+<a name="story-27261"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZuvmdg1I3J4%2Fv0%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tencent founder Pony Ma announced in an annual speech his intention to deploy half of the company's 100,000-strong workforce to AI-native business segments. This strategic reallocation aims to prioritize artificial intelligence development across the conglomerate's diverse operations.</p><p>The move represents a major pivot for the Chinese technology giant as it seeks to integrate AI-native capabilities into its core business units. This shift is intended to strengthen the company's position within the rapidly evolving AI-driven economy.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Agile Robots Raises $500 Million in SoftBank-Led Funding Round</h2>
 <a name="story-27246"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiVij4XaG1fOo%2Fv1%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Munich-based robotics maker Agile Robots has raised $500 million in a funding round led by SoftBank Group, bringing its valuation to $8.5 billion. The company specializes in developing humanoids, mobile robots, robotic arms, and proprietary control software.</p><p>The investment highlights SoftBank's continued financial backing of artificial intelligence and robotics hardware development. Agile Robots previously secured notable venture funding, including a $220 million Series C round, to expand its commercial deployment and technological infrastructure globally.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27107"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theindiansun.com.au%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Meets-CommSec_-AI-and-Investment.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic opened its Australian retail initial public offering on Wednesday, allowing individual investors to purchase shares ahead of its planned Nasdaq listing under the ticker "ANT." The company is seeking to raise up to $64.4 billion through the IPO alongside a $26 billion private placement, with share prices expected between $70 and $78.</p><p>The Australian retail offering runs through November 17 with participation from local brokers including CommSec, Stake, and Macquarie Group, making Australia one of a select few international markets to gain direct retail access. The launch coincides with heightened regulatory scrutiny in Australia following an unauthorized data breach involving an AI agent, prompting the government to propose mandatory reporting and a new safety regulator.</p>
 <p>Nov 11 · <a href="https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html">cnbc.com</a> | <a href="https://www.anthropic.com/news/roadshow-launch">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50438891">hacker news</a></p>
-<br clear="all" />
-
-<h2>Lenny Rachitsky Reports on Late 2026 Tech Job Market Trends</h2>
-<a name="story-27104"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-6sL%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F8be609d0-ed10-464c-8b94-d052d45956da_2912x1940.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Lenny Rachitsky’s late 2026 tech job market report, utilizing data from TrueUp and Live Data Technologies, reveals divergent trends across core tech roles, marked by rising product manager openings, stalling engineering demand, and record-low design positions.</p><p>The analysis highlights that artificial intelligence proficiency, specifically large language models, has become a top requirement in job descriptions, while specialized roles like forward-deployed engineers surge and geographic concentration shifts heavily toward the Bay Area as remote positions decline.</p>
-<p>Nov 11 · <a href="https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late">lennysnewsletter.com</a></p>
 <br clear="all" />
 
 ---
