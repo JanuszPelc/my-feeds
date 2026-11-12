@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Trump Officials Questioned Nvidia CEO Jensen Huang Over China Chip Sales Lobbying</h2>
+<a name="story-27234"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1PHWe8.img%3Fw%3D768%26h%3D432%26m%3D6%26x%3D550%26y%3D209%26s%3D147%26d%3D147&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Some Trump administration officials raised concerns regarding Nvidia CEO Jensen Huang's lobbying efforts to permit increased semiconductor sales to China, even prior to revelations regarding his affair with Alice Huang. U.S. officials have repeatedly scrutinized Huang's close relationship with the president and his stance on trade with China.</p><p>The controversy highlights ongoing tensions within the administration regarding technology export controls and national security interests. As Nvidia navigates regulatory scrutiny, these developments underscore the complex intersection of corporate lobbying, executive influence, and geopolitical policy involving major tech executives.</p>
+<p>Nov 12 · <a href="https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?st=epsgoa&reflink=article_copyURL_share">wsj.com</a></p>
+<br clear="all" />
+
 <h2>U.S. Commerce Department Finalizing Rule to Prevent Remote Access to AI Chips by China</h2>
 <a name="story-27231"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%213mK7%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa29358b6-ad58-480c-a23e-4cfab2f68fe6_6016x4016.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Commerce Department is finalizing a regulation that would prevent Chinese artificial intelligence companies from accessing advanced semiconductors through remote connections. The rule aims to close loopholes that allow restricted entities to bypass existing export controls by utilizing computing power in data centers or through chip smuggling.</p><p>This measure targets the use of distributed computing as a method to circumvent semiconductor restrictions. By addressing remote access, the government intends to tighten control over the high-performance hardware required for advanced AI development in China.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27147"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXmqObzrP--s%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet agreed to implement additional privacy protections to salvage its $10 million acquisition of data from bankrupt Spirit Airlines. The agreement addresses objections raised by labor unions regarding passenger and operational data handling.</p><p>The deal involves securing stakeholder approval during Spirit Airlines' ongoing bankruptcy proceedings as the companies work to clear remaining hurdles for the data transaction.</p>
 <p>Nov 11 · <a href="https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Singapore Networks Help Chinese Firms Bypass US AI Chip Export Controls</h2>
-<a name="story-27127"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-154318063%2Cthumbsize-2202391%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F154318063.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Networks operating in Singapore are facilitating the acquisition of advanced US artificial intelligence chips by Chinese technology companies. These operations are designed to circumvent US export controls placed on sensitive AI hardware.</p><p>The activities, which involve a suspected Chinese spy and specific chip deals, highlight the difficulties Washington faces in enforcing technology restrictions. These regional networks represent a direct test of the efficacy of US control over AI technology.</p>
-<p>Nov 11 · <a href="https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244">ft.com</a></p>
 <br clear="all" />
 
 ---
