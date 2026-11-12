@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Whoop Launches Whoop Humans Social Network</h2>
+<a name="story-27310"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F03%2FScreenshot-2026-03-31-at-8.39.34-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Whoop has launched "Whoop Humans," a social network within its app that enables members to follow friends and family and share health data. Available to all membership tiers at no extra cost, the opt-in feature allows users to share specific metrics like sleep, recovery, and workouts.</p><p>The platform aims for more personal connections than the company's existing "Teams" feature, offering privacy controls such as "stealth mode" and selective metric sharing. This expansion aligns with Whoop's strategic focus on medical wellness and an increasing demographic of users over 60.</p>
+<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Hugging Face CEO Clément Delangue Vows to Support Open-Source AI After Jensen Huang&#x27;s Departure</h2>
 <a name="story-27316"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fcouples-hugging-pictures-9oj4exqccftul95f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hugging Face CEO Clément Delangue has pledged to continue advocating for open-source AI following the departure of Nvidia CEO Jensen Huang. This commitment comes as Nvidia's pending $12.9 billion acquisition of Hugging Face remains scheduled to close in the first half of 2027.</p><p>Huang was a prominent supporter of open-weight models, leading to industry concerns about the platform's future direction under Nvidia's leadership. The acquisition is currently facing antitrust scrutiny from the U.S. Department of Justice regarding its potential impact on competition within the AI market.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA22rBzq.img%3Fw%3D768%26h%3D576%26m%3D6%26x%3D498%26y%3D393%26s%3D316%26d%3D55&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's initial public offering has drawn demand exceeding the available shares by multiple times, according to sources familiar with the matter. CEO Dario Amodei and JPMorgan CEO Jamie Dimon are scheduled to participate in a livestream event this Friday.</p><p>The significant interest in the IPO follows reports that the company is targeting a valuation of over $1 trillion. The upcoming appearance by Amodei and Dimon is expected to highlight the role of artificial intelligence within the financial sector.</p>
 <p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Torus Raises $500 Million Series C Led by Magnetar for Modular AI Data Centers</h2>
-<a name="story-27160"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthebusinessdownload.com%2Fwp-content%2Fuploads%2F2024%2F04%2F1709921408-torus_fessbess-exterior-1_4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Salt Lake City-based energy storage startup Torus has raised $500 million in a Series C funding round led by Magnetar. The capital will be used to launch a new line of shipping container-sized modular AI data centers ranging from 1 megawatt to 20 megawatts in capacity.</p><p>The initiative addresses the surging infrastructure and power demands of the artificial intelligence sector by combining localized energy storage with rapid, scalable deployment. The modular container units enable faster setup and flexible power management compared to conventional data center construction.</p>
-<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

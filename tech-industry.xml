@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-12T17:37:00+00:00</updated>
+  <updated>2026-11-12T18:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Whoop Launches Whoop Humans Social Network</title>
+    <link href="https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/::v240</id>
+    <published>2026-11-12T18:05:00+00:00</published>
+    <updated>2026-11-12T18:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F03%2FScreenshot-2026-03-31-at-8.39.34-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/">techcrunch.com</a></small></p><hr/><p>Whoop has launched "Whoop Humans," a social network within its app that enables members to follow friends and family and share health data. Available to all membership tiers at no extra cost, the opt-in feature allows users to share specific metrics like sleep, recovery, and workouts.</p><p>The platform aims for more personal connections than the company's existing "Teams" feature, offering privacy controls such as "stealth mode" and selective metric sharing. This expansion aligns with Whoop's strategic focus on medical wellness and an increasing demographic of users over 60.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F03%2FScreenshot-2026-03-31-at-8.39.34-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 23:45 UTC | #27310</small>]]></content>
+  </entry>
   <entry>
     <title>Hugging Face CEO Clément Delangue Vows to Support Open-Source AI After Jensen Huang's Departure</title>
     <link href="https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/" rel="alternate" />

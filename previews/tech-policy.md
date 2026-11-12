@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>US Justice Department Probes Nvidia for Antitrust Violations</h2>
+<a name="story-27308"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2024%2F09%2F04%2Fa82f761a-75d3-4337-b033-05dfea16b436_f60200c9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Federal authorities have launched an antitrust investigation into Nvidia following the resignation of former CEO Jensen Huang. Two other inquiries are currently targeting the tech companies Megaspeed and Supermicro.</p><p>These probes are linked to the fallout from Huang’s admitted affair with Alice Huang, an alleged Chinese spy. There is currently no indication that the DOJ intends to seek criminal charges against Nvidia or Huang.</p>
+<p>Nov 12 · <a href="https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia">semafor.com</a></p>
+<br clear="all" />
+
 <h2>Jensen Huang Agrees to Testify Before Congress</h2>
 <a name="story-27301"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJensen-Huang.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Former Nvidia CEO Jensen Huang has agreed to testify before Congress by Thanksgiving. The decision follows threats of subpoenas from senior lawmakers after reports emerged regarding an alleged affair between Huang and a woman suspected of spying for China.</p><p>The briefing will take place behind closed doors but is expected to be recorded and transcribed. House Foreign Affairs Committee Chairman Brian Mast stated that while Nvidia is critical to the United States, Huang has "very serious questions to answer."</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>TV Manufacturers Respond to Data Collection Questions</h2>
 <p>An investigation into the privacy practices of television and streaming device manufacturers reveals varying levels of transparency regarding data collection. Companies including Amazon, Apple, Google, LG, Roku, Samsung, and TCL provided responses to 17 questions regarding audio monitoring, screen recording, and viewing history, while others like Hisense and Sony declined to answer.</p><p>The findings highlight how manufacturers utilize voice assistance and Automatic Content Recognition (ACR) to track user habits. While several companies state that data collection is opt-in or limited to active user prompts, the report notes that opting out of certain features may not be entirely effective in preventing data transmission.</p>
 <p>Nov 11 · <a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50453474">hacker news</a></p>
-<br clear="all" />
-
-<h2>United Airlines to Block Personal AI Assistants from Booking Flights</h2>
-<a name="story-27199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2026%2F01%2FAI-Agent-Travel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The carrier intends to prevent automated agents from completing flight reservations, citing data privacy concerns and potential violations of FAA and DOT regulations. This decision is driven by a desire to avoid introducing unauthorized middlemen into the booking process.</p><p>The move highlights the growing tension between traditional service models and the rise of autonomous AI agents in consumer sectors. By restricting these bots, United aims to maintain direct oversight of the customer transaction and data security.</p>
-<p>Nov 11 · <a href="https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50458900">hacker news</a></p>
 <br clear="all" />
 
 ---

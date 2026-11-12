@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-12T16:37:00+00:00</updated>
+  <updated>2026-11-12T18:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>US Justice Department Probes Nvidia for Antitrust Violations</title>
+    <link href="https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia" rel="alternate" />
+    <id>https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia::v240</id>
+    <published>2026-11-12T18:07:00+00:00</published>
+    <updated>2026-11-12T18:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2024%2F09%2F04%2Fa82f761a-75d3-4337-b033-05dfea16b436_f60200c9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia">semafor.com</a></small></p><hr/><p>Federal authorities have launched an antitrust investigation into Nvidia following the resignation of former CEO Jensen Huang. Two other inquiries are currently targeting the tech companies Megaspeed and Supermicro.</p><p>These probes are linked to the fallout from Huang’s admitted affair with Alice Huang, an alleged Chinese spy. There is currently no indication that the DOJ intends to seek criminal charges against Nvidia or Huang.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2024%2F09%2F04%2Fa82f761a-75d3-4337-b033-05dfea16b436_f60200c9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 23:49 UTC | #27308</small>]]></content>
+  </entry>
   <entry>
     <title>Jensen Huang Agrees to Testify Before Congress</title>
     <link href="https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/" rel="alternate" />
