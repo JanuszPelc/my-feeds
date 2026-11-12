@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Nick Clegg Argues Silicon Valley&#x27;s Political Alignment with Trump Was a Miscalculation</h2>
+<a name="story-27198"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F694940094001%2F072e31ef-88a8-4c6a-9859-9b88d2027671%2F64b12713-5137-4f2b-a329-4ace255933a5%2F1280x720%2Fmatch%2F896%2F500%2Fimage.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nick Clegg contends that Silicon Valley's strategic pivot toward the Trump administration has failed to achieve its primary goals: maintaining AI supremacy over China, improving public sentiment toward artificial intelligence, and mitigating global regulatory pressure. He attributes this miscalculation to a "herd mentality" fueled by the influence of certain tech leaders, a desire for political retribution, and the tendency to apply tech-industry hype cycles to political realities.</p><p>China continues to close the AI technological gap despite the promised Washington-Silicon Valley alliance, domestic public opposition to AI has increased, and international markets are becoming more hostile toward American Big Tech. Clegg suggests that tech companies are better served by remaining non-partisan and building productive relationships with all future political leaders rather than attempting to influence election outcomes.</p>
+<p>Nov 11 · <a href="https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?gift=VELZukBv_TdFyvYot6GkvImUfy5VbhsFdb6Ml7MDXXU">theatlantic.com</a></p>
+<br clear="all" />
+
 <h2>Congress Prepares Subpoena for Nvidia CEO Jensen Huang Over Alleged Chinese Intelligence Ties</h2>
 <a name="story-27204"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJensen-Huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>House Republicans are preparing to subpoena Nvidia CEO Jensen Huang to testify regarding his reported relationship with an alleged Chinese intelligence asset. The potential subpoena follows an initial request sent by congressional committee chairmen asking Huang to appear for a joint, closed-door briefing.</p><p>Lawmakers have set a deadline for Huang to respond to the voluntary briefing request, after which formal subpoena procedures will advance. Nvidia has not yet issued a public response regarding the ongoing congressional inquiry into the matter.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>New York Launches State AI Testing and Safety Training Program</h2>
 <p>Governor Kathy Hochul is establishing a state-level program to independently test artificial intelligence systems and train AI safety experts. The initiative is funded by $30 million from Bloomberg co-founder Tom Secunda alongside $25 million from New York state and SUNY.</p><p>The center is expected to launch before the RAISE Act takes effect on January 1, which will require AI companies in New York to submit safety frameworks for scrutiny. The program responds to a lack of federal AI safety safeguards and increasing concerns regarding AI model vulnerabilities.</p>
 <p>Nov 10 · <a href="https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713">politico.com</a> | <a href="https://news.ycombinator.com/item?id=50443606">hacker news</a></p>
-<br clear="all" />
-
-<h2>AI Companies Implement Guardrails Against AI-Powered Reverse Engineering</h2>
-<a name="story-27034"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-10-at-6.20.18-AM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Users attempting to use models like Anthropic’s Claude and OpenAI’s Codex for software decompilation are reporting account restrictions and safety blocks. These users have utilized AI to unbrick IoT devices, remove smart TV advertising, and install custom operating systems on old hardware, leading to bans for "cyber abuse" or warnings.</p><p>This trend reflects a growing friction between AI developers and hardware manufacturers as users leverage large language models to circumvent manufacturer-imposed constraints. While an OpenAI engineer described some blocks as accidental, the crackdown suggests the practice may shift toward open-weight and local models that lack centralized oversight.</p>
-<p>Nov 10 · <a href="https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50441618">hacker news</a></p>
 <br clear="all" />
 
 ---
