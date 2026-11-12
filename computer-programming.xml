@@ -3,9 +3,17 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-11T20:24:00+00:00</updated>
+  <updated>2026-11-11T20:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Rust Project Announces Google Summer of Code 2026 Results</title>
+    <link href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/::v240</id>
+    <published>2026-11-11T20:30:00+00:00</published>
+    <updated>2026-11-11T20:30:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/uz2j2h/google_summer_code_2026_results">lobsters</a></small></p><hr/><p>All 13 projects participating in the Google Summer of Code (GSoC) 2026 for the Rust Project were successfully completed and passed their final evaluations. Contributions included improvements to GPU offloading, adding WebAssembly linking support to the Wild linker, and implementing new language features such as `impl` and `mut` restrictions.</p><p>The program serves as a primary pipeline for introducing new contributors to the Rust community. Several project outcomes, including work on the `std::autodiff` and `std::offload` modules, are available in the Rust `nightly` compiler channel.</p><hr/><small>12 Nov 2026, 04:07 UTC | #27233</small>]]></content>
+  </entry>
   <entry>
     <title>Tim Peters, Python Contributor and Author of the Zen of Python, Dies</title>
     <link href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028" rel="alternate" />

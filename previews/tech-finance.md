@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>OKXICE Plans US Tokenized Stock Venue Launch Amid Corporate Backlash</h2>
+<a name="story-27212"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.staticimg.com%2Fcms%2Fmedia%2FrNEr8eW6aBKal85AoG8ItHMfMFoe4bjCMFmeZIJeq.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Scheduled for launch on November 23, the OKX and ICE joint venture OKXICE intends to list over 70 assets on a new US tokenized stock venue. The project faces significant opposition, as 56 of the 62 companies targeted for tokenized trading have expressed objections.</p><p>This expansion represents an effort by crypto-industry players to capture a share of the US stock market. The push for tokenized equity trading continues despite active pushback from many of the corporate entities whose shares are being targeted.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/crypto-s-bid-to-shake-up-stock-trading-revs-up-despite-backlash">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Applied Intuition in Talks to Raise $1.5 Billion at $30 Billion Valuation</h2>
 <a name="story-27189"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent-media.pamedia.io%2Fpress-release%2Fpicture%2F2024%2F03%2F12%2F01HRRQZ7RNBTJVNX9YEDXF9253.jpg%3Ffix%3Dbounds%26w%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Applied Intuition, a developer of simulation and testing software for autonomous vehicles and defense applications, is in talks to raise at least $1.5 billion. The funding round is led by General Catalyst and targets a pre-money valuation of approximately $30 billion.</p><p>This potential investment would nearly double the company's valuation from its June 2025 funding round of $15 billion. The company provides autonomy and testing solutions for both commercial and defense sectors.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27075"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQEp9cYQa5Iqzg%2Ffeedshare-shrink_800%2FB56ZaRcV6QGkAg-%2F0%2F1746196850793%3Fe%3D2147483647%26v%3Dbeta%26t%3DR2ssU-oh97RG3GSXSX4wKhikBuFfwl5D3DCgVUepQQE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The São Paulo-based fintech has secured $105 million in combined equity and growth financing. This includes a $65 million Series C round and a $40 million renewal of existing growth capital.</p><p>Funds are earmarked for scaling sales and engineering teams and building an AI-driven financial operating system. The company also plans to enter new markets and broaden its offerings for corporate clients.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth">bloomberg.com</a> | <a href="https://www.clara.com/resources/newsroom/clara-raises-105-million-series-c-and-growth-financing">clara.com</a></p>
-<br clear="all" />
-
-<h2>Goldman Sachs and Citigroup Lead 21-Bank Consortium in $270 Million Stablecoin Commitment</h2>
-<a name="story-27071"><img src="https://wsrv.nl/?url=https%3A%2F%2Fholder.io%2Fwp-content%2Fuploads%2F2025%2F09%2FEuro-Stablecoin-Set-for-2026-Launch-as-9-Banks-Unite-E28093-Best-Wallet-Token-BEST-Emerges-a-Presale-Winner.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A 21-bank consortium, including Goldman Sachs Group Inc., Citigroup Inc., Banco Santander SA, and Deutsche Bank AG, has committed approximately $270 million to fund a stablecoin venture for five years. The initiative was originally announced in September.</p><p>This substantial financial commitment reflects increasing involvement from major global financial institutions in the stablecoin sector. The multi-year funding plan points toward long-term strategic interest in digital asset infrastructure.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

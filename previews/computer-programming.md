@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Rust Project Announces Google Summer of Code 2026 Results</h2>
+<p>All 13 projects participating in the Google Summer of Code (GSoC) 2026 for the Rust Project were successfully completed and passed their final evaluations. Contributions included improvements to GPU offloading, adding WebAssembly linking support to the Wild linker, and implementing new language features such as `impl` and `mut` restrictions.</p><p>The program serves as a primary pipeline for introducing new contributors to the Rust community. Several project outcomes, including work on the `std::autodiff` and `std::offload` modules, are available in the Rust `nightly` compiler channel.</p>
+<p>Nov 11 · <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/uz2j2h/google_summer_code_2026_results">lobsters</a></p>
+<br clear="all" />
+
 <h2>Tim Peters, Python Contributor and Author of the Zen of Python, Dies</h2>
 <a name="story-27228"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-blog.adafruit.com%2Fuploads%2F2026%2F11%2Ftim-peters-has-died-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tim Peters, a central figure in the Python programming community and author of the "Zen of Python" (PEP 20), died on July 15, 2026. He was a key contributor to the language's early design and core development, working closely with creator Guido van Rossum.</p><p>Peters also designed the Timsort sorting algorithm, which has been adopted by Java and Android. He served as a director of the Python Software Foundation from 2001 to 2014 and was widely recognized for his technical expertise and mentorship within the Python community.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27031"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fkora-os-chord-chat-client.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kora Systems, founded by Cyanogen co-founder Kirt McMaster, has unveiled a Linux-based desktop operating system designed to integrate artificial intelligence models and autonomous agents directly into the computing experience. Scheduled for release in 2027, the free operating system will support Intel, AMD, and Qualcomm Snapdragon processors, enabling AI agents to work across applications and manage files without app-specific boundaries.</p><p>Formerly known as the gaming operating system company Playtron, the Palo Alto-based firm rebranded to focus on AI and is collaborating with Qualcomm and Saudi AI company Humain to optimize the software for Snapdragon hardware, including an enterprise version called Humain OS. The company plans to monetize the platform through subscriptions bundling access to frontier AI models and agentic services.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/">techcrunch.com</a> | <a href="https://kora.fun/">kora.fun</a></p>
-<br clear="all" />
-
-<h2>Terence Eden Details B6 Honeypot Tool to Block Web Bots</h2>
-<a name="story-27068"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshkspr.mobi%2Fblog%2Fwp-content%2Fuploads%2F2026%2F11%2FBandwidth.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Terence Eden created a lightweight bot-blocking system called B6 that significantly reduced automated scraping traffic on his website, OpenBenches.org. The tool combines a hidden honeypot link with server-level configuration rules to automatically log and permanently block the IP addresses of any automated crawlers that access the restricted path.</p><p>B6 operates by embedding a hidden link into every page and updating the site's .htaccess file to deny future access from triggering IP addresses. While the blunt approach successfully dropped daily bandwidth usage and caught hundreds of bots within a week, the author notes potential limitations, including the risk of blocking innocent users if IP addresses are reassigned or if crawlers rapidly rotate addresses.</p>
-<p>Nov 10 · <a href="https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/">shkspr.mobi</a> | <a href="https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50435925">hacker news</a></p>
 <br clear="all" />
 
 ---
