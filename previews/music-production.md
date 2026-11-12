@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sonura Flow Enables Audio Generation from Text Prompts</h2>
+<a name="story-27321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSonura-Flow-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sonura Flow is a free plugin that allows producers to generate loops, one-shots, vocals, and effects from text prompts within a DAW. Users can select sound categories like drums, bass, or melody, specify loop lengths, and choose from multiple generated variations before dragging the audio into their timeline.</p><p>The free tier provides 10 loops, 20 one-shots/effects, and four full tracks per day without a time limit or credit card requirement. Audio generated under this plan is released under a CC0 license, permitting use in musical releases without attribution or licensing restrictions.</p>
+<p>Nov 12 · <a href="https://musictech.com/news/gear/sonura-flow/">musictech.com</a> | <a href="https://sonurastudio.com/plugin">sonurastudio.com</a></p>
+<br clear="all" />
+
+<h2>A2D Sound Releases Atrium 3D Mixing Plugin for Stereo</h2>
+<a name="story-27319"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnZ888qIbsmI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A2D Sound has released Atrium, a spatial mixing plugin that allows producers to position individual tracks in width, depth, and height while delivering a finished mix in standard stereo. Operating with regular monitors and headphones without requiring a multi-speaker surround setup, the plugin features visual 3D positioning interfaces, adjustable wall materials, and pre-configured room and seating presets.</p><p>The plugin is available for $69 as part of a launch promotion, down from its regular $149 price, and includes a seven-day trial version. Atrium runs on 64-bit Windows and macOS systems in VST3, AU, and AAX formats, requiring an active A2D Sound account and online authorization for license management across up to three computers.</p>
+<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/a2d-atrium/">bedroomproducersblog.com</a> | <a href="https://a2dsound.com/atrium">a2dsound.com</a></p>
+<br clear="all" />
+
+<h2>Freakshow Industries Releases Dicksmasher Distortion Plugin</h2>
+<a name="story-27320"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.pluginplug.net%2Fproduct%2F3930_small%402x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Freakshow Industries has released Dicksmasher, a weaponized distortion audio plugin available in AU, VST, VST3, and AAX formats for macOS and Windows. The software features multiple character-specific sound-mangling cartridges designed to push audio signals into extreme distortion.</p><p>The release follows a whimsical marketing campaign built around fictional lore involving a reclusive transistor inventor. Users can acquire the plugin through the developer's unconventional free download option or purchase it for $70.</p>
+<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/freakshow-industries-dicksmasher/">bedroomproducersblog.com</a> | <a href="https://freakshowindustries.com/dicksmasher">freakshowindustries.com</a></p>
+<br clear="all" />
+
 <h2>Digital Audio Workstation Cost Models and Subscription Trends Examined</h2>
 <a name="story-27297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFender-Studio-Pro-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The music technology industry has experienced a significant shift in digital audio workstation (DAW) pricing, as corporate acquisitions and venture capital influence drive platforms toward subscription funnels and tiered licensing models. While traditional perpetual licenses offered permanent ownership, modern cost structures often position perpetual versions as middle-tier options behind feature-gated subscriptions.</p><p>Examining industry practices across major brands such as Fender, LANDR, Steinberg, and Avid highlights a growing tension between corporate profitability goals and user community loyalty. Although subscription models provide stable revenue for ongoing product development, they risk alienating independent creators and freelancers, prompting many users to seek alternative platforms with more transparent and flexible pricing.</p>
@@ -78,24 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27251"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-plugin-logic-source.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Arvital Audio has released version 1.2.13 of AudioRoute, its system audio capture tool for macOS and Windows. The update introduces a redesigned take-management system where recorded audio clips are retained in a session list beneath the waveform, preventing automatic deletion and allowing users to drag multiple takes into their digital audio workstation.</p><p>Additional improvements rolled out across recent minor updates include automatic tempo and key detection for recordings longer than six seconds, clearer guidance for plug-in modes, and more resilient handling of audio device reconnections and sample rate changes. AudioRoute is available as a free update for existing users, priced at 39 euros for new licenses, and supports VST3, AU, and AAX formats.</p>
 <p>Nov 12 · <a href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-13-69765?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69765">kvraudio.com</a> | <a href="https://audio-route.com/">audio-route.com</a></p>
-<br clear="all" />
-
-<h2>AlphaTheta Unveils DJM-A7 Four-Channel Mixer</h2>
-<a name="story-27188"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAlphaTheta-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AlphaTheta has announced the DJM-A7, a four-channel mixer intended as a budget-friendly alternative to the DJM-A9. It includes 45 mm channel faders, USB Type-C ports, and compatibility with rekordbox, djay Pro, djay for iOS, and Serato DJ Pro.</p><p>Key features include a Master Texture tool for acoustic room analysis and a Split Filter for shaping midranges. The mixer also supports SonicLink for low-latency wireless monitoring and Link Cue for private track previews on compatible multi players.</p>
-<p>Nov 11 · <a href="https://musictech.com/news/gear/djm-a7-alphatheta-mixer/">musictech.com</a> | <a href="https://alphatheta.com/en/product/dj-mixer/djm-a7/black/">alphatheta.com</a></p>
-<br clear="all" />
-
-<h2>Sample Roll CRTE Granular Instrument Giveaway Announced</h2>
-<a name="story-27186"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrfObo84S8Go%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bedroom Producers Blog and Sample Roll are hosting a giveaway offering one free license for CRTE, a granular and wavetable instrument designed for macOS and Windows. Participants can enter by leaving a comment on the announcement post before November 17, 2026, with a winner to be chosen at random.</p><p>CRTE is designed to turn folders of melodic samples into playable instruments by mapping similar sounds together and utilizing up to three movable selection circles for combining audio. The instrument features ten playback types, an optional synth layer with wavetable creation, a vocoder, chord triggers, an arpeggiator, and built-in effects.</p>
-<p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/sample-roll-crte-giveaway/">bedroomproducersblog.com</a> | <a href="https://sampleroll.com/crte">sampleroll.com</a></p>
-<br clear="all" />
-
-<h2>ZAK Sound Releases Protonium for Raizes Player</h2>
-<a name="story-27172"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fprotonium-gui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ZAK Sound has released Protonium, a wavetable instrument designed for cinematic scoring, sci-fi soundtracks, and electronic music production. Created by sound designer Ryan Baxter using wavetables developed by ZAK Sound, the instrument features a sound palette comprising dark pads, evolving textures, rhythmic pulses, sequences, and playable synths.</p><p>The library includes 30 presets, 31 wavetables, and 30 MIDI files. Protonium is available at an introductory price of $16.80 until November 16, 2026, before increasing to its regular price of $24, and requires the free Raizes Player version 1.4.0 or later on Windows, macOS, Linux, and iPad.</p>
-<p>Nov 11 · <a href="https://www.kvraudio.com/news/zak-sound-releases-protonium-for-raizes-player-69748?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69748">kvraudio.com</a> | <a href="https://zaksound.com/protonium">zaksound.com</a></p>
 <br clear="all" />
 
 ---

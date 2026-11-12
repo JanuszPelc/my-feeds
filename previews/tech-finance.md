@@ -8,6 +8,17 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nebius Shares Fall 16% on Increased Capex Forecast and Weak Revenue Outlook</h2>
+<p>Nebius shares fell 16% after the AI cloud provider reported third-quarter revenue of $980.8 million, exceeding analyst estimates but accompanied by weaker-than-expected guidance. The company reported a net loss of $37.5 million, or $0.13 per share, and significantly increased its full-year 2026 capital expenditure guidance to $27 billion, up from a previous range of $20 billion to $25 billion.</p><p>The company's 2027 outlook includes projected revenue of $12 billion to $13 billion and capital expenditures of $40 billion to $45 billion. The stock's decline follows recent rallies in competitor stocks like CoreWeave and IREN and occurred alongside the resignation of Nvidia CEO Jensen Huang.</p>
+<p>Nov 12 · <a href="https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results">nebius.com</a></p>
+<br clear="all" />
+
+<h2>LangChain Raises $300M at $3 Billion Valuation</h2>
+<a name="story-27300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff757df35-c3cc-4009-81dc-aaed208aa8e9_2544x2064.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>LangChain raised $300 million in a funding round led by Alphabet's CapitalG, bringing the startup's valuation to $3 billion. This follows a $1.25 billion valuation recorded in 2025.</p><p>The company provides an agent-development platform designed to help large enterprises build and deploy custom AI agents.</p>
+<p>Nov 12 · <a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">wsj.com</a></p>
+<br clear="all" />
+
 <h2>SE3 Raises $30 Million in Series A Funding for Military Drone AI Software</h2>
 <a name="story-27276"><img src="https://wsrv.nl/?url=https%3A%2F%2Funidir.org%2Fwp-content%2Fuploads%2F2023%2F10%2Fmilitary-drone-flights-training-ground-generative-ai.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Munich-based startup SE3 has raised $30 million in a Series A funding round led by Accel, with participation from Keen, Lakestar, and Seedcamp. The company develops artificial intelligence software that fuses video and sensor feeds from multiple unmanned military systems into a unified 3D battlefield map, enabling soldiers to query tactical information and issue voice commands in plain language.</p><p>Founded by former Tesla and Nvidia researchers who spun out of the Technical University of Munich, SE3 combines classical computer vision algorithms with large language model interfaces to handle tasks like GPS-denied navigation and drone swarming. The company has already deployed its technology in Ukraine and holds development contracts with the German armed forces, with plans to expand its headcount and open offices across Europe using the new capital.</p>
@@ -82,17 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27168"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fwp-content%2Fuploads%2F2026%2F03%2F1773364582_1759957602099.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rox, an AI sales startup, has raised $100 million in Series B funding at a $1.3 billion valuation. General Catalyst and March Capital co-led the round, which included participation from Sequoia, GV, and Prosperity7. The company provides AI agents designed to automate sales workflows, including account research, lead prioritization, and outreach preparation.</p><p>Founded by former New Relic executive Ishan Mukherjee, Rox aims to compete with established CRM providers like Salesforce by building an AI-native platform rather than retrofitting legacy software. The leadership team includes former employees from AWS and Google, along with a Stanford AI Lab professor. Rox reported a tenfold increase in annual recurring revenue since its launch and intends to use the capital to expand its U.S. commercial and marketing teams.</p>
 <p>Nov 11 · <a href="https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/">fortune.com</a></p>
-<br clear="all" />
-
-<h2>Fractile Raises $720M at $7B Valuation for AI Chips</h2>
-<p>London-based AI chip startup Fractile has raised $720 million in a funding round backed by investors including Thrive and Founders Fund. The financing values the company at approximately $7 billion post-money.</p><p>This valuation marks a significant increase from its roughly $1.1 billion valuation earlier in May. Fractile is part of a growing group of startups developing custom semiconductors designed specifically for artificial intelligence workloads.</p>
-<p>Nov 11 · <a href="https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25">ft.com</a></p>
-<br clear="all" />
-
-<h2>Plurai Raises $13 Million in Seed Funding for AI Agent Simulation Platform</h2>
-<a name="story-27167"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQHEzSnxlM8uWw%2Ffeedshare-shrink_800%2FB4DZUa453.HAAg-%2F0%2F1739912880985%3Fe%3D2147483647%26v%3Dbeta%26t%3D_1Dc8bFlebSORLcfgF4lLVGMfcOE-TfvWRprEhYn-Cc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Startup Plurai has raised $13 million in a seed funding round led by Team8 to help make enterprise AI agents more reliable. Co-founded by veterans of autonomous driving technology, the company applies simulation techniques originally developed for self-driving cars to model complex corporate workflows, evaluate agent behavior, and address edge cases before deployment.</p><p>Plurai creates digital twins of a company's electronic systems to map agent data flows and post-train smaller, open-weight models tailored to specific business policies. According to the company, this simulation-driven approach improves agent reliability while significantly reducing operational costs compared to standard frontier language models.</p>
-<p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

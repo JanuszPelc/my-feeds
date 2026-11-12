@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-12T15:53:00+00:00</updated>
+  <updated>2026-11-12T17:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>GDC Festival of Gaming Adjusts State of the Industry Report Release Schedule</title>
+    <link href="https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan::v240</id>
+    <published>2026-11-12T17:32:00+00:00</published>
+    <updated>2026-11-12T17:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt9609b752006fe240%2F6af5ec3f1b99fb8383813ad1%2Fsoti2.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan">gamedeveloper.com</a> | <a href="https://reg.gdconf.com/soti-nov-2026?_mc=edit_gdcsf_gamdev_rp_tsmatt_soti-nov_2027">reg.gdconf.com</a></small></p><hr/><p>GDC Festival of Gaming is shifting its State of the Industry report release from the beginning of the year to the end of the year, which will result in two reports being published in 2026. The Game Developer Podcast will discuss the report's findings on industry layoffs, excess overtime, and generative AI.</p><p>The discussion features GDC content marketing manager Beth Elderkin and GameDeveloper.com contributing editor Imran Khan.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt9609b752006fe240%2F6af5ec3f1b99fb8383813ad1%2Fsoti2.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 22:58 UTC | #27323</small>]]></content>
+  </entry>
   <entry>
     <title>Google and Samsung Launch Android XR Smart Glasses With Warby Parker and Gentle Monster</title>
     <link href="https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/" rel="alternate" />

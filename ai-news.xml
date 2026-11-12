@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-12T12:40:00+00:00</updated>
+  <updated>2026-11-12T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Phota Labs Launches AI Photo Assistant for iOS</title>
+    <link href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/::v240</id>
+    <published>2026-11-12T17:05:00+00:00</published>
+    <updated>2026-11-12T17:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fphota-labs-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/">techcrunch.com</a> | <a href="https://www.photalabs.com/">photalabs.com</a></small></p><hr/><p>Phota Labs has released an iOS app that uses artificial intelligence to transform everyday snapshots into professional-quality images. The tool automates the editing process by adjusting composition and perspective—such as converting wide-angle shots into tight portraits—while utilizing specialized identity models to ensure the subject's authentic likeness is preserved.</p><p>Founded by former Adobe engineers Cecilia Zhang and Zach Xia, the a16z-backed startup aims to simplify photo enhancement for social media users. To maintain transparency, the app includes invisible watermarking to identify AI-altered content, and the company plans to expand to Android and introduce a freemium business model.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fphota-labs-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 22:52 UTC | #27318</small>]]></content>
+  </entry>
   <entry>
     <title>Google Launches Tabletop AI Experiment for Custom Collaboration Apps</title>
     <link href="https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>GDC Festival of Gaming Adjusts State of the Industry Report Release Schedule</h2>
+<a name="story-27323"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt9609b752006fe240%2F6af5ec3f1b99fb8383813ad1%2Fsoti2.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GDC Festival of Gaming is shifting its State of the Industry report release from the beginning of the year to the end of the year, which will result in two reports being published in 2026. The Game Developer Podcast will discuss the report's findings on industry layoffs, excess overtime, and generative AI.</p><p>The discussion features GDC content marketing manager Beth Elderkin and GameDeveloper.com contributing editor Imran Khan.</p>
+<p>Nov 12 · <a href="https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan">gamedeveloper.com</a> | <a href="https://reg.gdconf.com/soti-nov-2026?_mc=edit_gdcsf_gamdev_rp_tsmatt_soti-nov_2027">reg.gdconf.com</a></p>
+<br clear="all" />
+
 <h2>Google and Samsung Launch Android XR Smart Glasses With Warby Parker and Gentle Monster</h2>
 <a name="story-27282"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6af47aa0e19a3e976bf95d8a%2F1%3A1%2Fw_2560%252Cc_limit%2FDSC_0094.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google and Samsung have launched their collaborative Intelligent Eyewear powered by the Android XR platform, with design and retail support from Warby Parker and Gentle Monster. Preorders are open now starting at $395 for Warby Parker frames and $449 for Gentle Monster designs, with general sales beginning December 10.</p><p>The hardware weighs 41 grams and features a 12-megapixel camera, a nine-hour battery life, and integration with the Gemini assistant via the new "Hey Gemini" hotword. Initially compatible only with select Google Pixel, Samsung Galaxy, and iPhone models, the glasses incorporate various privacy safeguards—such as automatic face redaction and camera recording limits—while future iterations featuring built-in lens displays remain in development.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27063"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2023%2F11%2FIMG_8144-scaled-1152x648-1794329069.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Valve has begun displaying average frame rate data and histograms for the Steam Deck and Steam Deck OLED on various Steam Store pages. This information is compiled from anonymized, opt-in player statistics collected since February and is intended to supplement the "Steam Deck Verified" program by providing more granular performance expectations.</p><p>While Valve notes that user settings like VSync or frame rate limits can influence the accuracy of these measurements, the data helps players distinguish between performance levels in "Verified" titles and provides insight into how well "Unsupported" games actually run on the handheld hardware.</p>
 <p>Nov 10 · <a href="https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/">arstechnica.com</a> | <a href="https://steamcommunity.com/games/593110/announcements/detail/685269801333948420">steamcommunity.com</a></p>
-<br clear="all" />
-
-<h2>Grand Theft Auto VI to Support Xbox Cloud Gaming on Xbox One and Series X/S</h2>
-<a name="story-27039"><img src="https://wsrv.nl/?url=https%3A%2F%2Flaimingakonsole.lt%2Fcdn%2Fshop%2Ffiles%2Fseriexgta-2j8mwtgiig.webp%3Fv%3D1774882331%26width%3D1445&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Xbox Cloud Gaming will support Grand Theft Auto VI on Xbox One and Series X/S consoles upon its launch next week. This allows Xbox One users to stream the game using Xbox Series S graphics settings, though the service is restricted to Xbox hardware rather than being available on PC, web, or TVs.</p><p>Microsoft holds effective cloud streaming exclusivity on Xbox hardware during the launch period, though Rockstar Games confirmed the game will also support Remote Play on PlayStation and Xbox consoles. The title will run at 30fps on PS5, PS5 Pro, and Xbox Series X/S, with the PS5 Pro version offering ray-traced shadows and PlayStation Spectral Super Resolution (PSSR) support.</p>
-<p>Nov 10 · <a href="https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support">theverge.com</a> | <a href="https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now">rockstargames.com</a></p>
 <br clear="all" />
 
 ---

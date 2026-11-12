@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-12T15:51:00+00:00</updated>
+  <updated>2026-11-12T17:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Sonura Flow Enables Audio Generation from Text Prompts</title>
+    <link href="https://musictech.com/news/gear/sonura-flow/" rel="alternate" />
+    <id>https://musictech.com/news/gear/sonura-flow/::v240</id>
+    <published>2026-11-12T17:27:00+00:00</published>
+    <updated>2026-11-12T17:27:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSonura-Flow-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/sonura-flow/">musictech.com</a> | <a href="https://sonurastudio.com/plugin">sonurastudio.com</a></small></p><hr/><p>Sonura Flow is a free plugin that allows producers to generate loops, one-shots, vocals, and effects from text prompts within a DAW. Users can select sound categories like drums, bass, or melody, specify loop lengths, and choose from multiple generated variations before dragging the audio into their timeline.</p><p>The free tier provides 10 loops, 20 one-shots/effects, and four full tracks per day without a time limit or credit card requirement. Audio generated under this plan is released under a CC0 license, permitting use in musical releases without attribution or licensing restrictions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSonura-Flow-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 22:56 UTC | #27321</small>]]></content>
+  </entry>
+  <entry>
+    <title>A2D Sound Releases Atrium 3D Mixing Plugin for Stereo</title>
+    <link href="https://bedroomproducersblog.com/2026/11/12/a2d-atrium/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/12/a2d-atrium/::v240</id>
+    <published>2026-11-12T16:56:00+00:00</published>
+    <updated>2026-11-12T16:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnZ888qIbsmI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/12/a2d-atrium/">bedroomproducersblog.com</a> | <a href="https://a2dsound.com/atrium">a2dsound.com</a></small></p><hr/><p>A2D Sound has released Atrium, a spatial mixing plugin that allows producers to position individual tracks in width, depth, and height while delivering a finished mix in standard stereo. Operating with regular monitors and headphones without requiring a multi-speaker surround setup, the plugin features visual 3D positioning interfaces, adjustable wall materials, and pre-configured room and seating presets.</p><p>The plugin is available for $69 as part of a launch promotion, down from its regular $149 price, and includes a seven-day trial version. Atrium runs on 64-bit Windows and macOS systems in VST3, AU, and AAX formats, requiring an active A2D Sound account and online authorization for license management across up to three computers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnZ888qIbsmI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 22:46 UTC | #27319</small>]]></content>
+  </entry>
+  <entry>
+    <title>Freakshow Industries Releases Dicksmasher Distortion Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/12/freakshow-industries-dicksmasher/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/12/freakshow-industries-dicksmasher/::v240</id>
+    <published>2026-11-12T16:52:00+00:00</published>
+    <updated>2026-11-12T16:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.pluginplug.net%2Fproduct%2F3930_small%402x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/12/freakshow-industries-dicksmasher/">bedroomproducersblog.com</a> | <a href="https://freakshowindustries.com/dicksmasher">freakshowindustries.com</a></small></p><hr/><p>Freakshow Industries has released Dicksmasher, a weaponized distortion audio plugin available in AU, VST, VST3, and AAX formats for macOS and Windows. The software features multiple character-specific sound-mangling cartridges designed to push audio signals into extreme distortion.</p><p>The release follows a whimsical marketing campaign built around fictional lore involving a reclusive transistor inventor. Users can acquire the plugin through the developer's unconventional free download option or purchase it for $70.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.pluginplug.net%2Fproduct%2F3930_small%402x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 22:45 UTC | #27320</small>]]></content>
+  </entry>
   <entry>
     <title>Digital Audio Workstation Cost Models and Subscription Trends Examined</title>
     <link href="https://musictech.com/features/interviews/daw-cost-model/" rel="alternate" />

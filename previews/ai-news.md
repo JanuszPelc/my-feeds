@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Phota Labs Launches AI Photo Assistant for iOS</h2>
+<a name="story-27318"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fphota-labs-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Phota Labs has released an iOS app that uses artificial intelligence to transform everyday snapshots into professional-quality images. The tool automates the editing process by adjusting composition and perspective—such as converting wide-angle shots into tight portraits—while utilizing specialized identity models to ensure the subject's authentic likeness is preserved.</p><p>Founded by former Adobe engineers Cecilia Zhang and Zach Xia, the a16z-backed startup aims to simplify photo enhancement for social media users. To maintain transparency, the app includes invisible watermarking to identify AI-altered content, and the company plans to expand to Android and introduce a freemium business model.</p>
+<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/">techcrunch.com</a> | <a href="https://www.photalabs.com/">photalabs.com</a></p>
+<br clear="all" />
+
 <h2>Google Launches Tabletop AI Experiment for Custom Collaboration Apps</h2>
 <a name="story-27269"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Foriginal_images%2FCustomize_Chrome_Inline.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced Tabletop, an experimental AI-powered platform that lets users generate customized collaborative tools by describing them in natural language. The service enables people to build interactive spaces such as expense splitters, trip itineraries, and chore charts, which can then be shared with others via an invite link for simultaneous real-time use.</p><p>Access to the Tabletop beta is currently rolling out via a waitlist and is restricted to users over the age of 18 in the United States. Designed as a flexible alternative to traditional workplace management software, the platform utilizes starter templates and prompt-based generation to create shared digital hubs for personal planning and group coordination.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27043"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fresizemode-4%2Cmsid-135700396%2Cimgsize-77638%2Cwidth-1200%2F135700396.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has released its Muse AI agent for Apple Watch and Android’s Wear OS, allowing users to interact with the assistant via voice, text, or dictation directly on their smartwatches. This expansion follows the recent launch of a dedicated iPad app for the service.</p><p>The AI agent uses personalized avatars to assist with tasks such as managing emails, scheduling meetings, and booking reservations. Muse has achieved significant scale, recording over 10 million U.S. downloads within 40 days of its App Store debut.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/">techcrunch.com</a> | <a href="https://x.com/muse/status/2119919277692383330?s=46">x.com</a></p>
-<br clear="all" />
-
-<h2>Adobe Expands Product AI Features and Introduces Local Model Context Protocol Support</h2>
-<a name="story-27028"><img src="https://wsrv.nl/?url=https%3A%2F%2Fas2.ftcdn.net%2Fjpg%2F18%2F83%2F90%2F79%2F1000_F_1883907902_NtxTIS5OSK0p9hxplLLLMgTYGSCQFjT5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Adobe announced a broad expansion of artificial intelligence capabilities across its Creative Cloud applications, including Photoshop, Premiere, Illustrator, and InDesign, during its MAX event in Miami. The updates introduce new tools such as a prototyping builder, professional color grading, relighting, and video object removal, alongside a local Model Context Protocol (MCP) designed to let external chatbots like ChatGPT and Claude interact directly with Adobe features.</p><p>The company is also integrating new image and video enhancement models from its recent acquisition, Topaz Labs, while expanding its Firefly platform with proactive agents and automated assembly features. The rollout of local MCP endpoints allows users to incorporate Creative Cloud functions into external workflows, though industry observers have raised questions regarding the protocol's governance and design.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,26 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-12T14:41:00+00:00</updated>
+  <updated>2026-11-12T16:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Nebius Shares Fall 16% on Increased Capex Forecast and Weak Revenue Outlook</title>
+    <link href="https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html::v240</id>
+    <published>2026-11-12T16:43:00+00:00</published>
+    <updated>2026-11-12T16:43:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results">nebius.com</a></small></p><hr/><p>Nebius shares fell 16% after the AI cloud provider reported third-quarter revenue of $980.8 million, exceeding analyst estimates but accompanied by weaker-than-expected guidance. The company reported a net loss of $37.5 million, or $0.13 per share, and significantly increased its full-year 2026 capital expenditure guidance to $27 billion, up from a previous range of $20 billion to $25 billion.</p><p>The company's 2027 outlook includes projected revenue of $12 billion to $13 billion and capital expenditures of $40 billion to $45 billion. The stock's decline follows recent rallies in competitor stocks like CoreWeave and IREN and occurred alongside the resignation of Nvidia CEO Jensen Huang.</p><hr/><small>12 Nov 2026, 22:44 UTC | #27299</small>]]></content>
+  </entry>
+  <entry>
+    <title>LangChain Raises $300M at $3 Billion Valuation</title>
+    <link href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad" rel="alternate" />
+    <id>https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad::v240</id>
+    <published>2026-11-12T16:41:00+00:00</published>
+    <updated>2026-11-12T16:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff757df35-c3cc-4009-81dc-aaed208aa8e9_2544x2064.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">wsj.com</a></small></p><hr/><p>LangChain raised $300 million in a funding round led by Alphabet's CapitalG, bringing the startup's valuation to $3 billion. This follows a $1.25 billion valuation recorded in 2025.</p><p>The company provides an agent-development platform designed to help large enterprises build and deploy custom AI agents.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff757df35-c3cc-4009-81dc-aaed208aa8e9_2544x2064.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 22:40 UTC | #27300</small>]]></content>
+  </entry>
   <entry>
     <title>SE3 Raises $30 Million in Series A Funding for Military Drone AI Software</title>
     <link href="https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/" rel="alternate" />
