@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>IBM Quantum Announces Nighthawk r3 Processor</h2>
+<p>IBM announced the Nighthawk r3 quantum processor, designed to perform up to 10,000 operations using 520 programmable qubits and 2,034 physical quantum components. This architecture utilizes high-speed qubit reset technology to reduce qubit priming times from 200 milliseconds to approximately 25 nanoseconds.</p><p>IBM plans to link two r3 processors in 2027 to create a system capable of exceeding 1,000 qubits. The IBM Quantum Platform will also integrate quantum workflows with high-performance classical computing resources and provide pulse-level access to facilitate advanced quantum error correction.</p>
+<p>Nov 11 · <a href="https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/">siliconangle.com</a></p>
+<br clear="all" />
+
 <h2>Executive Misconduct in Semiconductor Industry Linked to Espionage Risks</h2>
 <a name="story-27180"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.britannica.com%2F60%2F257460-050-62FF74CB%2FNVIDIA-Jensen-Huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Executive misconduct in the semiconductor industry is linked to risks of economic espionage by state-sponsored actors. Nate Singer of Heron Intelligence reports that many instances of senior-level behavioral issues remain hidden from the public despite increasing pressure to protect trade secrets.</p><p>Historical cases involving TSMC and other manufacturers illustrate the sector's vulnerability to intellectual property theft. Experts suggest that personal indiscretions can be exploited to facilitate the infiltration of critical technology firms.</p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-26942"><img src="https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F66kk9kpTURBXy81ZTdiODE3OTlkYmNkYmVkM2YyOThjMDk3OTc4OTBlMy5qcGeSlQMAPs0H0M0EZZMFzQSwzQJY3gABoTAB&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Iranian Revolutionary Guards are suspected of orchestrating cyberattacks that disabled commercial refrigerators and freezers across France in October. French officials issued the accusation following an investigation into the widespread cooling system failures.</p><p>The disruptions targeted infrastructure essential to the food supply chain. This incident follows a pattern of cyber provocations attributed to Iranian-linked entities targeting European interests.</p>
 <p>Nov 9 · <a href="https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50427517">hacker news</a></p>
-<br clear="all" />
-
-<h2>Russia&#x27;s Rassvet Satellite Network Could Come Online by 2027</h2>
-<a name="story-26888"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftopcor.ru%2Fuploads%2Fposts%2F2026-03%2F1ca155670e_60c023af-5e42-4047-ad0e-9a69c9ff226d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Analysts warn that Russia's Rassvet broadband satellite network could become operational as early as 2027 following a troubled development phase. The space project is expected to enhance Russia's military capabilities by facilitating more precise and destructive drone strikes deep within Ukraine.</p><p>The constellation is designed to provide high-speed, secure orbital internet connectivity, addressing critical communication gaps for Russian forces. Observers note that deploying the network will significantly bolster Moscow's digital sovereignty and long-term tactical coordination on the battlefield.</p>
-<p>Nov 9 · <a href="https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0">ft.com</a></p>
 <br clear="all" />
 
 ---
