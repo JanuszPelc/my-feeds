@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Arvital Audio Updates AudioRoute to Version 1.2.13</h2>
+<a name="story-27251"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-plugin-logic-source.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Arvital Audio has released version 1.2.13 of AudioRoute, its system audio capture tool for macOS and Windows. The update introduces a redesigned take-management system where recorded audio clips are retained in a session list beneath the waveform, preventing automatic deletion and allowing users to drag multiple takes into their digital audio workstation.</p><p>Additional improvements rolled out across recent minor updates include automatic tempo and key detection for recordings longer than six seconds, clearer guidance for plug-in modes, and more resilient handling of audio device reconnections and sample rate changes. AudioRoute is available as a free update for existing users, priced at 39 euros for new licenses, and supports VST3, AU, and AAX formats.</p>
+<p>Nov 12 · <a href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-13-69765?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69765">kvraudio.com</a> | <a href="https://audio-route.com/">audio-route.com</a></p>
+<br clear="all" />
+
 <h2>AlphaTheta Unveils DJM-A7 Four-Channel Mixer</h2>
 <a name="story-27188"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAlphaTheta-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AlphaTheta has announced the DJM-A7, a four-channel mixer intended as a budget-friendly alternative to the DJM-A9. It includes 45 mm channel faders, USB Type-C ports, and compatibility with rekordbox, djay Pro, djay for iOS, and Serato DJ Pro.</p><p>Key features include a Master Texture tool for acoustic room analysis and a Split Filter for shaping midranges. The mixer also supports SonicLink for low-latency wireless monitoring and Link Cue for private track previews on compatible multi players.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27066"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fstarpath-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Starpath Vol. 1 is a collection of 200 patches for the KORG ARP2600, created by Scott McAuley Sounds and James Dyson. The sound bank features basses, leads, pads, keys, arpeggios, sequences, and strings designed for electronic dance music, film scoring, and other production environments.</p><p>Most patches support polyphonic aftertouch and utilize the instrument's 16-voice polyphony. The $39.99 release supports the Foundation's archiving efforts and its ARPs for All program, which provides musicians with access to vintage ARP synthesizers.</p>
 <p>Nov 10 · <a href="https://www.kvraudio.com/news/arp-foundation-releases-starpath-vol-1-for-korg-arp2600-69746?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69746">kvraudio.com</a> | <a href="https://alanrpearlmanfoundation.org/product/starpath-vol-1/">alanrpearlmanfoundation.org</a></p>
-<br clear="all" />
-
-<h2>Toontrack Releases Neon Void EKX for EZkeys 2</h2>
-<a name="story-27056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt761_neonvoidekx_top-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Neon Void EKX is a sound expansion for EZkeys 2 that focuses on darkwave, industrial metal, and cinematic sound design. The library includes 67 playable presets—covering keys, pads, textures, leads, and basses—alongside various cinematic effects like subs, impacts, hits, and risers.</p><p>The sound library was created using classic hardware, modular synthesis, and foley recordings processed through granular effects and distortion. To complement the presets, the expansion also includes a library of MIDI patterns and specifically developed song arrangements. The software is available for $89.</p>
-<p>Nov 10 · <a href="https://www.kvraudio.com/news/toontrack-releases-neon-void-ekx-for-ezkeys-2-69745?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69745">kvraudio.com</a> | <a href="https://www.toontrack.com/product/neon-void-ekx/">toontrack.com</a></p>
 <br clear="all" />
 
 ---

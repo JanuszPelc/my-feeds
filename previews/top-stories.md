@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;iFixit Teardown of MacBook Pro with PROLED XDR Reveals Glowing Apple Mechanism</h2>
+<a name="story-27140"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F10161844%2FApple-lid-cutout_b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>iFixit has published a teardown of Apple's new MacBook Pro with PROLED XDR, offering a detailed look at its tandem OLED display and the four-LED lighting strip responsible for illuminating the newly restored glowing Apple logo. The investigation examines how the laptop achieves a lighter chassis design while introducing a touchscreen and retaining functional Touch ID compatibility during logic board swaps.</p><p>Despite improvements such as streamlined lid replacement and reliable hardware swapping, the teardown highlights that components like fans and USB-C ports remain buried beneath the logic board. The device ultimately earned a repairability score of 5 out of 10, constrained by design elements like soldered storage and a keyboard integrated into the top case.</p>
+<p>Nov 12 · <a href="https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple">ifixit.com</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;United Airlines to Block Personal AI Assistants from Booking Flights</h2>
 <a name="story-27199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2026%2F01%2FAI-Agent-Travel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The carrier intends to prevent automated agents from completing flight reservations, citing data privacy concerns and potential violations of FAA and DOT regulations. This decision is driven by a desire to avoid introducing unauthorized middlemen into the booking process.</p><p>The move highlights the growing tension between traditional service models and the rise of autonomous AI agents in consumer sectors. By restricting these bots, United aims to maintain direct oversight of the customer transaction and data security.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Anthropic is targeting up to $64.4 billion in its upcoming initial public offering, according to a draft regulatory prospectus. The company and participating investors plan to market shares within an indicative price band of $70 to $78 each.</p><p>In addition to the main share sale, Anthropic is securing $26 billion through cornerstone investors including Google, AMD, and Nvidia. The public market debut serves as a major valuation test for the artificial intelligence sector amid surging industry infrastructure costs and rapidly scaling revenues.</p>
 <p>Nov 10 · <a href="https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50435382">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Nvidia Faces Scrutiny Over Family Hires and CEO Investigation</h2>
-<a name="story-26885"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgray-wsmv-prod.gtv-cdn.com%2Fresizer%2Fv2%2FY7ME7VTBTFHZXJNWF7TS4B3VDY.jpg%3Fauth%3Da3dbea4014f5690c456c7c7bbab9cc0ceaa4e64e1b7ba3689a53cef773c7853a%26width%3D980%26height%3D551%26smart%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia has faced scrutiny over its corporate governance after reports detailed the integration of CEO Jensen Huang’s children and other family members into company operations. Concurrently, the chipmaker’s board has initiated an investigation following reports that the chief executive was the target of a foreign intelligence effort after he admitted to an extramarital affair.</p><p>The prominent roles given to Huang's relatives run counter to typical Silicon Valley norms, where founder-led technology firms often maintain more conventional corporate hierarchies. These revelations emerge as the semiconductor giant maintains its dominant market position supplying high-performance hardware for global artificial intelligence infrastructure.</p>
-<p>Nov 10 · <a href="https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?st=qRVEvG&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---
