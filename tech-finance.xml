@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-12T11:56:00+00:00</updated>
+  <updated>2026-11-12T12:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Q-Ctrl Raises $290 Million in Funding Valuing Startup at Over $1 Billion</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round::v240</id>
+    <published>2026-11-12T12:44:00+00:00</published>
+    <updated>2026-11-12T12:44:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round">bloomberg.com</a></small></p><hr/><p>Australian quantum software startup Q-Ctrl has raised $290 million in a funding round led by Salesforce Ventures, pushing its valuation past $1 billion. The company develops quantum-enabled sensors designed to assist ships and aircraft with navigation during GPS outages.</p><p>The funding round also received backing from Jared Kushner’s Affinity Partners. Q-Ctrl focuses on applying quantum technology to solve control engineering problems and enhance navigation resilience.</p><hr/><small>12 Nov 2026, 20:04 UTC | #27273</small>]]></content>
+  </entry>
   <entry>
     <title>SMIC Reports Record Third-Quarter Revenue and Increased Net Profit</title>
     <link href="https://www.wsj.com/business/earnings/chinas-smic-doubles-profit-posts-record-revenue-on-ai-spillover-effects-0606debc?st=4BA8bL&amp;reflink=desktopwebshare_permalink" rel="alternate" />

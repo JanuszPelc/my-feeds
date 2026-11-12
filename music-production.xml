@@ -3,9 +3,45 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-12T12:31:00+00:00</updated>
+  <updated>2026-11-12T14:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Lese Releases Herman Iterative Reverb Plugin</title>
+    <link href="https://www.kvraudio.com/news/lese-releases-herman-iterative-reverb-plugin-vst3-au-and-aax-69782?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69782" rel="alternate" />
+    <id>https://www.kvraudio.com/news/lese-releases-herman-iterative-reverb-plugin-vst3-au-and-aax-69782?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69782::v240</id>
+    <published>2026-11-12T14:38:00+00:00</published>
+    <updated>2026-11-12T14:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fherman.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/lese-releases-herman-iterative-reverb-plugin-vst3-au-and-aax-69782?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69782">kvraudio.com</a> | <a href="https://lese.io/plugin/herman/">lese.io</a></small></p><hr/><p>Lese has released Herman, an iterative reverb plugin available in VST3, AU, and AAX formats for macOS and Windows. Built around recursive processing concepts, the plugin features an all-original topology designed to create complex sonic landscapes.</p><p>Herman incorporates internal contour processors on each feedback line paired with a gain-protecting system to shape reverb tails over time. Additional features include sound-reactive visualizers that subtly adjust internal parameters, four Illusion models, MIDI control capabilities for performance features like Bloom, and a retail price of $55.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fherman.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 20:10 UTC | #27291</small>]]></content>
+  </entry>
+  <entry>
+    <title>Void Enemy Releases Free Virtual Analog Synthesizer Plenitude</title>
+    <link href="https://bedroomproducersblog.com/2026/11/12/void-enemy-plenitude/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/12/void-enemy-plenitude/::v240</id>
+    <published>2026-11-12T13:27:00+00:00</published>
+    <updated>2026-11-12T13:27:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2025%2F11%2FVoid9-MONAI-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/12/void-enemy-plenitude/">bedroomproducersblog.com</a> | <a href="https://void-enemy.com/">void-enemy.com</a></small></p><hr/><p>Void Enemy has released Plenitude, a free virtual analog synthesizer plugin for macOS and Windows. The instrument features three oscillators with multiple waveforms, separate tuning and distortion controls, a resonant filter, a modulation matrix, and built-in effects including delay and reverb.</p><p>Developed initially as a COVID-19 lockdown project, the software evolved into a collaborative effort released with 107 factory presets. It supports VST3 and AU formats with eight-voice polyphony, and while a paid Pro edition with an expanded matrix is planned, the core software remains permanently free without account or email registration requirements.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2025%2F11%2FVoid9-MONAI-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 20:06 UTC | #27279</small>]]></content>
+  </entry>
+  <entry>
+    <title>Analog Obsession Releases MasterTone Free Baxandall EQ Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/12/analog-obsession-mastertone/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/12/analog-obsession-mastertone/::v240</id>
+    <published>2026-11-12T13:17:00+00:00</published>
+    <updated>2026-11-12T13:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdown-id.img.susercontent.com%2Ffile%2F083c18cb26d0d8463a1ec9ae6652d8fc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/12/analog-obsession-mastertone/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/analogobsession/posts/mastertone-174915694">patreon.com</a></small></p><hr/><p>Analog Obsession has released MasterTone, a free transformer-balanced active Baxandall EQ plugin for macOS and Windows. The plugin is designed for broad tonal adjustments, allowing users to shape the overall bass and treble balance of audio tracks rather than performing surgical frequency cuts.</p><p>MasterTone features dedicated low and high-frequency bands with up to 16 dB of boost or cut, alongside a gain-compensated input control that drives the output transformer for analog coloration. The plugin supports VST3, AU, and AAX formats and includes a resizable user interface ranging from 50% to 200%.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdown-id.img.susercontent.com%2Ffile%2F083c18cb26d0d8463a1ec9ae6652d8fc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 20:05 UTC | #27280</small>]]></content>
+  </entry>
+  <entry>
+    <title>Black Rooster Audio OmniTec-436C Compressor Giveaway Hosted by Bedroom Producers Blog</title>
+    <link href="https://bedroomproducersblog.com/2026/11/12/win-black-rooster-audio-omnitec/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/12/win-black-rooster-audio-omnitec/::v240</id>
+    <published>2026-11-12T13:14:00+00:00</published>
+    <updated>2026-11-12T13:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fblackroosteraudio_omnitec-436c_frontplate.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/12/win-black-rooster-audio-omnitec/">bedroomproducersblog.com</a></small></p><hr/><p>Bedroom Producers Blog has partnered with Black Rooster Audio to host a giveaway for a free license of the OmniTec-436C tube compressor plugin for macOS and Windows. Participants can enter the contest by leaving a comment on the announcement post before a winner is randomly selected on November 19, 2026.</p><p>Inspired by the vintage Altec 436C, the OmniTec-436C features a program-dependent vari-mu gain stage, flexible sidechain filtering, and support for VST, VST3, AU, and AAX formats. Concurrently, Black Rooster Audio is running a Black November promotional sale through December 1, discounting individual plugins to $19 and offering an ALL Bundle of 27 plugins for $99.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fblackroosteraudio_omnitec-436c_frontplate.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 20:04 UTC | #27281</small>]]></content>
+  </entry>
   <entry>
     <title>KOMA Elektronik and Passepartout Duo Announce Haloplane Sampler and Wavetable Synthesizer</title>
     <link href="https://musictech.com/news/gear/haloplane/" rel="alternate" />

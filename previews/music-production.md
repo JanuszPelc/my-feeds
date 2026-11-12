@@ -8,6 +8,30 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Lese Releases Herman Iterative Reverb Plugin</h2>
+<a name="story-27291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fherman.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Lese has released Herman, an iterative reverb plugin available in VST3, AU, and AAX formats for macOS and Windows. Built around recursive processing concepts, the plugin features an all-original topology designed to create complex sonic landscapes.</p><p>Herman incorporates internal contour processors on each feedback line paired with a gain-protecting system to shape reverb tails over time. Additional features include sound-reactive visualizers that subtly adjust internal parameters, four Illusion models, MIDI control capabilities for performance features like Bloom, and a retail price of $55.</p>
+<p>Nov 12 · <a href="https://www.kvraudio.com/news/lese-releases-herman-iterative-reverb-plugin-vst3-au-and-aax-69782?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69782">kvraudio.com</a> | <a href="https://lese.io/plugin/herman/">lese.io</a></p>
+<br clear="all" />
+
+<h2>Void Enemy Releases Free Virtual Analog Synthesizer Plenitude</h2>
+<a name="story-27279"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2025%2F11%2FVoid9-MONAI-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Void Enemy has released Plenitude, a free virtual analog synthesizer plugin for macOS and Windows. The instrument features three oscillators with multiple waveforms, separate tuning and distortion controls, a resonant filter, a modulation matrix, and built-in effects including delay and reverb.</p><p>Developed initially as a COVID-19 lockdown project, the software evolved into a collaborative effort released with 107 factory presets. It supports VST3 and AU formats with eight-voice polyphony, and while a paid Pro edition with an expanded matrix is planned, the core software remains permanently free without account or email registration requirements.</p>
+<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/void-enemy-plenitude/">bedroomproducersblog.com</a> | <a href="https://void-enemy.com/">void-enemy.com</a></p>
+<br clear="all" />
+
+<h2>Analog Obsession Releases MasterTone Free Baxandall EQ Plugin</h2>
+<a name="story-27280"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdown-id.img.susercontent.com%2Ffile%2F083c18cb26d0d8463a1ec9ae6652d8fc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Analog Obsession has released MasterTone, a free transformer-balanced active Baxandall EQ plugin for macOS and Windows. The plugin is designed for broad tonal adjustments, allowing users to shape the overall bass and treble balance of audio tracks rather than performing surgical frequency cuts.</p><p>MasterTone features dedicated low and high-frequency bands with up to 16 dB of boost or cut, alongside a gain-compensated input control that drives the output transformer for analog coloration. The plugin supports VST3, AU, and AAX formats and includes a resizable user interface ranging from 50% to 200%.</p>
+<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/analog-obsession-mastertone/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/analogobsession/posts/mastertone-174915694">patreon.com</a></p>
+<br clear="all" />
+
+<h2>Black Rooster Audio OmniTec-436C Compressor Giveaway Hosted by Bedroom Producers Blog</h2>
+<a name="story-27281"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fblackroosteraudio_omnitec-436c_frontplate.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bedroom Producers Blog has partnered with Black Rooster Audio to host a giveaway for a free license of the OmniTec-436C tube compressor plugin for macOS and Windows. Participants can enter the contest by leaving a comment on the announcement post before a winner is randomly selected on November 19, 2026.</p><p>Inspired by the vintage Altec 436C, the OmniTec-436C features a program-dependent vari-mu gain stage, flexible sidechain filtering, and support for VST, VST3, AU, and AAX formats. Concurrently, Black Rooster Audio is running a Black November promotional sale through December 1, discounting individual plugins to $19 and offering an ALL Bundle of 27 plugins for $99.</p>
+<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/win-black-rooster-audio-omnitec/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
 <h2>KOMA Elektronik and Passepartout Duo Announce Haloplane Sampler and Wavetable Synthesizer</h2>
 <a name="story-27271"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHaloplane-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>KOMA Elektronik and Passepartout Duo have unveiled the Haloplane, a compact micro-loop sampler and wavetable synthesizer that uses electromagnetic fields for sound manipulation. Users control the audio by moving electromagnetic pickups across the device's frame to alter sound or create complex sequences.</p><p>The hardware includes a built-in microphone, line-in, a speaker, and Wi-Fi connectivity, with a companion app available for parameter control. It also features built-in wavetables and supports an optional Doppeldisk pickup for expanded sound capabilities. Pre-orders are currently available through a tiered pricing model, with shipping expected in early 2027.</p>
@@ -71,30 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmidi-axe_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GenuineSoundware has released MIDI-AXE, a free MIDI monitor, router, and toolbox application for Windows and macOS. The software includes a color-coded MIDI monitor with hexadecimal and decimal displays, a complete SysEx view, a routing matrix, a SysEx librarian, and a MIDI Clock/MTC monitor and generator.</p><p>Additional features comprise an on-screen keyboard, 16 assignable controller sliders, and a built-in SoundFont player with ASIO support. The scalable interface provides light and dark themes, dockable and floating windows, and automatic USB device reconnection across sessions.</p>
 <p>Nov 11 · <a href="https://www.kvraudio.com/news/genuinesoundware-releases-midi-axe---free-midi-monitor-router-and-toolbox-for-windows-and-macos-69755?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69755">kvraudio.com</a> | <a href="https://www.genuinesoundware.com/?a=page&p=MIDI-AXE">genuinesoundware.com</a></p>
-<br clear="all" />
-
-<h2>Song Athletics Makes OSS Sampler Plugin Free</h2>
-<a name="story-27171"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FBk33bCg3DWR4q7CYg3557j.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The OSS one-shot sampler plugin is now free for macOS and Windows users. The tool maps individual samples across a keyboard to enable melodic and chordal playback and includes features such as random sample selection and integrated delay effects.</p><p>Available in VST3 and AU formats, the plugin allows users to load custom sample folders or use the included demo pack. It features controls for amplitude envelopes and delay, and provides customization options for interface colors and background images.</p>
-<p>Nov 11 · <a href="https://bedroomproducersblog.com/2026/11/11/song-athletics-oss-free/">bedroomproducersblog.com</a> | <a href="https://songathletics.com/products/oss">songathletics.com</a></p>
-<br clear="all" />
-
-<h2>Numerical Audio Updates Konstrukt to v1.2 for iPad and iPhone</h2>
-<a name="story-27156"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F01-hero_konstrukt.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Numerical Audio has released version 1.2 of its iOS music toolkit and renamed the app from MIDIRack to Konstrukt. The update introduces third-party AUv3 plug-in hosting, an audio path managed through a new Rack page, additional sequencers, and the ability to save custom graph editor nodes as reusable fragments.</p><p>The free update for existing users includes channel strips with insert effects and sidechain routing, 24-bit WAV recording, Ableton Link support, and new sequencing tools like Drum Grid and Stage Seq. Konstrukt is available as a standalone app and AUv3 plug-in for iPad and iPhone running iOS or iPadOS 17 or later.</p>
-<p>Nov 11 · <a href="https://www.kvraudio.com/news/numerical-updates-konstrukt-to-v1-2-formerly-midirack-for-ipad-and-iphone---auv3-plug-in-hosting-a-rack-new-sequencers-and-fragments-69735?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69735">kvraudio.com</a> | <a href="https://numericalaudio.com/konstrukt">numericalaudio.com</a></p>
-<br clear="all" />
-
-<h2>Warsaw Wave Releases Revolt Patchable Synth Plugin</h2>
-<a name="story-27187"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frvps_main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Warsaw Wave has released Revolt Patchable Synth, a software synthesizer for Windows, macOS, and Linux available in AU, LV2, and VST3 plugin formats. The instrument combines analog-style, wavetable, and noise oscillators with multimode filters and modulation capabilities within a flexible, configurable panel layout.</p><p>The synth features eight assignable modulator slots—each supporting an envelope, LFO, or noise LFO—alongside an auto-focusing modulation matrix, patch cables that can be toggled on or off, and MPE expression support. It also includes four reorderable effect panels with reverb, delay, chorus, flanger, distortion, and bitcrusher options.</p>
-<p>Nov 11 · <a href="https://www.kvraudio.com/news/warsaw-wave-releases-revolt-patchable-synth-au-lv2-and-vst3-69500?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69500">kvraudio.com</a> | <a href="https://warsaw-wave.com/">warsaw-wave.com</a></p>
-<br clear="all" />
-
-<h2>Producer Daramola Discusses Studio Gear and Production Philosophy</h2>
-<a name="story-27143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p>
-<p>Nov 11 · <a href="https://musictech.com/features/interviews/daramol-interview/">musictech.com</a></p>
 <br clear="all" />
 
 ---

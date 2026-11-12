@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Q-Ctrl Raises $290 Million in Funding Valuing Startup at Over $1 Billion</h2>
+<p>Australian quantum software startup Q-Ctrl has raised $290 million in a funding round led by Salesforce Ventures, pushing its valuation past $1 billion. The company develops quantum-enabled sensors designed to assist ships and aircraft with navigation during GPS outages.</p><p>The funding round also received backing from Jared Kushner’s Affinity Partners. Q-Ctrl focuses on applying quantum technology to solve control engineering problems and enhance navigation resilience.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>SMIC Reports Record Third-Quarter Revenue and Increased Net Profit</h2>
 <a name="story-27259"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.trendforce.com%2Fblog%2Fwp-content%2Fuploads%2F2024%2F11%2F08131351%2FSMIC-Q324-Revenue-1024x536.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SMIC, China's largest contract chip manufacturer, reported third-quarter revenue of approximately $3.19 billion, a 34% increase year-over-year. Net profit for the period rose 123% to about $428.4 million, surpassing analyst estimates of $396.8 million.</p><p>The company's gross margin reached 29.9%, exceeding its guidance of 26% to 28%. This performance was attributed to spillover effects from the artificial intelligence sector.</p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27151"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SoftBank recorded a $3.7 billion earnings hit following the cancellation of gas turbine reservations intended to power artificial intelligence infrastructure. The canceled capacity exceeded 13GW, an amount equivalent to the electrical output of six Hoover Dams.</p><p>The loss highlights the scale of energy resource requirements and the financial volatility involved in securing power for large-scale AI expansion.</p>
 <p>Nov 11 · <a href="https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Shares Decline Amid Fallout From CEO Jensen Huang&#x27;s Scandal</h2>
-<a name="story-27115"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h3zrv.img%3Fw%3D3555%26h%3D2666%26m%3D4%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia shares dropped 5.47% on Tuesday, marking a second consecutive day of losses following CEO Jensen Huang's disclosure of an extramarital affair with an executive at customer firm Megaspeed. Reports indicate U.S. officials are investigating whether the individual acted as a Chinese intelligence asset and steered advanced artificial intelligence chips to Beijing.</p><p>The controversy has triggered a class-action shareholder lawsuit against Nvidia and Huang in federal court, alleging misleading statements regarding the relationship and business risks. While analysts estimate a low probability of Huang's removal following a board investigation, the uncertainty has created market headwinds and boosted competing semiconductor firms like AMD and Broadcom.</p>
-<p>Nov 11 · <a href="https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html">cnbc.com</a></p>
 <br clear="all" />
 
 ---

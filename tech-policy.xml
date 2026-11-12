@@ -3,9 +3,35 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-12T10:22:00+00:00</updated>
+  <updated>2026-11-12T12:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>CFTC Approves Kalshi's Perpetual Trades for Stocks and Cryptocurrencies</title>
+    <link href="https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html::v240</id>
+    <published>2026-11-12T12:42:00+00:00</published>
+    <updated>2026-11-12T12:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgoodmoneyguide.com%2Fwp-content%2Fuploads%2F2026%2F01%2FKalshi-15-Minute-Crypto-Markets.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html">nytimes.com</a></small></p><hr/><p>The Commodity Futures Trading Commission (CFTC) has authorized Kalshi to offer "perpetual trades," allowing customers to wager on the prices of individual stocks and cryptocurrencies without owning the underlying assets. These instruments permit traders to bet on price fluctuations, including shorting, without a requirement to settle the position by a specific date.</p><p>Major trading clearinghouses, including the Chicago Mercantile Exchange and Cboe Global Markets, have filed lawsuits against the CFTC in response to the decision. These organizations argue that the new trading permissions could expose investors to increased risks of market manipulation and insider trading.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgoodmoneyguide.com%2Fwp-content%2Fuploads%2F2026%2F01%2FKalshi-15-Minute-Crypto-Markets.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 19:55 UTC | #27274</small>]]></content>
+  </entry>
+  <entry>
+    <title>Zelenskyy Alleges Starshield Faced Systematic Speed Restrictions</title>
+    <link href="https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e" rel="alternate" />
+    <id>https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e::v240</id>
+    <published>2026-11-12T12:41:00+00:00</published>
+    <updated>2026-11-12T12:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e">ft.com</a></small></p><hr/><p>Volodymyr Zelenskyy reported that SpaceX's Starshield service faced "systematic speed restrictions" for several days. Ukrainian officials believe these limitations are intended to pressure Kyiv during peace negotiations.</p><p>The connectivity issues occur as the Ukrainian military struggles to intercept Russian jet-powered drones. This coincides with meetings between Vladimir Putin and Steve Witkoff and Jared Kushner.</p><hr/><small>12 Nov 2026, 19:53 UTC | #27268</small>]]></content>
+  </entry>
+  <entry>
+    <title>China Criticizes US Use of Nvidia CEO Scandal for Tech Restrictions</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-12/china-says-us-should-not-use-huang-scandal-to-justify-tech-curbs" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-12/china-says-us-should-not-use-huang-scandal-to-justify-tech-curbs::v240</id>
+    <published>2026-11-12T12:38:00+00:00</published>
+    <updated>2026-11-12T12:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA249c3g.img%3Fw%3D1200%26h%3D800%26m%3D4%26q%3D94&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-12/china-says-us-should-not-use-huang-scandal-to-justify-tech-curbs">bloomberg.com</a></small></p><hr/><p>Beijing has stated that the United States should cease fabricating allegations of Chinese spying involving Nvidia Corp. Chief Executive Officer Jensen Huang as a pretext for implementing further technology restrictions.</p><p>The statement comes ahead of an expected meeting between US President Donald Trump and Chinese President Xi Jinping next week, as bilateral tensions surrounding semiconductor access and national security continue to escalate.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA249c3g.img%3Fw%3D1200%26h%3D800%26m%3D4%26q%3D94&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 19:48 UTC | #27267</small>]]></content>
+  </entry>
   <entry>
     <title>Victims Seek Legal Action Against xAI Over Sexualized Images Generated by Grok</title>
     <link href="https://www.bloomberg.com/features/2026-grok-sexualized-childhood-photos/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDQwNTgwMiwiZXhwIjoxNzk1MDEwNjAyLCJhcnRpY2xlSWQiOiJUT0NBVUxLSUpIOTMwMCIsImJjb25uZWN0SWQiOiJCNzYzRUJEQUI3QjQ0MjNEOTI0Qzc0MzFBNTkyMkZCQyJ9.iQrQRGwQgxw2Q_MsneYnaVoUsKDdoN0XNrxTO4zRiPg" rel="alternate" />

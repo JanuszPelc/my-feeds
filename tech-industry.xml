@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-12T12:52:00+00:00</updated>
+  <updated>2026-11-12T14:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Resigns Amid Investigation Into Affair and National Security Concerns</title>
+    <link href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/::v240</id>
+    <published>2026-11-12T14:33:00+00:00</published>
+    <updated>2026-11-12T14:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.tweaktown.com%2Fnews%2F1%2F0%2F100501_651156165_nvidia-ceo-jensen-huang-touts-the-beginning-of-new-industrial-revolution_full.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">techcrunch.com</a> | <a href="https://nvidianews.nvidia.com/news/a-message-to-our-company">nvidianews.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></small></p><hr/><p>Nvidia co-founder and CEO Jensen Huang has resigned following revelations regarding an extramarital relationship with Alice Huang, an executive at Singapore-based AI infrastructure firm Megaspeed whom U.S. officials allege is a Chinese spy. The controversy has triggered federal export and national security investigations, internal scrutiny by Nvidia's board of directors, and congressional demands for official briefings.</p><p>In the wake of Huang's resignation, Nvidia appointed CFO Colette Kress as interim CEO and Harvey C. Jones as the board's first-ever chair. Additional reports indicate that Huang also engaged in a relationship with an internal executive who reported directly to him, further compounding corporate governance pressures amid intense global competition over advanced AI hardware markets.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.tweaktown.com%2Fnews%2F1%2F0%2F100501_651156165_nvidia-ceo-jensen-huang-touts-the-beginning-of-new-industrial-revolution_full.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 20:10 UTC | #27284</small>]]></content>
+  </entry>
+  <entry>
+    <title>GDC Festival of Gaming State of the Game Industry Report Details Generative AI Usage</title>
+    <link href="https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-::v240</id>
+    <published>2026-11-12T12:43:00+00:00</published>
+    <updated>2026-11-12T12:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1253471-85e2-47ae-a3dc-c0749ceb5fde_2816x1584.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-">gamedeveloper.com</a></small></p><hr/><p>Data from the GDC Festival of Gaming State of the Game Industry report indicates that 40 percent of surveyed industry professionals use generative AI in the workplace, with 73 percent of those users relying on the technology primarily for research and brainstorming.</p><p>While 56 percent of AI-using developers employ it for code generation and debugging, only six percent utilize it to create player-facing content, reflecting ongoing industry caution and widespread concerns regarding copyright, environmental impacts, and overall game quality.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1253471-85e2-47ae-a3dc-c0749ceb5fde_2816x1584.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 20:02 UTC | #27332</small>]]></content>
+  </entry>
   <entry>
     <title>Pony Ma to Allocate Half of Tencent Workforce to AI-Native Businesses</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push" rel="alternate" />

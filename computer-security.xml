@@ -3,9 +3,27 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-12T05:38:00+00:00</updated>
+  <updated>2026-11-12T12:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>OpenAI National Security Staff Tricked by Russian Pranksters Posing as Ukrainian Official</title>
+    <link href="https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/" rel="alternate" />
+    <id>https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/::v240</id>
+    <published>2026-11-12T12:37:00+00:00</published>
+    <updated>2026-11-12T12:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxbusiness.com%2Ffoxbusiness.com%2Fcontent%2Fuploads%2F2025%2F02%2F931%2F523%2Fsam-altman-openai.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/">theintercept.com</a> | <a href="https://news.ycombinator.com/item?id=50461225">hacker news</a></small></p><hr/><p>Three senior OpenAI national security and military policy staff were tricked into a video conversation by a Russian comedy duo posing as a high-ranking Ukrainian intelligence official. During the 17-minute call, the OpenAI employees discussed the company's military support for Ukraine, its contract with the U.S. Department of War, and its nascent partnerships with the Ukrainian Ministry of Defense.</p><p>The pranksters, known as Vovan and Lexus, have a history of targeting high-profile figures with calls that often align with Russian foreign policy. OpenAI stated that it investigated the incident, concluded it was a prank, and took preventative measures, while noting that the conversation also touched on U.S. policy regarding Ukraine and Elon Musk.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxbusiness.com%2Ffoxbusiness.com%2Fcontent%2Fuploads%2F2025%2F02%2F931%2F523%2Fsam-altman-openai.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 19:47 UTC | #27264</small>]]></content>
+  </entry>
+  <entry>
+    <title>Investigation Links Qilin Ransomware Administrator Haise to St. Petersburg Man</title>
+    <link href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/" rel="alternate" />
+    <id>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/::v240</id>
+    <published>2026-11-12T12:36:00+00:00</published>
+    <updated>2026-11-12T12:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fkrebsonsecurity.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhaise-ramp-kela.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/">krebsonsecurity.com</a></small></p><hr/><p>Cybersecurity reporting links the administrator of the Qilin ransomware-as-a-service group, operating under the alias "Haise," to Aleksey Mikhailovich Yakovtsev, a 36-year-old resident of St. Petersburg, Russia. Qilin has become one of the world's most active ransomware affiliate programs, employing a double-extortion model and partnering with prominent cybercrime groups like Scattered Spider and RansomHub.</p><p>Investigators connected Haise to older forum aliases, including "Rjun" and the Telegram username "Alexbigboss44," through historical forum data and leaked records from Russian state databases. Digital artifacts, data breaches, and travel records further corroborated the identity of Yakovtsev, who holds a master's degree in computing and information systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fkrebsonsecurity.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhaise-ramp-kela.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 19:46 UTC | #27265</small>]]></content>
+  </entry>
   <entry>
     <title>Danbooru Details Security Incident and Week-Long Downtime Following Malicious Flash Upload</title>
     <link href="https://danbooru.donmai.us/forum_topics/38685.html" rel="alternate" />

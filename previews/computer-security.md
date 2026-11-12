@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>OpenAI National Security Staff Tricked by Russian Pranksters Posing as Ukrainian Official</h2>
+<a name="story-27264"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxbusiness.com%2Ffoxbusiness.com%2Fcontent%2Fuploads%2F2025%2F02%2F931%2F523%2Fsam-altman-openai.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Three senior OpenAI national security and military policy staff were tricked into a video conversation by a Russian comedy duo posing as a high-ranking Ukrainian intelligence official. During the 17-minute call, the OpenAI employees discussed the company's military support for Ukraine, its contract with the U.S. Department of War, and its nascent partnerships with the Ukrainian Ministry of Defense.</p><p>The pranksters, known as Vovan and Lexus, have a history of targeting high-profile figures with calls that often align with Russian foreign policy. OpenAI stated that it investigated the incident, concluded it was a prank, and took preventative measures, while noting that the conversation also touched on U.S. policy regarding Ukraine and Elon Musk.</p>
+<p>Nov 12 · <a href="https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/">theintercept.com</a> | <a href="https://news.ycombinator.com/item?id=50461225">hacker news</a></p>
+<br clear="all" />
+
+<h2>Investigation Links Qilin Ransomware Administrator Haise to St. Petersburg Man</h2>
+<a name="story-27265"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkrebsonsecurity.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhaise-ramp-kela.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cybersecurity reporting links the administrator of the Qilin ransomware-as-a-service group, operating under the alias "Haise," to Aleksey Mikhailovich Yakovtsev, a 36-year-old resident of St. Petersburg, Russia. Qilin has become one of the world's most active ransomware affiliate programs, employing a double-extortion model and partnering with prominent cybercrime groups like Scattered Spider and RansomHub.</p><p>Investigators connected Haise to older forum aliases, including "Rjun" and the Telegram username "Alexbigboss44," through historical forum data and leaked records from Russian state databases. Digital artifacts, data breaches, and travel records further corroborated the identity of Yakovtsev, who holds a master's degree in computing and information systems.</p>
+<p>Nov 12 · <a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/">krebsonsecurity.com</a></p>
+<br clear="all" />
+
 <h2>Danbooru Details Security Incident and Week-Long Downtime Following Malicious Flash Upload</h2>
 <p>Danbooru experienced a week-long downtime following a security incident on November 4, when an attacker uploaded a malicious Flash post containing an XSS worm. The site was shut down within six minutes, limiting actual damage, though the worm harvested IP addresses and temporarily hijacked user accounts that viewed the infected posts.</p><p>The attacker exploited a pull request that accidentally re-enabled Flash file uploads and utilized large language models to identify vulnerabilities. During the outage, administrators patched the security gaps, performed server maintenance, and advised users to secure their accounts by changing passwords and enabling two-factor authentication.</p>
 <p>Nov 12 · <a href="https://danbooru.donmai.us/forum_topics/38685.html">danbooru.donmai.us</a> | <a href="https://lobste.rs/s/wfr0b4/about_downtime_security_incident">lobsters</a></p>
@@ -81,18 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27116"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ionos.ca%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Finteraction-between-icann-registries-registrars-us.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Verisign has cancelled an initiative to terminate approximately 22,000 .name domain registrations and their associated email redirects. While new registrations for third-level .name domains will be closed, all existing domains and email services will be grandfathered and remain active indefinitely.</p><p>The decision follows a series of legal challenges and advocacy efforts aimed at preventing the termination. The move adheres to ICANN consensus policies, ensuring continued service for current .name domain holders.</p>
 <p>Nov 10 · <a href="https://neil.fraser.name/news/2026/11/10/">neil.fraser.name</a> | <a href="https://itp.cdn.icann.org/en/files/consensus-policies/kane-to-fessenden-05-11-2026-en.pdf">itp.cdn.icann.org</a> | <a href="https://lobste.rs/s/vkkbwo/name_grandfathered">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50442736">hacker news</a></p>
-<br clear="all" />
-
-<h2>Amazon Replaces Claude Sonnet 4.6 with Strands Decider for Internal Ticket Labeling</h2>
-<a name="story-27085"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eesel.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fwmeojibgfvjvinftolho.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic_assets%2Fblog-gen%2F8a5ea7e3-c792-48e9-a2ab-b082aa5bb039%26w%3D1680%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon and AWS engineers replaced Claude Sonnet 4.6 with the Strands Decider E4B decision model to label tickets within an internal system. This transition reduced token costs by approximately 98% and decreased average call latency from 4,215 ms to 897 ms. The model maps various ticket types, such as customer escalations and security findings, into a fixed set of 20 categories.</p><p>The efficiency gains result from the decision model returning a single choice rather than a full JSON object and utilizing significantly shorter prompts. The implementation utilizes AWS services such as SageMaker, SQS, and Lambda, and was validated through a three-way deployment process that ran both models in parallel to compare accuracy before fully transitioning.</p>
-<p>Nov 10 · <a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">strandsagents.com</a> | <a href="https://news.ycombinator.com/item?id=50436640">hacker news</a></p>
-<br clear="all" />
-
-<h2>Fireworks Reports Cyberattack Affecting Customer Data and AI Model Weights</h2>
-<a name="story-26968"><img src="https://wsrv.nl/?url=https%3A%2F%2Fas1.ftcdn.net%2Fjpg%2F12%2F56%2F20%2F26%2F1000_F_1256202604_8njs6FaKJy8fSmzNdYO3kEzLyTKWqGTD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hackers accessed customer datasets, billing information, and incomplete model weights at AI infrastructure provider Fireworks during a cyberattack over the past month.</p><p>Two customers have already begun transitioning their business operations away from the company's systems in response to the security breach.</p>
-<p>Nov 9 · <a href="https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/">forbes.com</a> | <a href="https://news.ycombinator.com/item?id=50430783">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;Amazon Replaces Claude Sonnet 4.6 with Strands Decider for Internal Ticket Labeling</h2>
+<a name="story-27085"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eesel.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fwmeojibgfvjvinftolho.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic_assets%2Fblog-gen%2F8a5ea7e3-c792-48e9-a2ab-b082aa5bb039%26w%3D1680%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amazon and AWS engineers replaced Claude Sonnet 4.6 with the Strands Decider E4B decision model to label tickets within an internal system. This transition reduced token costs by approximately 98% and decreased average call latency from 4,215 ms to 897 ms. The model maps various ticket types, such as customer escalations and security findings, into a fixed set of 20 categories.</p><p>The efficiency gains result from the decision model returning a single choice rather than a full JSON object and utilizing significantly shorter prompts. The implementation utilizes AWS services such as SageMaker, SQS, and Lambda, and was validated through a three-way deployment process that ran both models in parallel to compare accuracy before fully transitioning.</p>
+<p>Nov 12 · <a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">strandsagents.com</a> | <a href="https://news.ycombinator.com/item?id=50436640">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/music-production.png" width="28" align="texttop" /> &nbsp;Producer Daramola Discusses Studio Gear and Production Philosophy</h2>
 <a name="story-27143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27124"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocodethatmatters.com%2Fimages%2Fhome-automation%2Ft1-07.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This article outlines a framework for building reliable home automation systems that operate independently of internet connectivity. To avoid vendor lock-in and service outages, the author utilizes local hardware and protocols such as Tasmota, MQTT, and Node-RED, ensuring core house functions remain operational without cloud access.</p><p>The author details eleven specific rules developed over ten years, ranging from maintaining manual control redundancy to requiring APIs with local logs. The piece also presents content from two talks, covering the complexities of scaling automation for multi-user households and managing device conflicts.</p>
 <p>Nov 11 · <a href="https://docodethatmatters.com/home-automation-overnight-success/">docodethatmatters.com</a> | <a href="https://news.ycombinator.com/item?id=50441707">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;Verisign Retracts Plan to Terminate .name Domains and Email Redirects</h2>
-<a name="story-27116"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ionos.ca%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Finteraction-between-icann-registries-registrars-us.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Verisign has cancelled an initiative to terminate approximately 22,000 .name domain registrations and their associated email redirects. While new registrations for third-level .name domains will be closed, all existing domains and email services will be grandfathered and remain active indefinitely.</p><p>The decision follows a series of legal challenges and advocacy efforts aimed at preventing the termination. The move adheres to ICANN consensus policies, ensuring continued service for current .name domain holders.</p>
-<p>Nov 11 · <a href="https://neil.fraser.name/news/2026/11/10/">neil.fraser.name</a> | <a href="https://itp.cdn.icann.org/en/files/consensus-policies/kane-to-fessenden-05-11-2026-en.pdf">itp.cdn.icann.org</a> | <a href="https://lobste.rs/s/vkkbwo/name_grandfathered">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50442736">hacker news</a></p>
 <br clear="all" />
 
 ---
