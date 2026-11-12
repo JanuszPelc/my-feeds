@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>PlayStation 5 Reaches 100 Million Units Shipped</h2>
+<a name="story-27200"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte4c604a2b857d10c%2F69c67f33e4404f7a8b748017%2FPS5_Header.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>As of November 10, 2026, PlayStation 5 shipments have exceeded 100 million units, according to Sony Interactive Entertainment's official sales data.</p><p>This achievement places the console among the highest-selling home systems, joining the original PlayStation, PlayStation 2, and PlayStation 4, as well as the Nintendo Wii and Nintendo Switch.</p>
+<p>Nov 11 · <a href="https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles">gamedeveloper.com</a> | <a href="https://sonyinteractive.com/en/our-company/business-data-sales/">sonyinteractive.com</a></p>
+<br clear="all" />
+
 <h2>Katsuhiro Harada Criticizes Xbox Series S Development Challenges</h2>
 <a name="story-27196"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt2f4b8dd7f43dbe5f%2F6a43d1f7588d51ee0c68fd30%2Fxbox-series-x.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Katsuhiro Harada, the creator of the Tekken series and former Bandai Namco executive, criticized the Xbox Series S during a panel discussion regarding console game development. He argued that the console's architecture is frustrating because it is similar to the Xbox Series X but has significantly lower memory and performance, forcing developers to perform extra optimization work to ensure compatibility across both versions.</p><p>Harada also noted that developers often face consumer complaints regarding lower texture resolutions on the Series S, despite Microsoft's requirement that games be playable on both its consoles. CD Projekt Red's Pawel Sasko countered that the Series S's constraints encourage cleaner code optimization and expand the gaming market by offering a more affordable entry point.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27013"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGadhouse-Eric%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Gadhouse has introduced the Eric CD Player, a portable and wall-mountable audio device designed to support standard CDs and HQCDs. The unit features built-in FM radio, Bluetooth connectivity, a 3.5mm headphone output, and an auxiliary output for integration with home audio systems.</p><p>The player weighs 308 grams, incorporates anti-skip technology, and provides up to four hours of battery life through USB-C charging. Supporting CD-R, CD-RW, WMA, and MP3 playback, the Eric is currently available in an ivory finish for $84.50 or £59.99, with more color options expected in 2027.</p>
 <p>Nov 10 · <a href="https://musictech.com/news/gear/gadhouse-eric/">musictech.com</a> | <a href="https://cd.gadhouse.com/">cd.gadhouse.com</a></p>
-<br clear="all" />
-
-<h2>Take-Two Q2 Net Bookings Fall 18% as NBA 2K27 Sales Miss Due to GTA VI</h2>
-<a name="story-26971"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgameworldobserver.com%2Fwp-content%2Fuploads%2F2024%2F11%2Ftake-two-q2-revenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Take-Two Interactive reported an 18% year-over-year decrease in Q2 total net bookings to $1.6 billion, falling short of the $1.65 billion expected by analysts. The publisher noted that sales for NBA 2K27 missed forecasts, a decline it attributed in part to the anticipation surrounding Grand Theft Auto VI.</p><p>While facing the quarterly miss, Take-Two reiterated its financial outlook for fiscal year 2027. The results highlight the internal competition between high-profile franchises, as the massive scale of the Grand Theft Auto series can impact the sales performance of other major releases.</p>
-<p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI1OTA1NywiZXhwIjoxNzk0ODYzODU3LCJhcnRpY2xlSWQiOiJUTzk3MUlSS1YyVFgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.7qxMeG6waZ1GVSttF6yc1ynA0S0JipX_HyL5oimnEiU">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

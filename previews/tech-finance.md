@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Applied Intuition in Talks to Raise $1.5 Billion at $30 Billion Valuation</h2>
+<a name="story-27189"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent-media.pamedia.io%2Fpress-release%2Fpicture%2F2024%2F03%2F12%2F01HRRQZ7RNBTJVNX9YEDXF9253.jpg%3Ffix%3Dbounds%26w%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Applied Intuition, a developer of simulation and testing software for autonomous vehicles and defense applications, is in talks to raise at least $1.5 billion. The funding round is led by General Catalyst and targets a pre-money valuation of approximately $30 billion.</p><p>This potential investment would nearly double the company's valuation from its June 2025 funding round of $15 billion. The company provides autonomy and testing solutions for both commercial and defense sectors.</p>
+<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Imprint Raises $130 Million at $1.88 Billion Valuation</h2>
 <a name="story-27184"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21RN6C%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa4bcb6bf-6b68-4c36-91ef-7ac1d2d26308_3225x2150.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Imprint, a fintech provider of co-branded credit cards, has raised $130 million in new funding at an $1.88 billion valuation. The funding round included new investor Positive Sum, alongside existing backers Ribbit, Thrive, Kleiner Perkins, and Khosla Ventures.</p><p>The company has grown its cardholder base to over two million and serves clients including Albertsons, Kroger, Shell, and Fanatics. Imprint projects approximately $400 million in GAAP revenue by the end of the year, representing a 150% increase.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27071"><img src="https://wsrv.nl/?url=https%3A%2F%2Fholder.io%2Fwp-content%2Fuploads%2F2025%2F09%2FEuro-Stablecoin-Set-for-2026-Launch-as-9-Banks-Unite-E28093-Best-Wallet-Token-BEST-Emerges-a-Presale-Winner.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A 21-bank consortium, including Goldman Sachs Group Inc., Citigroup Inc., Banco Santander SA, and Deutsche Bank AG, has committed approximately $270 million to fund a stablecoin venture for five years. The initiative was originally announced in September.</p><p>This substantial financial commitment reflects increasing involvement from major global financial institutions in the stablecoin sector. The multi-year funding plan points toward long-term strategic interest in digital asset infrastructure.</p>
 <p>Nov 10 · <a href="https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Alta Raises $47.5 Million Series A to Build Financial Institution Blockchain</h2>
-<a name="story-27067"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fjrfm%2Fjrfm-17-00054%2Farticle_deploy%2Fhtml%2Fimages%2Fjrfm-17-00054-g001.png%3F1706707486&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alta has raised $47.5 million in a Series A funding round led by Index Ventures to develop blockchain infrastructure for banks and payment companies. This brings the startup's total funding to $80 million, including $32.5 million previously raised in seed funding.</p><p>The company is building a blockchain with integrated privacy and compliance controls designed to meet the specific requirements of global financial institutions. Alta has partnered with payments firm Airwallex to connect its blockchain to payment networks for stablecoin and fiat transfers.</p>
-<p>Nov 10 · <a href="https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244">theblock.co</a> | <a href="https://www.globenewswire.com/news-release/2026/11/10/3399854/0/en/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain.html">globenewswire.com</a></p>
 <br clear="all" />
 
 ---
