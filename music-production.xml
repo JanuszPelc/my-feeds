@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-12T09:31:00+00:00</updated>
+  <updated>2026-11-12T10:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Drops Music-Sharing App Enters Preview on iOS and Android</title>
+    <link href="https://musictech.com/news/music/drops-app/" rel="alternate" />
+    <id>https://musictech.com/news/music/drops-app/::v240</id>
+    <published>2026-11-12T10:57:00+00:00</published>
+    <updated>2026-11-12T10:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDrops-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/music/drops-app/">musictech.com</a> | <a href="https://www.gotdrops.com/">gotdrops.com</a></small></p><hr/><p>Drops is a music-sharing application designed to facilitate the sharing of 30-second song snippets paired with visual content. Developed by HARMAN, the platform utilizes a vast music library through licensing agreements with Universal Music Group, Beggars Group, Symphonic Distribution, EMPIRE, and UnitedMasters.</p><p>The app focuses on social discovery, allowing users to follow others and view feeds of human-curated music recommendations. It is currently available in preview mode on both iOS and Android platforms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDrops-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 16:06 UTC | #27257</small>]]></content>
+  </entry>
   <entry>
     <title>MB Big Biznis Releases qkit Always-Recording Looper Plugin</title>
     <link href="https://www.kvraudio.com/news/mb-big-biznis-releases-qkit---always-recording-looper-plugin-au-and-vst3-69772?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69772" rel="alternate" />

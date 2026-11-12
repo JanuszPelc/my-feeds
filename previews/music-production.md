@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Drops Music-Sharing App Enters Preview on iOS and Android</h2>
+<a name="story-27257"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDrops-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Drops is a music-sharing application designed to facilitate the sharing of 30-second song snippets paired with visual content. Developed by HARMAN, the platform utilizes a vast music library through licensing agreements with Universal Music Group, Beggars Group, Symphonic Distribution, EMPIRE, and UnitedMasters.</p><p>The app focuses on social discovery, allowing users to follow others and view feeds of human-curated music recommendations. It is currently available in preview mode on both iOS and Android platforms.</p>
+<p>Nov 12 · <a href="https://musictech.com/news/music/drops-app/">musictech.com</a> | <a href="https://www.gotdrops.com/">gotdrops.com</a></p>
+<br clear="all" />
+
 <h2>MB Big Biznis Releases qkit Always-Recording Looper Plugin</h2>
 <a name="story-27252"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-at-08-24-30-compressed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MB Big Biznis has released qkit, a live-looping plugin for macOS and Windows available in AU and VST3 formats. The software continuously listens to audio input, allowing users to capture recent performances retroactively or arm new takes that lock directly to a DAW's beat.</p><p>qkit supports up to 32 simultaneous loops per instance with individual controls for feedback, overdub layers, and routing across eight auxiliary outputs. Designed for both studio and stage use, the plugin features zero-latency processing, MIDI and OSC control mapping, Ableton Link integration, and time-stretching or varispeed pitch tracking.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftwin88keys_bannerkvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UVI has released Twin 88 Keys, a virtual instrument combining a concert grand piano and a vintage electric piano into a single interface. The grand piano is based on a CFX recorded in California, while the electric piano was sampled in Paris across its full dynamic range.</p><p>Players can combine the two instruments using velocity blending, keyboard splits, tone blending, or continuous crossfading. Each piano features independent microphone controls, filters, EQ, modulation, and effects processing, alongside support for the free UVI Player and Falcon software.</p>
 <p>Nov 11 · <a href="https://www.kvraudio.com/news/uvi-releases-twin-88-keys---acoustic-and-electric-piano-together-69739?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69739">kvraudio.com</a> | <a href="https://www.uvi.net/twin-88-keys">uvi.net</a></p>
-<br clear="all" />
-
-<h2>Anukari Updates 3D Physics Synthesizer to Version 1.1</h2>
-<a name="story-27133"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanukari-1-1-doppler-fly-by.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anukari has released version 1.1 of its 3D physics-based synthesizer, introducing a range of user-requested features including new resonators, a mouthpiece exciter, and over 1,000 factory presets. The update expands the software's physical modeling capabilities by adding strings, bars, plates, membranes, tubes, and bells that interact directly within the mass-and-spring simulation.</p><p>Additional enhancements in version 1.1 include updated physical models for bows, mallets, and plectrums, collision-capable spring types for effects like wind chimes, and the Modulosphere for spatial modulation. The release also incorporates shape-generation tools, MIDI Control Protocol support for external AI assistants, a redesigned preset browser, legato and glide controls, and optimized CPU performance.</p>
-<p>Nov 11 · <a href="https://www.kvraudio.com/news/anukari-updates-its-3d-physics-synthesizer-to-v1-1-with-resonators-a-mouthpiece-exciter-and-1-000-and-presets-69741?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69741">kvraudio.com</a> | <a href="https://anukari.com/">anukari.com</a></p>
 <br clear="all" />
 
 ---
