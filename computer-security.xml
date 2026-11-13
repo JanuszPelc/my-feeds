@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-12T21:29:00+00:00</updated>
+  <updated>2026-11-12T22:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Samsung TV Ads Replaced With Custom Images Using Compromised eMudhra Certificate</title>
+    <link href="https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/" rel="alternate" />
+    <id>https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/::v240</id>
+    <published>2026-11-12T22:48:00+00:00</published>
+    <updated>2026-11-12T22:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdvratil.cz%2F2026%2F11%2Fhijacking-samsung-tv-smart-hub-ads%2Fimages%2Ffrontend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/">dvratil.cz</a> | <a href="https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50465987">hacker news</a></small></p><hr/><p>Samsung TV advertisements are being replaced with custom images by exploiting a compromised Certificate Authority (CA) certificate from eMudhra. By routing TV traffic through a local server using mitmproxy, encrypted requests to Samsung's ad domains are intercepted and responded to with spoofed JSON payloads containing personal photos.</p><p>The exploit relies on the TV's continued trust in the compromised eMudhra CA certificate, which allows for the creation of valid SSL certificates for Samsung's ad delivery domains. The solution uses a Rust-based server and specific network configurations to intercept traffic at the router level. This method remains effective until Samsung issues a software update to revoke the compromised certificate.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdvratil.cz%2F2026%2F11%2Fhijacking-samsung-tv-smart-hub-ads%2Fimages%2Ffrontend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 04:43 UTC | #27371</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft 365 Services Experience Outage</title>
     <link href="https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/" rel="alternate" />

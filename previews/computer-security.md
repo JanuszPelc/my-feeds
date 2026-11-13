@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Samsung TV Ads Replaced With Custom Images Using Compromised eMudhra Certificate</h2>
+<a name="story-27371"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdvratil.cz%2F2026%2F11%2Fhijacking-samsung-tv-smart-hub-ads%2Fimages%2Ffrontend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Samsung TV advertisements are being replaced with custom images by exploiting a compromised Certificate Authority (CA) certificate from eMudhra. By routing TV traffic through a local server using mitmproxy, encrypted requests to Samsung's ad domains are intercepted and responded to with spoofed JSON payloads containing personal photos.</p><p>The exploit relies on the TV's continued trust in the compromised eMudhra CA certificate, which allows for the creation of valid SSL certificates for Samsung's ad delivery domains. The solution uses a Rust-based server and specific network configurations to intercept traffic at the router level. This method remains effective until Samsung issues a software update to revoke the compromised certificate.</p>
+<p>Nov 12 · <a href="https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/">dvratil.cz</a> | <a href="https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50465987">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft 365 Services Experience Outage</h2>
 <a name="story-27345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmultiple-microsoft-365-services-are-experiencing-an-outage%2Fintro-1794511005.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple platforms, including Outlook, Teams, SharePoint Online, Microsoft Copilot 365, and Microsoft Defender XDR, are experiencing connectivity errors. Microsoft has attributed the issue to elevated infrastructure load affecting multiple regions.</p><p>While the impact is centered on Business and Enterprise tiers, individual users are also reporting disruptions. To mitigate the load, Microsoft is repairing infrastructure and investigating an unexpected surge in service traffic.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27096"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F4ZEKSAGFCJNLVLOIDT5IG57SRM.jpg%3Fauth%3D0019929fc187564682943c3cae86e58adc1b739c55a64741d180fbe020a69cf1%26width%3D1080%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cloud hosting provider Railway reported a security breach where attackers exploited vulnerabilities in its build infrastructure to steal customer authentication secrets. The incident resulted in approximately $740,000 in fraudulent AI usage charges and potentially exposed credentials for up to 100,000 workspaces. The attackers used AI-powered agents to navigate the infrastructure, specifically targeting AI provider, cloud, database, and payment service credentials.</p><p>The breach is part of a campaign targeting AI development platforms known as "Black October," which has also impacted Northflank, OpenCode, Warp, and Lightning AI. Railway has remediated the vulnerabilities and is working with service providers to reimburse customers for the unauthorized charges.</p>
 <p>Nov 11 · <a href="https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/">bleepingcomputer.com</a> | <a href="https://blog.railway.com/p/incident-report-october-security-incident">blog.railway.com</a> | <a href="https://news.ycombinator.com/item?id=50441465">hacker news</a></p>
-<br clear="all" />
-
-<h2>Spencer Kittleson Outlines Principles for Local-First Home Automation</h2>
-<a name="story-27124"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocodethatmatters.com%2Fimages%2Fhome-automation%2Ft1-07.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>This article outlines a framework for building reliable home automation systems that operate independently of internet connectivity. To avoid vendor lock-in and service outages, the author utilizes local hardware and protocols such as Tasmota, MQTT, and Node-RED, ensuring core house functions remain operational without cloud access.</p><p>The author details eleven specific rules developed over ten years, ranging from maintaining manual control redundancy to requiring APIs with local logs. The piece also presents content from two talks, covering the complexities of scaling automation for multi-user households and managing device conflicts.</p>
-<p>Nov 11 · <a href="https://docodethatmatters.com/home-automation-overnight-success/">docodethatmatters.com</a> | <a href="https://news.ycombinator.com/item?id=50441707">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,7 +3,7 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-12T22:23:00+00:00</updated>
+  <updated>2026-11-13T04:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
@@ -29,9 +29,9 @@
     <link href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/" rel="alternate" />
     <id>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/::v240</id>
     <published>2026-11-12T19:28:00+00:00</published>
-    <updated>2026-11-12T19:28:00+00:00</updated>
+    <updated>2026-11-13T04:43:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50471487">hacker news</a></small></p><hr/><p>Google is integrating the Gemini 4 Hydrogen model into Search to improve the handling of complex, multi-part questions and typos. Optimized for speed and agentic workflows, the model completes tasks 2.5 times faster than the previous Gemini 3.8 Flash.</p><p>The update introduces enhanced visual responses, such as comparison tables and structured data, and utilizes an improved "fan-out" technique for better query discovery. Hydrogen is rolling out globally to Search users, AI Studio, the Gemini API, and the Gemini App.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 00:37 UTC | #27327</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50471431">hacker news</a></small></p><hr/><p>Google is integrating the Gemini 4 Hydrogen model into Search to improve the handling of complex, multi-part questions and typos. Optimized for speed and agentic workflows, the model completes tasks 2.5 times faster than the previous Gemini 3.8 Flash.</p><p>The update introduces enhanced visual responses, such as comparison tables and structured data, and utilizes an improved "fan-out" technique for better query discovery. Hydrogen is rolling out globally to Search users, AI Studio, the Gemini API, and the Gemini App.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 00:37 UTC | #27327</small>]]></content>
   </entry>
   <entry>
     <title>Nectar Launches AI Agent to Automate Creator Discovery and Outreach</title>

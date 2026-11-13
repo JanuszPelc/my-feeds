@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic&#x27;s IPO Is Reported to Be Six Times Oversubscribed</h2>
+<a name="story-27349"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F10%2Fanth-ropic-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic's initial public offering has attracted orders approximately six times the number of available shares, according to sources familiar with the matter. Bankers have reportedly informed prospective investors that existing shareholders will receive priority in the allocation of shares.</p><p>The AI company aims to raise roughly $90.4 billion through its IPO and an accompanying private placement, targeting a valuation of approximately $1.4 trillion. Shares are expected to be priced between $70 and $78, with the final pricing scheduled for November 18.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>SpaceX Plans $74 Billion Investment for Data Centers in Texas and Arizona</h2>
 <a name="story-27350"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F12biz-spacex-datacenters-jpcb%2F12biz-spacex-datacenters-jpcb-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The company intends to spend $74 billion on new data center campuses in Arizona and Texas to bolster its artificial intelligence business. The $24 billion Texas site near the Starbase rocket facility is intended to generate its own power, while the $50 billion Arizona project in Cochise County is expected to create 5,500 construction and 1,000 permanent jobs.</p><p>This expansion supports a growing revenue stream from leasing computing power to companies like Google and Anthropic. SpaceX's A.I. division, xAI, already operates four data centers in Tennessee and Mississippi, and the company has significantly increased capital expenditures to fund the necessary hardware and chips.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27209"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechdecent.com%2Fwp-content%2Fuploads%2FChatGPT-2026-04-05T161756.761.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Many announced data center projects may never be constructed despite massive AI infrastructure investment, according to Brent Nelson of Ascend Analytics on TechCrunch's Equity podcast.</p><p>Obstacles including local opposition, permitting delays, and electricity scarcity make it increasingly important to distinguish realistic construction plans from speculative ones.</p>
 <p>Nov 11 · <a href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Meta&#x27;s Santosh Janardhan to Step Down in 2027</h2>
-<a name="story-27190"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.ahmedabadmirror.com%2Fam%2Fuploads%2FmediaGallery%2Fimage%2F1654765605199.jpg-org&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Santosh Janardhan, Meta's head of infrastructure and co-head of engineering, plans to depart the company in early 2027. Dave Brown is slated to succeed him.</p><p>This leadership transition arrives as Meta continues its ongoing developments in infrastructure and engineering.</p>
-<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50456964">hacker news</a></p>
 <br clear="all" />
 
 ---
