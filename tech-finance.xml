@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-13T04:46:00+00:00</updated>
+  <updated>2026-11-13T05:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Nscale Updates IPO Prospectus Detailing Widening Losses and Revenue Growth</title>
+    <link href="https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html::v240</id>
+    <published>2026-11-13T05:51:00+00:00</published>
+    <updated>2026-11-13T05:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.ideagen.com%2Fdam%2Fjcr%3A7a62c5e2-74aa-42c7-bf6f-27c6f31f6f48%2Fipo-count-and-ammount-raised.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html">cnbc.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm">sec.gov</a></small></p><hr/><p>Nvidia-backed neocloud provider Nscale has released an updated prospectus for its upcoming U.S. initial public offering, reporting a third-quarter net loss of $1.69 billion on $307.5 million in revenue. The latest filing shows that quarterly losses widened from $1.02 billion in the previous quarter, even as revenue continued to surge significantly year over year.</p><p>The company has recently encountered operational headwinds, including Microsoft stepping back from planned data center projects in England and Texas due to grid connection and capacity concerns. Meanwhile, Nscale continues to expand its business with artificial intelligence firms like Anthropic while navigating a turbulent neocloud market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ideagen.com%2Fdam%2Fjcr%3A7a62c5e2-74aa-42c7-bf6f-27c6f31f6f48%2Fipo-count-and-ammount-raised.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 12:58 UTC | #27379</small>]]></content>
+  </entry>
   <entry>
     <title>Mirendil Raises $1 Billion Series A to Build Self-Improving AI</title>
     <link href="https://www.wsj.com/pro/venture-capital/this-startup-raised-1-billion-to-build-ai-faster-and-with-fewer-humans-f7f07a59" rel="alternate" />

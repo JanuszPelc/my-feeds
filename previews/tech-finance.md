@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nscale Updates IPO Prospectus Detailing Widening Losses and Revenue Growth</h2>
+<a name="story-27379"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ideagen.com%2Fdam%2Fjcr%3A7a62c5e2-74aa-42c7-bf6f-27c6f31f6f48%2Fipo-count-and-ammount-raised.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia-backed neocloud provider Nscale has released an updated prospectus for its upcoming U.S. initial public offering, reporting a third-quarter net loss of $1.69 billion on $307.5 million in revenue. The latest filing shows that quarterly losses widened from $1.02 billion in the previous quarter, even as revenue continued to surge significantly year over year.</p><p>The company has recently encountered operational headwinds, including Microsoft stepping back from planned data center projects in England and Texas due to grid connection and capacity concerns. Meanwhile, Nscale continues to expand its business with artificial intelligence firms like Anthropic while navigating a turbulent neocloud market.</p>
+<p>Nov 13 · <a href="https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html">cnbc.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm">sec.gov</a></p>
+<br clear="all" />
+
 <h2>Mirendil Raises $1 Billion Series A to Build Self-Improving AI</h2>
 <a name="story-27372"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHLpkh_Db0AAD63u.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Mirendil has raised a $1 billion Series A funding round co-led by Kleiner Perkins and Clearlake Capital. Founded by former Anthropic researchers, the company is developing systems designed to automate and accelerate artificial intelligence research and development with minimal human intervention.</p><p>The large financing arrives shortly after Mirendil secured a $200 million seed round and began building foundational models like Fern. The company plans to scale its training, inference, and research workloads to handle increasingly complex scientific and engineering tasks.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27260"><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.hvylya.net%2Fimages%2F2026%2F03%2F07%2FiHuDrwaEBijkJRCqgeNm52Ey20euLy6M44eo3QFa.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The London-based manufacturer of unmanned air, sea, and land vehicles, Uforce, has secured $700 million in financing co-led by Valor Equity and the UK National Wealth Fund. The funding round places the startup's valuation at $6 billion.</p><p>This investment marks the largest defense sector commitment by the UK National Wealth Fund. Uforce was originally established in Ukraine.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/drone-startup-uforce-valued-at-6-billion-with-uk-wealth-fund-backing">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Foxconn Beats Q3 Profit Estimates on AI and iPhone Demand</h2>
-<a name="story-27256"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.magica.com%2Fblog%2Fai-news%2F2026-10-05%2F15-foxconn-beats-q3-revenue-forecasts-with-47-1-growth%2F5b8736fe5be5d9971497a71e001cfe768231b6d4b8802a2df18d7769ddbf351c.png%3Fv%3D5b8736fe5be5d9971497a71e001cfe768231b6d4b8802a2df18d7769ddbf351c&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hon Hai Precision Industry Co. reported third-quarter revenue of approximately $95.4 billion, a 47% increase year-over-year, and net income of $2.4 billion, up 34%. The results exceeded market estimates driven by surging demand for artificial intelligence hardware and Apple's iPhone products.</p><p>This growth reflects the company's expanding role in the global AI supply chain. Foxconn forecasts strong sales growth through 2027, citing sustained worldwide investment in AI technologies.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/nvidia-partner-hon-hai-beats-profit-estimates-on-ai-iphone-duo">bloomberg.com</a> | <a href="https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1888">foxconn.com</a></p>
 <br clear="all" />
 
 ---

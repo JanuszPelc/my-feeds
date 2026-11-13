@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Sunshowers Critiques Sean Goedecke&#x27;s Essay on Glue Work</h2>
+<a name="story-27407"><img src="https://wsrv.nl/?url=https%3A%2F%2Fchaoss.community%2Fwp-content%2Fuploads%2F2026%2F02%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An opinion piece on sunshowers.io challenges Sean Goedecke’s widely discussed essay advising software engineers to avoid unrewarded "glue work" and focus strictly on executing leadership's feature delivery mandates. The author argues that Goedecke’s advice encourages settling for organizational mediocrity and perpetuates unnecessary workplace inefficiency.</p><p>The response contends that dismissing glue work ignores how permanent friction reduction can drastically improve team workflows and software quality, pointing to projects like cargo-nextest and internal tooling. It suggests that while large tech companies enforce legibility through metrics and performance reviews, fostering a culture of mutual support and eliminating rigid distinctions between feature and glue work yields better long-term results.</p>
+<p>Nov 13 · <a href="https://sunshowers.io/posts/glue-work/">sunshowers.io</a> | <a href="https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50477562">hacker news</a></p>
+<br clear="all" />
+
 <h2>Implementing a PostScript Interpreter in JavaScript</h2>
 <a name="story-27392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnEvi7sEu2Kg%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGCUgHyh_MA8%3D%26rs%3DAOn4CLA2f-YLFE5iXI6slDetHIVIEQH-4w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A simplified subset of the PostScript programming language can be constructed in JavaScript by managing an operand stack for arguments and a dictionary stack for name-to-value associations. This involves mapping PostScript datatypes, such as arrays and procedures, to JavaScript objects and using regular expressions to parse input tokens into executable routines.</p><p>The implementation utilizes a modular, Forth-inspired programming style composed of short, single-purpose functions. It also provides methods for creating a Read-Eval-Print-Loop (REPL) to allow for interactive programming in environments like Node.js or QuickJS.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27228"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-blog.adafruit.com%2Fuploads%2F2026%2F11%2Ftim-peters-has-died-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tim Peters, a central figure in the Python programming community and author of the "Zen of Python" (PEP 20), died on July 15, 2026. He was a key contributor to the language's early design and core development, working closely with creator Guido van Rossum.</p><p>Peters also designed the Timsort sorting algorithm, which has been adopted by Java and Android. He served as a director of the Python Software Foundation from 2001 to 2014 and was widely recognized for his technical expertise and mentorship within the Python community.</p>
 <p>Nov 11 · <a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">discuss.python.org</a> | <a href="https://www.bratleyfamilyfuneralhomes.com/obituary/timothy-peters">bratleyfamilyfuneralhomes.com</a> | <a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50450488">hacker news</a></p>
-<br clear="all" />
-
-<h2>Daniel Stenberg Marks 30 Years of Internet Transfers With Curl</h2>
-<a name="story-27178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.star-history.com%2Fog%3Frepos%3Dcurl%2Fcurl&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Daniel Stenberg reflects on the 30-year history of curl, which began on November 11, 1996, when Brazilian student Rafael Sagula published a basic HTTP download tool called httpget. Stenberg took over maintenance of the software, expanded its protocol support, renamed it to cURL, and introduced libcurl in 2000 to allow other programs to handle internet transfers.</p><p>Over the decades, curl has evolved from a hobby project powering an IRC currency bot into a cornerstone of global internet infrastructure, running in an estimated 30 billion installations. Stenberg attributes the project's longevity to continuous code refactoring, strict backward compatibility, and an independent open-source model.</p>
-<p>Nov 11 · <a href="https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50448505">hacker news</a></p>
 <br clear="all" />
 
 ---
