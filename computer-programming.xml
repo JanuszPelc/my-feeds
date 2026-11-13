@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-13T00:36:00+00:00</updated>
+  <updated>2026-11-13T01:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Rust 1.100.0 Released With Stable Never Type and Allocator API</title>
+    <link href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/::v240</id>
+    <published>2026-11-13T01:40:00+00:00</published>
+    <updated>2026-11-13T01:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvp02red7xy93tvsbeuq6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/81hnjw/announcing_rust_1_100_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50472038">hacker news</a></small></p><hr/><p>The Rust project has released version 1.100.0, stabilizing the never type (!) after a decade of development and five previous attempts. The update also introduces the core Allocator API, the DropGuard helper type for executing closures on function exit paths, and std::mem::conjure_zst for safe zero-sized type creation.</p><p>In addition to language features, the release brings significant improvements to Cargo, including reporting for unused dependencies, reorganized build directory layouts to reduce cache collisions, and min-publish-age dependency cooldowns designed to mitigate supply chain risks. The stabilization of the never type also turns Infallible into an alias for !, introducing a minor breaking change for code running on pre-2024 editions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvp02red7xy93tvsbeuq6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 08:56 UTC | #27388</small>]]></content>
+  </entry>
   <entry>
     <title>GCC String Splitting Optimization Interferes With Binary Path Audits</title>
     <link href="https://stoppels.ch/2026/11/12/paths-in-pieces.html" rel="alternate" />
