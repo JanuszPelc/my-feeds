@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-12T22:50:00+00:00</updated>
+  <updated>2026-11-12T22:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>US Justice Department Obtains Authorization to Seize $1.2 Billion in Stolen Binance Assets</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack::v240</id>
+    <published>2026-11-12T22:53:00+00:00</published>
+    <updated>2026-11-12T22:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack">bloomberg.com</a></small></p><hr/><p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 05:27 UTC | #27364</small>]]></content>
+  </entry>
   <entry>
     <title>Kalshi in Talks for New Funding at $65 Billion Valuation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation" rel="alternate" />

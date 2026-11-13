@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Humble Bundle Website Redesign Reported to Lack Two-Factor Authentication</h2>
+<a name="story-27373"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fupwork-cloud%2Fimage%2Fupload%2Fc_scale%2Cw_1000%2Fv1767345918%2Fcatalog%2F2007019664650851632%2Fjt54qkbh00r1hqheq4ip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Users report significant security vulnerabilities following a recent overhaul of the Humble Bundle website. Key issues include the removal of two-factor authentication (2FA), the ability to change passwords without verifying the previous one, and email updates that send confirmation codes to the new email address rather than the original.</p><p>Some commenters attribute these flaws to "vibecoding," a development method heavily reliant on AI-generated code. In response, users have suggested unlinking sensitive data, such as payment methods and Steam accounts, to protect against account hijacking.</p>
+<p>Nov 12 · <a href="https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/">forums.spacebattles.com</a> | <a href="https://www.humblebundle.com/">humblebundle.com</a> | <a href="https://news.ycombinator.com/item?id=50463899">hacker news</a></p>
+<br clear="all" />
+
 <h2>Samsung TV Ads Replaced With Custom Images Using Compromised eMudhra Certificate</h2>
 <a name="story-27371"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdvratil.cz%2F2026%2F11%2Fhijacking-samsung-tv-smart-hub-ads%2Fimages%2Ffrontend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung TV advertisements are being replaced with custom images by exploiting a compromised Certificate Authority (CA) certificate from eMudhra. By routing TV traffic through a local server using mitmproxy, encrypted requests to Samsung's ad domains are intercepted and responded to with spoofed JSON payloads containing personal photos.</p><p>The exploit relies on the TV's continued trust in the compromised eMudhra CA certificate, which allows for the creation of valid SSL certificates for Samsung's ad delivery domains. The solution uses a Rust-based server and specific network configurations to intercept traffic at the router level. This method remains effective until Samsung issues a software update to revoke the compromised certificate.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>AMD Zen 6 EPYC &#x27;Venice&#x27; Architecture and Performance Benchmarks</h2>
 <p>AMD's Zen 6 EPYC "Venice" CPUs feature a redesigned architecture built on TSMC's N2P process. Benchmarking of the EPYC 9686F and a dual EPYC 9996 configuration—totaling 1,024 threads—shows performance increases of up to 93% generation-on-generation.</p>
 <p>Nov 11 · <a href="https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera">tomshardware.com</a></p>
-<br clear="all" />
-
-<h2>Railway Suffers Security Breach Resulting in $740,000 in Fraudulent AI Charges</h2>
-<a name="story-27096"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F4ZEKSAGFCJNLVLOIDT5IG57SRM.jpg%3Fauth%3D0019929fc187564682943c3cae86e58adc1b739c55a64741d180fbe020a69cf1%26width%3D1080%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cloud hosting provider Railway reported a security breach where attackers exploited vulnerabilities in its build infrastructure to steal customer authentication secrets. The incident resulted in approximately $740,000 in fraudulent AI usage charges and potentially exposed credentials for up to 100,000 workspaces. The attackers used AI-powered agents to navigate the infrastructure, specifically targeting AI provider, cloud, database, and payment service credentials.</p><p>The breach is part of a campaign targeting AI development platforms known as "Black October," which has also impacted Northflank, OpenCode, Warp, and Lightning AI. Railway has remediated the vulnerabilities and is working with service providers to reimburse customers for the unauthorized charges.</p>
-<p>Nov 11 · <a href="https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/">bleepingcomputer.com</a> | <a href="https://blog.railway.com/p/incident-report-october-security-incident">blog.railway.com</a> | <a href="https://news.ycombinator.com/item?id=50441465">hacker news</a></p>
 <br clear="all" />
 
 ---

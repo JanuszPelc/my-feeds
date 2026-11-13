@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-12T22:48:00+00:00</updated>
+  <updated>2026-11-12T22:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Humble Bundle Website Redesign Reported to Lack Two-Factor Authentication</title>
+    <link href="https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/" rel="alternate" />
+    <id>https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/::v240</id>
+    <published>2026-11-12T22:54:00+00:00</published>
+    <updated>2026-11-12T22:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fupwork-cloud%2Fimage%2Fupload%2Fc_scale%2Cw_1000%2Fv1767345918%2Fcatalog%2F2007019664650851632%2Fjt54qkbh00r1hqheq4ip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/">forums.spacebattles.com</a> | <a href="https://www.humblebundle.com/">humblebundle.com</a> | <a href="https://news.ycombinator.com/item?id=50463899">hacker news</a></small></p><hr/><p>Users report significant security vulnerabilities following a recent overhaul of the Humble Bundle website. Key issues include the removal of two-factor authentication (2FA), the ability to change passwords without verifying the previous one, and email updates that send confirmation codes to the new email address rather than the original.</p><p>Some commenters attribute these flaws to "vibecoding," a development method heavily reliant on AI-generated code. In response, users have suggested unlinking sensitive data, such as payment methods and Steam accounts, to protect against account hijacking.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fupwork-cloud%2Fimage%2Fupload%2Fc_scale%2Cw_1000%2Fv1767345918%2Fcatalog%2F2007019664650851632%2Fjt54qkbh00r1hqheq4ip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 05:33 UTC | #27373</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung TV Ads Replaced With Custom Images Using Compromised eMudhra Certificate</title>
     <link href="https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/" rel="alternate" />

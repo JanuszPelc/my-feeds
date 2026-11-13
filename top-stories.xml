@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-13T04:43:00+00:00</updated>
+  <updated>2026-11-13T05:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>SoftBank Records $3.7 Billion Loss Linked to Canceled Gas Turbine Reservations</title>
+    <link href="https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-13T05:33:00+00:00</published>
+    <updated>2026-11-13T05:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>SoftBank recorded a $3.7 billion earnings hit following the cancellation of gas turbine reservations intended to power artificial intelligence infrastructure. The canceled capacity exceeded 13GW, an amount equivalent to the electrical output of six Hoover Dams.</p><p>The loss highlights the scale of energy resource requirements and the financial volatility involved in securing power for large-scale AI expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:00 UTC | #27151 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Google Integrates Gemini 4 Hydrogen Model into Search</title>
     <link href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/" rel="alternate" />

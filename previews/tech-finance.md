@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>US Justice Department Obtains Authorization to Seize $1.2 Billion in Stolen Binance Assets</h2>
+<a name="story-27364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Kalshi in Talks for New Funding at $65 Billion Valuation</h2>
 <a name="story-27354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F13702811%2Fpexels-photo-13702811.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-dtanque-13702811.jpg%26fm%3Djpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kalshi is in talks to raise new funding at a $65 billion valuation. This follows a funding round finalized weeks ago that valued the prediction marketplace at $40 billion.</p><p>The company's annual run rate has recently surpassed $5 billion.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27241"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia ceased reporting its revenue from Singapore after the quarter ending in July 2025, a period when Singapore accounted for 22% of the company's total sales. The change in reporting followed Nvidia's decision to place Singapore-based cloud computing firm Megaspeed on a blocklist amid escalating international scrutiny and probes involving billions of dollars in AI chip purchases.</p><p>Megaspeed has drawn intense scrutiny regarding its massive acquisitions of Nvidia technology through secondary markets and overseas units like Speedmatrix in Malaysia. The shifting transparency surrounding Nvidia's regional sales figures deepens ongoing questions regarding the distribution paths and ultimate destinations of advanced AI hardware flowing into Southeast Asia.</p>
 <p>Nov 12 · <a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5">wsj.com</a></p>
-<br clear="all" />
-
-<h2>CoreWeave Plans $4 Billion Investment-Grade Loan</h2>
-<a name="story-27222"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering, potentially as early as next week. The AI computing supplier expects the loan to yield between 7% and 7.5%, which is approximately half the yield of its existing junk bonds.</p><p>The financing is intended to support the company's growth. Moving to investment-grade debt could significantly reduce CoreWeave's cost of capital compared to its previous high-yield debt issuances.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
