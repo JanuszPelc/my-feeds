@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Audient Launches Third-Generation iD Audio Interface Range</h2>
+<a name="story-27399"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAudient-iD-MK3-Range.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audient has announced the third generation of its iD audio interface family, introducing a unified technology platform powered by what the company calls "Analogue Intelligence." The refreshed line-up updates and renames four existing models—the iD1 (formerly iD4), iD2 (formerly iD14), iD2+ (formerly iD24), and iD4+ (formerly iD44)—to reflect their preamp counts while bringing them into a single software and hardware ecosystem.</p><p>The new generation incorporates real analogue console mic preamps alongside onboard DSP, room correction via RoomTune software, and an Analogue Tone Suite for signal shaping before reaching a digital audio workstation. Pricing ranges from £169 for the iD1 to £499 for the iD4+, with three models available immediately and the iD1 scheduled for release in early 2027.</p>
+<p>Nov 13 · <a href="https://musictech.com/news/gear/audient-id-mk3/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>apulSoft Updates apVerb to Version 1.2.6</h2>
 <a name="story-27394"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Favrb_2u4d2x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Version 1.2.6 of the apVerb algorithmic reverb plugin introduces several performance optimizations and a collection of new presets by Yendo Starritz.</p><p>Technical improvements include faster reverb tail updates, improved low and high cut filters, and optimized DSP performance for x64 CPUs. The release also features a Linux build with lower minimum requirements and fixes a bug regarding frequency values in the popup editor. The plugin is currently available at a 38% discount until December 6th.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fherman.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lese has released Herman, an iterative reverb plugin available in VST3, AU, and AAX formats for macOS and Windows. Built around recursive processing concepts, the plugin features an all-original topology designed to create complex sonic landscapes.</p><p>Herman incorporates internal contour processors on each feedback line paired with a gain-protecting system to shape reverb tails over time. Additional features include sound-reactive visualizers that subtly adjust internal parameters, four Illusion models, MIDI control capabilities for performance features like Bloom, and a retail price of $55.</p>
 <p>Nov 12 · <a href="https://www.kvraudio.com/news/lese-releases-herman-iterative-reverb-plugin-vst3-au-and-aax-69782?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69782">kvraudio.com</a> | <a href="https://lese.io/plugin/herman/">lese.io</a></p>
-<br clear="all" />
-
-<h2>Void Enemy Releases Free Virtual Analog Synthesizer Plenitude</h2>
-<a name="story-27279"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2025%2F11%2FVoid9-MONAI-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Void Enemy has released Plenitude, a free virtual analog synthesizer plugin for macOS and Windows. The instrument features three oscillators with multiple waveforms, separate tuning and distortion controls, a resonant filter, a modulation matrix, and built-in effects including delay and reverb.</p><p>Developed initially as a COVID-19 lockdown project, the software evolved into a collaborative effort released with 107 factory presets. It supports VST3 and AU formats with eight-voice polyphony, and while a paid Pro edition with an expanded matrix is planned, the core software remains permanently free without account or email registration requirements.</p>
-<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/void-enemy-plenitude/">bedroomproducersblog.com</a> | <a href="https://void-enemy.com/">void-enemy.com</a></p>
 <br clear="all" />
 
 ---
