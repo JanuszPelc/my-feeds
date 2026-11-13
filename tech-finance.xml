@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-12T16:43:00+00:00</updated>
+  <updated>2026-11-12T19:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Binance Completes Reimbursement of $6.3 Billion in Stolen Customer Tokens</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens::v240</id>
+    <published>2026-11-12T19:51:00+00:00</published>
+    <updated>2026-11-12T19:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens">bloomberg.com</a></small></p><hr/><p>The exchange has used profits and emergency funds to replace all $6.3 billion in cryptoassets stolen during an October 29 cyberattack. The reimbursement covers both common and obscure tokens.</p><p>This action marks the conclusion of what is described as the largest cybertheft in history.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 01:08 UTC | #27325</small>]]></content>
+  </entry>
   <entry>
     <title>Nebius Shares Fall 16% on Increased Capex Forecast and Weak Revenue Outlook</title>
     <link href="https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html" rel="alternate" />

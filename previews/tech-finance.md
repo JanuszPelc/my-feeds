@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Binance Completes Reimbursement of $6.3 Billion in Stolen Customer Tokens</h2>
+<a name="story-27325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The exchange has used profits and emergency funds to replace all $6.3 billion in cryptoassets stolen during an October 29 cyberattack. The reimbursement covers both common and obscure tokens.</p><p>This action marks the conclusion of what is described as the largest cybertheft in history.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Nebius Shares Fall 16% on Increased Capex Forecast and Weak Revenue Outlook</h2>
 <p>Nebius shares fell 16% after the AI cloud provider reported third-quarter revenue of $980.8 million, exceeding analyst estimates but accompanied by weaker-than-expected guidance. The company reported a net loss of $37.5 million, or $0.13 per share, and significantly increased its full-year 2026 capital expenditure guidance to $27 billion, up from a previous range of $20 billion to $25 billion.</p><p>The company's 2027 outlook includes projected revenue of $12 billion to $13 billion and capital expenditures of $40 billion to $45 billion. The stock's decline follows recent rallies in competitor stocks like CoreWeave and IREN and occurred alongside the resignation of Nvidia CEO Jensen Huang.</p>
 <p>Nov 12 · <a href="https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results">nebius.com</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Edelbyte Raises $70 Million for AI Agent Data Analytics Platform</h2>
 <p>Edelbyte, a company based in Tel Aviv and San Francisco, has emerged from stealth with $70 million in combined seed and Series A funding. The company is developing a data analytics platform specifically optimized for AI agents.</p><p>The technology is designed to reimagine big data analytics to meet the requirements of AI agents.</p>
 <p>Nov 11 · <a href="https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/">forbes.com</a></p>
-<br clear="all" />
-
-<h2>Rox Raises $100 Million in Series B Funding at $1.3 Billion Valuation</h2>
-<a name="story-27168"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.techinasia.com%2Fwp-content%2Fuploads%2F2026%2F03%2F1773364582_1759957602099.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rox, an AI sales startup, has raised $100 million in Series B funding at a $1.3 billion valuation. General Catalyst and March Capital co-led the round, which included participation from Sequoia, GV, and Prosperity7. The company provides AI agents designed to automate sales workflows, including account research, lead prioritization, and outreach preparation.</p><p>Founded by former New Relic executive Ishan Mukherjee, Rox aims to compete with established CRM providers like Salesforce by building an AI-native platform rather than retrofitting legacy software. The leadership team includes former employees from AWS and Google, along with a Stanford AI Lab professor. Rox reported a tenfold increase in annual recurring revenue since its launch and intends to use the capital to expand its U.S. commercial and marketing teams.</p>
-<p>Nov 11 · <a href="https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/">fortune.com</a></p>
 <br clear="all" />
 
 ---
