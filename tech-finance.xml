@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-12T23:51:00+00:00</updated>
+  <updated>2026-11-13T04:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Mirendil Raises $1 Billion Series A to Build Self-Improving AI</title>
+    <link href="https://www.wsj.com/pro/venture-capital/this-startup-raised-1-billion-to-build-ai-faster-and-with-fewer-humans-f7f07a59" rel="alternate" />
+    <id>https://www.wsj.com/pro/venture-capital/this-startup-raised-1-billion-to-build-ai-faster-and-with-fewer-humans-f7f07a59::v240</id>
+    <published>2026-11-13T04:46:00+00:00</published>
+    <updated>2026-11-13T04:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHLpkh_Db0AAD63u.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/pro/venture-capital/this-startup-raised-1-billion-to-build-ai-faster-and-with-fewer-humans-f7f07a59">wsj.com</a></small></p><hr/><p>AI startup Mirendil has raised a $1 billion Series A funding round co-led by Kleiner Perkins and Clearlake Capital. Founded by former Anthropic researchers, the company is developing systems designed to automate and accelerate artificial intelligence research and development with minimal human intervention.</p><p>The large financing arrives shortly after Mirendil secured a $200 million seed round and began building foundational models like Fern. The company plans to scale its training, inference, and research workloads to handle increasingly complex scientific and engineering tasks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHLpkh_Db0AAD63u.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 11:53 UTC | #27372</small>]]></content>
+  </entry>
   <entry>
     <title>Cisco Beats Q1 Estimates and Raises FY 2027 Revenue Forecast</title>
     <link href="https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/" rel="alternate" />

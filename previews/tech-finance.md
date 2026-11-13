@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Mirendil Raises $1 Billion Series A to Build Self-Improving AI</h2>
+<a name="story-27372"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHLpkh_Db0AAD63u.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI startup Mirendil has raised a $1 billion Series A funding round co-led by Kleiner Perkins and Clearlake Capital. Founded by former Anthropic researchers, the company is developing systems designed to automate and accelerate artificial intelligence research and development with minimal human intervention.</p><p>The large financing arrives shortly after Mirendil secured a $200 million seed round and began building foundational models like Fern. The company plans to scale its training, inference, and research workloads to handle increasingly complex scientific and engineering tasks.</p>
+<p>Nov 13 · <a href="https://www.wsj.com/pro/venture-capital/this-startup-raised-1-billion-to-build-ai-faster-and-with-fewer-humans-f7f07a59">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Cisco Beats Q1 Estimates and Raises FY 2027 Revenue Forecast</h2>
 <a name="story-27359"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffuturumgroup.com%2Fwp-content%2Fuploads%2F2023%2F11%2FCisco-Q1-2024-AI-Security-Cloud-and-Observability-Fuel-Results-2-600x336.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cisco reported first-quarter revenue of $18.5 billion, a 24% year-over-year increase that exceeded analyst estimates of $18.14 billion. Adjusted earnings per share also surpassed Wall Street expectations.</p><p>The company raised its revenue forecast for fiscal year 2027, driven by strong demand for networking equipment in the artificial intelligence sector.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27256"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.magica.com%2Fblog%2Fai-news%2F2026-10-05%2F15-foxconn-beats-q3-revenue-forecasts-with-47-1-growth%2F5b8736fe5be5d9971497a71e001cfe768231b6d4b8802a2df18d7769ddbf351c.png%3Fv%3D5b8736fe5be5d9971497a71e001cfe768231b6d4b8802a2df18d7769ddbf351c&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hon Hai Precision Industry Co. reported third-quarter revenue of approximately $95.4 billion, a 47% increase year-over-year, and net income of $2.4 billion, up 34%. The results exceeded market estimates driven by surging demand for artificial intelligence hardware and Apple's iPhone products.</p><p>This growth reflects the company's expanding role in the global AI supply chain. Foxconn forecasts strong sales growth through 2027, citing sustained worldwide investment in AI technologies.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/nvidia-partner-hon-hai-beats-profit-estimates-on-ai-iphone-duo">bloomberg.com</a> | <a href="https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1888">foxconn.com</a></p>
-<br clear="all" />
-
-<h2>Lumbra Raises $25 Million Series A to Scale Agentic AI for High-Consequence Environments</h2>
-<a name="story-27254"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.streebo.com%2Fwp-content%2Fthemes%2Fstreebo%2Fimages%2Fatc%2Fai_orchestration%2Fimg9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Artificial intelligence startup Lumbra Inc. has raised $25 million in a Series A funding round co-led by Point72 Ventures and Ansa Capital, with participation from Costanoa. The company develops LumbraOS, a model-neutral platform designed to orchestrate autonomous AI agents within ultra-secure and high-consequence computing environments like the U.S. intelligence community.</p><p>Founded by former intelligence and special forces officers, Lumbra built its platform with components for agent orchestration, dynamic knowledge graphs, and governance enforcement. Following early adoption within classified government networks, the startup plans to use the new capital to expand its engineering team and scale its enterprise offerings into high-stakes sectors such as healthcare and finance.</p>
-<p>Nov 12 · <a href="https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents/">siliconangle.com</a> | <a href="https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-$25M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments">businesswire.com</a></p>
 <br clear="all" />
 
 ---
