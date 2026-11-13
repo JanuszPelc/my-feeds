@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Trump Urged Nvidia CEO Jensen Huang to Fight for Job Amid Scandal</h2>
+<a name="story-27361"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F13%2Fmultimedia%2F13DC-TRUMP-HUANG-fwzc%2F13DC-TRUMP-HUANG-fwzc-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>President Donald Trump telephoned Nvidia Chief Executive Jensen Huang to encourage him to fight for his position shortly before Huang resigned amid a federal intelligence investigation. U.S. intelligence agencies had previously concluded that Huang was involved in an extramarital affair with a Chinese citizen suspected of being a spy for China's Ministry of State Security.</p><p>Despite receiving multiple warnings from intelligence officials regarding the relationship over the past year, Trump took no action and previously included Huang on an official presidential trip to China. Following Huang's resignation, Trump publicly praised the executive on social media, describing him as a legend.</p>
+<p>Nov 13 · <a href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html?unlocked_article_code=1.QFE.mXJe.jjB9cqW6A20p&smid=url-share">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>OpenAI Supports US Legislation to Restrict China&#x27;s AI Chip Access</h2>
 <a name="story-27353"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa27a4e08-b4d0-4657-9fbc-b27d6f280e6d_870x892.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has confirmed to lawmakers its support for a bipartisan congressional effort to block China's access to advanced artificial intelligence chips and chipmaking equipment. The developer's decision is intended to bolster the likelihood of passing export-related legislation by the end of the year.</p><p>This move comes amid heightened political scrutiny following a scandal involving Nvidia CEO Jensen Huang. OpenAI’s backing adds weight to legislative efforts to curb the transfer of sensitive AI technology to China.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27231"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%213mK7%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa29358b6-ad58-480c-a23e-4cfab2f68fe6_6016x4016.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Commerce Department is finalizing a regulation that would prevent Chinese artificial intelligence companies from accessing advanced semiconductors through remote connections. The rule aims to close loopholes that allow restricted entities to bypass existing export controls by utilizing computing power in data centers or through chip smuggling.</p><p>This measure targets the use of distributed computing as a method to circumvent semiconductor restrictions. By addressing remote access, the government intends to tighten control over the high-performance hardware required for advanced AI development in China.</p>
 <p>Nov 12 · <a href="https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Senators Request Preservation of Documents Regarding Nvidia China Exports and Jensen Huang&#x27;s Affair</h2>
-<a name="story-27242"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2219673294.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Senators Elizabeth Warren and Chris Coons have requested that the Trump administration preserve all records concerning Nvidia's chip exports to China and an affair involving CEO Jensen Huang. This move serves as a preliminary step that often precedes formal congressional investigations.</p><p>The inquiry targets the geopolitical implications of semiconductor trade and the personal conduct of Nvidia's leadership.</p>
-<p>Nov 12 · <a href="https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?st=XVfMWZ&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---

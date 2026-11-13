@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-12T22:51:00+00:00</updated>
+  <updated>2026-11-13T00:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Trump Urged Nvidia CEO Jensen Huang to Fight for Job Amid Scandal</title>
+    <link href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html?unlocked_article_code=1.QFE.mXJe.jjB9cqW6A20p&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html?unlocked_article_code=1.QFE.mXJe.jjB9cqW6A20p&amp;smid=url-share::v240</id>
+    <published>2026-11-13T00:37:00+00:00</published>
+    <updated>2026-11-13T00:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F13%2Fmultimedia%2F13DC-TRUMP-HUANG-fwzc%2F13DC-TRUMP-HUANG-fwzc-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html?unlocked_article_code=1.QFE.mXJe.jjB9cqW6A20p&smid=url-share">nytimes.com</a></small></p><hr/><p>President Donald Trump telephoned Nvidia Chief Executive Jensen Huang to encourage him to fight for his position shortly before Huang resigned amid a federal intelligence investigation. U.S. intelligence agencies had previously concluded that Huang was involved in an extramarital affair with a Chinese citizen suspected of being a spy for China's Ministry of State Security.</p><p>Despite receiving multiple warnings from intelligence officials regarding the relationship over the past year, Trump took no action and previously included Huang on an official presidential trip to China. Following Huang's resignation, Trump publicly praised the executive on social media, describing him as a legend.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F13%2Fmultimedia%2F13DC-TRUMP-HUANG-fwzc%2F13DC-TRUMP-HUANG-fwzc-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 08:03 UTC | #27361</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Supports US Legislation to Restrict China's AI Chip Access</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures" rel="alternate" />

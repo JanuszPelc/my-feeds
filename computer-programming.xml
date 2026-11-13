@@ -3,9 +3,27 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-12T23:01:00+00:00</updated>
+  <updated>2026-11-13T00:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>GCC String Splitting Optimization Interferes With Binary Path Audits</title>
+    <link href="https://stoppels.ch/2026/11/12/paths-in-pieces.html" rel="alternate" />
+    <id>https://stoppels.ch/2026/11/12/paths-in-pieces.html::v240</id>
+    <published>2026-11-13T00:36:00+00:00</published>
+    <updated>2026-11-13T00:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.trailofbits.com%2F2022%2F03%2F25%2Ftowards-practical-security-optimizations-for-binaries%2F4da7e3fde996ce79087489d193115d1f_hu_8d6c5490e6042ec8.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://stoppels.ch/2026/11/12/paths-in-pieces.html">stoppels.ch</a> | <a href="https://lobste.rs/s/yrpo2q/paths_pieces">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50470762">hacker news</a></small></p><hr/><p>Linux distributions and package managers frequently audit compiled binaries for non-relocatable absolute build paths using standard string searches. However, modern versions of GCC employ an optimization that splits string constants into overlapping 16-, 32-, or 64-byte pieces for vectorized move instructions, preventing these paths from appearing contiguously or at all within the compiled binary.</p><p>This compiler behavior undermines post-build audits and binary patching techniques used by tools like Conda and Spack, which rely on finding intact strings to rewrite installation prefixes. While the optimization aims to facilitate efficient SIMD memory operations, it complicates package verification and reduces binary interpretability, leaving developers with limited ways to disable the behavior short of restricting vector register widths.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.trailofbits.com%2F2022%2F03%2F25%2Ftowards-practical-security-optimizations-for-binaries%2F4da7e3fde996ce79087489d193115d1f_hu_8d6c5490e6042ec8.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 08:03 UTC | #27384</small>]]></content>
+  </entry>
+  <entry>
+    <title>13 Versions of The Secret of Monkey Island Compared Side by Side</title>
+    <link href="https://monkeyisland.pages.dev/" rel="alternate" />
+    <id>https://monkeyisland.pages.dev/::v240</id>
+    <published>2026-11-13T00:34:00+00:00</published>
+    <updated>2026-11-13T00:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets1.ignimgs.com%2Fthumbs%2FuserUploaded%2F2015%2F1%2F6%2Fmonkeyisland_thumb-1420512467467_1280w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://monkeyisland.pages.dev/">monkeyisland.pages.dev</a> | <a href="https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50463245">hacker news</a></small></p><hr/><p>A fan-made web viewer enables side-by-side comparison of 13 different releases of *The Secret of Monkey Island*. Displaying the same twelve moments across various platforms, the tool demonstrates how different hardware and software configurations influenced the game's visual output.</p><p>Captures were produced using ScummVM and the Hatari emulator, employing nearest-neighbor scaling and 4:3 aspect correction to maintain original pixel shapes. The interface includes interactive CRT shaders to replicate the visual appearance of vintage monitors, including VGA, EGA, CGA, and monochrome displays.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets1.ignimgs.com%2Fthumbs%2FuserUploaded%2F2015%2F1%2F6%2Fmonkeyisland_thumb-1420512467467_1280w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 07:59 UTC | #27383</small>]]></content>
+  </entry>
   <entry>
     <title>Let Over Lambda Explores Advanced Common Lisp Macros</title>
     <link href="https://letoverlambda.com/" rel="alternate" />

@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>GCC String Splitting Optimization Interferes With Binary Path Audits</h2>
+<a name="story-27384"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.trailofbits.com%2F2022%2F03%2F25%2Ftowards-practical-security-optimizations-for-binaries%2F4da7e3fde996ce79087489d193115d1f_hu_8d6c5490e6042ec8.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Linux distributions and package managers frequently audit compiled binaries for non-relocatable absolute build paths using standard string searches. However, modern versions of GCC employ an optimization that splits string constants into overlapping 16-, 32-, or 64-byte pieces for vectorized move instructions, preventing these paths from appearing contiguously or at all within the compiled binary.</p><p>This compiler behavior undermines post-build audits and binary patching techniques used by tools like Conda and Spack, which rely on finding intact strings to rewrite installation prefixes. While the optimization aims to facilitate efficient SIMD memory operations, it complicates package verification and reduces binary interpretability, leaving developers with limited ways to disable the behavior short of restricting vector register widths.</p>
+<p>Nov 13 · <a href="https://stoppels.ch/2026/11/12/paths-in-pieces.html">stoppels.ch</a> | <a href="https://lobste.rs/s/yrpo2q/paths_pieces">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50470762">hacker news</a></p>
+<br clear="all" />
+
+<h2>13 Versions of The Secret of Monkey Island Compared Side by Side</h2>
+<a name="story-27383"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets1.ignimgs.com%2Fthumbs%2FuserUploaded%2F2015%2F1%2F6%2Fmonkeyisland_thumb-1420512467467_1280w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A fan-made web viewer enables side-by-side comparison of 13 different releases of *The Secret of Monkey Island*. Displaying the same twelve moments across various platforms, the tool demonstrates how different hardware and software configurations influenced the game's visual output.</p><p>Captures were produced using ScummVM and the Hatari emulator, employing nearest-neighbor scaling and 4:3 aspect correction to maintain original pixel shapes. The interface includes interactive CRT shaders to replicate the visual appearance of vintage monitors, including VGA, EGA, CGA, and monochrome displays.</p>
+<p>Nov 13 · <a href="https://monkeyisland.pages.dev/">monkeyisland.pages.dev</a> | <a href="https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50463245">hacker news</a></p>
+<br clear="all" />
+
 <h2>Let Over Lambda Explores Advanced Common Lisp Macros</h2>
 <a name="story-27377"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Ffcio3al0mrq31.png%3Fauto%3Dwebp%26s%3D9b6b95fb890679f37aa48b3b2974ce0c97c4d085&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Let Over Lambda focuses on the use of macros in Common Lisp to enable advanced programming abstractions. The book describes how macros can be utilized to improve programmer productivity, code efficiency, and security through sophisticated programming techniques.</p><p>Originally published in 2008 to commemorate the 50th anniversary of Lisp, the book's content is now available to read for free online in HTML and PDF formats. The text covers topics ranging from programming fundamentals to complex implementation concepts such as anaphoric macros and pandoric-eval.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27132"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ctrlops.io%2Fblog%2Fssh-key-management-best-practices%2FStandard-SSH-Keys-vs-FIDO2-Hardware-Keys.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An administrator documents the transition away from traditional on-disk SSH keys by utilizing hardware-backed security methods, achieving the goal of storing key material without unprotected files on disk. The methods explored include using native ed25519-sk keys with a YubiKey, setting up TPM-backed keys via ssh-tpm-agent, and configuring Apple Secure Enclave identities on macOS.</p><p>The guide provides practical instructions, command-line examples, and operational caveats for each hardware approach, including handling unattended use cases and limitations such as Touch ID behavior in clamshell mode. While hardware-resident keys eliminate the risk of key exfiltration from disk, the author emphasizes the importance of maintaining redundancy to prevent lockout due to hardware loss or failure.</p>
 <p>Nov 11 · <a href="https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/">blog.infected.systems</a> | <a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50382401">hacker news</a></p>
-<br clear="all" />
-
-<h2>AI Usage Leads to Fragile Codebases</h2>
-<a name="story-27121"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.evanxmerz.com%2Fimages%2Fai-codebases-are-a-house-of-cards.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Heavy reliance on AI for code generation produces fragile codebases through shallow automated tests, excessive complexity, and reduced human comprehension. The rapid speed of AI output often exceeds the capacity for thorough human review, leading to significant accumulated technical debt.</p><p>These issues manifest as more frequent system incidents, slower recovery times, and errors that are only detectable by end users. High-quality software requires human oversight to ensure products remain maintainable and optimized for human users.</p>
-<p>Nov 10 · <a href="https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/">evanxmerz.com</a> | <a href="https://news.ycombinator.com/item?id=50438318">hacker news</a></p>
-<br clear="all" />
-
-<h2>Blender 5.3 Release Features</h2>
-<a name="story-27119"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blender.org%2Fwp-content%2Fuploads%2F2025%2F11%2Fgaussian_splatting-nunchuck.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Blender 5.3 introduces native support for 3D Gaussian Splatting, allowing users to import, process, and render these point-cloud-based scenes in EEVEE, Cycles, and Workbench. The release also includes Cycles dispersion for the Principled BSDF, NVIDIA DLSS 4.5 Ray Reconstruction denoising, and a new Project management system for organizing files and resources.</p><p>Other updates include material lighting nodes for stylized shading, panoramic camera support in EEVEE, and expanded compositing capabilities featuring scene effects and Geometry Nodes. Grease Pencil has been updated with new selection and carving tools, while the Video Sequencer now supports ripple editing and OpenTimelineIO.</p>
-<p>Nov 10 · <a href="https://www.blender.org/download/releases/5-3/">blender.org</a> | <a href="https://news.ycombinator.com/item?id=50442426">hacker news</a></p>
 <br clear="all" />
 
 ---
