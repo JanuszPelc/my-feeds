@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-12T22:54:00+00:00</updated>
+  <updated>2026-11-12T23:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>North Korean Hackers Stole Over $400 Million in Cryptocurrency Using Deepfakes</title>
+    <link href="https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/::v240</id>
+    <published>2026-11-12T23:36:00+00:00</published>
+    <updated>2026-11-12T23:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinworld.co.in%2Fwp-content%2Fuploads%2Fnorth-korean-hackers-theft.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/">reuters.com</a> | <a href="https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency">justice.gov</a></small></p><hr/><p>Through a social engineering scheme called "FaceStealer," North Korean state-backed hackers have stolen more than $400 million in cryptocurrency over the last 18 months. The operation employs AI-generated deepfakes and surreptitiously recorded video to conduct fraudulent video calls targeting victims' contacts.</p><p>The U.S. Department of Justice recently moved to disrupt the campaign by seizing the cloud-based infrastructure used to facilitate the thefts. These actions target ongoing efforts by the North Korean government to fund its regime through massive cryptocurrency theft.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinworld.co.in%2Fwp-content%2Fuploads%2Fnorth-korean-hackers-theft.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 06:48 UTC | #27356</small>]]></content>
+  </entry>
   <entry>
     <title>Humble Bundle Website Redesign Reported to Lack Two-Factor Authentication</title>
     <link href="https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/" rel="alternate" />

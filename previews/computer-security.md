@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>North Korean Hackers Stole Over $400 Million in Cryptocurrency Using Deepfakes</h2>
+<a name="story-27356"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinworld.co.in%2Fwp-content%2Fuploads%2Fnorth-korean-hackers-theft.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Through a social engineering scheme called "FaceStealer," North Korean state-backed hackers have stolen more than $400 million in cryptocurrency over the last 18 months. The operation employs AI-generated deepfakes and surreptitiously recorded video to conduct fraudulent video calls targeting victims' contacts.</p><p>The U.S. Department of Justice recently moved to disrupt the campaign by seizing the cloud-based infrastructure used to facilitate the thefts. These actions target ongoing efforts by the North Korean government to fund its regime through massive cryptocurrency theft.</p>
+<p>Nov 12 · <a href="https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/">reuters.com</a> | <a href="https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency">justice.gov</a></p>
+<br clear="all" />
+
 <h2>Humble Bundle Website Redesign Reported to Lack Two-Factor Authentication</h2>
 <a name="story-27373"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fupwork-cloud%2Fimage%2Fupload%2Fc_scale%2Cw_1000%2Fv1767345918%2Fcatalog%2F2007019664650851632%2Fjt54qkbh00r1hqheq4ip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Users report significant security vulnerabilities following a recent overhaul of the Humble Bundle website. Key issues include the removal of two-factor authentication (2FA), the ability to change passwords without verifying the previous one, and email updates that send confirmation codes to the new email address rather than the original.</p><p>Some commenters attribute these flaws to "vibecoding," a development method heavily reliant on AI-generated code. In response, users have suggested unlinking sensitive data, such as payment methods and Steam accounts, to protect against account hijacking.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27141"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQEt51Q4QgPFTg%2Farticle-cover_image-shrink_720_1280%2FB56Z1u_hv5JkAM-%2F0%2F1775683644454%3Fe%3D2147483647%26v%3Dbeta%26t%3DRk2o8Qn543Sta5eb8oE0oBXTIk0hCbEGklNf1Qsk5S4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Seven months after the launch of Anthropic's Project Glasswing, security firm VulnCheck has tracked 442 CVEs attributable to the initiative, representing roughly 0.5% of all CVEs published in 2026. Only two of these findings have been identified as exploited in the wild, while Anthropic's public vulnerability ledger shows high numbers of unverified findings, duplicates, and withdrawals alongside stalled remediation fixes.</p><p>The analysis notes that Anthropic's shift toward an automated open-source software scanner has largely moved the triage burden onto open-source maintainers. Recent vulnerability batches sent to the curl project yielded a high proportion of false positives or low-severity issues, raising questions about the accuracy and practical utility of model-generated security reports.</p>
 <p>Nov 11 · <a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update">vulncheck.com</a> | <a href="https://news.ycombinator.com/item?id=50447074">hacker news</a></p>
-<br clear="all" />
-
-<h2>AMD Zen 6 EPYC &#x27;Venice&#x27; Architecture and Performance Benchmarks</h2>
-<p>AMD's Zen 6 EPYC "Venice" CPUs feature a redesigned architecture built on TSMC's N2P process. Benchmarking of the EPYC 9686F and a dual EPYC 9996 configuration—totaling 1,024 threads—shows performance increases of up to 93% generation-on-generation.</p>
-<p>Nov 11 · <a href="https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera">tomshardware.com</a></p>
 <br clear="all" />
 
 ---
