@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-13T09:44:00+00:00</updated>
+  <updated>2026-11-13T09:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>apulSoft Updates apVerb to Version 1.2.6</title>
+    <link href="https://www.kvraudio.com/news/apulsoft-updates-apverb-to-v1-2-6-69796?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69796" rel="alternate" />
+    <id>https://www.kvraudio.com/news/apulsoft-updates-apverb-to-v1-2-6-69796?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69796::v240</id>
+    <published>2026-11-13T09:59:00+00:00</published>
+    <updated>2026-11-13T09:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Favrb_2u4d2x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/apulsoft-updates-apverb-to-v1-2-6-69796?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69796">kvraudio.com</a> | <a href="https://apulsoft.ch/apverb">apulsoft.ch</a></small></p><hr/><p>Version 1.2.6 of the apVerb algorithmic reverb plugin introduces several performance optimizations and a collection of new presets by Yendo Starritz.</p><p>Technical improvements include faster reverb tail updates, improved low and high cut filters, and optimized DSP performance for x64 CPUs. The release also features a Linux build with lower minimum requirements and fixes a bug regarding frequency values in the popup editor. The plugin is currently available at a 38% discount until December 6th.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Favrb_2u4d2x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 15:00 UTC | #27394</small>]]></content>
+  </entry>
+  <entry>
+    <title>DZTL8 Releases Merg Free Stereo-to-Mono Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/13/dztl8-merg/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/13/dztl8-merg/::v240</id>
+    <published>2026-11-13T09:58:00+00:00</published>
+    <updated>2026-11-13T09:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOZmnHaUgdDE%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/13/dztl8-merg/">bedroomproducersblog.com</a> | <a href="https://dztl8.com/merg/">dztl8.com</a></small></p><hr/><p>DZTL8 has released Merg, a free stereo-to-mono utility plugin for macOS and Windows designed to help producers convert stereo tracks to mono directly within their digital audio workstations. The plugin features a Source Blend control that allows users to adjust the exact contribution of the left and right channels to the resulting mono mix.</p><p>Additional features include polarity-reversal options, a sub-millisecond Time Align tool for correcting timing discrepancies between channels, and a mono-compatibility indicator to monitor signal loss. Merg is available in AU and VST3 formats and requires an email address for download on the developer's website.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOZmnHaUgdDE%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 14:59 UTC | #27395</small>]]></content>
+  </entry>
   <entry>
     <title>Sonic Academy JU-60 Chorus Plugin Available Free for Black Friday</title>
     <link href="https://bedroomproducersblog.com/2026/11/13/sonic-academy-ju-60-free-2026/" rel="alternate" />

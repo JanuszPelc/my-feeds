@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>apulSoft Updates apVerb to Version 1.2.6</h2>
+<a name="story-27394"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Favrb_2u4d2x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Version 1.2.6 of the apVerb algorithmic reverb plugin introduces several performance optimizations and a collection of new presets by Yendo Starritz.</p><p>Technical improvements include faster reverb tail updates, improved low and high cut filters, and optimized DSP performance for x64 CPUs. The release also features a Linux build with lower minimum requirements and fixes a bug regarding frequency values in the popup editor. The plugin is currently available at a 38% discount until December 6th.</p>
+<p>Nov 13 · <a href="https://www.kvraudio.com/news/apulsoft-updates-apverb-to-v1-2-6-69796?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69796">kvraudio.com</a> | <a href="https://apulsoft.ch/apverb">apulsoft.ch</a></p>
+<br clear="all" />
+
+<h2>DZTL8 Releases Merg Free Stereo-to-Mono Plugin</h2>
+<a name="story-27395"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOZmnHaUgdDE%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DZTL8 has released Merg, a free stereo-to-mono utility plugin for macOS and Windows designed to help producers convert stereo tracks to mono directly within their digital audio workstations. The plugin features a Source Blend control that allows users to adjust the exact contribution of the left and right channels to the resulting mono mix.</p><p>Additional features include polarity-reversal options, a sub-millisecond Time Align tool for correcting timing discrepancies between channels, and a mono-compatibility indicator to monitor signal loss. Merg is available in AU and VST3 formats and requires an email address for download on the developer's website.</p>
+<p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/dztl8-merg/">bedroomproducersblog.com</a> | <a href="https://dztl8.com/merg/">dztl8.com</a></p>
+<br clear="all" />
+
 <h2>Sonic Academy JU-60 Chorus Plugin Available Free for Black Friday</h2>
 <a name="story-27396"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5Mlg8EU8M-s%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonic Academy is offering its JU-60 chorus plugin as a free download for Black Friday. The software, which normally retails for £19.95, emulates the analog chorus section of the Roland Juno-60 synthesizer.</p><p>To obtain the plugin without charge, users must register for an email newsletter on the Sonic Academy promotional page to receive a discount code. The plugin is available in VST3, AU, and AAX formats for macOS and Windows systems.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27279"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsynthanatomy.com%2Fwp-content%2Fuploads%2F2025%2F11%2FVoid9-MONAI-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Void Enemy has released Plenitude, a free virtual analog synthesizer plugin for macOS and Windows. The instrument features three oscillators with multiple waveforms, separate tuning and distortion controls, a resonant filter, a modulation matrix, and built-in effects including delay and reverb.</p><p>Developed initially as a COVID-19 lockdown project, the software evolved into a collaborative effort released with 107 factory presets. It supports VST3 and AU formats with eight-voice polyphony, and while a paid Pro edition with an expanded matrix is planned, the core software remains permanently free without account or email registration requirements.</p>
 <p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/void-enemy-plenitude/">bedroomproducersblog.com</a> | <a href="https://void-enemy.com/">void-enemy.com</a></p>
-<br clear="all" />
-
-<h2>Analog Obsession Releases MasterTone Free Baxandall EQ Plugin</h2>
-<a name="story-27280"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdown-id.img.susercontent.com%2Ffile%2F083c18cb26d0d8463a1ec9ae6652d8fc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Analog Obsession has released MasterTone, a free transformer-balanced active Baxandall EQ plugin for macOS and Windows. The plugin is designed for broad tonal adjustments, allowing users to shape the overall bass and treble balance of audio tracks rather than performing surgical frequency cuts.</p><p>MasterTone features dedicated low and high-frequency bands with up to 16 dB of boost or cut, alongside a gain-compensated input control that drives the output transformer for analog coloration. The plugin supports VST3, AU, and AAX formats and includes a resizable user interface ranging from 50% to 200%.</p>
-<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/analog-obsession-mastertone/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/analogobsession/posts/mastertone-174915694">patreon.com</a></p>
-<br clear="all" />
-
-<h2>Black Rooster Audio OmniTec-436C Compressor Giveaway Hosted by Bedroom Producers Blog</h2>
-<a name="story-27281"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fblackroosteraudio_omnitec-436c_frontplate.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bedroom Producers Blog has partnered with Black Rooster Audio to host a giveaway for a free license of the OmniTec-436C tube compressor plugin for macOS and Windows. Participants can enter the contest by leaving a comment on the announcement post before a winner is randomly selected on November 19, 2026.</p><p>Inspired by the vintage Altec 436C, the OmniTec-436C features a program-dependent vari-mu gain stage, flexible sidechain filtering, and support for VST, VST3, AU, and AAX formats. Concurrently, Black Rooster Audio is running a Black November promotional sale through December 1, discounting individual plugins to $19 and offering an ALL Bundle of 27 plugins for $99.</p>
-<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/win-black-rooster-audio-omnitec/">bedroomproducersblog.com</a></p>
 <br clear="all" />
 
 ---
