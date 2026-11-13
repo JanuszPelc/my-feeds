@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Employees Petition for Jensen Huang&#x27;s Return Following Resignation</h2>
+<a name="story-27413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fjensen-huang-headshot-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Some Nvidia employees are calling for the return of Jensen Huang following his abrupt resignation as CEO amid reports of multiple extramarital affairs. Internal correspondence reviewed by WIRED shows a suggestion box post with over 1,600 comments urging the board to bring back Huang and consider employee sentiment.</p><p>Huang resigned after acknowledging he was unfaithful to his wife, following disclosures of relationships with multiple individuals, including a direct report and another Nvidia employee. The leadership crisis has led the board to name CFO Colette Kress as interim CEO and appoint Harvey Jones as board chair, while drawing scrutiny from US lawmakers and the FBI.</p>
+<p>Nov 13 · <a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50477231">hacker news</a></p>
+<br clear="all" />
+
 <h2>Samsung in Talks to Acquire Data Center Cooling Firm Modine</h2>
 <a name="story-27380"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F13%2Fsmall%2F4223564_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics is in discussions to acquire Modine Manufacturing, a US-based maker of data center cooling systems, according to people familiar with the matter. Negotiations are reportedly moving quickly, with a potential agreement emerging as soon as the coming weeks.</p><p>Modine carries a market value of approximately $5.6 billion. A prospective deal would expand Samsung's footprint in the infrastructure sector as demand surges for specialized thermal management solutions driven by the artificial intelligence boom and expanding data center capacities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27303"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2224174932.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Donald Trump has suggested that Apple Executive Chairman Tim Cook should succeed Nvidia CEO Jensen Huang, following Huang's recent resignation. The proposal, shared on Truth Social, follows a similar recommendation by Yale leadership expert Jeffrey Sonnenfeld in a Time op-ed.</p><p>Nvidia has appointed CFO Colette Kress as interim CEO to manage the transition. Cook, who transitioned from Apple CEO to Executive Chairman in September 2026, is noted by analysts for his experience navigating major leadership successions.</p>
 <p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/">techcrunch.com</a> | <a href="https://truthsocial.com/@realDonaldTrump/posts/117604177898784579">truthsocial.com</a></p>
-<br clear="all" />
-
-<h2>Norwest Raises $4 Billion Fund to Expand AI Investments</h2>
-<a name="story-27296"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai.devtheworld.jp%2Fposts%2Fai-investment-trends%2Fglobal-ai-investment-map_hu_7a73203173503c45.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Norwest has closed its eighteenth fund totaling $4 billion, marking the multi-stage investment firm's largest vehicle to date. The capital will target startups across multiple geographies, including the United States, India, and Israel, with a primary emphasis on artificial intelligence.</p><p>The firm plans to direct the funding toward early-stage companies and infrastructure projects spanning core sectors such as healthcare, consumer goods, and technology. Specifically, Norwest intends to back ventures in physical AI, voice AI, agentic cybersecurity, and aerospace as part of its broad enterprise transformation strategy.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
