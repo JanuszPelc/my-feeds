@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Game Developer Podcast Discusses Dressmaker Development with Ruan Rothmann and Sara Laubscher</h2>
+<a name="story-27425"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt70f827f4598594e4%2F6af73402fa93fc61a9324b05%2Fdressmaker.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Programmer Ruan Rothmann and artist Sara Laubscher appear on the Game Developer Podcast to discuss the creation of Dressmaker, a surprise breakout hit developed by South African studio Free Lives. The episode explores how the team transitioned from developing action titles to crafting a low-key sewing and design game.</p><p>Best known for action-oriented and comedic titles like Broforce, Genital Jousting, and Gorn, Free Lives surprised the industry with its pivot into the crafting genre. The discussion highlights the strategies, motivations, and design decisions behind jumping into an entirely new genre with gumption and a gut feeling.</p>
+<p>Nov 13 · <a href="https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher">gamedeveloper.com</a></p>
+<br clear="all" />
+
 <h2>CD Projekt Red Uses AI Voice Tools to Help Jacek Rozenek Reprise Geralt in The Witcher 3 Expansion</h2>
 <a name="story-27420"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt54b97d6b5d63ddf4%2F6af6045a3e84fdc4ff21c274%2Fwitcher3geralt.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CD Projekt Red is utilizing AI voice technology from Respeecher to help actor Jacek Rozenek reprise his role as Geralt of Rivia in the upcoming Witcher 3: Wild Hunt expansion, Songs of the Past. Rozenek suffered a stroke that altered his voice, and the studio received his consent to use AI to bridge the gap between his current performances and thousands of lines recorded over a decade ago for the 2015 game.</p><p>Localization producer Mikołaj Szwed emphasized that the decision was an ethical exception made strictly due to Rozenek's health constraints. CD Projekt Red previously used Respeecher to recreate the voice of a late actor for the Cyberpunk 2077 expansion Phantom Liberty, but this marks a distinct application aimed at maintaining performance continuity for a living actor.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27140"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F10161844%2FApple-lid-cutout_b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>iFixit has published a teardown of Apple's new MacBook Pro with PROLED XDR, offering a detailed look at its tandem OLED display and the four-LED lighting strip responsible for illuminating the newly restored glowing Apple logo. The investigation examines how the laptop achieves a lighter chassis design while introducing a touchscreen and retaining functional Touch ID compatibility during logic board swaps.</p><p>Despite improvements such as streamlined lid replacement and reliable hardware swapping, the teardown highlights that components like fans and USB-C ports remain buried beneath the logic board. The device ultimately earned a repairability score of 5 out of 10, constrained by design elements like soldered storage and a keyboard integrated into the top case.</p>
 <p>Nov 11 · <a href="https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple">ifixit.com</a></p>
-<br clear="all" />
-
-<h2>Nintendo Sells 5.2 Million Copies of Zelda Remake in Four Days</h2>
-<a name="story-27129"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F01Kaa5dgZRJ83FMF7dy7muy-1.fit_lim.v1742937201.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nintendo sold 5.2 million copies of its The Legend of Zelda: Ocarina of Time remake within four days of its release. The strong debut establishes the title as an immediate commercial success on the market.</p><p>The sales milestone provides the Switch 2 console with a major blockbuster release following its rollout. The rapid adoption of the remake highlights the enduring popularity of the classic 1998 title among both longtime fans and new players.</p>
-<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
