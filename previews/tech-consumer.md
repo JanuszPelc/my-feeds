@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Game Conference MX Scheduled for November 2026 in Guadalajara</h2>
+<a name="story-21519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fuach.mx%2Fassets%2Fmedia%2Fpublications%2F2025%2F10%2F11398_participan-alumnos-de-la-facultad-de-ingenieria-en-game-conference-mx-2025-en-guadalajara%2FFI500_%281%29.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Game Conference MX (GCMX) is scheduled to take place from November 13 to November 14, 2026, in Guadalajara, Jalisco, Mexico. Created by and for industry professionals, the conference functions as a platform linking the video game sector in Mexico and Latin America with the broader international market.</p><p>The event brings together developers, students, and regional leaders through keynote presentations, workshops, and indie game showcases. It features community and expert-led awards celebrating innovative independent titles developed within the region.</p>
+<p>Nov 13 · <a href="https://www.gamedeveloper.com/events/untitled">gamedeveloper.com</a> | <a href="https://www.gameconferencemx.com/">gameconferencemx.com</a></p>
+<br clear="all" />
+
 <h2>Shadowkey: Reforged Brings Elder Scrolls N-Gage RPG to PC in 4K</h2>
 <a name="story-27341"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Ftorch-hall-1152x648.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Shadowkey: Reforged, a free fan-made PC port of the 2004 Nokia N-Gage title *The Elder Scrolls Travels: Shadowkey*, has been released. The project uses a rewritten graphics engine to combine original game files and scripts with upscaled 4K assets and widescreen support.</p><p>The port expands the original portrait-oriented mobile experience to a 16:9 aspect ratio and supports up to 120 fps, though the game logic remains at 25 fps. Additional visual updates include bloom lighting, rippling water, and a modernized interface with sharper text rendering.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27136"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages-stag.jazelc.com%2Fuploads%2Ftheautopian-m2en%2Fscion_truck_a.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Labeled a "freedom lab" for experimental mobility, the newly announced "Scion by Toyota" brand will focus on unconventional vehicle design. Its first U.S. production model is the KEI-01, an ultra-compact utility truck derived from the Toyota Pixis and Daihatsu Hijet Jumbo Cab.</p><p>The KEI-01 features a 660cc engine and is limited to roads with speed limits below 35 mph due to low-speed vehicle safety certifications. Toyota plans to roll out a low-volume pilot program for fleet usage in late 2027. Other unveiled concepts include the SxS side-by-side and the BKE personal mobility vehicle.</p>
 <p>Nov 11 · <a href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/">theautopian.com</a> | <a href="https://news.ycombinator.com/item?id=50445401">hacker news</a></p>
-<br clear="all" />
-
-<h2>US Publishers Lose Ground to Chinese Rivals in Mobile Gaming Market</h2>
-<a name="story-27108"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gizmochina.com%2Fwp-content%2Fuploads%2F2020%2F07%2F20200708_122320_465.jpg%3Fx70461&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>US-based video game publishers are losing market share in the $121 billion global mobile gaming sector to Chinese competitors. Chinese studios have increasingly outpaced American counterparts by producing games more quickly, at a lower cost, and with higher profitability.</p><p>Popular titles such as Honor of Kings and Whiteout Survival exemplify the shift, highlighting the advanced operational capabilities and rapid development cycles of Chinese developers. This dynamic has allowed Chinese firms to seize leadership in a lucrative market previously dominated by US companies.</p>
-<p>Nov 11 · <a href="https://www.bloomberg.com/news/features/2026-11-10/honor-of-kings-whiteout-survival-help-china-seize-mobile-gaming-crown-from-us?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDM1MzAxMSwiZXhwIjoxNzk0OTU3ODExLCJhcnRpY2xlSWQiOiJUT0I2SzVLR1pBTFkwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.ObRjv2f1_O3nCF6u3SBgzSlvsb2s-NJZynZl8Y_mTx8">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
