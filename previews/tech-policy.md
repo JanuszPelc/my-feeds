@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Reuters Review Identifies Over $3.2 Billion in Chinese AI Projects Reliant on Restricted Nvidia GPUs</h2>
+<a name="story-27401"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1S0Hhs.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A review of Chinese contracts and disclosures by Reuters has identified more than $3.2 billion in artificial intelligence compute projects that rely on Nvidia graphics processing units restricted by U.S. export controls. These built and planned data-centre initiatives underscore China's continued reliance on advanced American hardware despite tightening trade curbs.</p><p>The findings emerge amid heightened regulatory scrutiny and the recent departure of Nvidia CEO Jensen Huang, highlighting the vulnerabilities facing cross-border technology supply chains. Although Nvidia has stated that U.S. restrictions effectively shut it out of China's AI market, the documented projects demonstrate the extensive integration of restricted chips within Chinese infrastructure.</p>
+<p>Nov 13 · <a href="https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Senate Banking Chair Tim Scott Summons Jensen Huang and Howard Lutnick to Testify Over Nvidia Saga</h2>
 <a name="story-27366"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdnyuz.com%2Fwp-content%2Fuploads%2F2026%2F11%2F6af2104980d4b24f18347a19.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Senate Banking Chair Tim Scott has called on Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify at separate December hearings regarding the ongoing Nvidia controversy. Commerce Secretary Lutnick has already agreed to appear before the panel.</p><p>The hearings are expected to focus on export controls, corporate leadership, and related policy issues surrounding the tech giant. Lawmakers aim to scrutinize key figures involved in the unfolding legislative inquiry.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27243"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspectrum.ieee.org%2Fmedia-library%2Fpeople-at-an-ai-conference-stop-to-look-at-a-display-of-servers-that-stretches-across-the-room.jpg%3Fid%3D62132455%26width%3D980&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chinese artificial intelligence companies are actively seeking to rent Nvidia-powered computing capacity at data centers located outside China. The surge in demand is driven by growing concerns that the United States will implement tighter export restrictions on advanced semiconductor technology.</p><p>The anxiety among Chinese tech firms escalated following a spy scandal involving Nvidia CEO Jensen Huang. Companies are rushing to secure necessary processing power abroad to mitigate potential regulatory fallout and ensure the continuity of their AI development projects.</p>
 <p>Nov 12 · <a href="https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Trump Officials Questioned Nvidia CEO Jensen Huang Over China Chip Sales Lobbying</h2>
-<a name="story-27234"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1PHWe8.img%3Fw%3D768%26h%3D432%26m%3D6%26x%3D550%26y%3D209%26s%3D147%26d%3D147&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Some Trump administration officials raised concerns regarding Nvidia CEO Jensen Huang's lobbying efforts to permit increased semiconductor sales to China, even prior to revelations regarding his affair with Alice Huang. U.S. officials have repeatedly scrutinized Huang's close relationship with the president and his stance on trade with China.</p><p>The controversy highlights ongoing tensions within the administration regarding technology export controls and national security interests. As Nvidia navigates regulatory scrutiny, these developments underscore the complex intersection of corporate lobbying, executive influence, and geopolitical policy involving major tech executives.</p>
-<p>Nov 12 · <a href="https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?st=epsgoa&reflink=article_copyURL_share">wsj.com</a></p>
 <br clear="all" />
 
 ---
