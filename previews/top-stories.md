@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;US Justice Department Obtains Authorization to Seize $1.2 Billion in Stolen Binance Assets</h2>
+<a name="story-27364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;Binance Completes Reimbursement of $6.3 Billion in Stolen Customer Tokens</h2>
 <a name="story-27325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The exchange has used profits and emergency funds to replace all $6.3 billion in cryptoassets stolen during an October 29 cyberattack. The reimbursement covers both common and obscure tokens.</p><p>This action marks the conclusion of what is described as the largest cybertheft in history.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;TV Manufacturers Respond to Data Collection Questions</h2>
 <p>An investigation into the privacy practices of television and streaming device manufacturers reveals varying levels of transparency regarding data collection. Companies including Amazon, Apple, Google, LG, Roku, Samsung, and TCL provided responses to 17 questions regarding audio monitoring, screen recording, and viewing history, while others like Hisense and Sony declined to answer.</p><p>The findings highlight how manufacturers utilize voice assistance and Automatic Content Recognition (ACR) to track user habits. While several companies state that data collection is opt-in or limited to active user prompts, the report notes that opting out of certain features may not be entirely effective in preventing data transmission.</p>
 <p>Nov 12 · <a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50453474">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;EU Sues IBM, Atos, and Leonardo Over Smart Border System Delays</h2>
-<a name="story-26890"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbritainherald.com%2Fwp-content%2Fuploads%2F2026%2F04%2FEU-Entry-Exit-System-border-delays-Imaage-Via-Zurich-Airport.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The European Union has filed a lawsuit in Estonia against IBM, French IT group Atos, and Italian contractor Leonardo over repeated delays in developing its Entry/Exit System. The technological setbacks and implementation failures associated with the smart border project have triggered widespread travel chaos and border congestion across member states.</p><p>The litigation highlights increasing institutional frustration over accountability and delivery timelines for major public-sector digital infrastructure. The automated border management system is designed to track non-EU travelers, but its rocky rollout has repeatedly disrupted transport networks and passenger processing.</p>
-<p>Nov 12 · <a href="https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301">ft.com</a></p>
 <br clear="all" />
 
 ---
