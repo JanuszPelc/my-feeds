@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-13T11:26:00+00:00</updated>
+  <updated>2026-11-13T12:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>AudioThing Releases Seconds Spectral Sound Design Effect Plugin</title>
+    <link href="https://www.kvraudio.com/news/audiothing-releases-seconds---spectral-sound-design-effect-plugin-69805?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69805" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audiothing-releases-seconds---spectral-sound-design-effect-plugin-69805?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69805::v240</id>
+    <published>2026-11-13T12:23:00+00:00</published>
+    <updated>2026-11-13T12:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fseconds.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/audiothing-releases-seconds---spectral-sound-design-effect-plugin-69805?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69805">kvraudio.com</a> | <a href="https://www.audiothing.net/effects/seconds/">audiothing.net</a></small></p><hr/><p>AudioThing, in collaboration with Hainbach, has released Seconds, a spectral sound design effect plugin designed for macOS, Windows, and Linux. Built around a bank of 48 analog-modeled bandpass filters tuned in whole-tone steps, the plugin allows users to cut up sounds, sequence spectra via MIDI, and perform spectral freeze and transfer between audio sources.</p><p>Additional features include 12 and 24 dB slopes with resonance control, per-band ring modulation, odd/even panning control, volume and panning modulation, input saturation, and sample rate reduction. It supports VST2, VST3, AU, AAX, and CLAP formats, and is available at an introductory price through December 31, 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fseconds.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 17:48 UTC | #27404</small>]]></content>
+  </entry>
   <entry>
     <title>2B Played Music Releases Attribute Audio Character Transfer Plugin</title>
     <link href="https://www.kvraudio.com/news/2b-played-music-releases-attribute---audio-character-transfer-plugin-vst3-au-and-aax-69800?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69800" rel="alternate" />

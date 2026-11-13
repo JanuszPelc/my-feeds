@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-13T11:27:00+00:00</updated>
+  <updated>2026-11-13T12:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Jensen Huang Reportedly Lacked Confidence in Successor Colette Kress</title>
+    <link href="https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/::v240</id>
+    <published>2026-11-13T12:29:00+00:00</published>
+    <updated>2026-11-13T12:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fcolette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097">wsj.com</a></small></p><hr/><p>During a meeting concerning Nvidia's multi-billion dollar financial guarantees for data center operators, former CEO Jensen Huang reportedly described interim successor Colette Kress as a "deer in the headlights." According to a Wall Street Journal report, Huang also stated that Kress was unable to assist with the company's strategic decision-making.</p><p>These comments emerge following Huang's resignation amid allegations of extramarital affairs and investigations into a potential espionage plot. Kress, who has served as Nvidia's CFO for over 13 years, has recently questioned the company's credit-based deal structures and scaled back financial commitments to OpenAI's data center projects.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fcolette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 17:49 UTC | #27409</small>]]></content>
+  </entry>
+  <entry>
+    <title>Environmental and Economic Costs of Digital Dependence on Microsoft</title>
+    <link href="https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614" rel="alternate" />
+    <id>https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614::v240</id>
+    <published>2026-11-13T12:10:00+00:00</published>
+    <updated>2026-11-13T12:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614">theconversation.com</a></small></p><hr/><p>Reliance on major technology providers like Microsoft creates significant environmental and economic challenges. The expansion of data centers to support AI increases global electricity demand, while software support lifecycles contribute to electronic waste by rendering hardware obsolete.</p><p>Economic "switching costs" can lock organizations into specific ecosystems, potentially preventing the adoption of more sustainable or competitive services. Addressing these impacts requires fostering interoperability, data portability, and transparent environmental reporting.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 17:48 UTC | #27410</small>]]></content>
+  </entry>
   <entry>
     <title>xFusion Receives Shenzhen Stock Exchange Approval for $1.2 Billion ChiNext IPO</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing" rel="alternate" />
