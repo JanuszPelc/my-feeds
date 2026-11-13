@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Nvidia Employees Petition for Jensen Huang&#x27;s Return Following Resignation</h2>
+<a name="story-27413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fjensen-huang-headshot-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Some Nvidia employees are calling for the return of Jensen Huang following his abrupt resignation as CEO amid reports of multiple extramarital affairs. Internal correspondence reviewed by WIRED shows a suggestion box post with over 1,600 comments urging the board to bring back Huang and consider employee sentiment.</p><p>Huang resigned after acknowledging he was unfaithful to his wife, following disclosures of relationships with multiple individuals, including a direct report and another Nvidia employee. The leadership crisis has led the board to name CFO Colette Kress as interim CEO and appoint Harvey Jones as board chair, while drawing scrutiny from US lawmakers and the FBI.</p>
+<p>Nov 13 · <a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50477231">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;US Justice Department Obtains Authorization to Seize $1.2 Billion in Stolen Binance Assets</h2>
 <a name="story-27364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p>
 <p>Nov 12 · <a href="https://musictech.com/features/interviews/daramol-interview/">musictech.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;TV Manufacturers Respond to Data Collection Questions</h2>
-<p>An investigation into the privacy practices of television and streaming device manufacturers reveals varying levels of transparency regarding data collection. Companies including Amazon, Apple, Google, LG, Roku, Samsung, and TCL provided responses to 17 questions regarding audio monitoring, screen recording, and viewing history, while others like Hisense and Sony declined to answer.</p><p>The findings highlight how manufacturers utilize voice assistance and Automatic Content Recognition (ACR) to track user habits. While several companies state that data collection is opt-in or limited to active user prompts, the report notes that opting out of certain features may not be entirely effective in preventing data transmission.</p>
-<p>Nov 12 · <a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50453474">hacker news</a></p>
 <br clear="all" />
 
 ---
