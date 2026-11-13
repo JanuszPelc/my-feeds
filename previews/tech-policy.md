@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Attorney General Todd Blanche Says DOJ Has Not Concluded Alice Huang Was Chinese Spy</h2>
 <a name="story-27348"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5MZA.img%3Fw%3D768%26h%3D512%26m%3D6%26x%3D294%26y%3D106%26s%3D125%26d%3D125&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US Attorney General Todd Blanche stated that the Department of Justice has not reached a conclusion on whether Alice Huang acted as a Chinese spy. Blanche confirmed that the FBI is currently conducting an investigation into the matter.</p><p>The inquiry follows allegations that Huang, a businesswoman associated with Nvidia CEO Jensen Huang, was recruited by China's Ministry of State Security. The probe is examining whether her activities facilitated the acquisition of sensitive artificial intelligence technology by Chinese entities.</p>
-<p>Nov 12 · <a href="https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/">reuters.com</a></p>
+<p>Nov 12 · <a href="https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50476257">hacker news</a></p>
 <br clear="all" />
 
 <h2>Democrats Launch Inquiry into Nvidia’s China Sales and Trump Administration Ties</h2>
