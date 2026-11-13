@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>OpenAI Supports US Legislation to Restrict China&#x27;s AI Chip Access</h2>
+<a name="story-27353"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa27a4e08-b4d0-4657-9fbc-b27d6f280e6d_870x892.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI has confirmed to lawmakers its support for a bipartisan congressional effort to block China's access to advanced artificial intelligence chips and chipmaking equipment. The developer's decision is intended to bolster the likelihood of passing export-related legislation by the end of the year.</p><p>This move comes amid heightened political scrutiny following a scandal involving Nvidia CEO Jensen Huang. OpenAI’s backing adds weight to legislative efforts to curb the transfer of sensitive AI technology to China.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Attorney General Todd Blanche Says DOJ Has Not Concluded Alice Huang Was Chinese Spy</h2>
 <a name="story-27348"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5MZA.img%3Fw%3D768%26h%3D512%26m%3D6%26x%3D294%26y%3D106%26s%3D125%26d%3D125&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US Attorney General Todd Blanche stated that the Department of Justice has not reached a conclusion on whether Alice Huang acted as a Chinese spy. Blanche confirmed that the FBI is currently conducting an investigation into the matter.</p><p>The inquiry follows allegations that Huang, a businesswoman associated with Nvidia CEO Jensen Huang, was recruited by China's Ministry of State Security. The probe is examining whether her activities facilitated the acquisition of sensitive artificial intelligence technology by Chinese entities.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27242"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2219673294.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Senators Elizabeth Warren and Chris Coons have requested that the Trump administration preserve all records concerning Nvidia's chip exports to China and an affair involving CEO Jensen Huang. This move serves as a preliminary step that often precedes formal congressional investigations.</p><p>The inquiry targets the geopolitical implications of semiconductor trade and the personal conduct of Nvidia's leadership.</p>
 <p>Nov 12 · <a href="https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?st=XVfMWZ&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Senators Elizabeth Warren and Chris Coons Request Preservation of Nvidia China Records</h2>
-<a name="story-27227"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.particlenews.com%2Fimg%2Fid%2F1dX7OR_1B0CsfZH00&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Senators Elizabeth Warren and Chris Coons have urged the Trump administration to preserve all records and communications related to Nvidia's semiconductor exports to China and associated policy decisions. The request serves as a preliminary step often preceding formal congressional oversight and investigations into trade permissions granted for advanced technology.</p><p>Lawmakers have increasingly scrutinized federal decisions surrounding high-performance chip shipments amid evolving national security and foreign trade policies. The document preservation demand highlights ongoing legislative interest in executive branch oversight regarding critical technology transfers to overseas markets.</p>
-<p>Nov 12 · <a href="https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746">wsj.com</a></p>
 <br clear="all" />
 
 ---
