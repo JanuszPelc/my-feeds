@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Microsoft 365 Services Experience Outage</h2>
+<a name="story-27345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmultiple-microsoft-365-services-are-experiencing-an-outage%2Fintro-1794511005.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Multiple platforms, including Outlook, Teams, SharePoint Online, Microsoft Copilot 365, and Microsoft Defender XDR, are experiencing connectivity errors. Microsoft has attributed the issue to elevated infrastructure load affecting multiple regions.</p><p>While the impact is centered on Business and Enterprise tiers, individual users are also reporting disruptions. To mitigate the load, Microsoft is repairing infrastructure and investigating an unexpected surge in service traffic.</p>
+<p>Nov 12 · <a href="https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/">engadget.com</a> | <a href="https://status.cloud.microsoft/">status.cloud.microsoft</a> | <a href="https://news.ycombinator.com/item?id=50471731">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenAI National Security Staff Tricked by Russian Pranksters Posing as Ukrainian Official</h2>
 <a name="story-27264"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxbusiness.com%2Ffoxbusiness.com%2Fcontent%2Fuploads%2F2025%2F02%2F931%2F523%2Fsam-altman-openai.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Three senior OpenAI national security and military policy staff were tricked into a video conversation by a Russian comedy duo posing as a high-ranking Ukrainian intelligence official. During the 17-minute call, the OpenAI employees discussed the company's military support for Ukraine, its contract with the U.S. Department of War, and its nascent partnerships with the Ukrainian Ministry of Defense.</p><p>The pranksters, known as Vovan and Lexus, have a history of targeting high-profile figures with calls that often align with Russian foreign policy. OpenAI stated that it investigated the incident, concluded it was a prank, and took preventative measures, while noting that the conversation also touched on U.S. policy regarding Ukraine and Elon Musk.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27124"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocodethatmatters.com%2Fimages%2Fhome-automation%2Ft1-07.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This article outlines a framework for building reliable home automation systems that operate independently of internet connectivity. To avoid vendor lock-in and service outages, the author utilizes local hardware and protocols such as Tasmota, MQTT, and Node-RED, ensuring core house functions remain operational without cloud access.</p><p>The author details eleven specific rules developed over ten years, ranging from maintaining manual control redundancy to requiring APIs with local logs. The piece also presents content from two talks, covering the complexities of scaling automation for multi-user households and managing device conflicts.</p>
 <p>Nov 11 · <a href="https://docodethatmatters.com/home-automation-overnight-success/">docodethatmatters.com</a> | <a href="https://news.ycombinator.com/item?id=50441707">hacker news</a></p>
-<br clear="all" />
-
-<h2>Verisign Retracts Plan to Terminate .name Domains and Email Redirects</h2>
-<a name="story-27116"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ionos.ca%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Finteraction-between-icann-registries-registrars-us.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Verisign has cancelled an initiative to terminate approximately 22,000 .name domain registrations and their associated email redirects. While new registrations for third-level .name domains will be closed, all existing domains and email services will be grandfathered and remain active indefinitely.</p><p>The decision follows a series of legal challenges and advocacy efforts aimed at preventing the termination. The move adheres to ICANN consensus policies, ensuring continued service for current .name domain holders.</p>
-<p>Nov 10 · <a href="https://neil.fraser.name/news/2026/11/10/">neil.fraser.name</a> | <a href="https://itp.cdn.icann.org/en/files/consensus-policies/kane-to-fessenden-05-11-2026-en.pdf">itp.cdn.icann.org</a> | <a href="https://lobste.rs/s/vkkbwo/name_grandfathered">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50442736">hacker news</a></p>
 <br clear="all" />
 
 ---
