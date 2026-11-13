@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>CD Projekt Red Uses AI Voice Tools to Help Jacek Rozenek Reprise Geralt in The Witcher 3 Expansion</h2>
+<a name="story-27420"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt54b97d6b5d63ddf4%2F6af6045a3e84fdc4ff21c274%2Fwitcher3geralt.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>CD Projekt Red is utilizing AI voice technology from Respeecher to help actor Jacek Rozenek reprise his role as Geralt of Rivia in the upcoming Witcher 3: Wild Hunt expansion, Songs of the Past. Rozenek suffered a stroke that altered his voice, and the studio received his consent to use AI to bridge the gap between his current performances and thousands of lines recorded over a decade ago for the 2015 game.</p><p>Localization producer Mikołaj Szwed emphasized that the decision was an ethical exception made strictly due to Rozenek's health constraints. CD Projekt Red previously used Respeecher to recreate the voice of a late actor for the Cyberpunk 2077 expansion Phantom Liberty, but this marks a distinct application aimed at maintaining performance continuity for a living actor.</p>
+<p>Nov 13 · <a href="https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai">gamedeveloper.com</a> | <a href="https://www.gamefile.news/p/witcher-3-jacek-rozenek-voice-ai-cd-projekt-respeecher">gamefile.news</a></p>
+<br clear="all" />
+
 <h2>Game Conference MX Scheduled for November 2026 in Guadalajara</h2>
 <a name="story-21519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fuach.mx%2Fassets%2Fmedia%2Fpublications%2F2025%2F10%2F11398_participan-alumnos-de-la-facultad-de-ingenieria-en-game-conference-mx-2025-en-guadalajara%2FFI500_%281%29.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Game Conference MX (GCMX) is scheduled to take place from November 13 to November 14, 2026, in Guadalajara, Jalisco, Mexico. Created by and for industry professionals, the conference functions as a platform linking the video game sector in Mexico and Latin America with the broader international market.</p><p>The event brings together developers, students, and regional leaders through keynote presentations, workshops, and indie game showcases. It features community and expert-led awards celebrating innovative independent titles developed within the region.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27129"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F01Kaa5dgZRJ83FMF7dy7muy-1.fit_lim.v1742937201.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nintendo sold 5.2 million copies of its The Legend of Zelda: Ocarina of Time remake within four days of its release. The strong debut establishes the title as an immediate commercial success on the market.</p><p>The sales milestone provides the Switch 2 console with a major blockbuster release following its rollout. The rapid adoption of the remake highlights the enduring popularity of the classic 1998 title among both longtime fans and new players.</p>
 <p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Toyota Revives Scion Brand with KEI-01 Utility Truck</h2>
-<a name="story-27136"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages-stag.jazelc.com%2Fuploads%2Ftheautopian-m2en%2Fscion_truck_a.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Labeled a "freedom lab" for experimental mobility, the newly announced "Scion by Toyota" brand will focus on unconventional vehicle design. Its first U.S. production model is the KEI-01, an ultra-compact utility truck derived from the Toyota Pixis and Daihatsu Hijet Jumbo Cab.</p><p>The KEI-01 features a 660cc engine and is limited to roads with speed limits below 35 mph due to low-speed vehicle safety certifications. Toyota plans to roll out a low-volume pilot program for fleet usage in late 2027. Other unveiled concepts include the SxS side-by-side and the BKE personal mobility vehicle.</p>
-<p>Nov 11 · <a href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/">theautopian.com</a> | <a href="https://news.ycombinator.com/item?id=50445401">hacker news</a></p>
 <br clear="all" />
 
 ---

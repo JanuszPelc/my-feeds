@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>W. A. Production Releases Modulo Multi-FX Plugin</h2>
+<a name="story-27424"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmodulo_1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>W. A. Production has released Modulo, a sequencer-driven multi-effects plugin for macOS and Windows designed to transform audio into rhythmic patterns and textures. The software features ten independent effect lanes, hot-swappable effect routing, and the ability to chain or stack up to eight effect racks simultaneously.</p><p>Included effects comprise trance gates, filters, phasers, repeaters, spatial processors, comb filters, wavefolders, pitch shifters, and time benders. The plugin also provides global and individual randomization controls with density adjustment, flexible playback modes, and a preset manager. It is available in VST3, AU, and AAX formats, with an introductory price offered until December 3, 2026.</p>
+<p>Nov 13 · <a href="https://www.kvraudio.com/news/w-a-production-releases-modulo-multi-fx-plugin-vst3-au-and-aax-69809?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69809">kvraudio.com</a> | <a href="https://www.waproduction.com/plugins/view/modulo">waproduction.com</a></p>
+<br clear="all" />
+
 <h2>AudioThing Releases Seconds Spectral Sound Design Effect Plugin</h2>
 <a name="story-27404"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fseconds.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AudioThing, in collaboration with Hainbach, has released Seconds, a spectral sound design effect plugin designed for macOS, Windows, and Linux. Built around a bank of 48 analog-modeled bandpass filters tuned in whole-tone steps, the plugin allows users to cut up sounds, sequence spectra via MIDI, and perform spectral freeze and transfer between audio sources.</p><p>Additional features include 12 and 24 dB slopes with resonance control, per-band ring modulation, odd/even panning control, volume and panning modulation, input saturation, and sample rate reduction. It supports VST2, VST3, AU, AAX, and CLAP formats, and is available at an introductory price through December 31, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFender-Studio-Pro-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The music technology industry has experienced a significant shift in digital audio workstation (DAW) pricing, as corporate acquisitions and venture capital influence drive platforms toward subscription funnels and tiered licensing models. While traditional perpetual licenses offered permanent ownership, modern cost structures often position perpetual versions as middle-tier options behind feature-gated subscriptions.</p><p>Examining industry practices across major brands such as Fender, LANDR, Steinberg, and Avid highlights a growing tension between corporate profitability goals and user community loyalty. Although subscription models provide stable revenue for ongoing product development, they risk alienating independent creators and freelancers, prompting many users to seek alternative platforms with more transparent and flexible pricing.</p>
 <p>Nov 12 · <a href="https://musictech.com/features/interviews/daw-cost-model/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>Two Notes Audio Engineering Updates Genome to v2.2 with Live Mode</h2>
-<a name="story-27290"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgenome_post_social_tn.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Two Notes Audio Engineering has released Genome v2.2, introducing a dedicated Live Mode designed for real-time rig control across desktop and iOS platforms. The update adds Setlist, Scene, and Custom views, allowing users to consolidate rigs, manage multiple states within a single rig with gapless switching and preserved effect tails, and build customizable control layouts.</p><p>Additionally, version 2.2 brings AUv3 plugin support to iOS versions of Genome, enabling use within compatible iPad digital audio workstations. The release also incorporates preset-based spillover for smooth transitions between rigs, a system-wide Global EQ, and several bug fixes addressing MIDI CC control, audio clicks during effect disengagement, and amplifier component noise.</p>
-<p>Nov 12 · <a href="https://www.kvraudio.com/news/two-notes-audio-engineering-updates-genome-to-v2-2---live-mode-69783?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69783">kvraudio.com</a> | <a href="https://www.two-notes.com/en">two-notes.com</a></p>
 <br clear="all" />
 
 ---
