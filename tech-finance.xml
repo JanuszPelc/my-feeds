@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-12T22:53:00+00:00</updated>
+  <updated>2026-11-12T23:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Cisco Beats Q1 Estimates and Raises FY 2027 Revenue Forecast</title>
+    <link href="https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/" rel="alternate" />
+    <id>https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/::v240</id>
+    <published>2026-11-12T23:51:00+00:00</published>
+    <updated>2026-11-12T23:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffuturumgroup.com%2Fwp-content%2Fuploads%2F2023%2F11%2FCisco-Q1-2024-AI-Security-Cloud-and-Observability-Fuel-Results-2-600x336.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/">reuters.com</a></small></p><hr/><p>Cisco reported first-quarter revenue of $18.5 billion, a 24% year-over-year increase that exceeded analyst estimates of $18.14 billion. Adjusted earnings per share also surpassed Wall Street expectations.</p><p>The company raised its revenue forecast for fiscal year 2027, driven by strong demand for networking equipment in the artificial intelligence sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffuturumgroup.com%2Fwp-content%2Fuploads%2F2023%2F11%2FCisco-Q1-2024-AI-Security-Cloud-and-Observability-Fuel-Results-2-600x336.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 07:01 UTC | #27359</small>]]></content>
+  </entry>
   <entry>
     <title>US Justice Department Obtains Authorization to Seize $1.2 Billion in Stolen Binance Assets</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack" rel="alternate" />

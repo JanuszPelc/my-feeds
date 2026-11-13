@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Cisco Beats Q1 Estimates and Raises FY 2027 Revenue Forecast</h2>
+<a name="story-27359"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffuturumgroup.com%2Fwp-content%2Fuploads%2F2023%2F11%2FCisco-Q1-2024-AI-Security-Cloud-and-Observability-Fuel-Results-2-600x336.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cisco reported first-quarter revenue of $18.5 billion, a 24% year-over-year increase that exceeded analyst estimates of $18.14 billion. Adjusted earnings per share also surpassed Wall Street expectations.</p><p>The company raised its revenue forecast for fiscal year 2027, driven by strong demand for networking equipment in the artificial intelligence sector.</p>
+<p>Nov 12 · <a href="https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>US Justice Department Obtains Authorization to Seize $1.2 Billion in Stolen Binance Assets</h2>
 <a name="story-27364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27254"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.streebo.com%2Fwp-content%2Fthemes%2Fstreebo%2Fimages%2Fatc%2Fai_orchestration%2Fimg9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence startup Lumbra Inc. has raised $25 million in a Series A funding round co-led by Point72 Ventures and Ansa Capital, with participation from Costanoa. The company develops LumbraOS, a model-neutral platform designed to orchestrate autonomous AI agents within ultra-secure and high-consequence computing environments like the U.S. intelligence community.</p><p>Founded by former intelligence and special forces officers, Lumbra built its platform with components for agent orchestration, dynamic knowledge graphs, and governance enforcement. Following early adoption within classified government networks, the startup plans to use the new capital to expand its engineering team and scale its enterprise offerings into high-stakes sectors such as healthcare and finance.</p>
 <p>Nov 12 · <a href="https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents/">siliconangle.com</a> | <a href="https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-$25M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments">businesswire.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Stops Reporting Singapore Revenue Following Megaspeed Blocklisting</h2>
-<a name="story-27241"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia ceased reporting its revenue from Singapore after the quarter ending in July 2025, a period when Singapore accounted for 22% of the company's total sales. The change in reporting followed Nvidia's decision to place Singapore-based cloud computing firm Megaspeed on a blocklist amid escalating international scrutiny and probes involving billions of dollars in AI chip purchases.</p><p>Megaspeed has drawn intense scrutiny regarding its massive acquisitions of Nvidia technology through secondary markets and overseas units like Speedmatrix in Malaysia. The shifting transparency surrounding Nvidia's regional sales figures deepens ongoing questions regarding the distribution paths and ultimate destinations of advanced AI hardware flowing into Southeast Asia.</p>
-<p>Nov 12 · <a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5">wsj.com</a></p>
 <br clear="all" />
 
 ---
