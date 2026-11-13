@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Kalshi Terminates Advisory Contract With Donald Trump Jr.</h2>
+<a name="story-27333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bonus.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fdonald-trump-jr-kalshi-partnership.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The prediction markets startup Kalshi has terminated its advisory agreement with Donald Trump Jr. The decision follows an increased stake in rival platform Polymarket by Trump's venture capital firm, 1789 Capital.</p><p>Trump Jr. had served as a strategic advisor to Kalshi since January 2025. The move addresses the conflict of interest created by his firm's investment in a direct competitor.</p>
+<p>Nov 12 · <a href="https://www.reuters.com/business/finance/kalshi-ends-donald-trump-jrs-advisory-contract-due-polymarket-conflict-2026-11-12/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50474358">hacker news</a></p>
+<br clear="all" />
+
 <h2>Binance Completes Reimbursement of $6.3 Billion in Stolen Customer Tokens</h2>
 <a name="story-27325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The exchange has used profits and emergency funds to replace all $6.3 billion in cryptoassets stolen during an October 29 cyberattack. The reimbursement covers both common and obscure tokens.</p><p>This action marks the conclusion of what is described as the largest cybertheft in history.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27184"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21RN6C%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa4bcb6bf-6b68-4c36-91ef-7ac1d2d26308_3225x2150.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Imprint, a fintech provider of co-branded credit cards, has raised $130 million in new funding at an $1.88 billion valuation. The funding round included new investor Positive Sum, alongside existing backers Ribbit, Thrive, Kleiner Perkins, and Khosla Ventures.</p><p>The company has grown its cardholder base to over two million and serves clients including Albertsons, Kroger, Shell, and Fanatics. Imprint projects approximately $400 million in GAAP revenue by the end of the year, representing a 150% increase.</p>
 <p>Nov 11 · <a href="https://www.upstartsmedia.com/p/fintech-imprint-raises-130m">upstartsmedia.com</a></p>
-<br clear="all" />
-
-<h2>Edelbyte Raises $70 Million for AI Agent Data Analytics Platform</h2>
-<p>Edelbyte, a company based in Tel Aviv and San Francisco, has emerged from stealth with $70 million in combined seed and Series A funding. The company is developing a data analytics platform specifically optimized for AI agents.</p><p>The technology is designed to reimagine big data analytics to meet the requirements of AI agents.</p>
-<p>Nov 11 · <a href="https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/">forbes.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google Antigravity Introduces Gemini 4 Hydrogen and Orchestrator</h2>
+<a name="story-27334"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdist.neo4j.com%2Fwp-content%2Fuploads%2F20260415090718%2F1P_nU3k5L0-_ZqI7yYhjtVw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google Antigravity has released Gemini 4 Hydrogen and a new Orchestrator model option. Orchestrator uses a dynamic, bidirectional approach that switches between Gemini 4 Carbon for complex reasoning and planning and Gemini 4 Hydrogen for executing code edits and testing.</p><p>On the Terminal-Bench 4.1 benchmark, the Orchestrator feature reached near-Carbon task success rates while consuming 24% less quota and completing tasks 19% faster. Hydrogen is available as a standalone model with four adjustable reasoning levels and is rolling out to Google AI Pro, Ultra, and enterprise users.</p>
+<p>Nov 12 · <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">antigravity.google</a> | <a href="https://news.ycombinator.com/item?id=50472260">hacker news</a></p>
+<br clear="all" />
+
 <h2>Google Integrates Gemini 4 Hydrogen Model into Search</h2>
 <a name="story-27327"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is integrating the Gemini 4 Hydrogen model into Search to improve the handling of complex, multi-part questions and typos. Optimized for speed and agentic workflows, the model completes tasks 2.5 times faster than the previous Gemini 3.8 Flash.</p><p>The update introduces enhanced visual responses, such as comparison tables and structured data, and utilizes an improved "fan-out" technique for better query discovery. Hydrogen is rolling out globally to Search users, AI Studio, the Gemini API, and the Gemini App.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27065"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2F23aumh6u8s0i%2F4LrNhImjPcdPVpmCIrhlG9%2F4efed8dfb26630e6cf48b4a478a1f550%2Fgenai-tool-calling-intro.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Autark is an open-source tool created by Austrian developer Stanislaus Hees that enables AI agents to operate as an autonomous virtual team. The system employs a manager agent to delegate tasks from an inbox to specialized agents, which can be triggered by schedules, timers, or specific events rather than requiring constant manual prompts. The tool is model-agnostic and supports OpenAI Codex, Claude Code, Gemini CLI, and various local models.</p><p>Because Autark operates without sandboxing or permission gates, agents run with the user's machine privileges and can perform actions like file manipulation or accessing SSH keys. Since the tool does not enforce technical security boundaries, users are responsible for establishing their own guardrails to prevent agents from accessing sensitive data or incurring unexpected costs. The software is available on GitHub under an Apache license and supports self-hosting.</p>
 <p>Nov 10 · <a href="https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841">theregister.com</a> | <a href="https://openautark.com/">openautark.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Launches Claude Meetings, Whiteboards, and Sheets</h2>
-<a name="story-27055"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Whiteboards-1.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic has launched Claude Meetings, Claude Whiteboards, and Claude Sheets. Claude Meetings joins video calls to draft real-time plans, timelines, and meeting notes. Claude Whiteboards provides a collaborative visual workspace, while Claude Sheets allows teams to collaboratively create and edit spreadsheets with AI assistance.</p><p>These updates follow similar workplace tool releases from OpenAI and Meta as companies compete to build AI-driven office suites. Anthropic also announced the general availability of Claude Data and introduced interactive connectors that allow users to operate third-party applications, including Adobe, Atlassian, and HubSpot, directly within Claude.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50443448">hacker news</a></p>
 <br clear="all" />
 
 ---

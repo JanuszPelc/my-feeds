@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-12T19:28:00+00:00</updated>
+  <updated>2026-11-12T20:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Google Antigravity Introduces Gemini 4 Hydrogen and Orchestrator</title>
+    <link href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/" rel="alternate" />
+    <id>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/::v240</id>
+    <published>2026-11-12T20:51:00+00:00</published>
+    <updated>2026-11-12T20:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdist.neo4j.com%2Fwp-content%2Fuploads%2F20260415090718%2F1P_nU3k5L0-_ZqI7yYhjtVw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">antigravity.google</a> | <a href="https://news.ycombinator.com/item?id=50472260">hacker news</a></small></p><hr/><p>Google Antigravity has released Gemini 4 Hydrogen and a new Orchestrator model option. Orchestrator uses a dynamic, bidirectional approach that switches between Gemini 4 Carbon for complex reasoning and planning and Gemini 4 Hydrogen for executing code edits and testing.</p><p>On the Terminal-Bench 4.1 benchmark, the Orchestrator feature reached near-Carbon task success rates while consuming 24% less quota and completing tasks 19% faster. Hydrogen is available as a standalone model with four adjustable reasoning levels and is rolling out to Google AI Pro, Ultra, and enterprise users.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdist.neo4j.com%2Fwp-content%2Fuploads%2F20260415090718%2F1P_nU3k5L0-_ZqI7yYhjtVw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 02:38 UTC | #27334</small>]]></content>
+  </entry>
   <entry>
     <title>Google Integrates Gemini 4 Hydrogen Model into Search</title>
     <link href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/" rel="alternate" />
