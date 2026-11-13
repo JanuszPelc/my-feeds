@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Samsung in Talks to Acquire Data Center Cooling Firm Modine</h2>
+<a name="story-27380"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F13%2Fsmall%2F4223564_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Samsung Electronics is in discussions to acquire Modine Manufacturing, a US-based maker of data center cooling systems, according to people familiar with the matter. Negotiations are reportedly moving quickly, with a potential agreement emerging as soon as the coming weeks.</p><p>Modine carries a market value of approximately $5.6 billion. A prospective deal would expand Samsung's footprint in the infrastructure sector as demand surges for specialized thermal management solutions driven by the artificial intelligence boom and expanding data center capacities.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Nscale Needs Additional Funding for 2027 Commitments Following Anthropic Deal</h2>
 <a name="story-27378"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQGOIFDe3f-7eg%2Ffeedshare-shrink_1280%2FB56ZqcfjRbG0As-%2F0%2F1763562108666%3Fe%3D2147483647%26v%3Dbeta%26t%3DIUjVraPeUZYD7w33wLFCSh2nodxRUgnSV8vuTf_clsI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia-backed AI cloud provider Nscale has stated in a recent filing that it requires additional financing to fulfill its 2027 commitments after placing substantial Nvidia chip orders for a $45 billion deal with Anthropic. The development has cast uncertainty over the company's previously planned $35 billion initial public offering.</p><p>The massive infrastructure buildout highlights the immense capital demands and financial risks facing emerging AI cloud providers amid surging industry demand. Securing sufficient funding will be crucial for Nscale to maintain its contractual obligations and navigate its path toward public markets.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27296"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai.devtheworld.jp%2Fposts%2Fai-investment-trends%2Fglobal-ai-investment-map_hu_7a73203173503c45.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Norwest has closed its eighteenth fund totaling $4 billion, marking the multi-stage investment firm's largest vehicle to date. The capital will target startups across multiple geographies, including the United States, India, and Israel, with a primary emphasis on artificial intelligence.</p><p>The firm plans to direct the funding toward early-stage companies and infrastructure projects spanning core sectors such as healthcare, consumer goods, and technology. Specifically, Norwest intends to back ventures in physical AI, voice AI, agentic cybersecurity, and aerospace as part of its broad enterprise transformation strategy.</p>
 <p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia CEO Jensen Huang Resigns Amid Investigation Into Affair and National Security Concerns</h2>
-<a name="story-27284"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.tweaktown.com%2Fnews%2F1%2F0%2F100501_651156165_nvidia-ceo-jensen-huang-touts-the-beginning-of-new-industrial-revolution_full.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia co-founder and CEO Jensen Huang has resigned following revelations regarding an extramarital relationship with Alice Huang, an executive at Singapore-based AI infrastructure firm Megaspeed whom U.S. officials allege is a Chinese spy. The controversy has triggered federal export and national security investigations, internal scrutiny by Nvidia's board of directors, and congressional demands for official briefings.</p><p>In the wake of Huang's resignation, Nvidia appointed CFO Colette Kress as interim CEO and Harvey C. Jones as the board's first-ever chair. Additional reports indicate that Huang also engaged in a relationship with an internal executive who reported directly to him, further compounding corporate governance pressures amid intense global competition over advanced AI hardware markets.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">techcrunch.com</a> | <a href="https://nvidianews.nvidia.com/news/a-message-to-our-company">nvidianews.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
 <br clear="all" />
 
 ---
