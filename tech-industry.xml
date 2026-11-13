@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
   <entry>
+    <title>Ploum Explores the Anti-Marketing Nature of the Gemini Network</title>
+    <link href="https://ploum.net/2026-11-12-anti-marketing-gemini.html" rel="alternate" />
+    <id>https://ploum.net/2026-11-12-anti-marketing-gemini.html::v240</id>
+    <published>2026-11-13T00:41:00+00:00</published>
+    <updated>2026-11-13T00:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ploum.net/2026-11-12-anti-marketing-gemini.html">ploum.net</a> | <a href="https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network">lobsters</a></small></p><hr/><p>Engineer and writer Ploum examines the Gemini network—a lightweight, non-commercial protocol—arguing that its steady growth operates entirely independently of mainstream marketing metrics and promotional platforms like Hacker News. He contends that web statistics and visitor counts are largely worthless for independent creators, encouraging writers to focus on niche communities rather than metrics-driven traffic.</p><p>Reflecting on his decision to remove traffic statistics from his blog and abandon mainstream social media, Ploum notes that his most meaningful work often generated modest metrics while viral posts were quickly forgotten. He advocates for quiet, non-commercial virtual environments that resist commercial optimization and dopamine-driven engagement loops.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 08:29 UTC | #27386</small>]]></content>
+  </entry>
+  <entry>
     <title>Hatz AI Secures $24M to Expand AI Platform and Double Headcount</title>
     <link href="https://www.crn.com/news/ai/2026/hatz-ai-secures-24m-to-expand-platform-double-headcount-exclusive" rel="alternate" />
     <id>https://www.crn.com/news/ai/2026/hatz-ai-secures-24m-to-expand-platform-double-headcount-exclusive::v240</id>
@@ -611,13 +620,5 @@
     <updated>2026-11-08T22:09:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Funbiasedheadlines.com%2Fimages%2Farticles%2Fchina-opens-2-gigawatt-ai-data-center-in-inner-mongolia-built-to-run-1-million-gpus.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner">newsletter.semianalysis.com</a> | <a href="https://news.ycombinator.com/item?id=50411720">hacker news</a></small></p><hr/><p>Researchers from SemiAnalysis toured the Galaxy AI datacenter campus in Ulanqab, Inner Mongolia, a gigawatt-scale project developed by renewable energy company Envision Group. Planned for up to 800 megawatts of IT capacity, the campus integrates dedicated wind generation, solid-state transformers, and local battery storage to supply low-cost power for artificial intelligence infrastructure.</p><p>The facility operates under a source-grid-load-storage model, linking wind farms directly to the datacenter via dedicated power lines to secure fixed-cost green energy. Envision's deep vertical integration—manufacturing its own wind turbines, power electronics, and battery systems—reflects a broader trend among industrial firms in China entering the AI infrastructure sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Funbiasedheadlines.com%2Fimages%2Farticles%2Fchina-opens-2-gigawatt-ai-data-center-in-inner-mongolia-built-to-run-1-million-gpus.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>8 Nov 2026, 18:03 UTC | #26809</small>]]></content>
-  </entry>
-  <entry>
-    <title>Environmental Groups Embrace Artificial Intelligence While Warning of Data Center Impacts</title>
-    <link href="https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/" rel="alternate" />
-    <id>https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/::v240</id>
-    <published>2026-11-08T08:23:00+00:00</published>
-    <updated>2026-11-08T08:23:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/">reuters.com</a></small></p><hr/><p>Environmental organizations worldwide are increasingly adopting artificial intelligence tools to support their conservation and climate efforts, utilizing the technology to analyze complex climate data, monitor forest fires, and track endangered wildlife populations.</p><p>At the same time, these groups continue to voice strong concerns regarding the environmental toll of the AI industry, pointing to the substantial energy and water consumption required to power and cool rapidly expanding data centers.</p><hr/><small>8 Nov 2026, 14:13 UTC | #26803</small>]]></content>
   </entry>
 </feed>

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/music-production.png" width="28" align="texttop" /> &nbsp;Yamaha Releases Vocaloid7</h2>
+<a name="story-27266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvocaloid7-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Vocaloid7, the first major update to Yamaha's vocal synthesis software in four years, features an enhanced Vocaloid:AI engine for more natural expression. The update also introduces a "Voice Type" feature, allowing users to switch between different vocal characteristics within a single Voice Bank.</p><p>The software includes the "asa" voicebank and offers enhanced integration with Cubase, enabling note and lyric input directly within the Cubase Key Editor. It is available for macOS and Windows in standalone, VST3, AU, and ARA2 formats, with upgrade paths available for users of Vocaloid3 through Vocaloid6.</p>
+<p>Nov 13 · <a href="https://www.kvraudio.com/news/yamaha-releases-vocaloid7-69778?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69778">kvraudio.com</a> | <a href="https://www.vocaloid.com/en">vocaloid.com</a></p>
+<br clear="all" />
+
 <h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;Microsoft 365 Services Experience Outage</h2>
 <a name="story-27345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmultiple-microsoft-365-services-are-experiencing-an-outage%2Fintro-1794511005.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple platforms, including Outlook, Teams, SharePoint Online, Microsoft Copilot 365, and Microsoft Defender XDR, are experiencing connectivity errors. Microsoft has attributed the issue to elevated infrastructure load affecting multiple regions.</p><p>While the impact is centered on Business and Enterprise tiers, individual users are also reporting disruptions. To mitigate the load, Microsoft is repairing infrastructure and investigating an unexpected surge in service traffic.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27218"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGettyImages-2294936867.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia CEO Jensen Huang is accused of an extramarital affair with Kimberly Powell, the company's vice president of healthcare. The New York Times reports that five employees claim to have seen video of the pair behaving affectionately at a San Jose hotel earlier this year.</p><p>This follows Huang's previously admitted affair with a woman accused of being a Chinese spy. Nvidia's board has launched an investigation, and the Wall Street Journal reports the company is preparing to oust the founder. House Republicans are considering subpoenaing Huang regarding the previous spy-related allegations.</p>
 <p>Nov 12 · <a href="https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50459703">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/computer-programming.png" width="28" align="texttop" /> &nbsp;Daniel Stenberg Marks 30 Years of Internet Transfers With Curl</h2>
-<a name="story-27178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.star-history.com%2Fog%3Frepos%3Dcurl%2Fcurl&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Daniel Stenberg reflects on the 30-year history of curl, which began on November 11, 1996, when Brazilian student Rafael Sagula published a basic HTTP download tool called httpget. Stenberg took over maintenance of the software, expanded its protocol support, renamed it to cURL, and introduced libcurl in 2000 to allow other programs to handle internet transfers.</p><p>Over the decades, curl has evolved from a hobby project powering an IRC currency bot into a cornerstone of global internet infrastructure, running in an estimated 30 billion installations. Stenberg attributes the project's longevity to continuous code refactoring, strict backward compatibility, and an independent open-source model.</p>
-<p>Nov 12 · <a href="https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50448505">hacker news</a></p>
 <br clear="all" />
 
 ---
