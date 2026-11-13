@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Faced Pressure Over AI Financing Backstop Prior to Huang Departure</h2>
+<a name="story-27365"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbusinessmodelanalyst.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fnvidia-cds-spread-500b-1536x1056.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Before the departure of longtime chief executive Jensen Huang, Nvidia faced demands to increase its 25% residual value support backstop for a planned $500 billion artificial intelligence financing vehicle. The proposed initiative involved negotiations with major asset managers to mobilize capital for AI compute infrastructure.</p><p>The backstop arrangement requires Nvidia to cover a portion of potential losses if borrowers default and lenders liquidate chips below assumed book values. This financial backing has drawn scrutiny from market participants regarding the extent of Nvidia's exposure to credit and valuation risks within its broader ecosystem financing strategy.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50474852">hacker news</a></p>
+<br clear="all" />
+
 <h2>Ploum Explores the Anti-Marketing Nature of the Gemini Network</h2>
 <a name="story-27386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Engineer and writer Ploum examines the Gemini network—a lightweight, non-commercial protocol—arguing that its steady growth operates entirely independently of mainstream marketing metrics and promotional platforms like Hacker News. He contends that web statistics and visitor counts are largely worthless for independent creators, encouraging writers to focus on niche communities rather than metrics-driven traffic.</p><p>Reflecting on his decision to remove traffic statistics from his blog and abandon mainstream social media, Ploum notes that his most meaningful work often generated modest metrics while viral posts were quickly forgotten. He advocates for quiet, non-commercial virtual environments that resist commercial optimization and dopamine-driven engagement loops.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27246"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiVij4XaG1fOo%2Fv1%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Munich-based robotics maker Agile Robots has raised $500 million in a funding round led by SoftBank Group, bringing its valuation to $8.5 billion. The company specializes in developing humanoids, mobile robots, robotic arms, and proprietary control software.</p><p>The investment highlights SoftBank's continued financial backing of artificial intelligence and robotics hardware development. Agile Robots previously secured notable venture funding, including a $220 million Series C round, to expand its commercial deployment and technological infrastructure globally.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/softbank-backs-agile-robots-in-500-million-humanoid-push">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>TechCrunch Evaluates Potential Successors for Nvidia CEO Jensen Huang</h2>
-<a name="story-27230"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvisionarycios.com%2Fwp-content%2Fuploads%2F2026%2F02%2FV-CIO-Nvidia-CEO-Jensen-Huang-Says-AI-Will-Not-Replace-Software-or-Jobs-Source-bloomberg.com-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amid mounting scrutiny surrounding Nvidia CEO Jensen Huang and an absence of a formal succession plan, industry observers have begun speculating on potential replacements for the chipmaker's long-serving leader. The leadership uncertainty follows recent reports detailing executive controversies and investigations into the company's inner circle.</p><p>Potential candidates discussed range from external semiconductor executives like AMD CEO Lisa Su and Intel’s Lip-Bu Tan to internal engineering leaders such as Nvidia hardware vice president Ian Buck. While some commentators have suggested alternative figures or insiders, the lack of an obvious designated successor highlights key-person risks for one of the world's most valuable technology companies.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
