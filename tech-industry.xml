@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-13T02:25:00+00:00</updated>
+  <updated>2026-11-13T03:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>ByteDance Plans $6 Billion Share Buyback at $400 Billion Valuation</title>
+    <link href="https://www.theinformation.com/articles/bytedance-buy-back-shares-400-billion-valuation" rel="alternate" />
+    <id>https://www.theinformation.com/articles/bytedance-buy-back-shares-400-billion-valuation::v240</id>
+    <published>2026-11-13T03:21:00+00:00</published>
+    <updated>2026-11-13T03:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbrandsownedby.com%2Fwp-content%2Fuploads%2F2025%2F06%2FWho-Owns-ByteDance-Largest-Shareholders-1024x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/bytedance-buy-back-shares-400-billion-valuation">theinformation.com</a></small></p><hr/><p>ByteDance is planning to buy back up to $6 billion worth of shares from existing investors at a valuation of approximately $400 billion. The proposed repurchase program was disclosed in a recent letter sent to shareholders.</p><p>This valuation represents a 20% increase compared to the company's previous share buyback conducted a year prior. ByteDance, the Chinese parent company of TikTok, utilizes periodic buybacks to provide liquidity options for its private investors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbrandsownedby.com%2Fwp-content%2Fuploads%2F2025%2F06%2FWho-Owns-ByteDance-Largest-Shareholders-1024x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 10:32 UTC | #27367</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Faced Pressure Over AI Financing Backstop Prior to Huang Departure</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit" rel="alternate" />

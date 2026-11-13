@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>ByteDance Plans $6 Billion Share Buyback at $400 Billion Valuation</h2>
+<a name="story-27367"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbrandsownedby.com%2Fwp-content%2Fuploads%2F2025%2F06%2FWho-Owns-ByteDance-Largest-Shareholders-1024x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ByteDance is planning to buy back up to $6 billion worth of shares from existing investors at a valuation of approximately $400 billion. The proposed repurchase program was disclosed in a recent letter sent to shareholders.</p><p>This valuation represents a 20% increase compared to the company's previous share buyback conducted a year prior. ByteDance, the Chinese parent company of TikTok, utilizes periodic buybacks to provide liquidity options for its private investors.</p>
+<p>Nov 13 · <a href="https://www.theinformation.com/articles/bytedance-buy-back-shares-400-billion-valuation">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Faced Pressure Over AI Financing Backstop Prior to Huang Departure</h2>
 <a name="story-27365"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbusinessmodelanalyst.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fnvidia-cds-spread-500b-1536x1056.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Before the departure of longtime chief executive Jensen Huang, Nvidia faced demands to increase its 25% residual value support backstop for a planned $500 billion artificial intelligence financing vehicle. The proposed initiative involved negotiations with major asset managers to mobilize capital for AI compute infrastructure.</p><p>The backstop arrangement requires Nvidia to cover a portion of potential losses if borrowers default and lenders liquidate chips below assumed book values. This financial backing has drawn scrutiny from market participants regarding the extent of Nvidia's exposure to credit and valuation risks within its broader ecosystem financing strategy.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27261"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZuvmdg1I3J4%2Fv0%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tencent founder Pony Ma announced in an annual speech his intention to deploy half of the company's 100,000-strong workforce to AI-native business segments. This strategic reallocation aims to prioritize artificial intelligence development across the conglomerate's diverse operations.</p><p>The move represents a major pivot for the Chinese technology giant as it seeks to integrate AI-native capabilities into its core business units. This shift is intended to strengthen the company's position within the rapidly evolving AI-driven economy.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Agile Robots Raises $500 Million in SoftBank-Led Funding Round</h2>
-<a name="story-27246"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiVij4XaG1fOo%2Fv1%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Munich-based robotics maker Agile Robots has raised $500 million in a funding round led by SoftBank Group, bringing its valuation to $8.5 billion. The company specializes in developing humanoids, mobile robots, robotic arms, and proprietary control software.</p><p>The investment highlights SoftBank's continued financial backing of artificial intelligence and robotics hardware development. Agile Robots previously secured notable venture funding, including a $220 million Series C round, to expand its commercial deployment and technological infrastructure globally.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/softbank-backs-agile-robots-in-500-million-humanoid-push">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

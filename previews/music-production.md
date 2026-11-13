@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Kael Barba Releases CosmicSynth Free VST3 Synthesizer</h2>
+<a name="story-27398"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-114323.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Kael Barba has released CosmicSynth v0.1.0, a free and open-source VST3 synthesizer for Windows designed to translate gravitational-wave physics into audio. The instrument allows users to upload waveform data—such as signals from colliding black holes recorded by LIGO—to dynamically modulate pitch and filter parameters.</p><p>The software includes five built-in presets representing different astrophysical phenomena, alongside a real-time gravitational-wave visualizer and a live spectrogram that tracks waveform and sound changes. As Barba's first public release, the project bridges astrophysics and sound design while encouraging community feedback for future development.</p>
+<p>Nov 13 · <a href="https://www.kvraudio.com/news/cosmicsynth-releases-cosmicsynth---free-vst3-synthesizer-that-turns-gravitational-wave-physics-into-music-69786?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69786">kvraudio.com</a> | <a href="https://github.com/barkael327-a11y/cosmicsynth">github.com</a></p>
+<br clear="all" />
+
 <h2>SampleScience Releases Hush Piano Virtual Instrument</h2>
 <a name="story-27397"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsamplescience_hush_piano_overlay_website_hero_image.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SampleScience has released Hush Piano, a felt piano sample library tailored for lo-fi, cinematic, ambient, and boom bap music production. The lightweight acoustic piano instrument is offered in multiple plugin and sampler formats, including VST, VST3, AU, Kontakt, Decent Sampler, Soundbox, and SFZ.</p><p>The virtual instrument is designed to deliver an intimate, warm, and nostalgic tone suitable for various DAW workflows. It is priced at $30 USD and is compatible with both Windows and macOS operating systems.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27271"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHaloplane-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>KOMA Elektronik and Passepartout Duo have unveiled the Haloplane, a compact micro-loop sampler and wavetable synthesizer that uses electromagnetic fields for sound manipulation. Users control the audio by moving electromagnetic pickups across the device's frame to alter sound or create complex sequences.</p><p>The hardware includes a built-in microphone, line-in, a speaker, and Wi-Fi connectivity, with a companion app available for parameter control. It also features built-in wavetables and supports an optional Doppeldisk pickup for expanded sound capabilities. Pre-orders are currently available through a tiered pricing model, with shipping expected in early 2027.</p>
 <p>Nov 12 · <a href="https://musictech.com/news/gear/haloplane/">musictech.com</a> | <a href="https://chromaplane.co/haloplane">chromaplane.co</a></p>
-<br clear="all" />
-
-<h2>Yamaha Releases Vocaloid7</h2>
-<a name="story-27266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvocaloid7-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Vocaloid7, the first major update to Yamaha's vocal synthesis software in four years, features an enhanced Vocaloid:AI engine for more natural expression. The update also introduces a "Voice Type" feature, allowing users to switch between different vocal characteristics within a single Voice Bank.</p><p>The software includes the "asa" voicebank and offers enhanced integration with Cubase, enabling note and lyric input directly within the Cubase Key Editor. It is available for macOS and Windows in standalone, VST3, AU, and ARA2 formats, with upgrade paths available for users of Vocaloid3 through Vocaloid6.</p>
-<p>Nov 12 · <a href="https://www.kvraudio.com/news/yamaha-releases-vocaloid7-69778?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69778">kvraudio.com</a> | <a href="https://www.vocaloid.com/en">vocaloid.com</a></p>
 <br clear="all" />
 
 ---
