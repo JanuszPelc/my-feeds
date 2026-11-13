@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-12T19:32:00+00:00</updated>
+  <updated>2026-11-13T10:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Rebecca Sear Examines Scientific Flaws of Race Realism</title>
+    <link href="https://theconversation.com/race-realism-why-scientifically-flawed-approach-fails-to-present-a-realistic-view-of-race-290392" rel="alternate" />
+    <id>https://theconversation.com/race-realism-why-scientifically-flawed-approach-fails-to-present-a-realistic-view-of-race-290392::v240</id>
+    <published>2026-11-13T10:18:00+00:00</published>
+    <updated>2026-11-13T10:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fn4stqzz9la351.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D8e1b985ee2faf18c122d506239011e8c09f72c08&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/race-realism-why-scientifically-flawed-approach-fails-to-present-a-realistic-view-of-race-290392">theconversation.com</a></small></p><hr/><p>Psychologist Rebecca Sear examines the re-emergence of "race realism" and hereditarian narratives in Western politics and academic spaces, arguing that claims about innate intellectual inferiority across racial groups lack scientific validity. She details how contemporary proponents rely on methodologically compromised datasets, such as the flawed national IQ database, while ignoring extensive consensus in genetics, evolutionary biology, and anthropology regarding human variation.</p><p>Drawing on historical context from early 20th-century eugenics and the modern funding streams supporting pseudoscientific networks, Sear highlights how these flawed narratives are weaponized to fuel far-right propaganda and oppose structural reforms. Mainstream evolutionary science demonstrates that human genetic variation is distributed predominantly within populations rather than neatly categorized races, rendering biological hierarchies entirely baseless.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fn4stqzz9la351.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D8e1b985ee2faf18c122d506239011e8c09f72c08&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 15:27 UTC | #27400</small>]]></content>
+  </entry>
   <entry>
     <title>CERN's Future Circular Collider Could Explain How Electrons Acquire Mass</title>
     <link href="https://theconversation.com/new-physics-machine-at-cern-could-unlock-the-secrets-of-the-electron-295137" rel="alternate" />
