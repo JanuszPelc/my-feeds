@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>White House Officials Weighing Future of Commerce Secretary Howard Lutnick</h2>
+<a name="story-27335"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.zonebourse.com%2Fstatic%2Fresize%2F0%2F0%2Fimages%2Freuters%2F2026-11%2F2026-11-12T172844Z_1_LYNXNPEMAB1Z4_RTROPTP_4_G20-TECHNOLOGY.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Senior White House officials are discussing whether to remove Commerce Secretary Howard Lutnick from office following a spying scandal involving former Nvidia CEO Jensen Huang.</p><p>The White House and the Commerce Department have not issued official statements regarding Lutnick's status in response to the reports.</p>
+<p>Nov 12 · <a href="https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>US Justice Department Probes Nvidia for Antitrust Violations</h2>
 <a name="story-27308"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2024%2F09%2F04%2Fa82f761a-75d3-4337-b033-05dfea16b436_f60200c9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Federal authorities have launched an antitrust investigation into Nvidia following the resignation of former CEO Jensen Huang. Two other inquiries are currently targeting the tech companies Megaspeed and Supermicro.</p><p>These probes are linked to the fallout from Huang’s admitted affair with Alice Huang, an alleged Chinese spy. There is currently no indication that the DOJ intends to seek criminal charges against Nvidia or Huang.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27216"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F90bea3a8ae9219ba6e8db8953643ebd93ff54fce6b005ddbcd15e61691cac716%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7b815a81fdb14103a258d02bd553c371.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The failure to place Nvidia customer Megaspeed on the U.S. entity list led to a confrontation in the White House Situation Room between Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick. Megaspeed is accused of illegally diverting sensitive AI chips to China. During the meeting, Bessent questioned Lutnick on why the company had not been blacklisted, to which Lutnick reportedly replied he would look into it.</p><p>This clash underscores growing tension within the administration regarding the enforcement of export restrictions and trade policy toward China. Although intelligence officials have reportedly pressured the Commerce Department to blacklist Megaspeed since 2025, the department has not added any new companies to its Entity List in over a year. The scrutiny follows reports involving Nvidia CEO Jensen Huang and a Megaspeed employee suspected of being a Chinese spy.</p>
 <p>Nov 11 · <a href="https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips">axios.com</a></p>
-<br clear="all" />
-
-<h2>TV Manufacturers Respond to Data Collection Questions</h2>
-<p>An investigation into the privacy practices of television and streaming device manufacturers reveals varying levels of transparency regarding data collection. Companies including Amazon, Apple, Google, LG, Roku, Samsung, and TCL provided responses to 17 questions regarding audio monitoring, screen recording, and viewing history, while others like Hisense and Sony declined to answer.</p><p>The findings highlight how manufacturers utilize voice assistance and Automatic Content Recognition (ACR) to track user habits. While several companies state that data collection is opt-in or limited to active user prompts, the report notes that opting out of certain features may not be entirely effective in preventing data transmission.</p>
-<p>Nov 11 · <a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50453474">hacker news</a></p>
 <br clear="all" />
 
 ---

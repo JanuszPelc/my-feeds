@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-12T18:07:00+00:00</updated>
+  <updated>2026-11-12T20:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>White House Officials Weighing Future of Commerce Secretary Howard Lutnick</title>
+    <link href="https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/::v240</id>
+    <published>2026-11-12T20:50:00+00:00</published>
+    <updated>2026-11-12T20:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.zonebourse.com%2Fstatic%2Fresize%2F0%2F0%2Fimages%2Freuters%2F2026-11%2F2026-11-12T172844Z_1_LYNXNPEMAB1Z4_RTROPTP_4_G20-TECHNOLOGY.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/">reuters.com</a></small></p><hr/><p>Senior White House officials are discussing whether to remove Commerce Secretary Howard Lutnick from office following a spying scandal involving former Nvidia CEO Jensen Huang.</p><p>The White House and the Commerce Department have not issued official statements regarding Lutnick's status in response to the reports.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.zonebourse.com%2Fstatic%2Fresize%2F0%2F0%2Fimages%2Freuters%2F2026-11%2F2026-11-12T172844Z_1_LYNXNPEMAB1Z4_RTROPTP_4_G20-TECHNOLOGY.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 02:23 UTC | #27335</small>]]></content>
+  </entry>
   <entry>
     <title>US Justice Department Probes Nvidia for Antitrust Violations</title>
     <link href="https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia" rel="alternate" />
