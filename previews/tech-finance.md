@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Kalshi in Talks for New Funding at $65 Billion Valuation</h2>
+<a name="story-27354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F13702811%2Fpexels-photo-13702811.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-dtanque-13702811.jpg%26fm%3Djpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kalshi is in talks to raise new funding at a $65 billion valuation. This follows a funding round finalized weeks ago that valued the prediction marketplace at $40 billion.</p><p>The company's annual run rate has recently surpassed $5 billion.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation">bloomberg.com</a></p>
+<br clear="all" />
+
+<h2>Cerebras Systems Reports Q3 Revenue Beat and New Microsoft Deal</h2>
+<a name="story-27347"><img src="https://wsrv.nl/?url=https%3A%2F%2Fswotstock.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fmicrosoft-q3-fy2026-earnings-ai-cloud-analysis.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cerebras Systems reported third-quarter core revenue of $230.9 million, surpassing analyst expectations of $214.7 million. The company's stock rose 18% in extended trading following the report and the announcement of a new Microsoft deal, which CEO Andrew Feldman expects to impact revenue in the first quarter of 2027.</p><p>Core revenue grew 70% from $135.7 million. Competing with Nvidia in the AI chip market, Cerebras projected fourth-quarter revenue between $310 million and $330 million and expects total 2027 revenue to triple to approximately $2.85 billion.</p>
+<p>Nov 12 · <a href="https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026">investors.cerebras.ai</a></p>
+<br clear="all" />
+
 <h2>SpaceX and Tesla Progress in Merger Negotiations</h2>
 <a name="story-27343"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhermes.media.static.aol.com%2Fmedia%2F2026%2F11%2F04%2Fdf6d1bc2-1ae4-3b59-83ab-c1c9d38954f3%2F54dd109e-a2ba-4e8d-9ac9-72b24c56288c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SpaceX and Tesla Inc. are advancing negotiations for a corporate combination, which could lead to an announcement as early as December or in early 2027. Boards and advisers are currently working through the terms and governance structure.</p><p>Special committees of independent directors have been formed to facilitate the discussions. Significant hurdles to the deal include securing regulatory approvals and managing the intersection of Tesla's operations in China and SpaceX's U.S. defense ties.</p>
@@ -82,18 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27222"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering, potentially as early as next week. The AI computing supplier expects the loan to yield between 7% and 7.5%, which is approximately half the yield of its existing junk bonds.</p><p>The financing is intended to support the company's growth. Moving to investment-grade debt could significantly reduce CoreWeave's cost of capital compared to its previous high-yield debt issuances.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>OKXICE Plans US Tokenized Stock Venue Launch Amid Corporate Backlash</h2>
-<a name="story-27212"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.staticimg.com%2Fcms%2Fmedia%2FrNEr8eW6aBKal85AoG8ItHMfMFoe4bjCMFmeZIJeq.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Scheduled for launch on November 23, the OKX and ICE joint venture OKXICE intends to list over 70 assets on a new US tokenized stock venue. The project faces significant opposition, as 56 of the 62 companies targeted for tokenized trading have expressed objections.</p><p>This expansion represents an effort by crypto-industry players to capture a share of the US stock market. The push for tokenized equity trading continues despite active pushback from many of the corporate entities whose shares are being targeted.</p>
-<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/crypto-s-bid-to-shake-up-stock-trading-revs-up-despite-backlash">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Applied Intuition in Talks to Raise $1.5 Billion at $30 Billion Valuation</h2>
-<a name="story-27189"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent-media.pamedia.io%2Fpress-release%2Fpicture%2F2024%2F03%2F12%2F01HRRQZ7RNBTJVNX9YEDXF9253.jpg%3Ffix%3Dbounds%26w%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Applied Intuition, a developer of simulation and testing software for autonomous vehicles and defense applications, is in talks to raise at least $1.5 billion. The funding round is led by General Catalyst and targets a pre-money valuation of approximately $30 billion.</p><p>This potential investment would nearly double the company's valuation from its June 2025 funding round of $15 billion. The company provides autonomy and testing solutions for both commercial and defense sectors.</p>
-<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
