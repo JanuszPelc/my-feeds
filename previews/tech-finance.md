@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>SpaceX and Tesla Progress in Merger Negotiations</h2>
+<a name="story-27343"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhermes.media.static.aol.com%2Fmedia%2F2026%2F11%2F04%2Fdf6d1bc2-1ae4-3b59-83ab-c1c9d38954f3%2F54dd109e-a2ba-4e8d-9ac9-72b24c56288c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SpaceX and Tesla Inc. are advancing negotiations for a corporate combination, which could lead to an announcement as early as December or in early 2027. Boards and advisers are currently working through the terms and governance structure.</p><p>Special committees of independent directors have been formed to facilitate the discussions. Significant hurdles to the deal include securing regulatory approvals and managing the intersection of Tesla's operations in China and SpaceX's U.S. defense ties.</p>
+<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Kalshi Terminates Advisory Contract With Donald Trump Jr.</h2>
 <a name="story-27333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bonus.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fdonald-trump-jr-kalshi-partnership.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The prediction markets startup Kalshi has terminated its advisory agreement with Donald Trump Jr. The decision follows an increased stake in rival platform Polymarket by Trump's venture capital firm, 1789 Capital.</p><p>Trump Jr. had served as a strategic advisor to Kalshi since January 2025. The move addresses the conflict of interest created by his firm's investment in a direct competitor.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27189"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent-media.pamedia.io%2Fpress-release%2Fpicture%2F2024%2F03%2F12%2F01HRRQZ7RNBTJVNX9YEDXF9253.jpg%3Ffix%3Dbounds%26w%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Applied Intuition, a developer of simulation and testing software for autonomous vehicles and defense applications, is in talks to raise at least $1.5 billion. The funding round is led by General Catalyst and targets a pre-money valuation of approximately $30 billion.</p><p>This potential investment would nearly double the company's valuation from its June 2025 funding round of $15 billion. The company provides autonomy and testing solutions for both commercial and defense sectors.</p>
 <p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Imprint Raises $130 Million at $1.88 Billion Valuation</h2>
-<a name="story-27184"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21RN6C%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa4bcb6bf-6b68-4c36-91ef-7ac1d2d26308_3225x2150.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Imprint, a fintech provider of co-branded credit cards, has raised $130 million in new funding at an $1.88 billion valuation. The funding round included new investor Positive Sum, alongside existing backers Ribbit, Thrive, Kleiner Perkins, and Khosla Ventures.</p><p>The company has grown its cardholder base to over two million and serves clients including Albertsons, Kroger, Shell, and Fanatics. Imprint projects approximately $400 million in GAAP revenue by the end of the year, representing a 150% increase.</p>
-<p>Nov 11 · <a href="https://www.upstartsmedia.com/p/fintech-imprint-raises-130m">upstartsmedia.com</a></p>
 <br clear="all" />
 
 ---
