@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta and TikTok Payouts in Teen Social Media Addiction Lawsuits Revealed</h2>
+<a name="story-27370"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcapwolf.com%2Fwp-content%2Fuploads%2F2026%2F01%2Ftiktok-settles-addiction-lawsuit-as-meta-youtube-trial-begins.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Social media companies resolving youth addiction lawsuits have structured confidential settlements primarily ranging from $2 million to $2.5 million per case. Among recent agreements, Meta reportedly agreed to pay a combined $7 million to two teenage plaintiffs within a two-week span.</p><p>These payouts highlight the financial exposure technology platforms face amid ongoing legal battles concerning youth mental health and compulsive usage. The figures offer a rare look at the private financial terms negotiated to resolve personal injury claims before reaching broader verdicts.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/meta-tiktok-payouts-reveal-cost-to-settle-social-media-addiction-suits?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDQ5NDY3NywiZXhwIjoxNzk1MDk5NDc3LCJhcnRpY2xlSWQiOiJUT0RaWVJOM04wOFkwMCIsImJjb25uZWN0SWQiOiJGMUM1Mzc1OEY5Qjg0MDZCOUJCNzMyODRDN0RBMEY3QyJ9.4tia1CTneZiW-6G5iOy_g23fLQCzCJe5cB43KjkJaow">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>ByteDance Plans $6 Billion Share Buyback at $400 Billion Valuation</h2>
 <a name="story-27367"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbrandsownedby.com%2Fwp-content%2Fuploads%2F2025%2F06%2FWho-Owns-ByteDance-Largest-Shareholders-1024x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ByteDance is planning to buy back up to $6 billion worth of shares from existing investors at a valuation of approximately $400 billion. The proposed repurchase program was disclosed in a recent letter sent to shareholders.</p><p>This valuation represents a 20% increase compared to the company's previous share buyback conducted a year prior. ByteDance, the Chinese parent company of TikTok, utilizes periodic buybacks to provide liquidity options for its private investors.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27332"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1253471-85e2-47ae-a3dc-c0749ceb5fde_2816x1584.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Data from the GDC Festival of Gaming State of the Game Industry report indicates that 40 percent of surveyed industry professionals use generative AI in the workplace, with 73 percent of those users relying on the technology primarily for research and brainstorming.</p><p>While 56 percent of AI-using developers employ it for code generation and debugging, only six percent utilize it to create player-facing content, reflecting ongoing industry caution and widespread concerns regarding copyright, environmental impacts, and overall game quality.</p>
 <p>Nov 12 · <a href="https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-">gamedeveloper.com</a></p>
-<br clear="all" />
-
-<h2>Pony Ma to Allocate Half of Tencent Workforce to AI-Native Businesses</h2>
-<a name="story-27261"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZuvmdg1I3J4%2Fv0%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tencent founder Pony Ma announced in an annual speech his intention to deploy half of the company's 100,000-strong workforce to AI-native business segments. This strategic reallocation aims to prioritize artificial intelligence development across the conglomerate's diverse operations.</p><p>The move represents a major pivot for the Chinese technology giant as it seeks to integrate AI-native capabilities into its core business units. This shift is intended to strengthen the company's position within the rapidly evolving AI-driven economy.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
