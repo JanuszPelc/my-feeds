@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>SpaceX Plans $74 Billion Investment for Data Centers in Texas and Arizona</h2>
+<a name="story-27350"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F12biz-spacex-datacenters-jpcb%2F12biz-spacex-datacenters-jpcb-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The company intends to spend $74 billion on new data center campuses in Arizona and Texas to bolster its artificial intelligence business. The $24 billion Texas site near the Starbase rocket facility is intended to generate its own power, while the $50 billion Arizona project in Cochise County is expected to create 5,500 construction and 1,000 permanent jobs.</p><p>This expansion supports a growing revenue stream from leasing computing power to companies like Google and Anthropic. SpaceX's A.I. division, xAI, already operates four data centers in Tennessee and Mississippi, and the company has significantly increased capital expenditures to fund the necessary hardware and chips.</p>
+<p>Nov 12 · <a href="https://www.nytimes.com/2026/11/12/business/spacex-data-center.html">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Whoop Launches Whoop Humans Social Network</h2>
 <a name="story-27310"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F03%2FScreenshot-2026-03-31-at-8.39.34-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Whoop has launched "Whoop Humans," a social network within its app that enables members to follow friends and family and share health data. Available to all membership tiers at no extra cost, the opt-in feature allows users to share specific metrics like sleep, recovery, and workouts.</p><p>The platform aims for more personal connections than the company's existing "Teams" feature, offering privacy controls such as "stealth mode" and selective metric sharing. This expansion aligns with Whoop's strategic focus on medical wellness and an increasing demographic of users over 60.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27190"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.ahmedabadmirror.com%2Fam%2Fuploads%2FmediaGallery%2Fimage%2F1654765605199.jpg-org&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Santosh Janardhan, Meta's head of infrastructure and co-head of engineering, plans to depart the company in early 2027. Dave Brown is slated to succeed him.</p><p>This leadership transition arrives as Meta continues its ongoing developments in infrastructure and engineering.</p>
 <p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50456964">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic IPO Receives Multiple Times the Available Orders</h2>
-<a name="story-27163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA22rBzq.img%3Fw%3D768%26h%3D576%26m%3D6%26x%3D498%26y%3D393%26s%3D316%26d%3D55&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic's initial public offering has drawn demand exceeding the available shares by multiple times, according to sources familiar with the matter. CEO Dario Amodei and JPMorgan CEO Jamie Dimon are scheduled to participate in a livestream event this Friday.</p><p>The significant interest in the IPO follows reports that the company is targeting a valuation of over $1 trillion. The upcoming appearance by Amodei and Dimon is expected to highlight the role of artificial intelligence within the financial sector.</p>
-<p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
