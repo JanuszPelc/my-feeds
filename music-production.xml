@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-12T20:49:00+00:00</updated>
+  <updated>2026-11-13T02:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>SampleScience Releases Hush Piano Virtual Instrument</title>
+    <link href="https://www.kvraudio.com/news/samplescience-releases-hush-piano-69784?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69784" rel="alternate" />
+    <id>https://www.kvraudio.com/news/samplescience-releases-hush-piano-69784?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69784::v240</id>
+    <published>2026-11-13T02:17:00+00:00</published>
+    <updated>2026-11-13T02:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsamplescience_hush_piano_overlay_website_hero_image.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/samplescience-releases-hush-piano-69784?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69784">kvraudio.com</a> | <a href="https://www.samplescience.info/2026/11/hush-piano.html">samplescience.info</a></small></p><hr/><p>SampleScience has released Hush Piano, a felt piano sample library tailored for lo-fi, cinematic, ambient, and boom bap music production. The lightweight acoustic piano instrument is offered in multiple plugin and sampler formats, including VST, VST3, AU, Kontakt, Decent Sampler, Soundbox, and SFZ.</p><p>The virtual instrument is designed to deliver an intimate, warm, and nostalgic tone suitable for various DAW workflows. It is priced at $30 USD and is compatible with both Windows and macOS operating systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsamplescience_hush_piano_overlay_website_hero_image.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 10:16 UTC | #27397</small>]]></content>
+  </entry>
   <entry>
     <title>Universal Audio Releases Native Cooper Time Cube Delay for macOS and Windows</title>
     <link href="https://www.kvraudio.com/news/universal-audio-releases-native-cooper-time-cube-delay-for-macos-and-windows-69788?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69788" rel="alternate" />

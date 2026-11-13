@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Senate Banking Chair Tim Scott Summons Jensen Huang and Howard Lutnick to Testify Over Nvidia Saga</h2>
+<a name="story-27366"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdnyuz.com%2Fwp-content%2Fuploads%2F2026%2F11%2F6af2104980d4b24f18347a19.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Senate Banking Chair Tim Scott has called on Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify at separate December hearings regarding the ongoing Nvidia controversy. Commerce Secretary Lutnick has already agreed to appear before the panel.</p><p>The hearings are expected to focus on export controls, corporate leadership, and related policy issues surrounding the tech giant. Lawmakers aim to scrutinize key figures involved in the unfolding legislative inquiry.</p>
+<p>Nov 13 · <a href="https://www.politico.com/live-updates/2026/11/12/congress/tim-scott-summons-jensen-huang-howard-lutnick-to-testify-over-nvidia-saga-01164124">politico.com</a></p>
+<br clear="all" />
+
 <h2>Trump Urged Nvidia CEO Jensen Huang to Fight for Job Amid Scandal</h2>
 <a name="story-27361"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F13%2Fmultimedia%2F13DC-TRUMP-HUANG-fwzc%2F13DC-TRUMP-HUANG-fwzc-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump telephoned Nvidia Chief Executive Jensen Huang to encourage him to fight for his position shortly before Huang resigned amid a federal intelligence investigation. U.S. intelligence agencies had previously concluded that Huang was involved in an extramarital affair with a Chinese citizen suspected of being a spy for China's Ministry of State Security.</p><p>Despite receiving multiple warnings from intelligence officials regarding the relationship over the past year, Trump took no action and previously included Huang on an official presidential trip to China. Following Huang's resignation, Trump publicly praised the executive on social media, describing him as a legend.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27234"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1PHWe8.img%3Fw%3D768%26h%3D432%26m%3D6%26x%3D550%26y%3D209%26s%3D147%26d%3D147&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Some Trump administration officials raised concerns regarding Nvidia CEO Jensen Huang's lobbying efforts to permit increased semiconductor sales to China, even prior to revelations regarding his affair with Alice Huang. U.S. officials have repeatedly scrutinized Huang's close relationship with the president and his stance on trade with China.</p><p>The controversy highlights ongoing tensions within the administration regarding technology export controls and national security interests. As Nvidia navigates regulatory scrutiny, these developments underscore the complex intersection of corporate lobbying, executive influence, and geopolitical policy involving major tech executives.</p>
 <p>Nov 12 · <a href="https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?st=epsgoa&reflink=article_copyURL_share">wsj.com</a></p>
-<br clear="all" />
-
-<h2>U.S. Commerce Department Finalizing Rule to Prevent Remote Access to AI Chips by China</h2>
-<a name="story-27231"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%213mK7%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa29358b6-ad58-480c-a23e-4cfab2f68fe6_6016x4016.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Commerce Department is finalizing a regulation that would prevent Chinese artificial intelligence companies from accessing advanced semiconductors through remote connections. The rule aims to close loopholes that allow restricted entities to bypass existing export controls by utilizing computing power in data centers or through chip smuggling.</p><p>This measure targets the use of distributed computing as a method to circumvent semiconductor restrictions. By addressing remote access, the government intends to tighten control over the high-performance hardware required for advanced AI development in China.</p>
-<p>Nov 12 · <a href="https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule">theinformation.com</a></p>
 <br clear="all" />
 
 ---

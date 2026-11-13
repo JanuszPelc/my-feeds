@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>SampleScience Releases Hush Piano Virtual Instrument</h2>
+<a name="story-27397"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsamplescience_hush_piano_overlay_website_hero_image.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SampleScience has released Hush Piano, a felt piano sample library tailored for lo-fi, cinematic, ambient, and boom bap music production. The lightweight acoustic piano instrument is offered in multiple plugin and sampler formats, including VST, VST3, AU, Kontakt, Decent Sampler, Soundbox, and SFZ.</p><p>The virtual instrument is designed to deliver an intimate, warm, and nostalgic tone suitable for various DAW workflows. It is priced at $30 USD and is compatible with both Windows and macOS operating systems.</p>
+<p>Nov 13 · <a href="https://www.kvraudio.com/news/samplescience-releases-hush-piano-69784?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69784">kvraudio.com</a> | <a href="https://www.samplescience.info/2026/11/hush-piano.html">samplescience.info</a></p>
+<br clear="all" />
+
 <h2>Universal Audio Releases Native Cooper Time Cube Delay for macOS and Windows</h2>
 <a name="story-27339"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcooper_time_cube_gallery_1_2x_82f234fc-aaf4-45ef-b430-126eda741597.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Universal Audio has released the native Cooper Time Cube Delay for macOS and Windows, which can be used without Universal Audio hardware. The plug-in recreates the 1971 design by Bill Putnam Sr. and Duane H. Cooper.</p><p>The software includes two independently adjustable delay lines with tempo sync for doubling, slapback echo, and stereo widening. Users can shape the tone via treble, bass, color, and high-pass filter controls. It is available at an introductory price of $49 USD and is included in the UAD Spark Studio subscription.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvocaloid7-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vocaloid7, the first major update to Yamaha's vocal synthesis software in four years, features an enhanced Vocaloid:AI engine for more natural expression. The update also introduces a "Voice Type" feature, allowing users to switch between different vocal characteristics within a single Voice Bank.</p><p>The software includes the "asa" voicebank and offers enhanced integration with Cubase, enabling note and lyric input directly within the Cubase Key Editor. It is available for macOS and Windows in standalone, VST3, AU, and ARA2 formats, with upgrade paths available for users of Vocaloid3 through Vocaloid6.</p>
 <p>Nov 12 · <a href="https://www.kvraudio.com/news/yamaha-releases-vocaloid7-69778?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69778">kvraudio.com</a> | <a href="https://www.vocaloid.com/en">vocaloid.com</a></p>
-<br clear="all" />
-
-<h2>Drops Music-Sharing App Enters Preview on iOS and Android</h2>
-<a name="story-27257"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDrops-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Drops is a music-sharing application designed to facilitate the sharing of 30-second song snippets paired with visual content. Developed by HARMAN, the platform utilizes a vast music library through licensing agreements with Universal Music Group, Beggars Group, Symphonic Distribution, EMPIRE, and UnitedMasters.</p><p>The app focuses on social discovery, allowing users to follow others and view feeds of human-curated music recommendations. It is currently available in preview mode on both iOS and Android platforms.</p>
-<p>Nov 12 · <a href="https://musictech.com/news/music/drops-app/">musictech.com</a> | <a href="https://www.gotdrops.com/">gotdrops.com</a></p>
 <br clear="all" />
 
 ---
