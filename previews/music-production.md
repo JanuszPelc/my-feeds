@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Audio Plugin Deals Offers Free Black Friday Mega Bundle</h2>
+<a name="story-27427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fauditory1.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fapd-free-black-friday-kontakt-wav-bundle.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audio Plugin Deals is offering a free Black Friday Mega Bundle consisting of 17 plugins, virtual instruments, and sound packs until November 26, 2026. The bundle features a mix of audio effects, synth presets, and sample libraries from various developers with an advertised value of over $700.</p><p>Included items feature Minimal Audio's Hybrid Filter, Chilli tape saturation, Crickets Audio's Strata Prime spectrum analyzer, and several sample packs for vocals and guitars. Claiming the bundle requires completing a zero-dollar checkout on the Audio Plugin Deals website and setting up individual free accounts with the respective developers to access codes and installers.</p>
+<p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/audio-plugin-deals-black-friday/">bedroomproducersblog.com</a> | <a href="https://audioplugin.deals/product/free-black-friday-mega-bundle/?ref=176">audioplugin.deals</a></p>
+<br clear="all" />
+
+<h2>StereoGhost Releases PhaseKicker Kick-Bass Phase Alignment Plugin</h2>
+<a name="story-27428"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fbo66PQj3cDY%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>StereoGhost has released PhaseKicker, an audio plugin designed to automatically adjust the phase relationship between a kick drum and bass track on every individual hit. Developed by Swiss duo Gregor and Joachim Budweiser, the tool aims to prevent low-frequency cancellation by rechecking and aligning the bass phase with each triggered kick.</p><p>PhaseKicker operates via sidechain input, requiring users to set a detection threshold and an optimization point within the waveform display. The plugin introduces processing latency and is intended for mixing rather than live tracking. It is available in VST3, AAX, and AU formats for Windows and macOS, alongside a Linux VST3 version, and is currently offered at an introductory rate of $35 until November 30, 2026.</p>
+<p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/stereoghost-releases-phasekicker-an-automatic-kick-bass-phase-alignment-plugin/">bedroomproducersblog.com</a> | <a href="https://stereoghost.ch/phasekicker">stereoghost.ch</a></p>
+<br clear="all" />
+
 <h2>W. A. Production Releases Modulo Multi-FX Plugin</h2>
 <a name="story-27424"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmodulo_1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>W. A. Production has released Modulo, a sequencer-driven multi-effects plugin for macOS and Windows designed to transform audio into rhythmic patterns and textures. The software features ten independent effect lanes, hot-swappable effect routing, and the ability to chain or stack up to eight effect racks simultaneously.</p><p>Included effects comprise trance gates, filters, phasers, repeaters, spatial processors, comb filters, wavefolders, pitch shifters, and time benders. The plugin also provides global and individual randomization controls with density adjustment, flexible playback modes, and a preset manager. It is available in VST3, AU, and AAX formats, with an introductory price offered until December 3, 2026.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27319"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnZ888qIbsmI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A2D Sound has released Atrium, a spatial mixing plugin that allows producers to position individual tracks in width, depth, and height while delivering a finished mix in standard stereo. Operating with regular monitors and headphones without requiring a multi-speaker surround setup, the plugin features visual 3D positioning interfaces, adjustable wall materials, and pre-configured room and seating presets.</p><p>The plugin is available for $69 as part of a launch promotion, down from its regular $149 price, and includes a seven-day trial version. Atrium runs on 64-bit Windows and macOS systems in VST3, AU, and AAX formats, requiring an active A2D Sound account and online authorization for license management across up to three computers.</p>
 <p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/a2d-atrium/">bedroomproducersblog.com</a> | <a href="https://a2dsound.com/atrium">a2dsound.com</a></p>
-<br clear="all" />
-
-<h2>Freakshow Industries Releases Dicksmasher Distortion Plugin</h2>
-<a name="story-27320"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.pluginplug.net%2Fproduct%2F3930_small%402x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Freakshow Industries has released Dicksmasher, a weaponized distortion audio plugin available in AU, VST, VST3, and AAX formats for macOS and Windows. The software features multiple character-specific sound-mangling cartridges designed to push audio signals into extreme distortion.</p><p>The release follows a whimsical marketing campaign built around fictional lore involving a reclusive transistor inventor. Users can acquire the plugin through the developer's unconventional free download option or purchase it for $70.</p>
-<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/freakshow-industries-dicksmasher/">bedroomproducersblog.com</a> | <a href="https://freakshowindustries.com/dicksmasher">freakshowindustries.com</a></p>
-<br clear="all" />
-
-<h2>Digital Audio Workstation Cost Models and Subscription Trends Examined</h2>
-<a name="story-27297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFender-Studio-Pro-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The music technology industry has experienced a significant shift in digital audio workstation (DAW) pricing, as corporate acquisitions and venture capital influence drive platforms toward subscription funnels and tiered licensing models. While traditional perpetual licenses offered permanent ownership, modern cost structures often position perpetual versions as middle-tier options behind feature-gated subscriptions.</p><p>Examining industry practices across major brands such as Fender, LANDR, Steinberg, and Avid highlights a growing tension between corporate profitability goals and user community loyalty. Although subscription models provide stable revenue for ongoing product development, they risk alienating independent creators and freelancers, prompting many users to seek alternative platforms with more transparent and flexible pricing.</p>
-<p>Nov 12 · <a href="https://musictech.com/features/interviews/daw-cost-model/">musictech.com</a></p>
 <br clear="all" />
 
 ---
