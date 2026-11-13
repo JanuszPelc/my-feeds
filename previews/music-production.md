@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>AdHd Audio Tools Updates Leveling Tool to v1.4.1 with Apple Silicon Support</h2>
+<a name="story-27357"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fleveling-tool-141.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AdHd Audio Tools' Leveling Tool has been updated to version 1.4.1, adding native Apple Silicon support. The update provides universal binaries that work on both Apple Silicon and Intel-based macOS systems.</p><p>The tool is available as donationware and can be downloaded from the AdHd Audio Tools website. This update ensures better performance and compatibility for users on modern Mac hardware.</p>
+<p>Nov 12 · <a href="https://www.kvraudio.com/news/adhd-audio-tools-updates-leveling-tool-to-v1-4-1---apple-silicon-support-69780?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69780">kvraudio.com</a> | <a href="https://audiotools.se/downloads/leveling-tool/">audiotools.se</a></p>
+<br clear="all" />
+
 <h2>Sonura Flow Enables Audio Generation from Text Prompts</h2>
 <a name="story-27321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSonura-Flow-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonura Flow is a free plugin that allows producers to generate loops, one-shots, vocals, and effects from text prompts within a DAW. Users can select sound categories like drums, bass, or melody, specify loop lengths, and choose from multiple generated variations before dragging the audio into their timeline.</p><p>The free tier provides 10 loops, 20 one-shots/effects, and four full tracks per day without a time limit or credit card requirement. Audio generated under this plan is released under a CC0 license, permitting use in musical releases without attribution or licensing restrictions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27252"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-at-08-24-30-compressed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MB Big Biznis has released qkit, a live-looping plugin for macOS and Windows available in AU and VST3 formats. The software continuously listens to audio input, allowing users to capture recent performances retroactively or arm new takes that lock directly to a DAW's beat.</p><p>qkit supports up to 32 simultaneous loops per instance with individual controls for feedback, overdub layers, and routing across eight auxiliary outputs. Designed for both studio and stage use, the plugin features zero-latency processing, MIDI and OSC control mapping, Ableton Link integration, and time-stretching or varispeed pitch tracking.</p>
 <p>Nov 12 · <a href="https://www.kvraudio.com/news/mb-big-biznis-releases-qkit---always-recording-looper-plugin-au-and-vst3-69772?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69772">kvraudio.com</a> | <a href="https://qkitlabs.com/qkit">qkitlabs.com</a></p>
-<br clear="all" />
-
-<h2>Arvital Audio Updates AudioRoute to Version 1.2.13</h2>
-<a name="story-27251"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-plugin-logic-source.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Arvital Audio has released version 1.2.13 of AudioRoute, its system audio capture tool for macOS and Windows. The update introduces a redesigned take-management system where recorded audio clips are retained in a session list beneath the waveform, preventing automatic deletion and allowing users to drag multiple takes into their digital audio workstation.</p><p>Additional improvements rolled out across recent minor updates include automatic tempo and key detection for recordings longer than six seconds, clearer guidance for plug-in modes, and more resilient handling of audio device reconnections and sample rate changes. AudioRoute is available as a free update for existing users, priced at 39 euros for new licenses, and supports VST3, AU, and AAX formats.</p>
-<p>Nov 12 · <a href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-13-69765?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69765">kvraudio.com</a> | <a href="https://audio-route.com/">audio-route.com</a></p>
 <br clear="all" />
 
 ---
