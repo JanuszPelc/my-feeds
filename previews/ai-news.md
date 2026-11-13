@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>LibreAGI Verified Open-Source AI Model Catalog and Platform</h2>
+<a name="story-27385"><img src="https://wsrv.nl/?url=https%3A%2F%2Fagenticera.fyi%2Fwp-content%2Fuploads%2F2026%2F04%2Fc25fdd1e-e589-4576-bf32-6668677a0d57-1-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>LibreAGI is an open-source AI platform that hosts a curated catalog of machine learning models in formats such as safetensors, GGUF, and ONNX. Distributed under permissive licenses including Apache-2.0, MIT, and the Qwen Community License, the platform provides verified access to foundational AI weights.</p><p>Every hosted file is checked against its original source commit and undergoes staff review to ensure integrity. The platform also maintains a signed public catalog file that enables users to independently rebuild model swarms if the primary infrastructure becomes unavailable, with community coordination managed through an IRC channel.</p>
+<p>Nov 13 · <a href="https://libreagi.com/">libreagi.com</a> | <a href="https://lobste.rs/s/7c4iar/libreagi_save_os_models">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50467439">hacker news</a></p>
+<br clear="all" />
+
 <h2>Chinese AI Models Show Fingerprints of NVIDIA Blackwell GPUs</h2>
 <a name="story-27352"><img src="https://wsrv.nl/?url=https%3A%2F%2Funemploymentlabs.com%2Fcheckpoint-forensics%2Fimg%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Forensic analysis of publicly released AI models from DeepSeek, Moonshot AI, MiniMax, and Ant Group reveals numerical fingerprints matching NVIDIA’s export-controlled Blackwell GPUs. Six models released since April 2026 exhibit patterns specific to Blackwell-class hardware, such as the B200, B300, GB200, and GB300, whereas earlier models from these developers match the older Hopper generation.</p><p>The research identifies these patterns by analyzing the arrangement of initial weights generated via the Philox pseudorandom number generator in the PyTorch framework. This method detects the specific thread counts and streaming multiprocessor (SM) layouts used during model initialization. While providing technical evidence of hardware use, the analysis does not establish the physical location of the chips or how they were obtained.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27152"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F950636336%2Fphoto%2F1st-digital-china-summit.jpg%3Fs%3D1024x1024%26w%3Dgi%26k%3D20%26c%3DweV-NNtaefJvDMi-VqE0R2jIBvMN9r9an_SYPKRRHpk%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ByteDance plans to launch a personal artificial intelligence assistant similar to Meta’s Muse in the coming weeks, according to company co-founder Zhang Yiming. The upcoming release forms part of a broader strategy by the Chinese tech giant to accelerate its AI development and narrow the technological gap with global frontrunners.</p><p>Zhang also outlined a long-term roadmap aiming to bring ByteDance to the artificial intelligence frontier by 2029 to 2030. The push aligns with a wider industry race among Chinese technology firms to capture the consumer agent market following the breakout success of Meta's assistant, though personal AI agents have recently faced platform restrictions and traffic blockades from major digital services.</p>
 <p>Nov 11 · <a href="https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>OpenAI Launches Business Hub and Business Profiles for ChatGPT</h2>
-<a name="story-27070"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-10-at-9.25.01-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI has launched Business Hub, a beta feature allowing companies to create and verify business profiles within ChatGPT. Through this platform, enterprises can manage information regarding their products and services and deploy specialized business agents to answer user queries.</p><p>The initiative provides businesses with analytics, including metrics for profile views, mentions, and website clicks. This strategic shift moves ChatGPT toward a consumer discovery engine model similar to Google, following previous unsuccessful attempts to build a direct e-commerce hub.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50443944">hacker news</a></p>
 <br clear="all" />
 
 ---
