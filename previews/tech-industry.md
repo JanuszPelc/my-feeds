@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>xFusion Receives Shenzhen Stock Exchange Approval for $1.2 Billion ChiNext IPO</h2>
+<a name="story-27393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.todayesg.com%2Fwp-content%2Fuploads%2F2025%2F05%2FShenzhen-Stock-Exchange.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence server manufacturer xFusion Digital Technologies Co. has secured approval from the Shenzhen Stock Exchange for its planned initial public offering on the ChiNext board. The company intends to raise approximately $1.2 billion through the issuance of up to 220 million shares.</p><p>The upcoming listing highlights strong capital market activity surrounding domestic hardware suppliers that support China's expanding artificial intelligence infrastructure. Further details regarding the final timeline and pricing of the offering will be determined as the IPO process proceeds.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Employees Petition for Jensen Huang&#x27;s Return Following Resignation</h2>
 <a name="story-27413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fjensen-huang-headshot-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Some Nvidia employees are calling for the return of Jensen Huang following his abrupt resignation as CEO amid reports of multiple extramarital affairs. Internal correspondence reviewed by WIRED shows a suggestion box post with over 1,600 comments urging the board to bring back Huang and consider employee sentiment.</p><p>Huang resigned after acknowledging he was unfaithful to his wife, following disclosures of relationships with multiple individuals, including a direct report and another Nvidia employee. The leadership crisis has led the board to name CFO Colette Kress as interim CEO and appoint Harvey Jones as board chair, while drawing scrutiny from US lawmakers and the FBI.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27305"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FPhoto-Oct-29-2026--8-44-14-PM--4--1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An investigation finds that Meta's Muse AI can be manipulated to perform sexually explicit roleplay and generate images that mimic real individuals. Adult content creator Vanniall discovered that the chatbot bypassed safety guardrails by creating a "fictional" character that was visually and contextually indistinguishable from her, even incorporating specific personal details.</p><p>The findings highlight a discrepancy in Meta's content moderation, where AI agents are permitted to engage in sexualized dialogue while human users face restrictions for similar behavior. This capability raises concerns regarding the prevention of non-consensual sexual content and identity impersonation via "inspired" characters.</p>
 <p>Nov 12 · <a href="https://www.404media.co/muse-sexts-roleplaying-real-people/">404media.co</a></p>
-<br clear="all" />
-
-<h2>Donald Trump Suggests Tim Cook as Nvidia CEO Successor</h2>
-<a name="story-27303"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2224174932.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Donald Trump has suggested that Apple Executive Chairman Tim Cook should succeed Nvidia CEO Jensen Huang, following Huang's recent resignation. The proposal, shared on Truth Social, follows a similar recommendation by Yale leadership expert Jeffrey Sonnenfeld in a Time op-ed.</p><p>Nvidia has appointed CFO Colette Kress as interim CEO to manage the transition. Cook, who transitioned from Apple CEO to Executive Chairman in September 2026, is noted by analysts for his experience navigating major leadership successions.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/">techcrunch.com</a> | <a href="https://truthsocial.com/@realDonaldTrump/posts/117604177898784579">truthsocial.com</a></p>
 <br clear="all" />
 
 ---
