@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Chinese AI Models Show Fingerprints of NVIDIA Blackwell GPUs</title>
+    <link href="https://unemploymentlabs.com/checkpoint-forensics" rel="alternate" />
+    <id>https://unemploymentlabs.com/checkpoint-forensics::v240</id>
+    <published>2026-11-12T22:56:00+00:00</published>
+    <updated>2026-11-12T22:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Funemploymentlabs.com%2Fcheckpoint-forensics%2Fimg%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://unemploymentlabs.com/checkpoint-forensics">unemploymentlabs.com</a> | <a href="https://news.ycombinator.com/item?id=50474883">hacker news</a></small></p><hr/><p>Forensic analysis of publicly released AI models from DeepSeek, Moonshot AI, MiniMax, and Ant Group reveals numerical fingerprints matching NVIDIA’s export-controlled Blackwell GPUs. Six models released since April 2026 exhibit patterns specific to Blackwell-class hardware, such as the B200, B300, GB200, and GB300, whereas earlier models from these developers match the older Hopper generation.</p><p>The research identifies these patterns by analyzing the arrangement of initial weights generated via the Philox pseudorandom number generator in the PyTorch framework. This method detects the specific thread counts and streaming multiprocessor (SM) layouts used during model initialization. While providing technical evidence of hardware use, the analysis does not establish the physical location of the chips or how they were obtained.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Funemploymentlabs.com%2Fcheckpoint-forensics%2Fimg%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 05:45 UTC | #27352</small>]]></content>
+  </entry>
+  <entry>
     <title>Meta's Muse AI Adds Business Calling Feature for Paid Subscribers</title>
     <link href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/" rel="alternate" />
     <id>https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/::v240</id>

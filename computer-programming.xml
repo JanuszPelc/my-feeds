@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-12T22:25:00+00:00</updated>
+  <updated>2026-11-12T22:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Laurence Tratt Adapts CPython for yk JIT Compiler</title>
+    <link href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html" rel="alternate" />
+    <id>https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html::v240</id>
+    <published>2026-11-12T22:57:00+00:00</published>
+    <updated>2026-11-12T22:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F27971&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html">tratt.net</a> | <a href="https://lobste.rs/s/gejy85/adapting_cpython_for_yk">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50466410">hacker news</a></small></p><hr/><p>Laurence Tratt has successfully applied the yk framework to CPython, creating ykcpython to provide a meta-tracing JIT compiler. In AWFY benchmarks, ykcpython outperformed standard CPython in 12 out of 13 cases and surpassed CPython's experimental JIT in 8 out of 13 benchmarks.</p><p>The adaptation required approximately 450 lines of code and involved resolving performance conflicts caused by CPython's "quickening" specialization mechanism. While the project demonstrates the feasibility of adding JIT compilers to large interpreters, the author states that the implementation is not yet ready for production use.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F27971&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 05:51 UTC | #27374</small>]]></content>
+  </entry>
   <entry>
     <title>Baochip-1x SoC and Dabao Evaluation Board Details</title>
     <link href="https://ratfactor.com/cards/hello-baochip" rel="alternate" />

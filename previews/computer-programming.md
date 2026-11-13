@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Laurence Tratt Adapts CPython for yk JIT Compiler</h2>
+<a name="story-27374"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F27971&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Laurence Tratt has successfully applied the yk framework to CPython, creating ykcpython to provide a meta-tracing JIT compiler. In AWFY benchmarks, ykcpython outperformed standard CPython in 12 out of 13 cases and surpassed CPython's experimental JIT in 8 out of 13 benchmarks.</p><p>The adaptation required approximately 450 lines of code and involved resolving performance conflicts caused by CPython's "quickening" specialization mechanism. While the project demonstrates the feasibility of adding JIT compilers to large interpreters, the author states that the implementation is not yet ready for production use.</p>
+<p>Nov 12 · <a href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html">tratt.net</a> | <a href="https://lobste.rs/s/gejy85/adapting_cpython_for_yk">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50466410">hacker news</a></p>
+<br clear="all" />
+
 <h2>Baochip-1x SoC and Dabao Evaluation Board Details</h2>
 <a name="story-27368"><img src="https://wsrv.nl/?url=https%3A%2F%2Fratfactor.com%2Fcards%2Fimages%2Fbaochip1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Baochip-1x is an open 22nm RISC-V system-on-chip (SoC) designed for high-assurance applications. It includes a memory management unit (MMU), an I/O coprocessor (BIO), and hardware security features such as AES encryption and a true random number generator. The chip is also designed to be physically inspectable using infrared cameras.</p><p>The SoC is specifically designed to run the Xous microkernel, a pure-Rust operating system. It is available on the Dabao evaluation board, which can be programmed using UF2 files and interfaced through a virtual serial console.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQH3EDoFJzMH6g%2Ffeedshare-shrink_800%2FB4EZxTNwL8GYAg-%2F0%2F1770922640532%3Fe%3D2147483647%26v%3Dbeta%26t%3DX5-fYnyqdvmSg11GVyIlOqbc-SJV2HJw3IFXKgY-mpQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft has released .NET 11, a Standard Term Support (STS) release providing two years of support. The update includes improvements to C# 15, ASP.NET Core, .NET MAUI, and the .NET runtime, aimed at increasing performance and developer productivity.</p><p>Key updates include C# 15 union types, a Native AOT CLI host, and expanded AI integration via the Microsoft Agent Framework and Microsoft.Extensions.AI. Other features include JIT compiler optimizations, Zstandard compression in libraries, and experimental vector search support in Entity Framework Core 11.</p>
 <p>Nov 10 · <a href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/">devblogs.microsoft.com</a> | <a href="https://lobste.rs/s/zingk1/announcing_net_11">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50442225">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ben Joffe Shares Optimized Gregorian Easter Algorithm</h2>
-<a name="story-27112"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1223515%2Fapplying-algorithms-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ben Joffe has developed an optimized algorithm for calculating the date of Gregorian Easter. The function is designed for high execution speed and a minimal binary footprint by using only five multiplications and bitwise operations. It remains accurate over a range of approximately ±10 million years, ensuring compatibility with 32-bit signed "rata die" date systems.</p><p>The optimization utilizes techniques such as aggressive constant folding, fixed-point multiplication to replace modulo operations, and the "mod-pad" method for modulo 30. These methods are designed to maximize hardware efficiency, such as leveraging x86 LEA instructions to avoid costly negation operations.</p>
-<p>Nov 10 · <a href="https://www.benjoffe.com/fast-easter">benjoffe.com</a> | <a href="https://lobste.rs/s/alijyg/faster_easter_date_function">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50438111">hacker news</a></p>
 <br clear="all" />
 
 ---

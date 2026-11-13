@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Chinese AI Models Show Fingerprints of NVIDIA Blackwell GPUs</h2>
+<a name="story-27352"><img src="https://wsrv.nl/?url=https%3A%2F%2Funemploymentlabs.com%2Fcheckpoint-forensics%2Fimg%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Forensic analysis of publicly released AI models from DeepSeek, Moonshot AI, MiniMax, and Ant Group reveals numerical fingerprints matching NVIDIA’s export-controlled Blackwell GPUs. Six models released since April 2026 exhibit patterns specific to Blackwell-class hardware, such as the B200, B300, GB200, and GB300, whereas earlier models from these developers match the older Hopper generation.</p><p>The research identifies these patterns by analyzing the arrangement of initial weights generated via the Philox pseudorandom number generator in the PyTorch framework. This method detects the specific thread counts and streaming multiprocessor (SM) layouts used during model initialization. While providing technical evidence of hardware use, the analysis does not establish the physical location of the chips or how they were obtained.</p>
+<p>Nov 12 · <a href="https://unemploymentlabs.com/checkpoint-forensics">unemploymentlabs.com</a> | <a href="https://news.ycombinator.com/item?id=50474883">hacker news</a></p>
+<br clear="all" />
+
 <h2>Meta&#x27;s Muse AI Adds Business Calling Feature for Paid Subscribers</h2>
 <a name="story-27351"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeadlyfacts.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMeta-Introduces-Paid-AI-Subscriptions-768x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta’s Muse AI can now place phone calls to U.S. businesses on behalf of users, a feature limited to paid subscribers. Subscription tiers include a $20 monthly plan and a $100 monthly plan.</p><p>The feature aims to automate routine tasks such as restaurant reservations and contacting utility companies. While competitors like Google’s Gemini offer similar tools, the success of the feature depends on whether business recipients accept calls from AI agents.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27070"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-10-at-9.25.01-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has launched Business Hub, a beta feature allowing companies to create and verify business profiles within ChatGPT. Through this platform, enterprises can manage information regarding their products and services and deploy specialized business agents to answer user queries.</p><p>The initiative provides businesses with analytics, including metrics for profile views, mentions, and website clicks. This strategic shift moves ChatGPT toward a consumer discovery engine model similar to Google, following previous unsuccessful attempts to build a direct e-commerce hub.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50443944">hacker news</a></p>
-<br clear="all" />
-
-<h2>Claude Fable 5.2 Generates Fully Functional Video Game from Hand-Drawn Designs</h2>
-<a name="story-27097"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnotesbylex.com%2F_media%2Faidens-revenge%2Ftitle.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An author used Anthropic's Claude Fable 5.2 and Claude Code to transform hand-drawn sketches into a complete 12-level beat 'em up game called "Aiden's Revenge." The AI-driven project produced a fully functional, playable experience featuring custom mechanics and original assets.</p><p>The development process leveraged OpenAI's ChatGPT Images 2.5 and ElevenLabs to generate approximately 175 images and 140 audio clips. The final game includes 18 unlockable characters, custom cutscenes, and support for up to four players, demonstrating the ability of agentic AI tools to manage complex software development and multi-media asset generation in a single session.</p>
-<p>Nov 10 · <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">notesbylex.com</a> | <a href="https://news.ycombinator.com/item?id=50433659">hacker news</a></p>
 <br clear="all" />
 
 ---
