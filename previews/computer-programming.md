@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Baochip-1x SoC and Dabao Evaluation Board Details</h2>
+<a name="story-27368"><img src="https://wsrv.nl/?url=https%3A%2F%2Fratfactor.com%2Fcards%2Fimages%2Fbaochip1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Baochip-1x is an open 22nm RISC-V system-on-chip (SoC) designed for high-assurance applications. It includes a memory management unit (MMU), an I/O coprocessor (BIO), and hardware security features such as AES encryption and a true random number generator. The chip is also designed to be physically inspectable using infrared cameras.</p><p>The SoC is specifically designed to run the Xous microkernel, a pure-Rust operating system. It is available on the Dabao evaluation board, which can be programmed using UF2 files and interfaced through a virtual serial console.</p>
+<p>Nov 12 · <a href="https://ratfactor.com/cards/hello-baochip">ratfactor.com</a> | <a href="https://www.bunniestudios.com/blog/2026/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/">bunniestudios.com</a> | <a href="https://lobste.rs/s/3gw2f4/hello_baochip">lobsters</a></p>
+<br clear="all" />
+
 <h2>Colin McMillen Reports 93% of Paint Splatters are Valid Perl Programs</h2>
 <a name="story-27288"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mcmillen.dev%2Fmedia%2F20190401-sigbovik-tweet.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Colin McMillen’s research, presented at SIGBOVIK 2019, uses optical character recognition (OCR) to investigate whether random paint splatters parse as valid Perl programming code. The analysis found that 93% of paint splatters are valid Perl programs, though the study also identifies specific examples that do not parse correctly.</p><p>Supplementary materials provided by the author include a gallery of splatters paired with their corresponding source code and a dataset of 100 images used in the study. The work was accepted for publication in the SIGBOVIK 2019 proceedings.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27112"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1223515%2Fapplying-algorithms-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ben Joffe has developed an optimized algorithm for calculating the date of Gregorian Easter. The function is designed for high execution speed and a minimal binary footprint by using only five multiplications and bitwise operations. It remains accurate over a range of approximately ±10 million years, ensuring compatibility with 32-bit signed "rata die" date systems.</p><p>The optimization utilizes techniques such as aggressive constant folding, fixed-point multiplication to replace modulo operations, and the "mod-pad" method for modulo 30. These methods are designed to maximize hardware efficiency, such as leveraging x86 LEA instructions to avoid costly negation operations.</p>
 <p>Nov 10 · <a href="https://www.benjoffe.com/fast-easter">benjoffe.com</a> | <a href="https://lobste.rs/s/alijyg/faster_easter_date_function">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50438111">hacker news</a></p>
-<br clear="all" />
-
-<h2>Complex Tar Archive Produces Inconsistent Extraction Results Across Utilities</h2>
-<a name="story-27110"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FjGJZ48dPYyNVJSGa6mzMbh.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A GNU tar archive utilizing pax headers, hard links, and size overrides produces eight different extraction outcomes depending on the software used. The file structure exploits inconsistencies in how various utilities process metadata and data blocks.</p><p>Extraction outcomes vary widely across tools like bsdtar, 7-Zip, and Java's Commons Compress, resulting in missing files, unexpected files, or incorrect data. This archive is part of a larger collection of 134 test cases in the haampie/tar-minefield test suite used to categorize how tarball implementations handle complex file structures.</p>
-<p>Nov 10 · <a href="https://stoppels.ch/2026/11/07/the-hardest-tarball.html">stoppels.ch</a> | <a href="https://lobste.rs/s/t7qkjb/hardest_tarball">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50441338">hacker news</a></p>
 <br clear="all" />
 
 ---
