@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>ZigZag Open-Source Embroidery Software Available for Mac and Windows</h2>
+<a name="story-27389"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabsolutedigitizing.com%2Fwp-content%2Fuploads%2F2024%2F02%2FBlog-image-infographic01-01-1024x550.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ZigZag is a free, open-source embroidery software built in Rust that converts SVG artwork into machine stitches for Mac and Windows. It features a visual editor supporting multiple stitch types, including tatami fills, satin columns, and running stitches, alongside automated planning tools for overlap removal, routing, and fabric presets.</p><p>The software includes Model Context Protocol support to allow AI agents to create and edit designs collaboratively, and it can export standard embroidery formats such as PES, DST, EXP, JEF, and VP3, or connect via Bluetooth to transmit designs directly to the Brother Skitch machine.</p>
+<p>Nov 13 · <a href="https://github.com/simpsoka/zigzag">github.com</a> | <a href="https://news.ycombinator.com/item?id=50470488">hacker news</a></p>
+<br clear="all" />
+
 <h2>Rust 1.100.0 Released With Stable Never Type and Allocator API</h2>
 <a name="story-27388"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvp02red7xy93tvsbeuq6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Rust project has released version 1.100.0, stabilizing the never type (!) after a decade of development and five previous attempts. The update also introduces the core Allocator API, the DropGuard helper type for executing closures on function exit paths, and std::mem::conjure_zst for safe zero-sized type creation.</p><p>In addition to language features, the release brings significant improvements to Cargo, including reporting for unused dependencies, reorganized build directory layouts to reduce cache collisions, and min-publish-age dependency cooldowns designed to mitigate supply chain risks. The stabilization of the never type also turns Infallible into an alias for !, introducing a minor breaking change for code running on pre-2024 editions.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27155"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2F17years%2Fgo17.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Celebrating its seventeenth anniversary, the Go project highlights major additions introduced across recent Go 1.26 and Go 1.27 releases, including generic methods, struct literal extensions, and the general availability of the revamped encoding/json/v2 package. These updates aim to address long-standing language restrictions while maintaining strict backward compatibility for large-scale production systems.</p><p>Additional updates feature the Green Tea garbage collector becoming default, experimental SIMD packages for hardware optimization, post-quantum cryptography integration, and a completely overhauled go fix command designed to help human developers and AI coding assistants adopt modern Go idioms. The platform also expanded security defenses, including a rapid URGENT track release to address weak private keys during the eMudhra certificate incident.</p>
 <p>Nov 11 · <a href="https://go.dev/blog/17years">go.dev</a> | <a href="https://lobste.rs/s/idktfu/go_turns_17">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50447829">hacker news</a></p>
-<br clear="all" />
-
-<h2>Apple Support Community Forums to Permanently Close on November 20</h2>
-<a name="story-27120"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-1-f.scribdassets.com%2Fimg%2Fdocument%2F502643974%2Foriginal%2F09358ba87b%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has announced that its official support community forums will permanently shut down on November 20, 2026. The platform, which has operated in various forms since at least 1998, has transitioned into a read-only state that no longer accepts new user posts or replies.</p><p>Visitors attempting to access the discussion portal are greeted by a closing notice directing them to the main Apple Support website for product guidance. While the platform has historically been branded as the Apple Support Community, the shutdown notice specifically references the "AppleCare Support Community," and ongoing access appears restricted to internal accounts.</p>
-<p>Nov 11 · <a href="https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/">9to5mac.com</a></p>
 <br clear="all" />
 
 ---

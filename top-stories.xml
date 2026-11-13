@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-13T08:58:00+00:00</updated>
+  <updated>2026-11-13T09:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Digital Audio Workstation Cost Models and Subscription Trends Examined</title>
+    <link href="https://musictech.com/features/interviews/daw-cost-model/" rel="alternate" />
+    <id>https://musictech.com/features/interviews/daw-cost-model/::v240</id>
+    <published>2026-11-13T09:16:00+00:00</published>
+    <updated>2026-11-13T09:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFender-Studio-Pro-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/features/interviews/daw-cost-model/">musictech.com</a></small></p><hr/><p>The music technology industry has experienced a significant shift in digital audio workstation (DAW) pricing, as corporate acquisitions and venture capital influence drive platforms toward subscription funnels and tiered licensing models. While traditional perpetual licenses offered permanent ownership, modern cost structures often position perpetual versions as middle-tier options behind feature-gated subscriptions.</p><p>Examining industry practices across major brands such as Fender, LANDR, Steinberg, and Avid highlights a growing tension between corporate profitability goals and user community loyalty. Although subscription models provide stable revenue for ongoing product development, they risk alienating independent creators and freelancers, prompting many users to seek alternative platforms with more transparent and flexible pricing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFender-Studio-Pro-1%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 21:09 UTC | #27297 | r,hd</small>]]></content>
+  </entry>
   <entry>
     <title>Scott Bessent Confronts Howard Lutnick Over Megaspeed China Chip Concerns</title>
     <link href="https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-13T01:40:00+00:00</updated>
+  <updated>2026-11-13T01:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>ZigZag Open-Source Embroidery Software Available for Mac and Windows</title>
+    <link href="https://github.com/simpsoka/zigzag" rel="alternate" />
+    <id>https://github.com/simpsoka/zigzag::v240</id>
+    <published>2026-11-13T01:56:00+00:00</published>
+    <updated>2026-11-13T01:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fabsolutedigitizing.com%2Fwp-content%2Fuploads%2F2024%2F02%2FBlog-image-infographic01-01-1024x550.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/simpsoka/zigzag">github.com</a> | <a href="https://news.ycombinator.com/item?id=50470488">hacker news</a></small></p><hr/><p>ZigZag is a free, open-source embroidery software built in Rust that converts SVG artwork into machine stitches for Mac and Windows. It features a visual editor supporting multiple stitch types, including tatami fills, satin columns, and running stitches, alongside automated planning tools for overlap removal, routing, and fabric presets.</p><p>The software includes Model Context Protocol support to allow AI agents to create and edit designs collaboratively, and it can export standard embroidery formats such as PES, DST, EXP, JEF, and VP3, or connect via Bluetooth to transmit designs directly to the Brother Skitch machine.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fabsolutedigitizing.com%2Fwp-content%2Fuploads%2F2024%2F02%2FBlog-image-infographic01-01-1024x550.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 09:11 UTC | #27389</small>]]></content>
+  </entry>
   <entry>
     <title>Rust 1.100.0 Released With Stable Never Type and Allocator API</title>
     <link href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/" rel="alternate" />

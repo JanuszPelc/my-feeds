@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-12T23:36:00+00:00</updated>
+  <updated>2026-11-13T01:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>FreeBSD Project Publishes Third Quarter 2026 Status Report</title>
+    <link href="https://www.freebsd.org/status/report-2026-07-2026-09/" rel="alternate" />
+    <id>https://www.freebsd.org/status/report-2026-07-2026-09/::v240</id>
+    <published>2026-11-13T01:57:00+00:00</published>
+    <updated>2026-11-13T01:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffreebsdfoundation.org%2Fwp-content%2Fuploads%2F2022%2F01%2F1-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.freebsd.org/status/report-2026-07-2026-09/">freebsd.org</a> | <a href="https://lobste.rs/s/wbkayq/freebsd_status_report_third_quarter_2026">lobsters</a></small></p><hr/><p>The FreeBSD Project has released its third quarter status report for 2026, detailing 51 entries across core development, infrastructure, userland, and kernel improvements. Highlights include updates on the Core Team's transition, developer survey results regarding artificial intelligence policies, foundation advocacy efforts, and technical enhancements such as bhyve CPUID control and Zoned Storage support.</p><p>The report also covers administrative milestones, including a temporary ports repository freeze following an accidental large binary commit, ongoing compliance work for the EU Cyber Resilience Act, and various architectural and documentation updates. Publication was slightly delayed due to maintenance on review infrastructure following recent PHP vulnerabilities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffreebsdfoundation.org%2Fwp-content%2Fuploads%2F2022%2F01%2F1-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 09:16 UTC | #27390</small>]]></content>
+  </entry>
   <entry>
     <title>North Korean Hackers Stole Over $400 Million in Cryptocurrency Using Deepfakes</title>
     <link href="https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/" rel="alternate" />
