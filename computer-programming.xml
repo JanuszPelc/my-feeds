@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-13T04:50:00+00:00</updated>
+  <updated>2026-11-13T17:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ali Chraghi Details Development of AMP Music Player in Zig</title>
+    <link href="https://alichraghi.github.io/blog/how-not-to-build-a-music-player" rel="alternate" />
+    <id>https://alichraghi.github.io/blog/how-not-to-build-a-music-player::v240</id>
+    <published>2026-11-13T17:18:00+00:00</published>
+    <updated>2026-11-13T17:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://alichraghi.github.io/blog/how-not-to-build-a-music-player">alichraghi.github.io</a> | <a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player">lobsters</a></small></p><hr/><p>Developer Ali Chraghi details the creation of AMP, a minimal music player built in Zig with a custom UI and native system integration. Prompted by dissatisfaction with existing offline players and internet blackouts in Iran, the project evolved through extensive use of frontier large language models before a massive rewrite to remove AI-generated code bloat.</p><p>The development process coincided with prolonged internet restrictions and an account ban from Anthropic, forcing a rigorous line-by-line code review that ultimately resulted in a more robust and streamlined application. Moving forward, the project's roadmap includes support for Windows, Android, Linux packaging, and a music server.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 22:34 UTC | #27452</small>]]></content>
+  </entry>
   <entry>
     <title>Sunshowers Critiques Sean Goedecke's Essay on Glue Work</title>
     <link href="https://sunshowers.io/posts/glue-work/" rel="alternate" />
@@ -372,14 +381,5 @@
     <updated>2026-11-08T22:36:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fketchup3d.github.io%2Fapp%2Fassets%2Fscreenshots%2Fketchup.jpg%3Fv%3D0.6.5-r2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://ketchup3d.github.io/app/">ketchup3d.github.io</a> | <a href="https://news.ycombinator.com/item?id=50418176">hacker news</a></small></p><hr/><p>KetchUp is a free, open-source 3D modeling application built with Rust and WebGPU, designed specifically for woodworking and furniture planning. The software enables users to sketch shapes, apply exact measurements, and organize complex assemblies using groups, components, and tags prior to construction.</p><p>The application runs natively on Windows, macOS, and Linux, or directly within compatible desktop web browsers without requiring an account or cloud storage. It supports local autosaving, importing SketchUp geometry, exporting Wavefront OBJ files, and saving portable project files directly to the user's device.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fketchup3d.github.io%2Fapp%2Fassets%2Fscreenshots%2Fketchup.jpg%3Fv%3D0.6.5-r2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 01:34 UTC | #26856</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dux Modular Shell 2.1 Released with Video Wallpapers and Updated System Monitor</title>
-    <link href="https://duxlabs.dev/" rel="alternate" />
-    <id>https://duxlabs.dev/::v240</id>
-    <published>2026-11-08T22:23:00+00:00</published>
-    <updated>2026-11-08T22:23:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flinuxiac.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fdux21-interface-density.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://duxlabs.dev/">duxlabs.dev</a> | <a href="https://news.ycombinator.com/item?id=50416053">hacker news</a></small></p><hr/><p>Dux Modular Shell version 2.1, codenamed Stormborn, is now available for Wayland compositors including Hyprland, Niri, and Sway. The update introduces a new system monitor, video wallpaper support, a revamped media player, interface density controls, and various enhancements to the Dux file manager.</p><p>Designed as an open-source desktop suite, Dux features dynamic application theming that automatically matches GTK, Qt, and terminal environments using a custom 16-color palette algorithm. The ecosystem also incorporates specialized modules for process monitoring, greeter management, fast file searching, and multi-provider calendar integration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flinuxiac.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fdux21-interface-density.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 00:44 UTC | #26854</small>]]></content>
   </entry>
 </feed>

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Ali Chraghi Details Development of AMP Music Player in Zig</h2>
+<a name="story-27452"><img src="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Ali Chraghi details the creation of AMP, a minimal music player built in Zig with a custom UI and native system integration. Prompted by dissatisfaction with existing offline players and internet blackouts in Iran, the project evolved through extensive use of frontier large language models before a massive rewrite to remove AI-generated code bloat.</p><p>The development process coincided with prolonged internet restrictions and an account ban from Anthropic, forcing a rigorous line-by-line code review that ultimately resulted in a more robust and streamlined application. Moving forward, the project's roadmap includes support for Windows, Android, Linux packaging, and a music server.</p>
+<p>Nov 13 · <a href="https://alichraghi.github.io/blog/how-not-to-build-a-music-player">alichraghi.github.io</a> | <a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player">lobsters</a></p>
+<br clear="all" />
+
 <h2>Sunshowers Critiques Sean Goedecke&#x27;s Essay on Glue Work</h2>
 <a name="story-27407"><img src="https://wsrv.nl/?url=https%3A%2F%2Fchaoss.community%2Fwp-content%2Fuploads%2F2026%2F02%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An opinion piece on sunshowers.io challenges Sean Goedecke’s widely discussed essay advising software engineers to avoid unrewarded "glue work" and focus strictly on executing leadership's feature delivery mandates. The author argues that Goedecke’s advice encourages settling for organizational mediocrity and perpetuates unnecessary workplace inefficiency.</p><p>The response contends that dismissing glue work ignores how permanent friction reduction can drastically improve team workflows and software quality, pointing to projects like cargo-nextest and internal tooling. It suggests that while large tech companies enforce legibility through metrics and performance reviews, fostering a culture of mutual support and eliminating rigid distinctions between feature and glue work yields better long-term results.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Rust Project Announces Google Summer of Code 2026 Results</h2>
 <p>All 13 projects participating in the Google Summer of Code (GSoC) 2026 for the Rust Project were successfully completed and passed their final evaluations. Contributions included improvements to GPU offloading, adding WebAssembly linking support to the Wild linker, and implementing new language features such as `impl` and `mut` restrictions.</p><p>The program serves as a primary pipeline for introducing new contributors to the Rust community. Several project outcomes, including work on the `std::autodiff` and `std::offload` modules, are available in the Rust `nightly` compiler channel.</p>
 <p>Nov 11 · <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/uz2j2h/google_summer_code_2026_results">lobsters</a></p>
-<br clear="all" />
-
-<h2>Tim Peters, Python Contributor and Author of the Zen of Python, Dies</h2>
-<a name="story-27228"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-blog.adafruit.com%2Fuploads%2F2026%2F11%2Ftim-peters-has-died-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tim Peters, a central figure in the Python programming community and author of the "Zen of Python" (PEP 20), died on July 15, 2026. He was a key contributor to the language's early design and core development, working closely with creator Guido van Rossum.</p><p>Peters also designed the Timsort sorting algorithm, which has been adopted by Java and Android. He served as a director of the Python Software Foundation from 2001 to 2014 and was widely recognized for his technical expertise and mentorship within the Python community.</p>
-<p>Nov 11 · <a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">discuss.python.org</a> | <a href="https://www.bratleyfamilyfuneralhomes.com/obituary/timothy-peters">bratleyfamilyfuneralhomes.com</a> | <a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50450488">hacker news</a></p>
 <br clear="all" />
 
 ---
