@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sonic Academy JU-60 Chorus Plugin Available Free for Black Friday</h2>
+<a name="story-27396"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5Mlg8EU8M-s%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sonic Academy is offering its JU-60 chorus plugin as a free download for Black Friday. The software, which normally retails for £19.95, emulates the analog chorus section of the Roland Juno-60 synthesizer.</p><p>To obtain the plugin without charge, users must register for an email newsletter on the Sonic Academy promotional page to receive a discount code. The plugin is available in VST3, AU, and AAX formats for macOS and Windows systems.</p>
+<p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/sonic-academy-ju-60-free-2026/">bedroomproducersblog.com</a> | <a href="https://www.sonicacademy.com/event/ju60-free">sonicacademy.com</a></p>
+<br clear="all" />
+
 <h2>Kael Barba Releases CosmicSynth Free VST3 Synthesizer</h2>
 <a name="story-27398"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-114323.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Kael Barba has released CosmicSynth v0.1.0, a free and open-source VST3 synthesizer for Windows designed to translate gravitational-wave physics into audio. The instrument allows users to upload waveform data—such as signals from colliding black holes recorded by LIGO—to dynamically modulate pitch and filter parameters.</p><p>The software includes five built-in presets representing different astrophysical phenomena, alongside a real-time gravitational-wave visualizer and a live spectrogram that tracks waveform and sound changes. As Barba's first public release, the project bridges astrophysics and sound design while encouraging community feedback for future development.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27281"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fblackroosteraudio_omnitec-436c_frontplate.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bedroom Producers Blog has partnered with Black Rooster Audio to host a giveaway for a free license of the OmniTec-436C tube compressor plugin for macOS and Windows. Participants can enter the contest by leaving a comment on the announcement post before a winner is randomly selected on November 19, 2026.</p><p>Inspired by the vintage Altec 436C, the OmniTec-436C features a program-dependent vari-mu gain stage, flexible sidechain filtering, and support for VST, VST3, AU, and AAX formats. Concurrently, Black Rooster Audio is running a Black November promotional sale through December 1, discounting individual plugins to $19 and offering an ALL Bundle of 27 plugins for $99.</p>
 <p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/win-black-rooster-audio-omnitec/">bedroomproducersblog.com</a></p>
-<br clear="all" />
-
-<h2>KOMA Elektronik and Passepartout Duo Announce Haloplane Sampler and Wavetable Synthesizer</h2>
-<a name="story-27271"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHaloplane-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>KOMA Elektronik and Passepartout Duo have unveiled the Haloplane, a compact micro-loop sampler and wavetable synthesizer that uses electromagnetic fields for sound manipulation. Users control the audio by moving electromagnetic pickups across the device's frame to alter sound or create complex sequences.</p><p>The hardware includes a built-in microphone, line-in, a speaker, and Wi-Fi connectivity, with a companion app available for parameter control. It also features built-in wavetables and supports an optional Doppeldisk pickup for expanded sound capabilities. Pre-orders are currently available through a tiered pricing model, with shipping expected in early 2027.</p>
-<p>Nov 12 · <a href="https://musictech.com/news/gear/haloplane/">musictech.com</a> | <a href="https://chromaplane.co/haloplane">chromaplane.co</a></p>
 <br clear="all" />
 
 ---
