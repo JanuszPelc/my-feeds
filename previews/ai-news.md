@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google Integrates Gemini 4 Hydrogen Model into Search</h2>
+<a name="story-27327"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google is integrating the Gemini 4 Hydrogen model into Search to improve the handling of complex, multi-part questions and typos. Optimized for speed and agentic workflows, the model completes tasks 2.5 times faster than the previous Gemini 3.8 Flash.</p><p>The update introduces enhanced visual responses, such as comparison tables and structured data, and utilizes an improved "fan-out" technique for better query discovery. Hydrogen is rolling out globally to Search users, AI Studio, the Gemini API, and the Gemini App.</p>
+<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50471487">hacker news</a></p>
+<br clear="all" />
+
+<h2>Nectar Launches AI Agent to Automate Creator Discovery and Outreach</h2>
+<a name="story-27328"><img src="https://wsrv.nl/?url=https%3A%2F%2Finfluencermarketing.ai%2Fwp-content%2Fuploads%2F2025%2F12%2FWhyManualInfluencerDiscoveryFallsShort.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The new "Creator Agent" from Nectar handles influencer marketing tasks such as discovery, personalized outreach, partnership management, and performance tracking. The agent analyzes over 300 million Instagram and TikTok profiles, evaluating video content to assess brand safety and topical relevance.</p><p>This system can draft messages in a brand’s specific voice and manage administrative tasks like contract handling and shipping coordination. Nectar plans to implement the Model Context Protocol (MCP), allowing the agent to be accessed through AI assistants such as ChatGPT, Claude, Gemini, and Copilot.</p>
+<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Phota Labs Launches AI Photo Assistant for iOS</h2>
 <a name="story-27318"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fphota-labs-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phota Labs has released an iOS app that uses artificial intelligence to transform everyday snapshots into professional-quality images. The tool automates the editing process by adjusting composition and perspective—such as converting wide-angle shots into tight portraits—while utilizing specialized identity models to ensure the subject's authentic likeness is preserved.</p><p>Founded by former Adobe engineers Cecilia Zhang and Zach Xia, the a16z-backed startup aims to simplify photo enhancement for social media users. To maintain transparency, the app includes invisible watermarking to identify AI-altered content, and the company plans to expand to Android and introduce a freemium business model.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27055"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FClaude-Whiteboards-1.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has launched Claude Meetings, Claude Whiteboards, and Claude Sheets. Claude Meetings joins video calls to draft real-time plans, timelines, and meeting notes. Claude Whiteboards provides a collaborative visual workspace, while Claude Sheets allows teams to collaboratively create and edit spreadsheets with AI assistance.</p><p>These updates follow similar workplace tool releases from OpenAI and Meta as companies compete to build AI-driven office suites. Anthropic also announced the general availability of Claude Data and introduced interactive connectors that allow users to operate third-party applications, including Adobe, Atlassian, and HubSpot, directly within Claude.</p>
 <p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50443448">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic&#x27;s Fable 5.2 Completes 41% of Real Freelance Jobs</h2>
-<a name="story-27041"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthe-decoder.com%2Fwp-content%2Fuploads%2F2026%2F11%2FRLI-Bench-Fable5-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic's Fable 5.2 AI agent has achieved a 41.3% success rate on the Remote Labor Index (RLI), completing over 40% of real-world freelance tasks. This represents a significant increase from the 2.5% success rate recorded for leading AI agents one year ago. The agent demonstrated particularly strong performance in audio and music editing, architectural design, and 3D modeling.</p><p>The RLI benchmark evaluates agents using 240 professional projects from Upwork, with a combined value of approximately $144,000. To succeed, agents must use professional software like Blender and Audacity to complete complex, end-to-end assignments in a virtual workspace. Results are manually verified by human experts, as automated AI reviewers have proven unable to detect technical flaws in complex professional files.</p>
-<p>Nov 10 · <a href="https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/">the-decoder.com</a> | <a href="https://labs.scale.com/papers/rli">labs.scale.com</a></p>
-<br clear="all" />
-
-<h2>Meta Launches Muse AI Agent for Apple Watch and Wear OS</h2>
-<a name="story-27043"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fresizemode-4%2Cmsid-135700396%2Cimgsize-77638%2Cwidth-1200%2F135700396.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta has released its Muse AI agent for Apple Watch and Android’s Wear OS, allowing users to interact with the assistant via voice, text, or dictation directly on their smartwatches. This expansion follows the recent launch of a dedicated iPad app for the service.</p><p>The AI agent uses personalized avatars to assist with tasks such as managing emails, scheduling meetings, and booking reservations. Muse has achieved significant scale, recording over 10 million U.S. downloads within 40 days of its App Store debut.</p>
-<p>Nov 10 · <a href="https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/">techcrunch.com</a> | <a href="https://x.com/muse/status/2119919277692383330?s=46">x.com</a></p>
 <br clear="all" />
 
 ---

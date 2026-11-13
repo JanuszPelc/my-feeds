@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Tripwire Interactive Lays Off 36 Employees Following New Publishing Initiative Announcement</h2>
+<a name="story-27331"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt28dc04ffc1fc5bb9%2F6af5edc7d565807a3b5dc005%2Fmaneater2.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The developer behind the Killing Floor and Maneater series is reducing its workforce by 36 positions. This decision follows the recent announcement of "Tripwire Presents," a new initiative intended to scale publishing services for smaller developers. The studio will continue development on Maneater 2 and Killing Floor 3.</p><p>The layoffs come after 23 positions were cut during a restructuring earlier this year. Former CEO and co-founder John Gibson has attributed the studio's recent instability to his departure and the subsequent sale to Embracer Group, disputing assertions that the performance of Killing Floor 3 was the cause.</p>
+<p>Nov 12 · <a href="https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative">gamedeveloper.com</a> | <a href="https://x.com/TripwireInt/status/2119834389982966150">x.com</a></p>
+<br clear="all" />
+
 <h2>GDC State of the Industry Report Shows Rising Layoff Rates Among Game Developers</h2>
 <a name="story-27322"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt72fcddc73bbb2120%2F6af3820047f27357fe7d4bfc%2Flayoffnoticefeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The GDC State of the Industry report indicates that 34% of game industry professionals have been laid off in the last 24 months, a figure that rises to 39% in the United States. Survey data shows that unemployment among respondents has increased to 21%, up from 13% the previous year.</p><p>Layoffs were most prevalent in AAA studios, affecting 68% of companies, and primarily impacted roles in quality assurance, marketing/PR, and visual or technical arts. While many displaced workers found new employment, only 68% remained in a similar field, and 9% reported leaving the game industry entirely.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>SpaceX Announces Starlink Mini 2 with Integrated Swappable Battery</h2>
 <p>SpaceX has announced the Starlink Mini 2, a laptop-sized satellite internet terminal that integrates a dish, Wi-Fi router, and an internal battery into a single device. The terminal supports hot-swapping additional batteries to extend operation beyond its standard 4.5-hour charge and can also be powered via a 60W USB-C connection.</p><p>Priced at $999, the unit includes a year of Roam Unlimited service and maintains an IP67 rating for dust and water resistance. Despite the added battery weight, the Mini 2 is thinner than the original Mini, measuring 23.1mm thick compared to the previous version's 38.5mm.</p>
 <p>Nov 10 · <a href="https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery">theverge.com</a> | <a href="https://starlink.com/mini-2">starlink.com</a> | <a href="https://news.ycombinator.com/item?id=50444129">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google Fi Introduces Automatic Carrier Switching and Wi-Fi Auto-Connect+</h2>
-<a name="story-27073"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fgoogle-fi-announces-super-network-automatic-carrier-switching-for-improved-speed-and-reception%2Fintro-1794323524.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A new "super network" feature from Google Fi enables phones to automatically switch between two different carriers to mitigate connection issues caused by signal dead zones or congestion. The rollout begins with Pixel 9 and newer models using eSIMs, with wider availability expected in 2027. The update also introduces Wi-Fi Auto-Connect+, which switches devices to secure Wi-Fi in areas with poor cellular coverage.</p><p>Both features are included at no extra cost for Unlimited Premium and Flexible plan subscribers and will function in over 200 international destinations. Google Fi is also deploying "Ask Fi," an AI-powered support agent within its app to assist with billing and technical troubleshooting. Promotional offers accompanying the launch include rebates for the Pixel 11 Pro for new subscribers.</p>
-<p>Nov 10 · <a href="https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/">engadget.com</a></p>
 <br clear="all" />
 
 ---
