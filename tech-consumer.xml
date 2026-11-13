@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-12T19:16:00+00:00</updated>
+  <updated>2026-11-12T19:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Shadowkey: Reforged Brings Elder Scrolls N-Gage RPG to PC in 4K</title>
+    <link href="https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/" rel="alternate" />
+    <id>https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/::v240</id>
+    <published>2026-11-12T19:50:00+00:00</published>
+    <updated>2026-11-12T19:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Ftorch-hall-1152x648.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/">arstechnica.com</a> | <a href="https://shadowkey.omracreative.ie/">shadowkey.omracreative.ie</a></small></p><hr/><p>Shadowkey: Reforged, a free fan-made PC port of the 2004 Nokia N-Gage title *The Elder Scrolls Travels: Shadowkey*, has been released. The project uses a rewritten graphics engine to combine original game files and scripts with upscaled 4K assets and widescreen support.</p><p>The port expands the original portrait-oriented mobile experience to a 16:9 aspect ratio and supports up to 120 fps, though the game logic remains at 25 fps. Additional visual updates include bloom lighting, rippling water, and a modernized interface with sharper text rendering.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Ftorch-hall-1152x648.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 00:53 UTC | #27341</small>]]></content>
+  </entry>
   <entry>
     <title>Tripwire Interactive Lays Off 36 Employees Following New Publishing Initiative Announcement</title>
     <link href="https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative" rel="alternate" />

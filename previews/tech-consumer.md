@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Shadowkey: Reforged Brings Elder Scrolls N-Gage RPG to PC in 4K</h2>
+<a name="story-27341"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Ftorch-hall-1152x648.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Shadowkey: Reforged, a free fan-made PC port of the 2004 Nokia N-Gage title *The Elder Scrolls Travels: Shadowkey*, has been released. The project uses a rewritten graphics engine to combine original game files and scripts with upscaled 4K assets and widescreen support.</p><p>The port expands the original portrait-oriented mobile experience to a 16:9 aspect ratio and supports up to 120 fps, though the game logic remains at 25 fps. Additional visual updates include bloom lighting, rippling water, and a modernized interface with sharper text rendering.</p>
+<p>Nov 12 · <a href="https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/">arstechnica.com</a> | <a href="https://shadowkey.omracreative.ie/">shadowkey.omracreative.ie</a></p>
+<br clear="all" />
+
 <h2>Tripwire Interactive Lays Off 36 Employees Following New Publishing Initiative Announcement</h2>
 <a name="story-27331"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt28dc04ffc1fc5bb9%2F6af5edc7d565807a3b5dc005%2Fmaneater2.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The developer behind the Killing Floor and Maneater series is reducing its workforce by 36 positions. This decision follows the recent announcement of "Tripwire Presents," a new initiative intended to scale publishing services for smaller developers. The studio will continue development on Maneater 2 and Killing Floor 3.</p><p>The layoffs come after 23 positions were cut during a restructuring earlier this year. Former CEO and co-founder John Gibson has attributed the studio's recent instability to his departure and the subsequent sale to Embracer Group, disputing assertions that the performance of Killing Floor 3 was the cause.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27108"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gizmochina.com%2Fwp-content%2Fuploads%2F2020%2F07%2F20200708_122320_465.jpg%3Fx70461&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US-based video game publishers are losing market share in the $121 billion global mobile gaming sector to Chinese competitors. Chinese studios have increasingly outpaced American counterparts by producing games more quickly, at a lower cost, and with higher profitability.</p><p>Popular titles such as Honor of Kings and Whiteout Survival exemplify the shift, highlighting the advanced operational capabilities and rapid development cycles of Chinese developers. This dynamic has allowed Chinese firms to seize leadership in a lucrative market previously dominated by US companies.</p>
 <p>Nov 11 · <a href="https://www.bloomberg.com/news/features/2026-11-10/honor-of-kings-whiteout-survival-help-china-seize-mobile-gaming-crown-from-us?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDM1MzAxMSwiZXhwIjoxNzk0OTU3ODExLCJhcnRpY2xlSWQiOiJUT0I2SzVLR1pBTFkwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.ObRjv2f1_O3nCF6u3SBgzSlvsb2s-NJZynZl8Y_mTx8">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>SpaceX Announces Starlink Mini 2 with Integrated Swappable Battery</h2>
-<p>SpaceX has announced the Starlink Mini 2, a laptop-sized satellite internet terminal that integrates a dish, Wi-Fi router, and an internal battery into a single device. The terminal supports hot-swapping additional batteries to extend operation beyond its standard 4.5-hour charge and can also be powered via a 60W USB-C connection.</p><p>Priced at $999, the unit includes a year of Roam Unlimited service and maintains an IP67 rating for dust and water resistance. Despite the added battery weight, the Mini 2 is thinner than the original Mini, measuring 23.1mm thick compared to the previous version's 38.5mm.</p>
-<p>Nov 10 · <a href="https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery">theverge.com</a> | <a href="https://starlink.com/mini-2">starlink.com</a> | <a href="https://news.ycombinator.com/item?id=50444129">hacker news</a></p>
 <br clear="all" />
 
 ---
