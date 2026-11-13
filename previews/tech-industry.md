@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Hatz AI Secures $24M to Expand AI Platform and Double Headcount</h2>
+<a name="story-27360"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fhatz-ai-raises-24m-series-a-to-expand-ai-platform-for-msps.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hatz AI has raised $24 million in Series A funding from Nadia Partners, Vestigo Ventures, and The Private Shares Fund. The New York-based company plans to use the capital to double its 60-person workforce, focusing recruitment on engineering, AI research, and forward-deployed engineering roles.</p><p>The funding will support the expansion of Hatz AI's platform, which assists Managed Service Providers (MSPs) in developing and deploying customized AI solutions for small and medium-sized businesses. The company also aims to advance research and development for its proprietary SMB1 benchmark, a tool used to measure how effectively AI completes real-world business tasks.</p>
+<p>Nov 13 · <a href="https://www.crn.com/news/ai/2026/hatz-ai-secures-24m-to-expand-platform-double-headcount-exclusive">crn.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic&#x27;s IPO Is Reported to Be Six Times Oversubscribed</h2>
 <a name="story-27349"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F10%2Fanth-ropic-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's initial public offering has attracted orders approximately six times the number of available shares, according to sources familiar with the matter. Bankers have reportedly informed prospective investors that existing shareholders will receive priority in the allocation of shares.</p><p>The AI company aims to raise roughly $90.4 billion through its IPO and an accompanying private placement, targeting a valuation of approximately $1.4 trillion. Shares are expected to be priced between $70 and $78, with the final pricing scheduled for November 18.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27218"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGettyImages-2294936867.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia CEO Jensen Huang is accused of an extramarital affair with Kimberly Powell, the company's vice president of healthcare. The New York Times reports that five employees claim to have seen video of the pair behaving affectionately at a San Jose hotel earlier this year.</p><p>This follows Huang's previously admitted affair with a woman accused of being a Chinese spy. Nvidia's board has launched an investigation, and the Wall Street Journal reports the company is preparing to oust the founder. House Republicans are considering subpoenaing Huang regarding the previous spy-related allegations.</p>
 <p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50459703">hacker news</a></p>
-<br clear="all" />
-
-<h2>TechCrunch&#x27;s Equity Podcast Discusses Data Center Construction Challenges</h2>
-<a name="story-27209"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechdecent.com%2Fwp-content%2Fuploads%2FChatGPT-2026-04-05T161756.761.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Many announced data center projects may never be constructed despite massive AI infrastructure investment, according to Brent Nelson of Ascend Analytics on TechCrunch's Equity podcast.</p><p>Obstacles including local opposition, permitting delays, and electricity scarcity make it increasingly important to distinguish realistic construction plans from speculative ones.</p>
-<p>Nov 11 · <a href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
