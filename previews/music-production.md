@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Universal Audio Releases Native Cooper Time Cube Delay for macOS and Windows</h2>
+<a name="story-27339"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcooper_time_cube_gallery_1_2x_82f234fc-aaf4-45ef-b430-126eda741597.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Universal Audio has released the native Cooper Time Cube Delay for macOS and Windows, which can be used without Universal Audio hardware. The plug-in recreates the 1971 design by Bill Putnam Sr. and Duane H. Cooper.</p><p>The software includes two independently adjustable delay lines with tempo sync for doubling, slapback echo, and stereo widening. Users can shape the tone via treble, bass, color, and high-pass filter controls. It is available at an introductory price of $49 USD and is included in the UAD Spark Studio subscription.</p>
+<p>Nov 12 · <a href="https://www.kvraudio.com/news/universal-audio-releases-native-cooper-time-cube-delay-for-macos-and-windows-69788?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69788">kvraudio.com</a> | <a href="https://www.uaudio.com/">uaudio.com</a></p>
+<br clear="all" />
+
 <h2>AdHd Audio Tools Updates Leveling Tool to v1.4.1 with Apple Silicon Support</h2>
 <a name="story-27357"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fleveling-tool-141.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AdHd Audio Tools' Leveling Tool has been updated to version 1.4.1, adding native Apple Silicon support. The update provides universal binaries that work on both Apple Silicon and Intel-based macOS systems.</p><p>The tool is available as donationware and can be downloaded from the AdHd Audio Tools website. This update ensures better performance and compatibility for users on modern Mac hardware.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27257"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDrops-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Drops is a music-sharing application designed to facilitate the sharing of 30-second song snippets paired with visual content. Developed by HARMAN, the platform utilizes a vast music library through licensing agreements with Universal Music Group, Beggars Group, Symphonic Distribution, EMPIRE, and UnitedMasters.</p><p>The app focuses on social discovery, allowing users to follow others and view feeds of human-curated music recommendations. It is currently available in preview mode on both iOS and Android platforms.</p>
 <p>Nov 12 · <a href="https://musictech.com/news/music/drops-app/">musictech.com</a> | <a href="https://www.gotdrops.com/">gotdrops.com</a></p>
-<br clear="all" />
-
-<h2>MB Big Biznis Releases qkit Always-Recording Looper Plugin</h2>
-<a name="story-27252"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-at-08-24-30-compressed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>MB Big Biznis has released qkit, a live-looping plugin for macOS and Windows available in AU and VST3 formats. The software continuously listens to audio input, allowing users to capture recent performances retroactively or arm new takes that lock directly to a DAW's beat.</p><p>qkit supports up to 32 simultaneous loops per instance with individual controls for feedback, overdub layers, and routing across eight auxiliary outputs. Designed for both studio and stage use, the plugin features zero-latency processing, MIDI and OSC control mapping, Ableton Link integration, and time-stretching or varispeed pitch tracking.</p>
-<p>Nov 12 · <a href="https://www.kvraudio.com/news/mb-big-biznis-releases-qkit---always-recording-looper-plugin-au-and-vst3-69772?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69772">kvraudio.com</a> | <a href="https://qkitlabs.com/qkit">qkitlabs.com</a></p>
 <br clear="all" />
 
 ---
