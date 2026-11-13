@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Implementing a PostScript Interpreter in JavaScript</h2>
+<a name="story-27392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnEvi7sEu2Kg%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGCUgHyh_MA8%3D%26rs%3DAOn4CLA2f-YLFE5iXI6slDetHIVIEQH-4w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A simplified subset of the PostScript programming language can be constructed in JavaScript by managing an operand stack for arguments and a dictionary stack for name-to-value associations. This involves mapping PostScript datatypes, such as arrays and procedures, to JavaScript objects and using regular expressions to parse input tokens into executable routines.</p><p>The implementation utilizes a modular, Forth-inspired programming style composed of short, single-purpose functions. It also provides methods for creating a Read-Eval-Print-Loop (REPL) to allow for interactive programming in environments like Node.js or QuickJS.</p>
+<p>Nov 13 · <a href="https://beyondloom.com/blog/postscript.html">beyondloom.com</a> | <a href="https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50472213">hacker news</a></p>
+<br clear="all" />
+
 <h2>ZigZag Open-Source Embroidery Software Available for Mac and Windows</h2>
 <a name="story-27389"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabsolutedigitizing.com%2Fwp-content%2Fuploads%2F2024%2F02%2FBlog-image-infographic01-01-1024x550.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ZigZag is a free, open-source embroidery software built in Rust that converts SVG artwork into machine stitches for Mac and Windows. It features a visual editor supporting multiple stitch types, including tatami fills, satin columns, and running stitches, alongside automated planning tools for overlap removal, routing, and fabric presets.</p><p>The software includes Model Context Protocol support to allow AI agents to create and edit designs collaboratively, and it can export standard embroidery formats such as PES, DST, EXP, JEF, and VP3, or connect via Bluetooth to transmit designs directly to the Brother Skitch machine.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.star-history.com%2Fog%3Frepos%3Dcurl%2Fcurl&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Daniel Stenberg reflects on the 30-year history of curl, which began on November 11, 1996, when Brazilian student Rafael Sagula published a basic HTTP download tool called httpget. Stenberg took over maintenance of the software, expanded its protocol support, renamed it to cURL, and introduced libcurl in 2000 to allow other programs to handle internet transfers.</p><p>Over the decades, curl has evolved from a hobby project powering an IRC currency bot into a cornerstone of global internet infrastructure, running in an estimated 30 billion installations. Stenberg attributes the project's longevity to continuous code refactoring, strict backward compatibility, and an independent open-source model.</p>
 <p>Nov 11 · <a href="https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50448505">hacker news</a></p>
-<br clear="all" />
-
-<h2>Go Programming Language Marks 17th Anniversary with Major Tooling and Runtime Updates</h2>
-<a name="story-27155"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgo.dev%2Fblog%2F17years%2Fgo17.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Celebrating its seventeenth anniversary, the Go project highlights major additions introduced across recent Go 1.26 and Go 1.27 releases, including generic methods, struct literal extensions, and the general availability of the revamped encoding/json/v2 package. These updates aim to address long-standing language restrictions while maintaining strict backward compatibility for large-scale production systems.</p><p>Additional updates feature the Green Tea garbage collector becoming default, experimental SIMD packages for hardware optimization, post-quantum cryptography integration, and a completely overhauled go fix command designed to help human developers and AI coding assistants adopt modern Go idioms. The platform also expanded security defenses, including a rapid URGENT track release to address weak private keys during the eMudhra certificate incident.</p>
-<p>Nov 11 · <a href="https://go.dev/blog/17years">go.dev</a> | <a href="https://lobste.rs/s/idktfu/go_turns_17">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50447829">hacker news</a></p>
 <br clear="all" />
 
 ---
