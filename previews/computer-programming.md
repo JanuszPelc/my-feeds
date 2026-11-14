@@ -8,10 +8,15 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Jane Street Develops OxCaml Domain-Specific Language for High-Performance Parallel Programming</h2>
+<p>Jane Street summer intern Sai Konkimalla developed a domain-specific language (DSL) and compiler for high-performance single-program, multiple-data (SPMD) programming in OxCaml. The project makes SIMD instruction usage more ergonomic and architecture-independent by allowing developers to write high-level kernels that compile and run across multiple processor backends.</p><p>Utilizing OxCaml's recent runtime metaprogramming features, the JIT compiler evaluates and optimizes code at runtime to eliminate branch instructions and streamline calculations. The system features a directed acyclic graph front end supporting diverse numeric types alongside specialized control flow constructs designed for parallel execution.</p>
+<p>Nov 14 · <a href="https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/">blog.janestreet.com</a> | <a href="https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance">lobsters</a></p>
+<br clear="all" />
+
 <h2>Self-Booting ZIP Archive Created Using Polyglot Techniques</h2>
 <a name="story-27507"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FZIP-Self-Extractor-Maker_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A newly developed self-booting ZIP archive functions simultaneously as a standard compressed file containing source code and a standalone bootable x86 image. By crafting the archive's initial local file header to double as valid 8086 machine code and a Multiboot header, the file can boot directly on bare-metal hardware or via QEMU.</p><p>The design exploits the structural characteristics of the ZIP format, which is read from the footer and allows custom data placement without breaking integrity. This polyglot technique enables the archive to execute an embedded bootloader that switches to 32-bit protected mode and queries disk geometry, while still retaining all files necessary to rebuild itself.</p>
-<p>Nov 14 · <a href="https://goliath32.com/blog/ziphead.html">goliath32.com</a> | <a href="https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive">lobsters</a></p>
+<p>Nov 14 · <a href="https://goliath32.com/blog/ziphead.html">goliath32.com</a> | <a href="https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50498295">hacker news</a></p>
 <br clear="all" />
 
 <h2>Implementing Kildall&#x27;s Algorithm in the Cleavir Lisp Compiler</h2>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnEvi7sEu2Kg%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGCUgHyh_MA8%3D%26rs%3DAOn4CLA2f-YLFE5iXI6slDetHIVIEQH-4w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A simplified subset of the PostScript programming language can be constructed in JavaScript by managing an operand stack for arguments and a dictionary stack for name-to-value associations. This involves mapping PostScript datatypes, such as arrays and procedures, to JavaScript objects and using regular expressions to parse input tokens into executable routines.</p><p>The implementation utilizes a modular, Forth-inspired programming style composed of short, single-purpose functions. It also provides methods for creating a Read-Eval-Print-Loop (REPL) to allow for interactive programming in environments like Node.js or QuickJS.</p>
 <p>Nov 13 · <a href="https://beyondloom.com/blog/postscript.html">beyondloom.com</a> | <a href="https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50478632">hacker news</a></p>
-<br clear="all" />
-
-<h2>ZigZag Open-Source Embroidery Software Available for Mac and Windows</h2>
-<a name="story-27389"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabsolutedigitizing.com%2Fwp-content%2Fuploads%2F2024%2F02%2FBlog-image-infographic01-01-1024x550.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ZigZag is a free, open-source embroidery software built in Rust that converts SVG artwork into machine stitches for Mac and Windows. It features a visual editor supporting multiple stitch types, including tatami fills, satin columns, and running stitches, alongside automated planning tools for overlap removal, routing, and fabric presets.</p><p>The software includes Model Context Protocol support to allow AI agents to create and edit designs collaboratively, and it can export standard embroidery formats such as PES, DST, EXP, JEF, and VP3, or connect via Bluetooth to transmit designs directly to the Brother Skitch machine.</p>
-<p>Nov 13 · <a href="https://github.com/simpsoka/zigzag">github.com</a> | <a href="https://news.ycombinator.com/item?id=50470488">hacker news</a></p>
 <br clear="all" />
 
 ---

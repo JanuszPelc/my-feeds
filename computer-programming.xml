@@ -3,17 +3,25 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-14T19:11:00+00:00</updated>
+  <updated>2026-11-14T22:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Jane Street Develops OxCaml Domain-Specific Language for High-Performance Parallel Programming</title>
+    <link href="https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/" rel="alternate" />
+    <id>https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/::v240</id>
+    <published>2026-11-14T17:33:00+00:00</published>
+    <updated>2026-11-14T17:33:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/">blog.janestreet.com</a> | <a href="https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance">lobsters</a></small></p><hr/><p>Jane Street summer intern Sai Konkimalla developed a domain-specific language (DSL) and compiler for high-performance single-program, multiple-data (SPMD) programming in OxCaml. The project makes SIMD instruction usage more ergonomic and architecture-independent by allowing developers to write high-level kernels that compile and run across multiple processor backends.</p><p>Utilizing OxCaml's recent runtime metaprogramming features, the JIT compiler evaluates and optimizes code at runtime to eliminate branch instructions and streamline calculations. The system features a directed acyclic graph front end supporting diverse numeric types alongside specialized control flow constructs designed for parallel execution.</p><hr/><small>14 Nov 2026, 22:46 UTC | #27516</small>]]></content>
+  </entry>
   <entry>
     <title>Self-Booting ZIP Archive Created Using Polyglot Techniques</title>
     <link href="https://goliath32.com/blog/ziphead.html" rel="alternate" />
     <id>https://goliath32.com/blog/ziphead.html::v240</id>
     <published>2026-11-14T13:05:00+00:00</published>
-    <updated>2026-11-14T13:05:00+00:00</updated>
+    <updated>2026-11-14T22:46:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FZIP-Self-Extractor-Maker_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://goliath32.com/blog/ziphead.html">goliath32.com</a> | <a href="https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive">lobsters</a></small></p><hr/><p>A newly developed self-booting ZIP archive functions simultaneously as a standard compressed file containing source code and a standalone bootable x86 image. By crafting the archive's initial local file header to double as valid 8086 machine code and a Multiboot header, the file can boot directly on bare-metal hardware or via QEMU.</p><p>The design exploits the structural characteristics of the ZIP format, which is read from the footer and allows custom data placement without breaking integrity. This polyglot technique enables the archive to execute an embedded bootloader that switches to 32-bit protected mode and queries disk geometry, while still retaining all files necessary to rebuild itself.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FZIP-Self-Extractor-Maker_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 18:34 UTC | #27507</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://goliath32.com/blog/ziphead.html">goliath32.com</a> | <a href="https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50498295">hacker news</a></small></p><hr/><p>A newly developed self-booting ZIP archive functions simultaneously as a standard compressed file containing source code and a standalone bootable x86 image. By crafting the archive's initial local file header to double as valid 8086 machine code and a Multiboot header, the file can boot directly on bare-metal hardware or via QEMU.</p><p>The design exploits the structural characteristics of the ZIP format, which is read from the footer and allows custom data placement without breaking integrity. This polyglot technique enables the archive to execute an embedded bootloader that switches to 32-bit protected mode and queries disk geometry, while still retaining all files necessary to rebuild itself.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FZIP-Self-Extractor-Maker_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 18:34 UTC | #27507</small>]]></content>
   </entry>
   <entry>
     <title>Implementing Kildall's Algorithm in the Cleavir Lisp Compiler</title>
