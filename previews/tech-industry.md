@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic CEO Dario Amodei Cites Computing Requirements as Major Business Dilemma</h2>
+<a name="story-27446"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.digit.in%2Fdario-amodei-ceo-anthropic.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic CEO Dario Amodei identified forecasting computing power requirements for the next one to two years as the company's primary business challenge. He attributed this difficulty to the unpredictability of the company's revenue.</p><p>The challenge underscores the difficulty of managing massive capital expenditures for AI infrastructure amidst uncertain financial returns.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Jensen Huang&#x27;s Resignation Creates Funding Gap for AI Startups</h2>
 <a name="story-27455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpress.farm%2Fwp-content%2Fuploads%2F2024%2F03%2Fthe-story-of-nvidia-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang's resignation as Nvidia CEO has created a significant funding gap for AI startups, according to venture capitalists and founders. As one of the industry's most active investors, Huang’s departure raises concerns regarding capital availability for high-cost sectors like neocloud providers, infrastructure companies, and open-weight model developers.</p><p>Interim CEO Colette Kress is expected to adopt a more conservative investment strategy, which may result in smaller checks and lower valuations. While some suggest that major tech competitors might attempt to fill the void, there is skepticism that they will replicate Nvidia's level of high-risk, large-scale funding for pre-revenue startups.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27365"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbusinessmodelanalyst.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fnvidia-cds-spread-500b-1536x1056.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Before the departure of longtime chief executive Jensen Huang, Nvidia faced demands to increase its 25% residual value support backstop for a planned $500 billion artificial intelligence financing vehicle. The proposed initiative involved negotiations with major asset managers to mobilize capital for AI compute infrastructure.</p><p>The backstop arrangement requires Nvidia to cover a portion of potential losses if borrowers default and lenders liquidate chips below assumed book values. This financial backing has drawn scrutiny from market participants regarding the extent of Nvidia's exposure to credit and valuation risks within its broader ecosystem financing strategy.</p>
 <p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50474852">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ploum Explores the Anti-Marketing Nature of the Gemini Network</h2>
-<a name="story-27386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Engineer and writer Ploum examines the Gemini network—a lightweight, non-commercial protocol—arguing that its steady growth operates entirely independently of mainstream marketing metrics and promotional platforms like Hacker News. He contends that web statistics and visitor counts are largely worthless for independent creators, encouraging writers to focus on niche communities rather than metrics-driven traffic.</p><p>Reflecting on his decision to remove traffic statistics from his blog and abandon mainstream social media, Ploum notes that his most meaningful work often generated modest metrics while viral posts were quickly forgotten. He advocates for quiet, non-commercial virtual environments that resist commercial optimization and dopamine-driven engagement loops.</p>
-<p>Nov 13 · <a href="https://ploum.net/2026-11-12-anti-marketing-gemini.html">ploum.net</a> | <a href="https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491417">hacker news</a></p>
 <br clear="all" />
 
 ---
