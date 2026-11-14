@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Probabilistic Data Structures and the Unsure Go Package</h2>
+<a name="story-27473"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lc7g155rm26xl1stv3w.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Probabilistic data structures provide approximate answers to queries about data sets while significantly reducing memory requirements compared to deterministic structures. This article explains the mechanics of Bloom filters, count-min sketches, and HyperLogLog, and introduces unsure, a Go package designed for speed and minimal dependencies.</p><p>The unsure implementation utilizes blocked Bloom filters to improve CPU cache efficiency and employs conservative updates in count-min sketches to reduce estimation errors. Benchmarks indicate that the package provides faster execution and lower memory usage than established alternatives like bits-and-blooms and BoomFilters.</p>
+<p>Nov 13 · <a href="https://antonz.org/probabilistic-data-structures/">antonz.org</a> | <a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go">lobsters</a></p>
+<br clear="all" />
+
 <h2>An Introduction to ML (Meta Language) Modules</h2>
 <a name="story-27467"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage3.slideserve.com%2F6010373%2Fml-modules-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This article introduces the ML (Meta Language) module system used in functional programming languages such as SML and OCaml. It explains how modules bundle functions and type definitions, use signatures as interfaces to define public APIs, and utilize abstract types to achieve encapsulation by hiding implementation details.</p><p>The discussion includes parameterized modules, which allow for modularity by accepting other modules as arguments, and the `include` directive for combining submodules. The article employs Rust-inspired pseudo-code to illustrate these concepts, making the paradigm more accessible to programmers from other backgrounds.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27288"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mcmillen.dev%2Fmedia%2F20190401-sigbovik-tweet.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Colin McMillen’s research, presented at SIGBOVIK 2019, uses optical character recognition (OCR) to investigate whether random paint splatters parse as valid Perl programming code. The analysis found that 93% of paint splatters are valid Perl programs, though the study also identifies specific examples that do not parse correctly.</p><p>Supplementary materials provided by the author include a gallery of splatters paired with their corresponding source code and a dataset of 100 images used in the study. The work was accepted for publication in the SIGBOVIK 2019 proceedings.</p>
 <p>Nov 12 · <a href="https://www.mcmillen.dev/sigbovik/2019.pdf">mcmillen.dev</a> | <a href="https://news.ycombinator.com/item?id=50459745">hacker news</a></p>
-<br clear="all" />
-
-<h2>C++26 Standard Fails National Bodies Vote</h2>
-<a name="story-27245"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E12AQEmdSkE_4eHxQ%2Farticle-cover_image-shrink_600_2000%2Farticle-cover_image-shrink_600_2000%2F0%2F1729503918002%3Fe%3D2147483647%26v%3Dbeta%26t%3DAxtyEcgxkfv9yvtXg1B79jIU8Jx-1FLY0SFzR9X9rqg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The C++26 standard draft has failed to pass approval from national bodies for the first time in the language's history. The rejection was triggered by disagreement over the 'Contracts' feature, which failed to meet the required voting thresholds for both P-members and national member bodies.</p><p>The failure follows long-standing internal conflicts within the C++ Standards Committee (WG21) over the implementation of runtime contract enforcement. While the committee had previously voted to include the feature, various national bodies and prominent language experts raised concerns regarding its technical complexity and potential for inconsistent enforcement.</p>
-<p>Nov 12 · <a href="https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/">herecomesthemoon.net</a> | <a href="https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-share-7519795139859517440-AOth/">linkedin.com</a> | <a href="https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50457429">hacker news</a></p>
 <br clear="all" />
 
 ---
