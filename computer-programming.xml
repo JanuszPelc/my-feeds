@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-13T19:53:00+00:00</updated>
+  <updated>2026-11-13T19:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Joshka Proposes Protocol for Terminal Cell Borders</title>
+    <link href="https://www.joshka.net/cell-borders/" rel="alternate" />
+    <id>https://www.joshka.net/cell-borders/::v240</id>
+    <published>2026-11-13T19:55:00+00:00</published>
+    <updated>2026-11-13T19:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.joshka.net%2Fcell-borders%2Fbox-drawing-block.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.joshka.net/cell-borders/">joshka.net</a> | <a href="https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491423">hacker news</a></small></p><hr/><p>Ratatui maintainer Joshka has developed a new terminal protocol that draws thin border lines directly on cell edges as cell attributes rather than using traditional Unicode box-drawing characters. This approach prevents borders from consuming entire rows and columns, enabling cleaner user interfaces with space-efficient panels, tabs, and widgets.</p><p>The protocol is implemented via a patch for the Ghostty terminal emulator and demoed through Ratatui applications, supporting features like multiple line styles, rounded corners with anti-aliasing, and automated edge-conflict resolution. Joshka is currently seeking feedback from terminal and text user interface authors to refine the draft specification.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.joshka.net%2Fcell-borders%2Fbox-drawing-block.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 02:23 UTC | #27463</small>]]></content>
+  </entry>
   <entry>
     <title>The Need for Mobile OS Alternatives to Android and iOS</title>
     <link href="https://blog.ovalerio.net/archives/3359" rel="alternate" />
@@ -346,22 +355,5 @@
     <updated>2026-11-09T05:31:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fubunlog.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fredox-os-imagen-destacada-blog-ubunlog.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.redox-os.org/news/virtualized-redox/">redox-os.org</a> | <a href="https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud">lobsters</a></small></p><hr/><p>Redox OS developer MJ Pooladkhay details recent progress in running Redox as a virtualized guest, highlighting the implementation of a Virtio-FS driver and successful boots into a shell on Cloud Hypervisor. Funded by NGI Zero Commons and NLnet, the project aims to position the memory-safe microkernel operating system as a secure platform for cloud servers and microservices.</p><p>Running Redox on modern cloud hypervisors required removing legacy PC hardware dependencies, such as updating transitional VirtIO device matching, routing legacy interrupts through the I/O APIC, and implementing a replacement for missing timer hardware using the CPU local APIC timer. Remaining goals under the development grant include eliminating further legacy platform assumptions, enabling software-controlled shutdown, and eventually exploring Redox's potential to act as a virtual machine host.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fubunlog.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fredox-os-imagen-destacada-blog-ubunlog.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 11:36 UTC | #26895</small>]]></content>
-  </entry>
-  <entry>
-    <title>Project Steadfast Developed as General-Purpose Macro Tool for Ruby</title>
-    <link href="https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast" rel="alternate" />
-    <id>https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast::v240</id>
-    <published>2026-11-09T02:12:00+00:00</published>
-    <updated>2026-11-09T02:12:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fforums-cdn.chiefarchitect.com%2Fchieftalk%2Fmonthly_2024_10%2Fimage.png.1a0e0fc36f502622d4d9cf6be7f1efd9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast">noteflakes.com</a> | <a href="https://lobste.rs/s/5cavvx/introducing_project_steadfast">lobsters</a></small></p><hr/><p>The author is developing Project Steadfast, a general-purpose macro tool for Ruby that implements quote and unquote mechanisms to manipulate and generate abstract syntax trees at runtime. The project aims to provide a cleaner alternative to runtime code evaluation via strings, streamlining complex metaprogramming use cases such as domain-specific language compilation and code unrolling.</p><p>Funded by a Ruby Association grant with Yukihiro Matsumoto serving as a mentor, the project builds on the author's previous work with the Sirop AST converter and the Papercraft library. Scheduled for completion in March 2027, the development will explore integrating these macro tools into popular gems like ERB, ActiveRecord, and Roda, with ongoing updates hosted in an open-source repository.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fforums-cdn.chiefarchitect.com%2Fchieftalk%2Fmonthly_2024_10%2Fimage.png.1a0e0fc36f502622d4d9cf6be7f1efd9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>9 Nov 2026, 08:51 UTC | #26878</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nspawn 3.0 Released With Docker-Compatible Engine API</title>
-    <link href="https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/" rel="alternate" />
-    <id>https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/::v240</id>
-    <published>2026-11-09T02:11:00+00:00</published>
-    <updated>2026-11-09T02:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/">blog.nspawn.org</a> | <a href="https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api">lobsters</a></small></p><hr/><p>Nspawn 3.0 introduces a Docker-compatible Engine API operating onkes the host via a dedicated socket, enabling tools like the standard docker command-line utility and GitLab Runner to manage systemd-nspawn containers. The release provides compatibility with API versions from 1.24 to 1.51, supporting core container operations, image pulls, and network and volume management.</p><p>Subsequent updates, including versions 3.1.0 and 3.2.0, build on this foundation by adding device cgroup rule configuration and streamlining local image and machine naming conventions across commands. While certain advanced features like image builds and container renames remain unsupported, the tool offers a structured alternative for container administration using existing Docker-compatible workflows.</p><hr/><small>9 Nov 2026, 08:46 UTC | #26877</small>]]></content>
   </entry>
 </feed>

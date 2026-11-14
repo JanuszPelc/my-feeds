@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Joshka Proposes Protocol for Terminal Cell Borders</h2>
+<a name="story-27463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.joshka.net%2Fcell-borders%2Fbox-drawing-block.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ratatui maintainer Joshka has developed a new terminal protocol that draws thin border lines directly on cell edges as cell attributes rather than using traditional Unicode box-drawing characters. This approach prevents borders from consuming entire rows and columns, enabling cleaner user interfaces with space-efficient panels, tabs, and widgets.</p><p>The protocol is implemented via a patch for the Ghostty terminal emulator and demoed through Ratatui applications, supporting features like multiple line styles, rounded corners with anti-aliasing, and automated edge-conflict resolution. Joshka is currently seeking feedback from terminal and text user interface authors to refine the draft specification.</p>
+<p>Nov 13 · <a href="https://www.joshka.net/cell-borders/">joshka.net</a> | <a href="https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491423">hacker news</a></p>
+<br clear="all" />
+
 <h2>The Need for Mobile OS Alternatives to Android and iOS</h2>
 <a name="story-27461"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunity.zextras.com%2Fwp-content%2Fuploads%2F2024%2F04%2FDigital_Sovereignty_2024-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Increasingly restrictive controls within the Android and iOS ecosystems are reducing user agency and complicating the installation of independent software. While de-googled ROMs provide some relief, trends toward centralized permissions and restricted sideloading threaten long-term digital sovereignty on mobile devices.</p><p>A viable alternative requires an open-source core, support for multiple app stores, and a focus on interoperability rather than merely copying existing ecosystems. Currently, community-driven projects such as SailfishOS, Nura, and Ubuntu Touch are the most prominent candidates for establishing a functional third ecosystem.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.den.dev%2Fimages%2Fpostmedia%2Fdocs-github-actions%2Fworkflow-init.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GitHub Actions now supports workflow lockfiles, allowing developers to use version tags in workflow files while maintaining the security of immutable commit SHAs. This mechanism helps prevent supply-chain attacks where mutable tags are redirected to malicious code.</p><p>Users can manage these files using the `gh-actions-lock` extension for the GitHub CLI to generate and update `.github/workflows/actions.lock` files. The solution is compatible with automated dependency update tools like Dependabot and Renovate, and can be verified in continuous integration to ensure lockfiles remain synchronized with workflow definitions.</p>
 <p>Nov 11 · <a href="https://hugovk.dev/blog/2026/lock-github-actions/">hugovk.dev</a> | <a href="https://github.blog/changelog/2026-10-28-github-actions-workflow-lockfiles-are-generally-available/">github.blog</a> | <a href="https://lobste.rs/s/v3uidx/lock_your_github_actions">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50459485">hacker news</a></p>
-<br clear="all" />
-
-<h2>Sand Hyper-Realistic Browser-Based Sand Simulator</h2>
-<a name="story-27235"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F2137280%2Fss_4ba78597ebd8572a36a85060cd1043a2aad5f469.1920x1080.jpg%3Ft%3D1692209762&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A hyper-realistic sand simulator built with WebGL2 and JavaScript is accessible via web browsers on desktops, tablets, and mobile devices.</p><p>The simulation allows users to interact with the grains by pushing them with a finger, tilting the device to induce sliding, or shaking it to scatter the sand.</p>
-<p>Nov 11 · <a href="https://av.github.io/safe-sand/">av.github.io</a> | <a href="https://news.ycombinator.com/item?id=50453288">hacker news</a></p>
 <br clear="all" />
 
 ---
