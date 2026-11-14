@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>History and Decline of Network Equipment Pioneer 3Com</title>
+    <link href="https://dfarq.homeip.net/what-happened-to-3com/" rel="alternate" />
+    <id>https://dfarq.homeip.net/what-happened-to-3com/::v240</id>
+    <published>2026-11-14T05:58:00+00:00</published>
+    <updated>2026-11-14T05:58:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dfarq.homeip.net/what-happened-to-3com/">dfarq.homeip.net</a> | <a href="https://lobste.rs/s/pgmw6b/what_happened_3com">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491830">hacker news</a></small></p><hr/><p>Founded in 1979 by Ethernet co-inventor Bob Metcalfe, 3Com grew into a dominant multi-billion-dollar manufacturer of network cards and enterprise equipment during the 1980s and 1990s. The company's long-term decline followed the dotcom bust due to a series of strategic missteps, including temporarily exiting the enterprise networking market, acquiring US Robotics during the shift away from dial-up modems, and losing its market share to cheaper competitors like Intel.</p><p>Hewlett-Packard ultimately acquired 3Com's assets for $2.7 billion in late 2009, folding its hardware into HP's enterprise networking division while phasing out the 3Com brand. Today, vintage 3Com network adapters remain sought-after by retro computing enthusiasts for their build quality, reliability, and robust driver support across historical computing platforms.</p><hr/><small>14 Nov 2026, 16:17 UTC | #27497</small>]]></content>
+  </entry>
+  <entry>
     <title>Sable Details New Approach to Link Previews for Matrix Clients</title>
     <link href="https://sable.moe/en/blog/link-previews-and-you/" rel="alternate" />
     <id>https://sable.moe/en/blog/link-previews-and-you/::v240</id>
