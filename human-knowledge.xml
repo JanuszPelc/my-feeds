@@ -3,9 +3,27 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-13T23:02:00+00:00</updated>
+  <updated>2026-11-14T00:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Study Reveals Nuanced Social Behavior and Associations Among Solitary Black Rhinos</title>
+    <link href="https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251" rel="alternate" />
+    <id>https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251::v240</id>
+    <published>2026-11-14T00:03:00+00:00</published>
+    <updated>2026-11-14T00:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.piri.net%2Fresim%2Fupload%2F2018%2F06%2F27%2F12%2F22%2F71d5abbc9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251">theconversation.com</a></small></p><hr/><p>An analysis of nearly 70,000 black rhino sightings across 14 reserves reveals that while the species is predominantly solitary and prone to aggression, individuals regularly form peaceful groups with familiar associates. The study found that about 8% of sightings involved groups of three to seven animals, and these interactions typically occurred between rhinos that had previously associated with one another.</p><p>These findings provide critical insights for conservation translocations, where moving animals to new areas can trigger lethal fighting. Researchers suggest that selecting rhinos with existing social bonds and carefully managing the ratio of adult males—which are more frequently avoided by other adults and associated with lower survival rates—can significantly reduce post-release aggression and improve population recovery efforts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.piri.net%2Fresim%2Fupload%2F2018%2F06%2F27%2F12%2F22%2F71d5abbc9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 10:56 UTC | #27487</small>]]></content>
+  </entry>
+  <entry>
+    <title>Study of 125,000-Year-Old Saudi Lakeshore Reveals Early Human Plant Poison Use</title>
+    <link href="https://theconversation.com/discoveries-from-a-125-000-year-old-lakeshore-reveal-life-in-a-greener-arabia-293952" rel="alternate" />
+    <id>https://theconversation.com/discoveries-from-a-125-000-year-old-lakeshore-reveal-life-in-a-greener-arabia-293952::v240</id>
+    <published>2026-11-14T00:02:00+00:00</published>
+    <updated>2026-11-14T00:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.staff.universiteitleiden.nl%2Fbinaries%2Fcontent%2Fgallery%2Ful2%2Fmain-images%2Fgeneral%2Fafbeeldingen-in-tekst%2Funsorted%2Fneumark-nord2-excavation.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/discoveries-from-a-125-000-year-old-lakeshore-reveal-life-in-a-greener-arabia-293952">theconversation.com</a> | <a href="https://doi.org/10.1126/science.aef9342">doi.org</a></small></p><hr/><p>Excavations at the ‘Uruq Aljelibah site in southern Saudi Arabia’s Mundafan basin indicate that Homo sapiens occupied a lush freshwater lakeshore environment around 125,000 years ago. Researchers analyzing thousands of stone tools and animal fossils recovered chemical and microscopic evidence demonstrating that early humans utilized plant toxins on stone points for hunting.</p><p>These findings push back the earliest documented evidence of poison-assisted hunting by tens of thousands of years. They also offer detailed insights into how early human populations adapted and utilized resources during humid climatic phases of Green Arabia before severe arid conditions returned.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.staff.universiteitleiden.nl%2Fbinaries%2Fcontent%2Fgallery%2Ful2%2Fmain-images%2Fgeneral%2Fafbeeldingen-in-tekst%2Funsorted%2Fneumark-nord2-excavation.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 10:54 UTC | #27486</small>]]></content>
+  </entry>
   <entry>
     <title>Jan von Plato Uses Claude AI to Unlock Hidden Discoveries in Kurt Gödel’s Notebooks</title>
     <link href="https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths" rel="alternate" />
