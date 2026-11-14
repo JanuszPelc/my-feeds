@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Amazon Plans to Aggregate Global Product Data to Counter AI Shopping Agents</h2>
 <a name="story-27460"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techacrobat.com%2Fwp-content%2Fuploads%2F2025%2F04%2FHH.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is developing a strategy to aggregate comprehensive product information from across the global market, including by crawling competitor websites, to ensure its platform maintains exhaustive data. The initiative is designed to counter the rise of artificial intelligence shopping agents that might otherwise direct consumers toward external sites with superior product descriptions and details.</p><p>By centralizing extensive product information, the company aims to prevent shoppers from needing to navigate away from its marketplace as artificial intelligence increasingly influences online retail navigation and purchasing decisions. The effort reflects growing industry competition over structured product data as automated shopping assistants reshape how users discover and buy goods online.</p>
-<p>Nov 14 · <a href="https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/">reuters.com</a></p>
+<p>Nov 14 · <a href="https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50496391">hacker news</a></p>
 <br clear="all" />
 
 <h2>NVIDIA Hardware Worth $11.4 Million Stolen During Shipment from California to Texas</h2>
