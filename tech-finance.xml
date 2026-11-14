@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-14T05:56:00+00:00</updated>
+  <updated>2026-11-14T06:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Charta Health Raises $55 Million and Launches AI Coding Tools</title>
+    <link href="https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools" rel="alternate" />
+    <id>https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools::v240</id>
+    <published>2026-11-14T06:36:00+00:00</published>
+    <updated>2026-11-14T06:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.gunder.com%2Fa%2Fweb%2FckTQYJgYZCcDhoZNRZgGjF%2F8Mgboq%2Fcartahealth-sereiesb-gundersondettmer-default-social-share-social-sharing-image-10351.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools">mobihealthnews.com</a> | <a href="https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html">prnewswire.com</a></small></p><hr/><p>San Francisco-based Charta Health has secured $55 million in a funding round led by Insight Partners, bringing its total capital raised to $85 million. Alongside the financing, the company launched Charta for Payers, a suite of six artificial intelligence products designed to improve accuracy and operational efficiency in medical billing and workflows.</p><p>The newly acquired capital will support the ongoing rollout of Charta for Providers and help expand the company's payer offerings into new specialties. Charta Health operates in a competitive market for healthcare revenue cycle management and AI-driven chart review, alongside industry peers such as Arintra, Candid Health, and CodaMetrix.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gunder.com%2Fa%2Fweb%2FckTQYJgYZCcDhoZNRZgGjF%2F8Mgboq%2Fcartahealth-sereiesb-gundersondettmer-default-social-share-social-sharing-image-10351.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 16:41 UTC | #27474</small>]]></content>
+  </entry>
   <entry>
     <title>Tendrils Compute Raises $30 Million in Funding to Develop Parallel Processor Architecture</title>
     <link href="https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/" rel="alternate" />

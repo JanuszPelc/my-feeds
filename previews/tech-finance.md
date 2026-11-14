@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Charta Health Raises $55 Million and Launches AI Coding Tools</h2>
+<a name="story-27474"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gunder.com%2Fa%2Fweb%2FckTQYJgYZCcDhoZNRZgGjF%2F8Mgboq%2Fcartahealth-sereiesb-gundersondettmer-default-social-share-social-sharing-image-10351.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>San Francisco-based Charta Health has secured $55 million in a funding round led by Insight Partners, bringing its total capital raised to $85 million. Alongside the financing, the company launched Charta for Payers, a suite of six artificial intelligence products designed to improve accuracy and operational efficiency in medical billing and workflows.</p><p>The newly acquired capital will support the ongoing rollout of Charta for Providers and help expand the company's payer offerings into new specialties. Charta Health operates in a competitive market for healthcare revenue cycle management and AI-driven chart review, alongside industry peers such as Arintra, Candid Health, and CodaMetrix.</p>
+<p>Nov 14 · <a href="https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools">mobihealthnews.com</a> | <a href="https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html">prnewswire.com</a></p>
+<br clear="all" />
+
 <h2>Tendrils Compute Raises $30 Million in Funding to Develop Parallel Processor Architecture</h2>
 <a name="story-27472"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdjdongjin.github.io%2Fassets%2Fimg%2F15418%2F3_combine_example.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cambridge-based startup Tendrils Compute has raised $30 million in a funding round led by Benchmark to develop an alternative computer processor architecture. The company is designing chips based on interaction nets rather than conventional sequential CPU and GPU models, aiming to enable thousands of cores to operate in parallel.</p><p>The startup is developing its hardware in tandem with Vine, an open-source programming language designed for parallel-first architectures. While Tendrils has not yet disclosed hardware benchmarks or performance levels, its funding round included participation from the UK Sovereign AI Fund, Visionaries Clubs, and several venture capital firms.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Q-Ctrl Raises $290 Million in Funding Valuing Startup at Over $1 Billion</h2>
 <p>Australian quantum software startup Q-Ctrl has raised $290 million in a funding round led by Salesforce Ventures, pushing its valuation past $1 billion. The company develops quantum-enabled sensors designed to assist ships and aircraft with navigation during GPS outages.</p><p>The funding round also received backing from Jared Kushner’s Affinity Partners. Q-Ctrl focuses on applying quantum technology to solve control engineering problems and enhance navigation resilience.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>SMIC Reports Record Third-Quarter Revenue and Increased Net Profit</h2>
-<a name="story-27259"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.trendforce.com%2Fblog%2Fwp-content%2Fuploads%2F2024%2F11%2F08131351%2FSMIC-Q324-Revenue-1024x536.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SMIC, China's largest contract chip manufacturer, reported third-quarter revenue of approximately $3.19 billion, a 34% increase year-over-year. Net profit for the period rose 123% to about $428.4 million, surpassing analyst estimates of $396.8 million.</p><p>The company's gross margin reached 29.9%, exceeding its guidance of 26% to 28%. This performance was attributed to spillover effects from the artificial intelligence sector.</p>
-<p>Nov 12 · <a href="https://www.wsj.com/business/earnings/chinas-smic-doubles-profit-posts-record-revenue-on-ai-spillover-effects-0606debc?st=4BA8bL&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---
