@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/tech-finance.png" width="28" align="texttop" /> &nbsp;LangChain Raises $300M at $3 Billion Valuation</h2>
+<a name="story-27300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff757df35-c3cc-4009-81dc-aaed208aa8e9_2544x2064.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>LangChain raised $300 million in a funding round led by Alphabet's CapitalG, bringing the startup's valuation to $3 billion. This follows a $1.25 billion valuation recorded in 2025.</p><p>The company provides an agent-development platform designed to help large enterprises build and deploy custom AI agents.</p>
+<p>Nov 14 · <a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">wsj.com</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-industry.png" width="28" align="texttop" /> &nbsp;Nvidia Employees Petition for Jensen Huang&#x27;s Return Following Resignation</h2>
 <a name="story-27413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fjensen-huang-headshot-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Some Nvidia employees are calling for the return of Jensen Huang following his abrupt resignation as CEO amid reports of multiple extramarital affairs. Internal correspondence reviewed by WIRED shows a suggestion box post with over 1,600 comments urging the board to bring back Huang and consider employee sentiment.</p><p>Huang resigned after acknowledging he was unfaithful to his wife, following disclosures of relationships with multiple individuals, including a direct report and another Nvidia employee. The leadership crisis has led the board to name CFO Colette Kress as interim CEO and appoint Harvey Jones as board chair, while drawing scrutiny from US lawmakers and the FBI.</p>
@@ -101,12 +107,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27085"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eesel.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fwmeojibgfvjvinftolho.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic_assets%2Fblog-gen%2F8a5ea7e3-c792-48e9-a2ab-b082aa5bb039%26w%3D1680%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon and AWS engineers replaced Claude Sonnet 4.6 with the Strands Decider E4B decision model to label tickets within an internal system. This transition reduced token costs by approximately 98% and decreased average call latency from 4,215 ms to 897 ms. The model maps various ticket types, such as customer escalations and security findings, into a fixed set of 20 categories.</p><p>The efficiency gains result from the decision model returning a single choice rather than a full JSON object and utilizing significantly shorter prompts. The implementation utilizes AWS services such as SageMaker, SQS, and Lambda, and was validated through a three-way deployment process that ran both models in parallel to compare accuracy before fully transitioning.</p>
 <p>Nov 12 · <a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">strandsagents.com</a> | <a href="https://news.ycombinator.com/item?id=50436640">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/music-production.png" width="28" align="texttop" /> &nbsp;Producer Daramola Discusses Studio Gear and Production Philosophy</h2>
-<a name="story-27143"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p>
-<p>Nov 12 · <a href="https://musictech.com/features/interviews/daramol-interview/">musictech.com</a></p>
 <br clear="all" />
 
 ---
