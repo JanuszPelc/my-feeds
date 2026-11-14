@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;LibreOffice Highlights Reliability in Post During Microsoft Outage</h2>
+<a name="story-27476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2023%2F12%2FLibreOffice-24.2-release-1024x546.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>LibreOffice shared a message on X stating that the software works 365 days a year. The post was made in response to a service outage affecting Microsoft services.</p><p>The statement emphasizes the availability and reliability of local-first, open-source software, which maintains functionality without requiring continuous cloud connectivity.</p>
+<p>Nov 14 · <a href="https://twitter.com/LibreOffice/status/2121205272479998268">x.com</a> | <a href="https://news.ycombinator.com/item?id=50486482">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;TechCrunch Evaluates Potential Successors for Nvidia CEO Jensen Huang</h2>
 <a name="story-27230"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvisionarycios.com%2Fwp-content%2Fuploads%2F2026%2F02%2FV-CIO-Nvidia-CEO-Jensen-Huang-Says-AI-Will-Not-Replace-Software-or-Jobs-Source-bloomberg.com-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amid mounting scrutiny surrounding Nvidia CEO Jensen Huang and an absence of a formal succession plan, industry observers have begun speculating on potential replacements for the chipmaker's long-serving leader. The leadership uncertainty follows recent reports detailing executive controversies and investigations into the company's inner circle.</p><p>Potential candidates discussed range from external semiconductor executives like AMD CEO Lisa Su and Intel’s Lip-Bu Tan to internal engineering leaders such as Nvidia hardware vice president Ian Buck. While some commentators have suggested alternative figures or insiders, the lack of an obvious designated successor highlights key-person risks for one of the world's most valuable technology companies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27151"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SoftBank recorded a $3.7 billion earnings hit following the cancellation of gas turbine reservations intended to power artificial intelligence infrastructure. The canceled capacity exceeded 13GW, an amount equivalent to the electrical output of six Hoover Dams.</p><p>The loss highlights the scale of energy resource requirements and the financial volatility involved in securing power for large-scale AI expansion.</p>
 <p>Nov 13 · <a href="https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/ai-news.png" width="28" align="texttop" /> &nbsp;Google Integrates Gemini 4 Hydrogen Model into Search</h2>
-<a name="story-27327"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google is integrating the Gemini 4 Hydrogen model into Search to improve the handling of complex, multi-part questions and typos. Optimized for speed and agentic workflows, the model completes tasks 2.5 times faster than the previous Gemini 3.8 Flash.</p><p>The update introduces enhanced visual responses, such as comparison tables and structured data, and utilizes an improved "fan-out" technique for better query discovery. Hydrogen is rolling out globally to Search users, AI Studio, the Gemini API, and the Gemini App.</p>
-<p>Nov 13 · <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50471431">hacker news</a></p>
 <br clear="all" />
 
 ---
