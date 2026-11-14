@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Tesla Opens Cybercab Orders for Personal Use Starting at $29,990</h2>
+<a name="story-27464"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.notateslaapp.com%2Fimg%2Fcontainers%2Farticle_images%2Frobotaxi%2Fcybercab-studio.webp%2Fb3697eec915737dff567818b0318df6d%2Fcybercab-studio.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tesla has invited select customers to place orders for its autonomous Cybercab for personal use, priced at $29,990 before taxes. The purchase requires an additional $299-per-month autonomy subscription to operate.</p><p>The vehicle's availability is initially limited, and its operation is tied to specific geofences established for the company's robotaxi network. The announcement marks a step toward bringing the steering-wheel-free vehicle to individual consumers.</p>
+<p>Nov 14 · <a href="https://www.bloomberg.com/news/articles/2026-11-14/tesla-says-it-s-starting-to-sell-cybercabs-for-personal-use">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Amazon Plans to Aggregate Global Product Data to Counter AI Shopping Agents</h2>
 <a name="story-27460"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techacrobat.com%2Fwp-content%2Fuploads%2F2025%2F04%2FHH.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is developing a strategy to aggregate comprehensive product information from across the global market, including by crawling competitor websites, to ensure its platform maintains exhaustive data. The initiative is designed to counter the rise of artificial intelligence shopping agents that might otherwise direct consumers toward external sites with superior product descriptions and details.</p><p>By centralizing extensive product information, the company aims to prevent shoppers from needing to navigate away from its marketplace as artificial intelligence increasingly influences online retail navigation and purchasing decisions. The effort reflects growing industry competition over structured product data as automated shopping assistants reshape how users discover and buy goods online.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27380"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F13%2Fsmall%2F4223564_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics is in discussions to acquire Modine Manufacturing, a US-based maker of data center cooling systems, according to people familiar with the matter. Negotiations are reportedly moving quickly, with a potential agreement emerging as soon as the coming weeks.</p><p>Modine carries a market value of approximately $5.6 billion. A prospective deal would expand Samsung's footprint in the infrastructure sector as demand surges for specialized thermal management solutions driven by the artificial intelligence boom and expanding data center capacities.</p>
 <p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Nscale Needs Additional Funding for 2027 Commitments Following Anthropic Deal</h2>
-<a name="story-27378"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQGOIFDe3f-7eg%2Ffeedshare-shrink_1280%2FB56ZqcfjRbG0As-%2F0%2F1763562108666%3Fe%3D2147483647%26v%3Dbeta%26t%3DIUjVraPeUZYD7w33wLFCSh2nodxRUgnSV8vuTf_clsI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia-backed AI cloud provider Nscale has stated in a recent filing that it requires additional financing to fulfill its 2027 commitments after placing substantial Nvidia chip orders for a $45 billion deal with Anthropic. The development has cast uncertainty over the company's previously planned $35 billion initial public offering.</p><p>The massive infrastructure buildout highlights the immense capital demands and financial risks facing emerging AI cloud providers amid surging industry demand. Securing sufficient funding will be crucial for Nscale to maintain its contractual obligations and navigate its path toward public markets.</p>
-<p>Nov 13 · <a href="https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47">ft.com</a></p>
 <br clear="all" />
 
 ---
