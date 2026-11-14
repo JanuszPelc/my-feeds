@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>The Need for Mobile OS Alternatives to Android and iOS</h2>
+<a name="story-27461"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunity.zextras.com%2Fwp-content%2Fuploads%2F2024%2F04%2FDigital_Sovereignty_2024-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Increasingly restrictive controls within the Android and iOS ecosystems are reducing user agency and complicating the installation of independent software. While de-googled ROMs provide some relief, trends toward centralized permissions and restricted sideloading threaten long-term digital sovereignty on mobile devices.</p><p>A viable alternative requires an open-source core, support for multiple app stores, and a focus on interoperability rather than merely copying existing ecosystems. Currently, community-driven projects such as SailfishOS, Nura, and Ubuntu Touch are the most prominent candidates for establishing a functional third ecosystem.</p>
+<p>Nov 13 · <a href="https://blog.ovalerio.net/archives/3359">blog.ovalerio.net</a> | <a href="https://lobste.rs/s/9oq6fr/need_for_at_least_third_option">lobsters</a></p>
+<br clear="all" />
+
 <h2>Ali Chraghi Details Development of AMP Music Player in Zig</h2>
 <a name="story-27452"><img src="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Ali Chraghi details the creation of AMP, a minimal music player built in Zig with a custom UI and native system integration. Prompted by dissatisfaction with existing offline players and internet blackouts in Iran, the project evolved through extensive use of frontier large language models before a massive rewrite to remove AI-generated code bloat.</p><p>The development process coincided with prolonged internet restrictions and an account ban from Anthropic, forcing a rigorous line-by-line code review that ultimately resulted in a more robust and streamlined application. Moving forward, the project's roadmap includes support for Windows, Android, Linux packaging, and a music server.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27235"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F2137280%2Fss_4ba78597ebd8572a36a85060cd1043a2aad5f469.1920x1080.jpg%3Ft%3D1692209762&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A hyper-realistic sand simulator built with WebGL2 and JavaScript is accessible via web browsers on desktops, tablets, and mobile devices.</p><p>The simulation allows users to interact with the grains by pushing them with a finger, tilting the device to induce sliding, or shaking it to scatter the sand.</p>
 <p>Nov 11 · <a href="https://av.github.io/safe-sand/">av.github.io</a> | <a href="https://news.ycombinator.com/item?id=50453288">hacker news</a></p>
-<br clear="all" />
-
-<h2>Rust Project Announces Google Summer of Code 2026 Results</h2>
-<p>All 13 projects participating in the Google Summer of Code (GSoC) 2026 for the Rust Project were successfully completed and passed their final evaluations. Contributions included improvements to GPU offloading, adding WebAssembly linking support to the Wild linker, and implementing new language features such as `impl` and `mut` restrictions.</p><p>The program serves as a primary pipeline for introducing new contributors to the Rust community. Several project outcomes, including work on the `std::autodiff` and `std::offload` modules, are available in the Rust `nightly` compiler channel.</p>
-<p>Nov 11 · <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/uz2j2h/google_summer_code_2026_results">lobsters</a></p>
 <br clear="all" />
 
 ---
