@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Matt Bee&#x27;s Blog Impersonated by Clone Website</h2>
+<a name="story-27482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimpersonally.io%2Fwp-content%2Fuploads%2F2025%2F04%2Fmitad-blog-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An unauthorized domain, mataroa.site, is scraping and re-hosting content from a personal blog. The clone uses watermarked images from the original source and includes a hidden link to a website cloning tool.</p><p>The site also contains meta tags for mitgo.com, an SEO scamming platform. While the author has filed an abuse report with the registrar Namecheap, they noted that Cloudflare's abuse reporting mechanism is currently non-functional.</p>
+<p>Nov 13 · <a href="https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/">mattbee.mataroa.blog</a> | <a href="https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50488664">hacker news</a></p>
+<br clear="all" />
+
 <h2>Probabilistic Data Structures and the Unsure Go Package</h2>
 <a name="story-27473"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lc7g155rm26xl1stv3w.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Probabilistic data structures provide approximate answers to queries about data sets while significantly reducing memory requirements compared to deterministic structures. This article explains the mechanics of Bloom filters, count-min sketches, and HyperLogLog, and introduces unsure, a Go package designed for speed and minimal dependencies.</p><p>The unsure implementation utilizes blocked Bloom filters to improve CPU cache efficiency and employs conservative updates in count-min sketches to reduce estimation errors. Benchmarks indicate that the package provides faster execution and lower memory usage than established alternatives like bits-and-blooms and BoomFilters.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27368"><img src="https://wsrv.nl/?url=https%3A%2F%2Fratfactor.com%2Fcards%2Fimages%2Fbaochip1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Baochip-1x is an open 22nm RISC-V system-on-chip (SoC) designed for high-assurance applications. It includes a memory management unit (MMU), an I/O coprocessor (BIO), and hardware security features such as AES encryption and a true random number generator. The chip is also designed to be physically inspectable using infrared cameras.</p><p>The SoC is specifically designed to run the Xous microkernel, a pure-Rust operating system. It is available on the Dabao evaluation board, which can be programmed using UF2 files and interfaced through a virtual serial console.</p>
 <p>Nov 12 · <a href="https://ratfactor.com/cards/hello-baochip">ratfactor.com</a> | <a href="https://www.bunniestudios.com/blog/2026/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/">bunniestudios.com</a> | <a href="https://lobste.rs/s/3gw2f4/hello_baochip">lobsters</a></p>
-<br clear="all" />
-
-<h2>Colin McMillen Reports 93% of Paint Splatters are Valid Perl Programs</h2>
-<a name="story-27288"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mcmillen.dev%2Fmedia%2F20190401-sigbovik-tweet.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Colin McMillen’s research, presented at SIGBOVIK 2019, uses optical character recognition (OCR) to investigate whether random paint splatters parse as valid Perl programming code. The analysis found that 93% of paint splatters are valid Perl programs, though the study also identifies specific examples that do not parse correctly.</p><p>Supplementary materials provided by the author include a gallery of splatters paired with their corresponding source code and a dataset of 100 images used in the study. The work was accepted for publication in the SIGBOVIK 2019 proceedings.</p>
-<p>Nov 12 · <a href="https://www.mcmillen.dev/sigbovik/2019.pdf">mcmillen.dev</a> | <a href="https://news.ycombinator.com/item?id=50459745">hacker news</a></p>
 <br clear="all" />
 
 ---

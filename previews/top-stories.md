@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Nvidia Board Approaches Arm CEO Rene Haas as Potential Successor to Jensen Huang</h2>
+<a name="story-27433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia's board of directors has approached Arm chief executive Rene Haas as part of its search for a potential successor to Jensen Huang. People familiar with the matter indicate that the head of the SoftBank-owned UK semiconductor group was sounded out regarding the leadership role.</p><p>Haas previously worked at Nvidia for more than a decade before moving to Arm, where he has successfully steered the company through its public listing and subsequent expansion. The inquiry highlights long-term succession planning considerations at the world's leading artificial intelligence chipmaker.</p>
+<p>Nov 14 · <a href="https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50486489">hacker news</a></p>
+<br clear="all" />
+
+<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Attorney General Todd Blanche Says DOJ Has Not Concluded Alice Huang Was Chinese Spy</h2>
+<a name="story-27348"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5MZA.img%3Fw%3D768%26h%3D512%26m%3D6%26x%3D294%26y%3D106%26s%3D125%26d%3D125&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>US Attorney General Todd Blanche stated that the Department of Justice has not reached a conclusion on whether Alice Huang acted as a Chinese spy. Blanche confirmed that the FBI is currently conducting an investigation into the matter.</p><p>The inquiry follows allegations that Huang, a businesswoman associated with Nvidia CEO Jensen Huang, was recruited by China's Ministry of State Security. The probe is examining whether her activities facilitated the acquisition of sensitive artificial intelligence technology by Chinese entities.</p>
+<p>Nov 14 · <a href="https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50476257">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;LibreOffice Highlights Reliability in Post During Microsoft Outage</h2>
 <a name="story-27476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2023%2F12%2FLibreOffice-24.2-release-1024x546.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>LibreOffice shared a message on X stating that the software works 365 days a year. The post was made in response to a service outage affecting Microsoft services.</p><p>The statement emphasizes the availability and reliability of local-first, open-source software, which maintains functionality without requiring continuous cloud connectivity.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmultiple-microsoft-365-services-are-experiencing-an-outage%2Fintro-1794511005.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple platforms, including Outlook, Teams, SharePoint Online, Microsoft Copilot 365, and Microsoft Defender XDR, are experiencing connectivity errors. Microsoft has attributed the issue to elevated infrastructure load affecting multiple regions.</p><p>While the impact is centered on Business and Enterprise tiers, individual users are also reporting disruptions. To mitigate the load, Microsoft is repairing infrastructure and investigating an unexpected surge in service traffic.</p>
 <p>Nov 13 · <a href="https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/">engadget.com</a> | <a href="https://status.cloud.microsoft/">status.cloud.microsoft</a> | <a href="https://news.ycombinator.com/item?id=50471731">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;Nvidia Stops Reporting Singapore Revenue Following Megaspeed Blocklisting</h2>
-<a name="story-27241"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia ceased reporting its revenue from Singapore after the quarter ending in July 2025, a period when Singapore accounted for 22% of the company's total sales. The change in reporting followed Nvidia's decision to place Singapore-based cloud computing firm Megaspeed on a blocklist amid escalating international scrutiny and probes involving billions of dollars in AI chip purchases.</p><p>Megaspeed has drawn intense scrutiny regarding its massive acquisitions of Nvidia technology through secondary markets and overseas units like Speedmatrix in Malaysia. The shifting transparency surrounding Nvidia's regional sales figures deepens ongoing questions regarding the distribution paths and ultimate destinations of advanced AI hardware flowing into Southeast Asia.</p>
-<p>Nov 13 · <a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5">wsj.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;SoftBank Records $3.7 Billion Loss Linked to Canceled Gas Turbine Reservations</h2>
-<a name="story-27151"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SoftBank recorded a $3.7 billion earnings hit following the cancellation of gas turbine reservations intended to power artificial intelligence infrastructure. The canceled capacity exceeded 13GW, an amount equivalent to the electrical output of six Hoover Dams.</p><p>The loss highlights the scale of energy resource requirements and the financial volatility involved in securing power for large-scale AI expansion.</p>
-<p>Nov 13 · <a href="https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---

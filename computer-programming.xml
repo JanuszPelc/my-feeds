@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Matt Bee's Blog Impersonated by Clone Website</title>
+    <link href="https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/" rel="alternate" />
+    <id>https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/::v240</id>
+    <published>2026-11-13T23:05:00+00:00</published>
+    <updated>2026-11-13T23:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimpersonally.io%2Fwp-content%2Fuploads%2F2025%2F04%2Fmitad-blog-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/">mattbee.mataroa.blog</a> | <a href="https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50488664">hacker news</a></small></p><hr/><p>An unauthorized domain, mataroa.site, is scraping and re-hosting content from a personal blog. The clone uses watermarked images from the original source and includes a hidden link to a website cloning tool.</p><p>The site also contains meta tags for mitgo.com, an SEO scamming platform. While the author has filed an abuse report with the registrar Namecheap, they noted that Cloudflare's abuse reporting mechanism is currently non-functional.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimpersonally.io%2Fwp-content%2Fuploads%2F2025%2F04%2Fmitad-blog-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 09:25 UTC | #27482</small>]]></content>
+  </entry>
+  <entry>
     <title>Probabilistic Data Structures and the Unsure Go Package</title>
     <link href="https://antonz.org/probabilistic-data-structures/" rel="alternate" />
     <id>https://antonz.org/probabilistic-data-structures/::v240</id>

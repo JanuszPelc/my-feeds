@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>FBI Probes Software Update Connection to Mass FAA Outage</h2>
+<a name="story-27453"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt8eb3cdfc1fce5194%2Fblt3d52f205c797702d%2F664b35e63128422973bd503b%2FGreen_20Simple_20Annual_20Timeline_20Diagram_20_283_29.png%3Fwidth%3D700%26auto%3Dwebp%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Federal Bureau of Investigation is examining whether a software update triggered the recent mass communication issue affecting air traffic control systems. Investigators currently have no indication that the disruption was the result of a cyberattack or any form of criminal activity.</p><p>The inquiry focuses on technical factors behind the Federal Aviation Administration outage, which impacted flight operations. Authorities are reviewing system logs and update histories to determine the exact root cause of the widespread communication failure.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>FAA Issues Nationwide Ground Stop Due to Communication Issues</h2>
 <a name="story-27449"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.simpleflyingimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2F2025-ajo-056-air-traffic-control-topaz-3-5-2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The FAA has issued a nationwide ground stop at all U.S. airports due to communication issues affecting multiple Air Route Traffic Control Centers. Citing "extraordinary circumstances" and safety reasons, the agency ordered all departing traffic to remain grounded until further notice.</p><p>Inbound international flights are being managed on a case-by-case basis while technicians investigate the communication failures. Air route traffic control centers primarily manage high-altitude en route airspace between airports.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27236"><img src="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Jane Street systems engineer describes a near-catastrophic incident at the firm's New York City datacenter in 1 New York Plaza. A false smoke alarm, triggered by dust from nearby construction, caused the cooling systems to shut down, risking a situation where rising temperatures would trigger heat-sensitive sprinklers and flood the server room.</p><p>To prevent equipment destruction, the engineer manually disconnected power to all servers before temperatures exceeded critical thresholds. The incident led the systems team to implement a more reliable temperature monitoring system written in OCaml that queries individual Linux servers to detect cooling failures.</p>
 <p>Nov 11 · <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50455394">hacker news</a></p>
-<br clear="all" />
-
-<h2>Voltage Glitching Unlocks NVIDIA A100 Features on CMP 170HX Mining Card</h2>
-<a name="story-27225"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.lavx.hu%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnews.lavx.hu%2Fapi%2Fmedia%2Ffile%2Fkate-uses-voltage-glitching-to-turn-a-cmp-170hx-mining-card-into-an-a100-class-gpu_gen_1794401363792-1200x630.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A voltage fault injection vulnerability discovered in the NVIDIA GA100 die allows operators to blow arbitrary fuses, enabling the conversion of CMP 170HX mining cards into A100-class GPUs. This process unlocks additional streaming multiprocessors (SMs), expands framebuffer capacity to up to 80GB, and enables restricted features including NVLink, PCIe Gen4, and Multi-Instance GPU (MIG) support.</p><p>The exploit targets "fuseless fuses" within the GA100 fuse controller that can be rewritten to bypass product segmentation. Unlocked cards have demonstrated performance approximately 1.2 times faster than retail A100 models by enabling all functional SMs on the die. The findings were disclosed to NVIDIA's product security team prior to publication.</p>
-<p>Nov 11 · <a href="https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/">blog.kate.land</a> | <a href="https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50451903">hacker news</a></p>
 <br clear="all" />
 
 ---
