@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Claude Services Experience Elevated Errors and Authentication Issues</h2>
+<a name="story-27458"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopengraph.githubassets.com%2F79fe5a25b3cffcec8553dd1763dd2a259c3663d487e4fdeb64d2ac7f98f647fe%2Fanthropics%2Fclaude-code%2Fissues%2F3268&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic experienced a service disruption that caused elevated errors and authentication failures across multiple platforms, including claude.ai, Claude Code, the Claude Console, and Claude Cowork.</p><p>Following initial user reports of authentication problems, the company deployed a fix for the affected systems and monitored the infrastructure to ensure full recovery.</p>
+<p>Nov 13 · <a href="https://status.claude.com/incidents/nn11wk485zfn">status.claude.com</a> | <a href="https://news.ycombinator.com/item?id=50481187">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft 365 Recovery Efforts Face Setbacks Amid Global Outage</h2>
 <a name="story-27454"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hlVIg.img%3Fw%3D800%26h%3D415%26q%3D60%26m%3D2%26f%3Djpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft reported that initial changes applied to resolve the widespread Microsoft 365 service disruption did not perform as expected. The ongoing outage has severely impacted core productivity applications, including Exchange Online, Microsoft Teams, and Outlook, affecting users across multiple regions globally.</p><p>In response to the failed recovery attempt, engineers are identifying alternative workstreams to restore server capacity and address sustained traffic management imbalances. The disruption has persisted across multiple days, prompting continued monitoring and remediation efforts by the company.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27180"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.britannica.com%2F60%2F257460-050-62FF74CB%2FNVIDIA-Jensen-Huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Executive misconduct in the semiconductor industry is linked to risks of economic espionage by state-sponsored actors. Nate Singer of Heron Intelligence reports that many instances of senior-level behavioral issues remain hidden from the public despite increasing pressure to protect trade secrets.</p><p>Historical cases involving TSMC and other manufacturers illustrate the sector's vulnerability to intellectual property theft. Experts suggest that personal indiscretions can be exploited to facilitate the infiltration of critical technology firms.</p>
 <p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50455179">hacker news</a></p>
-<br clear="all" />
-
-<h2>Microsoft FORGE Lab Identifies Memory Safety Issues in Rust Standard Library</h2>
-<a name="story-27179"><img src="https://wsrv.nl/?url=https%3A%2F%2Fforge-blog.github.io%2Fposts%2Frust-std-memory-safety%2Fpanic-safety.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers at Microsoft's FORGE Lab have uncovered multiple memory safety vulnerabilities within Rust's core and standard libraries, demonstrating how code written entirely in safe Rust can occasionally trigger undefined behavior. Utilizing an AI-powered vulnerability scanner, the investigation revealed three recurring patterns of misplaced trust in unsafe code: trusting code not to panic, assuming user-provided implementations are correct, and relying blindly on underlying system behaviors.</p><p>These findings illustrate the inherent difficulties of maintaining soundness in unsafe blocks that underpin safe APIs across widely used programming languages. As Rust becomes increasingly integrated into critical infrastructure, identifying and addressing these edge cases in foundational libraries remains vital for maintaining overall software security.</p>
-<p>Nov 11 · <a href="https://forge-blog.github.io/posts/rust-std-memory-safety/">forge-blog.github.io</a> | <a href="https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50449258">hacker news</a></p>
 <br clear="all" />
 
 ---

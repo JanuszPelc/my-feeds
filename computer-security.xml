@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-13T17:22:00+00:00</updated>
+  <updated>2026-11-13T19:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Claude Services Experience Elevated Errors and Authentication Issues</title>
+    <link href="https://status.claude.com/incidents/nn11wk485zfn" rel="alternate" />
+    <id>https://status.claude.com/incidents/nn11wk485zfn::v240</id>
+    <published>2026-11-13T19:49:00+00:00</published>
+    <updated>2026-11-13T19:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fopengraph.githubassets.com%2F79fe5a25b3cffcec8553dd1763dd2a259c3663d487e4fdeb64d2ac7f98f647fe%2Fanthropics%2Fclaude-code%2Fissues%2F3268&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://status.claude.com/incidents/nn11wk485zfn">status.claude.com</a> | <a href="https://news.ycombinator.com/item?id=50481187">hacker news</a></small></p><hr/><p>Anthropic experienced a service disruption that caused elevated errors and authentication failures across multiple platforms, including claude.ai, Claude Code, the Claude Console, and Claude Cowork.</p><p>Following initial user reports of authentication problems, the company deployed a fix for the affected systems and monitored the infrastructure to ensure full recovery.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fopengraph.githubassets.com%2F79fe5a25b3cffcec8553dd1763dd2a259c3663d487e4fdeb64d2ac7f98f647fe%2Fanthropics%2Fclaude-code%2Fissues%2F3268&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 01:14 UTC | #27458</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft 365 Recovery Efforts Face Setbacks Amid Global Outage</title>
     <link href="https://twitter.com/MSFT365Status/status/2121079061774491735" rel="alternate" />
