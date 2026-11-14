@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Excludes China and Hong Kong Institutional Investors From IPO</h2>
+<a name="story-27432"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F04%2FGettyImages-2267044457-e1777736992257.jpg%3Fw%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic has barred institutional investors located in mainland China and Hong Kong from participating in its initial public offering. The restriction is reportedly driven in part by United States arms export regulations.</p><p>The move follows similar measures implemented for SpaceX and highlights growing geopolitical tensions regarding the global distribution of advanced artificial intelligence technology.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Board Approaches Arm CEO Rene Haas as Potential Successor to Jensen Huang</h2>
 <a name="story-27433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia's board of directors has approached Arm chief executive Rene Haas as part of its search for a potential successor to Jensen Huang. People familiar with the matter indicate that the head of the SoftBank-owned UK semiconductor group was sounded out regarding the leadership role.</p><p>Haas previously worked at Nvidia for more than a decade before moving to Arm, where he has successfully steered the company through its public listing and subsequent expansion. The inquiry highlights long-term succession planning considerations at the world's leading artificial intelligence chipmaker.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27360"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fhatz-ai-raises-24m-series-a-to-expand-ai-platform-for-msps.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hatz AI has raised $24 million in Series A funding from Nadia Partners, Vestigo Ventures, and The Private Shares Fund. The New York-based company plans to use the capital to double its 60-person workforce, focusing recruitment on engineering, AI research, and forward-deployed engineering roles.</p><p>The funding will support the expansion of Hatz AI's platform, which assists Managed Service Providers (MSPs) in developing and deploying customized AI solutions for small and medium-sized businesses. The company also aims to advance research and development for its proprietary SMB1 benchmark, a tool used to measure how effectively AI completes real-world business tasks.</p>
 <p>Nov 13 · <a href="https://www.crn.com/news/ai/2026/hatz-ai-secures-24m-to-expand-platform-double-headcount-exclusive">crn.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic&#x27;s IPO Is Reported to Be Six Times Oversubscribed</h2>
-<a name="story-27349"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F10%2Fanth-ropic-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic's initial public offering has attracted orders approximately six times the number of available shares, according to sources familiar with the matter. Bankers have reportedly informed prospective investors that existing shareholders will receive priority in the allocation of shares.</p><p>The AI company aims to raise roughly $90.4 billion through its IPO and an accompanying private placement, targeting a valuation of approximately $1.4 trillion. Shares are expected to be priced between $70 and $78, with the final pricing scheduled for November 18.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
