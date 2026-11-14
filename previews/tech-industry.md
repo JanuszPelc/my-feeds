@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Board Approaches Arm CEO Rene Haas as Potential Successor to Jensen Huang</h2>
+<a name="story-27433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia's board of directors has approached Arm chief executive Rene Haas as part of its search for a potential successor to Jensen Huang. People familiar with the matter indicate that the head of the SoftBank-owned UK semiconductor group was sounded out regarding the leadership role.</p><p>Haas previously worked at Nvidia for more than a decade before moving to Arm, where he has successfully steered the company through its public listing and subsequent expansion. The inquiry highlights long-term succession planning considerations at the world's leading artificial intelligence chipmaker.</p>
+<p>Nov 13 · <a href="https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50486489">hacker news</a></p>
+<br clear="all" />
+
 <h2>SpaceX Lays Off Most of Grok Imagine Video Generation Team</h2>
 <a name="story-27418"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.theweek.in%2Fcontent%2Fdam%2Fweek%2Fweek%2Fnews%2Fsci-tech%2Fimages%2F2025%2F7%2F11%2Ftwitter-x-ai-grok-rtrs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SpaceX has laid off approximately 60 employees from its Grok Imagine team, leaving only a small crew to maintain the AI-powered image and video generation product. The workforce reduction highlights a strategic shift toward prioritizing AI coding tools and the Grok Bot assistant.</p><p>The cuts target the specialized group responsible for building generative media capabilities within Elon Musk's artificial intelligence initiatives. Despite the major downsizing, the remaining personnel are tasked with keeping the existing Grok Imagine service operational.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27349"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F10%2Fanth-ropic-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's initial public offering has attracted orders approximately six times the number of available shares, according to sources familiar with the matter. Bankers have reportedly informed prospective investors that existing shareholders will receive priority in the allocation of shares.</p><p>The AI company aims to raise roughly $90.4 billion through its IPO and an accompanying private placement, targeting a valuation of approximately $1.4 trillion. Shares are expected to be priced between $70 and $78, with the final pricing scheduled for November 18.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>SpaceX Plans $74 Billion Investment for Data Centers in Texas and Arizona</h2>
-<a name="story-27350"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F12biz-spacex-datacenters-jpcb%2F12biz-spacex-datacenters-jpcb-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The company intends to spend $74 billion on new data center campuses in Arizona and Texas to bolster its artificial intelligence business. The $24 billion Texas site near the Starbase rocket facility is intended to generate its own power, while the $50 billion Arizona project in Cochise County is expected to create 5,500 construction and 1,000 permanent jobs.</p><p>This expansion supports a growing revenue stream from leasing computing power to companies like Google and Anthropic. SpaceX's A.I. division, xAI, already operates four data centers in Tennessee and Mississippi, and the company has significantly increased capital expenditures to fund the necessary hardware and chips.</p>
-<p>Nov 12 · <a href="https://www.nytimes.com/2026/11/12/business/spacex-data-center.html">nytimes.com</a></p>
 <br clear="all" />
 
 ---
