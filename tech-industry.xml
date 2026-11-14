@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
   <entry>
+    <title>WSJ Report Alleges Nvidia Engineered GPU Scarcity by Funding AI Startups</title>
+    <link href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus" rel="alternate" />
+    <id>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus::v240</id>
+    <published>2026-11-14T05:05:00+00:00</published>
+    <updated>2026-11-14T05:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">techpowerup.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50493251">hacker news</a></small></p><hr/><p>A report from The Wall Street Journal alleges that Nvidia artificially inflated the shortage of GPUs and memory by investing in AI startups that subsequently purchased Nvidia hardware to build data centers. The strategy was reportedly intended to maintain high demand perceptions and absorb an oversupply of semiconductors manufactured by TSMC.</p><p>The report highlights internal friction between former Nvidia CEO Jensen Huang and CFO Colette Kress over circular financing agreements and commitments to small-scale cloud providers. These investments faced challenges as hyperscalers increasingly shifted toward custom silicon solutions and smaller startups struggled to afford the hardware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 15:50 UTC | #27496</small>]]></content>
+  </entry>
+  <entry>
     <title>Sam Bankman-Fried Misses Multi-Billion-Dollar Anthropic Windfall</title>
     <link href="https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&amp;sharetype=gift&amp;token=b0dedc93-80dc-4cab-9250-cec64180d7fc&amp;syn-25a6b1a6=1" rel="alternate" />
     <id>https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&amp;sharetype=gift&amp;token=b0dedc93-80dc-4cab-9250-cec64180d7fc&amp;syn-25a6b1a6=1::v240</id>

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>WSJ Report Alleges Nvidia Engineered GPU Scarcity by Funding AI Startups</h2>
+<a name="story-27496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A report from The Wall Street Journal alleges that Nvidia artificially inflated the shortage of GPUs and memory by investing in AI startups that subsequently purchased Nvidia hardware to build data centers. The strategy was reportedly intended to maintain high demand perceptions and absorb an oversupply of semiconductors manufactured by TSMC.</p><p>The report highlights internal friction between former Nvidia CEO Jensen Huang and CFO Colette Kress over circular financing agreements and commitments to small-scale cloud providers. These investments faced challenges as hyperscalers increasingly shifted toward custom silicon solutions and smaller startups struggled to afford the hardware.</p>
+<p>Nov 14 · <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">techpowerup.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50493251">hacker news</a></p>
+<br clear="all" />
+
 <h2>Sam Bankman-Fried Misses Multi-Billion-Dollar Anthropic Windfall</h2>
 <a name="story-27470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ccn.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fsam-bankman-blocked-ftx-anthropic-ai-investment-prosecutors-worried.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jailed former FTX chief executive Sam Bankman-Fried missed out on a massive financial windfall from his early backing of artificial intelligence lab Anthropic. Through Alameda Research, he invested $500 million in 2021 for a nearly 14 percent stake when Anthropic was valued at approximately $4 billion.</p><p>That stake would have been worth roughly $37 billion had Anthropic listed at a projected $1.5 trillion valuation. However, following the collapse of FTX, the bankrupt crypto exchange's estate relinquished the stake in 2024 for about $1.3 billion to help repay creditors.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.todayesg.com%2Fwp-content%2Fuploads%2F2025%2F05%2FShenzhen-Stock-Exchange.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence server manufacturer xFusion Digital Technologies Co. has secured approval from the Shenzhen Stock Exchange for its planned initial public offering on the ChiNext board. The company intends to raise approximately $1.2 billion through the issuance of up to 220 million shares.</p><p>The upcoming listing highlights strong capital market activity surrounding domestic hardware suppliers that support China's expanding artificial intelligence infrastructure. Further details regarding the final timeline and pricing of the offering will be determined as the IPO process proceeds.</p>
 <p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Employees Petition for Jensen Huang&#x27;s Return Following Resignation</h2>
-<a name="story-27413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fjensen-huang-headshot-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Some Nvidia employees are calling for the return of Jensen Huang following his abrupt resignation as CEO amid reports of multiple extramarital affairs. Internal correspondence reviewed by WIRED shows a suggestion box post with over 1,600 comments urging the board to bring back Huang and consider employee sentiment.</p><p>Huang resigned after acknowledging he was unfaithful to his wife, following disclosures of relationships with multiple individuals, including a direct report and another Nvidia employee. The leadership crisis has led the board to name CFO Colette Kress as interim CEO and appoint Harvey Jones as board chair, while drawing scrutiny from US lawmakers and the FBI.</p>
-<p>Nov 13 · <a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50477231">hacker news</a></p>
 <br clear="all" />
 
 ---
