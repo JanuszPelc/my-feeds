@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-14T07:31:00+00:00</updated>
+  <updated>2026-11-14T16:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Asian Governments React to Jensen Huang's Departure from Nvidia</title>
+    <link href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/::v240</id>
+    <published>2026-11-14T16:36:00+00:00</published>
+    <updated>2026-11-14T16:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">techcrunch.com</a></small></p><hr/><p>Jensen Huang’s departure from Nvidia has prompted varied responses from Asian governments as they assess potential impacts on the regional AI industry. South Korea is working to secure continued GPU supplies and joint projects, while Taiwan officials report that planned overseas headquarters and investments remain on track.</p><p>In China, the departure has raised uncertainty over more than $3 billion in AI computing projects reliant on restricted Nvidia processors. The resignation also follows an investigation into Huang's relationship with a former Megaspeed executive, who was previously barred from Singapore during a probe into server declarations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 21:36 UTC | #27499</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Struggled to Access Chinese Policymakers Amid Chip Push</title>
     <link href="https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277" rel="alternate" />

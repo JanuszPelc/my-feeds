@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Asian Governments React to Jensen Huang&#x27;s Departure from Nvidia</h2>
+<a name="story-27499"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jensen Huang’s departure from Nvidia has prompted varied responses from Asian governments as they assess potential impacts on the regional AI industry. South Korea is working to secure continued GPU supplies and joint projects, while Taiwan officials report that planned overseas headquarters and investments remain on track.</p><p>In China, the departure has raised uncertainty over more than $3 billion in AI computing projects reliant on restricted Nvidia processors. The resignation also follows an investigation into Huang's relationship with a former Megaspeed executive, who was previously barred from Singapore during a probe into server declarations.</p>
+<p>Nov 14 · <a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia CEO Jensen Huang Struggled to Access Chinese Policymakers Amid Chip Push</h2>
 <a name="story-27479"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>According to sources, Nvidia chief executive Jensen Huang struggled to gain access to key Chinese policymakers driving Beijing's chip self-sufficiency campaign, despite the company operating in the country for more than two decades. The difficulties underscore the shifting dynamics between major US semiconductor firms and Chinese officials as Beijing intensifies efforts to build domestic technological independence.</p><p>The reported access barriers highlight the complex environment Nvidia navigates as it balances its long-standing presence in the Chinese market against escalating geopolitical tensions and tightening export controls. The scrutiny surrounding Huang's ties to Beijing reflects broader challenges foreign technology companies face amid intensified state-led industrial policies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27301"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJensen-Huang.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Former Nvidia CEO Jensen Huang has agreed to testify before Congress by Thanksgiving. The decision follows threats of subpoenas from senior lawmakers after reports emerged regarding an alleged affair between Huang and a woman suspected of spying for China.</p><p>The briefing will take place behind closed doors but is expected to be recorded and transcribed. House Foreign Affairs Committee Chairman Brian Mast stated that while Nvidia is critical to the United States, Huang has "very serious questions to answer."</p>
 <p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Singapore Claims Limited U.S. Cooperation in Alice Huang Investigation</h2>
-<a name="story-27287"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F12biz-Singapore-Alice-fmtb%2F12biz-Singapore-Alice-fmtb-superJumbo.jpg%3Fquality%3D75%26auto%3Davif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Singaporean authorities have reported that the United States provided minimal assistance during an investigation into Alice Huang, a central figure in a spy plot involving Nvidia CEO Jensen Huang. Huang was held by Singaporean officials from June 2025 to February 2026 due to suspected false declarations regarding her company, Megaspeed, but was ultimately released with a stern warning and a re-entry ban.</p><p>The government cited "limited cooperation" from the American server maker Supermicro, a supplier to Megaspeed, despite repeated requests for assistance. The statement further notes that Huang's passport was held long after President Trump was briefed on her alleged status as a Chinese intelligence asset.</p>
-<p>Nov 12 · <a href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50471621">hacker news</a></p>
 <br clear="all" />
 
 ---
