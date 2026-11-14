@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Willett Examines the Difficulties of User Data Ownership in Web Applications</h2>
+<a name="story-27518"><img src="https://wsrv.nl/?url=https%3A%2F%2Finvozone-backend.s3.amazonaws.com%2Fweb_application_architecture_layers_9cb0a33601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Willett examines the architectural challenges of allowing web application users to maintain ownership of their personal data rather than storing it on central backend services like Supabase. Drawing on development experience with the app Cheapskate, the post highlights the tension between providing seamless, multi-device functionality and respecting user privacy.</p><p>The essay evaluates several alternative data storage approaches—including browser local storage, file pickers, cloud platform databases, and local-first CRDTs—noting that each falls short due to limitations in cross-device synchronization, collaboration, authentication friction, or inadequate SQL query support.</p>
+<p>Nov 14 · <a href="https://www.willett.io/posts/data/">willett.io</a> | <a href="https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data">lobsters</a></p>
+<br clear="all" />
+
 <h2>Perses Open-Source Dashboard Tool and Specification for Observability Data</h2>
 <a name="story-27517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprometheus.io%2Fassets%2Fdocs%2Fperses_prometheus.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Perses is an open-source dashboard tool and specification designed for visualizing observability data across the four pillars using Prometheus, Tempo, Loki, and Pyroscope. It provides embeddable UI components, static validation, and a native command-line interface, percli, for integration into CI/CD pipelines.</p><p>Built to scale, Perses supports dashboard-as-code workflows via SDKs and Kubernetes-native management through custom resources. It also features automatic datasource discovery, role-based access control with OIDC support, and migration utilities for transitioning existing Grafana dashboards. The project operates as a Cloud Native Computing Foundation sandbox initiative under the Apache 2.0 license.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27452"><img src="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Ali Chraghi details the creation of AMP, a minimal music player built in Zig with a custom UI and native system integration. Prompted by dissatisfaction with existing offline players and internet blackouts in Iran, the project evolved through extensive use of frontier large language models before a massive rewrite to remove AI-generated code bloat.</p><p>The development process coincided with prolonged internet restrictions and an account ban from Anthropic, forcing a rigorous line-by-line code review that ultimately resulted in a more robust and streamlined application. Moving forward, the project's roadmap includes support for Windows, Android, Linux packaging, and a music server.</p>
 <p>Nov 13 · <a href="https://alichraghi.github.io/blog/how-not-to-build-a-music-player">alichraghi.github.io</a> | <a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491400">hacker news</a></p>
-<br clear="all" />
-
-<h2>Sunshowers Critiques Sean Goedecke&#x27;s Essay on Glue Work</h2>
-<a name="story-27407"><img src="https://wsrv.nl/?url=https%3A%2F%2Fchaoss.community%2Fwp-content%2Fuploads%2F2026%2F02%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An opinion piece on sunshowers.io challenges Sean Goedecke’s widely discussed essay advising software engineers to avoid unrewarded "glue work" and focus strictly on executing leadership's feature delivery mandates. The author argues that Goedecke’s advice encourages settling for organizational mediocrity and perpetuates unnecessary workplace inefficiency.</p><p>The response contends that dismissing glue work ignores how permanent friction reduction can drastically improve team workflows and software quality, pointing to projects like cargo-nextest and internal tooling. It suggests that while large tech companies enforce legibility through metrics and performance reviews, fostering a culture of mutual support and eliminating rigid distinctions between feature and glue work yields better long-term results.</p>
-<p>Nov 13 · <a href="https://sunshowers.io/posts/glue-work/">sunshowers.io</a> | <a href="https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50477562">hacker news</a></p>
 <br clear="all" />
 
 ---

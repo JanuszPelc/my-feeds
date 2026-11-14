@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Willett Examines the Difficulties of User Data Ownership in Web Applications</title>
+    <link href="https://www.willett.io/posts/data/" rel="alternate" />
+    <id>https://www.willett.io/posts/data/::v240</id>
+    <published>2026-11-14T17:37:00+00:00</published>
+    <updated>2026-11-14T17:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Finvozone-backend.s3.amazonaws.com%2Fweb_application_architecture_layers_9cb0a33601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.willett.io/posts/data/">willett.io</a> | <a href="https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data">lobsters</a></small></p><hr/><p>Developer Willett examines the architectural challenges of allowing web application users to maintain ownership of their personal data rather than storing it on central backend services like Supabase. Drawing on development experience with the app Cheapskate, the post highlights the tension between providing seamless, multi-device functionality and respecting user privacy.</p><p>The essay evaluates several alternative data storage approaches—including browser local storage, file pickers, cloud platform databases, and local-first CRDTs—noting that each falls short due to limitations in cross-device synchronization, collaboration, authentication friction, or inadequate SQL query support.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Finvozone-backend.s3.amazonaws.com%2Fweb_application_architecture_layers_9cb0a33601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 23:53 UTC | #27518</small>]]></content>
+  </entry>
+  <entry>
     <title>Perses Open-Source Dashboard Tool and Specification for Observability Data</title>
     <link href="https://perses.dev/" rel="alternate" />
     <id>https://perses.dev/::v240</id>
