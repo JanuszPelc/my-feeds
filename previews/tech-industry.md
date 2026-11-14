@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Testing Internal Prediction-Market App Called Takes</h2>
+<a name="story-27445"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.squaredtech.co%2Fwp-content%2Fuploads%2F2026%2F06%2Fsquaredtech-22f0f7e8-metas-new-prediction-market-app-arena-takes-aim-at-696x464.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta is testing a prediction-market application called "Takes" with its employees. The app allows users to wager on the outcomes of questions or events using a virtual currency known as "cred" rather than real money.</p><p>The application is currently in an internal testing phase focused on exploring event-based wagering mechanics.</p>
+<p>Nov 13 · <a href="https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50491375">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic CEO Dario Amodei Cites Computing Requirements as Major Business Dilemma</h2>
 <a name="story-27446"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.digit.in%2Fdario-amodei-ceo-anthropic.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic CEO Dario Amodei identified forecasting computing power requirements for the next one to two years as the company's primary business challenge. He attributed this difficulty to the unpredictability of the company's revenue.</p><p>The challenge underscores the difficulty of managing massive capital expenditures for AI infrastructure amidst uncertain financial returns.</p>
@@ -47,7 +53,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Jensen Huang Reportedly Lacked Confidence in Successor Colette Kress</h2>
 <a name="story-27409"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fcolette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>During a meeting concerning Nvidia's multi-billion dollar financial guarantees for data center operators, former CEO Jensen Huang reportedly described interim successor Colette Kress as a "deer in the headlights." According to a Wall Street Journal report, Huang also stated that Kress was unable to assist with the company's strategic decision-making.</p><p>These comments emerge following Huang's resignation amid allegations of extramarital affairs and investigations into a potential espionage plot. Kress, who has served as Nvidia's CFO for over 13 years, has recently questioned the company's credit-based deal structures and scaled back financial commitments to OpenAI's data center projects.</p>
-<p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097">wsj.com</a></p>
+<p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50493291">hacker news</a></p>
 <br clear="all" />
 
 <h2>Environmental and Economic Costs of Digital Dependence on Microsoft</h2>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27367"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbrandsownedby.com%2Fwp-content%2Fuploads%2F2025%2F06%2FWho-Owns-ByteDance-Largest-Shareholders-1024x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ByteDance is planning to buy back up to $6 billion worth of shares from existing investors at a valuation of approximately $400 billion. The proposed repurchase program was disclosed in a recent letter sent to shareholders.</p><p>This valuation represents a 20% increase compared to the company's previous share buyback conducted a year prior. ByteDance, the Chinese parent company of TikTok, utilizes periodic buybacks to provide liquidity options for its private investors.</p>
 <p>Nov 13 · <a href="https://www.theinformation.com/articles/bytedance-buy-back-shares-400-billion-valuation">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Faced Pressure Over AI Financing Backstop Prior to Huang Departure</h2>
-<a name="story-27365"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbusinessmodelanalyst.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fnvidia-cds-spread-500b-1536x1056.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Before the departure of longtime chief executive Jensen Huang, Nvidia faced demands to increase its 25% residual value support backstop for a planned $500 billion artificial intelligence financing vehicle. The proposed initiative involved negotiations with major asset managers to mobilize capital for AI compute infrastructure.</p><p>The backstop arrangement requires Nvidia to cover a portion of potential losses if borrowers default and lenders liquidate chips below assumed book values. This financial backing has drawn scrutiny from market participants regarding the extent of Nvidia's exposure to credit and valuation risks within its broader ecosystem financing strategy.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50474852">hacker news</a></p>
 <br clear="all" />
 
 ---

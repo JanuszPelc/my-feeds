@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-14T01:26:00+00:00</updated>
+  <updated>2026-11-14T06:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Meta Testing Internal Prediction-Market App Called Takes</title>
+    <link href="https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2" rel="alternate" />
+    <id>https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2::v240</id>
+    <published>2026-11-13T22:51:00+00:00</published>
+    <updated>2026-11-13T22:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.squaredtech.co%2Fwp-content%2Fuploads%2F2026%2F06%2Fsquaredtech-22f0f7e8-metas-new-prediction-market-app-arena-takes-aim-at-696x464.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50491375">hacker news</a></small></p><hr/><p>Meta is testing a prediction-market application called "Takes" with its employees. The app allows users to wager on the outcomes of questions or events using a virtual currency known as "cred" rather than real money.</p><p>The application is currently in an internal testing phase focused on exploring event-based wagering mechanics.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.squaredtech.co%2Fwp-content%2Fuploads%2F2026%2F06%2Fsquaredtech-22f0f7e8-metas-new-prediction-market-app-arena-takes-aim-at-696x464.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 06:12 UTC | #27445</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic CEO Dario Amodei Cites Computing Requirements as Major Business Dilemma</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma" rel="alternate" />
@@ -65,9 +74,9 @@
     <link href="https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/" rel="alternate" />
     <id>https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/::v240</id>
     <published>2026-11-13T12:29:00+00:00</published>
-    <updated>2026-11-13T12:29:00+00:00</updated>
+    <updated>2026-11-14T06:16:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fcolette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097">wsj.com</a></small></p><hr/><p>During a meeting concerning Nvidia's multi-billion dollar financial guarantees for data center operators, former CEO Jensen Huang reportedly described interim successor Colette Kress as a "deer in the headlights." According to a Wall Street Journal report, Huang also stated that Kress was unable to assist with the company's strategic decision-making.</p><p>These comments emerge following Huang's resignation amid allegations of extramarital affairs and investigations into a potential espionage plot. Kress, who has served as Nvidia's CFO for over 13 years, has recently questioned the company's credit-based deal structures and scaled back financial commitments to OpenAI's data center projects.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fcolette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 17:49 UTC | #27409</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50493291">hacker news</a></small></p><hr/><p>During a meeting concerning Nvidia's multi-billion dollar financial guarantees for data center operators, former CEO Jensen Huang reportedly described interim successor Colette Kress as a "deer in the headlights." According to a Wall Street Journal report, Huang also stated that Kress was unable to assist with the company's strategic decision-making.</p><p>These comments emerge following Huang's resignation amid allegations of extramarital affairs and investigations into a potential espionage plot. Kress, who has served as Nvidia's CFO for over 13 years, has recently questioned the company's credit-based deal structures and scaled back financial commitments to OpenAI's data center projects.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fcolette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 17:49 UTC | #27409</small>]]></content>
   </entry>
   <entry>
     <title>Environmental and Economic Costs of Digital Dependence on Microsoft</title>
