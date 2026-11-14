@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Steinar H. Gunderson Solves the Ancient Norse Fox Board Game</h2>
+<p>Software engineer Steinar H. Gunderson has completely solved the ancient Norse asymmetric board game known as the Fox Game or halatafl, determining that sheep win with perfect play under standard rules. Using a compact bitboard representation, combinatorial number systems, and parallelized state propagation across 64 cores, Gunderson analyzed over two trillion possible board states over a 36-hour run.</p><p>The implementation required approximately 1,000 lines of code with no external dependencies, leveraging symmetry optimizations to manage memory and reduce the search space. Gunderson found that sheep maintain a forced win even when reduced to 19 or 18 pieces, while 11 sheep suffice against a single fox, conclusively settling a question left open by previous AI analyses.</p>
+<p>Nov 14 · <a href="https://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html">blog.sesse.net</a> | <a href="https://lobste.rs/s/q81fi4/solving_fox_game">lobsters</a></p>
+<br clear="all" />
+
 <h2>Microsoft Apologizes for Service Disruption</h2>
 <a name="story-27443"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.kinetics.co.nz%2Fwp-content%2Fuploads%2F2024%2F08%2FAug1Microsoft.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft has apologized for a service disruption affecting its customers and partners, reporting that services are seeing broad recovery and stability.</p><p>The company identified a technical issue as the cause of the incident.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27200"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte4c604a2b857d10c%2F69c67f33e4404f7a8b748017%2FPS5_Header.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>As of November 10, 2026, PlayStation 5 shipments have exceeded 100 million units, according to Sony Interactive Entertainment's official sales data.</p><p>This achievement places the console among the highest-selling home systems, joining the original PlayStation, PlayStation 2, and PlayStation 4, as well as the Nintendo Wii and Nintendo Switch.</p>
 <p>Nov 11 · <a href="https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles">gamedeveloper.com</a> | <a href="https://sonyinteractive.com/en/our-company/business-data-sales/">sonyinteractive.com</a></p>
-<br clear="all" />
-
-<h2>Katsuhiro Harada Criticizes Xbox Series S Development Challenges</h2>
-<a name="story-27196"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt2f4b8dd7f43dbe5f%2F6a43d1f7588d51ee0c68fd30%2Fxbox-series-x.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Katsuhiro Harada, the creator of the Tekken series and former Bandai Namco executive, criticized the Xbox Series S during a panel discussion regarding console game development. He argued that the console's architecture is frustrating because it is similar to the Xbox Series X but has significantly lower memory and performance, forcing developers to perform extra optimization work to ensure compatibility across both versions.</p><p>Harada also noted that developers often face consumer complaints regarding lower texture resolutions on the Series S, despite Microsoft's requirement that games be playable on both its consoles. CD Projekt Red's Pawel Sasko countered that the Series S's constraints encourage cleaner code optimization and expand the gaming market by offering a more affordable entry point.</p>
-<p>Nov 11 · <a href="https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released">gamedeveloper.com</a> | <a href="https://www.invenglobal.com/articles/28387/6-developers-behind-global-hits-share-console-game-development-insights">invenglobal.com</a></p>
 <br clear="all" />
 
 ---
