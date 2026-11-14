@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>U.S. Officials State Trump Will Not Raise Nvidia and Spy Allegations During China Trip</h2>
+<a name="story-27465"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.defensepriorities.org%2Fwp-content%2Fuploads%2F2026%2F05%2F55271247042_1beac31549_o-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>U.S. officials stated that President Donald Trump does not plan to raise allegations of a Chinese intelligence operation involving former Nvidia CEO Jensen Huang during his upcoming meeting with Chinese President Xi Jinping. Discussions in Shenzhen, China, will instead focus on the implementation of trade agreements, with officials emphasizing that American export controls are not up for negotiation.</p><p>Elon Musk is scheduled to accompany Trump on the trip for the APEC summit, alongside plans for a three-way meeting between Trump, Xi, and Russian President Vladimir Putin. The intelligence controversy follows Huang's recent resignation amid reports regarding his relationship with a former executive at a cloud-computing company suspected of diverting restricted Nvidia chips to China.</p>
+<p>Nov 14 · <a href="https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html">cnbc.com</a></p>
+<br clear="all" />
+
 <h2>FAA Lifts Nationwide Ground Stop Following Air Traffic Control System Outage</h2>
 <a name="story-27488"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.republicworld.com%2Fall_images%2F2026%2F11%2Fus-lifts-nationwide-faa-ground-stop-after-telecom-outage-duffy-cites-ageing-system-1794627145670-1280x720.webp%3Fw%3D1280%26h%3D720%26q%3D75%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Federal Aviation Administration ordered a nationwide ground stop for departing flights that lasted more than four hours, halting U.S. air traffic, canceling thousands of flights, and stranding passengers at airports across the country.</p><p>Transportation Secretary Sean Duffy attributed the disruption to an overloaded data router within legacy air traffic control equipment, which caused radar and communication instability. Officials stated there was no evidence of a cyberattack, and major airlines resumed operations as the airspace gradually recovered.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgoodmoneyguide.com%2Fwp-content%2Fuploads%2F2026%2F01%2FKalshi-15-Minute-Crypto-Markets.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Commodity Futures Trading Commission (CFTC) has authorized Kalshi to offer "perpetual trades," allowing customers to wager on the prices of individual stocks and cryptocurrencies without owning the underlying assets. These instruments permit traders to bet on price fluctuations, including shorting, without a requirement to settle the position by a specific date.</p><p>Major trading clearinghouses, including the Chicago Mercantile Exchange and Cboe Global Markets, have filed lawsuits against the CFTC in response to the decision. These organizations argue that the new trading permissions could expose investors to increased risks of market manipulation and insider trading.</p>
 <p>Nov 12 · <a href="https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Zelenskyy Alleges Starshield Faced Systematic Speed Restrictions</h2>
-<p>Volodymyr Zelenskyy reported that SpaceX's Starshield service faced "systematic speed restrictions" for several days. Ukrainian officials believe these limitations are intended to pressure Kyiv during peace negotiations.</p><p>The connectivity issues occur as the Ukrainian military struggles to intercept Russian jet-powered drones. This coincides with meetings between Vladimir Putin and Steve Witkoff and Jared Kushner.</p>
-<p>Nov 12 · <a href="https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e">ft.com</a></p>
 <br clear="all" />
 
 ---

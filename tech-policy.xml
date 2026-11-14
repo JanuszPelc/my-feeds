@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-14T01:03:00+00:00</updated>
+  <updated>2026-11-14T03:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>U.S. Officials State Trump Will Not Raise Nvidia and Spy Allegations During China Trip</title>
+    <link href="https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html::v240</id>
+    <published>2026-11-14T03:11:00+00:00</published>
+    <updated>2026-11-14T03:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.defensepriorities.org%2Fwp-content%2Fuploads%2F2026%2F05%2F55271247042_1beac31549_o-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html">cnbc.com</a></small></p><hr/><p>U.S. officials stated that President Donald Trump does not plan to raise allegations of a Chinese intelligence operation involving former Nvidia CEO Jensen Huang during his upcoming meeting with Chinese President Xi Jinping. Discussions in Shenzhen, China, will instead focus on the implementation of trade agreements, with officials emphasizing that American export controls are not up for negotiation.</p><p>Elon Musk is scheduled to accompany Trump on the trip for the APEC summit, alongside plans for a three-way meeting between Trump, Xi, and Russian President Vladimir Putin. The intelligence controversy follows Huang's recent resignation amid reports regarding his relationship with a former executive at a cloud-computing company suspected of diverting restricted Nvidia chips to China.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.defensepriorities.org%2Fwp-content%2Fuploads%2F2026%2F05%2F55271247042_1beac31549_o-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 13:14 UTC | #27465</small>]]></content>
+  </entry>
   <entry>
     <title>FAA Lifts Nationwide Ground Stop Following Air Traffic Control System Outage</title>
     <link href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247" rel="alternate" />
