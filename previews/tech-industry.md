@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TechCrunch Compiles Running List of Defunct AI Projects and Startups</h2>
+<a name="story-27504"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFn6aaS9Z9Fkw%2Ffeedshare-shrink_800%2FB4DZxyS5TVGkAk-%2F0%2F1771444082543%3Fe%3D2147483647%26v%3Dbeta%26t%3DYp4leIya3Gta2qoJI6y-iDjZBfd9-GqVkJsfhPPjQn4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>TechCrunch has published a running list chronicling notable AI startups, products, and corporate bets that have shut down, pivoted, or missed expectations. The compilation highlights prominent casualties such as bankrupt chatbot platform Character.ai, workflow automation tool Relay, privacy-focused assistant Ollie, and failed consumer hardware including the Humane AI Pin.</p><p>According to S&amp;P Global Market Intelligence data cited in the report, approximately 42% of corporate AI initiatives are ultimately abandoned due to funding shortages, scaling difficulties, fierce competition, or weak user demand. Industry giants like OpenAI and Apple have also faced high-profile missteps, product rollbacks, and delayed deployments as the sector navigates ongoing market corrections.</p>
+<p>Nov 14 · <a href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>WSJ Report Alleges Nvidia Engineered GPU Scarcity by Funding AI Startups</h2>
 <a name="story-27496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A report from The Wall Street Journal alleges that Nvidia artificially inflated the shortage of GPUs and memory by investing in AI startups that subsequently purchased Nvidia hardware to build data centers. The strategy was reportedly intended to maintain high demand perceptions and absorb an oversupply of semiconductors manufactured by TSMC.</p><p>The report highlights internal friction between former Nvidia CEO Jensen Huang and CFO Colette Kress over circular financing agreements and commitments to small-scale cloud providers. These investments faced challenges as hyperscalers increasingly shifted toward custom silicon solutions and smaller startups struggled to afford the hardware.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27410"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reliance on major technology providers like Microsoft creates significant environmental and economic challenges. The expansion of data centers to support AI increases global electricity demand, while software support lifecycles contribute to electronic waste by rendering hardware obsolete.</p><p>Economic "switching costs" can lock organizations into specific ecosystems, potentially preventing the adoption of more sustainable or competitive services. Addressing these impacts requires fostering interoperability, data portability, and transparent environmental reporting.</p>
 <p>Nov 13 · <a href="https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614">theconversation.com</a></p>
-<br clear="all" />
-
-<h2>xFusion Receives Shenzhen Stock Exchange Approval for $1.2 Billion ChiNext IPO</h2>
-<a name="story-27393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.todayesg.com%2Fwp-content%2Fuploads%2F2025%2F05%2FShenzhen-Stock-Exchange.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Artificial intelligence server manufacturer xFusion Digital Technologies Co. has secured approval from the Shenzhen Stock Exchange for its planned initial public offering on the ChiNext board. The company intends to raise approximately $1.2 billion through the issuance of up to 220 million shares.</p><p>The upcoming listing highlights strong capital market activity surrounding domestic hardware suppliers that support China's expanding artificial intelligence infrastructure. Further details regarding the final timeline and pricing of the offering will be determined as the IPO process proceeds.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
