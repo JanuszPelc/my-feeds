@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Lugano Pursues Cryptocurrency Hub Strategy Through Tether Partnership and LVGA Token</h2>
+<a name="story-27491"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tronweekly.com%2Fwp-content%2Fuploads%2F2022%2F03%2FFM8H5AMWQAEsfur.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Swiss city of Lugano is seeking to reinvent itself as a digital asset hub through an initiative called Plan B, partnering with stablecoin issuer Tether to integrate cryptocurrencies into its local economy. The project introduces the city's own LVGA token alongside support for bitcoin and tether, allowing residents to use digital currencies for municipal services, taxes, and participating merchants.</p><p>Proponents argue that the partnership will attract tech companies, boost economic growth, and position the municipality at the forefront of financial innovation. However, critics and financial analysts have raised concerns regarding the volatility of digital assets, regulatory uncertainties, and the potential risks associated with integrating private stablecoins into municipal financial systems.</p>
+<p>Nov 14 · <a href="https://www.ft.com/content/a1bcce14-c326-488f-b736-6e831b0fb6cf?accessToken=zwAAAaHY_bdnkdOhvM4UwyZIj9O3Nm6DGw-2zw.MEUCIQCBXyHHNsgOjjEJ2PQjkcLjJSExdRJKNtibv8XGeKew_QIgU17k6hYW9xMvFN1Fc5T7EBfD6P1hSQhzaIHiqP7qYxg&sharetype=gift&token=638a9a7e-087a-40eb-8ef9-e66519a5dbe7">ft.com</a></p>
+<br clear="all" />
+
 <h2>Operand Raises $31 Million for AI-Powered Private Equity Due Diligence</h2>
 <a name="story-27477"><img src="https://wsrv.nl/?url=https%3A%2F%2Flionherald.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fstory-featured.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Private equity due diligence startup Operand has raised $31 million in a combined seed and Series A funding round. The company leverages artificial intelligence to process high volumes of data and utilizes non-traditional data sources to give private equity firms a competitive edge during evaluations.</p><p>CEO Ram Gorthi disclosed the funding round, highlighting the growing adoption of specialized AI technologies to streamline and expand analytical capabilities within the private equity sector.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Nebius Shares Fall 16% on Increased Capex Forecast and Weak Revenue Outlook</h2>
 <p>Nebius shares fell 16% after the AI cloud provider reported third-quarter revenue of $980.8 million, exceeding analyst estimates but accompanied by weaker-than-expected guidance. The company reported a net loss of $37.5 million, or $0.13 per share, and significantly increased its full-year 2026 capital expenditure guidance to $27 billion, up from a previous range of $20 billion to $25 billion.</p><p>The company's 2027 outlook includes projected revenue of $12 billion to $13 billion and capital expenditures of $40 billion to $45 billion. The stock's decline follows recent rallies in competitor stocks like CoreWeave and IREN and occurred alongside the resignation of Nvidia CEO Jensen Huang.</p>
 <p>Nov 12 · <a href="https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results">nebius.com</a></p>
-<br clear="all" />
-
-<h2>LangChain Raises $300M at $3 Billion Valuation</h2>
-<a name="story-27300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff757df35-c3cc-4009-81dc-aaed208aa8e9_2544x2064.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>LangChain raised $300 million in a funding round led by Alphabet's CapitalG, bringing the startup's valuation to $3 billion. This follows a $1.25 billion valuation recorded in 2025.</p><p>The company provides an agent-development platform designed to help large enterprises build and deploy custom AI agents.</p>
-<p>Nov 12 · <a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">wsj.com</a></p>
 <br clear="all" />
 
 ---
