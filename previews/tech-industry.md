@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Jensen Huang&#x27;s Resignation Creates Funding Gap for AI Startups</h2>
 <a name="story-27455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpress.farm%2Fwp-content%2Fuploads%2F2024%2F03%2Fthe-story-of-nvidia-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang's resignation as Nvidia CEO has created a significant funding gap for AI startups, according to venture capitalists and founders. As one of the industry's most active investors, Huang’s departure raises concerns regarding capital availability for high-cost sectors like neocloud providers, infrastructure companies, and open-weight model developers.</p><p>Interim CEO Colette Kress is expected to adopt a more conservative investment strategy, which may result in smaller checks and lower valuations. While some suggest that major tech competitors might attempt to fill the void, there is skepticism that they will replicate Nvidia's level of high-risk, large-scale funding for pre-revenue startups.</p>
-<p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">techcrunch.com</a></p>
+<p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50498492">hacker news</a></p>
 <br clear="all" />
 
 <h2>Anthropic Excludes China and Hong Kong Institutional Investors From IPO</h2>
