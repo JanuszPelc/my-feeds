@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Perses Open-Source Dashboard Tool and Specification for Observability Data</h2>
+<a name="story-27517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprometheus.io%2Fassets%2Fdocs%2Fperses_prometheus.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Perses is an open-source dashboard tool and specification designed for visualizing observability data across the four pillars using Prometheus, Tempo, Loki, and Pyroscope. It provides embeddable UI components, static validation, and a native command-line interface, percli, for integration into CI/CD pipelines.</p><p>Built to scale, Perses supports dashboard-as-code workflows via SDKs and Kubernetes-native management through custom resources. It also features automatic datasource discovery, role-based access control with OIDC support, and migration utilities for transitioning existing Grafana dashboards. The project operates as a Cloud Native Computing Foundation sandbox initiative under the Apache 2.0 license.</p>
+<p>Nov 14 · <a href="https://perses.dev/">perses.dev</a> | <a href="https://lobste.rs/s/14wyzy/perses">lobsters</a></p>
+<br clear="all" />
+
 <h2>Jane Street Develops OxCaml Domain-Specific Language for High-Performance Parallel Programming</h2>
 <p>Jane Street summer intern Sai Konkimalla developed a domain-specific language (DSL) and compiler for high-performance single-program, multiple-data (SPMD) programming in OxCaml. The project makes SIMD instruction usage more ergonomic and architecture-independent by allowing developers to write high-level kernels that compile and run across multiple processor backends.</p><p>Utilizing OxCaml's recent runtime metaprogramming features, the JIT compiler evaluates and optimizes code at runtime to eliminate branch instructions and streamline calculations. The system features a directed acyclic graph front end supporting diverse numeric types alongside specialized control flow constructs designed for parallel execution.</p>
 <p>Nov 14 · <a href="https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/">blog.janestreet.com</a> | <a href="https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance">lobsters</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27407"><img src="https://wsrv.nl/?url=https%3A%2F%2Fchaoss.community%2Fwp-content%2Fuploads%2F2026%2F02%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An opinion piece on sunshowers.io challenges Sean Goedecke’s widely discussed essay advising software engineers to avoid unrewarded "glue work" and focus strictly on executing leadership's feature delivery mandates. The author argues that Goedecke’s advice encourages settling for organizational mediocrity and perpetuates unnecessary workplace inefficiency.</p><p>The response contends that dismissing glue work ignores how permanent friction reduction can drastically improve team workflows and software quality, pointing to projects like cargo-nextest and internal tooling. It suggests that while large tech companies enforce legibility through metrics and performance reviews, fostering a culture of mutual support and eliminating rigid distinctions between feature and glue work yields better long-term results.</p>
 <p>Nov 13 · <a href="https://sunshowers.io/posts/glue-work/">sunshowers.io</a> | <a href="https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50477562">hacker news</a></p>
-<br clear="all" />
-
-<h2>Implementing a PostScript Interpreter in JavaScript</h2>
-<a name="story-27392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnEvi7sEu2Kg%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGCUgHyh_MA8%3D%26rs%3DAOn4CLA2f-YLFE5iXI6slDetHIVIEQH-4w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A simplified subset of the PostScript programming language can be constructed in JavaScript by managing an operand stack for arguments and a dictionary stack for name-to-value associations. This involves mapping PostScript datatypes, such as arrays and procedures, to JavaScript objects and using regular expressions to parse input tokens into executable routines.</p><p>The implementation utilizes a modular, Forth-inspired programming style composed of short, single-purpose functions. It also provides methods for creating a Read-Eval-Print-Loop (REPL) to allow for interactive programming in environments like Node.js or QuickJS.</p>
-<p>Nov 13 · <a href="https://beyondloom.com/blog/postscript.html">beyondloom.com</a> | <a href="https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50478632">hacker news</a></p>
 <br clear="all" />
 
 ---
