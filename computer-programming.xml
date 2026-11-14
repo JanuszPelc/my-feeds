@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Sable Details New Approach to Link Previews for Matrix Clients</title>
+    <link href="https://sable.moe/en/blog/link-previews-and-you/" rel="alternate" />
+    <id>https://sable.moe/en/blog/link-previews-and-you/::v240</id>
+    <published>2026-11-14T03:47:00+00:00</published>
+    <updated>2026-11-14T03:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F6020671ce42574016fbb81b8%2F65ca249358f701585369f0a6_link-previews.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://sable.moe/en/blog/link-previews-and-you/">sable.moe</a> | <a href="https://lobste.rs/s/0rmq2f/link_previews_you">lobsters</a></small></p><hr/><p>Sable, an experimental Matrix client, has redesigned how it generates link previews to balance user privacy with client-side functionality. By moving away from centralized server-dependent fetching and introducing client-side generation along with a dedicated open-source library, the project aims to prevent IP address leaks and protect user data in encrypted rooms.</p><p>The team has also developed an OpenGraph extension specification for social media notes and deployed a custom proxy server called Soliditas to handle web client CORS limitations. These developments serve as an experimental testbed to inform broader Matrix protocol standards and improve preview consistency across platforms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F6020671ce42574016fbb81b8%2F65ca249358f701585369f0a6_link-previews.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 14:34 UTC | #27493</small>]]></content>
+  </entry>
+  <entry>
     <title>Alistair Details Fix for WebKit Promise Hang Bug in Safari and Bun</title>
     <link href="https://alistair.sh/thenables" rel="alternate" />
     <id>https://alistair.sh/thenables::v240</id>

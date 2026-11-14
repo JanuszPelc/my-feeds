@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Sam Bankman-Fried Misses Multi-Billion-Dollar Anthropic Windfall</h2>
+<a name="story-27470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ccn.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fsam-bankman-blocked-ftx-anthropic-ai-investment-prosecutors-worried.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jailed former FTX chief executive Sam Bankman-Fried missed out on a massive financial windfall from his early backing of artificial intelligence lab Anthropic. Through Alameda Research, he invested $500 million in 2021 for a nearly 14 percent stake when Anthropic was valued at approximately $4 billion.</p><p>That stake would have been worth roughly $37 billion had Anthropic listed at a projected $1.5 trillion valuation. However, following the collapse of FTX, the bankrupt crypto exchange's estate relinquished the stake in 2024 for about $1.3 billion to help repay creditors.</p>
+<p>Nov 14 · <a href="https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&sharetype=gift&token=b0dedc93-80dc-4cab-9250-cec64180d7fc&syn-25a6b1a6=1">ft.com</a></p>
+<br clear="all" />
+
 <h2>Tesla Opens Cybercab Orders for Personal Use Starting at $29,990</h2>
 <a name="story-27464"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.notateslaapp.com%2Fimg%2Fcontainers%2Farticle_images%2Frobotaxi%2Fcybercab-studio.webp%2Fb3697eec915737dff567818b0318df6d%2Fcybercab-studio.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tesla has invited select customers to place orders for its autonomous Cybercab for personal use, priced at $29,990 before taxes. The purchase requires an additional $299-per-month autonomy subscription to operate.</p><p>The vehicle's availability is initially limited, and its operation is tied to specific geofences established for the company's robotaxi network. The announcement marks a step toward bringing the steering-wheel-free vehicle to individual consumers.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fjensen-huang-headshot-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Some Nvidia employees are calling for the return of Jensen Huang following his abrupt resignation as CEO amid reports of multiple extramarital affairs. Internal correspondence reviewed by WIRED shows a suggestion box post with over 1,600 comments urging the board to bring back Huang and consider employee sentiment.</p><p>Huang resigned after acknowledging he was unfaithful to his wife, following disclosures of relationships with multiple individuals, including a direct report and another Nvidia employee. The leadership crisis has led the board to name CFO Colette Kress as interim CEO and appoint Harvey Jones as board chair, while drawing scrutiny from US lawmakers and the FBI.</p>
 <p>Nov 13 · <a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50477231">hacker news</a></p>
-<br clear="all" />
-
-<h2>Samsung in Talks to Acquire Data Center Cooling Firm Modine</h2>
-<a name="story-27380"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F13%2Fsmall%2F4223564_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Samsung Electronics is in discussions to acquire Modine Manufacturing, a US-based maker of data center cooling systems, according to people familiar with the matter. Negotiations are reportedly moving quickly, with a potential agreement emerging as soon as the coming weeks.</p><p>Modine carries a market value of approximately $5.6 billion. A prospective deal would expand Samsung's footprint in the infrastructure sector as demand surges for specialized thermal management solutions driven by the artificial intelligence boom and expanding data center capacities.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
