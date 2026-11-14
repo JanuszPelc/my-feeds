@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/computer-security.png" width="28" align="texttop" /> &nbsp;FAA Issues Nationwide Ground Stop Due to Communication Issues</h2>
+<a name="story-27449"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.simpleflyingimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2F2025-ajo-056-air-traffic-control-topaz-3-5-2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The FAA has issued a nationwide ground stop at all U.S. airports due to communication issues affecting multiple Air Route Traffic Control Centers. Citing "extraordinary circumstances" and safety reasons, the agency ordered all departing traffic to remain grounded until further notice.</p><p>Inbound international flights are being managed on a case-by-case basis while technicians investigate the communication failures. Air route traffic control centers primarily manage high-altitude en route airspace between airports.</p>
+<p>Nov 14 · <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50489678">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-industry.png" width="28" align="texttop" /> &nbsp;Nvidia Board Approaches Arm CEO Rene Haas as Potential Successor to Jensen Huang</h2>
 <a name="story-27433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia's board of directors has approached Arm chief executive Rene Haas as part of its search for a potential successor to Jensen Huang. People familiar with the matter indicate that the head of the SoftBank-owned UK semiconductor group was sounded out regarding the leadership role.</p><p>Haas previously worked at Nvidia for more than a decade before moving to Arm, where he has successfully steered the company through its public listing and subsequent expansion. The inquiry highlights long-term succession planning considerations at the world's leading artificial intelligence chipmaker.</p>
@@ -101,12 +107,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27266"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvocaloid7-editor.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vocaloid7, the first major update to Yamaha's vocal synthesis software in four years, features an enhanced Vocaloid:AI engine for more natural expression. The update also introduces a "Voice Type" feature, allowing users to switch between different vocal characteristics within a single Voice Bank.</p><p>The software includes the "asa" voicebank and offers enhanced integration with Cubase, enabling note and lyric input directly within the Cubase Key Editor. It is available for macOS and Windows in standalone, VST3, AU, and ARA2 formats, with upgrade paths available for users of Vocaloid3 through Vocaloid6.</p>
 <p>Nov 13 · <a href="https://www.kvraudio.com/news/yamaha-releases-vocaloid7-69778?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69778">kvraudio.com</a> | <a href="https://www.vocaloid.com/en">vocaloid.com</a></p>
-<br clear="all" />
-
-<h2><img src="images/computer-security.png" width="28" align="texttop" /> &nbsp;Microsoft 365 Services Experience Outage</h2>
-<a name="story-27345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmultiple-microsoft-365-services-are-experiencing-an-outage%2Fintro-1794511005.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Multiple platforms, including Outlook, Teams, SharePoint Online, Microsoft Copilot 365, and Microsoft Defender XDR, are experiencing connectivity errors. Microsoft has attributed the issue to elevated infrastructure load affecting multiple regions.</p><p>While the impact is centered on Business and Enterprise tiers, individual users are also reporting disruptions. To mitigate the load, Microsoft is repairing infrastructure and investigating an unexpected surge in service traffic.</p>
-<p>Nov 13 · <a href="https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/">engadget.com</a> | <a href="https://status.cloud.microsoft/">status.cloud.microsoft</a> | <a href="https://news.ycombinator.com/item?id=50471731">hacker news</a></p>
 <br clear="all" />
 
 ---

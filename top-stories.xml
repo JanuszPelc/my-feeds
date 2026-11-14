@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-14T09:26:00+00:00</updated>
+  <updated>2026-11-14T10:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>FAA Issues Nationwide Ground Stop Due to Communication Issues</title>
+    <link href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop" rel="alternate" />
+    <id>https://www.axios.com/2026/11/13/faa-nationwide-ground-stop::v240</id>
+    <published>2026-11-14T10:03:00+00:00</published>
+    <updated>2026-11-14T10:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.simpleflyingimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2F2025-ajo-056-air-traffic-control-topaz-3-5-2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50489678">hacker news</a></small></p><hr/><p>The FAA has issued a nationwide ground stop at all U.S. airports due to communication issues affecting multiple Air Route Traffic Control Centers. Citing "extraordinary circumstances" and safety reasons, the agency ordered all departing traffic to remain grounded until further notice.</p><p>Inbound international flights are being managed on a case-by-case basis while technicians investigate the communication failures. Air route traffic control centers primarily manage high-altitude en route airspace between airports.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.simpleflyingimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2F2025-ajo-056-air-traffic-control-topaz-3-5-2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 07:39 UTC | #27449 | t,hdr</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Board Approaches Arm CEO Rene Haas as Potential Successor to Jensen Huang</title>
     <link href="https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926" rel="alternate" />

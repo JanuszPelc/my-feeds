@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>NVIDIA Hardware Worth $11.4 Million Stolen During Shipment from California to Texas</h2>
+<a name="story-27483"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F18c8db5d0f1a7e56a691a918ca1f72f6176525496bd6b68fe2322a2d8fb64701%2Flightyear_networkapi%2Fresizefill_w960%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2F4fce1c9e7e739072768361ea4289999c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Six pallets of NVIDIA hardware worth an estimated $11.4 million disappeared during a shipment from Oakland, California, to Fort Worth, Texas. The Oakland Police Department is investigating the incident as a grand theft following a complaint filed in September 2026. The vehicle, which displayed a food transportation company's logo, reportedly made several extended stops in Southern California before investigators lost its trail in San Bernardino County.</p><p>This incident follows a series of high-value technology cargo thefts, including previous NVIDIA-related burglaries in Northern California totaling over $7.5 million. Authorities have not yet confirmed the specific contents of the pallets or identified the carrier, driver, or the owner of the stolen cargo.</p>
+<p>Nov 13 · <a href="https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas">freightwaves.com</a> | <a href="https://news.ycombinator.com/item?id=50487864">hacker news</a></p>
+<br clear="all" />
+
 <h2>Meta Testing Internal Prediction-Market App Called Takes</h2>
 <a name="story-27445"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.squaredtech.co%2Fwp-content%2Fuploads%2F2026%2F06%2Fsquaredtech-22f0f7e8-metas-new-prediction-market-app-arena-takes-aim-at-696x464.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta is testing a prediction-market application called "Takes" with its employees. The app allows users to wager on the outcomes of questions or events using a virtual currency known as "cred" rather than real money.</p><p>The application is currently in an internal testing phase focused on exploring event-based wagering mechanics.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27370"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcapwolf.com%2Fwp-content%2Fuploads%2F2026%2F01%2Ftiktok-settles-addiction-lawsuit-as-meta-youtube-trial-begins.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Social media companies resolving youth addiction lawsuits have structured confidential settlements primarily ranging from $2 million to $2.5 million per case. Among recent agreements, Meta reportedly agreed to pay a combined $7 million to two teenage plaintiffs within a two-week span.</p><p>These payouts highlight the financial exposure technology platforms face amid ongoing legal battles concerning youth mental health and compulsive usage. The figures offer a rare look at the private financial terms negotiated to resolve personal injury claims before reaching broader verdicts.</p>
 <p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/meta-tiktok-payouts-reveal-cost-to-settle-social-media-addiction-suits?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDQ5NDY3NywiZXhwIjoxNzk1MDk5NDc3LCJhcnRpY2xlSWQiOiJUT0RaWVJOM04wOFkwMCIsImJjb25uZWN0SWQiOiJGMUM1Mzc1OEY5Qjg0MDZCOUJCNzMyODRDN0RBMEY3QyJ9.4tia1CTneZiW-6G5iOy_g23fLQCzCJe5cB43KjkJaow">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>ByteDance Plans $6 Billion Share Buyback at $400 Billion Valuation</h2>
-<a name="story-27367"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbrandsownedby.com%2Fwp-content%2Fuploads%2F2025%2F06%2FWho-Owns-ByteDance-Largest-Shareholders-1024x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ByteDance is planning to buy back up to $6 billion worth of shares from existing investors at a valuation of approximately $400 billion. The proposed repurchase program was disclosed in a recent letter sent to shareholders.</p><p>This valuation represents a 20% increase compared to the company's previous share buyback conducted a year prior. ByteDance, the Chinese parent company of TikTok, utilizes periodic buybacks to provide liquidity options for its private investors.</p>
-<p>Nov 13 · <a href="https://www.theinformation.com/articles/bytedance-buy-back-shares-400-billion-valuation">theinformation.com</a></p>
 <br clear="all" />
 
 ---
