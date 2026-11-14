@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Anthropic&#x27;s Claude Duet AI Agent Offers Proactive Task Assistance</h2>
+<a name="story-27448"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FIMG_3369.png%3Fquality%3D90%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic's Claude Duet is a proactive AI agent currently in research preview for Pro, Max, and Ultra subscribers in the United States. The tool integrates with services like email, Slack, and Google Docs to suggest tasks, flag scheduling conflicts, and draft messages based on user communication history.</p><p>The agent can identify discrepancies across various platforms and provide organizational reminders, but it may lack the nuance required to interpret social timing or communication tone accurately. Access is currently limited to specific subscription tiers through a waitlist.</p>
+<p>Nov 13 · <a href="https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on">theverge.com</a> | <a href="https://claude.com/product/claude-duet">claude.com</a> | <a href="https://news.ycombinator.com/item?id=50186037">hacker news</a></p>
+<br clear="all" />
+
 <h2>OpenAI Disbands Standalone Robotics Team Amid Shift to General-Purpose AI Models</h2>
 <a name="story-27431"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.humanoidsdaily.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fskild-14-billion.webp%26w%3D1920%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has dissolved its standalone robotics research team and reassociated its researchers with core research and applied divisions as general-purpose models like GPT-6 Astra prove capable of directly controlling physical robots. The company stated that frontier models have advanced sufficiently to handle physical tasks without requiring specialized robotic AI architectures.</p><p>The reorganization coincides with broader cost-cutting measures and a strategic shift away from dedicated side projects. While industry experts note that general models decrease the demand for custom robotic brains, robotics developers maintain that real-world deployment data remains essential for optimizing performance in specific physical environments.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27202"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fdecisions-architecture_f0NFXU9.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced the Gemini Decisions API and the Gemini Decision 1 model to facilitate fast, closed-set multimodal evaluations. The API supports up to 1,000 questions—including yes/no, multiple-choice, and rubric-based scoring—per single request across text, images, audio, video, and PDFs.</p><p>The API is designed for low-latency tasks like model routing and policy checks, returning probabilities and confidence scores in 150-250 ms. It is priced at $0.10 per 1 million input tokens, with no billing for output tokens.</p>
 <p>Nov 11 · <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50456791">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google DeepMind Releases AlphaGenome 2 to Predict Cellular Effects of DNA Variants</h2>
-<a name="story-27175"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a95f49-c0c5-47d1-9c39-c38db29ab327_1024x660.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google DeepMind has released AlphaGenome 2, an AI model designed to predict how genetic variants affect specific cell types and biological states. Trained on over 100 million cell profiles across 68 tissues, the model accounts for how genes are switched on or off within different cells to provide a more granular view of genetic impact than previous models.</p><p>AlphaGenome 2 identifies nearly twice as many variants affecting gene expression as its predecessor and can predict effects on new cell types without retraining. While more computationally intensive, the model is available for non-commercial research via API to help scientists link genetic variants to specific cellular diseases.</p>
-<p>Nov 11 · <a href="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model">theverge.com</a> | <a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">deepmind.google</a> | <a href="https://news.ycombinator.com/item?id=50454306">hacker news</a></p>
 <br clear="all" />
 
 ---
