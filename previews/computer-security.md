@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>FAA Issues Nationwide Ground Stop Due to Communication Issues</h2>
+<a name="story-27449"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.simpleflyingimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2F2025-ajo-056-air-traffic-control-topaz-3-5-2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The FAA has issued a nationwide ground stop at all U.S. airports due to communication issues affecting multiple Air Route Traffic Control Centers. Citing "extraordinary circumstances" and safety reasons, the agency ordered all departing traffic to remain grounded until further notice.</p><p>Inbound international flights are being managed on a case-by-case basis while technicians investigate the communication failures. Air route traffic control centers primarily manage high-altitude en route airspace between airports.</p>
+<p>Nov 13 · <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50489678">hacker news</a></p>
+<br clear="all" />
+
 <h2>LibreOffice Highlights Reliability in Post During Microsoft Outage</h2>
 <a name="story-27476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2023%2F12%2FLibreOffice-24.2-release-1024x546.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>LibreOffice shared a message on X stating that the software works 365 days a year. The post was made in response to a service outage affecting Microsoft services.</p><p>The statement emphasizes the availability and reliability of local-first, open-source software, which maintains functionality without requiring continuous cloud connectivity.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27225"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.lavx.hu%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnews.lavx.hu%2Fapi%2Fmedia%2Ffile%2Fkate-uses-voltage-glitching-to-turn-a-cmp-170hx-mining-card-into-an-a100-class-gpu_gen_1794401363792-1200x630.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A voltage fault injection vulnerability discovered in the NVIDIA GA100 die allows operators to blow arbitrary fuses, enabling the conversion of CMP 170HX mining cards into A100-class GPUs. This process unlocks additional streaming multiprocessors (SMs), expands framebuffer capacity to up to 80GB, and enables restricted features including NVLink, PCIe Gen4, and Multi-Instance GPU (MIG) support.</p><p>The exploit targets "fuseless fuses" within the GA100 fuse controller that can be rewritten to bypass product segmentation. Unlocked cards have demonstrated performance approximately 1.2 times faster than retail A100 models by enabling all functional SMs on the die. The findings were disclosed to NVIDIA's product security team prior to publication.</p>
 <p>Nov 11 · <a href="https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/">blog.kate.land</a> | <a href="https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50451903">hacker news</a></p>
-<br clear="all" />
-
-<h2>IBM Quantum Announces Nighthawk r3 Processor</h2>
-<p>IBM announced the Nighthawk r3 quantum processor, designed to perform up to 10,000 operations using 520 programmable qubits and 2,034 physical quantum components. This architecture utilizes high-speed qubit reset technology to reduce qubit priming times from 200 milliseconds to approximately 25 nanoseconds.</p><p>IBM plans to link two r3 processors in 2027 to create a system capable of exceeding 1,000 qubits. The IBM Quantum Platform will also integrate quantum workflows with high-performance classical computing resources and provide pulse-level access to facilitate advanced quantum error correction.</p>
-<p>Nov 11 · <a href="https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/">siliconangle.com</a></p>
 <br clear="all" />
 
 ---
