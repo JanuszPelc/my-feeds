@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-13T16:46:00+00:00</updated>
+  <updated>2026-11-13T17:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Vir2 Instruments Releases MOJO: Flutes Virtual Instrument for Kontakt Player</title>
+    <link href="https://www.kvraudio.com/news/vir2-instruments-releases-mojo-flutes-for-kontakt-player-69814?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69814" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vir2-instruments-releases-mojo-flutes-for-kontakt-player-69814?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69814::v240</id>
+    <published>2026-11-13T17:42:00+00:00</published>
+    <updated>2026-11-13T17:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmojoflutes-gui-shadow1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/vir2-instruments-releases-mojo-flutes-for-kontakt-player-69814?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69814">kvraudio.com</a> | <a href="https://www.bigfishaudio.com/MOJO-Flutes">bigfishaudio.com</a></small></p><hr/><p>Vir2 Instruments has released MOJO: Flutes, a virtual instrument for Kontakt Player featuring concert and alto flutes performed by Veronika Vitazkova. Tailored for jazz, pop, and funk productions, the library includes 22 articulations with true legato transitions, recorded vibrato, and up to three dynamic layers.</p><p>The collection offers performable repetitions, falls, trills, and overblown techniques, supported by six microphone positions, an integrated effects suite, and Komplete Kontrol integration. The instrument requires approximately 28.9 GB of installed space and is available for $199.95, with an introductory sale price offered through early December.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmojoflutes-gui-shadow1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 00:17 UTC | #27429</small>]]></content>
+  </entry>
   <entry>
     <title>Audio Plugin Deals Offers Free Black Friday Mega Bundle</title>
     <link href="https://bedroomproducersblog.com/2026/11/13/audio-plugin-deals-black-friday/" rel="alternate" />

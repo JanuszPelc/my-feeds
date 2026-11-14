@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Vir2 Instruments Releases MOJO: Flutes Virtual Instrument for Kontakt Player</h2>
+<a name="story-27429"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmojoflutes-gui-shadow1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Vir2 Instruments has released MOJO: Flutes, a virtual instrument for Kontakt Player featuring concert and alto flutes performed by Veronika Vitazkova. Tailored for jazz, pop, and funk productions, the library includes 22 articulations with true legato transitions, recorded vibrato, and up to three dynamic layers.</p><p>The collection offers performable repetitions, falls, trills, and overblown techniques, supported by six microphone positions, an integrated effects suite, and Komplete Kontrol integration. The instrument requires approximately 28.9 GB of installed space and is available for $199.95, with an introductory sale price offered through early December.</p>
+<p>Nov 13 · <a href="https://www.kvraudio.com/news/vir2-instruments-releases-mojo-flutes-for-kontakt-player-69814?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69814">kvraudio.com</a> | <a href="https://www.bigfishaudio.com/MOJO-Flutes">bigfishaudio.com</a></p>
+<br clear="all" />
+
 <h2>Audio Plugin Deals Offers Free Black Friday Mega Bundle</h2>
 <a name="story-27427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fauditory1.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fapd-free-black-friday-kontakt-wav-bundle.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio Plugin Deals is offering a free Black Friday Mega Bundle consisting of 17 plugins, virtual instruments, and sound packs until November 26, 2026. The bundle features a mix of audio effects, synth presets, and sample libraries from various developers with an advertised value of over $700.</p><p>Included items feature Minimal Audio's Hybrid Filter, Chilli tape saturation, Crickets Audio's Strata Prime spectrum analyzer, and several sample packs for vocals and guitars. Claiming the bundle requires completing a zero-dollar checkout on the Audio Plugin Deals website and setting up individual free accounts with the respective developers to access codes and installers.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSonura-Flow-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonura Flow is a free plugin that allows producers to generate loops, one-shots, vocals, and effects from text prompts within a DAW. Users can select sound categories like drums, bass, or melody, specify loop lengths, and choose from multiple generated variations before dragging the audio into their timeline.</p><p>The free tier provides 10 loops, 20 one-shots/effects, and four full tracks per day without a time limit or credit card requirement. Audio generated under this plan is released under a CC0 license, permitting use in musical releases without attribution or licensing restrictions.</p>
 <p>Nov 12 · <a href="https://musictech.com/news/gear/sonura-flow/">musictech.com</a> | <a href="https://sonurastudio.com/plugin">sonurastudio.com</a></p>
-<br clear="all" />
-
-<h2>A2D Sound Releases Atrium 3D Mixing Plugin for Stereo</h2>
-<a name="story-27319"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnZ888qIbsmI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A2D Sound has released Atrium, a spatial mixing plugin that allows producers to position individual tracks in width, depth, and height while delivering a finished mix in standard stereo. Operating with regular monitors and headphones without requiring a multi-speaker surround setup, the plugin features visual 3D positioning interfaces, adjustable wall materials, and pre-configured room and seating presets.</p><p>The plugin is available for $69 as part of a launch promotion, down from its regular $149 price, and includes a seven-day trial version. Atrium runs on 64-bit Windows and macOS systems in VST3, AU, and AAX formats, requiring an active A2D Sound account and online authorization for license management across up to three computers.</p>
-<p>Nov 12 · <a href="https://bedroomproducersblog.com/2026/11/12/a2d-atrium/">bedroomproducersblog.com</a> | <a href="https://a2dsound.com/atrium">a2dsound.com</a></p>
 <br clear="all" />
 
 ---
