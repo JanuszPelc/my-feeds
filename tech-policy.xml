@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-14T03:11:00+00:00</updated>
+  <updated>2026-11-14T07:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Struggled to Access Chinese Policymakers Amid Chip Push</title>
+    <link href="https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277" rel="alternate" />
+    <id>https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277::v240</id>
+    <published>2026-11-14T07:31:00+00:00</published>
+    <updated>2026-11-14T07:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277">ft.com</a></small></p><hr/><p>According to sources, Nvidia chief executive Jensen Huang struggled to gain access to key Chinese policymakers driving Beijing's chip self-sufficiency campaign, despite the company operating in the country for more than two decades. The difficulties underscore the shifting dynamics between major US semiconductor firms and Chinese officials as Beijing intensifies efforts to build domestic technological independence.</p><p>The reported access barriers highlight the complex environment Nvidia navigates as it balances its long-standing presence in the Chinese market against escalating geopolitical tensions and tightening export controls. The scrutiny surrounding Huang's ties to Beijing reflects broader challenges foreign technology companies face amid intensified state-led industrial policies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 17:33 UTC | #27479</small>]]></content>
+  </entry>
   <entry>
     <title>U.S. Officials State Trump Will Not Raise Nvidia and Spy Allegations During China Trip</title>
     <link href="https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html" rel="alternate" />

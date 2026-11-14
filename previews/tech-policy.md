@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Nvidia CEO Jensen Huang Struggled to Access Chinese Policymakers Amid Chip Push</h2>
+<a name="story-27479"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>According to sources, Nvidia chief executive Jensen Huang struggled to gain access to key Chinese policymakers driving Beijing's chip self-sufficiency campaign, despite the company operating in the country for more than two decades. The difficulties underscore the shifting dynamics between major US semiconductor firms and Chinese officials as Beijing intensifies efforts to build domestic technological independence.</p><p>The reported access barriers highlight the complex environment Nvidia navigates as it balances its long-standing presence in the Chinese market against escalating geopolitical tensions and tightening export controls. The scrutiny surrounding Huang's ties to Beijing reflects broader challenges foreign technology companies face amid intensified state-led industrial policies.</p>
+<p>Nov 14 · <a href="https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277">ft.com</a></p>
+<br clear="all" />
+
 <h2>U.S. Officials State Trump Will Not Raise Nvidia and Spy Allegations During China Trip</h2>
 <a name="story-27465"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.defensepriorities.org%2Fwp-content%2Fuploads%2F2026%2F05%2F55271247042_1beac31549_o-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>U.S. officials stated that President Donald Trump does not plan to raise allegations of a Chinese intelligence operation involving former Nvidia CEO Jensen Huang during his upcoming meeting with Chinese President Xi Jinping. Discussions in Shenzhen, China, will instead focus on the implementation of trade agreements, with officials emphasizing that American export controls are not up for negotiation.</p><p>Elon Musk is scheduled to accompany Trump on the trip for the APEC summit, alongside plans for a three-way meeting between Trump, Xi, and Russian President Vladimir Putin. The intelligence controversy follows Huang's recent resignation amid reports regarding his relationship with a former executive at a cloud-computing company suspected of diverting restricted Nvidia chips to China.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27287"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F12biz-Singapore-Alice-fmtb%2F12biz-Singapore-Alice-fmtb-superJumbo.jpg%3Fquality%3D75%26auto%3Davif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Singaporean authorities have reported that the United States provided minimal assistance during an investigation into Alice Huang, a central figure in a spy plot involving Nvidia CEO Jensen Huang. Huang was held by Singaporean officials from June 2025 to February 2026 due to suspected false declarations regarding her company, Megaspeed, but was ultimately released with a stern warning and a re-entry ban.</p><p>The government cited "limited cooperation" from the American server maker Supermicro, a supplier to Megaspeed, despite repeated requests for assistance. The statement further notes that Huang's passport was held long after President Trump was briefed on her alleged status as a Chinese intelligence asset.</p>
 <p>Nov 12 · <a href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50471621">hacker news</a></p>
-<br clear="all" />
-
-<h2>CFTC Approves Kalshi&#x27;s Perpetual Trades for Stocks and Cryptocurrencies</h2>
-<a name="story-27274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgoodmoneyguide.com%2Fwp-content%2Fuploads%2F2026%2F01%2FKalshi-15-Minute-Crypto-Markets.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Commodity Futures Trading Commission (CFTC) has authorized Kalshi to offer "perpetual trades," allowing customers to wager on the prices of individual stocks and cryptocurrencies without owning the underlying assets. These instruments permit traders to bet on price fluctuations, including shorting, without a requirement to settle the position by a specific date.</p><p>Major trading clearinghouses, including the Chicago Mercantile Exchange and Cboe Global Markets, have filed lawsuits against the CFTC in response to the decision. These organizations argue that the new trading permissions could expose investors to increased risks of market manipulation and insider trading.</p>
-<p>Nov 12 · <a href="https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html">nytimes.com</a></p>
 <br clear="all" />
 
 ---
