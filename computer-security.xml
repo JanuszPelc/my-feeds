@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-13T19:49:00+00:00</updated>
+  <updated>2026-11-13T22:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>LibreOffice Highlights Reliability in Post During Microsoft Outage</title>
+    <link href="https://twitter.com/LibreOffice/status/2121205272479998268" rel="alternate" />
+    <id>https://twitter.com/LibreOffice/status/2121205272479998268::v240</id>
+    <published>2026-11-13T22:58:00+00:00</published>
+    <updated>2026-11-13T22:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2023%2F12%2FLibreOffice-24.2-release-1024x546.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://twitter.com/LibreOffice/status/2121205272479998268">x.com</a> | <a href="https://news.ycombinator.com/item?id=50486482">hacker news</a></small></p><hr/><p>LibreOffice shared a message on X stating that the software works 365 days a year. The post was made in response to a service outage affecting Microsoft services.</p><p>The statement emphasizes the availability and reliability of local-first, open-source software, which maintains functionality without requiring continuous cloud connectivity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2023%2F12%2FLibreOffice-24.2-release-1024x546.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 07:19 UTC | #27476</small>]]></content>
+  </entry>
   <entry>
     <title>Claude Services Experience Elevated Errors and Authentication Issues</title>
     <link href="https://status.claude.com/incidents/nn11wk485zfn" rel="alternate" />

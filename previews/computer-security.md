@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>LibreOffice Highlights Reliability in Post During Microsoft Outage</h2>
+<a name="story-27476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2023%2F12%2FLibreOffice-24.2-release-1024x546.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>LibreOffice shared a message on X stating that the software works 365 days a year. The post was made in response to a service outage affecting Microsoft services.</p><p>The statement emphasizes the availability and reliability of local-first, open-source software, which maintains functionality without requiring continuous cloud connectivity.</p>
+<p>Nov 13 · <a href="https://twitter.com/LibreOffice/status/2121205272479998268">x.com</a> | <a href="https://news.ycombinator.com/item?id=50486482">hacker news</a></p>
+<br clear="all" />
+
 <h2>Claude Services Experience Elevated Errors and Authentication Issues</h2>
 <a name="story-27458"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopengraph.githubassets.com%2F79fe5a25b3cffcec8553dd1763dd2a259c3663d487e4fdeb64d2ac7f98f647fe%2Fanthropics%2Fclaude-code%2Fissues%2F3268&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic experienced a service disruption that caused elevated errors and authentication failures across multiple platforms, including claude.ai, Claude Code, the Claude Console, and Claude Cowork.</p><p>Following initial user reports of authentication problems, the company deployed a fix for the affected systems and monitored the infrastructure to ensure full recovery.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>IBM Quantum Announces Nighthawk r3 Processor</h2>
 <p>IBM announced the Nighthawk r3 quantum processor, designed to perform up to 10,000 operations using 520 programmable qubits and 2,034 physical quantum components. This architecture utilizes high-speed qubit reset technology to reduce qubit priming times from 200 milliseconds to approximately 25 nanoseconds.</p><p>IBM plans to link two r3 processors in 2027 to create a system capable of exceeding 1,000 qubits. The IBM Quantum Platform will also integrate quantum workflows with high-performance classical computing resources and provide pulse-level access to facilitate advanced quantum error correction.</p>
 <p>Nov 11 · <a href="https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/">siliconangle.com</a></p>
-<br clear="all" />
-
-<h2>Executive Misconduct in Semiconductor Industry Linked to Espionage Risks</h2>
-<a name="story-27180"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.britannica.com%2F60%2F257460-050-62FF74CB%2FNVIDIA-Jensen-Huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Executive misconduct in the semiconductor industry is linked to risks of economic espionage by state-sponsored actors. Nate Singer of Heron Intelligence reports that many instances of senior-level behavioral issues remain hidden from the public despite increasing pressure to protect trade secrets.</p><p>Historical cases involving TSMC and other manufacturers illustrate the sector's vulnerability to intellectual property theft. Experts suggest that personal indiscretions can be exploited to facilitate the infiltration of critical technology firms.</p>
-<p>Nov 11 · <a href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50455179">hacker news</a></p>
 <br clear="all" />
 
 ---
