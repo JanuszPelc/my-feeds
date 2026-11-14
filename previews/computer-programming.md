@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Implementing a PostScript Interpreter in JavaScript</h2>
 <a name="story-27392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnEvi7sEu2Kg%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGCUgHyh_MA8%3D%26rs%3DAOn4CLA2f-YLFE5iXI6slDetHIVIEQH-4w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A simplified subset of the PostScript programming language can be constructed in JavaScript by managing an operand stack for arguments and a dictionary stack for name-to-value associations. This involves mapping PostScript datatypes, such as arrays and procedures, to JavaScript objects and using regular expressions to parse input tokens into executable routines.</p><p>The implementation utilizes a modular, Forth-inspired programming style composed of short, single-purpose functions. It also provides methods for creating a Read-Eval-Print-Loop (REPL) to allow for interactive programming in environments like Node.js or QuickJS.</p>
-<p>Nov 13 · <a href="https://beyondloom.com/blog/postscript.html">beyondloom.com</a> | <a href="https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50472213">hacker news</a></p>
+<p>Nov 13 · <a href="https://beyondloom.com/blog/postscript.html">beyondloom.com</a> | <a href="https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50478632">hacker news</a></p>
 <br clear="all" />
 
 <h2>ZigZag Open-Source Embroidery Software Available for Mac and Windows</h2>
