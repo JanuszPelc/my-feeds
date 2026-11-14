@@ -3,9 +3,27 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-14T06:36:00+00:00</updated>
+  <updated>2026-11-14T07:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Operand Raises $31 Million for AI-Powered Private Equity Due Diligence</title>
+    <link href="https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m" rel="alternate" />
+    <id>https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m::v240</id>
+    <published>2026-11-14T07:03:00+00:00</published>
+    <updated>2026-11-14T07:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flionherald.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fstory-featured.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m">axios.com</a></small></p><hr/><p>Private equity due diligence startup Operand has raised $31 million in a combined seed and Series A funding round. The company leverages artificial intelligence to process high volumes of data and utilizes non-traditional data sources to give private equity firms a competitive edge during evaluations.</p><p>CEO Ram Gorthi disclosed the funding round, highlighting the growing adoption of specialized AI technologies to streamline and expand analytical capabilities within the private equity sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flionherald.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fstory-featured.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 17:08 UTC | #27477</small>]]></content>
+  </entry>
+  <entry>
+    <title>WhiteMatter Raises $20 Million in Series A Funding for AI Agent Security</title>
+    <link href="https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11" rel="alternate" />
+    <id>https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11::v240</id>
+    <published>2026-11-14T06:56:00+00:00</published>
+    <updated>2026-11-14T06:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aee08d38f37e8e0b5baac0e%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11">businessinsider.com</a></small></p><hr/><p>Cybersecurity startup WhiteMatter has raised $20 million in a Series A funding round led by Blumberg Capital. Founded in 2024 and formerly known as QuilrAI, the company develops "guardian agents" designed to monitor, control, and secure enterprise AI agents by tracking their actions, permissions, and interactions.</p><p>WhiteMatter operates on a flat-rate model based on agents under management rather than token consumption, utilizing its own self-hosted AI models and GPUs. CEO Vidit Arora plans to use the fresh capital to expand the 80-person team by 50% over the next year, focusing heavily on sales, go-to-market functions, and research.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aee08d38f37e8e0b5baac0e%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 17:07 UTC | #27478</small>]]></content>
+  </entry>
   <entry>
     <title>Charta Health Raises $55 Million and Launches AI Coding Tools</title>
     <link href="https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools" rel="alternate" />

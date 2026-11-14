@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>ToneLib Updates TL GFX to Version 4.9.5</h2>
+<a name="story-27501"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgfx-4-9-5-update-kvr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ToneLib has released version 4.9.5 of its TL GFX plugin, introducing support for Neural Amp Modeler (NAM) profiles. This addition enables users to load and use a wide range of guitar and bass gear profiles directly within the plugin alongside the built-in effects.</p><p>The update also features a redesigned, full-stereo IR convolver that improves processing quality and broadens application range, alongside 63 new factory presets, improved performance stability, and optimized CPU usage.</p>
+<p>Nov 14 · <a href="https://www.kvraudio.com/news/tonelib-updates-tl-gfx-to-v4-9-5-69815?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69815">kvraudio.com</a> | <a href="https://tonelib.net/news/updates/tl-gfx-4-9-5-update/">tonelib.net</a></p>
+<br clear="all" />
+
 <h2>Quiet Art Releases WaveRider v5.0 with Speech Detection</h2>
 <a name="story-27440"><img src="https://wsrv.nl/?url=https%3A%2F%2Fquietart.co.nz%2Fwp-content%2Fuploads%2F2019%2F05%2FWRTG-Screen.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Quiet Art has released version 5.0 of its WaveRider plugin, introducing a new Dialog Mode that uses neural speech detection for automated level riding. The updated software distinguishes real speech from breaths, noise, and room tone without adding latency to real-time operations, preventing unwanted level increases during pauses in dialogue.</p><p>Alongside WaveRider v5.0—which has been expanded from Pro Tools to run across multiple major digital audio workstations including Logic Pro, Cubase, Nuendo, Reaper, and Studio One—the company released WaveRider TG v2.0 and LoudnessGracious v1.1. These companion updates also integrate the new Dialog Mode across different hosting formats and AudioSuite workflows.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27339"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcooper_time_cube_gallery_1_2x_82f234fc-aaf4-45ef-b430-126eda741597.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Universal Audio has released the native Cooper Time Cube Delay for macOS and Windows, which can be used without Universal Audio hardware. The plug-in recreates the 1971 design by Bill Putnam Sr. and Duane H. Cooper.</p><p>The software includes two independently adjustable delay lines with tempo sync for doubling, slapback echo, and stereo widening. Users can shape the tone via treble, bass, color, and high-pass filter controls. It is available at an introductory price of $49 USD and is included in the UAD Spark Studio subscription.</p>
 <p>Nov 12 · <a href="https://www.kvraudio.com/news/universal-audio-releases-native-cooper-time-cube-delay-for-macos-and-windows-69788?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69788">kvraudio.com</a> | <a href="https://www.uaudio.com/">uaudio.com</a></p>
-<br clear="all" />
-
-<h2>AdHd Audio Tools Updates Leveling Tool to v1.4.1 with Apple Silicon Support</h2>
-<a name="story-27357"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fleveling-tool-141.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AdHd Audio Tools' Leveling Tool has been updated to version 1.4.1, adding native Apple Silicon support. The update provides universal binaries that work on both Apple Silicon and Intel-based macOS systems.</p><p>The tool is available as donationware and can be downloaded from the AdHd Audio Tools website. This update ensures better performance and compatibility for users on modern Mac hardware.</p>
-<p>Nov 12 · <a href="https://www.kvraudio.com/news/adhd-audio-tools-updates-leveling-tool-to-v1-4-1---apple-silicon-support-69780?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69780">kvraudio.com</a> | <a href="https://audiotools.se/downloads/leveling-tool/">audiotools.se</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Operand Raises $31 Million for AI-Powered Private Equity Due Diligence</h2>
+<a name="story-27477"><img src="https://wsrv.nl/?url=https%3A%2F%2Flionherald.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fstory-featured.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Private equity due diligence startup Operand has raised $31 million in a combined seed and Series A funding round. The company leverages artificial intelligence to process high volumes of data and utilizes non-traditional data sources to give private equity firms a competitive edge during evaluations.</p><p>CEO Ram Gorthi disclosed the funding round, highlighting the growing adoption of specialized AI technologies to streamline and expand analytical capabilities within the private equity sector.</p>
+<p>Nov 14 · <a href="https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m">axios.com</a></p>
+<br clear="all" />
+
+<h2>WhiteMatter Raises $20 Million in Series A Funding for AI Agent Security</h2>
+<a name="story-27478"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aee08d38f37e8e0b5baac0e%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cybersecurity startup WhiteMatter has raised $20 million in a Series A funding round led by Blumberg Capital. Founded in 2024 and formerly known as QuilrAI, the company develops "guardian agents" designed to monitor, control, and secure enterprise AI agents by tracking their actions, permissions, and interactions.</p><p>WhiteMatter operates on a flat-rate model based on agents under management rather than token consumption, utilizing its own self-hosted AI models and GPUs. CEO Vidit Arora plans to use the fresh capital to expand the 80-person team by 50% over the next year, focusing heavily on sales, go-to-market functions, and research.</p>
+<p>Nov 14 · <a href="https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11">businessinsider.com</a></p>
+<br clear="all" />
+
 <h2>Charta Health Raises $55 Million and Launches AI Coding Tools</h2>
 <a name="story-27474"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gunder.com%2Fa%2Fweb%2FckTQYJgYZCcDhoZNRZgGjF%2F8Mgboq%2Fcartahealth-sereiesb-gundersondettmer-default-social-share-social-sharing-image-10351.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>San Francisco-based Charta Health has secured $55 million in a funding round led by Insight Partners, bringing its total capital raised to $85 million. Alongside the financing, the company launched Charta for Payers, a suite of six artificial intelligence products designed to improve accuracy and operational efficiency in medical billing and workflows.</p><p>The newly acquired capital will support the ongoing rollout of Charta for Providers and help expand the company's payer offerings into new specialties. Charta Health operates in a competitive market for healthcare revenue cycle management and AI-driven chart review, alongside industry peers such as Arintra, Candid Health, and CodaMetrix.</p>
@@ -83,17 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff757df35-c3cc-4009-81dc-aaed208aa8e9_2544x2064.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>LangChain raised $300 million in a funding round led by Alphabet's CapitalG, bringing the startup's valuation to $3 billion. This follows a $1.25 billion valuation recorded in 2025.</p><p>The company provides an agent-development platform designed to help large enterprises build and deploy custom AI agents.</p>
 <p>Nov 12 · <a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">wsj.com</a></p>
-<br clear="all" />
-
-<h2>SE3 Raises $30 Million in Series A Funding for Military Drone AI Software</h2>
-<a name="story-27276"><img src="https://wsrv.nl/?url=https%3A%2F%2Funidir.org%2Fwp-content%2Fuploads%2F2023%2F10%2Fmilitary-drone-flights-training-ground-generative-ai.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Munich-based startup SE3 has raised $30 million in a Series A funding round led by Accel, with participation from Keen, Lakestar, and Seedcamp. The company develops artificial intelligence software that fuses video and sensor feeds from multiple unmanned military systems into a unified 3D battlefield map, enabling soldiers to query tactical information and issue voice commands in plain language.</p><p>Founded by former Tesla and Nvidia researchers who spun out of the Technical University of Munich, SE3 combines classical computer vision algorithms with large language model interfaces to handle tasks like GPS-denied navigation and drone swarming. The company has already deployed its technology in Ukraine and holds development contracts with the German armed forces, with plans to expand its headcount and open offices across Europe using the new capital.</p>
-<p>Nov 12 · <a href="https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/">fortune.com</a></p>
-<br clear="all" />
-
-<h2>Q-Ctrl Raises $290 Million in Funding Valuing Startup at Over $1 Billion</h2>
-<p>Australian quantum software startup Q-Ctrl has raised $290 million in a funding round led by Salesforce Ventures, pushing its valuation past $1 billion. The company develops quantum-enabled sensors designed to assist ships and aircraft with navigation during GPS outages.</p><p>The funding round also received backing from Jared Kushner’s Affinity Partners. Q-Ctrl focuses on applying quantum technology to solve control engineering problems and enhance navigation resilience.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
