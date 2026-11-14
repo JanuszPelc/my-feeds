@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Self-Booting ZIP Archive Created Using Polyglot Techniques</h2>
+<a name="story-27507"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FZIP-Self-Extractor-Maker_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A newly developed self-booting ZIP archive functions simultaneously as a standard compressed file containing source code and a standalone bootable x86 image. By crafting the archive's initial local file header to double as valid 8086 machine code and a Multiboot header, the file can boot directly on bare-metal hardware or via QEMU.</p><p>The design exploits the structural characteristics of the ZIP format, which is read from the footer and allows custom data placement without breaking integrity. This polyglot technique enables the archive to execute an embedded bootloader that switches to 32-bit protected mode and queries disk geometry, while still retaining all files necessary to rebuild itself.</p>
+<p>Nov 14 · <a href="https://goliath32.com/blog/ziphead.html">goliath32.com</a> | <a href="https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive">lobsters</a></p>
+<br clear="all" />
+
 <h2>Implementing Kildall&#x27;s Algorithm in the Cleavir Lisp Compiler</h2>
 <a name="story-27506"><img src="https://wsrv.nl/?url=https%3A%2F%2Fslidetodoc.com%2Fpresentation_image_h%2Fe759859aad4c8199f9d747e896bef887%2Fimage-14.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An engineer working on the Cleavir Lisp compiler details the implementation of G. A. Kildall's 1973 global program optimization algorithm. By defining a bounded meet-semilattice and an optimization function, the generic algorithm associates optimization pools with instruction nodes in an intermediate representation graph, automatically handling control flow for analyses like escape analysis.</p><p>Using this framework, the compiler can determine whether closures and cell wrappers escape their context, enabling them to be stack-allocated rather than dynamically allocated on the heap. While the basic implementation successfully handles stack allocation for non-escaping closures, further extensions are required to support nested functions and forward-propagated type inference for more complex call patterns.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27389"><img src="https://wsrv.nl/?url=https%3A%2F%2Fabsolutedigitizing.com%2Fwp-content%2Fuploads%2F2024%2F02%2FBlog-image-infographic01-01-1024x550.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ZigZag is a free, open-source embroidery software built in Rust that converts SVG artwork into machine stitches for Mac and Windows. It features a visual editor supporting multiple stitch types, including tatami fills, satin columns, and running stitches, alongside automated planning tools for overlap removal, routing, and fabric presets.</p><p>The software includes Model Context Protocol support to allow AI agents to create and edit designs collaboratively, and it can export standard embroidery formats such as PES, DST, EXP, JEF, and VP3, or connect via Bluetooth to transmit designs directly to the Brother Skitch machine.</p>
 <p>Nov 13 · <a href="https://github.com/simpsoka/zigzag">github.com</a> | <a href="https://news.ycombinator.com/item?id=50470488">hacker news</a></p>
-<br clear="all" />
-
-<h2>Rust 1.100.0 Released With Stable Never Type and Allocator API</h2>
-<a name="story-27388"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvp02red7xy93tvsbeuq6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Rust project has released version 1.100.0, stabilizing the never type (!) after a decade of development and five previous attempts. The update also introduces the core Allocator API, the DropGuard helper type for executing closures on function exit paths, and std::mem::conjure_zst for safe zero-sized type creation.</p><p>In addition to language features, the release brings significant improvements to Cargo, including reporting for unused dependencies, reorganized build directory layouts to reduce cache collisions, and min-publish-age dependency cooldowns designed to mitigate supply chain risks. The stabilization of the never type also turns Infallible into an alias for !, introducing a minor breaking change for code running on pre-2024 editions.</p>
-<p>Nov 13 · <a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/81hnjw/announcing_rust_1_100_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50472038">hacker news</a></p>
 <br clear="all" />
 
 ---
