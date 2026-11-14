@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-13T05:51:00+00:00</updated>
+  <updated>2026-11-14T05:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Tendrils Compute Raises $30 Million in Funding to Develop Parallel Processor Architecture</title>
+    <link href="https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/" rel="alternate" />
+    <id>https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/::v240</id>
+    <published>2026-11-14T05:56:00+00:00</published>
+    <updated>2026-11-14T05:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdjdongjin.github.io%2Fassets%2Fimg%2F15418%2F3_combine_example.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/">tech.eu</a></small></p><hr/><p>Cambridge-based startup Tendrils Compute has raised $30 million in a funding round led by Benchmark to develop an alternative computer processor architecture. The company is designing chips based on interaction nets rather than conventional sequential CPU and GPU models, aiming to enable thousands of cores to operate in parallel.</p><p>The startup is developing its hardware in tandem with Vine, an open-source programming language designed for parallel-first architectures. While Tendrils has not yet disclosed hardware benchmarks or performance levels, its funding round included participation from the UK Sovereign AI Fund, Visionaries Clubs, and several venture capital firms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdjdongjin.github.io%2Fassets%2Fimg%2F15418%2F3_combine_example.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 16:02 UTC | #27472</small>]]></content>
+  </entry>
   <entry>
     <title>Nscale Updates IPO Prospectus Detailing Widening Losses and Revenue Growth</title>
     <link href="https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html" rel="alternate" />

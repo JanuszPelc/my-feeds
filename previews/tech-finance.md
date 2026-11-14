@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Tendrils Compute Raises $30 Million in Funding to Develop Parallel Processor Architecture</h2>
+<a name="story-27472"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdjdongjin.github.io%2Fassets%2Fimg%2F15418%2F3_combine_example.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cambridge-based startup Tendrils Compute has raised $30 million in a funding round led by Benchmark to develop an alternative computer processor architecture. The company is designing chips based on interaction nets rather than conventional sequential CPU and GPU models, aiming to enable thousands of cores to operate in parallel.</p><p>The startup is developing its hardware in tandem with Vine, an open-source programming language designed for parallel-first architectures. While Tendrils has not yet disclosed hardware benchmarks or performance levels, its funding round included participation from the UK Sovereign AI Fund, Visionaries Clubs, and several venture capital firms.</p>
+<p>Nov 14 · <a href="https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/">tech.eu</a></p>
+<br clear="all" />
+
 <h2>Nscale Updates IPO Prospectus Detailing Widening Losses and Revenue Growth</h2>
 <a name="story-27379"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ideagen.com%2Fdam%2Fjcr%3A7a62c5e2-74aa-42c7-bf6f-27c6f31f6f48%2Fipo-count-and-ammount-raised.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia-backed neocloud provider Nscale has released an updated prospectus for its upcoming U.S. initial public offering, reporting a third-quarter net loss of $1.69 billion on $307.5 million in revenue. The latest filing shows that quarterly losses widened from $1.02 billion in the previous quarter, even as revenue continued to surge significantly year over year.</p><p>The company has recently encountered operational headwinds, including Microsoft stepping back from planned data center projects in England and Texas due to grid connection and capacity concerns. Meanwhile, Nscale continues to expand its business with artificial intelligence firms like Anthropic while navigating a turbulent neocloud market.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27259"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.trendforce.com%2Fblog%2Fwp-content%2Fuploads%2F2024%2F11%2F08131351%2FSMIC-Q324-Revenue-1024x536.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SMIC, China's largest contract chip manufacturer, reported third-quarter revenue of approximately $3.19 billion, a 34% increase year-over-year. Net profit for the period rose 123% to about $428.4 million, surpassing analyst estimates of $396.8 million.</p><p>The company's gross margin reached 29.9%, exceeding its guidance of 26% to 28%. This performance was attributed to spillover effects from the artificial intelligence sector.</p>
 <p>Nov 12 · <a href="https://www.wsj.com/business/earnings/chinas-smic-doubles-profit-posts-record-revenue-on-ai-spillover-effects-0606debc?st=4BA8bL&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Uforce Raises $700M at $6B Valuation Co-Led by UK National Wealth Fund</h2>
-<a name="story-27260"><img src="https://wsrv.nl/?url=https%3A%2F%2Fen.hvylya.net%2Fimages%2F2026%2F03%2F07%2FiHuDrwaEBijkJRCqgeNm52Ey20euLy6M44eo3QFa.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The London-based manufacturer of unmanned air, sea, and land vehicles, Uforce, has secured $700 million in financing co-led by Valor Equity and the UK National Wealth Fund. The funding round places the startup's valuation at $6 billion.</p><p>This investment marks the largest defense sector commitment by the UK National Wealth Fund. Uforce was originally established in Ukraine.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/drone-startup-uforce-valued-at-6-billion-with-uk-wealth-fund-backing">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
