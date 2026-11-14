@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-14T00:03:00+00:00</updated>
+  <updated>2026-11-14T01:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Dwarkesh Patel Essay Examines Implications of Rapid AI Progress in Mathematics for AI Development</title>
+    <link href="https://www.dwarkesh.com/p/rsi" rel="alternate" />
+    <id>https://www.dwarkesh.com/p/rsi::v240</id>
+    <published>2026-11-14T01:56:00+00:00</published>
+    <updated>2026-11-14T01:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-5us%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fb6435cd9-2927-43d5-891f-ba9550a5c5ad_2048x870.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.dwarkesh.com/p/rsi">dwarkesh.com</a> | <a href="https://news.ycombinator.com/item?id=50487854">hacker news</a></small></p><hr/><p>In an essay examining recent breakthroughs in mathematical problem-solving by artificial intelligence, writer and podcast host Dwarkesh Patel argues that systems capable of handling verifiable domains are nearing human-level proficiency in AI research. He suggests that rapid advancements in math—including solving complex competition problems and a Millennium Prize problem—demonstrate a generalizable capacity for rigorous discovery that directly applies to machine learning development.</p><p>Patel estimates a median timeline of 2028 for AIs to match the best human AI researchers, though he notes that some projections point as early as 2027 based on current acceleration metrics. Once automated systems achieve human-level R&amp;D capabilities, factors such as round-the-clock operation, higher processing speeds, and vast parallelization could radically compress the timeline for subsequent technological progress.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21-5us%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fb6435cd9-2927-43d5-891f-ba9550a5c5ad_2048x870.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 12:01 UTC | #27462</small>]]></content>
+  </entry>
   <entry>
     <title>Study Reveals Nuanced Social Behavior and Associations Among Solitary Black Rhinos</title>
     <link href="https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251" rel="alternate" />

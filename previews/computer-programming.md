@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Haskell Foundation Technical Leadership Committee Releases Technical Vision</h2>
+<p>The Haskell Foundation's newly bootstrapped Technical Leadership Committee has published its technical vision for the Haskell ecosystem, prioritizing onboarding, iteration speed, debugging, stability, and open-source support. The committee plans to fund and execute initiatives through a light community proposal process that invites public feedback and counter-proposals.</p><p>The strategic vision emphasizes Haskell's strengths in human-in-the-loop workflows and responsible AI development, aiming to combine Rust-like onboarding, Go-like iteration speed, and C#-like debugging capabilities. Key technical objectives include cutting GHC build times, introducing live step-through debugging and native CLI tools, securing the supply chain, and improving backward compatibility to make Haskell predictable for both startups and enterprise environments.</p>
+<p>Nov 14 · <a href="https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078">discourse.haskell.org</a> | <a href="https://lobste.rs/s/xe0prv/technical_vision_for_haskell_ecosystem">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50484235">hacker news</a></p>
+<br clear="all" />
+
 <h2>Matt Bee&#x27;s Blog Impersonated by Clone Website</h2>
 <a name="story-27482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimpersonally.io%2Fwp-content%2Fuploads%2F2025%2F04%2Fmitad-blog-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An unauthorized domain, mataroa.site, is scraping and re-hosting content from a personal blog. The clone uses watermarked images from the original source and includes a hidden link to a website cloning tool.</p><p>The site also contains meta tags for mitgo.com, an SEO scamming platform. While the author has filed an abuse report with the registrar Namecheap, they noted that Cloudflare's abuse reporting mechanism is currently non-functional.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27374"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F27971&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Laurence Tratt has successfully applied the yk framework to CPython, creating ykcpython to provide a meta-tracing JIT compiler. In AWFY benchmarks, ykcpython outperformed standard CPython in 12 out of 13 cases and surpassed CPython's experimental JIT in 8 out of 13 benchmarks.</p><p>The adaptation required approximately 450 lines of code and involved resolving performance conflicts caused by CPython's "quickening" specialization mechanism. While the project demonstrates the feasibility of adding JIT compilers to large interpreters, the author states that the implementation is not yet ready for production use.</p>
 <p>Nov 12 · <a href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html">tratt.net</a> | <a href="https://lobste.rs/s/gejy85/adapting_cpython_for_yk">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50466410">hacker news</a></p>
-<br clear="all" />
-
-<h2>Baochip-1x SoC and Dabao Evaluation Board Details</h2>
-<a name="story-27368"><img src="https://wsrv.nl/?url=https%3A%2F%2Fratfactor.com%2Fcards%2Fimages%2Fbaochip1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Baochip-1x is an open 22nm RISC-V system-on-chip (SoC) designed for high-assurance applications. It includes a memory management unit (MMU), an I/O coprocessor (BIO), and hardware security features such as AES encryption and a true random number generator. The chip is also designed to be physically inspectable using infrared cameras.</p><p>The SoC is specifically designed to run the Xous microkernel, a pure-Rust operating system. It is available on the Dabao evaluation board, which can be programmed using UF2 files and interfaced through a virtual serial console.</p>
-<p>Nov 12 · <a href="https://ratfactor.com/cards/hello-baochip">ratfactor.com</a> | <a href="https://www.bunniestudios.com/blog/2026/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/">bunniestudios.com</a> | <a href="https://lobste.rs/s/3gw2f4/hello_baochip">lobsters</a></p>
 <br clear="all" />
 
 ---
