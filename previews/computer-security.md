@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Microsoft 365 Services Fully Restored Following Global Outage</h2>
+<a name="story-27481"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft announced that all Microsoft 365 products have returned to operational status, successfully concluding a major service disruption that affected businesses, governments, hospitals, and financial traders worldwide.</p><p>The widespread outage ranks among the longest disruptions in the platform's history, highlighting the deep reliance of global critical infrastructure on cloud-based productivity software.</p>
+<p>Nov 14 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>FBI Probes Software Update Connection to Mass FAA Outage</h2>
 <a name="story-27453"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt8eb3cdfc1fce5194%2Fblt3d52f205c797702d%2F664b35e63128422973bd503b%2FGreen_20Simple_20Annual_20Timeline_20Diagram_20_283_29.png%3Fwidth%3D700%26auto%3Dwebp%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Federal Bureau of Investigation is examining whether a software update triggered the recent mass communication issue affecting air traffic control systems. Investigators currently have no indication that the disruption was the result of a cyberattack or any form of criminal activity.</p><p>The inquiry focuses on technical factors behind the Federal Aviation Administration outage, which impacted flight operations. Authorities are reviewing system logs and update histories to determine the exact root cause of the widespread communication failure.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27250"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvpncentral.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGoogle-Publishes-Chromium-Exploit-Code-1024x576-1-700x394.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researcher Lyra Rebane explains how an administrative error that mistakenly granted her edit access to a Google Buganizer issue allowed her to modify her own Chromium bug bounty reward to over $1.3 million as a joke on X.</p><p>Although she quickly clarified that the change was unauthorized and unpaid, automated AI-generated news aggregators and Google's AI Overview treated the satirical post as fact, illustrating vulnerabilities in modern information ecosystems.</p>
 <p>Nov 12 · <a href="https://lyra.horse/blog/2026/11/disinformation-machine/">lyra.horse</a> | <a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50460254">hacker news</a></p>
-<br clear="all" />
-
-<h2>Jane Street Systems Engineer Recounts Near-Loss of NYC Datacenter Due to False Smoke Alarm</h2>
-<a name="story-27236"><img src="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A Jane Street systems engineer describes a near-catastrophic incident at the firm's New York City datacenter in 1 New York Plaza. A false smoke alarm, triggered by dust from nearby construction, caused the cooling systems to shut down, risking a situation where rising temperatures would trigger heat-sensitive sprinklers and flood the server room.</p><p>To prevent equipment destruction, the engineer manually disconnected power to all servers before temperatures exceeded critical thresholds. The incident led the systems team to implement a more reliable temperature monitoring system written in OCaml that queries individual Linux servers to detect cooling failures.</p>
-<p>Nov 11 · <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50455394">hacker news</a></p>
 <br clear="all" />
 
 ---

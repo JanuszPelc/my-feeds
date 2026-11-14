@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-13T23:04:00+00:00</updated>
+  <updated>2026-11-14T08:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Microsoft 365 Services Fully Restored Following Global Outage</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages::v240</id>
+    <published>2026-11-14T08:04:00+00:00</published>
+    <updated>2026-11-14T08:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages">bloomberg.com</a></small></p><hr/><p>Microsoft announced that all Microsoft 365 products have returned to operational status, successfully concluding a major service disruption that affected businesses, governments, hospitals, and financial traders worldwide.</p><p>The widespread outage ranks among the longest disruptions in the platform's history, highlighting the deep reliance of global critical infrastructure on cloud-based productivity software.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 18:08 UTC | #27481</small>]]></content>
+  </entry>
   <entry>
     <title>FBI Probes Software Update Connection to Mass FAA Outage</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage" rel="alternate" />

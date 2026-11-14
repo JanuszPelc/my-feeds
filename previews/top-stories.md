@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;WSJ Report Alleges Nvidia Engineered GPU Scarcity by Funding AI Startups</h2>
+<a name="story-27496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A report from The Wall Street Journal alleges that Nvidia artificially inflated the shortage of GPUs and memory by investing in AI startups that subsequently purchased Nvidia hardware to build data centers. The strategy was reportedly intended to maintain high demand perceptions and absorb an oversupply of semiconductors manufactured by TSMC.</p><p>The report highlights internal friction between former Nvidia CEO Jensen Huang and CFO Colette Kress over circular financing agreements and commitments to small-scale cloud providers. These investments faced challenges as hyperscalers increasingly shifted toward custom silicon solutions and smaller startups struggled to afford the hardware.</p>
+<p>Nov 14 · <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">techpowerup.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50493251">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;GDC Festival of Gaming State of the Game Industry Report Details Generative AI Usage</h2>
 <a name="story-27332"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1253471-85e2-47ae-a3dc-c0749ceb5fde_2816x1584.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Data from the GDC Festival of Gaming State of the Game Industry report indicates that 40 percent of surveyed industry professionals use generative AI in the workplace, with 73 percent of those users relying on the technology primarily for research and brainstorming.</p><p>While 56 percent of AI-using developers employ it for code generation and debugging, only six percent utilize it to create player-facing content, reflecting ongoing industry caution and widespread concerns regarding copyright, environmental impacts, and overall game quality.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The exchange has used profits and emergency funds to replace all $6.3 billion in cryptoassets stolen during an October 29 cyberattack. The reimbursement covers both common and obscure tokens.</p><p>This action marks the conclusion of what is described as the largest cybertheft in history.</p>
 <p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/computer-programming.png" width="28" align="texttop" /> &nbsp;Rust 1.100.0 Released With Stable Never Type and Allocator API</h2>
-<a name="story-27388"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvp02red7xy93tvsbeuq6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Rust project has released version 1.100.0, stabilizing the never type (!) after a decade of development and five previous attempts. The update also introduces the core Allocator API, the DropGuard helper type for executing closures on function exit paths, and std::mem::conjure_zst for safe zero-sized type creation.</p><p>In addition to language features, the release brings significant improvements to Cargo, including reporting for unused dependencies, reorganized build directory layouts to reduce cache collisions, and min-publish-age dependency cooldowns designed to mitigate supply chain risks. The stabilization of the never type also turns Infallible into an alias for !, introducing a minor breaking change for code running on pre-2024 editions.</p>
-<p>Nov 13 · <a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/81hnjw/announcing_rust_1_100_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50472038">hacker news</a></p>
 <br clear="all" />
 
 ---
