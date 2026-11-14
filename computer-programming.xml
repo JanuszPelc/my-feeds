@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>An Introduction to ML (Meta Language) Modules</title>
+    <link href="https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/" rel="alternate" />
+    <id>https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/::v240</id>
+    <published>2026-11-13T20:03:00+00:00</published>
+    <updated>2026-11-13T20:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage3.slideserve.com%2F6010373%2Fml-modules-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/">thunderseethe.dev</a> | <a href="https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals">lobsters</a></small></p><hr/><p>This article introduces the ML (Meta Language) module system used in functional programming languages such as SML and OCaml. It explains how modules bundle functions and type definitions, use signatures as interfaces to define public APIs, and utilize abstract types to achieve encapsulation by hiding implementation details.</p><p>The discussion includes parameterized modules, which allow for modularity by accepting other modules as arguments, and the `include` directive for combining submodules. The article employs Rust-inspired pseudo-code to illustrate these concepts, making the paradigm more accessible to programmers from other backgrounds.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage3.slideserve.com%2F6010373%2Fml-modules-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 03:59 UTC | #27467</small>]]></content>
+  </entry>
+  <entry>
     <title>Joshka Proposes Protocol for Terminal Cell Borders</title>
     <link href="https://www.joshka.net/cell-borders/" rel="alternate" />
     <id>https://www.joshka.net/cell-borders/::v240</id>

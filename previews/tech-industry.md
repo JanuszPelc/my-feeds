@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Jensen Huang&#x27;s Resignation Creates Funding Gap for AI Startups</h2>
+<a name="story-27455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpress.farm%2Fwp-content%2Fuploads%2F2024%2F03%2Fthe-story-of-nvidia-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jensen Huang's resignation as Nvidia CEO has created a significant funding gap for AI startups, according to venture capitalists and founders. As one of the industry's most active investors, Huang’s departure raises concerns regarding capital availability for high-cost sectors like neocloud providers, infrastructure companies, and open-weight model developers.</p><p>Interim CEO Colette Kress is expected to adopt a more conservative investment strategy, which may result in smaller checks and lower valuations. While some suggest that major tech competitors might attempt to fill the void, there is skepticism that they will replicate Nvidia's level of high-risk, large-scale funding for pre-revenue startups.</p>
+<p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Excludes China and Hong Kong Institutional Investors From IPO</h2>
 <a name="story-27432"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F04%2FGettyImages-2267044457-e1777736992257.jpg%3Fw%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has barred institutional investors located in mainland China and Hong Kong from participating in its initial public offering. The restriction is reportedly driven in part by United States arms export regulations.</p><p>The move follows similar measures implemented for SpaceX and highlights growing geopolitical tensions regarding the global distribution of advanced artificial intelligence technology.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Engineer and writer Ploum examines the Gemini network—a lightweight, non-commercial protocol—arguing that its steady growth operates entirely independently of mainstream marketing metrics and promotional platforms like Hacker News. He contends that web statistics and visitor counts are largely worthless for independent creators, encouraging writers to focus on niche communities rather than metrics-driven traffic.</p><p>Reflecting on his decision to remove traffic statistics from his blog and abandon mainstream social media, Ploum notes that his most meaningful work often generated modest metrics while viral posts were quickly forgotten. He advocates for quiet, non-commercial virtual environments that resist commercial optimization and dopamine-driven engagement loops.</p>
 <p>Nov 13 · <a href="https://ploum.net/2026-11-12-anti-marketing-gemini.html">ploum.net</a> | <a href="https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491417">hacker news</a></p>
-<br clear="all" />
-
-<h2>Hatz AI Secures $24M to Expand AI Platform and Double Headcount</h2>
-<a name="story-27360"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fhatz-ai-raises-24m-series-a-to-expand-ai-platform-for-msps.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hatz AI has raised $24 million in Series A funding from Nadia Partners, Vestigo Ventures, and The Private Shares Fund. The New York-based company plans to use the capital to double its 60-person workforce, focusing recruitment on engineering, AI research, and forward-deployed engineering roles.</p><p>The funding will support the expansion of Hatz AI's platform, which assists Managed Service Providers (MSPs) in developing and deploying customized AI solutions for small and medium-sized businesses. The company also aims to advance research and development for its proprietary SMB1 benchmark, a tool used to measure how effectively AI completes real-world business tasks.</p>
-<p>Nov 13 · <a href="https://www.crn.com/news/ai/2026/hatz-ai-secures-24m-to-expand-platform-double-headcount-exclusive">crn.com</a></p>
 <br clear="all" />
 
 ---
