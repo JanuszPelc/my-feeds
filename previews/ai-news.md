@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>GGML-Org Releases GGML v1.0.0</h2>
+<a name="story-27502"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxsxszab.github.io%2Fimages%2Fggml-deep-dive-V%2Fcode6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GGML-org has released version 1.0.0 of its machine learning tensor library, introducing major API cleanups, FP8 support, and configurable YaRN truncation. The update prunes deprecated public APIs and legacy diagnostic mask operations while bumping the RPC protocol to version 9 to improve endpoint reliability.</p><p>The release delivers broad performance enhancements across numerous hardware backends, including CUDA few-row quantized matrix multiplications and mixture-of-experts fusion, Vulkan FlashAttention paths, a SYCL device-side MoE scheduler, and expanded operator support for OpenCL, WebGPU, and Hexagon architectures.</p>
+<p>Nov 14 · <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">github.com</a> | <a href="https://news.ycombinator.com/item?id=50493062">hacker news</a></p>
+<br clear="all" />
+
 <h2>FAA Expands SMART AI Air Traffic Management System Nationwide</h2>
 <a name="story-27451"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaircurrent.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAlaska_Airlines_Air_Space_Intelligence.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Federal Aviation Administration has expanded its cloud-based SMART artificial intelligence system across all 22 air route traffic control centers in the United States. Initially deployed in the Washington, DC region in September, the tool analyzes weather, traffic flow, and staffing to offer flight rerouting and scheduling recommendations.</p><p>The agency reports that the system previously helped reroute 180 flights while saving fuel and time, though the national air traffic controllers union has noted it was excluded from the system's design and testing process. Human specialists ultimately review and validate all recommendations before they reach air traffic control facilities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27269"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Foriginal_images%2FCustomize_Chrome_Inline.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced Tabletop, an experimental AI-powered platform that lets users generate customized collaborative tools by describing them in natural language. The service enables people to build interactive spaces such as expense splitters, trip itineraries, and chore charts, which can then be shared with others via an invite link for simultaneous real-time use.</p><p>Access to the Tabletop beta is currently rolling out via a waitlist and is restricted to users over the age of 18 in the United States. Designed as a flexible alternative to traditional workplace management software, the platform utilizes starter templates and prompt-based generation to create shared digital hubs for personal planning and group coordination.</p>
 <p>Nov 12 · <a href="https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability">theverge.com</a> | <a href="https://labs.google/tabletop">labs.google</a></p>
-<br clear="all" />
-
-<h2>AWS Releases Free Local Emulator Built by AI Agents</h2>
-<a name="story-27210"><img src="https://wsrv.nl/?url=https%3A%2F%2Fclarusway.com%2Fwp-content%2Fuploads%2F2024%2F08%2Faws-benefits-1024x511.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AWS has released AWS Emulator, a free tool that simulates over 200 AWS services locally to facilitate testing without network connectivity or cloud costs. The emulator was built entirely by autonomous AI agents using Amazon Bedrock AgentCore, employing specialized agents to write code, execute fidelity tests, and automatically fix errors.</p><p>This tool aims to mitigate the high costs and latency introduced by AI coding agents that require rapid, repetitive testing cycles against live cloud environments. Although it provides a local environment for development, current versions do not yet simulate service outages, throttling, or regional feature variations.</p>
-<p>Nov 11 · <a href="https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/">geekwire.com</a> | <a href="https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator">aboutamazon.com</a> | <a href="https://news.ycombinator.com/item?id=50456631">hacker news</a></p>
 <br clear="all" />
 
 ---
