@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>FAA Expands SMART AI Air Traffic Management System Nationwide</h2>
+<a name="story-27451"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaircurrent.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAlaska_Airlines_Air_Space_Intelligence.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Federal Aviation Administration has expanded its cloud-based SMART artificial intelligence system across all 22 air route traffic control centers in the United States. Initially deployed in the Washington, DC region in September, the tool analyzes weather, traffic flow, and staffing to offer flight rerouting and scheduling recommendations.</p><p>The agency reports that the system previously helped reroute 180 flights while saving fuel and time, though the national air traffic controllers union has noted it was excluded from the system's design and testing process. Human specialists ultimately review and validate all recommendations before they reach air traffic control facilities.</p>
+<p>Nov 13 · <a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">arstechnica.com</a> | <a href="https://www.transportation.gov/briefing-room/smart-fact-sheet">transportation.gov</a> | <a href="https://news.ycombinator.com/item?id=50490834">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic&#x27;s Claude Duet AI Agent Offers Proactive Task Assistance</h2>
 <a name="story-27448"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FIMG_3369.png%3Fquality%3D90%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's Claude Duet is a proactive AI agent currently in research preview for Pro, Max, and Ultra subscribers in the United States. The tool integrates with services like email, Slack, and Google Docs to suggest tasks, flag scheduling conflicts, and draft messages based on user communication history.</p><p>The agent can identify discrepancies across various platforms and provide organizational reminders, but it may lack the nuance required to interpret social timing or communication tone accurately. Access is currently limited to specific subscription tiers through a waitlist.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27210"><img src="https://wsrv.nl/?url=https%3A%2F%2Fclarusway.com%2Fwp-content%2Fuploads%2F2024%2F08%2Faws-benefits-1024x511.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AWS has released AWS Emulator, a free tool that simulates over 200 AWS services locally to facilitate testing without network connectivity or cloud costs. The emulator was built entirely by autonomous AI agents using Amazon Bedrock AgentCore, employing specialized agents to write code, execute fidelity tests, and automatically fix errors.</p><p>This tool aims to mitigate the high costs and latency introduced by AI coding agents that require rapid, repetitive testing cycles against live cloud environments. Although it provides a local environment for development, current versions do not yet simulate service outages, throttling, or regional feature variations.</p>
 <p>Nov 11 · <a href="https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/">geekwire.com</a> | <a href="https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator">aboutamazon.com</a> | <a href="https://news.ycombinator.com/item?id=50456631">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google Introduces Gemini Decisions API and Gemini Decision 1 Model</h2>
-<a name="story-27202"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fdecisions-architecture_f0NFXU9.width-1200.format-webp.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has introduced the Gemini Decisions API and the Gemini Decision 1 model to facilitate fast, closed-set multimodal evaluations. The API supports up to 1,000 questions—including yes/no, multiple-choice, and rubric-based scoring—per single request across text, images, audio, video, and PDFs.</p><p>The API is designed for low-latency tasks like model routing and policy checks, returning probabilities and confidence scores in 150-250 ms. It is priced at $0.10 per 1 million input tokens, with no billing for output tokens.</p>
-<p>Nov 11 · <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50456791">hacker news</a></p>
 <br clear="all" />
 
 ---

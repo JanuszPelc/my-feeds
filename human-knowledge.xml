@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-13T10:18:00+00:00</updated>
+  <updated>2026-11-13T23:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Jan von Plato Uses Claude AI to Unlock Hidden Discoveries in Kurt Gödel’s Notebooks</title>
+    <link href="https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths" rel="alternate" />
+    <id>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths::v240</id>
+    <published>2026-11-13T23:02:00+00:00</published>
+    <updated>2026-11-13T23:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F9bdd4c0d169ddcdd88379dd8de98ff4c0989c312%2F31_17_3495_2758%2Fmaster%2F3495.jpg%3Fwidth%3D445%26dpr%3D1%26s%3Dnone%26crop%3Dnone&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50486748">hacker news</a></small></p><hr/><p>Finnish logician Jan von Plato has used the AI model Claude to decipher 1,009 pages of mathematical workbooks written by Kurt Gödel in obsolete German shorthand. Within days, the AI provided a comprehensive analysis that revealed hundreds of unknown theorems and proofs, including a nearly completed proof of the independence of the axiom of choice.</p><p>Gödel's unpublished notes span tens of thousands of pages, presenting a formidable challenge for human researchers who typically process about 50 pages a year. The verified theorems and unpursued themes discovered by Claude offer new insights into Gödel's advanced mathematical thinking, with researchers planning to explore his physics and cosmology notebooks next.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F9bdd4c0d169ddcdd88379dd8de98ff4c0989c312%2F31_17_3495_2758%2Fmaster%2F3495.jpg%3Fwidth%3D445%26dpr%3D1%26s%3Dnone%26crop%3Dnone&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 08:16 UTC | #27480</small>]]></content>
+  </entry>
   <entry>
     <title>Rebecca Sear Examines Scientific Flaws of Race Realism</title>
     <link href="https://theconversation.com/race-realism-why-scientifically-flawed-approach-fails-to-present-a-realistic-view-of-race-290392" rel="alternate" />
