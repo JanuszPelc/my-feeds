@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-14T10:03:00+00:00</updated>
+  <updated>2026-11-14T11:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Genetic Variations Impact How Individuals Respond to Medications</title>
+    <link href="https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352" rel="alternate" />
+    <id>https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352::v240</id>
+    <published>2026-11-14T11:04:00+00:00</published>
+    <updated>2026-11-14T11:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fpharmaceutics%2Fpharmaceutics-12-01240%2Farticle_deploy%2Fhtml%2Fimages%2Fpharmaceutics-12-01240-g002.png%3F1608691127&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352">theconversation.com</a> | <a href="https://doi.org/10.1126/scitranslmed.adt8040">doi.org</a></small></p><hr/><p>Research involving 100,000 participants from the NIH All of Us Research Program indicates that nearly all individuals carry genetic variants that affect medication response. The study found that 99.5% of participants have at least one relevant variant, and approximately 24% have taken medications, such as statins or acid-reducing drugs, that are directly influenced by their genetics.</p><p>These findings highlight the potential for pharmacogenomics to enhance precision medicine through optimized drug selection and dosing. However, researchers note that genetic testing is not yet routine clinical practice due to a lack of diverse population data, insufficient clinical guidelines, and the complicating effects of age and organ function on drug metabolism.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fpharmaceutics%2Fpharmaceutics-12-01240%2Farticle_deploy%2Fhtml%2Fimages%2Fpharmaceutics-12-01240-g002.png%3F1608691127&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 00:21 UTC | #27205 | r,hdt</small>]]></content>
+  </entry>
   <entry>
     <title>FAA Issues Nationwide Ground Stop Due to Communication Issues</title>
     <link href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop" rel="alternate" />
