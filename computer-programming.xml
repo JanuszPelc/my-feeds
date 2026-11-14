@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-13T19:55:00+00:00</updated>
+  <updated>2026-11-14T02:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -29,9 +29,9 @@
     <link href="https://alichraghi.github.io/blog/how-not-to-build-a-music-player" rel="alternate" />
     <id>https://alichraghi.github.io/blog/how-not-to-build-a-music-player::v240</id>
     <published>2026-11-13T17:18:00+00:00</published>
-    <updated>2026-11-13T17:18:00+00:00</updated>
+    <updated>2026-11-14T02:37:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://alichraghi.github.io/blog/how-not-to-build-a-music-player">alichraghi.github.io</a> | <a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player">lobsters</a></small></p><hr/><p>Developer Ali Chraghi details the creation of AMP, a minimal music player built in Zig with a custom UI and native system integration. Prompted by dissatisfaction with existing offline players and internet blackouts in Iran, the project evolved through extensive use of frontier large language models before a massive rewrite to remove AI-generated code bloat.</p><p>The development process coincided with prolonged internet restrictions and an account ban from Anthropic, forcing a rigorous line-by-line code review that ultimately resulted in a more robust and streamlined application. Moving forward, the project's roadmap includes support for Windows, Android, Linux packaging, and a music server.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 22:34 UTC | #27452</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://alichraghi.github.io/blog/how-not-to-build-a-music-player">alichraghi.github.io</a> | <a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491400">hacker news</a></small></p><hr/><p>Developer Ali Chraghi details the creation of AMP, a minimal music player built in Zig with a custom UI and native system integration. Prompted by dissatisfaction with existing offline players and internet blackouts in Iran, the project evolved through extensive use of frontier large language models before a massive rewrite to remove AI-generated code bloat.</p><p>The development process coincided with prolonged internet restrictions and an account ban from Anthropic, forcing a rigorous line-by-line code review that ultimately resulted in a more robust and streamlined application. Moving forward, the project's roadmap includes support for Windows, Android, Linux packaging, and a music server.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 22:34 UTC | #27452</small>]]></content>
   </entry>
   <entry>
     <title>Sunshowers Critiques Sean Goedecke's Essay on Glue Work</title>
