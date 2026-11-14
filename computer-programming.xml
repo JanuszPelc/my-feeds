@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-14T02:37:00+00:00</updated>
+  <updated>2026-11-14T09:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -110,9 +110,9 @@
     <link href="https://monkeyisland.pages.dev/" rel="alternate" />
     <id>https://monkeyisland.pages.dev/::v240</id>
     <published>2026-11-13T00:34:00+00:00</published>
-    <updated>2026-11-13T00:34:00+00:00</updated>
+    <updated>2026-11-14T09:46:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets1.ignimgs.com%2Fthumbs%2FuserUploaded%2F2015%2F1%2F6%2Fmonkeyisland_thumb-1420512467467_1280w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://monkeyisland.pages.dev/">monkeyisland.pages.dev</a> | <a href="https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50463245">hacker news</a></small></p><hr/><p>A fan-made web viewer enables side-by-side comparison of 13 different releases of *The Secret of Monkey Island*. Displaying the same twelve moments across various platforms, the tool demonstrates how different hardware and software configurations influenced the game's visual output.</p><p>Captures were produced using ScummVM and the Hatari emulator, employing nearest-neighbor scaling and 4:3 aspect correction to maintain original pixel shapes. The interface includes interactive CRT shaders to replicate the visual appearance of vintage monitors, including VGA, EGA, CGA, and monochrome displays.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets1.ignimgs.com%2Fthumbs%2FuserUploaded%2F2015%2F1%2F6%2Fmonkeyisland_thumb-1420512467467_1280w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 07:59 UTC | #27383</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://monkeyisland.pages.dev/">monkeyisland.pages.dev</a> | <a href="https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50493904">hacker news</a></small></p><hr/><p>A fan-made web viewer enables side-by-side comparison of 13 different releases of *The Secret of Monkey Island*. Displaying the same twelve moments across various platforms, the tool demonstrates how different hardware and software configurations influenced the game's visual output.</p><p>Captures were produced using ScummVM and the Hatari emulator, employing nearest-neighbor scaling and 4:3 aspect correction to maintain original pixel shapes. The interface includes interactive CRT shaders to replicate the visual appearance of vintage monitors, including VGA, EGA, CGA, and monochrome displays.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets1.ignimgs.com%2Fthumbs%2FuserUploaded%2F2015%2F1%2F6%2Fmonkeyisland_thumb-1420512467467_1280w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 07:59 UTC | #27383</small>]]></content>
   </entry>
   <entry>
     <title>Let Over Lambda Explores Advanced Common Lisp Macros</title>

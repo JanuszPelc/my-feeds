@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>13 Versions of The Secret of Monkey Island Compared Side by Side</h2>
 <a name="story-27383"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets1.ignimgs.com%2Fthumbs%2FuserUploaded%2F2015%2F1%2F6%2Fmonkeyisland_thumb-1420512467467_1280w.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A fan-made web viewer enables side-by-side comparison of 13 different releases of *The Secret of Monkey Island*. Displaying the same twelve moments across various platforms, the tool demonstrates how different hardware and software configurations influenced the game's visual output.</p><p>Captures were produced using ScummVM and the Hatari emulator, employing nearest-neighbor scaling and 4:3 aspect correction to maintain original pixel shapes. The interface includes interactive CRT shaders to replicate the visual appearance of vintage monitors, including VGA, EGA, CGA, and monochrome displays.</p>
-<p>Nov 13 · <a href="https://monkeyisland.pages.dev/">monkeyisland.pages.dev</a> | <a href="https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50463245">hacker news</a></p>
+<p>Nov 13 · <a href="https://monkeyisland.pages.dev/">monkeyisland.pages.dev</a> | <a href="https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50493904">hacker news</a></p>
 <br clear="all" />
 
 <h2>Let Over Lambda Explores Advanced Common Lisp Macros</h2>
