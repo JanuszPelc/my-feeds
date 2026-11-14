@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-13T18:42:00+00:00</updated>
+  <updated>2026-11-14T01:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>SpaceX Lays Off Most of Grok Imagine Video Generation Team</title>
+    <link href="https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team" rel="alternate" />
+    <id>https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team::v240</id>
+    <published>2026-11-13T19:50:00+00:00</published>
+    <updated>2026-11-13T19:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.theweek.in%2Fcontent%2Fdam%2Fweek%2Fweek%2Fnews%2Fsci-tech%2Fimages%2F2025%2F7%2F11%2Ftwitter-x-ai-grok-rtrs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team">theinformation.com</a></small></p><hr/><p>SpaceX has laid off approximately 60 employees from its Grok Imagine team, leaving only a small crew to maintain the AI-powered image and video generation product. The workforce reduction highlights a strategic shift toward prioritizing AI coding tools and the Grok Bot assistant.</p><p>The cuts target the specialized group responsible for building generative media capabilities within Elon Musk's artificial intelligence initiatives. Despite the major downsizing, the remaining personnel are tasked with keeping the existing Grok Imagine service operational.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.theweek.in%2Fcontent%2Fdam%2Fweek%2Fweek%2Fnews%2Fsci-tech%2Fimages%2F2025%2F7%2F11%2Ftwitter-x-ai-grok-rtrs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 01:26 UTC | #27418</small>]]></content>
+  </entry>
   <entry>
     <title>Nscale Reports $5.5 Billion in Debt and Expanded Nvidia Backing in Amended S-1 Filing</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo" rel="alternate" />
@@ -101,9 +110,9 @@
     <link href="https://ploum.net/2026-11-12-anti-marketing-gemini.html" rel="alternate" />
     <id>https://ploum.net/2026-11-12-anti-marketing-gemini.html::v240</id>
     <published>2026-11-13T00:41:00+00:00</published>
-    <updated>2026-11-13T00:41:00+00:00</updated>
+    <updated>2026-11-14T01:26:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://ploum.net/2026-11-12-anti-marketing-gemini.html">ploum.net</a> | <a href="https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network">lobsters</a></small></p><hr/><p>Engineer and writer Ploum examines the Gemini network—a lightweight, non-commercial protocol—arguing that its steady growth operates entirely independently of mainstream marketing metrics and promotional platforms like Hacker News. He contends that web statistics and visitor counts are largely worthless for independent creators, encouraging writers to focus on niche communities rather than metrics-driven traffic.</p><p>Reflecting on his decision to remove traffic statistics from his blog and abandon mainstream social media, Ploum notes that his most meaningful work often generated modest metrics while viral posts were quickly forgotten. He advocates for quiet, non-commercial virtual environments that resist commercial optimization and dopamine-driven engagement loops.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 08:29 UTC | #27386</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ploum.net/2026-11-12-anti-marketing-gemini.html">ploum.net</a> | <a href="https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491417">hacker news</a></small></p><hr/><p>Engineer and writer Ploum examines the Gemini network—a lightweight, non-commercial protocol—arguing that its steady growth operates entirely independently of mainstream marketing metrics and promotional platforms like Hacker News. He contends that web statistics and visitor counts are largely worthless for independent creators, encouraging writers to focus on niche communities rather than metrics-driven traffic.</p><p>Reflecting on his decision to remove traffic statistics from his blog and abandon mainstream social media, Ploum notes that his most meaningful work often generated modest metrics while viral posts were quickly forgotten. He advocates for quiet, non-commercial virtual environments that resist commercial optimization and dopamine-driven engagement loops.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 08:29 UTC | #27386</small>]]></content>
   </entry>
   <entry>
     <title>Hatz AI Secures $24M to Expand AI Platform and Double Headcount</title>

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>SpaceX Lays Off Most of Grok Imagine Video Generation Team</h2>
+<a name="story-27418"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.theweek.in%2Fcontent%2Fdam%2Fweek%2Fweek%2Fnews%2Fsci-tech%2Fimages%2F2025%2F7%2F11%2Ftwitter-x-ai-grok-rtrs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SpaceX has laid off approximately 60 employees from its Grok Imagine team, leaving only a small crew to maintain the AI-powered image and video generation product. The workforce reduction highlights a strategic shift toward prioritizing AI coding tools and the Grok Bot assistant.</p><p>The cuts target the specialized group responsible for building generative media capabilities within Elon Musk's artificial intelligence initiatives. Despite the major downsizing, the remaining personnel are tasked with keeping the existing Grok Imagine service operational.</p>
+<p>Nov 13 · <a href="https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Nscale Reports $5.5 Billion in Debt and Expanded Nvidia Backing in Amended S-1 Filing</h2>
 <a name="story-27414"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQHRRlybbFFVnA%2Ffeedshare-shrink_1280%2FB4DZmUoIRoJgAw-%2F0%2F1759135173495%3Fe%3D2147483647%26v%3Dbeta%26t%3DxAKhoilH80X28BrHvY_o5U_VABWSN801iZSFMFrlL4w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cloud infrastructure provider Nscale reported $5.5 billion in debt as of September, up significantly from $137.4 million in June, according to an amended Form S-1 filing with US regulators. The updated prospectus also revealed that Nvidia has committed $2 billion toward a convertible financing round exceeding $3 billion, expanding upon a previously disclosed $1 billion commitment.</p><p>The disclosures come as the British artificial intelligence cloud company prepares for its initial public offering, having previously filed to target a valuation of up to $35 billion. While backed by substantial contract commitments and major industry partnerships, Nscale has acknowledged needing additional cash to meet its obligations amid widening net losses and rising infrastructure costs.</p>
@@ -71,7 +77,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Ploum Explores the Anti-Marketing Nature of the Gemini Network</h2>
 <a name="story-27386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.goepps.com%2Fassets%2Fimg%2Farticles%2F_992x620_crop_center-center_82_line%2F49552%2FGoogle-Gemini-Upgrades-FTC-Investigates-Big-Tech-Ads-and-ChatGPT-vs.-Google-Traffic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Engineer and writer Ploum examines the Gemini network—a lightweight, non-commercial protocol—arguing that its steady growth operates entirely independently of mainstream marketing metrics and promotional platforms like Hacker News. He contends that web statistics and visitor counts are largely worthless for independent creators, encouraging writers to focus on niche communities rather than metrics-driven traffic.</p><p>Reflecting on his decision to remove traffic statistics from his blog and abandon mainstream social media, Ploum notes that his most meaningful work often generated modest metrics while viral posts were quickly forgotten. He advocates for quiet, non-commercial virtual environments that resist commercial optimization and dopamine-driven engagement loops.</p>
-<p>Nov 13 · <a href="https://ploum.net/2026-11-12-anti-marketing-gemini.html">ploum.net</a> | <a href="https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network">lobsters</a></p>
+<p>Nov 13 · <a href="https://ploum.net/2026-11-12-anti-marketing-gemini.html">ploum.net</a> | <a href="https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491417">hacker news</a></p>
 <br clear="all" />
 
 <h2>Hatz AI Secures $24M to Expand AI Platform and Double Headcount</h2>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27350"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F12biz-spacex-datacenters-jpcb%2F12biz-spacex-datacenters-jpcb-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The company intends to spend $74 billion on new data center campuses in Arizona and Texas to bolster its artificial intelligence business. The $24 billion Texas site near the Starbase rocket facility is intended to generate its own power, while the $50 billion Arizona project in Cochise County is expected to create 5,500 construction and 1,000 permanent jobs.</p><p>This expansion supports a growing revenue stream from leasing computing power to companies like Google and Anthropic. SpaceX's A.I. division, xAI, already operates four data centers in Tennessee and Mississippi, and the company has significantly increased capital expenditures to fund the necessary hardware and chips.</p>
 <p>Nov 12 · <a href="https://www.nytimes.com/2026/11/12/business/spacex-data-center.html">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Whoop Launches Whoop Humans Social Network</h2>
-<a name="story-27310"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F03%2FScreenshot-2026-03-31-at-8.39.34-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Whoop has launched "Whoop Humans," a social network within its app that enables members to follow friends and family and share health data. Available to all membership tiers at no extra cost, the opt-in feature allows users to share specific metrics like sleep, recovery, and workouts.</p><p>The platform aims for more personal connections than the company's existing "Teams" feature, offering privacy controls such as "stealth mode" and selective metric sharing. This expansion aligns with Whoop's strategic focus on medical wellness and an increasing demographic of users over 60.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
