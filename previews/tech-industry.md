@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nscale Reports $5.5 Billion in Debt and Expanded Nvidia Backing in Amended S-1 Filing</h2>
+<a name="story-27414"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQHRRlybbFFVnA%2Ffeedshare-shrink_1280%2FB4DZmUoIRoJgAw-%2F0%2F1759135173495%3Fe%3D2147483647%26v%3Dbeta%26t%3DxAKhoilH80X28BrHvY_o5U_VABWSN801iZSFMFrlL4w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cloud infrastructure provider Nscale reported $5.5 billion in debt as of September, up significantly from $137.4 million in June, according to an amended Form S-1 filing with US regulators. The updated prospectus also revealed that Nvidia has committed $2 billion toward a convertible financing round exceeding $3 billion, expanding upon a previously disclosed $1 billion commitment.</p><p>The disclosures come as the British artificial intelligence cloud company prepares for its initial public offering, having previously filed to target a valuation of up to $35 billion. While backed by substantial contract commitments and major industry partnerships, Nscale has acknowledged needing additional cash to meet its obligations amid widening net losses and rising infrastructure costs.</p>
+<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Jensen Huang Reportedly Lacked Confidence in Successor Colette Kress</h2>
 <a name="story-27409"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fcolette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>During a meeting concerning Nvidia's multi-billion dollar financial guarantees for data center operators, former CEO Jensen Huang reportedly described interim successor Colette Kress as a "deer in the headlights." According to a Wall Street Journal report, Huang also stated that Kress was unable to assist with the company's strategic decision-making.</p><p>These comments emerge following Huang's resignation amid allegations of extramarital affairs and investigations into a potential espionage plot. Kress, who has served as Nvidia's CFO for over 13 years, has recently questioned the company's credit-based deal structures and scaled back financial commitments to OpenAI's data center projects.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27310"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F03%2FScreenshot-2026-03-31-at-8.39.34-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Whoop has launched "Whoop Humans," a social network within its app that enables members to follow friends and family and share health data. Available to all membership tiers at no extra cost, the opt-in feature allows users to share specific metrics like sleep, recovery, and workouts.</p><p>The platform aims for more personal connections than the company's existing "Teams" feature, offering privacy controls such as "stealth mode" and selective metric sharing. This expansion aligns with Whoop's strategic focus on medical wellness and an increasing demographic of users over 60.</p>
 <p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Hugging Face CEO Clément Delangue Vows to Support Open-Source AI After Jensen Huang&#x27;s Departure</h2>
-<a name="story-27316"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fcouples-hugging-pictures-9oj4exqccftul95f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hugging Face CEO Clément Delangue has pledged to continue advocating for open-source AI following the departure of Nvidia CEO Jensen Huang. This commitment comes as Nvidia's pending $12.9 billion acquisition of Hugging Face remains scheduled to close in the first half of 2027.</p><p>Huang was a prominent supporter of open-weight models, leading to industry concerns about the platform's future direction under Nvidia's leadership. The acquisition is currently facing antitrust scrutiny from the U.S. Department of Justice regarding its potential impact on competition within the AI market.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50471673">hacker news</a></p>
 <br clear="all" />
 
 ---

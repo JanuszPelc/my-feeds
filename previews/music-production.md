@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Quiet Art Releases WaveRider v5.0 with Speech Detection</h2>
+<a name="story-27440"><img src="https://wsrv.nl/?url=https%3A%2F%2Fquietart.co.nz%2Fwp-content%2Fuploads%2F2019%2F05%2FWRTG-Screen.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Quiet Art has released version 5.0 of its WaveRider plugin, introducing a new Dialog Mode that uses neural speech detection for automated level riding. The updated software distinguishes real speech from breaths, noise, and room tone without adding latency to real-time operations, preventing unwanted level increases during pauses in dialogue.</p><p>Alongside WaveRider v5.0—which has been expanded from Pro Tools to run across multiple major digital audio workstations including Logic Pro, Cubase, Nuendo, Reaper, and Studio One—the company released WaveRider TG v2.0 and LoudnessGracious v1.1. These companion updates also integrate the new Dialog Mode across different hosting formats and AudioSuite workflows.</p>
+<p>Nov 13 · <a href="https://www.kvraudio.com/news/quiet-art-releases-waverider-v5-0-with-speech-detection-plus-waverider-tg-v2-0-and-loudnessgracious-v1-1-69725?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69725">kvraudio.com</a> | <a href="https://quietart.co.nz/waverider">quietart.co.nz</a></p>
+<br clear="all" />
+
 <h2>Vir2 Instruments Releases MOJO: Flutes Virtual Instrument for Kontakt Player</h2>
 <a name="story-27429"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmojoflutes-gui-shadow1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vir2 Instruments has released MOJO: Flutes, a virtual instrument for Kontakt Player featuring concert and alto flutes performed by Veronika Vitazkova. Tailored for jazz, pop, and funk productions, the library includes 22 articulations with true legato transitions, recorded vibrato, and up to three dynamic layers.</p><p>The collection offers performable repetitions, falls, trills, and overblown techniques, supported by six microphone positions, an integrated effects suite, and Komplete Kontrol integration. The instrument requires approximately 28.9 GB of installed space and is available for $199.95, with an introductory sale price offered through early December.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27357"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fleveling-tool-141.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AdHd Audio Tools' Leveling Tool has been updated to version 1.4.1, adding native Apple Silicon support. The update provides universal binaries that work on both Apple Silicon and Intel-based macOS systems.</p><p>The tool is available as donationware and can be downloaded from the AdHd Audio Tools website. This update ensures better performance and compatibility for users on modern Mac hardware.</p>
 <p>Nov 12 · <a href="https://www.kvraudio.com/news/adhd-audio-tools-updates-leveling-tool-to-v1-4-1---apple-silicon-support-69780?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69780">kvraudio.com</a> | <a href="https://audiotools.se/downloads/leveling-tool/">audiotools.se</a></p>
-<br clear="all" />
-
-<h2>Sonura Flow Enables Audio Generation from Text Prompts</h2>
-<a name="story-27321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSonura-Flow-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sonura Flow is a free plugin that allows producers to generate loops, one-shots, vocals, and effects from text prompts within a DAW. Users can select sound categories like drums, bass, or melody, specify loop lengths, and choose from multiple generated variations before dragging the audio into their timeline.</p><p>The free tier provides 10 loops, 20 one-shots/effects, and four full tracks per day without a time limit or credit card requirement. Audio generated under this plan is released under a CC0 license, permitting use in musical releases without attribution or licensing restrictions.</p>
-<p>Nov 12 · <a href="https://musictech.com/news/gear/sonura-flow/">musictech.com</a> | <a href="https://sonurastudio.com/plugin">sonurastudio.com</a></p>
 <br clear="all" />
 
 ---
