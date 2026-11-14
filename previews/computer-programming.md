@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Probabilistic Data Structures and the Unsure Go Package</h2>
 <a name="story-27473"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lc7g155rm26xl1stv3w.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Probabilistic data structures provide approximate answers to queries about data sets while significantly reducing memory requirements compared to deterministic structures. This article explains the mechanics of Bloom filters, count-min sketches, and HyperLogLog, and introduces unsure, a Go package designed for speed and minimal dependencies.</p><p>The unsure implementation utilizes blocked Bloom filters to improve CPU cache efficiency and employs conservative updates in count-min sketches to reduce estimation errors. Benchmarks indicate that the package provides faster execution and lower memory usage than established alternatives like bits-and-blooms and BoomFilters.</p>
-<p>Nov 13 · <a href="https://antonz.org/probabilistic-data-structures/">antonz.org</a> | <a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go">lobsters</a></p>
+<p>Nov 13 · <a href="https://antonz.org/probabilistic-data-structures/">antonz.org</a> | <a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50496870">hacker news</a></p>
 <br clear="all" />
 
 <h2>An Introduction to ML (Meta Language) Modules</h2>
