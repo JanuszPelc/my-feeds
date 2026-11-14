@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Alistair Details Fix for WebKit Promise Hang Bug in Safari and Bun</h2>
+<a name="story-27490"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.lavx.hu%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnews.lavx.hu%2Fapi%2Fmedia%2Ffile%2Fa-16-line-webkit-fix-ended-a-promise-hang-in-safari-and-bun_gen_1794644801061-1200x630.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An engineering analysis details a WebKit bug causing JavaScript promises to hang indefinitely in Safari and Bun when resolving a thenable whose constructor species getter throws an error. JavaScriptCore performed species lookups before creating resolving functions, allowing exceptions to escape and leaving promises permanently pending.</p><p>A 16-line patch resolves the issue by instantiating the resolve and reject functions prior to evaluating the thenable's `.then()` method, ensuring thrown errors correctly trigger promise rejections. The investigation also explores how JavaScript promise mechanics compare to railway-oriented programming and why TypeScript cannot statically type rejection values.</p>
+<p>Nov 14 · <a href="https://alistair.sh/thenables">alistair.sh</a> | <a href="https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made">lobsters</a></p>
+<br clear="all" />
+
 <h2>Haskell Foundation Technical Leadership Committee Releases Technical Vision</h2>
 <p>The Haskell Foundation's newly bootstrapped Technical Leadership Committee has published its technical vision for the Haskell ecosystem, prioritizing onboarding, iteration speed, debugging, stability, and open-source support. The committee plans to fund and execute initiatives through a light community proposal process that invites public feedback and counter-proposals.</p><p>The strategic vision emphasizes Haskell's strengths in human-in-the-loop workflows and responsible AI development, aiming to combine Rust-like onboarding, Go-like iteration speed, and C#-like debugging capabilities. Key technical objectives include cutting GHC build times, introducing live step-through debugging and native CLI tools, securing the supply chain, and improving backward compatibility to make Haskell predictable for both startups and enterprise environments.</p>
 <p>Nov 14 · <a href="https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078">discourse.haskell.org</a> | <a href="https://lobste.rs/s/xe0prv/technical_vision_for_haskell_ecosystem">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50484235">hacker news</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27377"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Ffcio3al0mrq31.png%3Fauto%3Dwebp%26s%3D9b6b95fb890679f37aa48b3b2974ce0c97c4d085&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Let Over Lambda focuses on the use of macros in Common Lisp to enable advanced programming abstractions. The book describes how macros can be utilized to improve programmer productivity, code efficiency, and security through sophisticated programming techniques.</p><p>Originally published in 2008 to commemorate the 50th anniversary of Lisp, the book's content is now available to read for free online in HTML and PDF formats. The text covers topics ranging from programming fundamentals to complex implementation concepts such as anaphoric macros and pandoric-eval.</p>
 <p>Nov 12 · <a href="https://letoverlambda.com/">letoverlambda.com</a> | <a href="https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50439448">hacker news</a></p>
-<br clear="all" />
-
-<h2>Laurence Tratt Adapts CPython for yk JIT Compiler</h2>
-<a name="story-27374"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F27971&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Laurence Tratt has successfully applied the yk framework to CPython, creating ykcpython to provide a meta-tracing JIT compiler. In AWFY benchmarks, ykcpython outperformed standard CPython in 12 out of 13 cases and surpassed CPython's experimental JIT in 8 out of 13 benchmarks.</p><p>The adaptation required approximately 450 lines of code and involved resolving performance conflicts caused by CPython's "quickening" specialization mechanism. While the project demonstrates the feasibility of adding JIT compilers to large interpreters, the author states that the implementation is not yet ready for production use.</p>
-<p>Nov 12 · <a href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html">tratt.net</a> | <a href="https://lobste.rs/s/gejy85/adapting_cpython_for_yk">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50466410">hacker news</a></p>
 <br clear="all" />
 
 ---
