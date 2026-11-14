@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-13T23:36:00+00:00</updated>
+  <updated>2026-11-14T01:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>FAA Lifts Nationwide Ground Stop Following Air Traffic Control System Outage</title>
+    <link href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247" rel="alternate" />
+    <id>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247::v240</id>
+    <published>2026-11-14T01:03:00+00:00</published>
+    <updated>2026-11-14T01:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.republicworld.com%2Fall_images%2F2026%2F11%2Fus-lifts-nationwide-faa-ground-stop-after-telecom-outage-duffy-cites-ageing-system-1794627145670-1280x720.webp%3Fw%3D1280%26h%3D720%26q%3D75%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">nbcnews.com</a> | <a href="https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop">faa.gov</a> | <a href="https://news.ycombinator.com/item?id=50489641">hacker news</a></small></p><hr/><p>The Federal Aviation Administration ordered a nationwide ground stop for departing flights that lasted more than four hours, halting U.S. air traffic, canceling thousands of flights, and stranding passengers at airports across the country.</p><p>Transportation Secretary Sean Duffy attributed the disruption to an overloaded data router within legacy air traffic control equipment, which caused radar and communication instability. Officials stated there was no evidence of a cyberattack, and major airlines resumed operations as the airspace gradually recovered.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.republicworld.com%2Fall_images%2F2026%2F11%2Fus-lifts-nationwide-faa-ground-stop-after-telecom-outage-duffy-cites-ageing-system-1794627145670-1280x720.webp%3Fw%3D1280%26h%3D720%26q%3D75%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 11:16 UTC | #27488</small>]]></content>
+  </entry>
   <entry>
     <title>ASI Denies SMART System Connection to Current Ground Stop</title>
     <link href="https://x.com/airspaceintel/status/2121371183836696583" rel="alternate" />

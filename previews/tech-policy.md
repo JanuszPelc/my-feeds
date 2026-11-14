@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>FAA Lifts Nationwide Ground Stop Following Air Traffic Control System Outage</h2>
+<a name="story-27488"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.republicworld.com%2Fall_images%2F2026%2F11%2Fus-lifts-nationwide-faa-ground-stop-after-telecom-outage-duffy-cites-ageing-system-1794627145670-1280x720.webp%3Fw%3D1280%26h%3D720%26q%3D75%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Federal Aviation Administration ordered a nationwide ground stop for departing flights that lasted more than four hours, halting U.S. air traffic, canceling thousands of flights, and stranding passengers at airports across the country.</p><p>Transportation Secretary Sean Duffy attributed the disruption to an overloaded data router within legacy air traffic control equipment, which caused radar and communication instability. Officials stated there was no evidence of a cyberattack, and major airlines resumed operations as the airspace gradually recovered.</p>
+<p>Nov 14 · <a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">nbcnews.com</a> | <a href="https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop">faa.gov</a> | <a href="https://news.ycombinator.com/item?id=50489641">hacker news</a></p>
+<br clear="all" />
+
 <h2>ASI Denies SMART System Connection to Current Ground Stop</h2>
 <a name="story-27457"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F3cb04a5da0ece4047c3b43a70b63b226e524419df7ddc3f1c46f1aa39d9e74cc%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwdvm-hagerstown%2F695d212d953f44bd76db27dcf47635ab&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The current ground stop is not a result of the SMART system or any products resulting from ASI's integration with the FAA and ATC.</p><p>AirSpace Intel issued the statement to address speculation linking the system to the ongoing aviation delays.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Zelenskyy Alleges Starshield Faced Systematic Speed Restrictions</h2>
 <p>Volodymyr Zelenskyy reported that SpaceX's Starshield service faced "systematic speed restrictions" for several days. Ukrainian officials believe these limitations are intended to pressure Kyiv during peace negotiations.</p><p>The connectivity issues occur as the Ukrainian military struggles to intercept Russian jet-powered drones. This coincides with meetings between Vladimir Putin and Steve Witkoff and Jared Kushner.</p>
 <p>Nov 12 · <a href="https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e">ft.com</a></p>
-<br clear="all" />
-
-<h2>China Criticizes US Use of Nvidia CEO Scandal for Tech Restrictions</h2>
-<a name="story-27267"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA249c3g.img%3Fw%3D1200%26h%3D800%26m%3D4%26q%3D94&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Beijing has stated that the United States should cease fabricating allegations of Chinese spying involving Nvidia Corp. Chief Executive Officer Jensen Huang as a pretext for implementing further technology restrictions.</p><p>The statement comes ahead of an expected meeting between US President Donald Trump and Chinese President Xi Jinping next week, as bilateral tensions surrounding semiconductor access and national security continue to escalate.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/china-says-us-should-not-use-huang-scandal-to-justify-tech-curbs">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
