@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Microsoft Apologizes for Service Disruption</h2>
+<a name="story-27443"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.kinetics.co.nz%2Fwp-content%2Fuploads%2F2024%2F08%2FAug1Microsoft.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft has apologized for a service disruption affecting its customers and partners, reporting that services are seeing broad recovery and stability.</p><p>The company identified a technical issue as the cause of the incident.</p>
+<p>Nov 13 · <a href="https://x.com/microsoft/status/2121282013600907325">x.com</a></p>
+<br clear="all" />
+
 <h2>Antithesis Develops System Capable of Beating NetHack</h2>
 <a name="story-27469"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2F22b2baf68dcecb22d237a597bbd0debca3c28a1e%2F1-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Antithesis has developed a system capable of finding a path to victory in NetHack within five minutes on approximately 80% of game seeds. The approach utilizes a computing paradigm similar to probabilistic programming to allow agents to navigate the game's extensive state space and long-horizon planning requirements.</p><p>The development process integrated technical lessons learned from training agents on other titles, such as Super Mario Bros., Zelda, and Tetris. These experiences helped the team refine core mechanisms including value functions, resource management, and the pruning of doomed game states.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27196"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt2f4b8dd7f43dbe5f%2F6a43d1f7588d51ee0c68fd30%2Fxbox-series-x.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Katsuhiro Harada, the creator of the Tekken series and former Bandai Namco executive, criticized the Xbox Series S during a panel discussion regarding console game development. He argued that the console's architecture is frustrating because it is similar to the Xbox Series X but has significantly lower memory and performance, forcing developers to perform extra optimization work to ensure compatibility across both versions.</p><p>Harada also noted that developers often face consumer complaints regarding lower texture resolutions on the Series S, despite Microsoft's requirement that games be playable on both its consoles. CD Projekt Red's Pawel Sasko countered that the Series S's constraints encourage cleaner code optimization and expand the gaming market by offering a more affordable entry point.</p>
 <p>Nov 11 · <a href="https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released">gamedeveloper.com</a> | <a href="https://www.invenglobal.com/articles/28387/6-developers-behind-global-hits-share-console-game-development-insights">invenglobal.com</a></p>
-<br clear="all" />
-
-<h2>Game Sound Con 2026 Explores AI Integration and Audio Design Trends</h2>
-<a name="story-27192"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fgame-sound-con-malleant%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Game Sound Con celebrated its 18th annual event in Los Angeles, bringing together video game composers, sound designers, and industry professionals for two days of panels, workshops, and product demonstrations. Key sessions featured representatives from major developers like Valve and Insomniac Games, alongside prominent composers discussing the practical realities of crafting interactive audio for the gaming market.</p><p>Discussions at the conference heavily focused on the implications of artificial intelligence in audio production, with speakers addressing the differing impacts on recorded music versus complex game scoring. Additional panels highlighted evolving technical trends, including the push toward streamlined workflows, the integration of music and sound systems in middleware, and fan expectations when adapting classic game soundtracks for modern remakes.</p>
-<p>Nov 11 · <a href="https://musictech.com/news/events/games-sound-con-2026/">musictech.com</a> | <a href="https://www.gamesoundcon.com/">gamesoundcon.com</a></p>
 <br clear="all" />
 
 ---
