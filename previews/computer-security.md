@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Crissyfield Security Research Finds Sensitive Data Exposed in Lovable Apps</h2>
+<a name="story-27524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.crissyfield.de%2Fimages%2Fresearch-lovable-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Security researchers at Crissyfield analyzed nearly 160,000 projects built on the AI app development platform Lovable and discovered widespread data exposure. Focusing on integrations with the Supabase database service, the investigation found that thousands of applications allowed unauthenticated access to sensitive records, including personal information, chat messages, and internal documents.</p><p>Out of roughly 34,500 projects using Supabase, more than 24,000 loaded database records without requiring a login, and additional testing revealed email addresses and other confidential data in thousands of those applications. The exposed content included lifestyle forum profiles, ticket sales records, property management summaries, and identity document details. The findings highlight that while AI platforms simplify software creation, customers remain responsible for proper access control configuration and professional security reviews.</p>
+<p>Nov 14 · <a href="https://www.crissyfield.de/research/lovable-en/">crissyfield.de</a> | <a href="https://news.ycombinator.com/item?id=50499017">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft 365 Services Fully Restored Following Global Outage</h2>
 <a name="story-27481"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft announced that all Microsoft 365 products have returned to operational status, successfully concluding a major service disruption that affected businesses, governments, hospitals, and financial traders worldwide.</p><p>The widespread outage ranks among the longest disruptions in the platform's history, highlighting the deep reliance of global critical infrastructure on cloud-based productivity software.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Danbooru Details Security Incident and Week-Long Downtime Following Malicious Flash Upload</h2>
 <p>Danbooru experienced a week-long downtime following a security incident on November 4, when an attacker uploaded a malicious Flash post containing an XSS worm. The site was shut down within six minutes, limiting actual damage, though the worm harvested IP addresses and temporarily hijacked user accounts that viewed the infected posts.</p><p>The attacker exploited a pull request that accidentally re-enabled Flash file uploads and utilized large language models to identify vulnerabilities. During the outage, administrators patched the security gaps, performed server maintenance, and advised users to secure their accounts by changing passwords and enabling two-factor authentication.</p>
 <p>Nov 12 · <a href="https://danbooru.donmai.us/forum_topics/38685.html">danbooru.donmai.us</a> | <a href="https://lobste.rs/s/wfr0b4/about_downtime_security_incident">lobsters</a></p>
-<br clear="all" />
-
-<h2>Lyra Rebane Explains How Bug Tracker Error and AI Aggregators Created False Millionaire Claims</h2>
-<a name="story-27250"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvpncentral.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGoogle-Publishes-Chromium-Exploit-Code-1024x576-1-700x394.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Security researcher Lyra Rebane explains how an administrative error that mistakenly granted her edit access to a Google Buganizer issue allowed her to modify her own Chromium bug bounty reward to over $1.3 million as a joke on X.</p><p>Although she quickly clarified that the change was unauthorized and unpaid, automated AI-generated news aggregators and Google's AI Overview treated the satirical post as fact, illustrating vulnerabilities in modern information ecosystems.</p>
-<p>Nov 12 · <a href="https://lyra.horse/blog/2026/11/disinformation-machine/">lyra.horse</a> | <a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50460254">hacker news</a></p>
 <br clear="all" />
 
 ---

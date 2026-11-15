@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Trump Media Faces November Deadline to Repay Convertible Bonds Amid Share Price Decline</h2>
+<a name="story-27500"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffinbold.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cquality%3D85%2Fhttps%3A%2F%2Fassets.finbold.com%2Fuploads%2F2025%2F05%2FTrump-Media-announces-approx.-2.5-Billion-Bitcoin-Treasury-deal-1024x682.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Trump Media faces a November 30 deadline to repay up to $1 billion in convertible bonds previously issued to fund its corporate bitcoin treasury. The impending repayment obligation comes as the Truth Social owner's stock price has dropped by more than 60 percent over the year.</p><p>The convergence of falling share prices and depressed cryptocurrency valuations could force the company to liquidate treasury assets or secure high-cost new debt to meet the liability. This financial pressure highlights the operational risks associated with corporate cryptocurrency strategies during periods of adverse market conditions.</p>
+<p>Nov 14 · <a href="https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0">ft.com</a></p>
+<br clear="all" />
+
 <h2>Lugano Pursues Cryptocurrency Hub Strategy Through Tether Partnership and LVGA Token</h2>
 <a name="story-27491"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tronweekly.com%2Fwp-content%2Fuploads%2F2022%2F03%2FFM8H5AMWQAEsfur.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Swiss city of Lugano is seeking to reinvent itself as a digital asset hub through an initiative called Plan B, partnering with stablecoin issuer Tether to integrate cryptocurrencies into its local economy. The project introduces the city's own LVGA token alongside support for bitcoin and tether, allowing residents to use digital currencies for municipal services, taxes, and participating merchants.</p><p>Proponents argue that the partnership will attract tech companies, boost economic growth, and position the municipality at the forefront of financial innovation. However, critics and financial analysts have raised concerns regarding the volatility of digital assets, regulatory uncertainties, and the potential risks associated with integrating private stablecoins into municipal financial systems.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The exchange has used profits and emergency funds to replace all $6.3 billion in cryptoassets stolen during an October 29 cyberattack. The reimbursement covers both common and obscure tokens.</p><p>This action marks the conclusion of what is described as the largest cybertheft in history.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Nebius Shares Fall 16% on Increased Capex Forecast and Weak Revenue Outlook</h2>
-<p>Nebius shares fell 16% after the AI cloud provider reported third-quarter revenue of $980.8 million, exceeding analyst estimates but accompanied by weaker-than-expected guidance. The company reported a net loss of $37.5 million, or $0.13 per share, and significantly increased its full-year 2026 capital expenditure guidance to $27 billion, up from a previous range of $20 billion to $25 billion.</p><p>The company's 2027 outlook includes projected revenue of $12 billion to $13 billion and capital expenditures of $40 billion to $45 billion. The stock's decline follows recent rallies in competitor stocks like CoreWeave and IREN and occurred alongside the resignation of Nvidia CEO Jensen Huang.</p>
-<p>Nov 12 · <a href="https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results">nebius.com</a></p>
 <br clear="all" />
 
 ---
