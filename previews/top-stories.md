@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;Crissyfield Security Research Finds Sensitive Data Exposed in Lovable Apps</h2>
+<a name="story-27524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.crissyfield.de%2Fimages%2Fresearch-lovable-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Security researchers at Crissyfield analyzed nearly 160,000 projects built on the AI app development platform Lovable and discovered widespread data exposure. Focusing on integrations with the Supabase database service, the investigation found that thousands of applications allowed unauthenticated access to sensitive records, including personal information, chat messages, and internal documents.</p><p>Out of roughly 34,500 projects using Supabase, more than 24,000 loaded database records without requiring a login, and additional testing revealed email addresses and other confidential data in thousands of those applications. The exposed content included lifestyle forum profiles, ticket sales records, property management summaries, and identity document details. The findings highlight that while AI platforms simplify software creation, customers remain responsible for proper access control configuration and professional security reviews.</p>
+<p>Nov 15 · <a href="https://www.crissyfield.de/research/lovable-en/">crissyfield.de</a> | <a href="https://news.ycombinator.com/item?id=50499017">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Steinar H. Gunderson Solves the Ancient Norse Fox Board Game</h2>
 <p>Software engineer Steinar H. Gunderson has completely solved the ancient Norse asymmetric board game known as the Fox Game or halatafl, determining that sheep win with perfect play under standard rules. Using a compact bitboard representation, combinatorial number systems, and parallelized state propagation across 64 cores, Gunderson analyzed over two trillion possible board states over a 36-hour run.</p><p>The implementation required approximately 1,000 lines of code with no external dependencies, leveraging symmetry optimizations to manage memory and reduce the search space. Gunderson found that sheep maintain a forced win even when reduced to 19 or 18 pieces, while 11 sheep suffice against a single fox, conclusively settling a question left open by previous AI analyses.</p>
 <p>Nov 15 · <a href="https://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html">blog.sesse.net</a> | <a href="https://lobste.rs/s/q81fi4/solving_fox_game">lobsters</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fjensen-huang-headshot-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Some Nvidia employees are calling for the return of Jensen Huang following his abrupt resignation as CEO amid reports of multiple extramarital affairs. Internal correspondence reviewed by WIRED shows a suggestion box post with over 1,600 comments urging the board to bring back Huang and consider employee sentiment.</p><p>Huang resigned after acknowledging he was unfaithful to his wife, following disclosures of relationships with multiple individuals, including a direct report and another Nvidia employee. The leadership crisis has led the board to name CFO Colette Kress as interim CEO and appoint Harvey Jones as board chair, while drawing scrutiny from US lawmakers and the FBI.</p>
 <p>Nov 13 · <a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50477231">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;US Justice Department Obtains Authorization to Seize $1.2 Billion in Stolen Binance Assets</h2>
-<a name="story-27364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
