@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Former Nvidia CEO Jensen Huang Faced Accusations of Workplace Outbursts and Intimidation</h2>
+<a name="story-27529"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-ending-33-year-run-148472263.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Former Nvidia CEO Jensen Huang reportedly subjected company executives and employees to severe verbal abuse and intimidation during his tenure, according to internal sources. Accounts describe multiple instances of aggressive behavior, including public outbursts during executive meetings and clashes with top leadership.</p><p>The reports surrounding Huang's management style emerged following his resignation amid a scandal involving undisclosed relationships and export control scrutiny. Chief Financial Officer Colette Kress has stepped in as interim CEO while the board seeks a permanent successor.</p>
+<p>Nov 15 · <a href="https://nypost.com/2026/11/14/business/how-ex-nvidia-ceo-jensen-huang-threw-tantrums-in-the-office-dressed-down-tech-execs-i-hope-you-die/">nypost.com</a></p>
+<br clear="all" />
+
 <h2>Applied Digital Seeks Billion-Dollar Guarantees From Tenants Amid Power Grid Pressures</h2>
 <a name="story-27521"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQFDFSurEzBZUQ%2Ffeedshare-shrink_800%2FB4EZ08_k6DJcAc-%2F0%2F1774844792825%3Fe%3D2147483647%26v%3Dbeta%26t%3DByZgnVUqvN_lbl9IIKcFn6Ey1K4Ulhzi0a4crhWzq08&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Applied Digital has required major artificial intelligence tenants, including Oracle and Meta, to provide billions of dollars in financial guarantees to secure electrical power before finalizing lease agreements. The requirement highlights the escalating costs and capacity constraints facing technology companies as they race to expand energy-intensive data center infrastructure.</p><p>The financial demands underscore the growing tension between rapid AI expansion and the limitations of the existing electrical grid. As power procurement becomes increasingly complex and capital-intensive, developers are shifting financial risks onto corporate tenants to ensure guaranteed access to electricity.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia's board of directors has approached Arm chief executive Rene Haas as part of its search for a potential successor to Jensen Huang. People familiar with the matter indicate that the head of the SoftBank-owned UK semiconductor group was sounded out regarding the leadership role.</p><p>Haas previously worked at Nvidia for more than a decade before moving to Arm, where he has successfully steered the company through its public listing and subsequent expansion. The inquiry highlights long-term succession planning considerations at the world's leading artificial intelligence chipmaker.</p>
 <p>Nov 13 · <a href="https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50486489">hacker news</a></p>
-<br clear="all" />
-
-<h2>SpaceX Lays Off Most of Grok Imagine Video Generation Team</h2>
-<a name="story-27418"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.theweek.in%2Fcontent%2Fdam%2Fweek%2Fweek%2Fnews%2Fsci-tech%2Fimages%2F2025%2F7%2F11%2Ftwitter-x-ai-grok-rtrs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SpaceX has laid off approximately 60 employees from its Grok Imagine team, leaving only a small crew to maintain the AI-powered image and video generation product. The workforce reduction highlights a strategic shift toward prioritizing AI coding tools and the Grok Bot assistant.</p><p>The cuts target the specialized group responsible for building generative media capabilities within Elon Musk's artificial intelligence initiatives. Despite the major downsizing, the remaining personnel are tasked with keeping the existing Grok Imagine service operational.</p>
-<p>Nov 13 · <a href="https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team">theinformation.com</a></p>
 <br clear="all" />
 
 ---
