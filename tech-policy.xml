@@ -3,9 +3,17 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-14T21:43:00+00:00</updated>
+  <updated>2026-11-15T13:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Electronic Frontier Foundation and ACLU Ask Appeals Court to Require Warrant for ALPR Searches</title>
+    <link href="https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches" rel="alternate" />
+    <id>https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches::v240</id>
+    <published>2026-11-15T13:10:00+00:00</published>
+    <updated>2026-11-15T13:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches">eff.org</a> | <a href="https://news.ycombinator.com/item?id=50503255">hacker news</a></small></p><hr/><p>The Electronic Frontier Foundation and the ACLU have filed an amicus brief in the Sixth Circuit Court of Appeals in United States v. Sturdivant, arguing that law enforcement searches of automated license plate reader (ALPR) databases constitute a "search" under the Fourth Amendment. The brief contends that mass ALPR tracking gives police a virtual time machine into individuals' past movements and should require a warrant.</p><p>The case stems from a series of robberies in Ohio where police identified a suspect's vehicle by running open-ended searches in Flock and ELSAG ALPR databases without a warrant. A lower court previously ruled that the defendant had no reasonable expectation of privacy regarding his license plate number in public, a finding that civil liberties groups are urging the appeals court to overturn.</p><hr/><small>15 Nov 2026, 21:00 UTC | #27564</small>]]></content>
+  </entry>
   <entry>
     <title>Sean Duffy Attributes FAA Outage to Contractor L3Harris After Nationwide Ground Stop</title>
     <link href="https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?st=zB6eBf" rel="alternate" />
