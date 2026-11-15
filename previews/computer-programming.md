@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Daniel Holmgren Details Design and Motivation Behind Atproto Spaces</h2>
+<a name="story-27538"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdholms.leaflet.pub%2Fapi%2Fatproto_images%3Fdid%3Ddid%3Aplc%3Ayk4dd2qkboz2yv6tpubpc6co%26cid%3Dbafkreicqz45nqgtbmmdfdt3eohalynxcfcyr4wyuvol43s6j22m3iu2rc4%26width%3D1200%26v%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Daniel Holmgren explores the architectural motivation and design goals behind Atproto Spaces, a new primitive for the AT Protocol aimed at supporting non-public, multi-user social contexts such as large forums. Spaces organize and permission data through an abstraction of locality, establishing a shared common reality where each record belongs to a single space owned by a specific entity and tied to a particular modality.</p><p>Contrasted with record-level access control lists and "circles," spaces function as lightweight "mini atprotos" that simplify synchronization, moderation, and OAuth consent legibility within a multi-app network. Holmgren argues that grouping content into shared social contexts avoids the cognitive overhead and unintended side effects associated with cross-referencing multiple overlapping permission lists.</p>
+<p>Nov 15 · <a href="https://dholms.leaflet.pub/3mu3p3ldwrc26">dholms.leaflet.pub</a> | <a href="https://lobste.rs/s/dwd6xu/reintroducing_spaces">lobsters</a></p>
+<br clear="all" />
+
 <h2>Parsing Nested Lists in BQN</h2>
 <a name="story-27536"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.comp.nus.edu.sg%2F~nityalak%2FCS1010S%2Fimg%2FMultiDimensional%2Fnested%2FCount02.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The article explores three different approaches to parsing nested lists in BQN using data from Advent of Code 2022 day 13. It examines a high-level solution using the system evaluation function, a conventional recursive descent parser, and an array-style parser.</p><p>The piece evaluates the performance and implementation details of each method through benchmarking. While the evaluation function approach proves slow and error-prone, the recursive descent and array-style techniques demonstrate how traditional algorithms and array manipulation primitives can be effectively implemented in BQN.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.joshka.net%2Fcell-borders%2Fbox-drawing-block.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ratatui maintainer Joshka has developed a new terminal protocol that draws thin border lines directly on cell edges as cell attributes rather than using traditional Unicode box-drawing characters. This approach prevents borders from consuming entire rows and columns, enabling cleaner user interfaces with space-efficient panels, tabs, and widgets.</p><p>The protocol is implemented via a patch for the Ghostty terminal emulator and demoed through Ratatui applications, supporting features like multiple line styles, rounded corners with anti-aliasing, and automated edge-conflict resolution. Joshka is currently seeking feedback from terminal and text user interface authors to refine the draft specification.</p>
 <p>Nov 13 · <a href="https://www.joshka.net/cell-borders/">joshka.net</a> | <a href="https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491423">hacker news</a></p>
-<br clear="all" />
-
-<h2>The Need for Mobile OS Alternatives to Android and iOS</h2>
-<a name="story-27461"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunity.zextras.com%2Fwp-content%2Fuploads%2F2024%2F04%2FDigital_Sovereignty_2024-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Increasingly restrictive controls within the Android and iOS ecosystems are reducing user agency and complicating the installation of independent software. While de-googled ROMs provide some relief, trends toward centralized permissions and restricted sideloading threaten long-term digital sovereignty on mobile devices.</p><p>A viable alternative requires an open-source core, support for multiple app stores, and a focus on interoperability rather than merely copying existing ecosystems. Currently, community-driven projects such as SailfishOS, Nura, and Ubuntu Touch are the most prominent candidates for establishing a functional third ecosystem.</p>
-<p>Nov 13 · <a href="https://blog.ovalerio.net/archives/3359">blog.ovalerio.net</a> | <a href="https://lobste.rs/s/9oq6fr/need_for_at_least_third_option">lobsters</a></p>
 <br clear="all" />
 
 ---

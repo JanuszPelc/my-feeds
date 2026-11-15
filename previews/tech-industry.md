@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Applied Digital Seeks Billion-Dollar Guarantees From Tenants Amid Power Grid Pressures</h2>
+<a name="story-27521"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQFDFSurEzBZUQ%2Ffeedshare-shrink_800%2FB4EZ08_k6DJcAc-%2F0%2F1774844792825%3Fe%3D2147483647%26v%3Dbeta%26t%3DByZgnVUqvN_lbl9IIKcFn6Ey1K4Ulhzi0a4crhWzq08&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Applied Digital has required major artificial intelligence tenants, including Oracle and Meta, to provide billions of dollars in financial guarantees to secure electrical power before finalizing lease agreements. The requirement highlights the escalating costs and capacity constraints facing technology companies as they race to expand energy-intensive data center infrastructure.</p><p>The financial demands underscore the growing tension between rapid AI expansion and the limitations of the existing electrical grid. As power procurement becomes increasingly complex and capital-intensive, developers are shifting financial risks onto corporate tenants to ensure guaranteed access to electricity.</p>
+<p>Nov 15 · <a href="https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Board Urged by Major Investors to Consider Jensen Huang Return</h2>
 <a name="story-27511"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.barchart.com%2Fcontributors-admin%2Fcommon-images%2Fimages%2FFamous%2BPeople%2FA%2Bphoto%2Bof%2BCEO%2BJensen%2BHuang%2Bin%2Bfront%2Bof%2Bthe%2BNvidia%2Blogo%2Bby%2BFotoField%2Bvia%2BShutterstock.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Major Nvidia shareholders Altimeter Capital and Atreides Management have urged the company's board of directors to weigh all leadership options, including the potential return of former CEO Jensen Huang. Huang resigned following recent allegations and federal investigations into restricted chip shipments, leaving interim CEO Colette Kress to lead operations.</p><p>The investors' letter argues that Huang has earned a measured transition process rather than a rushed replacement, while separate public petitions have also called for his reinstatement. Meanwhile, regulatory scrutiny persists as lawmakers seek testimony regarding export controls and chip distribution channels.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27418"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.theweek.in%2Fcontent%2Fdam%2Fweek%2Fweek%2Fnews%2Fsci-tech%2Fimages%2F2025%2F7%2F11%2Ftwitter-x-ai-grok-rtrs.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SpaceX has laid off approximately 60 employees from its Grok Imagine team, leaving only a small crew to maintain the AI-powered image and video generation product. The workforce reduction highlights a strategic shift toward prioritizing AI coding tools and the Grok Bot assistant.</p><p>The cuts target the specialized group responsible for building generative media capabilities within Elon Musk's artificial intelligence initiatives. Despite the major downsizing, the remaining personnel are tasked with keeping the existing Grok Imagine service operational.</p>
 <p>Nov 13 · <a href="https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Nscale Reports $5.5 Billion in Debt and Expanded Nvidia Backing in Amended S-1 Filing</h2>
-<a name="story-27414"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQHRRlybbFFVnA%2Ffeedshare-shrink_1280%2FB4DZmUoIRoJgAw-%2F0%2F1759135173495%3Fe%3D2147483647%26v%3Dbeta%26t%3DxAKhoilH80X28BrHvY_o5U_VABWSN801iZSFMFrlL4w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cloud infrastructure provider Nscale reported $5.5 billion in debt as of September, up significantly from $137.4 million in June, according to an amended Form S-1 filing with US regulators. The updated prospectus also revealed that Nvidia has committed $2 billion toward a convertible financing round exceeding $3 billion, expanding upon a previously disclosed $1 billion commitment.</p><p>The disclosures come as the British artificial intelligence cloud company prepares for its initial public offering, having previously filed to target a valuation of up to $35 billion. While backed by substantial contract commitments and major industry partnerships, Nscale has acknowledged needing additional cash to meet its obligations amid widening net losses and rising infrastructure costs.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

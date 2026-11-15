@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Jordi Highlights 25 Favorite Modern NES Games</h2>
+<a name="story-27537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjordi.inversethought.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fimage-14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Enthusiast blogger Jordi has compiled a curated list of twenty-five modern titles released for the Nintendo Entertainment System. The selection spans diverse genres including horror platformers, Metroidvanias, arcade firefighting games, and shoot-'em-ups, illustrating the ongoing vitality of third-party development for the 8-bit console.</p><p>Nearly all of the featured games are accessible digitally and as physical cartridges designed to run on original hardware, with several projects leveraging advanced community knowledge and tools like Famitracker. The overview underscores how decades of accumulated technical research continue to inspire independent creators to produce new software for vintage systems.</p>
+<p>Nov 15 · <a href="https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/">jordi.inversethought.com</a> | <a href="https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50503465">hacker news</a></p>
+<br clear="all" />
+
 <h2>Steinar H. Gunderson Solves the Ancient Norse Fox Board Game</h2>
 <p>Software engineer Steinar H. Gunderson has completely solved the ancient Norse asymmetric board game known as the Fox Game or halatafl, determining that sheep win with perfect play under standard rules. Using a compact bitboard representation, combinatorial number systems, and parallelized state propagation across 64 cores, Gunderson analyzed over two trillion possible board states over a 36-hour run.</p><p>The implementation required approximately 1,000 lines of code with no external dependencies, leveraging symmetry optimizations to manage memory and reduce the search space. Gunderson found that sheep maintain a forced win even when reduced to 19 or 18 pieces, while 11 sheep suffice against a single fox, conclusively settling a question left open by previous AI analyses.</p>
 <p>Nov 14 · <a href="https://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html">blog.sesse.net</a> | <a href="https://lobste.rs/s/q81fi4/solving_fox_game">lobsters</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27224"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F10%2Froku-smart-home-app.jpg%3Fq%3D50%26fit%3Dcrop%26w%3D825%26dpr%3D1.5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Streaming device manufacturer Roku is discontinuing its smart home hardware line, winding down sales while maintaining ongoing support and services for existing devices. A company spokesperson confirmed the shift as part of a renewed focus on its core streaming platform.</p><p>The decision follows months of declining inventory on the company's website and coincides with the closing of Fox's acquisition of Roku. Remaining items, such as indoor cameras and video doorbells, have been marked down as special offers or routed through surplus asset liquidators.</p>
 <p>Nov 12 · <a href="https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business">lowpass.cc</a></p>
-<br clear="all" />
-
-<h2>PlayStation 5 Reaches 100 Million Units Shipped</h2>
-<a name="story-27200"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte4c604a2b857d10c%2F69c67f33e4404f7a8b748017%2FPS5_Header.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>As of November 10, 2026, PlayStation 5 shipments have exceeded 100 million units, according to Sony Interactive Entertainment's official sales data.</p><p>This achievement places the console among the highest-selling home systems, joining the original PlayStation, PlayStation 2, and PlayStation 4, as well as the Nintendo Wii and Nintendo Switch.</p>
-<p>Nov 11 · <a href="https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles">gamedeveloper.com</a> | <a href="https://sonyinteractive.com/en/our-company/business-data-sales/">sonyinteractive.com</a></p>
 <br clear="all" />
 
 ---

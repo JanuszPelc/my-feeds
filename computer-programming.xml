@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-15T03:43:00+00:00</updated>
+  <updated>2026-11-15T03:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Daniel Holmgren Details Design and Motivation Behind Atproto Spaces</title>
+    <link href="https://dholms.leaflet.pub/3mu3p3ldwrc26" rel="alternate" />
+    <id>https://dholms.leaflet.pub/3mu3p3ldwrc26::v240</id>
+    <published>2026-11-15T03:48:00+00:00</published>
+    <updated>2026-11-15T03:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdholms.leaflet.pub%2Fapi%2Fatproto_images%3Fdid%3Ddid%3Aplc%3Ayk4dd2qkboz2yv6tpubpc6co%26cid%3Dbafkreicqz45nqgtbmmdfdt3eohalynxcfcyr4wyuvol43s6j22m3iu2rc4%26width%3D1200%26v%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dholms.leaflet.pub/3mu3p3ldwrc26">dholms.leaflet.pub</a> | <a href="https://lobste.rs/s/dwd6xu/reintroducing_spaces">lobsters</a></small></p><hr/><p>Developer Daniel Holmgren explores the architectural motivation and design goals behind Atproto Spaces, a new primitive for the AT Protocol aimed at supporting non-public, multi-user social contexts such as large forums. Spaces organize and permission data through an abstraction of locality, establishing a shared common reality where each record belongs to a single space owned by a specific entity and tied to a particular modality.</p><p>Contrasted with record-level access control lists and "circles," spaces function as lightweight "mini atprotos" that simplify synchronization, moderation, and OAuth consent legibility within a multi-app network. Holmgren argues that grouping content into shared social contexts avoids the cognitive overhead and unintended side effects associated with cross-referencing multiple overlapping permission lists.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdholms.leaflet.pub%2Fapi%2Fatproto_images%3Fdid%3Ddid%3Aplc%3Ayk4dd2qkboz2yv6tpubpc6co%26cid%3Dbafkreicqz45nqgtbmmdfdt3eohalynxcfcyr4wyuvol43s6j22m3iu2rc4%26width%3D1200%26v%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 10:18 UTC | #27538</small>]]></content>
+  </entry>
   <entry>
     <title>Parsing Nested Lists in BQN</title>
     <link href="https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html" rel="alternate" />
