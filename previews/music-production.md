@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>RiverFlux Audio Releases RF-BUS Free Bus Compressor Plugin</h2>
+<a name="story-27554"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVXTM_CBlRuo%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>RiverFlux Audio has released the RF-BUS free stereo bus compressor as part of the Relic 0.4.7 update for macOS, Windows, and Linux. The plugin features selectable compression ratios, adjustable attack and release times with an auto mode, a sidechain high-pass filter, external sidechain routing, a dry/wet mix knob with a lock feature, and up to 8x oversampling.</p><p>The Relic bundle now includes seventeen processors distributed across compressors, EQs, tape machines, a channel strip, and reverbs available on a pay-what-you-want basis. The 0.4.7 version also introduces dedicated offline-render oversampling settings, undo and redo support, exact value entry, and linear-phase filtering options while reducing overall CPU usage.</p>
+<p>Nov 15 · <a href="https://bedroomproducersblog.com/2026/11/15/riverflux-audio-rf-bus-free/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/Relic">riverfluxaudio.gumroad.com</a></p>
+<br clear="all" />
+
 <h2>Xfer Records Releases Shrub Free Wavetable Synthesizer Plugin</h2>
 <a name="story-27556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fserumwteditor.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Xfer Records has released Shrub, a free beta wavetable synthesizer for macOS, Windows, and Linux that adapts its engine from the company's popular Serum plugin. Originally developed as alternative firmware for the M-VAVE FM-1 hardware synth, Shrub functions as a VST3 plugin within digital audio workstations and can also be played directly in a web browser.</p><p>The instrument features two wavetable oscillators, a sub oscillator, noise generation, multiple modulation sources, and an effects rack that includes an OTT compressor mode. Designed primarily as an editor and librarian, Shrub handles up to four-note polyphony with shared filter routing, supports importing Serum 1 presets, and runs the hardware's native code to maintain consistent sound quality.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27395"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOZmnHaUgdDE%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DZTL8 has released Merg, a free stereo-to-mono utility plugin for macOS and Windows designed to help producers convert stereo tracks to mono directly within their digital audio workstations. The plugin features a Source Blend control that allows users to adjust the exact contribution of the left and right channels to the resulting mono mix.</p><p>Additional features include polarity-reversal options, a sub-millisecond Time Align tool for correcting timing discrepancies between channels, and a mono-compatibility indicator to monitor signal loss. Merg is available in AU and VST3 formats and requires an email address for download on the developer's website.</p>
 <p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/dztl8-merg/">bedroomproducersblog.com</a> | <a href="https://dztl8.com/merg/">dztl8.com</a></p>
-<br clear="all" />
-
-<h2>Sonic Academy JU-60 Chorus Plugin Available Free for Black Friday</h2>
-<a name="story-27396"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5Mlg8EU8M-s%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sonic Academy is offering its JU-60 chorus plugin as a free download for Black Friday. The software, which normally retails for £19.95, emulates the analog chorus section of the Roland Juno-60 synthesizer.</p><p>To obtain the plugin without charge, users must register for an email newsletter on the Sonic Academy promotional page to receive a discount code. The plugin is available in VST3, AU, and AAX formats for macOS and Windows systems.</p>
-<p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/sonic-academy-ju-60-free-2026/">bedroomproducersblog.com</a> | <a href="https://www.sonicacademy.com/event/ju60-free">sonicacademy.com</a></p>
 <br clear="all" />
 
 ---
