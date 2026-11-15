@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-15T08:45:00+00:00</updated>
+  <updated>2026-11-15T13:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Chinese AI Models Show Fingerprints of NVIDIA Blackwell GPUs</title>
+    <link href="https://unemploymentlabs.com/checkpoint-forensics" rel="alternate" />
+    <id>https://unemploymentlabs.com/checkpoint-forensics::v240</id>
+    <published>2026-11-15T13:45:00+00:00</published>
+    <updated>2026-11-15T13:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Funemploymentlabs.com%2Fcheckpoint-forensics%2Fimg%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://unemploymentlabs.com/checkpoint-forensics">unemploymentlabs.com</a> | <a href="https://news.ycombinator.com/item?id=50474883">hacker news</a></small></p><hr/><p>Forensic analysis of publicly released AI models from DeepSeek, Moonshot AI, MiniMax, and Ant Group reveals numerical fingerprints matching NVIDIA’s export-controlled Blackwell GPUs. Six models released since April 2026 exhibit patterns specific to Blackwell-class hardware, such as the B200, B300, GB200, and GB300, whereas earlier models from these developers match the older Hopper generation.</p><p>The research identifies these patterns by analyzing the arrangement of initial weights generated via the Philox pseudorandom number generator in the PyTorch framework. This method detects the specific thread counts and streaming multiprocessor (SM) layouts used during model initialization. While providing technical evidence of hardware use, the analysis does not establish the physical location of the chips or how they were obtained.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Funemploymentlabs.com%2Fcheckpoint-forensics%2Fimg%2Ffig1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 05:45 UTC | #27352 | r,hdt</small>]]></content>
+  </entry>
   <entry>
     <title>Italy Fines Meta €805 Million Over Android User Data Access</title>
     <link href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/" rel="alternate" />
