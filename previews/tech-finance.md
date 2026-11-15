@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>USD-Pegged Stablecoins Expand Across Latin America for Savings and Payments</h2>
+<a name="story-27513"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxrex.io%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FXREX25-SG-blog-%E8%A1%A8%E6%A0%BC-01-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>USD-pegged stablecoins are capturing an increasing share of cryptocurrency activity in Latin America, functioning both as a reliable store of value and an efficient mechanism for cross-border payments. These digital assets are utilized by individuals in countries like Argentina and Venezuela to protect savings against inflation, as well as by businesses in Mexico and Brazil for international transactions.</p><p>The adoption of stablecoins has accelerated even among users without prior blockchain knowledge, driven by local currency volatility and the demand for accessible digital dollars. This trend highlights the practical utility of cryptocurrency infrastructure in emerging markets beyond speculative trading.</p>
+<p>Nov 15 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/stablecoins-are-becoming-crypto-s-killer-app-across-latin-america?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU4NDc3NywiZXhwIjoxNzk1MTg5NTc3LCJhcnRpY2xlSWQiOiJUT0ZKSVFSS1YyVFcwMCIsImJjb25uZWN0SWQiOiIyN0Y1RjQ0NUUwQ0M0Q0I3OTVDMDlGMzEzMzVCN0NBNSJ9.kuYIJ968CiOxK5J82iSNK9K1CVZAvx3bDakA0KzVR30">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Databento Raises $100m in Series C Funding at $1.1bn Valuation</h2>
 <p>Market data platform Databento has closed a $100m Series C funding round led by Fifth Down Capital, valuing the company at $1.1bn. The financing follows a $97m Series B earlier in the year and includes participation from existing backers such as NEA, DRW Venture Capital, Tribe Capital, and Hedosophia, alongside strategic investor Fitch Ventures.</p><p>Since its Series B, Databento has doubled its revenue while maintaining profitability with a compact team of 39 employees. The company provides live and historical financial data across futures, options, equities, and indices via a single API, serving quantitative trading houses, asset managers, and major artificial intelligence labs. The newly secured capital will be used to advance its infrastructure and expand asset class coverage.</p>
 <p>Nov 14 · <a href="https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/">fintech.global</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27343"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhermes.media.static.aol.com%2Fmedia%2F2026%2F11%2F04%2Fdf6d1bc2-1ae4-3b59-83ab-c1c9d38954f3%2F54dd109e-a2ba-4e8d-9ac9-72b24c56288c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SpaceX and Tesla Inc. are advancing negotiations for a corporate combination, which could lead to an announcement as early as December or in early 2027. Boards and advisers are currently working through the terms and governance structure.</p><p>Special committees of independent directors have been formed to facilitate the discussions. Significant hurdles to the deal include securing regulatory approvals and managing the intersection of Tesla's operations in China and SpaceX's U.S. defense ties.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Kalshi Terminates Advisory Contract With Donald Trump Jr.</h2>
-<a name="story-27333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bonus.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fdonald-trump-jr-kalshi-partnership.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The prediction markets startup Kalshi has terminated its advisory agreement with Donald Trump Jr. The decision follows an increased stake in rival platform Polymarket by Trump's venture capital firm, 1789 Capital.</p><p>Trump Jr. had served as a strategic advisor to Kalshi since January 2025. The move addresses the conflict of interest created by his firm's investment in a direct competitor.</p>
-<p>Nov 12 · <a href="https://www.reuters.com/business/finance/kalshi-ends-donald-trump-jrs-advisory-contract-due-polymarket-conflict-2026-11-12/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50474358">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-14T21:45:00+00:00</updated>
+  <updated>2026-11-15T00:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>USD-Pegged Stablecoins Expand Across Latin America for Savings and Payments</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-13/stablecoins-are-becoming-crypto-s-killer-app-across-latin-america?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU4NDc3NywiZXhwIjoxNzk1MTg5NTc3LCJhcnRpY2xlSWQiOiJUT0ZKSVFSS1YyVFcwMCIsImJjb25uZWN0SWQiOiIyN0Y1RjQ0NUUwQ0M0Q0I3OTVDMDlGMzEzMzVCN0NBNSJ9.kuYIJ968CiOxK5J82iSNK9K1CVZAvx3bDakA0KzVR30" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-13/stablecoins-are-becoming-crypto-s-killer-app-across-latin-america?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU4NDc3NywiZXhwIjoxNzk1MTg5NTc3LCJhcnRpY2xlSWQiOiJUT0ZKSVFSS1YyVFcwMCIsImJjb25uZWN0SWQiOiIyN0Y1RjQ0NUUwQ0M0Q0I3OTVDMDlGMzEzMzVCN0NBNSJ9.kuYIJ968CiOxK5J82iSNK9K1CVZAvx3bDakA0KzVR30::v240</id>
+    <published>2026-11-15T00:11:00+00:00</published>
+    <updated>2026-11-15T00:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fxrex.io%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FXREX25-SG-blog-%E8%A1%A8%E6%A0%BC-01-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-13/stablecoins-are-becoming-crypto-s-killer-app-across-latin-america?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU4NDc3NywiZXhwIjoxNzk1MTg5NTc3LCJhcnRpY2xlSWQiOiJUT0ZKSVFSS1YyVFcwMCIsImJjb25uZWN0SWQiOiIyN0Y1RjQ0NUUwQ0M0Q0I3OTVDMDlGMzEzMzVCN0NBNSJ9.kuYIJ968CiOxK5J82iSNK9K1CVZAvx3bDakA0KzVR30">bloomberg.com</a></small></p><hr/><p>USD-pegged stablecoins are capturing an increasing share of cryptocurrency activity in Latin America, functioning both as a reliable store of value and an efficient mechanism for cross-border payments. These digital assets are utilized by individuals in countries like Argentina and Venezuela to protect savings against inflation, as well as by businesses in Mexico and Brazil for international transactions.</p><p>The adoption of stablecoins has accelerated even among users without prior blockchain knowledge, driven by local currency volatility and the demand for accessible digital dollars. This trend highlights the practical utility of cryptocurrency infrastructure in emerging markets beyond speculative trading.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fxrex.io%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FXREX25-SG-blog-%E8%A1%A8%E6%A0%BC-01-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 06:48 UTC | #27513</small>]]></content>
+  </entry>
   <entry>
     <title>Databento Raises $100m in Series C Funding at $1.1bn Valuation</title>
     <link href="https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/" rel="alternate" />
