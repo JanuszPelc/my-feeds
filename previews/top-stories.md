@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Steinar H. Gunderson Solves the Ancient Norse Fox Board Game</h2>
+<p>Software engineer Steinar H. Gunderson has completely solved the ancient Norse asymmetric board game known as the Fox Game or halatafl, determining that sheep win with perfect play under standard rules. Using a compact bitboard representation, combinatorial number systems, and parallelized state propagation across 64 cores, Gunderson analyzed over two trillion possible board states over a 36-hour run.</p><p>The implementation required approximately 1,000 lines of code with no external dependencies, leveraging symmetry optimizations to manage memory and reduce the search space. Gunderson found that sheep maintain a forced win even when reduced to 19 or 18 pieces, while 11 sheep suffice against a single fox, conclusively settling a question left open by previous AI analyses.</p>
+<p>Nov 15 · <a href="https://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html">blog.sesse.net</a> | <a href="https://lobste.rs/s/q81fi4/solving_fox_game">lobsters</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;WSJ Report Alleges Nvidia Engineered GPU Scarcity by Funding AI Startups</h2>
 <a name="story-27496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A report from The Wall Street Journal alleges that Nvidia artificially inflated the shortage of GPUs and memory by investing in AI startups that subsequently purchased Nvidia hardware to build data centers. The strategy was reportedly intended to maintain high demand perceptions and absorb an oversupply of semiconductors manufactured by TSMC.</p><p>The report highlights internal friction between former Nvidia CEO Jensen Huang and CFO Colette Kress over circular financing agreements and commitments to small-scale cloud providers. These investments faced challenges as hyperscalers increasingly shifted toward custom silicon solutions and smaller startups struggled to afford the hardware.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p>
 <p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;Binance Completes Reimbursement of $6.3 Billion in Stolen Customer Tokens</h2>
-<a name="story-27325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The exchange has used profits and emergency funds to replace all $6.3 billion in cryptoassets stolen during an October 29 cyberattack. The reimbursement covers both common and obscure tokens.</p><p>This action marks the conclusion of what is described as the largest cybertheft in history.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
