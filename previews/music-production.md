@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sonic Intelligence Academy Hosts Inaugural AI Music Awards in Los Angeles</h2>
+<a name="story-27541"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fp7rgfdtxpa6h%2F40U9ATVGaOvsSd8sQVnV5v%2F862209f41bd60a63a54014f7bcf18a58%2FDALL_E_2023-10-20_09.39.56_-_Photo_of_an_opulent_AI_music_award_stage__set_against_a_backdrop_of_a_vast_city._Nominees_and_w.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Sonic Intelligence Academy held its inaugural AI Music Awards at the Mayan Theater in Downtown Los Angeles, aiming to establish legitimacy and infrastructure for artificial intelligence-backed music creators. Artists competed across 25 categories, with AI persona Xania Monet winning multiple top honors including artist and song of the year.</p><p>Founded earlier in the year by Timirah “TJ” James and Mia James, the academy created the awards program and dedicated AI music charts to counter the mainstream music industry’s resistance and ongoing copyright lawsuits against generative tools. Despite various logistical challenges and technical hiccups during the live ceremony, the event highlighted independent creators utilizing AI to bypass traditional studio constraints.</p>
+<p>Nov 15 · <a href="https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/">variety.com</a></p>
+<br clear="all" />
+
 <h2>Qtractor v1.7.0 and Vee One Suite v1.5.2 Released for Linux</h2>
 <a name="story-27510"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor-small.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer rncbc.org has released Qtractor version 1.7.0 and Vee One Suite version 1.5.2 for GNU/Linux operating systems. Qtractor introduces a brand-new, basic audio clip editor featuring built-in audio tools such as gain, panning, normalization, time-stretching, pitch-shifting, and reverse, alongside improvements like unlinking clips and VST3 parameter normalization.</p><p>The update to the Vee One Suite of vintage-style software instruments resolves a crash that occurred during plug-in instance cleanup due to a race condition with the shared worker or schedule thread. Both applications remain free, open-source software distributed under the GNU General Public License version 2 or later.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27398"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-114323.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Kael Barba has released CosmicSynth v0.1.0, a free and open-source VST3 synthesizer for Windows designed to translate gravitational-wave physics into audio. The instrument allows users to upload waveform data—such as signals from colliding black holes recorded by LIGO—to dynamically modulate pitch and filter parameters.</p><p>The software includes five built-in presets representing different astrophysical phenomena, alongside a real-time gravitational-wave visualizer and a live spectrogram that tracks waveform and sound changes. As Barba's first public release, the project bridges astrophysics and sound design while encouraging community feedback for future development.</p>
 <p>Nov 13 · <a href="https://www.kvraudio.com/news/cosmicsynth-releases-cosmicsynth---free-vst3-synthesizer-that-turns-gravitational-wave-physics-into-music-69786?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69786">kvraudio.com</a> | <a href="https://github.com/barkael327-a11y/cosmicsynth">github.com</a></p>
-<br clear="all" />
-
-<h2>SampleScience Releases Hush Piano Virtual Instrument</h2>
-<a name="story-27397"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsamplescience_hush_piano_overlay_website_hero_image.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SampleScience has released Hush Piano, a felt piano sample library tailored for lo-fi, cinematic, ambient, and boom bap music production. The lightweight acoustic piano instrument is offered in multiple plugin and sampler formats, including VST, VST3, AU, Kontakt, Decent Sampler, Soundbox, and SFZ.</p><p>The virtual instrument is designed to deliver an intimate, warm, and nostalgic tone suitable for various DAW workflows. It is priced at $30 USD and is compatible with both Windows and macOS operating systems.</p>
-<p>Nov 13 · <a href="https://www.kvraudio.com/news/samplescience-releases-hush-piano-69784?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69784">kvraudio.com</a> | <a href="https://www.samplescience.info/2026/11/hush-piano.html">samplescience.info</a></p>
 <br clear="all" />
 
 ---
