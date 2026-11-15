@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-14T20:29:00+00:00</updated>
+  <updated>2026-11-15T00:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Board Urged by Major Investors to Consider Jensen Huang Return</title>
+    <link href="https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html::v240</id>
+    <published>2026-11-15T00:10:00+00:00</published>
+    <updated>2026-11-15T00:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.barchart.com%2Fcontributors-admin%2Fcommon-images%2Fimages%2FFamous%2BPeople%2FA%2Bphoto%2Bof%2BCEO%2BJensen%2BHuang%2Bin%2Bfront%2Bof%2Bthe%2BNvidia%2Blogo%2Bby%2BFotoField%2Bvia%2BShutterstock.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html">cnbc.com</a> | <a href="https://news.ycombinator.com/item?id=50499553">hacker news</a></small></p><hr/><p>Major Nvidia shareholders Altimeter Capital and Atreides Management have urged the company's board of directors to weigh all leadership options, including the potential return of former CEO Jensen Huang. Huang resigned following recent allegations and federal investigations into restricted chip shipments, leaving interim CEO Colette Kress to lead operations.</p><p>The investors' letter argues that Huang has earned a measured transition process rather than a rushed replacement, while separate public petitions have also called for his reinstatement. Meanwhile, regulatory scrutiny persists as lawmakers seek testimony regarding export controls and chip distribution channels.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.barchart.com%2Fcontributors-admin%2Fcommon-images%2Fimages%2FFamous%2BPeople%2FA%2Bphoto%2Bof%2BCEO%2BJensen%2BHuang%2Bin%2Bfront%2Bof%2Bthe%2BNvidia%2Blogo%2Bby%2BFotoField%2Bvia%2BShutterstock.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 06:01 UTC | #27511</small>]]></content>
+  </entry>
   <entry>
     <title>Italy Fines Meta €805 Million Over Android User Data Access</title>
     <link href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/" rel="alternate" />
