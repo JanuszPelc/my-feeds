@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Xfer Records Releases Shrub Free Wavetable Synthesizer Plugin</h2>
+<a name="story-27556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fserumwteditor.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Xfer Records has released Shrub, a free beta wavetable synthesizer for macOS, Windows, and Linux that adapts its engine from the company's popular Serum plugin. Originally developed as alternative firmware for the M-VAVE FM-1 hardware synth, Shrub functions as a VST3 plugin within digital audio workstations and can also be played directly in a web browser.</p><p>The instrument features two wavetable oscillators, a sub oscillator, noise generation, multiple modulation sources, and an effects rack that includes an OTT compressor mode. Designed primarily as an editor and librarian, Shrub handles up to four-note polyphony with shared filter routing, supports importing Serum 1 presets, and runs the hardware's native code to maintain consistent sound quality.</p>
+<p>Nov 15 · <a href="https://bedroomproducersblog.com/2026/11/15/xfer-records-shrub/">bedroomproducersblog.com</a> | <a href="https://shrub.audio/">shrub.audio</a></p>
+<br clear="all" />
+
 <h2>Sonic Intelligence Academy Hosts Inaugural AI Music Awards in Los Angeles</h2>
 <a name="story-27541"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fp7rgfdtxpa6h%2F40U9ATVGaOvsSd8sQVnV5v%2F862209f41bd60a63a54014f7bcf18a58%2FDALL_E_2023-10-20_09.39.56_-_Photo_of_an_opulent_AI_music_award_stage__set_against_a_backdrop_of_a_vast_city._Nominees_and_w.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Sonic Intelligence Academy held its inaugural AI Music Awards at the Mayan Theater in Downtown Los Angeles, aiming to establish legitimacy and infrastructure for artificial intelligence-backed music creators. Artists competed across 25 categories, with AI persona Xania Monet winning multiple top honors including artist and song of the year.</p><p>Founded earlier in the year by Timirah “TJ” James and Mia James, the academy created the awards program and dedicated AI music charts to counter the mainstream music industry’s resistance and ongoing copyright lawsuits against generative tools. Despite various logistical challenges and technical hiccups during the live ceremony, the event highlighted independent creators utilizing AI to bypass traditional studio constraints.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27396"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5Mlg8EU8M-s%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonic Academy is offering its JU-60 chorus plugin as a free download for Black Friday. The software, which normally retails for £19.95, emulates the analog chorus section of the Roland Juno-60 synthesizer.</p><p>To obtain the plugin without charge, users must register for an email newsletter on the Sonic Academy promotional page to receive a discount code. The plugin is available in VST3, AU, and AAX formats for macOS and Windows systems.</p>
 <p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/sonic-academy-ju-60-free-2026/">bedroomproducersblog.com</a> | <a href="https://www.sonicacademy.com/event/ju60-free">sonicacademy.com</a></p>
-<br clear="all" />
-
-<h2>Kael Barba Releases CosmicSynth Free VST3 Synthesizer</h2>
-<a name="story-27398"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-114323.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Kael Barba has released CosmicSynth v0.1.0, a free and open-source VST3 synthesizer for Windows designed to translate gravitational-wave physics into audio. The instrument allows users to upload waveform data—such as signals from colliding black holes recorded by LIGO—to dynamically modulate pitch and filter parameters.</p><p>The software includes five built-in presets representing different astrophysical phenomena, alongside a real-time gravitational-wave visualizer and a live spectrogram that tracks waveform and sound changes. As Barba's first public release, the project bridges astrophysics and sound design while encouraging community feedback for future development.</p>
-<p>Nov 13 · <a href="https://www.kvraudio.com/news/cosmicsynth-releases-cosmicsynth---free-vst3-synthesizer-that-turns-gravitational-wave-physics-into-music-69786?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69786">kvraudio.com</a> | <a href="https://github.com/barkael327-a11y/cosmicsynth">github.com</a></p>
 <br clear="all" />
 
 ---

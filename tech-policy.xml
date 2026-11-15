@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-15T13:12:00+00:00</updated>
+  <updated>2026-11-15T13:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Commerce Secretary Howard Lutnick Pushed to Weaken Chip Rules Overlapping With Family Business</title>
+    <link href="https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html::v240</id>
+    <published>2026-11-15T13:15:00+00:00</published>
+    <updated>2026-11-15T13:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F14%2Fmultimedia%2F14dc-lutnick-commerce-01-bqtl%2F14dc-lutnick-commerce-01-bqtl-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50506180">hacker news</a></small></p><hr/><p>Commerce Secretary Howard Lutnick has advocated for weaker export controls on advanced Nvidia artificial intelligence chips for overseas data centers, a stance that has sparked internal administration debates. Some of the data centers affected, including a major facility in Malaysia, are clients of Cantor Fitzgerald, the financial services firm formerly led by Lutnick and currently managed by his sons.</p><p>The Trump administration has been divided over how strictly to regulate chip sales to international data centers that lease computing power to Chinese technology companies. While China hawks view these facilities as a loophole around direct export bans, Lutnick's push for less stringent oversight has drawn criticism from lawmakers and fellow officials over potential conflicts of interest.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F14%2Fmultimedia%2F14dc-lutnick-commerce-01-bqtl%2F14dc-lutnick-commerce-01-bqtl-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 22:22 UTC | #27568</small>]]></content>
+  </entry>
   <entry>
     <title>Judge Denies Dismissal of DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, and Micron</title>
     <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-15T13:13:00+00:00</updated>
+  <updated>2026-11-15T17:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Xfer Records Releases Shrub Free Wavetable Synthesizer Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/15/xfer-records-shrub/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/15/xfer-records-shrub/::v240</id>
+    <published>2026-11-15T17:17:00+00:00</published>
+    <updated>2026-11-15T17:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fserumwteditor.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/15/xfer-records-shrub/">bedroomproducersblog.com</a> | <a href="https://shrub.audio/">shrub.audio</a></small></p><hr/><p>Xfer Records has released Shrub, a free beta wavetable synthesizer for macOS, Windows, and Linux that adapts its engine from the company's popular Serum plugin. Originally developed as alternative firmware for the M-VAVE FM-1 hardware synth, Shrub functions as a VST3 plugin within digital audio workstations and can also be played directly in a web browser.</p><p>The instrument features two wavetable oscillators, a sub oscillator, noise generation, multiple modulation sources, and an effects rack that includes an OTT compressor mode. Designed primarily as an editor and librarian, Shrub handles up to four-note polyphony with shared filter routing, supports importing Serum 1 presets, and runs the hardware's native code to maintain consistent sound quality.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fserumwteditor.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 22:23 UTC | #27556</small>]]></content>
+  </entry>
   <entry>
     <title>Sonic Intelligence Academy Hosts Inaugural AI Music Awards in Los Angeles</title>
     <link href="https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/" rel="alternate" />
