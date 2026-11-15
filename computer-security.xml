@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-15T00:09:00+00:00</updated>
+  <updated>2026-11-15T00:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Plakar Gains Minecraft Server Backup Integration</title>
+    <link href="https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/" rel="alternate" />
+    <id>https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/::v240</id>
+    <published>2026-11-15T00:13:00+00:00</published>
+    <updated>2026-11-15T00:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F1gbits.com%2Fcdn-cgi%2Fimage%2Fwidth%3D900%2Cquality%3D80%2Cformat%3Dauto%2Fhttps%3A%2F%2Fcdn.1gbits.com%2F1gbits%2F2026%2F05%2F16%2Fdark-4-column-comparison-of-minecraft-backup-methods-with-ea-ae9532.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/">poolp.org</a> | <a href="https://lobste.rs/s/h6eofy/walking_across_my_minecraft_backups_with">lobsters</a></small></p><hr/><p>The open-source backup tool Plakar has introduced a Minecraft server integration that automates consistent backups of live servers without requiring downtime. Created using an AI assistant, the connector communicates via RCON to temporarily pause world saves while allowing players to continue playing uninterrupted.</p><p>Operating as an extension of Plakar's filesystem connectors, the tool preserves entire server directories, including world files, configurations, and plugins. It also features an experimental implementation that encodes backup data directly into a custom-generated Minecraft terrain world where storage blocks can be physically walked across.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F1gbits.com%2Fcdn-cgi%2Fimage%2Fwidth%3D900%2Cquality%3D80%2Cformat%3Dauto%2Fhttps%3A%2F%2Fcdn.1gbits.com%2F1gbits%2F2026%2F05%2F16%2Fdark-4-column-comparison-of-minecraft-backup-methods-with-ea-ae9532.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 07:04 UTC | #27532</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Security Team Scrutinized Following CEO Jensen Huang's Departure</title>
     <link href="https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/" rel="alternate" />
