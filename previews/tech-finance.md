@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Databento Raises $100m in Series C Funding at $1.1bn Valuation</h2>
+<p>Market data platform Databento has closed a $100m Series C funding round led by Fifth Down Capital, valuing the company at $1.1bn. The financing follows a $97m Series B earlier in the year and includes participation from existing backers such as NEA, DRW Venture Capital, Tribe Capital, and Hedosophia, alongside strategic investor Fitch Ventures.</p><p>Since its Series B, Databento has doubled its revenue while maintaining profitability with a compact team of 39 employees. The company provides live and historical financial data across futures, options, equities, and indices via a single API, serving quantitative trading houses, asset managers, and major artificial intelligence labs. The newly secured capital will be used to advance its infrastructure and expand asset class coverage.</p>
+<p>Nov 14 · <a href="https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/">fintech.global</a></p>
+<br clear="all" />
+
 <h2>Trump Media Faces November Deadline to Repay Convertible Bonds Amid Share Price Decline</h2>
 <a name="story-27500"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffinbold.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cquality%3D85%2Fhttps%3A%2F%2Fassets.finbold.com%2Fuploads%2F2025%2F05%2FTrump-Media-announces-approx.-2.5-Billion-Bitcoin-Treasury-deal-1024x682.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Trump Media faces a November 30 deadline to repay up to $1 billion in convertible bonds previously issued to fund its corporate bitcoin treasury. The impending repayment obligation comes as the Truth Social owner's stock price has dropped by more than 60 percent over the year.</p><p>The convergence of falling share prices and depressed cryptocurrency valuations could force the company to liquidate treasury assets or secure high-cost new debt to meet the liability. This financial pressure highlights the operational risks associated with corporate cryptocurrency strategies during periods of adverse market conditions.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bonus.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fdonald-trump-jr-kalshi-partnership.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The prediction markets startup Kalshi has terminated its advisory agreement with Donald Trump Jr. The decision follows an increased stake in rival platform Polymarket by Trump's venture capital firm, 1789 Capital.</p><p>Trump Jr. had served as a strategic advisor to Kalshi since January 2025. The move addresses the conflict of interest created by his firm's investment in a direct competitor.</p>
 <p>Nov 12 · <a href="https://www.reuters.com/business/finance/kalshi-ends-donald-trump-jrs-advisory-contract-due-polymarket-conflict-2026-11-12/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50474358">hacker news</a></p>
-<br clear="all" />
-
-<h2>Binance Completes Reimbursement of $6.3 Billion in Stolen Customer Tokens</h2>
-<a name="story-27325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinmagazine.com%2Fwp-content%2Fuploads%2F2024%2F11%2F10_twfuhxdoriginal.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The exchange has used profits and emergency funds to replace all $6.3 billion in cryptoassets stolen during an October 29 cyberattack. The reimbursement covers both common and obscure tokens.</p><p>This action marks the conclusion of what is described as the largest cybertheft in history.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

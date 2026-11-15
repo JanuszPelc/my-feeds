@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-14T20:06:00+00:00</updated>
+  <updated>2026-11-14T21:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Databento Raises $100m in Series C Funding at $1.1bn Valuation</title>
+    <link href="https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/" rel="alternate" />
+    <id>https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/::v240</id>
+    <published>2026-11-14T21:45:00+00:00</published>
+    <updated>2026-11-14T21:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/">fintech.global</a></small></p><hr/><p>Market data platform Databento has closed a $100m Series C funding round led by Fifth Down Capital, valuing the company at $1.1bn. The financing follows a $97m Series B earlier in the year and includes participation from existing backers such as NEA, DRW Venture Capital, Tribe Capital, and Hedosophia, alongside strategic investor Fitch Ventures.</p><p>Since its Series B, Databento has doubled its revenue while maintaining profitability with a compact team of 39 employees. The company provides live and historical financial data across futures, options, equities, and indices via a single API, serving quantitative trading houses, asset managers, and major artificial intelligence labs. The newly secured capital will be used to advance its infrastructure and expand asset class coverage.</p><hr/><small>15 Nov 2026, 04:42 UTC | #27508</small>]]></content>
+  </entry>
   <entry>
     <title>Trump Media Faces November Deadline to Repay Convertible Bonds Amid Share Price Decline</title>
     <link href="https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0" rel="alternate" />
