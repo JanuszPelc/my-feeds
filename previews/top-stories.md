@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Italy Fines Meta €805 Million Over Android User Data Access</h2>
+<a name="story-27495"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techbusinessnews.com.au%2Fwp-content%2Fuploads%2F2024%2F12%2Fmeta-fined-50m-tech-news-australia-privacy-watchdog.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Italy's data protection agency has fined Meta Platforms €805 million ($887 million) after discovering that the company accessed Android users' photos and videos without obtaining their consent or properly informing them. The regulatory penalty stems from a Facebook app feature that suggested content from users' personal device storage.</p><p>In addition to the financial penalty, the Italian authority has demanded that Meta implement changes within 60 days, requiring the company to obtain explicit permission and alter default settings. The enforcement highlights ongoing European regulatory scrutiny regarding user data collection practices and consent mechanisms on major social media platforms.</p>
+<p>Nov 15 · <a href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50497009">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Elon Musk and Other Tech Executives Sign Petition Calling on Nvidia to Reinstate Jensen Huang</h2>
 <a name="story-27514"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F05%2FGettyImages-2216028442.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An independent petition calling on Nvidia to reinstate recently ousted CEO Jensen Huang has garnered over 115,000 signatures, including thousands from current and former employees and shareholders. Notable tech executives, such as Tesla and SpaceX CEO Elon Musk, Replit CEO Amjad Masad, and Epic Games CEO Tim Sweeney, have added their support to the open letter.</p><p>The petition demands that Nvidia's board bring Huang back pending an independent investigation, arguing he was removed without proper due process. Huang resigned following disclosures regarding personal relationships, including an admission to a relationship with an individual identified by U.S. intelligence as a suspected Chinese spy, while CFO Colette Kress has taken over as interim CEO.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27158"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.poynter.org%2Fwp-content%2Fuploads%2F2026%2F11%2FAI-generated-imagery-11-09-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Political campaigns and supporting groups spent approximately $187 million on artificial intelligence-generated or enhanced political ads during the 2026 midterm elections, according to an analysis by the Wesleyan Media Project. Around 300 AI-assisted ads were tracked, with roughly 90% originating from Republican candidates or allied organizations, marking a massive increase compared to the 2024 election cycle.</p><p>Despite the surge in spending, AI-generated ads accounted for a small fraction of the estimated $11.6 billion total political ad market as campaigns navigated reputational risks and voter skepticism toward synthetic content. Experts noted that while these ads functioned primarily as a modern form of political cartooning rather than persuasive deepfakes that swung elections, the technology nonetheless introduced new regulatory challenges across dozens of states.</p>
 <p>Nov 14 · <a href="https://www.poynter.org/fact-checking/2026/ai-generated-political-ads-2026-midterm-elections/">poynter.org</a> | <a href="https://mediaproject.wesleyan.edu/releases-102926/">mediaproject.wesleyan.edu</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;LangChain Raises $300M at $3 Billion Valuation</h2>
-<a name="story-27300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff757df35-c3cc-4009-81dc-aaed208aa8e9_2544x2064.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>LangChain raised $300 million in a funding round led by Alphabet's CapitalG, bringing the startup's valuation to $3 billion. This follows a $1.25 billion valuation recorded in 2025.</p><p>The company provides an agent-development platform designed to help large enterprises build and deploy custom AI agents.</p>
-<p>Nov 14 · <a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">wsj.com</a></p>
 <br clear="all" />
 
 ---
