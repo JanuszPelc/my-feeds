@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nidus Raises $30 Million in Funding for Defense Industrial Robotics AI</h2>
+<a name="story-27533"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F10274226.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>New York-based robotics AI startup Nidus has raised $30 million in a funding round combining a pre-seed led by Costanoa and a seed round led by Kleiner Perkins. Founded earlier this year by former hardware engineers from defense startup Vannevar, the company develops customized AI models to automate precise manufacturing tasks for defense industrial customers, starting with wire harness preparation.</p><p>Within four months of operation, Nidus has reached over $1 million in bookings. The startup plans to use the new capital to scale data collection, expand its team at its New York headquarters, and build a dedicated physical AI lab aimed at addressing critical labor shortages and strengthening domestic supply chains.</p>
+<p>Nov 15 · <a href="https://www.upstartsmedia.com/p/nidus-ai-robotics-raises-30m">upstartsmedia.com</a></p>
+<br clear="all" />
+
 <h2>USD-Pegged Stablecoins Expand Across Latin America for Savings and Payments</h2>
 <a name="story-27513"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxrex.io%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FXREX25-SG-blog-%E8%A1%A8%E6%A0%BC-01-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>USD-pegged stablecoins are capturing an increasing share of cryptocurrency activity in Latin America, functioning both as a reliable store of value and an efficient mechanism for cross-border payments. These digital assets are utilized by individuals in countries like Argentina and Venezuela to protect savings against inflation, as well as by businesses in Mexico and Brazil for international transactions.</p><p>The adoption of stablecoins has accelerated even among users without prior blockchain knowledge, driven by local currency volatility and the demand for accessible digital dollars. This trend highlights the practical utility of cryptocurrency infrastructure in emerging markets beyond speculative trading.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27347"><img src="https://wsrv.nl/?url=https%3A%2F%2Fswotstock.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fmicrosoft-q3-fy2026-earnings-ai-cloud-analysis.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cerebras Systems reported third-quarter core revenue of $230.9 million, surpassing analyst expectations of $214.7 million. The company's stock rose 18% in extended trading following the report and the announcement of a new Microsoft deal, which CEO Andrew Feldman expects to impact revenue in the first quarter of 2027.</p><p>Core revenue grew 70% from $135.7 million. Competing with Nvidia in the AI chip market, Cerebras projected fourth-quarter revenue between $310 million and $330 million and expects total 2027 revenue to triple to approximately $2.85 billion.</p>
 <p>Nov 12 · <a href="https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026">investors.cerebras.ai</a></p>
-<br clear="all" />
-
-<h2>SpaceX and Tesla Progress in Merger Negotiations</h2>
-<a name="story-27343"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhermes.media.static.aol.com%2Fmedia%2F2026%2F11%2F04%2Fdf6d1bc2-1ae4-3b59-83ab-c1c9d38954f3%2F54dd109e-a2ba-4e8d-9ac9-72b24c56288c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SpaceX and Tesla Inc. are advancing negotiations for a corporate combination, which could lead to an announcement as early as December or in early 2027. Boards and advisers are currently working through the terms and governance structure.</p><p>Special committees of independent directors have been formed to facilitate the discussions. Significant hurdles to the deal include securing regulatory approvals and managing the intersection of Tesla's operations in China and SpaceX's U.S. defense ties.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-15T08:09:00+00:00</updated>
+  <updated>2026-11-15T09:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>TSMC Plans $500 Million Venture Fund to Support Chip Startups</title>
+    <link href="https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm" rel="alternate" />
+    <id>https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm::v240</id>
+    <published>2026-11-15T09:17:00+00:00</published>
+    <updated>2026-11-15T09:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F7%252F0%252F0%252F7%252F13427007-1-eng-GB%252F7b8bd5694047-MYK_8315.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm">asia.nikkei.com</a></small></p><hr/><p>TSMC plans to establish a $500 million venture fund to invest in emerging semiconductor startups. The initiative aims to identify future industry leaders, such as Nvidia or Broadcom, while formalizing the company's investment activities within the expanding AI ecosystem.</p><p>Senior Vice President and deputy co-chief operating officer Kevin Zhang stated the move is intended to broaden TSMC's ecosystem and support the next generation of chip designers. This strategy seeks to strengthen the broader supply chain during the ongoing AI boom.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F7%252F0%252F0%252F7%252F13427007-1-eng-GB%252F7b8bd5694047-MYK_8315.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 16:59 UTC | #27530</small>]]></content>
+  </entry>
   <entry>
     <title>Nebuly Raises $21 Million Series A to Measure AI Business Value</title>
     <link href="https://tech.eu/2026/11/12/nebuly-raises-21m-series-a-to-turn-ai-investments-into-measurable-results/" rel="alternate" />

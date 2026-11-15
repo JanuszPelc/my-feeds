@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TSMC Plans $500 Million Venture Fund to Support Chip Startups</h2>
+<a name="story-27530"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F7%252F0%252F0%252F7%252F13427007-1-eng-GB%252F7b8bd5694047-MYK_8315.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>TSMC plans to establish a $500 million venture fund to invest in emerging semiconductor startups. The initiative aims to identify future industry leaders, such as Nvidia or Broadcom, while formalizing the company's investment activities within the expanding AI ecosystem.</p><p>Senior Vice President and deputy co-chief operating officer Kevin Zhang stated the move is intended to broaden TSMC's ecosystem and support the next generation of chip designers. This strategy seeks to strengthen the broader supply chain during the ongoing AI boom.</p>
+<p>Nov 15 · <a href="https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm">asia.nikkei.com</a></p>
+<br clear="all" />
+
 <h2>Nebuly Raises $21 Million Series A to Measure AI Business Value</h2>
 <a name="story-27531"><img src="https://wsrv.nl/?url=https%3A%2F%2Fobject.pomegra.io%2Fpublic%2Fstartups-2026-11-13-nebuly-raises-21m-series-a-to-measure-enterprise-a-05.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nebuly, an enterprise AI analytics platform, has raised $21 million in a Series A funding round led by Planven. The company provides tools to help organizations measure the business value and return on investment of their deployed AI agents, moving beyond simple usage metrics like prompt and token counts.</p><p>As businesses increasingly integrate AI models from multiple providers or custom solutions, leaders face pressure to justify these investments with concrete operational and financial data. Nebuly's platform integrates with existing enterprise systems—such as ChatGPT, Claude, and Microsoft Copilot—to analyze agent behavior and calculate efficiency gains or revenue impacts, with the new capital supporting team expansion in the US and Europe.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpress.farm%2Fwp-content%2Fuploads%2F2024%2F03%2Fthe-story-of-nvidia-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang's resignation as Nvidia CEO has created a significant funding gap for AI startups, according to venture capitalists and founders. As one of the industry's most active investors, Huang’s departure raises concerns regarding capital availability for high-cost sectors like neocloud providers, infrastructure companies, and open-weight model developers.</p><p>Interim CEO Colette Kress is expected to adopt a more conservative investment strategy, which may result in smaller checks and lower valuations. While some suggest that major tech competitors might attempt to fill the void, there is skepticism that they will replicate Nvidia's level of high-risk, large-scale funding for pre-revenue startups.</p>
 <p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50498492">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Excludes China and Hong Kong Institutional Investors From IPO</h2>
-<a name="story-27432"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F04%2FGettyImages-2267044457-e1777736992257.jpg%3Fw%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic has barred institutional investors located in mainland China and Hong Kong from participating in its initial public offering. The restriction is reportedly driven in part by United States arms export regulations.</p><p>The move follows similar measures implemented for SpaceX and highlights growing geopolitical tensions regarding the global distribution of advanced artificial intelligence technology.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
