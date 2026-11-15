@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Electronic Frontier Foundation Warns Wearable Recording Devices Threaten Bystander Privacy</h2>
+<a name="story-27519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adams.africa%2Fwp-content%2Fuploads%2F2025%2F02%2FADA_250129_24131-POPIA-article_Web-Article.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The proliferation of ambient surveillance wearables—including smart glasses from Meta and Google, transcription-enabled watches from Apple, and recording hardware from Amazon—is shifting the concept of privacy away from individual choice toward unavoidable background monitoring. These devices capture continuous audio, video, or data throughout the day, effectively implicating everyone in a user's vicinity regardless of their consent.</p><p>While technology companies offer various technical safeguards and privacy controls, these measures exclusively protect the device owner and leave bystanders without practical ways to opt out. This normalization of passive recording undermines longstanding social norms regarding conversational privacy and places an unreasonable burden on individuals to navigate a physical landscape saturated with hidden recording technology.</p>
+<p>Nov 14 · <a href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again">eff.org</a> | <a href="https://news.ycombinator.com/item?id=50496602">hacker news</a></p>
+<br clear="all" />
+
 <h2>Asian Governments React to Jensen Huang&#x27;s Departure from Nvidia</h2>
 <a name="story-27499"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang’s departure from Nvidia has prompted varied responses from Asian governments as they assess potential impacts on the regional AI industry. South Korea is working to secure continued GPU supplies and joint projects, while Taiwan officials report that planned overseas headquarters and investments remain on track.</p><p>In China, the departure has raised uncertainty over more than $3 billion in AI computing projects reliant on restricted Nvidia processors. The resignation also follows an investigation into Huang's relationship with a former Megaspeed executive, who was previously barred from Singapore during a probe into server declarations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27308"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2024%2F09%2F04%2Fa82f761a-75d3-4337-b033-05dfea16b436_f60200c9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Federal authorities have launched an antitrust investigation into Nvidia following the resignation of former CEO Jensen Huang. Two other inquiries are currently targeting the tech companies Megaspeed and Supermicro.</p><p>These probes are linked to the fallout from Huang’s admitted affair with Alice Huang, an alleged Chinese spy. There is currently no indication that the DOJ intends to seek criminal charges against Nvidia or Huang.</p>
 <p>Nov 12 · <a href="https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia">semafor.com</a></p>
-<br clear="all" />
-
-<h2>Jensen Huang Agrees to Testify Before Congress</h2>
-<a name="story-27301"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FJensen-Huang.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Former Nvidia CEO Jensen Huang has agreed to testify before Congress by Thanksgiving. The decision follows threats of subpoenas from senior lawmakers after reports emerged regarding an alleged affair between Huang and a woman suspected of spying for China.</p><p>The briefing will take place behind closed doors but is expected to be recorded and transcribed. House Foreign Affairs Committee Chairman Brian Mast stated that while Nvidia is critical to the United States, Huang has "very serious questions to answer."</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
