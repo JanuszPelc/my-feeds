@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Qtractor v1.7.0 and Vee One Suite v1.5.2 Released for Linux</h2>
+<a name="story-27510"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor-small.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer rncbc.org has released Qtractor version 1.7.0 and Vee One Suite version 1.5.2 for GNU/Linux operating systems. Qtractor introduces a brand-new, basic audio clip editor featuring built-in audio tools such as gain, panning, normalization, time-stretching, pitch-shifting, and reverse, alongside improvements like unlinking clips and VST3 parameter normalization.</p><p>The update to the Vee One Suite of vintage-style software instruments resolves a crash that occurred during plug-in instance cleanup due to a race condition with the shared worker or schedule thread. Both applications remain free, open-source software distributed under the GNU General Public License version 2 or later.</p>
+<p>Nov 14 · <a href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-7-0-and-vee-one-suite-to-v1-5-2-for-linux-69826?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69826">kvraudio.com</a> | <a href="https://www.rncbc.org/drupal/node/2987">rncbc.org</a></p>
+<br clear="all" />
+
 <h2>ToneLib Updates TL GFX to Version 4.9.5</h2>
 <a name="story-27501"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgfx-4-9-5-update-kvr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ToneLib has released version 4.9.5 of its TL GFX plugin, introducing support for Neural Amp Modeler (NAM) profiles. This addition enables users to load and use a wide range of guitar and bass gear profiles directly within the plugin alongside the built-in effects.</p><p>The update also features a redesigned, full-stereo IR convolver that improves processing quality and broadens application range, alongside 63 new factory presets, improved performance stability, and optimized CPU usage.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27397"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsamplescience_hush_piano_overlay_website_hero_image.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SampleScience has released Hush Piano, a felt piano sample library tailored for lo-fi, cinematic, ambient, and boom bap music production. The lightweight acoustic piano instrument is offered in multiple plugin and sampler formats, including VST, VST3, AU, Kontakt, Decent Sampler, Soundbox, and SFZ.</p><p>The virtual instrument is designed to deliver an intimate, warm, and nostalgic tone suitable for various DAW workflows. It is priced at $30 USD and is compatible with both Windows and macOS operating systems.</p>
 <p>Nov 13 · <a href="https://www.kvraudio.com/news/samplescience-releases-hush-piano-69784?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69784">kvraudio.com</a> | <a href="https://www.samplescience.info/2026/11/hush-piano.html">samplescience.info</a></p>
-<br clear="all" />
-
-<h2>Universal Audio Releases Native Cooper Time Cube Delay for macOS and Windows</h2>
-<a name="story-27339"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcooper_time_cube_gallery_1_2x_82f234fc-aaf4-45ef-b430-126eda741597.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Universal Audio has released the native Cooper Time Cube Delay for macOS and Windows, which can be used without Universal Audio hardware. The plug-in recreates the 1971 design by Bill Putnam Sr. and Duane H. Cooper.</p><p>The software includes two independently adjustable delay lines with tempo sync for doubling, slapback echo, and stereo widening. Users can shape the tone via treble, bass, color, and high-pass filter controls. It is available at an introductory price of $49 USD and is included in the UAD Spark Studio subscription.</p>
-<p>Nov 12 · <a href="https://www.kvraudio.com/news/universal-audio-releases-native-cooper-time-cube-delay-for-macos-and-windows-69788?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69788">kvraudio.com</a> | <a href="https://www.uaudio.com/">uaudio.com</a></p>
 <br clear="all" />
 
 ---
