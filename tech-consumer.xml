@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-15T03:47:00+00:00</updated>
+  <updated>2026-11-15T13:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Laura Hudson and Tim Leong Discuss New Comic Series Exploit</title>
+    <link href="https://www.404media.co/this-comic-kills-technofascists/" rel="alternate" />
+    <id>https://www.404media.co/this-comic-kills-technofascists/::v240</id>
+    <published>2026-11-15T13:01:00+00:00</published>
+    <updated>2026-11-15T13:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FExploit-1---Cover-A.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/this-comic-kills-technofascists/">404media.co</a> | <a href="https://madcavestudios.com/series/exploit/?srsltid=AYCX9vIlWnG--V24IwROzHWvCyzPii7e71bqiRFKsTc6YnZFRfIMaN61&ref=404media.co">madcavestudios.com</a></small></p><hr/><p>Writer Laura Hudson discusses Exploit, a new comic book series published by Mad Cave Studios that explores the high-stakes conflict between tech oligarchs and independent investigative journalism. Created alongside Tim Leong and illustrator Emiliana Pinna, the action thriller follows a print magazine intern targeted by a cyberlibertarian tech mogul after reporting on a high-profile assassination.</p><p>Drawing on Hudson and Leong’s backgrounds as former Wired editors and veteran tech-culture journalists, the series weaves real-world cybersecurity cases into a fictional narrative about the precarity of the press and the dangers of unchecked corporate power. Hudson highlights how the project reflects both deep-seated anger toward the tech founder class and an earnest appreciation for print media and analog dissent.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FExploit-1---Cover-A.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 18:10 UTC | #27543</small>]]></content>
+  </entry>
   <entry>
     <title>Jordi Highlights 25 Favorite Modern NES Games</title>
     <link href="https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/" rel="alternate" />

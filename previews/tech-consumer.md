@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Laura Hudson and Tim Leong Discuss New Comic Series Exploit</h2>
+<a name="story-27543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FExploit-1---Cover-A.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Writer Laura Hudson discusses Exploit, a new comic book series published by Mad Cave Studios that explores the high-stakes conflict between tech oligarchs and independent investigative journalism. Created alongside Tim Leong and illustrator Emiliana Pinna, the action thriller follows a print magazine intern targeted by a cyberlibertarian tech mogul after reporting on a high-profile assassination.</p><p>Drawing on Hudson and Leong’s backgrounds as former Wired editors and veteran tech-culture journalists, the series weaves real-world cybersecurity cases into a fictional narrative about the precarity of the press and the dangers of unchecked corporate power. Hudson highlights how the project reflects both deep-seated anger toward the tech founder class and an earnest appreciation for print media and analog dissent.</p>
+<p>Nov 15 · <a href="https://www.404media.co/this-comic-kills-technofascists/">404media.co</a> | <a href="https://madcavestudios.com/series/exploit/?srsltid=AYCX9vIlWnG--V24IwROzHWvCyzPii7e71bqiRFKsTc6YnZFRfIMaN61&ref=404media.co">madcavestudios.com</a></p>
+<br clear="all" />
+
 <h2>Jordi Highlights 25 Favorite Modern NES Games</h2>
 <a name="story-27537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjordi.inversethought.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fimage-14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Enthusiast blogger Jordi has compiled a curated list of twenty-five modern titles released for the Nintendo Entertainment System. The selection spans diverse genres including horror platformers, Metroidvanias, arcade firefighting games, and shoot-'em-ups, illustrating the ongoing vitality of third-party development for the 8-bit console.</p><p>Nearly all of the featured games are accessible digitally and as physical cartridges designed to run on original hardware, with several projects leveraging advanced community knowledge and tools like Famitracker. The overview underscores how decades of accumulated technical research continue to inspire independent creators to produce new software for vintage systems.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27283"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F268864_Smart_home_photos_HMCRAE71.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C16.642156862745%252C100%252C66.71568627451%26w%3D2400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple's HomeView is a 7-inch smart display that functions as an Apple Home hub featuring integrated Siri AI and a Center Stage camera. The device provides smart home control through Thread and Matter support, offers hands-free kitchen assistance, and can serve as a communal extension of an iPhone for accessing messages, calendars, and reminders.</p><p>While the display provides high-quality audio and responsive smart home management, it presents privacy concerns due to the ease with which personal iPhone data can be accessed on a shared device. Additionally, the hardware lacks physical volume and mute buttons, relying entirely on the touchscreen or linked mobile devices for adjustments.</p>
 <p>Nov 12 · <a href="https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/">apple.com</a></p>
-<br clear="all" />
-
-<h2>Roku Exits Smart Home Business to Focus on Core Streaming</h2>
-<a name="story-27224"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F10%2Froku-smart-home-app.jpg%3Fq%3D50%26fit%3Dcrop%26w%3D825%26dpr%3D1.5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Streaming device manufacturer Roku is discontinuing its smart home hardware line, winding down sales while maintaining ongoing support and services for existing devices. A company spokesperson confirmed the shift as part of a renewed focus on its core streaming platform.</p><p>The decision follows months of declining inventory on the company's website and coincides with the closing of Fox's acquisition of Roku. Remaining items, such as indoor cameras and video doorbells, have been marked down as special offers or routed through surplus asset liquidators.</p>
-<p>Nov 12 · <a href="https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business">lowpass.cc</a></p>
 <br clear="all" />
 
 ---
