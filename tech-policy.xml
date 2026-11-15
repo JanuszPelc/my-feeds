@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-14T21:42:00+00:00</updated>
+  <updated>2026-11-14T21:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Sean Duffy Attributes FAA Outage to Contractor L3Harris After Nationwide Ground Stop</title>
+    <link href="https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?st=zB6eBf" rel="alternate" />
+    <id>https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?st=zB6eBf::v240</id>
+    <published>2026-11-14T21:43:00+00:00</published>
+    <updated>2026-11-14T21:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F53b9a444c204ea9a54efdb2743a35379a675d58f8fc5f0cd561e9072e89f5706%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F82cb4f3f561187f37086a9ddfa6cc873.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?st=zB6eBf">wsj.com</a></small></p><hr/><p>Transportation Secretary Sean Duffy attributed a nationwide FAA ground stop to copper-to-fiber wiring updates at a single remote facility, suggesting that contractor L3Harris may have installed a faulty router. The localized instability prompted aviation authorities to temporarily halt flights across the country.</p><p>Airlines have continued to experience widespread flight cancellations and delays as carriers work to reset their schedules following the abrupt ground stop. The incident has drawn heightened scrutiny toward aviation infrastructure vulnerabilities and the equipment provided by external contractors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F53b9a444c204ea9a54efdb2743a35379a675d58f8fc5f0cd561e9072e89f5706%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F82cb4f3f561187f37086a9ddfa6cc873.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 03:23 UTC | #27503</small>]]></content>
+  </entry>
   <entry>
     <title>Elon Musk and Other Tech Executives Sign Petition Calling on Nvidia to Reinstate Jensen Huang</title>
     <link href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/" rel="alternate" />
