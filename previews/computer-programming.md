@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>FreeBSD bhyve Live Migration Support Proposed in WIP RFC</h2>
+<a name="story-27544"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gyptazy.com%2Fimg%2Ffreebsd-bhyve-live-migration.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A new work-in-progress request for comments outlines the first working implementation of live virtual machine migration for bhyve on FreeBSD 15.1. Developed to support clustered platforms like Sylve and BoxyBSD, the system enables running amd64 guests to move between hosts over TCP with minimal downtime during a final stop-and-copy phase.</p><p>The implementation combines bhyve's experimental snapshot support with new dirty-page tracking in the vmm kernel module and a migration protocol managed via bhyvectl. While initial testing on single-vCPU guests demonstrates successful memory and disk-write validation, several engineering hurdles—including transport security, compatibility contracts, and concurrency hardening—must be resolved before upstreaming can proceed.</p>
+<p>Nov 15 · <a href="https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/">gyptazy.com</a> | <a href="https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50488835">hacker news</a></p>
+<br clear="all" />
+
 <h2>NetBSD Disk Encryption Guide for Data Secrecy</h2>
 <a name="story-27542"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnetbsd.org%2F~nia%2Fdisk-encrypt%2Finstaller1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This guide outlines a practical approach to disk encryption on NetBSD to safeguard sensitive user data against theft or loss. By maintaining a small, unencrypted root partition for standard system binaries, users can isolate and encrypt critical directories containing user files, logs, and third-party software.</p><p>The setup process utilizes NetBSD's cryptographic device driver, cgd, alongside either traditional disklabels or modern disk wedges depending on the hardware architecture. The walkthrough covers generating encryption parameters, establishing password verification methods, creating secure sub-partitions, and migrating essential directories to the encrypted file system.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Haskell Foundation Technical Leadership Committee Releases Technical Vision</h2>
 <p>The Haskell Foundation's newly bootstrapped Technical Leadership Committee has published its technical vision for the Haskell ecosystem, prioritizing onboarding, iteration speed, debugging, stability, and open-source support. The committee plans to fund and execute initiatives through a light community proposal process that invites public feedback and counter-proposals.</p><p>The strategic vision emphasizes Haskell's strengths in human-in-the-loop workflows and responsible AI development, aiming to combine Rust-like onboarding, Go-like iteration speed, and C#-like debugging capabilities. Key technical objectives include cutting GHC build times, introducing live step-through debugging and native CLI tools, securing the supply chain, and improving backward compatibility to make Haskell predictable for both startups and enterprise environments.</p>
 <p>Nov 14 · <a href="https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078">discourse.haskell.org</a> | <a href="https://lobste.rs/s/xe0prv/technical_vision_for_haskell_ecosystem">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50484235">hacker news</a></p>
-<br clear="all" />
-
-<h2>Matt Bee&#x27;s Blog Impersonated by Clone Website</h2>
-<a name="story-27482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimpersonally.io%2Fwp-content%2Fuploads%2F2025%2F04%2Fmitad-blog-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An unauthorized domain, mataroa.site, is scraping and re-hosting content from a personal blog. The clone uses watermarked images from the original source and includes a hidden link to a website cloning tool.</p><p>The site also contains meta tags for mitgo.com, an SEO scamming platform. While the author has filed an abuse report with the registrar Namecheap, they noted that Cloudflare's abuse reporting mechanism is currently non-functional.</p>
-<p>Nov 13 · <a href="https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/">mattbee.mataroa.blog</a> | <a href="https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50488664">hacker news</a></p>
 <br clear="all" />
 
 ---
