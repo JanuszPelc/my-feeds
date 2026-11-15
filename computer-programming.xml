@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-14T22:46:00+00:00</updated>
+  <updated>2026-11-15T03:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Parsing Nested Lists in BQN</title>
+    <link href="https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html" rel="alternate" />
+    <id>https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html::v240</id>
+    <published>2026-11-15T03:43:00+00:00</published>
+    <updated>2026-11-15T03:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.comp.nus.edu.sg%2F~nityalak%2FCS1010S%2Fimg%2FMultiDimensional%2Fnested%2FCount02.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html">saltysylvi.github.io</a> | <a href="https://lobste.rs/s/nbjckz/parsing_nested_lists_bqn">lobsters</a></small></p><hr/><p>The article explores three different approaches to parsing nested lists in BQN using data from Advent of Code 2022 day 13. It examines a high-level solution using the system evaluation function, a conventional recursive descent parser, and an array-style parser.</p><p>The piece evaluates the performance and implementation details of each method through benchmarking. While the evaluation function approach proves slow and error-prone, the recursive descent and array-style techniques demonstrate how traditional algorithms and array manipulation primitives can be effectively implemented in BQN.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.comp.nus.edu.sg%2F~nityalak%2FCS1010S%2Fimg%2FMultiDimensional%2Fnested%2FCount02.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 09:29 UTC | #27536</small>]]></content>
+  </entry>
   <entry>
     <title>Willett Examines the Difficulties of User Data Ownership in Web Applications</title>
     <link href="https://www.willett.io/posts/data/" rel="alternate" />

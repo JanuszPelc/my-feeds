@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Parsing Nested Lists in BQN</h2>
+<a name="story-27536"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.comp.nus.edu.sg%2F~nityalak%2FCS1010S%2Fimg%2FMultiDimensional%2Fnested%2FCount02.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The article explores three different approaches to parsing nested lists in BQN using data from Advent of Code 2022 day 13. It examines a high-level solution using the system evaluation function, a conventional recursive descent parser, and an array-style parser.</p><p>The piece evaluates the performance and implementation details of each method through benchmarking. While the evaluation function approach proves slow and error-prone, the recursive descent and array-style techniques demonstrate how traditional algorithms and array manipulation primitives can be effectively implemented in BQN.</p>
+<p>Nov 15 · <a href="https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html">saltysylvi.github.io</a> | <a href="https://lobste.rs/s/nbjckz/parsing_nested_lists_bqn">lobsters</a></p>
+<br clear="all" />
+
 <h2>Willett Examines the Difficulties of User Data Ownership in Web Applications</h2>
 <a name="story-27518"><img src="https://wsrv.nl/?url=https%3A%2F%2Finvozone-backend.s3.amazonaws.com%2Fweb_application_architecture_layers_9cb0a33601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Willett examines the architectural challenges of allowing web application users to maintain ownership of their personal data rather than storing it on central backend services like Supabase. Drawing on development experience with the app Cheapskate, the post highlights the tension between providing seamless, multi-device functionality and respecting user privacy.</p><p>The essay evaluates several alternative data storage approaches—including browser local storage, file pickers, cloud platform databases, and local-first CRDTs—noting that each falls short due to limitations in cross-device synchronization, collaboration, authentication friction, or inadequate SQL query support.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27461"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunity.zextras.com%2Fwp-content%2Fuploads%2F2024%2F04%2FDigital_Sovereignty_2024-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Increasingly restrictive controls within the Android and iOS ecosystems are reducing user agency and complicating the installation of independent software. While de-googled ROMs provide some relief, trends toward centralized permissions and restricted sideloading threaten long-term digital sovereignty on mobile devices.</p><p>A viable alternative requires an open-source core, support for multiple app stores, and a focus on interoperability rather than merely copying existing ecosystems. Currently, community-driven projects such as SailfishOS, Nura, and Ubuntu Touch are the most prominent candidates for establishing a functional third ecosystem.</p>
 <p>Nov 13 · <a href="https://blog.ovalerio.net/archives/3359">blog.ovalerio.net</a> | <a href="https://lobste.rs/s/9oq6fr/need_for_at_least_third_option">lobsters</a></p>
-<br clear="all" />
-
-<h2>Ali Chraghi Details Development of AMP Music Player in Zig</h2>
-<a name="story-27452"><img src="https://wsrv.nl/?url=https%3A%2F%2Falichraghi.github.io%2Fblog%2Fhow-not-to-build-a-music-player%2Fpublic-release.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Ali Chraghi details the creation of AMP, a minimal music player built in Zig with a custom UI and native system integration. Prompted by dissatisfaction with existing offline players and internet blackouts in Iran, the project evolved through extensive use of frontier large language models before a massive rewrite to remove AI-generated code bloat.</p><p>The development process coincided with prolonged internet restrictions and an account ban from Anthropic, forcing a rigorous line-by-line code review that ultimately resulted in a more robust and streamlined application. Moving forward, the project's roadmap includes support for Windows, Android, Linux packaging, and a music server.</p>
-<p>Nov 13 · <a href="https://alichraghi.github.io/blog/how-not-to-build-a-music-player">alichraghi.github.io</a> | <a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491400">hacker news</a></p>
 <br clear="all" />
 
 ---
