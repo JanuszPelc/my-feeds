@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>LinkedIn and Monster Remove Over 1,000 Fake Job Postings Following CBC Investigation</h2>
+<p>LinkedIn and Monster have removed more than 1,500 remote work job postings following a CBC investigation that connected the listings to a U.S.-based multi-level marketing company. The suspicious ads promoted roles such as travel planners with salaries up to $75,000 requiring no experience, but instead directed applicants to virtual sessions demanding upfront and monetary subscription fees.</p><p>The listings used pseudonyms like Wanderwell Collective and Professional Travel Hub to funnel users into Evolution Travel, a network marketing partner of Archer Travel Services. While Evolution Travel representatives denied encouraging job advertisements on public platforms, experts noted that such deceptive recruitment tactics violate platform rules and could potentially breach U.S. Federal Trade Commission regulations.</p>
+<p>Nov 15 · <a href="https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379">cbc.ca</a> | <a href="https://news.ycombinator.com/item?id=50499723">hacker news</a></p>
+<br clear="all" />
+
 <h2>TSMC Plans $500 Million Venture Fund to Support Chip Startups</h2>
 <a name="story-27530"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F7%252F0%252F0%252F7%252F13427007-1-eng-GB%252F7b8bd5694047-MYK_8315.jpg%3Ffit%3Dcover%26gravity%3Dfaces%26dpr%3D2%26quality%3Dmedium%26source%3Dnar-cms%26format%3Dauto%26width%3D780&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TSMC plans to establish a $500 million venture fund to invest in emerging semiconductor startups. The initiative aims to identify future industry leaders, such as Nvidia or Broadcom, while formalizing the company's investment activities within the expanding AI ecosystem.</p><p>Senior Vice President and deputy co-chief operating officer Kevin Zhang stated the move is intended to broaden TSMC's ecosystem and support the next generation of chip designers. This strategy seeks to strengthen the broader supply chain during the ongoing AI boom.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27446"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.digit.in%2Fdario-amodei-ceo-anthropic.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic CEO Dario Amodei identified forecasting computing power requirements for the next one to two years as the company's primary business challenge. He attributed this difficulty to the unpredictability of the company's revenue.</p><p>The challenge underscores the difficulty of managing massive capital expenditures for AI infrastructure amidst uncertain financial returns.</p>
 <p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Jensen Huang&#x27;s Resignation Creates Funding Gap for AI Startups</h2>
-<a name="story-27455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpress.farm%2Fwp-content%2Fuploads%2F2024%2F03%2Fthe-story-of-nvidia-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jensen Huang's resignation as Nvidia CEO has created a significant funding gap for AI startups, according to venture capitalists and founders. As one of the industry's most active investors, Huang’s departure raises concerns regarding capital availability for high-cost sectors like neocloud providers, infrastructure companies, and open-weight model developers.</p><p>Interim CEO Colette Kress is expected to adopt a more conservative investment strategy, which may result in smaller checks and lower valuations. While some suggest that major tech competitors might attempt to fill the void, there is skepticism that they will replicate Nvidia's level of high-risk, large-scale funding for pre-revenue startups.</p>
-<p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50498492">hacker news</a></p>
 <br clear="all" />
 
 ---
