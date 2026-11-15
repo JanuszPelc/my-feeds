@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Elon Musk and Other Tech Executives Sign Petition Calling on Nvidia to Reinstate Jensen Huang</h2>
+<a name="story-27514"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F05%2FGettyImages-2216028442.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An independent petition calling on Nvidia to reinstate recently ousted CEO Jensen Huang has garnered over 115,000 signatures, including thousands from current and former employees and shareholders. Notable tech executives, such as Tesla and SpaceX CEO Elon Musk, Replit CEO Amjad Masad, and Epic Games CEO Tim Sweeney, have added their support to the open letter.</p><p>The petition demands that Nvidia's board bring Huang back pending an independent investigation, arguing he was removed without proper due process. Huang resigned following disclosures regarding personal relationships, including an admission to a relationship with an individual identified by U.S. intelligence as a suspected Chinese spy, while CFO Colette Kress has taken over as interim CEO.</p>
+<p>Nov 15 · <a href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/">techcrunch.com</a> | <a href="https://standwithjensen.com/">standwithjensen.com</a> | <a href="https://news.ycombinator.com/item?id=50491690">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;Crissyfield Security Research Finds Sensitive Data Exposed in Lovable Apps</h2>
 <a name="story-27524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.crissyfield.de%2Fimages%2Fresearch-lovable-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researchers at Crissyfield analyzed nearly 160,000 projects built on the AI app development platform Lovable and discovered widespread data exposure. Focusing on integrations with the Supabase database service, the investigation found that thousands of applications allowed unauthenticated access to sensitive records, including personal information, chat messages, and internal documents.</p><p>Out of roughly 34,500 projects using Supabase, more than 24,000 loaded database records without requiring a login, and additional testing revealed email addresses and other confidential data in thousands of those applications. The exposed content included lifestyle forum profiles, ticket sales records, property management summaries, and identity document details. The findings highlight that while AI platforms simplify software creation, customers remain responsible for proper access control configuration and professional security reviews.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff757df35-c3cc-4009-81dc-aaed208aa8e9_2544x2064.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>LangChain raised $300 million in a funding round led by Alphabet's CapitalG, bringing the startup's valuation to $3 billion. This follows a $1.25 billion valuation recorded in 2025.</p><p>The company provides an agent-development platform designed to help large enterprises build and deploy custom AI agents.</p>
 <p>Nov 14 · <a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">wsj.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Nvidia Employees Petition for Jensen Huang&#x27;s Return Following Resignation</h2>
-<a name="story-27413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogs.nvidia.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fjensen-huang-headshot-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Some Nvidia employees are calling for the return of Jensen Huang following his abrupt resignation as CEO amid reports of multiple extramarital affairs. Internal correspondence reviewed by WIRED shows a suggestion box post with over 1,600 comments urging the board to bring back Huang and consider employee sentiment.</p><p>Huang resigned after acknowledging he was unfaithful to his wife, following disclosures of relationships with multiple individuals, including a direct report and another Nvidia employee. The leadership crisis has led the board to name CFO Colette Kress as interim CEO and appoint Harvey Jones as board chair, while drawing scrutiny from US lawmakers and the FBI.</p>
-<p>Nov 13 · <a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50477231">hacker news</a></p>
 <br clear="all" />
 
 ---
