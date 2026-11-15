@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Lucy Pero Releases lucyNES NES Emulator Written in Odin</h2>
+<a name="story-27561"><img src="https://wsrv.nl/?url=https%3A%2F%2Flucypero.com%2Fassets%2Fimages%2Flucynes%2Fsrc_Dn6Bdt7DGO.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Lucy Pero has released lucyNES, a Nintendo Entertainment System emulator written in the Odin programming language. Built over a seven-month period, the project is designed to emulate NES hardware accuracy, handling CPU and PPU synchronization and supporting several common cartridge mappers.</p><p>The emulator includes a debugger view, save states, controller support, and a CRT shader toggle, alongside support for mappers such as NROM, MMC1, UXROM, and MMC3. While the software successfully runs hundreds of games like Battletoads, audio support remains partial and certain mapper implementations are incomplete.</p>
+<p>Nov 15 · <a href="https://lucypero.com/lucynes.html">lucypero.com</a> | <a href="https://lobste.rs/s/dtjgmc/nes_emulator_written_odin">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50506588">hacker news</a></p>
+<br clear="all" />
+
 <h2>Roma Komarov Examines CSS Working Group Decision on Element Cursors</h2>
 <a name="story-27549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-alpha.figma.com%2Fhub%2Ffile%2F2986295081%2F4dd6ac0d-6e5b-463b-8400-df2ace84dc09-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Roma Komarov analyzes a recent CSS Working Group resolution to adopt rules assigning a pointer cursor to interactive elements like buttons and form controls under a base appearance. He supports this direction, arguing that interactive elements should clearly communicate their state rather than defaulting to standard pointing arrows.</p><p>Reflecting on his decade-long advocacy for consistent cursor behavior, Komarov addresses counterarguments about traditional operating system design by noting that modern desktop applications frequently use pointer cursors for interactive items. He concludes that the web ecosystem would benefit from a broader and more communicative range of cursor states.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>History and Decline of Network Equipment Pioneer 3Com</h2>
 <p>Founded in 1979 by Ethernet co-inventor Bob Metcalfe, 3Com grew into a dominant multi-billion-dollar manufacturer of network cards and enterprise equipment during the 1980s and 1990s. The company's long-term decline followed the dotcom bust due to a series of strategic missteps, including temporarily exiting the enterprise networking market, acquiring US Robotics during the shift away from dial-up modems, and losing its market share to cheaper competitors like Intel.</p><p>Hewlett-Packard ultimately acquired 3Com's assets for $2.7 billion in late 2009, folding its hardware into HP's enterprise networking division while phasing out the 3Com brand. Today, vintage 3Com network adapters remain sought-after by retro computing enthusiasts for their build quality, reliability, and robust driver support across historical computing platforms.</p>
 <p>Nov 14 · <a href="https://dfarq.homeip.net/what-happened-to-3com/">dfarq.homeip.net</a> | <a href="https://lobste.rs/s/pgmw6b/what_happened_3com">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50491830">hacker news</a></p>
-<br clear="all" />
-
-<h2>Sable Details New Approach to Link Previews for Matrix Clients</h2>
-<a name="story-27493"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F6020671ce42574016fbb81b8%2F65ca249358f701585369f0a6_link-previews.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sable, an experimental Matrix client, has redesigned how it generates link previews to balance user privacy with client-side functionality. By moving away from centralized server-dependent fetching and introducing client-side generation along with a dedicated open-source library, the project aims to prevent IP address leaks and protect user data in encrypted rooms.</p><p>The team has also developed an OpenGraph extension specification for social media notes and deployed a custom proxy server called Soliditas to handle web client CORS limitations. These developments serve as an experimental testbed to inform broader Matrix protocol standards and improve preview consistency across platforms.</p>
-<p>Nov 14 · <a href="https://sable.moe/en/blog/link-previews-and-you/">sable.moe</a> | <a href="https://lobste.rs/s/0rmq2f/link_previews_you">lobsters</a></p>
 <br clear="all" />
 
 ---
