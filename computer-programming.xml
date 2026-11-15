@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-15T03:52:00+00:00</updated>
+  <updated>2026-11-15T05:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>NetBSD Disk Encryption Guide for Data Secrecy</title>
+    <link href="https://netbsd.org/~nia/disk-encrypt/" rel="alternate" />
+    <id>https://netbsd.org/~nia/disk-encrypt/::v240</id>
+    <published>2026-11-15T05:31:00+00:00</published>
+    <updated>2026-11-15T05:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnetbsd.org%2F~nia%2Fdisk-encrypt%2Finstaller1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://netbsd.org/~nia/disk-encrypt/">netbsd.org</a> | <a href="https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50504277">hacker news</a></small></p><hr/><p>This guide outlines a practical approach to disk encryption on NetBSD to safeguard sensitive user data against theft or loss. By maintaining a small, unencrypted root partition for standard system binaries, users can isolate and encrypt critical directories containing user files, logs, and third-party software.</p><p>The setup process utilizes NetBSD's cryptographic device driver, cgd, alongside either traditional disklabels or modern disk wedges depending on the hardware architecture. The walkthrough covers generating encryption parameters, establishing password verification methods, creating secure sub-partitions, and migrating essential directories to the encrypted file system.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnetbsd.org%2F~nia%2Fdisk-encrypt%2Finstaller1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 13:12 UTC | #27542</small>]]></content>
+  </entry>
   <entry>
     <title>Ian Miell Publishes Family Tree of Software Job Titles</title>
     <link href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/" rel="alternate" />

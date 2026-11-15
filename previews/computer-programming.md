@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>NetBSD Disk Encryption Guide for Data Secrecy</h2>
+<a name="story-27542"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnetbsd.org%2F~nia%2Fdisk-encrypt%2Finstaller1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>This guide outlines a practical approach to disk encryption on NetBSD to safeguard sensitive user data against theft or loss. By maintaining a small, unencrypted root partition for standard system binaries, users can isolate and encrypt critical directories containing user files, logs, and third-party software.</p><p>The setup process utilizes NetBSD's cryptographic device driver, cgd, alongside either traditional disklabels or modern disk wedges depending on the hardware architecture. The walkthrough covers generating encryption parameters, establishing password verification methods, creating secure sub-partitions, and migrating essential directories to the encrypted file system.</p>
+<p>Nov 15 · <a href="https://netbsd.org/~nia/disk-encrypt/">netbsd.org</a> | <a href="https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50504277">hacker news</a></p>
+<br clear="all" />
+
 <h2>Ian Miell Publishes Family Tree of Software Job Titles</h2>
 <a name="story-27540"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fianmiell%2Fsw-job-title-family-tree%2Fmain%2Fjob_title_family_tree.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ian Miell has created an interactive family tree mapping 104 software job titles from the 1940s to the present across seven disciplinary categories. Built using Graphviz and JSON, the visualization tracks how roles have evolved, split, merged, and recycled over decades in the tech industry.</p><p>The project highlights historical patterns such as the changing status of coding from clerical work to creative engineering, the recurring cycles of specialization and generalization, and the short-lived nature of certain modern titles like prompt engineers. Miell notes that these lineages help clarify contemporary distinctions between roles like DevOps engineers, site reliability engineers, and platform engineers.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimpersonally.io%2Fwp-content%2Fuploads%2F2025%2F04%2Fmitad-blog-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An unauthorized domain, mataroa.site, is scraping and re-hosting content from a personal blog. The clone uses watermarked images from the original source and includes a hidden link to a website cloning tool.</p><p>The site also contains meta tags for mitgo.com, an SEO scamming platform. While the author has filed an abuse report with the registrar Namecheap, they noted that Cloudflare's abuse reporting mechanism is currently non-functional.</p>
 <p>Nov 13 · <a href="https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/">mattbee.mataroa.blog</a> | <a href="https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50488664">hacker news</a></p>
-<br clear="all" />
-
-<h2>Probabilistic Data Structures and the Unsure Go Package</h2>
-<a name="story-27473"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lc7g155rm26xl1stv3w.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Probabilistic data structures provide approximate answers to queries about data sets while significantly reducing memory requirements compared to deterministic structures. This article explains the mechanics of Bloom filters, count-min sketches, and HyperLogLog, and introduces unsure, a Go package designed for speed and minimal dependencies.</p><p>The unsure implementation utilizes blocked Bloom filters to improve CPU cache efficiency and employs conservative updates in count-min sketches to reduce estimation errors. Benchmarks indicate that the package provides faster execution and lower memory usage than established alternatives like bits-and-blooms and BoomFilters.</p>
-<p>Nov 13 · <a href="https://antonz.org/probabilistic-data-structures/">antonz.org</a> | <a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50496870">hacker news</a></p>
 <br clear="all" />
 
 ---
