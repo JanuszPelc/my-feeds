@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Judge Denies Dismissal of DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, and Micron</h2>
+<a name="story-27565"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5592755994e2d440a5792%2F41324ccc-4ff2-4dc1-b5cd-3540491f9408%2Fimage_2026-06-29_185601112.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A U.S. federal judge denied a joint motion by Samsung, SK Hynix, and Micron to dismiss a proposed class action accusing the memory manufacturers of conspiring to restrict conventional DRAM supplies. The lawsuit alleges the companies intentionally choked off production of standard memory chips like DDR5 to shift manufacturing capacity toward high bandwidth memory.</p><p>U.S. District Judge Noël Wise ruled that the plaintiffs plausibly alleged an antitrust conspiracy under the Sherman Act, citing plus factors such as long-term HBM lock-ups, refusals to enter long-term conventional DRAM contracts, plant construction delays, and near-identical customer-vetting practices. The court ordered defendants to answer the complaint by December 7, 2026, and scheduled an initial case management conference for January 12, 2027.</p>
+<p>Nov 15 · <a href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal">litnews.ai</a> | <a href="https://news.ycombinator.com/item?id=50502988">hacker news</a></p>
+<br clear="all" />
+
 <h2>Electronic Frontier Foundation and ACLU Ask Appeals Court to Require Warrant for ALPR Searches</h2>
 <p>The Electronic Frontier Foundation and the ACLU have filed an amicus brief in the Sixth Circuit Court of Appeals in United States v. Sturdivant, arguing that law enforcement searches of automated license plate reader (ALPR) databases constitute a "search" under the Fourth Amendment. The brief contends that mass ALPR tracking gives police a virtual time machine into individuals' past movements and should require a warrant.</p><p>The case stems from a series of robberies in Ohio where police identified a suspect's vehicle by running open-ended searches in Flock and ELSAG ALPR databases without a warrant. A lower court previously ruled that the defendant had no reasonable expectation of privacy regarding his license plate number in public, a finding that civil liberties groups are urging the appeals court to overturn.</p>
 <p>Nov 15 · <a href="https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches">eff.org</a> | <a href="https://news.ycombinator.com/item?id=50503255">hacker news</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27353"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa27a4e08-b4d0-4657-9fbc-b27d6f280e6d_870x892.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has confirmed to lawmakers its support for a bipartisan congressional effort to block China's access to advanced artificial intelligence chips and chipmaking equipment. The developer's decision is intended to bolster the likelihood of passing export-related legislation by the end of the year.</p><p>This move comes amid heightened political scrutiny following a scandal involving Nvidia CEO Jensen Huang. OpenAI’s backing adds weight to legislative efforts to curb the transfer of sensitive AI technology to China.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Attorney General Todd Blanche Says DOJ Has Not Concluded Alice Huang Was Chinese Spy</h2>
-<a name="story-27348"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h5MZA.img%3Fw%3D768%26h%3D512%26m%3D6%26x%3D294%26y%3D106%26s%3D125%26d%3D125&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>US Attorney General Todd Blanche stated that the Department of Justice has not reached a conclusion on whether Alice Huang acted as a Chinese spy. Blanche confirmed that the FBI is currently conducting an investigation into the matter.</p><p>The inquiry follows allegations that Huang, a businesswoman associated with Nvidia CEO Jensen Huang, was recruited by China's Ministry of State Security. The probe is examining whether her activities facilitated the acquisition of sensitive artificial intelligence technology by Chinese entities.</p>
-<p>Nov 12 · <a href="https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50476257">hacker news</a></p>
 <br clear="all" />
 
 ---

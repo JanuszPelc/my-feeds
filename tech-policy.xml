@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-15T13:10:00+00:00</updated>
+  <updated>2026-11-15T13:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Judge Denies Dismissal of DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, and Micron</title>
+    <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal" rel="alternate" />
+    <id>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal::v240</id>
+    <published>2026-11-15T13:12:00+00:00</published>
+    <updated>2026-11-15T13:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5592755994e2d440a5792%2F41324ccc-4ff2-4dc1-b5cd-3540491f9408%2Fimage_2026-06-29_185601112.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal">litnews.ai</a> | <a href="https://news.ycombinator.com/item?id=50502988">hacker news</a></small></p><hr/><p>A U.S. federal judge denied a joint motion by Samsung, SK Hynix, and Micron to dismiss a proposed class action accusing the memory manufacturers of conspiring to restrict conventional DRAM supplies. The lawsuit alleges the companies intentionally choked off production of standard memory chips like DDR5 to shift manufacturing capacity toward high bandwidth memory.</p><p>U.S. District Judge Noël Wise ruled that the plaintiffs plausibly alleged an antitrust conspiracy under the Sherman Act, citing plus factors such as long-term HBM lock-ups, refusals to enter long-term conventional DRAM contracts, plant construction delays, and near-identical customer-vetting practices. The court ordered defendants to answer the complaint by December 7, 2026, and scheduled an initial case management conference for January 12, 2027.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5592755994e2d440a5792%2F41324ccc-4ff2-4dc1-b5cd-3540491f9408%2Fimage_2026-06-29_185601112.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 21:25 UTC | #27565</small>]]></content>
+  </entry>
   <entry>
     <title>Electronic Frontier Foundation and ACLU Ask Appeals Court to Require Warrant for ALPR Searches</title>
     <link href="https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches" rel="alternate" />
@@ -415,13 +424,5 @@
     <updated>2026-11-10T23:52:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2026%26image%3Dno_vino&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/">lwn.net</a> | <a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50443824">hacker news</a></small></p><hr/><p>Synaptics has used patent infringement claims to halt the development of Vino, an open-source Rust-based driver for DisplayLink docking stations on Linux. Seeking to improve performance over proprietary vendor software, developer Mike Lothian attempted to reverse-engineer the DisplayLink DL3 protocol. Synaptics issued cease-and-desist notices alleging infringement of a vast patent portfolio and demanded the removal of all related code and public discussion.</p><p>Although Lothian is an Open Invention Network (OIN) licensee, OIN concluded its patent protections do not extend to the specific codecs used in the driver. Consequently, Lothian has taken down the project's GitHub repository to avoid potential litigation. The dispute underscores the ongoing risks for open-source developers implementing proprietary hardware protocols.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2026%26image%3Dno_vino&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 05:33 UTC | #27117</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cubist Accuses Former Analyst of Stealing Code Using AI</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code::v240</id>
-    <published>2026-11-10T21:19:00+00:00</published>
-    <updated>2026-11-10T21:19:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code">bloomberg.com</a></small></p><hr/><p>Cubist, the quantitative trading arm of Point72 Asset Management, has filed a lawsuit alleging a former lead research analyst used AI tools to steal proprietary source code. The complaint claims the analyst utilized Anthropic's Claude and OpenAI's Codex to misappropriate company intellectual property before moving to a competitor.</p><p>The litigation highlights the risks large language models pose to corporate data security in the financial sector. The case examines how generative artificial intelligence can be leveraged to facilitate the unauthorized transfer of sensitive technical assets.</p><hr/><small>11 Nov 2026, 03:12 UTC | #27078</small>]]></content>
   </entry>
 </feed>
