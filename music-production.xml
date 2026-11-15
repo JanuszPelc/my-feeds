@@ -508,21 +508,4 @@
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmbd4-ui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/audioblast-release-mbd4-for-macos-and-windows-vst-au-and-aax-69545?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69545">kvraudio.com</a> | <a href="https://www.audioblast.me/product/mbd4-multiband-distortion-compression/">audioblast.me</a></small></p><hr/><p>Audioblast has released MBD4, a multiband distortion and compression effect plugin designed for macOS and Windows in VST, AU, and AAX formats. Aimed primarily at creative sound design rather than transparent processing, the plugin features four independent adjustable bands.</p><p>Each band includes stereo link compression and a choice of 32 distortion types that can be routed pre- or post-effect. The software also provides 128 factory presets and a resizable user interface, and is available for purchase at 59€.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmbd4-ui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 17:04 UTC | #27006</small>]]></content>
   </entry>
-  <entry>
-    <title>The Midnight Discusses Studio Gear and Production on My Forever Studio Podcast</title>
-    <link href="https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/" rel="alternate" />
-    <id>https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/::v240</id>
-    <published>2026-11-10T10:51:00+00:00</published>
-    <updated>2026-11-10T10:51:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmfs-ep-8-midnight-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/shows/podcasts/my-forever-studio/the-midnight/">musictech.com</a></small></p><hr/><p>Synthwave duo The Midnight, consisting of Tyler Lyle and Tim McEwan, appears on episode 91 of the *My Forever Studio* podcast. The guests discuss their essential analogue synthesizers, microphones, and the items they would include in a permanent studio setup.</p><p>The episode explores how the duo handles remote collaboration across the United States and their balance of hardware and software production. They also highlight the specific affordable plugins used to achieve their signature retro-futuristic production style.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmfs-ep-8-midnight-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>10 Nov 2026, 16:04 UTC | #27000</small>]]></content>
-  </entry>
-  <entry>
-    <title>DJW Audio Releases Free DW-303 Bass Synthesizer Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/::v240</id>
-    <published>2026-11-10T10:50:00+00:00</published>
-    <updated>2026-11-10T10:50:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/">bedroomproducersblog.com</a> | <a href="https://djwaudio.co/#dw-303">djwaudio.co</a></small></p><hr/><p>DJW Audio has released DW-303, a free, open-source TB-303-style bass synthesizer and step sequencer available for macOS, Windows, and Linux. The instrument models the original hardware's oscillator, filter, envelopes, accent, and slide circuits based on schematic analysis and hardware measurements.</p><p>The plugin features a 16-step hardware-style sequencer supporting pattern chaining, MIDI clock synchronization, and a standalone application mode that accepts MIDI input. It is distributed in VST3, CLAP, AU, AAX, and LV2 formats across supported platforms, requiring no license key or activation.</p><hr/><small>10 Nov 2026, 16:03 UTC | #27005</small>]]></content>
-  </entry>
 </feed>

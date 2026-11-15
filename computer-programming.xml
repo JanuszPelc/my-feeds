@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-15T03:48:00+00:00</updated>
+  <updated>2026-11-15T03:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ben Visness Introduces Periodic-Oriented Programming for FIRST Robotics</title>
+    <link href="https://bvisness.me/periodic-oriented-programming/" rel="alternate" />
+    <id>https://bvisness.me/periodic-oriented-programming/::v240</id>
+    <published>2026-11-15T03:50:00+00:00</published>
+    <updated>2026-11-15T03:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6bae7b_d79aa116570a4b178ab78b48612b6087~mv2.jpg%2Fv1%2Ffill%2Fw_489%2Ch_326%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2FIMG_8050_JPG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bvisness.me/periodic-oriented-programming/">bvisness.me</a> | <a href="https://lobste.rs/s/bwjt1b/periodic_oriented_programming_for_first">lobsters</a></small></p><hr/><p>After seventeen years of involvement with the FIRST Robotics Competition, veteran mentor Ben Visness has published an essay introducing "Periodic-Oriented Programming," a software development philosophy aimed at reducing overengineering in student robotics. The framework encourages writing most robot logic top-to-bottom within a single periodic function using minimal abstractions and centralized hardware subsystems.</p><p>Visness sharply criticizes WPILib's standard command-based programming model, arguing that its hidden state and fragmented structure lead to unnecessary debugging challenges during competitions. The alternative approach prioritizes minimizing global state, avoiding timers and autonomous modes, and executing deterministic behavior through continuous periodic updates to ensure robust and maintainable code.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6bae7b_d79aa116570a4b178ab78b48612b6087~mv2.jpg%2Fv1%2Ffill%2Fw_489%2Ch_326%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2FIMG_8050_JPG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 10:53 UTC | #27539</small>]]></content>
+  </entry>
   <entry>
     <title>Daniel Holmgren Details Design and Motivation Behind Atproto Spaces</title>
     <link href="https://dholms.leaflet.pub/3mu3p3ldwrc26" rel="alternate" />
