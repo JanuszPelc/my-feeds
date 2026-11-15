@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Roma Komarov Examines CSS Working Group Decision on Element Cursors</h2>
+<a name="story-27549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-alpha.figma.com%2Fhub%2Ffile%2F2986295081%2F4dd6ac0d-6e5b-463b-8400-df2ace84dc09-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Roma Komarov analyzes a recent CSS Working Group resolution to adopt rules assigning a pointer cursor to interactive elements like buttons and form controls under a base appearance. He supports this direction, arguing that interactive elements should clearly communicate their state rather than defaulting to standard pointing arrows.</p><p>Reflecting on his decade-long advocacy for consistent cursor behavior, Komarov addresses counterarguments about traditional operating system design by noting that modern desktop applications frequently use pointer cursors for interactive items. He concludes that the web ecosystem would benefit from a broader and more communicative range of cursor states.</p>
+<p>Nov 15 · <a href="https://blog.kizu.dev/cursors/">blog.kizu.dev</a> | <a href="https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons">lobsters</a></p>
+<br clear="all" />
+
 <h2>Exploration of Anthropomorphic Software and Personified Error Messages</h2>
 <a name="story-27545"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fanthropomorphic-software-lock-struggles-tangled-wires-presented-as-anthropomorphic-software-lock-struggles-tangled-396688394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software and command-line tools occasionally feature personified or first-person copy, a stylistic choice known as anthropomorphic software. Examples range from Git error messages and changelogs that speak in the first person to the Elm programming language's detailed conversational compiler errors and sudo's optional insult feature.</p><p>While mostly deployed for whimsy rather than functional user experience improvements, such playful phrasing contrasts with strict interface guidelines like Apple's, which advise against casual exclamation or personification in errors. Although large language models represent a more advanced iteration of conversational interaction, traditional utilities demonstrate a long-standing history of programmed personality.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27493"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F6020671ce42574016fbb81b8%2F65ca249358f701585369f0a6_link-previews.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sable, an experimental Matrix client, has redesigned how it generates link previews to balance user privacy with client-side functionality. By moving away from centralized server-dependent fetching and introducing client-side generation along with a dedicated open-source library, the project aims to prevent IP address leaks and protect user data in encrypted rooms.</p><p>The team has also developed an OpenGraph extension specification for social media notes and deployed a custom proxy server called Soliditas to handle web client CORS limitations. These developments serve as an experimental testbed to inform broader Matrix protocol standards and improve preview consistency across platforms.</p>
 <p>Nov 14 · <a href="https://sable.moe/en/blog/link-previews-and-you/">sable.moe</a> | <a href="https://lobste.rs/s/0rmq2f/link_previews_you">lobsters</a></p>
-<br clear="all" />
-
-<h2>Alistair Details Fix for WebKit Promise Hang Bug in Safari and Bun</h2>
-<a name="story-27490"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.lavx.hu%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnews.lavx.hu%2Fapi%2Fmedia%2Ffile%2Fa-16-line-webkit-fix-ended-a-promise-hang-in-safari-and-bun_gen_1794644801061-1200x630.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An engineering analysis details a WebKit bug causing JavaScript promises to hang indefinitely in Safari and Bun when resolving a thenable whose constructor species getter throws an error. JavaScriptCore performed species lookups before creating resolving functions, allowing exceptions to escape and leaving promises permanently pending.</p><p>A 16-line patch resolves the issue by instantiating the resolve and reject functions prior to evaluating the thenable's `.then()` method, ensuring thrown errors correctly trigger promise rejections. The investigation also explores how JavaScript promise mechanics compare to railway-oriented programming and why TypeScript cannot statically type rejection values.</p>
-<p>Nov 14 · <a href="https://alistair.sh/thenables">alistair.sh</a> | <a href="https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made">lobsters</a></p>
 <br clear="all" />
 
 ---

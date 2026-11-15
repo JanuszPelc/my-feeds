@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-15T08:06:00+00:00</updated>
+  <updated>2026-11-15T09:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Roma Komarov Examines CSS Working Group Decision on Element Cursors</title>
+    <link href="https://blog.kizu.dev/cursors/" rel="alternate" />
+    <id>https://blog.kizu.dev/cursors/::v240</id>
+    <published>2026-11-15T09:16:00+00:00</published>
+    <updated>2026-11-15T09:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs3-alpha.figma.com%2Fhub%2Ffile%2F2986295081%2F4dd6ac0d-6e5b-463b-8400-df2ace84dc09-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.kizu.dev/cursors/">blog.kizu.dev</a> | <a href="https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons">lobsters</a></small></p><hr/><p>Roma Komarov analyzes a recent CSS Working Group resolution to adopt rules assigning a pointer cursor to interactive elements like buttons and form controls under a base appearance. He supports this direction, arguing that interactive elements should clearly communicate their state rather than defaulting to standard pointing arrows.</p><p>Reflecting on his decade-long advocacy for consistent cursor behavior, Komarov addresses counterarguments about traditional operating system design by noting that modern desktop applications frequently use pointer cursors for interactive items. He concludes that the web ecosystem would benefit from a broader and more communicative range of cursor states.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-alpha.figma.com%2Fhub%2Ffile%2F2986295081%2F4dd6ac0d-6e5b-463b-8400-df2ace84dc09-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 16:47 UTC | #27549</small>]]></content>
+  </entry>
   <entry>
     <title>Exploration of Anthropomorphic Software and Personified Error Messages</title>
     <link href="https://aspiz.uk/wiki/AnthropomorphicSoftware" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nebuly Raises $21 Million Series A to Measure AI Business Value</h2>
+<a name="story-27531"><img src="https://wsrv.nl/?url=https%3A%2F%2Fobject.pomegra.io%2Fpublic%2Fstartups-2026-11-13-nebuly-raises-21m-series-a-to-measure-enterprise-a-05.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nebuly, an enterprise AI analytics platform, has raised $21 million in a Series A funding round led by Planven. The company provides tools to help organizations measure the business value and return on investment of their deployed AI agents, moving beyond simple usage metrics like prompt and token counts.</p><p>As businesses increasingly integrate AI models from multiple providers or custom solutions, leaders face pressure to justify these investments with concrete operational and financial data. Nebuly's platform integrates with existing enterprise systems—such as ChatGPT, Claude, and Microsoft Copilot—to analyze agent behavior and calculate efficiency gains or revenue impacts, with the new capital supporting team expansion in the US and Europe.</p>
+<p>Nov 15 · <a href="https://tech.eu/2026/11/12/nebuly-raises-21m-series-a-to-turn-ai-investments-into-measurable-results/">tech.eu</a></p>
+<br clear="all" />
+
 <h2>Former Nvidia CEO Jensen Huang Faced Accusations of Workplace Outbursts and Intimidation</h2>
 <a name="story-27529"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-ending-33-year-run-148472263.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Former Nvidia CEO Jensen Huang reportedly subjected company executives and employees to severe verbal abuse and intimidation during his tenure, according to internal sources. Accounts describe multiple instances of aggressive behavior, including public outbursts during executive meetings and clashes with top leadership.</p><p>The reports surrounding Huang's management style emerged following his resignation amid a scandal involving undisclosed relationships and export control scrutiny. Chief Financial Officer Colette Kress has stepped in as interim CEO while the board seeks a permanent successor.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27432"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F04%2FGettyImages-2267044457-e1777736992257.jpg%3Fw%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has barred institutional investors located in mainland China and Hong Kong from participating in its initial public offering. The restriction is reportedly driven in part by United States arms export regulations.</p><p>The move follows similar measures implemented for SpaceX and highlights growing geopolitical tensions regarding the global distribution of advanced artificial intelligence technology.</p>
 <p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Board Approaches Arm CEO Rene Haas as Potential Successor to Jensen Huang</h2>
-<a name="story-27433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia's board of directors has approached Arm chief executive Rene Haas as part of its search for a potential successor to Jensen Huang. People familiar with the matter indicate that the head of the SoftBank-owned UK semiconductor group was sounded out regarding the leadership role.</p><p>Haas previously worked at Nvidia for more than a decade before moving to Arm, where he has successfully steered the company through its public listing and subsequent expansion. The inquiry highlights long-term succession planning considerations at the world's leading artificial intelligence chipmaker.</p>
-<p>Nov 13 · <a href="https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50486489">hacker news</a></p>
 <br clear="all" />
 
 ---
