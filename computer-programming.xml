@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-15T03:50:00+00:00</updated>
+  <updated>2026-11-15T03:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ian Miell Publishes Family Tree of Software Job Titles</title>
+    <link href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/" rel="alternate" />
+    <id>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/::v240</id>
+    <published>2026-11-15T03:52:00+00:00</published>
+    <updated>2026-11-15T03:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fianmiell%2Fsw-job-title-family-tree%2Fmain%2Fjob_title_family_tree.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/">zwischenzugs.com</a> | <a href="https://news.ycombinator.com/item?id=50499038">hacker news</a></small></p><hr/><p>Ian Miell has created an interactive family tree mapping 104 software job titles from the 1940s to the present across seven disciplinary categories. Built using Graphviz and JSON, the visualization tracks how roles have evolved, split, merged, and recycled over decades in the tech industry.</p><p>The project highlights historical patterns such as the changing status of coding from clerical work to creative engineering, the recurring cycles of specialization and generalization, and the short-lived nature of certain modern titles like prompt engineers. Miell notes that these lineages help clarify contemporary distinctions between roles like DevOps engineers, site reliability engineers, and platform engineers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fianmiell%2Fsw-job-title-family-tree%2Fmain%2Fjob_title_family_tree.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 11:37 UTC | #27540</small>]]></content>
+  </entry>
   <entry>
     <title>Ben Visness Introduces Periodic-Oriented Programming for FIRST Robotics</title>
     <link href="https://bvisness.me/periodic-oriented-programming/" rel="alternate" />
