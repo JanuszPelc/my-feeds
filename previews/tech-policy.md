@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Elon Musk and Other Tech Executives Sign Petition Calling on Nvidia to Reinstate Jensen Huang</h2>
+<a name="story-27514"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F05%2FGettyImages-2216028442.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An independent petition calling on Nvidia to reinstate recently ousted CEO Jensen Huang has garnered over 115,000 signatures, including thousands from current and former employees and shareholders. Notable tech executives, such as Tesla and SpaceX CEO Elon Musk, Replit CEO Amjad Masad, and Epic Games CEO Tim Sweeney, have added their support to the open letter.</p><p>The petition demands that Nvidia's board bring Huang back pending an independent investigation, arguing he was removed without proper due process. Huang resigned following disclosures regarding personal relationships, including an admission to a relationship with an individual identified by U.S. intelligence as a suspected Chinese spy, while CFO Colette Kress has taken over as interim CEO.</p>
+<p>Nov 14 · <a href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/">techcrunch.com</a> | <a href="https://standwithjensen.com/">standwithjensen.com</a> | <a href="https://news.ycombinator.com/item?id=50491690">hacker news</a></p>
+<br clear="all" />
+
 <h2>Electronic Frontier Foundation Warns Wearable Recording Devices Threaten Bystander Privacy</h2>
 <a name="story-27519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adams.africa%2Fwp-content%2Fuploads%2F2025%2F02%2FADA_250129_24131-POPIA-article_Web-Article.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The proliferation of ambient surveillance wearables—including smart glasses from Meta and Google, transcription-enabled watches from Apple, and recording hardware from Amazon—is shifting the concept of privacy away from individual choice toward unavoidable background monitoring. These devices capture continuous audio, video, or data throughout the day, effectively implicating everyone in a user's vicinity regardless of their consent.</p><p>While technology companies offer various technical safeguards and privacy controls, these measures exclusively protect the device owner and leave bystanders without practical ways to opt out. This normalization of passive recording undermines longstanding social norms regarding conversational privacy and places an unreasonable burden on individuals to navigate a physical landscape saturated with hidden recording technology.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27335"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.zonebourse.com%2Fstatic%2Fresize%2F0%2F0%2Fimages%2Freuters%2F2026-11%2F2026-11-12T172844Z_1_LYNXNPEMAB1Z4_RTROPTP_4_G20-TECHNOLOGY.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Senior White House officials are discussing whether to remove Commerce Secretary Howard Lutnick from office following a spying scandal involving former Nvidia CEO Jensen Huang.</p><p>The White House and the Commerce Department have not issued official statements regarding Lutnick's status in response to the reports.</p>
 <p>Nov 12 · <a href="https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>US Justice Department Probes Nvidia for Antitrust Violations</h2>
-<a name="story-27308"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2024%2F09%2F04%2Fa82f761a-75d3-4337-b033-05dfea16b436_f60200c9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Federal authorities have launched an antitrust investigation into Nvidia following the resignation of former CEO Jensen Huang. Two other inquiries are currently targeting the tech companies Megaspeed and Supermicro.</p><p>These probes are linked to the fallout from Huang’s admitted affair with Alice Huang, an alleged Chinese spy. There is currently no indication that the DOJ intends to seek criminal charges against Nvidia or Huang.</p>
-<p>Nov 12 · <a href="https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia">semafor.com</a></p>
 <br clear="all" />
 
 ---

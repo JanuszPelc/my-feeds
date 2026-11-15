@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-14T13:01:00+00:00</updated>
+  <updated>2026-11-14T20:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Andrew Gelman on Why Statistics Classes Depend on the Instructor</title>
+    <link href="https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/" rel="alternate" />
+    <id>https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/::v240</id>
+    <published>2026-11-14T20:09:00+00:00</published>
+    <updated>2026-11-14T20:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.numerade.com%2Fask_images%2Febbc13a29fc14b338f09abee1a87c1e1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/">statmodeling.stat.columbia.edu</a> | <a href="https://lobste.rs/s/j4sj0c/when_is_class_commodity_when_does_it">lobsters</a></small></p><hr/><p>Statistician Andrew Gelman discusses why certain academic courses function as standardized commodities while others vary significantly depending on who is teaching them. He notes that while foundational math and physics classes generally cover the same core material regardless of instructor, subjects like statistics, history, and literature change substantially in both content and style from teacher to teacher.</p><p>Gelman explains that students often mistakenly view university statistics courses as a uniform collection of topics rather than specialized material shaped by the instructor's unique perspective and textbooks. This variability makes working with a specific researcher difficult for students who have not first taken that instructor's class to understand their approach.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.numerade.com%2Fask_images%2Febbc13a29fc14b338f09abee1a87c1e1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 02:49 UTC | #27525</small>]]></content>
+  </entry>
   <entry>
     <title>Study Examines Primate Brain Activity and Visual Processing During Movie Watching</title>
     <link href="https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/" rel="alternate" />
