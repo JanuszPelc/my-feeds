@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>SK Hynix and South Korean Government Plan $654 Million Chip Testing Facility</h2>
+<p>SK Hynix and the South Korean government are partnering to construct Trinity Fab, a $654 million chip testing facility designed to allow smaller suppliers to test products on 12-inch wafers.</p><p>The initiative aims to strengthen the domestic semiconductor ecosystem by providing smaller local players with access to advanced testing infrastructure that is often cost-prohibitive. The facility is expected to enhance South Korea's overall competitiveness in the global chip manufacturing sector.</p>
+<p>Nov 16 · <a href="https://www.bloomberg.com/news/articles/2026-11-16/sk-hynix-plans-chip-testing-hub-to-boost-smaller-korean-players">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>SK Hynix Plans $1.05 Billion Investment to Support Domestic Chip Suppliers</h2>
 <a name="story-27576"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.brookings.edu%2Fwp-content%2Fuploads%2F2022%2F04%2F2022-03-30T093652Z_1260996976_RC2ZQS9SMX6H_RTRMADP_3_SK-HYNIX-INVESTMENT-ARM.jpg%3Fquality%3D75%26w%3D1500&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>South Korean chipmaker SK Hynix announced plans to spend 1.4 trillion won, equivalent to approximately $1.05 billion, over a five-year period to support domestic suppliers of chip materials, parts, and equipment. The initiative is designed to strengthen the company's domestic supply chain.</p><p>The investment underscores ongoing efforts by major semiconductor manufacturers to bolster local supplier ecosystems and enhance supply chain resilience amid global market shifts and increasing demand for advanced memory chips.</p>
@@ -87,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A report from The Wall Street Journal alleges that Nvidia artificially inflated the shortage of GPUs and memory by investing in AI startups that subsequently purchased Nvidia hardware to build data centers. The strategy was reportedly intended to maintain high demand perceptions and absorb an oversupply of semiconductors manufactured by TSMC.</p><p>The report highlights internal friction between former Nvidia CEO Jensen Huang and CFO Colette Kress over circular financing agreements and commitments to small-scale cloud providers. These investments faced challenges as hyperscalers increasingly shifted toward custom silicon solutions and smaller startups struggled to afford the hardware.</p>
 <p>Nov 14 · <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">techpowerup.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50493251">hacker news</a></p>
-<br clear="all" />
-
-<h2>Sam Bankman-Fried Misses Multi-Billion-Dollar Anthropic Windfall</h2>
-<a name="story-27470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ccn.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fsam-bankman-blocked-ftx-anthropic-ai-investment-prosecutors-worried.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jailed former FTX chief executive Sam Bankman-Fried missed out on a massive financial windfall from his early backing of artificial intelligence lab Anthropic. Through Alameda Research, he invested $500 million in 2021 for a nearly 14 percent stake when Anthropic was valued at approximately $4 billion.</p><p>That stake would have been worth roughly $37 billion had Anthropic listed at a projected $1.5 trillion valuation. However, following the collapse of FTX, the bankrupt crypto exchange's estate relinquished the stake in 2024 for about $1.3 billion to help repay creditors.</p>
-<p>Nov 14 · <a href="https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&sharetype=gift&token=b0dedc93-80dc-4cab-9250-cec64180d7fc&syn-25a6b1a6=1">ft.com</a></p>
 <br clear="all" />
 
 ---
