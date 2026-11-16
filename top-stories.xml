@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-16T00:36:00+00:00</updated>
+  <updated>2026-11-16T00:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Electronic Frontier Foundation Warns Wearable Recording Devices Threaten Bystander Privacy</title>
+    <link href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again" rel="alternate" />
+    <id>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again::v240</id>
+    <published>2026-11-16T00:58:00+00:00</published>
+    <updated>2026-11-16T00:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.adams.africa%2Fwp-content%2Fuploads%2F2025%2F02%2FADA_250129_24131-POPIA-article_Web-Article.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again">eff.org</a> | <a href="https://news.ycombinator.com/item?id=50496602">hacker news</a></small></p><hr/><p>The proliferation of ambient surveillance wearables—including smart glasses from Meta and Google, transcription-enabled watches from Apple, and recording hardware from Amazon—is shifting the concept of privacy away from individual choice toward unavoidable background monitoring. These devices capture continuous audio, video, or data throughout the day, effectively implicating everyone in a user's vicinity regardless of their consent.</p><p>While technology companies offer various technical safeguards and privacy controls, these measures exclusively protect the device owner and leave bystanders without practical ways to opt out. This normalization of passive recording undermines longstanding social norms regarding conversational privacy and places an unreasonable burden on individuals to navigate a physical landscape saturated with hidden recording technology.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adams.africa%2Fwp-content%2Fuploads%2F2025%2F02%2FADA_250129_24131-POPIA-article_Web-Article.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 00:05 UTC | #27519 | h,dtr</small>]]></content>
+  </entry>
   <entry>
     <title>Jakub T. Jankiewicz Argues All AI-Generated Code Should Be Open Source</title>
     <link href="https://jakub.jankiewicz.org/blog/ai-code-open-source/" rel="alternate" />
