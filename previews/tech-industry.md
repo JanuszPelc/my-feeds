@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Jensen Huang Discusses Potential Return as Nvidia CEO</h2>
+<a name="story-27558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jensen Huang has held discussions regarding a potential comeback as Nvidia's chief executive. Supporters are reportedly organizing a "war room" to lobby the company's board for his reinstatement and are seeking support from the White House.</p><p>His resignation followed reports of extramarital affairs, including one with an alleged Chinese spy. The push for his return comes as the company and its allies attempt to manage the political and corporate fallout from the scandal.</p>
+<p>Nov 15 · <a href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b&syn-25a6b1a6=1">ft.com</a></p>
+<br clear="all" />
+
 <h2>Saturday Night Live Features Tech Tycoons in Sketch on Dating and Spycraft</h2>
 <p>Saturday Night Live aired a sketch featuring impressions of prominent technology executives, including Peter Thiel, Sam Altman, Dario Amodei, Elon Musk, Mark Zuckerberg, and Jensen Huang. Hosted by John Mulaney, the sketch portrayed a CIA agent instructing the tech leaders on how to avoid being targeted by romantic spies.</p><p>The segment leveraged recent industry events, including Jensen Huang's departure from Nvidia following an affair with a suspected spy, as well as recent technical disruptions involving Microsoft and flight groundings. The performance highlights the cultural shift of tech executives moving from relative obscurity to immense global wealth and power.</p>
 <p>Nov 15 · <a href="https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/">techcrunch.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27483"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F18c8db5d0f1a7e56a691a918ca1f72f6176525496bd6b68fe2322a2d8fb64701%2Flightyear_networkapi%2Fresizefill_w960%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2F4fce1c9e7e739072768361ea4289999c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Six pallets of NVIDIA hardware worth an estimated $11.4 million disappeared during a shipment from Oakland, California, to Fort Worth, Texas. The Oakland Police Department is investigating the incident as a grand theft following a complaint filed in September 2026. The vehicle, which displayed a food transportation company's logo, reportedly made several extended stops in Southern California before investigators lost its trail in San Bernardino County.</p><p>This incident follows a series of high-value technology cargo thefts, including previous NVIDIA-related burglaries in Northern California totaling over $7.5 million. Authorities have not yet confirmed the specific contents of the pallets or identified the carrier, driver, or the owner of the stolen cargo.</p>
 <p>Nov 13 · <a href="https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas">freightwaves.com</a> | <a href="https://news.ycombinator.com/item?id=50487864">hacker news</a></p>
-<br clear="all" />
-
-<h2>Meta Testing Internal Prediction-Market App Called Takes</h2>
-<a name="story-27445"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.squaredtech.co%2Fwp-content%2Fuploads%2F2026%2F06%2Fsquaredtech-22f0f7e8-metas-new-prediction-market-app-arena-takes-aim-at-696x464.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta is testing a prediction-market application called "Takes" with its employees. The app allows users to wager on the outcomes of questions or events using a virtual currency known as "cred" rather than real money.</p><p>The application is currently in an internal testing phase focused on exploring event-based wagering mechanics.</p>
-<p>Nov 13 · <a href="https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50491375">hacker news</a></p>
 <br clear="all" />
 
 ---
