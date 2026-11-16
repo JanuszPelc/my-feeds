@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Howard Lutnick to Join Trump on China Trip Amid Scrutiny Over Chip Controls</h2>
+<a name="story-27550"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthehill.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F05%2FAP25128745110811-e1746880940821.jpg%3Fw%3D1280%26h%3D720%26crop%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Commerce Secretary Howard Lutnick is scheduled to travel to China on Air Force One with President Donald Trump as he faces mounting political pressure over AI export controls. Lutnick has drawn sharp criticism from administration officials for allegedly slow-walking restrictions on advanced chip exports and maintaining close ties to former Nvidia executive Jensen Huang.</p><p>Republicans and Treasury officials have accused Lutnick of permitting regulatory loopholes that enabled indirect chip sales to China and giving Nvidia undue influence over industry policymaking. Despite calls for his removal and scrutiny surrounding chip smuggling investigations tied to an Nvidia customer, the White House has expressed continued confidence in him, and his presence on the presidential delegation indicates he retains his post ahead of meetings with foreign leaders.</p>
+<p>Nov 15 · <a href="https://www.semafor.com/article/11/15/2026/under-pressure-lutnick-joins-trump-in-china">semafor.com</a></p>
+<br clear="all" />
+
 <h2>Scott Bessent Calls for Nvidia Leadership Shakeup Following Jensen Huang&#x27;s Ouster</h2>
 <a name="story-27546"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US Treasury Secretary Scott Bessent stated that Nvidia Corp. requires a dramatic leadership overhaul following the ouster of chief executive Jensen Huang. He also demanded answers within ten days regarding whether the company pushed seemingly illicit chip sales to China to artificially boost revenue.</p><p>The remarks highlight intensifying scrutiny over Nvidia's corporate governance and compliance with export controls following major executive changes. The demands place additional pressure on the chipmaker as it navigates both leadership transition and regulatory probes into its market practices.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27442"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-36585149%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia is accused of using aggressive lobbying and deceptive claims to influence AI chip export policies. Former government and congressional staffers allege the company falsely argued that chip location verification technology was technically unfeasible to block provisions in the 2025 Chip Security Act, despite having already developed the feature for its upcoming chip generation.</p><p>This conduct has allegedly contributed to an "intense trust deficit" between the company and Washington. Nvidia also faces scrutiny for allegedly undercounting chip sales to China, with reports suggesting billions of dollars in chips may have been sold to entities linked to Chinese intelligence.</p>
 <p>Nov 13 · <a href="https://www.semafor.com/article/11/13/2026/how-nvidias-jensen-huang-and-trump-jumped-the-guardrails">semafor.com</a></p>
-<br clear="all" />
-
-<h2>Reuters Review Identifies Over $3.2 Billion in Chinese AI Projects Reliant on Restricted Nvidia GPUs</h2>
-<a name="story-27401"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1S0Hhs.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A review of Chinese contracts and disclosures by Reuters has identified more than $3.2 billion in artificial intelligence compute projects that rely on Nvidia graphics processing units restricted by U.S. export controls. These built and planned data-centre initiatives underscore China's continued reliance on advanced American hardware despite tightening trade curbs.</p><p>The findings emerge amid heightened regulatory scrutiny and the recent departure of Nvidia CEO Jensen Huang, highlighting the vulnerabilities facing cross-border technology supply chains. Although Nvidia has stated that U.S. restrictions effectively shut it out of China's AI market, the documented projects demonstrate the extensive integration of restricted chips within Chinese infrastructure.</p>
-<p>Nov 13 · <a href="https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/">reuters.com</a></p>
 <br clear="all" />
 
 ---
