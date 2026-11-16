@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Megaspeed Conducts Internal Probe and Confirms Alice Huang Left in 2025</h2>
+<a name="story-27560"><img src="https://wsrv.nl/?url=https%3A%2F%2Falicecwhuang.github.io%2Fimg%2Fprofile.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Singapore-based cloud computing company Megaspeed International announced an internal investigation led by outside lawyers amid ongoing fallout surrounding Chinese businesswoman Alice Huang. The company stated that Huang left her role in August 2025 and currently holds no position within the organization.</p><p>Megaspeed has faced scrutiny from U.S. and Singapore authorities over allegations that it circumvented export restrictions to route advanced Nvidia chips to Chinese companies. The scrutiny and reports regarding Huang's relationship with former Nvidia CEO Jensen Huang previously prompted his resignation, while U.S. and Singapore officials continue examining compliance and security matters.</p>
+<p>Nov 15 · <a href="https://apnews.com/article/singapore-megaspeed-alice-huang-nvidia-probe-e9e2e18169dce0b30a34f39715bf35ed">apnews.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Sought Taipei&#x27;s Help Over Employee&#x27;s Chip Smuggling Case</h2>
 <a name="story-27557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F14%2Fmultimedia%2F14dc-lutnick-commerce-01-bqtl%2F14dc-lutnick-commerce-01-bqtl-facebookJumbo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia Corp. appealed to Taiwanese officials and sought advice from TSMC after prosecutors accused a company manager of helping smuggle advanced artificial intelligence chips into China. TSMC ultimately declined to get involved in the matter, leaving Nvidia to navigate the legal and diplomatic fallout independently.</p><p>The development underscores the intense regulatory and geopolitical scrutiny surrounding the illicit transfer of restricted semiconductor technology to China. Taiwan remains a critical focal point for export controls, given its central role in global chip manufacturing and the strict enforcement measures adopted by authorities against unauthorized transshipments.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27465"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.defensepriorities.org%2Fwp-content%2Fuploads%2F2026%2F05%2F55271247042_1beac31549_o-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>U.S. officials stated that President Donald Trump does not plan to raise allegations of a Chinese intelligence operation involving former Nvidia CEO Jensen Huang during his upcoming meeting with Chinese President Xi Jinping. Discussions in Shenzhen, China, will instead focus on the implementation of trade agreements, with officials emphasizing that American export controls are not up for negotiation.</p><p>Elon Musk is scheduled to accompany Trump on the trip for the APEC summit, alongside plans for a three-way meeting between Trump, Xi, and Russian President Vladimir Putin. The intelligence controversy follows Huang's recent resignation amid reports regarding his relationship with a former executive at a cloud-computing company suspected of diverting restricted Nvidia chips to China.</p>
 <p>Nov 14 · <a href="https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html">cnbc.com</a></p>
-<br clear="all" />
-
-<h2>FAA Lifts Nationwide Ground Stop Following Air Traffic Control System Outage</h2>
-<a name="story-27488"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.republicworld.com%2Fall_images%2F2026%2F11%2Fus-lifts-nationwide-faa-ground-stop-after-telecom-outage-duffy-cites-ageing-system-1794627145670-1280x720.webp%3Fw%3D1280%26h%3D720%26q%3D75%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Federal Aviation Administration ordered a nationwide ground stop for departing flights that lasted more than four hours, halting U.S. air traffic, canceling thousands of flights, and stranding passengers at airports across the country.</p><p>Transportation Secretary Sean Duffy attributed the disruption to an overloaded data router within legacy air traffic control equipment, which caused radar and communication instability. Officials stated there was no evidence of a cyberattack, and major airlines resumed operations as the airspace gradually recovered.</p>
-<p>Nov 14 · <a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">nbcnews.com</a> | <a href="https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop">faa.gov</a> | <a href="https://news.ycombinator.com/item?id=50489641">hacker news</a></p>
 <br clear="all" />
 
 ---

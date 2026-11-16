@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-15T23:33:00+00:00</updated>
+  <updated>2026-11-15T23:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Megaspeed Conducts Internal Probe and Confirms Alice Huang Left in 2025</title>
+    <link href="https://apnews.com/article/singapore-megaspeed-alice-huang-nvidia-probe-e9e2e18169dce0b30a34f39715bf35ed" rel="alternate" />
+    <id>https://apnews.com/article/singapore-megaspeed-alice-huang-nvidia-probe-e9e2e18169dce0b30a34f39715bf35ed::v240</id>
+    <published>2026-11-15T23:35:00+00:00</published>
+    <updated>2026-11-15T23:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Falicecwhuang.github.io%2Fimg%2Fprofile.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://apnews.com/article/singapore-megaspeed-alice-huang-nvidia-probe-e9e2e18169dce0b30a34f39715bf35ed">apnews.com</a></small></p><hr/><p>Singapore-based cloud computing company Megaspeed International announced an internal investigation led by outside lawyers amid ongoing fallout surrounding Chinese businesswoman Alice Huang. The company stated that Huang left her role in August 2025 and currently holds no position within the organization.</p><p>Megaspeed has faced scrutiny from U.S. and Singapore authorities over allegations that it circumvented export restrictions to route advanced Nvidia chips to Chinese companies. The scrutiny and reports regarding Huang's relationship with former Nvidia CEO Jensen Huang previously prompted his resignation, while U.S. and Singapore officials continue examining compliance and security matters.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Falicecwhuang.github.io%2Fimg%2Fprofile.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 06:06 UTC | #27560</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Sought Taipei's Help Over Employee's Chip Smuggling Case</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case" rel="alternate" />
