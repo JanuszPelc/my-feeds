@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Apple Expands Video Podcasts to Apple TV App</h2>
+<a name="story-27619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F16%2Fbusiness%2F16BIZ-APPLE-PODCASTS-2%2F16BIZ-APPLE-PODCASTS-2-articleLarge.png%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple is introducing a dedicated video podcasts section to the Apple TV app, making video content free to all users across more than one billion devices including smart TVs and Rokus. The move expands upon the video features introduced in its core Podcasts app earlier in the year as the company attempts to close the gap with competitors like YouTube and Spotify in the growing video podcast market.</p><p>Although Apple helped pioneer the modern podcasting ecosystem, platforms such as YouTube and Spotify have surpassed it in weekly U.S. audience rankings in recent years. Industry researchers note that the Apple TV integration addresses long-standing demand from creators and consumers who increasingly favor video-based shows and short social media clips for content discovery.</p>
+<p>Nov 16 · <a href="https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html?unlocked_article_code=1.Q1E.xu1z.aQGKo_cvhI1L&smid=url-share">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Unity Launches Fellowship Program for Independent Developers</h2>
 <a name="story-27632"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2FEc7_OhUxbRaSDsBPPauST7HqK0rkyBYY6EjqKX_MLAGqn6RnfnW2glqOsCVy7XozDftiVmLJHnVdSd1_mdagLd2CBvI-oAJkXYemgb4pIG2G56SNNB6ScdsZ0g&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unity has introduced the "Unity Fellowship," a program designed to support independent game developers through the final stages of their development. Ten selected teams will receive $50,000 in non-repayable funding along with dedicated resources, including a direct point-of-contact at Unity, marketing and PR support, and access to a network of industry experts.</p><p>The initiative targets developers who are approximately one year away from launch and aims to assist with the go-to-market phase on mobile, console, or PC. Unity's senior vice president of product, Adam Smith, stated that the program focuses on helping developers navigate the challenges of game discoverability and successful product launches.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-21519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fuach.mx%2Fassets%2Fmedia%2Fpublications%2F2025%2F10%2F11398_participan-alumnos-de-la-facultad-de-ingenieria-en-game-conference-mx-2025-en-guadalajara%2FFI500_%281%29.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Game Conference MX (GCMX) is scheduled to take place from November 13 to November 14, 2026, in Guadalajara, Jalisco, Mexico. Created by and for industry professionals, the conference functions as a platform linking the video game sector in Mexico and Latin America with the broader international market.</p><p>The event brings together developers, students, and regional leaders through keynote presentations, workshops, and indie game showcases. It features community and expert-led awards celebrating innovative independent titles developed within the region.</p>
 <p>Nov 13 · <a href="https://www.gamedeveloper.com/events/untitled">gamedeveloper.com</a> | <a href="https://www.gameconferencemx.com/">gameconferencemx.com</a></p>
-<br clear="all" />
-
-<h2>Shadowkey: Reforged Brings Elder Scrolls N-Gage RPG to PC in 4K</h2>
-<a name="story-27341"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Ftorch-hall-1152x648.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Shadowkey: Reforged, a free fan-made PC port of the 2004 Nokia N-Gage title *The Elder Scrolls Travels: Shadowkey*, has been released. The project uses a rewritten graphics engine to combine original game files and scripts with upscaled 4K assets and widescreen support.</p><p>The port expands the original portrait-oriented mobile experience to a 16:9 aspect ratio and supports up to 120 fps, though the game logic remains at 25 fps. Additional visual updates include bloom lighting, rippling water, and a modernized interface with sharper text rendering.</p>
-<p>Nov 12 · <a href="https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/">arstechnica.com</a> | <a href="https://shadowkey.omracreative.ie/">shadowkey.omracreative.ie</a></p>
 <br clear="all" />
 
 ---

@@ -390,21 +390,4 @@
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F2137280%2Fss_4ba78597ebd8572a36a85060cd1043a2aad5f469.1920x1080.jpg%3Ft%3D1692209762&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://av.github.io/safe-sand/">av.github.io</a> | <a href="https://news.ycombinator.com/item?id=50453288">hacker news</a></small></p><hr/><p>A hyper-realistic sand simulator built with WebGL2 and JavaScript is accessible via web browsers on desktops, tablets, and mobile devices.</p><p>The simulation allows users to interact with the grains by pushing them with a finger, tilting the device to induce sliding, or shaking it to scatter the sand.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F2137280%2Fss_4ba78597ebd8572a36a85060cd1043a2aad5f469.1920x1080.jpg%3Ft%3D1692209762&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 04:53 UTC | #27235</small>]]></content>
   </entry>
-  <entry>
-    <title>Rust Project Announces Google Summer of Code 2026 Results</title>
-    <link href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/" rel="alternate" />
-    <id>https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/::v240</id>
-    <published>2026-11-11T20:30:00+00:00</published>
-    <updated>2026-11-11T20:30:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/uz2j2h/google_summer_code_2026_results">lobsters</a></small></p><hr/><p>All 13 projects participating in the Google Summer of Code (GSoC) 2026 for the Rust Project were successfully completed and passed their final evaluations. Contributions included improvements to GPU offloading, adding WebAssembly linking support to the Wild linker, and implementing new language features such as `impl` and `mut` restrictions.</p><p>The program serves as a primary pipeline for introducing new contributors to the Rust community. Several project outcomes, including work on the `std::autodiff` and `std::offload` modules, are available in the Rust `nightly` compiler channel.</p><hr/><small>12 Nov 2026, 04:07 UTC | #27233</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tim Peters, Python Contributor and Author of the Zen of Python, Dies</title>
-    <link href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028" rel="alternate" />
-    <id>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028::v240</id>
-    <published>2026-11-11T20:24:00+00:00</published>
-    <updated>2026-11-11T20:24:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn-blog.adafruit.com%2Fuploads%2F2026%2F11%2Ftim-peters-has-died-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">discuss.python.org</a> | <a href="https://www.bratleyfamilyfuneralhomes.com/obituary/timothy-peters">bratleyfamilyfuneralhomes.com</a> | <a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50450488">hacker news</a></small></p><hr/><p>Tim Peters, a central figure in the Python programming community and author of the "Zen of Python" (PEP 20), died on July 15, 2026. He was a key contributor to the language's early design and core development, working closely with creator Guido van Rossum.</p><p>Peters also designed the Timsort sorting algorithm, which has been adopted by Java and Android. He served as a director of the Python Software Foundation from 2001 to 2014 and was widely recognized for his technical expertise and mentorship within the Python community.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-blog.adafruit.com%2Fuploads%2F2026%2F11%2Ftim-peters-has-died-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 03:02 UTC | #27228</small>]]></content>
-  </entry>
 </feed>
