@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Exploration of Anthropomorphic Software and Personified Error Messages</h2>
 <a name="story-27545"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fanthropomorphic-software-lock-struggles-tangled-wires-presented-as-anthropomorphic-software-lock-struggles-tangled-396688394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software and command-line tools occasionally feature personified or first-person copy, a stylistic choice known as anthropomorphic software. Examples range from Git error messages and changelogs that speak in the first person to the Elm programming language's detailed conversational compiler errors and sudo's optional insult feature.</p><p>While mostly deployed for whimsy rather than functional user experience improvements, such playful phrasing contrasts with strict interface guidelines like Apple's, which advise against casual exclamation or personification in errors. Although large language models represent a more advanced iteration of conversational interaction, traditional utilities demonstrate a long-standing history of programmed personality.</p>
-<p>Nov 15 · <a href="https://aspiz.uk/wiki/AnthropomorphicSoftware">aspiz.uk</a> | <a href="https://lobste.rs/s/ofic7z/anthropomorphic_software">lobsters</a></p>
+<p>Nov 15 · <a href="https://aspiz.uk/wiki/AnthropomorphicSoftware">aspiz.uk</a> | <a href="https://lobste.rs/s/ofic7z/anthropomorphic_software">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50511485">hacker news</a></p>
 <br clear="all" />
 
 <h2>FreeBSD bhyve Live Migration Support Proposed in WIP RFC</h2>

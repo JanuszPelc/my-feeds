@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-15T13:08:00+00:00</updated>
+  <updated>2026-11-16T03:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -38,9 +38,9 @@
     <link href="https://aspiz.uk/wiki/AnthropomorphicSoftware" rel="alternate" />
     <id>https://aspiz.uk/wiki/AnthropomorphicSoftware::v240</id>
     <published>2026-11-15T08:06:00+00:00</published>
-    <updated>2026-11-15T08:06:00+00:00</updated>
+    <updated>2026-11-16T03:58:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fanthropomorphic-software-lock-struggles-tangled-wires-presented-as-anthropomorphic-software-lock-struggles-tangled-396688394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://aspiz.uk/wiki/AnthropomorphicSoftware">aspiz.uk</a> | <a href="https://lobste.rs/s/ofic7z/anthropomorphic_software">lobsters</a></small></p><hr/><p>Software and command-line tools occasionally feature personified or first-person copy, a stylistic choice known as anthropomorphic software. Examples range from Git error messages and changelogs that speak in the first person to the Elm programming language's detailed conversational compiler errors and sudo's optional insult feature.</p><p>While mostly deployed for whimsy rather than functional user experience improvements, such playful phrasing contrasts with strict interface guidelines like Apple's, which advise against casual exclamation or personification in errors. Although large language models represent a more advanced iteration of conversational interaction, traditional utilities demonstrate a long-standing history of programmed personality.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fanthropomorphic-software-lock-struggles-tangled-wires-presented-as-anthropomorphic-software-lock-struggles-tangled-396688394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 15:35 UTC | #27545</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://aspiz.uk/wiki/AnthropomorphicSoftware">aspiz.uk</a> | <a href="https://lobste.rs/s/ofic7z/anthropomorphic_software">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50511485">hacker news</a></small></p><hr/><p>Software and command-line tools occasionally feature personified or first-person copy, a stylistic choice known as anthropomorphic software. Examples range from Git error messages and changelogs that speak in the first person to the Elm programming language's detailed conversational compiler errors and sudo's optional insult feature.</p><p>While mostly deployed for whimsy rather than functional user experience improvements, such playful phrasing contrasts with strict interface guidelines like Apple's, which advise against casual exclamation or personification in errors. Although large language models represent a more advanced iteration of conversational interaction, traditional utilities demonstrate a long-standing history of programmed personality.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fanthropomorphic-software-lock-struggles-tangled-wires-presented-as-anthropomorphic-software-lock-struggles-tangled-396688394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 15:35 UTC | #27545</small>]]></content>
   </entry>
   <entry>
     <title>FreeBSD bhyve Live Migration Support Proposed in WIP RFC</title>
