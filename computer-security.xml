@@ -237,13 +237,4 @@
     <updated>2026-11-11T19:36:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/">siliconangle.com</a></small></p><hr/><p>IBM announced the Nighthawk r3 quantum processor, designed to perform up to 10,000 operations using 520 programmable qubits and 2,034 physical quantum components. This architecture utilizes high-speed qubit reset technology to reduce qubit priming times from 200 milliseconds to approximately 25 nanoseconds.</p><p>IBM plans to link two r3 processors in 2027 to create a system capable of exceeding 1,000 qubits. The IBM Quantum Platform will also integrate quantum workflows with high-performance classical computing resources and provide pulse-level access to facilitate advanced quantum error correction.</p><hr/><small>12 Nov 2026, 00:51 UTC | #27195</small>]]></content>
   </entry>
-  <entry>
-    <title>Executive Misconduct in Semiconductor Industry Linked to Espionage Risks</title>
-    <link href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/" rel="alternate" />
-    <id>https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/::v240</id>
-    <published>2026-11-11T16:18:00+00:00</published>
-    <updated>2026-11-11T16:18:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.britannica.com%2F60%2F257460-050-62FF74CB%2FNVIDIA-Jensen-Huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50455179">hacker news</a></small></p><hr/><p>Executive misconduct in the semiconductor industry is linked to risks of economic espionage by state-sponsored actors. Nate Singer of Heron Intelligence reports that many instances of senior-level behavioral issues remain hidden from the public despite increasing pressure to protect trade secrets.</p><p>Historical cases involving TSMC and other manufacturers illustrate the sector's vulnerability to intellectual property theft. Experts suggest that personal indiscretions can be exploited to facilitate the infiltration of critical technology firms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.britannica.com%2F60%2F257460-050-62FF74CB%2FNVIDIA-Jensen-Huang.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 21:38 UTC | #27180</small>]]></content>
-  </entry>
 </feed>

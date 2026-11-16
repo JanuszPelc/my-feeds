@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-16T02:25:00+00:00</updated>
+  <updated>2026-11-16T11:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Peter Semiletov Releases Drumlabooh v14.0.0 Hybrid Drum Machine Plugin</title>
+    <link href="https://www.kvraudio.com/news/peter-semiletov-releases-drumlabooh-v14-0-0---hybrid-sampler-and-procedural-synth-drum-machine-and-new-kits-69837?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69837" rel="alternate" />
+    <id>https://www.kvraudio.com/news/peter-semiletov-releases-drumlabooh-v14-0-0---hybrid-sampler-and-procedural-synth-drum-machine-and-new-kits-69837?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69837::v240</id>
+    <published>2026-11-16T11:07:00+00:00</published>
+    <updated>2026-11-16T11:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fv14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/peter-semiletov-releases-drumlabooh-v14-0-0---hybrid-sampler-and-procedural-synth-drum-machine-and-new-kits-69837?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69837">kvraudio.com</a> | <a href="https://psemiletov.github.io/drumlabooh/">psemiletov.github.io</a></small></p><hr/><p>Peter Semiletov has released Drumlabooh version 14.0.0, a major update to the free, open-source hybrid drum machine plugin available as VST3i and LV2i for Linux and VST3i for Windows. The version 14.0 update introduces a procedural synth engine alongside the traditional sampler, multi-threaded kit loading, a revised internal effects routing order with a new "Live" macro knob, and user interface scaling options.</p><p>Additional updates include a Kit Info Viewer, workflow enhancements such as 3-digit preset selection by slot name, and the introduction of Drumkit Format Specification 2.0. The release also brings new pre-configured kits tailored for Goa Trance and 1980s electro, alongside an updated official sound library with standardized cover art and fixed definitions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fv14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 16:27 UTC | #27607</small>]]></content>
+  </entry>
+  <entry>
+    <title>LostIn70s Releases Hanon B76 Physically Modeled Tonewheel Organ Plugin</title>
+    <link href="https://www.kvraudio.com/news/lostin70s-releases-hanon-b76---successor-to-the-hanon-b70-physically-modeled-tonewheel-organ-aax-au-and-vst3-69838?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69838" rel="alternate" />
+    <id>https://www.kvraudio.com/news/lostin70s-releases-hanon-b76---successor-to-the-hanon-b70-physically-modeled-tonewheel-organ-aax-au-and-vst3-69838?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69838::v240</id>
+    <published>2026-11-16T11:01:00+00:00</published>
+    <updated>2026-11-16T11:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fb76_full.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/lostin70s-releases-hanon-b76---successor-to-the-hanon-b70-physically-modeled-tonewheel-organ-aax-au-and-vst3-69838?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69838">kvraudio.com</a> | <a href="https://lostin70s.com/products/HanonB76">lostin70s.com</a></small></p><hr/><p>LostIn70s has released Hanon B76, a virtual tonewheel organ instrument for Windows and macOS that serves as the successor to the Hanon B70. The instrument features a physically modeled tonewheel engine with adjustable key click, leakage, a dedicated bass section, and six vibrato or chorus settings.</p><p>Additional enhancements include the studio-measured L76 rotary speaker model alongside an alternative L70 version, an improved Leslie preamp with adjustable drive, and two keyboard amplifier models. It also offers vintage effects, independent MIDI channels, and dedicated support for the Akai MIDImix, with versions available for desktop plugin formats and iOS.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fb76_full.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 16:27 UTC | #27608</small>]]></content>
+  </entry>
   <entry>
     <title>Viiri Audio Updates Aava Creative Convolution Plugin to Version 1.1</title>
     <link href="https://www.kvraudio.com/news/viiri-audio-updates-aava-creative-convolution-plugin-to-1-1-with-audio-unit-support-and-more-69830?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69830" rel="alternate" />
@@ -356,14 +374,5 @@
     <updated>2026-11-12T03:23:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-plugin-logic-source.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-13-69765?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69765">kvraudio.com</a> | <a href="https://audio-route.com/">audio-route.com</a></small></p><hr/><p>Arvital Audio has released version 1.2.13 of AudioRoute, its system audio capture tool for macOS and Windows. The update introduces a redesigned take-management system where recorded audio clips are retained in a session list beneath the waveform, preventing automatic deletion and allowing users to drag multiple takes into their digital audio workstation.</p><p>Additional improvements rolled out across recent minor updates include automatic tempo and key detection for recordings longer than six seconds, clearer guidance for plug-in modes, and more resilient handling of audio device reconnections and sample rate changes. AudioRoute is available as a free update for existing users, priced at 39 euros for new licenses, and supports VST3, AU, and AAX formats.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-plugin-logic-source.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 09:34 UTC | #27251</small>]]></content>
-  </entry>
-  <entry>
-    <title>AlphaTheta Unveils DJM-A7 Four-Channel Mixer</title>
-    <link href="https://musictech.com/news/gear/djm-a7-alphatheta-mixer/" rel="alternate" />
-    <id>https://musictech.com/news/gear/djm-a7-alphatheta-mixer/::v240</id>
-    <published>2026-11-11T16:48:00+00:00</published>
-    <updated>2026-11-11T16:48:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAlphaTheta-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/djm-a7-alphatheta-mixer/">musictech.com</a> | <a href="https://alphatheta.com/en/product/dj-mixer/djm-a7/black/">alphatheta.com</a></small></p><hr/><p>AlphaTheta has announced the DJM-A7, a four-channel mixer intended as a budget-friendly alternative to the DJM-A9. It includes 45 mm channel faders, USB Type-C ports, and compatibility with rekordbox, djay Pro, djay for iOS, and Serato DJ Pro.</p><p>Key features include a Master Texture tool for acoustic room analysis and a Split Filter for shaping midranges. The mixer also supports SonicLink for low-latency wireless monitoring and Link Cue for private track previews on compatible multi players.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAlphaTheta-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 21:55 UTC | #27188</small>]]></content>
   </entry>
 </feed>
