@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Vocal Pockets Releases VIPA MIDI Chord Generator</h2>
+<a name="story-27650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr-b8nogsSXI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Vocal Pockets' new VIPA plugin uses "Moodscapes" images to suggest chord progressions via MIDI on macOS and Windows. The tool populates 16 pads with chords matching a selected image's mood, which can be triggered via keyboard or dragged into a DAW. It is compatible with VST3, AU, and Logic Pro's MIDI FX format.</p><p>The software is available for $9.99 per month or $99 per year, including 100 monthly generation credits and periodic image updates. Users can refine chords by adjusting voicing, inversion, and strumming patterns, or by using humanization modes to vary performance timing. Internet is required for activation and image-based generation.</p>
+<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/">bedroomproducersblog.com</a> | <a href="https://vocalpockets.com/pages/vipa">vocalpockets.com</a></p>
+<br clear="all" />
+
 <h2>Audiolatry Releases UZAT Free Character and Degradation Effect Plugin</h2>
 <a name="story-27652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuzat-free-cover-1920x1080.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audiolatry has released UZAT, a free character and degradation effect plugin for Windows and macOS. The plugin utilizes five processing stages—Drift, Wear, Crush, Dust, and Space—to add movement, texture, and controlled damage to audio signals.</p><p>Users can manage effect intensity via a central Character control and a global wet/dry mix. The software includes 32 factory presets, a resizable interface, and native support for both Intel and Apple Silicon on macOS.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27554"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVXTM_CBlRuo%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>RiverFlux Audio has released the RF-BUS free stereo bus compressor as part of the Relic 0.4.7 update for macOS, Windows, and Linux. The plugin features selectable compression ratios, adjustable attack and release times with an auto mode, a sidechain high-pass filter, external sidechain routing, a dry/wet mix knob with a lock feature, and up to 8x oversampling.</p><p>The Relic bundle now includes seventeen processors distributed across compressors, EQs, tape machines, a channel strip, and reverbs available on a pay-what-you-want basis. The 0.4.7 version also introduces dedicated offline-render oversampling settings, undo and redo support, exact value entry, and linear-phase filtering options while reducing overall CPU usage.</p>
 <p>Nov 15 · <a href="https://bedroomproducersblog.com/2026/11/15/riverflux-audio-rf-bus-free/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/Relic">riverfluxaudio.gumroad.com</a></p>
-<br clear="all" />
-
-<h2>Xfer Records Releases Shrub Free Wavetable Synthesizer Plugin</h2>
-<a name="story-27556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fserumwteditor.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Xfer Records has released Shrub, a free beta wavetable synthesizer for macOS, Windows, and Linux that adapts its engine from the company's popular Serum plugin. Originally developed as alternative firmware for the M-VAVE FM-1 hardware synth, Shrub functions as a VST3 plugin within digital audio workstations and can also be played directly in a web browser.</p><p>The instrument features two wavetable oscillators, a sub oscillator, noise generation, multiple modulation sources, and an effects rack that includes an OTT compressor mode. Designed primarily as an editor and librarian, Shrub handles up to four-note polyphony with shared filter routing, supports importing Serum 1 presets, and runs the hardware's native code to maintain consistent sound quality.</p>
-<p>Nov 15 · <a href="https://bedroomproducersblog.com/2026/11/15/xfer-records-shrub/">bedroomproducersblog.com</a> | <a href="https://shrub.audio/">shrub.audio</a></p>
 <br clear="all" />
 
 ---

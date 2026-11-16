@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Audible Launches AI-Powered Audiobook Discovery Feature</h2>
+<a name="story-27648"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2Fchorus%2Fuploads%2Fchorus_asset%2Ffile%2F25562835%2FMaven_Audible_8_6.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audible has launched an "audio discovery" feature that uses AI to provide users with brief audio overviews of books. These overviews combine AI-generated summaries of themes and listener reviews with audio commentary from authors or Audible editors.</p><p>The feature aims to help users decide on a book quickly while on the move by synthesizing metadata, synopses, and public reviews. It is part of a broader rollout of AI tools, including "Recaps" and "Ask a Question," as Audible faces increased competition from Spotify's audiobook offerings.</p>
+<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/">techcrunch.com</a> | <a href="https://www.audible.com/about/newsroom/audible-personalizes-how-listeners-find-explore-and-return-to-stories">audible.com</a></p>
+<br clear="all" />
+
 <h2>Google Maps Adds AI Trip Itinerary Builder and Appointment Scheduling Features</h2>
 <a name="story-27641"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-16-at-9.36.52-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is rolling out new artificial intelligence features for Google Maps that enable users to automatically build step-by-step trip itineraries, find local service appointments, and make phone calls to businesses on their behalf. Using the navigation platform's "Ask Maps" tool, users can input complex travel requests to generate day-by-day schedules complete with numbered map pins, real-time traffic details, and business hours.</p><p>The updates also allow users to query saved lists for places meeting specific criteria, such as locations with immediate table availability for groups. Additionally, Ask Maps is expanding to 30 European countries, including Spain, Germany, and the United Kingdom, on Android and iOS devices.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27351"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeadlyfacts.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMeta-Introduces-Paid-AI-Subscriptions-768x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta’s Muse AI can now place phone calls to U.S. businesses on behalf of users, a feature limited to paid subscribers. Subscription tiers include a $20 monthly plan and a $100 monthly plan.</p><p>The feature aims to automate routine tasks such as restaurant reservations and contacting utility companies. While competitors like Google’s Gemini offer similar tools, the success of the feature depends on whether business recipients accept calls from AI agents.</p>
 <p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/">techcrunch.com</a> | <a href="https://x.com/alexandr_wang/status/2120930586827391350">x.com</a></p>
-<br clear="all" />
-
-<h2>Google Antigravity Introduces Gemini 4 Hydrogen and Orchestrator</h2>
-<a name="story-27334"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdist.neo4j.com%2Fwp-content%2Fuploads%2F20260415090718%2F1P_nU3k5L0-_ZqI7yYhjtVw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google Antigravity has released Gemini 4 Hydrogen and a new Orchestrator model option. Orchestrator uses a dynamic, bidirectional approach that switches between Gemini 4 Carbon for complex reasoning and planning and Gemini 4 Hydrogen for executing code edits and testing.</p><p>On the Terminal-Bench 4.1 benchmark, the Orchestrator feature reached near-Carbon task success rates while consuming 24% less quota and completing tasks 19% faster. Hydrogen is available as a standalone model with four adjustable reasoning levels and is rolling out to Google AI Pro, Ultra, and enterprise users.</p>
-<p>Nov 12 · <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">antigravity.google</a> | <a href="https://news.ycombinator.com/item?id=50472260">hacker news</a></p>
 <br clear="all" />
 
 ---

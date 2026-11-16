@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-16T14:49:00+00:00</updated>
+  <updated>2026-11-16T15:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Audible Launches AI-Powered Audiobook Discovery Feature</title>
+    <link href="https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/::v240</id>
+    <published>2026-11-16T15:53:00+00:00</published>
+    <updated>2026-11-16T15:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2Fchorus%2Fuploads%2Fchorus_asset%2Ffile%2F25562835%2FMaven_Audible_8_6.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/">techcrunch.com</a> | <a href="https://www.audible.com/about/newsroom/audible-personalizes-how-listeners-find-explore-and-return-to-stories">audible.com</a></small></p><hr/><p>Audible has launched an "audio discovery" feature that uses AI to provide users with brief audio overviews of books. These overviews combine AI-generated summaries of themes and listener reviews with audio commentary from authors or Audible editors.</p><p>The feature aims to help users decide on a book quickly while on the move by synthesizing metadata, synopses, and public reviews. It is part of a broader rollout of AI tools, including "Recaps" and "Ask a Question," as Audible faces increased competition from Spotify's audiobook offerings.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2Fchorus%2Fuploads%2Fchorus_asset%2Ffile%2F25562835%2FMaven_Audible_8_6.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 21:07 UTC | #27648</small>]]></content>
+  </entry>
   <entry>
     <title>Google Maps Adds AI Trip Itinerary Builder and Appointment Scheduling Features</title>
     <link href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/" rel="alternate" />
@@ -176,14 +185,5 @@
     <updated>2026-11-12T12:40:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Foriginal_images%2FCustomize_Chrome_Inline.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability">theverge.com</a> | <a href="https://labs.google/tabletop">labs.google</a></small></p><hr/><p>Google has introduced Tabletop, an experimental AI-powered platform that lets users generate customized collaborative tools by describing them in natural language. The service enables people to build interactive spaces such as expense splitters, trip itineraries, and chore charts, which can then be shared with others via an invite link for simultaneous real-time use.</p><p>Access to the Tabletop beta is currently rolling out via a waitlist and is restricted to users over the age of 18 in the United States. Designed as a flexible alternative to traditional workplace management software, the platform utilizes starter templates and prompt-based generation to create shared digital hubs for personal planning and group coordination.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Foriginal_images%2FCustomize_Chrome_Inline.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 19:51 UTC | #27269</small>]]></content>
-  </entry>
-  <entry>
-    <title>AWS Releases Free Local Emulator Built by AI Agents</title>
-    <link href="https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/" rel="alternate" />
-    <id>https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/::v240</id>
-    <published>2026-11-11T20:26:00+00:00</published>
-    <updated>2026-11-12T07:32:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fclarusway.com%2Fwp-content%2Fuploads%2F2024%2F08%2Faws-benefits-1024x511.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/">geekwire.com</a> | <a href="https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator">aboutamazon.com</a> | <a href="https://news.ycombinator.com/item?id=50456631">hacker news</a></small></p><hr/><p>AWS has released AWS Emulator, a free tool that simulates over 200 AWS services locally to facilitate testing without network connectivity or cloud costs. The emulator was built entirely by autonomous AI agents using Amazon Bedrock AgentCore, employing specialized agents to write code, execute fidelity tests, and automatically fix errors.</p><p>This tool aims to mitigate the high costs and latency introduced by AI coding agents that require rapid, repetitive testing cycles against live cloud environments. Although it provides a local environment for development, current versions do not yet simulate service outages, throttling, or regional feature variations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fclarusway.com%2Fwp-content%2Fuploads%2F2024%2F08%2Faws-benefits-1024x511.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 03:30 UTC | #27210</small>]]></content>
   </entry>
 </feed>
