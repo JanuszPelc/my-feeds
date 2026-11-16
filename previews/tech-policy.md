@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Nvidia Sought Taipei&#x27;s Help Over Employee&#x27;s Chip Smuggling Case</h2>
+<a name="story-27557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F14%2Fmultimedia%2F14dc-lutnick-commerce-01-bqtl%2F14dc-lutnick-commerce-01-bqtl-facebookJumbo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia Corp. appealed to Taiwanese officials and sought advice from TSMC after prosecutors accused a company manager of helping smuggle advanced artificial intelligence chips into China. TSMC ultimately declined to get involved in the matter, leaving Nvidia to navigate the legal and diplomatic fallout independently.</p><p>The development underscores the intense regulatory and geopolitical scrutiny surrounding the illicit transfer of restricted semiconductor technology to China. Taiwan remains a critical focal point for export controls, given its central role in global chip manufacturing and the strict enforcement measures adopted by authorities against unauthorized transshipments.</p>
+<p>Nov 15 · <a href="https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>US and Pax Silica Allies Agree to Joint AI Supply Chain List</h2>
 <a name="story-27553"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkiddaan.com%2Fwp-content%2Fuploads%2F2026%2F02%2Fextras-new-Recovered-34-1024x719.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The United States and Pax Silica allies, including Japan, the UK, and India, have agreed to establish a joint catalog of sensitive artificial intelligence technologies and critical supply chains to protect them from China. The accord encompasses vital sectors such as semiconductors, critical minerals, and energy infrastructure to mitigate strategic vulnerabilities.</p><p>The agreement advances the U.S.-led Pax Silica initiative to secure technological supply chains amid intensifying geopolitical competition. The pact comes ahead of a scheduled meeting between Donald Trump and Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27488"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.republicworld.com%2Fall_images%2F2026%2F11%2Fus-lifts-nationwide-faa-ground-stop-after-telecom-outage-duffy-cites-ageing-system-1794627145670-1280x720.webp%3Fw%3D1280%26h%3D720%26q%3D75%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Federal Aviation Administration ordered a nationwide ground stop for departing flights that lasted more than four hours, halting U.S. air traffic, canceling thousands of flights, and stranding passengers at airports across the country.</p><p>Transportation Secretary Sean Duffy attributed the disruption to an overloaded data router within legacy air traffic control equipment, which caused radar and communication instability. Officials stated there was no evidence of a cyberattack, and major airlines resumed operations as the airspace gradually recovered.</p>
 <p>Nov 14 · <a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">nbcnews.com</a> | <a href="https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop">faa.gov</a> | <a href="https://news.ycombinator.com/item?id=50489641">hacker news</a></p>
-<br clear="all" />
-
-<h2>ASI Denies SMART System Connection to Current Ground Stop</h2>
-<a name="story-27457"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F3cb04a5da0ece4047c3b43a70b63b226e524419df7ddc3f1c46f1aa39d9e74cc%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwdvm-hagerstown%2F695d212d953f44bd76db27dcf47635ab&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The current ground stop is not a result of the SMART system or any products resulting from ASI's integration with the FAA and ATC.</p><p>AirSpace Intel issued the statement to address speculation linking the system to the ongoing aviation delays.</p>
-<p>Nov 13 · <a href="https://x.com/airspaceintel/status/2121371183836696583">x.com</a></p>
 <br clear="all" />
 
 ---

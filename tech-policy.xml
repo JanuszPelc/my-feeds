@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-15T23:32:00+00:00</updated>
+  <updated>2026-11-15T23:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Sought Taipei's Help Over Employee's Chip Smuggling Case</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case::v240</id>
+    <published>2026-11-15T23:33:00+00:00</published>
+    <updated>2026-11-15T23:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F14%2Fmultimedia%2F14dc-lutnick-commerce-01-bqtl%2F14dc-lutnick-commerce-01-bqtl-facebookJumbo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case">bloomberg.com</a></small></p><hr/><p>Nvidia Corp. appealed to Taiwanese officials and sought advice from TSMC after prosecutors accused a company manager of helping smuggle advanced artificial intelligence chips into China. TSMC ultimately declined to get involved in the matter, leaving Nvidia to navigate the legal and diplomatic fallout independently.</p><p>The development underscores the intense regulatory and geopolitical scrutiny surrounding the illicit transfer of restricted semiconductor technology to China. Taiwan remains a critical focal point for export controls, given its central role in global chip manufacturing and the strict enforcement measures adopted by authorities against unauthorized transshipments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F14%2Fmultimedia%2F14dc-lutnick-commerce-01-bqtl%2F14dc-lutnick-commerce-01-bqtl-facebookJumbo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 05:19 UTC | #27557</small>]]></content>
+  </entry>
   <entry>
     <title>US and Pax Silica Allies Agree to Joint AI Supply Chain List</title>
     <link href="https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22" rel="alternate" />
