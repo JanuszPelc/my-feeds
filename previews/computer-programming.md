@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Jiff 1.0 Datetime Library for Rust Released</h2>
+<a name="story-27591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F15968&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Andrew Gallant has announced the release of Jiff 1.0, a datetime library for Rust designed to prevent common errors by placing time zone management front and center in its API. The library encapsulates complex temporal concepts like daylight saving time transitions, offsets, and calendar calculations to help developers avoid frequent modeling mistakes.</p><p>Jiff has already achieved widespread production adoption across major Rust projects such as Cargo, uv, and Nushell. With the 1.0 release, the author commits to long-term API stability, enabling developers to safely use Jiff as a public dependency in downstream ecosystem libraries.</p>
+<p>Nov 15 · <a href="https://burntsushi.net/jiff/">burntsushi.net</a> | <a href="https://lobste.rs/s/dxxvek/datetime_library_for_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50511297">hacker news</a></p>
+<br clear="all" />
+
 <h2>Phil Eaton Surveys Memory Management in 40 Major C Projects</h2>
 <a name="story-27563"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fdynamicmemoryallocation-240708091439-6ca10933%2F75%2FDynamic-Memory-Allocation-in-C-programming-4-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phil Eaton surveyed 40 major C software projects to examine how they handle memory allocation, finding that only eight projects rely exclusively on manual malloc and free operations. The analysis reveals that while manual memory management remains widespread, many prominent codebases incorporate higher-level primitives such as memory regions, reference counting, garbage collection, and scope-based cleanup compiler extensions.</p><p>Memory strategies vary significantly across infrastructure projects, with some prioritizing strict manual control while others lean heavily on specialized allocators. For example, SQLite relies entirely on manual allocation for correctness, whereas projects like Linux and QEMU have increasingly adopted compiler extensions for automated scope cleanup, and others utilize region-based or garbage-collected allocation models.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27507"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FZIP-Self-Extractor-Maker_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A newly developed self-booting ZIP archive functions simultaneously as a standard compressed file containing source code and a standalone bootable x86 image. By crafting the archive's initial local file header to double as valid 8086 machine code and a Multiboot header, the file can boot directly on bare-metal hardware or via QEMU.</p><p>The design exploits the structural characteristics of the ZIP format, which is read from the footer and allows custom data placement without breaking integrity. This polyglot technique enables the archive to execute an embedded bootloader that switches to 32-bit protected mode and queries disk geometry, while still retaining all files necessary to rebuild itself.</p>
 <p>Nov 14 · <a href="https://goliath32.com/blog/ziphead.html">goliath32.com</a> | <a href="https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50498295">hacker news</a></p>
-<br clear="all" />
-
-<h2>Implementing Kildall&#x27;s Algorithm in the Cleavir Lisp Compiler</h2>
-<a name="story-27506"><img src="https://wsrv.nl/?url=https%3A%2F%2Fslidetodoc.com%2Fpresentation_image_h%2Fe759859aad4c8199f9d747e896bef887%2Fimage-14.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An engineer working on the Cleavir Lisp compiler details the implementation of G. A. Kildall's 1973 global program optimization algorithm. By defining a bounded meet-semilattice and an optimization function, the generic algorithm associates optimization pools with instruction nodes in an intermediate representation graph, automatically handling control flow for analyses like escape analysis.</p><p>Using this framework, the compiler can determine whether closures and cell wrappers escape their context, enabling them to be stack-allocated rather than dynamically allocated on the heap. While the basic implementation successfully handles stack allocation for non-escaping closures, further extensions are required to support nested functions and forward-propagated type inference for more complex call patterns.</p>
-<p>Nov 14 · <a href="https://bike.github.io/posts/kildall.html">bike.github.io</a> | <a href="https://lobste.rs/s/1nmzz6/kildall_s_algorithm">lobsters</a></p>
 <br clear="all" />
 
 ---
