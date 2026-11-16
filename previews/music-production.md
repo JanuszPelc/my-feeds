@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Initial Audio Updates Difro Melody AI to Version 2.5</h2>
+<a name="story-27605"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdifro_01.1794777186.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Initial Audio has released version 2.5 of its AI-powered melody generator, Difro Melody AI, adding local audio-to-MIDI transcription and new VST3 and AU plugin formats. The audio-to-MIDI feature allows users to drag audio loops of up to 16 bars into the piano roll for automatic conversion with velocity extraction.</p><p>The update also introduces MIDI note key triggering with a latch option, an interactive quick-start tutorial, and support for NVIDIA Blackwell GPUs while dropping support for older Maxwell architectures. Additional changes include a reduced installation footprint, interface optimizations, and bug fixes for stability and rendering issues.</p>
+<p>Nov 16 · <a href="https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69842">kvraudio.com</a> | <a href="https://initialaudio.com/difro-melody-ai/">initialaudio.com</a></p>
+<br clear="all" />
+
+<h2>Soundyan Releases Hyperstellar FX Multi-Slot Freeze and Spectral Effect Plugin</h2>
+<a name="story-27604"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffx-main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Soundyan has released Hyperstellar FX, a multi-slot freeze and spectral effect plugin designed for musicians and sound designers working with ambient textures, drones, and live layering. The software captures incoming audio into separate freeze slots, allowing users to build sustained layers from single instruments and process them spectrally into evolving pads.</p><p>The plugin includes four independent freeze slots, built-in shimmer reverb and delay, an orbit sequencer, MIDI Learn capabilities, and modulation options driven by LFOs, envelopes, or live input signals. Frozen layers can be exported as 24-bit FLAC files, and the software is available for Windows and macOS in VST3, AU, and standalone formats with an introductory price through November 2026.</p>
+<p>Nov 16 · <a href="https://www.kvraudio.com/news/soundyan-releases-hyperstellar-fx-au-and-vst3-69771?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69771">kvraudio.com</a> | <a href="https://soundyan.com/hyperstellar-fx.php">soundyan.com</a></p>
+<br clear="all" />
+
 <h2>RiverFlux Audio Releases RF-BUS Free Bus Compressor Plugin</h2>
 <a name="story-27554"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVXTM_CBlRuo%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>RiverFlux Audio has released the RF-BUS free stereo bus compressor as part of the Relic 0.4.7 update for macOS, Windows, and Linux. The plugin features selectable compression ratios, adjustable attack and release times with an auto mode, a sidechain high-pass filter, external sidechain routing, a dry/wet mix knob with a lock feature, and up to 8x oversampling.</p><p>The Relic bundle now includes seventeen processors distributed across compressors, EQs, tape machines, a channel strip, and reverbs available on a pay-what-you-want basis. The 0.4.7 version also introduces dedicated offline-render oversampling settings, undo and redo support, exact value entry, and linear-phase filtering options while reducing overall CPU usage.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27399"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAudient-iD-MK3-Range.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audient has announced the third generation of its iD audio interface family, introducing a unified technology platform powered by what the company calls "Analogue Intelligence." The refreshed line-up updates and renames four existing models—the iD1 (formerly iD4), iD2 (formerly iD14), iD2+ (formerly iD24), and iD4+ (formerly iD44)—to reflect their preamp counts while bringing them into a single software and hardware ecosystem.</p><p>The new generation incorporates real analogue console mic preamps alongside onboard DSP, room correction via RoomTune software, and an Analogue Tone Suite for signal shaping before reaching a digital audio workstation. Pricing ranges from £169 for the iD1 to £499 for the iD4+, with three models available immediately and the iD1 scheduled for release in early 2027.</p>
 <p>Nov 13 · <a href="https://musictech.com/news/gear/audient-id-mk3/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>apulSoft Updates apVerb to Version 1.2.6</h2>
-<a name="story-27394"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Favrb_2u4d2x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Version 1.2.6 of the apVerb algorithmic reverb plugin introduces several performance optimizations and a collection of new presets by Yendo Starritz.</p><p>Technical improvements include faster reverb tail updates, improved low and high cut filters, and optimized DSP performance for x64 CPUs. The release also features a Linux build with lower minimum requirements and fixes a bug regarding frequency values in the popup editor. The plugin is currently available at a 38% discount until December 6th.</p>
-<p>Nov 13 · <a href="https://www.kvraudio.com/news/apulsoft-updates-apverb-to-v1-2-6-69796?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69796">kvraudio.com</a> | <a href="https://apulsoft.ch/apverb">apulsoft.ch</a></p>
-<br clear="all" />
-
-<h2>DZTL8 Releases Merg Free Stereo-to-Mono Plugin</h2>
-<a name="story-27395"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOZmnHaUgdDE%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DZTL8 has released Merg, a free stereo-to-mono utility plugin for macOS and Windows designed to help producers convert stereo tracks to mono directly within their digital audio workstations. The plugin features a Source Blend control that allows users to adjust the exact contribution of the left and right channels to the resulting mono mix.</p><p>Additional features include polarity-reversal options, a sub-millisecond Time Align tool for correcting timing discrepancies between channels, and a mono-compatibility indicator to monitor signal loss. Merg is available in AU and VST3 formats and requires an email address for download on the developer's website.</p>
-<p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/dztl8-merg/">bedroomproducersblog.com</a> | <a href="https://dztl8.com/merg/">dztl8.com</a></p>
 <br clear="all" />
 
 ---

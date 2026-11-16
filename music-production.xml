@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-16T02:12:00+00:00</updated>
+  <updated>2026-11-16T02:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Initial Audio Updates Difro Melody AI to Version 2.5</title>
+    <link href="https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69842" rel="alternate" />
+    <id>https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69842::v240</id>
+    <published>2026-11-16T02:17:00+00:00</published>
+    <updated>2026-11-16T02:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdifro_01.1794777186.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69842">kvraudio.com</a> | <a href="https://initialaudio.com/difro-melody-ai/">initialaudio.com</a></small></p><hr/><p>Initial Audio has released version 2.5 of its AI-powered melody generator, Difro Melody AI, adding local audio-to-MIDI transcription and new VST3 and AU plugin formats. The audio-to-MIDI feature allows users to drag audio loops of up to 16 bars into the piano roll for automatic conversion with velocity extraction.</p><p>The update also introduces MIDI note key triggering with a latch option, an interactive quick-start tutorial, and support for NVIDIA Blackwell GPUs while dropping support for older Maxwell architectures. Additional changes include a reduced installation footprint, interface optimizations, and bug fixes for stability and rendering issues.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdifro_01.1794777186.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 09:57 UTC | #27605</small>]]></content>
+  </entry>
+  <entry>
+    <title>Soundyan Releases Hyperstellar FX Multi-Slot Freeze and Spectral Effect Plugin</title>
+    <link href="https://www.kvraudio.com/news/soundyan-releases-hyperstellar-fx-au-and-vst3-69771?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69771" rel="alternate" />
+    <id>https://www.kvraudio.com/news/soundyan-releases-hyperstellar-fx-au-and-vst3-69771?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69771::v240</id>
+    <published>2026-11-16T02:16:00+00:00</published>
+    <updated>2026-11-16T02:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffx-main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/soundyan-releases-hyperstellar-fx-au-and-vst3-69771?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69771">kvraudio.com</a> | <a href="https://soundyan.com/hyperstellar-fx.php">soundyan.com</a></small></p><hr/><p>Soundyan has released Hyperstellar FX, a multi-slot freeze and spectral effect plugin designed for musicians and sound designers working with ambient textures, drones, and live layering. The software captures incoming audio into separate freeze slots, allowing users to build sustained layers from single instruments and process them spectrally into evolving pads.</p><p>The plugin includes four independent freeze slots, built-in shimmer reverb and delay, an orbit sequencer, MIDI Learn capabilities, and modulation options driven by LFOs, envelopes, or live input signals. Frozen layers can be exported as 24-bit FLAC files, and the software is available for Windows and macOS in VST3, AU, and standalone formats with an introductory price through November 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffx-main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 09:52 UTC | #27604</small>]]></content>
+  </entry>
   <entry>
     <title>RiverFlux Audio Releases RF-BUS Free Bus Compressor Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/11/15/riverflux-audio-rf-bus-free/" rel="alternate" />

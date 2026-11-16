@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/computer-security.png" width="28" align="texttop" /> &nbsp;Jane Street Systems Engineer Recounts Near-Loss of NYC Datacenter Due to False Smoke Alarm</h2>
+<a name="story-27236"><img src="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A Jane Street systems engineer describes a near-catastrophic incident at the firm's New York City datacenter in 1 New York Plaza. A false smoke alarm, triggered by dust from nearby construction, caused the cooling systems to shut down, risking a situation where rising temperatures would trigger heat-sensitive sprinklers and flood the server room.</p><p>To prevent equipment destruction, the engineer manually disconnected power to all servers before temperatures exceeded critical thresholds. The incident led the systems team to implement a more reliable temperature monitoring system written in OCaml that queries individual Linux servers to detect cooling failures.</p>
+<p>Nov 16 · <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50455394">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Jensen Huang Discusses Potential Return as Nvidia CEO</h2>
 <a name="story-27558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang has held discussions regarding a potential comeback as Nvidia's chief executive. Supporters are reportedly organizing a "war room" to lobby the company's board for his reinstatement and are seeking support from the White House.</p><p>His resignation followed reports of extramarital affairs, including one with an alleged Chinese spy. The push for his return comes as the company and its allies attempt to manage the political and corporate fallout from the scandal.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27332"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1253471-85e2-47ae-a3dc-c0749ceb5fde_2816x1584.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Data from the GDC Festival of Gaming State of the Game Industry report indicates that 40 percent of surveyed industry professionals use generative AI in the workplace, with 73 percent of those users relying on the technology primarily for research and brainstorming.</p><p>While 56 percent of AI-using developers employ it for code generation and debugging, only six percent utilize it to create player-facing content, reflecting ongoing industry caution and widespread concerns regarding copyright, environmental impacts, and overall game quality.</p>
 <p>Nov 14 · <a href="https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-">gamedeveloper.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;FAA Lifts Nationwide Ground Stop Following Air Traffic Control System Outage</h2>
-<a name="story-27488"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.republicworld.com%2Fall_images%2F2026%2F11%2Fus-lifts-nationwide-faa-ground-stop-after-telecom-outage-duffy-cites-ageing-system-1794627145670-1280x720.webp%3Fw%3D1280%26h%3D720%26q%3D75%26format%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Federal Aviation Administration ordered a nationwide ground stop for departing flights that lasted more than four hours, halting U.S. air traffic, canceling thousands of flights, and stranding passengers at airports across the country.</p><p>Transportation Secretary Sean Duffy attributed the disruption to an overloaded data router within legacy air traffic control equipment, which caused radar and communication instability. Officials stated there was no evidence of a cyberattack, and major airlines resumed operations as the airspace gradually recovered.</p>
-<p>Nov 14 · <a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">nbcnews.com</a> | <a href="https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop">faa.gov</a> | <a href="https://news.ycombinator.com/item?id=50489641">hacker news</a></p>
 <br clear="all" />
 
 ---
