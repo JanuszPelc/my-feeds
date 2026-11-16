@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-16T15:03:00+00:00</updated>
+  <updated>2026-11-16T15:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>404 Media Article Explores AI Copyright Challenges</title>
+    <link href="https://www.404media.co/ai-powered-copyright-hell/" rel="alternate" />
+    <id>https://www.404media.co/ai-powered-copyright-hell/::v240</id>
+    <published>2026-11-16T15:26:00+00:00</published>
+    <updated>2026-11-16T15:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.spinbot.org%2Fwp-content%2Fuploads%2F2025%2F06%2FCopyright-Laws-for-AI-Generated-Content.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/ai-powered-copyright-hell/">404media.co</a></small></p><hr/><p>404 Media published an article examining the copyright and legal complications driven by artificial intelligence systems. The reporting addresses the conflicts that emerge as generative technology interacts with traditional intellectual property laws.</p><p>The piece is part of the outlet's ongoing coverage of technology, policy, and digital culture. Access to the full reporting requires a paid subscription to the platform.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.spinbot.org%2Fwp-content%2Fuploads%2F2025%2F06%2FCopyright-Laws-for-AI-Generated-Content.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 20:45 UTC | #27653</small>]]></content>
+  </entry>
   <entry>
     <title>US Department of Commerce Implements New Export Controls on Remote AI Compute Access</title>
     <link href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/" rel="alternate" />

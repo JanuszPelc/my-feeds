@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Jiff 1.0 Datetime Library for Rust Released</h2>
 <a name="story-27591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F15968&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Andrew Gallant has announced the release of Jiff 1.0, a datetime library for Rust designed to prevent common errors by placing time zone management front and center in its API. The library encapsulates complex temporal concepts like daylight saving time transitions, offsets, and calendar calculations to help developers avoid frequent modeling mistakes.</p><p>Jiff has already achieved widespread production adoption across major Rust projects such as Cargo, uv, and Nushell. With the 1.0 release, the author commits to long-term API stability, enabling developers to safely use Jiff as a public dependency in downstream ecosystem libraries.</p>
-<p>Nov 15 · <a href="https://burntsushi.net/jiff/">burntsushi.net</a> | <a href="https://lobste.rs/s/dxxvek/datetime_library_for_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50511297">hacker news</a></p>
+<p>Nov 15 · <a href="https://burntsushi.net/jiff/">burntsushi.net</a> | <a href="https://lobste.rs/s/dxxvek/datetime_library_for_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50519744">hacker news</a></p>
 <br clear="all" />
 
 <h2>Phil Eaton Surveys Memory Management in 40 Major C Projects</h2>

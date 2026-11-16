@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>404 Media Article Explores AI Copyright Challenges</h2>
+<a name="story-27653"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.spinbot.org%2Fwp-content%2Fuploads%2F2025%2F06%2FCopyright-Laws-for-AI-Generated-Content.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>404 Media published an article examining the copyright and legal complications driven by artificial intelligence systems. The reporting addresses the conflicts that emerge as generative technology interacts with traditional intellectual property laws.</p><p>The piece is part of the outlet's ongoing coverage of technology, policy, and digital culture. Access to the full reporting requires a paid subscription to the platform.</p>
+<p>Nov 16 · <a href="https://www.404media.co/ai-powered-copyright-hell/">404media.co</a></p>
+<br clear="all" />
+
 <h2>US Department of Commerce Implements New Export Controls on Remote AI Compute Access</h2>
 <a name="story-27640"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.usimportdata.com%2Fblogs%2Fuploads%2Fimages%2F202506%2Fimage_750x_68481472f3c58.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Commerce Department has introduced interim export controls requiring licenses for transferring advanced AI chips and servers to international data centers that could supply computing power to restricted countries, including China. The rules aim to close loopholes that allowed companies in embargoed nations to bypass direct shipping restrictions by utilizing foreign remote infrastructure.</p><p>The regulations apply to data networks exceeding 12 million total processing performance and mandate heightened customer vetting by exporters and data center operators. In addition, the framework imposes new licensing requirements for advanced semiconductor transfers to several countries identified as having high diversion risks, while formally rescinding the Biden administration's previous AI Diffusion Rule.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adams.africa%2Fwp-content%2Fuploads%2F2025%2F02%2FADA_250129_24131-POPIA-article_Web-Article.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The proliferation of ambient surveillance wearables—including smart glasses from Meta and Google, transcription-enabled watches from Apple, and recording hardware from Amazon—is shifting the concept of privacy away from individual choice toward unavoidable background monitoring. These devices capture continuous audio, video, or data throughout the day, effectively implicating everyone in a user's vicinity regardless of their consent.</p><p>While technology companies offer various technical safeguards and privacy controls, these measures exclusively protect the device owner and leave bystanders without practical ways to opt out. This normalization of passive recording undermines longstanding social norms regarding conversational privacy and places an unreasonable burden on individuals to navigate a physical landscape saturated with hidden recording technology.</p>
 <p>Nov 14 · <a href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again">eff.org</a> | <a href="https://news.ycombinator.com/item?id=50496602">hacker news</a></p>
-<br clear="all" />
-
-<h2>Asian Governments React to Jensen Huang&#x27;s Departure from Nvidia</h2>
-<a name="story-27499"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jensen Huang’s departure from Nvidia has prompted varied responses from Asian governments as they assess potential impacts on the regional AI industry. South Korea is working to secure continued GPU supplies and joint projects, while Taiwan officials report that planned overseas headquarters and investments remain on track.</p><p>In China, the departure has raised uncertainty over more than $3 billion in AI computing projects reliant on restricted Nvidia processors. The resignation also follows an investigation into Huang's relationship with a former Megaspeed executive, who was previously barred from Singapore during a probe into server declarations.</p>
-<p>Nov 14 · <a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

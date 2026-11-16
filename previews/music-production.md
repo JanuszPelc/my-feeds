@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Audiolatry Releases UZAT Free Character and Degradation Effect Plugin</h2>
+<a name="story-27652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuzat-free-cover-1920x1080.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audiolatry has released UZAT, a free character and degradation effect plugin for Windows and macOS. The plugin utilizes five processing stages—Drift, Wear, Crush, Dust, and Space—to add movement, texture, and controlled damage to audio signals.</p><p>Users can manage effect intensity via a central Character control and a global wet/dry mix. The software includes 32 factory presets, a resizable interface, and native support for both Intel and Apple Silicon on macOS.</p>
+<p>Nov 16 · <a href="https://www.kvraudio.com/news/audiolatry-releases-uzat---free-character-and-degradation-effect-plugin-au-and-vst3-69858?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69858">kvraudio.com</a> | <a href="https://audiolatry.com/uzat-free-character-degradation-effect-plugin/">audiolatry.com</a></p>
+<br clear="all" />
+
 <h2>Suno Releases Suno Bridge Beta for Ableton Live 12</h2>
 <a name="story-27642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSuno-Bridge-over-DAW.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Suno has launched a beta version of Suno Bridge, a companion app designed to integrate AI-generated music creations directly into digital audio workstations. The initial release runs alongside Ableton Live 12 on Mac, allowing users to drag and drop AI-generated tracks straight into their project timelines.</p><p>By analyzing uploaded session files, Suno Bridge matches new AI creations—such as vocals, instruments, and samples—to an existing project's tempo, key, style, and VST plugins. Suno plans to expand compatibility to additional platforms and digital audio workstations in future updates.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fserumwteditor.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Xfer Records has released Shrub, a free beta wavetable synthesizer for macOS, Windows, and Linux that adapts its engine from the company's popular Serum plugin. Originally developed as alternative firmware for the M-VAVE FM-1 hardware synth, Shrub functions as a VST3 plugin within digital audio workstations and can also be played directly in a web browser.</p><p>The instrument features two wavetable oscillators, a sub oscillator, noise generation, multiple modulation sources, and an effects rack that includes an OTT compressor mode. Designed primarily as an editor and librarian, Shrub handles up to four-note polyphony with shared filter routing, supports importing Serum 1 presets, and runs the hardware's native code to maintain consistent sound quality.</p>
 <p>Nov 15 · <a href="https://bedroomproducersblog.com/2026/11/15/xfer-records-shrub/">bedroomproducersblog.com</a> | <a href="https://shrub.audio/">shrub.audio</a></p>
-<br clear="all" />
-
-<h2>Sonic Intelligence Academy Hosts Inaugural AI Music Awards in Los Angeles</h2>
-<a name="story-27541"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fp7rgfdtxpa6h%2F40U9ATVGaOvsSd8sQVnV5v%2F862209f41bd60a63a54014f7bcf18a58%2FDALL_E_2023-10-20_09.39.56_-_Photo_of_an_opulent_AI_music_award_stage__set_against_a_backdrop_of_a_vast_city._Nominees_and_w.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Sonic Intelligence Academy held its inaugural AI Music Awards at the Mayan Theater in Downtown Los Angeles, aiming to establish legitimacy and infrastructure for artificial intelligence-backed music creators. Artists competed across 25 categories, with AI persona Xania Monet winning multiple top honors including artist and song of the year.</p><p>Founded earlier in the year by Timirah “TJ” James and Mia James, the academy created the awards program and dedicated AI music charts to counter the mainstream music industry’s resistance and ongoing copyright lawsuits against generative tools. Despite various logistical challenges and technical hiccups during the live ceremony, the event highlighted independent creators utilizing AI to bypass traditional studio constraints.</p>
-<p>Nov 15 · <a href="https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/">variety.com</a> | <a href="https://news.ycombinator.com/item?id=50503067">hacker news</a></p>
 <br clear="all" />
 
 ---
