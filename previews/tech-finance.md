@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Jordan Belfort and Shervin Pishevar Launch Tone AI Voice Platform</h2>
+<a name="story-27659"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub-ec68ecb502fe49a1a6af408e889f7e65.r2.dev%2Fcelebs%2FJordan_Belfort.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tone uses strategic tonality and persuasion techniques to optimize sales performance through AI-generated voices. The startup has raised approximately $10 million in funding and reports roughly $700,000 in revenue from clients in sectors such as law and insurance.</p><p>The platform utilizes low-latency, lightweight models to mimic human inflection, including using questioning tones for declarative statements to drive engagement. Tone is also rolling out a self-service tool for content creators to generate expressive AI narration and voice clones.</p>
+<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/">techcrunch.com</a> | <a href="https://www.trytone.ai/blog/introducing-tone">trytone.ai</a></p>
+<br clear="all" />
+
+<h2>Wall Street&#x27;s 10 Biggest 2026 IPOs Fall From Offer Prices</h2>
+<a name="story-27621"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21EJK0%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F067361fd-c97e-4be8-9042-8adb89af1b2c_1376x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The ten largest initial public offerings on Wall Street in 2026, featuring companies such as SpaceX, SK, and Cerebras, have declined by an average of 20.5 percent from their original offer prices.</p><p>This downturn follows four years of consistent market gains and highlights a cooling enthusiasm for artificial intelligence that has dampened recent major public debuts.</p>
+<p>Nov 16 · <a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">ft.com</a></p>
+<br clear="all" />
+
 <h2>Plural Raises €1B Fund for European Startups</h2>
 <a name="story-27616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fczechstartups.gov.cz%2Fwp-content%2Fuploads%2F2021%2F02%2FEuropeanCapitalMap_EE-page-001.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>London-based Plural has secured €1 billion in new capital to support startups across Europe. The firm is among a select group of European venture capital firms to raise more than €1 billion in a single round.</p><p>The firm plans to invest in more than 30 companies. This funding marks one of the largest single venture capital fundraisings in the European region.</p>
@@ -81,18 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27491"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tronweekly.com%2Fwp-content%2Fuploads%2F2022%2F03%2FFM8H5AMWQAEsfur.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Swiss city of Lugano is seeking to reinvent itself as a digital asset hub through an initiative called Plan B, partnering with stablecoin issuer Tether to integrate cryptocurrencies into its local economy. The project introduces the city's own LVGA token alongside support for bitcoin and tether, allowing residents to use digital currencies for municipal services, taxes, and participating merchants.</p><p>Proponents argue that the partnership will attract tech companies, boost economic growth, and position the municipality at the forefront of financial innovation. However, critics and financial analysts have raised concerns regarding the volatility of digital assets, regulatory uncertainties, and the potential risks associated with integrating private stablecoins into municipal financial systems.</p>
 <p>Nov 14 · <a href="https://www.ft.com/content/a1bcce14-c326-488f-b736-6e831b0fb6cf?accessToken=zwAAAaHY_bdnkdOhvM4UwyZIj9O3Nm6DGw-2zw.MEUCIQCBXyHHNsgOjjEJ2PQjkcLjJSExdRJKNtibv8XGeKew_QIgU17k6hYW9xMvFN1Fc5T7EBfD6P1hSQhzaIHiqP7qYxg&sharetype=gift&token=638a9a7e-087a-40eb-8ef9-e66519a5dbe7">ft.com</a></p>
-<br clear="all" />
-
-<h2>Operand Raises $31 Million for AI-Powered Private Equity Due Diligence</h2>
-<a name="story-27477"><img src="https://wsrv.nl/?url=https%3A%2F%2Flionherald.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fstory-featured.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Private equity due diligence startup Operand has raised $31 million in a combined seed and Series A funding round. The company leverages artificial intelligence to process high volumes of data and utilizes non-traditional data sources to give private equity firms a competitive edge during evaluations.</p><p>CEO Ram Gorthi disclosed the funding round, highlighting the growing adoption of specialized AI technologies to streamline and expand analytical capabilities within the private equity sector.</p>
-<p>Nov 14 · <a href="https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m">axios.com</a></p>
-<br clear="all" />
-
-<h2>WhiteMatter Raises $20 Million in Series A Funding for AI Agent Security</h2>
-<a name="story-27478"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aee08d38f37e8e0b5baac0e%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cybersecurity startup WhiteMatter has raised $20 million in a Series A funding round led by Blumberg Capital. Founded in 2024 and formerly known as QuilrAI, the company develops "guardian agents" designed to monitor, control, and secure enterprise AI agents by tracking their actions, permissions, and interactions.</p><p>WhiteMatter operates on a flat-rate model based on agents under management rather than token consumption, utilizing its own self-hosted AI models and GPUs. CEO Vidit Arora plans to use the fresh capital to expand the 80-person team by 50% over the next year, focusing heavily on sales, go-to-market functions, and research.</p>
-<p>Nov 14 · <a href="https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11">businessinsider.com</a></p>
 <br clear="all" />
 
 ---

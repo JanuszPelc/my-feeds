@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Paradox Interactive Names Mattias Lilja as New CEO</h2>
+<a name="story-27662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.gamewatcherstatic.com%2Fimage%2Ffile%2F9%2Fb4%2F127689%2FMattias_copy3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mattias Lilja, the current deputy CEO, will become the CEO of Paradox Interactive in January 2027. He succeeds Fredrik Wester, who is retiring from the position.</p><p>Wester previously retired in 2018 before returning to the role following the departure of Ebba Ljungerud. Lilja and Wester have co-led the company leading up to this transition.</p>
+<p>Nov 16 · <a href="https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo">gamedeveloper.com</a> | <a href="https://www.paradoxinteractive.com/media/press-releases/paradox-interactive/mattias-lilja-takes-over-as-ceo-and-will-lead-paradox-interactive-ab-publ-to-its-next-level">paradoxinteractive.com</a></p>
+<br clear="all" />
+
 <h2>Global Manufacturing, Utility, and Mining Companies Shed $4.2T in Market Value Amid AI Trade Reversal</h2>
 <a name="story-27601"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsecsense.ai%2F_next%2Fimage%3Furl%3D%2Fapi%2Fmedia%2Ffile%2FWhy-Picks-and-Shovels-Are-the-New-Gold-in-AI-Investing.webp%26w%3D2048%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Global manufacturing, utility, and mining companies have lost $4.2 trillion in market value since June as investor enthusiasm for the artificial intelligence "picks and shovels" trade experiences a reversal. The downturn reflects a broader tech sell-off that has heavily impacted shares in companies supplying the underlying infrastructure, energy, and materials for the AI boom.</p><p>This market shift highlights changing sentiment regarding the immediate returns and sustainability of capital expenditure in AI-related hardware and resources. As valuations adjust, sectors previously buoyed by surging demand for industrial components face renewed scrutiny and downward pricing pressure.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27511"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.barchart.com%2Fcontributors-admin%2Fcommon-images%2Fimages%2FFamous%2BPeople%2FA%2Bphoto%2Bof%2BCEO%2BJensen%2BHuang%2Bin%2Bfront%2Bof%2Bthe%2BNvidia%2Blogo%2Bby%2BFotoField%2Bvia%2BShutterstock.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Major Nvidia shareholders Altimeter Capital and Atreides Management have urged the company's board of directors to weigh all leadership options, including the potential return of former CEO Jensen Huang. Huang resigned following recent allegations and federal investigations into restricted chip shipments, leaving interim CEO Colette Kress to lead operations.</p><p>The investors' letter argues that Huang has earned a measured transition process rather than a rushed replacement, while separate public petitions have also called for his reinstatement. Meanwhile, regulatory scrutiny persists as lawmakers seek testimony regarding export controls and chip distribution channels.</p>
 <p>Nov 15 · <a href="https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html">cnbc.com</a> | <a href="https://news.ycombinator.com/item?id=50499553">hacker news</a></p>
-<br clear="all" />
-
-<h2>Italy Fines Meta €805 Million Over Android User Data Access</h2>
-<a name="story-27495"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techbusinessnews.com.au%2Fwp-content%2Fuploads%2F2024%2F12%2Fmeta-fined-50m-tech-news-australia-privacy-watchdog.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Italy's data protection agency has fined Meta Platforms €805 million ($887 million) after discovering that the company accessed Android users' photos and videos without obtaining their consent or properly informing them. The regulatory penalty stems from a Facebook app feature that suggested content from users' personal device storage.</p><p>In addition to the financial penalty, the Italian authority has demanded that Meta implement changes within 60 days, requiring the company to obtain explicit permission and alter default settings. The enforcement highlights ongoing European regulatory scrutiny regarding user data collection practices and consent mechanisms on major social media platforms.</p>
-<p>Nov 14 · <a href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50497009">hacker news</a></p>
 <br clear="all" />
 
 ---

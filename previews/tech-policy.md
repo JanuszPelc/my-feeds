@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Pax Silica AI Initiative Faces Opposition in the Philippines</h2>
+<a name="story-27627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F00biz-paxsilica-philippines-01-cflz%2F00biz-paxsilica-philippines-01-cflz-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pax Silica, a U.S.-led initiative to establish artificial intelligence supply chains independent of China, is facing opposition in the Philippines. Activists, farmers, and Indigenous groups are protesting the project due to concerns regarding resource management and displacement.</p><p>The initiative, framed by the Trump administration as a successor to "Pax Americana," aims to counter China's technological influence. Local leaders report being excluded from planning, raising questions about national sovereignty and the impact on community water and electricity supplies.</p>
+<p>Nov 16 · <a href="https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html?unlocked_article_code=1.Q1E.S_8o.St--m43lJuOx&smid=url-share">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Meta, Apple, Alphabet, and Signal Oppose Canada&#x27;s Bill C-22</h2>
 <a name="story-27623"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thexyz.com%2Fblog%2Fwp-content%2Fuploads%2Fstopc22XYZ-1280x640.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The proposed Bill C-22 in Canada has met significant opposition from Meta, Apple, Alphabet, and Signal. The legislation would mandate that tech companies retain and provide metadata to government authorities for lawful access.</p><p>This pushback, occurring under Prime Minister Mark Carney's government, highlights tensions between government-mandated lawful access and the security standards maintained by major platforms.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27503"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F53b9a444c204ea9a54efdb2743a35379a675d58f8fc5f0cd561e9072e89f5706%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_jpg%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F82cb4f3f561187f37086a9ddfa6cc873.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Transportation Secretary Sean Duffy attributed a nationwide FAA ground stop to copper-to-fiber wiring updates at a single remote facility, suggesting that contractor L3Harris may have installed a faulty router. The localized instability prompted aviation authorities to temporarily halt flights across the country.</p><p>Airlines have continued to experience widespread flight cancellations and delays as carriers work to reset their schedules following the abrupt ground stop. The incident has drawn heightened scrutiny toward aviation infrastructure vulnerabilities and the equipment provided by external contractors.</p>
 <p>Nov 14 · <a href="https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?st=zB6eBf">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Elon Musk and Other Tech Executives Sign Petition Calling on Nvidia to Reinstate Jensen Huang</h2>
-<a name="story-27514"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F05%2FGettyImages-2216028442.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An independent petition calling on Nvidia to reinstate recently ousted CEO Jensen Huang has garnered over 115,000 signatures, including thousands from current and former employees and shareholders. Notable tech executives, such as Tesla and SpaceX CEO Elon Musk, Replit CEO Amjad Masad, and Epic Games CEO Tim Sweeney, have added their support to the open letter.</p><p>The petition demands that Nvidia's board bring Huang back pending an independent investigation, arguing he was removed without proper due process. Huang resigned following disclosures regarding personal relationships, including an admission to a relationship with an individual identified by U.S. intelligence as a suspected Chinese spy, while CFO Colette Kress has taken over as interim CEO.</p>
-<p>Nov 14 · <a href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/">techcrunch.com</a> | <a href="https://standwithjensen.com/">standwithjensen.com</a> | <a href="https://news.ycombinator.com/item?id=50491690">hacker news</a></p>
 <br clear="all" />
 
 ---

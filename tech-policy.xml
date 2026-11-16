@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-16T16:41:00+00:00</updated>
+  <updated>2026-11-16T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Pax Silica AI Initiative Faces Opposition in the Philippines</title>
+    <link href="https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html?unlocked_article_code=1.Q1E.S_8o.St--m43lJuOx&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html?unlocked_article_code=1.Q1E.S_8o.St--m43lJuOx&amp;smid=url-share::v240</id>
+    <published>2026-11-16T17:05:00+00:00</published>
+    <updated>2026-11-16T17:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F00biz-paxsilica-philippines-01-cflz%2F00biz-paxsilica-philippines-01-cflz-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html?unlocked_article_code=1.Q1E.S_8o.St--m43lJuOx&smid=url-share">nytimes.com</a></small></p><hr/><p>Pax Silica, a U.S.-led initiative to establish artificial intelligence supply chains independent of China, is facing opposition in the Philippines. Activists, farmers, and Indigenous groups are protesting the project due to concerns regarding resource management and displacement.</p><p>The initiative, framed by the Trump administration as a successor to "Pax Americana," aims to counter China's technological influence. Local leaders report being excluded from planning, raising questions about national sovereignty and the impact on community water and electricity supplies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F00biz-paxsilica-philippines-01-cflz%2F00biz-paxsilica-philippines-01-cflz-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 23:03 UTC | #27627</small>]]></content>
+  </entry>
   <entry>
     <title>Meta, Apple, Alphabet, and Signal Oppose Canada's Bill C-22</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-16/canada-s-carney-faces-meta-google-apple-backlash-over-lawful-access-bill-c-22" rel="alternate" />

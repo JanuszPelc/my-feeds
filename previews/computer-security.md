@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Microsoft Blames July Software Defect for Major Email Outage</h2>
+<a name="story-27622"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fimages%2Fnews%2Fu%2F1109292%2F2023%2FEX546390.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A software defect introduced during a July 2026 update caused a massive outage of Exchange Online and other Microsoft 365 services, according to a preliminary post-incident report. The defect triggered resource exhaustion via lock contention in an internal Windows process on network gateway servers. This instability was prompted when a load surge from a Teams failover occurred simultaneously with a 14 percent reduction in server capacity.</p><p>The event resulted in a cascading failure that left more than 80 percent of servers unresponsive at its peak. Because the code had been in production for months, engineers were unable to perform a standard rollback and instead had to develop a new patch to revert the code path to a known good state. The service disruption lasted from November 12 to November 14, 2026.</p>
+<p>Nov 16 · <a href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026">theregister.com</a> | <a href="https://news.ycombinator.com/item?id=50517321">hacker news</a></p>
+<br clear="all" />
+
 <h2>Archive of Our Own Restored After More Than Two Weeks Offline</h2>
 <a name="story-27615"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FAO3-Down.jpg.8d5ae2af21dc688db84%282%29.jpg.d8f7b6f55f8bd3f546164e1887fbd9a3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The popular fan fiction platform Archive of Our Own (AO3) has returned online after being forced offline for more than two weeks due to a security incident. The site's volunteer operators confirmed that no user data or stored works were compromised during the outage, though certain features like external work importing were temporarily disabled to expedite the restoration.</p><p>The extended downtime for the noncommercial archive, which hosts nearly 19 million user-submitted stories, highlighted the massive scale and cultural significance of participatory fan fiction communities. While AO3 has consulted with an external security firm and advised users to update their passwords, heavy traffic upon its return caused intentional loading delays as the platform managed user demand.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2023%2F12%2FLibreOffice-24.2-release-1024x546.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>LibreOffice shared a message on X stating that the software works 365 days a year. The post was made in response to a service outage affecting Microsoft services.</p><p>The statement emphasizes the availability and reliability of local-first, open-source software, which maintains functionality without requiring continuous cloud connectivity.</p>
 <p>Nov 13 · <a href="https://twitter.com/LibreOffice/status/2121205272479998268">x.com</a> | <a href="https://news.ycombinator.com/item?id=50486482">hacker news</a></p>
-<br clear="all" />
-
-<h2>Claude Services Experience Elevated Errors and Authentication Issues</h2>
-<a name="story-27458"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopengraph.githubassets.com%2F79fe5a25b3cffcec8553dd1763dd2a259c3663d487e4fdeb64d2ac7f98f647fe%2Fanthropics%2Fclaude-code%2Fissues%2F3268&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic experienced a service disruption that caused elevated errors and authentication failures across multiple platforms, including claude.ai, Claude Code, the Claude Console, and Claude Cowork.</p><p>Following initial user reports of authentication problems, the company deployed a fix for the affected systems and monitored the infrastructure to ensure full recovery.</p>
-<p>Nov 13 · <a href="https://status.claude.com/incidents/nn11wk485zfn">status.claude.com</a> | <a href="https://news.ycombinator.com/item?id=50481187">hacker news</a></p>
 <br clear="all" />
 
 ---

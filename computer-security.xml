@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-16T16:13:00+00:00</updated>
+  <updated>2026-11-16T17:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Microsoft Blames July Software Defect for Major Email Outage</title>
+    <link href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026" rel="alternate" />
+    <id>https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026::v240</id>
+    <published>2026-11-16T17:03:00+00:00</published>
+    <updated>2026-11-16T17:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fimages%2Fnews%2Fu%2F1109292%2F2023%2FEX546390.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026">theregister.com</a> | <a href="https://news.ycombinator.com/item?id=50517321">hacker news</a></small></p><hr/><p>A software defect introduced during a July 2026 update caused a massive outage of Exchange Online and other Microsoft 365 services, according to a preliminary post-incident report. The defect triggered resource exhaustion via lock contention in an internal Windows process on network gateway servers. This instability was prompted when a load surge from a Teams failover occurred simultaneously with a 14 percent reduction in server capacity.</p><p>The event resulted in a cascading failure that left more than 80 percent of servers unresponsive at its peak. Because the code had been in production for months, engineers were unable to perform a standard rollback and instead had to develop a new patch to revert the code path to a known good state. The service disruption lasted from November 12 to November 14, 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fimages%2Fnews%2Fu%2F1109292%2F2023%2FEX546390.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 22:59 UTC | #27622</small>]]></content>
+  </entry>
   <entry>
     <title>Archive of Our Own Restored After More Than Two Weeks Offline</title>
     <link href="https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html?unlocked_article_code=1.Q1E.JOzR.v1pS94jn07St&amp;smid=url-share" rel="alternate" />
