@@ -19,6 +19,11 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/tech-industry.png" width="28" align="texttop" /> &nbsp;LinkedIn and Monster Remove Over 1,000 Fake Job Postings Following CBC Investigation</h2>
+<p>LinkedIn and Monster have removed more than 1,500 remote work job postings following a CBC investigation that connected the listings to a U.S.-based multi-level marketing company. The suspicious ads promoted roles such as travel planners with salaries up to $75,000 requiring no experience, but instead directed applicants to virtual sessions demanding upfront and monetary subscription fees.</p><p>The listings used pseudonyms like Wanderwell Collective and Professional Travel Hub to funnel users into Evolution Travel, a network marketing partner of Archer Travel Services. While Evolution Travel representatives denied encouraging job advertisements on public platforms, experts noted that such deceptive recruitment tactics violate platform rules and could potentially breach U.S. Federal Trade Commission regulations.</p>
+<p>Nov 16 · <a href="https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379">cbc.ca</a> | <a href="https://news.ycombinator.com/item?id=50499723">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Apple Plans Smart Glasses Launch for Late 2027 With Siri AI Integration</h2>
 <a name="story-27548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.redmondpie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FApple-smart-glasses.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple is reportedly developing a pair of smart glasses focused on deep third-party iPhone app integration powered by Siri AI. Industry sources indicate the company intends to unveil the wearable device at an upcoming Worldwide Developers Conference before shipping it by the end of 2027.</p><p>The hardware initiative forms part of a broader push into AI-driven wearables that includes exploring companion devices such as camera-equipped AirPods and wearable pendants. Concurrently, the company is working on introducing Face ID technology to its upcoming iPhone lineup.</p>
@@ -100,12 +105,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27449"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.simpleflyingimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2F2025-ajo-056-air-traffic-control-topaz-3-5-2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The FAA has issued a nationwide ground stop at all U.S. airports due to communication issues affecting multiple Air Route Traffic Control Centers. Citing "extraordinary circumstances" and safety reasons, the agency ordered all departing traffic to remain grounded until further notice.</p><p>Inbound international flights are being managed on a case-by-case basis while technicians investigate the communication failures. Air route traffic control centers primarily manage high-altitude en route airspace between airports.</p>
 <p>Nov 14 · <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50489678">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/tech-industry.png" width="28" align="texttop" /> &nbsp;Nvidia Board Approaches Arm CEO Rene Haas as Potential Successor to Jensen Huang</h2>
-<a name="story-27433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia's board of directors has approached Arm chief executive Rene Haas as part of its search for a potential successor to Jensen Huang. People familiar with the matter indicate that the head of the SoftBank-owned UK semiconductor group was sounded out regarding the leadership role.</p><p>Haas previously worked at Nvidia for more than a decade before moving to Arm, where he has successfully steered the company through its public listing and subsequent expansion. The inquiry highlights long-term succession planning considerations at the world's leading artificial intelligence chipmaker.</p>
-<p>Nov 14 · <a href="https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50486489">hacker news</a></p>
 <br clear="all" />
 
 ---
