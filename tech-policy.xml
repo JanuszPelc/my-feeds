@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-15T17:38:00+00:00</updated>
+  <updated>2026-11-15T20:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Scott Bessent Calls for Nvidia Leadership Shakeup Following Jensen Huang's Ouster</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster::v240</id>
+    <published>2026-11-15T20:22:00+00:00</published>
+    <updated>2026-11-15T20:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster">bloomberg.com</a></small></p><hr/><p>US Treasury Secretary Scott Bessent stated that Nvidia Corp. requires a dramatic leadership overhaul following the ouster of chief executive Jensen Huang. He also demanded answers within ten days regarding whether the company pushed seemingly illicit chip sales to China to artificially boost revenue.</p><p>The remarks highlight intensifying scrutiny over Nvidia's corporate governance and compliance with export controls following major executive changes. The demands place additional pressure on the chipmaker as it navigates both leadership transition and regulatory probes into its market practices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 02:01 UTC | #27546</small>]]></content>
+  </entry>
   <entry>
     <title>Jakub T. Jankiewicz Argues All AI-Generated Code Should Be Open Source</title>
     <link href="https://jakub.jankiewicz.org/blog/ai-code-open-source/" rel="alternate" />
