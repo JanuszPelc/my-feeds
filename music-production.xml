@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-16T02:17:00+00:00</updated>
+  <updated>2026-11-16T02:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Viiri Audio Updates Aava Creative Convolution Plugin to Version 1.1</title>
+    <link href="https://www.kvraudio.com/news/viiri-audio-updates-aava-creative-convolution-plugin-to-1-1-with-audio-unit-support-and-more-69830?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69830" rel="alternate" />
+    <id>https://www.kvraudio.com/news/viiri-audio-updates-aava-creative-convolution-plugin-to-1-1-with-audio-unit-support-and-more-69830?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69830::v240</id>
+    <published>2026-11-16T02:25:00+00:00</published>
+    <updated>2026-11-16T02:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Faava.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/viiri-audio-updates-aava-creative-convolution-plugin-to-1-1-with-audio-unit-support-and-more-69830?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69830">kvraudio.com</a></small></p><hr/><p>Viiri Audio has released version 1.1 of its Aava creative convolution plugin, introducing Audio Unit support and AIFF file compatibility alongside a new macro modulator type. The update removes the previous length limit on impulse responses, restricting buffer size only by available memory, and adds an xrun processing indicator.</p><p>Additional improvements include optimized memory usage, a new IR smoothing option to reduce high-frequency modulation noise, and native sample-rate loading for impulse responses. The update also features a Dry/Wet mix lock, smoother preset changes, and various bug fixes addressing window sizing and crash issues.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Faava.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 12:06 UTC | #27610</small>]]></content>
+  </entry>
+  <entry>
+    <title>discoDSP Releases OB-Xd 4 Synth and Retromulator 2.4</title>
+    <link href="https://www.kvraudio.com/news/discodsp-releases-ob-xd-4-synth-modeled-on-a-real-ob-x8-updates-retromulator-to-2-4-69839?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69839" rel="alternate" />
+    <id>https://www.kvraudio.com/news/discodsp-releases-ob-xd-4-synth-modeled-on-a-real-ob-x8-updates-retromulator-to-2-4-69839?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69839::v240</id>
+    <published>2026-11-16T02:24:00+00:00</published>
+    <updated>2026-11-16T02:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fobxd4_3d_hq_dark.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/discodsp-releases-ob-xd-4-synth-modeled-on-a-real-ob-x8-updates-retromulator-to-2-4-69839?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69839">kvraudio.com</a> | <a href="https://www.discodsp.com/obxd/">discodsp.com</a></small></p><hr/><p>Developer discoDSP has released OB-Xd 4, a major new version of its polyphonic virtual analog synthesizer modeled directly on the Oberheim OB-X8 hardware. The software features an engine matched sample by sample against real hardware measurements, including all OB-X8 filter types, envelopes, LFOs, and voice allocation routines.</p><p>Alongside the flagship synth release, discoDSP updated its Retromulator multi-core hardware emulator to version 2.4. This update introduces the Nordic 2 core, which emulates the Nord Lead 2, and the MiniD analog three-oscillator monosynth core. Both OB-Xd 4 and Retromulator run on Mac, Windows, and Linux, supporting multiple formats and advanced microtuning and MIDI standards.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fobxd4_3d_hq_dark.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 12:03 UTC | #27609</small>]]></content>
+  </entry>
   <entry>
     <title>Initial Audio Updates Difro Melody AI to Version 2.5</title>
     <link href="https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69842" rel="alternate" />
@@ -409,23 +427,5 @@
     <updated>2026-11-11T12:54:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F01-hero_konstrukt.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/numerical-updates-konstrukt-to-v1-2-formerly-midirack-for-ipad-and-iphone---auv3-plug-in-hosting-a-rack-new-sequencers-and-fragments-69735?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69735">kvraudio.com</a> | <a href="https://numericalaudio.com/konstrukt">numericalaudio.com</a></small></p><hr/><p>Numerical Audio has released version 1.2 of its iOS music toolkit and renamed the app from MIDIRack to Konstrukt. The update introduces third-party AUv3 plug-in hosting, an audio path managed through a new Rack page, additional sequencers, and the ability to save custom graph editor nodes as reusable fragments.</p><p>The free update for existing users includes channel strips with insert effects and sidechain routing, 24-bit WAV recording, Ableton Link support, and new sequencing tools like Drum Grid and Stage Seq. Konstrukt is available as a standalone app and AUv3 plug-in for iPad and iPhone running iOS or iPadOS 17 or later.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F01-hero_konstrukt.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 18:03 UTC | #27156</small>]]></content>
-  </entry>
-  <entry>
-    <title>Warsaw Wave Releases Revolt Patchable Synth Plugin</title>
-    <link href="https://www.kvraudio.com/news/warsaw-wave-releases-revolt-patchable-synth-au-lv2-and-vst3-69500?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69500" rel="alternate" />
-    <id>https://www.kvraudio.com/news/warsaw-wave-releases-revolt-patchable-synth-au-lv2-and-vst3-69500?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69500::v240</id>
-    <published>2026-11-11T11:23:00+00:00</published>
-    <updated>2026-11-11T11:23:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frvps_main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/warsaw-wave-releases-revolt-patchable-synth-au-lv2-and-vst3-69500?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69500">kvraudio.com</a> | <a href="https://warsaw-wave.com/">warsaw-wave.com</a></small></p><hr/><p>Warsaw Wave has released Revolt Patchable Synth, a software synthesizer for Windows, macOS, and Linux available in AU, LV2, and VST3 plugin formats. The instrument combines analog-style, wavetable, and noise oscillators with multimode filters and modulation capabilities within a flexible, configurable panel layout.</p><p>The synth features eight assignable modulator slots—each supporting an envelope, LFO, or noise LFO—alongside an auto-focusing modulation matrix, patch cables that can be toggled on or off, and MPE expression support. It also includes four reorderable effect panels with reverb, delay, chorus, flanger, distortion, and bitcrusher options.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frvps_main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 17:14 UTC | #27187</small>]]></content>
-  </entry>
-  <entry>
-    <title>Producer Daramola Discusses Studio Gear and Production Philosophy</title>
-    <link href="https://musictech.com/features/interviews/daramol-interview/" rel="alternate" />
-    <id>https://musictech.com/features/interviews/daramol-interview/::v240</id>
-    <published>2026-11-11T11:19:00+00:00</published>
-    <updated>2026-11-11T11:19:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/features/interviews/daramol-interview/">musictech.com</a></small></p><hr/><p>The Grammy-winning producer details his studio setup, equipment preferences, and creative approach to music. Based in Miami, the Nigerian-born artist utilizes PMC 6-2 monitors and synthesizers such as the Moog Muse and Akai MPC Sample to craft his signature Latin-Afro sound.</p><p>His career spanned Nigeria and the UK before his signing with Sony Latin Pub. The interview also covers his upcoming fourth album, Le Di Sentido, and his perspective that sound selection is a fundamental element of music production.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDaramola-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 16:33 UTC | #27143</small>]]></content>
   </entry>
 </feed>
