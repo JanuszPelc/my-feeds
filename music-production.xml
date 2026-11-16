@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-16T16:03:00+00:00</updated>
+  <updated>2026-11-16T16:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Dystopian Waves Releases RHETON Free and DBot MIDI Plugins</title>
+    <link href="https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/::v240</id>
+    <published>2026-11-16T16:10:00+00:00</published>
+    <updated>2026-11-16T16:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/">bedroomproducersblog.com</a> | <a href="https://dystopianwaves.gumroad.com/l/prhetonfree">dystopianwaves.gumroad.com</a></small></p><hr/><p>RHETON Free and DBot are free MIDI plugins from Dystopian Waves. RHETON Free is a generative performance engine that transforms chord progressions into instrument-inspired patterns, such as guitar strums or piano parts. DBot functions as a humanizer, adjusting timing and dynamics to add variation to programmed MIDI parts.</p><p>Both plugins support VST3 and AU formats for Windows and macOS, including native support for Apple Silicon. They offer real-time MIDI processing, MIDI import/export, and a piano roll that visualizes processed note shifts. The software is available for $0 via Gumroad, though macOS users should note the files are unsigned and unnotarized.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 21:24 UTC | #27649</small>]]></content>
+  </entry>
   <entry>
     <title>Vocal Pockets Releases VIPA MIDI Chord Generator</title>
     <link href="https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/" rel="alternate" />

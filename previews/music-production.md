@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Dystopian Waves Releases RHETON Free and DBot MIDI Plugins</h2>
+<a name="story-27649"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>RHETON Free and DBot are free MIDI plugins from Dystopian Waves. RHETON Free is a generative performance engine that transforms chord progressions into instrument-inspired patterns, such as guitar strums or piano parts. DBot functions as a humanizer, adjusting timing and dynamics to add variation to programmed MIDI parts.</p><p>Both plugins support VST3 and AU formats for Windows and macOS, including native support for Apple Silicon. They offer real-time MIDI processing, MIDI import/export, and a piano roll that visualizes processed note shifts. The software is available for $0 via Gumroad, though macOS users should note the files are unsigned and unnotarized.</p>
+<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/">bedroomproducersblog.com</a> | <a href="https://dystopianwaves.gumroad.com/l/prhetonfree">dystopianwaves.gumroad.com</a></p>
+<br clear="all" />
+
 <h2>Vocal Pockets Releases VIPA MIDI Chord Generator</h2>
 <a name="story-27650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr-b8nogsSXI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vocal Pockets' new VIPA plugin uses "Moodscapes" images to suggest chord progressions via MIDI on macOS and Windows. The tool populates 16 pads with chords matching a selected image's mood, which can be triggered via keyboard or dragged into a DAW. It is compatible with VST3, AU, and Logic Pro's MIDI FX format.</p><p>The software is available for $9.99 per month or $99 per year, including 100 monthly generation credits and periodic image updates. Users can refine chords by adjusting voicing, inversion, and strumming patterns, or by using humanization modes to vary performance timing. Internet is required for activation and image-based generation.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27604"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffx-main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Soundyan has released Hyperstellar FX, a multi-slot freeze and spectral effect plugin designed for musicians and sound designers working with ambient textures, drones, and live layering. The software captures incoming audio into separate freeze slots, allowing users to build sustained layers from single instruments and process them spectrally into evolving pads.</p><p>The plugin includes four independent freeze slots, built-in shimmer reverb and delay, an orbit sequencer, MIDI Learn capabilities, and modulation options driven by LFOs, envelopes, or live input signals. Frozen layers can be exported as 24-bit FLAC files, and the software is available for Windows and macOS in VST3, AU, and standalone formats with an introductory price through November 2026.</p>
 <p>Nov 16 · <a href="https://www.kvraudio.com/news/soundyan-releases-hyperstellar-fx-au-and-vst3-69771?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69771">kvraudio.com</a> | <a href="https://soundyan.com/hyperstellar-fx.php">soundyan.com</a></p>
-<br clear="all" />
-
-<h2>RiverFlux Audio Releases RF-BUS Free Bus Compressor Plugin</h2>
-<a name="story-27554"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVXTM_CBlRuo%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>RiverFlux Audio has released the RF-BUS free stereo bus compressor as part of the Relic 0.4.7 update for macOS, Windows, and Linux. The plugin features selectable compression ratios, adjustable attack and release times with an auto mode, a sidechain high-pass filter, external sidechain routing, a dry/wet mix knob with a lock feature, and up to 8x oversampling.</p><p>The Relic bundle now includes seventeen processors distributed across compressors, EQs, tape machines, a channel strip, and reverbs available on a pay-what-you-want basis. The 0.4.7 version also introduces dedicated offline-render oversampling settings, undo and redo support, exact value entry, and linear-phase filtering options while reducing overall CPU usage.</p>
-<p>Nov 15 · <a href="https://bedroomproducersblog.com/2026/11/15/riverflux-audio-rf-bus-free/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/Relic">riverfluxaudio.gumroad.com</a></p>
 <br clear="all" />
 
 ---
