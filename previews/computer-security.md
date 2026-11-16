@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>United Launch Alliance Vulcan Rocket Fails During Amazon Satellite Launch</h2>
+<p>A United Launch Alliance Vulcan rocket failed approximately 10 minutes after launching from Florida, destroying a payload of 40 internet satellites for Amazon's Leo broadband network. The incident marks the first total mission failure in the Boeing-Lockheed joint venture's two-decade history.</p><p>The flight was intended to expand Amazon's planned constellation designed to compete with SpaceX's Starlink service. The loss deals a significant setback to the company's deployment timeline following the rocket's return to service.</p>
+<p>Nov 16 · <a href="https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50511072">hacker news</a></p>
+<br clear="all" />
+
 <h2>HPTS 2026 Talk Advocates for Quorum-Based Database Replication</h2>
 <a name="story-27595"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQGG3Wsg1WYspA%2Ffeedshare-shrink_1280%2FB56ZXT_E.PGcAo-%2F0%2F1743018283389%3Fe%3D2147483647%26v%3Dbeta%26t%3DIcciKxtmDYKmMCOwMAaExGYOx9LtMkcNq1EEnFmTzWA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In a presentation at HPTS 2026, the author argues that distributed database architectures should reconsider quorum-based replication rather than relying entirely on Raft. While early quorum systems like Cassandra, Megastore, and E-Paxos faced challenges with contention latency and snapshot management, those historical drawbacks do not make the model inherently impractical.</p><p>The talk examines recent advancements such as QuePaxa and Neo4J's RIOT protocol, which mitigate traditional leaderless consensus bottlenecks by bounding latency under contention and improving state management. The author contends that developing and testing modern quorum databases will provide viable alternatives to dominant primary-backup and consensus-log designs.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27373"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fupwork-cloud%2Fimage%2Fupload%2Fc_scale%2Cw_1000%2Fv1767345918%2Fcatalog%2F2007019664650851632%2Fjt54qkbh00r1hqheq4ip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Users report significant security vulnerabilities following a recent overhaul of the Humble Bundle website. Key issues include the removal of two-factor authentication (2FA), the ability to change passwords without verifying the previous one, and email updates that send confirmation codes to the new email address rather than the original.</p><p>Some commenters attribute these flaws to "vibecoding," a development method heavily reliant on AI-generated code. In response, users have suggested unlinking sensitive data, such as payment methods and Steam accounts, to protect against account hijacking.</p>
 <p>Nov 12 · <a href="https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/">forums.spacebattles.com</a> | <a href="https://www.humblebundle.com/">humblebundle.com</a> | <a href="https://news.ycombinator.com/item?id=50463899">hacker news</a></p>
-<br clear="all" />
-
-<h2>Samsung TV Ads Replaced With Custom Images Using Compromised eMudhra Certificate</h2>
-<a name="story-27371"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdvratil.cz%2F2026%2F11%2Fhijacking-samsung-tv-smart-hub-ads%2Fimages%2Ffrontend.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Samsung TV advertisements are being replaced with custom images by exploiting a compromised Certificate Authority (CA) certificate from eMudhra. By routing TV traffic through a local server using mitmproxy, encrypted requests to Samsung's ad domains are intercepted and responded to with spoofed JSON payloads containing personal photos.</p><p>The exploit relies on the TV's continued trust in the compromised eMudhra CA certificate, which allows for the creation of valid SSL certificates for Samsung's ad delivery domains. The solution uses a Rust-based server and specific network configurations to intercept traffic at the router level. This method remains effective until Samsung issues a software update to revoke the compromised certificate.</p>
-<p>Nov 12 · <a href="https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/">dvratil.cz</a> | <a href="https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50465987">hacker news</a></p>
 <br clear="all" />
 
 ---

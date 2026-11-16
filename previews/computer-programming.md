@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Clice v1.0 C/C++ Language Server Released</h2>
+<a name="story-27597"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic2.zhimg.com%2Fv2-bb2148a7f481c6a765369447b3ffaf5d_r.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer ykiko has released version 1.0 of clice, a next-generation C/C++ language server built on LLVM/Clang and written in modern C++23. Designed to address long-standing architectural limitations in existing tools like clangd, clice features a multi-process compilation pool to prevent server crashes from compiler errors, native support for C++20 named modules, and an asynchronous architecture using C++20 coroutines.</p><p>The stable release follows two and a half years of development and four months of alpha testing across real-world open-source projects. In addition to its language server features—such as enhanced template handling and toolchain environment probing—clice includes a command-line interface with subcommands for project indexing, linting, refactoring, code formatting, and automated module wrapping.</p>
+<p>Nov 16 · <a href="https://www.ykiko.me/en/articles/2105384023094834022/">ykiko.me</a> | <a href="https://github.com/clice-io/clice">github.com</a> | <a href="https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c">lobsters</a></p>
+<br clear="all" />
+
 <h2>Jiff 1.0 Datetime Library for Rust Released</h2>
 <a name="story-27591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F15968&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Andrew Gallant has announced the release of Jiff 1.0, a datetime library for Rust designed to prevent common errors by placing time zone management front and center in its API. The library encapsulates complex temporal concepts like daylight saving time transitions, offsets, and calendar calculations to help developers avoid frequent modeling mistakes.</p><p>Jiff has already achieved widespread production adoption across major Rust projects such as Cargo, uv, and Nushell. With the 1.0 release, the author commits to long-term API stability, enabling developers to safely use Jiff as a public dependency in downstream ecosystem libraries.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Jane Street Develops OxCaml Domain-Specific Language for High-Performance Parallel Programming</h2>
 <p>Jane Street summer intern Sai Konkimalla developed a domain-specific language (DSL) and compiler for high-performance single-program, multiple-data (SPMD) programming in OxCaml. The project makes SIMD instruction usage more ergonomic and architecture-independent by allowing developers to write high-level kernels that compile and run across multiple processor backends.</p><p>Utilizing OxCaml's recent runtime metaprogramming features, the JIT compiler evaluates and optimizes code at runtime to eliminate branch instructions and streamline calculations. The system features a directed acyclic graph front end supporting diverse numeric types alongside specialized control flow constructs designed for parallel execution.</p>
 <p>Nov 14 · <a href="https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/">blog.janestreet.com</a> | <a href="https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance">lobsters</a></p>
-<br clear="all" />
-
-<h2>Self-Booting ZIP Archive Created Using Polyglot Techniques</h2>
-<a name="story-27507"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FZIP-Self-Extractor-Maker_1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A newly developed self-booting ZIP archive functions simultaneously as a standard compressed file containing source code and a standalone bootable x86 image. By crafting the archive's initial local file header to double as valid 8086 machine code and a Multiboot header, the file can boot directly on bare-metal hardware or via QEMU.</p><p>The design exploits the structural characteristics of the ZIP format, which is read from the footer and allows custom data placement without breaking integrity. This polyglot technique enables the archive to execute an embedded bootloader that switches to 32-bit protected mode and queries disk geometry, while still retaining all files necessary to rebuild itself.</p>
-<p>Nov 14 · <a href="https://goliath32.com/blog/ziphead.html">goliath32.com</a> | <a href="https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50498295">hacker news</a></p>
 <br clear="all" />
 
 ---

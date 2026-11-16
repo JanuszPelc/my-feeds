@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-16T02:02:00+00:00</updated>
+  <updated>2026-11-16T02:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>United Launch Alliance Vulcan Rocket Fails During Amazon Satellite Launch</title>
+    <link href="https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/" rel="alternate" />
+    <id>https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/::v240</id>
+    <published>2026-11-16T02:05:00+00:00</published>
+    <updated>2026-11-16T02:05:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50511072">hacker news</a></small></p><hr/><p>A United Launch Alliance Vulcan rocket failed approximately 10 minutes after launching from Florida, destroying a payload of 40 internet satellites for Amazon's Leo broadband network. The incident marks the first total mission failure in the Boeing-Lockheed joint venture's two-decade history.</p><p>The flight was intended to expand Amazon's planned constellation designed to compete with SpaceX's Starlink service. The loss deals a significant setback to the company's deployment timeline following the rocket's return to service.</p><hr/><small>16 Nov 2026, 08:35 UTC | #27570</small>]]></content>
+  </entry>
   <entry>
     <title>HPTS 2026 Talk Advocates for Quorum-Based Database Replication</title>
     <link href="https://transactional.blog/talk/please-implement-a-quorum-database" rel="alternate" />
