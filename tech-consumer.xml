@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-16T16:37:00+00:00</updated>
+  <updated>2026-11-16T16:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Grand Theft Auto VI Development Features Billion-Dollar Budget and Dual Protagonists</title>
+    <link href="https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games" rel="alternate" />
+    <id>https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games::v240</id>
+    <published>2026-11-16T16:40:00+00:00</published>
+    <updated>2026-11-16T16:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F653be1d2025e6e81bbe8942259f72ca29936769c%2F486_0_2700_2160%2Fmaster%2F2700.jpg%3Fwidth%3D445%26dpr%3D1%26s%3Dnone%26crop%3Dnone&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50509869">hacker news</a></small></p><hr/><p>Rockstar North is nearing the release of Grand Theft Auto VI following more than a decade of development and an estimated budget exceeding $1 billion. Set in the Vice City metropolis, the game introduces a dual-protagonist system featuring characters Lucia and Jason, allowing players to influence their relationship and engage in more consequence-driven criminal activities.</p><p>The game marks a narrative shift for the franchise by incorporating mechanics that encourage empathy and more calculated crime, moving away from the series' historical focus on undirected mayhem. This release occurs amidst significant industry-wide challenges and an ongoing employment tribunal in Glasgow involving Rockstar employees and unionization efforts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F653be1d2025e6e81bbe8942259f72ca29936769c%2F486_0_2700_2160%2Fmaster%2F2700.jpg%3Fwidth%3D445%26dpr%3D1%26s%3Dnone%26crop%3Dnone&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 22:07 UTC | #27612</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Teases Project Helix as a Console Capable of Playing PC Games</title>
     <link href="https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details" rel="alternate" />

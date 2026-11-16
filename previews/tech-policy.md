@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Meta, Apple, Alphabet, and Signal Oppose Canada&#x27;s Bill C-22</h2>
+<a name="story-27623"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thexyz.com%2Fblog%2Fwp-content%2Fuploads%2Fstopc22XYZ-1280x640.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The proposed Bill C-22 in Canada has met significant opposition from Meta, Apple, Alphabet, and Signal. The legislation would mandate that tech companies retain and provide metadata to government authorities for lawful access.</p><p>This pushback, occurring under Prime Minister Mark Carney's government, highlights tensions between government-mandated lawful access and the security standards maintained by major platforms.</p>
+<p>Nov 16 · <a href="https://www.bloomberg.com/news/articles/2026-11-16/canada-s-carney-faces-meta-google-apple-backlash-over-lawful-access-bill-c-22">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>404 Media Article Explores AI Copyright Challenges</h2>
 <a name="story-27653"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.spinbot.org%2Fwp-content%2Fuploads%2F2025%2F06%2FCopyright-Laws-for-AI-Generated-Content.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>404 Media published an article examining the copyright and legal complications driven by artificial intelligence systems. The reporting addresses the conflicts that emerge as generative technology interacts with traditional intellectual property laws.</p><p>The piece is part of the outlet's ongoing coverage of technology, policy, and digital culture. Access to the full reporting requires a paid subscription to the platform.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27514"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F05%2FGettyImages-2216028442.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An independent petition calling on Nvidia to reinstate recently ousted CEO Jensen Huang has garnered over 115,000 signatures, including thousands from current and former employees and shareholders. Notable tech executives, such as Tesla and SpaceX CEO Elon Musk, Replit CEO Amjad Masad, and Epic Games CEO Tim Sweeney, have added their support to the open letter.</p><p>The petition demands that Nvidia's board bring Huang back pending an independent investigation, arguing he was removed without proper due process. Huang resigned following disclosures regarding personal relationships, including an admission to a relationship with an individual identified by U.S. intelligence as a suspected Chinese spy, while CFO Colette Kress has taken over as interim CEO.</p>
 <p>Nov 14 · <a href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/">techcrunch.com</a> | <a href="https://standwithjensen.com/">standwithjensen.com</a> | <a href="https://news.ycombinator.com/item?id=50491690">hacker news</a></p>
-<br clear="all" />
-
-<h2>Electronic Frontier Foundation Warns Wearable Recording Devices Threaten Bystander Privacy</h2>
-<a name="story-27519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adams.africa%2Fwp-content%2Fuploads%2F2025%2F02%2FADA_250129_24131-POPIA-article_Web-Article.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The proliferation of ambient surveillance wearables—including smart glasses from Meta and Google, transcription-enabled watches from Apple, and recording hardware from Amazon—is shifting the concept of privacy away from individual choice toward unavoidable background monitoring. These devices capture continuous audio, video, or data throughout the day, effectively implicating everyone in a user's vicinity regardless of their consent.</p><p>While technology companies offer various technical safeguards and privacy controls, these measures exclusively protect the device owner and leave bystanders without practical ways to opt out. This normalization of passive recording undermines longstanding social norms regarding conversational privacy and places an unreasonable burden on individuals to navigate a physical landscape saturated with hidden recording technology.</p>
-<p>Nov 14 · <a href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again">eff.org</a> | <a href="https://news.ycombinator.com/item?id=50496602">hacker news</a></p>
 <br clear="all" />
 
 ---
