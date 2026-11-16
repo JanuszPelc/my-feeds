@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Aphyr Releases Hegel-clj Generative Testing Library for Clojure</h2>
+<a name="story-27677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshot.huntscreens.com%2F86aa65c0-e165-4435-aeea-905bc49ceb53_large.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kyle Kingsbury has released hegel-clj, a Clojure interface for the Hegel generative testing library. The package provides a streamlined, consistent alternative to traditional property-based testing tools like test.check, addressing common composition limitations and shrinking inefficiencies associated with nested generators and the bind function.</p><p>Unlike traditional libraries that rely on precomputed shrink trees, Hegel employs internal test-case-reduction to generate similar, smaller counterexamples more reliably. The hegel-clj library features pure, composable generators, a convenient let macro, a deferred API for recursive structures, and seamless integration with clojure.test.</p>
+<p>Nov 16 · <a href="https://aphyr.com/posts/428-announcing-hegel-clj">aphyr.com</a> | <a href="https://lobste.rs/s/ydzo2o/announcing_hegel_clj">lobsters</a></p>
+<br clear="all" />
+
 <h2>Core Program Visualizes Process Memory as Bitmaps</h2>
 <a name="story-27670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F001%2F205%2F950%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Core is an esoteric debugging and paint program that visualizes the memory of running processes by arranging memory pages along a Z-order curve and rendering them as bitmaps where each bit corresponds to a pixel. The software displays text and data segments, stacks, and heaps, allowing users to observe memory structures and directly manipulate or scribble onto the process space.</p><p>By mapping memory to visual textures, the program reveals patterns such as ASCII text, pointers, garbage collection cycles, and graphical assets like game sprites or operating system icons. When attached to emulators or virtual machines, it provides an overview of entire operating systems, rendering dynamic memory allocation and page table activity visible in real time.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27536"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.comp.nus.edu.sg%2F~nityalak%2FCS1010S%2Fimg%2FMultiDimensional%2Fnested%2FCount02.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The article explores three different approaches to parsing nested lists in BQN using data from Advent of Code 2022 day 13. It examines a high-level solution using the system evaluation function, a conventional recursive descent parser, and an array-style parser.</p><p>The piece evaluates the performance and implementation details of each method through benchmarking. While the evaluation function approach proves slow and error-prone, the recursive descent and array-style techniques demonstrate how traditional algorithms and array manipulation primitives can be effectively implemented in BQN.</p>
 <p>Nov 15 · <a href="https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html">saltysylvi.github.io</a> | <a href="https://lobste.rs/s/nbjckz/parsing_nested_lists_bqn">lobsters</a></p>
-<br clear="all" />
-
-<h2>Willett Examines the Difficulties of User Data Ownership in Web Applications</h2>
-<a name="story-27518"><img src="https://wsrv.nl/?url=https%3A%2F%2Finvozone-backend.s3.amazonaws.com%2Fweb_application_architecture_layers_9cb0a33601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Willett examines the architectural challenges of allowing web application users to maintain ownership of their personal data rather than storing it on central backend services like Supabase. Drawing on development experience with the app Cheapskate, the post highlights the tension between providing seamless, multi-device functionality and respecting user privacy.</p><p>The essay evaluates several alternative data storage approaches—including browser local storage, file pickers, cloud platform databases, and local-first CRDTs—noting that each falls short due to limitations in cross-device synchronization, collaboration, authentication friction, or inadequate SQL query support.</p>
-<p>Nov 14 · <a href="https://www.willett.io/posts/data/">willett.io</a> | <a href="https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data">lobsters</a></p>
 <br clear="all" />
 
 ---

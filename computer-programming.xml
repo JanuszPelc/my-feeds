@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-16T13:13:00+00:00</updated>
+  <updated>2026-11-16T14:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Aphyr Releases Hegel-clj Generative Testing Library for Clojure</title>
+    <link href="https://aphyr.com/posts/428-announcing-hegel-clj" rel="alternate" />
+    <id>https://aphyr.com/posts/428-announcing-hegel-clj::v240</id>
+    <published>2026-11-16T14:51:00+00:00</published>
+    <updated>2026-11-16T14:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fshot.huntscreens.com%2F86aa65c0-e165-4435-aeea-905bc49ceb53_large.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://aphyr.com/posts/428-announcing-hegel-clj">aphyr.com</a> | <a href="https://lobste.rs/s/ydzo2o/announcing_hegel_clj">lobsters</a></small></p><hr/><p>Kyle Kingsbury has released hegel-clj, a Clojure interface for the Hegel generative testing library. The package provides a streamlined, consistent alternative to traditional property-based testing tools like test.check, addressing common composition limitations and shrinking inefficiencies associated with nested generators and the bind function.</p><p>Unlike traditional libraries that rely on precomputed shrink trees, Hegel employs internal test-case-reduction to generate similar, smaller counterexamples more reliably. The hegel-clj library features pure, composable generators, a convenient let macro, a deferred API for recursive structures, and seamless integration with clojure.test.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fshot.huntscreens.com%2F86aa65c0-e165-4435-aeea-905bc49ceb53_large.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 20:08 UTC | #27677</small>]]></content>
+  </entry>
   <entry>
     <title>Core Program Visualizes Process Memory as Bitmaps</title>
     <link href="https://citrons.xyz/journal/2026-04-13" rel="alternate" />

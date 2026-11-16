@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>US Department of Commerce Implements New Export Controls on Remote AI Compute Access</h2>
+<a name="story-27640"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.usimportdata.com%2Fblogs%2Fuploads%2Fimages%2F202506%2Fimage_750x_68481472f3c58.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The U.S. Commerce Department has introduced interim export controls requiring licenses for transferring advanced AI chips and servers to international data centers that could supply computing power to restricted countries, including China. The rules aim to close loopholes that allowed companies in embargoed nations to bypass direct shipping restrictions by utilizing foreign remote infrastructure.</p><p>The regulations apply to data networks exceeding 12 million total processing performance and mandate heightened customer vetting by exporters and data center operators. In addition, the framework imposes new licensing requirements for advanced semiconductor transfers to several countries identified as having high diversion risks, while formally rescinding the Biden administration's previous AI Diffusion Rule.</p>
+<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/">techcrunch.com</a> | <a href="https://www.bis.gov/media/documents/rin-0694-ak50.pdf">bis.gov</a></p>
+<br clear="all" />
+
+<h2>Musician Faces Copyright Strikes From AI Content Mill</h2>
+<a name="story-27643"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Musician Samantha Shokin received copyright strikes on YouTube for her recording of a public domain Bulgarian folk song. The claims were issued by Media Nov Records, a company that operates approximately 500 YouTube channels featuring AI-generated art and low-effort electronic music.</p><p>Media Nov Records uses automated systems for rights management and content recognition, but investigations suggest the company may use a "shotgun approach" to filing takedowns. The copyright dispute was only resolved after 404 Media contacted the company, leading Media Nov to retract the claim.</p>
+<p>Nov 16 · <a href="https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/">404media.co</a></p>
+<br clear="all" />
+
 <h2>Megaspeed Conducts Internal Probe and Confirms Alice Huang Left in 2025</h2>
 <a name="story-27560"><img src="https://wsrv.nl/?url=https%3A%2F%2Falicecwhuang.github.io%2Fimg%2Fprofile.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Singapore-based cloud computing company Megaspeed International announced an internal investigation led by outside lawyers amid ongoing fallout surrounding Chinese businesswoman Alice Huang. The company stated that Huang left her role in August 2025 and currently holds no position within the organization.</p><p>Megaspeed has faced scrutiny from U.S. and Singapore authorities over allegations that it circumvented export restrictions to route advanced Nvidia chips to Chinese companies. The scrutiny and reports regarding Huang's relationship with former Nvidia CEO Jensen Huang previously prompted his resignation, while U.S. and Singapore officials continue examining compliance and security matters.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27499"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftradersunion.com%2Fuploads%2Fimages%2Ftu-news%2F02026%2F11%2F4191154%2Fnvidia-loses-more.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang’s departure from Nvidia has prompted varied responses from Asian governments as they assess potential impacts on the regional AI industry. South Korea is working to secure continued GPU supplies and joint projects, while Taiwan officials report that planned overseas headquarters and investments remain on track.</p><p>In China, the departure has raised uncertainty over more than $3 billion in AI computing projects reliant on restricted Nvidia processors. The resignation also follows an investigation into Huang's relationship with a former Megaspeed executive, who was previously barred from Singapore during a probe into server declarations.</p>
 <p>Nov 14 · <a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia CEO Jensen Huang Struggled to Access Chinese Policymakers Amid Chip Push</h2>
-<a name="story-27479"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>According to sources, Nvidia chief executive Jensen Huang struggled to gain access to key Chinese policymakers driving Beijing's chip self-sufficiency campaign, despite the company operating in the country for more than two decades. The difficulties underscore the shifting dynamics between major US semiconductor firms and Chinese officials as Beijing intensifies efforts to build domestic technological independence.</p><p>The reported access barriers highlight the complex environment Nvidia navigates as it balances its long-standing presence in the Chinese market against escalating geopolitical tensions and tightening export controls. The scrutiny surrounding Huang's ties to Beijing reflects broader challenges foreign technology companies face amid intensified state-led industrial policies.</p>
-<p>Nov 14 · <a href="https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277">ft.com</a></p>
-<br clear="all" />
-
-<h2>U.S. Officials State Trump Will Not Raise Nvidia and Spy Allegations During China Trip</h2>
-<a name="story-27465"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.defensepriorities.org%2Fwp-content%2Fuploads%2F2026%2F05%2F55271247042_1beac31549_o-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>U.S. officials stated that President Donald Trump does not plan to raise allegations of a Chinese intelligence operation involving former Nvidia CEO Jensen Huang during his upcoming meeting with Chinese President Xi Jinping. Discussions in Shenzhen, China, will instead focus on the implementation of trade agreements, with officials emphasizing that American export controls are not up for negotiation.</p><p>Elon Musk is scheduled to accompany Trump on the trip for the APEC summit, alongside plans for a three-way meeting between Trump, Xi, and Russian President Vladimir Putin. The intelligence controversy follows Huang's recent resignation amid reports regarding his relationship with a former executive at a cloud-computing company suspected of diverting restricted Nvidia chips to China.</p>
-<p>Nov 14 · <a href="https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html">cnbc.com</a></p>
 <br clear="all" />
 
 ---

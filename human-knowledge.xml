@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-16T13:39:00+00:00</updated>
+  <updated>2026-11-16T14:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>DNA Study Resolves Taxonomic Status of Extinct Continental Crane Species</title>
+    <link href="https://theconversation.com/dna-study-of-ancient-cranes-suggests-we-need-to-rethink-how-many-species-have-gone-extinct-296569" rel="alternate" />
+    <id>https://theconversation.com/dna-study-of-ancient-cranes-suggests-we-need-to-rethink-how-many-species-have-gone-extinct-296569::v240</id>
+    <published>2026-11-16T14:54:00+00:00</published>
+    <updated>2026-11-16T14:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771916%2Foriginal%2Ffile-20261113-64-2x7nnf.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/dna-study-of-ancient-cranes-suggests-we-need-to-rethink-how-many-species-have-gone-extinct-296569">theconversation.com</a> | <a href="https://royalsocietypublishing.org/rsos/article/13/10/260699/483927/Ancient-DNA-study-resolves-the-taxonomic-status-of">royalsocietypublishing.org</a></small></p><hr/><p>An ancient DNA study analyzing 18 crane bone fragments from across Europe has concluded that the extinct primeval crane species Grus primigenia is actually the modern common crane (Grus grus). Researchers found that previous classifications of a separate, larger extinct species were the result of misinterpreting sexual dimorphism and historical size variations in the birds.</p><p>The findings suggest that caution is warranted when evaluating historical bird extinctions based solely on skeletal size differences, as distinct species classifications may instead reflect size disparities between males and females of the same species. The common crane itself experienced a size decrease over the last millennium before disappearing from Britain centuries ago due to habitat loss and hunting, though populations returned naturally in the 1970s.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771916%2Foriginal%2Ffile-20261113-64-2x7nnf.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 20:09 UTC | #27644</small>]]></content>
+  </entry>
   <entry>
     <title>Cara Ocobock Explains the Evolution and Distribution of Human Body Fat</title>
     <link href="https://theconversation.com/why-does-your-body-store-fat-in-your-butt-294331" rel="alternate" />
@@ -176,14 +185,5 @@
     <updated>2026-11-11T14:23:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F402%2F402e9f20-a20f-4ed7-b2ec-96ef1eb88548%2FphpPmL0TI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/why-the-doomsday-prediction-of-1960-matters-today-295817">theconversation.com</a></small></p><hr/><p>In 1960, physicist Heinz von Foerster and colleagues published a paper in Science predicting that global population growth would lead to "doomsday" on November 13, 2026. The prediction was intentionally engineered using a mathematical equation fitted to historical data to demonstrate that exponential growth rates were unsustainable, which subsequently fueled a wave of overpopulation alarmism and justified harmful policies such as forced sterilizations and China's one-child policy.</p><p>Decades later, as many nations confront declining birth rates and aging populations rather than overpopulation, the 1960 prediction serves as a cautionary tale about modeling limitations and the risks of blending science with advocacy. The analysis underscores that modern catastrophe predictions should be approached with humility, transparency, and rigorous scrutiny to prevent repeating past forecasting failures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cheggcdn.com%2Fmedia%2F402%2F402e9f20-a20f-4ed7-b2ec-96ef1eb88548%2FphpPmL0TI&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:40 UTC | #27165</small>]]></content>
-  </entry>
-  <entry>
-    <title>Office for Students Warns AI Threatens University Coursework Assessment</title>
-    <link href="https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator" rel="alternate" />
-    <id>https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator::v240</id>
-    <published>2026-11-11T12:04:00+00:00</published>
-    <updated>2026-11-12T19:32:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fproofademic.ai%2Fwp-content%2Fuploads%2F2025%2F11%2Fai-detection-in-school-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=50465844">hacker news</a></small></p><hr/><p>England’s higher education regulator, the Office for Students, warns that the widespread use of generative AI in essays and dissertations threatens the credibility of university degrees, making traditional coursework assessment nearly impossible.</p><p>Drawing on a joint investigation with Advance HE that surveyed over 300 students and staff, the regulator urges institutions to adopt traditional in-person exams, oral vivas, and process-based evaluations, warning that failing to address AI misuse could lead to regulatory sanctions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fproofademic.ai%2Fwp-content%2Fuploads%2F2025%2F11%2Fai-detection-in-school-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 18:02 UTC | #27138</small>]]></content>
   </entry>
 </feed>
