@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-16T04:36:00+00:00</updated>
+  <updated>2026-11-16T11:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Sumary Raises $25 Million Seed Round to Expand AI Accounting Software</title>
+    <link href="https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms/" rel="alternate" />
+    <id>https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms/::v240</id>
+    <published>2026-11-16T11:09:00+00:00</published>
+    <updated>2026-11-16T11:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdfn2h3yx4%2Fimage%2Fupload%2Fv1794319776%2Frbtke0yovl8c25lbn4og.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms/">techfundingnews.com</a></small></p><hr/><p>Sumary has secured $25 million in a seed funding round led by Singular, bringing its total funding to $29.2 million. The Copenhagen-based company provides AI software designed to automate accounting workflows, including monthly closes, VAT returns, and year-end processes. Existing investors byFounders, Partech, and Tenity also participated in the round.</p><p>The company is relocating its commercial operations to London to facilitate expansion into the UK and European markets. Sumary's tools aim to assist existing accounting firms by reducing manual workloads; the company reports that users can reduce the time spent on VAT returns by 75%. Current clients include Deloitte, Grant Thornton, and Baker Tilly.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdfn2h3yx4%2Fimage%2Fupload%2Fv1794319776%2Frbtke0yovl8c25lbn4og.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 17:05 UTC | #27594</small>]]></content>
+  </entry>
   <entry>
     <title>Kindo Raises $30M to Expand AI Agent Management Platform</title>
     <link href="https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/" rel="alternate" />
