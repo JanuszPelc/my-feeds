@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Suno Releases Suno Bridge Beta for Ableton Live 12</h2>
+<a name="story-27642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSuno-Bridge-over-DAW.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Suno has launched a beta version of Suno Bridge, a companion app designed to integrate AI-generated music creations directly into digital audio workstations. The initial release runs alongside Ableton Live 12 on Mac, allowing users to drag and drop AI-generated tracks straight into their project timelines.</p><p>By analyzing uploaded session files, Suno Bridge matches new AI creations—such as vocals, instruments, and samples—to an existing project's tempo, key, style, and VST plugins. Suno plans to expand compatibility to additional platforms and digital audio workstations in future updates.</p>
+<p>Nov 16 · <a href="https://musictech.com/news/music/suno-ai-bridge/">musictech.com</a> | <a href="https://suno.com/bridge">suno.com</a></p>
+<br clear="all" />
+
 <h2>GullDSP Releases Phathom Free Bass Preamp and Distortion Plugin</h2>
 <a name="story-27651"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUQvU4KyTJA%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GullDSP has released Phathom, a free and open-source bass guitar preamp and distortion plugin for Windows. Designed for modern fuzzy, growling, and clanky tones, the virtual pedal operates without any AI-generated code and features two distinct distortion styles alongside pre-distortion filtering and dry signal blending.</p><p>The plugin includes a fuzzy transformer-style saturation option and a clanky mode inspired by CMOS-based inverter chip pedals. It features automatic oversampling up to 4x, zero added latency, and is distributed under the MIT license as a 64-bit VST3 plugin directly through GitHub.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27541"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fp7rgfdtxpa6h%2F40U9ATVGaOvsSd8sQVnV5v%2F862209f41bd60a63a54014f7bcf18a58%2FDALL_E_2023-10-20_09.39.56_-_Photo_of_an_opulent_AI_music_award_stage__set_against_a_backdrop_of_a_vast_city._Nominees_and_w.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Sonic Intelligence Academy held its inaugural AI Music Awards at the Mayan Theater in Downtown Los Angeles, aiming to establish legitimacy and infrastructure for artificial intelligence-backed music creators. Artists competed across 25 categories, with AI persona Xania Monet winning multiple top honors including artist and song of the year.</p><p>Founded earlier in the year by Timirah “TJ” James and Mia James, the academy created the awards program and dedicated AI music charts to counter the mainstream music industry’s resistance and ongoing copyright lawsuits against generative tools. Despite various logistical challenges and technical hiccups during the live ceremony, the event highlighted independent creators utilizing AI to bypass traditional studio constraints.</p>
 <p>Nov 15 · <a href="https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/">variety.com</a> | <a href="https://news.ycombinator.com/item?id=50503067">hacker news</a></p>
-<br clear="all" />
-
-<h2>Qtractor v1.7.0 and Vee One Suite v1.5.2 Released for Linux</h2>
-<a name="story-27510"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor-small.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer rncbc.org has released Qtractor version 1.7.0 and Vee One Suite version 1.5.2 for GNU/Linux operating systems. Qtractor introduces a brand-new, basic audio clip editor featuring built-in audio tools such as gain, panning, normalization, time-stretching, pitch-shifting, and reverse, alongside improvements like unlinking clips and VST3 parameter normalization.</p><p>The update to the Vee One Suite of vintage-style software instruments resolves a crash that occurred during plug-in instance cleanup due to a race condition with the shared worker or schedule thread. Both applications remain free, open-source software distributed under the GNU General Public License version 2 or later.</p>
-<p>Nov 14 · <a href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-7-0-and-vee-one-suite-to-v1-5-2-for-linux-69826?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69826">kvraudio.com</a> | <a href="https://www.rncbc.org/drupal/node/2987">rncbc.org</a></p>
 <br clear="all" />
 
 ---

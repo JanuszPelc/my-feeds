@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-16T05:16:00+00:00</updated>
+  <updated>2026-11-16T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Google Maps Adds AI Trip Itinerary Builder and Appointment Scheduling Features</title>
+    <link href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/::v240</id>
+    <published>2026-11-16T14:49:00+00:00</published>
+    <updated>2026-11-16T14:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-16-at-9.36.52-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/">blog.google</a></small></p><hr/><p>Google is rolling out new artificial intelligence features for Google Maps that enable users to automatically build step-by-step trip itineraries, find local service appointments, and make phone calls to businesses on their behalf. Using the navigation platform's "Ask Maps" tool, users can input complex travel requests to generate day-by-day schedules complete with numbered map pins, real-time traffic details, and business hours.</p><p>The updates also allow users to query saved lists for places meeting specific criteria, such as locations with immediate table availability for groups. Additionally, Ask Maps is expanding to 30 European countries, including Spain, Germany, and the United Kingdom, on Android and iOS devices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-16-at-9.36.52-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 19:52 UTC | #27641</small>]]></content>
+  </entry>
   <entry>
     <title>Alibaba Launches Qwen4-Max AI Model with Strict Cybersecurity Guardrails</title>
     <link href="https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails" rel="alternate" />

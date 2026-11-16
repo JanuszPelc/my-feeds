@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-16T13:45:00+00:00</updated>
+  <updated>2026-11-16T14:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Suno Releases Suno Bridge Beta for Ableton Live 12</title>
+    <link href="https://musictech.com/news/music/suno-ai-bridge/" rel="alternate" />
+    <id>https://musictech.com/news/music/suno-ai-bridge/::v240</id>
+    <published>2026-11-16T14:37:00+00:00</published>
+    <updated>2026-11-16T14:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSuno-Bridge-over-DAW.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/music/suno-ai-bridge/">musictech.com</a> | <a href="https://suno.com/bridge">suno.com</a></small></p><hr/><p>Suno has launched a beta version of Suno Bridge, a companion app designed to integrate AI-generated music creations directly into digital audio workstations. The initial release runs alongside Ableton Live 12 on Mac, allowing users to drag and drop AI-generated tracks straight into their project timelines.</p><p>By analyzing uploaded session files, Suno Bridge matches new AI creations—such as vocals, instruments, and samples—to an existing project's tempo, key, style, and VST plugins. Suno plans to expand compatibility to additional platforms and digital audio workstations in future updates.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSuno-Bridge-over-DAW.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 19:52 UTC | #27642</small>]]></content>
+  </entry>
   <entry>
     <title>GullDSP Releases Phathom Free Bass Preamp and Distortion Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/" rel="alternate" />

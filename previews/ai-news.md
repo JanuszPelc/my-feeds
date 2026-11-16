@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google Maps Adds AI Trip Itinerary Builder and Appointment Scheduling Features</h2>
+<a name="story-27641"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-16-at-9.36.52-AM.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google is rolling out new artificial intelligence features for Google Maps that enable users to automatically build step-by-step trip itineraries, find local service appointments, and make phone calls to businesses on their behalf. Using the navigation platform's "Ask Maps" tool, users can input complex travel requests to generate day-by-day schedules complete with numbered map pins, real-time traffic details, and business hours.</p><p>The updates also allow users to query saved lists for places meeting specific criteria, such as locations with immediate table availability for groups. Additionally, Ask Maps is expanding to 30 European countries, including Spain, Germany, and the United Kingdom, on Android and iOS devices.</p>
+<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/">blog.google</a></p>
+<br clear="all" />
+
 <h2>Alibaba Launches Qwen4-Max AI Model with Strict Cybersecurity Guardrails</h2>
 <a name="story-27589"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fwp-content%2Fuploads%2F2025%2F09%2FAlibaba.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alibaba Group Holding has introduced Qwen4-Max, its most advanced artificial intelligence model to date, featuring strict cybersecurity guardrails. The company filtered the model's training data to remove offensive cyberattack capabilities while preserving defensive features such as vulnerability detection.</p><p>The rollout includes dedicated datasets and post-training enhancements to mitigate chemical, biological, radiological, and nuclear (CBRN) risks. Additionally, Alibaba stated that its upcoming Qwen 5 model is expected to scale between 5 trillion and 10 trillion parameters.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27334"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdist.neo4j.com%2Fwp-content%2Fuploads%2F20260415090718%2F1P_nU3k5L0-_ZqI7yYhjtVw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google Antigravity has released Gemini 4 Hydrogen and a new Orchestrator model option. Orchestrator uses a dynamic, bidirectional approach that switches between Gemini 4 Carbon for complex reasoning and planning and Gemini 4 Hydrogen for executing code edits and testing.</p><p>On the Terminal-Bench 4.1 benchmark, the Orchestrator feature reached near-Carbon task success rates while consuming 24% less quota and completing tasks 19% faster. Hydrogen is available as a standalone model with four adjustable reasoning levels and is rolling out to Google AI Pro, Ultra, and enterprise users.</p>
 <p>Nov 12 · <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">antigravity.google</a> | <a href="https://news.ycombinator.com/item?id=50472260">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google Integrates Gemini 4 Hydrogen Model into Search</h2>
-<a name="story-27327"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google is integrating the Gemini 4 Hydrogen model into Search to improve the handling of complex, multi-part questions and typos. Optimized for speed and agentic workflows, the model completes tasks 2.5 times faster than the previous Gemini 3.8 Flash.</p><p>The update introduces enhanced visual responses, such as comparison tables and structured data, and utilizes an improved "fan-out" technique for better query discovery. Hydrogen is rolling out globally to Search users, AI Studio, the Gemini API, and the Gemini App.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50471431">hacker news</a></p>
 <br clear="all" />
 
 ---
