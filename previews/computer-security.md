@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Microsoft Outlook Outage Delayed Phantasialand Pool Safety Alert</h2>
+<a name="story-27582"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fgxcuf89792%2Fimages%2FbS01NzY1MjItMTEzNzgyaTRDQTQ5REQ5MDBCQTZENUM%3Frevision%3D2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Fifteen guests at Phantasialand's Hotel Ling Bao in Brühl suffered respiratory irritation after a technical malfunction in an automatic dosing system pumped excessive chlorine into a swimming pool. The automated warning system's email notification failed to reach staff because of a widespread Microsoft Outlook service disruption.</p><p>Emergency responders and firefighters transported four individuals to the hospital, where one person remained under observation for a moderate injury, while 11 other guests were treated at the scene. Authorities temporarily closed the pool and replaced the water after testing confirmed the overchlorination caused by the faulty dosing equipment.</p>
+<p>Nov 15 · <a href="https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html">www1.wdr.de</a> | <a href="https://news.ycombinator.com/item?id=50509411">hacker news</a></p>
+<br clear="all" />
+
 <h2>Plakar Gains Minecraft Server Backup Integration</h2>
 <a name="story-27532"><img src="https://wsrv.nl/?url=https%3A%2F%2F1gbits.com%2Fcdn-cgi%2Fimage%2Fwidth%3D900%2Cquality%3D80%2Cformat%3Dauto%2Fhttps%3A%2F%2Fcdn.1gbits.com%2F1gbits%2F2026%2F05%2F16%2Fdark-4-column-comparison-of-minecraft-backup-methods-with-ea-ae9532.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The open-source backup tool Plakar has introduced a Minecraft server integration that automates consistent backups of live servers without requiring downtime. Created using an AI assistant, the connector communicates via RCON to temporarily pause world saves while allowing players to continue playing uninterrupted.</p><p>Operating as an extension of Plakar's filesystem connectors, the tool preserves entire server directories, including world files, configurations, and plugins. It also features an experimental implementation that encodes backup data directly into a custom-generated Minecraft terrain world where storage blocks can be physically walked across.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27345"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmultiple-microsoft-365-services-are-experiencing-an-outage%2Fintro-1794511005.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple platforms, including Outlook, Teams, SharePoint Online, Microsoft Copilot 365, and Microsoft Defender XDR, are experiencing connectivity errors. Microsoft has attributed the issue to elevated infrastructure load affecting multiple regions.</p><p>While the impact is centered on Business and Enterprise tiers, individual users are also reporting disruptions. To mitigate the load, Microsoft is repairing infrastructure and investigating an unexpected surge in service traffic.</p>
 <p>Nov 12 · <a href="https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/">engadget.com</a> | <a href="https://status.cloud.microsoft/">status.cloud.microsoft</a> | <a href="https://news.ycombinator.com/item?id=50471731">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI National Security Staff Tricked by Russian Pranksters Posing as Ukrainian Official</h2>
-<a name="story-27264"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxbusiness.com%2Ffoxbusiness.com%2Fcontent%2Fuploads%2F2025%2F02%2F931%2F523%2Fsam-altman-openai.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Three senior OpenAI national security and military policy staff were tricked into a video conversation by a Russian comedy duo posing as a high-ranking Ukrainian intelligence official. During the 17-minute call, the OpenAI employees discussed the company's military support for Ukraine, its contract with the U.S. Department of War, and its nascent partnerships with the Ukrainian Ministry of Defense.</p><p>The pranksters, known as Vovan and Lexus, have a history of targeting high-profile figures with calls that often align with Russian foreign policy. OpenAI stated that it investigated the incident, concluded it was a prank, and took preventative measures, while noting that the conversation also touched on U.S. policy regarding Ukraine and Elon Musk.</p>
-<p>Nov 12 · <a href="https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/">theintercept.com</a> | <a href="https://news.ycombinator.com/item?id=50461225">hacker news</a></p>
 <br clear="all" />
 
 ---
