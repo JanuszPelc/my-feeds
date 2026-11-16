@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Indonesia Requires Research Ecosystem Overhaul to Foster Nobel-Worthy Discoveries</h2>
+<a name="story-27579"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770627%2Foriginal%2Ffile-20261108-64-58w8ti.png%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Indonesia faces significant structural barriers in its scientific research ecosystem that hinder its potential to produce Nobel-winning breakthroughs, primarily due to low R&amp;D spending and minimal private sector contributions. Rigid grant evaluation frameworks, such as mandatory annual publication quotas, further discourage scientists from pursuing high-risk, curiosity-driven basic research that requires long-term commitment.</p><p>While successful research ecosystems like those in China and Singapore heavily back open-ended fundamental science alongside commercial applications, Indonesia's expenditure remains a fraction of its GDP. Addressing these challenges requires reliable multi-year funding, flexible evaluation metrics, and stronger industry engagement to give foundational scientific inquiry the time it needs to mature.</p>
+<p>Nov 16 · <a href="https://theconversation.com/can-indonesian-researchers-ever-win-a-nobel-not-without-overhauling-the-research-ecosystem-295244">theconversation.com</a></p>
+<br clear="all" />
+
 <h2>Andrew Gelman on Why Statistics Classes Depend on the Instructor</h2>
 <a name="story-27525"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.numerade.com%2Fask_images%2Febbc13a29fc14b338f09abee1a87c1e1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Statistician Andrew Gelman discusses why certain academic courses function as standardized commodities while others vary significantly depending on who is teaching them. He notes that while foundational math and physics classes generally cover the same core material regardless of instructor, subjects like statistics, history, and literature change substantially in both content and style from teacher to teacher.</p><p>Gelman explains that students often mistakenly view university statistics courses as a uniform collection of topics rather than specialized material shaped by the instructor's unique perspective and textbooks. This variability makes working with a specific researcher difficult for students who have not first taken that instructor's class to understand their approach.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-27201"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-f8cb3932-c6cc-490d-8b01-f99d945d0971-1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Astronomers have discovered a potentially supermassive neutron star in the J0008+0128 system. Its mass, estimated at up to 2.8 solar masses, may place it within the "mass gap" between neutron stars and black holes, helping to explain the scarcity of stellar remnants in that mass range.</p><p>The object's wide 1,218-day orbit and mass have proven difficult to reproduce in simulations, challenging current models of binary evolution and supernova mechanisms. The discovery may provide new insights into the "equation of state" of matter at extreme densities and how such massive remnants are formed.</p>
 <p>Nov 11 · <a href="https://www.404media.co/scientists-discovered-an-invisible-object-in-space/">404media.co</a> | <a href="https://www.science.org/doi/10.1126/sciadv.aeg3307">science.org</a></p>
-<br clear="all" />
-
-<h2>Anthropic CEO Dario Amodei Predicts Disease Eradication Within a Decade</h2>
-<a name="story-27157"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256654494-e1769534959678.jpg%3Fw%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>During Anthropic's initial public offering roadshow video, CEO Dario Amodei projected that major medical conditions including cancer, Alzheimer's, heart disease, and mental illness will become relics of the past in less than a decade. He asserted that rapid advancements in artificial intelligence could enable humanity to create an "age of miracles."</p><p>The comments emerged as Anthropic advances toward a major public offering, underscoring the company's ambitious outlook on the societal impact of frontier AI systems. Such projections reflect broader industry expectations that advanced AI models will dramatically accelerate breakthroughs in medical and scientific research.</p>
-<p>Nov 11 · <a href="https://x.com/firesidealpha">x.com</a></p>
 <br clear="all" />
 
 ---
