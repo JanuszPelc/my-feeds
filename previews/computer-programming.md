@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Nix Dynamic Derivations Explored Through a Chained Build Graph</h2>
+<a name="story-27598"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Ffoods%2Ffoods-11-03602%2Farticle_deploy%2Fhtml%2Fimages%2Ffoods-11-03602-g005.png%3F1668495732&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An exploration of experimental dynamic derivations in Nix demonstrates how a build graph can be created dynamically by chaining derivation outputs, using a programmatic implementation of the song "99 bottles of beer." By leveraging content-addressed derivations and walking the deriver chain using store queries, the build system can sequentially discover and build fifty-one successive derivations.</p><p>The experiment highlights technical constraints such as the 211-character limit on Nix store paths, which restricts the maximum chain length for this naming scheme to fifty derivations. The author also notes underlying bugs discovered during the implementation—such as handling content-addressed producers and deriver queries—as the Nix community continues developing dynamic build graphs through working groups.</p>
+<p>Nov 16 · <a href="https://fzakaria.com/2026/11/14/beer-drv-drv-drv">fzakaria.com</a> | <a href="https://lobste.rs/s/md0vco/beer_drv_drv_drv">lobsters</a></p>
+<br clear="all" />
+
 <h2>Clice v1.0 C/C++ Language Server Released</h2>
 <a name="story-27597"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic2.zhimg.com%2Fv2-bb2148a7f481c6a765369447b3ffaf5d_r.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer ykiko has released version 1.0 of clice, a next-generation C/C++ language server built on LLVM/Clang and written in modern C++23. Designed to address long-standing architectural limitations in existing tools like clangd, clice features a multi-process compilation pool to prevent server crashes from compiler errors, native support for C++20 named modules, and an asynchronous architecture using C++20 coroutines.</p><p>The stable release follows two and a half years of development and four months of alpha testing across real-world open-source projects. In addition to its language server features—such as enhanced template handling and toolchain environment probing—clice includes a command-line interface with subcommands for project indexing, linting, refactoring, code formatting, and automated module wrapping.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprometheus.io%2Fassets%2Fdocs%2Fperses_prometheus.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Perses is an open-source dashboard tool and specification designed for visualizing observability data across the four pillars using Prometheus, Tempo, Loki, and Pyroscope. It provides embeddable UI components, static validation, and a native command-line interface, percli, for integration into CI/CD pipelines.</p><p>Built to scale, Perses supports dashboard-as-code workflows via SDKs and Kubernetes-native management through custom resources. It also features automatic datasource discovery, role-based access control with OIDC support, and migration utilities for transitioning existing Grafana dashboards. The project operates as a Cloud Native Computing Foundation sandbox initiative under the Apache 2.0 license.</p>
 <p>Nov 14 · <a href="https://perses.dev/">perses.dev</a> | <a href="https://lobste.rs/s/14wyzy/perses">lobsters</a></p>
-<br clear="all" />
-
-<h2>Jane Street Develops OxCaml Domain-Specific Language for High-Performance Parallel Programming</h2>
-<p>Jane Street summer intern Sai Konkimalla developed a domain-specific language (DSL) and compiler for high-performance single-program, multiple-data (SPMD) programming in OxCaml. The project makes SIMD instruction usage more ergonomic and architecture-independent by allowing developers to write high-level kernels that compile and run across multiple processor backends.</p><p>Utilizing OxCaml's recent runtime metaprogramming features, the JIT compiler evaluates and optimizes code at runtime to eliminate branch instructions and streamline calculations. The system features a directed acyclic graph front end supporting diverse numeric types alongside specialized control flow constructs designed for parallel execution.</p>
-<p>Nov 14 · <a href="https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/">blog.janestreet.com</a> | <a href="https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance">lobsters</a></p>
 <br clear="all" />
 
 ---

@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Nix Dynamic Derivations Explored Through a Chained Build Graph</title>
+    <link href="https://fzakaria.com/2026/11/14/beer-drv-drv-drv" rel="alternate" />
+    <id>https://fzakaria.com/2026/11/14/beer-drv-drv-drv::v240</id>
+    <published>2026-11-16T02:08:00+00:00</published>
+    <updated>2026-11-16T02:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Ffoods%2Ffoods-11-03602%2Farticle_deploy%2Fhtml%2Fimages%2Ffoods-11-03602-g005.png%3F1668495732&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fzakaria.com/2026/11/14/beer-drv-drv-drv">fzakaria.com</a> | <a href="https://lobste.rs/s/md0vco/beer_drv_drv_drv">lobsters</a></small></p><hr/><p>An exploration of experimental dynamic derivations in Nix demonstrates how a build graph can be created dynamically by chaining derivation outputs, using a programmatic implementation of the song "99 bottles of beer." By leveraging content-addressed derivations and walking the deriver chain using store queries, the build system can sequentially discover and build fifty-one successive derivations.</p><p>The experiment highlights technical constraints such as the 211-character limit on Nix store paths, which restricts the maximum chain length for this naming scheme to fifty derivations. The author also notes underlying bugs discovered during the implementation—such as handling content-addressed producers and deriver queries—as the Nix community continues developing dynamic build graphs through working groups.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Ffoods%2Ffoods-11-03602%2Farticle_deploy%2Fhtml%2Fimages%2Ffoods-11-03602-g005.png%3F1668495732&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 08:53 UTC | #27598</small>]]></content>
+  </entry>
+  <entry>
     <title>Clice v1.0 C/C++ Language Server Released</title>
     <link href="https://www.ykiko.me/en/articles/2105384023094834022/" rel="alternate" />
     <id>https://www.ykiko.me/en/articles/2105384023094834022/::v240</id>
