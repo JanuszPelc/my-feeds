@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Universal XSS Vulnerability Discovered in uBlock Origin Element Picker</h2>
+<a name="story-27664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fiter.ca%2Fubo-epicker.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A universal cross-site scripting (UXSS) vulnerability affected uBlock Origin versions 1.75.2 and lower on Firefox, allowing malicious websites to inject arbitrary trusted filter rules. By exploiting the browser extension's element picker through crafted messages and internal UUID leakage, an attacker could execute arbitrary JavaScript in the context of any website.</p><p>The security flaw—tracked as GHSA-cmqw-9r2w-6wv2—was discovered earlier this month and patched in version 1.75.4. The attack vector relied on embedding the element picker interface via an invisible iframe, manipulating message parameters to bypass standard filter restrictions, and tricking users into clicking a hidden creation button.</p>
+<p>Nov 16 · <a href="https://iter.ca/post/ubo-uxss/">iter.ca</a> | <a href="https://news.ycombinator.com/item?id=50513160">hacker news</a></p>
+<br clear="all" />
+
 <h2>Bitly Confirms Security Issue Allowing Hijacking of Inactive Short Links</h2>
 <a name="story-27603"><img src="https://wsrv.nl/?url=https%3A%2F%2Fransomnews.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fburger-king-2011-tweet-quoted-15-november-2026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bitly has confirmed a security vulnerability that allowed bad actors to repurpose old, inactive short links from historical social media posts by prominent accounts, redirecting users to unrelated or malicious content. The flaw enabled attackers to re-register the back-halves of expired or deleted links previously used by entities such as Burger King, McDonald’s, Donald Trump, and various government figures.</p><p>While initial investigations revealed hijacked links pointing to controversial Wikipedia entries, spam domains, and crypto-related phishing sites, Bitly announced that it suspended the accounts involved and disabled the affected links. Although the affected organizations and individuals were not directly compromised, the incident highlights ongoing security risks associated with recycled URL shortener endpoints embedded in archival online content.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27454"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hlVIg.img%3Fw%3D800%26h%3D415%26q%3D60%26m%3D2%26f%3Djpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft reported that initial changes applied to resolve the widespread Microsoft 365 service disruption did not perform as expected. The ongoing outage has severely impacted core productivity applications, including Exchange Online, Microsoft Teams, and Outlook, affecting users across multiple regions globally.</p><p>In response to the failed recovery attempt, engineers are identifying alternative workstreams to restore server capacity and address sustained traffic management imbalances. The disruption has persisted across multiple days, prompting continued monitoring and remediation efforts by the company.</p>
 <p>Nov 13 · <a href="https://twitter.com/MSFT365Status/status/2121079061774491735">x.com</a> | <a href="https://news.ycombinator.com/item?id=50478609">hacker news</a></p>
-<br clear="all" />
-
-<h2>FreeBSD Project Publishes Third Quarter 2026 Status Report</h2>
-<a name="story-27390"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffreebsdfoundation.org%2Fwp-content%2Fuploads%2F2022%2F01%2F1-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The FreeBSD Project has released its third quarter status report for 2026, detailing 51 entries across core development, infrastructure, userland, and kernel improvements. Highlights include updates on the Core Team's transition, developer survey results regarding artificial intelligence policies, foundation advocacy efforts, and technical enhancements such as bhyve CPUID control and Zoned Storage support.</p><p>The report also covers administrative milestones, including a temporary ports repository freeze following an accidental large binary commit, ongoing compliance work for the EU Cyber Resilience Act, and various architectural and documentation updates. Publication was slightly delayed due to maintenance on review infrastructure following recent PHP vulnerabilities.</p>
-<p>Nov 13 · <a href="https://www.freebsd.org/status/report-2026-07-2026-09/">freebsd.org</a> | <a href="https://lobste.rs/s/wbkayq/freebsd_status_report_third_quarter_2026">lobsters</a></p>
 <br clear="all" />
 
 ---

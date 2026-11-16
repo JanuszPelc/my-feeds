@@ -8,6 +8,30 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>In Session Audio Releases Dyad: Solo Kalimba Free for Kontakt Player</h2>
+<a name="story-27628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbW01limXAr8%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In Session Audio is offering Dyad: Solo Kalimba, a sampled kalimba virtual instrument for the free Kontakt Player, as a free download through November 25. Built using an instrument crafted from cedar and gourd by maker Greg Trimble, the library features over 800 samples across four plucking articulations with multiple round-robins.</p><p>The instrument operates on the Dyad Engine, utilizing paired sequencers for the left and right thumbs with controls for rhythm, swing, and humanization. It includes 100 editable patterns, MIDI export functionality, and layer options for drones and nature recordings alongside effects like drive, delay, and reverb.</p>
+<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/dyal-solo-kalimba/">bedroomproducersblog.com</a> | <a href="https://insessionaudio.com/products/dyad-solo-kalimba/">insessionaudio.com</a></p>
+<br clear="all" />
+
+<h2>Soundtrap and Arturia Partner on 30-Day Pigments and Efx MOTIONS Offer</h2>
+<a name="story-27629"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fsoundtrap-edu-blog.appspot.com%2F1%2F2023%2F03%2FSampler-LP-1920x1080-1-2400x740.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Soundtrap partnered with Arturia as it rolled out VST instrument support, offering Soundtrap users free 30-day access to Arturia’s Pigments synthesizer and Efx MOTIONS effect.</p><p>The offer is available through Soundtrap’s studio, while the supplied article provides no further details because its content is blocked by a security-verification page.</p>
+<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/soundtrap-arturia-partnership/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
+<h2>Tone Empire Offers OptoRED Optical Compressor for Free</h2>
+<a name="story-27631"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdTWjLwfWBc4%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tone Empire is offering its OptoRED optical compressor plugin for free using the coupon code optobf26. The software, which normally retails for $79, is compatible with macOS and Windows and supports VST3, AU, and AAX formats.</p><p>The plugin models a classic American optical compressor designed for transparent processing on vocals, bass, drums, and other instruments. Features include a redesigned interface, sidechain high-pass filtering, a Wet/Dry control for parallel compression, and 101 factory presets.</p>
+<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/tone-empire-optored-black-friday/">bedroomproducersblog.com</a> | <a href="https://tone-empire.com/shop/optored/">tone-empire.com</a></p>
+<br clear="all" />
+
+<h2>Audiomodern Releases Free Filterstep 2 Plugin</h2>
+<a name="story-27624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffl-raw-002.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audiomodern has released Filterstep 2, an updated version of its free creative motion filter plugin designed for Windows, macOS, and iOS. The software introduces new sequencing modes, pattern generation algorithms, and custom filter shapes to transform audio loops into rhythmic pulses and stereo movements.</p><p>The update incorporates five new effect engines—Density, Drive, Crush, Comb, and Lo-Fi—which can be positioned before or after the filter and linked directly to individual steps. Filterstep 2 is available as a free download in AAX, AU, and VST3 formats for desktop systems, with an iOS release scheduled for the App Store.</p>
+<p>Nov 16 · <a href="https://www.kvraudio.com/news/audiomodern-releases-free-filterstep-2-with-new-sequencing-modes-and-creative-effects-69851?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69851">kvraudio.com</a> | <a href="https://audiomodern.com/shop/plugins/filterstep/">audiomodern.com</a></p>
+<br clear="all" />
+
 <h2>Peter Semiletov Releases Drumlabooh v14.0.0 Hybrid Drum Machine Plugin</h2>
 <a name="story-27607"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fv14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Peter Semiletov has released Drumlabooh version 14.0.0, a major update to the free, open-source hybrid drum machine plugin available as VST3i and LV2i for Linux and VST3i for Windows. The version 14.0 update introduces a procedural synth engine alongside the traditional sampler, multi-threaded kit loading, a revised internal effects routing order with a new "Live" macro knob, and user interface scaling options.</p><p>Additional updates include a Kit Info Viewer, workflow enhancements such as 3-digit preset selection by slot name, and the introduction of Drumkit Format Specification 2.0. The release also brings new pre-configured kits tailored for Goa Trance and 1980s electro, alongside an updated official sound library with standardized cover art and fixed definitions.</p>
@@ -72,30 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27501"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgfx-4-9-5-update-kvr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ToneLib has released version 4.9.5 of its TL GFX plugin, introducing support for Neural Amp Modeler (NAM) profiles. This addition enables users to load and use a wide range of guitar and bass gear profiles directly within the plugin alongside the built-in effects.</p><p>The update also features a redesigned, full-stereo IR convolver that improves processing quality and broadens application range, alongside 63 new factory presets, improved performance stability, and optimized CPU usage.</p>
 <p>Nov 14 · <a href="https://www.kvraudio.com/news/tonelib-updates-tl-gfx-to-v4-9-5-69815?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69815">kvraudio.com</a> | <a href="https://tonelib.net/news/updates/tl-gfx-4-9-5-update/">tonelib.net</a></p>
-<br clear="all" />
-
-<h2>Quiet Art Releases WaveRider v5.0 with Speech Detection</h2>
-<a name="story-27440"><img src="https://wsrv.nl/?url=https%3A%2F%2Fquietart.co.nz%2Fwp-content%2Fuploads%2F2019%2F05%2FWRTG-Screen.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Quiet Art has released version 5.0 of its WaveRider plugin, introducing a new Dialog Mode that uses neural speech detection for automated level riding. The updated software distinguishes real speech from breaths, noise, and room tone without adding latency to real-time operations, preventing unwanted level increases during pauses in dialogue.</p><p>Alongside WaveRider v5.0—which has been expanded from Pro Tools to run across multiple major digital audio workstations including Logic Pro, Cubase, Nuendo, Reaper, and Studio One—the company released WaveRider TG v2.0 and LoudnessGracious v1.1. These companion updates also integrate the new Dialog Mode across different hosting formats and AudioSuite workflows.</p>
-<p>Nov 13 · <a href="https://www.kvraudio.com/news/quiet-art-releases-waverider-v5-0-with-speech-detection-plus-waverider-tg-v2-0-and-loudnessgracious-v1-1-69725?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69725">kvraudio.com</a> | <a href="https://quietart.co.nz/waverider">quietart.co.nz</a></p>
-<br clear="all" />
-
-<h2>Vir2 Instruments Releases MOJO: Flutes Virtual Instrument for Kontakt Player</h2>
-<a name="story-27429"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmojoflutes-gui-shadow1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Vir2 Instruments has released MOJO: Flutes, a virtual instrument for Kontakt Player featuring concert and alto flutes performed by Veronika Vitazkova. Tailored for jazz, pop, and funk productions, the library includes 22 articulations with true legato transitions, recorded vibrato, and up to three dynamic layers.</p><p>The collection offers performable repetitions, falls, trills, and overblown techniques, supported by six microphone positions, an integrated effects suite, and Komplete Kontrol integration. The instrument requires approximately 28.9 GB of installed space and is available for $199.95, with an introductory sale price offered through early December.</p>
-<p>Nov 13 · <a href="https://www.kvraudio.com/news/vir2-instruments-releases-mojo-flutes-for-kontakt-player-69814?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69814">kvraudio.com</a> | <a href="https://www.bigfishaudio.com/MOJO-Flutes">bigfishaudio.com</a></p>
-<br clear="all" />
-
-<h2>Audio Plugin Deals Offers Free Black Friday Mega Bundle</h2>
-<a name="story-27427"><img src="https://wsrv.nl/?url=https%3A%2F%2Fauditory1.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fapd-free-black-friday-kontakt-wav-bundle.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audio Plugin Deals is offering a free Black Friday Mega Bundle consisting of 17 plugins, virtual instruments, and sound packs until November 26, 2026. The bundle features a mix of audio effects, synth presets, and sample libraries from various developers with an advertised value of over $700.</p><p>Included items feature Minimal Audio's Hybrid Filter, Chilli tape saturation, Crickets Audio's Strata Prime spectrum analyzer, and several sample packs for vocals and guitars. Claiming the bundle requires completing a zero-dollar checkout on the Audio Plugin Deals website and setting up individual free accounts with the respective developers to access codes and installers.</p>
-<p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/audio-plugin-deals-black-friday/">bedroomproducersblog.com</a> | <a href="https://audioplugin.deals/product/free-black-friday-mega-bundle/?ref=176">audioplugin.deals</a></p>
-<br clear="all" />
-
-<h2>StereoGhost Releases PhaseKicker Kick-Bass Phase Alignment Plugin</h2>
-<a name="story-27428"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fbo66PQj3cDY%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>StereoGhost has released PhaseKicker, an audio plugin designed to automatically adjust the phase relationship between a kick drum and bass track on every individual hit. Developed by Swiss duo Gregor and Joachim Budweiser, the tool aims to prevent low-frequency cancellation by rechecking and aligning the bass phase with each triggered kick.</p><p>PhaseKicker operates via sidechain input, requiring users to set a detection threshold and an optimization point within the waveform display. The plugin introduces processing latency and is intended for mixing rather than live tracking. It is available in VST3, AAX, and AU formats for Windows and macOS, alongside a Linux VST3 version, and is currently offered at an introductory rate of $35 until November 30, 2026.</p>
-<p>Nov 13 · <a href="https://bedroomproducersblog.com/2026/11/13/stereoghost-releases-phasekicker-an-automatic-kick-bass-phase-alignment-plugin/">bedroomproducersblog.com</a> | <a href="https://stereoghost.ch/phasekicker">stereoghost.ch</a></p>
 <br clear="all" />
 
 ---

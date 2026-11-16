@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-16T12:32:00+00:00</updated>
+  <updated>2026-11-16T12:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Zus Health Secures $33 Million in Series B Funding for AI Clinical Infrastructure</title>
+    <link href="https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows" rel="alternate" />
+    <id>https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows::v240</id>
+    <published>2026-11-16T12:34:00+00:00</published>
+    <updated>2026-11-16T12:34:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows">fiercehealthcare.com</a> | <a href="https://markets.businessinsider.com/news/stocks/zus-health-raises-33-million-in-series-b-funding-to-accelerate-the-next-generation-of-connected-healthcare-1036742905">markets.businessinsider.com</a></small></p><hr/><p>Zus Health has secured $33 million in a Series B funding round led by Drive Capital, bringing its total capital raised to over $100 million. The company plans to use the fresh capital to expand its national healthcare data network and develop AI-powered clinical workflows and patient record infrastructure.</p><p>Founded in 2021 by Jonathan Bush, Zus Health provides a FHIR-native medical record platform designed to aggregate fragmented clinical data across providers. The company aims to serve as the underlying data layer for healthcare applications and AI systems, addressing data interoperability and inefficiencies in specialty care and value-based medicine.</p><hr/><small>16 Nov 2026, 18:21 UTC | #27596</small>]]></content>
+  </entry>
   <entry>
     <title>Dreamteam Raises $53M to Develop AI-Native CRM</title>
     <link href="https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/" rel="alternate" />
@@ -316,14 +324,5 @@
     <updated>2026-11-11T21:01:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.staticimg.com%2Fcms%2Fmedia%2FrNEr8eW6aBKal85AoG8ItHMfMFoe4bjCMFmeZIJeq.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-11/crypto-s-bid-to-shake-up-stock-trading-revs-up-despite-backlash">bloomberg.com</a></small></p><hr/><p>Scheduled for launch on November 23, the OKX and ICE joint venture OKXICE intends to list over 70 assets on a new US tokenized stock venue. The project faces significant opposition, as 56 of the 62 companies targeted for tokenized trading have expressed objections.</p><p>This expansion represents an effort by crypto-industry players to capture a share of the US stock market. The push for tokenized equity trading continues despite active pushback from many of the corporate entities whose shares are being targeted.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.staticimg.com%2Fcms%2Fmedia%2FrNEr8eW6aBKal85AoG8ItHMfMFoe4bjCMFmeZIJeq.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 04:10 UTC | #27212</small>]]></content>
-  </entry>
-  <entry>
-    <title>Applied Intuition in Talks to Raise $1.5 Billion at $30 Billion Valuation</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value::v240</id>
-    <published>2026-11-11T18:33:00+00:00</published>
-    <updated>2026-11-11T18:33:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcontent-media.pamedia.io%2Fpress-release%2Fpicture%2F2024%2F03%2F12%2F01HRRQZ7RNBTJVNX9YEDXF9253.jpg%3Ffix%3Dbounds%26w%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value">bloomberg.com</a></small></p><hr/><p>Applied Intuition, a developer of simulation and testing software for autonomous vehicles and defense applications, is in talks to raise at least $1.5 billion. The funding round is led by General Catalyst and targets a pre-money valuation of approximately $30 billion.</p><p>This potential investment would nearly double the company's valuation from its June 2025 funding round of $15 billion. The company provides autonomy and testing solutions for both commercial and defense sectors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent-media.pamedia.io%2Fpress-release%2Fpicture%2F2024%2F03%2F12%2F01HRRQZ7RNBTJVNX9YEDXF9253.jpg%3Ffix%3Dbounds%26w%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 00:18 UTC | #27189</small>]]></content>
   </entry>
 </feed>
