@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Dreamteam Raises $53M to Develop AI-Native CRM</h2>
+<a name="story-27620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbusinessreviewlive.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAIEnhancer_Untitled-design-36.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Founded by former Freshworks executives, the San Francisco-based startup Dreamteam has raised $53 million in seed and Series A funding to build an AI-native customer relationship management (CRM) platform. The rounds were led by Together Fund and Accel, respectively, with participation from Premji Invest. The company aims to compete with Salesforce and HubSpot by using AI agents to automate manual tasks such as follow-ups, meeting preparation, and pipeline monitoring.</p><p>The platform utilizes a "Company Brain" to aggregate context from emails and customer conversations, creating a shared record of client relationships to reduce manual data entry. In the three months since beginning active sales, Dreamteam has signed over 100 customers across 13 countries. The startup also plans to expand its functionality into customer onboarding, support, and upselling.</p>
+<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/">techcrunch.com</a> | <a href="https://www.dreamteam.ai/">dreamteam.ai</a></p>
+<br clear="all" />
+
 <h2>Sumary Raises $25 Million Seed Round to Expand AI Accounting Software</h2>
 <a name="story-27594"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdfn2h3yx4%2Fimage%2Fupload%2Fv1794319776%2Frbtke0yovl8c25lbn4og.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sumary has secured $25 million in a seed funding round led by Singular, bringing its total funding to $29.2 million. The Copenhagen-based company provides AI software designed to automate accounting workflows, including monthly closes, VAT returns, and year-end processes. Existing investors byFounders, Partech, and Tenity also participated in the round.</p><p>The company is relocating its commercial operations to London to facilitate expansion into the UK and European markets. Sumary's tools aim to assist existing accounting firms by reducing manual workloads; the company reports that users can reduce the time spent on VAT returns by 75%. Current clients include Deloitte, Grant Thornton, and Baker Tilly.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27472"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdjdongjin.github.io%2Fassets%2Fimg%2F15418%2F3_combine_example.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cambridge-based startup Tendrils Compute has raised $30 million in a funding round led by Benchmark to develop an alternative computer processor architecture. The company is designing chips based on interaction nets rather than conventional sequential CPU and GPU models, aiming to enable thousands of cores to operate in parallel.</p><p>The startup is developing its hardware in tandem with Vine, an open-source programming language designed for parallel-first architectures. While Tendrils has not yet disclosed hardware benchmarks or performance levels, its funding round included participation from the UK Sovereign AI Fund, Visionaries Clubs, and several venture capital firms.</p>
 <p>Nov 14 · <a href="https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/">tech.eu</a></p>
-<br clear="all" />
-
-<h2>Nscale Updates IPO Prospectus Detailing Widening Losses and Revenue Growth</h2>
-<a name="story-27379"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ideagen.com%2Fdam%2Fjcr%3A7a62c5e2-74aa-42c7-bf6f-27c6f31f6f48%2Fipo-count-and-ammount-raised.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia-backed neocloud provider Nscale has released an updated prospectus for its upcoming U.S. initial public offering, reporting a third-quarter net loss of $1.69 billion on $307.5 million in revenue. The latest filing shows that quarterly losses widened from $1.02 billion in the previous quarter, even as revenue continued to surge significantly year over year.</p><p>The company has recently encountered operational headwinds, including Microsoft stepping back from planned data center projects in England and Texas due to grid connection and capacity concerns. Meanwhile, Nscale continues to expand its business with artificial intelligence firms like Anthropic while navigating a turbulent neocloud market.</p>
-<p>Nov 13 · <a href="https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html">cnbc.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm">sec.gov</a></p>
 <br clear="all" />
 
 ---
