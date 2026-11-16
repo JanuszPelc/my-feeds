@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-14T07:05:00+00:00</updated>
+  <updated>2026-11-16T03:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Alibaba Releases Qwen4-Max</title>
+    <link href="https://qwen.ai/blog?id=qwen4-max" rel="alternate" />
+    <id>https://qwen.ai/blog?id=qwen4-max::v240</id>
+    <published>2026-11-16T03:41:00+00:00</published>
+    <updated>2026-11-16T03:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://qwen.ai/blog?id=qwen4-max">qwen.ai</a> | <a href="https://news.ycombinator.com/item?id=50513215">hacker news</a></small></p><hr/><p>This 2.4 trillion parameter Mixture-of-Experts (MoE) model features a 1 million token context window. Alibaba claims the model outperforms Qwen3.8-Max while using approximately 50% fewer tokens.</p><p>Currently available in preview via Alibaba's Token Plan, the model is intended for complex coding and professional knowledge work. It supports an output of up to 393,216 tokens.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 13:47 UTC | #27585</small>]]></content>
+  </entry>
   <entry>
     <title>GGML-Org Releases GGML v1.0.0</title>
     <link href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" rel="alternate" />
@@ -176,32 +185,5 @@
     <updated>2026-11-11T15:03:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Frapl.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FGenie-Dashboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/">techcrunch.com</a></small></p><hr/><p>Databricks has unveiled an updated version of its AI agent, Genie, designed to perform unsupervised, multi-step jobs using a custom-built data ontology. CEO Ali Ghodsi demonstrated internal use cases, including analyzing employee satisfaction surveys, summarizing poorly executed sales calls, and preparing for interviews.</p><p>Ghodsi noted that the tool helps executive leadership bypass institutional filtering to surface critical feedback and unvarnished truths within large organizations exceeding Dunbar’s number. To manage potential enterprise AI costs and usage limits, Databricks integrates the agent with its Unity Gateway product.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Frapl.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FGenie-Dashboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 20:14 UTC | #27176</small>]]></content>
-  </entry>
-  <entry>
-    <title>House House Discloses AI Use in Big Walk Development</title>
-    <link href="https://aftermath.site/big-walk-ai-igf-jurors-controversy/" rel="alternate" />
-    <id>https://aftermath.site/big-walk-ai-igf-jurors-controversy/::v240</id>
-    <published>2026-11-11T14:24:00+00:00</published>
-    <updated>2026-11-12T00:05:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftheoutpost.ai%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_545603_big_walk_house_house_1794312350711_807a1bb8a5.jpg%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://aftermath.site/big-walk-ai-igf-jurors-controversy/">aftermath.site</a> | <a href="https://news.ycombinator.com/item?id=50457469">hacker news</a></small></p><hr/><p>Developer House House has revealed that it used large language models sparingly during the final stages of developing Big Walk, sparking intense debate among Independent Games Festival jurors. The studio stated that LLMs accounted for well under 0.1% of the game's code and were exclusively used to help troubleshoot difficult technical bugs and third-party code issues.</p><p>While acknowledging that the disclosure might contribute to the normalization of generative AI, House House defended the tool's limited implementation to solve an otherwise intractable Unity rendering problem. The studio also noted that the game was developed without an internal AI usage policy, admitting that this lack of oversight was a failure it intends to address in the future.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheoutpost.ai%2F_next%2Fimage%2F%3Furl%3Dhttps%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_545603_big_walk_house_house_1794312350711_807a1bb8a5.jpg%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:56 UTC | #27153</small>]]></content>
-  </entry>
-  <entry>
-    <title>Helsing Launches Clarity Intelligence Platform</title>
-    <link href="https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/" rel="alternate" />
-    <id>https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/::v240</id>
-    <published>2026-11-11T14:04:00+00:00</published>
-    <updated>2026-11-11T14:04:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.medianama.com%2Fwp-content%2Fuploads%2F2026%2F01%2FUS-Military-AI-Agents-1-e1768562134951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/">resiliencemedia.co</a></small></p><hr/><p>German defense technology company Helsing has launched Clarity, an intelligence platform designed to help armed forces process battlefield data and execute operations using military-customized AI agents. Pitched as a sovereign, AI-native alternative to platforms like Palantir’s Maven, the system integrates data from disparate sources such as satellites, sensors, and drones to accelerate threat identification and counteractions.</p><p>The platform addresses the growing challenge of cognitive overload in modern warfare, where military personnel struggle to manage vast inflows of real-time intelligence. While Helsing emphasizes data governance and sovereign European control, the deployment of autonomous agentic AI in combat environments also raises questions regarding reliability and safety in high-stakes military contexts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.medianama.com%2Fwp-content%2Fuploads%2F2026%2F01%2FUS-Military-AI-Agents-1-e1768562134951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:40 UTC | #27154</small>]]></content>
-  </entry>
-  <entry>
-    <title>ByteDance Prepares Muse-Like AI Assistant to Close Industry Gap</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap::v240</id>
-    <published>2026-11-11T14:03:00+00:00</published>
-    <updated>2026-11-11T14:03:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F950636336%2Fphoto%2F1st-digital-china-summit.jpg%3Fs%3D1024x1024%26w%3Dgi%26k%3D20%26c%3DweV-NNtaefJvDMi-VqE0R2jIBvMN9r9an_SYPKRRHpk%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap">bloomberg.com</a></small></p><hr/><p>ByteDance plans to launch a personal artificial intelligence assistant similar to Meta’s Muse in the coming weeks, according to company co-founder Zhang Yiming. The upcoming release forms part of a broader strategy by the Chinese tech giant to accelerate its AI development and narrow the technological gap with global frontrunners.</p><p>Zhang also outlined a long-term roadmap aiming to bring ByteDance to the artificial intelligence frontier by 2029 to 2030. The push aligns with a wider industry race among Chinese technology firms to capture the consumer agent market following the breakout success of Meta's assistant, though personal AI agents have recently faced platform restrictions and traffic blockades from major digital services.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F950636336%2Fphoto%2F1st-digital-china-summit.jpg%3Fs%3D1024x1024%26w%3Dgi%26k%3D20%26c%3DweV-NNtaefJvDMi-VqE0R2jIBvMN9r9an_SYPKRRHpk%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:39 UTC | #27152</small>]]></content>
   </entry>
 </feed>

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Alibaba Releases Qwen4-Max</h2>
+<a name="story-27585"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>This 2.4 trillion parameter Mixture-of-Experts (MoE) model features a 1 million token context window. Alibaba claims the model outperforms Qwen3.8-Max while using approximately 50% fewer tokens.</p><p>Currently available in preview via Alibaba's Token Plan, the model is intended for complex coding and professional knowledge work. It supports an output of up to 393,216 tokens.</p>
+<p>Nov 16 · <a href="https://qwen.ai/blog?id=qwen4-max">qwen.ai</a> | <a href="https://news.ycombinator.com/item?id=50513215">hacker news</a></p>
+<br clear="all" />
+
 <h2>GGML-Org Releases GGML v1.0.0</h2>
 <a name="story-27502"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxsxszab.github.io%2Fimages%2Fggml-deep-dive-V%2Fcode6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GGML-org has released version 1.0.0 of its machine learning tensor library, introducing major API cleanups, FP8 support, and configurable YaRN truncation. The update prunes deprecated public APIs and legacy diagnostic mask operations while bumping the RPC protocol to version 9 to improve endpoint reliability.</p><p>The release delivers broad performance enhancements across numerous hardware backends, including CUDA few-row quantized matrix multiplications and mixture-of-experts fusion, Vulkan FlashAttention paths, a SYCL device-side MoE scheduler, and expanded operator support for OpenCL, WebGPU, and Hexagon architectures.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27318"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fphota-labs-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phota Labs has released an iOS app that uses artificial intelligence to transform everyday snapshots into professional-quality images. The tool automates the editing process by adjusting composition and perspective—such as converting wide-angle shots into tight portraits—while utilizing specialized identity models to ensure the subject's authentic likeness is preserved.</p><p>Founded by former Adobe engineers Cecilia Zhang and Zach Xia, the a16z-backed startup aims to simplify photo enhancement for social media users. To maintain transparency, the app includes invisible watermarking to identify AI-altered content, and the company plans to expand to Android and introduce a freemium business model.</p>
 <p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/">techcrunch.com</a> | <a href="https://www.photalabs.com/">photalabs.com</a></p>
-<br clear="all" />
-
-<h2>Google Launches Tabletop AI Experiment for Custom Collaboration Apps</h2>
-<a name="story-27269"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Foriginal_images%2FCustomize_Chrome_Inline.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has introduced Tabletop, an experimental AI-powered platform that lets users generate customized collaborative tools by describing them in natural language. The service enables people to build interactive spaces such as expense splitters, trip itineraries, and chore charts, which can then be shared with others via an invite link for simultaneous real-time use.</p><p>Access to the Tabletop beta is currently rolling out via a waitlist and is restricted to users over the age of 18 in the United States. Designed as a flexible alternative to traditional workplace management software, the platform utilizes starter templates and prompt-based generation to create shared digital hubs for personal planning and group coordination.</p>
-<p>Nov 12 · <a href="https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability">theverge.com</a> | <a href="https://labs.google/tabletop">labs.google</a></p>
 <br clear="all" />
 
 ---

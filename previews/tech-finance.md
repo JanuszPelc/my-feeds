@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Mount Thor Raises $45 Million to Build Mac Data Centers for AI Agents</h2>
+<a name="story-27581"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2026%2F11%2FAI-Apple-2.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mount Thor has raised $45 million across seed and Series A funding rounds to build data-center-scale cloud infrastructure running macOS on Apple silicon. The Bay Area startup aims to provide elastic compute instances and inference labs specifically targeted at autonomous AI agents.</p><p>Co-led by CRV and Conviction, the financing will help the company expand its compute footprint and build out inference infrastructure optimized for open-source models using hardware like the M5 Ultra Mac Studio. Mount Thor offers both managed bare-metal and virtual machine options, as well as customer-managed deployments, targeting workloads such as reinforcement learning environments and multi-device agent workflows.</p>
+<p>Nov 16 · <a href="https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/">9to5mac.com</a> | <a href="https://www.mountthor.com/">mountthor.com</a></p>
+<br clear="all" />
+
 <h2>Blue J Raises 176 Million USD in Series E Funding</h2>
 <a name="story-27580"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolordrop.io%2Fapi%2Fimage%2F18821%3Fwidth%3D1080%26height%3D1080&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Toronto-based AI tax research platform Blue J has secured a $176 million USD ($249 million CAD) Series E funding round led by JMI Equity, valuing the company at more than $700 million USD. The investment follows rapid growth that more than doubled the company's annual recurring revenue over the past year.</p><p>The company plans to use the fresh capital to scale its agentic AI features, expand its market presence internationally into the United Kingdom, and grow its workforce beyond 200 employees by the end of the year. Founded in 2015, Blue J currently serves around 6,500 customers across the United States, Canada, and the United Kingdom.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27359"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffuturumgroup.com%2Fwp-content%2Fuploads%2F2023%2F11%2FCisco-Q1-2024-AI-Security-Cloud-and-Observability-Fuel-Results-2-600x336.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cisco reported first-quarter revenue of $18.5 billion, a 24% year-over-year increase that exceeded analyst estimates of $18.14 billion. Adjusted earnings per share also surpassed Wall Street expectations.</p><p>The company raised its revenue forecast for fiscal year 2027, driven by strong demand for networking equipment in the artificial intelligence sector.</p>
 <p>Nov 12 · <a href="https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>US Justice Department Obtains Authorization to Seize $1.2 Billion in Stolen Binance Assets</h2>
-<a name="story-27364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
