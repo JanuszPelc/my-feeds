@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Core Program Visualizes Process Memory as Bitmaps</h2>
+<a name="story-27670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F001%2F205%2F950%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Core is an esoteric debugging and paint program that visualizes the memory of running processes by arranging memory pages along a Z-order curve and rendering them as bitmaps where each bit corresponds to a pixel. The software displays text and data segments, stacks, and heaps, allowing users to observe memory structures and directly manipulate or scribble onto the process space.</p><p>By mapping memory to visual textures, the program reveals patterns such as ASCII text, pointers, garbage collection cycles, and graphical assets like game sprites or operating system icons. When attached to emulators or virtual machines, it provides an overview of entire operating systems, rendering dynamic memory allocation and page table activity visible in real time.</p>
+<p>Nov 16 · <a href="https://citrons.xyz/journal/2026-04-13">citrons.xyz</a> | <a href="https://lobste.rs/s/thiekk/paint_memory_other_programs">lobsters</a></p>
+<br clear="all" />
+
 <h2>Nix Dynamic Derivations Explored Through a Chained Build Graph</h2>
 <a name="story-27598"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Ffoods%2Ffoods-11-03602%2Farticle_deploy%2Fhtml%2Fimages%2Ffoods-11-03602-g005.png%3F1668495732&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An exploration of experimental dynamic derivations in Nix demonstrates how a build graph can be created dynamically by chaining derivation outputs, using a programmatic implementation of the song "99 bottles of beer." By leveraging content-addressed derivations and walking the deriver chain using store queries, the build system can sequentially discover and build fifty-one successive derivations.</p><p>The experiment highlights technical constraints such as the 211-character limit on Nix store paths, which restricts the maximum chain length for this naming scheme to fifty derivations. The author also notes underlying bugs discovered during the implementation—such as handling content-addressed producers and deriver queries—as the Nix community continues developing dynamic build graphs through working groups.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27518"><img src="https://wsrv.nl/?url=https%3A%2F%2Finvozone-backend.s3.amazonaws.com%2Fweb_application_architecture_layers_9cb0a33601.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Willett examines the architectural challenges of allowing web application users to maintain ownership of their personal data rather than storing it on central backend services like Supabase. Drawing on development experience with the app Cheapskate, the post highlights the tension between providing seamless, multi-device functionality and respecting user privacy.</p><p>The essay evaluates several alternative data storage approaches—including browser local storage, file pickers, cloud platform databases, and local-first CRDTs—noting that each falls short due to limitations in cross-device synchronization, collaboration, authentication friction, or inadequate SQL query support.</p>
 <p>Nov 14 · <a href="https://www.willett.io/posts/data/">willett.io</a> | <a href="https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data">lobsters</a></p>
-<br clear="all" />
-
-<h2>Perses Open-Source Dashboard Tool and Specification for Observability Data</h2>
-<a name="story-27517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprometheus.io%2Fassets%2Fdocs%2Fperses_prometheus.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Perses is an open-source dashboard tool and specification designed for visualizing observability data across the four pillars using Prometheus, Tempo, Loki, and Pyroscope. It provides embeddable UI components, static validation, and a native command-line interface, percli, for integration into CI/CD pipelines.</p><p>Built to scale, Perses supports dashboard-as-code workflows via SDKs and Kubernetes-native management through custom resources. It also features automatic datasource discovery, role-based access control with OIDC support, and migration utilities for transitioning existing Grafana dashboards. The project operates as a Cloud Native Computing Foundation sandbox initiative under the Apache 2.0 license.</p>
-<p>Nov 14 · <a href="https://perses.dev/">perses.dev</a> | <a href="https://lobste.rs/s/14wyzy/perses">lobsters</a></p>
 <br clear="all" />
 
 ---

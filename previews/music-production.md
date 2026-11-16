@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>GullDSP Releases Phathom Free Bass Preamp and Distortion Plugin</h2>
+<a name="story-27651"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUQvU4KyTJA%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GullDSP has released Phathom, a free and open-source bass guitar preamp and distortion plugin for Windows. Designed for modern fuzzy, growling, and clanky tones, the virtual pedal operates without any AI-generated code and features two distinct distortion styles alongside pre-distortion filtering and dry signal blending.</p><p>The plugin includes a fuzzy transformer-style saturation option and a clanky mode inspired by CMOS-based inverter chip pedals. It features automatic oversampling up to 4x, zero added latency, and is distributed under the MIT license as a 64-bit VST3 plugin directly through GitHub.</p>
+<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/">bedroomproducersblog.com</a> | <a href="https://github.com/gulldsp/phathom-vst/">github.com</a></p>
+<br clear="all" />
+
 <h2>In Session Audio Releases Dyad: Solo Kalimba Free for Kontakt Player</h2>
 <a name="story-27628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbW01limXAr8%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In Session Audio is offering Dyad: Solo Kalimba, a sampled kalimba virtual instrument for the free Kontakt Player, as a free download through November 25. Built using an instrument crafted from cedar and gourd by maker Greg Trimble, the library features over 800 samples across four plucking articulations with multiple round-robins.</p><p>The instrument operates on the Dyad Engine, utilizing paired sequencers for the left and right thumbs with controls for rhythm, swing, and humanization. It includes 100 editable patterns, MIDI export functionality, and layer options for drones and nature recordings alongside effects like drive, delay, and reverb.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27510"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhjemmestudio.net%2Fdaw%2Fwp-content%2Fuploads%2F2024%2F10%2Fqtractor-small.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer rncbc.org has released Qtractor version 1.7.0 and Vee One Suite version 1.5.2 for GNU/Linux operating systems. Qtractor introduces a brand-new, basic audio clip editor featuring built-in audio tools such as gain, panning, normalization, time-stretching, pitch-shifting, and reverse, alongside improvements like unlinking clips and VST3 parameter normalization.</p><p>The update to the Vee One Suite of vintage-style software instruments resolves a crash that occurred during plug-in instance cleanup due to a race condition with the shared worker or schedule thread. Both applications remain free, open-source software distributed under the GNU General Public License version 2 or later.</p>
 <p>Nov 14 · <a href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-7-0-and-vee-one-suite-to-v1-5-2-for-linux-69826?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69826">kvraudio.com</a> | <a href="https://www.rncbc.org/drupal/node/2987">rncbc.org</a></p>
-<br clear="all" />
-
-<h2>ToneLib Updates TL GFX to Version 4.9.5</h2>
-<a name="story-27501"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgfx-4-9-5-update-kvr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ToneLib has released version 4.9.5 of its TL GFX plugin, introducing support for Neural Amp Modeler (NAM) profiles. This addition enables users to load and use a wide range of guitar and bass gear profiles directly within the plugin alongside the built-in effects.</p><p>The update also features a redesigned, full-stereo IR convolver that improves processing quality and broadens application range, alongside 63 new factory presets, improved performance stability, and optimized CPU usage.</p>
-<p>Nov 14 · <a href="https://www.kvraudio.com/news/tonelib-updates-tl-gfx-to-v4-9-5-69815?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69815">kvraudio.com</a> | <a href="https://tonelib.net/news/updates/tl-gfx-4-9-5-update/">tonelib.net</a></p>
 <br clear="all" />
 
 ---

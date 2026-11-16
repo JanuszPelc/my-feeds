@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-16T13:10:00+00:00</updated>
+  <updated>2026-11-16T13:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>GullDSP Releases Phathom Free Bass Preamp and Distortion Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/::v240</id>
+    <published>2026-11-16T13:45:00+00:00</published>
+    <updated>2026-11-16T13:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUQvU4KyTJA%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/">bedroomproducersblog.com</a> | <a href="https://github.com/gulldsp/phathom-vst/">github.com</a></small></p><hr/><p>GullDSP has released Phathom, a free and open-source bass guitar preamp and distortion plugin for Windows. Designed for modern fuzzy, growling, and clanky tones, the virtual pedal operates without any AI-generated code and features two distinct distortion styles alongside pre-distortion filtering and dry signal blending.</p><p>The plugin includes a fuzzy transformer-style saturation option and a clanky mode inspired by CMOS-based inverter chip pedals. It features automatic oversampling up to 4x, zero added latency, and is distributed under the MIT license as a 64-bit VST3 plugin directly through GitHub.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUQvU4KyTJA%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 19:14 UTC | #27651</small>]]></content>
+  </entry>
   <entry>
     <title>In Session Audio Releases Dyad: Solo Kalimba Free for Kontakt Player</title>
     <link href="https://bedroomproducersblog.com/2026/11/16/dyal-solo-kalimba/" rel="alternate" />

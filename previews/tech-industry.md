@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Russia Uses International Festival of Youth to Leverage Foreign Influencers to Promote Occupation of Ukrainian Territories</h2>
+<a name="story-27600"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2026%2F11%2FInternational-Festival-of-Youth_20261113-181238.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>State-funded tours of Russian-occupied Ukrainian territories, such as Donetsk Oblast and Mariupol, are being used to present a sanitized image of life under Russian rule to international visitors. Participants from Africa, Asia, Latin America, and Europe visit sites like the rebuilt Mariupol Drama Theater and shooting ranges, often omitting the reality of wartime devastation and Russian repression from their social media accounts.</p><p>Experts suggest the initiative aims to use these influencers as unwitting amplifiers of Russian propaganda to bypass international information blockades and normalize the occupation. The festival's organizers, including the state-run Rosmolodezh, provide travel and accommodation to participants and encourage them to create social media content that presents the occupied territories as thriving and peaceful.</p>
+<p>Nov 16 · <a href="https://kyivindependent.com/the-foreign-influencers-helping-russia-sell-its-occupation/">kyivindependent.com</a></p>
+<br clear="all" />
+
 <h2>SK Hynix and South Korean Government Plan $654 Million Chip Testing Facility</h2>
 <p>SK Hynix and the South Korean government are partnering to construct Trinity Fab, a $654 million chip testing facility designed to allow smaller suppliers to test products on 12-inch wafers.</p><p>The initiative aims to strengthen the domestic semiconductor ecosystem by providing smaller local players with access to advanced testing infrastructure that is often cost-prohibitive. The facility is expected to enhance South Korea's overall competitiveness in the global chip manufacturing sector.</p>
 <p>Nov 16 · <a href="https://www.bloomberg.com/news/articles/2026-11-16/sk-hynix-plans-chip-testing-hub-to-boost-smaller-korean-players">bloomberg.com</a></p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27504"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D22AQFn6aaS9Z9Fkw%2Ffeedshare-shrink_800%2FB4DZxyS5TVGkAk-%2F0%2F1771444082543%3Fe%3D2147483647%26v%3Dbeta%26t%3DYp4leIya3Gta2qoJI6y-iDjZBfd9-GqVkJsfhPPjQn4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TechCrunch has published a running list chronicling notable AI startups, products, and corporate bets that have shut down, pivoted, or missed expectations. The compilation highlights prominent casualties such as bankrupt chatbot platform Character.ai, workflow automation tool Relay, privacy-focused assistant Ollie, and failed consumer hardware including the Humane AI Pin.</p><p>According to S&amp;P Global Market Intelligence data cited in the report, approximately 42% of corporate AI initiatives are ultimately abandoned due to funding shortages, scaling difficulties, fierce competition, or weak user demand. Industry giants like OpenAI and Apple have also faced high-profile missteps, product rollbacks, and delayed deployments as the sector navigates ongoing market corrections.</p>
 <p>Nov 14 · <a href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>WSJ Report Alleges Nvidia Engineered GPU Scarcity by Funding AI Startups</h2>
-<a name="story-27496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A report from The Wall Street Journal alleges that Nvidia artificially inflated the shortage of GPUs and memory by investing in AI startups that subsequently purchased Nvidia hardware to build data centers. The strategy was reportedly intended to maintain high demand perceptions and absorb an oversupply of semiconductors manufactured by TSMC.</p><p>The report highlights internal friction between former Nvidia CEO Jensen Huang and CFO Colette Kress over circular financing agreements and commitments to small-scale cloud providers. These investments faced challenges as hyperscalers increasingly shifted toward custom silicon solutions and smaller startups struggled to afford the hardware.</p>
-<p>Nov 14 · <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">techpowerup.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50493251">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/human-knowledge.png" width="28" align="texttop" /> &nbsp;Study Reveals Nuanced Social Behavior and Associations Among Solitary Black Rhinos</h2>
+<a name="story-27487"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.piri.net%2Fresim%2Fupload%2F2018%2F06%2F27%2F12%2F22%2F71d5abbc9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An analysis of nearly 70,000 black rhino sightings across 14 reserves reveals that while the species is predominantly solitary and prone to aggression, individuals regularly form peaceful groups with familiar associates. The study found that about 8% of sightings involved groups of three to seven animals, and these interactions typically occurred between rhinos that had previously associated with one another.</p><p>These findings provide critical insights for conservation translocations, where moving animals to new areas can trigger lethal fighting. Researchers suggest that selecting rhinos with existing social bonds and carefully managing the ratio of adult males—which are more frequently avoided by other adults and associated with lower survival rates—can significantly reduce post-release aggression and improve population recovery efforts.</p>
+<p>Nov 16 · <a href="https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251">theconversation.com</a></p>
+<br clear="all" />
+
 <h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Alibaba Releases Qwen4-Max</h2>
 <a name="story-27585"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This 2.4 trillion parameter Mixture-of-Experts (MoE) model features a 1 million token context window. Alibaba claims the model outperforms Qwen3.8-Max while using approximately 50% fewer tokens.</p><p>Currently available in preview via Alibaba's Token Plan, the model is intended for complex coding and professional knowledge work. It supports an output of up to 393,216 tokens.</p>
@@ -100,11 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.crissyfield.de%2Fimages%2Fresearch-lovable-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researchers at Crissyfield analyzed nearly 160,000 projects built on the AI app development platform Lovable and discovered widespread data exposure. Focusing on integrations with the Supabase database service, the investigation found that thousands of applications allowed unauthenticated access to sensitive records, including personal information, chat messages, and internal documents.</p><p>Out of roughly 34,500 projects using Supabase, more than 24,000 loaded database records without requiring a login, and additional testing revealed email addresses and other confidential data in thousands of those applications. The exposed content included lifestyle forum profiles, ticket sales records, property management summaries, and identity document details. The findings highlight that while AI platforms simplify software creation, customers remain responsible for proper access control configuration and professional security reviews.</p>
 <p>Nov 15 · <a href="https://www.crissyfield.de/research/lovable-en/">crissyfield.de</a> | <a href="https://news.ycombinator.com/item?id=50499017">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Steinar H. Gunderson Solves the Ancient Norse Fox Board Game</h2>
-<p>Software engineer Steinar H. Gunderson has completely solved the ancient Norse asymmetric board game known as the Fox Game or halatafl, determining that sheep win with perfect play under standard rules. Using a compact bitboard representation, combinatorial number systems, and parallelized state propagation across 64 cores, Gunderson analyzed over two trillion possible board states over a 36-hour run.</p><p>The implementation required approximately 1,000 lines of code with no external dependencies, leveraging symmetry optimizations to manage memory and reduce the search space. Gunderson found that sheep maintain a forced win even when reduced to 19 or 18 pieces, while 11 sheep suffice against a single fox, conclusively settling a question left open by previous AI analyses.</p>
-<p>Nov 15 · <a href="https://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html">blog.sesse.net</a> | <a href="https://lobste.rs/s/q81fi4/solving_fox_game">lobsters</a></p>
 <br clear="all" />
 
 ---

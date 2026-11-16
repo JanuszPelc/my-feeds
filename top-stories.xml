@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-16T16:13:00+00:00</updated>
+  <updated>2026-11-16T19:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Study Reveals Nuanced Social Behavior and Associations Among Solitary Black Rhinos</title>
+    <link href="https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251" rel="alternate" />
+    <id>https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251::v240</id>
+    <published>2026-11-16T19:21:00+00:00</published>
+    <updated>2026-11-16T19:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.piri.net%2Fresim%2Fupload%2F2018%2F06%2F27%2F12%2F22%2F71d5abbc9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251">theconversation.com</a></small></p><hr/><p>An analysis of nearly 70,000 black rhino sightings across 14 reserves reveals that while the species is predominantly solitary and prone to aggression, individuals regularly form peaceful groups with familiar associates. The study found that about 8% of sightings involved groups of three to seven animals, and these interactions typically occurred between rhinos that had previously associated with one another.</p><p>These findings provide critical insights for conservation translocations, where moving animals to new areas can trigger lethal fighting. Researchers suggest that selecting rhinos with existing social bonds and carefully managing the ratio of adult males—which are more frequently avoided by other adults and associated with lower survival rates—can significantly reduce post-release aggression and improve population recovery efforts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.piri.net%2Fresim%2Fupload%2F2018%2F06%2F27%2F12%2F22%2F71d5abbc9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 10:56 UTC | #27487 | r,hdt</small>]]></content>
+  </entry>
   <entry>
     <title>Alibaba Releases Qwen4-Max</title>
     <link href="https://qwen.ai/blog?id=qwen4-max" rel="alternate" />

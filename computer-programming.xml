@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-16T03:58:00+00:00</updated>
+  <updated>2026-11-16T13:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Core Program Visualizes Process Memory as Bitmaps</title>
+    <link href="https://citrons.xyz/journal/2026-04-13" rel="alternate" />
+    <id>https://citrons.xyz/journal/2026-04-13::v240</id>
+    <published>2026-11-16T13:13:00+00:00</published>
+    <updated>2026-11-16T13:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F001%2F205%2F950%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://citrons.xyz/journal/2026-04-13">citrons.xyz</a> | <a href="https://lobste.rs/s/thiekk/paint_memory_other_programs">lobsters</a></small></p><hr/><p>Core is an esoteric debugging and paint program that visualizes the memory of running processes by arranging memory pages along a Z-order curve and rendering them as bitmaps where each bit corresponds to a pixel. The software displays text and data segments, stacks, and heaps, allowing users to observe memory structures and directly manipulate or scribble onto the process space.</p><p>By mapping memory to visual textures, the program reveals patterns such as ASCII text, pointers, garbage collection cycles, and graphical assets like game sprites or operating system icons. When attached to emulators or virtual machines, it provides an overview of entire operating systems, rendering dynamic memory allocation and page table activity visible in real time.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F001%2F205%2F950%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 19:11 UTC | #27670</small>]]></content>
+  </entry>
   <entry>
     <title>Nix Dynamic Derivations Explored Through a Chained Build Graph</title>
     <link href="https://fzakaria.com/2026/11/14/beer-drv-drv-drv" rel="alternate" />
