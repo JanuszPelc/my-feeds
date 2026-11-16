@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Blue J Raises 176 Million USD in Series E Funding</h2>
+<a name="story-27580"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolordrop.io%2Fapi%2Fimage%2F18821%3Fwidth%3D1080%26height%3D1080&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Toronto-based AI tax research platform Blue J has secured a $176 million USD ($249 million CAD) Series E funding round led by JMI Equity, valuing the company at more than $700 million USD. The investment follows rapid growth that more than doubled the company's annual recurring revenue over the past year.</p><p>The company plans to use the fresh capital to scale its agentic AI features, expand its market presence internationally into the United Kingdom, and grow its workforce beyond 200 employees by the end of the year. Founded in 2015, Blue J currently serves around 6,500 customers across the United States, Canada, and the United Kingdom.</p>
+<p>Nov 16 · <a href="https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/">betakit.com</a></p>
+<br clear="all" />
+
 <h2>Bharat Semi Raises $24 Million in Seed Funding for AI Image Sensors</h2>
 <p>Bharat Semi has raised $24 million in a seed round led by Info Edge Group, South Park Commons, and Indus Bridge Ventures to develop programmable, AI-enabled image sensors. The New Delhi- and Santa Clara-based startup combines image capture, processing, and AI on a single chip to target global markets including smart homes, industrial automation, and aerospace.</p><p>The pre-revenue company has already secured design wins with U.S. defense contractor General Atomics and India's Kaynes Semicon, with initial commercial production targeted for 2027. Bharat Semi plans to use the new capital to expand its engineering team, complete product prototyping, and scale its international operations.</p>
 <p>Nov 15 · <a href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/">techcrunch.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic.bnbstatic.com%2Fimage%2Fcms%2Fcrawler%2FTHENEWSCRYPTO_NEWS%2Fbinance_crypto_exchange_and_the_SEC_have_just_filed_a_joint_motion.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Department of Justice has obtained court authorization to seize or restrain $1.2 billion of the $2.7 billion frozen by Tether and Circle following North Korea's $6.3 billion Binance hack on October 29.</p><p>This seizure represents nearly half of the total funds frozen in the aftermath of the attack. The action is part of a coordinated effort between U.S. authorities and private-sector companies to recover assets linked to the North Korean-led cyberattack.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Kalshi in Talks for New Funding at $65 Billion Valuation</h2>
-<a name="story-27354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F13702811%2Fpexels-photo-13702811.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-dtanque-13702811.jpg%26fm%3Djpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kalshi is in talks to raise new funding at a $65 billion valuation. This follows a funding round finalized weeks ago that valued the prediction marketplace at $40 billion.</p><p>The company's annual run rate has recently surpassed $5 billion.</p>
-<p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
