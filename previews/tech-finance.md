@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Kindo Raises $30M to Expand AI Agent Management Platform</h2>
+<a name="story-27587"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F004%2F540%2F198%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kindo has secured $30 million in a funding round co-led by Crosspoint Capital and Forgepoint Capital, bringing its total capital to $57.6 million. The company reported approximately 800% year-on-year revenue growth in 2026.</p><p>The investment will fund go-to-market expansion and the development of Kindo's AI Control Center and Deep Hat tools. The platform provides enterprises with centralized visibility, auditing, and cost management for autonomous AI agents.</p>
+<p>Nov 16 · <a href="https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/">techfundingnews.com</a></p>
+<br clear="all" />
+
 <h2>Mount Thor Raises $45 Million to Build Mac Data Centers for AI Agents</h2>
 <a name="story-27581"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2026%2F11%2FAI-Apple-2.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mount Thor has raised $45 million across seed and Series A funding rounds to build data-center-scale cloud infrastructure running macOS on Apple silicon. The Bay Area startup aims to provide elastic compute instances and inference labs specifically targeted at autonomous AI agents.</p><p>Co-led by CRV and Conviction, the financing will help the company expand its compute footprint and build out inference infrastructure optimized for open-source models using hardware like the M5 Ultra Mac Studio. Mount Thor offers both managed bare-metal and virtual machine options, as well as customer-managed deployments, targeting workloads such as reinforcement learning environments and multi-device agent workflows.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27372"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHLpkh_Db0AAD63u.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI startup Mirendil has raised a $1 billion Series A funding round co-led by Kleiner Perkins and Clearlake Capital. Founded by former Anthropic researchers, the company is developing systems designed to automate and accelerate artificial intelligence research and development with minimal human intervention.</p><p>The large financing arrives shortly after Mirendil secured a $200 million seed round and began building foundational models like Fern. The company plans to scale its training, inference, and research workloads to handle increasingly complex scientific and engineering tasks.</p>
 <p>Nov 13 · <a href="https://www.wsj.com/pro/venture-capital/this-startup-raised-1-billion-to-build-ai-faster-and-with-fewer-humans-f7f07a59">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Cisco Beats Q1 Estimates and Raises FY 2027 Revenue Forecast</h2>
-<a name="story-27359"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffuturumgroup.com%2Fwp-content%2Fuploads%2F2023%2F11%2FCisco-Q1-2024-AI-Security-Cloud-and-Observability-Fuel-Results-2-600x336.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cisco reported first-quarter revenue of $18.5 billion, a 24% year-over-year increase that exceeded analyst estimates of $18.14 billion. Adjusted earnings per share also surpassed Wall Street expectations.</p><p>The company raised its revenue forecast for fiscal year 2027, driven by strong demand for networking equipment in the artificial intelligence sector.</p>
-<p>Nov 12 · <a href="https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/">reuters.com</a></p>
 <br clear="all" />
 
 ---
