@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>US and Pax Silica Allies Agree to Joint AI Supply Chain List</h2>
+<a name="story-27553"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkiddaan.com%2Fwp-content%2Fuploads%2F2026%2F02%2Fextras-new-Recovered-34-1024x719.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The United States and Pax Silica allies, including Japan, the UK, and India, have agreed to establish a joint catalog of sensitive artificial intelligence technologies and critical supply chains to protect them from China. The accord encompasses vital sectors such as semiconductors, critical minerals, and energy infrastructure to mitigate strategic vulnerabilities.</p><p>The agreement advances the U.S.-led Pax Silica initiative to secure technological supply chains amid intensifying geopolitical competition. The pact comes ahead of a scheduled meeting between Donald Trump and Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen.</p>
+<p>Nov 15 · <a href="https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22">ft.com</a></p>
+<br clear="all" />
+
 <h2>Howard Lutnick to Join Trump on China Trip Amid Scrutiny Over Chip Controls</h2>
 <a name="story-27550"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthehill.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F05%2FAP25128745110811-e1746880940821.jpg%3Fw%3D1280%26h%3D720%26crop%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Commerce Secretary Howard Lutnick is scheduled to travel to China on Air Force One with President Donald Trump as he faces mounting political pressure over AI export controls. Lutnick has drawn sharp criticism from administration officials for allegedly slow-walking restrictions on advanced chip exports and maintaining close ties to former Nvidia executive Jensen Huang.</p><p>Republicans and Treasury officials have accused Lutnick of permitting regulatory loopholes that enabled indirect chip sales to China and giving Nvidia undue influence over industry policymaking. Despite calls for his removal and scrutiny surrounding chip smuggling investigations tied to an Nvidia customer, the White House has expressed continued confidence in him, and his presence on the presidential delegation indicates he retains his post ahead of meetings with foreign leaders.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27457"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F3cb04a5da0ece4047c3b43a70b63b226e524419df7ddc3f1c46f1aa39d9e74cc%2Flightyear_networkapi%2Fresizefill_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwdvm-hagerstown%2F695d212d953f44bd76db27dcf47635ab&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The current ground stop is not a result of the SMART system or any products resulting from ASI's integration with the FAA and ATC.</p><p>AirSpace Intel issued the statement to address speculation linking the system to the ongoing aviation delays.</p>
 <p>Nov 13 · <a href="https://x.com/airspaceintel/status/2121371183836696583">x.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Accused of Misleading Officials Regarding AI Chip Location and Export Controls</h2>
-<a name="story-27442"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-36585149%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia is accused of using aggressive lobbying and deceptive claims to influence AI chip export policies. Former government and congressional staffers allege the company falsely argued that chip location verification technology was technically unfeasible to block provisions in the 2025 Chip Security Act, despite having already developed the feature for its upcoming chip generation.</p><p>This conduct has allegedly contributed to an "intense trust deficit" between the company and Washington. Nvidia also faces scrutiny for allegedly undercounting chip sales to China, with reports suggesting billions of dollars in chips may have been sold to entities linked to Chinese intelligence.</p>
-<p>Nov 13 · <a href="https://www.semafor.com/article/11/13/2026/how-nvidias-jensen-huang-and-trump-jumped-the-guardrails">semafor.com</a></p>
 <br clear="all" />
 
 ---
