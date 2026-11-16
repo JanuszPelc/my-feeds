@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-16T03:41:00+00:00</updated>
+  <updated>2026-11-16T05:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Alibaba Launches Qwen4-Max AI Model with Strict Cybersecurity Guardrails</title>
+    <link href="https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails" rel="alternate" />
+    <id>https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails::v240</id>
+    <published>2026-11-16T05:16:00+00:00</published>
+    <updated>2026-11-16T05:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fwp-content%2Fuploads%2F2025%2F09%2FAlibaba.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails">scmp.com</a></small></p><hr/><p>Alibaba Group Holding has introduced Qwen4-Max, its most advanced artificial intelligence model to date, featuring strict cybersecurity guardrails. The company filtered the model's training data to remove offensive cyberattack capabilities while preserving defensive features such as vulnerability detection.</p><p>The rollout includes dedicated datasets and post-training enhancements to mitigate chemical, biological, radiological, and nuclear (CBRN) risks. Additionally, Alibaba stated that its upcoming Qwen 5 model is expected to scale between 5 trillion and 10 trillion parameters.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fwp-content%2Fuploads%2F2025%2F09%2FAlibaba.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 15:28 UTC | #27589</small>]]></content>
+  </entry>
+  <entry>
+    <title>Trump Administration Plans to Name Nvidia, Microsoft, and OpenAI Among AI National Champions</title>
+    <link href="https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344?st=e6my7o&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344?st=e6my7o&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-16T04:41:00+00:00</published>
+    <updated>2026-11-16T04:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxbusiness.com%2Ffoxbusiness.com%2Fcontent%2Fuploads%2F2025%2F09%2F931%2F523%2Fdonald-trump-winning-ai-race.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344?st=e6my7o&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>The Trump administration plans to designate Nvidia, Amazon, Microsoft, OpenAI, Anthropic, and other firms among a group of more than 24 artificial intelligence national champions. The initiative is designed to bolster U.S. technology leadership and assist domestic companies in securing international business contracts.</p><p>The program represents a concerted federal effort to align public policy with the global competitiveness of leading American tech developers. By officially recognizing these organizations, the administration aims to reinforce their market position against foreign competitors, particularly as artificial intelligence infrastructure and services become a central arena of geopolitical strategy.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxbusiness.com%2Ffoxbusiness.com%2Fcontent%2Fuploads%2F2025%2F09%2F931%2F523%2Fdonald-trump-winning-ai-race.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 15:21 UTC | #27586</small>]]></content>
+  </entry>
   <entry>
     <title>Alibaba Releases Qwen4-Max</title>
     <link href="https://qwen.ai/blog?id=qwen4-max" rel="alternate" />
@@ -176,14 +194,5 @@
     <updated>2026-11-11T16:49:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a95f49-c0c5-47d1-9c39-c38db29ab327_1024x660.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model">theverge.com</a> | <a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">deepmind.google</a> | <a href="https://news.ycombinator.com/item?id=50454306">hacker news</a></small></p><hr/><p>Google DeepMind has released AlphaGenome 2, an AI model designed to predict how genetic variants affect specific cell types and biological states. Trained on over 100 million cell profiles across 68 tissues, the model accounts for how genes are switched on or off within different cells to provide a more granular view of genetic impact than previous models.</p><p>AlphaGenome 2 identifies nearly twice as many variants affecting gene expression as its predecessor and can predict effects on new cell types without retraining. While more computationally intensive, the model is available for non-commercial research via API to help scientists link genetic variants to specific cellular diseases.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a95f49-c0c5-47d1-9c39-c38db29ab327_1024x660.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 22:22 UTC | #27175</small>]]></content>
-  </entry>
-  <entry>
-    <title>Databricks Updates AI Agent Genie for Multi-Step Enterprise Tasks</title>
-    <link href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/" rel="alternate" />
-    <id>https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/::v240</id>
-    <published>2026-11-11T15:03:00+00:00</published>
-    <updated>2026-11-11T15:03:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Frapl.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FGenie-Dashboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/">techcrunch.com</a></small></p><hr/><p>Databricks has unveiled an updated version of its AI agent, Genie, designed to perform unsupervised, multi-step jobs using a custom-built data ontology. CEO Ali Ghodsi demonstrated internal use cases, including analyzing employee satisfaction surveys, summarizing poorly executed sales calls, and preparing for interviews.</p><p>Ghodsi noted that the tool helps executive leadership bypass institutional filtering to surface critical feedback and unvarnished truths within large organizations exceeding Dunbar’s number. To manage potential enterprise AI costs and usage limits, Databricks integrates the agent with its Unity Gateway product.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Frapl.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FGenie-Dashboard.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 20:14 UTC | #27176</small>]]></content>
   </entry>
 </feed>

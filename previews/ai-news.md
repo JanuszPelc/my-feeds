@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Alibaba Launches Qwen4-Max AI Model with Strict Cybersecurity Guardrails</h2>
+<a name="story-27589"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fwp-content%2Fuploads%2F2025%2F09%2FAlibaba.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alibaba Group Holding has introduced Qwen4-Max, its most advanced artificial intelligence model to date, featuring strict cybersecurity guardrails. The company filtered the model's training data to remove offensive cyberattack capabilities while preserving defensive features such as vulnerability detection.</p><p>The rollout includes dedicated datasets and post-training enhancements to mitigate chemical, biological, radiological, and nuclear (CBRN) risks. Additionally, Alibaba stated that its upcoming Qwen 5 model is expected to scale between 5 trillion and 10 trillion parameters.</p>
+<p>Nov 16 · <a href="https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails">scmp.com</a></p>
+<br clear="all" />
+
+<h2>Trump Administration Plans to Name Nvidia, Microsoft, and OpenAI Among AI National Champions</h2>
+<a name="story-27586"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fstatic.foxbusiness.com%2Ffoxbusiness.com%2Fcontent%2Fuploads%2F2025%2F09%2F931%2F523%2Fdonald-trump-winning-ai-race.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Trump administration plans to designate Nvidia, Amazon, Microsoft, OpenAI, Anthropic, and other firms among a group of more than 24 artificial intelligence national champions. The initiative is designed to bolster U.S. technology leadership and assist domestic companies in securing international business contracts.</p><p>The program represents a concerted federal effort to align public policy with the global competitiveness of leading American tech developers. By officially recognizing these organizations, the administration aims to reinforce their market position against foreign competitors, particularly as artificial intelligence infrastructure and services become a central arena of geopolitical strategy.</p>
+<p>Nov 16 · <a href="https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344?st=e6my7o&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Alibaba Releases Qwen4-Max</h2>
 <a name="story-27585"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This 2.4 trillion parameter Mixture-of-Experts (MoE) model features a 1 million token context window. Alibaba claims the model outperforms Qwen3.8-Max while using approximately 50% fewer tokens.</p><p>Currently available in preview via Alibaba's Token Plan, the model is intended for complex coding and professional knowledge work. It supports an output of up to 393,216 tokens.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27327"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is integrating the Gemini 4 Hydrogen model into Search to improve the handling of complex, multi-part questions and typos. Optimized for speed and agentic workflows, the model completes tasks 2.5 times faster than the previous Gemini 3.8 Flash.</p><p>The update introduces enhanced visual responses, such as comparison tables and structured data, and utilizes an improved "fan-out" technique for better query discovery. Hydrogen is rolling out globally to Search users, AI Studio, the Gemini API, and the Gemini App.</p>
 <p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50471431">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nectar Launches AI Agent to Automate Creator Discovery and Outreach</h2>
-<a name="story-27328"><img src="https://wsrv.nl/?url=https%3A%2F%2Finfluencermarketing.ai%2Fwp-content%2Fuploads%2F2025%2F12%2FWhyManualInfluencerDiscoveryFallsShort.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The new "Creator Agent" from Nectar handles influencer marketing tasks such as discovery, personalized outreach, partnership management, and performance tracking. The agent analyzes over 300 million Instagram and TikTok profiles, evaluating video content to assess brand safety and topical relevance.</p><p>This system can draft messages in a brand’s specific voice and manage administrative tasks like contract handling and shipping coordination. Nectar plans to implement the Model Context Protocol (MCP), allowing the agent to be accessed through AI assistants such as ChatGPT, Claude, Gemini, and Copilot.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Phota Labs Launches AI Photo Assistant for iOS</h2>
-<a name="story-27318"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fphota-labs-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Phota Labs has released an iOS app that uses artificial intelligence to transform everyday snapshots into professional-quality images. The tool automates the editing process by adjusting composition and perspective—such as converting wide-angle shots into tight portraits—while utilizing specialized identity models to ensure the subject's authentic likeness is preserved.</p><p>Founded by former Adobe engineers Cecilia Zhang and Zach Xia, the a16z-backed startup aims to simplify photo enhancement for social media users. To maintain transparency, the app includes invisible watermarking to identify AI-altered content, and the company plans to expand to Android and introduce a freemium business model.</p>
-<p>Nov 12 · <a href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/">techcrunch.com</a> | <a href="https://www.photalabs.com/">photalabs.com</a></p>
 <br clear="all" />
 
 ---
