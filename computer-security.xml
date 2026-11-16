@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-16T12:37:00+00:00</updated>
+  <updated>2026-11-16T16:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Archive of Our Own Restored After More Than Two Weeks Offline</title>
+    <link href="https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html?unlocked_article_code=1.Q1E.JOzR.v1pS94jn07St&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html?unlocked_article_code=1.Q1E.JOzR.v1pS94jn07St&amp;smid=url-share::v240</id>
+    <published>2026-11-16T16:13:00+00:00</published>
+    <updated>2026-11-16T16:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FAO3-Down.jpg.8d5ae2af21dc688db84%282%29.jpg.d8f7b6f55f8bd3f546164e1887fbd9a3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html?unlocked_article_code=1.Q1E.JOzR.v1pS94jn07St&smid=url-share">nytimes.com</a> | <a href="https://archiveofourown.org/">archiveofourown.org</a></small></p><hr/><p>The popular fan fiction platform Archive of Our Own (AO3) has returned online after being forced offline for more than two weeks due to a security incident. The site's volunteer operators confirmed that no user data or stored works were compromised during the outage, though certain features like external work importing were temporarily disabled to expedite the restoration.</p><p>The extended downtime for the noncommercial archive, which hosts nearly 19 million user-submitted stories, highlighted the massive scale and cultural significance of participatory fan fiction communities. While AO3 has consulted with an external security firm and advised users to update their passwords, heavy traffic upon its return caused intentional loading delays as the platform managed user demand.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FAO3-Down.jpg.8d5ae2af21dc688db84%282%29.jpg.d8f7b6f55f8bd3f546164e1887fbd9a3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 21:41 UTC | #27615</small>]]></content>
+  </entry>
   <entry>
     <title>Universal XSS Vulnerability Discovered in uBlock Origin Element Picker</title>
     <link href="https://iter.ca/post/ubo-uxss/" rel="alternate" />

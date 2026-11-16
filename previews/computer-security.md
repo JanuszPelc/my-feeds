@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Archive of Our Own Restored After More Than Two Weeks Offline</h2>
+<a name="story-27615"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FAO3-Down.jpg.8d5ae2af21dc688db84%282%29.jpg.d8f7b6f55f8bd3f546164e1887fbd9a3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The popular fan fiction platform Archive of Our Own (AO3) has returned online after being forced offline for more than two weeks due to a security incident. The site's volunteer operators confirmed that no user data or stored works were compromised during the outage, though certain features like external work importing were temporarily disabled to expedite the restoration.</p><p>The extended downtime for the noncommercial archive, which hosts nearly 19 million user-submitted stories, highlighted the massive scale and cultural significance of participatory fan fiction communities. While AO3 has consulted with an external security firm and advised users to update their passwords, heavy traffic upon its return caused intentional loading delays as the platform managed user demand.</p>
+<p>Nov 16 · <a href="https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html?unlocked_article_code=1.Q1E.JOzR.v1pS94jn07St&smid=url-share">nytimes.com</a> | <a href="https://archiveofourown.org/">archiveofourown.org</a></p>
+<br clear="all" />
+
 <h2>Universal XSS Vulnerability Discovered in uBlock Origin Element Picker</h2>
 <a name="story-27664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fiter.ca%2Fubo-epicker.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A universal cross-site scripting (UXSS) vulnerability affected uBlock Origin versions 1.75.2 and lower on Firefox, allowing malicious websites to inject arbitrary trusted filter rules. By exploiting the browser extension's element picker through crafted messages and internal UUID leakage, an attacker could execute arbitrary JavaScript in the context of any website.</p><p>The security flaw—tracked as GHSA-cmqw-9r2w-6wv2—was discovered earlier this month and patched in version 1.75.4. The attack vector relied on embedding the element picker interface via an invisible iframe, manipulating message parameters to bypass standard filter restrictions, and tricking users into clicking a hidden creation button.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27458"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopengraph.githubassets.com%2F79fe5a25b3cffcec8553dd1763dd2a259c3663d487e4fdeb64d2ac7f98f647fe%2Fanthropics%2Fclaude-code%2Fissues%2F3268&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic experienced a service disruption that caused elevated errors and authentication failures across multiple platforms, including claude.ai, Claude Code, the Claude Console, and Claude Cowork.</p><p>Following initial user reports of authentication problems, the company deployed a fix for the affected systems and monitored the infrastructure to ensure full recovery.</p>
 <p>Nov 13 · <a href="https://status.claude.com/incidents/nn11wk485zfn">status.claude.com</a> | <a href="https://news.ycombinator.com/item?id=50481187">hacker news</a></p>
-<br clear="all" />
-
-<h2>Microsoft 365 Recovery Efforts Face Setbacks Amid Global Outage</h2>
-<a name="story-27454"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hlVIg.img%3Fw%3D800%26h%3D415%26q%3D60%26m%3D2%26f%3Djpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft reported that initial changes applied to resolve the widespread Microsoft 365 service disruption did not perform as expected. The ongoing outage has severely impacted core productivity applications, including Exchange Online, Microsoft Teams, and Outlook, affecting users across multiple regions globally.</p><p>In response to the failed recovery attempt, engineers are identifying alternative workstreams to restore server capacity and address sustained traffic management imbalances. The disruption has persisted across multiple days, prompting continued monitoring and remediation efforts by the company.</p>
-<p>Nov 13 · <a href="https://twitter.com/MSFT365Status/status/2121079061774491735">x.com</a> | <a href="https://news.ycombinator.com/item?id=50478609">hacker news</a></p>
 <br clear="all" />
 
 ---

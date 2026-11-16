@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Plural Raises €1B Fund for European Startups</h2>
+<a name="story-27616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fczechstartups.gov.cz%2Fwp-content%2Fuploads%2F2021%2F02%2FEuropeanCapitalMap_EE-page-001.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>London-based Plural has secured €1 billion in new capital to support startups across Europe. The firm is among a select group of European venture capital firms to raise more than €1 billion in a single round.</p><p>The firm plans to invest in more than 30 companies. This funding marks one of the largest single venture capital fundraisings in the European region.</p>
+<p>Nov 16 · <a href="https://www.ft.com/content/26e52d2a-b259-4283-af83-e2c75d67a2fc">ft.com</a></p>
+<br clear="all" />
+
 <h2>Zus Health Secures $33 Million in Series B Funding for AI Clinical Infrastructure</h2>
 <p>Zus Health has secured $33 million in a Series B funding round led by Drive Capital, bringing its total capital raised to over $100 million. The company plans to use the fresh capital to expand its national healthcare data network and develop AI-powered clinical workflows and patient record infrastructure.</p><p>Founded in 2021 by Jonathan Bush, Zus Health provides a FHIR-native medical record platform designed to aggregate fragmented clinical data across providers. The company aims to serve as the underlying data layer for healthcare applications and AI systems, addressing data interoperability and inefficiencies in specialty care and value-based medicine.</p>
 <p>Nov 16 · <a href="https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows">fiercehealthcare.com</a> | <a href="https://markets.businessinsider.com/news/stocks/zus-health-raises-33-million-in-series-b-funding-to-accelerate-the-next-generation-of-connected-healthcare-1036742905">markets.businessinsider.com</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27478"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.insider.com%2F6aee08d38f37e8e0b5baac0e%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cybersecurity startup WhiteMatter has raised $20 million in a Series A funding round led by Blumberg Capital. Founded in 2024 and formerly known as QuilrAI, the company develops "guardian agents" designed to monitor, control, and secure enterprise AI agents by tracking their actions, permissions, and interactions.</p><p>WhiteMatter operates on a flat-rate model based on agents under management rather than token consumption, utilizing its own self-hosted AI models and GPUs. CEO Vidit Arora plans to use the fresh capital to expand the 80-person team by 50% over the next year, focusing heavily on sales, go-to-market functions, and research.</p>
 <p>Nov 14 · <a href="https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11">businessinsider.com</a></p>
-<br clear="all" />
-
-<h2>Charta Health Raises $55 Million and Launches AI Coding Tools</h2>
-<a name="story-27474"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gunder.com%2Fa%2Fweb%2FckTQYJgYZCcDhoZNRZgGjF%2F8Mgboq%2Fcartahealth-sereiesb-gundersondettmer-default-social-share-social-sharing-image-10351.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>San Francisco-based Charta Health has secured $55 million in a funding round led by Insight Partners, bringing its total capital raised to $85 million. Alongside the financing, the company launched Charta for Payers, a suite of six artificial intelligence products designed to improve accuracy and operational efficiency in medical billing and workflows.</p><p>The newly acquired capital will support the ongoing rollout of Charta for Providers and help expand the company's payer offerings into new specialties. Charta Health operates in a competitive market for healthcare revenue cycle management and AI-driven chart review, alongside industry peers such as Arintra, Candid Health, and CodaMetrix.</p>
-<p>Nov 14 · <a href="https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools">mobihealthnews.com</a> | <a href="https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html">prnewswire.com</a></p>
 <br clear="all" />
 
 ---

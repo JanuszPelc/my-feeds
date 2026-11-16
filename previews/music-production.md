@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Parawave Audio Updates Rapid Synthesizer to 1.9.0</h2>
+<a name="story-27655"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnew-version.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Version 1.9.0 of Rapid Synthesizer adds the Nano Cloud granular effect and Distortion X, a waveshaping tool with five models. New modulation capabilities include Mapping Curves for multi-point sequence editing, a stepped modulation Generator, and a Combinator for combining signals.</p><p>The update expands routing capacity from 32 to 64 entries and includes an 88-note virtual keyboard. Workflow improvements feature a quick routing system for modulation sources and Undo/Redo management. Existing customers can download the update for free, while new users can purchase it for 179.99€.</p>
+<p>Nov 16 · <a href="https://www.kvraudio.com/news/parawave-audio-updates-rapid-synthesizer-to-1-9-0---adds-nano-cloud-distortion-x-and-modulation-features-69855?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69855">kvraudio.com</a> | <a href="https://parawave-audio.com/new_in_rapid_1_9">parawave-audio.com</a></p>
+<br clear="all" />
+
 <h2>Dystopian Waves Releases RHETON Free and DBot MIDI Plugins</h2>
 <a name="story-27649"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>RHETON Free and DBot are free MIDI plugins from Dystopian Waves. RHETON Free is a generative performance engine that transforms chord progressions into instrument-inspired patterns, such as guitar strums or piano parts. DBot functions as a humanizer, adjusting timing and dynamics to add variation to programmed MIDI parts.</p><p>Both plugins support VST3 and AU formats for Windows and macOS, including native support for Apple Silicon. They offer real-time MIDI processing, MIDI import/export, and a piano roll that visualizes processed note shifts. The software is available for $0 via Gumroad, though macOS users should note the files are unsigned and unnotarized.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27605"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdifro_01.1794777186.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Initial Audio has released version 2.5 of its AI-powered melody generator, Difro Melody AI, adding local audio-to-MIDI transcription and new VST3 and AU plugin formats. The audio-to-MIDI feature allows users to drag audio loops of up to 16 bars into the piano roll for automatic conversion with velocity extraction.</p><p>The update also introduces MIDI note key triggering with a latch option, an interactive quick-start tutorial, and support for NVIDIA Blackwell GPUs while dropping support for older Maxwell architectures. Additional changes include a reduced installation footprint, interface optimizations, and bug fixes for stability and rendering issues.</p>
 <p>Nov 16 · <a href="https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69842">kvraudio.com</a> | <a href="https://initialaudio.com/difro-melody-ai/">initialaudio.com</a></p>
-<br clear="all" />
-
-<h2>Soundyan Releases Hyperstellar FX Multi-Slot Freeze and Spectral Effect Plugin</h2>
-<a name="story-27604"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffx-main.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Soundyan has released Hyperstellar FX, a multi-slot freeze and spectral effect plugin designed for musicians and sound designers working with ambient textures, drones, and live layering. The software captures incoming audio into separate freeze slots, allowing users to build sustained layers from single instruments and process them spectrally into evolving pads.</p><p>The plugin includes four independent freeze slots, built-in shimmer reverb and delay, an orbit sequencer, MIDI Learn capabilities, and modulation options driven by LFOs, envelopes, or live input signals. Frozen layers can be exported as 24-bit FLAC files, and the software is available for Windows and macOS in VST3, AU, and standalone formats with an introductory price through November 2026.</p>
-<p>Nov 16 · <a href="https://www.kvraudio.com/news/soundyan-releases-hyperstellar-fx-au-and-vst3-69771?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69771">kvraudio.com</a> | <a href="https://soundyan.com/hyperstellar-fx.php">soundyan.com</a></p>
 <br clear="all" />
 
 ---

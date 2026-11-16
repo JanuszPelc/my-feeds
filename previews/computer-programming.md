@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Yorick Peterse Migrates Projects from GitHub to Codeberg</h2>
+<a name="story-27684"><img src="https://wsrv.nl/?url=https%3A%2F%2Fepiverse-trace.github.io%2Fgit-rstudio-basics%2Ffig%2Fcut-git-verb_map-11.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The author describes migrating over 70 repositories, including the Inko programming language, from GitHub to Codeberg. The move was prompted by concerns regarding the rise of AI-generated content on GitHub, Microsoft's ownership, and Codeberg's stance on hosting free software and prohibiting AI content.</p><p>The transition required replacing GitHub Actions with Forgejo Actions, leading the author to self-host runners on a Mac Mini and a Deskmini to support testing across Linux, macOS, and FreeBSD. Technical hurdles included navigating GitHub rate limits during the import process and resolving compatibility differences between GitHub and Forgejo CI configurations.</p>
+<p>Nov 16 · <a href="https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/">yorickpeterse.com</a> | <a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg">lobsters</a></p>
+<br clear="all" />
+
 <h2>Aphyr Releases Hegel-clj Generative Testing Library for Clojure</h2>
 <a name="story-27677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshot.huntscreens.com%2F86aa65c0-e165-4435-aeea-905bc49ceb53_large.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kyle Kingsbury has released hegel-clj, a Clojure interface for the Hegel generative testing library. The package provides a streamlined, consistent alternative to traditional property-based testing tools like test.check, addressing common composition limitations and shrinking inefficiencies associated with nested generators and the bind function.</p><p>Unlike traditional libraries that rely on precomputed shrink trees, Hegel employs internal test-case-reduction to generate similar, smaller counterexamples more reliably. The hegel-clj library features pure, composable generators, a convenient let macro, a deferred API for recursive structures, and seamless integration with clojure.test.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27538"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdholms.leaflet.pub%2Fapi%2Fatproto_images%3Fdid%3Ddid%3Aplc%3Ayk4dd2qkboz2yv6tpubpc6co%26cid%3Dbafkreicqz45nqgtbmmdfdt3eohalynxcfcyr4wyuvol43s6j22m3iu2rc4%26width%3D1200%26v%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Daniel Holmgren explores the architectural motivation and design goals behind Atproto Spaces, a new primitive for the AT Protocol aimed at supporting non-public, multi-user social contexts such as large forums. Spaces organize and permission data through an abstraction of locality, establishing a shared common reality where each record belongs to a single space owned by a specific entity and tied to a particular modality.</p><p>Contrasted with record-level access control lists and "circles," spaces function as lightweight "mini atprotos" that simplify synchronization, moderation, and OAuth consent legibility within a multi-app network. Holmgren argues that grouping content into shared social contexts avoids the cognitive overhead and unintended side effects associated with cross-referencing multiple overlapping permission lists.</p>
 <p>Nov 15 · <a href="https://dholms.leaflet.pub/3mu3p3ldwrc26">dholms.leaflet.pub</a> | <a href="https://lobste.rs/s/dwd6xu/reintroducing_spaces">lobsters</a></p>
-<br clear="all" />
-
-<h2>Parsing Nested Lists in BQN</h2>
-<a name="story-27536"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.comp.nus.edu.sg%2F~nityalak%2FCS1010S%2Fimg%2FMultiDimensional%2Fnested%2FCount02.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The article explores three different approaches to parsing nested lists in BQN using data from Advent of Code 2022 day 13. It examines a high-level solution using the system evaluation function, a conventional recursive descent parser, and an array-style parser.</p><p>The piece evaluates the performance and implementation details of each method through benchmarking. While the evaluation function approach proves slow and error-prone, the recursive descent and array-style techniques demonstrate how traditional algorithms and array manipulation primitives can be effectively implemented in BQN.</p>
-<p>Nov 15 · <a href="https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html">saltysylvi.github.io</a> | <a href="https://lobste.rs/s/nbjckz/parsing_nested_lists_bqn">lobsters</a></p>
 <br clear="all" />
 
 ---

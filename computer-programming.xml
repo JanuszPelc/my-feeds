@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Yorick Peterse Migrates Projects from GitHub to Codeberg</title>
+    <link href="https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/" rel="alternate" />
+    <id>https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/::v240</id>
+    <published>2026-11-16T16:14:00+00:00</published>
+    <updated>2026-11-16T16:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fepiverse-trace.github.io%2Fgit-rstudio-basics%2Ffig%2Fcut-git-verb_map-11.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/">yorickpeterse.com</a> | <a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg">lobsters</a></small></p><hr/><p>The author describes migrating over 70 repositories, including the Inko programming language, from GitHub to Codeberg. The move was prompted by concerns regarding the rise of AI-generated content on GitHub, Microsoft's ownership, and Codeberg's stance on hosting free software and prohibiting AI content.</p><p>The transition required replacing GitHub Actions with Forgejo Actions, leading the author to self-host runners on a Mac Mini and a Deskmini to support testing across Linux, macOS, and FreeBSD. Technical hurdles included navigating GitHub rate limits during the import process and resolving compatibility differences between GitHub and Forgejo CI configurations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fepiverse-trace.github.io%2Fgit-rstudio-basics%2Ffig%2Fcut-git-verb_map-11.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 21:48 UTC | #27684</small>]]></content>
+  </entry>
+  <entry>
     <title>Aphyr Releases Hegel-clj Generative Testing Library for Clojure</title>
     <link href="https://aphyr.com/posts/428-announcing-hegel-clj" rel="alternate" />
     <id>https://aphyr.com/posts/428-announcing-hegel-clj::v240</id>
