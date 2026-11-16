@@ -3,9 +3,17 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-15T13:03:00+00:00</updated>
+  <updated>2026-11-15T20:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Saturday Night Live Features Tech Tycoons in Sketch on Dating and Spycraft</title>
+    <link href="https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/::v240</id>
+    <published>2026-11-15T20:21:00+00:00</published>
+    <updated>2026-11-15T20:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/">techcrunch.com</a></small></p><hr/><p>Saturday Night Live aired a sketch featuring impressions of prominent technology executives, including Peter Thiel, Sam Altman, Dario Amodei, Elon Musk, Mark Zuckerberg, and Jensen Huang. Hosted by John Mulaney, the sketch portrayed a CIA agent instructing the tech leaders on how to avoid being targeted by romantic spies.</p><p>The segment leveraged recent industry events, including Jensen Huang's departure from Nvidia following an affair with a suspected spy, as well as recent technical disruptions involving Microsoft and flight groundings. The performance highlights the cultural shift of tech executives moving from relative obscurity to immense global wealth and power.</p><hr/><small>16 Nov 2026, 01:34 UTC | #27562</small>]]></content>
+  </entry>
   <entry>
     <title>LinkedIn and Monster Remove Over 1,000 Fake Job Postings Following CBC Investigation</title>
     <link href="https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379" rel="alternate" />

@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Saturday Night Live Features Tech Tycoons in Sketch on Dating and Spycraft</h2>
+<p>Saturday Night Live aired a sketch featuring impressions of prominent technology executives, including Peter Thiel, Sam Altman, Dario Amodei, Elon Musk, Mark Zuckerberg, and Jensen Huang. Hosted by John Mulaney, the sketch portrayed a CIA agent instructing the tech leaders on how to avoid being targeted by romantic spies.</p><p>The segment leveraged recent industry events, including Jensen Huang's departure from Nvidia following an affair with a suspected spy, as well as recent technical disruptions involving Microsoft and flight groundings. The performance highlights the cultural shift of tech executives moving from relative obscurity to immense global wealth and power.</p>
+<p>Nov 15 · <a href="https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>LinkedIn and Monster Remove Over 1,000 Fake Job Postings Following CBC Investigation</h2>
 <p>LinkedIn and Monster have removed more than 1,500 remote work job postings following a CBC investigation that connected the listings to a U.S.-based multi-level marketing company. The suspicious ads promoted roles such as travel planners with salaries up to $75,000 requiring no experience, but instead directed applicants to virtual sessions demanding upfront and monetary subscription fees.</p><p>The listings used pseudonyms like Wanderwell Collective and Professional Travel Hub to funnel users into Evolution Travel, a network marketing partner of Archer Travel Services. While Evolution Travel representatives denied encouraging job advertisements on public platforms, experts noted that such deceptive recruitment tactics violate platform rules and could potentially breach U.S. Federal Trade Commission regulations.</p>
 <p>Nov 15 · <a href="https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379">cbc.ca</a> | <a href="https://news.ycombinator.com/item?id=50499723">hacker news</a></p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27445"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.squaredtech.co%2Fwp-content%2Fuploads%2F2026%2F06%2Fsquaredtech-22f0f7e8-metas-new-prediction-market-app-arena-takes-aim-at-696x464.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta is testing a prediction-market application called "Takes" with its employees. The app allows users to wager on the outcomes of questions or events using a virtual currency known as "cred" rather than real money.</p><p>The application is currently in an internal testing phase focused on exploring event-based wagering mechanics.</p>
 <p>Nov 13 · <a href="https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50491375">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic CEO Dario Amodei Cites Computing Requirements as Major Business Dilemma</h2>
-<a name="story-27446"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.digit.in%2Fdario-amodei-ceo-anthropic.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic CEO Dario Amodei identified forecasting computing power requirements for the next one to two years as the company's primary business challenge. He attributed this difficulty to the unpredictability of the company's revenue.</p><p>The challenge underscores the difficulty of managing massive capital expenditures for AI infrastructure amidst uncertain financial returns.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
