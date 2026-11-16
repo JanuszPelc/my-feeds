@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-15T20:24:00+00:00</updated>
+  <updated>2026-11-16T01:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Launches Health AI Usage Study App</title>
+    <link href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/::v240</id>
+    <published>2026-11-16T01:31:00+00:00</published>
+    <updated>2026-11-16T01:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F09%2Fapple-introduces-apple-watch-se-3%2Farticle%2FApple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">techcrunch.com</a> | <a href="https://apps.apple.com/us/app/apple-health-ai-study-app/id6800060365">apps.apple.com</a></small></p><hr/><p>Apple has launched a new iOS research application in partnership with OpenEvidence to study how users engage with clinically grounded artificial intelligence for health queries. The study aims to enroll up to 200,000 participants in the United States over the age of 21 using an iPhone 15 or later with Apple Intelligence enabled, running for a duration of over 12 months.</p><p>Participants can ask everyday medical questions and receive simplified answers grounded in clinical data from sources like The New England Journal of Medicine and Nature, while also optionally contributing HealthKit data for personalized insights. Apple stated that all collected query and response data is anonymized, handled by a secure third-party cloud provider, deleted after 24 hours by OpenEvidence, and excluded from AI training models.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F09%2Fapple-introduces-apple-watch-se-3%2Farticle%2FApple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 06:47 UTC | #27575</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Plans Smart Glasses Launch for Late 2027 With Siri AI Integration</title>
     <link href="https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDc1NTQ2MSwiZXhwIjoxNzk1MzYwMjYxLCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.2TeBxZfpuwFLhhyEns0-GWBuy-YbU6nhgWwD5smKMD4" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Apple Launches Health AI Usage Study App</h2>
+<a name="story-27575"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F09%2Fapple-introduces-apple-watch-se-3%2Farticle%2FApple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple has launched a new iOS research application in partnership with OpenEvidence to study how users engage with clinically grounded artificial intelligence for health queries. The study aims to enroll up to 200,000 participants in the United States over the age of 21 using an iPhone 15 or later with Apple Intelligence enabled, running for a duration of over 12 months.</p><p>Participants can ask everyday medical questions and receive simplified answers grounded in clinical data from sources like The New England Journal of Medicine and Nature, while also optionally contributing HealthKit data for personalized insights. Apple stated that all collected query and response data is anonymized, handled by a secure third-party cloud provider, deleted after 24 hours by OpenEvidence, and excluded from AI training models.</p>
+<p>Nov 16 · <a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">techcrunch.com</a> | <a href="https://apps.apple.com/us/app/apple-health-ai-study-app/id6800060365">apps.apple.com</a></p>
+<br clear="all" />
+
 <h2>Apple Plans Smart Glasses Launch for Late 2027 With Siri AI Integration</h2>
 <a name="story-27548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.redmondpie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FApple-smart-glasses.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple is reportedly developing a pair of smart glasses focused on deep third-party iPhone app integration powered by Siri AI. Industry sources indicate the company intends to unveil the wearable device at an upcoming Worldwide Developers Conference before shipping it by the end of 2027.</p><p>The hardware initiative forms part of a broader push into AI-driven wearables that includes exploring companion devices such as camera-equipped AirPods and wearable pendants. Concurrently, the company is working on introducing Face ID technology to its upcoming iPhone lineup.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27331"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt28dc04ffc1fc5bb9%2F6af5edc7d565807a3b5dc005%2Fmaneater2.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The developer behind the Killing Floor and Maneater series is reducing its workforce by 36 positions. This decision follows the recent announcement of "Tripwire Presents," a new initiative intended to scale publishing services for smaller developers. The studio will continue development on Maneater 2 and Killing Floor 3.</p><p>The layoffs come after 23 positions were cut during a restructuring earlier this year. Former CEO and co-founder John Gibson has attributed the studio's recent instability to his departure and the subsequent sale to Embracer Group, disputing assertions that the performance of Killing Floor 3 was the cause.</p>
 <p>Nov 12 · <a href="https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative">gamedeveloper.com</a> | <a href="https://x.com/TripwireInt/status/2119834389982966150">x.com</a></p>
-<br clear="all" />
-
-<h2>GDC State of the Industry Report Shows Rising Layoff Rates Among Game Developers</h2>
-<a name="story-27322"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt72fcddc73bbb2120%2F6af3820047f27357fe7d4bfc%2Flayoffnoticefeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The GDC State of the Industry report indicates that 34% of game industry professionals have been laid off in the last 24 months, a figure that rises to 39% in the United States. Survey data shows that unemployment among respondents has increased to 21%, up from 13% the previous year.</p><p>Layoffs were most prevalent in AAA studios, affecting 68% of companies, and primarily impacted roles in quality assurance, marketing/PR, and visual or technical arts. While many displaced workers found new employment, only 68% remained in a similar field, and 9% reported leaving the game industry entirely.</p>
-<p>Nov 12 · <a href="https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years">gamedeveloper.com</a> | <a href="https://reg.gdconf.com/2026-SOTI">reg.gdconf.com</a></p>
 <br clear="all" />
 
 ---
