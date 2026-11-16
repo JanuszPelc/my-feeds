@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-15T09:18:00+00:00</updated>
+  <updated>2026-11-15T23:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Bharat Semi Raises $24 Million in Seed Funding for AI Image Sensors</title>
+    <link href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/::v240</id>
+    <published>2026-11-15T23:31:00+00:00</published>
+    <updated>2026-11-15T23:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/">techcrunch.com</a></small></p><hr/><p>Bharat Semi has raised $24 million in a seed round led by Info Edge Group, South Park Commons, and Indus Bridge Ventures to develop programmable, AI-enabled image sensors. The New Delhi- and Santa Clara-based startup combines image capture, processing, and AI on a single chip to target global markets including smart homes, industrial automation, and aerospace.</p><p>The pre-revenue company has already secured design wins with U.S. defense contractor General Atomics and India's Kaynes Semicon, with initial commercial production targeted for 2027. Bharat Semi plans to use the new capital to expand its engineering team, complete product prototyping, and scale its international operations.</p><hr/><small>16 Nov 2026, 04:32 UTC | #27572</small>]]></content>
+  </entry>
   <entry>
     <title>Nidus Raises $30 Million in Funding for Defense Industrial Robotics AI</title>
     <link href="https://www.upstartsmedia.com/p/nidus-ai-robotics-raises-30m" rel="alternate" />

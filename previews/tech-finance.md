@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Bharat Semi Raises $24 Million in Seed Funding for AI Image Sensors</h2>
+<p>Bharat Semi has raised $24 million in a seed round led by Info Edge Group, South Park Commons, and Indus Bridge Ventures to develop programmable, AI-enabled image sensors. The New Delhi- and Santa Clara-based startup combines image capture, processing, and AI on a single chip to target global markets including smart homes, industrial automation, and aerospace.</p><p>The pre-revenue company has already secured design wins with U.S. defense contractor General Atomics and India's Kaynes Semicon, with initial commercial production targeted for 2027. Bharat Semi plans to use the new capital to expand its engineering team, complete product prototyping, and scale its international operations.</p>
+<p>Nov 15 · <a href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Nidus Raises $30 Million in Funding for Defense Industrial Robotics AI</h2>
 <a name="story-27533"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F10274226.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>New York-based robotics AI startup Nidus has raised $30 million in a funding round combining a pre-seed led by Costanoa and a seed round led by Kleiner Perkins. Founded earlier this year by former hardware engineers from defense startup Vannevar, the company develops customized AI models to automate precise manufacturing tasks for defense industrial customers, starting with wire harness preparation.</p><p>Within four months of operation, Nidus has reached over $1 million in bookings. The startup plans to use the new capital to scale data collection, expand its team at its New York headquarters, and build a dedicated physical AI lab aimed at addressing critical labor shortages and strengthening domestic supply chains.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F13702811%2Fpexels-photo-13702811.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-dtanque-13702811.jpg%26fm%3Djpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kalshi is in talks to raise new funding at a $65 billion valuation. This follows a funding round finalized weeks ago that valued the prediction marketplace at $40 billion.</p><p>The company's annual run rate has recently surpassed $5 billion.</p>
 <p>Nov 12 · <a href="https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Cerebras Systems Reports Q3 Revenue Beat and New Microsoft Deal</h2>
-<a name="story-27347"><img src="https://wsrv.nl/?url=https%3A%2F%2Fswotstock.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fmicrosoft-q3-fy2026-earnings-ai-cloud-analysis.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cerebras Systems reported third-quarter core revenue of $230.9 million, surpassing analyst expectations of $214.7 million. The company's stock rose 18% in extended trading following the report and the announcement of a new Microsoft deal, which CEO Andrew Feldman expects to impact revenue in the first quarter of 2027.</p><p>Core revenue grew 70% from $135.7 million. Competing with Nvidia in the AI chip market, Cerebras projected fourth-quarter revenue between $310 million and $330 million and expects total 2027 revenue to triple to approximately $2.85 billion.</p>
-<p>Nov 12 · <a href="https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html">cnbc.com</a> | <a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026">investors.cerebras.ai</a></p>
 <br clear="all" />
 
 ---
