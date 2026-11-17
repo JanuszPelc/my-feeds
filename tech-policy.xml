@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-16T19:13:00+00:00</updated>
+  <updated>2026-11-16T23:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>US Judge Acquits MIT-Educated Brothers in $25 Million Ethereum Heist Case</title>
+    <link href="https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/" rel="alternate" />
+    <id>https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/::v240</id>
+    <published>2026-11-16T23:59:00+00:00</published>
+    <updated>2026-11-16T23:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhackread.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fmit-graduate-brothers-arrested-ethereum-heist-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/">reuters.com</a></small></p><hr/><p>A U.S. federal judge ordered the acquittal of two MIT-educated brothers who faced criminal charges for allegedly executing a $25 million cryptocurrency heist in 12 seconds. The judge ruled that prosecutors failed to prove the defendants committed fraud by exploiting an Ethereum software vulnerability.</p><p>The case centered on an advanced exploit of Ethereum's validator system, with prosecutors arguing the brothers manipulated blockchain mechanics. However, the court determined that the government did not establish the necessary material misrepresentations required to support the fraud convictions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhackread.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fmit-graduate-brothers-arrested-ethereum-heist-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 08:22 UTC | #27687</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Trump Says Jensen Huang’s Affair With Alleged Chinese Spy Did Not Threaten National Security</title>
     <link href="https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/" rel="alternate" />
