@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Rust Compiler Team Enables Parallel Frontend by Default on Nightly</h2>
+<a name="story-27741"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.rust-lang.org%2F2026%2F11%2F16%2Fenabling-parallel-frontend-on-nightly%2Fnalgebra-0.33.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Rust Compiler Team has enabled the parallel frontend of the rustc compiler by default on the nightly channel, starting with the nightly-2026-11-14 toolchain, using two threads initially. This change aims to surface remaining bugs and integration issues in preparation for the feature's eventual stabilization.</p><p>While the compiler's backend has supported multi-threading via LLVM for years, the frontend previously executed sequentially. Benchmarks indicate that utilizing up to eight threads can significantly reduce single-crate compilation times—by up to 44% for tasks like cargo check—though end-to-end crate graph compilation and incremental rebuild gains are more modest. Users can adjust the thread count or opt out via compiler flags while developers work to resolve known limitations regarding diagnostic ordering and build reproducibility.</p>
+<p>Nov 17 · <a href="https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly">lobsters</a></p>
+<br clear="all" />
+
 <h2>Linebender Wiki Explores Mathematical and Practical Definitions of Squircles</h2>
 <a name="story-27730"><img src="https://wsrv.nl/?url=https%3A%2F%2Flinebender.org%2Fwiki%2Fcurves%2Fsquircle%2Fapple_vs_superellipse.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A squircle is a geometric shape intermediate between a square and a circle, encompassing various parametrized curves rather than a single mathematical definition. Well-known variants include superellipses, flat-sided designs such as Apple's icon shape introduced in iOS 7, and approximations used in design tools like Figma.</p><p>Different squircle variants vary in their mathematical properties, continuity levels, and parameters like gauge or superellipse exponents. Recent developments include standardization via the CSS box decorations spec's corner-shape property, allowing web browsers and developers to implement these continuous corner geometries efficiently using closed-form Bézier approximations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27542"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnetbsd.org%2F~nia%2Fdisk-encrypt%2Finstaller1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This guide outlines a practical approach to disk encryption on NetBSD to safeguard sensitive user data against theft or loss. By maintaining a small, unencrypted root partition for standard system binaries, users can isolate and encrypt critical directories containing user files, logs, and third-party software.</p><p>The setup process utilizes NetBSD's cryptographic device driver, cgd, alongside either traditional disklabels or modern disk wedges depending on the hardware architecture. The walkthrough covers generating encryption parameters, establishing password verification methods, creating secure sub-partitions, and migrating essential directories to the encrypted file system.</p>
 <p>Nov 15 · <a href="https://netbsd.org/~nia/disk-encrypt/">netbsd.org</a> | <a href="https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50504277">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ian Miell Publishes Family Tree of Software Job Titles</h2>
-<a name="story-27540"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fianmiell%2Fsw-job-title-family-tree%2Fmain%2Fjob_title_family_tree.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ian Miell has created an interactive family tree mapping 104 software job titles from the 1940s to the present across seven disciplinary categories. Built using Graphviz and JSON, the visualization tracks how roles have evolved, split, merged, and recycled over decades in the tech industry.</p><p>The project highlights historical patterns such as the changing status of coding from clerical work to creative engineering, the recurring cycles of specialization and generalization, and the short-lived nature of certain modern titles like prompt engineers. Miell notes that these lineages help clarify contemporary distinctions between roles like DevOps engineers, site reliability engineers, and platform engineers.</p>
-<p>Nov 15 · <a href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/">zwischenzugs.com</a> | <a href="https://news.ycombinator.com/item?id=50499038">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-17T03:38:00+00:00</updated>
+  <updated>2026-11-17T09:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Rust Compiler Team Enables Parallel Frontend by Default on Nightly</title>
+    <link href="https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/::v240</id>
+    <published>2026-11-17T09:01:00+00:00</published>
+    <updated>2026-11-17T09:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.rust-lang.org%2F2026%2F11%2F16%2Fenabling-parallel-frontend-on-nightly%2Fnalgebra-0.33.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly">lobsters</a></small></p><hr/><p>The Rust Compiler Team has enabled the parallel frontend of the rustc compiler by default on the nightly channel, starting with the nightly-2026-11-14 toolchain, using two threads initially. This change aims to surface remaining bugs and integration issues in preparation for the feature's eventual stabilization.</p><p>While the compiler's backend has supported multi-threading via LLVM for years, the frontend previously executed sequentially. Benchmarks indicate that utilizing up to eight threads can significantly reduce single-crate compilation times—by up to 44% for tasks like cargo check—though end-to-end crate graph compilation and incremental rebuild gains are more modest. Users can adjust the thread count or opt out via compiler flags while developers work to resolve known limitations regarding diagnostic ordering and build reproducibility.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.rust-lang.org%2F2026%2F11%2F16%2Fenabling-parallel-frontend-on-nightly%2Fnalgebra-0.33.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 14:55 UTC | #27741</small>]]></content>
+  </entry>
   <entry>
     <title>Linebender Wiki Explores Mathematical and Practical Definitions of Squircles</title>
     <link href="https://linebender.org/wiki/curves/squircle/" rel="alternate" />
