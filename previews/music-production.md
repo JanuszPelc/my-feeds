@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Universal Audio Vibe Analog Machines Discounted to $10 at Plugin Boutique</h2>
+<a name="story-27769"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.static-thomann.de%2Fthumb%2Fpadthumb600x600%2Fpics%2Fbdb%2F_64%2F642707%2F21122349_800.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Through November 30, 2026, the Vibe Analog Machines plugin is available for $10 at Plugin Boutique. This purchase includes a choice of one free plugin gift: UVI Tape Suite or Excite Audio Evolve Elastic Lite.</p><p>The software includes ten machines for tape coloration, preamp saturation, and heavy distortion. It supports macOS and 64-bit Windows in VST3, AU, and AAX formats and requires UA Connect and a free iLok account for licensing.</p>
+<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/uad-vibe-analog-machines/">bedroomproducersblog.com</a> | <a href="https://www.uaudio.com/products/vibe-analog-machines">uaudio.com</a></p>
+<br clear="all" />
+
 <h2>Spotify Launches Artist Profile Protection to Manage Music Attribution</h2>
 <a name="story-27735"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHero-asset.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Spotify is rolling out its "Artist Profile Protection" tool to all artists, allowing them to control the music appearing under their names. The feature enables artists to receive alerts for new music submissions and remove their association from tracks caused by metadata errors, impersonation, or AI-generated content. An optional advanced setting also allows artists to manually approve or reject releases before they are published on their profiles.</p><p>The rollout follows an eight-month beta testing period and addresses the increasing volume of AI-generated content on streaming platforms. The release comes as the music industry faces growing challenges with deepfake music, including recent requests from Sony Music to remove hundreds of thousands of AI-generated tracks from digital services.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr-b8nogsSXI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vocal Pockets' new VIPA plugin uses "Moodscapes" images to suggest chord progressions via MIDI on macOS and Windows. The tool populates 16 pads with chords matching a selected image's mood, which can be triggered via keyboard or dragged into a DAW. It is compatible with VST3, AU, and Logic Pro's MIDI FX format.</p><p>The software is available for $9.99 per month or $99 per year, including 100 monthly generation credits and periodic image updates. Users can refine chords by adjusting voicing, inversion, and strumming patterns, or by using humanization modes to vary performance timing. Internet is required for activation and image-based generation.</p>
 <p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/">bedroomproducersblog.com</a> | <a href="https://vocalpockets.com/pages/vipa">vocalpockets.com</a></p>
-<br clear="all" />
-
-<h2>Audiolatry Releases UZAT Free Character and Degradation Effect Plugin</h2>
-<a name="story-27652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuzat-free-cover-1920x1080.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audiolatry has released UZAT, a free character and degradation effect plugin for Windows and macOS. The plugin utilizes five processing stages—Drift, Wear, Crush, Dust, and Space—to add movement, texture, and controlled damage to audio signals.</p><p>Users can manage effect intensity via a central Character control and a global wet/dry mix. The software includes 32 factory presets, a resizable interface, and native support for both Intel and Apple Silicon on macOS.</p>
-<p>Nov 16 · <a href="https://www.kvraudio.com/news/audiolatry-releases-uzat---free-character-and-degradation-effect-plugin-au-and-vst3-69858?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69858">kvraudio.com</a> | <a href="https://audiolatry.com/uzat-free-character-degradation-effect-plugin/">audiolatry.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Alex Gibney&#x27;s Musk Documentary Criticized for Use of AI Avatar and Video Game Visuals</h2>
+<a name="story-27736"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FScreenshot-2026-11-12-122710-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alex Gibney's four-hour documentary *Musk* features an AI-generated avatar of Elon Musk and various video game-style visual metaphors to profile the billionaire's life and influence. The filmmaker uses the simulated avatar to provide commentary because Musk declined to participate in traditional interviews.</p><p>The film's use of hyperreal AI visuals and video game sequences—such as Musk destroying government buildings—has been criticized for being distracting and less informative than the original interview footage. While the creative choices are intended to reflect Musk's own belief in simulation theory, the execution is described as undermining the documentary's exploration of Musk's impact.</p>
+<p>Nov 17 · <a href="https://www.404media.co/the-ai-in-musk-is-cringe/">404media.co</a> | <a href="https://en.wikipedia.org/wiki/Musk_(film)">en.wikipedia.org</a></p>
+<br clear="all" />
+
 <h2>Shigeru Miyamoto Named Inaugural Legend Award Inductee at DICE Awards</h2>
 <a name="story-27679"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt639371fbd86997ed%2F6afb4ac51ecf5c11d26c18f8%2Fmiyamotogreybg.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Shigeru Miyamoto will receive the inaugural Legend Award at the 30th annual D.I.C.E. Awards in Las Vegas this February. The Academy of Interactive Arts and Sciences (AIAS) established the honor to recognize industry icons with generational influence, limiting the award to one recipient per decade.</p><p>The Nintendo veteran, responsible for franchises such as Mario and The Legend of Zelda, was the first inductee into the AIAS Hall of Fame in 1998. The awards ceremony is scheduled to take place on February 18, 2027.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjordi.inversethought.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fimage-14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Enthusiast blogger Jordi has compiled a curated list of twenty-five modern titles released for the Nintendo Entertainment System. The selection spans diverse genres including horror platformers, Metroidvanias, arcade firefighting games, and shoot-'em-ups, illustrating the ongoing vitality of third-party development for the 8-bit console.</p><p>Nearly all of the featured games are accessible digitally and as physical cartridges designed to run on original hardware, with several projects leveraging advanced community knowledge and tools like Famitracker. The overview underscores how decades of accumulated technical research continue to inspire independent creators to produce new software for vintage systems.</p>
 <p>Nov 15 · <a href="https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/">jordi.inversethought.com</a> | <a href="https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50503465">hacker news</a></p>
-<br clear="all" />
-
-<h2>Steinar H. Gunderson Solves the Ancient Norse Fox Board Game</h2>
-<p>Software engineer Steinar H. Gunderson has completely solved the ancient Norse asymmetric board game known as the Fox Game or halatafl, determining that sheep win with perfect play under standard rules. Using a compact bitboard representation, combinatorial number systems, and parallelized state propagation across 64 cores, Gunderson analyzed over two trillion possible board states over a 36-hour run.</p><p>The implementation required approximately 1,000 lines of code with no external dependencies, leveraging symmetry optimizations to manage memory and reduce the search space. Gunderson found that sheep maintain a forced win even when reduced to 19 or 18 pieces, while 11 sheep suffice against a single fox, conclusively settling a question left open by previous AI analyses.</p>
-<p>Nov 14 · <a href="https://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html">blog.sesse.net</a> | <a href="https://lobste.rs/s/q81fi4/solving_fox_game">lobsters</a></p>
 <br clear="all" />
 
 ---

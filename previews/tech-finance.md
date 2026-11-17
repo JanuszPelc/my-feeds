@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Science Corporation Raises $400 Million in Series D Funding at $3.5 Billion Valuation</h2>
+<a name="story-27743"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F55588371385_eb2e316d52_o.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Science Corporation, a medical technology startup founded by former Neuralink president Max Hodak, has raised a $400 million Series D funding round that values the company at $3.5 billion. Investors in the round include Khosla Ventures, Tenet Healthcare, the Ackman Oxman Institute, and Y Combinator.</p><p>The company's flagship product is PRIMA, a wearable and implantable microchip that restores central vision in patients with age-related macular degeneration and is currently undergoing U.S. clinical trials for Stargardt's disease. Beyond vision restoration, Science Corporation is designing human trials for a bio-hybrid brain sensor aimed at treating neurological disorders such as Parkinson's disease.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/">techcrunch.com</a> | <a href="https://science.xyz/news/series-d/">science.xyz</a></p>
+<br clear="all" />
+
+<h2>Numa Raises $45 Million Series C to Expand AI Operations for Car Dealerships</h2>
+<a name="story-27706"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmm-gen-images.nyc3.cdn.digitaloceanspaces.com%2Fuploads%2Fac511bbd-90b3-40e3-9d3f-1f1e786a6f18.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Oakland-based AI startup Numa has raised $45 million in a Series C funding round led by Blue Cloud Ventures, bringing its total funding to $96 million and valuing the company at $500 million. The company develops an artificial intelligence operating system designed to automate customer service, sales lead logging, and routine warranty paperwork for car dealerships.</p><p>Founded in 2017 as Number AI before pivoting to the automotive sector, Numa currently provides its software to more than 1,500 dealerships across the United States and Canada. The new capital will be used to expand its engineering team and scale its platform as the adoption of AI agents grows within legacy industries.</p>
+<p>Nov 17 · <a href="https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/">fortune.com</a> | <a href="https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html">prnewswire.com</a></p>
+<br clear="all" />
+
 <h2>Kalshi Acquires Brokerage to Expand into Equity Trading</h2>
 <a name="story-27700"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial-life-magazine.s3.amazonaws.com%2F~sociall1%2Fwp-content%2Fuploads%2F2025%2F12%2F26021231%2FChatGPT-Image-Dec-26-2025-02_12_16-AM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Prediction markets platform Kalshi acquired FB Securities, a small New York-based brokerage, in July to facilitate expansion into equity trading. The company plans to launch stock trading services within the next two months.</p><p>The move comes as Kalshi continues to navigate legal challenges from various U.S. states regarding the legality of its existing yes-or-no prediction contracts.</p>
@@ -81,18 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Bharat Semi Raises $24 Million in Seed Funding for AI Image Sensors</h2>
 <p>Bharat Semi has raised $24 million in a seed round led by Info Edge Group, South Park Commons, and Indus Bridge Ventures to develop programmable, AI-enabled image sensors. The New Delhi- and Santa Clara-based startup combines image capture, processing, and AI on a single chip to target global markets including smart homes, industrial automation, and aerospace.</p><p>The pre-revenue company has already secured design wins with U.S. defense contractor General Atomics and India's Kaynes Semicon, with initial commercial production targeted for 2027. Bharat Semi plans to use the new capital to expand its engineering team, complete product prototyping, and scale its international operations.</p>
 <p>Nov 15 · <a href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Nidus Raises $30 Million in Funding for Defense Industrial Robotics AI</h2>
-<a name="story-27533"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F10274226.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>New York-based robotics AI startup Nidus has raised $30 million in a funding round combining a pre-seed led by Costanoa and a seed round led by Kleiner Perkins. Founded earlier this year by former hardware engineers from defense startup Vannevar, the company develops customized AI models to automate precise manufacturing tasks for defense industrial customers, starting with wire harness preparation.</p><p>Within four months of operation, Nidus has reached over $1 million in bookings. The startup plans to use the new capital to scale data collection, expand its team at its New York headquarters, and build a dedicated physical AI lab aimed at addressing critical labor shortages and strengthening domestic supply chains.</p>
-<p>Nov 15 · <a href="https://www.upstartsmedia.com/p/nidus-ai-robotics-raises-30m">upstartsmedia.com</a></p>
-<br clear="all" />
-
-<h2>USD-Pegged Stablecoins Expand Across Latin America for Savings and Payments</h2>
-<a name="story-27513"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxrex.io%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FXREX25-SG-blog-%E8%A1%A8%E6%A0%BC-01-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>USD-pegged stablecoins are capturing an increasing share of cryptocurrency activity in Latin America, functioning both as a reliable store of value and an efficient mechanism for cross-border payments. These digital assets are utilized by individuals in countries like Argentina and Venezuela to protect savings against inflation, as well as by businesses in Mexico and Brazil for international transactions.</p><p>The adoption of stablecoins has accelerated even among users without prior blockchain knowledge, driven by local currency volatility and the demand for accessible digital dollars. This trend highlights the practical utility of cryptocurrency infrastructure in emerging markets beyond speculative trading.</p>
-<p>Nov 15 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/stablecoins-are-becoming-crypto-s-killer-app-across-latin-america?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU4NDc3NywiZXhwIjoxNzk1MTg5NTc3LCJhcnRpY2xlSWQiOiJUT0ZKSVFSS1YyVFcwMCIsImJjb25uZWN0SWQiOiIyN0Y1RjQ0NUUwQ0M0Q0I3OTVDMDlGMzEzMzVCN0NBNSJ9.kuYIJ968CiOxK5J82iSNK9K1CVZAvx3bDakA0KzVR30">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
