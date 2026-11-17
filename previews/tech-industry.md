@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Leopold Aschenbrenner’s Situational Awareness Hedge Fund Rebuilds AI Stakes in Q3 Filing</h2>
+<a name="story-27696"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHF6pbChasAAfbu-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, re-established significant equity positions and options in artificial intelligence and infrastructure companies at the end of the third quarter following a near-collapse in July. A new regulatory filing reveals that the fund acquired a stake in Australian neocloud firm SharonAI valued at over $440 million, alongside holdings in Cleanspark, IREN, Bitdeer Technologies, and Fermi, as well as call options in Nebius, Sandisk, and Bloom Energy.</p><p>These holdings experienced severe declines during the broader October AI market selloff, with SharonAI dropping 58% in October and Nebius falling significantly following weak forecasts. The losses compound pressures on the fund, which previously saw its assets plunge from a $45 billion peak to roughly $10 billion over the summer, forcing a sale of public equities to Citadel amid cooling investor sentiment toward the sector's growth and heavy debt financing.</p>
+<p>Nov 17 · <a href="https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html">cnbc.com</a> | <a href="https://www.sec.gov/edgar/browse/?CIK=0002045724">sec.gov</a></p>
+<br clear="all" />
+
 <h2>US Department of Justice to Review DoorDash&#x27;s Proposed Acquisition of Instacart</h2>
 <a name="story-27699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.nbcboston.com%2F2025%2F10%2Fimage-33-4.jpg%3Fquality%3D85%26strip%3Dall%26resize%3D1200%2C675&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DoorDash's proposed $17 billion acquisition of Instacart is set for review by the US Department of Justice, according to sources familiar with the matter. The company has reportedly agreed to pay a $1.25 billion breakup fee if the deal fails antitrust scrutiny.</p><p>The deal is intended to expand DoorDash's grocery delivery capabilities. It is expected to face regulatory examination concerning its potential effect on market competition and consumer pricing.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27567"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21FwZk%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F61292989-e514-48bf-918b-6bc290ff15c0_1290x1344.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis by Epoch AI of Huawei's Horinger data center campus in Inner Mongolia estimates that the facility houses approximately 113,000 operational Ascend AI chips, equating to roughly 81,000 H100-equivalents. Utilizing commercial satellite imagery and a cooling capacity model, researchers determined that four of the campus buildings are active, positioning it as one of the largest AI data centers in China.</p><p>Despite its regional scale, the Horinger facility possesses less than one-tenth the computing capacity of the world's largest AI data center, Colossus 2 in Tennessee, underscoring hardware performance and efficiency disparities caused by US export controls. While planned expansions are projected to increase Horinger's capacity by over 70% by early 2028, persistent compute constraints will likely continue to limit China's large-scale model training capabilities relative to the United States.</p>
 <p>Nov 16 · <a href="https://epochai.substack.com/p/what-huaweis-horinger-data-center">epochai.substack.com</a></p>
-<br clear="all" />
-
-<h2>Jensen Huang Discusses Potential Return as Nvidia CEO</h2>
-<a name="story-27558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jensen Huang has held discussions regarding a potential comeback as Nvidia's chief executive. Supporters are reportedly organizing a "war room" to lobby the company's board for his reinstatement and are seeking support from the White House.</p><p>His resignation followed reports of extramarital affairs, including one with an alleged Chinese spy. The push for his return comes as the company and its allies attempt to manage the political and corporate fallout from the scandal.</p>
-<p>Nov 15 · <a href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b&syn-25a6b1a6=1">ft.com</a></p>
 <br clear="all" />
 
 ---
