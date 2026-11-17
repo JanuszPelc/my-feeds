@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-17T14:51:00+00:00</updated>
+  <updated>2026-11-17T15:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Voyage Labs Raises $12 Million in Seed Funding for Atlas AI Travel Assistant</title>
+    <link href="https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/::v240</id>
+    <published>2026-11-17T15:01:00+00:00</published>
+    <updated>2026-11-17T15:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffreemiumai.net%2Fwp-content%2Fuploads%2F2025%2F01%2FAtlas_-_Your_AI_travel_assistant_-_2025-01-27_20.53.13-600x540.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/">techcrunch.com</a> | <a href="https://atlas.voyagelabs.ai/">atlas.voyagelabs.ai</a></small></p><hr/><p>Startup Voyage Labs has secured $12 million in seed funding led by Kleiner Perkins, with participation from SignalFire and SV Angel. The company is developing Atlas, a specialized AI-powered travel assistant designed to manage entire trip-planning lifecycles, from initial inspiration and long-term research to real-time price tracking and booking.</p><p>Co-founded by former Google Maps product management director Manik Gupta and CTO Yogesh Jain, Atlas aims to differentiate itself from general-purpose AI assistants by focusing specifically on travel and outdoor activities. The newly acquired capital will be used to expand the engineering team and build out supplier partnerships as the product enters private beta.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffreemiumai.net%2Fwp-content%2Fuploads%2F2025%2F01%2FAtlas_-_Your_AI_travel_assistant_-_2025-01-27_20.53.13-600x540.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 20:36 UTC | #27752</small>]]></content>
+  </entry>
   <entry>
     <title>Isomorphic Labs Raises $5 Billion in Series C Funding Round</title>
     <link href="https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/" rel="alternate" />

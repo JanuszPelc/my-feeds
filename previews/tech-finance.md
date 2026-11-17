@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Voyage Labs Raises $12 Million in Seed Funding for Atlas AI Travel Assistant</h2>
+<a name="story-27752"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffreemiumai.net%2Fwp-content%2Fuploads%2F2025%2F01%2FAtlas_-_Your_AI_travel_assistant_-_2025-01-27_20.53.13-600x540.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Startup Voyage Labs has secured $12 million in seed funding led by Kleiner Perkins, with participation from SignalFire and SV Angel. The company is developing Atlas, a specialized AI-powered travel assistant designed to manage entire trip-planning lifecycles, from initial inspiration and long-term research to real-time price tracking and booking.</p><p>Co-founded by former Google Maps product management director Manik Gupta and CTO Yogesh Jain, Atlas aims to differentiate itself from general-purpose AI assistants by focusing specifically on travel and outdoor activities. The newly acquired capital will be used to expand the engineering team and build out supplier partnerships as the product enters private beta.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/">techcrunch.com</a> | <a href="https://atlas.voyagelabs.ai/">atlas.voyagelabs.ai</a></p>
+<br clear="all" />
+
 <h2>Isomorphic Labs Raises $5 Billion in Series C Funding Round</h2>
 <a name="story-27742"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6846c7b5a78f3e9225c64f10%2F6afc440c8b4fc64d82c8d851_6afc2c7f673a113273db42d4_ISO_MonumentalPost_Landscape%2B1-p-1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Isomorphic Labs has raised $5 billion in a Series C funding round co-led by Greenoaks and Sequoia Capital to advance its AI-driven drug discovery platform toward clinical trials. The financing follows a $2.1 billion Series B round in May and includes participation from Andreessen Horowitz alongside existing backers such as Alphabet's GV and Capital G, Thrive Capital, MGX, Temasek, and the UK Sovereign AI Fund.</p><p>The company builds upon the AlphaFold protein-folding breakthroughs developed at Google's DeepMind, which earned founder and CEO Demis Hassabis and John Jumper a Nobel Prize in chemistry. Isomorphic Labs has reported positive preclinical results in oncology and immunology and has established partnerships with major pharmaceutical firms including Eli Lilly, Novartis, and Johnson &amp; Johnson.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27581"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2026%2F11%2FAI-Apple-2.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mount Thor has raised $45 million across seed and Series A funding rounds to build data-center-scale cloud infrastructure running macOS on Apple silicon. The Bay Area startup aims to provide elastic compute instances and inference labs specifically targeted at autonomous AI agents.</p><p>Co-led by CRV and Conviction, the financing will help the company expand its compute footprint and build out inference infrastructure optimized for open-source models using hardware like the M5 Ultra Mac Studio. Mount Thor offers both managed bare-metal and virtual machine options, as well as customer-managed deployments, targeting workloads such as reinforcement learning environments and multi-device agent workflows.</p>
 <p>Nov 16 · <a href="https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/">9to5mac.com</a> | <a href="https://www.mountthor.com/">mountthor.com</a></p>
-<br clear="all" />
-
-<h2>Blue J Raises 176 Million USD in Series E Funding</h2>
-<a name="story-27580"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolordrop.io%2Fapi%2Fimage%2F18821%3Fwidth%3D1080%26height%3D1080&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Toronto-based AI tax research platform Blue J has secured a $176 million USD ($249 million CAD) Series E funding round led by JMI Equity, valuing the company at more than $700 million USD. The investment follows rapid growth that more than doubled the company's annual recurring revenue over the past year.</p><p>The company plans to use the fresh capital to scale its agentic AI features, expand its market presence internationally into the United Kingdom, and grow its workforce beyond 200 employees by the end of the year. Founded in 2015, Blue J currently serves around 6,500 customers across the United States, Canada, and the United Kingdom.</p>
-<p>Nov 16 · <a href="https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/">betakit.com</a></p>
 <br clear="all" />
 
 ---

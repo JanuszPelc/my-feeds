@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>XLN Audio Releases RC-20 Retro Color v2 Multi-Effects Plugin</h2>
+<a name="story-27754"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FXLN-Audio-RC-20-Retro-Color-V2-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>XLN Audio has released RC-20 Retro Color v2, a major update to its vintage lo-fi multi-effects plugin. Ten years after the debut of the original software, the update introduces a new Echo module featuring granular processing and feedback routing through the plugin's effect chain, alongside expanded degradation tools and new distortion algorithms.</p><p>The updated plugin maintains backward compatibility by automatically importing version 1 presets and installing alongside legacy versions to preserve existing projects. Additional improvements include an expanded Space module with 33 reverb types, a Codec processor for lossy audio emulation, a revamped Flux modulation interface, and precise frequency focus and cut controls.</p>
+<p>Nov 17 · <a href="https://musictech.com/reviews/plug-ins/xln-audio-rc-20-retro-color-v2-review/">musictech.com</a> | <a href="https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color">xlnaudio.com</a></p>
+<br clear="all" />
+
+<h2>Eventide Releases SplitEQ 2 Dynamic EQ Plugin</h2>
+<a name="story-27753"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fspliteq2-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Eventide has released SplitEQ 2, a dynamic equalization plugin powered by the company's patented Structural Split technology. The software separates audio into independent transient and tonal components, allowing mixing engineers and producers to shape each element separately across six dynamic bands.</p><p>New features in version 2 include real-time masking visualization to identify frequency conflicts between tracks, pre- and post-routable Global Dynamics, and targeted stereo processing across multiple bands. The plugin supports AU, AAX, and VST3 formats on macOS and Windows, and is available at an introductory price of $99 until January 3, 2027.</p>
+<p>Nov 17 · <a href="https://www.kvraudio.com/news/eventide-releases-spliteq-2---dynamic-eq-plugin-aax-au-and-vst3-69904?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69904">kvraudio.com</a> | <a href="https://www.eventideaudio.com/plug-ins/spliteq-2/">eventideaudio.com</a></p>
+<br clear="all" />
+
 <h2>Yamaha NS-10 Studio Monitors: Performance and Reputation</h2>
 <a name="story-27745"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FYamaha-NS-10-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Yamaha NS-10 is an iconic studio monitor known for a polarizing sound profile featuring emphasized midrange, limited low-end, and bright high frequencies. These characteristics help engineers identify problematic frequency buildups in a mix that might be overlooked on more balanced monitoring systems.</p><p>The speaker is prized for its exceptional transient response and accuracy in the time domain, which facilitates precise diagnostic listening. Although originally designed as domestic bookshelf speakers, the NS-10 has become an industry-standard staple in recording studios worldwide.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fableton-push-black-friday-simon-vinall%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MusicTech has released its curated list of Black Friday 2026 deals for music technology, including plugins, hardware, and DAWs. Featured discounts include the Solid State Logic SSL Fusion Bundle for £44, the Universal Audio Minimoog plugin for £26, and the AKG Ara USB microphone for £16.60.</p><p>The selection prioritizes products with positive review histories and industry popularity from retailers such as Thomann and Plugin Boutique. The guide evaluates the value of these deals by comparing promotional prices against standard market rates.</p>
 <p>Nov 16 · <a href="https://musictech.com/news/gear/best-black-friday-music-tech-deals/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>Audio Brewers Introduces ab Advanced Visualiser HOA Pro</h2>
-<a name="story-27689"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsdllpdburwoxa6zfcx0n.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audio Brewers has announced ab Advanced Visualiser HOA Pro, an Ambisonics analysis plugin supporting First- through Seventh-Order Ambisonics (1OA–7OA). Available in AAX, AU, and VST3 formats, the tool includes 14 visualization tools organized into Soundfield, Planes, Frequency, and Levels categories.</p><p>The software features a modular interface with a "Brush Mode" for analyzing custom spatial regions and a Scene Visualiser for overlaying audio data onto standard or 360° video. It also provides real-time OSC output to track up to 16 sound sources for integration with external visual engines and lighting systems.</p>
-<p>Nov 16 · <a href="https://www.kvraudio.com/news/audio-brewers-introduces-ab-advanced-visualiser-hoa-pro-for-immersive-audio-analysis-69863?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69863">kvraudio.com</a> | <a href="https://www.audiobrewers.com/plugins/p/ab-advanced-visualiser-hoa">audiobrewers.com</a></p>
-<br clear="all" />
-
-<h2>Parawave Audio Updates Rapid Synthesizer to 1.9.0</h2>
-<a name="story-27655"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnew-version.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Version 1.9.0 of Rapid Synthesizer adds the Nano Cloud granular effect and Distortion X, a waveshaping tool with five models. New modulation capabilities include Mapping Curves for multi-point sequence editing, a stepped modulation Generator, and a Combinator for combining signals.</p><p>The update expands routing capacity from 32 to 64 entries and includes an 88-note virtual keyboard. Workflow improvements feature a quick routing system for modulation sources and Undo/Redo management. Existing customers can download the update for free, while new users can purchase it for 179.99€.</p>
-<p>Nov 16 · <a href="https://www.kvraudio.com/news/parawave-audio-updates-rapid-synthesizer-to-1-9-0---adds-nano-cloud-distortion-x-and-modulation-features-69855?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69855">kvraudio.com</a> | <a href="https://parawave-audio.com/new_in_rapid_1_9">parawave-audio.com</a></p>
 <br clear="all" />
 
 ---
