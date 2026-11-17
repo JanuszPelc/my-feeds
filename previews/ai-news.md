@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI and NATO Partner on Cybersecurity Defenses</h2>
+<a name="story-27720"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mobigyaan.com%2Fwp-content%2Fuploads%2F2026%2F05%2FOpenAI-Daybreak-AI-platform-cyber-defenders.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI is partnering with NATO’s Communications and Information Agency (NCIA) through its Daybreak program to enhance Allied cyber defenses. The initiative provides NATO institutions with access to advanced AI models designed to detect software bugs, investigate suspicious network activity, and assist in deploying security fixes.</p><p>NATO utilizes up to 300 billion raw input and output tokens per month to support these cybersecurity operations. The Daybreak program is intended to offer government agencies and enterprise customers specialized AI capabilities for defensive technical tasks.</p>
+<p>Nov 17 · <a href="https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258?st=Konk45&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/">openai.com</a></p>
+<br clear="all" />
+
 <h2>Daydream Launches AI Fashion Stylist and Shopping Agent</h2>
 <a name="story-27764"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FaKtwDmhA-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fashion startup Daydream has launched Daydream Agent, an AI-powered personal stylist designed to help users plan outfits, virtually try on clothing, and complete purchases. The agent pulls real-time pricing and availability from a catalog of over 10,000 brands to offer personalized recommendations based on individual style, fit preferences, and budgets.</p><p>Built on the company's previous AI shopping tools, the new agent features a persistent clothing rack for comparing items, tracking for sales and new drops, and the ability to integrate user closets and calendars to coordinate outfits. Daydream has also appointed international stylist Francesca Salih as its first Stylist in Residence to help shape the agent's styling capabilities alongside its automated technology.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27451"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaircurrent.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAlaska_Airlines_Air_Space_Intelligence.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Federal Aviation Administration has expanded its cloud-based SMART artificial intelligence system across all 22 air route traffic control centers in the United States. Initially deployed in the Washington, DC region in September, the tool analyzes weather, traffic flow, and staffing to offer flight rerouting and scheduling recommendations.</p><p>The agency reports that the system previously helped reroute 180 flights while saving fuel and time, though the national air traffic controllers union has noted it was excluded from the system's design and testing process. Human specialists ultimately review and validate all recommendations before they reach air traffic control facilities.</p>
 <p>Nov 13 · <a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">arstechnica.com</a> | <a href="https://www.transportation.gov/briefing-room/smart-fact-sheet">transportation.gov</a> | <a href="https://news.ycombinator.com/item?id=50490834">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic&#x27;s Claude Duet AI Agent Offers Proactive Task Assistance</h2>
-<a name="story-27448"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FIMG_3369.png%3Fquality%3D90%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic's Claude Duet is a proactive AI agent currently in research preview for Pro, Max, and Ultra subscribers in the United States. The tool integrates with services like email, Slack, and Google Docs to suggest tasks, flag scheduling conflicts, and draft messages based on user communication history.</p><p>The agent can identify discrepancies across various platforms and provide organizational reminders, but it may lack the nuance required to interpret social timing or communication tone accurately. Access is currently limited to specific subscription tiers through a waitlist.</p>
-<p>Nov 13 · <a href="https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on">theverge.com</a> | <a href="https://claude.com/product/claude-duet">claude.com</a> | <a href="https://news.ycombinator.com/item?id=50186037">hacker news</a></p>
 <br clear="all" />
 
 ---
