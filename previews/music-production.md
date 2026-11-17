@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>HoRNet TrackUtility Plugin Available for Free Until November 19</h2>
+<a name="story-27771"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNIF-eEMy_5w%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HoRNet is offering its TrackUtility audio plugin for free until November 19, 2026, using the promotional code TRACKFREE at checkout. Normally priced at €9.90, the utility combines multiple mixing functions such as gain staging, stereo control, and metering into a single interface.</p><p>The plugin supports Windows and macOS in AU, VST, and AAX formats with native Apple Silicon compatibility. It provides automatic peak and RMS gain adjustments, DC offset removal, phase inversion, pan and width controls, and an output limiter, operating without copy protection or license keys.</p>
+<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/hornet-trackutility-free-again/">bedroomproducersblog.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-trackutility/">hornetplugins.com</a></p>
+<br clear="all" />
+
 <h2>Sylvia Massy Discusses Vintage Microphones and Recording Techniques on My Forever Studio Podcast</h2>
 <a name="story-27725"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsylvia-massy-mfs-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Grammy-winning producer Sylvia Massy discusses her experience recording for artists such as Prince and Tool, her collection of over 3,000 vintage microphones, and her new book, *The Great Book of Vintage Microphones*.</p><p>As part of the eighth season of the *My Forever Studio* podcast, Massy shares insights into her unconventional approach to sound capture and her use of esoteric microphones.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27651"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUQvU4KyTJA%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GullDSP has released Phathom, a free and open-source bass guitar preamp and distortion plugin for Windows. Designed for modern fuzzy, growling, and clanky tones, the virtual pedal operates without any AI-generated code and features two distinct distortion styles alongside pre-distortion filtering and dry signal blending.</p><p>The plugin includes a fuzzy transformer-style saturation option and a clanky mode inspired by CMOS-based inverter chip pedals. It features automatic oversampling up to 4x, zero added latency, and is distributed under the MIT license as a 64-bit VST3 plugin directly through GitHub.</p>
 <p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/">bedroomproducersblog.com</a> | <a href="https://github.com/gulldsp/phathom-vst/">github.com</a></p>
-<br clear="all" />
-
-<h2>In Session Audio Releases Dyad: Solo Kalimba Free for Kontakt Player</h2>
-<a name="story-27628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbW01limXAr8%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In Session Audio is offering Dyad: Solo Kalimba, a sampled kalimba virtual instrument for the free Kontakt Player, as a free download through November 25. Built using an instrument crafted from cedar and gourd by maker Greg Trimble, the library features over 800 samples across four plucking articulations with multiple round-robins.</p><p>The instrument operates on the Dyad Engine, utilizing paired sequencers for the left and right thumbs with controls for rhythm, swing, and humanization. It includes 100 editable patterns, MIDI export functionality, and layer options for drones and nature recordings alongside effects like drive, delay, and reverb.</p>
-<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/dyal-solo-kalimba/">bedroomproducersblog.com</a> | <a href="https://insessionaudio.com/products/dyad-solo-kalimba/">insessionaudio.com</a></p>
 <br clear="all" />
 
 ---

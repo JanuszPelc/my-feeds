@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-17T17:11:00+00:00</updated>
+  <updated>2026-11-17T18:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>DNA Study Resolves Taxonomic Status of Extinct Continental Crane Species</title>
+    <link href="https://theconversation.com/dna-study-of-ancient-cranes-suggests-we-need-to-rethink-how-many-species-have-gone-extinct-296569" rel="alternate" />
+    <id>https://theconversation.com/dna-study-of-ancient-cranes-suggests-we-need-to-rethink-how-many-species-have-gone-extinct-296569::v240</id>
+    <published>2026-11-17T18:54:00+00:00</published>
+    <updated>2026-11-17T18:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771916%2Foriginal%2Ffile-20261113-64-2x7nnf.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/dna-study-of-ancient-cranes-suggests-we-need-to-rethink-how-many-species-have-gone-extinct-296569">theconversation.com</a> | <a href="https://royalsocietypublishing.org/rsos/article/13/10/260699/483927/Ancient-DNA-study-resolves-the-taxonomic-status-of">royalsocietypublishing.org</a></small></p><hr/><p>An ancient DNA study analyzing 18 crane bone fragments from across Europe has concluded that the extinct primeval crane species Grus primigenia is actually the modern common crane (Grus grus). Researchers found that previous classifications of a separate, larger extinct species were the result of misinterpreting sexual dimorphism and historical size variations in the birds.</p><p>The findings suggest that caution is warranted when evaluating historical bird extinctions based solely on skeletal size differences, as distinct species classifications may instead reflect size disparities between males and females of the same species. The common crane itself experienced a size decrease over the last millennium before disappearing from Britain centuries ago due to habitat loss and hunting, though populations returned naturally in the 1970s.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771916%2Foriginal%2Ffile-20261113-64-2x7nnf.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 20:09 UTC | #27644 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Groundwork Collaborative Investigation Finds Nearly One-Third of Amazon Holiday Deals Offered No Savings</title>
     <link href="https://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/" rel="alternate" />
