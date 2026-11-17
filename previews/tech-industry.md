@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Chinese Records Show Kang Wei Built State-Backed Data Center Network</h2>
+<a name="story-27714"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffuturenetworld.net%2Fwp-content%2Fuploads%2F2023%2F10%2Fkkw-1-modified-1024x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese public records and stock-market filings reveal that Kang Wei, husband of Alice Huang, developed a vast data center network across China with over $9 billion in proposed investments between 2021 and 2024. The business ventures, including projects managed through entities like Century Longteng, received substantial support from government-linked entities during a period when Huang maintained professional proximity to Nvidia leadership.</p><p>The findings shed light on the intersection of private enterprise and state backing within China's critical digital infrastructure sector. Analysts and investigators continue to examine the connections between these large-scale data center investments and broader international technology supply chains.</p>
+<p>Nov 17 · <a href="https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?st=6ghwix">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Details Data Center Expansion Plans Through Anthropic Direct Initiative</h2>
 <a name="story-27710"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.briefs.co%2Fwp-content%2Fuploads%2F2026%2F07%2Fanthropic-signs-20-year-data-center-lease-terawulf-stock-sur-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has outlined extensive infrastructure expansion plans under an initiative called Anthropic Direct, committing more than $900 billion through 2045 to build and secure dedicated computing capacity. Regulatory filings show the company plans to lease approximately 875,000 Tensor Processing Units at an estimated cost of $7.2 billion per year to reduce its reliance on traditional cloud providers.</p><p>The large-scale commitments form part of the artificial intelligence company's broader financial and operational strategy detailed in its initial public offering documents. By establishing proprietary data center networks and securing multi-billion-dollar financing arrangements, Anthropic aims to support its escalating research and development workloads.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27657"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F16%2Fsmall%2F4270972_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Noeri, a five-month-old startup co-founded by two Stanford University artificial intelligence experts, has raised $110 million in a funding round led by Menlo Ventures. The company develops software designed to review and suggest improvements for its clients' existing AI models and tools.</p><p>The funding will support Noeri's mission to drive more cost-efficient AI implementations. The startup focuses on providing specialized software solutions to optimize the performance and management of artificial intelligence systems.</p>
 <p>Nov 16 · <a href="https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Harvard Study Finds 403 US Hyperscale Data Centers Use As Much Electricity As Michigan</h2>
-<a name="story-27658"><img src="https://wsrv.nl/?url=https%3A%2F%2Fenergyinnovation.org%2Fwp-content%2Fuploads%2FRelative-change-in-global-data-center-energy-use-drivers-1024x695.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A Harvard study published in Nature Sustainability reports that 403 hyperscale data centers in the United States consumed as much electricity in a single year as the state of Michigan. The research finds that data center emissions are three times higher than they were before the AI boom and that most of the energy used is generated from fossil fuels.</p><p>Federal and state governments do not currently track data center electricity use separately from the rest of the power sector, as operators often classify specific usage as proprietary information. While the Energy Information Agency is designing a potential voluntary survey for the sector, the expansion of "behind-the-meter" onsite power generation remains a significant factor that may further impact total emissions and grid stability.</p>
-<p>Nov 16 · <a href="https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/">wired.com</a> | <a href="https://www.nature.com/articles/s41893-026-01985-7">nature.com</a> | <a href="https://news.ycombinator.com/item?id=50520697">hacker news</a></p>
 <br clear="all" />
 
 ---
