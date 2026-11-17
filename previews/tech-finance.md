@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Kalshi Acquires Brokerage to Expand into Equity Trading</h2>
+<a name="story-27700"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial-life-magazine.s3.amazonaws.com%2F~sociall1%2Fwp-content%2Fuploads%2F2025%2F12%2F26021231%2FChatGPT-Image-Dec-26-2025-02_12_16-AM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Prediction markets platform Kalshi acquired FB Securities, a small New York-based brokerage, in July to facilitate expansion into equity trading. The company plans to launch stock trading services within the next two months.</p><p>The move comes as Kalshi continues to navigate legal challenges from various U.S. states regarding the legality of its existing yes-or-no prediction contracts.</p>
+<p>Nov 17 · <a href="https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?st=GrtBNR&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Faces Scrutiny Over Governance and China Sales Following Jensen Huang&#x27;s Resignation</h2>
 <a name="story-27685"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia's interim CEO Colette Kress will lead the company's third-quarter earnings report on Tuesday, marking her first financial presentation since the resignation of Jensen Huang. Huang's departure followed allegations of extramarital affairs and potential connections to a Chinese intelligence asset.</p><p>The report is expected to address several critical issues, including Huang's potential reinstatement, investigations into chip diversion via Singapore, and Nvidia's sales strategy in China. Investors are also seeking information on corporate governance reforms and the company's approach to high-risk AI financing deals.</p>
@@ -87,11 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27513"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxrex.io%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FXREX25-SG-blog-%E8%A1%A8%E6%A0%BC-01-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>USD-pegged stablecoins are capturing an increasing share of cryptocurrency activity in Latin America, functioning both as a reliable store of value and an efficient mechanism for cross-border payments. These digital assets are utilized by individuals in countries like Argentina and Venezuela to protect savings against inflation, as well as by businesses in Mexico and Brazil for international transactions.</p><p>The adoption of stablecoins has accelerated even among users without prior blockchain knowledge, driven by local currency volatility and the demand for accessible digital dollars. This trend highlights the practical utility of cryptocurrency infrastructure in emerging markets beyond speculative trading.</p>
 <p>Nov 15 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/stablecoins-are-becoming-crypto-s-killer-app-across-latin-america?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU4NDc3NywiZXhwIjoxNzk1MTg5NTc3LCJhcnRpY2xlSWQiOiJUT0ZKSVFSS1YyVFcwMCIsImJjb25uZWN0SWQiOiIyN0Y1RjQ0NUUwQ0M0Q0I3OTVDMDlGMzEzMzVCN0NBNSJ9.kuYIJ968CiOxK5J82iSNK9K1CVZAvx3bDakA0KzVR30">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Databento Raises $100m in Series C Funding at $1.1bn Valuation</h2>
-<p>Market data platform Databento has closed a $100m Series C funding round led by Fifth Down Capital, valuing the company at $1.1bn. The financing follows a $97m Series B earlier in the year and includes participation from existing backers such as NEA, DRW Venture Capital, Tribe Capital, and Hedosophia, alongside strategic investor Fitch Ventures.</p><p>Since its Series B, Databento has doubled its revenue while maintaining profitability with a compact team of 39 employees. The company provides live and historical financial data across futures, options, equities, and indices via a single API, serving quantitative trading houses, asset managers, and major artificial intelligence labs. The newly secured capital will be used to advance its infrastructure and expand asset class coverage.</p>
-<p>Nov 14 · <a href="https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/">fintech.global</a></p>
 <br clear="all" />
 
 ---

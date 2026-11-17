@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-16T22:04:00+00:00</updated>
+  <updated>2026-11-17T00:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Kalshi Acquires Brokerage to Expand into Equity Trading</title>
+    <link href="https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?st=GrtBNR&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?st=GrtBNR&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-17T00:06:00+00:00</published>
+    <updated>2026-11-17T00:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsocial-life-magazine.s3.amazonaws.com%2F~sociall1%2Fwp-content%2Fuploads%2F2025%2F12%2F26021231%2FChatGPT-Image-Dec-26-2025-02_12_16-AM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?st=GrtBNR&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Prediction markets platform Kalshi acquired FB Securities, a small New York-based brokerage, in July to facilitate expansion into equity trading. The company plans to launch stock trading services within the next two months.</p><p>The move comes as Kalshi continues to navigate legal challenges from various U.S. states regarding the legality of its existing yes-or-no prediction contracts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial-life-magazine.s3.amazonaws.com%2F~sociall1%2Fwp-content%2Fuploads%2F2025%2F12%2F26021231%2FChatGPT-Image-Dec-26-2025-02_12_16-AM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 10:09 UTC | #27700</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Faces Scrutiny Over Governance and China Sales Following Jensen Huang's Resignation</title>
     <link href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/" rel="alternate" />
