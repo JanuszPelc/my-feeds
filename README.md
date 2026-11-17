@@ -19,6 +19,18 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Windows 11 Collects Telemetry on AI Coding Agent and Developer Tool Usage</h2>
+<a name="story-27808"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxusheng.dev%2Fposts%2Fwindows-coding-agent-telemetry%2Fagent-names.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Reverse engineering of Windows 11's MissionControlAggregator.dll reveals that the operating system tracks the usage of specific AI coding agents and developer tools. The system uses Event Tracing for Windows (ETW) to monitor processes such as claude.exe, cursor.exe, python.exe, and gcc.exe, recording their presence in diagnostic reports.</p><p>This usage data is organized into bitsets representing CLI agents, desktop agents, and broader developer tool categories. If optional diagnostic data is enabled—the default setting in several regions including the United States—the telemetry is uploaded to Microsoft via the Connected User Experiences and Telemetry service. This collection applies to both native Windows applications and those running within the Windows Subsystem for Linux (WSL).</p>
+<p>Nov 17 · <a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/">xusheng.dev</a> | <a href="https://news.ycombinator.com/item?id=50524736">hacker news</a></p>
+<br clear="all" />
+
+<h2><img src="images/tech-finance.png" width="28" align="texttop" /> &nbsp;Wall Street&#x27;s 10 Biggest 2026 IPOs Fall From Offer Prices</h2>
+<a name="story-27621"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21EJK0%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F067361fd-c97e-4be8-9042-8adb89af1b2c_1376x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The ten largest initial public offerings on Wall Street in 2026, featuring companies such as SpaceX, SK, and Cerebras, have declined by an average of 20.5 percent from their original offer prices.</p><p>This downturn follows four years of consistent market gains and highlights a cooling enthusiasm for artificial intelligence that has dampened recent major public debuts.</p>
+<p>Nov 17 · <a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">ft.com</a></p>
+<br clear="all" />
+
 <h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Carnegie Mellon University Launches CS Learn Platform</h2>
 <a name="story-27805"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.qatar.cmu.edu%2Fwp-content%2Fuploads%2F2025%2F09%2F20250928-AI-and-CS-SQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Carnegie Mellon University has launched CS Learn, a platform providing free access to computer science lectures from its faculty. Current offerings on YouTube include courses on machine learning, principles of computing, software construction, and AI agents.</p><p>The platform will expand to include self-paced courseware with instant feedback, digital badges, and AI tutoring. Additional subject areas, such as probability and multimodal machine learning, are scheduled for release in January 2027.</p>
@@ -95,18 +107,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27585"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This 2.4 trillion parameter Mixture-of-Experts (MoE) model features a 1 million token context window. Alibaba claims the model outperforms Qwen3.8-Max while using approximately 50% fewer tokens.</p><p>Currently available in preview via Alibaba's Token Plan, the model is intended for complex coding and professional knowledge work. It supports an output of up to 393,216 tokens.</p>
 <p>Nov 16 · <a href="https://qwen.ai/blog?id=qwen4-max">qwen.ai</a> | <a href="https://news.ycombinator.com/item?id=50513215">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/tech-industry.png" width="28" align="texttop" /> &nbsp;Jensen Huang&#x27;s Resignation Creates Funding Gap for AI Startups</h2>
-<a name="story-27455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpress.farm%2Fwp-content%2Fuploads%2F2024%2F03%2Fthe-story-of-nvidia-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jensen Huang's resignation as Nvidia CEO has created a significant funding gap for AI startups, according to venture capitalists and founders. As one of the industry's most active investors, Huang’s departure raises concerns regarding capital availability for high-cost sectors like neocloud providers, infrastructure companies, and open-weight model developers.</p><p>Interim CEO Colette Kress is expected to adopt a more conservative investment strategy, which may result in smaller checks and lower valuations. While some suggest that major tech competitors might attempt to fill the void, there is skepticism that they will replicate Nvidia's level of high-risk, large-scale funding for pre-revenue startups.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50498492">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/computer-security.png" width="28" align="texttop" /> &nbsp;Jane Street Systems Engineer Recounts Near-Loss of NYC Datacenter Due to False Smoke Alarm</h2>
-<a name="story-27236"><img src="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A Jane Street systems engineer describes a near-catastrophic incident at the firm's New York City datacenter in 1 New York Plaza. A false smoke alarm, triggered by dust from nearby construction, caused the cooling systems to shut down, risking a situation where rising temperatures would trigger heat-sensitive sprinklers and flood the server room.</p><p>To prevent equipment destruction, the engineer manually disconnected power to all servers before temperatures exceeded critical thresholds. The incident led the systems team to implement a more reliable temperature monitoring system written in OCaml that queries individual Linux servers to detect cooling failures.</p>
-<p>Nov 16 · <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50455394">hacker news</a></p>
 <br clear="all" />
 
 ---

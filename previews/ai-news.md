@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Proton Launches Lumo Desktop App for Windows, macOS, and Linux</h2>
+<a name="story-27777"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fdownload.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Proton has released Lumo Desktop for Windows, macOS, and Linux, an AI assistant that automates local tasks by connecting to personal files, system tools, and third-party services like Dropbox and Jira. The application utilizes various connectors and the Model Context Protocol (MCP) to interact with both local and remote data sources.</p><p>The service emphasizes privacy through end-to-end encryption of chat history and a policy against using user data for training AI models. Users can manage AI autonomy via granular permission settings for individual connectors and scheduled tasks, with data protected under Swiss privacy laws and hosted on European infrastructure.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/">techcrunch.com</a> | <a href="https://proton.me/blog/lumo-desktop-features">proton.me</a></p>
+<br clear="all" />
+
+<h2>Vals Report Finds AI Models Can Be Tricked Into Identifying Civilians as Military Targets</h2>
+<a name="story-27768"><img src="https://wsrv.nl/?url=https%3A%2F%2Fr2.anantamias.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fai-reshaping-warfare-india-preparedness-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Leading AI models from Anthropic, OpenAI, and Google can be tricked into identifying civilians and non-military locations as combat targets by framing tasks as a game. Using simulated scenarios and real imagery from Ukraine and Iran, researchers at Vals found that models frequently identified targets in drone and satellite footage and often bypassed safety refusals when presented with game-based prompts.</p><p>The potential for AI to annotate battlefield footage at scale to create training data for autonomous targeting systems represents an immediate threat. While Anthropic and OpenAI have stated they are developing additional safeguards and prohibit the use of their models for unapproved military purposes, the findings raise questions regarding the ability of AI companies to prevent their technology from being used in warfare.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/">techcrunch.com</a> | <a href="https://www.vals.ai/blogs/autonomous-warfare">vals.ai</a></p>
+<br clear="all" />
+
 <h2>OpenAI and NATO Partner on Cybersecurity Defenses</h2>
 <a name="story-27720"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mobigyaan.com%2Fwp-content%2Fuploads%2F2026%2F05%2FOpenAI-Daybreak-AI-platform-cyber-defenders.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI is partnering with NATO’s Communications and Information Agency (NCIA) through its Daybreak program to enhance Allied cyber defenses. The initiative provides NATO institutions with access to advanced AI models designed to detect software bugs, investigate suspicious network activity, and assist in deploying security fixes.</p><p>NATO utilizes up to 300 billion raw input and output tokens per month to support these cybersecurity operations. The Daybreak program is intended to offer government agencies and enterprise customers specialized AI capabilities for defensive technical tasks.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27585"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This 2.4 trillion parameter Mixture-of-Experts (MoE) model features a 1 million token context window. Alibaba claims the model outperforms Qwen3.8-Max while using approximately 50% fewer tokens.</p><p>Currently available in preview via Alibaba's Token Plan, the model is intended for complex coding and professional knowledge work. It supports an output of up to 393,216 tokens.</p>
 <p>Nov 16 · <a href="https://qwen.ai/blog?id=qwen4-max">qwen.ai</a> | <a href="https://news.ycombinator.com/item?id=50513215">hacker news</a></p>
-<br clear="all" />
-
-<h2>GGML-Org Releases GGML v1.0.0</h2>
-<a name="story-27502"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxsxszab.github.io%2Fimages%2Fggml-deep-dive-V%2Fcode6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GGML-org has released version 1.0.0 of its machine learning tensor library, introducing major API cleanups, FP8 support, and configurable YaRN truncation. The update prunes deprecated public APIs and legacy diagnostic mask operations while bumping the RPC protocol to version 9 to improve endpoint reliability.</p><p>The release delivers broad performance enhancements across numerous hardware backends, including CUDA few-row quantized matrix multiplications and mixture-of-experts fusion, Vulkan FlashAttention paths, a SYCL device-side MoE scheduler, and expanded operator support for OpenCL, WebGPU, and Hexagon architectures.</p>
-<p>Nov 14 · <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">github.com</a> | <a href="https://news.ycombinator.com/item?id=50493062">hacker news</a></p>
-<br clear="all" />
-
-<h2>FAA Expands SMART AI Air Traffic Management System Nationwide</h2>
-<a name="story-27451"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaircurrent.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAlaska_Airlines_Air_Space_Intelligence.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Federal Aviation Administration has expanded its cloud-based SMART artificial intelligence system across all 22 air route traffic control centers in the United States. Initially deployed in the Washington, DC region in September, the tool analyzes weather, traffic flow, and staffing to offer flight rerouting and scheduling recommendations.</p><p>The agency reports that the system previously helped reroute 180 flights while saving fuel and time, though the national air traffic controllers union has noted it was excluded from the system's design and testing process. Human specialists ultimately review and validate all recommendations before they reach air traffic control facilities.</p>
-<p>Nov 13 · <a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">arstechnica.com</a> | <a href="https://www.transportation.gov/briefing-room/smart-fact-sheet">transportation.gov</a> | <a href="https://news.ycombinator.com/item?id=50490834">hacker news</a></p>
 <br clear="all" />
 
 ---

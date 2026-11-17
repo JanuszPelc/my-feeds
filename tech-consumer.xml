@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-17T16:08:00+00:00</updated>
+  <updated>2026-11-17T17:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Grammy Video Game Soundtrack Nominations Reflect Preference for Instrumental Music Over Vocal Songs</title>
+    <link href="https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs" rel="alternate" />
+    <id>https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs::v240</id>
+    <published>2026-11-17T17:33:00+00:00</published>
+    <updated>2026-11-17T17:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi8.amplience.net%2Fi%2Fnaras%2FYour-vote-your-voice-first-round-voting.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs">gamedeveloper.com</a> | <a href="https://www.grammy.com/awards/categories/best-score-soundtrack-for-video-games-and-other-interactive-media/">grammy.com</a></small></p><hr/><p>The 2026 shortlist for Best Score Soundtrack for Video Games and Other Interactive Media includes *Avatar: Frontiers of Pandora – From the Ashes*, *007: First Light*, *Ghost of Yōtei*, *Marvel’s Wolverine*, and *Star Wars: Zero Company*. These entries are exclusively instrumental, as no soundtracks with prominent vocal songs were nominated.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi8.amplience.net%2Fi%2Fnaras%2FYour-vote-your-voice-first-round-voting.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 22:49 UTC | #27779</small>]]></content>
+  </entry>
   <entry>
     <title>Take-Two Lays Off Firaxis Employees Ahead of Grand Theft Auto VI Launch</title>
     <link href="https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch" rel="alternate" />

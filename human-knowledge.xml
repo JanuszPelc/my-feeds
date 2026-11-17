@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-17T16:33:00+00:00</updated>
+  <updated>2026-11-17T16:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Google Secures 50MW Geothermal Power from Quaise Energy</title>
+    <link href="https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?st=pFHTBt&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?st=pFHTBt&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-17T16:47:00+00:00</published>
+    <updated>2026-11-17T16:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.extremetech.com%2Fimagery%2Fcontent-types%2F02HQcnTp2ZRfurMHEjaAFP0%2Fhero-image.fit_lim.v1701191460.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?st=pFHTBt&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.quaise.com/news/quaise-energy-signs-50-mw-geothermal-power-purchase-agreement-with-google">quaise.com</a></small></p><hr/><p>Google has signed a power purchase agreement worth more than $500 million to secure 50 megawatts of geothermal power from startup Quaise Energy. The electricity, which is expected to begin delivery as early as 2030, is intended to support Google's data center operations in Oregon.</p><p>Quaise Energy utilizes gyrotron technology—high-power microwave beams—to drill approximately three miles beneath the Earth's surface to access superhot geothermal resources. The agreement involves Quaise's Project Obsidian, an initiative aimed at scaling this drilling method to provide consistent carbon-free energy.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.extremetech.com%2Fimagery%2Fcontent-types%2F02HQcnTp2ZRfurMHEjaAFP0%2Fhero-image.fit_lim.v1701191460.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 22:45 UTC | #27723</small>]]></content>
+  </entry>
   <entry>
     <title>Study Finds Global Lakes Increasingly Syncing in Ecological Conditions</title>
     <link href="https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/" rel="alternate" />
@@ -176,14 +185,5 @@
     <updated>2026-11-12T11:49:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F768934%2Foriginal%2Ffile-20261028-52-vw1274.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/how-uk-scientists-are-helping-the-mmx-space-mission-grab-the-best-sample-of-soil-from-mars-moon-phobos-295329">theconversation.com</a></small></p><hr/><p>The Japanese Martian Moons Exploration (MMX) mission aims to determine whether Mars' moon Phobos originated as a captured asteroid or from debris produced by a giant impact on Mars. UK scientists are conducting laboratory experiments using light-gas guns to simulate space impacts, assisting in the interpretation of soil samples the spacecraft will collect.</p><p>These simulations investigate how material from Mars or other asteroids might deposit on Phobos' surface. By modeling crater formation and material deposition across various impact velocities, researchers hope to identify exogenous material to help distinguish between competing origin theories.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F768934%2Foriginal%2Ffile-20261028-52-vw1274.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 17:04 UTC | #27272</small>]]></content>
-  </entry>
-  <entry>
-    <title>Radical Numerics Launches Omnii Defense to Identify Pathogens</title>
-    <link href="https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/" rel="alternate" />
-    <id>https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/::v240</id>
-    <published>2026-11-12T06:56:00+00:00</published>
-    <updated>2026-11-12T06:56:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHRtN0dGbsAEUJHV%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/">wired.com</a></small></p><hr/><p>Radical Numerics has released Omnii Defense, an edge-computing model designed to detect natural and AI-engineered pathogens. The system operates on a laptop with a USB gene sequencer and functions without an internet connection, enabling use in remote locations. The model assigns a "threat score" to genetic sequences based on predicted biological functions and the likelihood of unnatural modification.</p><p>Unlike traditional tools that rely on exact sequence matches, Omnii Defense uses AI to recognize functional patterns in DNA, RNA, and proteins, allowing it to identify threats even when genetic structures have been significantly altered. In testing, the model successfully flagged pathogenic signals even when the specific species and genus were removed from its training data. The company is currently working with government agencies and national laboratories to evaluate the tool.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHRtN0dGbsAEUJHV%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 13:59 UTC | #27244</small>]]></content>
   </entry>
 </feed>

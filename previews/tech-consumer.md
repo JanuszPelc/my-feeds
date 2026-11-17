@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grammy Video Game Soundtrack Nominations Reflect Preference for Instrumental Music Over Vocal Songs</h2>
+<a name="story-27779"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi8.amplience.net%2Fi%2Fnaras%2FYour-vote-your-voice-first-round-voting.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The 2026 shortlist for Best Score Soundtrack for Video Games and Other Interactive Media includes *Avatar: Frontiers of Pandora – From the Ashes*, *007: First Light*, *Ghost of Yōtei*, *Marvel’s Wolverine*, and *Star Wars: Zero Company*. These entries are exclusively instrumental, as no soundtracks with prominent vocal songs were nominated.</p>
+<p>Nov 17 · <a href="https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs">gamedeveloper.com</a> | <a href="https://www.grammy.com/awards/categories/best-score-soundtrack-for-video-games-and-other-interactive-media/">grammy.com</a></p>
+<br clear="all" />
+
 <h2>Take-Two Lays Off Firaxis Employees Ahead of Grand Theft Auto VI Launch</h2>
 <a name="story-27757"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltd7a51f4543729098%2F68b9b02ba65a196166536be0%2Fcivilization_vii.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Take-Two Interactive has laid off employees at Firaxis Games, the studio behind the Civilization and XCOM franchises, as part of a restructuring effort. A spokesperson for Take-Two subsidiary 2K confirmed the staff reductions, noting that studio head Heather Hazen is also stepping down.</p><p>The layoffs occur just before the release of Rockstar Games' Grand Theft Auto VI, another Take-Two title. According to the publisher, the downsizing is intended to refocus the studio on core strategy game development for its next operational chapter.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27551"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771506%2Foriginal%2Ffile-20261112-64-5swkta.jpeg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A new report from the Mapping the Digital Gap project reveals that nearly two-thirds of households in remote First Nations communities lack access to free-to-air television. This decline is driven by widespread equipment failures in the Viewer Access Satellite Television (VAST) network, high replacement costs for set-top boxes, and logistical hurdles in providing technical maintenance to remote areas.</p><p>The loss of reliable television access increases reliance on prepaid mobile data and potentially less dependable information sources, compounding existing affordability challenges. Although fixed broadband adoption and streaming services are growing, community-led initiatives and targeted regional trials have demonstrated success in restoring broadcast access where standard maintenance models fall short.</p>
 <p>Nov 15 · <a href="https://theconversation.com/nearly-two-thirds-of-remote-first-nations-households-lack-free-to-air-tv-access-296153">theconversation.com</a> | <a href="https://doi.org/10.60836/ggns-vm61">doi.org</a></p>
-<br clear="all" />
-
-<h2>Laura Hudson and Tim Leong Discuss New Comic Series Exploit</h2>
-<a name="story-27543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FExploit-1---Cover-A.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Writer Laura Hudson discusses Exploit, a new comic book series published by Mad Cave Studios that explores the high-stakes conflict between tech oligarchs and independent investigative journalism. Created alongside Tim Leong and illustrator Emiliana Pinna, the action thriller follows a print magazine intern targeted by a cyberlibertarian tech mogul after reporting on a high-profile assassination.</p><p>Drawing on Hudson and Leong’s backgrounds as former Wired editors and veteran tech-culture journalists, the series weaves real-world cybersecurity cases into a fictional narrative about the precarity of the press and the dangers of unchecked corporate power. Hudson highlights how the project reflects both deep-seated anger toward the tech founder class and an earnest appreciation for print media and analog dissent.</p>
-<p>Nov 15 · <a href="https://www.404media.co/this-comic-kills-technofascists/">404media.co</a> | <a href="https://madcavestudios.com/series/exploit/?srsltid=AYCX9vIlWnG--V24IwROzHWvCyzPii7e71bqiRFKsTc6YnZFRfIMaN61&ref=404media.co">madcavestudios.com</a></p>
 <br clear="all" />
 
 ---
