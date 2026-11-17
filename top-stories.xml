@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-17T07:52:00+00:00</updated>
+  <updated>2026-11-17T10:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Epoch AI Report Examines Huawei Horinger Data Center and China Compute Gap</title>
+    <link href="https://epochai.substack.com/p/what-huaweis-horinger-data-center" rel="alternate" />
+    <id>https://epochai.substack.com/p/what-huaweis-horinger-data-center::v240</id>
+    <published>2026-11-17T10:44:00+00:00</published>
+    <updated>2026-11-17T10:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21FwZk%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F61292989-e514-48bf-918b-6bc290ff15c0_1290x1344.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://epochai.substack.com/p/what-huaweis-horinger-data-center">epochai.substack.com</a></small></p><hr/><p>An analysis by Epoch AI of Huawei's Horinger data center campus in Inner Mongolia estimates that the facility houses approximately 113,000 operational Ascend AI chips, equating to roughly 81,000 H100-equivalents. Utilizing commercial satellite imagery and a cooling capacity model, researchers determined that four of the campus buildings are active, positioning it as one of the largest AI data centers in China.</p><p>Despite its regional scale, the Horinger facility possesses less than one-tenth the computing capacity of the world's largest AI data center, Colossus 2 in Tennessee, underscoring hardware performance and efficiency disparities caused by US export controls. While planned expansions are projected to increase Horinger's capacity by over 70% by early 2028, persistent compute constraints will likely continue to limit China's large-scale model training capabilities relative to the United States.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21FwZk%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F61292989-e514-48bf-918b-6bc290ff15c0_1290x1344.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 08:03 UTC | #27567 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Qtractor v1.7.0 and Vee One Suite v1.5.2 Released for Linux</title>
     <link href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-7-0-and-vee-one-suite-to-v1-5-2-for-linux-69826?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69826" rel="alternate" />
