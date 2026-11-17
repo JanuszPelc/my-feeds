@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Dennis "Coolio" Moran and the 2000 DDoS Attacks</title>
+    <link href="https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/" rel="alternate" />
+    <id>https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/::v240</id>
+    <published>2026-11-17T10:24:00+00:00</published>
+    <updated>2026-11-17T10:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-2-1.png%3Fresize%3D150&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend">lobsters</a></small></p><hr/><p>Michael Bacarella describes co-writing a BIND vulnerability exploit with Dennis "Coolio" Moran used to launch the February 2000 DDoS attacks on Yahoo!, eBay, and buy.com. The attacks targeted major dot-com infrastructure via a botnet built from vulnerable DNS servers.</p><p>The account details the EFNet #goonies IRC community and the legal fallout, noting that Moran served nine months in jail despite Mafiaboy receiving significant public notoriety. Moran's subsequent struggle with addiction and his 2013 death from a heroin overdose are also detailed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-2-1.png%3Fresize%3D150&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 15:53 UTC | #27751</small>]]></content>
+  </entry>
+  <entry>
     <title>w2rt6byl5nf1opmc-a.com Ranks Eighth in Majestic Million Despite Failing to Resolve</title>
     <link href="https://jack.cab/blog/siterate" rel="alternate" />
     <id>https://jack.cab/blog/siterate::v240</id>

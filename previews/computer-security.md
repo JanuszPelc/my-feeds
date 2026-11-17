@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Dennis &quot;Coolio&quot; Moran and the 2000 DDoS Attacks</h2>
+<a name="story-27751"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-2-1.png%3Fresize%3D150&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Michael Bacarella describes co-writing a BIND vulnerability exploit with Dennis "Coolio" Moran used to launch the February 2000 DDoS attacks on Yahoo!, eBay, and buy.com. The attacks targeted major dot-com infrastructure via a botnet built from vulnerable DNS servers.</p><p>The account details the EFNet #goonies IRC community and the legal fallout, noting that Moran served nine months in jail despite Mafiaboy receiving significant public notoriety. Moran's subsequent struggle with addiction and his 2013 death from a heroin overdose are also detailed.</p>
+<p>Nov 17 · <a href="https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend">lobsters</a></p>
+<br clear="all" />
+
 <h2>w2rt6byl5nf1opmc-a.com Ranks Eighth in Majestic Million Despite Failing to Resolve</h2>
 <p>The domain w2rt6byl5nf1opmc-a.com has appeared as the eighth most popular .com domain in the Majestic Million backlink index. Despite this high ranking, the domain does not resolve via DNS, and there is a significant discrepancy between the hundreds of millions of nofollow backlinks reported by Majestic and the minimal number of backlinks detected by other SEO tools.</p><p>The backlinks recorded by Majestic appear to have been generated before the domain was officially registered according to Certificate Transparency logs. This anomaly highlights potential inaccuracies in backlink metric aggregation or the existence of sophisticated link spam designed to manipulate SEO indices.</p>
 <p>Nov 17 · <a href="https://jack.cab/blog/siterate">jack.cab</a> | <a href="https://news.ycombinator.com/item?id=50517602">hacker news</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27582"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fgxcuf89792%2Fimages%2FbS01NzY1MjItMTEzNzgyaTRDQTQ5REQ5MDBCQTZENUM%3Frevision%3D2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fifteen guests at Phantasialand's Hotel Ling Bao in Brühl suffered respiratory irritation after a technical malfunction in an automatic dosing system pumped excessive chlorine into a swimming pool. The automated warning system's email notification failed to reach staff because of a widespread Microsoft Outlook service disruption.</p><p>Emergency responders and firefighters transported four individuals to the hospital, where one person remained under observation for a moderate injury, while 11 other guests were treated at the scene. Authorities temporarily closed the pool and replaced the water after testing confirmed the overchlorination caused by the faulty dosing equipment.</p>
 <p>Nov 15 · <a href="https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html">www1.wdr.de</a> | <a href="https://news.ycombinator.com/item?id=50509411">hacker news</a></p>
-<br clear="all" />
-
-<h2>Plakar Gains Minecraft Server Backup Integration</h2>
-<a name="story-27532"><img src="https://wsrv.nl/?url=https%3A%2F%2F1gbits.com%2Fcdn-cgi%2Fimage%2Fwidth%3D900%2Cquality%3D80%2Cformat%3Dauto%2Fhttps%3A%2F%2Fcdn.1gbits.com%2F1gbits%2F2026%2F05%2F16%2Fdark-4-column-comparison-of-minecraft-backup-methods-with-ea-ae9532.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The open-source backup tool Plakar has introduced a Minecraft server integration that automates consistent backups of live servers without requiring downtime. Created using an AI assistant, the connector communicates via RCON to temporarily pause world saves while allowing players to continue playing uninterrupted.</p><p>Operating as an extension of Plakar's filesystem connectors, the tool preserves entire server directories, including world files, configurations, and plugins. It also features an experimental implementation that encodes backup data directly into a custom-generated Minecraft terrain world where storage blocks can be physically walked across.</p>
-<p>Nov 15 · <a href="https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/">poolp.org</a> | <a href="https://lobste.rs/s/h6eofy/walking_across_my_minecraft_backups_with">lobsters</a></p>
 <br clear="all" />
 
 ---
