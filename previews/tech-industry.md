@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Details Data Center Expansion Plans Through Anthropic Direct Initiative</h2>
+<a name="story-27710"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.briefs.co%2Fwp-content%2Fuploads%2F2026%2F07%2Fanthropic-signs-20-year-data-center-lease-terawulf-stock-sur-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic has outlined extensive infrastructure expansion plans under an initiative called Anthropic Direct, committing more than $900 billion through 2045 to build and secure dedicated computing capacity. Regulatory filings show the company plans to lease approximately 875,000 Tensor Processing Units at an estimated cost of $7.2 billion per year to reduce its reliance on traditional cloud providers.</p><p>The large-scale commitments form part of the artificial intelligence company's broader financial and operational strategy detailed in its initial public offering documents. By establishing proprietary data center networks and securing multi-billion-dollar financing arrangements, Anthropic aims to support its escalating research and development workloads.</p>
+<p>Nov 17 · <a href="https://www.ft.com/content/559c13f1-0888-47e5-b6ce-523309a37193">ft.com</a> | <a href="https://www.anthropic.com/news/s1-sec">anthropic.com</a></p>
+<br clear="all" />
+
+<h2>Nvidia Director Nader Khalil Warns Board of Talent Loss Unless Jensen Huang is Reinstated</h2>
+<a name="story-27709"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F62ec2bc76a27db7b37a2b32f%2F027fdb04-d222-410b-812c-cf499a568ee5%2Fpeople-in-ai-jensen-huang.jpg%3Fformat%3D2500w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia Director of Developer Technology Nader Khalil sent a letter to the company's board of directors and senior executives warning that failing to reinstate Jensen Huang as chief executive could result in the loss of irreplaceable talent. The correspondence, which was also distributed to Huang's direct reports, escalates internal efforts to bring him back following his departure.</p><p>The push highlights growing internal anxiety regarding leadership stability and the retention of key technical personnel at the chipmaker. The board now faces intensified pressure from employees advocating for Huang's return as the company navigates ongoing strategic challenges.</p>
+<p>Nov 17 · <a href="https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?st=CMxakK&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Establishes National Security and Export Control Oversight Committee</h2>
 <a name="story-27734"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2024%2F10%2FGettyImages-2087335475.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia has established a board-level National Security and Export Control Oversight Committee to oversee global trade risks, export compliance, and national security policies. The move follows the abrupt resignation of CEO Jensen Huang amid heightened scrutiny over his connections to a suspected Chinese spy and export restrictions.</p><p>Chaired by director Suzanne Nora Johnson, the standing committee will direct Nvidia's internal national security and trade compliance teams under interim CEO Colette Kress. The announcement arrives alongside the company's third-quarter earnings report and precedes new U.S. Commerce Department regulations designed to restrict remote foreign access to advanced AI chips.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27658"><img src="https://wsrv.nl/?url=https%3A%2F%2Fenergyinnovation.org%2Fwp-content%2Fuploads%2FRelative-change-in-global-data-center-energy-use-drivers-1024x695.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Harvard study published in Nature Sustainability reports that 403 hyperscale data centers in the United States consumed as much electricity in a single year as the state of Michigan. The research finds that data center emissions are three times higher than they were before the AI boom and that most of the energy used is generated from fossil fuels.</p><p>Federal and state governments do not currently track data center electricity use separately from the rest of the power sector, as operators often classify specific usage as proprietary information. While the Energy Information Agency is designing a potential voluntary survey for the sector, the expansion of "behind-the-meter" onsite power generation remains a significant factor that may further impact total emissions and grid stability.</p>
 <p>Nov 16 · <a href="https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/">wired.com</a> | <a href="https://www.nature.com/articles/s41893-026-01985-7">nature.com</a> | <a href="https://news.ycombinator.com/item?id=50520697">hacker news</a></p>
-<br clear="all" />
-
-<h2>Insurance Companies Increase Exposure to AI Infrastructure Debt</h2>
-<a name="story-27645"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F11%2Fmultimedia%2F11biz-ai-insurance-02-cgtq%2F11biz-ai-insurance-02-cgtq-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Insurance companies are investing heavily in artificial intelligence-related debt to fund the purchase of specialized hardware, such as semiconductor chips. For example, Athene purchased $2.4 billion in debt used to finance equipment for xAI through a complex leasing arrangement.</p><p>U.S. life insurers held $85.2 billion in AI debt as of June 30, representing a 24 percent increase from six months prior, according to Moody's Ratings. Analysts warn that this exposure could reach $185 billion by the end of next year.</p>
-<p>Nov 16 · <a href="https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50520148">hacker news</a></p>
-<br clear="all" />
-
-<h2>Paradox Interactive Names Mattias Lilja as New CEO</h2>
-<a name="story-27662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.gamewatcherstatic.com%2Fimage%2Ffile%2F9%2Fb4%2F127689%2FMattias_copy3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mattias Lilja, the current deputy CEO, will become the CEO of Paradox Interactive in January 2027. He succeeds Fredrik Wester, who is retiring from the position.</p><p>Wester previously retired in 2018 before returning to the role following the departure of Ebba Ljungerud. Lilja and Wester have co-led the company leading up to this transition.</p>
-<p>Nov 16 · <a href="https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo">gamedeveloper.com</a> | <a href="https://www.paradoxinteractive.com/media/press-releases/paradox-interactive/mattias-lilja-takes-over-as-ceo-and-will-lead-paradox-interactive-ab-publ-to-its-next-level">paradoxinteractive.com</a></p>
 <br clear="all" />
 
 ---
