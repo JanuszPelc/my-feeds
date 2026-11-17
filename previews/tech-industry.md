@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>US Department of Justice to Review DoorDash&#x27;s Proposed Acquisition of Instacart</h2>
+<a name="story-27699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.nbcboston.com%2F2025%2F10%2Fimage-33-4.jpg%3Fquality%3D85%26strip%3Dall%26resize%3D1200%2C675&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DoorDash's proposed $17 billion acquisition of Instacart is set for review by the US Department of Justice, according to sources familiar with the matter. The company has reportedly agreed to pay a $1.25 billion breakup fee if the deal fails antitrust scrutiny.</p><p>The deal is intended to expand DoorDash's grocery delivery capabilities. It is expected to face regulatory examination concerning its potential effect on market competition and consumer pricing.</p>
+<p>Nov 17 · <a href="https://www.reuters.com/world/doordash-instacart-merger-be-reviewed-by-doj-sources-say-2026-11-16/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Australia&#x27;s Proposed Social Media Feed Reforms May Not Address Targeted Advertising</h2>
 <a name="story-27672"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhouseofdataimperiali.com%2Fwp-content%2Fuploads%2F2021%2F11%2FEDPB_08_2020_social_media-EN_Page-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Australia's proposed digital duty of care bill and the "My Feed, My Way" initiative aim to give users greater control over social media feeds by allowing them to opt out of algorithmically recommended content. However, these reforms do not explicitly address the targeted advertisements that continue to appear within those feeds.</p><p>While major platforms like Meta, Google, and TikTok provide tools to manage ad preferences, these settings often fail to prevent the collection of data from external websites via tracking technologies. Although Australian privacy law reforms are currently considering a "fair and reasonable" test for data handling and expanded opt-out rights for direct marketing, these measures have not yet been introduced to parliament.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang has held discussions regarding a potential comeback as Nvidia's chief executive. Supporters are reportedly organizing a "war room" to lobby the company's board for his reinstatement and are seeking support from the White House.</p><p>His resignation followed reports of extramarital affairs, including one with an alleged Chinese spy. The push for his return comes as the company and its allies attempt to manage the political and corporate fallout from the scandal.</p>
 <p>Nov 15 · <a href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b&syn-25a6b1a6=1">ft.com</a></p>
-<br clear="all" />
-
-<h2>Saturday Night Live Features Tech Tycoons in Sketch on Dating and Spycraft</h2>
-<p>Saturday Night Live aired a sketch featuring impressions of prominent technology executives, including Peter Thiel, Sam Altman, Dario Amodei, Elon Musk, Mark Zuckerberg, and Jensen Huang. Hosted by John Mulaney, the sketch portrayed a CIA agent instructing the tech leaders on how to avoid being targeted by romantic spies.</p><p>The segment leveraged recent industry events, including Jensen Huang's departure from Nvidia following an affair with a suspected spy, as well as recent technical disruptions involving Microsoft and flight groundings. The performance highlights the cultural shift of tech executives moving from relative obscurity to immense global wealth and power.</p>
-<p>Nov 15 · <a href="https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
