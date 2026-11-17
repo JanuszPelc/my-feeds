@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-17T09:01:00+00:00</updated>
+  <updated>2026-11-17T09:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Aerogramme Improves IMAP Implementation Correctness and Reliability</title>
+    <link href="https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/" rel="alternate" />
+    <id>https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/::v240</id>
+    <published>2026-11-17T09:03:00+00:00</published>
+    <updated>2026-11-17T09:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Faerogramme.deuxfleurs.fr%2Fdocumentation%2Finternals%2Faero-schema.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/">aerogramme.deuxfleurs.fr</a> | <a href="https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is">lobsters</a></small></p><hr/><p>The IMAP implementation in Aerogramme is being refined to improve the accuracy of fine-grained email retrieval and querying. By parsing emails into an Abstract Syntax Tree (AST) rather than treating them as simple files, the server can execute complex SEARCH and FETCH commands, effectively treating the mailbox as a database.</p><p>Development includes differential testing via `ImapTest` and property-based testing using the `eml-codec` library to address complex MIME encodings and edge cases. The architecture separates mailbox state, metadata, and email contents across Garage K2V and Garage S3 storage systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Faerogramme.deuxfleurs.fr%2Fdocumentation%2Finternals%2Faero-schema.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 15:30 UTC | #27748</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Compiler Team Enables Parallel Frontend by Default on Nightly</title>
     <link href="https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/" rel="alternate" />

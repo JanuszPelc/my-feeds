@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Bremmers Audio Design Updates MultitrackStudio for iPad to v5.4.2</h2>
+<a name="story-27711"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmultitrackstudio_ipad.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bremmers Audio Design has released version 5.4.2 of MultitrackStudio for iPad, introducing several updates focused on MIDI recording and file export workflows. The latest version adds a file type selector in the Export MIDI Tracks window to choose between standard MIDI files and MIDI 2.0 formats.</p><p>Additional improvements include better handling of overlapping notes during MIDI recording and the preservation of controllers, RPNs, and per-note controllers at track starts. The update also adds a new Sticks sound to the built-in drum instruments, updates pedal controller editors to be vertically flipped, and ensures that MIDI controllers for drawbars, filters, and resonance affect actively playing notes.</p>
+<p>Nov 17 · <a href="https://www.kvraudio.com/news/bremmers-audio-design-updates-multitrackstudio-for-ipad-to-v5-4-2-69887?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69887">kvraudio.com</a> | <a href="https://www.multitrackstudio.com/ipad.php">multitrackstudio.com</a></p>
+<br clear="all" />
+
 <h2>Ocean Swift Releases Free DevOcean Player with Instruments and Effects</h2>
 <a name="story-27712"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-card-1---devocean-player-3840x2160.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ocean Swift has launched the DevOcean Player, a free software instrument and effect player for its DevOcean Modular platform. Available in standalone, VST3, and AU formats, the release ships with more than sixty built-in instruments and effects spanning synthesizers, keys, drums, and processors, along with a dedicated DevOcean Player FX plugin for processing individual tracks.</p><p>The platform includes over two thousand NKS-compatible presets with audio previews and supports up to 64 assignable macros per module for DAW automation and hardware control. Alongside the core software, Ocean Swift is offering six additional free modules on its website and discounting its premium instruments by 40% during a launch window, including a bundled Founders Collection containing fifteen modules.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27631"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdTWjLwfWBc4%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tone Empire is offering its OptoRED optical compressor plugin for free using the coupon code optobf26. The software, which normally retails for $79, is compatible with macOS and Windows and supports VST3, AU, and AAX formats.</p><p>The plugin models a classic American optical compressor designed for transparent processing on vocals, bass, drums, and other instruments. Features include a redesigned interface, sidechain high-pass filtering, a Wet/Dry control for parallel compression, and 101 factory presets.</p>
 <p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/tone-empire-optored-black-friday/">bedroomproducersblog.com</a> | <a href="https://tone-empire.com/shop/optored/">tone-empire.com</a></p>
-<br clear="all" />
-
-<h2>Audiomodern Releases Free Filterstep 2 Plugin</h2>
-<a name="story-27624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffl-raw-002.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audiomodern has released Filterstep 2, an updated version of its free creative motion filter plugin designed for Windows, macOS, and iOS. The software introduces new sequencing modes, pattern generation algorithms, and custom filter shapes to transform audio loops into rhythmic pulses and stereo movements.</p><p>The update incorporates five new effect engines—Density, Drive, Crush, Comb, and Lo-Fi—which can be positioned before or after the filter and linked directly to individual steps. Filterstep 2 is available as a free download in AAX, AU, and VST3 formats for desktop systems, with an iOS release scheduled for the App Store.</p>
-<p>Nov 16 · <a href="https://www.kvraudio.com/news/audiomodern-releases-free-filterstep-2-with-new-sequencing-modes-and-creative-effects-69851?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69851">kvraudio.com</a> | <a href="https://audiomodern.com/shop/plugins/filterstep/">audiomodern.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Aerogramme Improves IMAP Implementation Correctness and Reliability</h2>
+<a name="story-27748"><img src="https://wsrv.nl/?url=https%3A%2F%2Faerogramme.deuxfleurs.fr%2Fdocumentation%2Finternals%2Faero-schema.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The IMAP implementation in Aerogramme is being refined to improve the accuracy of fine-grained email retrieval and querying. By parsing emails into an Abstract Syntax Tree (AST) rather than treating them as simple files, the server can execute complex SEARCH and FETCH commands, effectively treating the mailbox as a database.</p><p>Development includes differential testing via `ImapTest` and property-based testing using the `eml-codec` library to address complex MIME encodings and edge cases. The architecture separates mailbox state, metadata, and email contents across Garage K2V and Garage S3 storage systems.</p>
+<p>Nov 17 · <a href="https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/">aerogramme.deuxfleurs.fr</a> | <a href="https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is">lobsters</a></p>
+<br clear="all" />
+
 <h2>Rust Compiler Team Enables Parallel Frontend by Default on Nightly</h2>
 <a name="story-27741"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.rust-lang.org%2F2026%2F11%2F16%2Fenabling-parallel-frontend-on-nightly%2Fnalgebra-0.33.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Rust Compiler Team has enabled the parallel frontend of the rustc compiler by default on the nightly channel, starting with the nightly-2026-11-14 toolchain, using two threads initially. This change aims to surface remaining bugs and integration issues in preparation for the feature's eventual stabilization.</p><p>While the compiler's backend has supported multi-threading via LLVM for years, the frontend previously executed sequentially. Benchmarks indicate that utilizing up to eight threads can significantly reduce single-crate compilation times—by up to 44% for tasks like cargo check—though end-to-end crate graph compilation and incremental rebuild gains are more modest. Users can adjust the thread count or opt out via compiler flags while developers work to resolve known limitations regarding diagnostic ordering and build reproducibility.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27544"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gyptazy.com%2Fimg%2Ffreebsd-bhyve-live-migration.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A new work-in-progress request for comments outlines the first working implementation of live virtual machine migration for bhyve on FreeBSD 15.1. Developed to support clustered platforms like Sylve and BoxyBSD, the system enables running amd64 guests to move between hosts over TCP with minimal downtime during a final stop-and-copy phase.</p><p>The implementation combines bhyve's experimental snapshot support with new dirty-page tracking in the vmm kernel module and a migration protocol managed via bhyvectl. While initial testing on single-vCPU guests demonstrates successful memory and disk-write validation, several engineering hurdles—including transport security, compatibility contracts, and concurrency hardening—must be resolved before upstreaming can proceed.</p>
 <p>Nov 15 · <a href="https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/">gyptazy.com</a> | <a href="https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50488835">hacker news</a></p>
-<br clear="all" />
-
-<h2>NetBSD Disk Encryption Guide for Data Secrecy</h2>
-<a name="story-27542"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnetbsd.org%2F~nia%2Fdisk-encrypt%2Finstaller1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>This guide outlines a practical approach to disk encryption on NetBSD to safeguard sensitive user data against theft or loss. By maintaining a small, unencrypted root partition for standard system binaries, users can isolate and encrypt critical directories containing user files, logs, and third-party software.</p><p>The setup process utilizes NetBSD's cryptographic device driver, cgd, alongside either traditional disklabels or modern disk wedges depending on the hardware architecture. The walkthrough covers generating encryption parameters, establishing password verification methods, creating secure sub-partitions, and migrating essential directories to the encrypted file system.</p>
-<p>Nov 15 · <a href="https://netbsd.org/~nia/disk-encrypt/">netbsd.org</a> | <a href="https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50504277">hacker news</a></p>
 <br clear="all" />
 
 ---
