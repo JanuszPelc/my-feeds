@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>JD.com Reports Third-Quarter Revenue and Net Income Growth</h2>
+<a name="story-27713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20251114%2Fjdq3-1-18f977ed6bb4446ab97038a29ce8a1d5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>JD.com reported third-quarter revenue of approximately $46.4 billion, marking a 3.5% increase year-over-year that met analyst expectations. Net income for the quarter rose 22% to approximately $975 million, reflecting resilient performance despite an intensely competitive retail market and a sluggish domestic economy.</p><p>The financial results highlight the company's ability to maintain stable growth amid broader macroeconomic headwinds in China. The company's primary retail segment contributed steady operating income as management navigated shifting consumer spending patterns and aggressive pricing pressures.</p>
+<p>Nov 17 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/jd-com-sales-rise-in-face-of-sluggish-china-economy-competition">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/17/3404344/0/en/jd-com-announces-third-quarter-2026-results.html">globenewswire.com</a></p>
+<br clear="all" />
+
 <h2>Voyage Labs Raises $12 Million in Seed Funding for Atlas AI Travel Assistant</h2>
 <a name="story-27752"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffreemiumai.net%2Fwp-content%2Fuploads%2F2025%2F01%2FAtlas_-_Your_AI_travel_assistant_-_2025-01-27_20.53.13-600x540.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Startup Voyage Labs has secured $12 million in seed funding led by Kleiner Perkins, with participation from SignalFire and SV Angel. The company is developing Atlas, a specialized AI-powered travel assistant designed to manage entire trip-planning lifecycles, from initial inspiration and long-term research to real-time price tracking and booking.</p><p>Co-founded by former Google Maps product management director Manik Gupta and CTO Yogesh Jain, Atlas aims to differentiate itself from general-purpose AI assistants by focusing specifically on travel and outdoor activities. The newly acquired capital will be used to expand the engineering team and build out supplier partnerships as the product enters private beta.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27587"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F004%2F540%2F198%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kindo has secured $30 million in a funding round co-led by Crosspoint Capital and Forgepoint Capital, bringing its total capital to $57.6 million. The company reported approximately 800% year-on-year revenue growth in 2026.</p><p>The investment will fund go-to-market expansion and the development of Kindo's AI Control Center and Deep Hat tools. The platform provides enterprises with centralized visibility, auditing, and cost management for autonomous AI agents.</p>
 <p>Nov 16 · <a href="https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/">techfundingnews.com</a></p>
-<br clear="all" />
-
-<h2>Mount Thor Raises $45 Million to Build Mac Data Centers for AI Agents</h2>
-<a name="story-27581"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2026%2F11%2FAI-Apple-2.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mount Thor has raised $45 million across seed and Series A funding rounds to build data-center-scale cloud infrastructure running macOS on Apple silicon. The Bay Area startup aims to provide elastic compute instances and inference labs specifically targeted at autonomous AI agents.</p><p>Co-led by CRV and Conviction, the financing will help the company expand its compute footprint and build out inference infrastructure optimized for open-source models using hardware like the M5 Ultra Mac Studio. Mount Thor offers both managed bare-metal and virtual machine options, as well as customer-managed deployments, targeting workloads such as reinforcement learning environments and multi-device agent workflows.</p>
-<p>Nov 16 · <a href="https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/">9to5mac.com</a> | <a href="https://www.mountthor.com/">mountthor.com</a></p>
 <br clear="all" />
 
 ---

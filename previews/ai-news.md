@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Carnegie Mellon University Launches CS Learn Platform</h2>
+<a name="story-27805"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.qatar.cmu.edu%2Fwp-content%2Fuploads%2F2025%2F09%2F20250928-AI-and-CS-SQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Carnegie Mellon University has launched CS Learn, a platform providing free access to computer science lectures from its faculty. Current offerings on YouTube include courses on machine learning, principles of computing, software construction, and AI agents.</p><p>The platform will expand to include self-paced courseware with instant feedback, digital badges, and AI tutoring. Additional subject areas, such as probability and multimodal machine learning, are scheduled for release in January 2027.</p>
+<p>Nov 17 · <a href="https://www.cs.cmu.edu/learn/">cs.cmu.edu</a> | <a href="https://news.ycombinator.com/item?id=50522980">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic Reports Claude Mythos Autonomous Kernel Writing Cuts AMD GPU Onboarding Time</h2>
 <a name="story-27695"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.apiyi.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fclaude-mythos-preview-anthropic-cybersecurity-model-introduction-en-image-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic disclosed to IPO investors that its Claude Mythos Preview model autonomously wrote nearly 100% of the low-level code required to run its AI on AMD graphics processors. The process reportedly reduced software onboarding time from up to twelve months with a team of engineers to approximately three days with minimal human intervention.</p><p>The capability highlights Anthropic's multi-chip compute architecture, which distributes workloads across Nvidia GPUs, AMD GPUs, Google TPUs, and AWS Trainium. By automating kernel development, the tool could potentially lower the barrier to adopting non-Nvidia hardware and challenge Nvidia's entrenched CUDA software ecosystem.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27422"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQG9_QazbXcQQg%2Farticle-cover_image-shrink_720_1280%2FB4DZrAW9_kGgAI-%2F0%2F1764163839068%3Fe%3D2147483647%26v%3Dbeta%26t%3DRRvMycD-uYFNnlXfP7r15FjoreQcQGRVNNGs-57Up0M&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has introduced a new ChatGPT Wallet feature that enables its AI agents, known as dots, to select and complete purchases on behalf of users. Initially rolling out to a limited group of U.S. ChatGPT Pro subscribers, the tool allows users to store major credit cards in a digital wallet, review agent-recommended items, and authorize transactions using biometric security like Face ID or fingerprints.</p><p>The feature utilizes payment tokens to shield sensitive financial details from merchants while ensuring users retain credit card rewards and standard purchase protections. OpenAI is launching the capability as consumer AI platforms increasingly experiment with agentic commerce, though widespread adoption faces hurdles as several major retailers block AI shopping bots from their websites.</p>
 <p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/">techcrunch.com</a> | <a href="https://openai.com/index/introducing-chatgpt-wallet/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50484640">hacker news</a></p>
-<br clear="all" />
-
-<h2>ElevenLabs Releases ElevenAI Meeting Note-Taking and Dictation App for Teams</h2>
-<a name="story-27415"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-13-at-7.19.18-PM.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Voice AI company ElevenLabs has released an experimental preview app called ElevenAI designed for team environments. The application combines meeting transcription, multi-language dictation, and agent integration into a single platform.</p><p>Announced during the company's 11/11 Summit in New York, ElevenAI features real-time meeting notes, queryable conversation history, and automated follow-up actions via ElevenLabs agents. The tool supports dictation across more than 90 languages and is positioned as a team-wide solution to help enterprises centralize meeting knowledge and reduce separate productivity subscriptions.</p>
-<p>Nov 13 · <a href="https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-17T06:59:00+00:00</updated>
+  <updated>2026-11-17T16:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Carnegie Mellon University Launches CS Learn Platform</title>
+    <link href="https://www.cs.cmu.edu/learn/" rel="alternate" />
+    <id>https://www.cs.cmu.edu/learn/::v240</id>
+    <published>2026-11-17T16:13:00+00:00</published>
+    <updated>2026-11-17T16:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.qatar.cmu.edu%2Fwp-content%2Fuploads%2F2025%2F09%2F20250928-AI-and-CS-SQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cs.cmu.edu/learn/">cs.cmu.edu</a> | <a href="https://news.ycombinator.com/item?id=50522980">hacker news</a></small></p><hr/><p>Carnegie Mellon University has launched CS Learn, a platform providing free access to computer science lectures from its faculty. Current offerings on YouTube include courses on machine learning, principles of computing, software construction, and AI agents.</p><p>The platform will expand to include self-paced courseware with instant feedback, digital badges, and AI tutoring. Additional subject areas, such as probability and multimodal machine learning, are scheduled for release in January 2027.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.qatar.cmu.edu%2Fwp-content%2Fuploads%2F2025%2F09%2F20250928-AI-and-CS-SQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 21:24 UTC | #27805</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Reports Claude Mythos Autonomous Kernel Writing Cuts AMD GPU Onboarding Time</title>
     <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat" rel="alternate" />
@@ -176,14 +185,5 @@
     <updated>2026-11-12T22:23:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdeadlyfacts.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMeta-Introduces-Paid-AI-Subscriptions-768x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/">techcrunch.com</a> | <a href="https://x.com/alexandr_wang/status/2120930586827391350">x.com</a></small></p><hr/><p>Meta’s Muse AI can now place phone calls to U.S. businesses on behalf of users, a feature limited to paid subscribers. Subscription tiers include a $20 monthly plan and a $100 monthly plan.</p><p>The feature aims to automate routine tasks such as restaurant reservations and contacting utility companies. While competitors like Google’s Gemini offer similar tools, the success of the feature depends on whether business recipients accept calls from AI agents.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeadlyfacts.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMeta-Introduces-Paid-AI-Subscriptions-768x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 03:32 UTC | #27351</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Antigravity Introduces Gemini 4 Hydrogen and Orchestrator</title>
-    <link href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/" rel="alternate" />
-    <id>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/::v240</id>
-    <published>2026-11-12T20:51:00+00:00</published>
-    <updated>2026-11-12T20:51:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdist.neo4j.com%2Fwp-content%2Fuploads%2F20260415090718%2F1P_nU3k5L0-_ZqI7yYhjtVw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">antigravity.google</a> | <a href="https://news.ycombinator.com/item?id=50472260">hacker news</a></small></p><hr/><p>Google Antigravity has released Gemini 4 Hydrogen and a new Orchestrator model option. Orchestrator uses a dynamic, bidirectional approach that switches between Gemini 4 Carbon for complex reasoning and planning and Gemini 4 Hydrogen for executing code edits and testing.</p><p>On the Terminal-Bench 4.1 benchmark, the Orchestrator feature reached near-Carbon task success rates while consuming 24% less quota and completing tasks 19% faster. Hydrogen is available as a standalone model with four adjustable reasoning levels and is rolling out to Google AI Pro, Ultra, and enterprise users.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdist.neo4j.com%2Fwp-content%2Fuploads%2F20260415090718%2F1P_nU3k5L0-_ZqI7yYhjtVw.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 02:38 UTC | #27334</small>]]></content>
   </entry>
 </feed>

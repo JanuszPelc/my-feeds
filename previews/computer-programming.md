@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>BugMeNot Credential-Sharing Service Closes</h2>
+<a name="story-27806"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.appuals.com%2Fwp-content%2Fuploads%2F2016%2F02%2F2016-02-21_074752-1024x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Credential-sharing and login-bypass service BugMeNot has shut down after operating for more than two decades. The website replaced its directory of shared accounts with a brief farewell message thanking users who envisioned a better internet, accompanied by an unexplained block of encoded characters.</p><p>Launched in 2003, BugMeNot allowed users to bypass mandatory registration walls on websites by providing crowdsourced login credentials. Its closure marks the end of an era for early web accessibility tools as modern security measures, including multi-factor authentication, have rendered traditional account-sharing increasingly obsolete.</p>
+<p>Nov 17 · <a href="https://www.bugmenot.com/">bugmenot.com</a> | <a href="https://news.ycombinator.com/item?id=50523601">hacker news</a></p>
+<br clear="all" />
+
 <h2>How the Rust Programming Language Shapes Developer Thinking</h2>
 <a name="story-27776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thoughtworks.com%2Fcontent%2Fdam%2Fthoughtworks%2Fimages%2Fphotography%2Finline-image%2Finsights%2Fblog%2Fprogramming-languages%2Fblg_inline_rust_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This essay examines how the Rust programming language influences software development mental models. The author discusses how Rust's specific features, such as sum types and the ownership model, require a shift in how developers approach architecture and problem-solving.</p><p>Key highlights include the efficiency of using enums for abstraction over dynamic dispatch and the ability of macros to perform compile-time tasks similar to runtime reflection. The author concludes that Rust's strictness regarding data mutation and ownership promotes more decoupled and maintainable codebases.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-alpha.figma.com%2Fhub%2Ffile%2F2986295081%2F4dd6ac0d-6e5b-463b-8400-df2ace84dc09-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Roma Komarov analyzes a recent CSS Working Group resolution to adopt rules assigning a pointer cursor to interactive elements like buttons and form controls under a base appearance. He supports this direction, arguing that interactive elements should clearly communicate their state rather than defaulting to standard pointing arrows.</p><p>Reflecting on his decade-long advocacy for consistent cursor behavior, Komarov addresses counterarguments about traditional operating system design by noting that modern desktop applications frequently use pointer cursors for interactive items. He concludes that the web ecosystem would benefit from a broader and more communicative range of cursor states.</p>
 <p>Nov 15 · <a href="https://blog.kizu.dev/cursors/">blog.kizu.dev</a> | <a href="https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons">lobsters</a></p>
-<br clear="all" />
-
-<h2>Exploration of Anthropomorphic Software and Personified Error Messages</h2>
-<a name="story-27545"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fanthropomorphic-software-lock-struggles-tangled-wires-presented-as-anthropomorphic-software-lock-struggles-tangled-396688394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Software and command-line tools occasionally feature personified or first-person copy, a stylistic choice known as anthropomorphic software. Examples range from Git error messages and changelogs that speak in the first person to the Elm programming language's detailed conversational compiler errors and sudo's optional insult feature.</p><p>While mostly deployed for whimsy rather than functional user experience improvements, such playful phrasing contrasts with strict interface guidelines like Apple's, which advise against casual exclamation or personification in errors. Although large language models represent a more advanced iteration of conversational interaction, traditional utilities demonstrate a long-standing history of programmed personality.</p>
-<p>Nov 15 · <a href="https://aspiz.uk/wiki/AnthropomorphicSoftware">aspiz.uk</a> | <a href="https://lobste.rs/s/ofic7z/anthropomorphic_software">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50511485">hacker news</a></p>
 <br clear="all" />
 
 ---
