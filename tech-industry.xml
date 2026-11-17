@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-17T10:26:00+00:00</updated>
+  <updated>2026-11-17T13:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Model Republic Investigation Details Right-Wing Influencer Campaigns Promoting Nvidia Chip Sales to China</title>
+    <link href="https://www.modelrepublic.org/articles/nvidia-urban-legend-influencer-campaigns" rel="alternate" />
+    <id>https://www.modelrepublic.org/articles/nvidia-urban-legend-influencer-campaigns::v240</id>
+    <published>2026-11-17T13:37:00+00:00</published>
+    <updated>2026-11-17T13:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FCc2gUvOXA3M3OXt2N1doi5pkaRs.png%3Fwidth%3D2048%26height%3D922&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.modelrepublic.org/articles/nvidia-urban-legend-influencer-campaigns">modelrepublic.org</a></small></p><hr/><p>An investigation by Model Republic reveals that over 80 right-wing influencers across social media platforms were likely paid through the marketing firm Urban Legend to promote pro-AI industry articles, including defenses of Nvidia chip sales to China and attacks on AI regulations. The coordinated campaigns utilized tracking redirects via intermediate domains such as mycreator.studio to monitor creator performance and manage payouts.</p><p>The operation involved placing sponsored content across outlets like Trending Politics, Lyceum, and Upward News, with certain campaigns tied to dark-money groups including Build American AI. Although Urban Legend declined to comment, the findings demonstrate how networked influencer marketing is deployed to shape public policy debates regarding artificial intelligence and semiconductor exports.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FCc2gUvOXA3M3OXt2N1doi5pkaRs.png%3Fwidth%3D2048%26height%3D922&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 19:05 UTC | #27705</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Announces Rubin HPC GPU With Over 50,000 CUDA Cores</title>
     <link href="https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028" rel="alternate" />

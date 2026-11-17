@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Spotify Launches Artist Profile Protection to Manage Music Attribution</h2>
+<a name="story-27735"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHero-asset.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Spotify is rolling out its "Artist Profile Protection" tool to all artists, allowing them to control the music appearing under their names. The feature enables artists to receive alerts for new music submissions and remove their association from tracks caused by metadata errors, impersonation, or AI-generated content. An optional advanced setting also allows artists to manually approve or reject releases before they are published on their profiles.</p><p>The rollout follows an eight-month beta testing period and addresses the increasing volume of AI-generated content on streaming platforms. The release comes as the music industry faces growing challenges with deepfake music, including recent requests from Sony Music to remove hundreds of thousands of AI-generated tracks from digital services.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/">techcrunch.com</a> | <a href="https://support.spotify.com/us/artists/article/artist-profile-protection/">support.spotify.com</a></p>
+<br clear="all" />
+
+<h2>Modern Music Solutions Releases REIGN Channel Strip Plugin</h2>
+<a name="story-27770"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.particlenews.com%2Fimg%2Fid%2F4JParV_1GwOiE2k00&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Modern Music Solutions has released REIGN, a channel strip plugin that integrates compression, gating, EQ, transient shaping, saturation, and clipping. The interface combines these processing stages to allow users to perform multiple mixing tasks within a single plugin.</p><p>REIGN includes two compressor modes, frequency-selective transient and saturation modules, and a clipper with adjustable shaping. The plugin supports VST3, AU, and AAX formats on Windows and macOS and comes with 175 presets for various instrument types.</p>
+<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/modern-music-solutions-reign/">bedroomproducersblog.com</a> | <a href="https://modernmusicsolutions.com/products/reign">modernmusicsolutions.com</a></p>
+<br clear="all" />
+
 <h2>HoRNet TrackUtility Plugin Available for Free Until November 19</h2>
 <a name="story-27771"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNIF-eEMy_5w%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HoRNet is offering its TrackUtility audio plugin for free until November 19, 2026, using the promotional code TRACKFREE at checkout. Normally priced at €9.90, the utility combines multiple mixing functions such as gain staging, stereo control, and metering into a single interface.</p><p>The plugin supports Windows and macOS in AU, VST, and AAX formats with native Apple Silicon compatibility. It provides automatic peak and RMS gain adjustments, DC offset removal, phase inversion, pan and width controls, and an output limiter, operating without copy protection or license keys.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuzat-free-cover-1920x1080.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audiolatry has released UZAT, a free character and degradation effect plugin for Windows and macOS. The plugin utilizes five processing stages—Drift, Wear, Crush, Dust, and Space—to add movement, texture, and controlled damage to audio signals.</p><p>Users can manage effect intensity via a central Character control and a global wet/dry mix. The software includes 32 factory presets, a resizable interface, and native support for both Intel and Apple Silicon on macOS.</p>
 <p>Nov 16 · <a href="https://www.kvraudio.com/news/audiolatry-releases-uzat---free-character-and-degradation-effect-plugin-au-and-vst3-69858?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69858">kvraudio.com</a> | <a href="https://audiolatry.com/uzat-free-character-degradation-effect-plugin/">audiolatry.com</a></p>
-<br clear="all" />
-
-<h2>Suno Releases Suno Bridge Beta for Ableton Live 12</h2>
-<a name="story-27642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSuno-Bridge-over-DAW.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Suno has launched a beta version of Suno Bridge, a companion app designed to integrate AI-generated music creations directly into digital audio workstations. The initial release runs alongside Ableton Live 12 on Mac, allowing users to drag and drop AI-generated tracks straight into their project timelines.</p><p>By analyzing uploaded session files, Suno Bridge matches new AI creations—such as vocals, instruments, and samples—to an existing project's tempo, key, style, and VST plugins. Suno plans to expand compatibility to additional platforms and digital audio workstations in future updates.</p>
-<p>Nov 16 · <a href="https://musictech.com/news/music/suno-ai-bridge/">musictech.com</a> | <a href="https://suno.com/bridge">suno.com</a></p>
-<br clear="all" />
-
-<h2>GullDSP Releases Phathom Free Bass Preamp and Distortion Plugin</h2>
-<a name="story-27651"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUQvU4KyTJA%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GullDSP has released Phathom, a free and open-source bass guitar preamp and distortion plugin for Windows. Designed for modern fuzzy, growling, and clanky tones, the virtual pedal operates without any AI-generated code and features two distinct distortion styles alongside pre-distortion filtering and dry signal blending.</p><p>The plugin includes a fuzzy transformer-style saturation option and a clanky mode inspired by CMOS-based inverter chip pedals. It features automatic oversampling up to 4x, zero added latency, and is distributed under the MIT license as a 64-bit VST3 plugin directly through GitHub.</p>
-<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/">bedroomproducersblog.com</a> | <a href="https://github.com/gulldsp/phathom-vst/">github.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-17T11:56:00+00:00</updated>
+  <updated>2026-11-17T13:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Strict Liability Examined as Legal Standard for Artificial Intelligence Regulation</title>
+    <link href="https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390" rel="alternate" />
+    <id>https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390::v240</id>
+    <published>2026-11-17T13:44:00+00:00</published>
+    <updated>2026-11-17T13:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwcr.legal%2Fwp-content%2Fuploads%2F2026%2F05%2FEU-AI-LIABILITY-WHAT-RULES-APPLY-NOW.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390">theconversation.com</a></small></p><hr/><p>Business law professor Deven Desai argues that applying strict liability and strict product liability principles can help hold artificial intelligence companies accountable for harms caused by their software. As lawsuits against developers and social media platforms mount, shifting legal responsibility away from users and onto creators can provide a vital deterrent and ensure proper compensation for victims.</p><p>The analysis explores two main tort law doctrines: treating advanced AI systems as abnormally dangerous activities similar to handling explosives, and holding companies liable for design defects such as a lack of safety guardrails in chatbots. Although the continuous evolution and deep integration of AI into daily technology pose unique legal hurdles, advocates contend that strict rules are necessary to shift the risks of emerging technologies from the public to the companies profiting from them.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwcr.legal%2Fwp-content%2Fuploads%2F2026%2F05%2FEU-AI-LIABILITY-WHAT-RULES-APPLY-NOW.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 19:06 UTC | #27738</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Firms Use US AI Models to Train Domestic Rivals via Distillation</title>
     <link href="https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/" rel="alternate" />

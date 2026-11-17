@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Model Republic Investigation Details Right-Wing Influencer Campaigns Promoting Nvidia Chip Sales to China</h2>
+<a name="story-27705"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FCc2gUvOXA3M3OXt2N1doi5pkaRs.png%3Fwidth%3D2048%26height%3D922&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An investigation by Model Republic reveals that over 80 right-wing influencers across social media platforms were likely paid through the marketing firm Urban Legend to promote pro-AI industry articles, including defenses of Nvidia chip sales to China and attacks on AI regulations. The coordinated campaigns utilized tracking redirects via intermediate domains such as mycreator.studio to monitor creator performance and manage payouts.</p><p>The operation involved placing sponsored content across outlets like Trending Politics, Lyceum, and Upward News, with certain campaigns tied to dark-money groups including Build American AI. Although Urban Legend declined to comment, the findings demonstrate how networked influencer marketing is deployed to shape public policy debates regarding artificial intelligence and semiconductor exports.</p>
+<p>Nov 17 · <a href="https://www.modelrepublic.org/articles/nvidia-urban-legend-influencer-campaigns">modelrepublic.org</a></p>
+<br clear="all" />
+
 <h2>Nvidia Announces Rubin HPC GPU With Over 50,000 CUDA Cores</h2>
 <a name="story-27691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2026%2F07%2Frubin-gpu-moe-descriptor-sharing-1-1024x353.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia announced its Rubin HPC GPU at the Supercomputing 2026 conference, featuring a record-breaking count of more than 50,000 CUDA cores. Slated for release in 2028, the new chip is part of the Vera Rubin platform and targets advanced high-performance computing environments.</p><p>The processor is specifically designed to accelerate agentic workflows and simulations for scientific, engineering, and analytical data sets. The architecture is expected to utilize a multi-die configuration linked via NVLink-C2C to achieve its high core density and processing capability.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27600"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2026%2F11%2FInternational-Festival-of-Youth_20261113-181238.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>State-funded tours of Russian-occupied Ukrainian territories, such as Donetsk Oblast and Mariupol, are being used to present a sanitized image of life under Russian rule to international visitors. Participants from Africa, Asia, Latin America, and Europe visit sites like the rebuilt Mariupol Drama Theater and shooting ranges, often omitting the reality of wartime devastation and Russian repression from their social media accounts.</p><p>Experts suggest the initiative aims to use these influencers as unwitting amplifiers of Russian propaganda to bypass international information blockades and normalize the occupation. The festival's organizers, including the state-run Rosmolodezh, provide travel and accommodation to participants and encourage them to create social media content that presents the occupied territories as thriving and peaceful.</p>
 <p>Nov 16 · <a href="https://kyivindependent.com/the-foreign-influencers-helping-russia-sell-its-occupation/">kyivindependent.com</a></p>
-<br clear="all" />
-
-<h2>SK Hynix and South Korean Government Plan $654 Million Chip Testing Facility</h2>
-<p>SK Hynix and the South Korean government are partnering to construct Trinity Fab, a $654 million chip testing facility designed to allow smaller suppliers to test products on 12-inch wafers.</p><p>The initiative aims to strengthen the domestic semiconductor ecosystem by providing smaller local players with access to advanced testing infrastructure that is often cost-prohibitive. The facility is expected to enhance South Korea's overall competitiveness in the global chip manufacturing sector.</p>
-<p>Nov 16 · <a href="https://www.bloomberg.com/news/articles/2026-11-16/sk-hynix-plans-chip-testing-hub-to-boost-smaller-korean-players">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
