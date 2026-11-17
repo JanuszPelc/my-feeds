@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Yamaha NS-10 Studio Monitors: Performance and Reputation</h2>
+<a name="story-27745"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FYamaha-NS-10-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Yamaha NS-10 is an iconic studio monitor known for a polarizing sound profile featuring emphasized midrange, limited low-end, and bright high frequencies. These characteristics help engineers identify problematic frequency buildups in a mix that might be overlooked on more balanced monitoring systems.</p><p>The speaker is prized for its exceptional transient response and accuracy in the time domain, which facilitates precise diagnostic listening. Although originally designed as domestic bookshelf speakers, the NS-10 has become an industry-standard staple in recording studios worldwide.</p>
+<p>Nov 17 · <a href="https://musictech.com/features/opinion-analysis/yamaha-ns-10-2/">musictech.com</a> | <a href="https://en.wikipedia.org/wiki/Yamaha_NS-10">en.wikipedia.org</a></p>
+<br clear="all" />
+
+<h2>Taika Systems Releases Photophore 2 Flock Synthesizer for iOS</h2>
+<a name="story-27744"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fphotophore-kvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Taika Systems has released Photophore 2, a major update to its behavioral flock synthesizer for iOS devices. The new version introduces native AUv3 plug-in support for hosts like Logic Pro for iPad and GarageBand, alongside expanded compatibility for iPhone.</p><p>The sound engine models up to 100 oscillators as a moving flock in a 3D habitat, allowing users to shape complex pads, leads, and basses by controlling behaviors such as grouping, speed, and environmental turbulence. Photophore 2 also adds new features including predator modulation, stereo width modes, and 30 factory presets by artist Bop.</p>
+<p>Nov 17 · <a href="https://www.kvraudio.com/news/taika-systems-releases-photophore-2-flock-synth-for-ios-with-auv3-and-iphone-support-69896?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69896">kvraudio.com</a></p>
+<br clear="all" />
+
 <h2>Universal Audio Vibe Analog Machines Discounted to $10 at Plugin Boutique</h2>
 <a name="story-27769"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.static-thomann.de%2Fthumb%2Fpadthumb600x600%2Fpics%2Fbdb%2F_64%2F642707%2F21122349_800.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Through November 30, 2026, the Vibe Analog Machines plugin is available for $10 at Plugin Boutique. This purchase includes a choice of one free plugin gift: UVI Tape Suite or Excite Audio Evolve Elastic Lite.</p><p>The software includes ten machines for tape coloration, preamp saturation, and heavy distortion. It supports macOS and 64-bit Windows in VST3, AU, and AAX formats and requires UA Connect and a free iLok account for licensing.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27655"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnew-version.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Version 1.9.0 of Rapid Synthesizer adds the Nano Cloud granular effect and Distortion X, a waveshaping tool with five models. New modulation capabilities include Mapping Curves for multi-point sequence editing, a stepped modulation Generator, and a Combinator for combining signals.</p><p>The update expands routing capacity from 32 to 64 entries and includes an 88-note virtual keyboard. Workflow improvements feature a quick routing system for modulation sources and Undo/Redo management. Existing customers can download the update for free, while new users can purchase it for 179.99€.</p>
 <p>Nov 16 · <a href="https://www.kvraudio.com/news/parawave-audio-updates-rapid-synthesizer-to-1-9-0---adds-nano-cloud-distortion-x-and-modulation-features-69855?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69855">kvraudio.com</a> | <a href="https://parawave-audio.com/new_in_rapid_1_9">parawave-audio.com</a></p>
-<br clear="all" />
-
-<h2>Dystopian Waves Releases RHETON Free and DBot MIDI Plugins</h2>
-<a name="story-27649"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>RHETON Free and DBot are free MIDI plugins from Dystopian Waves. RHETON Free is a generative performance engine that transforms chord progressions into instrument-inspired patterns, such as guitar strums or piano parts. DBot functions as a humanizer, adjusting timing and dynamics to add variation to programmed MIDI parts.</p><p>Both plugins support VST3 and AU formats for Windows and macOS, including native support for Apple Silicon. They offer real-time MIDI processing, MIDI import/export, and a piano roll that visualizes processed note shifts. The software is available for $0 via Gumroad, though macOS users should note the files are unsigned and unnotarized.</p>
-<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/">bedroomproducersblog.com</a> | <a href="https://dystopianwaves.gumroad.com/l/prhetonfree">dystopianwaves.gumroad.com</a></p>
-<br clear="all" />
-
-<h2>Vocal Pockets Releases VIPA MIDI Chord Generator</h2>
-<a name="story-27650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr-b8nogsSXI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Vocal Pockets' new VIPA plugin uses "Moodscapes" images to suggest chord progressions via MIDI on macOS and Windows. The tool populates 16 pads with chords matching a selected image's mood, which can be triggered via keyboard or dragged into a DAW. It is compatible with VST3, AU, and Logic Pro's MIDI FX format.</p><p>The software is available for $9.99 per month or $99 per year, including 100 monthly generation credits and periodic image updates. Users can refine chords by adjusting voicing, inversion, and strumming patterns, or by using humanization modes to vary performance timing. Internet is required for activation and image-based generation.</p>
-<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/">bedroomproducersblog.com</a> | <a href="https://vocalpockets.com/pages/vipa">vocalpockets.com</a></p>
 <br clear="all" />
 
 ---

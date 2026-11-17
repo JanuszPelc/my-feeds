@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Isomorphic Labs Raises $5 Billion in Series C Funding Round</h2>
+<a name="story-27742"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6846c7b5a78f3e9225c64f10%2F6afc440c8b4fc64d82c8d851_6afc2c7f673a113273db42d4_ISO_MonumentalPost_Landscape%2B1-p-1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Isomorphic Labs has raised $5 billion in a Series C funding round co-led by Greenoaks and Sequoia Capital to advance its AI-driven drug discovery platform toward clinical trials. The financing follows a $2.1 billion Series B round in May and includes participation from Andreessen Horowitz alongside existing backers such as Alphabet's GV and Capital G, Thrive Capital, MGX, Temasek, and the UK Sovereign AI Fund.</p><p>The company builds upon the AlphaFold protein-folding breakthroughs developed at Google's DeepMind, which earned founder and CEO Demis Hassabis and John Jumper a Nobel Prize in chemistry. Isomorphic Labs has reported positive preclinical results in oncology and immunology and has established partnerships with major pharmaceutical firms including Eli Lilly, Novartis, and Johnson &amp; Johnson.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/">techcrunch.com</a> | <a href="https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round">isomorphiclabs.com</a></p>
+<br clear="all" />
+
 <h2>Science Corporation Raises $400 Million in Series D Funding at $3.5 Billion Valuation</h2>
 <a name="story-27743"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F55588371385_eb2e316d52_o.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Science Corporation, a medical technology startup founded by former Neuralink president Max Hodak, has raised a $400 million Series D funding round that values the company at $3.5 billion. Investors in the round include Khosla Ventures, Tenet Healthcare, the Ackman Oxman Institute, and Y Combinator.</p><p>The company's flagship product is PRIMA, a wearable and implantable microchip that restores central vision in patients with age-related macular degeneration and is currently undergoing U.S. clinical trials for Stargardt's disease. Beyond vision restoration, Science Corporation is designing human trials for a bio-hybrid brain sensor aimed at treating neurological disorders such as Parkinson's disease.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27580"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolordrop.io%2Fapi%2Fimage%2F18821%3Fwidth%3D1080%26height%3D1080&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Toronto-based AI tax research platform Blue J has secured a $176 million USD ($249 million CAD) Series E funding round led by JMI Equity, valuing the company at more than $700 million USD. The investment follows rapid growth that more than doubled the company's annual recurring revenue over the past year.</p><p>The company plans to use the fresh capital to scale its agentic AI features, expand its market presence internationally into the United Kingdom, and grow its workforce beyond 200 employees by the end of the year. Founded in 2015, Blue J currently serves around 6,500 customers across the United States, Canada, and the United Kingdom.</p>
 <p>Nov 16 · <a href="https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/">betakit.com</a></p>
-<br clear="all" />
-
-<h2>Bharat Semi Raises $24 Million in Seed Funding for AI Image Sensors</h2>
-<p>Bharat Semi has raised $24 million in a seed round led by Info Edge Group, South Park Commons, and Indus Bridge Ventures to develop programmable, AI-enabled image sensors. The New Delhi- and Santa Clara-based startup combines image capture, processing, and AI on a single chip to target global markets including smart homes, industrial automation, and aerospace.</p><p>The pre-revenue company has already secured design wins with U.S. defense contractor General Atomics and India's Kaynes Semicon, with initial commercial production targeted for 2027. Bharat Semi plans to use the new capital to expand its engineering team, complete product prototyping, and scale its international operations.</p>
-<p>Nov 15 · <a href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
