@@ -8,6 +8,17 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nvidia Faces Scrutiny Over Governance and China Sales Following Jensen Huang&#x27;s Resignation</h2>
+<a name="story-27685"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia's interim CEO Colette Kress will lead the company's third-quarter earnings report on Tuesday, marking her first financial presentation since the resignation of Jensen Huang. Huang's departure followed allegations of extramarital affairs and potential connections to a Chinese intelligence asset.</p><p>The report is expected to address several critical issues, including Huang's potential reinstatement, investigations into chip diversion via Singapore, and Nvidia's sales strategy in China. Investors are also seeking information on corporate governance reforms and the company's approach to high-risk AI financing deals.</p>
+<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/">techcrunch.com</a></p>
+<br clear="all" />
+
+<h2>Corma Raises $125 Million for Defensive AI Agents</h2>
+<p>The Tel Aviv and San Francisco-based startup has secured $125 million in Series A funding led by NEA. The company develops AI agents that are custom-trained to perform defensive cybersecurity operations.</p><p>This investment follows a $60 million seed round completed in August. The year-old company focuses on deploying specialized artificial intelligence to enhance and automate cyber defense capabilities.</p>
+<p>Nov 16 · <a href="https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Jordan Belfort and Shervin Pishevar Launch Tone AI Voice Platform</h2>
 <a name="story-27659"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub-ec68ecb502fe49a1a6af408e889f7e65.r2.dev%2Fcelebs%2FJordan_Belfort.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tone uses strategic tonality and persuasion techniques to optimize sales performance through AI-generated voices. The startup has raised approximately $10 million in funding and reports roughly $700,000 in revenue from clients in sectors such as law and insurance.</p><p>The platform utilizes low-latency, lightweight models to mimic human inflection, including using questioning tones for declarative statements to drive engagement. Tone is also rolling out a self-service tool for content creators to generate expressive AI narration and voice clones.</p>
@@ -81,18 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Databento Raises $100m in Series C Funding at $1.1bn Valuation</h2>
 <p>Market data platform Databento has closed a $100m Series C funding round led by Fifth Down Capital, valuing the company at $1.1bn. The financing follows a $97m Series B earlier in the year and includes participation from existing backers such as NEA, DRW Venture Capital, Tribe Capital, and Hedosophia, alongside strategic investor Fitch Ventures.</p><p>Since its Series B, Databento has doubled its revenue while maintaining profitability with a compact team of 39 employees. The company provides live and historical financial data across futures, options, equities, and indices via a single API, serving quantitative trading houses, asset managers, and major artificial intelligence labs. The newly secured capital will be used to advance its infrastructure and expand asset class coverage.</p>
 <p>Nov 14 · <a href="https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/">fintech.global</a></p>
-<br clear="all" />
-
-<h2>Trump Media Faces November Deadline to Repay Convertible Bonds Amid Share Price Decline</h2>
-<a name="story-27500"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffinbold.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cquality%3D85%2Fhttps%3A%2F%2Fassets.finbold.com%2Fuploads%2F2025%2F05%2FTrump-Media-announces-approx.-2.5-Billion-Bitcoin-Treasury-deal-1024x682.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Trump Media faces a November 30 deadline to repay up to $1 billion in convertible bonds previously issued to fund its corporate bitcoin treasury. The impending repayment obligation comes as the Truth Social owner's stock price has dropped by more than 60 percent over the year.</p><p>The convergence of falling share prices and depressed cryptocurrency valuations could force the company to liquidate treasury assets or secure high-cost new debt to meet the liability. This financial pressure highlights the operational risks associated with corporate cryptocurrency strategies during periods of adverse market conditions.</p>
-<p>Nov 14 · <a href="https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0">ft.com</a></p>
-<br clear="all" />
-
-<h2>Lugano Pursues Cryptocurrency Hub Strategy Through Tether Partnership and LVGA Token</h2>
-<a name="story-27491"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tronweekly.com%2Fwp-content%2Fuploads%2F2022%2F03%2FFM8H5AMWQAEsfur.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Swiss city of Lugano is seeking to reinvent itself as a digital asset hub through an initiative called Plan B, partnering with stablecoin issuer Tether to integrate cryptocurrencies into its local economy. The project introduces the city's own LVGA token alongside support for bitcoin and tether, allowing residents to use digital currencies for municipal services, taxes, and participating merchants.</p><p>Proponents argue that the partnership will attract tech companies, boost economic growth, and position the municipality at the forefront of financial innovation. However, critics and financial analysts have raised concerns regarding the volatility of digital assets, regulatory uncertainties, and the potential risks associated with integrating private stablecoins into municipal financial systems.</p>
-<p>Nov 14 · <a href="https://www.ft.com/content/a1bcce14-c326-488f-b736-6e831b0fb6cf?accessToken=zwAAAaHY_bdnkdOhvM4UwyZIj9O3Nm6DGw-2zw.MEUCIQCBXyHHNsgOjjEJ2PQjkcLjJSExdRJKNtibv8XGeKew_QIgU17k6hYW9xMvFN1Fc5T7EBfD6P1hSQhzaIHiqP7qYxg&sharetype=gift&token=638a9a7e-087a-40eb-8ef9-e66519a5dbe7">ft.com</a></p>
 <br clear="all" />
 
 ---

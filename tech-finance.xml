@@ -3,9 +3,26 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-16T17:11:00+00:00</updated>
+  <updated>2026-11-16T22:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Faces Scrutiny Over Governance and China Sales Following Jensen Huang's Resignation</title>
+    <link href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/::v240</id>
+    <published>2026-11-16T22:04:00+00:00</published>
+    <updated>2026-11-16T22:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/">techcrunch.com</a></small></p><hr/><p>Nvidia's interim CEO Colette Kress will lead the company's third-quarter earnings report on Tuesday, marking her first financial presentation since the resignation of Jensen Huang. Huang's departure followed allegations of extramarital affairs and potential connections to a Chinese intelligence asset.</p><p>The report is expected to address several critical issues, including Huang's potential reinstatement, investigations into chip diversion via Singapore, and Nvidia's sales strategy in China. Investors are also seeking information on corporate governance reforms and the company's approach to high-risk AI financing deals.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 07:46 UTC | #27685</small>]]></content>
+  </entry>
+  <entry>
+    <title>Corma Raises $125 Million for Defensive AI Agents</title>
+    <link href="https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387" rel="alternate" />
+    <id>https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387::v240</id>
+    <published>2026-11-16T17:41:00+00:00</published>
+    <updated>2026-11-16T17:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387">wsj.com</a></small></p><hr/><p>The Tel Aviv and San Francisco-based startup has secured $125 million in Series A funding led by NEA. The company develops AI agents that are custom-trained to perform defensive cybersecurity operations.</p><p>This investment follows a $60 million seed round completed in August. The year-old company focuses on deploying specialized artificial intelligence to enhance and automate cyber defense capabilities.</p><hr/><small>17 Nov 2026, 06:49 UTC | #27637</small>]]></content>
+  </entry>
   <entry>
     <title>Jordan Belfort and Shervin Pishevar Launch Tone AI Voice Platform</title>
     <link href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/" rel="alternate" />
@@ -324,23 +341,5 @@
     <updated>2026-11-12T11:51:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.streebo.com%2Fwp-content%2Fthemes%2Fstreebo%2Fimages%2Fatc%2Fai_orchestration%2Fimg9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents/">siliconangle.com</a> | <a href="https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-$25M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments">businesswire.com</a></small></p><hr/><p>Artificial intelligence startup Lumbra Inc. has raised $25 million in a Series A funding round co-led by Point72 Ventures and Ansa Capital, with participation from Costanoa. The company develops LumbraOS, a model-neutral platform designed to orchestrate autonomous AI agents within ultra-secure and high-consequence computing environments like the U.S. intelligence community.</p><p>Founded by former intelligence and special forces officers, Lumbra built its platform with components for agent orchestration, dynamic knowledge graphs, and governance enforcement. Following early adoption within classified government networks, the startup plans to use the new capital to expand its engineering team and scale its enterprise offerings into high-stakes sectors such as healthcare and finance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.streebo.com%2Fwp-content%2Fthemes%2Fstreebo%2Fimages%2Fatc%2Fai_orchestration%2Fimg9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 18:06 UTC | #27254</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nvidia Stops Reporting Singapore Revenue Following Megaspeed Blocklisting</title>
-    <link href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5" rel="alternate" />
-    <id>https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5::v240</id>
-    <published>2026-11-12T05:36:00+00:00</published>
-    <updated>2026-11-12T05:36:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5">wsj.com</a></small></p><hr/><p>Nvidia ceased reporting its revenue from Singapore after the quarter ending in July 2025, a period when Singapore accounted for 22% of the company's total sales. The change in reporting followed Nvidia's decision to place Singapore-based cloud computing firm Megaspeed on a blocklist amid escalating international scrutiny and probes involving billions of dollars in AI chip purchases.</p><p>Megaspeed has drawn intense scrutiny regarding its massive acquisitions of Nvidia technology through secondary markets and overseas units like Speedmatrix in Malaysia. The shifting transparency surrounding Nvidia's regional sales figures deepens ongoing questions regarding the distribution paths and ultimate destinations of advanced AI hardware flowing into Southeast Asia.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fnvidia-s-revenue-singapore-reaches-7-7-billion-2024-up-0-5-billion-2022-amid-64ca9bd3%2Ffd38bdda4f70a1c4aa8e38a2e4b81b29918c9a15f71608e4a7e90fb8fef8ffcd.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 12:39 UTC | #27241</small>]]></content>
-  </entry>
-  <entry>
-    <title>CoreWeave Plans $4 Billion Investment-Grade Loan</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan::v240</id>
-    <published>2026-11-12T00:01:00+00:00</published>
-    <updated>2026-11-12T00:01:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan">bloomberg.com</a></small></p><hr/><p>CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering, potentially as early as next week. The AI computing supplier expects the loan to yield between 7% and 7.5%, which is approximately half the yield of its existing junk bonds.</p><p>The financing is intended to support the company's growth. Moving to investment-grade debt could significantly reduce CoreWeave's cost of capital compared to its previous high-yield debt issuances.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 07:01 UTC | #27222</small>]]></content>
   </entry>
 </feed>

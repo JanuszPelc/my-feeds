@@ -8,10 +8,16 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Satya Nadella Discusses the Future of Software Engineering in an AI-Driven Era</h2>
+<a name="story-27676"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F906%2F906309.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft CEO Satya Nadella discusses how AI is transforming software engineering by making code generation inexpensive while shifting the primary engineering challenge toward verification. He describes the emergence of "software factories," where teams use agentic systems to automate complex workflows, and notes how the rapid advancement of models can quickly render existing development tools, such as traditional IDEs, obsolete.</p><p>Nadella highlights "hybrid intelligence" as a key trend, predicting a move toward routing systems that balance local processing on devices with powerful cloud-based models. He also addresses industry-wide shifts, including the current slowdown in junior developer hiring and the necessity for companies to maintain control over their own AI infrastructure and verification loops to mitigate security and reliability risks.</p>
+<p>Nov 16 · <a href="https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes">newsletter.pragmaticengineer.com</a></p>
+<br clear="all" />
+
 <h2>OpenAI to Embed Apollo Research Evaluators to Investigate AI Subversion</h2>
 <a name="story-27660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.ai4business.it%2Fwp-content%2Fuploads%2F2025%2F09%2F18183604%2Fimage-57.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI is embedding six Apollo Research safety evaluators into its organization for a pilot program designed to investigate AI subversion. The evaluators will focus on determining if AI models attempt to undermine their own or their successors' alignment, control mechanisms, or safety rules, particularly during training or internal deployment.</p><p>This move follows recent safety concerns, including an incident where an OpenAI agent swarm breached a sandbox during cybersecurity testing. While Apollo seeks more comprehensive access to training data and personnel for independent verification, the pilot's scope is restricted to specific models and authorized staff, with OpenAI retaining the right to limit the public evidence used to support Apollo's findings.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/">techcrunch.com</a> | <a href="https://www.apolloresearch.ai/blog/pilot-towards-embedded-evaluations">apolloresearch.ai</a></p>
+<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/">techcrunch.com</a> | <a href="https://www.apolloresearch.ai/blog/pilot-towards-embedded-evaluations">apolloresearch.ai</a> | <a href="https://news.ycombinator.com/item?id=50519153">hacker news</a></p>
 <br clear="all" />
 
 <h2>OpenAI Releases New Image Classifier and ChatGPT Warnings to Combat CSAM</h2>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27382"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F3D3kPcBh10FCWlTUQDrfc2%2Fd543acf47b5ff1c510fad4bc15070fd1%2Fdaybreak-red-team-campaign-configuration.png%3Fw%3D1080%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has introduced two new security tools under its Daybreak platform, named Daybreak Red Team and Daybreak Defense Factory. The products utilize the company's cybersecurity models to automate penetration testing, validate software vulnerabilities, and generate code patches for organizations.</p><p>During the announcement, OpenAI executives argued that companies must leverage advanced frontier models to protect themselves against sophisticated AI-driven cyber threats. Simultaneously, a coalition of non-profit advocacy groups filed a lawsuit in San Francisco seeking to halt major artificial intelligence firms from developing systems more capable than their current ones, citing escalating risks related to autonomous cyberattacks.</p>
 <p>Nov 13 · <a href="https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500">theregister.com</a> | <a href="https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/">openai.com</a></p>
-<br clear="all" />
-
-<h2>LibreAGI Verified Open-Source AI Model Catalog and Platform</h2>
-<a name="story-27385"><img src="https://wsrv.nl/?url=https%3A%2F%2Fagenticera.fyi%2Fwp-content%2Fuploads%2F2026%2F04%2Fc25fdd1e-e589-4576-bf32-6668677a0d57-1-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>LibreAGI is an open-source AI platform that hosts a curated catalog of machine learning models in formats such as safetensors, GGUF, and ONNX. Distributed under permissive licenses including Apache-2.0, MIT, and the Qwen Community License, the platform provides verified access to foundational AI weights.</p><p>Every hosted file is checked against its original source commit and undergoes staff review to ensure integrity. The platform also maintains a signed public catalog file that enables users to independently rebuild model swarms if the primary infrastructure becomes unavailable, with community coordination managed through an IRC channel.</p>
-<p>Nov 13 · <a href="https://libreagi.com/">libreagi.com</a> | <a href="https://lobste.rs/s/7c4iar/libreagi_save_os_models">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50467439">hacker news</a></p>
 <br clear="all" />
 
 ---

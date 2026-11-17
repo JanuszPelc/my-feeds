@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-16T16:28:00+00:00</updated>
+  <updated>2026-11-16T22:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Mutagene Updates Xoradora Drum Resynthesizer to v1.0.0-rc.4</title>
+    <link href="https://www.kvraudio.com/news/mutagene-updates-xoradora-drum-resynthesizer-to-v1-0-0-rc-4-68567?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68567" rel="alternate" />
+    <id>https://www.kvraudio.com/news/mutagene-updates-xoradora-drum-resynthesizer-to-v1-0-0-rc-4-68567?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68567::v240</id>
+    <published>2026-11-16T22:36:00+00:00</published>
+    <updated>2026-11-16T22:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fxoradora-beta-3-main.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/mutagene-updates-xoradora-drum-resynthesizer-to-v1-0-0-rc-4-68567?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68567">kvraudio.com</a> | <a href="https://dsp.mutagene.net/plugins/xoradora/">dsp.mutagene.net</a></small></p><hr/><p>The v1.0.0-rc.4 update for Xoradora, a sample-based resynthesis drum machine, is now available for macOS, Windows, and Linux. Key features include independent component loops with adjustable crossfades, separate playback regions for resynthesis modes, and expanded sound shaping through new carrier and spectral-colour controls.</p><p>Other enhancements include parameter locks for Mutate and Evolve, expressive envelopes with editable timelines in a "Guided view," and optimized CPU performance. Xoradora is available in VST3, CLAP, AU, and Standalone formats for a pre-release price of €44 / US$49.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fxoradora-beta-3-main.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 07:47 UTC | #27686</small>]]></content>
+  </entry>
+  <entry>
+    <title>MusicTech Highlights Black Friday 2026 Music Technology Deals</title>
+    <link href="https://musictech.com/news/gear/best-black-friday-music-tech-deals/" rel="alternate" />
+    <id>https://musictech.com/news/gear/best-black-friday-music-tech-deals/::v240</id>
+    <published>2026-11-16T18:31:00+00:00</published>
+    <updated>2026-11-16T18:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fableton-push-black-friday-simon-vinall%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/best-black-friday-music-tech-deals/">musictech.com</a></small></p><hr/><p>MusicTech has released its curated list of Black Friday 2026 deals for music technology, including plugins, hardware, and DAWs. Featured discounts include the Solid State Logic SSL Fusion Bundle for £44, the Universal Audio Minimoog plugin for £26, and the AKG Ara USB microphone for £16.60.</p><p>The selection prioritizes products with positive review histories and industry popularity from retailers such as Thomann and Plugin Boutique. The guide evaluates the value of these deals by comparing promotional prices against standard market rates.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fableton-push-black-friday-simon-vinall%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 07:24 UTC | #27671</small>]]></content>
+  </entry>
+  <entry>
+    <title>Audio Brewers Introduces ab Advanced Visualiser HOA Pro</title>
+    <link href="https://www.kvraudio.com/news/audio-brewers-introduces-ab-advanced-visualiser-hoa-pro-for-immersive-audio-analysis-69863?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69863" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audio-brewers-introduces-ab-advanced-visualiser-hoa-pro-for-immersive-audio-analysis-69863?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69863::v240</id>
+    <published>2026-11-16T17:53:00+00:00</published>
+    <updated>2026-11-16T17:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsdllpdburwoxa6zfcx0n.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/audio-brewers-introduces-ab-advanced-visualiser-hoa-pro-for-immersive-audio-analysis-69863?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69863">kvraudio.com</a> | <a href="https://www.audiobrewers.com/plugins/p/ab-advanced-visualiser-hoa">audiobrewers.com</a></small></p><hr/><p>Audio Brewers has announced ab Advanced Visualiser HOA Pro, an Ambisonics analysis plugin supporting First- through Seventh-Order Ambisonics (1OA–7OA). Available in AAX, AU, and VST3 formats, the tool includes 14 visualization tools organized into Soundfield, Planes, Frequency, and Levels categories.</p><p>The software features a modular interface with a "Brush Mode" for analyzing custom spatial regions and a Scene Visualiser for overlaying audio data onto standard or 360° video. It also provides real-time OSC output to track up to 16 sound sources for integration with external visual engines and lighting systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsdllpdburwoxa6zfcx0n.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 07:14 UTC | #27689</small>]]></content>
+  </entry>
   <entry>
     <title>Parawave Audio Updates Rapid Synthesizer to 1.9.0</title>
     <link href="https://www.kvraudio.com/news/parawave-audio-updates-rapid-synthesizer-to-1-9-0---adds-nano-cloud-distortion-x-and-modulation-features-69855?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69855" rel="alternate" />
@@ -455,14 +482,5 @@
     <updated>2026-11-12T09:31:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-at-08-24-30-compressed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/mb-big-biznis-releases-qkit---always-recording-looper-plugin-au-and-vst3-69772?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69772">kvraudio.com</a> | <a href="https://qkitlabs.com/qkit">qkitlabs.com</a></small></p><hr/><p>MB Big Biznis has released qkit, a live-looping plugin for macOS and Windows available in AU and VST3 formats. The software continuously listens to audio input, allowing users to capture recent performances retroactively or arm new takes that lock directly to a DAW's beat.</p><p>qkit supports up to 32 simultaneous loops per instance with individual controls for feedback, overdub layers, and routing across eight auxiliary outputs. Designed for both studio and stage use, the plugin features zero-latency processing, MIDI and OSC control mapping, Ableton Link integration, and time-stretching or varispeed pitch tracking.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscreenshot-2026-11-12-at-08-24-30-compressed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 14:40 UTC | #27252</small>]]></content>
-  </entry>
-  <entry>
-    <title>Arvital Audio Updates AudioRoute to Version 1.2.13</title>
-    <link href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-13-69765?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69765" rel="alternate" />
-    <id>https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-13-69765?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69765::v240</id>
-    <published>2026-11-12T03:23:00+00:00</published>
-    <updated>2026-11-12T03:23:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-plugin-logic-source.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-13-69765?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69765">kvraudio.com</a> | <a href="https://audio-route.com/">audio-route.com</a></small></p><hr/><p>Arvital Audio has released version 1.2.13 of AudioRoute, its system audio capture tool for macOS and Windows. The update introduces a redesigned take-management system where recorded audio clips are retained in a session list beneath the waveform, preventing automatic deletion and allowing users to drag multiple takes into their digital audio workstation.</p><p>Additional improvements rolled out across recent minor updates include automatic tempo and key detection for recordings longer than six seconds, clearer guidance for plug-in modes, and more resilient handling of audio device reconnections and sample rate changes. AudioRoute is available as a free update for existing users, priced at 39 euros for new licenses, and supports VST3, AU, and AAX formats.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-plugin-logic-source.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 09:34 UTC | #27251</small>]]></content>
   </entry>
 </feed>

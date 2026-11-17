@@ -3,9 +3,36 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-16T17:03:00+00:00</updated>
+  <updated>2026-11-16T20:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Major US Banks Experience Online Account Outages</title>
+    <link href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda" rel="alternate" />
+    <id>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda::v240</id>
+    <published>2026-11-16T20:22:00+00:00</published>
+    <updated>2026-11-16T20:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnowworld.com%2Fthumb%2Fmsid-154516422%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F154516422.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">apnews.com</a> | <a href="https://news.ycombinator.com/item?id=50521045">hacker news</a></small></p><hr/><p>Customers at several major U.S. banks, including Chase, Wells Fargo, Bank of America, U.S. Bank, and Truist, reported difficulty accessing online accounts on Monday. Chase Bank characterized the disruption as a technical bug rather than a cyberattack, stating that some transactions are delayed but accounts and funds remain accessible.</p><p>U.S. Bank noted that clients might experience delays with Zelle payments sent to other financial institutions. The outage follows a recent Microsoft service disruption that impacted Outlook, Teams, and Copilot.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnowworld.com%2Fthumb%2Fmsid-154516422%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F154516422.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 07:41 UTC | #27680</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Shortens Coordinated Vulnerability Disclosure Timelines</title>
+    <link href="https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines" rel="alternate" />
+    <id>https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines::v240</id>
+    <published>2026-11-16T17:51:00+00:00</published>
+    <updated>2026-11-16T17:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.iconscout.com%2Ficon-pack%2Fpreview-mockup%2Fcollaboration-icon-pack-svg-download-png-318748.png%3Ff%3Dwebp%26h%3D480%26modified_at%3D1738824880&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines">anthropic.com</a></small></p><hr/><p>Anthropic is shortening its coordinated vulnerability disclosure (CVD) timelines in response to the increased ability of frontier models to discover security flaws. Effective January 1, 2027, high- and critical-severity vulnerabilities will move to a 30-day disclosure window, while all other issues will move to a 45-day window.</p><p>The update also accelerates escalation to external coordinators to 15 days if a maintainer does not respond and reduces the period after a patch is available before sharing technical details to 30 days. To assist maintainers in meeting these accelerated timelines, Anthropic provides actionable guidance with reports and offers support programs including the OSS Scanner and the Claude for Open Source Program.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.iconscout.com%2Ficon-pack%2Fpreview-mockup%2Fcollaboration-icon-pack-svg-download-png-318748.png%3Ff%3Dwebp%26h%3D480%26modified_at%3D1738824880&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 07:06 UTC | #27663</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google Threat Intelligence Identifies Autonomous AI Framework for Automating Exploits</title>
+    <link href="https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/" rel="alternate" />
+    <id>https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/::v240</id>
+    <published>2026-11-16T17:44:00+00:00</published>
+    <updated>2026-11-16T17:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstackcyber.com%2Fimg%2Fposts%2Fthreats-from-ai.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/">siliconangle.com</a> | <a href="https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold">cloud.google.com</a> | <a href="https://news.ycombinator.com/item?id=50518536">hacker news</a></small></p><hr/><p>The `exploit_agent` framework, discovered by Google Threat Intelligence Group, operates without human involvement to transform security patches into functional exploits. Utilizing large language models, the system continuously compares web application code before and after patch announcements to identify flaws and automatically execute drafted exploits.</p><p>This emergence of autonomous attack pipelines indicates that attackers may increasingly leverage LLMs to target n-day vulnerabilities rather than hunting for zero-day flaws. The report also highlights broader trends, including the use of agentic frameworks for influence operations and automating stages of intrusions in the aerospace and cryptocurrency sectors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstackcyber.com%2Fimg%2Fposts%2Fthreats-from-ai.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 06:53 UTC | #27647</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Blames July Software Defect for Major Email Outage</title>
     <link href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026" rel="alternate" />
@@ -220,31 +247,5 @@
     <updated>2026-11-12T12:36:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fkrebsonsecurity.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhaise-ramp-kela.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/">krebsonsecurity.com</a></small></p><hr/><p>Cybersecurity reporting links the administrator of the Qilin ransomware-as-a-service group, operating under the alias "Haise," to Aleksey Mikhailovich Yakovtsev, a 36-year-old resident of St. Petersburg, Russia. Qilin has become one of the world's most active ransomware affiliate programs, employing a double-extortion model and partnering with prominent cybercrime groups like Scattered Spider and RansomHub.</p><p>Investigators connected Haise to older forum aliases, including "Rjun" and the Telegram username "Alexbigboss44," through historical forum data and leaked records from Russian state databases. Digital artifacts, data breaches, and travel records further corroborated the identity of Yakovtsev, who holds a master's degree in computing and information systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fkrebsonsecurity.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhaise-ramp-kela.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 19:46 UTC | #27265</small>]]></content>
-  </entry>
-  <entry>
-    <title>Danbooru Details Security Incident and Week-Long Downtime Following Malicious Flash Upload</title>
-    <link href="https://danbooru.donmai.us/forum_topics/38685.html" rel="alternate" />
-    <id>https://danbooru.donmai.us/forum_topics/38685.html::v240</id>
-    <published>2026-11-12T05:38:00+00:00</published>
-    <updated>2026-11-12T05:38:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://danbooru.donmai.us/forum_topics/38685.html">danbooru.donmai.us</a> | <a href="https://lobste.rs/s/wfr0b4/about_downtime_security_incident">lobsters</a></small></p><hr/><p>Danbooru experienced a week-long downtime following a security incident on November 4, when an attacker uploaded a malicious Flash post containing an XSS worm. The site was shut down within six minutes, limiting actual damage, though the worm harvested IP addresses and temporarily hijacked user accounts that viewed the infected posts.</p><p>The attacker exploited a pull request that accidentally re-enabled Flash file uploads and utilized large language models to identify vulnerabilities. During the outage, administrators patched the security gaps, performed server maintenance, and advised users to secure their accounts by changing passwords and enabling two-factor authentication.</p><hr/><small>12 Nov 2026, 13:06 UTC | #27275</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lyra Rebane Explains How Bug Tracker Error and AI Aggregators Created False Millionaire Claims</title>
-    <link href="https://lyra.horse/blog/2026/11/disinformation-machine/" rel="alternate" />
-    <id>https://lyra.horse/blog/2026/11/disinformation-machine/::v240</id>
-    <published>2026-11-12T03:21:00+00:00</published>
-    <updated>2026-11-12T03:21:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvpncentral.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGoogle-Publishes-Chromium-Exploit-Code-1024x576-1-700x394.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://lyra.horse/blog/2026/11/disinformation-machine/">lyra.horse</a> | <a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50460254">hacker news</a></small></p><hr/><p>Security researcher Lyra Rebane explains how an administrative error that mistakenly granted her edit access to a Google Buganizer issue allowed her to modify her own Chromium bug bounty reward to over $1.3 million as a joke on X.</p><p>Although she quickly clarified that the change was unauthorized and unpaid, automated AI-generated news aggregators and Google's AI Overview treated the satirical post as fact, illustrating vulnerabilities in modern information ecosystems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvpncentral.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGoogle-Publishes-Chromium-Exploit-Code-1024x576-1-700x394.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 09:12 UTC | #27250</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jane Street Systems Engineer Recounts Near-Loss of NYC Datacenter Due to False Smoke Alarm</title>
-    <link href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/" rel="alternate" />
-    <id>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/::v240</id>
-    <published>2026-11-11T23:33:00+00:00</published>
-    <updated>2026-11-11T23:33:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50455394">hacker news</a></small></p><hr/><p>A Jane Street systems engineer describes a near-catastrophic incident at the firm's New York City datacenter in 1 New York Plaza. A false smoke alarm, triggered by dust from nearby construction, caused the cooling systems to shut down, risking a situation where rising temperatures would trigger heat-sensitive sprinklers and flood the server room.</p><p>To prevent equipment destruction, the engineer manually disconnected power to all servers before temperatures exceeded critical thresholds. The incident led the systems team to implement a more reliable temperature monitoring system written in OCaml that queries individual Linux servers to detect cooling failures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 04:57 UTC | #27236</small>]]></content>
   </entry>
 </feed>

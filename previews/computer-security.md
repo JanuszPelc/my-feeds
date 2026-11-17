@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Major US Banks Experience Online Account Outages</h2>
+<a name="story-27680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnowworld.com%2Fthumb%2Fmsid-154516422%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F154516422.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Customers at several major U.S. banks, including Chase, Wells Fargo, Bank of America, U.S. Bank, and Truist, reported difficulty accessing online accounts on Monday. Chase Bank characterized the disruption as a technical bug rather than a cyberattack, stating that some transactions are delayed but accounts and funds remain accessible.</p><p>U.S. Bank noted that clients might experience delays with Zelle payments sent to other financial institutions. The outage follows a recent Microsoft service disruption that impacted Outlook, Teams, and Copilot.</p>
+<p>Nov 16 · <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">apnews.com</a> | <a href="https://news.ycombinator.com/item?id=50521045">hacker news</a></p>
+<br clear="all" />
+
+<h2>Anthropic Shortens Coordinated Vulnerability Disclosure Timelines</h2>
+<a name="story-27663"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.iconscout.com%2Ficon-pack%2Fpreview-mockup%2Fcollaboration-icon-pack-svg-download-png-318748.png%3Ff%3Dwebp%26h%3D480%26modified_at%3D1738824880&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic is shortening its coordinated vulnerability disclosure (CVD) timelines in response to the increased ability of frontier models to discover security flaws. Effective January 1, 2027, high- and critical-severity vulnerabilities will move to a 30-day disclosure window, while all other issues will move to a 45-day window.</p><p>The update also accelerates escalation to external coordinators to 15 days if a maintainer does not respond and reduces the period after a patch is available before sharing technical details to 30 days. To assist maintainers in meeting these accelerated timelines, Anthropic provides actionable guidance with reports and offers support programs including the OSS Scanner and the Claude for Open Source Program.</p>
+<p>Nov 16 · <a href="https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines">anthropic.com</a></p>
+<br clear="all" />
+
+<h2>Google Threat Intelligence Identifies Autonomous AI Framework for Automating Exploits</h2>
+<a name="story-27647"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstackcyber.com%2Fimg%2Fposts%2Fthreats-from-ai.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The `exploit_agent` framework, discovered by Google Threat Intelligence Group, operates without human involvement to transform security patches into functional exploits. Utilizing large language models, the system continuously compares web application code before and after patch announcements to identify flaws and automatically execute drafted exploits.</p><p>This emergence of autonomous attack pipelines indicates that attackers may increasingly leverage LLMs to target n-day vulnerabilities rather than hunting for zero-day flaws. The report also highlights broader trends, including the use of agentic frameworks for influence operations and automating stages of intrusions in the aerospace and cryptocurrency sectors.</p>
+<p>Nov 16 · <a href="https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/">siliconangle.com</a> | <a href="https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold">cloud.google.com</a> | <a href="https://news.ycombinator.com/item?id=50518536">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft Blames July Software Defect for Major Email Outage</h2>
 <a name="story-27622"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fimages%2Fnews%2Fu%2F1109292%2F2023%2FEX546390.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A software defect introduced during a July 2026 update caused a massive outage of Exchange Online and other Microsoft 365 services, according to a preliminary post-incident report. The defect triggered resource exhaustion via lock contention in an internal Windows process on network gateway servers. This instability was prompted when a load surge from a Teams failover occurred simultaneously with a 14 percent reduction in server capacity.</p><p>The event resulted in a cascading failure that left more than 80 percent of servers unresponsive at its peak. Because the code had been in production for months, engineers were unable to perform a standard rollback and instead had to develop a new patch to revert the code path to a known good state. The service disruption lasted from November 12 to November 14, 2026.</p>
@@ -77,24 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27481"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft announced that all Microsoft 365 products have returned to operational status, successfully concluding a major service disruption that affected businesses, governments, hospitals, and financial traders worldwide.</p><p>The widespread outage ranks among the longest disruptions in the platform's history, highlighting the deep reliance of global critical infrastructure on cloud-based productivity software.</p>
 <p>Nov 14 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>FBI Probes Software Update Connection to Mass FAA Outage</h2>
-<a name="story-27453"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt8eb3cdfc1fce5194%2Fblt3d52f205c797702d%2F664b35e63128422973bd503b%2FGreen_20Simple_20Annual_20Timeline_20Diagram_20_283_29.png%3Fwidth%3D700%26auto%3Dwebp%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Federal Bureau of Investigation is examining whether a software update triggered the recent mass communication issue affecting air traffic control systems. Investigators currently have no indication that the disruption was the result of a cyberattack or any form of criminal activity.</p><p>The inquiry focuses on technical factors behind the Federal Aviation Administration outage, which impacted flight operations. Authorities are reviewing system logs and update histories to determine the exact root cause of the widespread communication failure.</p>
-<p>Nov 13 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>FAA Issues Nationwide Ground Stop Due to Communication Issues</h2>
-<a name="story-27449"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.simpleflyingimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2F2025-ajo-056-air-traffic-control-topaz-3-5-2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The FAA has issued a nationwide ground stop at all U.S. airports due to communication issues affecting multiple Air Route Traffic Control Centers. Citing "extraordinary circumstances" and safety reasons, the agency ordered all departing traffic to remain grounded until further notice.</p><p>Inbound international flights are being managed on a case-by-case basis while technicians investigate the communication failures. Air route traffic control centers primarily manage high-altitude en route airspace between airports.</p>
-<p>Nov 13 · <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50489678">hacker news</a></p>
-<br clear="all" />
-
-<h2>LibreOffice Highlights Reliability in Post During Microsoft Outage</h2>
-<a name="story-27476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.debugpoint.com%2Fwp-content%2Fuploads%2F2023%2F12%2FLibreOffice-24.2-release-1024x546.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>LibreOffice shared a message on X stating that the software works 365 days a year. The post was made in response to a service outage affecting Microsoft services.</p><p>The statement emphasizes the availability and reliability of local-first, open-source software, which maintains functionality without requiring continuous cloud connectivity.</p>
-<p>Nov 13 · <a href="https://twitter.com/LibreOffice/status/2121205272479998268">x.com</a> | <a href="https://news.ycombinator.com/item?id=50486482">hacker news</a></p>
 <br clear="all" />
 
 ---
