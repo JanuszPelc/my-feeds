@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-17T02:32:00+00:00</updated>
+  <updated>2026-11-17T03:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Linebender Wiki Explores Mathematical and Practical Definitions of Squircles</title>
+    <link href="https://linebender.org/wiki/curves/squircle/" rel="alternate" />
+    <id>https://linebender.org/wiki/curves/squircle/::v240</id>
+    <published>2026-11-17T03:38:00+00:00</published>
+    <updated>2026-11-17T03:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flinebender.org%2Fwiki%2Fcurves%2Fsquircle%2Fapple_vs_superellipse.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://linebender.org/wiki/curves/squircle/">linebender.org</a> | <a href="https://lobste.rs/s/iihw5u/squircles">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50515151">hacker news</a></small></p><hr/><p>A squircle is a geometric shape intermediate between a square and a circle, encompassing various parametrized curves rather than a single mathematical definition. Well-known variants include superellipses, flat-sided designs such as Apple's icon shape introduced in iOS 7, and approximations used in design tools like Figma.</p><p>Different squircle variants vary in their mathematical properties, continuity levels, and parameters like gauge or superellipse exponents. Recent developments include standardization via the CSS box decorations spec's corner-shape property, allowing web browsers and developers to implement these continuous corner geometries efficiently using closed-form Bézier approximations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flinebender.org%2Fwiki%2Fcurves%2Fsquircle%2Fapple_vs_superellipse.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 14:02 UTC | #27730</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Overhauls App Permissions and Full Disk Access in macOS 27.3 Beta</title>
     <link href="https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/" rel="alternate" />
