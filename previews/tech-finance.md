@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Model ML Raises $250 Million at $1.5 Billion Valuation</h2>
+<a name="story-27715"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fyoung-beautiful-fashion-model-21622085.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Model ML has raised $250 million in a funding round valuing the artificial intelligence startup at $1.5 billion. The company develops AI agents integrated into Excel and PowerPoint to automate pitch decks, research, and due diligence tasks for financial professionals.</p><p>Founded by Chaz and Arnie Englander, Model ML focuses on streamlining routine workflows for bankers, consultants, and investors. The substantial financing highlights continued investor backing for vertical AI tools targeting enterprise productivity and financial services.</p>
+<p>Nov 17 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>JD.com Reports Third-Quarter Revenue and Net Income Growth</h2>
 <a name="story-27713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20251114%2Fjdq3-1-18f977ed6bb4446ab97038a29ce8a1d5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>JD.com reported third-quarter revenue of approximately $46.4 billion, marking a 3.5% increase year-over-year that met analyst expectations. Net income for the quarter rose 22% to approximately $975 million, reflecting resilient performance despite an intensely competitive retail market and a sluggish domestic economy.</p><p>The financial results highlight the company's ability to maintain stable growth amid broader macroeconomic headwinds in China. The company's primary retail segment contributed steady operating income as management navigated shifting consumer spending patterns and aggressive pricing pressures.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27594"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdfn2h3yx4%2Fimage%2Fupload%2Fv1794319776%2Frbtke0yovl8c25lbn4og.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sumary has secured $25 million in a seed funding round led by Singular, bringing its total funding to $29.2 million. The Copenhagen-based company provides AI software designed to automate accounting workflows, including monthly closes, VAT returns, and year-end processes. Existing investors byFounders, Partech, and Tenity also participated in the round.</p><p>The company is relocating its commercial operations to London to facilitate expansion into the UK and European markets. Sumary's tools aim to assist existing accounting firms by reducing manual workloads; the company reports that users can reduce the time spent on VAT returns by 75%. Current clients include Deloitte, Grant Thornton, and Baker Tilly.</p>
 <p>Nov 16 · <a href="https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms/">techfundingnews.com</a></p>
-<br clear="all" />
-
-<h2>Kindo Raises $30M to Expand AI Agent Management Platform</h2>
-<a name="story-27587"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F004%2F540%2F198%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kindo has secured $30 million in a funding round co-led by Crosspoint Capital and Forgepoint Capital, bringing its total capital to $57.6 million. The company reported approximately 800% year-on-year revenue growth in 2026.</p><p>The investment will fund go-to-market expansion and the development of Kindo's AI Control Center and Deep Hat tools. The platform provides enterprises with centralized visibility, auditing, and cost management for autonomous AI agents.</p>
-<p>Nov 16 · <a href="https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/">techfundingnews.com</a></p>
 <br clear="all" />
 
 ---

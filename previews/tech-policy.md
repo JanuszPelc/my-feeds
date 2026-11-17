@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>AI Regulation Could Benefit from Safety Frameworks Used in High-Hazard Industries</h2>
+<a name="story-27772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770360%2Foriginal%2Ffile-20261105-64-ft00t4.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI regulation faces significant challenges due to the increasing complexity and autonomy of AI agents. In highly interconnected systems, the interaction of multiple components can trigger unpredictable, cascading failures—a phenomenon known as "normal accidents"—that may occur too rapidly for human intervention.</p><p>Adopting frameworks from high-reliability industries like aviation and nuclear power could help manage these risks. By focusing on organizational safety cultures, continuous learning from near misses, and robust assurance infrastructures, regulators can move beyond one-off technical tests toward a more resilient governance model.</p>
+<p>Nov 17 · <a href="https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475">theconversation.com</a></p>
+<br clear="all" />
+
 <h2>Department of Justice Uses Pangram AI Detector Against Defense Attorneys</h2>
 <a name="story-27749"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-17-at-7.12.25-AM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Department of Justice is utilizing the AI writing detection service Pangram to argue that defense attorneys in a federal voter fraud case are using generative AI to produce legal filings. In the case of Khalwinder Bhengura, government attorneys described the defense's work as "AI slop" and "defense by ChatGPT" after Pangram results showed mixed levels of AI involvement.</p><p>Defense attorneys stated that AI tools were used to meet strict deadlines following a medical emergency involving a lead lawyer. While the Northern District of Texas has implemented rules requiring the disclosure of AI use, the defense argues that Pangram's results are inconclusive and do not validate claims that the filings lack human substance or legal accuracy.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F14%2Fmultimedia%2F14dc-lutnick-commerce-01-bqtl%2F14dc-lutnick-commerce-01-bqtl-facebookJumbo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia Corp. appealed to Taiwanese officials and sought advice from TSMC after prosecutors accused a company manager of helping smuggle advanced artificial intelligence chips into China. TSMC ultimately declined to get involved in the matter, leaving Nvidia to navigate the legal and diplomatic fallout independently.</p><p>The development underscores the intense regulatory and geopolitical scrutiny surrounding the illicit transfer of restricted semiconductor technology to China. Taiwan remains a critical focal point for export controls, given its central role in global chip manufacturing and the strict enforcement measures adopted by authorities against unauthorized transshipments.</p>
 <p>Nov 15 · <a href="https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>US and Pax Silica Allies Agree to Joint AI Supply Chain List</h2>
-<a name="story-27553"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkiddaan.com%2Fwp-content%2Fuploads%2F2026%2F02%2Fextras-new-Recovered-34-1024x719.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The United States and Pax Silica allies, including Japan, the UK, and India, have agreed to establish a joint catalog of sensitive artificial intelligence technologies and critical supply chains to protect them from China. The accord encompasses vital sectors such as semiconductors, critical minerals, and energy infrastructure to mitigate strategic vulnerabilities.</p><p>The agreement advances the U.S.-led Pax Silica initiative to secure technological supply chains amid intensifying geopolitical competition. The pact comes ahead of a scheduled meeting between Donald Trump and Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen.</p>
-<p>Nov 15 · <a href="https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22">ft.com</a></p>
 <br clear="all" />
 
 ---

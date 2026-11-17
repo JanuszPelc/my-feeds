@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>GaryOderNichts Fixes Wii U Wii Mode Graphics Issues via OpenDMCUFirm</h2>
+<a name="story-27809"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgddutNwjGyoPAqVySy66feWh7iohqv11w75McVPWIoAW49DaClcX26EhS-ULyPcYmLRoOySk_6BUjpls-O_qcAzf2qrrxyG9sjFrFxvz0yUbd5r0kh-7rAaXDxWnSwwaV-FfKwkXyikJpF-w-IaoGLmwWYlQzrVHadty8c4DZzAjmZUupxrFxXS9ReUjo%2Fs1280%2Fbefore.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Software developer and reverse engineer garyodernichts has identified and resolved longstanding graphical defects in the Wii U's backwards-compatible Wii Mode, commonly known as vWii. The fixes address persistent issues with forced overscan cropping and chroma color bleeding that have affected Wii games running on the console via HDMI since 2013.</p><p>By reverse-engineering the Wii U's Display Microcontroller Unit (DMCU)—an M68HC11-compatible chip also utilized in AMD graphics cards—the researcher discovered that firmware typos trapped display update events in an infinite retrigger loop and inverted color channel logic. These findings have been compiled into OpenDMCUFirm, an open-source replacement firmware that corrects the firmware logic and restores proper visual output for Wii titles.</p>
+<p>Nov 17 · <a href="https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html">garyodernichts.blogspot.com</a> | <a href="https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode">lobsters</a></p>
+<br clear="all" />
+
 <h2>BugMeNot Credential-Sharing Service Closes</h2>
 <a name="story-27806"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.appuals.com%2Fwp-content%2Fuploads%2F2016%2F02%2F2016-02-21_074752-1024x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Credential-sharing and login-bypass service BugMeNot has shut down after operating for more than two decades. The website replaced its directory of shared accounts with a brief farewell message thanking users who envisioned a better internet, accompanied by an unexplained block of encoded characters.</p><p>Launched in 2003, BugMeNot allowed users to bypass mandatory registration walls on websites by providing crowdsourced login credentials. Its closure marks the end of an era for early web accessibility tools as modern security measures, including multi-factor authentication, have rendered traditional account-sharing increasingly obsolete.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27561"><img src="https://wsrv.nl/?url=https%3A%2F%2Flucypero.com%2Fassets%2Fimages%2Flucynes%2Fsrc_Dn6Bdt7DGO.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Lucy Pero has released lucyNES, a Nintendo Entertainment System emulator written in the Odin programming language. Built over a seven-month period, the project is designed to emulate NES hardware accuracy, handling CPU and PPU synchronization and supporting several common cartridge mappers.</p><p>The emulator includes a debugger view, save states, controller support, and a CRT shader toggle, alongside support for mappers such as NROM, MMC1, UXROM, and MMC3. While the software successfully runs hundreds of games like Battletoads, audio support remains partial and certain mapper implementations are incomplete.</p>
 <p>Nov 15 · <a href="https://lucypero.com/lucynes.html">lucypero.com</a> | <a href="https://lobste.rs/s/dtjgmc/nes_emulator_written_odin">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50506588">hacker news</a></p>
-<br clear="all" />
-
-<h2>Roma Komarov Examines CSS Working Group Decision on Element Cursors</h2>
-<a name="story-27549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-alpha.figma.com%2Fhub%2Ffile%2F2986295081%2F4dd6ac0d-6e5b-463b-8400-df2ace84dc09-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Roma Komarov analyzes a recent CSS Working Group resolution to adopt rules assigning a pointer cursor to interactive elements like buttons and form controls under a base appearance. He supports this direction, arguing that interactive elements should clearly communicate their state rather than defaulting to standard pointing arrows.</p><p>Reflecting on his decade-long advocacy for consistent cursor behavior, Komarov addresses counterarguments about traditional operating system design by noting that modern desktop applications frequently use pointer cursors for interactive items. He concludes that the web ecosystem would benefit from a broader and more communicative range of cursor states.</p>
-<p>Nov 15 · <a href="https://blog.kizu.dev/cursors/">blog.kizu.dev</a> | <a href="https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons">lobsters</a></p>
 <br clear="all" />
 
 ---

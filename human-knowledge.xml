@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-17T13:43:00+00:00</updated>
+  <updated>2026-11-17T16:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Study Finds Global Lakes Increasingly Syncing in Ecological Conditions</title>
+    <link href="https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/" rel="alternate" />
+    <id>https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/::v240</id>
+    <published>2026-11-17T16:33:00+00:00</published>
+    <updated>2026-11-17T16:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-b9492289-de87-4b14-b576-4b07b84a1444-1-1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/">404media.co</a> | <a href="https://www.pnas.org/doi/10.1073/pnas.2611874123">pnas.org</a></small></p><hr/><p>Researchers analyzing satellite imagery of roughly 2,000 lakes and sedimentary records over the past century have found that lake ecosystems worldwide are increasingly synchronizing in conditions such as temperature, water transparency, and chlorophyll levels. Published in the Proceedings of the National Academy of Sciences, the study indicates a profound global shift where lakes are transitioning from a diverse patchwork of environments into an interwoven system.</p><p>This planetary-scale ecological coupling erodes the spatial heterogeneity that historically buffered local environments against disruptions, increasing vulnerability to heatwaves, droughts, and synchronized ecosystem collapses. Because lakes play a disproportionate role in global carbon burial, greenhouse gas emissions, and biodiversity, scientists argue that management approaches must shift from isolated local strategies to coordinated national and global efforts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-b9492289-de87-4b14-b576-4b07b84a1444-1-1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 21:51 UTC | #27765</small>]]></content>
+  </entry>
   <entry>
     <title>Zheng Kuang Study Links Gut Bacteria and Meal Timing to Circadian Rhythms</title>
     <link href="https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323" rel="alternate" />
@@ -176,14 +185,5 @@
     <updated>2026-11-12T06:56:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHRtN0dGbsAEUJHV%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/">wired.com</a></small></p><hr/><p>Radical Numerics has released Omnii Defense, an edge-computing model designed to detect natural and AI-engineered pathogens. The system operates on a laptop with a USB gene sequencer and functions without an internet connection, enabling use in remote locations. The model assigns a "threat score" to genetic sequences based on predicted biological functions and the likelihood of unnatural modification.</p><p>Unlike traditional tools that rely on exact sequence matches, Omnii Defense uses AI to recognize functional patterns in DNA, RNA, and proteins, allowing it to identify threats even when genetic structures have been significantly altered. In testing, the model successfully flagged pathogenic signals even when the specific species and genus were removed from its training data. The company is currently working with government agencies and national laboratories to evaluate the tool.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHRtN0dGbsAEUJHV%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 13:59 UTC | #27244</small>]]></content>
-  </entry>
-  <entry>
-    <title>Pietro Miotti's AI Agents Rediscover Maya Site Using NASA Lidar Data</title>
-    <link href="https://pietromiotti.com/latest/maya-site" rel="alternate" />
-    <id>https://pietromiotti.com/latest/maya-site::v240</id>
-    <published>2026-11-12T03:16:00+00:00</published>
-    <updated>2026-11-12T03:16:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fapartmentseo.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fshutterstock_2253228203.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://pietromiotti.com/latest/maya-site">pietromiotti.com</a> | <a href="https://news.ycombinator.com/item?id=50452455">hacker news</a></small></p><hr/><p>Technologist and traveler Pietro Miotti deployed a network of AI agents to analyze NASA lidar data of Mexican jungles, resulting in the rediscovery of an unmapped Classic-period Maya civic center within 72 hours. The agents processed approximately 1,200 square kilometers of jungle canopy data to identify structured anomalies, flagging a clifftop site featuring a plaza, a pyramid, a courtyard, and a potential reservoir.</p><p>After Miotti submitted a formal report detailing the findings to Mexico’s National Institute of Anthropology and History, officials confirmed the coordinates did not match their active register, though subsequent literature checks revealed professional archaeologists had independently mapped the same location. Miotti notes the exercise demonstrates how autonomous agents can lower barriers to geographic and archaeological exploration by automating visual analysis of remote survey data.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fapartmentseo.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fshutterstock_2253228203.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 08:30 UTC | #27248</small>]]></content>
   </entry>
 </feed>

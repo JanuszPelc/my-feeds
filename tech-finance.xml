@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-17T16:11:00+00:00</updated>
+  <updated>2026-11-17T16:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Model ML Raises $250 Million at $1.5 Billion Valuation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value::v240</id>
+    <published>2026-11-17T16:17:00+00:00</published>
+    <updated>2026-11-17T16:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fyoung-beautiful-fashion-model-21622085.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value">bloomberg.com</a></small></p><hr/><p>Model ML has raised $250 million in a funding round valuing the artificial intelligence startup at $1.5 billion. The company develops AI agents integrated into Excel and PowerPoint to automate pitch decks, research, and due diligence tasks for financial professionals.</p><p>Founded by Chaz and Arnie Englander, Model ML focuses on streamlining routine workflows for bankers, consultants, and investors. The substantial financing highlights continued investor backing for vertical AI tools targeting enterprise productivity and financial services.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fyoung-beautiful-fashion-model-21622085.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 21:42 UTC | #27715</small>]]></content>
+  </entry>
   <entry>
     <title>JD.com Reports Third-Quarter Revenue and Net Income Growth</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-17/jd-com-sales-rise-in-face-of-sluggish-china-economy-competition" rel="alternate" />

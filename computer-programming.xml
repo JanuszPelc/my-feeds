@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-17T16:14:00+00:00</updated>
+  <updated>2026-11-17T16:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>GaryOderNichts Fixes Wii U Wii Mode Graphics Issues via OpenDMCUFirm</title>
+    <link href="https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html" rel="alternate" />
+    <id>https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html::v240</id>
+    <published>2026-11-17T16:19:00+00:00</published>
+    <updated>2026-11-17T16:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgddutNwjGyoPAqVySy66feWh7iohqv11w75McVPWIoAW49DaClcX26EhS-ULyPcYmLRoOySk_6BUjpls-O_qcAzf2qrrxyG9sjFrFxvz0yUbd5r0kh-7rAaXDxWnSwwaV-FfKwkXyikJpF-w-IaoGLmwWYlQzrVHadty8c4DZzAjmZUupxrFxXS9ReUjo%2Fs1280%2Fbefore.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html">garyodernichts.blogspot.com</a> | <a href="https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode">lobsters</a></small></p><hr/><p>Software developer and reverse engineer garyodernichts has identified and resolved longstanding graphical defects in the Wii U's backwards-compatible Wii Mode, commonly known as vWii. The fixes address persistent issues with forced overscan cropping and chroma color bleeding that have affected Wii games running on the console via HDMI since 2013.</p><p>By reverse-engineering the Wii U's Display Microcontroller Unit (DMCU)—an M68HC11-compatible chip also utilized in AMD graphics cards—the researcher discovered that firmware typos trapped display update events in an infinite retrigger loop and inverted color channel logic. These findings have been compiled into OpenDMCUFirm, an open-source replacement firmware that corrects the firmware logic and restores proper visual output for Wii titles.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgddutNwjGyoPAqVySy66feWh7iohqv11w75McVPWIoAW49DaClcX26EhS-ULyPcYmLRoOySk_6BUjpls-O_qcAzf2qrrxyG9sjFrFxvz0yUbd5r0kh-7rAaXDxWnSwwaV-FfKwkXyikJpF-w-IaoGLmwWYlQzrVHadty8c4DZzAjmZUupxrFxXS9ReUjo%2Fs1280%2Fbefore.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 21:50 UTC | #27809</small>]]></content>
+  </entry>
   <entry>
     <title>BugMeNot Credential-Sharing Service Closes</title>
     <link href="https://www.bugmenot.com/" rel="alternate" />
