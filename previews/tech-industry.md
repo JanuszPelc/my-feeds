@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Announces Rubin HPC GPU With Over 50,000 CUDA Cores</h2>
+<a name="story-27691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2026%2F07%2Frubin-gpu-moe-descriptor-sharing-1-1024x353.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia announced its Rubin HPC GPU at the Supercomputing 2026 conference, featuring a record-breaking count of more than 50,000 CUDA cores. Slated for release in 2028, the new chip is part of the Vera Rubin platform and targets advanced high-performance computing environments.</p><p>The processor is specifically designed to accelerate agentic workflows and simulations for scientific, engineering, and analytical data sets. The architecture is expected to utilize a multi-die configuration linked via NVLink-C2C to achieve its high core density and processing capability.</p>
+<p>Nov 17 · <a href="https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028">tomshardware.com</a> | <a href="https://blogs.nvidia.com/blog/rubin-hpc/">blogs.nvidia.com</a> | <a href="https://www.reddit.com/r/hardware/comments/1xxvlvx/nvidia_announces_rubin_hpc_a_new_gpu_to/">r/hardware</a></p>
+<br clear="all" />
+
 <h2>Meta Tests Direct Standalone Messaging App for Instagram</h2>
 <a name="story-27694"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmeta-is-testing-direct-a-standalone-messaging-app-for-instagram%2Fintro-1794862378.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has begun testing a standalone messaging application called Direct, which separates Instagram's inbox into a dedicated app currently available in Thailand and Turkey. The application mirrors many layout and personalization elements of Instagram's existing direct messaging feature, including custom chat backgrounds and status updates.</p><p>Unlike the main Instagram application, Direct does not require a pre-existing Instagram account for users to sign up, allowing registration via email or phone number, though users without an Instagram profile must manually add contacts. The app also incorporates safety restrictions that prevent messaging unconnected accounts, alongside parental controls and automated tools to monitor teen interactions.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>SK Hynix and South Korean Government Plan $654 Million Chip Testing Facility</h2>
 <p>SK Hynix and the South Korean government are partnering to construct Trinity Fab, a $654 million chip testing facility designed to allow smaller suppliers to test products on 12-inch wafers.</p><p>The initiative aims to strengthen the domestic semiconductor ecosystem by providing smaller local players with access to advanced testing infrastructure that is often cost-prohibitive. The facility is expected to enhance South Korea's overall competitiveness in the global chip manufacturing sector.</p>
 <p>Nov 16 · <a href="https://www.bloomberg.com/news/articles/2026-11-16/sk-hynix-plans-chip-testing-hub-to-boost-smaller-korean-players">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>SK Hynix Plans $1.05 Billion Investment to Support Domestic Chip Suppliers</h2>
-<a name="story-27576"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.brookings.edu%2Fwp-content%2Fuploads%2F2022%2F04%2F2022-03-30T093652Z_1260996976_RC2ZQS9SMX6H_RTRMADP_3_SK-HYNIX-INVESTMENT-ARM.jpg%3Fquality%3D75%26w%3D1500&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>South Korean chipmaker SK Hynix announced plans to spend 1.4 trillion won, equivalent to approximately $1.05 billion, over a five-year period to support domestic suppliers of chip materials, parts, and equipment. The initiative is designed to strengthen the company's domestic supply chain.</p><p>The investment underscores ongoing efforts by major semiconductor manufacturers to bolster local supplier ecosystems and enhance supply chain resilience amid global market shifts and increasing demand for advanced memory chips.</p>
-<p>Nov 16 · <a href="https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/">reuters.com</a></p>
 <br clear="all" />
 
 ---
