@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-17T16:26:00+00:00</updated>
+  <updated>2026-11-17T17:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Watch's Siri Recap and Live Rewind Beta Features Face Accuracy and Privacy Concerns</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value::v240</id>
+    <published>2026-11-17T17:37:00+00:00</published>
+    <updated>2026-11-17T17:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.iclarified.com%2Fimages%2Fnews%2F103269%2F489699%2F489699-640.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value">bloomberg.com</a></small></p><hr/><p>Apple's Siri Recap and Live Rewind beta features for the Apple Watch provide inaccurate conversation summaries and fail to justify the privacy risks of their "always-listening" design. Siri Recap generates high-level notes from daily conversations and stores them in a Siri AI app, while Live Rewind allows users to access a transcript of the previous 15 seconds of audio by double-pressing the digital crown.</p><p>The tools currently underperform compared to competitors such as Amazon Bee, Granola, and Otter. Additionally, the continuous audio monitoring required for these features has drawn scrutiny from legal experts regarding potential violations of eavesdropping laws in several jurisdictions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.iclarified.com%2Fimages%2Fnews%2F103269%2F489699%2F489699-640.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 23:14 UTC | #27726</small>]]></content>
+  </entry>
   <entry>
     <title>AI Regulation Could Benefit from Safety Frameworks Used in High-Hazard Industries</title>
     <link href="https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475" rel="alternate" />

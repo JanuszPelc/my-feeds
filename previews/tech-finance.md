@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Pedestal AI Raises $4.7 Million for Supply Chain AI Agents</h2>
+<a name="story-27784"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.boonsoftware.com%2Fwp-content%2Fuploads%2F2026%2F05%2FArticle-blog-agentic-AI-logistics-1024x683.jpg.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pedestal AI has emerged from stealth with $4.7 million in seed funding to develop agentic AI for supply chain optimization. The seed round was led by Eclipse, with participation from RRE, Converge VC, Timescale Ventures, and VitalStage.</p><p>The company uses AI agents to automate tasks like customer communication, an application that reportedly reduced missed deliveries for a furniture company by 20%. The system is designed to integrate with legacy logistics systems to manage messy, disparate data and improve delivery reliability.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Model ML Raises $250 Million at $1.5 Billion Valuation</h2>
 <a name="story-27715"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fyoung-beautiful-fashion-model-21622085.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Model ML has raised $250 million in a funding round valuing the artificial intelligence startup at $1.5 billion. The company develops AI agents integrated into Excel and PowerPoint to automate pitch decks, research, and due diligence tasks for financial professionals.</p><p>Founded by Chaz and Arnie Englander, Model ML focuses on streamlining routine workflows for bankers, consultants, and investors. The substantial financing highlights continued investor backing for vertical AI tools targeting enterprise productivity and financial services.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbusinessreviewlive.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAIEnhancer_Untitled-design-36.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Founded by former Freshworks executives, the San Francisco-based startup Dreamteam has raised $53 million in seed and Series A funding to build an AI-native customer relationship management (CRM) platform. The rounds were led by Together Fund and Accel, respectively, with participation from Premji Invest. The company aims to compete with Salesforce and HubSpot by using AI agents to automate manual tasks such as follow-ups, meeting preparation, and pipeline monitoring.</p><p>The platform utilizes a "Company Brain" to aggregate context from emails and customer conversations, creating a shared record of client relationships to reduce manual data entry. In the three months since beginning active sales, Dreamteam has signed over 100 customers across 13 countries. The startup also plans to expand its functionality into customer onboarding, support, and upselling.</p>
 <p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/">techcrunch.com</a> | <a href="https://www.dreamteam.ai/">dreamteam.ai</a></p>
-<br clear="all" />
-
-<h2>Sumary Raises $25 Million Seed Round to Expand AI Accounting Software</h2>
-<a name="story-27594"><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdfn2h3yx4%2Fimage%2Fupload%2Fv1794319776%2Frbtke0yovl8c25lbn4og.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sumary has secured $25 million in a seed funding round led by Singular, bringing its total funding to $29.2 million. The Copenhagen-based company provides AI software designed to automate accounting workflows, including monthly closes, VAT returns, and year-end processes. Existing investors byFounders, Partech, and Tenity also participated in the round.</p><p>The company is relocating its commercial operations to London to facilitate expansion into the UK and European markets. Sumary's tools aim to assist existing accounting firms by reducing manual workloads; the company reports that users can reduce the time spent on VAT returns by 75%. Current clients include Deloitte, Grant Thornton, and Baker Tilly.</p>
-<p>Nov 16 · <a href="https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms/">techfundingnews.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Apple Watch&#x27;s Siri Recap and Live Rewind Beta Features Face Accuracy and Privacy Concerns</h2>
+<a name="story-27726"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.iclarified.com%2Fimages%2Fnews%2F103269%2F489699%2F489699-640.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple's Siri Recap and Live Rewind beta features for the Apple Watch provide inaccurate conversation summaries and fail to justify the privacy risks of their "always-listening" design. Siri Recap generates high-level notes from daily conversations and stores them in a Siri AI app, while Live Rewind allows users to access a transcript of the previous 15 seconds of audio by double-pressing the digital crown.</p><p>The tools currently underperform compared to competitors such as Amazon Bee, Granola, and Otter. Additionally, the continuous audio monitoring required for these features has drawn scrutiny from legal experts regarding potential violations of eavesdropping laws in several jurisdictions.</p>
+<p>Nov 17 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>AI Regulation Could Benefit from Safety Frameworks Used in High-Hazard Industries</h2>
 <a name="story-27772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770360%2Foriginal%2Ffile-20261105-64-ft00t4.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI regulation faces significant challenges due to the increasing complexity and autonomy of AI agents. In highly interconnected systems, the interaction of multiple components can trigger unpredictable, cascading failures—a phenomenon known as "normal accidents"—that may occur too rapidly for human intervention.</p><p>Adopting frameworks from high-reliability industries like aviation and nuclear power could help manage these risks. By focusing on organizational safety cultures, continuous learning from near misses, and robust assurance infrastructures, regulators can move beyond one-off technical tests toward a more resilient governance model.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27560"><img src="https://wsrv.nl/?url=https%3A%2F%2Falicecwhuang.github.io%2Fimg%2Fprofile.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Singapore-based cloud computing company Megaspeed International announced an internal investigation led by outside lawyers amid ongoing fallout surrounding Chinese businesswoman Alice Huang. The company stated that Huang left her role in August 2025 and currently holds no position within the organization.</p><p>Megaspeed has faced scrutiny from U.S. and Singapore authorities over allegations that it circumvented export restrictions to route advanced Nvidia chips to Chinese companies. The scrutiny and reports regarding Huang's relationship with former Nvidia CEO Jensen Huang previously prompted his resignation, while U.S. and Singapore officials continue examining compliance and security matters.</p>
 <p>Nov 15 · <a href="https://apnews.com/article/singapore-megaspeed-alice-huang-nvidia-probe-e9e2e18169dce0b30a34f39715bf35ed">apnews.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Sought Taipei&#x27;s Help Over Employee&#x27;s Chip Smuggling Case</h2>
-<a name="story-27557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F14%2Fmultimedia%2F14dc-lutnick-commerce-01-bqtl%2F14dc-lutnick-commerce-01-bqtl-facebookJumbo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia Corp. appealed to Taiwanese officials and sought advice from TSMC after prosecutors accused a company manager of helping smuggle advanced artificial intelligence chips into China. TSMC ultimately declined to get involved in the matter, leaving Nvidia to navigate the legal and diplomatic fallout independently.</p><p>The development underscores the intense regulatory and geopolitical scrutiny surrounding the illicit transfer of restricted semiconductor technology to China. Taiwan remains a critical focal point for export controls, given its central role in global chip manufacturing and the strict enforcement measures adopted by authorities against unauthorized transshipments.</p>
-<p>Nov 15 · <a href="https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
