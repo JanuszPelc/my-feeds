@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Metric Halo Releases MB Angus 404 Graphic EQ Plugin</h2>
+<a name="story-27717"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fangus404.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Metric Halo and Make Believe have released the MB Angus 404, an eight-band graphic EQ plugin that models the original Aengus 404 hardware from the 1970s. The software replicates the harmonic color and unique band interactions characteristic of the original studio units.</p><p>Operating with eight stepped bands from 50 Hz to 10 kHz, the plugin allows for adjustments between -12 and +15 dB. It supports L/R, Mono, and M/S channel modes, includes drive-based saturation, and is available for macOS and Windows in VST2, VST3, AU, and AAX formats.</p>
+<p>Nov 17 · <a href="https://www.kvraudio.com/news/metric-halo-releases-mb-angus-404---eight-band-graphic-eq-plugin-69892?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69892">kvraudio.com</a> | <a href="https://mhsecure.com/products/software/Angus404/">mhsecure.com</a></p>
+<br clear="all" />
+
 <h2>Bremmers Audio Design Updates MultitrackStudio for iPad to v5.4.2</h2>
 <a name="story-27711"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmultitrackstudio_ipad.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bremmers Audio Design has released version 5.4.2 of MultitrackStudio for iPad, introducing several updates focused on MIDI recording and file export workflows. The latest version adds a file type selector in the Export MIDI Tracks window to choose between standard MIDI files and MIDI 2.0 formats.</p><p>Additional improvements include better handling of overlapping notes during MIDI recording and the preservation of controllers, RPNs, and per-note controllers at track starts. The update also adds a new Sticks sound to the built-in drum instruments, updates pedal controller editors to be vertically flipped, and ensures that MIDI controllers for drawbars, filters, and resonance affect actively playing notes.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27629"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fsoundtrap-edu-blog.appspot.com%2F1%2F2023%2F03%2FSampler-LP-1920x1080-1-2400x740.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Soundtrap partnered with Arturia as it rolled out VST instrument support, offering Soundtrap users free 30-day access to Arturia’s Pigments synthesizer and Efx MOTIONS effect.</p><p>The offer is available through Soundtrap’s studio, while the supplied article provides no further details because its content is blocked by a security-verification page.</p>
 <p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/soundtrap-arturia-partnership/">bedroomproducersblog.com</a></p>
-<br clear="all" />
-
-<h2>Tone Empire Offers OptoRED Optical Compressor for Free</h2>
-<a name="story-27631"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdTWjLwfWBc4%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tone Empire is offering its OptoRED optical compressor plugin for free using the coupon code optobf26. The software, which normally retails for $79, is compatible with macOS and Windows and supports VST3, AU, and AAX formats.</p><p>The plugin models a classic American optical compressor designed for transparent processing on vocals, bass, drums, and other instruments. Features include a redesigned interface, sidechain high-pass filtering, a Wet/Dry control for parallel compression, and 101 factory presets.</p>
-<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/tone-empire-optored-black-friday/">bedroomproducersblog.com</a> | <a href="https://tone-empire.com/shop/optored/">tone-empire.com</a></p>
 <br clear="all" />
 
 ---
