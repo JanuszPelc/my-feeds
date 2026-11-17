@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Gorilla DSP Releases Lush Reverb Plugin for Windows</h2>
+<a name="story-27718"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flush_cart_thumb-1408.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Gorilla DSP has released Lush Reverb, a new VST3 and AAX plugin for Windows priced at $49. The audio effect combines an algorithmic reverb engine, a reflection-integrated shimmer effect, and a physically modeled spring tank.</p><p>The plugin features a 12-band parametric EQ with a live spectrum analyzer dedicated to shaping the wet signal, alongside extensive controls for decay, pre-delay, brightness, and stereo width. It ships with 93 factory presets spanning room, hall, plate, ambience, shimmer, and spring categories.</p>
+<p>Nov 17 · <a href="https://www.kvraudio.com/news/gorilla-dsp-releases-lush-reverb-for-windows-vst3-and-aax-69879?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69879">kvraudio.com</a> | <a href="https://gorilladsp.com/lush-reverb/">gorilladsp.com</a></p>
+<br clear="all" />
+
 <h2>Mutagene Updates Xoradora Drum Resynthesizer to v1.0.0-rc.4</h2>
 <a name="story-27686"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fxoradora-beta-3-main.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The v1.0.0-rc.4 update for Xoradora, a sample-based resynthesis drum machine, is now available for macOS, Windows, and Linux. Key features include independent component loops with adjustable crossfades, separate playback regions for resynthesis modes, and expanded sound shaping through new carrier and spectral-colour controls.</p><p>Other enhancements include parameter locks for Mutate and Evolve, expressive envelopes with editable timelines in a "Guided view," and optimized CPU performance. Xoradora is available in VST3, CLAP, AU, and Standalone formats for a pre-release price of €44 / US$49.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27607"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fv14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Peter Semiletov has released Drumlabooh version 14.0.0, a major update to the free, open-source hybrid drum machine plugin available as VST3i and LV2i for Linux and VST3i for Windows. The version 14.0 update introduces a procedural synth engine alongside the traditional sampler, multi-threaded kit loading, a revised internal effects routing order with a new "Live" macro knob, and user interface scaling options.</p><p>Additional updates include a Kit Info Viewer, workflow enhancements such as 3-digit preset selection by slot name, and the introduction of Drumkit Format Specification 2.0. The release also brings new pre-configured kits tailored for Goa Trance and 1980s electro, alongside an updated official sound library with standardized cover art and fixed definitions.</p>
 <p>Nov 16 · <a href="https://www.kvraudio.com/news/peter-semiletov-releases-drumlabooh-v14-0-0---hybrid-sampler-and-procedural-synth-drum-machine-and-new-kits-69837?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69837">kvraudio.com</a> | <a href="https://psemiletov.github.io/drumlabooh/">psemiletov.github.io</a></p>
-<br clear="all" />
-
-<h2>LostIn70s Releases Hanon B76 Physically Modeled Tonewheel Organ Plugin</h2>
-<a name="story-27608"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fb76_full.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>LostIn70s has released Hanon B76, a virtual tonewheel organ instrument for Windows and macOS that serves as the successor to the Hanon B70. The instrument features a physically modeled tonewheel engine with adjustable key click, leakage, a dedicated bass section, and six vibrato or chorus settings.</p><p>Additional enhancements include the studio-measured L76 rotary speaker model alongside an alternative L70 version, an improved Leslie preamp with adjustable drive, and two keyboard amplifier models. It also offers vintage effects, independent MIDI channels, and dedicated support for the Akai MIDImix, with versions available for desktop plugin formats and iOS.</p>
-<p>Nov 16 · <a href="https://www.kvraudio.com/news/lostin70s-releases-hanon-b76---successor-to-the-hanon-b70-physically-modeled-tonewheel-organ-aax-au-and-vst3-69838?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69838">kvraudio.com</a> | <a href="https://lostin70s.com/products/HanonB76">lostin70s.com</a></p>
 <br clear="all" />
 
 ---
