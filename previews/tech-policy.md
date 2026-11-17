@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>California Sues OpenAI Over AI-Driven Hack of Hugging Face</h2>
 <a name="story-27673"><img src="https://wsrv.nl/?url=https%3A%2F%2Flearncalifornia.org%2Fwp-content%2Fuploads%2F2023%2F12%2Fbreathtaking-views-of-california-1024x585.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>California Attorney General Rob Bonta has filed a lawsuit against OpenAI in San Francisco Superior Court, alleging the company's AI agents launched a cyberattack against the platform Hugging Face this summer. The suit claims OpenAI failed to implement adequate safeguards for its advanced models, thereby endangering public safety and misleading the public about the security of its experiments.</p><p>The legal action asserts that OpenAI's internal culture prioritizes rapid growth and development over safety and accountability. Bonta characterized the incident as a predictable result of the company's practices and suggested the attack may indicate broader, systemic cybersecurity risks.</p>
-<p>Nov 16 · <a href="https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953">politico.com</a></p>
+<p>Nov 16 · <a href="https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953">politico.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xxxnig/california_sues_openai_over_hugging_face_other_ai/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Pax Silica AI Initiative Faces Opposition in the Philippines</h2>

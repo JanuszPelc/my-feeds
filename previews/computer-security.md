@@ -8,10 +8,16 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>United Airlines Resolves System Outage That Affected Departing Flights</h2>
+<a name="story-27702"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthejasminebrand.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3814.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>United Airlines experienced a widespread technology outage on Monday that briefly delayed outbound flight departures at U.S. airports. The carrier stated that the issue affected pilot-facing applications and prevented the provision of final weights for outbound flights, though flights already in the air and regional United Express services remained unaffected.</p><p>A spokesperson noted there was no indication that the incident was a cyberattack. The short-lived disruption occurred just days after a rare, unrelated nationwide Federal Aviation Administration ground stop snarled travel across the country over the weekend.</p>
+<p>Nov 17 · <a href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html">cnbc.com</a></p>
+<br clear="all" />
+
 <h2>Major US Banks Experience Online Account Outages</h2>
 <a name="story-27680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnowworld.com%2Fthumb%2Fmsid-154516422%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F154516422.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Customers at several major U.S. banks, including Chase, Wells Fargo, Bank of America, U.S. Bank, and Truist, reported difficulty accessing online accounts on Monday. Chase Bank characterized the disruption as a technical bug rather than a cyberattack, stating that some transactions are delayed but accounts and funds remain accessible.</p><p>U.S. Bank noted that clients might experience delays with Zelle payments sent to other financial institutions. The outage follows a recent Microsoft service disruption that impacted Outlook, Teams, and Copilot.</p>
-<p>Nov 16 · <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">apnews.com</a> | <a href="https://news.ycombinator.com/item?id=50521045">hacker news</a></p>
+<p>Nov 16 · <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">apnews.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1xy6jl2/customers_at_some_of_the_nations_largest_banks/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50521045">hacker news</a></p>
 <br clear="all" />
 
 <h2>Anthropic Shortens Coordinated Vulnerability Disclosure Timelines</h2>
@@ -29,7 +35,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Microsoft Blames July Software Defect for Major Email Outage</h2>
 <a name="story-27622"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fimages%2Fnews%2Fu%2F1109292%2F2023%2FEX546390.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A software defect introduced during a July 2026 update caused a massive outage of Exchange Online and other Microsoft 365 services, according to a preliminary post-incident report. The defect triggered resource exhaustion via lock contention in an internal Windows process on network gateway servers. This instability was prompted when a load surge from a Teams failover occurred simultaneously with a 14 percent reduction in server capacity.</p><p>The event resulted in a cascading failure that left more than 80 percent of servers unresponsive at its peak. Because the code had been in production for months, engineers were unable to perform a standard rollback and instead had to develop a new patch to revert the code path to a known good state. The service disruption lasted from November 12 to November 14, 2026.</p>
-<p>Nov 16 · <a href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026">theregister.com</a> | <a href="https://news.ycombinator.com/item?id=50517321">hacker news</a></p>
+<p>Nov 16 · <a href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026">theregister.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xxq97u/microsoft_blames_monster_email_outage_on_software/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50517321">hacker news</a></p>
 <br clear="all" />
 
 <h2>Archive of Our Own Restored After More Than Two Weeks Offline</h2>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.crissyfield.de%2Fimages%2Fresearch-lovable-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researchers at Crissyfield analyzed nearly 160,000 projects built on the AI app development platform Lovable and discovered widespread data exposure. Focusing on integrations with the Supabase database service, the investigation found that thousands of applications allowed unauthenticated access to sensitive records, including personal information, chat messages, and internal documents.</p><p>Out of roughly 34,500 projects using Supabase, more than 24,000 loaded database records without requiring a login, and additional testing revealed email addresses and other confidential data in thousands of those applications. The exposed content included lifestyle forum profiles, ticket sales records, property management summaries, and identity document details. The findings highlight that while AI platforms simplify software creation, customers remain responsible for proper access control configuration and professional security reviews.</p>
 <p>Nov 14 · <a href="https://www.crissyfield.de/research/lovable-en/">crissyfield.de</a> | <a href="https://news.ycombinator.com/item?id=50499017">hacker news</a></p>
-<br clear="all" />
-
-<h2>Microsoft 365 Services Fully Restored Following Global Outage</h2>
-<a name="story-27481"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd-pa.ppstatic.pl%2Fframes%2Fpa-def%2F53%2F4d%2F26111008c1_978298233_original.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft announced that all Microsoft 365 products have returned to operational status, successfully concluding a major service disruption that affected businesses, governments, hospitals, and financial traders worldwide.</p><p>The widespread outage ranks among the longest disruptions in the platform's history, highlighting the deep reliance of global critical infrastructure on cloud-based productivity software.</p>
-<p>Nov 14 · <a href="https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

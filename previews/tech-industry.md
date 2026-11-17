@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Nvidia Board Not Considering Reinstatement of Jensen Huang as CEO</h2>
 <a name="story-27669"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia's board is currently not entertaining the possibility of bringing Jensen Huang back as CEO, according to a source familiar with the matter. The board is focused on an investigation led by law firm Wachtell Lipton into Huang's conduct and whether his actions compromised company secrets or national security.</p><p>Huang resigned from the company after 33 years as CEO following reports of extramarital affairs, including one involving an individual with alleged ties to Chinese intelligence. While an online petition for his return has garnered 180,000 signatures and support from several industry leaders, Nvidia is moving forward with selecting a search firm to fill the CEO role.</p>
-<p>Nov 16 · <a href="https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html">cnbc.com</a> | <a href="https://news.ycombinator.com/item?id=50520501">hacker news</a></p>
+<p>Nov 16 · <a href="https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html">cnbc.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xxxj3n/nvidia_board_is_not_considering_bringing_jensen/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50520501">hacker news</a></p>
 <br clear="all" />
 
 <h2>Noeri Raises $110 Million to Develop AI Model Optimization Software</h2>
