@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Ocean Swift Releases Free DevOcean Player with Instruments and Effects</h2>
+<a name="story-27712"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-card-1---devocean-player-3840x2160.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ocean Swift has launched the DevOcean Player, a free software instrument and effect player for its DevOcean Modular platform. Available in standalone, VST3, and AU formats, the release ships with more than sixty built-in instruments and effects spanning synthesizers, keys, drums, and processors, along with a dedicated DevOcean Player FX plugin for processing individual tracks.</p><p>The platform includes over two thousand NKS-compatible presets with audio previews and supports up to 64 assignable macros per module for DAW automation and hardware control. Alongside the core software, Ocean Swift is offering six additional free modules on its website and discounting its premium instruments by 40% during a launch window, including a bundled Founders Collection containing fifteen modules.</p>
+<p>Nov 17 · <a href="https://www.kvraudio.com/news/ocean-swift-releases-free-devocean-player-with-more-than-60-instruments-and-effects-au-and-vst3-69885?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69885">kvraudio.com</a> | <a href="https://oceanswift.net/product/devocean/">oceanswift.net</a></p>
+<br clear="all" />
+
 <h2>Gorilla DSP Releases Lush Reverb Plugin for Windows</h2>
 <a name="story-27718"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flush_cart_thumb-1408.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Gorilla DSP has released Lush Reverb, a new VST3 and AAX plugin for Windows priced at $49. The audio effect combines an algorithmic reverb engine, a reflection-integrated shimmer effect, and a physically modeled spring tank.</p><p>The plugin features a 12-band parametric EQ with a live spectrum analyzer dedicated to shaping the wet signal, alongside extensive controls for decay, pre-delay, brightness, and stereo width. It ships with 93 factory presets spanning room, hall, plate, ambience, shimmer, and spring categories.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27624"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffl-raw-002.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audiomodern has released Filterstep 2, an updated version of its free creative motion filter plugin designed for Windows, macOS, and iOS. The software introduces new sequencing modes, pattern generation algorithms, and custom filter shapes to transform audio loops into rhythmic pulses and stereo movements.</p><p>The update incorporates five new effect engines—Density, Drive, Crush, Comb, and Lo-Fi—which can be positioned before or after the filter and linked directly to individual steps. Filterstep 2 is available as a free download in AAX, AU, and VST3 formats for desktop systems, with an iOS release scheduled for the App Store.</p>
 <p>Nov 16 · <a href="https://www.kvraudio.com/news/audiomodern-releases-free-filterstep-2-with-new-sequencing-modes-and-creative-effects-69851?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69851">kvraudio.com</a> | <a href="https://audiomodern.com/shop/plugins/filterstep/">audiomodern.com</a></p>
-<br clear="all" />
-
-<h2>Peter Semiletov Releases Drumlabooh v14.0.0 Hybrid Drum Machine Plugin</h2>
-<a name="story-27607"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fv14.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Peter Semiletov has released Drumlabooh version 14.0.0, a major update to the free, open-source hybrid drum machine plugin available as VST3i and LV2i for Linux and VST3i for Windows. The version 14.0 update introduces a procedural synth engine alongside the traditional sampler, multi-threaded kit loading, a revised internal effects routing order with a new "Live" macro knob, and user interface scaling options.</p><p>Additional updates include a Kit Info Viewer, workflow enhancements such as 3-digit preset selection by slot name, and the introduction of Drumkit Format Specification 2.0. The release also brings new pre-configured kits tailored for Goa Trance and 1980s electro, alongside an updated official sound library with standardized cover art and fixed definitions.</p>
-<p>Nov 16 · <a href="https://www.kvraudio.com/news/peter-semiletov-releases-drumlabooh-v14-0-0---hybrid-sampler-and-procedural-synth-drum-machine-and-new-kits-69837?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69837">kvraudio.com</a> | <a href="https://psemiletov.github.io/drumlabooh/">psemiletov.github.io</a></p>
 <br clear="all" />
 
 ---

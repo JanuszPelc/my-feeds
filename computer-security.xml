@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>w2rt6byl5nf1opmc-a.com Ranks Eighth in Majestic Million Despite Failing to Resolve</title>
+    <link href="https://jack.cab/blog/siterate" rel="alternate" />
+    <id>https://jack.cab/blog/siterate::v240</id>
+    <published>2026-11-17T03:42:00+00:00</published>
+    <updated>2026-11-17T03:42:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jack.cab/blog/siterate">jack.cab</a> | <a href="https://news.ycombinator.com/item?id=50517602">hacker news</a></small></p><hr/><p>The domain w2rt6byl5nf1opmc-a.com has appeared as the eighth most popular .com domain in the Majestic Million backlink index. Despite this high ranking, the domain does not resolve via DNS, and there is a significant discrepancy between the hundreds of millions of nofollow backlinks reported by Majestic and the minimal number of backlinks detected by other SEO tools.</p><p>The backlinks recorded by Majestic appear to have been generated before the domain was officially registered according to Certificate Transparency logs. This anomaly highlights potential inaccuracies in backlink metric aggregation or the existence of sophisticated link spam designed to manipulate SEO indices.</p><hr/><small>17 Nov 2026, 14:30 UTC | #27733</small>]]></content>
+  </entry>
+  <entry>
     <title>Malware Distributed to Major Websites via Optimizely Supply Chain Attack</title>
     <link href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/" rel="alternate" />
     <id>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/::v240</id>
