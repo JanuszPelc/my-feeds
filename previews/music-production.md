@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sylvia Massy Discusses Vintage Microphones and Recording Techniques on My Forever Studio Podcast</h2>
+<a name="story-27725"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsylvia-massy-mfs-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Grammy-winning producer Sylvia Massy discusses her experience recording for artists such as Prince and Tool, her collection of over 3,000 vintage microphones, and her new book, *The Great Book of Vintage Microphones*.</p><p>As part of the eighth season of the *My Forever Studio* podcast, Massy shares insights into her unconventional approach to sound capture and her use of esoteric microphones.</p>
+<p>Nov 17 · <a href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-sylvia-massy/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>Metric Halo Releases MB Angus 404 Graphic EQ Plugin</h2>
 <a name="story-27717"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fangus404.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Metric Halo and Make Believe have released the MB Angus 404, an eight-band graphic EQ plugin that models the original Aengus 404 hardware from the 1970s. The software replicates the harmonic color and unique band interactions characteristic of the original studio units.</p><p>Operating with eight stepped bands from 50 Hz to 10 kHz, the plugin allows for adjustments between -12 and +15 dB. It supports L/R, Mono, and M/S channel modes, includes drive-based saturation, and is available for macOS and Windows in VST2, VST3, AU, and AAX formats.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbW01limXAr8%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In Session Audio is offering Dyad: Solo Kalimba, a sampled kalimba virtual instrument for the free Kontakt Player, as a free download through November 25. Built using an instrument crafted from cedar and gourd by maker Greg Trimble, the library features over 800 samples across four plucking articulations with multiple round-robins.</p><p>The instrument operates on the Dyad Engine, utilizing paired sequencers for the left and right thumbs with controls for rhythm, swing, and humanization. It includes 100 editable patterns, MIDI export functionality, and layer options for drones and nature recordings alongside effects like drive, delay, and reverb.</p>
 <p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/dyal-solo-kalimba/">bedroomproducersblog.com</a> | <a href="https://insessionaudio.com/products/dyad-solo-kalimba/">insessionaudio.com</a></p>
-<br clear="all" />
-
-<h2>Soundtrap and Arturia Partner on 30-Day Pigments and Efx MOTIONS Offer</h2>
-<a name="story-27629"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fsoundtrap-edu-blog.appspot.com%2F1%2F2023%2F03%2FSampler-LP-1920x1080-1-2400x740.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Soundtrap partnered with Arturia as it rolled out VST instrument support, offering Soundtrap users free 30-day access to Arturia’s Pigments synthesizer and Efx MOTIONS effect.</p><p>The offer is available through Soundtrap’s studio, while the supplied article provides no further details because its content is blocked by a security-verification page.</p>
-<p>Nov 16 · <a href="https://bedroomproducersblog.com/2026/11/16/soundtrap-arturia-partnership/">bedroomproducersblog.com</a></p>
 <br clear="all" />
 
 ---

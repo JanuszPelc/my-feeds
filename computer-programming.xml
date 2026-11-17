@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-17T09:03:00+00:00</updated>
+  <updated>2026-11-17T11:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>How the Rust Programming Language Shapes Developer Thinking</title>
+    <link href="https://blog.startifact.com/posts/how-rust-changed-me/" rel="alternate" />
+    <id>https://blog.startifact.com/posts/how-rust-changed-me/::v240</id>
+    <published>2026-11-17T11:57:00+00:00</published>
+    <updated>2026-11-17T11:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.thoughtworks.com%2Fcontent%2Fdam%2Fthoughtworks%2Fimages%2Fphotography%2Finline-image%2Finsights%2Fblog%2Fprogramming-languages%2Fblg_inline_rust_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.startifact.com/posts/how-rust-changed-me/">blog.startifact.com</a> | <a href="https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50522563">hacker news</a></small></p><hr/><p>This essay examines how the Rust programming language influences software development mental models. The author discusses how Rust's specific features, such as sum types and the ownership model, require a shift in how developers approach architecture and problem-solving.</p><p>Key highlights include the efficiency of using enums for abstraction over dynamic dispatch and the ability of macros to perform compile-time tasks similar to runtime reflection. The author concludes that Rust's strictness regarding data mutation and ownership promotes more decoupled and maintainable codebases.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thoughtworks.com%2Fcontent%2Fdam%2Fthoughtworks%2Fimages%2Fphotography%2Finline-image%2Finsights%2Fblog%2Fprogramming-languages%2Fblg_inline_rust_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 18:07 UTC | #27776</small>]]></content>
+  </entry>
   <entry>
     <title>Aerogramme Improves IMAP Implementation Correctness and Reliability</title>
     <link href="https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/" rel="alternate" />

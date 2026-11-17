@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>How the Rust Programming Language Shapes Developer Thinking</h2>
+<a name="story-27776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thoughtworks.com%2Fcontent%2Fdam%2Fthoughtworks%2Fimages%2Fphotography%2Finline-image%2Finsights%2Fblog%2Fprogramming-languages%2Fblg_inline_rust_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>This essay examines how the Rust programming language influences software development mental models. The author discusses how Rust's specific features, such as sum types and the ownership model, require a shift in how developers approach architecture and problem-solving.</p><p>Key highlights include the efficiency of using enums for abstraction over dynamic dispatch and the ability of macros to perform compile-time tasks similar to runtime reflection. The author concludes that Rust's strictness regarding data mutation and ownership promotes more decoupled and maintainable codebases.</p>
+<p>Nov 17 · <a href="https://blog.startifact.com/posts/how-rust-changed-me/">blog.startifact.com</a> | <a href="https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50522563">hacker news</a></p>
+<br clear="all" />
+
 <h2>Aerogramme Improves IMAP Implementation Correctness and Reliability</h2>
 <a name="story-27748"><img src="https://wsrv.nl/?url=https%3A%2F%2Faerogramme.deuxfleurs.fr%2Fdocumentation%2Finternals%2Faero-schema.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The IMAP implementation in Aerogramme is being refined to improve the accuracy of fine-grained email retrieval and querying. By parsing emails into an Abstract Syntax Tree (AST) rather than treating them as simple files, the server can execute complex SEARCH and FETCH commands, effectively treating the mailbox as a database.</p><p>Development includes differential testing via `ImapTest` and property-based testing using the `eml-codec` library to address complex MIME encodings and edge cases. The architecture separates mailbox state, metadata, and email contents across Garage K2V and Garage S3 storage systems.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27545"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fanthropomorphic-software-lock-struggles-tangled-wires-presented-as-anthropomorphic-software-lock-struggles-tangled-396688394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software and command-line tools occasionally feature personified or first-person copy, a stylistic choice known as anthropomorphic software. Examples range from Git error messages and changelogs that speak in the first person to the Elm programming language's detailed conversational compiler errors and sudo's optional insult feature.</p><p>While mostly deployed for whimsy rather than functional user experience improvements, such playful phrasing contrasts with strict interface guidelines like Apple's, which advise against casual exclamation or personification in errors. Although large language models represent a more advanced iteration of conversational interaction, traditional utilities demonstrate a long-standing history of programmed personality.</p>
 <p>Nov 15 · <a href="https://aspiz.uk/wiki/AnthropomorphicSoftware">aspiz.uk</a> | <a href="https://lobste.rs/s/ofic7z/anthropomorphic_software">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50511485">hacker news</a></p>
-<br clear="all" />
-
-<h2>FreeBSD bhyve Live Migration Support Proposed in WIP RFC</h2>
-<a name="story-27544"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gyptazy.com%2Fimg%2Ffreebsd-bhyve-live-migration.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A new work-in-progress request for comments outlines the first working implementation of live virtual machine migration for bhyve on FreeBSD 15.1. Developed to support clustered platforms like Sylve and BoxyBSD, the system enables running amd64 guests to move between hosts over TCP with minimal downtime during a final stop-and-copy phase.</p><p>The implementation combines bhyve's experimental snapshot support with new dirty-page tracking in the vmm kernel module and a migration protocol managed via bhyvectl. While initial testing on single-vCPU guests demonstrates successful memory and disk-write validation, several engineering hurdles—including transport security, compatibility contracts, and concurrency hardening—must be resolved before upstreaming can proceed.</p>
-<p>Nov 15 · <a href="https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/">gyptazy.com</a> | <a href="https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50488835">hacker news</a></p>
 <br clear="all" />
 
 ---
