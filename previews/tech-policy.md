@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>DHS Secretary Markwayne Mullin Attributes Recent Tech Outages to Aging Systems</h2>
 <a name="story-27761"><img src="https://wsrv.nl/?url=https%3A%2F%2F6pwlv5vzvfnbrzqk.public.blob.vercel-storage.com%2FGettyImages-2305026572-v84nVUZkPsWMa1mpfXyIzWhtKTUGBE.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US Department of Homeland Security Secretary Markwayne Mullin stated that recent widespread technology outages are not the result of cyberattacks. He attributed the disruptions to the challenges of integrating new technology onto aging, outdated computer systems.</p><p>The outages have recently impacted several sectors, including banking and aviation. While Mullin emphasized infrastructure age, he has also suggested, citing an unnamed technical source, that artificial intelligence may be contributing to system overloads.</p>
-<p>Nov 17 · <a href="https://www.reuters.com/world/us-official-says-recent-tech-woes-not-tied-cyberattacks-2026-11-17/">reuters.com</a></p>
+<p>Nov 17 · <a href="https://www.reuters.com/world/us-official-says-recent-tech-woes-not-tied-cyberattacks-2026-11-17/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xz1ban/how_to_tell_if_its_a_cyberattack_or_just_an_outage/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Jensen Huang to Appear Before House Committees on Dec. 1</h2>
