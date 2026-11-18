@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Google Adds Temporary Threads Feature to AI Mode in Search</title>
+    <link href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/::v240</id>
+    <published>2026-11-18T18:05:00+00:00</published>
+    <updated>2026-11-18T18:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.malaymail.com%2Fmalaymail%2Fuploads%2Fimages%2F2026%2F05%2F14%2F340951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/">blog.google</a></small></p><hr/><p>Google has introduced a temporary threads feature for AI Mode in Search, enabling users to engage in conversational AI interactions without logging the data to their accounts. These private sessions are excluded from search history and do not affect future recommendations or personalization.</p><p>The feature is rolling out globally on both desktop and mobile devices across all supported languages. Users can initiate a temporary chat directly within the interface by selecting an icon in the upper-right corner, eliminating the need to manually adjust account settings.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.malaymail.com%2Fmalaymail%2Fuploads%2Fimages%2F2026%2F05%2F14%2F340951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 23:13 UTC | #27917</small>]]></content>
+  </entry>
+  <entry>
     <title>Microsoft Integrates Word, Excel, and PowerPoint Into Copilot</title>
     <link href="https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/" rel="alternate" />
     <id>https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/::v240</id>

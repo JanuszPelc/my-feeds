@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google Adds Temporary Threads Feature to AI Mode in Search</h2>
+<a name="story-27917"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.malaymail.com%2Fmalaymail%2Fuploads%2Fimages%2F2026%2F05%2F14%2F340951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google has introduced a temporary threads feature for AI Mode in Search, enabling users to engage in conversational AI interactions without logging the data to their accounts. These private sessions are excluded from search history and do not affect future recommendations or personalization.</p><p>The feature is rolling out globally on both desktop and mobile devices across all supported languages. Users can initiate a temporary chat directly within the interface by selecting an icon in the upper-right corner, eliminating the need to manually adjust account settings.</p>
+<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/">blog.google</a></p>
+<br clear="all" />
+
 <h2>Microsoft Integrates Word, Excel, and PowerPoint Into Copilot</h2>
 <a name="story-27846"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2023%2F03%2Ff782bc1b91acc3d474a273a105999d24.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>During the Microsoft Ignite 2026 keynote, Microsoft announced that Word, Excel, and PowerPoint are now generally available within the Copilot app. CEO Satya Nadella characterized the integration as a strategic move to establish Copilot as the "new OS for work."</p><p>This shift transitions Copilot from an assistant embedded within individual Office applications to a central orchestration system for productivity. The update is intended to position the AI as a primary intelligence layer capable of managing workflows and context across the Microsoft enterprise ecosystem.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27764"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FaKtwDmhA-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fashion startup Daydream has launched Daydream Agent, an AI-powered personal stylist designed to help users plan outfits, virtually try on clothing, and complete purchases. The agent pulls real-time pricing and availability from a catalog of over 10,000 brands to offer personalized recommendations based on individual style, fit preferences, and budgets.</p><p>Built on the company's previous AI shopping tools, the new agent features a persistent clothing rack for comparing items, tracking for sales and new drops, and the ability to integrate user closets and calendars to coordinate outfits. Daydream has also appointed international stylist Francesca Salih as its first Stylist in Residence to help shape the agent's styling capabilities alongside its automated technology.</p>
 <p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/">techcrunch.com</a> | <a href="https://www.prnewswire.com/news-releases/daydream-launches-first-ever-autonomous-agent-for-fashion-shopping-styling-and-checkout-302941544.html">prnewswire.com</a></p>
-<br clear="all" />
-
-<h2>Windows 11 Collects Telemetry on AI Coding Agent and Developer Tool Usage</h2>
-<a name="story-27808"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxusheng.dev%2Fposts%2Fwindows-coding-agent-telemetry%2Fagent-names.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Reverse engineering of Windows 11's MissionControlAggregator.dll reveals that the operating system tracks the usage of specific AI coding agents and developer tools. The system uses Event Tracing for Windows (ETW) to monitor processes such as claude.exe, cursor.exe, python.exe, and gcc.exe, recording their presence in diagnostic reports.</p><p>This usage data is organized into bitsets representing CLI agents, desktop agents, and broader developer tool categories. If optional diagnostic data is enabled—the default setting in several regions including the United States—the telemetry is uploaded to Microsoft via the Connected User Experiences and Telemetry service. This collection applies to both native Windows applications and those running within the Windows Subsystem for Linux (WSL).</p>
-<p>Nov 17 · <a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/">xusheng.dev</a> | <a href="https://news.ycombinator.com/item?id=50524736">hacker news</a></p>
 <br clear="all" />
 
 ---
