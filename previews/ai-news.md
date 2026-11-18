@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Microsoft Integrates Word, Excel, and PowerPoint Into Copilot</h2>
+<a name="story-27846"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2023%2F03%2Ff782bc1b91acc3d474a273a105999d24.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>During the Microsoft Ignite 2026 keynote, Microsoft announced that Word, Excel, and PowerPoint are now generally available within the Copilot app. CEO Satya Nadella characterized the integration as a strategic move to establish Copilot as the "new OS for work."</p><p>This shift transitions Copilot from an assistant embedded within individual Office applications to a central orchestration system for productivity. The update is intended to position the AI as a primary intelligence layer capable of managing workflows and context across the Microsoft enterprise ecosystem.</p>
+<p>Nov 18 · <a href="https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/">arstechnica.com</a> | <a href="https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/">microsoft.com</a></p>
+<br clear="all" />
+
 <h2>Program-as-Weights Introduced as Programming Paradigm for Fuzzy Functions</h2>
 <a name="story-27857"><img src="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2607.02512v1%2Fx3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers have introduced Program-as-Weights (PAW), a programming paradigm designed to compile natural-language specifications of fuzzy functions into compact, locally executable neural artifacts. By treating foundation models as tool builders rather than per-input problem solvers, PAW uses a 4B compiler trained on a new 10-million-example dataset called FuzzyBench to emit parameter-efficient adapters for a frozen interpreter.</p><p>This approach allows a lightweight 0.6B Qwen3 interpreter to match the performance of direct prompting on a much larger Qwen3-32B model while consuming roughly one-fiftieth of the inference memory. Operating locally and offline, compiled PAW programs achieve speeds of 30 tokens per second on consumer hardware like a MacBook M3, offering a reproducible alternative to recurring large language model API calls.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27808"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxusheng.dev%2Fposts%2Fwindows-coding-agent-telemetry%2Fagent-names.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reverse engineering of Windows 11's MissionControlAggregator.dll reveals that the operating system tracks the usage of specific AI coding agents and developer tools. The system uses Event Tracing for Windows (ETW) to monitor processes such as claude.exe, cursor.exe, python.exe, and gcc.exe, recording their presence in diagnostic reports.</p><p>This usage data is organized into bitsets representing CLI agents, desktop agents, and broader developer tool categories. If optional diagnostic data is enabled—the default setting in several regions including the United States—the telemetry is uploaded to Microsoft via the Connected User Experiences and Telemetry service. This collection applies to both native Windows applications and those running within the Windows Subsystem for Linux (WSL).</p>
 <p>Nov 17 · <a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/">xusheng.dev</a> | <a href="https://news.ycombinator.com/item?id=50524736">hacker news</a></p>
-<br clear="all" />
-
-<h2>Carnegie Mellon University Launches CS Learn Platform</h2>
-<a name="story-27805"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.qatar.cmu.edu%2Fwp-content%2Fuploads%2F2025%2F09%2F20250928-AI-and-CS-SQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Carnegie Mellon University has launched CS Learn, a platform providing free access to computer science lectures from its faculty. Current offerings on YouTube include courses on machine learning, principles of computing, software construction, and AI agents.</p><p>The platform will expand to include self-paced courseware with instant feedback, digital badges, and AI tutoring. Additional subject areas, such as probability and multimodal machine learning, are scheduled for release in January 2027.</p>
-<p>Nov 17 · <a href="https://www.cs.cmu.edu/learn/">cs.cmu.edu</a> | <a href="https://news.ycombinator.com/item?id=50522980">hacker news</a></p>
 <br clear="all" />
 
 ---

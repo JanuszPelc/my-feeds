@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-18T03:22:00+00:00</updated>
+  <updated>2026-11-18T05:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Microsoft Integrates Word, Excel, and PowerPoint Into Copilot</title>
+    <link href="https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/" rel="alternate" />
+    <id>https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/::v240</id>
+    <published>2026-11-18T05:41:00+00:00</published>
+    <updated>2026-11-18T05:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2023%2F03%2Ff782bc1b91acc3d474a273a105999d24.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/">arstechnica.com</a> | <a href="https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/">microsoft.com</a></small></p><hr/><p>During the Microsoft Ignite 2026 keynote, Microsoft announced that Word, Excel, and PowerPoint are now generally available within the Copilot app. CEO Satya Nadella characterized the integration as a strategic move to establish Copilot as the "new OS for work."</p><p>This shift transitions Copilot from an assistant embedded within individual Office applications to a central orchestration system for productivity. The update is intended to position the AI as a primary intelligence layer capable of managing workflows and context across the Microsoft enterprise ecosystem.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2023%2F03%2Ff782bc1b91acc3d474a273a105999d24.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 15:51 UTC | #27846</small>]]></content>
+  </entry>
   <entry>
     <title>Program-as-Weights Introduced as Programming Paradigm for Fuzzy Functions</title>
     <link href="https://arxiv.org/abs/2607.02512" rel="alternate" />
