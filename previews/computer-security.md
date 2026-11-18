@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Phrack Magazine Releases Issue 73</h2>
+<a name="story-27854"><img src="https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9d%2FP72-cover-defcon.jpg%2F500px-P72-cover-defcon.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Phrack Magazine's issue 73, the third publication released by the current staff following the project's 40th-anniversary relaunch, contains 23 primary research papers and eight "Line Noise" articles.</p><p>Technical topics covered include container escapes via vDSO, use-after-free exploitation, Chromium sandbox escapes through Skia, and vulnerabilities in machine learning systems. The issue also features "Phrack World History" articles and a professional profile of security researcher Halvar Flake.</p>
+<p>Nov 18 · <a href="https://phrack.org/issues/73/introduction_md.html">phrack.org</a> | <a href="https://lobste.rs/s/xu4ajj/phrack_73">lobsters</a></p>
+<br clear="all" />
+
+<h2>Calif Discovers Java4Shell RCE Flaw via GPT-6 Cyber</h2>
+<a name="story-27807"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEgctgFzj3XT0K6_0oO90ta6GIVq3WtYkZDVJwlGU25pygpsfPpk0Q0oioW4oIlsaF3Sinuiv-calUddih8Fd0HmHlg1b-neN1Cqy4_GWGv8fmDnSC5vT6p_kNQn6hoF6VqLm2QwhabWTzjoH2U_sj0O8XbgSK3hBp2ZZlTTT4lwq7ceaSq0dHS6cWagaw%3Ds16000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A remote code execution (RCE) vulnerability in Java, dubbed "Java4Shell" (CVE-2026-114938), has been identified by cybersecurity startup Calif using OpenAI's GPT-6 Cyber model. Oracle has released a patch to address the flaw, which affects Oracle Java SE and OpenJDK 17.</p><p>The unauthenticated RCE could impact systems used by nearly all Fortune 500 companies. This discovery demonstrates the capacity of advanced AI models to identify critical security holes in widely used software.</p>
+<p>Nov 18 · <a href="https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN">nytimes.com</a> | <a href="https://x.com/calif_io/status/2122724367654334810">x.com</a></p>
+<br clear="all" />
+
 <h2>Apple Services Including iCloud and App Store Experience Outage</h2>
 <a name="story-27791"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolitco.com%2Fwp-content%2Fuploads%2F2025%2F06%2FA-multi-commodity-story-with-potential-near-term-gold-production-2025-06-25T113602.036.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple Apple services, including iCloud, the App Store, and Apple Music, experienced disruptions on November 17, 2026. The issues specifically impacted iCloud's Account &amp; Sign In services, which could prevent users from signing in or cause the service to be unavailable.</p><p>Apple stated the outages were caused by an internal update rather than a cyberattack. This disruption follows a week of technical failures at other major technology companies, including Microsoft.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fiter.ca%2Fubo-epicker.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A universal cross-site scripting (UXSS) vulnerability affected uBlock Origin versions 1.75.2 and lower on Firefox, allowing malicious websites to inject arbitrary trusted filter rules. By exploiting the browser extension's element picker through crafted messages and internal UUID leakage, an attacker could execute arbitrary JavaScript in the context of any website.</p><p>The security flaw—tracked as GHSA-cmqw-9r2w-6wv2—was discovered earlier this month and patched in version 1.75.4. The attack vector relied on embedding the element picker interface via an invisible iframe, manipulating message parameters to bypass standard filter restrictions, and tricking users into clicking a hidden creation button.</p>
 <p>Nov 16 · <a href="https://iter.ca/post/ubo-uxss/">iter.ca</a> | <a href="https://news.ycombinator.com/item?id=50513160">hacker news</a></p>
-<br clear="all" />
-
-<h2>Bitly Confirms Security Issue Allowing Hijacking of Inactive Short Links</h2>
-<a name="story-27603"><img src="https://wsrv.nl/?url=https%3A%2F%2Fransomnews.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fburger-king-2011-tweet-quoted-15-november-2026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bitly has confirmed a security vulnerability that allowed bad actors to repurpose old, inactive short links from historical social media posts by prominent accounts, redirecting users to unrelated or malicious content. The flaw enabled attackers to re-register the back-halves of expired or deleted links previously used by entities such as Burger King, McDonald’s, Donald Trump, and various government figures.</p><p>While initial investigations revealed hijacked links pointing to controversial Wikipedia entries, spam domains, and crypto-related phishing sites, Bitly announced that it suspended the accounts involved and disabled the affected links. Although the affected organizations and individuals were not directly compromised, the incident highlights ongoing security risks associated with recycled URL shortener endpoints embedded in archival online content.</p>
-<p>Nov 16 · <a href="https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/">ransomnews.com</a> | <a href="https://news.ycombinator.com/item?id=50511395">hacker news</a></p>
-<br clear="all" />
-
-<h2>Bruce Röttgers Details Cost-Effective Map Tile Self-Hosting with Protomaps and Bunny.net</h2>
-<a name="story-27602"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprotomaps.com%2Fblog%2Fnew-way-to-make-maps%2Fpmtiles_layout.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bruce Röttgers outlines a cost-effective approach to self-hosting map tiles using the Protomaps ecosystem and the Bunny.net content delivery network. By leveraging PMTiles—a single-file archive format that supports HTTP Range requests—developers can bypass expensive commercial mapping APIs like Mapbox while avoiding complex server setups.</p><p>The guide details practical implementation steps, including downloading daily map builds or extracting custom bounding boxes using the PMTiles command-line interface, streaming files via rclone to S3-compatible Bunny.net storage, and configuring pull zones with optimized caching and network limits. Embedding the resulting map in a website is achieved using MapLibre GL alongside the official pmtiles JavaScript package.</p>
-<p>Nov 16 · <a href="https://bruceroettgers.eu/blog/protomaps/">bruceroettgers.eu</a> | <a href="https://news.ycombinator.com/item?id=50509837">hacker news</a></p>
 <br clear="all" />
 
 ---
