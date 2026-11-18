@@ -3,9 +3,36 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-18T13:08:00+00:00</updated>
+  <updated>2026-11-18T16:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Rockstar Games Details Grand Theft Auto VI Technical Specifications and Resolution Scaling</title>
+    <link href="https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/" rel="alternate" />
+    <id>https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/::v240</id>
+    <published>2026-11-18T16:18:00+00:00</published>
+    <updated>2026-11-18T16:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.igrandtheftauto.com%2Fcontent%2Fimages%2Frockstar-games-official-grand-theft-auto-vi-artwork-with-gta-logo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/">wccftech.com</a> | <a href="https://www.reddit.com/r/Games/comments/1xzf70h/grand_theft_auto_vi_uses_amd_fsr_4_on_xbox_series/">r/Games</a></small></p><hr/><p>Rockstar Games has outlined the technical specifications and rendering methods for Grand Theft Auto VI across current-generation consoles, targeting 30 frames per second to support the game's scale and simulation ambitions. On the PlayStation 5 and Xbox Series X, the title upscales a 1440p base resolution to 4K using an in-house temporal anti-aliasing solution, whereas the PlayStation 5 Pro utilizes PSSR2 from a similar 1440p base.</p><p>For the Xbox Series S, the game employs AMD FSR 4 upscaling to scale a 720p base resolution to 1080p while successfully implementing ray-traced global illumination despite memory constraints. Developers also addressed artistic choices, confirming that the game's vignette effect is intentional and lacks a toggle, though a bug causing it to intensify improperly in certain circumstances has been fixed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.igrandtheftauto.com%2Fcontent%2Fimages%2Frockstar-games-official-grand-theft-auto-vi-artwork-with-gta-logo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 21:43 UTC | #27875</small>]]></content>
+  </entry>
+  <entry>
+    <title>Rockstar Games Details Romance Mechanics and Worldbuilding in Grand Theft Auto VI</title>
+    <link href="https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview" rel="alternate" />
+    <id>https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview::v240</id>
+    <published>2026-11-18T16:17:00+00:00</published>
+    <updated>2026-11-18T16:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FGTAVI-12-copy.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview">theverge.com</a></small></p><hr/><p>In an interview with The Verge, Rockstar North co-studio head and Grand Theft Auto VI producer Rob Nelson discussed the creative and technical choices behind the upcoming open-world game, highlighting a shift toward a romantic central relationship between protagonists Jason and Lucia. Nelson acknowledged that building a sustained, interactive romance—complete with joint activities like holding hands and sharing coffee—is a risk for the traditionally chaotic series, though players can choose to bypass these mechanics.</p><p>Development on the title began around 2015 with location scouting in Florida to shape the fictional setting of Leonida and Vice City, driving a narrative about small-time criminals rising through the underworld ranks. Building upon the environmental interaction systems of Red Dead Redemption 2, the team incorporated intricate details such as functional bedsheets and synchronized character animations, carefully balancing immersive realism with the franchise's signature fast-paced action.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FGTAVI-12-copy.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 21:43 UTC | #27871</small>]]></content>
+  </entry>
+  <entry>
+    <title>Grand Theft Auto 6 Campaign Completion Times Range From 42 to 115 Hours Across Four Reviewers</title>
+    <link href="https://www.ign.com/articles/how-long-is-gta-6" rel="alternate" />
+    <id>https://www.ign.com/articles/how-long-is-gta-6::v240</id>
+    <published>2026-11-18T16:16:00+00:00</published>
+    <updated>2026-11-18T16:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.gta6-news.net%2Fwp-content%2Fuploads%2F2026%2F03%2Fdar-11-2026-04_23_12-PM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ign.com/articles/how-long-is-gta-6">ign.com</a></small></p><hr/><p>IGN has detailed the campaign completion times for Grand Theft Auto 6 based on playthroughs by four writers from IGN, Eurogamer, and Pure Xbox. Story completion times for the open-world game varied significantly depending on individual playstyles, ranging from a brisk 42 hours for a more focused run to 115 hours for thorough exploration.</p><p>Reviewers noted that rushing the main story bypasses the game's detailed side content and open-world activities, with typical playthroughs expected to take around 80 hours or more. The wide variance highlights how player choices—such as stopping for side missions, minigames, and extensive map exploration across Leonida—substantially impact total playtime.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gta6-news.net%2Fwp-content%2Fuploads%2F2026%2F03%2Fdar-11-2026-04_23_12-PM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 21:42 UTC | #27872</small>]]></content>
+  </entry>
   <entry>
     <title>Sony Issues Mandatory PS5 Firmware Update for Grand Theft Auto VI</title>
     <link href="https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement" rel="alternate" />

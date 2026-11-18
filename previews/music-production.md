@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>DAWJunkie Releases Super Duper Basses Free Retro Bass Instrument</h2>
+<a name="story-27909"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQtpNDBpWk2g%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>DAWJunkie has released Super Duper Basses Free, a complimentary virtual instrument for macOS and Windows inspired by 1990s hardware synthesizers. The plugin functions as a streamlined, smaller edition of the developer's paid Super Duper Basses instrument, featuring presets created by Steve Cherubino alongside a compact single-panel interface for tone shaping.</p><p>The user interface provides a preset selector, style control, a standard four-stage ADSR envelope, and dedicated knobs for chorus, phaser, delay, compression, and a crunch section for added grit. Compatible with AU, VST3, and AAX formats across supported operating systems, the instrument requires approximately 50 MB of storage space and is available via email registration on the developer's download page.</p>
+<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/dawjunkie-super-duper-basses-free/">bedroomproducersblog.com</a> | <a href="https://dawjunkie.com/op/super-duper-basses-free/">dawjunkie.com</a></p>
+<br clear="all" />
+
+<h2>Fracture Sounds Releases Chamber Strings for Kontakt Player</h2>
+<a name="story-27902"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffracture-sounds-chamber-strings-gui-first-violins.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Fracture Sounds has released Chamber Strings, a 20-piece orchestral string library for Native Instruments' Kontakt Player recorded at Rottenbiller Studio in Budapest. The library serves as the debut product in the developer's new Scoring Orchestra Series and features a 5,4,4,4,3 ensemble format alongside over 80 articulations.</p><p>Chamber Strings introduces Melodic Legato, a sampling method extracted from real scores rather than repeated notes to achieve more natural playback. It also includes six microphone positions with central stereo options, a refined Smart Legato engine, and introductory promotional pricing and bundle offers available through December 22.</p>
+<p>Nov 18 · <a href="https://www.kvraudio.com/news/fracture-sounds-releases-chamber-strings-for-kontakt-player-69923?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69923">kvraudio.com</a> | <a href="https://fracturesounds.com/product/fracture-sounds-chamber-strings/">fracturesounds.com</a></p>
+<br clear="all" />
+
+<h2>Type 9 Releases GhostTape Rolling Audio Buffer App for macOS</h2>
+<a name="story-27910"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.eneba.games%2Fuploads%2F2025%2F09%2Fimage-55-1024x575.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Type 9 has released GhostTape, a $10 standalone macOS application that maintains a rolling audio buffer to help musicians recover unexpected takes or practice ideas. The software runs natively on Apple Silicon and Intel Macs, capturing sound from specific apps, hardware inputs, or the entire system output into computer RAM.</p><p>Users can adjust individual buffer lengths from one to 60 minutes, select passages from an interactive waveform, and drag WAV exports directly into a digital audio workstation. Additional functions include a Haunt feature for automatic reconnection to frequently used sources and an offline license activation system with five simultaneous activations.</p>
+<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/type-9-ghosttape/">bedroomproducersblog.com</a> | <a href="https://type9.cc/ghosttape">type9.cc</a></p>
+<br clear="all" />
+
 <h2>Steinberg Releases Chromaspheres Free Synth Plugin</h2>
 <a name="story-27911"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXNlFkt1yf54%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Steinberg has released Chromaspheres, a free software instrument for the HALion Sonic player that transforms user-supplied audio samples using wavetable, granular, spectral, and sample-based synthesis engines. The instrument features 30 sound-shaping modes, an arpeggiator, and built-in effects including a wavefolder, resonator, EQ, and compression.</p><p>Designed for creating evolving pads, textures, and altered melodies, Chromaspheres allows users to drop audio into various engines for manipulation, such as turning samples into wavetables or stretching spectral elements. It includes one-click parameter randomization with locking capabilities, MIDI Polyphonic Expression support, and runs as a VST3 and AAX plugin on Windows and macOS.</p>
@@ -78,24 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27754"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FXLN-Audio-RC-20-Retro-Color-V2-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>XLN Audio has released RC-20 Retro Color v2, a major update to its vintage lo-fi multi-effects plugin. Ten years after the debut of the original software, the update introduces a new Echo module featuring granular processing and feedback routing through the plugin's effect chain, alongside expanded degradation tools and new distortion algorithms.</p><p>The updated plugin maintains backward compatibility by automatically importing version 1 presets and installing alongside legacy versions to preserve existing projects. Additional improvements include an expanded Space module with 33 reverb types, a Codec processor for lossy audio emulation, a revamped Flux modulation interface, and precise frequency focus and cut controls.</p>
 <p>Nov 17 · <a href="https://musictech.com/reviews/plug-ins/xln-audio-rc-20-retro-color-v2-review/">musictech.com</a> | <a href="https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color">xlnaudio.com</a></p>
-<br clear="all" />
-
-<h2>Eventide Releases SplitEQ 2 Dynamic EQ Plugin</h2>
-<a name="story-27753"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fspliteq2-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Eventide has released SplitEQ 2, a dynamic equalization plugin powered by the company's patented Structural Split technology. The software separates audio into independent transient and tonal components, allowing mixing engineers and producers to shape each element separately across six dynamic bands.</p><p>New features in version 2 include real-time masking visualization to identify frequency conflicts between tracks, pre- and post-routable Global Dynamics, and targeted stereo processing across multiple bands. The plugin supports AU, AAX, and VST3 formats on macOS and Windows, and is available at an introductory price of $99 until January 3, 2027.</p>
-<p>Nov 17 · <a href="https://www.kvraudio.com/news/eventide-releases-spliteq-2---dynamic-eq-plugin-aax-au-and-vst3-69904?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69904">kvraudio.com</a> | <a href="https://www.eventideaudio.com/plug-ins/spliteq-2/">eventideaudio.com</a></p>
-<br clear="all" />
-
-<h2>Yamaha NS-10 Studio Monitors: Performance and Reputation</h2>
-<a name="story-27745"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FYamaha-NS-10-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Yamaha NS-10 is an iconic studio monitor known for a polarizing sound profile featuring emphasized midrange, limited low-end, and bright high frequencies. These characteristics help engineers identify problematic frequency buildups in a mix that might be overlooked on more balanced monitoring systems.</p><p>The speaker is prized for its exceptional transient response and accuracy in the time domain, which facilitates precise diagnostic listening. Although originally designed as domestic bookshelf speakers, the NS-10 has become an industry-standard staple in recording studios worldwide.</p>
-<p>Nov 17 · <a href="https://musictech.com/features/opinion-analysis/yamaha-ns-10-2/">musictech.com</a> | <a href="https://en.wikipedia.org/wiki/Yamaha_NS-10">en.wikipedia.org</a></p>
-<br clear="all" />
-
-<h2>Taika Systems Releases Photophore 2 Flock Synthesizer for iOS</h2>
-<a name="story-27744"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fphotophore-kvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Taika Systems has released Photophore 2, a major update to its behavioral flock synthesizer for iOS devices. The new version introduces native AUv3 plug-in support for hosts like Logic Pro for iPad and GarageBand, alongside expanded compatibility for iPhone.</p><p>The sound engine models up to 100 oscillators as a moving flock in a 3D habitat, allowing users to shape complex pads, leads, and basses by controlling behaviors such as grouping, speed, and environmental turbulence. Photophore 2 also adds new features including predator modulation, stereo width modes, and 30 factory presets by artist Bop.</p>
-<p>Nov 17 · <a href="https://www.kvraudio.com/news/taika-systems-releases-photophore-2-flock-synth-for-ios-with-auv3-and-iphone-support-69896?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69896">kvraudio.com</a></p>
 <br clear="all" />
 
 ---

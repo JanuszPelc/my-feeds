@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-18T13:40:00+00:00</updated>
+  <updated>2026-11-18T16:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>MAPLE Buddhist Monastery Engages Silicon Valley AI Culture</title>
+    <link href="https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley?currentPage=all" rel="alternate" />
+    <id>https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley?currentPage=all::v240</id>
+    <published>2026-11-18T16:19:00+00:00</published>
+    <updated>2026-11-18T16:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.newyorker.com%2Fphotos%2F6af4b4189381ddd6689aa1bb%2Fmaster%2Fw_2560%252Cc_limit%2Fr50564.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley?currentPage=all">newyorker.com</a></small></p><hr/><p>Sam Kriss reports on MAPLE, a Vermont-based Buddhist monastery attempting to counter the apocalyptic religious fervor and existential anxieties surrounding artificial intelligence in Silicon Valley. The community engages with tech workers and researchers who increasingly view artificial intelligence through theological concepts like artificial gods and existential risk.</p><p>The piece explores how prominent figures in the tech industry navigate these quasi-religious frameworks, contrasting Silicon Valley's techno-optimism and dread with MAPLE's critique of the technology as a dangerous hollowing of reality that reduces life to dead data models.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.newyorker.com%2Fphotos%2F6af4b4189381ddd6689aa1bb%2Fmaster%2Fw_2560%252Cc_limit%2Fr50564.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 21:44 UTC | #27874</small>]]></content>
+  </entry>
   <entry>
     <title>Astronomer Nikhita Ramkilowan Explains What Would Happen If Earth Stopped Spinning</title>
     <link href="https://theconversation.com/curious-kids-what-if-the-earth-stopped-spinning-290873" rel="alternate" />
