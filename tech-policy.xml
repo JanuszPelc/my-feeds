@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-17T21:24:00+00:00</updated>
+  <updated>2026-11-17T21:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>SEC Reportedly Investigates Nvidia Over Investor Disclosures Following Jensen Huang's Departure</title>
+    <link href="https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/::v240</id>
+    <published>2026-11-17T21:49:00+00:00</published>
+    <updated>2026-11-17T21:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FJensen-Huang.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/">techcrunch.com</a> | <a href="https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8">wsj.com</a></small></p><hr/><p>The Securities and Exchange Commission is opening a civil investigation into Nvidia to determine if the company's disclosures to investors were misleading. The probe follows the resignation of CEO Jensen Huang amid reports of an affair with an executive at Megaspeed, a Singapore-based data firm.</p><p>The investigation coincides with scrutiny from the Commerce Department and Congress regarding potential violations of U.S. export laws and the influence of Huang's personal ties on company policy. While Nvidia recently reported third-quarter revenue of $115.8 billion—a 103% increase from the previous year—its stock has declined more than 10% since Huang's exit.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FJensen-Huang.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 03:05 UTC | #27813</small>]]></content>
+  </entry>
   <entry>
     <title>Madison Huang Helped Steer Nvidia's Response to Megaspeed Scrutiny</title>
     <link href="https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27" rel="alternate" />
@@ -346,14 +355,5 @@
     <updated>2026-11-13T12:30:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1S0Hhs.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/">reuters.com</a></small></p><hr/><p>A review of Chinese contracts and disclosures by Reuters has identified more than $3.2 billion in artificial intelligence compute projects that rely on Nvidia graphics processing units restricted by U.S. export controls. These built and planned data-centre initiatives underscore China's continued reliance on advanced American hardware despite tightening trade curbs.</p><p>The findings emerge amid heightened regulatory scrutiny and the recent departure of Nvidia CEO Jensen Huang, highlighting the vulnerabilities facing cross-border technology supply chains. Although Nvidia has stated that U.S. restrictions effectively shut it out of China's AI market, the documented projects demonstrate the extensive integration of restricted chips within Chinese infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1S0Hhs.img%3Fw%3D1910%26h%3D1000%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 18:26 UTC | #27401</small>]]></content>
-  </entry>
-  <entry>
-    <title>Senate Banking Chair Tim Scott Summons Jensen Huang and Howard Lutnick to Testify Over Nvidia Saga</title>
-    <link href="https://www.politico.com/live-updates/2026/11/12/congress/tim-scott-summons-jensen-huang-howard-lutnick-to-testify-over-nvidia-saga-01164124" rel="alternate" />
-    <id>https://www.politico.com/live-updates/2026/11/12/congress/tim-scott-summons-jensen-huang-howard-lutnick-to-testify-over-nvidia-saga-01164124::v240</id>
-    <published>2026-11-13T03:02:00+00:00</published>
-    <updated>2026-11-13T03:02:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdnyuz.com%2Fwp-content%2Fuploads%2F2026%2F11%2F6af2104980d4b24f18347a19.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.politico.com/live-updates/2026/11/12/congress/tim-scott-summons-jensen-huang-howard-lutnick-to-testify-over-nvidia-saga-01164124">politico.com</a></small></p><hr/><p>Senate Banking Chair Tim Scott has called on Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify at separate December hearings regarding the ongoing Nvidia controversy. Commerce Secretary Lutnick has already agreed to appear before the panel.</p><p>The hearings are expected to focus on export controls, corporate leadership, and related policy issues surrounding the tech giant. Lawmakers aim to scrutinize key figures involved in the unfolding legislative inquiry.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdnyuz.com%2Fwp-content%2Fuploads%2F2026%2F11%2F6af2104980d4b24f18347a19.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 10:17 UTC | #27366</small>]]></content>
   </entry>
 </feed>
