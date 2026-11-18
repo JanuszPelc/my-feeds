@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Codex Raises $30 Million for Stablecoin-Based Cross-Border Payments</h2>
+<a name="story-27762"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsg-imgs.dealroom.co%2Fef044f128f9776295849e076565529b2.jpeg%3Fcs%3Dorigin%26w%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dfaces%2Ccenter%26q%3D85&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Codex has raised $30 million in a Series A funding round to develop infrastructure for stablecoin-based cross-border payments and currency exchange. Led by Pantera Capital, the round included participation from Dragonfly and Coinbase Ventures, valuing the Delaware-based startup at $130 million post-money.</p><p>The company intends to connect Asia to markets in Latin America and sub-Saharan Africa, enabling businesses to exchange currencies without the need for upfront deposits. Codex plans to integrate AI agents to automate its foreign-exchange platform and manage costs as transaction volumes scale.</p>
+<p>Nov 17 · <a href="https://fortune.com/2026/11/17/pantera-backed-codex-30-million-asia-global-markets-stablecoins/">fortune.com</a> | <a href="https://codex.xyz/">codex.xyz</a></p>
+<br clear="all" />
+
 <h2>Tiberius Aerospace Raises $85 Million to Scale AI-Designed Munitions</h2>
 <a name="story-27740"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.overtdefense.com%2Fwp-content%2Fuploads%2F2025%2F05%2FScreenshot-2025-05-26-124031.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tiberius Aerospace has secured $85 million in Series A funding at a valuation exceeding $1 billion to scale its AI-driven defense technology. The funding, led by Lakestar and Rochefort Asset Management, supports the deployment of Sceptre, a long-range, supersonic 155mm artillery round designed using the company's proprietary GRAIL artificial intelligence platform.</p><p>The company operates under a "defense-as-a-service" model, licensing its weapon designs to third-party manufacturers to accelerate production cycles and increase availability across allied nations. By using AI to simulate and optimize weapon performance in various combat environments, Tiberius aims to implement rapid iteration cycles for offensive munitions similar to those used in the consumer software industry.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fczechstartups.gov.cz%2Fwp-content%2Fuploads%2F2021%2F02%2FEuropeanCapitalMap_EE-page-001.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>London-based Plural has secured €1 billion in new capital to support startups across Europe. The firm is among a select group of European venture capital firms to raise more than €1 billion in a single round.</p><p>The firm plans to invest in more than 30 companies. This funding marks one of the largest single venture capital fundraisings in the European region.</p>
 <p>Nov 16 · <a href="https://www.ft.com/content/26e52d2a-b259-4283-af83-e2c75d67a2fc">ft.com</a></p>
-<br clear="all" />
-
-<h2>Zus Health Secures $33 Million in Series B Funding for AI Clinical Infrastructure</h2>
-<p>Zus Health has secured $33 million in a Series B funding round led by Drive Capital, bringing its total capital raised to over $100 million. The company plans to use the fresh capital to expand its national healthcare data network and develop AI-powered clinical workflows and patient record infrastructure.</p><p>Founded in 2021 by Jonathan Bush, Zus Health provides a FHIR-native medical record platform designed to aggregate fragmented clinical data across providers. The company aims to serve as the underlying data layer for healthcare applications and AI systems, addressing data interoperability and inefficiencies in specialty care and value-based medicine.</p>
-<p>Nov 16 · <a href="https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows">fiercehealthcare.com</a> | <a href="https://markets.businessinsider.com/news/stocks/zus-health-raises-33-million-in-series-b-funding-to-accelerate-the-next-generation-of-connected-healthcare-1036742905">markets.businessinsider.com</a></p>
 <br clear="all" />
 
 ---

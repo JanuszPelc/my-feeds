@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>DHS Secretary Markwayne Mullin Attributes Recent Tech Outages to Aging Systems</h2>
+<a name="story-27761"><img src="https://wsrv.nl/?url=https%3A%2F%2F6pwlv5vzvfnbrzqk.public.blob.vercel-storage.com%2FGettyImages-2305026572-v84nVUZkPsWMa1mpfXyIzWhtKTUGBE.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>US Department of Homeland Security Secretary Markwayne Mullin stated that recent widespread technology outages are not the result of cyberattacks. He attributed the disruptions to the challenges of integrating new technology onto aging, outdated computer systems.</p><p>The outages have recently impacted several sectors, including banking and aviation. While Mullin emphasized infrastructure age, he has also suggested, citing an unnamed technical source, that artificial intelligence may be contributing to system overloads.</p>
+<p>Nov 17 · <a href="https://www.reuters.com/world/us-official-says-recent-tech-woes-not-tied-cyberattacks-2026-11-17/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Jensen Huang to Appear Before House Committees on Dec. 1</h2>
 <a name="story-27755"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2huCOn.img%3Fw%3D1536%26h%3D1025%26m%3D4%26q%3D93&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Former Nvidia CEO Jensen Huang is scheduled to provide transcribed testimony before the House Foreign Affairs, Intelligence, and China Select Committees on Dec. 1. Nvidia General Counsel Tim Teter is also slated to appear before the committees on Dec. 2.</p><p>The congressional inquiries follow Huang's recent resignation amid allegations involving an extramarital affair with a woman suspected by U.S. intelligence to be a Chinese intelligence asset. Lawmakers are investigating whether these circumstances contributed to unauthorized access to advanced semiconductor technology by Chinese entities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27623"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thexyz.com%2Fblog%2Fwp-content%2Fuploads%2Fstopc22XYZ-1280x640.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The proposed Bill C-22 in Canada has met significant opposition from Meta, Apple, Alphabet, and Signal. The legislation would mandate that tech companies retain and provide metadata to government authorities for lawful access.</p><p>This pushback, occurring under Prime Minister Mark Carney's government, highlights tensions between government-mandated lawful access and the security standards maintained by major platforms.</p>
 <p>Nov 16 · <a href="https://www.bloomberg.com/news/articles/2026-11-16/canada-s-carney-faces-meta-google-apple-backlash-over-lawful-access-bill-c-22">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>404 Media Article Explores AI Copyright Challenges</h2>
-<a name="story-27653"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.spinbot.org%2Fwp-content%2Fuploads%2F2025%2F06%2FCopyright-Laws-for-AI-Generated-Content.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>404 Media published an article examining the copyright and legal complications driven by artificial intelligence systems. The reporting addresses the conflicts that emerge as generative technology interacts with traditional intellectual property laws.</p><p>The piece is part of the outlet's ongoing coverage of technology, policy, and digital culture. Access to the full reporting requires a paid subscription to the platform.</p>
-<p>Nov 16 · <a href="https://www.404media.co/ai-powered-copyright-hell/">404media.co</a></p>
 <br clear="all" />
 
 ---
