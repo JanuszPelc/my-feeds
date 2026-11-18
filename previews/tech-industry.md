@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Mexico Struggles to Attract Data Center Investment Due to Energy and Regulatory Hurdles</h2>
+<a name="story-27750"><img src="https://wsrv.nl/?url=https%3A%2F%2Flayer9dc.com%2Fwp-content%2Fuploads%2F2022%2F05%2Fl9dc-rendering-aerial-1024x434.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mexico hosts only 71 of Latin America's more than 500 data center sites, failing to fully participate in the regional AI-driven boom despite its proximity to the United States.</p><p>The country's inability to attract further investment is driven by an electricity grid that requires significant upgrades and burdensome regulatory red tape. These infrastructure and permitting delays prevent Mexico from capitalizing on its strategic geographic advantages.</p>
+<p>Nov 17 · <a href="https://www.bloomberg.com/news/features/2026-11-17/mexico-is-missing-out-on-ai-data-center-boom-as-energy-crunch-bites">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Genesis AI Raises $500M at $3.5B Valuation to Develop Dexterous Robots</h2>
 <a name="story-27739"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2FAI-manufacturing.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Paris-based robotics startup Genesis AI has raised $500 million in a Series A funding round at a $3.5 billion valuation. The company is developing general-purpose robots with advanced dexterity intended for use in warehouses, homes, and other service environments.</p><p>The capital will support the scaling of "Eno," a robot trained on human movement data to perform complex physical tasks in the manufacturing, healthcare, and hospitality sectors. Funding participants include Nvidia, Khosla Ventures, and Premji Invest.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.nbcboston.com%2F2025%2F10%2Fimage-33-4.jpg%3Fquality%3D85%26strip%3Dall%26resize%3D1200%2C675&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DoorDash's proposed $17 billion acquisition of Instacart is set for review by the US Department of Justice, according to sources familiar with the matter. The company has reportedly agreed to pay a $1.25 billion breakup fee if the deal fails antitrust scrutiny.</p><p>The deal is intended to expand DoorDash's grocery delivery capabilities. It is expected to face regulatory examination concerning its potential effect on market competition and consumer pricing.</p>
 <p>Nov 17 · <a href="https://www.reuters.com/world/doordash-instacart-merger-be-reviewed-by-doj-sources-say-2026-11-16/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Australia&#x27;s Proposed Social Media Feed Reforms May Not Address Targeted Advertising</h2>
-<a name="story-27672"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhouseofdataimperiali.com%2Fwp-content%2Fuploads%2F2021%2F11%2FEDPB_08_2020_social_media-EN_Page-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Australia's proposed digital duty of care bill and the "My Feed, My Way" initiative aim to give users greater control over social media feeds by allowing them to opt out of algorithmically recommended content. However, these reforms do not explicitly address the targeted advertisements that continue to appear within those feeds.</p><p>While major platforms like Meta, Google, and TikTok provide tools to manage ad preferences, these settings often fail to prevent the collection of data from external websites via tracking technologies. Although Australian privacy law reforms are currently considering a "fair and reasonable" test for data handling and expanded opt-out rights for direct marketing, these measures have not yet been introduced to parliament.</p>
-<p>Nov 16 · <a href="https://theconversation.com/australia-wants-to-give-us-more-control-over-social-media-feeds-but-what-about-the-ads-296510">theconversation.com</a></p>
 <br clear="all" />
 
 ---
