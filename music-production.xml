@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-17T18:17:00+00:00</updated>
+  <updated>2026-11-18T01:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Suno Launches Visuals AI Music Video and Image Generator</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos::v240</id>
+    <published>2026-11-18T01:59:00+00:00</published>
+    <updated>2026-11-18T01:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsuno.bi%2F%28suno.bi%29%2Fog-image-suno-mv.png%3Fv%3D2024-04-01&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos">bloomberg.com</a> | <a href="https://suno.com/visuals">suno.com</a></small></p><hr/><p>Artificial intelligence music startup Suno has launched Visuals, a new feature that enables users to generate 15-second video clips, lyric videos, and album art to accompany their audio tracks. Built using a model from the AI firm MiniMax, the tool allows creators to prompt visual ideas or use photo references, with extensions available along a timeline.</p><p>The feature went live on the web, with mobile applications for iOS and Android scheduled to follow in the coming weeks. Visual generation requires separate video credits, which are available through dedicated credit packages or higher-tier subscription plans.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsuno.bi%2F%28suno.bi%29%2Fog-image-suno-mv.png%3Fv%3D2024-04-01&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 08:16 UTC | #27815</small>]]></content>
+  </entry>
   <entry>
     <title>MTHRBORD.STUDIO Releases Free ACL2500 VCA Bus Compressor</title>
     <link href="https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Suno Launches Visuals AI Music Video and Image Generator</h2>
+<a name="story-27815"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsuno.bi%2F%28suno.bi%29%2Fog-image-suno-mv.png%3Fv%3D2024-04-01&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence music startup Suno has launched Visuals, a new feature that enables users to generate 15-second video clips, lyric videos, and album art to accompany their audio tracks. Built using a model from the AI firm MiniMax, the tool allows creators to prompt visual ideas or use photo references, with extensions available along a timeline.</p><p>The feature went live on the web, with mobile applications for iOS and Android scheduled to follow in the coming weeks. Visual generation requires separate video credits, which are available through dedicated credit packages or higher-tier subscription plans.</p>
+<p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos">bloomberg.com</a> | <a href="https://suno.com/visuals">suno.com</a></p>
+<br clear="all" />
+
 <h2>MTHRBORD.STUDIO Releases Free ACL2500 VCA Bus Compressor</h2>
 <a name="story-27793"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fxpvr8zttm3jedd4wzigodz1g0q5t&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MTHRBORD.STUDIO has released ACL2500, a free stereo VCA bus compressor for macOS and Windows. The plugin is modeled from measurements and recordings of the API 2500 hardware, using AI to assist in the mathematical development of its algorithms.</p><p>Key features include THRUST sidechain processing to mitigate low-end influence on compression, selectable feed-forward and feedback modes, and three knee settings. It is available for macOS in VST3 and AU formats, and for Windows as a VST3 plugin or standalone application.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27712"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-card-1---devocean-player-3840x2160.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ocean Swift has launched the DevOcean Player, a free software instrument and effect player for its DevOcean Modular platform. Available in standalone, VST3, and AU formats, the release ships with more than sixty built-in instruments and effects spanning synthesizers, keys, drums, and processors, along with a dedicated DevOcean Player FX plugin for processing individual tracks.</p><p>The platform includes over two thousand NKS-compatible presets with audio previews and supports up to 64 assignable macros per module for DAW automation and hardware control. Alongside the core software, Ocean Swift is offering six additional free modules on its website and discounting its premium instruments by 40% during a launch window, including a bundled Founders Collection containing fifteen modules.</p>
 <p>Nov 17 · <a href="https://www.kvraudio.com/news/ocean-swift-releases-free-devocean-player-with-more-than-60-instruments-and-effects-au-and-vst3-69885?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69885">kvraudio.com</a> | <a href="https://oceanswift.net/product/devocean/">oceanswift.net</a></p>
-<br clear="all" />
-
-<h2>Gorilla DSP Releases Lush Reverb Plugin for Windows</h2>
-<a name="story-27718"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flush_cart_thumb-1408.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Gorilla DSP has released Lush Reverb, a new VST3 and AAX plugin for Windows priced at $49. The audio effect combines an algorithmic reverb engine, a reflection-integrated shimmer effect, and a physically modeled spring tank.</p><p>The plugin features a 12-band parametric EQ with a live spectrum analyzer dedicated to shaping the wet signal, alongside extensive controls for decay, pre-delay, brightness, and stereo width. It ships with 93 factory presets spanning room, hall, plate, ambience, shimmer, and spring categories.</p>
-<p>Nov 17 · <a href="https://www.kvraudio.com/news/gorilla-dsp-releases-lush-reverb-for-windows-vst3-and-aax-69879?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69879">kvraudio.com</a> | <a href="https://gorilladsp.com/lush-reverb/">gorilladsp.com</a></p>
 <br clear="all" />
 
 ---

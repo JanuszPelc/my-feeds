@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Nvidia Will Not Reappoint Jensen Huang as CEO</h2>
 <a name="story-27822"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FvfLy5PcKHn93qzbpMvFh34-2000-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia chairman Harvey C. Jones announced during a Tuesday earnings call that the company's board of directors does not intend to reinstate founder Jensen Huang as CEO. Huang resigned from his roles as president, CEO, and board member on November 12 following disclosures of personal conduct deemed inconsistent with company standards and cultural norms.</p><p>The resignation followed reports of extramarital affairs, including a relationship with a woman suspected by U.S. intelligence of being a Chinese intelligence agent. Colette Kress is currently serving as interim CEO while the company evaluates internal and external candidates for a permanent successor.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/">techcrunch.com</a></p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/">techcrunch.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xyxrbb/nvidia_says_it_will_not_reinstate_jensen_huang_as/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Uber and Zipline Launch Drone Delivery Service in Texas</h2>

@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Calif Discovers Java4Shell RCE Flaw via GPT-6 Cyber</h2>
 <a name="story-27807"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEgctgFzj3XT0K6_0oO90ta6GIVq3WtYkZDVJwlGU25pygpsfPpk0Q0oioW4oIlsaF3Sinuiv-calUddih8Fd0HmHlg1b-neN1Cqy4_GWGv8fmDnSC5vT6p_kNQn6hoF6VqLm2QwhabWTzjoH2U_sj0O8XbgSK3hBp2ZZlTTT4lwq7ceaSq0dHS6cWagaw%3Ds16000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A remote code execution (RCE) vulnerability in Java, dubbed "Java4Shell" (CVE-2026-114938), has been identified by cybersecurity startup Calif using OpenAI's GPT-6 Cyber model. Oracle has released a patch to address the flaw, which affects Oracle Java SE and OpenJDK 17.</p><p>The unauthenticated RCE could impact systems used by nearly all Fortune 500 companies. This discovery demonstrates the capacity of advanced AI models to identify critical security holes in widely used software.</p>
-<p>Nov 18 · <a href="https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN">nytimes.com</a> | <a href="https://x.com/calif_io/status/2122724367654334810">x.com</a></p>
+<p>Nov 18 · <a href="https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN">nytimes.com</a> | <a href="https://x.com/calif_io/status/2122724367654334810">x.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xz8w9r/critical_flaw_found_in_vital_internet_platform/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Apple Services Including iCloud and App Store Experience Outage</h2>

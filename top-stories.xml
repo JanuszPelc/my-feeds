@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-18T08:04:00+00:00</updated>
+  <updated>2026-11-18T08:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Science Corporation Raises $400 Million in Series D Funding at $3.5 Billion Valuation</title>
+    <link href="https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/::v240</id>
+    <published>2026-11-18T08:17:00+00:00</published>
+    <updated>2026-11-18T08:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F55588371385_eb2e316d52_o.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/">techcrunch.com</a> | <a href="https://science.xyz/news/series-d/">science.xyz</a></small></p><hr/><p>Science Corporation, a medical technology startup founded by former Neuralink president Max Hodak, has raised a $400 million Series D funding round that values the company at $3.5 billion. Investors in the round include Khosla Ventures, Tenet Healthcare, the Ackman Oxman Institute, and Y Combinator.</p><p>The company's flagship product is PRIMA, a wearable and implantable microchip that restores central vision in patients with age-related macular degeneration and is currently undergoing U.S. clinical trials for Stargardt's disease. Beyond vision restoration, Science Corporation is designing human trials for a bio-hybrid brain sensor aimed at treating neurological disorders such as Parkinson's disease.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F55588371385_eb2e316d52_o.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 19:34 UTC | #27743 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Spotify Launches Artist Profile Protection to Manage Music Attribution</title>
     <link href="https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/" rel="alternate" />
