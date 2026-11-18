@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>curl Maintainer Responds to AI-Generated Rust Rewrites</h2>
+<a name="story-27844"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHIZB2TfagAAu_96.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI-driven efforts have recently produced Rust-based reimplementations of curl and libcurl, including projects like urlx and a newer codebase that used AI agents to convert approximately 185,000 lines of C code. These rewrites aim to provide memory safety by leveraging Rust's features to address historical vulnerabilities in the original C implementation.</p><p>Maintainer Daniel Stenberg argues that while AI can efficiently translate source code, it cannot replicate the decades of stability, continuous bug fixing, and community feedback that sustain the curl project. He notes that the actual curl project implemented hundreds of updates and security fixes during the same period these AI rewrites were being developed, emphasizing that ongoing maintenance is more critical to software longevity than a change in programming language.</p>
+<p>Nov 17 · <a href="https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50525713">hacker news</a></p>
+<br clear="all" />
+
 <h2>Xenodium&#x27;s Contributions to Emacs 31</h2>
 <a name="story-27836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenodium.github.io%2Fimages%2Fhide-another-detail%2Fafter.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Emacs 31 master branch updates include a Dired user option to hide absolute directory paths, an Info.plist update for macOS speech recognition permissions, a "Send to..." menu item for macOS sharing, and restored macOS dictation support.</p><p>Upstream Emacs contributions require assigning copyright to the Free Software Foundation. Open-source sustainability remains a challenge, as many major projects rely on unpaid volunteer labor.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27598"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Ffoods%2Ffoods-11-03602%2Farticle_deploy%2Fhtml%2Fimages%2Ffoods-11-03602-g005.png%3F1668495732&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An exploration of experimental dynamic derivations in Nix demonstrates how a build graph can be created dynamically by chaining derivation outputs, using a programmatic implementation of the song "99 bottles of beer." By leveraging content-addressed derivations and walking the deriver chain using store queries, the build system can sequentially discover and build fifty-one successive derivations.</p><p>The experiment highlights technical constraints such as the 211-character limit on Nix store paths, which restricts the maximum chain length for this naming scheme to fifty derivations. The author also notes underlying bugs discovered during the implementation—such as handling content-addressed producers and deriver queries—as the Nix community continues developing dynamic build graphs through working groups.</p>
 <p>Nov 16 · <a href="https://fzakaria.com/2026/11/14/beer-drv-drv-drv">fzakaria.com</a> | <a href="https://lobste.rs/s/md0vco/beer_drv_drv_drv">lobsters</a></p>
-<br clear="all" />
-
-<h2>Clice v1.0 C/C++ Language Server Released</h2>
-<a name="story-27597"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic2.zhimg.com%2Fv2-bb2148a7f481c6a765369447b3ffaf5d_r.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer ykiko has released version 1.0 of clice, a next-generation C/C++ language server built on LLVM/Clang and written in modern C++23. Designed to address long-standing architectural limitations in existing tools like clangd, clice features a multi-process compilation pool to prevent server crashes from compiler errors, native support for C++20 named modules, and an asynchronous architecture using C++20 coroutines.</p><p>The stable release follows two and a half years of development and four months of alpha testing across real-world open-source projects. In addition to its language server features—such as enhanced template handling and toolchain environment probing—clice includes a command-line interface with subcommands for project indexing, linting, refactoring, code formatting, and automated module wrapping.</p>
-<p>Nov 16 · <a href="https://www.ykiko.me/en/articles/2105384023094834022/">ykiko.me</a> | <a href="https://github.com/clice-io/clice">github.com</a> | <a href="https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c">lobsters</a></p>
 <br clear="all" />
 
 ---
