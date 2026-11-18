@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Apple HomeView Teardown Reveals Low Repairability</h2>
+<a name="story-27826"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F17111740%2FHomeView_00011.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>iFixit's teardown of Apple's HomeView smart home hub reveals a surprisingly difficult repair process, contrasting with recent improvements in repairability seen in standalone iPads and HomePods. Despite promising modular aspects in its speaker base, the device presents major hurdles to repair.</p><p>The teardown highlights extensive use of strong adhesives, fragile plastic connectors that break easily during removal, mixed screw types, and a complex thermal design. These elements make replacing internal components like the display, speakers, and logic board highly risky and prone to physical damage.</p>
+<p>Nov 18 · <a href="https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward">ifixit.com</a> | <a href="https://www.reddit.com/r/apple/comments/1xz69aj/we_took_apart_apples_homeview_it_got_ugly_ifixit/">r/apple</a></p>
+<br clear="all" />
+
 <h2>Xreal Aura Review</h2>
 <a name="story-27785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cnet.com%2Fwp-content%2Fuploads%2Fsites%2F2%2FXreal.Aura_.2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google and Xreal's Aura is a hybrid device bridging the gap between smart glasses and VR headsets. Powered by Android XR via a tethered processor puck, it runs Android apps in 2D or immersive 3D and supports hand tracking for spatial navigation.</p><p>The glasses feature bright micro OLED displays with a 70-degree field of view, but the experience is limited by a narrow viewing area, awkward input controls, and a small app ecosystem. While highly portable, the device lacks dedicated controller support and the wide field of vision typical of VR headsets.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27632"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2FEc7_OhUxbRaSDsBPPauST7HqK0rkyBYY6EjqKX_MLAGqn6RnfnW2glqOsCVy7XozDftiVmLJHnVdSd1_mdagLd2CBvI-oAJkXYemgb4pIG2G56SNNB6ScdsZ0g&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unity has introduced the "Unity Fellowship," a program designed to support independent game developers through the final stages of their development. Ten selected teams will receive $50,000 in non-repayable funding along with dedicated resources, including a direct point-of-contact at Unity, marketing and PR support, and access to a network of industry experts.</p><p>The initiative targets developers who are approximately one year away from launch and aims to assist with the go-to-market phase on mobile, console, or PC. Unity's senior vice president of product, Adam Smith, stated that the program focuses on helping developers navigate the challenges of game discoverability and successful product launches.</p>
 <p>Nov 16 · <a href="https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program">gamedeveloper.com</a> | <a href="https://unity.com/news/unity-launches-the-unity-fellowship-to-support-indie-studios">unity.com</a></p>
-<br clear="all" />
-
-<h2>Apple Launches Health AI Usage Study App</h2>
-<a name="story-27575"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F09%2Fapple-introduces-apple-watch-se-3%2Farticle%2FApple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has launched a new iOS research application in partnership with OpenEvidence to study how users engage with clinically grounded artificial intelligence for health queries. The study aims to enroll up to 200,000 participants in the United States over the age of 21 using an iPhone 15 or later with Apple Intelligence enabled, running for a duration of over 12 months.</p><p>Participants can ask everyday medical questions and receive simplified answers grounded in clinical data from sources like The New England Journal of Medicine and Nature, while also optionally contributing HealthKit data for personalized insights. Apple stated that all collected query and response data is anonymized, handled by a secure third-party cloud provider, deleted after 24 hours by OpenEvidence, and excluded from AI training models.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">techcrunch.com</a> | <a href="https://apps.apple.com/us/app/apple-health-ai-study-app/id6800060365">apps.apple.com</a></p>
 <br clear="all" />
 
 ---

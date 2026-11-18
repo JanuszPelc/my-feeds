@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Sarasa Gothic Monospace Typeface</h2>
+<a name="story-27860"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpicaq.github.io%2Fsarasa%2Fsarasa-gothic-mono.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sarasa Gothic is an open-source, multilingual monospace typeface designed for programmers. Created by Renzhi Li (be5invis), it combines elements of Source Han Sans and Iosevka to support over 160 human languages alongside extensive programming features.</p><p>The typeface includes programming ligatures, math symbols, and true type font hinting optimized for tiny sizes. It features a fixed 0.5em set width for characters to align with 1em CJK characters and is available in multiple weights, styles, and regional orthographies across numerous individual font files.</p>
+<p>Nov 18 · <a href="https://picaq.github.io/sarasa">picaq.github.io</a> | <a href="https://github.com/be5invis/Sarasa-Gothic">github.com</a> | <a href="https://lobste.rs/s/de02yg/sarasa_gothic_mono">lobsters</a></p>
+<br clear="all" />
+
 <h2>Apple Developer System Status Overview</h2>
 <a name="story-27856"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F02%2Fdeveloper-system-status-page1.png%3Fw%3D1000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple provides a dedicated system status page for monitoring the availability and performance of developer-facing services, including App Store Connect and TestFlight. Developers can check real-time updates regarding outages, maintenance, and service disruptions.</p><p>The platform allows users to stay informed about operational changes and incidents affecting the Apple Developer ecosystem. Additional support resources, news, and developer applications are linked directly through the portal.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27730"><img src="https://wsrv.nl/?url=https%3A%2F%2Flinebender.org%2Fwiki%2Fcurves%2Fsquircle%2Fapple_vs_superellipse.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A squircle is a geometric shape intermediate between a square and a circle, encompassing various parametrized curves rather than a single mathematical definition. Well-known variants include superellipses, flat-sided designs such as Apple's icon shape introduced in iOS 7, and approximations used in design tools like Figma.</p><p>Different squircle variants vary in their mathematical properties, continuity levels, and parameters like gauge or superellipse exponents. Recent developments include standardization via the CSS box decorations spec's corner-shape property, allowing web browsers and developers to implement these continuous corner geometries efficiently using closed-form Bézier approximations.</p>
 <p>Nov 17 · <a href="https://linebender.org/wiki/curves/squircle/">linebender.org</a> | <a href="https://lobste.rs/s/iihw5u/squircles">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50515151">hacker news</a></p>
-<br clear="all" />
-
-<h2>Apple Overhauls App Permissions and Full Disk Access in macOS 27.3 Beta</h2>
-<a name="story-27698"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.howtoisolve.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fallow-full-disk-access-on-mac-to-app.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has introduced updates in the macOS 27.3 beta that restructure the Full Disk Access API and split the Device Control and Data Access setting into System &amp; App Protection Override and Accessibility options. The changes establish a single method for granting permissions via an app list, allow users to restrict access to specific folders or apps rather than granting unrestricted privileges, and add menu bar transparency indicators when an app controls another.</p><p>The adjustments are designed to give users granular control over data shared with third-party software, mitigating security risks posed by AI agents requesting broad system access. Developers must update their onboarding processes to ensure applications gracefully handle limited folder or app permissions, while certain tools like disk backup utilities can request specific entitlements to maintain previous installation experiences.</p>
-<p>Nov 17 · <a href="https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/">macrumors.com</a> | <a href="https://developer.apple.com/news/?id=oqng0zjk">developer.apple.com</a> | <a href="https://www.reddit.com/r/apple/comments/1xy992e/updates_to_device_control_and_data_access_and/">r/apple</a></p>
 <br clear="all" />
 
 ---

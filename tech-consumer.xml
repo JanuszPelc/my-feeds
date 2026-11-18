@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
   <entry>
+    <title>Apple HomeView Teardown Reveals Low Repairability</title>
+    <link href="https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward" rel="alternate" />
+    <id>https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward::v240</id>
+    <published>2026-11-18T02:07:00+00:00</published>
+    <updated>2026-11-18T02:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F17111740%2FHomeView_00011.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward">ifixit.com</a> | <a href="https://www.reddit.com/r/apple/comments/1xz69aj/we_took_apart_apples_homeview_it_got_ugly_ifixit/">r/apple</a></small></p><hr/><p>iFixit's teardown of Apple's HomeView smart home hub reveals a surprisingly difficult repair process, contrasting with recent improvements in repairability seen in standalone iPads and HomePods. Despite promising modular aspects in its speaker base, the device presents major hurdles to repair.</p><p>The teardown highlights extensive use of strong adhesives, fragile plastic connectors that break easily during removal, mixed screw types, and a complex thermal design. These elements make replacing internal components like the display, speakers, and logic board highly risky and prone to physical damage.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F17111740%2FHomeView_00011.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 09:26 UTC | #27826</small>]]></content>
+  </entry>
+  <entry>
     <title>Xreal Aura Review</title>
     <link href="https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/" rel="alternate" />
     <id>https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/::v240</id>
