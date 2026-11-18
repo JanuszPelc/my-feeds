@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-17T17:37:00+00:00</updated>
+  <updated>2026-11-17T18:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>UK Government to Extend Palantir's NHS Data Contract Until 2029</title>
+    <link href="https://www.bbc.com/news/articles/cqvg27zpm8w8o" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/cqvg27zpm8w8o::v240</id>
+    <published>2026-11-17T18:06:00+00:00</published>
+    <updated>2026-11-17T18:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.techbuzz.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1200%2Cheight%3D1200%2Cquality%3D80%2Cformat%3Dauto%2Cfit%3Dcover%2Fhttps%3A%2F%2Fcharming-card-d91ad3487b.media.strapiapp.com%2Ffile_c4e9d95dab.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bbc.com/news/articles/cqvg27zpm8w8o">bbc.com</a></small></p><hr/><p>The UK government will maintain the NHS data management contract with Palantir until 2029, declining to trigger an early release clause next year. The £330m deal, which assists in managing hospital waiting lists in England, will transition to a competitive tender process starting in summer 2025 to encourage participation from British firms.</p><p>The decision has drawn criticism from various political figures and the British Medical Association, who argue the delay maintains an unnecessary dependency on the US-based company. Opponents have frequently cited Palantir's involvement in US immigration enforcement and the Israeli military as reasons for the controversy. Palantir UK has defended the partnership, stating the current program is exceeding its performance targets.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techbuzz.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1200%2Cheight%3D1200%2Cquality%3D80%2Cformat%3Dauto%2Cfit%3Dcover%2Fhttps%3A%2F%2Fcharming-card-d91ad3487b.media.strapiapp.com%2Ffile_c4e9d95dab.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 23:44 UTC | #27728</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Watch's Siri Recap and Live Rewind Beta Features Face Accuracy and Privacy Concerns</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value" rel="alternate" />

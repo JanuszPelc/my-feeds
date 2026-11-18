@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>UK Government to Extend Palantir&#x27;s NHS Data Contract Until 2029</h2>
+<a name="story-27728"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techbuzz.ai%2Fcdn-cgi%2Fimage%2Fwidth%3D1200%2Cheight%3D1200%2Cquality%3D80%2Cformat%3Dauto%2Cfit%3Dcover%2Fhttps%3A%2F%2Fcharming-card-d91ad3487b.media.strapiapp.com%2Ffile_c4e9d95dab.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The UK government will maintain the NHS data management contract with Palantir until 2029, declining to trigger an early release clause next year. The £330m deal, which assists in managing hospital waiting lists in England, will transition to a competitive tender process starting in summer 2025 to encourage participation from British firms.</p><p>The decision has drawn criticism from various political figures and the British Medical Association, who argue the delay maintains an unnecessary dependency on the US-based company. Opponents have frequently cited Palantir's involvement in US immigration enforcement and the Israeli military as reasons for the controversy. Palantir UK has defended the partnership, stating the current program is exceeding its performance targets.</p>
+<p>Nov 17 · <a href="https://www.bbc.com/news/articles/cqvg27zpm8w8o">bbc.com</a></p>
+<br clear="all" />
+
 <h2>Apple Watch&#x27;s Siri Recap and Live Rewind Beta Features Face Accuracy and Privacy Concerns</h2>
 <a name="story-27726"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.iclarified.com%2Fimages%2Fnews%2F103269%2F489699%2F489699-640.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple's Siri Recap and Live Rewind beta features for the Apple Watch provide inaccurate conversation summaries and fail to justify the privacy risks of their "always-listening" design. Siri Recap generates high-level notes from daily conversations and stores them in a Siri AI app, while Live Rewind allows users to access a transcript of the previous 15 seconds of audio by double-pressing the digital crown.</p><p>The tools currently underperform compared to competitors such as Amazon Bee, Granola, and Otter. Additionally, the continuous audio monitoring required for these features has drawn scrutiny from legal experts regarding potential violations of eavesdropping laws in several jurisdictions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27643"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fdata-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Musician Samantha Shokin received copyright strikes on YouTube for her recording of a public domain Bulgarian folk song. The claims were issued by Media Nov Records, a company that operates approximately 500 YouTube channels featuring AI-generated art and low-effort electronic music.</p><p>Media Nov Records uses automated systems for rights management and content recognition, but investigations suggest the company may use a "shotgun approach" to filing takedowns. The copyright dispute was only resolved after 404 Media contacted the company, leading Media Nov to retract the claim.</p>
 <p>Nov 16 · <a href="https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/">404media.co</a></p>
-<br clear="all" />
-
-<h2>Megaspeed Conducts Internal Probe and Confirms Alice Huang Left in 2025</h2>
-<a name="story-27560"><img src="https://wsrv.nl/?url=https%3A%2F%2Falicecwhuang.github.io%2Fimg%2Fprofile.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Singapore-based cloud computing company Megaspeed International announced an internal investigation led by outside lawyers amid ongoing fallout surrounding Chinese businesswoman Alice Huang. The company stated that Huang left her role in August 2025 and currently holds no position within the organization.</p><p>Megaspeed has faced scrutiny from U.S. and Singapore authorities over allegations that it circumvented export restrictions to route advanced Nvidia chips to Chinese companies. The scrutiny and reports regarding Huang's relationship with former Nvidia CEO Jensen Huang previously prompted his resignation, while U.S. and Singapore officials continue examining compliance and security matters.</p>
-<p>Nov 15 · <a href="https://apnews.com/article/singapore-megaspeed-alice-huang-nvidia-probe-e9e2e18169dce0b30a34f39715bf35ed">apnews.com</a></p>
 <br clear="all" />
 
 ---

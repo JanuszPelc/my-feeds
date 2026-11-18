@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>MTHRBORD.STUDIO Releases Free ACL2500 VCA Bus Compressor</h2>
+<a name="story-27793"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fxpvr8zttm3jedd4wzigodz1g0q5t&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>MTHRBORD.STUDIO has released ACL2500, a free stereo VCA bus compressor for macOS and Windows. The plugin is modeled from measurements and recordings of the API 2500 hardware, using AI to assist in the mathematical development of its algorithms.</p><p>Key features include THRUST sidechain processing to mitigate low-end influence on compression, selectable feed-forward and feedback modes, and three knee settings. It is available for macOS in VST3 and AU formats, and for Windows as a VST3 plugin or standalone application.</p>
+<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/">bedroomproducersblog.com</a> | <a href="https://mthrbord.studio/plugins/acl2500/">mthrbord.studio</a></p>
+<br clear="all" />
+
+<h2>zc devices Releases Thicket Polyphonic Modular Synthesizer</h2>
+<a name="story-27794"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FazP6qfO6l-w%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Thicket is a polyphonic modular synthesizer plugin for Windows, macOS, and Linux featuring a visual patching workspace with 50 nodes and nine sound engines. The software supports MPE and is available in VST3, CLAP, and AU formats.</p><p>The release includes 200 presets, over 100 samples and wavetables, and ThicketFX, an effect version for processing external audio from a DAW. A $99 introductory price is available through November, with the standard price set at $159.</p>
+<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/zc-devices-thicket-2/">bedroomproducersblog.com</a> | <a href="https://zcdevices.com/thicket">zcdevices.com</a></p>
+<br clear="all" />
+
 <h2>XLN Audio Releases RC-20 Retro Color v2 Multi-Effects Plugin</h2>
 <a name="story-27754"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FXLN-Audio-RC-20-Retro-Color-V2-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>XLN Audio has released RC-20 Retro Color v2, a major update to its vintage lo-fi multi-effects plugin. Ten years after the debut of the original software, the update introduces a new Echo module featuring granular processing and feedback routing through the plugin's effect chain, alongside expanded degradation tools and new distortion algorithms.</p><p>The updated plugin maintains backward compatibility by automatically importing version 1 presets and installing alongside legacy versions to preserve existing projects. Additional improvements include an expanded Space module with 33 reverb types, a Codec processor for lossy audio emulation, a revamped Flux modulation interface, and precise frequency focus and cut controls.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27718"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flush_cart_thumb-1408.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Gorilla DSP has released Lush Reverb, a new VST3 and AAX plugin for Windows priced at $49. The audio effect combines an algorithmic reverb engine, a reflection-integrated shimmer effect, and a physically modeled spring tank.</p><p>The plugin features a 12-band parametric EQ with a live spectrum analyzer dedicated to shaping the wet signal, alongside extensive controls for decay, pre-delay, brightness, and stereo width. It ships with 93 factory presets spanning room, hall, plate, ambience, shimmer, and spring categories.</p>
 <p>Nov 17 · <a href="https://www.kvraudio.com/news/gorilla-dsp-releases-lush-reverb-for-windows-vst3-and-aax-69879?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69879">kvraudio.com</a> | <a href="https://gorilladsp.com/lush-reverb/">gorilladsp.com</a></p>
-<br clear="all" />
-
-<h2>Mutagene Updates Xoradora Drum Resynthesizer to v1.0.0-rc.4</h2>
-<a name="story-27686"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fxoradora-beta-3-main.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The v1.0.0-rc.4 update for Xoradora, a sample-based resynthesis drum machine, is now available for macOS, Windows, and Linux. Key features include independent component loops with adjustable crossfades, separate playback regions for resynthesis modes, and expanded sound shaping through new carrier and spectral-colour controls.</p><p>Other enhancements include parameter locks for Mutate and Evolve, expressive envelopes with editable timelines in a "Guided view," and optimized CPU performance. Xoradora is available in VST3, CLAP, AU, and Standalone formats for a pre-release price of €44 / US$49.</p>
-<p>Nov 16 · <a href="https://www.kvraudio.com/news/mutagene-updates-xoradora-drum-resynthesizer-to-v1-0-0-rc-4-68567?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68567">kvraudio.com</a> | <a href="https://dsp.mutagene.net/plugins/xoradora/">dsp.mutagene.net</a></p>
-<br clear="all" />
-
-<h2>MusicTech Highlights Black Friday 2026 Music Technology Deals</h2>
-<a name="story-27671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fableton-push-black-friday-simon-vinall%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>MusicTech has released its curated list of Black Friday 2026 deals for music technology, including plugins, hardware, and DAWs. Featured discounts include the Solid State Logic SSL Fusion Bundle for £44, the Universal Audio Minimoog plugin for £26, and the AKG Ara USB microphone for £16.60.</p><p>The selection prioritizes products with positive review histories and industry popularity from retailers such as Thomann and Plugin Boutique. The guide evaluates the value of these deals by comparing promotional prices against standard market rates.</p>
-<p>Nov 16 · <a href="https://musictech.com/news/gear/best-black-friday-music-tech-deals/">musictech.com</a></p>
 <br clear="all" />
 
 ---

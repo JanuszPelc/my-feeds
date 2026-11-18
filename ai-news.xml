@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-17T17:46:00+00:00</updated>
+  <updated>2026-11-17T18:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Decision Model Usage Increases as Customization Becomes the Next Frontier</title>
+    <link href="https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/::v240</id>
+    <published>2026-11-17T18:12:00+00:00</published>
+    <updated>2026-11-17T18:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fqubit.capital%2Fwp-content%2Fuploads%2F2026%2F04%2Fpre-seed-harder-ai-mvps-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/">techcrunch.com</a></small></p><hr/><p>Specialized LLMs designed to select between preset options and provide confidence scores, rather than generating text tokens, are seeing a surge in adoption. In October, decision models accounted for more than 25% of requests on Vercel's AI model router. While major players like TypeSafe and Microsoft are already providing these services, startups like Sqwish are entering the market with specialized architectures and recent pre-seed funding.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fqubit.capital%2Fwp-content%2Fuploads%2F2026%2F04%2Fpre-seed-harder-ai-mvps-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 23:50 UTC | #27783</small>]]></content>
+  </entry>
   <entry>
     <title>Crosspoint Reader Faces Scaling Challenges and LLM-Generated Contributions</title>
     <link href="https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424" rel="alternate" />
