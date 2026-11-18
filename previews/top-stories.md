@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;NVIDIA Reports Third Quarter Fiscal 2027 Financial Results</h2>
+<a name="story-27812"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fforums%2Fattachments%2F386910&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>NVIDIA recorded $115.8 billion in revenue for the third quarter of fiscal 2027, a 103% increase year-over-year. Data center revenue reached $107.6 billion, up 110% from a year ago. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively.</p><p>The company has begun shipping its Vera Rubin NVL72 computing platform and increased its share repurchase authorization by $150 billion. For the fourth quarter of fiscal 2027, NVIDIA expects revenue to be approximately $130 billion.</p>
+<p>Nov 18 · <a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027">nvidianews.nvidia.com</a> | <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx">investor.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50538361">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Grand Theft Auto VI Review</h2>
 <a name="story-27865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FGrand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dual protagonists Jason and Lucia drive a criminal partnership balanced by moments of domestic routine. Set in an expanded Vice City, the game juxtaposes high-stakes action with interactive, mundane activities within a highly detailed urban simulation.</p><p>Technical achievements include an advanced crowd system, sophisticated lighting, and dense interior environments. While the game receives criticism for occasional repetitive missions and dated humor, it is noted for its massive scale, complex simulation elements, and immersive side activities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27808"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxusheng.dev%2Fposts%2Fwindows-coding-agent-telemetry%2Fagent-names.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Reverse engineering of Windows 11's MissionControlAggregator.dll reveals that the operating system tracks the usage of specific AI coding agents and developer tools. The system uses Event Tracing for Windows (ETW) to monitor processes such as claude.exe, cursor.exe, python.exe, and gcc.exe, recording their presence in diagnostic reports.</p><p>This usage data is organized into bitsets representing CLI agents, desktop agents, and broader developer tool categories. If optional diagnostic data is enabled—the default setting in several regions including the United States—the telemetry is uploaded to Microsoft via the Connected User Experiences and Telemetry service. This collection applies to both native Windows applications and those running within the Windows Subsystem for Linux (WSL).</p>
 <p>Nov 17 · <a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/">xusheng.dev</a> | <a href="https://news.ycombinator.com/item?id=50524736">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-finance.png" width="28" align="texttop" /> &nbsp;Wall Street&#x27;s 10 Biggest 2026 IPOs Fall From Offer Prices</h2>
-<a name="story-27621"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21EJK0%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F067361fd-c97e-4be8-9042-8adb89af1b2c_1376x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The ten largest initial public offerings on Wall Street in 2026, featuring companies such as SpaceX, SK, and Cerebras, have declined by an average of 20.5 percent from their original offer prices.</p><p>This downturn follows four years of consistent market gains and highlights a cooling enthusiasm for artificial intelligence that has dampened recent major public debuts.</p>
-<p>Nov 17 · <a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">ft.com</a></p>
 <br clear="all" />
 
 ---

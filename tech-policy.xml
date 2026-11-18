@@ -3,9 +3,27 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-18T11:20:00+00:00</updated>
+  <updated>2026-11-18T18:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>PlayStation Wins Dismissal of $2.6 Billion UK Antitrust Lawsuit</title>
+    <link href="https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly" rel="alternate" />
+    <id>https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly::v240</id>
+    <published>2026-11-18T18:15:00+00:00</published>
+    <updated>2026-11-18T18:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftech4gamers.com%2Fwp-content%2Fuploads%2F2026%2F03%2FSony-lawsuit-monopoly-Playstation-Store-PS5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly">gamedeveloper.com</a></small></p><hr/><p>London's Competition Appeal Tribunal has dismissed a $2.6 billion class-action lawsuit brought against PlayStation. Filed by consumer rights activist Alex Neill on behalf of approximately 12.2 million UK customers, the suit alleged that Sony abused its dominant market position by imposing a 30 percent commission on digital store purchases and controlling game prices, resulting in excessive costs.</p><p>The tribunal rejected the claims, concluding that the lawsuit failed to establish an infringement of competition law, partly citing the ongoing availability of physical games as a consumer alternative. While this UK case was dismissed, similar class actions targeting digital store fees remain active in other jurisdictions, including the United States, Australia, and the Netherlands.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftech4gamers.com%2Fwp-content%2Fuploads%2F2026%2F03%2FSony-lawsuit-monopoly-Playstation-Store-PS5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 23:26 UTC | #27923</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tyler Robert Buchanan Sentenced to Six Years in Prison for Scattered Spider Crypto Thefts</title>
+    <link href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/::v240</id>
+    <published>2026-11-18T18:12:00+00:00</published>
+    <updated>2026-11-18T18:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fcontent%2Fposts%2F2026%2F11%2F18%2FScattered-Spider-hacker-prison.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/">bleepingcomputer.com</a> | <a href="https://www.justice.gov/usao-cdca/pr/british-national-sentenced-6-years-federal-prison-hacking-companies-and-stealing-least">justice.gov</a></small></p><hr/><p>Tyler Robert Buchanan, a 24-year-old leader of the Scattered Spider cybercrime collective, has been sentenced to six years in federal prison in the United States. Buchanan pleaded guilty to charges including wire fraud and aggravated identity theft after participating in a phishing and SIM-swapping campaign that stole over $11.6 million in cryptocurrency from victims across multiple industries.</p><p>Operating between September 2021 and April 2023, Buchanan and his co-conspirators targeted employees with SMS phishing messages to harvest corporate credentials and drain cryptocurrency wallets. Buchanan was arrested in Spain in June 2024, extradited to U.S. custody, and joins several other key members of the Scattered Spider gang facing lengthy prison sentences for high-profile cyberattacks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fcontent%2Fposts%2F2026%2F11%2F18%2FScattered-Spider-hacker-prison.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 23:25 UTC | #27888</small>]]></content>
+  </entry>
   <entry>
     <title>Marco Rubio States Recent US Tech Outages Are Unrelated and Not Cyberattacks</title>
     <link href="https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/" rel="alternate" />
