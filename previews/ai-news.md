@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Launches GPT-6.2 Astra and GPT-6.2 Sol</h2>
+<a name="story-27780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6XttKhMddBzO6pT2IY2brG%2F841e9a215931057aeb578e1aa45f9bb4%2Fcareer-website-dark-v3.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI has released GPT-6.2 Astra, a frontier model for complex professional and scientific tasks, and GPT-6.2 Sol, an efficient model for everyday work. Both models prioritize token efficiency to reduce costs and increase usage capacity compared to previous versions.</p><p>Astra provides specialized capabilities in coding, 3D design, and scientific simulation, including advanced computer use for CAD tools. The models include enhanced safety safeguards for biological and cybersecurity risks, with Astra meeting a "High" threshold for AI self-improvement capabilities.</p>
+<p>Nov 17 · <a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">openai.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyr3ia/introducing_gpt62_astra_and_sol/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50535230">hacker news</a></p>
+<br clear="all" />
+
 <h2>Google Expands Gemini Tasks to Free Users</h2>
 <a name="story-27788"><img src="https://wsrv.nl/?url=https%3A%2F%2Fclickup.com%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2FGemini-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is expanding Gemini Tasks to hundreds of millions of free users on the Gemini 4 Hydrogen model. The feature allows the AI to perform administrative functions, including calling businesses to book appointments, making purchases through Google Pay, and signing into websites.</p><p>The tool was previously tested as Gemini Spark and was initially limited to Google AI Ultra subscribers. Users can activate the mode by toggling from "Chat" to "Tasks" within the Gemini app and can control it via text or voice commands.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27661"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FOpenAI-chatgpt-CSAM.jpeg%3Fresize%3D1097&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has introduced a new image classifier designed to detect child sexual abuse material (CSAM), including AI-generated imagery. Developed in collaboration with the National Center for Missing and Exploited Children (NCMEC), the tool will be made available to select companies via API at no cost. Additionally, ChatGPT will implement warning screens and 24-hour account suspensions for users attempting to access or generate content that sexualizes children.</p><p>The company is also issuing new guidelines for developers to prevent and report CSAM and is providing law enforcement with AI-powered investigative tools and training. These measures follow ongoing safety concerns and legal challenges regarding the potential for AI technology to be used in the creation of harmful imagery involving minors.</p>
 <p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Audible Launches AI-Powered Audiobook Discovery Feature</h2>
-<a name="story-27648"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2Fchorus%2Fuploads%2Fchorus_asset%2Ffile%2F25562835%2FMaven_Audible_8_6.png%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audible has launched an "audio discovery" feature that uses AI to provide users with brief audio overviews of books. These overviews combine AI-generated summaries of themes and listener reviews with audio commentary from authors or Audible editors.</p><p>The feature aims to help users decide on a book quickly while on the move by synthesizing metadata, synopses, and public reviews. It is part of a broader rollout of AI tools, including "Recaps" and "Ask a Question," as Audible faces increased competition from Spotify's audiobook offerings.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/">techcrunch.com</a> | <a href="https://www.audible.com/about/newsroom/audible-personalizes-how-listeners-find-explore-and-return-to-stories">audible.com</a></p>
 <br clear="all" />
 
 ---
