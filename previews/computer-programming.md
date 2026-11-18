@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Nikita Prokopov Proposes Redesign of GitHub Repository Page</h2>
+<a name="story-27827"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftonsky.me%2Fblog%2Fgithub-redesign%2F10_as-is.png%3Ft%3D1697319007&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nikita Prokopov proposes a comprehensive redesign of the GitHub repository page to resolve issues with information architecture and visual clutter. His proposal addresses problems like nested navigation tabs, redundant icons, and ambiguous button states by suggesting a flattened tab structure and a cleaner, more minimalist interface.</p><p>The redesign includes the addition of a dedicated "Overview" tab that consolidates recent commits, project activity, and contributor statistics. By relocating the repository description and clone URL to more prominent positions, the proposal aims to increase information density and improve the overall usability of the page.</p>
+<p>Nov 17 · <a href="https://tonsky.me/blog/github-redesign/">tonsky.me</a> | <a href="https://lobste.rs/s/kseyz1/github_redesign_2019">lobsters</a></p>
+<br clear="all" />
+
 <h2>Redict Deprecated</h2>
 <a name="story-27820"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocs.digitalocean.com%2Fscreenshots%2Fdatabases%2Fvalkey-migration.9cb57dc15954992821f9e90d4d11783b47cacd2f2618a1cf99231c48ab91bfb9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Redict has been officially deprecated, with version 7.3.6 designated as its final release. The project was created to serve as a copyleft alternative to Redis, but its developer stated that the success of the Valkey project and Redis's return to a copyleft license prevented the formation of a sustainable community.</p><p>Users are advised to migrate to Valkey, which is described as having better long-term prospects than Redis. The migration process is expected to be straightforward, involving either a simple configuration file move or a container update.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F15968&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Andrew Gallant has announced the release of Jiff 1.0, a datetime library for Rust designed to prevent common errors by placing time zone management front and center in its API. The library encapsulates complex temporal concepts like daylight saving time transitions, offsets, and calendar calculations to help developers avoid frequent modeling mistakes.</p><p>Jiff has already achieved widespread production adoption across major Rust projects such as Cargo, uv, and Nushell. With the 1.0 release, the author commits to long-term API stability, enabling developers to safely use Jiff as a public dependency in downstream ecosystem libraries.</p>
 <p>Nov 15 · <a href="https://burntsushi.net/jiff/">burntsushi.net</a> | <a href="https://lobste.rs/s/dxxvek/datetime_library_for_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50519744">hacker news</a></p>
-<br clear="all" />
-
-<h2>Phil Eaton Surveys Memory Management in 40 Major C Projects</h2>
-<a name="story-27563"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fdynamicmemoryallocation-240708091439-6ca10933%2F75%2FDynamic-Memory-Allocation-in-C-programming-4-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Phil Eaton surveyed 40 major C software projects to examine how they handle memory allocation, finding that only eight projects rely exclusively on manual malloc and free operations. The analysis reveals that while manual memory management remains widespread, many prominent codebases incorporate higher-level primitives such as memory regions, reference counting, garbage collection, and scope-based cleanup compiler extensions.</p><p>Memory strategies vary significantly across infrastructure projects, with some prioritizing strict manual control while others lean heavily on specialized allocators. For example, SQLite relies entirely on manual allocation for correctness, whereas projects like Linux and QEMU have increasingly adopted compiler extensions for automated scope cleanup, and others utilize region-based or garbage-collected allocation models.</p>
-<p>Nov 15 · <a href="https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html">theconsensus.dev</a> | <a href="https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50506580">hacker news</a></p>
 <br clear="all" />
 
 ---
