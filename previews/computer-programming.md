@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>FreeBSD GUS Safe Memory Reclamation Scheme Analyzed</h2>
+<a name="story-27903"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpicx.zhimg.com%2Fv2-a2114f71e39a194339999294b1066b1b_r.jpg%3Fsource%3D1def8aca&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>FreeBSD utilizes Global Unbounded Sequences (GUS), an epoch-based safe memory reclamation scheme designed to manage object liveness in lock-free data structures without bounded-epoch synchronization hurdles or expensive global scans. GUS maintains a global monotonically increasing write sequence alongside a read sequence tracking minimum observed CPU activity, leveraging atomic operations and CPU-local tracking to safely determine when retired memory can be freed.</p><p>The mechanism achieves amortization by integrating deeply with the UMA memory allocator, where bucket recycling batches polling operations across multiple objects rather than executing them individually. Apple's XNU operating system employs a similar variant utilizing a recirculation depot and deferred sequence advances, balancing performance tradeoffs such as reduced free-to-reuse latency against read-section fencing overhead compared to alternative approaches like Linux Read-Copy-Update.</p>
+<p>Nov 18 · <a href="https://gregoire.dev/writing/gus/">gregoire.dev</a> | <a href="https://lobste.rs/s/bhfexs/freebsd_gus">lobsters</a></p>
+<br clear="all" />
+
 <h2>Sarasa Gothic Monospace Typeface</h2>
 <a name="story-27860"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpicaq.github.io%2Fsarasa%2Fsarasa-gothic-mono.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sarasa Gothic is an open-source, multilingual monospace typeface designed for programmers. Created by Renzhi Li (be5invis), it combines elements of Source Han Sans and Iosevka to support over 160 human languages alongside extensive programming features.</p><p>The typeface includes programming ligatures, math symbols, and true type font hinting optimized for tiny sizes. It features a fixed 0.5em set width for characters to align with 1em CJK characters and is available in multiple weights, styles, and regional orthographies across numerous individual font files.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27741"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.rust-lang.org%2F2026%2F11%2F16%2Fenabling-parallel-frontend-on-nightly%2Fnalgebra-0.33.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Rust Compiler Team has enabled the parallel frontend of the rustc compiler by default on the nightly channel, starting with the nightly-2026-11-14 toolchain, using two threads initially. This change aims to surface remaining bugs and integration issues in preparation for the feature's eventual stabilization.</p><p>While the compiler's backend has supported multi-threading via LLVM for years, the frontend previously executed sequentially. Benchmarks indicate that utilizing up to eight threads can significantly reduce single-crate compilation times—by up to 44% for tasks like cargo check—though end-to-end crate graph compilation and incremental rebuild gains are more modest. Users can adjust the thread count or opt out via compiler flags while developers work to resolve known limitations regarding diagnostic ordering and build reproducibility.</p>
 <p>Nov 17 · <a href="https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly">lobsters</a></p>
-<br clear="all" />
-
-<h2>Linebender Wiki Explores Mathematical and Practical Definitions of Squircles</h2>
-<a name="story-27730"><img src="https://wsrv.nl/?url=https%3A%2F%2Flinebender.org%2Fwiki%2Fcurves%2Fsquircle%2Fapple_vs_superellipse.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A squircle is a geometric shape intermediate between a square and a circle, encompassing various parametrized curves rather than a single mathematical definition. Well-known variants include superellipses, flat-sided designs such as Apple's icon shape introduced in iOS 7, and approximations used in design tools like Figma.</p><p>Different squircle variants vary in their mathematical properties, continuity levels, and parameters like gauge or superellipse exponents. Recent developments include standardization via the CSS box decorations spec's corner-shape property, allowing web browsers and developers to implement these continuous corner geometries efficiently using closed-form Bézier approximations.</p>
-<p>Nov 17 · <a href="https://linebender.org/wiki/curves/squircle/">linebender.org</a> | <a href="https://lobste.rs/s/iihw5u/squircles">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50515151">hacker news</a></p>
 <br clear="all" />
 
 ---
