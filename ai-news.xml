@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Runta Introduces FrontierHarness Eval v1.1 Benchmark</title>
+    <link href="https://runta.com/blog/introducing-frontierharness-eval-v1-1/" rel="alternate" />
+    <id>https://runta.com/blog/introducing-frontierharness-eval-v1-1/::v240</id>
+    <published>2026-11-18T01:48:00+00:00</published>
+    <updated>2026-11-18T01:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Frunta.com%2Fblog%2Fintroducing-frontierharness-eval-v1-1%2Fharness-scatter-all-models.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://runta.com/blog/introducing-frontierharness-eval-v1-1/">runta.com</a> | <a href="https://news.ycombinator.com/item?id=50532191">hacker news</a></small></p><hr/><p>Runta has released FrontierHarness Eval v1.1, a benchmark evaluating 22 coding-agent harness configurations against five AI models across 62 terminal tasks. Conducted in partnership with Baseten, the study analyzed 27,280 agent runs and 83 billion tokens to identify the most cost-effective and high-performing harness-model combinations.</p><p>Optimal harness selection varies by model, suggesting that users should consider changing harnesses when switching models to maximize efficiency. The research identifies the number of agent steps as the primary driver of cost—rather than prompt size or tool count—and notes that higher costs do not consistently correlate with higher pass rates.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Frunta.com%2Fblog%2Fintroducing-frontierharness-eval-v1-1%2Fharness-scatter-all-models.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 07:11 UTC | #27851</small>]]></content>
+  </entry>
+  <entry>
     <title>Theo Browne Criticizes GPT-6.2 Astra's Usability and Reasoning</title>
     <link href="https://x.com/theo/status/2122760447103484410" rel="alternate" />
     <id>https://x.com/theo/status/2122760447103484410::v240</id>
