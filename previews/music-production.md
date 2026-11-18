@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Hit&#x27;n&#x27;Mix Launches RipX DAW 9 and RipX DAW PRO 9</h2>
+<a name="story-27879"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fnew-ripx-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hit'n'Mix has released RipX DAW 9 and RipX DAW PRO 9, which include improvements to note detection, extraction, and automatic pitch snapping. The update also features enhanced barline and key detection, improved instrument sound replacement, and a metronome count-in that follows the beat in the bar.</p><p>The release includes upgraded Harmony, Vibrato, Reverb, Shimmer, and Saturation effects, as well as new De-esser and Distortion modules. Additionally, the optimized "Smaller Rips" feature is enabled by default, reducing file sizes by five to six times without loss of audio quality.</p>
+<p>Nov 18 · <a href="https://musictech.com/news/gear/hitnmix-upgrades-ripx-daw-ninth-version-key-features/">musictech.com</a> | <a href="https://hitnmix.com/ripx-daw/">hitnmix.com</a></p>
+<br clear="all" />
+
 <h2>Playfair Audio Updates Dynamic Grading to Version 2.1</h2>
 <a name="story-27870"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdynamic-grading-2-1-screenshot-small.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Playfair Audio has released Dynamic Grading 2.1, a free update for existing version 2 owners that introduces a built-in peak limiter and new listen modes for isolating specific dynamic regions. The update also adds presentation latency compensation to keep meters and histograms in sync with audio processing across AU and VST3 formats.</p><p>Alongside the software update, Playfair Audio launched a redesigned website, user accounts, and a rent-to-own purchase option. The licensing system has transitioned from iLok to Playfair Audio accounts, allowing each license to be activated on up to four machines simultaneously while removing the hardware dongle requirement.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27771"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNIF-eEMy_5w%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HoRNet is offering its TrackUtility audio plugin for free until November 19, 2026, using the promotional code TRACKFREE at checkout. Normally priced at €9.90, the utility combines multiple mixing functions such as gain staging, stereo control, and metering into a single interface.</p><p>The plugin supports Windows and macOS in AU, VST, and AAX formats with native Apple Silicon compatibility. It provides automatic peak and RMS gain adjustments, DC offset removal, phase inversion, pan and width controls, and an output limiter, operating without copy protection or license keys.</p>
 <p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/hornet-trackutility-free-again/">bedroomproducersblog.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-trackutility/">hornetplugins.com</a></p>
-<br clear="all" />
-
-<h2>Sylvia Massy Discusses Vintage Microphones and Recording Techniques on My Forever Studio Podcast</h2>
-<a name="story-27725"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsylvia-massy-mfs-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Grammy-winning producer Sylvia Massy discusses her experience recording for artists such as Prince and Tool, her collection of over 3,000 vintage microphones, and her new book, *The Great Book of Vintage Microphones*.</p><p>As part of the eighth season of the *My Forever Studio* podcast, Massy shares insights into her unconventional approach to sound capture and her use of esoteric microphones.</p>
-<p>Nov 17 · <a href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-sylvia-massy/">musictech.com</a></p>
 <br clear="all" />
 
 ---
