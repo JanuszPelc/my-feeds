@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Comparison of WWDC 2007 Core Animation Demo and Modern macOS Performance</h2>
+<a name="story-27847"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaM_8vhVE6jA%2Fhqdefault.jpg%3Fsqp%3D-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC1gOKAgwIABABGE4gXyhlMA8%3D%26rs%3DAOn4CLCLfG-0YpZKdxB4hUfREoifN90hWQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The WWDC 2007 Core Animation demonstration featured seamless features such as live video walls, instant zooming, and instant tag search on 2007-era hardware.</p><p>Modern macOS versions, including Sequoia and Tahoe, exhibit slower interface response times, particularly regarding the loading speed of system panels.</p>
+<p>Nov 18 · <a href="https://lucas.love/100/058">lucas.love</a> | <a href="https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc">lobsters</a></p>
+<br clear="all" />
+
 <h2>curl Maintainer Responds to AI-Generated Rust Rewrites</h2>
 <a name="story-27844"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHIZB2TfagAAu_96.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI-driven efforts have recently produced Rust-based reimplementations of curl and libcurl, including projects like urlx and a newer codebase that used AI agents to convert approximately 185,000 lines of C code. These rewrites aim to provide memory safety by leveraging Rust's features to address historical vulnerabilities in the original C implementation.</p><p>Maintainer Daniel Stenberg argues that while AI can efficiently translate source code, it cannot replicate the decades of stability, continuous bug fixing, and community feedback that sustain the curl project. He notes that the actual curl project implemented hundreds of updates and security fixes during the same period these AI rewrites were being developed, emphasizing that ongoing maintenance is more critical to software longevity than a change in programming language.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F001%2F205%2F950%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Core is an esoteric debugging and paint program that visualizes the memory of running processes by arranging memory pages along a Z-order curve and rendering them as bitmaps where each bit corresponds to a pixel. The software displays text and data segments, stacks, and heaps, allowing users to observe memory structures and directly manipulate or scribble onto the process space.</p><p>By mapping memory to visual textures, the program reveals patterns such as ASCII text, pointers, garbage collection cycles, and graphical assets like game sprites or operating system icons. When attached to emulators or virtual machines, it provides an overview of entire operating systems, rendering dynamic memory allocation and page table activity visible in real time.</p>
 <p>Nov 16 · <a href="https://citrons.xyz/journal/2026-04-13">citrons.xyz</a> | <a href="https://lobste.rs/s/thiekk/paint_memory_other_programs">lobsters</a></p>
-<br clear="all" />
-
-<h2>Nix Dynamic Derivations Explored Through a Chained Build Graph</h2>
-<a name="story-27598"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Ffoods%2Ffoods-11-03602%2Farticle_deploy%2Fhtml%2Fimages%2Ffoods-11-03602-g005.png%3F1668495732&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An exploration of experimental dynamic derivations in Nix demonstrates how a build graph can be created dynamically by chaining derivation outputs, using a programmatic implementation of the song "99 bottles of beer." By leveraging content-addressed derivations and walking the deriver chain using store queries, the build system can sequentially discover and build fifty-one successive derivations.</p><p>The experiment highlights technical constraints such as the 211-character limit on Nix store paths, which restricts the maximum chain length for this naming scheme to fifty derivations. The author also notes underlying bugs discovered during the implementation—such as handling content-addressed producers and deriver queries—as the Nix community continues developing dynamic build graphs through working groups.</p>
-<p>Nov 16 · <a href="https://fzakaria.com/2026/11/14/beer-drv-drv-drv">fzakaria.com</a> | <a href="https://lobste.rs/s/md0vco/beer_drv_drv_drv">lobsters</a></p>
 <br clear="all" />
 
 ---

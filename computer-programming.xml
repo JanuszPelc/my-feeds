@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-17T23:57:00+00:00</updated>
+  <updated>2026-11-18T00:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Comparison of WWDC 2007 Core Animation Demo and Modern macOS Performance</title>
+    <link href="https://lucas.love/100/058" rel="alternate" />
+    <id>https://lucas.love/100/058::v240</id>
+    <published>2026-11-18T00:20:00+00:00</published>
+    <updated>2026-11-18T00:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaM_8vhVE6jA%2Fhqdefault.jpg%3Fsqp%3D-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC1gOKAgwIABABGE4gXyhlMA8%3D%26rs%3DAOn4CLCLfG-0YpZKdxB4hUfREoifN90hWQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lucas.love/100/058">lucas.love</a> | <a href="https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc">lobsters</a></small></p><hr/><p>The WWDC 2007 Core Animation demonstration featured seamless features such as live video walls, instant zooming, and instant tag search on 2007-era hardware.</p><p>Modern macOS versions, including Sequoia and Tahoe, exhibit slower interface response times, particularly regarding the loading speed of system panels.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaM_8vhVE6jA%2Fhqdefault.jpg%3Fsqp%3D-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC1gOKAgwIABABGE4gXyhlMA8%3D%26rs%3DAOn4CLCLfG-0YpZKdxB4hUfREoifN90hWQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 06:05 UTC | #27847</small>]]></content>
+  </entry>
   <entry>
     <title>curl Maintainer Responds to AI-Generated Rust Rewrites</title>
     <link href="https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/" rel="alternate" />
