@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Quad9 Withdraws From France Following Copyright Site-Blocking Rulings</h2>
+<a name="story-27862"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.quad9.net%2Fuploads%2Fprivate_dns_quad9_768x733_25af50b3f9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Swiss non-profit foundation Quad9 is withdrawing its free public DNS resolver from France after a French court imposed daily financial penalties for failing to block domains accused of copyright infringement. The decision leaves Quad9 with a choice between crippling legal penalties and compromising its users' security and privacy by altering its core service.</p><p>The withdrawal highlights ongoing legal pressures on public DNS infrastructure providers across Europe. Similar site-blocking mandates and penalties have targeted providers like Cloudflare, Cisco, and Google, raising concerns among technologists that forced domain blocking at the DNS layer degrades internet resilience, threatens user privacy, and pushes users toward less transparent or accountable services.</p>
+<p>Nov 18 · <a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">blog.cloudflare.com</a> | <a href="https://quad9.net/news/blog/au-revoir-france/">quad9.net</a> | <a href="https://news.ycombinator.com/item?id=50538994">hacker news</a></p>
+<br clear="all" />
+
 <h2>Phrack Magazine Releases Issue 73</h2>
 <a name="story-27854"><img src="https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9d%2FP72-cover-defcon.jpg%2F500px-P72-cover-defcon.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phrack Magazine's issue 73, the third publication released by the current staff following the project's 40th-anniversary relaunch, contains 23 primary research papers and eight "Line Noise" articles.</p><p>Technical topics covered include container escapes via vDSO, use-after-free exploitation, Chromium sandbox escapes through Skia, and vulnerabilities in machine learning systems. The issue also features "Phrack World History" articles and a professional profile of security researcher Halvar Flake.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27615"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.invisioncic.com%2Fy329496%2Fmonthly_2025_08%2FAO3-Down.jpg.8d5ae2af21dc688db84%282%29.jpg.d8f7b6f55f8bd3f546164e1887fbd9a3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The popular fan fiction platform Archive of Our Own (AO3) has returned online after being forced offline for more than two weeks due to a security incident. The site's volunteer operators confirmed that no user data or stored works were compromised during the outage, though certain features like external work importing were temporarily disabled to expedite the restoration.</p><p>The extended downtime for the noncommercial archive, which hosts nearly 19 million user-submitted stories, highlighted the massive scale and cultural significance of participatory fan fiction communities. While AO3 has consulted with an external security firm and advised users to update their passwords, heavy traffic upon its return caused intentional loading delays as the platform managed user demand.</p>
 <p>Nov 16 · <a href="https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html?unlocked_article_code=1.Q1E.JOzR.v1pS94jn07St&smid=url-share">nytimes.com</a> | <a href="https://archiveofourown.org/">archiveofourown.org</a></p>
-<br clear="all" />
-
-<h2>Universal XSS Vulnerability Discovered in uBlock Origin Element Picker</h2>
-<a name="story-27664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fiter.ca%2Fubo-epicker.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A universal cross-site scripting (UXSS) vulnerability affected uBlock Origin versions 1.75.2 and lower on Firefox, allowing malicious websites to inject arbitrary trusted filter rules. By exploiting the browser extension's element picker through crafted messages and internal UUID leakage, an attacker could execute arbitrary JavaScript in the context of any website.</p><p>The security flaw—tracked as GHSA-cmqw-9r2w-6wv2—was discovered earlier this month and patched in version 1.75.4. The attack vector relied on embedding the element picker interface via an invisible iframe, manipulating message parameters to bypass standard filter restrictions, and tricking users into clicking a hidden creation button.</p>
-<p>Nov 16 · <a href="https://iter.ca/post/ubo-uxss/">iter.ca</a> | <a href="https://news.ycombinator.com/item?id=50513160">hacker news</a></p>
 <br clear="all" />
 
 ---
