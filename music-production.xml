@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-18T16:58:00+00:00</updated>
+  <updated>2026-11-18T17:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Phil Speiser Releases The Pitch 2 Mini Free Vocal Pitch Correction Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/::v240</id>
+    <published>2026-11-18T17:08:00+00:00</published>
+    <updated>2026-11-18T17:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FpexyMnmELkTyNlRAtULwFcjEFM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/">bedroomproducersblog.com</a> | <a href="https://www.philspeiser.com/product/the_pitch-2-mini">philspeiser.com</a></small></p><hr/><p>Phil Speiser has released The Pitch 2 Mini, a free pitch correction plugin for macOS and Windows designed for vocals and other single-note sources. The software features automatic key detection, drift compensation, and a blend dial that scales processing from natural vibrato preservation to hard robotic tuning.</p><p>The plugin provides automation options for targeted note adjustments and offers three distinct latency modes optimized for mixing, recording, and live performance. Compatible with VST3, AU, and AAX formats, the plugin is available through a free checkout process on the developer's website.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FpexyMnmELkTyNlRAtULwFcjEFM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 22:15 UTC | #27907</small>]]></content>
+  </entry>
   <entry>
     <title>Collaya Listener Free Audio Analysis Plugin Released for macOS</title>
     <link href="https://bedroomproducersblog.com/2026/11/18/collaya-listener/" rel="alternate" />

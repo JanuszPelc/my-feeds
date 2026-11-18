@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Phil Speiser Releases The Pitch 2 Mini Free Vocal Pitch Correction Plugin</h2>
+<a name="story-27907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FpexyMnmELkTyNlRAtULwFcjEFM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Phil Speiser has released The Pitch 2 Mini, a free pitch correction plugin for macOS and Windows designed for vocals and other single-note sources. The software features automatic key detection, drift compensation, and a blend dial that scales processing from natural vibrato preservation to hard robotic tuning.</p><p>The plugin provides automation options for targeted note adjustments and offers three distinct latency modes optimized for mixing, recording, and live performance. Compatible with VST3, AU, and AAX formats, the plugin is available through a free checkout process on the developer's website.</p>
+<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/">bedroomproducersblog.com</a> | <a href="https://www.philspeiser.com/product/the_pitch-2-mini">philspeiser.com</a></p>
+<br clear="all" />
+
 <h2>Collaya Listener Free Audio Analysis Plugin Released for macOS</h2>
 <a name="story-27908"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcollaya-v1-mainui-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Collaya Listener is a free audio analysis plugin for Apple Silicon Macs that identifies keys, notes, and chords while providing real-time mix metering. Running locally without cloud audio uploads, the plugin includes a Composition view for harmonic tracking and a Mix view displaying LUFS, true peak, RMS, stereo width, and an eight-band spectrum.</p><p>The plugin functions as a companion to Collaya's main AI co-producer software, supporting features like audio-to-MIDI transcription and cross-track analysis. While the Listener plugin is free to use indefinitely, Collaya is offering an introductory Black Friday discount on its Pro annual plan, reducing the price from $79 to $49 through December 14, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27815"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsuno.bi%2F%28suno.bi%29%2Fog-image-suno-mv.png%3Fv%3D2024-04-01&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence music startup Suno has launched Visuals, a new feature that enables users to generate 15-second video clips, lyric videos, and album art to accompany their audio tracks. Built using a model from the AI firm MiniMax, the tool allows creators to prompt visual ideas or use photo references, with extensions available along a timeline.</p><p>The feature went live on the web, with mobile applications for iOS and Android scheduled to follow in the coming weeks. Visual generation requires separate video credits, which are available through dedicated credit packages or higher-tier subscription plans.</p>
 <p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos">bloomberg.com</a> | <a href="https://suno.com/visuals">suno.com</a></p>
-<br clear="all" />
-
-<h2>MTHRBORD.STUDIO Releases Free ACL2500 VCA Bus Compressor</h2>
-<a name="story-27793"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fxpvr8zttm3jedd4wzigodz1g0q5t&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>MTHRBORD.STUDIO has released ACL2500, a free stereo VCA bus compressor for macOS and Windows. The plugin is modeled from measurements and recordings of the API 2500 hardware, using AI to assist in the mathematical development of its algorithms.</p><p>Key features include THRUST sidechain processing to mitigate low-end influence on compression, selectable feed-forward and feedback modes, and three knee settings. It is available for macOS in VST3 and AU formats, and for Windows as a VST3 plugin or standalone application.</p>
-<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/">bedroomproducersblog.com</a> | <a href="https://mthrbord.studio/plugins/acl2500/">mthrbord.studio</a></p>
 <br clear="all" />
 
 ---

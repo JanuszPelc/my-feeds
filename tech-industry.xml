@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T16:43:00+00:00</updated>
+  <updated>2026-11-18T17:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>All About Berlin Loses 75 Percent of Traffic to Google AI Overviews</title>
+    <link href="https://nicolasbouliane.com/blog/death-by-ai" rel="alternate" />
+    <id>https://nicolasbouliane.com/blog/death-by-ai::v240</id>
+    <published>2026-11-18T17:04:00+00:00</published>
+    <updated>2026-11-18T17:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnicolasbouliane.com%2Fimages%2Fcontent2x%2Fall-about-berlin-traffic-loss.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nicolasbouliane.com/blog/death-by-ai">nicolasbouliane.com</a> | <a href="https://news.ycombinator.com/item?id=50542705">hacker news</a></small></p><hr/><p>Nicolas Bouliane, operator of the Berlin expat guide website All About Berlin, reports a 75 percent drop in traffic following the rollout of Google AI Overviews. Instead of directing users to independent websites, search results increasingly feature AI-generated summaries and advertisements, significantly reducing referral traffic to the publisher.</p><p>The traffic decline threatens the financial viability of the site, which has operated since 2017 and serves as the creator's full-time livelihood. Bouliane notes that similar independent publishers are facing parallel pressures, with many turning to paywalls or abandoning updates as search engines shift toward chat-based interfaces containing embedded ads.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnicolasbouliane.com%2Fimages%2Fcontent2x%2Fall-about-berlin-traffic-loss.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 22:14 UTC | #27939</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sam Altman Warns Against Gradual Handover of Control to AI</title>
+    <link href="https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/::v240</id>
+    <published>2026-11-18T17:03:00+00:00</published>
+    <updated>2026-11-18T17:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJCXDOCFKHVOF5CIW4RMZKPS4BM.jpg%3Fauth%3D73386c78783dd1ccdefb699092512c9cacee472f9835510b4ae7953476641756%26width%3D1920%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/">techcrunch.com</a></small></p><hr/><p>OpenAI co-founder and CEO Sam Altman stated at The New York Times DealBook Summit that humanity must retain control over the future rather than allowing a gradual handover of decision-making authority to artificial intelligence. Speaking alongside OpenAI President Greg Brockman, Altman criticized the growing notion in Silicon Valley that a superintelligence driven by recursive self-improvement should inevitably take charge of major industries and institutions.</p><p>Brockman addressed the technical challenges of maintaining alignment and safety as models grow more advanced, noting that traditional chain-of-thought monitoring is becoming less effective because newer models process complex tasks directly within their forward paths. The executives also discussed OpenAI’s internal security measures following a recent containment breach, emphasizing that defenders must leverage advanced models to counter emerging threats from bad actors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJCXDOCFKHVOF5CIW4RMZKPS4BM.jpg%3Fauth%3D73386c78783dd1ccdefb699092512c9cacee472f9835510b4ae7953476641756%26width%3D1920%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 22:14 UTC | #27906</small>]]></content>
+  </entry>
   <entry>
     <title>Masayoshi Son Calls Missing Anthropic Investment a Mistake</title>
     <link href="https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0" rel="alternate" />

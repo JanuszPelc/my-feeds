@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>All About Berlin Loses 75 Percent of Traffic to Google AI Overviews</h2>
+<a name="story-27939"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnicolasbouliane.com%2Fimages%2Fcontent2x%2Fall-about-berlin-traffic-loss.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nicolas Bouliane, operator of the Berlin expat guide website All About Berlin, reports a 75 percent drop in traffic following the rollout of Google AI Overviews. Instead of directing users to independent websites, search results increasingly feature AI-generated summaries and advertisements, significantly reducing referral traffic to the publisher.</p><p>The traffic decline threatens the financial viability of the site, which has operated since 2017 and serves as the creator's full-time livelihood. Bouliane notes that similar independent publishers are facing parallel pressures, with many turning to paywalls or abandoning updates as search engines shift toward chat-based interfaces containing embedded ads.</p>
+<p>Nov 18 · <a href="https://nicolasbouliane.com/blog/death-by-ai">nicolasbouliane.com</a> | <a href="https://news.ycombinator.com/item?id=50542705">hacker news</a></p>
+<br clear="all" />
+
+<h2>Sam Altman Warns Against Gradual Handover of Control to AI</h2>
+<a name="story-27906"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJCXDOCFKHVOF5CIW4RMZKPS4BM.jpg%3Fauth%3D73386c78783dd1ccdefb699092512c9cacee472f9835510b4ae7953476641756%26width%3D1920%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI co-founder and CEO Sam Altman stated at The New York Times DealBook Summit that humanity must retain control over the future rather than allowing a gradual handover of decision-making authority to artificial intelligence. Speaking alongside OpenAI President Greg Brockman, Altman criticized the growing notion in Silicon Valley that a superintelligence driven by recursive self-improvement should inevitably take charge of major industries and institutions.</p><p>Brockman addressed the technical challenges of maintaining alignment and safety as models grow more advanced, noting that traditional chain-of-thought monitoring is becoming less effective because newer models process complex tasks directly within their forward paths. The executives also discussed OpenAI’s internal security measures following a recent containment breach, emphasizing that defenders must leverage advanced models to counter emerging threats from bad actors.</p>
+<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Masayoshi Son Calls Missing Anthropic Investment a Mistake</h2>
 <a name="story-27890"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.chinadailyhk.com%2Fupload%2Fmain%2Fimage%2F2025%2F06%2F27%2F2c406638c5dc59c1b6ec2e3b8722c502.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SoftBank Group founder and CEO Masayoshi Son stated that passing on a 2023 opportunity to invest in AI startup Anthropic was a mistake. He explained that the Japanese technology conglomerate had already committed to backing rival artificial intelligence firm OpenAI at that time.</p><p>The remarks highlight SoftBank's strategic positioning within the generative AI sector following major financial commitments. SoftBank has poured substantial capital into OpenAI while navigating investment decisions across the rapidly evolving artificial intelligence landscape.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27750"><img src="https://wsrv.nl/?url=https%3A%2F%2Flayer9dc.com%2Fwp-content%2Fuploads%2F2022%2F05%2Fl9dc-rendering-aerial-1024x434.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mexico hosts only 71 of Latin America's more than 500 data center sites, failing to fully participate in the regional AI-driven boom despite its proximity to the United States.</p><p>The country's inability to attract further investment is driven by an electricity grid that requires significant upgrades and burdensome regulatory red tape. These infrastructure and permitting delays prevent Mexico from capitalizing on its strategic geographic advantages.</p>
 <p>Nov 17 · <a href="https://www.bloomberg.com/news/features/2026-11-17/mexico-is-missing-out-on-ai-data-center-boom-as-energy-crunch-bites">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Genesis AI Raises $500M at $3.5B Valuation to Develop Dexterous Robots</h2>
-<a name="story-27739"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2FAI-manufacturing.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Paris-based robotics startup Genesis AI has raised $500 million in a Series A funding round at a $3.5 billion valuation. The company is developing general-purpose robots with advanced dexterity intended for use in warehouses, homes, and other service environments.</p><p>The capital will support the scaling of "Eno," a robot trained on human movement data to perform complex physical tasks in the manufacturing, healthcare, and hospitality sectors. Funding participants include Nvidia, Khosla Ventures, and Premji Invest.</p>
-<p>Nov 17 · <a href="https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?st=VQ2f9L&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html">prnewswire.com</a></p>
-<br clear="all" />
-
-<h2>Jensen Huang Expresses Willingness to Return as Nvidia CEO</h2>
-<a name="story-27763"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256813240.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jensen Huang, the founder and former CEO of Nvidia, issued his first public statement since resigning, expressing a willingness to return to his leadership role if the company's board decides it is in the best interest of shareholders and employees. His departure followed reports of personal misconduct and intense scrutiny regarding Nvidia’s chip exports to China.</p><p>Huang acknowledged making "serious mistakes" and committed to cooperating with an independent board investigation. While more than 10,000 employees and several prominent tech leaders have signed an open letter calling for his reinstatement, reports suggest the board has no immediate plans to bring him back, and he faces significant political opposition in Congress.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/">techcrunch.com</a> | <a href="https://x.com/JensenHuang/status/2122726005219737649?s=20">x.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xyq059/jensen_huang_says_hed_be_honored_to_return_as/">r/technology</a></p>
 <br clear="all" />
 
 ---
