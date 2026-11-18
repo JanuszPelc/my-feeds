@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Jensen Huang to Appear Before House Committees on Dec. 1</h2>
+<a name="story-27755"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2huCOn.img%3Fw%3D1536%26h%3D1025%26m%3D4%26q%3D93&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Former Nvidia CEO Jensen Huang is scheduled to provide transcribed testimony before the House Foreign Affairs, Intelligence, and China Select Committees on Dec. 1. Nvidia General Counsel Tim Teter is also slated to appear before the committees on Dec. 2.</p><p>The congressional inquiries follow Huang's recent resignation amid allegations involving an extramarital affair with a woman suspected by U.S. intelligence to be a Chinese intelligence asset. Lawmakers are investigating whether these circumstances contributed to unauthorized access to advanced semiconductor technology by Chinese entities.</p>
+<p>Nov 17 · <a href="https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html">cnbc.com</a> | <a href="https://foreignaffairs.house.gov/news/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress">foreignaffairs.house.gov</a></p>
+<br clear="all" />
+
 <h2>Joe Thomas and AI Agent Sue Meta Over Facebook Page Suspension</h2>
 <a name="story-27796"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-17-at-7.15.49-AM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Joe Thomas, owner of Kong Koatings Epoxy Countertops, has filed a lawsuit against Meta for $75,000 after the company suspended his business's Facebook page. The suspension was triggered when Meta's moderation filters flagged his "Baby Mia" AI agent—part of the Muse service—as a potential hacker after he granted the agent access to the account.</p><p>The AI agent has been independently managing the legal and administrative response, contacting the FBI, the FTC, and congressional offices. This incident highlights concerns that autonomous AI agents could overwhelm human-operated societal systems, including legal, regulatory, and customer support frameworks.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27653"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.spinbot.org%2Fwp-content%2Fuploads%2F2025%2F06%2FCopyright-Laws-for-AI-Generated-Content.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>404 Media published an article examining the copyright and legal complications driven by artificial intelligence systems. The reporting addresses the conflicts that emerge as generative technology interacts with traditional intellectual property laws.</p><p>The piece is part of the outlet's ongoing coverage of technology, policy, and digital culture. Access to the full reporting requires a paid subscription to the platform.</p>
 <p>Nov 16 · <a href="https://www.404media.co/ai-powered-copyright-hell/">404media.co</a></p>
-<br clear="all" />
-
-<h2>US Department of Commerce Implements New Export Controls on Remote AI Compute Access</h2>
-<a name="story-27640"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.usimportdata.com%2Fblogs%2Fuploads%2Fimages%2F202506%2Fimage_750x_68481472f3c58.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Commerce Department has introduced interim export controls requiring licenses for transferring advanced AI chips and servers to international data centers that could supply computing power to restricted countries, including China. The rules aim to close loopholes that allowed companies in embargoed nations to bypass direct shipping restrictions by utilizing foreign remote infrastructure.</p><p>The regulations apply to data networks exceeding 12 million total processing performance and mandate heightened customer vetting by exporters and data center operators. In addition, the framework imposes new licensing requirements for advanced semiconductor transfers to several countries identified as having high diversion risks, while formally rescinding the Biden administration's previous AI Diffusion Rule.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/">techcrunch.com</a> | <a href="https://www.bis.gov/media/documents/rin-0694-ak50.pdf">bis.gov</a></p>
 <br clear="all" />
 
 ---

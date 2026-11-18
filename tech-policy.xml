@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-17T19:42:00+00:00</updated>
+  <updated>2026-11-17T19:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Jensen Huang to Appear Before House Committees on Dec. 1</title>
+    <link href="https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html::v240</id>
+    <published>2026-11-17T19:48:00+00:00</published>
+    <updated>2026-11-17T19:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2huCOn.img%3Fw%3D1536%26h%3D1025%26m%3D4%26q%3D93&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html">cnbc.com</a> | <a href="https://foreignaffairs.house.gov/news/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress">foreignaffairs.house.gov</a></small></p><hr/><p>Former Nvidia CEO Jensen Huang is scheduled to provide transcribed testimony before the House Foreign Affairs, Intelligence, and China Select Committees on Dec. 1. Nvidia General Counsel Tim Teter is also slated to appear before the committees on Dec. 2.</p><p>The congressional inquiries follow Huang's recent resignation amid allegations involving an extramarital affair with a woman suspected by U.S. intelligence to be a Chinese intelligence asset. Lawmakers are investigating whether these circumstances contributed to unauthorized access to advanced semiconductor technology by Chinese entities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2huCOn.img%3Fw%3D1536%26h%3D1025%26m%3D4%26q%3D93&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 01:45 UTC | #27755</small>]]></content>
+  </entry>
   <entry>
     <title>Joe Thomas and AI Agent Sue Meta Over Facebook Page Suspension</title>
     <link href="https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/" rel="alternate" />
