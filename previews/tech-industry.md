@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Uber and Zipline Launch Drone Delivery Service in Texas</h2>
+<a name="story-27758"><img src="https://wsrv.nl/?url=https%3A%2F%2Faviationweek.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fcrop_freeform%2Fpublic%2F2025-09%2Fuber.jpg%3Fitok%3Dc39GxQX4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A new commercial drone delivery service from Uber Eats and Zipline has debuted in Spring, Texas, a suburb of Houston. Customers can use the Uber Eats app to order from participating restaurants and have their food delivered by autonomous aircraft.</p><p>The Zipline drones can carry up to eight pounds at speeds of 70 mph and use a tether to lower packages to the customer's location. The partnership aims to expand to Dallas and dozens of other U.S. cities, targeting one million deliveries per day by the end of 2029.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/">techcrunch.com</a> | <a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx">investor.uber.com</a></p>
+<br clear="all" />
+
 <h2>Mexico Struggles to Attract Data Center Investment Due to Energy and Regulatory Hurdles</h2>
 <a name="story-27750"><img src="https://wsrv.nl/?url=https%3A%2F%2Flayer9dc.com%2Fwp-content%2Fuploads%2F2022%2F05%2Fl9dc-rendering-aerial-1024x434.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mexico hosts only 71 of Latin America's more than 500 data center sites, failing to fully participate in the regional AI-driven boom despite its proximity to the United States.</p><p>The country's inability to attract further investment is driven by an electricity grid that requires significant upgrades and burdensome regulatory red tape. These infrastructure and permitting delays prevent Mexico from capitalizing on its strategic geographic advantages.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27696"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHF6pbChasAAfbu-.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, re-established significant equity positions and options in artificial intelligence and infrastructure companies at the end of the third quarter following a near-collapse in July. A new regulatory filing reveals that the fund acquired a stake in Australian neocloud firm SharonAI valued at over $440 million, alongside holdings in Cleanspark, IREN, Bitdeer Technologies, and Fermi, as well as call options in Nebius, Sandisk, and Bloom Energy.</p><p>These holdings experienced severe declines during the broader October AI market selloff, with SharonAI dropping 58% in October and Nebius falling significantly following weak forecasts. The losses compound pressures on the fund, which previously saw its assets plunge from a $45 billion peak to roughly $10 billion over the summer, forcing a sale of public equities to Citadel amid cooling investor sentiment toward the sector's growth and heavy debt financing.</p>
 <p>Nov 17 · <a href="https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html">cnbc.com</a> | <a href="https://www.sec.gov/edgar/browse/?CIK=0002045724">sec.gov</a></p>
-<br clear="all" />
-
-<h2>US Department of Justice to Review DoorDash&#x27;s Proposed Acquisition of Instacart</h2>
-<a name="story-27699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.nbcboston.com%2F2025%2F10%2Fimage-33-4.jpg%3Fquality%3D85%26strip%3Dall%26resize%3D1200%2C675&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DoorDash's proposed $17 billion acquisition of Instacart is set for review by the US Department of Justice, according to sources familiar with the matter. The company has reportedly agreed to pay a $1.25 billion breakup fee if the deal fails antitrust scrutiny.</p><p>The deal is intended to expand DoorDash's grocery delivery capabilities. It is expected to face regulatory examination concerning its potential effect on market competition and consumer pricing.</p>
-<p>Nov 17 · <a href="https://www.reuters.com/world/doordash-instacart-merger-be-reviewed-by-doj-sources-say-2026-11-16/">reuters.com</a></p>
 <br clear="all" />
 
 ---
