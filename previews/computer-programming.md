@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Xenodium&#x27;s Contributions to Emacs 31</h2>
+<a name="story-27836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenodium.github.io%2Fimages%2Fhide-another-detail%2Fafter.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Emacs 31 master branch updates include a Dired user option to hide absolute directory paths, an Info.plist update for macOS speech recognition permissions, a "Send to..." menu item for macOS sharing, and restored macOS dictation support.</p><p>Upstream Emacs contributions require assigning copyright to the Free Software Foundation. Open-source sustainability remains a challenge, as many major projects rely on unpaid volunteer labor.</p>
+<p>Nov 17 · <a href="https://xenodium.com/my-emacs-31-contributions">xenodium.com</a> | <a href="https://lobste.rs/s/cezfqe/my_emacs_31_contributions">lobsters</a></p>
+<br clear="all" />
+
 <h2>Nikita Prokopov Proposes Redesign of GitHub Repository Page</h2>
 <a name="story-27827"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftonsky.me%2Fblog%2Fgithub-redesign%2F10_as-is.png%3Ft%3D1697319007&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nikita Prokopov proposes a comprehensive redesign of the GitHub repository page to resolve issues with information architecture and visual clutter. His proposal addresses problems like nested navigation tabs, redundant icons, and ambiguous button states by suggesting a flattened tab structure and a cleaner, more minimalist interface.</p><p>The redesign includes the addition of a dedicated "Overview" tab that consolidates recent commits, project activity, and contributor statistics. By relocating the repository description and clone URL to more prominent positions, the proposal aims to increase information density and improve the overall usability of the page.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27597"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic2.zhimg.com%2Fv2-bb2148a7f481c6a765369447b3ffaf5d_r.gif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer ykiko has released version 1.0 of clice, a next-generation C/C++ language server built on LLVM/Clang and written in modern C++23. Designed to address long-standing architectural limitations in existing tools like clangd, clice features a multi-process compilation pool to prevent server crashes from compiler errors, native support for C++20 named modules, and an asynchronous architecture using C++20 coroutines.</p><p>The stable release follows two and a half years of development and four months of alpha testing across real-world open-source projects. In addition to its language server features—such as enhanced template handling and toolchain environment probing—clice includes a command-line interface with subcommands for project indexing, linting, refactoring, code formatting, and automated module wrapping.</p>
 <p>Nov 16 · <a href="https://www.ykiko.me/en/articles/2105384023094834022/">ykiko.me</a> | <a href="https://github.com/clice-io/clice">github.com</a> | <a href="https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c">lobsters</a></p>
-<br clear="all" />
-
-<h2>Jiff 1.0 Datetime Library for Rust Released</h2>
-<a name="story-27591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial.news.hada.io%2Ftopic%2F15968&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Andrew Gallant has announced the release of Jiff 1.0, a datetime library for Rust designed to prevent common errors by placing time zone management front and center in its API. The library encapsulates complex temporal concepts like daylight saving time transitions, offsets, and calendar calculations to help developers avoid frequent modeling mistakes.</p><p>Jiff has already achieved widespread production adoption across major Rust projects such as Cargo, uv, and Nushell. With the 1.0 release, the author commits to long-term API stability, enabling developers to safely use Jiff as a public dependency in downstream ecosystem libraries.</p>
-<p>Nov 15 · <a href="https://burntsushi.net/jiff/">burntsushi.net</a> | <a href="https://lobste.rs/s/dxxvek/datetime_library_for_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50519744">hacker news</a></p>
 <br clear="all" />
 
 ---

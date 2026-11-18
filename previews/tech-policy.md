@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Madison Huang Helped Steer Nvidia&#x27;s Response to Megaspeed Scrutiny</h2>
+<a name="story-27766"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hCMXZ.img%3Fw%3D768%26h%3D555%26m%3D6%26x%3D325%26y%3D159%26s%3D220%26d%3D220&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Madison Huang, a marketing director and daughter of Nvidia founder Jensen Huang, helped manage the company’s response to scrutiny regarding its business links to Megaspeed. This process reportedly involved the temporary sidelining of a top communications executive.</p><p>Nvidia’s board has launched an investigation into the company’s connections to Megaspeed. The scrutiny focuses on the role played by Madison Huang and her son-in-law in directing the company's public defense.</p>
+<p>Nov 17 · <a href="https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27">ft.com</a></p>
+<br clear="all" />
+
 <h2>DHS Secretary Markwayne Mullin Attributes Recent Tech Outages to Aging Systems</h2>
 <a name="story-27761"><img src="https://wsrv.nl/?url=https%3A%2F%2F6pwlv5vzvfnbrzqk.public.blob.vercel-storage.com%2FGettyImages-2305026572-v84nVUZkPsWMa1mpfXyIzWhtKTUGBE.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US Department of Homeland Security Secretary Markwayne Mullin stated that recent widespread technology outages are not the result of cyberattacks. He attributed the disruptions to the challenges of integrating new technology onto aging, outdated computer systems.</p><p>The outages have recently impacted several sectors, including banking and aviation. While Mullin emphasized infrastructure age, he has also suggested, citing an unnamed technical source, that artificial intelligence may be contributing to system overloads.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Fmultimedia%2F00biz-paxsilica-philippines-01-cflz%2F00biz-paxsilica-philippines-01-cflz-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pax Silica, a U.S.-led initiative to establish artificial intelligence supply chains independent of China, is facing opposition in the Philippines. Activists, farmers, and Indigenous groups are protesting the project due to concerns regarding resource management and displacement.</p><p>The initiative, framed by the Trump administration as a successor to "Pax Americana," aims to counter China's technological influence. Local leaders report being excluded from planning, raising questions about national sovereignty and the impact on community water and electricity supplies.</p>
 <p>Nov 16 · <a href="https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html?unlocked_article_code=1.Q1E.S_8o.St--m43lJuOx&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Meta, Apple, Alphabet, and Signal Oppose Canada&#x27;s Bill C-22</h2>
-<a name="story-27623"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thexyz.com%2Fblog%2Fwp-content%2Fuploads%2Fstopc22XYZ-1280x640.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The proposed Bill C-22 in Canada has met significant opposition from Meta, Apple, Alphabet, and Signal. The legislation would mandate that tech companies retain and provide metadata to government authorities for lawful access.</p><p>This pushback, occurring under Prime Minister Mark Carney's government, highlights tensions between government-mandated lawful access and the security standards maintained by major platforms.</p>
-<p>Nov 16 · <a href="https://www.bloomberg.com/news/articles/2026-11-16/canada-s-carney-faces-meta-google-apple-backlash-over-lawful-access-bill-c-22">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

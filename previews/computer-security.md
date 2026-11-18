@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Google Denies Gmail Outage Reports</h2>
+<a name="story-27810"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FOBEPJS2G5ZDUHNXAYFBTKUBZMI.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google announced via X that its Gmail service is operating normally, addressing reports of service disruptions circulating on Downdetector and social media. Recent tech outages affecting Apple and Microsoft, as well as disruptions in aviation and banking, have heightened concerns regarding the reliability of major tech services.</p><p>Director of National Intelligence Jay Clayton stated that recent service instabilities show no evidence of coordinated cyberattacks or state-sponsored activity. Instead, the increase in issues is attributed to businesses more frequently patching systems to defend against vulnerabilities that AI-driven tools are becoming more adept at uncovering.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/">techcrunch.com</a> | <a href="https://x.com/NewsFromGoogle/status/2122773134453657666">x.com</a></p>
+<br clear="all" />
+
 <h2>NSA&#x27;s Classified Communications Network Experiences Outage</h2>
 <a name="story-27760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cnn.com%2Fapi%2Fv1%2Fimages%2Fstellar%2Fprod%2Fgettyimages-1227141714-20261117152535850.jpg%3Fc%3Doriginal%26q%3Dw_860%2Cc_fill&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NSA Net, the agency's highly classified internal communications system, is currently offline, according to six sources familiar with the matter. The cause remains under investigation, and there is currently no evidence of a cyberattack.</p><p>The agency has implemented staggered arrival schedules for personnel to manage the disruption. Redundant backup systems will prevent the outage from affecting the delivery of urgent intelligence to the president.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>United Launch Alliance Vulcan Rocket Fails During Amazon Satellite Launch</h2>
 <p>A United Launch Alliance Vulcan rocket failed approximately 10 minutes after launching from Florida, destroying a payload of 40 internet satellites for Amazon's Leo broadband network. The incident marks the first total mission failure in the Boeing-Lockheed joint venture's two-decade history.</p><p>The flight was intended to expand Amazon's planned constellation designed to compete with SpaceX's Starlink service. The loss deals a significant setback to the company's deployment timeline following the rocket's return to service.</p>
 <p>Nov 16 · <a href="https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50511072">hacker news</a></p>
-<br clear="all" />
-
-<h2>HPTS 2026 Talk Advocates for Quorum-Based Database Replication</h2>
-<a name="story-27595"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQGG3Wsg1WYspA%2Ffeedshare-shrink_1280%2FB56ZXT_E.PGcAo-%2F0%2F1743018283389%3Fe%3D2147483647%26v%3Dbeta%26t%3DIcciKxtmDYKmMCOwMAaExGYOx9LtMkcNq1EEnFmTzWA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In a presentation at HPTS 2026, the author argues that distributed database architectures should reconsider quorum-based replication rather than relying entirely on Raft. While early quorum systems like Cassandra, Megastore, and E-Paxos faced challenges with contention latency and snapshot management, those historical drawbacks do not make the model inherently impractical.</p><p>The talk examines recent advancements such as QuePaxa and Neo4J's RIOT protocol, which mitigate traditional leaderless consensus bottlenecks by bounding latency under contention and improving state management. The author contends that developing and testing modern quorum databases will provide viable alternatives to dominant primary-backup and consensus-log designs.</p>
-<p>Nov 16 · <a href="https://transactional.blog/talk/please-implement-a-quorum-database">transactional.blog</a> | <a href="https://lobste.rs/s/hgicaq/please_implement_quorum_database">lobsters</a></p>
 <br clear="all" />
 
 ---

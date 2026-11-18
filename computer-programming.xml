@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-17T18:21:00+00:00</updated>
+  <updated>2026-11-17T21:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Xenodium's Contributions to Emacs 31</title>
+    <link href="https://xenodium.com/my-emacs-31-contributions" rel="alternate" />
+    <id>https://xenodium.com/my-emacs-31-contributions::v240</id>
+    <published>2026-11-17T21:25:00+00:00</published>
+    <updated>2026-11-17T21:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fxenodium.github.io%2Fimages%2Fhide-another-detail%2Fafter.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://xenodium.com/my-emacs-31-contributions">xenodium.com</a> | <a href="https://lobste.rs/s/cezfqe/my_emacs_31_contributions">lobsters</a></small></p><hr/><p>Emacs 31 master branch updates include a Dired user option to hide absolute directory paths, an Info.plist update for macOS speech recognition permissions, a "Send to..." menu item for macOS sharing, and restored macOS dictation support.</p><p>Upstream Emacs contributions require assigning copyright to the Free Software Foundation. Open-source sustainability remains a challenge, as many major projects rely on unpaid volunteer labor.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenodium.github.io%2Fimages%2Fhide-another-detail%2Fafter.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 02:47 UTC | #27836</small>]]></content>
+  </entry>
   <entry>
     <title>Nikita Prokopov Proposes Redesign of GitHub Repository Page</title>
     <link href="https://tonsky.me/blog/github-redesign/" rel="alternate" />
