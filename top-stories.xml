@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-18T15:38:00+00:00</updated>
+  <updated>2026-11-18T16:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Judge Denies Dismissal of DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, and Micron</title>
+    <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal" rel="alternate" />
+    <id>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal::v240</id>
+    <published>2026-11-18T16:07:00+00:00</published>
+    <updated>2026-11-18T16:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5592755994e2d440a5792%2F41324ccc-4ff2-4dc1-b5cd-3540491f9408%2Fimage_2026-06-29_185601112.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal">litnews.ai</a> | <a href="https://news.ycombinator.com/item?id=50502988">hacker news</a></small></p><hr/><p>A U.S. federal judge denied a joint motion by Samsung, SK Hynix, and Micron to dismiss a proposed class action accusing the memory manufacturers of conspiring to restrict conventional DRAM supplies. The lawsuit alleges the companies intentionally choked off production of standard memory chips like DDR5 to shift manufacturing capacity toward high bandwidth memory.</p><p>U.S. District Judge Noël Wise ruled that the plaintiffs plausibly alleged an antitrust conspiracy under the Sherman Act, citing plus factors such as long-term HBM lock-ups, refusals to enter long-term conventional DRAM contracts, plant construction delays, and near-identical customer-vetting practices. The court ordered defendants to answer the complaint by December 7, 2026, and scheduled an initial case management conference for January 12, 2027.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5592755994e2d440a5792%2F41324ccc-4ff2-4dc1-b5cd-3540491f9408%2Fimage_2026-06-29_185601112.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 21:25 UTC | #27565 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Calif Discovers Java4Shell RCE Flaw via GPT-6 Cyber</title>
     <link href="https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN" rel="alternate" />

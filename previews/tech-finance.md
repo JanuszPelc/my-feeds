@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Solana Foundation Acquires Majority Stake in Crypto Data Provider CoinGecko</h2>
+<a name="story-27848"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinist.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSolana-and-CoinGecko-Partnership-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Solana Foundation has acquired a majority interest in crypto data provider CoinGecko. The strategic investment aims to expand CoinGecko's market intelligence, trading services, and data capabilities across its platform.</p><p>As part of the initiative, the foundation plans to integrate Solana-powered trading features into CoinGecko's website, mobile app, and GeckoTerminal. The collaboration seeks to serve CoinGecko's 18 million registered users and support the platform's broader expansion phase.</p>
+<p>Nov 18 · <a href="https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko">coindesk.com</a> | <a href="https://solana.com/news/coingecko-backed-by-solana-foundation">solana.com</a></p>
+<br clear="all" />
+
 <h2>NVIDIA Reports Third Quarter Fiscal 2027 Financial Results</h2>
 <a name="story-27812"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fforums%2Fattachments%2F386910&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NVIDIA recorded $115.8 billion in revenue for the third quarter of fiscal 2027, a 103% increase year-over-year. Data center revenue reached $107.6 billion, up 110% from a year ago. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively.</p><p>The company has begun shipping its Vera Rubin NVL72 computing platform and increased its share repurchase authorization by $150 billion. For the fourth quarter of fiscal 2027, NVIDIA expects revenue to be approximately $130 billion.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Corma Raises $125 Million for Defensive AI Agents</h2>
 <p>The Tel Aviv and San Francisco-based startup has secured $125 million in Series A funding led by NEA. The company develops AI agents that are custom-trained to perform defensive cybersecurity operations.</p><p>This investment follows a $60 million seed round completed in August. The year-old company focuses on deploying specialized artificial intelligence to enhance and automate cyber defense capabilities.</p>
 <p>Nov 16 · <a href="https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Jordan Belfort and Shervin Pishevar Launch Tone AI Voice Platform</h2>
-<a name="story-27659"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub-ec68ecb502fe49a1a6af408e889f7e65.r2.dev%2Fcelebs%2FJordan_Belfort.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tone uses strategic tonality and persuasion techniques to optimize sales performance through AI-generated voices. The startup has raised approximately $10 million in funding and reports roughly $700,000 in revenue from clients in sectors such as law and insurance.</p><p>The platform utilizes low-latency, lightweight models to mimic human inflection, including using questioning tones for declarative statements to drive engagement. Tone is also rolling out a self-service tool for content creators to generate expressive AI narration and voice clones.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/">techcrunch.com</a> | <a href="https://www.trytone.ai/blog/introducing-tone">trytone.ai</a></p>
 <br clear="all" />
 
 ---

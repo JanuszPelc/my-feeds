@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grand Theft Auto VI Review</h2>
+<a name="story-27865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FGrand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dual protagonists Jason and Lucia drive a criminal partnership balanced by moments of domestic routine. Set in an expanded Vice City, the game juxtaposes high-stakes action with interactive, mundane activities within a highly detailed urban simulation.</p><p>Technical achievements include an advanced crowd system, sophisticated lighting, and dense interior environments. While the game receives criticism for occasional repetitive missions and dated humor, it is noted for its massive scale, complex simulation elements, and immersive side activities.</p>
+<p>Nov 18 · <a href="https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/">arstechnica.com</a></p>
+<br clear="all" />
+
 <h2>Apple HomeView Teardown Reveals Low Repairability</h2>
 <a name="story-27826"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F17111740%2FHomeView_00011.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>iFixit's teardown of Apple's HomeView smart home hub reveals a surprisingly difficult repair process, contrasting with recent improvements in repairability seen in standalone iPads and HomePods. Despite promising modular aspects in its speaker base, the device presents major hurdles to repair.</p><p>The teardown highlights extensive use of strong adhesives, fragile plastic connectors that break easily during removal, mixed screw types, and a complex thermal design. These elements make replacing internal components like the display, speakers, and logic board highly risky and prone to physical damage.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F16%2Fbusiness%2F16BIZ-APPLE-PODCASTS-2%2F16BIZ-APPLE-PODCASTS-2-articleLarge.png%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple is introducing a dedicated video podcasts section to the Apple TV app, making video content free to all users across more than one billion devices including smart TVs and Rokus. The move expands upon the video features introduced in its core Podcasts app earlier in the year as the company attempts to close the gap with competitors like YouTube and Spotify in the growing video podcast market.</p><p>Although Apple helped pioneer the modern podcasting ecosystem, platforms such as YouTube and Spotify have surpassed it in weekly U.S. audience rankings in recent years. Industry researchers note that the Apple TV integration addresses long-standing demand from creators and consumers who increasingly favor video-based shows and short social media clips for content discovery.</p>
 <p>Nov 16 · <a href="https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html?unlocked_article_code=1.Q1E.xu1z.aQGKo_cvhI1L&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Unity Launches Fellowship Program for Independent Developers</h2>
-<a name="story-27632"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2FEc7_OhUxbRaSDsBPPauST7HqK0rkyBYY6EjqKX_MLAGqn6RnfnW2glqOsCVy7XozDftiVmLJHnVdSd1_mdagLd2CBvI-oAJkXYemgb4pIG2G56SNNB6ScdsZ0g&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Unity has introduced the "Unity Fellowship," a program designed to support independent game developers through the final stages of their development. Ten selected teams will receive $50,000 in non-repayable funding along with dedicated resources, including a direct point-of-contact at Unity, marketing and PR support, and access to a network of industry experts.</p><p>The initiative targets developers who are approximately one year away from launch and aims to assist with the go-to-market phase on mobile, console, or PC. Unity's senior vice president of product, Adam Smith, stated that the program focuses on helping developers navigate the challenges of game discoverability and successful product launches.</p>
-<p>Nov 16 · <a href="https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program">gamedeveloper.com</a> | <a href="https://unity.com/news/unity-launches-the-unity-fellowship-to-support-indie-studios">unity.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>zZounds Offers Early Black Friday Discounts on Music Equipment</h2>
+<a name="story-27864"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fzzounds-bf-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>zZounds has released early Black Friday 2026 discounts on various music technology products. These include Akai MIDI controllers, Roland synthesizers, Shure microphones, and KRK studio monitors.</p><p>Specific offers include the Akai MPK Mini IV for $89 and the Roland FANTOM 6 with a $420 discount. These promotions are available leading up to the official Black Friday date on November 27.</p>
+<p>Nov 18 · <a href="https://musictech.com/news/gear/zzounds-best-black-friday-music-deals-2026/">musictech.com</a> | <a href="https://www.zzounds.com/a--3990787">zzounds.com</a></p>
+<br clear="all" />
+
 <h2>Mercuriall Audio Releases Hazel-50 DX Amplifier for Ampbox</h2>
 <a name="story-27873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fhazel-50dx_small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mercuriall Audio has released the Hazel-50 DX amplifier for its Ampbox modeling platform. Modeled after the Friedman BE-50 Deluxe, the plugin meticulously replicates the circuit component by component to deliver the hand-wired, EL34-powered 50-watt head's glassy cleans and hot-rodded rock tones.</p><p>Alongside the new amplifier, the company introduced three free effect pedals to the Ampbox ecosystem: the Open Drive, based on the Fulltone OCD; the MicroPitch Next stereo detune; and the Dim D-320 stereo dimension processor. The Hazel-50 DX is available for purchase at a promotional introductory price.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27717"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fangus404.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Metric Halo and Make Believe have released the MB Angus 404, an eight-band graphic EQ plugin that models the original Aengus 404 hardware from the 1970s. The software replicates the harmonic color and unique band interactions characteristic of the original studio units.</p><p>Operating with eight stepped bands from 50 Hz to 10 kHz, the plugin allows for adjustments between -12 and +15 dB. It supports L/R, Mono, and M/S channel modes, includes drive-based saturation, and is available for macOS and Windows in VST2, VST3, AU, and AAX formats.</p>
 <p>Nov 17 · <a href="https://www.kvraudio.com/news/metric-halo-releases-mb-angus-404---eight-band-graphic-eq-plugin-69892?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69892">kvraudio.com</a> | <a href="https://mhsecure.com/products/software/Angus404/">mhsecure.com</a></p>
-<br clear="all" />
-
-<h2>Bremmers Audio Design Updates MultitrackStudio for iPad to v5.4.2</h2>
-<a name="story-27711"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmultitrackstudio_ipad.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bremmers Audio Design has released version 5.4.2 of MultitrackStudio for iPad, introducing several updates focused on MIDI recording and file export workflows. The latest version adds a file type selector in the Export MIDI Tracks window to choose between standard MIDI files and MIDI 2.0 formats.</p><p>Additional improvements include better handling of overlapping notes during MIDI recording and the preservation of controllers, RPNs, and per-note controllers at track starts. The update also adds a new Sticks sound to the built-in drum instruments, updates pedal controller editors to be vertically flipped, and ensures that MIDI controllers for drawbars, filters, and resonance affect actively playing notes.</p>
-<p>Nov 17 · <a href="https://www.kvraudio.com/news/bremmers-audio-design-updates-multitrackstudio-for-ipad-to-v5-4-2-69887?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69887">kvraudio.com</a> | <a href="https://www.multitrackstudio.com/ipad.php">multitrackstudio.com</a></p>
 <br clear="all" />
 
 ---
