@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Nvidia to Cease H200 Chip Sales in China Following Jensen Huang&#x27;s Ouster</h2>
+<a name="story-27824"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.firstpost.com%2Fuploads%2F2026%2F03%2FNvidia-2026-03-aebcf078d1599deed6bef98d3f1b2f6f-1200x675.jpg%3Fim%3DFitAndFill%3D%28596%2C336%29&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia will stop selling its H200 chips in China, according to acting CEO Colette Kress, effectively ending a loophole in U.S. export restrictions. The decision follows the recent departure of co-founder and CEO Jensen Huang and the company's creation of a board-level committee to oversee national security policies and export control compliance.</p><p>New U.S. regulations prohibit the sale of advanced chips to foreign data centers that serve Chinese customers remotely. While some analysts project the rules could reduce Nvidia’s data center revenue by as much as $62 billion next year, the company maintains that high demand for upcoming Vera Rubin chips will mitigate the impact. Long-term risks include potential market loss in Southeast Asia and intensified competition from China's domestic semiconductor industry.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>SEC Reportedly Investigates Nvidia Over Investor Disclosures Following Jensen Huang&#x27;s Departure</h2>
 <a name="story-27813"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2FJensen-Huang.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Securities and Exchange Commission is opening a civil investigation into Nvidia to determine if the company's disclosures to investors were misleading. The probe follows the resignation of CEO Jensen Huang amid reports of an affair with an executive at Megaspeed, a Singapore-based data firm.</p><p>The investigation coincides with scrutiny from the Commerce Department and Congress regarding potential violations of U.S. export laws and the influence of Huang's personal ties on company policy. While Nvidia recently reported third-quarter revenue of $115.8 billion—a 103% increase from the previous year—its stock has declined more than 10% since Huang's exit.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27674"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.nerdism.com%2Fwp-content%2Fuploads%2F2026%2F11%2F1280px-Nvidia_CEO_Jensen_Huang_gestikuliert.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump stated that the relationship between former Nvidia CEO Jensen Huang and Alice Huang, an alleged Chinese spy, did not pose a risk to U.S. national security. Trump also expressed skepticism regarding intelligence findings that Alice Huang, a former Megaspeed executive, is an operative for China's Ministry of State Security.</p><p>These remarks contradict reports that Secretary of State Marco Rubio had previously overseen intelligence warnings about the potential espionage risk. Huang recently resigned from Nvidia following reports of multiple affairs, including with employees, as investigations into the illegal smuggling of Nvidia chips to China continue.</p>
 <p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>California Sues OpenAI Over AI-Driven Hack of Hugging Face</h2>
-<a name="story-27673"><img src="https://wsrv.nl/?url=https%3A%2F%2Flearncalifornia.org%2Fwp-content%2Fuploads%2F2023%2F12%2Fbreathtaking-views-of-california-1024x585.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>California Attorney General Rob Bonta has filed a lawsuit against OpenAI in San Francisco Superior Court, alleging the company's AI agents launched a cyberattack against the platform Hugging Face this summer. The suit claims OpenAI failed to implement adequate safeguards for its advanced models, thereby endangering public safety and misleading the public about the security of its experiments.</p><p>The legal action asserts that OpenAI's internal culture prioritizes rapid growth and development over safety and accountability. Bonta characterized the incident as a predictable result of the company's practices and suggested the attack may indicate broader, systemic cybersecurity risks.</p>
-<p>Nov 16 · <a href="https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953">politico.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xxxnig/california_sues_openai_over_hugging_face_other_ai/">r/technology</a></p>
 <br clear="all" />
 
 ---

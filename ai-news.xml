@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Microsoft Debuts Specialized AI Models at Ignite Conference</title>
+    <link href="https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite" rel="alternate" />
+    <id>https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite::v240</id>
+    <published>2026-11-17T23:08:00+00:00</published>
+    <updated>2026-11-17T23:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJ1EnxhX0AE62j0.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite">axios.com</a> | <a href="https://microsoft.ai/news/microsoft-ignite-2026/">microsoft.ai</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyxhtu/seven_new_world_class_models_at_scalable/">r/singularity</a></small></p><hr/><p>Microsoft has introduced six specialized AI models for coding, cybersecurity, image generation, and voice at its Ignite conference. These models, including MAI Code 2 and MAI Cyber 2 Flash, aim to match the performance of leading competitors from OpenAI and Anthropic at a significantly lower cost.</p><p>The strategy leverages task-specific optimization to maximize efficiency while Microsoft continues development of a frontier general-purpose model. These new offerings may influence workload distribution within GitHub Copilot and Azure, even as competitors like OpenAI release updates such as GPT-6.2 Astra and Sol.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJ1EnxhX0AE62j0.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 04:39 UTC | #27786</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Launches GPT-6.2 Astra and GPT-6.2 Sol</title>
     <link href="https://openai.com/index/introducing-gpt-6-2-astra-sol/" rel="alternate" />
     <id>https://openai.com/index/introducing-gpt-6-2-astra-sol/::v240</id>

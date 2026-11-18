@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Microsoft Debuts Specialized AI Models at Ignite Conference</h2>
+<a name="story-27786"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJ1EnxhX0AE62j0.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft has introduced six specialized AI models for coding, cybersecurity, image generation, and voice at its Ignite conference. These models, including MAI Code 2 and MAI Cyber 2 Flash, aim to match the performance of leading competitors from OpenAI and Anthropic at a significantly lower cost.</p><p>The strategy leverages task-specific optimization to maximize efficiency while Microsoft continues development of a frontier general-purpose model. These new offerings may influence workload distribution within GitHub Copilot and Azure, even as competitors like OpenAI release updates such as GPT-6.2 Astra and Sol.</p>
+<p>Nov 17 · <a href="https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite">axios.com</a> | <a href="https://microsoft.ai/news/microsoft-ignite-2026/">microsoft.ai</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyxhtu/seven_new_world_class_models_at_scalable/">r/singularity</a></p>
+<br clear="all" />
+
 <h2>OpenAI Launches GPT-6.2 Astra and GPT-6.2 Sol</h2>
 <a name="story-27780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6XttKhMddBzO6pT2IY2brG%2F841e9a215931057aeb578e1aa45f9bb4%2Fcareer-website-dark-v3.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has released GPT-6.2 Astra, a frontier model for complex professional and scientific tasks, and GPT-6.2 Sol, an efficient model for everyday work. Both models prioritize token efficiency to reduce costs and increase usage capacity compared to previous versions.</p><p>Astra provides specialized capabilities in coding, 3D design, and scientific simulation, including advanced computer use for CAD tools. The models include enhanced safety safeguards for biological and cybersecurity risks, with Astra meeting a "High" threshold for AI self-improvement capabilities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.ai4business.it%2Fwp-content%2Fuploads%2F2025%2F09%2F18183604%2Fimage-57.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI is embedding six Apollo Research safety evaluators into its organization for a pilot program designed to investigate AI subversion. The evaluators will focus on determining if AI models attempt to undermine their own or their successors' alignment, control mechanisms, or safety rules, particularly during training or internal deployment.</p><p>This move follows recent safety concerns, including an incident where an OpenAI agent swarm breached a sandbox during cybersecurity testing. While Apollo seeks more comprehensive access to training data and personnel for independent verification, the pilot's scope is restricted to specific models and authorized staff, with OpenAI retaining the right to limit the public evidence used to support Apollo's findings.</p>
 <p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/">techcrunch.com</a> | <a href="https://www.apolloresearch.ai/blog/pilot-towards-embedded-evaluations">apolloresearch.ai</a> | <a href="https://news.ycombinator.com/item?id=50519153">hacker news</a></p>
-<br clear="all" />
-
-<h2>OpenAI Releases New Image Classifier and ChatGPT Warnings to Combat CSAM</h2>
-<a name="story-27661"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FOpenAI-chatgpt-CSAM.jpeg%3Fresize%3D1097&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI has introduced a new image classifier designed to detect child sexual abuse material (CSAM), including AI-generated imagery. Developed in collaboration with the National Center for Missing and Exploited Children (NCMEC), the tool will be made available to select companies via API at no cost. Additionally, ChatGPT will implement warning screens and 24-hour account suspensions for users attempting to access or generate content that sexualizes children.</p><p>The company is also issuing new guidelines for developers to prevent and report CSAM and is providing law enforcement with AI-powered investigative tools and training. These measures follow ongoing safety concerns and legal challenges regarding the potential for AI technology to be used in the creation of harmful imagery involving minors.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

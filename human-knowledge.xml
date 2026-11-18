@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-17T19:13:00+00:00</updated>
+  <updated>2026-11-17T23:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Harvard Study Links School Cellphone Bans to Modest Gains in Test Scores</title>
+    <link href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html::v240</id>
+    <published>2026-11-17T23:10:00+00:00</published>
+    <updated>2026-11-17T23:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17up-phone-pouch1-jlkf%2F17up-phone-pouch1-jlkf-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html">nytimes.com</a> | <a href="https://cepr.harvard.edu/resource/phone-free-schools-report">cepr.harvard.edu</a> | <a href="https://news.ycombinator.com/item?id=50530163">hacker news</a></small></p><hr/><p>Implementing strict cellphone bans, such as requiring students to use lockable pouches, correlates with improved math and reading scores. A study by Harvard’s Center for Education Policy Research involving 3.3 million students from 2021 to 2026 found that these bans produced academic gains equivalent to having one or two additional weeks of instruction per year.</p><p>This research provides evidence for the role of smartphone use in the decade-long decline of U.S. student achievement. While earlier studies on cellphone bans yielded mixed results, this large-scale analysis of student-level growth suggests that restricting device access may help reverse long-term academic declines.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17up-phone-pouch1-jlkf%2F17up-phone-pouch1-jlkf-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 04:43 UTC | #27841</small>]]></content>
+  </entry>
   <entry>
     <title>Aboriginal Astronomers Observed Stars, Planets, and Tides for Millennia</title>
     <link href="https://theconversation.com/for-millennia-aboriginal-astronomers-have-explained-the-movement-of-stars-planets-eclipses-and-tides-289990" rel="alternate" />
@@ -176,14 +185,5 @@
     <updated>2026-11-13T10:18:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fn4stqzz9la351.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D8e1b985ee2faf18c122d506239011e8c09f72c08&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/race-realism-why-scientifically-flawed-approach-fails-to-present-a-realistic-view-of-race-290392">theconversation.com</a></small></p><hr/><p>Psychologist Rebecca Sear examines the re-emergence of "race realism" and hereditarian narratives in Western politics and academic spaces, arguing that claims about innate intellectual inferiority across racial groups lack scientific validity. She details how contemporary proponents rely on methodologically compromised datasets, such as the flawed national IQ database, while ignoring extensive consensus in genetics, evolutionary biology, and anthropology regarding human variation.</p><p>Drawing on historical context from early 20th-century eugenics and the modern funding streams supporting pseudoscientific networks, Sear highlights how these flawed narratives are weaponized to fuel far-right propaganda and oppose structural reforms. Mainstream evolutionary science demonstrates that human genetic variation is distributed predominantly within populations rather than neatly categorized races, rendering biological hierarchies entirely baseless.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fn4stqzz9la351.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D8e1b985ee2faf18c122d506239011e8c09f72c08&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 15:27 UTC | #27400</small>]]></content>
-  </entry>
-  <entry>
-    <title>CERN's Future Circular Collider Could Explain How Electrons Acquire Mass</title>
-    <link href="https://theconversation.com/new-physics-machine-at-cern-could-unlock-the-secrets-of-the-electron-295137" rel="alternate" />
-    <id>https://theconversation.com/new-physics-machine-at-cern-could-unlock-the-secrets-of-the-electron-295137::v240</id>
-    <published>2026-11-12T16:01:00+00:00</published>
-    <updated>2026-11-12T16:01:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771534%2Foriginal%2Ffile-20261112-92-y73v5c.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/new-physics-machine-at-cern-could-unlock-the-secrets-of-the-electron-295137">theconversation.com</a> | <a href="https://home.cern/science/accelerators/future-circular-collider/">home.cern</a></small></p><hr/><p>CERN's proposed Future Circular Collider (FCC) could determine if the Higgs mechanism is responsible for the electron's mass. While the Large Hadron Collider has verified the Higgs mechanism for heavier particles, the electron's extremely weak interaction with the Higgs field makes it difficult to measure with current technology.</p><p>The first stage, FCC-ee, would collide electrons and positrons in a 91km ring to directly produce Higgs bosons. This approach could allow researchers to probe the electron-Higgs interaction and potentially detect new particles or undiscovered versions of the Higgs boson.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771534%2Foriginal%2Ffile-20261112-92-y73v5c.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 21:59 UTC | #27306</small>]]></content>
   </entry>
 </feed>

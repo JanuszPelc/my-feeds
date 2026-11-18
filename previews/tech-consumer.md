@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Xreal Aura Review</h2>
+<a name="story-27785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cnet.com%2Fwp-content%2Fuploads%2Fsites%2F2%2FXreal.Aura_.2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google and Xreal's Aura is a hybrid device bridging the gap between smart glasses and VR headsets. Powered by Android XR via a tethered processor puck, it runs Android apps in 2D or immersive 3D and supports hand tracking for spatial navigation.</p><p>The glasses feature bright micro OLED displays with a 70-degree field of view, but the experience is limited by a narrow viewing area, awkward input controls, and a small app ecosystem. While highly portable, the device lacks dedicated controller support and the wide field of vision typical of VR headsets.</p>
+<p>Nov 17 · <a href="https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/">cnet.com</a></p>
+<br clear="all" />
+
 <h2>European Game Worker Unions Publish Manifesto Warning Against Unchecked AI Usage</h2>
 <a name="story-27811"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunist.red%2Fwp-content%2Fuploads%2F2024%2F03%2FIWGB-workers.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The IWGB Game Workers' Branch, alongside unions in Ireland, Spain, and Italy, has released a manifesto addressing the risks of generative AI in game development. The document argues that genAI contributes to job losses, creates unrealistic production pressures, and allows employers to abdicate responsibility for working conditions. It proposes guidelines and standards to protect the workforce and maintain production quality.</p><p>Although 40 percent of game industry professionals use generative AI, 55 percent report it having a negative impact on the industry. Critics have noted that the manifesto's focus is heavily weighted toward artistic roles, with less coverage regarding the potential impact on programming jobs.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27575"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2Fimages%2F2025%2F09%2Fapple-introduces-apple-watch-se-3%2Farticle%2FApple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has launched a new iOS research application in partnership with OpenEvidence to study how users engage with clinically grounded artificial intelligence for health queries. The study aims to enroll up to 200,000 participants in the United States over the age of 21 using an iPhone 15 or later with Apple Intelligence enabled, running for a duration of over 12 months.</p><p>Participants can ask everyday medical questions and receive simplified answers grounded in clinical data from sources like The New England Journal of Medicine and Nature, while also optionally contributing HealthKit data for personalized insights. Apple stated that all collected query and response data is anonymized, handled by a secure third-party cloud provider, deleted after 24 hours by OpenEvidence, and excluded from AI training models.</p>
 <p>Nov 16 · <a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">techcrunch.com</a> | <a href="https://apps.apple.com/us/app/apple-health-ai-study-app/id6800060365">apps.apple.com</a></p>
-<br clear="all" />
-
-<h2>Apple Plans Smart Glasses Launch for Late 2027 With Siri AI Integration</h2>
-<a name="story-27548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.redmondpie.com%2Fwp-content%2Fuploads%2F2024%2F10%2FApple-smart-glasses.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple is reportedly developing a pair of smart glasses focused on deep third-party iPhone app integration powered by Siri AI. Industry sources indicate the company intends to unveil the wearable device at an upcoming Worldwide Developers Conference before shipping it by the end of 2027.</p><p>The hardware initiative forms part of a broader push into AI-driven wearables that includes exploring companion devices such as camera-equipped AirPods and wearable pendants. Concurrently, the company is working on introducing Face ID technology to its upcoming iPhone lineup.</p>
-<p>Nov 15 · <a href="https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDc1NTQ2MSwiZXhwIjoxNzk1MzYwMjYxLCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.2TeBxZfpuwFLhhyEns0-GWBuy-YbU6nhgWwD5smKMD4">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
