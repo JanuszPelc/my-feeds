@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Apple Developer System Status Overview</h2>
+<a name="story-27856"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F02%2Fdeveloper-system-status-page1.png%3Fw%3D1000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple provides a dedicated system status page for monitoring the availability and performance of developer-facing services, including App Store Connect and TestFlight. Developers can check real-time updates regarding outages, maintenance, and service disruptions.</p><p>The platform allows users to stay informed about operational changes and incidents affecting the Apple Developer ecosystem. Additional support resources, news, and developer applications are linked directly through the portal.</p>
+<p>Nov 18 · <a href="https://developer.apple.com/system-status/">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50535238">hacker news</a></p>
+<br clear="all" />
+
 <h2>Bypassing Rust&#x27;s Orphan Rule Using Generic Context Parameters</h2>
 <a name="story-27850"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsoftwaremill.com%2Fuser%2Fpages%2Fblog%2F355.adapter-pattern-in-rust-overcoming-the-orphan-rule-with-newtype-and-extension-traits%2Fia3nakhytdrsn1e.jpg%3Fg-caa9725f&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rust's orphan rule (error E0117) prevents implementing foreign traits for foreign types to maintain ecosystem coherence. Typical workarounds, such as the NewType pattern or adding feature flags to libraries, often result in code bloat, dependency lock-in, or inflexible default behaviors.</p><p>Developers can bypass this restriction by designing traits with a generic context parameter. By using a local marker type within the trait's generic arguments, it is possible to satisfy the orphan rule and implement traits for third-party types without additional wrappers. This technique enables the creation of lightweight, independent domain models and allows for zero-cost, context-specific behavior, as seen in the implementation of the Kova ORM.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27698"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.howtoisolve.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fallow-full-disk-access-on-mac-to-app.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has introduced updates in the macOS 27.3 beta that restructure the Full Disk Access API and split the Device Control and Data Access setting into System &amp; App Protection Override and Accessibility options. The changes establish a single method for granting permissions via an app list, allow users to restrict access to specific folders or apps rather than granting unrestricted privileges, and add menu bar transparency indicators when an app controls another.</p><p>The adjustments are designed to give users granular control over data shared with third-party software, mitigating security risks posed by AI agents requesting broad system access. Developers must update their onboarding processes to ensure applications gracefully handle limited folder or app permissions, while certain tools like disk backup utilities can request specific entitlements to maintain previous installation experiences.</p>
 <p>Nov 17 · <a href="https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/">macrumors.com</a> | <a href="https://developer.apple.com/news/?id=oqng0zjk">developer.apple.com</a> | <a href="https://www.reddit.com/r/apple/comments/1xy992e/updates_to_device_control_and_data_access_and/">r/apple</a></p>
-<br clear="all" />
-
-<h2>Yorick Peterse Migrates Projects from GitHub to Codeberg</h2>
-<a name="story-27684"><img src="https://wsrv.nl/?url=https%3A%2F%2Fepiverse-trace.github.io%2Fgit-rstudio-basics%2Ffig%2Fcut-git-verb_map-11.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The author describes migrating over 70 repositories, including the Inko programming language, from GitHub to Codeberg. The move was prompted by concerns regarding the rise of AI-generated content on GitHub, Microsoft's ownership, and Codeberg's stance on hosting free software and prohibiting AI content.</p><p>The transition required replacing GitHub Actions with Forgejo Actions, leading the author to self-host runners on a Mac Mini and a Deskmini to support testing across Linux, macOS, and FreeBSD. Technical hurdles included navigating GitHub rate limits during the import process and resolving compatibility differences between GitHub and Forgejo CI configurations.</p>
-<p>Nov 16 · <a href="https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/">yorickpeterse.com</a> | <a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg">lobsters</a></p>
 <br clear="all" />
 
 ---
