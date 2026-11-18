@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Masayoshi Son Calls Missing Anthropic Investment a Mistake</h2>
+<a name="story-27890"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.chinadailyhk.com%2Fupload%2Fmain%2Fimage%2F2025%2F06%2F27%2F2c406638c5dc59c1b6ec2e3b8722c502.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SoftBank Group founder and CEO Masayoshi Son stated that passing on a 2023 opportunity to invest in AI startup Anthropic was a mistake. He explained that the Japanese technology conglomerate had already committed to backing rival artificial intelligence firm OpenAI at that time.</p><p>The remarks highlight SoftBank's strategic positioning within the generative AI sector following major financial commitments. SoftBank has poured substantial capital into OpenAI while navigating investment decisions across the rapidly evolving artificial intelligence landscape.</p>
+<p>Nov 18 · <a href="https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0">ft.com</a></p>
+<br clear="all" />
+
 <h2>Humyn Labs Raises $47M to Supply Training Data for Robotics AI</h2>
 <a name="story-27869"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhumynlabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fprod-image-bucket.indi.gg%2Fhumyn-labs%2Fblogs%2F1778074135952_cropped_image_banner.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Humyn Labs has raised $47 million in Series A and venture debt to provide multimodal training data for U.S.-based robotics and AI developers. The $26 million equity round was led by Accel and Cactus Partners, while $21 million in venture debt was led by Lighthouse Canton Growth Debt Fund II.</p><p>The Bengaluru-based startup uses specialized hardware and software to record and label human activities across more than 20 countries to help robots learn to operate in physical environments. The company currently serves 12 customers, primarily in the United States, and reported $10 million in revenue between April and October.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27763"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256813240.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang, the founder and former CEO of Nvidia, issued his first public statement since resigning, expressing a willingness to return to his leadership role if the company's board decides it is in the best interest of shareholders and employees. His departure followed reports of personal misconduct and intense scrutiny regarding Nvidia’s chip exports to China.</p><p>Huang acknowledged making "serious mistakes" and committed to cooperating with an independent board investigation. While more than 10,000 employees and several prominent tech leaders have signed an open letter calling for his reinstatement, reports suggest the board has no immediate plans to bring him back, and he faces significant political opposition in Congress.</p>
 <p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/">techcrunch.com</a> | <a href="https://x.com/JensenHuang/status/2122726005219737649?s=20">x.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xyq059/jensen_huang_says_hed_be_honored_to_return_as/">r/technology</a></p>
-<br clear="all" />
-
-<h2>AI-Powered Tools Show Potential to Automate Hollywood Rotoscoping</h2>
-<a name="story-27722"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Farts%2F12cul-ai-rotos-grid%2F12cul-ai-rotos-grid-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rotoscoping is the painstaking process of tracing objects frame-by-frame to isolate them from film backgrounds. While the visual effects industry has generally resisted artificial intelligence, some professionals are now using AI-driven tools to mitigate the tedium of this specific task.</p><p>Although these tools offer time savings, they currently lack the precision of human artists. The integration of AI into rotoscoping provides a key case study for how automation may influence broader labor and production workflows in Hollywood.</p>
-<p>Nov 17 · <a href="https://www.nytimes.com/2026/11/17/movies/aritifical-intelligence-hollywood-visual-effects.html?unlocked_article_code=1.RFE.I2H3.UgvAdIeAyjOe&smid=url-share">nytimes.com</a></p>
 <br clear="all" />
 
 ---

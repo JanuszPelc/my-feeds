@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-18T16:42:00+00:00</updated>
+  <updated>2026-11-18T16:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Collaya Listener Free Audio Analysis Plugin Released for macOS</title>
+    <link href="https://bedroomproducersblog.com/2026/11/18/collaya-listener/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/18/collaya-listener/::v240</id>
+    <published>2026-11-18T16:58:00+00:00</published>
+    <updated>2026-11-18T16:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcollaya-v1-mainui-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/18/collaya-listener/">bedroomproducersblog.com</a> | <a href="https://collaya.com/download">collaya.com</a></small></p><hr/><p>Collaya Listener is a free audio analysis plugin for Apple Silicon Macs that identifies keys, notes, and chords while providing real-time mix metering. Running locally without cloud audio uploads, the plugin includes a Composition view for harmonic tracking and a Mix view displaying LUFS, true peak, RMS, stereo width, and an eight-band spectrum.</p><p>The plugin functions as a companion to Collaya's main AI co-producer software, supporting features like audio-to-MIDI transcription and cross-track analysis. While the Listener plugin is free to use indefinitely, Collaya is offering an introductory Black Friday discount on its Pro annual plan, reducing the price from $79 to $49 through December 14, 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcollaya-v1-mainui-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 22:00 UTC | #27908</small>]]></content>
+  </entry>
+  <entry>
+    <title>HoRNet Releases RhyGenerator MK2 Euclidean MIDI Sequencer Plugin</title>
+    <link href="https://www.kvraudio.com/news/hornet-releases-rhygenerator-mk2---16-lane-euclidean-midi-sequencer-aax-au-and-vst3-69930?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69930" rel="alternate" />
+    <id>https://www.kvraudio.com/news/hornet-releases-rhygenerator-mk2---16-lane-euclidean-midi-sequencer-aax-au-and-vst3-69930?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69930::v240</id>
+    <published>2026-11-18T16:45:00+00:00</published>
+    <updated>2026-11-18T16:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frhygenerator-mk2-dark-screenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/hornet-releases-rhygenerator-mk2---16-lane-euclidean-midi-sequencer-aax-au-and-vst3-69930?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69930">kvraudio.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-rhygenerator-mk2/">hornetplugins.com</a></small></p><hr/><p>HoRNet Plugins has released RhyGenerator MK2, a MIDI-only Euclidean sequencer available in AU, VST3, and AAX formats for macOS and Windows. The plugin features 16 independent lanes, allowing producers to construct rhythms, basslines, and arpeggios with distinct cycle lengths directly within their host digital audio workstation.</p><p>Each lane supports Euclidean and custom step modes, per-lane LFO modulation for velocity or CC values, and MIDI Learn functionality. The software requires a host capable of routing MIDI output to external instruments and is priced at €16.99, with discounted upgrade paths available for previous owners.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frhygenerator-mk2-dark-screenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 21:59 UTC | #27904</small>]]></content>
+  </entry>
   <entry>
     <title>DAWJunkie Releases Super Duper Basses Free Retro Bass Instrument</title>
     <link href="https://bedroomproducersblog.com/2026/11/18/dawjunkie-super-duper-basses-free/" rel="alternate" />

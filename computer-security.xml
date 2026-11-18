@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-18T09:13:00+00:00</updated>
+  <updated>2026-11-18T16:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Carleton University Researchers Outline Framework for Assessing Cyberattack Impacts on Critical Infrastructure</title>
+    <link href="https://theconversation.com/how-we-can-prepare-for-future-cyberattacks-on-critical-infrastructure-296214" rel="alternate" />
+    <id>https://theconversation.com/how-we-can-prepare-for-future-cyberattacks-on-critical-infrastructure-296214::v240</id>
+    <published>2026-11-18T16:56:00+00:00</published>
+    <updated>2026-11-18T16:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Finnovaromorir.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmarco-evaluar-resiliencia-CPS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/how-we-can-prepare-for-future-cyberattacks-on-critical-infrastructure-296214">theconversation.com</a></small></p><hr/><p>Recent cyberattacks targeting internet-connected infrastructure, such as supermarket refrigeration systems across Europe and municipal water facilities, demonstrate the expanding physical risks to essential services. To better understand and mitigate these threats, researchers advocate shifting cybersecurity analysis from purely preventive measures to comprehensive cyberattack impact assessments.</p><p>A newly developed framework identifies seven interconnected impact dimensions—operational, physical, safety, environmental, economic, societal, and reputational—that help decision-makers trace how digital compromises propagate into the physical world. Evaluating these broader consequences enables organizations to build resilience and maintain critical operations even when digital defenses fail.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Finnovaromorir.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmarco-evaluar-resiliencia-CPS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 21:59 UTC | #27915</small>]]></content>
+  </entry>
   <entry>
     <title>Bank CEOs and NSA Tell Congress AI-Driven Patches Caused Outages</title>
     <link href="https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages" rel="alternate" />

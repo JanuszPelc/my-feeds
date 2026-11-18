@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Collaya Listener Free Audio Analysis Plugin Released for macOS</h2>
+<a name="story-27908"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcollaya-v1-mainui-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Collaya Listener is a free audio analysis plugin for Apple Silicon Macs that identifies keys, notes, and chords while providing real-time mix metering. Running locally without cloud audio uploads, the plugin includes a Composition view for harmonic tracking and a Mix view displaying LUFS, true peak, RMS, stereo width, and an eight-band spectrum.</p><p>The plugin functions as a companion to Collaya's main AI co-producer software, supporting features like audio-to-MIDI transcription and cross-track analysis. While the Listener plugin is free to use indefinitely, Collaya is offering an introductory Black Friday discount on its Pro annual plan, reducing the price from $79 to $49 through December 14, 2026.</p>
+<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/collaya-listener/">bedroomproducersblog.com</a> | <a href="https://collaya.com/download">collaya.com</a></p>
+<br clear="all" />
+
+<h2>HoRNet Releases RhyGenerator MK2 Euclidean MIDI Sequencer Plugin</h2>
+<a name="story-27904"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frhygenerator-mk2-dark-screenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HoRNet Plugins has released RhyGenerator MK2, a MIDI-only Euclidean sequencer available in AU, VST3, and AAX formats for macOS and Windows. The plugin features 16 independent lanes, allowing producers to construct rhythms, basslines, and arpeggios with distinct cycle lengths directly within their host digital audio workstation.</p><p>Each lane supports Euclidean and custom step modes, per-lane LFO modulation for velocity or CC values, and MIDI Learn functionality. The software requires a host capable of routing MIDI output to external instruments and is priced at €16.99, with discounted upgrade paths available for previous owners.</p>
+<p>Nov 18 · <a href="https://www.kvraudio.com/news/hornet-releases-rhygenerator-mk2---16-lane-euclidean-midi-sequencer-aax-au-and-vst3-69930?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69930">kvraudio.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-rhygenerator-mk2/">hornetplugins.com</a></p>
+<br clear="all" />
+
 <h2>DAWJunkie Releases Super Duper Basses Free Retro Bass Instrument</h2>
 <a name="story-27909"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQtpNDBpWk2g%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DAWJunkie has released Super Duper Basses Free, a complimentary virtual instrument for macOS and Windows inspired by 1990s hardware synthesizers. The plugin functions as a streamlined, smaller edition of the developer's paid Super Duper Basses instrument, featuring presets created by Steve Cherubino alongside a compact single-panel interface for tone shaping.</p><p>The user interface provides a preset selector, style control, a standard four-stage ADSR envelope, and dedicated knobs for chorus, phaser, delay, compression, and a crunch section for added grit. Compatible with AU, VST3, and AAX formats across supported operating systems, the instrument requires approximately 50 MB of storage space and is available via email registration on the developer's download page.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27793"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fxpvr8zttm3jedd4wzigodz1g0q5t&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MTHRBORD.STUDIO has released ACL2500, a free stereo VCA bus compressor for macOS and Windows. The plugin is modeled from measurements and recordings of the API 2500 hardware, using AI to assist in the mathematical development of its algorithms.</p><p>Key features include THRUST sidechain processing to mitigate low-end influence on compression, selectable feed-forward and feedback modes, and three knee settings. It is available for macOS in VST3 and AU formats, and for Windows as a VST3 plugin or standalone application.</p>
 <p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/">bedroomproducersblog.com</a> | <a href="https://mthrbord.studio/plugins/acl2500/">mthrbord.studio</a></p>
-<br clear="all" />
-
-<h2>zc devices Releases Thicket Polyphonic Modular Synthesizer</h2>
-<a name="story-27794"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FazP6qfO6l-w%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Thicket is a polyphonic modular synthesizer plugin for Windows, macOS, and Linux featuring a visual patching workspace with 50 nodes and nine sound engines. The software supports MPE and is available in VST3, CLAP, and AU formats.</p><p>The release includes 200 presets, over 100 samples and wavetables, and ThicketFX, an effect version for processing external audio from a DAW. A $99 introductory price is available through November, with the standard price set at $159.</p>
-<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/zc-devices-thicket-2/">bedroomproducersblog.com</a> | <a href="https://zcdevices.com/thicket">zcdevices.com</a></p>
-<br clear="all" />
-
-<h2>XLN Audio Releases RC-20 Retro Color v2 Multi-Effects Plugin</h2>
-<a name="story-27754"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FXLN-Audio-RC-20-Retro-Color-V2-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>XLN Audio has released RC-20 Retro Color v2, a major update to its vintage lo-fi multi-effects plugin. Ten years after the debut of the original software, the update introduces a new Echo module featuring granular processing and feedback routing through the plugin's effect chain, alongside expanded degradation tools and new distortion algorithms.</p><p>The updated plugin maintains backward compatibility by automatically importing version 1 presets and installing alongside legacy versions to preserve existing projects. Additional improvements include an expanded Space module with 33 reverb types, a Codec processor for lossy audio emulation, a revamped Flux modulation interface, and precise frequency focus and cut controls.</p>
-<p>Nov 17 · <a href="https://musictech.com/reviews/plug-ins/xln-audio-rc-20-retro-color-v2-review/">musictech.com</a> | <a href="https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color">xlnaudio.com</a></p>
 <br clear="all" />
 
 ---

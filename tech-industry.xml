@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T11:31:00+00:00</updated>
+  <updated>2026-11-18T16:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Masayoshi Son Calls Missing Anthropic Investment a Mistake</title>
+    <link href="https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0" rel="alternate" />
+    <id>https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0::v240</id>
+    <published>2026-11-18T16:43:00+00:00</published>
+    <updated>2026-11-18T16:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.chinadailyhk.com%2Fupload%2Fmain%2Fimage%2F2025%2F06%2F27%2F2c406638c5dc59c1b6ec2e3b8722c502.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0">ft.com</a></small></p><hr/><p>SoftBank Group founder and CEO Masayoshi Son stated that passing on a 2023 opportunity to invest in AI startup Anthropic was a mistake. He explained that the Japanese technology conglomerate had already committed to backing rival artificial intelligence firm OpenAI at that time.</p><p>The remarks highlight SoftBank's strategic positioning within the generative AI sector following major financial commitments. SoftBank has poured substantial capital into OpenAI while navigating investment decisions across the rapidly evolving artificial intelligence landscape.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.chinadailyhk.com%2Fupload%2Fmain%2Fimage%2F2025%2F06%2F27%2F2c406638c5dc59c1b6ec2e3b8722c502.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 21:59 UTC | #27890</small>]]></content>
+  </entry>
   <entry>
     <title>Humyn Labs Raises $47M to Supply Training Data for Robotics AI</title>
     <link href="https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/" rel="alternate" />
