@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-17T22:57:00+00:00</updated>
+  <updated>2026-11-18T00:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Malware Distributed to Major Websites via Optimizely Supply Chain Attack</title>
+    <link href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/" rel="alternate" />
+    <id>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/::v240</id>
+    <published>2026-11-18T00:59:00+00:00</published>
+    <updated>2026-11-18T00:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.paloaltonetworks.com%2Fcontent%2Fdam%2Fpan%2Fen_US%2Fimages%2Fcyberpedia%2Fwhat-is-a-cyber-attack%2Fsupply-chain-attack.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/">blog.report-uri.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xyigt7/optimizely_hack_infected_cnn_fox_news_bbc/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50524767">hacker news</a></small></p><hr/><p>On November 16, 2026, malicious JavaScript was injected into the Optimizely Web experimentation platform, affecting visitors across 178 major organizations, including Zoom, the BBC, CNN, Salesforce, and GitLab. The multi-purpose payload executed several malicious functions simultaneously, such as swapping cryptocurrency wallet addresses, skimming payment card data from form fields, harvesting non-httpOnly cookies, and delivering iOS exploit kits for mobile devices.</p><p>Researchers at Report URI discovered that attackers modified the custom project JavaScript component within trusted Optimizely snippets served from the platform's CDN. While most of the malicious code was subsequently removed or cleaned up within hours, the incident highlights ongoing risks associated with third-party software dependencies where trusted scripts can be compromised without breaching a website's own infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.paloaltonetworks.com%2Fcontent%2Fdam%2Fpan%2Fen_US%2Fimages%2Fcyberpedia%2Fwhat-is-a-cyber-attack%2Fsupply-chain-attack.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 09:45 UTC | #27701 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Windows 11 Collects Telemetry on AI Coding Agent and Developer Tool Usage</title>
     <link href="https://xusheng.dev/posts/windows-coding-agent-telemetry/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grand Theft Auto VI and Zelda Ocarina of Time Lead The Game Awards Nominees</h2>
+<a name="story-27790"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt859507d51581f713%2F6ae0fbc4f6e3e04aa497e290%2Fgtaviluciaweightsfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Game Awards has announced its 2026 nominations, with Grand Theft Auto VI and The Legend of Zelda: Ocarina of Time among the primary contenders. The Game of the Year category features 007 First Light, Control Resonant, Grand Theft Auto VI, Phantom Blade Zero, Resident Evil Requiem, and the Ocarina of Time remake.</p><p>Grand Theft Auto VI has received seven nominations, including Best Game Direction, Best Narrative, and Best Score and Music. The Ocarina of Time remake has secured four nominations. The awards ceremony is scheduled to air on December 10.</p>
+<p>Nov 17 · <a href="https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards">gamedeveloper.com</a> | <a href="https://thegameawards.com/categories">thegameawards.com</a></p>
+<br clear="all" />
+
 <h2>Grammy Video Game Soundtrack Nominations Reflect Preference for Instrumental Music Over Vocal Songs</h2>
 <a name="story-27779"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi8.amplience.net%2Fi%2Fnaras%2FYour-vote-your-voice-first-round-voting.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The 2026 shortlist for Best Score Soundtrack for Video Games and Other Interactive Media includes *Avatar: Frontiers of Pandora – From the Ashes*, *007: First Light*, *Ghost of Yōtei*, *Marvel’s Wolverine*, and *Star Wars: Zero Company*. These entries are exclusively instrumental, as no soundtracks with prominent vocal songs were nominated.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27569"><img src="https://wsrv.nl/?url=https%3A%2F%2Flaptopmedia.com%2Fwp-content%2Fuploads%2F2017%2F07%2Fmacos-sierra-macbook-pro-setup-touch-id-hero-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple’s adoption of tandem OLED technology in the latest MacBook Pro models has triggered complaints from users experiencing eye strain, headaches, dizziness, and nausea. While the new display offers superior contrast, deep blacks, and touch capabilities, laboratory testing reveals a low Pulse Width Modulation frequency of 240Hz, which is significantly lower than previous Mini-LED models.</p><p>The sharp drop in modulation frequency has led some affected owners to return their devices, highlighting a tradeoff between advanced display specifications and visual comfort. Although PWM sensitivity varies widely among individuals, critics argue that manufacturers should provide better hardware controls or software mitigations, such as Apple's Display Pulse Smoothing feature available on other OLED devices, to better accommodate sensitive users.</p>
 <p>Nov 15 · <a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/">macanorak.com</a> | <a href="https://news.ycombinator.com/item?id=50506719">hacker news</a></p>
-<br clear="all" />
-
-<h2>Mapping the Digital Gap Report Finds 63% of Remote First Nations Households Lack Free-to-Air TV Access</h2>
-<a name="story-27551"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771506%2Foriginal%2Ffile-20261112-64-5swkta.jpeg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A new report from the Mapping the Digital Gap project reveals that nearly two-thirds of households in remote First Nations communities lack access to free-to-air television. This decline is driven by widespread equipment failures in the Viewer Access Satellite Television (VAST) network, high replacement costs for set-top boxes, and logistical hurdles in providing technical maintenance to remote areas.</p><p>The loss of reliable television access increases reliance on prepaid mobile data and potentially less dependable information sources, compounding existing affordability challenges. Although fixed broadband adoption and streaming services are growing, community-led initiatives and targeted regional trials have demonstrated success in restoring broadcast access where standard maintenance models fall short.</p>
-<p>Nov 15 · <a href="https://theconversation.com/nearly-two-thirds-of-remote-first-nations-households-lack-free-to-air-tv-access-296153">theconversation.com</a> | <a href="https://doi.org/10.60836/ggns-vm61">doi.org</a></p>
 <br clear="all" />
 
 ---
