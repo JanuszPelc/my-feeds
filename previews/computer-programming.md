@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Xenodium&#x27;s Contributions to Emacs 31</h2>
 <a name="story-27836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenodium.github.io%2Fimages%2Fhide-another-detail%2Fafter.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Emacs 31 master branch updates include a Dired user option to hide absolute directory paths, an Info.plist update for macOS speech recognition permissions, a "Send to..." menu item for macOS sharing, and restored macOS dictation support.</p><p>Upstream Emacs contributions require assigning copyright to the Free Software Foundation. Open-source sustainability remains a challenge, as many major projects rely on unpaid volunteer labor.</p>
-<p>Nov 17 · <a href="https://xenodium.com/my-emacs-31-contributions">xenodium.com</a> | <a href="https://lobste.rs/s/cezfqe/my_emacs_31_contributions">lobsters</a></p>
+<p>Nov 17 · <a href="https://xenodium.com/my-emacs-31-contributions">xenodium.com</a> | <a href="https://lobste.rs/s/cezfqe/my_emacs_31_contributions">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50517929">hacker news</a></p>
 <br clear="all" />
 
 <h2>Nikita Prokopov Proposes Redesign of GitHub Repository Page</h2>
