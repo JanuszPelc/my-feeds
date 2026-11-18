@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Federal Aviation Administration Pauses Juniper Router Installations After Nationwide Ground Stop</title>
+    <link href="https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html?unlocked_article_code=1.RVE.NvSB.4mbzPoegpFNf&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html?unlocked_article_code=1.RVE.NvSB.4mbzPoegpFNf&amp;smid=url-share::v240</id>
+    <published>2026-11-18T05:03:00+00:00</published>
+    <updated>2026-11-18T05:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17xp-faa-routers-tmwk%2F17xp-faa-routers-tmwk-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html?unlocked_article_code=1.RVE.NvSB.4mbzPoegpFNf&smid=url-share">nytimes.com</a> | <a href="https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers">faa.gov</a></small></p><hr/><p>The Federal Aviation Administration has suspended the installation of Juniper Networks routers and disabled more than 60 similar devices across its network following a data overload that contributed to a nationwide ground stop. The malfunction occurred during equipment upgrades designed to modernize the agency's communication infrastructure.</p><p>The incident began when data flooded the network during an installation at an FAA radio center in Arkansas, while a second router became unstable at a facility in Texas. Federal officials halted the deployment pending further testing, relying temporarily on older equipment while investigators examine the configuration issues.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17xp-faa-routers-tmwk%2F17xp-faa-routers-tmwk-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 10:54 UTC | #27832</small>]]></content>
+  </entry>
+  <entry>
     <title>Quad9 Withdraws From France Following Copyright Site-Blocking Rulings</title>
     <link href="https://blog.cloudflare.com/quad9-withdrawal-from-france/" rel="alternate" />
     <id>https://blog.cloudflare.com/quad9-withdrawal-from-france/::v240</id>
