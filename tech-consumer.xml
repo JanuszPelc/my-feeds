@@ -257,13 +257,4 @@
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.kinetics.co.nz%2Fwp-content%2Fuploads%2F2024%2F08%2FAug1Microsoft.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://x.com/microsoft/status/2121282013600907325">x.com</a></small></p><hr/><p>Microsoft has apologized for a service disruption affecting its customers and partners, reporting that services are seeing broad recovery and stability.</p><p>The company identified a technical issue as the cause of the incident.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.kinetics.co.nz%2Fwp-content%2Fuploads%2F2024%2F08%2FAug1Microsoft.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 06:55 UTC | #27443</small>]]></content>
   </entry>
-  <entry>
-    <title>Antithesis Develops System Capable of Beating NetHack</title>
-    <link href="https://antithesis.com/blog/2026/nethack/" rel="alternate" />
-    <id>https://antithesis.com/blog/2026/nethack/::v240</id>
-    <published>2026-11-13T22:47:00+00:00</published>
-    <updated>2026-11-13T22:47:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2F22b2baf68dcecb22d237a597bbd0debca3c28a1e%2F1-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://antithesis.com/blog/2026/nethack/">antithesis.com</a> | <a href="https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50484126">hacker news</a></small></p><hr/><p>Antithesis has developed a system capable of finding a path to victory in NetHack within five minutes on approximately 80% of game seeds. The approach utilizes a computing paradigm similar to probabilistic programming to allow agents to navigate the game's extensive state space and long-horizon planning requirements.</p><p>The development process integrated technical lessons learned from training agents on other titles, such as Super Mario Bros., Zelda, and Tetris. These experiences helped the team refine core mechanisms including value functions, resource management, and the pruning of doomed game states.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2F22b2baf68dcecb22d237a597bbd0debca3c28a1e%2F1-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 04:31 UTC | #27469</small>]]></content>
-  </entry>
 </feed>
