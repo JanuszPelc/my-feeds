@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Grand Theft Auto VI Review</h2>
+<a name="story-27865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FGrand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dual protagonists Jason and Lucia drive a criminal partnership balanced by moments of domestic routine. Set in an expanded Vice City, the game juxtaposes high-stakes action with interactive, mundane activities within a highly detailed urban simulation.</p><p>Technical achievements include an advanced crowd system, sophisticated lighting, and dense interior environments. While the game receives criticism for occasional repetitive missions and dated humor, it is noted for its massive scale, complex simulation elements, and immersive side activities.</p>
+<p>Nov 18 · <a href="https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/">arstechnica.com</a></p>
+<br clear="all" />
+
 <h2><img src="../images/computer-programming.png" width="28" align="texttop" /> &nbsp;BugMeNot Credential-Sharing Service Closes</h2>
 <a name="story-27806"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.appuals.com%2Fwp-content%2Fuploads%2F2016%2F02%2F2016-02-21_074752-1024x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Credential-sharing and login-bypass service BugMeNot has shut down after operating for more than two decades. The website replaced its directory of shared accounts with a brief farewell message thanking users who envisioned a better internet, accompanied by an unexplained block of encoded characters.</p><p>Launched in 2003, BugMeNot allowed users to bypass mandatory registration walls on websites by providing crowdsourced login credentials. Its closure marks the end of an era for early web accessibility tools as modern security measures, including multi-factor authentication, have rendered traditional account-sharing increasingly obsolete.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27621"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21EJK0%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F067361fd-c97e-4be8-9042-8adb89af1b2c_1376x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The ten largest initial public offerings on Wall Street in 2026, featuring companies such as SpaceX, SK, and Cerebras, have declined by an average of 20.5 percent from their original offer prices.</p><p>This downturn follows four years of consistent market gains and highlights a cooling enthusiasm for artificial intelligence that has dampened recent major public debuts.</p>
 <p>Nov 17 · <a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">ft.com</a></p>
-<br clear="all" />
-
-<h2><img src="../images/ai-news.png" width="28" align="texttop" /> &nbsp;Carnegie Mellon University Launches CS Learn Platform</h2>
-<a name="story-27805"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.qatar.cmu.edu%2Fwp-content%2Fuploads%2F2025%2F09%2F20250928-AI-and-CS-SQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Carnegie Mellon University has launched CS Learn, a platform providing free access to computer science lectures from its faculty. Current offerings on YouTube include courses on machine learning, principles of computing, software construction, and AI agents.</p><p>The platform will expand to include self-paced courseware with instant feedback, digital badges, and AI tutoring. Additional subject areas, such as probability and multimodal machine learning, are scheduled for release in January 2027.</p>
-<p>Nov 17 · <a href="https://www.cs.cmu.edu/learn/">cs.cmu.edu</a> | <a href="https://news.ycombinator.com/item?id=50522980">hacker news</a></p>
 <br clear="all" />
 
 ---

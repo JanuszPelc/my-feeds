@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Microsoft Debuts Specialized AI Models at Ignite Conference</h2>
 <a name="story-27786"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJ1EnxhX0AE62j0.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft has introduced six specialized AI models for coding, cybersecurity, image generation, and voice at its Ignite conference. These models, including MAI Code 2 and MAI Cyber 2 Flash, aim to match the performance of leading competitors from OpenAI and Anthropic at a significantly lower cost.</p><p>The strategy leverages task-specific optimization to maximize efficiency while Microsoft continues development of a frontier general-purpose model. These new offerings may influence workload distribution within GitHub Copilot and Azure, even as competitors like OpenAI release updates such as GPT-6.2 Astra and Sol.</p>
-<p>Nov 17 · <a href="https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite">axios.com</a> | <a href="https://microsoft.ai/news/microsoft-ignite-2026/">microsoft.ai</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyxhtu/seven_new_world_class_models_at_scalable/">r/singularity</a></p>
+<p>Nov 17 · <a href="https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite">axios.com</a> | <a href="https://microsoft.ai/news/microsoft-ignite-2026/">microsoft.ai</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyxhtu/seven_new_world_class_models_at_scalable/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50548021">hacker news</a></p>
 <br clear="all" />
 
 <h2>OpenAI Launches GPT-6.2 Astra and GPT-6.2 Sol</h2>
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Google Expands Gemini Tasks to Free Users</h2>
 <a name="story-27788"><img src="https://wsrv.nl/?url=https%3A%2F%2Fclickup.com%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2FGemini-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is expanding Gemini Tasks to hundreds of millions of free users on the Gemini 4 Hydrogen model. The feature allows the AI to perform administrative functions, including calling businesses to book appointments, making purchases through Google Pay, and signing into websites.</p><p>The tool was previously tested as Gemini Spark and was initially limited to Google AI Ultra subscribers. Users can activate the mode by toggling from "Chat" to "Tasks" within the Gemini app and can control it via text or voice commands.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">blog.google</a></p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50551601">hacker news</a></p>
 <br clear="all" />
 
 <h2>Google to Extend Gemini Temporary Chat Retention to Two Months</h2>

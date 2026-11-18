@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Tencent Reports Q3 Revenue Below Estimates Amid Increased AI Spending</h2>
+<a name="story-27863"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2FlihOzYCaYHoUb6ufCze6AdW43hzM4raW_Ye-YFdMRis%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2Vhcm5pbmdzX2NhcmQvMjAyNi0wNS9VU19UQ0VIWV8yMDI2LTA1LTEzXzE3ODQyMDAwNzkud2VicA.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tencent Holdings Ltd. reported third-quarter revenue of approximately $31.1 billion, marking an 8% year-over-year increase that missed analyst estimates. Operating profit fell 7%, representing the company's first earnings decline in several years as capital expenditures on artificial intelligence surged fivefold to roughly $12 billion.</p><p>The heavy investments reflect an aggressive push by management into AI infrastructure, putting near-term pressure on profit margins. The financial setback highlights the mounting costs major technology firms face as they race to scale generative AI capabilities.</p>
+<p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push">bloomberg.com</a> | <a href="https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-third-quarter-results-302943839.html">prnewswire.com</a></p>
+<br clear="all" />
+
 <h2>Unsiloed AI Raises $7.5M in Seed Funding Led by Felicis</h2>
 <a name="story-27877"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenoss.io%2Fwp-content%2Fuploads%2F2025%2F11%2F9-1536x1018.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unsiloed AI has raised $7.5 million in seed funding led by Felicis to convert complex enterprise documents into structured data for AI agents. The company's technology extracts information from tables, charts, and intricate layouts while providing source attribution to enable business verification.</p><p>The startup utilizes a "dual-stream" vision model and heat map-based chunking to process text and image data. Currently a seven-person team, Unsiloed is working with customers in the finance, legal, and healthcare sectors and plans to use the funding to hire more researchers and engineers.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27700"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial-life-magazine.s3.amazonaws.com%2F~sociall1%2Fwp-content%2Fuploads%2F2025%2F12%2F26021231%2FChatGPT-Image-Dec-26-2025-02_12_16-AM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Prediction markets platform Kalshi acquired FB Securities, a small New York-based brokerage, in July to facilitate expansion into equity trading. The company plans to launch stock trading services within the next two months.</p><p>The move comes as Kalshi continues to navigate legal challenges from various U.S. states regarding the legality of its existing yes-or-no prediction contracts.</p>
 <p>Nov 17 · <a href="https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?st=GrtBNR&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Faces Scrutiny Over Governance and China Sales Following Jensen Huang&#x27;s Resignation</h2>
-<a name="story-27685"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia's interim CEO Colette Kress will lead the company's third-quarter earnings report on Tuesday, marking her first financial presentation since the resignation of Jensen Huang. Huang's departure followed allegations of extramarital affairs and potential connections to a Chinese intelligence asset.</p><p>The report is expected to address several critical issues, including Huang's potential reinstatement, investigations into chip diversion via Singapore, and Nvidia's sales strategy in China. Investors are also seeking information on corporate governance reforms and the company's approach to high-risk AI financing deals.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

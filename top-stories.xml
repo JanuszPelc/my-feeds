@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-18T16:19:00+00:00</updated>
+  <updated>2026-11-18T21:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Grand Theft Auto VI Review</title>
+    <link href="https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/" rel="alternate" />
+    <id>https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/::v240</id>
+    <published>2026-11-18T21:32:00+00:00</published>
+    <updated>2026-11-18T21:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FGrand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/">arstechnica.com</a></small></p><hr/><p>Dual protagonists Jason and Lucia drive a criminal partnership balanced by moments of domestic routine. Set in an expanded Vice City, the game juxtaposes high-stakes action with interactive, mundane activities within a highly detailed urban simulation.</p><p>Technical achievements include an advanced crowd system, sophisticated lighting, and dense interior environments. While the game receives criticism for occasional repetitive missions and dated humor, it is noted for its massive scale, complex simulation elements, and immersive side activities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FGrand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 16:07 UTC | #27865 | t,hr</small>]]></content>
+  </entry>
   <entry>
     <title>BugMeNot Credential-Sharing Service Closes</title>
     <link href="https://www.bugmenot.com/" rel="alternate" />

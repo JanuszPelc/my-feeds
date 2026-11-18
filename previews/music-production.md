@@ -8,6 +8,30 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Steinberg Releases Chromaspheres Free Synth Plugin</h2>
+<a name="story-27911"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXNlFkt1yf54%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Steinberg has released Chromaspheres, a free software instrument for the HALion Sonic player that transforms user-supplied audio samples using wavetable, granular, spectral, and sample-based synthesis engines. The instrument features 30 sound-shaping modes, an arpeggiator, and built-in effects including a wavefolder, resonator, EQ, and compression.</p><p>Designed for creating evolving pads, textures, and altered melodies, Chromaspheres allows users to drop audio into various engines for manipulation, such as turning samples into wavetables or stretching spectral elements. It includes one-click parameter randomization with locking capabilities, MIDI Polyphonic Expression support, and runs as a VST3 and AAX plugin on Windows and macOS.</p>
+<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/steinberg-chromaspheres/">bedroomproducersblog.com</a> | <a href="https://www.steinberg.net/vst-instruments/chromaspheres/">steinberg.net</a></p>
+<br clear="all" />
+
+<h2>Digital Brain Instruments Releases vPlayer Lite and Pro</h2>
+<a name="story-27897"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvplayer_pro.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Digital Brain Instruments has released vPlayer Pro, a standalone instrument and effects host designed for live performance, practice, audio processing, and recording. The software features a configurable plugin workspace supporting up to four instrument channels, modular effects chains, live audio input processing, and a master effects rack.</p><p>The release includes vPlayer Pro Lite, a streamlined, free edition offering one instrument player, two effect slots, live audio processing, and audio and MIDI recording. The full Pro version expands these capabilities with multi-player support, layers mode, a built-in looper, a MIDI player, a tuner, and advanced master processing.</p>
+<p>Nov 18 · <a href="https://www.kvraudio.com/news/digital-brains-instruments-releases-vplayer-lite-and-pro-69852?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69852">kvraudio.com</a> | <a href="https://www.digitalbrain-instruments.com/vplayerpro">digitalbrain-instruments.com</a></p>
+<br clear="all" />
+
+<h2>Granvia Releases Fantamidi v4.0 MIDI Generator Plugin</h2>
+<a name="story-27899"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffanta4-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Granvia has released Fantamidi version 4.0, a scale-based MIDI generator and step sequencer plugin for Windows and macOS. The update introduces custom step-repeat randomization lengths, allowing users to repeat random note placements across custom step lengths like 6, 9, or 12 units for both main and bass layers.</p><p>Version 4.0 also adds a Keep chain feature for organizing patterns into song structures with direct DAW MIDI export, alongside a streamlined bass layer layout, a new low-pass filter, and interface enhancements such as window resizing and UI color customization. The plugin is available in VST3 and AU formats for $12, accompanied by free and trial options.</p>
+<p>Nov 18 · <a href="https://www.kvraudio.com/news/granvia-releases-fantamidi-v4-0---repeat-random-notes-in-6-9-12-or-any-step-length-for-windows-and-macos-69924?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69924">kvraudio.com</a></p>
+<br clear="all" />
+
+<h2>Sample Logic Releases Cinematic Guitars Multiverse</h2>
+<a name="story-27878"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fui-main.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sample Logic has released Cinematic Guitars Multiverse, a four-core virtual instrument designed for Native Instruments Kontakt. Built completely from scratch with a new guitarist, the library features over 12,268 samples organized into 840 presets and 431 sound sources spanning acoustic and electric guitars, basses, ambient pads, and percussive transitions.</p><p>Each preset simultaneously runs four sound cores that can be blended in real time using a dual XY pad and an automated Drift control. The instrument includes independent step animators, nine amplifier models per core, and a range of master send effects controlled via the XY interface. It requires the full version of Kontakt 8.10 or later and is available at an introductory price through December 2, 2026.</p>
+<p>Nov 18 · <a href="https://www.kvraudio.com/news/sample-logic-releases-cinematic-guitars-multiverse---four-core-cinematic-guitar-instrument-for-kontakt-69919?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69919">kvraudio.com</a> | <a href="https://www.samplelogic.com/products/cinematic-guitars-multiverse/#overview">samplelogic.com</a></p>
+<br clear="all" />
+
 <h2>Hit&#x27;n&#x27;Mix Launches RipX DAW 9 and RipX DAW PRO 9</h2>
 <a name="story-27879"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fnew-ripx-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hit'n'Mix has released RipX DAW 9 and RipX DAW PRO 9, which include improvements to note detection, extraction, and automatic pitch snapping. The update also features enhanced barline and key detection, improved instrument sound replacement, and a metronome count-in that follows the beat in the bar.</p><p>The release includes upgraded Harmony, Vibrato, Reverb, Shimmer, and Saturation effects, as well as new De-esser and Distortion modules. Additionally, the optimized "Smaller Rips" feature is enabled by default, reducing file sizes by five to six times without loss of audio quality.</p>
@@ -72,30 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27744"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fphotophore-kvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Taika Systems has released Photophore 2, a major update to its behavioral flock synthesizer for iOS devices. The new version introduces native AUv3 plug-in support for hosts like Logic Pro for iPad and GarageBand, alongside expanded compatibility for iPhone.</p><p>The sound engine models up to 100 oscillators as a moving flock in a 3D habitat, allowing users to shape complex pads, leads, and basses by controlling behaviors such as grouping, speed, and environmental turbulence. Photophore 2 also adds new features including predator modulation, stereo width modes, and 30 factory presets by artist Bop.</p>
 <p>Nov 17 · <a href="https://www.kvraudio.com/news/taika-systems-releases-photophore-2-flock-synth-for-ios-with-auv3-and-iphone-support-69896?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69896">kvraudio.com</a></p>
-<br clear="all" />
-
-<h2>Universal Audio Vibe Analog Machines Discounted to $10 at Plugin Boutique</h2>
-<a name="story-27769"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.static-thomann.de%2Fthumb%2Fpadthumb600x600%2Fpics%2Fbdb%2F_64%2F642707%2F21122349_800.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Through November 30, 2026, the Vibe Analog Machines plugin is available for $10 at Plugin Boutique. This purchase includes a choice of one free plugin gift: UVI Tape Suite or Excite Audio Evolve Elastic Lite.</p><p>The software includes ten machines for tape coloration, preamp saturation, and heavy distortion. It supports macOS and 64-bit Windows in VST3, AU, and AAX formats and requires UA Connect and a free iLok account for licensing.</p>
-<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/uad-vibe-analog-machines/">bedroomproducersblog.com</a> | <a href="https://www.uaudio.com/products/vibe-analog-machines">uaudio.com</a></p>
-<br clear="all" />
-
-<h2>Spotify Launches Artist Profile Protection to Manage Music Attribution</h2>
-<a name="story-27735"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHero-asset.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Spotify is rolling out its "Artist Profile Protection" tool to all artists, allowing them to control the music appearing under their names. The feature enables artists to receive alerts for new music submissions and remove their association from tracks caused by metadata errors, impersonation, or AI-generated content. An optional advanced setting also allows artists to manually approve or reject releases before they are published on their profiles.</p><p>The rollout follows an eight-month beta testing period and addresses the increasing volume of AI-generated content on streaming platforms. The release comes as the music industry faces growing challenges with deepfake music, including recent requests from Sony Music to remove hundreds of thousands of AI-generated tracks from digital services.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/">techcrunch.com</a> | <a href="https://support.spotify.com/us/artists/article/artist-profile-protection/">support.spotify.com</a></p>
-<br clear="all" />
-
-<h2>Modern Music Solutions Releases REIGN Channel Strip Plugin</h2>
-<a name="story-27770"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.particlenews.com%2Fimg%2Fid%2F4JParV_1GwOiE2k00&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Modern Music Solutions has released REIGN, a channel strip plugin that integrates compression, gating, EQ, transient shaping, saturation, and clipping. The interface combines these processing stages to allow users to perform multiple mixing tasks within a single plugin.</p><p>REIGN includes two compressor modes, frequency-selective transient and saturation modules, and a clipper with adjustable shaping. The plugin supports VST3, AU, and AAX formats on Windows and macOS and comes with 175 presets for various instrument types.</p>
-<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/modern-music-solutions-reign/">bedroomproducersblog.com</a> | <a href="https://modernmusicsolutions.com/products/reign">modernmusicsolutions.com</a></p>
-<br clear="all" />
-
-<h2>HoRNet TrackUtility Plugin Available for Free Until November 19</h2>
-<a name="story-27771"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNIF-eEMy_5w%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>HoRNet is offering its TrackUtility audio plugin for free until November 19, 2026, using the promotional code TRACKFREE at checkout. Normally priced at €9.90, the utility combines multiple mixing functions such as gain staging, stereo control, and metering into a single interface.</p><p>The plugin supports Windows and macOS in AU, VST, and AAX formats with native Apple Silicon compatibility. It provides automatic peak and RMS gain adjustments, DC offset removal, phase inversion, pan and width controls, and an output limiter, operating without copy protection or license keys.</p>
-<p>Nov 17 · <a href="https://bedroomproducersblog.com/2026/11/17/hornet-trackutility-free-again/">bedroomproducersblog.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-trackutility/">hornetplugins.com</a></p>
 <br clear="all" />
 
 ---
