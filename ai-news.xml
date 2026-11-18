@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Program-as-Weights Introduced as Programming Paradigm for Fuzzy Functions</title>
+    <link href="https://arxiv.org/abs/2607.02512" rel="alternate" />
+    <id>https://arxiv.org/abs/2607.02512::v240</id>
+    <published>2026-11-18T02:03:00+00:00</published>
+    <updated>2026-11-18T02:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2607.02512v1%2Fx3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arxiv.org/abs/2607.02512">arxiv.org</a> | <a href="https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm">lobsters</a></small></p><hr/><p>Researchers have introduced Program-as-Weights (PAW), a programming paradigm designed to compile natural-language specifications of fuzzy functions into compact, locally executable neural artifacts. By treating foundation models as tool builders rather than per-input problem solvers, PAW uses a 4B compiler trained on a new 10-million-example dataset called FuzzyBench to emit parameter-efficient adapters for a frozen interpreter.</p><p>This approach allows a lightweight 0.6B Qwen3 interpreter to match the performance of direct prompting on a much larger Qwen3-32B model while consuming roughly one-fiftieth of the inference memory. Operating locally and offline, compiled PAW programs achieve speeds of 30 tokens per second on consumer hardware like a MacBook M3, offering a reproducible alternative to recurring large language model API calls.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2607.02512v1%2Fx3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 09:01 UTC | #27857</small>]]></content>
+  </entry>
+  <entry>
     <title>Runta Introduces FrontierHarness Eval v1.1 Benchmark</title>
     <link href="https://runta.com/blog/introducing-frontierharness-eval-v1-1/" rel="alternate" />
     <id>https://runta.com/blog/introducing-frontierharness-eval-v1-1/::v240</id>

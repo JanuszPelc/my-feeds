@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Program-as-Weights Introduced as Programming Paradigm for Fuzzy Functions</h2>
+<a name="story-27857"><img src="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2607.02512v1%2Fx3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers have introduced Program-as-Weights (PAW), a programming paradigm designed to compile natural-language specifications of fuzzy functions into compact, locally executable neural artifacts. By treating foundation models as tool builders rather than per-input problem solvers, PAW uses a 4B compiler trained on a new 10-million-example dataset called FuzzyBench to emit parameter-efficient adapters for a frozen interpreter.</p><p>This approach allows a lightweight 0.6B Qwen3 interpreter to match the performance of direct prompting on a much larger Qwen3-32B model while consuming roughly one-fiftieth of the inference memory. Operating locally and offline, compiled PAW programs achieve speeds of 30 tokens per second on consumer hardware like a MacBook M3, offering a reproducible alternative to recurring large language model API calls.</p>
+<p>Nov 18 · <a href="https://arxiv.org/abs/2607.02512">arxiv.org</a> | <a href="https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm">lobsters</a></p>
+<br clear="all" />
+
 <h2>Runta Introduces FrontierHarness Eval v1.1 Benchmark</h2>
 <a name="story-27851"><img src="https://wsrv.nl/?url=https%3A%2F%2Frunta.com%2Fblog%2Fintroducing-frontierharness-eval-v1-1%2Fharness-scatter-all-models.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Runta has released FrontierHarness Eval v1.1, a benchmark evaluating 22 coding-agent harness configurations against five AI models across 62 terminal tasks. Conducted in partnership with Baseten, the study analyzed 27,280 agent runs and 83 billion tokens to identify the most cost-effective and high-performing harness-model combinations.</p><p>Optimal harness selection varies by model, suggesting that users should consider changing harnesses when switching models to maximize efficiency. The research identifies the number of agent steps as the primary driver of cost—rather than prompt size or tool count—and notes that higher costs do not consistently correlate with higher pass rates.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27805"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.qatar.cmu.edu%2Fwp-content%2Fuploads%2F2025%2F09%2F20250928-AI-and-CS-SQ.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Carnegie Mellon University has launched CS Learn, a platform providing free access to computer science lectures from its faculty. Current offerings on YouTube include courses on machine learning, principles of computing, software construction, and AI agents.</p><p>The platform will expand to include self-paced courseware with instant feedback, digital badges, and AI tutoring. Additional subject areas, such as probability and multimodal machine learning, are scheduled for release in January 2027.</p>
 <p>Nov 17 · <a href="https://www.cs.cmu.edu/learn/">cs.cmu.edu</a> | <a href="https://news.ycombinator.com/item?id=50522980">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Reports Claude Mythos Autonomous Kernel Writing Cuts AMD GPU Onboarding Time</h2>
-<a name="story-27695"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.apiyi.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fclaude-mythos-preview-anthropic-cybersecurity-model-introduction-en-image-3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic disclosed to IPO investors that its Claude Mythos Preview model autonomously wrote nearly 100% of the low-level code required to run its AI on AMD graphics processors. The process reportedly reduced software onboarding time from up to twelve months with a team of engineers to approximately three days with minimal human intervention.</p><p>The capability highlights Anthropic's multi-chip compute architecture, which distributes workloads across Nvidia GPUs, AMD GPUs, Google TPUs, and AWS Trainium. By automating kernel development, the tool could potentially lower the barrier to adopting non-Nvidia hardware and challenge Nvidia's entrenched CUDA software ecosystem.</p>
-<p>Nov 17 · <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat">tomshardware.com</a> | <a href="https://ipo.anthropic.com/us">ipo.anthropic.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xy4a4f/anthropic_says_claude_mythos_slashed_software/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50465829">hacker news</a></p>
 <br clear="all" />
 
 ---
