@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T08:16:00+00:00</updated>
+  <updated>2026-11-18T11:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Humyn Labs Raises $47M to Supply Training Data for Robotics AI</title>
+    <link href="https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/::v240</id>
+    <published>2026-11-18T11:31:00+00:00</published>
+    <updated>2026-11-18T11:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhumynlabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fprod-image-bucket.indi.gg%2Fhumyn-labs%2Fblogs%2F1778074135952_cropped_image_banner.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/">techcrunch.com</a></small></p><hr/><p>Humyn Labs has raised $47 million in Series A and venture debt to provide multimodal training data for U.S.-based robotics and AI developers. The $26 million equity round was led by Accel and Cactus Partners, while $21 million in venture debt was led by Lighthouse Canton Growth Debt Fund II.</p><p>The Bengaluru-based startup uses specialized hardware and software to record and label human activities across more than 20 countries to help robots learn to operate in physical environments. The company currently serves 12 customers, primarily in the United States, and reported $10 million in revenue between April and October.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhumynlabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fprod-image-bucket.indi.gg%2Fhumyn-labs%2Fblogs%2F1778074135952_cropped_image_banner.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 16:32 UTC | #27869</small>]]></content>
+  </entry>
   <entry>
     <title>YouTube Updates Public View Counts to Include Estimated TV Co-Views</title>
     <link href="https://www.theverge.com/streaming/1035683/youtube-co-views-count" rel="alternate" />

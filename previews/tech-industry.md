@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Humyn Labs Raises $47M to Supply Training Data for Robotics AI</h2>
+<a name="story-27869"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhumynlabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fprod-image-bucket.indi.gg%2Fhumyn-labs%2Fblogs%2F1778074135952_cropped_image_banner.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Humyn Labs has raised $47 million in Series A and venture debt to provide multimodal training data for U.S.-based robotics and AI developers. The $26 million equity round was led by Accel and Cactus Partners, while $21 million in venture debt was led by Lighthouse Canton Growth Debt Fund II.</p><p>The Bengaluru-based startup uses specialized hardware and software to record and label human activities across more than 20 countries to help robots learn to operate in physical environments. The company currently serves 12 customers, primarily in the United States, and reported $10 million in revenue between April and October.</p>
+<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>YouTube Updates Public View Counts to Include Estimated TV Co-Views</h2>
 <a name="story-27843"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.tweaktown.com%2Fnews%2F1%2F1%2F114751_2_youtube-view-counts-now-include-estimated-co-viewers-so-one-tv-play-can-count-as-several-views.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>YouTube is updating its public view counts to include estimated "co-views," which represent the number of people watching a video together on a television. This update applies to long-form videos, Shorts, and live content to provide a more comprehensive measurement of platform usage and align with television industry standards.</p><p>The system uses a privacy-safe statistical model based on demographic patterns and viewing times instead of using cameras or microphones. These estimated co-views apply only to new TV views moving forward and do not affect creator ad revenue, YouTube Partner Program eligibility, or earnings.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27722"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F12%2Farts%2F12cul-ai-rotos-grid%2F12cul-ai-rotos-grid-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rotoscoping is the painstaking process of tracing objects frame-by-frame to isolate them from film backgrounds. While the visual effects industry has generally resisted artificial intelligence, some professionals are now using AI-driven tools to mitigate the tedium of this specific task.</p><p>Although these tools offer time savings, they currently lack the precision of human artists. The integration of AI into rotoscoping provides a key case study for how automation may influence broader labor and production workflows in Hollywood.</p>
 <p>Nov 17 · <a href="https://www.nytimes.com/2026/11/17/movies/aritifical-intelligence-hollywood-visual-effects.html?unlocked_article_code=1.RFE.I2H3.UgvAdIeAyjOe&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Chinese Records Show Kang Wei Built State-Backed Data Center Network</h2>
-<a name="story-27714"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffuturenetworld.net%2Fwp-content%2Fuploads%2F2023%2F10%2Fkkw-1-modified-1024x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Chinese public records and stock-market filings reveal that Kang Wei, husband of Alice Huang, developed a vast data center network across China with over $9 billion in proposed investments between 2021 and 2024. The business ventures, including projects managed through entities like Century Longteng, received substantial support from government-linked entities during a period when Huang maintained professional proximity to Nvidia leadership.</p><p>The findings shed light on the intersection of private enterprise and state backing within China's critical digital infrastructure sector. Analysts and investigators continue to examine the connections between these large-scale data center investments and broader international technology supply chains.</p>
-<p>Nov 17 · <a href="https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?st=6ghwix">wsj.com</a></p>
 <br clear="all" />
 
 ---
