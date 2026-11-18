@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-18T05:56:00+00:00</updated>
+  <updated>2026-11-18T12:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Unsiloed AI Raises $7.5M in Seed Funding Led by Felicis</title>
+    <link href="https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/::v240</id>
+    <published>2026-11-18T12:02:00+00:00</published>
+    <updated>2026-11-18T12:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fxenoss.io%2Fwp-content%2Fuploads%2F2025%2F11%2F9-1536x1018.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/">techcrunch.com</a></small></p><hr/><p>Unsiloed AI has raised $7.5 million in seed funding led by Felicis to convert complex enterprise documents into structured data for AI agents. The company's technology extracts information from tables, charts, and intricate layouts while providing source attribution to enable business verification.</p><p>The startup utilizes a "dual-stream" vision model and heat map-based chunking to process text and image data. Currently a seven-person team, Unsiloed is working with customers in the finance, legal, and healthcare sectors and plans to use the funding to hire more researchers and engineers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenoss.io%2Fwp-content%2Fuploads%2F2025%2F11%2F9-1536x1018.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 17:14 UTC | #27877</small>]]></content>
+  </entry>
   <entry>
     <title>Solana Foundation Acquires Majority Stake in Crypto Data Provider CoinGecko</title>
     <link href="https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Unsiloed AI Raises $7.5M in Seed Funding Led by Felicis</h2>
+<a name="story-27877"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenoss.io%2Fwp-content%2Fuploads%2F2025%2F11%2F9-1536x1018.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Unsiloed AI has raised $7.5 million in seed funding led by Felicis to convert complex enterprise documents into structured data for AI agents. The company's technology extracts information from tables, charts, and intricate layouts while providing source attribution to enable business verification.</p><p>The startup utilizes a "dual-stream" vision model and heat map-based chunking to process text and image data. Currently a seven-person team, Unsiloed is working with customers in the finance, legal, and healthcare sectors and plans to use the funding to hire more researchers and engineers.</p>
+<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Solana Foundation Acquires Majority Stake in Crypto Data Provider CoinGecko</h2>
 <a name="story-27848"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinist.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSolana-and-CoinGecko-Partnership-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Solana Foundation has acquired a majority interest in crypto data provider CoinGecko. The strategic investment aims to expand CoinGecko's market intelligence, trading services, and data capabilities across its platform.</p><p>As part of the initiative, the foundation plans to integrate Solana-powered trading features into CoinGecko's website, mobile app, and GeckoTerminal. The collaboration seeks to serve CoinGecko's 18 million registered users and support the platform's broader expansion phase.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27685"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.pchardwarepro.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNVIDIA-no-presentara-GPUs-para-gaming-en-2026_pex32728403.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia's interim CEO Colette Kress will lead the company's third-quarter earnings report on Tuesday, marking her first financial presentation since the resignation of Jensen Huang. Huang's departure followed allegations of extramarital affairs and potential connections to a Chinese intelligence asset.</p><p>The report is expected to address several critical issues, including Huang's potential reinstatement, investigations into chip diversion via Singapore, and Nvidia's sales strategy in China. Investors are also seeking information on corporate governance reforms and the company's approach to high-risk AI financing deals.</p>
 <p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Corma Raises $125 Million for Defensive AI Agents</h2>
-<p>The Tel Aviv and San Francisco-based startup has secured $125 million in Series A funding led by NEA. The company develops AI agents that are custom-trained to perform defensive cybersecurity operations.</p><p>This investment follows a $60 million seed round completed in August. The year-old company focuses on deploying specialized artificial intelligence to enhance and automate cyber defense capabilities.</p>
-<p>Nov 16 · <a href="https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387">wsj.com</a></p>
 <br clear="all" />
 
 ---
