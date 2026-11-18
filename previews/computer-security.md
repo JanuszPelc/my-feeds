@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Apple Services Including iCloud and App Store Experience Outage</h2>
+<a name="story-27791"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolitco.com%2Fwp-content%2Fuploads%2F2025%2F06%2FA-multi-commodity-story-with-potential-near-term-gold-production-2025-06-25T113602.036.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Multiple Apple services, including iCloud, the App Store, and Apple Music, experienced disruptions on November 17, 2026. The issues specifically impacted iCloud's Account &amp; Sign In services, which could prevent users from signing in or cause the service to be unavailable.</p><p>Apple stated the outages were caused by an internal update rather than a cyberattack. This disruption follows a week of technical failures at other major technology companies, including Microsoft.</p>
+<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/">techcrunch.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Google Denies Gmail Outage Reports</h2>
 <a name="story-27810"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FOBEPJS2G5ZDUHNXAYFBTKUBZMI.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google announced via X that its Gmail service is operating normally, addressing reports of service disruptions circulating on Downdetector and social media. Recent tech outages affecting Apple and Microsoft, as well as disruptions in aviation and banking, have heightened concerns regarding the reliability of major tech services.</p><p>Director of National Intelligence Jay Clayton stated that recent service instabilities show no evidence of coordinated cyberattacks or state-sponsored activity. Instead, the increase in issues is attributed to businesses more frequently patching systems to defend against vulnerabilities that AI-driven tools are becoming more adept at uncovering.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27602"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprotomaps.com%2Fblog%2Fnew-way-to-make-maps%2Fpmtiles_layout.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bruce Röttgers outlines a cost-effective approach to self-hosting map tiles using the Protomaps ecosystem and the Bunny.net content delivery network. By leveraging PMTiles—a single-file archive format that supports HTTP Range requests—developers can bypass expensive commercial mapping APIs like Mapbox while avoiding complex server setups.</p><p>The guide details practical implementation steps, including downloading daily map builds or extracting custom bounding boxes using the PMTiles command-line interface, streaming files via rclone to S3-compatible Bunny.net storage, and configuring pull zones with optimized caching and network limits. Embedding the resulting map in a website is achieved using MapLibre GL alongside the official pmtiles JavaScript package.</p>
 <p>Nov 16 · <a href="https://bruceroettgers.eu/blog/protomaps/">bruceroettgers.eu</a> | <a href="https://news.ycombinator.com/item?id=50509837">hacker news</a></p>
-<br clear="all" />
-
-<h2>United Launch Alliance Vulcan Rocket Fails During Amazon Satellite Launch</h2>
-<p>A United Launch Alliance Vulcan rocket failed approximately 10 minutes after launching from Florida, destroying a payload of 40 internet satellites for Amazon's Leo broadband network. The incident marks the first total mission failure in the Boeing-Lockheed joint venture's two-decade history.</p><p>The flight was intended to expand Amazon's planned constellation designed to compete with SpaceX's Starlink service. The loss deals a significant setback to the company's deployment timeline following the rocket's return to service.</p>
-<p>Nov 16 · <a href="https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50511072">hacker news</a></p>
 <br clear="all" />
 
 ---

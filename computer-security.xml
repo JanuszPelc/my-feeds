@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-17T21:36:00+00:00</updated>
+  <updated>2026-11-17T23:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Apple Services Including iCloud and App Store Experience Outage</title>
+    <link href="https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/::v240</id>
+    <published>2026-11-17T23:58:00+00:00</published>
+    <updated>2026-11-17T23:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcolitco.com%2Fwp-content%2Fuploads%2F2025%2F06%2FA-multi-commodity-story-with-potential-near-term-gold-production-2025-06-25T113602.036.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/">techcrunch.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage">bloomberg.com</a></small></p><hr/><p>Multiple Apple services, including iCloud, the App Store, and Apple Music, experienced disruptions on November 17, 2026. The issues specifically impacted iCloud's Account &amp; Sign In services, which could prevent users from signing in or cause the service to be unavailable.</p><p>Apple stated the outages were caused by an internal update rather than a cyberattack. This disruption follows a week of technical failures at other major technology companies, including Microsoft.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolitco.com%2Fwp-content%2Fuploads%2F2025%2F06%2FA-multi-commodity-story-with-potential-near-term-gold-production-2025-06-25T113602.036.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 05:33 UTC | #27791</small>]]></content>
+  </entry>
   <entry>
     <title>Google Denies Gmail Outage Reports</title>
     <link href="https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/" rel="alternate" />
