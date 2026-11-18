@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T17:04:00+00:00</updated>
+  <updated>2026-11-18T18:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>RevScope Analysis Shows Google AI Overviews Reduce Website Clicks by 40 Percent</title>
+    <link href="https://revscope.co/blog/search-seo-geo-2026/" rel="alternate" />
+    <id>https://revscope.co/blog/search-seo-geo-2026/::v240</id>
+    <published>2026-11-18T18:17:00+00:00</published>
+    <updated>2026-11-18T18:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2025%2F07%2FAI-Summaries-Reduced-Traffic.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://revscope.co/blog/search-seo-geo-2026/">revscope.co</a> | <a href="https://news.ycombinator.com/item?id=50540178">hacker news</a></small></p><hr/><p>RevScope published a study revealing that Google AI Overviews reduce organic clicks to external websites by approximately 40 percent. The findings are based on a randomized experiment comparing search behavior among desktop users who encountered AI summaries versus those who did not.</p><p>The results underscore the significant impact of generative AI search features on publisher traffic and organic search visibility. As search engines increasingly prioritize direct answers, marketers and website owners face mounting challenges in maintaining referral traffic and user engagement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2025%2F07%2FAI-Summaries-Reduced-Traffic.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 23:50 UTC | #27950</small>]]></content>
+  </entry>
   <entry>
     <title>All About Berlin Loses 75 Percent of Traffic to Google AI Overviews</title>
     <link href="https://nicolasbouliane.com/blog/death-by-ai" rel="alternate" />
