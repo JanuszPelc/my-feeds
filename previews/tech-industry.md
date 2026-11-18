@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Interim CEO Colette Kress Outlines Selective Approach to AI Ecosystem Investments</h2>
+<a name="story-27825"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hhKus.img%3Fw%3D1366%26h%3D768%26m%3D4%26q%3D79&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia interim CEO Colette Kress stated during an investor call that the company will adopt a disciplined and selective approach when evaluating financial support, capital commitments, and guarantees for neoclouds and other AI ecosystem partners. While affirming that Nvidia will continue utilizing its balance sheet to assist key customers and suppliers, Kress emphasized that future capital deployment will undergo rigorous evaluation as alternative financing sources become available.</p><p>The remarks mark some of Kress's first major public comments since stepping in as interim CEO following Jensen Huang's resignation. During the same call, Nvidia board chair Harvey Jones confirmed that the board unanimously accepted Huang's resignation and has no intention of reinstating him, while executives declined to take questions regarding the departure or the ongoing investigation into his actions.</p>
+<p>Nov 18 · <a href="https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress">axios.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia&#x27;s Startup Equity Reaches $65.5 Billion Amid Leadership Transition</h2>
 <a name="story-27834"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.inkl.com%2Fs3%2Farticle%2Flead_image%2F23303827%2Fnvidias-jensen-huang-treats-crowds-during-night-samsung-hyundai.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia has increased its private company equity holdings to $65.5 billion, up from $22 billion in January. Recent investments include $16 billion in the last quarter and $58 billion over the past nine months, primarily targeting the AI ecosystem, infrastructure, and robotics.</p><p>This aggressive investment strategy faces uncertainty following the departure of CEO Jensen Huang. While Nvidia plans to return excess cash to shareholders, investors anticipate a more conservative approach from the company's successor, characterized by higher selectivity and smaller investment checks.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27704"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-156523495%2Cthumbsize-3613431%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F156523495.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has adjusted Instagram's recommendation systems in India to decrease the visibility of sexually suggestive and violent content. The changes utilize advanced artificial intelligence models to filter posts from accounts that users do not follow, limiting exposure to sensitive material.</p><p>The update follows requests from the Indian government for stricter content checks and increased oversight of online platforms. The adjustments reflect mounting regulatory pressure on social media companies operating in the country to ensure safer digital environments for users.</p>
 <p>Nov 17 · <a href="https://www.reuters.com/world/india/meta-says-it-tuned-instagram-curb-suggestive-violent-content-india-2026-11-17/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Model Republic Investigation Details Right-Wing Influencer Campaigns Promoting Nvidia Chip Sales to China</h2>
-<a name="story-27705"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FCc2gUvOXA3M3OXt2N1doi5pkaRs.png%3Fwidth%3D2048%26height%3D922&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An investigation by Model Republic reveals that over 80 right-wing influencers across social media platforms were likely paid through the marketing firm Urban Legend to promote pro-AI industry articles, including defenses of Nvidia chip sales to China and attacks on AI regulations. The coordinated campaigns utilized tracking redirects via intermediate domains such as mycreator.studio to monitor creator performance and manage payouts.</p><p>The operation involved placing sponsored content across outlets like Trending Politics, Lyceum, and Upward News, with certain campaigns tied to dark-money groups including Build American AI. Although Urban Legend declined to comment, the findings demonstrate how networked influencer marketing is deployed to shape public policy debates regarding artificial intelligence and semiconductor exports.</p>
-<p>Nov 17 · <a href="https://www.modelrepublic.org/articles/nvidia-urban-legend-influencer-campaigns">modelrepublic.org</a></p>
 <br clear="all" />
 
 ---
