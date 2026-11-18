@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>Take-Two Lays Off Firaxis Employees Ahead of Grand Theft Auto VI Launch</h2>
 <a name="story-27757"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltd7a51f4543729098%2F68b9b02ba65a196166536be0%2Fcivilization_vii.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Take-Two Interactive has laid off employees at Firaxis Games, the studio behind the Civilization and XCOM franchises, as part of a restructuring effort. A spokesperson for Take-Two subsidiary 2K confirmed the staff reductions, noting that studio head Heather Hazen is also stepping down.</p><p>The layoffs occur just before the release of Rockstar Games' Grand Theft Auto VI, another Take-Two title. According to the publisher, the downsizing is intended to refocus the studio on core strategy game development for its next operational chapter.</p>
-<p>Nov 17 · <a href="https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch">gamedeveloper.com</a></p>
+<p>Nov 17 · <a href="https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch">gamedeveloper.com</a> | <a href="https://www.reddit.com/r/Games/comments/1xyox7a/taketwos_firaxis_maker_of_civilization_cuts_a/">r/Games</a></p>
 <br clear="all" />
 
 <h2>Alex Gibney&#x27;s Musk Documentary Criticized for Use of AI Avatar and Video Game Visuals</h2>
