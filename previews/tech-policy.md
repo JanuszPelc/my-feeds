@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>CFTC Orders Kalshi to Halt Trading on Trump Mention Markets</h2>
+<a name="story-27802"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59365156%3Fwidth%3D780%26height%3D772&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Commodity Futures Trading Commission (CFTC) has ordered Kalshi Inc. to halt trading on "mention markets" that allow users to bet on whether President Donald Trump will use specific words or nicknames during public events. Kalshi confirmed it has restricted these prediction contracts following the regulatory directive.</p><p>The order follows concerns that markets based on presidential speech carry a heightened risk of manipulation. This action reflects ongoing regulatory scrutiny of the prediction market industry by federal authorities.</p>
+<p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/cftc-orders-kalshi-to-take-down-markets-on-trump-s-speeches">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>California DMV Bans Waymo Robotaxis From State Freeways</h2>
 <a name="story-27800"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpatch.com%2Fimg%2Fcdn20%2Fusers%2F27321921%2F20261117%2F030323%2Fstyles%2Fpatch_image%2Fpublic%2Fwaymo___17150035491.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The California Department of Motor Vehicles has indefinitely banned Waymo's autonomous vehicles from operating on state freeways, citing an "imminent hazard to public safety." The decision follows a series of incidents, including a viral video of a Waymo vehicle failing to yield to the California Highway Patrol on Interstate 280 and recurring incursions into construction zones.</p><p>Waymo has responded to the mandate by suspending all freeway-based services nationwide. While the company continues to operate thousands of surface-street trips weekly across 15 U.S. cities, the DMV requires evidence that the technology can reliably navigate construction zones and comply with law enforcement commands before freeway access can be restored.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27703"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQHaEAg-Cv2K9g%2Ffeedshare-shrink_800%2FB4EZyP95I7HwAg-%2F0%2F1771941893450%3Fe%3D2147483647%26v%3Dbeta%26t%3DD3O8g5Lwa6vYMkPqgywQnxh7G8udwaRUGN-PwuJrczE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A review of over 300 Chinese documents, including academic papers and corporate disclosures, shows that Chinese entities are increasingly using AI distillation to train domestic AI models using outputs from leading American models. This practice has transitioned from academic experimentation to mainstream industrial use and is being encouraged by Beijing.</p><p>The use of distillation helps Chinese developers mitigate the impact of U.S. export controls and chip restrictions by using high-performing American models to generate training data and code. This strategy allows Chinese entities to accelerate domestic AI development despite limitations on advanced hardware.</p>
 <p>Nov 17 · <a href="https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>US Judge Acquits MIT-Educated Brothers in $25 Million Ethereum Heist Case</h2>
-<a name="story-27687"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhackread.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fmit-graduate-brothers-arrested-ethereum-heist-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A U.S. federal judge ordered the acquittal of two MIT-educated brothers who faced criminal charges for allegedly executing a $25 million cryptocurrency heist in 12 seconds. The judge ruled that prosecutors failed to prove the defendants committed fraud by exploiting an Ethereum software vulnerability.</p><p>The case centered on an advanced exploit of Ethereum's validator system, with prosecutors arguing the brothers manipulated blockchain mechanics. However, the court determined that the government did not establish the necessary material misrepresentations required to support the fraud convictions.</p>
-<p>Nov 16 · <a href="https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/">reuters.com</a></p>
 <br clear="all" />
 
 ---
