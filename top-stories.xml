@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-18T00:59:00+00:00</updated>
+  <updated>2026-11-18T02:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Jensen Huang Expresses Willingness to Return as Nvidia CEO</title>
+    <link href="https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/::v240</id>
+    <published>2026-11-18T02:18:00+00:00</published>
+    <updated>2026-11-18T02:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256813240.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/">techcrunch.com</a> | <a href="https://x.com/JensenHuang/status/2122726005219737649?s=20">x.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xyq059/jensen_huang_says_hed_be_honored_to_return_as/">r/technology</a></small></p><hr/><p>Jensen Huang, the founder and former CEO of Nvidia, issued his first public statement since resigning, expressing a willingness to return to his leadership role if the company's board decides it is in the best interest of shareholders and employees. His departure followed reports of personal misconduct and intense scrutiny regarding Nvidia’s chip exports to China.</p><p>Huang acknowledged making "serious mistakes" and committed to cooperating with an independent board investigation. While more than 10,000 employees and several prominent tech leaders have signed an open letter calling for his reinstatement, reports suggest the board has no immediate plans to bring him back, and he faces significant political opposition in Congress.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256813240.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 22:18 UTC | #27763 | t,hr</small>]]></content>
+  </entry>
   <entry>
     <title>Malware Distributed to Major Websites via Optimizely Supply Chain Attack</title>
     <link href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/" rel="alternate" />
@@ -480,14 +489,5 @@
     <updated>2026-11-13T05:33:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?st=DGYQ8E&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>SoftBank recorded a $3.7 billion earnings hit following the cancellation of gas turbine reservations intended to power artificial intelligence infrastructure. The canceled capacity exceeded 13GW, an amount equivalent to the electrical output of six Hoover Dams.</p><p>The loss highlights the scale of energy resource requirements and the financial volatility involved in securing power for large-scale AI expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2h8xC8.img%3Fw%3D1280%26h%3D640%26m%3D4%26q%3D67&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>11 Nov 2026, 19:00 UTC | #27151 | r,ht</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Integrates Gemini 4 Hydrogen Model into Search</title>
-    <link href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/" rel="alternate" />
-    <id>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/::v240</id>
-    <published>2026-11-13T02:11:00+00:00</published>
-    <updated>2026-11-13T04:43:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50471431">hacker news</a></small></p><hr/><p>Google is integrating the Gemini 4 Hydrogen model into Search to improve the handling of complex, multi-part questions and typos. Optimized for speed and agentic workflows, the model completes tasks 2.5 times faster than the previous Gemini 3.8 Flash.</p><p>The update introduces enhanced visual responses, such as comparison tables and structured data, and utilizes an improved "fan-out" technique for better query discovery. Hydrogen is rolling out globally to Search users, AI Studio, the Gemini API, and the Gemini App.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fhydrogen-at-2.02.07-PM.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>13 Nov 2026, 00:37 UTC | #27327 | d,htr</small>]]></content>
   </entry>
 </feed>

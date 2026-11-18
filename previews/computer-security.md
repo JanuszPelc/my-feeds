@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>NSA&#x27;s Classified Communications Network Experiences Outage</h2>
+<a name="story-27760"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cnn.com%2Fapi%2Fv1%2Fimages%2Fstellar%2Fprod%2Fgettyimages-1227141714-20261117152535850.jpg%3Fc%3Doriginal%26q%3Dw_860%2Cc_fill&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>NSA Net, the agency's highly classified internal communications system, is currently offline, according to six sources familiar with the matter. The cause remains under investigation, and there is currently no evidence of a cyberattack.</p><p>The agency has implemented staggered arrival schedules for personnel to manage the disruption. Redundant backup systems will prevent the outage from affecting the delivery of urgent intelligence to the president.</p>
+<p>Nov 17 · <a href="https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down">cnn.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyplk9/exclusive_highly_classified_us_national_security/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50532849">hacker news</a></p>
+<br clear="all" />
+
 <h2>Dennis &quot;Coolio&quot; Moran and the 2000 DDoS Attacks</h2>
 <a name="story-27751"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-2-1.png%3Fresize%3D150&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Michael Bacarella describes co-writing a BIND vulnerability exploit with Dennis "Coolio" Moran used to launch the February 2000 DDoS attacks on Yahoo!, eBay, and buy.com. The attacks targeted major dot-com infrastructure via a botnet built from vulnerable DNS servers.</p><p>The account details the EFNet #goonies IRC community and the legal fallout, noting that Moran served nine months in jail despite Mafiaboy receiving significant public notoriety. Moran's subsequent struggle with addiction and his 2013 death from a heroin overdose are also detailed.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27595"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQGG3Wsg1WYspA%2Ffeedshare-shrink_1280%2FB56ZXT_E.PGcAo-%2F0%2F1743018283389%3Fe%3D2147483647%26v%3Dbeta%26t%3DIcciKxtmDYKmMCOwMAaExGYOx9LtMkcNq1EEnFmTzWA&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In a presentation at HPTS 2026, the author argues that distributed database architectures should reconsider quorum-based replication rather than relying entirely on Raft. While early quorum systems like Cassandra, Megastore, and E-Paxos faced challenges with contention latency and snapshot management, those historical drawbacks do not make the model inherently impractical.</p><p>The talk examines recent advancements such as QuePaxa and Neo4J's RIOT protocol, which mitigate traditional leaderless consensus bottlenecks by bounding latency under contention and improving state management. The author contends that developing and testing modern quorum databases will provide viable alternatives to dominant primary-backup and consensus-log designs.</p>
 <p>Nov 16 · <a href="https://transactional.blog/talk/please-implement-a-quorum-database">transactional.blog</a> | <a href="https://lobste.rs/s/hgicaq/please_implement_quorum_database">lobsters</a></p>
-<br clear="all" />
-
-<h2>Microsoft Outlook Outage Delayed Phantasialand Pool Safety Alert</h2>
-<a name="story-27582"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fgxcuf89792%2Fimages%2FbS01NzY1MjItMTEzNzgyaTRDQTQ5REQ5MDBCQTZENUM%3Frevision%3D2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Fifteen guests at Phantasialand's Hotel Ling Bao in Brühl suffered respiratory irritation after a technical malfunction in an automatic dosing system pumped excessive chlorine into a swimming pool. The automated warning system's email notification failed to reach staff because of a widespread Microsoft Outlook service disruption.</p><p>Emergency responders and firefighters transported four individuals to the hospital, where one person remained under observation for a moderate injury, while 11 other guests were treated at the scene. Authorities temporarily closed the pool and replaced the water after testing confirmed the overchlorination caused by the faulty dosing equipment.</p>
-<p>Nov 15 · <a href="https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html">www1.wdr.de</a> | <a href="https://news.ycombinator.com/item?id=50509411">hacker news</a></p>
 <br clear="all" />
 
 ---
