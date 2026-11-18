@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-17T22:17:00+00:00</updated>
+  <updated>2026-11-18T00:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Ramp in Early Discussions to Raise Over $1 Billion at $70 Billion Valuation</title>
+    <link href="https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a" rel="alternate" />
+    <id>https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a::v240</id>
+    <published>2026-11-18T00:26:00+00:00</published>
+    <updated>2026-11-18T00:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fe0af11d5f994f6c6df12b4374f813a84418d5500-2400x1260.png%3Frect%3D0%2C3%2C2400%2C1254%26w%3D1200%26h%3D627%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a">wsj.com</a></small></p><hr/><p>Ramp is in early discussions to raise $1 billion or more in a new funding round, potentially led by Coatue and Thrive Capital. The financing would value the corporate-card and expense-management startup at more than $70 billion.</p><p>This would be the company's third fundraising round within a year. The potential valuation follows a period of rapid growth, including an October funding round that valued the firm at $60 billion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fe0af11d5f994f6c6df12b4374f813a84418d5500-2400x1260.png%3Frect%3D0%2C3%2C2400%2C1254%26w%3D1200%26h%3D627%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 06:41 UTC | #27803</small>]]></content>
+  </entry>
   <entry>
     <title>Codex Raises $30 Million for Stablecoin-Based Cross-Border Payments</title>
     <link href="https://fortune.com/2026/11/17/pantera-backed-codex-30-million-asia-global-markets-stablecoins/" rel="alternate" />

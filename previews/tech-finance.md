@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Ramp in Early Discussions to Raise Over $1 Billion at $70 Billion Valuation</h2>
+<a name="story-27803"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fe0af11d5f994f6c6df12b4374f813a84418d5500-2400x1260.png%3Frect%3D0%2C3%2C2400%2C1254%26w%3D1200%26h%3D627%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ramp is in early discussions to raise $1 billion or more in a new funding round, potentially led by Coatue and Thrive Capital. The financing would value the corporate-card and expense-management startup at more than $70 billion.</p><p>This would be the company's third fundraising round within a year. The potential valuation follows a period of rapid growth, including an October funding round that valued the firm at $60 billion.</p>
+<p>Nov 18 · <a href="https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Codex Raises $30 Million for Stablecoin-Based Cross-Border Payments</h2>
 <a name="story-27762"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsg-imgs.dealroom.co%2Fef044f128f9776295849e076565529b2.jpeg%3Fcs%3Dorigin%26w%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dfaces%2Ccenter%26q%3D85&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Codex has raised $30 million in a Series A funding round to develop infrastructure for stablecoin-based cross-border payments and currency exchange. Led by Pantera Capital, the round included participation from Dragonfly and Coinbase Ventures, valuing the Delaware-based startup at $130 million post-money.</p><p>The company intends to connect Asia to markets in Latin America and sub-Saharan Africa, enabling businesses to exchange currencies without the need for upfront deposits. Codex plans to integrate AI agents to automate its foreign-exchange platform and manage costs as transaction volumes scale.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27621"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21EJK0%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F067361fd-c97e-4be8-9042-8adb89af1b2c_1376x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The ten largest initial public offerings on Wall Street in 2026, featuring companies such as SpaceX, SK, and Cerebras, have declined by an average of 20.5 percent from their original offer prices.</p><p>This downturn follows four years of consistent market gains and highlights a cooling enthusiasm for artificial intelligence that has dampened recent major public debuts.</p>
 <p>Nov 16 · <a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">ft.com</a></p>
-<br clear="all" />
-
-<h2>Plural Raises €1B Fund for European Startups</h2>
-<a name="story-27616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fczechstartups.gov.cz%2Fwp-content%2Fuploads%2F2021%2F02%2FEuropeanCapitalMap_EE-page-001.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>London-based Plural has secured €1 billion in new capital to support startups across Europe. The firm is among a select group of European venture capital firms to raise more than €1 billion in a single round.</p><p>The firm plans to invest in more than 30 companies. This funding marks one of the largest single venture capital fundraisings in the European region.</p>
-<p>Nov 16 · <a href="https://www.ft.com/content/26e52d2a-b259-4283-af83-e2c75d67a2fc">ft.com</a></p>
 <br clear="all" />
 
 ---
