@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Mercuriall Audio Releases Hazel-50 DX Amplifier for Ampbox</h2>
+<a name="story-27873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fhazel-50dx_small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mercuriall Audio has released the Hazel-50 DX amplifier for its Ampbox modeling platform. Modeled after the Friedman BE-50 Deluxe, the plugin meticulously replicates the circuit component by component to deliver the hand-wired, EL34-powered 50-watt head's glassy cleans and hot-rodded rock tones.</p><p>Alongside the new amplifier, the company introduced three free effect pedals to the Ampbox ecosystem: the Open Drive, based on the Fulltone OCD; the MicroPitch Next stereo detune; and the Dim D-320 stereo dimension processor. The Hazel-50 DX is available for purchase at a promotional introductory price.</p>
+<p>Nov 18 · <a href="https://www.kvraudio.com/news/mercuriall-audio-releases-hazel-50-dx-amplifier-for-ampbox-69901?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69901">kvraudio.com</a> | <a href="https://mercuriall.com/cms/details_ampbox/13">mercuriall.com</a></p>
+<br clear="all" />
+
 <h2>Suno Launches Visuals AI Music Video and Image Generator</h2>
 <a name="story-27815"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsuno.bi%2F%28suno.bi%29%2Fog-image-suno-mv.png%3Fv%3D2024-04-01&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence music startup Suno has launched Visuals, a new feature that enables users to generate 15-second video clips, lyric videos, and album art to accompany their audio tracks. Built using a model from the AI firm MiniMax, the tool allows creators to prompt visual ideas or use photo references, with extensions available along a timeline.</p><p>The feature went live on the web, with mobile applications for iOS and Android scheduled to follow in the coming weeks. Visual generation requires separate video credits, which are available through dedicated credit packages or higher-tier subscription plans.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27711"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmultitrackstudio_ipad.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bremmers Audio Design has released version 5.4.2 of MultitrackStudio for iPad, introducing several updates focused on MIDI recording and file export workflows. The latest version adds a file type selector in the Export MIDI Tracks window to choose between standard MIDI files and MIDI 2.0 formats.</p><p>Additional improvements include better handling of overlapping notes during MIDI recording and the preservation of controllers, RPNs, and per-note controllers at track starts. The update also adds a new Sticks sound to the built-in drum instruments, updates pedal controller editors to be vertically flipped, and ensures that MIDI controllers for drawbars, filters, and resonance affect actively playing notes.</p>
 <p>Nov 17 · <a href="https://www.kvraudio.com/news/bremmers-audio-design-updates-multitrackstudio-for-ipad-to-v5-4-2-69887?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69887">kvraudio.com</a> | <a href="https://www.multitrackstudio.com/ipad.php">multitrackstudio.com</a></p>
-<br clear="all" />
-
-<h2>Ocean Swift Releases Free DevOcean Player with Instruments and Effects</h2>
-<a name="story-27712"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpress-card-1---devocean-player-3840x2160.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ocean Swift has launched the DevOcean Player, a free software instrument and effect player for its DevOcean Modular platform. Available in standalone, VST3, and AU formats, the release ships with more than sixty built-in instruments and effects spanning synthesizers, keys, drums, and processors, along with a dedicated DevOcean Player FX plugin for processing individual tracks.</p><p>The platform includes over two thousand NKS-compatible presets with audio previews and supports up to 64 assignable macros per module for DAW automation and hardware control. Alongside the core software, Ocean Swift is offering six additional free modules on its website and discounting its premium instruments by 40% during a launch window, including a bundled Founders Collection containing fifteen modules.</p>
-<p>Nov 17 · <a href="https://www.kvraudio.com/news/ocean-swift-releases-free-devocean-player-with-more-than-60-instruments-and-effects-au-and-vst3-69885?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69885">kvraudio.com</a> | <a href="https://oceanswift.net/product/devocean/">oceanswift.net</a></p>
 <br clear="all" />
 
 ---
