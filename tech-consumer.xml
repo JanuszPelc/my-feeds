@@ -248,13 +248,4 @@
     <updated>2026-11-14T13:07:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html">blog.sesse.net</a> | <a href="https://lobste.rs/s/q81fi4/solving_fox_game">lobsters</a></small></p><hr/><p>Software engineer Steinar H. Gunderson has completely solved the ancient Norse asymmetric board game known as the Fox Game or halatafl, determining that sheep win with perfect play under standard rules. Using a compact bitboard representation, combinatorial number systems, and parallelized state propagation across 64 cores, Gunderson analyzed over two trillion possible board states over a 36-hour run.</p><p>The implementation required approximately 1,000 lines of code with no external dependencies, leveraging symmetry optimizations to manage memory and reduce the search space. Gunderson found that sheep maintain a forced win even when reduced to 19 or 18 pieces, while 11 sheep suffice against a single fox, conclusively settling a question left open by previous AI analyses.</p><hr/><small>14 Nov 2026, 20:18 UTC | #27512</small>]]></content>
   </entry>
-  <entry>
-    <title>Microsoft Apologizes for Service Disruption</title>
-    <link href="https://x.com/microsoft/status/2121282013600907325" rel="alternate" />
-    <id>https://x.com/microsoft/status/2121282013600907325::v240</id>
-    <published>2026-11-13T22:55:00+00:00</published>
-    <updated>2026-11-13T22:55:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.kinetics.co.nz%2Fwp-content%2Fuploads%2F2024%2F08%2FAug1Microsoft.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://x.com/microsoft/status/2121282013600907325">x.com</a></small></p><hr/><p>Microsoft has apologized for a service disruption affecting its customers and partners, reporting that services are seeing broad recovery and stability.</p><p>The company identified a technical issue as the cause of the incident.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.kinetics.co.nz%2Fwp-content%2Fuploads%2F2024%2F08%2FAug1Microsoft.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 06:55 UTC | #27443</small>]]></content>
-  </entry>
 </feed>
