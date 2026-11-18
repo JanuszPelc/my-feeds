@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>California DMV Bans Waymo Robotaxis From State Freeways</h2>
+<a name="story-27800"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpatch.com%2Fimg%2Fcdn20%2Fusers%2F27321921%2F20261117%2F030323%2Fstyles%2Fpatch_image%2Fpublic%2Fwaymo___17150035491.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The California Department of Motor Vehicles has indefinitely banned Waymo's autonomous vehicles from operating on state freeways, citing an "imminent hazard to public safety." The decision follows a series of incidents, including a viral video of a Waymo vehicle failing to yield to the California Highway Patrol on Interstate 280 and recurring incursions into construction zones.</p><p>Waymo has responded to the mandate by suspending all freeway-based services nationwide. While the company continues to operate thousands of surface-street trips weekly across 15 U.S. cities, the DMV requires evidence that the technology can reliably navigate construction zones and comply with law enforcement commands before freeway access can be restored.</p>
+<p>Nov 18 · <a href="https://www.bizjournals.com/sanfrancisco/news/2026/11/17/waymo-california-freeway-ban-dmv-chp.html?page=all">bizjournals.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia to Cease H200 Chip Sales in China Following Jensen Huang&#x27;s Ouster</h2>
 <a name="story-27824"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.firstpost.com%2Fuploads%2F2026%2F03%2FNvidia-2026-03-aebcf078d1599deed6bef98d3f1b2f6f-1200x675.jpg%3Fim%3DFitAndFill%3D%28596%2C336%29&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia will stop selling its H200 chips in China, according to acting CEO Colette Kress, effectively ending a loophole in U.S. export restrictions. The decision follows the recent departure of co-founder and CEO Jensen Huang and the company's creation of a board-level committee to oversee national security policies and export control compliance.</p><p>New U.S. regulations prohibit the sale of advanced chips to foreign data centers that serve Chinese customers remotely. While some analysts project the rules could reduce Nvidia’s data center revenue by as much as $62 billion next year, the company maintains that high demand for upcoming Vera Rubin chips will mitigate the impact. Long-term risks include potential market loss in Southeast Asia and intensified competition from China's domestic semiconductor industry.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27687"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhackread.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fmit-graduate-brothers-arrested-ethereum-heist-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A U.S. federal judge ordered the acquittal of two MIT-educated brothers who faced criminal charges for allegedly executing a $25 million cryptocurrency heist in 12 seconds. The judge ruled that prosecutors failed to prove the defendants committed fraud by exploiting an Ethereum software vulnerability.</p><p>The case centered on an advanced exploit of Ethereum's validator system, with prosecutors arguing the brothers manipulated blockchain mechanics. However, the court determined that the government did not establish the necessary material misrepresentations required to support the fraud convictions.</p>
 <p>Nov 16 · <a href="https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Donald Trump Says Jensen Huang’s Affair With Alleged Chinese Spy Did Not Threaten National Security</h2>
-<a name="story-27674"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.nerdism.com%2Fwp-content%2Fuploads%2F2026%2F11%2F1280px-Nvidia_CEO_Jensen_Huang_gestikuliert.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>President Donald Trump stated that the relationship between former Nvidia CEO Jensen Huang and Alice Huang, an alleged Chinese spy, did not pose a risk to U.S. national security. Trump also expressed skepticism regarding intelligence findings that Alice Huang, a former Megaspeed executive, is an operative for China's Ministry of State Security.</p><p>These remarks contradict reports that Secretary of State Marco Rubio had previously overseen intelligence warnings about the potential espionage risk. Huang recently resigned from Nvidia following reports of multiple affairs, including with employees, as investigations into the illegal smuggling of Nvidia chips to China continue.</p>
-<p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

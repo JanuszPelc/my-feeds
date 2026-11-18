@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Bypassing Rust&#x27;s Orphan Rule Using Generic Context Parameters</h2>
+<a name="story-27850"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsoftwaremill.com%2Fuser%2Fpages%2Fblog%2F355.adapter-pattern-in-rust-overcoming-the-orphan-rule-with-newtype-and-extension-traits%2Fia3nakhytdrsn1e.jpg%3Fg-caa9725f&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rust's orphan rule (error E0117) prevents implementing foreign traits for foreign types to maintain ecosystem coherence. Typical workarounds, such as the NewType pattern or adding feature flags to libraries, often result in code bloat, dependency lock-in, or inflexible default behaviors.</p><p>Developers can bypass this restriction by designing traits with a generic context parameter. By using a local marker type within the trait's generic arguments, it is possible to satisfy the orphan rule and implement traits for third-party types without additional wrappers. This technique enables the creation of lightweight, independent domain models and allows for zero-cost, context-specific behavior, as seen in the implementation of the Kova ORM.</p>
+<p>Nov 18 · <a href="https://edvong.com/bypass-orphan-rule/">edvong.com</a> | <a href="https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule">lobsters</a></p>
+<br clear="all" />
+
+<h2>Jordan Krueger Advocates for Improving Existing Open-Source Software</h2>
+<a name="story-27849"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bytebytego.com%2Fdiagrams%2F0359-the-open-source-ai-stack.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jordan Krueger argues that instead of using AI to create numerous new applications, developers should focus on improving existing open-source software. He suggests that optimizing current tools—making them faster, easier to install, more user-friendly, and more resource-efficient—provides more widespread value than the creation of new, superficial apps.</p><p>Improving existing software could enable non-profits and small organizations to migrate from large technology corporations to self-hosted, privacy-focused solutions without needing dedicated system administrators. Krueger also warns against overwhelming maintainers with low-quality, AI-generated contributions, noting how the curl project has dealt with a high volume of AI-generated bug reports.</p>
+<p>Nov 18 · <a href="https://jordankrueger.com/blog/better-open-source-not-more-apps/">jordankrueger.com</a> | <a href="https://news.ycombinator.com/item?id=50532086">hacker news</a></p>
+<br clear="all" />
+
 <h2>Comparison of WWDC 2007 Core Animation Demo and Modern macOS Performance</h2>
 <a name="story-27847"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaM_8vhVE6jA%2Fhqdefault.jpg%3Fsqp%3D-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC1gOKAgwIABABGE4gXyhlMA8%3D%26rs%3DAOn4CLCLfG-0YpZKdxB4hUfREoifN90hWQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The WWDC 2007 Core Animation demonstration featured seamless features such as live video walls, instant zooming, and instant tag search on 2007-era hardware.</p><p>Modern macOS versions, including Sequoia and Tahoe, exhibit slower interface response times, particularly regarding the loading speed of system panels.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27684"><img src="https://wsrv.nl/?url=https%3A%2F%2Fepiverse-trace.github.io%2Fgit-rstudio-basics%2Ffig%2Fcut-git-verb_map-11.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The author describes migrating over 70 repositories, including the Inko programming language, from GitHub to Codeberg. The move was prompted by concerns regarding the rise of AI-generated content on GitHub, Microsoft's ownership, and Codeberg's stance on hosting free software and prohibiting AI content.</p><p>The transition required replacing GitHub Actions with Forgejo Actions, leading the author to self-host runners on a Mac Mini and a Deskmini to support testing across Linux, macOS, and FreeBSD. Technical hurdles included navigating GitHub rate limits during the import process and resolving compatibility differences between GitHub and Forgejo CI configurations.</p>
 <p>Nov 16 · <a href="https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/">yorickpeterse.com</a> | <a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg">lobsters</a></p>
-<br clear="all" />
-
-<h2>Aphyr Releases Hegel-clj Generative Testing Library for Clojure</h2>
-<a name="story-27677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fshot.huntscreens.com%2F86aa65c0-e165-4435-aeea-905bc49ceb53_large.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kyle Kingsbury has released hegel-clj, a Clojure interface for the Hegel generative testing library. The package provides a streamlined, consistent alternative to traditional property-based testing tools like test.check, addressing common composition limitations and shrinking inefficiencies associated with nested generators and the bind function.</p><p>Unlike traditional libraries that rely on precomputed shrink trees, Hegel employs internal test-case-reduction to generate similar, smaller counterexamples more reliably. The hegel-clj library features pure, composable generators, a convenient let macro, a deferred API for recursive structures, and seamless integration with clojure.test.</p>
-<p>Nov 16 · <a href="https://aphyr.com/posts/428-announcing-hegel-clj">aphyr.com</a> | <a href="https://lobste.rs/s/ydzo2o/announcing_hegel_clj">lobsters</a></p>
-<br clear="all" />
-
-<h2>Core Program Visualizes Process Memory as Bitmaps</h2>
-<a name="story-27670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F001%2F205%2F950%2Fdatas%2Foriginal.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Core is an esoteric debugging and paint program that visualizes the memory of running processes by arranging memory pages along a Z-order curve and rendering them as bitmaps where each bit corresponds to a pixel. The software displays text and data segments, stacks, and heaps, allowing users to observe memory structures and directly manipulate or scribble onto the process space.</p><p>By mapping memory to visual textures, the program reveals patterns such as ASCII text, pointers, garbage collection cycles, and graphical assets like game sprites or operating system icons. When attached to emulators or virtual machines, it provides an overview of entire operating systems, rendering dynamic memory allocation and page table activity visible in real time.</p>
-<p>Nov 16 · <a href="https://citrons.xyz/journal/2026-04-13">citrons.xyz</a> | <a href="https://lobste.rs/s/thiekk/paint_memory_other_programs">lobsters</a></p>
 <br clear="all" />
 
 ---
