@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>NVIDIA Reports Third Quarter Fiscal 2027 Financial Results</h2>
+<a name="story-27812"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fforums%2Fattachments%2F386910&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>NVIDIA recorded $115.8 billion in revenue for the third quarter of fiscal 2027, a 103% increase year-over-year. Data center revenue reached $107.6 billion, up 110% from a year ago. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively.</p><p>The company has begun shipping its Vera Rubin NVL72 computing platform and increased its share repurchase authorization by $150 billion. For the fourth quarter of fiscal 2027, NVIDIA expects revenue to be approximately $130 billion.</p>
+<p>Nov 18 · <a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027">nvidianews.nvidia.com</a> | <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx">investor.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50538361">hacker news</a></p>
+<br clear="all" />
+
 <h2>Ramp in Early Discussions to Raise Over $1 Billion at $70 Billion Valuation</h2>
 <a name="story-27803"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fe0af11d5f994f6c6df12b4374f813a84418d5500-2400x1260.png%3Frect%3D0%2C3%2C2400%2C1254%26w%3D1200%26h%3D627%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ramp is in early discussions to raise $1 billion or more in a new funding round, potentially led by Coatue and Thrive Capital. The financing would value the corporate-card and expense-management startup at more than $70 billion.</p><p>This would be the company's third fundraising round within a year. The potential valuation follows a period of rapid growth, including an October funding round that valued the firm at $60 billion.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27659"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub-ec68ecb502fe49a1a6af408e889f7e65.r2.dev%2Fcelebs%2FJordan_Belfort.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tone uses strategic tonality and persuasion techniques to optimize sales performance through AI-generated voices. The startup has raised approximately $10 million in funding and reports roughly $700,000 in revenue from clients in sectors such as law and insurance.</p><p>The platform utilizes low-latency, lightweight models to mimic human inflection, including using questioning tones for declarative statements to drive engagement. Tone is also rolling out a self-service tool for content creators to generate expressive AI narration and voice clones.</p>
 <p>Nov 16 · <a href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/">techcrunch.com</a> | <a href="https://www.trytone.ai/blog/introducing-tone">trytone.ai</a></p>
-<br clear="all" />
-
-<h2>Wall Street&#x27;s 10 Biggest 2026 IPOs Fall From Offer Prices</h2>
-<a name="story-27621"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21EJK0%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F067361fd-c97e-4be8-9042-8adb89af1b2c_1376x768.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The ten largest initial public offerings on Wall Street in 2026, featuring companies such as SpaceX, SK, and Cerebras, have declined by an average of 20.5 percent from their original offer prices.</p><p>This downturn follows four years of consistent market gains and highlights a cooling enthusiasm for artificial intelligence that has dampened recent major public debuts.</p>
-<p>Nov 16 · <a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">ft.com</a></p>
 <br clear="all" />
 
 ---
