@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-18T16:56:00+00:00</updated>
+  <updated>2026-11-18T17:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Citibank Updates Terms to Make Customers Liable for Losses Incurred by Third-Party AI Agents</title>
+    <link href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/::v240</id>
+    <published>2026-11-18T17:33:00+00:00</published>
+    <updated>2026-11-18T17:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.lyzr.ai%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-17-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/">techcrunch.com</a> | <a href="https://www.citi.com/tandc">citi.com</a></small></p><hr/><p>Citibank has updated its online user agreement to state that customers who use third-party artificial intelligence tools to access their accounts will be held fully responsible for any resulting transactions or credential leaks. The bank joins other major financial institutions like JPMorgan Chase, Bank of America, and PNC in shifting liability to consumers who grant automated assistants access to their personal financial portals.</p><p>The policy changes highlight growing friction between traditional banks and the rise of autonomous financial tech tools, which are increasingly marketed to manage spending, investments, and bill payments. While startups and labs race to integrate personal finance features into AI agents, financial institutions are warning customers that security breaches or unauthorized actions caused by these tools are the user's sole responsibility.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.lyzr.ai%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-17-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 22:38 UTC | #27914</small>]]></content>
+  </entry>
   <entry>
     <title>Carleton University Researchers Outline Framework for Assessing Cyberattack Impacts on Critical Infrastructure</title>
     <link href="https://theconversation.com/how-we-can-prepare-for-future-cyberattacks-on-critical-infrastructure-296214" rel="alternate" />
