@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-18T10:11:00+00:00</updated>
+  <updated>2026-11-18T15:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>US Department of Commerce Implements New Export Controls on Remote AI Compute Access</title>
+    <link href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/::v240</id>
+    <published>2026-11-18T15:09:00+00:00</published>
+    <updated>2026-11-18T15:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.usimportdata.com%2Fblogs%2Fuploads%2Fimages%2F202506%2Fimage_750x_68481472f3c58.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/">techcrunch.com</a> | <a href="https://www.bis.gov/media/documents/rin-0694-ak50.pdf">bis.gov</a></small></p><hr/><p>The U.S. Commerce Department has introduced interim export controls requiring licenses for transferring advanced AI chips and servers to international data centers that could supply computing power to restricted countries, including China. The rules aim to close loopholes that allowed companies in embargoed nations to bypass direct shipping restrictions by utilizing foreign remote infrastructure.</p><p>The regulations apply to data networks exceeding 12 million total processing performance and mandate heightened customer vetting by exporters and data center operators. In addition, the framework imposes new licensing requirements for advanced semiconductor transfers to several countries identified as having high diversion risks, while formally rescinding the Biden administration's previous AI Diffusion Rule.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.usimportdata.com%2Fblogs%2Fuploads%2Fimages%2F202506%2Fimage_750x_68481472f3c58.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 20:12 UTC | #27640 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Vals Report Finds AI Models Can Be Tricked Into Identifying Civilians as Military Targets</title>
     <link href="https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/" rel="alternate" />
