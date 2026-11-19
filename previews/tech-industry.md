@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Sells $1.1 Billion in Stock to European Retail Investors in IPO</h2>
+<a name="story-28003"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.llms.blog%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcms.llms.blog%2Fcontent%2Fimages%2F2026%2F10%2Fanthropic-ipo-retail-investors-jpmorgan-retailbook-1-mvtfs383.png%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic PBC sold $1.1 billion worth of stock to retail investors across the United Kingdom, the European Union, Norway, and Switzerland during its initial public offering. Regulatory filings indicate that UK retail investors alone purchased more than 3.6 million shares in the offering.</p><p>The retail allocation was part of a landmark public offering that made shares available through international retail brokers and selling agents. The participation of retail investors across multiple European jurisdictions highlights broad retail demand for major artificial intelligence market debuts.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-1-1-billion-of-shares-sold-to-european-retail-investors">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>AptDeco Sellers Report Unpaid Payouts and Missing Furniture</h2>
 <a name="story-28037"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Faptdeco.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple users of the high-end furniture marketplace AptDeco report that the company has collected and sold their items but failed to issue payouts, leaving sellers waiting weeks or months without payment. Affected customers state that customer support has repeatedly attributed the delays to payment processing issues, technical bugs, or internal escalation without providing concrete timelines.</p><p>Sellers and buyers facing these delays note that AptDeco continues to operate its platform normally while offering vague or automated responses, prompting individuals to consider small claims court or class action lawsuits. The platform, which markets itself as a secure alternative to peer-to-peer marketplaces like Craigslist and Facebook Marketplace by handling pickup, delivery, and payments, has not responded to requests for comment.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27948"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheusreport.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNvidia-CEO-Jensen-Huang-resignation-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>At The New York Times DealBook Summit, Elon Musk criticized Nvidia's board for ousting CEO Jensen Huang following public disclosures regarding extramarital affairs. Musk likened Huang's departure to removing Michael Jordan from a winning sports team and stated that he would gladly hire him at X.</p><p>Musk previously signed a petition urging Nvidia to reinstate Huang, though the company's board has confirmed it has no plans to reappoint him. While other technology leaders like Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman expressed confidence in Nvidia's interim leadership, Anduril CEO Palmer Luckey echoed Musk's concerns that removing Huang weakens the company's position.</p>
 <p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Microsoft CEO Satya Nadella Expresses Confidence in Nvidia Following Jensen Huang&#x27;s Departure</h2>
-<a name="story-27947"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FbnJVQdMkFHUddjVeGAeNdR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft CEO Satya Nadella expressed continued confidence in Nvidia during an appearance at the New York Times DealBook Summit, following the sudden departure of longtime CEO Jensen Huang. Nadella praised interim CEO and former Microsoft executive Colette Kress, stating that he maintains strong working relationships with the company's core leadership team.</p><p>Huang stepped down after 33 years following public disclosures regarding personal relationships, including an affair with an executive whom U.S. officials suspect of being a foreign intelligence operative. Reflecting on the role of corporate leaders, Nadella remarked that while founders are singular figures who create enterprises from nothing, companies must ultimately transition to new leadership to ensure sustained success.</p>
-<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Moonshot AI Cancels $150 Million Contract for Nvidia Chips in Indonesia</h2>
+<a name="story-28001"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FuxCBfgA5pCWEc6ZumzeRkB.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese artificial intelligence startup Moonshot AI has canceled a $150 million contract to rent access to Nvidia Blackwell chips housed in an Indonesian data center. The deal, which involved a Southeast Asian neocloud provider, was scrapped following the implementation of tightened U.S. export regulations.</p><p>The canceled arrangement highlights the mounting hurdles Chinese AI developers encounter when trying to secure high-performance hardware to train advanced models like Moonshot's Kimi. As restrictions block direct hardware imports and choke off loopholes, firms continue to seek workarounds through overseas cloud providers and alternative computing clusters.</p>
+<p>Nov 19 · <a href="https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>TSMC and Samsung Suspend Chip Shipments to China Amid New US Export Controls</h2>
 <a name="story-27998"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techspot.com%2Fimages2%2Fnews%2Fbigimage%2F2022%2F11%2F2022-11-10-image-18.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TSMC and Samsung Electronics have suspended shipments of certain semiconductor chips to Chinese customers following the introduction of new export controls by the US Commerce Department. The companies are currently seeking the necessary licenses to resume shipments while ensuring compliance with the updated regulations.</p><p>The suspension reflects the expanding scope of US restrictions on high-end technology and its impact on the global semiconductor supply chain. Both manufacturers are navigating the licensing process amidst heightened geopolitical scrutiny and trade barriers intended to limit China's access to advanced hardware.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27918"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F09%2F04%2Fmultimedia%2F00CA-AI-HFO-newsom-hjqz%2F00CA-AI-HFO-newsom-hjqz-videoSixteenByNine3000.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>California Governor Gavin Newsom unveiled a legislative proposal on November 18, 2026, granting the state broad regulatory authority over the artificial intelligence industry, including strict baseline safety standards, independent oversight monitors embedded in labs, and emergency shutdown capabilities. The initiative serves as a roadmap for state lawmakers and is framed as a potential regulatory model for the federal government.</p><p>The proposal follows a series of executive actions and data center measures pursued by Newsom as part of a broader shift in his approach to the technology sector. This policy recalibration comes amid rising public concern regarding advanced artificial intelligence and follows recent electoral setbacks for Democrats associated with big tech policies.</p>
 <p>Nov 18 · <a href="https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739">politico.com</a> | <a href="https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/">gov.ca.gov</a></p>
-<br clear="all" />
-
-<h2>Ukraine Uses Relay Drones and Missiles to Strike Kerch Bridge</h2>
-<a name="story-27905"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-936936%3Fwidth%3D1280%26height%3D720&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ukraine launched a coordinated drone and missile attack that resulted in the partial collapse of the Kerch Bridge connecting the Crimean Peninsula to Russia. The operation utilized domestically developed Flamingo cruise missiles and airborne relay drones, or "flying modems," to maintain real-time pilot control and evade Russian air defenses.</p><p>The deployment of these communication relay networks allowed Ukrainian forces to bypass recent connection and speed restrictions imposed on Elon Musk’s Starshield satellite system. Both sides in the conflict increasingly rely on mesh modems and airborne relays to extend weapon operating ranges and ensure precision targeting despite heavy electronic jamming.</p>
-<p>Nov 18 · <a href="https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8?accessToken=zwAAAaHvwVfBkc9lxWhK9TJGAdOYeI-i7-jY-A.MEUCIFme8PCszdF-EQGko2ggycgSN-8r1pmnG3z0E0PtXdQIAiEAhzSp8M11tGOjiliRWt_CS5cgOjZ5RYYYCFTb5gpLBGI&sharetype=gift&token=fb19d551-6968-4bb9-aeea-5b4d75b6c7f7&syn-25a6b1a6=1">ft.com</a></p>
 <br clear="all" />
 
 ---
