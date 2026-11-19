@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Interim CEO Colette Kress Announces Early Pay Raises and Equity at First All-Hands Meeting</h2>
+<a name="story-27929"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F05%2FMPW-2026-Colette-Kress.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>During her first companywide address as interim CEO of Nvidia, Colette Kress announced that employees would receive pay raises and additional equity in December, months ahead of schedule. The meeting followed the abrupt resignation of longtime CEO Jensen Huang amid personal conduct allegations, a leadership crisis that has rattled investors and prompted concerns over talent retention.</p><p>Board chair Harvey Jones reiterated during the all-hands meeting that the board accepted Huang's resignation due to a lack of candor regarding his personal behavior, adding that the search for a permanent successor is underway. Despite the executive shake-up and ongoing government investigations, Nvidia recently reported stronger-than-expected financial results and projected continued growth in the AI chip market.</p>
+<p>Nov 18 · <a href="https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/">wired.com</a></p>
+<br clear="all" />
+
 <h2>Elon Musk Criticizes Nvidia Board Over Jensen Huang Ouster at DealBook Summit</h2>
 <a name="story-27948"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheusreport.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNvidia-CEO-Jensen-Huang-resignation-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>At The New York Times DealBook Summit, Elon Musk criticized Nvidia's board for ousting CEO Jensen Huang following public disclosures regarding extramarital affairs. Musk likened Huang's departure to removing Michael Jordan from a winning sports team and stated that he would gladly hire him at X.</p><p>Musk previously signed a petition urging Nvidia to reinstate Huang, though the company's board has confirmed it has no plans to reappoint him. While other technology leaders like Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman expressed confidence in Nvidia's interim leadership, Anduril CEO Palmer Luckey echoed Musk's concerns that removing Huang weakens the company's position.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27869"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhumynlabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fprod-image-bucket.indi.gg%2Fhumyn-labs%2Fblogs%2F1778074135952_cropped_image_banner.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Humyn Labs has raised $47 million in Series A and venture debt to provide multimodal training data for U.S.-based robotics and AI developers. The $26 million equity round was led by Accel and Cactus Partners, while $21 million in venture debt was led by Lighthouse Canton Growth Debt Fund II.</p><p>The Bengaluru-based startup uses specialized hardware and software to record and label human activities across more than 20 countries to help robots learn to operate in physical environments. The company currently serves 12 customers, primarily in the United States, and reported $10 million in revenue between April and October.</p>
 <p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>YouTube Updates Public View Counts to Include Estimated TV Co-Views</h2>
-<a name="story-27843"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.tweaktown.com%2Fnews%2F1%2F1%2F114751_2_youtube-view-counts-now-include-estimated-co-viewers-so-one-tv-play-can-count-as-several-views.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>YouTube is updating its public view counts to include estimated "co-views," which represent the number of people watching a video together on a television. This update applies to long-form videos, Shorts, and live content to provide a more comprehensive measurement of platform usage and align with television industry standards.</p><p>The system uses a privacy-safe statistical model based on demographic patterns and viewing times instead of using cameras or microphones. These estimated co-views apply only to new TV views moving forward and do not affect creator ad revenue, YouTube Partner Program eligibility, or earnings.</p>
-<p>Nov 18 · <a href="https://www.theverge.com/streaming/1035683/youtube-co-views-count">theverge.com</a> | <a href="https://support.google.com/youtube/answer/2991785">support.google.com</a></p>
 <br clear="all" />
 
 ---
