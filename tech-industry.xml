@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T18:59:00+00:00</updated>
+  <updated>2026-11-18T20:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Meta Internal Documents Reveal 'Project Gryffindor' School Targeting for Instagram Growth</title>
+    <link href="https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety" rel="alternate" />
+    <id>https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety::v240</id>
+    <published>2026-11-18T20:09:00+00:00</published>
+    <updated>2026-11-18T20:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F8064x5622%2B0%2B0%2Fresize%2F1100%2Fquality%2F50%2Fformat%2Fwebp%2F%3Furl%3Dhttps%253A%252F%252Fnpr-production-npr.s3.us-east-1.amazonaws.com%252Fbrightspot%252F23%252Fef%252Ff8dbd03c47e4bbe621c1757ede65%252Fgettyimages-2196627077.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety">npr.org</a> | <a href="https://www.reddit.com/r/technology/comments/1xzhj1v/project_gryffindor_metas_plan_to_get_more_school/">r/technology</a></small></p><hr/><p>Internal Meta documents obtained through legal discovery reveal that the company launched an initiative called "Project Gryffindor" to target U.S. schools and increase teen Instagram usage. While publicly promoted as a safety and anti-bullying initiative known as the School Partnership Program, internal presentations show the project was explicitly designed to drive user acquisition, network connections, and platform retention.</p><p>Child safety experts and legal briefs have raised concerns that integrating Instagram into schools exposes teens to heightened risks of online predators, sextortion scams, and account takeovers by leveraging student directories and location data. Meta defended the program, stating that it helps thousands of schools communicate safely, manage extracurricular activities, and report bullying, while emphasizing that the company does not want the app to distract students during class.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F8064x5622%2B0%2B0%2Fresize%2F1100%2Fquality%2F50%2Fformat%2Fwebp%2F%3Furl%3Dhttps%253A%252F%252Fnpr-production-npr.s3.us-east-1.amazonaws.com%252Fbrightspot%252F23%252Fef%252Ff8dbd03c47e4bbe621c1757ede65%252Fgettyimages-2196627077.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 01:30 UTC | #27894</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Nears $500 Million Azure Deal to Supply OpenAI Models to ByteDance</title>
     <link href="https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai" rel="alternate" />
