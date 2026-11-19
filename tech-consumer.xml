@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-19T13:22:00+00:00</updated>
+  <updated>2026-11-19T16:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Google Introduces New Foldable App Support Requirements for Android Developers</title>
+    <link href="https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support" rel="alternate" />
+    <id>https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support::v240</id>
+    <published>2026-11-19T16:35:00+00:00</published>
+    <updated>2026-11-19T16:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.yugatech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fandroid-foldable-full-screen-app-support-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support">theverge.com</a> | <a href="https://developer.android.com/blog/posts/google-play-adaptive-quality-standards">developer.android.com</a></small></p><hr/><p>Starting in April 2027, Google will require Android app developers to meet its "Tier 3 — Adaptive ready" standard, ensuring apps fill foldable displays without letterboxing and preserve state during actions like rotation and unfolding. Non-compliant developers risk publication restrictions or reduced visibility on Google Play, alongside a new requirement to provide three foldable screenshots for their app listings.</p><p>Game developers have until August 2027 to comply with parallel large-screen and foldable standards, though they must also submit foldable screenshots starting in April. Google plans to expand these quality requirements to other large-screen devices, including tablets and laptops, in future phases.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.yugatech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fandroid-foldable-full-screen-app-support-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:52 UTC | #28012</small>]]></content>
+  </entry>
   <entry>
     <title>Grand Theft Auto News Coverage Reflects Changing Cultural Anxieties</title>
     <link href="https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/" rel="alternate" />
