@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-19T03:53:00+00:00</updated>
+  <updated>2026-11-19T03:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>NYC, LA, and Chicago School Districts Consider Alternatives to Google Search Over AI Policy</title>
+    <link href="https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html?unlocked_article_code=1.RVE.gLxg.XpnU5fMGh-0k&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html?unlocked_article_code=1.RVE.gLxg.XpnU5fMGh-0k&amp;smid=url-share::v240</id>
+    <published>2026-11-19T03:58:00+00:00</published>
+    <updated>2026-11-19T03:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fscx2.b-cdn.net%2Fgfx%2Fnews%2F2024%2Fgoogles-ai-overview-th.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html?unlocked_article_code=1.RVE.gLxg.XpnU5fMGh-0k&smid=url-share">nytimes.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xzsmxq/us_school_districts_weigh_undoing_agreement_with/">r/technology</a></small></p><hr/><p>Major school districts in New York City, Los Angeles, and Chicago are exploring alternative search tools after Google declined to provide an AI-free version of its search engine for student accounts. The districts face a policy under which Google Search and Gemini remain disabled by default for K-12 students unless administrators opt in, and enabling Search requires accepting AI Overviews and AI-driven features.</p><p>Google's refusal to unbundle artificial intelligence features from basic web search has sparked pushback from education officials balancing student screen time, data privacy, and restrictions on generative tools. The dispute highlights tensions over tech giant policies in public education, as school administrators weigh whether to accept mandatory classroom AI tools or shift students toward competing search alternatives.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx2.b-cdn.net%2Fgfx%2Fnews%2F2024%2Fgoogles-ai-overview-th.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 11:11 UTC | #27957</small>]]></content>
+  </entry>
   <entry>
     <title>Elon Musk Discusses Midterm Election Spending and Political Stance at DealBook Summit</title>
     <link href="https://variety.com/2026/digital/news/elon-musk-pretty-foolish-midterm-election-races-not-maga-1236952400/" rel="alternate" />

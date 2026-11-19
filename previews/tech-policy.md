@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>NYC, LA, and Chicago School Districts Consider Alternatives to Google Search Over AI Policy</h2>
+<a name="story-27957"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx2.b-cdn.net%2Fgfx%2Fnews%2F2024%2Fgoogles-ai-overview-th.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Major school districts in New York City, Los Angeles, and Chicago are exploring alternative search tools after Google declined to provide an AI-free version of its search engine for student accounts. The districts face a policy under which Google Search and Gemini remain disabled by default for K-12 students unless administrators opt in, and enabling Search requires accepting AI Overviews and AI-driven features.</p><p>Google's refusal to unbundle artificial intelligence features from basic web search has sparked pushback from education officials balancing student screen time, data privacy, and restrictions on generative tools. The dispute highlights tensions over tech giant policies in public education, as school administrators weigh whether to accept mandatory classroom AI tools or shift students toward competing search alternatives.</p>
+<p>Nov 19 · <a href="https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html?unlocked_article_code=1.RVE.gLxg.XpnU5fMGh-0k&smid=url-share">nytimes.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xzsmxq/us_school_districts_weigh_undoing_agreement_with/">r/technology</a></p>
+<br clear="all" />
+
 <h2>Elon Musk Discusses Midterm Election Spending and Political Stance at DealBook Summit</h2>
 <a name="story-27953"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2023%2F11%2F30%2Fmultimedia%2F30db-musk-ptvc%2F30db-musk-ptvc-superJumbo.jpg%3Fquality%3D75%26auto%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Elon Musk stated during an appearance at the New York Times 2026 DealBook Summit that he feels foolish for spending nearly $500 million on Republican midterm election races that ultimately resulted in Democrats taking control of the House and Senate. He also distanced himself from the MAGA movement, stating he lacks blind adherence to Republican policies and believes there are positives and negatives in both political parties.</p><p>During the virtual interview, Musk addressed a potential merger between SpaceX and Tesla, defended his decision to restrict Starlink's use for offensive military strikes in Ukraine, and commented on Jensen Huang's recent departure as CEO of Nvidia. Additionally, Skydance CEO David Ellison noted during the conference that Musk has invested in Skydance following its merger with Paramount and Warner Bros. Discovery.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27766"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hCMXZ.img%3Fw%3D768%26h%3D555%26m%3D6%26x%3D325%26y%3D159%26s%3D220%26d%3D220&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Madison Huang, a marketing director and daughter of Nvidia founder Jensen Huang, helped manage the company’s response to scrutiny regarding its business links to Megaspeed. This process reportedly involved the temporary sidelining of a top communications executive.</p><p>Nvidia’s board has launched an investigation into the company’s connections to Megaspeed. The scrutiny focuses on the role played by Madison Huang and her son-in-law in directing the company's public defense.</p>
 <p>Nov 17 · <a href="https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27">ft.com</a></p>
-<br clear="all" />
-
-<h2>DHS Secretary Markwayne Mullin Attributes Recent Tech Outages to Aging Systems</h2>
-<a name="story-27761"><img src="https://wsrv.nl/?url=https%3A%2F%2F6pwlv5vzvfnbrzqk.public.blob.vercel-storage.com%2FGettyImages-2305026572-v84nVUZkPsWMa1mpfXyIzWhtKTUGBE.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>US Department of Homeland Security Secretary Markwayne Mullin stated that recent widespread technology outages are not the result of cyberattacks. He attributed the disruptions to the challenges of integrating new technology onto aging, outdated computer systems.</p><p>The outages have recently impacted several sectors, including banking and aviation. While Mullin emphasized infrastructure age, he has also suggested, citing an unnamed technical source, that artificial intelligence may be contributing to system overloads.</p>
-<p>Nov 17 · <a href="https://www.reuters.com/world/us-official-says-recent-tech-woes-not-tied-cyberattacks-2026-11-17/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xz1ban/how_to_tell_if_its_a_cyberattack_or_just_an_outage/">r/technology</a></p>
 <br clear="all" />
 
 ---
