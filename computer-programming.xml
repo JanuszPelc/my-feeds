@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-18T20:15:00+00:00</updated>
+  <updated>2026-11-18T23:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Jimmy Miller Explores the Mechanics and Magic of Partial Evaluation</title>
+    <link href="https://jimmyhmiller.com/magic-of-partial-evaluation" rel="alternate" />
+    <id>https://jimmyhmiller.com/magic-of-partial-evaluation::v240</id>
+    <published>2026-11-18T23:29:00+00:00</published>
+    <updated>2026-11-18T23:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffstar-lang.org%2Fep2021%2Faux%2FFutamura-paper.PNG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jimmyhmiller.com/magic-of-partial-evaluation">jimmyhmiller.com</a> | <a href="https://lobste.rs/s/silxsl/magic_partial_evaluation">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50550096">hacker news</a></small></p><hr/><p>Jimmy Miller examines the concept of partial evaluation in programming languages, demonstrating how running parts of a program at build time can simplify complex logic and bridge the gap between interpreters and compilers. Using examples ranging from a simple factorial function and a calculator to a brainfuck interpreter and schema validators, the post illustrates how code specialization works in practice.</p><p>The article also touches upon the Futamura projections, explaining how partially evaluating an interpreter with a program yields a compiled program, and how specializing a partial evaluator itself can generate compilers. Through these examples, the post highlights how partial evaluation offers a unique lens for rethinking computation and program optimization beyond traditional runtime approaches.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffstar-lang.org%2Fep2021%2Faux%2FFutamura-paper.PNG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 04:41 UTC | #27975</small>]]></content>
+  </entry>
   <entry>
     <title>Ethan McCue Examines Java Memory Safety and Performance Following Java4Shell</title>
     <link href="https://mccue.dev/pages/11-18-26-java4shell" rel="alternate" />
