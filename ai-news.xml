@@ -276,13 +276,4 @@
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://qwen.ai/blog?id=qwen4-max">qwen.ai</a> | <a href="https://news.ycombinator.com/item?id=50513215">hacker news</a></small></p><hr/><p>This 2.4 trillion parameter Mixture-of-Experts (MoE) model features a 1 million token context window. Alibaba claims the model outperforms Qwen3.8-Max while using approximately 50% fewer tokens.</p><p>Currently available in preview via Alibaba's Token Plan, the model is intended for complex coding and professional knowledge work. It supports an output of up to 393,216 tokens.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.marktechpost.com%2Fwp-content%2Fuploads%2F2024%2F03%2FScreenshot-2024-03-29-at-12.50.57-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 13:47 UTC | #27585</small>]]></content>
   </entry>
-  <entry>
-    <title>GGML-Org Releases GGML v1.0.0</title>
-    <link href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" rel="alternate" />
-    <id>https://github.com/ggml-org/ggml/releases/tag/v1.0.0::v240</id>
-    <published>2026-11-14T07:05:00+00:00</published>
-    <updated>2026-11-14T07:05:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fxsxszab.github.io%2Fimages%2Fggml-deep-dive-V%2Fcode6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">github.com</a> | <a href="https://news.ycombinator.com/item?id=50493062">hacker news</a></small></p><hr/><p>GGML-org has released version 1.0.0 of its machine learning tensor library, introducing major API cleanups, FP8 support, and configurable YaRN truncation. The update prunes deprecated public APIs and legacy diagnostic mask operations while bumping the RPC protocol to version 9 to improve endpoint reliability.</p><p>The release delivers broad performance enhancements across numerous hardware backends, including CUDA few-row quantized matrix multiplications and mixture-of-experts fusion, Vulkan FlashAttention paths, a SYCL device-side MoE scheduler, and expanded operator support for OpenCL, WebGPU, and Hexagon architectures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fxsxszab.github.io%2Fimages%2Fggml-deep-dive-V%2Fcode6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 17:20 UTC | #27502</small>]]></content>
-  </entry>
 </feed>
