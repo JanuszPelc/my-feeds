@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Element Releases Matrix Conference 2026 Public Sector Session Recordings</h2>
+<a name="story-28072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Element has published the public sector track recordings from the Matrix Conference 2026, highlighting government deployments, digital sovereignty, and secure communication strategies across European public institutions.</p><p>The sessions feature case studies and technical discussions from organizations including the European Commission, NATO, French public sector tech agency DINUM, Swedish social insurance agency Försäkringskassan, and the German state of Schleswig-Holstein.</p>
+<p>Nov 19 · <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">element.io</a> | <a href="https://news.ycombinator.com/item?id=50558533">hacker news</a></p>
+<br clear="all" />
+
 <h2>Zerodha Introduces Blobasaur Distributed Blob Storage on SQLite</h2>
 <a name="story-28064"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.baeldung-cn.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F03%2Fblob_storage_architecture-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Zerodha has developed Blobasaur, a sharded and distributed blob storage server written in Rust that uses SQLite as its underlying storage engine and speaks the Redis protocol. Built to replace SSDB on its trading platform Kite, Blobasaur manages high-throughput read and write operations for user workspace preferences, layouts, and interface metadata ranging from a few kilobytes to several megabytes.</p><p>The system achieves single-digit millisecond latency and handles thousands of requests per second on commodity hardware by partitioning data across multiple SQLite shards using consistent hashing. It incorporates zstd compression, group commits, and Redis Cluster protocol compatibility, allowing the engineering team to scale horizontally while maintaining operational simplicity.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.lyzr.ai%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-17-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Citibank has updated its online user agreement to state that customers who use third-party artificial intelligence tools to access their accounts will be held fully responsible for any resulting transactions or credential leaks. The bank joins other major financial institutions like JPMorgan Chase, Bank of America, and PNC in shifting liability to consumers who grant automated assistants access to their personal financial portals.</p><p>The policy changes highlight growing friction between traditional banks and the rise of autonomous financial tech tools, which are increasingly marketed to manage spending, investments, and bill payments. While startups and labs race to integrate personal finance features into AI agents, financial institutions are warning customers that security breaches or unauthorized actions caused by these tools are the user's sole responsibility.</p>
 <p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/">techcrunch.com</a> | <a href="https://www.citi.com/tandc">citi.com</a></p>
-<br clear="all" />
-
-<h2>Carleton University Researchers Outline Framework for Assessing Cyberattack Impacts on Critical Infrastructure</h2>
-<a name="story-27915"><img src="https://wsrv.nl/?url=https%3A%2F%2Finnovaromorir.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmarco-evaluar-resiliencia-CPS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Recent cyberattacks targeting internet-connected infrastructure, such as supermarket refrigeration systems across Europe and municipal water facilities, demonstrate the expanding physical risks to essential services. To better understand and mitigate these threats, researchers advocate shifting cybersecurity analysis from purely preventive measures to comprehensive cyberattack impact assessments.</p><p>A newly developed framework identifies seven interconnected impact dimensions—operational, physical, safety, environmental, economic, societal, and reputational—that help decision-makers trace how digital compromises propagate into the physical world. Evaluating these broader consequences enables organizations to build resilience and maintain critical operations even when digital defenses fail.</p>
-<p>Nov 18 · <a href="https://theconversation.com/how-we-can-prepare-for-future-cyberattacks-on-critical-infrastructure-296214">theconversation.com</a></p>
 <br clear="all" />
 
 ---

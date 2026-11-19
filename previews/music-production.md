@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>13x Audio Releases Loft Free Vintage Reverb Plugin</h2>
+<a name="story-28046"><img src="https://wsrv.nl/?url=https%3A%2F%2Funison.audio%2Fwp-content%2Fuploads%2FOril-River-3.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>13x Audio has released Loft, a free vintage reverb plugin available for macOS, Windows, and Linux. The plugin features drawable envelopes for shaping the reverb tail over time, tempo-synced modulation, and integrated resonators tuned to a song's key.</p><p>Loft includes five shape curves, 16-step envelope drawing, shimmer and morph controls, and vintage engine modes inspired by 1980s and 1990s digital rack units. It offers 34 presets, a freeze function for sustained textures, and supports VST3 and AU formats without requiring registration or a license key.</p>
+<p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/">bedroomproducersblog.com</a> | <a href="https://13x.audio/products/loft">13x.audio</a></p>
+<br clear="all" />
+
+<h2>CoordN8 Announces Path MIDI Morphing App for Ableton Live</h2>
+<a name="story-28047"><img src="https://wsrv.nl/?url=https%3A%2F%2Fableton-production.imgix.net%2Flive-manual%2F12%2FMIDINoteEditorLayout.png%3Fauto%3D%26w%3D1280&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>CoordN8 has announced Path, an upcoming macOS application that enables users to morph between two MIDI clips in Ableton Live's Session View and play the variations in real time. Designed as a standalone companion app that connects via a Max for Live device, it allows producers to blend rhythms, pitches, and notes using a mouse, trackpad, or MIDI controller, and capture desired variations as new clips with a single click.</p><p>The app's deterministic engine is based on research into rhythmic expectation rather than randomness or AI, ensuring that identical clips and settings produce reproducible results. Path requires an Apple Silicon Mac running macOS 15.6 or newer, along with Ableton Live 12.2 or later with Max for Live. An invite-only beta is scheduled to begin on December 1, 2026, ahead of a full commercial launch planned for early 2027.</p>
+<p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/coordn8-path/">bedroomproducersblog.com</a> | <a href="https://coordn8.io/">coordn8.io</a></p>
+<br clear="all" />
+
 <h2>APU Software Releases Loudness Series 6.1</h2>
 <a name="story-28070"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdemo-sync-720p.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>APU Software has released version 6.1 of its Loudness Series plugins, introducing ARA 2 format support for the Loudness Leveler and Dynamics Optimizer plug-ins. The update also brings a new quiet reference mode to Loudness Sync and upgrades the underlying JUCE framework to version 9.0.5.</p><p>Additional fixes address low-latency timing modes, LRA scaling tolerance, histogram view band orientation, and an issue where input and output gains would reset to 0 dB when reopening projects on Apple Silicon Macs. The update spans the entire suite, including tools for metering, spectrum analysis, contouring, compression, and limiting.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27908"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcollaya-v1-mainui-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Collaya Listener is a free audio analysis plugin for Apple Silicon Macs that identifies keys, notes, and chords while providing real-time mix metering. Running locally without cloud audio uploads, the plugin includes a Composition view for harmonic tracking and a Mix view displaying LUFS, true peak, RMS, stereo width, and an eight-band spectrum.</p><p>The plugin functions as a companion to Collaya's main AI co-producer software, supporting features like audio-to-MIDI transcription and cross-track analysis. While the Listener plugin is free to use indefinitely, Collaya is offering an introductory Black Friday discount on its Pro annual plan, reducing the price from $79 to $49 through December 14, 2026.</p>
 <p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/collaya-listener/">bedroomproducersblog.com</a> | <a href="https://collaya.com/download">collaya.com</a></p>
-<br clear="all" />
-
-<h2>HoRNet Releases RhyGenerator MK2 Euclidean MIDI Sequencer Plugin</h2>
-<a name="story-27904"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frhygenerator-mk2-dark-screenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>HoRNet Plugins has released RhyGenerator MK2, a MIDI-only Euclidean sequencer available in AU, VST3, and AAX formats for macOS and Windows. The plugin features 16 independent lanes, allowing producers to construct rhythms, basslines, and arpeggios with distinct cycle lengths directly within their host digital audio workstation.</p><p>Each lane supports Euclidean and custom step modes, per-lane LFO modulation for velocity or CC values, and MIDI Learn functionality. The software requires a host capable of routing MIDI output to external instruments and is priced at €16.99, with discounted upgrade paths available for previous owners.</p>
-<p>Nov 18 · <a href="https://www.kvraudio.com/news/hornet-releases-rhygenerator-mk2---16-lane-euclidean-midi-sequencer-aax-au-and-vst3-69930?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69930">kvraudio.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-rhygenerator-mk2/">hornetplugins.com</a></p>
-<br clear="all" />
-
-<h2>DAWJunkie Releases Super Duper Basses Free Retro Bass Instrument</h2>
-<a name="story-27909"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQtpNDBpWk2g%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>DAWJunkie has released Super Duper Basses Free, a complimentary virtual instrument for macOS and Windows inspired by 1990s hardware synthesizers. The plugin functions as a streamlined, smaller edition of the developer's paid Super Duper Basses instrument, featuring presets created by Steve Cherubino alongside a compact single-panel interface for tone shaping.</p><p>The user interface provides a preset selector, style control, a standard four-stage ADSR envelope, and dedicated knobs for chorus, phaser, delay, compression, and a crunch section for added grit. Compatible with AU, VST3, and AAX formats across supported operating systems, the instrument requires approximately 50 MB of storage space and is available via email registration on the developer's download page.</p>
-<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/dawjunkie-super-duper-basses-free/">bedroomproducersblog.com</a> | <a href="https://dawjunkie.com/op/super-duper-basses-free/">dawjunkie.com</a></p>
 <br clear="all" />
 
 ---

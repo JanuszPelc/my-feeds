@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-19T16:15:00+00:00</updated>
+  <updated>2026-11-19T16:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Dean Ball Publishes Essay Challenging Tech's Silent Consensus on Human Primacy</title>
+    <link href="https://openai.com/index/the-silent-consensus" rel="alternate" />
+    <id>https://openai.com/index/the-silent-consensus::v240</id>
+    <published>2026-11-19T16:22:00+00:00</published>
+    <updated>2026-11-19T16:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Foutlookbusiness%2F2026-06-19%2Fs2jylrqd%2Fimago832615045.jpg%3Fw%3D1200%26ar%3D40%3A21%26auto%3Dformat%2Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dfalse%26overlay_position%3Dbottom%26overlay_width%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://openai.com/index/the-silent-consensus">openai.com</a></small></p><hr/><p>OpenAI executive Dean Ball has published an essay challenging what he describes as the tech industry's "silent consensus," a prevailing belief that rapid artificial intelligence advancements necessarily require the forfeiture of human primacy. In the piece, Ball argues against the inevitability of human displacement and calls for the establishment of robust legal and technical frameworks to maintain human control.</p><p>To safeguard human agency, Ball proposes specific accountability measures, including comprehensive audit trails and strict operational permissions for AI agents. His remarks also reference recent large-scale cybersecurity challenges, emphasizing the urgent need for structured oversight as autonomous systems become increasingly integrated into society's core institutions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Foutlookbusiness%2F2026-06-19%2Fs2jylrqd%2Fimago832615045.jpg%3Fw%3D1200%26ar%3D40%3A21%26auto%3Dformat%2Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dfalse%26overlay_position%3Dbottom%26overlay_width%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:37 UTC | #28011</small>]]></content>
+  </entry>
   <entry>
     <title>James A. R. Marshall on the Impact of AI-Enabled Scientific Research</title>
     <link href="https://theconversation.com/why-ai-enabled-scientific-research-is-a-double-edged-sword-295916" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T13:45:00+00:00</updated>
+  <updated>2026-11-19T16:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Element Releases Matrix Conference 2026 Public Sector Session Recordings</title>
+    <link href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/" rel="alternate" />
+    <id>https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/::v240</id>
+    <published>2026-11-19T16:23:00+00:00</published>
+    <updated>2026-11-19T16:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">element.io</a> | <a href="https://news.ycombinator.com/item?id=50558533">hacker news</a></small></p><hr/><p>Element has published the public sector track recordings from the Matrix Conference 2026, highlighting government deployments, digital sovereignty, and secure communication strategies across European public institutions.</p><p>The sessions feature case studies and technical discussions from organizations including the European Commission, NATO, French public sector tech agency DINUM, Swedish social insurance agency Försäkringskassan, and the German state of Schleswig-Holstein.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:38 UTC | #28072</small>]]></content>
+  </entry>
   <entry>
     <title>Zerodha Introduces Blobasaur Distributed Blob Storage on SQLite</title>
     <link href="https://zerodha.tech/blog/high-performance-distributed-blob-storage/" rel="alternate" />
