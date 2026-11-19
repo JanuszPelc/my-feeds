@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-19T15:29:00+00:00</updated>
+  <updated>2026-11-19T16:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>APU Software Releases Loudness Series 6.1</title>
+    <link href="https://www.kvraudio.com/news/apu-software-releases-loudness-series-6-1-with-ara-2-support-for-leveler-and-optimizer-69971?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69971" rel="alternate" />
+    <id>https://www.kvraudio.com/news/apu-software-releases-loudness-series-6-1-with-ara-2-support-for-leveler-and-optimizer-69971?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69971::v240</id>
+    <published>2026-11-19T16:08:00+00:00</published>
+    <updated>2026-11-19T16:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdemo-sync-720p.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/apu-software-releases-loudness-series-6-1-with-ara-2-support-for-leveler-and-optimizer-69971?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69971">kvraudio.com</a> | <a href="https://apu.software/release-notes/">apu.software</a></small></p><hr/><p>APU Software has released version 6.1 of its Loudness Series plugins, introducing ARA 2 format support for the Loudness Leveler and Dynamics Optimizer plug-ins. The update also brings a new quiet reference mode to Loudness Sync and upgrades the underlying JUCE framework to version 9.0.5.</p><p>Additional fixes address low-latency timing modes, LRA scaling tolerance, histogram view band orientation, and an issue where input and output gains would reset to 0 dB when reopening projects on Apple Silicon Macs. The update spans the entire suite, including tools for metering, spectrum analysis, contouring, compression, and limiting.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdemo-sync-720p.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:11 UTC | #28070</small>]]></content>
+  </entry>
+  <entry>
+    <title>ILIO Offers Euphoria Patch Library Free With Physical Omnisphere 3 Purchases</title>
+    <link href="https://bedroomproducersblog.com/2026/11/19/get-ilio-euphoria-free/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/19/get-ilio-euphoria-free/::v240</id>
+    <published>2026-11-19T16:04:00+00:00</published>
+    <updated>2026-11-19T16:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcf1.zzounds.com%2Fmedia%2Fproductmedia%2Ffit%2C2018by3200%2Fquality%2C85%2FO3-interface-02_905399-e5985ee1b84d3f2b15346b2f1e4780be.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/19/get-ilio-euphoria-free/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/omnisphere-3">ilio.com</a></small></p><hr/><p>ILIO is giving away its Euphoria patch library for Spectrasonics Omnisphere 3 as part of a Black Friday promotion running from November 16 through December 7, 2026. The offer applies to qualifying physical purchases, specifically the Omnisphere 3 USB Drive Edition and physical upgrades bought directly from ILIO or authorized dealers, while download-only editions are excluded.</p><p>Designed by Michael Babbitt, the $39 expansion features 137 patches geared toward electronic genres like house, techno, and drum and bass, covering arpeggios, synths, basses, and effects. Buyers purchasing directly through ILIO receive the library automatically in their cart, while customers purchasing through authorized dealers can submit a redemption form with their receipt.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf1.zzounds.com%2Fmedia%2Fproductmedia%2Ffit%2C2018by3200%2Fquality%2C85%2FO3-interface-02_905399-e5985ee1b84d3f2b15346b2f1e4780be.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:11 UTC | #28048</small>]]></content>
+  </entry>
   <entry>
     <title>FabFilter Plugins Discounted in Early Black Friday Sale</title>
     <link href="https://musictech.com/news/gear/fabfilter-black-friday-sale/" rel="alternate" />

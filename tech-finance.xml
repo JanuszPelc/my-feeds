@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-19T11:29:00+00:00</updated>
+  <updated>2026-11-19T15:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Alibaba Reports Q2 Revenue and Net Profit Growth Amid Improving AI Profitability</title>
+    <link href="https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?st=wx49Qv&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?st=wx49Qv&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-19T15:39:00+00:00</published>
+    <updated>2026-11-19T15:39:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwallstaccess.com%2Fwp-content%2Fuploads%2F2026%2F01%2FChatGPT-Image-Jan-22-2026-12_27_37-PM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?st=wx49Qv&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Alibaba Group reported a fiscal second-quarter revenue increase of 10% to approximately $40.7 billion, surpassing analyst expectations, alongside a threefold jump in net profit to roughly $9.68 billion. The financial rebound was driven by improving profitability in both its core e-commerce operations and artificial intelligence segments.</p><p>In addition to the earnings growth, the company is preparing a Hong Kong stock exchange listing for T-Head, its semiconductor and chip-design unit. The move comes as Chinese technology firms increasingly look to spin off specialized divisions to capitalize on domestic demand for advanced hardware and AI infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallstaccess.com%2Fwp-content%2Fuploads%2F2026%2F01%2FChatGPT-Image-Jan-22-2026-12_27_37-PM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:10 UTC | #28006</small>]]></content>
+  </entry>
   <entry>
     <title>Lenovo Reports Q2 Revenue Growth Driven by AI Demand Amid Net Loss</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand" rel="alternate" />
