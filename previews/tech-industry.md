@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Microsoft CEO Satya Nadella Discusses Rationale for Employee Buyouts</h2>
+<a name="story-27955"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2020%2F05%2F14%2Fbusiness%2F14db-newsletter-nadella%2Fmerlin_159231594_d04785d4-5c43-44fe-ad72-2a02beaca02a-videoSixteenByNineJumbo1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft CEO Satya Nadella addressed the company's decision to offer buyouts to approximately 60,000 employees, framing the move as a structural necessity to transition the workforce toward an AI-first operational model. Speaking at the DealBook Summit, Nadella clarified that the buyouts were designed to give employees agency rather than serving as automated job replacements, emphasizing that future roles will center on managing AI agents rather than executing tasks directly.</p><p>Nadella noted that transforming an established company requires time and deliberate workflow changes, pointing to small development teams utilizing AI factories as a blueprint for future productivity. He acknowledged that the rapid pace of AI advancement has generated workforce anxiety, making voluntary exit options essential for employees who choose not to participate in the company's operational shift.</p>
+<p>Nov 19 · <a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Interim CEO Colette Kress Announces Early Pay Raises and Equity at First All-Hands Meeting</h2>
 <a name="story-27929"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F05%2FMPW-2026-Colette-Kress.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>During her first companywide address as interim CEO of Nvidia, Colette Kress announced that employees would receive pay raises and additional equity in December, months ahead of schedule. The meeting followed the abrupt resignation of longtime CEO Jensen Huang amid personal conduct allegations, a leadership crisis that has rattled investors and prompted concerns over talent retention.</p><p>Board chair Harvey Jones reiterated during the all-hands meeting that the board accepted Huang's resignation due to a lack of candor regarding his personal behavior, adding that the search for a permanent successor is underway. Despite the executive shake-up and ongoing government investigations, Nvidia recently reported stronger-than-expected financial results and projected continued growth in the AI chip market.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27890"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.chinadailyhk.com%2Fupload%2Fmain%2Fimage%2F2025%2F06%2F27%2F2c406638c5dc59c1b6ec2e3b8722c502.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SoftBank Group founder and CEO Masayoshi Son stated that passing on a 2023 opportunity to invest in AI startup Anthropic was a mistake. He explained that the Japanese technology conglomerate had already committed to backing rival artificial intelligence firm OpenAI at that time.</p><p>The remarks highlight SoftBank's strategic positioning within the generative AI sector following major financial commitments. SoftBank has poured substantial capital into OpenAI while navigating investment decisions across the rapidly evolving artificial intelligence landscape.</p>
 <p>Nov 18 · <a href="https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0">ft.com</a></p>
-<br clear="all" />
-
-<h2>Humyn Labs Raises $47M to Supply Training Data for Robotics AI</h2>
-<a name="story-27869"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhumynlabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fprod-image-bucket.indi.gg%2Fhumyn-labs%2Fblogs%2F1778074135952_cropped_image_banner.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Humyn Labs has raised $47 million in Series A and venture debt to provide multimodal training data for U.S.-based robotics and AI developers. The $26 million equity round was led by Accel and Cactus Partners, while $21 million in venture debt was led by Lighthouse Canton Growth Debt Fund II.</p><p>The Bengaluru-based startup uses specialized hardware and software to record and label human activities across more than 20 countries to help robots learn to operate in physical environments. The company currently serves 12 customers, primarily in the United States, and reported $10 million in revenue between April and October.</p>
-<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

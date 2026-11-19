@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T23:49:00+00:00</updated>
+  <updated>2026-11-19T00:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Microsoft CEO Satya Nadella Discusses Rationale for Employee Buyouts</title>
+    <link href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/::v240</id>
+    <published>2026-11-19T00:43:00+00:00</published>
+    <updated>2026-11-19T00:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2020%2F05%2F14%2Fbusiness%2F14db-newsletter-nadella%2Fmerlin_159231594_d04785d4-5c43-44fe-ad72-2a02beaca02a-videoSixteenByNineJumbo1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/">techcrunch.com</a></small></p><hr/><p>Microsoft CEO Satya Nadella addressed the company's decision to offer buyouts to approximately 60,000 employees, framing the move as a structural necessity to transition the workforce toward an AI-first operational model. Speaking at the DealBook Summit, Nadella clarified that the buyouts were designed to give employees agency rather than serving as automated job replacements, emphasizing that future roles will center on managing AI agents rather than executing tasks directly.</p><p>Nadella noted that transforming an established company requires time and deliberate workflow changes, pointing to small development teams utilizing AI factories as a blueprint for future productivity. He acknowledged that the rapid pace of AI advancement has generated workforce anxiety, making voluntary exit options essential for employees who choose not to participate in the company's operational shift.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2020%2F05%2F14%2Fbusiness%2F14db-newsletter-nadella%2Fmerlin_159231594_d04785d4-5c43-44fe-ad72-2a02beaca02a-videoSixteenByNineJumbo1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 05:59 UTC | #27955</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Interim CEO Colette Kress Announces Early Pay Raises and Equity at First All-Hands Meeting</title>
     <link href="https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/" rel="alternate" />
