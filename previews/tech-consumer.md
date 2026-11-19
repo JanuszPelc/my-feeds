@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Miguel Dorta Details Custom Game Engine for Satelital</h2>
+<a name="story-27970"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspectralorbit.com%2Fassets%2Fscreenshots%2Ftrium_2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Solo developer Miguel Dorta details the seven-year development process behind Satelital, a rule-discovery puzzle game for which he built a custom game engine from scratch. Motivated by a desire to understand the technological fundamentals of video games, Dorta designed his own platform layer, renderer, tools, and editors rather than relying on existing commercial solutions.</p><p>Over the course of development, the engine evolved from early iterations using SDL2 and OpenGL to a Vulkan-based backend and a custom base library that replaced parts of the C++ standard library to improve compile times. To achieve a 3D visual style without loading 3D geometry, Dorta utilized orthographic top-down rendering with pre-rendered assets, height maps, and ray-marching shaders for dynamic lighting and shadows.</p>
+<p>Nov 18 · <a href="https://spectralorbit.com/blog/satelital_game_engine">spectralorbit.com</a> | <a href="https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for">lobsters</a></p>
+<br clear="all" />
+
 <h2>Grand Theft Auto VI Receives Record Review Scores on Metacritic and OpenCritic</h2>
 <a name="story-27892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hc4Ge.img%3Fw%3D1200%26h%3D675%26m%3D4%26q%3D93&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rockstar Games' Grand Theft Auto VI has achieved a 99 out of 100 on Metacritic and a 98 out of 100 on OpenCritic, following the publication of early reviews from major outlets including IGN and GameSpot. These figures place the title among the highest-rated video games in history, setting new aggregate benchmarks across major review platforms.</p><p>The critical acclaim prompted a positive market reaction, with parent company Take-Two Interactive Software seeing its stock jump by more than 6% following the score announcements. The game's performance places it alongside historical critical darlings, significantly elevating expectations ahead of its official commercial release.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27757"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltd7a51f4543729098%2F68b9b02ba65a196166536be0%2Fcivilization_vii.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Take-Two Interactive has laid off employees at Firaxis Games, the studio behind the Civilization and XCOM franchises, as part of a restructuring effort. A spokesperson for Take-Two subsidiary 2K confirmed the staff reductions, noting that studio head Heather Hazen is also stepping down.</p><p>The layoffs occur just before the release of Rockstar Games' Grand Theft Auto VI, another Take-Two title. According to the publisher, the downsizing is intended to refocus the studio on core strategy game development for its next operational chapter.</p>
 <p>Nov 17 · <a href="https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch">gamedeveloper.com</a> | <a href="https://www.reddit.com/r/Games/comments/1xyox7a/taketwos_firaxis_maker_of_civilization_cuts_a/">r/Games</a></p>
-<br clear="all" />
-
-<h2>Alex Gibney&#x27;s Musk Documentary Criticized for Use of AI Avatar and Video Game Visuals</h2>
-<a name="story-27736"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FScreenshot-2026-11-12-122710-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alex Gibney's four-hour documentary *Musk* features an AI-generated avatar of Elon Musk and various video game-style visual metaphors to profile the billionaire's life and influence. The filmmaker uses the simulated avatar to provide commentary because Musk declined to participate in traditional interviews.</p><p>The film's use of hyperreal AI visuals and video game sequences—such as Musk destroying government buildings—has been criticized for being distracting and less informative than the original interview footage. While the creative choices are intended to reflect Musk's own belief in simulation theory, the execution is described as undermining the documentary's exploration of Musk's impact.</p>
-<p>Nov 17 · <a href="https://www.404media.co/the-ai-in-musk-is-cringe/">404media.co</a> | <a href="https://en.wikipedia.org/wiki/Musk_(film)">en.wikipedia.org</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Inside Deutsche Bank Investigation Exposes Leaked Financial Records</h2>
+<a name="story-27969"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.inside-db.com%2Fcontent%2Fimages%2F2026%2F11%2FBAD-BANK-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A global investigative project titled Inside Deutsche Bank has released findings from a leak of over 15 million files detailing the inner workings, compliance failures, and controversial practices of the financial institution. Developed in partnership with international media organizations, the investigation highlights systemic blind spots within the bank's anti-financial crime, sanctions monitoring, and internal audit departments.</p><p>The leaked documents uncover numerous high-profile cases, including transactions linked to kleptocracy, the handling of Russian oligarch accounts amid tightening sanctions, and financing operations tied to high-risk entities. The reports provide an extensive look at how the bank repeatedly prioritized commercial gains over stringent regulatory compliance across global markets.</p>
+<p>Nov 18 · <a href="https://www.inside-db.com/">inside-db.com</a> | <a href="https://news.ycombinator.com/item?id=50547620">hacker news</a></p>
+<br clear="all" />
+
 <h2>Wiz Research Discovers Critical Remote Code Execution Vulnerabilities in NGINX</h2>
 <a name="story-27967"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcybersecurefox.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fd29dfbea-58ef-4400-804a-cb098381a45c-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Wiz Research and several independent security groups have uncovered two critical remote code execution vulnerabilities, tracked as CVE-2026-123633 and CVE-2026-123007, affecting NGINX web servers with HTTP/2 enabled. The flaws involve memory-safety issues—a connection use-after-free and a send_window integer underflow—that allow unauthenticated attackers to execute arbitrary code, steal sensitive data, or disrupt services regardless of whether underlying application code is secure.</p><p>F5 released security updates addressing these vulnerabilities in its November 2026 advisory, providing patches for both NGINX OSS and NGINX Plus. The researchers noted that the discovery process utilized advanced AI models to trace complex memory interactions, highlighting how automation is accelerating the identification of long-standing foundational bugs. Organizations running affected versions are advised to apply the security patches immediately or temporarily disable HTTP/2 as an interim mitigation.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27751"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-2-1.png%3Fresize%3D150&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Michael Bacarella describes co-writing a BIND vulnerability exploit with Dennis "Coolio" Moran used to launch the February 2000 DDoS attacks on Yahoo!, eBay, and buy.com. The attacks targeted major dot-com infrastructure via a botnet built from vulnerable DNS servers.</p><p>The account details the EFNet #goonies IRC community and the legal fallout, noting that Moran served nine months in jail despite Mafiaboy receiving significant public notoriety. Moran's subsequent struggle with addiction and his 2013 death from a heroin overdose are also detailed.</p>
 <p>Nov 17 · <a href="https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend">lobsters</a></p>
-<br clear="all" />
-
-<h2>w2rt6byl5nf1opmc-a.com Ranks Eighth in Majestic Million Despite Failing to Resolve</h2>
-<p>The domain w2rt6byl5nf1opmc-a.com has appeared as the eighth most popular .com domain in the Majestic Million backlink index. Despite this high ranking, the domain does not resolve via DNS, and there is a significant discrepancy between the hundreds of millions of nofollow backlinks reported by Majestic and the minimal number of backlinks detected by other SEO tools.</p><p>The backlinks recorded by Majestic appear to have been generated before the domain was officially registered according to Certificate Transparency logs. This anomaly highlights potential inaccuracies in backlink metric aggregation or the existence of sophisticated link spam designed to manipulate SEO indices.</p>
-<p>Nov 17 · <a href="https://jack.cab/blog/siterate">jack.cab</a> | <a href="https://news.ycombinator.com/item?id=50517602">hacker news</a></p>
 <br clear="all" />
 
 ---
