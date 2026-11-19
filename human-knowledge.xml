@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-19T16:22:00+00:00</updated>
+  <updated>2026-11-19T17:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Study Shows Aging Brains Adapt to Sleep Loss to Preserve Function</title>
+    <link href="https://theconversation.com/aging-brains-are-more-resilient-to-sleepless-nights-new-research-296216" rel="alternate" />
+    <id>https://theconversation.com/aging-brains-are-more-resilient-to-sleepless-nights-new-research-296216::v240</id>
+    <published>2026-11-19T17:16:00+00:00</published>
+    <updated>2026-11-19T17:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772332%2Foriginal%2Ffile-20261117-64-wancvy.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/aging-brains-are-more-resilient-to-sleepless-nights-new-research-296216">theconversation.com</a></small></p><hr/><p>New research examining neuroplasticity across the lifespan reveals that healthy older adults respond to acute sleep deprivation differently than younger adults. While young adult brains show decreased network modularity following a night of limited sleep, older adult brains increase local network connectivity, which helps preserve efficient brain function.</p><p>The findings challenge the assumption that brain aging is uniformly detrimental, highlighting how structural changes prompt adaptive reorganizations that bolster resilience against cognitive challenges. Investigators note that maintaining healthy sleep habits throughout life remains crucial, as disrupted sleep accelerates the accumulation of proteins linked to Alzheimer's disease.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772332%2Foriginal%2Ffile-20261117-64-wancvy.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 22:18 UTC | #28055</small>]]></content>
+  </entry>
   <entry>
     <title>Dean Ball Publishes Essay Challenging Tech's Silent Consensus on Human Primacy</title>
     <link href="https://openai.com/index/the-silent-consensus" rel="alternate" />
