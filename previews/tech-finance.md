@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>MegaRobo Technologies Raises Nearly $200 Million in Oman-Backed Funding</h2>
+<a name="story-27979"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F19%2Fsmall%2F4312064_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Beijing-based MegaRobo Technologies, a company specializing in robotics and AI to automate laboratory work for biotech research, has raised nearly $200 million in a new funding round. The investment includes participation from the Oman Investment Authority, the nation's sovereign wealth fund, as well as CMB International, Asia Investment Capital, Granite Asia, and Sinovation Ventures.</p><p>The company plans to use the capital to develop its core technology and AI infrastructure for complex environments, while expanding its presence in Europe, North America, the Middle East, and Asia. MegaRobo reached unicorn status in 2022 after securing a $300 million Series C round.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round">bloomberg.com</a> | <a href="https://corrierepistoiese.it/italia-mondo/immediapress/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world/">corrierepistoiese.it</a></p>
+<br clear="all" />
+
 <h2>Payward Agrees to Acquire Tribe Capital</h2>
 <a name="story-27976"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftribeimpactcapital.com%2Fwp-content%2Fuploads%2F2026%2F01%2FEUAwards2022WinnerLIBanners3-Tribe-600x450-1-600x427.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Payward, the parent company of the cryptocurrency exchange Kraken, has agreed to acquire Tribe Capital Management, a venture capital firm with $2.7 billion in assets under management. The firm was formerly led by Arjun Sethi, who also serves as a co-CEO of Kraken.</p><p>The acquisition is intended to expand Kraken’s private-market investment offerings. While the purchase price was not disclosed, the transaction is expected to close in the first quarter of 2027.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20251114%2Fjdq3-1-18f977ed6bb4446ab97038a29ce8a1d5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>JD.com reported third-quarter revenue of approximately $46.4 billion, marking a 3.5% increase year-over-year that met analyst expectations. Net income for the quarter rose 22% to approximately $975 million, reflecting resilient performance despite an intensely competitive retail market and a sluggish domestic economy.</p><p>The financial results highlight the company's ability to maintain stable growth amid broader macroeconomic headwinds in China. The company's primary retail segment contributed steady operating income as management navigated shifting consumer spending patterns and aggressive pricing pressures.</p>
 <p>Nov 17 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/jd-com-sales-rise-in-face-of-sluggish-china-economy-competition">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/17/3404344/0/en/jd-com-announces-third-quarter-2026-results.html">globenewswire.com</a></p>
-<br clear="all" />
-
-<h2>Voyage Labs Raises $12 Million in Seed Funding for Atlas AI Travel Assistant</h2>
-<a name="story-27752"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffreemiumai.net%2Fwp-content%2Fuploads%2F2025%2F01%2FAtlas_-_Your_AI_travel_assistant_-_2025-01-27_20.53.13-600x540.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Startup Voyage Labs has secured $12 million in seed funding led by Kleiner Perkins, with participation from SignalFire and SV Angel. The company is developing Atlas, a specialized AI-powered travel assistant designed to manage entire trip-planning lifecycles, from initial inspiration and long-term research to real-time price tracking and booking.</p><p>Co-founded by former Google Maps product management director Manik Gupta and CTO Yogesh Jain, Atlas aims to differentiate itself from general-purpose AI assistants by focusing specifically on travel and outdoor activities. The newly acquired capital will be used to expand the engineering team and build out supplier partnerships as the product enters private beta.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/">techcrunch.com</a> | <a href="https://atlas.voyagelabs.ai/">atlas.voyagelabs.ai</a></p>
 <br clear="all" />
 
 ---

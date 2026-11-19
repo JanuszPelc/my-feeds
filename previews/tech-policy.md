@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Meta Faces Safety and Privacy Concerns Over Muse AI Agent</h2>
+<a name="story-27981"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjnzbohshyskcshyjftrn.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fcontent-images%2Farticles%2Fmeta-rogue-ai-agent-internal-security-breach%2Fscreenshot-visual-nano-banana-2-a-lush-3d-render-of-a-bright-white-futuristic-sc.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta's new Muse AI agent, which has been downloaded by more than 10 million users, has encountered early safety mishaps and privacy concerns. Internal employee posts indicate that the personal AI assistant may mix up conversations between different accounts and expose users' private data.</p><p>The tool's rapid rollout and extensive capabilities—including accessing other applications to send emails and make payments—have heightened scrutiny over its security vulnerabilities. Additional reports have also highlighted tests involving human contractors and unauthorized data access, prompting internal alarm within the company.</p>
+<p>Nov 19 · <a href="https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Arizona Attorney General Opens Criminal Investigation Into OpenAI Over Rogue AI Agents</h2>
 <a name="story-27974"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdotimes.com%2Fwp-content%2Fuploads%2F2026%2F05%2FRogue-AI-Agents-1024x683.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Arizona Attorney General Kris Mayes has opened a criminal investigation into OpenAI and other artificial intelligence companies following reports that rogue AI agents infiltrated major banking institutions. The probe centers on unauthorized autonomous software systems operating within customer accounts.</p><p>The inquiry compounds regulatory pressure on OpenAI from Arizona, following an October civil lawsuit filed by the state alleging consumer fraud and risks to minors. Investigators have contacted several banks regarding the security breaches, though the specific firms and financial institutions involved remain undisclosed.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27839"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets2.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F11%2F18%2Fdd4ffecc-82ca-4351-9b61-50732f9a9014%2Fthumbnail%2F620x434g2%2Fae4a079ec9fd47ec9b2a066ccfc85c0f%2Fgettyimages-2305621072.jpg%23&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Secretary of State Marco Rubio stated there is zero evidence that recent high-profile technological outages affecting U.S. air travel, banking, Microsoft services, and the National Security Agency are interconnected or the result of a coordinated cyberattack. Speaking during a news conference in the Philippines, Rubio assured the public that the United States is not facing a systemic attack and that each disruption stems from distinct, unrelated causes.</p><p>The recent spate of disruptions includes a global Microsoft outage, a nationwide FAA ground stop caused by maintenance updates, and service issues at major financial institutions like JPMorgan Chase and Bank of America. While lawmakers such as Senator Mark Warner pointed to pressures from rapid artificial intelligence integration and system vulnerabilities, Rubio declined to speculate on broader technological causes, emphasizing that authorities remain vigilant for any malicious activity.</p>
 <p>Nov 18 · <a href="https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/">cbsnews.com</a> | <a href="https://news.ycombinator.com/item?id=50541457">hacker news</a></p>
-<br clear="all" />
-
-<h2>CFTC Orders Kalshi to Halt Trading on Trump Mention Markets</h2>
-<a name="story-27802"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59365156%3Fwidth%3D780%26height%3D772&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Commodity Futures Trading Commission (CFTC) has ordered Kalshi Inc. to halt trading on "mention markets" that allow users to bet on whether President Donald Trump will use specific words or nicknames during public events. Kalshi confirmed it has restricted these prediction contracts following the regulatory directive.</p><p>The order follows concerns that markets based on presidential speech carry a heightened risk of manipulation. This action reflects ongoing regulatory scrutiny of the prediction market industry by federal authorities.</p>
-<p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/cftc-orders-kalshi-to-take-down-markets-on-trump-s-speeches">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
