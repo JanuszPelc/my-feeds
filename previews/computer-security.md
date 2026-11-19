@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Homeland Security Task Force Launches Threat Disruption Center</h2>
+<a name="story-27952"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.makes.news%2Fp%2F69fc8cbeff11fec4bae1dbc2%2Ftech-intelligence%2F2026%2F06%2F10%2Fus-ice-to-award-50m-100m-sole-source-contract-for-cybercrime-analytics-support%2Fimage_2887918.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Trump administration has launched the Threat Disruption Center under the Homeland Security Task Force to target foreign criminal networks behind cybercrimes, scams, and crypto fraud against Americans. The center operates out of the task force's National Coordination Center using an AI-enabled intelligence platform from TRM Labs.</p><p>The initiative is backed by a sole-source contract awarded to TRM Labs valued at approximately $95 million. The project aims to enhance federal capabilities in tracking blockchain transactions, mapping illicit financial flows, and recovering assets tied to international criminal operations.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/trump-administration-unveils-project-to-combat-cybercrime">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/18/3406174/0/en/trm-labs-selected-to-support-new-federal-threat-disruption-center-targeting-scams-cybercrime-and-sextortion-schemes.html">globenewswire.com</a></p>
+<br clear="all" />
+
 <h2>ClickFix Fake CAPTCHA Scams Trick Users Into Installing Malware</h2>
 <a name="story-27971"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cynet.com%2Fwp-content%2Fuploads%2F2025%2F03%2Fimage-3-1536x1029.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cybercriminals are utilizing fake CAPTCHA verification prompts, known as the ClickFix technique, to trick users into executing malicious computer commands. Instead of verifying humanity, compromised websites copy harmful scripts to the clipboard and prompt users to paste and run them via system tools like Windows Run or Apple Terminal.</p><p>These global campaigns have been linked to infostealer malware such as Vidar Stealer, which targets sensitive data including passwords and browsing information. Security agencies advise that legitimate CAPTCHAs never require users to copy text or execute terminal commands, and recommend disconnecting infected devices from the internet immediately.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27854"><img src="https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9d%2FP72-cover-defcon.jpg%2F500px-P72-cover-defcon.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phrack Magazine's issue 73, the third publication released by the current staff following the project's 40th-anniversary relaunch, contains 23 primary research papers and eight "Line Noise" articles.</p><p>Technical topics covered include container escapes via vDSO, use-after-free exploitation, Chromium sandbox escapes through Skia, and vulnerabilities in machine learning systems. The issue also features "Phrack World History" articles and a professional profile of security researcher Halvar Flake.</p>
 <p>Nov 18 · <a href="https://phrack.org/issues/73/introduction_md.html">phrack.org</a> | <a href="https://lobste.rs/s/xu4ajj/phrack_73">lobsters</a></p>
-<br clear="all" />
-
-<h2>Calif Discovers Java4Shell RCE Flaw via GPT-6 Cyber</h2>
-<a name="story-27807"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEgctgFzj3XT0K6_0oO90ta6GIVq3WtYkZDVJwlGU25pygpsfPpk0Q0oioW4oIlsaF3Sinuiv-calUddih8Fd0HmHlg1b-neN1Cqy4_GWGv8fmDnSC5vT6p_kNQn6hoF6VqLm2QwhabWTzjoH2U_sj0O8XbgSK3hBp2ZZlTTT4lwq7ceaSq0dHS6cWagaw%3Ds16000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A remote code execution (RCE) vulnerability in Java, dubbed "Java4Shell" (CVE-2026-114938), has been identified by cybersecurity startup Calif using OpenAI's GPT-6 Cyber model. Oracle has released a patch to address the flaw, which affects Oracle Java SE and OpenJDK 17.</p><p>The unauthenticated RCE could impact systems used by nearly all Fortune 500 companies. This discovery demonstrates the capacity of advanced AI models to identify critical security holes in widely used software.</p>
-<p>Nov 18 · <a href="https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN">nytimes.com</a> | <a href="https://x.com/calif_io/status/2122724367654334810">x.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xz8w9r/critical_flaw_found_in_vital_internet_platform/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50538240">hacker news</a></p>
 <br clear="all" />
 
 ---
