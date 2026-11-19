@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-19T03:59:00+00:00</updated>
+  <updated>2026-11-19T11:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Netflix Appoints Peter Rice as Head of Content</title>
+    <link href="https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024/" rel="alternate" />
+    <id>https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024/::v240</id>
+    <published>2026-11-19T11:36:00+00:00</published>
+    <updated>2026-11-19T11:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2022%2F06%2Fdisney-13.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024/">hollywoodreporter.com</a> | <a href="https://about.netflix.com/en/news/peter-rice-named-netflix-chief-content-officer">about.netflix.com</a></small></p><hr/><p>Netflix has appointed Peter Rice as its new head of content, succeeding Bela Bajaria following a period of organizational restructuring and mass layoffs. Rice will lead the global content organization with a mandate to improve creative hit rates and deliver "thrilling" content to address stagnant engagement metrics in the U.S. market.</p><p>A veteran of Fox and Disney, Rice is recognized for balancing commercial success with high-end creative projects, including a recent partnership with A24. He faces the challenge of building robust, long-lasting franchises in the absence of major acquisitions while navigating a potential shift toward theatrical releases for Netflix's film slate and a more aggressive marketing strategy.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2022%2F06%2Fdisney-13.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 18:05 UTC | #27992</small>]]></content>
+  </entry>
   <entry>
     <title>MoviePass Explores Sale and Pitches Streaming Companies on Theatrical Bundle</title>
     <link href="https://www.adweek.com/convergent-tv/moviepass-explores-sale-pitching-streamers-theatrical-bundle/" rel="alternate" />

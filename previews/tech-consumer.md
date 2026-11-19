@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Netflix Appoints Peter Rice as Head of Content</h2>
+<a name="story-27992"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2022%2F06%2Fdisney-13.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Netflix has appointed Peter Rice as its new head of content, succeeding Bela Bajaria following a period of organizational restructuring and mass layoffs. Rice will lead the global content organization with a mandate to improve creative hit rates and deliver "thrilling" content to address stagnant engagement metrics in the U.S. market.</p><p>A veteran of Fox and Disney, Rice is recognized for balancing commercial success with high-end creative projects, including a recent partnership with A24. He faces the challenge of building robust, long-lasting franchises in the absence of major acquisitions while navigating a potential shift toward theatrical releases for Netflix's film slate and a more aggressive marketing strategy.</p>
+<p>Nov 19 · <a href="https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024/">hollywoodreporter.com</a> | <a href="https://about.netflix.com/en/news/peter-rice-named-netflix-chief-content-officer">about.netflix.com</a></p>
+<br clear="all" />
+
 <h2>MoviePass Explores Sale and Pitches Streaming Companies on Theatrical Bundle</h2>
 <a name="story-27959"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F04%2Fmoviepass-hero.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1546&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MoviePass is exploring a company sale and has spent roughly six weeks holding executive-level discussions with major streaming companies and other potential buyers. Central to the sales pitch is a proposed theatrical bundle where streaming subscribers pay a monthly add-on fee for movie tickets directed toward the streamer's theatrical releases.</p><p>The company currently reports roughly 50,000 paying subscribers, $10 million in annual recurring revenue, and profitability following its 2022 relaunch under co-founder Stacy Spikes. While the proposed subscription model aims to capitalize on recovering theater attendance and studio direct-to-consumer strategies, any transaction remains uncertain as formal bids have not yet been submitted.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27790"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt859507d51581f713%2F6ae0fbc4f6e3e04aa497e290%2Fgtaviluciaweightsfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Game Awards has announced its 2026 nominations, with Grand Theft Auto VI and The Legend of Zelda: Ocarina of Time among the primary contenders. The Game of the Year category features 007 First Light, Control Resonant, Grand Theft Auto VI, Phantom Blade Zero, Resident Evil Requiem, and the Ocarina of Time remake.</p><p>Grand Theft Auto VI has received seven nominations, including Best Game Direction, Best Narrative, and Best Score and Music. The Ocarina of Time remake has secured four nominations. The awards ceremony is scheduled to air on December 10.</p>
 <p>Nov 17 · <a href="https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards">gamedeveloper.com</a> | <a href="https://thegameawards.com/categories">thegameawards.com</a></p>
-<br clear="all" />
-
-<h2>Grammy Video Game Soundtrack Nominations Reflect Preference for Instrumental Music Over Vocal Songs</h2>
-<a name="story-27779"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi8.amplience.net%2Fi%2Fnaras%2FYour-vote-your-voice-first-round-voting.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The 2026 shortlist for Best Score Soundtrack for Video Games and Other Interactive Media includes *Avatar: Frontiers of Pandora – From the Ashes*, *007: First Light*, *Ghost of Yōtei*, *Marvel’s Wolverine*, and *Star Wars: Zero Company*. These entries are exclusively instrumental, as no soundtracks with prominent vocal songs were nominated.</p>
-<p>Nov 17 · <a href="https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs">gamedeveloper.com</a> | <a href="https://www.grammy.com/awards/categories/best-score-soundtrack-for-video-games-and-other-interactive-media/">grammy.com</a></p>
 <br clear="all" />
 
 ---
