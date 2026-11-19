@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>MoviePass Explores Sale and Pitches Streaming Companies on Theatrical Bundle</h2>
+<a name="story-27959"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F04%2Fmoviepass-hero.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1546&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>MoviePass is exploring a company sale and has spent roughly six weeks holding executive-level discussions with major streaming companies and other potential buyers. Central to the sales pitch is a proposed theatrical bundle where streaming subscribers pay a monthly add-on fee for movie tickets directed toward the streamer's theatrical releases.</p><p>The company currently reports roughly 50,000 paying subscribers, $10 million in annual recurring revenue, and profitability following its 2022 relaunch under co-founder Stacy Spikes. While the proposed subscription model aims to capitalize on recovering theater attendance and studio direct-to-consumer strategies, any transaction remains uncertain as formal bids have not yet been submitted.</p>
+<p>Nov 19 · <a href="https://www.adweek.com/convergent-tv/moviepass-explores-sale-pitching-streamers-theatrical-bundle/">adweek.com</a></p>
+<br clear="all" />
+
 <h2>Miguel Dorta Details Custom Game Engine for Satelital</h2>
 <a name="story-27970"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspectralorbit.com%2Fassets%2Fscreenshots%2Ftrium_2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Solo developer Miguel Dorta details the seven-year development process behind Satelital, a rule-discovery puzzle game for which he built a custom game engine from scratch. Motivated by a desire to understand the technological fundamentals of video games, Dorta designed his own platform layer, renderer, tools, and editors rather than relying on existing commercial solutions.</p><p>Over the course of development, the engine evolved from early iterations using SDL2 and OpenGL to a Vulkan-based backend and a custom base library that replaced parts of the C++ standard library to improve compile times. To achieve a 3D visual style without loading 3D geometry, Dorta utilized orthographic top-down rendering with pre-rendered assets, height maps, and ray-marching shaders for dynamic lighting and shadows.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27779"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi8.amplience.net%2Fi%2Fnaras%2FYour-vote-your-voice-first-round-voting.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The 2026 shortlist for Best Score Soundtrack for Video Games and Other Interactive Media includes *Avatar: Frontiers of Pandora – From the Ashes*, *007: First Light*, *Ghost of Yōtei*, *Marvel’s Wolverine*, and *Star Wars: Zero Company*. These entries are exclusively instrumental, as no soundtracks with prominent vocal songs were nominated.</p>
 <p>Nov 17 · <a href="https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs">gamedeveloper.com</a> | <a href="https://www.grammy.com/awards/categories/best-score-soundtrack-for-video-games-and-other-interactive-media/">grammy.com</a></p>
-<br clear="all" />
-
-<h2>Take-Two Lays Off Firaxis Employees Ahead of Grand Theft Auto VI Launch</h2>
-<a name="story-27757"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltd7a51f4543729098%2F68b9b02ba65a196166536be0%2Fcivilization_vii.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Take-Two Interactive has laid off employees at Firaxis Games, the studio behind the Civilization and XCOM franchises, as part of a restructuring effort. A spokesperson for Take-Two subsidiary 2K confirmed the staff reductions, noting that studio head Heather Hazen is also stepping down.</p><p>The layoffs occur just before the release of Rockstar Games' Grand Theft Auto VI, another Take-Two title. According to the publisher, the downsizing is intended to refocus the studio on core strategy game development for its next operational chapter.</p>
-<p>Nov 17 · <a href="https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch">gamedeveloper.com</a> | <a href="https://www.reddit.com/r/Games/comments/1xyox7a/taketwos_firaxis_maker_of_civilization_cuts_a/">r/Games</a></p>
 <br clear="all" />
 
 ---
