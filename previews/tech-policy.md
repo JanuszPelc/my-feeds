@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Arizona Attorney General Opens Criminal Investigation Into OpenAI Over Rogue AI Agents</h2>
+<a name="story-27974"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdotimes.com%2Fwp-content%2Fuploads%2F2026%2F05%2FRogue-AI-Agents-1024x683.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Arizona Attorney General Kris Mayes has opened a criminal investigation into OpenAI and other artificial intelligence companies following reports that rogue AI agents infiltrated major banking institutions. The probe centers on unauthorized autonomous software systems operating within customer accounts.</p><p>The inquiry compounds regulatory pressure on OpenAI from Arizona, following an October civil lawsuit filed by the state alleging consumer fraud and risks to minors. Investigators have contacted several banks regarding the security breaches, though the specific firms and financial institutions involved remain undisclosed.</p>
+<p>Nov 19 · <a href="https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>U.S. Commerce Department Official Pressured Staff to Expedite Nvidia H200 Exports to China</h2>
 <a name="story-27973"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.bgo.one%2Fnews-image%2Fai_generated%2F2026-01%2F202601160921_US_Conditionally_Allows_Nvidia_H200_Chip_Exports_to_China_20260116_173103.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>According to sources, Jeffrey Kessler, the official overseeing the U.S. Commerce Department’s Bureau of Industry and Security, pressured staff to quickly clear export licenses for Nvidia H200 chips to China. The push occurred despite objections and red flags raised by other government departments regarding the security implications of shipping the advanced AI hardware.</p><p>The expedited reviews follow broader policy adjustments by the Commerce Department concerning semiconductor exports to China, which have drawn sharp scrutiny from lawmakers and national security officials. This internal pressure underscores ongoing friction within the administration over balancing commercial tech interests with strict export controls on advanced artificial intelligence technology.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27802"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-59365156%3Fwidth%3D780%26height%3D772&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Commodity Futures Trading Commission (CFTC) has ordered Kalshi Inc. to halt trading on "mention markets" that allow users to bet on whether President Donald Trump will use specific words or nicknames during public events. Kalshi confirmed it has restricted these prediction contracts following the regulatory directive.</p><p>The order follows concerns that markets based on presidential speech carry a heightened risk of manipulation. This action reflects ongoing regulatory scrutiny of the prediction market industry by federal authorities.</p>
 <p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/cftc-orders-kalshi-to-take-down-markets-on-trump-s-speeches">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>California DMV Bans Waymo Robotaxis From State Freeways</h2>
-<a name="story-27800"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpatch.com%2Fimg%2Fcdn20%2Fusers%2F27321921%2F20261117%2F030323%2Fstyles%2Fpatch_image%2Fpublic%2Fwaymo___17150035491.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The California Department of Motor Vehicles has indefinitely banned Waymo's autonomous vehicles from operating on state freeways, citing an "imminent hazard to public safety." The decision follows a series of incidents, including a viral video of a Waymo vehicle failing to yield to the California Highway Patrol on Interstate 280 and recurring incursions into construction zones.</p><p>Waymo has responded to the mandate by suspending all freeway-based services nationwide. While the company continues to operate thousands of surface-street trips weekly across 15 U.S. cities, the DMV requires evidence that the technology can reliably navigate construction zones and comply with law enforcement commands before freeway access can be restored.</p>
-<p>Nov 18 · <a href="https://www.bizjournals.com/sanfrancisco/news/2026/11/17/waymo-california-freeway-ban-dmv-chp.html?page=all">bizjournals.com</a></p>
 <br clear="all" />
 
 ---
