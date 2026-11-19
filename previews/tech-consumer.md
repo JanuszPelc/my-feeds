@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grand Theft Auto VI Launch Sets Twitch Viewership Records</h2>
+<a name="story-28020"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Frealistically-how-many-views-will-gta-vi-have-on-twitch-v0-ox1nsgw47spc1.jpeg%3Fauto%3Dwebp%26s%3De4db81a4740a6aece8048dd825d5f26876142c53&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Grand Theft Auto VI achieved the largest game launch in Twitch history, drawing approximately 3.3 million concurrent viewers upon its release. The debut spurred massive livestream influencer marathons and drove significant early audience engagement across the platform.</p><p>The record-breaking streaming figures accompany projections that the title will generate over $3 billion in revenue during its first few months on the market. The launch has triggered extensive cross-platform streaming activity, highlighting the game's immediate commercial and cultural impact.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/-grand-theft-auto-vi-debut-spurs-livestream-influencer-marathons">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Grand Theft Auto VI Features Handcrafted Assets and Unique NPCs, Report Details</h2>
 <a name="story-28016"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgaminghq.eu%2Fwp-content%2Fuploads%2F2025%2F03%2Fgtaaa6.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Grand Theft Auto VI was developed by a team of 5,000 using handcrafted fidelity rather than artificial intelligence or procedural generation, according to a report by Joseph Bernstein for The New York Times. The game features approximately 30,000 unique non-player characters and an internal in-game video game system.</p><p>The upcoming title represents a massive production scale for Rockstar Games, emphasizing manual design over automated asset creation. The reporting offers an inside look at the development choices and scale behind one of the gaming industry's most anticipated releases.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FGrand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dual protagonists Jason and Lucia drive a criminal partnership balanced by moments of domestic routine. Set in an expanded Vice City, the game juxtaposes high-stakes action with interactive, mundane activities within a highly detailed urban simulation.</p><p>Technical achievements include an advanced crowd system, sophisticated lighting, and dense interior environments. While the game receives criticism for occasional repetitive missions and dated humor, it is noted for its massive scale, complex simulation elements, and immersive side activities.</p>
 <p>Nov 18 · <a href="https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/">arstechnica.com</a></p>
-<br clear="all" />
-
-<h2>Apple HomeView Teardown Reveals Low Repairability</h2>
-<a name="story-27826"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F17111740%2FHomeView_00011.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>iFixit's teardown of Apple's HomeView smart home hub reveals a surprisingly difficult repair process, contrasting with recent improvements in repairability seen in standalone iPads and HomePods. Despite promising modular aspects in its speaker base, the device presents major hurdles to repair.</p><p>The teardown highlights extensive use of strong adhesives, fragile plastic connectors that break easily during removal, mixed screw types, and a complex thermal design. These elements make replacing internal components like the display, speakers, and logic board highly risky and prone to physical damage.</p>
-<p>Nov 18 · <a href="https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward">ifixit.com</a> | <a href="https://www.reddit.com/r/apple/comments/1xz69aj/we_took_apart_apples_homeview_it_got_ugly_ifixit/">r/apple</a></p>
 <br clear="all" />
 
 ---
