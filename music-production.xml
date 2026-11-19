@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-18T17:17:00+00:00</updated>
+  <updated>2026-11-19T03:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>XRL Records Releases Vox Shine v2.0 for Windows</title>
+    <link href="https://www.kvraudio.com/news/xrl-records-releases-vox-shine-v2-0-for-windows-vst3-free-intro-69939?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69939" rel="alternate" />
+    <id>https://www.kvraudio.com/news/xrl-records-releases-vox-shine-v2-0-for-windows-vst3-free-intro-69939?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69939::v240</id>
+    <published>2026-11-19T03:57:00+00:00</published>
+    <updated>2026-11-19T03:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvox-shine-kvr-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/xrl-records-releases-vox-shine-v2-0-for-windows-vst3-free-intro-69939?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69939">kvraudio.com</a> | <a href="https://xrlrecords.com/products/vox-shine">xrlrecords.com</a></small></p><hr/><p>XRL Records has released version 2.0 of Vox Shine, a vocal processor plugin designed for Windows 10 and 11. The software functions as a VST3 plug-in and offers an optional standalone application to enhance vocal weight, presence, and high-frequency detail.</p><p>The plugin includes features to guide pitch toward a specific key and blend pitch-shifted harmonies with original vocals. A free license is available for a limited time on the official product page, which requires an XRL Records account and an internet connection for activation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvox-shine-kvr-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 10:58 UTC | #28000</small>]]></content>
+  </entry>
   <entry>
     <title>Sonible Releases Pure:Smooth Dynamic Resonance Suppressor Plugin</title>
     <link href="https://www.kvraudio.com/news/sonible-releases-pure-smooth---dynamic-resonance-suppressor-plugin-69931?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69931" rel="alternate" />

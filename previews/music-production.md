@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>XRL Records Releases Vox Shine v2.0 for Windows</h2>
+<a name="story-28000"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvox-shine-kvr-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>XRL Records has released version 2.0 of Vox Shine, a vocal processor plugin designed for Windows 10 and 11. The software functions as a VST3 plug-in and offers an optional standalone application to enhance vocal weight, presence, and high-frequency detail.</p><p>The plugin includes features to guide pitch toward a specific key and blend pitch-shifted harmonies with original vocals. A free license is available for a limited time on the official product page, which requires an XRL Records account and an internet connection for activation.</p>
+<p>Nov 19 · <a href="https://www.kvraudio.com/news/xrl-records-releases-vox-shine-v2-0-for-windows-vst3-free-intro-69939?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69939">kvraudio.com</a> | <a href="https://xrlrecords.com/products/vox-shine">xrlrecords.com</a></p>
+<br clear="all" />
+
 <h2>Sonible Releases Pure:Smooth Dynamic Resonance Suppressor Plugin</h2>
 <a name="story-27912"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpuresmooth.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonible has released pure:smooth, an AI-powered dynamic resonance suppressor plugin designed to identify and reduce unwanted resonances and harsh frequencies across various audio sources including vocals, guitars, and synths.</p><p>The plugin includes controls for adjusting smoothing, resolution, spectral shaping, frequency range, and difference monitoring. It is available at an introductory price of €25 and is also featured in the company's pure:bundle collection.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27864"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fzzounds-bf-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>zZounds has released early Black Friday 2026 discounts on various music technology products. These include Akai MIDI controllers, Roland synthesizers, Shure microphones, and KRK studio monitors.</p><p>Specific offers include the Akai MPK Mini IV for $89 and the Roland FANTOM 6 with a $420 discount. These promotions are available leading up to the official Black Friday date on November 27.</p>
 <p>Nov 18 · <a href="https://musictech.com/news/gear/zzounds-best-black-friday-music-deals-2026/">musictech.com</a> | <a href="https://www.zzounds.com/a--3990787">zzounds.com</a></p>
-<br clear="all" />
-
-<h2>Mercuriall Audio Releases Hazel-50 DX Amplifier for Ampbox</h2>
-<a name="story-27873"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fhazel-50dx_small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mercuriall Audio has released the Hazel-50 DX amplifier for its Ampbox modeling platform. Modeled after the Friedman BE-50 Deluxe, the plugin meticulously replicates the circuit component by component to deliver the hand-wired, EL34-powered 50-watt head's glassy cleans and hot-rodded rock tones.</p><p>Alongside the new amplifier, the company introduced three free effect pedals to the Ampbox ecosystem: the Open Drive, based on the Fulltone OCD; the MicroPitch Next stereo detune; and the Dim D-320 stereo dimension processor. The Hazel-50 DX is available for purchase at a promotional introductory price.</p>
-<p>Nov 18 · <a href="https://www.kvraudio.com/news/mercuriall-audio-releases-hazel-50-dx-amplifier-for-ampbox-69901?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69901">kvraudio.com</a> | <a href="https://mercuriall.com/cms/details_ampbox/13">mercuriall.com</a></p>
 <br clear="all" />
 
 ---
