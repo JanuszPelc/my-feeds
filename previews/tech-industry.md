@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Employees Discuss AI Development Pace Ahead of Landmark IPO</h2>
+<a name="story-27987"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic employees, referred to as "Ants," are reporting muted enthusiasm as the company prepares for a historic initial public offering (IPO). The internal discourse among staff centers on the rapid velocity of frontier artificial intelligence development and the strategic implications of transitioning to a public company.</p><p>The reporting highlights a core tension between the company's commercial goals and its commitment to AI safety. While the IPO is expected to be a major financial milestone, it has prompted internal debate over whether the pursuit of scale and profit might compromise the pace of responsible development.</p>
+<p>Nov 19 · <a href="https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&smid=url-share">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Intel Signs First External Customer for 18A Chips</h2>
 <a name="story-27972"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2026%2F04%2FIntel-Foundry-Direct-Connect-Keynote-1-scaled-1-1920x1280.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intel CEO Lip-Bu Tan announced that the company has secured its first external customer for its 18A manufacturing process. The agreement specifically involves the 18A-P process node, which entered risk production in June 2026, although Intel has not disclosed the identity of the debut client.</p><p>This milestone marks a significant step in Intel's multi-year strategy to challenge Taiwan Semiconductor Manufacturing Co. (TSMC) as a leading foundry for external products. Industry analysts suggest that potential customers could include Nvidia, Apple, or major hyperscalers like Amazon, Microsoft, and Google, who are currently facing capacity constraints at TSMC. Additionally, Intel identified Microsoft as its first public customer for its advanced EMIB packaging technology.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27933"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2024%2F11%2FGettyImages-1728513578-e.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anduril CEO Palmer Luckey stated at the New York Times DealBook Summit that Nvidia's board erred in removing longtime CEO Jensen Huang, arguing that Huang's departure benefits China's domestic chip industry. Huang stepped down following controversies including an investigation into an alleged Chinese spy, while Nvidia subsequently announced it would halt sales of H200 chips in China.</p><p>Luckey's comments align with a broader push from tech industry leaders, including a petition signed by over 200,000 people urging Nvidia to reinstate Huang. Despite the petition and Huang's stated willingness to return, Nvidia executives confirmed during an earnings call that the company has no current plans to reappoint him.</p>
 <p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Center for AI Safety and Coalition Issue MisAnthropic Statement Criticizing Anthropic</h2>
-<a name="story-27898"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1WgyV3.img%3Fw%3D768%26h%3D709%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Center for AI Safety and a coalition of researchers, ethicists, and industry figures have released the MisAnthropic Statement, challenging Anthropic's safety positioning ahead of its initial public offering. The signatories argue that while Anthropic publicly warns about the risks of recursively self-improving AI and power concentration, it is aggressively pursuing the technology while weakening its safety commitments.</p><p>Prominent signatories include Steven Pinker, Judea Pearl, Max Tegmark, and several Nobel and Turing laureates. The statement points to Anthropic's recent changes to its Responsible Scaling Policy, its lobbying efforts against various state and federal AI regulations, and its reliance on safety branding to attract investors and talent.</p>
-<p>Nov 18 · <a href="https://safe.ai/news/anthropic-is-not-a-safe-ai-company">safe.ai</a> | <a href="https://misanthropicstatement.com/">misanthropicstatement.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-19T04:09:00+00:00</updated>
+  <updated>2026-11-19T11:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Anthropic Employees Discuss AI Development Pace Ahead of Landmark IPO</title>
+    <link href="https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&amp;smid=url-share::v240</id>
+    <published>2026-11-19T11:30:00+00:00</published>
+    <updated>2026-11-19T11:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&smid=url-share">nytimes.com</a></small></p><hr/><p>Anthropic employees, referred to as "Ants," are reporting muted enthusiasm as the company prepares for a historic initial public offering (IPO). The internal discourse among staff centers on the rapid velocity of frontier artificial intelligence development and the strategic implications of transitioning to a public company.</p><p>The reporting highlights a core tension between the company's commercial goals and its commitment to AI safety. While the IPO is expected to be a major financial milestone, it has prompted internal debate over whether the pursuit of scale and profit might compromise the pace of responsible development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 17:24 UTC | #27987</small>]]></content>
+  </entry>
   <entry>
     <title>Intel Signs First External Customer for 18A Chips</title>
     <link href="https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html" rel="alternate" />
