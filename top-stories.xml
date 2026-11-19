@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-19T12:47:00+00:00</updated>
+  <updated>2026-11-19T13:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Mapping the Digital Gap Report Finds 63% of Remote First Nations Households Lack Free-to-Air TV Access</title>
+    <link href="https://theconversation.com/nearly-two-thirds-of-remote-first-nations-households-lack-free-to-air-tv-access-296153" rel="alternate" />
+    <id>https://theconversation.com/nearly-two-thirds-of-remote-first-nations-households-lack-free-to-air-tv-access-296153::v240</id>
+    <published>2026-11-19T13:10:00+00:00</published>
+    <updated>2026-11-19T13:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771506%2Foriginal%2Ffile-20261112-64-5swkta.jpeg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/nearly-two-thirds-of-remote-first-nations-households-lack-free-to-air-tv-access-296153">theconversation.com</a> | <a href="https://doi.org/10.60836/ggns-vm61">doi.org</a></small></p><hr/><p>A new report from the Mapping the Digital Gap project reveals that nearly two-thirds of households in remote First Nations communities lack access to free-to-air television. This decline is driven by widespread equipment failures in the Viewer Access Satellite Television (VAST) network, high replacement costs for set-top boxes, and logistical hurdles in providing technical maintenance to remote areas.</p><p>The loss of reliable television access increases reliance on prepaid mobile data and potentially less dependable information sources, compounding existing affordability challenges. Although fixed broadband adoption and streaming services are growing, community-led initiatives and targeted regional trials have demonstrated success in restoring broadcast access where standard maintenance models fall short.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771506%2Foriginal%2Ffile-20261112-64-5swkta.jpeg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 22:35 UTC | #27551 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Quad9 Withdraws From France Following Copyright Site-Blocking Rulings</title>
     <link href="https://blog.cloudflare.com/quad9-withdrawal-from-france/" rel="alternate" />
