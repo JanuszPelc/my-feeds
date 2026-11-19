@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T20:14:00+00:00</updated>
+  <updated>2026-11-18T21:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Palmer Luckey Argues Nvidia Should Reinstate Ousted CEO Jensen Huang</title>
+    <link href="https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/::v240</id>
+    <published>2026-11-18T21:32:00+00:00</published>
+    <updated>2026-11-18T21:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2024%2F11%2FGettyImages-1728513578-e.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/">techcrunch.com</a></small></p><hr/><p>Anduril CEO Palmer Luckey stated at the New York Times DealBook Summit that Nvidia's board erred in removing longtime CEO Jensen Huang, arguing that Huang's departure benefits China's domestic chip industry. Huang stepped down following controversies including an investigation into an alleged Chinese spy, while Nvidia subsequently announced it would halt sales of H200 chips in China.</p><p>Luckey's comments align with a broader push from tech industry leaders, including a petition signed by over 200,000 people urging Nvidia to reinstate Huang. Despite the petition and Huang's stated willingness to return, Nvidia executives confirmed during an earnings call that the company has no current plans to reappoint him.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2024%2F11%2FGettyImages-1728513578-e.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 02:34 UTC | #27933</small>]]></content>
+  </entry>
   <entry>
     <title>Center for AI Safety and Coalition Issue MisAnthropic Statement Criticizing Anthropic</title>
     <link href="https://safe.ai/news/anthropic-is-not-a-safe-ai-company" rel="alternate" />
@@ -523,14 +532,5 @@
     <updated>2026-11-14T04:26:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.ccn.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fsam-bankman-blocked-ftx-anthropic-ai-investment-prosecutors-worried.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&sharetype=gift&token=b0dedc93-80dc-4cab-9250-cec64180d7fc&syn-25a6b1a6=1">ft.com</a></small></p><hr/><p>Jailed former FTX chief executive Sam Bankman-Fried missed out on a massive financial windfall from his early backing of artificial intelligence lab Anthropic. Through Alameda Research, he invested $500 million in 2021 for a nearly 14 percent stake when Anthropic was valued at approximately $4 billion.</p><p>That stake would have been worth roughly $37 billion had Anthropic listed at a projected $1.5 trillion valuation. However, following the collapse of FTX, the bankrupt crypto exchange's estate relinquished the stake in 2024 for about $1.3 billion to help repay creditors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ccn.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fsam-bankman-blocked-ftx-anthropic-ai-investment-prosecutors-worried.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 14:35 UTC | #27470</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tesla Opens Cybercab Orders for Personal Use Starting at $29,990</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-14/tesla-says-it-s-starting-to-sell-cybercabs-for-personal-use" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-11-14/tesla-says-it-s-starting-to-sell-cybercabs-for-personal-use::v240</id>
-    <published>2026-11-14T02:26:00+00:00</published>
-    <updated>2026-11-14T02:26:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.notateslaapp.com%2Fimg%2Fcontainers%2Farticle_images%2Frobotaxi%2Fcybercab-studio.webp%2Fb3697eec915737dff567818b0318df6d%2Fcybercab-studio.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-14/tesla-says-it-s-starting-to-sell-cybercabs-for-personal-use">bloomberg.com</a></small></p><hr/><p>Tesla has invited select customers to place orders for its autonomous Cybercab for personal use, priced at $29,990 before taxes. The purchase requires an additional $299-per-month autonomy subscription to operate.</p><p>The vehicle's availability is initially limited, and its operation is tied to specific geofences established for the company's robotaxi network. The announcement marks a step toward bringing the steering-wheel-free vehicle to individual consumers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.notateslaapp.com%2Fimg%2Fcontainers%2Farticle_images%2Frobotaxi%2Fcybercab-studio.webp%2Fb3697eec915737dff567818b0318df6d%2Fcybercab-studio.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 12:30 UTC | #27464</small>]]></content>
   </entry>
 </feed>

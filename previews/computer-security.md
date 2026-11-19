@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Xint Discloses Remote Code Execution Vulnerabilities in NGINX</h2>
+<a name="story-27900"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXcCgCqEYuL4PLdiAFN6IYDfBLd7-fjq86Mf0YH6Irb4z7HPmt1xIX0Wyf3fLnCwyq_BugpQtFO8YoXTlh7kgVTNajCRx-VT2rLU39e4b4Jy377T3sw6KLbcuV3zj18i99kXnV3z%3Fkey%3DdoxBsn0NmOFAw9ZfPAlZLWET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cybersecurity firm Xint has disclosed multiple remote code execution vulnerabilities affecting the NGINX web server, including an unauthenticated flaw involving HTTP/2 flow control. The research details how automated scanning identified several CVEs that can be chained with a Linux kernel vulnerability to achieve root access on host servers.</p><p>The findings highlight ongoing security challenges in widely deployed infrastructure software and emphasize the urgency of applying patches. Organizations running affected NGINX versions are advised to update their systems to mitigate potential unauthenticated exploitation risks.</p>
+<p>Nov 18 · <a href="https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/">forbes.com</a> | <a href="https://xint.io/blog/nginx2root-remote-code-execution">xint.io</a></p>
+<br clear="all" />
+
 <h2>Citibank Updates Terms to Make Customers Liable for Losses Incurred by Third-Party AI Agents</h2>
 <a name="story-27914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.lyzr.ai%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-17-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Citibank has updated its online user agreement to state that customers who use third-party artificial intelligence tools to access their accounts will be held fully responsible for any resulting transactions or credential leaks. The bank joins other major financial institutions like JPMorgan Chase, Bank of America, and PNC in shifting liability to consumers who grant automated assistants access to their personal financial portals.</p><p>The policy changes highlight growing friction between traditional banks and the rise of autonomous financial tech tools, which are increasingly marketed to manage spending, investments, and bill payments. While startups and labs race to integrate personal finance features into AI agents, financial institutions are warning customers that security breaches or unauthorized actions caused by these tools are the user's sole responsibility.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27702"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthejasminebrand.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3814.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>United Airlines experienced a widespread technology outage on Monday that briefly delayed outbound flight departures at U.S. airports. The carrier stated that the issue affected pilot-facing applications and prevented the provision of final weights for outbound flights, though flights already in the air and regional United Express services remained unaffected.</p><p>A spokesperson noted there was no indication that the incident was a cyberattack. The short-lived disruption occurred just days after a rare, unrelated nationwide Federal Aviation Administration ground stop snarled travel across the country over the weekend.</p>
 <p>Nov 17 · <a href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html">cnbc.com</a></p>
-<br clear="all" />
-
-<h2>Major US Banks Experience Online Account Outages</h2>
-<a name="story-27680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnowworld.com%2Fthumb%2Fmsid-154516422%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F154516422.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Customers at several major U.S. banks, including Chase, Wells Fargo, Bank of America, U.S. Bank, and Truist, reported difficulty accessing online accounts on Monday. Chase Bank characterized the disruption as a technical bug rather than a cyberattack, stating that some transactions are delayed but accounts and funds remain accessible.</p><p>U.S. Bank noted that clients might experience delays with Zelle payments sent to other financial institutions. The outage follows a recent Microsoft service disruption that impacted Outlook, Teams, and Copilot.</p>
-<p>Nov 16 · <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">apnews.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1xy6jl2/customers_at_some_of_the_nations_largest_banks/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50521045">hacker news</a></p>
 <br clear="all" />
 
 ---

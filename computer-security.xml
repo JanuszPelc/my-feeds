@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-18T17:33:00+00:00</updated>
+  <updated>2026-11-18T20:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Xint Discloses Remote Code Execution Vulnerabilities in NGINX</title>
+    <link href="https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/" rel="alternate" />
+    <id>https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/::v240</id>
+    <published>2026-11-18T20:19:00+00:00</published>
+    <updated>2026-11-18T20:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXcCgCqEYuL4PLdiAFN6IYDfBLd7-fjq86Mf0YH6Irb4z7HPmt1xIX0Wyf3fLnCwyq_BugpQtFO8YoXTlh7kgVTNajCRx-VT2rLU39e4b4Jy377T3sw6KLbcuV3zj18i99kXnV3z%3Fkey%3DdoxBsn0NmOFAw9ZfPAlZLWET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/">forbes.com</a> | <a href="https://xint.io/blog/nginx2root-remote-code-execution">xint.io</a></small></p><hr/><p>Cybersecurity firm Xint has disclosed multiple remote code execution vulnerabilities affecting the NGINX web server, including an unauthenticated flaw involving HTTP/2 flow control. The research details how automated scanning identified several CVEs that can be chained with a Linux kernel vulnerability to achieve root access on host servers.</p><p>The findings highlight ongoing security challenges in widely deployed infrastructure software and emphasize the urgency of applying patches. Organizations running affected NGINX versions are advised to update their systems to mitigate potential unauthenticated exploitation risks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXcCgCqEYuL4PLdiAFN6IYDfBLd7-fjq86Mf0YH6Irb4z7HPmt1xIX0Wyf3fLnCwyq_BugpQtFO8YoXTlh7kgVTNajCRx-VT2rLU39e4b4Jy377T3sw6KLbcuV3zj18i99kXnV3z%3Fkey%3DdoxBsn0NmOFAw9ZfPAlZLWET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 02:34 UTC | #27900</small>]]></content>
+  </entry>
   <entry>
     <title>Citibank Updates Terms to Make Customers Liable for Losses Incurred by Third-Party AI Agents</title>
     <link href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/" rel="alternate" />
