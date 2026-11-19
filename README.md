@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/human-knowledge.png" width="28" align="texttop" /> &nbsp;Fossil Teeth Reveal Homo Erectus Survived in Southern China Rainforests Later Than Thought</h2>
+<a name="story-27925"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772316%2Foriginal%2Ffile-20261117-64-ru0qsj.JPG%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Analysis of nine human teeth recovered from two neighboring caves in Guangxi province, China, indicates that Homo erectus survived in the region until between 324,000 and 184,000 years ago. This timeline places the species in mainland China 100,000 to 200,000 years later than previous estimates suggested.</p><p>Chemical signatures extracted from the fossil enamel and surrounding cave sediments reveal that these ancient humans inhabited dense tropical rainforests and traveled widely across the landscape during their childhoods. The findings challenge long-held assumptions that Homo erectus was restricted to open woodland environments and unable to adapt to demanding rainforest habitats.</p>
+<p>Nov 19 · <a href="https://theconversation.com/the-secret-lives-of-our-early-ancestors-revealed-in-fossil-teeth-from-china-294055">theconversation.com</a></p>
+<br clear="all" />
+
 <h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Google Introduces Gemini 4 Neon AI Model</h2>
 <a name="story-27937"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenrouter.ai%2Fen-US%2Fgoogle%2Fgemini-4-neon%2Fopengraph-image-vc0va0%3Fe64ee705e9bb9143&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has announced Gemini 4 Neon, a new artificial intelligence model designed to deliver frontier-level intelligence and fast task completion across software engineering, analytical, and scientific workflows. Positioned between the Carbon and Hydrogen models within the Gemini 4 family, Neon features a one-million-token context window and is priced at $3 per million input tokens and $15 per million output tokens.</p><p>The model ranks strongly across various independent benchmarks, achieving high scores in coding, legal research, tax agent tasks, and automated workflows. It is rolling out immediately through the Gemini API in Google AI Studio, Google for Business, Google Antigravity, and the Gemini app for paid subscribers, with specialized cyber defense capabilities also provided through the Fairwind Program.</p>
@@ -101,12 +107,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27725"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsylvia-massy-mfs-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Grammy-winning producer Sylvia Massy discusses her experience recording for artists such as Prince and Tool, her collection of over 3,000 vintage microphones, and her new book, *The Great Book of Vintage Microphones*.</p><p>As part of the eighth season of the *My Forever Studio* podcast, Massy shares insights into her unconventional approach to sound capture and her use of esoteric microphones.</p>
 <p>Nov 18 · <a href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-sylvia-massy/">musictech.com</a></p>
-<br clear="all" />
-
-<h2><img src="images/human-knowledge.png" width="28" align="texttop" /> &nbsp;Harvard Study Links School Cellphone Bans to Modest Gains in Test Scores</h2>
-<a name="story-27841"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17up-phone-pouch1-jlkf%2F17up-phone-pouch1-jlkf-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Implementing strict cellphone bans, such as requiring students to use lockable pouches, correlates with improved math and reading scores. A study by Harvard’s Center for Education Policy Research involving 3.3 million students from 2021 to 2026 found that these bans produced academic gains equivalent to having one or two additional weeks of instruction per year.</p><p>This research provides evidence for the role of smartphone use in the decade-long decline of U.S. student achievement. While earlier studies on cellphone bans yielded mixed results, this large-scale analysis of student-level growth suggests that restricting device access may help reverse long-term academic declines.</p>
-<p>Nov 18 · <a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html">nytimes.com</a> | <a href="https://cepr.harvard.edu/resource/phone-free-schools-report">cepr.harvard.edu</a> | <a href="https://news.ycombinator.com/item?id=50530163">hacker news</a></p>
 <br clear="all" />
 
 ---

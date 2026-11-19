@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>OpenAI Details Use of AI Models in Custom and AMD Chip Design</title>
+    <link href="https://openai.com/index/advancing-chip-design-with-our-models/" rel="alternate" />
+    <id>https://openai.com/index/advancing-chip-design-with-our-models/::v240</id>
+    <published>2026-11-19T00:50:00+00:00</published>
+    <updated>2026-11-19T00:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.yottalabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwy75wyma%2Fproduction%2Fad0d97d1e2d5b886237cc20fd5ce7853feec338d-1344x854.png%26w%3D1920%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://openai.com/index/advancing-chip-design-with-our-models/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50549493">hacker news</a></small></p><hr/><p>OpenAI has detailed how its frontier AI models helped accelerate the development of its custom inference chip, Jalapeño, achieving standard-cell area reductions across its vector and matrix units. The company also reported up to a 14 percent power, performance, and area improvement on AMD's flagship GPU IP through automated circuit rewrites.</p><p>In addition to production silicon optimizations, OpenAI evaluated successive model generations on open-source RISC-V processor cores, finding that models scored higher when designing from written specifications rather than optimizing existing designs. The company is also partnering with Synopsys to integrate frontier intelligence into electronic design automation tools used by chip engineers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.yottalabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwy75wyma%2Fproduction%2Fad0d97d1e2d5b886237cc20fd5ce7853feec338d-1344x854.png%26w%3D1920%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 08:21 UTC | #27942</small>]]></content>
+  </entry>
+  <entry>
     <title>Google Introduces Gemini 4 Neon AI Model</title>
     <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/" rel="alternate" />
     <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/::v240</id>

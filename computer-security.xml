@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-18T23:53:00+00:00</updated>
+  <updated>2026-11-19T03:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>ClickFix Fake CAPTCHA Scams Trick Users Into Installing Malware</title>
+    <link href="https://theconversation.com/this-sneaky-captcha-scam-tricks-you-into-installing-malware-heres-what-you-need-to-know-296919" rel="alternate" />
+    <id>https://theconversation.com/this-sneaky-captcha-scam-tricks-you-into-installing-malware-heres-what-you-need-to-know-296919::v240</id>
+    <published>2026-11-19T03:16:00+00:00</published>
+    <updated>2026-11-19T03:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.cynet.com%2Fwp-content%2Fuploads%2F2025%2F03%2Fimage-3-1536x1029.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/this-sneaky-captcha-scam-tricks-you-into-installing-malware-heres-what-you-need-to-know-296919">theconversation.com</a></small></p><hr/><p>Cybercriminals are utilizing fake CAPTCHA verification prompts, known as the ClickFix technique, to trick users into executing malicious computer commands. Instead of verifying humanity, compromised websites copy harmful scripts to the clipboard and prompt users to paste and run them via system tools like Windows Run or Apple Terminal.</p><p>These global campaigns have been linked to infostealer malware such as Vidar Stealer, which targets sensitive data including passwords and browsing information. Security agencies advise that legitimate CAPTCHAs never require users to copy text or execute terminal commands, and recommend disconnecting infected devices from the internet immediately.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cynet.com%2Fwp-content%2Fuploads%2F2025%2F03%2Fimage-3-1536x1029.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 08:22 UTC | #27971</small>]]></content>
+  </entry>
   <entry>
     <title>PHP Schedules Critical Security Releases for November 19, 2026</title>
     <link href="https://www.php.net/index.php#2026-11-18-1" rel="alternate" />
