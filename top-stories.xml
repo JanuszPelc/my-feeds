@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-19T12:24:00+00:00</updated>
+  <updated>2026-11-19T12:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Quad9 Withdraws From France Following Copyright Site-Blocking Rulings</title>
+    <link href="https://blog.cloudflare.com/quad9-withdrawal-from-france/" rel="alternate" />
+    <id>https://blog.cloudflare.com/quad9-withdrawal-from-france/::v240</id>
+    <published>2026-11-19T12:47:00+00:00</published>
+    <updated>2026-11-19T12:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.quad9.net%2Fuploads%2Fprivate_dns_quad9_768x733_25af50b3f9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">blog.cloudflare.com</a> | <a href="https://quad9.net/news/blog/au-revoir-france/">quad9.net</a> | <a href="https://news.ycombinator.com/item?id=50538994">hacker news</a></small></p><hr/><p>Swiss non-profit foundation Quad9 is withdrawing its free public DNS resolver from France after a French court imposed daily financial penalties for failing to block domains accused of copyright infringement. The decision leaves Quad9 with a choice between crippling legal penalties and compromising its users' security and privacy by altering its core service.</p><p>The withdrawal highlights ongoing legal pressures on public DNS infrastructure providers across Europe. Similar site-blocking mandates and penalties have targeted providers like Cloudflare, Cisco, and Google, raising concerns among technologists that forced domain blocking at the DNS layer degrades internet resilience, threatens user privacy, and pushes users toward less transparent or accountable services.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.quad9.net%2Fuploads%2Fprivate_dns_quad9_768x733_25af50b3f9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 10:11 UTC | #27862 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Inside Deutsche Bank Investigation Exposes Leaked Financial Records</title>
     <link href="https://www.inside-db.com/" rel="alternate" />
