@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-18T23:29:00+00:00</updated>
+  <updated>2026-11-19T04:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Google Releases Another Build File Service to Accelerate Massive Git Repositories</title>
+    <link href="https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/" rel="alternate" />
+    <id>https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/::v240</id>
+    <published>2026-11-19T04:07:00+00:00</published>
+    <updated>2026-11-19T04:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-developer-goog-blog-assets%2Fimages%2Ftable1_aosp_code_size.original.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/">developers.googleblog.com</a> | <a href="https://lobste.rs/s/0ajpus/accelerating_development_for_massive">lobsters</a></small></p><hr/><p>Google has introduced Another Build File Service (ABFS), an open-source software suite designed to eliminate performance bottlenecks when developing massive Git-based projects like the Android Open Source Project (AOSP). ABFS uses a content-addressable virtual filesystem, user-space daemons, and server-side infrastructure to lazy-load source code and cache build results, reducing AOSP checkout times from roughly 36 minutes to under eight seconds and full build times from about 80 minutes to just over two minutes.</p><p>The system combines a Linux kernel filesystem module called CASFS with a two-phase content-addressable caching build tool called Ninja-go, which verifies read patches against current filesystem states to prevent stale incremental artifacts caused by hidden dependencies. By enabling fast checkouts and shared local caching, ABFS allows developers and automated agent swarms to run multiple concurrent workspaces and parallel build workflows efficiently on standard workstations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-developer-goog-blog-assets%2Fimages%2Ftable1_aosp_code_size.original.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 13:34 UTC | #28022</small>]]></content>
+  </entry>
   <entry>
     <title>Jimmy Miller Explores the Mechanics and Magic of Partial Evaluation</title>
     <link href="https://jimmyhmiller.com/magic-of-partial-evaluation" rel="alternate" />
