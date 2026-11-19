@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-18T13:05:00+00:00</updated>
+  <updated>2026-11-18T20:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Variational Raises $110 Million in Series B Funding at $1.5 Billion Valuation</title>
+    <link href="https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445" rel="alternate" />
+    <id>https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445::v240</id>
+    <published>2026-11-18T20:17:00+00:00</published>
+    <updated>2026-11-18T20:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd1x7dwosqaosdj.cloudfront.net%2Fimages%2F2026-05%2F693f23606bcd4319999ea92fbe6edb6e.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445">theblock.co</a> | <a href="https://www.businesswire.com/news/home/20261116481769/en/Variational-Raises-%24110M-Series-B-at-%241.5B-Valuation-To-Scale-On-Chain-Access-To-Global-Markets">businesswire.com</a></small></p><hr/><p>Crypto derivatives protocol Variational has secured $110 million in a Series B funding round led by Bain Capital Crypto, valuing the company at $1.5 billion. The capital will be used to expand market offerings, increase open interest limits, and support around-the-clock trading capabilities for both cryptocurrency and traditional financial assets.</p><p>Since launching its Omni trading platform in early 2025, Variational has processed over $475 billion in trading volume and accumulated more than $1.3 billion in open interest, with traditional markets generating over half of its daily activity. The protocol recently introduced swap products as it positions itself alongside decentralized competitors like Hyperliquid and traditional brokerages.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd1x7dwosqaosdj.cloudfront.net%2Fimages%2F2026-05%2F693f23606bcd4319999ea92fbe6edb6e.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 02:21 UTC | #27901</small>]]></content>
+  </entry>
   <entry>
     <title>Tencent Reports Q3 Revenue Below Estimates Amid Increased AI Spending</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push" rel="alternate" />

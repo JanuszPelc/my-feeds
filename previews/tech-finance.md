@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Variational Raises $110 Million in Series B Funding at $1.5 Billion Valuation</h2>
+<a name="story-27901"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd1x7dwosqaosdj.cloudfront.net%2Fimages%2F2026-05%2F693f23606bcd4319999ea92fbe6edb6e.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Crypto derivatives protocol Variational has secured $110 million in a Series B funding round led by Bain Capital Crypto, valuing the company at $1.5 billion. The capital will be used to expand market offerings, increase open interest limits, and support around-the-clock trading capabilities for both cryptocurrency and traditional financial assets.</p><p>Since launching its Omni trading platform in early 2025, Variational has processed over $475 billion in trading volume and accumulated more than $1.3 billion in open interest, with traditional markets generating over half of its daily activity. The protocol recently introduced swap products as it positions itself alongside decentralized competitors like Hyperliquid and traditional brokerages.</p>
+<p>Nov 18 · <a href="https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445">theblock.co</a> | <a href="https://www.businesswire.com/news/home/20261116481769/en/Variational-Raises-%24110M-Series-B-at-%241.5B-Valuation-To-Scale-On-Chain-Access-To-Global-Markets">businesswire.com</a></p>
+<br clear="all" />
+
 <h2>Tencent Reports Q3 Revenue Below Estimates Amid Increased AI Spending</h2>
 <a name="story-27863"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2FlihOzYCaYHoUb6ufCze6AdW43hzM4raW_Ye-YFdMRis%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2Vhcm5pbmdzX2NhcmQvMjAyNi0wNS9VU19UQ0VIWV8yMDI2LTA1LTEzXzE3ODQyMDAwNzkud2VicA.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tencent Holdings Ltd. reported third-quarter revenue of approximately $31.1 billion, marking an 8% year-over-year increase that missed analyst estimates. Operating profit fell 7%, representing the company's first earnings decline in several years as capital expenditures on artificial intelligence surged fivefold to roughly $12 billion.</p><p>The heavy investments reflect an aggressive push by management into AI infrastructure, putting near-term pressure on profit margins. The financial setback highlights the mounting costs major technology firms face as they race to scale generative AI capabilities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27706"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmm-gen-images.nyc3.cdn.digitaloceanspaces.com%2Fuploads%2Fac511bbd-90b3-40e3-9d3f-1f1e786a6f18.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Oakland-based AI startup Numa has raised $45 million in a Series C funding round led by Blue Cloud Ventures, bringing its total funding to $96 million and valuing the company at $500 million. The company develops an artificial intelligence operating system designed to automate customer service, sales lead logging, and routine warranty paperwork for car dealerships.</p><p>Founded in 2017 as Number AI before pivoting to the automotive sector, Numa currently provides its software to more than 1,500 dealerships across the United States and Canada. The new capital will be used to expand its engineering team and scale its platform as the adoption of AI agents grows within legacy industries.</p>
 <p>Nov 17 · <a href="https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/">fortune.com</a> | <a href="https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html">prnewswire.com</a></p>
-<br clear="all" />
-
-<h2>Kalshi Acquires Brokerage to Expand into Equity Trading</h2>
-<a name="story-27700"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsocial-life-magazine.s3.amazonaws.com%2F~sociall1%2Fwp-content%2Fuploads%2F2025%2F12%2F26021231%2FChatGPT-Image-Dec-26-2025-02_12_16-AM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Prediction markets platform Kalshi acquired FB Securities, a small New York-based brokerage, in July to facilitate expansion into equity trading. The company plans to launch stock trading services within the next two months.</p><p>The move comes as Kalshi continues to navigate legal challenges from various U.S. states regarding the legality of its existing yes-or-no prediction contracts.</p>
-<p>Nov 17 · <a href="https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?st=GrtBNR&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---
