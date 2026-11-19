@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-19T17:02:00+00:00</updated>
+  <updated>2026-11-19T17:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>PDD Holdings Reports Third-Quarter Revenue and Profit</title>
+    <link href="https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?st=ZWhSa9&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?st=ZWhSa9&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-19T17:55:00+00:00</published>
+    <updated>2026-11-19T17:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.borsainside.com%2Fcontent%2Fuploads%2F2026%2F03%2FTemu1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?st=ZWhSa9&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-third-quarter-2026-unaudited-financial">investor.pddholdings.com</a></small></p><hr/><p>PDD Holdings reported third-quarter revenue of approximately $16.2 billion, remaining flat year-over-year and falling short of analyst expectations, while net profit rose 0.7% to about $4.43 billion, exceeding forecasts.</p><p>The financial results reflect ongoing headwinds for the company's e-commerce platform Temu, which faced a shrinking user base led by a decline in Europe as the region implements stricter regulations. Analysts noted that mounting regulatory scrutiny and fierce market competition continue to challenge the platform's international expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.borsainside.com%2Fcontent%2Fuploads%2F2026%2F03%2FTemu1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 23:11 UTC | #28021</small>]]></content>
+  </entry>
   <entry>
     <title>Everful Raises $48.5 Million in Series A Funding to Expand Factory-Direct Sourcing Platform</title>
     <link href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/" rel="alternate" />

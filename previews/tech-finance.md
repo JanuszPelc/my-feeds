@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>PDD Holdings Reports Third-Quarter Revenue and Profit</h2>
+<a name="story-28021"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.borsainside.com%2Fcontent%2Fuploads%2F2026%2F03%2FTemu1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>PDD Holdings reported third-quarter revenue of approximately $16.2 billion, remaining flat year-over-year and falling short of analyst expectations, while net profit rose 0.7% to about $4.43 billion, exceeding forecasts.</p><p>The financial results reflect ongoing headwinds for the company's e-commerce platform Temu, which faced a shrinking user base led by a decline in Europe as the region implements stricter regulations. Analysts noted that mounting regulatory scrutiny and fierce market competition continue to challenge the platform's international expansion.</p>
+<p>Nov 19 · <a href="https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?st=ZWhSa9&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-third-quarter-2026-unaudited-financial">investor.pddholdings.com</a></p>
+<br clear="all" />
+
 <h2>Everful Raises $48.5 Million in Series A Funding to Expand Factory-Direct Sourcing Platform</h2>
 <a name="story-28050"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQG6ssruKhu0Ag%2Farticle-cover_image-shrink_720_1280%2FB56ZscOvvzGgAI-%2F0%2F1765705203137%3Fe%3D2147483647%26v%3Dbeta%26t%3DUsou2kmeyX2dnPVnTkKCAU64XI36mHd3xkQwz86dIQk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Everful, a San Francisco- and Singapore-based B2B sourcing platform, has secured $48.5 million in a Series A funding round led by Vertex Ventures Southeast Asia &amp; India and January Capital, with participation from Square Peg and Lightspeed. Co-founded in 2024 by former Alibaba executive Sisi Song and serial entrepreneur Kevin Han, the startup connects smaller retailers and brands directly with Chinese factories, managing end-to-end operations including order consolidation, quality control, and logistics.</p><p>The company utilizes AI agents to automate labor-intensive tasks such as tracking consumer trends, coordinating orders, and managing suppliers. Everful is on track to reach $100 million in annualized revenue by the end of the year and plans to use the new capital to expand its footprint in the United States and Europe—specifically the U.K., France, and Italy—while deepening integrations with e-commerce platforms like Shopify.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27803"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fe0af11d5f994f6c6df12b4374f813a84418d5500-2400x1260.png%3Frect%3D0%2C3%2C2400%2C1254%26w%3D1200%26h%3D627%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ramp is in early discussions to raise $1 billion or more in a new funding round, potentially led by Coatue and Thrive Capital. The financing would value the corporate-card and expense-management startup at more than $70 billion.</p><p>This would be the company's third fundraising round within a year. The potential valuation follows a period of rapid growth, including an October funding round that valued the firm at $60 billion.</p>
 <p>Nov 18 · <a href="https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Codex Raises $30 Million for Stablecoin-Based Cross-Border Payments</h2>
-<a name="story-27762"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsg-imgs.dealroom.co%2Fef044f128f9776295849e076565529b2.jpeg%3Fcs%3Dorigin%26w%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dfaces%2Ccenter%26q%3D85&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Codex has raised $30 million in a Series A funding round to develop infrastructure for stablecoin-based cross-border payments and currency exchange. Led by Pantera Capital, the round included participation from Dragonfly and Coinbase Ventures, valuing the Delaware-based startup at $130 million post-money.</p><p>The company intends to connect Asia to markets in Latin America and sub-Saharan Africa, enabling businesses to exchange currencies without the need for upfront deposits. Codex plans to integrate AI agents to automate its foreign-exchange platform and manage costs as transaction volumes scale.</p>
-<p>Nov 17 · <a href="https://fortune.com/2026/11/17/pantera-backed-codex-30-million-asia-global-markets-stablecoins/">fortune.com</a> | <a href="https://codex.xyz/">codex.xyz</a></p>
 <br clear="all" />
 
 ---
