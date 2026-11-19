@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-18T22:21:00+00:00</updated>
+  <updated>2026-11-19T03:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Poland Foils Alleged Russian Sabotage Operation Planned Near Kaliningrad Border</title>
+    <link href="https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html" rel="alternate" />
+    <id>https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html::v240</id>
+    <published>2026-11-19T03:47:00+00:00</published>
+    <updated>2026-11-19T03:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgdb.rferl.org%2F804e0000-c0a8-0242-c4b7-08dac0abcf58_w1024_q10_s.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html">yahoo.com</a> | <a href="https://news.ycombinator.com/item?id=50547344">hacker news</a></small></p><hr/><p>Polish security and military services reportedly thwarted a Russian sabotage plot in late October or early November designed to cause mass casualties near the border with Kaliningrad and be falsely blamed on Ukraine. According to sources cited by the Polish newspaper Rzeczpospolita, partner intelligence agencies warned Warsaw of the plan, prompting heightened security measures, police reinforcements, and special forces exercises in northeastern Poland.</p><p>Polish officials, including Prime Minister Donald Tusk, previously noted suspicious activity along the border, leading to the establishment of a special operations headquarters in the Warmian-Masurian and Podlaskie voivodeships. While Poland's Minister-Coordinator of Special Services Tomasz Siemoniak declined to confirm specific operational details, he stated that the state's preemptive measures were implemented because authorities treated the threat as genuine.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgdb.rferl.org%2F804e0000-c0a8-0242-c4b7-08dac0abcf58_w1024_q10_s.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 09:07 UTC | #27994</small>]]></content>
+  </entry>
   <entry>
     <title>Gavin Newsom Proposes Sweeping AI Safety Rules for California</title>
     <link href="https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739" rel="alternate" />
