@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Snapchat Releases Easy Lens CLI for AI Coding Assistants</h2>
+<a name="story-27921"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FEasy-Lens-CLI-Announcement_Triptych.gif%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Snap has introduced the Easy Lens CLI, a new command-line tool that enables developers to build augmented reality Snapchat Lenses using AI coding assistants like Claude Code, Cursor, and Codex. The system allows creators to generate Lenses through plain-language descriptions, leveraging built-in AR components and AI asset generators without needing to write custom code directly.</p><p>Running on Mac, Windows, and Linux, the CLI is designed to lower the barrier to entry for game developers, brands, and individual creators looking to deploy web-based AR experiences and camera filters. Eligible developers can also monetize their creations through Snapchat's Lens+ Payouts program, which recently distributed $1.8 million to community creators.</p>
+<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/">techcrunch.com</a> | <a href="https://newsroom.snap.com/introducing-easy-lens-cli">newsroom.snap.com</a></p>
+<br clear="all" />
+
 <h2>Google Adds Temporary Threads Feature to AI Mode in Search</h2>
 <a name="story-27917"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.malaymail.com%2Fmalaymail%2Fuploads%2Fimages%2F2026%2F05%2F14%2F340951.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced a temporary threads feature for AI Mode in Search, enabling users to engage in conversational AI interactions without logging the data to their accounts. These private sessions are excluded from search history and do not affect future recommendations or personalization.</p><p>The feature is rolling out globally on both desktop and mobile devices across all supported languages. Users can initiate a temporary chat directly within the interface by selecting an icon in the upper-right corner, eliminating the need to manually adjust account settings.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27720"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mobigyaan.com%2Fwp-content%2Fuploads%2F2026%2F05%2FOpenAI-Daybreak-AI-platform-cyber-defenders.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI is partnering with NATO’s Communications and Information Agency (NCIA) through its Daybreak program to enhance Allied cyber defenses. The initiative provides NATO institutions with access to advanced AI models designed to detect software bugs, investigate suspicious network activity, and assist in deploying security fixes.</p><p>NATO utilizes up to 300 billion raw input and output tokens per month to support these cybersecurity operations. The Daybreak program is intended to offer government agencies and enterprise customers specialized AI capabilities for defensive technical tasks.</p>
 <p>Nov 17 · <a href="https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258?st=Konk45&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/">openai.com</a></p>
-<br clear="all" />
-
-<h2>Daydream Launches AI Fashion Stylist and Shopping Agent</h2>
-<a name="story-27764"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FaKtwDmhA-1.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Fashion startup Daydream has launched Daydream Agent, an AI-powered personal stylist designed to help users plan outfits, virtually try on clothing, and complete purchases. The agent pulls real-time pricing and availability from a catalog of over 10,000 brands to offer personalized recommendations based on individual style, fit preferences, and budgets.</p><p>Built on the company's previous AI shopping tools, the new agent features a persistent clothing rack for comparing items, tracking for sales and new drops, and the ability to integrate user closets and calendars to coordinate outfits. Daydream has also appointed international stylist Francesca Salih as its first Stylist in Residence to help shape the agent's styling capabilities alongside its automated technology.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/">techcrunch.com</a> | <a href="https://www.prnewswire.com/news-releases/daydream-launches-first-ever-autonomous-agent-for-fashion-shopping-styling-and-checkout-302941544.html">prnewswire.com</a></p>
 <br clear="all" />
 
 ---

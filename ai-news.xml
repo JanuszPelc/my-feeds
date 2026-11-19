@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Snapchat Releases Easy Lens CLI for AI Coding Assistants</title>
+    <link href="https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/::v240</id>
+    <published>2026-11-18T19:57:00+00:00</published>
+    <updated>2026-11-18T19:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FEasy-Lens-CLI-Announcement_Triptych.gif%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/">techcrunch.com</a> | <a href="https://newsroom.snap.com/introducing-easy-lens-cli">newsroom.snap.com</a></small></p><hr/><p>Snap has introduced the Easy Lens CLI, a new command-line tool that enables developers to build augmented reality Snapchat Lenses using AI coding assistants like Claude Code, Cursor, and Codex. The system allows creators to generate Lenses through plain-language descriptions, leveraging built-in AR components and AI asset generators without needing to write custom code directly.</p><p>Running on Mac, Windows, and Linux, the CLI is designed to lower the barrier to entry for game developers, brands, and individual creators looking to deploy web-based AR experiences and camera filters. Eligible developers can also monetize their creations through Snapchat's Lens+ Payouts program, which recently distributed $1.8 million to community creators.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FEasy-Lens-CLI-Announcement_Triptych.gif%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 01:06 UTC | #27921</small>]]></content>
+  </entry>
+  <entry>
     <title>Google Adds Temporary Threads Feature to AI Mode in Search</title>
     <link href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/" rel="alternate" />
     <id>https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/::v240</id>
