@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Pauses Zuckerberg Share Plan Amid Investor Legal Fight</h2>
+<a name="story-27934"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2022%2F03%2F18%2Fbusiness%2F18economy-briefing-zuckerberg%2F18economy-briefing-zuckerberg-videoSixteenByNine3000.jpg%3Fyear%3D2022%26h%3D1688%26w%3D3000%26s%3D52498b04dd4611ee52803f216676ce09883524740377b98e50bd4b91de7fbecf%26k%3DZQJBKqZ0VN%26tw%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta Platforms has agreed to pause the issuance of a new class of nonvoting Class C shares amid ongoing lawsuits from investors. The legal challenges seek to block the recapitalization plan, which aimed to fund heavy artificial intelligence investments without diluting CEO Mark Zuckerberg's voting stake.</p><p>Shareholders argue in the Delaware Chancery Court that the proposed share structure breaches fiduciary duties and protects Zuckerberg's control while potentially avoiding tax liabilities. With a preliminary injunction hearing set for January, the pause halts the implementation of the plan as the court proceedings advance.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Palo Alto Networks to Acquire Applied Compute for $4.5 Billion</h2>
 <a name="story-27935"><img src="https://wsrv.nl/?url=https%3A%2F%2Fquadrawealth.com%2Farticles%2Fwp-content%2Fuploads%2Felementor%2Fthumbs%2F7.-PALO-ALTO-Networks-Inc-qjcukduhgj02ga7msnmkvxrg68m0lr8wjecme18fpw.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Palo Alto Networks has agreed to acquire Applied Compute, an artificial intelligence startup founded last year by former OpenAI researchers, in an all-stock transaction valued at $4.5 billion. Applied Compute specializes in helping enterprises customize open-weight AI models for post-training and inference.</p><p>The acquisition is expected to close in fiscal Q3 2027, with Applied Compute co-founder and CEO Yash Patil slated to join Palo Alto Networks as co-chief AI officer. The startup was recently valued at $3.25 billion earlier in the month prior to the agreement.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27950"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2025%2F07%2FAI-Summaries-Reduced-Traffic.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>RevScope published a study revealing that Google AI Overviews reduce organic clicks to external websites by approximately 40 percent. The findings are based on a randomized experiment comparing search behavior among desktop users who encountered AI summaries versus those who did not.</p><p>The results underscore the significant impact of generative AI search features on publisher traffic and organic search visibility. As search engines increasingly prioritize direct answers, marketers and website owners face mounting challenges in maintaining referral traffic and user engagement.</p>
 <p>Nov 18 · <a href="https://revscope.co/blog/search-seo-geo-2026/">revscope.co</a> | <a href="https://news.ycombinator.com/item?id=50540178">hacker news</a></p>
-<br clear="all" />
-
-<h2>All About Berlin Loses 75 Percent of Traffic to Google AI Overviews</h2>
-<a name="story-27939"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnicolasbouliane.com%2Fimages%2Fcontent2x%2Fall-about-berlin-traffic-loss.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nicolas Bouliane, operator of the Berlin expat guide website All About Berlin, reports a 75 percent drop in traffic following the rollout of Google AI Overviews. Instead of directing users to independent websites, search results increasingly feature AI-generated summaries and advertisements, significantly reducing referral traffic to the publisher.</p><p>The traffic decline threatens the financial viability of the site, which has operated since 2017 and serves as the creator's full-time livelihood. Bouliane notes that similar independent publishers are facing parallel pressures, with many turning to paywalls or abandoning updates as search engines shift toward chat-based interfaces containing embedded ads.</p>
-<p>Nov 18 · <a href="https://nicolasbouliane.com/blog/death-by-ai">nicolasbouliane.com</a> | <a href="https://news.ycombinator.com/item?id=50542705">hacker news</a></p>
 <br clear="all" />
 
 ---
