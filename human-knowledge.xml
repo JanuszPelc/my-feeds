@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-18T19:12:00+00:00</updated>
+  <updated>2026-11-18T19:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>How Food Scientists Manufacture Plant-Based Meat Alternatives</title>
+    <link href="https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038" rel="alternate" />
+    <id>https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038::v240</id>
+    <published>2026-11-18T19:32:00+00:00</published>
+    <updated>2026-11-18T19:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772591%2Foriginal%2Ffile-20261117-64-4oej9e.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/a-convincing-vegan-meat-alternative-needs-both-taste-and-texture-heres-how-food-scientists-manufacture-them-296038">theconversation.com</a></small></p><hr/><p>Food scientists manufacture plant-based meat alternatives by transforming plant proteins from soybeans, peas, and wheat into structured, fibrous textures that mimic animal muscle. Because plant proteins behave differently than animal proteins, achieving the right bite, juiciness, and mouthfeel requires advanced processing techniques like high-moisture extrusion and precise formulation.</p><p>Emerging technologies such as 3D food printing offer further control over ingredient arrangement, allowing researchers to design protein-based food inks that deposit fat and protein in specific patterns. While these methods improve the texture and realism of plant-based options, balancing formulation, printability, and sensory appeal remains an ongoing challenge for food scientists.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772591%2Foriginal%2Ffile-20261117-64-4oej9e.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 00:40 UTC | #27924</small>]]></content>
+  </entry>
   <entry>
     <title>Fossil Teeth Reveal Homo Erectus Survived in Southern China Rainforests Later Than Thought</title>
     <link href="https://theconversation.com/the-secret-lives-of-our-early-ancestors-revealed-in-fossil-teeth-from-china-294055" rel="alternate" />

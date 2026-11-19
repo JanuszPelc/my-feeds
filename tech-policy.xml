@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-18T18:15:00+00:00</updated>
+  <updated>2026-11-18T19:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Trump Administration Weighs Requiring US Companies to Disclose Chinese AI Model Use</title>
+    <link href="https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/::v240</id>
+    <published>2026-11-18T19:14:00+00:00</published>
+    <updated>2026-11-18T19:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftheaicronicle.com%2Fstorage%2Farticles%2Fb2660028-dbef-4cfa-b596-720ea5ad30ed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/">reuters.com</a> | <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/reuters_trump_administration_weighs_forcing_us/">r/LocalLLaMA</a></small></p><hr/><p>The Trump administration is considering a requirement for U.S. companies to publicly disclose on their websites if they use Chinese artificial intelligence models. According to reporting by Reuters, the proposed disclosure rule aims to discourage domestic firms from utilizing Chinese AI technology without implementing outright bans or new legislative restrictions.</p><p>The policy initiative follows broader efforts by U.S. officials to scrutinize interactions between domestic companies and foreign AI capabilities amid rising geopolitical competition. Officials have increasingly targeted the adoption of foreign models as part of a wider strategy to secure technological supply chains and maintain American dominance in artificial intelligence.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaicronicle.com%2Fstorage%2Farticles%2Fb2660028-dbef-4cfa-b596-720ea5ad30ed.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 00:40 UTC | #27884</small>]]></content>
+  </entry>
   <entry>
     <title>PlayStation Wins Dismissal of $2.6 Billion UK Antitrust Lawsuit</title>
     <link href="https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly" rel="alternate" />
