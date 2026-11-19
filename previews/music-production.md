@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Spitfire Audio LABS and LABS+ Sunset Announced</h2>
+<a name="story-27997"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.uaudio.com%2Fhc%2Farticle_attachments%2F50889853738900&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Spitfire Audio has announced that its LABS and LABS+ platforms will be sunset on October 31, 2026. Following this deadline, the products will no longer receive new content, updates, or technical support, with all future developments moving to the Splice INSTRUMENT platform. While current LABS installations will continue to function, they will lack compatibility updates for new operating systems or DAWs, and users are encouraged to migrate their content to Splice to ensure continued functionality.</p><p>The decision follows Splice's acquisition of Spitfire Audio in early 2025 and the prior introduction of LABS+ as a paid subscription tier. The transition has drawn criticism for shifting the focus of a long-standing free project toward monetization, potentially alienating the budget-conscious creator demographic that the LABS brand originally served. While LABS content remains available on Splice INSTRUMENT, users must manually replace existing plugin instances in their projects to maintain compatibility.</p>
+<p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/spitfire-audio-labs-farewell/">bedroomproducersblog.com</a> | <a href="https://support.spitfireaudio.com/en/articles/12247087-what-is-happening-to-labs">support.spitfireaudio.com</a></p>
+<br clear="all" />
+
 <h2>FeelYourSound Updates ChordPotion to Version 2.7.0</h2>
 <a name="story-28010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fchordpotion_2-7-0_boxshot_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>FeelYourSound has released version 2.7.0 of ChordPotion, its MIDI sequencer and effect plug-in for VST and AU formats. The update introduces a MIDI converter and importer with an editor, allowing users to clone the playing style of any MIDI file and apply it to different chord progressions.</p><p>Additional enhancements in version 2.7.0 include 4x and 8x speed resolution per row, and support for sequences containing up to 1024 steps. Accompanying the software update, the developer is offering a 20% discount on ChordPotion as part of an early Black Friday promotion running until December 6, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27879"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fnew-ripx-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hit'n'Mix has released RipX DAW 9 and RipX DAW PRO 9, which include improvements to note detection, extraction, and automatic pitch snapping. The update also features enhanced barline and key detection, improved instrument sound replacement, and a metronome count-in that follows the beat in the bar.</p><p>The release includes upgraded Harmony, Vibrato, Reverb, Shimmer, and Saturation effects, as well as new De-esser and Distortion modules. Additionally, the optimized "Smaller Rips" feature is enabled by default, reducing file sizes by five to six times without loss of audio quality.</p>
 <p>Nov 18 · <a href="https://musictech.com/news/gear/hitnmix-upgrades-ripx-daw-ninth-version-key-features/">musictech.com</a> | <a href="https://hitnmix.com/ripx-daw/">hitnmix.com</a></p>
-<br clear="all" />
-
-<h2>Playfair Audio Updates Dynamic Grading to Version 2.1</h2>
-<a name="story-27870"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdynamic-grading-2-1-screenshot-small.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Playfair Audio has released Dynamic Grading 2.1, a free update for existing version 2 owners that introduces a built-in peak limiter and new listen modes for isolating specific dynamic regions. The update also adds presentation latency compensation to keep meters and histograms in sync with audio processing across AU and VST3 formats.</p><p>Alongside the software update, Playfair Audio launched a redesigned website, user accounts, and a rent-to-own purchase option. The licensing system has transitioned from iLok to Playfair Audio accounts, allowing each license to be activated on up to four machines simultaneously while removing the hardware dongle requirement.</p>
-<p>Nov 18 · <a href="https://www.kvraudio.com/news/playfair-audio-updates-dynamic-grading-to-v2-1-with-peak-limiter-listen-modes-and-more-69900?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69900">kvraudio.com</a> | <a href="https://playfair-audio.com/blog/dynamic-grading-2-1">playfair-audio.com</a></p>
 <br clear="all" />
 
 ---

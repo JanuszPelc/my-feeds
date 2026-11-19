@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-19T03:48:00+00:00</updated>
+  <updated>2026-11-19T09:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Payward Agrees to Acquire Tribe Capital</title>
+    <link href="https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe" rel="alternate" />
+    <id>https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe::v240</id>
+    <published>2026-11-19T09:18:00+00:00</published>
+    <updated>2026-11-19T09:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftribeimpactcapital.com%2Fwp-content%2Fuploads%2F2026%2F01%2FEUAwards2022WinnerLIBanners3-Tribe-600x450-1-600x427.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe">coindesk.com</a></small></p><hr/><p>Payward, the parent company of the cryptocurrency exchange Kraken, has agreed to acquire Tribe Capital Management, a venture capital firm with $2.7 billion in assets under management. The firm was formerly led by Arjun Sethi, who also serves as a co-CEO of Kraken.</p><p>The acquisition is intended to expand Kraken’s private-market investment offerings. While the purchase price was not disclosed, the transaction is expected to close in the first quarter of 2027.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftribeimpactcapital.com%2Fwp-content%2Fuploads%2F2026%2F01%2FEUAwards2022WinnerLIBanners3-Tribe-600x450-1-600x427.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 14:45 UTC | #27976</small>]]></content>
+  </entry>
   <entry>
     <title>Palo Alto Networks Reports Q1 Revenue Up 39% and Agrees to Acquire Applied Compute</title>
     <link href="https://www.reuters.com/technology/palo-alto-buy-ai-startup-applied-compute-45-billion-2026-11-18/" rel="alternate" />

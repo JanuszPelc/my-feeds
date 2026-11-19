@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>New York Times Details Alibaba&#x27;s Use of Intermediaries to Access Nvidia Chips for Military-Linked Lab</h2>
 <a name="story-27966"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnewsinterpretation.com%2Fwp-content%2Fuploads%2F2026%2F02%2FUntitled-design-19.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alibaba utilized regional intermediaries such as Megaspeed and offshore data centers to acquire restricted Nvidia artificial intelligence chips. These computing resources were subsequently used to support a research laboratory with direct ties to the Chinese military.</p><p>The findings highlight the complex networks of shell companies and offshore operations employed to bypass United States export controls on advanced semiconductors. This reporting intensifies scrutiny surrounding how Chinese technology giants and military entities continue to secure high-performance hardware despite tightening trade restrictions.</p>
-<p>Nov 19 · <a href="https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html?unlocked_article_code=1.RlE.LNs4.VaGPGt5WhYLb&smid=url-share">nytimes.com</a></p>
+<p>Nov 19 · <a href="https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html?unlocked_article_code=1.RlE.LNs4.VaGPGt5WhYLb&smid=url-share">nytimes.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xzykl6/how_nvidia_chips_ended_up_within_reach_of_chinas/">r/technology</a></p>
 <br clear="all" />
 
 <h2>US Charges Russian National Igor D&#x27;iu Over Alleged Surveillance of Palantir Workers</h2>
