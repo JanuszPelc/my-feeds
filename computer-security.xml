@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-18T20:19:00+00:00</updated>
+  <updated>2026-11-18T21:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Palmer Luckey Warns AI-Powered Cyberattacks Are Outpacing Defenses</title>
+    <link href="https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/::v240</id>
+    <published>2026-11-18T21:36:00+00:00</published>
+    <updated>2026-11-18T21:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2F2025%2F05%2F18%2Fb3f72f53-fae7-40b2-a5fa-9b6253fb1764%2Fpalmer-luckey-video-alfonsi-3765086-640x360.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/">techcrunch.com</a></small></p><hr/><p>Speaking at The New York Times DealBook Summit, Anduril Industries co-founder Palmer Luckey warned that AI-powered cyberattacks are advancing faster than organizations can update their outdated technology systems. He noted that foreign adversaries are actively exploiting the widening gap between new attack capabilities and existing defense infrastructure.</p><p>The remarks coincided with recent technology outages that prompted government officials to address vulnerabilities exposed by advanced AI tools. While Luckey acknowledged that AI currently aids fast-moving attackers, he argued that organizations must accelerate their adoption of technology to ensure defenders eventually gain the upper hand.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2F2025%2F05%2F18%2Fb3f72f53-fae7-40b2-a5fa-9b6253fb1764%2Fpalmer-luckey-video-alfonsi-3765086-640x360.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 02:47 UTC | #27932</small>]]></content>
+  </entry>
   <entry>
     <title>Xint Discloses Remote Code Execution Vulnerabilities in NGINX</title>
     <link href="https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/" rel="alternate" />
