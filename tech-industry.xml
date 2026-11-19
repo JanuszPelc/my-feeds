@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T21:32:00+00:00</updated>
+  <updated>2026-11-18T21:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Delays Filing Routine Quarterly SEC Report 10-Q Amid Investigations</title>
+    <link href="https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/::v240</id>
+    <published>2026-11-18T21:58:00+00:00</published>
+    <updated>2026-11-18T21:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2ce3UA.img%3Fw%3D4206%26h%3D2804%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/">techcrunch.com</a></small></p><hr/><p>During its quarterly earnings call, Nvidia announced it would delay filing its routine quarterly 10-Q report with the SEC, with interim CEO Colette Kress stating the filing would arrive in the coming weeks without giving an immediate reason. Management later indicated to analysts that the delay relates to ongoing investigations and whether additional risk factors or disclosures must be included in the report.</p><p>The delay follows reports that the SEC is investigating Nvidia over whether its disclosures misled investors, compounding mounting legal and regulatory scrutiny. The company faces multiple federal inquiries regarding chip sales to China, congressional investigations, and an internal review following executive conduct allegations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2ce3UA.img%3Fw%3D4206%26h%3D2804%26m%3D4%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 03:01 UTC | #27936</small>]]></content>
+  </entry>
   <entry>
     <title>Palmer Luckey Argues Nvidia Should Reinstate Ousted CEO Jensen Huang</title>
     <link href="https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/" rel="alternate" />

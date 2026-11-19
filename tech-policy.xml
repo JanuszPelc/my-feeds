@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-18T19:34:00+00:00</updated>
+  <updated>2026-11-18T21:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Ukraine Uses Relay Drones and Missiles to Strike Kerch Bridge</title>
+    <link href="https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8?accessToken=zwAAAaHvwVfBkc9lxWhK9TJGAdOYeI-i7-jY-A.MEUCIFme8PCszdF-EQGko2ggycgSN-8r1pmnG3z0E0PtXdQIAiEAhzSp8M11tGOjiliRWt_CS5cgOjZ5RYYYCFTb5gpLBGI&amp;sharetype=gift&amp;token=fb19d551-6968-4bb9-aeea-5b4d75b6c7f7&amp;syn-25a6b1a6=1" rel="alternate" />
+    <id>https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8?accessToken=zwAAAaHvwVfBkc9lxWhK9TJGAdOYeI-i7-jY-A.MEUCIFme8PCszdF-EQGko2ggycgSN-8r1pmnG3z0E0PtXdQIAiEAhzSp8M11tGOjiliRWt_CS5cgOjZ5RYYYCFTb5gpLBGI&amp;sharetype=gift&amp;token=fb19d551-6968-4bb9-aeea-5b4d75b6c7f7&amp;syn-25a6b1a6=1::v240</id>
+    <published>2026-11-18T21:46:00+00:00</published>
+    <updated>2026-11-18T21:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-936936%3Fwidth%3D1280%26height%3D720&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8?accessToken=zwAAAaHvwVfBkc9lxWhK9TJGAdOYeI-i7-jY-A.MEUCIFme8PCszdF-EQGko2ggycgSN-8r1pmnG3z0E0PtXdQIAiEAhzSp8M11tGOjiliRWt_CS5cgOjZ5RYYYCFTb5gpLBGI&sharetype=gift&token=fb19d551-6968-4bb9-aeea-5b4d75b6c7f7&syn-25a6b1a6=1">ft.com</a></small></p><hr/><p>Ukraine launched a coordinated drone and missile attack that resulted in the partial collapse of the Kerch Bridge connecting the Crimean Peninsula to Russia. The operation utilized domestically developed Flamingo cruise missiles and airborne relay drones, or "flying modems," to maintain real-time pilot control and evade Russian air defenses.</p><p>The deployment of these communication relay networks allowed Ukrainian forces to bypass recent connection and speed restrictions imposed on Elon Musk’s Starshield satellite system. Both sides in the conflict increasingly rely on mesh modems and airborne relays to extend weapon operating ranges and ensure precision targeting despite heavy electronic jamming.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wsj.net%2Fim-936936%3Fwidth%3D1280%26height%3D720&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 03:00 UTC | #27905</small>]]></content>
+  </entry>
   <entry>
     <title>House Judiciary and Foreign Affairs Democrats Launch Probe Into Howard Lutnick's Nvidia Ties</title>
     <link href="https://www.politico.com/news/2026/11/18/democrats-congress-lutnick-nvidia-01171921" rel="alternate" />
