@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Reports AI Agents Complete 46% of Research Tasks</h2>
+<a name="story-27960"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQEZW5J4Fwhp1Q%2Farticle-cover_image-shrink_720_1280%2FB4DZwn1Xr5G8AI-%2F0%2F1770194843790%3Fe%3D2147483647%26v%3Dbeta%26t%3D32xzWG5jTGHkIAe9j8whj39MeiB48HYu1F416OY2dxc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI reports that AI agents are completing 46% of researchers' tasks lasting between two and four hours independently, a significant increase from 23% in March. The organization also revealed that the median researcher's daily agent spend has reached $2,400.</p><p>The data indicates that AI systems are increasingly capable of contributing to their own research and development workflows. This acceleration highlights the growing role of autonomous agentic systems in automating complex, multi-hour research operations and scaling internal R&amp;D capabilities.</p>
+<p>Nov 19 · <a href="https://openai.com/index/research-acceleration-jagged-frontier">openai.com</a></p>
+<br clear="all" />
+
 <h2>OpenAI Details Use of AI Models in Custom and AMD Chip Design</h2>
 <a name="story-27942"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.yottalabs.ai%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwy75wyma%2Fproduction%2Fad0d97d1e2d5b886237cc20fd5ce7853feec338d-1344x854.png%26w%3D1920%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has detailed how its frontier AI models helped accelerate the development of its custom inference chip, Jalapeño, achieving standard-cell area reductions across its vector and matrix units. The company also reported up to a 14 percent power, performance, and area improvement on AMD's flagship GPU IP through automated circuit rewrites.</p><p>In addition to production silicon optimizations, OpenAI evaluated successive model generations on open-source RISC-V processor cores, finding that models scored higher when designing from written specifications rather than optimizing existing designs. The company is also partnering with Synopsys to integrate frontier intelligence into electronic design automation tools used by chip engineers.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27788"><img src="https://wsrv.nl/?url=https%3A%2F%2Fclickup.com%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2FGemini-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google is expanding Gemini Tasks to hundreds of millions of free users on the Gemini 4 Hydrogen model. The feature allows the AI to perform administrative functions, including calling businesses to book appointments, making purchases through Google Pay, and signing into websites.</p><p>The tool was previously tested as Gemini Spark and was initially limited to Google AI Ultra subscribers. Users can activate the mode by toggling from "Chat" to "Tasks" within the Gemini app and can control it via text or voice commands.</p>
 <p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50551601">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google to Extend Gemini Temporary Chat Retention to Two Months</h2>
-<a name="story-27789"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21JlNM%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F340300b8-4679-4125-a69f-198ad8e1b107_1265x1265.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Gemini temporary chats and conversations made with history turned off will be retained for approximately two months rather than 72 hours. This global rollout, arriving in the Gemini app over the coming weeks, is intended to improve safety, security, and feedback processing.</p><p>The update includes new, separate controls for chat history and AI model training, enabling users to maintain conversation logs without including their data in training sets. This follows 30-day retention policies for temporary chats implemented by competitors OpenAI and Anthropic.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/">blog.google</a></p>
 <br clear="all" />
 
 ---
