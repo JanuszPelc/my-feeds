@@ -3,9 +3,27 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-18T22:19:00+00:00</updated>
+  <updated>2026-11-18T23:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Satya Nadella Warns That Much of Critical Infrastructure Is Unpatchable</title>
+    <link href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/::v240</id>
+    <published>2026-11-18T23:46:00+00:00</published>
+    <updated>2026-11-18T23:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.agilicus.com%2Fwww%2Fb0d29bd4-ai-cyber-criminal.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html">nytimes.com</a></small></p><hr/><p>Microsoft CEO Satya Nadella stated during the New York Times DealBook Summit that a significant portion of critical infrastructure, including connected firmware, HVAC systems, and transportation hardware, is unpatchable. He highlighted the growing security risks these vulnerabilities pose as AI-aided cyberattacks accelerate.</p><p>Nadella noted that the smartification of the economy has left many internet-connected devices exposed and difficult to secure. He also discussed how AI has lowered the barrier for sophisticated cyberattacks and compressed the timeline for vulnerability exploitation, forcing companies to push out patches instantly and risking system instability.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.agilicus.com%2Fwww%2Fb0d29bd4-ai-cyber-criminal.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 04:54 UTC | #27951</small>]]></content>
+  </entry>
+  <entry>
+    <title>Savyasachee Jha Examines IPv6 Prefix Delegation Failure Modes and Odhcpd</title>
+    <link href="https://savyasacheejha.com/posts/why-odhcpd/" rel="alternate" />
+    <id>https://savyasacheejha.com/posts/why-odhcpd/::v240</id>
+    <published>2026-11-18T23:32:00+00:00</published>
+    <updated>2026-11-18T23:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsavyasacheejha.com%2Fprocessed_images%2Fcover.9db9ddeebf162938.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://savyasacheejha.com/posts/why-odhcpd/">savyasacheejha.com</a> | <a href="https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50509141">hacker news</a></small></p><hr/><p>Savyasachee Jha details a recurring network issue where restarting the ISP connection on a custom Linux router leaves stale IPv6 addresses active on client devices, causing internet connectivity failures. The problem stems from systemd-networkd's lack of support for RFC 9096, which requires routers to advertise obsolete prefixes with zero preferred and valid lifetimes during renumbering events.</p><p>To resolve the issue, Jha integrated odhcpd from OpenWrt—an alternative router advertisement daemon that properly implements RFC 9096—into his NixOS router setup. The experience highlights the limitations of relying on general-purpose systemd utilities for server-side networking roles, demonstrating that specialized tools are often necessary to handle edge cases in home networking environments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsavyasacheejha.com%2Fprocessed_images%2Fcover.9db9ddeebf162938.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 04:53 UTC | #27977</small>]]></content>
+  </entry>
   <entry>
     <title>Inside Deutsche Bank Investigation Exposes Leaked Financial Records</title>
     <link href="https://www.inside-db.com/" rel="alternate" />
