@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-19T11:33:00+00:00</updated>
+  <updated>2026-11-19T11:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Association for Advancing Automation Reports 25 Percent Increase in North American Robot Orders for Third Quarter of 2026</title>
+    <link href="https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340" rel="alternate" />
+    <id>https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340::v240</id>
+    <published>2026-11-19T11:34:00+00:00</published>
+    <updated>2026-11-19T11:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Froboticsandautomationnews.com%2Fwp-content%2Fuploads%2F2025%2F11%2Findustrial-robots-adcerax-image-2-768x445.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340">ft.com</a> | <a href="https://www.automate.org/robotics/news/north-american-robot-orders-increase-24-8-in-third-quarter-of-2026">automate.org</a></small></p><hr/><p>North American companies ordered 10,989 industrial robots valued at $723.5 million during the third quarter of 2026, marking a 24.8% increase in units compared to the same period in 2025. According to data from the Association for Advancing Automation, the growth was largely driven by gains in automotive component manufacturing and semiconductor or electronics production.</p><p>Total orders for the first nine months of 2026 reached 28,984 robots. While the third-quarter surge reflects ongoing efforts by manufacturers to mitigate labor shortages, some industry observers note that the pace of automation remains constrained as the sector struggles to maintain international competitiveness.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Froboticsandautomationnews.com%2Fwp-content%2Fuploads%2F2025%2F11%2Findustrial-robots-adcerax-image-2-768x445.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 17:49 UTC | #27990</small>]]></content>
+  </entry>
   <entry>
     <title>Alphabet CIO Ruth Porat Pledges Local Community Support Amid Data Center Backlash</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/google-ruth--porat-pledges-data-center-local-support-amid-backlash" rel="alternate" />
