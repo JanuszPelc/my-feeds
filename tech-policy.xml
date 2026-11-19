@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-19T14:48:00+00:00</updated>
+  <updated>2026-11-19T15:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>TSMC and Samsung Suspend Chip Shipments to China Amid New US Export Controls</title>
+    <link href="https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74" rel="alternate" />
+    <id>https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74::v240</id>
+    <published>2026-11-19T15:30:00+00:00</published>
+    <updated>2026-11-19T15:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.techspot.com%2Fimages2%2Fnews%2Fbigimage%2F2022%2F11%2F2022-11-10-image-18.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74">ft.com</a></small></p><hr/><p>TSMC and Samsung Electronics have suspended shipments of certain semiconductor chips to Chinese customers following the introduction of new export controls by the US Commerce Department. The companies are currently seeking the necessary licenses to resume shipments while ensuring compliance with the updated regulations.</p><p>The suspension reflects the expanding scope of US restrictions on high-end technology and its impact on the global semiconductor supply chain. Both manufacturers are navigating the licensing process amidst heightened geopolitical scrutiny and trade barriers intended to limit China's access to advanced hardware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techspot.com%2Fimages2%2Fnews%2Fbigimage%2F2022%2F11%2F2022-11-10-image-18.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 20:45 UTC | #27998</small>]]></content>
+  </entry>
   <entry>
     <title>ICE Pays AT&amp;T Millions for Access to Call Records Through Data Analytical Services Program</title>
     <link href="https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/" rel="alternate" />
