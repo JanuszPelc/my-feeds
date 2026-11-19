@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>FeelYourSound Updates ChordPotion to Version 2.7.0</h2>
+<a name="story-28010"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fchordpotion_2-7-0_boxshot_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>FeelYourSound has released version 2.7.0 of ChordPotion, its MIDI sequencer and effect plug-in for VST and AU formats. The update introduces a MIDI converter and importer with an editor, allowing users to clone the playing style of any MIDI file and apply it to different chord progressions.</p><p>Additional enhancements in version 2.7.0 include 4x and 8x speed resolution per row, and support for sequences containing up to 1024 steps. Accompanying the software update, the developer is offering a 20% discount on ChordPotion as part of an early Black Friday promotion running until December 6, 2026.</p>
+<p>Nov 19 · <a href="https://www.kvraudio.com/news/feelyoursound-updates-chordpotion-to-v2-7-0---adds-new-midi-clone-feature-69950?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69950">kvraudio.com</a> | <a href="https://feelyoursound.com/chordpotion/">feelyoursound.com</a></p>
+<br clear="all" />
+
 <h2>XRL Records Releases Vox Shine v2.0 for Windows</h2>
 <a name="story-28000"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvox-shine-kvr-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>XRL Records has released version 2.0 of Vox Shine, a vocal processor plugin designed for Windows 10 and 11. The software functions as a VST3 plug-in and offers an optional standalone application to enhance vocal weight, presence, and high-frequency detail.</p><p>The plugin includes features to guide pitch toward a specific key and blend pitch-shifted harmonies with original vocals. A free license is available for a limited time on the official product page, which requires an XRL Records account and an internet connection for activation.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27870"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdynamic-grading-2-1-screenshot-small.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Playfair Audio has released Dynamic Grading 2.1, a free update for existing version 2 owners that introduces a built-in peak limiter and new listen modes for isolating specific dynamic regions. The update also adds presentation latency compensation to keep meters and histograms in sync with audio processing across AU and VST3 formats.</p><p>Alongside the software update, Playfair Audio launched a redesigned website, user accounts, and a rent-to-own purchase option. The licensing system has transitioned from iLok to Playfair Audio accounts, allowing each license to be activated on up to four machines simultaneously while removing the hardware dongle requirement.</p>
 <p>Nov 18 · <a href="https://www.kvraudio.com/news/playfair-audio-updates-dynamic-grading-to-v2-1-with-peak-limiter-listen-modes-and-more-69900?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69900">kvraudio.com</a> | <a href="https://playfair-audio.com/blog/dynamic-grading-2-1">playfair-audio.com</a></p>
-<br clear="all" />
-
-<h2>zZounds Offers Early Black Friday Discounts on Music Equipment</h2>
-<a name="story-27864"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fzzounds-bf-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>zZounds has released early Black Friday 2026 discounts on various music technology products. These include Akai MIDI controllers, Roland synthesizers, Shure microphones, and KRK studio monitors.</p><p>Specific offers include the Akai MPK Mini IV for $89 and the Roland FANTOM 6 with a $420 discount. These promotions are available leading up to the official Black Friday date on November 27.</p>
-<p>Nov 18 · <a href="https://musictech.com/news/gear/zzounds-best-black-friday-music-deals-2026/">musictech.com</a> | <a href="https://www.zzounds.com/a--3990787">zzounds.com</a></p>
 <br clear="all" />
 
 ---
