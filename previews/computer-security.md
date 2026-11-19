@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>PHP Schedules Critical Security Releases for November 19, 2026</h2>
+<a name="story-27983"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.corefinity.com%2Fassets%2Fimg%2Fguides%2Fsecurity%2Fphp-net-2026-11-18.webp%3Fv%3Dbc916917da&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The PHP security team has scheduled critical security releases for Thursday, 19 November 2026, between 14:00 and 14:30 UTC. These updates will address vulnerabilities affecting all supported PHP versions, with the highest severity rated as CRITICAL. These specific issues primarily affect installations using non-default configurations or uncommon setups, and the team advises users to prepare for immediate upgrades once the releases are published.</p><p>This announcement follows a period of significant security activity, including the October 2026 release of patches for two unauthenticated remote code execution (RCE) vulnerabilities. The scheduled security release also coincides with the planned GA launch of PHP 8.6.0. Users are encouraged to monitor the official PHP website for technical details and specific fixed version numbers to be published alongside the November 19 release.</p>
+<p>Nov 18 · <a href="https://www.php.net/archive/2026.php#2026-11-18-1">php.net</a> | <a href="https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release">lobsters</a></p>
+<br clear="all" />
+
 <h2>Satya Nadella Warns That Much of Critical Infrastructure Is Unpatchable</h2>
 <a name="story-27951"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.agilicus.com%2Fwww%2Fb0d29bd4-ai-cyber-criminal.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft CEO Satya Nadella stated during the New York Times DealBook Summit that a significant portion of critical infrastructure, including connected firmware, HVAC systems, and transportation hardware, is unpatchable. He highlighted the growing security risks these vulnerabilities pose as AI-aided cyberattacks accelerate.</p><p>Nadella noted that the smartification of the economy has left many internet-connected devices exposed and difficult to secure. He also discussed how AI has lowered the barrier for sophisticated cyberattacks and compressed the timeline for vulnerability exploitation, forcing companies to push out patches instantly and risking system instability.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27791"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcolitco.com%2Fwp-content%2Fuploads%2F2025%2F06%2FA-multi-commodity-story-with-potential-near-term-gold-production-2025-06-25T113602.036.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple Apple services, including iCloud, the App Store, and Apple Music, experienced disruptions on November 17, 2026. The issues specifically impacted iCloud's Account &amp; Sign In services, which could prevent users from signing in or cause the service to be unavailable.</p><p>Apple stated the outages were caused by an internal update rather than a cyberattack. This disruption follows a week of technical failures at other major technology companies, including Microsoft.</p>
 <p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/">techcrunch.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Google Denies Gmail Outage Reports</h2>
-<a name="story-27810"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FOBEPJS2G5ZDUHNXAYFBTKUBZMI.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google announced via X that its Gmail service is operating normally, addressing reports of service disruptions circulating on Downdetector and social media. Recent tech outages affecting Apple and Microsoft, as well as disruptions in aviation and banking, have heightened concerns regarding the reliability of major tech services.</p><p>Director of National Intelligence Jay Clayton stated that recent service instabilities show no evidence of coordinated cyberattacks or state-sponsored activity. Instead, the increase in issues is attributed to businesses more frequently patching systems to defend against vulnerabilities that AI-driven tools are becoming more adept at uncovering.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/">techcrunch.com</a> | <a href="https://x.com/NewsFromGoogle/status/2122773134453657666">x.com</a></p>
 <br clear="all" />
 
 ---

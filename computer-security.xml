@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-18T23:46:00+00:00</updated>
+  <updated>2026-11-18T23:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>PHP Schedules Critical Security Releases for November 19, 2026</title>
+    <link href="https://www.php.net/index.php#2026-11-18-1" rel="alternate" />
+    <id>https://www.php.net/index.php#2026-11-18-1::v240</id>
+    <published>2026-11-18T23:53:00+00:00</published>
+    <updated>2026-11-18T23:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.corefinity.com%2Fassets%2Fimg%2Fguides%2Fsecurity%2Fphp-net-2026-11-18.webp%3Fv%3Dbc916917da&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.php.net/archive/2026.php#2026-11-18-1">php.net</a> | <a href="https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release">lobsters</a></small></p><hr/><p>The PHP security team has scheduled critical security releases for Thursday, 19 November 2026, between 14:00 and 14:30 UTC. These updates will address vulnerabilities affecting all supported PHP versions, with the highest severity rated as CRITICAL. These specific issues primarily affect installations using non-default configurations or uncommon setups, and the team advises users to prepare for immediate upgrades once the releases are published.</p><p>This announcement follows a period of significant security activity, including the October 2026 release of patches for two unauthenticated remote code execution (RCE) vulnerabilities. The scheduled security release also coincides with the planned GA launch of PHP 8.6.0. Users are encouraged to monitor the official PHP website for technical details and specific fixed version numbers to be published alongside the November 19 release.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.corefinity.com%2Fassets%2Fimg%2Fguides%2Fsecurity%2Fphp-net-2026-11-18.webp%3Fv%3Dbc916917da&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 05:45 UTC | #27983</small>]]></content>
+  </entry>
   <entry>
     <title>Satya Nadella Warns That Much of Critical Infrastructure Is Unpatchable</title>
     <link href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/" rel="alternate" />
