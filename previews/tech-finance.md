@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Lenovo Reports Q2 Revenue Growth Driven by AI Demand Amid Net Loss</h2>
+<a name="story-27986"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.lenovonews.fiestic.com%2F2022%2F08%2F08015158%2FMicrosoftTeams-image-16.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Lenovo reported Q2 revenue of $30.2 billion, a 48% increase year-over-year, fueled by strong demand for AI hardware and servers. Despite the top-line growth, the company posted a net loss of $640 million, which significantly exceeded analyst expectations of a $38 million loss and marked its first operating loss since 2017.</p><p>The decline in profitability is primarily attributed to rising costs for PC components. While the $640 million loss is a statutory figure under Hong Kong reporting rules influenced by non-cash warrant fair-value charges, the company reported positive adjusted net income and noted a 79% surge in AI-related sales as a cornerstone of its long-term strategy.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand">bloomberg.com</a> | <a href="https://news.lenovo.com/pressroom/press-releases/q2-fy-2026-27/">news.lenovo.com</a></p>
+<br clear="all" />
+
 <h2>MegaRobo Technologies Raises Nearly $200 Million in Oman-Backed Funding</h2>
 <a name="story-27979"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F19%2Fsmall%2F4312064_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Beijing-based MegaRobo Technologies, a company specializing in robotics and AI to automate laboratory work for biotech research, has raised nearly $200 million in a new funding round. The investment includes participation from the Oman Investment Authority, the nation's sovereign wealth fund, as well as CMB International, Asia Investment Capital, Granite Asia, and Sinovation Ventures.</p><p>The company plans to use the capital to develop its core technology and AI infrastructure for complex environments, while expanding its presence in Europe, North America, the Middle East, and Asia. MegaRobo reached unicorn status in 2022 after securing a $300 million Series C round.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27715"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fyoung-beautiful-fashion-model-21622085.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Model ML has raised $250 million in a funding round valuing the artificial intelligence startup at $1.5 billion. The company develops AI agents integrated into Excel and PowerPoint to automate pitch decks, research, and due diligence tasks for financial professionals.</p><p>Founded by Chaz and Arnie Englander, Model ML focuses on streamlining routine workflows for bankers, consultants, and investors. The substantial financing highlights continued investor backing for vertical AI tools targeting enterprise productivity and financial services.</p>
 <p>Nov 17 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>JD.com Reports Third-Quarter Revenue and Net Income Growth</h2>
-<a name="story-27713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20251114%2Fjdq3-1-18f977ed6bb4446ab97038a29ce8a1d5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>JD.com reported third-quarter revenue of approximately $46.4 billion, marking a 3.5% increase year-over-year that met analyst expectations. Net income for the quarter rose 22% to approximately $975 million, reflecting resilient performance despite an intensely competitive retail market and a sluggish domestic economy.</p><p>The financial results highlight the company's ability to maintain stable growth amid broader macroeconomic headwinds in China. The company's primary retail segment contributed steady operating income as management navigated shifting consumer spending patterns and aggressive pricing pressures.</p>
-<p>Nov 17 · <a href="https://www.bloomberg.com/news/articles/2026-11-17/jd-com-sales-rise-in-face-of-sluggish-china-economy-competition">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/17/3404344/0/en/jd-com-announces-third-quarter-2026-results.html">globenewswire.com</a></p>
 <br clear="all" />
 
 ---
