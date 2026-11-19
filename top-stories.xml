@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-18T23:26:00+00:00</updated>
+  <updated>2026-11-19T03:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Anthropic Considers Upsizing IPO Offering Amid High Investor Demand</title>
+    <link href="https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html::v240</id>
+    <published>2026-11-19T03:26:00+00:00</published>
+    <updated>2026-11-19T03:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260415%2Fanthropic-openai-ipo-valuation-800-billion-2-f6a41f7f41d946d290fd505a5cf4cdea.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html">cnbc.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xzu3ua/anthropic_reportedly_prices_ipo_at_83_a_share/">r/technology</a></small></p><hr/><p>Anthropic is weighing an increase to its initial public offering size as institutional demand approaches $400 billion and retail interest nears $100 billion. The artificial intelligence lab closed its order books after initially setting a price range of $70 to $78 per share for 825 million shares, with final pricing decisions expected following market close.</p><p>The strong investor response surpasses demand seen during SpaceX's public debut, highlighting major market interest in the Claude creator's Nasdaq listing. The offering serves as a critical test for the broader artificial intelligence sector amid rising industry challenges, following explosive revenue growth that reached an $81 billion run-rate by the end of October.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fresource.tradingkey.com%2Fuploads%2F20260415%2Fanthropic-openai-ipo-valuation-800-billion-2-f6a41f7f41d946d290fd505a5cf4cdea.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 03:25 UTC | #27913 | t,hr</small>]]></content>
+  </entry>
   <entry>
     <title>NVIDIA Reports Third Quarter Fiscal 2027 Financial Results</title>
     <link href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027" rel="alternate" />
