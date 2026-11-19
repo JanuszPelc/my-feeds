@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;RevScope Analysis Shows Google AI Overviews Reduce Website Clicks by 40 Percent</h2>
+<a name="story-27950"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2025%2F07%2FAI-Summaries-Reduced-Traffic.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>RevScope published a study revealing that Google AI Overviews reduce organic clicks to external websites by approximately 40 percent. The findings are based on a randomized experiment comparing search behavior among desktop users who encountered AI summaries versus those who did not.</p><p>The results underscore the significant impact of generative AI search features on publisher traffic and organic search visibility. As search engines increasingly prioritize direct answers, marketers and website owners face mounting challenges in maintaining referral traffic and user engagement.</p>
+<p>Nov 19 · <a href="https://revscope.co/blog/search-seo-geo-2026/">revscope.co</a> | <a href="https://news.ycombinator.com/item?id=50540178">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="../images/human-knowledge.png" width="28" align="texttop" /> &nbsp;Fossil Teeth Reveal Homo Erectus Survived in Southern China Rainforests Later Than Thought</h2>
 <a name="story-27925"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772316%2Foriginal%2Ffile-20261117-64-ru0qsj.JPG%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Analysis of nine human teeth recovered from two neighboring caves in Guangxi province, China, indicates that Homo erectus survived in the region until between 324,000 and 184,000 years ago. This timeline places the species in mainland China 100,000 to 200,000 years later than previous estimates suggested.</p><p>Chemical signatures extracted from the fossil enamel and surrounding cave sediments reveal that these ancient humans inhabited dense tropical rainforests and traveled widely across the landscape during their childhoods. The findings challenge long-held assumptions that Homo erectus was restricted to open woodland environments and unable to adapt to demanding rainforest habitats.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6XttKhMddBzO6pT2IY2brG%2F841e9a215931057aeb578e1aa45f9bb4%2Fcareer-website-dark-v3.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has released GPT-6.2 Astra, a frontier model for complex professional and scientific tasks, and GPT-6.2 Sol, an efficient model for everyday work. Both models prioritize token efficiency to reduce costs and increase usage capacity compared to previous versions.</p><p>Astra provides specialized capabilities in coding, 3D design, and scientific simulation, including advanced computer use for CAD tools. The models include enhanced safety safeguards for biological and cybersecurity risks, with Astra meeting a "High" threshold for AI self-improvement capabilities.</p>
 <p>Nov 18 · <a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">openai.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyr3ia/introducing_gpt62_astra_and_sol/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50535230">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/music-production.png" width="28" align="texttop" /> &nbsp;Sylvia Massy Discusses Vintage Microphones and Recording Techniques on My Forever Studio Podcast</h2>
-<a name="story-27725"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsylvia-massy-mfs-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Grammy-winning producer Sylvia Massy discusses her experience recording for artists such as Prince and Tool, her collection of over 3,000 vintage microphones, and her new book, *The Great Book of Vintage Microphones*.</p><p>As part of the eighth season of the *My Forever Studio* podcast, Massy shares insights into her unconventional approach to sound capture and her use of esoteric microphones.</p>
-<p>Nov 18 · <a href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-sylvia-massy/">musictech.com</a></p>
 <br clear="all" />
 
 ---

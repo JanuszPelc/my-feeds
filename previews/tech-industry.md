@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Leopold Aschenbrenner Discusses Rebooting Situational Awareness Fund With Leverage</h2>
+<a name="story-27946"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.fintel.io%2Fsituational-awareness-lp-5020-market-value.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI trader Leopold Aschenbrenner has reportedly held discussions about launching "Situational Awareness 2.0," a reboot of his hedge fund that would utilize leverage and outside capital. The talks come roughly four months after Citadel stepped in to rescue his previous fund following severe drawdowns in AI-focused public equities.</p><p>Aschenbrenner’s original Situational Awareness fund suffered a major collapse after heavy directional bets and fourfold leverage led to steep losses. Despite the prior wipeout, discussions regarding a new leveraged venture indicate ongoing interest in high-stakes trading strategies within the artificial intelligence sector.</p>
+<p>Nov 19 · <a href="https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639">ft.com</a></p>
+<br clear="all" />
+
 <h2>Meta Pauses Zuckerberg Share Plan Amid Investor Legal Fight</h2>
 <a name="story-27934"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2022%2F03%2F18%2Fbusiness%2F18economy-briefing-zuckerberg%2F18economy-briefing-zuckerberg-videoSixteenByNine3000.jpg%3Fyear%3D2022%26h%3D1688%26w%3D3000%26s%3D52498b04dd4611ee52803f216676ce09883524740377b98e50bd4b91de7fbecf%26k%3DZQJBKqZ0VN%26tw%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta Platforms has agreed to pause the issuance of a new class of nonvoting Class C shares amid ongoing lawsuits from investors. The legal challenges seek to block the recapitalization plan, which aimed to fund heavy artificial intelligence investments without diluting CEO Mark Zuckerberg's voting stake.</p><p>Shareholders argue in the Delaware Chancery Court that the proposed share structure breaches fiduciary duties and protects Zuckerberg's control while potentially avoiding tax liabilities. With a preliminary injunction hearing set for January, the pause halts the implementation of the plan as the court proceedings advance.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27886"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thedefensenews.com%2Fpostimages%2Fb46bb3cb1bcb454280698270051daa0c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ByteDance is reportedly in advanced talks with Microsoft to spend approximately $500 million on Azure cloud services, primarily to gain access to OpenAI models. The arrangement has drawn complaints from OpenAI, highlighting tensions over how Microsoft distributes access to the technology.</p><p>The deal underscores Microsoft's role as a major intermediary providing foreign tech companies, including Chinese giants, with access to advanced Western artificial intelligence models. This dynamic operates amidst broader regulatory scrutiny regarding the security implications of Chinese entities utilizing sophisticated AI tools hosted outside their borders.</p>
 <p>Nov 18 · <a href="https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>RevScope Analysis Shows Google AI Overviews Reduce Website Clicks by 40 Percent</h2>
-<a name="story-27950"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2025%2F07%2FAI-Summaries-Reduced-Traffic.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>RevScope published a study revealing that Google AI Overviews reduce organic clicks to external websites by approximately 40 percent. The findings are based on a randomized experiment comparing search behavior among desktop users who encountered AI summaries versus those who did not.</p><p>The results underscore the significant impact of generative AI search features on publisher traffic and organic search visibility. As search engines increasingly prioritize direct answers, marketers and website owners face mounting challenges in maintaining referral traffic and user engagement.</p>
-<p>Nov 18 · <a href="https://revscope.co/blog/search-seo-geo-2026/">revscope.co</a> | <a href="https://news.ycombinator.com/item?id=50540178">hacker news</a></p>
 <br clear="all" />
 
 ---
