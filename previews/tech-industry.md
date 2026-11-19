@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Elon Musk Criticizes Nvidia Board Over Jensen Huang Ouster at DealBook Summit</h2>
+<a name="story-27948"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheusreport.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNvidia-CEO-Jensen-Huang-resignation-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>At The New York Times DealBook Summit, Elon Musk criticized Nvidia's board for ousting CEO Jensen Huang following public disclosures regarding extramarital affairs. Musk likened Huang's departure to removing Michael Jordan from a winning sports team and stated that he would gladly hire him at X.</p><p>Musk previously signed a petition urging Nvidia to reinstate Huang, though the company's board has confirmed it has no plans to reappoint him. While other technology leaders like Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman expressed confidence in Nvidia's interim leadership, Anduril CEO Palmer Luckey echoed Musk's concerns that removing Huang weakens the company's position.</p>
+<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/">techcrunch.com</a></p>
+<br clear="all" />
+
+<h2>Microsoft CEO Satya Nadella Expresses Confidence in Nvidia Following Jensen Huang&#x27;s Departure</h2>
+<a name="story-27947"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FbnJVQdMkFHUddjVeGAeNdR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Microsoft CEO Satya Nadella expressed continued confidence in Nvidia during an appearance at the New York Times DealBook Summit, following the sudden departure of longtime CEO Jensen Huang. Nadella praised interim CEO and former Microsoft executive Colette Kress, stating that he maintains strong working relationships with the company's core leadership team.</p><p>Huang stepped down after 33 years following public disclosures regarding personal relationships, including an affair with an executive whom U.S. officials suspect of being a foreign intelligence operative. Reflecting on the role of corporate leaders, Nadella remarked that while founders are singular figures who create enterprises from nothing, companies must ultimately transition to new leadership to ensure sustained success.</p>
+<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Microsoft CEO Satya Nadella Predicts AI Agents Will Reshuffle Web Economics</h2>
 <a name="story-27945"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGettyImages-2305773211.jpg%3Fw%3D594&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft CEO Satya Nadella stated at the New York Times DealBook Summit that autonomous AI agents will fundamentally alter internet economics, disrupting traditional advertising business models built on human traffic. He argued that the transition from a human-centric web to an agentic web will force companies to shift away from pay-per-click advertising toward direct transactional frameworks.</p><p>Nadella noted that companies attempting to protect existing business models by blocking AI agents—such as Amazon restricting automated access to its retail catalog—risk losing market share to competitors like Shopify that embrace agentic commerce. He compared this structural shift to the historical transition from web portals like Yahoo to search engines like Google.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27843"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.tweaktown.com%2Fnews%2F1%2F1%2F114751_2_youtube-view-counts-now-include-estimated-co-viewers-so-one-tv-play-can-count-as-several-views.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>YouTube is updating its public view counts to include estimated "co-views," which represent the number of people watching a video together on a television. This update applies to long-form videos, Shorts, and live content to provide a more comprehensive measurement of platform usage and align with television industry standards.</p><p>The system uses a privacy-safe statistical model based on demographic patterns and viewing times instead of using cameras or microphones. These estimated co-views apply only to new TV views moving forward and do not affect creator ad revenue, YouTube Partner Program eligibility, or earnings.</p>
 <p>Nov 18 · <a href="https://www.theverge.com/streaming/1035683/youtube-co-views-count">theverge.com</a> | <a href="https://support.google.com/youtube/answer/2991785">support.google.com</a></p>
-<br clear="all" />
-
-<h2>Former Nvidia Executive Jay Puri Oversaw Chip Customers Including Alice Huang</h2>
-<a name="story-27840"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.etimg.com%2Fthumb%2Fmsid-121168035%2Cwidth-650%2Cheight-488%2Cimgsize-835302%2Cresizemode-75%2Fnvidia-jay-puri-salary.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Former Nvidia sales chief Jay Puri oversaw major chip customers, including Alice Huang, and controlled chip sales to Supermicro. Puri is also married to a former Supermicro executive.</p><p>These connections come as authorities investigate the potential diversion of Nvidia chips to China via entities linked to Huang and Supermicro. Short-seller Muddy Waters has highlighted the ties between Puri and former Supermicro Chief Growth Officer Cenly Chen.</p>
-<p>Nov 18 · <a href="https://www.theinformation.com/articles/jensen-huangs-right-hand-man-oversaw-chip-customers-including-alice-huang">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Some Nvidia Directors Push for Jensen Huang&#x27;s Return Despite Board Opposition</h2>
-<a name="story-27837"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.proactiveinvestors.com%2FeyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzAxXC8yMDI1LTAzLTE4LTE1LTE2LTQ3LWUzNDJmZjU5ZjBlMjgwZWFmNjNmOGZkM2UzMjAyMzZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo3MjAsImZpdCI6ImNvdmVyIn19fQ%3D%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A faction of Nvidia board members is pushing to reinstate ousted CEO Jensen Huang, despite official company statements claiming the board unanimously accepted his resignation and has no intention of bringing him back. Huang has reportedly held discussions with tech executives and at least one board member regarding a potential return, stating he is willing to serve if it serves the best interests of shareholders, employees, and the company.</p><p>While Nvidia chairman Harvey Jones maintains that the board is not considering Huang's return, the company is narrowing its search for a successor. Potential candidates currently under consideration include ARM CEO Rene Haas and Marvell CEO Matt Murphy.</p>
-<p>Nov 18 · <a href="https://www.semafor.com/article/11/17/2026/some-nvidia-directors-push-to-bring-huang-back-despite-board-opposition">semafor.com</a></p>
 <br clear="all" />
 
 ---

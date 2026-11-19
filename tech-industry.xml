@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T22:59:00+00:00</updated>
+  <updated>2026-11-18T23:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Elon Musk Criticizes Nvidia Board Over Jensen Huang Ouster at DealBook Summit</title>
+    <link href="https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/::v240</id>
+    <published>2026-11-18T23:26:00+00:00</published>
+    <updated>2026-11-18T23:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftheusreport.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNvidia-CEO-Jensen-Huang-resignation-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/">techcrunch.com</a></small></p><hr/><p>At The New York Times DealBook Summit, Elon Musk criticized Nvidia's board for ousting CEO Jensen Huang following public disclosures regarding extramarital affairs. Musk likened Huang's departure to removing Michael Jordan from a winning sports team and stated that he would gladly hire him at X.</p><p>Musk previously signed a petition urging Nvidia to reinstate Huang, though the company's board has confirmed it has no plans to reappoint him. While other technology leaders like Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman expressed confidence in Nvidia's interim leadership, Anduril CEO Palmer Luckey echoed Musk's concerns that removing Huang weakens the company's position.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheusreport.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNvidia-CEO-Jensen-Huang-resignation-2026.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 04:28 UTC | #27948</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft CEO Satya Nadella Expresses Confidence in Nvidia Following Jensen Huang's Departure</title>
+    <link href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/::v240</id>
+    <published>2026-11-18T23:18:00+00:00</published>
+    <updated>2026-11-18T23:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FbnJVQdMkFHUddjVeGAeNdR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/">techcrunch.com</a></small></p><hr/><p>Microsoft CEO Satya Nadella expressed continued confidence in Nvidia during an appearance at the New York Times DealBook Summit, following the sudden departure of longtime CEO Jensen Huang. Nadella praised interim CEO and former Microsoft executive Colette Kress, stating that he maintains strong working relationships with the company's core leadership team.</p><p>Huang stepped down after 33 years following public disclosures regarding personal relationships, including an affair with an executive whom U.S. officials suspect of being a foreign intelligence operative. Reflecting on the role of corporate leaders, Nadella remarked that while founders are singular figures who create enterprises from nothing, companies must ultimately transition to new leadership to ensure sustained success.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FbnJVQdMkFHUddjVeGAeNdR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 04:27 UTC | #27947</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft CEO Satya Nadella Predicts AI Agents Will Reshuffle Web Economics</title>
     <link href="https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/" rel="alternate" />
@@ -550,14 +568,5 @@
     <updated>2026-11-14T05:05:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">techpowerup.com</a> | <a href="https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50493251">hacker news</a></small></p><hr/><p>A report from The Wall Street Journal alleges that Nvidia artificially inflated the shortage of GPUs and memory by investing in AI startups that subsequently purchased Nvidia hardware to build data centers. The strategy was reportedly intended to maintain high demand perceptions and absorb an oversupply of semiconductors manufactured by TSMC.</p><p>The report highlights internal friction between former Nvidia CEO Jensen Huang and CFO Colette Kress over circular financing agreements and commitments to small-scale cloud providers. These investments faced challenges as hyperscalers increasingly shifted toward custom silicon solutions and smaller startups struggled to afford the hardware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FooCln2q3jkKNGHen.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 15:50 UTC | #27496</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sam Bankman-Fried Misses Multi-Billion-Dollar Anthropic Windfall</title>
-    <link href="https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&amp;sharetype=gift&amp;token=b0dedc93-80dc-4cab-9250-cec64180d7fc&amp;syn-25a6b1a6=1" rel="alternate" />
-    <id>https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&amp;sharetype=gift&amp;token=b0dedc93-80dc-4cab-9250-cec64180d7fc&amp;syn-25a6b1a6=1::v240</id>
-    <published>2026-11-14T04:26:00+00:00</published>
-    <updated>2026-11-14T04:26:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.ccn.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fsam-bankman-blocked-ftx-anthropic-ai-investment-prosecutors-worried.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&sharetype=gift&token=b0dedc93-80dc-4cab-9250-cec64180d7fc&syn-25a6b1a6=1">ft.com</a></small></p><hr/><p>Jailed former FTX chief executive Sam Bankman-Fried missed out on a massive financial windfall from his early backing of artificial intelligence lab Anthropic. Through Alameda Research, he invested $500 million in 2021 for a nearly 14 percent stake when Anthropic was valued at approximately $4 billion.</p><p>That stake would have been worth roughly $37 billion had Anthropic listed at a projected $1.5 trillion valuation. However, following the collapse of FTX, the bankrupt crypto exchange's estate relinquished the stake in 2024 for about $1.3 billion to help repay creditors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ccn.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fsam-bankman-blocked-ftx-anthropic-ai-investment-prosecutors-worried.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 14:35 UTC | #27470</small>]]></content>
   </entry>
 </feed>
