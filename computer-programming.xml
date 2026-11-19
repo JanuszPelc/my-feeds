@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-18T20:12:00+00:00</updated>
+  <updated>2026-11-18T20:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ethan McCue Examines Java Memory Safety and Performance Following Java4Shell</title>
+    <link href="https://mccue.dev/pages/11-18-26-java4shell" rel="alternate" />
+    <id>https://mccue.dev/pages/11-18-26-java4shell::v240</id>
+    <published>2026-11-18T20:15:00+00:00</published>
+    <updated>2026-11-18T20:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2Fformat%3Awebp%2F1%2AK--sr1DzQ0zkPfQddfw5vg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://mccue.dev/pages/11-18-26-java4shell">mccue.dev</a> | <a href="https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java">lobsters</a></small></p><hr/><p>In the wake of the Java4Shell vulnerability affecting OpenJDK's Base64 encoding intrinsics, developer Ethan McCue argues that Java's architectural design offers robust security advantages over other programming languages. He emphasizes that Java programs are memory safe by default and require explicit command-line authorization to invoke native code, providing clear visibility into a project's exposure to native-level vulnerabilities.</p><p>McCue contrasts Java with languages like C#, Python, JavaScript, and Go, which inherently permit dependencies to integrate native code and inline assembly. He contends that Java's strict native access controls, combined with JIT compilation performance that rivals C++, reduce the necessity for native extensions and position Java well to handle security threats accelerated by automated auditing tools.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2Fformat%3Awebp%2F1%2AK--sr1DzQ0zkPfQddfw5vg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 02:10 UTC | #27961</small>]]></content>
+  </entry>
   <entry>
     <title>Solid 2.0 Released With Async Graph and Agent-Oriented Diagnostics</title>
     <link href="https://www.solidjs.com/blog/solid-2-0-the-long-hold" rel="alternate" />
@@ -381,14 +390,5 @@
     <updated>2026-11-14T03:47:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F6020671ce42574016fbb81b8%2F65ca249358f701585369f0a6_link-previews.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://sable.moe/en/blog/link-previews-and-you/">sable.moe</a> | <a href="https://lobste.rs/s/0rmq2f/link_previews_you">lobsters</a></small></p><hr/><p>Sable, an experimental Matrix client, has redesigned how it generates link previews to balance user privacy with client-side functionality. By moving away from centralized server-dependent fetching and introducing client-side generation along with a dedicated open-source library, the project aims to prevent IP address leaks and protect user data in encrypted rooms.</p><p>The team has also developed an OpenGraph extension specification for social media notes and deployed a custom proxy server called Soliditas to handle web client CORS limitations. These developments serve as an experimental testbed to inform broader Matrix protocol standards and improve preview consistency across platforms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-global.website-files.com%2F6020671ce42574016fbb81b8%2F65ca249358f701585369f0a6_link-previews.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 14:34 UTC | #27493</small>]]></content>
-  </entry>
-  <entry>
-    <title>Alistair Details Fix for WebKit Promise Hang Bug in Safari and Bun</title>
-    <link href="https://alistair.sh/thenables" rel="alternate" />
-    <id>https://alistair.sh/thenables::v240</id>
-    <published>2026-11-14T01:58:00+00:00</published>
-    <updated>2026-11-14T01:58:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews.lavx.hu%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnews.lavx.hu%2Fapi%2Fmedia%2Ffile%2Fa-16-line-webkit-fix-ended-a-promise-hang-in-safari-and-bun_gen_1794644801061-1200x630.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://alistair.sh/thenables">alistair.sh</a> | <a href="https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made">lobsters</a></small></p><hr/><p>An engineering analysis details a WebKit bug causing JavaScript promises to hang indefinitely in Safari and Bun when resolving a thenable whose constructor species getter throws an error. JavaScriptCore performed species lookups before creating resolving functions, allowing exceptions to escape and leaving promises permanently pending.</p><p>A 16-line patch resolves the issue by instantiating the resolve and reject functions prior to evaluating the thenable's `.then()` method, ensuring thrown errors correctly trigger promise rejections. The investigation also explores how JavaScript promise mechanics compare to railway-oriented programming and why TypeScript cannot statically type rejection values.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.lavx.hu%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnews.lavx.hu%2Fapi%2Fmedia%2Ffile%2Fa-16-line-webkit-fix-ended-a-promise-hang-in-safari-and-bun_gen_1794644801061-1200x630.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>14 Nov 2026, 12:17 UTC | #27490</small>]]></content>
   </entry>
 </feed>

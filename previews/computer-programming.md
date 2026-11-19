@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Ethan McCue Examines Java Memory Safety and Performance Following Java4Shell</h2>
+<a name="story-27961"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2Fformat%3Awebp%2F1%2AK--sr1DzQ0zkPfQddfw5vg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In the wake of the Java4Shell vulnerability affecting OpenJDK's Base64 encoding intrinsics, developer Ethan McCue argues that Java's architectural design offers robust security advantages over other programming languages. He emphasizes that Java programs are memory safe by default and require explicit command-line authorization to invoke native code, providing clear visibility into a project's exposure to native-level vulnerabilities.</p><p>McCue contrasts Java with languages like C#, Python, JavaScript, and Go, which inherently permit dependencies to integrate native code and inline assembly. He contends that Java's strict native access controls, combined with JIT compilation performance that rivals C++, reduce the necessity for native extensions and position Java well to handle security threats accelerated by automated auditing tools.</p>
+<p>Nov 18 · <a href="https://mccue.dev/pages/11-18-26-java4shell">mccue.dev</a> | <a href="https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java">lobsters</a></p>
+<br clear="all" />
+
 <h2>Solid 2.0 Released With Async Graph and Agent-Oriented Diagnostics</h2>
 <a name="story-27958"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdesignftw.mit.edu%2Flectures%2Fasync%2Fassets%2Freactivity%2Fstep-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SolidJS creator Ryan Carniato has announced the stable release of Solid 2.0, marking five years of development since version 1.0. The update integrates asynchronous capabilities directly into the reactive graph, moving server functions into core and bringing new runtime and compile-time diagnostics designed to assist AI coding agents.</p><p>The framework update also reduces its overall API surface by removing several primitives like createResource, batch, and createEffect. Additionally, the SolidStart metaframework has been retired in favor of core primitives and framework-agnostic Vite plugins, while maintaining full compatibility with ecosystem tooling like TanStack Query and Router.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27806"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.appuals.com%2Fwp-content%2Fuploads%2F2016%2F02%2F2016-02-21_074752-1024x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Credential-sharing and login-bypass service BugMeNot has shut down after operating for more than two decades. The website replaced its directory of shared accounts with a brief farewell message thanking users who envisioned a better internet, accompanied by an unexplained block of encoded characters.</p><p>Launched in 2003, BugMeNot allowed users to bypass mandatory registration walls on websites by providing crowdsourced login credentials. Its closure marks the end of an era for early web accessibility tools as modern security measures, including multi-factor authentication, have rendered traditional account-sharing increasingly obsolete.</p>
 <p>Nov 17 · <a href="https://www.bugmenot.com/">bugmenot.com</a> | <a href="https://news.ycombinator.com/item?id=50523601">hacker news</a></p>
-<br clear="all" />
-
-<h2>How the Rust Programming Language Shapes Developer Thinking</h2>
-<a name="story-27776"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thoughtworks.com%2Fcontent%2Fdam%2Fthoughtworks%2Fimages%2Fphotography%2Finline-image%2Finsights%2Fblog%2Fprogramming-languages%2Fblg_inline_rust_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>This essay examines how the Rust programming language influences software development mental models. The author discusses how Rust's specific features, such as sum types and the ownership model, require a shift in how developers approach architecture and problem-solving.</p><p>Key highlights include the efficiency of using enums for abstraction over dynamic dispatch and the ability of macros to perform compile-time tasks similar to runtime reflection. The author concludes that Rust's strictness regarding data mutation and ownership promotes more decoupled and maintainable codebases.</p>
-<p>Nov 17 · <a href="https://blog.startifact.com/posts/how-rust-changed-me/">blog.startifact.com</a> | <a href="https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50522563">hacker news</a></p>
 <br clear="all" />
 
 ---

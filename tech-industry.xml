@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T20:09:00+00:00</updated>
+  <updated>2026-11-18T20:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Center for AI Safety and Coalition Issue MisAnthropic Statement Criticizing Anthropic</title>
+    <link href="https://safe.ai/news/anthropic-is-not-a-safe-ai-company" rel="alternate" />
+    <id>https://safe.ai/news/anthropic-is-not-a-safe-ai-company::v240</id>
+    <published>2026-11-18T20:14:00+00:00</published>
+    <updated>2026-11-18T20:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1WgyV3.img%3Fw%3D768%26h%3D709%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://safe.ai/news/anthropic-is-not-a-safe-ai-company">safe.ai</a> | <a href="https://misanthropicstatement.com/">misanthropicstatement.com</a></small></p><hr/><p>The Center for AI Safety and a coalition of researchers, ethicists, and industry figures have released the MisAnthropic Statement, challenging Anthropic's safety positioning ahead of its initial public offering. The signatories argue that while Anthropic publicly warns about the risks of recursively self-improving AI and power concentration, it is aggressively pursuing the technology while weakening its safety commitments.</p><p>Prominent signatories include Steven Pinker, Judea Pearl, Max Tegmark, and several Nobel and Turing laureates. The statement points to Anthropic's recent changes to its Responsible Scaling Policy, its lobbying efforts against various state and federal AI regulations, and its reliance on safety branding to attract investors and talent.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA1WgyV3.img%3Fw%3D768%26h%3D709%26m%3D6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 02:08 UTC | #27898</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Internal Documents Reveal 'Project Gryffindor' School Targeting for Instagram Growth</title>
     <link href="https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety" rel="alternate" />
