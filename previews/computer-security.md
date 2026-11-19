@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Microsoft Agent Framework PyPI Package Compromised with Credential Stealer</h2>
+<a name="story-27965"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdatatunnel.io%2Fwp-content%2Fuploads%2F2025%2F12%2Farchitecture-diagram-microsoft-agent-framework-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hackers compromised Microsoft's official agent-framework Python package on PyPI by publishing malicious versions 1.26.1 and 1.26.2. The compromised releases used automatic Python startup hooks to harvest sensitive data, including environment variables, local configuration files, and cloud and CI service credentials.</p><p>Security researchers discovered the supply chain attack after the malicious packages were briefly quarantined on PyPI before a second payload variant was uploaded. Affected developers are advised to isolate impacted environments, roll back to the safe 1.26.0 version, and immediately rotate any exposed access tokens and credentials.</p>
+<p>Nov 19 · <a href="https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/">bleepingcomputer.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xznlwy/microsofts_official_python_agent_framework/">r/technology</a></p>
+<br clear="all" />
+
 <h2>Homeland Security Task Force Launches Threat Disruption Center</h2>
 <a name="story-27952"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.makes.news%2Fp%2F69fc8cbeff11fec4bae1dbc2%2Ftech-intelligence%2F2026%2F06%2F10%2Fus-ice-to-award-50m-100m-sole-source-contract-for-cybercrime-analytics-support%2Fimage_2887918.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Trump administration has launched the Threat Disruption Center under the Homeland Security Task Force to target foreign criminal networks behind cybercrimes, scams, and crypto fraud against Americans. The center operates out of the task force's National Coordination Center using an AI-enabled intelligence platform from TRM Labs.</p><p>The initiative is backed by a sole-source contract awarded to TRM Labs valued at approximately $95 million. The project aims to enhance federal capabilities in tracking blockchain transactions, mapping illicit financial flows, and recovering assets tied to international criminal operations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27862"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.quad9.net%2Fuploads%2Fprivate_dns_quad9_768x733_25af50b3f9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Swiss non-profit foundation Quad9 is withdrawing its free public DNS resolver from France after a French court imposed daily financial penalties for failing to block domains accused of copyright infringement. The decision leaves Quad9 with a choice between crippling legal penalties and compromising its users' security and privacy by altering its core service.</p><p>The withdrawal highlights ongoing legal pressures on public DNS infrastructure providers across Europe. Similar site-blocking mandates and penalties have targeted providers like Cloudflare, Cisco, and Google, raising concerns among technologists that forced domain blocking at the DNS layer degrades internet resilience, threatens user privacy, and pushes users toward less transparent or accountable services.</p>
 <p>Nov 18 · <a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">blog.cloudflare.com</a> | <a href="https://quad9.net/news/blog/au-revoir-france/">quad9.net</a> | <a href="https://news.ycombinator.com/item?id=50538994">hacker news</a></p>
-<br clear="all" />
-
-<h2>Phrack Magazine Releases Issue 73</h2>
-<a name="story-27854"><img src="https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9d%2FP72-cover-defcon.jpg%2F500px-P72-cover-defcon.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Phrack Magazine's issue 73, the third publication released by the current staff following the project's 40th-anniversary relaunch, contains 23 primary research papers and eight "Line Noise" articles.</p><p>Technical topics covered include container escapes via vDSO, use-after-free exploitation, Chromium sandbox escapes through Skia, and vulnerabilities in machine learning systems. The issue also features "Phrack World History" articles and a professional profile of security researcher Halvar Flake.</p>
-<p>Nov 18 · <a href="https://phrack.org/issues/73/introduction_md.html">phrack.org</a> | <a href="https://lobste.rs/s/xu4ajj/phrack_73">lobsters</a></p>
 <br clear="all" />
 
 ---

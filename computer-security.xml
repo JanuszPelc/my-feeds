@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T03:50:00+00:00</updated>
+  <updated>2026-11-19T04:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Microsoft Agent Framework PyPI Package Compromised with Credential Stealer</title>
+    <link href="https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/::v240</id>
+    <published>2026-11-19T04:02:00+00:00</published>
+    <updated>2026-11-19T04:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdatatunnel.io%2Fwp-content%2Fuploads%2F2025%2F12%2Farchitecture-diagram-microsoft-agent-framework-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/">bleepingcomputer.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xznlwy/microsofts_official_python_agent_framework/">r/technology</a></small></p><hr/><p>Hackers compromised Microsoft's official agent-framework Python package on PyPI by publishing malicious versions 1.26.1 and 1.26.2. The compromised releases used automatic Python startup hooks to harvest sensitive data, including environment variables, local configuration files, and cloud and CI service credentials.</p><p>Security researchers discovered the supply chain attack after the malicious packages were briefly quarantined on PyPI before a second payload variant was uploaded. Affected developers are advised to isolate impacted environments, roll back to the safe 1.26.0 version, and immediately rotate any exposed access tokens and credentials.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdatatunnel.io%2Fwp-content%2Fuploads%2F2025%2F12%2Farchitecture-diagram-microsoft-agent-framework-scaled.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 12:59 UTC | #27965</small>]]></content>
+  </entry>
   <entry>
     <title>Homeland Security Task Force Launches Threat Disruption Center</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-18/trump-administration-unveils-project-to-combat-cybercrime" rel="alternate" />
