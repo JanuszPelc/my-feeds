@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-19T04:42:00+00:00</updated>
+  <updated>2026-11-19T07:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Google Introduces Gemini 4 Neon AI Model</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/" rel="alternate" />
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/::v240</id>
+    <published>2026-11-19T07:59:00+00:00</published>
+    <updated>2026-11-19T07:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fopenrouter.ai%2Fen-US%2Fgoogle%2Fgemini-4-neon%2Fopengraph-image-vc0va0%3Fe64ee705e9bb9143&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">blog.google</a> | <a href="https://www.reddit.com/r/singularity/comments/1xzrjzx/introducing_gemini_4_neon/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50552424">hacker news</a></small></p><hr/><p>Google has announced Gemini 4 Neon, a new artificial intelligence model designed to deliver frontier-level intelligence and fast task completion across software engineering, analytical, and scientific workflows. Positioned between the Carbon and Hydrogen models within the Gemini 4 family, Neon features a one-million-token context window and is priced at $3 per million input tokens and $15 per million output tokens.</p><p>The model ranks strongly across various independent benchmarks, achieving high scores in coding, legal research, tax agent tasks, and automated workflows. It is rolling out immediately through the Gemini API in Google AI Studio, Google for Business, Google Antigravity, and the Gemini app for paid subscribers, with specialized cyber defense capabilities also provided through the Fairwind Program.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenrouter.ai%2Fen-US%2Fgoogle%2Fgemini-4-neon%2Fopengraph-image-vc0va0%3Fe64ee705e9bb9143&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 07:58 UTC | #27937 | t,hr</small>]]></content>
+  </entry>
   <entry>
     <title>Wiz Research Discovers Critical Remote Code Execution Vulnerabilities in NGINX</title>
     <link href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities" rel="alternate" />
