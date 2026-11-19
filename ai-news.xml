@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>Unsloth Update Introduces AMD NPU Model Loading and Video Diffusion LoRA Training</title>
+    <link href="https://unsloth.ai/docs/new/changelog#amd-npu--video-diffusion-lora" rel="alternate" />
+    <id>https://unsloth.ai/docs/new/changelog#amd-npu--video-diffusion-lora::v240</id>
+    <published>2026-11-19T10:10:00+00:00</published>
+    <updated>2026-11-19T10:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpica.zhimg.com%2Fv2-41bf5cc80481ede5f474a5da976410f2_r.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://unsloth.ai/docs/new/changelog#amd-npu--video-diffusion-lora">unsloth.ai</a></small></p><hr/><p>Unsloth has released an update expanding its AMD NPU integration by allowing users to load converted Q4NX models directly on NPUs via a dedicated export tab. The update also brings new capabilities for video diffusion, including LTX-2.5 and MOSS-Image LoRA training and support for NVIDIA Cosmos3 Nano-FP8 and Edge-FP8 video models.</p><p>Additional improvements feature faster image generation using FLUX.3 Klein on Strix Halo hardware, scheduled tasks within chat interfaces, a redesigned translation page with side-by-side document and image uploads, and up to 25 percent faster QLoRA training performance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpica.zhimg.com%2Fv2-41bf5cc80481ede5f474a5da976410f2_r.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 16:10 UTC | #28041</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Reports AI Agents Complete 46% of Research Tasks</title>
     <link href="https://openai.com/index/research-acceleration-jagged-frontier" rel="alternate" />
     <id>https://openai.com/index/research-acceleration-jagged-frontier::v240</id>

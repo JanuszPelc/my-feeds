@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T04:05:00+00:00</updated>
+  <updated>2026-11-19T10:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Ruby Releases Security Updates for Regexp and String Vulnerabilities</title>
+    <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/" rel="alternate" />
+    <id>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/::v240</id>
+    <published>2026-11-19T10:08:00+00:00</published>
+    <updated>2026-11-19T10:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXI-Ov4Lbn2M%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEygVMA8%3D%26rs%3DAOn4CLDW3qAL_gJCUZ5vBzksj-fIw0dxQg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/">ruby-lang.org</a> | <a href="https://lobste.rs/s/hsmtyg/security_advisories_multiple">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50554038">hacker news</a></small></p><hr/><p>Ruby has released versions 4.0.10, 3.4.13, and 3.3.14 to address seven newly disclosed security vulnerabilities affecting its regular expression engine and string case conversion. The flaws include heap buffer overflows, integer overflows, double frees, and out-of-bounds reads, several of which have known proof-of-concept exploits capable of triggering remote code execution.</p><p>Because the issues can lead to memory corruption or arbitrary code execution when applications process attacker-controlled patterns or strings, maintainers strongly recommend upgrading. CVE identifiers are pending, so the advisories currently track the flaws via GitHub Security Advisory identifiers. Ruby 3.2 and older versions have reached end-of-life and will not receive patches.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXI-Ov4Lbn2M%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEygVMA8%3D%26rs%3DAOn4CLDW3qAL_gJCUZ5vBzksj-fIw0dxQg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 16:00 UTC | #28039</small>]]></content>
+  </entry>
   <entry>
     <title>Bonfire Networks Releases Bonfire for Communities 1.1</title>
     <link href="https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/" rel="alternate" />

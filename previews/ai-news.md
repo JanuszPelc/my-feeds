@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Unsloth Update Introduces AMD NPU Model Loading and Video Diffusion LoRA Training</h2>
+<a name="story-28041"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpica.zhimg.com%2Fv2-41bf5cc80481ede5f474a5da976410f2_r.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Unsloth has released an update expanding its AMD NPU integration by allowing users to load converted Q4NX models directly on NPUs via a dedicated export tab. The update also brings new capabilities for video diffusion, including LTX-2.5 and MOSS-Image LoRA training and support for NVIDIA Cosmos3 Nano-FP8 and Edge-FP8 video models.</p><p>Additional improvements feature faster image generation using FLUX.3 Klein on Strix Halo hardware, scheduled tasks within chat interfaces, a redesigned translation page with side-by-side document and image uploads, and up to 25 percent faster QLoRA training performance.</p>
+<p>Nov 19 · <a href="https://unsloth.ai/docs/new/changelog#amd-npu--video-diffusion-lora">unsloth.ai</a></p>
+<br clear="all" />
+
 <h2>OpenAI Reports AI Agents Complete 46% of Research Tasks</h2>
 <a name="story-27960"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQEZW5J4Fwhp1Q%2Farticle-cover_image-shrink_720_1280%2FB4DZwn1Xr5G8AI-%2F0%2F1770194843790%3Fe%3D2147483647%26v%3Dbeta%26t%3D32xzWG5jTGHkIAe9j8whj39MeiB48HYu1F416OY2dxc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI reports that AI agents are completing 46% of researchers' tasks lasting between two and four hours independently, a significant increase from 23% in March. The organization also revealed that the median researcher's daily agent spend has reached $2,400.</p><p>The data indicates that AI systems are increasingly capable of contributing to their own research and development workflows. This acceleration highlights the growing role of autonomous agentic systems in automating complex, multi-hour research operations and scaling internal R&amp;D capabilities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27780"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6XttKhMddBzO6pT2IY2brG%2F841e9a215931057aeb578e1aa45f9bb4%2Fcareer-website-dark-v3.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI has released GPT-6.2 Astra, a frontier model for complex professional and scientific tasks, and GPT-6.2 Sol, an efficient model for everyday work. Both models prioritize token efficiency to reduce costs and increase usage capacity compared to previous versions.</p><p>Astra provides specialized capabilities in coding, 3D design, and scientific simulation, including advanced computer use for CAD tools. The models include enhanced safety safeguards for biological and cybersecurity risks, with Astra meeting a "High" threshold for AI self-improvement capabilities.</p>
 <p>Nov 17 · <a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">openai.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyr3ia/introducing_gpt62_astra_and_sol/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50535230">hacker news</a></p>
-<br clear="all" />
-
-<h2>Google Expands Gemini Tasks to Free Users</h2>
-<a name="story-27788"><img src="https://wsrv.nl/?url=https%3A%2F%2Fclickup.com%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2FGemini-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google is expanding Gemini Tasks to hundreds of millions of free users on the Gemini 4 Hydrogen model. The feature allows the AI to perform administrative functions, including calling businesses to book appointments, making purchases through Google Pay, and signing into websites.</p><p>The tool was previously tested as Gemini Spark and was initially limited to Google AI Ultra subscribers. Users can activate the mode by toggling from "Chat" to "Tasks" within the Gemini app and can control it via text or voice commands.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=50551601">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-19T09:41:00+00:00</updated>
+  <updated>2026-11-19T10:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Neutone Announces Terra Neural Drum Synth</title>
+    <link href="https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69705" rel="alternate" />
+    <id>https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69705::v240</id>
+    <published>2026-11-19T10:49:00+00:00</published>
+    <updated>2026-11-19T10:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fterra_interface_169_small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69705">kvraudio.com</a> | <a href="https://neutone.jp/terra">neutone.jp</a></small></p><hr/><p>Neutone has released Terra, a neural drum synthesizer built around map-based sound exploration. The plugin utilizes an in-house neural synthesis engine to generate sounds—including analogue and digital drums, FM bleeps, and Foley effects—in real time without using samples. Users can navigate over 50 maps, drawing paths and orbits to create evolving rhythms, smooth morphing between sounds, and infinite micro-variations.</p><p>Terra is currently available in early access for free, with a full release scheduled for December 2026. Early access participants who complete a feedback survey are eligible for a 50% discount on the $99 launch price. The software supports AU and VST3 formats and includes features such as "Drift" mode for generative sound design and fully randomized kit generation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fterra_interface_169_small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 16:11 UTC | #27999</small>]]></content>
+  </entry>
   <entry>
     <title>Spitfire Audio LABS and LABS+ Sunset Announced</title>
     <link href="https://bedroomproducersblog.com/2026/11/19/spitfire-audio-labs-farewell/" rel="alternate" />
