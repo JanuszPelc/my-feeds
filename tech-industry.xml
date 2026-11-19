@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-19T03:54:00+00:00</updated>
+  <updated>2026-11-19T04:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Intel Signs First External Customer for 18A Chips</title>
+    <link href="https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html::v240</id>
+    <published>2026-11-19T04:09:00+00:00</published>
+    <updated>2026-11-19T04:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2026%2F04%2FIntel-Foundry-Direct-Connect-Keynote-1-scaled-1-1920x1280.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html">cnbc.com</a></small></p><hr/><p>Intel CEO Lip-Bu Tan announced that the company has secured its first external customer for its 18A manufacturing process. The agreement specifically involves the 18A-P process node, which entered risk production in June 2026, although Intel has not disclosed the identity of the debut client.</p><p>This milestone marks a significant step in Intel's multi-year strategy to challenge Taiwan Semiconductor Manufacturing Co. (TSMC) as a leading foundry for external products. Industry analysts suggest that potential customers could include Nvidia, Apple, or major hyperscalers like Amazon, Microsoft, and Google, who are currently facing capacity constraints at TSMC. Additionally, Intel identified Microsoft as its first public customer for its advanced EMIB packaging technology.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2026%2F04%2FIntel-Foundry-Direct-Connect-Keynote-1-scaled-1-1920x1280.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 14:00 UTC | #27972</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Raises $3 Billion from Japanese Investors in IPO Tranche</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo" rel="alternate" />
