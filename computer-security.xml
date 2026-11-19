@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T04:02:00+00:00</updated>
+  <updated>2026-11-19T04:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Bonfire Networks Releases Bonfire for Communities 1.1</title>
+    <link href="https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/" rel="alternate" />
+    <id>https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/::v240</id>
+    <published>2026-11-19T04:05:00+00:00</published>
+    <updated>2026-11-19T04:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbonfirenetworks.org%2Fimg%2Fbonfire-1.1-hub-red.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/">bonfirenetworks.org</a> | <a href="https://lobste.rs/s/4j15up/for_things_we_can_only_do_together_bonfire">lobsters</a></small></p><hr/><p>Bonfire Networks has released Bonfire for Communities 1.1, introducing major updates to online group organization, federation capabilities, and decision-making tools on the fediverse. The update features reworked groups with customizable privacy boundaries, public group federation with apps like Mastodon and Lemmy, dedicated topic rooms, and built-in consensus and polling features.</p><p>Designed as an alternative to centralized social platforms, the release enables cross-server collaboration for organizations, publishers, and mutual aid networks without requiring users to migrate to a single platform. It also includes a Mastodon-compatible API beta and progressive web app support to facilitate flexible community interaction.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbonfirenetworks.org%2Fimg%2Fbonfire-1.1-hub-red.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 13:22 UTC | #28019</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Agent Framework PyPI Package Compromised with Credential Stealer</title>
     <link href="https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/" rel="alternate" />
