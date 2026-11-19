@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-18T18:17:00+00:00</updated>
+  <updated>2026-11-18T18:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Microsoft Nears $500 Million Azure Deal to Supply OpenAI Models to ByteDance</title>
+    <link href="https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai" rel="alternate" />
+    <id>https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai::v240</id>
+    <published>2026-11-18T18:59:00+00:00</published>
+    <updated>2026-11-18T18:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.thedefensenews.com%2Fpostimages%2Fb46bb3cb1bcb454280698270051daa0c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai">theinformation.com</a></small></p><hr/><p>ByteDance is reportedly in advanced talks with Microsoft to spend approximately $500 million on Azure cloud services, primarily to gain access to OpenAI models. The arrangement has drawn complaints from OpenAI, highlighting tensions over how Microsoft distributes access to the technology.</p><p>The deal underscores Microsoft's role as a major intermediary providing foreign tech companies, including Chinese giants, with access to advanced Western artificial intelligence models. This dynamic operates amidst broader regulatory scrutiny regarding the security implications of Chinese entities utilizing sophisticated AI tools hosted outside their borders.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thedefensenews.com%2Fpostimages%2Fb46bb3cb1bcb454280698270051daa0c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 00:15 UTC | #27886</small>]]></content>
+  </entry>
   <entry>
     <title>RevScope Analysis Shows Google AI Overviews Reduce Website Clicks by 40 Percent</title>
     <link href="https://revscope.co/blog/search-seo-geo-2026/" rel="alternate" />

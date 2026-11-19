@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Microsoft Nears $500 Million Azure Deal to Supply OpenAI Models to ByteDance</h2>
+<a name="story-27886"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thedefensenews.com%2Fpostimages%2Fb46bb3cb1bcb454280698270051daa0c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ByteDance is reportedly in advanced talks with Microsoft to spend approximately $500 million on Azure cloud services, primarily to gain access to OpenAI models. The arrangement has drawn complaints from OpenAI, highlighting tensions over how Microsoft distributes access to the technology.</p><p>The deal underscores Microsoft's role as a major intermediary providing foreign tech companies, including Chinese giants, with access to advanced Western artificial intelligence models. This dynamic operates amidst broader regulatory scrutiny regarding the security implications of Chinese entities utilizing sophisticated AI tools hosted outside their borders.</p>
+<p>Nov 18 · <a href="https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>RevScope Analysis Shows Google AI Overviews Reduce Website Clicks by 40 Percent</h2>
 <a name="story-27950"><img src="https://wsrv.nl/?url=https%3A%2F%2Fppc.land%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2025%2F07%2FAI-Summaries-Reduced-Traffic.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>RevScope published a study revealing that Google AI Overviews reduce organic clicks to external websites by approximately 40 percent. The findings are based on a randomized experiment comparing search behavior among desktop users who encountered AI summaries versus those who did not.</p><p>The results underscore the significant impact of generative AI search features on publisher traffic and organic search visibility. As search engines increasingly prioritize direct answers, marketers and website owners face mounting challenges in maintaining referral traffic and user engagement.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27822"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FvfLy5PcKHn93qzbpMvFh34-2000-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia chairman Harvey C. Jones announced during a Tuesday earnings call that the company's board of directors does not intend to reinstate founder Jensen Huang as CEO. Huang resigned from his roles as president, CEO, and board member on November 12 following disclosures of personal conduct deemed inconsistent with company standards and cultural norms.</p><p>The resignation followed reports of extramarital affairs, including a relationship with a woman suspected by U.S. intelligence of being a Chinese intelligence agent. Colette Kress is currently serving as interim CEO while the company evaluates internal and external candidates for a permanent successor.</p>
 <p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/">techcrunch.com</a> | <a href="https://www.reddit.com/r/technology/comments/1xyxrbb/nvidia_says_it_will_not_reinstate_jensen_huang_as/">r/technology</a></p>
-<br clear="all" />
-
-<h2>Uber and Zipline Launch Drone Delivery Service in Texas</h2>
-<a name="story-27758"><img src="https://wsrv.nl/?url=https%3A%2F%2Faviationweek.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fcrop_freeform%2Fpublic%2F2025-09%2Fuber.jpg%3Fitok%3Dc39GxQX4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A new commercial drone delivery service from Uber Eats and Zipline has debuted in Spring, Texas, a suburb of Houston. Customers can use the Uber Eats app to order from participating restaurants and have their food delivered by autonomous aircraft.</p><p>The Zipline drones can carry up to eight pounds at speeds of 70 mph and use a tether to lower packages to the customer's location. The partnership aims to expand to Dallas and dozens of other U.S. cities, targeting one million deliveries per day by the end of 2029.</p>
-<p>Nov 17 · <a href="https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/">techcrunch.com</a> | <a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx">investor.uber.com</a></p>
 <br clear="all" />
 
 ---

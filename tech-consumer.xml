@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-18T18:11:00+00:00</updated>
+  <updated>2026-11-18T19:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Jennifer Svedberg-Yen Plans Narrative Investment Fund for Game Storytellers</title>
+    <link href="https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding" rel="alternate" />
+    <id>https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding::v240</id>
+    <published>2026-11-18T19:03:00+00:00</published>
+    <updated>2026-11-18T19:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt91fa6c5cf153b000%2F69eb7b53d9eb8a86b83cb444%2FClair_Obscur.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding">gamedeveloper.com</a> | <a href="https://gamesbeat.com/clair-obscur-writer-will-invest-in-next-generation-of-game-storytellers-jennifer-svedberg-yen-interview/">gamesbeat.com</a></small></p><hr/><p>Jennifer Svedberg-Yen, the former narrative lead for Clair Obscur: Expedition 33, is planning to establish a fund dedicated to supporting and financing game storytellers. Following her departure from Sandfall Interactive, Svedberg-Yen aims to reshape how narrative design is funded and prioritized within the video game industry.</p><p>In an interview with GamesBeat, she emphasized that narrative is frequently treated as a superficial skin rather than a foundational element of development. While specific operational details of the fund are still under discussion, her focus centers on creating new funding models and incubation programs that elevate creative talent and place storytelling at the core of production.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt91fa6c5cf153b000%2F69eb7b53d9eb8a86b83cb444%2FClair_Obscur.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 00:15 UTC | #27922</small>]]></content>
+  </entry>
   <entry>
     <title>Gallium Studios Partners With Artificial Agency for MyMems Simulation Game</title>
     <link href="https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/" rel="alternate" />
