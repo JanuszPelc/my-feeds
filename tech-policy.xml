@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-19T03:58:00+00:00</updated>
+  <updated>2026-11-19T04:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>US Charges Russian National Igor D'iu Over Alleged Surveillance of Palantir Workers</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers::v240</id>
+    <published>2026-11-19T04:01:00+00:00</published>
+    <updated>2026-11-19T04:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F6937f199b6e43dc41aaca67b5ce231ff13b0c205b09e55ccbd05359e0145bcc4%2Flightyear_networkapi%2Fresizefill_w960_h540%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F214ef162d129920c01459c03a924774c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers">bloomberg.com</a> | <a href="https://www.justice.gov/opa/pr/russian-national-indicted-acting-foreign-agent-russia-target-silicon-valley-technology-and">justice.gov</a></small></p><hr/><p>US prosecutors have indicted Russian national Igor D’iu on charges of acting as an unregistered foreign agent, stalking, and fraud after he allegedly conducted surveillance on employees of Palantir, a defense technology company aiding Ukraine. According to the Department of Justice, D'iu carried out covert operations to gather information on the firm's workforce, tracking individuals and photographing their activities.</p><p>Court documents indicate that the investigation revealed fake identification documents and multiple passports linked to the defendant, who made an initial federal court appearance in November. While the Justice Department's initial announcement did not explicitly name the company, sources familiar with the case confirmed it to be Palantir.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F6937f199b6e43dc41aaca67b5ce231ff13b0c205b09e55ccbd05359e0145bcc4%2Flightyear_networkapi%2Fresizefill_w960_h540%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F214ef162d129920c01459c03a924774c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 12:24 UTC | #27963</small>]]></content>
+  </entry>
   <entry>
     <title>NYC, LA, and Chicago School Districts Consider Alternatives to Google Search Over AI Policy</title>
     <link href="https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html?unlocked_article_code=1.RVE.gLxg.XpnU5fMGh-0k&amp;smid=url-share" rel="alternate" />
