@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-19T11:28:00+00:00</updated>
+  <updated>2026-11-19T15:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>FabFilter Plugins Discounted in Early Black Friday Sale</title>
+    <link href="https://musictech.com/news/gear/fabfilter-black-friday-sale/" rel="alternate" />
+    <id>https://musictech.com/news/gear/fabfilter-black-friday-sale/::v240</id>
+    <published>2026-11-19T15:29:00+00:00</published>
+    <updated>2026-11-19T15:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Ffabfilter-pro-q3%402000x1500-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/fabfilter-black-friday-sale/">musictech.com</a> | <a href="https://www.pluginboutique.com/deals/24653">pluginboutique.com</a></small></p><hr/><p>FabFilter and Plugin Boutique have launched an early Black Friday sale offering up to 33% off a wide range of professional audio plugins, software bundles, and individual upgrades. The promotional pricing encompasses the Dutch company's flagship mixing, mastering, and creative tools across multiple digital audio workstation formats.</p><p>Notable discounts include price cuts on the award-winning Pro-Q 4 EQ, Pro-R 2 reverb, Timeless 3 delay, and the comprehensive Essentials Bundle. The sale runs through early December, providing producers and engineers reduced rates on industry-standard processing equipment ahead of the official holiday shopping period.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Ffabfilter-pro-q3%402000x1500-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 20:31 UTC | #28035</small>]]></content>
+  </entry>
   <entry>
     <title>HOFA-Plugins Updates Colour Saturator to v1.5</title>
     <link href="https://www.kvraudio.com/news/hofa-plugins-updates-colour-saturator-to-v1-5-with-13-new-models-and-a-mastering-category-69956?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69956" rel="alternate" />

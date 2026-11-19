@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>FabFilter Plugins Discounted in Early Black Friday Sale</h2>
+<a name="story-28035"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Ffabfilter-pro-q3%402000x1500-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>FabFilter and Plugin Boutique have launched an early Black Friday sale offering up to 33% off a wide range of professional audio plugins, software bundles, and individual upgrades. The promotional pricing encompasses the Dutch company's flagship mixing, mastering, and creative tools across multiple digital audio workstation formats.</p><p>Notable discounts include price cuts on the award-winning Pro-Q 4 EQ, Pro-R 2 reverb, Timeless 3 delay, and the comprehensive Essentials Bundle. The sale runs through early December, providing producers and engineers reduced rates on industry-standard processing equipment ahead of the official holiday shopping period.</p>
+<p>Nov 19 · <a href="https://musictech.com/news/gear/fabfilter-black-friday-sale/">musictech.com</a> | <a href="https://www.pluginboutique.com/deals/24653">pluginboutique.com</a></p>
+<br clear="all" />
+
 <h2>HOFA-Plugins Updates Colour Saturator to v1.5</h2>
 <a name="story-28009"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F590-plugins-cs-update-n.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HOFA-Plugins has released version 1.5 of Colour Saturator, a neural-modeled saturation and distortion plugin for macOS and Windows. The free update introduces 13 new high-resolution hardware models, a new Mastering category featuring four tube-based models, and performance improvements.</p><p>The plugin incorporates HOFA's BiasEQ, a 9-band equalizer operating before and after the saturation stage to control frequency routing without multiband splitting. Colour Saturator is available in VST3, AU, and AAX formats, priced at €129 with a limited-time promotional rate.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27910"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog-uploads.eneba.games%2Fuploads%2F2025%2F09%2Fimage-55-1024x575.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Type 9 has released GhostTape, a $10 standalone macOS application that maintains a rolling audio buffer to help musicians recover unexpected takes or practice ideas. The software runs natively on Apple Silicon and Intel Macs, capturing sound from specific apps, hardware inputs, or the entire system output into computer RAM.</p><p>Users can adjust individual buffer lengths from one to 60 minutes, select passages from an interactive waveform, and drag WAV exports directly into a digital audio workstation. Additional functions include a Haunt feature for automatic reconnection to frequently used sources and an offline license activation system with five simultaneous activations.</p>
 <p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/type-9-ghosttape/">bedroomproducersblog.com</a> | <a href="https://type9.cc/ghosttape">type9.cc</a></p>
-<br clear="all" />
-
-<h2>Steinberg Releases Chromaspheres Free Synth Plugin</h2>
-<a name="story-27911"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXNlFkt1yf54%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Steinberg has released Chromaspheres, a free software instrument for the HALion Sonic player that transforms user-supplied audio samples using wavetable, granular, spectral, and sample-based synthesis engines. The instrument features 30 sound-shaping modes, an arpeggiator, and built-in effects including a wavefolder, resonator, EQ, and compression.</p><p>Designed for creating evolving pads, textures, and altered melodies, Chromaspheres allows users to drop audio into various engines for manipulation, such as turning samples into wavetables or stretching spectral elements. It includes one-click parameter randomization with locking capabilities, MIDI Polyphonic Expression support, and runs as a VST3 and AAX plugin on Windows and macOS.</p>
-<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/steinberg-chromaspheres/">bedroomproducersblog.com</a> | <a href="https://www.steinberg.net/vst-instruments/chromaspheres/">steinberg.net</a></p>
 <br clear="all" />
 
 ---
