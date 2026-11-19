@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Superhuman Expands Go AI Assistant Across Suite and Products</h2>
+<a name="story-28026"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FStatic_Agents-in-Docs_Create-Agent.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Superhuman is rolling out a major update to its Go AI assistant, expanding its presence across Docs, Superhuman Mail, and enterprise search. The update introduces personalization features that allow the assistant to learn context across different tools, adapt to user writing styles, and act proactively based on schedules and emails.</p><p>The company is also integrating over 20 new partner agents via a Go SDK—including tools from DeepL, Amplitude, and Databricks—and incorporating live collaborative notetaking following its acquisition of Fathom. According to Superhuman, the Go assistant has surpassed 1 million active users as productivity platforms increasingly compete in agentic workflows.</p>
+<p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/">techcrunch.com</a> | <a href="https://blog.superhuman.com/superhuman-expands-go-unveils-personal-ai-assistant/">blog.superhuman.com</a></p>
+<br clear="all" />
+
 <h2>Sarvam Faces Backlash for Offering Chinese Open-Weight Models on Token Factory</h2>
 <a name="story-27989"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenrouter.ai%2Fblog%2Fimages%2Fdeepseek-v4-us-vs-china.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Indian artificial intelligence startup Sarvam is facing online criticism for offering access to Chinese open-weight models, including DeepSeek, on its newly launched Token Factory inference service. The platform is designed to provide developers and enterprises with access to global AI models hosted on Indian servers.</p><p>The controversy highlights tensions within India's tech ecosystem regarding the push for sovereign AI capabilities versus the practical utility of incorporating leading foreign open-source models. Despite the backlash, Sarvam continues to position Token Factory as a competitive domestic alternative for running diverse large language models through a single API stack.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27799"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.numerama.com%2Fwww.numerama.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fimage-3.png%3Fresize%3D1024%2C880%26key%3D5cb1dbfb&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Theo Browne has criticized OpenAI's GPT-6.2 Astra model, describing the user experience as frustrating. He reports that the model lacks awareness of its own knowledge gaps, produces outputs that are difficult to parse, and tends to run in circles when performing long-running tasks.</p><p>The critique follows the November 2026 release of GPT-6.2 Astra and GPT-6.2 Sol. While OpenAI marketed Astra as a highly capable model for complex reasoning and computer use, early testing has highlighted significant issues with its task management and output clarity.</p>
 <p>Nov 18 · <a href="https://x.com/theo/status/2122760447103484410">x.com</a></p>
-<br clear="all" />
-
-<h2>Microsoft Debuts Specialized AI Models at Ignite Conference</h2>
-<a name="story-27786"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJ1EnxhX0AE62j0.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft has introduced six specialized AI models for coding, cybersecurity, image generation, and voice at its Ignite conference. These models, including MAI Code 2 and MAI Cyber 2 Flash, aim to match the performance of leading competitors from OpenAI and Anthropic at a significantly lower cost.</p><p>The strategy leverages task-specific optimization to maximize efficiency while Microsoft continues development of a frontier general-purpose model. These new offerings may influence workload distribution within GitHub Copilot and Azure, even as competitors like OpenAI release updates such as GPT-6.2 Astra and Sol.</p>
-<p>Nov 17 · <a href="https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite">axios.com</a> | <a href="https://microsoft.ai/news/microsoft-ignite-2026/">microsoft.ai</a> | <a href="https://www.reddit.com/r/singularity/comments/1xyxhtu/seven_new_world_class_models_at_scalable/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50548021">hacker news</a></p>
 <br clear="all" />
 
 ---

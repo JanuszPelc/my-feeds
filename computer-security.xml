@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T10:08:00+00:00</updated>
+  <updated>2026-11-19T13:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Zerodha Introduces Blobasaur Distributed Blob Storage on SQLite</title>
+    <link href="https://zerodha.tech/blog/high-performance-distributed-blob-storage/" rel="alternate" />
+    <id>https://zerodha.tech/blog/high-performance-distributed-blob-storage/::v240</id>
+    <published>2026-11-19T13:45:00+00:00</published>
+    <updated>2026-11-19T13:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.baeldung-cn.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F03%2Fblob_storage_architecture-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://zerodha.tech/blog/high-performance-distributed-blob-storage/">zerodha.tech</a> | <a href="https://lobste.rs/s/bk5nfs/distributed_high_performance_blob">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50557537">hacker news</a></small></p><hr/><p>Zerodha has developed Blobasaur, a sharded and distributed blob storage server written in Rust that uses SQLite as its underlying storage engine and speaks the Redis protocol. Built to replace SSDB on its trading platform Kite, Blobasaur manages high-throughput read and write operations for user workspace preferences, layouts, and interface metadata ranging from a few kilobytes to several megabytes.</p><p>The system achieves single-digit millisecond latency and handles thousands of requests per second on commodity hardware by partitioning data across multiple SQLite shards using consistent hashing. It incorporates zstd compression, group commits, and Redis Cluster protocol compatibility, allowing the engineering team to scale horizontally while maintaining operational simplicity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.baeldung-cn.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F03%2Fblob_storage_architecture-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 19:10 UTC | #28064</small>]]></content>
+  </entry>
   <entry>
     <title>Ruby Releases Security Updates for Regexp and String Vulnerabilities</title>
     <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/" rel="alternate" />
