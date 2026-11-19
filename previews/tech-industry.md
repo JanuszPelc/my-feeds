@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Ubisoft Lays Off 166 Employees in Montreal and Quebec City</h2>
+<a name="story-28060"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelios-i.mashable.com%2Fimagery%2Farticles%2F06jeVI37uIOcx2SVn6Oagrf%2Fhero-image.fill.size_1200x675.v1770874190.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ubisoft has cut 166 positions at its Montreal and Quebec City locations, primarily affecting production and support roles. The company attributed the layoffs to shifting production needs, including the cancellation or significant rescoping of certain projects.</p><p>A portion of the affected staff belongs to Vantage Studio, the joint venture with Tencent that manages major franchises like Assassin's Creed and Far Cry. These layoffs follow the recent closure of Ubisoft’s Halifax studio and represent a significant impact on the regional game development landscape in Canada.</p>
+<p>Nov 19 · <a href="https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada">gamedeveloper.com</a> | <a href="https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios">gamesindustry.biz</a></p>
+<br clear="all" />
+
 <h2>IEA Forecasts Global Data Center Investment to Reach $4 Trillion by 2030</h2>
 <a name="story-28017"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fb521bd_7fd793cbba9043f0855b5cebf58ba728~mv2.png%2Fv1%2Ffill%2Fw_980%2Ch_536%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2Fb521bd_7fd793cbba9043f0855b5cebf58ba728~mv2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The International Energy Agency projects that global data center investments will reach $4 trillion by 2030, driven heavily by rapid expansion in artificial intelligence. This infrastructure boom threatens to push power grids to their limits as electricity consumption escalates.</p><p>According to the agency, fewer than 100 major AI projects alone will require a combined 50 gigawatts of power, an amount matching the peak electricity demand of the United Kingdom. The surging energy requirements highlight growing strains on global energy networks and the urgent need for grid reinforcement.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27927"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmetodoviral.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fbret-taylor-e-sierra-captam-quase-us-1-bi-em-ia.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence customer support startup Sierra, founded by Bret Taylor, is reportedly in discussions to raise roughly $1.5 billion in new funding at a valuation of approximately $30 billion. The potential round would nearly double the company's valuation from $15.8 billion following its $950 million funding round in May.</p><p>The funding talks follow rapid commercial growth for the enterprise AI firm, which disclosed in October that it surpassed $400 million in annualized recurring revenue after adding more than $150 million during the third quarter. Sierra's customer base currently includes nearly half of the Fortune 50.</p>
 <p>Nov 19 · <a href="https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Microsoft CEO Satya Nadella Discusses Rationale for Employee Buyouts</h2>
-<a name="story-27955"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2020%2F05%2F14%2Fbusiness%2F14db-newsletter-nadella%2Fmerlin_159231594_d04785d4-5c43-44fe-ad72-2a02beaca02a-videoSixteenByNineJumbo1600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft CEO Satya Nadella addressed the company's decision to offer buyouts to approximately 60,000 employees, framing the move as a structural necessity to transition the workforce toward an AI-first operational model. Speaking at the DealBook Summit, Nadella clarified that the buyouts were designed to give employees agency rather than serving as automated job replacements, emphasizing that future roles will center on managing AI agents rather than executing tasks directly.</p><p>Nadella noted that transforming an established company requires time and deliberate workflow changes, pointing to small development teams utilizing AI factories as a blueprint for future productivity. He acknowledged that the rapid pace of AI advancement has generated workforce anxiety, making voluntary exit options essential for employees who choose not to participate in the company's operational shift.</p>
-<p>Nov 19 · <a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

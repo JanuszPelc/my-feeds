@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-19T17:19:00+00:00</updated>
+  <updated>2026-11-19T17:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Ubisoft Lays Off 166 Employees in Montreal and Quebec City</title>
+    <link href="https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada::v240</id>
+    <published>2026-11-19T17:54:00+00:00</published>
+    <updated>2026-11-19T17:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhelios-i.mashable.com%2Fimagery%2Farticles%2F06jeVI37uIOcx2SVn6Oagrf%2Fhero-image.fill.size_1200x675.v1770874190.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada">gamedeveloper.com</a> | <a href="https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios">gamesindustry.biz</a></small></p><hr/><p>Ubisoft has cut 166 positions at its Montreal and Quebec City locations, primarily affecting production and support roles. The company attributed the layoffs to shifting production needs, including the cancellation or significant rescoping of certain projects.</p><p>A portion of the affected staff belongs to Vantage Studio, the joint venture with Tencent that manages major franchises like Assassin's Creed and Far Cry. These layoffs follow the recent closure of Ubisoft’s Halifax studio and represent a significant impact on the regional game development landscape in Canada.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelios-i.mashable.com%2Fimagery%2Farticles%2F06jeVI37uIOcx2SVn6Oagrf%2Fhero-image.fill.size_1200x675.v1770874190.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 22:59 UTC | #28060</small>]]></content>
+  </entry>
   <entry>
     <title>IEA Forecasts Global Data Center Investment to Reach $4 Trillion by 2030</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/iea-sees-data-center-boom-pushing-power-grids-to-the-limit" rel="alternate" />

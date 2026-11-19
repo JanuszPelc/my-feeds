@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grand Theft Auto VI Features Handcrafted Assets and Unique NPCs, Report Details</h2>
+<a name="story-28016"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgaminghq.eu%2Fwp-content%2Fuploads%2F2025%2F03%2Fgtaaa6.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Grand Theft Auto VI was developed by a team of 5,000 using handcrafted fidelity rather than artificial intelligence or procedural generation, according to a report by Joseph Bernstein for The New York Times. The game features approximately 30,000 unique non-player characters and an internal in-game video game system.</p><p>The upcoming title represents a massive production scale for Rockstar Games, emphasizing manual design over automated asset creation. The reporting offers an inside look at the development choices and scale behind one of the gaming industry's most anticipated releases.</p>
+<p>Nov 19 · <a href="https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html?unlocked_article_code=1.RlE.fmuo.D_-7-tknBypF&smid=url-share">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Google Introduces New Foldable App Support Requirements for Android Developers</h2>
 <a name="story-28012"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.yugatech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fandroid-foldable-full-screen-app-support-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Starting in April 2027, Google will require Android app developers to meet its "Tier 3 — Adaptive ready" standard, ensuring apps fill foldable displays without letterboxing and preserve state during actions like rotation and unfolding. Non-compliant developers risk publication restrictions or reduced visibility on Google Play, alongside a new requirement to provide three foldable screenshots for their app listings.</p><p>Game developers have until August 2027 to comply with parallel large-screen and foldable standards, though they must also submit foldable screenshots starting in April. Google plans to expand these quality requirements to other large-screen devices, including tablets and laptops, in future phases.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27826"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F11%2F17111740%2FHomeView_00011.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>iFixit's teardown of Apple's HomeView smart home hub reveals a surprisingly difficult repair process, contrasting with recent improvements in repairability seen in standalone iPads and HomePods. Despite promising modular aspects in its speaker base, the device presents major hurdles to repair.</p><p>The teardown highlights extensive use of strong adhesives, fragile plastic connectors that break easily during removal, mixed screw types, and a complex thermal design. These elements make replacing internal components like the display, speakers, and logic board highly risky and prone to physical damage.</p>
 <p>Nov 18 · <a href="https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward">ifixit.com</a> | <a href="https://www.reddit.com/r/apple/comments/1xz69aj/we_took_apart_apples_homeview_it_got_ugly_ifixit/">r/apple</a></p>
-<br clear="all" />
-
-<h2>Xreal Aura Review</h2>
-<a name="story-27785"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cnet.com%2Fwp-content%2Fuploads%2Fsites%2F2%2FXreal.Aura_.2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google and Xreal's Aura is a hybrid device bridging the gap between smart glasses and VR headsets. Powered by Android XR via a tethered processor puck, it runs Android apps in 2D or immersive 3D and supports hand tracking for spatial navigation.</p><p>The glasses feature bright micro OLED displays with a 70-degree field of view, but the experience is limited by a narrow viewing area, awkward input controls, and a small app ecosystem. While highly portable, the device lacks dedicated controller support and the wide field of vision typical of VR headsets.</p>
-<p>Nov 17 · <a href="https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/">cnet.com</a></p>
 <br clear="all" />
 
 ---
