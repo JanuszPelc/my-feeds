@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-19T15:02:00+00:00</updated>
+  <updated>2026-11-19T16:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>James A. R. Marshall on the Impact of AI-Enabled Scientific Research</title>
+    <link href="https://theconversation.com/why-ai-enabled-scientific-research-is-a-double-edged-sword-295916" rel="alternate" />
+    <id>https://theconversation.com/why-ai-enabled-scientific-research-is-a-double-edged-sword-295916::v240</id>
+    <published>2026-11-19T16:15:00+00:00</published>
+    <updated>2026-11-19T16:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772016%2Foriginal%2Ffile-20261115-64-kouezw.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/why-ai-enabled-scientific-research-is-a-double-edged-sword-295916">theconversation.com</a></small></p><hr/><p>Artificial intelligence is increasingly transforming scientific research, software development, and academic publishing, bringing both unprecedented capabilities and significant challenges. While AI tools accelerate output and allow researchers to tackle larger projects, they also strain traditional peer review systems and produce opaque or difficult-to-interpret results that require rigorous human oversight.</p><p>This shift raises questions about the long-term sustainability of academic publishing and the future of critical thinking in scientific training. As researchers rely more heavily on AI systems to generate ideas and handle complex tasks, educators face the challenge of ensuring that the next generation of scientists and mathematicians retains the capacity to independently form novel research questions and critically evaluate AI-generated solutions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772016%2Foriginal%2Ffile-20261115-64-kouezw.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:25 UTC | #28044</small>]]></content>
+  </entry>
   <entry>
     <title>George Washington University and American University Study Finds Racial Disparities in Data Center Locations</title>
     <link href="https://www.404media.co/redlining-ai-data-centers-and-race-study/" rel="alternate" />
