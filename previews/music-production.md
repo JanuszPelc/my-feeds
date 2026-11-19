@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Thomann Launches Early Black Friday Sale With Discounts on Studio Gear</h2>
+<a name="story-28082"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2025%2F11%2FThomann-BF-deals%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Retailer Thomann has launched its early Black Friday sale, featuring discounts across studio monitors, MIDI controllers, audio interfaces, and software plugins. Notable early reductions include offers on the Beyerdynamic DJ 300 PRO X Club headphones, the Novation Launchkey Mini 37 MK4, and the Focusrite Scarlett 18i20 4th Gen audio interface bundled with software packages.</p><p>The retailer curates its sale items based on positive editorial reviews and industry popularity, offering products alongside standard return policies and customer support. The promotional page is scheduled to be updated daily throughout the Black Friday and Cyber Monday shopping period.</p>
+<p>Nov 19 · <a href="https://musictech.com/news/gear/black-friday-deals-thomann/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>13x Audio Releases Loft Free Vintage Reverb Plugin</h2>
 <a name="story-28046"><img src="https://wsrv.nl/?url=https%3A%2F%2Funison.audio%2Fwp-content%2Fuploads%2FOril-River-3.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>13x Audio has released Loft, a free vintage reverb plugin available for macOS, Windows, and Linux. The plugin features drawable envelopes for shaping the reverb tail over time, tempo-synced modulation, and integrated resonators tuned to a song's key.</p><p>Loft includes five shape curves, 16-step envelope drawing, shimmer and morph controls, and vintage engine modes inspired by 1980s and 1990s digital rack units. It offers 34 presets, a freeze function for sustained textures, and supports VST3 and AU formats without requiring registration or a license key.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FpexyMnmELkTyNlRAtULwFcjEFM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Phil Speiser has released The Pitch 2 Mini, a free pitch correction plugin for macOS and Windows designed for vocals and other single-note sources. The software features automatic key detection, drift compensation, and a blend dial that scales processing from natural vibrato preservation to hard robotic tuning.</p><p>The plugin provides automation options for targeted note adjustments and offers three distinct latency modes optimized for mixing, recording, and live performance. Compatible with VST3, AU, and AAX formats, the plugin is available through a free checkout process on the developer's website.</p>
 <p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/">bedroomproducersblog.com</a> | <a href="https://www.philspeiser.com/product/the_pitch-2-mini">philspeiser.com</a></p>
-<br clear="all" />
-
-<h2>Collaya Listener Free Audio Analysis Plugin Released for macOS</h2>
-<a name="story-27908"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcollaya-v1-mainui-01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Collaya Listener is a free audio analysis plugin for Apple Silicon Macs that identifies keys, notes, and chords while providing real-time mix metering. Running locally without cloud audio uploads, the plugin includes a Composition view for harmonic tracking and a Mix view displaying LUFS, true peak, RMS, stereo width, and an eight-band spectrum.</p><p>The plugin functions as a companion to Collaya's main AI co-producer software, supporting features like audio-to-MIDI transcription and cross-track analysis. While the Listener plugin is free to use indefinitely, Collaya is offering an introductory Black Friday discount on its Pro annual plan, reducing the price from $79 to $49 through December 14, 2026.</p>
-<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/collaya-listener/">bedroomproducersblog.com</a> | <a href="https://collaya.com/download">collaya.com</a></p>
 <br clear="all" />
 
 ---

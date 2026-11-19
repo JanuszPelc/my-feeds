@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Running 15 Million Web Servers on a Single Virtual Machine</h2>
+<a name="story-28081"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkapteko.com%2F15-million-webservers%2Fwebservers-benchmark-social.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>This article explores the technical feasibility of running 15 million web servers on a single virtual machine configured with 10 gigabytes of RAM and one CPU core. It examines standard operating system limitations, including port allocation ranges and per-socket memory overhead, that prevent naive implementations from scaling.</p><p>To bypass kernel-level constraints, the author proposes a custom userland runtime utilizing the smoltcp TCP/IP stack alongside high-performance networking interfaces like DPDK and AF_XDP. This design minimizes memory overhead per connection to achieve massive scale within strict hardware boundaries.</p>
+<p>Nov 19 · <a href="https://kapteko.com/15-million-webservers/">kapteko.com</a> | <a href="https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50556533">hacker news</a></p>
+<br clear="all" />
+
 <h2>Element Releases Matrix Conference 2026 Public Sector Session Recordings</h2>
 <a name="story-28072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Element has published the public sector track recordings from the Matrix Conference 2026, highlighting government deployments, digital sovereignty, and secure communication strategies across European public institutions.</p><p>The sessions feature case studies and technical discussions from organizations including the European Commission, NATO, French public sector tech agency DINUM, Swedish social insurance agency Försäkringskassan, and the German state of Schleswig-Holstein.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27900"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXcCgCqEYuL4PLdiAFN6IYDfBLd7-fjq86Mf0YH6Irb4z7HPmt1xIX0Wyf3fLnCwyq_BugpQtFO8YoXTlh7kgVTNajCRx-VT2rLU39e4b4Jy377T3sw6KLbcuV3zj18i99kXnV3z%3Fkey%3DdoxBsn0NmOFAw9ZfPAlZLWET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cybersecurity firm Xint has disclosed multiple remote code execution vulnerabilities affecting the NGINX web server, including an unauthenticated flaw involving HTTP/2 flow control. The research details how automated scanning identified several CVEs that can be chained with a Linux kernel vulnerability to achieve root access on host servers.</p><p>The findings highlight ongoing security challenges in widely deployed infrastructure software and emphasize the urgency of applying patches. Organizations running affected NGINX versions are advised to update their systems to mitigate potential unauthenticated exploitation risks.</p>
 <p>Nov 18 · <a href="https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/">forbes.com</a> | <a href="https://xint.io/blog/nginx2root-remote-code-execution">xint.io</a></p>
-<br clear="all" />
-
-<h2>Citibank Updates Terms to Make Customers Liable for Losses Incurred by Third-Party AI Agents</h2>
-<a name="story-27914"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.lyzr.ai%2Fwp-content%2Fuploads%2F2025%2F01%2Fimage-17-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Citibank has updated its online user agreement to state that customers who use third-party artificial intelligence tools to access their accounts will be held fully responsible for any resulting transactions or credential leaks. The bank joins other major financial institutions like JPMorgan Chase, Bank of America, and PNC in shifting liability to consumers who grant automated assistants access to their personal financial portals.</p><p>The policy changes highlight growing friction between traditional banks and the rise of autonomous financial tech tools, which are increasingly marketed to manage spending, investments, and bill payments. While startups and labs race to integrate personal finance features into AI agents, financial institutions are warning customers that security breaches or unauthorized actions caused by these tools are the user's sole responsibility.</p>
-<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/">techcrunch.com</a> | <a href="https://www.citi.com/tandc">citi.com</a></p>
 <br clear="all" />
 
 ---

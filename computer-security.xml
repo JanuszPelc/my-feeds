@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T16:23:00+00:00</updated>
+  <updated>2026-11-19T18:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Running 15 Million Web Servers on a Single Virtual Machine</title>
+    <link href="https://kapteko.com/15-million-webservers/" rel="alternate" />
+    <id>https://kapteko.com/15-million-webservers/::v240</id>
+    <published>2026-11-19T18:18:00+00:00</published>
+    <updated>2026-11-19T18:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fkapteko.com%2F15-million-webservers%2Fwebservers-benchmark-social.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://kapteko.com/15-million-webservers/">kapteko.com</a> | <a href="https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50556533">hacker news</a></small></p><hr/><p>This article explores the technical feasibility of running 15 million web servers on a single virtual machine configured with 10 gigabytes of RAM and one CPU core. It examines standard operating system limitations, including port allocation ranges and per-socket memory overhead, that prevent naive implementations from scaling.</p><p>To bypass kernel-level constraints, the author proposes a custom userland runtime utilizing the smoltcp TCP/IP stack alongside high-performance networking interfaces like DPDK and AF_XDP. This design minimizes memory overhead per connection to achieve massive scale within strict hardware boundaries.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fkapteko.com%2F15-million-webservers%2Fwebservers-benchmark-social.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 23:48 UTC | #28081</small>]]></content>
+  </entry>
   <entry>
     <title>Element Releases Matrix Conference 2026 Public Sector Session Recordings</title>
     <link href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/" rel="alternate" />
