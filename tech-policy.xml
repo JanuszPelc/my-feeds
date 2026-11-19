@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-19T15:38:00+00:00</updated>
+  <updated>2026-11-19T16:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Trump's Super Intelligence Executive Orders Unlikely to Alter US-China AI Race Dynamics</title>
+    <link href="https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219" rel="alternate" />
+    <id>https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219::v240</id>
+    <published>2026-11-19T16:54:00+00:00</published>
+    <updated>2026-11-19T16:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.theglobeandmail.com%2Fresizer%2Fv2%2F4IYGRBSV7VJG7KYNRFOUH4FZTA.jpg%3Fauth%3D8b12d9cf836399292fdfb19eb146b7ae31c7596516f3dbf788bb86f044a9a9ac%26width%3D1200%26height%3D800%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219">theconversation.com</a> | <a href="https://www.whitehouse.gov/president-actions/2026/09/inaugurating-the-era-of-super-intelligence/">whitehouse.gov</a></small></p><hr/><p>President Donald Trump has signed executive orders directing federal agencies to replace the term artificial intelligence with "super intelligence" and established a Super Intelligence Force to coordinate national policy. This analysis argues that while federal coordination addresses fragmentation, the rebranding and voluntary industry accords are unlikely to grant the United States a decisive advantage in the global AI race against China.</p><p>The newly formed task force, led by figures including Jay Clayton and Andrew Ferguson, faces significant hurdles, including a lack of disclosed funding, enforcement powers, and direct oversight from AI safety experts. Furthermore, because frontier AI development is overwhelmingly driven by private capital and the performance gap between U.S. and Chinese models continues to narrow, executive actions alone remain vulnerable to changing political cycles and private sector independence.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theglobeandmail.com%2Fresizer%2Fv2%2F4IYGRBSV7VJG7KYNRFOUH4FZTA.jpg%3Fauth%3D8b12d9cf836399292fdfb19eb146b7ae31c7596516f3dbf788bb86f044a9a9ac%26width%3D1200%26height%3D800%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 22:04 UTC | #28052</small>]]></content>
+  </entry>
   <entry>
     <title>Moonshot AI Cancels $150 Million Contract for Nvidia Chips in Indonesia</title>
     <link href="https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia" rel="alternate" />
