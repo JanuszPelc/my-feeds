@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/tech-industry.png" width="28" align="texttop" /> &nbsp;IEA Forecasts Global Data Center Investment to Reach $4 Trillion by 2030</h2>
+<a name="story-28017"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fb521bd_7fd793cbba9043f0855b5cebf58ba728~mv2.png%2Fv1%2Ffill%2Fw_980%2Ch_536%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2Fb521bd_7fd793cbba9043f0855b5cebf58ba728~mv2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The International Energy Agency projects that global data center investments will reach $4 trillion by 2030, driven heavily by rapid expansion in artificial intelligence. This infrastructure boom threatens to push power grids to their limits as electricity consumption escalates.</p><p>According to the agency, fewer than 100 major AI projects alone will require a combined 50 gigawatts of power, an amount matching the peak electricity demand of the United Kingdom. The surging energy requirements highlight growing strains on global energy networks and the urgent need for grid reinforcement.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/iea-sees-data-center-boom-pushing-power-grids-to-the-limit">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-policy.png" width="28" align="texttop" /> &nbsp;AI Regulation Could Benefit from Safety Frameworks Used in High-Hazard Industries</h2>
 <a name="story-27772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770360%2Foriginal%2Ffile-20261105-64-ft00t4.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI regulation faces significant challenges due to the increasing complexity and autonomy of AI agents. In highly interconnected systems, the interaction of multiple components can trigger unpredictable, cascading failures—a phenomenon known as "normal accidents"—that may occur too rapidly for human intervention.</p><p>Adopting frameworks from high-reliability industries like aviation and nuclear power could help manage these risks. By focusing on organizational safety cultures, continuous learning from near misses, and robust assurance infrastructures, regulators can move beyond one-off technical tests toward a more resilient governance model.</p>
@@ -101,12 +107,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FGrand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dual protagonists Jason and Lucia drive a criminal partnership balanced by moments of domestic routine. Set in an expanded Vice City, the game juxtaposes high-stakes action with interactive, mundane activities within a highly detailed urban simulation.</p><p>Technical achievements include an advanced crowd system, sophisticated lighting, and dense interior environments. While the game receives criticism for occasional repetitive missions and dated humor, it is noted for its massive scale, complex simulation elements, and immersive side activities.</p>
 <p>Nov 18 · <a href="https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/">arstechnica.com</a></p>
-<br clear="all" />
-
-<h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;BugMeNot Credential-Sharing Service Closes</h2>
-<a name="story-27806"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.appuals.com%2Fwp-content%2Fuploads%2F2016%2F02%2F2016-02-21_074752-1024x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Credential-sharing and login-bypass service BugMeNot has shut down after operating for more than two decades. The website replaced its directory of shared accounts with a brief farewell message thanking users who envisioned a better internet, accompanied by an unexplained block of encoded characters.</p><p>Launched in 2003, BugMeNot allowed users to bypass mandatory registration walls on websites by providing crowdsourced login credentials. Its closure marks the end of an era for early web accessibility tools as modern security measures, including multi-factor authentication, have rendered traditional account-sharing increasingly obsolete.</p>
-<p>Nov 18 · <a href="https://www.bugmenot.com/">bugmenot.com</a> | <a href="https://news.ycombinator.com/item?id=50523601">hacker news</a></p>
 <br clear="all" />
 
 ---
