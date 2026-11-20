@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Boltz Raises $110M Series A Funding for AI Drug Discovery</h2>
+<a name="story-28053"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.genengnews.com%2Fwp-content%2Fuploads%2F2025%2F12%2FGettyImages-2233341375-696x348.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>London-based AI drug discovery startup Boltz has raised $110 million in a Series A funding round led by Bessemer Venture Partners. The company develops open-source AI models designed to predict protein and drug candidate interactions, helping pharmaceutical researchers speed up drug development.</p><p>The round includes participation from existing backers such as Andreessen Horowitz, Amplify Partners, Zetta Venture Partners, Obvious Ventures, and Nvidia, alongside new investors including Greycroft, F-Prime Capital, Hummingbird, and Benchling. Boltz plans to use the capital to expand its team in London and scale its computing and data infrastructure.</p>
+<p>Nov 19 · <a href="https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/">tech.eu</a> | <a href="https://boltz.com/series-a">boltz.com</a></p>
+<br clear="all" />
+
 <h2>StepSecurity Raises $20 Million Series A Funding for Supply Chain Security</h2>
 <a name="story-28036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdianapps.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F04%2FSoftware-Supply-Chain-Security.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cybersecurity startup StepSecurity has raised a $20 million Series A funding round led by Elephant, bringing the company's total funding to $23 million. The capital will support its efforts to protect software pipelines against supply chain attacks.</p><p>The funding follows a series of high-profile security incidents involving software supply chain vulnerabilities, malicious extensions, and targeted cyber attacks. StepSecurity provides tools designed to help organizations secure their software development and build environments.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27848"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinist.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSolana-and-CoinGecko-Partnership-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Solana Foundation has acquired a majority interest in crypto data provider CoinGecko. The strategic investment aims to expand CoinGecko's market intelligence, trading services, and data capabilities across its platform.</p><p>As part of the initiative, the foundation plans to integrate Solana-powered trading features into CoinGecko's website, mobile app, and GeckoTerminal. The collaboration seeks to serve CoinGecko's 18 million registered users and support the platform's broader expansion phase.</p>
 <p>Nov 18 · <a href="https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko">coindesk.com</a> | <a href="https://solana.com/news/coingecko-backed-by-solana-foundation">solana.com</a></p>
-<br clear="all" />
-
-<h2>NVIDIA Reports Third Quarter Fiscal 2027 Financial Results</h2>
-<a name="story-27812"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fforums%2Fattachments%2F386910&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>NVIDIA recorded $115.8 billion in revenue for the third quarter of fiscal 2027, a 103% increase year-over-year. Data center revenue reached $107.6 billion, up 110% from a year ago. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively.</p><p>The company has begun shipping its Vera Rubin NVL72 computing platform and increased its share repurchase authorization by $150 billion. For the fourth quarter of fiscal 2027, NVIDIA expects revenue to be approximately $130 billion.</p>
-<p>Nov 18 · <a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027">nvidianews.nvidia.com</a> | <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx">investor.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50538361">hacker news</a></p>
 <br clear="all" />
 
 ---

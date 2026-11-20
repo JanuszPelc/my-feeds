@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Closes Up 17% in Nasdaq Trading Debut</h2>
+<a name="story-28054"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic closed up 17% at $97.17 in its Nasdaq debut, achieving a market capitalization of $1.3 trillion. The stock opened at $111.50, representing a 34% increase from its initial public offering price of $83 per share.</p><p>The listing followed an offering of 980 million Class A shares that priced above the company's amended target range. The market debut marks a major valuation milestone for the artificial intelligence sector, building on financial disclosures outlining rapid commercial expansion alongside substantial operating costs.</p>
+<p>Nov 19 · <a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">reuters.com</a> | <a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering">anthropic.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0nraf/anthropics_ipo_could_deliver_156b_to_charity/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50562754">hacker news</a></p>
+<br clear="all" />
+
 <h2>AMD Shares Fall After Hunterbrook Discloses Short Position and China Link Allegations</h2>
 <a name="story-28045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2025%2F08%2FUntitled-design-7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Advanced Micro Devices Inc. shares dropped after Hunterbrook Capital disclosed a short position in the chipmaker. The short seller's investigation alleged that AMD firmware appeared in post-blacklisting BIOS updates from IEIT Systems, a restricted Chinese server manufacturer, while also raising concerns over the company's revenue exposure to China.</p><p>The market reaction underscored ongoing regulatory and supply chain vulnerabilities for major semiconductor firms navigating export controls. The allegations brought renewed scrutiny to compliance measures surrounding restricted entities in international markets.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27988"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.magica.com%2Fblog%2Fai-news%2F2026-11-10%2F93-anthropic-reserves-up-to-12-9b-of-ipo-shares-for%2F87d6b19b944c47e4897e7349d99a675184379cfbdd6ef8851feccd047382b73e.png%3Fv%3D87d6b19b944c47e4897e7349d99a675184379cfbdd6ef8851feccd047382b73e&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's S-1 filing suggests a plan to reserve up to 20% of its shares for retail investors. However, sources indicate that the final allocation is expected to fall significantly lower, potentially aligning with the 5% to 10% range typical of large-scale public offerings.</p><p>The proposed allocation reflects the intense demand for AI-related equities and the pressure on Wall Street to accommodate a growing base of individual investors. The company intends to offer approximately 825 million Class A shares on the Nasdaq under the ticker "ANT."</p>
 <p>Nov 19 · <a href="https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f">ft.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">sec.gov</a> | <a href="https://news.ycombinator.com/item?id=50242939">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Employees Discuss AI Development Pace Ahead of Landmark IPO</h2>
-<a name="story-27987"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic employees, referred to as "Ants," are reporting muted enthusiasm as the company prepares for a historic initial public offering (IPO). The internal discourse among staff centers on the rapid velocity of frontier artificial intelligence development and the strategic implications of transitioning to a public company.</p><p>The reporting highlights a core tension between the company's commercial goals and its commitment to AI safety. While the IPO is expected to be a major financial milestone, it has prompted internal debate over whether the pursuit of scale and profit might compromise the pace of responsible development.</p>
-<p>Nov 19 · <a href="https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&smid=url-share">nytimes.com</a></p>
 <br clear="all" />
 
 ---

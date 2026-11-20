@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-19T22:59:00+00:00</updated>
+  <updated>2026-11-20T03:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Anthropic Closes Up 17% in Nasdaq Trading Debut</title>
+    <link href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/" rel="alternate" />
+    <id>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/::v240</id>
+    <published>2026-11-20T03:09:00+00:00</published>
+    <updated>2026-11-20T03:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">reuters.com</a> | <a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering">anthropic.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0nraf/anthropics_ipo_could_deliver_156b_to_charity/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50562754">hacker news</a></small></p><hr/><p>Anthropic closed up 17% at $97.17 in its Nasdaq debut, achieving a market capitalization of $1.3 trillion. The stock opened at $111.50, representing a 34% increase from its initial public offering price of $83 per share.</p><p>The listing followed an offering of 980 million Class A shares that priced above the company's amended target range. The market debut marks a major valuation milestone for the artificial intelligence sector, building on financial disclosures outlining rapid commercial expansion alongside substantial operating costs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 03:07 UTC | #28054 | ht,r</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Firms Use US AI Models to Train Domestic Rivals via Distillation</title>
     <link href="https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/" rel="alternate" />

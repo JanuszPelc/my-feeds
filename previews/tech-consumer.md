@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Meta Prices Upcoming Muse Charm AI Device at $300</h2>
+<a name="story-28075"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fmeta-muse-charm.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta plans to price its upcoming Muse Charm AI device at $300, according to a report by The Information. The Tamagotchi-like hardware companion, initially teased at Meta's Connect event, is designed to give a physical form to the company's Muse AI agent, letting users carry or wear the assistant to interact via voice and commands.</p><p>While Meta has not officially confirmed the pricing detail, the $300 figure places the keychain-sized wearable in a similar price tier to competing consumer AI devices like Friend, though it remains notably more expensive than alternatives such as Amazon's Bee Frontier. The hardware effort arrives as Meta expands its consumer AI footprint following the rollout of its Muse agentic software and animated avatars.</p>
+<p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/">techcrunch.com</a> | <a href="https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Grand Theft Auto VI Launch Sets Twitch Viewership Records</h2>
 <a name="story-28020"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Frealistically-how-many-views-will-gta-vi-have-on-twitch-v0-ox1nsgw47spc1.jpeg%3Fauto%3Dwebp%26s%3De4db81a4740a6aece8048dd825d5f26876142c53&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Grand Theft Auto VI achieved the largest game launch in Twitch history, drawing approximately 3.3 million concurrent viewers upon its release. The debut spurred massive livestream influencer marathons and drove significant early audience engagement across the platform.</p><p>The record-breaking streaming figures accompany projections that the title will generate over $3 billion in revenue during its first few months on the market. The launch has triggered extensive cross-platform streaming activity, highlighting the game's immediate commercial and cultural impact.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27867"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgdm-universal-media.b-cdn.net%2Fstealth%2Ffd7b1ee087f057433bbf6c3f8390c66db2497682-1024x576.jpg%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sony has released a mandatory PS5 system software update (version 14.23) required to play Grand Theft Auto VI upon its launch on November 19, 2026. PlayStation Support confirmed that users must download and install the 1.267 GB update before midnight on launch day to ensure the game is playable. The update, which primarily includes security fixes, was officially boosted by Rockstar Games' social media accounts.</p><p>The update arrives amid a continuous struggle between Sony and the homebrew community to secure consoles against jailbreaks and piracy. By requiring a specific firmware version, Sony aims to block unauthorized modifications that could jeopardize the security of its software releases. Additionally, Take-Two CEO Strauss Zelnick recently highlighted the company's commitment to enhancing technical and legal defenses to combat AI-driven reverse engineering and piracy for the highly anticipated title.</p>
 <p>Nov 18 · <a href="https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement">ign.com</a> | <a href="https://x.com/PS_Support_US/status/2122863683881619685">x.com</a></p>
-<br clear="all" />
-
-<h2>Grand Theft Auto VI Review</h2>
-<a name="story-27865"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2FGrand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Dual protagonists Jason and Lucia drive a criminal partnership balanced by moments of domestic routine. Set in an expanded Vice City, the game juxtaposes high-stakes action with interactive, mundane activities within a highly detailed urban simulation.</p><p>Technical achievements include an advanced crowd system, sophisticated lighting, and dense interior environments. While the game receives criticism for occasional repetitive missions and dated humor, it is noted for its massive scale, complex simulation elements, and immersive side activities.</p>
-<p>Nov 18 · <a href="https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/">arstechnica.com</a></p>
 <br clear="all" />
 
 ---
