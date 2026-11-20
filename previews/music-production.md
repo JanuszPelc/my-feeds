@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Blue Cat Audio Releases Blue Cat&#x27;s PatchWork 2.79</h2>
+<a name="story-28069"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbluecatpatchwork.1795118873.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Blue Cat Audio has released PatchWork 2.79, a free update for its virtual patchbay, multi-effects processor, and plug-in host. The update introduces Macro Controls V3, featuring enhanced parameter mapping capabilities that allow macro controls to automatically follow target parameter displays and step counts, complete with customizable response curves for each mapped parameter.</p><p>The new version also includes numerous bug fixes and compatibility improvements addressing stability issues across Pro Tools, Digital Performer, and Studio One, alongside enhanced MIDI handling, offline rendering, and latency reporting. The update is available free of charge for existing customers, with demo versions accessible on the developer's website.</p>
+<p>Nov 19 · <a href="https://www.kvraudio.com/news/blue-cat-audio-releases-blue-cats-patchwork-2-79-69978?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69978">kvraudio.com</a> | <a href="https://www.bluecataudio.com/Blog/announcements/new-patchwork2-79-whats-new/">bluecataudio.com</a></p>
+<br clear="all" />
+
 <h2>Thomann Launches Early Black Friday Sale With Discounts on Studio Gear</h2>
 <a name="story-28082"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2025%2F11%2FThomann-BF-deals%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Retailer Thomann has launched its early Black Friday sale, featuring discounts across studio monitors, MIDI controllers, audio interfaces, and software plugins. Notable early reductions include offers on the Beyerdynamic DJ 300 PRO X Club headphones, the Novation Launchkey Mini 37 MK4, and the Focusrite Scarlett 18i20 4th Gen audio interface bundled with software packages.</p><p>The retailer curates its sale items based on positive editorial reviews and industry popularity, offering products alongside standard return policies and customer support. The promotional page is scheduled to be updated daily throughout the Black Friday and Cyber Monday shopping period.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-27912"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpuresmooth.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonible has released pure:smooth, an AI-powered dynamic resonance suppressor plugin designed to identify and reduce unwanted resonances and harsh frequencies across various audio sources including vocals, guitars, and synths.</p><p>The plugin includes controls for adjusting smoothing, resolution, spectral shaping, frequency range, and difference monitoring. It is available at an introductory price of €25 and is also featured in the company's pure:bundle collection.</p>
 <p>Nov 18 · <a href="https://www.kvraudio.com/news/sonible-releases-pure-smooth---dynamic-resonance-suppressor-plugin-69931?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69931">kvraudio.com</a> | <a href="https://www.sonible.com/puresmooth">sonible.com</a></p>
-<br clear="all" />
-
-<h2>Phil Speiser Releases The Pitch 2 Mini Free Vocal Pitch Correction Plugin</h2>
-<a name="story-27907"><img src="https://wsrv.nl/?url=https%3A%2F%2Fframerusercontent.com%2Fimages%2FpexyMnmELkTyNlRAtULwFcjEFM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Phil Speiser has released The Pitch 2 Mini, a free pitch correction plugin for macOS and Windows designed for vocals and other single-note sources. The software features automatic key detection, drift compensation, and a blend dial that scales processing from natural vibrato preservation to hard robotic tuning.</p><p>The plugin provides automation options for targeted note adjustments and offers three distinct latency modes optimized for mixing, recording, and live performance. Compatible with VST3, AU, and AAX formats, the plugin is available through a free checkout process on the developer's website.</p>
-<p>Nov 18 · <a href="https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/">bedroomproducersblog.com</a> | <a href="https://www.philspeiser.com/product/the_pitch-2-mini">philspeiser.com</a></p>
 <br clear="all" />
 
 ---

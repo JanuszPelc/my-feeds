@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Leaked Documents Reveal Silicon Valley Funding for Visegrad24</h2>
+<a name="story-28034"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6afcf0ead3e4d723d17cee8e%2Fmaster%2Fw_1600%252Cc_limit%2FIMG_0338.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Leaked financial records and internal communications reveal that the right-wing social media aggregator Visegrad24 secured over a million dollars in funding from prominent Silicon Valley figures, tech executives, and venture capitalists following the October 7, 2023, Hamas attacks. Founded in Poland by Stefan Tompson, the account leveraged its rapid virality on X—where it amplified anti-migrant content and positioned itself as a major pro-Israel voice—to tap into elite donor networks, including encrypted chat groups and donor-advised funds.</p><p>Internal messages show Tompson explicitly identifying fundraising opportunities within wealthy pro-Israel circles while maintaining an editorial focus on anti-Muslim rhetoric. Donations flowed through the Intermarium Foundation, a 501(c)(3) organization, with contributions linked to prominent investors and executives such as Sequoia Capital's Shaun Maguire, Ribbit Capital's Micky Malka, and others, though several donors disputed the outlet's characterization as far-right.</p>
+<p>Nov 19 · <a href="https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/">wired.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0dc9d/leaked_how_silicon_valley_elites_bankrolled_an/">r/technology</a></p>
+<br clear="all" />
+
 <h2>Anthropic IPO Leaves Most Institutional Bidders Without Shares</h2>
 <a name="story-28032"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.monetaryelite.com%2Fwp-content%2Fuploads%2F2026%2F06%2F98c1649b-8a3e-42bf-99b2-f9190f46596a-1024x572.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic PBC's initial public offering left more than half of the institutional investors bidding for stock without any shares, according to people familiar with the matter. The allocations heavily favored US-based investors, effectively shutting out foreign orders.</p><p>The heavy oversubscription and selective distribution reflect intense demand for shares in the artificial intelligence company. Earlier reports indicated that orders from mainland China and Hong Kong were rebuffed ahead of the offering amid regulatory concerns and US export rules.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27956"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2Fm1A9S1T8YIe5YbhGUHG1F0pHKuFoJtr9vchnA5Uui1I%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzg0MzJkOGQxLWMzMjYtNDAzOS05OTIxLTA0MmYxMmVkMDc2MF8xNzkzNjA0NjQwX2RlZmF1bHQuanBn.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic PBC raised approximately $3 billion from Japanese investors by selling 36.1 million shares at $83 each as part of its initial public offering. According to a regulatory filing, the final total landed at the lower end of the company's previously planned range of $3 billion to $3.5 billion.</p><p>The Japan-specific tranche is a component of Anthropic's broader US public listing on the Nasdaq. The capital raise follows the filing of the company's S-1 registration statement amid heightened market activity surrounding major artificial intelligence firms entering public markets.</p>
 <p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Leopold Aschenbrenner Discusses Rebooting Situational Awareness Fund With Leverage</h2>
-<a name="story-27946"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.fintel.io%2Fsituational-awareness-lp-5020-market-value.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI trader Leopold Aschenbrenner has reportedly held discussions about launching "Situational Awareness 2.0," a reboot of his hedge fund that would utilize leverage and outside capital. The talks come roughly four months after Citadel stepped in to rescue his previous fund following severe drawdowns in AI-focused public equities.</p><p>Aschenbrenner’s original Situational Awareness fund suffered a major collapse after heavy directional bets and fourfold leverage led to steep losses. Despite the prior wipeout, discussions regarding a new leveraged venture indicate ongoing interest in high-stakes trading strategies within the artificial intelligence sector.</p>
-<p>Nov 19 · <a href="https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639">ft.com</a></p>
 <br clear="all" />
 
 ---

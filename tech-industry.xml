@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-19T19:14:00+00:00</updated>
+  <updated>2026-11-19T19:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Leaked Documents Reveal Silicon Valley Funding for Visegrad24</title>
+    <link href="https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/" rel="alternate" />
+    <id>https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/::v240</id>
+    <published>2026-11-19T19:15:00+00:00</published>
+    <updated>2026-11-19T19:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6afcf0ead3e4d723d17cee8e%2Fmaster%2Fw_1600%252Cc_limit%2FIMG_0338.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/">wired.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0dc9d/leaked_how_silicon_valley_elites_bankrolled_an/">r/technology</a></small></p><hr/><p>Leaked financial records and internal communications reveal that the right-wing social media aggregator Visegrad24 secured over a million dollars in funding from prominent Silicon Valley figures, tech executives, and venture capitalists following the October 7, 2023, Hamas attacks. Founded in Poland by Stefan Tompson, the account leveraged its rapid virality on X—where it amplified anti-migrant content and positioned itself as a major pro-Israel voice—to tap into elite donor networks, including encrypted chat groups and donor-advised funds.</p><p>Internal messages show Tompson explicitly identifying fundraising opportunities within wealthy pro-Israel circles while maintaining an editorial focus on anti-Muslim rhetoric. Donations flowed through the Intermarium Foundation, a 501(c)(3) organization, with contributions linked to prominent investors and executives such as Sequoia Capital's Shaun Maguire, Ribbit Capital's Micky Malka, and others, though several donors disputed the outlet's characterization as far-right.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6afcf0ead3e4d723d17cee8e%2Fmaster%2Fw_1600%252Cc_limit%2FIMG_0338.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 01:03 UTC | #28034</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic IPO Leaves Most Institutional Bidders Without Shares</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers" rel="alternate" />
