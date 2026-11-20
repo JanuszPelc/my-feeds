@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T20:25:00+00:00</updated>
+  <updated>2026-11-20T01:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Lastbook Offline Desktop Survival Library Now Available</title>
+    <link href="https://lastbook.org/" rel="alternate" />
+    <id>https://lastbook.org/::v240</id>
+    <published>2026-11-20T01:06:00+00:00</published>
+    <updated>2026-11-20T01:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lastbook.org/">lastbook.org</a> | <a href="https://news.ycombinator.com/item?id=50560822">hacker news</a></small></p><hr/><p>Lastbook is a free, offline, local desktop application designed for Mac, Windows, and Linux that provides a comprehensive reference library for emergency preparedness, survival, and societal rebuilding. The software bundles thousands of instructional videos, over 258,000 searchable map places, and detailed guides covering first aid, safe drinking water, food preservation, critical repairs, and energy basics.</p><p>Users can select library storage tiers ranging from 7.7 GB to approximately 388 GB. The application features an optional local Gemma-based AI model capable of answering queries and citing sources directly from the offline library without requiring an internet connection. Medical information within the app is sourced from established organizations including the World Health Organization, the Red Cross, and Hesperian.</p><hr/><small>20 Nov 2026, 10:13 UTC | #28107</small>]]></content>
+  </entry>
   <entry>
     <title>Herman Õunapuu Criticizes Anthropic Claude Security Safeguards and Verification Requirements</title>
     <link href="https://ounapuu.ee/posts/2026/11/19/unsafeguards/" rel="alternate" />
