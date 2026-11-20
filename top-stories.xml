@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-20T21:13:00+00:00</updated>
+  <updated>2026-11-20T21:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Spitfire Audio LABS and LABS+ Sunset Announced</title>
+    <link href="https://bedroomproducersblog.com/2026/11/19/spitfire-audio-labs-farewell/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/19/spitfire-audio-labs-farewell/::v240</id>
+    <published>2026-11-20T21:26:00+00:00</published>
+    <updated>2026-11-20T21:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhelp.uaudio.com%2Fhc%2Farticle_attachments%2F50889853738900&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/19/spitfire-audio-labs-farewell/">bedroomproducersblog.com</a> | <a href="https://support.spitfireaudio.com/en/articles/12247087-what-is-happening-to-labs">support.spitfireaudio.com</a></small></p><hr/><p>Spitfire Audio has announced that its LABS and LABS+ platforms will be sunset on October 31, 2026. Following this deadline, the products will no longer receive new content, updates, or technical support, with all future developments moving to the Splice INSTRUMENT platform. While current LABS installations will continue to function, they will lack compatibility updates for new operating systems or DAWs, and users are encouraged to migrate their content to Splice to ensure continued functionality.</p><p>The decision follows Splice's acquisition of Spitfire Audio in early 2025 and the prior introduction of LABS+ as a paid subscription tier. The transition has drawn criticism for shifting the focus of a long-standing free project toward monetization, potentially alienating the budget-conscious creator demographic that the LABS brand originally served. While LABS content remains available on Splice INSTRUMENT, users must manually replace existing plugin instances in their projects to maintain compatibility.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.uaudio.com%2Fhc%2Farticle_attachments%2F50889853738900&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 14:48 UTC | #27997 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Apple HomeView Teardown Reveals Low Repairability</title>
     <link href="https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward" rel="alternate" />
