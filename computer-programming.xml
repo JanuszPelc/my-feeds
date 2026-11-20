@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-20T01:09:00+00:00</updated>
+  <updated>2026-11-20T01:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Elixir v1.21 Implements Type Inference and Narrowing Using Reverse Arrows</title>
+    <link href="https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/" rel="alternate" />
+    <id>https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/::v240</id>
+    <published>2026-11-20T01:53:00+00:00</published>
+    <updated>2026-11-20T01:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fforum.typst.app%2Fuploads%2Fdefault%2Foriginal%2F2X%2Fd%2Fdaead0e468e4fe1afc3afed5cb209d39dd52c89f.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/">elixir-lang.org</a> | <a href="https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse">lobsters</a></small></p><hr/><p>José Valim and Guillaume Duboc explain how upcoming Elixir v1.21 implements type inference and narrowing through reverse arrows, propagating expected results backward through function domains rather than relying on hardcoded special cases.</p><p>This mechanism enables Elixir to pass all tests in the If-T type narrowing benchmark, improving bug detection in existing codebases and supporting precise type refinement across assignments, patterns, and conditionals.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fforum.typst.app%2Fuploads%2Fdefault%2Foriginal%2F2X%2Fd%2Fdaead0e468e4fe1afc3afed5cb209d39dd52c89f.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 12:20 UTC | #28114</small>]]></content>
+  </entry>
   <entry>
     <title>OpenJDK Pull Request 32781 Addresses AVX-512 Base64 Decoder Buffer Overwrite</title>
     <link href="https://github.com/openjdk/jdk/pull/32781" rel="alternate" />

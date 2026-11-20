@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Elixir v1.21 Implements Type Inference and Narrowing Using Reverse Arrows</h2>
+<a name="story-28114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fforum.typst.app%2Fuploads%2Fdefault%2Foriginal%2F2X%2Fd%2Fdaead0e468e4fe1afc3afed5cb209d39dd52c89f.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>José Valim and Guillaume Duboc explain how upcoming Elixir v1.21 implements type inference and narrowing through reverse arrows, propagating expected results backward through function domains rather than relying on hardcoded special cases.</p><p>This mechanism enables Elixir to pass all tests in the If-T type narrowing benchmark, improving bug detection in existing codebases and supporting precise type refinement across assignments, patterns, and conditionals.</p>
+<p>Nov 20 · <a href="https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/">elixir-lang.org</a> | <a href="https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse">lobsters</a></p>
+<br clear="all" />
+
 <h2>OpenJDK Pull Request 32781 Addresses AVX-512 Base64 Decoder Buffer Overwrite</h2>
 <a name="story-28108"><img src="https://wsrv.nl/?url=https%3A%2F%2Faaroncomo.github.io%2Fassets%2Fimg%2F2023-11-22-heap-overflow.assets%2Fimage-20231122001038966.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A pull request submitted by albertnetymk for OpenJDK addresses a bug in the x86_64 AVX-512 VBMI path of the Base64 decoder intrinsic. When processing invalid inputs with a length of less than four bytes, the decoding logic incorrectly computes output size and causes the stub to write past the output buffer, potentially corrupting the heap.</p><p>The proposed fix implements an early return to Java when input lengths are shorter than four bytes, preventing the negative output size calculation. Although the pull request was eventually closed without merging, the underlying issue highlights security risks associated with short padded inputs in hardware-accelerated decoding paths.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27847"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaM_8vhVE6jA%2Fhqdefault.jpg%3Fsqp%3D-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC1gOKAgwIABABGE4gXyhlMA8%3D%26rs%3DAOn4CLCLfG-0YpZKdxB4hUfREoifN90hWQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The WWDC 2007 Core Animation demonstration featured seamless features such as live video walls, instant zooming, and instant tag search on 2007-era hardware.</p><p>Modern macOS versions, including Sequoia and Tahoe, exhibit slower interface response times, particularly regarding the loading speed of system panels.</p>
 <p>Nov 18 · <a href="https://lucas.love/100/058">lucas.love</a> | <a href="https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc">lobsters</a></p>
-<br clear="all" />
-
-<h2>curl Maintainer Responds to AI-Generated Rust Rewrites</h2>
-<a name="story-27844"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHIZB2TfagAAu_96.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI-driven efforts have recently produced Rust-based reimplementations of curl and libcurl, including projects like urlx and a newer codebase that used AI agents to convert approximately 185,000 lines of C code. These rewrites aim to provide memory safety by leveraging Rust's features to address historical vulnerabilities in the original C implementation.</p><p>Maintainer Daniel Stenberg argues that while AI can efficiently translate source code, it cannot replicate the decades of stability, continuous bug fixing, and community feedback that sustain the curl project. He notes that the actual curl project implemented hundreds of updates and security fixes during the same period these AI rewrites were being developed, emphasizing that ongoing maintenance is more critical to software longevity than a change in programming language.</p>
-<p>Nov 17 · <a href="https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50525713">hacker news</a></p>
 <br clear="all" />
 
 ---
