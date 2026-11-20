@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>China to Bar Post-2023 Red-Chip Firms From Listing Outside Mainland China, Sources Say</h2>
+<a name="story-28113"><img src="https://wsrv.nl/?url=https%3A%2F%2Farc-group.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fcsrc-filing-notices-us-listings-1200-750x641.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>China's securities regulator has reportedly informed law firms that it will not approve plans by red-chip companies established after 2023 to list outside mainland China. The reported restriction targets offshore-incorporated tech startups, effectively requiring them to re-domicile within mainland China before pursuing external public offerings.</p><p>The policy builds upon overseas listing rules introduced in 2023, tightening regulatory oversight over Chinese companies seeking capital abroad. By restricting younger offshore corporate structures, Beijing aims to close longstanding loopholes and exert greater control over domestic technology and business assets attempting to access international markets.</p>
+<p>Nov 20 · <a href="https://www.reuters.com/world/beijing-bar-young-red-chip-firms-listing-outside-mainland-china-sources-say-2026-11-20/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>Signal Restricts Screenshots by Default to Block AI Agents</h2>
 <a name="story-28112"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcybersecuritynews.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSignal-Restricts-Screenshots-696x392.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Encrypted messaging service Signal announced it will restrict screenshots by default on mobile devices to prevent operating system-level AI assistants, such as Siri AI and Gemini, from capturing and reading private chats.</p><p>Signal cautioned that these new protections remain incomplete because they cannot stop AI agents from accessing data stored elsewhere on the device, while confirming that users will retain the ability to opt out of the restriction.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27998"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techspot.com%2Fimages2%2Fnews%2Fbigimage%2F2022%2F11%2F2022-11-10-image-18.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TSMC and Samsung Electronics have suspended shipments of certain semiconductor chips to Chinese customers following the introduction of new export controls by the US Commerce Department. The companies are currently seeking the necessary licenses to resume shipments while ensuring compliance with the updated regulations.</p><p>The suspension reflects the expanding scope of US restrictions on high-end technology and its impact on the global semiconductor supply chain. Both manufacturers are navigating the licensing process amidst heightened geopolitical scrutiny and trade barriers intended to limit China's access to advanced hardware.</p>
 <p>Nov 19 · <a href="https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74">ft.com</a></p>
-<br clear="all" />
-
-<h2>ICE Pays AT&amp;T Millions for Access to Call Records Through Data Analytical Services Program</h2>
-<a name="story-28029"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fice-att-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Immigration and Customs Enforcement is paying AT&amp;T millions of dollars for access to raw call records and analytical services under a program known as Data Analytical Services, according to restricted procurement documents obtained by 404 Media. Civil liberties experts and lawmakers note that the arrangement functions as a continuation of the controversial Hemisphere surveillance program, granting law enforcement access to trillions of phone and location records.</p><p>The program relies on administrative subpoenas issued directly by agencies rather than judge-approved warrants, raising fourth amendment concerns. Because AT&amp;T provides wholesale routing services to other telecommunications providers, the data collection also sweeps in non-customers who cannot opt out. While officials defend the contract as a standard investigative tool, critics have condemned the arrangement as a warrantless expansion of mass phone surveillance.</p>
-<p>Nov 19 · <a href="https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50562160">hacker news</a></p>
 <br clear="all" />
 
 ---
