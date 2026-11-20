@@ -3,7 +3,7 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-20T10:48:00+00:00</updated>
+  <updated>2026-11-20T11:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
   <entry>
@@ -101,9 +101,9 @@
     <link href="https://www.inside-db.com/" rel="alternate" />
     <id>https://www.inside-db.com/::v240</id>
     <published>2026-11-19T12:24:00+00:00</published>
-    <updated>2026-11-19T12:24:00+00:00</updated>
+    <updated>2026-11-20T11:58:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.inside-db.com%2Fcontent%2Fimages%2F2026%2F11%2FBAD-BANK-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.inside-db.com/">inside-db.com</a> | <a href="https://news.ycombinator.com/item?id=50547620">hacker news</a></small></p><hr/><p>A global investigative project titled Inside Deutsche Bank has released findings from a leak of over 15 million files detailing the inner workings, compliance failures, and controversial practices of the financial institution. Developed in partnership with international media organizations, the investigation highlights systemic blind spots within the bank's anti-financial crime, sanctions monitoring, and internal audit departments.</p><p>The leaked documents uncover numerous high-profile cases, including transactions linked to kleptocracy, the handling of Russian oligarch accounts amid tightening sanctions, and financing operations tied to high-risk entities. The reports provide an extensive look at how the bank repeatedly prioritized commercial gains over stringent regulatory compliance across global markets.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.inside-db.com%2Fcontent%2Fimages%2F2026%2F11%2FBAD-BANK-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 03:50 UTC | #27969 | r,ht</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.inside-db.com/">inside-db.com</a> | <a href="https://news.ycombinator.com/item?id=50547620">hacker news</a></small></p><hr/><p>A global investigative project titled Inside Deutsche Bank has released findings from a leak of over 15 million files detailing the inner workings, compliance failures, and controversial practices of the financial institution. Developed in partnership with international media organizations, the investigation highlights systemic blind spots within the bank's anti-financial crime, sanctions monitoring, and internal audit departments.</p><p>The leaked documents uncover numerous high-profile cases, including transactions linked to kleptocracy, the handling of Russian oligarch accounts amid tightening sanctions, and financing operations tied to high-risk entities. The reports provide an extensive look at how the bank repeatedly prioritized commercial gains over stringent regulatory compliance across global markets.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.inside-db.com%2Fcontent%2Fimages%2F2026%2F11%2FBAD-BANK-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 03:50 UTC | #27969 | rh,t</small>]]></content>
   </entry>
   <entry>
     <title>RevScope Analysis Shows Google AI Overviews Reduce Website Clicks by 40 Percent</title>

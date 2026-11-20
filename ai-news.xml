@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
   <entry>
+    <title>DeepMind Essay Explores Pathways from AGI to Artificial Superintelligence</title>
+    <link href="https://institute.deepmind.com/essays/what-comes-after-agi/" rel="alternate" />
+    <id>https://institute.deepmind.com/essays/what-comes-after-agi/::v240</id>
+    <published>2026-11-20T01:51:00+00:00</published>
+    <updated>2026-11-20T01:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgdm-deepmind-com-prod-public%2Fmedia%2Fimages%2FT0QtshalNA92BKFm%2FWhat_comes_after_AGI__01_continuum.width-1440.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://institute.deepmind.com/essays/what-comes-after-agi/">institute.deepmind.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1y0cnfu/what_comes_after_agi_from_agi_to/">r/singularity</a> | <a href="https://news.ycombinator.com/item?id=50569519">hacker news</a></small></p><hr/><p>In an essay published by the DeepMind Institute, Tim Genewein examines the potential progression from artificial general intelligence to artificial superintelligence, analyzing the continuum of general intelligence and the driving forces behind cognitive industrialization.</p><p>The essay details how rapid advancements in hardware efficiency, compute investment, and algorithmic scaling could drastically reduce the cost of cognitive work. It further outlines four key technological pathways required to bridge the gap toward superintelligence: model and data scaling, paradigm shifts, agent coordination, and recursive self-improvement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgdm-deepmind-com-prod-public%2Fmedia%2Fimages%2FT0QtshalNA92BKFm%2FWhat_comes_after_AGI__01_continuum.width-1440.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 11:58 UTC | #28089</small>]]></content>
+  </entry>
+  <entry>
     <title>Anthropic's Claude Solves Two Open Problems in Black Hole Physics</title>
     <link href="https://www.anthropic.com/research/claude-black-hole-physics" rel="alternate" />
     <id>https://www.anthropic.com/research/claude-black-hole-physics::v240</id>
