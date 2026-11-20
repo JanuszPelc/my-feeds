@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Bert Peters Examines Drawbacks of Default Mutex Poisoning in Rust</h2>
+<a name="story-28095"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.digitalogy.co%2Fblog%2Fwp-content%2Fuploads%2F2025%2F01%2Frust-and-go.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Bert Peters argues that mutex poisoning by default is a significant mistake in Rust, asserting that it penalizes general code performance, increases binary size, and encourages poor error-handling habits to address a niche problem. He contends that state invariants are a universal challenge across all mutable references, making the imposition of runtime overhead specifically on mutexes unjustified.</p><p>Contrasting current stable behavior with nightly features, Peters demonstrates that non-poisoning mutexes eliminate unnecessary panic handling and significantly reduce generated assembly code complexity. He notes that the ecosystem's reliance on third-party alternatives like parking_lot reflects broader dissatisfaction with standard library defaults that fail to serve the common case efficiently.</p>
+<p>Nov 19 · <a href="https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html">bertptrs.nl</a> | <a href="https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone">lobsters</a></p>
+<br clear="all" />
+
 <h2>PHP 8.6 Released with Partial Function Application and New Duration Class</h2>
 <a name="story-28084"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.luismibriz.dev%2Fimages%2Fposts%2Fphp-8-6-novedades-mejoras-rendimiento.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PHP 8.6 has been released with major updates including partial function application, a new \Time\Duration class, a polling API for scalable I/O multiplexing, and a clamp() function. The release also introduces a SortDirection enum, readonly property defaults, parameter doc-comments, and new reflection methods for checking property readability and writability.</p><p>Additional improvements feature post-quantum cryptography support in the Sodium extension, TLS 1.3 early data, improved JSON and stream error handling, and performance optimizations. The update includes several deprecations and backward compatibility breaks, such as deprecating `return` inside `finally` blocks, certain legacy functions, and old sorting flags.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenodium.github.io%2Fimages%2Fhide-another-detail%2Fafter.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Emacs 31 master branch updates include a Dired user option to hide absolute directory paths, an Info.plist update for macOS speech recognition permissions, a "Send to..." menu item for macOS sharing, and restored macOS dictation support.</p><p>Upstream Emacs contributions require assigning copyright to the Free Software Foundation. Open-source sustainability remains a challenge, as many major projects rely on unpaid volunteer labor.</p>
 <p>Nov 17 · <a href="https://xenodium.com/my-emacs-31-contributions">xenodium.com</a> | <a href="https://lobste.rs/s/cezfqe/my_emacs_31_contributions">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50517929">hacker news</a></p>
-<br clear="all" />
-
-<h2>Nikita Prokopov Proposes Redesign of GitHub Repository Page</h2>
-<a name="story-27827"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftonsky.me%2Fblog%2Fgithub-redesign%2F10_as-is.png%3Ft%3D1697319007&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nikita Prokopov proposes a comprehensive redesign of the GitHub repository page to resolve issues with information architecture and visual clutter. His proposal addresses problems like nested navigation tabs, redundant icons, and ambiguous button states by suggesting a flattened tab structure and a cleaner, more minimalist interface.</p><p>The redesign includes the addition of a dedicated "Overview" tab that consolidates recent commits, project activity, and contributor statistics. By relocating the repository description and clone URL to more prominent positions, the proposal aims to increase information density and improve the overall usability of the page.</p>
-<p>Nov 17 · <a href="https://tonsky.me/blog/github-redesign/">tonsky.me</a> | <a href="https://lobste.rs/s/kseyz1/github_redesign_2019">lobsters</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-19T18:25:00+00:00</updated>
+  <updated>2026-11-19T22:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Bert Peters Examines Drawbacks of Default Mutex Poisoning in Rust</title>
+    <link href="https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html" rel="alternate" />
+    <id>https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html::v240</id>
+    <published>2026-11-19T22:04:00+00:00</published>
+    <updated>2026-11-19T22:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.digitalogy.co%2Fblog%2Fwp-content%2Fuploads%2F2025%2F01%2Frust-and-go.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html">bertptrs.nl</a> | <a href="https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone">lobsters</a></small></p><hr/><p>Developer Bert Peters argues that mutex poisoning by default is a significant mistake in Rust, asserting that it penalizes general code performance, increases binary size, and encourages poor error-handling habits to address a niche problem. He contends that state invariants are a universal challenge across all mutable references, making the imposition of runtime overhead specifically on mutexes unjustified.</p><p>Contrasting current stable behavior with nightly features, Peters demonstrates that non-poisoning mutexes eliminate unnecessary panic handling and significantly reduce generated assembly code complexity. He notes that the ecosystem's reliance on third-party alternatives like parking_lot reflects broader dissatisfaction with standard library defaults that fail to serve the common case efficiently.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.digitalogy.co%2Fblog%2Fwp-content%2Fuploads%2F2025%2F01%2Frust-and-go.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 03:56 UTC | #28095</small>]]></content>
+  </entry>
   <entry>
     <title>PHP 8.6 Released with Partial Function Application and New Duration Class</title>
     <link href="https://www.php.net/releases/8.6/en.php" rel="alternate" />
@@ -320,32 +329,5 @@
     <updated>2026-11-15T05:31:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnetbsd.org%2F~nia%2Fdisk-encrypt%2Finstaller1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://netbsd.org/~nia/disk-encrypt/">netbsd.org</a> | <a href="https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50504277">hacker news</a></small></p><hr/><p>This guide outlines a practical approach to disk encryption on NetBSD to safeguard sensitive user data against theft or loss. By maintaining a small, unencrypted root partition for standard system binaries, users can isolate and encrypt critical directories containing user files, logs, and third-party software.</p><p>The setup process utilizes NetBSD's cryptographic device driver, cgd, alongside either traditional disklabels or modern disk wedges depending on the hardware architecture. The walkthrough covers generating encryption parameters, establishing password verification methods, creating secure sub-partitions, and migrating essential directories to the encrypted file system.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnetbsd.org%2F~nia%2Fdisk-encrypt%2Finstaller1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 13:12 UTC | #27542</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ian Miell Publishes Family Tree of Software Job Titles</title>
-    <link href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/" rel="alternate" />
-    <id>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/::v240</id>
-    <published>2026-11-15T03:52:00+00:00</published>
-    <updated>2026-11-15T03:52:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fianmiell%2Fsw-job-title-family-tree%2Fmain%2Fjob_title_family_tree.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/">zwischenzugs.com</a> | <a href="https://news.ycombinator.com/item?id=50499038">hacker news</a></small></p><hr/><p>Ian Miell has created an interactive family tree mapping 104 software job titles from the 1940s to the present across seven disciplinary categories. Built using Graphviz and JSON, the visualization tracks how roles have evolved, split, merged, and recycled over decades in the tech industry.</p><p>The project highlights historical patterns such as the changing status of coding from clerical work to creative engineering, the recurring cycles of specialization and generalization, and the short-lived nature of certain modern titles like prompt engineers. Miell notes that these lineages help clarify contemporary distinctions between roles like DevOps engineers, site reliability engineers, and platform engineers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fianmiell%2Fsw-job-title-family-tree%2Fmain%2Fjob_title_family_tree.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 11:37 UTC | #27540</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ben Visness Introduces Periodic-Oriented Programming for FIRST Robotics</title>
-    <link href="https://bvisness.me/periodic-oriented-programming/" rel="alternate" />
-    <id>https://bvisness.me/periodic-oriented-programming/::v240</id>
-    <published>2026-11-15T03:50:00+00:00</published>
-    <updated>2026-11-15T03:50:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6bae7b_d79aa116570a4b178ab78b48612b6087~mv2.jpg%2Fv1%2Ffill%2Fw_489%2Ch_326%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2FIMG_8050_JPG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bvisness.me/periodic-oriented-programming/">bvisness.me</a> | <a href="https://lobste.rs/s/bwjt1b/periodic_oriented_programming_for_first">lobsters</a></small></p><hr/><p>After seventeen years of involvement with the FIRST Robotics Competition, veteran mentor Ben Visness has published an essay introducing "Periodic-Oriented Programming," a software development philosophy aimed at reducing overengineering in student robotics. The framework encourages writing most robot logic top-to-bottom within a single periodic function using minimal abstractions and centralized hardware subsystems.</p><p>Visness sharply criticizes WPILib's standard command-based programming model, arguing that its hidden state and fragmented structure lead to unnecessary debugging challenges during competitions. The alternative approach prioritizes minimizing global state, avoiding timers and autonomous modes, and executing deterministic behavior through continuous periodic updates to ensure robust and maintainable code.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6bae7b_d79aa116570a4b178ab78b48612b6087~mv2.jpg%2Fv1%2Ffill%2Fw_489%2Ch_326%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2FIMG_8050_JPG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 10:53 UTC | #27539</small>]]></content>
-  </entry>
-  <entry>
-    <title>Daniel Holmgren Details Design and Motivation Behind Atproto Spaces</title>
-    <link href="https://dholms.leaflet.pub/3mu3p3ldwrc26" rel="alternate" />
-    <id>https://dholms.leaflet.pub/3mu3p3ldwrc26::v240</id>
-    <published>2026-11-15T03:48:00+00:00</published>
-    <updated>2026-11-15T03:48:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdholms.leaflet.pub%2Fapi%2Fatproto_images%3Fdid%3Ddid%3Aplc%3Ayk4dd2qkboz2yv6tpubpc6co%26cid%3Dbafkreicqz45nqgtbmmdfdt3eohalynxcfcyr4wyuvol43s6j22m3iu2rc4%26width%3D1200%26v%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://dholms.leaflet.pub/3mu3p3ldwrc26">dholms.leaflet.pub</a> | <a href="https://lobste.rs/s/dwd6xu/reintroducing_spaces">lobsters</a></small></p><hr/><p>Developer Daniel Holmgren explores the architectural motivation and design goals behind Atproto Spaces, a new primitive for the AT Protocol aimed at supporting non-public, multi-user social contexts such as large forums. Spaces organize and permission data through an abstraction of locality, establishing a shared common reality where each record belongs to a single space owned by a specific entity and tied to a particular modality.</p><p>Contrasted with record-level access control lists and "circles," spaces function as lightweight "mini atprotos" that simplify synchronization, moderation, and OAuth consent legibility within a multi-app network. Holmgren argues that grouping content into shared social contexts avoids the cognitive overhead and unintended side effects associated with cross-referencing multiple overlapping permission lists.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdholms.leaflet.pub%2Fapi%2Fatproto_images%3Fdid%3Ddid%3Aplc%3Ayk4dd2qkboz2yv6tpubpc6co%26cid%3Dbafkreicqz45nqgtbmmdfdt3eohalynxcfcyr4wyuvol43s6j22m3iu2rc4%26width%3D1200%26v%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 10:18 UTC | #27538</small>]]></content>
   </entry>
 </feed>
