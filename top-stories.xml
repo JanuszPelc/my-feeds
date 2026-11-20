@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-20T21:26:00+00:00</updated>
+  <updated>2026-11-20T23:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Anthropic Raises $93.5 Billion Total After Underwriters Exercise Greenshoe Overallotment</title>
+    <link href="https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html::v240</id>
+    <published>2026-11-20T23:55:00+00:00</published>
+    <updated>2026-11-20T23:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html">cnbc.com</a> | <a href="https://www.anthropic.com/news/ipo-close">anthropic.com</a></small></p><hr/><p>Anthropic underwriters have officially exercised their overallotment option, bringing the artificial intelligence company's initial public offering total to $93.5 billion. The firm sold an aggregate of 1.127 billion shares of Class A common stock at $83 per share, securing an additional $12.2 billion through the greenshoe purchase.</p><p>When combined with a concurrent $26 billion private placement backed by tech companies including Google, Microsoft, and Nvidia, Anthropic's total gross proceeds reached $119.5 billion. The milestone offering comes amid market volatility and a broader tech sell-off that affected the stock following its Nasdaq debut.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 23:54 UTC | #28117 | t,hr</small>]]></content>
+  </entry>
   <entry>
     <title>Spitfire Audio LABS and LABS+ Sunset Announced</title>
     <link href="https://bedroomproducersblog.com/2026/11/19/spitfire-audio-labs-farewell/" rel="alternate" />
