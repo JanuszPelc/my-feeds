@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-20T01:06:00+00:00</updated>
+  <updated>2026-11-20T10:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Replacing Chamberlain myQ With ratgdo32 for Local Garage Door Control</title>
+    <link href="https://blog.harrison.page/garage-door-spam/" rel="alternate" />
+    <id>https://blog.harrison.page/garage-door-spam/::v240</id>
+    <published>2026-11-20T10:36:00+00:00</published>
+    <updated>2026-11-20T10:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcommunity-assets.home-assistant.io%2Foriginal%2F4X%2F6%2F6%2Fe%2F66eec6dd11bebd5d9d4a3460f9587fb8858e952b.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.harrison.page/garage-door-spam/">blog.harrison.page</a> | <a href="https://lobste.rs/s/tr5ghf/garage_door_spam">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50519231">hacker news</a></small></p><hr/><p>Frustrated by advertisements and the blocking of third-party API access in Chamberlain's myQ garage door application, a user replaced the system's cloud connectivity with ratgdo32 hardware running open-source local firmware.</p><p>The ratgdo boards connect directly to the garage door openers over the local network, enabling seamless integration with Apple HomeKit, custom Slack status notifications, and secure remote health checks via Tailscale without depending on external cloud services.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunity-assets.home-assistant.io%2Foriginal%2F4X%2F6%2F6%2Fe%2F66eec6dd11bebd5d9d4a3460f9587fb8858e952b.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 19:02 UTC | #28145</small>]]></content>
+  </entry>
   <entry>
     <title>Lastbook Offline Desktop Survival Library Now Available</title>
     <link href="https://lastbook.org/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Replacing Chamberlain myQ With ratgdo32 for Local Garage Door Control</h2>
+<a name="story-28145"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunity-assets.home-assistant.io%2Foriginal%2F4X%2F6%2F6%2Fe%2F66eec6dd11bebd5d9d4a3460f9587fb8858e952b.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Frustrated by advertisements and the blocking of third-party API access in Chamberlain's myQ garage door application, a user replaced the system's cloud connectivity with ratgdo32 hardware running open-source local firmware.</p><p>The ratgdo boards connect directly to the garage door openers over the local network, enabling seamless integration with Apple HomeKit, custom Slack status notifications, and secure remote health checks via Tailscale without depending on external cloud services.</p>
+<p>Nov 20 · <a href="https://blog.harrison.page/garage-door-spam/">blog.harrison.page</a> | <a href="https://lobste.rs/s/tr5ghf/garage_door_spam">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50519231">hacker news</a></p>
+<br clear="all" />
+
 <h2>Lastbook Offline Desktop Survival Library Now Available</h2>
 <p>Lastbook is a free, offline, local desktop application designed for Mac, Windows, and Linux that provides a comprehensive reference library for emergency preparedness, survival, and societal rebuilding. The software bundles thousands of instructional videos, over 258,000 searchable map places, and detailed guides covering first aid, safe drinking water, food preservation, critical repairs, and energy basics.</p><p>Users can select library storage tiers ranging from 7.7 GB to approximately 388 GB. The application features an optional local Gemma-based AI model capable of answering queries and citing sources directly from the offline library without requiring an internet connection. Medical information within the app is sourced from established organizations including the World Health Organization, the Red Cross, and Hesperian.</p>
 <p>Nov 20 · <a href="https://lastbook.org/">lastbook.org</a> | <a href="https://news.ycombinator.com/item?id=50560822">hacker news</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27951"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.agilicus.com%2Fwww%2Fb0d29bd4-ai-cyber-criminal.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft CEO Satya Nadella stated during the New York Times DealBook Summit that a significant portion of critical infrastructure, including connected firmware, HVAC systems, and transportation hardware, is unpatchable. He highlighted the growing security risks these vulnerabilities pose as AI-aided cyberattacks accelerate.</p><p>Nadella noted that the smartification of the economy has left many internet-connected devices exposed and difficult to secure. He also discussed how AI has lowered the barrier for sophisticated cyberattacks and compressed the timeline for vulnerability exploitation, forcing companies to push out patches instantly and risking system instability.</p>
 <p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Savyasachee Jha Examines IPv6 Prefix Delegation Failure Modes and Odhcpd</h2>
-<a name="story-27977"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsavyasacheejha.com%2Fprocessed_images%2Fcover.9db9ddeebf162938.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Savyasachee Jha details a recurring network issue where restarting the ISP connection on a custom Linux router leaves stale IPv6 addresses active on client devices, causing internet connectivity failures. The problem stems from systemd-networkd's lack of support for RFC 9096, which requires routers to advertise obsolete prefixes with zero preferred and valid lifetimes during renumbering events.</p><p>To resolve the issue, Jha integrated odhcpd from OpenWrt—an alternative router advertisement daemon that properly implements RFC 9096—into his NixOS router setup. The experience highlights the limitations of relying on general-purpose systemd utilities for server-side networking roles, demonstrating that specialized tools are often necessary to handle edge cases in home networking environments.</p>
-<p>Nov 18 · <a href="https://savyasacheejha.com/posts/why-odhcpd/">savyasacheejha.com</a> | <a href="https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50509141">hacker news</a></p>
 <br clear="all" />
 
 ---
