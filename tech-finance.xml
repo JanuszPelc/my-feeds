@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-19T17:55:00+00:00</updated>
+  <updated>2026-11-19T20:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>StepSecurity Raises $20 Million Series A Funding for Supply Chain Security</title>
+    <link href="https://www.axios.com/pro/enterprise-software-deals/2026/11/18/stepsecurity-supply-chain-cybersecurity" rel="alternate" />
+    <id>https://www.axios.com/pro/enterprise-software-deals/2026/11/18/stepsecurity-supply-chain-cybersecurity::v240</id>
+    <published>2026-11-19T20:04:00+00:00</published>
+    <updated>2026-11-19T20:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdianapps.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F04%2FSoftware-Supply-Chain-Security.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/enterprise-software-deals/2026/11/18/stepsecurity-supply-chain-cybersecurity">axios.com</a> | <a href="https://www.prnewswire.com/news-releases/stepsecurity-raises-20-million-in-series-a-funding-to-prevent-supply-chain-attacks-302941225.html">prnewswire.com</a></small></p><hr/><p>Cybersecurity startup StepSecurity has raised a $20 million Series A funding round led by Elephant, bringing the company's total funding to $23 million. The capital will support its efforts to protect software pipelines against supply chain attacks.</p><p>The funding follows a series of high-profile security incidents involving software supply chain vulnerabilities, malicious extensions, and targeted cyber attacks. StepSecurity provides tools designed to help organizations secure their software development and build environments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdianapps.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F04%2FSoftware-Supply-Chain-Security.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 01:29 UTC | #28036</small>]]></content>
+  </entry>
   <entry>
     <title>PDD Holdings Reports Third-Quarter Revenue and Profit</title>
     <link href="https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?st=ZWhSa9&amp;reflink=desktopwebshare_permalink" rel="alternate" />

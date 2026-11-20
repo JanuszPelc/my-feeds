@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>StepSecurity Raises $20 Million Series A Funding for Supply Chain Security</h2>
+<a name="story-28036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdianapps.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F04%2FSoftware-Supply-Chain-Security.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cybersecurity startup StepSecurity has raised a $20 million Series A funding round led by Elephant, bringing the company's total funding to $23 million. The capital will support its efforts to protect software pipelines against supply chain attacks.</p><p>The funding follows a series of high-profile security incidents involving software supply chain vulnerabilities, malicious extensions, and targeted cyber attacks. StepSecurity provides tools designed to help organizations secure their software development and build environments.</p>
+<p>Nov 19 · <a href="https://www.axios.com/pro/enterprise-software-deals/2026/11/18/stepsecurity-supply-chain-cybersecurity">axios.com</a> | <a href="https://www.prnewswire.com/news-releases/stepsecurity-raises-20-million-in-series-a-funding-to-prevent-supply-chain-attacks-302941225.html">prnewswire.com</a></p>
+<br clear="all" />
+
 <h2>PDD Holdings Reports Third-Quarter Revenue and Profit</h2>
 <a name="story-28021"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.borsainside.com%2Fcontent%2Fuploads%2F2026%2F03%2FTemu1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PDD Holdings reported third-quarter revenue of approximately $16.2 billion, remaining flat year-over-year and falling short of analyst expectations, while net profit rose 0.7% to about $4.43 billion, exceeding forecasts.</p><p>The financial results reflect ongoing headwinds for the company's e-commerce platform Temu, which faced a shrinking user base led by a decline in Europe as the region implements stricter regulations. Analysts noted that mounting regulatory scrutiny and fierce market competition continue to challenge the platform's international expansion.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27812"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fforums%2Fattachments%2F386910&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NVIDIA recorded $115.8 billion in revenue for the third quarter of fiscal 2027, a 103% increase year-over-year. Data center revenue reached $107.6 billion, up 110% from a year ago. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively.</p><p>The company has begun shipping its Vera Rubin NVL72 computing platform and increased its share repurchase authorization by $150 billion. For the fourth quarter of fiscal 2027, NVIDIA expects revenue to be approximately $130 billion.</p>
 <p>Nov 18 · <a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027">nvidianews.nvidia.com</a> | <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx">investor.nvidia.com</a> | <a href="https://news.ycombinator.com/item?id=50538361">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ramp in Early Discussions to Raise Over $1 Billion at $70 Billion Valuation</h2>
-<a name="story-27803"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fe0af11d5f994f6c6df12b4374f813a84418d5500-2400x1260.png%3Frect%3D0%2C3%2C2400%2C1254%26w%3D1200%26h%3D627%26fit%3Dcrop&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ramp is in early discussions to raise $1 billion or more in a new funding round, potentially led by Coatue and Thrive Capital. The financing would value the corporate-card and expense-management startup at more than $70 billion.</p><p>This would be the company's third fundraising round within a year. The potential valuation follows a period of rapid growth, including an October funding round that valued the firm at $60 billion.</p>
-<p>Nov 18 · <a href="https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a">wsj.com</a></p>
 <br clear="all" />
 
 ---
