@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic IPO Leaves Most Institutional Bidders Without Shares</h2>
+<a name="story-28032"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.monetaryelite.com%2Fwp-content%2Fuploads%2F2026%2F06%2F98c1649b-8a3e-42bf-99b2-f9190f46596a-1024x572.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic PBC's initial public offering left more than half of the institutional investors bidding for stock without any shares, according to people familiar with the matter. The allocations heavily favored US-based investors, effectively shutting out foreign orders.</p><p>The heavy oversubscription and selective distribution reflect intense demand for shares in the artificial intelligence company. Earlier reports indicated that orders from mainland China and Hong Kong were rebuffed ahead of the offering amid regulatory concerns and US export rules.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers">bloomberg.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1y0c6i9/anthropic_ipo_live_the_company_sold_980_million/">r/singularity</a></p>
+<br clear="all" />
+
 <h2>Anthropic IPO Structure Could Direct Over $150 Billion to Philanthropic Causes</h2>
 <a name="story-28066"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthewashingtoneye.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Confidentially-Files-to-Go-Public-Graphics-copy-860x453.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's public market debut and associated equity structures could direct approximately $155 billion toward philanthropic causes through its public benefit fund and employee donation matches. The company's Public Benefit Fund was initially allotted 5% of its shares, establishing a multibillion-dollar endowment dedicated to artificial intelligence research, labor impact studies, and beneficial technology deployment.</p><p>In addition to the fund's baseline shares, Anthropic employees have pledged substantial equity holdings toward philanthropic organizations, backed by corporate matching programs ranging from 1-to-1 to 3-to-1 based on tenure. While the final distribution depends on employee follow-through, stock valuation stability, and timing, analysts expect a significant portion of these funds to support effective altruism causes and AI safety initiatives.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27946"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.fintel.io%2Fsituational-awareness-lp-5020-market-value.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI trader Leopold Aschenbrenner has reportedly held discussions about launching "Situational Awareness 2.0," a reboot of his hedge fund that would utilize leverage and outside capital. The talks come roughly four months after Citadel stepped in to rescue his previous fund following severe drawdowns in AI-focused public equities.</p><p>Aschenbrenner’s original Situational Awareness fund suffered a major collapse after heavy directional bets and fourfold leverage led to steep losses. Despite the prior wipeout, discussions regarding a new leveraged venture indicate ongoing interest in high-stakes trading strategies within the artificial intelligence sector.</p>
 <p>Nov 19 · <a href="https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639">ft.com</a></p>
-<br clear="all" />
-
-<h2>Meta Pauses Zuckerberg Share Plan Amid Investor Legal Fight</h2>
-<a name="story-27934"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2022%2F03%2F18%2Fbusiness%2F18economy-briefing-zuckerberg%2F18economy-briefing-zuckerberg-videoSixteenByNine3000.jpg%3Fyear%3D2022%26h%3D1688%26w%3D3000%26s%3D52498b04dd4611ee52803f216676ce09883524740377b98e50bd4b91de7fbecf%26k%3DZQJBKqZ0VN%26tw%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta Platforms has agreed to pause the issuance of a new class of nonvoting Class C shares amid ongoing lawsuits from investors. The legal challenges seek to block the recapitalization plan, which aimed to fund heavy artificial intelligence investments without diluting CEO Mark Zuckerberg's voting stake.</p><p>Shareholders argue in the Delaware Chancery Court that the proposed share structure breaches fiduciary duties and protects Zuckerberg's control while potentially avoiding tax liabilities. With a preliminary injunction hearing set for January, the pause halts the implementation of the plan as the court proceedings advance.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
