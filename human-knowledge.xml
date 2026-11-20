@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-19T22:08:00+00:00</updated>
+  <updated>2026-11-20T10:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Plasma-Processing Technology Extracts Oxygen From Lunar Soil</title>
+    <link href="https://theconversation.com/a-new-way-to-extract-oxygen-from-lunar-soil-could-support-bases-on-the-moon-295600" rel="alternate" />
+    <id>https://theconversation.com/a-new-way-to-extract-oxygen-from-lunar-soil-could-support-bases-on-the-moon-295600::v240</id>
+    <published>2026-11-20T10:10:00+00:00</published>
+    <updated>2026-11-20T10:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770640%2Foriginal%2Ffile-20261108-64-ke9kwg.jpeg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/a-new-way-to-extract-oxygen-from-lunar-soil-could-support-bases-on-the-moon-295600">theconversation.com</a> | <a href="https://www.nature.com/articles/s41598-026-67891-2">nature.com</a></small></p><hr/><p>Researchers have demonstrated a method for extracting oxygen from lunar soil simulants using plasma-processing technology, a technique commonly employed in semiconductor manufacturing. By exposing artificial regolith to plasmas generated from industrial gases, the study showed that oxygen and oxygen-containing gases can be released from minerals. This approach offers a lower-temperature alternative to high-energy methods for breaking the chemical bonds within lunar minerals.</p><p>The process leverages decades of industrial experience with fluorine plasmas, providing a "dry" method that avoids the logistical challenges of transporting liquid chemicals to space. While current oxygen yields must be significantly improved to support practical lunar bases, the research suggests the technology could eventually be adapted to extract other valuable lunar resources like silicon, aluminum, and iron.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770640%2Foriginal%2Ffile-20261108-64-ke9kwg.jpeg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 15:12 UTC | #28110</small>]]></content>
+  </entry>
   <entry>
     <title>University of Minnesota Trial Tests Engineered Virus Treatment for Pancreatic Cancer</title>
     <link href="https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/" rel="alternate" />
