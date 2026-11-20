@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T18:18:00+00:00</updated>
+  <updated>2026-11-19T18:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>PostgreSQL 19 Released</title>
+    <link href="https://www.postgresql.org/about/news/postgresql-19-released-3449/" rel="alternate" />
+    <id>https://www.postgresql.org/about/news/postgresql-19-released-3449/::v240</id>
+    <published>2026-11-19T18:22:00+00:00</published>
+    <updated>2026-11-19T18:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1380%2F1%2Afa5A5JoqPqJCuajjJq_vpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.postgresql.org/about/news/postgresql-19-released-3449/">postgresql.org</a> | <a href="https://lobste.rs/s/pqyuhk/postgresql_19_released">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50560357">hacker news</a></small></p><hr/><p>The PostgreSQL Global Development Group has released PostgreSQL 19, introducing features aimed at scaling mission-critical workloads and simplifying database administration. Key updates include the REPACK (CONCURRENTLY) command for non-disruptive table bloat cleanup, the pg_plan_advice extension for query plan stability, and "read-your-writes" consistency support on standby servers via the WAIT FOR LSN command.</p><p>The release also enhances autovacuum efficiency through parallel workers and a prioritization scoring system, streamlines logical replication initialization, and adds replication support for sequence values. Furthermore, PostgreSQL 19 introduces server-side Server Name Indication (SNI) support for TLS certificates, disables JIT compilation by default, and sets LZ4 as the default TOAST compression method.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1380%2F1%2Afa5A5JoqPqJCuajjJq_vpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 00:01 UTC | #28083</small>]]></content>
+  </entry>
   <entry>
     <title>Running 15 Million Web Servers on a Single Virtual Machine</title>
     <link href="https://kapteko.com/15-million-webservers/" rel="alternate" />

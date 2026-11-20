@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>PostgreSQL 19 Released</h2>
+<a name="story-28083"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1380%2F1%2Afa5A5JoqPqJCuajjJq_vpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The PostgreSQL Global Development Group has released PostgreSQL 19, introducing features aimed at scaling mission-critical workloads and simplifying database administration. Key updates include the REPACK (CONCURRENTLY) command for non-disruptive table bloat cleanup, the pg_plan_advice extension for query plan stability, and "read-your-writes" consistency support on standby servers via the WAIT FOR LSN command.</p><p>The release also enhances autovacuum efficiency through parallel workers and a prioritization scoring system, streamlines logical replication initialization, and adds replication support for sequence values. Furthermore, PostgreSQL 19 introduces server-side Server Name Indication (SNI) support for TLS certificates, disables JIT compilation by default, and sets LZ4 as the default TOAST compression method.</p>
+<p>Nov 19 · <a href="https://www.postgresql.org/about/news/postgresql-19-released-3449/">postgresql.org</a> | <a href="https://lobste.rs/s/pqyuhk/postgresql_19_released">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50560357">hacker news</a></p>
+<br clear="all" />
+
 <h2>Running 15 Million Web Servers on a Single Virtual Machine</h2>
 <a name="story-28081"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkapteko.com%2F15-million-webservers%2Fwebservers-benchmark-social.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>This article explores the technical feasibility of running 15 million web servers on a single virtual machine configured with 10 gigabytes of RAM and one CPU core. It examines standard operating system limitations, including port allocation ranges and per-socket memory overhead, that prevent naive implementations from scaling.</p><p>To bypass kernel-level constraints, the author proposes a custom userland runtime utilizing the smoltcp TCP/IP stack alongside high-performance networking interfaces like DPDK and AF_XDP. This design minimizes memory overhead per connection to achieve massive scale within strict hardware boundaries.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27932"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2F2025%2F05%2F18%2Fb3f72f53-fae7-40b2-a5fa-9b6253fb1764%2Fpalmer-luckey-video-alfonsi-3765086-640x360.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Speaking at The New York Times DealBook Summit, Anduril Industries co-founder Palmer Luckey warned that AI-powered cyberattacks are advancing faster than organizations can update their outdated technology systems. He noted that foreign adversaries are actively exploiting the widening gap between new attack capabilities and existing defense infrastructure.</p><p>The remarks coincided with recent technology outages that prompted government officials to address vulnerabilities exposed by advanced AI tools. While Luckey acknowledged that AI currently aids fast-moving attackers, he argued that organizations must accelerate their adoption of technology to ensure defenders eventually gain the upper hand.</p>
 <p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Xint Discloses Remote Code Execution Vulnerabilities in NGINX</h2>
-<a name="story-27900"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXcCgCqEYuL4PLdiAFN6IYDfBLd7-fjq86Mf0YH6Irb4z7HPmt1xIX0Wyf3fLnCwyq_BugpQtFO8YoXTlh7kgVTNajCRx-VT2rLU39e4b4Jy377T3sw6KLbcuV3zj18i99kXnV3z%3Fkey%3DdoxBsn0NmOFAw9ZfPAlZLWET&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cybersecurity firm Xint has disclosed multiple remote code execution vulnerabilities affecting the NGINX web server, including an unauthenticated flaw involving HTTP/2 flow control. The research details how automated scanning identified several CVEs that can be chained with a Linux kernel vulnerability to achieve root access on host servers.</p><p>The findings highlight ongoing security challenges in widely deployed infrastructure software and emphasize the urgency of applying patches. Organizations running affected NGINX versions are advised to update their systems to mitigate potential unauthenticated exploitation risks.</p>
-<p>Nov 18 · <a href="https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/">forbes.com</a> | <a href="https://xint.io/blog/nginx2root-remote-code-execution">xint.io</a></p>
 <br clear="all" />
 
 ---
