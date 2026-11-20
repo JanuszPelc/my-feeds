@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>White House Fires National Cyber Director Sean Cairncross Following Tech Outages</h2>
+<a name="story-28092"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmccraryinstitute.com%2Fapp%2Fuploads%2F2025%2F08%2Fcairncross-1408x783.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>White House National Cyber Director Sean Cairncross has been dismissed from his position following a wave of major technological outages and scrutiny over his cybersecurity credentials. Administration officials reportedly argued that Cairncross lacked sufficient urgency in addressing emerging digital security and artificial intelligence challenges.</p><p>Pentagon Chief Information Officer Kirsten Davies is stepping in to serve as the acting national cyber director. The leadership change comes as the administration faces heightened pressure regarding national infrastructure preparedness and response protocols following widespread system disruptions.</p>
+<p>Nov 20 · <a href="https://www.reuters.com/world/us/white-house-national-cyber-director-cairncross-leaving-his-post-axios-reports-2026-11-19/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0swyt/white_house_cyber_director_ousted_after_us_hit_by/">r/technology</a></p>
+<br clear="all" />
+
 <h2>Iconiq Capital Records Multi-Billion-Dollar Returns From Anthropic IPO Stake</h2>
 <a name="story-28088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkalinga.ai%2Fwp-content%2Fuploads%2F2026%2F06%2Fanthropic-ipo-2026-ai-investors-market-debut.jpg-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Iconiq invested over $6 billion in artificial intelligence company Anthropic, securing an estimated 1.8% stake valued at approximately $31.8 billion following the company's initial public offering. This position yielded a return on investment exceeding 430% as the AI giant debuted on public markets.</p><p>The substantial financial windfall highlights the extraordinary gains achieved by early venture capital backers amid the rapid market expansion of generative AI firms. Iconiq's large allocation underscores the immense scale of private capital deployed into leading artificial intelligence developers ahead of their public offerings.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28042"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpulchra.org%2Fwp-content%2Fuploads%2F2026%2F02%2FAnthropic-CEO-Dario-Amodei.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>During a speech at the Nasdaq opening bell coinciding with Anthropic's public market debut, CEO Dario Amodei reaffirmed the company's commitment to responsible AI development. He vowed that the firm would pace the training and deployment of its models, refusing to bend to business or political pressure while ensuring systems remain under human control.</p><p>Amodei highlighted potential medical applications for AI alongside the critical need for rigorous safety standards, alignment testing, and third-party evaluations to prevent misuse and loss of control. Co-founder Daniela Amodei echoed these sentiments in post-IPO interviews, emphasizing that balancing rapid technological progress with dedicated risk mitigation remains central to the company's mission.</p>
 <p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Sells $1.1 Billion in Stock to European Retail Investors in IPO</h2>
-<a name="story-28003"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.llms.blog%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fcms.llms.blog%2Fcontent%2Fimages%2F2026%2F10%2Fanthropic-ipo-retail-investors-jpmorgan-retailbook-1-mvtfs383.png%26w%3D1080%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic PBC sold $1.1 billion worth of stock to retail investors across the United Kingdom, the European Union, Norway, and Switzerland during its initial public offering. Regulatory filings indicate that UK retail investors alone purchased more than 3.6 million shares in the offering.</p><p>The retail allocation was part of a landmark public offering that made shares available through international retail brokers and selling agents. The participation of retail investors across multiple European jurisdictions highlights broad retail demand for major artificial intelligence market debuts.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-1-1-billion-of-shares-sold-to-european-retail-investors">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
