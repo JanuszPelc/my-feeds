@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Sean Cairncross to Step Down as National Cyber Director</h2>
+<a name="story-28078"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1155968404%2F05b8c959-6c4f-4b40-9a04-c8ab3d3ebd7c%2F5f0a97b3-d5bf-4814-8666-88c7e73b25e0%2F1280x720%2Fmatch%2Fimage.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>White House National Cyber Director Sean Cairncross is stepping down from his post. According to sources, Cairncross chose to leave now to give the administration time to secure Senate confirmation for a successor before Democrats assume control of the Senate in January.</p><p>Cairncross leads the Office of the National Cyber Director, which coordinates federal cybersecurity policy and strategy. His departure follows other technical personnel departures within the administration amid ongoing concerns regarding critical infrastructure reliability and escalating AI-driven cyber threats.</p>
+<p>Nov 20 · <a href="https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50568510">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic Raises Over $81 Billion in Record-Breaking IPO</h2>
 <a name="story-28086"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI lab Anthropic raised $81.3 billion in its initial public offering on the Nasdaq, pricing shares above its original range at $83 apiece. The offering included $1.95 billion for its seven founders, who each sold roughly 3.4 million shares to net about $280 million before taxes and underwriting fees.</p><p>The record-breaking debut also saw major tech companies, including Nvidia and Google, purchase billions in non-voting Class N shares, bringing total capital raised closer to $105 billion. Despite the massive influx of funds, Anthropic faces steep infrastructure and compute commitments approaching $1.1 trillion over the coming years to sustain its operations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27990"><img src="https://wsrv.nl/?url=https%3A%2F%2Froboticsandautomationnews.com%2Fwp-content%2Fuploads%2F2025%2F11%2Findustrial-robots-adcerax-image-2-768x445.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>North American companies ordered 10,989 industrial robots valued at $723.5 million during the third quarter of 2026, marking a 24.8% increase in units compared to the same period in 2025. According to data from the Association for Advancing Automation, the growth was largely driven by gains in automotive component manufacturing and semiconductor or electronics production.</p><p>Total orders for the first nine months of 2026 reached 28,984 robots. While the third-quarter surge reflects ongoing efforts by manufacturers to mitigate labor shortages, some industry observers note that the pace of automation remains constrained as the sector struggles to maintain international competitiveness.</p>
 <p>Nov 19 · <a href="https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340">ft.com</a> | <a href="https://www.automate.org/robotics/news/north-american-robot-orders-increase-24-8-in-third-quarter-of-2026">automate.org</a></p>
-<br clear="all" />
-
-<h2>Alphabet CIO Ruth Porat Pledges Local Community Support Amid Data Center Backlash</h2>
-<a name="story-27991"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FicV0wLvcatXI%2Fv0%2F1200x800.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet Chief Investment Officer Ruth Porat stated that technology companies must invest more in local jobs within communities where data centers are constructed to address growing public pushback. The remarks acknowledge that the massive infrastructure spending required for artificial intelligence expansion has faced significant friction from local residents concerned about resource strain and community impacts.</p><p>The comments highlight broader industry challenges as tech giants pour historic capital into data center construction to support AI workloads. Companies are increasingly forced to justify the economic benefits of these facilities to local electorates amid escalating debates over energy consumption, land use, and the actual number of permanent jobs created.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/google-ruth--porat-pledges-data-center-local-support-amid-backlash">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
