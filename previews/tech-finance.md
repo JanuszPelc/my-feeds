@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Alphabet Plans $3.5 Billion Canadian Bond Sale</h2>
+<a name="story-28056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg%2Fv1%2Ffill%2Fw_1000%2Ch_1000%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alphabet Inc. is returning to the Canadian debt market with a five-part offering aiming to raise at least C$5 billion ($3.5 billion). The deal includes both fixed- and floating-rate notes with maturities ranging from three to 40 years.</p><p>This follows the company's inaugural Canadian dollar bond sale six months prior, which raised C$8.5 billion as part of a broader multi-currency fundraising effort. The move reflects continued corporate debt issuance in foreign currencies to fund ongoing capital requirements and investments.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Boltz Raises $110M Series A Funding for AI Drug Discovery</h2>
 <a name="story-28053"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.genengnews.com%2Fwp-content%2Fuploads%2F2025%2F12%2FGettyImages-2233341375-696x348.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>London-based AI drug discovery startup Boltz has raised $110 million in a Series A funding round led by Bessemer Venture Partners. The company develops open-source AI models designed to predict protein and drug candidate interactions, helping pharmaceutical researchers speed up drug development.</p><p>The round includes participation from existing backers such as Andreessen Horowitz, Amplify Partners, Zetta Venture Partners, Obvious Ventures, and Nvidia, alongside new investors including Greycroft, F-Prime Capital, Hummingbird, and Benchling. Boltz plans to use the capital to expand its team in London and scale its computing and data infrastructure.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27877"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenoss.io%2Fwp-content%2Fuploads%2F2025%2F11%2F9-1536x1018.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unsiloed AI has raised $7.5 million in seed funding led by Felicis to convert complex enterprise documents into structured data for AI agents. The company's technology extracts information from tables, charts, and intricate layouts while providing source attribution to enable business verification.</p><p>The startup utilizes a "dual-stream" vision model and heat map-based chunking to process text and image data. Currently a seven-person team, Unsiloed is working with customers in the finance, legal, and healthcare sectors and plans to use the funding to hire more researchers and engineers.</p>
 <p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Solana Foundation Acquires Majority Stake in Crypto Data Provider CoinGecko</h2>
-<a name="story-27848"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinist.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSolana-and-CoinGecko-Partnership-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Solana Foundation has acquired a majority interest in crypto data provider CoinGecko. The strategic investment aims to expand CoinGecko's market intelligence, trading services, and data capabilities across its platform.</p><p>As part of the initiative, the foundation plans to integrate Solana-powered trading features into CoinGecko's website, mobile app, and GeckoTerminal. The collaboration seeks to serve CoinGecko's 18 million registered users and support the platform's broader expansion phase.</p>
-<p>Nov 18 · <a href="https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko">coindesk.com</a> | <a href="https://solana.com/news/coingecko-backed-by-solana-foundation">solana.com</a></p>
 <br clear="all" />
 
 ---

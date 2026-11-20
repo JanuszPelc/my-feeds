@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-19T21:46:00+00:00</updated>
+  <updated>2026-11-19T22:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Alphabet Plans $3.5 Billion Canadian Bond Sale</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale::v240</id>
+    <published>2026-11-19T22:00:00+00:00</published>
+    <updated>2026-11-19T22:00:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg%2Fv1%2Ffill%2Fw_1000%2Ch_1000%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale">bloomberg.com</a></small></p><hr/><p>Alphabet Inc. is returning to the Canadian debt market with a five-part offering aiming to raise at least C$5 billion ($3.5 billion). The deal includes both fixed- and floating-rate notes with maturities ranging from three to 40 years.</p><p>This follows the company's inaugural Canadian dollar bond sale six months prior, which raised C$8.5 billion as part of a broader multi-currency fundraising effort. The move reflects continued corporate debt issuance in foreign currencies to fund ongoing capital requirements and investments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg%2Fv1%2Ffill%2Fw_1000%2Ch_1000%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 03:20 UTC | #28056</small>]]></content>
+  </entry>
   <entry>
     <title>Boltz Raises $110M Series A Funding for AI Drug Discovery</title>
     <link href="https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/" rel="alternate" />
