@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-20T00:57:00+00:00</updated>
+  <updated>2026-11-20T01:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Anthropic's Claude Solves Two Open Problems in Black Hole Physics</title>
+    <link href="https://www.anthropic.com/research/claude-black-hole-physics" rel="alternate" />
+    <id>https://www.anthropic.com/research/claude-black-hole-physics::v240</id>
+    <published>2026-11-20T01:01:00+00:00</published>
+    <updated>2026-11-20T01:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2Fc85a5f88d8284087733fea221fe9a8b6192d4637%2F5-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.anthropic.com/research/claude-black-hole-physics">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50563148">hacker news</a></small></p><hr/><p>Anthropic announced that its Claude AI system has successfully resolved two long-standing open problems in theoretical physics concerning black holes and holographic duality. Working through automated multi-agent research setups, the model completed a complex calculation first proposed in 2003 and determined the exact limit for a key quantum gravity testing technique.</p><p>The first breakthrough involves completing a multi-loop calculation for the Hawking-Page phase transition at weak coupling in N=4 super Yang-Mills theory, confirming that the transition from a particle gas to a black hole remains abrupt even where spacetime loses a definite shape. The second achievement establishes the precise modular bootstrap ceiling on the mass of the lightest black hole in a simplified two-dimensional-space holographic universe, narrowing candidate theories of quantum gravity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2Fc85a5f88d8284087733fea221fe9a8b6192d4637%2F5-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 07:37 UTC | #28103</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Developing AI Agent for Mac Control, App Navigation, and Coding</title>
     <link href="https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/" rel="alternate" />
