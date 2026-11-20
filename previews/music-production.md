@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>MusicTech Highlights Best-Sounding Music Venues in Los Angeles</h2>
+<a name="story-28105"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHollywood-Bowl-LA-hero-credit-press%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Los Angeles features a diverse array of music venues equipped with specialized sound systems and architectural acoustics tailored to their specific programming. Notable locations highlighted include the Hollywood Bowl, Walt Disney Concert Hall, Sound Nightclub, and Lodge Room, each offering distinct aural experiences ranging from historic natural resonance to cutting-edge custom loudspeaker arrays.</p><p>The Hollywood Bowl houses the world's first permanent installation of the L-Acoustics L1 line array system alongside surround speakers for precise immersive sound, while Walt Disney Concert Hall utilizes natural acoustic design developed with Nagata Acoustics for unamplified orchestra performances. Meanwhile, smaller independent spaces like the Lodge Room balance historic architecture with targeted sound treatment to preserve raw acoustic character.</p>
+<p>Nov 20 · <a href="https://musictech.com/features/the-best-sounding-music-venues-in-los-angeles/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>Blue Cat Audio Releases Blue Cat&#x27;s PatchWork 2.79</h2>
 <a name="story-28069"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbluecatpatchwork.1795118873.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Blue Cat Audio has released PatchWork 2.79, a free update for its virtual patchbay, multi-effects processor, and plug-in host. The update introduces Macro Controls V3, featuring enhanced parameter mapping capabilities that allow macro controls to automatically follow target parameter displays and step counts, complete with customizable response curves for each mapped parameter.</p><p>The new version also includes numerous bug fixes and compatibility improvements addressing stability issues across Pro Tools, Digital Performer, and Studio One, alongside enhanced MIDI handling, offline rendering, and latency reporting. The update is available free of charge for existing customers, with demo versions accessible on the developer's website.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28000"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvox-shine-kvr-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>XRL Records has released version 2.0 of Vox Shine, a vocal processor plugin designed for Windows 10 and 11. The software functions as a VST3 plug-in and offers an optional standalone application to enhance vocal weight, presence, and high-frequency detail.</p><p>The plugin includes features to guide pitch toward a specific key and blend pitch-shifted harmonies with original vocals. A free license is available for a limited time on the official product page, which requires an XRL Records account and an internet connection for activation.</p>
 <p>Nov 19 · <a href="https://www.kvraudio.com/news/xrl-records-releases-vox-shine-v2-0-for-windows-vst3-free-intro-69939?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69939">kvraudio.com</a> | <a href="https://xrlrecords.com/products/vox-shine">xrlrecords.com</a></p>
-<br clear="all" />
-
-<h2>Sonible Releases Pure:Smooth Dynamic Resonance Suppressor Plugin</h2>
-<a name="story-27912"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpuresmooth.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sonible has released pure:smooth, an AI-powered dynamic resonance suppressor plugin designed to identify and reduce unwanted resonances and harsh frequencies across various audio sources including vocals, guitars, and synths.</p><p>The plugin includes controls for adjusting smoothing, resolution, spectral shaping, frequency range, and difference monitoring. It is available at an introductory price of €25 and is also featured in the company's pure:bundle collection.</p>
-<p>Nov 18 · <a href="https://www.kvraudio.com/news/sonible-releases-pure-smooth---dynamic-resonance-suppressor-plugin-69931?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69931">kvraudio.com</a> | <a href="https://www.sonible.com/puresmooth">sonible.com</a></p>
 <br clear="all" />
 
 ---
