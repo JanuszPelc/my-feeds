@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-20T17:41:00+00:00</updated>
+  <updated>2026-11-20T17:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Uber Tests Ride-Hailing Service for Children Age 10 and Older in Select Cities</title>
+    <link href="https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/::v240</id>
+    <published>2026-11-20T17:43:00+00:00</published>
+    <updated>2026-11-20T17:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.abcnewsfe.com%2Fa%2F66ccf624-01fe-4808-b044-c23af0e43055%2Fuber-logo-app-as-lv-240917_1726618115234_hpMain.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/">techcrunch.com</a> | <a href="https://www.uber.com/us/en/ride/kids/">uber.com</a></small></p><hr/><p>Uber has launched a limited pilot program called Uber Kids in Austin, Texas, Nashville, Tennessee, and Madison, Wisconsin, allowing children as young as 10 to take rides without an adult passenger. Parents or guardians must book trips through a family profile, be present at pickup, and include drop-off notes, while participating drivers must be invited, highly rated, and complete specialized safety training.</p><p>The service incorporates mandatory PIN verification, live video streaming for parents, and route monitoring to track unexpected stops or deviations. To offset the added responsibility, eligible drivers receive an extra $7 per trip alongside a $20 bonus for their first completed kids' ride as the company explores expansion into the tween transportation market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.abcnewsfe.com%2Fa%2F66ccf624-01fe-4808-b044-c23af0e43055%2Fuber-logo-app-as-lv-240917_1726618115234_hpMain.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 23:29 UTC | #28116</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX Chip Financing Deal Faces Restrictions Over Orbital Data Center Plans</title>
     <link href="https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/" rel="alternate" />
