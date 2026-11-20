@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-20T10:16:00+00:00</updated>
+  <updated>2026-11-20T14:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Bloomberg Analysis Finds Double-Digit Decline in AI-Exposed Job Listings in China</title>
+    <link href="https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/" rel="alternate" />
+    <id>https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/::v240</id>
+    <published>2026-11-20T14:06:00+00:00</published>
+    <updated>2026-11-20T14:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimgeng.jagran.com%2Fimages%2F2025%2F08%2F05%2Farticle%2Fimage%2Fartificial-intelligence_reuters-1754399937398.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/">bloomberg.com</a></small></p><hr/><p>An analysis of nearly 10 million online job postings in China between 2021 and 2025 reveals a double-digit drop in listings for roles heavily exposed to artificial intelligence compared to less-exposed positions. Researchers utilized an AI-exposure index built by Peking University to evaluate hiring trends across major platforms such as Zhaopin, 51job, and Liepin.</p><p>The findings indicate that hiring for roles with high AI exposure fell by about 10 percentage points more than for lower-exposure positions across nearly every industry. This trend highlights growing pressure on China's labor market as widespread adoption of artificial intelligence reshapes employment opportunities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgeng.jagran.com%2Fimages%2F2025%2F08%2F05%2Farticle%2Fimage%2Fartificial-intelligence_reuters-1754399937398.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 19:50 UTC | #28106</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung Names Choi Won-Joon Head of MX Business Unit</title>
     <link href="https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/" rel="alternate" />

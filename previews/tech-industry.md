@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Bloomberg Analysis Finds Double-Digit Decline in AI-Exposed Job Listings in China</h2>
+<a name="story-28106"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgeng.jagran.com%2Fimages%2F2025%2F08%2F05%2Farticle%2Fimage%2Fartificial-intelligence_reuters-1754399937398.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An analysis of nearly 10 million online job postings in China between 2021 and 2025 reveals a double-digit drop in listings for roles heavily exposed to artificial intelligence compared to less-exposed positions. Researchers utilized an AI-exposure index built by Peking University to evaluate hiring trends across major platforms such as Zhaopin, 51job, and Liepin.</p><p>The findings indicate that hiring for roles with high AI exposure fell by about 10 percentage points more than for lower-exposure positions across nearly every industry. This trend highlights growing pressure on China's labor market as widespread adoption of artificial intelligence reshapes employment opportunities.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Samsung Names Choi Won-Joon Head of MX Business Unit</h2>
 <a name="story-28101"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5google.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2026%2F07%2Fsamsung-won-joon-choi-3.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung has appointed Choi Won-Joon as the head of its MX (mobile experience) business unit, succeeding TM Roh. Choi, who served as the unit's Chief Operating Officer since March 2025, oversaw the recent launches of the Galaxy S26 and Galaxy Z Fold 8.</p><p>TM Roh will remain one of Samsung's two CEOs but will relinquish his specific responsibilities within the mobile division. Choi is expected to lead innovation in foldable phones, on-device AI, and wearables, leveraging his extensive background in next-generation and strategic product development.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28027"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FHmNYgJ3e93KRdANcLuuMtF.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has partnered with Blue Origin to launch AI server satellites for Project Suncatcher in the first quarter of 2029 using the New Glenn rocket. The mission will represent the first dedicated heavy-lift launch for the initiative, deploying satellites equipped with Tensor Processing Units to sun-synchronous orbit.</p><p>Project Suncatcher is a moonshot initiative aimed at placing AI data centers in space, following an earlier test launch of a smaller AI satellite aboard a SpaceX rideshare. The upcoming 2029 payloads are designed to deliver computing capacity roughly equivalent to a standard data center rack.</p>
 <p>Nov 19 · <a href="https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029">theverge.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/">blog.google</a></p>
-<br clear="all" />
-
-<h2>Ubisoft Lays Off 166 Employees in Montreal and Quebec City</h2>
-<a name="story-28060"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelios-i.mashable.com%2Fimagery%2Farticles%2F06jeVI37uIOcx2SVn6Oagrf%2Fhero-image.fill.size_1200x675.v1770874190.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ubisoft has cut 166 positions at its Montreal and Quebec City locations, primarily affecting production and support roles. The company attributed the layoffs to shifting production needs, including the cancellation or significant rescoping of certain projects.</p><p>A portion of the affected staff belongs to Vantage Studio, the joint venture with Tencent that manages major franchises like Assassin's Creed and Far Cry. These layoffs follow the recent closure of Ubisoft’s Halifax studio and represent a significant impact on the regional game development landscape in Canada.</p>
-<p>Nov 19 · <a href="https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada">gamedeveloper.com</a> | <a href="https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios">gamesindustry.biz</a></p>
 <br clear="all" />
 
 ---
