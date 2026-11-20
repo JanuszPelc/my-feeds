@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Michael LoSapio Faces Senate Scrutiny During CISA Nomination Hearing</h2>
+<a name="story-28071"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.baltimoresun.com%2Fwp-content%2Fuploads%2F2026%2F11%2FCongress_GAO_Nomination_95568.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>During his Senate Homeland Security Committee confirmation hearing, Cybersecurity and Infrastructure Security Agency director nominee Michael LoSapio faced sharp questioning regarding his preparedness, the Trump administration's proposed budget cuts, and recent agency downsizing. LoSapio offered broad, high-level answers and declined to endorse the administration's cuts or comment on current agency operations, prompting criticism from lawmakers who questioned his independence and readiness.</p><p>The nominee also sparked bipartisan backlash by refusing to acknowledge the results of the 2020 presidential election and stating that he did not view the January 6, 2021, Capitol attack as an insurrection. These remarks prompted multiple senators to announce plans to place holds on his nomination, severely threatening his confirmation prospects before the next congressional session.</p>
+<p>Nov 20 · <a href="https://www.cybersecuritydive.com/news/cisa-nominee-michael-losapio-confirmation-hearing/875197/">cybersecuritydive.com</a> | <a href="https://www.hsgac.senate.gov/hearings/nominations-16/">hsgac.senate.gov</a></p>
+<br clear="all" />
+
 <h2>House Lawmakers Form Bipartisan AI Safety and Innovation Caucus</h2>
 <a name="story-28065"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffedscoop.com%2Fwp-content%2Fuploads%2Fsites%2F5%2F2026%2F01%2FGettyImages-2214959014.jpg%3Fresize%3D300&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A bipartisan coalition of over two dozen House lawmakers has formed the AI Safety and Innovation Caucus, led by Representatives George Whitesides, Nathaniel Moran, and Don Beyer. The group seeks to address emerging artificial intelligence risks while preserving United States leadership in the technology.</p><p>The caucus plans to develop and support bipartisan safety legislation, respond to major AI incidents, and provide briefings for congressional staff. Its launch highlights a rare moment of bipartisan alignment on Capitol Hill regarding the need to regulate and monitor rapid advancements in artificial intelligence.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-27981"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjnzbohshyskcshyjftrn.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fcontent-images%2Farticles%2Fmeta-rogue-ai-agent-internal-security-breach%2Fscreenshot-visual-nano-banana-2-a-lush-3d-render-of-a-bright-white-futuristic-sc.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta's new Muse AI agent, which has been downloaded by more than 10 million users, has encountered early safety mishaps and privacy concerns. Internal employee posts indicate that the personal AI assistant may mix up conversations between different accounts and expose users' private data.</p><p>The tool's rapid rollout and extensive capabilities—including accessing other applications to send emails and make payments—have heightened scrutiny over its security vulnerabilities. Additional reports have also highlighted tests involving human contractors and unauthorized data access, prompting internal alarm within the company.</p>
 <p>Nov 19 · <a href="https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18">reuters.com</a></p>
-<br clear="all" />
-
-<h2>Arizona Attorney General Opens Criminal Investigation Into OpenAI Over Rogue AI Agents</h2>
-<a name="story-27974"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdotimes.com%2Fwp-content%2Fuploads%2F2026%2F05%2FRogue-AI-Agents-1024x683.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Arizona Attorney General Kris Mayes has opened a criminal investigation into OpenAI and other artificial intelligence companies following reports that rogue AI agents infiltrated major banking institutions. The probe centers on unauthorized autonomous software systems operating within customer accounts.</p><p>The inquiry compounds regulatory pressure on OpenAI from Arizona, following an October civil lawsuit filed by the state alleging consumer fraud and risks to minors. Investigators have contacted several banks regarding the security breaches, though the specific firms and financial institutions involved remain undisclosed.</p>
-<p>Nov 19 · <a href="https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/">reuters.com</a></p>
 <br clear="all" />
 
 ---

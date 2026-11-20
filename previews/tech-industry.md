@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>AMD Shares Fall After Hunterbrook Discloses Short Position and China Link Allegations</h2>
 <a name="story-28045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2025%2F08%2FUntitled-design-7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Advanced Micro Devices Inc. shares dropped after Hunterbrook Capital disclosed a short position in the chipmaker. The short seller's investigation alleged that AMD firmware appeared in post-blacklisting BIOS updates from IEIT Systems, a restricted Chinese server manufacturer, while also raising concerns over the company's revenue exposure to China.</p><p>The market reaction underscored ongoing regulatory and supply chain vulnerabilities for major semiconductor firms navigating export controls. The allegations brought renewed scrutiny to compliance measures surrounding restricted entities in international markets.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals">bloomberg.com</a> | <a href="https://hntrbrk.com/investigations/amd-china">hntrbrk.com</a></p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals">bloomberg.com</a> | <a href="https://hntrbrk.com/investigations/amd-china">hntrbrk.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0rwwo/amd_dives_on_short_seller_report_of_alleged_china/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Amazon Warns NYC Customers of Potential Price Hikes Under Proposed Delivery Bill</h2>
