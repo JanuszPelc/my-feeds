@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>David Bushell Adds Visited Link Styling to Personal Blog</h2>
+<a name="story-28134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ghacks.net%2Fwp-content%2Fuploads%2F2012%2F01%2Foverride-visited-links-colors.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Web developer David Bushell has updated his personal blog to style visited links in the body copy using the traditional purple color. Prompted by a discussion initiated by fellow blogger Kev Quirk, Bushell reviewed accessibility standards and browser implementation details before deciding to adopt the styling enhancement.</p><p>While WCAG 2.2 guidelines do not mandate differentiating visited links, they provide an exception for color-only differentiation due to browser privacy constraints and strict style limitations. Bushell notes that the subtle contrast between unvisited and visited states improves navigation without sacrificing readability, aligning with implementations found on major platforms like Wikipedia and GOV.UK.</p>
+<p>Nov 20 · <a href="https://dbushell.com/2026/11/16/visited-links/">dbushell.com</a> | <a href="https://lobste.rs/s/hcahbx/visited_links_are_purple">lobsters</a></p>
+<br clear="all" />
+
 <h2>Ethan Lowman Publishes Jujutsu Version Control Primer for Git Users</h2>
 <p>Ethan Lowman has published an introductory guide to the Jujutsu (jj) version control system tailored for developers familiar with Git. The guide explains how jj can be used side-by-side with existing Git repositories, offering an alternative model that uses stable change IDs, automatic rebasing, and branchless commit graphs to reduce workflow friction.</p><p>Key sections of the primer cover installation, setup, creating and evolving changes, revsets for querying the commit graph, and navigating between working copies and conflicts. By automating tasks like rebasing and snapshotting working copies, jj aims to keep version control bookkeeping out of the developer's working memory.</p>
 <p>Nov 20 · <a href="https://ethanlowman.com/posts/jj-primer/">ethanlowman.com</a> | <a href="https://lobste.rs/s/i6dn7g/jujutsu_primer">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50570628">hacker news</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27850"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsoftwaremill.com%2Fuser%2Fpages%2Fblog%2F355.adapter-pattern-in-rust-overcoming-the-orphan-rule-with-newtype-and-extension-traits%2Fia3nakhytdrsn1e.jpg%3Fg-caa9725f&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rust's orphan rule (error E0117) prevents implementing foreign traits for foreign types to maintain ecosystem coherence. Typical workarounds, such as the NewType pattern or adding feature flags to libraries, often result in code bloat, dependency lock-in, or inflexible default behaviors.</p><p>Developers can bypass this restriction by designing traits with a generic context parameter. By using a local marker type within the trait's generic arguments, it is possible to satisfy the orphan rule and implement traits for third-party types without additional wrappers. This technique enables the creation of lightweight, independent domain models and allows for zero-cost, context-specific behavior, as seen in the implementation of the Kova ORM.</p>
 <p>Nov 18 · <a href="https://edvong.com/bypass-orphan-rule/">edvong.com</a> | <a href="https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule">lobsters</a></p>
-<br clear="all" />
-
-<h2>Jordan Krueger Advocates for Improving Existing Open-Source Software</h2>
-<a name="story-27849"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bytebytego.com%2Fdiagrams%2F0359-the-open-source-ai-stack.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jordan Krueger argues that instead of using AI to create numerous new applications, developers should focus on improving existing open-source software. He suggests that optimizing current tools—making them faster, easier to install, more user-friendly, and more resource-efficient—provides more widespread value than the creation of new, superficial apps.</p><p>Improving existing software could enable non-profits and small organizations to migrate from large technology corporations to self-hosted, privacy-focused solutions without needing dedicated system administrators. Krueger also warns against overwhelming maintainers with low-quality, AI-generated contributions, noting how the curl project has dealt with a high volume of AI-generated bug reports.</p>
-<p>Nov 18 · <a href="https://jordankrueger.com/blog/better-open-source-not-more-apps/">jordankrueger.com</a> | <a href="https://news.ycombinator.com/item?id=50532086">hacker news</a></p>
 <br clear="all" />
 
 ---

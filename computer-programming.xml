@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-20T10:12:00+00:00</updated>
+  <updated>2026-11-20T10:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>David Bushell Adds Visited Link Styling to Personal Blog</title>
+    <link href="https://dbushell.com/2026/11/16/visited-links/" rel="alternate" />
+    <id>https://dbushell.com/2026/11/16/visited-links/::v240</id>
+    <published>2026-11-20T10:20:00+00:00</published>
+    <updated>2026-11-20T10:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.ghacks.net%2Fwp-content%2Fuploads%2F2012%2F01%2Foverride-visited-links-colors.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dbushell.com/2026/11/16/visited-links/">dbushell.com</a> | <a href="https://lobste.rs/s/hcahbx/visited_links_are_purple">lobsters</a></small></p><hr/><p>Web developer David Bushell has updated his personal blog to style visited links in the body copy using the traditional purple color. Prompted by a discussion initiated by fellow blogger Kev Quirk, Bushell reviewed accessibility standards and browser implementation details before deciding to adopt the styling enhancement.</p><p>While WCAG 2.2 guidelines do not mandate differentiating visited links, they provide an exception for color-only differentiation due to browser privacy constraints and strict style limitations. Bushell notes that the subtle contrast between unvisited and visited states improves navigation without sacrificing readability, aligning with implementations found on major platforms like Wikipedia and GOV.UK.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ghacks.net%2Fwp-content%2Fuploads%2F2012%2F01%2Foverride-visited-links-colors.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 17:40 UTC | #28134</small>]]></content>
+  </entry>
   <entry>
     <title>Ethan Lowman Publishes Jujutsu Version Control Primer for Git Users</title>
     <link href="https://ethanlowman.com/posts/jj-primer/" rel="alternate" />
