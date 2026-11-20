@@ -3,9 +3,27 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-20T10:10:00+00:00</updated>
+  <updated>2026-11-20T15:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Transport &amp; Environment Report Finds Carnival Corporation Cruise Ships Exceed European Car Fleet Sulphur Oxide Emissions</title>
+    <link href="https://ecohustler.com/article/one-corporation-to-pollute-them-all/" rel="alternate" />
+    <id>https://ecohustler.com/article/one-corporation-to-pollute-them-all/::v240</id>
+    <published>2026-11-20T15:34:00+00:00</published>
+    <updated>2026-11-20T15:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ecohustler.com%2FbWFpbi9jYXJuaXZhbC1jb3JwLWluZm9ncmFwaGljLnBuZw%2Fcarnival-corp-infographic.png%3Fp%3Dinline%26s%3D1f36c1721b07a140af49a0f8637cd473%26q%3D85%26f%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ecohustler.com/article/one-corporation-to-pollute-them-all/">ecohustler.com</a> | <a href="https://www.transportenvironment.org/publications/one-corporation-pollute-them-all">transportenvironment.org</a> | <a href="https://news.ycombinator.com/item?id=50572116">hacker news</a></small></p><hr/><p>A report by sustainable transport group Transport &amp; Environment reveals that Carnival Corporation, the world's largest luxury cruise operator, emitted nearly ten times more sulphur oxide around European coasts in 2017 than all 260 million passenger cars in Europe combined. Royal Caribbean Cruises ranked second, emitting four times the sulphur oxide of the European car fleet.</p><p>The analysis indicates that Spain, Italy, and Greece are the most exposed European countries to this air pollution, with port cities like Barcelona, Palma de Mallorca, and Venice experiencing the highest impacts due to lenient marine fuel standards. Researchers recommend implementing zero-emission port standards, expanding emission control areas, and regulating nitrogen oxide emissions from existing ships to curb the environmental and health impacts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ecohustler.com%2FbWFpbi9jYXJuaXZhbC1jb3JwLWluZm9ncmFwaGljLnBuZw%2Fcarnival-corp-infographic.png%3Fp%3Dinline%26s%3D1f36c1721b07a140af49a0f8637cd473%26q%3D85%26f%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 21:00 UTC | #28159</small>]]></content>
+  </entry>
+  <entry>
+    <title>Richard Feynman on Simple Explanations and True Understanding</title>
+    <link href="https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it" rel="alternate" />
+    <id>https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it::v240</id>
+    <published>2026-11-20T15:33:00+00:00</published>
+    <updated>2026-11-20T15:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fkottke.org%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cfit%3Dscale-down%2Cwidth%3D1200%2Cmetadata%3Dnone%2F%2Fplus%2Fmisc%2Fimages%2Ffeynman-blackboard.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it">kottke.org</a> | <a href="https://news.ycombinator.com/item?id=50572355">hacker news</a></small></p><hr/><p>Physicist Richard Feynman famously believed that the ability to explain complex concepts in simple terms is the ultimate test of true understanding. When challenged to explain spin-one-half particles at a freshman level, Feynman ultimately concluded that his inability to simplify the concept meant scientists did not yet fully understand it.</p><p>This philosophy extends beyond theoretical physics into industry practices, such as at Apple, where engineers are expected to articulate complex technologies simply as proof of complete comprehension. Throughout his career, Feynman embraced both clear explanations of natural phenomena and open admissions of scientific limitations, famously noting on his blackboard that what he could not create, he did not understand.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fkottke.org%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cfit%3Dscale-down%2Cwidth%3D1200%2Cmetadata%3Dnone%2F%2Fplus%2Fmisc%2Fimages%2Ffeynman-blackboard.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 21:00 UTC | #28158</small>]]></content>
+  </entry>
   <entry>
     <title>Plasma-Processing Technology Extracts Oxygen From Lunar Soil</title>
     <link href="https://theconversation.com/a-new-way-to-extract-oxygen-from-lunar-soil-could-support-bases-on-the-moon-295600" rel="alternate" />

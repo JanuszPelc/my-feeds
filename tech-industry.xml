@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-20T14:56:00+00:00</updated>
+  <updated>2026-11-20T15:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>SK Hynix to Become Kioxia's Largest Shareholder via Bond Conversion</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE3MDMxMywiZXhwIjoxNzk1Nzc1MTEzLCJhcnRpY2xlSWQiOiJUT1NIMFVLSkg2VjYwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.rDZqFOOEqaOm6FinskQjVaQwjobFvXg8ArNC1bfMddc" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE3MDMxMywiZXhwIjoxNzk1Nzc1MTEzLCJhcnRpY2xlSWQiOiJUT1NIMFVLSkg2VjYwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.rDZqFOOEqaOm6FinskQjVaQwjobFvXg8ArNC1bfMddc::v240</id>
+    <published>2026-11-20T15:32:00+00:00</published>
+    <updated>2026-11-20T15:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstartupfortune.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fkioxia-sk-hynix-bain-capital-840x420.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE3MDMxMywiZXhwIjoxNzk1Nzc1MTEzLCJhcnRpY2xlSWQiOiJUT1NIMFVLSkg2VjYwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.rDZqFOOEqaOm6FinskQjVaQwjobFvXg8ArNC1bfMddc">bloomberg.com</a></small></p><hr/><p>SK Hynix Inc. plans to convert its holdings of Kioxia Holdings Corp. convertible bonds into shares, securing a roughly 14.1% stake and becoming the rival memory chip maker's largest shareholder. The move solidifies the South Korean chipmaker's influence in the global NAND flash memory market, which plays a critical role in modern artificial intelligence infrastructure.</p><p>The conversion marks a significant evolution in the relationship between the two memory competitors, following earlier arrangements involving Bain Capital-backed vehicles where SK Hynix held effective control. This structural shift comes as memory manufacturers navigate surging demand for high-capacity storage solutions driven by AI workloads and data center expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstartupfortune.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fkioxia-sk-hynix-bain-capital-840x420.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 20:59 UTC | #28109</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Equity Podcast Discusses Nvidia Post-Huang Era and AI Financing</title>
     <link href="https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/" rel="alternate" />
