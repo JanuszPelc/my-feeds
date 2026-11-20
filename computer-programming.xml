@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-19T04:07:00+00:00</updated>
+  <updated>2026-11-19T18:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>PHP 8.6 Released with Partial Function Application and New Duration Class</title>
+    <link href="https://www.php.net/releases/8.6/en.php" rel="alternate" />
+    <id>https://www.php.net/releases/8.6/en.php::v240</id>
+    <published>2026-11-19T18:25:00+00:00</published>
+    <updated>2026-11-19T18:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.luismibriz.dev%2Fimages%2Fposts%2Fphp-8-6-novedades-mejoras-rendimiento.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.php.net/releases/8.6/en.php">php.net</a> | <a href="https://lobste.rs/s/xn50o0/php_8_6_release_announcement">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50557870">hacker news</a></small></p><hr/><p>PHP 8.6 has been released with major updates including partial function application, a new \Time\Duration class, a polling API for scalable I/O multiplexing, and a clamp() function. The release also introduces a SortDirection enum, readonly property defaults, parameter doc-comments, and new reflection methods for checking property readability and writability.</p><p>Additional improvements feature post-quantum cryptography support in the Sodium extension, TLS 1.3 early data, improved JSON and stream error handling, and performance optimizations. The update includes several deprecations and backward compatibility breaks, such as deprecating `return` inside `finally` blocks, certain legacy functions, and old sorting flags.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.luismibriz.dev%2Fimages%2Fposts%2Fphp-8-6-novedades-mejoras-rendimiento.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 00:15 UTC | #28084</small>]]></content>
+  </entry>
   <entry>
     <title>Google Releases Another Build File Service to Accelerate Massive Git Repositories</title>
     <link href="https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/" rel="alternate" />

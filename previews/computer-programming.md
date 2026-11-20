@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>PHP 8.6 Released with Partial Function Application and New Duration Class</h2>
+<a name="story-28084"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.luismibriz.dev%2Fimages%2Fposts%2Fphp-8-6-novedades-mejoras-rendimiento.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>PHP 8.6 has been released with major updates including partial function application, a new \Time\Duration class, a polling API for scalable I/O multiplexing, and a clamp() function. The release also introduces a SortDirection enum, readonly property defaults, parameter doc-comments, and new reflection methods for checking property readability and writability.</p><p>Additional improvements feature post-quantum cryptography support in the Sodium extension, TLS 1.3 early data, improved JSON and stream error handling, and performance optimizations. The update includes several deprecations and backward compatibility breaks, such as deprecating `return` inside `finally` blocks, certain legacy functions, and old sorting flags.</p>
+<p>Nov 19 · <a href="https://www.php.net/releases/8.6/en.php">php.net</a> | <a href="https://lobste.rs/s/xn50o0/php_8_6_release_announcement">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50557870">hacker news</a></p>
+<br clear="all" />
+
 <h2>Google Releases Another Build File Service to Accelerate Massive Git Repositories</h2>
 <a name="story-28022"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-developer-goog-blog-assets%2Fimages%2Ftable1_aosp_code_size.original.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced Another Build File Service (ABFS), an open-source software suite designed to eliminate performance bottlenecks when developing massive Git-based projects like the Android Open Source Project (AOSP). ABFS uses a content-addressable virtual filesystem, user-space daemons, and server-side infrastructure to lazy-load source code and cache build results, reducing AOSP checkout times from roughly 36 minutes to under eight seconds and full build times from about 80 minutes to just over two minutes.</p><p>The system combines a Linux kernel filesystem module called CASFS with a two-phase content-addressable caching build tool called Ninja-go, which verifies read patches against current filesystem states to prevent stale incremental artifacts caused by hidden dependencies. By enabling fast checkouts and shared local caching, ABFS allows developers and automated agent swarms to run multiple concurrent workspaces and parallel build workflows efficiently on standard workstations.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27827"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftonsky.me%2Fblog%2Fgithub-redesign%2F10_as-is.png%3Ft%3D1697319007&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nikita Prokopov proposes a comprehensive redesign of the GitHub repository page to resolve issues with information architecture and visual clutter. His proposal addresses problems like nested navigation tabs, redundant icons, and ambiguous button states by suggesting a flattened tab structure and a cleaner, more minimalist interface.</p><p>The redesign includes the addition of a dedicated "Overview" tab that consolidates recent commits, project activity, and contributor statistics. By relocating the repository description and clone URL to more prominent positions, the proposal aims to increase information density and improve the overall usability of the page.</p>
 <p>Nov 17 · <a href="https://tonsky.me/blog/github-redesign/">tonsky.me</a> | <a href="https://lobste.rs/s/kseyz1/github_redesign_2019">lobsters</a></p>
-<br clear="all" />
-
-<h2>Redict Deprecated</h2>
-<a name="story-27820"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocs.digitalocean.com%2Fscreenshots%2Fdatabases%2Fvalkey-migration.9cb57dc15954992821f9e90d4d11783b47cacd2f2618a1cf99231c48ab91bfb9.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Redict has been officially deprecated, with version 7.3.6 designated as its final release. The project was created to serve as a copyleft alternative to Redis, but its developer stated that the success of the Valkey project and Redis's return to a copyleft license prevented the formation of a sustainable community.</p><p>Users are advised to migrate to Valkey, which is described as having better long-term prospects than Redis. The migration process is expected to be straightforward, involving either a simple configuration file move or a container update.</p>
-<p>Nov 17 · <a href="https://redict.io/posts/2026-11-17-redict-deprecated/">redict.io</a> | <a href="https://lobste.rs/s/z4rhlt/redict_is_deprecated">lobsters</a></p>
 <br clear="all" />
 
 ---
