@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google Search Rolls Out Collapsible Sidebar for AI Results</h2>
+<a name="story-28104"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.seroundtable.com%2Fgoogle-ai-mode-sidebar-0z5ygkqF.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google is rolling out a collapsible sidebar on its desktop homepage designed to help users navigate and resume recent AI-generated search results. The feature allows users to jump back into previous queries, facilitating multi-step exploration of complex topics rather than single-instance searches.</p><p>The update follows weeks of observation where Google noted the sidebar helped users make progress on non-linear questions. Google employee Robby Stein confirmed the global rollout on X, noting the UI change is intended to simplify how users pick up where they left off in their research.</p>
+<p>Nov 20 · <a href="https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html">seroundtable.com</a> | <a href="https://x.com/rmstein/status/2123500235930640844">x.com</a></p>
+<br clear="all" />
+
 <h2>DeepMind Essay Explores Pathways from AGI to Artificial Superintelligence</h2>
 <a name="story-28089"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgdm-deepmind-com-prod-public%2Fmedia%2Fimages%2FT0QtshalNA92BKFm%2FWhat_comes_after_AGI__01_continuum.width-1440.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In an essay published by the DeepMind Institute, Tim Genewein examines the potential progression from artificial general intelligence to artificial superintelligence, analyzing the continuum of general intelligence and the driving forces behind cognitive industrialization.</p><p>The essay details how rapid advancements in hardware efficiency, compute investment, and algorithmic scaling could drastically reduce the cost of cognitive work. It further outlines four key technological pathways required to bridge the gap toward superintelligence: model and data scaling, paradigm shifts, agent coordination, and recursive self-improvement.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27920"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.kron4.com%2Fwp-content%2Fuploads%2Fsites%2F11%2F2025%2F07%2Faltman.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI CEO Sam Altman stated during the New York Times DealBook Summit that being portrayed by actor Andrew Garfield in the upcoming biographical drama "Artificial" is secondary to the profound responsibilities of managing artificial intelligence. Opening in theaters on Christmas, the film chronicles OpenAI's rise and the internal turmoil surrounding Altman's brief ousting in 2023.</p><p>Garfield, known for playing Facebook co-founder Eduardo Saverin in "The Social Network," remarked in an Esquire interview that leading a potentially disruptive technology requires a distinct ability to dissociate. The project continues a Hollywood trend of cinematic adaptations focusing on high-profile Silicon Valley figures and corporate scandals.</p>
 <p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Snapchat Releases Easy Lens CLI for AI Coding Assistants</h2>
-<a name="story-27921"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FEasy-Lens-CLI-Announcement_Triptych.gif%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Snap has introduced the Easy Lens CLI, a new command-line tool that enables developers to build augmented reality Snapchat Lenses using AI coding assistants like Claude Code, Cursor, and Codex. The system allows creators to generate Lenses through plain-language descriptions, leveraging built-in AR components and AI asset generators without needing to write custom code directly.</p><p>Running on Mac, Windows, and Linux, the CLI is designed to lower the barrier to entry for game developers, brands, and individual creators looking to deploy web-based AR experiences and camera filters. Eligible developers can also monetize their creations through Snapchat's Lens+ Payouts program, which recently distributed $1.8 million to community creators.</p>
-<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/">techcrunch.com</a> | <a href="https://newsroom.snap.com/introducing-easy-lens-cli">newsroom.snap.com</a></p>
 <br clear="all" />
 
 ---
