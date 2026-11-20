@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Shares Fall in Post-Market Trading Following Reports of Apple AI Agent Plans</h2>
+<a name="story-28096"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic shares declined approximately 5% in post-market trading following the conclusion of the artificial intelligence developer's first day as a public company, which came after a record $107.3 billion initial public offering.</p><p>The drop was triggered by reports indicating that Apple is developing its own autonomous artificial intelligence agent, introducing potential competitive pressures that weighed on investor sentiment despite Anthropic's strong initial market debut.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>White House Fires National Cyber Director Sean Cairncross Following Tech Outages</h2>
 <a name="story-28092"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmccraryinstitute.com%2Fapp%2Fuploads%2F2025%2F08%2Fcairncross-1408x783.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>White House National Cyber Director Sean Cairncross has been dismissed from his position following a wave of major technological outages and scrutiny over his cybersecurity credentials. Administration officials reportedly argued that Cairncross lacked sufficient urgency in addressing emerging digital security and artificial intelligence challenges.</p><p>Pentagon Chief Information Officer Kirsten Davies is stepping in to serve as the acting national cyber director. The leadership change comes as the administration faces heightened pressure regarding national infrastructure preparedness and response protocols following widespread system disruptions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28017"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fb521bd_7fd793cbba9043f0855b5cebf58ba728~mv2.png%2Fv1%2Ffill%2Fw_980%2Ch_536%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2Fb521bd_7fd793cbba9043f0855b5cebf58ba728~mv2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The International Energy Agency projects that global data center investments will reach $4 trillion by 2030, driven heavily by rapid expansion in artificial intelligence. This infrastructure boom threatens to push power grids to their limits as electricity consumption escalates.</p><p>According to the agency, fewer than 100 major AI projects alone will require a combined 50 gigawatts of power, an amount matching the peak electricity demand of the United Kingdom. The surging energy requirements highlight growing strains on global energy networks and the urgent need for grid reinforcement.</p>
 <p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/iea-sees-data-center-boom-pushing-power-grids-to-the-limit">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic CEO Dario Amodei Recommits to Pacing AI Development at Nasdaq Opening Bell</h2>
-<a name="story-28042"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpulchra.org%2Fwp-content%2Fuploads%2F2026%2F02%2FAnthropic-CEO-Dario-Amodei.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>During a speech at the Nasdaq opening bell coinciding with Anthropic's public market debut, CEO Dario Amodei reaffirmed the company's commitment to responsible AI development. He vowed that the firm would pace the training and deployment of its models, refusing to bend to business or political pressure while ensuring systems remain under human control.</p><p>Amodei highlighted potential medical applications for AI alongside the critical need for rigorous safety standards, alignment testing, and third-party evaluations to prevent misuse and loss of control. Co-founder Daniela Amodei echoed these sentiments in post-IPO interviews, emphasizing that balancing rapid technological progress with dedicated risk mitigation remains central to the company's mission.</p>
-<p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
