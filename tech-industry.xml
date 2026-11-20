@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-19T21:45:00+00:00</updated>
+  <updated>2026-11-20T00:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Anthropic Raises Over $81 Billion in Record-Breaking IPO</title>
+    <link href="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/::v240</id>
+    <published>2026-11-20T00:44:00+00:00</published>
+    <updated>2026-11-20T00:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/">techcrunch.com</a></small></p><hr/><p>AI lab Anthropic raised $81.3 billion in its initial public offering on the Nasdaq, pricing shares above its original range at $83 apiece. The offering included $1.95 billion for its seven founders, who each sold roughly 3.4 million shares to net about $280 million before taxes and underwriting fees.</p><p>The record-breaking debut also saw major tech companies, including Nvidia and Google, purchase billions in non-voting Class N shares, bringing total capital raised closer to $105 billion. Despite the massive influx of funds, Anthropic faces steep infrastructure and compute commitments approaching $1.1 trillion over the coming years to sustain its operations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 05:47 UTC | #28086</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Closes Up 17% in Nasdaq Trading Debut</title>
     <link href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/" rel="alternate" />

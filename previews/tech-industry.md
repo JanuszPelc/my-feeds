@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic Raises Over $81 Billion in Record-Breaking IPO</h2>
+<a name="story-28086"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI lab Anthropic raised $81.3 billion in its initial public offering on the Nasdaq, pricing shares above its original range at $83 apiece. The offering included $1.95 billion for its seven founders, who each sold roughly 3.4 million shares to net about $280 million before taxes and underwriting fees.</p><p>The record-breaking debut also saw major tech companies, including Nvidia and Google, purchase billions in non-voting Class N shares, bringing total capital raised closer to $105 billion. Despite the massive influx of funds, Anthropic faces steep infrastructure and compute commitments approaching $1.1 trillion over the coming years to sustain its operations.</p>
+<p>Nov 20 · <a href="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Closes Up 17% in Nasdaq Trading Debut</h2>
 <a name="story-28054"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic closed up 17% at $97.17 in its Nasdaq debut, achieving a market capitalization of $1.3 trillion. The stock opened at $111.50, representing a 34% increase from its initial public offering price of $83 per share.</p><p>The listing followed an offering of 980 million Class A shares that priced above the company's amended target range. The market debut marks a major valuation milestone for the artificial intelligence sector, building on financial disclosures outlining rapid commercial expansion alongside substantial operating costs.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27991"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FicV0wLvcatXI%2Fv0%2F1200x800.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Chief Investment Officer Ruth Porat stated that technology companies must invest more in local jobs within communities where data centers are constructed to address growing public pushback. The remarks acknowledge that the massive infrastructure spending required for artificial intelligence expansion has faced significant friction from local residents concerned about resource strain and community impacts.</p><p>The comments highlight broader industry challenges as tech giants pour historic capital into data center construction to support AI workloads. Companies are increasingly forced to justify the economic benefits of these facilities to local electorates amid escalating debates over energy consumption, land use, and the actual number of permanent jobs created.</p>
 <p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/google-ruth--porat-pledges-data-center-local-support-amid-backlash">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic IPO Retail Allocation Expected to Fall Below 20%</h2>
-<a name="story-27988"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.magica.com%2Fblog%2Fai-news%2F2026-11-10%2F93-anthropic-reserves-up-to-12-9b-of-ipo-shares-for%2F87d6b19b944c47e4897e7349d99a675184379cfbdd6ef8851feccd047382b73e.png%3Fv%3D87d6b19b944c47e4897e7349d99a675184379cfbdd6ef8851feccd047382b73e&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic's S-1 filing suggests a plan to reserve up to 20% of its shares for retail investors. However, sources indicate that the final allocation is expected to fall significantly lower, potentially aligning with the 5% to 10% range typical of large-scale public offerings.</p><p>The proposed allocation reflects the intense demand for AI-related equities and the pressure on Wall Street to accommodate a growing base of individual investors. The company intends to offer approximately 825 million Class A shares on the Nasdaq under the ticker "ANT."</p>
-<p>Nov 19 · <a href="https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f">ft.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">sec.gov</a> | <a href="https://news.ycombinator.com/item?id=50242939">hacker news</a></p>
 <br clear="all" />
 
 ---
