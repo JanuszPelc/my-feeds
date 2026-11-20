@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-20T10:34:00+00:00</updated>
+  <updated>2026-11-20T17:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Jonathan Schuster Discusses Designing Software for Understandability</title>
+    <link href="https://jschuster.org/blog/2026/11/19/design-for-understandability/" rel="alternate" />
+    <id>https://jschuster.org/blog/2026/11/19/design-for-understandability/::v240</id>
+    <published>2026-11-20T17:42:00+00:00</published>
+    <updated>2026-11-20T17:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fjschuster.org%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fpage_1-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jschuster.org/blog/2026/11/19/design-for-understandability/">jschuster.org</a> | <a href="https://lobste.rs/s/qsrnot/design_for_understandability">lobsters</a></small></p><hr/><p>Jonathan Schuster's blog post, adapted from a talk given at Google's internal Code Health Summit in November 2025, argues that software should be intentionally designed for understandability. As large language models generate increasing volumes of code, developers risk falling into learned helplessness unless they maintain rigorous human judgment and code comprehension.</p><p>To counter this complexity, the talk proposes an aspirational goal: developers should be able to predict the behavior of every line of code without running a single test. Achieving this requires adopting structured practices like design by contract and data invariants, which establish clear boundaries between a component's specified behavior and its underlying implementation details.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fjschuster.org%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fpage_1-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 23:00 UTC | #28076</small>]]></content>
+  </entry>
   <entry>
     <title>C Implementation of Android Binder Driver Removed from Linux Kernel</title>
     <link href="https://lwn.net/Articles/1102982/" rel="alternate" />
