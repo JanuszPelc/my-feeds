@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;AI Regulation Could Benefit from Safety Frameworks Used in High-Hazard Industries</h2>
+<a name="story-27772"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F770360%2Foriginal%2Ffile-20261105-64-ft00t4.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI regulation faces significant challenges due to the increasing complexity and autonomy of AI agents. In highly interconnected systems, the interaction of multiple components can trigger unpredictable, cascading failures—a phenomenon known as "normal accidents"—that may occur too rapidly for human intervention.</p><p>Adopting frameworks from high-reliability industries like aviation and nuclear power could help manage these risks. By focusing on organizational safety cultures, continuous learning from near misses, and robust assurance infrastructures, regulators can move beyond one-off technical tests toward a more resilient governance model.</p>
+<p>Nov 20 · <a href="https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475">theconversation.com</a></p>
+<br clear="all" />
+
 <h2><img src="../images/tech-industry.png" width="28" align="texttop" /> &nbsp;Anthropic Closes Up 17% in Nasdaq Trading Debut</h2>
 <a name="story-28054"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic closed up 17% at $97.17 in its Nasdaq debut, achieving a market capitalization of $1.3 trillion. The stock opened at $111.50, representing a 34% increase from its initial public offering price of $83 per share.</p><p>The listing followed an offering of 980 million Class A shares that priced above the company's amended target range. The market debut marks a major valuation milestone for the artificial intelligence sector, building on financial disclosures outlining rapid commercial expansion alongside substantial operating costs.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-27806"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.appuals.com%2Fwp-content%2Fuploads%2F2016%2F02%2F2016-02-21_074752-1024x512.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Credential-sharing and login-bypass service BugMeNot has shut down after operating for more than two decades. The website replaced its directory of shared accounts with a brief farewell message thanking users who envisioned a better internet, accompanied by an unexplained block of encoded characters.</p><p>Launched in 2003, BugMeNot allowed users to bypass mandatory registration walls on websites by providing crowdsourced login credentials. Its closure marks the end of an era for early web accessibility tools as modern security measures, including multi-factor authentication, have rendered traditional account-sharing increasingly obsolete.</p>
 <p>Nov 18 · <a href="https://www.bugmenot.com/">bugmenot.com</a> | <a href="https://news.ycombinator.com/item?id=50523601">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="../images/tech-policy.png" width="28" align="texttop" /> &nbsp;Judge Denies Dismissal of DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, and Micron</h2>
-<a name="story-27565"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5592755994e2d440a5792%2F41324ccc-4ff2-4dc1-b5cd-3540491f9408%2Fimage_2026-06-29_185601112.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A U.S. federal judge denied a joint motion by Samsung, SK Hynix, and Micron to dismiss a proposed class action accusing the memory manufacturers of conspiring to restrict conventional DRAM supplies. The lawsuit alleges the companies intentionally choked off production of standard memory chips like DDR5 to shift manufacturing capacity toward high bandwidth memory.</p><p>U.S. District Judge Noël Wise ruled that the plaintiffs plausibly alleged an antitrust conspiracy under the Sherman Act, citing plus factors such as long-term HBM lock-ups, refusals to enter long-term conventional DRAM contracts, plant construction delays, and near-identical customer-vetting practices. The court ordered defendants to answer the complaint by December 7, 2026, and scheduled an initial case management conference for January 12, 2027.</p>
-<p>Nov 18 · <a href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal">litnews.ai</a> | <a href="https://news.ycombinator.com/item?id=50502988">hacker news</a></p>
 <br clear="all" />
 
 ---
