@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-19T21:59:00+00:00</updated>
+  <updated>2026-11-19T22:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Ubisoft Reports Q2 Net Bookings of €388.9 Million</title>
+    <link href="https://www.wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1?st=LvUnbR&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1?st=LvUnbR&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-11-19T22:02:00+00:00</published>
+    <updated>2026-11-19T22:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F1%2F23%2F53728916-176921128861407_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1?st=LvUnbR&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/19/3406965/0/en/ubisoft-reports-first-half-2026-27-earnings-figures.html">globenewswire.com</a></small></p><hr/><p>Ubisoft reported second-quarter net bookings of €388.9 million, down 21% year-over-year but exceeding company expectations of €350.7 million. The performance was driven largely by Assassin's Creed Black Flag Resynced as the video game developer continues to overhaul its operations.</p><p>The results form part of the company's first-half financial figures for the 2026–27 period, reflecting an ongoing effort to stabilize finances and streamline structures following operational restructuring.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F1%2F23%2F53728916-176921128861407_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 03:32 UTC | #28057</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Prices Upcoming Muse Charm AI Device at $300</title>
     <link href="https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/" rel="alternate" />

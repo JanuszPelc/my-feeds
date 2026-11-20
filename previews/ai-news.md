@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google Builds Isolated Internet Environment to Test Chrome AI Agents</h2>
+<a name="story-28058"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fagent-infra%2Fsandbox%2Fraw%2Fmain%2Fwebsite%2Fdocs%2Fpublic%2Fimages%2Faio-sandbox.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google has created an isolated, controlled internet environment called the Mirror Dimension to safely test and train AI browsing agents for Chrome. The simulated web ecosystem includes diverse platforms such as social media, shopping sites, and banking dashboards populated using AI development tools.</p><p>The environment allows researchers to evaluate how browsing assistants handle real-world tasks and withstand security threats, such as prompt-injection attacks, without risking the open internet. Google built the system to prevent models from developing eval awareness—behavior changes triggered by recognizing test environments—and plans to make it available to other teams.</p>
+<p>Nov 19 · <a href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/">wired.com</a> | <a href="https://blog.google/security/mirror-dimension-for-agents/">blog.google</a></p>
+<br clear="all" />
+
 <h2>Google Adds Computer-Use Feature to Gemini App for Mac</h2>
 <a name="story-28062"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fhero_header_CU_copy.width-1300.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced a computer-use feature for its Gemini desktop application on macOS, enabling the artificial intelligence to autonomously complete multi-step tasks across native applications, local files, and web browsers. Users can issue instructions to handle workflows such as filling out forms, organizing files, and generating slideshows while the agent operates in the background.</p><p>Operating similarly to agentic offerings from other major AI developers, the tool displays a live preview within the chat interface while allowing users to keep their main screen and cursor free. Individuals retain oversight through manual controls to pause, stop, or approve actions before execution. The feature is initially available in English for U.S. users subscribed to Google AI Plus, Pro, or Ultra plans.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-27857"><img src="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2607.02512v1%2Fx3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers have introduced Program-as-Weights (PAW), a programming paradigm designed to compile natural-language specifications of fuzzy functions into compact, locally executable neural artifacts. By treating foundation models as tool builders rather than per-input problem solvers, PAW uses a 4B compiler trained on a new 10-million-example dataset called FuzzyBench to emit parameter-efficient adapters for a frozen interpreter.</p><p>This approach allows a lightweight 0.6B Qwen3 interpreter to match the performance of direct prompting on a much larger Qwen3-32B model while consuming roughly one-fiftieth of the inference memory. Operating locally and offline, compiled PAW programs achieve speeds of 30 tokens per second on consumer hardware like a MacBook M3, offering a reproducible alternative to recurring large language model API calls.</p>
 <p>Nov 18 · <a href="https://arxiv.org/abs/2607.02512">arxiv.org</a> | <a href="https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm">lobsters</a></p>
-<br clear="all" />
-
-<h2>Runta Introduces FrontierHarness Eval v1.1 Benchmark</h2>
-<a name="story-27851"><img src="https://wsrv.nl/?url=https%3A%2F%2Frunta.com%2Fblog%2Fintroducing-frontierharness-eval-v1-1%2Fharness-scatter-all-models.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Runta has released FrontierHarness Eval v1.1, a benchmark evaluating 22 coding-agent harness configurations against five AI models across 62 terminal tasks. Conducted in partnership with Baseten, the study analyzed 27,280 agent runs and 83 billion tokens to identify the most cost-effective and high-performing harness-model combinations.</p><p>Optimal harness selection varies by model, suggesting that users should consider changing harnesses when switching models to maximize efficiency. The research identifies the number of agent steps as the primary driver of cost—rather than prompt size or tool count—and notes that higher costs do not consistently correlate with higher pass rates.</p>
-<p>Nov 18 · <a href="https://runta.com/blog/introducing-frontierharness-eval-v1-1/">runta.com</a> | <a href="https://news.ycombinator.com/item?id=50532191">hacker news</a></p>
 <br clear="all" />
 
 ---

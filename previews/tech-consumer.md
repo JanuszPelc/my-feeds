@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Ubisoft Reports Q2 Net Bookings of €388.9 Million</h2>
+<a name="story-28057"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F1%2F23%2F53728916-176921128861407_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ubisoft reported second-quarter net bookings of €388.9 million, down 21% year-over-year but exceeding company expectations of €350.7 million. The performance was driven largely by Assassin's Creed Black Flag Resynced as the video game developer continues to overhaul its operations.</p><p>The results form part of the company's first-half financial figures for the 2026–27 period, reflecting an ongoing effort to stabilize finances and streamline structures following operational restructuring.</p>
+<p>Nov 19 · <a href="https://www.wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1?st=LvUnbR&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/19/3406965/0/en/ubisoft-reports-first-half-2026-27-earnings-figures.html">globenewswire.com</a></p>
+<br clear="all" />
+
 <h2>Meta Prices Upcoming Muse Charm AI Device at $300</h2>
 <a name="story-28075"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fmeta-muse-charm.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta plans to price its upcoming Muse Charm AI device at $300, according to a report by The Information. The Tamagotchi-like hardware companion, initially teased at Meta's Connect event, is designed to give a physical form to the company's Muse AI agent, letting users carry or wear the assistant to interact via voice and commands.</p><p>While Meta has not officially confirmed the pricing detail, the $300 figure places the keychain-sized wearable in a similar price tier to competing consumer AI devices like Friend, though it remains notably more expensive than alternatives such as Amazon's Bee Frontier. The hardware effort arrives as Meta expands its consumer AI footprint following the rollout of its Muse agentic software and animated avatars.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27872"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gta6-news.net%2Fwp-content%2Fuploads%2F2026%2F03%2Fdar-11-2026-04_23_12-PM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>IGN has detailed the campaign completion times for Grand Theft Auto 6 based on playthroughs by four writers from IGN, Eurogamer, and Pure Xbox. Story completion times for the open-world game varied significantly depending on individual playstyles, ranging from a brisk 42 hours for a more focused run to 115 hours for thorough exploration.</p><p>Reviewers noted that rushing the main story bypasses the game's detailed side content and open-world activities, with typical playthroughs expected to take around 80 hours or more. The wide variance highlights how player choices—such as stopping for side missions, minigames, and extensive map exploration across Leonida—substantially impact total playtime.</p>
 <p>Nov 18 · <a href="https://www.ign.com/articles/how-long-is-gta-6">ign.com</a></p>
-<br clear="all" />
-
-<h2>Sony Issues Mandatory PS5 Firmware Update for Grand Theft Auto VI</h2>
-<a name="story-27867"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgdm-universal-media.b-cdn.net%2Fstealth%2Ffd7b1ee087f057433bbf6c3f8390c66db2497682-1024x576.jpg%3Fwidth%3D700&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sony has released a mandatory PS5 system software update (version 14.23) required to play Grand Theft Auto VI upon its launch on November 19, 2026. PlayStation Support confirmed that users must download and install the 1.267 GB update before midnight on launch day to ensure the game is playable. The update, which primarily includes security fixes, was officially boosted by Rockstar Games' social media accounts.</p><p>The update arrives amid a continuous struggle between Sony and the homebrew community to secure consoles against jailbreaks and piracy. By requiring a specific firmware version, Sony aims to block unauthorized modifications that could jeopardize the security of its software releases. Additionally, Take-Two CEO Strauss Zelnick recently highlighted the company's commitment to enhancing technical and legal defenses to combat AI-driven reverse engineering and piracy for the highly anticipated title.</p>
-<p>Nov 18 · <a href="https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement">ign.com</a> | <a href="https://x.com/PS_Support_US/status/2122863683881619685">x.com</a></p>
 <br clear="all" />
 
 ---

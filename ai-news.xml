@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-19T18:10:00+00:00</updated>
+  <updated>2026-11-19T22:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Google Builds Isolated Internet Environment to Test Chrome AI Agents</title>
+    <link href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/" rel="alternate" />
+    <id>https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/::v240</id>
+    <published>2026-11-19T22:01:00+00:00</published>
+    <updated>2026-11-19T22:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fagent-infra%2Fsandbox%2Fraw%2Fmain%2Fwebsite%2Fdocs%2Fpublic%2Fimages%2Faio-sandbox.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/">wired.com</a> | <a href="https://blog.google/security/mirror-dimension-for-agents/">blog.google</a></small></p><hr/><p>Google has created an isolated, controlled internet environment called the Mirror Dimension to safely test and train AI browsing agents for Chrome. The simulated web ecosystem includes diverse platforms such as social media, shopping sites, and banking dashboards populated using AI development tools.</p><p>The environment allows researchers to evaluate how browsing assistants handle real-world tasks and withstand security threats, such as prompt-injection attacks, without risking the open internet. Google built the system to prevent models from developing eval awareness—behavior changes triggered by recognizing test environments—and plans to make it available to other teams.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fagent-infra%2Fsandbox%2Fraw%2Fmain%2Fwebsite%2Fdocs%2Fpublic%2Fimages%2Faio-sandbox.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 03:32 UTC | #28058</small>]]></content>
+  </entry>
   <entry>
     <title>Google Adds Computer-Use Feature to Gemini App for Mac</title>
     <link href="https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/" rel="alternate" />
