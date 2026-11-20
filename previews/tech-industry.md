@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>AMD Shares Fall After Hunterbrook Discloses Short Position and China Link Allegations</h2>
+<a name="story-28045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2025%2F08%2FUntitled-design-7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Advanced Micro Devices Inc. shares dropped after Hunterbrook Capital disclosed a short position in the chipmaker. The short seller's investigation alleged that AMD firmware appeared in post-blacklisting BIOS updates from IEIT Systems, a restricted Chinese server manufacturer, while also raising concerns over the company's revenue exposure to China.</p><p>The market reaction underscored ongoing regulatory and supply chain vulnerabilities for major semiconductor firms navigating export controls. The allegations brought renewed scrutiny to compliance measures surrounding restricted entities in international markets.</p>
+<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals">bloomberg.com</a> | <a href="https://hntrbrk.com/investigations/amd-china">hntrbrk.com</a></p>
+<br clear="all" />
+
 <h2>Amazon Warns NYC Customers of Potential Price Hikes Under Proposed Delivery Bill</h2>
 <a name="story-28043"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprogresschamber.org%2Fwp-content%2Fuploads%2F2026%2F05%2FCHoP_Insights_No-Free-Shipping-Amazon_fi-1024x767.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon has launched an in-app and website campaign warning New York City customers that they could face price hikes of up to $5 per order if the City Council passes a proposed delivery bill. The legislation, sponsored by Councilwoman Tiffany Cabán, would require e-commerce and delivery companies to obtain licenses for last-mile facilities and directly employ thousands of third-party delivery workers currently managed through subcontractors.</p><p>The proposed delivery mandate is backed by a supermajority of the City Council, Mayor Zohran Mamdani, and the Teamsters union, who argue it will improve wages, safety, and accountability. In response to the legislative push, Amazon has threatened to relocate distribution centers outside the city and eliminate thousands of warehouse jobs, while industry groups and some council members have raised concerns over potential job losses and cost impacts on consumers.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-27987"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic employees, referred to as "Ants," are reporting muted enthusiasm as the company prepares for a historic initial public offering (IPO). The internal discourse among staff centers on the rapid velocity of frontier artificial intelligence development and the strategic implications of transitioning to a public company.</p><p>The reporting highlights a core tension between the company's commercial goals and its commitment to AI safety. While the IPO is expected to be a major financial milestone, it has prompted internal debate over whether the pursuit of scale and profit might compromise the pace of responsible development.</p>
 <p>Nov 19 · <a href="https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Intel Signs First External Customer for 18A Chips</h2>
-<a name="story-27972"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2026%2F04%2FIntel-Foundry-Direct-Connect-Keynote-1-scaled-1-1920x1280.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Intel CEO Lip-Bu Tan announced that the company has secured its first external customer for its 18A manufacturing process. The agreement specifically involves the 18A-P process node, which entered risk production in June 2026, although Intel has not disclosed the identity of the debut client.</p><p>This milestone marks a significant step in Intel's multi-year strategy to challenge Taiwan Semiconductor Manufacturing Co. (TSMC) as a leading foundry for external products. Industry analysts suggest that potential customers could include Nvidia, Apple, or major hyperscalers like Amazon, Microsoft, and Google, who are currently facing capacity constraints at TSMC. Additionally, Intel identified Microsoft as its first public customer for its advanced EMIB packaging technology.</p>
-<p>Nov 19 · <a href="https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html">cnbc.com</a></p>
 <br clear="all" />
 
 ---
