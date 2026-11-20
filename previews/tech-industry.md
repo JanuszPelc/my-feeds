@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Samsung Names Choi Won-Joon Head of MX Business Unit</h2>
+<a name="story-28101"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5google.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2026%2F07%2Fsamsung-won-joon-choi-3.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Samsung has appointed Choi Won-Joon as the head of its MX (mobile experience) business unit, succeeding TM Roh. Choi, who served as the unit's Chief Operating Officer since March 2025, oversaw the recent launches of the Galaxy S26 and Galaxy Z Fold 8.</p><p>TM Roh will remain one of Samsung's two CEOs but will relinquish his specific responsibilities within the mobile division. Choi is expected to lead innovation in foldable phones, on-device AI, and wearables, leveraging his extensive background in next-generation and strategic product development.</p>
+<p>Nov 20 · <a href="https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/">9to5google.com</a> | <a href="https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5">news.samsung.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Shares Fall in Post-Market Trading Following Reports of Apple AI Agent Plans</h2>
 <a name="story-28096"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic shares declined approximately 5% in post-market trading following the conclusion of the artificial intelligence developer's first day as a public company, which came after a record $107.3 billion initial public offering.</p><p>The drop was triggered by reports indicating that Apple is developing its own autonomous artificial intelligence agent, introducing potential competitive pressures that weighed on investor sentiment despite Anthropic's strong initial market debut.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28060"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelios-i.mashable.com%2Fimagery%2Farticles%2F06jeVI37uIOcx2SVn6Oagrf%2Fhero-image.fill.size_1200x675.v1770874190.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ubisoft has cut 166 positions at its Montreal and Quebec City locations, primarily affecting production and support roles. The company attributed the layoffs to shifting production needs, including the cancellation or significant rescoping of certain projects.</p><p>A portion of the affected staff belongs to Vantage Studio, the joint venture with Tencent that manages major franchises like Assassin's Creed and Far Cry. These layoffs follow the recent closure of Ubisoft’s Halifax studio and represent a significant impact on the regional game development landscape in Canada.</p>
 <p>Nov 19 · <a href="https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada">gamedeveloper.com</a> | <a href="https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios">gamesindustry.biz</a></p>
-<br clear="all" />
-
-<h2>IEA Forecasts Global Data Center Investment to Reach $4 Trillion by 2030</h2>
-<a name="story-28017"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fb521bd_7fd793cbba9043f0855b5cebf58ba728~mv2.png%2Fv1%2Ffill%2Fw_980%2Ch_536%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2Fb521bd_7fd793cbba9043f0855b5cebf58ba728~mv2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The International Energy Agency projects that global data center investments will reach $4 trillion by 2030, driven heavily by rapid expansion in artificial intelligence. This infrastructure boom threatens to push power grids to their limits as electricity consumption escalates.</p><p>According to the agency, fewer than 100 major AI projects alone will require a combined 50 gigawatts of power, an amount matching the peak electricity demand of the United Kingdom. The surging energy requirements highlight growing strains on global energy networks and the urgent need for grid reinforcement.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/iea-sees-data-center-boom-pushing-power-grids-to-the-limit">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
