@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>C Implementation of Android Binder Driver Removed from Linux Kernel</h2>
+<a name="story-28141"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.diversifiedbinding.com%2Fcdn%2Fshop%2Ffiles%2Fdownload_4.png%3Fv%3D1762367146%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>At the Kangrejos 2026 conference, developers announced the complete removal of the C implementation of Android's Binder driver from the Linux kernel, finalized during the 7.4 merge window. The C version of Binder, which serves as the primary interprocess communication mechanism for Android, was heavily targeted by security vulnerabilities and accumulated significant technical debt over its eighteen-year history.</p><p>Replacing the driver with a Rust implementation took over five years, requiring careful debugging of tail latencies, lock contention, and tracepoint compatibility to prevent regressions across billions of devices. While vendor hooks and older stable kernel branches will continue to rely on the C version temporarily, maintainers emphasized that superseded C code should be deleted rather than maintained indefinitely on long-term support releases.</p>
+<p>Nov 20 · <a href="https://lwn.net/Articles/1102982/">lwn.net</a> | <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=fd2bc059ed46">git.kernel.org</a> | <a href="https://lobste.rs/s/vo5jve/removing_binder_c">lobsters</a></p>
+<br clear="all" />
+
 <h2>Vim Classic 8.3.1 Released</h2>
 <a name="story-28135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnotifire.in%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnotifire-in.s3.ap-south-1.amazonaws.com%2Fnews%2F2026-06-13%2Fec97456636810c8d.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Drew DeVault has announced the release of Vim Classic 8.3.1, marking the second release of the stable, long-term support text editor fork maintained without generative AI tools. The update includes applicable Vim patches up to version 8.2.3237, incorporates numerous bug fixes and plugin compatibility improvements, and removes Python 2 support.</p><p>Distributed as charityware with continued support for child welfare in Uganda, the new version is available as a signed tarball hosted on SourceHut. The project encourages users to subscribe to the announcement mailing list for future updates and to contribute backports and feedback.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27860"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpicaq.github.io%2Fsarasa%2Fsarasa-gothic-mono.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sarasa Gothic is an open-source, multilingual monospace typeface designed for programmers. Created by Renzhi Li (be5invis), it combines elements of Source Han Sans and Iosevka to support over 160 human languages alongside extensive programming features.</p><p>The typeface includes programming ligatures, math symbols, and true type font hinting optimized for tiny sizes. It features a fixed 0.5em set width for characters to align with 1em CJK characters and is available in multiple weights, styles, and regional orthographies across numerous individual font files.</p>
 <p>Nov 18 · <a href="https://picaq.github.io/sarasa">picaq.github.io</a> | <a href="https://github.com/be5invis/Sarasa-Gothic">github.com</a> | <a href="https://lobste.rs/s/de02yg/sarasa_gothic_mono">lobsters</a></p>
-<br clear="all" />
-
-<h2>Apple Developer System Status Overview</h2>
-<a name="story-27856"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F02%2Fdeveloper-system-status-page1.png%3Fw%3D1000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple provides a dedicated system status page for monitoring the availability and performance of developer-facing services, including App Store Connect and TestFlight. Developers can check real-time updates regarding outages, maintenance, and service disruptions.</p><p>The platform allows users to stay informed about operational changes and incidents affecting the Apple Developer ecosystem. Additional support resources, news, and developer applications are linked directly through the portal.</p>
-<p>Nov 18 · <a href="https://developer.apple.com/system-status/">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50535238">hacker news</a></p>
 <br clear="all" />
 
 ---
