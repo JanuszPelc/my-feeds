@@ -3,9 +3,17 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-20T01:53:00+00:00</updated>
+  <updated>2026-11-20T10:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ethan Lowman Publishes Jujutsu Version Control Primer for Git Users</title>
+    <link href="https://ethanlowman.com/posts/jj-primer/" rel="alternate" />
+    <id>https://ethanlowman.com/posts/jj-primer/::v240</id>
+    <published>2026-11-20T10:12:00+00:00</published>
+    <updated>2026-11-20T10:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ethanlowman.com/posts/jj-primer/">ethanlowman.com</a> | <a href="https://lobste.rs/s/i6dn7g/jujutsu_primer">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50570628">hacker news</a></small></p><hr/><p>Ethan Lowman has published an introductory guide to the Jujutsu (jj) version control system tailored for developers familiar with Git. The guide explains how jj can be used side-by-side with existing Git repositories, offering an alternative model that uses stable change IDs, automatic rebasing, and branchless commit graphs to reduce workflow friction.</p><p>Key sections of the primer cover installation, setup, creating and evolving changes, revsets for querying the commit graph, and navigating between working copies and conflicts. By automating tasks like rebasing and snapshotting working copies, jj aims to keep version control bookkeeping out of the developer's working memory.</p><hr/><small>20 Nov 2026, 15:36 UTC | #28128</small>]]></content>
+  </entry>
   <entry>
     <title>Elixir v1.21 Implements Type Inference and Narrowing Using Reverse Arrows</title>
     <link href="https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/" rel="alternate" />

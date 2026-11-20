@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Ethan Lowman Publishes Jujutsu Version Control Primer for Git Users</h2>
+<p>Ethan Lowman has published an introductory guide to the Jujutsu (jj) version control system tailored for developers familiar with Git. The guide explains how jj can be used side-by-side with existing Git repositories, offering an alternative model that uses stable change IDs, automatic rebasing, and branchless commit graphs to reduce workflow friction.</p><p>Key sections of the primer cover installation, setup, creating and evolving changes, revsets for querying the commit graph, and navigating between working copies and conflicts. By automating tasks like rebasing and snapshotting working copies, jj aims to keep version control bookkeeping out of the developer's working memory.</p>
+<p>Nov 20 · <a href="https://ethanlowman.com/posts/jj-primer/">ethanlowman.com</a> | <a href="https://lobste.rs/s/i6dn7g/jujutsu_primer">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50570628">hacker news</a></p>
+<br clear="all" />
+
 <h2>Elixir v1.21 Implements Type Inference and Narrowing Using Reverse Arrows</h2>
 <a name="story-28114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fforum.typst.app%2Fuploads%2Fdefault%2Foriginal%2F2X%2Fd%2Fdaead0e468e4fe1afc3afed5cb209d39dd52c89f.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>José Valim and Guillaume Duboc explain how upcoming Elixir v1.21 implements type inference and narrowing through reverse arrows, propagating expected results backward through function domains rather than relying on hardcoded special cases.</p><p>This mechanism enables Elixir to pass all tests in the If-T type narrowing benchmark, improving bug detection in existing codebases and supporting precise type refinement across assignments, patterns, and conditionals.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27849"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bytebytego.com%2Fdiagrams%2F0359-the-open-source-ai-stack.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jordan Krueger argues that instead of using AI to create numerous new applications, developers should focus on improving existing open-source software. He suggests that optimizing current tools—making them faster, easier to install, more user-friendly, and more resource-efficient—provides more widespread value than the creation of new, superficial apps.</p><p>Improving existing software could enable non-profits and small organizations to migrate from large technology corporations to self-hosted, privacy-focused solutions without needing dedicated system administrators. Krueger also warns against overwhelming maintainers with low-quality, AI-generated contributions, noting how the curl project has dealt with a high volume of AI-generated bug reports.</p>
 <p>Nov 18 · <a href="https://jordankrueger.com/blog/better-open-source-not-more-apps/">jordankrueger.com</a> | <a href="https://news.ycombinator.com/item?id=50532086">hacker news</a></p>
-<br clear="all" />
-
-<h2>Comparison of WWDC 2007 Core Animation Demo and Modern macOS Performance</h2>
-<a name="story-27847"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaM_8vhVE6jA%2Fhqdefault.jpg%3Fsqp%3D-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC1gOKAgwIABABGE4gXyhlMA8%3D%26rs%3DAOn4CLCLfG-0YpZKdxB4hUfREoifN90hWQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The WWDC 2007 Core Animation demonstration featured seamless features such as live video walls, instant zooming, and instant tag search on 2007-era hardware.</p><p>Modern macOS versions, including Sequoia and Tahoe, exhibit slower interface response times, particularly regarding the loading speed of system panels.</p>
-<p>Nov 18 · <a href="https://lucas.love/100/058">lucas.love</a> | <a href="https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc">lobsters</a></p>
 <br clear="all" />
 
 ---
