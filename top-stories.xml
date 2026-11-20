@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-20T07:14:00+00:00</updated>
+  <updated>2026-11-20T07:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Tyler Robert Buchanan Sentenced to Six Years in Prison for Scattered Spider Crypto Thefts</title>
+    <link href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/::v240</id>
+    <published>2026-11-20T07:59:00+00:00</published>
+    <updated>2026-11-20T07:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fcontent%2Fposts%2F2026%2F11%2F18%2FScattered-Spider-hacker-prison.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/">bleepingcomputer.com</a> | <a href="https://www.justice.gov/usao-cdca/pr/british-national-sentenced-6-years-federal-prison-hacking-companies-and-stealing-least">justice.gov</a></small></p><hr/><p>Tyler Robert Buchanan, a 24-year-old leader of the Scattered Spider cybercrime collective, has been sentenced to six years in federal prison in the United States. Buchanan pleaded guilty to charges including wire fraud and aggravated identity theft after participating in a phishing and SIM-swapping campaign that stole over $11.6 million in cryptocurrency from victims across multiple industries.</p><p>Operating between September 2021 and April 2023, Buchanan and his co-conspirators targeted employees with SMS phishing messages to harvest corporate credentials and drain cryptocurrency wallets. Buchanan was arrested in Spain in June 2024, extradited to U.S. custody, and joins several other key members of the Scattered Spider gang facing lengthy prison sentences for high-profile cyberattacks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bleepstatic.com%2Fcontent%2Fposts%2F2026%2F11%2F18%2FScattered-Spider-hacker-prison.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 23:25 UTC | #27888 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Juan Ricardo Palacio Escobar Indicted for Ransomware Recovery Fraud in FBI Sting Operation</title>
     <link href="https://www.404media.co/ransomware-fraud-attack-fbi-indictment/" rel="alternate" />
