@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Asian Tech Stocks Plunge Amid Broad AI Sell-Off Despite Anthropic IPO</h2>
+<a name="story-28098"><img src="https://wsrv.nl/?url=https%3A%2F%2Fportaltechnologiczny.pl%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Asian technology stocks experienced steep declines on Friday, following a broader sell-off on Wall Street that affected major firms across the region. SoftBank shares fell by approximately 15 percent, TSMC dropped more than 5 percent, and Samsung and SK Hynix both declined by over 6 percent.</p><p>The regional downturn occurred despite Anthropic's record-breaking initial public offering, as market participants continued to reassess valuations and momentum within the artificial intelligence sector.</p>
+<p>Nov 20 · <a href="https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b">ft.com</a></p>
+<br clear="all" />
+
 <h2>Intuit Agrees to Sell Mailchimp to Bending Spoons for $3.68 Billion</h2>
 <a name="story-28073"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-cabinet.ua.news%2Fuploads%2Fimages%2Fintuit_sell_mailchimp_to_bending_spoons_1795122984120.webp%3F8179416&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intuit has agreed to sell its marketing subsidiary Mailchimp to Italian technology consolidator Bending Spoons for $3.68 billion in cash and stock, with the transaction expected to close in early 2027. The agreement marks a significant loss for Intuit, which acquired the email-marketing platform for $12 billion in 2021 before it became a drag on overall revenue growth.</p><p>The acquisition follows Bending Spoons' recent purchases of several prominent software assets, including Airtable, Evernote, and WeTransfer. Alongside the sale announcement, Intuit reported fiscal first-quarter earnings that surpassed Wall Street expectations, though its shares declined in extended trading following weaker-than-expected fiscal-year revenue guidance.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27901"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd1x7dwosqaosdj.cloudfront.net%2Fimages%2F2026-05%2F693f23606bcd4319999ea92fbe6edb6e.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Crypto derivatives protocol Variational has secured $110 million in a Series B funding round led by Bain Capital Crypto, valuing the company at $1.5 billion. The capital will be used to expand market offerings, increase open interest limits, and support around-the-clock trading capabilities for both cryptocurrency and traditional financial assets.</p><p>Since launching its Omni trading platform in early 2025, Variational has processed over $475 billion in trading volume and accumulated more than $1.3 billion in open interest, with traditional markets generating over half of its daily activity. The protocol recently introduced swap products as it positions itself alongside decentralized competitors like Hyperliquid and traditional brokerages.</p>
 <p>Nov 18 · <a href="https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445">theblock.co</a> | <a href="https://www.businesswire.com/news/home/20261116481769/en/Variational-Raises-%24110M-Series-B-at-%241.5B-Valuation-To-Scale-On-Chain-Access-To-Global-Markets">businesswire.com</a></p>
-<br clear="all" />
-
-<h2>Tencent Reports Q3 Revenue Below Estimates Amid Increased AI Spending</h2>
-<a name="story-27863"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2FlihOzYCaYHoUb6ufCze6AdW43hzM4raW_Ye-YFdMRis%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2Vhcm5pbmdzX2NhcmQvMjAyNi0wNS9VU19UQ0VIWV8yMDI2LTA1LTEzXzE3ODQyMDAwNzkud2VicA.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tencent Holdings Ltd. reported third-quarter revenue of approximately $31.1 billion, marking an 8% year-over-year increase that missed analyst estimates. Operating profit fell 7%, representing the company's first earnings decline in several years as capital expenditures on artificial intelligence surged fivefold to roughly $12 billion.</p><p>The heavy investments reflect an aggressive push by management into AI infrastructure, putting near-term pressure on profit margins. The financial setback highlights the mounting costs major technology firms face as they race to scale generative AI capabilities.</p>
-<p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push">bloomberg.com</a> | <a href="https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-third-quarter-results-302943839.html">prnewswire.com</a></p>
 <br clear="all" />
 
 ---
