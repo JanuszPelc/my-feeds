@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-20T13:18:00+00:00</updated>
+  <updated>2026-11-20T15:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Signal Restricts Screenshots by Default to Block AI Agents</title>
+    <link href="https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/::v240</id>
+    <published>2026-11-20T15:35:00+00:00</published>
+    <updated>2026-11-20T15:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcybersecuritynews.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSignal-Restricts-Screenshots-696x392.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/">reuters.com</a> | <a href="https://signal.org/blog/protecting-your-privacy/">signal.org</a> | <a href="https://www.reddit.com/r/technology/comments/1y114g6/exclusive_signal_restricts_screenshots_to_block/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50572348">hacker news</a></small></p><hr/><p>Encrypted messaging service Signal announced it will restrict screenshots by default on mobile devices to prevent operating system-level AI assistants, such as Siri AI and Gemini, from capturing and reading private chats.</p><p>Signal cautioned that these new protections remain incomplete because they cannot stop AI agents from accessing data stored elsewhere on the device, while confirming that users will retain the ability to opt out of the restriction.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcybersecuritynews.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSignal-Restricts-Screenshots-696x392.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 21:12 UTC | #28112</small>]]></content>
+  </entry>
   <entry>
     <title>Nscale's ByteDance Deal Faces US Chip Export Restrictions</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs" rel="alternate" />

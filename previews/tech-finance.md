@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Pragmatik Labs Valuation Reaches $5 Billion Following New Funding Round</h2>
+<a name="story-28111"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd15bya8fi85z1v.cloudfront.net%2Fchat%2FEORaotpyJOhXQrnzEaHzxW1xXhD2%2Fimages%2F8584677DB96093757487%2FB73FB61499FD237DFF8D.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pragmatik Labs, a Shanghai-based artificial intelligence startup founded by former Alibaba Qwen head Junyang Lin, has raised tens of millions of dollars in a funding round that brings its valuation to $5 billion. The latest milestone follows a previous valuation of $2 billion reported in August, highlighting rapid investor backing for the enterprise.</p><p>The startup focuses on AI agent ecosystems and has attracted prominent financial backers, including Tencent and regional government investment funds. The rapid increase in valuation underscores strong capital inflows into elite-led artificial intelligence ventures amid intense market competition.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>DayOne Pauses US IPO Plans Amid Market Volatility</h2>
 <p>Singapore-based DayOne Data Centers Ltd. has suspended its plans for a multibillion-dollar US initial public offering (IPO). The company had intended to raise up to $5 billion as early as the fourth quarter but halted the process due to market volatility and concerns regarding the valuation of AI infrastructure.</p><p>The decision reflects broader investor hesitation over the pricing of data center assets in a fluctuating economic environment. DayOne’s pause highlights the financial complexities of scaling infrastructure for artificial intelligence while navigating scrutiny over capital expenditures and investment returns.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus">bloomberg.com</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27976"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftribeimpactcapital.com%2Fwp-content%2Fuploads%2F2026%2F01%2FEUAwards2022WinnerLIBanners3-Tribe-600x450-1-600x427.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Payward, the parent company of the cryptocurrency exchange Kraken, has agreed to acquire Tribe Capital Management, a venture capital firm with $2.7 billion in assets under management. The firm was formerly led by Arjun Sethi, who also serves as a co-CEO of Kraken.</p><p>The acquisition is intended to expand Kraken’s private-market investment offerings. While the purchase price was not disclosed, the transaction is expected to close in the first quarter of 2027.</p>
 <p>Nov 19 · <a href="https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe">coindesk.com</a></p>
-<br clear="all" />
-
-<h2>Palo Alto Networks Reports Q1 Revenue Up 39% and Agrees to Acquire Applied Compute</h2>
-<a name="story-27949"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQEaF0A3qFhIKQ%2Farticle-cover_image-shrink_720_1280%2Farticle-cover_image-shrink_720_1280%2F0%2F1732147235940%3Fe%3D2147483647%26v%3Dbeta%26t%3D5n9BoKWaZ-hZ-gIbYssWyp54I8uDO67vCs-gVbhS7R8&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cybersecurity firm Palo Alto Networks reported first-quarter revenue of $3.45 billion, marking a 39% increase year-over-year that surpassed analyst estimates of $3.31 billion. Alongside the earnings report, the company announced an agreement to acquire artificial intelligence startup Applied Compute for $4.5 billion.</p><p>Driven by the stronger-than-expected financial performance and the acquisition announcement, Palo Alto Networks raised its fiscal year 2027 revenue forecast. The company's stock jumped more than 7% in after-hours trading following the release.</p>
-<p>Nov 19 · <a href="https://www.reuters.com/technology/palo-alto-buy-ai-startup-applied-compute-45-billion-2026-11-18/">reuters.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000030/ex991q127earningsrelease.htm">sec.gov</a></p>
 <br clear="all" />
 
 ---
