@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Intuit Agrees to Sell Mailchimp to Bending Spoons for $3.68 Billion</h2>
+<a name="story-28073"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-cabinet.ua.news%2Fuploads%2Fimages%2Fintuit_sell_mailchimp_to_bending_spoons_1795122984120.webp%3F8179416&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Intuit has agreed to sell its marketing subsidiary Mailchimp to Italian technology consolidator Bending Spoons for $3.68 billion in cash and stock, with the transaction expected to close in early 2027. The agreement marks a significant loss for Intuit, which acquired the email-marketing platform for $12 billion in 2021 before it became a drag on overall revenue growth.</p><p>The acquisition follows Bending Spoons' recent purchases of several prominent software assets, including Airtable, Evernote, and WeTransfer. Alongside the sale announcement, Intuit reported fiscal first-quarter earnings that surpassed Wall Street expectations, though its shares declined in extended trading following weaker-than-expected fiscal-year revenue guidance.</p>
+<p>Nov 20 · <a href="https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html">cnbc.com</a> | <a href="https://investors.intuit.com/news-events/press-releases/detail/1331/intuit-reports-first-quarter-results-and-enters-agreement-to-sell-mailchimp-to-bending-spoons">investors.intuit.com</a></p>
+<br clear="all" />
+
 <h2>Alphabet Plans $3.5 Billion Canadian Bond Sale</h2>
 <a name="story-28056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg%2Fv1%2Ffill%2Fw_1000%2Ch_1000%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Inc. is returning to the Canadian debt market with a five-part offering aiming to raise at least C$5 billion ($3.5 billion). The deal includes both fixed- and floating-rate notes with maturities ranging from three to 40 years.</p><p>This follows the company's inaugural Canadian dollar bond sale six months prior, which raised C$8.5 billion as part of a broader multi-currency fundraising effort. The move reflects continued corporate debt issuance in foreign currencies to fund ongoing capital requirements and investments.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27863"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.biggo.com%2FlihOzYCaYHoUb6ufCze6AdW43hzM4raW_Ye-YFdMRis%2Ffit%2F1720%2F0%2Fsm%2F0%2FaHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2Vhcm5pbmdzX2NhcmQvMjAyNi0wNS9VU19UQ0VIWV8yMDI2LTA1LTEzXzE3ODQyMDAwNzkud2VicA.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tencent Holdings Ltd. reported third-quarter revenue of approximately $31.1 billion, marking an 8% year-over-year increase that missed analyst estimates. Operating profit fell 7%, representing the company's first earnings decline in several years as capital expenditures on artificial intelligence surged fivefold to roughly $12 billion.</p><p>The heavy investments reflect an aggressive push by management into AI infrastructure, putting near-term pressure on profit margins. The financial setback highlights the mounting costs major technology firms face as they race to scale generative AI capabilities.</p>
 <p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push">bloomberg.com</a> | <a href="https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-third-quarter-results-302943839.html">prnewswire.com</a></p>
-<br clear="all" />
-
-<h2>Unsiloed AI Raises $7.5M in Seed Funding Led by Felicis</h2>
-<a name="story-27877"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenoss.io%2Fwp-content%2Fuploads%2F2025%2F11%2F9-1536x1018.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Unsiloed AI has raised $7.5 million in seed funding led by Felicis to convert complex enterprise documents into structured data for AI agents. The company's technology extracts information from tables, charts, and intricate layouts while providing source attribution to enable business verification.</p><p>The startup utilizes a "dual-stream" vision model and heat map-based chunking to process text and image data. Currently a seven-person team, Unsiloed is working with customers in the finance, legal, and healthcare sectors and plans to use the funding to hire more researchers and engineers.</p>
-<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
