@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-20T10:20:00+00:00</updated>
+  <updated>2026-11-20T10:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Vim Classic 8.3.1 Released</title>
+    <link href="https://vim-classic.org/news/vim-8.3.1-released.html" rel="alternate" />
+    <id>https://vim-classic.org/news/vim-8.3.1-released.html::v240</id>
+    <published>2026-11-20T10:22:00+00:00</published>
+    <updated>2026-11-20T10:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnotifire.in%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnotifire-in.s3.ap-south-1.amazonaws.com%2Fnews%2F2026-06-13%2Fec97456636810c8d.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://vim-classic.org/news/vim-8.3.1-released.html">vim-classic.org</a> | <a href="https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released">lobsters</a></small></p><hr/><p>Drew DeVault has announced the release of Vim Classic 8.3.1, marking the second release of the stable, long-term support text editor fork maintained without generative AI tools. The update includes applicable Vim patches up to version 8.2.3237, incorporates numerous bug fixes and plugin compatibility improvements, and removes Python 2 support.</p><p>Distributed as charityware with continued support for child welfare in Uganda, the new version is available as a signed tarball hosted on SourceHut. The project encourages users to subscribe to the announcement mailing list for future updates and to contribute backports and feedback.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnotifire.in%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnotifire-in.s3.ap-south-1.amazonaws.com%2Fnews%2F2026-06-13%2Fec97456636810c8d.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 17:51 UTC | #28135</small>]]></content>
+  </entry>
   <entry>
     <title>David Bushell Adds Visited Link Styling to Personal Blog</title>
     <link href="https://dbushell.com/2026/11/16/visited-links/" rel="alternate" />

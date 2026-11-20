@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Vim Classic 8.3.1 Released</h2>
+<a name="story-28135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnotifire.in%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnotifire-in.s3.ap-south-1.amazonaws.com%2Fnews%2F2026-06-13%2Fec97456636810c8d.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Drew DeVault has announced the release of Vim Classic 8.3.1, marking the second release of the stable, long-term support text editor fork maintained without generative AI tools. The update includes applicable Vim patches up to version 8.2.3237, incorporates numerous bug fixes and plugin compatibility improvements, and removes Python 2 support.</p><p>Distributed as charityware with continued support for child welfare in Uganda, the new version is available as a signed tarball hosted on SourceHut. The project encourages users to subscribe to the announcement mailing list for future updates and to contribute backports and feedback.</p>
+<p>Nov 20 · <a href="https://vim-classic.org/news/vim-8.3.1-released.html">vim-classic.org</a> | <a href="https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released">lobsters</a></p>
+<br clear="all" />
+
 <h2>David Bushell Adds Visited Link Styling to Personal Blog</h2>
 <a name="story-28134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ghacks.net%2Fwp-content%2Fuploads%2F2012%2F01%2Foverride-visited-links-colors.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Web developer David Bushell has updated his personal blog to style visited links in the body copy using the traditional purple color. Prompted by a discussion initiated by fellow blogger Kev Quirk, Bushell reviewed accessibility standards and browser implementation details before deciding to adopt the styling enhancement.</p><p>While WCAG 2.2 guidelines do not mandate differentiating visited links, they provide an exception for color-only differentiation due to browser privacy constraints and strict style limitations. Bushell notes that the subtle contrast between unvisited and visited states improves navigation without sacrificing readability, aligning with implementations found on major platforms like Wikipedia and GOV.UK.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27856"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F02%2Fdeveloper-system-status-page1.png%3Fw%3D1000&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple provides a dedicated system status page for monitoring the availability and performance of developer-facing services, including App Store Connect and TestFlight. Developers can check real-time updates regarding outages, maintenance, and service disruptions.</p><p>The platform allows users to stay informed about operational changes and incidents affecting the Apple Developer ecosystem. Additional support resources, news, and developer applications are linked directly through the portal.</p>
 <p>Nov 18 · <a href="https://developer.apple.com/system-status/">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50535238">hacker news</a></p>
-<br clear="all" />
-
-<h2>Bypassing Rust&#x27;s Orphan Rule Using Generic Context Parameters</h2>
-<a name="story-27850"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsoftwaremill.com%2Fuser%2Fpages%2Fblog%2F355.adapter-pattern-in-rust-overcoming-the-orphan-rule-with-newtype-and-extension-traits%2Fia3nakhytdrsn1e.jpg%3Fg-caa9725f&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rust's orphan rule (error E0117) prevents implementing foreign traits for foreign types to maintain ecosystem coherence. Typical workarounds, such as the NewType pattern or adding feature flags to libraries, often result in code bloat, dependency lock-in, or inflexible default behaviors.</p><p>Developers can bypass this restriction by designing traits with a generic context parameter. By using a local marker type within the trait's generic arguments, it is possible to satisfy the orphan rule and implement traits for third-party types without additional wrappers. This technique enables the creation of lightweight, independent domain models and allows for zero-cost, context-specific behavior, as seen in the implementation of the Kova ORM.</p>
-<p>Nov 18 · <a href="https://edvong.com/bypass-orphan-rule/">edvong.com</a> | <a href="https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule">lobsters</a></p>
 <br clear="all" />
 
 ---
