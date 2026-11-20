@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-19T22:04:00+00:00</updated>
+  <updated>2026-11-20T01:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>OpenJDK Pull Request 32781 Addresses AVX-512 Base64 Decoder Buffer Overwrite</title>
+    <link href="https://github.com/openjdk/jdk/pull/32781" rel="alternate" />
+    <id>https://github.com/openjdk/jdk/pull/32781::v240</id>
+    <published>2026-11-20T01:09:00+00:00</published>
+    <updated>2026-11-20T01:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Faaroncomo.github.io%2Fassets%2Fimg%2F2023-11-22-heap-overflow.assets%2Fimage-20231122001038966.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/openjdk/jdk/pull/32781">github.com</a> | <a href="https://news.ycombinator.com/item?id=50558906">hacker news</a></small></p><hr/><p>A pull request submitted by albertnetymk for OpenJDK addresses a bug in the x86_64 AVX-512 VBMI path of the Base64 decoder intrinsic. When processing invalid inputs with a length of less than four bytes, the decoding logic incorrectly computes output size and causes the stub to write past the output buffer, potentially corrupting the heap.</p><p>The proposed fix implements an early return to Java when input lengths are shorter than four bytes, preventing the negative output size calculation. Although the pull request was eventually closed without merging, the underlying issue highlights security risks associated with short padded inputs in hardware-accelerated decoding paths.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Faaroncomo.github.io%2Fassets%2Fimg%2F2023-11-22-heap-overflow.assets%2Fimage-20231122001038966.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 10:48 UTC | #28108</small>]]></content>
+  </entry>
   <entry>
     <title>Bert Peters Examines Drawbacks of Default Mutex Poisoning in Rust</title>
     <link href="https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html" rel="alternate" />

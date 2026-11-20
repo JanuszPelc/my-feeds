@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>OpenJDK Pull Request 32781 Addresses AVX-512 Base64 Decoder Buffer Overwrite</h2>
+<a name="story-28108"><img src="https://wsrv.nl/?url=https%3A%2F%2Faaroncomo.github.io%2Fassets%2Fimg%2F2023-11-22-heap-overflow.assets%2Fimage-20231122001038966.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A pull request submitted by albertnetymk for OpenJDK addresses a bug in the x86_64 AVX-512 VBMI path of the Base64 decoder intrinsic. When processing invalid inputs with a length of less than four bytes, the decoding logic incorrectly computes output size and causes the stub to write past the output buffer, potentially corrupting the heap.</p><p>The proposed fix implements an early return to Java when input lengths are shorter than four bytes, preventing the negative output size calculation. Although the pull request was eventually closed without merging, the underlying issue highlights security risks associated with short padded inputs in hardware-accelerated decoding paths.</p>
+<p>Nov 20 · <a href="https://github.com/openjdk/jdk/pull/32781">github.com</a> | <a href="https://news.ycombinator.com/item?id=50558906">hacker news</a></p>
+<br clear="all" />
+
 <h2>Bert Peters Examines Drawbacks of Default Mutex Poisoning in Rust</h2>
 <a name="story-28095"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.digitalogy.co%2Fblog%2Fwp-content%2Fuploads%2F2025%2F01%2Frust-and-go.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Bert Peters argues that mutex poisoning by default is a significant mistake in Rust, asserting that it penalizes general code performance, increases binary size, and encourages poor error-handling habits to address a niche problem. He contends that state invariants are a universal challenge across all mutable references, making the imposition of runtime overhead specifically on mutexes unjustified.</p><p>Contrasting current stable behavior with nightly features, Peters demonstrates that non-poisoning mutexes eliminate unnecessary panic handling and significantly reduce generated assembly code complexity. He notes that the ecosystem's reliance on third-party alternatives like parking_lot reflects broader dissatisfaction with standard library defaults that fail to serve the common case efficiently.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27844"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHIZB2TfagAAu_96.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI-driven efforts have recently produced Rust-based reimplementations of curl and libcurl, including projects like urlx and a newer codebase that used AI agents to convert approximately 185,000 lines of C code. These rewrites aim to provide memory safety by leveraging Rust's features to address historical vulnerabilities in the original C implementation.</p><p>Maintainer Daniel Stenberg argues that while AI can efficiently translate source code, it cannot replicate the decades of stability, continuous bug fixing, and community feedback that sustain the curl project. He notes that the actual curl project implemented hundreds of updates and security fixes during the same period these AI rewrites were being developed, emphasizing that ongoing maintenance is more critical to software longevity than a change in programming language.</p>
 <p>Nov 17 · <a href="https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50525713">hacker news</a></p>
-<br clear="all" />
-
-<h2>Xenodium&#x27;s Contributions to Emacs 31</h2>
-<a name="story-27836"><img src="https://wsrv.nl/?url=https%3A%2F%2Fxenodium.github.io%2Fimages%2Fhide-another-detail%2Fafter.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Emacs 31 master branch updates include a Dired user option to hide absolute directory paths, an Info.plist update for macOS speech recognition permissions, a "Send to..." menu item for macOS sharing, and restored macOS dictation support.</p><p>Upstream Emacs contributions require assigning copyright to the Free Software Foundation. Open-source sustainability remains a challenge, as many major projects rely on unpaid volunteer labor.</p>
-<p>Nov 17 · <a href="https://xenodium.com/my-emacs-31-contributions">xenodium.com</a> | <a href="https://lobste.rs/s/cezfqe/my_emacs_31_contributions">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50517929">hacker news</a></p>
 <br clear="all" />
 
 ---
