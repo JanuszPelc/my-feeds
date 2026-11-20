@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Meta Plans $300 Price Tag and Verizon Data Plan for Muse Charm AI Device</h2>
+<a name="story-28067"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gizmochina.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMeta-Muse-Charm-Launch-Specs-Price.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta Platforms plans to price its upcoming Muse Charm AI device at $300 and bundle it with a free 12-month 5G data plan from Verizon. The keychain-sized hardware, designed to interact with Meta's Muse AI agent, features cameras, a fingerprint sensor, and its own cellular connection.</p><p>The pricing strategy reflects Meta's efforts to drive adoption of its dedicated AI hardware ecosystem following the device's initial reveal at Meta Connect. The gadget is expected to ship during the upcoming holiday season, though official retail pricing was not publicly disclosed at its launch event.</p>
+<p>Nov 20 · <a href="https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Ubisoft Reports Q2 Net Bookings of €388.9 Million</h2>
 <a name="story-28057"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F1%2F23%2F53728916-176921128861407_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ubisoft reported second-quarter net bookings of €388.9 million, down 21% year-over-year but exceeding company expectations of €350.7 million. The performance was driven largely by Assassin's Creed Black Flag Resynced as the video game developer continues to overhaul its operations.</p><p>The results form part of the company's first-half financial figures for the 2026–27 period, reflecting an ongoing effort to stabilize finances and streamline structures following operational restructuring.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27871"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FGTAVI-12-copy.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In an interview with The Verge, Rockstar North co-studio head and Grand Theft Auto VI producer Rob Nelson discussed the creative and technical choices behind the upcoming open-world game, highlighting a shift toward a romantic central relationship between protagonists Jason and Lucia. Nelson acknowledged that building a sustained, interactive romance—complete with joint activities like holding hands and sharing coffee—is a risk for the traditionally chaotic series, though players can choose to bypass these mechanics.</p><p>Development on the title began around 2015 with location scouting in Florida to shape the fictional setting of Leonida and Vice City, driving a narrative about small-time criminals rising through the underworld ranks. Building upon the environmental interaction systems of Red Dead Redemption 2, the team incorporated intricate details such as functional bedsheets and synchronized character animations, carefully balancing immersive realism with the franchise's signature fast-paced action.</p>
 <p>Nov 18 · <a href="https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview">theverge.com</a></p>
-<br clear="all" />
-
-<h2>Grand Theft Auto 6 Campaign Completion Times Range From 42 to 115 Hours Across Four Reviewers</h2>
-<a name="story-27872"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gta6-news.net%2Fwp-content%2Fuploads%2F2026%2F03%2Fdar-11-2026-04_23_12-PM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>IGN has detailed the campaign completion times for Grand Theft Auto 6 based on playthroughs by four writers from IGN, Eurogamer, and Pure Xbox. Story completion times for the open-world game varied significantly depending on individual playstyles, ranging from a brisk 42 hours for a more focused run to 115 hours for thorough exploration.</p><p>Reviewers noted that rushing the main story bypasses the game's detailed side content and open-world activities, with typical playthroughs expected to take around 80 hours or more. The wide variance highlights how player choices—such as stopping for side missions, minigames, and extensive map exploration across Leonida—substantially impact total playtime.</p>
-<p>Nov 18 · <a href="https://www.ign.com/articles/how-long-is-gta-6">ign.com</a></p>
 <br clear="all" />
 
 ---

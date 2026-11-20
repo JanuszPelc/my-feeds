@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-19T22:01:00+00:00</updated>
+  <updated>2026-11-20T00:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Apple Developing AI Agent for Mac Control, App Navigation, and Coding</title>
+    <link href="https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/::v240</id>
+    <published>2026-11-20T00:57:00+00:00</published>
+    <updated>2026-11-20T00:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.insight.com%2Fcontent%2Fdam%2Finsight-web%2Fen_US%2Fstore%2Fapple%2Fapple-multiproduct-macbookpro-ipadpro-airpodspro-iphone13promax-watch.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/">techcrunch.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding">bloomberg.com</a></small></p><hr/><p>Apple is reportedly developing an in-house artificial intelligence agent designed to operate personal computers on behalf of users, handling tasks such as app navigation, web browsing, command execution, and coding. The initiative was surfaced through an Apple job listing seeking a senior engineering manager to oversee the creation of proactive agentic AI systems capable of executing multi-step workflows across software and services.</p><p>While the internal project remains in its early stages with a potential release targeted for late next year, Apple is concurrently increasing restrictions on third-party AI agents. Upcoming macOS updates will introduce heightened warning prompts and explicit user controls to limit external agents from gaining full system access, positioning Apple's prospective tool alongside similar offerings from industry competitors like Anthropic and OpenAI.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.insight.com%2Fcontent%2Fdam%2Finsight-web%2Fen_US%2Fstore%2Fapple%2Fapple-multiproduct-macbookpro-ipadpro-airpodspro-iphone13promax-watch.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 06:01 UTC | #28087</small>]]></content>
+  </entry>
   <entry>
     <title>Google Builds Isolated Internet Environment to Test Chrome AI Agents</title>
     <link href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/" rel="alternate" />
