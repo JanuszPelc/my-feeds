@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Nears Acquisition of Diffusion AI Startup Inception</h2>
+<a name="story-28079"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthe-decoder.com%2Fwp-content%2Fuploads%2F2025%2F02%2Fmercury-corder-diffusion-based-llm-teaser.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia is in advanced talks to acquire Inception, a startup that develops diffusion-based large language models, for upwards of $500 million plus earnouts. The discussions reportedly began before Jensen Huang's resignation.</p><p>Founded two years ago by Stanford professor Stefano Ermon, Inception builds diffusion models for text and code, including its Mercury model series. The company previously raised a $50 million seed round with participation from Nvidia's venture arm, NVentures.</p>
+<p>Nov 20 · <a href="https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Sean Cairncross to Step Down as National Cyber Director</h2>
 <a name="story-28078"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1155968404%2F05b8c959-6c4f-4b40-9a04-c8ab3d3ebd7c%2F5f0a97b3-d5bf-4814-8666-88c7e73b25e0%2F1280x720%2Fmatch%2Fimage.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>White House National Cyber Director Sean Cairncross is stepping down from his post. According to sources, Cairncross chose to leave now to give the administration time to secure Senate confirmation for a successor before Democrats assume control of the Senate in January.</p><p>Cairncross leads the Office of the National Cyber Director, which coordinates federal cybersecurity policy and strategy. His departure follows other technical personnel departures within the administration amid ongoing concerns regarding critical infrastructure reliability and escalating AI-driven cyber threats.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28037"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Faptdeco.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Multiple users of the high-end furniture marketplace AptDeco report that the company has collected and sold their items but failed to issue payouts, leaving sellers waiting weeks or months without payment. Affected customers state that customer support has repeatedly attributed the delays to payment processing issues, technical bugs, or internal escalation without providing concrete timelines.</p><p>Sellers and buyers facing these delays note that AptDeco continues to operate its platform normally while offering vague or automated responses, prompting individuals to consider small claims court or class action lawsuits. The platform, which markets itself as a secure alternative to peer-to-peer marketplaces like Craigslist and Facebook Marketplace by handling pickup, delivery, and payments, has not responded to requests for comment.</p>
 <p>Nov 19 · <a href="https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-peoples-furniture-and-not-paying-them/">404media.co</a></p>
-<br clear="all" />
-
-<h2>Association for Advancing Automation Reports 25 Percent Increase in North American Robot Orders for Third Quarter of 2026</h2>
-<a name="story-27990"><img src="https://wsrv.nl/?url=https%3A%2F%2Froboticsandautomationnews.com%2Fwp-content%2Fuploads%2F2025%2F11%2Findustrial-robots-adcerax-image-2-768x445.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>North American companies ordered 10,989 industrial robots valued at $723.5 million during the third quarter of 2026, marking a 24.8% increase in units compared to the same period in 2025. According to data from the Association for Advancing Automation, the growth was largely driven by gains in automotive component manufacturing and semiconductor or electronics production.</p><p>Total orders for the first nine months of 2026 reached 28,984 robots. While the third-quarter surge reflects ongoing efforts by manufacturers to mitigate labor shortages, some industry observers note that the pace of automation remains constrained as the sector struggles to maintain international competitiveness.</p>
-<p>Nov 19 · <a href="https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340">ft.com</a> | <a href="https://www.automate.org/robotics/news/north-american-robot-orders-increase-24-8-in-third-quarter-of-2026">automate.org</a></p>
 <br clear="all" />
 
 ---
