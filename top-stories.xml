@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-20T07:59:00+00:00</updated>
+  <updated>2026-11-20T08:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>UK Tribunal Rules Home Office Must Acknowledge Secret Apple Technical Capability Notice</title>
+    <link href="https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729" rel="alternate" />
+    <id>https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729::v240</id>
+    <published>2026-11-20T08:10:00+00:00</published>
+    <updated>2026-11-20T08:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.theintelligent.net%2Fs3fs-public%2Fai-generated%2Fapple-challenges-uk-demand-for-access-to-encrypted-icloud-da-1787417832.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729">ft.com</a> | <a href="https://www.judiciary.uk/judgments/apple-inc-v-home-secretary-and-others/">judiciary.uk</a> | <a href="https://news.ycombinator.com/item?id=50562113">hacker news</a></small></p><hr/><p>The UK Investigatory Powers Tribunal has ruled against the Home Office, deciding that the government must acknowledge issuing a secret technical capability notice to Apple intended to bypass its encryption. Privacy advocates praised the decision as an important victory for accountability, transparency, and online security.</p><p>The ruling marks a significant development in the ongoing legal battle between tech firms and government surveillance authorities over user data protection and encryption standards. The tribunal rejected the government's arguments for maintaining blanket secrecy surrounding the notice.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.theintelligent.net%2Fs3fs-public%2Fai-generated%2Fapple-challenges-uk-demand-for-access-to-encrypted-icloud-da-1787417832.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 00:28 UTC | #28028 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Tyler Robert Buchanan Sentenced to Six Years in Prison for Scattered Spider Crypto Thefts</title>
     <link href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/" rel="alternate" />
