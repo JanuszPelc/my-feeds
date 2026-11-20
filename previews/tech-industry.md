@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TechCrunch Equity Podcast Discusses Nvidia Post-Huang Era and AI Financing</h2>
+<a name="story-28123"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2023%2F05%2FNVIDIA-Computex-2023-_2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>TechCrunch’s Equity podcast explores the ongoing fallout from Nvidia's ouster of CEO Jensen Huang, including the chipmaker's latest earnings report, its decision to halt H200 chip sales in China, and the board's rejection of calls to reinstate Huang. The hosts also examine Anthropic’s initial public offering and how it tests the artificial intelligence industry's circular financing model.</p><p>Additional topics discussed on the episode include Waymo suspending its national freeway rides following a California DMV order, Tesla opening personal orders for its Cybercab with geographic restrictions and a monthly fee, battery startup Our Next Energy going public, and Plural raising a $1.1 billion fund for European technology startups.</p>
+<p>Nov 20 · <a href="https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Bloomberg Analysis Finds Double-Digit Decline in AI-Exposed Job Listings in China</h2>
 <a name="story-28106"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgeng.jagran.com%2Fimages%2F2025%2F08%2F05%2Farticle%2Fimage%2Fartificial-intelligence_reuters-1754399937398.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of nearly 10 million online job postings in China between 2021 and 2025 reveals a double-digit drop in listings for roles heavily exposed to artificial intelligence compared to less-exposed positions. Researchers utilized an AI-exposure index built by Peking University to evaluate hiring trends across major platforms such as Zhaopin, 51job, and Liepin.</p><p>The findings indicate that hiring for roles with high AI exposure fell by about 10 percentage points more than for lower-exposure positions across nearly every industry. This trend highlights growing pressure on China's labor market as widespread adoption of artificial intelligence reshapes employment opportunities.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28066"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthewashingtoneye.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Confidentially-Files-to-Go-Public-Graphics-copy-860x453.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic's public market debut and associated equity structures could direct approximately $155 billion toward philanthropic causes through its public benefit fund and employee donation matches. The company's Public Benefit Fund was initially allotted 5% of its shares, establishing a multibillion-dollar endowment dedicated to artificial intelligence research, labor impact studies, and beneficial technology deployment.</p><p>In addition to the fund's baseline shares, Anthropic employees have pledged substantial equity holdings toward philanthropic organizations, backed by corporate matching programs ranging from 1-to-1 to 3-to-1 based on tenure. While the final distribution depends on employee follow-through, stock valuation stability, and timing, analysts expect a significant portion of these funds to support effective altruism causes and AI safety initiatives.</p>
 <p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/">techcrunch.com</a> | <a href="https://www.anthropic.com/news/public-benefit-fund">anthropic.com</a></p>
-<br clear="all" />
-
-<h2>Google Selects Blue Origin to Launch Project Suncatcher AI Satellites in 2029</h2>
-<a name="story-28027"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FHmNYgJ3e93KRdANcLuuMtF.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google has partnered with Blue Origin to launch AI server satellites for Project Suncatcher in the first quarter of 2029 using the New Glenn rocket. The mission will represent the first dedicated heavy-lift launch for the initiative, deploying satellites equipped with Tensor Processing Units to sun-synchronous orbit.</p><p>Project Suncatcher is a moonshot initiative aimed at placing AI data centers in space, following an earlier test launch of a smaller AI satellite aboard a SpaceX rideshare. The upcoming 2029 payloads are designed to deliver computing capacity roughly equivalent to a standard data center rack.</p>
-<p>Nov 19 · <a href="https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029">theverge.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/">blog.google</a></p>
 <br clear="all" />
 
 ---
