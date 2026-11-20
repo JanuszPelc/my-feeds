@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-20T15:32:00+00:00</updated>
+  <updated>2026-11-20T17:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>SpaceX Chip Financing Deal Faces Restrictions Over Orbital Data Center Plans</title>
+    <link href="https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/::v240</id>
+    <published>2026-11-20T17:41:00+00:00</published>
+    <updated>2026-11-20T17:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2025%2F12%2Farticle-3952-1765793333.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/">techcrunch.com</a> | <a href="https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1">ft.com</a></small></p><hr/><p>Lenders backing SpaceX's $40 billion chip financing deal have reportedly requested that the purchased processors not be deployed for the company's planned orbital data centers. Because data center financing typically relies on terrestrial hardware as repossessible collateral in the event of default, placing compute infrastructure in orbit eliminates that traditional financial backstop and complicates debt terms.</p><p>While SpaceX continues to scale its terrestrial ground stations and compute buildout, operating data centers in space depends on overcoming steep launch and rocket reusability barriers with Starship. These financing constraints introduce additional economic hurdles for space-based computing ventures compared to terrestrial rivals, highlighting the unique financial risks facing orbital AI infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.webpronews.com%2Fwp-content%2Fuploads%2F2025%2F12%2Farticle-3952-1765793333.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 22:48 UTC | #28136</small>]]></content>
+  </entry>
   <entry>
     <title>SK Hynix to Become Kioxia's Largest Shareholder via Bond Conversion</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE3MDMxMywiZXhwIjoxNzk1Nzc1MTEzLCJhcnRpY2xlSWQiOiJUT1NIMFVLSkg2VjYwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.rDZqFOOEqaOm6FinskQjVaQwjobFvXg8ArNC1bfMddc" rel="alternate" />
