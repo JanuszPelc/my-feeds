@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-19T19:13:00+00:00</updated>
+  <updated>2026-11-19T20:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Herman Õunapuu Criticizes Anthropic Claude Security Safeguards and Verification Requirements</title>
+    <link href="https://ounapuu.ee/posts/2026/11/19/unsafeguards/" rel="alternate" />
+    <id>https://ounapuu.ee/posts/2026/11/19/unsafeguards/::v240</id>
+    <published>2026-11-19T20:25:00+00:00</published>
+    <updated>2026-11-19T20:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Founapuu.ee%2Fposts%2F2026%2F11%2F19%2Funsafeguards%2Fmedia%2Fbs.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ounapuu.ee/posts/2026/11/19/unsafeguards/">ounapuu.ee</a> | <a href="https://news.ycombinator.com/item?id=50562262">hacker news</a></small></p><hr/><p>Software engineer Herman Õunapuu criticized Anthropic's cyber safeguards in Claude Code after the AI tool blocked him from fixing a security vulnerability in his own product. The system interrupted the task, requiring him to enroll in Anthropic's Cyber Verification Program, wait several business days for review, forfeit data retention exemptions, and submit a government-issued photo ID.</p><p>Õunapuu argued that such restrictions hinder legitimate developers from securing their services while failing to deter malicious actors who can bypass safeguards using open-weights models. Frustrated by the bureaucratic hurdles, he ultimately utilized an EU-hosted open-weights model, GLM 5.3, to successfully identify and resolve the security issue.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Founapuu.ee%2Fposts%2F2026%2F11%2F19%2Funsafeguards%2Fmedia%2Fbs.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 02:29 UTC | #28091</small>]]></content>
+  </entry>
   <entry>
     <title>European Commission Hit by Cyberattack Using AI Tool</title>
     <link href="https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/" rel="alternate" />
