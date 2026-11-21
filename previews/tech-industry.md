@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Cognition AI in Funding Talks for $75 Billion Valuation</h2>
+<a name="story-28162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalueaddvc.com%2Fcharts%2Fcognition-devin-ai-coding-agent-company-deep-dive-1-101db425b2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence coding startup Cognition AI is reportedly in talks to raise $2 billion or more at a valuation of $75 billion. The potential funding follows a substantial fundraising year for the company, which included a $2 billion round at a $48 billion valuation in September.</p><p>The rapid escalation in valuation highlights intense investor demand for AI coding agents and development tools. If completed, the new round would further solidify the startup's position among the most valuable private artificial intelligence firms.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Donald Trump Says Jensen Huang Should Return as Nvidia CEO After Apology</h2>
 <a name="story-28150"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2024%2F10%2FNVIDIA-CES-2025-Jensen-Huang-Keynote-Main-1920x1299.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump stated that Nvidia Corp. should accept an apology from former CEO Jensen Huang and reinstate him following his resignation. Trump remarked that Huang has learned a significant lesson and that the company should allow him to return to work.</p><p>Huang's resignation followed an espionage scandal and subsequent fallout that involved private urging from Trump for him to remain in his role. Reports indicate that Trump described Huang as an honorable individual whose primary regrets involved his family during the ordeal.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkalinga.ai%2Fwp-content%2Fuploads%2F2026%2F06%2Fanthropic-ipo-2026-ai-investors-market-debut.jpg-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Iconiq invested over $6 billion in artificial intelligence company Anthropic, securing an estimated 1.8% stake valued at approximately $31.8 billion following the company's initial public offering. This position yielded a return on investment exceeding 430% as the AI giant debuted on public markets.</p><p>The substantial financial windfall highlights the extraordinary gains achieved by early venture capital backers amid the rapid market expansion of generative AI firms. Iconiq's large allocation underscores the immense scale of private capital deployed into leading artificial intelligence developers ahead of their public offerings.</p>
 <p>Nov 20 · <a href="https://www.forbes.com/sites/richardnieva/2026/11/19/the-big-vc-winners-in-anthropics-ipo/">forbes.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Nears Acquisition of Diffusion AI Startup Inception</h2>
-<a name="story-28079"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthe-decoder.com%2Fwp-content%2Fuploads%2F2025%2F02%2Fmercury-corder-diffusion-based-llm-teaser.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia is in advanced talks to acquire Inception, a startup that develops diffusion-based large language models, for upwards of $500 million plus earnouts. The discussions reportedly began before Jensen Huang's resignation.</p><p>Founded two years ago by Stanford professor Stefano Ermon, Inception builds diffusion models for text and code, including its Mercury model series. The company previously raised a $50 million seed round with participation from Nvidia's venture arm, NVentures.</p>
-<p>Nov 20 · <a href="https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million">theinformation.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-21T05:36:00+00:00</updated>
+  <updated>2026-11-21T07:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Thinking Machines Lab Releases Inkling 2 Mini Open-Weights Model</title>
+    <link href="https://thinkingmachines.ai/news/inkling-2-mini/" rel="alternate" />
+    <id>https://thinkingmachines.ai/news/inkling-2-mini/::v240</id>
+    <published>2026-11-21T07:45:00+00:00</published>
+    <updated>2026-11-21T07:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F07%2FInkling-vs.-Frontier-AI-Models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://thinkingmachines.ai/news/inkling-2-mini/">thinkingmachines.ai</a> | <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y1diuk/thinkingmachinesinkling2mini_moe_26b_a3b/">r/LocalLLaMA</a> | <a href="https://news.ycombinator.com/item?id=50581260">hacker news</a></small></p><hr/><p>Thinking Machines Lab has released Inkling 2 Mini, a 26.4-billion-parameter open-weights mixture-of-experts model designed to run locally on consumer hardware. The model utilizes a looped transformer architecture that processes its middle layers three times per token, enabling enhanced reasoning capabilities with fewer total tokens.</p><p>Featuring a memory footprint of approximately 20 gigabytes, Inkling 2 Mini achieves leading performance among sub-100B parameter open-weights models on agentic coding benchmarks such as DeepSWE v1.1 and Vals Index v2.2. The release is accompanied by a variable-loop research variant intended to help researchers study the impact of architectural looping on model monitorability and chain-of-thought progression.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F07%2FInkling-vs.-Frontier-AI-Models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 07:20 UTC | #28161 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Element Releases Matrix Conference 2026 Public Sector Session Recordings</title>
     <link href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/" rel="alternate" />
