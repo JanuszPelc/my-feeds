@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Anthropic Shares Fall 8.5% on Second Day of Trading Following IPO</h2>
+<a name="story-28127"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spaziocrypto.com%2Fcontent%2Fimages%2F2026%2F11%2Fusa-anthropic-ipo-roadshow-to-pricing.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic PBC shares dropped 8.5% to $88.91 on their second day of trading on the Nasdaq, trimming the gains achieved during the company's historic initial public offering priced at $83 per share.</p><p>The decline follows a massive first-day market debut, testing investor sentiment toward high-profile artificial intelligence companies as broader market enthusiasm faces increased scrutiny.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Coinbase Targets First Half of 2027 for In-House Prediction Markets</h2>
 <p>Coinbase Global Inc. is planning to launch its own in-house event contracts in the United States during the first half of 2027. The move would transition the cryptocurrency exchange away from its current reliance on a partnership with Kalshi for prediction market offerings.</p><p>Coinbase initially introduced prediction markets nationwide in January 2026 through an integration with Kalshi. Although company executives previously signaled an intent to list proprietary contracts, the reported timeline indicates an independent offering is targeted for mid-2027.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027">bloomberg.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27986"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.lenovonews.fiestic.com%2F2022%2F08%2F08015158%2FMicrosoftTeams-image-16.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lenovo reported Q2 revenue of $30.2 billion, a 48% increase year-over-year, fueled by strong demand for AI hardware and servers. Despite the top-line growth, the company posted a net loss of $640 million, which significantly exceeded analyst expectations of a $38 million loss and marked its first operating loss since 2017.</p><p>The decline in profitability is primarily attributed to rising costs for PC components. While the $640 million loss is a statutory figure under Hong Kong reporting rules influenced by non-cash warrant fair-value charges, the company reported positive adjusted net income and noted a 79% surge in AI-related sales as a cornerstone of its long-term strategy.</p>
 <p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand">bloomberg.com</a> | <a href="https://news.lenovo.com/pressroom/press-releases/q2-fy-2026-27/">news.lenovo.com</a></p>
-<br clear="all" />
-
-<h2>MegaRobo Technologies Raises Nearly $200 Million in Oman-Backed Funding</h2>
-<a name="story-27979"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F19%2Fsmall%2F4312064_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Beijing-based MegaRobo Technologies, a company specializing in robotics and AI to automate laboratory work for biotech research, has raised nearly $200 million in a new funding round. The investment includes participation from the Oman Investment Authority, the nation's sovereign wealth fund, as well as CMB International, Asia Investment Capital, Granite Asia, and Sinovation Ventures.</p><p>The company plans to use the capital to develop its core technology and AI infrastructure for complex environments, while expanding its presence in Europe, North America, the Middle East, and Asia. MegaRobo reached unicorn status in 2022 after securing a $300 million Series C round.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round">bloomberg.com</a> | <a href="https://corrierepistoiese.it/italia-mondo/immediapress/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world/">corrierepistoiese.it</a></p>
 <br clear="all" />
 
 ---

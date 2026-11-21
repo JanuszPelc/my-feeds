@@ -19,6 +19,11 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Gilles Chehade Criticizes Framework Hardware and Support Experience</h2>
+<p>Consultant Gilles Chehade published a critical blog post detailing a negative experience with Framework hardware and customer support, stating he will not purchase products from the company again.</p><p>The post gained unexpected attention on Hacker News, prompting Chehade to clarify that his goal is to encourage Framework to improve its customer service and deliver reliable laptops.</p>
+<p>Nov 21 · <a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/">poolp.org</a> | <a href="https://news.ycombinator.com/item?id=50576855">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-consumer.png" width="28" align="texttop" /> &nbsp;Grand Theft Auto News Coverage Reflects Changing Cultural Anxieties</h2>
 <a name="story-28023"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FMiami_goes_neon_for_GTA_VI_26322685802529-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>News coverage of the Grand Theft Auto franchise since 2001 maps shifting American cultural anxieties and priorities. Early reports on Grand Theft Auto III and Vice City centered on moral panics regarding violence and youth behavior. Subsequent media scrutiny shifted toward the sexual content and ESRB ratings of San Andreas, the legal disputes surrounding Grand Theft Auto IV, and the unprecedented commercial success of Grand Theft Auto V.</p><p>Current reports on Grand Theft Auto VI prioritize economic concerns, focusing on high production costs, industry-wide layoffs, and the game’s status as a potential final milestone for high-budget titles. Media coverage now focuses on financial sustainability and the economic risks of large-scale entertainment production rather than policing media morality.</p>
@@ -101,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-28054"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic closed up 17% at $97.17 in its Nasdaq debut, achieving a market capitalization of $1.3 trillion. The stock opened at $111.50, representing a 34% increase from its initial public offering price of $83 per share.</p><p>The listing followed an offering of 980 million Class A shares that priced above the company's amended target range. The market debut marks a major valuation milestone for the artificial intelligence sector, building on financial disclosures outlining rapid commercial expansion alongside substantial operating costs.</p>
 <p>Nov 20 · <a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">reuters.com</a> | <a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering">anthropic.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0nraf/anthropics_ipo_could_deliver_156b_to_charity/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50562754">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/tech-policy.png" width="28" align="texttop" /> &nbsp;Chinese Firms Use US AI Models to Train Domestic Rivals via Distillation</h2>
-<a name="story-27703"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQHaEAg-Cv2K9g%2Ffeedshare-shrink_800%2FB4EZyP95I7HwAg-%2F0%2F1771941893450%3Fe%3D2147483647%26v%3Dbeta%26t%3DD3O8g5Lwa6vYMkPqgywQnxh7G8udwaRUGN-PwuJrczE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A review of over 300 Chinese documents, including academic papers and corporate disclosures, shows that Chinese entities are increasingly using AI distillation to train domestic AI models using outputs from leading American models. This practice has transitioned from academic experimentation to mainstream industrial use and is being encouraged by Beijing.</p><p>The use of distillation helps Chinese developers mitigate the impact of U.S. export controls and chip restrictions by using high-performing American models to generate training data and code. This strategy allows Chinese entities to accelerate domestic AI development despite limitations on advanced hardware.</p>
-<p>Nov 19 · <a href="https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/">reuters.com</a></p>
 <br clear="all" />
 
 ---

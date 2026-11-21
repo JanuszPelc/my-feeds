@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-20T18:41:00+00:00</updated>
+  <updated>2026-11-20T19:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Anthropic Shares Fall 8.5% on Second Day of Trading Following IPO</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels::v240</id>
+    <published>2026-11-20T19:55:00+00:00</published>
+    <updated>2026-11-20T19:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spaziocrypto.com%2Fcontent%2Fimages%2F2026%2F11%2Fusa-anthropic-ipo-roadshow-to-pricing.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels">bloomberg.com</a></small></p><hr/><p>Anthropic PBC shares dropped 8.5% to $88.91 on their second day of trading on the Nasdaq, trimming the gains achieved during the company's historic initial public offering priced at $83 per share.</p><p>The decline follows a massive first-day market debut, testing investor sentiment toward high-profile artificial intelligence companies as broader market enthusiasm faces increased scrutiny.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spaziocrypto.com%2Fcontent%2Fimages%2F2026%2F11%2Fusa-anthropic-ipo-roadshow-to-pricing.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 01:14 UTC | #28127</small>]]></content>
+  </entry>
   <entry>
     <title>Coinbase Targets First Half of 2027 for In-House Prediction Markets</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027" rel="alternate" />

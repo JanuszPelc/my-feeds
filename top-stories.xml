@@ -3,9 +3,17 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-21T00:39:00+00:00</updated>
+  <updated>2026-11-21T01:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Gilles Chehade Criticizes Framework Hardware and Support Experience</title>
+    <link href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/" rel="alternate" />
+    <id>https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/::v240</id>
+    <published>2026-11-21T01:14:00+00:00</published>
+    <updated>2026-11-21T01:14:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/">poolp.org</a> | <a href="https://news.ycombinator.com/item?id=50576855">hacker news</a></small></p><hr/><p>Consultant Gilles Chehade published a critical blog post detailing a negative experience with Framework hardware and customer support, stating he will not purchase products from the company again.</p><p>The post gained unexpected attention on Hacker News, prompting Chehade to clarify that his goal is to encourage Framework to improve its customer service and deliver reliable laptops.</p><hr/><small>21 Nov 2026, 00:51 UTC | #28175 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Grand Theft Auto News Coverage Reflects Changing Cultural Anxieties</title>
     <link href="https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/" rel="alternate" />
