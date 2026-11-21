@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Spotify Founder Daniel Ek Backs Fusion Startup Europa Fusion</h2>
+<a name="story-28151"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffusionforenergy.europa.eu%2Fwp-content%2Fuploads%2F2024%2F12%2FF4E-EUROfusion-MoU-7-1-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Spotify founder Daniel Ek is backing Europa Fusion, a stealthy UK-based fusion power startup founded earlier this year by former Google DeepMind and Pacific Fusion researcher Nantas Nardelli. The company is pursuing a pulsed-power approach to nuclear fusion, utilizing electrical surges to compress fuel targets until atoms fuse and release energy.</p><p>Unlike many competitors that rely heavily on physical hardware to test designs, Nardelli's startup intends to focus on a simulation- and data-heavy strategy. While commercial fusion energy remains unproven at scale, proponents view it as a potential source of clean, near-limitless power that could help address the growing energy demands of artificial intelligence infrastructure.</p>
+<p>Nov 20 · <a href="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Plugin Boutique Adds Roland JUNO-60 Chorus and UAD Cooper Time Cube to Free Gifts Promotion</h2>
 <a name="story-28137"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fdwe0s7lh54fhlss8u1oy2djf3h5a&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Plugin Boutique has added the Roland JUNO-60 Chorus and the Universal Audio Cooper Time Cube Delay to its lineup of promotional gifts available with qualifying purchases. The JUNO-60 Chorus is included free with any paid purchase, while the Cooper Time Cube requires a minimum spend of $49, €49, or £49.</p><p>Customers can select one free gift per transaction from available options, which also include Reaktor Prism, UVI Tape Suite, and Evolve Elastic Lite. The promotion runs alongside discounted software sales on items like Baby Audio Crystalline, UJAM Cinedream, UAD Vibe Analog Machines, and SSL Native Bus Compressor 2.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28035"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Ffabfilter-pro-q3%402000x1500-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>FabFilter and Plugin Boutique have launched an early Black Friday sale offering up to 33% off a wide range of professional audio plugins, software bundles, and individual upgrades. The promotional pricing encompasses the Dutch company's flagship mixing, mastering, and creative tools across multiple digital audio workstation formats.</p><p>Notable discounts include price cuts on the award-winning Pro-Q 4 EQ, Pro-R 2 reverb, Timeless 3 delay, and the comprehensive Essentials Bundle. The sale runs through early December, providing producers and engineers reduced rates on industry-standard processing equipment ahead of the official holiday shopping period.</p>
 <p>Nov 19 · <a href="https://musictech.com/news/gear/fabfilter-black-friday-sale/">musictech.com</a> | <a href="https://www.pluginboutique.com/deals/24653">pluginboutique.com</a></p>
-<br clear="all" />
-
-<h2>HOFA-Plugins Updates Colour Saturator to v1.5</h2>
-<a name="story-28009"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F590-plugins-cs-update-n.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>HOFA-Plugins has released version 1.5 of Colour Saturator, a neural-modeled saturation and distortion plugin for macOS and Windows. The free update introduces 13 new high-resolution hardware models, a new Mastering category featuring four tube-based models, and performance improvements.</p><p>The plugin incorporates HOFA's BiasEQ, a 9-band equalizer operating before and after the saturation stage to control frequency routing without multiband splitting. Colour Saturator is available in VST3, AU, and AAX formats, priced at €129 with a limited-time promotional rate.</p>
-<p>Nov 19 · <a href="https://www.kvraudio.com/news/hofa-plugins-updates-colour-saturator-to-v1-5-with-13-new-models-and-a-mastering-category-69956?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69956">kvraudio.com</a> | <a href="https://hofa-plugins.de/en/shop/colour-en/colour-saturator/">hofa-plugins.de</a></p>
 <br clear="all" />
 
 ---

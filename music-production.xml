@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-20T16:32:00+00:00</updated>
+  <updated>2026-11-20T19:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Spotify Founder Daniel Ek Backs Fusion Startup Europa Fusion</title>
+    <link href="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/::v240</id>
+    <published>2026-11-20T19:54:00+00:00</published>
+    <updated>2026-11-20T19:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffusionforenergy.europa.eu%2Fwp-content%2Fuploads%2F2024%2F12%2FF4E-EUROfusion-MoU-7-1-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/">techcrunch.com</a></small></p><hr/><p>Spotify founder Daniel Ek is backing Europa Fusion, a stealthy UK-based fusion power startup founded earlier this year by former Google DeepMind and Pacific Fusion researcher Nantas Nardelli. The company is pursuing a pulsed-power approach to nuclear fusion, utilizing electrical surges to compress fuel targets until atoms fuse and release energy.</p><p>Unlike many competitors that rely heavily on physical hardware to test designs, Nardelli's startup intends to focus on a simulation- and data-heavy strategy. While commercial fusion energy remains unproven at scale, proponents view it as a potential source of clean, near-limitless power that could help address the growing energy demands of artificial intelligence infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffusionforenergy.europa.eu%2Fwp-content%2Fuploads%2F2024%2F12%2FF4E-EUROfusion-MoU-7-1-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 01:02 UTC | #28151</small>]]></content>
+  </entry>
   <entry>
     <title>Plugin Boutique Adds Roland JUNO-60 Chorus and UAD Cooper Time Cube to Free Gifts Promotion</title>
     <link href="https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/" rel="alternate" />
