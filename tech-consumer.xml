@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-20T19:36:00+00:00</updated>
+  <updated>2026-11-20T21:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Grand Theft Auto VI Reaches Record $3.79 Billion in Day-One Sales</title>
+    <link href="https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever::v240</id>
+    <published>2026-11-20T21:51:00+00:00</published>
+    <updated>2026-11-20T21:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte58ce019a2ef9604%2F6b00c09bb798974fddc17f75%2FJason_and_Lucia_14.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever">gamedeveloper.com</a></small></p><hr/><p>Rockstar Games and Take-Two Interactive announced that Grand Theft Auto VI generated $3.79 billion in worldwide day-one retail sales, establishing what the company described as the largest entertainment launch in history. The figure eclipses the first-day performance of Grand Theft Auto V, which sold an estimated $815 million in 2013.</p><p>Take-Two also reported selling over 32.5 million copies during the pre-order window, supporting the publisher's financial projections for the fiscal year. The record-breaking debut coincides with ongoing labor developments at Rockstar Games, including employee votes on union recognition and legal proceedings regarding workplace dismissals.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte58ce019a2ef9604%2F6b00c09bb798974fddc17f75%2FJason_and_Lucia_14.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 02:56 UTC | #28164</small>]]></content>
+  </entry>
   <entry>
     <title>Gilles Chehade Criticizes Framework Hardware and Support Experience</title>
     <link href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/" rel="alternate" />

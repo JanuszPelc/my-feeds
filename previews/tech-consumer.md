@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grand Theft Auto VI Reaches Record $3.79 Billion in Day-One Sales</h2>
+<a name="story-28164"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte58ce019a2ef9604%2F6b00c09bb798974fddc17f75%2FJason_and_Lucia_14.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rockstar Games and Take-Two Interactive announced that Grand Theft Auto VI generated $3.79 billion in worldwide day-one retail sales, establishing what the company described as the largest entertainment launch in history. The figure eclipses the first-day performance of Grand Theft Auto V, which sold an estimated $815 million in 2013.</p><p>Take-Two also reported selling over 32.5 million copies during the pre-order window, supporting the publisher's financial projections for the fiscal year. The record-breaking debut coincides with ongoing labor developments at Rockstar Games, including employee votes on union recognition and legal proceedings regarding workplace dismissals.</p>
+<p>Nov 20 · <a href="https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever">gamedeveloper.com</a></p>
+<br clear="all" />
+
 <h2>Gilles Chehade Criticizes Framework Hardware and Support Experience</h2>
 <p>Consultant Gilles Chehade published a critical blog post detailing a negative experience with Framework hardware and customer support, stating he will not purchase products from the company again.</p><p>The post gained unexpected attention on Hacker News, prompting Chehade to clarify that his goal is to encourage Framework to improve its customer service and deliver reliable laptops.</p>
 <p>Nov 20 · <a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/">poolp.org</a> | <a href="https://news.ycombinator.com/item?id=50576855">hacker news</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27970"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspectralorbit.com%2Fassets%2Fscreenshots%2Ftrium_2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Solo developer Miguel Dorta details the seven-year development process behind Satelital, a rule-discovery puzzle game for which he built a custom game engine from scratch. Motivated by a desire to understand the technological fundamentals of video games, Dorta designed his own platform layer, renderer, tools, and editors rather than relying on existing commercial solutions.</p><p>Over the course of development, the engine evolved from early iterations using SDL2 and OpenGL to a Vulkan-based backend and a custom base library that replaced parts of the C++ standard library to improve compile times. To achieve a 3D visual style without loading 3D geometry, Dorta utilized orthographic top-down rendering with pre-rendered assets, height maps, and ray-marching shaders for dynamic lighting and shadows.</p>
 <p>Nov 18 · <a href="https://spectralorbit.com/blog/satelital_game_engine">spectralorbit.com</a> | <a href="https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for">lobsters</a></p>
-<br clear="all" />
-
-<h2>Grand Theft Auto VI Receives Record Review Scores on Metacritic and OpenCritic</h2>
-<a name="story-27892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hc4Ge.img%3Fw%3D1200%26h%3D675%26m%3D4%26q%3D93&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rockstar Games' Grand Theft Auto VI has achieved a 99 out of 100 on Metacritic and a 98 out of 100 on OpenCritic, following the publication of early reviews from major outlets including IGN and GameSpot. These figures place the title among the highest-rated video games in history, setting new aggregate benchmarks across major review platforms.</p><p>The critical acclaim prompted a positive market reaction, with parent company Take-Two Interactive Software seeing its stock jump by more than 6% following the score announcements. The game's performance places it alongside historical critical darlings, significantly elevating expectations ahead of its official commercial release.</p>
-<p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/-grand-theft-auto-vi-becomes-the-best-reviewed-video-game-ever">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
