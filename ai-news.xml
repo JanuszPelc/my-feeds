@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-21T08:55:00+00:00</updated>
+  <updated>2026-11-21T08:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>SpaceX Subsidiary Cursor Considers Phasing Out Chinese AI Models Amid Geopolitical Scrutiny</title>
+    <link href="https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html::v241</id>
+    <published>2026-11-21T08:56:00+00:00</published>
+    <updated>2026-11-21T08:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.staticimg.com%2Fnews_flash%2Fba20f1d8-9232-4f59-ad02-50e95dde7710.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html">cnbc.com</a></small></p><hr/><p>SpaceX artificial-intelligence coding platform Cursor is considering moving away from Chinese AI models due to geopolitical risks raised by U.S. lawmakers. Cursor, which SpaceX acquired earlier this year, previously built its Composer 2 model on top of Moonshot AI's Kimi K2.5, joining other U.S. companies that have adopted Chinese models amid a surge in their global popularity.</p><p>According to a report from the House Committee on Homeland Security and the House Select Committee on China, Cursor informed lawmakers of its exploration into phasing out PRC-developed open-weight models. The report highlights that cost, customization, and performance drive American tech adoption of these models, and recommends establishing a national open-weight initiative alongside broader restrictions on Chinese AI in federal systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.staticimg.com%2Fnews_flash%2Fba20f1d8-9232-4f59-ad02-50e95dde7710.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 09:09 UTC | #28171</small>]]></content>
+  </entry>
   <entry>
     <title>OpenSenseNova Releases SenseNova-Loop-9B Looped Transformer Model</title>
     <link href="https://github.com/OpenSenseNova/SenseNova-Loop" rel="alternate" />

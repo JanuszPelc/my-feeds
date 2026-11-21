@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Databricks in Early Talks to Raise New Funding at $225 Billion Valuation</h2>
+<a name="story-28170"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2021%2F02%2Fdatabricks.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Databricks is in early discussions to raise several billion dollars in new funding at a valuation of approximately $225 billion. The potential financing follows the company's closure of a $5 billion funding round in August that valued it at $190 billion.</p><p>If completed, the new valuation would represent an increase of nearly 20% from the August round, reflecting continued investor demand for artificial intelligence and data analytics infrastructure providers. The talks remain in their early stages and terms could still change.</p>
+<p>Nov 21 · <a href="https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?st=f6tFmc&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>CrowdStrike in Talks to Acquire Zscaler</h2>
 <a name="story-28160"><img src="https://wsrv.nl/?url=https%3A%2F%2Faitech365.com%2Fwp-content%2Fuploads%2F2025%2F08%2FZscaler-_-CrowdStrike-Expand-Partnership-for-AI-Security-Ops-Edited-01-01-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CrowdStrike Holdings Inc. is reportedly in discussions to acquire cybersecurity firm Zscaler Inc., according to people familiar with the matter. A potential transaction would unite the two companies into a major deal with a combined market capitalization of approximately $265 billion.</p><p>Following reports of the negotiations, Zscaler shares surged in extended trading while CrowdStrike shares declined. Neither company has officially confirmed the talks, which follow previous cooperative security integrations between the two vendors.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28053"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.genengnews.com%2Fwp-content%2Fuploads%2F2025%2F12%2FGettyImages-2233341375-696x348.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>London-based AI drug discovery startup Boltz has raised $110 million in a Series A funding round led by Bessemer Venture Partners. The company develops open-source AI models designed to predict protein and drug candidate interactions, helping pharmaceutical researchers speed up drug development.</p><p>The round includes participation from existing backers such as Andreessen Horowitz, Amplify Partners, Zetta Venture Partners, Obvious Ventures, and Nvidia, alongside new investors including Greycroft, F-Prime Capital, Hummingbird, and Benchling. Boltz plans to use the capital to expand its team in London and scale its computing and data infrastructure.</p>
 <p>Nov 19 · <a href="https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/">tech.eu</a> | <a href="https://boltz.com/series-a">boltz.com</a></p>
-<br clear="all" />
-
-<h2>StepSecurity Raises $20 Million Series A Funding for Supply Chain Security</h2>
-<a name="story-28036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdianapps.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F04%2FSoftware-Supply-Chain-Security.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cybersecurity startup StepSecurity has raised a $20 million Series A funding round led by Elephant, bringing the company's total funding to $23 million. The capital will support its efforts to protect software pipelines against supply chain attacks.</p><p>The funding follows a series of high-profile security incidents involving software supply chain vulnerabilities, malicious extensions, and targeted cyber attacks. StepSecurity provides tools designed to help organizations secure their software development and build environments.</p>
-<p>Nov 19 · <a href="https://www.axios.com/pro/enterprise-software-deals/2026/11/18/stepsecurity-supply-chain-cybersecurity">axios.com</a> | <a href="https://www.prnewswire.com/news-releases/stepsecurity-raises-20-million-in-series-a-funding-to-prevent-supply-chain-attacks-302941225.html">prnewswire.com</a></p>
 <br clear="all" />
 
 ---
