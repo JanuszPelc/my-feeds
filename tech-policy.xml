@@ -3,9 +3,27 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-20T21:57:00+00:00</updated>
+  <updated>2026-11-20T21:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Donald Trump Threatens Taxes on U.S. Companies Building Data Centers Overseas</title>
+    <link href="https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas" rel="alternate" />
+    <id>https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas::v240</id>
+    <published>2026-11-20T21:59:00+00:00</published>
+    <updated>2026-11-20T21:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F694940094001%2Fb0c689b2-e783-4607-b960-b4327aad016b%2F26b4abac-3c52-421b-9771-98b4d5a16ce8%2F1280x720%2Fmatch%2F896%2F500%2Fimage.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas">axios.com</a></small></p><hr/><p>President Trump stated he would block U.S. companies from constructing data centers overseas or impose a significant tax on those that do. Speaking to reporters, Trump emphasized keeping artificial intelligence infrastructure within the United States to maintain a competitive edge.</p><p>The proposal follows heightened voter scrutiny regarding the environmental and financial impacts of domestic data center expansion during recent midterm elections. While Trump claimed the measure would help lower Americans' costs and taxes, the implementation of such a tax remains uncertain given that Congress holds the constitutional authority to levy federal taxes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F694940094001%2Fb0c689b2-e783-4607-b960-b4327aad016b%2F26b4abac-3c52-421b-9771-98b4d5a16ce8%2F1280x720%2Fmatch%2F896%2F500%2Fimage.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 04:39 UTC | #28142</small>]]></content>
+  </entry>
+  <entry>
+    <title>New York Times Investigation Links Alice Huang Family Network to Chinese Military Suppliers</title>
+    <link href="https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html?unlocked_article_code=1.R1E.R7yZ.02RDagwkH7i4&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html?unlocked_article_code=1.R1E.R7yZ.02RDagwkH7i4&amp;smid=url-share::v240</id>
+    <published>2026-11-20T21:58:00+00:00</published>
+    <updated>2026-11-20T21:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvideous.cgtn.com%2Fnews%2F3567544d32417a4e7855544d3245544e794d444f31457a6333566d54%2Fvideo%2F8418e1e185f8449384ac61d3e28f9c5b%2F8418e1e185f8449384ac61d3e28f9c5b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html?unlocked_article_code=1.R1E.R7yZ.02RDagwkH7i4&smid=url-share">nytimes.com</a></small></p><hr/><p>An investigation by The New York Times has found that companies within the family network of Alice Huang, a central figure in recent semiconductor inquiries, maintain ties to Chinese military suppliers. Approximately $3.6 billion in Chinese state funds reportedly flowed through these interconnected entities.</p><p>The findings add further detail to ongoing scrutiny regarding how advanced processors reach restricted markets and whether intermediate firms facilitate covert transactions. U.S. authorities continue to examine the complex supply chains and financial backing supporting these operations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvideous.cgtn.com%2Fnews%2F3567544d32417a4e7855544d3245544e794d444f31457a6333566d54%2Fvideo%2F8418e1e185f8449384ac61d3e28f9c5b%2F8418e1e185f8449384ac61d3e28f9c5b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 04:38 UTC | #28143</small>]]></content>
+  </entry>
   <entry>
     <title>Senator Tom Cotton Accuses Commerce Secretary Howard Lutnick of Ignoring AI Chip Warnings</title>
     <link href="https://www.wsj.com/politics/national-security/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-512f64fd?st=3ZECin" rel="alternate" />
