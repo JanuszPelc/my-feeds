@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-20T19:54:00+00:00</updated>
+  <updated>2026-11-21T09:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Minimal Audio Static Sample Pack Available for Free</title>
+    <link href="https://bedroomproducersblog.com/2026/11/21/minimal-audio-static-free/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/21/minimal-audio-static-free/::v241</id>
+    <published>2026-11-21T09:06:00+00:00</published>
+    <updated>2026-11-21T09:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.dixonbeats.com%2Fcdn%2Fshop%2Farticles%2F12-free-plugins-massive-black-friday-vst-deals-dont-miss-these-560947.jpg%3Fv%3D1700862565&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/21/minimal-audio-static-free/">bedroomproducersblog.com</a> | <a href="https://www.minimal.audio/stream/samples/packs/static">minimal.audio</a></small></p><hr/><p>Minimal Audio is offering its Static sample pack, a collection of 180 dubstep-inspired audio files created in collaboration with Ternion Sound, as a free download during its Black Friday promotion. Normally valued at $10, the pack includes drum loops, individual hits, bass and synth loops, atmospheric recordings, and textures.</p><p>The 375 MB library consists of 24-bit, 48 kHz WAV files formatted for use across various digital audio workstations and samplers on macOS and Windows without requiring installation or activation. To claim the offer, users must add the item to their cart on the Minimal Audio website and sign into an account.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dixonbeats.com%2Fcdn%2Fshop%2Farticles%2F12-free-plugins-massive-black-friday-vst-deals-dont-miss-these-560947.jpg%3Fv%3D1700862565&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 14:05 UTC | #28187</small>]]></content>
+  </entry>
   <entry>
     <title>Spotify Founder Daniel Ek Backs Fusion Startup Europa Fusion</title>
     <link href="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/" rel="alternate" />
@@ -553,14 +562,5 @@
     <updated>2026-11-16T14:37:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSuno-Bridge-over-DAW.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/music/suno-ai-bridge/">musictech.com</a> | <a href="https://suno.com/bridge">suno.com</a></small></p><hr/><p>Suno has launched a beta version of Suno Bridge, a companion app designed to integrate AI-generated music creations directly into digital audio workstations. The initial release runs alongside Ableton Live 12 on Mac, allowing users to drag and drop AI-generated tracks straight into their project timelines.</p><p>By analyzing uploaded session files, Suno Bridge matches new AI creations—such as vocals, instruments, and samples—to an existing project's tempo, key, style, and VST plugins. Suno plans to expand compatibility to additional platforms and digital audio workstations in future updates.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSuno-Bridge-over-DAW.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 19:52 UTC | #27642</small>]]></content>
-  </entry>
-  <entry>
-    <title>GullDSP Releases Phathom Free Bass Preamp and Distortion Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/::v240</id>
-    <published>2026-11-16T13:45:00+00:00</published>
-    <updated>2026-11-16T13:45:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUQvU4KyTJA%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/">bedroomproducersblog.com</a> | <a href="https://github.com/gulldsp/phathom-vst/">github.com</a></small></p><hr/><p>GullDSP has released Phathom, a free and open-source bass guitar preamp and distortion plugin for Windows. Designed for modern fuzzy, growling, and clanky tones, the virtual pedal operates without any AI-generated code and features two distinct distortion styles alongside pre-distortion filtering and dry signal blending.</p><p>The plugin includes a fuzzy transformer-style saturation option and a clanky mode inspired by CMOS-based inverter chip pedals. It features automatic oversampling up to 4x, zero added latency, and is distributed under the MIT license as a 64-bit VST3 plugin directly through GitHub.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUQvU4KyTJA%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 19:14 UTC | #27651</small>]]></content>
   </entry>
 </feed>

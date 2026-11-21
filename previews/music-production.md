@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Minimal Audio Static Sample Pack Available for Free</h2>
+<a name="story-28187"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dixonbeats.com%2Fcdn%2Fshop%2Farticles%2F12-free-plugins-massive-black-friday-vst-deals-dont-miss-these-560947.jpg%3Fv%3D1700862565&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Minimal Audio is offering its Static sample pack, a collection of 180 dubstep-inspired audio files created in collaboration with Ternion Sound, as a free download during its Black Friday promotion. Normally valued at $10, the pack includes drum loops, individual hits, bass and synth loops, atmospheric recordings, and textures.</p><p>The 375 MB library consists of 24-bit, 48 kHz WAV files formatted for use across various digital audio workstations and samplers on macOS and Windows without requiring installation or activation. To claim the offer, users must add the item to their cart on the Minimal Audio website and sign into an account.</p>
+<p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/minimal-audio-static-free/">bedroomproducersblog.com</a> | <a href="https://www.minimal.audio/stream/samples/packs/static">minimal.audio</a></p>
+<br clear="all" />
+
 <h2>Spotify Founder Daniel Ek Backs Fusion Startup Europa Fusion</h2>
 <a name="story-28151"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffusionforenergy.europa.eu%2Fwp-content%2Fuploads%2F2024%2F12%2FF4E-EUROfusion-MoU-7-1-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Spotify founder Daniel Ek is backing Europa Fusion, a stealthy UK-based fusion power startup founded earlier this year by former Google DeepMind and Pacific Fusion researcher Nantas Nardelli. The company is pursuing a pulsed-power approach to nuclear fusion, utilizing electrical surges to compress fuel targets until atoms fuse and release energy.</p><p>Unlike many competitors that rely heavily on physical hardware to test designs, Nardelli's startup intends to focus on a simulation- and data-heavy strategy. While commercial fusion energy remains unproven at scale, proponents view it as a potential source of clean, near-limitless power that could help address the growing energy demands of artificial intelligence infrastructure.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28048"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf1.zzounds.com%2Fmedia%2Fproductmedia%2Ffit%2C2018by3200%2Fquality%2C85%2FO3-interface-02_905399-e5985ee1b84d3f2b15346b2f1e4780be.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ILIO is giving away its Euphoria patch library for Spectrasonics Omnisphere 3 as part of a Black Friday promotion running from November 16 through December 7, 2026. The offer applies to qualifying physical purchases, specifically the Omnisphere 3 USB Drive Edition and physical upgrades bought directly from ILIO or authorized dealers, while download-only editions are excluded.</p><p>Designed by Michael Babbitt, the $39 expansion features 137 patches geared toward electronic genres like house, techno, and drum and bass, covering arpeggios, synths, basses, and effects. Buyers purchasing directly through ILIO receive the library automatically in their cart, while customers purchasing through authorized dealers can submit a redemption form with their receipt.</p>
 <p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/get-ilio-euphoria-free/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/omnisphere-3">ilio.com</a></p>
-<br clear="all" />
-
-<h2>FabFilter Plugins Discounted in Early Black Friday Sale</h2>
-<a name="story-28035"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Ffabfilter-pro-q3%402000x1500-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>FabFilter and Plugin Boutique have launched an early Black Friday sale offering up to 33% off a wide range of professional audio plugins, software bundles, and individual upgrades. The promotional pricing encompasses the Dutch company's flagship mixing, mastering, and creative tools across multiple digital audio workstation formats.</p><p>Notable discounts include price cuts on the award-winning Pro-Q 4 EQ, Pro-R 2 reverb, Timeless 3 delay, and the comprehensive Essentials Bundle. The sale runs through early December, providing producers and engineers reduced rates on industry-standard processing equipment ahead of the official holiday shopping period.</p>
-<p>Nov 19 · <a href="https://musictech.com/news/gear/fabfilter-black-friday-sale/">musictech.com</a> | <a href="https://www.pluginboutique.com/deals/24653">pluginboutique.com</a></p>
 <br clear="all" />
 
 ---
