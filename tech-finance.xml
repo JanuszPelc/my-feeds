@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-20T19:58:00+00:00</updated>
+  <updated>2026-11-20T22:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Helix Digital in Talks to Acquire EdgeCore at Up to $10 Billion Valuation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion::v240</id>
+    <published>2026-11-20T22:04:00+00:00</published>
+    <updated>2026-11-20T22:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2FzA7C1E09-z4Uj64Eb0zfkw%2Fcd7f1765-f9e9-45aa-2b8e-885cd322d500%2Fmedium&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion">bloomberg.com</a></small></p><hr/><p>Helix Digital Infrastructure, a data center investment firm launched by KKR, is in discussions to acquire EdgeCore. The potential transaction values the data center operator between $8 billion and $10 billion.</p><p>The talks form part of Helix's broader expansion strategy following its establishment with over $10 billion in committed capital to scale data centers, power, and connectivity for artificial intelligence workloads.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2FzA7C1E09-z4Uj64Eb0zfkw%2Fcd7f1765-f9e9-45aa-2b8e-885cd322d500%2Fmedium&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 06:10 UTC | #28153</small>]]></content>
+  </entry>
   <entry>
     <title>Linq Raises $90 Million in Series B Funding Led by Andreessen Horowitz</title>
     <link href="https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all" rel="alternate" />

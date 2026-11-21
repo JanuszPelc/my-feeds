@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>Grand Theft Auto VI Reaches Record $3.79 Billion in Day-One Sales</h2>
 <a name="story-28164"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte58ce019a2ef9604%2F6b00c09bb798974fddc17f75%2FJason_and_Lucia_14.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rockstar Games and Take-Two Interactive announced that Grand Theft Auto VI generated $3.79 billion in worldwide day-one retail sales, establishing what the company described as the largest entertainment launch in history. The figure eclipses the first-day performance of Grand Theft Auto V, which sold an estimated $815 million in 2013.</p><p>Take-Two also reported selling over 32.5 million copies during the pre-order window, supporting the publisher's financial projections for the fiscal year. The record-breaking debut coincides with ongoing labor developments at Rockstar Games, including employee votes on union recognition and legal proceedings regarding workplace dismissals.</p>
-<p>Nov 20 · <a href="https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever">gamedeveloper.com</a></p>
+<p>Nov 20 · <a href="https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever">gamedeveloper.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1cfq4/gta_6_hits_massive_379_billion_in_firstday_sales/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Gilles Chehade Criticizes Framework Hardware and Support Experience</h2>

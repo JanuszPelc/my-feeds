@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Helix Digital in Talks to Acquire EdgeCore at Up to $10 Billion Valuation</h2>
+<a name="story-28153"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2FzA7C1E09-z4Uj64Eb0zfkw%2Fcd7f1765-f9e9-45aa-2b8e-885cd322d500%2Fmedium&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Helix Digital Infrastructure, a data center investment firm launched by KKR, is in discussions to acquire EdgeCore. The potential transaction values the data center operator between $8 billion and $10 billion.</p><p>The talks form part of Helix's broader expansion strategy following its establishment with over $10 billion in committed capital to scale data centers, power, and connectivity for artificial intelligence workloads.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Linq Raises $90 Million in Series B Funding Led by Andreessen Horowitz</h2>
 <a name="story-28131"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F13131705%2Flinq%2A1200xx6946-3907-0-362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Linq, a startup that provides texting and calling infrastructure for artificial intelligence agents, has raised $90 million in a Series B funding round led by Andreessen Horowitz. The financing follows a $20 million Series A round secured by the Birmingham-based company earlier in the year.</p><p>The new funding round includes participation from TQ Ventures, Mucker Capital, Abstract, Anthos, and Left Lane Capital. Alongside the investment, Andreessen Horowitz co-founder Ben Horowitz is joining Linq's board of directors.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28051"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tradingstocksnow.com%2Fwp-content%2Fuploads%2F2026%2F06%2F98c1649b-8a3e-42bf-99b2-f9190f46596a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic shares began trading on the NASDAQ exchange following its initial public offering, opening at $111.50 per share to mark a 33% premium over the set $83 IPO price. The final pricing exceeded the company's initial projected range of $70 to $78 per share.</p><p>The public market debut, combined with concurrent private offerings and existing funding, leaves Anthropic with an estimated $220 billion in cash reserves. The record-setting offering highlights heavy investor demand for artificial intelligence infrastructure amidst ongoing sector financing trends.</p>
 <p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Alibaba Reports Q2 Revenue and Net Profit Growth Amid Improving AI Profitability</h2>
-<a name="story-28006"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallstaccess.com%2Fwp-content%2Fuploads%2F2026%2F01%2FChatGPT-Image-Jan-22-2026-12_27_37-PM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alibaba Group reported a fiscal second-quarter revenue increase of 10% to approximately $40.7 billion, surpassing analyst expectations, alongside a threefold jump in net profit to roughly $9.68 billion. The financial rebound was driven by improving profitability in both its core e-commerce operations and artificial intelligence segments.</p><p>In addition to the earnings growth, the company is preparing a Hong Kong stock exchange listing for T-Head, its semiconductor and chip-design unit. The move comes as Chinese technology firms increasingly look to spin off specialized divisions to capitalize on domestic demand for advanced hardware and AI infrastructure.</p>
-<p>Nov 19 · <a href="https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?st=wx49Qv&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---
