@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-21T16:01:00+00:00</updated>
+  <updated>2026-11-21T16:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Google DeepMind Hires Henry Shevlin for In-House Philosopher Role</title>
+    <link href="https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&amp;sharetype=gift&amp;token=956073db-4440-473e-97bd-a0af2932464c" rel="alternate" />
+    <id>https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&amp;sharetype=gift&amp;token=956073db-4440-473e-97bd-a0af2932464c::v241</id>
+    <published>2026-11-21T16:02:00+00:00</published>
+    <updated>2026-11-21T16:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.dezeen.com%2Fuploads%2F2025%2F05%2Fsq-google-g-logo-update_dezeen_2364_col_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&sharetype=gift&token=956073db-4440-473e-97bd-a0af2932464c">ft.com</a></small></p><hr/><p>Google DeepMind has appointed Cambridge academic Henry Shevlin as an in-house philosopher to examine machine consciousness, human-AI relationships, and AGI readiness. His work addresses foundational conceptual questions regarding the nature of artificial agents and their societal integration.</p><p>The hire highlights how leading artificial intelligence laboratories are increasingly engaging with philosophical and ethical frameworks as systems approach artificial general intelligence. Shevlin's remit involves exploring whether artificial systems can possess subjective experience and how humans will interact with increasingly autonomous technologies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.dezeen.com%2Fuploads%2F2025%2F05%2Fsq-google-g-logo-update_dezeen_2364_col_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 21:37 UTC | #28189</small>]]></content>
+  </entry>
   <entry>
     <title>Shortical Launches AI Microdrama Series Starring Actor Aki Avni's Digital Avatar</title>
     <link href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/" rel="alternate" />
