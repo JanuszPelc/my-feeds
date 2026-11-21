@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-21T12:46:00+00:00</updated>
+  <updated>2026-11-21T22:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>C Implementation of Android Binder Driver Removed from Linux Kernel</title>
+    <link href="https://lwn.net/Articles/1102982/" rel="alternate" />
+    <id>https://lwn.net/Articles/1102982/::v240</id>
+    <published>2026-11-21T22:12:00+00:00</published>
+    <updated>2026-11-21T22:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.diversifiedbinding.com%2Fcdn%2Fshop%2Ffiles%2Fdownload_4.png%3Fv%3D1762367146%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lwn.net/Articles/1102982/">lwn.net</a> | <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=fd2bc059ed46">git.kernel.org</a> | <a href="https://lobste.rs/s/vo5jve/removing_binder_c">lobsters</a></small></p><hr/><p>At the Kangrejos 2026 conference, developers announced the complete removal of the C implementation of Android's Binder driver from the Linux kernel, finalized during the 7.4 merge window. The C version of Binder, which serves as the primary interprocess communication mechanism for Android, was heavily targeted by security vulnerabilities and accumulated significant technical debt over its eighteen-year history.</p><p>Replacing the driver with a Rust implementation took over five years, requiring careful debugging of tail latencies, lock contention, and tracepoint compatibility to prevent regressions across billions of devices. While vendor hooks and older stable kernel branches will continue to rely on the C version temporarily, maintainers emphasized that superseded C code should be deleted rather than maintained indefinitely on long-term support releases.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.diversifiedbinding.com%2Fcdn%2Fshop%2Ffiles%2Fdownload_4.png%3Fv%3D1762367146%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 18:27 UTC | #28141 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Tencent Reports Q3 Revenue Below Estimates Amid Increased AI Spending</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push" rel="alternate" />

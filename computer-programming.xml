@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-21T09:14:00+00:00</updated>
+  <updated>2026-11-21T16:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Freedesktop.org Launches Updated Website and Refreshed Wiki</title>
+    <link href="https://blog.tenstral.net/2026/11/new-fdo-website.html" rel="alternate" />
+    <id>https://blog.tenstral.net/2026/11/new-fdo-website.html::v241</id>
+    <published>2026-11-21T16:05:00+00:00</published>
+    <updated>2026-11-21T16:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhabrastorage.org%2Fgetpro%2Fhabr%2Fupload_files%2F187%2F188%2Fb2f%2F187188b2f4cb1fd47598b492704d4c43.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.tenstral.net/2026/11/new-fdo-website.html">blog.tenstral.net</a> | <a href="https://www.freedesktop.org/news/2026/new-website-and-wiki/">freedesktop.org</a> | <a href="https://lobste.rs/s/p5zsx4/changes_on_freedesktop_org">lobsters</a></small></p><hr/><p>Freedesktop.org has deployed an updated main website alongside a refreshed wiki to separate curated project information from collaborative community content. The overhaul resolves long-standing organizational challenges on the platform, where official project details, active specifications, and outdated pages were previously intermixed in a single unstructured wiki.</p><p>The new static website runs on Pelican via GitLab Pages, serving as a streamlined hub for official documentation and community onboarding. The wiki continues to support collaborative drafting for upcoming projects and specifications, with write access now managed directly through GitLab to maintain history and improve security.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhabrastorage.org%2Fgetpro%2Fhabr%2Fupload_files%2F187%2F188%2Fb2f%2F187188b2f4cb1fd47598b492704d4c43.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:12 UTC | #28215</small>]]></content>
+  </entry>
   <entry>
     <title>Slopstrap CSS and JavaScript Framework Released</title>
     <link href="https://slopstrap.mikelacher.com/l" rel="alternate" />

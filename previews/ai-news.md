@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Survey of Text Message-Based AI Agents</h2>
+<a name="story-28201"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAskProxy-agent.png%3Fw%3D662&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A growing number of AI agents are designed to operate directly through text messaging and chat platforms like iMessage, RCS, WhatsApp, and SMS, allowing users to delegate everyday tasks without downloading standalone applications. These assistants can manage calendars, organize schedules, plan travel, handle email, and execute multi-step workflows while maintaining context across devices.</p><p>Notable entries in this category range from heavily funded general-purpose assistants like Instinct and Poke to specialized tools like family-focused Fambot and travel-oriented Miso. Many of these services operate on subscription models or freemium tiers, though their increasing autonomy—such as managing dedicated email accounts and placing phone calls—has also raised ongoing questions regarding user privacy and security.</p>
+<p>Nov 21 · <a href="https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Google DeepMind Hires Henry Shevlin for In-House Philosopher Role</h2>
 <a name="story-28189"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.dezeen.com%2Fuploads%2F2025%2F05%2Fsq-google-g-logo-update_dezeen_2364_col_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google DeepMind has appointed Cambridge academic Henry Shevlin as an in-house philosopher to examine machine consciousness, human-AI relationships, and AGI readiness. His work addresses foundational conceptual questions regarding the nature of artificial agents and their societal integration.</p><p>The hire highlights how leading artificial intelligence laboratories are increasingly engaging with philosophical and ethical frameworks as systems approach artificial general intelligence. Shevlin's remit involves exploring whether artificial systems can possess subjective experience and how humans will interact with increasingly autonomous technologies.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-28062"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fhero_header_CU_copy.width-1300.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has introduced a computer-use feature for its Gemini desktop application on macOS, enabling the artificial intelligence to autonomously complete multi-step tasks across native applications, local files, and web browsers. Users can issue instructions to handle workflows such as filling out forms, organizing files, and generating slideshows while the agent operates in the background.</p><p>Operating similarly to agentic offerings from other major AI developers, the tool displays a live preview within the chat interface while allowing users to keep their main screen and cursor free. Individuals retain oversight through manual controls to pause, stop, or approve actions before execution. The feature is initially available in English for U.S. users subscribed to Google AI Plus, Pro, or Ultra plans.</p>
 <p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/">blog.google</a></p>
-<br clear="all" />
-
-<h2>Superhuman Expands Go AI Assistant Across Suite and Products</h2>
-<a name="story-28026"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FStatic_Agents-in-Docs_Create-Agent.jpeg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Superhuman is rolling out a major update to its Go AI assistant, expanding its presence across Docs, Superhuman Mail, and enterprise search. The update introduces personalization features that allow the assistant to learn context across different tools, adapt to user writing styles, and act proactively based on schedules and emails.</p><p>The company is also integrating over 20 new partner agents via a Go SDK—including tools from DeepL, Amplitude, and Databricks—and incorporating live collaborative notetaking following its acquisition of Fathom. According to Superhuman, the Go assistant has surpassed 1 million active users as productivity platforms increasingly compete in agentic workflows.</p>
-<p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/">techcrunch.com</a> | <a href="https://blog.superhuman.com/superhuman-expands-go-unveils-personal-ai-assistant/">blog.superhuman.com</a></p>
 <br clear="all" />
 
 ---
