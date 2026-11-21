@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-20T19:57:00+00:00</updated>
+  <updated>2026-11-20T20:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Internet Archive Workers Launch Union Campaign with Communications Workers of America</title>
+    <link href="https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america" rel="alternate" />
+    <id>https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america::v240</id>
+    <published>2026-11-20T20:00:00+00:00</published>
+    <updated>2026-11-20T20:00:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcwa-union.org%2Fsites%2Fdefault%2Ffiles%2F2024-05%2F20240502enews_d1_runaway_inequality_training_featured-og.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america">cwa-union.org</a> | <a href="https://lobste.rs/s/o5coeq/internet_archive_staffers_are">lobsters</a></small></p><hr/><p>Workers at the Internet Archive have announced their intent to form a union with the Communications Workers of America (CWA), seeking to join Local 9415 in Oakland, California. A supermajority of the approximately 120 eligible employees signed representation cards and requested voluntary recognition from management, while simultaneously filing a certification election petition with the National Labor Relations Board.</p><p>The proposed bargaining unit comprises librarians, engineers, technicians, and administrative staff who maintain services like the Wayback Machine and Open Library. This organizing effort follows similar recent unionization campaigns by workers at other digital and nonprofit organizations, including the Wikimedia Foundation, the Free Software Foundation, and the Electronic Frontier Foundation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcwa-union.org%2Fsites%2Fdefault%2Ffiles%2F2024-05%2F20240502enews_d1_runaway_inequality_training_featured-og.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 02:44 UTC | #28176</small>]]></content>
+  </entry>
   <entry>
     <title>Jen-Hsun and Lori Huang Foundation Commits $350 Million to CoreWeave</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/jensen-huang-s-charity-committed-350-million-to-coreweave" rel="alternate" />
