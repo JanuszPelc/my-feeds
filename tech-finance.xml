@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-20T22:05:00+00:00</updated>
+  <updated>2026-11-20T22:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Bitcoin Falls to $57,000 in Two-Year Low Amid Global Market Drop</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink::v240</id>
+    <published>2026-11-20T22:08:00+00:00</published>
+    <updated>2026-11-20T22:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.independent.co.uk%2F2025%2F10%2F14%2F9%2F28%2FbXEtP-bitcoin-price-in-months-after-2024-us-election.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink">bloomberg.com</a></small></p><hr/><p>Bitcoin dropped to $57,000, reaching its lowest level in over two years and losing more than half its value from its October 2025 peak above $126,000. The decline occurred as broader global markets sank, extending a steep reversal following the cryptocurrency's post-election surge.</p><p>The sharp downward trend has revived comparisons to previous bear markets as liquidations mounted across crypto exchanges. Macroeconomic pressures and shifting investor sentiment have heavily weighed on digital assets, cooling the initial enthusiasm driven by prior political developments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.independent.co.uk%2F2025%2F10%2F14%2F9%2F28%2FbXEtP-bitcoin-price-in-months-after-2024-us-election.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 06:36 UTC | #28156</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Faces Longest Weekly Losing Streak Since 2008 Financial Crisis</title>
     <link href="https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html" rel="alternate" />
