@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Tristan Buckmaster and Levent Alpöge Release AI-Aided Navier-Stokes Blowup Proof</h2>
+<a name="story-28184"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftweet-media.assets.alphaxiv.org%2F01a08281-b13c-7596-9779-abc444350c24&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>New York University professor Tristan Buckmaster and Anthropic employee Levent Alpöge have released an AI-aided mathematical proof regarding Navier-Stokes blowup. The new paper attempts to close a loophole in OpenAI's September 2026 solution, which relied on an artificial, fine-tuned forcing term to produce infinite fluid velocity.</p><p>The researchers published their unpolished write-up online to prevent being scooped again following a prior priority dispute with OpenAI over AI-assisted math proofs. While experts previously questioned whether OpenAI's forced approach addressed the unforced Navier-Stokes equations, the latest proof represents a new attempt to model fluid dynamics without relying on external forcing.</p>
+<p>Nov 21 · <a href="https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/">scientificamerican.com</a> | <a href="https://github.com/tristanbuckmaster/navier-stokes/">github.com</a> | <a href="https://news.ycombinator.com/item?id=50576232">hacker news</a></p>
+<br clear="all" />
+
 <h2>SpaceX Subsidiary Cursor Considers Phasing Out Chinese AI Models Amid Geopolitical Scrutiny</h2>
 <a name="story-28171"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.staticimg.com%2Fnews_flash%2Fba20f1d8-9232-4f59-ad02-50e95dde7710.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SpaceX artificial-intelligence coding platform Cursor is considering moving away from Chinese AI models due to geopolitical risks raised by U.S. lawmakers. Cursor, which SpaceX acquired earlier this year, previously built its Composer 2 model on top of Moonshot AI's Kimi K2.5, joining other U.S. companies that have adopted Chinese models amid a surge in their global popularity.</p><p>According to a report from the House Committee on Homeland Security and the House Select Committee on China, Cursor informed lawmakers of its exploration into phasing out PRC-developed open-weight models. The report highlights that cost, customization, and performance drive American tech adoption of these models, and recommends establishing a national open-weight initiative alongside broader restrictions on Chinese AI in federal systems.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-28041"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpica.zhimg.com%2Fv2-41bf5cc80481ede5f474a5da976410f2_r.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unsloth has released an update expanding its AMD NPU integration by allowing users to load converted Q4NX models directly on NPUs via a dedicated export tab. The update also brings new capabilities for video diffusion, including LTX-2.5 and MOSS-Image LoRA training and support for NVIDIA Cosmos3 Nano-FP8 and Edge-FP8 video models.</p><p>Additional improvements feature faster image generation using FLUX.3 Klein on Strix Halo hardware, scheduled tasks within chat interfaces, a redesigned translation page with side-by-side document and image uploads, and up to 25 percent faster QLoRA training performance.</p>
 <p>Nov 19 · <a href="https://unsloth.ai/docs/new/changelog#amd-npu--video-diffusion-lora">unsloth.ai</a></p>
-<br clear="all" />
-
-<h2>OpenAI Reports AI Agents Complete 46% of Research Tasks</h2>
-<a name="story-27960"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQEZW5J4Fwhp1Q%2Farticle-cover_image-shrink_720_1280%2FB4DZwn1Xr5G8AI-%2F0%2F1770194843790%3Fe%3D2147483647%26v%3Dbeta%26t%3D32xzWG5jTGHkIAe9j8whj39MeiB48HYu1F416OY2dxc&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI reports that AI agents are completing 46% of researchers' tasks lasting between two and four hours independently, a significant increase from 23% in March. The organization also revealed that the median researcher's daily agent spend has reached $2,400.</p><p>The data indicates that AI systems are increasingly capable of contributing to their own research and development workflows. This acceleration highlights the growing role of autonomous agentic systems in automating complex, multi-hour research operations and scaling internal R&amp;D capabilities.</p>
-<p>Nov 19 · <a href="https://openai.com/index/research-acceleration-jagged-frontier">openai.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1y08sql/openai_reveals_its_researchers_are_using_ai/">r/singularity</a></p>
 <br clear="all" />
 
 ---
