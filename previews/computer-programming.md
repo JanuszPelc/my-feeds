@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Alice v0.6.0 Released with Config Scripts and C Code Support</h2>
+<a name="story-28188"><img src="https://wsrv.nl/?url=https%3A%2F%2Focaml.org%2F_%2FYzA5ZWY4OTQ5Mjc1NjA4MmQ3NzAyNThmMWJmZmZlZTE%2Fimg%2Fhome%2Fvscode-preview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Alice v0.6.0 introduces several new features designed to support porting packages from the Opam repository. Key additions include standard library built-ins management through the Alice.kdl manifest, basic support for mixing C code with OCaml, and custom configuration scripts executed at build time.</p><p>The update also adds a new --backend flag allowing packages to be built using either the native or bytecode compiler. Additionally, the release includes minor command-line improvements such as a --bin alias for alice new and build duration tracking, with installation supported via WinGet, Homebrew, NixOS, and a shell script.</p>
+<p>Nov 21 · <a href="https://www.alicecaml.org/blog/alice-v0-6-0/">alicecaml.org</a> | <a href="https://lobste.rs/s/18c0lq/alice_v0_6_0">lobsters</a></p>
+<br clear="all" />
+
 <h2>Bryan O&#x27;Sullivan Releases jj-musubi Live-Sync Tool for Jujutsu</h2>
 <a name="story-28174"><img src="https://wsrv.nl/?url=https%3A%2F%2Frenerocks.ai%2Fjj.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bryan O'Sullivan has announced jj-musubi, a new source control tool designed to live-sync Jujutsu repositories across multiple machines. Operating on a lightweight hub-and-daemon architecture over SSH, the tool automatically propagates snapshots, commits, rebases, and fetches as a user works.</p><p>Built to function similarly to Meta's Commit Cloud and internal Google servers, jj-musubi leverages Jujutsu's existing workspace machinery to handle concurrent edits safely without overwriting working copies. It also supports ephemeral virtual machine agents via a leasing system, and its network protocol safety properties have been verified using Lean proofs and extensive testing.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27958"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdesignftw.mit.edu%2Flectures%2Fasync%2Fassets%2Freactivity%2Fstep-4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SolidJS creator Ryan Carniato has announced the stable release of Solid 2.0, marking five years of development since version 1.0. The update integrates asynchronous capabilities directly into the reactive graph, moving server functions into core and bringing new runtime and compile-time diagnostics designed to assist AI coding agents.</p><p>The framework update also reduces its overall API surface by removing several primitives like createResource, batch, and createEffect. Additionally, the SolidStart metaframework has been retired in favor of core primitives and framework-agnostic Vite plugins, while maintaining full compatibility with ecosystem tooling like TanStack Query and Router.</p>
 <p>Nov 18 · <a href="https://www.solidjs.com/blog/solid-2-0-the-long-hold">solidjs.com</a> | <a href="https://lobste.rs/s/dpvrbv/solid_2_0">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50536387">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ollama and Together AI Detail Prefix Caching for Long-Horizon Agent Workloads</h2>
-<a name="story-27931"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.ollama.com%2Fopen-models-long-horizon-agents-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Coding agents repeatedly send growing transcripts of system prompts, tool definitions, and past conversation turns on every step, creating high input sequence lengths and heavy prefill computational overhead. Prefix caching mitigates this by reusing previously computed key-value pairs across turns, but even minor variations early in the prompt can invalidate the cache and force expensive full recomputations.</p><p>Authored by contributors from Ollama and Together AI, the guide examines how harness-side behaviors—including dynamic tool loading, changing system timestamps, and adjusting reasoning effort—can break cache continuity. On the inference side, maintaining high GPU utilization requires prefix-aware request routing to ensure successive turns are directed to the specific cluster nodes holding the existing cache.</p>
-<p>Nov 18 · <a href="https://ollama.com/blog/open-models-long-horizon-agents">ollama.com</a></p>
 <br clear="all" />
 
 ---

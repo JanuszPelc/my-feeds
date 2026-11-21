@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-20T18:42:00+00:00</updated>
+  <updated>2026-11-21T09:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Alice v0.6.0 Released with Config Scripts and C Code Support</title>
+    <link href="https://www.alicecaml.org/blog/alice-v0-6-0/" rel="alternate" />
+    <id>https://www.alicecaml.org/blog/alice-v0-6-0/::v241</id>
+    <published>2026-11-21T09:01:00+00:00</published>
+    <updated>2026-11-21T09:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Focaml.org%2F_%2FYzA5ZWY4OTQ5Mjc1NjA4MmQ3NzAyNThmMWJmZmZlZTE%2Fimg%2Fhome%2Fvscode-preview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.alicecaml.org/blog/alice-v0-6-0/">alicecaml.org</a> | <a href="https://lobste.rs/s/18c0lq/alice_v0_6_0">lobsters</a></small></p><hr/><p>Alice v0.6.0 introduces several new features designed to support porting packages from the Opam repository. Key additions include standard library built-ins management through the Alice.kdl manifest, basic support for mixing C code with OCaml, and custom configuration scripts executed at build time.</p><p>The update also adds a new --backend flag allowing packages to be built using either the native or bytecode compiler. Additionally, the release includes minor command-line improvements such as a --bin alias for alice new and build duration tracking, with installation supported via WinGet, Homebrew, NixOS, and a shell script.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Focaml.org%2F_%2FYzA5ZWY4OTQ5Mjc1NjA4MmQ3NzAyNThmMWJmZmZlZTE%2Fimg%2Fhome%2Fvscode-preview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 09:33 UTC | #28188</small>]]></content>
+  </entry>
   <entry>
     <title>Bryan O'Sullivan Releases jj-musubi Live-Sync Tool for Jujutsu</title>
     <link href="https://www.serpentine.com/posts/2026/announcing-jj-musubi/" rel="alternate" />
