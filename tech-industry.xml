@@ -3,9 +3,17 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-21T08:59:00+00:00</updated>
+  <updated>2026-11-21T09:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Oracle Secures Funding to Fulfill OpenAI Contract</title>
+    <link href="https://x.com/oracle/status/2123884437045760420" rel="alternate" />
+    <id>https://x.com/oracle/status/2123884437045760420::v241</id>
+    <published>2026-11-21T09:03:00+00:00</published>
+    <updated>2026-11-21T09:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://x.com/oracle/status/2123884437045760420">x.com</a></small></p><hr/><p>Oracle announced that it has secured the total funding required to fulfill its cloud infrastructure contract with OpenAI. Following a final capital raise, the company stated it is the first major hyperscaler to be fully funded for the current investment cycle.</p><p>The financing strategy, initially detailed during Oracle's Investor Day, combines vendor financing and capital raises to support large-scale AI infrastructure development. This positions the company to execute its major cloud commitments through the end of the decade.</p><hr/><small>21 Nov 2026, 11:40 UTC | #28173</small>]]></content>
+  </entry>
   <entry>
     <title>Wonder Explores Sale of Food Delivery Platform Grubhub</title>
     <link href="https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?st=D3FY3c&amp;reflink=desktopwebshare_permalink" rel="alternate" />

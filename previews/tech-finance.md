@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Asian Tech Stocks Plunge Amid Broad AI Sell-Off Despite Anthropic IPO</h2>
 <a name="story-28098"><img src="https://wsrv.nl/?url=https%3A%2F%2Fportaltechnologiczny.pl%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Asian technology stocks experienced steep declines on Friday, following a broader sell-off on Wall Street that affected major firms across the region. SoftBank shares fell by approximately 15 percent, TSMC dropped more than 5 percent, and Samsung and SK Hynix both declined by over 6 percent.</p><p>The regional downturn occurred despite Anthropic's record-breaking initial public offering, as market participants continued to reassess valuations and momentum within the artificial intelligence sector.</p>
-<p>Nov 20 · <a href="https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b">ft.com</a></p>
+<p>Nov 20 · <a href="https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b">ft.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1hrmh/us_tech_stocks_plunge_into_bear_market_in_worst/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Intuit Agrees to Sell Mailchimp to Bending Spoons for $3.68 Billion</h2>
