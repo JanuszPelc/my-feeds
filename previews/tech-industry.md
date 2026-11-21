@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>SoftBank&#x27;s Masayoshi Son Explores $1 Trillion SK Hynix Buyout</h2>
+<a name="story-28178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.livemint.com%2Frf%2FImage-621x414%2FLiveMint%2FPeriod2%2F2017%2F05%2F23%2FPhotos%2FProcessed%2Fsoftbank-kUuH--621x414%40LiveMint.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SoftBank CEO Masayoshi Son recently approached Wall Street institutions to explore financing for a potential $1 trillion acquisition of the South Korean memory chip manufacturer SK Hynix. The deal was characterized as a "moonshot" move to secure a massive foothold in the semiconductor market. SoftBank has since stated that the acquisition is no longer under active consideration.</p><p>The exploration of such a large-scale deal highlights Son's focus on aggressive AI-related infrastructure despite SoftBank's current balance-sheet pressures. The reported interest underscores the strategic importance of memory chips for AI development, though the company is currently pivoting away from this specific transaction.</p>
+<p>Nov 21 · <a href="https://www.theinformation.com/articles/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-sk-hynix">theinformation.com</a></p>
+<br clear="all" />
+
 <h2>Oracle Secures Funding to Fulfill OpenAI Contract</h2>
 <p>Oracle announced that it has secured the total funding required to fulfill its cloud infrastructure contract with OpenAI. Following a final capital raise, the company stated it is the first major hyperscaler to be fully funded for the current investment cycle.</p><p>The financing strategy, initially detailed during Oracle's Investor Day, combines vendor financing and capital raises to support large-scale AI infrastructure development. This positions the company to execute its major cloud commitments through the end of the decade.</p>
 <p>Nov 21 · <a href="https://x.com/oracle/status/2123884437045760420">x.com</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28101"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5google.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2026%2F07%2Fsamsung-won-joon-choi-3.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung has appointed Choi Won-Joon as the head of its MX (mobile experience) business unit, succeeding TM Roh. Choi, who served as the unit's Chief Operating Officer since March 2025, oversaw the recent launches of the Galaxy S26 and Galaxy Z Fold 8.</p><p>TM Roh will remain one of Samsung's two CEOs but will relinquish his specific responsibilities within the mobile division. Choi is expected to lead innovation in foldable phones, on-device AI, and wearables, leveraging his extensive background in next-generation and strategic product development.</p>
 <p>Nov 20 · <a href="https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/">9to5google.com</a> | <a href="https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5">news.samsung.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Shares Fall in Post-Market Trading Following Reports of Apple AI Agent Plans</h2>
-<a name="story-28096"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic shares declined approximately 5% in post-market trading following the conclusion of the artificial intelligence developer's first day as a public company, which came after a record $107.3 billion initial public offering.</p><p>The drop was triggered by reports indicating that Apple is developing its own autonomous artificial intelligence agent, introducing potential competitive pressures that weighed on investor sentiment despite Anthropic's strong initial market debut.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-21T09:03:00+00:00</updated>
+  <updated>2026-11-21T09:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>SoftBank's Masayoshi Son Explores $1 Trillion SK Hynix Buyout</title>
+    <link href="https://www.theinformation.com/articles/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-sk-hynix" rel="alternate" />
+    <id>https://www.theinformation.com/articles/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-sk-hynix::v241</id>
+    <published>2026-11-21T09:05:00+00:00</published>
+    <updated>2026-11-21T09:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.livemint.com%2Frf%2FImage-621x414%2FLiveMint%2FPeriod2%2F2017%2F05%2F23%2FPhotos%2FProcessed%2Fsoftbank-kUuH--621x414%40LiveMint.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theinformation.com/articles/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-sk-hynix">theinformation.com</a></small></p><hr/><p>SoftBank CEO Masayoshi Son recently approached Wall Street institutions to explore financing for a potential $1 trillion acquisition of the South Korean memory chip manufacturer SK Hynix. The deal was characterized as a "moonshot" move to secure a massive foothold in the semiconductor market. SoftBank has since stated that the acquisition is no longer under active consideration.</p><p>The exploration of such a large-scale deal highlights Son's focus on aggressive AI-related infrastructure despite SoftBank's current balance-sheet pressures. The reported interest underscores the strategic importance of memory chips for AI development, though the company is currently pivoting away from this specific transaction.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.livemint.com%2Frf%2FImage-621x414%2FLiveMint%2FPeriod2%2F2017%2F05%2F23%2FPhotos%2FProcessed%2Fsoftbank-kUuH--621x414%40LiveMint.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 12:50 UTC | #28178</small>]]></content>
+  </entry>
   <entry>
     <title>Oracle Secures Funding to Fulfill OpenAI Contract</title>
     <link href="https://x.com/oracle/status/2123884437045760420" rel="alternate" />
