@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Linq Raises $90 Million in Series B Funding Led by Andreessen Horowitz</h2>
+<a name="story-28131"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F13131705%2Flinq%2A1200xx6946-3907-0-362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Linq, a startup that provides texting and calling infrastructure for artificial intelligence agents, has raised $90 million in a Series B funding round led by Andreessen Horowitz. The financing follows a $20 million Series A round secured by the Birmingham-based company earlier in the year.</p><p>The new funding round includes participation from TQ Ventures, Mucker Capital, Abstract, Anthos, and Left Lane Capital. Alongside the investment, Andreessen Horowitz co-founder Ben Horowitz is joining Linq's board of directors.</p>
+<p>Nov 20 · <a href="https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all">bizjournals.com</a> | <a href="https://a16z.com/announcement/investing-in-linq/">a16z.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Shares Fall 8.5% on Second Day of Trading Following IPO</h2>
 <a name="story-28127"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spaziocrypto.com%2Fcontent%2Fimages%2F2026%2F11%2Fusa-anthropic-ipo-roadshow-to-pricing.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic PBC shares dropped 8.5% to $88.91 on their second day of trading on the Nasdaq, trimming the gains achieved during the company's historic initial public offering priced at $83 per share.</p><p>The decline follows a massive first-day market debut, testing investor sentiment toward high-profile artificial intelligence companies as broader market enthusiasm faces increased scrutiny.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28006"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwallstaccess.com%2Fwp-content%2Fuploads%2F2026%2F01%2FChatGPT-Image-Jan-22-2026-12_27_37-PM-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alibaba Group reported a fiscal second-quarter revenue increase of 10% to approximately $40.7 billion, surpassing analyst expectations, alongside a threefold jump in net profit to roughly $9.68 billion. The financial rebound was driven by improving profitability in both its core e-commerce operations and artificial intelligence segments.</p><p>In addition to the earnings growth, the company is preparing a Hong Kong stock exchange listing for T-Head, its semiconductor and chip-design unit. The move comes as Chinese technology firms increasingly look to spin off specialized divisions to capitalize on domestic demand for advanced hardware and AI infrastructure.</p>
 <p>Nov 19 · <a href="https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?st=wx49Qv&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Lenovo Reports Q2 Revenue Growth Driven by AI Demand Amid Net Loss</h2>
-<a name="story-27986"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.lenovonews.fiestic.com%2F2022%2F08%2F08015158%2FMicrosoftTeams-image-16.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Lenovo reported Q2 revenue of $30.2 billion, a 48% increase year-over-year, fueled by strong demand for AI hardware and servers. Despite the top-line growth, the company posted a net loss of $640 million, which significantly exceeded analyst expectations of a $38 million loss and marked its first operating loss since 2017.</p><p>The decline in profitability is primarily attributed to rising costs for PC components. While the $640 million loss is a statutory figure under Hong Kong reporting rules influenced by non-cash warrant fair-value charges, the company reported positive adjusted net income and noted a 79% surge in AI-related sales as a cornerstone of its long-term strategy.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand">bloomberg.com</a> | <a href="https://news.lenovo.com/pressroom/press-releases/q2-fy-2026-27/">news.lenovo.com</a></p>
 <br clear="all" />
 
 ---

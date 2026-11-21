@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-20T19:55:00+00:00</updated>
+  <updated>2026-11-20T19:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Linq Raises $90 Million in Series B Funding Led by Andreessen Horowitz</title>
+    <link href="https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all" rel="alternate" />
+    <id>https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all::v240</id>
+    <published>2026-11-20T19:58:00+00:00</published>
+    <updated>2026-11-20T19:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F13131705%2Flinq%2A1200xx6946-3907-0-362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all">bizjournals.com</a> | <a href="https://a16z.com/announcement/investing-in-linq/">a16z.com</a></small></p><hr/><p>Linq, a startup that provides texting and calling infrastructure for artificial intelligence agents, has raised $90 million in a Series B funding round led by Andreessen Horowitz. The financing follows a $20 million Series A round secured by the Birmingham-based company earlier in the year.</p><p>The new funding round includes participation from TQ Ventures, Mucker Capital, Abstract, Anthos, and Left Lane Capital. Alongside the investment, Andreessen Horowitz co-founder Ben Horowitz is joining Linq's board of directors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F13131705%2Flinq%2A1200xx6946-3907-0-362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 02:11 UTC | #28131</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Shares Fall 8.5% on Second Day of Trading Following IPO</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels" rel="alternate" />
