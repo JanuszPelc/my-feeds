@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-20T15:34:00+00:00</updated>
+  <updated>2026-11-20T19:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Mathematicians Levent Alpöge and Alessandro Masullo Release Independent Proofs of Riemann Hypothesis</title>
+    <link href="https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/::v240</id>
+    <published>2026-11-20T19:33:00+00:00</published>
+    <updated>2026-11-20T19:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpasqualepillitteri.it%2Fuploads%2Fimg%2Fnews%2Fipotesi-riemann-claude-alpoge-cover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/">techcrunch.com</a> | <a href="https://alpo.ge/remark.pdf">alpo.ge</a> | <a href="https://news.ycombinator.com/item?id=50574968">hacker news</a></small></p><hr/><p>Mathematician Levent Alpöge has announced a Lean-compilable proof of the Riemann Hypothesis, developed with the assistance of Anthropic's Claude AI model. Concurrently, Stanford postdoc Alessandro Masullo released an independent, entirely human-authored proof of the General Riemann Hypothesis, which has been highlighted by Stanford professor and American Mathematics Association president Ravi Vakil.</p><p>While mathematical experts begin reviewing both complex proofs, verifying Alpöge's computer-assisted formalization will require substantial time and community effort. The announcements follow a series of recent high-profile mathematical claims involving frontier AI labs, including a separate proof on the Navier-Stokes equations released by Alpöge and Tristan Buckmaster.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpasqualepillitteri.it%2Fuploads%2Fimg%2Fnews%2Fipotesi-riemann-claude-alpoge-cover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 00:39 UTC | #28149</small>]]></content>
+  </entry>
   <entry>
     <title>Transport &amp; Environment Report Finds Carnival Corporation Cruise Ships Exceed European Car Fleet Sulphur Oxide Emissions</title>
     <link href="https://ecohustler.com/article/one-corporation-to-pollute-them-all/" rel="alternate" />

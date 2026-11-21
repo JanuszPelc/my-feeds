@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Bryan O&#x27;Sullivan Releases jj-musubi Live-Sync Tool for Jujutsu</h2>
+<a name="story-28174"><img src="https://wsrv.nl/?url=https%3A%2F%2Frenerocks.ai%2Fjj.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bryan O'Sullivan has announced jj-musubi, a new source control tool designed to live-sync Jujutsu repositories across multiple machines. Operating on a lightweight hub-and-daemon architecture over SSH, the tool automatically propagates snapshots, commits, rebases, and fetches as a user works.</p><p>Built to function similarly to Meta's Commit Cloud and internal Google servers, jj-musubi leverages Jujutsu's existing workspace machinery to handle concurrent edits safely without overwriting working copies. It also supports ephemeral virtual machine agents via a leasing system, and its network protocol safety properties have been verified using Lean proofs and extensive testing.</p>
+<p>Nov 20 · <a href="https://www.serpentine.com/posts/2026/announcing-jj-musubi/">serpentine.com</a> | <a href="https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for">lobsters</a></p>
+<br clear="all" />
+
 <h2>Jonathan Schuster Discusses Designing Software for Understandability</h2>
 <a name="story-28076"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjschuster.org%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fpage_1-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jonathan Schuster's blog post, adapted from a talk given at Google's internal Code Health Summit in November 2025, argues that software should be intentionally designed for understandability. As large language models generate increasing volumes of code, developers risk falling into learned helplessness unless they maintain rigorous human judgment and code comprehension.</p><p>To counter this complexity, the talk proposes an aspirational goal: developers should be able to predict the behavior of every line of code without running a single test. Achieving this requires adopting structured practices like design by contract and data invariants, which establish clear boundaries between a component's specified behavior and its underlying implementation details.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-27931"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.ollama.com%2Fopen-models-long-horizon-agents-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Coding agents repeatedly send growing transcripts of system prompts, tool definitions, and past conversation turns on every step, creating high input sequence lengths and heavy prefill computational overhead. Prefix caching mitigates this by reusing previously computed key-value pairs across turns, but even minor variations early in the prompt can invalidate the cache and force expensive full recomputations.</p><p>Authored by contributors from Ollama and Together AI, the guide examines how harness-side behaviors—including dynamic tool loading, changing system timestamps, and adjusting reasoning effort—can break cache continuity. On the inference side, maintaining high GPU utilization requires prefix-aware request routing to ensure successive turns are directed to the specific cluster nodes holding the existing cache.</p>
 <p>Nov 18 · <a href="https://ollama.com/blog/open-models-long-horizon-agents">ollama.com</a></p>
-<br clear="all" />
-
-<h2>FreeBSD GUS Safe Memory Reclamation Scheme Analyzed</h2>
-<a name="story-27903"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpicx.zhimg.com%2Fv2-a2114f71e39a194339999294b1066b1b_r.jpg%3Fsource%3D1def8aca&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>FreeBSD utilizes Global Unbounded Sequences (GUS), an epoch-based safe memory reclamation scheme designed to manage object liveness in lock-free data structures without bounded-epoch synchronization hurdles or expensive global scans. GUS maintains a global monotonically increasing write sequence alongside a read sequence tracking minimum observed CPU activity, leveraging atomic operations and CPU-local tracking to safely determine when retired memory can be freed.</p><p>The mechanism achieves amortization by integrating deeply with the UMA memory allocator, where bucket recycling batches polling operations across multiple objects rather than executing them individually. Apple's XNU operating system employs a similar variant utilizing a recirculation depot and deferred sequence advances, balancing performance tradeoffs such as reduced free-to-reuse latency against read-section fencing overhead compared to alternative approaches like Linux Read-Copy-Update.</p>
-<p>Nov 18 · <a href="https://gregoire.dev/writing/gus/">gregoire.dev</a> | <a href="https://lobste.rs/s/bhfexs/freebsd_gus">lobsters</a></p>
 <br clear="all" />
 
 ---

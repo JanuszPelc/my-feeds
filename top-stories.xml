@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-20T23:55:00+00:00</updated>
+  <updated>2026-11-21T00:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Grand Theft Auto News Coverage Reflects Changing Cultural Anxieties</title>
+    <link href="https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/" rel="alternate" />
+    <id>https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/::v240</id>
+    <published>2026-11-21T00:39:00+00:00</published>
+    <updated>2026-11-21T00:39:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FMiami_goes_neon_for_GTA_VI_26322685802529-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/">404media.co</a></small></p><hr/><p>News coverage of the Grand Theft Auto franchise since 2001 maps shifting American cultural anxieties and priorities. Early reports on Grand Theft Auto III and Vice City centered on moral panics regarding violence and youth behavior. Subsequent media scrutiny shifted toward the sexual content and ESRB ratings of San Andreas, the legal disputes surrounding Grand Theft Auto IV, and the unprecedented commercial success of Grand Theft Auto V.</p><p>Current reports on Grand Theft Auto VI prioritize economic concerns, focusing on high production costs, industry-wide layoffs, and the game’s status as a potential final milestone for high-budget titles. Media coverage now focuses on financial sustainability and the economic risks of large-scale entertainment production rather than policing media morality.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FMiami_goes_neon_for_GTA_VI_26322685802529-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 18:33 UTC | #28023 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Raises $93.5 Billion Total After Underwriters Exercise Greenshoe Overallotment</title>
     <link href="https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html" rel="alternate" />
@@ -544,14 +553,5 @@
     <updated>2026-11-16T00:58:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.adams.africa%2Fwp-content%2Fuploads%2F2025%2F02%2FADA_250129_24131-POPIA-article_Web-Article.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again">eff.org</a> | <a href="https://news.ycombinator.com/item?id=50496602">hacker news</a></small></p><hr/><p>The proliferation of ambient surveillance wearables—including smart glasses from Meta and Google, transcription-enabled watches from Apple, and recording hardware from Amazon—is shifting the concept of privacy away from individual choice toward unavoidable background monitoring. These devices capture continuous audio, video, or data throughout the day, effectively implicating everyone in a user's vicinity regardless of their consent.</p><p>While technology companies offer various technical safeguards and privacy controls, these measures exclusively protect the device owner and leave bystanders without practical ways to opt out. This normalization of passive recording undermines longstanding social norms regarding conversational privacy and places an unreasonable burden on individuals to navigate a physical landscape saturated with hidden recording technology.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.adams.africa%2Fwp-content%2Fuploads%2F2025%2F02%2FADA_250129_24131-POPIA-article_Web-Article.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 00:05 UTC | #27519 | h,tr</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jakub T. Jankiewicz Argues All AI-Generated Code Should Be Open Source</title>
-    <link href="https://jakub.jankiewicz.org/blog/ai-code-open-source/" rel="alternate" />
-    <id>https://jakub.jankiewicz.org/blog/ai-code-open-source/::v240</id>
-    <published>2026-11-16T00:36:00+00:00</published>
-    <updated>2026-11-16T00:36:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdyd911kmh%2Fimage%2Fupload%2Fv1676548360%2FOpen_AI_Products_618960c677.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">jakub.jankiewicz.org</a> | <a href="https://news.ycombinator.com/item?id=50507303">hacker news</a></small></p><hr/><p>Software developer Jakub T. Jankiewicz argues that all code generated by artificial intelligence should be released as open source. He contends that because AI models are trained on scraped open-source repositories and crowd-sourced platforms like Stack Overflow without proper attribution, withholding the resulting output as proprietary software amounts to license laundering.</p><p>Jankiewicz also points to legal precedents, noting that purely AI-generated works lack human authorship and therefore generally cannot be copyrighted, as established by digital copyright disputes and policies such as Wikimedia Commons' public domain tagging for AI media. He suggests that releasing AI-assisted code under open-source licenses or Creative Commons Zero addresses international legal discrepancies and honors the collaborative foundations of modern software development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdyd911kmh%2Fimage%2Fupload%2Fv1676548360%2FOpen_AI_Products_618960c677.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Nov 2026, 23:53 UTC | #27573 | h,tr</small>]]></content>
   </entry>
 </feed>

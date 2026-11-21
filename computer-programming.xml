@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-20T17:42:00+00:00</updated>
+  <updated>2026-11-20T18:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Bryan O'Sullivan Releases jj-musubi Live-Sync Tool for Jujutsu</title>
+    <link href="https://www.serpentine.com/posts/2026/announcing-jj-musubi/" rel="alternate" />
+    <id>https://www.serpentine.com/posts/2026/announcing-jj-musubi/::v240</id>
+    <published>2026-11-20T18:42:00+00:00</published>
+    <updated>2026-11-20T18:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Frenerocks.ai%2Fjj.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.serpentine.com/posts/2026/announcing-jj-musubi/">serpentine.com</a> | <a href="https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for">lobsters</a></small></p><hr/><p>Bryan O'Sullivan has announced jj-musubi, a new source control tool designed to live-sync Jujutsu repositories across multiple machines. Operating on a lightweight hub-and-daemon architecture over SSH, the tool automatically propagates snapshots, commits, rebases, and fetches as a user works.</p><p>Built to function similarly to Meta's Commit Cloud and internal Google servers, jj-musubi leverages Jujutsu's existing workspace machinery to handle concurrent edits safely without overwriting working copies. It also supports ephemeral virtual machine agents via a leasing system, and its network protocol safety properties have been verified using Lean proofs and extensive testing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Frenerocks.ai%2Fjj.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 00:39 UTC | #28174</small>]]></content>
+  </entry>
   <entry>
     <title>Jonathan Schuster Discusses Designing Software for Understandability</title>
     <link href="https://jschuster.org/blog/2026/11/19/design-for-understandability/" rel="alternate" />

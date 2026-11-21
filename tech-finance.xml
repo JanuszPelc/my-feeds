@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-20T15:37:00+00:00</updated>
+  <updated>2026-11-20T18:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Coinbase Targets First Half of 2027 for In-House Prediction Markets</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027::v240</id>
+    <published>2026-11-20T18:41:00+00:00</published>
+    <updated>2026-11-20T18:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027">bloomberg.com</a></small></p><hr/><p>Coinbase Global Inc. is planning to launch its own in-house event contracts in the United States during the first half of 2027. The move would transition the cryptocurrency exchange away from its current reliance on a partnership with Kalshi for prediction market offerings.</p><p>Coinbase initially introduced prediction markets nationwide in January 2026 through an integration with Kalshi. Although company executives previously signaled an intent to list proprietary contracts, the reported timeline indicates an independent offering is targeted for mid-2027.</p><hr/><small>21 Nov 2026, 00:38 UTC | #28120</small>]]></content>
+  </entry>
   <entry>
     <title>Pragmatik Labs Valuation Reaches $5 Billion Following New Funding Round</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion" rel="alternate" />

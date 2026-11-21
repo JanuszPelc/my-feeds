@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Coinbase Targets First Half of 2027 for In-House Prediction Markets</h2>
+<p>Coinbase Global Inc. is planning to launch its own in-house event contracts in the United States during the first half of 2027. The move would transition the cryptocurrency exchange away from its current reliance on a partnership with Kalshi for prediction market offerings.</p><p>Coinbase initially introduced prediction markets nationwide in January 2026 through an integration with Kalshi. Although company executives previously signaled an intent to list proprietary contracts, the reported timeline indicates an independent offering is targeted for mid-2027.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Pragmatik Labs Valuation Reaches $5 Billion Following New Funding Round</h2>
 <a name="story-28111"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd15bya8fi85z1v.cloudfront.net%2Fchat%2FEORaotpyJOhXQrnzEaHzxW1xXhD2%2Fimages%2F8584677DB96093757487%2FB73FB61499FD237DFF8D.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pragmatik Labs, a Shanghai-based artificial intelligence startup founded by former Alibaba Qwen head Junyang Lin, has raised tens of millions of dollars in a funding round that brings its valuation to $5 billion. The latest milestone follows a previous valuation of $2 billion reported in August, highlighting rapid investor backing for the enterprise.</p><p>The startup focuses on AI agent ecosystems and has attracted prominent financial backers, including Tencent and regional government investment funds. The rapid increase in valuation underscores strong capital inflows into elite-led artificial intelligence ventures amid intense market competition.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-27979"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F19%2Fsmall%2F4312064_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Beijing-based MegaRobo Technologies, a company specializing in robotics and AI to automate laboratory work for biotech research, has raised nearly $200 million in a new funding round. The investment includes participation from the Oman Investment Authority, the nation's sovereign wealth fund, as well as CMB International, Asia Investment Capital, Granite Asia, and Sinovation Ventures.</p><p>The company plans to use the capital to develop its core technology and AI infrastructure for complex environments, while expanding its presence in Europe, North America, the Middle East, and Asia. MegaRobo reached unicorn status in 2022 after securing a $300 million Series C round.</p>
 <p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round">bloomberg.com</a> | <a href="https://corrierepistoiese.it/italia-mondo/immediapress/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world/">corrierepistoiese.it</a></p>
-<br clear="all" />
-
-<h2>Payward Agrees to Acquire Tribe Capital</h2>
-<a name="story-27976"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftribeimpactcapital.com%2Fwp-content%2Fuploads%2F2026%2F01%2FEUAwards2022WinnerLIBanners3-Tribe-600x450-1-600x427.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Payward, the parent company of the cryptocurrency exchange Kraken, has agreed to acquire Tribe Capital Management, a venture capital firm with $2.7 billion in assets under management. The firm was formerly led by Arjun Sethi, who also serves as a co-CEO of Kraken.</p><p>The acquisition is intended to expand Kraken’s private-market investment offerings. While the purchase price was not disclosed, the transaction is expected to close in the first quarter of 2027.</p>
-<p>Nov 19 · <a href="https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe">coindesk.com</a></p>
 <br clear="all" />
 
 ---
