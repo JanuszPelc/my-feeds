@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Ravi Vakil Publishes Proposed Proof of Generalized Riemann Hypothesis by Alessandro Masullo</h2>
+<a name="story-28179"><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F54253295%2Fmini_magick20180818-4867-1vp525s.png%3F1534652798&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mathematician Ravi Vakil published a draft of a proposed proof for the Generalized Riemann Hypothesis authored by Alessandro Maria Masullo. The manuscript, titled "The Music Of The Prines," had undergone months of review by Brian Conrad before Vakil chose to release the current draft publicly for community inspection.</p><p>Shortly after the initial publication, Vakil updated the announcement to note that several mathematicians had identified potential errors in the proof with the assistance of AI models. The community must now thoroughly vet and resolve all identified issues before the proof can be evaluated for correctness.</p>
+<p>Nov 20 · <a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">math216.wordpress.com</a> | <a href="https://news.ycombinator.com/item?id=50579568">hacker news</a></p>
+<br clear="all" />
+
 <h2>Mathematicians Levent Alpöge and Alessandro Masullo Release Independent Proofs of Riemann Hypothesis</h2>
 <a name="story-28149"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpasqualepillitteri.it%2Fuploads%2Fimg%2Fnews%2Fipotesi-riemann-claude-alpoge-cover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mathematician Levent Alpöge has announced a Lean-compilable proof of the Riemann Hypothesis, developed with the assistance of Anthropic's Claude AI model. Concurrently, Stanford postdoc Alessandro Masullo released an independent, entirely human-authored proof of the General Riemann Hypothesis, which has been highlighted by Stanford professor and American Mathematics Association president Ravi Vakil.</p><p>While mathematical experts begin reviewing both complex proofs, verifying Alpöge's computer-assisted formalization will require substantial time and community effort. The announcements follow a series of recent high-profile mathematical claims involving frontier AI labs, including a separate proof on the Navier-Stokes equations released by Alpöge and Tristan Buckmaster.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-27889"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.codingem.com%2Fwp-content%2Fuploads%2F2025%2F09%2Fimage-223.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Brunella Tipismana Urbano analyzes the literary controversy surrounding Peruvian writer David Silva Rojas’s novel Donde el agua trabaja, which an AI detection tool attributed largely to artificial intelligence. She criticizes the defensive and denialist reactions of Latin American intellectuals who dismiss reliable detection tools using misinformation while avoiding engagement with the technology's actual capabilities and limitations.</p><p>Urbano evaluates the stylistic monotony and formulaic prose of the novel itself, arguing that its mechanical structure aligns with large language models rather than authentic lived experiences of agricultural workers. Situating this debate within a broader global wave of literary AI scandals, she warns that the literary community's technical illiteracy undermines serious discourse on the integration of artificial intelligence in contemporary writing.</p>
 <p>Nov 18 · <a href="https://thepointmag.com/examined-life/the-part-about-the-machines/">thepointmag.com</a></p>
-<br clear="all" />
-
-<h2>MAPLE Buddhist Monastery Engages Silicon Valley AI Culture</h2>
-<a name="story-27874"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.newyorker.com%2Fphotos%2F6af4b4189381ddd6689aa1bb%2Fmaster%2Fw_2560%252Cc_limit%2Fr50564.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sam Kriss reports on MAPLE, a Vermont-based Buddhist monastery attempting to counter the apocalyptic religious fervor and existential anxieties surrounding artificial intelligence in Silicon Valley. The community engages with tech workers and researchers who increasingly view artificial intelligence through theological concepts like artificial gods and existential risk.</p><p>The piece explores how prominent figures in the tech industry navigate these quasi-religious frameworks, contrasting Silicon Valley's techno-optimism and dread with MAPLE's critique of the technology as a dangerous hollowing of reality that reduces life to dead data models.</p>
-<p>Nov 18 · <a href="https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley?currentPage=all">newyorker.com</a></p>
 <br clear="all" />
 
 ---
