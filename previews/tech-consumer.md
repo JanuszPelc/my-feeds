@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Gilles Chehade Criticizes Framework Hardware and Support Experience</h2>
+<p>Consultant Gilles Chehade published a critical blog post detailing a negative experience with Framework hardware and customer support, stating he will not purchase products from the company again.</p><p>The post gained unexpected attention on Hacker News, prompting Chehade to clarify that his goal is to encourage Framework to improve its customer service and deliver reliable laptops.</p>
+<p>Nov 20 · <a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/">poolp.org</a> | <a href="https://news.ycombinator.com/item?id=50576855">hacker news</a></p>
+<br clear="all" />
+
 <h2>Valve Warns of Potential Price Increases for Steam Machines Amid Component Shortages</h2>
 <a name="story-28132"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fsm1-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Valve has warned that ongoing increases in memory and storage costs may force the company to raise the price of its supply-limited Steam Machines. As the initial batch of reservations concludes, Valve stated that component costs are rising at unprecedented levels, making future production volumes and pricing uncertain, with the 2TB model facing particularly severe constraints.</p><p>The hardware market has experienced widespread price hikes across major console manufacturers due to similar supply pressures. However, analysts note that Valve's smaller scale makes it more vulnerable to component cost shocks compared to larger competitors like Nintendo, Sony, and Microsoft.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-27892"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hc4Ge.img%3Fw%3D1200%26h%3D675%26m%3D4%26q%3D93&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rockstar Games' Grand Theft Auto VI has achieved a 99 out of 100 on Metacritic and a 98 out of 100 on OpenCritic, following the publication of early reviews from major outlets including IGN and GameSpot. These figures place the title among the highest-rated video games in history, setting new aggregate benchmarks across major review platforms.</p><p>The critical acclaim prompted a positive market reaction, with parent company Take-Two Interactive Software seeing its stock jump by more than 6% following the score announcements. The game's performance places it alongside historical critical darlings, significantly elevating expectations ahead of its official commercial release.</p>
 <p>Nov 18 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/-grand-theft-auto-vi-becomes-the-best-reviewed-video-game-ever">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Jennifer Svedberg-Yen Plans Narrative Investment Fund for Game Storytellers</h2>
-<a name="story-27922"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt91fa6c5cf153b000%2F69eb7b53d9eb8a86b83cb444%2FClair_Obscur.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jennifer Svedberg-Yen, the former narrative lead for Clair Obscur: Expedition 33, is planning to establish a fund dedicated to supporting and financing game storytellers. Following her departure from Sandfall Interactive, Svedberg-Yen aims to reshape how narrative design is funded and prioritized within the video game industry.</p><p>In an interview with GamesBeat, she emphasized that narrative is frequently treated as a superficial skin rather than a foundational element of development. While specific operational details of the fund are still under discussion, her focus centers on creating new funding models and incubation programs that elevate creative talent and place storytelling at the core of production.</p>
-<p>Nov 18 · <a href="https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding">gamedeveloper.com</a> | <a href="https://gamesbeat.com/clair-obscur-writer-will-invest-in-next-generation-of-game-storytellers-jennifer-svedberg-yen-interview/">gamesbeat.com</a></p>
 <br clear="all" />
 
 ---
