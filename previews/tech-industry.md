@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>YouTube Nears $3 Billion Settlement With US School Districts Over Addiction Claims</h2>
+<a name="story-28146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.torhoermanlaw.com%2Fwp-content%2Fuploads%2F2026%2F06%2FStep-6_-Your-Case-May-Become-Part-of-the-Social-Media-Addiction-MDL-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>YouTube has reached an agreement in principle to pay roughly $3 billion to school districts across the United States to resolve litigation claiming the platform fosters social media addiction. The potential multibillion-dollar payout addresses widespread allegations concerning the impact of technology platforms on youth mental health and school environments.</p><p>While an accord has been reached in principle, the arrangement remains contingent on securing sign-offs from a majority of the participating districts and could take months to fully formalize. Representatives for Google and attorneys for the plaintiffs have declined to comment on the reported figures as the final terms are ironed out.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Internet Archive Workers Launch Union Campaign with Communications Workers of America</h2>
 <a name="story-28176"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcwa-union.org%2Fsites%2Fdefault%2Ffiles%2F2024-05%2F20240502enews_d1_runaway_inequality_training_featured-og.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Workers at the Internet Archive have announced their intent to form a union with the Communications Workers of America (CWA), seeking to join Local 9415 in Oakland, California. A supermajority of the approximately 120 eligible employees signed representation cards and requested voluntary recognition from management, while simultaneously filing a certification election petition with the National Labor Relations Board.</p><p>The proposed bargaining unit comprises librarians, engineers, technicians, and administrative staff who maintain services like the Wayback Machine and Open Library. This organizing effort follows similar recent unionization campaigns by workers at other digital and nonprofit organizations, including the Wikimedia Foundation, the Free Software Foundation, and the Electronic Frontier Foundation.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28078"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1155968404%2F05b8c959-6c4f-4b40-9a04-c8ab3d3ebd7c%2F5f0a97b3-d5bf-4814-8666-88c7e73b25e0%2F1280x720%2Fmatch%2Fimage.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>White House National Cyber Director Sean Cairncross is stepping down from his post. According to sources, Cairncross chose to leave now to give the administration time to secure Senate confirmation for a successor before Democrats assume control of the Senate in January.</p><p>Cairncross leads the Office of the National Cyber Director, which coordinates federal cybersecurity policy and strategy. His departure follows other technical personnel departures within the administration amid ongoing concerns regarding critical infrastructure reliability and escalating AI-driven cyber threats.</p>
 <p>Nov 20 · <a href="https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50568510">hacker news</a></p>
-<br clear="all" />
-
-<h2>Anthropic Raises Over $81 Billion in Record-Breaking IPO</h2>
-<a name="story-28086"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI lab Anthropic raised $81.3 billion in its initial public offering on the Nasdaq, pricing shares above its original range at $83 apiece. The offering included $1.95 billion for its seven founders, who each sold roughly 3.4 million shares to net about $280 million before taxes and underwriting fees.</p><p>The record-breaking debut also saw major tech companies, including Nvidia and Google, purchase billions in non-voting Class N shares, bringing total capital raised closer to $105 billion. Despite the massive influx of funds, Anthropic faces steep infrastructure and compute commitments approaching $1.1 trillion over the coming years to sustain its operations.</p>
-<p>Nov 20 · <a href="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
