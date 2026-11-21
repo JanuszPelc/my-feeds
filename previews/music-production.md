@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Rocksolid Audio Releases Vintage Pre Valve Preamp Plugin</h2>
+<a name="story-28197"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fb0n54qjqi67d1l7u7x3pzixe1fv5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rocksolid Audio has released Vintage Pre, a free valve preamp plugin for Windows and macOS designed to emulate the harmonic coloration and saturation of 1950s mixing consoles. The plugin features the developer's Real-time Circuit Simulation engine, which models individual valves, transformers, and power supply responses based on incoming audio signals.</p><p>Users can choose between a classic hardware-style interface and a modern interface equipped with an analyzer to monitor harmonic changes. Additional features include oversampling, input and output metering, and randomized component tolerances assigned to each user account. The plugin is available in VST3, AU, and AAX formats, and requires a free user account to disable demo mode limitations.</p>
+<p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/">bedroomproducersblog.com</a> | <a href="https://rocksolidaudio.co.uk/products/vintage-pre">rocksolidaudio.co.uk</a></p>
+<br clear="all" />
+
 <h2>accSone Updates Crusher-X to Version 12.32</h2>
 <a name="story-28205"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcx12poster.1791722469.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>accSone has released version 12.32 of crusher-X, a free maintenance update for its granular synthesis plug-in that introduces several bug fixes and workflow improvements. The update addresses GCO tuning behavior, curve and mapping editors, and macOS Audio Unit performance.</p><p>Key adjustments include aligning the GCO pitch display, preventing unwanted low rumbles during GCO-scanning, and ensuring mapped switches correctly send off messages as zero. Additionally, the macOS AU version now opens faster, lists programs in host preset menus, and supports parameter grouping, bypass, and MIDI output, while the VST3 version has received stability fixes for host output channel handling.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28082"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2025%2F11%2FThomann-BF-deals%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Retailer Thomann has launched its early Black Friday sale, featuring discounts across studio monitors, MIDI controllers, audio interfaces, and software plugins. Notable early reductions include offers on the Beyerdynamic DJ 300 PRO X Club headphones, the Novation Launchkey Mini 37 MK4, and the Focusrite Scarlett 18i20 4th Gen audio interface bundled with software packages.</p><p>The retailer curates its sale items based on positive editorial reviews and industry popularity, offering products alongside standard return policies and customer support. The promotional page is scheduled to be updated daily throughout the Black Friday and Cyber Monday shopping period.</p>
 <p>Nov 19 · <a href="https://musictech.com/news/gear/black-friday-deals-thomann/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>13x Audio Releases Loft Free Vintage Reverb Plugin</h2>
-<a name="story-28046"><img src="https://wsrv.nl/?url=https%3A%2F%2Funison.audio%2Fwp-content%2Fuploads%2FOril-River-3.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>13x Audio has released Loft, a free vintage reverb plugin available for macOS, Windows, and Linux. The plugin features drawable envelopes for shaping the reverb tail over time, tempo-synced modulation, and integrated resonators tuned to a song's key.</p><p>Loft includes five shape curves, 16-step envelope drawing, shimmer and morph controls, and vintage engine modes inspired by 1980s and 1990s digital rack units. It offers 34 presets, a freeze function for sustained textures, and supports VST3 and AU formats without requiring registration or a license key.</p>
-<p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/">bedroomproducersblog.com</a> | <a href="https://13x.audio/products/loft">13x.audio</a></p>
 <br clear="all" />
 
 ---

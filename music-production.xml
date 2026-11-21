@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-21T12:04:00+00:00</updated>
+  <updated>2026-11-21T15:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Rocksolid Audio Releases Vintage Pre Valve Preamp Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/::v241</id>
+    <published>2026-11-21T15:24:00+00:00</published>
+    <updated>2026-11-21T15:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fb0n54qjqi67d1l7u7x3pzixe1fv5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/">bedroomproducersblog.com</a> | <a href="https://rocksolidaudio.co.uk/products/vintage-pre">rocksolidaudio.co.uk</a></small></p><hr/><p>Rocksolid Audio has released Vintage Pre, a free valve preamp plugin for Windows and macOS designed to emulate the harmonic coloration and saturation of 1950s mixing consoles. The plugin features the developer's Real-time Circuit Simulation engine, which models individual valves, transformers, and power supply responses based on incoming audio signals.</p><p>Users can choose between a classic hardware-style interface and a modern interface equipped with an analyzer to monitor harmonic changes. Additional features include oversampling, input and output metering, and randomized component tolerances assigned to each user account. The plugin is available in VST3, AU, and AAX formats, and requires a free user account to disable demo mode limitations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fb0n54qjqi67d1l7u7x3pzixe1fv5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 20:30 UTC | #28197</small>]]></content>
+  </entry>
   <entry>
     <title>accSone Updates Crusher-X to Version 12.32</title>
     <link href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-32-70021?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70021" rel="alternate" />
