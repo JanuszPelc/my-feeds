@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>accSone Updates Crusher-X to Version 12.32</h2>
+<a name="story-28205"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcx12poster.1791722469.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>accSone has released version 12.32 of crusher-X, a free maintenance update for its granular synthesis plug-in that introduces several bug fixes and workflow improvements. The update addresses GCO tuning behavior, curve and mapping editors, and macOS Audio Unit performance.</p><p>Key adjustments include aligning the GCO pitch display, preventing unwanted low rumbles during GCO-scanning, and ensuring mapped switches correctly send off messages as zero. Additionally, the macOS AU version now opens faster, lists programs in host preset menus, and supports parameter grouping, bypass, and MIDI output, while the VST3 version has received stability fixes for host output channel handling.</p>
+<p>Nov 21 · <a href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-32-70021?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70021">kvraudio.com</a></p>
+<br clear="all" />
+
 <h2>Never Found Audio Releases VF-Mini Free Reverse Riser Plugin</h2>
 <a name="story-28190"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvf-mini-midnight.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Never Found Audio has released VF-Mini, a free VST3 and standalone reverse riser plugin for Windows designed for vocal processing. Serving as a lightweight version of the paid VF-Pro plugin, the software simplifies the traditional reverse reverb and riser workflow by automating manual audio manipulation steps to create smooth transitions before drops and vocal entries.</p><p>The plugin features adjustable controls for room size space and tempo-synced swell ranging from one-quarter to four bars. Designed primarily for electronic music production, VF-Mini is available for download without an account or license key, while its paid counterpart, VF-Pro, offers an expanded suite of 21 vocal effects.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28046"><img src="https://wsrv.nl/?url=https%3A%2F%2Funison.audio%2Fwp-content%2Fuploads%2FOril-River-3.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>13x Audio has released Loft, a free vintage reverb plugin available for macOS, Windows, and Linux. The plugin features drawable envelopes for shaping the reverb tail over time, tempo-synced modulation, and integrated resonators tuned to a song's key.</p><p>Loft includes five shape curves, 16-step envelope drawing, shimmer and morph controls, and vintage engine modes inspired by 1980s and 1990s digital rack units. It offers 34 presets, a freeze function for sustained textures, and supports VST3 and AU formats without requiring registration or a license key.</p>
 <p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/">bedroomproducersblog.com</a> | <a href="https://13x.audio/products/loft">13x.audio</a></p>
-<br clear="all" />
-
-<h2>CoordN8 Announces Path MIDI Morphing App for Ableton Live</h2>
-<a name="story-28047"><img src="https://wsrv.nl/?url=https%3A%2F%2Fableton-production.imgix.net%2Flive-manual%2F12%2FMIDINoteEditorLayout.png%3Fauto%3D%26w%3D1280&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CoordN8 has announced Path, an upcoming macOS application that enables users to morph between two MIDI clips in Ableton Live's Session View and play the variations in real time. Designed as a standalone companion app that connects via a Max for Live device, it allows producers to blend rhythms, pitches, and notes using a mouse, trackpad, or MIDI controller, and capture desired variations as new clips with a single click.</p><p>The app's deterministic engine is based on research into rhythmic expectation rather than randomness or AI, ensuring that identical clips and settings produce reproducible results. Path requires an Apple Silicon Mac running macOS 15.6 or newer, along with Ableton Live 12.2 or later with Max for Live. An invite-only beta is scheduled to begin on December 1, 2026, ahead of a full commercial launch planned for early 2027.</p>
-<p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/coordn8-path/">bedroomproducersblog.com</a> | <a href="https://coordn8.io/">coordn8.io</a></p>
 <br clear="all" />
 
 ---
