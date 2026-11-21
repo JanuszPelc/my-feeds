@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-21T17:45:00+00:00</updated>
+  <updated>2026-11-21T17:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Oscar Molnar Analyzes Studio Display Ethernet Speed Bottleneck</title>
+    <link href="https://blog.tymscar.com/posts/studiodisplayethernet/" rel="alternate" />
+    <id>https://blog.tymscar.com/posts/studiodisplayethernet/::v241</id>
+    <published>2026-11-21T17:48:00+00:00</published>
+    <updated>2026-11-21T17:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.tymscar.com%2Fstudio-display-ethernet%2Ffast-com.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.tymscar.com/posts/studiodisplayethernet/">blog.tymscar.com</a> | <a href="https://news.ycombinator.com/item?id=50587875">hacker news</a></small></p><hr/><p>Blogger Oscar Molnar discovered that routing a 2.5 Gbps internet connection through a USB-C Ethernet adapter plugged into an Apple Studio Display severely throttled download speeds to 600 Mbps, while upload speeds remained unaffected at 2.4 Gbps. Direct connection to his MacBook Pro yielded full speeds, pointing to a performance bottleneck introduced by the display's USB hub.</p><p>Further investigation revealed that the Realtek RTL8156B adapter dropped frames under high loads because its small USB burst size of four packets caused buffer overflows when combined with the hub's round-trip latency. Replacing it with a newer adapter using the RTL8157 chip, which supports an eight-packet burst size, eliminated the frame drops and restored full download performance without requiring network flow control.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.tymscar.com%2Fstudio-display-ethernet%2Ffast-com.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 23:32 UTC | #28218</small>]]></content>
+  </entry>
   <entry>
     <title>ISO C++ Committee Recompletes C++26 Technical Work at Búzios Meeting</title>
     <link href="https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/" rel="alternate" />
