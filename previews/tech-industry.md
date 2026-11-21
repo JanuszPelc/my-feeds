@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Wonder Explores Sale of Food Delivery Platform Grubhub</h2>
+<a name="story-28169"><img src="https://wsrv.nl/?url=https%3A%2F%2Foriginnjbiz.wpenginepowered.com%2Ffiles%2F2025%2F10%2FWonder-GrubHub_DSC05089_9504-R1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Wonder is exploring a sale of its food delivery business, Grubhub, which it acquired in 2024 for $650 million. Bankers have reportedly been in contact with major retailers including Walmart, Target, and Kroger to gauge interest in a potential purchase.</p><p>The potential divestiture follows other strategic adjustments by Wonder regarding its delivery operations, including previous transactions involving parts of Grubhub's assets. Representatives for the companies have not publicly commented on the exploratory discussions.</p>
+<p>Nov 21 · <a href="https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?st=D3FY3c&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Cognition AI in Funding Talks for $75 Billion Valuation</h2>
 <a name="story-28162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalueaddvc.com%2Fcharts%2Fcognition-devin-ai-coding-agent-company-deep-dive-1-101db425b2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence coding startup Cognition AI is reportedly in talks to raise $2 billion or more at a valuation of $75 billion. The potential funding follows a substantial fundraising year for the company, which included a $2 billion round at a $48 billion valuation in September.</p><p>The rapid escalation in valuation highlights intense investor demand for AI coding agents and development tools. If completed, the new round would further solidify the startup's position among the most valuable private artificial intelligence firms.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28092"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmccraryinstitute.com%2Fapp%2Fuploads%2F2025%2F08%2Fcairncross-1408x783.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>White House National Cyber Director Sean Cairncross has been dismissed from his position following a wave of major technological outages and scrutiny over his cybersecurity credentials. Administration officials reportedly argued that Cairncross lacked sufficient urgency in addressing emerging digital security and artificial intelligence challenges.</p><p>Pentagon Chief Information Officer Kirsten Davies is stepping in to serve as the acting national cyber director. The leadership change comes as the administration faces heightened pressure regarding national infrastructure preparedness and response protocols following widespread system disruptions.</p>
 <p>Nov 20 · <a href="https://www.reuters.com/world/us/white-house-national-cyber-director-cairncross-leaving-his-post-axios-reports-2026-11-19/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0swyt/white_house_cyber_director_ousted_after_us_hit_by/">r/technology</a></p>
-<br clear="all" />
-
-<h2>Iconiq Capital Records Multi-Billion-Dollar Returns From Anthropic IPO Stake</h2>
-<a name="story-28088"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkalinga.ai%2Fwp-content%2Fuploads%2F2026%2F06%2Fanthropic-ipo-2026-ai-investors-market-debut.jpg-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Iconiq invested over $6 billion in artificial intelligence company Anthropic, securing an estimated 1.8% stake valued at approximately $31.8 billion following the company's initial public offering. This position yielded a return on investment exceeding 430% as the AI giant debuted on public markets.</p><p>The substantial financial windfall highlights the extraordinary gains achieved by early venture capital backers amid the rapid market expansion of generative AI firms. Iconiq's large allocation underscores the immense scale of private capital deployed into leading artificial intelligence developers ahead of their public offerings.</p>
-<p>Nov 20 · <a href="https://www.forbes.com/sites/richardnieva/2026/11/19/the-big-vc-winners-in-anthropics-ipo/">forbes.com</a></p>
 <br clear="all" />
 
 ---
