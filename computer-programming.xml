@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-21T16:05:00+00:00</updated>
+  <updated>2026-11-21T17:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Anton Zhiyanov Explores Probabilistic Data Structures in Go, Part 2</title>
+    <link href="https://antonz.org/probabilistic-data-structures-2/" rel="alternate" />
+    <id>https://antonz.org/probabilistic-data-structures-2/::v241</id>
+    <published>2026-11-21T17:37:00+00:00</published>
+    <updated>2026-11-21T17:37:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flemire.github.io%2Ftalks%2F2023%2Ffastfilters%2Fbloom_bits_per_entry.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://antonz.org/probabilistic-data-structures-2/">antonz.org</a> | <a href="https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2">lobsters</a></small></p><hr/><p>Anton Zhiyanov continues his exploration of probabilistic data structures in Go using the unsure package, examining structures such as binary fuse filters, UltraLogLog, and log-linear histograms. These memory-efficient data structures trade exact answers for reduced storage requirements, providing practical alternatives for high-performance applications dealing with large volumes of data.</p><p>The post details the mechanics, memory footprints, and benchmark comparisons of each structure relative to traditional options like Bloom filters and HyperLogLog. Binary fuse filters offer compact static sets, UltraLogLog reduces memory usage for unique-item counting, and log-linear histograms efficiently estimate quantiles across wide value ranges.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flemire.github.io%2Ftalks%2F2023%2Ffastfilters%2Fbloom_bits_per_entry.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:46 UTC | #28216</small>]]></content>
+  </entry>
   <entry>
     <title>Freedesktop.org Launches Updated Website and Refreshed Wiki</title>
     <link href="https://blog.tenstral.net/2026/11/new-fdo-website.html" rel="alternate" />

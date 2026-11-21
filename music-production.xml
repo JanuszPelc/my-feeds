@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-21T17:35:00+00:00</updated>
+  <updated>2026-11-21T17:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>NovoNotes Releases SnapClip Pro Clipper and Loudness Enhancer Plugin</title>
+    <link href="https://www.kvraudio.com/news/novonotes-releases-snapclip-pro---bit-transparent-clipper-and-inflate-loudness-enhancer-aax-au-and-vst3-69966?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69966" rel="alternate" />
+    <id>https://www.kvraudio.com/news/novonotes-releases-snapclip-pro---bit-transparent-clipper-and-inflate-loudness-enhancer-aax-au-and-vst3-69966?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69966::v241</id>
+    <published>2026-11-21T17:43:00+00:00</published>
+    <updated>2026-11-21T17:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsnapclip-pro-1-0-0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/novonotes-releases-snapclip-pro---bit-transparent-clipper-and-inflate-loudness-enhancer-aax-au-and-vst3-69966?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69966">kvraudio.com</a> | <a href="https://novo-notes.com/snapclip-pro">novo-notes.com</a></small></p><hr/><p>NovoNotes has released SnapClip Pro, a mastering-grade clipper and loudness enhancement plug-in designed for professional bus and master processing. The software combines a bit-transparent clipper with a modern implementation of a classic loudness enhancement curve to increase harmonic density and RMS levels while preserving the clip ceiling.</p><p>The plug-in features up to 64x oversampling, Anti-Derivative Antialiasing, switchable linear and minimum phase modes, and comprehensive monitoring tools including loudness-matched bypass and a Delta listening mode. Available for macOS and Windows in VST3, AU, and AAX formats, SnapClip Pro includes a standard SnapClip license and is offered at an introductory price through November 30, 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsnapclip-pro-1-0-0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:46 UTC | #28206</small>]]></content>
+  </entry>
   <entry>
     <title>sonicLAB Releases SSNN v2.0 Audio Processor Plugin</title>
     <link href="https://www.kvraudio.com/news/soniclab-releases-ssnn-v2-0-70025?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70025" rel="alternate" />
@@ -580,14 +589,5 @@
     <updated>2026-11-17T00:20:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flush_cart_thumb-1408.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/gorilla-dsp-releases-lush-reverb-for-windows-vst3-and-aax-69879?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69879">kvraudio.com</a> | <a href="https://gorilladsp.com/lush-reverb/">gorilladsp.com</a></small></p><hr/><p>Gorilla DSP has released Lush Reverb, a new VST3 and AAX plugin for Windows priced at $49. The audio effect combines an algorithmic reverb engine, a reflection-integrated shimmer effect, and a physically modeled spring tank.</p><p>The plugin features a 12-band parametric EQ with a live spectrum analyzer dedicated to shaping the wet signal, alongside extensive controls for decay, pre-delay, brightness, and stereo width. It ships with 93 factory presets spanning room, hall, plate, ambience, shimmer, and spring categories.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flush_cart_thumb-1408.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 12:06 UTC | #27718</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mutagene Updates Xoradora Drum Resynthesizer to v1.0.0-rc.4</title>
-    <link href="https://www.kvraudio.com/news/mutagene-updates-xoradora-drum-resynthesizer-to-v1-0-0-rc-4-68567?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68567" rel="alternate" />
-    <id>https://www.kvraudio.com/news/mutagene-updates-xoradora-drum-resynthesizer-to-v1-0-0-rc-4-68567?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68567::v240</id>
-    <published>2026-11-16T22:36:00+00:00</published>
-    <updated>2026-11-16T22:36:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fxoradora-beta-3-main.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/mutagene-updates-xoradora-drum-resynthesizer-to-v1-0-0-rc-4-68567?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68567">kvraudio.com</a> | <a href="https://dsp.mutagene.net/plugins/xoradora/">dsp.mutagene.net</a></small></p><hr/><p>The v1.0.0-rc.4 update for Xoradora, a sample-based resynthesis drum machine, is now available for macOS, Windows, and Linux. Key features include independent component loops with adjustable crossfades, separate playback regions for resynthesis modes, and expanded sound shaping through new carrier and spectral-colour controls.</p><p>Other enhancements include parameter locks for Mutate and Evolve, expressive envelopes with editable timelines in a "Guided view," and optimized CPU performance. Xoradora is available in VST3, CLAP, AU, and Standalone formats for a pre-release price of €44 / US$49.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fxoradora-beta-3-main.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 07:47 UTC | #27686</small>]]></content>
   </entry>
 </feed>
