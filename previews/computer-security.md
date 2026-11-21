@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>FBI Investigates Breach of National Crime Information Center Database</h2>
+<a name="story-28177"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6988c14d2c677834d0d2f7bc%2F69aef7c075ee492d987876be_FBI%2Bwiretap%2Bbreach%2B%281%29.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The FBI is investigating an apparent breach of the National Crime Information Center, its nationwide criminal information database used by law enforcement agencies to share information on warrants and background checks. The intrusion marks the second major cybersecurity incident at the bureau in recent months, following a September data theft that targeted an FBI jobs website.</p><p>The discovery comes as the Trump administration faces heightened scrutiny over federal cybersecurity following a series of high-profile outages and attacks affecting critical infrastructure. FBI Director Kash Patel recently touted the administration's cybersecurity efforts and system updates, even as the bureau deals with ongoing fallout from previous data breaches affecting employee information and field office computer systems.</p>
+<p>Nov 21 · <a href="https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database">cnn.com</a></p>
+<br clear="all" />
+
 <h2>U.S. Department of Agriculture Breached by Hackers</h2>
 <a name="story-28168"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia-cldnry.s-nbcnews.com%2Fimage%2Fupload%2Ft_fit-560w%2Cf_avif%2Cq_auto%3Abest%2Frockcms%2F2026-11%2F261120-usda-breach-sjr-1612-83d60a.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hackers accessed a U.S. Department of Agriculture system that facilitates payments to farmers, prompting the agency to notify employees and take multiple IT systems offline. The security incident involved database password resets and resulting application outages.</p><p>Internal technical bulletins and former officials revealed the breach, raising concerns regarding sensitive information at the agency responsible for agricultural operations and food safety. The incident marks a notable cyberattack initiated by an outside actor against the department.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27971"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cynet.com%2Fwp-content%2Fuploads%2F2025%2F03%2Fimage-3-1536x1029.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cybercriminals are utilizing fake CAPTCHA verification prompts, known as the ClickFix technique, to trick users into executing malicious computer commands. Instead of verifying humanity, compromised websites copy harmful scripts to the clipboard and prompt users to paste and run them via system tools like Windows Run or Apple Terminal.</p><p>These global campaigns have been linked to infostealer malware such as Vidar Stealer, which targets sensitive data including passwords and browsing information. Security agencies advise that legitimate CAPTCHAs never require users to copy text or execute terminal commands, and recommend disconnecting infected devices from the internet immediately.</p>
 <p>Nov 19 · <a href="https://theconversation.com/this-sneaky-captcha-scam-tricks-you-into-installing-malware-heres-what-you-need-to-know-296919">theconversation.com</a></p>
-<br clear="all" />
-
-<h2>PHP Schedules Critical Security Releases for November 19, 2026</h2>
-<a name="story-27983"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.corefinity.com%2Fassets%2Fimg%2Fguides%2Fsecurity%2Fphp-net-2026-11-18.webp%3Fv%3Dbc916917da&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The PHP security team has scheduled critical security releases for Thursday, 19 November 2026, between 14:00 and 14:30 UTC. These updates will address vulnerabilities affecting all supported PHP versions, with the highest severity rated as CRITICAL. These specific issues primarily affect installations using non-default configurations or uncommon setups, and the team advises users to prepare for immediate upgrades once the releases are published.</p><p>This announcement follows a period of significant security activity, including the October 2026 release of patches for two unauthenticated remote code execution (RCE) vulnerabilities. The scheduled security release also coincides with the planned GA launch of PHP 8.6.0. Users are encouraged to monitor the official PHP website for technical details and specific fixed version numbers to be published alongside the November 19 release.</p>
-<p>Nov 18 · <a href="https://www.php.net/archive/2026.php#2026-11-18-1">php.net</a> | <a href="https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release">lobsters</a></p>
 <br clear="all" />
 
 ---
