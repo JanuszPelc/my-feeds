@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>FBI Investigates Breach of National Crime Information Center Database</h2>
 <a name="story-28177"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F6988c14d2c677834d0d2f7bc%2F69aef7c075ee492d987876be_FBI%2Bwiretap%2Bbreach%2B%281%29.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The FBI is investigating an apparent breach of the National Crime Information Center, its nationwide criminal information database used by law enforcement agencies to share information on warrants and background checks. The intrusion marks the second major cybersecurity incident at the bureau in recent months, following a September data theft that targeted an FBI jobs website.</p><p>The discovery comes as the Trump administration faces heightened scrutiny over federal cybersecurity following a series of high-profile outages and attacks affecting critical infrastructure. FBI Director Kash Patel recently touted the administration's cybersecurity efforts and system updates, even as the bureau deals with ongoing fallout from previous data breaches affecting employee information and field office computer systems.</p>
-<p>Nov 21 · <a href="https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database">cnn.com</a></p>
+<p>Nov 21 · <a href="https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database">cnn.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1ouaz/the_fbi_was_hacked_again_this_time_the_breach/">r/technology</a></p>
 <br clear="all" />
 
 <h2>U.S. Department of Agriculture Breached by Hackers</h2>
