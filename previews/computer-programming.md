@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Ben C Demonstrates Managing Todo Items as Empty Commits in Jujutsu</h2>
+<a name="story-28221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbwc9876.dev%2F_astro%2Fjj-todo-tree.CbZTp8jv_2gvqxu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Ben C outlines an alternative workflow for tracking task lists in software projects by using empty changes in the Jujutsu (JJ) version control system instead of traditional Markdown files. By creating a branch of empty commits under a private base commit, tasks can be managed, structured hierarchically, and rebased onto active working branches when ready.</p><p>This approach avoids merge conflicts due to the lack of file content in the commits and integrates with Jujutsu's configuration options to prevent accidental pushing of private tasks to remote repositories. The workflow allows developers to keep their task lists directly inside their version control history while ensuring the items remain local and hidden from public branches.</p>
+<p>Nov 21 · <a href="https://bwc9876.dev/blog/jj_todo/">bwc9876.dev</a> | <a href="https://lobste.rs/s/qxzs4y/todos_jj_style">lobsters</a></p>
+<br clear="all" />
+
+<h2>Lean and Mathlib Communities Verify Levent Alpöge’s Proof of the Riemann Hypothesis</h2>
+<a name="story-28219"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcacm.acm.org%2Fwp-content%2Fuploads%2F2026%2F02%2F3750038_fig02.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Lean and Mathlib communities, along with the Lean FRO and the Mathlib Initiative, have jointly certified that Levent Alpöge's 17-million-line Lean library proving the Riemann Hypothesis is correct. Following its release on November 20, 2026, the community compiled the codebase, confirmed that the proved theorem matches Mathlib's statement of the Riemann Hypothesis, and verified the proof using several independent proof checkers.</p><p>The verification process satisfied four core criteria, including checking the proof against Lean's official kernel and independent checkers like con-leche and con-ron, which are backed by formal relative consistency proofs. The codebase relies solely on Mathlib, and the verified proof export was evaluated outside the scope of the main source files to ensure security against potential malicious code.</p>
+<p>Nov 21 · <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">leanprover-community.github.io</a> | <a href="https://news.ycombinator.com/item?id=50589618">hacker news</a></p>
+<br clear="all" />
+
 <h2>Oscar Molnar Analyzes Studio Display Ethernet Speed Bottleneck</h2>
 <a name="story-28218"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.tymscar.com%2Fstudio-display-ethernet%2Ffast-com.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Blogger Oscar Molnar discovered that routing a 2.5 Gbps internet connection through a USB-C Ethernet adapter plugged into an Apple Studio Display severely throttled download speeds to 600 Mbps, while upload speeds remained unaffected at 2.4 Gbps. Direct connection to his MacBook Pro yielded full speeds, pointing to a performance bottleneck introduced by the display's USB hub.</p><p>Further investigation revealed that the Realtek RTL8156B adapter dropped frames under high loads because its small USB burst size of four packets caused buffer overflows when combined with the hub's round-trip latency. Replacing it with a newer adapter using the RTL8157 chip, which supports an eight-packet burst size, eliminated the frame drops and restored full download performance without requiring network flow control.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Ethan Lowman Publishes Jujutsu Version Control Primer for Git Users</h2>
 <p>Ethan Lowman has published an introductory guide to the Jujutsu (jj) version control system tailored for developers familiar with Git. The guide explains how jj can be used side-by-side with existing Git repositories, offering an alternative model that uses stable change IDs, automatic rebasing, and branchless commit graphs to reduce workflow friction.</p><p>Key sections of the primer cover installation, setup, creating and evolving changes, revsets for querying the commit graph, and navigating between working copies and conflicts. By automating tasks like rebasing and snapshotting working copies, jj aims to keep version control bookkeeping out of the developer's working memory.</p>
 <p>Nov 20 · <a href="https://ethanlowman.com/posts/jj-primer/">ethanlowman.com</a> | <a href="https://lobste.rs/s/i6dn7g/jujutsu_primer">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50570628">hacker news</a></p>
-<br clear="all" />
-
-<h2>Elixir v1.21 Implements Type Inference and Narrowing Using Reverse Arrows</h2>
-<a name="story-28114"><img src="https://wsrv.nl/?url=https%3A%2F%2Fforum.typst.app%2Fuploads%2Fdefault%2Foriginal%2F2X%2Fd%2Fdaead0e468e4fe1afc3afed5cb209d39dd52c89f.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>José Valim and Guillaume Duboc explain how upcoming Elixir v1.21 implements type inference and narrowing through reverse arrows, propagating expected results backward through function domains rather than relying on hardcoded special cases.</p><p>This mechanism enables Elixir to pass all tests in the If-T type narrowing benchmark, improving bug detection in existing codebases and supporting precise type refinement across assignments, patterns, and conditionals.</p>
-<p>Nov 20 · <a href="https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/">elixir-lang.org</a> | <a href="https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse">lobsters</a></p>
-<br clear="all" />
-
-<h2>OpenJDK Pull Request 32781 Addresses AVX-512 Base64 Decoder Buffer Overwrite</h2>
-<a name="story-28108"><img src="https://wsrv.nl/?url=https%3A%2F%2Faaroncomo.github.io%2Fassets%2Fimg%2F2023-11-22-heap-overflow.assets%2Fimage-20231122001038966.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A pull request submitted by albertnetymk for OpenJDK addresses a bug in the x86_64 AVX-512 VBMI path of the Base64 decoder intrinsic. When processing invalid inputs with a length of less than four bytes, the decoding logic incorrectly computes output size and causes the stub to write past the output buffer, potentially corrupting the heap.</p><p>The proposed fix implements an early return to Java when input lengths are shorter than four bytes, preventing the negative output size calculation. Although the pull request was eventually closed without merging, the underlying issue highlights security risks associated with short padded inputs in hardware-accelerated decoding paths.</p>
-<p>Nov 20 · <a href="https://github.com/openjdk/jdk/pull/32781">github.com</a> | <a href="https://news.ycombinator.com/item?id=50558906">hacker news</a></p>
 <br clear="all" />
 
 ---

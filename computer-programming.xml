@@ -3,9 +3,27 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-21T17:48:00+00:00</updated>
+  <updated>2026-11-21T17:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ben C Demonstrates Managing Todo Items as Empty Commits in Jujutsu</title>
+    <link href="https://bwc9876.dev/blog/jj_todo/" rel="alternate" />
+    <id>https://bwc9876.dev/blog/jj_todo/::v241</id>
+    <published>2026-11-21T17:53:00+00:00</published>
+    <updated>2026-11-21T17:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbwc9876.dev%2F_astro%2Fjj-todo-tree.CbZTp8jv_2gvqxu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bwc9876.dev/blog/jj_todo/">bwc9876.dev</a> | <a href="https://lobste.rs/s/qxzs4y/todos_jj_style">lobsters</a></small></p><hr/><p>Developer Ben C outlines an alternative workflow for tracking task lists in software projects by using empty changes in the Jujutsu (JJ) version control system instead of traditional Markdown files. By creating a branch of empty commits under a private base commit, tasks can be managed, structured hierarchically, and rebased onto active working branches when ready.</p><p>This approach avoids merge conflicts due to the lack of file content in the commits and integrates with Jujutsu's configuration options to prevent accidental pushing of private tasks to remote repositories. The workflow allows developers to keep their task lists directly inside their version control history while ensuring the items remain local and hidden from public branches.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbwc9876.dev%2F_astro%2Fjj-todo-tree.CbZTp8jv_2gvqxu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 23:55 UTC | #28221</small>]]></content>
+  </entry>
+  <entry>
+    <title>Lean and Mathlib Communities Verify Levent Alpöge’s Proof of the Riemann Hypothesis</title>
+    <link href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/" rel="alternate" />
+    <id>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/::v241</id>
+    <published>2026-11-21T17:52:00+00:00</published>
+    <updated>2026-11-21T17:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcacm.acm.org%2Fwp-content%2Fuploads%2F2026%2F02%2F3750038_fig02.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">leanprover-community.github.io</a> | <a href="https://news.ycombinator.com/item?id=50589618">hacker news</a></small></p><hr/><p>The Lean and Mathlib communities, along with the Lean FRO and the Mathlib Initiative, have jointly certified that Levent Alpöge's 17-million-line Lean library proving the Riemann Hypothesis is correct. Following its release on November 20, 2026, the community compiled the codebase, confirmed that the proved theorem matches Mathlib's statement of the Riemann Hypothesis, and verified the proof using several independent proof checkers.</p><p>The verification process satisfied four core criteria, including checking the proof against Lean's official kernel and independent checkers like con-leche and con-ron, which are backed by formal relative consistency proofs. The codebase relies solely on Mathlib, and the verified proof export was evaluated outside the scope of the main source files to ensure security against potential malicious code.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcacm.acm.org%2Fwp-content%2Fuploads%2F2026%2F02%2F3750038_fig02.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 23:55 UTC | #28219</small>]]></content>
+  </entry>
   <entry>
     <title>Oscar Molnar Analyzes Studio Display Ethernet Speed Bottleneck</title>
     <link href="https://blog.tymscar.com/posts/studiodisplayethernet/" rel="alternate" />
