@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-20T22:04:00+00:00</updated>
+  <updated>2026-11-20T22:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Faces Longest Weekly Losing Streak Since 2008 Financial Crisis</title>
+    <link href="https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html::v240</id>
+    <published>2026-11-20T22:05:00+00:00</published>
+    <updated>2026-11-20T22:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F05%2F22%2Fmultimedia%2F22db-huang-ljtc%2F22db-huang-ljtc-videoSixteenByNine3000.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html">cnbc.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1d4r0/nvidia_stock_plunges_12_rides_longest_weekly/">r/technology</a></small></p><hr/><p>Nvidia shares fell 12% to cap a seventh consecutive week of losses, marking the company's longest weekly losing streak since the 2008 financial crisis. The steep decline comes amid investor anxiety following the sudden resignation of co-founder and CEO Jensen Huang and growing scrutiny over the sustainability of the artificial intelligence infrastructure buildout.</p><p>During this seven-week period, Nvidia's market capitalization has dropped by $2.5 trillion, and the Securities and Exchange Commission has reportedly begun exploring potential accounting issues related to the company's disclosures. Although interim CEO Colette Kress has issued strong revenue growth projections and reassured staff, the stock continues to face intense pressure from emerging competitors and shifting market dynamics.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F05%2F22%2Fmultimedia%2F22db-huang-ljtc%2F22db-huang-ljtc-videoSixteenByNine3000.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 06:22 UTC | #28152</small>]]></content>
+  </entry>
   <entry>
     <title>Helix Digital in Talks to Acquire EdgeCore at Up to $10 Billion Valuation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion" rel="alternate" />

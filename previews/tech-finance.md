@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nvidia Faces Longest Weekly Losing Streak Since 2008 Financial Crisis</h2>
+<a name="story-28152"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F05%2F22%2Fmultimedia%2F22db-huang-ljtc%2F22db-huang-ljtc-videoSixteenByNine3000.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia shares fell 12% to cap a seventh consecutive week of losses, marking the company's longest weekly losing streak since the 2008 financial crisis. The steep decline comes amid investor anxiety following the sudden resignation of co-founder and CEO Jensen Huang and growing scrutiny over the sustainability of the artificial intelligence infrastructure buildout.</p><p>During this seven-week period, Nvidia's market capitalization has dropped by $2.5 trillion, and the Securities and Exchange Commission has reportedly begun exploring potential accounting issues related to the company's disclosures. Although interim CEO Colette Kress has issued strong revenue growth projections and reassured staff, the stock continues to face intense pressure from emerging competitors and shifting market dynamics.</p>
+<p>Nov 20 · <a href="https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html">cnbc.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1d4r0/nvidia_stock_plunges_12_rides_longest_weekly/">r/technology</a></p>
+<br clear="all" />
+
 <h2>Helix Digital in Talks to Acquire EdgeCore at Up to $10 Billion Valuation</h2>
 <a name="story-28153"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2FzA7C1E09-z4Uj64Eb0zfkw%2Fcd7f1765-f9e9-45aa-2b8e-885cd322d500%2Fmedium&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Helix Digital Infrastructure, a data center investment firm launched by KKR, is in discussions to acquire EdgeCore. The potential transaction values the data center operator between $8 billion and $10 billion.</p><p>The talks form part of Helix's broader expansion strategy following its establishment with over $10 billion in committed capital to scale data centers, power, and connectivity for artificial intelligence workloads.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28050"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQG6ssruKhu0Ag%2Farticle-cover_image-shrink_720_1280%2FB56ZscOvvzGgAI-%2F0%2F1765705203137%3Fe%3D2147483647%26v%3Dbeta%26t%3DUsou2kmeyX2dnPVnTkKCAU64XI36mHd3xkQwz86dIQk&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Everful, a San Francisco- and Singapore-based B2B sourcing platform, has secured $48.5 million in a Series A funding round led by Vertex Ventures Southeast Asia &amp; India and January Capital, with participation from Square Peg and Lightspeed. Co-founded in 2024 by former Alibaba executive Sisi Song and serial entrepreneur Kevin Han, the startup connects smaller retailers and brands directly with Chinese factories, managing end-to-end operations including order consolidation, quality control, and logistics.</p><p>The company utilizes AI agents to automate labor-intensive tasks such as tracking consumer trends, coordinating orders, and managing suppliers. Everful is on track to reach $100 million in annualized revenue by the end of the year and plans to use the new capital to expand its footprint in the United States and Europe—specifically the U.K., France, and Italy—while deepening integrations with e-commerce platforms like Shopify.</p>
 <p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Shares Begin Trading on NASDAQ Above IPO Price</h2>
-<a name="story-28051"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tradingstocksnow.com%2Fwp-content%2Fuploads%2F2026%2F06%2F98c1649b-8a3e-42bf-99b2-f9190f46596a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic shares began trading on the NASDAQ exchange following its initial public offering, opening at $111.50 per share to mark a 33% premium over the set $83 IPO price. The final pricing exceeded the company's initial projected range of $70 to $78 per share.</p><p>The public market debut, combined with concurrent private offerings and existing funding, leaves Anthropic with an estimated $220 billion in cash reserves. The record-setting offering highlights heavy investor demand for artificial intelligence infrastructure amidst ongoing sector financing trends.</p>
-<p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
