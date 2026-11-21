@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-21T09:06:00+00:00</updated>
+  <updated>2026-11-21T11:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Never Found Audio Releases VF-Mini Free Reverse Riser Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/::v241</id>
+    <published>2026-11-21T11:28:00+00:00</published>
+    <updated>2026-11-21T11:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvf-mini-midnight.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/">bedroomproducersblog.com</a> | <a href="https://neverfoundaudio.com/vf-mini">neverfoundaudio.com</a></small></p><hr/><p>Never Found Audio has released VF-Mini, a free VST3 and standalone reverse riser plugin for Windows designed for vocal processing. Serving as a lightweight version of the paid VF-Pro plugin, the software simplifies the traditional reverse reverb and riser workflow by automating manual audio manipulation steps to create smooth transitions before drops and vocal entries.</p><p>The plugin features adjustable controls for room size space and tempo-synced swell ranging from one-quarter to four bars. Designed primarily for electronic music production, VF-Mini is available for download without an account or license key, while its paid counterpart, VF-Pro, offers an expanded suite of 21 vocal effects.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvf-mini-midnight.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 16:33 UTC | #28190</small>]]></content>
+  </entry>
+  <entry>
+    <title>Vochlea Releases Music Makers Suite Featuring Sintero Drum Synth</title>
+    <link href="https://bedroomproducersblog.com/2026/11/21/vochlea-music-makers-suite/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/21/vochlea-music-makers-suite/::v241</id>
+    <published>2026-11-21T11:26:00+00:00</published>
+    <updated>2026-11-21T11:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.icmp.ac.uk%2Fsites%2Fdefault%2Ffiles%2Fbackground-image%2Fvochlea_youtube.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/21/vochlea-music-makers-suite/">bedroomproducersblog.com</a> | <a href="https://vochlea.com/products">vochlea.com</a></small></p><hr/><p>Vochlea has released the Music Makers Suite, a Black Friday bundle that includes Dubler 2, DubBox, Senza, and the newly introduced Sintero drum synthesizer at a discounted price. The package also incorporates additional software licenses from Native Instruments and Dreamtonics while supplies last.</p><p>The newly launched Sintero is a 16-pad drum synth featuring 436 factory sounds, multi-layer sound design capabilities, and comprehensive effects chains for each pad. Available individually or within the bundle until December 2, the instrument operates as a VST3 and AU plugin on macOS and Windows systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.icmp.ac.uk%2Fsites%2Fdefault%2Ffiles%2Fbackground-image%2Fvochlea_youtube.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 16:33 UTC | #28191</small>]]></content>
+  </entry>
   <entry>
     <title>Minimal Audio Static Sample Pack Available for Free</title>
     <link href="https://bedroomproducersblog.com/2026/11/21/minimal-audio-static-free/" rel="alternate" />
@@ -517,41 +535,5 @@
     <updated>2026-11-16T17:53:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsdllpdburwoxa6zfcx0n.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/audio-brewers-introduces-ab-advanced-visualiser-hoa-pro-for-immersive-audio-analysis-69863?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69863">kvraudio.com</a> | <a href="https://www.audiobrewers.com/plugins/p/ab-advanced-visualiser-hoa">audiobrewers.com</a></small></p><hr/><p>Audio Brewers has announced ab Advanced Visualiser HOA Pro, an Ambisonics analysis plugin supporting First- through Seventh-Order Ambisonics (1OA–7OA). Available in AAX, AU, and VST3 formats, the tool includes 14 visualization tools organized into Soundfield, Planes, Frequency, and Levels categories.</p><p>The software features a modular interface with a "Brush Mode" for analyzing custom spatial regions and a Scene Visualiser for overlaying audio data onto standard or 360° video. It also provides real-time OSC output to track up to 16 sound sources for integration with external visual engines and lighting systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsdllpdburwoxa6zfcx0n.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 07:14 UTC | #27689</small>]]></content>
-  </entry>
-  <entry>
-    <title>Parawave Audio Updates Rapid Synthesizer to 1.9.0</title>
-    <link href="https://www.kvraudio.com/news/parawave-audio-updates-rapid-synthesizer-to-1-9-0---adds-nano-cloud-distortion-x-and-modulation-features-69855?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69855" rel="alternate" />
-    <id>https://www.kvraudio.com/news/parawave-audio-updates-rapid-synthesizer-to-1-9-0---adds-nano-cloud-distortion-x-and-modulation-features-69855?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69855::v240</id>
-    <published>2026-11-16T16:28:00+00:00</published>
-    <updated>2026-11-16T16:28:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnew-version.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/parawave-audio-updates-rapid-synthesizer-to-1-9-0---adds-nano-cloud-distortion-x-and-modulation-features-69855?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69855">kvraudio.com</a> | <a href="https://parawave-audio.com/new_in_rapid_1_9">parawave-audio.com</a></small></p><hr/><p>Version 1.9.0 of Rapid Synthesizer adds the Nano Cloud granular effect and Distortion X, a waveshaping tool with five models. New modulation capabilities include Mapping Curves for multi-point sequence editing, a stepped modulation Generator, and a Combinator for combining signals.</p><p>The update expands routing capacity from 32 to 64 entries and includes an 88-note virtual keyboard. Workflow improvements feature a quick routing system for modulation sources and Undo/Redo management. Existing customers can download the update for free, while new users can purchase it for 179.99€.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnew-version.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 21:50 UTC | #27655</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dystopian Waves Releases RHETON Free and DBot MIDI Plugins</title>
-    <link href="https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/::v240</id>
-    <published>2026-11-16T16:10:00+00:00</published>
-    <updated>2026-11-16T16:10:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/">bedroomproducersblog.com</a> | <a href="https://dystopianwaves.gumroad.com/l/prhetonfree">dystopianwaves.gumroad.com</a></small></p><hr/><p>RHETON Free and DBot are free MIDI plugins from Dystopian Waves. RHETON Free is a generative performance engine that transforms chord progressions into instrument-inspired patterns, such as guitar strums or piano parts. DBot functions as a humanizer, adjusting timing and dynamics to add variation to programmed MIDI parts.</p><p>Both plugins support VST3 and AU formats for Windows and macOS, including native support for Apple Silicon. They offer real-time MIDI processing, MIDI import/export, and a piano roll that visualizes processed note shifts. The software is available for $0 via Gumroad, though macOS users should note the files are unsigned and unnotarized.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 21:24 UTC | #27649</small>]]></content>
-  </entry>
-  <entry>
-    <title>Vocal Pockets Releases VIPA MIDI Chord Generator</title>
-    <link href="https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/::v240</id>
-    <published>2026-11-16T16:03:00+00:00</published>
-    <updated>2026-11-16T16:03:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr-b8nogsSXI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/">bedroomproducersblog.com</a> | <a href="https://vocalpockets.com/pages/vipa">vocalpockets.com</a></small></p><hr/><p>Vocal Pockets' new VIPA plugin uses "Moodscapes" images to suggest chord progressions via MIDI on macOS and Windows. The tool populates 16 pads with chords matching a selected image's mood, which can be triggered via keyboard or dragged into a DAW. It is compatible with VST3, AU, and Logic Pro's MIDI FX format.</p><p>The software is available for $9.99 per month or $99 per year, including 100 monthly generation credits and periodic image updates. Users can refine chords by adjusting voicing, inversion, and strumming patterns, or by using humanization modes to vary performance timing. Internet is required for activation and image-based generation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr-b8nogsSXI%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 21:09 UTC | #27650</small>]]></content>
-  </entry>
-  <entry>
-    <title>Audiolatry Releases UZAT Free Character and Degradation Effect Plugin</title>
-    <link href="https://www.kvraudio.com/news/audiolatry-releases-uzat---free-character-and-degradation-effect-plugin-au-and-vst3-69858?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69858" rel="alternate" />
-    <id>https://www.kvraudio.com/news/audiolatry-releases-uzat---free-character-and-degradation-effect-plugin-au-and-vst3-69858?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69858::v240</id>
-    <published>2026-11-16T15:43:00+00:00</published>
-    <updated>2026-11-16T15:43:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuzat-free-cover-1920x1080.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/audiolatry-releases-uzat---free-character-and-degradation-effect-plugin-au-and-vst3-69858?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69858">kvraudio.com</a> | <a href="https://audiolatry.com/uzat-free-character-degradation-effect-plugin/">audiolatry.com</a></small></p><hr/><p>Audiolatry has released UZAT, a free character and degradation effect plugin for Windows and macOS. The plugin utilizes five processing stages—Drift, Wear, Crush, Dust, and Space—to add movement, texture, and controlled damage to audio signals.</p><p>Users can manage effect intensity via a central Character control and a global wet/dry mix. The software includes 32 factory presets, a resizable interface, and native support for both Intel and Apple Silicon on macOS.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fuzat-free-cover-1920x1080.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 20:46 UTC | #27652</small>]]></content>
   </entry>
 </feed>

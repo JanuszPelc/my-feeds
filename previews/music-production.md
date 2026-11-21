@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Never Found Audio Releases VF-Mini Free Reverse Riser Plugin</h2>
+<a name="story-28190"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvf-mini-midnight.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Never Found Audio has released VF-Mini, a free VST3 and standalone reverse riser plugin for Windows designed for vocal processing. Serving as a lightweight version of the paid VF-Pro plugin, the software simplifies the traditional reverse reverb and riser workflow by automating manual audio manipulation steps to create smooth transitions before drops and vocal entries.</p><p>The plugin features adjustable controls for room size space and tempo-synced swell ranging from one-quarter to four bars. Designed primarily for electronic music production, VF-Mini is available for download without an account or license key, while its paid counterpart, VF-Pro, offers an expanded suite of 21 vocal effects.</p>
+<p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/">bedroomproducersblog.com</a> | <a href="https://neverfoundaudio.com/vf-mini">neverfoundaudio.com</a></p>
+<br clear="all" />
+
+<h2>Vochlea Releases Music Makers Suite Featuring Sintero Drum Synth</h2>
+<a name="story-28191"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.icmp.ac.uk%2Fsites%2Fdefault%2Ffiles%2Fbackground-image%2Fvochlea_youtube.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Vochlea has released the Music Makers Suite, a Black Friday bundle that includes Dubler 2, DubBox, Senza, and the newly introduced Sintero drum synthesizer at a discounted price. The package also incorporates additional software licenses from Native Instruments and Dreamtonics while supplies last.</p><p>The newly launched Sintero is a 16-pad drum synth featuring 436 factory sounds, multi-layer sound design capabilities, and comprehensive effects chains for each pad. Available individually or within the bundle until December 2, the instrument operates as a VST3 and AU plugin on macOS and Windows systems.</p>
+<p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/vochlea-music-makers-suite/">bedroomproducersblog.com</a> | <a href="https://vochlea.com/products">vochlea.com</a></p>
+<br clear="all" />
+
 <h2>Minimal Audio Static Sample Pack Available for Free</h2>
 <a name="story-28187"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dixonbeats.com%2Fcdn%2Fshop%2Farticles%2F12-free-plugins-massive-black-friday-vst-deals-dont-miss-these-560947.jpg%3Fv%3D1700862565&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Minimal Audio is offering its Static sample pack, a collection of 180 dubstep-inspired audio files created in collaboration with Ternion Sound, as a free download during its Black Friday promotion. Normally valued at $10, the pack includes drum loops, individual hits, bass and synth loops, atmospheric recordings, and textures.</p><p>The 375 MB library consists of 24-bit, 48 kHz WAV files formatted for use across various digital audio workstations and samplers on macOS and Windows without requiring installation or activation. To claim the offer, users must add the item to their cart on the Minimal Audio website and sign into an account.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28047"><img src="https://wsrv.nl/?url=https%3A%2F%2Fableton-production.imgix.net%2Flive-manual%2F12%2FMIDINoteEditorLayout.png%3Fauto%3D%26w%3D1280&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CoordN8 has announced Path, an upcoming macOS application that enables users to morph between two MIDI clips in Ableton Live's Session View and play the variations in real time. Designed as a standalone companion app that connects via a Max for Live device, it allows producers to blend rhythms, pitches, and notes using a mouse, trackpad, or MIDI controller, and capture desired variations as new clips with a single click.</p><p>The app's deterministic engine is based on research into rhythmic expectation rather than randomness or AI, ensuring that identical clips and settings produce reproducible results. Path requires an Apple Silicon Mac running macOS 15.6 or newer, along with Ableton Live 12.2 or later with Max for Live. An invite-only beta is scheduled to begin on December 1, 2026, ahead of a full commercial launch planned for early 2027.</p>
 <p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/coordn8-path/">bedroomproducersblog.com</a> | <a href="https://coordn8.io/">coordn8.io</a></p>
-<br clear="all" />
-
-<h2>APU Software Releases Loudness Series 6.1</h2>
-<a name="story-28070"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdemo-sync-720p.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>APU Software has released version 6.1 of its Loudness Series plugins, introducing ARA 2 format support for the Loudness Leveler and Dynamics Optimizer plug-ins. The update also brings a new quiet reference mode to Loudness Sync and upgrades the underlying JUCE framework to version 9.0.5.</p><p>Additional fixes address low-latency timing modes, LRA scaling tolerance, histogram view band orientation, and an issue where input and output gains would reset to 0 dB when reopening projects on Apple Silicon Macs. The update spans the entire suite, including tools for metering, spectrum analysis, contouring, compression, and limiting.</p>
-<p>Nov 19 · <a href="https://www.kvraudio.com/news/apu-software-releases-loudness-series-6-1-with-ara-2-support-for-leveler-and-optimizer-69971?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69971">kvraudio.com</a> | <a href="https://apu.software/release-notes/">apu.software</a></p>
-<br clear="all" />
-
-<h2>ILIO Offers Euphoria Patch Library Free With Physical Omnisphere 3 Purchases</h2>
-<a name="story-28048"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf1.zzounds.com%2Fmedia%2Fproductmedia%2Ffit%2C2018by3200%2Fquality%2C85%2FO3-interface-02_905399-e5985ee1b84d3f2b15346b2f1e4780be.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ILIO is giving away its Euphoria patch library for Spectrasonics Omnisphere 3 as part of a Black Friday promotion running from November 16 through December 7, 2026. The offer applies to qualifying physical purchases, specifically the Omnisphere 3 USB Drive Edition and physical upgrades bought directly from ILIO or authorized dealers, while download-only editions are excluded.</p><p>Designed by Michael Babbitt, the $39 expansion features 137 patches geared toward electronic genres like house, techno, and drum and bass, covering arpeggios, synths, basses, and effects. Buyers purchasing directly through ILIO receive the library automatically in their cart, while customers purchasing through authorized dealers can submit a redemption form with their receipt.</p>
-<p>Nov 19 · <a href="https://bedroomproducersblog.com/2026/11/19/get-ilio-euphoria-free/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/omnisphere-3">ilio.com</a></p>
 <br clear="all" />
 
 ---
