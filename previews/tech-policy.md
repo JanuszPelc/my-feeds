@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Scott Bessent Says Trump and Xi Agreed on Military AI Human Control</h2>
+<a name="story-28133"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.moneycontrol.com%2Fstatic-mcnews%2F2026%2F09%2F20260924130934_Trump-Xi-9.jpg%3Fimpolicy%3Dwebsite%26width%3D770%26height%3D431&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>US Treasury Secretary Scott Bessent stated that President Donald Trump and Chinese President Xi Jinping agreed during a summit that human oversight must be maintained in military artificial intelligence decisions. Bessent reported the mutual understanding following bilateral talks, though official readouts did not detail formal joint guardrails.</p><p>Bessent added that separate spying allegations involving Alice Huang were not raised during the meetings between the two leaders. The discussion highlights ongoing diplomatic efforts to establish boundaries for emerging military technologies despite broader geopolitical tensions.</p>
+<p>Nov 20 · <a href="https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>China to Bar Post-2023 Red-Chip Firms From Listing Outside Mainland China, Sources Say</h2>
 <a name="story-28113"><img src="https://wsrv.nl/?url=https%3A%2F%2Farc-group.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fcsrc-filing-notices-us-listings-1200-750x641.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>China's securities regulator has reportedly informed law firms that it will not approve plans by red-chip companies established after 2023 to list outside mainland China. The reported restriction targets offshore-incorporated tech startups, effectively requiring them to re-domicile within mainland China before pursuing external public offerings.</p><p>The policy builds upon overseas listing rules introduced in 2023, tightening regulatory oversight over Chinese companies seeking capital abroad. By restricting younger offshore corporate structures, Beijing aims to close longstanding loopholes and exert greater control over domestic technology and business assets attempting to access international markets.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28001"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FuxCBfgA5pCWEc6ZumzeRkB.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chinese artificial intelligence startup Moonshot AI has canceled a $150 million contract to rent access to Nvidia Blackwell chips housed in an Indonesian data center. The deal, which involved a Southeast Asian neocloud provider, was scrapped following the implementation of tightened U.S. export regulations.</p><p>The canceled arrangement highlights the mounting hurdles Chinese AI developers encounter when trying to secure high-performance hardware to train advanced models like Moonshot's Kimi. As restrictions block direct hardware imports and choke off loopholes, firms continue to seek workarounds through overseas cloud providers and alternative computing clusters.</p>
 <p>Nov 19 · <a href="https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>TSMC and Samsung Suspend Chip Shipments to China Amid New US Export Controls</h2>
-<a name="story-27998"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techspot.com%2Fimages2%2Fnews%2Fbigimage%2F2022%2F11%2F2022-11-10-image-18.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>TSMC and Samsung Electronics have suspended shipments of certain semiconductor chips to Chinese customers following the introduction of new export controls by the US Commerce Department. The companies are currently seeking the necessary licenses to resume shipments while ensuring compliance with the updated regulations.</p><p>The suspension reflects the expanding scope of US restrictions on high-end technology and its impact on the global semiconductor supply chain. Both manufacturers are navigating the licensing process amidst heightened geopolitical scrutiny and trade barriers intended to limit China's access to advanced hardware.</p>
-<p>Nov 19 · <a href="https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74">ft.com</a></p>
 <br clear="all" />
 
 ---

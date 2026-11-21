@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-21T01:26:00+00:00</updated>
+  <updated>2026-11-21T03:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Ravi Vakil Publishes Proposed Proof of Generalized Riemann Hypothesis by Alessandro Masullo</title>
+    <link href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/" rel="alternate" />
+    <id>https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/::v240</id>
+    <published>2026-11-21T03:32:00+00:00</published>
+    <updated>2026-11-21T03:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F54253295%2Fmini_magick20180818-4867-1vp525s.png%3F1534652798&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">math216.wordpress.com</a> | <a href="https://news.ycombinator.com/item?id=50579568">hacker news</a></small></p><hr/><p>Mathematician Ravi Vakil published a draft of a proposed proof for the Generalized Riemann Hypothesis authored by Alessandro Maria Masullo. The manuscript, titled "The Music Of The Prines," had undergone months of review by Brian Conrad before Vakil chose to release the current draft publicly for community inspection.</p><p>Shortly after the initial publication, Vakil updated the announcement to note that several mathematicians had identified potential errors in the proof with the assistance of AI models. The community must now thoroughly vet and resolve all identified issues before the proof can be evaluated for correctness.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F54253295%2Fmini_magick20180818-4867-1vp525s.png%3F1534652798&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 03:08 UTC | #28179 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Mathematicians Levent Alpöge and Alessandro Masullo Release Independent Proofs of Riemann Hypothesis</title>
     <link href="https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/" rel="alternate" />
