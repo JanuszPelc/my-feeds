@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>U.S. Department of Agriculture Breached by Hackers</h2>
+<a name="story-28168"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia-cldnry.s-nbcnews.com%2Fimage%2Fupload%2Ft_fit-560w%2Cf_avif%2Cq_auto%3Abest%2Frockcms%2F2026-11%2F261120-usda-breach-sjr-1612-83d60a.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hackers accessed a U.S. Department of Agriculture system that facilitates payments to farmers, prompting the agency to notify employees and take multiple IT systems offline. The security incident involved database password resets and resulting application outages.</p><p>Internal technical bulletins and former officials revealed the breach, raising concerns regarding sensitive information at the agency responsible for agricultural operations and food safety. The incident marks a notable cyberattack initiated by an outside actor against the department.</p>
+<p>Nov 20 · <a href="https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497">nbcnews.com</a></p>
+<br clear="all" />
+
 <h2>Replacing Chamberlain myQ With ratgdo32 for Local Garage Door Control</h2>
 <a name="story-28145"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunity-assets.home-assistant.io%2Foriginal%2F4X%2F6%2F6%2Fe%2F66eec6dd11bebd5d9d4a3460f9587fb8858e952b.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Frustrated by advertisements and the blocking of third-party API access in Chamberlain's myQ garage door application, a user replaced the system's cloud connectivity with ratgdo32 hardware running open-source local firmware.</p><p>The ratgdo boards connect directly to the garage door openers over the local network, enabling seamless integration with Apple HomeKit, custom Slack status notifications, and secure remote health checks via Tailscale without depending on external cloud services.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-27983"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.corefinity.com%2Fassets%2Fimg%2Fguides%2Fsecurity%2Fphp-net-2026-11-18.webp%3Fv%3Dbc916917da&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The PHP security team has scheduled critical security releases for Thursday, 19 November 2026, between 14:00 and 14:30 UTC. These updates will address vulnerabilities affecting all supported PHP versions, with the highest severity rated as CRITICAL. These specific issues primarily affect installations using non-default configurations or uncommon setups, and the team advises users to prepare for immediate upgrades once the releases are published.</p><p>This announcement follows a period of significant security activity, including the October 2026 release of patches for two unauthenticated remote code execution (RCE) vulnerabilities. The scheduled security release also coincides with the planned GA launch of PHP 8.6.0. Users are encouraged to monitor the official PHP website for technical details and specific fixed version numbers to be published alongside the November 19 release.</p>
 <p>Nov 18 · <a href="https://www.php.net/archive/2026.php#2026-11-18-1">php.net</a> | <a href="https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release">lobsters</a></p>
-<br clear="all" />
-
-<h2>Satya Nadella Warns That Much of Critical Infrastructure Is Unpatchable</h2>
-<a name="story-27951"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.agilicus.com%2Fwww%2Fb0d29bd4-ai-cyber-criminal.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft CEO Satya Nadella stated during the New York Times DealBook Summit that a significant portion of critical infrastructure, including connected firmware, HVAC systems, and transportation hardware, is unpatchable. He highlighted the growing security risks these vulnerabilities pose as AI-aided cyberattacks accelerate.</p><p>Nadella noted that the smartification of the economy has left many internet-connected devices exposed and difficult to secure. He also discussed how AI has lowered the barrier for sophisticated cyberattacks and compressed the timeline for vulnerability exploitation, forcing companies to push out patches instantly and risking system instability.</p>
-<p>Nov 18 · <a href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html">nytimes.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-20T10:36:00+00:00</updated>
+  <updated>2026-11-20T22:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>U.S. Department of Agriculture Breached by Hackers</title>
+    <link href="https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497" rel="alternate" />
+    <id>https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497::v240</id>
+    <published>2026-11-20T22:51:00+00:00</published>
+    <updated>2026-11-20T22:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia-cldnry.s-nbcnews.com%2Fimage%2Fupload%2Ft_fit-560w%2Cf_avif%2Cq_auto%3Abest%2Frockcms%2F2026-11%2F261120-usda-breach-sjr-1612-83d60a.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497">nbcnews.com</a></small></p><hr/><p>Hackers accessed a U.S. Department of Agriculture system that facilitates payments to farmers, prompting the agency to notify employees and take multiple IT systems offline. The security incident involved database password resets and resulting application outages.</p><p>Internal technical bulletins and former officials revealed the breach, raising concerns regarding sensitive information at the agency responsible for agricultural operations and food safety. The incident marks a notable cyberattack initiated by an outside actor against the department.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia-cldnry.s-nbcnews.com%2Fimage%2Fupload%2Ft_fit-560w%2Cf_avif%2Cq_auto%3Abest%2Frockcms%2F2026-11%2F261120-usda-breach-sjr-1612-83d60a.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 08:51 UTC | #28168</small>]]></content>
+  </entry>
   <entry>
     <title>Replacing Chamberlain myQ With ratgdo32 for Local Garage Door Control</title>
     <link href="https://blog.harrison.page/garage-door-spam/" rel="alternate" />
