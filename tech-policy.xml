@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-20T21:55:00+00:00</updated>
+  <updated>2026-11-20T21:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Senator Tom Cotton Accuses Commerce Secretary Howard Lutnick of Ignoring AI Chip Warnings</title>
+    <link href="https://www.wsj.com/politics/national-security/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-512f64fd?st=3ZECin" rel="alternate" />
+    <id>https://www.wsj.com/politics/national-security/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-512f64fd?st=3ZECin::v240</id>
+    <published>2026-11-20T21:57:00+00:00</published>
+    <updated>2026-11-20T21:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.northweststar.com.au%2Fimages%2Ftransform%2Fv1%2Fcrop%2Ffrm%2Fsilverstone-feed-data%2F9782af27-9d02-4487-a7bb-7eb52f99d7e3.jpg%2Fr0_0_800_600_w1200_h678_fmax.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/politics/national-security/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-512f64fd?st=3ZECin">wsj.com</a></small></p><hr/><p>Senator Tom Cotton, the Republican chair of the Senate Intelligence Committee, has stated that Commerce Secretary Howard Lutnick repeatedly ignored warnings regarding the illicit smuggling of advanced artificial intelligence chips to China. The criticism highlights rising congressional pressure over enforcement gaps in U.S. export controls and the diversion of sensitive technology to foreign adversaries.</p><p>While Cotton stopped short of calling for Lutnick's removal, the public rebuke underscores intense friction between lawmakers and the Commerce Department. Lawmakers have increasingly scrutinized federal oversight following investigations into front companies and smuggling networks evading restrictions on high-end semiconductors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.northweststar.com.au%2Fimages%2Ftransform%2Fv1%2Fcrop%2Ffrm%2Fsilverstone-feed-data%2F9782af27-9d02-4487-a7bb-7eb52f99d7e3.jpg%2Fr0_0_800_600_w1200_h678_fmax.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 04:16 UTC | #28140</small>]]></content>
+  </entry>
   <entry>
     <title>Scott Bessent Says Trump and Xi Agreed on Military AI Human Control</title>
     <link href="https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/" rel="alternate" />
