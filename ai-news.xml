@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-21T17:01:00+00:00</updated>
+  <updated>2026-11-21T17:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Mickey Petersen Releases DreamCoder AI Coding Harness</title>
+    <link href="https://www.masteringemacs.org/article/announcing-dreamcoder" rel="alternate" />
+    <id>https://www.masteringemacs.org/article/announcing-dreamcoder::v241</id>
+    <published>2026-11-21T17:46:00+00:00</published>
+    <updated>2026-11-21T17:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.masteringemacs.org%2Fstatic%2Fuploads%2Fdreamcoder%2Ffirst-look.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.masteringemacs.org/article/announcing-dreamcoder">masteringemacs.org</a> | <a href="https://lobste.rs/s/ocdhli/dreamcoder_coding_harness_ide_from">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50581110">hacker news</a></small></p><hr/><p>Developer Mickey Petersen has released DreamCoder, a browser-based AI coding harness featuring a tiling window manager designed to overcome the interface limitations of terminal-based coding agents. Developed over fifteen months, the tool provides a multi-window workspace that accommodates various AI workflows across platforms.</p><p>The release is accompanied by a retrospective on the history of artificial intelligence, LISP, and Emacs, examining the evolution of symbolic computing and its transition toward modern neural network-driven models. Petersen reflects on how these shifts impact software development, combining historical context with practical tooling for programmers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.masteringemacs.org%2Fstatic%2Fuploads%2Fdreamcoder%2Ffirst-look.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 23:11 UTC | #28167</small>]]></content>
+  </entry>
   <entry>
     <title>Survey of Text Message-Based AI Agents</title>
     <link href="https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/" rel="alternate" />
