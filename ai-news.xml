@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-21T11:29:00+00:00</updated>
+  <updated>2026-11-21T16:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Shortical Launches AI Microdrama Series Starring Actor Aki Avni's Digital Avatar</title>
+    <link href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/::v241</id>
+    <published>2026-11-21T16:01:00+00:00</published>
+    <updated>2026-11-21T16:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.thewrap.com%2Fwp-content%2Fuploads%2F2026%2F05%2F894de741-4605-4349-b5ca-c6cb0b7442b6.jpg%3Fwidth%3D990%26height%3D557%26fit%3Dbounds&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/">techcrunch.com</a> | <a href="https://www.thewrap.com/creative-content/tv-shows/shorticals-ai-generated-microseries-inevitable-premieres-aki-avni-ai-actor/">thewrap.com</a></small></p><hr/><p>Microdrama startup Shortical has released "Inevitable," a fully artificial intelligence-generated series starring actor Aki Avni through a direct face-licensing agreement. The project features Avni playing an AI version of himself in a meta-narrative, marking the platform's first time using a real person's likeness to produce bite-sized content with substantially reduced production overhead.</p><p>The venture highlights a growing trend among digital platforms adopting automation and facial likeness licensing, mirroring developments in overseas markets like China. While proponents argue that AI enables smaller teams to create ambitious cinematic productions, critics and industry observers express concern over diminished traditional entry-level work for young actors and broader questions surrounding consent and compensation in the gig economy.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thewrap.com%2Fwp-content%2Fuploads%2F2026%2F05%2F894de741-4605-4349-b5ca-c6cb0b7442b6.jpg%3Fwidth%3D990%26height%3D557%26fit%3Dbounds&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 21:04 UTC | #28196</small>]]></content>
+  </entry>
   <entry>
     <title>Tristan Buckmaster and Levent Alpöge Release AI-Aided Navier-Stokes Blowup Proof</title>
     <link href="https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/" rel="alternate" />
