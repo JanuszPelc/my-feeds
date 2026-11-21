@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>CrowdStrike in Talks to Acquire Zscaler</h2>
+<a name="story-28160"><img src="https://wsrv.nl/?url=https%3A%2F%2Faitech365.com%2Fwp-content%2Fuploads%2F2025%2F08%2FZscaler-_-CrowdStrike-Expand-Partnership-for-AI-Security-Ops-Edited-01-01-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>CrowdStrike Holdings Inc. is reportedly in discussions to acquire cybersecurity firm Zscaler Inc., according to people familiar with the matter. A potential transaction would unite the two companies into a major deal with a combined market capitalization of approximately $265 billion.</p><p>Following reports of the negotiations, Zscaler shares surged in extended trading while CrowdStrike shares declined. Neither company has officially confirmed the talks, which follow previous cooperative security integrations between the two vendors.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Bitcoin Falls to $57,000 in Two-Year Low Amid Global Market Drop</h2>
 <a name="story-28156"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.independent.co.uk%2F2025%2F10%2F14%2F9%2F28%2FbXEtP-bitcoin-price-in-months-after-2024-us-election.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bitcoin dropped to $57,000, reaching its lowest level in over two years and losing more than half its value from its October 2025 peak above $126,000. The decline occurred as broader global markets sank, extending a steep reversal following the cryptocurrency's post-election surge.</p><p>The sharp downward trend has revived comparisons to previous bear markets as liquidations mounted across crypto exchanges. Macroeconomic pressures and shifting investor sentiment have heavily weighed on digital assets, cooling the initial enthusiasm driven by prior political developments.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28036"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdianapps.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F04%2FSoftware-Supply-Chain-Security.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cybersecurity startup StepSecurity has raised a $20 million Series A funding round led by Elephant, bringing the company's total funding to $23 million. The capital will support its efforts to protect software pipelines against supply chain attacks.</p><p>The funding follows a series of high-profile security incidents involving software supply chain vulnerabilities, malicious extensions, and targeted cyber attacks. StepSecurity provides tools designed to help organizations secure their software development and build environments.</p>
 <p>Nov 19 · <a href="https://www.axios.com/pro/enterprise-software-deals/2026/11/18/stepsecurity-supply-chain-cybersecurity">axios.com</a> | <a href="https://www.prnewswire.com/news-releases/stepsecurity-raises-20-million-in-series-a-funding-to-prevent-supply-chain-attacks-302941225.html">prnewswire.com</a></p>
-<br clear="all" />
-
-<h2>PDD Holdings Reports Third-Quarter Revenue and Profit</h2>
-<a name="story-28021"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.borsainside.com%2Fcontent%2Fuploads%2F2026%2F03%2FTemu1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>PDD Holdings reported third-quarter revenue of approximately $16.2 billion, remaining flat year-over-year and falling short of analyst expectations, while net profit rose 0.7% to about $4.43 billion, exceeding forecasts.</p><p>The financial results reflect ongoing headwinds for the company's e-commerce platform Temu, which faced a shrinking user base led by a decline in Europe as the region implements stricter regulations. Analysts noted that mounting regulatory scrutiny and fierce market competition continue to challenge the platform's international expansion.</p>
-<p>Nov 19 · <a href="https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?st=ZWhSa9&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-third-quarter-2026-unaudited-financial">investor.pddholdings.com</a></p>
 <br clear="all" />
 
 ---

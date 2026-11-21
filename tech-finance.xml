@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-20T22:08:00+00:00</updated>
+  <updated>2026-11-20T22:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>CrowdStrike in Talks to Acquire Zscaler</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler::v240</id>
+    <published>2026-11-20T22:11:00+00:00</published>
+    <updated>2026-11-20T22:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Faitech365.com%2Fwp-content%2Fuploads%2F2025%2F08%2FZscaler-_-CrowdStrike-Expand-Partnership-for-AI-Security-Ops-Edited-01-01-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler">bloomberg.com</a></small></p><hr/><p>CrowdStrike Holdings Inc. is reportedly in discussions to acquire cybersecurity firm Zscaler Inc., according to people familiar with the matter. A potential transaction would unite the two companies into a major deal with a combined market capitalization of approximately $265 billion.</p><p>Following reports of the negotiations, Zscaler shares surged in extended trading while CrowdStrike shares declined. Neither company has officially confirmed the talks, which follow previous cooperative security integrations between the two vendors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Faitech365.com%2Fwp-content%2Fuploads%2F2025%2F08%2FZscaler-_-CrowdStrike-Expand-Partnership-for-AI-Security-Ops-Edited-01-01-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 07:31 UTC | #28160</small>]]></content>
+  </entry>
   <entry>
     <title>Bitcoin Falls to $57,000 in Two-Year Low Amid Global Market Drop</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink" rel="alternate" />

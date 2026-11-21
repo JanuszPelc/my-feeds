@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-20T21:59:00+00:00</updated>
+  <updated>2026-11-20T22:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Etsy Updates Terms of Use to Allow AI Training on Seller Content</title>
+    <link href="https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html::v240</id>
+    <published>2026-11-20T22:12:00+00:00</published>
+    <updated>2026-11-20T22:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHXWKrZ2WUAE8F1O%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html">nytimes.com</a> | <a href="https://www.etsy.com/legal/terms-of-use">etsy.com</a></small></p><hr/><p>Numerous longtime Etsy sellers are leaving the online marketplace following an update to the platform's terms of use. The revised policy specifies that Etsy and its third-party partners are permitted to use sellers' content and listings for artificial intelligence training.</p><p>The changes have sparked significant backlash and an exodus among creators who object to having their creative work used to train AI models without a clear, straightforward opt-out mechanism. While Etsy states that the policy is intended to improve platform features and tools, many vendors remain concerned about ownership and consent.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHXWKrZ2WUAE8F1O%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 07:32 UTC | #28163</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Trump Threatens Taxes on U.S. Companies Building Data Centers Overseas</title>
     <link href="https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas" rel="alternate" />
