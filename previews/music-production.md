@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>sonicLAB Releases SSNN v2.0 Audio Processor Plugin</h2>
+<a name="story-28207"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscr2.1795262877.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>sonicLAB has released version 2.0 of SSNN, a live audio processor plugin that utilizes a spiking neural network comprising 960 neurons across 32 layers to drive eight synthesis engines in real time. The software processes audio signals by routing them through neural connections, where individual spikes dynamically modulate the underlying sound generation.</p><p>Version 2 introduces several enhancements, including adjustable network depth via layers control, temporal spectral frame shifting, and a new neural buffer frequency modulation system that shapes audio through neural voltages and connection weights. The update also adds four individual voice outputs for routing neural columns to separate DAW tracks, improves headroom and project recall, and is available as a free upgrade for existing users in VST3 and AU formats for macOS and Windows.</p>
+<p>Nov 21 · <a href="https://www.kvraudio.com/news/soniclab-releases-ssnn-v2-0-70025?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70025">kvraudio.com</a> | <a href="https://www.sonic-lab.com/ssnn-page">sonic-lab.com</a></p>
+<br clear="all" />
+
+<h2>Ample Sound Releases Ample Asia Shakuhachi and Launches Winter Sale</h2>
+<a name="story-28208"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcyclewin2026.1795280988.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ample Sound has released Ample Asia Shakuhachi (AASH), a virtual instrument library for Windows and macOS featuring extensive multi-microphone sampling, an intelligent legato system, and the Riffer 4 MIDI editor tailored for wind instruments. The plugin includes head and body articulation groups designed to capture the dynamic breath variations and expressive qualities of traditional Japanese flutes.</p><p>Alongside the new instrument release, the company has launched its Winter Sale 2026, offering discounts ranging from 20% to 68% on single products and bundles until January 1, 2027. Existing customers receive an additional 10% discount on top of these promotional prices across the catalog.</p>
+<p>Nov 21 · <a href="https://www.kvraudio.com/news/ample-sound-releases-ample-asia-shakuhachi-and-launches-winter-sale-2026-70032?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70032">kvraudio.com</a> | <a href="https://amplesound.net/en/pro-pd.asp?id=49">amplesound.net</a></p>
+<br clear="all" />
+
+<h2>MuTools Updates MuLab App and Plugin to Version 10.3.24</h2>
+<a name="story-28202"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mutools.com%2Finfo%2FM9%2Fdocs%2Fmulab%2Fpics%2Fmulab.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>MuTools has released version 10.3.24 of its MuLab App and MuLab Plugin, bringing a variety of new features, system updates, and bug fixes to the audio production platform. Key additions include the DS22 Audio Limiter and a new Direct MIDI Out module.</p><p>The update also delivers general improvements to the modular system, plugin support, and audio clips, alongside the introduction of Unicode support. Users can view the detailed change log on the official MuTools website.</p>
+<p>Nov 21 · <a href="https://www.kvraudio.com/news/mutools-updates-mulab-app-and-plugin-to-v10-3-24-70013?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70013">kvraudio.com</a> | <a href="https://www.mutools.com/mulab-mux-change-log.html">mutools.com</a></p>
+<br clear="all" />
+
 <h2>Cableguys Updates TimeStop to Version 1.1 with Tape-Start Feature</h2>
 <a name="story-28203"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcableguys-timestop---crop-for-kvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cableguys has released TimeStop v1.1, introducing a new tape-start feature that lets users trigger a tape-start by releasing the Stop button or Pitch knob. The update also adds direct keyboard entry for pitch and shape values, along with improved automation value text display for supported Digital Audio Workstations.</p><p>Alongside the software update, Cableguys launched a tutorial video and blog post detailing professional tricks for creating fills, drops, and transitions using the plugin. TimeStop is currently priced at €14 or $16, with discounted upgrade options available for bundle owners, coinciding with the company's Black Friday sale event.</p>
@@ -77,24 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>AudioKit Releases Free Super 909 Drum Machine for iOS and macOS</h2>
 <p>AudioKit Pro has released Super 909, a free TR-909-inspired drum machine available as a standalone app and AUv3 plugin for iPhone, iPad, and Mac. Developed with inspiration from classic Roland rhythm units, the instrument features a step sequencer, playable pads, and polyrhythmic options with independent track lengths.</p><p>The software includes automated tools like the Magic Pattern Generator and Smart Fills, alongside effects such as delay, reverb, overdrive, a Moog-inspired filter, and a low-end-preserving bitcrusher. Users can export MIDI, audio stems, and WAV loops, or utilize host transport sync, Ableton Link, and individual audio outputs within compatible AUv3 hosts.</p>
 <p>Nov 20 · <a href="https://bedroomproducersblog.com/2026/11/20/audiokit-super-909/">bedroomproducersblog.com</a> | <a href="https://apps.apple.com/us/app/super-909-drums-drum-machine/id6812908495">apps.apple.com</a></p>
-<br clear="all" />
-
-<h2>Shy Audio Releases Shy 80s Samplez and Shy 80s Mini Plugins</h2>
-<a name="story-28124"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fkvr_news_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Shy Audio has released Shy 80s Samplez and Shy 80s Mini, two audio plugins inspired by the 1985 Akai S612 12-bit hardware sampler. Shy 80s Samplez recreates the original unit's six-voice, 12-bit mono architecture with a modeled sample scanner, filter, and individual outputs, while introducing modern capabilities like time-stretching and warp features.</p><p>Shy 80s Mini adapts the same 12-bit signal path into a live insert effect that includes an added filter envelope and LFO. Both plugins feature zero latency, offline licensing without iLok requirements, and compatibility with macOS, Windows, and Linux across VST3, AU, and AAX formats.</p>
-<p>Nov 20 · <a href="https://www.kvraudio.com/news/shy-audio-releases-shy-80s-samplez-and-shy-80s-mini---s612-inspired-12-bit-sampler-and-effect-69920?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69920">kvraudio.com</a> | <a href="https://www.shy-audio.com/">shy-audio.com</a></p>
-<br clear="all" />
-
-<h2>RiverFlux Audio Releases RF-201 Free Tape Echo and Spring Reverb Plugin</h2>
-<a name="story-28121"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqRtlrYOLSSs%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>RiverFlux Audio has released the RF-201 free tape echo and spring reverb plugin as part of the Relic 0.4.8 update for macOS, Windows, and Linux. The plugin features a three-head tape echo combined with spring reverb, offering adjustable playback head combinations, variable tape aging, tempo sync, and built-in oversampling up to 8x.</p><p>The update brings the total number of free plugins in the Relic collection to eighteen, following recent additions like the RF-BUS compressor. Version 0.4.8 also introduces interface updates for the RF-E channel strip, along with added screen-reader and keyboard support. The bundle is distributed via Gumroad as a pay-what-you-want download with a zero-dollar minimum.</p>
-<p>Nov 20 · <a href="https://bedroomproducersblog.com/2026/11/20/riverflux-audio-rf-201/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/Relic">riverfluxaudio.gumroad.com</a></p>
-<br clear="all" />
-
-<h2>Soundtoys Launches Black Friday Sale With Up to 75% Off Plugins</h2>
-<a name="story-28122"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fheader%2Fs3%2Fimagelibrary%2Fs%2Fsoundtoys_blackfriday_header-xVOqB1_Z6b_kCP.Tn4Wv_Wuph5psK1YN.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Soundtoys has launched its Black Friday sale, offering discounts of up to 75% on its effects plugins and bundles through December 3, 2026. The promotion features the Soundtoys 5 bundle reduced from $599 to $239, individual plugins starting at $29, and the Academic bundle priced at $119.</p><p>The Soundtoys 5 collection includes all 23 company plugins, incorporating the recently added SpaceBlender reverb and version 5.5 updates like resizable interfaces and enhanced Effect Rack integration. Effect Rack is discounted to $99, and existing account holders can access additional 60% trade-in discounts on upgrades.</p>
-<p>Nov 20 · <a href="https://bedroomproducersblog.com/2026/11/20/soundtoys-black-friday-sale-2026/">bedroomproducersblog.com</a> | <a href="https://www.soundtoys.com/">soundtoys.com</a></p>
 <br clear="all" />
 
 ---

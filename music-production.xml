@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-21T17:24:00+00:00</updated>
+  <updated>2026-11-21T17:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>sonicLAB Releases SSNN v2.0 Audio Processor Plugin</title>
+    <link href="https://www.kvraudio.com/news/soniclab-releases-ssnn-v2-0-70025?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70025" rel="alternate" />
+    <id>https://www.kvraudio.com/news/soniclab-releases-ssnn-v2-0-70025?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70025::v241</id>
+    <published>2026-11-21T17:35:00+00:00</published>
+    <updated>2026-11-21T17:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscr2.1795262877.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/soniclab-releases-ssnn-v2-0-70025?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70025">kvraudio.com</a> | <a href="https://www.sonic-lab.com/ssnn-page">sonic-lab.com</a></small></p><hr/><p>sonicLAB has released version 2.0 of SSNN, a live audio processor plugin that utilizes a spiking neural network comprising 960 neurons across 32 layers to drive eight synthesis engines in real time. The software processes audio signals by routing them through neural connections, where individual spikes dynamically modulate the underlying sound generation.</p><p>Version 2 introduces several enhancements, including adjustable network depth via layers control, temporal spectral frame shifting, and a new neural buffer frequency modulation system that shapes audio through neural voltages and connection weights. The update also adds four individual voice outputs for routing neural columns to separate DAW tracks, improves headroom and project recall, and is available as a free upgrade for existing users in VST3 and AU formats for macOS and Windows.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscr2.1795262877.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:35 UTC | #28207</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ample Sound Releases Ample Asia Shakuhachi and Launches Winter Sale</title>
+    <link href="https://www.kvraudio.com/news/ample-sound-releases-ample-asia-shakuhachi-and-launches-winter-sale-2026-70032?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70032" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ample-sound-releases-ample-asia-shakuhachi-and-launches-winter-sale-2026-70032?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70032::v241</id>
+    <published>2026-11-21T17:28:00+00:00</published>
+    <updated>2026-11-21T17:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcyclewin2026.1795280988.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/ample-sound-releases-ample-asia-shakuhachi-and-launches-winter-sale-2026-70032?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70032">kvraudio.com</a> | <a href="https://amplesound.net/en/pro-pd.asp?id=49">amplesound.net</a></small></p><hr/><p>Ample Sound has released Ample Asia Shakuhachi (AASH), a virtual instrument library for Windows and macOS featuring extensive multi-microphone sampling, an intelligent legato system, and the Riffer 4 MIDI editor tailored for wind instruments. The plugin includes head and body articulation groups designed to capture the dynamic breath variations and expressive qualities of traditional Japanese flutes.</p><p>Alongside the new instrument release, the company has launched its Winter Sale 2026, offering discounts ranging from 20% to 68% on single products and bundles until January 1, 2027. Existing customers receive an additional 10% discount on top of these promotional prices across the catalog.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcyclewin2026.1795280988.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:35 UTC | #28208</small>]]></content>
+  </entry>
+  <entry>
+    <title>MuTools Updates MuLab App and Plugin to Version 10.3.24</title>
+    <link href="https://www.kvraudio.com/news/mutools-updates-mulab-app-and-plugin-to-v10-3-24-70013?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70013" rel="alternate" />
+    <id>https://www.kvraudio.com/news/mutools-updates-mulab-app-and-plugin-to-v10-3-24-70013?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70013::v241</id>
+    <published>2026-11-21T17:26:00+00:00</published>
+    <updated>2026-11-21T17:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.mutools.com%2Finfo%2FM9%2Fdocs%2Fmulab%2Fpics%2Fmulab.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/mutools-updates-mulab-app-and-plugin-to-v10-3-24-70013?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70013">kvraudio.com</a> | <a href="https://www.mutools.com/mulab-mux-change-log.html">mutools.com</a></small></p><hr/><p>MuTools has released version 10.3.24 of its MuLab App and MuLab Plugin, bringing a variety of new features, system updates, and bug fixes to the audio production platform. Key additions include the DS22 Audio Limiter and a new Direct MIDI Out module.</p><p>The update also delivers general improvements to the modular system, plugin support, and audio clips, alongside the introduction of Unicode support. Users can view the detailed change log on the official MuTools website.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mutools.com%2Finfo%2FM9%2Fdocs%2Fmulab%2Fpics%2Fmulab.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:35 UTC | #28202</small>]]></content>
+  </entry>
   <entry>
     <title>Cableguys Updates TimeStop to Version 1.1 with Tape-Start Feature</title>
     <link href="https://www.kvraudio.com/news/cableguys-update-timestop-to-v1-1---adds-tape-start-feature-70002?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70002" rel="alternate" />
