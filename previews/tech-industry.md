@@ -8,10 +8,16 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Donald Trump Says Jensen Huang Should Return as Nvidia CEO After Apology</h2>
+<a name="story-28150"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2024%2F10%2FNVIDIA-CES-2025-Jensen-Huang-Keynote-Main-1920x1299.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>President Donald Trump stated that Nvidia Corp. should accept an apology from former CEO Jensen Huang and reinstate him following his resignation. Trump remarked that Huang has learned a significant lesson and that the company should allow him to return to work.</p><p>Huang's resignation followed an espionage scandal and subsequent fallout that involved private urging from Trump for him to remain in his role. Reports indicate that Trump described Huang as an honorable individual whose primary regrets involved his family during the ordeal.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology">bloomberg.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1y1advo/trump_vows_to_stop_us_companies_from_building/">r/singularity</a></p>
+<br clear="all" />
+
 <h2>YouTube Nears $3 Billion Settlement With US School Districts Over Addiction Claims</h2>
 <a name="story-28146"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.torhoermanlaw.com%2Fwp-content%2Fuploads%2F2026%2F06%2FStep-6_-Your-Case-May-Become-Part-of-the-Social-Media-Addiction-MDL-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>YouTube has reached an agreement in principle to pay roughly $3 billion to school districts across the United States to resolve litigation claiming the platform fosters social media addiction. The potential multibillion-dollar payout addresses widespread allegations concerning the impact of technology platforms on youth mental health and school environments.</p><p>While an accord has been reached in principle, the arrangement remains contingent on securing sign-offs from a majority of the participating districts and could take months to fully formalize. Representatives for Google and attorneys for the plaintiffs have declined to comment on the reported figures as the final terms are ironed out.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims">bloomberg.com</a></p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims">bloomberg.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1mvl4/youtube_is_reportedly_preparing_to_settle_social/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Internet Archive Workers Launch Union Campaign with Communications Workers of America</h2>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28079"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthe-decoder.com%2Fwp-content%2Fuploads%2F2025%2F02%2Fmercury-corder-diffusion-based-llm-teaser.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia is in advanced talks to acquire Inception, a startup that develops diffusion-based large language models, for upwards of $500 million plus earnouts. The discussions reportedly began before Jensen Huang's resignation.</p><p>Founded two years ago by Stanford professor Stefano Ermon, Inception builds diffusion models for text and code, including its Mercury model series. The company previously raised a $50 million seed round with participation from Nvidia's venture arm, NVentures.</p>
 <p>Nov 20 · <a href="https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Sean Cairncross to Step Down as National Cyber Director</h2>
-<a name="story-28078"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1155968404%2F05b8c959-6c4f-4b40-9a04-c8ab3d3ebd7c%2F5f0a97b3-d5bf-4814-8666-88c7e73b25e0%2F1280x720%2Fmatch%2Fimage.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>White House National Cyber Director Sean Cairncross is stepping down from his post. According to sources, Cairncross chose to leave now to give the administration time to secure Senate confirmation for a successor before Democrats assume control of the Senate in January.</p><p>Cairncross leads the Office of the National Cyber Director, which coordinates federal cybersecurity policy and strategy. His departure follows other technical personnel departures within the administration amid ongoing concerns regarding critical infrastructure reliability and escalating AI-driven cyber threats.</p>
-<p>Nov 20 · <a href="https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving">axios.com</a> | <a href="https://news.ycombinator.com/item?id=50568510">hacker news</a></p>
 <br clear="all" />
 
 ---

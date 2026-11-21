@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-21T03:32:00+00:00</updated>
+  <updated>2026-11-21T05:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Element Releases Matrix Conference 2026 Public Sector Session Recordings</title>
+    <link href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/" rel="alternate" />
+    <id>https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/::v240</id>
+    <published>2026-11-21T05:36:00+00:00</published>
+    <updated>2026-11-21T05:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">element.io</a> | <a href="https://news.ycombinator.com/item?id=50558533">hacker news</a></small></p><hr/><p>Element has published the public sector track recordings from the Matrix Conference 2026, highlighting government deployments, digital sovereignty, and secure communication strategies across European public institutions.</p><p>The sessions feature case studies and technical discussions from organizations including the European Commission, NATO, French public sector tech agency DINUM, Swedish social insurance agency Försäkringskassan, and the German state of Schleswig-Holstein.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:38 UTC | #28072 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Ravi Vakil Publishes Proposed Proof of Generalized Riemann Hypothesis by Alessandro Masullo</title>
     <link href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/" rel="alternate" />
@@ -526,14 +535,5 @@
     <updated>2026-11-16T09:59:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">michael.bacarella.com</a> | <a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50455394">hacker news</a></small></p><hr/><p>A Jane Street systems engineer describes a near-catastrophic incident at the firm's New York City datacenter in 1 New York Plaza. A false smoke alarm, triggered by dust from nearby construction, caused the cooling systems to shut down, risking a situation where rising temperatures would trigger heat-sensitive sprinklers and flood the server room.</p><p>To prevent equipment destruction, the engineer manually disconnected power to all servers before temperatures exceeded critical thresholds. The incident led the systems team to implement a more reliable temperature monitoring system written in OCaml that queries individual Linux servers to detect cooling failures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fst3.depositphotos.com%2F10833154%2F36023%2Fi%2F1600%2Fdepositphotos_360230120-stock-photo-fire-detector-false-ceiling-fire.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>12 Nov 2026, 04:57 UTC | #27236 | r,ht</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jensen Huang Discusses Potential Return as Nvidia CEO</title>
-    <link href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&amp;sharetype=gift&amp;token=35d995ef-ed14-4cc4-8323-31a3da06ba1b&amp;syn-25a6b1a6=1" rel="alternate" />
-    <id>https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&amp;sharetype=gift&amp;token=35d995ef-ed14-4cc4-8323-31a3da06ba1b&amp;syn-25a6b1a6=1::v240</id>
-    <published>2026-11-16T05:33:00+00:00</published>
-    <updated>2026-11-16T05:33:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b&syn-25a6b1a6=1">ft.com</a></small></p><hr/><p>Jensen Huang has held discussions regarding a potential comeback as Nvidia's chief executive. Supporters are reportedly organizing a "war room" to lobby the company's board for his reinstatement and are seeking support from the White House.</p><p>His resignation followed reports of extramarital affairs, including one with an alleged Chinese spy. The push for his return comes as the company and its allies attempt to manage the political and corporate fallout from the scandal.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Nov 2026, 05:33 UTC | #27558 | t,hr</small>]]></content>
   </entry>
 </feed>
