@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Jen-Hsun and Lori Huang Foundation Commits $350 Million to CoreWeave</h2>
+<a name="story-28130"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvcdn1-english.vnecdn.net%2F2025%2F05%2F14%2F14018703-1853-43d5-90f6-f9a1db-3425-8548-1747211034.jpg%3Fw%3D680%26h%3D0%26q%3D100%26dpr%3D2%26fit%3Dcrop%26s%3DXE2Eos09EB8n2EPqXC1ifg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Jen-Hsun and Lori Huang Foundation has committed $350 million to rent AI computing capacity from CoreWeave Inc. for its Computing Initiative for Open Science. According to recent tax filings, the charitable organization has already spent $108.3 million of that commitment.</p><p>The purchased compute capacity is allocated to support academic and nonprofit researchers rather than for internal use by the foundation. CoreWeave is a specialized cloud provider that maintains close financial and technological ties to Nvidia, the chipmaker led by Jensen Huang.</p>
+<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/jensen-huang-s-charity-committed-350-million-to-coreweave">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Raises $93.5 Billion Total After Underwriters Exercise Greenshoe Overallotment</h2>
 <a name="story-28117"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic underwriters have officially exercised their overallotment option, bringing the artificial intelligence company's initial public offering total to $93.5 billion. The firm sold an aggregate of 1.127 billion shares of Class A common stock at $83 per share, securing an additional $12.2 billion through the greenshoe purchase.</p><p>When combined with a concurrent $26 billion private placement backed by tech companies including Google, Microsoft, and Nvidia, Anthropic's total gross proceeds reached $119.5 billion. The milestone offering comes amid market volatility and a broader tech sell-off that affected the stock following its Nasdaq debut.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28054"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbravenewcoin.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAnthropic-ipo-ant-debut-nasdaq-news-image3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic closed up 17% at $97.17 in its Nasdaq debut, achieving a market capitalization of $1.3 trillion. The stock opened at $111.50, representing a 34% increase from its initial public offering price of $83 per share.</p><p>The listing followed an offering of 980 million Class A shares that priced above the company's amended target range. The market debut marks a major valuation milestone for the artificial intelligence sector, building on financial disclosures outlining rapid commercial expansion alongside substantial operating costs.</p>
 <p>Nov 19 · <a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">reuters.com</a> | <a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering">anthropic.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0nraf/anthropics_ipo_could_deliver_156b_to_charity/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50562754">hacker news</a></p>
-<br clear="all" />
-
-<h2>AMD Shares Fall After Hunterbrook Discloses Short Position and China Link Allegations</h2>
-<a name="story-28045"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2025%2F08%2FUntitled-design-7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Advanced Micro Devices Inc. shares dropped after Hunterbrook Capital disclosed a short position in the chipmaker. The short seller's investigation alleged that AMD firmware appeared in post-blacklisting BIOS updates from IEIT Systems, a restricted Chinese server manufacturer, while also raising concerns over the company's revenue exposure to China.</p><p>The market reaction underscored ongoing regulatory and supply chain vulnerabilities for major semiconductor firms navigating export controls. The allegations brought renewed scrutiny to compliance measures surrounding restricted entities in international markets.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals">bloomberg.com</a> | <a href="https://hntrbrk.com/investigations/amd-china">hntrbrk.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y0rwwo/amd_dives_on_short_seller_report_of_alleged_china/">r/technology</a></p>
 <br clear="all" />
 
 ---
