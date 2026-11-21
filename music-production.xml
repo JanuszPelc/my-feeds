@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-21T15:24:00+00:00</updated>
+  <updated>2026-11-21T17:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Cableguys Updates TimeStop to Version 1.1 with Tape-Start Feature</title>
+    <link href="https://www.kvraudio.com/news/cableguys-update-timestop-to-v1-1---adds-tape-start-feature-70002?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70002" rel="alternate" />
+    <id>https://www.kvraudio.com/news/cableguys-update-timestop-to-v1-1---adds-tape-start-feature-70002?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70002::v241</id>
+    <published>2026-11-21T17:24:00+00:00</published>
+    <updated>2026-11-21T17:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcableguys-timestop---crop-for-kvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/cableguys-update-timestop-to-v1-1---adds-tape-start-feature-70002?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70002">kvraudio.com</a></small></p><hr/><p>Cableguys has released TimeStop v1.1, introducing a new tape-start feature that lets users trigger a tape-start by releasing the Stop button or Pitch knob. The update also adds direct keyboard entry for pitch and shape values, along with improved automation value text display for supported Digital Audio Workstations.</p><p>Alongside the software update, Cableguys launched a tutorial video and blog post detailing professional tricks for creating fills, drops, and transitions using the plugin. TimeStop is currently priced at €14 or $16, with discounted upgrade options available for bundle owners, coinciding with the company's Black Friday sale event.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcableguys-timestop---crop-for-kvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:23 UTC | #28203</small>]]></content>
+  </entry>
+  <entry>
+    <title>Madrona Labs Releases Aalto v2.0 Synthesizer With Linux and CLAP Support</title>
+    <link href="https://www.kvraudio.com/news/madrona-labs-releases-aalto-v2-0---linux-and-clap-support-69981?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69981" rel="alternate" />
+    <id>https://www.kvraudio.com/news/madrona-labs-releases-aalto-v2-0---linux-and-clap-support-69981?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69981::v241</id>
+    <published>2026-11-21T17:17:00+00:00</published>
+    <updated>2026-11-21T17:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Faalto-2-screenshot1-small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/madrona-labs-releases-aalto-v2-0---linux-and-clap-support-69981?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69981">kvraudio.com</a> | <a href="https://www.madronalabs.com/products/aalto">madronalabs.com</a></small></p><hr/><p>Madrona Labs has released Aalto version 2.0, a major update to its patchable software synthesizer rewritten from the ground up. The new version expands polyphony to eight voices, introduces an updated vactrol-model lowpass gate, features GPU-accelerated graphics, and adds native Linux support alongside CLAP plugin compatibility.</p><p>Aalto 2 maintains full compatibility with version 1 patches while incorporating a new patch browser, undo functionality, popup utilities with syncable LFOs, quad outputs, and MTS-ESP microtuning support. The instrument is available for macOS, Windows, and Linux in CLAP, VST3, and AU formats, priced at $99 with an introductory launch discount.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Faalto-2-screenshot1-small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:23 UTC | #28204</small>]]></content>
+  </entry>
+  <entry>
+    <title>Igor Vasiliev Updates ExoSphere App to Version 1.4 for iOS and macOS</title>
+    <link href="https://www.kvraudio.com/news/igor-vasiliev-updates-exosphere---endless-ambient-drift-app-to-v1-4-for-ios-and-macos-69959?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69959" rel="alternate" />
+    <id>https://www.kvraudio.com/news/igor-vasiliev-updates-exosphere---endless-ambient-drift-app-to-v1-4-for-ios-and-macos-69959?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69959::v241</id>
+    <published>2026-11-21T17:16:00+00:00</published>
+    <updated>2026-11-21T17:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-2-01-landscape-ipad-pro-12-9-1024x768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/igor-vasiliev-updates-exosphere---endless-ambient-drift-app-to-v1-4-for-ios-and-macos-69959?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69959">kvraudio.com</a></small></p><hr/><p>Igor Vasiliev has released version 1.4 of ExoSphere, an ambient drift and soundscape application designed for iOS and macOS. The update introduces multi-channel output support for Audio Unit (AUv3) hosts, enabling users to route individual sound layers to dedicated channels alongside the main stereo mix.</p><p>This new routing capability allows producers and sound designers to process separate layers with distinct spatial or external effects and construct complex generative textures within a digital audio workstation. ExoSphere is available as a standalone and AUv3 instrument priced at $14.99.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-2-01-landscape-ipad-pro-12-9-1024x768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:23 UTC | #28200</small>]]></content>
+  </entry>
   <entry>
     <title>Rocksolid Audio Releases Vintage Pre Valve Preamp Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/" rel="alternate" />
