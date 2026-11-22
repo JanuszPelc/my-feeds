@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Paris Marx Discusses Environmental and Social Costs of Hyperscale Data Centers</h2>
+<a name="story-28253"><img src="https://wsrv.nl/?url=https%3A%2F%2Fas2.ftcdn.net%2Fv2%2Fjpg%2F02%2F14%2F73%2F89%2F1000_F_214738963_rpysDYY6ybRYtKHcBUkhOYwfihZFpMMX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Paris Marx, author of the book Hyperscale, explores how the rapid expansion of data centers has become a political landmine due to the tangible impact on local communities. The facilities are increasingly scrutinized for their environmental footprint, specifically regarding their massive electricity consumption in countries like Ireland and their significant water usage in regions like Chile and Oregon.</p><p>Marx argues that the current hyperscale buildout is fundamentally unsustainable and driven by tech hubris, resulting in material costs for residents including noise, increased power bills, and water scarcity. In response to bipartisan opposition, tech companies are beginning to move away from using non-disclosure agreements in local negotiations and are proposing to fund private infrastructure to mitigate public backlash.</p>
+<p>Nov 22 · <a href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/">techcrunch.com</a> | <a href="https://hyperscalebook.com/">hyperscalebook.com</a></p>
+<br clear="all" />
+
 <h2>Evaluating the Social Licence to Operate for AI Data Centres in Communities</h2>
 <a name="story-28241"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771926%2Foriginal%2Ffile-20261113-64-kenhbk.JPG%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Communities in New Brunswick and across Canada are increasingly grappling with how to define and measure the public support required before large artificial intelligence data centres can be built. Municipalities and residents are pushing for formal consultation processes and rezoning approvals to address local anxieties regarding environmental impacts, resource consumption, and community benefits.</p><p>Assessing public backing remains challenging because different mechanisms—such as municipal resolutions, town halls, and Indigenous consultations—represent distinct groups with conflicting interests. Furthermore, social licence is not a permanent guarantee, as operational realities like noise or resource strains can cause communities to withdraw support after a facility opens.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28130"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvcdn1-english.vnecdn.net%2F2025%2F05%2F14%2F14018703-1853-43d5-90f6-f9a1db-3425-8548-1747211034.jpg%3Fw%3D680%26h%3D0%26q%3D100%26dpr%3D2%26fit%3Dcrop%26s%3DXE2Eos09EB8n2EPqXC1ifg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Jen-Hsun and Lori Huang Foundation has committed $350 million to rent AI computing capacity from CoreWeave Inc. for its Computing Initiative for Open Science. According to recent tax filings, the charitable organization has already spent $108.3 million of that commitment.</p><p>The purchased compute capacity is allocated to support academic and nonprofit researchers rather than for internal use by the foundation. CoreWeave is a specialized cloud provider that maintains close financial and technological ties to Nvidia, the chipmaker led by Jensen Huang.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/jensen-huang-s-charity-committed-350-million-to-coreweave">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Raises $93.5 Billion Total After Underwriters Exercise Greenshoe Overallotment</h2>
-<a name="story-28117"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.how2shout.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAnthropic-Files-Confidentially-for-IPO-860x494.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic underwriters have officially exercised their overallotment option, bringing the artificial intelligence company's initial public offering total to $93.5 billion. The firm sold an aggregate of 1.127 billion shares of Class A common stock at $83 per share, securing an additional $12.2 billion through the greenshoe purchase.</p><p>When combined with a concurrent $26 billion private placement backed by tech companies including Google, Microsoft, and Nvidia, Anthropic's total gross proceeds reached $119.5 billion. The milestone offering comes amid market volatility and a broader tech sell-off that affected the stock following its Nasdaq debut.</p>
-<p>Nov 20 · <a href="https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html">cnbc.com</a> | <a href="https://www.anthropic.com/news/ipo-close">anthropic.com</a></p>
 <br clear="all" />
 
 ---

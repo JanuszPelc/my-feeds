@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-22T12:52:00+00:00</updated>
+  <updated>2026-11-22T18:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Paris Marx Discusses Environmental and Social Costs of Hyperscale Data Centers</title>
+    <link href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/::v241</id>
+    <published>2026-11-22T18:09:00+00:00</published>
+    <updated>2026-11-22T18:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fas2.ftcdn.net%2Fv2%2Fjpg%2F02%2F14%2F73%2F89%2F1000_F_214738963_rpysDYY6ybRYtKHcBUkhOYwfihZFpMMX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/">techcrunch.com</a> | <a href="https://hyperscalebook.com/">hyperscalebook.com</a></small></p><hr/><p>Paris Marx, author of the book Hyperscale, explores how the rapid expansion of data centers has become a political landmine due to the tangible impact on local communities. The facilities are increasingly scrutinized for their environmental footprint, specifically regarding their massive electricity consumption in countries like Ireland and their significant water usage in regions like Chile and Oregon.</p><p>Marx argues that the current hyperscale buildout is fundamentally unsustainable and driven by tech hubris, resulting in material costs for residents including noise, increased power bills, and water scarcity. In response to bipartisan opposition, tech companies are beginning to move away from using non-disclosure agreements in local negotiations and are proposing to fund private infrastructure to mitigate public backlash.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fas2.ftcdn.net%2Fv2%2Fjpg%2F02%2F14%2F73%2F89%2F1000_F_214738963_rpysDYY6ybRYtKHcBUkhOYwfihZFpMMX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 23:11 UTC | #28253</small>]]></content>
+  </entry>
   <entry>
     <title>Evaluating the Social Licence to Operate for AI Data Centres in Communities</title>
     <link href="https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729" rel="alternate" />
@@ -652,14 +661,5 @@
     <updated>2026-11-17T23:47:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnewnation.sg%2Fwp-content%2Fuploads%2F2026%2F04%2Farticle_3615_content_1774602799.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/how-populist-parties-around-the-world-use-the-same-playbook-to-win-on-social-media-295561">theconversation.com</a></small></p><hr/><p>Research analyzing over 35,500 social media posts reveals that populist parties worldwide use a consistent four-step playbook to gain influence: building an audience, provoking viewers, encouraging content sharing, and using engagement as real-time polling. This approach exploits platform algorithms by simplifying complex issues and blaming "corrupt elites" to maximize visibility and interaction.</p><p>Generative artificial intelligence further scales these tactics by enabling the rapid, low-cost production of tailored text, images, and video. While mainstream political parties often struggle to compete due to the complexities of policy communication and the need for broad appeal, populist actors can leverage high-engagement, polarizing content to bypass traditional media and connect directly with voters.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnewnation.sg%2Fwp-content%2Fuploads%2F2026%2F04%2Farticle_3615_content_1774602799.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 05:00 UTC | #27830</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nvidia Reaffirms Open-Source AI Strategy Following Jensen Huang's Departure</title>
-    <link href="https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/" rel="alternate" />
-    <id>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/::v240</id>
-    <published>2026-11-17T23:05:00+00:00</published>
-    <updated>2026-11-17T23:05:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fictmirror.com%2Fwp-content%2Fuploads%2F2024%2F08%2FNvidia-CFO-Colette-Kress.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/">techcrunch.com</a> | <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx">investor.nvidia.com</a></small></p><hr/><p>Nvidia interim CEO Collette Kress reaffirmed the company’s commitment to an open-source AI ecosystem during its recent earnings call. This announcement follows the resignation of founder Jensen Huang and is intended to address uncertainty regarding Nvidia's future support for open-weight models. Kress noted that the Nemotron family of models has become a widely used resource for developers on platforms like OpenRouter.</p><p>The company's planned $12.9 billion acquisition of Hugging Face remains on track despite the recent leadership transition. This development occurs amid an SEC investigation into whether Nvidia’s recent corporate disclosures misled investors following Huang's departure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fictmirror.com%2Fwp-content%2Fuploads%2F2024%2F08%2FNvidia-CFO-Colette-Kress.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>18 Nov 2026, 04:10 UTC | #27821</small>]]></content>
   </entry>
 </feed>
