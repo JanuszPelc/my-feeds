@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-22T10:44:00+00:00</updated>
+  <updated>2026-11-22T10:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Mercurial Tones Releases Siren Free Pitch Correction Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/::v241</id>
+    <published>2026-11-22T10:50:00+00:00</published>
+    <updated>2026-11-22T10:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.wondershare.com%2Ffilmora%2Farticle-trans-image%2F541%2Fpitch-correction-plugin-4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/">bedroomproducersblog.com</a> | <a href="https://shop.mercurialtones.com/products/siren">shop.mercurialtones.com</a></small></p><hr/><p>Mercurial Tones has released Siren, a free vocal pitch correction plugin featuring both automatic tuning and a graphical note editor. The software offers automatic key detection, a Natural mode that preserves subtle vocal movement, a Classic mode for traditional scale tuning, and a zero-retune option for hard-tuning effects.</p><p>Users can also access a dedicated graph page with a piano-roll editor to manually adjust individual notes, split or merge them, and modify parameters such as vibrato, drift, and volume. Siren supports VST3, AU, and AAX formats on macOS and Windows, and requires the Mercurial Tones Hub application for installation and activation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wondershare.com%2Ffilmora%2Farticle-trans-image%2F541%2Fpitch-correction-plugin-4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 15:59 UTC | #28237</small>]]></content>
+  </entry>
   <entry>
     <title>Applied Acoustics Systems Offers Black Friday Discounts on Ultra Analog VA-3</title>
     <link href="https://bedroomproducersblog.com/2026/11/22/aas-ultra-analog-bpb-deal/" rel="alternate" />

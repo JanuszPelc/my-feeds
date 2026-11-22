@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Mercurial Tones Releases Siren Free Pitch Correction Plugin</h2>
+<a name="story-28237"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wondershare.com%2Ffilmora%2Farticle-trans-image%2F541%2Fpitch-correction-plugin-4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Mercurial Tones has released Siren, a free vocal pitch correction plugin featuring both automatic tuning and a graphical note editor. The software offers automatic key detection, a Natural mode that preserves subtle vocal movement, a Classic mode for traditional scale tuning, and a zero-retune option for hard-tuning effects.</p><p>Users can also access a dedicated graph page with a piano-roll editor to manually adjust individual notes, split or merge them, and modify parameters such as vibrato, drift, and volume. Siren supports VST3, AU, and AAX formats on macOS and Windows, and requires the Mercurial Tones Hub application for installation and activation.</p>
+<p>Nov 22 · <a href="https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/">bedroomproducersblog.com</a> | <a href="https://shop.mercurialtones.com/products/siren">shop.mercurialtones.com</a></p>
+<br clear="all" />
+
 <h2>Applied Acoustics Systems Offers Black Friday Discounts on Ultra Analog VA-3</h2>
 <a name="story-28238"><img src="https://wsrv.nl/?url=https%3A%2F%2Fguildwatergear.com%2Fcdn%2Fshop%2Fproducts%2FApplied_Acoustics_Systems_Ultra_Analog_VA-3_Synthesizer_GUI_02__48704.jpg%3Fv%3D1751492331%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Applied Acoustics Systems has discounted its Ultra Analog VA-3 virtual analog synthesizer to $89 from a regular price of $199. The Black Friday sale, available through ILIO from November 19 to December 3, also includes Pro Series instruments such as Chromaphone 3, Lounge Lizard EP-5, Multiphonics CV-3, String Studio VS-3, and Strum GS-2 at the same reduced price.</p><p>The sale encompasses individual sound packs for $19 and several bundles, including the Modeling Collection for $219 and The Integral for $399. Bedroom Producers Blog readers can access an additional 10% discount using a specific coupon code. The Ultra Analog VA-3 features circuit modeling to replicate analog components and provides two independent layers for stacking or splitting across the keyboard.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28191"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.icmp.ac.uk%2Fsites%2Fdefault%2Ffiles%2Fbackground-image%2Fvochlea_youtube.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Vochlea has released the Music Makers Suite, a Black Friday bundle that includes Dubler 2, DubBox, Senza, and the newly introduced Sintero drum synthesizer at a discounted price. The package also incorporates additional software licenses from Native Instruments and Dreamtonics while supplies last.</p><p>The newly launched Sintero is a 16-pad drum synth featuring 436 factory sounds, multi-layer sound design capabilities, and comprehensive effects chains for each pad. Available individually or within the bundle until December 2, the instrument operates as a VST3 and AU plugin on macOS and Windows systems.</p>
 <p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/vochlea-music-makers-suite/">bedroomproducersblog.com</a> | <a href="https://vochlea.com/products">vochlea.com</a></p>
-<br clear="all" />
-
-<h2>Minimal Audio Static Sample Pack Available for Free</h2>
-<a name="story-28187"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dixonbeats.com%2Fcdn%2Fshop%2Farticles%2F12-free-plugins-massive-black-friday-vst-deals-dont-miss-these-560947.jpg%3Fv%3D1700862565&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Minimal Audio is offering its Static sample pack, a collection of 180 dubstep-inspired audio files created in collaboration with Ternion Sound, as a free download during its Black Friday promotion. Normally valued at $10, the pack includes drum loops, individual hits, bass and synth loops, atmospheric recordings, and textures.</p><p>The 375 MB library consists of 24-bit, 48 kHz WAV files formatted for use across various digital audio workstations and samplers on macOS and Windows without requiring installation or activation. To claim the offer, users must add the item to their cart on the Minimal Audio website and sign into an account.</p>
-<p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/minimal-audio-static-free/">bedroomproducersblog.com</a> | <a href="https://www.minimal.audio/stream/samples/packs/static">minimal.audio</a></p>
 <br clear="all" />
 
 ---

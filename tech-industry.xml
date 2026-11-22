@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-22T04:05:00+00:00</updated>
+  <updated>2026-11-22T10:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Dell, HPE, Lenovo, and Supermicro Demand Higher Prices for AI Servers</title>
+    <link href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f" rel="alternate" />
+    <id>https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f::v241</id>
+    <published>2026-11-22T10:46:00+00:00</published>
+    <updated>2026-11-22T10:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F4ZEKSAGFCJNLVLOIDT5IG57SRM.jpg%3Fauth%3D0019929fc187564682943c3cae86e58adc1b739c55a64741d180fbe020a69cf1%26width%3D1080%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f">ft.com</a></small></p><hr/><p>AI server suppliers including Dell, HPE, Lenovo, and Supermicro are reportedly demanding substantially higher prices from buyers months after contracts were signed. The unexpected price increases are placing financial strain on trading firms and other corporate customers who had locked in earlier rates.</p><p>The cost adjustments reflect intense supply chain pressures driven by soaring demand for specialized artificial intelligence hardware and a tight memory component market. Major hardware vendors have increasingly sought to pass escalating component costs down to purchasers, occasionally modifying terms to reprice pending or existing orders.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F4ZEKSAGFCJNLVLOIDT5IG57SRM.jpg%3Fauth%3D0019929fc187564682943c3cae86e58adc1b739c55a64741d180fbe020a69cf1%26width%3D1080%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 15:58 UTC | #28228</small>]]></content>
+  </entry>
   <entry>
     <title>Toyota, Nissan, and Honda to Standardize Parts to Lower Production Costs</title>
     <link href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/" rel="alternate" />
