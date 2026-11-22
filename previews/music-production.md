@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>AngelicVibes Releases Pulsate Creative LFO and Rhythmic FX Plugin</h2>
+<a name="story-28248"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpulsate_ui_small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AngelicVibes has released Pulsate, a creative low-frequency oscillator and rhythmic effects plugin designed for macOS and Windows platforms. Available in AU and VST3 formats, the software is part of the company's Essential FX Series and features multiple modulation destinations for audio production.</p><p>The plugin includes over 140 built-in shapes, custom shape drawing capabilities, and dual-destination modulation controls. Users can apply the effect for sidechain pumping, rhythmic stutters, filter sweeps, and stereo panning movements, with adjustable parameters for rate, mix, and shape.</p>
+<p>Nov 22 · <a href="https://www.kvraudio.com/news/angelicvibes-releases-pulsate---creative-lfo-and-rhythmic-fx-plugin-au-and-vst3-70041?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70041">kvraudio.com</a> | <a href="https://www.angelicvibes.com/product/pulsate/">angelicvibes.com</a></p>
+<br clear="all" />
+
 <h2>fedDSP Releases KAMI Compressor Pedal Plugin Free Until December 2</h2>
 <a name="story-28235"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FFedDSP-KAMI-Free-700x394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer fedDSP is offering its KAMI compressor pedal plugin for macOS and Windows for free until December 2, 2026, normally priced at $39. The promotion provides a perpetual license with free updates and up to three activations.</p><p>The plugin combines compression and saturation with simplified pedal-style controls, featuring fixed attack and release times alongside a mix knob for parallel processing. An advanced panel includes high-pass and low-pass filters, a limiter, linked stereo or dual-mono processing, and a wet signal delay. It is available in VST3, AAX, and AU formats with native Intel and Apple Silicon support.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28197"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fb0n54qjqi67d1l7u7x3pzixe1fv5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rocksolid Audio has released Vintage Pre, a free valve preamp plugin for Windows and macOS designed to emulate the harmonic coloration and saturation of 1950s mixing consoles. The plugin features the developer's Real-time Circuit Simulation engine, which models individual valves, transformers, and power supply responses based on incoming audio signals.</p><p>Users can choose between a classic hardware-style interface and a modern interface equipped with an analyzer to monitor harmonic changes. Additional features include oversampling, input and output metering, and randomized component tolerances assigned to each user account. The plugin is available in VST3, AU, and AAX formats, and requires a free user account to disable demo mode limitations.</p>
 <p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/">bedroomproducersblog.com</a> | <a href="https://rocksolidaudio.co.uk/products/vintage-pre">rocksolidaudio.co.uk</a></p>
-<br clear="all" />
-
-<h2>accSone Updates Crusher-X to Version 12.32</h2>
-<a name="story-28205"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcx12poster.1791722469.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>accSone has released version 12.32 of crusher-X, a free maintenance update for its granular synthesis plug-in that introduces several bug fixes and workflow improvements. The update addresses GCO tuning behavior, curve and mapping editors, and macOS Audio Unit performance.</p><p>Key adjustments include aligning the GCO pitch display, preventing unwanted low rumbles during GCO-scanning, and ensuring mapped switches correctly send off messages as zero. Additionally, the macOS AU version now opens faster, lists programs in host preset menus, and supports parameter grouping, bypass, and MIDI output, while the VST3 version has received stability fixes for host output channel handling.</p>
-<p>Nov 21 · <a href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-32-70021?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70021">kvraudio.com</a></p>
 <br clear="all" />
 
 ---
