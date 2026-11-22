@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Audio Voltage Releases Anima Strings Vol. 1 and Updates Sonic Portraits Toolkit for u-he Zebra 3</h2>
+<a name="story-28250"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanima-strings-vol-1-box-1280x720.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audio Voltage has released Sonic Portraits - Anima Strings Vol. 1, a collection of 290 bowed-string presets designed for u-he Zebra 3 with MPE playability and NKS support. Each preset is built from oscillators, additive partials, comb filters, and modal resonators, utilizing custom modal profiles to shape instrument bodies.</p><p>Alongside the new soundset, the company has updated the Sonic Portraits - Toolkit with 275 new FX module presets, 25 FX Grid racks, and a new light interface skin named Atelier Blanc. Both products are available now for Windows and macOS, requiring u-he Zebra 3, with introductory pricing in effect through late 2026.</p>
+<p>Nov 22 · <a href="https://www.kvraudio.com/news/audio-voltage-releases-anima-strings-vol-1-and-updates-sonic-portraits---toolkit-for-u-he-zebra-3-69983?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69983">kvraudio.com</a> | <a href="https://audiovoltage.com/products/sound-design/anima-strings-vol-1/">audiovoltage.com</a></p>
+<br clear="all" />
+
 <h2>AngelicVibes Releases Pulsate Creative LFO and Rhythmic FX Plugin</h2>
 <a name="story-28248"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpulsate_ui_small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AngelicVibes has released Pulsate, a creative low-frequency oscillator and rhythmic effects plugin designed for macOS and Windows platforms. Available in AU and VST3 formats, the software is part of the company's Essential FX Series and features multiple modulation destinations for audio production.</p><p>The plugin includes over 140 built-in shapes, custom shape drawing capabilities, and dual-destination modulation controls. Users can apply the effect for sidechain pumping, rhythmic stutters, filter sweeps, and stereo panning movements, with adjustable parameters for rate, mix, and shape.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28200"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-2-01-landscape-ipad-pro-12-9-1024x768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Igor Vasiliev has released version 1.4 of ExoSphere, an ambient drift and soundscape application designed for iOS and macOS. The update introduces multi-channel output support for Audio Unit (AUv3) hosts, enabling users to route individual sound layers to dedicated channels alongside the main stereo mix.</p><p>This new routing capability allows producers and sound designers to process separate layers with distinct spatial or external effects and construct complex generative textures within a digital audio workstation. ExoSphere is available as a standalone and AUv3 instrument priced at $14.99.</p>
 <p>Nov 21 · <a href="https://www.kvraudio.com/news/igor-vasiliev-updates-exosphere---endless-ambient-drift-app-to-v1-4-for-ios-and-macos-69959?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69959">kvraudio.com</a></p>
-<br clear="all" />
-
-<h2>Rocksolid Audio Releases Vintage Pre Valve Preamp Plugin</h2>
-<a name="story-28197"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fb0n54qjqi67d1l7u7x3pzixe1fv5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rocksolid Audio has released Vintage Pre, a free valve preamp plugin for Windows and macOS designed to emulate the harmonic coloration and saturation of 1950s mixing consoles. The plugin features the developer's Real-time Circuit Simulation engine, which models individual valves, transformers, and power supply responses based on incoming audio signals.</p><p>Users can choose between a classic hardware-style interface and a modern interface equipped with an analyzer to monitor harmonic changes. Additional features include oversampling, input and output metering, and randomized component tolerances assigned to each user account. The plugin is available in VST3, AU, and AAX formats, and requires a free user account to disable demo mode limitations.</p>
-<p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/">bedroomproducersblog.com</a> | <a href="https://rocksolidaudio.co.uk/products/vintage-pre">rocksolidaudio.co.uk</a></p>
 <br clear="all" />
 
 ---
