@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Joshua Rogers Details Solutions for Google Feedburner Caching and Redirect Issues</h2>
+<a name="story-28257"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theedublogger.com%2Ffiles%2F2008%2F06%2Ffeedburnernew.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Joshua Rogers details technical workarounds for retrieving up-to-date posts and managing caching behaviors on Blogger feeds redirected through Google's Feedburner. By appending the ?redirect=false parameter to feed URLs, clients can bypass stale Feedburner results and access fresh Atom or RSS data directly from Blogger's underlying rendering servers.</p><p>Rogers analyzes how conditional requests behave under this setup, noting that If-Modified-Since headers trigger intermittent 304 Not Modified responses due to a brief one-second frontend cache, whereas If-None-Match successfully uses ETag headers only when responses are requested with gzip compression. He also highlights that standard Blogger feed redirects downgrade connections to unencrypted HTTP, exposing subscribers to potential interception risks, and provides a comparative reference for reliable polling configurations.</p>
+<p>Nov 22 · <a href="https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss">joshua.hu</a> | <a href="https://lobste.rs/s/nbtm5j/fixing_google_s_feedburner_problem">lobsters</a></p>
+<br clear="all" />
+
 <h2>Stullensimulator Virtual Sandwich Web App</h2>
 <a name="story-28242"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.itch.zone%2FaW1hZ2UvMjEyNDM0NC8xMjUxMjY2MS5qcGc%3D%2F794x1000%2F16Q1rc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Stullensimulator is a web application that allows users to construct virtual open-faced sandwiches, known as Stullen, using a variety of digital spreads and toppings.</p><p>The platform features ingredients ranging from traditional items like butter, jam, cheese, and ham to unconventional options such as gummy bears, offering an interactive digital sandwich-building experience.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28193"><img src="https://wsrv.nl/?url=https%3A%2F%2Fweb-assets.dd-static.net%2F42588%2F1776352002-harness-first-agents-harness-first-agents-f3.jpg%3Fformat%3Dauto%26fit%3Dbounds%26quality%3D75%26disable%3Dupscale%26width%3D1400%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Antithesis researchers Rohan Padhye and Hillel Wayne have demonstrated a formal verification paradigm for distributed systems, applying AI, TLA+, and trace validation to production Raft implementations in etcd and HashiCorp. By iteratively model-checking specifications, testing with the Antithesis platform, and constructing mathematical proofs in Lean and TLAPS, the team established core safety properties like Election Safety and Leader Completeness for both libraries.</p><p>The collaborative workflow uncovered several previously unknown and open bugs across both codebases, leading to patches that align the implementations with their formal models. While the verification process relies on certain environment assumptions and excludes certain features like complex membership changes or timing-dependent reads, the approach successfully bridges the gap between high-level specifications and production-grade concurrent software.</p>
 <p>Nov 21 · <a href="https://antithesis.com/blog/2026/verifying-formal-models/">antithesis.com</a> | <a href="https://lobste.rs/s/4qcr3k/verifying_formal_models_raft">lobsters</a></p>
-<br clear="all" />
-
-<h2>Alice v0.6.0 Released with Config Scripts and C Code Support</h2>
-<a name="story-28188"><img src="https://wsrv.nl/?url=https%3A%2F%2Focaml.org%2F_%2FYzA5ZWY4OTQ5Mjc1NjA4MmQ3NzAyNThmMWJmZmZlZTE%2Fimg%2Fhome%2Fvscode-preview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alice v0.6.0 introduces several new features designed to support porting packages from the Opam repository. Key additions include standard library built-ins management through the Alice.kdl manifest, basic support for mixing C code with OCaml, and custom configuration scripts executed at build time.</p><p>The update also adds a new --backend flag allowing packages to be built using either the native or bytecode compiler. Additionally, the release includes minor command-line improvements such as a --bin alias for alice new and build duration tracking, with installation supported via WinGet, Homebrew, NixOS, and a shell script.</p>
-<p>Nov 21 · <a href="https://www.alicecaml.org/blog/alice-v0-6-0/">alicecaml.org</a> | <a href="https://lobste.rs/s/18c0lq/alice_v0_6_0">lobsters</a></p>
 <br clear="all" />
 
 ---

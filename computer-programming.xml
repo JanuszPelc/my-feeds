@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-22T04:08:00+00:00</updated>
+  <updated>2026-11-22T14:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Joshua Rogers Details Solutions for Google Feedburner Caching and Redirect Issues</title>
+    <link href="https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss" rel="alternate" />
+    <id>https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss::v241</id>
+    <published>2026-11-22T14:36:00+00:00</published>
+    <updated>2026-11-22T14:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.theedublogger.com%2Ffiles%2F2008%2F06%2Ffeedburnernew.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss">joshua.hu</a> | <a href="https://lobste.rs/s/nbtm5j/fixing_google_s_feedburner_problem">lobsters</a></small></p><hr/><p>Developer Joshua Rogers details technical workarounds for retrieving up-to-date posts and managing caching behaviors on Blogger feeds redirected through Google's Feedburner. By appending the ?redirect=false parameter to feed URLs, clients can bypass stale Feedburner results and access fresh Atom or RSS data directly from Blogger's underlying rendering servers.</p><p>Rogers analyzes how conditional requests behave under this setup, noting that If-Modified-Since headers trigger intermittent 304 Not Modified responses due to a brief one-second frontend cache, whereas If-None-Match successfully uses ETag headers only when responses are requested with gzip compression. He also highlights that standard Blogger feed redirects downgrade connections to unencrypted HTTP, exposing subscribers to potential interception risks, and provides a comparative reference for reliable polling configurations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.theedublogger.com%2Ffiles%2F2008%2F06%2Ffeedburnernew.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 20:00 UTC | #28257</small>]]></content>
+  </entry>
   <entry>
     <title>Stullensimulator Virtual Sandwich Web App</title>
     <link href="https://stulle.app/" rel="alternate" />

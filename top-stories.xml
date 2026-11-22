@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-22T06:20:00+00:00</updated>
+  <updated>2026-11-22T20:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Lenovo Reports Q2 Revenue Growth Driven by AI Demand Amid Net Loss</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand::v240</id>
+    <published>2026-11-22T20:01:00+00:00</published>
+    <updated>2026-11-22T20:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.lenovonews.fiestic.com%2F2022%2F08%2F08015158%2FMicrosoftTeams-image-16.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand">bloomberg.com</a> | <a href="https://news.lenovo.com/pressroom/press-releases/q2-fy-2026-27/">news.lenovo.com</a></small></p><hr/><p>Lenovo reported Q2 revenue of $30.2 billion, a 48% increase year-over-year, fueled by strong demand for AI hardware and servers. Despite the top-line growth, the company posted a net loss of $640 million, which significantly exceeded analyst expectations of a $38 million loss and marked its first operating loss since 2017.</p><p>The decline in profitability is primarily attributed to rising costs for PC components. While the $640 million loss is a statutory figure under Hong Kong reporting rules influenced by non-cash warrant fair-value charges, the company reported positive adjusted net income and noted a 79% surge in AI-related sales as a cornerstone of its long-term strategy.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.lenovonews.fiestic.com%2F2022%2F08%2F08015158%2FMicrosoftTeams-image-16.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 16:56 UTC | #27986 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>HD Moore Study Reveals Widespread Prompt and Credential Leaks in AI Supply Chain</title>
     <link href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/" rel="alternate" />
