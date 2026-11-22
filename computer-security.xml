@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-21T13:01:00+00:00</updated>
+  <updated>2026-11-21T21:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>GnuPG Releases GPGME 2.3.1 to Fix Critical Security Vulnerability</title>
+    <link href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html" rel="alternate" />
+    <id>https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html::v241</id>
+    <published>2026-11-21T21:43:00+00:00</published>
+    <updated>2026-11-21T21:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fde56d15eef25.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html">lists.gnupg.org</a> | <a href="https://news.ycombinator.com/item?id=50587208">hacker news</a></small></p><hr/><p>GnuPG has released GPGME version 2.3.1 to address a critical double-free vulnerability, designated CVE-2026-129975, that affects all prior versions. Discovered by Johan Carlsson, the bug can be triggered by an OpenPGP key containing a crafted, exceptionally long user ID, potentially allowing data exfiltration or remote code execution.</p><p>Because GPGME is widely utilized as a shared library across mail clients, XMPP clients, Samba, Flatpak, and related tools, the developers strongly advise an immediate update. In addition to updating the GPGME library, GnuPG has released Gpg4win version 5.1.2 and provided patches for administrators unable to upgrade immediately.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fde56d15eef25.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 04:50 UTC | #28226</small>]]></content>
+  </entry>
   <entry>
     <title>Enroute Scales Git Infrastructure to 300,000 Repositories by Replacing Multi-Raft</title>
     <link href="https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft" rel="alternate" />
