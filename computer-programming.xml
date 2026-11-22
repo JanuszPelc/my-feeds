@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-21T23:11:00+00:00</updated>
+  <updated>2026-11-22T00:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>George Huebner Brings NixOS to Zhihe Computing A210 RISC-V Board</title>
+    <link href="https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/" rel="alternate" />
+    <id>https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/::v241</id>
+    <published>2026-11-22T00:31:00+00:00</published>
+    <updated>2026-11-22T00:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffeyor.sh%2Fblog%2Fnixos-bringup-on-an-alibaba-riscv-board%2Fa210.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/">feyor.sh</a> | <a href="https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board">lobsters</a></small></p><hr/><p>Developer George Huebner details the process of bringing up NixOS on a Zhihe Computing A210 RISC-V SoC board. The project involved cross-compiling packages from an x86_64 desktop, configuring a custom U-Boot distro boot routine, and fixing an OpenSBI vector-instruction trap caused by uninitialized execution states.</p><p>Additional work required passing the clk_ignore_unused kernel parameter to prevent boot hangs and adapting an upstream Linux graphics driver for the board's PowerVR GPU to support Mesa and Vulkan workloads. The resulting configuration successfully boots into a fully functional NixOS userspace capable of running hardware-accelerated graphics benchmarks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffeyor.sh%2Fblog%2Fnixos-bringup-on-an-alibaba-riscv-board%2Fa210.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 08:10 UTC | #28233</small>]]></content>
+  </entry>
   <entry>
     <title>Raph Levien Publishes Advice for the Next 100 Rust GUIs</title>
     <link href="https://linebender.org/blog/next-100-guis/" rel="alternate" />
