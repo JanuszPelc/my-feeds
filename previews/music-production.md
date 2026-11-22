@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>fedDSP Releases KAMI Compressor Pedal Plugin Free Until December 2</h2>
+<a name="story-28235"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FFedDSP-KAMI-Free-700x394.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer fedDSP is offering its KAMI compressor pedal plugin for macOS and Windows for free until December 2, 2026, normally priced at $39. The promotion provides a perpetual license with free updates and up to three activations.</p><p>The plugin combines compression and saturation with simplified pedal-style controls, featuring fixed attack and release times alongside a mix knob for parallel processing. An advanced panel includes high-pass and low-pass filters, a limiter, linked stereo or dual-mono processing, and a wet signal delay. It is available in VST3, AAX, and AU formats with native Intel and Apple Silicon support.</p>
+<p>Nov 22 · <a href="https://bedroomproducersblog.com/2026/11/22/feddsp-kami-free/">bedroomproducersblog.com</a> | <a href="https://feddsp.com/products/kami/">feddsp.com</a></p>
+<br clear="all" />
+
+<h2>MrMoustache Launches Black Friday Sale with Free Mr.Warmer Plugin</h2>
+<a name="story-28236"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoWsCpQoE2JQ%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audio software developer MrMoustache is offering a 30% discount across its paid mixing and mastering plugins for Black Friday, alongside a larger 50% discount available to newsletter subscribers. The promotion runs through November 30 and includes the free tube-modeling saturation plugin Mr.Warmer.</p><p>The developer's paid catalog features Mr.Saturator, Mr.Spectrum, the Tascam 388-inspired 388CH, and Mr.Motion, which includes an automated setup assistant function. All paid plugins support 64-bit VST3, AU, and AAX formats on Windows and macOS, and are available with 14-day trials.</p>
+<p>Nov 22 · <a href="https://bedroomproducersblog.com/2026/11/22/mrmoustache-black-friday/">bedroomproducersblog.com</a> | <a href="https://mrmoustache.es/en/plugins">mrmoustache.es</a></p>
+<br clear="all" />
+
 <h2>Mercurial Tones Releases Siren Free Pitch Correction Plugin</h2>
 <a name="story-28237"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.wondershare.com%2Ffilmora%2Farticle-trans-image%2F541%2Fpitch-correction-plugin-4.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mercurial Tones has released Siren, a free vocal pitch correction plugin featuring both automatic tuning and a graphical note editor. The software offers automatic key detection, a Natural mode that preserves subtle vocal movement, a Classic mode for traditional scale tuning, and a zero-retune option for hard-tuning effects.</p><p>Users can also access a dedicated graph page with a piano-roll editor to manually adjust individual notes, split or merge them, and modify parameters such as vibrato, drift, and volume. Siren supports VST3, AU, and AAX formats on macOS and Windows, and requires the Mercurial Tones Hub application for installation and activation.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28205"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcx12poster.1791722469.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>accSone has released version 12.32 of crusher-X, a free maintenance update for its granular synthesis plug-in that introduces several bug fixes and workflow improvements. The update addresses GCO tuning behavior, curve and mapping editors, and macOS Audio Unit performance.</p><p>Key adjustments include aligning the GCO pitch display, preventing unwanted low rumbles during GCO-scanning, and ensuring mapped switches correctly send off messages as zero. Additionally, the macOS AU version now opens faster, lists programs in host preset menus, and supports parameter grouping, bypass, and MIDI output, while the VST3 version has received stability fixes for host output channel handling.</p>
 <p>Nov 21 · <a href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-32-70021?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70021">kvraudio.com</a></p>
-<br clear="all" />
-
-<h2>Never Found Audio Releases VF-Mini Free Reverse Riser Plugin</h2>
-<a name="story-28190"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvf-mini-midnight.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Never Found Audio has released VF-Mini, a free VST3 and standalone reverse riser plugin for Windows designed for vocal processing. Serving as a lightweight version of the paid VF-Pro plugin, the software simplifies the traditional reverse reverb and riser workflow by automating manual audio manipulation steps to create smooth transitions before drops and vocal entries.</p><p>The plugin features adjustable controls for room size space and tempo-synced swell ranging from one-quarter to four bars. Designed primarily for electronic music production, VF-Mini is available for download without an account or license key, while its paid counterpart, VF-Pro, offers an expanded suite of 21 vocal effects.</p>
-<p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/">bedroomproducersblog.com</a> | <a href="https://neverfoundaudio.com/vf-mini">neverfoundaudio.com</a></p>
-<br clear="all" />
-
-<h2>Vochlea Releases Music Makers Suite Featuring Sintero Drum Synth</h2>
-<a name="story-28191"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.icmp.ac.uk%2Fsites%2Fdefault%2Ffiles%2Fbackground-image%2Fvochlea_youtube.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Vochlea has released the Music Makers Suite, a Black Friday bundle that includes Dubler 2, DubBox, Senza, and the newly introduced Sintero drum synthesizer at a discounted price. The package also incorporates additional software licenses from Native Instruments and Dreamtonics while supplies last.</p><p>The newly launched Sintero is a 16-pad drum synth featuring 436 factory sounds, multi-layer sound design capabilities, and comprehensive effects chains for each pad. Available individually or within the bundle until December 2, the instrument operates as a VST3 and AU plugin on macOS and Windows systems.</p>
-<p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/vochlea-music-makers-suite/">bedroomproducersblog.com</a> | <a href="https://vochlea.com/products">vochlea.com</a></p>
 <br clear="all" />
 
 ---
