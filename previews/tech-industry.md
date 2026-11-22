@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Reports Strong Revenue Amid Leadership and China Export Pressures</h2>
+<a name="story-28212"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2219673294.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>TechCrunch's Equity podcast discusses Nvidia's recent financial results, which featured soaring revenue and strong guidance, alongside ongoing controversy surrounding the ouster of former CEO Jensen Huang. Interim CEO Colette Kress also announced that Nvidia will stop selling H200 chips in China to comply with tightened U.S. export controls.</p><p>Despite strong financial performance and upbeat executive guidance, the company faces intense external pressure from prominent tech figures like Elon Musk, who have circulated petitions urging Huang's reinstatement. Meanwhile, analysts note that indirect sales to China through neighboring countries could still impact Nvidia's bottom line as trade restrictions tighten.</p>
+<p>Nov 21 · <a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Rhodium Group Projects China Tech Capex Will Double to $139 Billion in 2026</h2>
 <a name="story-28199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.stocktwits-cdn.com%2FScreenshot_2025_12_23_at_2_44_06_PM_png_8d96aeec46.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A report by Rhodium Group projects that China’s largest technology companies will more than double their capital expenditures to $139 billion by 2026. Despite this massive infrastructure push, AI lab revenues are expected to account for under 8 percent of that spending, highlighting a widening monetization gap.</p><p>This financial mismatch—compounded by negative free cash flows among hyperscalers—may pose a more significant hurdle to China's artificial intelligence sector than ongoing semiconductor export restrictions. The findings suggest that sustaining these high spending levels will require faster commercial adoption to bridge the gap between heavy investment and actual returns.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28123"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2023%2F05%2FNVIDIA-Computex-2023-_2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TechCrunch’s Equity podcast explores the ongoing fallout from Nvidia's ouster of CEO Jensen Huang, including the chipmaker's latest earnings report, its decision to halt H200 chip sales in China, and the board's rejection of calls to reinstate Huang. The hosts also examine Anthropic’s initial public offering and how it tests the artificial intelligence industry's circular financing model.</p><p>Additional topics discussed on the episode include Waymo suspending its national freeway rides following a California DMV order, Tesla opening personal orders for its Cybercab with geographic restrictions and a monthly fee, battery startup Our Next Energy going public, and Plural raising a $1.1 billion fund for European technology startups.</p>
 <p>Nov 20 · <a href="https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Bloomberg Analysis Finds Double-Digit Decline in AI-Exposed Job Listings in China</h2>
-<a name="story-28106"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgeng.jagran.com%2Fimages%2F2025%2F08%2F05%2Farticle%2Fimage%2Fartificial-intelligence_reuters-1754399937398.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>An analysis of nearly 10 million online job postings in China between 2021 and 2025 reveals a double-digit drop in listings for roles heavily exposed to artificial intelligence compared to less-exposed positions. Researchers utilized an AI-exposure index built by Peking University to evaluate hiring trends across major platforms such as Zhaopin, 51job, and Liepin.</p><p>The findings indicate that hiring for roles with high AI exposure fell by about 10 percentage points more than for lower-exposure positions across nearly every industry. This trend highlights growing pressure on China's labor market as widespread adoption of artificial intelligence reshapes employment opportunities.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

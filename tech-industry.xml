@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-21T17:54:00+00:00</updated>
+  <updated>2026-11-21T21:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Reports Strong Revenue Amid Leadership and China Export Pressures</title>
+    <link href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/::v241</id>
+    <published>2026-11-21T21:08:00+00:00</published>
+    <updated>2026-11-21T21:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2219673294.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/">techcrunch.com</a></small></p><hr/><p>TechCrunch's Equity podcast discusses Nvidia's recent financial results, which featured soaring revenue and strong guidance, alongside ongoing controversy surrounding the ouster of former CEO Jensen Huang. Interim CEO Colette Kress also announced that Nvidia will stop selling H200 chips in China to comply with tightened U.S. export controls.</p><p>Despite strong financial performance and upbeat executive guidance, the company faces intense external pressure from prominent tech figures like Elon Musk, who have circulated petitions urging Huang's reinstatement. Meanwhile, analysts note that indirect sales to China through neighboring countries could still impact Nvidia's bottom line as trade restrictions tighten.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2219673294.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 02:09 UTC | #28212</small>]]></content>
+  </entry>
   <entry>
     <title>Rhodium Group Projects China Tech Capex Will Double to $139 Billion in 2026</title>
     <link href="https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html?unlocked_article_code=1.SFE.jZ7m.KdwX3UsrRw18&amp;smid=url-share" rel="alternate" />
