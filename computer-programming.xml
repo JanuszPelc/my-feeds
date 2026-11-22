@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-22T14:36:00+00:00</updated>
+  <updated>2026-11-22T15:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>What If Netscape Did SSL the HTTP Way?</title>
+    <link href="https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/" rel="alternate" />
+    <id>https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/::v241</id>
+    <published>2026-11-22T15:19:00+00:00</published>
+    <updated>2026-11-22T15:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.semrush.com%2Fcdn-cgi%2Fimage%2Fwidth%3D1010%2Fblog%2Fuploads%2Fmedia%2Fda%2F13%2Fda13776e462d4f28e528ef19e8e42be2%2FEN-TLS-Handshake-FYI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/">owl.billpg.com</a> | <a href="https://lobste.rs/s/yhl0jk/what_if_netscape_did_ssl_http_way">lobsters</a></small></p><hr/><p>An essay explores a counterfactual scenario where Netscape implemented secure connections over standard HTTP headers and ports rather than creating a separate TLS protocol layer in 1995. It examines how this alternative approach could have natively enabled virtual hosting, simplified certificate authority adoption, and merged TLS handshake mechanisms with SSH.</p><p>The thought experiment illustrates how modern web standards like SNI and QUIC eventually solved many of the same architectural hurdles decades later. By analyzing the implications of handling security handshakes via content negotiation, the piece highlights the historical trade-offs between protocol layering and integrated web design.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.semrush.com%2Fcdn-cgi%2Fimage%2Fwidth%3D1010%2Fblog%2Fuploads%2Fmedia%2Fda%2F13%2Fda13776e462d4f28e528ef19e8e42be2%2FEN-TLS-Handshake-FYI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 22:23 UTC | #28261</small>]]></content>
+  </entry>
   <entry>
     <title>Joshua Rogers Details Solutions for Google Feedburner Caching and Redirect Issues</title>
     <link href="https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss" rel="alternate" />
