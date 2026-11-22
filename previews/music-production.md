@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Samba Godschynski Updates Integra-7 Editor to Version 1.0.4</h2>
+<a name="story-28249"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fspace-jam.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Samba Godschynski has released version 1.0.4 of the Integra-7 Editor, a native third-party software editor for Roland's Integra-7 sound module. The update introduces WLAN support, a virtual keyboard for playing and looping sounds directly within the editor, and extended copy-and-paste capabilities for parameter windows.</p><p>Additional improvements include side-by-side editing windows for tone partials, structure type diagrams for PCM-S selectors, and minor bug fixes. A promotional discount reduces the software's price until December 6, 2026.</p>
+<p>Nov 22 · <a href="https://www.kvraudio.com/news/samba-godschynski-updates-integra-7-editor-to-v1-0-4-70051?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70051">kvraudio.com</a> | <a href="https://www.beastybobs.com/i7/">beastybobs.com</a></p>
+<br clear="all" />
+
 <h2>Audio Voltage Releases Anima Strings Vol. 1 and Updates Sonic Portraits Toolkit for u-he Zebra 3</h2>
 <a name="story-28250"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanima-strings-vol-1-box-1280x720.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio Voltage has released Sonic Portraits - Anima Strings Vol. 1, a collection of 290 bowed-string presets designed for u-he Zebra 3 with MPE playability and NKS support. Each preset is built from oscillators, additive partials, comb filters, and modal resonators, utilizing custom modal profiles to shape instrument bodies.</p><p>Alongside the new soundset, the company has updated the Sonic Portraits - Toolkit with 275 new FX module presets, 25 FX Grid racks, and a new light interface skin named Atelier Blanc. Both products are available now for Windows and macOS, requiring u-he Zebra 3, with introductory pricing in effect through late 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28204"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Faalto-2-screenshot1-small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Madrona Labs has released Aalto version 2.0, a major update to its patchable software synthesizer rewritten from the ground up. The new version expands polyphony to eight voices, introduces an updated vactrol-model lowpass gate, features GPU-accelerated graphics, and adds native Linux support alongside CLAP plugin compatibility.</p><p>Aalto 2 maintains full compatibility with version 1 patches while incorporating a new patch browser, undo functionality, popup utilities with syncable LFOs, quad outputs, and MTS-ESP microtuning support. The instrument is available for macOS, Windows, and Linux in CLAP, VST3, and AU formats, priced at $99 with an introductory launch discount.</p>
 <p>Nov 21 · <a href="https://www.kvraudio.com/news/madrona-labs-releases-aalto-v2-0---linux-and-clap-support-69981?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69981">kvraudio.com</a> | <a href="https://www.madronalabs.com/products/aalto">madronalabs.com</a></p>
-<br clear="all" />
-
-<h2>Igor Vasiliev Updates ExoSphere App to Version 1.4 for iOS and macOS</h2>
-<a name="story-28200"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-2-01-landscape-ipad-pro-12-9-1024x768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Igor Vasiliev has released version 1.4 of ExoSphere, an ambient drift and soundscape application designed for iOS and macOS. The update introduces multi-channel output support for Audio Unit (AUv3) hosts, enabling users to route individual sound layers to dedicated channels alongside the main stereo mix.</p><p>This new routing capability allows producers and sound designers to process separate layers with distinct spatial or external effects and construct complex generative textures within a digital audio workstation. ExoSphere is available as a standalone and AUv3 instrument priced at $14.99.</p>
-<p>Nov 21 · <a href="https://www.kvraudio.com/news/igor-vasiliev-updates-exosphere---endless-ambient-drift-app-to-v1-4-for-ios-and-macos-69959?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69959">kvraudio.com</a></p>
 <br clear="all" />
 
 ---
