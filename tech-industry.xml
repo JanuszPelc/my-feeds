@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-22T11:13:00+00:00</updated>
+  <updated>2026-11-22T12:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Evaluating the Social Licence to Operate for AI Data Centres in Communities</title>
+    <link href="https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729" rel="alternate" />
+    <id>https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729::v241</id>
+    <published>2026-11-22T12:52:00+00:00</published>
+    <updated>2026-11-22T12:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771926%2Foriginal%2Ffile-20261113-64-kenhbk.JPG%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729">theconversation.com</a></small></p><hr/><p>Communities in New Brunswick and across Canada are increasingly grappling with how to define and measure the public support required before large artificial intelligence data centres can be built. Municipalities and residents are pushing for formal consultation processes and rezoning approvals to address local anxieties regarding environmental impacts, resource consumption, and community benefits.</p><p>Assessing public backing remains challenging because different mechanisms—such as municipal resolutions, town halls, and Indigenous consultations—represent distinct groups with conflicting interests. Furthermore, social licence is not a permanent guarantee, as operational realities like noise or resource strains can cause communities to withdraw support after a facility opens.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771926%2Foriginal%2Ffile-20261113-64-kenhbk.JPG%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 17:54 UTC | #28241</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Data Centers Projected to Rely Heavily on Fossil Fuels, Analysis Finds</title>
     <link href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/" rel="alternate" />
