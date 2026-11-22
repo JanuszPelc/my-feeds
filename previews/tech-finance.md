@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Amazon Nearing $7.5B Acquisition of AI Startup Decart</h2>
+<a name="story-28209"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fdims4%2Fdefault%2F062532c%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F1596x900%2B0%2B0%2Fresize%2F1318x743%21%2Fquality%2F90%2F%3Furl%3Dhttps%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb0%2Fad%2F8a93cf6644b096f1345bb54cbf03%2Fabout-amazon-inline-aws-trainium-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amazon is in advanced talks to acquire artificial intelligence startup Decart for approximately $7.5 billion. The proposed acquisition is intended to strengthen Amazon Web Services' computing capabilities and help the company compete with Nvidia in the AI infrastructure market.</p><p>Decart develops real-time generative AI models designed for high efficiency, which could integrate into Amazon's cloud offerings and custom silicon strategy. Negotiations are progressing rapidly, with a final deal potentially reached soon.</p>
+<p>Nov 21 · <a href="https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616">ft.com</a></p>
+<br clear="all" />
+
 <h2>Databricks in Early Talks to Raise New Funding at $225 Billion Valuation</h2>
 <a name="story-28170"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2021%2F02%2Fdatabricks.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Databricks is in early discussions to raise several billion dollars in new funding at a valuation of approximately $225 billion. The potential financing follows the company's closure of a $5 billion funding round in August that valued it at $190 billion.</p><p>If completed, the new valuation would represent an increase of nearly 20% from the August round, reflecting continued investor demand for artificial intelligence and data analytics infrastructure providers. The talks remain in their early stages and terms could still change.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg%2Fv1%2Ffill%2Fw_1000%2Ch_1000%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alphabet Inc. is returning to the Canadian debt market with a five-part offering aiming to raise at least C$5 billion ($3.5 billion). The deal includes both fixed- and floating-rate notes with maturities ranging from three to 40 years.</p><p>This follows the company's inaugural Canadian dollar bond sale six months prior, which raised C$8.5 billion as part of a broader multi-currency fundraising effort. The move reflects continued corporate debt issuance in foreign currencies to fund ongoing capital requirements and investments.</p>
 <p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Boltz Raises $110M Series A Funding for AI Drug Discovery</h2>
-<a name="story-28053"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.genengnews.com%2Fwp-content%2Fuploads%2F2025%2F12%2FGettyImages-2233341375-696x348.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>London-based AI drug discovery startup Boltz has raised $110 million in a Series A funding round led by Bessemer Venture Partners. The company develops open-source AI models designed to predict protein and drug candidate interactions, helping pharmaceutical researchers speed up drug development.</p><p>The round includes participation from existing backers such as Andreessen Horowitz, Amplify Partners, Zetta Venture Partners, Obvious Ventures, and Nvidia, alongside new investors including Greycroft, F-Prime Capital, Hummingbird, and Benchling. Boltz plans to use the capital to expand its team in London and scale its computing and data infrastructure.</p>
-<p>Nov 19 · <a href="https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/">tech.eu</a> | <a href="https://boltz.com/series-a">boltz.com</a></p>
 <br clear="all" />
 
 ---

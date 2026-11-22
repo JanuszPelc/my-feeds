@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-21T11:39:00+00:00</updated>
+  <updated>2026-11-21T21:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Amazon Nearing $7.5B Acquisition of AI Startup Decart</title>
+    <link href="https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616" rel="alternate" />
+    <id>https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616::v241</id>
+    <published>2026-11-21T21:41:00+00:00</published>
+    <updated>2026-11-21T21:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fdims4%2Fdefault%2F062532c%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F1596x900%2B0%2B0%2Fresize%2F1318x743%21%2Fquality%2F90%2F%3Furl%3Dhttps%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb0%2Fad%2F8a93cf6644b096f1345bb54cbf03%2Fabout-amazon-inline-aws-trainium-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616">ft.com</a></small></p><hr/><p>Amazon is in advanced talks to acquire artificial intelligence startup Decart for approximately $7.5 billion. The proposed acquisition is intended to strengthen Amazon Web Services' computing capabilities and help the company compete with Nvidia in the AI infrastructure market.</p><p>Decart develops real-time generative AI models designed for high efficiency, which could integrate into Amazon's cloud offerings and custom silicon strategy. Negotiations are progressing rapidly, with a final deal potentially reached soon.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fdims4%2Fdefault%2F062532c%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F1596x900%2B0%2B0%2Fresize%2F1318x743%21%2Fquality%2F90%2F%3Furl%3Dhttps%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb0%2Fad%2F8a93cf6644b096f1345bb54cbf03%2Fabout-amazon-inline-aws-trainium-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 04:00 UTC | #28209</small>]]></content>
+  </entry>
   <entry>
     <title>Databricks in Early Talks to Raise New Funding at $225 Billion Valuation</title>
     <link href="https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?st=f6tFmc&amp;reflink=desktopwebshare_permalink" rel="alternate" />
