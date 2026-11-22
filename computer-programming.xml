@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-22T00:31:00+00:00</updated>
+  <updated>2026-11-22T04:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Stullensimulator Virtual Sandwich Web App</title>
+    <link href="https://stulle.app/" rel="alternate" />
+    <id>https://stulle.app/::v241</id>
+    <published>2026-11-22T04:08:00+00:00</published>
+    <updated>2026-11-22T04:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.itch.zone%2FaW1hZ2UvMjEyNDM0NC8xMjUxMjY2MS5qcGc%3D%2F794x1000%2F16Q1rc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://stulle.app/">stulle.app</a> | <a href="https://news.ycombinator.com/item?id=50594911">hacker news</a></small></p><hr/><p>Stullensimulator is a web application that allows users to construct virtual open-faced sandwiches, known as Stullen, using a variety of digital spreads and toppings.</p><p>The platform features ingredients ranging from traditional items like butter, jam, cheese, and ham to unconventional options such as gummy bears, offering an interactive digital sandwich-building experience.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.itch.zone%2FaW1hZ2UvMjEyNDM0NC8xMjUxMjY2MS5qcGc%3D%2F794x1000%2F16Q1rc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 14:26 UTC | #28242</small>]]></content>
+  </entry>
   <entry>
     <title>George Huebner Brings NixOS to Zhihe Computing A210 RISC-V Board</title>
     <link href="https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/" rel="alternate" />

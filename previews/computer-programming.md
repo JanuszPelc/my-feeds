@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Stullensimulator Virtual Sandwich Web App</h2>
+<a name="story-28242"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.itch.zone%2FaW1hZ2UvMjEyNDM0NC8xMjUxMjY2MS5qcGc%3D%2F794x1000%2F16Q1rc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Stullensimulator is a web application that allows users to construct virtual open-faced sandwiches, known as Stullen, using a variety of digital spreads and toppings.</p><p>The platform features ingredients ranging from traditional items like butter, jam, cheese, and ham to unconventional options such as gummy bears, offering an interactive digital sandwich-building experience.</p>
+<p>Nov 22 · <a href="https://stulle.app/">stulle.app</a> | <a href="https://news.ycombinator.com/item?id=50594911">hacker news</a></p>
+<br clear="all" />
+
 <h2>George Huebner Brings NixOS to Zhihe Computing A210 RISC-V Board</h2>
 <a name="story-28233"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffeyor.sh%2Fblog%2Fnixos-bringup-on-an-alibaba-riscv-board%2Fa210.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer George Huebner details the process of bringing up NixOS on a Zhihe Computing A210 RISC-V SoC board. The project involved cross-compiling packages from an x86_64 desktop, configuring a custom U-Boot distro boot routine, and fixing an OpenSBI vector-instruction trap caused by uninitialized execution states.</p><p>Additional work required passing the clk_ignore_unused kernel parameter to prevent boot hangs and adapting an upstream Linux graphics driver for the board's PowerVR GPU to support Mesa and Vulkan workloads. The resulting configuration successfully boots into a fully functional NixOS userspace capable of running hardware-accelerated graphics benchmarks.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28188"><img src="https://wsrv.nl/?url=https%3A%2F%2Focaml.org%2F_%2FYzA5ZWY4OTQ5Mjc1NjA4MmQ3NzAyNThmMWJmZmZlZTE%2Fimg%2Fhome%2Fvscode-preview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Alice v0.6.0 introduces several new features designed to support porting packages from the Opam repository. Key additions include standard library built-ins management through the Alice.kdl manifest, basic support for mixing C code with OCaml, and custom configuration scripts executed at build time.</p><p>The update also adds a new --backend flag allowing packages to be built using either the native or bytecode compiler. Additionally, the release includes minor command-line improvements such as a --bin alias for alice new and build duration tracking, with installation supported via WinGet, Homebrew, NixOS, and a shell script.</p>
 <p>Nov 21 · <a href="https://www.alicecaml.org/blog/alice-v0-6-0/">alicecaml.org</a> | <a href="https://lobste.rs/s/18c0lq/alice_v0_6_0">lobsters</a></p>
-<br clear="all" />
-
-<h2>Bryan O&#x27;Sullivan Releases jj-musubi Live-Sync Tool for Jujutsu</h2>
-<a name="story-28174"><img src="https://wsrv.nl/?url=https%3A%2F%2Frenerocks.ai%2Fjj.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bryan O'Sullivan has announced jj-musubi, a new source control tool designed to live-sync Jujutsu repositories across multiple machines. Operating on a lightweight hub-and-daemon architecture over SSH, the tool automatically propagates snapshots, commits, rebases, and fetches as a user works.</p><p>Built to function similarly to Meta's Commit Cloud and internal Google servers, jj-musubi leverages Jujutsu's existing workspace machinery to handle concurrent edits safely without overwriting working copies. It also supports ephemeral virtual machine agents via a leasing system, and its network protocol safety properties have been verified using Lean proofs and extensive testing.</p>
-<p>Nov 20 · <a href="https://www.serpentine.com/posts/2026/announcing-jj-musubi/">serpentine.com</a> | <a href="https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for">lobsters</a></p>
 <br clear="all" />
 
 ---
