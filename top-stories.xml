@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-21T22:12:00+00:00</updated>
+  <updated>2026-11-22T02:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Lean and Mathlib Communities Verify Levent Alpöge’s Proof of the Riemann Hypothesis</title>
+    <link href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/" rel="alternate" />
+    <id>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/::v241</id>
+    <published>2026-11-22T02:56:00+00:00</published>
+    <updated>2026-11-22T02:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcacm.acm.org%2Fwp-content%2Fuploads%2F2026%2F02%2F3750038_fig02.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">leanprover-community.github.io</a> | <a href="https://news.ycombinator.com/item?id=50589618">hacker news</a></small></p><hr/><p>The Lean and Mathlib communities, along with the Lean FRO and the Mathlib Initiative, have jointly certified that Levent Alpöge's 17-million-line Lean library proving the Riemann Hypothesis is correct. Following its release on November 20, 2026, the community compiled the codebase, confirmed that the proved theorem matches Mathlib's statement of the Riemann Hypothesis, and verified the proof using several independent proof checkers.</p><p>The verification process satisfied four core criteria, including checking the proof against Lean's official kernel and independent checkers like con-leche and con-ron, which are backed by formal relative consistency proofs. The codebase relies solely on Mathlib, and the verified proof export was evaluated outside the scope of the main source files to ensure security against potential malicious code.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcacm.acm.org%2Fwp-content%2Fuploads%2F2026%2F02%2F3750038_fig02.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 23:55 UTC | #28219 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>C Implementation of Android Binder Driver Removed from Linux Kernel</title>
     <link href="https://lwn.net/Articles/1102982/" rel="alternate" />

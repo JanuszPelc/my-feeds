@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-21T21:12:00+00:00</updated>
+  <updated>2026-11-21T21:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>miniPG Tool Packages PostgreSQL as a Single Binary</title>
+    <link href="https://progrium.xyz/articles/2026/single-binary-postgres" rel="alternate" />
+    <id>https://progrium.xyz/articles/2026/single-binary-postgres::v241</id>
+    <published>2026-11-21T21:40:00+00:00</published>
+    <updated>2026-11-21T21:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F2.bp.blogspot.com%2F-jzkX76H8ZbY%2FWkt0V4XBZfI%2FAAAAAAAAE5s%2Fvo2h2N7fkQMj8pra_6XwO5Tn8csjrQfngCLcBGAs%2Fs1600%2FPostgreSQL%2BBasic%2BArchitecure.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://progrium.xyz/articles/2026/single-binary-postgres">progrium.xyz</a> | <a href="https://lobste.rs/s/pvylnk/how_i_got_postgres_into_single_binary">lobsters</a></small></p><hr/><p>Jeff Lindsay has released miniPG, an open-source tool that embeds a full PostgreSQL server and client into a single executable, providing an SQLite-like workflow for local development, testing, and self-hosted applications. Rather than requiring external dependencies like Docker or a running server daemon, users can point the utility directly at a local directory to manage and query a real PostgreSQL database.</p><p>The utility bypasses the single-connection bottlenecks of WebAssembly implementations and the heavy startup overhead of virtual machines by utilizing the Hyper9 runtime to execute Alpine Linux PostgreSQL binaries cross-platform with sub-second startup times. In addition to serving as an interactive command-line interface, miniPG can act as a standard server daemon or launch external programs with environment variables pre-configured for the embedded database instance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F2.bp.blogspot.com%2F-jzkX76H8ZbY%2FWkt0V4XBZfI%2FAAAAAAAAE5s%2Fvo2h2N7fkQMj8pra_6XwO5Tn8csjrQfngCLcBGAs%2Fs1600%2FPostgreSQL%2BBasic%2BArchitecure.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 02:56 UTC | #28225</small>]]></content>
+  </entry>
   <entry>
     <title>Valkey 9.2 Replaces Skiplists with B+ Trees for Sorted Sets</title>
     <link href="https://valkey.io/blog/from-skiplist-to-b+tree/" rel="alternate" />
