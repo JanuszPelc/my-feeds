@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-21T21:45:00+00:00</updated>
+  <updated>2026-11-21T23:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Developer Recounts How Mojang Used His Minecraft Server Scanner to Ban Servers</title>
+    <link href="https://sipacid.com/blog/port-scanning-for-mojang/" rel="alternate" />
+    <id>https://sipacid.com/blog/port-scanning-for-mojang/::v241</id>
+    <published>2026-11-21T23:41:00+00:00</published>
+    <updated>2026-11-21T23:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsipacid.com%2F_astro%2Finvestigation-tool.B5CzpuYH_Z12RXIP.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://sipacid.com/blog/port-scanning-for-mojang/">sipacid.com</a> | <a href="https://lobste.rs/s/et5q0q/port_scanning_for_mojang">lobsters</a></small></p><hr/><p>Developer sipacid details how Mojang utilized data from his custom Minecraft server scanner, Slowstack, to locate and ban servers violating usage guidelines over inappropriate server descriptions. After noticing a @mojang.com email address register on the platform, sipacid helped Mojang staff debug their investigation tools before discovering the data was being used to issue bans via users' internet service providers.</p><p>The author verified the connection by cross-referencing server logs and noting that test servers set up with minor inappropriate descriptions were banned within a week. After Mojang later requested expansion into Bedrock edition scanning and data exports, sipacid shut down the project with short notice, criticizing the company for relying on hobbyist port scanners rather than built-in telemetry.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsipacid.com%2F_astro%2Finvestigation-tool.B5CzpuYH_Z12RXIP.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 07:16 UTC | #28232</small>]]></content>
+  </entry>
   <entry>
     <title>HD Moore Study Reveals Widespread Prompt and Credential Leaks in AI Supply Chain</title>
     <link href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/" rel="alternate" />
