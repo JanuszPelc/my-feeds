@@ -8,6 +8,17 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Valkey 9.2 Replaces Skiplists with B+ Trees for Sorted Sets</h2>
+<a name="story-28224"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20240612133138%2Fb-plus-tree-in-c.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Valkey 9.2 replaces its traditional skiplist implementation for large sorted sets with a high-fanout B+ tree variant named fbtree. This structural shift addresses the high memory overhead and cache-miss penalties inherent to skiplists by packing multiple elements into contiguous leaf nodes and utilizing SIMD-accelerated feature lookups.</p><p>Internal benchmarks show that fbtree reduces per-member memory overhead by 36 to 43 percent for large sorted sets while significantly improving throughput for update-heavy operations like ZADD and ZREM. While sorted set commands and behaviors remain functionally unchanged, the OBJECT ENCODING command now reports btree instead of skiplist.</p>
+<p>Nov 21 · <a href="https://valkey.io/blog/from-skiplist-to-b+tree/">valkey.io</a> | <a href="https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50534387">hacker news</a></p>
+<br clear="all" />
+
+<h2>LookAtMyQuant Quantization Compiler Released on GitHub</h2>
+<p>LookAtMyQuant is a quantization compiler that evaluates compression damage for individual model components to fit models within size budgets while minimizing Kullback-Leibler divergence. The MIT-licensed project provides an Apple Silicon MLX runtime alongside specialized compression recipes for large language models including Qwen and Inkling-2-Mini.</p><p>The compiler employs post-training quantization, trellis codes, row-specific bit allocation based on Fisher information, and multi-step distillation. Packed builds demonstrate strong benchmark performance and memory efficiency relative to standard alternatives, while the repository supplies command-line utilities and Python APIs for local deployment and evaluation.</p>
+<p>Nov 21 · <a href="https://github.com/ShinMegamiBoson/lookatmyquant">github.com</a> | <a href="https://news.ycombinator.com/item?id=50591853">hacker news</a></p>
+<br clear="all" />
+
 <h2>Ben C Demonstrates Managing Todo Items as Empty Commits in Jujutsu</h2>
 <a name="story-28221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbwc9876.dev%2F_astro%2Fjj-todo-tree.CbZTp8jv_2gvqxu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Ben C outlines an alternative workflow for tracking task lists in software projects by using empty changes in the Jujutsu (JJ) version control system instead of traditional Markdown files. By creating a branch of empty commits under a private base commit, tasks can be managed, structured hierarchically, and rebased onto active working branches when ready.</p><p>This approach avoids merge conflicts due to the lack of file content in the commits and integrates with Jujutsu's configuration options to prevent accidental pushing of private tasks to remote repositories. The workflow allows developers to keep their task lists directly inside their version control history while ensuring the items remain local and hidden from public branches.</p>
@@ -84,17 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28135"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnotifire.in%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fnotifire-in.s3.ap-south-1.amazonaws.com%2Fnews%2F2026-06-13%2Fec97456636810c8d.jpg%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Drew DeVault has announced the release of Vim Classic 8.3.1, marking the second release of the stable, long-term support text editor fork maintained without generative AI tools. The update includes applicable Vim patches up to version 8.2.3237, incorporates numerous bug fixes and plugin compatibility improvements, and removes Python 2 support.</p><p>Distributed as charityware with continued support for child welfare in Uganda, the new version is available as a signed tarball hosted on SourceHut. The project encourages users to subscribe to the announcement mailing list for future updates and to contribute backports and feedback.</p>
 <p>Nov 20 · <a href="https://vim-classic.org/news/vim-8.3.1-released.html">vim-classic.org</a> | <a href="https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released">lobsters</a></p>
-<br clear="all" />
-
-<h2>David Bushell Adds Visited Link Styling to Personal Blog</h2>
-<a name="story-28134"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.ghacks.net%2Fwp-content%2Fuploads%2F2012%2F01%2Foverride-visited-links-colors.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Web developer David Bushell has updated his personal blog to style visited links in the body copy using the traditional purple color. Prompted by a discussion initiated by fellow blogger Kev Quirk, Bushell reviewed accessibility standards and browser implementation details before deciding to adopt the styling enhancement.</p><p>While WCAG 2.2 guidelines do not mandate differentiating visited links, they provide an exception for color-only differentiation due to browser privacy constraints and strict style limitations. Bushell notes that the subtle contrast between unvisited and visited states improves navigation without sacrificing readability, aligning with implementations found on major platforms like Wikipedia and GOV.UK.</p>
-<p>Nov 20 · <a href="https://dbushell.com/2026/11/16/visited-links/">dbushell.com</a> | <a href="https://lobste.rs/s/hcahbx/visited_links_are_purple">lobsters</a></p>
-<br clear="all" />
-
-<h2>Ethan Lowman Publishes Jujutsu Version Control Primer for Git Users</h2>
-<p>Ethan Lowman has published an introductory guide to the Jujutsu (jj) version control system tailored for developers familiar with Git. The guide explains how jj can be used side-by-side with existing Git repositories, offering an alternative model that uses stable change IDs, automatic rebasing, and branchless commit graphs to reduce workflow friction.</p><p>Key sections of the primer cover installation, setup, creating and evolving changes, revsets for querying the commit graph, and navigating between working copies and conflicts. By automating tasks like rebasing and snapshotting working copies, jj aims to keep version control bookkeeping out of the developer's working memory.</p>
-<p>Nov 20 · <a href="https://ethanlowman.com/posts/jj-primer/">ethanlowman.com</a> | <a href="https://lobste.rs/s/i6dn7g/jujutsu_primer">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50570628">hacker news</a></p>
 <br clear="all" />
 
 ---
