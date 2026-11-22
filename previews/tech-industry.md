@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Rhodium Group Projects China Tech Capex Will Double to $139 Billion in 2026</h2>
+<a name="story-28199"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.stocktwits-cdn.com%2FScreenshot_2025_12_23_at_2_44_06_PM_png_8d96aeec46.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A report by Rhodium Group projects that China’s largest technology companies will more than double their capital expenditures to $139 billion by 2026. Despite this massive infrastructure push, AI lab revenues are expected to account for under 8 percent of that spending, highlighting a widening monetization gap.</p><p>This financial mismatch—compounded by negative free cash flows among hyperscalers—may pose a more significant hurdle to China's artificial intelligence sector than ongoing semiconductor export restrictions. The findings suggest that sustaining these high spending levels will require faster commercial adoption to bridge the gap between heavy investment and actual returns.</p>
+<p>Nov 21 · <a href="https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html?unlocked_article_code=1.SFE.jZ7m.KdwX3UsrRw18&smid=url-share">nytimes.com</a> | <a href="https://rhg.com/research/examining-chinas-ai-financing/">rhg.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y13rcj/chinas_ai_ambitions_are_running_into_a_money/">r/technology</a></p>
+<br clear="all" />
+
 <h2>SoftBank&#x27;s Masayoshi Son Explores $1 Trillion SK Hynix Buyout</h2>
 <a name="story-28178"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.livemint.com%2Frf%2FImage-621x414%2FLiveMint%2FPeriod2%2F2017%2F05%2F23%2FPhotos%2FProcessed%2Fsoftbank-kUuH--621x414%40LiveMint.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SoftBank CEO Masayoshi Son recently approached Wall Street institutions to explore financing for a potential $1 trillion acquisition of the South Korean memory chip manufacturer SK Hynix. The deal was characterized as a "moonshot" move to secure a massive foothold in the semiconductor market. SoftBank has since stated that the acquisition is no longer under active consideration.</p><p>The exploration of such a large-scale deal highlights Son's focus on aggressive AI-related infrastructure despite SoftBank's current balance-sheet pressures. The reported interest underscores the strategic importance of memory chips for AI development, though the company is currently pivoting away from this specific transaction.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28106"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgeng.jagran.com%2Fimages%2F2025%2F08%2F05%2Farticle%2Fimage%2Fartificial-intelligence_reuters-1754399937398.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An analysis of nearly 10 million online job postings in China between 2021 and 2025 reveals a double-digit drop in listings for roles heavily exposed to artificial intelligence compared to less-exposed positions. Researchers utilized an AI-exposure index built by Peking University to evaluate hiring trends across major platforms such as Zhaopin, 51job, and Liepin.</p><p>The findings indicate that hiring for roles with high AI exposure fell by about 10 percentage points more than for lower-exposure positions across nearly every industry. This trend highlights growing pressure on China's labor market as widespread adoption of artificial intelligence reshapes employment opportunities.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Samsung Names Choi Won-Joon Head of MX Business Unit</h2>
-<a name="story-28101"><img src="https://wsrv.nl/?url=https%3A%2F%2F9to5google.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2026%2F07%2Fsamsung-won-joon-choi-3.jpg%3Fquality%3D82%26strip%3Dall%26w%3D1600&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Samsung has appointed Choi Won-Joon as the head of its MX (mobile experience) business unit, succeeding TM Roh. Choi, who served as the unit's Chief Operating Officer since March 2025, oversaw the recent launches of the Galaxy S26 and Galaxy Z Fold 8.</p><p>TM Roh will remain one of Samsung's two CEOs but will relinquish his specific responsibilities within the mobile division. Choi is expected to lead innovation in foldable phones, on-device AI, and wearables, leveraging his extensive background in next-generation and strategic product development.</p>
-<p>Nov 20 · <a href="https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/">9to5google.com</a> | <a href="https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5">news.samsung.com</a></p>
 <br clear="all" />
 
 ---
