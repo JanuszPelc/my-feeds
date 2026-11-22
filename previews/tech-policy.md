@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Tech Workers and Matchmakers Report Rising Concerns Over Corporate Espionage Honeypots</h2>
+<a name="story-28222"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.visiontimes.com%2F2024%2F06%2Fnvidia-ceo-jensen-huang_2023_GettyImages-1808364763-1068x764.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Matchmakers and cybersecurity experts report that tech workers and executives are increasingly concerned about romantic espionage, or honeypots, used to extract corporate secrets. These anxieties have amplified following high-profile incidents, such as the reported relationship involving Nvidia CEO Jensen Huang and a suspected intelligence asset.</p><p>While security consultants note that real-world espionage operations typically rely on long-term grooming rather than quick bar encounters, heightened distrust has increased demand for high-end matchmaking background checks. Amid these growing security concerns, some digital relationship platforms have begun marketing specialized AI companions featuring zero-espionage guarantees.</p>
+<p>Nov 22 · <a href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/">wired.com</a></p>
+<br clear="all" />
+
 <h2>Etsy Updates Terms of Use to Allow AI Training on Seller Content</h2>
 <a name="story-28163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHXWKrZ2WUAE8F1O%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Numerous longtime Etsy sellers are leaving the online marketplace following an update to the platform's terms of use. The revised policy specifies that Etsy and its third-party partners are permitted to use sellers' content and listings for artificial intelligence training.</p><p>The changes have sparked significant backlash and an exodus among creators who object to having their creative work used to train AI models without a clear, straightforward opt-out mechanism. While Etsy states that the policy is intended to improve platform features and tools, many vendors remain concerned about ownership and consent.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28038"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-images.ctmedia.io%2Fmedia%2Farticle-covers%2F2026%2F11%2F01M7R2ZP1K5NGA1TMSVV7XWE7F%2Fhi-the-aftermath-of-binance-consequences-of-cryptos-ongoing-regulatory-process.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance has obtained a $6.5 billion freezing order from an Abu Dhabi court directed at unidentified perpetrators involved in the October 29 cyberattack on the cryptocurrency exchange. The legal action forms part of ongoing efforts by the platform to recover assets stolen during the security breach.</p><p>The October 29 incident resulted in the theft of billions of dollars in digital assets from the exchange's hot wallets. Law enforcement and blockchain investigators have been working to trace and freeze the stolen funds across various jurisdictions.</p>
 <p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-18/binance-secures-6-5-billion-freezing-order-from-abu-dhabi-court">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>UK Tribunal Rules Home Office Must Acknowledge Secret Apple Technical Capability Notice</h2>
-<a name="story-28028"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.theintelligent.net%2Fs3fs-public%2Fai-generated%2Fapple-challenges-uk-demand-for-access-to-encrypted-icloud-da-1787417832.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The UK Investigatory Powers Tribunal has ruled against the Home Office, deciding that the government must acknowledge issuing a secret technical capability notice to Apple intended to bypass its encryption. Privacy advocates praised the decision as an important victory for accountability, transparency, and online security.</p><p>The ruling marks a significant development in the ongoing legal battle between tech firms and government surveillance authorities over user data protection and encryption standards. The tribunal rejected the government's arguments for maintaining blanket secrecy surrounding the notice.</p>
-<p>Nov 19 · <a href="https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729">ft.com</a> | <a href="https://www.judiciary.uk/judgments/apple-inc-v-home-secretary-and-others/">judiciary.uk</a> | <a href="https://www.reddit.com/r/technology/comments/1y0xjt4/uk_government_forced_to_disclose_secret_apple/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50562113">hacker news</a></p>
 <br clear="all" />
 
 ---

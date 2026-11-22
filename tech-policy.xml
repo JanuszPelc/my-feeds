@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-20T22:12:00+00:00</updated>
+  <updated>2026-11-22T00:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Tech Workers and Matchmakers Report Rising Concerns Over Corporate Espionage Honeypots</title>
+    <link href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/" rel="alternate" />
+    <id>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/::v241</id>
+    <published>2026-11-22T00:32:00+00:00</published>
+    <updated>2026-11-22T00:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.visiontimes.com%2F2024%2F06%2Fnvidia-ceo-jensen-huang_2023_GettyImages-1808364763-1068x764.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/">wired.com</a></small></p><hr/><p>Matchmakers and cybersecurity experts report that tech workers and executives are increasingly concerned about romantic espionage, or honeypots, used to extract corporate secrets. These anxieties have amplified following high-profile incidents, such as the reported relationship involving Nvidia CEO Jensen Huang and a suspected intelligence asset.</p><p>While security consultants note that real-world espionage operations typically rely on long-term grooming rather than quick bar encounters, heightened distrust has increased demand for high-end matchmaking background checks. Amid these growing security concerns, some digital relationship platforms have begun marketing specialized AI companions featuring zero-espionage guarantees.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.visiontimes.com%2F2024%2F06%2Fnvidia-ceo-jensen-huang_2023_GettyImages-1808364763-1068x764.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 10:20 UTC | #28222</small>]]></content>
+  </entry>
   <entry>
     <title>Etsy Updates Terms of Use to Allow AI Training on Seller Content</title>
     <link href="https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html" rel="alternate" />
