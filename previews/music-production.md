@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Helgoboss Updates Playtime Clip Launcher for REAPER to v2.20</h2>
+<a name="story-28247"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fplaytime-screenshot-dark.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Helgoboss Projects has released version 2.20 of Playtime, a major update for its clip launching plugin for REAPER. The update introduces adjustable clip speed and tempo, waveform editing, zoom capabilities, improved audio recording, and enhanced Linux support.</p><p>Additionally, the version adds a new browser supporting plugins, presets, FX chains, track templates, and NKS preset previews. The update is free for existing Playtime 2 users, and the developer is offering a 25% discount on the software through November 30, 2026.</p>
+<p>Nov 22 · <a href="https://www.kvraudio.com/news/helgoboss-updates-playtime-clip-launcher-for-reaper-to-v2-20-69976?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69976">kvraudio.com</a> | <a href="https://www.helgoboss.org/projects/playtime">helgoboss.org</a></p>
+<br clear="all" />
+
 <h2>NovoNotes Releases SnapClip Pro Clipper and Loudness Enhancer Plugin</h2>
 <a name="story-28206"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsnapclip-pro-1-0-0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NovoNotes has released SnapClip Pro, a mastering-grade clipper and loudness enhancement plug-in designed for professional bus and master processing. The software combines a bit-transparent clipper with a modern implementation of a classic loudness enhancement curve to increase harmonic density and RMS levels while preserving the clip ceiling.</p><p>The plug-in features up to 64x oversampling, Anti-Derivative Antialiasing, switchable linear and minimum phase modes, and comprehensive monitoring tools including loudness-matched bypass and a Delta listening mode. Available for macOS and Windows in VST3, AU, and AAX formats, SnapClip Pro includes a standard SnapClip license and is offered at an introductory price through November 30, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28137"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fdwe0s7lh54fhlss8u1oy2djf3h5a&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Plugin Boutique has added the Roland JUNO-60 Chorus and the Universal Audio Cooper Time Cube Delay to its lineup of promotional gifts available with qualifying purchases. The JUNO-60 Chorus is included free with any paid purchase, while the Cooper Time Cube requires a minimum spend of $49, €49, or £49.</p><p>Customers can select one free gift per transaction from available options, which also include Reaktor Prism, UVI Tape Suite, and Evolve Elastic Lite. The promotion runs alongside discounted software sales on items like Baby Audio Crystalline, UJAM Cinedream, UAD Vibe Analog Machines, and SSL Native Bus Compressor 2.</p>
 <p>Nov 20 · <a href="https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/articles/2073?a_aid=5241029371df5">pluginboutique.com</a></p>
-<br clear="all" />
-
-<h2>Sonarworks Launches Black Friday Sale Offering Up to 60% Off Software</h2>
-<a name="story-28138"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf1.zzounds.com%2Fmedia%2Fproductmedia%2Ffit%2C2018by3200%2Fquality%2C85%2FSONARWORKS_HEADPHONES_resized_838115-4d1056229fd2da4818489e56da863296.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sonarworks has launched its Black Friday sale, offering discounts of up to 60% across its audio calibration, virtual monitoring, and voice-processing software lineup. The promotion, which runs through November 30, 2026, includes reduced pricing on SoundID Reference for headphones and speakers, virtual monitoring packages, and SoundID VoiceAI tools.</p><p>Notable discounts include SoundID Reference for Headphones priced at $49 and the Speakers &amp; Headphones bundle with a measurement microphone at $179. Additionally, Virtual Monitoring software and SoundID VoiceAI perpetual licenses are available at reduced rates, with trial versions offered for most products to test compatibility across Windows and macOS systems.</p>
-<p>Nov 20 · <a href="https://bedroomproducersblog.com/2026/11/20/sonarworks-black-friday-sale/">bedroomproducersblog.com</a> | <a href="https://www.sonarworks.com/black-friday">sonarworks.com</a></p>
 <br clear="all" />
 
 ---
