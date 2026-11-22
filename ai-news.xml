@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-21T17:46:00+00:00</updated>
+  <updated>2026-11-22T11:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Tesla Launches FSD v15 Featuring Reality View and Safety Upgrades</title>
+    <link href="https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584" rel="alternate" />
+    <id>https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584::v241</id>
+    <published>2026-11-22T11:10:00+00:00</published>
+    <updated>2026-11-22T11:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2026%2F11%2Ftesla-reality-view-fsd-v15.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584">gizmodo.com</a> | <a href="https://x.com/Tesla/status/2124222447855743019">x.com</a></small></p><hr/><p>Tesla has begun rolling out FSD v15, a major update to its Full Self-Driving (Supervised) software platform that claims a 25x improvement in handling safety-critical cases. A primary highlight of the update is "Tesla Reality View," a photorealistic, third-person visualization of the car's surroundings. This feature allows drivers to see and control the software's intended actions in real-time through a live, full-motion view of the environment, a design Elon Musk compared to the mechanics of *Grand Theft Auto*.</p><p>The update also addresses specific navigation challenges, including better handling of potholes, school zones, speed cameras, and standing water. While the new visualization aims to increase driver comfort and comprehension of the autonomous system, the article notes that Tesla's FSD progress has historically been non-linear, often balancing significant performance gains with the introduction of new technical issues.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdriveteslacanada.ca%2Fwp-content%2Fuploads%2F2026%2F11%2Ftesla-reality-view-fsd-v15.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 16:47 UTC | #28230</small>]]></content>
+  </entry>
   <entry>
     <title>Mickey Petersen Releases DreamCoder AI Coding Harness</title>
     <link href="https://www.masteringemacs.org/article/announcing-dreamcoder" rel="alternate" />
