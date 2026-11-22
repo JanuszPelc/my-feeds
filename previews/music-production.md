@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Dropshot Audio Updates Smackbox V2 to Version 1.6.0</h2>
+<a name="story-28246"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsmackbox-sequencer.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dropshot Audio has released version 1.6.0 of Smackbox V2, introducing a redesigned user interface featuring a unified full and compact sequencer/synth view. The update adds independent loop lengths and playheads for each sequencer lane, enabling polyrhythmic pattern generation.</p><p>Additionally, version 1.6.0 expands parameter locking capabilities with relative locks and support for empty steps, alongside bug fixes for sound copying, preset navigation, window sizing, and transport state. The instrument is available for macOS, Windows, and Linux in VST3, CLAP, and standalone formats, with an Audio Unit version for macOS.</p>
+<p>Nov 22 · <a href="https://www.kvraudio.com/news/dropshot-audio-updates-smackbox-v2-to-v1-6-0-69962?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69962">kvraudio.com</a> | <a href="https://dropshotaudio.com/smackbox">dropshotaudio.com</a></p>
+<br clear="all" />
+
 <h2>Pine DSP Releases Blox Grain Granular Effect Plugin</h2>
 <a name="story-28244"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic-files.gumroad.com%2Fkatqmj3ru3ng74luvdbyebhv442m&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pine DSP has launched Blox Grain, a granular effect plugin available in VST3, AU, and AAX formats. The tool processes incoming audio by breaking it into small grains and scattering them into a manipulatable cloud. Users can adjust parameters such as grain size, density, and spray distance, while also utilizing features like audio freezing, pitch shifting, and drift.</p><p>The plugin can operate as a standalone unit or be loaded as a module within the Blox Rack system. It features an extended view for precise grain shape control, including reverse and jitter options. Blox Grain is offered at an introductory price of $3 until December 8th, after which it moves to a full price of $19, with discounts available for existing Pine DSP module and Blox Rack owners.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28202"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mutools.com%2Finfo%2FM9%2Fdocs%2Fmulab%2Fpics%2Fmulab.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MuTools has released version 10.3.24 of its MuLab App and MuLab Plugin, bringing a variety of new features, system updates, and bug fixes to the audio production platform. Key additions include the DS22 Audio Limiter and a new Direct MIDI Out module.</p><p>The update also delivers general improvements to the modular system, plugin support, and audio clips, alongside the introduction of Unicode support. Users can view the detailed change log on the official MuTools website.</p>
 <p>Nov 21 · <a href="https://www.kvraudio.com/news/mutools-updates-mulab-app-and-plugin-to-v10-3-24-70013?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70013">kvraudio.com</a> | <a href="https://www.mutools.com/mulab-mux-change-log.html">mutools.com</a></p>
-<br clear="all" />
-
-<h2>Cableguys Updates TimeStop to Version 1.1 with Tape-Start Feature</h2>
-<a name="story-28203"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcableguys-timestop---crop-for-kvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cableguys has released TimeStop v1.1, introducing a new tape-start feature that lets users trigger a tape-start by releasing the Stop button or Pitch knob. The update also adds direct keyboard entry for pitch and shape values, along with improved automation value text display for supported Digital Audio Workstations.</p><p>Alongside the software update, Cableguys launched a tutorial video and blog post detailing professional tricks for creating fills, drops, and transitions using the plugin. TimeStop is currently priced at €14 or $16, with discounted upgrade options available for bundle owners, coinciding with the company's Black Friday sale event.</p>
-<p>Nov 21 · <a href="https://www.kvraudio.com/news/cableguys-update-timestop-to-v1-1---adds-tape-start-feature-70002?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70002">kvraudio.com</a></p>
 <br clear="all" />
 
 ---
