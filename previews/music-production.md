@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Applied Acoustics Systems Offers Black Friday Discounts on Ultra Analog VA-3</h2>
+<a name="story-28238"><img src="https://wsrv.nl/?url=https%3A%2F%2Fguildwatergear.com%2Fcdn%2Fshop%2Fproducts%2FApplied_Acoustics_Systems_Ultra_Analog_VA-3_Synthesizer_GUI_02__48704.jpg%3Fv%3D1751492331%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Applied Acoustics Systems has discounted its Ultra Analog VA-3 virtual analog synthesizer to $89 from a regular price of $199. The Black Friday sale, available through ILIO from November 19 to December 3, also includes Pro Series instruments such as Chromaphone 3, Lounge Lizard EP-5, Multiphonics CV-3, String Studio VS-3, and Strum GS-2 at the same reduced price.</p><p>The sale encompasses individual sound packs for $19 and several bundles, including the Modeling Collection for $219 and The Integral for $399. Bedroom Producers Blog readers can access an additional 10% discount using a specific coupon code. The Ultra Analog VA-3 features circuit modeling to replicate analog components and provides two independent layers for stacking or splitting across the keyboard.</p>
+<p>Nov 22 · <a href="https://bedroomproducersblog.com/2026/11/22/aas-ultra-analog-bpb-deal/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/products/aas">ilio.com</a></p>
+<br clear="all" />
+
+<h2>Pro Sound Effects Offers Odyssey Collection: Design Elements for Free</h2>
+<a name="story-28239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FilC0nTcWu1w%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pro Sound Effects is offering its cinematic sound effects library, Odyssey Collection: Design Elements, for free using the coupon code ODYSSEY26 at checkout. Normally priced at $149, the library contains 254 files totaling 1.51 GB of 16-bit and 24-bit WAV audio recorded at 48 kHz.</p><p>Created in collaboration with Hollywood sound editors Mark Mangini and Richard L. Anderson, the collection features sci-fi and action-oriented audio assets including whooshes, metal impacts, deep rumbles, and explosions. The download includes a single-user license granting lifetime, royalty-free commercial use across video production, game design, and music creation.</p>
+<p>Nov 22 · <a href="https://bedroomproducersblog.com/2026/11/22/pro-sound-effects-odyssey-collection/">bedroomproducersblog.com</a> | <a href="https://www.prosoundeffects.com/libraries/odyssey-collection-design-elements">prosoundeffects.com</a></p>
+<br clear="all" />
+
 <h2>Helgoboss Updates Playtime Clip Launcher for REAPER to v2.20</h2>
 <a name="story-28247"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fplaytime-screenshot-dark.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Helgoboss Projects has released version 2.20 of Playtime, a major update for its clip launching plugin for REAPER. The update introduces adjustable clip speed and tempo, waveform editing, zoom capabilities, improved audio recording, and enhanced Linux support.</p><p>Additionally, the version adds a new browser supporting plugins, presets, FX chains, track templates, and NKS preset previews. The update is free for existing Playtime 2 users, and the developer is offering a 25% discount on the software through November 30, 2026.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28187"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.dixonbeats.com%2Fcdn%2Fshop%2Farticles%2F12-free-plugins-massive-black-friday-vst-deals-dont-miss-these-560947.jpg%3Fv%3D1700862565&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Minimal Audio is offering its Static sample pack, a collection of 180 dubstep-inspired audio files created in collaboration with Ternion Sound, as a free download during its Black Friday promotion. Normally valued at $10, the pack includes drum loops, individual hits, bass and synth loops, atmospheric recordings, and textures.</p><p>The 375 MB library consists of 24-bit, 48 kHz WAV files formatted for use across various digital audio workstations and samplers on macOS and Windows without requiring installation or activation. To claim the offer, users must add the item to their cart on the Minimal Audio website and sign into an account.</p>
 <p>Nov 21 · <a href="https://bedroomproducersblog.com/2026/11/21/minimal-audio-static-free/">bedroomproducersblog.com</a> | <a href="https://www.minimal.audio/stream/samples/packs/static">minimal.audio</a></p>
-<br clear="all" />
-
-<h2>Spotify Founder Daniel Ek Backs Fusion Startup Europa Fusion</h2>
-<a name="story-28151"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffusionforenergy.europa.eu%2Fwp-content%2Fuploads%2F2024%2F12%2FF4E-EUROfusion-MoU-7-1-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Spotify founder Daniel Ek is backing Europa Fusion, a stealthy UK-based fusion power startup founded earlier this year by former Google DeepMind and Pacific Fusion researcher Nantas Nardelli. The company is pursuing a pulsed-power approach to nuclear fusion, utilizing electrical surges to compress fuel targets until atoms fuse and release energy.</p><p>Unlike many competitors that rely heavily on physical hardware to test designs, Nardelli's startup intends to focus on a simulation- and data-heavy strategy. While commercial fusion energy remains unproven at scale, proponents view it as a potential source of clean, near-limitless power that could help address the growing energy demands of artificial intelligence infrastructure.</p>
-<p>Nov 20 · <a href="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Plugin Boutique Adds Roland JUNO-60 Chorus and UAD Cooper Time Cube to Free Gifts Promotion</h2>
-<a name="story-28137"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fdwe0s7lh54fhlss8u1oy2djf3h5a&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Plugin Boutique has added the Roland JUNO-60 Chorus and the Universal Audio Cooper Time Cube Delay to its lineup of promotional gifts available with qualifying purchases. The JUNO-60 Chorus is included free with any paid purchase, while the Cooper Time Cube requires a minimum spend of $49, €49, or £49.</p><p>Customers can select one free gift per transaction from available options, which also include Reaktor Prism, UVI Tape Suite, and Evolve Elastic Lite. The promotion runs alongside discounted software sales on items like Baby Audio Crystalline, UJAM Cinedream, UAD Vibe Analog Machines, and SSL Native Bus Compressor 2.</p>
-<p>Nov 20 · <a href="https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/articles/2073?a_aid=5241029371df5">pluginboutique.com</a></p>
 <br clear="all" />
 
 ---
