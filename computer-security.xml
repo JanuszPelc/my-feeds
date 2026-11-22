@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-21T21:43:00+00:00</updated>
+  <updated>2026-11-21T21:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>HD Moore Study Reveals Widespread Prompt and Credential Leaks in AI Supply Chain</title>
+    <link href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/" rel="alternate" />
+    <id>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/::v241</id>
+    <published>2026-11-21T21:45:00+00:00</published>
+    <updated>2026-11-21T21:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">arstechnica.com</a> | <a href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens">dragos.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1wfrh/researcher_plants_2m_canaries_into_the_ai_supply/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50582794">hacker news</a></small></p><hr/><p>Security researcher HD Moore planted two million trackable canary tokens into prompts sent through various AI routers and inference resellers to evaluate data privacy. The experiment revealed that user prompts and sensitive credentials leaked extensively due to front-door compromises at hosting providers, aggressive logging by low-cost resellers, and unauthorized scraping by third-party labs.</p><p>Attackers compromised multiple hosting providers to siphon prompts and reuse stolen AWS credentials tens of thousands of times, bypassing privacy settings such as Zero Data Retention flags. Additionally, the study found that prompts sent to domestic resellers were sometimes routed to or scraped by overseas providers in violation of explicit data-collection restrictions, highlighting deep security risks within the third-party AI service ecosystem.</p><hr/><small>22 Nov 2026, 06:20 UTC | #28211</small>]]></content>
+  </entry>
   <entry>
     <title>GnuPG Releases GPGME 2.3.1 to Fix Critical Security Vulnerability</title>
     <link href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html" rel="alternate" />
