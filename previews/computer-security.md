@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Ghostscript CVE-2026-125396 Allows Remote Code Execution via Font Loader</h2>
+<a name="story-28254"><img src="https://wsrv.nl/?url=https%3A%2F%2Fuploads.sempreupdate.com.br%2F2026%2F04%2Fn8YDWSbv-copy-fail-linux-cve-2026-31431-acesso-root.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers at pwn.ai have identified a use-after-free vulnerability (CVE-2026-125396) in Ghostscript’s Type 1 font loader. The flaw provides a write-what-where primitive in native memory, allowing an attacker to bypass the -dSAFER sandbox and achieve remote command execution. The exploit is triggered by delivering a specially crafted document to an application that passes the file to the Ghostscript interpreter for rendering.</p><p>The research demonstrates that common image processing tasks—such as cropping images or generating previews in PHP (Imagick), Python (Pillow, imageio), and Qt—can reach the vulnerable interpreter. Even if an application does not call Ghostscript directly, its underlying dependencies may do so when processing PostScript or PDF content disguised as other file types. The vulnerability stems from a failure to check operand types in a font loading helper, which, combined with a memory management error where a global dictionary retains a reference to a reclaimed local object, leads to arbitrary memory corruption.</p>
+<p>Nov 22 · <a href="https://pwn.ai/upload2shell/research.html">pwn.ai</a> | <a href="https://lobste.rs/s/n5i1ds/ghostscript_cve_2026_125396">lobsters</a></p>
+<br clear="all" />
+
 <h2>AI-Assisted Vulnerability Discovery and Demo Production Workflow</h2>
 <a name="story-28243"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.penligent.ai%2Fhackinglabs%2Fwp-content%2Fuploads%2F2026%2F04%2FAI-Vulnerability-Research-Is-Collapsing-the-Patch-Window.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The video outlines a workflow in which artificial intelligence is used to identify a software vulnerability, prompting plans to notify the maintainer and create a promotional demonstration. The process includes incorporating music and anime visuals into the video content.</p><p>The creator prepares the demonstration for immediate distribution on X, illustrating a rapid cycle of automated security research, media production, and social media posting.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-28072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Element has published the public sector track recordings from the Matrix Conference 2026, highlighting government deployments, digital sovereignty, and secure communication strategies across European public institutions.</p><p>The sessions feature case studies and technical discussions from organizations including the European Commission, NATO, French public sector tech agency DINUM, Swedish social insurance agency Försäkringskassan, and the German state of Schleswig-Holstein.</p>
 <p>Nov 19 · <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">element.io</a> | <a href="https://news.ycombinator.com/item?id=50558533">hacker news</a></p>
-<br clear="all" />
-
-<h2>Zerodha Introduces Blobasaur Distributed Blob Storage on SQLite</h2>
-<a name="story-28064"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.baeldung-cn.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F03%2Fblob_storage_architecture-2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Zerodha has developed Blobasaur, a sharded and distributed blob storage server written in Rust that uses SQLite as its underlying storage engine and speaks the Redis protocol. Built to replace SSDB on its trading platform Kite, Blobasaur manages high-throughput read and write operations for user workspace preferences, layouts, and interface metadata ranging from a few kilobytes to several megabytes.</p><p>The system achieves single-digit millisecond latency and handles thousands of requests per second on commodity hardware by partitioning data across multiple SQLite shards using consistent hashing. It incorporates zstd compression, group commits, and Redis Cluster protocol compatibility, allowing the engineering team to scale horizontally while maintaining operational simplicity.</p>
-<p>Nov 19 · <a href="https://zerodha.tech/blog/high-performance-distributed-blob-storage/">zerodha.tech</a> | <a href="https://lobste.rs/s/bk5nfs/distributed_high_performance_blob">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50557537">hacker news</a></p>
 <br clear="all" />
 
 ---
