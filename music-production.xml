@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-22T15:16:00+00:00</updated>
+  <updated>2026-11-22T18:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Leap Into Void Releases Artificial Intelligence Soundset for UVI Falcon</title>
+    <link href="https://www.kvraudio.com/news/leap-into-void-releases-artificial-intelligence-acousmatic-soundset-for-uvi-falcon-70063?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70063" rel="alternate" />
+    <id>https://www.kvraudio.com/news/leap-into-void-releases-artificial-intelligence-acousmatic-soundset-for-uvi-falcon-70063?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70063::v241</id>
+    <published>2026-11-22T18:40:00+00:00</published>
+    <updated>2026-11-22T18:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flivai_600.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/leap-into-void-releases-artificial-intelligence-acousmatic-soundset-for-uvi-falcon-70063?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70063">kvraudio.com</a> | <a href="https://liv.mikaeladle.se/artificialintelligence.html">liv.mikaeladle.se</a></small></p><hr/><p>Leap Into Void has released Artificial Intelligence, an acousmatic and musique concrète soundset designed for the UVI Falcon synthesizer platform. Drawing inspiration from experimental electronic music traditions and artists like Pierre Schaeffer, Iannis Xenakis, and Autechre, the library features machine-like yet organic sonic textures.</p><p>The soundset includes 66 presets based primarily on granular synthesis, utilizing 95 individual layers and custom WAV audio files derived from digital, modular, and field recordings. All presets feature macro page layouts and modulation assignments, and the library requires Falcon 2026.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flivai_600.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 23:45 UTC | #28262</small>]]></content>
+  </entry>
   <entry>
     <title>Dropshot Audio Updates Smackbox V2 to Version 1.6.0</title>
     <link href="https://www.kvraudio.com/news/dropshot-audio-updates-smackbox-v2-to-v1-6-0-69962?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69962" rel="alternate" />

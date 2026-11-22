@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Leap Into Void Releases Artificial Intelligence Soundset for UVI Falcon</h2>
+<a name="story-28262"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flivai_600.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Leap Into Void has released Artificial Intelligence, an acousmatic and musique concrète soundset designed for the UVI Falcon synthesizer platform. Drawing inspiration from experimental electronic music traditions and artists like Pierre Schaeffer, Iannis Xenakis, and Autechre, the library features machine-like yet organic sonic textures.</p><p>The soundset includes 66 presets based primarily on granular synthesis, utilizing 95 individual layers and custom WAV audio files derived from digital, modular, and field recordings. All presets feature macro page layouts and modulation assignments, and the library requires Falcon 2026.</p>
+<p>Nov 22 · <a href="https://www.kvraudio.com/news/leap-into-void-releases-artificial-intelligence-acousmatic-soundset-for-uvi-falcon-70063?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70063">kvraudio.com</a> | <a href="https://liv.mikaeladle.se/artificialintelligence.html">liv.mikaeladle.se</a></p>
+<br clear="all" />
+
 <h2>Dropshot Audio Updates Smackbox V2 to Version 1.6.0</h2>
 <a name="story-28246"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsmackbox-sequencer.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dropshot Audio has released version 1.6.0 of Smackbox V2, introducing a redesigned user interface featuring a unified full and compact sequencer/synth view. The update adds independent loop lengths and playheads for each sequencer lane, enabling polyrhythmic pattern generation.</p><p>Additionally, version 1.6.0 expands parameter locking capabilities with relative locks and support for empty steps, alongside bug fixes for sound copying, preset navigation, window sizing, and transport state. The instrument is available for macOS, Windows, and Linux in VST3, CLAP, and standalone formats, with an Audio Unit version for macOS.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28208"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcyclewin2026.1795280988.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ample Sound has released Ample Asia Shakuhachi (AASH), a virtual instrument library for Windows and macOS featuring extensive multi-microphone sampling, an intelligent legato system, and the Riffer 4 MIDI editor tailored for wind instruments. The plugin includes head and body articulation groups designed to capture the dynamic breath variations and expressive qualities of traditional Japanese flutes.</p><p>Alongside the new instrument release, the company has launched its Winter Sale 2026, offering discounts ranging from 20% to 68% on single products and bundles until January 1, 2027. Existing customers receive an additional 10% discount on top of these promotional prices across the catalog.</p>
 <p>Nov 21 · <a href="https://www.kvraudio.com/news/ample-sound-releases-ample-asia-shakuhachi-and-launches-winter-sale-2026-70032?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70032">kvraudio.com</a> | <a href="https://amplesound.net/en/pro-pd.asp?id=49">amplesound.net</a></p>
-<br clear="all" />
-
-<h2>MuTools Updates MuLab App and Plugin to Version 10.3.24</h2>
-<a name="story-28202"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mutools.com%2Finfo%2FM9%2Fdocs%2Fmulab%2Fpics%2Fmulab.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>MuTools has released version 10.3.24 of its MuLab App and MuLab Plugin, bringing a variety of new features, system updates, and bug fixes to the audio production platform. Key additions include the DS22 Audio Limiter and a new Direct MIDI Out module.</p><p>The update also delivers general improvements to the modular system, plugin support, and audio clips, alongside the introduction of Unicode support. Users can view the detailed change log on the official MuTools website.</p>
-<p>Nov 21 · <a href="https://www.kvraudio.com/news/mutools-updates-mulab-app-and-plugin-to-v10-3-24-70013?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70013">kvraudio.com</a> | <a href="https://www.mutools.com/mulab-mux-change-log.html">mutools.com</a></p>
 <br clear="all" />
 
 ---

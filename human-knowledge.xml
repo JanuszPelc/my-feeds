@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-21T12:03:00+00:00</updated>
+  <updated>2026-11-22T18:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Plant Scientist Gregory Moore Shares Tips on Keeping Cut Flowers Fresh</title>
+    <link href="https://theconversation.com/whats-the-best-way-to-keep-cut-flowers-a-plant-scientist-shares-their-top-tips-287678" rel="alternate" />
+    <id>https://theconversation.com/whats-the-best-way-to-keep-cut-flowers-a-plant-scientist-shares-their-top-tips-287678::v241</id>
+    <published>2026-11-22T18:41:00+00:00</published>
+    <updated>2026-11-22T18:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772350%2Foriginal%2Ffile-20261117-64-g4gnf4.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/whats-the-best-way-to-keep-cut-flowers-a-plant-scientist-shares-their-top-tips-287678">theconversation.com</a></small></p><hr/><p>Plant scientist Gregory Moore explains that understanding biological clocks and water transport in stems can help significantly prolong the vase life of cut flowers. When stems are severed, the internal water flow stops, and air blockages or lack of hydration can cause rapid wilting if proper precautions are ignored.</p><p>To maximize freshness, Moore recommends selecting plump buds or fully open blooms, cutting two to three centimeters off stems at a 45-degree angle, and refreshing the vase water regularly. Combining sugar, an acid such as vinegar or lemon juice, and a small amount of bleach can supply essential carbohydrates while preventing bacterial and fungal growth.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772350%2Foriginal%2Ffile-20261117-64-g4gnf4.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 23:45 UTC | #28256</small>]]></content>
+  </entry>
   <entry>
     <title>Harvard Researchers Demonstrate Fault-Tolerant Neutral-Atom Quantum Processor</title>
     <link href="https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html?unlocked_article_code=1.R1E.PGHV.x5mP00wlvgC0&amp;smid=nytcore-ios-share" rel="alternate" />
