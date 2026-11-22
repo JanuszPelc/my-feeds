@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-22T12:54:00+00:00</updated>
+  <updated>2026-11-22T15:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Experts Warn AI Accelerates Cyberattacks on Industrial Equipment</title>
+    <link href="https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&amp;sharetype=gift&amp;token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1" rel="alternate" />
+    <id>https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&amp;sharetype=gift&amp;token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1::v241</id>
+    <published>2026-11-22T15:17:00+00:00</published>
+    <updated>2026-11-22T15:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbucket-image.inkmaginecms.com%2Fversion%2Fdesktop%2F9dde7c0f-a597-445c-80dd-9a93db8a4006%2Fimage%2F2025%2F09%2Fab0a885f-b501-4be7-bd60-9b68d2711e77.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&sharetype=gift&token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1">ft.com</a></small></p><hr/><p>Artificial intelligence is accelerating the planning of cyberattacks on industrial equipment by enabling malicious actors to quickly digest technical manuals and analyze past accidents. This capability reduces the time and specialized expertise required to target critical infrastructure.</p><p>The trend highlights growing vulnerabilities in operational technology sectors, such as water and power systems, where automated tools help bypass traditional barriers to entry. Security experts warn that these advancements threaten to scale up the frequency and sophistication of disruptions against everyday utilities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbucket-image.inkmaginecms.com%2Fversion%2Fdesktop%2F9dde7c0f-a597-445c-80dd-9a93db8a4006%2Fimage%2F2025%2F09%2Fab0a885f-b501-4be7-bd60-9b68d2711e77.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 21:06 UTC | #28234</small>]]></content>
+  </entry>
   <entry>
     <title>Ghostscript CVE-2026-125396 Allows Remote Code Execution via Font Loader</title>
     <link href="https://pwn.ai/upload2shell/research.html" rel="alternate" />
