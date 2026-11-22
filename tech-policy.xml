@@ -3,9 +3,17 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-22T00:32:00+00:00</updated>
+  <updated>2026-11-22T11:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>China Ministry of State Security Runs Secret Campaign to Acquire Advanced AI Chips</title>
+    <link href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&amp;smid=url-share::v241</id>
+    <published>2026-11-22T11:11:00+00:00</published>
+    <updated>2026-11-22T11:11:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&smid=url-share">nytimes.com</a></small></p><hr/><p>Current and former officials from the United States and other countries report that China's Ministry of State Security has been executing a clandestine campaign to help domestic companies procure advanced artificial intelligence chips. The operation aims to bypass stringent export controls imposed by the United States on semiconductor technology.</p><p>The campaign reportedly involves complex networks and corporate channels, including the suspected recruitment of technology executives and operations through intermediary firms to secure restricted hardware. These activities highlight the ongoing challenges and vulnerabilities in enforcing international technology restrictions designed to limit China's advancements in artificial intelligence.</p><hr/><small>22 Nov 2026, 17:09 UTC | #28231</small>]]></content>
+  </entry>
   <entry>
     <title>Tech Workers and Matchmakers Report Rising Concerns Over Corporate Espionage Honeypots</title>
     <link href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/" rel="alternate" />
