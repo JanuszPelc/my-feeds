@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-22T14:17:00+00:00</updated>
+  <updated>2026-11-22T14:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Pine DSP Releases Blox Grain Granular Effect Plugin</title>
+    <link href="https://www.kvraudio.com/news/pine-dsp-releases-blox-grain---granular-effect-plugin-vst-au-aax-69899?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69899" rel="alternate" />
+    <id>https://www.kvraudio.com/news/pine-dsp-releases-blox-grain---granular-effect-plugin-vst-au-aax-69899?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69899::v241</id>
+    <published>2026-11-22T14:34:00+00:00</published>
+    <updated>2026-11-22T14:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpublic-files.gumroad.com%2Fkatqmj3ru3ng74luvdbyebhv442m&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/pine-dsp-releases-blox-grain---granular-effect-plugin-vst-au-aax-69899?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69899">kvraudio.com</a> | <a href="https://pinedsp.com/blox-grain">pinedsp.com</a></small></p><hr/><p>Pine DSP has launched Blox Grain, a granular effect plugin available in VST3, AU, and AAX formats. The tool processes incoming audio by breaking it into small grains and scattering them into a manipulatable cloud. Users can adjust parameters such as grain size, density, and spray distance, while also utilizing features like audio freezing, pitch shifting, and drift.</p><p>The plugin can operate as a standalone unit or be loaded as a module within the Blox Rack system. It features an extended view for precise grain shape control, including reverse and jitter options. Blox Grain is offered at an introductory price of $3 until December 8th, after which it moves to a full price of $19, with discounts available for existing Pine DSP module and Blox Rack owners.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic-files.gumroad.com%2Fkatqmj3ru3ng74luvdbyebhv442m&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 19:38 UTC | #28244</small>]]></content>
+  </entry>
   <entry>
     <title>Samba Godschynski Updates Integra-7 Editor to Version 1.0.4</title>
     <link href="https://www.kvraudio.com/news/samba-godschynski-updates-integra-7-editor-to-v1-0-4-70051?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70051" rel="alternate" />

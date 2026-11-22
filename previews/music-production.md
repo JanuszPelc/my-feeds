@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Pine DSP Releases Blox Grain Granular Effect Plugin</h2>
+<a name="story-28244"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic-files.gumroad.com%2Fkatqmj3ru3ng74luvdbyebhv442m&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Pine DSP has launched Blox Grain, a granular effect plugin available in VST3, AU, and AAX formats. The tool processes incoming audio by breaking it into small grains and scattering them into a manipulatable cloud. Users can adjust parameters such as grain size, density, and spray distance, while also utilizing features like audio freezing, pitch shifting, and drift.</p><p>The plugin can operate as a standalone unit or be loaded as a module within the Blox Rack system. It features an extended view for precise grain shape control, including reverse and jitter options. Blox Grain is offered at an introductory price of $3 until December 8th, after which it moves to a full price of $19, with discounts available for existing Pine DSP module and Blox Rack owners.</p>
+<p>Nov 22 · <a href="https://www.kvraudio.com/news/pine-dsp-releases-blox-grain---granular-effect-plugin-vst-au-aax-69899?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69899">kvraudio.com</a> | <a href="https://pinedsp.com/blox-grain">pinedsp.com</a></p>
+<br clear="all" />
+
 <h2>Samba Godschynski Updates Integra-7 Editor to Version 1.0.4</h2>
 <a name="story-28249"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fspace-jam.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samba Godschynski has released version 1.0.4 of the Integra-7 Editor, a native third-party software editor for Roland's Integra-7 sound module. The update introduces WLAN support, a virtual keyboard for playing and looping sounds directly within the editor, and extended copy-and-paste capabilities for parameter windows.</p><p>Additional improvements include side-by-side editing windows for tone partials, structure type diagrams for PCM-S selectors, and minor bug fixes. A promotional discount reduces the software's price until December 6, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28203"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcableguys-timestop---crop-for-kvr.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cableguys has released TimeStop v1.1, introducing a new tape-start feature that lets users trigger a tape-start by releasing the Stop button or Pitch knob. The update also adds direct keyboard entry for pitch and shape values, along with improved automation value text display for supported Digital Audio Workstations.</p><p>Alongside the software update, Cableguys launched a tutorial video and blog post detailing professional tricks for creating fills, drops, and transitions using the plugin. TimeStop is currently priced at €14 or $16, with discounted upgrade options available for bundle owners, coinciding with the company's Black Friday sale event.</p>
 <p>Nov 21 · <a href="https://www.kvraudio.com/news/cableguys-update-timestop-to-v1-1---adds-tape-start-feature-70002?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70002">kvraudio.com</a></p>
-<br clear="all" />
-
-<h2>Madrona Labs Releases Aalto v2.0 Synthesizer With Linux and CLAP Support</h2>
-<a name="story-28204"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Faalto-2-screenshot1-small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Madrona Labs has released Aalto version 2.0, a major update to its patchable software synthesizer rewritten from the ground up. The new version expands polyphony to eight voices, introduces an updated vactrol-model lowpass gate, features GPU-accelerated graphics, and adds native Linux support alongside CLAP plugin compatibility.</p><p>Aalto 2 maintains full compatibility with version 1 patches while incorporating a new patch browser, undo functionality, popup utilities with syncable LFOs, quad outputs, and MTS-ESP microtuning support. The instrument is available for macOS, Windows, and Linux in CLAP, VST3, and AU formats, priced at $99 with an introductory launch discount.</p>
-<p>Nov 21 · <a href="https://www.kvraudio.com/news/madrona-labs-releases-aalto-v2-0---linux-and-clap-support-69981?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69981">kvraudio.com</a> | <a href="https://www.madronalabs.com/products/aalto">madronalabs.com</a></p>
 <br clear="all" />
 
 ---
