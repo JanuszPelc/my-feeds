@@ -3,9 +3,27 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-23T05:22:00+00:00</updated>
+  <updated>2026-11-23T13:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Evolutionary Origins of the First Animal on Earth</title>
+    <link href="https://theconversation.com/what-was-the-first-animal-that-ever-lived-on-earth-287460" rel="alternate" />
+    <id>https://theconversation.com/what-was-the-first-animal-that-ever-lived-on-earth-287460::v241</id>
+    <published>2026-11-23T13:07:00+00:00</published>
+    <updated>2026-11-23T13:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn0.animalwised.com%2Fen%2Fposts%2F7%2F9%2F3%2Fthe_origin_and_evolution_of_animals_4397_600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/what-was-the-first-animal-that-ever-lived-on-earth-287460">theconversation.com</a></small></p><hr/><p>Biologists have not identified the specific first animal to live on Earth, but they define animals as multi-celled organisms with specialized cells that communicate and share functions like movement, eating, and reproduction. Current research focuses on the deepest branches of the evolutionary tree, specifically debating whether sponges or comb jellies were the first to diverge from a common ancestor approximately 650 million years ago.</p><p>While fossils of soft-bodied early organisms are rarely preserved, genetic analysis of DNA architecture reveals how animals may have been "assembled" from existing single-celled "tool kits" found in relatives like choanoflagellates. By comparing these single-celled organisms to sponge choanocytes, scientists can better understand the transition from independent cells to the first coordinated multicellular life.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn0.animalwised.com%2Fen%2Fposts%2F7%2F9%2F3%2Fthe_origin_and_evolution_of_animals_4397_600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 18:10 UTC | #28317</small>]]></content>
+  </entry>
+  <entry>
+    <title>Synthetic Allomelanin from Chernobyl Fungus Could Neutralize Nerve Agents</title>
+    <link href="https://theconversation.com/a-fungus-that-can-survive-in-chernobyl-could-help-create-materials-that-trap-and-break-down-nerve-agents-and-pesticides-294087" rel="alternate" />
+    <id>https://theconversation.com/a-fungus-that-can-survive-in-chernobyl-could-help-create-materials-that-trap-and-break-down-nerve-agents-and-pesticides-294087::v241</id>
+    <published>2026-11-23T13:06:00+00:00</published>
+    <updated>2026-11-23T13:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771250%2Foriginal%2Ffile-20261111-64-6umzrg.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/a-fungus-that-can-survive-in-chernobyl-could-help-create-materials-that-trap-and-break-down-nerve-agents-and-pesticides-294087">theconversation.com</a> | <a href="https://doi.org/10.1021/acsnano.6c06991">doi.org</a></small></p><hr/><p>Researchers have developed a material based on allomelanin, a nitrogen-free pigment produced by the radiation-resistant fungus Cladosporium sphaerospermum. By synthesizing allomelanin into nanoparticles and loading them with zirconium clusters, the team created a substance capable of trapping and chemically breaking down organophosphorus compounds, including deadly nerve agents like sarin and various agricultural pesticides.</p><p>Unlike current protective gear that merely traps toxins, this material employs "molecular scissors" to neutralize them, with reaction speeds significantly enhanced by sunlight and built-in alkaline groups. The study suggests these nanoparticles could be integrated into textiles to create proactive protective uniforms, gloves, and masks for soldiers and farmworkers facing chemical hazards.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771250%2Foriginal%2Ffile-20261111-64-6umzrg.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 18:08 UTC | #28318</small>]]></content>
+  </entry>
   <entry>
     <title>Alexandr Wang Claims Riemann Hypothesis Proof Signals AI Superintelligence</title>
     <link href="https://x.com/alexandr_wang/status/2124636606959345776" rel="alternate" />
