@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-22T18:49:00+00:00</updated>
+  <updated>2026-11-22T21:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>GPU Partner Publishes Beginner Guide to Running Local AI with Unsloth and Qwen</title>
+    <link href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth" rel="alternate" />
+    <id>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth::v241</id>
+    <published>2026-11-22T21:53:00+00:00</published>
+    <updated>2026-11-22T21:53:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gpupartner.com%2Fprod%2Fquantization-same-photo-8-bit-4-bit-2-bit-1600x417.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth">gpupartner.com</a> | <a href="https://news.ycombinator.com/item?id=50603845">hacker news</a></small></p><hr/><p>GPU Partner published a beginner's guide detailing how to set up and run a private, local AI model on a Windows PC using Unsloth Desktop alongside open-weight models like Qwen and Inkling. The guide outlines hardware requirements centered on graphics card VRAM and explains how model quantization allows consumer GPUs to efficiently run large language models locally without cloud subscriptions.</p><p>The article contrasts local deployments with commercial cloud services to highlight advantages in data privacy, cost control, and avoidance of rate limits or content restrictions. It provides practical sizing recommendations for various VRAM configurations, ranging from smaller models for 8GB to 12GB cards up to mixture-of-experts options like Inkling 2 Mini for high-end systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gpupartner.com%2Fprod%2Fquantization-same-photo-8-bit-4-bit-2-bit-1600x417.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 06:01 UTC | #28289</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Proposes Perplexity as Shared Metric for AI Progress and Safety Standards</title>
     <link href="https://openai.com/index/perplexity-and-intelligence/" rel="alternate" />

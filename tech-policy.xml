@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-22T11:11:00+00:00</updated>
+  <updated>2026-11-22T21:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Scott Bessent Says Jensen Huang’s Nvidia Return Depends on China Sales Probes</title>
+    <link href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html::v241</id>
+    <published>2026-11-22T21:52:00+00:00</published>
+    <updated>2026-11-22T21:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffotografias-2.larazon.es%2Fclipping%2Fcmsimages01%2F2025%2F07%2F21%2F4FFCB0CB-FD70-4869-8E6A-5941E1F208FF%2Fjensen-huang-ceo-nvidia_98.jpg%3Fcrop%3D1500%2C844%2Cx0%2Cy80%26width%3D1900%26height%3D1069%26optimize%3Dlow%26format%3Dwebply&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html">nytimes.com</a></small></p><hr/><p>Treasury Secretary Scott Bessent stated that Jensen Huang's potential return as Nvidia's chief executive should depend on the outcome of federal investigations into the company's chip sales to China. Speaking in a television interview, Bessent declined to endorse Huang's reinstatement while pressing the company for answers regarding its compliance with export controls.</p><p>The remarks follow earlier calls by Bessent urging a leadership shake-up at Nvidia and expressing concern over how advanced semiconductors reached Chinese entities. The ongoing scrutiny underscores mounting tensions between federal officials and the company as investigations and congressional hearings approach.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffotografias-2.larazon.es%2Fclipping%2Fcmsimages01%2F2025%2F07%2F21%2F4FFCB0CB-FD70-4869-8E6A-5941E1F208FF%2Fjensen-huang-ceo-nvidia_98.jpg%3Fcrop%3D1500%2C844%2Cx0%2Cy80%26width%3D1900%26height%3D1069%26optimize%3Dlow%26format%3Dwebply&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 06:01 UTC | #28258</small>]]></content>
+  </entry>
   <entry>
     <title>China Ministry of State Security Runs Secret Campaign to Acquire Advanced AI Chips</title>
     <link href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&amp;smid=url-share" rel="alternate" />
