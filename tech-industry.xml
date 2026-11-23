@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-22T21:24:00+00:00</updated>
+  <updated>2026-11-22T21:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Open Social Web Alliance Proposes Decentralized Infrastructure for European Social Media</title>
+    <link href="https://osw-alliance.net/en/" rel="alternate" />
+    <id>https://osw-alliance.net/en/::v241</id>
+    <published>2026-11-22T21:26:00+00:00</published>
+    <updated>2026-11-22T21:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2Ffc15cee085ac3c4813baa0ee05bf13f7c8dad5d9%2F2-Figure2-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://osw-alliance.net/en/">osw-alliance.net</a> | <a href="https://news.ycombinator.com/item?id=50600511">hacker news</a></small></p><hr/><p>The Open Social Web Alliance has formed to promote a decentralized, interoperable digital communication infrastructure across Europe based on open standards such as ActivityPub, the AT Protocol, and Matrix. The initiative aims to counter platform monopolies by establishing a shared communication protocol analogous to email, enabling users to interact seamlessly across different services and applications using a single account.</p><p>The alliance outlines five primary challenges—infrastructure, governance, funding, appeal, and public mandate—and sets out a roadmap culminating in an Open Social Web Summit in autumn 2026. The proposed strategy relies on public funding, multi-sector governance, and political support to help open-standard networks scale to more than 100 million users by 2028.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2Ffc15cee085ac3c4813baa0ee05bf13f7c8dad5d9%2F2-Figure2-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 04:08 UTC | #28281</small>]]></content>
+  </entry>
   <entry>
     <title>Tim O'Reilly Discusses the Shift from Value Creation to Value Extraction in Silicon Valley</title>
     <link href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/" rel="alternate" />
