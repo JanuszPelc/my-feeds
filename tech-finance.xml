@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-23T10:01:00+00:00</updated>
+  <updated>2026-11-23T11:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Compute Desk Raises $45 Million in Lightspeed-Led Seed Round</title>
+    <link href="https://www.axios.com/pro/all-deals/2026/11/17/compute-pricing-startup-compute-desk-45-million-lightspeed" rel="alternate" />
+    <id>https://www.axios.com/pro/all-deals/2026/11/17/compute-pricing-startup-compute-desk-45-million-lightspeed::v241</id>
+    <published>2026-11-23T11:29:00+00:00</published>
+    <updated>2026-11-23T11:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHMJjLjuWQAAMyN9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/all-deals/2026/11/17/compute-pricing-startup-compute-desk-45-million-lightspeed">axios.com</a> | <a href="https://www.wsgr.com/en/insights/wilson-sonsini-advises-compute-desk-on-dollar45-million-financing-as-it-emerges-from-stealth.html">wsgr.com</a></small></p><hr/><p>Compute Desk, a startup focused on creating infrastructure to trade and hedge computing power, has secured $45 million in a seed funding round led by Lightspeed Venture Partners. The company aims to transform compute into a tradable asset, establishing a framework for pricing and risk management within the burgeoning AI infrastructure market.</p><p>The funding supports the development of a liquidity network and a platform for clearing and pricing GPU compute. This capital injection highlights a competitive landscape where multiple well-capitalized startups are vying to establish the pricing standards for a market participants believe could eventually be worth trillions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHMJjLjuWQAAMyN9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 16:50 UTC | #28291</small>]]></content>
+  </entry>
   <entry>
     <title>Alecto Raises $20M Seed Funding for AI-Native UK Property Legal Services</title>
     <link href="https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/" rel="alternate" />
