@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Arva AI Secures $20 Million Series A Funding for Bank Compliance Technology</h2>
+<a name="story-28277"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fblog-media%2Fposts%2F4d9e0b94-625%2Fai-agents-in-finance-reconciliation-risk-monitoring-compliance-and-fraud-detecti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Arva AI has raised $20 million in a Series A funding round to support its development of artificial intelligence agents designed to automate financial-crime compliance reviews for banks. The company builds specialized tools aimed at helping financial institutions handle time-consuming compliance tasks without missing suspicious activity.</p><p>The fresh capital will be directed toward expanding the company's bank-facing capabilities, supporting its research division, and scaling its operations into areas such as payment operations, disputes, and lending. The round highlights ongoing investor interest in specialized regulatory technology designed to streamline risk management workflows in the banking sector.</p>
+<p>Nov 23 · <a href="https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance">axios.com</a></p>
+<br clear="all" />
+
 <h2>TPG and Corpay to Acquire BILL Holdings in $6 Billion Take-Private Deal</h2>
 <a name="story-28274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fflagshipadvisorypartners.com%2Fwp-content%2Fuploads%2F2026%2F03%2FSlide2-May-09-2025-05-03-06-3524-PM-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Private equity firm TPG and corporate payments company Corpay have agreed to acquire financial automation software provider BILL Holdings in a take-private transaction valued at approximately $6 billion. Under the terms of the agreement, BILL shareholders will receive $63.25 per share in cash.</p><p>Founder René Lacerte will remain as CEO of the company following the completion of the buyout. The transaction is expected to close in the first half of 2027, pending customary regulatory approvals and closing conditions.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28098"><img src="https://wsrv.nl/?url=https%3A%2F%2Fportaltechnologiczny.pl%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Asian technology stocks experienced steep declines on Friday, following a broader sell-off on Wall Street that affected major firms across the region. SoftBank shares fell by approximately 15 percent, TSMC dropped more than 5 percent, and Samsung and SK Hynix both declined by over 6 percent.</p><p>The regional downturn occurred despite Anthropic's record-breaking initial public offering, as market participants continued to reassess valuations and momentum within the artificial intelligence sector.</p>
 <p>Nov 20 · <a href="https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b">ft.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1hrmh/us_tech_stocks_plunge_into_bear_market_in_worst/">r/technology</a></p>
-<br clear="all" />
-
-<h2>Intuit Agrees to Sell Mailchimp to Bending Spoons for $3.68 Billion</h2>
-<a name="story-28073"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-cabinet.ua.news%2Fuploads%2Fimages%2Fintuit_sell_mailchimp_to_bending_spoons_1795122984120.webp%3F8179416&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Intuit has agreed to sell its marketing subsidiary Mailchimp to Italian technology consolidator Bending Spoons for $3.68 billion in cash and stock, with the transaction expected to close in early 2027. The agreement marks a significant loss for Intuit, which acquired the email-marketing platform for $12 billion in 2021 before it became a drag on overall revenue growth.</p><p>The acquisition follows Bending Spoons' recent purchases of several prominent software assets, including Airtable, Evernote, and WeTransfer. Alongside the sale announcement, Intuit reported fiscal first-quarter earnings that surpassed Wall Street expectations, though its shares declined in extended trading following weaker-than-expected fiscal-year revenue guidance.</p>
-<p>Nov 20 · <a href="https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html">cnbc.com</a> | <a href="https://investors.intuit.com/news-events/press-releases/detail/1331/intuit-reports-first-quarter-results-and-enters-agreement-to-sell-mailchimp-to-bending-spoons">investors.intuit.com</a> | <a href="https://news.ycombinator.com/item?id=50573044">hacker news</a></p>
 <br clear="all" />
 
 ---

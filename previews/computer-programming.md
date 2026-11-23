@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>AFK-surf Releases Xnulinux to Run macOS Kernel as a Linux Kernel Module</h2>
+<a name="story-28315"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FAFK-surf%2Fxnulinux%2Fraw%2Fmain%2Fdocs%2Fimages%2Fmacos-and-linux.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Xnulinux is a project that builds Apple's open-source XNU kernel and runs it as a loadable kernel module inside an unmodified arm64 Linux kernel. By allowing XNU to drive the CPU and memory directly via a foreign kernel interface module, macOS userspace applications run natively alongside Linux processes without a traditional hypervisor.</p><p>Running on an Apple Silicon Mac within an arm64 Linux virtual machine, the system boots a macOS system disk to a functional desktop environment with working applications, networking, and GPU acceleration. The repository separates components by license, utilizing an APSL-2.0 kernel module for XNU and a GPL-2.0 interface module for Linux integration.</p>
+<p>Nov 23 · <a href="https://github.com/AFK-surf/xnulinux">github.com</a> | <a href="https://news.ycombinator.com/item?id=50607261">hacker news</a></p>
+<br clear="all" />
+
 <h2>GitHub Actions Accepts Invalid YAML Workflow Definitions</h2>
 <a name="story-28285"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.freecodecamp.org%2Fportuguese%2Fnews%2Fcontent%2Fimages%2F2024%2F09%2Fgithub-webpage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GitHub Actions accepts certain workflow definitions containing invalid YAML that fail strict conformance checks by standard parsers. Specifically, multiline flow-style strings nested inside block collections can have closing braces improperly indented relative to their parent keys, violating section 8.2.3 of the YAML specification.</p><p>The issue surfaced during work on the zizmor security scanner when analyzing real-world GitHub Actions workflows that standard tooling rejected. The underlying parser used by GitHub Actions appears to be an older version of YamlDotNet, which continues to exhibit this behavior due to parser limitations handling quoted and unquoted flow nodes.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbwc9876.dev%2F_astro%2Fjj-todo-tree.CbZTp8jv_2gvqxu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Ben C outlines an alternative workflow for tracking task lists in software projects by using empty changes in the Jujutsu (JJ) version control system instead of traditional Markdown files. By creating a branch of empty commits under a private base commit, tasks can be managed, structured hierarchically, and rebased onto active working branches when ready.</p><p>This approach avoids merge conflicts due to the lack of file content in the commits and integrates with Jujutsu's configuration options to prevent accidental pushing of private tasks to remote repositories. The workflow allows developers to keep their task lists directly inside their version control history while ensuring the items remain local and hidden from public branches.</p>
 <p>Nov 21 · <a href="https://bwc9876.dev/blog/jj_todo/">bwc9876.dev</a> | <a href="https://lobste.rs/s/qxzs4y/todos_jj_style">lobsters</a></p>
-<br clear="all" />
-
-<h2>Lean and Mathlib Communities Verify Levent Alpöge’s Proof of the Riemann Hypothesis</h2>
-<a name="story-28219"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcacm.acm.org%2Fwp-content%2Fuploads%2F2026%2F02%2F3750038_fig02.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Lean and Mathlib communities, along with the Lean FRO and the Mathlib Initiative, have jointly certified that Levent Alpöge's 17-million-line Lean library proving the Riemann Hypothesis is correct. Following its release on November 20, 2026, the community compiled the codebase, confirmed that the proved theorem matches Mathlib's statement of the Riemann Hypothesis, and verified the proof using several independent proof checkers.</p><p>The verification process satisfied four core criteria, including checking the proof against Lean's official kernel and independent checkers like con-leche and con-ron, which are backed by formal relative consistency proofs. The codebase relies solely on Mathlib, and the verified proof export was evaluated outside the scope of the main source files to ensure security against potential malicious code.</p>
-<p>Nov 21 · <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">leanprover-community.github.io</a> | <a href="https://news.ycombinator.com/item?id=50589618">hacker news</a></p>
 <br clear="all" />
 
 ---

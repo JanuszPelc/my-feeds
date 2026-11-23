@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-22T23:45:00+00:00</updated>
+  <updated>2026-11-23T05:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>AFK-surf Releases Xnulinux to Run macOS Kernel as a Linux Kernel Module</title>
+    <link href="https://github.com/AFK-surf/xnulinux" rel="alternate" />
+    <id>https://github.com/AFK-surf/xnulinux::v241</id>
+    <published>2026-11-23T05:21:00+00:00</published>
+    <updated>2026-11-23T05:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FAFK-surf%2Fxnulinux%2Fraw%2Fmain%2Fdocs%2Fimages%2Fmacos-and-linux.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/AFK-surf/xnulinux">github.com</a> | <a href="https://news.ycombinator.com/item?id=50607261">hacker news</a></small></p><hr/><p>Xnulinux is a project that builds Apple's open-source XNU kernel and runs it as a loadable kernel module inside an unmodified arm64 Linux kernel. By allowing XNU to drive the CPU and memory directly via a foreign kernel interface module, macOS userspace applications run natively alongside Linux processes without a traditional hypervisor.</p><p>Running on an Apple Silicon Mac within an arm64 Linux virtual machine, the system boots a macOS system disk to a functional desktop environment with working applications, networking, and GPU acceleration. The repository separates components by license, utilizing an APSL-2.0 kernel module for XNU and a GPL-2.0 interface module for Linux integration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FAFK-surf%2Fxnulinux%2Fraw%2Fmain%2Fdocs%2Fimages%2Fmacos-and-linux.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 13:26 UTC | #28315</small>]]></content>
+  </entry>
   <entry>
     <title>GitHub Actions Accepts Invalid YAML Workflow Definitions</title>
     <link href="https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/" rel="alternate" />

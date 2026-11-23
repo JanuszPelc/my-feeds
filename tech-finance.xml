@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-23T05:17:00+00:00</updated>
+  <updated>2026-11-23T05:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Arva AI Secures $20 Million Series A Funding for Bank Compliance Technology</title>
+    <link href="https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance" rel="alternate" />
+    <id>https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance::v241</id>
+    <published>2026-11-23T05:20:00+00:00</published>
+    <updated>2026-11-23T05:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fblog-media%2Fposts%2F4d9e0b94-625%2Fai-agents-in-finance-reconciliation-risk-monitoring-compliance-and-fraud-detecti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance">axios.com</a></small></p><hr/><p>Arva AI has raised $20 million in a Series A funding round to support its development of artificial intelligence agents designed to automate financial-crime compliance reviews for banks. The company builds specialized tools aimed at helping financial institutions handle time-consuming compliance tasks without missing suspicious activity.</p><p>The fresh capital will be directed toward expanding the company's bank-facing capabilities, supporting its research division, and scaling its operations into areas such as payment operations, disputes, and lending. The round highlights ongoing investor interest in specialized regulatory technology designed to streamline risk management workflows in the banking sector.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fblog-media%2Fposts%2F4d9e0b94-625%2Fai-agents-in-finance-reconciliation-risk-monitoring-compliance-and-fraud-detecti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 13:26 UTC | #28277</small>]]></content>
+  </entry>
   <entry>
     <title>TPG and Corpay to Acquire BILL Holdings in $6 Billion Take-Private Deal</title>
     <link href="https://www.reuters.com/legal/transactional/bill-holdings-be-taken-private-by-tpg-6-billion-equity-value-2026-11-19/" rel="alternate" />
