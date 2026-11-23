@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>EyeHear Releases AutoMix 0.9.0 Beta Plugin for Adobe Premiere Pro</h2>
+<a name="story-28300"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fqh-WBF7AV8s%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>EyeHear has released AutoMix 0.9.0 Beta, a VST3 and AU plugin designed for automatic multi-track dialogue mixing in Adobe Premiere Pro. The software addresses background noise and microphone bleed in multi-microphone recordings by allowing multiple plugin instances to communicate internally without traditional external sidechain routing.</p><p>The tool automatically detects active microphones and ducks the levels of inactive channels to maintain clear and consistent dialogue. It includes adjustable thresholds and ducking controls, and is available for Windows and macOS as a free download with a suggested voluntary contribution of $20.</p>
+<p>Nov 23 · <a href="https://www.kvraudio.com/news/eyehear-releases-automix-0-9-0-beta-automatic-mixing-with-sidechain-in-premiere-pro-70066?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70066">kvraudio.com</a> | <a href="https://eyehear.se/AutoMix/">eyehear.se</a></p>
+<br clear="all" />
+
 <h2>Leap Into Void Releases Artificial Intelligence Soundset for UVI Falcon</h2>
 <a name="story-28262"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flivai_600.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Leap Into Void has released Artificial Intelligence, an acousmatic and musique concrète soundset designed for the UVI Falcon synthesizer platform. Drawing inspiration from experimental electronic music traditions and artists like Pierre Schaeffer, Iannis Xenakis, and Autechre, the library features machine-like yet organic sonic textures.</p><p>The soundset includes 66 presets based primarily on granular synthesis, utilizing 95 individual layers and custom WAV audio files derived from digital, modular, and field recordings. All presets feature macro page layouts and modulation assignments, and the library requires Falcon 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28207"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fscr2.1795262877.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>sonicLAB has released version 2.0 of SSNN, a live audio processor plugin that utilizes a spiking neural network comprising 960 neurons across 32 layers to drive eight synthesis engines in real time. The software processes audio signals by routing them through neural connections, where individual spikes dynamically modulate the underlying sound generation.</p><p>Version 2 introduces several enhancements, including adjustable network depth via layers control, temporal spectral frame shifting, and a new neural buffer frequency modulation system that shapes audio through neural voltages and connection weights. The update also adds four individual voice outputs for routing neural columns to separate DAW tracks, improves headroom and project recall, and is available as a free upgrade for existing users in VST3 and AU formats for macOS and Windows.</p>
 <p>Nov 21 · <a href="https://www.kvraudio.com/news/soniclab-releases-ssnn-v2-0-70025?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70025">kvraudio.com</a> | <a href="https://www.sonic-lab.com/ssnn-page">sonic-lab.com</a></p>
-<br clear="all" />
-
-<h2>Ample Sound Releases Ample Asia Shakuhachi and Launches Winter Sale</h2>
-<a name="story-28208"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcyclewin2026.1795280988.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ample Sound has released Ample Asia Shakuhachi (AASH), a virtual instrument library for Windows and macOS featuring extensive multi-microphone sampling, an intelligent legato system, and the Riffer 4 MIDI editor tailored for wind instruments. The plugin includes head and body articulation groups designed to capture the dynamic breath variations and expressive qualities of traditional Japanese flutes.</p><p>Alongside the new instrument release, the company has launched its Winter Sale 2026, offering discounts ranging from 20% to 68% on single products and bundles until January 1, 2027. Existing customers receive an additional 10% discount on top of these promotional prices across the catalog.</p>
-<p>Nov 21 · <a href="https://www.kvraudio.com/news/ample-sound-releases-ample-asia-shakuhachi-and-launches-winter-sale-2026-70032?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70032">kvraudio.com</a> | <a href="https://amplesound.net/en/pro-pd.asp?id=49">amplesound.net</a></p>
 <br clear="all" />
 
 ---

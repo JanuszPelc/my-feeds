@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-22T18:40:00+00:00</updated>
+  <updated>2026-11-23T05:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>EyeHear Releases AutoMix 0.9.0 Beta Plugin for Adobe Premiere Pro</title>
+    <link href="https://www.kvraudio.com/news/eyehear-releases-automix-0-9-0-beta-automatic-mixing-with-sidechain-in-premiere-pro-70066?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70066" rel="alternate" />
+    <id>https://www.kvraudio.com/news/eyehear-releases-automix-0-9-0-beta-automatic-mixing-with-sidechain-in-premiere-pro-70066?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70066::v241</id>
+    <published>2026-11-23T05:08:00+00:00</published>
+    <updated>2026-11-23T05:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fqh-WBF7AV8s%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/eyehear-releases-automix-0-9-0-beta-automatic-mixing-with-sidechain-in-premiere-pro-70066?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70066">kvraudio.com</a> | <a href="https://eyehear.se/AutoMix/">eyehear.se</a></small></p><hr/><p>EyeHear has released AutoMix 0.9.0 Beta, a VST3 and AU plugin designed for automatic multi-track dialogue mixing in Adobe Premiere Pro. The software addresses background noise and microphone bleed in multi-microphone recordings by allowing multiple plugin instances to communicate internally without traditional external sidechain routing.</p><p>The tool automatically detects active microphones and ducks the levels of inactive channels to maintain clear and consistent dialogue. It includes adjustable thresholds and ducking controls, and is available for Windows and macOS as a free download with a suggested voluntary contribution of $20.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fqh-WBF7AV8s%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 10:20 UTC | #28300</small>]]></content>
+  </entry>
   <entry>
     <title>Leap Into Void Releases Artificial Intelligence Soundset for UVI Falcon</title>
     <link href="https://www.kvraudio.com/news/leap-into-void-releases-artificial-intelligence-acousmatic-soundset-for-uvi-falcon-70063?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70063" rel="alternate" />
