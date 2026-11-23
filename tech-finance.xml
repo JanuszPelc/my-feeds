@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-23T05:20:00+00:00</updated>
+  <updated>2026-11-23T10:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Alecto Raises $20M Seed Funding for AI-Native UK Property Legal Services</title>
+    <link href="https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/" rel="alternate" />
+    <id>https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/::v241</id>
+    <published>2026-11-23T10:01:00+00:00</published>
+    <updated>2026-11-23T10:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/">siliconangle.com</a> | <a href="https://alectolegal.com/">alectolegal.com</a></small></p><hr/><p>Alecto Conveyancing Ltd. has raised $20 million in seed funding led by Insight Partners to provide AI-driven legal services for the United Kingdom's property market. The London-based firm aims to simplify the conveyancing process—the legal work required to buy and sell property—by using artificial intelligence to translate complex legal procedures into plain language for consumers.</p><p>Founded in September 2025 by serial entrepreneur Will Rice, Alecto seeks to disrupt the traditional billable-hour legal model in favor of an outcome-oriented service. The company targets a $3.3 billion UK conveyancing market and intends to become a market leader by 2027 by offering more transparent costs and providing property owners with greater control over their legal proceedings.</p><hr/><small>23 Nov 2026, 15:32 UTC | #28287</small>]]></content>
+  </entry>
   <entry>
     <title>Arva AI Secures $20 Million Series A Funding for Bank Compliance Technology</title>
     <link href="https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance" rel="alternate" />

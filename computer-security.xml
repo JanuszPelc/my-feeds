@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-23T05:11:00+00:00</updated>
+  <updated>2026-11-23T10:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Security Risks Identified in AI-Powered Self-Healing Code</title>
+    <link href="https://gynvael.coldwind.pl/?id=766" rel="alternate" />
+    <id>https://gynvael.coldwind.pl/?id=766::v241</id>
+    <published>2026-11-23T10:02:00+00:00</published>
+    <updated>2026-11-23T10:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.shuizilong.com%2Fhouse%2Fwp-content%2Fuploads%2F2023%2F04%2Fself-debugging.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://gynvael.coldwind.pl/?id=766">gynvael.coldwind.pl</a> | <a href="https://github.com/biobootloader/wolverine">github.com</a> | <a href="https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue_2023">lobsters</a></small></p><hr/><p>Wolverine is a tool designed to give Python scripts self-healing capabilities by utilizing GPT-4 to diagnose and repair runtime errors. The system automatically captures error messages from crashing scripts, sends them to the LLM for a solution, and applies the suggested code changes to continue execution automatically.</p><p>The author highlights a critical security vulnerability where malicious user input can trigger error messages that function as prompt injections. In such cases, GPT-4 might execute unauthorized commands, such as downloading and running remote scripts, effectively weaponizing the self-healing mechanism. The author advises against deploying these tools in production environments due to these risks and the potential for unpredictable code execution.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.shuizilong.com%2Fhouse%2Fwp-content%2Fuploads%2F2023%2F04%2Fself-debugging.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 15:34 UTC | #28338</small>]]></content>
+  </entry>
   <entry>
     <title>GitHub Implements Default Blocks on Dangerous Actions Triggers</title>
     <link href="https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html" rel="alternate" />
