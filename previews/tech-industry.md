@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Amazon Employee Group AECJ Challenges Company&#x27;s Data Center Expansion and AI Strategy</h2>
+<p>Amazon employee group AECJ, boasting over 1,000 members, is increasing its efforts to slow down Amazon's rapid data center expansion and provoke discussions regarding artificial intelligence use. The group's members have raised concerns and testified at local council hearings regarding the environmental, job, and societal impacts of these technological rollouts.</p><p>This internal pushback highlights growing tensions within major tech companies over the pace of AI infrastructure development and resource consumption. The employee activism reflects broader public scrutiny facing tech giants as they scale up energy-intensive data centers to support new AI workloads.</p>
+<p>Nov 23 · <a href="https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80">ft.com</a></p>
+<br clear="all" />
+
 <h2>Ant Group Leads $100M Pre-Series A for Simplexity Robotics</h2>
 <a name="story-28292"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2025%2F02%2F20%2F7d39679d-40da-4290-8aea-cbb4c1afbeab_b3ee84ec.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chinese physical AI startup Simplexity Robotics raised $100 million in a pre-Series A funding round led by Ant Group. The investment round, which also included participation from Alibaba and Tencent, valued the company at $1.6 billion.</p><p>The funding highlights a strategic move by China's largest technology conglomerates to secure a foothold in the humanoid robot and embodied intelligence markets. Simplexity is emerging as a significant contender in the physical AI race, utilizing the capital to accelerate the development and large-scale application of robotic technologies.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28169"><img src="https://wsrv.nl/?url=https%3A%2F%2Foriginnjbiz.wpenginepowered.com%2Ffiles%2F2025%2F10%2FWonder-GrubHub_DSC05089_9504-R1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Wonder is exploring a sale of its food delivery business, Grubhub, which it acquired in 2024 for $650 million. Bankers have reportedly been in contact with major retailers including Walmart, Target, and Kroger to gauge interest in a potential purchase.</p><p>The potential divestiture follows other strategic adjustments by Wonder regarding its delivery operations, including previous transactions involving parts of Grubhub's assets. Representatives for the companies have not publicly commented on the exploratory discussions.</p>
 <p>Nov 21 · <a href="https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?st=D3FY3c&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Cognition AI in Funding Talks for $75 Billion Valuation</h2>
-<a name="story-28162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalueaddvc.com%2Fcharts%2Fcognition-devin-ai-coding-agent-company-deep-dive-1-101db425b2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Artificial intelligence coding startup Cognition AI is reportedly in talks to raise $2 billion or more at a valuation of $75 billion. The potential funding follows a substantial fundraising year for the company, which included a $2 billion round at a $48 billion valuation in September.</p><p>The rapid escalation in valuation highlights intense investor demand for AI coding agents and development tools. If completed, the new round would further solidify the startup's position among the most valuable private artificial intelligence firms.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
