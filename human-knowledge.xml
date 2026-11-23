@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-22T18:47:00+00:00</updated>
+  <updated>2026-11-23T01:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>COP31 Climate Summit Collapses Over Omission of Fossil Fuel Transition</title>
+    <link href="https://theconversation.com/cop31-collapse-countries-reject-deal-without-mention-of-transition-away-from-fossil-fuels-297269" rel="alternate" />
+    <id>https://theconversation.com/cop31-collapse-countries-reject-deal-without-mention-of-transition-away-from-fossil-fuels-297269::v241</id>
+    <published>2026-11-23T01:51:00+00:00</published>
+    <updated>2026-11-23T01:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.hrw.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fembed_xxl%2Fpublic%2Fmedia_2022%2F11%2F202211mena_egypt_COP27_Sharm_El_Sheikh_Fossil_Fuels_Phase_Out_action.jpg%3Fitok%3Dj1IQEMhK&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/cop31-collapse-countries-reject-deal-without-mention-of-transition-away-from-fossil-fuels-297269">theconversation.com</a></small></p><hr/><p>The COP31 climate summit in Antalya, Turkey, collapsed after failing to reach an overarching agreement, primarily driven by a draft text that omitted any mention of transitioning away from fossil fuels. Nearly 40 countries, including European Union member states, the UK, and vulnerable Pacific island nations, formally rejected the final text.</p><p>Beyond the fossil fuel dispute, the summit struggled with inadequate climate financing, falling short of proposals to triple adaptation funding, and deep divisions over scientific findings regarding global warming approaching the 1.5°C threshold. Tensions also flared over attempts by petrostates to question annual science reports and delay the upcoming IPCC assessment.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.hrw.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fembed_xxl%2Fpublic%2Fmedia_2022%2F11%2F202211mena_egypt_COP27_Sharm_El_Sheikh_Fossil_Fuels_Phase_Out_action.jpg%3Fitok%3Dj1IQEMhK&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 06:58 UTC | #28276</small>]]></content>
+  </entry>
   <entry>
     <title>Jony Ive and Joey Flynn on Silicon Valley's Obsession with Taste as a Defense Against AI Slop</title>
     <link href="https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&amp;smid=url-share" rel="alternate" />
