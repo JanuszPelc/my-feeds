@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-22T21:52:00+00:00</updated>
+  <updated>2026-11-23T05:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Jay Clayton to Serve as Acting National Cyber Director</title>
+    <link href="https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director" rel="alternate" />
+    <id>https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director::v241</id>
+    <published>2026-11-23T05:14:00+00:00</published>
+    <updated>2026-11-23T05:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHEvcnEfa4AA9LNX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director">axios.com</a></small></p><hr/><p>Director of National Intelligence Jay Clayton will serve as acting national cyber director while President Trump's permanent nominee, Pentagon Chief Information Officer Kirsten Davies, awaits Senate confirmation. Clayton will temporarily oversee the Office of the National Cyber Director alongside his existing responsibilities as DNI and the administration's AI czar.</p><p>The leadership transition follows the departure of former National Cyber Director Sean Cairncross and occurs amid recent technology outages and heightened concerns over digital infrastructure vulnerabilities. Clayton has stated that recent service disruptions stem from system upgrades and technical glitches rather than coordinated cyberattacks, while Davies will assist as a senior adviser until her confirmation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHEvcnEfa4AA9LNX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 10:58 UTC | #28269</small>]]></content>
+  </entry>
   <entry>
     <title>Scott Bessent Says Jensen Huang’s Nvidia Return Depends on China Sales Probes</title>
     <link href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html" rel="alternate" />
