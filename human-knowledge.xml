@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-23T05:06:00+00:00</updated>
+  <updated>2026-11-23T05:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Alexandr Wang Claims Riemann Hypothesis Proof Signals AI Superintelligence</title>
+    <link href="https://x.com/alexandr_wang/status/2124636606959345776" rel="alternate" />
+    <id>https://x.com/alexandr_wang/status/2124636606959345776::v241</id>
+    <published>2026-11-23T05:22:00+00:00</published>
+    <updated>2026-11-23T05:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F54253295%2Fmini_magick20180818-4867-1vp525s.png%3F1534652798&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://x.com/alexandr_wang/status/2124636606959345776">x.com</a></small></p><hr/><p>Alexandr Wang stated that a proof of the Riemann Hypothesis indicates that artificial intelligence will surpass human capabilities in all fields, including AI research itself. He argues that this achievement demonstrates the arrival of superintelligence and emphasizes the critical importance of establishing AI safety and alignment protocols.</p><p>While Wang frames the proof as a definitive leap toward superintelligence, context from other research suggests that recent AI-driven mathematical progress may involve the "quasi-Riemann Hypothesis" or improved lower bounds rather than a full proof. His commentary reflects the growing urgency within the technology community to develop robust safety frameworks as AI capabilities advance toward higher-level reasoning.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F54253295%2Fmini_magick20180818-4867-1vp525s.png%3F1534652798&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 14:13 UTC | #28282</small>]]></content>
+  </entry>
   <entry>
     <title>Phantom Decoy Technique Increases Wild Rat Trap Entry Rates, Study Shows</title>
     <link href="https://theconversation.com/a-trick-marketers-use-to-sell-you-things-can-also-persuade-rats-to-enter-traps-new-study-296932" rel="alternate" />
