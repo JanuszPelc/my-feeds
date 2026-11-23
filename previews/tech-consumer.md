@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Daniel Isheden Releases CORTAO Open-Source Ambient Occlusion Technique</h2>
+<a name="story-28336"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltbc73f0f172428040%2F6b00cb94631bf96b0e031019%2Fevefrontierfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Daniel Isheden, a developer at Fenris Creations, has released CORTAO (Circular Occluder Ray-Traced Ambient Occlusion) as an open-source repository. The physically based real-time screen-space ambient occlusion technique was developed over a two-year period and has been adopted by Fenris Creations for use in the game EVE: Frontier.</p><p>CORTAO uses screen-space raytracing to compute ambient occlusion with high accuracy and a larger occlusion radius, addressing visual challenges in complex scenes such as dense foliage and dynamic space environments. Because the technique converges faster than traditional methods, it requires less GPU time, enabling efficient performance on lower-end hardware while accommodating both realistic and stylized visuals.</p>
+<p>Nov 23 · <a href="https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier">gamedeveloper.com</a> | <a href="https://github.com/theagentd/CORTAO">github.com</a></p>
+<br clear="all" />
+
 <h2>Marches &amp; Gnats Programming Challenge Game Released</h2>
 <a name="story-28311"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmng.quest%2Fstatic%2Fpage-covers%2Ftutorial.d1d0d16aafd5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Marches &amp; Gnats is a browser-based coding puzzle game inspired by Advent of Code and built around a single-tape Turing machine. Set in 19th-century Estonia, the game tasks players with writing instructions for the Logic Mill to help a character named Mihkel across 46 distinct quests.</p><p>The project incorporates leaderboards and features integration for AI agents designed to attempt the programming challenges. Players and enthusiasts can track ongoing updates and discussions through the game's official Substack, Reddit, Discord, and X channels.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28016"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgaminghq.eu%2Fwp-content%2Fuploads%2F2025%2F03%2Fgtaaa6.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Grand Theft Auto VI was developed by a team of 5,000 using handcrafted fidelity rather than artificial intelligence or procedural generation, according to a report by Joseph Bernstein for The New York Times. The game features approximately 30,000 unique non-player characters and an internal in-game video game system.</p><p>The upcoming title represents a massive production scale for Rockstar Games, emphasizing manual design over automated asset creation. The reporting offers an inside look at the development choices and scale behind one of the gaming industry's most anticipated releases.</p>
 <p>Nov 19 · <a href="https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html?unlocked_article_code=1.RlE.fmuo.D_-7-tknBypF&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Google Introduces New Foldable App Support Requirements for Android Developers</h2>
-<a name="story-28012"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.yugatech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fandroid-foldable-full-screen-app-support-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Starting in April 2027, Google will require Android app developers to meet its "Tier 3 — Adaptive ready" standard, ensuring apps fill foldable displays without letterboxing and preserve state during actions like rotation and unfolding. Non-compliant developers risk publication restrictions or reduced visibility on Google Play, alongside a new requirement to provide three foldable screenshots for their app listings.</p><p>Game developers have until August 2027 to comply with parallel large-screen and foldable standards, though they must also submit foldable screenshots starting in April. Google plans to expand these quality requirements to other large-screen devices, including tablets and laptops, in future phases.</p>
-<p>Nov 19 · <a href="https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support">theverge.com</a> | <a href="https://developer.android.com/blog/posts/google-play-adaptive-quality-standards">developer.android.com</a></p>
 <br clear="all" />
 
 ---
