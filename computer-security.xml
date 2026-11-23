@@ -3,9 +3,27 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-23T10:02:00+00:00</updated>
+  <updated>2026-11-23T14:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>FBI Issues Warning on ARTEX AI Hacking Framework</title>
+    <link href="https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/" rel="alternate" />
+    <id>https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/::v241</id>
+    <published>2026-11-23T14:19:00+00:00</published>
+    <updated>2026-11-23T14:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FHacker_26322642210237.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/">404media.co</a> | <a href="https://www.ic3.gov/CSA/2026/261113.pdf">ic3.gov</a></small></p><hr/><p>ARTEX is an open-source framework that utilizes agentic AI to automate cyberattacks at "machine speed." By connecting to various large language models, the tool deploys multiple agents to perform tasks ranging from infrastructure reconnaissance to full-scale data theft. The FBI issued a warning in November 2026 stating that malicious actors are using ARTEX to target global sectors, including government, healthcare, defense, finance, and semiconductors.</p><p>Although the original creator moved the tool to a closed-source model, the code remains widely accessible through various forks and public repositories. Security experts note that the framework reduces the time required for complex manual hacking tasks from days to just a few hours. While it poses a significant threat for espionage, the tool is also being used by security teams for authorized penetration testing and bug bounty research.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FHacker_26322642210237.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 19:28 UTC | #28327</small>]]></content>
+  </entry>
+  <entry>
+    <title>Aerogramme Improves Concurrent Mailbox Access in Distributed IMAP Server</title>
+    <link href="https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/" rel="alternate" />
+    <id>https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/::v241</id>
+    <published>2026-11-23T13:45:00+00:00</published>
+    <updated>2026-11-23T13:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Faerogramme.deuxfleurs.fr%2Fimages%2Fcluster.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/">aerogramme.deuxfleurs.fr</a> | <a href="https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency">lobsters</a></small></p><hr/><p>Aerogramme, a geo-distributed email server, is refining its IMAP implementation to handle concurrent mailbox access reliably. The project addresses the technical difficulty of maintaining data consistency when multiple clients or multiple server nodes access the same mailbox simultaneously. Key focus areas include ensuring the monotonicity of UIDVALIDITY and managing legacy IMAP behaviors regarding message sequence numbers.</p><p>The development team redesigned Aerogramme's mailbox state interface to separate local client views from remote storage synchronization. This approach allows for sequential reasoning about mailbox operations within a single connection while explicitly managing synchronization with the distributed backend. The implementation utilizes a convergent operation log and the Garage K2V key-value store to provide consistency without relying on distributed locks or transactions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Faerogramme.deuxfleurs.fr%2Fimages%2Fcluster.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 19:24 UTC | #28359</small>]]></content>
+  </entry>
   <entry>
     <title>Security Risks Identified in AI-Powered Self-Healing Code</title>
     <link href="https://gynvael.coldwind.pl/?id=766" rel="alternate" />

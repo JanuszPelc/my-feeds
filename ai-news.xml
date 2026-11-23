@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-23T12:28:00+00:00</updated>
+  <updated>2026-11-23T14:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>LALAL.AI Launches Black Friday Sale with Discounts on Pro Plans and Minute Packs</title>
+    <link href="https://bedroomproducersblog.com/2026/11/23/lalal-ai-black-friday/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/23/lalal-ai-black-friday/::v241</id>
+    <published>2026-11-23T14:14:00+00:00</published>
+    <updated>2026-11-23T14:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsblog.lalal.ai%2Fghost%2F2024%2F11%2FScreenshot_2015.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/23/lalal-ai-black-friday/">bedroomproducersblog.com</a> | <a href="https://www.lalal.ai/blog/black-friday-sale-2026/">lalal.ai</a></small></p><hr/><p>LALAL.AI has launched its Black Friday promotion, offering a 40% discount on its annual Pro subscription and select processing-minute packs through December 4, 2026. The annual Pro plan is priced at $108 for the first year, reduced from $180, while one-time Premium and Enterprise minute packs are discounted to $114 and $180, respectively.</p><p>The Pro subscription includes online processing via monthly Fast Queue minutes as well as local stem separation, speech cleaning, and voice dereverberation plugins for macOS, Windows, and Linux. These local plugins process audio directly on the user's computer without consuming cloud minutes. The discount applies to up to ten minute packs per account, though it does not cover third-party hardware products like the crowdfunded Neko guitar rig powered by LALAL.AI technology.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsblog.lalal.ai%2Fghost%2F2024%2F11%2FScreenshot_2015.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 19:25 UTC | #28325</small>]]></content>
+  </entry>
   <entry>
     <title>AI Models Solve Major Mathematical Conjectures and Trigger Academic Concerns</title>
     <link href="https://theconversation.com/ai-has-solved-a-host-of-big-maths-problems-heres-why-this-threatens-the-whole-field-of-mathematics-293982" rel="alternate" />
