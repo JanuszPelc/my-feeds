@@ -3,9 +3,27 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-22T20:01:00+00:00</updated>
+  <updated>2026-11-23T04:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>OpenAI Proposes Perplexity as Shared Metric for AI Progress and Safety Standards</title>
+    <link href="https://openai.com/index/perplexity-and-intelligence/" rel="alternate" />
+    <id>https://openai.com/index/perplexity-and-intelligence/::v241</id>
+    <published>2026-11-23T04:30:00+00:00</published>
+    <updated>2026-11-23T04:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2603.11139v2%2Ffigures%2Ffig2_perplexity_convergence.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://openai.com/index/perplexity-and-intelligence/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50601525">hacker news</a></small></p><hr/><p>OpenAI has published internal pretraining perplexity measurements and proposed tracking cross-entropy loss as a shared metric to evaluate model development across the artificial intelligence industry. Tracing the company's historical perplexity trajectory from GPT-3.5 to recent models achieving losses below 0.8, the post argues that monitoring model compression progress provides a reliable indicator for the emergence of transformative capabilities in fields such as mathematics and cybersecurity.</p><p>The proposal suggests that establishing common perplexity-based development limits could help coordinate safety standards and pacing efforts across frontier labs before capabilities outpace monitoring abilities. While acknowledging challenges such as cross-lab comparison difficulties and detachment from immediate task-based evaluations, OpenAI advocates for greater industry transparency to establish a shared scientific basis for future AI governance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2603.11139v2%2Ffigures%2Ffig2_perplexity_convergence.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 01:17 UTC | #28270 | t,hr</small>]]></content>
+  </entry>
+  <entry>
+    <title>Toyota, Nissan, and Honda to Standardize Parts to Lower Production Costs</title>
+    <link href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/" rel="alternate" />
+    <id>https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/::v241</id>
+    <published>2026-11-23T04:30:00+00:00</published>
+    <updated>2026-11-23T04:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2F9a437d5d-fb1e-4298-b80d-345012dac005.jpeg%3Fcrop%3D1xw%3A0.844xh%3B0xw%2C0.105xh%26resize%3D980%3A%2A&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/">caranddriver.com</a> | <a href="https://www.autonews.com/toyota/an-japan-industrywide-auto-parts-standardization-1119/">autonews.com</a> | <a href="https://news.ycombinator.com/item?id=50596133">hacker news</a></small></p><hr/><p>Toyota, Nissan, and Honda have agreed to standardize selected vehicle components in a joint effort to lower production costs and compete with rising Chinese automakers. Led by the Japan Automobile Manufacturers Association, the initiative will initially focus on establishing unified quality criteria for steel, consistent protocols for plastics and resins, and a universal color-coding scheme for wiring harnesses.</p><p>The initial phase targets components that are not visible to consumers and do not affect individual brand identity while accounting for significant manufacturing expenses. Discussions are beginning with domestic suppliers before expanding to international partners, with the first standardization measures expected to take effect next year.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2F9a437d5d-fb1e-4298-b80d-345012dac005.jpeg%3Fcrop%3D1xw%3A0.844xh%3B0xw%2C0.105xh%26resize%3D980%3A%2A&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 11:59 UTC | #28240 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Lenovo Reports Q2 Revenue Growth Driven by AI Demand Amid Net Loss</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand" rel="alternate" />
