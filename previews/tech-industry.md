@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia Reinstates Jensen Huang as CEO</h2>
+<a name="story-28321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gry-online.pl%2Fi%2Fh%2F22%2F532692336.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia's board unanimously voted to reinstate Jensen Huang as the company's president, CEO, and board director on November 23, 2026. This decision reverses a leadership transition that occurred less than two weeks prior, when Huang resigned following an admission of a personal relationship involving an individual suspected by the U.S. government to be a Chinese spy.</p><p>The board reported that it consulted with senior government officials who determined that Huang posed no national security risk to the company. Following the announcement, Nvidia's stock price surged 27% in pre-market trading. The company expressed satisfaction with Huang's candor and leadership, while acknowledging the support of CFO Colette Kress, who served as interim CEO during the brief vacancy.</p>
+<p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/">techcrunch.com</a> | <a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director">nvidianews.nvidia.com</a></p>
+<br clear="all" />
+
 <h2>Amazon Employee Group AECJ Challenges Company&#x27;s Data Center Expansion and AI Strategy</h2>
 <p>Amazon employee group AECJ, boasting over 1,000 members, is increasing its efforts to slow down Amazon's rapid data center expansion and provoke discussions regarding artificial intelligence use. The group's members have raised concerns and testified at local council hearings regarding the environmental, job, and societal impacts of these technological rollouts.</p><p>This internal pushback highlights growing tensions within major tech companies over the pace of AI infrastructure development and resource consumption. The employee activism reflects broader public scrutiny facing tech giants as they scale up energy-intensive data centers to support new AI workloads.</p>
 <p>Nov 23 · <a href="https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80">ft.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Oracle Secures Funding to Fulfill OpenAI Contract</h2>
 <p>Oracle announced that it has secured the total funding required to fulfill its cloud infrastructure contract with OpenAI. Following a final capital raise, the company stated it is the first major hyperscaler to be fully funded for the current investment cycle.</p><p>The financing strategy, initially detailed during Oracle's Investor Day, combines vendor financing and capital raises to support large-scale AI infrastructure development. This positions the company to execute its major cloud commitments through the end of the decade.</p>
 <p>Nov 21 · <a href="https://x.com/oracle/status/2123884437045760420">x.com</a></p>
-<br clear="all" />
-
-<h2>Wonder Explores Sale of Food Delivery Platform Grubhub</h2>
-<a name="story-28169"><img src="https://wsrv.nl/?url=https%3A%2F%2Foriginnjbiz.wpenginepowered.com%2Ffiles%2F2025%2F10%2FWonder-GrubHub_DSC05089_9504-R1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Wonder is exploring a sale of its food delivery business, Grubhub, which it acquired in 2024 for $650 million. Bankers have reportedly been in contact with major retailers including Walmart, Target, and Kroger to gauge interest in a potential purchase.</p><p>The potential divestiture follows other strategic adjustments by Wonder regarding its delivery operations, including previous transactions involving parts of Grubhub's assets. Representatives for the companies have not publicly commented on the exploratory discussions.</p>
-<p>Nov 21 · <a href="https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?st=D3FY3c&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---

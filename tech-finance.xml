@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-23T13:41:00+00:00</updated>
+  <updated>2026-11-23T14:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Sierra Raises $1.75 Billion to Reach $30 Billion Valuation</title>
+    <link href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/::v241</id>
+    <published>2026-11-23T14:44:00+00:00</published>
+    <updated>2026-11-23T14:44:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/">techcrunch.com</a></small></p><hr/><p>Sierra has secured $1.75 billion in a Series F funding round led by Greenoaks and Lightspeed Venture Partners, doubling the enterprise customer experience company's valuation to $30 billion within six months. The firm currently serves nearly 50% of Fortune 500 companies and recently reported doubling its run-rate revenue to $400 million through an outcome-based pricing model.</p><p>The new capital will be used to expand Sierra's technology stack for servicing agents and hire more sales personnel to accelerate enterprise contract acquisition. While the AI-driven customer experience market sees high valuations for competitors like ElevenLabs and Decagon, Sierra is also developing agent protocol definitions with partners including Meta, Stripe, and Walmart.</p><hr/><small>23 Nov 2026, 19:52 UTC | #28330</small>]]></content>
+  </entry>
   <entry>
     <title>Aevius Raises $22M for Clinical Intelligence Platform</title>
     <link href="https://www.axios.com/pro/biotech-deals/2026/11/17/aevius-22m-clinical-intelligence-platform" rel="alternate" />

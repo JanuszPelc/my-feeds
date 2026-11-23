@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Sierra Raises $1.75 Billion to Reach $30 Billion Valuation</h2>
+<p>Sierra has secured $1.75 billion in a Series F funding round led by Greenoaks and Lightspeed Venture Partners, doubling the enterprise customer experience company's valuation to $30 billion within six months. The firm currently serves nearly 50% of Fortune 500 companies and recently reported doubling its run-rate revenue to $400 million through an outcome-based pricing model.</p><p>The new capital will be used to expand Sierra's technology stack for servicing agents and hire more sales personnel to accelerate enterprise contract acquisition. While the AI-driven customer experience market sees high valuations for competitors like ElevenLabs and Decagon, Sierra is also developing agent protocol definitions with partners including Meta, Stripe, and Walmart.</p>
+<p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Aevius Raises $22M for Clinical Intelligence Platform</h2>
 <a name="story-28293"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg%2Fv1%2Ffill%2Fw_980%2Ch_451%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Clinical intelligence startup Aevius has secured $22 million in seed funding led by Insight Partners. The company aims to develop a clinical intelligence platform that makes fragmented medical data, including clinical records and imaging, computable to support better patient care and advance clinical research.</p><p>The company was founded by a team that previously developed and sold Modella AI to AstraZeneca. Aevius plans to use the new funding to develop foundation models that learn how health and disease progress over time, focusing on making medical data actionable for healthcare organizations.</p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Coinbase Targets First Half of 2027 for In-House Prediction Markets</h2>
 <p>Coinbase Global Inc. is planning to launch its own in-house event contracts in the United States during the first half of 2027. The move would transition the cryptocurrency exchange away from its current reliance on a partnership with Kalshi for prediction market offerings.</p><p>Coinbase initially introduced prediction markets nationwide in January 2026 through an integration with Kalshi. Although company executives previously signaled an intent to list proprietary contracts, the reported timeline indicates an independent offering is targeted for mid-2027.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Pragmatik Labs Valuation Reaches $5 Billion Following New Funding Round</h2>
-<a name="story-28111"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd15bya8fi85z1v.cloudfront.net%2Fchat%2FEORaotpyJOhXQrnzEaHzxW1xXhD2%2Fimages%2F8584677DB96093757487%2FB73FB61499FD237DFF8D.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Pragmatik Labs, a Shanghai-based artificial intelligence startup founded by former Alibaba Qwen head Junyang Lin, has raised tens of millions of dollars in a funding round that brings its valuation to $5 billion. The latest milestone follows a previous valuation of $2 billion reported in August, highlighting rapid investor backing for the enterprise.</p><p>The startup focuses on AI agent ecosystems and has attracted prominent financial backers, including Tencent and regional government investment funds. The rapid increase in valuation underscores strong capital inflows into elite-led artificial intelligence ventures amid intense market competition.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
