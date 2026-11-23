@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Ant Group Leads $100M Pre-Series A for Simplexity Robotics</h2>
+<a name="story-28292"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2025%2F02%2F20%2F7d39679d-40da-4290-8aea-cbb4c1afbeab_b3ee84ec.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese physical AI startup Simplexity Robotics raised $100 million in a pre-Series A funding round led by Ant Group. The investment round, which also included participation from Alibaba and Tencent, valued the company at $1.6 billion.</p><p>The funding highlights a strategic move by China's largest technology conglomerates to secure a foothold in the humanoid robot and embodied intelligence markets. Simplexity is emerging as a significant contender in the physical AI race, utilizing the capital to accelerate the development and large-scale application of robotic technologies.</p>
+<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Washington Post Examines Dario Amodei&#x27;s Leadership and Anthropic&#x27;s Culture</h2>
 <a name="story-28264"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffortune.com%2Fimg-assets%2Fwp-content%2Fuploads%2F2026%2F02%2FGettyImages-2261589193_f101a6-e1772131796790.jpg%3Fformat%3Dwebp%26w%3D1024%26q%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An investigation into Anthropic CEO Dario Amodei details how he has shaped the trillion-dollar artificial intelligence company's culture through internal essays, Slack memos, and biweekly "Vision Quest" talks. The company actively cultivates its philosophy of the future internally while seeding these ideas among external opinion-makers.</p><p>Employees at Anthropic operate within an open communication structure that encourages direct debate with leadership, including challenging Amodei on Slack. The profile sheds light on how the company balances rapid commercial growth with Amodei's long-term ideological vision for artificial intelligence and humanity.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28162"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalueaddvc.com%2Fcharts%2Fcognition-devin-ai-coding-agent-company-deep-dive-1-101db425b2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence coding startup Cognition AI is reportedly in talks to raise $2 billion or more at a valuation of $75 billion. The potential funding follows a substantial fundraising year for the company, which included a $2 billion round at a $48 billion valuation in September.</p><p>The rapid escalation in valuation highlights intense investor demand for AI coding agents and development tools. If completed, the new round would further solidify the startup's position among the most valuable private artificial intelligence firms.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Donald Trump Says Jensen Huang Should Return as Nvidia CEO After Apology</h2>
-<a name="story-28150"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2024%2F10%2FNVIDIA-CES-2025-Jensen-Huang-Keynote-Main-1920x1299.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>President Donald Trump stated that Nvidia Corp. should accept an apology from former CEO Jensen Huang and reinstate him following his resignation. Trump remarked that Huang has learned a significant lesson and that the company should allow him to return to work.</p><p>Huang's resignation followed an espionage scandal and subsequent fallout that involved private urging from Trump for him to remain in his role. Reports indicate that Trump described Huang as an honorable individual whose primary regrets involved his family during the ordeal.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology">bloomberg.com</a> | <a href="https://www.reddit.com/r/singularity/comments/1y1advo/trump_vows_to_stop_us_companies_from_building/">r/singularity</a></p>
 <br clear="all" />
 
 ---
