@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Alan Pearce Releases Scriptura Script Management Tool for Fish Shell</title>
+    <link href="https://alanpearce.eu/post/scriptura/" rel="alternate" />
+    <id>https://alanpearce.eu/post/scriptura/::v241</id>
+    <published>2026-11-22T21:17:00+00:00</published>
+    <updated>2026-11-22T21:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKKxhf50FIPI%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://alanpearce.eu/post/scriptura/">alanpearce.eu</a> | <a href="https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts">lobsters</a></small></p><hr/><p>Developer Alan Pearce has released scriptura, a command-line utility designed for the fish shell to run and manage scripts organized within a folder tree. Inspired by Ian Henry’s sd project, scriptura provides integrated tab completion for subcommands, script paths, and arguments to streamline local automation tasks.</p><p>Built natively in fish to minimize external command dependencies, the tool supports documentation via inline comments or adjacent .help files, enables ad-hoc commands within the script root, and permits custom subcommands using a dedicated directory structure. Pearce created the alternative implementation to resolve naming conflicts with an existing sed alternative named sd and to deliver robust, native fish shell completions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKKxhf50FIPI%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 02:47 UTC | #28275</small>]]></content>
+  </entry>
+  <entry>
     <title>Charles Iliya Krempeaux Details Falsehoods Programmers Believe About ATProto</title>
     <link href="https://reiver.link/atproto/falsehoods-programmers-believe/" rel="alternate" />
     <id>https://reiver.link/atproto/falsehoods-programmers-believe/::v241</id>
