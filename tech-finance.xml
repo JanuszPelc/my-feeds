@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-23T11:29:00+00:00</updated>
+  <updated>2026-11-23T13:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Aevius Raises $22M for Clinical Intelligence Platform</title>
+    <link href="https://www.axios.com/pro/biotech-deals/2026/11/17/aevius-22m-clinical-intelligence-platform" rel="alternate" />
+    <id>https://www.axios.com/pro/biotech-deals/2026/11/17/aevius-22m-clinical-intelligence-platform::v241</id>
+    <published>2026-11-23T13:41:00+00:00</published>
+    <updated>2026-11-23T13:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg%2Fv1%2Ffill%2Fw_980%2Ch_451%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.axios.com/pro/biotech-deals/2026/11/17/aevius-22m-clinical-intelligence-platform">axios.com</a> | <a href="https://www.businesswire.com/news/home/20261117488744/en/Aevius-Launches-with-$22-Million-in-Funding-to-Make-Medicine-Computable">businesswire.com</a></small></p><hr/><p>Clinical intelligence startup Aevius has secured $22 million in seed funding led by Insight Partners. The company aims to develop a clinical intelligence platform that makes fragmented medical data, including clinical records and imaging, computable to support better patient care and advance clinical research.</p><p>The company was founded by a team that previously developed and sold Modella AI to AstraZeneca. Aevius plans to use the new funding to develop foundation models that learn how health and disease progress over time, focusing on making medical data actionable for healthcare organizations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg%2Fv1%2Ffill%2Fw_980%2Ch_451%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 18:57 UTC | #28293</small>]]></content>
+  </entry>
   <entry>
     <title>Compute Desk Raises $45 Million in Lightspeed-Led Seed Round</title>
     <link href="https://www.axios.com/pro/all-deals/2026/11/17/compute-pricing-startup-compute-desk-45-million-lightspeed" rel="alternate" />

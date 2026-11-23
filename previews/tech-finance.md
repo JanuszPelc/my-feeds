@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Aevius Raises $22M for Clinical Intelligence Platform</h2>
+<a name="story-28293"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg%2Fv1%2Ffill%2Fw_980%2Ch_451%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Clinical intelligence startup Aevius has secured $22 million in seed funding led by Insight Partners. The company aims to develop a clinical intelligence platform that makes fragmented medical data, including clinical records and imaging, computable to support better patient care and advance clinical research.</p><p>The company was founded by a team that previously developed and sold Modella AI to AstraZeneca. Aevius plans to use the new funding to develop foundation models that learn how health and disease progress over time, focusing on making medical data actionable for healthcare organizations.</p>
+<p>Nov 23 · <a href="https://www.axios.com/pro/biotech-deals/2026/11/17/aevius-22m-clinical-intelligence-platform">axios.com</a> | <a href="https://www.businesswire.com/news/home/20261117488744/en/Aevius-Launches-with-$22-Million-in-Funding-to-Make-Medicine-Computable">businesswire.com</a></p>
+<br clear="all" />
+
 <h2>Compute Desk Raises $45 Million in Lightspeed-Led Seed Round</h2>
 <a name="story-28291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHMJjLjuWQAAMyN9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Compute Desk, a startup focused on creating infrastructure to trade and hedge computing power, has secured $45 million in a seed funding round led by Lightspeed Venture Partners. The company aims to transform compute into a tradable asset, establishing a framework for pricing and risk management within the burgeoning AI infrastructure market.</p><p>The funding supports the development of a liquidity network and a platform for clearing and pricing GPU compute. This capital injection highlights a competitive landscape where multiple well-capitalized startups are vying to establish the pricing standards for a market participants believe could eventually be worth trillions.</p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28111"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd15bya8fi85z1v.cloudfront.net%2Fchat%2FEORaotpyJOhXQrnzEaHzxW1xXhD2%2Fimages%2F8584677DB96093757487%2FB73FB61499FD237DFF8D.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pragmatik Labs, a Shanghai-based artificial intelligence startup founded by former Alibaba Qwen head Junyang Lin, has raised tens of millions of dollars in a funding round that brings its valuation to $5 billion. The latest milestone follows a previous valuation of $2 billion reported in August, highlighting rapid investor backing for the enterprise.</p><p>The startup focuses on AI agent ecosystems and has attracted prominent financial backers, including Tencent and regional government investment funds. The rapid increase in valuation underscores strong capital inflows into elite-led artificial intelligence ventures amid intense market competition.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>DayOne Pauses US IPO Plans Amid Market Volatility</h2>
-<p>Singapore-based DayOne Data Centers Ltd. has suspended its plans for a multibillion-dollar US initial public offering (IPO). The company had intended to raise up to $5 billion as early as the fourth quarter but halted the process due to market volatility and concerns regarding the valuation of AI infrastructure.</p><p>The decision reflects broader investor hesitation over the pricing of data center assets in a fluctuating economic environment. DayOne’s pause highlights the financial complexities of scaling infrastructure for artificial intelligence while navigating scrutiny over capital expenditures and investment returns.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
