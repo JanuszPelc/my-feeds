@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Nicholas Lund Tracks All 60 Bird Species in Grand Theft Auto VI</h2>
+<a name="story-28278"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audubon writer Nicholas Lund tracked down and documented all 60 bird species available in the newly released video game Grand Theft Auto VI, exploring how Rockstar Games recreated South Florida's ecosystems and wildlife mechanics.</p><p>Using in-game binoculars to study birds across coastal wetlands, northern forests, and urban environments, Lund noted both ecological fidelity and geographical quirks, contrasting the virtual birding experience with the franchise's signature chaos.</p>
+<p>Nov 22 · <a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife">audubon.org</a> | <a href="https://news.ycombinator.com/item?id=50602843">hacker news</a></p>
+<br clear="all" />
+
 <h2>Microsoft Plans to Retire To Do Apps in June 2027</h2>
 <a name="story-28183"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-to-do-retirement.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft plans to retire its Microsoft To Do apps on June 30, 2027, shifting personal task management for work and school accounts into its team project-management application, Planner. The company disclosed the change during its Ignite announcements, noting that existing To Do tasks and lists will not automatically migrate to Planner.</p><p>The decision drew immediate criticism from users and industry analysts who highlighted missing features in Planner, such as the absence of native desktop apps and support for file attachments on private tasks. Furthermore, Microsoft's documentation states that Planner is unavailable for personal Microsoft accounts, leaving paid M365 Personal and Family subscribers without an announced replacement and prompting competing services to offer migration tools.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28023"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FMiami_goes_neon_for_GTA_VI_26322685802529-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>News coverage of the Grand Theft Auto franchise since 2001 maps shifting American cultural anxieties and priorities. Early reports on Grand Theft Auto III and Vice City centered on moral panics regarding violence and youth behavior. Subsequent media scrutiny shifted toward the sexual content and ESRB ratings of San Andreas, the legal disputes surrounding Grand Theft Auto IV, and the unprecedented commercial success of Grand Theft Auto V.</p><p>Current reports on Grand Theft Auto VI prioritize economic concerns, focusing on high production costs, industry-wide layoffs, and the game’s status as a potential final milestone for high-budget titles. Media coverage now focuses on financial sustainability and the economic risks of large-scale entertainment production rather than policing media morality.</p>
 <p>Nov 19 · <a href="https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/">404media.co</a></p>
-<br clear="all" />
-
-<h2>Netflix Appoints Peter Rice as Head of Content</h2>
-<a name="story-27992"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2022%2F06%2Fdisney-13.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Netflix has appointed Peter Rice as its new head of content, succeeding Bela Bajaria following a period of organizational restructuring and mass layoffs. Rice will lead the global content organization with a mandate to improve creative hit rates and deliver "thrilling" content to address stagnant engagement metrics in the U.S. market.</p><p>A veteran of Fox and Disney, Rice is recognized for balancing commercial success with high-end creative projects, including a recent partnership with A24. He faces the challenge of building robust, long-lasting franchises in the absence of major acquisitions while navigating a potential shift toward theatrical releases for Netflix's film slate and a more aggressive marketing strategy.</p>
-<p>Nov 19 · <a href="https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024/">hollywoodreporter.com</a> | <a href="https://about.netflix.com/en/news/peter-rice-named-netflix-chief-content-officer">about.netflix.com</a></p>
 <br clear="all" />
 
 ---

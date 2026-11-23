@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Gliver Window Manager Evaluated for Guix Desktop Experience</title>
+    <link href="https://dustycloud.org/blog/gliver-completes-the-guix-desktop/" rel="alternate" />
+    <id>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/::v241</id>
+    <published>2026-11-22T21:22:00+00:00</published>
+    <updated>2026-11-22T21:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdustycloud.org%2Fmisc%2Febeems-gliver-screenshot.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://dustycloud.org/blog/gliver-completes-the-guix-desktop/">dustycloud.org</a> | <a href="https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop">lobsters</a></small></p><hr/><p>Gliver is an early-stage tiling window manager written in Guile Scheme for Wayland, designed as a live-hackable and understandable desktop environment modeled after tools like StumpWM and Emacs. The author explores transitioning to Gliver from GNOME, highlighting its participatory design philosophy and deep integration with Guile.</p><p>Built on top of the River compositor using Cairo and Pango, Gliver provides a Unix domain socket for a running REPL, allowing users to inspect system state, jump to code definitions, and modify behavior on the fly. Although the software is still in early development—lacking features like interactive command prompts and formal packaging in Guix—it offers a promising foundation for Scheme-based desktop customization.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdustycloud.org%2Fmisc%2Febeems-gliver-screenshot.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 03:44 UTC | #28279</small>]]></content>
+  </entry>
+  <entry>
     <title>Alan Pearce Releases Scriptura Script Management Tool for Fish Shell</title>
     <link href="https://alanpearce.eu/post/scriptura/" rel="alternate" />
     <id>https://alanpearce.eu/post/scriptura/::v241</id>

@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-21T09:13:00+00:00</updated>
+  <updated>2026-11-22T21:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Nicholas Lund Tracks All 60 Bird Species in Grand Theft Auto VI</title>
+    <link href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife" rel="alternate" />
+    <id>https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife::v241</id>
+    <published>2026-11-22T21:21:00+00:00</published>
+    <updated>2026-11-22T21:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife">audubon.org</a> | <a href="https://news.ycombinator.com/item?id=50602843">hacker news</a></small></p><hr/><p>Audubon writer Nicholas Lund tracked down and documented all 60 bird species available in the newly released video game Grand Theft Auto VI, exploring how Rockstar Games recreated South Florida's ecosystems and wildlife mechanics.</p><p>Using in-game binoculars to study birds across coastal wetlands, northern forests, and urban environments, Lund noted both ecological fidelity and geographical quirks, contrasting the virtual birding experience with the franchise's signature chaos.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 03:44 UTC | #28278</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Plans to Retire To Do Apps in June 2027</title>
     <link href="https://www.geekwire.com/2026/microsoft-to-do-users-make-a-big-to-do-over-popular-task-apps-retirement/" rel="alternate" />
