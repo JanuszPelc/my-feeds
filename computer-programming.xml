@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>GitHub Actions Accepts Invalid YAML Workflow Definitions</title>
+    <link href="https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/" rel="alternate" />
+    <id>https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/::v241</id>
+    <published>2026-11-22T21:50:00+00:00</published>
+    <updated>2026-11-22T21:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.freecodecamp.org%2Fportuguese%2Fnews%2Fcontent%2Fimages%2F2024%2F09%2Fgithub-webpage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/">yossarian.net</a> | <a href="https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml">lobsters</a></small></p><hr/><p>GitHub Actions accepts certain workflow definitions containing invalid YAML that fail strict conformance checks by standard parsers. Specifically, multiline flow-style strings nested inside block collections can have closing braces improperly indented relative to their parent keys, violating section 8.2.3 of the YAML specification.</p><p>The issue surfaced during work on the zizmor security scanner when analyzing real-world GitHub Actions workflows that standard tooling rejected. The underlying parser used by GitHub Actions appears to be an older version of YamlDotNet, which continues to exhibit this behavior due to parser limitations handling quoted and unquoted flow nodes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.freecodecamp.org%2Fportuguese%2Fnews%2Fcontent%2Fimages%2F2024%2F09%2Fgithub-webpage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 05:26 UTC | #28285</small>]]></content>
+  </entry>
+  <entry>
+    <title>Testing Terraform Configurations with AWS Emulator</title>
+    <link href="https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/" rel="alternate" />
+    <id>https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/::v241</id>
+    <published>2026-11-22T21:45:00+00:00</published>
+    <updated>2026-11-22T21:45:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnotes.hatedabamboo.me%2Fassets%2Fterraform-tests-with-aws-emulator.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/">notes.hatedabamboo.me</a> | <a href="https://lobste.rs/s/g5msf2/testing_terraform_with_aws_emulator">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50599309">hacker news</a></small></p><hr/><p>The article explores how developers can use the AWS Emulator to test Terraform plans locally and within continuous integration pipelines before applying changes to live infrastructure. By redirecting provider endpoints to a local emulator instance, teams can catch runtime validation errors—such as naming constraints or incompatible configurations—that standard static Terraform plans cannot detect.</p><p>Setting up the emulator requires configuring Terraform providers with custom endpoints, disabling credentials validation, and allowing self-signed certificates. While the tool significantly improves reliability and bridges the gap between staging and production, it still has limitations, including unimplemented API endpoints yielding 501 errors and a lack of full IAM policy emulation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnotes.hatedabamboo.me%2Fassets%2Fterraform-tests-with-aws-emulator.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 05:25 UTC | #28286</small>]]></content>
+  </entry>
+  <entry>
     <title>Gliver Window Manager Evaluated for Guix Desktop Experience</title>
     <link href="https://dustycloud.org/blog/gliver-completes-the-guix-desktop/" rel="alternate" />
     <id>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/::v241</id>
