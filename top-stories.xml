@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-23T08:48:00+00:00</updated>
+  <updated>2026-11-23T13:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Tim O'Reilly Discusses the Shift from Value Creation to Value Extraction in Silicon Valley</title>
+    <link href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/" rel="alternate" />
+    <id>https://www.oreilly.com/radar/what-happened-to-silicon-valley/::v241</id>
+    <published>2026-11-23T13:38:00+00:00</published>
+    <updated>2026-11-23T13:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F67d5cee6d6e35ee617a1a02a4d26db5a2977310f28330c0577f59708817dba7e%2Flightyear_networkapi%2Fresizefill_w976%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fde9cdbbc69da21687c6090ebaf05cc59&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">oreilly.com</a> | <a href="https://news.ycombinator.com/item?id=50602947">hacker news</a></small></p><hr/><p>In a lecture reflecting on his decades in the tech industry, Tim O'Reilly examines how Silicon Valley has shifted from pioneering collaborative networks and creating mutual value to prioritizing extractive practices and short-term shareholder returns. He argues that tech giants like Google and Amazon have transitioned from organic curation to monopolistic advertising and algorithmic gatekeeping, mirroring broader economic incentives that reward rent-seeking over innovation.</p><p>O'Reilly categorizes economic rents into "rising tide" rewards from collective infrastructure improvements and "robber baron" rents acquired through power asymmetries, which he links to Cory Doctorow's concept of "enshittification." He contends that this systemic extraction is driven by corporate governance models prioritizing profit above human flourishing, concluding that meaningful reform requires redesigning market mechanisms rather than merely targeting individual executives.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2F67d5cee6d6e35ee617a1a02a4d26db5a2977310f28330c0577f59708817dba7e%2Flightyear_networkapi%2Fresizefill_w976%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fde9cdbbc69da21687c6090ebaf05cc59&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 03:56 UTC | #28280 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Data Centers Projected to Rely Heavily on Fossil Fuels, Analysis Finds</title>
     <link href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/" rel="alternate" />
