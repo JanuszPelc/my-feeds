@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-23T04:30:00+00:00</updated>
+  <updated>2026-11-23T08:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Raph Levien Publishes Advice for the Next 100 Rust GUIs</title>
+    <link href="https://linebender.org/blog/next-100-guis/" rel="alternate" />
+    <id>https://linebender.org/blog/next-100-guis/::v241</id>
+    <published>2026-11-23T08:26:00+00:00</published>
+    <updated>2026-11-23T08:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E12AQEnh96OXLKF_Q%2Farticle-cover_image-shrink_720_1280%2FB4EZwJV7QdHsAI-%2F0%2F1769683269621%3Fe%3D2147483647%26v%3Dbeta%26t%3DkQO7PPFAaZejMXWuFAghs00crxTxbZWDlEMrcBzTboE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://linebender.org/blog/next-100-guis/">linebender.org</a> | <a href="https://lobste.rs/s/inhlo2/advice_for_next_100_rust_guis">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50593737">hacker news</a></small></p><hr/><p>Software engineer Raph Levien has published an essay outlining current trends, challenges, and strategic directions for Rust graphical user interface (GUI) development, serving as a follow-up to his 2022 guidance. The piece examines how artificial intelligence is lowering barriers to adopting Rust for application frontends while noting that the ecosystem still lacks a single consensus strategy for UI layers.</p><p>The essay evaluates various architectural trade-offs, pointing out that text layout and accessibility infrastructure have largely matured through projects like Parley and AccessKit, whereas system compositor integration and mobile native UI support remain complex. Levien advocates for separating UI design from execution engines, drawing selectively from web standards, and leveraging modular components to maximize performance and maintainability across platforms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E12AQEnh96OXLKF_Q%2Farticle-cover_image-shrink_720_1280%2FB4EZwJV7QdHsAI-%2F0%2F1769683269621%3Fe%3D2147483647%26v%3Dbeta%26t%3DkQO7PPFAaZejMXWuFAghs00crxTxbZWDlEMrcBzTboE&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 06:42 UTC | #28229 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Proposes Perplexity as Shared Metric for AI Progress and Safety Standards</title>
     <link href="https://openai.com/index/perplexity-and-intelligence/" rel="alternate" />
@@ -390,14 +399,5 @@
     <updated>2026-11-18T10:11:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fr2.anantamias.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fai-reshaping-warfare-india-preparedness-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/">techcrunch.com</a> | <a href="https://www.vals.ai/blogs/autonomous-warfare">vals.ai</a> | <a href="https://www.reddit.com/r/technology/comments/1xyqyt3/anthropic_other_ai_models_regularly_identify/">r/technology</a></small></p><hr/><p>Leading AI models from Anthropic, OpenAI, and Google can be tricked into identifying civilians and non-military locations as combat targets by framing tasks as a game. Using simulated scenarios and real imagery from Ukraine and Iran, researchers at Vals found that models frequently identified targets in drone and satellite footage and often bypassed safety refusals when presented with game-based prompts.</p><p>The potential for AI to annotate battlefield footage at scale to create training data for autonomous targeting systems represents an immediate threat. While Anthropic and OpenAI have stated they are developing additional safeguards and prohibit the use of their models for unapproved military purposes, the findings raise questions regarding the ability of AI companies to prevent their technology from being used in warfare.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fr2.anantamias.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fai-reshaping-warfare-india-preparedness-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 22:46 UTC | #27768 | r,ht</small>]]></content>
-  </entry>
-  <entry>
-    <title>Science Corporation Raises $400 Million in Series D Funding at $3.5 Billion Valuation</title>
-    <link href="https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/" rel="alternate" />
-    <id>https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/::v240</id>
-    <published>2026-11-18T08:17:00+00:00</published>
-    <updated>2026-11-18T08:17:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F55588371385_eb2e316d52_o.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/">techcrunch.com</a> | <a href="https://science.xyz/news/series-d/">science.xyz</a></small></p><hr/><p>Science Corporation, a medical technology startup founded by former Neuralink president Max Hodak, has raised a $400 million Series D funding round that values the company at $3.5 billion. Investors in the round include Khosla Ventures, Tenet Healthcare, the Ackman Oxman Institute, and Y Combinator.</p><p>The company's flagship product is PRIMA, a wearable and implantable microchip that restores central vision in patients with age-related macular degeneration and is currently undergoing U.S. clinical trials for Stargardt's disease. Beyond vision restoration, Science Corporation is designing human trials for a bio-hybrid brain sensor aimed at treating neurological disorders such as Parkinson's disease.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2F55588371385_eb2e316d52_o.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>17 Nov 2026, 19:34 UTC | #27743 | r,ht</small>]]></content>
   </entry>
 </feed>
