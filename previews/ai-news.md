@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Z.ai Launches GLM-5.4 Flagship Model on Loop Transformer Architecture</h2>
+<a name="story-28306"><img src="https://wsrv.nl/?url=https%3A%2F%2Fz-ai-bj.oss-cn-beijing.aliyuncs.com%2Fprompts-rich-media-resources%2F5.4-blog%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Z.ai has released GLM-5.4, a 750B-parameter flagship model built on the Loop Transformer architecture. The company reports that the model achieves intelligence levels comparable to much larger models in the 2 trillion to 3 trillion parameter range.</p><p>The development of GLM-5.4 involved a three-month process of scaling loop depth and model size in parallel. The release serves as a demonstration of the Loop Transformer's ability to deliver high-tier intelligence with a lower total parameter count than competing large-scale architectures.</p>
+<p>Nov 23 · <a href="https://z.ai/blog/glm-5.4">z.ai</a> | <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y3enps/glm54_toward_generalized_coding_with_our_first/">r/LocalLLaMA</a> | <a href="https://news.ycombinator.com/item?id=50609685">hacker news</a></p>
+<br clear="all" />
+
 <h2>LALAL.AI Launches Black Friday Sale with Discounts on Pro Plans and Minute Packs</h2>
 <a name="story-28325"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsblog.lalal.ai%2Fghost%2F2024%2F11%2FScreenshot_2015.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>LALAL.AI has launched its Black Friday promotion, offering a 40% discount on its annual Pro subscription and select processing-minute packs through December 4, 2026. The annual Pro plan is priced at $108 for the first year, reduced from $180, while one-time Premium and Enterprise minute packs are discounted to $114 and $180, respectively.</p><p>The Pro subscription includes online processing via monthly Fast Queue minutes as well as local stem separation, speech cleaning, and voice dereverberation plugins for macOS, Windows, and Linux. These local plugins process audio directly on the user's computer without consuming cloud minutes. The discount applies to up to ten minute packs per account, though it does not cover third-party hardware products like the crowdfunded Neko guitar rig powered by LALAL.AI technology.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-28186"><img src="https://wsrv.nl/?url=https%3A%2F%2Finferencekey.com%2Fassets%2Fresearch%2Fsensenova-loop-9b-looped-model-one-gpu%2Fdeploy-demo-poster.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenSenseNova has officially released SenseNova-Loop-9B, an open-weight multimodal model that uses a looped architecture to expand computational depth within a compact parameter budget. By repeatedly executing shared middle decoder layers to produce 56 layer computations from 32 distinct physical layers, the 9-billion-parameter model achieves performance comparable to larger systems on complex reasoning, coding, and data analysis tasks.</p><p>The architecture incorporates two-stream manifold-constrained hyper-connections and hybrid attention, supporting a 512K token context length. Designed for efficient local execution, the model requires approximately 15 GiB of GPU memory for a 256K context length when using 4-bit weights and an 8-bit KV cache, with official AWQ and GGUF quantization weights provided.</p>
 <p>Nov 21 · <a href="https://github.com/OpenSenseNova/SenseNova-Loop">github.com</a></p>
-<br clear="all" />
-
-<h2>Thinking Machines Lab Releases Inkling 2 Mini Open-Weights Model</h2>
-<a name="story-28161"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F07%2FInkling-vs.-Frontier-AI-Models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Thinking Machines Lab has released Inkling 2 Mini, a 26.4-billion-parameter open-weights mixture-of-experts model designed to run locally on consumer hardware. The model utilizes a looped transformer architecture that processes its middle layers three times per token, enabling enhanced reasoning capabilities with fewer total tokens.</p><p>Featuring a memory footprint of approximately 20 gigabytes, Inkling 2 Mini achieves leading performance among sub-100B parameter open-weights models on agentic coding benchmarks such as DeepSWE v1.1 and Vals Index v2.2. The release is accompanied by a variable-loop research variant intended to help researchers study the impact of architectural looping on model monitorability and chain-of-thought progression.</p>
-<p>Nov 20 · <a href="https://thinkingmachines.ai/news/inkling-2-mini/">thinkingmachines.ai</a> | <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y1diuk/thinkingmachinesinkling2mini_moe_26b_a3b/">r/LocalLLaMA</a> | <a href="https://news.ycombinator.com/item?id=50581260">hacker news</a></p>
 <br clear="all" />
 
 ---

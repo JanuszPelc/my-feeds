@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-23T14:45:00+00:00</updated>
+  <updated>2026-11-23T15:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Defense Startup Agon Raises $70 Million Series A at $450 Million Valuation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss::v241</id>
+    <published>2026-11-23T15:12:00+00:00</published>
+    <updated>2026-11-23T15:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2FNorthzone-Partners-September-2022-scaled-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss">bloomberg.com</a></small></p><hr/><p>London-based startup Agon has secured $70 million in a Series A funding round led by Northzone, valuing the company at $450 million. The startup specializes in defense simulation software for the European defense industry, focusing on the development of synthetic training environments for artificial intelligence applications.</p><p>Agon recently emerged from stealth earlier in 2026 following a $30 million funding round. The firm's technology provides gamified, synthetic battlefield infrastructure designed to train defense AI, positioning it as a key developer of military simulation software in Europe.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2FNorthzone-Partners-September-2022-scaled-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 20:54 UTC | #28304</small>]]></content>
+  </entry>
   <entry>
     <title>President Trump Hosts Dinner for $TRUMP Meme Coin Collectors</title>
     <link href="https://www.washingtonpost.com/politics/2026/11/22/trump-hosts-crypto-traders-demand-his-meme-coin-fades/" rel="alternate" />

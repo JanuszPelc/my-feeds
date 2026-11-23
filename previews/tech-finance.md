@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Defense Startup Agon Raises $70 Million Series A at $450 Million Valuation</h2>
+<a name="story-28304"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2FNorthzone-Partners-September-2022-scaled-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>London-based startup Agon has secured $70 million in a Series A funding round led by Northzone, valuing the company at $450 million. The startup specializes in defense simulation software for the European defense industry, focusing on the development of synthetic training environments for artificial intelligence applications.</p><p>Agon recently emerged from stealth earlier in 2026 following a $30 million funding round. The firm's technology provides gamified, synthetic battlefield infrastructure designed to train defense AI, positioning it as a key developer of military simulation software in Europe.</p>
+<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>President Trump Hosts Dinner for $TRUMP Meme Coin Collectors</h2>
 <a name="story-28298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdr46azxe5rdcu.cloudfront.net%2Fwp-content%2Fuploads%2F2025%2F05%2F22081427%2FImage-22-19-852x485.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Trump hosted an upscale dinner for prominent investors of his $TRUMP meme coin. An analysis of the event reveals that the entry cost to qualify for the dinner has plummeted to as low as $518, a significant decrease from its 2025 peak of $55,000.</p><p>The drop in admission costs reflects a cooling of demand and a collapse in the market value of the meme coin. The dinner, which previously commanded a high premium for access, now serves as a symbol of the declining hype and shifting investor dynamics surrounding the token.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28131"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F13131705%2Flinq%2A1200xx6946-3907-0-362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Linq, a startup that provides texting and calling infrastructure for artificial intelligence agents, has raised $90 million in a Series B funding round led by Andreessen Horowitz. The financing follows a $20 million Series A round secured by the Birmingham-based company earlier in the year.</p><p>The new funding round includes participation from TQ Ventures, Mucker Capital, Abstract, Anthos, and Left Lane Capital. Alongside the investment, Andreessen Horowitz co-founder Ben Horowitz is joining Linq's board of directors.</p>
 <p>Nov 20 · <a href="https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all">bizjournals.com</a> | <a href="https://a16z.com/announcement/investing-in-linq/">a16z.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Shares Fall 8.5% on Second Day of Trading Following IPO</h2>
-<a name="story-28127"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spaziocrypto.com%2Fcontent%2Fimages%2F2026%2F11%2Fusa-anthropic-ipo-roadshow-to-pricing.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic PBC shares dropped 8.5% to $88.91 on their second day of trading on the Nasdaq, trimming the gains achieved during the company's historic initial public offering priced at $83 per share.</p><p>The decline follows a massive first-day market debut, testing investor sentiment toward high-profile artificial intelligence companies as broader market enthusiasm faces increased scrutiny.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
