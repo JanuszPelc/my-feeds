@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sound Dust Releases Naive Lo-Fi Tape and Space Echo Sample Library for Kontakt</h2>
+<a name="story-28340"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffinger--vl-tone.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sound Dust has released naive, a new sample library for the full version of Native Instruments Kontakt 7+ created from 30 vintage digital, no-fi, and hybrid sound sources recorded through a Roland Space Echo tape loop. The instrument features a 3-cell engine that maps decaying tape repeats across keyboard velocity to generate textured tape echoes and disintegrating tape patina.</p><p>The library includes 150 presets across two snapshot pages, offering per-cell controls for pitch, pan, wobble, filters, lo-fi processing, chaos control, reverb, and envelopes. It requires a 1.7 GB download and the full version of Kontakt 7+, and is available at an introductory discount until December 13, 2026.</p>
+<p>Nov 23 · <a href="https://www.kvraudio.com/news/sound-dust-releases-naive---lo-fi-tape-and-space-echo-sample-library-for-kontakt-70077?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70077">kvraudio.com</a> | <a href="https://www.sound-dust.com/naive">sound-dust.com</a></p>
+<br clear="all" />
+
+<h2>GS DSP Releases Version 2026.6 Update</h2>
+<a name="story-28341"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgs-dsp-update-2026-6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GS DSP has released version 2026.6 of its plugin suite, introducing several new modulation features and interface refinements. Key updates include CrossModulation for MMM and MMMm, a 2D DVD modulator, and a MIDI Note Modulator that utilizes "Average Note" for improved chord handling.</p><p>The update also features a Custom LFO Performance Mode for live multitouch control and allows for arbitrary resizing of interface elements by dragging corners. Users can now see their most recently used modulators when adding new ones, and the 2026.6 update is provided free of charge for existing customers.</p>
+<p>Nov 23 · <a href="https://www.kvraudio.com/news/gs-dsp-update-all-plugins-to-2026-6-70076?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70076">kvraudio.com</a> | <a href="https://gs-dsp.com/">gs-dsp.com</a></p>
+<br clear="all" />
+
 <h2>Tech Audio Releases Shrapnel v1.2 with Local Gravity and MSEG Modes</h2>
 <a name="story-28299"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fshrapnel_1-2_collider_panel.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tech Audio has updated its physics-driven sampler and MIDI generator, Shrapnel, to version 1.2. The update introduces local gravity features that allow colliders to pull or push particles using Amount, Reach, and Spin controls. New functionality includes a full sandbox view with floating windows, "MSEG Follow" for dynamic envelope playback, and the ability to map audio parameters such as volume, pitch, and filter ranges to particle speed and size.</p><p>Additional improvements in the update include an output strip equipped with a level meter, limiter, and output gain, as well as Attack and Decay shapes for Granular and Audio Input envelopes. Shrapnel is available for macOS and Windows in VST3, CLAP, AU, AAX, and Standalone formats for $49 USD, with a 30% discount currently available through a promotional code.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FilC0nTcWu1w%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pro Sound Effects is offering its cinematic sound effects library, Odyssey Collection: Design Elements, for free using the coupon code ODYSSEY26 at checkout. Normally priced at $149, the library contains 254 files totaling 1.51 GB of 16-bit and 24-bit WAV audio recorded at 48 kHz.</p><p>Created in collaboration with Hollywood sound editors Mark Mangini and Richard L. Anderson, the collection features sci-fi and action-oriented audio assets including whooshes, metal impacts, deep rumbles, and explosions. The download includes a single-user license granting lifetime, royalty-free commercial use across video production, game design, and music creation.</p>
 <p>Nov 22 · <a href="https://bedroomproducersblog.com/2026/11/22/pro-sound-effects-odyssey-collection/">bedroomproducersblog.com</a> | <a href="https://www.prosoundeffects.com/libraries/odyssey-collection-design-elements">prosoundeffects.com</a></p>
-<br clear="all" />
-
-<h2>Helgoboss Updates Playtime Clip Launcher for REAPER to v2.20</h2>
-<a name="story-28247"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fplaytime-screenshot-dark.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Helgoboss Projects has released version 2.20 of Playtime, a major update for its clip launching plugin for REAPER. The update introduces adjustable clip speed and tempo, waveform editing, zoom capabilities, improved audio recording, and enhanced Linux support.</p><p>Additionally, the version adds a new browser supporting plugins, presets, FX chains, track templates, and NKS preset previews. The update is free for existing Playtime 2 users, and the developer is offering a 25% discount on the software through November 30, 2026.</p>
-<p>Nov 22 · <a href="https://www.kvraudio.com/news/helgoboss-updates-playtime-clip-launcher-for-reaper-to-v2-20-69976?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69976">kvraudio.com</a> | <a href="https://www.helgoboss.org/projects/playtime">helgoboss.org</a></p>
-<br clear="all" />
-
-<h2>NovoNotes Releases SnapClip Pro Clipper and Loudness Enhancer Plugin</h2>
-<a name="story-28206"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsnapclip-pro-1-0-0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>NovoNotes has released SnapClip Pro, a mastering-grade clipper and loudness enhancement plug-in designed for professional bus and master processing. The software combines a bit-transparent clipper with a modern implementation of a classic loudness enhancement curve to increase harmonic density and RMS levels while preserving the clip ceiling.</p><p>The plug-in features up to 64x oversampling, Anti-Derivative Antialiasing, switchable linear and minimum phase modes, and comprehensive monitoring tools including loudness-matched bypass and a Delta listening mode. Available for macOS and Windows in VST3, AU, and AAX formats, SnapClip Pro includes a standard SnapClip license and is offered at an introductory price through November 30, 2026.</p>
-<p>Nov 21 · <a href="https://www.kvraudio.com/news/novonotes-releases-snapclip-pro---bit-transparent-clipper-and-inflate-loudness-enhancer-aax-au-and-vst3-69966?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69966">kvraudio.com</a> | <a href="https://novo-notes.com/snapclip-pro">novo-notes.com</a></p>
 <br clear="all" />
 
 ---
