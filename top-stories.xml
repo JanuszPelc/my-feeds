@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-23T08:26:00+00:00</updated>
+  <updated>2026-11-23T08:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Anthropic Data Centers Projected to Rely Heavily on Fossil Fuels, Analysis Finds</title>
+    <link href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/" rel="alternate" />
+    <id>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/::v241</id>
+    <published>2026-11-23T08:48:00+00:00</published>
+    <updated>2026-11-23T08:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fxyz.pl%2Fwp-content%2Fuploads%2F2026%2F11%2FGettyImages-2305196407-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">betterdatacenterproject.com</a> | <a href="https://news.ycombinator.com/item?id=50597612">hacker news</a></small></p><hr/><p>An analysis by the Better Data Center Project examines the power commitments of AI company Anthropic, estimating that approximately 87 percent of its contracted U.S. data center power in 2028 will come from natural gas and 11 percent from coal. The report indicates that Anthropic has made no direct commitments to U.S. renewable energy, relying instead on a combination of on-site gas generation and marginal fossil fuels from the grid.</p><p>The resulting carbon dioxide emissions from these facilities could reach between 17 and 38 million metric tons annually by 2028, potentially surpassing the combined 2025 location-based Scope 2 emissions of Google, Microsoft, and Meta. Furthermore, the analysis projects that associated air pollution could cause billions of dollars in annual health damages due to nitrogen oxides and fine particulate matter.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fxyz.pl%2Fwp-content%2Fuploads%2F2026%2F11%2FGettyImages-2305196407-1920x1080.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Nov 2026, 17:21 UTC | #28251 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Raph Levien Publishes Advice for the Next 100 Rust GUIs</title>
     <link href="https://linebender.org/blog/next-100-guis/" rel="alternate" />
