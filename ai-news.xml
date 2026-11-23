@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-22T21:53:00+00:00</updated>
+  <updated>2026-11-23T05:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>GPT-6.2 Astra and Claude Fable 5.2 Performance and Cost Compared</title>
+    <link href="https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/" rel="alternate" />
+    <id>https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/::v241</id>
+    <published>2026-11-23T05:15:00+00:00</published>
+    <updated>2026-11-23T05:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwinbuzzer.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGPT-5.6-Agents-Last-Exam-Score-vs.-Cost-1068x773.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/">thenewstack.io</a></small></p><hr/><p>OpenAI's GPT-6.2 Astra and Anthropic's Claude Fable 5.2 deliver nearly identical accuracy across structured evaluation tests, including a month-end close agent task, a coding library bug-fix task, and a lab data analysis task. However, GPT-6.2 Astra achieves these results at a fraction of the token usage and cost, running significantly faster than Fable 5.2.</p><p>Following a price reduction that aligns Astra's list price with Fable 5.2, the two models compete closely on capabilities, with Fable 5.2 exhibiting higher reasoning token expenditure to edge out Astra slightly in coding precision. Despite mixed reviews regarding safety evaluations and blocker disclosure in internal testing, Astra's lower token consumption makes it a more cost-effective option for high-volume production workloads.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwinbuzzer.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGPT-5.6-Agents-Last-Exam-Score-vs.-Cost-1068x773.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 11:56 UTC | #28272</small>]]></content>
+  </entry>
   <entry>
     <title>GPU Partner Publishes Beginner Guide to Running Local AI with Unsloth and Qwen</title>
     <link href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth" rel="alternate" />
