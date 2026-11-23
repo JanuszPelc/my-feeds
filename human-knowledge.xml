@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-22T18:44:00+00:00</updated>
+  <updated>2026-11-22T18:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Jony Ive and Joey Flynn on Silicon Valley's Obsession with Taste as a Defense Against AI Slop</title>
+    <link href="https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&amp;smid=url-share::v241</id>
+    <published>2026-11-22T18:47:00+00:00</published>
+    <updated>2026-11-22T18:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcloudnews.tech%2Fwp-content%2Fuploads%2F2025%2F05%2Fopen-ai-io-jony-ive.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&smid=url-share">nytimes.com</a></small></p><hr/><p>Designer Jony Ive, former OpenAI product designer Joey Flynn, and other technology figures examine Silicon Valley's increasing reliance on aesthetic "taste" as a perceived competitive moat against the proliferation of low-quality, AI-generated content.</p><p>The discussion explores whether human aesthetic judgment can protect products from becoming saturated with generative digital filler, and whether artificial intelligence systems can ever truly develop an equivalent sense of taste.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcloudnews.tech%2Fwp-content%2Fuploads%2F2025%2F05%2Fopen-ai-io-jony-ive.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 01:05 UTC | #28245</small>]]></content>
+  </entry>
   <entry>
     <title>US Army Plans In-Place Detonation of Unstable Lead Azide at Iowa Ammunition Plant</title>
     <link href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really" rel="alternate" />
