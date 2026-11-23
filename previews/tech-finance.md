@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>President Trump Hosts Dinner for $TRUMP Meme Coin Collectors</h2>
+<a name="story-28298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdr46azxe5rdcu.cloudfront.net%2Fwp-content%2Fuploads%2F2025%2F05%2F22081427%2FImage-22-19-852x485.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>President Trump hosted an upscale dinner for prominent investors of his $TRUMP meme coin. An analysis of the event reveals that the entry cost to qualify for the dinner has plummeted to as low as $518, a significant decrease from its 2025 peak of $55,000.</p><p>The drop in admission costs reflects a cooling of demand and a collapse in the market value of the meme coin. The dinner, which previously commanded a high premium for access, now serves as a symbol of the declining hype and shifting investor dynamics surrounding the token.</p>
+<p>Nov 23 · <a href="https://www.washingtonpost.com/politics/2026/11/22/trump-hosts-crypto-traders-demand-his-meme-coin-fades/">washingtonpost.com</a></p>
+<br clear="all" />
+
 <h2>Sierra Raises $1.75 Billion to Reach $30 Billion Valuation</h2>
 <p>Sierra has secured $1.75 billion in a Series F funding round led by Greenoaks and Lightspeed Venture Partners, doubling the enterprise customer experience company's valuation to $30 billion within six months. The firm currently serves nearly 50% of Fortune 500 companies and recently reported doubling its run-rate revenue to $400 million through an outcome-based pricing model.</p><p>The new capital will be used to expand Sierra's technology stack for servicing agents and hire more sales personnel to accelerate enterprise contract acquisition. While the AI-driven customer experience market sees high valuations for competitors like ElevenLabs and Decagon, Sierra is also developing agent protocol definitions with partners including Meta, Stripe, and Walmart.</p>
 <p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/">techcrunch.com</a></p>
@@ -88,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28127"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.spaziocrypto.com%2Fcontent%2Fimages%2F2026%2F11%2Fusa-anthropic-ipo-roadshow-to-pricing.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic PBC shares dropped 8.5% to $88.91 on their second day of trading on the Nasdaq, trimming the gains achieved during the company's historic initial public offering priced at $83 per share.</p><p>The decline follows a massive first-day market debut, testing investor sentiment toward high-profile artificial intelligence companies as broader market enthusiasm faces increased scrutiny.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Coinbase Targets First Half of 2027 for In-House Prediction Markets</h2>
-<p>Coinbase Global Inc. is planning to launch its own in-house event contracts in the United States during the first half of 2027. The move would transition the cryptocurrency exchange away from its current reliance on a partnership with Kalshi for prediction market offerings.</p><p>Coinbase initially introduced prediction markets nationwide in January 2026 through an integration with Kalshi. Although company executives previously signaled an intent to list proprietary contracts, the reported timeline indicates an independent offering is targeted for mid-2027.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
