@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Marches &amp; Gnats Programming Challenge Game Released</h2>
+<a name="story-28311"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmng.quest%2Fstatic%2Fpage-covers%2Ftutorial.d1d0d16aafd5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Marches &amp; Gnats is a browser-based coding puzzle game inspired by Advent of Code and built around a single-tape Turing machine. Set in 19th-century Estonia, the game tasks players with writing instructions for the Logic Mill to help a character named Mihkel across 46 distinct quests.</p><p>The project incorporates leaderboards and features integration for AI agents designed to attempt the programming challenges. Players and enthusiasts can track ongoing updates and discussions through the game's official Substack, Reddit, Discord, and X channels.</p>
+<p>Nov 23 · <a href="https://mng.quest/">mng.quest</a> | <a href="https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges">lobsters</a></p>
+<br clear="all" />
+
 <h2>Nicholas Lund Tracks All 60 Bird Species in Grand Theft Auto VI</h2>
 <a name="story-28278"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audubon writer Nicholas Lund tracked down and documented all 60 bird species available in the newly released video game Grand Theft Auto VI, exploring how Rockstar Games recreated South Florida's ecosystems and wildlife mechanics.</p><p>Using in-game binoculars to study birds across coastal wetlands, northern forests, and urban environments, Lund noted both ecological fidelity and geographical quirks, contrasting the virtual birding experience with the franchise's signature chaos.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28012"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.yugatech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fandroid-foldable-full-screen-app-support-2.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Starting in April 2027, Google will require Android app developers to meet its "Tier 3 — Adaptive ready" standard, ensuring apps fill foldable displays without letterboxing and preserve state during actions like rotation and unfolding. Non-compliant developers risk publication restrictions or reduced visibility on Google Play, alongside a new requirement to provide three foldable screenshots for their app listings.</p><p>Game developers have until August 2027 to comply with parallel large-screen and foldable standards, though they must also submit foldable screenshots starting in April. Google plans to expand these quality requirements to other large-screen devices, including tablets and laptops, in future phases.</p>
 <p>Nov 19 · <a href="https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support">theverge.com</a> | <a href="https://developer.android.com/blog/posts/google-play-adaptive-quality-standards">developer.android.com</a></p>
-<br clear="all" />
-
-<h2>Grand Theft Auto News Coverage Reflects Changing Cultural Anxieties</h2>
-<a name="story-28023"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FMiami_goes_neon_for_GTA_VI_26322685802529-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>News coverage of the Grand Theft Auto franchise since 2001 maps shifting American cultural anxieties and priorities. Early reports on Grand Theft Auto III and Vice City centered on moral panics regarding violence and youth behavior. Subsequent media scrutiny shifted toward the sexual content and ESRB ratings of San Andreas, the legal disputes surrounding Grand Theft Auto IV, and the unprecedented commercial success of Grand Theft Auto V.</p><p>Current reports on Grand Theft Auto VI prioritize economic concerns, focusing on high production costs, industry-wide layoffs, and the game’s status as a potential final milestone for high-budget titles. Media coverage now focuses on financial sustainability and the economic risks of large-scale entertainment production rather than policing media morality.</p>
-<p>Nov 19 · <a href="https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/">404media.co</a></p>
 <br clear="all" />
 
 ---

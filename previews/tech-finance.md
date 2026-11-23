@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>TPG and Corpay to Acquire BILL Holdings in $6 Billion Take-Private Deal</h2>
+<a name="story-28274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fflagshipadvisorypartners.com%2Fwp-content%2Fuploads%2F2026%2F03%2FSlide2-May-09-2025-05-03-06-3524-PM-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Private equity firm TPG and corporate payments company Corpay have agreed to acquire financial automation software provider BILL Holdings in a take-private transaction valued at approximately $6 billion. Under the terms of the agreement, BILL shareholders will receive $63.25 per share in cash.</p><p>Founder René Lacerte will remain as CEO of the company following the completion of the buyout. The transaction is expected to close in the first half of 2027, pending customary regulatory approvals and closing conditions.</p>
+<p>Nov 23 · <a href="https://www.reuters.com/legal/transactional/bill-holdings-be-taken-private-by-tpg-6-billion-equity-value-2026-11-19/">reuters.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/0001786352/000119312526469396/d176726dex991.htm">sec.gov</a></p>
+<br clear="all" />
+
 <h2>Amazon Nearing $7.5B Acquisition of AI Startup Decart</h2>
 <a name="story-28209"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fdims4%2Fdefault%2F062532c%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F1596x900%2B0%2B0%2Fresize%2F1318x743%21%2Fquality%2F90%2F%3Furl%3Dhttps%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb0%2Fad%2F8a93cf6644b096f1345bb54cbf03%2Fabout-amazon-inline-aws-trainium-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is in advanced talks to acquire artificial intelligence startup Decart for approximately $7.5 billion. The proposed acquisition is intended to strengthen Amazon Web Services' computing capabilities and help the company compete with Nvidia in the AI infrastructure market.</p><p>Decart develops real-time generative AI models designed for high efficiency, which could integrate into Amazon's cloud offerings and custom silicon strategy. Negotiations are progressing rapidly, with a final deal potentially reached soon.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28073"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-cabinet.ua.news%2Fuploads%2Fimages%2Fintuit_sell_mailchimp_to_bending_spoons_1795122984120.webp%3F8179416&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intuit has agreed to sell its marketing subsidiary Mailchimp to Italian technology consolidator Bending Spoons for $3.68 billion in cash and stock, with the transaction expected to close in early 2027. The agreement marks a significant loss for Intuit, which acquired the email-marketing platform for $12 billion in 2021 before it became a drag on overall revenue growth.</p><p>The acquisition follows Bending Spoons' recent purchases of several prominent software assets, including Airtable, Evernote, and WeTransfer. Alongside the sale announcement, Intuit reported fiscal first-quarter earnings that surpassed Wall Street expectations, though its shares declined in extended trading following weaker-than-expected fiscal-year revenue guidance.</p>
 <p>Nov 20 · <a href="https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html">cnbc.com</a> | <a href="https://investors.intuit.com/news-events/press-releases/detail/1331/intuit-reports-first-quarter-results-and-enters-agreement-to-sell-mailchimp-to-bending-spoons">investors.intuit.com</a> | <a href="https://news.ycombinator.com/item?id=50573044">hacker news</a></p>
-<br clear="all" />
-
-<h2>Alphabet Plans $3.5 Billion Canadian Bond Sale</h2>
-<a name="story-28056"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg%2Fv1%2Ffill%2Fw_1000%2Ch_1000%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Ffcd53a_10586683d9614b82b4bed8c035091bd5~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Alphabet Inc. is returning to the Canadian debt market with a five-part offering aiming to raise at least C$5 billion ($3.5 billion). The deal includes both fixed- and floating-rate notes with maturities ranging from three to 40 years.</p><p>This follows the company's inaugural Canadian dollar bond sale six months prior, which raised C$8.5 billion as part of a broader multi-currency fundraising effort. The move reflects continued corporate debt issuance in foreign currencies to fund ongoing capital requirements and investments.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

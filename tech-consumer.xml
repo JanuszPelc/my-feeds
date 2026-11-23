@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-22T21:21:00+00:00</updated>
+  <updated>2026-11-23T05:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Marches &amp; Gnats Programming Challenge Game Released</title>
+    <link href="https://mng.quest/" rel="alternate" />
+    <id>https://mng.quest/::v241</id>
+    <published>2026-11-23T05:18:00+00:00</published>
+    <updated>2026-11-23T05:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmng.quest%2Fstatic%2Fpage-covers%2Ftutorial.d1d0d16aafd5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://mng.quest/">mng.quest</a> | <a href="https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges">lobsters</a></small></p><hr/><p>Marches &amp; Gnats is a browser-based coding puzzle game inspired by Advent of Code and built around a single-tape Turing machine. Set in 19th-century Estonia, the game tasks players with writing instructions for the Logic Mill to help a character named Mihkel across 46 distinct quests.</p><p>The project incorporates leaderboards and features integration for AI agents designed to attempt the programming challenges. Players and enthusiasts can track ongoing updates and discussions through the game's official Substack, Reddit, Discord, and X channels.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmng.quest%2Fstatic%2Fpage-covers%2Ftutorial.d1d0d16aafd5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 12:41 UTC | #28311</small>]]></content>
+  </entry>
   <entry>
     <title>Nicholas Lund Tracks All 60 Bird Species in Grand Theft Auto VI</title>
     <link href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife" rel="alternate" />
