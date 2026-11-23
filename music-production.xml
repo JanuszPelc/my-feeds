@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-23T11:28:00+00:00</updated>
+  <updated>2026-11-23T13:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Untitled Audio Syndicate Releases Khorde Free MIDI Chord Generator Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/23/untitled-audio-syndicate-khorde/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/23/untitled-audio-syndicate-khorde/::v241</id>
+    <published>2026-11-23T13:40:00+00:00</published>
+    <updated>2026-11-23T13:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiartist.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fmaxresdefault-24.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/23/untitled-audio-syndicate-khorde/">bedroomproducersblog.com</a> | <a href="https://untitledaudiosyndicate.com/freeware/khorde">untitledaudiosyndicate.com</a></small></p><hr/><p>Untitled Audio Syndicate has released Khorde, a free VST3 MIDI chord generator plugin for macOS and Windows. Derived from the chord player in the developer's SAWW synthesizer, the plugin allows users to play full chords using single root notes and route the generated MIDI output to any instrument track in a digital audio workstation.</p><p>The software features 18 chord shapes—including basic triads, sevenths, ninths, and suspended chords—alongside five inversion settings and closed, open, and drop-2 voicing options. It also includes a hold function to sustain chords after key release, and can be triggered via MIDI clips or an on-screen keyboard without requiring an account or checkout.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiartist.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fmaxresdefault-24.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 18:44 UTC | #28326</small>]]></content>
+  </entry>
   <entry>
     <title>Sound Dust Releases Naive Lo-Fi Tape and Space Echo Sample Library for Kontakt</title>
     <link href="https://www.kvraudio.com/news/sound-dust-releases-naive---lo-fi-tape-and-space-echo-sample-library-for-kontakt-70077?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70077" rel="alternate" />

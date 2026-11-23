@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Untitled Audio Syndicate Releases Khorde Free MIDI Chord Generator Plugin</h2>
+<a name="story-28326"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiartist.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fmaxresdefault-24.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Untitled Audio Syndicate has released Khorde, a free VST3 MIDI chord generator plugin for macOS and Windows. Derived from the chord player in the developer's SAWW synthesizer, the plugin allows users to play full chords using single root notes and route the generated MIDI output to any instrument track in a digital audio workstation.</p><p>The software features 18 chord shapes—including basic triads, sevenths, ninths, and suspended chords—alongside five inversion settings and closed, open, and drop-2 voicing options. It also includes a hold function to sustain chords after key release, and can be triggered via MIDI clips or an on-screen keyboard without requiring an account or checkout.</p>
+<p>Nov 23 · <a href="https://bedroomproducersblog.com/2026/11/23/untitled-audio-syndicate-khorde/">bedroomproducersblog.com</a> | <a href="https://untitledaudiosyndicate.com/freeware/khorde">untitledaudiosyndicate.com</a></p>
+<br clear="all" />
+
 <h2>Sound Dust Releases Naive Lo-Fi Tape and Space Echo Sample Library for Kontakt</h2>
 <a name="story-28340"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffinger--vl-tone.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sound Dust has released naive, a new sample library for the full version of Native Instruments Kontakt 7+ created from 30 vintage digital, no-fi, and hybrid sound sources recorded through a Roland Space Echo tape loop. The instrument features a 3-cell engine that maps decaying tape repeats across keyboard velocity to generate textured tape echoes and disintegrating tape patina.</p><p>The library includes 150 presets across two snapshot pages, offering per-cell controls for pitch, pan, wobble, filters, lo-fi processing, chaos control, reverb, and envelopes. It requires a 1.7 GB download and the full version of Kontakt 7+, and is available at an introductory discount until December 13, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28238"><img src="https://wsrv.nl/?url=https%3A%2F%2Fguildwatergear.com%2Fcdn%2Fshop%2Fproducts%2FApplied_Acoustics_Systems_Ultra_Analog_VA-3_Synthesizer_GUI_02__48704.jpg%3Fv%3D1751492331%26width%3D1946&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Applied Acoustics Systems has discounted its Ultra Analog VA-3 virtual analog synthesizer to $89 from a regular price of $199. The Black Friday sale, available through ILIO from November 19 to December 3, also includes Pro Series instruments such as Chromaphone 3, Lounge Lizard EP-5, Multiphonics CV-3, String Studio VS-3, and Strum GS-2 at the same reduced price.</p><p>The sale encompasses individual sound packs for $19 and several bundles, including the Modeling Collection for $219 and The Integral for $399. Bedroom Producers Blog readers can access an additional 10% discount using a specific coupon code. The Ultra Analog VA-3 features circuit modeling to replicate analog components and provides two independent layers for stacking or splitting across the keyboard.</p>
 <p>Nov 22 · <a href="https://bedroomproducersblog.com/2026/11/22/aas-ultra-analog-bpb-deal/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/products/aas">ilio.com</a></p>
-<br clear="all" />
-
-<h2>Pro Sound Effects Offers Odyssey Collection: Design Elements for Free</h2>
-<a name="story-28239"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FilC0nTcWu1w%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Pro Sound Effects is offering its cinematic sound effects library, Odyssey Collection: Design Elements, for free using the coupon code ODYSSEY26 at checkout. Normally priced at $149, the library contains 254 files totaling 1.51 GB of 16-bit and 24-bit WAV audio recorded at 48 kHz.</p><p>Created in collaboration with Hollywood sound editors Mark Mangini and Richard L. Anderson, the collection features sci-fi and action-oriented audio assets including whooshes, metal impacts, deep rumbles, and explosions. The download includes a single-user license granting lifetime, royalty-free commercial use across video production, game design, and music creation.</p>
-<p>Nov 22 · <a href="https://bedroomproducersblog.com/2026/11/22/pro-sound-effects-odyssey-collection/">bedroomproducersblog.com</a> | <a href="https://www.prosoundeffects.com/libraries/odyssey-collection-design-elements">prosoundeffects.com</a></p>
 <br clear="all" />
 
 ---
