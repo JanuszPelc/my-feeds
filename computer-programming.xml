@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Charles Iliya Krempeaux Details Falsehoods Programmers Believe About ATProto</title>
+    <link href="https://reiver.link/atproto/falsehoods-programmers-believe/" rel="alternate" />
+    <id>https://reiver.link/atproto/falsehoods-programmers-believe/::v241</id>
+    <published>2026-11-22T18:46:00+00:00</published>
+    <updated>2026-11-22T18:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Ffalsehoods-programmers-believe-v0-WjLkS-KoA13wJ8nWyejaNBKAACM4ri8NSzDlSoH3v5Q.jpg%3Fauto%3Dwebp%26s%3Dabded1c5e1d31cd3ab05047dd327aae00aaf335f&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://reiver.link/atproto/falsehoods-programmers-believe/">reiver.link</a> | <a href="https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about">lobsters</a></small></p><hr/><p>Charles Iliya Krempeaux has published an article detailing common misconceptions developers hold about the Authenticated Transfer Protocol (ATProto). Modelled after Patrick McKenzie's famous 2010 essay on names, the list identifies false assumptions regarding handles, decentralized identifiers (DIDs), personal data servers (PDSes), and repositories that can cause software bugs and protocol compliance failures.</p><p>Each item on the list is supported by official ATProto specifications and live API requests. The guide highlights critical architectural nuances, such as the mutability of user handles, case-sensitivity requirements for DIDs, and the separation of data hosting from network indexing and app views, providing developers with practical guidance for building robust ATProto-compatible applications.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fexternal-preview.redd.it%2Ffalsehoods-programmers-believe-v0-WjLkS-KoA13wJ8nWyejaNBKAACM4ri8NSzDlSoH3v5Q.jpg%3Fauto%3Dwebp%26s%3Dabded1c5e1d31cd3ab05047dd327aae00aaf335f&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 00:10 UTC | #28266</small>]]></content>
+  </entry>
+  <entry>
     <title>What If Netscape Did SSL the HTTP Way?</title>
     <link href="https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/" rel="alternate" />
     <id>https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/::v241</id>
