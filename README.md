@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;Ladybird Browser Enters Alpha with Independent Engine</h2>
+<a name="story-28413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.martincid.com%2F2026%2F11%2Fladybird-browser-alpha-independent-engine-mac-linux-1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ladybird has launched its alpha version, now available for download on macOS and Linux. The browser utilizes a completely independent engine built from the ground up, intentionally avoiding forks of existing browser projects.</p><p>The alpha release includes a rolling channel with automatic updates and supports both WebDriver for automated testing and the Firefox DevTools protocol. The project team is soliciting security research, crash reports, and feedback from web developers to improve the engine's reliability and performance.</p>
+<p>Nov 24 · <a href="https://ladybird.org/posts/alpha/">ladybird.org</a> | <a href="https://news.ycombinator.com/item?id=50614249">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Z.ai Launches GLM-5.4 Flagship Model on Loop Transformer Architecture</h2>
 <a name="story-28306"><img src="https://wsrv.nl/?url=https%3A%2F%2Fz-ai-bj.oss-cn-beijing.aliyuncs.com%2Fprompts-rich-media-resources%2F5.4-blog%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Z.ai has released GLM-5.4, a 750B-parameter flagship model built on the Loop Transformer architecture. The company reports that the model achieves intelligence levels comparable to much larger models in the 2 trillion to 3 trillion parameter range.</p><p>The development of GLM-5.4 involved a three-month process of scaling loop depth and model size in parallel. The release serves as a demonstration of the Loop Transformer's ability to deliver high-tier intelligence with a lower total parameter count than competing large-scale architectures.</p>
@@ -100,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-28161"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F07%2FInkling-vs.-Frontier-AI-Models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Thinking Machines Lab has released Inkling 2 Mini, a 26.4-billion-parameter open-weights mixture-of-experts model designed to run locally on consumer hardware. The model utilizes a looped transformer architecture that processes its middle layers three times per token, enabling enhanced reasoning capabilities with fewer total tokens.</p><p>Featuring a memory footprint of approximately 20 gigabytes, Inkling 2 Mini achieves leading performance among sub-100B parameter open-weights models on agentic coding benchmarks such as DeepSWE v1.1 and Vals Index v2.2. The release is accompanied by a variable-loop research variant intended to help researchers study the impact of architectural looping on model monitorability and chain-of-thought progression.</p>
 <p>Nov 21 · <a href="https://thinkingmachines.ai/news/inkling-2-mini/">thinkingmachines.ai</a> | <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y1diuk/thinkingmachinesinkling2mini_moe_26b_a3b/">r/LocalLLaMA</a> | <a href="https://news.ycombinator.com/item?id=50581260">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/computer-security.png" width="28" align="texttop" /> &nbsp;Element Releases Matrix Conference 2026 Public Sector Session Recordings</h2>
-<a name="story-28072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Element has published the public sector track recordings from the Matrix Conference 2026, highlighting government deployments, digital sovereignty, and secure communication strategies across European public institutions.</p><p>The sessions feature case studies and technical discussions from organizations including the European Commission, NATO, French public sector tech agency DINUM, Swedish social insurance agency Försäkringskassan, and the German state of Schleswig-Holstein.</p>
-<p>Nov 21 · <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">element.io</a> | <a href="https://news.ycombinator.com/item?id=50558533">hacker news</a></p>
 <br clear="all" />
 
 ---

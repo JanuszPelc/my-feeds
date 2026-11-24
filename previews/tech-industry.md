@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Donald Trump Endorses Nvidia Board Decision to Reinstate Jensen Huang</h2>
 <a name="story-28328"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Donald Trump announced on Truth Social that Nvidia's Board of Directors made the "correct and proper decision" to return Jensen Huang to the role of CEO. He stated that the U.S. needs Huang's leadership and referenced a finding by the U.S. Attorney General that showed no evidence of "unlawful conduct."</p><p>The statement follows reports of leadership shifts at Nvidia and signals a public endorsement of the company's executive direction. This endorsement is linked to broader political and regulatory interest in Nvidia's leadership and its impact on the American AI landscape.</p>
-<p>Nov 23 · <a href="https://truthsocial.com/@realDonaldTrump/117666141823845971">truthsocial.com</a></p>
+<p>Nov 23 · <a href="https://truthsocial.com/@realDonaldTrump/117666141823845971">truthsocial.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y434uc/the_frantic_white_house_push_to_get_jensen_huang/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Bret Taylor on Sierra, OpenAI, and Building Generational Tech Companies</h2>

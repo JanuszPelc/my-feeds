@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-24T13:15:00+00:00</updated>
+  <updated>2026-11-24T13:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Ladybird Browser Enters Alpha with Independent Engine</title>
+    <link href="https://ladybird.org/posts/alpha/" rel="alternate" />
+    <id>https://ladybird.org/posts/alpha/::v241</id>
+    <published>2026-11-24T13:36:00+00:00</published>
+    <updated>2026-11-24T13:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.martincid.com%2F2026%2F11%2Fladybird-browser-alpha-independent-engine-mac-linux-1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://ladybird.org/posts/alpha/">ladybird.org</a> | <a href="https://news.ycombinator.com/item?id=50614249">hacker news</a></small></p><hr/><p>Ladybird has launched its alpha version, now available for download on macOS and Linux. The browser utilizes a completely independent engine built from the ground up, intentionally avoiding forks of existing browser projects.</p><p>The alpha release includes a rolling channel with automatic updates and supports both WebDriver for automated testing and the Firefox DevTools protocol. The project team is soliciting security research, crash reports, and feedback from web developers to improve the engine's reliability and performance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.martincid.com%2F2026%2F11%2Fladybird-browser-alpha-independent-engine-mac-linux-1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 13:17 UTC | #28413 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Z.ai Launches GLM-5.4 Flagship Model on Loop Transformer Architecture</title>
     <link href="https://z.ai/blog/glm-5.4" rel="alternate" />

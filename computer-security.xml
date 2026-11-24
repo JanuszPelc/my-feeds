@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-23T15:17:00+00:00</updated>
+  <updated>2026-11-24T05:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Sneakernet Offers Offline Messaging System for Physical Transport</title>
+    <link href="https://sneakernet.eu/" rel="alternate" />
+    <id>https://sneakernet.eu/::v241</id>
+    <published>2026-11-24T05:15:00+00:00</published>
+    <updated>2026-11-24T05:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsendent.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fimage-3-1024x686.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://sneakernet.eu/">sneakernet.eu</a> | <a href="https://lobste.rs/s/pdecff/sneakernet">lobsters</a></small></p><hr/><p>Sneakernet is a messaging system designed to send digital messages without an internet connection by combining local networks with physical transport. Users pass messages to one another at local gatherings—such as hackerspaces, events, or cafes—where they are then physically carried to their destinations by participants. The system provides authentication for all messages and encryption for private communications to ensure that carriers cannot tamper with or read private data.</p><p>The project promotes slow, deliberate communication and face-to-face interaction as an alternative to standard internet messaging. It supports several pre-built applications, including sneakermail for email, sneakernews for message boards, and sneakershare for file sharing. Developers can also build custom applications on the platform, provided they are designed to handle high latency and out-of-order message delivery.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsendent.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fimage-3-1024x686.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 13:34 UTC | #28414</small>]]></content>
+  </entry>
   <entry>
     <title>Port of Los Angeles Foils 120 Million Cyberattacks in August</title>
     <link href="https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f" rel="alternate" />
