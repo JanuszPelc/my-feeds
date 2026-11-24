@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grand Theft Auto VI and World of Warcraft: Forever Highlight Appeal of Mundane Gameplay Tasks</h2>
+<a name="story-28429"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt55d46d9586e2d62a%2F6b006b7e56870f552d68ad55%2FULTIMATE_EDITION_SARAS_SALON_03.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In an opinion piece for Game Developer, Bryant Francis examines how major releases like Grand Theft Auto VI and World of Warcraft: Forever incorporate routine tasks and simulation mechanics into big-budget design. The author argues that players are increasingly drawn to low-stakes activities—such as waiting for in-game transit, painting walls, or crafting items—because these elements provide relaxation and immersion without reproducing the frustrating burdens of real life.</p><p>Francis notes that while the simulation genre has long catered to this interest through titles like News Tower and vehicle simulators, high-profile blockbusters succeed by carefully calibrating the friction of these chores. At the same time, the author cautions developers against blindly copying these mechanics into new projects without understanding the underlying design principles, warning that superficial emulation can result in poor execution.</p>
+<p>Nov 24 · <a href="https://www.gamedeveloper.com/design/grand-theft-auto-vi-and-world-of-warcraft-forever-show-that-mundanity-is-having-a-moment">gamedeveloper.com</a></p>
+<br clear="all" />
+
+<h2>Grand Theft Auto VI Record Launch Draws Over 39 Million Players on PlayStation 5</h2>
+<a name="story-28393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.abijita.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHX2FTbgXMAA0qYK-1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sony Interactive Entertainment announced that Grand Theft Auto VI achieved the largest launch in PlayStation history following its release. During its opening window through November 22, 2026, the game drew over 39 million unique players on PlayStation 5 and set a new platform record for concurrent players.</p><p>Players cumulatively logged 683 million hours of gameplay during the launch period, averaging 17.4 hours per user exploring the state of Leonida. The historic release also drove a surge in new hardware activations, with Grand Theft Auto VI serving as the first game played on 70 percent of newly connected PlayStation 5 consoles.</p>
+<p>Nov 24 · <a href="https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/">blog.playstation.com</a></p>
+<br clear="all" />
+
 <h2>Epic Games Revises Unreal Engine 6 Plans to Drop Blueprints and Actor Gameplay Framework</h2>
 <a name="story-28362"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkajabi-storefronts-production.kajabi-cdn.com%2Fkajabi-storefronts-production%2Ffile-uploads%2Fsites%2F125332%2Fimages%2Fd6debd7-dcc0-a2c-eaa6-cf011553eda_ae8ea7b4-7811-4f5d-ba41-cdf92dbd668b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Epic Games has reversed its previous strategy and will completely remove Blueprints and the Actor Gameplay Framework from Unreal Engine 6 at launch rather than phasing them out over time. Instead, the engine will center around Verse and a Scene Graph architecture, with Epic citing rapid advancements in AI tooling to automate or assist project conversion from Unreal Engine 5.</p><p>The decision represents a major shift for developers heavily reliant on Blueprints, which are widely utilized across the industry for scripting and game logic. Industry figures have noted that the pivot toward an AI-driven, prompt-based paradigm complicates cross-disciplinary collaboration, prompting some studios to announce plans to remain on Unreal Engine 5.</p>
@@ -82,18 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28118"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FFlowticaScribe.jpg%3Fw%3D554&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TechCrunch has highlighted six new AI-powered hardware devices designed to enhance productivity and organization in home offices. The selected tools range from smart writing implements and voice recorders to specialized peripherals and ergonomic office equipment.</p><p>Featured items include the Flowtica Scribe Pen and Anker Soundcore Work for automated meeting transcription, the Logitech MX Keypad for software shortcuts, the Kindle Scribe Colorsoft for note editing, the Insta360 Link 2 Pro for automatic video tracking, and the Autonomous Desk Pro for activity monitoring.</p>
 <p>Nov 20 · <a href="https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Meta Plans $300 Price Tag and Verizon Data Plan for Muse Charm AI Device</h2>
-<a name="story-28067"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gizmochina.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMeta-Muse-Charm-Launch-Specs-Price.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta Platforms plans to price its upcoming Muse Charm AI device at $300 and bundle it with a free 12-month 5G data plan from Verizon. The keychain-sized hardware, designed to interact with Meta's Muse AI agent, features cameras, a fingerprint sensor, and its own cellular connection.</p><p>The pricing strategy reflects Meta's efforts to drive adoption of its dedicated AI hardware ecosystem following the device's initial reveal at Meta Connect. The gadget is expected to ship during the upcoming holiday season, though official retail pricing was not publicly disclosed at its launch event.</p>
-<p>Nov 20 · <a href="https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Ubisoft Reports Q2 Net Bookings of €388.9 Million</h2>
-<a name="story-28057"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F1%2F23%2F53728916-176921128861407_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ubisoft reported second-quarter net bookings of €388.9 million, down 21% year-over-year but exceeding company expectations of €350.7 million. The performance was driven largely by Assassin's Creed Black Flag Resynced as the video game developer continues to overhaul its operations.</p><p>The results form part of the company's first-half financial figures for the 2026–27 period, reflecting an ongoing effort to stabilize finances and streamline structures following operational restructuring.</p>
-<p>Nov 19 · <a href="https://www.wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1?st=LvUnbR&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/19/3406965/0/en/ubisoft-reports-first-half-2026-27-earnings-figures.html">globenewswire.com</a></p>
 <br clear="all" />
 
 ---
