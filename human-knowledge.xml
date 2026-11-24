@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-24T10:43:00+00:00</updated>
+  <updated>2026-11-24T11:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>University of Queensland Researchers Transmit Message Using Gravity</title>
+    <link href="https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity" rel="alternate" />
+    <id>https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity::v241</id>
+    <published>2026-11-24T11:33:00+00:00</published>
+    <updated>2026-11-24T11:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fnews.uq.edu.au%2Fsites%2Fdefault%2Ffiles%2F2026-11%2Fgravity-message-graphic-5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity">news.uq.edu.au</a> | <a href="https://www.science.org/doi/10.1126/sciadv.aee0802">science.org</a> | <a href="https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50559179">hacker news</a></small></p><hr/><p>University of Queensland researchers demonstrated a method of transmitting information using gravitational fields by moving a 1.8-tonne elevator counterweight. The team encoded binary data by shifting the counterweight's position, which was then detected by a sensitive gravimeter in an adjacent room through a brick wall. The experiment successfully transmitted the word "Gravity," proving that information can be encoded in and recovered from gravitational fields.</p><p>While current data rates are extremely low—yielding only one bit per minute—the study highlights the advantage of gravity's ability to bypass shielding that blocks standard electromagnetic signals, such as Wi-Fi or cellular data. Researchers suggest that the use of quantum sensors could eventually support data rates of 15 bits per minute over ranges of 500 meters, potentially enabling communication in environments where conventional signals cannot penetrate.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.uq.edu.au%2Fsites%2Fdefault%2Ffiles%2F2026-11%2Fgravity-message-graphic-5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 16:56 UTC | #28440</small>]]></content>
+  </entry>
   <entry>
     <title>Resilience Defined as a Socially Negotiated Process</title>
     <link href="https://theconversation.com/what-is-resilience-it-may-be-less-about-bouncing-back-than-we-think-290683" rel="alternate" />
