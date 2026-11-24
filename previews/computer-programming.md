@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Iris Meredith Discusses Literacy and Curiosity in Software Engineering</h2>
+<a name="story-28447"><img src="https://wsrv.nl/?url=https%3A%2F%2Falgocademy.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F01%2Fcompressed_image-196.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Iris Meredith argues that a lack of reading habits among software engineers correlates with a deficiency in curiosity, which compromises their ability to make responsible decisions in positions of technical power. She frames programming as a primary form of written communication, asserting that the readability and logical structure of a codebase are as critical to its utility as its machine execution. Consequently, developers who do not engage with literature often produce unmaintainable code and struggle to understand the human needs behind the software they build.</p><p>Meredith distinguishes software engineering from manual trades by noting that developers often influence significant societal outcomes, such as financial access and user experience. She suggests that engineers who are well-read are better equipped to empathize with their audience and communicate complex ideas clearly. The essay advocates for a cultural shift within the tech industry to value literary literacy as a necessary skill for producing high-quality, socially responsible software.</p>
+<p>Nov 24 · <a href="https://deadsimpletech.com/blog/illiterate-programming">deadsimpletech.com</a> | <a href="https://lobste.rs/s/xxgezw/illiterate_programming">lobsters</a></p>
+<br clear="all" />
+
 <h2>Apple Removes FSNotes from European App Store</h2>
 <a name="story-28438"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.asoworld.com%2Fimg%2Fa8feaa9521f54f7b840be174574be60b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Independent developer glushchenko reports that Apple has removed the note-taking app FSNotes from all European App Stores. The app, which has been active for nine years, was delisted following the developer's failure to receive an October sales payout. Despite the developer submitting the required European Union Digital Services Act (DSA) compliance information and official business registry documents from Ukraine, Apple has not responded to multiple support requests or provided a reason for the removal.</p><p>The removal has caused significant damage to the app's visibility, search rankings, and long-term reputation. While FSNotes remains available as an open-source project on GitHub, the developer warns that the loss of App Store revenue threatens the project's continued survival. This situation highlights the difficulties independent developers face when navigating complex regional compliance requirements and platform communication hurdles.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28242"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.itch.zone%2FaW1hZ2UvMjEyNDM0NC8xMjUxMjY2MS5qcGc%3D%2F794x1000%2F16Q1rc.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Stullensimulator is a web application that allows users to construct virtual open-faced sandwiches, known as Stullen, using a variety of digital spreads and toppings.</p><p>The platform features ingredients ranging from traditional items like butter, jam, cheese, and ham to unconventional options such as gummy bears, offering an interactive digital sandwich-building experience.</p>
 <p>Nov 22 · <a href="https://stulle.app/">stulle.app</a> | <a href="https://news.ycombinator.com/item?id=50594911">hacker news</a></p>
-<br clear="all" />
-
-<h2>George Huebner Brings NixOS to Zhihe Computing A210 RISC-V Board</h2>
-<a name="story-28233"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffeyor.sh%2Fblog%2Fnixos-bringup-on-an-alibaba-riscv-board%2Fa210.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer George Huebner details the process of bringing up NixOS on a Zhihe Computing A210 RISC-V SoC board. The project involved cross-compiling packages from an x86_64 desktop, configuring a custom U-Boot distro boot routine, and fixing an OpenSBI vector-instruction trap caused by uninitialized execution states.</p><p>Additional work required passing the clk_ignore_unused kernel parameter to prevent boot hangs and adapting an upstream Linux graphics driver for the board's PowerVR GPU to support Mesa and Vulkan workloads. The resulting configuration successfully boots into a fully functional NixOS userspace capable of running hardware-accelerated graphics benchmarks.</p>
-<p>Nov 22 · <a href="https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/">feyor.sh</a> | <a href="https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board">lobsters</a></p>
 <br clear="all" />
 
 ---

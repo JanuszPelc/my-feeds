@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-24T11:58:00+00:00</updated>
+  <updated>2026-11-24T12:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Iris Meredith Discusses Literacy and Curiosity in Software Engineering</title>
+    <link href="https://deadsimpletech.com/blog/illiterate-programming" rel="alternate" />
+    <id>https://deadsimpletech.com/blog/illiterate-programming::v241</id>
+    <published>2026-11-24T12:25:00+00:00</published>
+    <updated>2026-11-24T12:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Falgocademy.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F01%2Fcompressed_image-196.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://deadsimpletech.com/blog/illiterate-programming">deadsimpletech.com</a> | <a href="https://lobste.rs/s/xxgezw/illiterate_programming">lobsters</a></small></p><hr/><p>Iris Meredith argues that a lack of reading habits among software engineers correlates with a deficiency in curiosity, which compromises their ability to make responsible decisions in positions of technical power. She frames programming as a primary form of written communication, asserting that the readability and logical structure of a codebase are as critical to its utility as its machine execution. Consequently, developers who do not engage with literature often produce unmaintainable code and struggle to understand the human needs behind the software they build.</p><p>Meredith distinguishes software engineering from manual trades by noting that developers often influence significant societal outcomes, such as financial access and user experience. She suggests that engineers who are well-read are better equipped to empathize with their audience and communicate complex ideas clearly. The essay advocates for a cultural shift within the tech industry to value literary literacy as a necessary skill for producing high-quality, socially responsible software.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Falgocademy.com%2Fblog%2Fwp-content%2Fuploads%2F2025%2F01%2Fcompressed_image-196.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 17:46 UTC | #28447</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Removes FSNotes from European App Store</title>
     <link href="https://github.com/glushchenko/fsnotes/discussions/2056" rel="alternate" />
