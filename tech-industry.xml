@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-24T16:12:00+00:00</updated>
+  <updated>2026-11-24T17:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Meta Integrates Muse AI Assistant Into Instagram DMs</title>
+    <link href="https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/::v241</id>
+    <published>2026-11-24T17:03:00+00:00</published>
+    <updated>2026-11-24T17:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2F1080x1080_Black.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/">techcrunch.com</a></small></p><hr/><p>Meta has integrated its Muse AI assistant directly into Instagram direct messages, allowing users to chat with the agent within a DM thread to get context on posts, places, or products. The integration removes the need to switch between apps and enables users to share content with Muse to perform tasks like planning itineraries or finding deals.</p><p>Alongside the DM integration, the update allows users in select regions to have Muse organize their saved Instagram posts and reels into custom collections, such as turning a recipe video into a grocery list. The features are rolling out on iOS and Android for users in the United States, Canada, Mexico, Japan, and Singapore.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2F1080x1080_Black.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 22:03 UTC | #28442</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Study Examines Enterprise AI Adoption and Workforce Reorganization</title>
     <link href="https://www.anthropic.com/research/working-with-ai" rel="alternate" />
