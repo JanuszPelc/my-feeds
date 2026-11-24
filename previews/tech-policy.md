@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Yann LeCun Accuses Anthropic CEO of Seeking to Criminalize Open Models</h2>
+<a name="story-28433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.intelligentliving.co%2Fwp-content%2Fuploads%2F2026%2F04%2Fanalyzing-ai-access-open-source-open-weight-and-api-only-models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Yann LeCun accused Anthropic CEO Dario Amodei of using AI safety concerns as a pretext to criminalize open-source models. LeCun argues that Amodei's warnings, which date back to the development of GPT-2, are a strategy designed to ensure he maintains personal control over the AI industry.</p><p>LeCun cites Amodei’s departure from OpenAI as evidence of his pursuit of authority and draws a historical parallel to the Ottoman Empire's restrictions on the printing press. The critique frames Amodei's safety advocacy as a maneuver for regulatory capture rather than a legitimate public safety effort.</p>
+<p>Nov 24 · <a href="https://twitter.com/ylecun/status/2124550037912920090">x.com</a> | <a href="https://news.ycombinator.com/item?id=50615308">hacker news</a></p>
+<br clear="all" />
+
 <h2>Singapore PM Lawrence Wong Refuses Singapore&#x27;s Use as Conduit for US Chip Export Violations</h2>
 <a name="story-28374"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechedt.gumlet.io%2Fwp-content%2Fuploads%2F2025%2F06%2FNvidia-develops-new-AI-chip-for-China-to-meet-US-export-rules.jpg%3Fcompress%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Singapore Prime Minister Lawrence Wong stated that the nation will not be used as a route for companies seeking to circumvent U.S. chip export controls. This stance comes as authorities investigate Megaspeed, a company suspected of purchasing Nvidia AI chips for potential diversion to China.</p><p>Wong pledged to facilitate U.S. government checks on AI chip usage and stated that Singapore will take firm action against firms violating export regulations. The Megaspeed investigation includes a U.S. criminal probe into the potential illicit movement of high-end technology.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28258"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffotografias-2.larazon.es%2Fclipping%2Fcmsimages01%2F2025%2F07%2F21%2F4FFCB0CB-FD70-4869-8E6A-5941E1F208FF%2Fjensen-huang-ceo-nvidia_98.jpg%3Fcrop%3D1500%2C844%2Cx0%2Cy80%26width%3D1900%26height%3D1069%26optimize%3Dlow%26format%3Dwebply&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Treasury Secretary Scott Bessent stated that Jensen Huang's potential return as Nvidia's chief executive should depend on the outcome of federal investigations into the company's chip sales to China. Speaking in a television interview, Bessent declined to endorse Huang's reinstatement while pressing the company for answers regarding its compliance with export controls.</p><p>The remarks follow earlier calls by Bessent urging a leadership shake-up at Nvidia and expressing concern over how advanced semiconductors reached Chinese entities. The ongoing scrutiny underscores mounting tensions between federal officials and the company as investigations and congressional hearings approach.</p>
 <p>Nov 22 · <a href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>China Ministry of State Security Runs Secret Campaign to Acquire Advanced AI Chips</h2>
-<p>Current and former officials from the United States and other countries report that China's Ministry of State Security has been executing a clandestine campaign to help domestic companies procure advanced artificial intelligence chips. The operation aims to bypass stringent export controls imposed by the United States on semiconductor technology.</p><p>The campaign reportedly involves complex networks and corporate channels, including the suspected recruitment of technology executives and operations through intermediary firms to secure restricted hardware. These activities highlight the ongoing challenges and vulnerabilities in enforcing international technology restrictions designed to limit China's advancements in artificial intelligence.</p>
-<p>Nov 22 · <a href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&smid=url-share">nytimes.com</a></p>
 <br clear="all" />
 
 ---
