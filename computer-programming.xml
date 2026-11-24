@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>CLI Tools Combined to Find Geographic Midpoints on macOS</title>
+    <link href="https://george.mand.is/2026/11/lets-meet-in-the-middle/" rel="alternate" />
+    <id>https://george.mand.is/2026/11/lets-meet-in-the-middle/::v241</id>
+    <published>2026-11-24T09:00:00+00:00</published>
+    <updated>2026-11-24T09:00:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://george.mand.is/2026/11/lets-meet-in-the-middle/">george.mand.is</a> | <a href="https://lobste.rs/s/7fscqs/let_s_meet_middle">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50577534">hacker news</a></small></p><hr/><p>George Mandis describes a workflow using three command-line tools—whereami, nearme, and jq—to identify locations halfway between two geographic points. By piping the JSON output of whereami (a geolocation and reverse geocoding tool) into jq for coordinate averaging, and then into nearme (which utilizes Apple's MapKit), users can search for nearby venues at the midpoint without requiring API keys or a web browser.</p><p>The method is restricted to macOS due to its reliance on native geocoding and MapKit frameworks. While the geographic average calculation is a literal midpoint that does not account for real-world factors like travel time or traffic, the author provides shell functions for both Zsh and Fish to simplify the complex command-line piping into a single command for finding places like coffee shops or bars.</p><hr/><small>24 Nov 2026, 15:11 UTC | #28424</small>]]></content>
+  </entry>
+  <entry>
     <title>Ladybird Browser Enters Alpha with Independent Engine</title>
     <link href="https://ladybird.org/posts/alpha/" rel="alternate" />
     <id>https://ladybird.org/posts/alpha/::v241</id>

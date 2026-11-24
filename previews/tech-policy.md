@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Singapore PM Lawrence Wong Refuses Singapore&#x27;s Use as Conduit for US Chip Export Violations</h2>
+<a name="story-28374"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechedt.gumlet.io%2Fwp-content%2Fuploads%2F2025%2F06%2FNvidia-develops-new-AI-chip-for-China-to-meet-US-export-rules.jpg%3Fcompress%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Singapore Prime Minister Lawrence Wong stated that the nation will not be used as a route for companies seeking to circumvent U.S. chip export controls. This stance comes as authorities investigate Megaspeed, a company suspected of purchasing Nvidia AI chips for potential diversion to China.</p><p>Wong pledged to facilitate U.S. government checks on AI chip usage and stated that Singapore will take firm action against firms violating export regulations. The Megaspeed investigation includes a U.S. criminal probe into the potential illicit movement of high-end technology.</p>
+<p>Nov 24 · <a href="https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says">bloomberg.com</a> | <a href="https://www.mha.gov.sg/media-room/newsroom/investigating-breaches-of-other-countries-export-controls/">mha.gov.sg</a></p>
+<br clear="all" />
+
 <h2>Google Maps Fails to Include West Bank Movement Restrictions</h2>
 <a name="story-28377"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6b00ed327c78d96a15f9054f%2Fmaster%2Fw_1600%252Cc_limit%2Frawabi-ateret-map-compared.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google Maps lacks data on the hundreds of checkpoints and movement restrictions in the occupied West Bank, making it unreliable for Palestinian drivers. A former product manager spent over six years attempting to develop a prototype that highlighted administrative zones and warned users of permanent checkpoints. Although these features were briefly launched, Google retracted the update in late 2025 following complaints from Israeli media about navigation "glitches."</p><p>The rollback occurred amid Google's increasing involvement with Israel through the acquisition of Waze and the Project Nimbus contract. Despite the company's ability to map complex regions worldwide, it omitted the West Bank restrictions to avoid conflict with local interests. Palestinian drivers now rely on grassroots crowdsourcing, such as the Road Conditions Telegram channel, to navigate the region's hazardous travel infrastructure.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>China Ministry of State Security Runs Secret Campaign to Acquire Advanced AI Chips</h2>
 <p>Current and former officials from the United States and other countries report that China's Ministry of State Security has been executing a clandestine campaign to help domestic companies procure advanced artificial intelligence chips. The operation aims to bypass stringent export controls imposed by the United States on semiconductor technology.</p><p>The campaign reportedly involves complex networks and corporate channels, including the suspected recruitment of technology executives and operations through intermediary firms to secure restricted hardware. These activities highlight the ongoing challenges and vulnerabilities in enforcing international technology restrictions designed to limit China's advancements in artificial intelligence.</p>
 <p>Nov 22 · <a href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>Tech Workers and Matchmakers Report Rising Concerns Over Corporate Espionage Honeypots</h2>
-<a name="story-28222"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.visiontimes.com%2F2024%2F06%2Fnvidia-ceo-jensen-huang_2023_GettyImages-1808364763-1068x764.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Matchmakers and cybersecurity experts report that tech workers and executives are increasingly concerned about romantic espionage, or honeypots, used to extract corporate secrets. These anxieties have amplified following high-profile incidents, such as the reported relationship involving Nvidia CEO Jensen Huang and a suspected intelligence asset.</p><p>While security consultants note that real-world espionage operations typically rely on long-term grooming rather than quick bar encounters, heightened distrust has increased demand for high-end matchmaking background checks. Amid these growing security concerns, some digital relationship platforms have begun marketing specialized AI companions featuring zero-espionage guarantees.</p>
-<p>Nov 22 · <a href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/">wired.com</a></p>
 <br clear="all" />
 
 ---

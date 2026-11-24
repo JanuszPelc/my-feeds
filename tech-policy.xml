@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-24T05:17:00+00:00</updated>
+  <updated>2026-11-24T08:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Singapore PM Lawrence Wong Refuses Singapore's Use as Conduit for US Chip Export Violations</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says::v241</id>
+    <published>2026-11-24T08:59:00+00:00</published>
+    <updated>2026-11-24T08:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechedt.gumlet.io%2Fwp-content%2Fuploads%2F2025%2F06%2FNvidia-develops-new-AI-chip-for-China-to-meet-US-export-rules.jpg%3Fcompress%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says">bloomberg.com</a> | <a href="https://www.mha.gov.sg/media-room/newsroom/investigating-breaches-of-other-countries-export-controls/">mha.gov.sg</a></small></p><hr/><p>Singapore Prime Minister Lawrence Wong stated that the nation will not be used as a route for companies seeking to circumvent U.S. chip export controls. This stance comes as authorities investigate Megaspeed, a company suspected of purchasing Nvidia AI chips for potential diversion to China.</p><p>Wong pledged to facilitate U.S. government checks on AI chip usage and stated that Singapore will take firm action against firms violating export regulations. The Megaspeed investigation includes a U.S. criminal probe into the potential illicit movement of high-end technology.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechedt.gumlet.io%2Fwp-content%2Fuploads%2F2025%2F06%2FNvidia-develops-new-AI-chip-for-China-to-meet-US-export-rules.jpg%3Fcompress%3Dtrue&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 15:09 UTC | #28374</small>]]></content>
+  </entry>
   <entry>
     <title>Google Maps Fails to Include West Bank Movement Restrictions</title>
     <link href="https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/" rel="alternate" />
