@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-24T12:34:00+00:00</updated>
+  <updated>2026-11-24T15:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>US Commerce Department Adds Alibaba Subsidiary Apex Enterprise Solutions to Entity List</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions::v241</id>
+    <published>2026-11-24T15:56:00+00:00</published>
+    <updated>2026-11-24T15:56:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdocs.oracle.com%2Fen%2Findustries%2Ffinancial-services%2Fofs-analytical-applications%2Fenterprise-case-management%2F8.1.2.11.0%2Fecgug%2Fimg%2Ffigure-5-41--additional-information.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions">bloomberg.com</a> | <a href="https://public-inspection.federalregister.gov/2026-23999.pdf">public-inspection.federalregister.gov</a></small></p><hr/><p>The US Commerce Department has added Apex Enterprise Solutions, a Singaporean subsidiary of Alibaba Group Holding Ltd., along with Megaspeed and five other affiliates, to its Entity List. The trade blacklist action targets companies deemed to pose risks regarding artificial intelligence chip diversion.</p><p>The restrictions represent a significant setback for Alibaba's artificial intelligence ambitions and international expansion efforts. Affected firms face severe export controls that strictly limit their access to American technology and components.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocs.oracle.com%2Fen%2Findustries%2Ffinancial-services%2Fofs-analytical-applications%2Fenterprise-case-management%2F8.1.2.11.0%2Fecgug%2Fimg%2Ffigure-5-41--additional-information.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 21:29 UTC | #28398</small>]]></content>
+  </entry>
   <entry>
     <title>Governor Hochul Signs Bill Restricting Vehicle Subscription Fees</title>
     <link href="https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription" rel="alternate" />

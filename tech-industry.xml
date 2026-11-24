@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-24T13:30:00+00:00</updated>
+  <updated>2026-11-24T16:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>G2 Venture Partners Advocate Solar and Long-Duration Storage for AI Data Centers</title>
+    <link href="https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/::v241</id>
+    <published>2026-11-24T16:11:00+00:00</published>
+    <updated>2026-11-24T16:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsolarsme.com%2Fwp-content%2Fuploads%2F2026%2F02%2F4-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/">techcrunch.com</a> | <a href="https://g2-terawatt-scale.vercel.app">g2-terawatt-scale.vercel.app</a></small></p><hr/><p>G2 Venture Partners (G2VP) partner Brook Porter argues that solar power paired with long-duration energy storage (LDES) is the optimal solution for powering the next wave of AI data centers. A firm analysis shows that while natural gas capacity is limited to approximately 60-70 gigawatts per year, solar capacity already exceeds one terawatt globally. By leveraging Wright’s Law through modular, mass-manufacturable technologies, Porter contends that renewables can provide the necessary scale and speed to meet surging AI electricity demands.</p><p>G2VP expects data center investment to reach $4 trillion by 2030 and advocates for "off-grid" facilities to bypass grid constraints and permitting hurdles. While lithium-ion batteries remain costly for continuous power, the firm identifies emerging technologies from companies like Form Energy and Antora Energy as viable long-term solutions. Porter emphasizes the need for hyperscalers to act quickly to integrate these storage and generation models before market constraints become insurmountable.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsolarsme.com%2Fwp-content%2Fuploads%2F2026%2F02%2F4-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 21:35 UTC | #28434</small>]]></content>
+  </entry>
+  <entry>
+    <title>Pinterest Introduces Parental Controls to Limit AI-Generated Content for Teens</title>
+    <link href="https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/::v241</id>
+    <published>2026-11-24T16:03:00+00:00</published>
+    <updated>2026-11-24T16:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FParentalControls-Newsroom-Header-HF-Entry__1_.webp%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/">techcrunch.com</a> | <a href="https://newsroom.pinterest.com/news/helping-families-navigate-controls-for-teens-on-pinterest/">newsroom.pinterest.com</a></small></p><hr/><p>Pinterest has expanded its parental control features to allow parents to limit the amount of AI-generated content exposed to teen accounts. The new setting enables parents to restrict AI recommendations, joining a redesigned parental controls page that also includes options to manage video autoplay and notification volumes.</p><p>While several major social media platforms restrict teens' access to interactive features like chatbots or AI characters, few offer controls over the AI-generated content filling general feeds. Pinterest's update positions the platform among the first to address broader feed exposure through parental settings, responding to growing concerns from child advocacy groups regarding algorithmic and generative content consumption by minors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FParentalControls-Newsroom-Header-HF-Entry__1_.webp%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 21:33 UTC | #28435</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Returns to Headquarters Following Reinstatement</title>
     <link href="https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/" rel="alternate" />

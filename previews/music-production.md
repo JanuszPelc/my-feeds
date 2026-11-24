@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>iZotope Releases Nectar 5 Vocal Production Suite</h2>
+<a name="story-28431"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnectar5-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>iZotope has released Nectar 5, a vocal production suite that introduces lyrics-based editing via a new ARA plugin called Moments. The software converts vocal takes into text, allowing producers to apply creative effects like reverb throws, doubling, and formant shifting to specific words and phrases without tedious automation.</p><p>Additional updates in Nectar 5 include a Serial Compressor module supporting up to three stacked compressors, a Vocal Stabilizer adaptive EQ, and an overhauled Vocal Assistant featuring a Custom Flow setup mode. The release is accompanied by a Cyber Sale offering introductory discounts across the suite's editions and other iZotope products through December 7, 2026.</p>
+<p>Nov 24 · <a href="https://www.kvraudio.com/news/izotope-releases-nectar-5-introducing-lyrics-based-editing-for-vocals-70131?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70131">kvraudio.com</a> | <a href="https://izotope.com/community/blog/introducing-izotope-nectar-5">izotope.com</a></p>
+<br clear="all" />
+
 <h2>UJAM Virtual Pianist VIBE Discounted to £8 on Plugin Boutique</h2>
 <a name="story-28432"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUJAM-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UJAM is offering its Virtual Pianist VIBE electric piano plugin for £8 on Plugin Boutique until December 9, a reduction from its standard price of £113. The plugin is based on a 1972 vintage electric piano and features a "Player" mode with 40 styles that allow users to trigger phrases and harmonies with a single finger.</p><p>The software includes over 150 presets along with 45 Finisher and 45 Ambience FX modes designed for genres like neo-soul and hip-hop. It is compatible with VST 2 and AU formats for Mac and Windows, and UJAM provides a 30-day free demo for evaluation.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28323"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.sweetwater.com%2Fm%2Fproducts%2Fimage%2Fb7f25c18efZwF9Sg7eE28c7wG9srAQjgAl0RzluC.jpg%3Fquality%3D1%26ha%3Db7f25c18ef481db5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pulsar Audio has launched its Black Friday sale, offering up to 70 percent off plugins and bundles through December 7, 2026. The promotion includes a "Buy 2, Get 1 Free" offer, allowing customers to mix individual products and bundles with the cheapest item free.</p><p>Featured discounts include the Echorec delay and Primavera spring reverb, alongside the 1178 compressor. Additionally, the company is offering its DigiTape plugin for free through an email sign-up and short survey, requiring no credit card or iLok account for activation.</p>
 <p>Nov 23 · <a href="https://bedroomproducersblog.com/2026/11/23/pulsar-audio-black-friday-2026/">bedroomproducersblog.com</a> | <a href="https://pulsar.audio/shop/">pulsar.audio</a></p>
-<br clear="all" />
-
-<h2>RiverFlux Audio Releases Spatial EQ Free Equalizer Plugin</h2>
-<a name="story-28324"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgregkocis.com%2Fwp-content%2Fuploads%2F2026%2F11%2FFREE-3D-EQ.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>RiverFlux Audio has released Spatial EQ, an eight-band equalizer plugin featuring per-band depth controls and short room reflections for Windows, macOS, and Linux. The plugin allows users to adjust stereo width and depth independently across different frequency ranges, shifting boosted or cut frequencies within the stereo field.</p><p>Each of the eight bands supports dynamic processing, stereo or mid/side routing, and external sidechaining. The plugin also features a 3D stereo width analyzer, seven filter shapes, selectable zero-latency or linear-phase modes, and 100 presets. It is available as a pay-what-you-want download through Gumroad with a $0 minimum.</p>
-<p>Nov 23 · <a href="https://bedroomproducersblog.com/2026/11/23/riverflux-audio-spatial-eq/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/Spatial-EQ">riverfluxaudio.gumroad.com</a></p>
 <br clear="all" />
 
 ---
