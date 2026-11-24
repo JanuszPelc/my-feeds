@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-24T17:05:00+00:00</updated>
+  <updated>2026-11-24T17:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Universal Audio Volt Gen 2 and Volt Max Audio Interfaces Reviewed</title>
+    <link href="https://musictech.com/reviews/studio-recording-gear/universal-audio-volt-gen-2-and-max-review/" rel="alternate" />
+    <id>https://musictech.com/reviews/studio-recording-gear/universal-audio-volt-gen-2-and-max-review/::v241</id>
+    <published>2026-11-24T17:17:00+00:00</published>
+    <updated>2026-11-24T17:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUniversal-Audio-Volt-4P-Max-credit-press%401400x934.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/reviews/studio-recording-gear/universal-audio-volt-gen-2-and-max-review/">musictech.com</a> | <a href="https://www.uaudio.com/blogs/press/universal-audio-announces-new-volt-and-volt-max-audio-interfaces">uaudio.com</a></small></p><hr/><p>Universal Audio’s second-generation Volt and Volt Max audio interfaces expand the company's affordable lineup across six new models featuring 32-bit/192 kHz conversion, updated preamps with distinct tone-shaping modes, and auto-gain and clip protection functions. The review highlights how these bus-powered USB-C units balance hardware-inspired character with modern desktop utility, positioning models like the Volt 4 Max as versatile studio hubs.</p><p>While testing the Volt 2 Gen 2 and Volt 4 Max, the reviewer noted that the expanded tone-shaping options—offering Warmth, Focus, and Shine presets—provide genuinely creative processing without requiring plugins. However, the Max-exclusive compression presets and build quality details offer a mixed value proposition, leading to recommendations tailored to specific connectivity and workflow needs across the standard and Max tiers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUniversal-Audio-Volt-4P-Max-credit-press%401400x934.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 22:28 UTC | #28445</small>]]></content>
+  </entry>
   <entry>
     <title>Novation Releases v2.0 Firmware Update for Launchkey MK4 and FLkey 2</title>
     <link href="https://musictech.com/news/gear/novation-launchkey-mk4-and-flkey-2-firmware-v2-0-update/" rel="alternate" />
