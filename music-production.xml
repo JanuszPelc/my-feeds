@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-24T08:55:00+00:00</updated>
+  <updated>2026-11-24T11:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Baby Audio Offers Transit 2 Multi-Effects Plugin at Discounted Black Friday Price</title>
+    <link href="https://musictech.com/news/gear/baby-audio-offers-the-major-low-price-of-69-on-transit-2-for-black-friday/" rel="alternate" />
+    <id>https://musictech.com/news/gear/baby-audio-offers-the-major-low-price-of-69-on-transit-2-for-black-friday/::v241</id>
+    <published>2026-11-24T11:29:00+00:00</published>
+    <updated>2026-11-24T11:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTransit-2-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/baby-audio-offers-the-major-low-price-of-69-on-transit-2-for-black-friday/">musictech.com</a></small></p><hr/><p>Baby Audio has discounted its Transit 2 multi-effects plugin to $69 for Black Friday, representing a 50 percent price reduction from its standard retail rate. Developed in collaboration with producer Andrew Huang, the plugin is designed to help users construct seamless transitions, builds, and drops in their tracks.</p><p>Transit 2 expands upon its predecessor by offering 28 effects modules, six motion modes, and over 400 presets, alongside a randomization engine for generating unique effect combinations. The plugin aims to simplify the automation process by allowing producers to control complex parameter sweeps using a single macro knob.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTransit-2-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 16:30 UTC | #28394</small>]]></content>
+  </entry>
   <entry>
     <title>discoDSP Updates OB-Xd Synthesizer to Version 4.2</title>
     <link href="https://www.kvraudio.com/news/discodsp-updates-ob-xd-synth-to-v4-2-70114?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70114" rel="alternate" />
@@ -409,14 +418,5 @@
     <updated>2026-11-19T16:34:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Funison.audio%2Fwp-content%2Fuploads%2FOril-River-3.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/">bedroomproducersblog.com</a> | <a href="https://13x.audio/products/loft">13x.audio</a></small></p><hr/><p>13x Audio has released Loft, a free vintage reverb plugin available for macOS, Windows, and Linux. The plugin features drawable envelopes for shaping the reverb tail over time, tempo-synced modulation, and integrated resonators tuned to a song's key.</p><p>Loft includes five shape curves, 16-step envelope drawing, shimmer and morph controls, and vintage engine modes inspired by 1980s and 1990s digital rack units. It offers 34 presets, a freeze function for sustained textures, and supports VST3 and AU formats without requiring registration or a license key.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Funison.audio%2Fwp-content%2Fuploads%2FOril-River-3.png.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:40 UTC | #28046</small>]]></content>
-  </entry>
-  <entry>
-    <title>CoordN8 Announces Path MIDI Morphing App for Ableton Live</title>
-    <link href="https://bedroomproducersblog.com/2026/11/19/coordn8-path/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/19/coordn8-path/::v240</id>
-    <published>2026-11-19T16:30:00+00:00</published>
-    <updated>2026-11-19T16:30:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fableton-production.imgix.net%2Flive-manual%2F12%2FMIDINoteEditorLayout.png%3Fauto%3D%26w%3D1280&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/19/coordn8-path/">bedroomproducersblog.com</a> | <a href="https://coordn8.io/">coordn8.io</a></small></p><hr/><p>CoordN8 has announced Path, an upcoming macOS application that enables users to morph between two MIDI clips in Ableton Live's Session View and play the variations in real time. Designed as a standalone companion app that connects via a Max for Live device, it allows producers to blend rhythms, pitches, and notes using a mouse, trackpad, or MIDI controller, and capture desired variations as new clips with a single click.</p><p>The app's deterministic engine is based on research into rhythmic expectation rather than randomness or AI, ensuring that identical clips and settings produce reproducible results. Path requires an Apple Silicon Mac running macOS 15.6 or newer, along with Ableton Live 12.2 or later with Max for Live. An invite-only beta is scheduled to begin on December 1, 2026, ahead of a full commercial launch planned for early 2027.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fableton-production.imgix.net%2Flive-manual%2F12%2FMIDINoteEditorLayout.png%3Fauto%3D%26w%3D1280&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 21:39 UTC | #28047</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-24T13:36:00+00:00</updated>
+  <updated>2026-11-24T16:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Yann LeCun Accuses Anthropic CEO of Seeking to Criminalize Open Models</title>
+    <link href="https://twitter.com/ylecun/status/2124550037912920090" rel="alternate" />
+    <id>https://twitter.com/ylecun/status/2124550037912920090::v241</id>
+    <published>2026-11-24T16:31:00+00:00</published>
+    <updated>2026-11-24T16:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.intelligentliving.co%2Fwp-content%2Fuploads%2F2026%2F04%2Fanalyzing-ai-access-open-source-open-weight-and-api-only-models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://twitter.com/ylecun/status/2124550037912920090">x.com</a> | <a href="https://news.ycombinator.com/item?id=50615308">hacker news</a></small></p><hr/><p>Yann LeCun accused Anthropic CEO Dario Amodei of using AI safety concerns as a pretext to criminalize open-source models. LeCun argues that Amodei's warnings, which date back to the development of GPT-2, are a strategy designed to ensure he maintains personal control over the AI industry.</p><p>LeCun cites Amodei’s departure from OpenAI as evidence of his pursuit of authority and draws a historical parallel to the Ottoman Empire's restrictions on the printing press. The critique frames Amodei's safety advocacy as a maneuver for regulatory capture rather than a legitimate public safety effort.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.intelligentliving.co%2Fwp-content%2Fuploads%2F2026%2F04%2Fanalyzing-ai-access-open-source-open-weight-and-api-only-models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 16:17 UTC | #28433 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Ladybird Browser Enters Alpha with Independent Engine</title>
     <link href="https://ladybird.org/posts/alpha/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Baby Audio Offers Transit 2 Multi-Effects Plugin at Discounted Black Friday Price</h2>
+<a name="story-28394"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTransit-2-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Baby Audio has discounted its Transit 2 multi-effects plugin to $69 for Black Friday, representing a 50 percent price reduction from its standard retail rate. Developed in collaboration with producer Andrew Huang, the plugin is designed to help users construct seamless transitions, builds, and drops in their tracks.</p><p>Transit 2 expands upon its predecessor by offering 28 effects modules, six motion modes, and over 400 presets, alongside a randomization engine for generating unique effect combinations. The plugin aims to simplify the automation process by allowing producers to control complex parameter sweeps using a single macro knob.</p>
+<p>Nov 24 · <a href="https://musictech.com/news/gear/baby-audio-offers-the-major-low-price-of-69-on-transit-2-for-black-friday/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>discoDSP Updates OB-Xd Synthesizer to Version 4.2</h2>
 <a name="story-28392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fobxd4.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>discoDSP has released version 4.2 of its analog-modeled OB-Xd synthesizer for Mac, Windows, and Linux. The update introduces a redesigned panel layout with a top program strip option, section menus for faster page-two access, a 16-voice mode, and an 8+8 voice allocation setting for Split and Double patches.</p><p>Additional improvements include faster page switching and a bug fix for disappearing knobs on specific Windows graphics cards, such as the Intel HD 4600. The previous interface design remains accessible as a free Classic theme download via the developer's soundware page.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28249"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fspace-jam.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samba Godschynski has released version 1.0.4 of the Integra-7 Editor, a native third-party software editor for Roland's Integra-7 sound module. The update introduces WLAN support, a virtual keyboard for playing and looping sounds directly within the editor, and extended copy-and-paste capabilities for parameter windows.</p><p>Additional improvements include side-by-side editing windows for tone partials, structure type diagrams for PCM-S selectors, and minor bug fixes. A promotional discount reduces the software's price until December 6, 2026.</p>
 <p>Nov 22 · <a href="https://www.kvraudio.com/news/samba-godschynski-updates-integra-7-editor-to-v1-0-4-70051?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70051">kvraudio.com</a> | <a href="https://www.beastybobs.com/i7/">beastybobs.com</a></p>
-<br clear="all" />
-
-<h2>Audio Voltage Releases Anima Strings Vol. 1 and Updates Sonic Portraits Toolkit for u-he Zebra 3</h2>
-<a name="story-28250"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanima-strings-vol-1-box-1280x720.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audio Voltage has released Sonic Portraits - Anima Strings Vol. 1, a collection of 290 bowed-string presets designed for u-he Zebra 3 with MPE playability and NKS support. Each preset is built from oscillators, additive partials, comb filters, and modal resonators, utilizing custom modal profiles to shape instrument bodies.</p><p>Alongside the new soundset, the company has updated the Sonic Portraits - Toolkit with 275 new FX module presets, 25 FX Grid racks, and a new light interface skin named Atelier Blanc. Both products are available now for Windows and macOS, requiring u-he Zebra 3, with introductory pricing in effect through late 2026.</p>
-<p>Nov 22 · <a href="https://www.kvraudio.com/news/audio-voltage-releases-anima-strings-vol-1-and-updates-sonic-portraits---toolkit-for-u-he-zebra-3-69983?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69983">kvraudio.com</a> | <a href="https://audiovoltage.com/products/sound-design/anima-strings-vol-1/">audiovoltage.com</a></p>
 <br clear="all" />
 
 ---
