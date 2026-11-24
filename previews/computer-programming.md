@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Ladybird Browser Enters Alpha with Independent Engine</h2>
+<a name="story-28413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.martincid.com%2F2026%2F11%2Fladybird-browser-alpha-independent-engine-mac-linux-1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ladybird has launched its alpha version, now available for download on macOS and Linux. The browser utilizes a completely independent engine built from the ground up, intentionally avoiding forks of existing browser projects.</p><p>The alpha release includes a rolling channel with automatic updates and supports both WebDriver for automated testing and the Firefox DevTools protocol. The project team is soliciting security research, crash reports, and feedback from web developers to improve the engine's reliability and performance.</p>
+<p>Nov 24 · <a href="https://ladybird.org/posts/alpha/">ladybird.org</a> | <a href="https://news.ycombinator.com/item?id=50614249">hacker news</a></p>
+<br clear="all" />
+
 <h2>Alpine Linux Contributor Details Wiki Upgrades and Infrastructure Challenges</h2>
 <a name="story-28405"><img src="https://wsrv.nl/?url=https%3A%2F%2Flambdacreate.com%2Fstatic%2Fimages%2F86%2Fia_email.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An Alpine Linux contributor details the multi-layered infrastructure work required to modernize the project's long-standing MediaWiki instance. Prompted by critical security vulnerabilities including the PHP2Shell exploit and a GitLab RCE incident, the project faced simultaneous upgrades across Alpine operating system branches, PHP versions, and MediaWiki releases.</p><p>Maintaining the infrastructure highlighted the challenges of volunteer-driven open-source projects operating under strict storage and resource limits. Beyond upgrading MediaWiki from version 1.40 to 1.46.2 and migrating from legacy git submodules to proper APK packages, contributors also had to build archiving solutions using the Internet Archive to alleviate severe CDN capacity constraints.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28224"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20240612133138%2Fb-plus-tree-in-c.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Valkey 9.2 replaces its traditional skiplist implementation for large sorted sets with a high-fanout B+ tree variant named fbtree. This structural shift addresses the high memory overhead and cache-miss penalties inherent to skiplists by packing multiple elements into contiguous leaf nodes and utilizing SIMD-accelerated feature lookups.</p><p>Internal benchmarks show that fbtree reduces per-member memory overhead by 36 to 43 percent for large sorted sets while significantly improving throughput for update-heavy operations like ZADD and ZREM. While sorted set commands and behaviors remain functionally unchanged, the OBJECT ENCODING command now reports btree instead of skiplist.</p>
 <p>Nov 21 · <a href="https://valkey.io/blog/from-skiplist-to-b+tree/">valkey.io</a> | <a href="https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50534387">hacker news</a></p>
-<br clear="all" />
-
-<h2>LookAtMyQuant Quantization Compiler Released on GitHub</h2>
-<p>LookAtMyQuant is a quantization compiler that evaluates compression damage for individual model components to fit models within size budgets while minimizing Kullback-Leibler divergence. The MIT-licensed project provides an Apple Silicon MLX runtime alongside specialized compression recipes for large language models including Qwen and Inkling-2-Mini.</p><p>The compiler employs post-training quantization, trellis codes, row-specific bit allocation based on Fisher information, and multi-step distillation. Packed builds demonstrate strong benchmark performance and memory efficiency relative to standard alternatives, while the repository supplies command-line utilities and Python APIs for local deployment and evaluation.</p>
-<p>Nov 21 · <a href="https://github.com/ShinMegamiBoson/lookatmyquant">github.com</a> | <a href="https://news.ycombinator.com/item?id=50591853">hacker news</a></p>
 <br clear="all" />
 
 ---
