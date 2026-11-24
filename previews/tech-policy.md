@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Google Maps Fails to Include West Bank Movement Restrictions</h2>
+<a name="story-28377"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6b00ed327c78d96a15f9054f%2Fmaster%2Fw_1600%252Cc_limit%2Frawabi-ateret-map-compared.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google Maps lacks data on the hundreds of checkpoints and movement restrictions in the occupied West Bank, making it unreliable for Palestinian drivers. A former product manager spent over six years attempting to develop a prototype that highlighted administrative zones and warned users of permanent checkpoints. Although these features were briefly launched, Google retracted the update in late 2025 following complaints from Israeli media about navigation "glitches."</p><p>The rollback occurred amid Google's increasing involvement with Israel through the acquisition of Waze and the Project Nimbus contract. Despite the company's ability to map complex regions worldwide, it omitted the West Bank restrictions to avoid conflict with local interests. Palestinian drivers now rely on grassroots crowdsourcing, such as the Road Conditions Telegram channel, to navigate the region's hazardous travel infrastructure.</p>
+<p>Nov 24 · <a href="https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/">wired.com</a></p>
+<br clear="all" />
+
 <h2>Kalshi Pauses Operations in Utah Amid Federal Court Loss and Criminal Charges</h2>
 <a name="story-28383"><img src="https://wsrv.nl/?url=https%3A%2F%2Freadwrite.com%2Fwp-content%2Fuploads%2F2026%2F02%2FKalshi-files-lawsuit-against-Utah-officials-over-threat-to-prediction-markets.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Prediction market platform Kalshi has suspended its operations in Utah, affecting over 177,000 users in the state. The decision follows a federal court ruling upholding Utah's authority to enforce state anti-gambling laws against the platform's event and sports contracts.</p><p>Alongside the federal court defeat, Utah officials have pursued criminal charges against Kalshi and its founders regarding the platform's state-level operations. The escalating legal dispute highlights an ongoing jurisdictional battle between state regulators and prediction market operators over whether federal registration preempts local gambling prohibitions.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28222"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.visiontimes.com%2F2024%2F06%2Fnvidia-ceo-jensen-huang_2023_GettyImages-1808364763-1068x764.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Matchmakers and cybersecurity experts report that tech workers and executives are increasingly concerned about romantic espionage, or honeypots, used to extract corporate secrets. These anxieties have amplified following high-profile incidents, such as the reported relationship involving Nvidia CEO Jensen Huang and a suspected intelligence asset.</p><p>While security consultants note that real-world espionage operations typically rely on long-term grooming rather than quick bar encounters, heightened distrust has increased demand for high-end matchmaking background checks. Amid these growing security concerns, some digital relationship platforms have begun marketing specialized AI companions featuring zero-espionage guarantees.</p>
 <p>Nov 22 · <a href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/">wired.com</a></p>
-<br clear="all" />
-
-<h2>Etsy Updates Terms of Use to Allow AI Training on Seller Content</h2>
-<a name="story-28163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHXWKrZ2WUAE8F1O%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Numerous longtime Etsy sellers are leaving the online marketplace following an update to the platform's terms of use. The revised policy specifies that Etsy and its third-party partners are permitted to use sellers' content and listings for artificial intelligence training.</p><p>The changes have sparked significant backlash and an exodus among creators who object to having their creative work used to train AI models without a clear, straightforward opt-out mechanism. While Etsy states that the policy is intended to improve platform features and tools, many vendors remain concerned about ownership and consent.</p>
-<p>Nov 20 · <a href="https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html">nytimes.com</a> | <a href="https://www.etsy.com/legal/terms-of-use">etsy.com</a></p>
 <br clear="all" />
 
 ---

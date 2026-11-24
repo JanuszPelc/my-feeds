@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-24T05:02:00+00:00</updated>
+  <updated>2026-11-24T05:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Google Maps Fails to Include West Bank Movement Restrictions</title>
+    <link href="https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/" rel="alternate" />
+    <id>https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/::v241</id>
+    <published>2026-11-24T05:17:00+00:00</published>
+    <updated>2026-11-24T05:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6b00ed327c78d96a15f9054f%2Fmaster%2Fw_1600%252Cc_limit%2Frawabi-ateret-map-compared.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/">wired.com</a></small></p><hr/><p>Google Maps lacks data on the hundreds of checkpoints and movement restrictions in the occupied West Bank, making it unreliable for Palestinian drivers. A former product manager spent over six years attempting to develop a prototype that highlighted administrative zones and warned users of permanent checkpoints. Although these features were briefly launched, Google retracted the update in late 2025 following complaints from Israeli media about navigation "glitches."</p><p>The rollback occurred amid Google's increasing involvement with Israel through the acquisition of Waze and the Project Nimbus contract. Despite the company's ability to map complex regions worldwide, it omitted the West Bank restrictions to avoid conflict with local interests. Palestinian drivers now rely on grassroots crowdsourcing, such as the Road Conditions Telegram channel, to navigate the region's hazardous travel infrastructure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6b00ed327c78d96a15f9054f%2Fmaster%2Fw_1600%252Cc_limit%2Frawabi-ateret-map-compared.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 14:03 UTC | #28377</small>]]></content>
+  </entry>
   <entry>
     <title>Kalshi Pauses Operations in Utah Amid Federal Court Loss and Criminal Charges</title>
     <link href="https://utahnewsdispatch.com/2026/11/23/kalshi-blocks-operations-in-utah-legal-challenges-ongoing/" rel="alternate" />

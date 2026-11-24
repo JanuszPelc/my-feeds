@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>discoDSP Updates OB-Xd Synthesizer to Version 4.2</h2>
+<a name="story-28392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fobxd4.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>discoDSP has released version 4.2 of its analog-modeled OB-Xd synthesizer for Mac, Windows, and Linux. The update introduces a redesigned panel layout with a top program strip option, section menus for faster page-two access, a 16-voice mode, and an 8+8 voice allocation setting for Split and Double patches.</p><p>Additional improvements include faster page switching and a bug fix for disappearing knobs on specific Windows graphics cards, such as the Intel HD 4600. The previous interface design remains accessible as a free Classic theme download via the developer's soundware page.</p>
+<p>Nov 24 · <a href="https://www.kvraudio.com/news/discodsp-updates-ob-xd-synth-to-v4-2-70114?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70114">kvraudio.com</a> | <a href="https://www.discodsp.com/obxd/">discodsp.com</a></p>
+<br clear="all" />
+
 <h2>Sweetwater Offers Black Friday Discounts on Studio Hardware and Software</h2>
 <a name="story-28335"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fgift-guide-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sweetwater is offering discounts on more than 5,000 products for the Black Friday and Cyber Monday shopping events. Key highlights include significant price reductions on the IK Multimedia Amplitube 5 Max guitar processing suite, the Image Line FL Studio All Plug-ins Edition, and the Moog Muse 8-voice Polyphonic Analog Synthesizer.</p><p>The curated list also features hardware and software bundles, such as the Ableton Move standalone instrument and Live 12 Standard software, and the Native Instruments Komplete Kontrol S49 paired with the Komplete 26 Standard library. These deals target music producers and DJs by offering savings on high-end synthesizers, drum samples, and professional production software.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28250"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanima-strings-vol-1-box-1280x720.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio Voltage has released Sonic Portraits - Anima Strings Vol. 1, a collection of 290 bowed-string presets designed for u-he Zebra 3 with MPE playability and NKS support. Each preset is built from oscillators, additive partials, comb filters, and modal resonators, utilizing custom modal profiles to shape instrument bodies.</p><p>Alongside the new soundset, the company has updated the Sonic Portraits - Toolkit with 275 new FX module presets, 25 FX Grid racks, and a new light interface skin named Atelier Blanc. Both products are available now for Windows and macOS, requiring u-he Zebra 3, with introductory pricing in effect through late 2026.</p>
 <p>Nov 22 · <a href="https://www.kvraudio.com/news/audio-voltage-releases-anima-strings-vol-1-and-updates-sonic-portraits---toolkit-for-u-he-zebra-3-69983?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69983">kvraudio.com</a> | <a href="https://audiovoltage.com/products/sound-design/anima-strings-vol-1/">audiovoltage.com</a></p>
-<br clear="all" />
-
-<h2>AngelicVibes Releases Pulsate Creative LFO and Rhythmic FX Plugin</h2>
-<a name="story-28248"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fpulsate_ui_small.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AngelicVibes has released Pulsate, a creative low-frequency oscillator and rhythmic effects plugin designed for macOS and Windows platforms. Available in AU and VST3 formats, the software is part of the company's Essential FX Series and features multiple modulation destinations for audio production.</p><p>The plugin includes over 140 built-in shapes, custom shape drawing capabilities, and dual-destination modulation controls. Users can apply the effect for sidechain pumping, rhythmic stutters, filter sweeps, and stereo panning movements, with adjustable parameters for rate, mix, and shape.</p>
-<p>Nov 22 · <a href="https://www.kvraudio.com/news/angelicvibes-releases-pulsate---creative-lfo-and-rhythmic-fx-plugin-au-and-vst3-70041?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70041">kvraudio.com</a> | <a href="https://www.angelicvibes.com/product/pulsate/">angelicvibes.com</a></p>
 <br clear="all" />
 
 ---
