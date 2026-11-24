@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-24T12:36:00+00:00</updated>
+  <updated>2026-11-24T17:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Exposed Databases Reveal 3.5 Billion Usernames, Passwords, and Documents</title>
+    <link href="https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/" rel="alternate" />
+    <id>https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/::v241</id>
+    <published>2026-11-24T17:06:00+00:00</published>
+    <updated>2026-11-24T17:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cybernews.com%2F2026%2F02%2Fmajor-chinese-data-leak2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/">wired.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4dv3y/database_leaks_expose_35_billion_usernames/">r/technology</a></small></p><hr/><p>Two unrelated unsecured databases discovered by security researchers have exposed more than 3.5 billion records, including national identity numbers, personal documents, and login credentials. One trove, found by UpGuard researcher Greg Pollock, contained over 1.5 billion records predominantly detailing Chinese individuals and businesses.</p><p>The second database, discovered by Black Hills Information Security researcher Jeremiah Fowler, held approximately 2 billion credentials gathered largely via info-stealer malware, featuring millions of accounts from major US tech platforms. Both repositories have since been taken offline, highlighting the immense scale of cybercriminal data aggregation and the persistent risks of inadequate security practices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cybernews.com%2F2026%2F02%2Fmajor-chinese-data-leak2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 22:17 UTC | #28407</small>]]></content>
+  </entry>
   <entry>
     <title>Stalwart Releases Drop-in Replacement for Microsoft Exchange</title>
     <link href="https://stalw.art/blog/microsoft-exchange-replacement/" rel="alternate" />
