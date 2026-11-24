@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Denise Releases Xtra Loud Sonic Maximizer Plugin</h2>
+<a name="story-28409"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fxtra-loud.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Denise has released Xtra Loud, an all-in-one sonic maximizer plugin for macOS and Windows designed to increase perceived loudness and impact without raising peak levels. The plugin incorporates an Auto Match feature that sets the output ceiling to match the input peak, along with controls for multi-stage compression, clipping, saturation, and stereo enhancement.</p><p>Xtra Loud provides three primary creative controls including Push for dual-engine compression and clipping, Harmonics for three distinct hardware-modeled saturation flavors, and Dimension for stereo enhancement with preserved mono compatibility. Additional precision features include linear phase processing, oversampling options, and output dithering. It is available in AU, AAX, VST2, and VST3 formats.</p>
+<p>Nov 24 · <a href="https://www.kvraudio.com/news/denise-releases-xtra-loud-sonic-maximizer-plugin-au-aax-and-vst-70120?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70120">kvraudio.com</a> | <a href="https://www.deniseaudio.com/plugins/xtra-loud">deniseaudio.com</a></p>
+<br clear="all" />
+
+<h2>Universal Audio Launches $1 Plugin Promotion for Thanksgiving</h2>
+<a name="story-28408"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.recordproduction.com%2Fuploads%2Fmedia%2Freviews%2F.thumbnails%2FUAD-1-RTAS-ProTools__1200x630.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Universal Audio has opened signups for a Thanksgiving promotion allowing users to purchase a selected UAD plugin for $1. The offer begins on November 26 and runs through November 30, giving participants the opportunity to choose one title from a selection of ten eligible plugins once the lineup is revealed.</p><p>Participants must sign up with an email address and consent to marketing materials to receive the discount code. The native plugins require a UA account, UA Connect, and a free iLok account, and operate on macOS and Windows without requiring hardware DSP or an Apollo interface.</p>
+<p>Nov 24 · <a href="https://bedroomproducersblog.com/2026/11/24/universal-audio-dollar-thanksgiving/">bedroomproducersblog.com</a> | <a href="https://exclusive.uaudio.com/thanksgiving-dollar-plug-in">exclusive.uaudio.com</a></p>
+<br clear="all" />
+
 <h2>MusicTech Magazine Announces November/December 2026 Issue Release</h2>
 <a name="story-28403"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMT.MAG_.Promo6_.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The November/December 2026 issue of MusicTech Magazine is scheduled to go on sale on Thursday, November 26, bundled together with NME Magazine. The latest print edition will be available exclusively through retailer Dawsons, with the cover stars for both publications revealed at the time of launch.</p><p>MusicTech and Guitar.com operate as sister publications under NME Networks, alternating print editions with every bi-monthly release of NME Magazine to produce three print issues per calendar year. Subscribers can sign up for a newsletter to receive a queue-jump opportunity providing early access to purchase copies.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28262"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flivai_600.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Leap Into Void has released Artificial Intelligence, an acousmatic and musique concrète soundset designed for the UVI Falcon synthesizer platform. Drawing inspiration from experimental electronic music traditions and artists like Pierre Schaeffer, Iannis Xenakis, and Autechre, the library features machine-like yet organic sonic textures.</p><p>The soundset includes 66 presets based primarily on granular synthesis, utilizing 95 individual layers and custom WAV audio files derived from digital, modular, and field recordings. All presets feature macro page layouts and modulation assignments, and the library requires Falcon 2026.</p>
 <p>Nov 22 · <a href="https://www.kvraudio.com/news/leap-into-void-releases-artificial-intelligence-acousmatic-soundset-for-uvi-falcon-70063?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70063">kvraudio.com</a> | <a href="https://liv.mikaeladle.se/artificialintelligence.html">liv.mikaeladle.se</a></p>
-<br clear="all" />
-
-<h2>Dropshot Audio Updates Smackbox V2 to Version 1.6.0</h2>
-<a name="story-28246"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsmackbox-sequencer.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Dropshot Audio has released version 1.6.0 of Smackbox V2, introducing a redesigned user interface featuring a unified full and compact sequencer/synth view. The update adds independent loop lengths and playheads for each sequencer lane, enabling polyrhythmic pattern generation.</p><p>Additionally, version 1.6.0 expands parameter locking capabilities with relative locks and support for empty steps, alongside bug fixes for sound copying, preset navigation, window sizing, and transport state. The instrument is available for macOS, Windows, and Linux in VST3, CLAP, and standalone formats, with an Audio Unit version for macOS.</p>
-<p>Nov 22 · <a href="https://www.kvraudio.com/news/dropshot-audio-updates-smackbox-v2-to-v1-6-0-69962?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69962">kvraudio.com</a> | <a href="https://dropshotaudio.com/smackbox">dropshotaudio.com</a></p>
-<br clear="all" />
-
-<h2>Pine DSP Releases Blox Grain Granular Effect Plugin</h2>
-<a name="story-28244"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic-files.gumroad.com%2Fkatqmj3ru3ng74luvdbyebhv442m&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Pine DSP has launched Blox Grain, a granular effect plugin available in VST3, AU, and AAX formats. The tool processes incoming audio by breaking it into small grains and scattering them into a manipulatable cloud. Users can adjust parameters such as grain size, density, and spray distance, while also utilizing features like audio freezing, pitch shifting, and drift.</p><p>The plugin can operate as a standalone unit or be loaded as a module within the Blox Rack system. It features an extended view for precise grain shape control, including reverse and jitter options. Blox Grain is offered at an introductory price of $3 until December 8th, after which it moves to a full price of $19, with discounts available for existing Pine DSP module and Blox Rack owners.</p>
-<p>Nov 22 · <a href="https://www.kvraudio.com/news/pine-dsp-releases-blox-grain---granular-effect-plugin-vst-au-aax-69899?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69899">kvraudio.com</a> | <a href="https://pinedsp.com/blox-grain">pinedsp.com</a></p>
 <br clear="all" />
 
 ---
