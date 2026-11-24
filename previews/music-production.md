@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Tidal to Ban and Remove Millions of Fully AI-Generated Tracks</h2>
+<a name="story-28441"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F07%2Ffeatured-image-98.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Tidal announced that it will ban, reject, and remove fully AI-generated music from its platform following an influx of submissions where over 43% of tracks uploaded in the prior 90 days were detected as AI-generated. Beginning December 9, the streaming service will remove over 29 million fully AI-generated songs by the end of the year and reject approximately 80,000 to 85,000 similar tracks daily.</p><p>The company will prohibit distribution services from delivering tracks made entirely by AI and will block submissions based on metadata labels, though songs featuring partial AI assistance will still be accepted. This policy escalates Tidal's earlier June 2026 decision to demonetize fully AI-generated tracks, aligning it with platforms like Bandcamp while contrasting with larger services such as Spotify and YouTube Music that primarily rely on labeling.</p>
+<p>Nov 24 · <a href="https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/">techcrunch.com</a> | <a href="https://x.com/TIDAL/status/2125233598714487170">x.com</a></p>
+<br clear="all" />
+
 <h2>iZotope Releases Nectar 5 Vocal Production Suite</h2>
 <a name="story-28431"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnectar5-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>iZotope has released Nectar 5, a vocal production suite that introduces lyrics-based editing via a new ARA plugin called Moments. The software converts vocal takes into text, allowing producers to apply creative effects like reverb throws, doubling, and formant shifting to specific words and phrases without tedious automation.</p><p>Additional updates in Nectar 5 include a Serial Compressor module supporting up to three stacked compressors, a Vocal Stabilizer adaptive EQ, and an overhauled Vocal Assistant featuring a Custom Flow setup mode. The release is accompanied by a Cyber Sale offering introductory discounts across the suite's editions and other iZotope products through December 7, 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28322"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FZMv2vzfuxQeW8DtXpNqrqP.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>KNS16 and Knightverb 2000 are two new free reverb plugins from developer Jonathan Knightsnare, inspired by the AMS RMX16 and Lexicon Model 200 hardware respectively. KNS16 includes 18 programs for environments such as rooms, halls, and plates, featuring a keypad-driven workflow for precise parameter entry and nine user settings. Knightverb 2000 offers six programs with ten variations each, providing specialized controls for input mute, reverb stop, and output mix.</p><p>Both plugins are designed to mimic the workflow of early digital rack effects while supporting VST3 and AU formats across macOS, Windows, and Linux. Users can acquire the plugins for free from the official website by setting the checkout price to $0, with the developer also offering a suite of other audio tools including drum machines and dynamics processors.</p>
 <p>Nov 23 · <a href="https://bedroomproducersblog.com/2026/11/23/knightsnare-knightverb-2000/">bedroomproducersblog.com</a> | <a href="https://knightsnare.com/">knightsnare.com</a></p>
-<br clear="all" />
-
-<h2>Pulsar Audio Launches Black Friday Sale With Discounts and Free Plugin</h2>
-<a name="story-28323"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.sweetwater.com%2Fm%2Fproducts%2Fimage%2Fb7f25c18efZwF9Sg7eE28c7wG9srAQjgAl0RzluC.jpg%3Fquality%3D1%26ha%3Db7f25c18ef481db5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Pulsar Audio has launched its Black Friday sale, offering up to 70 percent off plugins and bundles through December 7, 2026. The promotion includes a "Buy 2, Get 1 Free" offer, allowing customers to mix individual products and bundles with the cheapest item free.</p><p>Featured discounts include the Echorec delay and Primavera spring reverb, alongside the 1178 compressor. Additionally, the company is offering its DigiTape plugin for free through an email sign-up and short survey, requiring no credit card or iLok account for activation.</p>
-<p>Nov 23 · <a href="https://bedroomproducersblog.com/2026/11/23/pulsar-audio-black-friday-2026/">bedroomproducersblog.com</a> | <a href="https://pulsar.audio/shop/">pulsar.audio</a></p>
 <br clear="all" />
 
 ---
