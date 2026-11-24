@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-24T03:51:00+00:00</updated>
+  <updated>2026-11-24T10:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Resilience Defined as a Socially Negotiated Process</title>
+    <link href="https://theconversation.com/what-is-resilience-it-may-be-less-about-bouncing-back-than-we-think-290683" rel="alternate" />
+    <id>https://theconversation.com/what-is-resilience-it-may-be-less-about-bouncing-back-than-we-think-290683::v241</id>
+    <published>2026-11-24T10:43:00+00:00</published>
+    <updated>2026-11-24T10:43:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.frontiersin.org%2Ffiles%2FArticles%2F865459%2Fxml-images%2Ffpubh-10-865459-g0001.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/what-is-resilience-it-may-be-less-about-bouncing-back-than-we-think-290683">theconversation.com</a> | <a href="https://www.sciencedirect.com/science/article/pii/S0277953626010439">sciencedirect.com</a></small></p><hr/><p>The article argues that resilience is not an innate psychological trait but a process continually negotiated through relationships, social conditions, and available resources. Rather than a "bouncing back" mechanism, resilience is shaped by external factors like job security, healthcare access, and financial stability, which facilitate or constrain an individual's capacity to adapt to adversity.</p><p>Based on a study of individuals over 50 with long COVID, the research highlights how societal expectations can force people to hide their struggles while navigating chronic illness. The author compares resilience to an immune system—which interacts with its environment—rather than armor, suggesting that public policy and social support are critical to creating the conditions where meaningful adaptation is possible.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.frontiersin.org%2Ffiles%2FArticles%2F865459%2Fxml-images%2Ffpubh-10-865459-g0001.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 15:48 UTC | #28395</small>]]></content>
+  </entry>
   <entry>
     <title>Australian Ecologist Chris Dickman Dies</title>
     <link href="https://theconversation.com/vale-chris-dickman-australian-science-grieves-the-loss-of-a-giant-of-ecology-and-conservation-297156" rel="alternate" />
