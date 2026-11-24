@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Expands GPT-6.2 Sol to ChatGPT Chat Tab and Sets Model Retirement Dates</h2>
+<a name="story-28378"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHNDSbbsaEAAmJP1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GPT-6.2 Sol is now available in the ChatGPT Chat tab for Plus, Pro, Business, and Enterprise users. Previously debuting in Work and Codex, this version has been tuned for everyday conversation and offers enhanced capabilities for identifying fine details in photographs and executing complex web search instructions.</p><p>The update enables functionality such as weighing travel options based on price versus walking distance and providing automated alerts for price drops on shopped items. Additionally, OpenAI announced that GPT-5.6 Sol will be retired from Chat, Work, and Codex on December 23, while GPT-5.6 Terra will be retired from Work and Codex on the same day.</p>
+<p>Nov 24 · <a href="https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/">9to5mac.com</a> | <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">help.openai.com</a></p>
+<br clear="all" />
+
 <h2>US Prosecutors Allege Former OpenAI Engineer Captured Trade Secrets on Hidden Recording Device</h2>
 <a name="story-28381"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F07%2F108001313.jpg%3Fquality%3D90%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US prosecutors stated that a former OpenAI engineer charged with planting a hidden recording device in an executive conference room accumulated dozens of meeting recordings, many involving potential trade secrets. The allegations were detailed in legal filings concerning the ongoing criminal case against the former employee.</p><p>The accused engineer was arrested following the discovery of the listening device plugged into a port in an OpenAI San Francisco office conference room. Prosecutors have cited alleged foreign backing and outlined potential flight risks in opposing the defendant's release on bail.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-28201"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAskProxy-agent.png%3Fw%3D662&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A growing number of AI agents are designed to operate directly through text messaging and chat platforms like iMessage, RCS, WhatsApp, and SMS, allowing users to delegate everyday tasks without downloading standalone applications. These assistants can manage calendars, organize schedules, plan travel, handle email, and execute multi-step workflows while maintaining context across devices.</p><p>Notable entries in this category range from heavily funded general-purpose assistants like Instinct and Poke to specialized tools like family-focused Fambot and travel-oriented Miso. Many of these services operate on subscription models or freemium tiers, though their increasing autonomy—such as managing dedicated email accounts and placing phone calls—has also raised ongoing questions regarding user privacy and security.</p>
 <p>Nov 21 · <a href="https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Google DeepMind Hires Henry Shevlin for In-House Philosopher Role</h2>
-<a name="story-28189"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.dezeen.com%2Fuploads%2F2025%2F05%2Fsq-google-g-logo-update_dezeen_2364_col_0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Google DeepMind has appointed Cambridge academic Henry Shevlin as an in-house philosopher to examine machine consciousness, human-AI relationships, and AGI readiness. His work addresses foundational conceptual questions regarding the nature of artificial agents and their societal integration.</p><p>The hire highlights how leading artificial intelligence laboratories are increasingly engaging with philosophical and ethical frameworks as systems approach artificial general intelligence. Shevlin's remit involves exploring whether artificial systems can possess subjective experience and how humans will interact with increasingly autonomous technologies.</p>
-<p>Nov 21 · <a href="https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&sharetype=gift&token=956073db-4440-473e-97bd-a0af2932464c">ft.com</a></p>
 <br clear="all" />
 
 ---
