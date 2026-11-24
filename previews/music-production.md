@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Instruments.digital Releases Felted Piano Free Plugin</h2>
+<a name="story-28463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fm%2Ffelted-piano-combo-compressed.1705985732.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Instruments.digital has released Felted Piano, a free and open-source upright felt piano virtual instrument plugin for Windows and Linux. The instrument features three velocity layers, key-release noise, and adjustable controls for mechanical noises and sympathetic vibrations.</p><p>The plugin includes a granular effects panel for experimental sound design and a room simulation panel featuring X/Y microphone positioning, room size adjustment, and lowpass filtering for reverb.</p>
+<p>Nov 24 · <a href="https://bedroomproducersblog.com/2026/11/24/instruments-digital-releases-felted-piano-a-free-upright-felt-piano-vst-for-windows-and-linux/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
+<h2>Plugin Boutique Highlights Black Friday Deals Under Ten Dollars</h2>
+<a name="story-28464"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fc6xavhWFTM8ziKHzc2HWv8-1286-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bedroom Producers Blog has published a curated selection of ten audio plugins priced at ten dollars or less as part of Plugin Boutique's Black Friday sales. The list features virtual instruments, saturation processors, limiters, tape echoes, and pitch shifters from developers including MeldaProduction, Kiive Audio, and Future Audio Workshops.</p><p>Every paid purchase during the promotional window qualifies for a choice of complementary software items, with additional freebies unlocked for orders exceeding specific spending thresholds. The guide highlights budget-friendly options for producers looking to expand their mixing and sound design toolkits.</p>
+<p>Nov 24 · <a href="https://bedroomproducersblog.com/2026/11/24/plugin-boutique-10-2026/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
 <h2>Universal Audio Volt Gen 2 and Volt Max Audio Interfaces Reviewed</h2>
 <a name="story-28445"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUniversal-Audio-Volt-4P-Max-credit-press%401400x934.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Universal Audio’s second-generation Volt and Volt Max audio interfaces expand the company's affordable lineup across six new models featuring 32-bit/192 kHz conversion, updated preamps with distinct tone-shaping modes, and auto-gain and clip protection functions. The review highlights how these bus-powered USB-C units balance hardware-inspired character with modern desktop utility, positioning models like the Volt 4 Max as versatile studio hubs.</p><p>While testing the Volt 2 Gen 2 and Volt 4 Max, the reviewer noted that the expanded tone-shaping options—offering Warmth, Focus, and Shine presets—provide genuinely creative processing without requiring plugins. However, the Max-exclusive compression presets and build quality details offer a mixed value proposition, leading to recommendations tailored to specific connectivity and workflow needs across the standard and Max tiers.</p>
@@ -84,18 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28403"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMT.MAG_.Promo6_.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The November/December 2026 issue of MusicTech Magazine is scheduled to go on sale on Thursday, November 26, bundled together with NME Magazine. The latest print edition will be available exclusively through retailer Dawsons, with the cover stars for both publications revealed at the time of launch.</p><p>MusicTech and Guitar.com operate as sister publications under NME Networks, alternating print editions with every bi-monthly release of NME Magazine to produce three print issues per calendar year. Subscribers can sign up for a newsletter to receive a queue-jump opportunity providing early access to purchase copies.</p>
 <p>Nov 24 · <a href="https://musictech.com/news/magazine/musictech-magazine-november-december-2026-issue-how-to-buy/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>Baby Audio Offers Transit 2 Multi-Effects Plugin at Discounted Black Friday Price</h2>
-<a name="story-28394"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTransit-2-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Baby Audio has discounted its Transit 2 multi-effects plugin to $69 for Black Friday, representing a 50 percent price reduction from its standard retail rate. Developed in collaboration with producer Andrew Huang, the plugin is designed to help users construct seamless transitions, builds, and drops in their tracks.</p><p>Transit 2 expands upon its predecessor by offering 28 effects modules, six motion modes, and over 400 presets, alongside a randomization engine for generating unique effect combinations. The plugin aims to simplify the automation process by allowing producers to control complex parameter sweeps using a single macro knob.</p>
-<p>Nov 24 · <a href="https://musictech.com/news/gear/baby-audio-offers-the-major-low-price-of-69-on-transit-2-for-black-friday/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>discoDSP Updates OB-Xd Synthesizer to Version 4.2</h2>
-<a name="story-28392"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fobxd4.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>discoDSP has released version 4.2 of its analog-modeled OB-Xd synthesizer for Mac, Windows, and Linux. The update introduces a redesigned panel layout with a top program strip option, section menus for faster page-two access, a 16-voice mode, and an 8+8 voice allocation setting for Split and Double patches.</p><p>Additional improvements include faster page switching and a bug fix for disappearing knobs on specific Windows graphics cards, such as the Intel HD 4600. The previous interface design remains accessible as a free Classic theme download via the developer's soundware page.</p>
-<p>Nov 24 · <a href="https://www.kvraudio.com/news/discodsp-updates-ob-xd-synth-to-v4-2-70114?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70114">kvraudio.com</a> | <a href="https://www.discodsp.com/obxd/">discodsp.com</a></p>
 <br clear="all" />
 
 ---

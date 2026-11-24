@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-24T17:17:00+00:00</updated>
+  <updated>2026-11-24T17:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Instruments.digital Releases Felted Piano Free Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/24/instruments-digital-releases-felted-piano-a-free-upright-felt-piano-vst-for-windows-and-linux/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/24/instruments-digital-releases-felted-piano-a-free-upright-felt-piano-vst-for-windows-and-linux/::v241</id>
+    <published>2026-11-24T17:35:00+00:00</published>
+    <updated>2026-11-24T17:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fm%2Ffelted-piano-combo-compressed.1705985732.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/24/instruments-digital-releases-felted-piano-a-free-upright-felt-piano-vst-for-windows-and-linux/">bedroomproducersblog.com</a></small></p><hr/><p>Developer Instruments.digital has released Felted Piano, a free and open-source upright felt piano virtual instrument plugin for Windows and Linux. The instrument features three velocity layers, key-release noise, and adjustable controls for mechanical noises and sympathetic vibrations.</p><p>The plugin includes a granular effects panel for experimental sound design and a room simulation panel featuring X/Y microphone positioning, room size adjustment, and lowpass filtering for reverb.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fm%2Ffelted-piano-combo-compressed.1705985732.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 22:44 UTC | #28463</small>]]></content>
+  </entry>
+  <entry>
+    <title>Plugin Boutique Highlights Black Friday Deals Under Ten Dollars</title>
+    <link href="https://bedroomproducersblog.com/2026/11/24/plugin-boutique-10-2026/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/24/plugin-boutique-10-2026/::v241</id>
+    <published>2026-11-24T17:34:00+00:00</published>
+    <updated>2026-11-24T17:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fc6xavhWFTM8ziKHzc2HWv8-1286-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/24/plugin-boutique-10-2026/">bedroomproducersblog.com</a></small></p><hr/><p>Bedroom Producers Blog has published a curated selection of ten audio plugins priced at ten dollars or less as part of Plugin Boutique's Black Friday sales. The list features virtual instruments, saturation processors, limiters, tape echoes, and pitch shifters from developers including MeldaProduction, Kiive Audio, and Future Audio Workshops.</p><p>Every paid purchase during the promotional window qualifies for a choice of complementary software items, with additional freebies unlocked for orders exceeding specific spending thresholds. The guide highlights budget-friendly options for producers looking to expand their mixing and sound design toolkits.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fc6xavhWFTM8ziKHzc2HWv8-1286-80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 22:42 UTC | #28464</small>]]></content>
+  </entry>
   <entry>
     <title>Universal Audio Volt Gen 2 and Volt Max Audio Interfaces Reviewed</title>
     <link href="https://musictech.com/reviews/studio-recording-gear/universal-audio-volt-gen-2-and-max-review/" rel="alternate" />

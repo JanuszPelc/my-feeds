@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>On-Chain Analysis Examines Suspected Polymarket Insider Trade Ahead of Jensen Huang NVIDIA Reinstatement</h2>
+<a name="story-28485"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FbnJVQdMkFHUddjVeGAeNdR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An on-chain investigation highlights suspicious trading activity on Polymarket involving a newly created wallet that heavily wagered on Jensen Huang returning as NVIDIA CEO hours before any public announcements. The account accumulated over 71,000 shares at low odds in the middle of the night, just before Donald Trump publicly endorsed Huang's return on social media and NVIDIA officially confirmed his reinstatement.</p><p>The transactions were executed in a concentrated burst that absorbed roughly a third of the contract's available sell liquidity using a fresh proxy address with no prior transaction history. While the wallet's anonymity prevents definitive proof of illicit activity, the precise timing and single-market focus illustrate how decentralized prediction markets can expose severe information asymmetries.</p>
+<p>Nov 24 · <a href="https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/">deucalionn.vercel.app</a> | <a href="https://news.ycombinator.com/item?id=50626578">hacker news</a></p>
+<br clear="all" />
+
 <h2>Supertake Raises $20 Million in Seed Funding for AI Investment Platform</h2>
 <a name="story-28368"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsupertake-product.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI investing startup Supertake has raised $20 million in seed funding led by Adjacent, with participation from Coinbase Ventures, Union Square Ventures, and various angel investors. Incubated by USV, the company uses frontier AI models and trading agents to translate natural language market predictions into custom stock portfolios connected to brokerages like Robinhood and Coinbase.</p><p>The company has appointed former Coinbase AI leaders Lincoln Murr as CEO and John Peterson as CTO, while founder Michael Mignano transitions to executive chairman. Supertake plans to use the new capital to expand its engineering, design, and growth teams while implementing safety guardrails such as spending limits and asset allowlists to manage risks associated with automated trading.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28170"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2021%2F02%2Fdatabricks.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Databricks is in early discussions to raise several billion dollars in new funding at a valuation of approximately $225 billion. The potential financing follows the company's closure of a $5 billion funding round in August that valued it at $190 billion.</p><p>If completed, the new valuation would represent an increase of nearly 20% from the August round, reflecting continued investor demand for artificial intelligence and data analytics infrastructure providers. The talks remain in their early stages and terms could still change.</p>
 <p>Nov 21 · <a href="https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?st=f6tFmc&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>CrowdStrike in Talks to Acquire Zscaler</h2>
-<a name="story-28160"><img src="https://wsrv.nl/?url=https%3A%2F%2Faitech365.com%2Fwp-content%2Fuploads%2F2025%2F08%2FZscaler-_-CrowdStrike-Expand-Partnership-for-AI-Security-Ops-Edited-01-01-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CrowdStrike Holdings Inc. is reportedly in discussions to acquire cybersecurity firm Zscaler Inc., according to people familiar with the matter. A potential transaction would unite the two companies into a major deal with a combined market capitalization of approximately $265 billion.</p><p>Following reports of the negotiations, Zscaler shares surged in extended trading while CrowdStrike shares declined. Neither company has officially confirmed the talks, which follow previous cooperative security integrations between the two vendors.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
