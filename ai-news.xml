@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-24T05:16:00+00:00</updated>
+  <updated>2026-11-24T08:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Cisco and OpenAI Launch Shirudo to Protect Infrastructure Against AI Cyberattacks</title>
+    <link href="https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/" rel="alternate" />
+    <id>https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/::v241</id>
+    <published>2026-11-24T08:56:00+00:00</published>
+    <updated>2026-11-24T08:56:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/">siliconangle.com</a> | <a href="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-secure-infrastructure-project-to-safeguard-agentic-ai.html">newsroom.cisco.com</a></small></p><hr/><p>Cisco and OpenAI have launched Shirudo, an open-source infrastructure shield designed to autonomously defend systems against AI-driven cyberattacks. Developed as part of the Secure Infrastructure Project, Shirudo utilizes extended Berkeley Packet Filter (eBPF) technology to deploy cryptographically-signed shields in milliseconds. This mechanism allows infrastructure to block critical exploits in real-time, providing a layer of protection before official software patches can be distributed.</p><p>The initiative addresses the shrinking "mean time to exploitation," where AI models can discover and weaponize software vulnerabilities faster than human security teams can respond. By integrating OpenAI’s Codex agent to autonomously generate and validate mitigation code, the partners aim to transition from reactive security to "hardened by default" infrastructure. This approach focuses on securing workloads at runtime to create systems that are immutable and can be quickly reverted to a known good state in the event of an attack.</p><hr/><small>24 Nov 2026, 14:19 UTC | #28376</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Expands GPT-6.2 Sol to ChatGPT Chat Tab and Sets Model Retirement Dates</title>
     <link href="https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/" rel="alternate" />
