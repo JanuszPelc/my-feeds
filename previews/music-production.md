@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Cherry Audio Releases DW-8K and Synth Stack 7</h2>
+<a name="story-28458"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdw-8k-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cherry Audio has released the DW-8K, a virtual reproduction of the Korg DW-8000 synthesizer available for $69. The plugin modernizes the classic hardware by featuring high-quality 64-bit additive waveforms, a sub-oscillator, expanded filtering options, waveshaping tools, and dual-layer architecture with 16 polyphonic voices per layer.</p><p>Alongside the standalone release of the DW-8K, Cherry Audio launched Synth Stack 7, an updated collection priced at $799 that bundles 41 virtual instrument plugins, including 33 vintage emulations and over 14,000 presets. The company is also running a limited-time bundle promotion allowing customers to customize instrument packages through November 30.</p>
+<p>Nov 24 · <a href="https://www.kvraudio.com/news/cherry-audio-releases-dw-8k-and-synth-stack-7-70119?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70119">kvraudio.com</a> | <a href="https://cherryaudio.com/products/dw-8k-synthesizer">cherryaudio.com</a></p>
+<br clear="all" />
+
 <h2>Instruments.digital Releases Felted Piano Free Plugin</h2>
 <a name="story-28463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fm%2Ffelted-piano-combo-compressed.1705985732.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Instruments.digital has released Felted Piano, a free and open-source upright felt piano virtual instrument plugin for Windows and Linux. The instrument features three velocity layers, key-release noise, and adjustable controls for mechanical noises and sympathetic vibrations.</p><p>The plugin includes a granular effects panel for experimental sound design and a room simulation panel featuring X/Y microphone positioning, room size adjustment, and lowpass filtering for reverb.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28408"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.recordproduction.com%2Fuploads%2Fmedia%2Freviews%2F.thumbnails%2FUAD-1-RTAS-ProTools__1200x630.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Universal Audio has opened signups for a Thanksgiving promotion allowing users to purchase a selected UAD plugin for $1. The offer begins on November 26 and runs through November 30, giving participants the opportunity to choose one title from a selection of ten eligible plugins once the lineup is revealed.</p><p>Participants must sign up with an email address and consent to marketing materials to receive the discount code. The native plugins require a UA account, UA Connect, and a free iLok account, and operate on macOS and Windows without requiring hardware DSP or an Apollo interface.</p>
 <p>Nov 24 · <a href="https://bedroomproducersblog.com/2026/11/24/universal-audio-dollar-thanksgiving/">bedroomproducersblog.com</a> | <a href="https://exclusive.uaudio.com/thanksgiving-dollar-plug-in">exclusive.uaudio.com</a></p>
-<br clear="all" />
-
-<h2>MusicTech Magazine Announces November/December 2026 Issue Release</h2>
-<a name="story-28403"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMT.MAG_.Promo6_.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The November/December 2026 issue of MusicTech Magazine is scheduled to go on sale on Thursday, November 26, bundled together with NME Magazine. The latest print edition will be available exclusively through retailer Dawsons, with the cover stars for both publications revealed at the time of launch.</p><p>MusicTech and Guitar.com operate as sister publications under NME Networks, alternating print editions with every bi-monthly release of NME Magazine to produce three print issues per calendar year. Subscribers can sign up for a newsletter to receive a queue-jump opportunity providing early access to purchase copies.</p>
-<p>Nov 24 · <a href="https://musictech.com/news/magazine/musictech-magazine-november-december-2026-issue-how-to-buy/">musictech.com</a></p>
 <br clear="all" />
 
 ---
