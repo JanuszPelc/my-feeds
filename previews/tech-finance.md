@@ -8,6 +8,30 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Supertake Raises $20 Million in Seed Funding for AI Investment Platform</h2>
+<a name="story-28368"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsupertake-product.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI investing startup Supertake has raised $20 million in seed funding led by Adjacent, with participation from Coinbase Ventures, Union Square Ventures, and various angel investors. Incubated by USV, the company uses frontier AI models and trading agents to translate natural language market predictions into custom stock portfolios connected to brokerages like Robinhood and Coinbase.</p><p>The company has appointed former Coinbase AI leaders Lincoln Murr as CEO and John Peterson as CTO, while founder Michael Mignano transitions to executive chairman. Supertake plans to use the new capital to expand its engineering, design, and growth teams while implementing safety guardrails such as spending limits and asset allowlists to manage risks associated with automated trading.</p>
+<p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/">techcrunch.com</a></p>
+<br clear="all" />
+
+<h2>Amazon to Acquire Decart Technology and Team for $7.5 Billion</h2>
+<a name="story-28333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHI1d0b6WsAA-Oo5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amazon has agreed to acquire key assets of artificial intelligence startup Decart, including the Decart Optimization Stack, its founding team, and its AI researchers, for approximately $7.5 billion. The transaction aims to bolster the cloud-computing giant's internal AI infrastructure and technical capabilities.</p><p>Decart previously raised $300 million to develop real-time world models designed to run efficiently on Amazon's chips. The acquisition integrates specialized optimization tools and engineering talent into Amazon's operations as major technology companies compete to scale advanced artificial intelligence workloads.</p>
+<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech">bloomberg.com</a></p>
+<br clear="all" />
+
+<h2>Marlowe Raises $277 Million to Develop Non-Nvidia AI Infrastructure</h2>
+<a name="story-28309"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiELbkCdQ34XE%2Fv2%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Marlowe, a six-month-old startup co-founded by two former Microsoft vice presidents, has raised $277 million in a seed funding round led by Accel. The investment values the company at $1.15 billion and is intended to support the development of cloud infrastructure and performance tools designed to optimize AI hardware from competitors of Nvidia.</p><p>The company aims to provide high-performance alternatives to Nvidia's dominant market share by building infrastructure specifically around AMD accelerators and other non-Nvidia chips. Marlowe plans to open its first data center by the end of 2026 to facilitate these infrastructure offerings.</p>
+<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips">bloomberg.com</a></p>
+<br clear="all" />
+
+<h2>CrowdStrike Agrees to Acquire Zscaler for $43.9 Billion</h2>
+<a name="story-28305"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fcrowdstrike-vs-zscaler-forward-sales-valuation-gap.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>CrowdStrike Holdings Inc. has agreed to acquire cybersecurity provider Zscaler Inc. in an all-stock transaction valued at approximately $43.9 billion. Under the terms of the agreement, each Zscaler share will convert into 1.135 CrowdStrike shares, representing a roughly 34% premium.</p><p>The deal combines CrowdStrike’s Falcon endpoint and cloud security platform with Zscaler's network security and zero-trust capabilities, marking one of the largest acquisitions in the cybersecurity sector. The transaction is expected to close in the second half of CrowdStrike's fiscal 2028, pending regulatory approvals and shareholder votes.</p>
+<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler">bloomberg.com</a> | <a href="https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero">ir.crowdstrike.com</a></p>
+<br clear="all" />
+
 <h2>Defense Startup Agon Raises $70 Million Series A at $450 Million Valuation</h2>
 <a name="story-28304"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2FNorthzone-Partners-September-2022-scaled-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>London-based startup Agon has secured $70 million in a Series A funding round led by Northzone, valuing the company at $450 million. The startup specializes in defense simulation software for the European defense industry, focusing on the development of synthetic training environments for artificial intelligence applications.</p><p>Agon recently emerged from stealth earlier in 2026 following a $30 million funding round. The firm's technology provides gamified, synthetic battlefield infrastructure designed to train defense AI, positioning it as a key developer of military simulation software in Europe.</p>
@@ -70,30 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28160"><img src="https://wsrv.nl/?url=https%3A%2F%2Faitech365.com%2Fwp-content%2Fuploads%2F2025%2F08%2FZscaler-_-CrowdStrike-Expand-Partnership-for-AI-Security-Ops-Edited-01-01-scaled.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CrowdStrike Holdings Inc. is reportedly in discussions to acquire cybersecurity firm Zscaler Inc., according to people familiar with the matter. A potential transaction would unite the two companies into a major deal with a combined market capitalization of approximately $265 billion.</p><p>Following reports of the negotiations, Zscaler shares surged in extended trading while CrowdStrike shares declined. Neither company has officially confirmed the talks, which follow previous cooperative security integrations between the two vendors.</p>
 <p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Bitcoin Falls to $57,000 in Two-Year Low Amid Global Market Drop</h2>
-<a name="story-28156"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.independent.co.uk%2F2025%2F10%2F14%2F9%2F28%2FbXEtP-bitcoin-price-in-months-after-2024-us-election.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bitcoin dropped to $57,000, reaching its lowest level in over two years and losing more than half its value from its October 2025 peak above $126,000. The decline occurred as broader global markets sank, extending a steep reversal following the cryptocurrency's post-election surge.</p><p>The sharp downward trend has revived comparisons to previous bear markets as liquidations mounted across crypto exchanges. Macroeconomic pressures and shifting investor sentiment have heavily weighed on digital assets, cooling the initial enthusiasm driven by prior political developments.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia Faces Longest Weekly Losing Streak Since 2008 Financial Crisis</h2>
-<a name="story-28152"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2024%2F05%2F22%2Fmultimedia%2F22db-huang-ljtc%2F22db-huang-ljtc-videoSixteenByNine3000.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia shares fell 12% to cap a seventh consecutive week of losses, marking the company's longest weekly losing streak since the 2008 financial crisis. The steep decline comes amid investor anxiety following the sudden resignation of co-founder and CEO Jensen Huang and growing scrutiny over the sustainability of the artificial intelligence infrastructure buildout.</p><p>During this seven-week period, Nvidia's market capitalization has dropped by $2.5 trillion, and the Securities and Exchange Commission has reportedly begun exploring potential accounting issues related to the company's disclosures. Although interim CEO Colette Kress has issued strong revenue growth projections and reassured staff, the stock continues to face intense pressure from emerging competitors and shifting market dynamics.</p>
-<p>Nov 20 · <a href="https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html">cnbc.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1d4r0/nvidia_stock_plunges_12_rides_longest_weekly/">r/technology</a></p>
-<br clear="all" />
-
-<h2>Helix Digital in Talks to Acquire EdgeCore at Up to $10 Billion Valuation</h2>
-<a name="story-28153"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimagedelivery.net%2FzA7C1E09-z4Uj64Eb0zfkw%2Fcd7f1765-f9e9-45aa-2b8e-885cd322d500%2Fmedium&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Helix Digital Infrastructure, a data center investment firm launched by KKR, is in discussions to acquire EdgeCore. The potential transaction values the data center operator between $8 billion and $10 billion.</p><p>The talks form part of Helix's broader expansion strategy following its establishment with over $10 billion in committed capital to scale data centers, power, and connectivity for artificial intelligence workloads.</p>
-<p>Nov 20 · <a href="https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Linq Raises $90 Million in Series B Funding Led by Andreessen Horowitz</h2>
-<a name="story-28131"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F13131705%2Flinq%2A1200xx6946-3907-0-362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Linq, a startup that provides texting and calling infrastructure for artificial intelligence agents, has raised $90 million in a Series B funding round led by Andreessen Horowitz. The financing follows a $20 million Series A round secured by the Birmingham-based company earlier in the year.</p><p>The new funding round includes participation from TQ Ventures, Mucker Capital, Abstract, Anthos, and Left Lane Capital. Alongside the investment, Andreessen Horowitz co-founder Ben Horowitz is joining Linq's board of directors.</p>
-<p>Nov 20 · <a href="https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all">bizjournals.com</a> | <a href="https://a16z.com/announcement/investing-in-linq/">a16z.com</a></p>
 <br clear="all" />
 
 ---

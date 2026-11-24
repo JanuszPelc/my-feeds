@@ -8,6 +8,23 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Epic Games Revises Unreal Engine 6 Plans to Drop Blueprints and Actor Gameplay Framework</h2>
+<a name="story-28362"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkajabi-storefronts-production.kajabi-cdn.com%2Fkajabi-storefronts-production%2Ffile-uploads%2Fsites%2F125332%2Fimages%2Fd6debd7-dcc0-a2c-eaa6-cf011553eda_ae8ea7b4-7811-4f5d-ba41-cdf92dbd668b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Epic Games has reversed its previous strategy and will completely remove Blueprints and the Actor Gameplay Framework from Unreal Engine 6 at launch rather than phasing them out over time. Instead, the engine will center around Verse and a Scene Graph architecture, with Epic citing rapid advancements in AI tooling to automate or assist project conversion from Unreal Engine 5.</p><p>The decision represents a major shift for developers heavily reliant on Blueprints, which are widely utilized across the industry for scripting and game logic. Industry figures have noted that the pivot toward an AI-driven, prompt-based paradigm complicates cross-disciplinary collaboration, prompting some studios to announce plans to remain on Unreal Engine 5.</p>
+<p>Nov 23 · <a href="https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning">gamedeveloper.com</a> | <a href="https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6">unrealengine.com</a></p>
+<br clear="all" />
+
+<h2>CyberLeek Releases Executable Files for Alleged GTA 6 Xbox Build</h2>
+<a name="story-28355"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcQcSdknvThM%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The hacking group CyberLeek has released an executable program file intended to complete a previously leaked Xbox build of Grand Theft Auto 6. The group claims the new file will enable the open-source modding community to begin recompiling the unreleased game to run on a PC.</p><p>Open-source modding projects, including Leonida, have begun examining the files and using AI tools to attempt reverse-engineering a Windows-compatible port. Meanwhile, Rockstar Games and Take-Two Interactive have not commented on the leaks, while an official PC version of the game is widely rumored for release next year.</p>
+<p>Nov 23 · <a href="https://www.pcmag.com/news/gta-6-leaker-releases-all-files-for-alleged-xbox-build-of-game">pcmag.com</a> | <a href="https://www.reddit.com/r/pcgaming/comments/1y3o7eg/gta_6_leaker_cyberleek_reportedly_releases_exe/">r/pcgaming</a></p>
+<br clear="all" />
+
+<h2>Unsloth Updates Add 1.9x Faster Inkling 2 Mini and Fine-Tuning Support</h2>
+<p>Unsloth's latest software update introduces up to 1.9x faster decoding for Inkling 2 Mini on 8 to 12 GB GPUs, alongside newly enabled fine-tuning support. The release also brings performance improvements to multi-GPU diffusion LoRA training, which achieves roughly double the samples per second.</p><p>Additional features include faster GRPO and AsyncGRPO training rollouts, Qwen-Image-Flash and FastWan integrations for accelerated image and video generation, and new tools for translating audio, subtitles, and images. The update further adds interface enhancements such as improved thinking compaction and first-run customization options.</p>
+<p>Nov 23 · <a href="https://unsloth.ai/docs/new/changelog#id-1.9x-faster-inkling-2-mini">unsloth.ai</a></p>
+<br clear="all" />
+
 <h2>Daniel Isheden Releases CORTAO Open-Source Ambient Occlusion Technique</h2>
 <a name="story-28336"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltbc73f0f172428040%2F6b00cb94631bf96b0e031019%2Fevefrontierfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Daniel Isheden, a developer at Fenris Creations, has released CORTAO (Circular Occluder Ray-Traced Ambient Occlusion) as an open-source repository. The physically based real-time screen-space ambient occlusion technique was developed over a two-year period and has been adopted by Fenris Creations for use in the game EVE: Frontier.</p><p>CORTAO uses screen-space raytracing to compute ambient occlusion with high accuracy and a larger occlusion radius, addressing visual challenges in complex scenes such as dense foliage and dynamic space environments. Because the technique converges faster than traditional methods, it requires less GPU time, enabling efficient performance on lower-end hardware while accommodating both realistic and stylized visuals.</p>
@@ -77,24 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28057"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2026%2F1%2F23%2F53728916-176921128861407_origin.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ubisoft reported second-quarter net bookings of €388.9 million, down 21% year-over-year but exceeding company expectations of €350.7 million. The performance was driven largely by Assassin's Creed Black Flag Resynced as the video game developer continues to overhaul its operations.</p><p>The results form part of the company's first-half financial figures for the 2026–27 period, reflecting an ongoing effort to stabilize finances and streamline structures following operational restructuring.</p>
 <p>Nov 19 · <a href="https://www.wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1?st=LvUnbR&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.globenewswire.com/news-release/2026/11/19/3406965/0/en/ubisoft-reports-first-half-2026-27-earnings-figures.html">globenewswire.com</a></p>
-<br clear="all" />
-
-<h2>Meta Prices Upcoming Muse Charm AI Device at $300</h2>
-<a name="story-28075"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fmeta-muse-charm.png%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta plans to price its upcoming Muse Charm AI device at $300, according to a report by The Information. The Tamagotchi-like hardware companion, initially teased at Meta's Connect event, is designed to give a physical form to the company's Muse AI agent, letting users carry or wear the assistant to interact via voice and commands.</p><p>While Meta has not officially confirmed the pricing detail, the $300 figure places the keychain-sized wearable in a similar price tier to competing consumer AI devices like Friend, though it remains notably more expensive than alternatives such as Amazon's Bee Frontier. The hardware effort arrives as Meta expands its consumer AI footprint following the rollout of its Muse agentic software and animated avatars.</p>
-<p>Nov 19 · <a href="https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/">techcrunch.com</a> | <a href="https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business">theinformation.com</a></p>
-<br clear="all" />
-
-<h2>Grand Theft Auto VI Launch Sets Twitch Viewership Records</h2>
-<a name="story-28020"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Frealistically-how-many-views-will-gta-vi-have-on-twitch-v0-ox1nsgw47spc1.jpeg%3Fauto%3Dwebp%26s%3De4db81a4740a6aece8048dd825d5f26876142c53&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Grand Theft Auto VI achieved the largest game launch in Twitch history, drawing approximately 3.3 million concurrent viewers upon its release. The debut spurred massive livestream influencer marathons and drove significant early audience engagement across the platform.</p><p>The record-breaking streaming figures accompany projections that the title will generate over $3 billion in revenue during its first few months on the market. The launch has triggered extensive cross-platform streaming activity, highlighting the game's immediate commercial and cultural impact.</p>
-<p>Nov 19 · <a href="https://www.bloomberg.com/news/articles/2026-11-19/-grand-theft-auto-vi-debut-spurs-livestream-influencer-marathons">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Grand Theft Auto VI Features Handcrafted Assets and Unique NPCs, Report Details</h2>
-<a name="story-28016"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgaminghq.eu%2Fwp-content%2Fuploads%2F2025%2F03%2Fgtaaa6.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Grand Theft Auto VI was developed by a team of 5,000 using handcrafted fidelity rather than artificial intelligence or procedural generation, according to a report by Joseph Bernstein for The New York Times. The game features approximately 30,000 unique non-player characters and an internal in-game video game system.</p><p>The upcoming title represents a massive production scale for Rockstar Games, emphasizing manual design over automated asset creation. The reporting offers an inside look at the development choices and scale behind one of the gaming industry's most anticipated releases.</p>
-<p>Nov 19 · <a href="https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html?unlocked_article_code=1.RlE.fmuo.D_-7-tknBypF&smid=url-share">nytimes.com</a></p>
 <br clear="all" />
 
 ---
