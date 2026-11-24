@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Kalshi Pauses Operations in Utah Amid Federal Court Loss and Criminal Charges</h2>
+<a name="story-28383"><img src="https://wsrv.nl/?url=https%3A%2F%2Freadwrite.com%2Fwp-content%2Fuploads%2F2026%2F02%2FKalshi-files-lawsuit-against-Utah-officials-over-threat-to-prediction-markets.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Prediction market platform Kalshi has suspended its operations in Utah, affecting over 177,000 users in the state. The decision follows a federal court ruling upholding Utah's authority to enforce state anti-gambling laws against the platform's event and sports contracts.</p><p>Alongside the federal court defeat, Utah officials have pursued criminal charges against Kalshi and its founders regarding the platform's state-level operations. The escalating legal dispute highlights an ongoing jurisdictional battle between state regulators and prediction market operators over whether federal registration preempts local gambling prohibitions.</p>
+<p>Nov 24 · <a href="https://utahnewsdispatch.com/2026/11/23/kalshi-blocks-operations-in-utah-legal-challenges-ongoing/">utahnewsdispatch.com</a></p>
+<br clear="all" />
+
 <h2>Australia Reaches Agreement on Digital Duty of Care Legislation</h2>
 <a name="story-28372"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2i5nWp.img%3Fw%3D2048%26h%3D1152%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Australian government has secured an agreement with the Greens to pass its digital duty of care bill, which requires technology companies to address foreseeable online harms and introduces a private right of action for users. The updated legislation incorporates maximum fines of up to 5% of global revenue for non-compliance, alongside new dispute resolution pathways and expanded powers for the eSafety Commissioner.</p><p>This legal shift allows individuals and groups to initiate litigation against platforms for breaches of duty, moving regulatory enforcement beyond government agencies alone. While low-risk small businesses will be exempt and a 12-month transition period will apply, the bill lacks bipartisan support from the Coalition and introduces heightened legal exposure for major tech platforms operating in Australia.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28163"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHXWKrZ2WUAE8F1O%3Fformat%3Dwebp%26name%3Dlarge&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Numerous longtime Etsy sellers are leaving the online marketplace following an update to the platform's terms of use. The revised policy specifies that Etsy and its third-party partners are permitted to use sellers' content and listings for artificial intelligence training.</p><p>The changes have sparked significant backlash and an exodus among creators who object to having their creative work used to train AI models without a clear, straightforward opt-out mechanism. While Etsy states that the policy is intended to improve platform features and tools, many vendors remain concerned about ownership and consent.</p>
 <p>Nov 20 · <a href="https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html">nytimes.com</a> | <a href="https://www.etsy.com/legal/terms-of-use">etsy.com</a></p>
-<br clear="all" />
-
-<h2>Donald Trump Threatens Taxes on U.S. Companies Building Data Centers Overseas</h2>
-<a name="story-28142"><img src="https://wsrv.nl/?url=https%3A%2F%2Fa57.foxnews.com%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F694940094001%2Fb0c689b2-e783-4607-b960-b4327aad016b%2F26b4abac-3c52-421b-9771-98b4d5a16ce8%2F1280x720%2Fmatch%2F896%2F500%2Fimage.jpg%3Fve%3D1%26tl%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>President Trump stated he would block U.S. companies from constructing data centers overseas or impose a significant tax on those that do. Speaking to reporters, Trump emphasized keeping artificial intelligence infrastructure within the United States to maintain a competitive edge.</p><p>The proposal follows heightened voter scrutiny regarding the environmental and financial impacts of domestic data center expansion during recent midterm elections. While Trump claimed the measure would help lower Americans' costs and taxes, the implementation of such a tax remains uncertain given that Congress holds the constitutional authority to levy federal taxes.</p>
-<p>Nov 20 · <a href="https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas">axios.com</a></p>
 <br clear="all" />
 
 ---
