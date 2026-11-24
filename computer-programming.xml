@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Alpine Linux Contributor Details Wiki Upgrades and Infrastructure Challenges</title>
+    <link href="https://lambdacreate.com/posts/held-together-by-spare-time" rel="alternate" />
+    <id>https://lambdacreate.com/posts/held-together-by-spare-time::v241</id>
+    <published>2026-11-24T05:07:00+00:00</published>
+    <updated>2026-11-24T05:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flambdacreate.com%2Fstatic%2Fimages%2F86%2Fia_email.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lambdacreate.com/posts/held-together-by-spare-time">lambdacreate.com</a> | <a href="https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki">lobsters</a></small></p><hr/><p>An Alpine Linux contributor details the multi-layered infrastructure work required to modernize the project's long-standing MediaWiki instance. Prompted by critical security vulnerabilities including the PHP2Shell exploit and a GitLab RCE incident, the project faced simultaneous upgrades across Alpine operating system branches, PHP versions, and MediaWiki releases.</p><p>Maintaining the infrastructure highlighted the challenges of volunteer-driven open-source projects operating under strict storage and resource limits. Beyond upgrading MediaWiki from version 1.40 to 1.46.2 and migrating from legacy git submodules to proper APK packages, contributors also had to build archiving solutions using the Internet Archive to alleviate severe CDN capacity constraints.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flambdacreate.com%2Fstatic%2Fimages%2F86%2Fia_email.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 12:24 UTC | #28405</small>]]></content>
+  </entry>
+  <entry>
     <title>AFK-surf Releases Xnulinux to Run macOS Kernel as a Linux Kernel Module</title>
     <link href="https://github.com/AFK-surf/xnulinux" rel="alternate" />
     <id>https://github.com/AFK-surf/xnulinux::v241</id>

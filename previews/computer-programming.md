@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Alpine Linux Contributor Details Wiki Upgrades and Infrastructure Challenges</h2>
+<a name="story-28405"><img src="https://wsrv.nl/?url=https%3A%2F%2Flambdacreate.com%2Fstatic%2Fimages%2F86%2Fia_email.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An Alpine Linux contributor details the multi-layered infrastructure work required to modernize the project's long-standing MediaWiki instance. Prompted by critical security vulnerabilities including the PHP2Shell exploit and a GitLab RCE incident, the project faced simultaneous upgrades across Alpine operating system branches, PHP versions, and MediaWiki releases.</p><p>Maintaining the infrastructure highlighted the challenges of volunteer-driven open-source projects operating under strict storage and resource limits. Beyond upgrading MediaWiki from version 1.40 to 1.46.2 and migrating from legacy git submodules to proper APK packages, contributors also had to build archiving solutions using the Internet Archive to alleviate severe CDN capacity constraints.</p>
+<p>Nov 24 · <a href="https://lambdacreate.com/posts/held-together-by-spare-time">lambdacreate.com</a> | <a href="https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki">lobsters</a></p>
+<br clear="all" />
+
 <h2>AFK-surf Releases Xnulinux to Run macOS Kernel as a Linux Kernel Module</h2>
 <a name="story-28315"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FAFK-surf%2Fxnulinux%2Fraw%2Fmain%2Fdocs%2Fimages%2Fmacos-and-linux.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Xnulinux is a project that builds Apple's open-source XNU kernel and runs it as a loadable kernel module inside an unmodified arm64 Linux kernel. By allowing XNU to drive the CPU and memory directly via a foreign kernel interface module, macOS userspace applications run natively alongside Linux processes without a traditional hypervisor.</p><p>Running on an Apple Silicon Mac within an arm64 Linux virtual machine, the system boots a macOS system disk to a functional desktop environment with working applications, networking, and GPU acceleration. The repository separates components by license, utilizing an APSL-2.0 kernel module for XNU and a GPL-2.0 interface module for Linux integration.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>LookAtMyQuant Quantization Compiler Released on GitHub</h2>
 <p>LookAtMyQuant is a quantization compiler that evaluates compression damage for individual model components to fit models within size budgets while minimizing Kullback-Leibler divergence. The MIT-licensed project provides an Apple Silicon MLX runtime alongside specialized compression recipes for large language models including Qwen and Inkling-2-Mini.</p><p>The compiler employs post-training quantization, trellis codes, row-specific bit allocation based on Fisher information, and multi-step distillation. Packed builds demonstrate strong benchmark performance and memory efficiency relative to standard alternatives, while the repository supplies command-line utilities and Python APIs for local deployment and evaluation.</p>
 <p>Nov 21 · <a href="https://github.com/ShinMegamiBoson/lookatmyquant">github.com</a> | <a href="https://news.ycombinator.com/item?id=50591853">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ben C Demonstrates Managing Todo Items as Empty Commits in Jujutsu</h2>
-<a name="story-28221"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbwc9876.dev%2F_astro%2Fjj-todo-tree.CbZTp8jv_2gvqxu.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Ben C outlines an alternative workflow for tracking task lists in software projects by using empty changes in the Jujutsu (JJ) version control system instead of traditional Markdown files. By creating a branch of empty commits under a private base commit, tasks can be managed, structured hierarchically, and rebased onto active working branches when ready.</p><p>This approach avoids merge conflicts due to the lack of file content in the commits and integrates with Jujutsu's configuration options to prevent accidental pushing of private tasks to remote repositories. The workflow allows developers to keep their task lists directly inside their version control history while ensuring the items remain local and hidden from public branches.</p>
-<p>Nov 21 · <a href="https://bwc9876.dev/blog/jj_todo/">bwc9876.dev</a> | <a href="https://lobste.rs/s/qxzs4y/todos_jj_style">lobsters</a></p>
 <br clear="all" />
 
 ---
