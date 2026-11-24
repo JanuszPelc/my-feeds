@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/ai-news.png" width="28" align="texttop" /> &nbsp;Z.ai Launches GLM-5.4 Flagship Model on Loop Transformer Architecture</h2>
+<a name="story-28306"><img src="https://wsrv.nl/?url=https%3A%2F%2Fz-ai-bj.oss-cn-beijing.aliyuncs.com%2Fprompts-rich-media-resources%2F5.4-blog%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Z.ai has released GLM-5.4, a 750B-parameter flagship model built on the Loop Transformer architecture. The company reports that the model achieves intelligence levels comparable to much larger models in the 2 trillion to 3 trillion parameter range.</p><p>The development of GLM-5.4 involved a three-month process of scaling loop depth and model size in parallel. The release serves as a demonstration of the Loop Transformer's ability to deliver high-tier intelligence with a lower total parameter count than competing large-scale architectures.</p>
+<p>Nov 24 · <a href="https://z.ai/blog/glm-5.4">z.ai</a> | <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y3enps/glm54_toward_generalized_coding_with_our_first/">r/LocalLLaMA</a> | <a href="https://news.ycombinator.com/item?id=50609685">hacker news</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-industry.png" width="28" align="texttop" /> &nbsp;Nvidia Reinstates Jensen Huang as CEO</h2>
 <a name="story-28321"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.gry-online.pl%2Fi%2Fh%2F22%2F532692336.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia's board unanimously voted to reinstate Jensen Huang as the company's president, CEO, and board director on November 23, 2026. This decision reverses a leadership transition that occurred less than two weeks prior, when Huang resigned following an admission of a personal relationship involving an individual suspected by the U.S. government to be a Chinese spy.</p><p>The board reported that it consulted with senior government officials who determined that Huang posed no national security risk to the company. Following the announcement, Nvidia's stock price surged 27% in pre-market trading. The company expressed satisfaction with Huang's candor and leadership, while acknowledging the support of CFO Colette Kress, who served as interim CEO during the brief vacancy.</p>
@@ -100,12 +106,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-28072"><img src="https://wsrv.nl/?url=https%3A%2F%2Fopenforumeurope.org%2Fwp-content%2Fuploads%2F2026%2F02%2FF2A1545-scaled.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Element has published the public sector track recordings from the Matrix Conference 2026, highlighting government deployments, digital sovereignty, and secure communication strategies across European public institutions.</p><p>The sessions feature case studies and technical discussions from organizations including the European Commission, NATO, French public sector tech agency DINUM, Swedish social insurance agency Försäkringskassan, and the German state of Schleswig-Holstein.</p>
 <p>Nov 21 · <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">element.io</a> | <a href="https://news.ycombinator.com/item?id=50558533">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/human-knowledge.png" width="28" align="texttop" /> &nbsp;Ravi Vakil Publishes Proposed Proof of Generalized Riemann Hypothesis by Alessandro Masullo</h2>
-<a name="story-28179"><img src="https://wsrv.nl/?url=https%3A%2F%2F0.academia-photos.com%2Fattachment_thumbnails%2F54253295%2Fmini_magick20180818-4867-1vp525s.png%3F1534652798&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Mathematician Ravi Vakil published a draft of a proposed proof for the Generalized Riemann Hypothesis authored by Alessandro Maria Masullo. The manuscript, titled "The Music Of The Prines," had undergone months of review by Brian Conrad before Vakil chose to release the current draft publicly for community inspection.</p><p>Shortly after the initial publication, Vakil updated the announcement to note that several mathematicians had identified potential errors in the proof with the assistance of AI models. The community must now thoroughly vet and resolve all identified issues before the proof can be evaluated for correctness.</p>
-<p>Nov 21 · <a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">math216.wordpress.com</a> | <a href="https://news.ycombinator.com/item?id=50579568">hacker news</a></p>
 <br clear="all" />
 
 ---
