@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Apple Removes FSNotes from European App Store</title>
+    <link href="https://github.com/glushchenko/fsnotes/discussions/2056" rel="alternate" />
+    <id>https://github.com/glushchenko/fsnotes/discussions/2056::v241</id>
+    <published>2026-11-24T11:31:00+00:00</published>
+    <updated>2026-11-24T11:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.asoworld.com%2Fimg%2Fa8feaa9521f54f7b840be174574be60b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/glushchenko/fsnotes/discussions/2056">github.com</a> | <a href="https://news.ycombinator.com/item?id=50616933">hacker news</a></small></p><hr/><p>Independent developer glushchenko reports that Apple has removed the note-taking app FSNotes from all European App Stores. The app, which has been active for nine years, was delisted following the developer's failure to receive an October sales payout. Despite the developer submitting the required European Union Digital Services Act (DSA) compliance information and official business registry documents from Ukraine, Apple has not responded to multiple support requests or provided a reason for the removal.</p><p>The removal has caused significant damage to the app's visibility, search rankings, and long-term reputation. While FSNotes remains available as an open-source project on GitHub, the developer warns that the loss of App Store revenue threatens the project's continued survival. This situation highlights the difficulties independent developers face when navigating complex regional compliance requirements and platform communication hurdles.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.asoworld.com%2Fimg%2Fa8feaa9521f54f7b840be174574be60b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 16:43 UTC | #28438</small>]]></content>
+  </entry>
+  <entry>
     <title>Jon's Arm Reference to Be Discontinued Following Legal Notice from Arm</title>
     <link href="https://arm.jonpalmisc.com/" rel="alternate" />
     <id>https://arm.jonpalmisc.com/::v241</id>
