@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>MusicTech Magazine Announces November/December 2026 Issue Release</h2>
+<a name="story-28403"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMT.MAG_.Promo6_.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The November/December 2026 issue of MusicTech Magazine is scheduled to go on sale on Thursday, November 26, bundled together with NME Magazine. The latest print edition will be available exclusively through retailer Dawsons, with the cover stars for both publications revealed at the time of launch.</p><p>MusicTech and Guitar.com operate as sister publications under NME Networks, alternating print editions with every bi-monthly release of NME Magazine to produce three print issues per calendar year. Subscribers can sign up for a newsletter to receive a queue-jump opportunity providing early access to purchase copies.</p>
+<p>Nov 24 · <a href="https://musictech.com/news/magazine/musictech-magazine-november-december-2026-issue-how-to-buy/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>Baby Audio Offers Transit 2 Multi-Effects Plugin at Discounted Black Friday Price</h2>
 <a name="story-28394"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTransit-2-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Baby Audio has discounted its Transit 2 multi-effects plugin to $69 for Black Friday, representing a 50 percent price reduction from its standard retail rate. Developed in collaboration with producer Andrew Huang, the plugin is designed to help users construct seamless transitions, builds, and drops in their tracks.</p><p>Transit 2 expands upon its predecessor by offering 28 effects modules, six motion modes, and over 400 presets, alongside a randomization engine for generating unique effect combinations. The plugin aims to simplify the automation process by allowing producers to control complex parameter sweeps using a single macro knob.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28244"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpublic-files.gumroad.com%2Fkatqmj3ru3ng74luvdbyebhv442m&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pine DSP has launched Blox Grain, a granular effect plugin available in VST3, AU, and AAX formats. The tool processes incoming audio by breaking it into small grains and scattering them into a manipulatable cloud. Users can adjust parameters such as grain size, density, and spray distance, while also utilizing features like audio freezing, pitch shifting, and drift.</p><p>The plugin can operate as a standalone unit or be loaded as a module within the Blox Rack system. It features an extended view for precise grain shape control, including reverse and jitter options. Blox Grain is offered at an introductory price of $3 until December 8th, after which it moves to a full price of $19, with discounts available for existing Pine DSP module and Blox Rack owners.</p>
 <p>Nov 22 · <a href="https://www.kvraudio.com/news/pine-dsp-releases-blox-grain---granular-effect-plugin-vst-au-aax-69899?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69899">kvraudio.com</a> | <a href="https://pinedsp.com/blox-grain">pinedsp.com</a></p>
-<br clear="all" />
-
-<h2>Samba Godschynski Updates Integra-7 Editor to Version 1.0.4</h2>
-<a name="story-28249"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fspace-jam.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Samba Godschynski has released version 1.0.4 of the Integra-7 Editor, a native third-party software editor for Roland's Integra-7 sound module. The update introduces WLAN support, a virtual keyboard for playing and looping sounds directly within the editor, and extended copy-and-paste capabilities for parameter windows.</p><p>Additional improvements include side-by-side editing windows for tone partials, structure type diagrams for PCM-S selectors, and minor bug fixes. A promotional discount reduces the software's price until December 6, 2026.</p>
-<p>Nov 22 · <a href="https://www.kvraudio.com/news/samba-godschynski-updates-integra-7-editor-to-v1-0-4-70051?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70051">kvraudio.com</a> | <a href="https://www.beastybobs.com/i7/">beastybobs.com</a></p>
 <br clear="all" />
 
 ---
