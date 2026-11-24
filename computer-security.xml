@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-24T05:15:00+00:00</updated>
+  <updated>2026-11-24T12:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Stalwart Releases Drop-in Replacement for Microsoft Exchange</title>
+    <link href="https://stalw.art/blog/microsoft-exchange-replacement/" rel="alternate" />
+    <id>https://stalw.art/blog/microsoft-exchange-replacement/::v241</id>
+    <published>2026-11-24T12:36:00+00:00</published>
+    <updated>2026-11-24T12:36:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://stalw.art/blog/microsoft-exchange-replacement/">stalw.art</a> | <a href="https://news.ycombinator.com/item?id=50620349">hacker news</a></small></p><hr/><p>Stalwart 1.2.0 implements Microsoft Exchange protocols, including MAPI over HTTP, Exchange Web Services (EWS), Exchange ActiveSync, and Autodiscover. This allows Outlook, Apple Mail, and mobile mail apps to connect to the open-source server as they would to a native Exchange instance. Users can migrate mailboxes while keeping their current clients, folder layouts, and rules intact.</p><p>The update provides an alternative for organizations seeking to move away from on-premises Exchange or the Microsoft cloud due to data sovereignty concerns. Stalwart's Exchange support is modular, allowing it to be disabled or removed once the protocols become obsolete. The release also introduces Vandelay, a migration tool designed to import mailboxes from both on-premises Exchange servers and Microsoft 365.</p><hr/><small>24 Nov 2026, 18:07 UTC | #28451</small>]]></content>
+  </entry>
   <entry>
     <title>Sneakernet Offers Offline Messaging System for Physical Transport</title>
     <link href="https://sneakernet.eu/" rel="alternate" />
@@ -199,14 +207,5 @@
     <updated>2026-11-19T18:22:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1380%2F1%2Afa5A5JoqPqJCuajjJq_vpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.postgresql.org/about/news/postgresql-19-released-3449/">postgresql.org</a> | <a href="https://lobste.rs/s/pqyuhk/postgresql_19_released">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50560357">hacker news</a></small></p><hr/><p>The PostgreSQL Global Development Group has released PostgreSQL 19, introducing features aimed at scaling mission-critical workloads and simplifying database administration. Key updates include the REPACK (CONCURRENTLY) command for non-disruptive table bloat cleanup, the pg_plan_advice extension for query plan stability, and "read-your-writes" consistency support on standby servers via the WAIT FOR LSN command.</p><p>The release also enhances autovacuum efficiency through parallel workers and a prioritization scoring system, streamlines logical replication initialization, and adds replication support for sequence values. Furthermore, PostgreSQL 19 introduces server-side Server Name Indication (SNI) support for TLS certificates, disables JIT compilation by default, and sets LZ4 as the default TOAST compression method.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1380%2F1%2Afa5A5JoqPqJCuajjJq_vpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 00:01 UTC | #28083</small>]]></content>
-  </entry>
-  <entry>
-    <title>Running 15 Million Web Servers on a Single Virtual Machine</title>
-    <link href="https://kapteko.com/15-million-webservers/" rel="alternate" />
-    <id>https://kapteko.com/15-million-webservers/::v240</id>
-    <published>2026-11-19T18:18:00+00:00</published>
-    <updated>2026-11-19T18:18:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fkapteko.com%2F15-million-webservers%2Fwebservers-benchmark-social.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://kapteko.com/15-million-webservers/">kapteko.com</a> | <a href="https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50556533">hacker news</a></small></p><hr/><p>This article explores the technical feasibility of running 15 million web servers on a single virtual machine configured with 10 gigabytes of RAM and one CPU core. It examines standard operating system limitations, including port allocation ranges and per-socket memory overhead, that prevent naive implementations from scaling.</p><p>To bypass kernel-level constraints, the author proposes a custom userland runtime utilizing the smoltcp TCP/IP stack alongside high-performance networking interfaces like DPDK and AF_XDP. This design minimizes memory overhead per connection to achieve massive scale within strict hardware boundaries.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fkapteko.com%2F15-million-webservers%2Fwebservers-benchmark-social.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 23:48 UTC | #28081</small>]]></content>
   </entry>
 </feed>

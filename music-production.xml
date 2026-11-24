@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-24T12:22:00+00:00</updated>
+  <updated>2026-11-24T12:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>InnerMost47 Releases GRM Guitar Free Physically Modeled Acoustic Guitar Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/::v241</id>
+    <published>2026-11-24T12:49:00+00:00</published>
+    <updated>2026-11-24T12:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPHgxrdl3X0Q%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/">bedroomproducersblog.com</a> | <a href="https://github.com/innermost47/grm-guitar-vst">github.com</a></small></p><hr/><p>Developer InnerMost47 has released GRM Guitar, a free, open-source physically modeled acoustic guitar available in VST3 and standalone formats for Windows and Linux. Built using C++ and the JUCE 8 framework, the instrument uses a Global Relational Network to simulate the physics of string interaction, instrument body materials, pickups, and room acoustics without relying on large sample libraries.</p><p>The plugin includes a specialized guitar roll equipped with a Playability Engine designed to prevent physically impossible chords and fret stretches. It functions as a workstation supporting up to eight independent guitar outputs alongside a built-in pattern sequencer, though future updates are planned to add fundamental articulations like slides, hammer-ons, and pull-offs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPHgxrdl3X0Q%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 18:19 UTC | #28420</small>]]></content>
+  </entry>
+  <entry>
+    <title>Luma Audio Offers Luma and Luma FX Bundle for $99</title>
+    <link href="https://bedroomproducersblog.com/2026/11/24/luma-audio-bundle/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/24/luma-audio-bundle/::v241</id>
+    <published>2026-11-24T12:48:00+00:00</published>
+    <updated>2026-11-24T12:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxU7zEzxQHg4%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/24/luma-audio-bundle/">bedroomproducersblog.com</a> | <a href="https://luma.audio/?utm_source=bedroomproducersblog&utm_medium=sponsored_post&utm_campaign=black_friday_2026">luma.audio</a></small></p><hr/><p>Luma Audio is offering a bundle containing the Luma textural instrument and the Luma FX audio effect plugin for $99 until December 1, 2026. The promotion provides a discount compared to the standard bundle price of $149 and the individual retail price of $228 for each plugin.</p><p>Luma is a sampler that combines over 500 sound sources with textures using an XY pad for tonal control, including features like Variance for pitch/pan randomization and Disturbance for glitch fragments. Luma FX allows users to apply over 300 foley loops and impulse responses to external audio, featuring modulation controls, Spectral Gate processing, and compatibility with VST3, AU, and AAX formats.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxU7zEzxQHg4%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 18:18 UTC | #28421</small>]]></content>
+  </entry>
   <entry>
     <title>Denise Releases Xtra Loud Sonic Maximizer Plugin</title>
     <link href="https://www.kvraudio.com/news/denise-releases-xtra-loud-sonic-maximizer-plugin-au-aax-and-vst-70120?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70120" rel="alternate" />
@@ -427,14 +445,5 @@
     <updated>2026-11-19T20:03:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbluecatpatchwork.1795118873.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/blue-cat-audio-releases-blue-cats-patchwork-2-79-69978?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69978">kvraudio.com</a> | <a href="https://www.bluecataudio.com/Blog/announcements/new-patchwork2-79-whats-new/">bluecataudio.com</a></small></p><hr/><p>Blue Cat Audio has released PatchWork 2.79, a free update for its virtual patchbay, multi-effects processor, and plug-in host. The update introduces Macro Controls V3, featuring enhanced parameter mapping capabilities that allow macro controls to automatically follow target parameter displays and step counts, complete with customizable response curves for each mapped parameter.</p><p>The new version also includes numerous bug fixes and compatibility improvements addressing stability issues across Pro Tools, Digital Performer, and Studio One, alongside enhanced MIDI handling, offline rendering, and latency reporting. The update is available free of charge for existing customers, with demo versions accessible on the developer's website.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fbluecatpatchwork.1795118873.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 01:03 UTC | #28069</small>]]></content>
-  </entry>
-  <entry>
-    <title>Thomann Launches Early Black Friday Sale With Discounts on Studio Gear</title>
-    <link href="https://musictech.com/news/gear/black-friday-deals-thomann/" rel="alternate" />
-    <id>https://musictech.com/news/gear/black-friday-deals-thomann/::v240</id>
-    <published>2026-11-19T18:19:00+00:00</published>
-    <updated>2026-11-19T18:19:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2025%2F11%2FThomann-BF-deals%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/black-friday-deals-thomann/">musictech.com</a></small></p><hr/><p>Retailer Thomann has launched its early Black Friday sale, featuring discounts across studio monitors, MIDI controllers, audio interfaces, and software plugins. Notable early reductions include offers on the Beyerdynamic DJ 300 PRO X Club headphones, the Novation Launchkey Mini 37 MK4, and the Focusrite Scarlett 18i20 4th Gen audio interface bundled with software packages.</p><p>The retailer curates its sale items based on positive editorial reviews and industry popularity, offering products alongside standard return policies and customer support. The promotional page is scheduled to be updated daily throughout the Black Friday and Cyber Monday shopping period.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2025%2F11%2FThomann-BF-deals%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 23:49 UTC | #28082</small>]]></content>
   </entry>
 </feed>

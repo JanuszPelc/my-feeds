@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Governor Hochul Signs Bill Restricting Vehicle Subscription Fees</h2>
+<a name="story-28450"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.autoblog.com%2F.image%2FNzowMDAwMDAwMDAwOTkyMzE1%2Fimage.png%3Fprofile%3Dw2560%26ar%3D1-1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Governor Kathy Hochul signed a bill prohibiting motor vehicle manufacturers, dealers, and third-party providers from charging subscription fees for vehicle features that utilize pre-installed hardware without ongoing costs. The legislation specifically addresses recurring charges for functionality such as heated seats, enhanced navigation, and hands-free driving, which the state characterizes as exploitative practices.</p><p>Taking effect on February 27, 2027, the law (S.9348A/A.10411A) aims to establish clear rules against deceptive business models as automotive technology advances. The measure is part of a broader state effort to mitigate the cost of living by eliminating "junk fees" and ensuring consumers are not charged for features already included in the vehicle's purchase price.</p>
+<p>Nov 24 · <a href="https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription">governor.ny.gov</a> | <a href="https://news.ycombinator.com/item?id=50622774">hacker news</a></p>
+<br clear="all" />
+
 <h2>Yann LeCun Accuses Anthropic CEO of Seeking to Criminalize Open Models</h2>
 <a name="story-28433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.intelligentliving.co%2Fwp-content%2Fuploads%2F2026%2F04%2Fanalyzing-ai-access-open-source-open-weight-and-api-only-models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Yann LeCun accused Anthropic CEO Dario Amodei of using AI safety concerns as a pretext to criminalize open-source models. LeCun argues that Amodei's warnings, which date back to the development of GPT-2, are a strategy designed to ensure he maintains personal control over the AI industry.</p><p>LeCun cites Amodei’s departure from OpenAI as evidence of his pursuit of authority and draws a historical parallel to the Ottoman Empire's restrictions on the printing press. The critique frames Amodei's safety advocacy as a maneuver for regulatory capture rather than a legitimate public safety effort.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28269"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHEvcnEfa4AA9LNX.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Director of National Intelligence Jay Clayton will serve as acting national cyber director while President Trump's permanent nominee, Pentagon Chief Information Officer Kirsten Davies, awaits Senate confirmation. Clayton will temporarily oversee the Office of the National Cyber Director alongside his existing responsibilities as DNI and the administration's AI czar.</p><p>The leadership transition follows the departure of former National Cyber Director Sean Cairncross and occurs amid recent technology outages and heightened concerns over digital infrastructure vulnerabilities. Clayton has stated that recent service disruptions stem from system upgrades and technical glitches rather than coordinated cyberattacks, while Davies will assist as a senior adviser until her confirmation.</p>
 <p>Nov 23 · <a href="https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director">axios.com</a></p>
-<br clear="all" />
-
-<h2>Scott Bessent Says Jensen Huang’s Nvidia Return Depends on China Sales Probes</h2>
-<a name="story-28258"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffotografias-2.larazon.es%2Fclipping%2Fcmsimages01%2F2025%2F07%2F21%2F4FFCB0CB-FD70-4869-8E6A-5941E1F208FF%2Fjensen-huang-ceo-nvidia_98.jpg%3Fcrop%3D1500%2C844%2Cx0%2Cy80%26width%3D1900%26height%3D1069%26optimize%3Dlow%26format%3Dwebply&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Treasury Secretary Scott Bessent stated that Jensen Huang's potential return as Nvidia's chief executive should depend on the outcome of federal investigations into the company's chip sales to China. Speaking in a television interview, Bessent declined to endorse Huang's reinstatement while pressing the company for answers regarding its compliance with export controls.</p><p>The remarks follow earlier calls by Bessent urging a leadership shake-up at Nvidia and expressing concern over how advanced semiconductors reached Chinese entities. The ongoing scrutiny underscores mounting tensions between federal officials and the company as investigations and congressional hearings approach.</p>
-<p>Nov 22 · <a href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html">nytimes.com</a></p>
 <br clear="all" />
 
 ---

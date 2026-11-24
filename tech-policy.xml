@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-24T10:45:00+00:00</updated>
+  <updated>2026-11-24T12:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Governor Hochul Signs Bill Restricting Vehicle Subscription Fees</title>
+    <link href="https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription" rel="alternate" />
+    <id>https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription::v241</id>
+    <published>2026-11-24T12:34:00+00:00</published>
+    <updated>2026-11-24T12:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.autoblog.com%2F.image%2FNzowMDAwMDAwMDAwOTkyMzE1%2Fimage.png%3Fprofile%3Dw2560%26ar%3D1-1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription">governor.ny.gov</a> | <a href="https://news.ycombinator.com/item?id=50622774">hacker news</a></small></p><hr/><p>Governor Kathy Hochul signed a bill prohibiting motor vehicle manufacturers, dealers, and third-party providers from charging subscription fees for vehicle features that utilize pre-installed hardware without ongoing costs. The legislation specifically addresses recurring charges for functionality such as heated seats, enhanced navigation, and hands-free driving, which the state characterizes as exploitative practices.</p><p>Taking effect on February 27, 2027, the law (S.9348A/A.10411A) aims to establish clear rules against deceptive business models as automotive technology advances. The measure is part of a broader state effort to mitigate the cost of living by eliminating "junk fees" and ensuring consumers are not charged for features already included in the vehicle's purchase price.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.autoblog.com%2F.image%2FNzowMDAwMDAwMDAwOTkyMzE1%2Fimage.png%3Fprofile%3Dw2560%26ar%3D1-1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 18:03 UTC | #28450</small>]]></content>
+  </entry>
   <entry>
     <title>Yann LeCun Accuses Anthropic CEO of Seeking to Criminalize Open Models</title>
     <link href="https://twitter.com/ylecun/status/2124550037912920090" rel="alternate" />
@@ -300,14 +309,5 @@
     <updated>2026-11-19T18:21:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2014%2F10%2F02%2Fus%2F02firstdraft-spending-update-graphic%2F02firstdraft-spending-update-graphic-tmagArticle.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.washingtonpost.com/technology/2026/11/19/anthropic-gave-40m-an-ai-safety-group-most-candidates-it-backed-won/">washingtonpost.com</a></small></p><hr/><p>Political action committees tied to the Anthropic-backed pro-AI safety nonprofit Public First Action spent more than $25 million across 12 states during the midterm elections. The spending aimed to support federal candidates favoring artificial intelligence safety regulations, helping elect eight of the 13 House and Senate candidates the group endorsed.</p><p>Anthropic increased its total financial support for Public First Action to $40 million ahead of the elections, reflecting broader industry efforts to influence federal policy and regulatory frameworks. The midterm cycle saw substantial financial contributions from AI-aligned groups seeking to shape legislative priorities around emerging technology governance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2014%2F10%2F02%2Fus%2F02firstdraft-spending-update-graphic%2F02firstdraft-spending-update-graphic-tmagArticle.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 00:00 UTC | #28025</small>]]></content>
-  </entry>
-  <entry>
-    <title>Juan Ricardo Palacio Escobar Indicted for Ransomware Recovery Fraud in FBI Sting Operation</title>
-    <link href="https://www.404media.co/ransomware-fraud-attack-fbi-indictment/" rel="alternate" />
-    <id>https://www.404media.co/ransomware-fraud-attack-fbi-indictment/::v240</id>
-    <published>2026-11-19T18:14:00+00:00</published>
-    <updated>2026-11-19T18:14:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fgetty-images-BxeiWnaLZaI-unsplash.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/ransomware-fraud-attack-fbi-indictment/">404media.co</a> | <a href="https://storage.courtlistener.com/recap/gov.uscourts.rid.63480/gov.uscourts.rid.63480.10.0.pdf?ref=404media.co">storage.courtlistener.com</a></small></p><hr/><p>Federal prosecutors have indicted Florida-based company owner Juan Ricardo Palacio Escobar on wire fraud charges for allegedly operating a fraudulent ransomware recovery scheme. According to the indictment, Palacio falsely claimed his business could restore encrypted files without paying hackers, while secretly negotiating with threat actors, paying lower amounts, and billing victims inflated fees to pocket the difference.</p><p>The charges stem from an undercover FBI operation where federal agents posed as both a ransomware victim and an attacker to track the firm's negotiation and payment practices. Prosecutors allege that Palacio used similar deceptive tactics with numerous legitimate clients, including a Kansas-based business he allegedly charged $720,000 after paying a fraction of that to actual cybercriminals for the decryption key.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fgetty-images-BxeiWnaLZaI-unsplash.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>19 Nov 2026, 23:24 UTC | #28063</small>]]></content>
   </entry>
 </feed>

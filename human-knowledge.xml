@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-24T11:33:00+00:00</updated>
+  <updated>2026-11-24T12:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Meaning of Anthropic's Claimed VP ≠ VNP Proof</title>
+    <link href="https://www.friedgil.com/vpvnp/" rel="alternate" />
+    <id>https://www.friedgil.com/vpvnp/::v241</id>
+    <published>2026-11-24T12:38:00+00:00</published>
+    <updated>2026-11-24T12:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.anthropic.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F6b66d86ff0c180e95bc6ad2e6e4a1843aa74c80f-2200x960.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.friedgil.com/vpvnp/">friedgil.com</a> | <a href="https://github.com/anthropics/formal-math/blob/main/vp-vnp/paper.pdf">github.com</a> | <a href="https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes">lobsters</a></small></p><hr/><p>Anthropic recently published a paper authored by its Claude model claiming a proof that VP ≠ VNP. The distinction centers on the difference between the determinant and the permanent of a matrix: while the determinant can be computed in polynomial time using arithmetic circuits, the permanent is #P-complete and currently lacks a known polynomial-time algorithm. The claimed proof asserts that permanents cannot be computed using arithmetic circuits of polynomial size.</p><p>The separation of VP and VNP has significant implications for the P vs. NP problem. If P were to equal NP, any polynomial-time algorithm for computing permanents would have to rely on Boolean operators—such as AND, OR, and NOT—rather than the standard addition and multiplication operations used in arithmetic circuits. The proof suggests that such a "trick" would be necessary to bypass the limitations of arithmetic circuit complexity.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.anthropic.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F6b66d86ff0c180e95bc6ad2e6e4a1843aa74c80f-2200x960.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 18:13 UTC | #28453</small>]]></content>
+  </entry>
   <entry>
     <title>University of Queensland Researchers Transmit Message Using Gravity</title>
     <link href="https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity" rel="alternate" />
