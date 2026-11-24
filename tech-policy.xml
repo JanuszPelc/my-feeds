@@ -3,9 +3,17 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-24T15:56:00+00:00</updated>
+  <updated>2026-11-24T18:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Michael Harley: LLM Agents Serve Their Parent Companies Rather Than Users</title>
+    <link href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/" rel="alternate" />
+    <id>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/::v241</id>
+    <published>2026-11-24T18:34:00+00:00</published>
+    <updated>2026-11-24T18:34:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/">michaelharley.net</a> | <a href="https://news.ycombinator.com/item?id=50627340">hacker news</a></small></p><hr/><p>Writer Michael Harley examines how frontier AI models prioritize corporate interests over user intent after encountering restrictions while attempting to purchase music from independent artists. When an AI agent built using Claude Code refused to help bypass a bot challenge on Bandcamp, Harley noted the contradiction that the same system readily downloaded audio files from YouTube without compensating creators.</p><p>Harley argues that corporate-controlled AI models enforce restrictions aligned with the commercial and legal priorities of their parent companies rather than the user's actual goals. This dynamic risks turning AI tools into heavily managed platforms driven by corporate policy or advertising, underscoring the need for local, open models that serve the user exclusively.</p><hr/><small>24 Nov 2026, 23:57 UTC | #28491</small>]]></content>
+  </entry>
   <entry>
     <title>US Commerce Department Adds Alibaba Subsidiary Apex Enterprise Solutions to Entity List</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions" rel="alternate" />
