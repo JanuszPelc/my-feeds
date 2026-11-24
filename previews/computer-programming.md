@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>cgo Pointer Safety Checks and Syntactic Behavior Analysis</h2>
+<a name="story-28467"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheconsensus.dev%2Fstatic%2Fcgos-pointer-check-800.avif%3Fv%3DgvIStmzYo0w%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>cgo's Foreign Function Interface (FFI) utilizes `cmd/cgo` to perform build-time syntactic transformations that generate Go and C wrapper functions for cross-language calls. The article explores the runtime enforcement of pointer safety rules, which require that memory passed to C must not contain unpinned Go pointers, and details the role of `runtime.Pinner` in satisfying these requirements.</p><p>The analysis demonstrates that cgo's syntax-based transformations can cause performance regressions exceeding 1600x and lead to inconsistent correctness checks. Specifically, the author shows that passing a pointer to a struct field may succeed while passing the same address via an `unsafe.Pointer` variable triggers a runtime panic, revealing how cgo’s lack of type awareness can impact memory safety.</p>
+<p>Nov 24 · <a href="https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html">theconsensus.dev</a> | <a href="https://lobste.rs/s/fgbvtt/cgo_s_pointer_check_is_all_over_place">lobsters</a></p>
+<br clear="all" />
+
 <h2>NLnet Labs Releases Roto v0.14.0</h2>
 <a name="story-28456"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHKB8WnzWkAAVXL7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NLnet Labs has released Roto version 0.14.0, primarily serving as a bugfix update alongside a refresh to the project's manual. The update introduces new list methods including List.clear and List.remove, while fixing various lexer, parser, and error-handling issues.</p><p>The release includes a single breaking change affecting Rust users regarding List::contains and List::index, which now take arguments by value instead of by reference to resolve a soundness issue. Additional crate improvements add Blob::get_functions_by_signature and make specific error types public.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28279"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdustycloud.org%2Fmisc%2Febeems-gliver-screenshot.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Gliver is an early-stage tiling window manager written in Guile Scheme for Wayland, designed as a live-hackable and understandable desktop environment modeled after tools like StumpWM and Emacs. The author explores transitioning to Gliver from GNOME, highlighting its participatory design philosophy and deep integration with Guile.</p><p>Built on top of the River compositor using Cairo and Pango, Gliver provides a Unix domain socket for a running REPL, allowing users to inspect system state, jump to code definitions, and modify behavior on the fly. Although the software is still in early development—lacking features like interactive command prompts and formal packaging in Guix—it offers a promising foundation for Scheme-based desktop customization.</p>
 <p>Nov 22 · <a href="https://dustycloud.org/blog/gliver-completes-the-guix-desktop/">dustycloud.org</a> | <a href="https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop">lobsters</a></p>
-<br clear="all" />
-
-<h2>Alan Pearce Releases Scriptura Script Management Tool for Fish Shell</h2>
-<a name="story-28275"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKKxhf50FIPI%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Alan Pearce has released scriptura, a command-line utility designed for the fish shell to run and manage scripts organized within a folder tree. Inspired by Ian Henry’s sd project, scriptura provides integrated tab completion for subcommands, script paths, and arguments to streamline local automation tasks.</p><p>Built natively in fish to minimize external command dependencies, the tool supports documentation via inline comments or adjacent .help files, enables ad-hoc commands within the script root, and permits custom subcommands using a dedicated directory structure. Pearce created the alternative implementation to resolve naming conflicts with an existing sed alternative named sd and to deliver robust, native fish shell completions.</p>
-<p>Nov 22 · <a href="https://alanpearce.eu/post/scriptura/">alanpearce.eu</a> | <a href="https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts">lobsters</a></p>
 <br clear="all" />
 
 ---
