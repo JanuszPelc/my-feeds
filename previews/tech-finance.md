@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Anthropic Shares Fall Below IPO Price Following Nasdaq Debut</h2>
+<a name="story-28462"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2Ffa099567a4c388053b108c010c53e56404ab751a643a9cc140b15337b1f8d106%2Flightyear_networkapi%2Fresizefit_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F111cae8e7cc8f1b3bcd01d75d693b6db.jpg_up.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic shares traded as low as $76 on Tuesday, falling roughly 12% below the company's $83 initial public offering price and erasing the gains from its Nasdaq debut less than a week prior. The stock decline coincided with a broader tech market sell-off that also impacted other artificial intelligence companies, including Nvidia.</p><p>Market observers and venture capitalists are closely monitoring Anthropic's trading performance as a barometer for public investor sentiment toward the artificial intelligence sector. A prolonged slump could increase pressure on private startup valuations and hinder upcoming public offerings for other AI firms.</p>
+<p>Nov 24 · <a href="https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>On-Chain Analysis Examines Suspected Polymarket Insider Trade Ahead of Jensen Huang NVIDIA Reinstatement</h2>
 <a name="story-28485"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FbnJVQdMkFHUddjVeGAeNdR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An on-chain investigation highlights suspicious trading activity on Polymarket involving a newly created wallet that heavily wagered on Jensen Huang returning as NVIDIA CEO hours before any public announcements. The account accumulated over 71,000 shares at low odds in the middle of the night, just before Donald Trump publicly endorsed Huang's return on social media and NVIDIA officially confirmed his reinstatement.</p><p>The transactions were executed in a concentrated burst that absorbed roughly a third of the contract's available sell liquidity using a fresh proxy address with no prior transaction history. While the wallet's anonymity prevents definitive proof of illicit activity, the precise timing and single-market focus illustrate how decentralized prediction markets can expose severe information asymmetries.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28209"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fdims4%2Fdefault%2F062532c%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F1596x900%2B0%2B0%2Fresize%2F1318x743%21%2Fquality%2F90%2F%3Furl%3Dhttps%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb0%2Fad%2F8a93cf6644b096f1345bb54cbf03%2Fabout-amazon-inline-aws-trainium-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon is in advanced talks to acquire artificial intelligence startup Decart for approximately $7.5 billion. The proposed acquisition is intended to strengthen Amazon Web Services' computing capabilities and help the company compete with Nvidia in the AI infrastructure market.</p><p>Decart develops real-time generative AI models designed for high efficiency, which could integrate into Amazon's cloud offerings and custom silicon strategy. Negotiations are progressing rapidly, with a final deal potentially reached soon.</p>
 <p>Nov 21 · <a href="https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616">ft.com</a></p>
-<br clear="all" />
-
-<h2>Databricks in Early Talks to Raise New Funding at $225 Billion Valuation</h2>
-<a name="story-28170"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2021%2F02%2Fdatabricks.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Databricks is in early discussions to raise several billion dollars in new funding at a valuation of approximately $225 billion. The potential financing follows the company's closure of a $5 billion funding round in August that valued it at $190 billion.</p><p>If completed, the new valuation would represent an increase of nearly 20% from the August round, reflecting continued investor demand for artificial intelligence and data analytics infrastructure providers. The talks remain in their early stages and terms could still change.</p>
-<p>Nov 21 · <a href="https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?st=f6tFmc&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---

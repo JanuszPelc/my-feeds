@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-24T17:20:00+00:00</updated>
+  <updated>2026-11-24T18:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Anthropic Shares Fall Below IPO Price Following Nasdaq Debut</title>
+    <link href="https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/::v241</id>
+    <published>2026-11-24T18:31:00+00:00</published>
+    <updated>2026-11-24T18:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2Ffa099567a4c388053b108c010c53e56404ab751a643a9cc140b15337b1f8d106%2Flightyear_networkapi%2Fresizefit_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F111cae8e7cc8f1b3bcd01d75d693b6db.jpg_up.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/">techcrunch.com</a></small></p><hr/><p>Anthropic shares traded as low as $76 on Tuesday, falling roughly 12% below the company's $83 initial public offering price and erasing the gains from its Nasdaq debut less than a week prior. The stock decline coincided with a broader tech market sell-off that also impacted other artificial intelligence companies, including Nvidia.</p><p>Market observers and venture capitalists are closely monitoring Anthropic's trading performance as a barometer for public investor sentiment toward the artificial intelligence sector. A prolonged slump could increase pressure on private startup valuations and hinder upcoming public offerings for other AI firms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2Ffa099567a4c388053b108c010c53e56404ab751a643a9cc140b15337b1f8d106%2Flightyear_networkapi%2Fresizefit_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F111cae8e7cc8f1b3bcd01d75d693b6db.jpg_up.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 23:32 UTC | #28462</small>]]></content>
+  </entry>
   <entry>
     <title>On-Chain Analysis Examines Suspected Polymarket Insider Trade Ahead of Jensen Huang NVIDIA Reinstatement</title>
     <link href="https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/" rel="alternate" />
