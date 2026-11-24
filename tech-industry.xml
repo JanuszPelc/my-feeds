@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-24T17:03:00+00:00</updated>
+  <updated>2026-11-24T18:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Uber, Nuro, and Lucid Begin Driverless Robotaxi Testing in Bay Area</title>
+    <link href="https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area" rel="alternate" />
+    <id>https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area::v241</id>
+    <published>2026-11-24T18:05:00+00:00</published>
+    <updated>2026-11-24T18:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fnuro-begins-driverless-lucid-gravity-robotaxi-tests-in-bay-area.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area">theverge.com</a> | <a href="https://www.stocktitan.net/news/LCID/nuro-lucid-and-uber-begin-driverless-testing-on-public-roads-in-the-8pkms2s2r4kx.html">stocktitan.net</a></small></p><hr/><p>Uber, Nuro, and Lucid have commenced fully driverless public road testing of their autonomous robotaxis in the San Francisco Bay Area, removing human safety operators from modified Lucid Gravity SUVs. The initial phase covers Palo Alto, Mountain View, Los Altos, and Sunnyvale, with employee-only rides expected soon and a public commercial launch slated for early 2027.</p><p>Powered by Nuro's Level 4 autonomous system, the vehicles integrate cameras, solid-state lidar, radar, and a roof-mounted LED halo indicator to display passenger information. This milestone follows nearly a year of supervised testing and positions the three-way partnership to compete with established rivals like Waymo and Zoox, backed by a long-term commitment from Uber to deploy tens of thousands of Lucid vehicles globally.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fnuro-begins-driverless-lucid-gravity-robotaxi-tests-in-bay-area.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 23:20 UTC | #28416</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Integrates Muse AI Assistant Into Instagram DMs</title>
     <link href="https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/" rel="alternate" />
