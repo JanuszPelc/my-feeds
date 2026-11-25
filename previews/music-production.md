@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Clark Audio Dark Fantasy Virtual Instrument Available Free at Audio Plugin Deals</h2>
+<a name="story-28568"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.mydealz.de%2Fthreads%2Fraw%2FE9hCx%2F2877664_1%2Fre%2F1024x1024%2Fqt%2F60%2F2877664_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Audio Plugin Deals is offering Clark Audio's Dark Fantasy virtual instrument as a free download until December 4, 2026. Normally priced at $49, the plugin features 40 presets designed for dark ambient, dungeon synth, and medieval-inspired scoring.</p><p>The instrument includes detuned retro synth patches alongside layered flute and string recordings, operating as a standalone VST3 and AU plugin without requiring Kontakt. Users can shape sounds via attack and release controls, alongside built-in effects like tone adjustment, pitch drift, distance reverb, and tape-style wear.</p>
+<p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/clark-audio-dark-fantasy/">bedroomproducersblog.com</a> | <a href="https://audioplugin.deals/product/dark-fantasy-by-clark-audio/?ref=176">audioplugin.deals</a></p>
+<br clear="all" />
+
 <h2>Forma Labs Audio Offers Filament Orchestration Plugin Discount for Black Friday</h2>
 <a name="story-28569"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ8KKldWYXlQ%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Forma Labs Audio has discounted its Filament real-time orchestration plugin to £89.99 for Black Friday, available through December 1, 2026. The plugin version 1.2 hosts up to 64 VST3 or AU instruments on a single DAW track, distributing played notes across them using customizable routing, transposition, and keyswitches.</p><p>Filament operates with user-supplied sample libraries and software synthesizers, featuring capabilities such as Auto Divisi, MPE support, a phrase arpeggiator, and Host Mode for MIDI routing. The software is compatible with 64-bit Windows and macOS, offering perpetual licensing with three activations and a 14-day money-back guarantee.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28478"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt778_sessionampsmetalezmixpack_top-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Toontrack has released Session Amps Metal, an expansion pack for the EZmix 3 mixing plugin featuring 25 mix-ready guitar tones spanning traditional to modern metal styles. Priced at $39, the collection focuses primarily on rhythm guitar presets, ranging from early heavy metal sounds to thrash and modern death metal, supplemented by select lead and effect tones.</p><p>The presets were captured using neural network technology and impulse responses based on real amplifiers, cabinets, and pedals. Each patch models a complete studio signal chain, incorporating specific microphones, placement choices, and room ambience, alongside dedicated parameters for fine-tuning the sound.</p>
 <p>Nov 24 · <a href="https://www.kvraudio.com/news/toontrack-releases-session-amps-metal-ezmix-pack-for-ezmix-3-70140?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70140">kvraudio.com</a> | <a href="https://www.toontrack.com/product/session-amps-metal-ezmix-pack/">toontrack.com</a></p>
-<br clear="all" />
-
-<h2>Kemper Releases PROFILER Native for macOS and Windows</h2>
-<a name="story-28469"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F24400001_theme.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Kemper has released PROFILER Native, a standalone application and plug-in that integrates its amp profiling technology, PROFILER MK 2 features, and effects into computer-based recording and performance setups. Designed for guitarists, bass players, and producers, the software provides the core functionality of the hardware units within a DAW environment, featuring seamless sound switching, effects spillover, and the Morphing feature.</p><p>The software supports AU, VST3, and CLAP plug-in formats, with AAX support planned for a future release, and runs on macOS and Windows. It includes access to commercial Rig collections and the Rig Exchange community library, alongside MIDI controller support. PROFILER Native is currently available at an introductory price of €199, with a regular MSRP of €249, and offers a dedicated discount for existing hardware owners as well as a free trial version.</p>
-<p>Nov 24 · <a href="https://www.kvraudio.com/news/kemper-releases-profiler-native-for-macos-and-windows-70138?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70138">kvraudio.com</a> | <a href="https://www.kemper-amps.com/products/profiler-native.html">kemper-amps.com</a></p>
 <br clear="all" />
 
 ---

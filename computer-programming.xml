@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Jdonszelmann Details Optimization of Rustc's Next Trait Solver</title>
+    <link href="https://donsz.nl/blog/optimizing-rustcs-next-trait-solver" rel="alternate" />
+    <id>https://donsz.nl/blog/optimizing-rustcs-next-trait-solver::v241</id>
+    <published>2026-11-25T16:50:00+00:00</published>
+    <updated>2026-11-25T16:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff4adf7fd0e3f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://donsz.nl/blog/optimizing-rustcs-next-trait-solver">donsz.nl</a> | <a href="https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver">lobsters</a></small></p><hr/><p>Rust compiler developer Jdonszelmann breaks down the fundamentals of Rust's trait solver subsystem, detailing the performance challenges that blocked the stabilization of the next-generation solver ahead of its integration into Rust 1.102.0. Drawing from first principles, the analysis explains how trait systems function similarly to Prolog-like logic solvers, handling recursive queries, where bounds, and associated types.</p><p>The writeup, adapted from a EuroRust 2026 presentation, explores the historical context of the multi-year project to replace the legacy solver and eliminate longstanding correctness and soundness bugs. It highlights the collaborative effort behind the project to achieve zero soundness bugs in the type system and the targeted optimization work required to make the new architecture performant enough for production use.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff4adf7fd0e3f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 22:00 UTC | #28594</small>]]></content>
+  </entry>
+  <entry>
     <title>Marginalia Search Updates Project Status and C++ Index Migration</title>
     <link href="https://www.marginalia.nu/log/a_141_marginalia_update/" rel="alternate" />
     <id>https://www.marginalia.nu/log/a_141_marginalia_update/::v241</id>
