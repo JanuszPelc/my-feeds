@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Lua for Data Representation and Configuration</h2>
 <a name="story-28454"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fweconv-boxluaconfigration-200528070449%2F75%2FWECON-V-BOX-Lua-Configration-8-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lua is analyzed as a flexible format for data and configuration, leveraging its inherent design as an embedding language. The article identifies three primary patterns for this use: a "JSON style" where scripts return tables, an "INI style" that loads values into a controlled global environment, and an "imperative style" that uses Lua's syntax to define domain-specific languages.</p><p>Security is addressed through sandboxing techniques, including the use of empty environments, the rejection of bytecode, and the mitigation of denial-of-service attacks. The author highlights Lua's extensibility as its primary advantage over standard formats, enabling the creation of nuanced, custom languages for complex data descriptions.</p>
-<p>Nov 24 · <a href="https://citrons.xyz/journal/2025-07-23">citrons.xyz</a> | <a href="https://lobste.rs/s/ezml41/lua_for_data_representation">lobsters</a></p>
+<p>Nov 24 · <a href="https://citrons.xyz/journal/2025-07-23">citrons.xyz</a> | <a href="https://lobste.rs/s/ezml41/lua_for_data_representation">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50637888">hacker news</a></p>
 <br clear="all" />
 
 <h2>trynix.dev Enables Fast Web-Based Linux Execution via unkernel</h2>

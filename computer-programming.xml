@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-25T05:30:00+00:00</updated>
+  <updated>2026-11-25T06:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -74,9 +74,9 @@
     <link href="https://citrons.xyz/journal/2025-07-23" rel="alternate" />
     <id>https://citrons.xyz/journal/2025-07-23::v241</id>
     <published>2026-11-24T12:39:00+00:00</published>
-    <updated>2026-11-24T12:39:00+00:00</updated>
+    <updated>2026-11-25T06:19:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fweconv-boxluaconfigration-200528070449%2F75%2FWECON-V-BOX-Lua-Configration-8-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://citrons.xyz/journal/2025-07-23">citrons.xyz</a> | <a href="https://lobste.rs/s/ezml41/lua_for_data_representation">lobsters</a></small></p><hr/><p>Lua is analyzed as a flexible format for data and configuration, leveraging its inherent design as an embedding language. The article identifies three primary patterns for this use: a "JSON style" where scripts return tables, an "INI style" that loads values into a controlled global environment, and an "imperative style" that uses Lua's syntax to define domain-specific languages.</p><p>Security is addressed through sandboxing techniques, including the use of empty environments, the rejection of bytecode, and the mitigation of denial-of-service attacks. The author highlights Lua's extensibility as its primary advantage over standard formats, enabling the creation of nuanced, custom languages for complex data descriptions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fweconv-boxluaconfigration-200528070449%2F75%2FWECON-V-BOX-Lua-Configration-8-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 18:15 UTC | #28454</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://citrons.xyz/journal/2025-07-23">citrons.xyz</a> | <a href="https://lobste.rs/s/ezml41/lua_for_data_representation">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50637888">hacker news</a></small></p><hr/><p>Lua is analyzed as a flexible format for data and configuration, leveraging its inherent design as an embedding language. The article identifies three primary patterns for this use: a "JSON style" where scripts return tables, an "INI style" that loads values into a controlled global environment, and an "imperative style" that uses Lua's syntax to define domain-specific languages.</p><p>Security is addressed through sandboxing techniques, including the use of empty environments, the rejection of bytecode, and the mitigation of denial-of-service attacks. The author highlights Lua's extensibility as its primary advantage over standard formats, enabling the creation of nuanced, custom languages for complex data descriptions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fweconv-boxluaconfigration-200528070449%2F75%2FWECON-V-BOX-Lua-Configration-8-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 18:15 UTC | #28454</small>]]></content>
   </entry>
   <entry>
     <title>trynix.dev Enables Fast Web-Based Linux Execution via unkernel</title>

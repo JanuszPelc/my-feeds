@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Study of Shark Bay Dolphins Links Social Predictability to Longevity</h2>
+<a name="story-28500"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F773755%2Foriginal%2Ffile-20261123-62-fy6rt2.png%3Fixlib%3Drb-4.1.1%26rect%3D0%252C0%252C3839%252C2160%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers analyzing nearly 40 years of data on over 450 wild Indo-Pacific bottlenose dolphins in Shark Bay, Western Australia, have found that social predictability and consistent group sizes in old age are linked to greater longevity. Published in PLOS Biology, the study tracked how dolphins' social habits change throughout their lives, revealing patterns similar to human social ageing.</p><p>The findings indicate that while average dolphin group sizes increase and then decrease with age, individuals who maintain more predictable social behaviors live longer. The research highlights how stable social environments can buffer the effects of aging across long-lived species, providing new insights into the evolutionary roots of social aging.</p>
+<p>Nov 25 · <a href="https://theconversation.com/40-years-of-data-on-one-dolphin-community-teaches-new-lessons-about-social-circles-in-old-age-297307">theconversation.com</a> | <a href="https://doi.org/10.1371/journal.pbio.3004022">doi.org</a></p>
+<br clear="all" />
+
 <h2>Evaluating the Proposed Australian Space Agency Astronaut Mission for Katherine Bennell-Pegg</h2>
 <a name="story-28489"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent.api.news%2Fv3%2Fimages%2Fbin%2F31300c830b489f1f15ddc93d1de68cc2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Australia is currently negotiating with the European Space Agency to fly Katherine Bennell-Pegg on a space mission for an estimated cost exceeding A$100 million, sparking national discussion over public spending.</p><p>While supporters argue the mission would inspire younger generations and bolster the local space industry, analysts question whether the high expense provides sufficient tangible economic return compared to funding broader scientific research and long-term space programs.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-28276"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.hrw.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fembed_xxl%2Fpublic%2Fmedia_2022%2F11%2F202211mena_egypt_COP27_Sharm_El_Sheikh_Fossil_Fuels_Phase_Out_action.jpg%3Fitok%3Dj1IQEMhK&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The COP31 climate summit in Antalya, Turkey, collapsed after failing to reach an overarching agreement, primarily driven by a draft text that omitted any mention of transitioning away from fossil fuels. Nearly 40 countries, including European Union member states, the UK, and vulnerable Pacific island nations, formally rejected the final text.</p><p>Beyond the fossil fuel dispute, the summit struggled with inadequate climate financing, falling short of proposals to triple adaptation funding, and deep divisions over scientific findings regarding global warming approaching the 1.5°C threshold. Tensions also flared over attempts by petrostates to question annual science reports and delay the upcoming IPCC assessment.</p>
 <p>Nov 23 · <a href="https://theconversation.com/cop31-collapse-countries-reject-deal-without-mention-of-transition-away-from-fossil-fuels-297269">theconversation.com</a></p>
-<br clear="all" />
-
-<h2>Jony Ive and Joey Flynn on Silicon Valley&#x27;s Obsession with Taste as a Defense Against AI Slop</h2>
-<a name="story-28245"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcloudnews.tech%2Fwp-content%2Fuploads%2F2025%2F05%2Fopen-ai-io-jony-ive.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Designer Jony Ive, former OpenAI product designer Joey Flynn, and other technology figures examine Silicon Valley's increasing reliance on aesthetic "taste" as a perceived competitive moat against the proliferation of low-quality, AI-generated content.</p><p>The discussion explores whether human aesthetic judgment can protect products from becoming saturated with generative digital filler, and whether artificial intelligence systems can ever truly develop an equivalent sense of taste.</p>
-<p>Nov 22 · <a href="https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&smid=url-share">nytimes.com</a></p>
 <br clear="all" />
 
 ---
