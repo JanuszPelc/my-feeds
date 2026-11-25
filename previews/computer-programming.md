@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Armin Ronacher Proposes Abolishing Rust Mutex Poisoning</h2>
+<a name="story-28547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_-0siJzaUAY%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Armin Ronacher argues that Rust's mutex poisoning should be removed or made an exception rather than the default behavior. While the feature was designed to signal broken invariants after a panic, the author asserts that it is rarely handled correctly in practice and often results in "slow outages" where a single panic on one thread makes a shared mutex permanently unusable for all subsequent threads.</p><p>The article highlights how `PoisonError` can cause deadlocks because it holds the lock, citing issues in projects like RLS and Mozilla, as well as crates like Deno and Polars. Ronacher suggests making `std::sync::nonpoison` the default for `std::sync::Mutex` and introducing an opt-in `Poison&lt;T&gt;` wrapper for users who specifically need to detect poisoned states.</p>
+<p>Nov 25 · <a href="https://lucumr.pocoo.org/2026/11/25/poisoning/">lucumr.pocoo.org</a> | <a href="https://lobste.rs/s/sj2pkv/abolish_lock_poisoning">lobsters</a></p>
+<br clear="all" />
+
 <h2>Antithesis Nightmare Mode Simulates Disk Failures</h2>
 <a name="story-28537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fmodel-implementedhybridfaultinjection-200614194049%2F75%2FModel-implemented-hybrid-fault-injection-14-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Antithesis developed a fault injection mechanism to simulate complex disk failures in distributed systems. By utilizing Amnesia, a custom Rust-based FUSE filesystem, the system emulates power losses, torn writes, I/O errors, and disk latency. This functionality allows developers to evaluate software robustness against unreliable storage, specifically targeting issues like the fsyncgate bug and non-atomic write interleaving.</p><p>The Amnesia filesystem builds on the LazyFS research project but operates in-memory to manage volatile and durable states for increased performance. It integrates with a fuzzer to target specific "interesting" moments—before, during, or after syscalls—to uncover concurrency bugs and data loss scenarios that are difficult to replicate in standard operating environments.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28437"><img src="https://wsrv.nl/?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F1847577%2F146498826-aa3edb88-36fe-499c-aa25-0b83f4ab5e3d.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jon's Arm Reference, a popular online resource providing documentation for AArch64 instruction sets and system registers for Armv8-A and Armv9-A architectures, will be discontinued on December 4, 2026. The site creator announced that legal counsel from Arm issued a notice requiring the site to be taken down or face legal action.</p><p>Launched to offer easy reference access for developers and enthusiasts, the site utilizes WebAssembly for its search functionality. The creator is currently investigating solutions to help preserve bookmarks and links before the site officially shuts down.</p>
 <p>Nov 24 · <a href="https://arm.jonpalmisc.com/">arm.jonpalmisc.com</a> | <a href="https://news.ycombinator.com/item?id=50617499">hacker news</a></p>
-<br clear="all" />
-
-<h2>CLI Tools Combined to Find Geographic Midpoints on macOS</h2>
-<p>George Mandis describes a workflow using three command-line tools—whereami, nearme, and jq—to identify locations halfway between two geographic points. By piping the JSON output of whereami (a geolocation and reverse geocoding tool) into jq for coordinate averaging, and then into nearme (which utilizes Apple's MapKit), users can search for nearby venues at the midpoint without requiring API keys or a web browser.</p><p>The method is restricted to macOS due to its reliance on native geocoding and MapKit frameworks. While the geographic average calculation is a literal midpoint that does not account for real-world factors like travel time or traffic, the author provides shell functions for both Zsh and Fish to simplify the complex command-line piping into a single command for finding places like coffee shops or bars.</p>
-<p>Nov 24 · <a href="https://george.mand.is/2026/11/lets-meet-in-the-middle/">george.mand.is</a> | <a href="https://lobste.rs/s/7fscqs/let_s_meet_middle">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50577534">hacker news</a></p>
 <br clear="all" />
 
 ---

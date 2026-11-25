@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-25T06:19:00+00:00</updated>
+  <updated>2026-11-25T13:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Rajiv Ramaswami to Step Down as Nutanix CEO</title>
+    <link href="https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/" rel="alternate" />
+    <id>https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/::v241</id>
+    <published>2026-11-25T08:04:00+00:00</published>
+    <updated>2026-11-25T08:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2026%2F11%2FRajiv-Ramaswami-president-and-CEO-of-Nutanix-Nutanix-.NEXT-2026.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/">siliconangle.com</a> | <a href="https://ir.nutanix.com/news-releases/news-release-details/nutanix-announces-ceo-succession-plan-0">ir.nutanix.com</a></small></p><hr/><p>Rajiv Ramaswami will step down as chief executive of Nutanix after a six-year tenure. He will remain in his current role for the time being to work with the board of directors to identify a successor via an executive search firm, followed by a transition into a senior advisor position.</p><p>The announcement follows Nutanix's first-quarter fiscal 2027 earnings report, which showed a 15% year-over-year revenue increase and an adjusted earnings beat. However, the company's stock dropped approximately 8% in after-hours trading as investors reacted to the leadership transition and the company's cautious full-year revenue guidance.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2026%2F11%2FRajiv-Ramaswami-president-and-CEO-of-Nutanix-Nutanix-.NEXT-2026.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 13:19 UTC | #28503</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Defends Lack of Succession Plan in All-Hands Meeting</title>
     <link href="https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/" rel="alternate" />
@@ -47,9 +56,9 @@
     <link href="https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/" rel="alternate" />
     <id>https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/::v241</id>
     <published>2026-11-24T18:36:00+00:00</published>
-    <updated>2026-11-24T18:36:00+00:00</updated>
+    <updated>2026-11-25T13:21:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hQkR5.img%3Fw%3D1920%26h%3D1080%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4mi65/anthropic_ceo_dario_amodei_and_sister_daniela/">r/technology</a></small></p><hr/><p>Anthropic shares dropped 6.54% to close at $81.91, falling below their $83 initial public offering price as the post-debut market rally unraveled. The decline marked a reversal from the initial momentum following the artificial intelligence company's stock market entry.</p><p>Regulatory filings show that co-founders Dario and Daniela Amodei each sold more than 3.37 million shares valued at over $280 million to the IPO's underwriters. The stock's slip below its offering price reflects shifting market conditions and investor demand for major artificial intelligence listings.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hQkR5.img%3Fw%3D1920%26h%3D1080%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 00:54 UTC | #28423</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4mi65/anthropic_ceo_dario_amodei_and_sister_daniela/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50627836">hacker news</a></small></p><hr/><p>Anthropic shares dropped 6.54% to close at $81.91, falling below their $83 initial public offering price as the post-debut market rally unraveled. The decline marked a reversal from the initial momentum following the artificial intelligence company's stock market entry.</p><p>Regulatory filings show that co-founders Dario and Daniela Amodei each sold more than 3.37 million shares valued at over $280 million to the IPO's underwriters. The stock's slip below its offering price reflects shifting market conditions and investor demand for major artificial intelligence listings.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hQkR5.img%3Fw%3D1920%26h%3D1080%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 00:54 UTC | #28423</small>]]></content>
   </entry>
   <entry>
     <title>Stripe Discusses Employee Share Tender Offer Valuing Company Above $200 Billion</title>

@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-25T06:19:00+00:00</updated>
+  <updated>2026-11-25T08:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Armin Ronacher Proposes Abolishing Rust Mutex Poisoning</title>
+    <link href="https://lucumr.pocoo.org/2026/11/25/poisoning/" rel="alternate" />
+    <id>https://lucumr.pocoo.org/2026/11/25/poisoning/::v241</id>
+    <published>2026-11-25T08:06:00+00:00</published>
+    <updated>2026-11-25T08:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_-0siJzaUAY%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lucumr.pocoo.org/2026/11/25/poisoning/">lucumr.pocoo.org</a> | <a href="https://lobste.rs/s/sj2pkv/abolish_lock_poisoning">lobsters</a></small></p><hr/><p>Armin Ronacher argues that Rust's mutex poisoning should be removed or made an exception rather than the default behavior. While the feature was designed to signal broken invariants after a panic, the author asserts that it is rarely handled correctly in practice and often results in "slow outages" where a single panic on one thread makes a shared mutex permanently unusable for all subsequent threads.</p><p>The article highlights how `PoisonError` can cause deadlocks because it holds the lock, citing issues in projects like RLS and Mozilla, as well as crates like Deno and Polars. Ronacher suggests making `std::sync::nonpoison` the default for `std::sync::Mutex` and introducing an opt-in `Poison&lt;T&gt;` wrapper for users who specifically need to detect poisoned states.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_-0siJzaUAY%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 13:24 UTC | #28547</small>]]></content>
+  </entry>
   <entry>
     <title>Antithesis Nightmare Mode Simulates Disk Failures</title>
     <link href="https://antithesis.com/blog/2026/nightmare-mode/" rel="alternate" />
