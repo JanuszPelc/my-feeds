@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-24T18:45:00+00:00</updated>
+  <updated>2026-11-24T23:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Evaluating the Proposed Australian Space Agency Astronaut Mission for Katherine Bennell-Pegg</title>
+    <link href="https://theconversation.com/sending-an-australian-astronaut-to-space-is-expensive-how-do-we-work-out-if-its-worth-it-296824" rel="alternate" />
+    <id>https://theconversation.com/sending-an-australian-astronaut-to-space-is-expensive-how-do-we-work-out-if-its-worth-it-296824::v241</id>
+    <published>2026-11-24T23:19:00+00:00</published>
+    <updated>2026-11-24T23:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcontent.api.news%2Fv3%2Fimages%2Fbin%2F31300c830b489f1f15ddc93d1de68cc2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/sending-an-australian-astronaut-to-space-is-expensive-how-do-we-work-out-if-its-worth-it-296824">theconversation.com</a></small></p><hr/><p>Australia is currently negotiating with the European Space Agency to fly Katherine Bennell-Pegg on a space mission for an estimated cost exceeding A$100 million, sparking national discussion over public spending.</p><p>While supporters argue the mission would inspire younger generations and bolster the local space industry, analysts question whether the high expense provides sufficient tangible economic return compared to funding broader scientific research and long-term space programs.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent.api.news%2Fv3%2Fimages%2Fbin%2F31300c830b489f1f15ddc93d1de68cc2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 04:20 UTC | #28489</small>]]></content>
+  </entry>
   <entry>
     <title>Indigenous Ways of Knowing Offer Perspective on Lived Experience in the Age of AI</title>
     <link href="https://theconversation.com/in-the-age-of-ai-indigenous-ways-of-knowing-remind-us-why-lived-experience-matters-296644" rel="alternate" />

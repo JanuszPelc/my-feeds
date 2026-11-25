@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Evaluating the Proposed Australian Space Agency Astronaut Mission for Katherine Bennell-Pegg</h2>
+<a name="story-28489"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcontent.api.news%2Fv3%2Fimages%2Fbin%2F31300c830b489f1f15ddc93d1de68cc2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Australia is currently negotiating with the European Space Agency to fly Katherine Bennell-Pegg on a space mission for an estimated cost exceeding A$100 million, sparking national discussion over public spending.</p><p>While supporters argue the mission would inspire younger generations and bolster the local space industry, analysts question whether the high expense provides sufficient tangible economic return compared to funding broader scientific research and long-term space programs.</p>
+<p>Nov 24 · <a href="https://theconversation.com/sending-an-australian-astronaut-to-space-is-expensive-how-do-we-work-out-if-its-worth-it-296824">theconversation.com</a></p>
+<br clear="all" />
+
 <h2>Indigenous Ways of Knowing Offer Perspective on Lived Experience in the Age of AI</h2>
 <a name="story-28448"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F773102%2Foriginal%2Ffile-20261119-76-4355cx.JPG%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>As artificial intelligence increasingly automates knowledge production—exemplified by recent computational breakthroughs in mathematics—universities face fundamental questions regarding the value of human intellectual contributions. Writing in The Conversation, education scholar Frank Deer argues that responding to AI through regulation alone misses an opportunity to re-evaluate the role of human lived experience in learning and research.</p><p>Drawing on Onkwehón:we (Indigenous) traditions, the essay highlights how knowledge emerges through relational, collective, and intergenerational experiences rather than purely abstract computation. Incorporating these perspectives into higher education encourages a shift toward experiential learning and community engagement, affirming that human experience remains an essential component of meaningful knowledge.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-28245"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcloudnews.tech%2Fwp-content%2Fuploads%2F2025%2F05%2Fopen-ai-io-jony-ive.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Designer Jony Ive, former OpenAI product designer Joey Flynn, and other technology figures examine Silicon Valley's increasing reliance on aesthetic "taste" as a perceived competitive moat against the proliferation of low-quality, AI-generated content.</p><p>The discussion explores whether human aesthetic judgment can protect products from becoming saturated with generative digital filler, and whether artificial intelligence systems can ever truly develop an equivalent sense of taste.</p>
 <p>Nov 22 · <a href="https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&smid=url-share">nytimes.com</a></p>
-<br clear="all" />
-
-<h2>US Army Plans In-Place Detonation of Unstable Lead Azide at Iowa Ammunition Plant</h2>
-<a name="story-28220"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwho13.com%2Fwp-content%2Fuploads%2Fsites%2F19%2F2026%2F03%2Fsnapshot-1-1.jpg%3Fw%3D900&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Army and the EPA planned an in-place controlled detonation of approximately 10,000 pounds of lead azide stored at the Iowa Army Ammunition Plant near Burlington, Iowa. The primary explosive, which was stored in underground bunkers for two decades, recrystallized and became dangerously sensitive to shock and friction, making it impossible to move or handle safely.</p><p>Standard chemical neutralization methods are unfeasible because opening the deteriorated storage drums presents an extreme detonation risk, leaving controlled explosion within reinforced bunkers as the only viable disposal route. Legal challenges from environmental groups have temporarily stayed the operation amid concerns that the blast could release a hazardous lead dust plume affecting surrounding communities.</p>
-<p>Nov 22 · <a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really">science.org</a> | <a href="https://news.ycombinator.com/item?id=50588982">hacker news</a></p>
 <br clear="all" />
 
 ---
