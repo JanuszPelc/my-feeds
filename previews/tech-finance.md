@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>HP Reports Q4 Revenue Growth and AI PC Adoption</h2>
+<p>HP Inc. reported fourth-quarter revenue of $16 billion, a 9.3% year-over-year increase that exceeded analyst estimates of $15.3 billion. The company also provided "prudent" fiscal 2027 guidance that surpassed market expectations and revealed that AI-enabled PCs now represent approximately 60% of its total shipments.</p><p>The company's profit forecast for the current year indicates a better handle on memory costs, suggesting results will likely exceed analyst estimates. These figures underscore HP's progress in integrating AI technology into its hardware lineup while managing production expenses more effectively.</p>
+<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-24/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs">bloomberg.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/0000047217/000004721726000054/hp103126exhibit991q426.htm">sec.gov</a></p>
+<br clear="all" />
+
 <h2>Utah Drops Criminal Charges Against Prediction Platform Kalshi</h2>
 <a name="story-28492"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.nationsonline.org%2Fmaps%2FUSA%2FUtah_map.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Utah prosecutors dropped criminal charges against prediction market company Kalshi and its co-founders on Tuesday after the platform voluntarily suspended its operations in the state. The legal move follows a federal court ruling that allowed Utah to enforce its strict anti-gambling laws against the company, prompting the platform's withdrawal from the state's market.</p><p>The case highlights a growing regulatory conflict as several states move to classify prediction markets as gambling, while the companies involved argue they should be regulated as financial exchanges under federal law. Kalshi's exit from Utah joins a broader trend of state-level enforcement in Nevada, Michigan, Louisiana, and Washington, with many experts anticipating that the Supreme Court will eventually decide the industry's legal status.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28293"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg%2Fv1%2Ffill%2Fw_980%2Ch_451%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Clinical intelligence startup Aevius has secured $22 million in seed funding led by Insight Partners. The company aims to develop a clinical intelligence platform that makes fragmented medical data, including clinical records and imaging, computable to support better patient care and advance clinical research.</p><p>The company was founded by a team that previously developed and sold Modella AI to AstraZeneca. Aevius plans to use the new funding to develop foundation models that learn how health and disease progress over time, focusing on making medical data actionable for healthcare organizations.</p>
 <p>Nov 23 · <a href="https://www.axios.com/pro/biotech-deals/2026/11/17/aevius-22m-clinical-intelligence-platform">axios.com</a> | <a href="https://www.businesswire.com/news/home/20261117488744/en/Aevius-Launches-with-$22-Million-in-Funding-to-Make-Medicine-Computable">businesswire.com</a></p>
-<br clear="all" />
-
-<h2>Compute Desk Raises $45 Million in Lightspeed-Led Seed Round</h2>
-<a name="story-28291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHMJjLjuWQAAMyN9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Compute Desk, a startup focused on creating infrastructure to trade and hedge computing power, has secured $45 million in a seed funding round led by Lightspeed Venture Partners. The company aims to transform compute into a tradable asset, establishing a framework for pricing and risk management within the burgeoning AI infrastructure market.</p><p>The funding supports the development of a liquidity network and a platform for clearing and pricing GPU compute. This capital injection highlights a competitive landscape where multiple well-capitalized startups are vying to establish the pricing standards for a market participants believe could eventually be worth trillions.</p>
-<p>Nov 23 · <a href="https://www.axios.com/pro/all-deals/2026/11/17/compute-pricing-startup-compute-desk-45-million-lightspeed">axios.com</a> | <a href="https://www.wsgr.com/en/insights/wilson-sonsini-advises-compute-desk-on-dollar45-million-financing-as-it-emerges-from-stealth.html">wsgr.com</a></p>
 <br clear="all" />
 
 ---
