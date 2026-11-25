@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-25T08:41:00+00:00</updated>
+  <updated>2026-11-25T12:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Huawei Develops Homegrown Chip Design Tools to Bypass US Restrictions</title>
+    <link href="https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs" rel="alternate" />
+    <id>https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs::v241</id>
+    <published>2026-11-25T12:08:00+00:00</published>
+    <updated>2026-11-25T12:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJLN8ktaoAA0rWD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs">asia.nikkei.com</a></small></p><hr/><p>Huawei Technologies and a local software partner have developed homegrown chip design tools to circumvent U.S. sanctions on advanced software from American leaders Synopsys and Cadence. These tools enable the Chinese tech giant to design next-generation chips for servers and mobile devices independently, reducing reliance on Western technology.</p><p>This development is part of a broader strategic push to secure Huawei's supply chain amidst ongoing trade restrictions. The company currently allocates more than 20% of its revenue to research and development and holds over 8,000 AI-related patents to maintain its competitive position in the global semiconductor market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJLN8ktaoAA0rWD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 17:39 UTC | #28522</small>]]></content>
+  </entry>
   <entry>
     <title>US Intelligence Officials Brief Congress on Alice Huang Spy Allegations</title>
     <link href="https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html?unlocked_article_code=1.TFE.MS4i.jx4l5m-ldOYd&amp;smid=url-share" rel="alternate" />

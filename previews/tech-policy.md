@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Huawei Develops Homegrown Chip Design Tools to Bypass US Restrictions</h2>
+<a name="story-28522"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJLN8ktaoAA0rWD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Huawei Technologies and a local software partner have developed homegrown chip design tools to circumvent U.S. sanctions on advanced software from American leaders Synopsys and Cadence. These tools enable the Chinese tech giant to design next-generation chips for servers and mobile devices independently, reducing reliance on Western technology.</p><p>This development is part of a broader strategic push to secure Huawei's supply chain amidst ongoing trade restrictions. The company currently allocates more than 20% of its revenue to research and development and holds over 8,000 AI-related patents to maintain its competitive position in the global semiconductor market.</p>
+<p>Nov 25 · <a href="https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs">asia.nikkei.com</a></p>
+<br clear="all" />
+
 <h2>US Intelligence Officials Brief Congress on Alice Huang Spy Allegations</h2>
 <a name="story-28508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.mktw.net%2Fim-77942953%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US intelligence officials informed congressional aides that Alice Huang was not under direct orders from China's Ministry of State Security (MSS) regarding the "Jensen Huang affair." While the briefing clarified she was not an agent directed by the MSS, officials indicated that she may have independently passed intelligence to the agency.</p><p>The briefing follows public statements by President Trump characterizing Nvidia CEO Jensen Huang as not a security threat. The case involves allegations that Huang, an executive linked to a Chinese firm, gathered sensitive information regarding U.S. artificial intelligence chip technology.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28372"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2i5nWp.img%3Fw%3D2048%26h%3D1152%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Australian government has secured an agreement with the Greens to pass its digital duty of care bill, which requires technology companies to address foreseeable online harms and introduces a private right of action for users. The updated legislation incorporates maximum fines of up to 5% of global revenue for non-compliance, alongside new dispute resolution pathways and expanded powers for the eSafety Commissioner.</p><p>This legal shift allows individuals and groups to initiate litigation against platforms for breaches of duty, moving regulatory enforcement beyond government agencies alone. While low-risk small businesses will be exempt and a 12-month transition period will apply, the bill lacks bipartisan support from the Coalition and introduces heightened legal exposure for major tech platforms operating in Australia.</p>
 <p>Nov 24 · <a href="https://theconversation.com/australians-will-be-able-to-sue-big-tech-platforms-for-online-harm-under-digital-duty-of-care-law-297390">theconversation.com</a></p>
-<br clear="all" />
-
-<h2>US Commerce Department Plans to Add Megaspeed to Trade Blacklist</h2>
-<a name="story-28365"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcassette.sphdigital.com.sg%2Fimage%2Fstraitstimes%2Fbf4006663c920dcb8d2bebce66dce54a6b8d0ac35ee500fcfb68152a46184ff7&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The US Commerce Department plans to add Singapore-based chip buyer Megaspeed to its entity list, restricting American companies from selling semiconductors and certain technologies to the firm without a government license. The impending move follows intense pressure from other federal agencies and lawmakers amid an ongoing Justice Department investigation into whether Megaspeed violated export controls by illegally shipping Nvidia chips to China.</p><p>Megaspeed emerged at the center of a high-profile controversy involving Nvidia after former CEO Jensen Huang resigned following scrutiny over his relationship with a Megaspeed executive suspected of being a Chinese spy. While other administration branches, including the Treasury Department and the Pentagon, supported placing Megaspeed on the trade blacklist months prior, Commerce Secretary Howard Lutnick faced mounting bipartisan pressure over delays in enacting the restriction.</p>
-<p>Nov 23 · <a href="https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist">semafor.com</a></p>
 <br clear="all" />
 
 ---
