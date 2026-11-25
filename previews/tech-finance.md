@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Utah Drops Criminal Charges Against Prediction Platform Kalshi</h2>
+<a name="story-28492"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.nationsonline.org%2Fmaps%2FUSA%2FUtah_map.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Utah prosecutors dropped criminal charges against prediction market company Kalshi and its co-founders on Tuesday after the platform voluntarily suspended its operations in the state. The legal move follows a federal court ruling that allowed Utah to enforce its strict anti-gambling laws against the company, prompting the platform's withdrawal from the state's market.</p><p>The case highlights a growing regulatory conflict as several states move to classify prediction markets as gambling, while the companies involved argue they should be regulated as financial exchanges under federal law. Kalshi's exit from Utah joins a broader trend of state-level enforcement in Nevada, Michigan, Louisiana, and Washington, with many experts anticipating that the Supreme Court will eventually decide the industry's legal status.</p>
+<p>Nov 25 · <a href="https://cnn.com/2026/11/24/politics/utah-criminal-charges-kalshi-dropped">cnn.com</a></p>
+<br clear="all" />
+
 <h2>Dell Reports Q3 Revenue of $54.94 Billion and Raises Annual Forecasts</h2>
 <a name="story-28479"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fpage%2Fportfolio%2Flaptop-promo-module-dell-pro-max.png%3Ffmt%3Dpng-alpha%26wid%3D600%26hei%3D400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dell Technologies reported third-quarter fiscal 2027 revenue of $54.94 billion, marking a 103% increase year-over-year that surpassed analyst expectations of $49.32 billion, driven by surging demand for artificial intelligence servers. Net income and per-share earnings also saw substantial gains, underpinned by strong momentum across both the Infrastructure Solutions Group and Client Solutions Group.</p><p>Following the record quarterly performance, the company raised its annual revenue and profit forecasts for the third time this year. Management pointed to an expanding AI server backlog and continued enterprise adoption of high-performance computing infrastructure as key drivers for ongoing financial growth.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHMJjLjuWQAAMyN9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Compute Desk, a startup focused on creating infrastructure to trade and hedge computing power, has secured $45 million in a seed funding round led by Lightspeed Venture Partners. The company aims to transform compute into a tradable asset, establishing a framework for pricing and risk management within the burgeoning AI infrastructure market.</p><p>The funding supports the development of a liquidity network and a platform for clearing and pricing GPU compute. This capital injection highlights a competitive landscape where multiple well-capitalized startups are vying to establish the pricing standards for a market participants believe could eventually be worth trillions.</p>
 <p>Nov 23 · <a href="https://www.axios.com/pro/all-deals/2026/11/17/compute-pricing-startup-compute-desk-45-million-lightspeed">axios.com</a> | <a href="https://www.wsgr.com/en/insights/wilson-sonsini-advises-compute-desk-on-dollar45-million-financing-as-it-emerges-from-stealth.html">wsgr.com</a></p>
-<br clear="all" />
-
-<h2>Alecto Raises $20M Seed Funding for AI-Native UK Property Legal Services</h2>
-<p>Alecto Conveyancing Ltd. has raised $20 million in seed funding led by Insight Partners to provide AI-driven legal services for the United Kingdom's property market. The London-based firm aims to simplify the conveyancing process—the legal work required to buy and sell property—by using artificial intelligence to translate complex legal procedures into plain language for consumers.</p><p>Founded in September 2025 by serial entrepreneur Will Rice, Alecto seeks to disrupt the traditional billable-hour legal model in favor of an outcome-oriented service. The company targets a $3.3 billion UK conveyancing market and intends to become a market leader by 2027 by offering more transparent costs and providing property owners with greater control over their legal proceedings.</p>
-<p>Nov 23 · <a href="https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/">siliconangle.com</a> | <a href="https://alectolegal.com/">alectolegal.com</a></p>
 <br clear="all" />
 
 ---
