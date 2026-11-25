@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TechCrunch Equity Examines AI Data Center Construction Challenges for Neoclouds</h2>
+<a name="story-28566"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.digipowerx.com%2F_next%2Fimage%3Furl%3D%2Flayers%2Flayer-3.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>On an episode of TechCrunch’s Equity podcast, Arizona Land Consulting founder Anita Verma-Lallian discusses the growing challenges of building AI data centers, including land acquisition, power constraints, and rising debt costs. The discussion highlights how stricter financing conditions from Nvidia are pressuring neoclouds and increasing the risk of failure for speculative projects.</p><p>Nvidia's policy to backstop data centers only when they are nearly finished and backed by customer financing places heightened emphasis on securing land, power, and physical shells prior to capital deployment. The episode also explores potential industry shakeouts by 2027, community opposition, utility infrastructure funding, and the possibility that major AI labs and hyperscalers will increasingly construct their own facilities.</p>
+<p>Nov 25 · <a href="https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Flipkart CEO Kalyan Krishnamurthy to Step Down in December</h2>
 <p>Flipkart Chief Executive Officer Kalyan Krishnamurthy plans to leave his position on December 4 after leading India's largest online retailer for more than eleven years. Walmart, which owns a controlling stake in Flipkart, announced the upcoming departure and named Chief Technology Officer Balaji Thiagarajan as interim CEO.</p><p>Krishnamurthy played a central role in scaling Flipkart following Walmart's acquisition in 2018, overseeing substantial growth in its e-commerce operations. His exit coincides with ongoing discussions regarding the company's timeline for an initial public offering and broader strategic adjustments within Walmart's Indian retail footprint.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play">bloomberg.com</a> | <a href="https://corporate.walmart.com/news/2026/11/kalyan-krishnamurthy-to-leave-flipkart">corporate.walmart.com</a></p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28422"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.stripeassets.com%2Ffzn2n1nzq965%2F65JhC9vN60meeoFz6SdY1s%2F91be2811e1d397672c11c2cf8a83deb4%2FIMG_1171.png%3Fw%3D4000%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Stripe is currently engaged in discussions with investors regarding an employee share tender offer that would push its valuation past $200 billion. The potential transaction follows an earlier tender offer earlier in 2026 that valued the payments company at $159 billion.</p><p>The new deal is reportedly expected to conclude in early 2027. This upward trajectory highlights continued strong private-market demand for the financial technology firm's shares ahead of any potential public offering.</p>
 <p>Nov 24 · <a href="https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?st=LbwnEk&reflink=desktopwebshare_permalink">wsj.com</a></p>
-<br clear="all" />
-
-<h2>Uber, Nuro, and Lucid Begin Driverless Robotaxi Testing in Bay Area</h2>
-<a name="story-28416"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fnuro-begins-driverless-lucid-gravity-robotaxi-tests-in-bay-area.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Uber, Nuro, and Lucid have commenced fully driverless public road testing of their autonomous robotaxis in the San Francisco Bay Area, removing human safety operators from modified Lucid Gravity SUVs. The initial phase covers Palo Alto, Mountain View, Los Altos, and Sunnyvale, with employee-only rides expected soon and a public commercial launch slated for early 2027.</p><p>Powered by Nuro's Level 4 autonomous system, the vehicles integrate cameras, solid-state lidar, radar, and a roof-mounted LED halo indicator to display passenger information. This milestone follows nearly a year of supervised testing and positions the three-way partnership to compete with established rivals like Waymo and Zoox, backed by a long-term commitment from Uber to deploy tens of thousands of Lucid vehicles globally.</p>
-<p>Nov 24 · <a href="https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area">theverge.com</a> | <a href="https://www.stocktitan.net/news/LCID/nuro-lucid-and-uber-begin-driverless-testing-on-public-roads-in-the-8pkms2s2r4kx.html">stocktitan.net</a></p>
 <br clear="all" />
 
 ---
