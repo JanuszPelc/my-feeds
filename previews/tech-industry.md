@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Samsung and SK Hynix Adopt YMTC Chip-Stacking Technology</h2>
+<a name="story-28519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.3dnews.ru%2Fassets%2Fexternal%2Fillustrations%2F2025%2F05%2F09%2F1122563%2Fymtc-vytesnila-samsung-i-sk-hynix-s-patentnogo-rynka-pamyati-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Samsung Electronics and SK Hynix are adopting chip-stacking technology originally developed by China's Yangtze Memory Technologies Co. (YMTC). The move, executed through a cross-licensing agreement, indicates that YMTC has rapidly advanced its capabilities to match the technical standards of established global semiconductor leaders.</p><p>YMTC has built a robust intellectual property portfolio, filing more than 12,000 patents worldwide to support its memory chip operations. This development underscores the company's rise as a significant player in the semiconductor industry, demonstrating its ability to provide core technology to the world's top memory chipmakers.</p>
+<p>Nov 25 · <a href="https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology">asia.nikkei.com</a></p>
+<br clear="all" />
+
 <h2>Amazon to Launch Online Car Sales Platform in UK in 2027</h2>
 <a name="story-28517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpliki.dlahandlu.pl%2Fi%2F10%2F79%2F09%2F107909_r0_940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon plans to launch its "Amazon Autos" platform in the UK in early 2027, marking its first expansion of the service outside of the United States. The platform will offer a selection of new and used vehicles, modeled after the existing US infrastructure where Amazon provides cars from 35 different brands across more than 150 cities.</p><p>The UK launch comes as Chinese automotive brands gain significant traction in the British market. Amazon's official plans include Hyundai as its first UK brand partner, with Vertu Motors managing used car inventory, positioning the e-commerce giant to compete directly with traditional automotive retailers in the digital space.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28435"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FParentalControls-Newsroom-Header-HF-Entry__1_.webp%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pinterest has expanded its parental control features to allow parents to limit the amount of AI-generated content exposed to teen accounts. The new setting enables parents to restrict AI recommendations, joining a redesigned parental controls page that also includes options to manage video autoplay and notification volumes.</p><p>While several major social media platforms restrict teens' access to interactive features like chatbots or AI characters, few offer controls over the AI-generated content filling general feeds. Pinterest's update positions the platform among the first to address broader feed exposure through parental settings, responding to growing concerns from child advocacy groups regarding algorithmic and generative content consumption by minors.</p>
 <p>Nov 24 · <a href="https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/">techcrunch.com</a> | <a href="https://newsroom.pinterest.com/news/helping-families-navigate-controls-for-teens-on-pinterest/">newsroom.pinterest.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia CEO Jensen Huang Returns to Headquarters Following Reinstatement</h2>
-<a name="story-28366"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2219673294.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jensen Huang returned to Nvidia's headquarters to an applauding crowd of employees, following his reinstatement as chief executive officer. Huang had stepped down earlier in the month amid a series of scandals involving an alleged Chinese spy and workplace affairs, but returned to the role after community pushback and an intervention by President Donald Trump.</p><p>While supporters and prominent tech figures advocated heavily for his return, the reinstatement also follows recent reports detailing longstanding concerns over Huang's management style and workplace culture. During his appearance at headquarters, Huang addressed employees and pledged to be a better leader.</p>
-<p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
 <br clear="all" />
 
 ---
