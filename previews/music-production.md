@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>GForce Software Offers Prophet-5 Plugin at Discount for Black Friday</h2>
+<a name="story-28534"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FProphet-5-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>GForce Software's official, Sequential-approved Prophet-5 software recreation is currently available at a 33% discount through Plugin Boutique until December 1. The plugin models all three hardware revisions of the 1978 analog synthesizer, incorporating both the SSM chip designs of the Rev1 and Rev2 and the Curtis filter of the Rev3.</p><p>Alongside the 38 original factory presets, the software includes more than 420 modern patches, a tagged browser, dual-layer capabilities, and an X-Modifiers section allowing individual parameters to feature their own envelopes and LFOs. It also features built-in effects, arpeggiators, chord modes, and full MPE support for expressive hardware controllers.</p>
+<p>Nov 25 · <a href="https://musictech.com/news/gear/this-official-prophet-5-plugin-is-just-70-for-black-friday/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/17444-Prophet-5">pluginboutique.com</a></p>
+<br clear="all" />
+
 <h2>MusicTech Favorite Music Plugins and Software of 2026</h2>
 <p>MusicTech editors have curated a selection of their preferred music production plugins and software from 2026. The list includes Oeksound Soothe3 for resonance suppression, Thephonoloop Outlines for granular textures, and Native Instruments’ SuperStarSaw synth, a collaboration with A.G. Cook. Other featured tools include Tamber’s AI-adjacent suite, XLN Audio’s RC-20 Retro Color v2, Arturia’s Memory V synth, and DropLab DJ mixing software.</p><p>The roundup highlights a diverse range of technical applications, from vintage synth modernizations and lo-fi processing to non-destructive DJ workflows and functional AI-assisted tools. Editors note that while the market is saturated with AI-generated "vibecoded" plugins, these specific selections stand out for their unique workflows, refined algorithms, and practical creative utility.</p>
 <p>Nov 25 · <a href="https://musictech.com/guides/buyers-guide/musictech-favourite-plugins-of-2026/">musictech.com</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28432"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FUJAM-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UJAM is offering its Virtual Pianist VIBE electric piano plugin for £8 on Plugin Boutique until December 9, a reduction from its standard price of £113. The plugin is based on a 1972 vintage electric piano and features a "Player" mode with 40 styles that allow users to trigger phrases and harmonies with a single finger.</p><p>The software includes over 150 presets along with 45 Finisher and 45 Ambience FX modes designed for genres like neo-soul and hip-hop. It is compatible with VST 2 and AU formats for Mac and Windows, and UJAM provides a 30-day free demo for evaluation.</p>
 <p>Nov 24 · <a href="https://musictech.com/news/gear/get-ujams-virtual-pianist-vibe-for-just-8-this-black-friday-down-from-113/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10074-Virtual-Pianist-VIBE">pluginboutique.com</a></p>
-<br clear="all" />
-
-<h2>Sound Radix Releases Radical Bundle 5, POWAIR 2, and MuteØmatic Studio</h2>
-<a name="story-28428"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Frb5-insta-01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sound Radix has released Radical Bundle 5, incorporating three new additions: the modular additive synthesizer Radical1, the updated loudness dynamics processor POWAIR 2, and the DAW talkback and cue system MuteØmatic Studio. These products join existing tools like Auto-Align 2, Drum Leveler, SurferEQ 2, and Pi to form a seven-piece plugin collection.</p><p>POWAIR 2 introduces a Delta Duck feature for maintaining target loudness differences between music and vocals, alongside 26 loudness delivery targets and a zero-latency live mode. Concurrently, the company launched a storewide sale offering a 25 percent discount on products through December 7, while POWAIR 2, MuteØmatic Studio, and Radical1 are available at early-access pricing.</p>
-<p>Nov 24 · <a href="https://www.kvraudio.com/news/sound-radix-releases-radical-bundle-5-powair-2-and-muteomatic-studio-and-launches-the-radical-sale-70128?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70128">kvraudio.com</a> | <a href="https://www.soundradix.com/products/radical-bundle/">soundradix.com</a></p>
 <br clear="all" />
 
 ---

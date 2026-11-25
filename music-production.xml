@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-25T09:49:00+00:00</updated>
+  <updated>2026-11-25T11:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>GForce Software Offers Prophet-5 Plugin at Discount for Black Friday</title>
+    <link href="https://musictech.com/news/gear/this-official-prophet-5-plugin-is-just-70-for-black-friday/" rel="alternate" />
+    <id>https://musictech.com/news/gear/this-official-prophet-5-plugin-is-just-70-for-black-friday/::v241</id>
+    <published>2026-11-25T11:07:00+00:00</published>
+    <updated>2026-11-25T11:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FProphet-5-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/this-official-prophet-5-plugin-is-just-70-for-black-friday/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/17444-Prophet-5">pluginboutique.com</a></small></p><hr/><p>GForce Software's official, Sequential-approved Prophet-5 software recreation is currently available at a 33% discount through Plugin Boutique until December 1. The plugin models all three hardware revisions of the 1978 analog synthesizer, incorporating both the SSM chip designs of the Rev1 and Rev2 and the Curtis filter of the Rev3.</p><p>Alongside the 38 original factory presets, the software includes more than 420 modern patches, a tagged browser, dual-layer capabilities, and an X-Modifiers section allowing individual parameters to feature their own envelopes and LFOs. It also features built-in effects, arpeggiators, chord modes, and full MPE support for expressive hardware controllers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FProphet-5-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 16:17 UTC | #28534</small>]]></content>
+  </entry>
   <entry>
     <title>MusicTech Favorite Music Plugins and Software of 2026</title>
     <link href="https://musictech.com/guides/buyers-guide/musictech-favourite-plugins-of-2026/" rel="alternate" />
