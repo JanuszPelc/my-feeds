@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>2Rule Releases TugGlicento v4.0 Glitch and Multi-Effect Plugin</h2>
+<p>Developer 2Rule has released version 4.0 of TugGlicento, a glitch and multi-effect audio plugin that divides incoming audio into five independent processing lines, each featuring a resonant filter, step sequencer, and selectable effect.</p><p>The update rebuilds the sequencer to synchronize with the host's timeline, introduces hardware-style per-step editing, adds new resonator and modal effects, and provides a resizable interface with support for Linux VST3. TugGlicento 4.0 is available as donationware for Windows, macOS, and Linux.</p>
+<p>Nov 25 · <a href="https://www.kvraudio.com/news/2rule-releases-tugglicento-glitch-and-multi-effect-plugin-v4-0-70158?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70158">kvraudio.com</a> | <a href="https://tugrulakyuz.gumroad.com/l/jpzjej">tugrulakyuz.gumroad.com</a></p>
+<br clear="all" />
+
 <h2>Goodhertz Releases Tupe Wow and Tupe v3.15 Update</h2>
 <a name="story-28526"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgoodhertz-tupe-wow-3-15-full-en-dark-page2_shadow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Goodhertz has launched Tupe Wow, a plugin that integrates tube saturation, tape emulation, and wow and flutter effects into a single unit. Alongside this release, the company issued a version 3.15 update for its Tupe plugin, which introduces four new tape models—8 Track Hi, 8 Track Med, 8 Track Lo, and C90 Toy—as a free update for existing owners.</p><p>The new Tupe Wow plugin is available at no extra cost to users who already own both Tupe and Wow Control. The v3.15 update also adds "Output Gain Position" and "AC Power Frequency" controls, expands preset libraries for multiple plugins including VCME and Trem Control, and provides technical refinements to improve audio performance and stability.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28426"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FSSL-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Solid State Logic is offering a free UF8 DAW controller, valued at $1,299.99, with the purchase of the Origin EVO 32 Analog Recording Console, which retails for $74,999. This Black Friday promotion targets studios looking to upgrade their recording quality and functionality while maintaining a seamless bridge between native software operations and high-end hardware.</p><p>The UF8 controller features eight motorized faders, nine push/push rotary encoders, and eight high-resolution LCD TFT displays, providing tactile control for major DAWs including Pro Tools, Logic Pro X, Cubase, Nuendo, Studio One, Ableton Live, LUNA, and Pyramix. The Origin EVO 32 console utilizes a dual-path in-line architecture and includes the Evo channel strip, designed to mirror the functionality of classic SSL consoles while accommodating modern production workflows.</p>
 <p>Nov 24 · <a href="https://musictech.com/news/gear/right-now-you-can-get-a-high-end-daw-controller-worth-1300-absolutely-free-but-youll-have-to-spend-75000-first/">musictech.com</a> | <a href="https://solidstatelogic.com/media/namm-26-solid-state-logic-launches-origin-evo">solidstatelogic.com</a></p>
-<br clear="all" />
-
-<h2>n-Track Studio 11 Released with AI Assistant and VocalTune 2.0</h2>
-<a name="story-28425"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fkvr_n-track-studio-11_1200x675_border.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>n-Track Studio has released version 11 of its digital audio workstation, introducing an in-song AI Assistant, VocalTune 2.0 with note-by-note pitch editing, and Spectral Edit for frequency-based noise removal.</p><p>The update also adds a Drawbar organ with Swirl rotary speaker, a Glitch effect, redesigned multiband compression and graphic EQ tools, a refreshed interface, and ARA plugin support. It is available for Windows, macOS, Linux, iOS, and Android across standard, extended, and suite licensing tiers.</p>
-<p>Nov 24 · <a href="https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70122">kvraudio.com</a> | <a href="https://www.ntrack.com/digital-audio-workstation.php">ntrack.com</a></p>
 <br clear="all" />
 
 ---
