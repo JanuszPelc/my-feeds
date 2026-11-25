@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-25T13:12:00+00:00</updated>
+  <updated>2026-11-25T13:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Soundroll Releases Fuzz Free Fuzz Plugin for macOS</title>
+    <link href="https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/::v241</id>
+    <published>2026-11-25T13:31:00+00:00</published>
+    <updated>2026-11-25T13:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmodernmusicsolutions.com%2Fcdn%2Fshop%2Ffiles%2FCubase-TheFuzz.webp%3Fv%3D1719939463%26width%3D2196&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/">bedroomproducersblog.com</a> | <a href="https://store.soundroll.com/fuzz/">store.soundroll.com</a></small></p><hr/><p>Soundroll has released Soundroll Fuzz, a free fuzz effect plugin for macOS featuring Germanium, Silicon, and Tube distortion circuits. The plugin includes separate input and output equalization sections with low and high shelves and mid bell controls, alongside a built-in noise gate and parallel mix blending.</p><p>Additional features include 4× oversampling, auto gain matching, and a resizable interface with direct numerical entry for parameter values. The software is available as a direct download in VST3 and AU formats for macOS 11 Big Sur and later, running natively on both Apple Silicon and Intel processors without requiring an account or user registration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmodernmusicsolutions.com%2Fcdn%2Fshop%2Ffiles%2FCubase-TheFuzz.webp%3Fv%3D1719939463%26width%3D2196&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 18:32 UTC | #28564</small>]]></content>
+  </entry>
   <entry>
     <title>Yamaha HS3 Studio Monitors Discounted at Sweetwater</title>
     <link href="https://musictech.com/news/gear/yamaha-hs3-black-friday-deal-sweetwater/" rel="alternate" />
