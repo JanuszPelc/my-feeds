@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Stefano Marinelli Examines BSD and Alternative Operating Systems at Linux Day 2026</h2>
+<a name="story-28505"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Frunning-different-linux-distros-on-the-same-desktop.png%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Systems administrator Stefano Marinelli delivered a talk at Linux Day 2026 in Modena exploring the broader open source ecosystem beyond Linux, highlighting alternative operating systems like the BSD family and illumos. He reflected on the history of free software, the evolution of the Linux community, and the importance of preserving software portability and freedom of choice.</p><p>Marinelli discussed the distinct architectures and philosophies of FreeBSD, OpenBSD, and NetBSD, emphasizing that open source monoculture risks steering development toward the needs of corporate backers rather than ordinary users. He argued for evaluating tools based on specific problem-solving merits rather than defaulting to mainstream choices.</p>
+<p>Nov 24 · <a href="https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/">it-notes.dragas.net</a> | <a href="https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source">lobsters</a></p>
+<br clear="all" />
+
 <h2>Naoya Yamashita Identifies 17 Unreported Bugs in Clojure Core Using Lean 4</h2>
 <a name="story-28498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.conao3.com%2Fimg%2Fe4f733-mask.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Naoya Yamashita used Lean 4 formal verification and differential testing to analyze Clojure 1.12.7's core library, uncovering 17 previously unreported bugs. The discovered issues affect numeric operations, collection boundaries, and Java interoperability.</p><p>Notable findings include an infinite loop during reductions on large vector-of collections, a hash collision handling defect in persistent hash maps, and inconsistent behavior in Java functional interface adaptations depending on type hints.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28315"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FAFK-surf%2Fxnulinux%2Fraw%2Fmain%2Fdocs%2Fimages%2Fmacos-and-linux.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Xnulinux is a project that builds Apple's open-source XNU kernel and runs it as a loadable kernel module inside an unmodified arm64 Linux kernel. By allowing XNU to drive the CPU and memory directly via a foreign kernel interface module, macOS userspace applications run natively alongside Linux processes without a traditional hypervisor.</p><p>Running on an Apple Silicon Mac within an arm64 Linux virtual machine, the system boots a macOS system disk to a functional desktop environment with working applications, networking, and GPU acceleration. The repository separates components by license, utilizing an APSL-2.0 kernel module for XNU and a GPL-2.0 interface module for Linux integration.</p>
 <p>Nov 23 · <a href="https://github.com/AFK-surf/xnulinux">github.com</a> | <a href="https://news.ycombinator.com/item?id=50607261">hacker news</a></p>
-<br clear="all" />
-
-<h2>GitHub Actions Accepts Invalid YAML Workflow Definitions</h2>
-<a name="story-28285"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.freecodecamp.org%2Fportuguese%2Fnews%2Fcontent%2Fimages%2F2024%2F09%2Fgithub-webpage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>GitHub Actions accepts certain workflow definitions containing invalid YAML that fail strict conformance checks by standard parsers. Specifically, multiline flow-style strings nested inside block collections can have closing braces improperly indented relative to their parent keys, violating section 8.2.3 of the YAML specification.</p><p>The issue surfaced during work on the zizmor security scanner when analyzing real-world GitHub Actions workflows that standard tooling rejected. The underlying parser used by GitHub Actions appears to be an older version of YamlDotNet, which continues to exhibit this behavior due to parser limitations handling quoted and unquoted flow nodes.</p>
-<p>Nov 22 · <a href="https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/">yossarian.net</a> | <a href="https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml">lobsters</a></p>
 <br clear="all" />
 
 ---

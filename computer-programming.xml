@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-24T20:13:00+00:00</updated>
+  <updated>2026-11-24T22:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Stefano Marinelli Examines BSD and Alternative Operating Systems at Linux Day 2026</title>
+    <link href="https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/" rel="alternate" />
+    <id>https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/::v241</id>
+    <published>2026-11-24T22:32:00+00:00</published>
+    <updated>2026-11-24T22:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Frunning-different-linux-distros-on-the-same-desktop.png%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/">it-notes.dragas.net</a> | <a href="https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source">lobsters</a></small></p><hr/><p>Systems administrator Stefano Marinelli delivered a talk at Linux Day 2026 in Modena exploring the broader open source ecosystem beyond Linux, highlighting alternative operating systems like the BSD family and illumos. He reflected on the history of free software, the evolution of the Linux community, and the importance of preserving software portability and freedom of choice.</p><p>Marinelli discussed the distinct architectures and philosophies of FreeBSD, OpenBSD, and NetBSD, emphasizing that open source monoculture risks steering development toward the needs of corporate backers rather than ordinary users. He argued for evaluating tools based on specific problem-solving merits rather than defaulting to mainstream choices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Frunning-different-linux-distros-on-the-same-desktop.png%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 03:46 UTC | #28505</small>]]></content>
+  </entry>
   <entry>
     <title>Naoya Yamashita Identifies 17 Unreported Bugs in Clojure Core Using Lean 4</title>
     <link href="https://s.conao3.com/blog/2026/e4f733" rel="alternate" />
