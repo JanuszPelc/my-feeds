@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Nvidia&#x27;s GPU Technology and the Rise of AI Chips</h2>
+<a name="story-28470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fp1.toutiaoimg.com%2Forigin%2Ftos-cn-i-qvj2lq49k0%2F13b24cf8582e4c6792a8207454bf20bb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Artificial intelligence chips, primarily graphics processing units (GPUs), are specialized processors designed to handle the massive parallel mathematical operations required to train and run neural networks. Unlike central processing units (CPUs) that execute complex tasks sequentially, GPUs process enormous grids of numbers simultaneously, making them essential for modern generative AI models and large-scale data centers.</p><p>Nvidia established its market dominance through early developments in parallel computing software such as CUDA, alongside historical milestones like the 2012 ImageNet breakthrough that demonstrated the viability of GPUs for neural networks. While the company currently supplies the hardware driving the global AI boom, it faces growing competition from rival chipmakers, cloud providers, and manufacturing constraints at key suppliers like TSMC.</p>
+<p>Nov 24 · <a href="https://theconversation.com/what-are-ai-chips-and-whats-so-special-about-nvidias-297128">theconversation.com</a></p>
+<br clear="all" />
+
 <h2>Anthropic Shares Fall Below $83 IPO Price Amid Fading Debut Rally</h2>
 <a name="story-28423"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hQkR5.img%3Fw%3D1920%26h%3D1080%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic shares dropped 6.54% to close at $81.91, falling below their $83 initial public offering price as the post-debut market rally unraveled. The decline marked a reversal from the initial momentum following the artificial intelligence company's stock market entry.</p><p>Regulatory filings show that co-founders Dario and Daniela Amodei each sold more than 3.37 million shares valued at over $280 million to the IPO's underwriters. The stock's slip below its offering price reflects shifting market conditions and investor demand for major artificial intelligence listings.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Amazon Employee Group AECJ Challenges Company&#x27;s Data Center Expansion and AI Strategy</h2>
 <p>Amazon employee group AECJ, boasting over 1,000 members, is increasing its efforts to slow down Amazon's rapid data center expansion and provoke discussions regarding artificial intelligence use. The group's members have raised concerns and testified at local council hearings regarding the environmental, job, and societal impacts of these technological rollouts.</p><p>This internal pushback highlights growing tensions within major tech companies over the pace of AI infrastructure development and resource consumption. The employee activism reflects broader public scrutiny facing tech giants as they scale up energy-intensive data centers to support new AI workloads.</p>
 <p>Nov 23 · <a href="https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80">ft.com</a></p>
-<br clear="all" />
-
-<h2>Ant Group Leads $100M Pre-Series A for Simplexity Robotics</h2>
-<a name="story-28292"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.i-scmp.com%2Fcdn-cgi%2Fimage%2Ffit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto%2Fsites%2Fdefault%2Ffiles%2Fd8%2Fimages%2Fcanvas%2F2025%2F02%2F20%2F7d39679d-40da-4290-8aea-cbb4c1afbeab_b3ee84ec.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Chinese physical AI startup Simplexity Robotics raised $100 million in a pre-Series A funding round led by Ant Group. The investment round, which also included participation from Alibaba and Tencent, valued the company at $1.6 billion.</p><p>The funding highlights a strategic move by China's largest technology conglomerates to secure a foothold in the humanoid robot and embodied intelligence markets. Simplexity is emerging as a significant contender in the physical AI race, utilizing the capital to accelerate the development and large-scale application of robotic technologies.</p>
-<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
