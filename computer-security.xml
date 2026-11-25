@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-25T01:40:00+00:00</updated>
+  <updated>2026-11-25T15:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Intruder Research Details AWS Elastic IP Subdomain Takeovers on US Treasury Domains</title>
+    <link href="https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each" rel="alternate" />
+    <id>https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each::v241</id>
+    <published>2026-11-25T15:44:00+00:00</published>
+    <updated>2026-11-25T15:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F61dd9339d05701829d0b3241%2F6afd71baeea85841a881f58f_4c5e532b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each">intruder.io</a> | <a href="https://lobste.rs/s/ogxwpi/taking_over_us_treasury_subdomains_for_3">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50638478">hacker news</a></small></p><hr/><p>Researchers at security firm Intruder demonstrated an automated technique for claiming dangling AWS Elastic IP addresses to hijack subdomains, identifying 28 live takeovers over a 48-hour period. The findings included five subdomains belonging to the US Treasury, alongside targets from other government bodies, universities, and corporate bug bounty programs.</p><p>The attack involves repeatedly allocating and releasing Elastic IPs across AWS regions to match dangling DNS records at a cost of about $3 per valid takeover. Although Amazon flagged and restricted the initial testing account for rapid allocation, researchers bypassed the restriction by transferring the claimed IPs to a new account within the same organization, and AWS ultimately stated it has no plans to alter its controls.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F61dd9339d05701829d0b3241%2F6afd71baeea85841a881f58f_4c5e532b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 20:57 UTC | #28589</small>]]></content>
+  </entry>
   <entry>
     <title>FinCEN Discloses Cybersecurity Incident Involving Unauthorized System Access</title>
     <link href="https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident" rel="alternate" />
