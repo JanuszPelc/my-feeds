@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-25T11:29:00+00:00</updated>
+  <updated>2026-11-25T13:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Yamaha HS3 Studio Monitors Discounted at Sweetwater</title>
+    <link href="https://musictech.com/news/gear/yamaha-hs3-black-friday-deal-sweetwater/" rel="alternate" />
+    <id>https://musictech.com/news/gear/yamaha-hs3-black-friday-deal-sweetwater/::v241</id>
+    <published>2026-11-25T13:12:00+00:00</published>
+    <updated>2026-11-25T13:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHS3-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/yamaha-hs3-black-friday-deal-sweetwater/">musictech.com</a> | <a href="https://www.sweetwater.com/store/detail/HS3B--yamaha-hs3-3.5-inch-powered-studio-monitor-black/reviews">sweetwater.com</a></small></p><hr/><p>Sweetwater is offering a pair of Yamaha HS3 studio monitors for $172 this Black Friday, reduced from the original price of $229. These compact, powered 2-way monitors are engineered for small studio setups and utilize a bi-amplified, bass-reflex design.</p><p>The monitors feature a 3.5-inch cone woofer and a 0.75-inch dome tweeter with a frequency response of 70Hz to 22kHz. Integrated Room Control and High Trim switches allow for acoustic customization in small spaces, while the package includes a 1.5m mini-to-RCA cable and a 2.5m speaker cable.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHS3-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 18:20 UTC | #28548</small>]]></content>
+  </entry>
   <entry>
     <title>Valhalla DSP Releases ValhallaSupermassive v6.0 Free VST</title>
     <link href="https://www.kvraudio.com/news/valhalla-dsp-releases-valhallasupermassive-v6-0-free-vst-au-and-aax-70160?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70160" rel="alternate" />
