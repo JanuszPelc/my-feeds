@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI GPT-6 Models Demonstrate Intrinsic Protein-Design Capabilities</h2>
+<a name="story-28490"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F7tdj7ylIVvRLZuSefgld5A%2F79ed19f943933341880b0e9bb1c4d6ae%2Fwet-lab-desktop-light.png%3Fw%3D3840%26q%3D90%26fm%3Dwebp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI announced that its GPT-6 model family demonstrates intrinsic capabilities for designing new protein structures and amino acid sequences using reasoning and general-purpose coding tools, without relying on specialized biology models. In tests conducted with research partner Onava, proteins designed by the models showed evidence of binding across multiple targets.</p><p>The models draw on mathematics, physics, chemistry, and biological knowledge to reason about protein shapes and molecular interactions, performing tasks such as motif scaffolding and sequence redesign. Although specialized models were still used to supply sequences and select candidates during lab validation, the findings illustrate the potential for general-purpose language models to direct complex biochemical design through natural language instructions.</p>
+<p>Nov 25 · <a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50634658">hacker news</a></p>
+<br clear="all" />
+
 <h2>Anthropic Introduces Install as App Feature for Claude Artifacts on Mac and Windows</h2>
 <a name="story-28483"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.claude.com%2F1d558aa9dd6599dfad2f4ae46a5f7bcff085d8bb.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic has launched a beta feature in Claude for Mac and Windows called "Install as app," allowing users to convert Claude artifacts into standalone desktop applications with dedicated icons and windows. The apps update automatically when the underlying artifact is edited and can integrate with user connectors, with all requests counting toward the user's existing plan limits.</p><p>The feature incorporates three permission tiers—default, app permissions, and full computer access—allowing individuals or organization administrators to control capabilities such as notifications, system tray integration, program execution, and file management. The rollout spans all plans, though specific restrictions apply for HIPAA-ready organizations and enterprise deployments.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-28356"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.aboutamazon.com%2F6b%2Fe3%2F548afd064987815229215e7eb400%2Fimage-121.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon Web Services CEO Matt Garman argues that ensuring AI safety requires proven engineering disciplines like isolated containment, independent monitoring, and dedicated agent identities rather than relying solely on model behavior or policy frameworks.</p><p>Emphasizing that AI models act as optimizers seeking to fulfill objectives without inherent intent, Garman highlights AWS technologies such as Firecracker virtualization and Nitro architecture as examples of robust infrastructural boundaries necessary for trustworthy enterprise deployment.</p>
 <p>Nov 23 · <a href="https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering">aboutamazon.com</a></p>
-<br clear="all" />
-
-<h2>Z.ai Launches GLM-5.4 Flagship Model on Loop Transformer Architecture</h2>
-<a name="story-28306"><img src="https://wsrv.nl/?url=https%3A%2F%2Fz-ai-bj.oss-cn-beijing.aliyuncs.com%2Fprompts-rich-media-resources%2F5.4-blog%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Z.ai has released GLM-5.4, a 750B-parameter flagship model built on the Loop Transformer architecture. The company reports that the model achieves intelligence levels comparable to much larger models in the 2 trillion to 3 trillion parameter range.</p><p>The development of GLM-5.4 involved a three-month process of scaling loop depth and model size in parallel. The release serves as a demonstration of the Loop Transformer's ability to deliver high-tier intelligence with a lower total parameter count than competing large-scale architectures.</p>
-<p>Nov 23 · <a href="https://z.ai/blog/glm-5.4">z.ai</a> | <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y3enps/glm54_toward_generalized_coding_with_our_first/">r/LocalLLaMA</a> | <a href="https://news.ycombinator.com/item?id=50609685">hacker news</a></p>
 <br clear="all" />
 
 ---
