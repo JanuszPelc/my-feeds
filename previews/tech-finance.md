@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Maple Raises $5.3M Seed Funding for Privacy-Focused AI Products</h2>
+<a name="story-28474"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.teradata.com%2Fgetmedia%2F2f13baf3-af94-4717-aabd-652f9d9f4ceb%2FPrivate_AI_Architecture_V2.png%3Fwidth%3D1052%26height%3D583&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Privacy-focused AI startup Maple has raised $5.3 million in a seed funding round led by EPIC Ventures, with participation from Draper Associates, Planetary VC, and Epoch VC. The company develops AI applications that utilize hardware-based Trusted Execution Environments and user-managed encryption keys to ensure customer data remains inaccessible even to the company itself.</p><p>Following the release of its mobile chat and desktop agent apps, Maple plans to use the new capital to build a cloud-based agent that operates continuously while maintaining strict data privacy. The startup is currently pursuing SOC 2 compliance in preparation for an upcoming push into the enterprise market.</p>
+<p>Nov 24 · <a href="https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/">techcrunch.com</a></p>
+<br clear="all" />
+
 <h2>Nvidia Shares Fall Following Jensen Huang&#x27;s Reinstatement Rally</h2>
 <a name="story-28427"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffotografias-2.larazon.es%2Fclipping%2Fcmsimages01%2F2025%2F07%2F21%2F4FFCB0CB-FD70-4869-8E6A-5941E1F208FF%2Fjensen-huang-ceo-nvidia_98.jpg%3Fcrop%3D1500%2C844%2Cx0%2Cy80%26width%3D1900%26height%3D1069%26optimize%3Dlow%26format%3Dwebply&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia shares dropped over 5% in Tuesday trading, paring gains from a major rally sparked by the reinstatement of Jensen Huang as chief executive officer. Huang returned to the role just weeks after resigning following disclosures regarding an extramarital affair, a decision facilitated by discussions with the company's board and the Trump administration.</p><p>Despite Wall Street analysts upgrading ratings to restore confidence in the artificial intelligence sector, the chipmaker continues to face intense political and regulatory scrutiny. Huang is scheduled to testify before congressional committees regarding U.S. export controls and compliance issues concerning Chinese markets.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28277"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fblog-media%2Fposts%2F4d9e0b94-625%2Fai-agents-in-finance-reconciliation-risk-monitoring-compliance-and-fraud-detecti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Arva AI has raised $20 million in a Series A funding round to support its development of artificial intelligence agents designed to automate financial-crime compliance reviews for banks. The company builds specialized tools aimed at helping financial institutions handle time-consuming compliance tasks without missing suspicious activity.</p><p>The fresh capital will be directed toward expanding the company's bank-facing capabilities, supporting its research division, and scaling its operations into areas such as payment operations, disputes, and lending. The round highlights ongoing investor interest in specialized regulatory technology designed to streamline risk management workflows in the banking sector.</p>
 <p>Nov 23 · <a href="https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance">axios.com</a></p>
-<br clear="all" />
-
-<h2>TPG and Corpay to Acquire BILL Holdings in $6 Billion Take-Private Deal</h2>
-<a name="story-28274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fflagshipadvisorypartners.com%2Fwp-content%2Fuploads%2F2026%2F03%2FSlide2-May-09-2025-05-03-06-3524-PM-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Private equity firm TPG and corporate payments company Corpay have agreed to acquire financial automation software provider BILL Holdings in a take-private transaction valued at approximately $6 billion. Under the terms of the agreement, BILL shareholders will receive $63.25 per share in cash.</p><p>Founder René Lacerte will remain as CEO of the company following the completion of the buyout. The transaction is expected to close in the first half of 2027, pending customary regulatory approvals and closing conditions.</p>
-<p>Nov 23 · <a href="https://www.reuters.com/legal/transactional/bill-holdings-be-taken-private-by-tpg-6-billion-equity-value-2026-11-19/">reuters.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/0001786352/000119312526469396/d176726dex991.htm">sec.gov</a></p>
 <br clear="all" />
 
 ---

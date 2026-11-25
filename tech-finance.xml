@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-24T20:12:00+00:00</updated>
+  <updated>2026-11-24T21:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Maple Raises $5.3M Seed Funding for Privacy-Focused AI Products</title>
+    <link href="https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/::v241</id>
+    <published>2026-11-24T21:20:00+00:00</published>
+    <updated>2026-11-24T21:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.teradata.com%2Fgetmedia%2F2f13baf3-af94-4717-aabd-652f9d9f4ceb%2FPrivate_AI_Architecture_V2.png%3Fwidth%3D1052%26height%3D583&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/">techcrunch.com</a></small></p><hr/><p>Privacy-focused AI startup Maple has raised $5.3 million in a seed funding round led by EPIC Ventures, with participation from Draper Associates, Planetary VC, and Epoch VC. The company develops AI applications that utilize hardware-based Trusted Execution Environments and user-managed encryption keys to ensure customer data remains inaccessible even to the company itself.</p><p>Following the release of its mobile chat and desktop agent apps, Maple plans to use the new capital to build a cloud-based agent that operates continuously while maintaining strict data privacy. The startup is currently pursuing SOC 2 compliance in preparation for an upcoming push into the enterprise market.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.teradata.com%2Fgetmedia%2F2f13baf3-af94-4717-aabd-652f9d9f4ceb%2FPrivate_AI_Architecture_V2.png%3Fwidth%3D1052%26height%3D583&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 02:30 UTC | #28474</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Shares Fall Following Jensen Huang's Reinstatement Rally</title>
     <link href="https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html" rel="alternate" />
