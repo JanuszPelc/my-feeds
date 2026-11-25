@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Flipkart CEO Kalyan Krishnamurthy to Step Down in December</h2>
+<p>Flipkart Chief Executive Officer Kalyan Krishnamurthy plans to leave his position on December 4 after leading India's largest online retailer for more than eleven years. Walmart, which owns a controlling stake in Flipkart, announced the upcoming departure and named Chief Technology Officer Balaji Thiagarajan as interim CEO.</p><p>Krishnamurthy played a central role in scaling Flipkart following Walmart's acquisition in 2018, overseeing substantial growth in its e-commerce operations. His exit coincides with ongoing discussions regarding the company's timeline for an initial public offering and broader strategic adjustments within Walmart's Indian retail footprint.</p>
+<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play">bloomberg.com</a> | <a href="https://corporate.walmart.com/news/2026/11/kalyan-krishnamurthy-to-leave-flipkart">corporate.walmart.com</a></p>
+<br clear="all" />
+
 <h2>Amazon and Meta in Talks to Lift Blockade on Muse AI Agent</h2>
 <a name="story-28556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapnaran.com%2Fwp-content%2Fuploads%2F2023%2F02%2FAmazon.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon and Meta are reportedly negotiating a deal that would allow Meta’s Muse AI agent to connect directly to Amazon’s marketplace. This move would reverse a blockade established in September 2026 that prevented Muse users from making purchases on Amazon.com.</p><p>The discussions currently center on how search results and advertising will be presented under the potential agreement. Amazon remains concerned that third-party shopping agents could impact its advertising revenue and direct consumer relationships, and any final deal will require approval from both companies' CEOs.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28416"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fnuro-begins-driverless-lucid-gravity-robotaxi-tests-in-bay-area.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Uber, Nuro, and Lucid have commenced fully driverless public road testing of their autonomous robotaxis in the San Francisco Bay Area, removing human safety operators from modified Lucid Gravity SUVs. The initial phase covers Palo Alto, Mountain View, Los Altos, and Sunnyvale, with employee-only rides expected soon and a public commercial launch slated for early 2027.</p><p>Powered by Nuro's Level 4 autonomous system, the vehicles integrate cameras, solid-state lidar, radar, and a roof-mounted LED halo indicator to display passenger information. This milestone follows nearly a year of supervised testing and positions the three-way partnership to compete with established rivals like Waymo and Zoox, backed by a long-term commitment from Uber to deploy tens of thousands of Lucid vehicles globally.</p>
 <p>Nov 24 · <a href="https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area">theverge.com</a> | <a href="https://www.stocktitan.net/news/LCID/nuro-lucid-and-uber-begin-driverless-testing-on-public-roads-in-the-8pkms2s2r4kx.html">stocktitan.net</a></p>
-<br clear="all" />
-
-<h2>Meta Integrates Muse AI Assistant Into Instagram DMs</h2>
-<a name="story-28442"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2F1080x1080_Black.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta has integrated its Muse AI assistant directly into Instagram direct messages, allowing users to chat with the agent within a DM thread to get context on posts, places, or products. The integration removes the need to switch between apps and enables users to share content with Muse to perform tasks like planning itineraries or finding deals.</p><p>Alongside the DM integration, the update allows users in select regions to have Muse organize their saved Instagram posts and reels into custom collections, such as turning a recipe video into a grocery list. The features are rolling out on iOS and Android for users in the United States, Canada, Mexico, Japan, and Singapore.</p>
-<p>Nov 24 · <a href="https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
