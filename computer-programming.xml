@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-25T17:55:00+00:00</updated>
+  <updated>2026-11-25T18:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Servo 0.8.0 Released with Video Captions and Inert Content Support</title>
+    <link href="https://servo.org/blog/2026/11/25/october-in-servo/" rel="alternate" />
+    <id>https://servo.org/blog/2026/11/25/october-in-servo/::v241</id>
+    <published>2026-11-25T18:15:00+00:00</published>
+    <updated>2026-11-25T18:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fservo.org%2Fimg%2Fblog%2F2026-11-gary.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://servo.org/blog/2026/11/25/october-in-servo/">servo.org</a> | <a href="https://lobste.rs/s/tf9ldm/october_servo_video_captions_inert">lobsters</a></small></p><hr/><p>The Servo Project has released Servo 0.8.0, incorporating 588 commits that introduce video subtitle and caption rendering, inert content trees, and several new CSS and DOM features. Major additions include the progress() CSS function, input type=image support, and extended WebAudio and XMLHTTPRequest capabilities.</p><p>Additional updates improve real-world compatibility, such as resolving a performance issue with Flutter web applications. The release also brings progress on WebGL2, WebGPU buffer handling, accessibility roles, and completes the Android Compose embedding API migration while delivering rendering optimizations for pinch zooming and layout restyling.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fservo.org%2Fimg%2Fblog%2F2026-11-gary.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 23:32 UTC | #28599</small>]]></content>
+  </entry>
   <entry>
     <title>Jdonszelmann Details Optimization of Rustc's Next Trait Solver</title>
     <link href="https://donsz.nl/blog/optimizing-rustcs-next-trait-solver" rel="alternate" />
