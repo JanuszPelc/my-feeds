@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-25T11:07:00+00:00</updated>
+  <updated>2026-11-25T11:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Valhalla DSP Releases ValhallaSupermassive v6.0 Free VST</title>
+    <link href="https://www.kvraudio.com/news/valhalla-dsp-releases-valhallasupermassive-v6-0-free-vst-au-and-aax-70160?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70160" rel="alternate" />
+    <id>https://www.kvraudio.com/news/valhalla-dsp-releases-valhallasupermassive-v6-0-free-vst-au-and-aax-70160?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70160::v241</id>
+    <published>2026-11-25T11:29:00+00:00</published>
+    <updated>2026-11-25T11:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvahallasupermassive_6_0_0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/valhalla-dsp-releases-valhallasupermassive-v6-0-free-vst-au-and-aax-70160?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70160">kvraudio.com</a> | <a href="https://valhalladsp.com/2026/11/24/valhalla-supermassive-6-0-0-update-helios/">valhalladsp.com</a></small></p><hr/><p>Valhalla DSP has released version 6.0 of its popular free reverb and delay plugin, ValhallaSupermassive. The update introduces a new reverb mode called Helios, which features a warm, open sound with realistic damping of the tail, high initial echo density, and a natural exponential decay. The mode is designed to evoke the "digital hall" aesthetics of the 1980s while maintaining high clarity and eliminating "stutters" in the reverb tail.</p><p>Users can customize the Helios mode using Density, Warp, and Feedback controls to create effects ranging from tight drum rooms and lush chambers to massive outer space decays. The update also includes a "LATE 2026" presets folder featuring 20 presets that serve as templates for sound design. The developer stated that Helios utilizes new reverb techniques that will serve as a foundation for future algorithm concepts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvahallasupermassive_6_0_0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 16:29 UTC | #28539</small>]]></content>
+  </entry>
   <entry>
     <title>GForce Software Offers Prophet-5 Plugin at Discount for Black Friday</title>
     <link href="https://musictech.com/news/gear/this-official-prophet-5-plugin-is-just-70-for-black-friday/" rel="alternate" />
@@ -543,22 +552,5 @@
     <updated>2026-11-20T16:32:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fdwe0s7lh54fhlss8u1oy2djf3h5a&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/articles/2073?a_aid=5241029371df5">pluginboutique.com</a></small></p><hr/><p>Plugin Boutique has added the Roland JUNO-60 Chorus and the Universal Audio Cooper Time Cube Delay to its lineup of promotional gifts available with qualifying purchases. The JUNO-60 Chorus is included free with any paid purchase, while the Cooper Time Cube requires a minimum spend of $49, €49, or £49.</p><p>Customers can select one free gift per transaction from available options, which also include Reaktor Prism, UVI Tape Suite, and Evolve Elastic Lite. The promotion runs alongside discounted software sales on items like Baby Audio Crystalline, UJAM Cinedream, UAD Vibe Analog Machines, and SSL Native Bus Compressor 2.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fdwe0s7lh54fhlss8u1oy2djf3h5a&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 21:38 UTC | #28137</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sonarworks Launches Black Friday Sale Offering Up to 60% Off Software</title>
-    <link href="https://bedroomproducersblog.com/2026/11/20/sonarworks-black-friday-sale/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/20/sonarworks-black-friday-sale/::v240</id>
-    <published>2026-11-20T16:25:00+00:00</published>
-    <updated>2026-11-20T16:25:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcf1.zzounds.com%2Fmedia%2Fproductmedia%2Ffit%2C2018by3200%2Fquality%2C85%2FSONARWORKS_HEADPHONES_resized_838115-4d1056229fd2da4818489e56da863296.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/20/sonarworks-black-friday-sale/">bedroomproducersblog.com</a> | <a href="https://www.sonarworks.com/black-friday">sonarworks.com</a></small></p><hr/><p>Sonarworks has launched its Black Friday sale, offering discounts of up to 60% across its audio calibration, virtual monitoring, and voice-processing software lineup. The promotion, which runs through November 30, 2026, includes reduced pricing on SoundID Reference for headphones and speakers, virtual monitoring packages, and SoundID VoiceAI tools.</p><p>Notable discounts include SoundID Reference for Headphones priced at $49 and the Speakers &amp; Headphones bundle with a measurement microphone at $179. Additionally, Virtual Monitoring software and SoundID VoiceAI perpetual licenses are available at reduced rates, with trial versions offered for most products to test compatibility across Windows and macOS systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcf1.zzounds.com%2Fmedia%2Fproductmedia%2Ffit%2C2018by3200%2Fquality%2C85%2FSONARWORKS_HEADPHONES_resized_838115-4d1056229fd2da4818489e56da863296.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 21:25 UTC | #28138</small>]]></content>
-  </entry>
-  <entry>
-    <title>AudioKit Releases Free Super 909 Drum Machine for iOS and macOS</title>
-    <link href="https://bedroomproducersblog.com/2026/11/20/audiokit-super-909/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/20/audiokit-super-909/::v240</id>
-    <published>2026-11-20T16:18:00+00:00</published>
-    <updated>2026-11-20T16:18:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/20/audiokit-super-909/">bedroomproducersblog.com</a> | <a href="https://apps.apple.com/us/app/super-909-drums-drum-machine/id6812908495">apps.apple.com</a></small></p><hr/><p>AudioKit Pro has released Super 909, a free TR-909-inspired drum machine available as a standalone app and AUv3 plugin for iPhone, iPad, and Mac. Developed with inspiration from classic Roland rhythm units, the instrument features a step sequencer, playable pads, and polyrhythmic options with independent track lengths.</p><p>The software includes automated tools like the Magic Pattern Generator and Smart Fills, alongside effects such as delay, reverb, overdrive, a Moog-inspired filter, and a low-end-preserving bitcrusher. Users can export MIDI, audio stems, and WAV loops, or utilize host transport sync, Ableton Link, and individual audio outputs within compatible AUv3 hosts.</p><hr/><small>20 Nov 2026, 21:25 UTC | #28139</small>]]></content>
   </entry>
 </feed>
