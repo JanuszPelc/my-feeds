@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-25T09:50:00+00:00</updated>
+  <updated>2026-11-25T09:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>AidenAI Raises $32 Million Series A to Scale Enterprise AI Workflows</title>
+    <link href="https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/" rel="alternate" />
+    <id>https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/::v241</id>
+    <published>2026-11-25T09:51:00+00:00</published>
+    <updated>2026-11-25T09:51:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flapaasvoice.com%2Fwp-content%2Fuploads%2F2026%2F11%2F3t873yr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/">inc42.com</a></small></p><hr/><p>Enterprise AI startup AidenAI has secured $32 million in a Series A funding round led by growth investment firm A91 Partners. Founded in 2023, the company provides AI agents and technology modernization solutions to more than 30 enterprise clients across six countries. The fresh capital will be used to expand AidenAI's global enterprise AI business, specifically focusing on platform development and engineering talent.</p><p>AidenAI's proprietary AI Builder Platform and AiDAP tool are designed to help large organizations integrate AI into existing legacy systems and data infrastructures. The company plans to establish a team of over 1,000 frontier AI engineers through its AidenAI Builder Academy to address the growing demand for agentic AI applications. This expansion aligns with a projected growth in the Indian enterprise AI market, which is expected to reach $71 billion by 2030.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flapaasvoice.com%2Fwp-content%2Fuploads%2F2026%2F11%2F3t873yr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 16:03 UTC | #28513</small>]]></content>
+  </entry>
   <entry>
     <title>EU Plans €50 Billion Sovereign Tech Equity Fund for AI and Quantum</title>
     <link href="https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0" rel="alternate" />

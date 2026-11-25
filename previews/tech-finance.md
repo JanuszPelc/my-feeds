@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>AidenAI Raises $32 Million Series A to Scale Enterprise AI Workflows</h2>
+<a name="story-28513"><img src="https://wsrv.nl/?url=https%3A%2F%2Flapaasvoice.com%2Fwp-content%2Fuploads%2F2026%2F11%2F3t873yr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Enterprise AI startup AidenAI has secured $32 million in a Series A funding round led by growth investment firm A91 Partners. Founded in 2023, the company provides AI agents and technology modernization solutions to more than 30 enterprise clients across six countries. The fresh capital will be used to expand AidenAI's global enterprise AI business, specifically focusing on platform development and engineering talent.</p><p>AidenAI's proprietary AI Builder Platform and AiDAP tool are designed to help large organizations integrate AI into existing legacy systems and data infrastructures. The company plans to establish a team of over 1,000 frontier AI engineers through its AidenAI Builder Academy to address the growing demand for agentic AI applications. This expansion aligns with a projected growth in the Indian enterprise AI market, which is expected to reach $71 billion by 2030.</p>
+<p>Nov 25 · <a href="https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/">inc42.com</a></p>
+<br clear="all" />
+
 <h2>EU Plans €50 Billion Sovereign Tech Equity Fund for AI and Quantum</h2>
 <a name="story-28512"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-stf.openforumeurope.org%2Fwp-content%2Fuploads%2F2025%2F07%2Fthumbnail.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The European Union is reportedly planning to mobilize up to €50 billion to establish a Sovereign Tech Equity Fund aimed at making long-term, high-risk investments in European artificial intelligence and quantum computing companies.</p><p>According to reports citing officials familiar with the plans, the initiative is designed to bolster Europe's technological independence and counter the dominance of foreign competitors in critical emerging technology sectors.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdr46azxe5rdcu.cloudfront.net%2Fwp-content%2Fuploads%2F2025%2F05%2F22081427%2FImage-22-19-852x485.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Trump hosted an upscale dinner for prominent investors of his $TRUMP meme coin. An analysis of the event reveals that the entry cost to qualify for the dinner has plummeted to as low as $518, a significant decrease from its 2025 peak of $55,000.</p><p>The drop in admission costs reflects a cooling of demand and a collapse in the market value of the meme coin. The dinner, which previously commanded a high premium for access, now serves as a symbol of the declining hype and shifting investor dynamics surrounding the token.</p>
 <p>Nov 23 · <a href="https://www.washingtonpost.com/politics/2026/11/22/trump-hosts-crypto-traders-demand-his-meme-coin-fades/">washingtonpost.com</a></p>
-<br clear="all" />
-
-<h2>Sierra Raises $1.75 Billion to Reach $30 Billion Valuation</h2>
-<p>Sierra has secured $1.75 billion in a Series F funding round led by Greenoaks and Lightspeed Venture Partners, doubling the enterprise customer experience company's valuation to $30 billion within six months. The firm currently serves nearly 50% of Fortune 500 companies and recently reported doubling its run-rate revenue to $400 million through an outcome-based pricing model.</p><p>The new capital will be used to expand Sierra's technology stack for servicing agents and hire more sales personnel to accelerate enterprise contract acquisition. While the AI-driven customer experience market sees high valuations for competitors like ElevenLabs and Decagon, Sierra is also developing agent protocol definitions with partners including Meta, Stripe, and Walmart.</p>
-<p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
