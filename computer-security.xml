@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-24T18:38:00+00:00</updated>
+  <updated>2026-11-24T21:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Microsoft Declares Code Red Following Major Microsoft 365 Outage</title>
+    <link href="https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/" rel="alternate" />
+    <id>https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/::v241</id>
+    <published>2026-11-24T21:21:00+00:00</published>
+    <updated>2026-11-24T21:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cybernews.com%2Fimages%2F1024w%2F2026%2F01%2FMicrosoftOutageDowndetector.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4jmb4/exclusivemicrosoft_declares_code_red_after/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50631157">hacker news</a></small></p><hr/><p>Microsoft has initiated an internal Code Red directive to overhaul its prevention and response protocols for major service failures following a severe 24-hour Microsoft 365 outage. According to internal memos reviewed by Reuters, the company is fundamentally reassessing how it manages core service health and system reliability.</p><p>The unprecedented disruption underscored vulnerabilities in cloud infrastructure and prompted internal scrutiny over software deployment and testing practices. The overhaul aims to prevent a recurrence of widespread service failures that impact millions of enterprise and individual users worldwide.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cybernews.com%2Fimages%2F1024w%2F2026%2F01%2FMicrosoftOutageDowndetector.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 02:42 UTC | #28439</small>]]></content>
+  </entry>
   <entry>
     <title>Hex.pm Details Security Incident and RCE Vulnerability</title>
     <link href="https://hex.pm/blog/security-incident-on-hexpm" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-24T20:02:00+00:00</updated>
+  <updated>2026-11-24T21:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Toontrack Releases Session Amps Metal EZmix Pack</title>
+    <link href="https://www.kvraudio.com/news/toontrack-releases-session-amps-metal-ezmix-pack-for-ezmix-3-70140?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70140" rel="alternate" />
+    <id>https://www.kvraudio.com/news/toontrack-releases-session-amps-metal-ezmix-pack-for-ezmix-3-70140?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70140::v241</id>
+    <published>2026-11-24T21:38:00+00:00</published>
+    <updated>2026-11-24T21:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt778_sessionampsmetalezmixpack_top-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/toontrack-releases-session-amps-metal-ezmix-pack-for-ezmix-3-70140?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70140">kvraudio.com</a> | <a href="https://www.toontrack.com/product/session-amps-metal-ezmix-pack/">toontrack.com</a></small></p><hr/><p>Toontrack has released Session Amps Metal, an expansion pack for the EZmix 3 mixing plugin featuring 25 mix-ready guitar tones spanning traditional to modern metal styles. Priced at $39, the collection focuses primarily on rhythm guitar presets, ranging from early heavy metal sounds to thrash and modern death metal, supplemented by select lead and effect tones.</p><p>The presets were captured using neural network technology and impulse responses based on real amplifiers, cabinets, and pedals. Each patch models a complete studio signal chain, incorporating specific microphones, placement choices, and room ambience, alongside dedicated parameters for fine-tuning the sound.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt778_sessionampsmetalezmixpack_top-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 02:43 UTC | #28478</small>]]></content>
+  </entry>
   <entry>
     <title>Kemper Releases PROFILER Native for macOS and Windows</title>
     <link href="https://www.kvraudio.com/news/kemper-releases-profiler-native-for-macos-and-windows-70138?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70138" rel="alternate" />

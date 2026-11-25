@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-24T20:09:00+00:00</updated>
+  <updated>2026-11-24T21:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Walmart Partners With Meta to Enable Black Friday Shopping via Muse AI Agent</title>
+    <link href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/::v241</id>
+    <published>2026-11-24T21:34:00+00:00</published>
+    <updated>2026-11-24T21:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fshop-with-muse-walmart.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/">techcrunch.com</a> | <a href="https://corporate.walmart.com/news/2026/11/black-friday-deals-with-meta-muse">corporate.walmart.com</a></small></p><hr/><p>Walmart has integrated with Meta's Muse AI agent to allow customers to search for products, compare prices, and purchase Black Friday deals directly through the assistant. Powered by Walmart's Agent Gateway, the feature enables users to link their Walmart accounts to Muse, build shopping carts, and handle transactions without manually browsing the retailer's website.</p><p>The collaboration contrasts with competitors like Amazon, which has blocked third-party AI agents from making purchases on its platform. Walmart's implementation includes privacy controls such as spending limits, purchase approvals, and restrictions preventing Muse from accessing user shopping histories.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fshop-with-muse-walmart.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 02:42 UTC | #28477</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia's GPU Technology and the Rise of AI Chips</title>
     <link href="https://theconversation.com/what-are-ai-chips-and-whats-so-special-about-nvidias-297128" rel="alternate" />
