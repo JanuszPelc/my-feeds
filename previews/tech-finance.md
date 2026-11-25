@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nvidia Shares Fall Following Jensen Huang&#x27;s Reinstatement Rally</h2>
+<a name="story-28427"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffotografias-2.larazon.es%2Fclipping%2Fcmsimages01%2F2025%2F07%2F21%2F4FFCB0CB-FD70-4869-8E6A-5941E1F208FF%2Fjensen-huang-ceo-nvidia_98.jpg%3Fcrop%3D1500%2C844%2Cx0%2Cy80%26width%3D1900%26height%3D1069%26optimize%3Dlow%26format%3Dwebply&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia shares dropped over 5% in Tuesday trading, paring gains from a major rally sparked by the reinstatement of Jensen Huang as chief executive officer. Huang returned to the role just weeks after resigning following disclosures regarding an extramarital affair, a decision facilitated by discussions with the company's board and the Trump administration.</p><p>Despite Wall Street analysts upgrading ratings to restore confidence in the artificial intelligence sector, the chipmaker continues to face intense political and regulatory scrutiny. Huang is scheduled to testify before congressional committees regarding U.S. export controls and compliance issues concerning Chinese markets.</p>
+<p>Nov 24 · <a href="https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html">cnbc.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm">sec.gov</a></p>
+<br clear="all" />
+
 <h2>Anthropic Shares Fall Below IPO Price Following Nasdaq Debut</h2>
 <a name="story-28462"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2Ffa099567a4c388053b108c010c53e56404ab751a643a9cc140b15337b1f8d106%2Flightyear_networkapi%2Fresizefit_w1200%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F111cae8e7cc8f1b3bcd01d75d693b6db.jpg_up.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic shares traded as low as $76 on Tuesday, falling roughly 12% below the company's $83 initial public offering price and erasing the gains from its Nasdaq debut less than a week prior. The stock decline coincided with a broader tech market sell-off that also impacted other artificial intelligence companies, including Nvidia.</p><p>Market observers and venture capitalists are closely monitoring Anthropic's trading performance as a barometer for public investor sentiment toward the artificial intelligence sector. A prolonged slump could increase pressure on private startup valuations and hinder upcoming public offerings for other AI firms.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28274"><img src="https://wsrv.nl/?url=https%3A%2F%2Fflagshipadvisorypartners.com%2Fwp-content%2Fuploads%2F2026%2F03%2FSlide2-May-09-2025-05-03-06-3524-PM-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Private equity firm TPG and corporate payments company Corpay have agreed to acquire financial automation software provider BILL Holdings in a take-private transaction valued at approximately $6 billion. Under the terms of the agreement, BILL shareholders will receive $63.25 per share in cash.</p><p>Founder René Lacerte will remain as CEO of the company following the completion of the buyout. The transaction is expected to close in the first half of 2027, pending customary regulatory approvals and closing conditions.</p>
 <p>Nov 23 · <a href="https://www.reuters.com/legal/transactional/bill-holdings-be-taken-private-by-tpg-6-billion-equity-value-2026-11-19/">reuters.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/0001786352/000119312526469396/d176726dex991.htm">sec.gov</a></p>
-<br clear="all" />
-
-<h2>Amazon Nearing $7.5B Acquisition of AI Startup Decart</h2>
-<a name="story-28209"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fdims4%2Fdefault%2F062532c%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F1596x900%2B0%2B0%2Fresize%2F1318x743%21%2Fquality%2F90%2F%3Furl%3Dhttps%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb0%2Fad%2F8a93cf6644b096f1345bb54cbf03%2Fabout-amazon-inline-aws-trainium-3.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon is in advanced talks to acquire artificial intelligence startup Decart for approximately $7.5 billion. The proposed acquisition is intended to strengthen Amazon Web Services' computing capabilities and help the company compete with Nvidia in the AI infrastructure market.</p><p>Decart develops real-time generative AI models designed for high efficiency, which could integrate into Amazon's cloud offerings and custom silicon strategy. Negotiations are progressing rapidly, with a final deal potentially reached soon.</p>
-<p>Nov 21 · <a href="https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616">ft.com</a></p>
 <br clear="all" />
 
 ---

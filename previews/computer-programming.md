@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Naoya Yamashita Identifies 17 Unreported Bugs in Clojure Core Using Lean 4</h2>
+<a name="story-28498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.conao3.com%2Fimg%2Fe4f733-mask.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Naoya Yamashita used Lean 4 formal verification and differential testing to analyze Clojure 1.12.7's core library, uncovering 17 previously unreported bugs. The discovered issues affect numeric operations, collection boundaries, and Java interoperability.</p><p>Notable findings include an infinite loop during reductions on large vector-of collections, a hash collision handling defect in persistent hash maps, and inconsistent behavior in Java functional interface adaptations depending on type hints.</p>
+<p>Nov 24 · <a href="https://s.conao3.com/blog/2026/e4f733">s.conao3.com</a> | <a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17">lobsters</a></p>
+<br clear="all" />
+
 <h2>Rida F&#x27;kih Details Method for Bypassing iOS Safari 60 FPS Limit</h2>
 <a name="story-28496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fphoto2.tinhte.vn%2Fdata%2Fattachment-files%2F2026%2F01%2F8949557_ung-dung-safari-120-hz-iphone-26.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Rida F'kih has detailed a technique to bypass iOS Safari's default 60 Hz rendering cap on ProMotion displays, enabling web applications to run at a true 120 FPS. By using an invisible, high-frequency scroll container as a controller to capture touch positions synchronously and leveraging OffscreenCanvas with transferControlToOffscreen, the method circumvents WebKit's standard rendering limitations without requiring users to manually toggle hidden browser settings.</p><p>The approach combines a MessageChannel-based timing loop phase-locked to vsync timestamps with a background CSS animation to keep the GPU active, achieving up to 120 input reads and canvas updates per second. While this enables fluid, native-quality UI components like custom swipeable sheets and physics-based tab bars, the author notes that it relies on current browser behaviors and could be disrupted if Apple alters WebKit's handling of offscreen canvas placeholders.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28285"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.freecodecamp.org%2Fportuguese%2Fnews%2Fcontent%2Fimages%2F2024%2F09%2Fgithub-webpage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GitHub Actions accepts certain workflow definitions containing invalid YAML that fail strict conformance checks by standard parsers. Specifically, multiline flow-style strings nested inside block collections can have closing braces improperly indented relative to their parent keys, violating section 8.2.3 of the YAML specification.</p><p>The issue surfaced during work on the zizmor security scanner when analyzing real-world GitHub Actions workflows that standard tooling rejected. The underlying parser used by GitHub Actions appears to be an older version of YamlDotNet, which continues to exhibit this behavior due to parser limitations handling quoted and unquoted flow nodes.</p>
 <p>Nov 22 · <a href="https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/">yossarian.net</a> | <a href="https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml">lobsters</a></p>
-<br clear="all" />
-
-<h2>Testing Terraform Configurations with AWS Emulator</h2>
-<a name="story-28286"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnotes.hatedabamboo.me%2Fassets%2Fterraform-tests-with-aws-emulator.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The article explores how developers can use the AWS Emulator to test Terraform plans locally and within continuous integration pipelines before applying changes to live infrastructure. By redirecting provider endpoints to a local emulator instance, teams can catch runtime validation errors—such as naming constraints or incompatible configurations—that standard static Terraform plans cannot detect.</p><p>Setting up the emulator requires configuring Terraform providers with custom endpoints, disabling credentials validation, and allowing self-signed certificates. While the tool significantly improves reliability and bridges the gap between staging and production, it still has limitations, including unimplemented API endpoints yielding 501 errors and a lack of full IAM policy emulation.</p>
-<p>Nov 22 · <a href="https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/">notes.hatedabamboo.me</a> | <a href="https://lobste.rs/s/g5msf2/testing_terraform_with_aws_emulator">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50599309">hacker news</a></p>
 <br clear="all" />
 
 ---
