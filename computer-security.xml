@@ -3,9 +3,17 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-25T15:44:00+00:00</updated>
+  <updated>2026-11-25T15:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>France Attributes Supermarket Freezer Hacks to Iranian Unit Shahid Kaveh</title>
+    <link href="https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?accessToken=zwAAAaKox6AIks8240LyF9RIp9OA9iRW391vkc9fOoWt5iFBidO62pifQXAu2QE.MEUCIQDyugqDlGORQFyxUvpsLSGx3IFVF80SRpcwo-zvXD_brgIgWy5Yr-AZKf_u8KAKuWRSrKVV6IBsPkAxfnFRNp89Syo&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902" rel="alternate" />
+    <id>https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?accessToken=zwAAAaKox6AIks8240LyF9RIp9OA9iRW391vkc9fOoWt5iFBidO62pifQXAu2QE.MEUCIQDyugqDlGORQFyxUvpsLSGx3IFVF80SRpcwo-zvXD_brgIgWy5Yr-AZKf_u8KAKuWRSrKVV6IBsPkAxfnFRNp89Syo&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902::v241</id>
+    <published>2026-11-25T15:46:00+00:00</published>
+    <updated>2026-11-25T15:46:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?accessToken=zwAAAaKox6AIks8240LyF9RIp9OA9iRW391vkc9fOoWt5iFBidO62pifQXAu2QE.MEUCIQDyugqDlGORQFyxUvpsLSGx3IFVF80SRpcwo-zvXD_brgIgWy5Yr-AZKf_u8KAKuWRSrKVV6IBsPkAxfnFRNp89Syo&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902">ft.com</a> | <a href="https://diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/declaration-d-attribution-a-l-iran-de-cyberattaques-visant-la-france">diplomatie.gouv.fr</a></small></p><hr/><p>France has attributed a series of cyberattacks on supermarket refrigeration systems to Shahid Kaveh, an Iranian cyber unit linked to the Islamic Revolutionary Guard Corps (IRGC). In October, the group manipulated industrial controllers to raise temperatures in approximately 700 refrigeration sites across France, targeting components such as Danfoss and Dixell controllers.</p><p>The unit has also been linked to campaigns in 2023 and 2024 involving the compromise of Israeli-made industrial devices and programmable logic controllers (PLCs). Often operating under the persona "CyberAv3ngers," the group focuses on targeting industrial infrastructure and consumer supply chains to achieve economic destabilization.</p><hr/><small>25 Nov 2026, 21:23 UTC | #28536</small>]]></content>
+  </entry>
   <entry>
     <title>Intruder Research Details AWS Elastic IP Subdomain Takeovers on US Treasury Domains</title>
     <link href="https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each" rel="alternate" />
