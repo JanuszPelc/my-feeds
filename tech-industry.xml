@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-24T18:05:00+00:00</updated>
+  <updated>2026-11-24T18:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Stripe Discusses Employee Share Tender Offer Valuing Company Above $200 Billion</title>
+    <link href="https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?st=LbwnEk&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?st=LbwnEk&amp;reflink=desktopwebshare_permalink::v241</id>
+    <published>2026-11-24T18:35:00+00:00</published>
+    <updated>2026-11-24T18:35:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.stripeassets.com%2Ffzn2n1nzq965%2F65JhC9vN60meeoFz6SdY1s%2F91be2811e1d397672c11c2cf8a83deb4%2FIMG_1171.png%3Fw%3D4000%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?st=LbwnEk&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Stripe is currently engaged in discussions with investors regarding an employee share tender offer that would push its valuation past $200 billion. The potential transaction follows an earlier tender offer earlier in 2026 that valued the payments company at $159 billion.</p><p>The new deal is reportedly expected to conclude in early 2027. This upward trajectory highlights continued strong private-market demand for the financial technology firm's shares ahead of any potential public offering.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.stripeassets.com%2Ffzn2n1nzq965%2F65JhC9vN60meeoFz6SdY1s%2F91be2811e1d397672c11c2cf8a83deb4%2FIMG_1171.png%3Fw%3D4000%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 00:42 UTC | #28422</small>]]></content>
+  </entry>
   <entry>
     <title>Uber, Nuro, and Lucid Begin Driverless Robotaxi Testing in Bay Area</title>
     <link href="https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area" rel="alternate" />
