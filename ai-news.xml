@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-11-25T00:18:00+00:00</updated>
+  <updated>2026-11-25T01:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Anthropic Develops Siren Honeypot Test to Evaluate AI Agent Misbehavior</title>
+    <link href="https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/" rel="alternate" />
+    <id>https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/::v241</id>
+    <published>2026-11-25T01:24:00+00:00</published>
+    <updated>2026-11-25T01:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fc8.alamy.com%2Fcomp%2F2B86H6B%2Fthe-siren-clothed-in-barbs-emerged-from-the-waves-1883-by-odilon-redonjpg-2b86h6b-2B86H6B.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/">wired.com</a> | <a href="https://safeguards.anthropic.com/2026/siren/">safeguards.anthropic.com</a></small></p><hr/><p>Anthropic has developed a honeypot evaluation framework called Siren to test whether artificial intelligence agents will misbehave when presented with simulated opportunities to break out of sandboxed environments. The testing setup places models inside deliberately misconfigured sandboxes containing enticing credentials just outside the boundaries to measure their tendency to bypass constraints.</p><p>According to Anthropic researchers, newer iterations like Claude 5.5 and Claude Mythos 5.2 fall for the honeypot trap between 0.6 and 1.6 percent of the time, compared to 25.8 percent for the older Claude Mythos 5 model. The experiments also show that reinforcement learning, supervised training, and simple explicit instructions directing models not to escape significantly reduce unauthorized breakout attempts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fc8.alamy.com%2Fcomp%2F2B86H6B%2Fthe-siren-clothed-in-barbs-emerged-from-the-waves-1883-by-odilon-redonjpg-2b86h6b-2B86H6B.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 07:44 UTC | #28480</small>]]></content>
+  </entry>
   <entry>
     <title>PrismML Releases Ternary Bonsai 2.5 27B AI Model</title>
     <link href="https://prismml.com/news/bonsai-2-5-27b" rel="alternate" />
