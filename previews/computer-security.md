@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>FinCEN Discloses Cybersecurity Incident Involving Unauthorized System Access</h2>
+<a name="story-28499"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fcybersecurity-alert-unauthorized-system-access-critical-security-system-flashes-red-unauthorized-warning-futuristic-414437875.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Financial Crimes Enforcement Network (FinCEN) is investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems. The U.S. Treasury Department bureau has taken several systems offline as a precaution and has not yet disclosed the full scope or source of the breach.</p><p>This incident follows reports of a breach of an open-source intelligence system at the CIA and the Office of the Director of National Security. FinCEN stated that financial institutions can still file suspicious activity reports online, though some services may be delayed; the Financial Institutions Hotline remains unaffected.</p>
+<p>Nov 25 · <a href="https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident">theverge.com</a></p>
+<br clear="all" />
+
 <h2>CIA and ODNI Report Breach of Open-Source Intelligence System</h2>
 <a name="story-28473"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cyberkendra.com%2Fwp-content%2Fuploads%2F2026%2F11%2FCJVZKXG7KZLFJANZIKPDYWJD4U.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach affecting an open-source intelligence analysis system. The intrusion resulted in the exposure of unclassified information, while classified networks reportedly remained unaffected.</p><p>According to sources familiar with the matter, hackers likely utilized an artificial intelligence tool known as Artex during the operation. The incident highlights heightened security concerns regarding intelligence networks that process public and commercially available data.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-28265"><img src="https://wsrv.nl/?url=https%3A%2F%2Fai2-s2-public.s3.amazonaws.com%2Ffigures%2F2017-08-08%2Fbd0be74c33520807b43dfe5abee78f1e20c0bdd4%2F4-Figure4-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenRouter has off-boarded three inference providers and removed 125 endpoints from Zero Data Retention eligibility following security research that uncovered compromised data and unupheld privacy policies across the AI supply chain. The platform reported that its own systems experienced no breaches or unauthorized access, but took precautionary measures by notifying affected customers and restricting flagged endpoints.</p><p>The actions follow a security report detailing widespread data exposure and retention failures among multiple AI inference providers. OpenRouter is currently adapting the researchers' testing methods for ongoing verification, auditing network paths for third-party data forwarding, and requiring strict validation before restoring any suspended ZDR eligibility.</p>
 <p>Nov 22 · <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">openrouter.ai</a> | <a href="https://news.ycombinator.com/item?id=50595554">hacker news</a></p>
-<br clear="all" />
-
-<h2>Experts Warn AI Accelerates Cyberattacks on Industrial Equipment</h2>
-<a name="story-28234"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbucket-image.inkmaginecms.com%2Fversion%2Fdesktop%2F9dde7c0f-a597-445c-80dd-9a93db8a4006%2Fimage%2F2025%2F09%2Fab0a885f-b501-4be7-bd60-9b68d2711e77.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Artificial intelligence is accelerating the planning of cyberattacks on industrial equipment by enabling malicious actors to quickly digest technical manuals and analyze past accidents. This capability reduces the time and specialized expertise required to target critical infrastructure.</p><p>The trend highlights growing vulnerabilities in operational technology sectors, such as water and power systems, where automated tools help bypass traditional barriers to entry. Security experts warn that these advancements threaten to scale up the frequency and sophistication of disruptions against everyday utilities.</p>
-<p>Nov 22 · <a href="https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&sharetype=gift&token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1">ft.com</a></p>
 <br clear="all" />
 
 ---

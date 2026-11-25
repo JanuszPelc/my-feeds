@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-25T00:20:00+00:00</updated>
+  <updated>2026-11-25T01:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>FinCEN Discloses Cybersecurity Incident Involving Unauthorized System Access</title>
+    <link href="https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident" rel="alternate" />
+    <id>https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident::v241</id>
+    <published>2026-11-25T01:40:00+00:00</published>
+    <updated>2026-11-25T01:40:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fcybersecurity-alert-unauthorized-system-access-critical-security-system-flashes-red-unauthorized-warning-futuristic-414437875.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident">theverge.com</a></small></p><hr/><p>The Financial Crimes Enforcement Network (FinCEN) is investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems. The U.S. Treasury Department bureau has taken several systems offline as a precaution and has not yet disclosed the full scope or source of the breach.</p><p>This incident follows reports of a breach of an open-source intelligence system at the CIA and the Office of the Director of National Security. FinCEN stated that financial institutions can still file suspicious activity reports online, though some services may be delayed; the Financial Institutions Hotline remains unaffected.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fcybersecurity-alert-unauthorized-system-access-critical-security-system-flashes-red-unauthorized-warning-futuristic-414437875.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 11:26 UTC | #28499</small>]]></content>
+  </entry>
   <entry>
     <title>CIA and ODNI Report Breach of Open-Source Intelligence System</title>
     <link href="https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT&amp;smid=url-share" rel="alternate" />
