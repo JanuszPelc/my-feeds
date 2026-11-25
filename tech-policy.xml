@@ -3,9 +3,17 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-24T21:50:00+00:00</updated>
+  <updated>2026-11-24T23:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>US Attorney General Blanche and FBI Director Patel Dodge Questions Regarding Jensen Huang Investigation</title>
+    <link href="https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html::v241</id>
+    <published>2026-11-24T23:23:00+00:00</published>
+    <updated>2026-11-24T23:23:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html">cnbc.com</a></small></p><hr/><p>U.S. Attorney General Todd Blanche and FBI Director Kash Patel declined to answer questions regarding the federal investigation into Jensen Huang during a Washington news conference. President Donald Trump had previously cited an administration investigation to encourage Nvidia's board to reinstate Huang as CEO, asserting that the probe found no national security risks or unlawful conduct.</p><p>Huang was reinstated following his recent resignation amid allegations of improper relationships and concerns regarding the potential diversion of advanced semiconductor chips to China in violation of export laws. While Blanche defended Nvidia as a corporate citizen and downplayed active export investigations, both officials avoided specifics regarding ongoing inquiries or intelligence assessments concerning Huang and associated entities.</p><hr/><small>25 Nov 2026, 05:06 UTC | #28465</small>]]></content>
+  </entry>
   <entry>
     <title>Shein Agrees to $100 Million Settlement with FTC Over Deceptive Practices Claims</title>
     <link href="https://www.reuters.com/world/shein-pay-100-million-settle-us-claims-ftc-official-says-2026-11-24/" rel="alternate" />
