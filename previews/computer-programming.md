@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Antithesis Nightmare Mode Simulates Disk Failures</h2>
+<a name="story-28537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fmodel-implementedhybridfaultinjection-200614194049%2F75%2FModel-implemented-hybrid-fault-injection-14-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Antithesis developed a fault injection mechanism to simulate complex disk failures in distributed systems. By utilizing Amnesia, a custom Rust-based FUSE filesystem, the system emulates power losses, torn writes, I/O errors, and disk latency. This functionality allows developers to evaluate software robustness against unreliable storage, specifically targeting issues like the fsyncgate bug and non-atomic write interleaving.</p><p>The Amnesia filesystem builds on the LazyFS research project but operates in-memory to manage volatile and durable states for increased performance. It integrates with a fuzzer to target specific "interesting" moments—before, during, or after syscalls—to uncover concurrency bugs and data loss scenarios that are difficult to replicate in standard operating environments.</p>
+<p>Nov 25 · <a href="https://antithesis.com/blog/2026/nightmare-mode/">antithesis.com</a> | <a href="https://lobste.rs/s/xst6fv/nightmare_mode_simulating_disk_failures">lobsters</a></p>
+<br clear="all" />
+
 <h2>Mozilla Explains Why Non-WebKit Browsers Remain Absent on iOS</h2>
 <a name="story-28516"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.apple.com%2Fassets%2F665F9C26873A6ED7440C41D7%2F665F9C27873A6ED7440C41DD%2Fen_US%2Fb2a01456b47f9c24a30087980101be2c.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Despite regulatory mandates in the European Union and Japan intended to foster browser competition on iOS, no developer has successfully launched a non-WebKit browser on the platform. Mozilla states that Apple's conditions for utilizing alternative browser engines remain unworkable and create prohibitive user friction, effectively preventing the introduction of Gecko-powered browsers like Firefox on iPhones and iPads.</p><p>Although regulations like the EU's Digital Markets Act have enabled alternative engines in theory, Apple's requirements force developers to build separate applications rather than updating existing ones, requiring users to manually transfer data and switch apps. Mozilla argues that these restrictions undermine the intended goals of open markets and user choice, leaving Gecko as the last major independent browser engine unavailable on iOS devices.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>CLI Tools Combined to Find Geographic Midpoints on macOS</h2>
 <p>George Mandis describes a workflow using three command-line tools—whereami, nearme, and jq—to identify locations halfway between two geographic points. By piping the JSON output of whereami (a geolocation and reverse geocoding tool) into jq for coordinate averaging, and then into nearme (which utilizes Apple's MapKit), users can search for nearby venues at the midpoint without requiring API keys or a web browser.</p><p>The method is restricted to macOS due to its reliance on native geocoding and MapKit frameworks. While the geographic average calculation is a literal midpoint that does not account for real-world factors like travel time or traffic, the author provides shell functions for both Zsh and Fish to simplify the complex command-line piping into a single command for finding places like coffee shops or bars.</p>
 <p>Nov 24 · <a href="https://george.mand.is/2026/11/lets-meet-in-the-middle/">george.mand.is</a> | <a href="https://lobste.rs/s/7fscqs/let_s_meet_middle">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50577534">hacker news</a></p>
-<br clear="all" />
-
-<h2>Ladybird Browser Enters Alpha with Independent Engine</h2>
-<a name="story-28413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.martincid.com%2F2026%2F11%2Fladybird-browser-alpha-independent-engine-mac-linux-1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ladybird has launched its alpha version, now available for download on macOS and Linux. The browser utilizes a completely independent engine built from the ground up, intentionally avoiding forks of existing browser projects.</p><p>The alpha release includes a rolling channel with automatic updates and supports both WebDriver for automated testing and the Firefox DevTools protocol. The project team is soliciting security research, crash reports, and feedback from web developers to improve the engine's reliability and performance.</p>
-<p>Nov 24 · <a href="https://ladybird.org/posts/alpha/">ladybird.org</a> | <a href="https://news.ycombinator.com/item?id=50614249">hacker news</a></p>
 <br clear="all" />
 
 ---

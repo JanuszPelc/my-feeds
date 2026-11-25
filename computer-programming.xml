@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Antithesis Nightmare Mode Simulates Disk Failures</title>
+    <link href="https://antithesis.com/blog/2026/nightmare-mode/" rel="alternate" />
+    <id>https://antithesis.com/blog/2026/nightmare-mode/::v241</id>
+    <published>2026-11-25T01:42:00+00:00</published>
+    <updated>2026-11-25T01:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fmodel-implementedhybridfaultinjection-200614194049%2F75%2FModel-implemented-hybrid-fault-injection-14-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://antithesis.com/blog/2026/nightmare-mode/">antithesis.com</a> | <a href="https://lobste.rs/s/xst6fv/nightmare_mode_simulating_disk_failures">lobsters</a></small></p><hr/><p>Antithesis developed a fault injection mechanism to simulate complex disk failures in distributed systems. By utilizing Amnesia, a custom Rust-based FUSE filesystem, the system emulates power losses, torn writes, I/O errors, and disk latency. This functionality allows developers to evaluate software robustness against unreliable storage, specifically targeting issues like the fsyncgate bug and non-atomic write interleaving.</p><p>The Amnesia filesystem builds on the LazyFS research project but operates in-memory to manage volatile and durable states for increased performance. It integrates with a fuzzer to target specific "interesting" moments—before, during, or after syscalls—to uncover concurrency bugs and data loss scenarios that are difficult to replicate in standard operating environments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fmodel-implementedhybridfaultinjection-200614194049%2F75%2FModel-implemented-hybrid-fault-injection-14-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 11:41 UTC | #28537</small>]]></content>
+  </entry>
+  <entry>
     <title>Mozilla Explains Why Non-WebKit Browsers Remain Absent on iOS</title>
     <link href="https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/" rel="alternate" />
     <id>https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/::v241</id>
