@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-24T18:04:00+00:00</updated>
+  <updated>2026-11-24T18:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Hex.pm Details Security Incident and RCE Vulnerability</title>
+    <link href="https://hex.pm/blog/security-incident-on-hexpm" rel="alternate" />
+    <id>https://hex.pm/blog/security-incident-on-hexpm::v241</id>
+    <published>2026-11-24T18:38:00+00:00</published>
+    <updated>2026-11-24T18:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcve.halosecurity.com%2Fcves%2FCVE-2026-44126%2Fog.png%3Fv%3D1780542952715-card-v6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://hex.pm/blog/security-incident-on-hexpm">hex.pm</a> | <a href="https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm">lobsters</a></small></p><hr/><p>On November 23, 2026, an unauthorized party exploited a remote code execution vulnerability in Hex.pm, sending 69 malicious requests that ran commands on six web servers before traffic was blocked within 20 minutes. The maintainers deployed a patch, rotated infrastructure credentials, and reported the incident to data protection and cybersecurity authorities.</p><p>The vulnerability, tracked as CVE-2026-129514, stems from a request decoder that accepted crafted Erlang structs containing module and function tuples, leading to command execution via error logging protocols. While an audit found no evidence of unauthorized package modifications or database write changes, database reads could not be ruled out, prompting the team to advise users to change passwords, reset two-factor authentication, and update their Hex clients.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcve.halosecurity.com%2Fcves%2FCVE-2026-44126%2Fog.png%3Fv%3D1780542952715-card-v6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 01:06 UTC | #28495</small>]]></content>
+  </entry>
   <entry>
     <title>UK National Cyber Security Centre Warns AI Tools Are Accelerating Exploitation of Weaknesses</title>
     <link href="https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/" rel="alternate" />
@@ -190,13 +199,5 @@
     <updated>2026-11-20T10:36:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcommunity-assets.home-assistant.io%2Foriginal%2F4X%2F6%2F6%2Fe%2F66eec6dd11bebd5d9d4a3460f9587fb8858e952b.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.harrison.page/garage-door-spam/">blog.harrison.page</a> | <a href="https://lobste.rs/s/tr5ghf/garage_door_spam">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50519231">hacker news</a></small></p><hr/><p>Frustrated by advertisements and the blocking of third-party API access in Chamberlain's myQ garage door application, a user replaced the system's cloud connectivity with ratgdo32 hardware running open-source local firmware.</p><p>The ratgdo boards connect directly to the garage door openers over the local network, enabling seamless integration with Apple HomeKit, custom Slack status notifications, and secure remote health checks via Tailscale without depending on external cloud services.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcommunity-assets.home-assistant.io%2Foriginal%2F4X%2F6%2F6%2Fe%2F66eec6dd11bebd5d9d4a3460f9587fb8858e952b.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 19:02 UTC | #28145</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lastbook Offline Desktop Survival Library Now Available</title>
-    <link href="https://lastbook.org/" rel="alternate" />
-    <id>https://lastbook.org/::v240</id>
-    <published>2026-11-20T01:06:00+00:00</published>
-    <updated>2026-11-20T01:06:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://lastbook.org/">lastbook.org</a> | <a href="https://news.ycombinator.com/item?id=50560822">hacker news</a></small></p><hr/><p>Lastbook is a free, offline, local desktop application designed for Mac, Windows, and Linux that provides a comprehensive reference library for emergency preparedness, survival, and societal rebuilding. The software bundles thousands of instructional videos, over 258,000 searchable map places, and detailed guides covering first aid, safe drinking water, food preservation, critical repairs, and energy basics.</p><p>Users can select library storage tiers ranging from 7.7 GB to approximately 388 GB. The application features an optional local Gemma-based AI model capable of answering queries and citing sources directly from the offline library without requiring an internet connection. Medical information within the app is sourced from established organizations including the World Health Organization, the Red Cross, and Hesperian.</p><hr/><small>20 Nov 2026, 10:13 UTC | #28107</small>]]></content>
   </entry>
 </feed>

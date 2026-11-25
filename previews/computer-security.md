@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Hex.pm Details Security Incident and RCE Vulnerability</h2>
+<a name="story-28495"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcve.halosecurity.com%2Fcves%2FCVE-2026-44126%2Fog.png%3Fv%3D1780542952715-card-v6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>On November 23, 2026, an unauthorized party exploited a remote code execution vulnerability in Hex.pm, sending 69 malicious requests that ran commands on six web servers before traffic was blocked within 20 minutes. The maintainers deployed a patch, rotated infrastructure credentials, and reported the incident to data protection and cybersecurity authorities.</p><p>The vulnerability, tracked as CVE-2026-129514, stems from a request decoder that accepted crafted Erlang structs containing module and function tuples, leading to command execution via error logging protocols. While an audit found no evidence of unauthorized package modifications or database write changes, database reads could not be ruled out, prompting the team to advise users to change passwords, reset two-factor authentication, and update their Hex clients.</p>
+<p>Nov 24 · <a href="https://hex.pm/blog/security-incident-on-hexpm">hex.pm</a> | <a href="https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm">lobsters</a></p>
+<br clear="all" />
+
 <h2>UK National Cyber Security Centre Warns AI Tools Are Accelerating Exploitation of Weaknesses</h2>
 <a name="story-28457"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbcdn1.podbean.com%2Fimglogo%2Fep-logo%2Fpbblog19523072%2Fscreenshoteasy_-_2026-01-26T140909748ay42x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.K. National Cybersecurity Center reports a marked increase in AI-driven cyberattacks, noting that autonomous penetration testing tools are enabling malicious actors to identify and exploit basic system weaknesses at unprecedented speeds. Incidents recorded since September have caused network intrusions and downtime at organizations, driven largely by long-standing technical debt such as weak passwords and exposed API endpoints.</p><p>While the vulnerabilities being exploited are not new, autonomous hacking tools have dramatically shortened the time required to find and leverage them. Security officials emphasize that the rise of agentic hacking does not render traditional cybersecurity controls obsolete, but rather underscores the critical need for organizations to maintain strong foundational defenses and address accumulated vulnerabilities.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-28243"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.penligent.ai%2Fhackinglabs%2Fwp-content%2Fuploads%2F2026%2F04%2FAI-Vulnerability-Research-Is-Collapsing-the-Patch-Window.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The video outlines a workflow in which artificial intelligence is used to identify a software vulnerability, prompting plans to notify the maintainer and create a promotional demonstration. The process includes incorporating music and anime visuals into the video content.</p><p>The creator prepares the demonstration for immediate distribution on X, illustrating a rapid cycle of automated security research, media production, and social media posting.</p>
 <p>Nov 22 · <a href="https://www.youtube.com/watch?v=dXQ_9WN6KLQ">youtube.com</a> | <a href="https://lobste.rs/s/emymet/how_2_security_research_mlg">lobsters</a></p>
-<br clear="all" />
-
-<h2>Developer Recounts How Mojang Used His Minecraft Server Scanner to Ban Servers</h2>
-<a name="story-28232"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsipacid.com%2F_astro%2Finvestigation-tool.B5CzpuYH_Z12RXIP.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer sipacid details how Mojang utilized data from his custom Minecraft server scanner, Slowstack, to locate and ban servers violating usage guidelines over inappropriate server descriptions. After noticing a @mojang.com email address register on the platform, sipacid helped Mojang staff debug their investigation tools before discovering the data was being used to issue bans via users' internet service providers.</p><p>The author verified the connection by cross-referencing server logs and noting that test servers set up with minor inappropriate descriptions were banned within a week. After Mojang later requested expansion into Bedrock edition scanning and data exports, sipacid shut down the project with short notice, criticizing the company for relying on hobbyist port scanners rather than built-in telemetry.</p>
-<p>Nov 21 · <a href="https://sipacid.com/blog/port-scanning-for-mojang/">sipacid.com</a> | <a href="https://lobste.rs/s/et5q0q/port_scanning_for_mojang">lobsters</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-24T18:03:00+00:00</updated>
+  <updated>2026-11-24T20:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Kemper Releases PROFILER Native for macOS and Windows</title>
+    <link href="https://www.kvraudio.com/news/kemper-releases-profiler-native-for-macos-and-windows-70138?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70138" rel="alternate" />
+    <id>https://www.kvraudio.com/news/kemper-releases-profiler-native-for-macos-and-windows-70138?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70138::v241</id>
+    <published>2026-11-24T20:02:00+00:00</published>
+    <updated>2026-11-24T20:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F24400001_theme.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/kemper-releases-profiler-native-for-macos-and-windows-70138?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70138">kvraudio.com</a> | <a href="https://www.kemper-amps.com/products/profiler-native.html">kemper-amps.com</a></small></p><hr/><p>Kemper has released PROFILER Native, a standalone application and plug-in that integrates its amp profiling technology, PROFILER MK 2 features, and effects into computer-based recording and performance setups. Designed for guitarists, bass players, and producers, the software provides the core functionality of the hardware units within a DAW environment, featuring seamless sound switching, effects spillover, and the Morphing feature.</p><p>The software supports AU, VST3, and CLAP plug-in formats, with AAX support planned for a future release, and runs on macOS and Windows. It includes access to commercial Rig collections and the Rig Exchange community library, alongside MIDI controller support. PROFILER Native is currently available at an introductory price of €199, with a regular MSRP of €249, and offers a dedicated discount for existing hardware owners as well as a free trial version.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2F24400001_theme.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 01:06 UTC | #28469</small>]]></content>
+  </entry>
   <entry>
     <title>Cherry Audio Releases DW-8K and Synth Stack 7</title>
     <link href="https://www.kvraudio.com/news/cherry-audio-releases-dw-8k-and-synth-stack-7-70119?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70119" rel="alternate" />
