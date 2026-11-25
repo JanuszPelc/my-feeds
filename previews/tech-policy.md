@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>US Intelligence Officials Brief Congress on Alice Huang Spy Allegations</h2>
+<a name="story-28508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.mktw.net%2Fim-77942953%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>US intelligence officials informed congressional aides that Alice Huang was not under direct orders from China's Ministry of State Security (MSS) regarding the "Jensen Huang affair." While the briefing clarified she was not an agent directed by the MSS, officials indicated that she may have independently passed intelligence to the agency.</p><p>The briefing follows public statements by President Trump characterizing Nvidia CEO Jensen Huang as not a security threat. The case involves allegations that Huang, an executive linked to a Chinese firm, gathered sensitive information regarding U.S. artificial intelligence chip technology.</p>
+<p>Nov 25 · <a href="https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html?unlocked_article_code=1.TFE.MS4i.jx4l5m-ldOYd&smid=url-share">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Donald Trump Discusses Potential Jensen Huang Pardon and Congressional Testimony</h2>
 <a name="story-28487"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwpolityce.pl%2Fstorage%2Ffiles%2F2026%2F11%2F22%2Fd7c23e19-45a9-4293-97a2-b51b1fc9675e%2Fmid-epa13394327.webp%3Fp%3Dpreview&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump stated in an exclusive interview that he is willing to pardon reinstated Nvidia CEO Jensen Huang if necessary, though he believes a pardon will not be required. Trump urged Huang to tell the truth during his upcoming testimonies before the House Foreign Affairs Committee and the Senate Banking Committee, adding that he does not believe Huang needs to invoke his Fifth Amendment rights.</p><p>Huang's recent reinstatement followed a brief departure amid intense congressional scrutiny over his ties to an alleged Chinese spy and multiple workplace affairs. Lawmakers have expressed skepticism and intend to question Huang regarding potential national security risks and export control violations, while Trump defended Nvidia's critical role in maintaining American artificial intelligence dominance.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28365"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcassette.sphdigital.com.sg%2Fimage%2Fstraitstimes%2Fbf4006663c920dcb8d2bebce66dce54a6b8d0ac35ee500fcfb68152a46184ff7&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The US Commerce Department plans to add Singapore-based chip buyer Megaspeed to its entity list, restricting American companies from selling semiconductors and certain technologies to the firm without a government license. The impending move follows intense pressure from other federal agencies and lawmakers amid an ongoing Justice Department investigation into whether Megaspeed violated export controls by illegally shipping Nvidia chips to China.</p><p>Megaspeed emerged at the center of a high-profile controversy involving Nvidia after former CEO Jensen Huang resigned following scrutiny over his relationship with a Megaspeed executive suspected of being a Chinese spy. While other administration branches, including the Treasury Department and the Pentagon, supported placing Megaspeed on the trade blacklist months prior, Commerce Secretary Howard Lutnick faced mounting bipartisan pressure over delays in enacting the restriction.</p>
 <p>Nov 23 · <a href="https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist">semafor.com</a></p>
-<br clear="all" />
-
-<h2>Trump and Vance Pushed Nvidia to Reinstate Jensen Huang as CEO</h2>
-<a name="story-28364"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets-prd.ignimgs.com%2F2026%2F11%2F23%2Fhuang-1795444949437.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>President Trump and Vice President JD Vance pushed Nvidia to reinstate Jensen Huang as CEO following his resignation over allegations involving a suspected Chinese intelligence asset. Trump intervened directly in the private company's leadership decision, arguing that Huang was essential to the U.S. economy and a victim of improper intelligence community maneuvering.</p><p>Huang's departure and the subsequent pressure campaign exposed deep divisions among Trump's cabinet officials, including Marco Rubio, Howard Lutnick, and Scott Bessent. Meanwhile, congressional committees have scheduled oversight interviews with Huang and Nvidia's general counsel to examine the administration's involvement in the corporate board's leadership decisions.</p>
-<p>Nov 23 · <a href="https://www.axios.com/2026/11/23/trump-vance-jensen-huang-nvidia-ceo-return">axios.com</a></p>
 <br clear="all" />
 
 ---

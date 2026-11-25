@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-25T01:32:00+00:00</updated>
+  <updated>2026-11-25T08:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>US Intelligence Officials Brief Congress on Alice Huang Spy Allegations</title>
+    <link href="https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html?unlocked_article_code=1.TFE.MS4i.jx4l5m-ldOYd&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html?unlocked_article_code=1.TFE.MS4i.jx4l5m-ldOYd&amp;smid=url-share::v241</id>
+    <published>2026-11-25T08:41:00+00:00</published>
+    <updated>2026-11-25T08:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.mktw.net%2Fim-77942953%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html?unlocked_article_code=1.TFE.MS4i.jx4l5m-ldOYd&smid=url-share">nytimes.com</a></small></p><hr/><p>US intelligence officials informed congressional aides that Alice Huang was not under direct orders from China's Ministry of State Security (MSS) regarding the "Jensen Huang affair." While the briefing clarified she was not an agent directed by the MSS, officials indicated that she may have independently passed intelligence to the agency.</p><p>The briefing follows public statements by President Trump characterizing Nvidia CEO Jensen Huang as not a security threat. The case involves allegations that Huang, an executive linked to a Chinese firm, gathered sensitive information regarding U.S. artificial intelligence chip technology.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.mktw.net%2Fim-77942953%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 14:26 UTC | #28508</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Trump Discusses Potential Jensen Huang Pardon and Congressional Testimony</title>
     <link href="https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/" rel="alternate" />
