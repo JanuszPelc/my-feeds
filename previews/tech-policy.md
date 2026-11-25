@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Court Documents Reveal Trump Administration Pressure Campaign for Intel Equity Stake</h2>
+<a name="story-28540"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6b04df84424fd4be0d579981%2Fmaster%2Fw_2560%252Cc_limit%2FHow-Trump-Admin-Got-Piece-of-Intel-Business.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Unsealed court documents from a shareholder lawsuit reveal that the Trump administration used intense pressure tactics to acquire a 10 percent equity stake in Intel in August 2025. Commerce Department officials allegedly told company executives that rejecting the deal would result in unpredictable consequences, forcing the board to comply under the threat of withheld federal CHIPS Act grants.</p><p>The disclosures highlight a broader shift in federal policy prioritizing direct financial returns from private technology companies over traditional economic metrics. Legal challenges filed against Intel and Nvidia argue that these government-backed equity demands and revenue-sharing agreements constitute unlawful coercion and breaches of fiduciary duty by corporate boards.</p>
+<p>Nov 25 · <a href="https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/">wired.com</a></p>
+<br clear="all" />
+
 <h2>Asian Data Centers Seek US Clients to Replace China Demand</h2>
 <p>Asian data centers and neocloud providers are seeking US clients to fill computing capacity vacated by declining demand from China. This shift follows new United States government regulations that restrict remote access to advanced AI chips, a move designed to close a loophole that allowed China to access restricted American technology through overseas infrastructure.</p><p>The transition occurs as hourly rental costs for B300 chips fall, influencing the accessibility and pricing of high-performance computing power. These new export controls by the Trump administration force Asian providers to pivot their business models toward Western markets to compensate for the significant loss of Chinese demand.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/asia-data-centers-sound-out-us-clients-to-replace-china-demand">bloomberg.com</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28377"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6b00ed327c78d96a15f9054f%2Fmaster%2Fw_1600%252Cc_limit%2Frawabi-ateret-map-compared.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google Maps lacks data on the hundreds of checkpoints and movement restrictions in the occupied West Bank, making it unreliable for Palestinian drivers. A former product manager spent over six years attempting to develop a prototype that highlighted administrative zones and warned users of permanent checkpoints. Although these features were briefly launched, Google retracted the update in late 2025 following complaints from Israeli media about navigation "glitches."</p><p>The rollback occurred amid Google's increasing involvement with Israel through the acquisition of Waze and the Project Nimbus contract. Despite the company's ability to map complex regions worldwide, it omitted the West Bank restrictions to avoid conflict with local interests. Palestinian drivers now rely on grassroots crowdsourcing, such as the Road Conditions Telegram channel, to navigate the region's hazardous travel infrastructure.</p>
 <p>Nov 24 · <a href="https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/">wired.com</a></p>
-<br clear="all" />
-
-<h2>Kalshi Pauses Operations in Utah Amid Federal Court Loss and Criminal Charges</h2>
-<a name="story-28383"><img src="https://wsrv.nl/?url=https%3A%2F%2Freadwrite.com%2Fwp-content%2Fuploads%2F2026%2F02%2FKalshi-files-lawsuit-against-Utah-officials-over-threat-to-prediction-markets.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Prediction market platform Kalshi has suspended its operations in Utah, affecting over 177,000 users in the state. The decision follows a federal court ruling upholding Utah's authority to enforce state anti-gambling laws against the platform's event and sports contracts.</p><p>Alongside the federal court defeat, Utah officials have pursued criminal charges against Kalshi and its founders regarding the platform's state-level operations. The escalating legal dispute highlights an ongoing jurisdictional battle between state regulators and prediction market operators over whether federal registration preempts local gambling prohibitions.</p>
-<p>Nov 24 · <a href="https://utahnewsdispatch.com/2026/11/23/kalshi-blocks-operations-in-utah-legal-challenges-ongoing/">utahnewsdispatch.com</a></p>
 <br clear="all" />
 
 ---
