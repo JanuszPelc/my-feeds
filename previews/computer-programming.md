@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Naoya Yamashita Identifies 17 Unreported Bugs in Clojure Core Using Lean 4</h2>
 <a name="story-28498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.conao3.com%2Fimg%2Fe4f733-mask.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Naoya Yamashita used Lean 4 formal verification and differential testing to analyze Clojure 1.12.7's core library, uncovering 17 previously unreported bugs. The discovered issues affect numeric operations, collection boundaries, and Java interoperability.</p><p>Notable findings include an infinite loop during reductions on large vector-of collections, a hash collision handling defect in persistent hash maps, and inconsistent behavior in Java functional interface adaptations depending on type hints.</p>
-<p>Nov 24 · <a href="https://s.conao3.com/blog/2026/e4f733">s.conao3.com</a> | <a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17">lobsters</a></p>
+<p>Nov 24 · <a href="https://s.conao3.com/blog/2026/e4f733">s.conao3.com</a> | <a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50642939">hacker news</a></p>
 <br clear="all" />
 
 <h2>Rida F&#x27;kih Details Method for Bypassing iOS Safari 60 FPS Limit</h2>

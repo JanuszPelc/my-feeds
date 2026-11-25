@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Volkswagen Launches ID. Era 5S Sedan in China with Advanced Automated Driving</h2>
+<a name="story-28524"><img src="https://wsrv.nl/?url=https%3A%2F%2Fchinaevhome.com%2Fwp-content%2Fuploads%2F2026%2F05%2F5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Volkswagen has launched the ID. Era 5S sedan in China, a vehicle designed specifically for the Chinese market featuring the company's most advanced automated-driving system. The car underscores China's growing role as a hub for automotive innovation, as local developers provide the software and manufacturing infrastructure Volkswagen needs to compete in the global market.</p><p>The ID. Era 5S is the brand's first sedan equipped with urban Navigation on Autopilot (NOA), developed in partnership with Chinese tech firms including Momenta and Horizon Robotics. While it carries the "ID" branding, the model is a plug-in hybrid (PHEV) and serves as a showcase for the integration of cutting-edge autonomous technology and localized development in the Chinese automotive sector.</p>
+<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/vw-s-18-000-self-driving-sedan-shows-how-china-leads-on-car-tech">bloomberg.com</a> | <a href="https://cnevpost.com/2026/08/21/saic-vw-launches-id-era-5s/">cnevpost.com</a></p>
+<br clear="all" />
+
 <h2>Treasury CIO Sam Corcos Develops AI-Generated Strategy Game During Department Hack</h2>
 <a name="story-28541"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-25-at-12.33.44-AM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Treasury Department Chief Information Officer Sam Corcos is developing "Legatum," an open-source turn-based strategy game inspired by Civilization VI, using AI coding agents such as Claude and OpenAI's Codex. Corcos is actively pushing updates to the project, including new music and faction-specific units, while the Financial Crimes Enforcement Network (FinCEN) manages a cybersecurity incident that has taken several bank compliance reporting systems offline.</p><p>Corcos, an AI advocate and former health startup founder, joined the administration as a DOGE hire. His development of Legatum has drawn scrutiny as the Treasury Department faces a series of high-profile hacks involving the Artex AI tool. The article also notes that Corcos was recently removed from Treasury AI policy work by Secretary Scott Bessent after holding unauthorized meetings with OpenAI and Anthropic.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28164"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblte58ce019a2ef9604%2F6b00c09bb798974fddc17f75%2FJason_and_Lucia_14.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rockstar Games and Take-Two Interactive announced that Grand Theft Auto VI generated $3.79 billion in worldwide day-one retail sales, establishing what the company described as the largest entertainment launch in history. The figure eclipses the first-day performance of Grand Theft Auto V, which sold an estimated $815 million in 2013.</p><p>Take-Two also reported selling over 32.5 million copies during the pre-order window, supporting the publisher's financial projections for the fiscal year. The record-breaking debut coincides with ongoing labor developments at Rockstar Games, including employee votes on union recognition and legal proceedings regarding workplace dismissals.</p>
 <p>Nov 20 · <a href="https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever">gamedeveloper.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y1cfq4/gta_6_hits_massive_379_billion_in_firstday_sales/">r/technology</a></p>
-<br clear="all" />
-
-<h2>Gilles Chehade Criticizes Framework Hardware and Support Experience</h2>
-<p>Consultant Gilles Chehade published a critical blog post detailing a negative experience with Framework hardware and customer support, stating he will not purchase products from the company again.</p><p>The post gained unexpected attention on Hacker News, prompting Chehade to clarify that his goal is to encourage Framework to improve its customer service and deliver reliable laptops.</p>
-<p>Nov 20 · <a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/">poolp.org</a> | <a href="https://news.ycombinator.com/item?id=50576855">hacker news</a></p>
 <br clear="all" />
 
 ---

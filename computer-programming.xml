@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-25T14:39:00+00:00</updated>
+  <updated>2026-11-25T17:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -65,9 +65,9 @@
     <link href="https://s.conao3.com/blog/2026/e4f733" rel="alternate" />
     <id>https://s.conao3.com/blog/2026/e4f733::v241</id>
     <published>2026-11-24T20:13:00+00:00</published>
-    <updated>2026-11-24T20:13:00+00:00</updated>
+    <updated>2026-11-25T17:55:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.conao3.com%2Fimg%2Fe4f733-mask.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://s.conao3.com/blog/2026/e4f733">s.conao3.com</a> | <a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17">lobsters</a></small></p><hr/><p>Developer Naoya Yamashita used Lean 4 formal verification and differential testing to analyze Clojure 1.12.7's core library, uncovering 17 previously unreported bugs. The discovered issues affect numeric operations, collection boundaries, and Java interoperability.</p><p>Notable findings include an infinite loop during reductions on large vector-of collections, a hash collision handling defect in persistent hash maps, and inconsistent behavior in Java functional interface adaptations depending on type hints.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.conao3.com%2Fimg%2Fe4f733-mask.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 01:33 UTC | #28498</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://s.conao3.com/blog/2026/e4f733">s.conao3.com</a> | <a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50642939">hacker news</a></small></p><hr/><p>Developer Naoya Yamashita used Lean 4 formal verification and differential testing to analyze Clojure 1.12.7's core library, uncovering 17 previously unreported bugs. The discovered issues affect numeric operations, collection boundaries, and Java interoperability.</p><p>Notable findings include an infinite loop during reductions on large vector-of collections, a hash collision handling defect in persistent hash maps, and inconsistent behavior in Java functional interface adaptations depending on type hints.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.conao3.com%2Fimg%2Fe4f733-mask.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 01:33 UTC | #28498</small>]]></content>
   </entry>
   <entry>
     <title>Rida F'kih Details Method for Bypassing iOS Safari 60 FPS Limit</title>
@@ -390,14 +390,5 @@
     <updated>2026-11-20T18:42:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Frenerocks.ai%2Fjj.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.serpentine.com/posts/2026/announcing-jj-musubi/">serpentine.com</a> | <a href="https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for">lobsters</a></small></p><hr/><p>Bryan O'Sullivan has announced jj-musubi, a new source control tool designed to live-sync Jujutsu repositories across multiple machines. Operating on a lightweight hub-and-daemon architecture over SSH, the tool automatically propagates snapshots, commits, rebases, and fetches as a user works.</p><p>Built to function similarly to Meta's Commit Cloud and internal Google servers, jj-musubi leverages Jujutsu's existing workspace machinery to handle concurrent edits safely without overwriting working copies. It also supports ephemeral virtual machine agents via a leasing system, and its network protocol safety properties have been verified using Lean proofs and extensive testing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Frenerocks.ai%2Fjj.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 00:39 UTC | #28174</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jonathan Schuster Discusses Designing Software for Understandability</title>
-    <link href="https://jschuster.org/blog/2026/11/19/design-for-understandability/" rel="alternate" />
-    <id>https://jschuster.org/blog/2026/11/19/design-for-understandability/::v240</id>
-    <published>2026-11-20T17:42:00+00:00</published>
-    <updated>2026-11-20T17:42:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fjschuster.org%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fpage_1-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://jschuster.org/blog/2026/11/19/design-for-understandability/">jschuster.org</a> | <a href="https://lobste.rs/s/qsrnot/design_for_understandability">lobsters</a></small></p><hr/><p>Jonathan Schuster's blog post, adapted from a talk given at Google's internal Code Health Summit in November 2025, argues that software should be intentionally designed for understandability. As large language models generate increasing volumes of code, developers risk falling into learned helplessness unless they maintain rigorous human judgment and code comprehension.</p><p>To counter this complexity, the talk proposes an aspirational goal: developers should be able to predict the behavior of every line of code without running a single test. Achieving this requires adopting structured practices like design by contract and data invariants, which establish clear boundaries between a component's specified behavior and its underlying implementation details.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fjschuster.org%2Fblog%2Fwp-content%2Fuploads%2F2026%2F10%2Fpage_1-1024x576.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 23:00 UTC | #28076</small>]]></content>
   </entry>
 </feed>
