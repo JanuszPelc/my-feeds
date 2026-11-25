@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-25T05:44:00+00:00</updated>
+  <updated>2026-11-25T16:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>trynix.dev Enables Fast Web-Based Linux Execution via unkernel</title>
+    <link href="https://fzakaria.com/2026/11/23/2035-came-early" rel="alternate" />
+    <id>https://fzakaria.com/2026/11/23/2035-came-early::v241</id>
+    <published>2026-11-25T16:41:00+00:00</published>
+    <updated>2026-11-25T16:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2025%26image%3Dlinux_wasm_2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fzakaria.com/2026/11/23/2035-came-early">fzakaria.com</a> | <a href="https://trynix.dev/">trynix.dev</a> | <a href="https://lobste.rs/s/rkk6o8/2035_came_early">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50624497">hacker news</a></small></p><hr/><p>This platform enables the execution of over 300,000 Nix package versions directly within a web browser. It utilizes unkernel, a project by Pooya Parsa that compiles the Linux kernel to WebAssembly (Wasm), allowing kernel and system components to run at near-native speeds while only emulating user programs. This architecture achieves performance improvements of 2x to 32x compared to previous QEMU-Wasm implementations.</p><p>The environment provides comprehensive functionality including Wayland surfaces for graphical interfaces, Mesa-based 3D rendering via WebGL2, and ALSA audio support. It also supports networking for tools like curl, git, and pip through Wisp relays. By facilitating complex operations such as nested browser instances, trynix.dev demonstrates the practical application of Atwood’s Law, where any application capable of being written in JavaScript eventually becomes a web-based reality.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3D2025%26image%3Dlinux_wasm_2&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 18:10 UTC | #28452 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>Tidal to Ban and Remove Millions of Fully AI-Generated Tracks</title>
     <link href="https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/" rel="alternate" />
