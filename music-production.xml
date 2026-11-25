@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-25T08:40:00+00:00</updated>
+  <updated>2026-11-25T09:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>MusicTech Favorite Music Plugins and Software of 2026</title>
+    <link href="https://musictech.com/guides/buyers-guide/musictech-favourite-plugins-of-2026/" rel="alternate" />
+    <id>https://musictech.com/guides/buyers-guide/musictech-favourite-plugins-of-2026/::v241</id>
+    <published>2026-11-25T09:49:00+00:00</published>
+    <updated>2026-11-25T09:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/guides/buyers-guide/musictech-favourite-plugins-of-2026/">musictech.com</a></small></p><hr/><p>MusicTech editors have curated a selection of their preferred music production plugins and software from 2026. The list includes Oeksound Soothe3 for resonance suppression, Thephonoloop Outlines for granular textures, and Native Instruments’ SuperStarSaw synth, a collaboration with A.G. Cook. Other featured tools include Tamber’s AI-adjacent suite, XLN Audio’s RC-20 Retro Color v2, Arturia’s Memory V synth, and DropLab DJ mixing software.</p><p>The roundup highlights a diverse range of technical applications, from vintage synth modernizations and lo-fi processing to non-destructive DJ workflows and functional AI-assisted tools. Editors note that while the market is saturated with AI-generated "vibecoded" plugins, these specific selections stand out for their unique workflows, refined algorithms, and practical creative utility.</p><hr/><small>25 Nov 2026, 14:53 UTC | #28530</small>]]></content>
+  </entry>
   <entry>
     <title>2Rule Releases TugGlicento v4.0 Glitch and Multi-Effect Plugin</title>
     <link href="https://www.kvraudio.com/news/2rule-releases-tugglicento-glitch-and-multi-effect-plugin-v4-0-70158?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70158" rel="alternate" />

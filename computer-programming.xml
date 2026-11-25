@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Marginalia Search Updates Project Status and C++ Index Migration</title>
+    <link href="https://www.marginalia.nu/log/a_141_marginalia_update/" rel="alternate" />
+    <id>https://www.marginalia.nu/log/a_141_marginalia_update/::v241</id>
+    <published>2026-11-25T08:44:00+00:00</published>
+    <updated>2026-11-25T08:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F219851%2F550x283%2F14f6e952b3%2Fbanner-image-step-by-step-guide-to-java-migration-and-modernization-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.marginalia.nu/log/a_141_marginalia_update/">marginalia.nu</a> | <a href="https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50638220">hacker news</a></small></p><hr/><p>Marginalia Search has entered a phase of stability focusing on bug fixes and technical debt cleanup, with most major search engine components now in place. The project recently received a $10,000 sponsorship from SerpApi and has seen a monthly increase in donations and API key sales. To address CPU bottlenecks and Java's awkward off-heap memory management, the developer is experimentally migrating parts of the index code, such as the buffer pool and inverse index structure, to C++.</p><p>The author emphasizes that search engine performance directly impacts recall, and while the current Java implementation is highly optimized, C++ provides better ergonomics for finicky low-level index work. The migration is being conducted slowly and manually to ensure maintainability, with the developer explicitly rejecting AI-generated code for this purpose to maintain independence from cloud-based AI dependencies and ensure long-term reliability.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F219851%2F550x283%2F14f6e952b3%2Fbanner-image-step-by-step-guide-to-java-migration-and-modernization-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 14:52 UTC | #28560</small>]]></content>
+  </entry>
+  <entry>
     <title>Armin Ronacher Proposes Abolishing Rust Mutex Poisoning</title>
     <link href="https://lucumr.pocoo.org/2026/11/25/poisoning/" rel="alternate" />
     <id>https://lucumr.pocoo.org/2026/11/25/poisoning/::v241</id>
