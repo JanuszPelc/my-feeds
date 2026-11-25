@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Samsung and SK Hynix Adopt YMTC Chip-Stacking Technology</h2>
 <a name="story-28519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.3dnews.ru%2Fassets%2Fexternal%2Fillustrations%2F2025%2F05%2F09%2F1122563%2Fymtc-vytesnila-samsung-i-sk-hynix-s-patentnogo-rynka-pamyati-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics and SK Hynix are adopting chip-stacking technology originally developed by China's Yangtze Memory Technologies Co. (YMTC). The move, executed through a cross-licensing agreement, indicates that YMTC has rapidly advanced its capabilities to match the technical standards of established global semiconductor leaders.</p><p>YMTC has built a robust intellectual property portfolio, filing more than 12,000 patents worldwide to support its memory chip operations. This development underscores the company's rise as a significant player in the semiconductor industry, demonstrating its ability to provide core technology to the world's top memory chipmakers.</p>
-<p>Nov 25 · <a href="https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology">asia.nikkei.com</a></p>
+<p>Nov 25 · <a href="https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology">asia.nikkei.com</a> | <a href="https://www.reddit.com/r/hardware/comments/1y53fle/chinas_ymtc_boosted_by_samsung_and_sk_hynix/">r/hardware</a></p>
 <br clear="all" />
 
 <h2>Amazon to Launch Online Car Sales Platform in UK in 2027</h2>

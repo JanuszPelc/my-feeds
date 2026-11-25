@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Producer Ninajirachi Details Her Studio Setup and Preferred Gear</h2>
+<a name="story-28558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNinajirachi-gear-picks-hero-credit-Billy-Zammit%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Australian electronic music producer Ninajirachi relies on a streamlined setup centered around Ableton Live, Genelec 8330A studio monitors, and the Blue Bluebird SL microphone to produce her distinct dance tracks. Having transitioned from FL Studio to Ableton in 2018, she frequently utilizes stock plugins like Wavetable alongside external software like FabFilter Pro-L 2 and Sonic Charge Synplant 2.</p><p>In addition to traditional hardware and software, Ninajirachi incorporates unconventional tools into her workflow, frequently recording voice memos and foley sounds on an Apple iPhone to generate sample patches and organic textures. Her production choices reflect a focus on speed and happy accidents, enabling her to create and mix tracks efficiently while touring.</p>
+<p>Nov 25 · <a href="https://musictech.com/guides/buyers-guide/ninajirachi-studio-setup-gear-plugins/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>Synth Palace Releases Free Nine-Synth Collection for macOS and Windows</h2>
 <a name="story-28561"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.synth-palace.com%2Fcdn%2Fshop%2Ffiles%2Fgempages_473287585242809350-fb5027ac-fea8-443f-8806-95bbfcb935d4.jpg%3Fv%3D10827412563646985703&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Synth Palace has released The Synth Palace, a free virtual instrument bundle featuring nine vintage-inspired synthesizers for macOS and Windows. The software includes 250 factory presets, 127 performances, and functionality to layer or split up to three synths across a keyboard.</p><p>The collection is inspired by hardware classics like the Prophet-5, Juno-106, and Memorymoog, offering individual full-panel programming, arpeggiators, step sequencers, and built-in effects. The plugin is available for free download in AU, VST3, and standalone formats by providing an email address on the developer's website.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28458"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fdw-8k-hero.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cherry Audio has released the DW-8K, a virtual reproduction of the Korg DW-8000 synthesizer available for $69. The plugin modernizes the classic hardware by featuring high-quality 64-bit additive waveforms, a sub-oscillator, expanded filtering options, waveshaping tools, and dual-layer architecture with 16 polyphonic voices per layer.</p><p>Alongside the standalone release of the DW-8K, Cherry Audio launched Synth Stack 7, an updated collection priced at $799 that bundles 41 virtual instrument plugins, including 33 vintage emulations and over 14,000 presets. The company is also running a limited-time bundle promotion allowing customers to customize instrument packages through November 30.</p>
 <p>Nov 24 · <a href="https://www.kvraudio.com/news/cherry-audio-releases-dw-8k-and-synth-stack-7-70119?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70119">kvraudio.com</a> | <a href="https://cherryaudio.com/products/dw-8k-synthesizer">cherryaudio.com</a></p>
-<br clear="all" />
-
-<h2>Instruments.digital Releases Felted Piano Free Plugin</h2>
-<a name="story-28463"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fm%2Ffelted-piano-combo-compressed.1705985732.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Instruments.digital has released Felted Piano, a free and open-source upright felt piano virtual instrument plugin for Windows and Linux. The instrument features three velocity layers, key-release noise, and adjustable controls for mechanical noises and sympathetic vibrations.</p><p>The plugin includes a granular effects panel for experimental sound design and a room simulation panel featuring X/Y microphone positioning, room size adjustment, and lowpass filtering for reverb.</p>
-<p>Nov 24 · <a href="https://bedroomproducersblog.com/2026/11/24/instruments-digital-releases-felted-piano-a-free-upright-felt-piano-vst-for-windows-and-linux/">bedroomproducersblog.com</a></p>
 <br clear="all" />
 
 ---
