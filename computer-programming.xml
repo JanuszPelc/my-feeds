@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-24T22:32:00+00:00</updated>
+  <updated>2026-11-24T22:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Jeff Lindsay Releases 9/UX Macintosh-Inspired Desktop for 9front</title>
+    <link href="https://progrium.github.io/9ux/" rel="alternate" />
+    <id>https://progrium.github.io/9ux/::v241</id>
+    <published>2026-11-24T22:36:00+00:00</published>
+    <updated>2026-11-24T22:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fprogrium.github.io%2F9ux%2Fimages%2Fdocs%2Fdesktop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://progrium.github.io/9ux/">progrium.github.io</a> | <a href="https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for">lobsters</a></small></p><hr/><p>9/UX is a Macintosh- and A/UX-inspired desktop environment for the 9front operating system, combining a direct-manipulation spatial interface with Plan 9's native file-system architecture. Developed by Jeff Lindsay, the project implements a customized rio window manager, a global menu bar, volume icons, and a 9P-based toolbox called libux where application states are exposed as editable files.</p><p>The system is built using original visual assets and color palettes that blend classic Mac design metrics with Plan 9 aesthetics, allowing native 9front applications and legacy rio windows to run side by side. Currently at version 0.1 under the MIT license, 9/UX includes an in-browser live demo powered by the h9 386 emulator and provides modular components such as a typed clipboard, metadata handlers, and resource servers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fprogrium.github.io%2F9ux%2Fimages%2Fdocs%2Fdesktop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 04:09 UTC | #28507</small>]]></content>
+  </entry>
   <entry>
     <title>Stefano Marinelli Examines BSD and Alternative Operating Systems at Linux Day 2026</title>
     <link href="https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/" rel="alternate" />

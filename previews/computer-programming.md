@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Jeff Lindsay Releases 9/UX Macintosh-Inspired Desktop for 9front</h2>
+<a name="story-28507"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprogrium.github.io%2F9ux%2Fimages%2Fdocs%2Fdesktop.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>9/UX is a Macintosh- and A/UX-inspired desktop environment for the 9front operating system, combining a direct-manipulation spatial interface with Plan 9's native file-system architecture. Developed by Jeff Lindsay, the project implements a customized rio window manager, a global menu bar, volume icons, and a 9P-based toolbox called libux where application states are exposed as editable files.</p><p>The system is built using original visual assets and color palettes that blend classic Mac design metrics with Plan 9 aesthetics, allowing native 9front applications and legacy rio windows to run side by side. Currently at version 0.1 under the MIT license, 9/UX includes an in-browser live demo powered by the h9 386 emulator and provides modular components such as a typed clipboard, metadata handlers, and resource servers.</p>
+<p>Nov 24 · <a href="https://progrium.github.io/9ux/">progrium.github.io</a> | <a href="https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for">lobsters</a></p>
+<br clear="all" />
+
 <h2>Stefano Marinelli Examines BSD and Alternative Operating Systems at Linux Day 2026</h2>
 <a name="story-28505"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Frunning-different-linux-distros-on-the-same-desktop.png%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Systems administrator Stefano Marinelli delivered a talk at Linux Day 2026 in Modena exploring the broader open source ecosystem beyond Linux, highlighting alternative operating systems like the BSD family and illumos. He reflected on the history of free software, the evolution of the Linux community, and the importance of preserving software portability and freedom of choice.</p><p>Marinelli discussed the distinct architectures and philosophies of FreeBSD, OpenBSD, and NetBSD, emphasizing that open source monoculture risks steering development toward the needs of corporate backers rather than ordinary users. He argued for evaluating tools based on specific problem-solving merits rather than defaulting to mainstream choices.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28405"><img src="https://wsrv.nl/?url=https%3A%2F%2Flambdacreate.com%2Fstatic%2Fimages%2F86%2Fia_email.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An Alpine Linux contributor details the multi-layered infrastructure work required to modernize the project's long-standing MediaWiki instance. Prompted by critical security vulnerabilities including the PHP2Shell exploit and a GitLab RCE incident, the project faced simultaneous upgrades across Alpine operating system branches, PHP versions, and MediaWiki releases.</p><p>Maintaining the infrastructure highlighted the challenges of volunteer-driven open-source projects operating under strict storage and resource limits. Beyond upgrading MediaWiki from version 1.40 to 1.46.2 and migrating from legacy git submodules to proper APK packages, contributors also had to build archiving solutions using the Internet Archive to alleviate severe CDN capacity constraints.</p>
 <p>Nov 24 · <a href="https://lambdacreate.com/posts/held-together-by-spare-time">lambdacreate.com</a> | <a href="https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki">lobsters</a></p>
-<br clear="all" />
-
-<h2>AFK-surf Releases Xnulinux to Run macOS Kernel as a Linux Kernel Module</h2>
-<a name="story-28315"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FAFK-surf%2Fxnulinux%2Fraw%2Fmain%2Fdocs%2Fimages%2Fmacos-and-linux.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Xnulinux is a project that builds Apple's open-source XNU kernel and runs it as a loadable kernel module inside an unmodified arm64 Linux kernel. By allowing XNU to drive the CPU and memory directly via a foreign kernel interface module, macOS userspace applications run natively alongside Linux processes without a traditional hypervisor.</p><p>Running on an Apple Silicon Mac within an arm64 Linux virtual machine, the system boots a macOS system disk to a functional desktop environment with working applications, networking, and GPU acceleration. The repository separates components by license, utilizing an APSL-2.0 kernel module for XNU and a GPL-2.0 interface module for Linux integration.</p>
-<p>Nov 23 · <a href="https://github.com/AFK-surf/xnulinux">github.com</a> | <a href="https://news.ycombinator.com/item?id=50607261">hacker news</a></p>
 <br clear="all" />
 
 ---

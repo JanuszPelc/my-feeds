@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Nvidia CEO Jensen Huang Returns to Headquarters Following Reinstatement</h2>
 <a name="story-28366"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F07%2FGettyImages-2219673294.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jensen Huang returned to Nvidia's headquarters to an applauding crowd of employees, following his reinstatement as chief executive officer. Huang had stepped down earlier in the month amid a series of scandals involving an alleged Chinese spy and workplace affairs, but returned to the role after community pushback and an intervention by President Donald Trump.</p><p>While supporters and prominent tech figures advocated heavily for his return, the reinstatement also follows recent reports detailing longstanding concerns over Huang's management style and workplace culture. During his appearance at headquarters, Huang addressed employees and pledged to be a better leader.</p>
-<p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/">techcrunch.com</a></p>
+<p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50418016">hacker news</a></p>
 <br clear="all" />
 
 <h2>Google Files Patent for Personalized AI-Generated TV Channel System</h2>
