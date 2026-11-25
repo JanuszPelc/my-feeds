@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Mozilla Explains Why Non-WebKit Browsers Remain Absent on iOS</title>
+    <link href="https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/" rel="alternate" />
+    <id>https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/::v241</id>
+    <published>2026-11-25T01:17:00+00:00</published>
+    <updated>2026-11-25T01:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhelp.apple.com%2Fassets%2F665F9C26873A6ED7440C41D7%2F665F9C27873A6ED7440C41DD%2Fen_US%2Fb2a01456b47f9c24a30087980101be2c.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/">blog.mozilla.org</a> | <a href="https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50575644">hacker news</a></small></p><hr/><p>Despite regulatory mandates in the European Union and Japan intended to foster browser competition on iOS, no developer has successfully launched a non-WebKit browser on the platform. Mozilla states that Apple's conditions for utilizing alternative browser engines remain unworkable and create prohibitive user friction, effectively preventing the introduction of Gecko-powered browsers like Firefox on iPhones and iPads.</p><p>Although regulations like the EU's Digital Markets Act have enabled alternative engines in theory, Apple's requirements force developers to build separate applications rather than updating existing ones, requiring users to manually transfer data and switch apps. Mozilla argues that these restrictions undermine the intended goals of open markets and user choice, leaving Gecko as the last major independent browser engine unavailable on iOS devices.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.apple.com%2Fassets%2F665F9C26873A6ED7440C41D7%2F665F9C27873A6ED7440C41DD%2Fen_US%2Fb2a01456b47f9c24a30087980101be2c.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 06:31 UTC | #28516</small>]]></content>
+  </entry>
+  <entry>
     <title>Jeff Lindsay Releases 9/UX Macintosh-Inspired Desktop for 9front</title>
     <link href="https://progrium.github.io/9ux/" rel="alternate" />
     <id>https://progrium.github.io/9ux/::v241</id>
