@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Uses Muse AI Agent to Drive Instagram Advertising Revenue</h2>
+<a name="story-28509"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthejasonfleagle.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmuse-image-agentic-creative-loop-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta is leveraging its Muse personal AI agent to increase advertising conversion rates on Instagram by streamlining the consumer shopping experience. While the tool is currently ad-free, it allows users to organize saved posts—which frequently include shoppable items—to reduce purchase friction and provide higher return on investment for advertisers.</p><p>The agent currently holds a 51% market share of agentic orders, significantly outpacing competitors like SpaceX's Grok and OpenAI's ChatGPT. Meta plans to collect transaction fees from purchases made via Muse and intends to use the resulting consumer shopping data to refine ad targeting on Instagram, with a feed-based ad model eventually planned for the agentic platform.</p>
+<p>Nov 25 · <a href="https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html">cnbc.com</a> | <a href="https://about.fb.com/newsroom/2026/09/introducing-muse-personal-ai-agent/">about.fb.com</a></p>
+<br clear="all" />
+
 <h2>Rajiv Ramaswami to Step Down as Nutanix CEO</h2>
 <a name="story-28503"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2026%2F11%2FRajiv-Ramaswami-president-and-CEO-of-Nutanix-Nutanix-.NEXT-2026.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rajiv Ramaswami will step down as chief executive of Nutanix after a six-year tenure. He will remain in his current role for the time being to work with the board of directors to identify a successor via an executive search firm, followed by a transition into a senior advisor position.</p><p>The announcement follows Nutanix's first-quarter fiscal 2027 earnings report, which showed a 15% year-over-year revenue increase and an adjusted earnings beat. However, the company's stock dropped approximately 8% in after-hours trading as investors reacted to the leadership transition and the company's cautious full-year revenue guidance.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FCleanShot-2026-11-22-at-11.00.26-PM%402x.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google has filed a patent for a personalized television system called "My Channel," which would use user data and viewing history to generate 24/7 AI-driven video content starring the viewer as the protagonist. The proposed system would customize shows—such as comedies, sci-fi adventures, or action thrillers—based on demographic details and preferences, while dynamically inserting targeted advertisements.</p><p>The patent application highlights the broader industry push toward hyper-personalized, algorithmically targeted entertainment and advertising, mirroring ongoing experiments with AI-generated video and streaming free television channels. While tech companies frequently file patents for concepts that never become commercial products, the filing aligns with growing efforts to create customized media experiences that isolate users within individually tailored realities.</p>
 <p>Nov 23 · <a href="https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/">404media.co</a></p>
-<br clear="all" />
-
-<h2>Donald Trump Endorses Nvidia Board Decision to Reinstate Jensen Huang</h2>
-<a name="story-28328"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FnQbdiAHvToNbJNYqXzUbqa.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Donald Trump announced on Truth Social that Nvidia's Board of Directors made the "correct and proper decision" to return Jensen Huang to the role of CEO. He stated that the U.S. needs Huang's leadership and referenced a finding by the U.S. Attorney General that showed no evidence of "unlawful conduct."</p><p>The statement follows reports of leadership shifts at Nvidia and signals a public endorsement of the company's executive direction. This endorsement is linked to broader political and regulatory interest in Nvidia's leadership and its impact on the American AI landscape.</p>
-<p>Nov 23 · <a href="https://truthsocial.com/@realDonaldTrump/117666141823845971">truthsocial.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y434uc/the_frantic_white_house_push_to_get_jensen_huang/">r/technology</a></p>
 <br clear="all" />
 
 ---

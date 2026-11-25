@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Tony Finch Explores the Algebra of Dependent Types</h2>
 <a name="story-28455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cambridge.org%2Fbinary%2Fversion%2Fid%2Furn%3Acambridge.org%3Aid%3Abinary%3A20250107175759231-0393%3AS0956796824000157%3AS0956796824000157_tab1.png%3Fpub-status%3Dlive&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Tony Finch explores the mathematical rationale behind the notation used in dependent type theory, examining how concepts like big-sigma and big-pi map to algebraic data types. By counting the inhabitants of a type, the post explains how product and sum types correspond to multiplication and addition, and how dependent pairs and dependent functions extend these arithmetic analogies.</p><p>The discussion touches on historical concepts such as telescopes from de Bruijn's AUTOMATH proof assistant while highlighting potential confusion caused by terminology like dependent sums and products. Ultimately, the notes connect everyday functional programming type features directly back to basic arithmetic operations.</p>
-<p>Nov 24 · <a href="https://dotat.at/@/2025-05-28-types.html">dotat.at</a> | <a href="https://lobste.rs/s/n2krd2/algebra_dependent_types_2025">lobsters</a></p>
+<p>Nov 24 · <a href="https://dotat.at/@/2025-05-28-types.html">dotat.at</a> | <a href="https://lobste.rs/s/n2krd2/algebra_dependent_types_2025">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50623866">hacker news</a></p>
 <br clear="all" />
 
 <h2>Lua for Data Representation and Configuration</h2>
