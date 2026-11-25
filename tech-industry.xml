@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-24T21:34:00+00:00</updated>
+  <updated>2026-11-24T22:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Defends Lack of Succession Plan in All-Hands Meeting</title>
+    <link href="https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/::v241</id>
+    <published>2026-11-24T22:28:00+00:00</published>
+    <updated>2026-11-24T22:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faol_business_insider_articles_308%2F19e648477ba610dd95d36564da96a17b&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/">techcrunch.com</a></small></p><hr/><p>Nvidia CEO Jensen Huang told employees during an all-hands meeting that the company does not need a traditional succession plan because such measures create unnecessary hierarchy. Huang, who recently returned to his role after stepping down earlier in November following disclosures about personal relationships, stated that Nvidia's unique business model and flat organizational structure eliminate the need for conventional leadership succession.</p><p>Despite Huang's defense of his management structure—which includes approximately 60 direct reports and a minimal executive team—the lack of a clear succession plan remains a significant concern for investors and analysts. Nvidia's board and shareholders continue to weigh the risks of the company's heavy reliance on Huang, even as leadership pledges strategic continuity following his reinstatement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faol_business_insider_articles_308%2F19e648477ba610dd95d36564da96a17b&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 03:32 UTC | #28484</small>]]></content>
+  </entry>
+  <entry>
+    <title>Former xAI Founding Members Launch Predictive AI Startup Epochal</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events::v241</id>
+    <published>2026-11-24T21:52:00+00:00</published>
+    <updated>2026-11-24T21:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F02%2FxAi-Co-Founders.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events">bloomberg.com</a></small></p><hr/><p>Three former founding members of xAI have launched a new artificial intelligence startup named Epochal, backed by a $100 million personal investment from co-founder Guodong Zhang. The company aims to develop AI agents capable of advanced forecasting and predictive capabilities.</p><p>Epochal's primary platform, Time Portal, allows AI agents to browse historical snapshots of the internet to train on past events and improve future predictions. The startup was founded by Zhang alongside Zihang Dai and Manuel Kroiss following their departures from Elon Musk's AI enterprise.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F02%2FxAi-Co-Founders.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 03:31 UTC | #28449</small>]]></content>
+  </entry>
   <entry>
     <title>Walmart Partners With Meta to Enable Black Friday Shopping via Muse AI Agent</title>
     <link href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/" rel="alternate" />
