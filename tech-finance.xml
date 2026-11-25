@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-25T02:31:00+00:00</updated>
+  <updated>2026-11-25T09:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>EU Plans €50 Billion Sovereign Tech Equity Fund for AI and Quantum</title>
+    <link href="https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0" rel="alternate" />
+    <id>https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0::v241</id>
+    <published>2026-11-25T09:50:00+00:00</published>
+    <updated>2026-11-25T09:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feu-stf.openforumeurope.org%2Fwp-content%2Fuploads%2F2025%2F07%2Fthumbnail.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0">ft.com</a></small></p><hr/><p>The European Union is reportedly planning to mobilize up to €50 billion to establish a Sovereign Tech Equity Fund aimed at making long-term, high-risk investments in European artificial intelligence and quantum computing companies.</p><p>According to reports citing officials familiar with the plans, the initiative is designed to bolster Europe's technological independence and counter the dominance of foreign competitors in critical emerging technology sectors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-stf.openforumeurope.org%2Fwp-content%2Fuploads%2F2025%2F07%2Fthumbnail.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 15:49 UTC | #28512</small>]]></content>
+  </entry>
   <entry>
     <title>HP Reports Q4 Revenue Growth and AI PC Adoption</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-24/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs" rel="alternate" />

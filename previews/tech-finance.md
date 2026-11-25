@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>EU Plans €50 Billion Sovereign Tech Equity Fund for AI and Quantum</h2>
+<a name="story-28512"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-stf.openforumeurope.org%2Fwp-content%2Fuploads%2F2025%2F07%2Fthumbnail.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The European Union is reportedly planning to mobilize up to €50 billion to establish a Sovereign Tech Equity Fund aimed at making long-term, high-risk investments in European artificial intelligence and quantum computing companies.</p><p>According to reports citing officials familiar with the plans, the initiative is designed to bolster Europe's technological independence and counter the dominance of foreign competitors in critical emerging technology sectors.</p>
+<p>Nov 25 · <a href="https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0">ft.com</a></p>
+<br clear="all" />
+
 <h2>HP Reports Q4 Revenue Growth and AI PC Adoption</h2>
 <p>HP Inc. reported fourth-quarter revenue of $16 billion, a 9.3% year-over-year increase that exceeded analyst estimates of $15.3 billion. The company also provided "prudent" fiscal 2027 guidance that surpassed market expectations and revealed that AI-enabled PCs now represent approximately 60% of its total shipments.</p><p>The company's profit forecast for the current year indicates a better handle on memory costs, suggesting results will likely exceed analyst estimates. These figures underscore HP's progress in integrating AI technology into its hardware lineup while managing production expenses more effectively.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-24/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs">bloomberg.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/0000047217/000004721726000054/hp103126exhibit991q426.htm">sec.gov</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Sierra Raises $1.75 Billion to Reach $30 Billion Valuation</h2>
 <p>Sierra has secured $1.75 billion in a Series F funding round led by Greenoaks and Lightspeed Venture Partners, doubling the enterprise customer experience company's valuation to $30 billion within six months. The firm currently serves nearly 50% of Fortune 500 companies and recently reported doubling its run-rate revenue to $400 million through an outcome-based pricing model.</p><p>The new capital will be used to expand Sierra's technology stack for servicing agents and hire more sales personnel to accelerate enterprise contract acquisition. While the AI-driven customer experience market sees high valuations for competitors like ElevenLabs and Decagon, Sierra is also developing agent protocol definitions with partners including Meta, Stripe, and Walmart.</p>
 <p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Aevius Raises $22M for Clinical Intelligence Platform</h2>
-<a name="story-28293"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg%2Fv1%2Ffill%2Fw_980%2Ch_451%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F9d6350_a7db0e11c16c4159877bb221ec0f95a4~mv2.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Clinical intelligence startup Aevius has secured $22 million in seed funding led by Insight Partners. The company aims to develop a clinical intelligence platform that makes fragmented medical data, including clinical records and imaging, computable to support better patient care and advance clinical research.</p><p>The company was founded by a team that previously developed and sold Modella AI to AstraZeneca. Aevius plans to use the new funding to develop foundation models that learn how health and disease progress over time, focusing on making medical data actionable for healthcare organizations.</p>
-<p>Nov 23 · <a href="https://www.axios.com/pro/biotech-deals/2026/11/17/aevius-22m-clinical-intelligence-platform">axios.com</a> | <a href="https://www.businesswire.com/news/home/20261117488744/en/Aevius-Launches-with-$22-Million-in-Funding-to-Make-Medicine-Computable">businesswire.com</a></p>
 <br clear="all" />
 
 ---
