@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-25T20:57:00+00:00</updated>
+  <updated>2026-11-25T23:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>OpenClaw Foundation Debuts ShellBench Benchmark for AI Agents</title>
+    <link href="https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check" rel="alternate" />
+    <id>https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check::v241</id>
+    <published>2026-11-25T23:19:00+00:00</published>
+    <updated>2026-11-25T23:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F0no9te5e%2Fproduction%2F833cf9a9eaf86cc9a9386d1a0d710845abec80df-1676x939.png%3Frect%3D4%252C0%252C1668%252C939%26w%3D3840%26h%3D2161%26fit%3Dmax%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check">thedeepview.com</a> | <a href="https://openclaw.ai/blog/shellbench">openclaw.ai</a></small></p><hr/><p>The OpenClaw Foundation has introduced ShellBench, a new benchmark designed to evaluate AI agents and harnesses on 100 real-world, everyday tasks. Developed in partnership with Parsewave, Hugging Face, Red Hat, and UC Berkeley, the benchmark tests systems in unstructured workspaces involving emails, spreadsheets, and PDFs.</p><p>Evaluating 13 open-source and proprietary models across five agent harnesses, the research reveals that top-tier models achieve only a 60% success rate on practical tasks. The findings highlight significant issues with information omission, inconsistent performance across repeated runs, and a weak correlation between model cost and actual capability.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F0no9te5e%2Fproduction%2F833cf9a9eaf86cc9a9386d1a0d710845abec80df-1676x939.png%3Frect%3D4%252C0%252C1668%252C939%26w%3D3840%26h%3D2161%26fit%3Dmax%26auto%3Dformat&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 23:31 UTC | #28415 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Michael Harley: LLM Agents Serve Their Parent Companies Rather Than Users</title>
     <link href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/" rel="alternate" />
