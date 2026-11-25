@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Aurally Sound Updates Song Master and Song Master Pro to Version 5.2</h2>
+<a name="story-28528"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsm_hindsvid.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Aurally Sound has released version 5.2 of its Song Master and Song Master Pro software for Windows and macOS. The standalone transcription and practice applications are designed to help musicians analyze recorded music by identifying chords, tempo, key, and song structure.</p><p>The update introduces native video playback with synchronized audio analysis, alongside GPU-accelerated stem separation that delivers significant performance gains on Apple Silicon and NVIDIA hardware. Additionally, Song Master Pro adds a new drums-to-MIDI conversion tool capable of detecting nine individual drum types, featuring adjustable sensitivity and percussion notation export options.</p>
+<p>Nov 25 · <a href="https://www.kvraudio.com/news/aurally-sound-updates-song-master-and-song-master-pro-to-v5-2-70143?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70143">kvraudio.com</a> | <a href="https://docs.aurallysound.com/blog/Song-Master_5_2-Update">docs.aurallysound.com</a></p>
+<br clear="all" />
+
 <h2>Toontrack Releases Session Amps Metal EZmix Pack</h2>
 <a name="story-28478"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt778_sessionampsmetalezmixpack_top-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Toontrack has released Session Amps Metal, an expansion pack for the EZmix 3 mixing plugin featuring 25 mix-ready guitar tones spanning traditional to modern metal styles. Priced at $39, the collection focuses primarily on rhythm guitar presets, ranging from early heavy metal sounds to thrash and modern death metal, supplemented by select lead and effect tones.</p><p>The presets were captured using neural network technology and impulse responses based on real amplifiers, cabinets, and pedals. Each patch models a complete studio signal chain, incorporating specific microphones, placement choices, and room ambience, alongside dedicated parameters for fine-tuning the sound.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28420"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPHgxrdl3X0Q%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer InnerMost47 has released GRM Guitar, a free, open-source physically modeled acoustic guitar available in VST3 and standalone formats for Windows and Linux. Built using C++ and the JUCE 8 framework, the instrument uses a Global Relational Network to simulate the physics of string interaction, instrument body materials, pickups, and room acoustics without relying on large sample libraries.</p><p>The plugin includes a specialized guitar roll equipped with a Playability Engine designed to prevent physically impossible chords and fret stretches. It functions as a workstation supporting up to eight independent guitar outputs alongside a built-in pattern sequencer, though future updates are planned to add fundamental articulations like slides, hammer-ons, and pull-offs.</p>
 <p>Nov 24 · <a href="https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/">bedroomproducersblog.com</a> | <a href="https://github.com/innermost47/grm-guitar-vst">github.com</a></p>
-<br clear="all" />
-
-<h2>Luma Audio Offers Luma and Luma FX Bundle for $99</h2>
-<a name="story-28421"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxU7zEzxQHg4%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Luma Audio is offering a bundle containing the Luma textural instrument and the Luma FX audio effect plugin for $99 until December 1, 2026. The promotion provides a discount compared to the standard bundle price of $149 and the individual retail price of $228 for each plugin.</p><p>Luma is a sampler that combines over 500 sound sources with textures using an XY pad for tonal control, including features like Variance for pitch/pan randomization and Disturbance for glitch fragments. Luma FX allows users to apply over 300 foley loops and impulse responses to external audio, featuring modulation controls, Spectral Gate processing, and compatibility with VST3, AU, and AAX formats.</p>
-<p>Nov 24 · <a href="https://bedroomproducersblog.com/2026/11/24/luma-audio-bundle/">bedroomproducersblog.com</a> | <a href="https://luma.audio/?utm_source=bedroomproducersblog&utm_medium=sponsored_post&utm_campaign=black_friday_2026">luma.audio</a></p>
 <br clear="all" />
 
 ---
