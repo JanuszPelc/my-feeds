@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Ableton Push 3 Controller and Standalone Models Discounted for Black Friday</h2>
+<a name="story-28571"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAbleton-Push-3-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Retailer Sweetwater has introduced Black Friday discounts on the Ableton Push 3, offering the standalone edition for $1,439 and the control surface edition for $799. The hardware features 64 MPE-enabled pads and functions as an integrated audio and MIDI interface for production setups.</p><p>The standalone model includes an internal processor and battery, allowing users to operate independently of a computer, while the control surface version requires a tethered connection to Ableton Live. Both configurations are part of an upgradable, modular hardware system designed to integrate with music production rigs.</p>
+<p>Nov 25 · <a href="https://musictech.com/news/gear/black-friday-deal-ableton-push-3-controller/">musictech.com</a> | <a href="https://www.sweetwater.com/store/detail/Push3--ableton-push-3">sweetwater.com</a></p>
+<br clear="all" />
+
 <h2>Clark Audio Dark Fantasy Virtual Instrument Available Free at Audio Plugin Deals</h2>
 <a name="story-28568"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.mydealz.de%2Fthreads%2Fraw%2FE9hCx%2F2877664_1%2Fre%2F1024x1024%2Fqt%2F60%2F2877664_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio Plugin Deals is offering Clark Audio's Dark Fantasy virtual instrument as a free download until December 4, 2026. Normally priced at $49, the plugin features 40 presets designed for dark ambient, dungeon synth, and medieval-inspired scoring.</p><p>The instrument includes detuned retro synth patches alongside layered flute and string recordings, operating as a standalone VST3 and AU plugin without requiring Kontakt. Users can shape sounds via attack and release controls, alongside built-in effects like tone adjustment, pitch drift, distance reverb, and tape-style wear.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28528"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsm_hindsvid.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Aurally Sound has released version 5.2 of its Song Master and Song Master Pro software for Windows and macOS. The standalone transcription and practice applications are designed to help musicians analyze recorded music by identifying chords, tempo, key, and song structure.</p><p>The update introduces native video playback with synchronized audio analysis, alongside GPU-accelerated stem separation that delivers significant performance gains on Apple Silicon and NVIDIA hardware. Additionally, Song Master Pro adds a new drums-to-MIDI conversion tool capable of detecting nine individual drum types, featuring adjustable sensitivity and percussion notation export options.</p>
 <p>Nov 25 · <a href="https://www.kvraudio.com/news/aurally-sound-updates-song-master-and-song-master-pro-to-v5-2-70143?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70143">kvraudio.com</a> | <a href="https://docs.aurallysound.com/blog/Song-Master_5_2-Update">docs.aurallysound.com</a></p>
-<br clear="all" />
-
-<h2>Toontrack Releases Session Amps Metal EZmix Pack</h2>
-<a name="story-28478"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ftt778_sessionampsmetalezmixpack_top-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Toontrack has released Session Amps Metal, an expansion pack for the EZmix 3 mixing plugin featuring 25 mix-ready guitar tones spanning traditional to modern metal styles. Priced at $39, the collection focuses primarily on rhythm guitar presets, ranging from early heavy metal sounds to thrash and modern death metal, supplemented by select lead and effect tones.</p><p>The presets were captured using neural network technology and impulse responses based on real amplifiers, cabinets, and pedals. Each patch models a complete studio signal chain, incorporating specific microphones, placement choices, and room ambience, alongside dedicated parameters for fine-tuning the sound.</p>
-<p>Nov 24 · <a href="https://www.kvraudio.com/news/toontrack-releases-session-amps-metal-ezmix-pack-for-ezmix-3-70140?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70140">kvraudio.com</a> | <a href="https://www.toontrack.com/product/session-amps-metal-ezmix-pack/">toontrack.com</a></p>
 <br clear="all" />
 
 ---
