@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Social Media Claims Surface Regarding Grand Theft Auto VI Running on Personal Computers</h2>
+<a name="story-28525"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.iplsc.com%2F000NA5JZS0M4QFWA-C323-F4.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Social media posts have emerged claiming that Grand Theft Auto VI is running on personal computers with near-complete shaders. The unverified assertions reflect ongoing community interest in unofficial or leaked software builds of the game.</p><p>Developer Rockstar Games has not officially announced a personal computer version for the title, which is slated for console platforms. Similar speculation frequently circulates within gaming communities following software data leaks and community testing discussions.</p>
+<p>Nov 25 · <a href="https://twitter.com/raul_bs3/status/2125213756238291075">x.com</a> | <a href="https://news.ycombinator.com/item?id=50627783">hacker news</a></p>
+<br clear="all" />
+
 <h2>Pokemon Childhood Version Romhack Brings Generation 1 Urban Legends to Life</h2>
 <a name="story-28518"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic1.thegamerimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F06%2FMew-Truck.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer wheybags has released Pokemon Childhood Version, a Generation 1 Pokémon romhack that turns classic playground myths and urban legends into actual game mechanics. The project implements longstanding rumors from the original Game Boy titles, allowing players to experience childhood theories that were previously impossible in the official games.</p><p>Key features in the hack include catching Mew beneath the S.S. Anne truck, accessing Bill's garden to capture starter Pokémon and Pikablu, battling Professor Oak after completing the Pokédex, and giving Magikarp's splash attack a one-in-256 chance to instantly knock out an opponent. The romhack is distributed as a patching tool that modifies a user-supplied original ROM, with its source code publicly available on GitHub.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28132"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fsm1-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Valve has warned that ongoing increases in memory and storage costs may force the company to raise the price of its supply-limited Steam Machines. As the initial batch of reservations concludes, Valve stated that component costs are rising at unprecedented levels, making future production volumes and pricing uncertain, with the 2TB model facing particularly severe constraints.</p><p>The hardware market has experienced widespread price hikes across major console manufacturers due to similar supply pressures. However, analysts note that Valve's smaller scale makes it more vulnerable to component cost shocks compared to larger competitors like Nintendo, Sony, and Microsoft.</p>
 <p>Nov 20 · <a href="https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/">arstechnica.com</a> | <a href="https://store.steampowered.com/news/group/45479024?emclan=103582791475000432&emgid=687522235410285038">store.steampowered.com</a></p>
-<br clear="all" />
-
-<h2>Mikael Kasurinen Discusses Control Resonant on Game Developer Podcast</h2>
-<a name="story-28125"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt12efdced695253bf%2F6b0064a2e1e36d368e033d37%2Fcontrolresonant.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In this episode of the Game Developer Podcast, host Bryant Francis speaks with Remedy Entertainment creative director Mikael Kasurinen about the development and commercial success of Control Resonant. Kasurinen shares insights into how the studio approached the project, which recently surpassed one million copies sold.</p><p>The discussion explores the lessons learned from both successes and struggles within the broader games industry, offering strategies for developers looking to hone their craft. The conversation highlights the creative choices and production decisions that contributed to Control Resonant becoming a chart-topping hit for Remedy.</p>
-<p>Nov 20 · <a href="https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen">gamedeveloper.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-24T21:20:00+00:00</updated>
+  <updated>2026-11-25T01:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Dell Reports Q3 Revenue of $54.94 Billion and Raises Annual Forecasts</title>
+    <link href="https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/" rel="alternate" />
+    <id>https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/::v241</id>
+    <published>2026-11-25T01:26:00+00:00</published>
+    <updated>2026-11-25T01:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fpage%2Fportfolio%2Flaptop-promo-module-dell-pro-max.png%3Ffmt%3Dpng-alpha%26wid%3D600%26hei%3D400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/">reuters.com</a> | <a href="https://www.dell.com/en-us/newsroom/announcements/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results">dell.com</a></small></p><hr/><p>Dell Technologies reported third-quarter fiscal 2027 revenue of $54.94 billion, marking a 103% increase year-over-year that surpassed analyst expectations of $49.32 billion, driven by surging demand for artificial intelligence servers. Net income and per-share earnings also saw substantial gains, underpinned by strong momentum across both the Infrastructure Solutions Group and Client Solutions Group.</p><p>Following the record quarterly performance, the company raised its annual revenue and profit forecasts for the third time this year. Management pointed to an expanding AI server backlog and continued enterprise adoption of high-performance computing infrastructure as key drivers for ongoing financial growth.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fpage%2Fportfolio%2Flaptop-promo-module-dell-pro-max.png%3Ffmt%3Dpng-alpha%26wid%3D600%26hei%3D400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 07:57 UTC | #28479</small>]]></content>
+  </entry>
   <entry>
     <title>Maple Raises $5.3M Seed Funding for Privacy-Focused AI Products</title>
     <link href="https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Dell Reports Q3 Revenue of $54.94 Billion and Raises Annual Forecasts</h2>
+<a name="story-28479"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.dell.com%2Fis%2Fimage%2FDellContent%2Fcontent%2Fdam%2Fss2%2Fproduct-images%2Fpage%2Fportfolio%2Flaptop-promo-module-dell-pro-max.png%3Ffmt%3Dpng-alpha%26wid%3D600%26hei%3D400&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dell Technologies reported third-quarter fiscal 2027 revenue of $54.94 billion, marking a 103% increase year-over-year that surpassed analyst expectations of $49.32 billion, driven by surging demand for artificial intelligence servers. Net income and per-share earnings also saw substantial gains, underpinned by strong momentum across both the Infrastructure Solutions Group and Client Solutions Group.</p><p>Following the record quarterly performance, the company raised its annual revenue and profit forecasts for the third time this year. Management pointed to an expanding AI server backlog and continued enterprise adoption of high-performance computing infrastructure as key drivers for ongoing financial growth.</p>
+<p>Nov 25 · <a href="https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/">reuters.com</a> | <a href="https://www.dell.com/en-us/newsroom/announcements/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results">dell.com</a></p>
+<br clear="all" />
+
 <h2>Maple Raises $5.3M Seed Funding for Privacy-Focused AI Products</h2>
 <a name="story-28474"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.teradata.com%2Fgetmedia%2F2f13baf3-af94-4717-aabd-652f9d9f4ceb%2FPrivate_AI_Architecture_V2.png%3Fwidth%3D1052%26height%3D583&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Privacy-focused AI startup Maple has raised $5.3 million in a seed funding round led by EPIC Ventures, with participation from Draper Associates, Planetary VC, and Epoch VC. The company develops AI applications that utilize hardware-based Trusted Execution Environments and user-managed encryption keys to ensure customer data remains inaccessible even to the company itself.</p><p>Following the release of its mobile chat and desktop agent apps, Maple plans to use the new capital to build a cloud-based agent that operates continuously while maintaining strict data privacy. The startup is currently pursuing SOC 2 compliance in preparation for an upcoming push into the enterprise market.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Alecto Raises $20M Seed Funding for AI-Native UK Property Legal Services</h2>
 <p>Alecto Conveyancing Ltd. has raised $20 million in seed funding led by Insight Partners to provide AI-driven legal services for the United Kingdom's property market. The London-based firm aims to simplify the conveyancing process—the legal work required to buy and sell property—by using artificial intelligence to translate complex legal procedures into plain language for consumers.</p><p>Founded in September 2025 by serial entrepreneur Will Rice, Alecto seeks to disrupt the traditional billable-hour legal model in favor of an outcome-oriented service. The company targets a $3.3 billion UK conveyancing market and intends to become a market leader by 2027 by offering more transparent costs and providing property owners with greater control over their legal proceedings.</p>
 <p>Nov 23 · <a href="https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/">siliconangle.com</a> | <a href="https://alectolegal.com/">alectolegal.com</a></p>
-<br clear="all" />
-
-<h2>Arva AI Secures $20 Million Series A Funding for Bank Compliance Technology</h2>
-<a name="story-28277"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.blockchain-council.org%2Fblog-media%2Fposts%2F4d9e0b94-625%2Fai-agents-in-finance-reconciliation-risk-monitoring-compliance-and-fraud-detecti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Arva AI has raised $20 million in a Series A funding round to support its development of artificial intelligence agents designed to automate financial-crime compliance reviews for banks. The company builds specialized tools aimed at helping financial institutions handle time-consuming compliance tasks without missing suspicious activity.</p><p>The fresh capital will be directed toward expanding the company's bank-facing capabilities, supporting its research division, and scaling its operations into areas such as payment operations, disputes, and lending. The round highlights ongoing investor interest in specialized regulatory technology designed to streamline risk management workflows in the banking sector.</p>
-<p>Nov 23 · <a href="https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance">axios.com</a></p>
 <br clear="all" />
 
 ---
