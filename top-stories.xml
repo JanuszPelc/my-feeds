@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-25T16:41:00+00:00</updated>
+  <updated>2026-11-25T18:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>CrowdStrike Agrees to Acquire Zscaler for $43.9 Billion</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler::v241</id>
+    <published>2026-11-25T18:48:00+00:00</published>
+    <updated>2026-11-25T18:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fcrowdstrike-vs-zscaler-forward-sales-valuation-gap.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler">bloomberg.com</a> | <a href="https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero">ir.crowdstrike.com</a></small></p><hr/><p>CrowdStrike Holdings Inc. has agreed to acquire cybersecurity provider Zscaler Inc. in an all-stock transaction valued at approximately $43.9 billion. Under the terms of the agreement, each Zscaler share will convert into 1.135 CrowdStrike shares, representing a roughly 34% premium.</p><p>The deal combines CrowdStrike’s Falcon endpoint and cloud security platform with Zscaler's network security and zero-trust capabilities, marking one of the largest acquisitions in the cybersecurity sector. The transaction is expected to close in the second half of CrowdStrike's fiscal 2028, pending regulatory approvals and shareholder votes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fcrowdstrike-vs-zscaler-forward-sales-valuation-gap.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 06:41 UTC | #28305 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>trynix.dev Enables Fast Web-Based Linux Execution via unkernel</title>
     <link href="https://fzakaria.com/2026/11/23/2035-came-early" rel="alternate" />

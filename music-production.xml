@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-25T13:31:00+00:00</updated>
+  <updated>2026-11-25T13:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Intech Studio Offers 20% Off Grid Modular MIDI Controllers for Black Friday</title>
+    <link href="https://bedroomproducersblog.com/2026/11/25/intech-studio-grid-black-friday/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/25/intech-studio-grid-black-friday/::v241</id>
+    <published>2026-11-25T13:36:00+00:00</published>
+    <updated>2026-11-25T13:36:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftaurus.intech.studio%2Fpages%2Fblack-friday-2026%2Fposter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/25/intech-studio-grid-black-friday/">bedroomproducersblog.com</a> | <a href="https://intech.studio/pages/black-friday-2026">intech.studio</a></small></p><hr/><p>Intech Studio is running a Black Friday sale offering a 20% discount on its Grid modular MIDI controller system and all module variants, including the recently introduced ZONA touch controller. The promotion runs through November 30, 2026, with discounts applied automatically at checkout across all eligible modules, while accessories, parts, and DIY kits are excluded.</p><p>The Grid ecosystem features magnetic 106.6 mm square modules that snap together to combine knobs, faders, buttons, and displays into custom hardware layouts. Communication and power are handled across the magnetic links, allowing a single USB-C cable to power up to eight modules. The open-source hardware and software support macOS, Windows, and Linux, with user configurations managed via the free Grid Editor and Lua scripting.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftaurus.intech.studio%2Fpages%2Fblack-friday-2026%2Fposter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>25 Nov 2026, 18:44 UTC | #28563</small>]]></content>
+  </entry>
   <entry>
     <title>Soundroll Releases Fuzz Free Fuzz Plugin for macOS</title>
     <link href="https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/" rel="alternate" />
