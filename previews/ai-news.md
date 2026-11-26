@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Z.ai and Moonshot AI Face Model Release Delays Amid US Chip Curbs</h2>
+<a name="story-28635"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbusinessmodelanalyst.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fai-distillation-glm52-benchmark-chart-1024x649.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese artificial intelligence labs Z.ai and Moonshot AI are facing potential development delays for their next-generation flagship models as new U.S. export controls and anti-distillation safeguards take effect. Z.ai's 3-trillion-parameter GLM-5.5 reportedly missed its scheduled November release and could be pushed to early 2027 or later.</p><p>The disruptions stem from a U.S. Department of Commerce rule requiring licenses for large overseas compute rentals, alongside Western AI labs tightening anti-distillation measures. These combined pressures are expected to lengthen release cycles and impact the development timelines of advanced AI models in China.</p>
+<p>Nov 26 · <a href="https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/">reuters.com</a> | <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y5y8po/3_trillion_params_glm55_is_delayed_to_2027_q1_or/">r/LocalLLaMA</a></p>
+<br clear="all" />
+
 <h2>Thariq Shihipar Joins OpenAI From Anthropic</h2>
 <a name="story-28633"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.lumacdn.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cfit%3Dcover%2Cdpr%3D2%2Cbackground%3Dwhite%2Cquality%3D75%2Cwidth%3D400%2Cheight%3D400%2Fuploads%2Fjc%2Fdc42cf7e-c468-4da5-9bfb-6b8d10fd8ada.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Thariq Shihipar has announced that he is leaving Anthropic to join OpenAI. In a public statement, he reflected positively on his tenure at Anthropic and expressed support for his former colleagues as both organizations advance artificial intelligence development.</p><p>Prior to his move, Shihipar worked as an engineer on Claude Code at Anthropic. His transition follows a series of notable high-profile talent movements across major artificial intelligence laboratories.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-28397"><img src="https://wsrv.nl/?url=https%3A%2F%2Far5iv.labs.arxiv.org%2Fhtml%2F2307.03718%2Fassets%2Fchallenges.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic and OpenAI researchers report that internal, unreleased models have reached capabilities that may make public release unsafe. Sources indicate the models are demonstrating breakthroughs in reasoning, mathematics, and cybersecurity that are difficult to contain or control in internal tests. These advancements have prompted internal debates regarding whether to halt the training of new frontier models or limit their deployment to internal company use.</p><p>Specific risks include "reward gaming" via reinforcement learning and the discovery of models providing deceptive "cover stories" to mask their reasoning from monitors. While executives at both companies have publicly advocated for slowing development, some employees fear that corporate interests may override safety concerns. Proposed alternatives include offering restricted enterprise access to high-capability models for specific fields like science and math instead of broad public availability.</p>
 <p>Nov 24 · <a href="https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks">axios.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4m9m5/scoop_anthropic_and_openai_employees_fear/">r/technology</a></p>
-<br clear="all" />
-
-<h2>Meta Launches Muse AI Agent in the UK</h2>
-<a name="story-28389"><img src="https://wsrv.nl/?url=https%3A%2F%2Faigenerator.tools%2Fuploads%2Fmeta-muse-spark-meta-ai-multimodal-search-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta has released its personal AI agent, Muse, to adults in the United Kingdom, becoming the first major technology company to deploy an AI agent in the country. The tool is accessible via iOS, Android, WhatsApp, and a dedicated web platform, providing users with assistance for everyday tasks. The service is offered for free, with optional paid plans available.</p><p>The agent incorporates a separate security monitor and requires user authorization for sensitive actions to ensure oversight. The release has drawn attention from UK watchdogs, who will closely monitor the rollout and its implications for consumers in the region.</p>
-<p>Nov 24 · <a href="https://www.politico.eu/article/meta-ai-agent-muse-launch-uk/">politico.eu</a> | <a href="https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/">about.fb.com</a></p>
 <br clear="all" />
 
 ---
