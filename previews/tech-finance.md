@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>S&amp;P 500 Software and Semiconductor Subindices Shift Amid AI Market Rotation</h2>
+<a name="story-28619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21Z8X-%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c3f37e3-4182-4844-be28-638f0c16de41_4164x2968.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The S&amp;P 500 software and semiconductor subindices are both down slightly year-to-date, reflecting a shifting market narrative around artificial intelligence. Software shares have outperformed semiconductors as investors rethink potential winners and losers within the technology sector.</p><p>This performance shift brings semiconductor and software valuations nearly neck-and-neck as market participants rotate capital away from previous high-flying chip stocks. Analysts note that the evolving sentiment highlights broader adjustments in how investors assess AI-driven disruption and commercial viability across different technology segments.</p>
+<p>Nov 26 · <a href="https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65">ft.com</a></p>
+<br clear="all" />
+
 <h2>Every Raises $17.5 Million in Series A Funding at $110 Million Valuation</h2>
 <a name="story-28576"><img src="https://wsrv.nl/?url=https%3A%2F%2Fevery.to%2Fassets%2Fteam%2Fdan-0ff7cf951d07fc086d603ec0b20714678b5c542ef0617518fcb5b6f78af33e0c.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI-focused media and software company Every has raised $17.5 million in a Series A funding round at a post-money valuation of $110 million. IA Ventures led the financing, with participation from Betaworks and The Atlantic CEO Nicholas Thompson, among others.</p><p>Founded in 2020 by Dan Shipper, Every combines a professional publication with corporate consulting and conference production focused on AI adoption. Shipper retained full control of the company through the financing terms and continues to lead the organization as it expands its operations.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28309"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiELbkCdQ34XE%2Fv2%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Marlowe, a six-month-old startup co-founded by two former Microsoft vice presidents, has raised $277 million in a seed funding round led by Accel. The investment values the company at $1.15 billion and is intended to support the development of cloud infrastructure and performance tools designed to optimize AI hardware from competitors of Nvidia.</p><p>The company aims to provide high-performance alternatives to Nvidia's dominant market share by building infrastructure specifically around AMD accelerators and other non-Nvidia chips. Marlowe plans to open its first data center by the end of 2026 to facilitate these infrastructure offerings.</p>
 <p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>CrowdStrike Agrees to Acquire Zscaler for $43.9 Billion</h2>
-<a name="story-28305"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fcrowdstrike-vs-zscaler-forward-sales-valuation-gap.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>CrowdStrike Holdings Inc. has agreed to acquire cybersecurity provider Zscaler Inc. in an all-stock transaction valued at approximately $43.9 billion. Under the terms of the agreement, each Zscaler share will convert into 1.135 CrowdStrike shares, representing a roughly 34% premium.</p><p>The deal combines CrowdStrike’s Falcon endpoint and cloud security platform with Zscaler's network security and zero-trust capabilities, marking one of the largest acquisitions in the cybersecurity sector. The transaction is expected to close in the second half of CrowdStrike's fiscal 2028, pending regulatory approvals and shareholder votes.</p>
-<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler">bloomberg.com</a> | <a href="https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero">ir.crowdstrike.com</a></p>
 <br clear="all" />
 
 ---
