@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-26T04:32:00+00:00</updated>
+  <updated>2026-11-26T08:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Mathematicians Adapt to AI-Generated Proofs by Focusing on "Digestion"</title>
+    <link href="https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539" rel="alternate" />
+    <id>https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539::v241</id>
+    <published>2026-11-26T08:25:00+00:00</published>
+    <updated>2026-11-26T08:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771240%2Foriginal%2Ffile-20261110-64-kepwey.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539">theconversation.com</a></small></p><hr/><p>The rapid advancement of AI in mathematics—highlighted by a claimed 250,000-page solution to the generalized Riemann hypothesis by Anthropic’s Claude and OpenAI's release of 722 AI-generated research papers—is forcing a fundamental shift in the field. While AI can now generate complex proofs and solutions that would take humans years to produce, these outputs are often incomprehensible to human researchers. The article argues that the core value of mathematics lies not just in reaching a solution, but in understanding the underlying logic and applying it to new contexts.</p><p>To preserve mathematical understanding, mathematicians are proposing a transition toward "digesting" proofs: absorbing, simplifying, and contextualizing AI-generated results to make them applicable. This shift may lead to significant changes in academia, including a move in Ph.D. programs to prioritize the explanation of solutions over their derivation and a shift toward oral exams in classrooms. Much like the calculator freed students from basic arithmetic, AI is expected to redefine mathematical research as a process of interpreting and applying technology-aided results.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F771240%2Foriginal%2Ffile-20261110-64-kepwey.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 18:32 UTC | #28418 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Scott Aaronson Examines Recent AI-Driven Breakthroughs in Mathematical Complexity</title>
     <link href="https://scottaaronson.blog/?p=10379" rel="alternate" />
