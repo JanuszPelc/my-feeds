@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Elon Musk Doubles Pledge to Two SpaceX Shares for Every US Child</h2>
+<a name="story-28632"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F671024fa1ddf17faf1e64d01%2F3%3A2%2Fw_2560%2Cc_limit%2F101624-Trump-superdonors-elon-musk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Elon Musk and SpaceX have announced plans to provide every child in the United States with two shares of SpaceX stock through Trump Accounts, doubling a previous commitment made in October. The combined donation is valued at approximately $18.4 billion.</p><p>Under the plan, one share will be issued directly by SpaceX and the second will come personally from Musk. The initiative builds on earlier stock-gifting proposals involving active Trump Accounts, though parents must take specific action for children to receive the shares.</p>
+<p>Nov 26 · <a href="https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>Global Memory Chip Shortage Drives Up Electronics Prices Amid AI Demand</h2>
 <a name="story-28620"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F01%2Ffeatured-image-3-1200x600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A severe global memory chip shortage driven by artificial intelligence demand has forced companies worldwide to establish procurement war rooms to secure vital components. Certain chip prices have surged up to tenfold over the past year, driving up overall electronics prices and leading hardware manufacturers to raise product costs.</p><p>Major technology firms have intensified their supply chain efforts by dispatching procurement executives directly to semiconductor manufacturing hubs in South Korea. Industry leaders note that component availability remains severely constrained, with customers receiving only a fraction of their required memory supply as the market struggles to keep pace with demand.</p>
@@ -85,12 +91,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Flipkart CEO Kalyan Krishnamurthy to Step Down in December</h2>
 <p>Flipkart Chief Executive Officer Kalyan Krishnamurthy plans to leave his position on December 4 after leading India's largest online retailer for more than eleven years. Walmart, which owns a controlling stake in Flipkart, announced the upcoming departure and named Chief Technology Officer Balaji Thiagarajan as interim CEO.</p><p>Krishnamurthy played a central role in scaling Flipkart following Walmart's acquisition in 2018, overseeing substantial growth in its e-commerce operations. His exit coincides with ongoing discussions regarding the company's timeline for an initial public offering and broader strategic adjustments within Walmart's Indian retail footprint.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play">bloomberg.com</a> | <a href="https://corporate.walmart.com/news/2026/11/kalyan-krishnamurthy-to-leave-flipkart">corporate.walmart.com</a></p>
-<br clear="all" />
-
-<h2>Amazon and Meta in Talks to Lift Blockade on Muse AI Agent</h2>
-<a name="story-28556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapnaran.com%2Fwp-content%2Fuploads%2F2023%2F02%2FAmazon.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon and Meta are reportedly negotiating a deal that would allow Meta’s Muse AI agent to connect directly to Amazon’s marketplace. This move would reverse a blockade established in September 2026 that prevented Muse users from making purchases on Amazon.com.</p><p>The discussions currently center on how search results and advertising will be presented under the potential agreement. Amazon remains concerned that third-party shopping agents could impact its advertising revenue and direct consumer relationships, and any final deal will require approval from both companies' CEOs.</p>
-<p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/">techcrunch.com</a> | <a href="https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/">fortune.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y58nah/shoppers_are_using_ai_agents_to_save_them_from/">r/technology</a></p>
 <br clear="all" />
 
 ---

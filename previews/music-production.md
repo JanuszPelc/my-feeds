@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Nord Grand 2 Stage Piano Offered at Discount by Sweetwater</h2>
+<a name="story-28662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fnord-grand-2-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sweetwater is offering Nord’s flagship Grand 2 stage piano for $4,499, a $500 reduction from its standard $4,999 price, with the promotion running through November 30. The 88-key instrument features a Kawai-built hammer-action keybed utilizing a triple-sensor system designed to replicate the physical response of an acoustic grand piano.</p><p>The updated model includes a revised control layout and an expanded sound engine with layerable piano and synth sections, each featuring dedicated effects and new reverb and delay options. The system supports 120-voice polyphony and includes expanded sample memory, the Triple Pedal 2, and a two-year warranty.</p>
+<p>Nov 26 · <a href="https://musictech.com/news/gear/nords-flagship-grand-2-stage-piano-is-500-off-for-black-friday/">musictech.com</a> | <a href="https://www.nordkeyboards.com/products/nord-grand-2/overview/">nordkeyboards.com</a></p>
+<br clear="all" />
+
 <h2>Celemony Melodyne 5 Essential Discounted to £21 for Black Friday</h2>
 <a name="story-28660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMelodyne-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Celemony's pitch and timing correction software, Melodyne 5 Essential, is available at a discounted price of £21 through Plugin Boutique as part of a Black Friday promotion running until December 30, 2026. The entry-level edition is normally priced at £85.</p><p>Melodyne 5 Essential provides note-based audio editing using visual representations of notes rather than traditional waveforms, incorporating the Melodic, Percussive, and Universal algorithms along with automated chord recognition. While it omits advanced manual controls like the Fade and Sibilant tools found in higher tiers, users can later upgrade to more advanced editions by paying the price difference.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28631"><img src="https://wsrv.nl/?url=https%3A%2F%2Fproducelikeapro.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F09%2FLogic-Pro-X-Tutorial-Get-Mixing-in-a-Powerful-DAW-993x606.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jukeblocks has updated its browser-based digital audio workstation project converter to support Apple's Logic Pro and GarageBand. The tool enables users to transfer projects between major DAWs by structurally rebuilding project files rather than flattening tracks into audio stems.</p><p>Logic Pro support is currently in beta for versions 10.6 and later with restrictions on Audio Unit plugins, while GarageBand is supported starting from version 10.4.5. The service automatically handles plugin format swaps where applicable, with access provided through subscription tiers or individual conversion credits.</p>
 <p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/jukeblocks/">bedroomproducersblog.com</a> | <a href="https://jukeblocks.io/convert/">jukeblocks.io</a></p>
-<br clear="all" />
-
-<h2>ORB-338X Released as Free ReBirth Groovebox Remake</h2>
-<a name="story-28627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fglobal.discourse-cdn.com%2Ffree1%2Fuploads%2Fopenstagecontrol%2Foriginal%2F2X%2F7%2F7cca27c16e1abe7dbe52789c2c68f36ee2d4e7af.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ORB-338X is a free, open-source standalone groovebox for Windows, macOS, and Linux that builds upon the OpenRB-338 recreation of Propellerhead's classic ReBirth RB-338. Developed as a separate fork featuring a redesigned interface by Minikod and other contributors, it emulates the original setup of two TB-303 bass synthesizers alongside TR-808 and TR-909 drum machines, while adding expanded pattern sequencing and modulation capabilities.</p><p>The software introduces direct step-level editing and scale-based generation for basslines, individual LFO modulation for 303 parameters like cutoff and decay, and independent drum kit loading with per-drum panning and effects routing. It supports standard ReBirth song files alongside a new .rbsx format that preserves these expanded settings. Operating as a standalone application without MIDI input or sync, it allows users to export audio loops in WAV, FLAC, or Ogg formats for use in digital audio workstations.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/orb-338x-groovebox/">bedroomproducersblog.com</a> | <a href="https://lovkov-ops.github.io/orb-338x/">lovkov-ops.github.io</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-26T12:04:00+00:00</updated>
+  <updated>2026-11-26T15:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Elon Musk Doubles Pledge to Two SpaceX Shares for Every US Child</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge::v241</id>
+    <published>2026-11-26T15:42:00+00:00</published>
+    <updated>2026-11-26T15:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F671024fa1ddf17faf1e64d01%2F3%3A2%2Fw_2560%2Cc_limit%2F101624-Trump-superdonors-elon-musk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge">bloomberg.com</a></small></p><hr/><p>Elon Musk and SpaceX have announced plans to provide every child in the United States with two shares of SpaceX stock through Trump Accounts, doubling a previous commitment made in October. The combined donation is valued at approximately $18.4 billion.</p><p>Under the plan, one share will be issued directly by SpaceX and the second will come personally from Musk. The initiative builds on earlier stock-gifting proposals involving active Trump Accounts, though parents must take specific action for children to receive the shares.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F671024fa1ddf17faf1e64d01%2F3%3A2%2Fw_2560%2Cc_limit%2F101624-Trump-superdonors-elon-musk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 21:00 UTC | #28632</small>]]></content>
+  </entry>
   <entry>
     <title>Global Memory Chip Shortage Drives Up Electronics Prices Amid AI Demand</title>
     <link href="https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC" rel="alternate" />
