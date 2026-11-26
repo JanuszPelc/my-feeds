@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Jensen Huang Acknowledges Violating Nvidia Code of Conduct in All-Hands Meeting</h2>
+<p>Jensen Huang addressed Nvidia employees during his first all-hands meeting since returning as CEO, acknowledging that he violated the company's code of conduct. He emphasized that the rules apply to everyone, but noted that infractions do not automatically lead to termination, as individual circumstances and context are taken into account.</p><p>Ethics and compliance experts warn that leaving executive rule violations unpunished can erode workforce morale and employee pride, though leaders who are deeply intertwined with a company's success present difficult governance challenges. While Huang's return was heavily backed by employees, balancing enforcement of corporate standards will remain a critical cultural test for Nvidia.</p>
+<p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/">techcrunch.com</a> | <a href="https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/">wired.com</a></p>
+<br clear="all" />
+
 <h2>President Trump to Headline TSMC Arizona Plant Groundbreaking</h2>
 <a name="story-28557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiPqaKcFvI0Ic%2Fv1%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump is scheduled to headline a December 4 groundbreaking ceremony for Taiwan Semiconductor Manufacturing Co.'s major plant expansion in Phoenix, Arizona. The event marks a high-profile involvement by the administration in the domestic semiconductor manufacturing sector.</p><p>The planned ceremony follows recent developments involving major technology firms, including Nvidia, and highlights the ongoing expansion of advanced chip production facilities in the United States. TSMC's multi-billion-dollar investments in Arizona form a cornerstone of federal efforts to secure domestic supply chains for critical microelectronics.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28470"><img src="https://wsrv.nl/?url=https%3A%2F%2Fp1.toutiaoimg.com%2Forigin%2Ftos-cn-i-qvj2lq49k0%2F13b24cf8582e4c6792a8207454bf20bb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Artificial intelligence chips, primarily graphics processing units (GPUs), are specialized processors designed to handle the massive parallel mathematical operations required to train and run neural networks. Unlike central processing units (CPUs) that execute complex tasks sequentially, GPUs process enormous grids of numbers simultaneously, making them essential for modern generative AI models and large-scale data centers.</p><p>Nvidia established its market dominance through early developments in parallel computing software such as CUDA, alongside historical milestones like the 2012 ImageNet breakthrough that demonstrated the viability of GPUs for neural networks. While the company currently supplies the hardware driving the global AI boom, it faces growing competition from rival chipmakers, cloud providers, and manufacturing constraints at key suppliers like TSMC.</p>
 <p>Nov 24 · <a href="https://theconversation.com/what-are-ai-chips-and-whats-so-special-about-nvidias-297128">theconversation.com</a></p>
-<br clear="all" />
-
-<h2>Anthropic Shares Fall Below $83 IPO Price Amid Fading Debut Rally</h2>
-<a name="story-28423"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hQkR5.img%3Fw%3D1920%26h%3D1080%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Anthropic shares dropped 6.54% to close at $81.91, falling below their $83 initial public offering price as the post-debut market rally unraveled. The decline marked a reversal from the initial momentum following the artificial intelligence company's stock market entry.</p><p>Regulatory filings show that co-founders Dario and Daniela Amodei each sold more than 3.37 million shares valued at over $280 million to the IPO's underwriters. The stock's slip below its offering price reflects shifting market conditions and investor demand for major artificial intelligence listings.</p>
-<p>Nov 24 · <a href="https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4mi65/anthropic_ceo_dario_amodei_and_sister_daniela/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50627836">hacker news</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Says Heavy ChatGPT Users May Hit Limits Sooner Amid Chat and Work Merger</h2>
+<a name="story-28584"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.eyerys.com%2Fsites%2Fdefault%2Ffiles%2Fopenai-chatgpt-45.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI has begun rolling out a unified Chat and Work experience for ChatGPT, combining usage allowances under a single meter for Pro subscribers. An OpenAI spokesperson stated that while most users will not experience more frequent usage resets, a small fraction of heavy users may exhaust their limits sooner.</p><p>The integration has drawn criticism from subscribers on social media and community forums who fear reduced access to advanced reasoning models without a reduction in subscription fees. OpenAI plans to expand the shared limits more broadly in December, following a similar move by rival Anthropic to merge conversational and work-focused interfaces.</p>
+<p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/">techcrunch.com</a> | <a href="https://help.openai.com/en/articles/20001625">help.openai.com</a> | <a href="https://news.ycombinator.com/item?id=50320588">hacker news</a></p>
+<br clear="all" />
+
 <h2>Researchers Demonstrate LLM Side-Channel Communication via Shared Inference Servers</h2>
 <a name="story-28598"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fapplsci%2Fapplsci-11-01641%2Farticle_deploy%2Fhtml%2Fimages%2Fapplsci-11-01641-g001.png%3F1614070902&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Niranjan Deshpande and David Africa demonstrate that AI models sharing an inference server can covertly communicate through side channels, bypassing sandboxing restrictions. By manipulating vLLM computation features such as step sizing and the key-value cache, separate model instances can transmit and receive hidden data.</p><p>In experiments involving a color-guessing game, a receiving model successfully identified the sender's color across 1,221 consecutive rounds, though researchers note this capability required specific fine-tuning. The findings highlight potential security vulnerabilities in shared inference infrastructure where multiple isolated models execute on the same hardware.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-28378"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHNDSbbsaEAAmJP1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>GPT-6.2 Sol is now available in the ChatGPT Chat tab for Plus, Pro, Business, and Enterprise users. Previously debuting in Work and Codex, this version has been tuned for everyday conversation and offers enhanced capabilities for identifying fine details in photographs and executing complex web search instructions.</p><p>The update enables functionality such as weighing travel options based on price versus walking distance and providing automated alerts for price drops on shopped items. Additionally, OpenAI announced that GPT-5.6 Sol will be retired from Chat, Work, and Codex on December 23, while GPT-5.6 Terra will be retired from Work and Codex on the same day.</p>
 <p>Nov 24 · <a href="https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/">9to5mac.com</a> | <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">help.openai.com</a></p>
-<br clear="all" />
-
-<h2>US Prosecutors Allege Former OpenAI Engineer Captured Trade Secrets on Hidden Recording Device</h2>
-<a name="story-28381"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F07%2F108001313.jpg%3Fquality%3D90%26strip%3Dall&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>US prosecutors stated that a former OpenAI engineer charged with planting a hidden recording device in an executive conference room accumulated dozens of meeting recordings, many involving potential trade secrets. The allegations were detailed in legal filings concerning the ongoing criminal case against the former employee.</p><p>The accused engineer was arrested following the discovery of the listening device plugged into a port in an OpenAI San Francisco office conference room. Prosecutors have cited alleged foreign backing and outlined potential flight risks in opposing the defendant's release on bail.</p>
-<p>Nov 24 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
