@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Grand Theft Auto VI Prompts Households to Share Consoles and Coordinate Playtime</h2>
+<a name="story-28642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FJason_and_Lucia_20.0cd-.c7jr-5g9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Households playing Grand Theft Auto VI are navigating logistical challenges to experience the massive single-player game on shared hardware. Couples and families are coordinating schedules, sharing console accounts, and balancing gaming time to accommodate the lengthy release without purchasing multiple copies or separate systems.</p><p>Players have adopted various strategies to avoid spoilers and manage responsibilities, from alternating play schedules around work hours to utilizing console account sharing features. While balancing playtime requires communication, many couples find that discussing their experiences and choices within the game adds a collaborative dimension to their shared hobby.</p>
+<p>Nov 26 · <a href="https://www.404media.co/gta-vi-sharing-playstation-console-accounts/">404media.co</a></p>
+<br clear="all" />
+
 <h2>Electronic Arts Adds AI-Generated John Motson Commentary to EA Sports FC 27</h2>
 <a name="story-28542"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.insidexbox.de%2Fwp-content%2Fuploads%2F2026%2F07%2Fea-sports-fc-27.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Electronic Arts is introducing the digitally recreated voice of the late commentator John Motson to EA Sports FC 27, utilizing a combination of archival recordings and generative artificial intelligence. Developed with the permission of Motson's widow and son, the synthetic commentary will be included as an optional selection in a game update.</p><p>Motson served as BBC Sport's principal football commentator for decades and was the original voice of EA's football game series from Fifa 96 to Fifa 2005 before passing away in 2023. While EA defended the project as a respectful tribute achieved with family consent, the implementation has drawn criticism from AI voice cloning watchdog groups over the use of a deceased individual's likeness without explicit prior consent.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28311"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmng.quest%2Fstatic%2Fpage-covers%2Ftutorial.d1d0d16aafd5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Marches &amp; Gnats is a browser-based coding puzzle game inspired by Advent of Code and built around a single-tape Turing machine. Set in 19th-century Estonia, the game tasks players with writing instructions for the Logic Mill to help a character named Mihkel across 46 distinct quests.</p><p>The project incorporates leaderboards and features integration for AI agents designed to attempt the programming challenges. Players and enthusiasts can track ongoing updates and discussions through the game's official Substack, Reddit, Discord, and X channels.</p>
 <p>Nov 23 · <a href="https://mng.quest/">mng.quest</a> | <a href="https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges">lobsters</a></p>
-<br clear="all" />
-
-<h2>Nicholas Lund Tracks All 60 Bird Species in Grand Theft Auto VI</h2>
-<a name="story-28278"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audubon writer Nicholas Lund tracked down and documented all 60 bird species available in the newly released video game Grand Theft Auto VI, exploring how Rockstar Games recreated South Florida's ecosystems and wildlife mechanics.</p><p>Using in-game binoculars to study birds across coastal wetlands, northern forests, and urban environments, Lund noted both ecological fidelity and geographical quirks, contrasting the virtual birding experience with the franchise's signature chaos.</p>
-<p>Nov 22 · <a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife">audubon.org</a> | <a href="https://news.ycombinator.com/item?id=50602843">hacker news</a></p>
 <br clear="all" />
 
 ---

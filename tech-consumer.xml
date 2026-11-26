@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-25T17:04:00+00:00</updated>
+  <updated>2026-11-26T12:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Grand Theft Auto VI Prompts Households to Share Consoles and Coordinate Playtime</title>
+    <link href="https://www.404media.co/gta-vi-sharing-playstation-console-accounts/" rel="alternate" />
+    <id>https://www.404media.co/gta-vi-sharing-playstation-console-accounts/::v241</id>
+    <published>2026-11-26T12:02:00+00:00</published>
+    <updated>2026-11-26T12:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FJason_and_Lucia_20.0cd-.c7jr-5g9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/gta-vi-sharing-playstation-console-accounts/">404media.co</a></small></p><hr/><p>Households playing Grand Theft Auto VI are navigating logistical challenges to experience the massive single-player game on shared hardware. Couples and families are coordinating schedules, sharing console accounts, and balancing gaming time to accommodate the lengthy release without purchasing multiple copies or separate systems.</p><p>Players have adopted various strategies to avoid spoilers and manage responsibilities, from alternating play schedules around work hours to utilizing console account sharing features. While balancing playtime requires communication, many couples find that discussing their experiences and choices within the game adds a collaborative dimension to their shared hobby.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FJason_and_Lucia_20.0cd-.c7jr-5g9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 17:02 UTC | #28642</small>]]></content>
+  </entry>
   <entry>
     <title>Electronic Arts Adds AI-Generated John Motson Commentary to EA Sports FC 27</title>
     <link href="https://www.bbc.com/news/articles/c65y10j841jpo" rel="alternate" />
@@ -174,14 +183,5 @@
     <published>2026-11-20T19:36:00+00:00</published>
     <updated>2026-11-20T19:36:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/">poolp.org</a> | <a href="https://news.ycombinator.com/item?id=50576855">hacker news</a></small></p><hr/><p>Consultant Gilles Chehade published a critical blog post detailing a negative experience with Framework hardware and customer support, stating he will not purchase products from the company again.</p><p>The post gained unexpected attention on Hacker News, prompting Chehade to clarify that his goal is to encourage Framework to improve its customer service and deliver reliable laptops.</p><hr/><small>21 Nov 2026, 00:51 UTC | #28175</small>]]></content>
-  </entry>
-  <entry>
-    <title>Valve Warns of Potential Price Increases for Steam Machines Amid Component Shortages</title>
-    <link href="https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/" rel="alternate" />
-    <id>https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/::v240</id>
-    <published>2026-11-20T16:12:00+00:00</published>
-    <updated>2026-11-20T16:12:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fsm1-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/">arstechnica.com</a> | <a href="https://store.steampowered.com/news/group/45479024?emclan=103582791475000432&emgid=687522235410285038">store.steampowered.com</a></small></p><hr/><p>Valve has warned that ongoing increases in memory and storage costs may force the company to raise the price of its supply-limited Steam Machines. As the initial batch of reservations concludes, Valve stated that component costs are rising at unprecedented levels, making future production volumes and pricing uncertain, with the 2TB model facing particularly severe constraints.</p><p>The hardware market has experienced widespread price hikes across major console manufacturers due to similar supply pressures. However, analysts note that Valve's smaller scale makes it more vulnerable to component cost shocks compared to larger competitors like Nintendo, Sony, and Microsoft.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2026%2F11%2Fsm1-1152x648.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>20 Nov 2026, 21:13 UTC | #28132</small>]]></content>
   </entry>
 </feed>

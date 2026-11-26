@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sound on Digital Releases Mix to Mobile v2.0</h2>
+<a name="story-28641"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmix-to-mobile-aax.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sound on Digital has released Mix to Mobile version 2.0, an update to its utility that streams real-time audio from a DAW or computer audio input to mobile devices over a local network. The new version introduces encrypted audio streams, optional listener approval settings to authorize specific devices, and granular quality controls per stream ranging from 16-bit to 32-bit float or compressed formats.</p><p>Version 2.0 also adds configurable receiver latency settings, detailed per-stream connection statistics, and automatic reconnection following network drops. The update is free for existing users, while new licenses cost $39 with a 30-day trial available. The sender requires macOS 11 or Windows 10 and newer, and the free receiver apps are compatible with iOS 14 and Android 10 or later.</p>
+<p>Nov 26 · <a href="https://www.kvraudio.com/news/sound-on-digital-releases-mix-to-mobile-v2-0-with-encrypted-streams-adaptive-latency-and-quality-per-stream-70190?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70190">kvraudio.com</a> | <a href="https://soundondigital.com/products/mix-to-mobile/">soundondigital.com</a></p>
+<br clear="all" />
+
 <h2>Plugin Boutique Offers Nine Audio Plugins for Five Dollars or Less</h2>
 <a name="story-28652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC1HxOj5PDuU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Plugin Boutique is featuring nine selected virtual instruments and audio effects priced at five dollars or less as part of its ongoing Black Friday sales event. The discounted software lineup includes reverbs, preamps, saturation tools, distortion units, and playable virtual instruments such as Speldosa and Cyberdrive Core.</p><p>In addition to these low-cost plugins, any paid purchase qualifies buyers for a complimentary software gift, with options including the UVI Tape Suite, Evolve Elastic Lite, Roland JUNO-60 Chorus, and Reaktor Prism. Furthermore, shoppers can claim the Scaler Detector key and chord identification tool at no cost until December 7.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28569"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ8KKldWYXlQ%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Forma Labs Audio has discounted its Filament real-time orchestration plugin to £89.99 for Black Friday, available through December 1, 2026. The plugin version 1.2 hosts up to 64 VST3 or AU instruments on a single DAW track, distributing played notes across them using customizable routing, transposition, and keyswitches.</p><p>Filament operates with user-supplied sample libraries and software synthesizers, featuring capabilities such as Auto Divisi, MPE support, a phrase arpeggiator, and Host Mode for MIDI routing. The software is compatible with 64-bit Windows and macOS, offering perpetual licensing with three activations and a 14-day money-back guarantee.</p>
 <p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/forma-labs-filament-2/">bedroomproducersblog.com</a> | <a href="https://formalabsaudio.com/?utm_source=bpb&utm_medium=sponsored&utm_campaign=filament_bf_2026&utm_content=article">formalabsaudio.com</a></p>
-<br clear="all" />
-
-<h2>Producer Ninajirachi Details Her Studio Setup and Preferred Gear</h2>
-<a name="story-28558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNinajirachi-gear-picks-hero-credit-Billy-Zammit%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Australian electronic music producer Ninajirachi relies on a streamlined setup centered around Ableton Live, Genelec 8330A studio monitors, and the Blue Bluebird SL microphone to produce her distinct dance tracks. Having transitioned from FL Studio to Ableton in 2018, she frequently utilizes stock plugins like Wavetable alongside external software like FabFilter Pro-L 2 and Sonic Charge Synplant 2.</p><p>In addition to traditional hardware and software, Ninajirachi incorporates unconventional tools into her workflow, frequently recording voice memos and foley sounds on an Apple iPhone to generate sample patches and organic textures. Her production choices reflect a focus on speed and happy accidents, enabling her to create and mix tracks efficiently while touring.</p>
-<p>Nov 25 · <a href="https://musictech.com/guides/buyers-guide/ninajirachi-studio-setup-gear-plugins/">musictech.com</a></p>
 <br clear="all" />
 
 ---
