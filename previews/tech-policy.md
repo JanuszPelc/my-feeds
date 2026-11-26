@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>CBS News Investigation Finds U.S.-Based Chinese-Owned Firms Purchasing Advanced Nvidia Chips</h2>
 <a name="story-28608"><img src="https://wsrv.nl/?url=https%3A%2F%2Fetedge-insights.com%2Fwp-content%2Fuploads%2F2025%2F07%2Fresizecom_20250715_1443_Jensen-Huang-Nvidia_simple_compose_01k06nnv9yebtsr20ha3dys3n4.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An investigation reveals that at least two U.S.-based companies controlled by Chinese-owned firms are purchasing advanced artificial intelligence chips from Nvidia. These transactions and subsequent resales to Southeast Asian destinations highlight ongoing vulnerabilities in U.S. export controls designed to prevent sensitive technology from reaching foreign rivals.</p><p>The findings involve entities such as San Jose-based RiCloud AI, which is owned by a Hong Kong-listed Chinese firm, and Aivres, a server maker formerly known as Inspur that exported billions in technology to Southeast Asia. Federal lawmakers are demanding answers from Nvidia regarding its compliance measures and background checks, while analysts emphasize the need for stronger accountability amid complex supply chain loopholes.</p>
-<p>Nov 26 · <a href="https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/">cbsnews.com</a></p>
+<p>Nov 26 · <a href="https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/">cbsnews.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y605i0/the_other_nvidia_romance_with_an_executive_at_a/">r/technology</a></p>
 <br clear="all" />
 
 <h2>US Court Rules Against Amazon in CPSC Product Recall Lawsuit</h2>
