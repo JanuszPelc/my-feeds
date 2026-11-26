@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>UK FCA Plans Stricter Authorization Requirements for DeFi Platforms</h2>
+<a name="story-28650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinist.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fchainalysis-binance-hack-1140x534.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The UK Financial Conduct Authority plans to introduce regulations requiring decentralised finance platforms to obtain authorization, establishing a stance that is stricter than those adopted in the United States and the European Union.</p><p>The regulator cited a lack of consumer protections and pointed to the $6.3 billion Binance hack as evidence of heightened money laundering risks and the speed at which illicit funds move through decentralised networks.</p>
+<p>Nov 26 · <a href="https://www.ft.com/content/ec820cb6-4983-4ece-8e7b-de116b57525d">ft.com</a> | <a href="https://www.fca.org.uk/publications/guidance-consultations/gc26-7-decentralised-finance-guidance">fca.org.uk</a></p>
+<br clear="all" />
+
 <h2>Netherlands Vows to Resist US MATCH Act Restrictions on ASML</h2>
 <a name="story-28648"><img src="https://wsrv.nl/?url=https%3A%2F%2Finformedclearly.com%2Fstatic%2Fnews_image%2Fasml-export-controls-semiconductor-2024.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Dutch government announced it will oppose the proposed US MATCH Act, arguing that the legislation poses a significant threat to ASML Holding NV's business operations in China. The planned US rules aim to further restrict sales of advanced semiconductor manufacturing equipment by key allies to Chinese facilities.</p><p>Dutch officials and lawmakers have stepped up lobbying efforts in Washington and Beijing to prevent the bill's passage, warning of severe economic consequences for Europe's most valuable technology company. The proposed legislation would mandate stricter alignment with US export controls or trigger unilateral enforcement, significantly impacting ASML's market position.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Asian Data Centers Seek US Clients to Replace China Demand</h2>
 <p>Asian data centers and neocloud providers are seeking US clients to fill computing capacity vacated by declining demand from China. This shift follows new United States government regulations that restrict remote access to advanced AI chips, a move designed to close a loophole that allowed China to access restricted American technology through overseas infrastructure.</p><p>The transition occurs as hourly rental costs for B300 chips fall, influencing the accessibility and pricing of high-performance computing power. These new export controls by the Trump administration force Asian providers to pivot their business models toward Western markets to compensate for the significant loss of Chinese demand.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/asia-data-centers-sound-out-us-clients-to-replace-china-demand">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Huawei Develops Homegrown Chip Design Tools to Bypass US Restrictions</h2>
-<a name="story-28522"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJLN8ktaoAA0rWD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Huawei Technologies and a local software partner have developed homegrown chip design tools to circumvent U.S. sanctions on advanced software from American leaders Synopsys and Cadence. These tools enable the Chinese tech giant to design next-generation chips for servers and mobile devices independently, reducing reliance on Western technology.</p><p>This development is part of a broader strategic push to secure Huawei's supply chain amidst ongoing trade restrictions. The company currently allocates more than 20% of its revenue to research and development and holds over 8,000 AI-related patents to maintain its competitive position in the global semiconductor market.</p>
-<p>Nov 25 · <a href="https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs">asia.nikkei.com</a></p>
 <br clear="all" />
 
 ---
