@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-26T04:53:00+00:00</updated>
+  <updated>2026-11-26T04:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>The New York Times Warns Photographers Against Using Photoshop 2027 Over AI Metadata</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features::v241</id>
+    <published>2026-11-26T04:59:00+00:00</published>
+    <updated>2026-11-26T04:59:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fblog.rteetech.com%2Fwp-content%2Fuploads%2F2026%2F03%2FHow-to-Use-AI-in-Photoshop-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50647673">hacker news</a></small></p><hr/><p>The New York Times has instructed freelance photographers working on assignment to avoid the latest version of Adobe Photoshop. The restriction stems from concern that the software's new artificial intelligence features could embed metadata identifying submitted photographs as AI-generated.</p><p>The policy is designed to protect the newsroom's strict editorial standards regarding digital manipulation and preserve reader trust. Adobe recently introduced automated C2PA metadata tracking across its creative apps to flag AI-assisted edits, which conflicts with the Times' policy of limiting photo adjustments strictly to basic color correction.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.rteetech.com%2Fwp-content%2Fuploads%2F2026%2F03%2FHow-to-Use-AI-in-Photoshop-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 12:55 UTC | #28647</small>]]></content>
+  </entry>
   <entry>
     <title>Talkie AI Chatbot Platform Exposed for Exposing Children to Abusive and Sexualised Content</title>
     <link href="https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children" rel="alternate" />
