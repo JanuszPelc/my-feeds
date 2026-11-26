@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>WhatsApp Introduces Message Scheduling for Individual and Group Chats</h2>
+<a name="story-28590"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FWhatsApp-schedule.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>WhatsApp has begun rolling out a message-scheduling feature globally across iOS and Android, allowing users to schedule texts, photos, and videos in both individual and group chats. To use the function, users long-press the send button after drafting a message, selecting a delivery time between 10 minutes and 14 days in advance.</p><p>The scheduled messages will be sent automatically even if the user's phone is offline or outside network coverage. While competing apps like Telegram and Signal have long offered message scheduling, the Meta-owned messaging service's new addition provides a practical tool for managing cross-timezone communication, reminders, and professional coordination.</p>
+<p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/">techcrunch.com</a> | <a href="https://blog.whatsapp.com/say-it-at-the-right-time-with-scheduled-messages">blog.whatsapp.com</a></p>
+<br clear="all" />
+
 <h2>Andreessen Horowitz Eyes $20 Billion for Next Fundraise</h2>
 <a name="story-28587"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21r9sl%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f37436-ce30-4f7e-b598-617b688363f4_2064x1128.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Venture capital firm Andreessen Horowitz is in discussions to raise approximately $20 billion across its upcoming set of funds, according to sources familiar with the plans. The potential capital raise follows the firm's previous record-breaking $15 billion fundraise.</p><p>The push toward larger megafunds highlights the accelerating capital demands driven by artificial intelligence investments, which require larger and faster financial commitments. Venture firms are increasingly seeking massive capital pools to sustain investments in infrastructure and technology companies.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28509"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthejasonfleagle.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmuse-image-agentic-creative-loop-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta is leveraging its Muse personal AI agent to increase advertising conversion rates on Instagram by streamlining the consumer shopping experience. While the tool is currently ad-free, it allows users to organize saved posts—which frequently include shoppable items—to reduce purchase friction and provide higher return on investment for advertisers.</p><p>The agent currently holds a 51% market share of agentic orders, significantly outpacing competitors like SpaceX's Grok and OpenAI's ChatGPT. Meta plans to collect transaction fees from purchases made via Muse and intends to use the resulting consumer shopping data to refine ad targeting on Instagram, with a feed-based ad model eventually planned for the agentic platform.</p>
 <p>Nov 25 · <a href="https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html">cnbc.com</a> | <a href="https://about.fb.com/newsroom/2026/09/introducing-muse-personal-ai-agent/">about.fb.com</a></p>
-<br clear="all" />
-
-<h2>Rajiv Ramaswami to Step Down as Nutanix CEO</h2>
-<a name="story-28503"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2026%2F11%2FRajiv-Ramaswami-president-and-CEO-of-Nutanix-Nutanix-.NEXT-2026.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Rajiv Ramaswami will step down as chief executive of Nutanix after a six-year tenure. He will remain in his current role for the time being to work with the board of directors to identify a successor via an executive search firm, followed by a transition into a senior advisor position.</p><p>The announcement follows Nutanix's first-quarter fiscal 2027 earnings report, which showed a 15% year-over-year revenue increase and an adjusted earnings beat. However, the company's stock dropped approximately 8% in after-hours trading as investors reacted to the leadership transition and the company's cautious full-year revenue guidance.</p>
-<p>Nov 25 · <a href="https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/">siliconangle.com</a> | <a href="https://ir.nutanix.com/news-releases/news-release-details/nutanix-announces-ceo-succession-plan-0">ir.nutanix.com</a></p>
 <br clear="all" />
 
 ---
