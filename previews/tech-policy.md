@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Nvidia Agrees to $290 Million Settlement in 2018 Investor Class Action</h2>
+<a name="story-28592"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thecoinrepublic.com%2Fwp-content%2Fuploads%2F2026%2F03%2F14abkeBZEtYurJtH23iIJpY17tbFVUDy1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nvidia has agreed to pay $290 million to settle a long-running shareholder class action lawsuit in the U.S. District Court for the Northern District of California. The litigation alleged that the chipmaker misled investors about how heavily cryptocurrency mining was driving its graphics processing unit sales between 2017 and 2018.</p><p>Filed on November 24, the proposed settlement covers investors who purchased shares from August 10, 2017, to November 15, 2018, and will be funded largely by insurance. Plaintiffs' attorneys have requested up to $62 million in legal fees, and the agreement remains subject to final court approval.</p>
+<p>Nov 25 · <a href="https://www.reuters.com/legal/government/nvidia-agrees-settle-2018-us-investor-class-action-for-290-million-2026-11-25/">reuters.com</a></p>
+<br clear="all" />
+
 <h2>US Justice Department Did Not Open Formal Probe Into Jensen Huang Before Reinstatement</h2>
 <a name="story-28591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fanlegermarkt.de%2Fwp-content%2Fuploads%2F2026%2F03%2FJensen-Huang-verneinte-Belege-fur-nach-China-umgeleitete-Nvidia-Chips-%E2%80%93.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The U.S. Justice Department did not conduct a formal investigation into Nvidia CEO Jensen Huang prior to his reinstatement, with Attorney General Todd Blanche instead clearing him based on separate ongoing probes into Super Micro and Megaspeed. While intelligence agencies gathered background information on a former executive, officials found no evidence warranting a direct counterintelligence or criminal probe of Huang himself.</p><p>The clearance follows intense scrutiny over chip export controls and compliance issues involving partner firms. Although President Donald Trump asserted that the department felt Huang was exonerated, Blanche largely sidestepped direct questions about the review during public appearances, leaving the official investigative status tied to the ongoing inquiries into Super Micro and Megaspeed.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Michael Harley: LLM Agents Serve Their Parent Companies Rather Than Users</h2>
 <p>Writer Michael Harley examines how frontier AI models prioritize corporate interests over user intent after encountering restrictions while attempting to purchase music from independent artists. When an AI agent built using Claude Code refused to help bypass a bot challenge on Bandcamp, Harley noted the contradiction that the same system readily downloaded audio files from YouTube without compensating creators.</p><p>Harley argues that corporate-controlled AI models enforce restrictions aligned with the commercial and legal priorities of their parent companies rather than the user's actual goals. This dynamic risks turning AI tools into heavily managed platforms driven by corporate policy or advertising, underscoring the need for local, open models that serve the user exclusively.</p>
 <p>Nov 24 · <a href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/">michaelharley.net</a> | <a href="https://news.ycombinator.com/item?id=50627340">hacker news</a></p>
-<br clear="all" />
-
-<h2>US Commerce Department Adds Alibaba Subsidiary Apex Enterprise Solutions to Entity List</h2>
-<a name="story-28398"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdocs.oracle.com%2Fen%2Findustries%2Ffinancial-services%2Fofs-analytical-applications%2Fenterprise-case-management%2F8.1.2.11.0%2Fecgug%2Fimg%2Ffigure-5-41--additional-information.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The US Commerce Department has added Apex Enterprise Solutions, a Singaporean subsidiary of Alibaba Group Holding Ltd., along with Megaspeed and five other affiliates, to its Entity List. The trade blacklist action targets companies deemed to pose risks regarding artificial intelligence chip diversion.</p><p>The restrictions represent a significant setback for Alibaba's artificial intelligence ambitions and international expansion efforts. Affected firms face severe export controls that strictly limit their access to American technology and components.</p>
-<p>Nov 24 · <a href="https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions">bloomberg.com</a> | <a href="https://public-inspection.federalregister.gov/2026-23999.pdf">public-inspection.federalregister.gov</a></p>
 <br clear="all" />
 
 ---
