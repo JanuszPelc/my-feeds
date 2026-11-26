@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>US AI Chip Curbs Stall Billions in Data Center Loans Tied to Chinese Tech Firms</h2>
+<p>Lenders have paused billions of dollars in financing for data center projects linked to Chinese technology firms ByteDance, Alibaba, and Tencent. The financial freeze follows new United States export restrictions targeting remote access to advanced artificial intelligence semiconductors.</p><p>Financial institutions are reviewing deals or inserting strict compliance clauses to avoid violating the rules, which require licenses for overseas data centers providing large-scale AI compute to China-headquartered entities. Affected transactions include a $480 million loan for ByteDance hardware and an upsized $6.6 billion financing package for Bridge Data Centres in Malaysia.</p>
+<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>WhatsApp Introduces Message Scheduling for Individual and Group Chats</h2>
 <a name="story-28590"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FWhatsApp-schedule.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>WhatsApp has begun rolling out a message-scheduling feature globally across iOS and Android, allowing users to schedule texts, photos, and videos in both individual and group chats. To use the function, users long-press the send button after drafting a message, selecting a delivery time between 10 minutes and 14 days in advance.</p><p>The scheduled messages will be sent automatically even if the user's phone is offline or outside network coverage. While competing apps like Telegram and Signal have long offered message scheduling, the Meta-owned messaging service's new addition provides a practical tool for managing cross-timezone communication, reminders, and professional coordination.</p>
@@ -87,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpliki.dlahandlu.pl%2Fi%2F10%2F79%2F09%2F107909_r0_940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon plans to launch its "Amazon Autos" platform in the UK in early 2027, marking its first expansion of the service outside of the United States. The platform will offer a selection of new and used vehicles, modeled after the existing US infrastructure where Amazon provides cars from 35 different brands across more than 150 cities.</p><p>The UK launch comes as Chinese automotive brands gain significant traction in the British market. Amazon's official plans include Hyundai as its first UK brand partner, with Vertu Motors managing used car inventory, positioning the e-commerce giant to compete directly with traditional automotive retailers in the digital space.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/amazon-targets-uk-car-buyers-being-reeled-in-by-chinese-brands">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/retail/amazon-autos-uk">aboutamazon.com</a></p>
-<br clear="all" />
-
-<h2>Meta Uses Muse AI Agent to Drive Instagram Advertising Revenue</h2>
-<a name="story-28509"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthejasonfleagle.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmuse-image-agentic-creative-loop-infographic.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Meta is leveraging its Muse personal AI agent to increase advertising conversion rates on Instagram by streamlining the consumer shopping experience. While the tool is currently ad-free, it allows users to organize saved posts—which frequently include shoppable items—to reduce purchase friction and provide higher return on investment for advertisers.</p><p>The agent currently holds a 51% market share of agentic orders, significantly outpacing competitors like SpaceX's Grok and OpenAI's ChatGPT. Meta plans to collect transaction fees from purchases made via Muse and intends to use the resulting consumer shopping data to refine ad targeting on Instagram, with a feed-based ad model eventually planned for the agentic platform.</p>
-<p>Nov 25 · <a href="https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html">cnbc.com</a> | <a href="https://about.fb.com/newsroom/2026/09/introducing-muse-personal-ai-agent/">about.fb.com</a></p>
 <br clear="all" />
 
 ---
