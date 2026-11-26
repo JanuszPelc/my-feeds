@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-25T20:11:00+00:00</updated>
+  <updated>2026-11-25T23:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>76% of Australians Struggle to Distinguish AI-Generated Content</title>
+    <link href="https://theconversation.com/76-of-australians-are-struggling-to-tell-apart-real-and-ai-content-new-report-296952" rel="alternate" />
+    <id>https://theconversation.com/76-of-australians-are-struggling-to-tell-apart-real-and-ai-content-new-report-296952::v241</id>
+    <published>2026-11-25T23:41:00+00:00</published>
+    <updated>2026-11-25T23:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdgkx48kpy%2Fimage%2Fupload%2Fv1768464989%2Fqbu0nfnz5r0z81nnidcz.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/76-of-australians-are-struggling-to-tell-apart-real-and-ai-content-new-report-296952">theconversation.com</a> | <a href="https://doi.org/10.60836/7zge-9418">doi.org</a></small></p><hr/><p>A survey of 2,000 Australian adults found that 76% of respondents encountered content they initially believed was real but was actually produced by generative AI. The study notes that as tools like ChatGPT and Gemini become more sophisticated and ubiquitous, distinguishing synthetic media from authentic human-made content is becoming increasingly difficult for the general population.</p><p>While high AI literacy correlates with an ability to recognize when they have been deceived, most people rely on intuition rather than proactive verification strategies like lateral reading. The report highlights a significant trust deficit regarding AI use by politicians and social media platforms, prompting calls for standardized content labeling and nationwide media literacy programs for both children and adults.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fdgkx48kpy%2Fimage%2Fupload%2Fv1768464989%2Fqbu0nfnz5r0z81nnidcz.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 04:45 UTC | #28601</small>]]></content>
+  </entry>
   <entry>
     <title>Biologist Joseph Ricketts Discusses Snorkeling in a Home Depot Retention Pond</title>
     <link href="https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts" rel="alternate" />
