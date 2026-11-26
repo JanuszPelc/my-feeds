@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Institutional Investors Sell 2021 Venture Fund Stakes at Steep Discounts to Back AI Start-ups</h2>
+<a name="story-28646"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.referencecap.com%2Fwp-content%2Fuploads%2F2026%2F03%2Fscreenshot-2026-03-30-at-16.21.24.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Institutional investors, including pension funds and endowments, are selling their stakes in venture capital funds formed during the 2021 investment peak at steep discounts. These limited partners are unloading legacy assets at knockdown prices to generate immediate liquidity and free up capital.</p><p>The rush to sell older fund holdings is driven by a broader liquidity drought and a strategic shift toward backing newly emerging artificial intelligence funds. This trend highlights how the rapid rise of AI is redirecting institutional capital away from older technology portfolios toward next-generation start-ups.</p>
+<p>Nov 26 · <a href="https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11">ft.com</a></p>
+<br clear="all" />
+
 <h2>X Introduces Parental Controls for Teen Accounts</h2>
 <a name="story-28644"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fx-is-adding-its-first-ever-parental-controls%2Fintro-1795684809.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>X has introduced its first-ever parental controls for users aged 13 to 17, enabling parents and guardians to manage teen accounts with features such as daily time limits, follower approval, and restricted direct messaging. Teen accounts automatically default to protected mode, which restricts sensitive media and blocks targeted advertising.</p><p>To link accounts, both the adult and the teen must agree, and adults can oversee up to five accounts at a time. While the tools let parents monitor usage time, filter specific words, and view which accounts their teen has messaged, they do not allow adults to read private messages, view search histories, or access the teen's account directly.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiPqaKcFvI0Ic%2Fv1%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>President Donald Trump is scheduled to headline a December 4 groundbreaking ceremony for Taiwan Semiconductor Manufacturing Co.'s major plant expansion in Phoenix, Arizona. The event marks a high-profile involvement by the administration in the domestic semiconductor manufacturing sector.</p><p>The planned ceremony follows recent developments involving major technology firms, including Nvidia, and highlights the ongoing expansion of advanced chip production facilities in the United States. TSMC's multi-billion-dollar investments in Arizona form a cornerstone of federal efforts to secure domestic supply chains for critical microelectronics.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/trump-to-lead-tsmc-groundbreaking-in-arizona-after-nvidia-gambit">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>TechCrunch Equity Examines AI Data Center Construction Challenges for Neoclouds</h2>
-<a name="story-28566"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.digipowerx.com%2F_next%2Fimage%3Furl%3D%2Flayers%2Flayer-3.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>On an episode of TechCrunch’s Equity podcast, Arizona Land Consulting founder Anita Verma-Lallian discusses the growing challenges of building AI data centers, including land acquisition, power constraints, and rising debt costs. The discussion highlights how stricter financing conditions from Nvidia are pressuring neoclouds and increasing the risk of failure for speculative projects.</p><p>Nvidia's policy to backstop data centers only when they are nearly finished and backed by customer financing places heightened emphasis on securing land, power, and physical shells prior to capital deployment. The episode also explores potential industry shakeouts by 2027, community opposition, utility infrastructure funding, and the possibility that major AI labs and hyperscalers will increasingly construct their own facilities.</p>
-<p>Nov 25 · <a href="https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---
