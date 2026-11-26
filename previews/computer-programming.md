@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Raspberry Pi 5 Provides Internet to Vintage Java Phones via Bluetooth NAP</h2>
+<a name="story-28626"><img src="https://wsrv.nl/?url=https%3A%2F%2Fantcating.github.io%2Fassets%2Fimages%2Fs500i%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A Sony Ericsson S500i and other vintage Java phones can be connected to the internet by using a Raspberry Pi 5 as a Bluetooth Network Access Point (NAP). This configuration utilizes the BlueZ and NetworkManager stacks on a Linux system to share an existing Ethernet or Wi-Fi connection via the Bluetooth Personal Area Network (PAN) profile, allowing legacy devices to bypass decommissioned 2G mobile networks.</p><p>The guide details the specific commands required to establish the NAP service and the pairing process for hardware that supports the PAN User profile. For navigating the modern web, the author recommends using Opera Mini 4.5, which still provides downloads for Java versions, alongside services like FrogFind and ProtoWeb to simplify complex web content for older hardware.</p>
+<p>Nov 26 · <a href="https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html">antcating.github.io</a> | <a href="https://lobste.rs/s/7x2mrq/getting_old_java_phones_online_again">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50627726">hacker news</a></p>
+<br clear="all" />
+
 <h2>Julio Merino Exports Personal Blog to Project Gemini Capsule</h2>
 <a name="story-28618"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.davep.org%2Fattachments%2F2026%2F06%2F19%2Fgemini-client-cover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software engineer Julio Merino describes his process of exporting his personal technical blog into a Gemini capsule using a custom, AI-assisted Rust tool named gengems. The post details the conversion of Markdown content into the text-only Gemtext format, the deployment of the minimalist Agate server on FreeBSD, and the implementation of basic traffic analytics.</p><p>Merino reflects on the design philosophy of Project Gemini, which emphasizes simplicity, privacy, and low bandwidth over the complex application platforms of the modern World Wide Web. He also evaluates the performance of different AI models used during the rapid development of his blog-to-capsule static site generator.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28456"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHKB8WnzWkAAVXL7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NLnet Labs has released Roto version 0.14.0, primarily serving as a bugfix update alongside a refresh to the project's manual. The update introduces new list methods including List.clear and List.remove, while fixing various lexer, parser, and error-handling issues.</p><p>The release includes a single breaking change affecting Rust users regarding List::contains and List::index, which now take arguments by value instead of by reference to resolve a soundness issue. Additional crate improvements add Blob::get_functions_by_signature and make specific error types public.</p>
 <p>Nov 24 · <a href="https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511">community.nlnetlabs.nl</a> | <a href="https://codeberg.org/NLnetLabs/roto/releases/tag/v0.14.0">codeberg.org</a> | <a href="https://lobste.rs/s/fygpme/release_roto_v0_14_0">lobsters</a></p>
-<br clear="all" />
-
-<h2>Tony Finch Explores the Algebra of Dependent Types</h2>
-<a name="story-28455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.cambridge.org%2Fbinary%2Fversion%2Fid%2Furn%3Acambridge.org%3Aid%3Abinary%3A20250107175759231-0393%3AS0956796824000157%3AS0956796824000157_tab1.png%3Fpub-status%3Dlive&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tony Finch explores the mathematical rationale behind the notation used in dependent type theory, examining how concepts like big-sigma and big-pi map to algebraic data types. By counting the inhabitants of a type, the post explains how product and sum types correspond to multiplication and addition, and how dependent pairs and dependent functions extend these arithmetic analogies.</p><p>The discussion touches on historical concepts such as telescopes from de Bruijn's AUTOMATH proof assistant while highlighting potential confusion caused by terminology like dependent sums and products. Ultimately, the notes connect everyday functional programming type features directly back to basic arithmetic operations.</p>
-<p>Nov 24 · <a href="https://dotat.at/@/2025-05-28-types.html">dotat.at</a> | <a href="https://lobste.rs/s/n2krd2/algebra_dependent_types_2025">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50623866">hacker news</a></p>
 <br clear="all" />
 
 ---
