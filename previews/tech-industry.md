@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>President Trump to Headline TSMC Arizona Plant Groundbreaking</h2>
+<a name="story-28557"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiPqaKcFvI0Ic%2Fv1%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>President Donald Trump is scheduled to headline a December 4 groundbreaking ceremony for Taiwan Semiconductor Manufacturing Co.'s major plant expansion in Phoenix, Arizona. The event marks a high-profile involvement by the administration in the domestic semiconductor manufacturing sector.</p><p>The planned ceremony follows recent developments involving major technology firms, including Nvidia, and highlights the ongoing expansion of advanced chip production facilities in the United States. TSMC's multi-billion-dollar investments in Arizona form a cornerstone of federal efforts to secure domestic supply chains for critical microelectronics.</p>
+<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/trump-to-lead-tsmc-groundbreaking-in-arizona-after-nvidia-gambit">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>TechCrunch Equity Examines AI Data Center Construction Challenges for Neoclouds</h2>
 <a name="story-28566"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.digipowerx.com%2F_next%2Fimage%3Furl%3D%2Flayers%2Flayer-3.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>On an episode of TechCrunch’s Equity podcast, Arizona Land Consulting founder Anita Verma-Lallian discusses the growing challenges of building AI data centers, including land acquisition, power constraints, and rising debt costs. The discussion highlights how stricter financing conditions from Nvidia are pressuring neoclouds and increasing the risk of failure for speculative projects.</p><p>Nvidia's policy to backstop data centers only when they are nearly finished and backed by customer financing places heightened emphasis on securing land, power, and physical shells prior to capital deployment. The episode also explores potential industry shakeouts by 2027, community opposition, utility infrastructure funding, and the possibility that major AI labs and hyperscalers will increasingly construct their own facilities.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28423"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2hQkR5.img%3Fw%3D1920%26h%3D1080%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Anthropic shares dropped 6.54% to close at $81.91, falling below their $83 initial public offering price as the post-debut market rally unraveled. The decline marked a reversal from the initial momentum following the artificial intelligence company's stock market entry.</p><p>Regulatory filings show that co-founders Dario and Daniela Amodei each sold more than 3.37 million shares valued at over $280 million to the IPO's underwriters. The stock's slip below its offering price reflects shifting market conditions and investor demand for major artificial intelligence listings.</p>
 <p>Nov 24 · <a href="https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4mi65/anthropic_ceo_dario_amodei_and_sister_daniela/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50627836">hacker news</a></p>
-<br clear="all" />
-
-<h2>Stripe Discusses Employee Share Tender Offer Valuing Company Above $200 Billion</h2>
-<a name="story-28422"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.stripeassets.com%2Ffzn2n1nzq965%2F65JhC9vN60meeoFz6SdY1s%2F91be2811e1d397672c11c2cf8a83deb4%2FIMG_1171.png%3Fw%3D4000%26q%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Stripe is currently engaged in discussions with investors regarding an employee share tender offer that would push its valuation past $200 billion. The potential transaction follows an earlier tender offer earlier in 2026 that valued the payments company at $159 billion.</p><p>The new deal is reportedly expected to conclude in early 2027. This upward trajectory highlights continued strong private-market demand for the financial technology firm's shares ahead of any potential public offering.</p>
-<p>Nov 24 · <a href="https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?st=LbwnEk&reflink=desktopwebshare_permalink">wsj.com</a></p>
 <br clear="all" />
 
 ---
