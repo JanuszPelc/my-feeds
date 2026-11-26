@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-26T02:59:00+00:00</updated>
+  <updated>2026-11-26T04:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Scott Aaronson Examines Recent AI-Driven Breakthroughs in Mathematical Complexity</title>
+    <link href="https://scottaaronson.blog/?p=10379" rel="alternate" />
+    <id>https://scottaaronson.blog/?p=10379::v241</id>
+    <published>2026-11-26T04:32:00+00:00</published>
+    <updated>2026-11-26T04:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fopenai-preprint-reports-9-4-bound-for-matrix-multiplication.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://scottaaronson.blog/?p=10379">scottaaronson.blog</a> | <a href="https://news.ycombinator.com/item?id=50646108">hacker news</a></small></p><hr/><p>Computer scientist Scott Aaronson reflects on a rapid succession of major complexity-theoretic breakthroughs produced using AI systems from OpenAI and Anthropic. He highlights recent preprints establishing lower and upper bounds for longstanding problems, including proving that the matrix multiplication exponent equals nine-fourths and determining the linear circuit complexity of the Fast Fourier Transform.</p><p>Aaronson argues that these developments signal a fundamental transformation in mathematical research, moving from gradual theoretical progress to automated generation of definitive proofs backed by Lean formal certificates. While acknowledging concerns regarding potential cryptographic implications, he emphasizes that the intellectual scope of these discoveries represents a profound paradigm shift for theoretical computer science.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F11%2Fopenai-preprint-reports-9-4-bound-for-matrix-multiplication.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 03:45 UTC | #28610 | h,tr</small>]]></content>
+  </entry>
   <entry>
     <title>1Password Details Security Incident Involving Compromised GitHub Account</title>
     <link href="https://1password.com/blog/update-on-nov-2026-security-incident" rel="alternate" />
