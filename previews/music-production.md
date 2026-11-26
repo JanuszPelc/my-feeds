@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Nail The Mix Offers FreqSniper Resonance-Removal Plugin for Free</h2>
+<a name="story-28637"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpNnA01OUDhU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Nail The Mix is offering FreqSniper, an audio resonance-removal EQ plugin, as a free download. The software analyzes incoming audio to detect problem frequencies and suggests targeted static or dynamic cuts to clean up mixes.</p><p>Users can preview individual frequency suggestions, adjust filter depth, frequency, and Q parameters, or use a delta monitoring mode to evaluate the processing. Claiming the plugin requires submitting an email address on the official giveaway page, which opts the user into promotional mailing lists.</p>
+<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/nail-the-mix-freqsniper/">bedroomproducersblog.com</a> | <a href="https://www.nailthemix.com/free-freqsniper-plugin">nailthemix.com</a></p>
+<br clear="all" />
+
+<h2>Box Of Rules Makes BR108 Console Channel Strip Plugin Free</h2>
+<a name="story-28638"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.soundshockaudio.com%2Fproducts%2Fchannel-strip-old%2Fthumb.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Box Of Rules has made its BR108 British console channel strip plugin free to download and use, including in commercial productions. Previously available only to paid supporters, the plugin captures the analogue character of a 1980s 24-channel mixing desk using twenty selectable channel profiles derived from measured hardware.</p><p>The software features independent left and right channel strips on stereo tracks, adjustable colour and saturation drive, a warmth control, and a three-band EQ with high-pass and low-pass filters. It is available in AU, VST3, and AAX formats for macOS and Windows, as well as a VST3 build for Linux.</p>
+<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/box-of-rules-br108/">bedroomproducersblog.com</a> | <a href="https://boxofrules.com/plugins/br108/">boxofrules.com</a></p>
+<br clear="all" />
+
 <h2>Sync Audio Releases SuperSample Audio Preview Player for macOS and Windows</h2>
 <p>Sync Audio has released SuperSample, a free standalone audio preview application for macOS and Windows. The software allows users to preview audio files directly from Finder or Windows Explorer using the space bar without loading them into a digital audio workstation.</p><p>The free version includes waveform previews, drag-and-drop trimming, and direct file export. An optional Pro version, available after a 14-day trial for a one-time purchase, adds MIDI keyboard playback, varispeed, pitch shifting, time stretching, format conversion, and metadata tools.</p>
 <p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/sync-audio-supersample/">bedroomproducersblog.com</a> | <a href="https://www.supersampleapp.com/">supersampleapp.com</a></p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28555"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fgroove-thing---1-.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Groove Thing is a music-driven sex toy marketed as an "internal music player" that connects to a Bluetooth speaker and resonator base to translate audio frequencies into physical vibrations using interchangeable hard plastic attachments. Co-created by former NASA engineer Michael Weiss-Malik and Elizabeth Dell, the device uses audio equipment physics rather than a standard rotating motor to reproduce full sound forms and subsonic ranges.</p><p>Retailing for $369 following a successful Kickstarter campaign, the device is designed to provide an experiential, concert-like sensation rather than a traditional climax-centered vibrator experience. While the hard plastic material and detailed audio feedback require users to adjust their expectations, the product reflects a broader sex tech industry trend toward abstracted, experience-focused devices.</p>
 <p>Nov 25 · <a href="https://www.404media.co/groove-thing-review/">404media.co</a> | <a href="https://gthing.com/?ref=404media.co">gthing.com</a></p>
-<br clear="all" />
-
-<h2>Intech Studio Offers 20% Off Grid Modular MIDI Controllers for Black Friday</h2>
-<a name="story-28563"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftaurus.intech.studio%2Fpages%2Fblack-friday-2026%2Fposter.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Intech Studio is running a Black Friday sale offering a 20% discount on its Grid modular MIDI controller system and all module variants, including the recently introduced ZONA touch controller. The promotion runs through November 30, 2026, with discounts applied automatically at checkout across all eligible modules, while accessories, parts, and DIY kits are excluded.</p><p>The Grid ecosystem features magnetic 106.6 mm square modules that snap together to combine knobs, faders, buttons, and displays into custom hardware layouts. Communication and power are handled across the magnetic links, allowing a single USB-C cable to power up to eight modules. The open-source hardware and software support macOS, Windows, and Linux, with user configurations managed via the free Grid Editor and Lua scripting.</p>
-<p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/intech-studio-grid-black-friday/">bedroomproducersblog.com</a> | <a href="https://intech.studio/pages/black-friday-2026">intech.studio</a></p>
-<br clear="all" />
-
-<h2>Soundroll Releases Fuzz Free Fuzz Plugin for macOS</h2>
-<a name="story-28564"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmodernmusicsolutions.com%2Fcdn%2Fshop%2Ffiles%2FCubase-TheFuzz.webp%3Fv%3D1719939463%26width%3D2196&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Soundroll has released Soundroll Fuzz, a free fuzz effect plugin for macOS featuring Germanium, Silicon, and Tube distortion circuits. The plugin includes separate input and output equalization sections with low and high shelves and mid bell controls, alongside a built-in noise gate and parallel mix blending.</p><p>Additional features include 4× oversampling, auto gain matching, and a resizable interface with direct numerical entry for parameter values. The software is available as a direct download in VST3 and AU formats for macOS 11 Big Sur and later, running natively on both Apple Silicon and Intel processors without requiring an account or user registration.</p>
-<p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/">bedroomproducersblog.com</a> | <a href="https://store.soundroll.com/fuzz/">store.soundroll.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-26T11:02:00+00:00</updated>
+  <updated>2026-11-26T11:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Nail The Mix Offers FreqSniper Resonance-Removal Plugin for Free</title>
+    <link href="https://bedroomproducersblog.com/2026/11/26/nail-the-mix-freqsniper/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/26/nail-the-mix-freqsniper/::v241</id>
+    <published>2026-11-26T11:12:00+00:00</published>
+    <updated>2026-11-26T11:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpNnA01OUDhU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/26/nail-the-mix-freqsniper/">bedroomproducersblog.com</a> | <a href="https://www.nailthemix.com/free-freqsniper-plugin">nailthemix.com</a></small></p><hr/><p>Nail The Mix is offering FreqSniper, an audio resonance-removal EQ plugin, as a free download. The software analyzes incoming audio to detect problem frequencies and suggests targeted static or dynamic cuts to clean up mixes.</p><p>Users can preview individual frequency suggestions, adjust filter depth, frequency, and Q parameters, or use a delta monitoring mode to evaluate the processing. Claiming the plugin requires submitting an email address on the official giveaway page, which opts the user into promotional mailing lists.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpNnA01OUDhU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 16:16 UTC | #28637</small>]]></content>
+  </entry>
+  <entry>
+    <title>Box Of Rules Makes BR108 Console Channel Strip Plugin Free</title>
+    <link href="https://bedroomproducersblog.com/2026/11/26/box-of-rules-br108/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/26/box-of-rules-br108/::v241</id>
+    <published>2026-11-26T11:07:00+00:00</published>
+    <updated>2026-11-26T11:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.soundshockaudio.com%2Fproducts%2Fchannel-strip-old%2Fthumb.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/26/box-of-rules-br108/">bedroomproducersblog.com</a> | <a href="https://boxofrules.com/plugins/br108/">boxofrules.com</a></small></p><hr/><p>Box Of Rules has made its BR108 British console channel strip plugin free to download and use, including in commercial productions. Previously available only to paid supporters, the plugin captures the analogue character of a 1980s 24-channel mixing desk using twenty selectable channel profiles derived from measured hardware.</p><p>The software features independent left and right channel strips on stereo tracks, adjustable colour and saturation drive, a warmth control, and a three-band EQ with high-pass and low-pass filters. It is available in AU, VST3, and AAX formats for macOS and Windows, as well as a VST3 build for Linux.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.soundshockaudio.com%2Fproducts%2Fchannel-strip-old%2Fthumb.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 16:15 UTC | #28638</small>]]></content>
+  </entry>
   <entry>
     <title>Sync Audio Releases SuperSample Audio Preview Player for macOS and Windows</title>
     <link href="https://bedroomproducersblog.com/2026/11/26/sync-audio-supersample/" rel="alternate" />
