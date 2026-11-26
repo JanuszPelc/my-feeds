@@ -3,9 +3,18 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-26T08:25:00+00:00</updated>
+  <updated>2026-11-26T09:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Anthropic Study Examines Enterprise AI Adoption and Workforce Reorganization</title>
+    <link href="https://www.anthropic.com/research/working-with-ai" rel="alternate" />
+    <id>https://www.anthropic.com/research/working-with-ai::v241</id>
+    <published>2026-11-26T09:01:00+00:00</published>
+    <updated>2026-11-26T09:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-aime_generated_1764801702181.jpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.anthropic.com/research/working-with-ai">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50634734">hacker news</a></small></p><hr/><p>Anthropic researchers published a study examining how 58 enterprise customers across various industries are adopting artificial intelligence, based on 66 qualitative interviews. The findings show that companies primarily derive value from AI by increasing output—such as accelerating existing workflows and creating novel products or services—rather than by cutting costs.</p><p>While direct layoffs resulting from AI automation were rare among the interviewed companies, two-thirds reported reduced hiring or slowed growth, and many cut back on offshore contractors. The report highlights that the highest-value AI implementations require substantial organizational changes, including workflow redesign, role expansion, and the deployment of internal support infrastructure for non-developer coding.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.ainvest.com%2Faigc%2Fhxcmp%2Fimages%2Fcompress-aime_generated_1764801702181.jpg.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 21:48 UTC | #28396 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>Mathematicians Adapt to AI-Generated Proofs by Focusing on "Digestion"</title>
     <link href="https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539" rel="alternate" />
