@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
   <entry>
+    <title>University of Waterloo Details Alpöge and Claude Proof of Generalized Riemann Hypothesis in Lean</title>
+    <link href="https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366" rel="alternate" />
+    <id>https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366::v241</id>
+    <published>2026-11-26T04:57:00+00:00</published>
+    <updated>2026-11-26T04:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fusers.math.cas.cz%2F~khavkine%2Flean-intro%2Fquanta-tao-zulip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366">leanprover.zulipchat.com</a> | <a href="https://www.math.uwaterloo.ca/~mrubinst/alpoge_claude_grh/">math.uwaterloo.ca</a> | <a href="https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof">lobsters</a></small></p><hr/><p>The University of Waterloo provides documentation on the formalization of the Generalized Riemann Hypothesis in Lean, following an initial release by Alpöge and Claude alongside a subsequent rewrite by Sernau and Anthropic. The original proof spans approximately 17 million lines across 175,187 files, while the compressed rewrite reduces the codebase to about 76,000 lines.</p><p>All 794 modules of the rewritten proof successfully compile, maintaining alignment with the original theorem statements. Discussions regarding the verification, structure, and compression of these large-scale formalizations continue within mathematical and programming communities on platforms like Lean's Zulip chat.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fusers.math.cas.cz%2F~khavkine%2Flean-intro%2Fquanta-tao-zulip.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 12:21 UTC | #28645</small>]]></content>
+  </entry>
+  <entry>
     <title>Neuralink Receives FDA Approval for LINK Pivotal Brain-Computer Interface Trial in ALS Patients</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-25/neuralink-gets-clearance-for-brain-implant-trial-in-als-patients" rel="alternate" />
     <id>https://www.bloomberg.com/news/articles/2026-11-25/neuralink-gets-clearance-for-brain-implant-trial-in-als-patients::v241</id>
