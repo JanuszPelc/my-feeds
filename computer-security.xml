@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-26T12:09:00+00:00</updated>
+  <updated>2026-11-26T16:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Garage v2.6.0 Released with Web Administration UI and v1.x End-of-Life</title>
+    <link href="https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/" rel="alternate" />
+    <id>https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/::v241</id>
+    <published>2026-11-26T16:41:00+00:00</published>
+    <updated>2026-11-26T16:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgaragehq.deuxfleurs.fr%2Fblog%2F2026-11-webadmin-release%2Fwebadmin-overview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/">garagehq.deuxfleurs.fr</a> | <a href="https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x">lobsters</a></small></p><hr/><p>The Garage project has released version 2.6.0 of its distributed S3-compatible storage system, featuring a new web-based administration interface funded by NLnet. The update also brings a self-hosted Helm chart repository for Kubernetes deployments, alongside the official end-of-life declaration for the 1.x branch.</p><p>Additionally, the team published the first beta release of Garage v3.0.0, introducing breaking changes such as the Noise protocol for node communication, anonymous S3 read access, and bucket tagging while laying groundwork for a Fjall metadata engine. Development is also underway for an upcoming S3 object versioning feature scheduled to launch through a new collaboration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgaragehq.deuxfleurs.fr%2Fblog%2F2026-11-webadmin-release%2Fwebadmin-overview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 22:48 UTC | #28676</small>]]></content>
+  </entry>
   <entry>
     <title>Hanno Böck Raises Concerns Over Slow Ubuntu Security Response Times</title>
     <link href="https://www.openwall.com/lists/oss-security/2026/11/25/9" rel="alternate" />
