@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Jukeblocks DAW Converter Adds Logic Pro and GarageBand Support</h2>
+<a name="story-28631"><img src="https://wsrv.nl/?url=https%3A%2F%2Fproducelikeapro.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F09%2FLogic-Pro-X-Tutorial-Get-Mixing-in-a-Powerful-DAW-993x606.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jukeblocks has updated its browser-based digital audio workstation project converter to support Apple's Logic Pro and GarageBand. The tool enables users to transfer projects between major DAWs by structurally rebuilding project files rather than flattening tracks into audio stems.</p><p>Logic Pro support is currently in beta for versions 10.6 and later with restrictions on Audio Unit plugins, while GarageBand is supported starting from version 10.4.5. The service automatically handles plugin format swaps where applicable, with access provided through subscription tiers or individual conversion credits.</p>
+<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/jukeblocks/">bedroomproducersblog.com</a> | <a href="https://jukeblocks.io/convert/">jukeblocks.io</a></p>
+<br clear="all" />
+
 <h2>ORB-338X Released as Free ReBirth Groovebox Remake</h2>
 <a name="story-28627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fglobal.discourse-cdn.com%2Ffree1%2Fuploads%2Fopenstagecontrol%2Foriginal%2F2X%2F7%2F7cca27c16e1abe7dbe52789c2c68f36ee2d4e7af.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ORB-338X is a free, open-source standalone groovebox for Windows, macOS, and Linux that builds upon the OpenRB-338 recreation of Propellerhead's classic ReBirth RB-338. Developed as a separate fork featuring a redesigned interface by Minikod and other contributors, it emulates the original setup of two TB-303 bass synthesizers alongside TR-808 and TR-909 drum machines, while adding expanded pattern sequencing and modulation capabilities.</p><p>The software introduces direct step-level editing and scale-based generation for basslines, individual LFO modulation for 303 parameters like cutoff and decay, and independent drum kit loading with per-drum panning and effects routing. It supports standard ReBirth song files alongside a new .rbsx format that preserves these expanded settings. Operating as a standalone application without MIDI input or sync, it allows users to export audio loops in WAV, FLAC, or Ogg formats for use in digital audio workstations.</p>
@@ -89,11 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>MusicTech Favorite Music Plugins and Software of 2026</h2>
 <p>MusicTech editors have curated a selection of their preferred music production plugins and software from 2026. The list includes Oeksound Soothe3 for resonance suppression, Thephonoloop Outlines for granular textures, and Native Instruments’ SuperStarSaw synth, a collaboration with A.G. Cook. Other featured tools include Tamber’s AI-adjacent suite, XLN Audio’s RC-20 Retro Color v2, Arturia’s Memory V synth, and DropLab DJ mixing software.</p><p>The roundup highlights a diverse range of technical applications, from vintage synth modernizations and lo-fi processing to non-destructive DJ workflows and functional AI-assisted tools. Editors note that while the market is saturated with AI-generated "vibecoded" plugins, these specific selections stand out for their unique workflows, refined algorithms, and practical creative utility.</p>
 <p>Nov 25 · <a href="https://musictech.com/guides/buyers-guide/musictech-favourite-plugins-of-2026/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>2Rule Releases TugGlicento v4.0 Glitch and Multi-Effect Plugin</h2>
-<p>Developer 2Rule has released version 4.0 of TugGlicento, a glitch and multi-effect audio plugin that divides incoming audio into five independent processing lines, each featuring a resonant filter, step sequencer, and selectable effect.</p><p>The update rebuilds the sequencer to synchronize with the host's timeline, introduces hardware-style per-step editing, adds new resonator and modal effects, and provides a resizable interface with support for Linux VST3. TugGlicento 4.0 is available as donationware for Windows, macOS, and Linux.</p>
-<p>Nov 25 · <a href="https://www.kvraudio.com/news/2rule-releases-tugglicento-glitch-and-multi-effect-plugin-v4-0-70158?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70158">kvraudio.com</a> | <a href="https://tugrulakyuz.gumroad.com/l/jpzjej">tugrulakyuz.gumroad.com</a></p>
 <br clear="all" />
 
 ---

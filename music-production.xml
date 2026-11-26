@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-26T09:42:00+00:00</updated>
+  <updated>2026-11-26T10:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Jukeblocks DAW Converter Adds Logic Pro and GarageBand Support</title>
+    <link href="https://bedroomproducersblog.com/2026/11/26/jukeblocks/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/26/jukeblocks/::v241</id>
+    <published>2026-11-26T10:01:00+00:00</published>
+    <updated>2026-11-26T10:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fproducelikeapro.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F09%2FLogic-Pro-X-Tutorial-Get-Mixing-in-a-Powerful-DAW-993x606.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/26/jukeblocks/">bedroomproducersblog.com</a> | <a href="https://jukeblocks.io/convert/">jukeblocks.io</a></small></p><hr/><p>Jukeblocks has updated its browser-based digital audio workstation project converter to support Apple's Logic Pro and GarageBand. The tool enables users to transfer projects between major DAWs by structurally rebuilding project files rather than flattening tracks into audio stems.</p><p>Logic Pro support is currently in beta for versions 10.6 and later with restrictions on Audio Unit plugins, while GarageBand is supported starting from version 10.4.5. The service automatically handles plugin format swaps where applicable, with access provided through subscription tiers or individual conversion credits.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fproducelikeapro.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F09%2FLogic-Pro-X-Tutorial-Get-Mixing-in-a-Powerful-DAW-993x606.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 15:02 UTC | #28631</small>]]></content>
+  </entry>
   <entry>
     <title>ORB-338X Released as Free ReBirth Groovebox Remake</title>
     <link href="https://bedroomproducersblog.com/2026/11/26/orb-338x-groovebox/" rel="alternate" />
