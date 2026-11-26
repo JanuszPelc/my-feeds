@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>X Introduces Parental Controls for Teen Accounts</h2>
+<a name="story-28644"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fx-is-adding-its-first-ever-parental-controls%2Fintro-1795684809.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>X has introduced its first-ever parental controls for users aged 13 to 17, enabling parents and guardians to manage teen accounts with features such as daily time limits, follower approval, and restricted direct messaging. Teen accounts automatically default to protected mode, which restricts sensitive media and blocks targeted advertising.</p><p>To link accounts, both the adult and the teen must agree, and adults can oversee up to five accounts at a time. While the tools let parents monitor usage time, filter specific words, and view which accounts their teen has messaged, they do not allow adults to read private messages, view search histories, or access the teen's account directly.</p>
+<p>Nov 26 · <a href="https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/">engadget.com</a> | <a href="https://x.com/Safety/status/2125709760066670625">x.com</a></p>
+<br clear="all" />
+
 <h2>Elon Musk Doubles Pledge to Two SpaceX Shares for Every US Child</h2>
 <a name="story-28632"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F671024fa1ddf17faf1e64d01%2F3%3A2%2Fw_2560%2Cc_limit%2F101624-Trump-superdonors-elon-musk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Elon Musk and SpaceX have announced plans to provide every child in the United States with two shares of SpaceX stock through Trump Accounts, doubling a previous commitment made in October. The combined donation is valued at approximately $18.4 billion.</p><p>Under the plan, one share will be issued directly by SpaceX and the second will come personally from Musk. The initiative builds on earlier stock-gifting proposals involving active Trump Accounts, though parents must take specific action for children to receive the shares.</p>
@@ -86,11 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28566"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.digipowerx.com%2F_next%2Fimage%3Furl%3D%2Flayers%2Flayer-3.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>On an episode of TechCrunch’s Equity podcast, Arizona Land Consulting founder Anita Verma-Lallian discusses the growing challenges of building AI data centers, including land acquisition, power constraints, and rising debt costs. The discussion highlights how stricter financing conditions from Nvidia are pressuring neoclouds and increasing the risk of failure for speculative projects.</p><p>Nvidia's policy to backstop data centers only when they are nearly finished and backed by customer financing places heightened emphasis on securing land, power, and physical shells prior to capital deployment. The episode also explores potential industry shakeouts by 2027, community opposition, utility infrastructure funding, and the possibility that major AI labs and hyperscalers will increasingly construct their own facilities.</p>
 <p>Nov 25 · <a href="https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Flipkart CEO Kalyan Krishnamurthy to Step Down in December</h2>
-<p>Flipkart Chief Executive Officer Kalyan Krishnamurthy plans to leave his position on December 4 after leading India's largest online retailer for more than eleven years. Walmart, which owns a controlling stake in Flipkart, announced the upcoming departure and named Chief Technology Officer Balaji Thiagarajan as interim CEO.</p><p>Krishnamurthy played a central role in scaling Flipkart following Walmart's acquisition in 2018, overseeing substantial growth in its e-commerce operations. His exit coincides with ongoing discussions regarding the company's timeline for an initial public offering and broader strategic adjustments within Walmart's Indian retail footprint.</p>
-<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play">bloomberg.com</a> | <a href="https://corporate.walmart.com/news/2026/11/kalyan-krishnamurthy-to-leave-flipkart">corporate.walmart.com</a></p>
 <br clear="all" />
 
 ---

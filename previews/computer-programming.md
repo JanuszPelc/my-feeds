@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Jack Kelly on Applying the Plan-Execute Pattern to Amazonka</h2>
+<a name="story-28674"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthreatmodel.co%2Fblog%2FPlan-Then-Execute-Pattern.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Software developer Jack Kelly explains how decoupling decision-making from execution—a pattern he calls "making the plan a value"—simplifies complex codebases and facilitates testing. He describes applying this approach during a refactoring of amazonka, an unofficial Haskell AWS SDK, to support idempotency tokens and diverse service response styles.</p><p>By introducing an intermediate data structure to describe tasks before execution, developers can adopt the strangler fig pattern to incrementally replace entangled logic while maintaining golden tests. Kelly notes that this architecture enables features like dry runs, pre-execution validation, and alternative plan producers such as property-based testing.</p>
+<p>Nov 26 · <a href="https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value">jackkelly.name</a> | <a href="https://lobste.rs/s/9imhob/make_plan_value">lobsters</a></p>
+<br clear="all" />
+
 <h2>Marcin Wichary Publishes Preserved UI Style Guides Collection</h2>
 <a name="story-28668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspeckyboy.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fstyleguides_06.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Designer and author Marcin Wichary has released a curated collection of historical user interface style guides spanning from the early 1980s to the present day. The archive features interface guidelines from various operating systems and software projects, categorized by era and theme.</p><p>Featured materials include documentation for early systems such as KDE, the 1991 PenPoint tablet operating system by GO Corporation, and the 1995 Taligent CommonPoint framework. The collection provides downloadable archives and mirrored web pages for historical reference and interface design research.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.conao3.com%2Fimg%2Fe4f733-mask.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Naoya Yamashita used Lean 4 formal verification and differential testing to analyze Clojure 1.12.7's core library, uncovering 17 previously unreported bugs. The discovered issues affect numeric operations, collection boundaries, and Java interoperability.</p><p>Notable findings include an infinite loop during reductions on large vector-of collections, a hash collision handling defect in persistent hash maps, and inconsistent behavior in Java functional interface adaptations depending on type hints.</p>
 <p>Nov 24 · <a href="https://s.conao3.com/blog/2026/e4f733">s.conao3.com</a> | <a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50642939">hacker news</a></p>
-<br clear="all" />
-
-<h2>Rida F&#x27;kih Details Method for Bypassing iOS Safari 60 FPS Limit</h2>
-<a name="story-28496"><img src="https://wsrv.nl/?url=https%3A%2F%2Fphoto2.tinhte.vn%2Fdata%2Fattachment-files%2F2026%2F01%2F8949557_ung-dung-safari-120-hz-iphone-26.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Rida F'kih has detailed a technique to bypass iOS Safari's default 60 Hz rendering cap on ProMotion displays, enabling web applications to run at a true 120 FPS. By using an invisible, high-frequency scroll container as a controller to capture touch positions synchronously and leveraging OffscreenCanvas with transferControlToOffscreen, the method circumvents WebKit's standard rendering limitations without requiring users to manually toggle hidden browser settings.</p><p>The approach combines a MessageChannel-based timing loop phase-locked to vsync timestamps with a background CSS animation to keep the GPU active, achieving up to 120 input reads and canvas updates per second. While this enables fluid, native-quality UI components like custom swipeable sheets and physics-based tab bars, the author notes that it relies on current browser behaviors and could be disrupted if Apple alters WebKit's handling of offscreen canvas placeholders.</p>
-<p>Nov 24 · <a href="https://rida.dev/blog/bypassing-ios-safari-60-fps-limit">rida.dev</a> | <a href="https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50637890">hacker news</a></p>
 <br clear="all" />
 
 ---

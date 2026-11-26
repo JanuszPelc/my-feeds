@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T13:49:00+00:00</updated>
+  <updated>2026-11-26T16:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Jack Kelly on Applying the Plan-Execute Pattern to Amazonka</title>
+    <link href="https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value" rel="alternate" />
+    <id>https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value::v241</id>
+    <published>2026-11-26T16:38:00+00:00</published>
+    <updated>2026-11-26T16:38:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fthreatmodel.co%2Fblog%2FPlan-Then-Execute-Pattern.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value">jackkelly.name</a> | <a href="https://lobste.rs/s/9imhob/make_plan_value">lobsters</a></small></p><hr/><p>Software developer Jack Kelly explains how decoupling decision-making from execution—a pattern he calls "making the plan a value"—simplifies complex codebases and facilitates testing. He describes applying this approach during a refactoring of amazonka, an unofficial Haskell AWS SDK, to support idempotency tokens and diverse service response styles.</p><p>By introducing an intermediate data structure to describe tasks before execution, developers can adopt the strangler fig pattern to incrementally replace entangled logic while maintaining golden tests. Kelly notes that this architecture enables features like dry runs, pre-execution validation, and alternative plan producers such as property-based testing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fthreatmodel.co%2Fblog%2FPlan-Then-Execute-Pattern.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 22:14 UTC | #28674</small>]]></content>
+  </entry>
   <entry>
     <title>Marcin Wichary Publishes Preserved UI Style Guides Collection</title>
     <link href="https://aresluna.org/ui-style-guides/" rel="alternate" />
