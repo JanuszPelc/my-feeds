@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-25T19:46:00+00:00</updated>
+  <updated>2026-11-25T20:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Biologist Joseph Ricketts Discusses Snorkeling in a Home Depot Retention Pond</title>
+    <link href="https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts" rel="alternate" />
+    <id>https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts::v241</id>
+    <published>2026-11-25T20:11:00+00:00</published>
+    <updated>2026-11-25T20:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fplatform.vox.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FGreen-treefrog-froglet.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts">vox.com</a> | <a href="https://www.youtube.com/watch?v=s2URRBOPAL8">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=50643129">hacker news</a></small></p><hr/><p>Florida biologist and YouTuber Joseph Ricketts recently gained widespread attention after publishing a video documenting a night snorkeling dive in a retention pond behind a local Home Depot. Despite the stagnant surface conditions and urban debris, his underwater exploration revealed a thriving ecosystem populated by water snakes, developing tadpoles, and non-native tadpole shrimp.</p><p>In an interview, Ricketts notes that while these urban retention ponds function as essential stormwater management infrastructure and offer accessible patches of nature for city residents, they must not be viewed as substitutes for expansive, untouched natural wetlands. He also emphasizes that the prevalence of contaminated urban water bodies highlights a broader societal willingness to accept polluted environments as normal.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fplatform.vox.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FGreen-treefrog-froglet.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%2C0%2C100%2C100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 02:37 UTC | #28609</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic CEO Dario Amodei Rejects Claims That AI Development Surrenders Human Control</title>
     <link href="https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/" rel="alternate" />
