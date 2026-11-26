@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T04:54:00+00:00</updated>
+  <updated>2026-11-26T13:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Marcin Wichary Publishes Preserved UI Style Guides Collection</title>
+    <link href="https://aresluna.org/ui-style-guides/" rel="alternate" />
+    <id>https://aresluna.org/ui-style-guides/::v241</id>
+    <published>2026-11-26T13:49:00+00:00</published>
+    <updated>2026-11-26T13:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fspeckyboy.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fstyleguides_06.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://aresluna.org/ui-style-guides/">aresluna.org</a> | <a href="https://lobste.rs/s/pbfhis/ui_style_guides">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50649834">hacker news</a></small></p><hr/><p>Designer and author Marcin Wichary has released a curated collection of historical user interface style guides spanning from the early 1980s to the present day. The archive features interface guidelines from various operating systems and software projects, categorized by era and theme.</p><p>Featured materials include documentation for early systems such as KDE, the 1991 PenPoint tablet operating system by GO Corporation, and the 1995 Taligent CommonPoint framework. The collection provides downloadable archives and mirrored web pages for historical reference and interface design research.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fspeckyboy.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fstyleguides_06.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 19:07 UTC | #28668</small>]]></content>
+  </entry>
   <entry>
     <title>Implementing Typed Indices in Zig</title>
     <link href="https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/" rel="alternate" />

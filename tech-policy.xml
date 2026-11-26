@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
   <entry>
+    <title>Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance</title>
+    <link href="https://conversationswithtyler.com/episodes/moxie-marlinspike/" rel="alternate" />
+    <id>https://conversationswithtyler.com/episodes/moxie-marlinspike/::v241</id>
+    <published>2026-11-26T13:48:00+00:00</published>
+    <updated>2026-11-26T13:48:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.cxodigitalpulse.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFeature-image-171.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://conversationswithtyler.com/episodes/moxie-marlinspike/">conversationswithtyler.com</a></small></p><hr/><p>Signal creator Moxie Marlinspike discusses the intersection of cryptography, mass surveillance, and artificial intelligence in an interview on Conversations with Tyler. He evaluates whether recent AI math advancements could break public-key cryptography and critiques current approaches to AI safety that rely on monitoring human users.</p><p>Marlinspike argues for surveilling AI models rather than people and details Confer, his privacy-focused AI chat service designed to prevent third-party access to user data. The conversation also covers the structural differences between Signal and other messaging apps, cybersecurity equilibrium, and his broader philosophy on building privacy-enhancing technologies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cxodigitalpulse.com%2Fwp-content%2Fuploads%2F2026%2F01%2FFeature-image-171.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 19:06 UTC | #28623</small>]]></content>
+  </entry>
+  <entry>
     <title>Governments Worldwide Release AI-Generated Grand Theft Auto Memes Following Game Launch</title>
     <link href="https://www.404media.co/all-the-worst-government-gta-memes-from-around-the-world/" rel="alternate" />
     <id>https://www.404media.co/all-the-worst-government-gta-memes-from-around-the-world/::v241</id>
