@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Andreessen Horowitz Eyes $20 Billion for Next Fundraise</h2>
+<a name="story-28587"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21r9sl%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f37436-ce30-4f7e-b598-617b688363f4_2064x1128.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Venture capital firm Andreessen Horowitz is in discussions to raise approximately $20 billion across its upcoming set of funds, according to sources familiar with the plans. The potential capital raise follows the firm's previous record-breaking $15 billion fundraise.</p><p>The push toward larger megafunds highlights the accelerating capital demands driven by artificial intelligence investments, which require larger and faster financial commitments. Venture firms are increasingly seeking massive capital pools to sustain investments in infrastructure and technology companies.</p>
+<p>Nov 25 · <a href="https://www.axios.com/pro/all-deals/2026/11/25/andreessen-horowitz-20b-fundraise">axios.com</a></p>
+<br clear="all" />
+
 <h2>ElevenLabs in Early Talks for 2027 Funding at $33 Billion Valuation</h2>
 <a name="story-28580"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgetlatka.com%2Fmirror-assets%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FScreenshot-2025-09-13-at-1.19.08-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ElevenLabs is in early discussions for a funding round in early 2027 targeting a $33 billion valuation, up from its $22 billion valuation in September. The artificial intelligence voice model and agent developer has also seen its annual recurring revenue climb to $700 million.</p><p>The preliminary talks reflect strong investor interest and rapid commercial growth in the generative voice sector. While the formal process is anticipated for 2027, some investors have pushed for discussions to begin sooner.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28503"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.siliconangle.com%2Fblogs.dir%2F1%2Ffiles%2F2026%2F11%2FRajiv-Ramaswami-president-and-CEO-of-Nutanix-Nutanix-.NEXT-2026.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rajiv Ramaswami will step down as chief executive of Nutanix after a six-year tenure. He will remain in his current role for the time being to work with the board of directors to identify a successor via an executive search firm, followed by a transition into a senior advisor position.</p><p>The announcement follows Nutanix's first-quarter fiscal 2027 earnings report, which showed a 15% year-over-year revenue increase and an adjusted earnings beat. However, the company's stock dropped approximately 8% in after-hours trading as investors reacted to the leadership transition and the company's cautious full-year revenue guidance.</p>
 <p>Nov 25 · <a href="https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/">siliconangle.com</a> | <a href="https://ir.nutanix.com/news-releases/news-release-details/nutanix-announces-ceo-succession-plan-0">ir.nutanix.com</a></p>
-<br clear="all" />
-
-<h2>Nvidia CEO Jensen Huang Defends Lack of Succession Plan in All-Hands Meeting</h2>
-<a name="story-28484"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faol_business_insider_articles_308%2F19e648477ba610dd95d36564da96a17b&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nvidia CEO Jensen Huang told employees during an all-hands meeting that the company does not need a traditional succession plan because such measures create unnecessary hierarchy. Huang, who recently returned to his role after stepping down earlier in November following disclosures about personal relationships, stated that Nvidia's unique business model and flat organizational structure eliminate the need for conventional leadership succession.</p><p>Despite Huang's defense of his management structure—which includes approximately 60 direct reports and a minimal executive team—the lack of a clear succession plan remains a significant concern for investors and analysts. Nvidia's board and shareholders continue to weigh the risks of the company's heavy reliance on Huang, even as leadership pledges strategic continuity following his reinstatement.</p>
-<p>Nov 24 · <a href="https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/">techcrunch.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4nzii/jensen_huang_tells_staff_that_nvidia_doesnt_need/">r/technology</a></p>
 <br clear="all" />
 
 ---
