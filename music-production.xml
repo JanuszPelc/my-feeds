@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-26T10:08:00+00:00</updated>
+  <updated>2026-11-26T10:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Sottovoce DSP Releases Sotto Sampler Plugin</title>
+    <link href="https://www.kvraudio.com/news/sottovoce-dsp-releases-sotto-sampler-plugin-vst-au-aax-70180?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70180" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sottovoce-dsp-releases-sotto-sampler-plugin-vst-au-aax-70180?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70180::v241</id>
+    <published>2026-11-26T10:15:00+00:00</published>
+    <updated>2026-11-26T10:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsotto_sampler_main-screen-3440.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/sottovoce-dsp-releases-sotto-sampler-plugin-vst-au-aax-70180?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70180">kvraudio.com</a> | <a href="https://sottovocedsp.com/products/sotto-sampler">sottovocedsp.com</a></small></p><hr/><p>Sottovoce DSP has released Sotto Sampler, a time-stretching sampler plug-in designed for macOS and Windows. The software automatically chops audio files, allowing producers to stretch, pitch-shift, and synchronize samples from multiple sources into a unified key, tempo, and groove.</p><p>The plug-in features automatic transient and region detection, individual chop controls with dedicated envelopes, stem separation capabilities, and an integrated effects rack. It supports VST3, AU, and AAX formats, and includes a performance layout that lets users play chops from up to nine tracks simultaneously.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsotto_sampler_main-screen-3440.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 15:26 UTC | #28628</small>]]></content>
+  </entry>
   <entry>
     <title>XLN Audio Releases Buttered Dead Drums Free Sample Pack</title>
     <link href="https://bedroomproducersblog.com/2026/11/26/xln-audio-buttered-dead-drums/" rel="alternate" />
@@ -615,14 +624,5 @@
     <updated>2026-11-21T17:16:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-2-01-landscape-ipad-pro-12-9-1024x768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/igor-vasiliev-updates-exosphere---endless-ambient-drift-app-to-v1-4-for-ios-and-macos-69959?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69959">kvraudio.com</a></small></p><hr/><p>Igor Vasiliev has released version 1.4 of ExoSphere, an ambient drift and soundscape application designed for iOS and macOS. The update introduces multi-channel output support for Audio Unit (AUv3) hosts, enabling users to route individual sound layers to dedicated channels alongside the main stereo mix.</p><p>This new routing capability allows producers and sound designers to process separate layers with distinct spatial or external effects and construct complex generative textures within a digital audio workstation. ExoSphere is available as a standalone and AUv3 instrument priced at $14.99.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-2-01-landscape-ipad-pro-12-9-1024x768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 22:23 UTC | #28200</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rocksolid Audio Releases Vintage Pre Valve Preamp Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/::v241</id>
-    <published>2026-11-21T15:24:00+00:00</published>
-    <updated>2026-11-21T15:24:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fb0n54qjqi67d1l7u7x3pzixe1fv5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/">bedroomproducersblog.com</a> | <a href="https://rocksolidaudio.co.uk/products/vintage-pre">rocksolidaudio.co.uk</a></small></p><hr/><p>Rocksolid Audio has released Vintage Pre, a free valve preamp plugin for Windows and macOS designed to emulate the harmonic coloration and saturation of 1950s mixing consoles. The plugin features the developer's Real-time Circuit Simulation engine, which models individual valves, transformers, and power supply responses based on incoming audio signals.</p><p>Users can choose between a classic hardware-style interface and a modern interface equipped with an analyzer to monitor harmonic changes. Additional features include oversampling, input and output metering, and randomized component tolerances assigned to each user account. The plugin is available in VST3, AU, and AAX formats, and requires a free user account to disable demo mode limitations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbanners.pluginboutique.com%2Fb0n54qjqi67d1l7u7x3pzixe1fv5&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 20:30 UTC | #28197</small>]]></content>
   </entry>
 </feed>

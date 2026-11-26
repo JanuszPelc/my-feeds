@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sottovoce DSP Releases Sotto Sampler Plugin</h2>
+<a name="story-28628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsotto_sampler_main-screen-3440.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sottovoce DSP has released Sotto Sampler, a time-stretching sampler plug-in designed for macOS and Windows. The software automatically chops audio files, allowing producers to stretch, pitch-shift, and synchronize samples from multiple sources into a unified key, tempo, and groove.</p><p>The plug-in features automatic transient and region detection, individual chop controls with dedicated envelopes, stem separation capabilities, and an integrated effects rack. It supports VST3, AU, and AAX formats, and includes a performance layout that lets users play chops from up to nine tracks simultaneously.</p>
+<p>Nov 26 · <a href="https://www.kvraudio.com/news/sottovoce-dsp-releases-sotto-sampler-plugin-vst-au-aax-70180?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70180">kvraudio.com</a> | <a href="https://sottovocedsp.com/products/sotto-sampler">sottovocedsp.com</a></p>
+<br clear="all" />
+
 <h2>XLN Audio Releases Buttered Dead Drums Free Sample Pack</h2>
 <a name="story-28629"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6zoFAAG10ks%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>XLN Audio is offering a free drum sample pack titled Buttered Dead Drums, featuring curated WAV audio files derived from the Vintage Dead expansion for Addictive Drums 2. The 36.5 MB collection contains 37 one-shots—including kicks, snares, hi-hats, cymbals, claps, and toms—alongside nine drum loops.</p><p>The included sounds are processed using XLN Audio's DB-30 Drum Butter plugin to enhance punch and character. The sample pack is available as a direct download without requiring user registration.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHS3-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sweetwater is offering a pair of Yamaha HS3 studio monitors for $172 this Black Friday, reduced from the original price of $229. These compact, powered 2-way monitors are engineered for small studio setups and utilize a bi-amplified, bass-reflex design.</p><p>The monitors feature a 3.5-inch cone woofer and a 0.75-inch dome tweeter with a frequency response of 70Hz to 22kHz. Integrated Room Control and High Trim switches allow for acoustic customization in small spaces, while the package includes a 1.5m mini-to-RCA cable and a 2.5m speaker cable.</p>
 <p>Nov 25 · <a href="https://musictech.com/news/gear/yamaha-hs3-black-friday-deal-sweetwater/">musictech.com</a> | <a href="https://www.sweetwater.com/store/detail/HS3B--yamaha-hs3-3.5-inch-powered-studio-monitor-black/reviews">sweetwater.com</a></p>
-<br clear="all" />
-
-<h2>Valhalla DSP Releases ValhallaSupermassive v6.0 Free VST</h2>
-<a name="story-28539"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvahallasupermassive_6_0_0.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Valhalla DSP has released version 6.0 of its popular free reverb and delay plugin, ValhallaSupermassive. The update introduces a new reverb mode called Helios, which features a warm, open sound with realistic damping of the tail, high initial echo density, and a natural exponential decay. The mode is designed to evoke the "digital hall" aesthetics of the 1980s while maintaining high clarity and eliminating "stutters" in the reverb tail.</p><p>Users can customize the Helios mode using Density, Warp, and Feedback controls to create effects ranging from tight drum rooms and lush chambers to massive outer space decays. The update also includes a "LATE 2026" presets folder featuring 20 presets that serve as templates for sound design. The developer stated that Helios utilizes new reverb techniques that will serve as a foundation for future algorithm concepts.</p>
-<p>Nov 25 · <a href="https://www.kvraudio.com/news/valhalla-dsp-releases-valhallasupermassive-v6-0-free-vst-au-and-aax-70160?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70160">kvraudio.com</a> | <a href="https://valhalladsp.com/2026/11/24/valhalla-supermassive-6-0-0-update-helios/">valhalladsp.com</a></p>
 <br clear="all" />
 
 ---
