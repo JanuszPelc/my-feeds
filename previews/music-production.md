@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Dylan Mixer Releases Kaleidon Spark Free Effects Sequencer Plugin</h2>
+<a name="story-28636"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.stagewave.io%2Fimg%2Freaper-mixer.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dylan Mixer has released Kaleidon Spark, a free four-lane effects sequencer for macOS and Windows that allows producers to route third-party plugins and built-in effects into rhythmic patterns. Operating via VST3 and AU formats, the plugin lets users sequence step-based activation, adjust wet levels, and shape envelopes, with patterns spanning 8 to 24 steps synced to a DAW.</p><p>The software includes four built-in modules—Repeater, Trimmer, Panner, and Pitcher—while supporting external effect hosting. Obtaining the plugin requires completing a free checkout, installing the Pulse Downloader application, and redeeming a product key. A paid full version is also offered, expanding the rack to eight lanes and adding live MIDI triggering and performance features.</p>
+<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/">bedroomproducersblog.com</a> | <a href="https://www.dylanmixermusic.com/store-1/p/kaleidon-spark-free">dylanmixermusic.com</a></p>
+<br clear="all" />
+
 <h2>Nail The Mix Offers FreqSniper Resonance-Removal Plugin for Free</h2>
 <a name="story-28637"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpNnA01OUDhU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nail The Mix is offering FreqSniper, an audio resonance-removal EQ plugin, as a free download. The software analyzes incoming audio to detect problem frequencies and suggests targeted static or dynamic cuts to clean up mixes.</p><p>Users can preview individual frequency suggestions, adjust filter depth, frequency, and Q parameters, or use a delta monitoring mode to evaluate the processing. Claiming the plugin requires submitting an email address on the official giveaway page, which opts the user into promotional mailing lists.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28561"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.synth-palace.com%2Fcdn%2Fshop%2Ffiles%2Fgempages_473287585242809350-fb5027ac-fea8-443f-8806-95bbfcb935d4.jpg%3Fv%3D10827412563646985703&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Synth Palace has released The Synth Palace, a free virtual instrument bundle featuring nine vintage-inspired synthesizers for macOS and Windows. The software includes 250 factory presets, 127 performances, and functionality to layer or split up to three synths across a keyboard.</p><p>The collection is inspired by hardware classics like the Prophet-5, Juno-106, and Memorymoog, offering individual full-panel programming, arpeggiators, step sequencers, and built-in effects. The plugin is available for free download in AU, VST3, and standalone formats by providing an email address on the developer's website.</p>
 <p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/the-synth-palace-collection/">bedroomproducersblog.com</a> | <a href="https://www.synth-palace.com/plugins">synth-palace.com</a></p>
-<br clear="all" />
-
-<h2>Groove Thing Internal Music Player Reviewed</h2>
-<a name="story-28555"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2Fgroove-thing---1-.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Groove Thing is a music-driven sex toy marketed as an "internal music player" that connects to a Bluetooth speaker and resonator base to translate audio frequencies into physical vibrations using interchangeable hard plastic attachments. Co-created by former NASA engineer Michael Weiss-Malik and Elizabeth Dell, the device uses audio equipment physics rather than a standard rotating motor to reproduce full sound forms and subsonic ranges.</p><p>Retailing for $369 following a successful Kickstarter campaign, the device is designed to provide an experiential, concert-like sensation rather than a traditional climax-centered vibrator experience. While the hard plastic material and detailed audio feedback require users to adjust their expectations, the product reflects a broader sex tech industry trend toward abstracted, experience-focused devices.</p>
-<p>Nov 25 · <a href="https://www.404media.co/groove-thing-review/">404media.co</a> | <a href="https://gthing.com/?ref=404media.co">gthing.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-26T11:12:00+00:00</updated>
+  <updated>2026-11-26T11:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Dylan Mixer Releases Kaleidon Spark Free Effects Sequencer Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/::v241</id>
+    <published>2026-11-26T11:29:00+00:00</published>
+    <updated>2026-11-26T11:29:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fhelp.stagewave.io%2Fimg%2Freaper-mixer.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/">bedroomproducersblog.com</a> | <a href="https://www.dylanmixermusic.com/store-1/p/kaleidon-spark-free">dylanmixermusic.com</a></small></p><hr/><p>Dylan Mixer has released Kaleidon Spark, a free four-lane effects sequencer for macOS and Windows that allows producers to route third-party plugins and built-in effects into rhythmic patterns. Operating via VST3 and AU formats, the plugin lets users sequence step-based activation, adjust wet levels, and shape envelopes, with patterns spanning 8 to 24 steps synced to a DAW.</p><p>The software includes four built-in modules—Repeater, Trimmer, Panner, and Pitcher—while supporting external effect hosting. Obtaining the plugin requires completing a free checkout, installing the Pulse Downloader application, and redeeming a product key. A paid full version is also offered, expanding the rack to eight lanes and adding live MIDI triggering and performance features.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.stagewave.io%2Fimg%2Freaper-mixer.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 16:39 UTC | #28636</small>]]></content>
+  </entry>
   <entry>
     <title>Nail The Mix Offers FreqSniper Resonance-Removal Plugin for Free</title>
     <link href="https://bedroomproducersblog.com/2026/11/26/nail-the-mix-freqsniper/" rel="alternate" />
