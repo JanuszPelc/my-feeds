@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Noizplay Updates SheenQ to Version 1.1.0</h2>
+<a name="story-28658"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsheenq-overview.1795703277.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Noizplay has released version 1.1.0 of its sheenQ plugin, introducing a sweepable mid band spanning 300 Hz to 8 kHz. This new feature is designed to help control boxiness, honk, or add presence to audio signals.</p><p>The update also includes 13 newly reworked factory presets, bringing the total preset count to 80. The developer notes that existing projects and user presets created in version 1.0 will load with the mid band set to zero, ensuring backward compatibility and preserving previous mixes.</p>
+<p>Nov 26 · <a href="https://www.kvraudio.com/news/noizplay-updates-sheenq-to-v1-1-0---adds-a-sweepable-mid-band-70200?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70200">kvraudio.com</a> | <a href="https://noizplay.com/sheenq">noizplay.com</a></p>
+<br clear="all" />
+
+<h2>Melbourne Instruments Roto-Control Adds Native Cubase and FL Studio Integration</h2>
+<a name="story-28657"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Froto_control_fl_studio_still_02_mixer.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Melbourne Instruments has released native integration scripts for Cubase (version 15 or later) and FL Studio (version 25 or later) for its Roto-Control motorized MIDI controller. The update allows the hardware's eight motorized knobs, high-resolution screens, and RGB buttons to dynamically track project parameters, transport controls, and mixer channels in both DAWs bidirectionally.</p><p>The integration features a Mix mode for bank-based volume and panning control, as well as a Plugin mode that maps virtual instruments and effects. In Cubase, a dedicated AI Knob feature maps parameters based on mouse hover, while FL Studio users can program step sequencing directly from the controller's hardware. The free update is managed through the ROTO-SETUP companion application.</p>
+<p>Nov 26 · <a href="https://www.kvraudio.com/news/melbourne-instruments-roto-control-gets-deep-integration-with-cubase-and-fl-studio-70191?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70191">kvraudio.com</a> | <a href="https://www.melbourneinstruments.com/rotocontrol?utm_source=kvr&utm_medium=press&utm_campaign=cubase-fl-launch">melbourneinstruments.com</a></p>
+<br clear="all" />
+
 <h2>Sonible Smart:EQ 4 Available at Discounted Black Friday Price</h2>
 <a name="story-28651"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsonible-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonible's smart:EQ 4 plugin is currently available at a discounted price of £44 as part of a Black Friday promotion running until December 4. The intelligent equalizer uses artificial intelligence to analyze audio channels, fix spectral issues, balance tones, and handle frequency mapping.</p><p>Version 4 introduces genre-based mix profiles, reference profile matching, and a group mode that coordinates up to ten instances to reduce frequency masking across a project. The software also features dynamic EQ bands with threshold, ratio, and auto-gain controls, designed to provide a balanced starting point before final manual adjustments.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28588"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.uaudio.com%2Fcdn%2Fshop%2Fcollections%2F12-days-2026-pick1-collection-hero-mob.jpg%3Fv%3D1795122246%26width%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Universal Audio has revealed the ten plugins eligible for its "Pick 1 for $1" Black Friday promotion, which runs from November 26 through November 30, 2026. Customers can use the coupon code BFPICK1 at checkout to purchase one of the selected audio plugins for one dollar.</p><p>The lineup includes preamps, channel strips, compressors, choruses, tape recorders, and the full version of Vibe Analog Machines. These native plugins support macOS and Windows in VST3, AAX, and AU formats without requiring hardware, though activation requires a UA account, UA Connect, and a free iLok account. A separate conditional offer also provides the Cooper Time Cube Delay for $1 with any software purchase of at least $29.</p>
 <p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/universal-audio-black-friday/">bedroomproducersblog.com</a> | <a href="https://www.uaudio.com/collections/pick-1-for-1">uaudio.com</a></p>
-<br clear="all" />
-
-<h2>Ableton Push 3 Controller and Standalone Models Discounted for Black Friday</h2>
-<a name="story-28571"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAbleton-Push-3-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Retailer Sweetwater has introduced Black Friday discounts on the Ableton Push 3, offering the standalone edition for $1,439 and the control surface edition for $799. The hardware features 64 MPE-enabled pads and functions as an integrated audio and MIDI interface for production setups.</p><p>The standalone model includes an internal processor and battery, allowing users to operate independently of a computer, while the control surface version requires a tethered connection to Ableton Live. Both configurations are part of an upgradable, modular hardware system designed to integrate with music production rigs.</p>
-<p>Nov 25 · <a href="https://musictech.com/news/gear/black-friday-deal-ableton-push-3-controller/">musictech.com</a> | <a href="https://www.sweetwater.com/store/detail/Push3--ableton-push-3">sweetwater.com</a></p>
-<br clear="all" />
-
-<h2>Clark Audio Dark Fantasy Virtual Instrument Available Free at Audio Plugin Deals</h2>
-<a name="story-28568"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.mydealz.de%2Fthreads%2Fraw%2FE9hCx%2F2877664_1%2Fre%2F1024x1024%2Fqt%2F60%2F2877664_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Audio Plugin Deals is offering Clark Audio's Dark Fantasy virtual instrument as a free download until December 4, 2026. Normally priced at $49, the plugin features 40 presets designed for dark ambient, dungeon synth, and medieval-inspired scoring.</p><p>The instrument includes detuned retro synth patches alongside layered flute and string recordings, operating as a standalone VST3 and AU plugin without requiring Kontakt. Users can shape sounds via attack and release controls, alongside built-in effects like tone adjustment, pitch drift, distance reverb, and tape-style wear.</p>
-<p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/clark-audio-dark-fantasy/">bedroomproducersblog.com</a> | <a href="https://audioplugin.deals/product/dark-fantasy-by-clark-audio/?ref=176">audioplugin.deals</a></p>
 <br clear="all" />
 
 ---
