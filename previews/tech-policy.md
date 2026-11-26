@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Netherlands Vows to Resist US MATCH Act Restrictions on ASML</h2>
+<a name="story-28648"><img src="https://wsrv.nl/?url=https%3A%2F%2Finformedclearly.com%2Fstatic%2Fnews_image%2Fasml-export-controls-semiconductor-2024.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Dutch government announced it will oppose the proposed US MATCH Act, arguing that the legislation poses a significant threat to ASML Holding NV's business operations in China. The planned US rules aim to further restrict sales of advanced semiconductor manufacturing equipment by key allies to Chinese facilities.</p><p>Dutch officials and lawmakers have stepped up lobbying efforts in Washington and Beijing to prevent the bill's passage, warning of severe economic consequences for Europe's most valuable technology company. The proposed legislation would mandate stricter alignment with US export controls or trigger unilateral enforcement, significantly impacting ASML's market position.</p>
+<p>Nov 26 · <a href="https://www.bloomberg.com/news/articles/2026-11-26/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml">bloomberg.com</a></p>
+<br clear="all" />
+
 <h2>ASML CEO Christophe Fouquet Defends Continued Chip Equipment Sales to China</h2>
 <a name="story-28640"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.taipeitimes.com%2Fimages%2F2026%2F06%2F20%2Fp09-260620-301.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ASML CEO Christophe Fouquet warned that total export controls cutting China off from Western chip technology will backfire by forcing Beijing to accelerate domestic development. Speaking on Semafor’s Future Proof, Fouquet argued that continuing to sell older lithography equipment maintains a strategic generation gap that keeps China reliant on Western hardware.</p><p>As a dominant player in chipmaking equipment, ASML sits at the center of escalating debates in Washington over tightening export restrictions, which have intensified following recent political scrutiny involving Nvidia. Fouquet noted that ASML has maintained nearly 100% market share in China for decades by ensuring access to non-cutting-edge technology rather than pushing the country toward complete technological independence.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28522"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHJLN8ktaoAA0rWD.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Huawei Technologies and a local software partner have developed homegrown chip design tools to circumvent U.S. sanctions on advanced software from American leaders Synopsys and Cadence. These tools enable the Chinese tech giant to design next-generation chips for servers and mobile devices independently, reducing reliance on Western technology.</p><p>This development is part of a broader strategic push to secure Huawei's supply chain amidst ongoing trade restrictions. The company currently allocates more than 20% of its revenue to research and development and holds over 8,000 AI-related patents to maintain its competitive position in the global semiconductor market.</p>
 <p>Nov 25 · <a href="https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs">asia.nikkei.com</a></p>
-<br clear="all" />
-
-<h2>US Intelligence Officials Brief Congress on Alice Huang Spy Allegations</h2>
-<a name="story-28508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.mktw.net%2Fim-77942953%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>US intelligence officials informed congressional aides that Alice Huang was not under direct orders from China's Ministry of State Security (MSS) regarding the "Jensen Huang affair." While the briefing clarified she was not an agent directed by the MSS, officials indicated that she may have independently passed intelligence to the agency.</p><p>The briefing follows public statements by President Trump characterizing Nvidia CEO Jensen Huang as not a security threat. The case involves allegations that Huang, an executive linked to a Chinese firm, gathered sensitive information regarding U.S. artificial intelligence chip technology.</p>
-<p>Nov 25 · <a href="https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html?unlocked_article_code=1.TFE.MS4i.jx4l5m-ldOYd&smid=url-share">nytimes.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y5cfwj/no_evidence_china_orchestrated_jensen_huangs/">r/technology</a></p>
 <br clear="all" />
 
 ---
