@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Every Raises $17.5 Million in Series A Funding at $110 Million Valuation</h2>
+<a name="story-28576"><img src="https://wsrv.nl/?url=https%3A%2F%2Fevery.to%2Fassets%2Fteam%2Fdan-0ff7cf951d07fc086d603ec0b20714678b5c542ef0617518fcb5b6f78af33e0c.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AI-focused media and software company Every has raised $17.5 million in a Series A funding round at a post-money valuation of $110 million. IA Ventures led the financing, with participation from Betaworks and The Atlantic CEO Nicholas Thompson, among others.</p><p>Founded in 2020 by Dan Shipper, Every combines a professional publication with corporate consulting and conference production focused on AI adoption. Shipper retained full control of the company through the financing terms and continues to lead the organization as it expands its operations.</p>
+<p>Nov 25 · <a href="https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/">fortune.com</a> | <a href="https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native">every.to</a></p>
+<br clear="all" />
+
 <h2>US Stocks Recover From Steep Early Losses as Nasdaq 100 Closes Down 0.6 Per Cent</h2>
 <a name="story-28565"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfFhGGFBOc6FfigDpyPojZ6b2eSVdzl-Ir3AQE3txnU9qxEAhuEmmCFcGAwNwdJ4091MZXjTXA2-Y0ytgaspt4ufyLc9sL9yglEmzsXl-gCFPFr7pqtwc7_e9TBcmaymRvf1Jd0iw%3Fkey%3DUry5N-NOEriVKvGLAPoDqQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US stocks clawed back steep losses on Wednesday, with the Nasdaq 100 recovering from an early drop of up to 4.7% to close down only 0.6%. Semiconductor manufacturer Nvidia fell 3.9% amid broader weakness in the chip sector.</p><p>Despite declines among major technology stocks, artificial intelligence start-up Anthropic emerged as a bright spot as its shares finished higher. The late-session market rebound significantly reduced the impact of earlier steep downturns.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28305"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmemeburn.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fcrowdstrike-vs-zscaler-forward-sales-valuation-gap.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CrowdStrike Holdings Inc. has agreed to acquire cybersecurity provider Zscaler Inc. in an all-stock transaction valued at approximately $43.9 billion. Under the terms of the agreement, each Zscaler share will convert into 1.135 CrowdStrike shares, representing a roughly 34% premium.</p><p>The deal combines CrowdStrike’s Falcon endpoint and cloud security platform with Zscaler's network security and zero-trust capabilities, marking one of the largest acquisitions in the cybersecurity sector. The transaction is expected to close in the second half of CrowdStrike's fiscal 2028, pending regulatory approvals and shareholder votes.</p>
 <p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler">bloomberg.com</a> | <a href="https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero">ir.crowdstrike.com</a></p>
-<br clear="all" />
-
-<h2>Defense Startup Agon Raises $70 Million Series A at $450 Million Valuation</h2>
-<a name="story-28304"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2FNorthzone-Partners-September-2022-scaled-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>London-based startup Agon has secured $70 million in a Series A funding round led by Northzone, valuing the company at $450 million. The startup specializes in defense simulation software for the European defense industry, focusing on the development of synthetic training environments for artificial intelligence applications.</p><p>Agon recently emerged from stealth earlier in 2026 following a $30 million funding round. The firm's technology provides gamified, synthetic battlefield infrastructure designed to train defense AI, positioning it as a key developer of military simulation software in Europe.</p>
-<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
