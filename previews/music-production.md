@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Plugin Boutique Offers Nine Audio Plugins for Five Dollars or Less</h2>
+<a name="story-28652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC1HxOj5PDuU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Plugin Boutique is featuring nine selected virtual instruments and audio effects priced at five dollars or less as part of its ongoing Black Friday sales event. The discounted software lineup includes reverbs, preamps, saturation tools, distortion units, and playable virtual instruments such as Speldosa and Cyberdrive Core.</p><p>In addition to these low-cost plugins, any paid purchase qualifies buyers for a complimentary software gift, with options including the UVI Tape Suite, Evolve Elastic Lite, Roland JUNO-60 Chorus, and Reaktor Prism. Furthermore, shoppers can claim the Scaler Detector key and chord identification tool at no cost until December 7.</p>
+<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/plugin-boutique-5-bucks-deals/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/deals?a_aid=5241029371df5">pluginboutique.com</a></p>
+<br clear="all" />
+
 <h2>Dylan Mixer Releases Kaleidon Spark Free Effects Sequencer Plugin</h2>
 <a name="story-28636"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.stagewave.io%2Fimg%2Freaper-mixer.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Dylan Mixer has released Kaleidon Spark, a free four-lane effects sequencer for macOS and Windows that allows producers to route third-party plugins and built-in effects into rhythmic patterns. Operating via VST3 and AU formats, the plugin lets users sequence step-based activation, adjust wet levels, and shape envelopes, with patterns spanning 8 to 24 steps synced to a DAW.</p><p>The software includes four built-in modules—Repeater, Trimmer, Panner, and Pitcher—while supporting external effect hosting. Obtaining the plugin requires completing a free checkout, installing the Pulse Downloader application, and redeeming a product key. A paid full version is also offered, expanding the rack to eight lanes and adding live MIDI triggering and performance features.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FNinajirachi-gear-picks-hero-credit-Billy-Zammit%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Australian electronic music producer Ninajirachi relies on a streamlined setup centered around Ableton Live, Genelec 8330A studio monitors, and the Blue Bluebird SL microphone to produce her distinct dance tracks. Having transitioned from FL Studio to Ableton in 2018, she frequently utilizes stock plugins like Wavetable alongside external software like FabFilter Pro-L 2 and Sonic Charge Synplant 2.</p><p>In addition to traditional hardware and software, Ninajirachi incorporates unconventional tools into her workflow, frequently recording voice memos and foley sounds on an Apple iPhone to generate sample patches and organic textures. Her production choices reflect a focus on speed and happy accidents, enabling her to create and mix tracks efficiently while touring.</p>
 <p>Nov 25 · <a href="https://musictech.com/guides/buyers-guide/ninajirachi-studio-setup-gear-plugins/">musictech.com</a></p>
-<br clear="all" />
-
-<h2>Synth Palace Releases Free Nine-Synth Collection for macOS and Windows</h2>
-<a name="story-28561"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.synth-palace.com%2Fcdn%2Fshop%2Ffiles%2Fgempages_473287585242809350-fb5027ac-fea8-443f-8806-95bbfcb935d4.jpg%3Fv%3D10827412563646985703&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Synth Palace has released The Synth Palace, a free virtual instrument bundle featuring nine vintage-inspired synthesizers for macOS and Windows. The software includes 250 factory presets, 127 performances, and functionality to layer or split up to three synths across a keyboard.</p><p>The collection is inspired by hardware classics like the Prophet-5, Juno-106, and Memorymoog, offering individual full-panel programming, arpeggiators, step sequencers, and built-in effects. The plugin is available for free download in AU, VST3, and standalone formats by providing an email address on the developer's website.</p>
-<p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/the-synth-palace-collection/">bedroomproducersblog.com</a> | <a href="https://www.synth-palace.com/plugins">synth-palace.com</a></p>
 <br clear="all" />
 
 ---
