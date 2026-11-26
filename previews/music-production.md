@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Celemony Melodyne 5 Essential Discounted to £21 for Black Friday</h2>
+<a name="story-28660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMelodyne-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Celemony's pitch and timing correction software, Melodyne 5 Essential, is available at a discounted price of £21 through Plugin Boutique as part of a Black Friday promotion running until December 30, 2026. The entry-level edition is normally priced at £85.</p><p>Melodyne 5 Essential provides note-based audio editing using visual representations of notes rather than traditional waveforms, incorporating the Melodic, Percussive, and Universal algorithms along with automated chord recognition. While it omits advanced manual controls like the Fade and Sibilant tools found in higher tiers, users can later upgrade to more advanced editions by paying the price difference.</p>
+<p>Nov 26 · <a href="https://musictech.com/news/gear/melodyne-essential-black-friday-deal/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/3-Studio-Tools/48-Audio-Editor/6446-Melodyne-5-Essential/?a_aid=5a86bc628c110">pluginboutique.com</a></p>
+<br clear="all" />
+
 <h2>Noizplay Updates SheenQ to Version 1.1.0</h2>
 <a name="story-28658"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsheenq-overview.1795703277.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Noizplay has released version 1.1.0 of its sheenQ plugin, introducing a sweepable mid band spanning 300 Hz to 8 kHz. This new feature is designed to help control boxiness, honk, or add presence to audio signals.</p><p>The update also includes 13 newly reworked factory presets, bringing the total preset count to 80. The developer notes that existing projects and user presets created in version 1.0 will load with the mid band set to zero, ensuring backward compatibility and preserving previous mixes.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fglobal.discourse-cdn.com%2Ffree1%2Fuploads%2Fopenstagecontrol%2Foriginal%2F2X%2F7%2F7cca27c16e1abe7dbe52789c2c68f36ee2d4e7af.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ORB-338X is a free, open-source standalone groovebox for Windows, macOS, and Linux that builds upon the OpenRB-338 recreation of Propellerhead's classic ReBirth RB-338. Developed as a separate fork featuring a redesigned interface by Minikod and other contributors, it emulates the original setup of two TB-303 bass synthesizers alongside TR-808 and TR-909 drum machines, while adding expanded pattern sequencing and modulation capabilities.</p><p>The software introduces direct step-level editing and scale-based generation for basslines, individual LFO modulation for 303 parameters like cutoff and decay, and independent drum kit loading with per-drum panning and effects routing. It supports standard ReBirth song files alongside a new .rbsx format that preserves these expanded settings. Operating as a standalone application without MIDI input or sync, it allows users to export audio loops in WAV, FLAC, or Ogg formats for use in digital audio workstations.</p>
 <p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/orb-338x-groovebox/">bedroomproducersblog.com</a> | <a href="https://lovkov-ops.github.io/orb-338x/">lovkov-ops.github.io</a></p>
-<br clear="all" />
-
-<h2>Universal Audio Details Plugins for $1 Black Friday Promotion</h2>
-<a name="story-28588"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.uaudio.com%2Fcdn%2Fshop%2Fcollections%2F12-days-2026-pick1-collection-hero-mob.jpg%3Fv%3D1795122246%26width%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Universal Audio has revealed the ten plugins eligible for its "Pick 1 for $1" Black Friday promotion, which runs from November 26 through November 30, 2026. Customers can use the coupon code BFPICK1 at checkout to purchase one of the selected audio plugins for one dollar.</p><p>The lineup includes preamps, channel strips, compressors, choruses, tape recorders, and the full version of Vibe Analog Machines. These native plugins support macOS and Windows in VST3, AAX, and AU formats without requiring hardware, though activation requires a UA account, UA Connect, and a free iLok account. A separate conditional offer also provides the Cooper Time Cube Delay for $1 with any software purchase of at least $29.</p>
-<p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/universal-audio-black-friday/">bedroomproducersblog.com</a> | <a href="https://www.uaudio.com/collections/pick-1-for-1">uaudio.com</a></p>
 <br clear="all" />
 
 ---
