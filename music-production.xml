@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-26T11:56:00+00:00</updated>
+  <updated>2026-11-26T13:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Sonible Smart:EQ 4 Available at Discounted Black Friday Price</title>
+    <link href="https://musictech.com/news/gear/sonible-smart-eq-4-black-friday-deal/" rel="alternate" />
+    <id>https://musictech.com/news/gear/sonible-smart-eq-4-black-friday-deal/::v241</id>
+    <published>2026-11-26T13:23:00+00:00</published>
+    <updated>2026-11-26T13:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsonible-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/sonible-smart-eq-4-black-friday-deal/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/2-Effects/16-EQ/11784-smart-EQ-4/?a_aid=5a86bc628c110">pluginboutique.com</a></small></p><hr/><p>Sonible's smart:EQ 4 plugin is currently available at a discounted price of £44 as part of a Black Friday promotion running until December 4. The intelligent equalizer uses artificial intelligence to analyze audio channels, fix spectral issues, balance tones, and handle frequency mapping.</p><p>Version 4 introduces genre-based mix profiles, reference profile matching, and a group mode that coordinates up to ten instances to reduce frequency masking across a project. The software also features dynamic EQ bands with threshold, ratio, and auto-gain controls, designed to provide a balanced starting point before final manual adjustments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsonible-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 18:32 UTC | #28651</small>]]></content>
+  </entry>
   <entry>
     <title>Sound on Digital Releases Mix to Mobile v2.0</title>
     <link href="https://www.kvraudio.com/news/sound-on-digital-releases-mix-to-mobile-v2-0-with-encrypted-streams-adaptive-latency-and-quality-per-stream-70190?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70190" rel="alternate" />

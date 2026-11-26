@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sonible Smart:EQ 4 Available at Discounted Black Friday Price</h2>
+<a name="story-28651"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsonible-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sonible's smart:EQ 4 plugin is currently available at a discounted price of £44 as part of a Black Friday promotion running until December 4. The intelligent equalizer uses artificial intelligence to analyze audio channels, fix spectral issues, balance tones, and handle frequency mapping.</p><p>Version 4 introduces genre-based mix profiles, reference profile matching, and a group mode that coordinates up to ten instances to reduce frequency masking across a project. The software also features dynamic EQ bands with threshold, ratio, and auto-gain controls, designed to provide a balanced starting point before final manual adjustments.</p>
+<p>Nov 26 · <a href="https://musictech.com/news/gear/sonible-smart-eq-4-black-friday-deal/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/2-Effects/16-EQ/11784-smart-EQ-4/?a_aid=5a86bc628c110">pluginboutique.com</a></p>
+<br clear="all" />
+
 <h2>Sound on Digital Releases Mix to Mobile v2.0</h2>
 <a name="story-28641"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmix-to-mobile-aax.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sound on Digital has released Mix to Mobile version 2.0, an update to its utility that streams real-time audio from a DAW or computer audio input to mobile devices over a local network. The new version introduces encrypted audio streams, optional listener approval settings to authorize specific devices, and granular quality controls per stream ranging from 16-bit to 32-bit float or compressed formats.</p><p>Version 2.0 also adds configurable receiver latency settings, detailed per-stream connection statistics, and automatic reconnection following network drops. The update is free for existing users, while new licenses cost $39 with a 30-day trial available. The sender requires macOS 11 or Windows 10 and newer, and the free receiver apps are compatible with iOS 14 and Android 10 or later.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28568"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.mydealz.de%2Fthreads%2Fraw%2FE9hCx%2F2877664_1%2Fre%2F1024x1024%2Fqt%2F60%2F2877664_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Audio Plugin Deals is offering Clark Audio's Dark Fantasy virtual instrument as a free download until December 4, 2026. Normally priced at $49, the plugin features 40 presets designed for dark ambient, dungeon synth, and medieval-inspired scoring.</p><p>The instrument includes detuned retro synth patches alongside layered flute and string recordings, operating as a standalone VST3 and AU plugin without requiring Kontakt. Users can shape sounds via attack and release controls, alongside built-in effects like tone adjustment, pitch drift, distance reverb, and tape-style wear.</p>
 <p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/clark-audio-dark-fantasy/">bedroomproducersblog.com</a> | <a href="https://audioplugin.deals/product/dark-fantasy-by-clark-audio/?ref=176">audioplugin.deals</a></p>
-<br clear="all" />
-
-<h2>Forma Labs Audio Offers Filament Orchestration Plugin Discount for Black Friday</h2>
-<a name="story-28569"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ8KKldWYXlQ%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Forma Labs Audio has discounted its Filament real-time orchestration plugin to £89.99 for Black Friday, available through December 1, 2026. The plugin version 1.2 hosts up to 64 VST3 or AU instruments on a single DAW track, distributing played notes across them using customizable routing, transposition, and keyswitches.</p><p>Filament operates with user-supplied sample libraries and software synthesizers, featuring capabilities such as Auto Divisi, MPE support, a phrase arpeggiator, and Host Mode for MIDI routing. The software is compatible with 64-bit Windows and macOS, offering perpetual licensing with three activations and a 14-day money-back guarantee.</p>
-<p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/forma-labs-filament-2/">bedroomproducersblog.com</a> | <a href="https://formalabsaudio.com/?utm_source=bpb&utm_medium=sponsored&utm_campaign=filament_bf_2026&utm_content=article">formalabsaudio.com</a></p>
 <br clear="all" />
 
 ---
