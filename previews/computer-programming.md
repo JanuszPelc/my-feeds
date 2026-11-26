@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Implementing Typed Indices in Zig</h2>
+<p>The "Newtype Index" pattern in Zig prevents logic errors by ensuring that different arrays or slices cannot be accessed using the same index type. By utilizing `enum(u32)` to wrap integers, the compiler can catch instances where a developer accidentally swaps indices—for example, using a row index to access a column value in a spreadsheet—at compile time rather than at runtime.</p><p>The article demonstrates a practical "Struct of Arrays" example and offers a generic recipe using Zig's `comptime` functionality. This approach allows for a streamlined, automated way to define typed indices for multiple struct fields while providing a consistent accessor API. While the pattern is not perfectly hermetic due to the lack of private fields in Zig, it establishes a strong convention for safe data access.</p>
+<p>Nov 26 · <a href="https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/">lvignoli.eu</a> | <a href="https://lobste.rs/s/l6g7j1/typed_indexes_zig">lobsters</a></p>
+<br clear="all" />
+
 <h2>Raspberry Pi 5 Provides Internet to Vintage Java Phones via Bluetooth NAP</h2>
 <a name="story-28626"><img src="https://wsrv.nl/?url=https%3A%2F%2Fantcating.github.io%2Fassets%2Fimages%2Fs500i%2Fhero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Sony Ericsson S500i and other vintage Java phones can be connected to the internet by using a Raspberry Pi 5 as a Bluetooth Network Access Point (NAP). This configuration utilizes the BlueZ and NetworkManager stacks on a Linux system to share an existing Ethernet or Wi-Fi connection via the Bluetooth Personal Area Network (PAN) profile, allowing legacy devices to bypass decommissioned 2G mobile networks.</p><p>The guide details the specific commands required to establish the NAP service and the pairing process for hardware that supports the PAN User profile. For navigating the modern web, the author recommends using Opera Mini 4.5, which still provides downloads for Java versions, alongside services like FrogFind and ProtoWeb to simplify complex web content for older hardware.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28467"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheconsensus.dev%2Fstatic%2Fcgos-pointer-check-800.avif%3Fv%3DgvIStmzYo0w%3D&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>cgo's Foreign Function Interface (FFI) utilizes `cmd/cgo` to perform build-time syntactic transformations that generate Go and C wrapper functions for cross-language calls. The article explores the runtime enforcement of pointer safety rules, which require that memory passed to C must not contain unpinned Go pointers, and details the role of `runtime.Pinner` in satisfying these requirements.</p><p>The analysis demonstrates that cgo's syntax-based transformations can cause performance regressions exceeding 1600x and lead to inconsistent correctness checks. Specifically, the author shows that passing a pointer to a struct field may succeed while passing the same address via an `unsafe.Pointer` variable triggers a runtime panic, revealing how cgo’s lack of type awareness can impact memory safety.</p>
 <p>Nov 24 · <a href="https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html">theconsensus.dev</a> | <a href="https://lobste.rs/s/fgbvtt/cgo_s_pointer_check_is_all_over_place">lobsters</a></p>
-<br clear="all" />
-
-<h2>NLnet Labs Releases Roto v0.14.0</h2>
-<a name="story-28456"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHKB8WnzWkAAVXL7.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>NLnet Labs has released Roto version 0.14.0, primarily serving as a bugfix update alongside a refresh to the project's manual. The update introduces new list methods including List.clear and List.remove, while fixing various lexer, parser, and error-handling issues.</p><p>The release includes a single breaking change affecting Rust users regarding List::contains and List::index, which now take arguments by value instead of by reference to resolve a soundness issue. Additional crate improvements add Blob::get_functions_by_signature and make specific error types public.</p>
-<p>Nov 24 · <a href="https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511">community.nlnetlabs.nl</a> | <a href="https://codeberg.org/NLnetLabs/roto/releases/tag/v0.14.0">codeberg.org</a> | <a href="https://lobste.rs/s/fygpme/release_roto_v0_14_0">lobsters</a></p>
 <br clear="all" />
 
 ---

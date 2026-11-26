@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Talkie AI Chatbot Platform Exposed for Exposing Children to Abusive and Sexualised Content</h2>
+<p>An investigation reveals that Talkie, an AI roleplay chatbot app owned by Chinese company MiniMax and downloaded tens of millions of times, has exposed children to degrading language, aggressive romantic roleplay, and sexualised scenarios. While China prohibits virtual partners for minors domestically, its firms continue to offer these features internationally, prompting Apple to remove Talkie from its App Store worldwide following an inquiry.</p><p>The findings highlight growing global concern over AI companion apps and their impact on young users, alongside privacy and data security risks associated with foreign-owned platforms. Although countries like Australia and the UK are advancing legislation to curb online harms and regulate AI chatbots, current and proposed regulations leave significant loopholes that allow children to access platforms where they can form intense emotional dependencies on AI characters.</p>
+<p>Nov 26 · <a href="https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children">thebureauinvestigates.com</a></p>
+<br clear="all" />
+
 <h2>US AI Chip Curbs Stall Billions in Data Center Loans Tied to Chinese Tech Firms</h2>
 <p>Lenders have paused billions of dollars in financing for data center projects linked to Chinese technology firms ByteDance, Alibaba, and Tencent. The financial freeze follows new United States export restrictions targeting remote access to advanced artificial intelligence semiconductors.</p><p>Financial institutions are reviewing deals or inserting strict compliance clauses to avoid violating the rules, which require licenses for overseas data centers providing large-scale AI compute to China-headquartered entities. Affected transactions include a $480 million loan for ByteDance hardware and an upsized $6.6 billion financing package for Bridge Data Centres in Malaysia.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs">bloomberg.com</a></p>
@@ -86,12 +91,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28519"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.3dnews.ru%2Fassets%2Fexternal%2Fillustrations%2F2025%2F05%2F09%2F1122563%2Fymtc-vytesnila-samsung-i-sk-hynix-s-patentnogo-rynka-pamyati-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Samsung Electronics and SK Hynix are adopting chip-stacking technology originally developed by China's Yangtze Memory Technologies Co. (YMTC). The move, executed through a cross-licensing agreement, indicates that YMTC has rapidly advanced its capabilities to match the technical standards of established global semiconductor leaders.</p><p>YMTC has built a robust intellectual property portfolio, filing more than 12,000 patents worldwide to support its memory chip operations. This development underscores the company's rise as a significant player in the semiconductor industry, demonstrating its ability to provide core technology to the world's top memory chipmakers.</p>
 <p>Nov 25 · <a href="https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology">asia.nikkei.com</a> | <a href="https://www.reddit.com/r/hardware/comments/1y53fle/chinas_ymtc_boosted_by_samsung_and_sk_hynix/">r/hardware</a></p>
-<br clear="all" />
-
-<h2>Amazon to Launch Online Car Sales Platform in UK in 2027</h2>
-<a name="story-28517"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpliki.dlahandlu.pl%2Fi%2F10%2F79%2F09%2F107909_r0_940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon plans to launch its "Amazon Autos" platform in the UK in early 2027, marking its first expansion of the service outside of the United States. The platform will offer a selection of new and used vehicles, modeled after the existing US infrastructure where Amazon provides cars from 35 different brands across more than 150 cities.</p><p>The UK launch comes as Chinese automotive brands gain significant traction in the British market. Amazon's official plans include Hyundai as its first UK brand partner, with Vertu Motors managing used car inventory, positioning the e-commerce giant to compete directly with traditional automotive retailers in the digital space.</p>
-<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/amazon-targets-uk-car-buyers-being-reeled-in-by-chinese-brands">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/retail/amazon-autos-uk">aboutamazon.com</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,17 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T00:02:00+00:00</updated>
+  <updated>2026-11-26T04:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Implementing Typed Indices in Zig</title>
+    <link href="https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/" rel="alternate" />
+    <id>https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/::v241</id>
+    <published>2026-11-26T04:54:00+00:00</published>
+    <updated>2026-11-26T04:54:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/">lvignoli.eu</a> | <a href="https://lobste.rs/s/l6g7j1/typed_indexes_zig">lobsters</a></small></p><hr/><p>The "Newtype Index" pattern in Zig prevents logic errors by ensuring that different arrays or slices cannot be accessed using the same index type. By utilizing `enum(u32)` to wrap integers, the compiler can catch instances where a developer accidentally swaps indices—for example, using a row index to access a column value in a spreadsheet—at compile time rather than at runtime.</p><p>The article demonstrates a practical "Struct of Arrays" example and offers a generic recipe using Zig's `comptime` functionality. This approach allows for a streamlined, automated way to define typed indices for multiple struct fields while providing a consistent accessor API. While the pattern is not perfectly hermetic due to the lack of private fields in Zig, it establishes a strong convention for safe data access.</p><hr/><small>26 Nov 2026, 11:32 UTC | #28634</small>]]></content>
+  </entry>
   <entry>
     <title>Raspberry Pi 5 Provides Internet to Vintage Java Phones via Bluetooth NAP</title>
     <link href="https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html" rel="alternate" />
