@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T16:38:00+00:00</updated>
+  <updated>2026-11-26T16:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Intel One Mono Monospaced Font Project</title>
+    <link href="https://github.com/intel/intel-one-mono" rel="alternate" />
+    <id>https://github.com/intel/intel-one-mono::v241</id>
+    <published>2026-11-26T16:46:00+00:00</published>
+    <updated>2026-11-26T16:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fintel%2Fintel-one-mono%2Fraw%2Fmain%2Fimg%2Fintel-one-mono-preview-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/intel/intel-one-mono">github.com</a> | <a href="https://news.ycombinator.com/item?id=50653667">hacker news</a></small></p><hr/><p>Intel One Mono is an open-source, expressive monospaced font family created in partnership with Frere-Jones Type, the Intel Brand Team, and VMLY&amp;R. Designed specifically for low-vision developers, the typeface aims to enhance clarity, reduce eyestrain and coding errors, and support over 200 Latin-script languages across four weights with matching italics.</p><p>The repository provides official font releases ready for code editors like VSCode, Sublime Text, and IntelliJ, alongside editable UFO source files and designspace files for customization. It also includes configuration options for programming ligatures, alternate characters, raised colons, and custom screen rendering optimizations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fintel%2Fintel-one-mono%2Fraw%2Fmain%2Fimg%2Fintel-one-mono-preview-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 23:25 UTC | #28677</small>]]></content>
+  </entry>
   <entry>
     <title>Jack Kelly on Applying the Plan-Execute Pattern to Amazonka</title>
     <link href="https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value" rel="alternate" />

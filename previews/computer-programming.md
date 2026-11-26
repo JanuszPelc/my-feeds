@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Intel One Mono Monospaced Font Project</h2>
+<a name="story-28677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fintel%2Fintel-one-mono%2Fraw%2Fmain%2Fimg%2Fintel-one-mono-preview-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Intel One Mono is an open-source, expressive monospaced font family created in partnership with Frere-Jones Type, the Intel Brand Team, and VMLY&amp;R. Designed specifically for low-vision developers, the typeface aims to enhance clarity, reduce eyestrain and coding errors, and support over 200 Latin-script languages across four weights with matching italics.</p><p>The repository provides official font releases ready for code editors like VSCode, Sublime Text, and IntelliJ, alongside editable UFO source files and designspace files for customization. It also includes configuration options for programming ligatures, alternate characters, raised colons, and custom screen rendering optimizations.</p>
+<p>Nov 26 · <a href="https://github.com/intel/intel-one-mono">github.com</a> | <a href="https://news.ycombinator.com/item?id=50653667">hacker news</a></p>
+<br clear="all" />
+
 <h2>Jack Kelly on Applying the Plan-Execute Pattern to Amazonka</h2>
 <a name="story-28674"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthreatmodel.co%2Fblog%2FPlan-Then-Execute-Pattern.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software developer Jack Kelly explains how decoupling decision-making from execution—a pattern he calls "making the plan a value"—simplifies complex codebases and facilitates testing. He describes applying this approach during a refactoring of amazonka, an unofficial Haskell AWS SDK, to support idempotency tokens and diverse service response styles.</p><p>By introducing an intermediate data structure to describe tasks before execution, developers can adopt the strangler fig pattern to incrementally replace entangled logic while maintaining golden tests. Kelly notes that this architecture enables features like dry runs, pre-execution validation, and alternative plan producers such as property-based testing.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28505"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic0.howtogeekimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F04%2Frunning-different-linux-distros-on-the-same-desktop.png%3Fq%3D70%26fit%3Dcrop%26w%3D825%26dpr%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Systems administrator Stefano Marinelli delivered a talk at Linux Day 2026 in Modena exploring the broader open source ecosystem beyond Linux, highlighting alternative operating systems like the BSD family and illumos. He reflected on the history of free software, the evolution of the Linux community, and the importance of preserving software portability and freedom of choice.</p><p>Marinelli discussed the distinct architectures and philosophies of FreeBSD, OpenBSD, and NetBSD, emphasizing that open source monoculture risks steering development toward the needs of corporate backers rather than ordinary users. He argued for evaluating tools based on specific problem-solving merits rather than defaulting to mainstream choices.</p>
 <p>Nov 24 · <a href="https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/">it-notes.dragas.net</a> | <a href="https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source">lobsters</a></p>
-<br clear="all" />
-
-<h2>Naoya Yamashita Identifies 17 Unreported Bugs in Clojure Core Using Lean 4</h2>
-<a name="story-28498"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.conao3.com%2Fimg%2Fe4f733-mask.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Naoya Yamashita used Lean 4 formal verification and differential testing to analyze Clojure 1.12.7's core library, uncovering 17 previously unreported bugs. The discovered issues affect numeric operations, collection boundaries, and Java interoperability.</p><p>Notable findings include an infinite loop during reductions on large vector-of collections, a hash collision handling defect in persistent hash maps, and inconsistent behavior in Java functional interface adaptations depending on type hints.</p>
-<p>Nov 24 · <a href="https://s.conao3.com/blog/2026/e4f733">s.conao3.com</a> | <a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50642939">hacker news</a></p>
 <br clear="all" />
 
 ---
