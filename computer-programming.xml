@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T16:46:00+00:00</updated>
+  <updated>2026-11-26T16:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Patrick Brosset Explores Native CSS Mixins and the @apply Rule</title>
+    <link href="https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/" rel="alternate" />
+    <id>https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/::v241</id>
+    <published>2026-11-26T16:49:00+00:00</published>
+    <updated>2026-11-26T16:49:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fvelog.velcdn.com%2Fimages%2Fangel_eugnen%2Fpost%2Fc1e80a94-8d22-40de-88db-2f681abdbbe3%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/">patrickbrosset.com</a> | <a href="https://lobste.rs/s/faqxns/beauty_css_mixins">lobsters</a></small></p><hr/><p>Patrick Brosset examines the upcoming native CSS mixins feature, which introduces the @mixin rule and @apply construct to allow developers to define reusable blocks of declarations, nested rules, and conditional logic. Currently available experimentally behind a flag in Chromium-based browsers, native mixins support parameters with types and default values, conditional rules, and @contents blocks for injecting styles from call sites.</p><p>The article demonstrates practical applications for native mixins, including named responsive breakpoints and a white-label theming pattern inspired by the CSS Zen Garden. While mixins offer a flexible alternative to custom properties and preprocessor syntax, Brosset notes potential pitfalls, such as nested selectors inadvertently exposing underlying HTML markup structures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fvelog.velcdn.com%2Fimages%2Fangel_eugnen%2Fpost%2Fc1e80a94-8d22-40de-88db-2f681abdbbe3%2Fimage.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 23:38 UTC | #28678</small>]]></content>
+  </entry>
   <entry>
     <title>Intel One Mono Monospaced Font Project</title>
     <link href="https://github.com/intel/intel-one-mono" rel="alternate" />
