@@ -3,7 +3,7 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-26T09:01:00+00:00</updated>
+  <updated>2026-11-26T12:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
   <entry>
@@ -38,9 +38,9 @@
     <link href="https://1password.com/blog/update-on-nov-2026-security-incident" rel="alternate" />
     <id>https://1password.com/blog/update-on-nov-2026-security-incident::v241</id>
     <published>2026-11-26T02:59:00+00:00</published>
-    <updated>2026-11-26T02:59:00+00:00</updated>
+    <updated>2026-11-26T12:09:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fgithub.blog%2Fwp-content%2Fuploads%2F2018%2F07%2Fbanner.png%3Fresize%3D2030%2C974&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://1password.com/blog/update-on-nov-2026-security-incident">1password.com</a> | <a href="https://lobste.rs/s/aulbi2/update_on_security_incident_involving">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50644817">hacker news</a></small></p><hr/><p>1Password disclosed that an attacker used a compromised employee GitHub account to access backend systems, copy private source code, and download administrative data for a subset of users, including names and email addresses. The investigation, initiated on November 19, 2026, confirmed that customer vault contents, encryption keys, and master passwords remained uncompromised.</p><p>In response to the breach, the company revoked the stolen token, rotated potentially exposed internal credentials, and lengthened account invitation and recovery codes from six numeric digits to ten alphanumeric characters. Independent cybersecurity experts were brought in to validate containment and remediation efforts, and users have been advised to watch for related phishing attempts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.blog%2Fwp-content%2Fuploads%2F2018%2F07%2Fbanner.png%3Fresize%3D2030%2C974&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 02:03 UTC | #28607 | h,tr</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://1password.com/blog/update-on-nov-2026-security-incident">1password.com</a> | <a href="https://lobste.rs/s/aulbi2/update_on_security_incident_involving">lobsters</a> | <a href="https://www.reddit.com/r/technology/comments/1y5xmko/update_on_a_security_incident_involving/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50644817">hacker news</a></small></p><hr/><p>1Password disclosed that an attacker used a compromised employee GitHub account to access backend systems, copy private source code, and download administrative data for a subset of users, including names and email addresses. The investigation, initiated on November 19, 2026, confirmed that customer vault contents, encryption keys, and master passwords remained uncompromised.</p><p>In response to the breach, the company revoked the stolen token, rotated potentially exposed internal credentials, and lengthened account invitation and recovery codes from six numeric digits to ten alphanumeric characters. Independent cybersecurity experts were brought in to validate containment and remediation efforts, and users have been advised to watch for related phishing attempts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.blog%2Fwp-content%2Fuploads%2F2018%2F07%2Fbanner.png%3Fresize%3D2030%2C974&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 02:03 UTC | #28607 | h,tr</small>]]></content>
   </entry>
   <entry>
     <title>OpenAI Publishes Preprint Claiming New Bound for Matrix Multiplication Exponent</title>
