@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Avid Offers Up to 33 Percent Off Pro Tools for Black Friday</h2>
+<a name="story-28665"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Favid-pro-tools-bf-2026-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Avid is offering discounts of up to 33 percent off annual subscriptions for its Pro Tools audio production software during the Black Friday season. The promotion applies to new one-year paid-upfront purchases across the Artist, Studio, and Ultimate tiers of the digital audio workstation.</p><p>The sale coincides with the recent release of Pro Tools 2026.11, which introduced new tools including the Pro Tools Extensions plugin framework, a local AI-powered Stem Separator, and MIDI Polyphonic Expression support. Subscriptions renew at standard pricing after the initial promotional year.</p>
+<p>Nov 26 · <a href="https://musictech.com/news/gear/avid-pro-tools-2026-sale/">musictech.com</a> | <a href="https://www.avid.com/pro-tools">avid.com</a></p>
+<br clear="all" />
+
 <h2>Nord Grand 2 Stage Piano Offered at Discount by Sweetwater</h2>
 <a name="story-28662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fnord-grand-2-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sweetwater is offering Nord’s flagship Grand 2 stage piano for $4,499, a $500 reduction from its standard $4,999 price, with the promotion running through November 30. The 88-key instrument features a Kawai-built hammer-action keybed utilizing a triple-sensor system designed to replicate the physical response of an acoustic grand piano.</p><p>The updated model includes a revised control layout and an expanded sound engine with layerable piano and synth sections, each featuring dedicated effects and new reverb and delay options. The system supports 120-voice polyphony and includes expanded sample memory, the Triple Pedal 2, and a two-year warranty.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28630"><img src="https://wsrv.nl/?url=https%3A%2F%2Flibrewave.b-cdn.net%2Fwp-content%2Fuploads%2F2026%2F06%2Fbell_and_bone_trombone_ui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Libre Wave has released Bell &amp; Bone, a free sample library featuring jazz trumpet and trombone instruments designed for the Rhapsody player on Windows, macOS, and Linux. The library focuses on jazz phrasing with multiple articulations, four mutes including bucket and harmon, and a Performance articulation mode that automatically selects articulations based on playing speed and velocity.</p><p>The instrument utilizes phase-aligned dynamic layers for smooth intensity transitions and rebuilt legato and attack response systems. Users can control vibrato, growl, and flutter in real-time, alongside individual AHDSR envelopes and volume controls for each articulation. The library requires the free Rhapsody player, which supports standalone operation as well as VST3, AU, and AAX plugin formats.</p>
 <p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/bell-bone-jazz-trumpet/">bedroomproducersblog.com</a> | <a href="https://librewave.com/product/bell-and-bone/">librewave.com</a></p>
-<br clear="all" />
-
-<h2>Jukeblocks DAW Converter Adds Logic Pro and GarageBand Support</h2>
-<a name="story-28631"><img src="https://wsrv.nl/?url=https%3A%2F%2Fproducelikeapro.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F09%2FLogic-Pro-X-Tutorial-Get-Mixing-in-a-Powerful-DAW-993x606.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Jukeblocks has updated its browser-based digital audio workstation project converter to support Apple's Logic Pro and GarageBand. The tool enables users to transfer projects between major DAWs by structurally rebuilding project files rather than flattening tracks into audio stems.</p><p>Logic Pro support is currently in beta for versions 10.6 and later with restrictions on Audio Unit plugins, while GarageBand is supported starting from version 10.4.5. The service automatically handles plugin format swaps where applicable, with access provided through subscription tiers or individual conversion credits.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/jukeblocks/">bedroomproducersblog.com</a> | <a href="https://jukeblocks.io/convert/">jukeblocks.io</a></p>
 <br clear="all" />
 
 ---
