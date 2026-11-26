@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-25T19:51:00+00:00</updated>
+  <updated>2026-11-26T09:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>ORB-338X Released as Free ReBirth Groovebox Remake</title>
+    <link href="https://bedroomproducersblog.com/2026/11/26/orb-338x-groovebox/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/26/orb-338x-groovebox/::v241</id>
+    <published>2026-11-26T09:42:00+00:00</published>
+    <updated>2026-11-26T09:42:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fglobal.discourse-cdn.com%2Ffree1%2Fuploads%2Fopenstagecontrol%2Foriginal%2F2X%2F7%2F7cca27c16e1abe7dbe52789c2c68f36ee2d4e7af.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/26/orb-338x-groovebox/">bedroomproducersblog.com</a> | <a href="https://lovkov-ops.github.io/orb-338x/">lovkov-ops.github.io</a></small></p><hr/><p>ORB-338X is a free, open-source standalone groovebox for Windows, macOS, and Linux that builds upon the OpenRB-338 recreation of Propellerhead's classic ReBirth RB-338. Developed as a separate fork featuring a redesigned interface by Minikod and other contributors, it emulates the original setup of two TB-303 bass synthesizers alongside TR-808 and TR-909 drum machines, while adding expanded pattern sequencing and modulation capabilities.</p><p>The software introduces direct step-level editing and scale-based generation for basslines, individual LFO modulation for 303 parameters like cutoff and decay, and independent drum kit loading with per-drum panning and effects routing. It supports standard ReBirth song files alongside a new .rbsx format that preserves these expanded settings. Operating as a standalone application without MIDI input or sync, it allows users to export audio loops in WAV, FLAC, or Ogg formats for use in digital audio workstations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fglobal.discourse-cdn.com%2Ffree1%2Fuploads%2Fopenstagecontrol%2Foriginal%2F2X%2F7%2F7cca27c16e1abe7dbe52789c2c68f36ee2d4e7af.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 14:49 UTC | #28627</small>]]></content>
+  </entry>
   <entry>
     <title>Universal Audio Details Plugins for $1 Black Friday Promotion</title>
     <link href="https://bedroomproducersblog.com/2026/11/25/universal-audio-black-friday/" rel="alternate" />

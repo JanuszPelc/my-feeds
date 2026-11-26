@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>ORB-338X Released as Free ReBirth Groovebox Remake</h2>
+<a name="story-28627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fglobal.discourse-cdn.com%2Ffree1%2Fuploads%2Fopenstagecontrol%2Foriginal%2F2X%2F7%2F7cca27c16e1abe7dbe52789c2c68f36ee2d4e7af.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ORB-338X is a free, open-source standalone groovebox for Windows, macOS, and Linux that builds upon the OpenRB-338 recreation of Propellerhead's classic ReBirth RB-338. Developed as a separate fork featuring a redesigned interface by Minikod and other contributors, it emulates the original setup of two TB-303 bass synthesizers alongside TR-808 and TR-909 drum machines, while adding expanded pattern sequencing and modulation capabilities.</p><p>The software introduces direct step-level editing and scale-based generation for basslines, individual LFO modulation for 303 parameters like cutoff and decay, and independent drum kit loading with per-drum panning and effects routing. It supports standard ReBirth song files alongside a new .rbsx format that preserves these expanded settings. Operating as a standalone application without MIDI input or sync, it allows users to export audio loops in WAV, FLAC, or Ogg formats for use in digital audio workstations.</p>
+<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/orb-338x-groovebox/">bedroomproducersblog.com</a> | <a href="https://lovkov-ops.github.io/orb-338x/">lovkov-ops.github.io</a></p>
+<br clear="all" />
+
 <h2>Universal Audio Details Plugins for $1 Black Friday Promotion</h2>
 <a name="story-28588"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.uaudio.com%2Fcdn%2Fshop%2Fcollections%2F12-days-2026-pick1-collection-hero-mob.jpg%3Fv%3D1795122246%26width%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Universal Audio has revealed the ten plugins eligible for its "Pick 1 for $1" Black Friday promotion, which runs from November 26 through November 30, 2026. Customers can use the coupon code BFPICK1 at checkout to purchase one of the selected audio plugins for one dollar.</p><p>The lineup includes preamps, channel strips, compressors, choruses, tape recorders, and the full version of Vibe Analog Machines. These native plugins support macOS and Windows in VST3, AAX, and AU formats without requiring hardware, though activation requires a UA account, UA Connect, and a free iLok account. A separate conditional offer also provides the Cooper Time Cube Delay for $1 with any software purchase of at least $29.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>2Rule Releases TugGlicento v4.0 Glitch and Multi-Effect Plugin</h2>
 <p>Developer 2Rule has released version 4.0 of TugGlicento, a glitch and multi-effect audio plugin that divides incoming audio into five independent processing lines, each featuring a resonant filter, step sequencer, and selectable effect.</p><p>The update rebuilds the sequencer to synchronize with the host's timeline, introduces hardware-style per-step editing, adds new resonator and modal effects, and provides a resizable interface with support for Linux VST3. TugGlicento 4.0 is available as donationware for Windows, macOS, and Linux.</p>
 <p>Nov 25 · <a href="https://www.kvraudio.com/news/2rule-releases-tugglicento-glitch-and-multi-effect-plugin-v4-0-70158?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70158">kvraudio.com</a> | <a href="https://tugrulakyuz.gumroad.com/l/jpzjej">tugrulakyuz.gumroad.com</a></p>
-<br clear="all" />
-
-<h2>Goodhertz Releases Tupe Wow and Tupe v3.15 Update</h2>
-<a name="story-28526"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgoodhertz-tupe-wow-3-15-full-en-dark-page2_shadow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Goodhertz has launched Tupe Wow, a plugin that integrates tube saturation, tape emulation, and wow and flutter effects into a single unit. Alongside this release, the company issued a version 3.15 update for its Tupe plugin, which introduces four new tape models—8 Track Hi, 8 Track Med, 8 Track Lo, and C90 Toy—as a free update for existing owners.</p><p>The new Tupe Wow plugin is available at no extra cost to users who already own both Tupe and Wow Control. The v3.15 update also adds "Output Gain Position" and "AC Power Frequency" controls, expands preset libraries for multiple plugins including VCME and Trem Control, and provides technical refinements to improve audio performance and stability.</p>
-<p>Nov 25 · <a href="https://www.kvraudio.com/news/goodhertz-releases-tupe-wow-and-v3-15-update-with-new-tape-modes-for-tupe-70039?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70039">kvraudio.com</a> | <a href="https://goodhertz.com/tupe-wow">goodhertz.com</a></p>
 <br clear="all" />
 
 ---
