@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-26T08:59:00+00:00</updated>
+  <updated>2026-11-26T10:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Halts AI Server Shipments to Four Southeast Asian Nations Amid New US Export Controls</title>
+    <link href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?accessToken=zwAAAaKuNQQ-lc82jEUmoM5JUdOoR_A5rypRr894OKcVB9RGBdOqYCH1rysjcM8_V3g53u1A9NOvn7-PtUiQ488yW5PWvC5N09OZQc9GiKyhHdO5lhOroTBLn9OMFcQdt82IlAE.MEUCIAPJOFlcs0Bojv5ln7BmjmdLTj5dPHWXAdsn-FuOch_SAiEA5Eu4HIM2_h5rJDnldWxSlTi5axDZdg9vO7b_UplS1Nk&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902" rel="alternate" />
+    <id>https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?accessToken=zwAAAaKuNQQ-lc82jEUmoM5JUdOoR_A5rypRr894OKcVB9RGBdOqYCH1rysjcM8_V3g53u1A9NOvn7-PtUiQ488yW5PWvC5N09OZQc9GiKyhHdO5lhOroTBLn9OMFcQdt82IlAE.MEUCIAPJOFlcs0Bojv5ln7BmjmdLTj5dPHWXAdsn-FuOch_SAiEA5Eu4HIM2_h5rJDnldWxSlTi5axDZdg9vO7b_UplS1Nk&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902::v241</id>
+    <published>2026-11-26T10:16:00+00:00</published>
+    <updated>2026-11-26T10:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FiaLn9eep6ryDrWj6V9zkb9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?accessToken=zwAAAaKuNQQ-lc82jEUmoM5JUdOoR_A5rypRr894OKcVB9RGBdOqYCH1rysjcM8_V3g53u1A9NOvn7-PtUiQ488yW5PWvC5N09OZQc9GiKyhHdO5lhOroTBLn9OMFcQdt82IlAE.MEUCIAPJOFlcs0Bojv5ln7BmjmdLTj5dPHWXAdsn-FuOch_SAiEA5Eu4HIM2_h5rJDnldWxSlTi5axDZdg9vO7b_UplS1Nk&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902">ft.com</a></small></p><hr/><p>Nvidia has instructed its manufacturing partners to suspend shipments of artificial intelligence servers to Malaysia, Singapore, Thailand, and Indonesia. The directive responds to tightening United States export controls aimed at restricting Chinese access to advanced computing infrastructure.</p><p>The expanded regulatory measures broaden licensing requirements throughout Southeast Asia and target remote access capabilities for high-performance semiconductors. These stricter compliance rules have put pressure on the region's burgeoning data center market, impacting local technology stocks and supply chain planning.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FiaLn9eep6ryDrWj6V9zkb9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 15:50 UTC | #28616</small>]]></content>
+  </entry>
   <entry>
     <title>CBS News Investigation Finds U.S.-Based Chinese-Owned Firms Purchasing Advanced Nvidia Chips</title>
     <link href="https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/" rel="alternate" />
