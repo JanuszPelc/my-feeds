@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-25T18:15:00+00:00</updated>
+  <updated>2026-11-25T20:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Anthropic Migrates Messages API to Rust</title>
+    <link href="https://www.anthropic.com/research/migrating-api-to-rust" rel="alternate" />
+    <id>https://www.anthropic.com/research/migrating-api-to-rust::v241</id>
+    <published>2026-11-25T20:12:00+00:00</published>
+    <updated>2026-11-25T20:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fo7xu9whrs0u9%2F5w7vVl1QX5Tu6fnNl3oNxQ%2F5bebc6c244f22ef185fa3acd89fadd03%2Fmigration.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.anthropic.com/research/migrating-api-to-rust">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50646357">hacker news</a></small></p><hr/><p>Anthropic detailed how it migrated its core production Messages API from Python to Rust to handle massive traffic growth, using the existing Python service as a verifier to ensure parity. The rewrite cut CPU usage per request by about 70% and reduced the median time to first token by roughly 20% without taking the service offline or halting feature development.</p><p>Because direct testing and traditional shadowing approaches were insufficient for the complex, nondeterministic service, the company deployed automated AI agents to test production traffic, isolate differences using step-by-step checkpointing and fingerprints, and iteratively propose fixes. This verification pipeline allowed the team to overcome the verification bottleneck and safely complete a large-scale live system migration.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fo7xu9whrs0u9%2F5w7vVl1QX5Tu6fnNl3oNxQ%2F5bebc6c244f22ef185fa3acd89fadd03%2Fmigration.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 03:10 UTC | #28572</small>]]></content>
+  </entry>
   <entry>
     <title>Servo 0.8.0 Released with Video Captions and Inert Content Support</title>
     <link href="https://servo.org/blog/2026/11/25/october-in-servo/" rel="alternate" />
