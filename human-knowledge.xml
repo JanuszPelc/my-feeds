@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-26T13:44:00+00:00</updated>
+  <updated>2026-11-26T13:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Researchers Describe New Sauropodomorph Dinosaur Nyana rooiwalensis from South Africa</title>
+    <link href="https://theconversation.com/a-new-fossil-from-south-africa-offers-clues-to-how-giant-plant-eating-dinosaurs-evolved-297204" rel="alternate" />
+    <id>https://theconversation.com/a-new-fossil-from-south-africa-offers-clues-to-how-giant-plant-eating-dinosaurs-evolved-297204::v241</id>
+    <published>2026-11-26T13:46:00+00:00</published>
+    <updated>2026-11-26T13:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F773420%2Foriginal%2Ffile-20261122-62-nc0put.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/a-new-fossil-from-south-africa-offers-clues-to-how-giant-plant-eating-dinosaurs-evolved-297204">theconversation.com</a> | <a href="https://royalsocietypublishing.org/rsos/article/13/11/261002/484148/Nyana-rooiwalensis-South-Africa-s-earliest-near">royalsocietypublishing.org</a></small></p><hr/><p>Palaeontologists have described a new species of early sauropodomorph dinosaur named Nyana rooiwalensis from Late Triassic rocks in South Africa's Eastern Cape. Unearthed in the Elliot Formation, the specimen includes an exceptionally well-preserved, near-complete skull from an individual that lived approximately 210 million years ago.</p><p>Although the animal weighed an estimated 400 kilograms, microscopic bone analysis indicates it was still a juvenile when it died, pointing to a rapid growth rate early in sauropodomorph evolution. The discovery provides critical anatomical details and new insights into how the ancestors of giant long-necked dinosaurs developed their massive body sizes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F773420%2Foriginal%2Ffile-20261122-62-nc0put.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 18:54 UTC | #28654</small>]]></content>
+  </entry>
   <entry>
     <title>African Sheep Farmers Can Improve Flocks Through Better Breeding Selection, Study Finds</title>
     <link href="https://theconversation.com/african-sheep-farmers-could-improve-their-flocks-by-changing-how-they-choose-breeding-animals-294975" rel="alternate" />
