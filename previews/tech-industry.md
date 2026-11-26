@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>S&amp;P Considers Nvidia Credit Rating Downgrade Over Governance and Succession Risks</h2>
+<a name="story-28596"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256813240.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>S&amp;P Global Ratings is reviewing Nvidia for a potential credit downgrade, which could lower its AA rating to AA- within 90 days. The ratings agency cited governance concerns, weak executive oversight, and key-man risks highlighted by the recent brief ouster and reinstatement of CEO Jensen Huang.</p><p>While Nvidia is expected to maintain its investment-grade status, a lower rating could increase its borrowing expenses. It may also force the company to provide larger financial guarantees for infrastructure partners and neoclods relying on Nvidia-backed debt arrangements to fund massive AI projects.</p>
+<p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/">techcrunch.com</a> | <a href="https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3667832">spglobal.com</a></p>
+<br clear="all" />
+
 <h2>US FCC Authorizes SpaceX Starmind Constellation for Space Data Centers</h2>
 <p>The US Federal Communications Commission has authorized SpaceX to deploy a constellation of one million "Starmind" satellites designed to operate space-based data centers. The approval permits the company to build out orbital infrastructure intended for advanced data processing in space.</p><p>The decision represents a significant expansion of SpaceX's orbital ambitions beyond its existing broadband networks. The system is subject to specific regulatory requirements, including compliance with orbital debris rules and provisions for radiofrequency tracking and telemetry links.</p>
 <p>Nov 25 · <a href="https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/">reuters.com</a> | <a href="https://www.fcc.gov/document/fcc-authorizes-1-million-satellites-data-centers-space-0">fcc.gov</a> | <a href="https://www.reddit.com/r/technology/comments/1y5jd03/us_authorizes_spacex_to_deploy_1_million/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50644856">hacker news</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28449"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechstartups.com%2Fwp-content%2Fuploads%2F2026%2F02%2FxAi-Co-Founders.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Three former founding members of xAI have launched a new artificial intelligence startup named Epochal, backed by a $100 million personal investment from co-founder Guodong Zhang. The company aims to develop AI agents capable of advanced forecasting and predictive capabilities.</p><p>Epochal's primary platform, Time Portal, allows AI agents to browse historical snapshots of the internet to train on past events and improve future predictions. The startup was founded by Zhang alongside Zihang Dai and Manuel Kroiss following their departures from Elon Musk's AI enterprise.</p>
 <p>Nov 24 · <a href="https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Walmart Partners With Meta to Enable Black Friday Shopping via Muse AI Agent</h2>
-<a name="story-28477"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fshop-with-muse-walmart.png%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Walmart has integrated with Meta's Muse AI agent to allow customers to search for products, compare prices, and purchase Black Friday deals directly through the assistant. Powered by Walmart's Agent Gateway, the feature enables users to link their Walmart accounts to Muse, build shopping carts, and handle transactions without manually browsing the retailer's website.</p><p>The collaboration contrasts with competitors like Amazon, which has blocked third-party AI agents from making purchases on its platform. Walmart's implementation includes privacy controls such as spending limits, purchase approvals, and restrictions preventing Muse from accessing user shopping histories.</p>
-<p>Nov 24 · <a href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/">techcrunch.com</a> | <a href="https://corporate.walmart.com/news/2026/11/black-friday-deals-with-meta-muse">corporate.walmart.com</a></p>
 <br clear="all" />
 
 ---
