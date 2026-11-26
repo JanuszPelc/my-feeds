@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-25T09:51:00+00:00</updated>
+  <updated>2026-11-25T20:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>US Stocks Recover From Steep Early Losses as Nasdaq 100 Closes Down 0.6 Per Cent</title>
+    <link href="https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a" rel="alternate" />
+    <id>https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a::v241</id>
+    <published>2026-11-25T20:06:00+00:00</published>
+    <updated>2026-11-25T20:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfFhGGFBOc6FfigDpyPojZ6b2eSVdzl-Ir3AQE3txnU9qxEAhuEmmCFcGAwNwdJ4091MZXjTXA2-Y0ytgaspt4ufyLc9sL9yglEmzsXl-gCFPFr7pqtwc7_e9TBcmaymRvf1Jd0iw%3Fkey%3DUry5N-NOEriVKvGLAPoDqQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a">ft.com</a></small></p><hr/><p>US stocks clawed back steep losses on Wednesday, with the Nasdaq 100 recovering from an early drop of up to 4.7% to close down only 0.6%. Semiconductor manufacturer Nvidia fell 3.9% amid broader weakness in the chip sector.</p><p>Despite declines among major technology stocks, artificial intelligence start-up Anthropic emerged as a bright spot as its shares finished higher. The late-session market rebound significantly reduced the impact of earlier steep downturns.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfFhGGFBOc6FfigDpyPojZ6b2eSVdzl-Ir3AQE3txnU9qxEAhuEmmCFcGAwNwdJ4091MZXjTXA2-Y0ytgaspt4ufyLc9sL9yglEmzsXl-gCFPFr7pqtwc7_e9TBcmaymRvf1Jd0iw%3Fkey%3DUry5N-NOEriVKvGLAPoDqQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 01:18 UTC | #28565</small>]]></content>
+  </entry>
   <entry>
     <title>AidenAI Raises $32 Million Series A to Scale Enterprise AI Workflows</title>
     <link href="https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/" rel="alternate" />

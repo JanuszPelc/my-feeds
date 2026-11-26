@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>US Stocks Recover From Steep Early Losses as Nasdaq 100 Closes Down 0.6 Per Cent</h2>
+<a name="story-28565"><img src="https://wsrv.nl/?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfFhGGFBOc6FfigDpyPojZ6b2eSVdzl-Ir3AQE3txnU9qxEAhuEmmCFcGAwNwdJ4091MZXjTXA2-Y0ytgaspt4ufyLc9sL9yglEmzsXl-gCFPFr7pqtwc7_e9TBcmaymRvf1Jd0iw%3Fkey%3DUry5N-NOEriVKvGLAPoDqQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>US stocks clawed back steep losses on Wednesday, with the Nasdaq 100 recovering from an early drop of up to 4.7% to close down only 0.6%. Semiconductor manufacturer Nvidia fell 3.9% amid broader weakness in the chip sector.</p><p>Despite declines among major technology stocks, artificial intelligence start-up Anthropic emerged as a bright spot as its shares finished higher. The late-session market rebound significantly reduced the impact of earlier steep downturns.</p>
+<p>Nov 25 · <a href="https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a">ft.com</a></p>
+<br clear="all" />
+
 <h2>AidenAI Raises $32 Million Series A to Scale Enterprise AI Workflows</h2>
 <a name="story-28513"><img src="https://wsrv.nl/?url=https%3A%2F%2Flapaasvoice.com%2Fwp-content%2Fuploads%2F2026%2F11%2F3t873yr.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Enterprise AI startup AidenAI has secured $32 million in a Series A funding round led by growth investment firm A91 Partners. Founded in 2023, the company provides AI agents and technology modernization solutions to more than 30 enterprise clients across six countries. The fresh capital will be used to expand AidenAI's global enterprise AI business, specifically focusing on platform development and engineering talent.</p><p>AidenAI's proprietary AI Builder Platform and AiDAP tool are designed to help large organizations integrate AI into existing legacy systems and data infrastructures. The company plans to establish a team of over 1,000 frontier AI engineers through its AidenAI Builder Academy to address the growing demand for agentic AI applications. This expansion aligns with a projected growth in the Indian enterprise AI market, which is expected to reach $71 billion by 2030.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28304"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2FNorthzone-Partners-September-2022-scaled-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>London-based startup Agon has secured $70 million in a Series A funding round led by Northzone, valuing the company at $450 million. The startup specializes in defense simulation software for the European defense industry, focusing on the development of synthetic training environments for artificial intelligence applications.</p><p>Agon recently emerged from stealth earlier in 2026 following a $30 million funding round. The firm's technology provides gamified, synthetic battlefield infrastructure designed to train defense AI, positioning it as a key developer of military simulation software in Europe.</p>
 <p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>President Trump Hosts Dinner for $TRUMP Meme Coin Collectors</h2>
-<a name="story-28298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdr46azxe5rdcu.cloudfront.net%2Fwp-content%2Fuploads%2F2025%2F05%2F22081427%2FImage-22-19-852x485.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>President Trump hosted an upscale dinner for prominent investors of his $TRUMP meme coin. An analysis of the event reveals that the entry cost to qualify for the dinner has plummeted to as low as $518, a significant decrease from its 2025 peak of $55,000.</p><p>The drop in admission costs reflects a cooling of demand and a collapse in the market value of the meme coin. The dinner, which previously commanded a high premium for access, now serves as a symbol of the declining hype and shifting investor dynamics surrounding the token.</p>
-<p>Nov 23 · <a href="https://www.washingtonpost.com/politics/2026/11/22/trump-hosts-crypto-traders-demand-his-meme-coin-fades/">washingtonpost.com</a></p>
 <br clear="all" />
 
 ---
