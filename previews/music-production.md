@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sync Audio Releases SuperSample Audio Preview Player for macOS and Windows</h2>
+<p>Sync Audio has released SuperSample, a free standalone audio preview application for macOS and Windows. The software allows users to preview audio files directly from Finder or Windows Explorer using the space bar without loading them into a digital audio workstation.</p><p>The free version includes waveform previews, drag-and-drop trimming, and direct file export. An optional Pro version, available after a 14-day trial for a one-time purchase, adds MIDI keyboard playback, varispeed, pitch shifting, time stretching, format conversion, and metadata tools.</p>
+<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/sync-audio-supersample/">bedroomproducersblog.com</a> | <a href="https://www.supersampleapp.com/">supersampleapp.com</a></p>
+<br clear="all" />
+
 <h2>Sottovoce DSP Releases Sotto Sampler Plugin</h2>
 <a name="story-28628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsotto_sampler_main-screen-3440.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sottovoce DSP has released Sotto Sampler, a time-stretching sampler plug-in designed for macOS and Windows. The software automatically chops audio files, allowing producers to stretch, pitch-shift, and synchronize samples from multiple sources into a unified key, tempo, and groove.</p><p>The plug-in features automatic transient and region detection, individual chop controls with dedicated envelopes, stem separation capabilities, and an integrated effects rack. It supports VST3, AU, and AAX formats, and includes a performance layout that lets users play chops from up to nine tracks simultaneously.</p>
@@ -90,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28564"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmodernmusicsolutions.com%2Fcdn%2Fshop%2Ffiles%2FCubase-TheFuzz.webp%3Fv%3D1719939463%26width%3D2196&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Soundroll has released Soundroll Fuzz, a free fuzz effect plugin for macOS featuring Germanium, Silicon, and Tube distortion circuits. The plugin includes separate input and output equalization sections with low and high shelves and mid bell controls, alongside a built-in noise gate and parallel mix blending.</p><p>Additional features include 4× oversampling, auto gain matching, and a resizable interface with direct numerical entry for parameter values. The software is available as a direct download in VST3 and AU formats for macOS 11 Big Sur and later, running natively on both Apple Silicon and Intel processors without requiring an account or user registration.</p>
 <p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/">bedroomproducersblog.com</a> | <a href="https://store.soundroll.com/fuzz/">store.soundroll.com</a></p>
-<br clear="all" />
-
-<h2>Yamaha HS3 Studio Monitors Discounted at Sweetwater</h2>
-<a name="story-28548"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHS3-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sweetwater is offering a pair of Yamaha HS3 studio monitors for $172 this Black Friday, reduced from the original price of $229. These compact, powered 2-way monitors are engineered for small studio setups and utilize a bi-amplified, bass-reflex design.</p><p>The monitors feature a 3.5-inch cone woofer and a 0.75-inch dome tweeter with a frequency response of 70Hz to 22kHz. Integrated Room Control and High Trim switches allow for acoustic customization in small spaces, while the package includes a 1.5m mini-to-RCA cable and a 2.5m speaker cable.</p>
-<p>Nov 25 · <a href="https://musictech.com/news/gear/yamaha-hs3-black-friday-deal-sweetwater/">musictech.com</a> | <a href="https://www.sweetwater.com/store/detail/HS3B--yamaha-hs3-3.5-inch-powered-studio-monitor-black/reviews">sweetwater.com</a></p>
 <br clear="all" />
 
 ---
