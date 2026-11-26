@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>US Intelligence Officials Brief Congress on Alice Huang Spy Allegations</h2>
 <a name="story-28508"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.mktw.net%2Fim-77942953%2Fsocial&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>US intelligence officials informed congressional aides that Alice Huang was not under direct orders from China's Ministry of State Security (MSS) regarding the "Jensen Huang affair." While the briefing clarified she was not an agent directed by the MSS, officials indicated that she may have independently passed intelligence to the agency.</p><p>The briefing follows public statements by President Trump characterizing Nvidia CEO Jensen Huang as not a security threat. The case involves allegations that Huang, an executive linked to a Chinese firm, gathered sensitive information regarding U.S. artificial intelligence chip technology.</p>
-<p>Nov 25 · <a href="https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html?unlocked_article_code=1.TFE.MS4i.jx4l5m-ldOYd&smid=url-share">nytimes.com</a></p>
+<p>Nov 25 · <a href="https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html?unlocked_article_code=1.TFE.MS4i.jx4l5m-ldOYd&smid=url-share">nytimes.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y5cfwj/no_evidence_china_orchestrated_jensen_huangs/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Donald Trump Discusses Potential Jensen Huang Pardon and Congressional Testimony</h2>
