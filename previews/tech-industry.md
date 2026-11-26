@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Amazon and Meta in Talks to Lift Blockade on Muse AI Agent</h2>
 <a name="story-28556"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapnaran.com%2Fwp-content%2Fuploads%2F2023%2F02%2FAmazon.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon and Meta are reportedly negotiating a deal that would allow Meta’s Muse AI agent to connect directly to Amazon’s marketplace. This move would reverse a blockade established in September 2026 that prevented Muse users from making purchases on Amazon.com.</p><p>The discussions currently center on how search results and advertising will be presented under the potential agreement. Amazon remains concerned that third-party shopping agents could impact its advertising revenue and direct consumer relationships, and any final deal will require approval from both companies' CEOs.</p>
-<p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/">techcrunch.com</a> | <a href="https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/">fortune.com</a></p>
+<p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/">techcrunch.com</a> | <a href="https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/">fortune.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y58nah/shoppers_are_using_ai_agents_to_save_them_from/">r/technology</a></p>
 <br clear="all" />
 
 <h2>Immersive Shopping Technologies Persist Following Metaverse Decline</h2>
