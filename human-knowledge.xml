@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-26T05:52:00+00:00</updated>
+  <updated>2026-11-26T13:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>African Sheep Farmers Can Improve Flocks Through Better Breeding Selection, Study Finds</title>
+    <link href="https://theconversation.com/african-sheep-farmers-could-improve-their-flocks-by-changing-how-they-choose-breeding-animals-294975" rel="alternate" />
+    <id>https://theconversation.com/african-sheep-farmers-could-improve-their-flocks-by-changing-how-they-choose-breeding-animals-294975::v241</id>
+    <published>2026-11-26T13:44:00+00:00</published>
+    <updated>2026-11-26T13:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F768462%2Foriginal%2Ffile-20261027-52-rn8zlx.jpeg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/african-sheep-farmers-could-improve-their-flocks-by-changing-how-they-choose-breeding-animals-294975">theconversation.com</a></small></p><hr/><p>A recent study of smallholder sheep farmers in South Africa's Limpopo province reveals that roughly 90% of producers practice uncontrolled mating, significantly limiting flock productivity. Researchers surveyed 70 farmers across two villages to evaluate local breeding habits, finding that while participants prioritize traits like body size and twinning ability, they generally lack structured breeding programs.</p><p>The findings align with broader continental trends showing that unmanaged mating is widespread among African smallholder systems. Incorporating scientific selection metrics—such as evaluating rams for scrotal size and ewes for udder characteristics—alongside community-based breeding schemes could help enhance productivity while preserving locally adapted livestock traits.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F768462%2Foriginal%2Ffile-20261027-52-rn8zlx.jpeg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 18:43 UTC | #28655</small>]]></content>
+  </entry>
   <entry>
     <title>University of Waterloo Details Alpöge and Claude Proof of Generalized Riemann Hypothesis in Lean</title>
     <link href="https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366" rel="alternate" />
