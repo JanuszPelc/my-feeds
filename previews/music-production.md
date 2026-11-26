@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Universal Audio Details Plugins for $1 Black Friday Promotion</h2>
+<a name="story-28588"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.uaudio.com%2Fcdn%2Fshop%2Fcollections%2F12-days-2026-pick1-collection-hero-mob.jpg%3Fv%3D1795122246%26width%3D2048&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Universal Audio has revealed the ten plugins eligible for its "Pick 1 for $1" Black Friday promotion, which runs from November 26 through November 30, 2026. Customers can use the coupon code BFPICK1 at checkout to purchase one of the selected audio plugins for one dollar.</p><p>The lineup includes preamps, channel strips, compressors, choruses, tape recorders, and the full version of Vibe Analog Machines. These native plugins support macOS and Windows in VST3, AAX, and AU formats without requiring hardware, though activation requires a UA account, UA Connect, and a free iLok account. A separate conditional offer also provides the Cooper Time Cube Delay for $1 with any software purchase of at least $29.</p>
+<p>Nov 25 · <a href="https://bedroomproducersblog.com/2026/11/25/universal-audio-black-friday/">bedroomproducersblog.com</a> | <a href="https://www.uaudio.com/collections/pick-1-for-1">uaudio.com</a></p>
+<br clear="all" />
+
 <h2>Ableton Push 3 Controller and Standalone Models Discounted for Black Friday</h2>
 <a name="story-28571"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAbleton-Push-3-deal-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Retailer Sweetwater has introduced Black Friday discounts on the Ableton Push 3, offering the standalone edition for $1,439 and the control surface edition for $799. The hardware features 64 MPE-enabled pads and functions as an integrated audio and MIDI interface for production setups.</p><p>The standalone model includes an internal processor and battery, allowing users to operate independently of a computer, while the control surface version requires a tethered connection to Ableton Live. Both configurations are part of an upgradable, modular hardware system designed to integrate with music production rigs.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28526"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fgoodhertz-tupe-wow-3-15-full-en-dark-page2_shadow.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Goodhertz has launched Tupe Wow, a plugin that integrates tube saturation, tape emulation, and wow and flutter effects into a single unit. Alongside this release, the company issued a version 3.15 update for its Tupe plugin, which introduces four new tape models—8 Track Hi, 8 Track Med, 8 Track Lo, and C90 Toy—as a free update for existing owners.</p><p>The new Tupe Wow plugin is available at no extra cost to users who already own both Tupe and Wow Control. The v3.15 update also adds "Output Gain Position" and "AC Power Frequency" controls, expands preset libraries for multiple plugins including VCME and Trem Control, and provides technical refinements to improve audio performance and stability.</p>
 <p>Nov 25 · <a href="https://www.kvraudio.com/news/goodhertz-releases-tupe-wow-and-v3-15-update-with-new-tape-modes-for-tupe-70039?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70039">kvraudio.com</a> | <a href="https://goodhertz.com/tupe-wow">goodhertz.com</a></p>
-<br clear="all" />
-
-<h2>Aurally Sound Updates Song Master and Song Master Pro to Version 5.2</h2>
-<a name="story-28528"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsm_hindsvid.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Aurally Sound has released version 5.2 of its Song Master and Song Master Pro software for Windows and macOS. The standalone transcription and practice applications are designed to help musicians analyze recorded music by identifying chords, tempo, key, and song structure.</p><p>The update introduces native video playback with synchronized audio analysis, alongside GPU-accelerated stem separation that delivers significant performance gains on Apple Silicon and NVIDIA hardware. Additionally, Song Master Pro adds a new drums-to-MIDI conversion tool capable of detecting nine individual drum types, featuring adjustable sensitivity and percussion notation export options.</p>
-<p>Nov 25 · <a href="https://www.kvraudio.com/news/aurally-sound-updates-song-master-and-song-master-pro-to-v5-2-70143?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70143">kvraudio.com</a> | <a href="https://docs.aurallysound.com/blog/Song-Master_5_2-Update">docs.aurallysound.com</a></p>
 <br clear="all" />
 
 ---

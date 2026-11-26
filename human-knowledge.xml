@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-25T19:41:00+00:00</updated>
+  <updated>2026-11-25T19:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Anthropic CEO Dario Amodei Rejects Claims That AI Development Surrenders Human Control</title>
+    <link href="https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/" rel="alternate" />
+    <id>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/::v241</id>
+    <published>2026-11-25T19:46:00+00:00</published>
+    <updated>2026-11-25T19:46:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2609.11873v3%2FL5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/">techcrunch.com</a> | <a href="https://x.com/DarioAmodei/status/2125656399392690605">x.com</a></small></p><hr/><p>Anthropic CEO Dario Amodei has dismissed accusations that his company advocates surrendering human free will and control to artificial intelligence as absurd, arguing that he has consistently championed democratic oversight and human-led decision-making. Writing on X, Amodei pushed back against criticisms from industry rivals, including OpenAI CEO Sam Altman and Meta chief AI officer Alexandr Wang, who have recently warned that unchecked AI progress could jeopardize human agency.</p><p>While Amodei drew a conceptual distinction between automating specific tasks and relinquishing broad societal free will, he acknowledged that recursive self-improvement presents distinct control challenges. Anthropic has increasingly integrated AI into its own research and development, with models like Claude authoring a majority of code updates and accelerating internal research velocity, even as safety groups and industry competitors debate the long-term risks of autonomous systems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Farxiv.org%2Fhtml%2F2609.11873v3%2FL5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 00:53 UTC | #28581</small>]]></content>
+  </entry>
   <entry>
     <title>New Study Reveals Fine-Scale Structure of New Zealand's Alpine Fault</title>
     <link href="https://theconversation.com/new-study-reveals-a-close-up-of-nzs-alpine-fault-and-how-the-next-big-quake-might-unfold-297505" rel="alternate" />
