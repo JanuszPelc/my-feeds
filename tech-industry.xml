@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-26T10:09:00+00:00</updated>
+  <updated>2026-11-26T12:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Global Memory Chip Shortage Drives Up Electronics Prices Amid AI Demand</title>
+    <link href="https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC" rel="alternate" />
+    <id>https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC::v241</id>
+    <published>2026-11-26T12:04:00+00:00</published>
+    <updated>2026-11-26T12:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F01%2Ffeatured-image-3-1200x600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC">wsj.com</a></small></p><hr/><p>A severe global memory chip shortage driven by artificial intelligence demand has forced companies worldwide to establish procurement war rooms to secure vital components. Certain chip prices have surged up to tenfold over the past year, driving up overall electronics prices and leading hardware manufacturers to raise product costs.</p><p>Major technology firms have intensified their supply chain efforts by dispatching procurement executives directly to semiconductor manufacturing hubs in South Korea. Industry leaders note that component availability remains severely constrained, with customers receiving only a fraction of their required memory supply as the market struggles to keep pace with demand.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fbyteiota.com%2Fwp-content%2Fuploads%2F2026%2F01%2Ffeatured-image-3-1200x600.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>26 Nov 2026, 17:36 UTC | #28620</small>]]></content>
+  </entry>
   <entry>
     <title>Shein's India Relaunch Faces Slow Growth Under Reliance Partnership</title>
     <link href="https://www.bloomberg.com/news/articles/2026-11-26/shein-s-slow-india-start-lays-bare-limits-of-billionaire-ambani-s-retail-might" rel="alternate" />
