@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Thariq Shihipar Joins OpenAI From Anthropic</h2>
+<a name="story-28633"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.lumacdn.com%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cfit%3Dcover%2Cdpr%3D2%2Cbackground%3Dwhite%2Cquality%3D75%2Cwidth%3D400%2Cheight%3D400%2Fuploads%2Fjc%2Fdc42cf7e-c468-4da5-9bfb-6b8d10fd8ada.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Thariq Shihipar has announced that he is leaving Anthropic to join OpenAI. In a public statement, he reflected positively on his tenure at Anthropic and expressed support for his former colleagues as both organizations advance artificial intelligence development.</p><p>Prior to his move, Shihipar worked as an engineer on Claude Code at Anthropic. His transition follows a series of notable high-profile talent movements across major artificial intelligence laboratories.</p>
+<p>Nov 26 · <a href="https://x.com/trq212/status/2125675533761671405">x.com</a></p>
+<br clear="all" />
+
 <h2>OpenAI Fixes GPT-6.2 Launch Billing Error Affecting Usage Limits</h2>
 <a name="story-28670"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.zuiheikeji.org%2Fwp-content%2Fuploads%2F2023%2F05%2F1683928619-1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OpenAI corrected a billing error originating from the launch of GPT-6.2 that incorrectly discounted usage of the Astra and Sol models for a majority of users.</p><p>With the mistake resolved, identical workloads will now draw down plan allowances at the intended rate, resulting in users hitting their usage caps up to 40 percent faster compared to the previous week.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <a name="story-28389"><img src="https://wsrv.nl/?url=https%3A%2F%2Faigenerator.tools%2Fuploads%2Fmeta-muse-spark-meta-ai-multimodal-search-cover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has released its personal AI agent, Muse, to adults in the United Kingdom, becoming the first major technology company to deploy an AI agent in the country. The tool is accessible via iOS, Android, WhatsApp, and a dedicated web platform, providing users with assistance for everyday tasks. The service is offered for free, with optional paid plans available.</p><p>The agent incorporates a separate security monitor and requires user authorization for sensitive actions to ensure oversight. The release has drawn attention from UK watchdogs, who will closely monitor the rollout and its implications for consumers in the region.</p>
 <p>Nov 24 · <a href="https://www.politico.eu/article/meta-ai-agent-muse-launch-uk/">politico.eu</a> | <a href="https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/">about.fb.com</a></p>
-<br clear="all" />
-
-<h2>AWS Launches Strands Decider v2 Open Decision Models</h2>
-<a name="story-28375"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzlebja9gymb4oug8vt3z.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AWS launched Strands Decider v2, a suite of five open decision models for AI agents built on Google’s Gemma 4 architecture. These models, available under the Apache 2.0 license, range from 2 billion to 31 billion parameters. Unlike generative models, these "decision models" are designed to process a given state—such as an agent trace or support ticket—and a fixed set of possible answers to return a probability for each option rather than generating free-form text.</p><p>The v2 release features a bidirectional attention architecture, enabling multiple questions to reuse a single encoded state to reduce latency and cost. Benchmarks indicate that the 31B model achieves an average score of 82.1 across six public text benchmarks, outperforming Google’s Gemini Decision 1. Although not yet integrated into Amazon Bedrock, the models have been used internally at Amazon to replace Claude Sonnet 4.6 for ticket labeling, resulting in significantly lower operational costs and faster processing times.</p>
-<p>Nov 24 · <a href="https://thenewstack.io/aws-strands-decider-v2/">thenewstack.io</a> | <a href="https://strandsagents.com/blog/introducing-strands-decider-v2/">strandsagents.com</a></p>
 <br clear="all" />
 
 ---
