@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-26T20:06:00+00:00</updated>
+  <updated>2026-11-26T20:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Altair Semiconductor Raises $100 Million in Series A Funding</title>
+    <link href="https://www.calcalistech.com/ctechnews/article/m3h4xzamw" rel="alternate" />
+    <id>https://www.calcalistech.com/ctechnews/article/m3h4xzamw::v241</id>
+    <published>2026-11-26T20:18:00+00:00</published>
+    <updated>2026-11-26T20:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2020%2F07%2FALTAIR-ALT1250-5G-CAT-M-CHIPSET-1030x671.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.calcalistech.com/ctechnews/article/m3h4xzamw">calcalistech.com</a></small></p><hr/><p>Altair Semiconductor has raised $100 million in a Series A funding round led by Maverick Silicon, with participation from Pitango. The capital will support the mass production of the Israeli chipmaker's ALT1550 low-power 5G modem, which is scheduled to begin in 2027, as well as the expansion of its operations across North America, Europe, and Asia.</p><p>The independent chipmaker, which was spun off from Sony earlier this year, is targeting the emerging market for edge AI devices such as smart glasses and wearables. These devices require continuous cloud connectivity and low power consumption without depending on a smartphone, presenting unique engineering challenges that Altair's multi-standard modem platform aims to solve.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2020%2F07%2FALTAIR-ALT1250-5G-CAT-M-CHIPSET-1030x671.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 04:15 UTC | #28667</small>]]></content>
+  </entry>
   <entry>
     <title>Avicena Raises Over $100 Million in Series C Funding for MicroLED Optical Interconnects</title>
     <link href="https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai" rel="alternate" />

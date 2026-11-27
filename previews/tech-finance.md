@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Altair Semiconductor Raises $100 Million in Series A Funding</h2>
+<a name="story-28667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2020%2F07%2FALTAIR-ALT1250-5G-CAT-M-CHIPSET-1030x671.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Altair Semiconductor has raised $100 million in a Series A funding round led by Maverick Silicon, with participation from Pitango. The capital will support the mass production of the Israeli chipmaker's ALT1550 low-power 5G modem, which is scheduled to begin in 2027, as well as the expansion of its operations across North America, Europe, and Asia.</p><p>The independent chipmaker, which was spun off from Sony earlier this year, is targeting the emerging market for edge AI devices such as smart glasses and wearables. These devices require continuous cloud connectivity and low power consumption without depending on a smartphone, presenting unique engineering challenges that Altair's multi-standard modem platform aims to solve.</p>
+<p>Nov 26 · <a href="https://www.calcalistech.com/ctechnews/article/m3h4xzamw">calcalistech.com</a></p>
+<br clear="all" />
+
 <h2>Avicena Raises Over $100 Million in Series C Funding for MicroLED Optical Interconnects</h2>
 <p>Avicena has secured over $100 million in a Series C funding round led by InterVest, with participation from investors including Tiger Global, SK hynix Ventures, Samsung Catalyst Fund, and AMD Ventures. Alongside the funding, the Sunnyvale startup appointed Kevin Pope as its new chief executive officer to succeed Marco Chisari as the company prepares to commercialize its technology next year.</p><p>The company develops the LightBundle platform, which utilizes dense arrays of microLEDs and silicon photodetectors connected by multicore fiber to transfer data between AI accelerators, memory, and switches without requiring lasers. Avicena began shipping 1Tbps evaluation kits earlier in the year and plans to use the new capital for product development, engineering, and hiring as memory and interconnect bottlenecks remain critical to expanding AI infrastructure.</p>
 <p>Nov 26 · <a href="https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai">thenextweb.com</a> | <a href="https://avicena.tech/avicena-raises-100-million-series-c-to-accelerate-commercialization-of-microled-optical-interconnects-for-ai-infrastructure/">avicena.tech</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28368"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsupertake-product.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI investing startup Supertake has raised $20 million in seed funding led by Adjacent, with participation from Coinbase Ventures, Union Square Ventures, and various angel investors. Incubated by USV, the company uses frontier AI models and trading agents to translate natural language market predictions into custom stock portfolios connected to brokerages like Robinhood and Coinbase.</p><p>The company has appointed former Coinbase AI leaders Lincoln Murr as CEO and John Peterson as CTO, while founder Michael Mignano transitions to executive chairman. Supertake plans to use the new capital to expand its engineering, design, and growth teams while implementing safety guardrails such as spending limits and asset allowlists to manage risks associated with automated trading.</p>
 <p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/">techcrunch.com</a></p>
-<br clear="all" />
-
-<h2>Amazon to Acquire Decart Technology and Team for $7.5 Billion</h2>
-<a name="story-28333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHI1d0b6WsAA-Oo5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Amazon has agreed to acquire key assets of artificial intelligence startup Decart, including the Decart Optimization Stack, its founding team, and its AI researchers, for approximately $7.5 billion. The transaction aims to bolster the cloud-computing giant's internal AI infrastructure and technical capabilities.</p><p>Decart previously raised $300 million to develop real-time world models designed to run efficiently on Amazon's chips. The acquisition integrates specialized optimization tools and engineering talent into Amazon's operations as major technology companies compete to scale advanced artificial intelligence workloads.</p>
-<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
