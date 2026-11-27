@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Initial Audio Updates SourceLab to v2.7</h2>
+<a name="story-28679"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsl27-video-thumb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Initial Audio has released version 2.7 of its SourceLab virtual instrument, introducing a new Scale Lock feature and making the wavetable filter available as an effect within the effect rack. The update also adds bank selection directly to the preset drop-down menu and includes an automated notification feature for new software downloads.</p><p>Additional improvements in version 2.7 consist of general performance optimizations for both the user interface and audio engine, reduced memory consumption, and a fix preventing the sample display from unexpectedly zooming out while moving a slice marker. Furthermore, wavetables created in the built-in designer can now be sent straight to the effect rack.</p>
+<p>Nov 26 · <a href="https://www.kvraudio.com/news/initial-audio-updates-sourcelab-to-v2-7-with-scale-lock-and-wavetable-filter-effect-70223?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70223">kvraudio.com</a> | <a href="https://initialaudio.com/sourcelab/">initialaudio.com</a></p>
+<br clear="all" />
+
 <h2>HOFA-Plugins Releases Analyzer V3 Spectrum Analyzer and Metering Suite</h2>
 <a name="story-28680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanalyzer-v3-0-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HOFA-Plugins has released Analyzer V3, a spectrum analysis and metering suite designed for studio and live audio engineering. Available as a standalone application and in VST3, AU, and AAX plugin formats, the software introduces GPU-accelerated filter bank analysis alongside energy and hold curves to track frequency distribution and transient peaks.</p><p>The updated suite includes an expanded library of genre and instrument reference curves, a frequency correlator for stereo width monitoring, and EBU R128 loudness metering tools. Users can customize the workspace layout by arranging and resizing individual modules, manage multiple plugin instances within a single display, and perform offline analysis up to eight times faster than previous versions.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>Sync Audio Releases SuperSample Audio Preview Player for macOS and Windows</h2>
 <p>Sync Audio has released SuperSample, a free standalone audio preview application for macOS and Windows. The software allows users to preview audio files directly from Finder or Windows Explorer using the space bar without loading them into a digital audio workstation.</p><p>The free version includes waveform previews, drag-and-drop trimming, and direct file export. An optional Pro version, available after a 14-day trial for a one-time purchase, adds MIDI keyboard playback, varispeed, pitch shifting, time stretching, format conversion, and metadata tools.</p>
 <p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/sync-audio-supersample/">bedroomproducersblog.com</a> | <a href="https://www.supersampleapp.com/">supersampleapp.com</a></p>
-<br clear="all" />
-
-<h2>Sottovoce DSP Releases Sotto Sampler Plugin</h2>
-<a name="story-28628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsotto_sampler_main-screen-3440.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sottovoce DSP has released Sotto Sampler, a time-stretching sampler plug-in designed for macOS and Windows. The software automatically chops audio files, allowing producers to stretch, pitch-shift, and synchronize samples from multiple sources into a unified key, tempo, and groove.</p><p>The plug-in features automatic transient and region detection, individual chop controls with dedicated envelopes, stem separation capabilities, and an integrated effects rack. It supports VST3, AU, and AAX formats, and includes a performance layout that lets users play chops from up to nine tracks simultaneously.</p>
-<p>Nov 26 · <a href="https://www.kvraudio.com/news/sottovoce-dsp-releases-sotto-sampler-plugin-vst-au-aax-70180?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70180">kvraudio.com</a> | <a href="https://sottovocedsp.com/products/sotto-sampler">sottovocedsp.com</a></p>
 <br clear="all" />
 
 ---
