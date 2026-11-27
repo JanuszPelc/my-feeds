@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T20:13:00+00:00</updated>
+  <updated>2026-11-26T20:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Rust Lock Poisoning Defended in Blog Post</title>
+    <link href="https://sunshowers.io/posts/on-poisoning/" rel="alternate" />
+    <id>https://sunshowers.io/posts/on-poisoning/::v241</id>
+    <published>2026-11-26T20:17:00+00:00</published>
+    <updated>2026-11-26T20:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCelSS20DRGQ%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gUSgTMA8%3D%26rs%3DAOn4CLAvjpH3HMffriIky2444px8LSoZsw&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://sunshowers.io/posts/on-poisoning/">sunshowers.io</a> | <a href="https://lobste.rs/s/wpylec/defense_lock_poisoning_rust_2025">lobsters</a></small></p><hr/><p>In response to a proposal to make Rust's default mutex non-poisoning by silently unlocking on panic, software engineer sunshowers argues that lock poisoning is an essential mechanism for maintaining system correctness. The article details how unexpected panics and cancellations during critical sections can permanently violate mutex invariants and logically corrupt shared data.</p><p>While many applications abort on panic or handle errors via results rather than panics, default unwinding in multithreaded code creates risks where invariant failures go unnoticed unless detected. The author contends that lock poisoning provides a critical advisory heuristic to catch these corrupted states, drawing parallels to similar risks posed by future cancellations in asynchronous Rust.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCelSS20DRGQ%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gUSgTMA8%3D%26rs%3DAOn4CLAvjpH3HMffriIky2444px8LSoZsw&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 04:03 UTC | #28689</small>]]></content>
+  </entry>
   <entry>
     <title>John Goerzen Restores and Boots 2002 Tape Backup on DEC Alpha Workstation</title>
     <link href="https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002" rel="alternate" />
