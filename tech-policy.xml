@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-27T14:30:00+00:00</updated>
+  <updated>2026-11-27T17:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Blackwell Chips Discovered at Shanghai Data Center Linked to Alice Huang and Megaspeed</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q::v241</id>
+    <published>2026-11-27T17:44:00+00:00</published>
+    <updated>2026-11-27T17:44:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FGQ6GLJYGIRKBXJ3AC3F7C4LEVE.jpg%3Fauth%3Dd26a0016ec62f947ec044bb66a39e413c855a617c87636e212e3d1d210949e0e%26width%3D1080%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q">bloomberg.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y6tjsp/nvidia_blackwell_chips_turn_up_at_china_site_tied/">r/technology</a></small></p><hr/><p>Chinese filings containing serial numbers indicate that restricted Nvidia Corp. Blackwell artificial intelligence semiconductors have been installed at a Shanghai data center. The facility is tied to Alice Huang and Megaspeed, a Singapore-based firm currently facing a US investigation over alleged export-control violations.</p><p>The findings underscore persistent challenges in enforcing US trade restrictions intended to block advanced American processors from reaching Chinese entities. Although Megaspeed has previously distanced itself from Huang and denied supply-chain involvement, the documented serial numbers connect the restricted hardware directly to operational infrastructure in China.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FGQ6GLJYGIRKBXJ3AC3F7C4LEVE.jpg%3Fauth%3Dd26a0016ec62f947ec044bb66a39e413c855a617c87636e212e3d1d210949e0e%26width%3D1080%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 23:05 UTC | #28717</small>]]></content>
+  </entry>
   <entry>
     <title>Kansas City Officials Reject Proposal for 20-Story Vertical Data Center</title>
     <link href="https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html" rel="alternate" />
