@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T20:09:00+00:00</updated>
+  <updated>2026-11-26T20:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>John Goerzen Restores and Boots 2002 Tape Backup on DEC Alpha Workstation</title>
+    <link href="https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002" rel="alternate" />
+    <id>https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002::v241</id>
+    <published>2026-11-26T20:13:00+00:00</published>
+    <updated>2026-11-26T20:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fchangelog.complete.org%2Ffiles_changelog%2F2026%2F11%2Falpha-2002.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002">changelog.complete.org</a> | <a href="https://lobste.rs/s/2thnmt/i_booted_from_my_tape_backup_from_2002">lobsters</a></small></p><hr/><p>Software engineer John Goerzen successfully restored and booted a Linux system from a 2002 Exabyte tape backup using an original DEC AlphaPC 164LX workstation. The backups, originally created with Amanda, were extracted using an eBay-purchased tape drive and processed inside a customized Docker container to handle bzip2-compressed archives.</p><p>To avoid damaging aging hardware, Goerzen deployed a BlueSCSI emulator with an SD card to host the disk images. After resolving kernel compatibility issues, network configuration, and video card adjustments, the restored environment successfully booted into KDE 2, allowing access to historical files, mailboxes, and period-appropriate web browsing via Protoweb.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fchangelog.complete.org%2Ffiles_changelog%2F2026%2F11%2Falpha-2002.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 03:16 UTC | #28686</small>]]></content>
+  </entry>
   <entry>
     <title>Nextcloud Releases Euro-Office-Powered Desktop App</title>
     <link href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/" rel="alternate" />

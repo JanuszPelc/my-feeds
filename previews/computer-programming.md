@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>John Goerzen Restores and Boots 2002 Tape Backup on DEC Alpha Workstation</h2>
+<a name="story-28686"><img src="https://wsrv.nl/?url=https%3A%2F%2Fchangelog.complete.org%2Ffiles_changelog%2F2026%2F11%2Falpha-2002.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Software engineer John Goerzen successfully restored and booted a Linux system from a 2002 Exabyte tape backup using an original DEC AlphaPC 164LX workstation. The backups, originally created with Amanda, were extracted using an eBay-purchased tape drive and processed inside a customized Docker container to handle bzip2-compressed archives.</p><p>To avoid damaging aging hardware, Goerzen deployed a BlueSCSI emulator with an SD card to host the disk images. After resolving kernel compatibility issues, network configuration, and video card adjustments, the restored environment successfully booted into KDE 2, allowing access to historical files, mailboxes, and period-appropriate web browsing via Protoweb.</p>
+<p>Nov 26 · <a href="https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002">changelog.complete.org</a> | <a href="https://lobste.rs/s/2thnmt/i_booted_from_my_tape_backup_from_2002">lobsters</a></p>
+<br clear="all" />
+
 <h2>Nextcloud Releases Euro-Office-Powered Desktop App</h2>
 <p>Nextcloud has released the Nextcloud Office Desktop app, bringing its Euro-Office collaborative suite to Windows, macOS, and Linux. The free and open-source application includes editors for text documents, spreadsheets, presentations, and PDFs with high compatibility for both Microsoft Office and open document formats.</p><p>The app supports offline editing, local font integration, digital signatures, and file protection features like password encryption and permission controls. Users can connect the desktop app to their Nextcloud Hub instances to seamlessly access and co-edit files with team members in real time.</p>
 <p>Nov 26 · <a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/">nextcloud.com</a> | <a href="https://news.ycombinator.com/item?id=50654289">hacker news</a></p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_-0siJzaUAY%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Armin Ronacher argues that Rust's mutex poisoning should be removed or made an exception rather than the default behavior. While the feature was designed to signal broken invariants after a panic, the author asserts that it is rarely handled correctly in practice and often results in "slow outages" where a single panic on one thread makes a shared mutex permanently unusable for all subsequent threads.</p><p>The article highlights how `PoisonError` can cause deadlocks because it holds the lock, citing issues in projects like RLS and Mozilla, as well as crates like Deno and Polars. Ronacher suggests making `std::sync::nonpoison` the default for `std::sync::Mutex` and introducing an opt-in `Poison&lt;T&gt;` wrapper for users who specifically need to detect poisoned states.</p>
 <p>Nov 25 · <a href="https://lucumr.pocoo.org/2026/11/25/poisoning/">lucumr.pocoo.org</a> | <a href="https://lobste.rs/s/sj2pkv/abolish_lock_poisoning">lobsters</a></p>
-<br clear="all" />
-
-<h2>Antithesis Nightmare Mode Simulates Disk Failures</h2>
-<a name="story-28537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slidesharecdn.com%2Fmodel-implementedhybridfaultinjection-200614194049%2F75%2FModel-implemented-hybrid-fault-injection-14-2048.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Antithesis developed a fault injection mechanism to simulate complex disk failures in distributed systems. By utilizing Amnesia, a custom Rust-based FUSE filesystem, the system emulates power losses, torn writes, I/O errors, and disk latency. This functionality allows developers to evaluate software robustness against unreliable storage, specifically targeting issues like the fsyncgate bug and non-atomic write interleaving.</p><p>The Amnesia filesystem builds on the LazyFS research project but operates in-memory to manage volatile and durable states for increased performance. It integrates with a fuzzer to target specific "interesting" moments—before, during, or after syscalls—to uncover concurrency bugs and data loss scenarios that are difficult to replicate in standard operating environments.</p>
-<p>Nov 25 · <a href="https://antithesis.com/blog/2026/nightmare-mode/">antithesis.com</a> | <a href="https://lobste.rs/s/xst6fv/nightmare_mode_simulating_disk_failures">lobsters</a></p>
 <br clear="all" />
 
 ---
