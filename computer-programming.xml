@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T23:43:00+00:00</updated>
+  <updated>2026-11-26T23:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Blaine Hansen Proposes Mainstream Verifiable Languages to Counter LLM Software Quality Crisis</title>
+    <link href="https://blainehansen.me/post/mainstream-verifiable-language/" rel="alternate" />
+    <id>https://blainehansen.me/post/mainstream-verifiable-language/::v241</id>
+    <published>2026-11-26T23:47:00+00:00</published>
+    <updated>2026-11-26T23:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiesuF4Bu2f4%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGE0gTShlMA8%3D%26rs%3DAOn4CLD5dStGVjHRcxDoza95EI8BbQmyyg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blainehansen.me/post/mainstream-verifiable-language/">blainehansen.me</a> | <a href="https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50663089">hacker news</a></small></p><hr/><p>Blaine Hansen argues that the widespread adoption of large language models is accelerating a pre-existing software quality crisis, making formal verification an essential requirement for the engineering industry. Existing verification tools have failed to achieve broad adoption due to significant usability and understandability hurdles, leaving software vulnerable to undiscovered flaws.</p><p>To address these limitations, Hansen outlines a revised, pragmatic vision for his Magmide project, a formally verifiable programming language designed to meet practitioners where they are. The updated design compiles to WebAssembly, utilizes a Rust-inspired type system without borrow-checking, incorporates SMT-powered liquid types and flow effects, and plans to integrate Lean as a proof layer over time.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiesuF4Bu2f4%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGE0gTShlMA8%3D%26rs%3DAOn4CLD5dStGVjHRcxDoza95EI8BbQmyyg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 08:41 UTC | #28700</small>]]></content>
+  </entry>
   <entry>
     <title>Developer Builds libhlp, a Pure-Rust Reader for Legacy WinHelp Files</title>
     <link href="https://quin.fyi/posts/how-winhelp-files-work.html" rel="alternate" />
