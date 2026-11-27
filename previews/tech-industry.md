@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meituan Reports Second Consecutive Quarterly Profit</h2>
+<a name="story-28715"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.i-scmp.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1020x680%2Fpublic%2Fd8%2Fimages%2Fcanvas%2F2026%2F11%2F27%2Fc4a80a6e-a528-41b8-a0f0-bada993ba2d2_cc6c2579.jpg%3Fitok%3Dzo-bPW5a%26v%3D1795770604&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Chinese food-delivery giant Meituan posted an adjusted net profit of 1.9 billion yuan (US$285.1 million) for the third quarter of 2026, marking its second consecutive profitable quarter. The result slightly missed analysts' expectations of 2.2 billion yuan but contrasted sharply with an adjusted net loss of 16 billion yuan reported a year earlier.</p><p>The return to profitability reflects an easing of China's prolonged food delivery price war following government intervention to curb aggressive subsidies. Despite the stabilizing market conditions, Meituan continues to face intense competition in the instant retail sector from rivals Alibaba Group Holding and JD.com.</p>
+<p>Nov 27 · <a href="https://www.scmp.com/tech/big-tech/article/3376041/meituan-logs-second-straight-quarterly-profit-it-fends-alibaba-jd-instant-retail">scmp.com</a></p>
+<br clear="all" />
+
 <h2>Foreign Investors Offload Record $33.1 Billion in Taiwanese Stocks Amid AI Sell-Off</h2>
 <a name="story-28693"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.moneycontrol.com%2Fstatic-mcnews%2F2026%2F05%2F20260531135737_anishaa-3005263.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Foreign investors sold a record net $33.1 billion of Taiwanese stocks in November, surpassing the previous month's outflow amid escalating valuation fears surrounding artificial intelligence. The sharp capital flight reflects a broader correction across technology equities as global markets reevaluate high tech valuations.</p><p>As a critical hub for semiconductor manufacturing and global AI hardware supply chains, Taiwan's market functions as a key bellwether for the sector. The sustained outflows underscore growing caution among institutional funds regarding capital expenditure returns and tech sector cash-burn risks.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28580"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgetlatka.com%2Fmirror-assets%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FScreenshot-2025-09-13-at-1.19.08-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ElevenLabs is in early discussions for a funding round in early 2027 targeting a $33 billion valuation, up from its $22 billion valuation in September. The artificial intelligence voice model and agent developer has also seen its annual recurring revenue climb to $700 million.</p><p>The preliminary talks reflect strong investor interest and rapid commercial growth in the generative voice sector. While the formal process is anticipated for 2027, some investors have pushed for discussions to begin sooner.</p>
 <p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>S&amp;P Considers Nvidia Credit Rating Downgrade Over Governance and Succession Risks</h2>
-<a name="story-28596"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F01%2FGettyImages-2256813240.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>S&amp;P Global Ratings is reviewing Nvidia for a potential credit downgrade, which could lower its AA rating to AA- within 90 days. The ratings agency cited governance concerns, weak executive oversight, and key-man risks highlighted by the recent brief ouster and reinstatement of CEO Jensen Huang.</p><p>While Nvidia is expected to maintain its investment-grade status, a lower rating could increase its borrowing expenses. It may also force the company to provide larger financial guarantees for infrastructure partners and neoclods relying on Nvidia-backed debt arrangements to fund massive AI projects.</p>
-<p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/">techcrunch.com</a> | <a href="https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3667832">spglobal.com</a></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Original 1979 Oberheim OB-X Synthesizer Listed on Reverb at Discounted Price</h2>
+<a name="story-28731"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FOberheim-OB-X-on-Reverb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>An original 1979 Oberheim OB-X polyphonic analog synthesizer is currently listed on Reverb with a 15% discount, reducing its price from £16,595 to £14,105. Released as Oberheim's first polyphonic synth, the eight-voice instrument features dual VCOs per voice, a 61-key keyboard, and programmable patch memory.</p><p>Only around 800 units of the original OB-X were manufactured before it was discontinued, making surviving hardware rare. The model gained prominence through use by artists such as Rush, Queen, and Madonna during the early 1980s. The current secondhand listing offers the vintage instrument in excellent condition.</p>
+<p>Nov 27 · <a href="https://musictech.com/news/gear/oberheim-ob-x-synth-black-friday-reverb-sale/">musictech.com</a></p>
+<br clear="all" />
+
+<h2>KRK Rokit 8 G5 Studio Monitors Discounted to $269 for Black Friday</h2>
+<a name="story-28729"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FKRK-deal-hero-2%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>KRK Systems' Rokit 8 G5 studio monitors are available at a discounted price of $269 per speaker at Sweetwater through the end of December, marking a $50 reduction from their standard $319 retail price. The sale applies to single units, with bundle options also available for buyers purchasing pairs alongside stands and cables.</p><p>Released as part of the fifth-generation Rokit series, the 8-inch monitors feature three distinct voicing modes—Mix, Create, and Focus—alongside DSP-driven room tuning controlled via a built-in LCD screen with 25 graphic EQ presets. The units utilize a 1-inch silk-dome tweeter, a woven Kevlar woofer, and Class D amplification housed in a front-ported cabinet delivering a frequency response of 42Hz to 36kHz.</p>
+<p>Nov 27 · <a href="https://musictech.com/news/gear/krks-rokit-8-g5-studio-monitors-drop-to-269-each-this-black-friday/">musictech.com</a> | <a href="https://www.sweetwater.com/store/detail/Rokit8G5">sweetwater.com</a></p>
+<br clear="all" />
+
 <h2>Fender Discounts Studio Pro DAW for Black Friday</h2>
 <a name="story-28730"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FFender-studio-pro-deal%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fender is offering its flagship digital audio workstation, Fender Studio Pro, at a discounted price of £119 down from £169.99 for Black Friday. Built on PreSonus' Studio One platform, the software functions as an all-in-one environment for recording, arranging, mixing, and mastering.</p><p>The DAW incorporates Fender’s Mustang Guitar and Rumble Bass plugins, providing dozens of amp models and effects pedals alongside virtual instruments, stem separation, audio-to-MIDI conversion, and Vocal Tune pitch correction. It also features integration with external platforms like Splice and Moises Studio, plus built-in mastering and live performance tools.</p>
@@ -84,17 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28694"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FWestwood-Roots-Bad-Batch.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Developer Westwood Instruments has released Roots Bad Batch, a free percussion instrument for macOS and Windows. Built as part of the company's Roots series, the software is compiled from unused drum recordings from an old session at Nave Studios in Leeds, England.</p><p>The instrument features six sets of processed drum samples across three blendable kits. Controls include parameters for Trash, Filter, Smack, Echo, Reverb, and Gate, allowing users to shape the sound from subtle crisp character to aggressive tones. It is available in AU, VST, and VST3 formats for macOS 12 and Windows 10 or later.</p>
 <p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/westwood-instruments-releases-roots-bad-batch-a-free-edgy-percussion-instrument-for-macos-and-windows/">bedroomproducersblog.com</a> | <a href="https://www.westwoodinstruments.com/instruments/roots-bad-batch">westwoodinstruments.com</a></p>
-<br clear="all" />
-
-<h2>RC MIX Releases RC Kick and RC Snare 2.0 Plugins</h2>
-<p>RC MIX has launched RC Kick, a dedicated multi-processor channel strip plugin for acoustic kick drums, alongside version 2.0 of its existing RC Snare plugin. Both tools are built to help producers process real acoustic drum tracks efficiently using specialized controls for shaping attack, punch, body, and resonance.</p><p>To coincide with the release, the developer is offering both plugins at a 50 percent discount for Black Friday, lowering the price to $24.50 each through November 30. Existing owners of RC Snare receive the version 2.0 update for free, which introduces new features such as an input gain control, a sweepable high-pass filter, and polarity inversion.</p>
-<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/rc-mix-black-friday/">bedroomproducersblog.com</a> | <a href="https://www.rcmix.studio/">rcmix.studio</a></p>
-<br clear="all" />
-
-<h2>A Sound Effect Launches Wild Black Friday Sale With Discounts Up to 90%</h2>
-<a name="story-28697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzHBYzf6MtdY%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A Sound Effect has launched its Wild Black Friday Sale, offering discounts of up to 90% across more than 3,700 sound libraries, plugins, and virtual instruments. The promotion runs through December 12, 2026, featuring rotating flash deals, free downloadable sound effects, and additional bonus libraries included with purchases.</p><p>Notable discounts during the event include reduced pricing on specialized libraries such as SoundFellas' Fictional Doors and Portals, Rock The Speakerbox's Creature Calls, and complete collections from the Surround Sound LAB and PMSFX. Orders meeting specific spending thresholds qualify for additional free full-length premium sound effect libraries.</p>
-<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/a-sound-effect-black-friday-deals/">bedroomproducersblog.com</a> | <a href="https://www.asoundeffect.com/sale/">asoundeffect.com</a></p>
 <br clear="all" />
 
 ---
