@@ -8,6 +8,18 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Fender Discounts Studio Pro DAW for Black Friday</h2>
+<a name="story-28730"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FFender-studio-pro-deal%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Fender is offering its flagship digital audio workstation, Fender Studio Pro, at a discounted price of £119 down from £169.99 for Black Friday. Built on PreSonus' Studio One platform, the software functions as an all-in-one environment for recording, arranging, mixing, and mastering.</p><p>The DAW incorporates Fender’s Mustang Guitar and Rumble Bass plugins, providing dozens of amp models and effects pedals alongside virtual instruments, stem separation, audio-to-MIDI conversion, and Vocal Tune pitch correction. It also features integration with external platforms like Splice and Moises Studio, plus built-in mastering and live performance tools.</p>
+<p>Nov 27 · <a href="https://musictech.com/news/gear/fender-studio-pro-the-guitar-giants-flagship-daw-is-nearly-30-off-this-black-friday/">musictech.com</a></p>
+<br clear="all" />
+
+<h2>NUSofting Releases Sinnah v2.0 Virtual Synthesizer Plugin</h2>
+<a name="story-28728"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsinnah_graphite_amber.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>NUSofting has released Sinnah v2.0, a major update to its virtual hybrid synthesizer plugin that transitions the software to modern formats. The updated instrument now runs as a VST3 plugin for Windows 10 and 11, and as a native AU and VST3 plugin for macOS 11 and later supporting both Apple Silicon and Intel processors.</p><p>Sinnah features a single complex oscillator with five waveshapes and a resonant delay network per voice instead of a standard filter. Version 2.0 improves CPU efficiency, sample rate consistency, and voice-stealing behavior, while replacing legacy VST2 and Intel-only Mac formats and adopting a name-your-price distribution model.</p>
+<p>Nov 27 · <a href="https://www.kvraudio.com/news/nusofting-releases-sinnah-v2-0---vst3-for-windows-and-native-au-vst3-for-macos-70245?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70245">kvraudio.com</a> | <a href="https://nusofting.net/plugins/sinnah">nusofting.net</a></p>
+<br clear="all" />
+
 <h2>Roland ZENOLOGY Pro Discounted to £90 for Black Friday Sale</h2>
 <a name="story-28727"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FRoland-Zenology-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Roland's ZENOLOGY Pro software synthesizer is available for £90 through Plugin Boutique until December 2, down from its standard price of £204. The desktop plugin emulates the ZEN-Core architecture found in Roland's hardware instruments like the FANTOM and JUPITER-X.</p><p>The instrument combines analogue-style modeling with PCM synthesis, offering more than 3,500 presets, 1,840 PCM waveforms, and 90 effects including classic choruses. It also supports Model Expansions to replicate vintage synths such as the JUPITER-8, JUNO-106, and SH-101, allowing users to transfer patches directly to compatible hardware.</p>
@@ -83,18 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzHBYzf6MtdY%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A Sound Effect has launched its Wild Black Friday Sale, offering discounts of up to 90% across more than 3,700 sound libraries, plugins, and virtual instruments. The promotion runs through December 12, 2026, featuring rotating flash deals, free downloadable sound effects, and additional bonus libraries included with purchases.</p><p>Notable discounts during the event include reduced pricing on specialized libraries such as SoundFellas' Fictional Doors and Portals, Rock The Speakerbox's Creature Calls, and complete collections from the Surround Sound LAB and PMSFX. Orders meeting specific spending thresholds qualify for additional free full-length premium sound effect libraries.</p>
 <p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/a-sound-effect-black-friday-deals/">bedroomproducersblog.com</a> | <a href="https://www.asoundeffect.com/sale/">asoundeffect.com</a></p>
-<br clear="all" />
-
-<h2>HoRNet DynEQ Dynamic Equalizer Available for Free</h2>
-<a name="story-28698"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.projethomestudio.fr%2Fwp-content%2Fuploads%2F2018%2F05%2Ftest-hornet-dyneq-fbook.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>HoRNet Plugins is offering its single-band dynamic equalizer plugin, DynEQ, for free for a limited time. Normally priced at €10.99, the plugin can be claimed by adding it to the cart and completing checkout through a registered HoRNet account.</p><p>DynEQ features a parametric band with frequency, gain, and Q controls spanning 20 Hz to 20 kHz with up to 15 dB of boost or cut. It includes auto-speed and auto-threshold functions and supports 64-bit VST, VST3, AU, and AAX formats on Windows and macOS, including Apple Silicon.</p>
-<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/hornet-dyneq-free-again/">bedroomproducersblog.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-dyneq/">hornetplugins.com</a></p>
-<br clear="all" />
-
-<h2>Newfangled Audio Releases Obliterate 2 Free Distortion Plugin</h2>
-<a name="story-28699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiartist.com%2Fwp-content%2Fuploads%2F2025%2F07%2Fmaxresdefault-11.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Newfangled Audio has released Obliterate 2, a free distortion and filter plugin for macOS and Windows. Building on the extreme resonant algorithms of the original release, version 2 introduces six new saturation modes, a noise generation section, a tuned reverb feature, and morph modulation.</p><p>The update expands the plugin's sound design capabilities by adding analog-style saturation, textured noise layers, and automated A-to-B morphing between different parameter states. Available in major plugin formats, Obliterate 2 requires user account creation and online authorization through the developer's licensing system.</p>
-<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/newfangled-audio-obliterate-2/">bedroomproducersblog.com</a> | <a href="https://www.newfangledaudio.com/obliterate">newfangledaudio.com</a></p>
 <br clear="all" />
 
 ---
