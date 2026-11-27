@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>M-Vave FM-1 Synthesizer Discounted in Black Friday Sale</h2>
+<a name="story-28732"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fm-vave-fm-1-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The pocket-sized, open-source M-Vave FM-1 synthesizer is available at a 20 percent discount on Reverb for Black Friday. The device features six FM operators, 32 algorithms, and compatibility with patches originally created for the Yamaha DX7.</p><p>Released in 2026, the FM-1 has gained widespread attention for its low price and active community firmware ecosystem. User-created projects allow the hardware to function as a groovebox, virtual analog emulator, or generative instrument through custom firmware and software development kits.</p>
+<p>Nov 27 · <a href="https://musictech.com/news/gear/m-vave-fm-1-black-friday-sale/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>Original 1979 Oberheim OB-X Synthesizer Listed on Reverb at Discounted Price</h2>
 <a name="story-28731"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FOberheim-OB-X-on-Reverb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An original 1979 Oberheim OB-X polyphonic analog synthesizer is currently listed on Reverb with a 15% discount, reducing its price from £16,595 to £14,105. Released as Oberheim's first polyphonic synth, the eight-voice instrument features dual VCOs per voice, a 61-key keyboard, and programmable patch memory.</p><p>Only around 800 units of the original OB-X were manufactured before it was discontinued, making surviving hardware rare. The model gained prominence through use by artists such as Rush, Queen, and Madonna during the early 1980s. The current secondhand listing offers the vintage instrument in excellent condition.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28696"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-cover-l%2Cf_auto%2Fp%2F5496157e-44f9-4c24-90c1-82b08114878e%2F2369870890%2Fdrum-kit-drums-free-screenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Smart Audio Plugins is offering its Drum Bus Buddy processor for free exclusively to Bedroom Producers Blog readers through December 3, 2026. Normally priced at $39, the plugin can be obtained by entering a promotional code at checkout with a free Audioloom account.</p><p>The plugin combines three-band saturation and parallel compression in a single layout with separate mix controls for each stage. It features advanced frequency shaping for bass, mid, and high bands, three distinct compressor modes, automatic gain matching, and an optional output limiter for 64-bit VST3, AAX, and AU formats on macOS and Windows.</p>
 <p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/drum-bus-buddy-free/">bedroomproducersblog.com</a> | <a href="https://smartaudioplugins.com/drum-bus-buddy.html">smartaudioplugins.com</a></p>
-<br clear="all" />
-
-<h2>Westwood Instruments Releases Roots Bad Batch Free Percussion Instrument</h2>
-<a name="story-28694"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FWestwood-Roots-Bad-Batch.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Developer Westwood Instruments has released Roots Bad Batch, a free percussion instrument for macOS and Windows. Built as part of the company's Roots series, the software is compiled from unused drum recordings from an old session at Nave Studios in Leeds, England.</p><p>The instrument features six sets of processed drum samples across three blendable kits. Controls include parameters for Trash, Filter, Smack, Echo, Reverb, and Gate, allowing users to shape the sound from subtle crisp character to aggressive tones. It is available in AU, VST, and VST3 formats for macOS 12 and Windows 10 or later.</p>
-<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/westwood-instruments-releases-roots-bad-batch-a-free-edgy-percussion-instrument-for-macos-and-windows/">bedroomproducersblog.com</a> | <a href="https://www.westwoodinstruments.com/instruments/roots-bad-batch">westwoodinstruments.com</a></p>
 <br clear="all" />
 
 ---

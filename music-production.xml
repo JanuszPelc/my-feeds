@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-27T17:43:00+00:00</updated>
+  <updated>2026-11-27T18:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>M-Vave FM-1 Synthesizer Discounted in Black Friday Sale</title>
+    <link href="https://musictech.com/news/gear/m-vave-fm-1-black-friday-sale/" rel="alternate" />
+    <id>https://musictech.com/news/gear/m-vave-fm-1-black-friday-sale/::v241</id>
+    <published>2026-11-27T18:16:00+00:00</published>
+    <updated>2026-11-27T18:16:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fm-vave-fm-1-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/m-vave-fm-1-black-friday-sale/">musictech.com</a></small></p><hr/><p>The pocket-sized, open-source M-Vave FM-1 synthesizer is available at a 20 percent discount on Reverb for Black Friday. The device features six FM operators, 32 algorithms, and compatibility with patches originally created for the Yamaha DX7.</p><p>Released in 2026, the FM-1 has gained widespread attention for its low price and active community firmware ecosystem. User-created projects allow the hardware to function as a groovebox, virtual analog emulator, or generative instrument through custom firmware and software development kits.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fm-vave-fm-1-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 23:17 UTC | #28732</small>]]></content>
+  </entry>
   <entry>
     <title>Original 1979 Oberheim OB-X Synthesizer Listed on Reverb at Discounted Price</title>
     <link href="https://musictech.com/news/gear/oberheim-ob-x-synth-black-friday-reverb-sale/" rel="alternate" />
