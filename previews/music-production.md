@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Roland ZENOLOGY Pro Discounted to £90 for Black Friday Sale</h2>
+<a name="story-28727"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FRoland-Zenology-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Roland's ZENOLOGY Pro software synthesizer is available for £90 through Plugin Boutique until December 2, down from its standard price of £204. The desktop plugin emulates the ZEN-Core architecture found in Roland's hardware instruments like the FANTOM and JUPITER-X.</p><p>The instrument combines analogue-style modeling with PCM synthesis, offering more than 3,500 presets, 1,840 PCM waveforms, and 90 effects including classic choruses. It also supports Model Expansions to replicate vintage synths such as the JUPITER-8, JUNO-106, and SH-101, allowing users to transfer patches directly to compatible hardware.</p>
+<p>Nov 27 · <a href="https://musictech.com/news/gear/rolands-zenology-pro-is-just-90-this-black-friday/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO">pluginboutique.com</a></p>
+<br clear="all" />
+
 <h2>MusicTech Highlights Top Studio Gear of 2026</h2>
 <a name="story-28716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAkai-MPC-Sample-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MusicTech reviewers have selected their favorite hardware and studio equipment of 2026, highlighting a year characterized by affordable synthesizers, innovative microphones, and meaningful product updates.</p><p>The selections include M-Vave’s modifiable FM-1 synth, Shure’s MV360 ambisonic microphone, Expressive E’s Osmose CE controller, and Audient’s next-generation iD audio interfaces, reflecting a broader industry trend toward user-customisable firmware, spatial audio capabilities, and accessible hardware innovation.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiartist.com%2Fwp-content%2Fuploads%2F2025%2F07%2Fmaxresdefault-11.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Newfangled Audio has released Obliterate 2, a free distortion and filter plugin for macOS and Windows. Building on the extreme resonant algorithms of the original release, version 2 introduces six new saturation modes, a noise generation section, a tuned reverb feature, and morph modulation.</p><p>The update expands the plugin's sound design capabilities by adding analog-style saturation, textured noise layers, and automated A-to-B morphing between different parameter states. Available in major plugin formats, Obliterate 2 requires user account creation and online authorization through the developer's licensing system.</p>
 <p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/newfangled-audio-obliterate-2/">bedroomproducersblog.com</a> | <a href="https://www.newfangledaudio.com/obliterate">newfangledaudio.com</a></p>
-<br clear="all" />
-
-<h2>Initial Audio Updates SourceLab to v2.7</h2>
-<a name="story-28679"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsl27-video-thumb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Initial Audio has released version 2.7 of its SourceLab virtual instrument, introducing a new Scale Lock feature and making the wavetable filter available as an effect within the effect rack. The update also adds bank selection directly to the preset drop-down menu and includes an automated notification feature for new software downloads.</p><p>Additional improvements in version 2.7 consist of general performance optimizations for both the user interface and audio engine, reduced memory consumption, and a fix preventing the sample display from unexpectedly zooming out while moving a slice marker. Furthermore, wavetables created in the built-in designer can now be sent straight to the effect rack.</p>
-<p>Nov 26 · <a href="https://www.kvraudio.com/news/initial-audio-updates-sourcelab-to-v2-7-with-scale-lock-and-wavetable-filter-effect-70223?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70223">kvraudio.com</a> | <a href="https://initialaudio.com/sourcelab/">initialaudio.com</a></p>
 <br clear="all" />
 
 ---

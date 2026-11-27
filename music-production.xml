@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-27T13:02:00+00:00</updated>
+  <updated>2026-11-27T17:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Roland ZENOLOGY Pro Discounted to £90 for Black Friday Sale</title>
+    <link href="https://musictech.com/news/gear/rolands-zenology-pro-is-just-90-this-black-friday/" rel="alternate" />
+    <id>https://musictech.com/news/gear/rolands-zenology-pro-is-just-90-this-black-friday/::v241</id>
+    <published>2026-11-27T17:03:00+00:00</published>
+    <updated>2026-11-27T17:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FRoland-Zenology-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/rolands-zenology-pro-is-just-90-this-black-friday/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO">pluginboutique.com</a></small></p><hr/><p>Roland's ZENOLOGY Pro software synthesizer is available for £90 through Plugin Boutique until December 2, down from its standard price of £204. The desktop plugin emulates the ZEN-Core architecture found in Roland's hardware instruments like the FANTOM and JUPITER-X.</p><p>The instrument combines analogue-style modeling with PCM synthesis, offering more than 3,500 presets, 1,840 PCM waveforms, and 90 effects including classic choruses. It also supports Model Expansions to replicate vintage synths such as the JUPITER-8, JUNO-106, and SH-101, allowing users to transfer patches directly to compatible hardware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FRoland-Zenology-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 22:09 UTC | #28727</small>]]></content>
+  </entry>
   <entry>
     <title>MusicTech Highlights Top Studio Gear of 2026</title>
     <link href="https://musictech.com/guides/buyers-guide/musictech-favourite-studio-gear-of-2026/" rel="alternate" />
