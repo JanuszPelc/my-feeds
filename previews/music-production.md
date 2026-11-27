@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>MusicTech Highlights Top Studio Gear of 2026</h2>
+<a name="story-28716"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAkai-MPC-Sample-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>MusicTech reviewers have selected their favorite hardware and studio equipment of 2026, highlighting a year characterized by affordable synthesizers, innovative microphones, and meaningful product updates.</p><p>The selections include M-Vave’s modifiable FM-1 synth, Shure’s MV360 ambisonic microphone, Expressive E’s Osmose CE controller, and Audient’s next-generation iD audio interfaces, reflecting a broader industry trend toward user-customisable firmware, spatial audio capabilities, and accessible hardware innovation.</p>
+<p>Nov 27 · <a href="https://musictech.com/guides/buyers-guide/musictech-favourite-studio-gear-of-2026/">musictech.com</a></p>
+<br clear="all" />
+
 <h2>Sonicbits Updates Exakt FM Synthesizer to Version 1.4</h2>
 <a name="story-28707"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fexakt_ui_1-4-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonicbits has released version 1.4.0 of Exakt, its 4-operator FM synthesizer for Windows and macOS. The update introduces MIDI Polyphonic Expression (MPE) support, compatibility with the CLAP plugin format, and a global transpose control.</p><p>Additional changes include a modernized graphics engine for a sharper interface, 27 new presets with 18 designed for MPE, and improvements to Yamaha SysEx bank imports. The update is free for existing customers, and a demo version is available.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28679"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsl27-video-thumb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Initial Audio has released version 2.7 of its SourceLab virtual instrument, introducing a new Scale Lock feature and making the wavetable filter available as an effect within the effect rack. The update also adds bank selection directly to the preset drop-down menu and includes an automated notification feature for new software downloads.</p><p>Additional improvements in version 2.7 consist of general performance optimizations for both the user interface and audio engine, reduced memory consumption, and a fix preventing the sample display from unexpectedly zooming out while moving a slice marker. Furthermore, wavetables created in the built-in designer can now be sent straight to the effect rack.</p>
 <p>Nov 26 · <a href="https://www.kvraudio.com/news/initial-audio-updates-sourcelab-to-v2-7-with-scale-lock-and-wavetable-filter-effect-70223?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70223">kvraudio.com</a> | <a href="https://initialaudio.com/sourcelab/">initialaudio.com</a></p>
-<br clear="all" />
-
-<h2>HOFA-Plugins Releases Analyzer V3 Spectrum Analyzer and Metering Suite</h2>
-<a name="story-28680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanalyzer-v3-0-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>HOFA-Plugins has released Analyzer V3, a spectrum analysis and metering suite designed for studio and live audio engineering. Available as a standalone application and in VST3, AU, and AAX plugin formats, the software introduces GPU-accelerated filter bank analysis alongside energy and hold curves to track frequency distribution and transient peaks.</p><p>The updated suite includes an expanded library of genre and instrument reference curves, a frequency correlator for stereo width monitoring, and EBU R128 loudness metering tools. Users can customize the workspace layout by arranging and resizing individual modules, manage multiple plugin instances within a single display, and perform offline analysis up to eight times faster than previous versions.</p>
-<p>Nov 26 · <a href="https://www.kvraudio.com/news/hofa-plugins-releases-analyzer-v3---gpu-accelerated-spectrum-analysis-and-metering-in-a-fully-customizable-layout-70206?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70206">kvraudio.com</a> | <a href="https://hofa-plugins.de/en/shop/bundle-en/analyzer-v3-bundle/">hofa-plugins.de</a></p>
 <br clear="all" />
 
 ---
