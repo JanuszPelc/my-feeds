@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>Rockstar UK Workers Vote Against Union Recognition Deal</h2>
 <a name="story-28664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.fatosdesconhecidos.com.br%2Fwp-content%2Fuploads%2F2023%2F12%2Frockstar.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UK employees at Rockstar Games have voted against a formal union recognition deal with the Independent Workers Union of Great Britain (IWGB). Out of 1,544 participating workers representing a 93.2 percent turnout, 75 percent voted to reject the agreement, while 24.7 percent voted in favor.</p><p>The ballot ran from November 12 to November 26, coinciding with the launch of Grand Theft Auto VI. While the rejected deal would have established formal negotiation frameworks for pay, leave, pensions, and AI workplace policies, the union stated that employees remain free to organize and exercise trade union rights without formal management recognition.</p>
-<p>Nov 26 · <a href="https://www.verticalslice.news/rockstar-workers-vote-against-historic-union-recognition-deal/">verticalslice.news</a></p>
+<p>Nov 26 · <a href="https://www.verticalslice.news/rockstar-workers-vote-against-historic-union-recognition-deal/">verticalslice.news</a> | <a href="https://www.reddit.com/r/Games/comments/1y63mnn/75_of_rockstars_workers_have_voted_against/">r/Games</a></p>
 <br clear="all" />
 
 <h2>Grand Theft Auto VI Prompts Households to Share Consoles and Coordinate Playtime</h2>
