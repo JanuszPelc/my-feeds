@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-26T16:34:00+00:00</updated>
+  <updated>2026-11-26T18:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>BPB Releases Microspace Free Convolution Reverb Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/11/26/bpb-microspace/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/11/26/bpb-microspace/::v241</id>
+    <published>2026-11-26T18:57:00+00:00</published>
+    <updated>2026-11-26T18:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.musicguymixing.com%2Fwp-content%2Fuploads%2F2025%2F02%2FImpulse-Response-Reverb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/11/26/bpb-microspace/">bedroomproducersblog.com</a></small></p><hr/><p>Bedroom Producers Blog has released BPB Microspace, a free convolution-based reverb plugin built from impulse responses captured on an Alesis Microverb II hardware unit. The plugin includes all 16 original hardware modes, encompassing small, medium, large, and gated reverb spaces.</p><p>Additional controls include a decay time adjuster with gate-like behavior for classic 1980s snare effects, pre-delay settings, high-pass and low-pass filters, and a "Dirt" parameter that combines sample-rate and bit-depth reduction. Available in VST3 and AU formats for Windows and macOS, the software is distributed as a free download via Gumroad.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.musicguymixing.com%2Fwp-content%2Fuploads%2F2025%2F02%2FImpulse-Response-Reverb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 00:02 UTC | #28669</small>]]></content>
+  </entry>
   <entry>
     <title>Avid Offers Up to 33 Percent Off Pro Tools for Black Friday</title>
     <link href="https://musictech.com/news/gear/avid-pro-tools-2026-sale/" rel="alternate" />

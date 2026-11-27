@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>BPB Releases Microspace Free Convolution Reverb Plugin</h2>
+<a name="story-28669"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.musicguymixing.com%2Fwp-content%2Fuploads%2F2025%2F02%2FImpulse-Response-Reverb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bedroom Producers Blog has released BPB Microspace, a free convolution-based reverb plugin built from impulse responses captured on an Alesis Microverb II hardware unit. The plugin includes all 16 original hardware modes, encompassing small, medium, large, and gated reverb spaces.</p><p>Additional controls include a decay time adjuster with gate-like behavior for classic 1980s snare effects, pre-delay settings, high-pass and low-pass filters, and a "Dirt" parameter that combines sample-rate and bit-depth reduction. Available in VST3 and AU formats for Windows and macOS, the software is distributed as a free download via Gumroad.</p>
+<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/bpb-microspace/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
 <h2>Avid Offers Up to 33 Percent Off Pro Tools for Black Friday</h2>
 <a name="story-28665"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Favid-pro-tools-bf-2026-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Avid is offering discounts of up to 33 percent off annual subscriptions for its Pro Tools audio production software during the Black Friday season. The promotion applies to new one-year paid-upfront purchases across the Artist, Studio, and Ultimate tiers of the digital audio workstation.</p><p>The sale coincides with the recent release of Pro Tools 2026.11, which introduced new tools including the Pro Tools Extensions plugin framework, a local AI-powered Stem Separator, and MIDI Polyphonic Expression support. Subscriptions renew at standard pricing after the initial promotional year.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28629"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6zoFAAG10ks%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>XLN Audio is offering a free drum sample pack titled Buttered Dead Drums, featuring curated WAV audio files derived from the Vintage Dead expansion for Addictive Drums 2. The 36.5 MB collection contains 37 one-shots—including kicks, snares, hi-hats, cymbals, claps, and toms—alongside nine drum loops.</p><p>The included sounds are processed using XLN Audio's DB-30 Drum Butter plugin to enhance punch and character. The sample pack is available as a direct download without requiring user registration.</p>
 <p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/xln-audio-buttered-dead-drums/">bedroomproducersblog.com</a> | <a href="https://www.xlnaudio.com/black_friday_free_samples">xlnaudio.com</a></p>
-<br clear="all" />
-
-<h2>Libre Wave Releases Free Bell &amp; Bone Jazz Trumpet and Trombone Library</h2>
-<a name="story-28630"><img src="https://wsrv.nl/?url=https%3A%2F%2Flibrewave.b-cdn.net%2Fwp-content%2Fuploads%2F2026%2F06%2Fbell_and_bone_trombone_ui.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Libre Wave has released Bell &amp; Bone, a free sample library featuring jazz trumpet and trombone instruments designed for the Rhapsody player on Windows, macOS, and Linux. The library focuses on jazz phrasing with multiple articulations, four mutes including bucket and harmon, and a Performance articulation mode that automatically selects articulations based on playing speed and velocity.</p><p>The instrument utilizes phase-aligned dynamic layers for smooth intensity transitions and rebuilt legato and attack response systems. Users can control vibrato, growl, and flutter in real-time, alongside individual AHDSR envelopes and volume controls for each articulation. The library requires the free Rhapsody player, which supports standalone operation as well as VST3, AU, and AAX plugin formats.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/bell-bone-jazz-trumpet/">bedroomproducersblog.com</a> | <a href="https://librewave.com/product/bell-and-bone/">librewave.com</a></p>
 <br clear="all" />
 
 ---
