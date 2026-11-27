@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-27T10:32:00+00:00</updated>
+  <updated>2026-11-27T18:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Minh-Anh Day Releases BounceMarket Prediction Game</title>
+    <link href="https://bouncemarket.minhanhday.com/" rel="alternate" />
+    <id>https://bouncemarket.minhanhday.com/::v241</id>
+    <published>2026-11-27T18:21:00+00:00</published>
+    <updated>2026-11-27T18:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.drz.lazcdn.com%2Fstatic%2Fpk%2Fp%2F02a43aa04a21842c57223db76ad57a38.jpg_720x720q80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bouncemarket.minhanhday.com/">bouncemarket.minhanhday.com</a> | <a href="https://news.ycombinator.com/item?id=50667726">hacker news</a></small></p><hr/><p>BounceMarket is a points-based prediction game created by developer Minh-Anh Day where players buy shares on opposing Left and Right sides. Share prices dynamically adjust based on purchase volume, and each winning share ultimately pays out one point.</p><p>Built at the Recurse Center, the project features a live balance tracker, a leaderboard, and a reset option. The game allows participants to test prediction strategies using virtual points within a dynamic market environment.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.drz.lazcdn.com%2Fstatic%2Fpk%2Fp%2F02a43aa04a21842c57223db76ad57a38.jpg_720x720q80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 23:40 UTC | #28741</small>]]></content>
+  </entry>
   <entry>
     <title>Counterpoint Research Reports US Smartphone Shipments Fell 9% in Q3 2026</title>
     <link href="https://www.counterpointresearch.com/en/insights/us-smartphone-shipments-fell-9-percent-yoy-as-memory-costs-squeeze-android" rel="alternate" />
@@ -175,14 +184,5 @@
     <updated>2026-11-22T21:21:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife">audubon.org</a> | <a href="https://news.ycombinator.com/item?id=50602843">hacker news</a></small></p><hr/><p>Audubon writer Nicholas Lund tracked down and documented all 60 bird species available in the newly released video game Grand Theft Auto VI, exploring how Rockstar Games recreated South Florida's ecosystems and wildlife mechanics.</p><p>Using in-game binoculars to study birds across coastal wetlands, northern forests, and urban environments, Lund noted both ecological fidelity and geographical quirks, contrasting the virtual birding experience with the franchise's signature chaos.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 03:44 UTC | #28278</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Plans to Retire To Do Apps in June 2027</title>
-    <link href="https://www.geekwire.com/2026/microsoft-to-do-users-make-a-big-to-do-over-popular-task-apps-retirement/" rel="alternate" />
-    <id>https://www.geekwire.com/2026/microsoft-to-do-users-make-a-big-to-do-over-popular-task-apps-retirement/::v241</id>
-    <published>2026-11-21T09:13:00+00:00</published>
-    <updated>2026-11-21T09:13:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-to-do-retirement.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.geekwire.com/2026/microsoft-to-do-users-make-a-big-to-do-over-popular-task-apps-retirement/">geekwire.com</a> | <a href="https://techcommunity.microsoft.com/blog/plannerblog/introducing-unified-tasks-and-plans-for-copilot-and-microsoft-365/4573958">techcommunity.microsoft.com</a></small></p><hr/><p>Microsoft plans to retire its Microsoft To Do apps on June 30, 2027, shifting personal task management for work and school accounts into its team project-management application, Planner. The company disclosed the change during its Ignite announcements, noting that existing To Do tasks and lists will not automatically migrate to Planner.</p><p>The decision drew immediate criticism from users and industry analysts who highlighted missing features in Planner, such as the absence of native desktop apps and support for file attachments on private tasks. Furthermore, Microsoft's documentation states that Planner is unavailable for personal Microsoft accounts, leaving paid M365 Personal and Family subscribers without an announced replacement and prompting competing services to offer migration tools.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.geekwire.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-to-do-retirement.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>21 Nov 2026, 16:29 UTC | #28183</small>]]></content>
   </entry>
 </feed>

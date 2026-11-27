@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Minh-Anh Day Releases BounceMarket Prediction Game</h2>
+<a name="story-28741"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.drz.lazcdn.com%2Fstatic%2Fpk%2Fp%2F02a43aa04a21842c57223db76ad57a38.jpg_720x720q80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>BounceMarket is a points-based prediction game created by developer Minh-Anh Day where players buy shares on opposing Left and Right sides. Share prices dynamically adjust based on purchase volume, and each winning share ultimately pays out one point.</p><p>Built at the Recurse Center, the project features a live balance tracker, a leaderboard, and a reset option. The game allows participants to test prediction strategies using virtual points within a dynamic market environment.</p>
+<p>Nov 27 · <a href="https://bouncemarket.minhanhday.com/">bouncemarket.minhanhday.com</a> | <a href="https://news.ycombinator.com/item?id=50667726">hacker news</a></p>
+<br clear="all" />
+
 <h2>Counterpoint Research Reports US Smartphone Shipments Fell 9% in Q3 2026</h2>
 <a name="story-28690"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.counterpointresearch.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fstatic.counterpointresearch.com%252Fstatics%252Fimages%252Fadmin%252F87ff7fe0-e99a-11f1-b3f3-dbeebef6e421.png%26w%3D1200%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>United States smartphone shipments declined 9% year-over-year in the third quarter of 2026, driven by rising memory costs that heavily impacted low-end Android original equipment manufacturers. Apple was the sole major manufacturer to avoid a shipment decline, pushing its market share up to 57%.</p><p>Samsung maintained 25% of the market, while Motorola's share fell to 8% due to component cost pressures on its budget portfolio. Sales across the major three U.S. carriers dropped 4% year-over-year, and analysts expect elevated memory prices and persistent retail price increases to constrain demand through the fourth-quarter holiday season.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28362"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkajabi-storefronts-production.kajabi-cdn.com%2Fkajabi-storefronts-production%2Ffile-uploads%2Fsites%2F125332%2Fimages%2Fd6debd7-dcc0-a2c-eaa6-cf011553eda_ae8ea7b4-7811-4f5d-ba41-cdf92dbd668b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Epic Games has reversed its previous strategy and will completely remove Blueprints and the Actor Gameplay Framework from Unreal Engine 6 at launch rather than phasing them out over time. Instead, the engine will center around Verse and a Scene Graph architecture, with Epic citing rapid advancements in AI tooling to automate or assist project conversion from Unreal Engine 5.</p><p>The decision represents a major shift for developers heavily reliant on Blueprints, which are widely utilized across the industry for scripting and game logic. Industry figures have noted that the pivot toward an AI-driven, prompt-based paradigm complicates cross-disciplinary collaboration, prompting some studios to announce plans to remain on Unreal Engine 5.</p>
 <p>Nov 23 · <a href="https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning">gamedeveloper.com</a> | <a href="https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6">unrealengine.com</a></p>
-<br clear="all" />
-
-<h2>CyberLeek Releases Executable Files for Alleged GTA 6 Xbox Build</h2>
-<a name="story-28355"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcQcSdknvThM%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The hacking group CyberLeek has released an executable program file intended to complete a previously leaked Xbox build of Grand Theft Auto 6. The group claims the new file will enable the open-source modding community to begin recompiling the unreleased game to run on a PC.</p><p>Open-source modding projects, including Leonida, have begun examining the files and using AI tools to attempt reverse-engineering a Windows-compatible port. Meanwhile, Rockstar Games and Take-Two Interactive have not commented on the leaks, while an official PC version of the game is widely rumored for release next year.</p>
-<p>Nov 23 · <a href="https://www.pcmag.com/news/gta-6-leaker-releases-all-files-for-alleged-xbox-build-of-game">pcmag.com</a> | <a href="https://www.reddit.com/r/pcgaming/comments/1y3o7eg/gta_6_leaker_cyberleek_reportedly_releases_exe/">r/pcgaming</a></p>
 <br clear="all" />
 
 ---
