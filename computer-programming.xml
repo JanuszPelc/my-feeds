@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T23:50:00+00:00</updated>
+  <updated>2026-11-26T23:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>YouTube Ad Punisher Browser Extension Released on GitHub</title>
+    <link href="https://github.com/antonpictures/youtube-punisher" rel="alternate" />
+    <id>https://github.com/antonpictures/youtube-punisher::v241</id>
+    <published>2026-11-26T23:52:00+00:00</published>
+    <updated>2026-11-26T23:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fyoutube-mobile-interface-you-tube-screen-social-media-video-hosting-interface-template-homepage-logo-recommendations-subscription-profile-dark-theme-editorial-illustration_661108-11025.jpg%3Fw%3D996&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/antonpictures/youtube-punisher">github.com</a> | <a href="https://news.ycombinator.com/item?id=50657530">hacker news</a></small></p><hr/><p>YouTube Ad Punisher is an open-source Manifest V3 browser extension for Chrome and compatible browsers that automatically reloads YouTube pages when advertisements appear, capturing the current playback timestamp to resume seamlessly. Designed as a passive workaround against ad-detection systems, the tool forces a re-evaluation of ad slots to clear advertisements while locally logging ad metadata with JSON and CSV export capabilities.</p><p>Created by George Anton, the extension operates primarily through client-side reloads and includes a fallback redirection to an ad-free mirror after multiple failed attempts. Unlike traditional ad blockers that filter network requests, this approach bypasses standard anti-adblock warnings without relying on external filter lists, maintaining local data privacy with no telemetry.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fyoutube-mobile-interface-you-tube-screen-social-media-video-hosting-interface-template-homepage-logo-recommendations-subscription-profile-dark-theme-editorial-illustration_661108-11025.jpg%3Fw%3D996&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 10:20 UTC | #28703</small>]]></content>
+  </entry>
   <entry>
     <title>AMD-Specific Llama.cpp Fork Delivers Performance Boosts</title>
     <link href="https://devnull.land/amd-specific-llama-cpp" rel="alternate" />
