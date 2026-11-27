@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T23:47:00+00:00</updated>
+  <updated>2026-11-26T23:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>AMD-Specific Llama.cpp Fork Delivers Performance Boosts</title>
+    <link href="https://devnull.land/amd-specific-llama-cpp" rel="alternate" />
+    <id>https://devnull.land/amd-specific-llama-cpp::v241</id>
+    <published>2026-11-26T23:50:00+00:00</published>
+    <updated>2026-11-26T23:50:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fguiadeti.com.br%2Fmedia%2FCACHE%2Fimages%2Flibrary%2F2026%2F11%2Fmaestro3-7de9038f5d024fb89caa4b9cf20139c3-cover_image%2F069a599b86c9a37e9116cc86b461f7e1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://devnull.land/amd-specific-llama-cpp">devnull.land</a> | <a href="https://github.com/stew675/llama-cpp-rdna-boosts">github.com</a> | <a href="https://news.ycombinator.com/item?id=50657265">hacker news</a></small></p><hr/><p>An evaluation of the llama-cpp-rdna-boosts project highlights its effectiveness in improving local large language model inference speeds on AMD graphics hardware. The repository provides a minimal set of performance patches applied against a pinned upstream commit of llama.cpp, targeting RDNA architectures with optimizations like MTP decode and fused MoE paths.</p><p>Running the patched setup via pre-built ROCm container images significantly improved benchmark metrics on an AMD R9700 setup, increasing prefill speed from approximately 700 to 1300 tokens per second and token generation from 35 to 55 tokens per second. This targeted approach contrasts with heavier or more opaque generalist inference forks by maintaining a lean codebase built directly on top of upstream llama.cpp development.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fguiadeti.com.br%2Fmedia%2FCACHE%2Fimages%2Flibrary%2F2026%2F11%2Fmaestro3-7de9038f5d024fb89caa4b9cf20139c3-cover_image%2F069a599b86c9a37e9116cc86b461f7e1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 10:09 UTC | #28702</small>]]></content>
+  </entry>
   <entry>
     <title>Blaine Hansen Proposes Mainstream Verifiable Languages to Counter LLM Software Quality Crisis</title>
     <link href="https://blainehansen.me/post/mainstream-verifiable-language/" rel="alternate" />
