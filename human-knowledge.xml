@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-27T14:28:00+00:00</updated>
+  <updated>2026-11-27T14:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Dr. Arne Babenhauserheide Proposes Measures to Curb AI Impact on EU Software Development</title>
+    <link href="https://www.draketo.de/software/curb-ai-impact" rel="alternate" />
+    <id>https://www.draketo.de/software/curb-ai-impact::v241</id>
+    <published>2026-11-27T14:33:00+00:00</published>
+    <updated>2026-11-27T14:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fregolo.ai%2Fwp-content%2Fuploads%2F2026%2F02%2FScreenshot-2026-02-22-alle-08.09.56.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.draketo.de/software/curb-ai-impact">draketo.de</a> | <a href="https://lobste.rs/s/lmxpfo/curb_impacts_ai_on_programming_maintain">lobsters</a></small></p><hr/><p>Dr. Arne Babenhauserheide has published an essay exploring how the European Union can maintain competitiveness in software development if the US and China monopolize large language model infrastructure. He discusses potential low-cost strategies to limit dependency on AI tools and invites community input on resilient development practices.</p><p>The author argues that even if the broader AI market experiences a downturn, implementing these foundational improvements will permanently benefit software development. He suggests directing at least one percent of corporate AI funding toward these protective measures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fregolo.ai%2Fwp-content%2Fuploads%2F2026%2F02%2FScreenshot-2026-02-22-alle-08.09.56.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 21:13 UTC | #28738</small>]]></content>
+  </entry>
   <entry>
     <title>University of Surrey Researcher Uses Mathematical Modelling to Personalize Sleep Predictions</title>
     <link href="https://theconversation.com/dreaming-of-better-sleep-personalised-mathematical-modelling-may-help-turn-that-dream-into-reality-296324" rel="alternate" />
