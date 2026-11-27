@@ -3,9 +3,17 @@
   <title>top-stories</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml</id>
-  <updated>2026-11-27T08:08:00+00:00</updated>
+  <updated>2026-11-27T09:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/top-stories.png?v=340-75-50</logo>
+  <entry>
+    <title>Talkie AI Chatbot Platform Exposed for Exposing Children to Abusive and Sexualised Content</title>
+    <link href="https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children" rel="alternate" />
+    <id>https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children::v241</id>
+    <published>2026-11-27T09:25:00+00:00</published>
+    <updated>2026-11-27T09:25:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children">thebureauinvestigates.com</a></small></p><hr/><p>An investigation reveals that Talkie, an AI roleplay chatbot app owned by Chinese company MiniMax and downloaded tens of millions of times, has exposed children to degrading language, aggressive romantic roleplay, and sexualised scenarios. While China prohibits virtual partners for minors domestically, its firms continue to offer these features internationally, prompting Apple to remove Talkie from its App Store worldwide following an inquiry.</p><p>The findings highlight growing global concern over AI companion apps and their impact on young users, alongside privacy and data security risks associated with foreign-owned platforms. Although countries like Australia and the UK are advancing legislation to curb online harms and regulate AI chatbots, current and proposed regulations leave significant loopholes that allow children to access platforms where they can form intense emotional dependencies on AI characters.</p><hr/><small>26 Nov 2026, 11:30 UTC | #28606 | r,ht</small>]]></content>
+  </entry>
   <entry>
     <title>US Court Rules Against Amazon in CPSC Product Recall Lawsuit</title>
     <link href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc" rel="alternate" />
