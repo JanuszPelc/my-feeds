@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-27T10:30:00+00:00</updated>
+  <updated>2026-11-27T14:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>University of Surrey Researcher Uses Mathematical Modelling to Personalize Sleep Predictions</title>
+    <link href="https://theconversation.com/dreaming-of-better-sleep-personalised-mathematical-modelling-may-help-turn-that-dream-into-reality-296324" rel="alternate" />
+    <id>https://theconversation.com/dreaming-of-better-sleep-personalised-mathematical-modelling-may-help-turn-that-dream-into-reality-296324::v241</id>
+    <published>2026-11-27T14:28:00+00:00</published>
+    <updated>2026-11-27T14:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772785%2Foriginal%2Ffile-20261118-78-94abyx.png%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/dreaming-of-better-sleep-personalised-mathematical-modelling-may-help-turn-that-dream-into-reality-296324">theconversation.com</a> | <a href="https://www.surrey.ac.uk/news/using-maths-improve-sleep-surrey-phd-graduate-reaches-national-three-minute-thesis-final">surrey.ac.uk</a></small></p><hr/><p>Mathematical models of sleep regulation are being adapted to account for individual differences in sleep timing and brain activity cycles. By analyzing and restructuring the geometric components of existing sleep models, researchers can better simulate diverse sleep patterns, ranging from extreme night-owl tendencies to disrupted rapid eye movement cycles.</p><p>This research supports the development of digital calibration tools designed to help individuals predict how specific lifestyle modifications, such as morning light exposure, impact their rest. These personalized simulations aim to move beyond generic sleep advice and provide tailored strategies for improving sleep health.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F772785%2Foriginal%2Ffile-20261118-78-94abyx.png%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 19:33 UTC | #28719</small>]]></content>
+  </entry>
   <entry>
     <title>Connor Panter Study Examines Climate Change Impact on Britain’s Birds of Prey</title>
     <link href="https://theconversation.com/climate-change-could-dramatically-alter-habitats-for-britains-birds-of-prey-new-research-297611" rel="alternate" />
