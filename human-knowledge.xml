@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-26T15:18:00+00:00</updated>
+  <updated>2026-11-26T20:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Diseases Cured by AI Website Tracks Zero Approved Treatments</title>
+    <link href="https://diseasescuredbyai.com/" rel="alternate" />
+    <id>https://diseasescuredbyai.com/::v241</id>
+    <published>2026-11-26T20:07:00+00:00</published>
+    <updated>2026-11-26T20:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpharmacally.com%2Fwp-content%2Fuploads%2Felementor%2Fthumbs%2FChatGPT-Image-Sep-11-2026-02_13_51-PM-rt8o1zgwu6claqo9t8dmdve68pb2wxyitc676hk2uc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://diseasescuredbyai.com/">diseasescuredbyai.com</a> | <a href="https://news.ycombinator.com/item?id=50657307">hacker news</a></small></p><hr/><p>The tracking platform diseasescuredbyai.com reports that zero diseases have been cured by AI-discovered treatments as of November 2026, with no AI-designed drugs having yet received regulatory approval from the FDA or EMA. While billions of dollars flow into the AI drug-discovery market and over a hundred candidates have entered clinical trials, none have met the strict criteria of an AI-chosen target and molecule, regulatory approval, and a durable cure.</p><p>The database highlights candidates closest to breaking the zero threshold, including Insilico Medicine's rentosertib, which advanced to Phase III clinical trials for idiopathic pulmonary fibrosis, and Takeda and Nimbus's zasocitinib, which faces an FDA review decision in early 2027. These developments represent advances in treatment and symptom management rather than complete cures, contrasting with optimistic timelines broadcast by industry executives predicting the elimination of major diseases within a decade.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpharmacally.com%2Fwp-content%2Fuploads%2Felementor%2Fthumbs%2FChatGPT-Image-Sep-11-2026-02_13_51-PM-rt8o1zgwu6claqo9t8dmdve68pb2wxyitc676hk2uc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 01:57 UTC | #28684</small>]]></content>
+  </entry>
   <entry>
     <title>Study Shows Stone-Age Humans Needed Water and Workable Stone to Cross Arabia</title>
     <link href="https://theconversation.com/to-move-across-arabia-stone-age-humans-needed-both-water-and-the-right-kinds-of-rock-296900" rel="alternate" />

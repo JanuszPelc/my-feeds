@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Avicena Raises Over $100 Million in Series C Funding for MicroLED Optical Interconnects</h2>
+<p>Avicena has secured over $100 million in a Series C funding round led by InterVest, with participation from investors including Tiger Global, SK hynix Ventures, Samsung Catalyst Fund, and AMD Ventures. Alongside the funding, the Sunnyvale startup appointed Kevin Pope as its new chief executive officer to succeed Marco Chisari as the company prepares to commercialize its technology next year.</p><p>The company develops the LightBundle platform, which utilizes dense arrays of microLEDs and silicon photodetectors connected by multicore fiber to transfer data between AI accelerators, memory, and switches without requiring lasers. Avicena began shipping 1Tbps evaluation kits earlier in the year and plans to use the new capital for product development, engineering, and hiring as memory and interconnect bottlenecks remain critical to expanding AI infrastructure.</p>
+<p>Nov 26 · <a href="https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai">thenextweb.com</a> | <a href="https://avicena.tech/avicena-raises-100-million-series-c-to-accelerate-commercialization-of-microled-optical-interconnects-for-ai-infrastructure/">avicena.tech</a></p>
+<br clear="all" />
+
 <h2>S&amp;P 500 Software and Semiconductor Subindices Shift Amid AI Market Rotation</h2>
 <a name="story-28619"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21Z8X-%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c3f37e3-4182-4844-be28-638f0c16de41_4164x2968.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The S&amp;P 500 software and semiconductor subindices are both down slightly year-to-date, reflecting a shifting market narrative around artificial intelligence. Software shares have outperformed semiconductors as investors rethink potential winners and losers within the technology sector.</p><p>This performance shift brings semiconductor and software valuations nearly neck-and-neck as market participants rotate capital away from previous high-flying chip stocks. Analysts note that the evolving sentiment highlights broader adjustments in how investors assess AI-driven disruption and commercial viability across different technology segments.</p>
@@ -89,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28333"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHI1d0b6WsAA-Oo5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Amazon has agreed to acquire key assets of artificial intelligence startup Decart, including the Decart Optimization Stack, its founding team, and its AI researchers, for approximately $7.5 billion. The transaction aims to bolster the cloud-computing giant's internal AI infrastructure and technical capabilities.</p><p>Decart previously raised $300 million to develop real-time world models designed to run efficiently on Amazon's chips. The acquisition integrates specialized optimization tools and engineering talent into Amazon's operations as major technology companies compete to scale advanced artificial intelligence workloads.</p>
 <p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech">bloomberg.com</a></p>
-<br clear="all" />
-
-<h2>Marlowe Raises $277 Million to Develop Non-Nvidia AI Infrastructure</h2>
-<a name="story-28309"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiELbkCdQ34XE%2Fv2%2F-1x-1.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Marlowe, a six-month-old startup co-founded by two former Microsoft vice presidents, has raised $277 million in a seed funding round led by Accel. The investment values the company at $1.15 billion and is intended to support the development of cloud infrastructure and performance tools designed to optimize AI hardware from competitors of Nvidia.</p><p>The company aims to provide high-performance alternatives to Nvidia's dominant market share by building infrastructure specifically around AMD accelerators and other non-Nvidia chips. Marlowe plans to open its first data center by the end of 2026 to facilitate these infrastructure offerings.</p>
-<p>Nov 23 · <a href="https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips">bloomberg.com</a></p>
 <br clear="all" />
 
 ---

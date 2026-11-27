@@ -3,9 +3,17 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-26T11:13:00+00:00</updated>
+  <updated>2026-11-26T20:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Avicena Raises Over $100 Million in Series C Funding for MicroLED Optical Interconnects</title>
+    <link href="https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai" rel="alternate" />
+    <id>https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai::v241</id>
+    <published>2026-11-26T20:06:00+00:00</published>
+    <updated>2026-11-26T20:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai">thenextweb.com</a> | <a href="https://avicena.tech/avicena-raises-100-million-series-c-to-accelerate-commercialization-of-microled-optical-interconnects-for-ai-infrastructure/">avicena.tech</a></small></p><hr/><p>Avicena has secured over $100 million in a Series C funding round led by InterVest, with participation from investors including Tiger Global, SK hynix Ventures, Samsung Catalyst Fund, and AMD Ventures. Alongside the funding, the Sunnyvale startup appointed Kevin Pope as its new chief executive officer to succeed Marco Chisari as the company prepares to commercialize its technology next year.</p><p>The company develops the LightBundle platform, which utilizes dense arrays of microLEDs and silicon photodetectors connected by multicore fiber to transfer data between AI accelerators, memory, and switches without requiring lasers. Avicena began shipping 1Tbps evaluation kits earlier in the year and plans to use the new capital for product development, engineering, and hiring as memory and interconnect bottlenecks remain critical to expanding AI infrastructure.</p><hr/><small>27 Nov 2026, 01:55 UTC | #28663</small>]]></content>
+  </entry>
   <entry>
     <title>S&amp;P 500 Software and Semiconductor Subindices Shift Amid AI Market Rotation</title>
     <link href="https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65" rel="alternate" />
