@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-27T09:38:00+00:00</updated>
+  <updated>2026-11-27T11:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Foreign Investors Offload Record $33.1 Billion in Taiwanese Stocks Amid AI Sell-Off</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout::v241</id>
+    <published>2026-11-27T11:01:00+00:00</published>
+    <updated>2026-11-27T11:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.moneycontrol.com%2Fstatic-mcnews%2F2026%2F05%2F20260531135737_anishaa-3005263.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout">bloomberg.com</a></small></p><hr/><p>Foreign investors sold a record net $33.1 billion of Taiwanese stocks in November, surpassing the previous month's outflow amid escalating valuation fears surrounding artificial intelligence. The sharp capital flight reflects a broader correction across technology equities as global markets reevaluate high tech valuations.</p><p>As a critical hub for semiconductor manufacturing and global AI hardware supply chains, Taiwan's market functions as a key bellwether for the sector. The sustained outflows underscore growing caution among institutional funds regarding capital expenditure returns and tech sector cash-burn risks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.moneycontrol.com%2Fstatic-mcnews%2F2026%2F05%2F20260531135737_anishaa-3005263.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 17:31 UTC | #28693</small>]]></content>
+  </entry>
   <entry>
     <title>Liam Galvin Introduces Emoji Coefficient for Measuring Company Culture</title>
     <link href="https://lia.mg/posts/measuring-company-culture-with-slack-emoji/" rel="alternate" />
