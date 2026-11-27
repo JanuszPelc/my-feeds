@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Open Source Projects Develop Decentralized Email Alternatives to Counter Corporate Consolidation</title>
+    <link href="https://www.linux-magazine.com/Online/Features/Taking-Email-Back" rel="alternate" />
+    <id>https://www.linux-magazine.com/Online/Features/Taking-Email-Back::v241</id>
+    <published>2026-11-26T20:15:00+00:00</published>
+    <updated>2026-11-26T20:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.youstable.com%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2FWhat-Self-Hosting-Email-Means.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.linux-magazine.com/Online/Features/Taking-Email-Back">linux-magazine.com</a> | <a href="https://lobste.rs/s/afxeri/taking_email_back">lobsters</a></small></p><hr/><p>European-funded open source initiatives are developing modular software solutions to counter the corporate consolidation of email hosting. While major providers like Google and Microsoft increasingly dominate the market for business and enterprise domains, projects such as the Stalwart mail server, the Parula client, and the Aerogramme storage engine aim to make self-hosting and distributed email infrastructure viable again.</p><p>Supported by the European Union's NGI Zero programs, these independent tools address the historical complexities of running decentralized mail by streamlining configurations, supporting diverse communication protocols, and integrating with distributed object storage. These developments coincide with renewed efforts by public institutions, such as the Dutch government, to transition their digital infrastructure away from reliance on major US cloud providers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.youstable.com%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2FWhat-Self-Hosting-Email-Means.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 03:40 UTC | #28688</small>]]></content>
+  </entry>
+  <entry>
     <title>Garage v2.6.0 Released with Web Administration UI and v1.x End-of-Life</title>
     <link href="https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/" rel="alternate" />
     <id>https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/::v241</id>
